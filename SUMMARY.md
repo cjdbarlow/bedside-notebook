@@ -4,20 +4,21 @@
 
 ## Assessment
 
-* [Systems Approach](assessment\systems-approach.md)
 * [Physician Approach](assessment\physician-approach.md)
-* [Examination](assessment\examination.md)
+* [Clinical Examination](assessment\examination.md)
   * [Neurological Exam](assessment\neurological-exam.md)
 
-## Systems
+## Systems Approach
 
 * [Airway](systems\airway.md)
 
-## Disease
+## Pathology
+
+## Anaesthesia
+
+* [Epidural](anaesthesia/epidural.md)
 
 ## Intraoperative Management
-
-* [Hypotension](intraoperative-management/hypotension.md)
 
 ## Perioperative Management
 
@@ -27,5 +28,5 @@
 
 ## Procedures
 
-* [Epidural Catheter](procedures/epidural_insertion.md)
+* [Epidural Catheters](procedures/epidural_insertion.md)
 
