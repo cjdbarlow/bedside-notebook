@@ -3,19 +3,27 @@
 * [Introduction](README.md)
 
 ## Assessment
-* [Assessment](chapter1.md)
-    * [Systems Approach](systems-approach.md)
-    * [Physician Approach](physician-approach.md)
-    * [Examination](examination.md)
-        * [Neurological Exam](neurological-exam.md)
+
+* [Assessment]
+  * [Systems Approach](assessment\systems-approach.md)
+  * [Physician Approach](assessment\physician-approach.md)
+  * [Examination](assessment\examination.md)
+    * [Neurological Exam](assessment\neurological-exam.md)
 
 ## Systems
-* [Systems](systems.md)
-    * Airway
 
-## Perioperative Management
-* [Diabetes](diabetes.md)
+* [Systems](systems.md)
+  * Airway
 
 ## Intraoperative Management
-* Hypotension
+
+* [Hypotension](intraoperative-management/hypotension.md)
+
+## Perioperative Management
+
+
+
+
+
+
 
