@@ -9,5 +9,6 @@
         * Preparation
         * Procedure
         * Post
+* Removal
 * Complications
     * Management
