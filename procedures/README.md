@@ -1,4 +1,5 @@
 * Overview
+* Risks
 * Indications
 * Contraindications
 * Insertion
