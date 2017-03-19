@@ -34,10 +34,11 @@ Affected by:
 Absolute contraindications:
 * Patient refusal
 * Coagulopathy  
-Coagulation studies be performed prior to insertion, and should demonstrate:
-    * Normal APTT
-    * Normal INR
-    * Platelets > 80 x 10<sup>12</sup>/L
+    * Epidural should be withheld in patients with pre-existing coagulopathy where intraoperative heparin administration is planned.
+    * Coagulation studies be performed prior to insertion, and should demonstrate:
+        * Normal APTT
+        * INR < 1.5
+        * Platelets > 80 x 10<sup>12</sup>/L
 * Presence of anticoagulants  
 See table below.
 * Sepsis
@@ -51,15 +52,19 @@ Relative contraindications:
 |--|--|--|
 |**Heparin** <br>5,000 Units S/C|6 hours.|6 hours.|
 |**Heparin** Infusion|6 hours since cessation, and a normal APTT.|Restart 8 hours after infusion, or 24 hours if bloody tap.|
-|**Enoxaparin** (prophylactic)|
-|**Enoxaparin** (therapeutic)|
+|**Heparin** IV intraoperative|Removal > 4 hours after last dose.|1 hour between placement and first dose.
+|**Enoxaparin** (prophylactic)|12 hours, 24 hours post-operative.|2 hours|
+|**Enoxaparin** (therapeutic)|24 hours.|2 hours|
 |**Warfarin**|INR < 1.5 prior to insertion. Warfarin cannot be used with an epidural in situ - use UFH.|INR < 1.5 prior to removal.|
-|**Aspirin**|-|-|
+|**Aspirin**|2-3 days prior to cervical/thoracic epidural placement.|-|
 |**NSAIDs**|-|-|
-|**Clopidogrel**|Should not be initiated with epidural in situ.|
+|**Clopidogrel**|7 days for insertion. Should not be initiated with epidural in situ.|
 |**Rivaroxaban**|At least 2 days.|6 hours.
 |**GPIIb/IIIa inhibitors**|At least 2 days. Seek expert advice.|Seek expert advice.
+|**Dabigatran**|48 hours||
+|**Thrombin inhibitors** including bivalirudin, lepirudin|Avoid. Seek expert advice.|Seek expert advice.
 |**Thrombolytics**|10 days.|Measure fibrinogen level prior to removal. Seek expert advice.|
+|**Herbal** including garglic, gingseng, and gingo bilboa|-|-|
 
 
 ##Insertion
