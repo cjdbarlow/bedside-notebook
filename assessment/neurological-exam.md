@@ -20,7 +20,8 @@ The neurological exam comes in several flavours, depending on the patient:
     * Rapid movements
     * Power
 
-Upper versus Lower Motor Neuron Lesions
+Upper versus Lower Motor Neuron Lesions:
+
 |Finding|UMN|LMN|
 |--|--|--|
 |Atrophy|No|Yes
