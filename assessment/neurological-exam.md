@@ -1,5 +1,5 @@
 #Neurological Examination
-The neurological exam comes in several flavours:
+The neurological exam comes in several flavours, depending on the patient:
 * Paralysed
 * Unconscious
 * Uncooperative
