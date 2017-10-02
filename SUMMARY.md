@@ -6,9 +6,10 @@
 * [Airway](systems\airway.md)
 
 ---
-
+* [Pre-Anaesthetic]
+* [Intraoperative]
+* [Trauma]
 * [Physician Approach](assessment\physician-approach.md)
-* [Clinical Examination](assessment\examination.md)
   * [Full Neurological Exam](assessment\neurological-exam.md)
 
 
