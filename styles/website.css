@@ -1,0 +1,40 @@
+/* CSS for website */
+
+@font-face {
+    font-family: 'xkcd';
+    src: url('Humor-Sans.ttf');
+}
+
+div.graphs {
+    font-family: 'xkcd', sans-serif;
+    font-size: 16px;
+    color: #333;
+    text-align: center;
+    margin-top: 75px;
+}
+
+text.title {
+    font-size: 20px;
+}
+
+path {
+    fill: none;
+    stroke-width: 2.5px;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
+
+path.axis {
+    stroke: black;
+}
+
+path.bgline {
+    stroke: white;
+    stroke-width: 6px;
+}
+
+.markdown-section table {
+    table-layout: fixed;
+    display:block;
+    overflow-x: auto;
+}
