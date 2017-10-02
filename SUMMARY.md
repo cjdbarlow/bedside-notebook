@@ -3,15 +3,16 @@
 * [Introduction](README.md)
 
 ## Assessment
+
 * [Airway](systems\airway.md)
 
 ---
-* [Pre-Anaesthetic]
-* [Intraoperative]
-* [Trauma]
+
+* [Pre-Anaesthetic](assessment/pre-anaesthetic.md)
+* [Intraoperative](assessment/intraoperative.md)
+* [Trauma](assessment/trauma.md)
 * [Physician Approach](assessment\physician-approach.md)
   * [Full Neurological Exam](assessment\neurological-exam.md)
-
 
 ## Anaesthesia
 
@@ -19,7 +20,6 @@
 
 ## Intensive Care Medicine
 
-## Expedition Medicine
 
 ## Pathology
 
