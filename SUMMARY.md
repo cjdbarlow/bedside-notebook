@@ -9,7 +9,7 @@
 
 * [Physician Approach](assessment\physician-approach.md)
 * [Clinical Examination](assessment\examination.md)
-  * [Neurological Exam](assessment\neurological-exam.md)
+  * [Full Neurological Exam](assessment\neurological-exam.md)
 
 
 ## Anaesthesia
