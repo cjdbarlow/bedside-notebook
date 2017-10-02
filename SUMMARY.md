@@ -3,28 +3,24 @@
 * [Introduction](README.md)
 
 ## Assessment
+* [Airway](systems\airway.md)
+
+---
 
 * [Physician Approach](assessment\physician-approach.md)
 * [Clinical Examination](assessment\examination.md)
   * [Neurological Exam](assessment\neurological-exam.md)
 
-## Systems Approach
-
-* [Airway](systems\airway.md)
-
-## Pathology
 
 ## Anaesthesia
 
 * [Epidural](anaesthesia/epidural.md)
 
-## Intraoperative Management
-
-## Perioperative Management
-
-## Intensive Care Management
+## Intensive Care Medicine
 
 ## Expedition Medicine
+
+## Pathology
 
 ## Procedures
 
