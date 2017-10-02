@@ -1,0 +1,29 @@
+{
+"title": "Part One",
+
+
+
+"description": "Notes for the CICM and ANZCA Primary Exams",
+
+
+    "plugins": [
+        "mathjax",
+        "wide",
+        "ungrey",
+        "expandable-chapters-small",
+        "git-author"
+    ],
+    "pluginsConfig": {
+          "git-author": {
+              "position": "bottom",
+              "modifyTpl": "Last updated {timeStamp}",
+              "createTpl": false,
+              "timeStampFormat": "YYYY-MM-DD"
+          }
+    }
+
+
+ 
+
+
+}
