@@ -13,6 +13,19 @@
 * [Trauma](assessment/trauma.md)
 * [Physician Approach](assessment\physician-approach.md)
   * [Full Neurological Exam](assessment\neurological-exam.md)
+  
+##Management
+* Airway
+  * Basic Airway Management
+  * Difficult Airway Management
+    * Jet ventilation
+    * Cricothyrotomy
+* Breathing
+  * Mechanical Ventilation
+    * Modes
+  * One Lung Ventilation
+* Circulation
+  * ALS
 
 ## Anaesthesia
 
