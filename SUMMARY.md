@@ -34,7 +34,7 @@
 
 ## Intensive Care Medicine
 
-## Pathology
+## Disease
 
 ## Procedures
 
