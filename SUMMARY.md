@@ -13,12 +13,13 @@
 * [Trauma](assessment/trauma.md)
 * [Physician Approach](assessment\physician-approach.md)
   * [Full Neurological Exam](assessment\neurological-exam.md)
-  
-##Management
+
+## Management
+
 * Airway
   * Basic Airway Management
   * Difficult Airway Management
-    * Jet ventilation
+    * [Jet ventilation](management/airway/jet-ventilation.md)
     * Cricothyrotomy
 * Breathing
   * Mechanical Ventilation
@@ -32,7 +33,6 @@
 * [Epidural](anaesthesia/epidural.md)
 
 ## Intensive Care Medicine
-
 
 ## Pathology
 
