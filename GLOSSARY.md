@@ -18,6 +18,9 @@ Anti-Diuretic Hormone
 ##ANP
 Atrial Natriuretic Peptide
 
+##Anchoring Bias
+Prematurely settling on a single diagnosis, and failing to adjust that diagnosis as new information becomes available.
+
 ##ATP
 Adenosine Triphosphate
 
