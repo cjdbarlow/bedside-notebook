@@ -1,18 +1,5 @@
 /* CSS for website */
 
-@font-face {
-    font-family: 'xkcd';
-    src: url('Humor-Sans.ttf');
-}
-
-div.graphs {
-    font-family: 'xkcd', sans-serif;
-    font-size: 16px;
-    color: #333;
-    text-align: center;
-    margin-top: 75px;
-}
-
 text.title {
     font-size: 20px;
 }
