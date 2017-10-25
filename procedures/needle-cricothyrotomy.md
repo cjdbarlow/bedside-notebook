@@ -22,7 +22,7 @@
 	* Position is confirmed via capnography
 	* At this point [jet ventilation](management/airway/jet-ventilation.md) can be performed if required
 * **Post-procedure**
-	* Cannula can be left in situ for use as a rescue device if required
+	* Cannula can be left in situ to use as a rescue device if required
 
 
 
