@@ -42,6 +42,9 @@ Citric Acid Cycle
 ##CBF
 Cerebral Blood Flow
 
+##CICO
+Can't Intubate, Can't Oxygenate
+
 ##CMRO2
 Cerebral Metabolic Rate for Oxygen
 
@@ -54,11 +57,17 @@ Cyclo-Oxygenase
 ##CSF
 Cerebrospinal Fluid
 
+##CPAP
+Continuous Positive Airway Pressure
+
 ##CPP
 Cerebral/Coronary Perfusion Pressure
 
 ##CT
 Collecting Duct
+
+##CTM
+Cricothyroid membrane
 
 ##CNIX
 Glossopharyngeal Nerve
@@ -87,6 +96,9 @@ Deoxyribonucleic Acid
 ##DOP
 D-type (δ) opioid receptor
 
+##EAM
+External Auditory Meatus
+
 ##ECT
 Electron Transport Chain
 
@@ -113,6 +125,9 @@ Forced Expiratory Volume in 1 second
 
 ##FFA
 Free Fatty Acid
+
+##FONA
+Front-of-neck access (surgical airway)
 
 ##FRC
 Functional Residual Capacity
@@ -204,6 +219,11 @@ Neuromuscular Junction
 ##NOP
 N-type Opioid Receptor
 
+##NPA
+Nasopharangeal Airway
+
+##OPA
+Oropharyngeal Airway (Guedel Airway)
 
 ##PAC
 Pulmonary Artery Catheter
@@ -246,6 +266,9 @@ Right Ventricular End-Diastolic Pressure
 
 ##RVEDP
 Right Ventricular End-Diastolic Volume
+
+##SAD
+Supraglottic Airway Device
 
 ##SBP
 Systolic Blood Pressure

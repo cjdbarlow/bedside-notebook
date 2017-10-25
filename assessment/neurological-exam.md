@@ -124,6 +124,8 @@ Weakness causes deviation to the affected side.
     * A positive result occurs if the patient loses balance
         * Cerebellar ataxia occurs even when the eyes are open
         * Sensory ataxia occurs when the eyes are closed, and is a sign of disturbed proprioception
+
 ---
+
 ##References
-* www.neuroexam.com
+1. www.neuroexam.com

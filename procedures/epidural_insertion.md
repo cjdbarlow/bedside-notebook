@@ -1,5 +1,7 @@
 #Epidural Catheters
 
+
+##Indications
 Epidural catheters are commonly used for:
 * Analgesia
     * Major abdominal or thoracic surgery  
@@ -10,25 +12,7 @@ Epidural catheters are commonly used for:
     * As a sole technique, e.g. epidural top-up
     * As a combined spinal-epidural technique
 
-##Risks
-* Dural puncture (~1/100)
-* Hypotension (Up to ~1/30)
-* Respiratory depression (~1/200)
-* Epidural haematoma (~1/150,000)  
-Affected by:
-    * Intra-abdominal pressure  
-    High IAP impairs epidural venous drainage.
-    * Needle size
-    * Use of anticoagulants
-* Epidural abscess (0.05%)
-* Neurological damage (0.5%)   
-    * Typically transient
-    * Severe neurological damage is associated with:
-        * Delayed diagnosis of haematoma or abscess
-        * Haematoma in 50% of cases
-        * Administration of heparin intraoperatively in > 50% of cases
-        * Presence of pre-existing coagulation abnormality in 75% of cases
-        
+    
         
 ##Contraindications
 Absolute contraindications:
@@ -67,8 +51,7 @@ Relative contraindications:
 |**Herbal** including garglic, gingseng, and gingo bilboa|-|-|
 
 
-##Insertion
-###Anatomy
+##Anatomy
 Lumbar:
 
 Thoracic:
@@ -81,28 +64,47 @@ Cervical:
     * Anatomy
     * Equipment
     * Technique
-        * Preparation
-        * Procedure
-        * Post
-        * Removal
+
+
+##Equipment
+
+
+##Technique
+* Preparation
+* Procedure
+* Post
+* Removal
+
 
 ##Complications
-* Hypotension
-* Permanent nerve injury
+* Dural puncture (~1/100)  
+Post-dural puncture headache.
+* Hypotension (Up to ~1/30)  
+May lead to nausea.
+* Respiratory depression (~1/200)
+* Epidural haematoma (~1/150,000)  
+Affected by:
+    * Intra-abdominal pressure  
+    High IAP impairs epidural venous drainage.
+    * Needle size
+    * Use of anticoagulants
+* Epidural abscess (0.05%)  
+* Neurological damage (0.5%)   
+    * Typically transient
     * Majority associated with motor block rather than pain
     * Poorer outcomes are associated with:
         * Delayed (> 24 hour) presention
         * No surgical intervention
+    * Severe neurological damage is associated with:
+        * Delayed diagnosis of haematoma or abscess
+        * Haematoma in 50% of cases
+        * Administration of heparin intraoperatively in > 50% of cases
+        * Presence of pre-existing coagulation abnormality in 75% of cases
+* High block
 * Urinary retention  
     * IDC placement
 * Itch  
     * Due to presence of opioids within epidural
-* Post-dural puncture headache
-* High block
-* Epidural abscess
-Risk increases after 3 days.
-* Nausea  
-Typically indicates hypotension.
 
 
 ---
