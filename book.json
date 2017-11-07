@@ -11,7 +11,9 @@
         "wide",
         "ungrey",
         "expandable-chapters-small",
-        "git-author"
+        "git-author",
+        "litfl",
+        "theme-partone"
     ],
     "pluginsConfig": {
           "git-author": {
