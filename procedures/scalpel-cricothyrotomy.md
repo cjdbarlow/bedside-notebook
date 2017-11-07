@@ -4,6 +4,8 @@
 ##Indications
 
 ##Contraindications
+* Age  
+Not recommended in **children under 12**.
 
 
 ##Anatomy

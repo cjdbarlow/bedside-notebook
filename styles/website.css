@@ -25,3 +25,12 @@ path.bgline {
     display:block;
     overflow-x: auto;
 }
+
+.markdown-section blockquote {
+  background: #383838;
+  border-left:4px solid #3d3b0b;
+  font-family: lucida console, monospace, sans-serif;
+  color:#f7f7f7;
+  margin: 0 0 0.85em;
+  padding: 0 0.85px;
+}
