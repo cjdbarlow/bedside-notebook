@@ -7,6 +7,8 @@
 * [Pre-Anaesthetic](assessment/pre-anaesthetic.md)
 * [Intraoperative](assessment/intraoperative.md)
 * [Trauma](assessment/trauma.md)
+	* [Trauma Epidemiology](assessment/trauma-epi.md)
+	* [Trauma Considerations](assessment/trauma-considerations.md)
 * [Hot Case Approach](assessment\physician-approach.md)
   * [Full Neurological Exam](assessment\neurological-exam.md)
 
