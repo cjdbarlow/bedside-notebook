@@ -9,7 +9,7 @@
 	* Subcutaneous emphysema
 	* Palpabl fracture
 
-##Treatment
+##Management
 * Intubation  
 Indicated by complete obstruction or severe respiratory distress.
 * Surgical airway is second-line

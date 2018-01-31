@@ -11,7 +11,8 @@
         "wide",
         "ungrey",
         "expandable-chapters-small",
-        "git-author"
+        "git-author",
+        "litfl"
     ],
     "pluginsConfig": {
           "git-author": {
@@ -19,11 +20,9 @@
               "modifyTpl": "Last updated {timeStamp}",
               "createTpl": false,
               "timeStampFormat": "YYYY-MM-DD"
+          },
+          "layout": {
+            "footerPath" : "resources/footer.html"
           }
     }
-
-
- 
-
-
 }

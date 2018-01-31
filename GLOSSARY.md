@@ -45,6 +45,9 @@ Cerebral Blood Flow
 ##CICO
 Can't Intubate, Can't Oxygenate
 
+##CKD
+Chronic Kidney Disease
+
 ##CMRO2
 Cerebral Metabolic Rate for Oxygen
 
@@ -60,8 +63,14 @@ Cerebrospinal Fluid
 ##CPAP
 Continuous Positive Airway Pressure
 
+##CPB
+Cardiopulmonary Bypass
+
 ##CPP
 Cerebral/Coronary Perfusion Pressure
+
+##CRRT
+Continuous Renal-Replacement Therapy
 
 ##CT
 Collecting Duct
@@ -92,6 +101,9 @@ Dorsal Respiratory Group
 
 ##DNA
 Deoxyribonucleic Acid
+
+##DM
+Diabetes Mellitus
 
 ##DOP
 D-type (δ) opioid receptor
@@ -158,6 +170,12 @@ Intracellular Fluid
 
 ##ICP
 Intracranial Pressure
+
+##IHD
+Intermittent Haemodialysis/Ischaemic Heart Disease
+
+##IJV
+Internal Jugular Vein
 
 ##IVC
 Inferior Vena Cava
@@ -237,6 +255,9 @@ Proximal Convoluted Tubule
 ##PCWP
 Pulmonary Capillary Wedge Pressure
 
+##PD
+Peritoneal Dialysis
+
 ##PDA
 Posterior Descending Artery
 
@@ -273,11 +294,23 @@ Supraglottic Airway Device
 ##SBP
 Systolic Blood Pressure
 
+##SCr
+Serum Creatinine
+
+##SCV
+Subclavian Vein
+
+##SLED
+Sustained Low-Efficiency Dialysis
+
 ##STP
 Standard Temperature and Pressure (0°C at 100kPa)
 
 ##SV
 Stroke Volume
+
+##SVC
+Superior Vena Cava
 
 ##SVR
 Systemic Vascular Resistance

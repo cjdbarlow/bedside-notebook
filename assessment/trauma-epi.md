@@ -10,14 +10,14 @@
 
 
 ##Missed Injuries
-* Cardiac contusion
+* Cardiac contusion		
 * Aortic injury
 * Vascular injury
 * Oesophageal injury
 * Ruptured diaphgram
 * Tracheobronchial injury
 
-##Shock unresponsive to bolume and pressors
+##Shock unresponsive to volume and pressors
 * Tension PTHx
 * Tamponade
 * Adrenal crisis

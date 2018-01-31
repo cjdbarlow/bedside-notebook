@@ -9,8 +9,8 @@
 * [Trauma](assessment/trauma.md)
 	* [Trauma Epidemiology](assessment/trauma-epi.md)
 	* [Trauma Considerations](assessment/trauma-considerations.md)
-* [Hot Case Approach](assessment\physician-approach.md)
-  * [Full Neurological Exam](assessment\neurological-exam.md)
+* [Hot Case Approach](assessment/physician-approach.md)
+  * [Full Neurological Exam](assessment/neurological-exam.md)
 
 ---
 
@@ -31,15 +31,26 @@
     * [CICO](management/airway/cico.md)
   	* Extubation
 * Breathing
-  * Mechanical Ventilation
-    * Modes
-  * One Lung Ventilation
+	* Mechanical Ventilation
+    	* Modes
+    	* One Lung Ventilation
 * Circulation
-  * ALS
+	* ALS
+* Renal
+	* [RRT](/management/renal/rrt.md)
 
 ## Anaesthesia
+* [Regional]
+	* Torso
+		* [TAP](/anesthesia/regional/tap.md)
+	* Neuraxial
+		* [Epidural](/anaesthesia/regional/epidural.md)
 
-* [Epidural](anaesthesia/epidural.md)
+---
+
+* [Obstetric]
+	* [LUSCS](/obs/luscs.md)
+
 
 ## Intensive Care Medicine
 
@@ -47,6 +58,12 @@
 * Respiratory
 	* Upper Airway
 		* [Laryngeal Fracture](/disease/respiratory/upper-airway/laryngeal-fracture.md)
+* CNS
+	* [PDPH](/disease/cns/pdph.md)
+* Renal
+	* [AKI](/renal/aki.md)
+
+
 
 ## Procedures
 * [Needle Cricothyrotomy](procedures/needle-cricothyrotomy.md)
