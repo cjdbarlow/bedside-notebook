@@ -4,31 +4,31 @@
 
 ## Assessment
 
-* [Pre-Anaesthetic](assessment/pre-anaesthetic.md)
-* [Intraoperative](assessment/intraoperative.md)
-* [Trauma](assessment/trauma.md)
-	* [Trauma Epidemiology](assessment/trauma-epi.md)
-	* [Trauma Considerations](assessment/trauma-considerations.md)
-* [Hot Case Approach](assessment/physician-approach.md)
-  * [Full Neurological Exam](assessment/neurological-exam.md)
+* [Pre-Anaesthetic](/assessment/pre-anaesthetic.md)
+* [Intraoperative](/assessment/intraoperative.md)
+* [Trauma](/assessment/trauma.md)
+	* [Trauma Epidemiology](/assessment/trauma-epi.md)
+	* [Trauma Considerations](/assessment/trauma-considerations.md)
+* [Hot Case Approach](/assessment/physician-approach.md)
+  * [Full Neurological Exam](/assessment/neurological-exam.md)
 
 ---
 
-* [Airway](systems/airway.md)
-* [Disability]
-	* [Unconsciousness](assessment/neuro/unconscious.md)
+* Airway
+* [Disability](/assessment/neuro/unconscious.md#id)
+	* [Unconsciousness](/assessment/neuro/unconscious.md)
 
 ## Management
 
-* Airway
-	* [Airway Assessment](management/airway/airway-assessment.md)
-	* [Airway Management](management/airway/airway-management.md)
+* [Airway](/management/airway/airway-assessment.md#id)
+	* [Airway Assessment](/management/airway/airway-assessment.md)
+	* [Airway Management](/management/airway/airway-management.md)
   		* Intubation
-  		* [RSI](management/airway/rsi.md)
+  		* [RSI](/management/airway/rsi.md)
   		* FOI
-    	* [Transtracheal Jet ventilation](management/airway/jet-ventilation.md)
-    * [Unexpected Difficult Airway](management/airway/difficult-airway.md)
-    * [CICO](management/airway/cico.md)
+    	* [Transtracheal Jet ventilation](/management/airway/jet-ventilation.md)
+    * [Unexpected Difficult Airway](/management/airway/difficult-airway.md)
+    * [CICO](/management/airway/cico.md)
   	* Extubation
 * Breathing
 	* Mechanical Ventilation
@@ -36,20 +36,20 @@
     	* One Lung Ventilation
 * Circulation
 	* ALS
-* Renal
+* [Renal](/management/renal/rrt.md#id)
 	* [RRT](/management/renal/rrt.md)
 
 ## Anaesthesia
-* [Regional]
-	* Torso
-		* [TAP](/anesthesia/regional/tap.md)
-	* Neuraxial
+* [Regional](/anaesthesia/regional/tap.md#id)
+	* [Torso](/anaesthesia/regional/tap.md#id)
+		* [TAP](/anaesthesia/regional/tap.md)
+	* [Neuraxial](/anaesthesia/regional/epidural.md#id)
 		* [Epidural](/anaesthesia/regional/epidural.md)
 
 ---
 
-* [Obstetric]
-	* [LUSCS](/obs/luscs.md)
+* [Obstetric](/anaesthesia/obs/luscs.md#id)
+	* [LUSCS](/anaesthesia/obs/luscs.md)
 
 
 ## Intensive Care Medicine
@@ -61,7 +61,7 @@
 * CNS
 	* [PDPH](/disease/cns/pdph.md)
 * Renal
-	* [AKI](/renal/aki.md)
+	* [AKI](/disease/renal/aki.md)
 
 
 

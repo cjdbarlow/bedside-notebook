@@ -355,4 +355,4 @@ No benefit.
 1. Hilton R. [Acute renal failure](https://www.ncbi.nlm.nih.gov/pubmed/17038736). BMJ. 2006 Oct 14;333(7572):786-90.
 2. Kidney Disease: Improving Global Outcomes (KDIGO) Acute Kidney Injury Work Group. [KDIGO Clinical Practice Guideline for Acute Kidney Injury](http://kdigo.org/wp-content/uploads/2016/10/KDIGO-2012-AKI-Guideline-English.pdf). Kidney inter., Suppl. 2012; 2: 1–138.
 3. The Royal Australian and New Zealand College of Radiologists. [Iodinated Contrast Media Guideline](https://www.ranzcr.com/documents/573-iodinated-contrast-guidelines-2016/file). Sydney: RANZCR; 2016.
-4. Ostermann, M., & Joannidis, M. (2016). [Acute kidney injury 2016: diagnosis and diagnostic workup](https://ccforum.biomedcentral.com/articles/10.1186/s13054-016-1478-z). Critical Care, 20(1), 299. https://doi.org/10.1186/s13054-016-1478-z
+4. Ostermann M, Joannidis M. [Acute kidney injury 2016: diagnosis and diagnostic workup](https://ccforum.biomedcentral.com/articles/10.1186/s13054-016-1478-z). Crit Care [Internet]. 2016 Dec 27 [cited 2018 Jan 31];20(1):299.

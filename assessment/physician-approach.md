@@ -84,11 +84,11 @@ An approach to the assessment of the ICU patient:
             * Urine volume
         * Plasmapheresis
         * Drug Infusions
-    * **Patient**
-        * Respiratory pattern
-        * Dressings
-        * Body habitus
-        * Skin
+* **Patient**
+    * Respiratory pattern
+    * Dressings
+    * Body habitus
+    * Skin
 
 
 
@@ -170,4 +170,5 @@ An approach to the assessment of the ICU patient:
             * Heel-shin
     * Cranial nerves
 
-    ---
+
+---
