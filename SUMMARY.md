@@ -60,9 +60,10 @@
 		* [Laryngeal Fracture](/disease/respiratory/upper-airway/laryngeal-fracture.md)
 * CNS
 	* [PDPH](/disease/cns/pdph.md)
-* Renal
+* [Renal](/disease/renal/aki.md#id)
 	* [AKI](/disease/renal/aki.md)
-
+* [Fluid and Electrolyte](/disease/fluid/hypona.md#id)
+	* [Hyponatraemia](/disease/fluid/hypona.md)
 
 
 ## Procedures
