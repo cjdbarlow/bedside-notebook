@@ -8,9 +8,9 @@ Major differentials can be classified by the presence of focal signs or meningis
 |Encephalitis|CVA|Infection <br> - Meningitis|
 |Vasculitis|ICH|Vascular <br> - SAH|
 |Seizures|Trauma||
-|Brainstem|Tumour|
+|Brainstem|Tumour||
 |Drugs|Abscess||
-|Metabolic <br> - CO<sub>2</sub> <br> - O<sub>2</sub> <br> - Ammonia <br> - Temperature <br> - pH <br> - Electrolytes <br> - Glucose <br> - Osmolality|||
+|Metabolic <br> - CO<sub>2</sub> <br> - O<sub>2</sub> <br> - Ammonia <br> - Temperature <br> - pH <br> - Electrolytes <br> - Glucose <br> - Osmolality||||
 
 A mnemonic for these causes is COMATOSE GREAT APE:
 * CO<sub>2</sub>
