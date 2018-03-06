@@ -1,17 +1,45 @@
 #Hyponatraemia {#id}
 
-Hyponatraemia is defined as a serum sodium level \<135mmol/L, and is further divided by serum concentrations and symptoms into:
-* Mild
+Hyponatraemia is the excess of body water relative to sodium. It is defined as a serum sodium level <135mmol/L, and is further divided by serum concentrations and symptoms into:
+* Mild  
 * Moderate
 * Severe
 
 Hyponatraemia may also be divided by time course:
 * Acute  
-\<48 hours.
+<48 hours.
 * Chronic  
->48 hours.
+\>48 hours.
+
+##Epidemiology and Risk Factors
+* Most common electrolyte abnormality
+	* 30-40% of hospitalised patients
+	* 25-30% of ICU patients
+		* ~2.7% mild
+		* ~1.2% severe
+* Increasing severity is associated with increased mortality
+
+* Risk factors for rapid correction of hyponatraemia  
+Increased frequency of monitoring should be performed in patients with:
+	* Hypovolaemia
+	* Glucocorticoid deficiency
+	* Beer potomania
+	* Polydipsia
+	* Desmopressin cessation
+
 
 ##Pathophysiology
+Basic principles:
+* Water diffuses freely across cell membranes
+* Hyponatraemia indicates extracellular hypoosmolality, and therefore intracellular hypoosmolality
+* Water influx into cells causes swelling, and may lead to life-threatening cerebral oedema
+	* Initially, neurons excrete osmoles to reduce oedema formation
+	* Swelling will occur when compensatory mechanisms are overwhelmed
+* As hyponatraemia is corrected, neurons must reabsorb osmoles  
+This process is slower than excretion, and may take several days.
+	* Rapid correction of extracellular sodium may therefore lead to dehydration of brain cells as more water leaves the neuron as extracellular osmoles rise  
+	This causes cells to shink, and potentially demyelinate.
+
 Hyponatraemia is a disorder of water excess. Broadly, this may be either due to:
 * Excessive water intake
 * Failure of the kidneys to remove water
@@ -38,43 +66,43 @@ Blood:
 
 Urine:
 * Urine osmolality
-	* \<100mOsm/L indicates (appropriate) suppression of ADH  
+	* <100mOsm/L indicates (appropriate) suppression of ADH  
 	This is an appropriate response to hyponatraemia, as the body is in a state of water excess. 
 * Urine sodium  
 Indicates how the kidneys are handling sodium.
 	* 10mmol/L is the theoretical minimum
-	* \<20mmol/L suggests hypovolaemia  
-	May be true hypovolaemia, or a percieved hypovolaemia (e.g. heart failure)
-	* >40mmol/L suggests SIADH  
+	* <20mmol/L suggests hypovolaemia  
+	May be **true** hypovolaemia, or **percieved** hypovolaemia (e.g. heart failure)
+	* \>40mmol/L suggests SIADH  
 	Key in discriminating CSW and hypovolaemia from SIADH.
 
 
 ##Clinical Features
-History:
+###History
+* Symptoms  
+Largely attributable to brain oedema.
+	* Symptoms of mild hyponatraemia:
+		* Nausea
+		* Vomiting
+		* Headache
+	* Symptoms of severe hyponatraemia:
+		* Altered mental status
+		* Seizures
+		* Obtundation
+		* Coma
+	* Symptoms of chronic hyponatraemia:
+		* Disorientation
+		* Lethargy
+		* Dysarthria
+		* Gait disturbance
+		* Seizure  
+		Rare in chronic hyponatraemia.
+
+
 * Drug history
 	* Diuretics
 	* Steroids
 	* SIADH precipitants
-		* Anti-epileptics
-			* Carbamazepine
-			* Valproate
-		* Anti-depressants
-			* SSRIs
-			* TCAs
-		* Anti-psychotics
-			* Haloperidol
-			* Amitriptyline
-			* MAO-Is
-		* Analgesics
-			* Opioids
-			* NSAIDs
-		* Exogenous ADH
-			* DDAVP/Vasopressin
-			* Oxytocin
-		* Other
-			* Amiodarone
-			* Ciprofloxacin
-			* 
 * Medical History
 	* Ascites
 	* Peripheral oedema
@@ -88,9 +116,12 @@ History:
 		* IV contrast administration
 * Social history
 	* Alcohol intake
+	* Dietary
 
-Examination:
-* Volumne state
+
+###Examination:
+* Volume state
+
 
 ##Diagnostic Approach
 > * Many different approaches have been described
@@ -98,7 +129,10 @@ Examination:
 
 
 1. Measure serum osmolality
-	* This allows exclusion of pseudo-hyponatraemic states
+	* This allows exclusion of pseudo-hyponatraemic states  
+	Pseudo-hyponatraemia is hyponotraemia occurring at isotonic osmolality.
+	* Alternatively, serum sodium can be measured using a blood gas analyser  
+	(Why this is the case is explained in detail under [investigations](#ix)).
 2. Measure urine osmolality and sodium  
 Patients can then be classified into:
 	* Sodium retainers/sodium wasters  
@@ -156,9 +190,96 @@ Low serum osmolality, low urine osmolality, high urinary sodium - failure of wat
 		* Polyuric ATN
 		* AKI
 
+##Investigations{#ix}
+* Sodium Measurement  
+Two methods are available:
+	* Direct Ion-Specific Electrode (ISE)
+		* Used in point of care systems
+		* Undiluted blood is measured at the measuring electrode
+	* Indirect ISE
+		* Used in central laboratory analysers
+		* Pre-diluted serum is used  
+		Accuracy is therefore dependent on the volume of serum occupied by water (usually ~93%) versus by lipids and proteins (usually ~7%)
+			* If there is a significantly high protein or lipid content:
+				* The water fraction will be significantly less than 93%
+				* The diluted fraction will contain fewer sodium ions than it would if it had a normal proportion of water  
+				Serum sodium will be underestimated (leading to pseudohyponatraemia).
+			* If there is a significantly low protein or lipid content (as in critical illness):
+				* The water fraction will be greater than 93%
+				* The diluted fraction will contain more sodium ions  
+				Serum sodium will be overestimated.
+				* Serum sodium can be partially corrected for hypoalbuminaemia by subtracting **0.7mmol/L for every 1g/dL** decrease in total protein.
+
+* Urine/Plasma electrolyte ratio  
+Ratio of urinary electrolytes to plasma electrolytes, given an indication of the relative tonicity of urine and plasma.
+	* Typically given by: $${U \over P}Ratio = {[Na]_u + [K]_u \over [Na]_p}$$
+	* A positive ratio indicates that electrolyte-free water excretion is negative  
+	Fluid restriction alone is unlikely to correct sodium, as the kidneys are not excreting a dilute urine.
+		* Water intake in excess of losses will cause further decrease in serum sodium
+		* A very restrictive (e.g. <500ml/day) restriction will be required
+	* A negative ratio indicates a degree of electrolyte-free water excretion
+
+
+##Management
+> * Inadequate treatment may cause brain oedema
+> * Excessively rapid correction may lead to osmotic demyelination syndomre
+>	* Risk is increased in chronic hyponatraemia
+
+
+* Free water restriction  
+Important in hyponatraemia associated with cardiac failure.
+	* Degree of restriction may be calculated from a spot urine/plasma electrolyte ratio
+	
+
+
+* Hypertonic saline  
+3% NaCl is the mainstay of treatment, and may be given peripherally.
+	* For **severe, acute** hyponatraemia:  
+	100ml of 3% NaCl over 10 minutes, repeated up to 3 times or until symptoms resolve.
+	* For **acute** (but less severe) hyponatraemia:
+		* 1-2ml/kg/hr of 3% NaCl
+		* Target increase in serum sodium up to 2mmol/L/hr until symptoms improve
+	* For **chronic** hyponatraemia:
+		* Infusion rate should be calculated based on calculated sodium deficit and desired rate of correction  
+		$$Infusion \ Rate = Body \ Weight \ (kg) \times Desired \ Rate \ of \ Sodium \ Increase (mmol/L/hr)$$.
+		* Target an increase in serum sodium of **4-8mmol/day**
+	* Sodium levels should be checked every 2-4 hours during replacement
+	* As sodium levels improve, a more dilute urine should be produced
+
+* Volume state correction  
+If the volume state is also low, then this should be corrected. This can be considered as a separate problem to hyponatraemia (i.e. have one therapy (3% NaCl) for hyponatraemia, and another therapy (0.9% NaCl) for hypovolaemia)/
+	* Cease diuretics
+	* Volume replacement  
+	Normal saline is appropriate.
+
+* Potassium replacement  
+Hypokalaemia should also be corrected.
+	* This will also cause a rise in serum sodium  
+	Therefore potassium replacement should be considered when correcting sodium.
+
+
+###Ineffective Therapies
+
+
+##Complications
+Osmotic Demyelination Syndrome:
+* Also known as central pontine demyelinolysis
+* Risk factors include:
+	* Severe hyponatraemia
+	* Chronic hyponatraemia
+	* Rapid correction of serum sodium
+* Symptoms may appear 24-48 hours after correction  
+These include:
+	* Quadiplegia
+	* Pseudobulbar palsy
+	* Seizures
+	* Coma
+	* Death
+
 ---
 
 ##References
 
 1. Yartsev, A. [Hyponatraemia: A Lazy Man's Classification](http://www.derangedphysiology.com/main/required-reading/electrolytes-and-fluids/Chapter%205.3.1/hyponatremia-lazy-mans-classification). Deranged Physiology. 2016.
 2. Milionis HJ, Liamis GL, Elisaf MS. [The hyponatremic patient: a systematic approach to laboratory diagnosis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC100882/). CMAJ: Canadian Medical Association Journal. 2002;166(8):1056-1062.
+3. Buffington MA, Abreo K. [Hyponatremia: A Review](https://www.ncbi.nlm.nih.gov/pubmed/25592330). J Intensive Care Med. 2016. May;31(4):223-36. 
