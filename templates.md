@@ -1,3 +1,20 @@
+#Clinical State
+
+##Assessment
+###Key other findings
+##Causes
+
+
+---
+
+##References
+
+
+
+
+
+
+
 #Disease
 
 ##Epidemiology and Risk Factors

@@ -1,9 +1,26 @@
-#Neurological Examination
+#Detailed Neurological Examination
 The neurological exam comes in several flavours, depending on the patient:
 * Paralysed
 * Unconscious
 * Uncooperative
 * Cooperative
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ##Extremities
 * Observation
@@ -31,11 +48,52 @@ Upper versus Lower Motor Neuron Lesions:
 |Weakness|Yes|Yes
 
 ##Cranial Nerves
+
+
+###Ocular Exam
+* Pupils
+    * Papilloedema  
+    Suggests raised ICP; may not be present (especially acutely).
+    * Size
+        * Small  
+            * Drugs  
+            Opioids and clonidine.
+            * Pontine lesions
+        * Semidilated and unresponsive  
+        Midbrain lesions.
+        * Large and unresponsive  
+        CNIII compression.
+    * Asymmetry
+        * Large and unresponsive  
+            * Ipsilateral CN III lesion
+            * Adie's Pupil
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * Light reflex
     * Can be performed in paralysed patient
     * Afferent pathway via CN II
     * Efferent pathway via CN III
     * Abnormalities between direct and consensual reflexes allow localisation of the lesion to a particular neural pathway
+
+
 * Visual acuity  
 Tests CN II
     * Visual fields
@@ -46,12 +104,14 @@ Tests CN II
         * Patient is presented with a different number of fingers on each side
         * The patient will not report seeing the fingers on the affected side when presented to both sides, but can see them when presented to the affected side alone
 
+
 * Vestibulo-ocular reflex  
 Tests CN III, IV, V, VIII.
     * A more mild version of the cold caloric reflex that can be performed in unconscious patients
     * The eyes are held open and the head is rotated side-to-side or up and down
     * The reflex is present if the eyes move in the opposite direction of head movements (**doll's esyes**)
     * Absence of the reflex is suggestive of brainstem dysfunction in the comatose patient
+
 
 * Extra-ocular movements  
 Tests CN III, IV, V
@@ -62,14 +122,17 @@ Tests CN III, IV, V
         * Dysconjugate gaze:
         * Horizontal
         * Vertical
+
+
 * Facial Sensation
     * In the unconscious patient:
         * Corneal Reflex  
-Tests CN V, VII.
+        Tests CN V, VII.
     * Supra orbital notch pressure  
-Tests CN V, VII.
+    Tests CN V, VII.
     * Trigeminal sensation  
-Tests CN V.
+    Tests CN V.
+
 
 * Facial Expression
 Tests CN VII.
@@ -78,11 +141,14 @@ Tests CN VII.
         * Closes eyes tightly
         * Puffs out cheeks
         * Smiles    
+
+
 * SCM and trapezius  
 Tests CN XI.
     * Evaluate strength as the patient:
         * Shrugs shoulders
         * Turns head to each side
+
 
 * Cold caloric reflex  
 Tests CN III, VIII.
@@ -90,14 +156,17 @@ Tests CN III, VIII.
     * Cold water is syringed into the patients ear
     * A positive reflex occurs when the eyes look towards the tested side.
 
+
 * Gag reflex  
 Tests CN IX, X.
     * Touch the posterior pharynx on each side (use a Yankeur).
     * A gag is a positive response.
 
+
 * Cough reflex  
 Tests CN X.
     * Suctioning the trachea should cause a cough response.
+
 
 * Tongue  
 Tests CN XII.
@@ -108,6 +177,7 @@ Occurs with LMN lesions.
     * Deviation  
 Weakness causes deviation to the affected side.
     * Push forcefully against inside of the cheek
+
 
 ##Cerebellar Exam
 * Nystagmus
