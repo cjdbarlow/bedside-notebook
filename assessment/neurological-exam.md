@@ -1,41 +1,130 @@
 #Detailed Neurological Examination
 The neurological exam comes in several flavours, depending on the patient:
 * Paralysed
+    * Pupilliary
 * Unconscious
+    * Pupillary
+    * Vestibulo-ocular reflex
 * Uncooperative
 * Cooperative
 
 
+##Paralysed Patient
+Paralysis permits only examination of the pupils:
+* **Pupils**
+    * Papilloedema  
+    Suggests raised ICP; may not be present (especially acutely).
+    * **Size**  
+    Different sized pupils suggetss different aetiology of the lesion:
+        * Small  
+            * Drugs  
+            Opioids and clonidine.
+            * Pontine lesions
+        * Semidilated and unresponsive  
+        Midbrain lesions.
+        * Large and unresponsive  
+        CNIII compression.
+    * **Asymmetry**
+        * Large and unresponsive  
+            * Ipsilateral CN III lesion
+            * Adie's Pupil  
+            Idiopathic syndrome of mydriasis and delayed response to light; may occur in one or both pupils.
+    * **Reactivity**
+        * Afferent pathway via CN II
+        * Efferent pathway via CN III
+        * Abnormalities between direct and consensual reflexes allow localisation of the lesion to a particular neural pathway
 
 
+##Unconscious
+In addition to the pupillary exam, examination of the unconscious patient can include:
+
+###Cranial Nerves
+* **Dysconjugate gaze**
+    * Exophoria is present in most patients with altered conscous state
+
+* **Corneal reflex**  
+Tests V<sub>1</sub> and VII.
+    * A drop of saline or wisp of cotton should be applied to the cornea  
+    Patient should not see the or hear the stimulus, otherwise this will not test V<sub>1</sub>.
 
 
+* **Oculo-cephalic reflex**  
+Tests CN III, VI, VIII.
+    * A milder version of the cold caloric reflex that can be performed in unconscious patients
+    * The eyes are held open and the head is rotated side-to-side or up and down
+    * The reflex is present if the eyes move in the opposite direction of head movements (**doll's eyes**)
+    * Absence of the reflex is suggestive of brainstem dysfunction in the comatose patient
 
 
+* **Cold caloric reflex**  
+Tests CN III, VI, and VIII.
+    * Used in brain-death testing
+    * Cold water is syringed into the patients ear
+    * A positive reflex occurs when the eyes look towards the tested side  
+    Eyes will remain in this position until irrigation stops.
+    * No response will occur in brain death
+    * 5 minutes should elapse before testing the other wide
 
 
+* **Facial Sensation**
+    * Supra orbital notch pressure  
+    Tests CN V, VII.
+        * Best method of assessing response to a painful stimulus
 
 
+* **Gag reflex**  
+Tests CN IX, X.
+    * Touch the posterior pharynx on each side (use a Yankeur)
+    * A gag is a positive response
 
 
-
-
+* **Cough reflex**  
+Tests CN X.
+    * Suctioning the trachea should cause a cough response
 
 
 ##Extremities
+> * Asymmetry in tone, reflexes, and plantar responses are useful to lateralise a lesion
+> * Symmetrical changes are rarely helpful in the unconscious patient
+
+
 * Observation
+    * Spontaneous or localising movements  
+    * Posturing
+        * Abnormal flexion (decorticate posturing)  
+        Indicates a lesion above the brainstem. Movements are:
+            * Flexion of arms
+            * Adduction of shoulder
+            * Extension of legs
+        * Abnormal extension (decerebrate posturing)  
+        Indicates a lesion at the brainstem or below. Movements are:
+            * Extension of arms
+            * Internal rotation of shoulder
     * Tremors
     * Wasting
     * Fasciculations
         * Intrinsic hand muscles
         * Shoulder girdle
         * Thigh
+
 * Tone
     * Passive movement of each joint
 * Power and movement
+    * Response to noxious stimuli  
+    Should always be a central stimulus, either supraorbital pressure or endotracheal suctioning.
     * Drift
     * Rapid movements
     * Power
+* Reflexes
+    * Clonus  
+    >5 sustained involuntary contractions following stretching of a muscle.
+    * Plantar response  
+    Sensitive test for the presence of an UMN lesion in the corticospinal tract.
+        * Lateral side of foot is rubbed with a blunt instrument
+        * Flexion of the toes is a normal response
+        * Extension of the hallux with fanning of the toes is a positive Babinski sign  
+        Present as a primitive reflex in infants up to 12 months of age.
+
 
 Upper versus Lower Motor Neuron Lesions:
 
@@ -47,54 +136,14 @@ Upper versus Lower Motor Neuron Lesions:
 |Tone|Increased|Decreased
 |Weakness|Yes|Yes
 
-##Cranial Nerves
-
-
-###Ocular Exam
-* Pupils
-    * Papilloedema  
-    Suggests raised ICP; may not be present (especially acutely).
-    * Size
-        * Small  
-            * Drugs  
-            Opioids and clonidine.
-            * Pontine lesions
-        * Semidilated and unresponsive  
-        Midbrain lesions.
-        * Large and unresponsive  
-        CNIII compression.
-    * Asymmetry
-        * Large and unresponsive  
-            * Ipsilateral CN III lesion
-            * Adie's Pupil
 
 
 
+##Cooperative Patient
+Examination of the cooperative patient can include:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* Light reflex
-    * Can be performed in paralysed patient
-    * Afferent pathway via CN II
-    * Efferent pathway via CN III
-    * Abnormalities between direct and consensual reflexes allow localisation of the lesion to a particular neural pathway
-
-
-* Visual acuity  
+###Cranial Nerves
+* **Visual acuity**  
 Tests CN II
     * Visual fields
         * Patient focuses straight ahead
@@ -105,16 +154,8 @@ Tests CN II
         * The patient will not report seeing the fingers on the affected side when presented to both sides, but can see them when presented to the affected side alone
 
 
-* Vestibulo-ocular reflex  
-Tests CN III, IV, V, VIII.
-    * A more mild version of the cold caloric reflex that can be performed in unconscious patients
-    * The eyes are held open and the head is rotated side-to-side or up and down
-    * The reflex is present if the eyes move in the opposite direction of head movements (**doll's esyes**)
-    * Absence of the reflex is suggestive of brainstem dysfunction in the comatose patient
-
-
-* Extra-ocular movements  
-Tests CN III, IV, V
+* **Extra-ocular movements**  
+Tests CN III, IV, VI
     * Patient focuses straight ahead
     * Eyes follow finger in an 'H' pattern
     * Diplopia:
@@ -124,17 +165,12 @@ Tests CN III, IV, V
         * Vertical
 
 
-* Facial Sensation
-    * In the unconscious patient:
-        * Corneal Reflex  
-        Tests CN V, VII.
-    * Supra orbital notch pressure  
-    Tests CN V, VII.
+* **Facial Sensation**
     * Trigeminal sensation  
-    Tests CN V.
+    Tests CN V<sub>1</sub>, V<sub>2</sub>, V<sub>3</sub>.
 
 
-* Facial Expression
+* **Facial Expression**  
 Tests CN VII.
     * Evaluate strength and asymmetry as the patient:
         * Wrinkles brow
@@ -143,43 +179,24 @@ Tests CN VII.
         * Smiles    
 
 
-* SCM and trapezius  
+* **SCM and trapezius**  
 Tests CN XI.
     * Evaluate strength as the patient:
         * Shrugs shoulders
         * Turns head to each side
 
-
-* Cold caloric reflex  
-Tests CN III, VIII.
-    * Used in brain-death testing
-    * Cold water is syringed into the patients ear
-    * A positive reflex occurs when the eyes look towards the tested side.
-
-
-* Gag reflex  
-Tests CN IX, X.
-    * Touch the posterior pharynx on each side (use a Yankeur).
-    * A gag is a positive response.
-
-
-* Cough reflex  
-Tests CN X.
-    * Suctioning the trachea should cause a cough response.
-
-
-* Tongue  
+* **Tongue**  
 Tests CN XII.
     * Atrophy  
-Occurs with LMN lesion.
+    Occurs with LMN lesion.
     * Fasciculations  
-Occurs with LMN lesions.
+    Occurs with LMN lesions.
     * Deviation  
-Weakness causes deviation to the affected side.
+    Weakness causes deviation to the affected side.
     * Push forcefully against inside of the cheek
 
 
-##Cerebellar Exam
+###Cerebellar Exam
 * Nystagmus
     * A fast phase of nystagmus will occur towards the side of a cerebellar lesion
 * Resting tremor
@@ -195,7 +212,8 @@ Weakness causes deviation to the affected side.
         * Cerebellar ataxia occurs even when the eyes are open
         * Sensory ataxia occurs when the eyes are closed, and is a sign of disturbed proprioception
 
+
 ---
 
 ##References
-1. www.neuroexam.com
+1. Walker MC, O’Brien MD. [Neurological examination of the unconscious patient](https://www.gla.ac.uk/media/media_117701_en.pdf). J R Soc Med. 1999 Jul;92(7):353-5.

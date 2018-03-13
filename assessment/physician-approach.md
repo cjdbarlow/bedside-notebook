@@ -1,4 +1,4 @@
-#Hot Case Approach
+#Systems Approach
 
 An approach to the assessment of the ICU patient:
 
@@ -25,7 +25,7 @@ An approach to the assessment of the ICU patient:
         * HFNP
     * Breathing:
         * Ventilator/supports:  
-        **Ask**: Does this patient have respiratory failure? (i.e. could they be extubated/weaned from supports)
+        Determine if this patient has respiratory failure - i.e. could they be extubated/weaned from supports.
             * Oxygenation:
                 * FiO<sub>2</sub>
                 Check P:F ratio.
@@ -44,7 +44,7 @@ An approach to the assessment of the ICU patient:
             * Nitric
     * Circulation:
         * Circulatory Supports:  
-        **Ask**: Does this patient have circulatory failure?
+        Determine if this patient has circulatory failure.
             * Vasopressor/inotropes
             * Pacing:  
             Is this patient pacing dependent?

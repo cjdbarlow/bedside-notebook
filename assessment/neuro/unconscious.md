@@ -1,18 +1,50 @@
 #Unconsciousness {#id}
 
 Coma is:
-* A clinical state of being not aware and not awake
+* A clinical state of being not aware and not awake  
+More precisely, "a completely unaware patient unresponsive to external stimuli with only eye opening to pain, with no eye tracking or fixation, and limb withdrawal to a noxious stimulus at best."
 * Due to impairment of the ARAS-thalmic-cortical pathway  
 Lesion may be in:
 	* Arousal centres  
-	Dorsal pons, midbrain.
+	Dorsal pons, midbrainm, thalamus.
 	* Consciousness centre  
 	Cerebral cortex - must be bilateral to cause coma.
 	* Connecting tracts  
 	Ascending reticulator activating system.
 
+
+Related categories of altered conscious states include:
+* **Persistent Vegetative State**  
+Patients with PVS <3 years may (rarely) partially recover; there are no known predictors though it is usually after TBI. Patients with PVS for >3 years do not recover. PVS is defined by:
+	* No awareness of self or environment
+	* No sustained, reproducible, purposeful, or voluntary response to a stimuli
+	* No language comprehension or expression
+	* Mostly intact cranail nerve reflexes
+	* Roving nystagmoid eye movements
+	* Presence of a sleep/wake cycle
+	* Stable unsupported blood pressure
+	* Intact respiratory drive
+	* Double incontinence
+* **Minimally Conscious State**  
+May further recover, but no predictors are known. Patients with MCS:
+	* Make eye contact and turns head when talked through
+	* Eye tracking
+	* "Abulic emotionless state"  
+	* May mouth words or fend off pain
+	* Some intelligible verbalisation
+	* May hold or use objects when asked
+
+
+Two **key pitfalls** in coma assessment are:
+* **Locked-in Syndrome**  
+Denervation of motor tracts in the ventral pons, leading to:
+	* Ability to blink to command and move eyes vertically
+	* Intact hearing, vision, and peripheral pain sensation
+* **Psychogenic Unreponsiveness**
+
+
 ##Assessment
-Level of consciousness is graded using the GCS or FOUR score.
+Level of consciousness is graded using the GCS or FOUR score:
 
 ###GCS
 The Glasgow Coma Scale is:
@@ -137,8 +169,13 @@ Presence or absence of other findings will narrow the differential:
 ##Causes
 Major causes can be classified by:
 * Pathophysiology
-	* Structural
+	* Structural  
+		* Cerebral hemispheres
+		* Intrinsic brainstem injury
+		* Cerebellar injury
 	* Functional
+		* Metabolic or endocrine derangement
+		* Diffuse phsyiological dysfunction
 * Clinical features
 	* No focal signs
 	* Focal neurology
@@ -154,7 +191,7 @@ Classification by clinical features:
 |Brainstem|Tumour <br> Via direct pressure on key areas, or by diffuse increase in ICP. May have slow progression of findings.||
 |Drugs|Abscess||
 |Metabolic|Acute hydrocephalus <br> Spasticity due to stretching of motor cortex. Diplopia due to CN III or CN VI compression.||
-||Posterior Reversible Encephalopathy Syndrome (PRES) <br> Patchwork vasodilation and vasoconstriction due to severe hypertension, producing visual disturbances and altered conscious state.||
+||Posterior Reversible Encephalopathy Syndrome (PRES) <br> Patchwork vasodilation and vasoconstriction due to severe hypertension, producing visual disturbances and altered conscious state.|||
 
 Drugs which may cause CNS depression can be classified broadly into:
 * Sedative/hyponotics
@@ -214,6 +251,7 @@ Myxedema coma.
 * pH
 * Electrolytes
 
+
 ###Coma Mimics
 Coma mimics include:
 * Locked-in syndrome
@@ -231,3 +269,4 @@ Coma mimics include:
 2. Wijdicks EFM, Bamlet WR, Maramattom BV, Manno EM, McClelland RL. Validation of a new coma scale: The FOUR score. Ann Neurol. 2005;58(4):585-593.
 3. Fischer M, Rüegg S, Czaplinski A, et al. Inter-rater reliability of the Full Outline of UnResponsiveness score and the Glasgow Coma Scale in critically ill patients: a prospective observational study. Critical Care. 2010;14(2):R64.
 4. 1: Traub SJ, Wijdicks EF. [Initial Diagnosis and Management of Coma](https://www.sciencedirect.com/science/article/pii/S073386271630058X?via%3Dihub). Emerg Med Clin North Am. 2016 Nov;34(4):777-793. doi: 10.1016/j.emc.2016.06.017. Epub 2016 Sep 3.
+5. Wijdicks EF. The bare essentials: coma. Pract Neurol. 2010 Feb;10(1):51-60.
