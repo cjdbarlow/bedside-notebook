@@ -117,7 +117,7 @@ Tests CN X.
     * Power
 * Reflexes
     * Clonus  
-    >5 sustained involuntary contractions following stretching of a muscle.
+    \>5 sustained involuntary contractions following stretching of a muscle.
     * Plantar response  
     Sensitive test for the presence of an UMN lesion in the corticospinal tract.
         * Lateral side of foot is rubbed with a blunt instrument

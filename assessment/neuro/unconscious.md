@@ -15,7 +15,7 @@ Lesion may be in:
 
 Related categories of altered conscious states include:
 * **Persistent Vegetative State**  
-Patients with PVS <3 years may (rarely) partially recover; there are no known predictors though it is usually after TBI. Patients with PVS for >3 years do not recover. PVS is defined by:
+Patients with PVS < 3 years may (rarely) partially recover; there are no known predictors though it is usually after TBI. Patients with PVS for >3 years do not recover. PVS is defined by:
 	* No awareness of self or environment
 	* No sustained, reproducible, purposeful, or voluntary response to a stimuli
 	* No language comprehension or expression
@@ -188,10 +188,10 @@ Classification by clinical features:
 |Infection <br> Encephalitis, septic encephalopathy.|CVA <br> Coma due to CVA is typically due to a posterior circulation lesion, as both cerebral corticies must be disrupted to produce coma.|Infection <br> - Meningitis|
 |Vasculitis|ICH <br> SDH and EDH may cause global depression and seizures. IPH effects may be due to increased ICP, or damage to key pathways.|Vascular <br> - SAH <br> SAH depresses conscious state through direct anoxic-ischaemic injury, or indirectly due to hydrocephalus.|
 |Seizures <br> Including Nonconvulsive status epilepticus|Trauma||
-|Brainstem|Tumour <br> Via direct pressure on key areas, or by diffuse increase in ICP. May have slow progression of findings.||
+|Brainstem|Tumour (including lymphoma and metastases) <br> Via direct pressure on key areas, or by diffuse increase in ICP. May have slow progression of findings.||
 |Drugs|Abscess||
 |Metabolic|Acute hydrocephalus <br> Spasticity due to stretching of motor cortex. Diplopia due to CN III or CN VI compression.||
-||Posterior Reversible Encephalopathy Syndrome (PRES) <br> Patchwork vasodilation and vasoconstriction due to severe hypertension, producing visual disturbances and altered conscious state.|||
+|Hyopoxic-Ischaemic Encephalopathy|Posterior Reversible Encephalopathy Syndrome (PRES) <br> Patchwork vasodilation and vasoconstriction due to severe hypertension, producing visual disturbances and altered conscious state.|||
 
 Drugs which may cause CNS depression can be classified broadly into:
 * Sedative/hyponotics
@@ -232,8 +232,10 @@ Hepatic encephalopathy, as well as:
 * Temperature  
 Typically requires temperatures <28°C.
 * Overdose
+	* Neuroleptic malignant syndrome
 * Seizures
 * Encephalitis
+
 
 * Glucose  
 	* Hypoglycaemia  
@@ -245,11 +247,19 @@ Uraemic encephalopathy.
 * ETOH
 * Adrenal Insufficiency
 * Thyroid  
-Myxedema coma.
+	* Acute hypothyroidism  
+	Myxedema coma.
+	* Panhypopituitarism
+
 
 * Autoimmune
 * pH
 * Electrolytes
+	* Hyponatraemia
+	* Hypernatraemia
+	* Hypercalcaemia
+	* Addisons IDisease
+
 
 
 ###Coma Mimics
