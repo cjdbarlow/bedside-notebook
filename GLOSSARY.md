@@ -21,6 +21,9 @@ Atrial Natriuretic Peptide
 ##Anchoring Bias
 Prematurely settling on a single diagnosis, and failing to adjust that diagnosis as new information becomes available.
 
+##ASD
+Atrial Septal Defect
+
 ##ATP
 Adenosine Triphosphate
 
@@ -35,6 +38,9 @@ Brain Natriuretic Peptide
 
 ##BMR
 Basal Metabolic Rate
+
+##CABG
+Coronary Artery Bypass Grafting
 
 ##CAC
 Citric Acid Cycle
@@ -84,17 +90,29 @@ Glossopharyngeal Nerve
 ##CNX
 Vagus Nerve
 
+##CVA
+Cerebrovascular Accient
+
 ##CVC
 Central Venous Catheter
 
 ##CVP
 Central Venous Pressure
 
-##DCT
-Distal Convoluted Tubule
+##CXR
+Chest X-Ray
 
 ##DBP
 Diastolic Blood Pressure
+
+##DCR
+Direct Current Cardioversion
+
+##DCT
+Distal Convoluted Tubule
+
+##DHCA
+Deep Hypothermic Circulatory Arrest
 
 ##DRG
 Dorsal Respiratory Group
@@ -126,11 +144,17 @@ End-Diastolic Volume
 ##EEG
 Electroencephalogram
 
+##EF
+Ejection Fraction
+
 ##EPO
 Erythropoietin
 
 ##ESV
 End-Systolic Volume
+
+##ETT
+Endotracheal Tube
 
 ##FEV1
 Forced Expiratory Volume in 1 second
@@ -165,6 +189,9 @@ Hypothalamic-Pituitary Axis
 ##HR
 Heart Rate
 
+##IABP
+Intra-Aortic Balloon Pump
+
 ##ICF
 Intracellular Fluid
 
@@ -194,6 +221,9 @@ Left Circumflex
 
 ##LH
 Lutenising Hormone
+
+##LIMA
+Left Internal Mammary Artery
 
 ##LVEDP
 Left Ventricular End-Diastolic Pressure
@@ -276,6 +306,9 @@ Platelet-Derived Growth Factor
 ##RAP
 Right Atrial Pressure
 
+#RBBB
+Right Bundle Branch Block
+
 ##RR
 Respiratory Rate
 
@@ -335,6 +368,9 @@ Venous Return
 
 ##VRG
 Ventral Respiratory Group
+
+##VSD
+Venticular Septal Defect
 
 ##ZEEP
 Zero End-Expiratory Pressure

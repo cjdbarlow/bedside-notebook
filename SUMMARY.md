@@ -47,6 +47,7 @@
 
 ## Anaesthesia
 * General
+* [Cardiopulmonary Bypass](/anaesthesia/cthr/cpb.md)
 * [Neuraxial](/anaesthesia/regional/epidural.md#id)
 	* [Epidural](/anaesthesia/regional/epidural.md)
 * [Regional](/anaesthesia/regional/tap.md#id)
@@ -60,6 +61,7 @@
 
 
 ## Intensive Care Medicine
+* [Post-Op Cardiac Surgery](/intensive-care/postop-cthr.md)
 
 ## Disease
 * Respiratory
