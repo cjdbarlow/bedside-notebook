@@ -294,6 +294,9 @@ Posterior Descending Artery
 ##PDE
 Phosphodiesterase
 
+##PEA
+Pulseless Electrical Activity
+
 ##PEEP
 Positive End-Expiratory Pressure
 

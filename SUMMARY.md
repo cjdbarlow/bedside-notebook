@@ -37,6 +37,9 @@
     	* One Lung Ventilation
 * Circulation
 	* Cardiac Arrest
+		* Adult Cardiac Arrest
+		* Paediatric Cardiac Arrest
+		* [Post-Cardiac Surgery](/management/cvs/post-cthr.md)
 * Disability
 * Extremities
 * [Renal and Fluid](/management/renal/rrt.md#id)
