@@ -83,7 +83,7 @@ Tests CN X.
     * Suctioning the trachea should cause a cough response
 
 
-##Extremities
+###Extremities
 > * Asymmetry in tone, reflexes, and plantar responses are useful to lateralise a lesion
 > * Symmetrical changes are rarely helpful in the unconscious patient
 
@@ -211,6 +211,61 @@ Tests CN XII.
     * A positive result occurs if the patient loses balance
         * Cerebellar ataxia occurs even when the eyes are open
         * Sensory ataxia occurs when the eyes are closed, and is a sign of disturbed proprioception
+
+###Motor Exam
+Motor assessment involves:
+* Appearance
+    * Normal muscle bulk for age
+    * Symmetry of muscle bulk
+    * Tremors  
+    Should be no tremors at rest in normal individuals.
+* Palpation
+* Tone  
+Joint should be able to be moved easily through its range of motion.
+    * Spasticity  
+    Increase in tone is proportional to the rate of movement. Associated with UMN lesion.
+    * Rigidity  
+    Tone is increased irrespective of how quickly the joint is moved.
+    * Flaccidness  
+    Complete absence of tone, occurring when the muscle has no LMN innervation.
+* Power  
+Assessment must consider the age, sex, fitness, and non-neurological disease state. Power assessment is:
+    * Graded on a scale:
+        * 0: No movement
+        * 1: Fasciculations
+        * 2: Movement when gravity is eliminated
+        * 3: Movement capable of overcoming gravity but not additional resistance
+        * 4: Movement capable of overcoming some resistance  
+        Additional (subjective) nuance can be documented by using 4+ or 4- for varying levels of "some" resistance.
+        * 5: Normal
+
+###Sensory Exam
+Testing of each main afferent pathway:
+* Spinothalamic tracts  
+Pain, temperature, crude touch.
+* Dorsal columns  
+Proprioception, vibration, light touch. 
+
+
+Assessment process:
+* Sharp and light touch
+    * Demonstrate to the patient what light and sharp touch will feel like
+    * Start distally and move proximally, crossing multiple dermatomes at each point
+* Proprioception 
+    * Have the patient close their eyes
+    * Grasp either side of the great toe IP joint
+    * Orientate the patient to what up and down will be
+    * Then move the toe and ask the patient to state in which direction it has been moved
+        * If incorrect, then move to a more proximal joint  
+        Distal joints are typically affected first.
+* Vibration
+    * Use a 128Hz tuning fork
+    * Place the fork over the great toe IP joint
+    * The patient should be able to identify when vibration occurs, and when vibration ceases
+* Two-point discrimination  
+Useful for peripheral neuropathy.
+    * Patient should be able to distinguish simultaneous touch from two objects >5mm apart
+
 
 
 ---
