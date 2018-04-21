@@ -1,4 +1,0 @@
-
-#Trauma Considerations
-
-##Triage

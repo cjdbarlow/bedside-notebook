@@ -10,7 +10,6 @@
 * [Intraoperative](/assessment/intraoperative.md)
 * [Trauma](/assessment/trauma.md)
 	* [Trauma Epidemiology](/assessment/trauma-epi.md)
-	* [Trauma Considerations](/assessment/trauma-considerations.md)
 * [Brain Death](/assessment/braindeath.md)
 
 ---
@@ -20,6 +19,12 @@
 	* [Unconsciousness](/assessment/neuro/unconscious.md)
 
 ## Management
+* Cardiac Arrest
+	* Adult Cardiac Arrest
+	* Paediatric Cardiac Arrest
+	* [Post-Cardiac Surgery](/management/cvs/post-cthr.md)
+
+---
 
 * [Airway](/management/airway/airway-assessment.md#id)
 	* [Airway Assessment](/management/airway/airway-assessment.md)
@@ -36,10 +41,6 @@
     	* Modes
     	* One Lung Ventilation
 * Circulation
-	* Cardiac Arrest
-		* Adult Cardiac Arrest
-		* Paediatric Cardiac Arrest
-		* [Post-Cardiac Surgery](/management/cvs/post-cthr.md)
 * Disability
 * Extremities
 * [Renal and Fluid](/management/renal/rrt.md#id)
