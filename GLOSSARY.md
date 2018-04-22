@@ -162,6 +162,9 @@ Forced Expiratory Volume in 1 second
 ##FFA
 Free Fatty Acid
 
+##FGF
+Fresh Gas Flow
+
 ##FONA
 Front-of-neck access (surgical airway)
 
