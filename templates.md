@@ -27,6 +27,7 @@
 ##Management
 ###Ineffective Therapies
 ##Complications
+##Prognosis
 
 ---
 ##References
