@@ -186,6 +186,9 @@ Growth Hormone
 ##Hb
 Haemoglobin
 
+##HBOT
+Hyperbaric oxygen therapy
+
 ##HPA
 Hypothalamic-Pituitary Axis
 
@@ -272,6 +275,9 @@ N-type Opioid Receptor
 
 ##NPA
 Nasopharangeal Airway
+
+##OHG
+Oral Hypoglycaemic
 
 ##OPA
 Oropharyngeal Airway (Guedel Airway)

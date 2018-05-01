@@ -51,6 +51,7 @@
 
 ## Anaesthesia
 * [General Anaesthesia](/anaesthesia/general/low-flow.md#id)
+	* [Fasting](/anaesthesia/general/fasting.md)
 	* [Low-Flow Anaesthesia](/anaesthesia/general/low-flow.md)
 	* [Cardiopulmonary Bypass](/anaesthesia/cthr/cpb.md)
 * [Neuraxial](/anaesthesia/regional/epidural.md#id)
