@@ -58,9 +58,14 @@ Adequate FGF must be used to ensure washout of toxic gases.
 * Cyanide toxicity
 * Malignant hyperthermia  
 As volatile agents will be ceased, there is no benefit to low-flow techniques. Additionally, high FGF is required to ensure adequate washout of CO<sub>2</sub>. 
-* Alcohol intoxication
+* Alcohol intoxication  
+Prevents pulmonary clearance of gaseous alcohol.
 * Acetone poisoning
-* Ketoacidosis
+	* Prolongs anaesthesia
+	* Increases PONV
+* Ketoacidosis  
+In severe cases, may lead to accumulation of gaseous acetone in the circuit.
+
 
 ##Performing Low-Flow Anaesthesia
 * Technical requirements
