@@ -34,10 +34,10 @@ Typically 3mg/kg ropivacine (up to 200mg) diluted with N/S to 40ml (20ml each si
 ##Technique
 * Prepare equipment
 * Identify the rectus abdominus and transversus abdominus muscle at the costal margin
-![Probe placement: Hebbard, P. D., Barrington, M. J., & Vasey, C. (2010). Ultrasound-guided continuous oblique subcostal transversus abdominis plane blockade: Description of anatomy and clinical technique. Regional Anesthesia and Pain Medicine, 35(5), 436–441. https://doi.org/10.1097/AAP.0b013e3181e66702](resources/tappos.png)
+![Probe placement: Hebbard, P. D., Barrington, M. J., & Vasey, C. (2010). Ultrasound-guided continuous oblique subcostal transversus abdominis plane blockade: Description of anatomy and clinical technique. Regional Anesthesia and Pain Medicine, 35(5), 436–441. https://doi.org/10.1097/AAP.0b013e3181e66702](/resources/tappos.png)
 * Scan inferiorly to identify the TAP at the level of the surgical incision
 * Place the needle medial to the probe (close to midline), and travel inferolaterally towards the iliac crest into the TAP  
-![Needle placement: Hebbard, P. D., Barrington, M. J., & Vasey, C. (2010). Ultrasound-guided continuous oblique subcostal transversus abdominis plane blockade: Description of anatomy and clinical technique. Regional Anesthesia and Pain Medicine, 35(5), 436–441. https://doi.org/10.1097/AAP.0b013e3181e66702](resources/tapplane.png)
+![Needle placement: Hebbard, P. D., Barrington, M. J., & Vasey, C. (2010). Ultrasound-guided continuous oblique subcostal transversus abdominis plane blockade: Description of anatomy and clinical technique. Regional Anesthesia and Pain Medicine, 35(5), 436–441. https://doi.org/10.1097/AAP.0b013e3181e66702](/resources/tapplane.png)
 * Hydrodisect the TAP with 1-2ml of LA solution to confirm correct placement
 * Wound catheters may also be placed  
 	* Use epidural or nerve block catheters

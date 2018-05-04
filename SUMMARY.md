@@ -51,13 +51,13 @@
 * Infective and Immune
 
 ## Anaesthesia
-* [General Anaesthesia](/anaesthesia/general/fasting.md#id)
-	* [Fasting](/anaesthesia/general/fasting.md)
-	* [Low-Flow Anaesthesia](/anaesthesia/general/low-flow.md)
-	* [Cardiopulmonary Bypass](/anaesthesia/cthr/cpb.md)
-	* [Positioning](/anaesthesia/general/positioning.md)
+* [Fasting](/anaesthesia/general/fasting.md)
+* [Positioning](/anaesthesia/general/positioning.md)
 	* [Prone Positioning](/anaesthesia/general/proneanaes.md)
 	* [Post-operative Neuropathy](/anaesthesia/general/postopneuro.md)
+* [General Anaesthesia](/anaesthesia/general/fasting.md#id)
+	* [Low-Flow Anaesthesia](/anaesthesia/general/low-flow.md)
+	* [Cardiopulmonary Bypass](/anaesthesia/cthr/cpb.md)
 * [Neuraxial](/anaesthesia/regional/epidural.md#id)
 	* [Epidural](/anaesthesia/regional/epidural.md)
 * [Regional](/anaesthesia/regional/tap.md#id)

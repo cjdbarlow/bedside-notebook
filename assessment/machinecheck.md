@@ -15,7 +15,7 @@ Check performed prior to commencing anaesthesia for each patient.
 	* Supply line pressures
 	* Reserve O<sub>2</sub> cylinder pressure
 		* Adequate pressure  
-		>10,000 kPa.
+		\>10,000 kPa.
 		* Can be turned on and off  
 		Leave off after check so that there is no slow leak.
 		* Not leaking from seal

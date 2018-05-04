@@ -5,14 +5,14 @@ The goal of airway management is to**maintain oxygenation and ventilation, witho
 * This does not (necessarily) imply intubation
 * The chosen airway management technique will depend on the patients anatomy and physiological state, the situation, and the indication
 * Remember the hierarchy of intubation needs  
-![Hierarchy of needs](/resources/hierarchy-of-em-intubation-needs.jpg)
+<img src="/resources/hierarchy-of-em-intubation-needs.jpg" width="50%")
 
 ##A Framework for Airway Management
 > There are many frameworks for airway management. This one aims to:
-	* Focus on a general plan but not on any specific technique
-	* Provide an approach that is appropriate for elective anaesthesia as well as emergency airway management
-	* Plan for and avoid the difficult airway
-	* In the patient who does not require *immediate* intubation
+>	* Focus on a general plan but not on any specific technique
+>	* Provide an approach that is appropriate for elective anaesthesia as well as emergency airway management
+>	* Plan for and avoid the difficult airway
+>	* In the patient who does not require *immediate* intubation
 
 
 1. **Plan**

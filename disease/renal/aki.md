@@ -322,7 +322,7 @@ Reduce volume but do not affect survival or renal recovery.
 	Minimal supportive evidence outweighed by evidence of harm.
 	* **Appropriate to treat volume overload in the setting of AKI, but not AKI itself**
 	* Ineffective in reducing frequency or duration of RRT
-	* >1g/day of frusemide may cause ototoxicity
+	* \>1g/day of frusemide may cause ototoxicity
 * Mannitol  
 Likely no benefit.
 * Dopamine  
