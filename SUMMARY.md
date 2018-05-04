@@ -14,9 +14,10 @@
 
 ---
 
-* Airway
+* [Airway](/assessment/airway/airway-assessment.md#id)
+	* [Airway Assessment](/assessment/airway/airway-assessment.md)
 * [Disability](/assessment/neuro/unconscious.md#id)
-	* [Unconsciousness](/assessment/neuro/unconscious.md)
+	* [Unconsciousness](/assessment/neuro/unconscious.md)	
 
 ## Management
 * Cardiac Arrest
@@ -27,7 +28,6 @@
 ---
 
 * [Airway](/management/airway/airway-assessment.md#id)
-	* [Airway Assessment](/management/airway/airway-assessment.md)
 	* [Airway Management](/management/airway/airway-management.md)
   		* Intubation
   			* [RSI](/management/airway/rsi.md)
@@ -83,7 +83,7 @@
 * [Fluid and Electrolyte](/disease/fluid/hypona.md#id)
 	* [Hyponatraemia](/disease/fluid/hypona.md)
 	* [SIADH](/disease/fluid/siadh.md)
-* [MSK]
+* [MSK](/disease/msk/necfas.md#id)
 	* [Necrotising Fascitis](/disease/msk/necfas.md)
 
 

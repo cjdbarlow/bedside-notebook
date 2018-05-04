@@ -17,7 +17,7 @@
 	* Infiltrate the neck with 1-2ml of 2% lignocaine in an awake patient
 	* Connect the cannula to a saline-filled syringe
 	* Insert the cannula through skin towards the cricothyroid membrane, aspirating as the needle is advanced  
-	![Needle cricothyrotomy: from Gulleth Y, Spiro J. Percutaneous Transtracheal Jet Ventilation in Head and Neck Surgery. Arch Otolaryngol Head Neck Surg. 2005;131(10):886–890. doi:10.1001/archotol.131.10.886](resources/needlecric.png)
+	![Needle cricothyrotomy: from Gulleth Y, Spiro J. Percutaneous Transtracheal Jet Ventilation in Head and Neck Surgery. Arch Otolaryngol Head Neck Surg. 2005;131(10):886–890. doi:10.1001/archotol.131.10.886](/resources/needlecric.png)
 	* Position is confirmed via capnography
 	* At this point [jet ventilation](management/airway/jet-ventilation.md) can be performed if required
 * **Post-procedure**

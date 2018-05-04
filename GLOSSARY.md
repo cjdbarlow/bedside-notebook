@@ -39,6 +39,9 @@ Brain Natriuretic Peptide
 ##BMR
 Basal Metabolic Rate
 
+##BURP
+Backwards, Upwards, Rightwards Pressure
+
 ##CABG
 Coronary Artery Bypass Grafting
 
@@ -146,6 +149,9 @@ Electroencephalogram
 
 ##EF
 Ejection Fraction
+
+##ELM
+External Laryngeal Manipulation
 
 ##EPO
 Erythropoietin

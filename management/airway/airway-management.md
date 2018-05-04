@@ -1,2 +1,155 @@
 #Airway Management
+> Oxygenation > Intubation
 
+The goal of airway management is to**maintain oxygenation and ventilation, without physiological compromise or complications**, ideally with a patent and protected airway.
+* This does not (necessarily) imply intubation
+* The chosen airway management technique will depend on the patients anatomy and physiological state, the situation, and the indication
+* Remember the hierarchy of intubation needs  
+![Hierarchy of needs](/resources/hierarchy-of-em-intubation-needs.jpg)
+
+##A Framework for Airway Management
+> There are many frameworks for airway management. This one aims to:
+	* Focus on a general plan but not on any specific technique
+	* Provide an approach that is appropriate for elective anaesthesia as well as emergency airway management
+	* Plan for and avoid the difficult airway
+	* In the patient who does not require *immediate* intubation
+
+
+1. **Plan**
+	* Evaluate what techniques are available  
+	Based on the equipment, the patient, and technical skills. Think **ACORNS**: 
+		* **A**wake
+			* Waking the patient
+			* Awake laryngoscopy
+			* Awake FOI  
+			Is there laryngeal or tracheal pathology?
+		* **C**ricoid/FONA
+			* Scalpel cricothyrotomy
+			* Needle cricothyrotomy
+		* **Or**al
+			* Mask ventilation
+			* Intubation  
+			With and without VL.
+		* **N**asal  
+		Is the oral route impossible?
+			* Intubation  
+			Including blind.
+		* **S**upraglotic
+			* Use of LMA
+			* Use of iLMA
+	* For *this* patient, **consider which techniques are**:
+		* **Preferred**  
+		Depending on the indication for airway management. In most critical care situations (compared to elective anaesthesia), this will be a definitive oral airway.
+		* **Feasible**  
+		Could be used to maintain oxygenation +/- ventilation, but may not necessarily be definitive.
+		* **Unfeasible**  
+		Certain techniques may not be appropriate in certain patients.
+	* Of this short-list of options, decide on a **hierarchy of techniques**  
+	**Plan for failure** and have a series of **identified rescue techniques**, including a plan for:
+		* Rescue ventilation  
+		Alternate device, e.g. LMA, iLMA.
+		* Rescue intubation  
+		Alternate device.
+	* Consider **which drugs** will be required for these techniques
+
+
+2. **Patient**  
+Adequate patient preparation prior to induction reduces incidence of difficult tracheal intubation. Think **PROC**:
+* **Positioning**  
+	* Ensure EAM is level with sternal notch to maximise ease of intubation
+	* Ramping increases FRC in the obese patient
+* **Recruitment**  
+Use of CPAP during preoxygenation prolongs safe apnoea time in obese patients.
+* **Oxygenate**  
+Involves adequate denitrogenation, and consideration of apnoeic oxygenation.
+	* **Preoxygenation**/denitrogenation  
+	EtO<sub>2</sub> > 80% indicates a good proportion of FRC is oxygen, significantly prolonging safe apnoea times from 1-2 minutes up to 8 minutes.
+		* Note that reduced FRC (e.g. atelectasis) will lead to shunt and rapid drop in SpO<sub>2</sub> despite a high ETO<sub>2</sub> fraction  
+		Significant shunt will result in an SpO<sub>2</sub> of < 100% despite adequate ETO<sub>2</sub>.
+		* This can only be achieved when breathing oxygen through a closed-circuit system
+	* **Apnoeic oxygenation**  
+	Delivery of oxygen via nasal cannula during the apnoeic period. This technique:
+		* Requires a patent airway  
+		May not help during the apnoeic period when airway tone is reduced.
+		* May be performed with:
+			* Standard nasal cannula from wall oxygen at 15L.min<sup>-1</sup>
+			* Humidified 
+		* May be useful when:
+			* Oxygenation/FRC is compromised
+			* Laryngoscopy is difficult
+
+
+3. **Perform**
+	* Complete pre-airway management checklist  
+	During pre-oxygenation periods.
+	* Begin!
+
+
+###Airway Management Mental Checklist
+The **SPEEDBOMB** checklist is:
+*  Easy to remember  
+Allows it to be used as a 'challenge-confirm' checklist - i.e. the steps can be performed by multiple providers simultaneously and then the checklist is used to verify tasks have been completed
+* Appropriate to be used by a single provider as a 'call-do-response' checklist when working with an unfamiliar team
+
+
+* **Suction**  
+	* Available
+	* Consider gastric drainage if NGT is in situ
+* **Position**  
+In optimal position for this particular technique.
+	* Ear-to-sternal notch
+* **End-tidal CO<sub>2</sub>**  
+Available and working.
+* **Equipment**  
+The kit needed for the chosen techniques.
+	* BVM  
+	With mask and PEEP valve.
+	* Airway adjuncts  
+	NPA and OPA available.
+	* Laryngoscope
+		* Two working laryngoscopes
+		* **Lubricated**  
+		Critically ill patients often have high sympathetic tone and a dry oropharynx, making advancement of an unlubricated blade down the tongue difficult.
+		* Appropriate sized blades
+	* LMA  
+	Lubed and inflated as desired.
+	* ETT  
+		* Of **appropriate size**
+		* Lubricated
+		* At least two, including a smaller one
+		* If concerned about upper airway pathology/burns, have a **size 6 available**
+	* Adjuncts to ETT
+		* **Bougie**  
+		Must always be available.
+		* Stylet
+		* Syringe  
+		For cuff inflation.
+* **Drugs**  
+Including desired dose.
+	* Induction agents  
+	* Muscle relaxant  
+	If concerned, always use **adequate doses** of a **rapid-onset** NMBD.
+	* Opioid
+	* Vasopressors
+* **Backup plan**  
+Double check the availability of backup equipment, including FONA equipment.
+* **Oxygen** 
+	* Supply present **and connected**  
+	Ensure that the oxygen tubing attached to the flowmeter is also attached to the patient.
+	* Adequate pre-oxygenation/denitrogenation period
+	* Use of PEEP for lung recruitment prior to induction
+* **Monitoring**
+	* ECG
+	* SpO<sub>2</sub>
+	* BP
+* **Briefing**
+	* Allocate roles
+	* Detail airway plan A, B, etc
+	* Declare at what points the airway management strategy will change  
+	e.g. "If the SpO<sub>2</sub> falls to less than 93%, I will cease intubation attempts and return to BVM. If unable to mask ventilate, I will place an LMA."
+
+---
+
+##References
+1. Nickson, C. The challenge of the critically ill airway. 2018. CIA Course Notes.
+2. Mommers L, Keogh S. [SPEEDBOMB: a simple and rapid checklist for Prehospital Rapid Sequence Induction](https://onlinelibrary.wiley.com/doi/abs/10.1111/1742-6723.12363). Emerg Med Australas. 2015 Apr;27(2):165-8. 

@@ -7,17 +7,18 @@ Preoperative assessment is divided into:
 ##History
 This assessment template uses the mnemonic **IIF AMPLE**. Fasting status is in there twice, to ensure it's not forgotten.
 
-* **I**dentification of the patient
-* **I**ndication for surgery
-* **F**asting status
+* **Identification** of the patient
+* **Indication** for surgery
+* **Fasting** status
 
-* **A**llergies  
+
+* **Allergies**  
 	* Including issues with **previous anaesthetic**
 	* **Family history** of **anaesthetic issues**
 		* MH
 		* Atypical cholinesterase
 		* Other reactions
-* **M**edications  
+* **Medications**  
 In particular:
 	* Respiratory drugs
 	* Cardiac drugs
@@ -40,7 +41,7 @@ In particular:
 			* Note that cardioselective β-blockers do not increase bronchospasm risk in short term
 	* Alcohol use
 	* Drug use
-* **P**ast Medical History
+* **Past Medical History**
 	* Previous surgeries
 	* Previous anaesthetics
 		* Previous airway management difficulty
@@ -64,7 +65,7 @@ In particular:
 		 Recommend postponing elective operations 4-6/52 following an MI - increased risk of reinfarction/death (periop MI mortality is 20-50%).
 		 	* <3/12: 37% chance reinfarction
 		 	* 3-6/12: 15% chance reinfarction
-		 	* >6/12: Constant 5% risk
+		 	* > 6/12: Constant 5% risk
 		 	* If surgery cannot be avoided, post-op ICU monitoring decreases risk to 6%, 2%, 1% respectively
 		* CHF  
 		NYHA class.
@@ -104,8 +105,8 @@ In particular:
 		* Issues with this pregnancy
 		* Issues with previous pregnancies
 		* Problems with prior epidurals
-* Last eaten
-* Events  
+* **Last eaten**
+* **Events**  
 Of the last 24 hours and concurrent illnesses.
 
 ##Examination
@@ -137,34 +138,34 @@ Examination follows an ABCDE approach:
 
 ##Checklist
 An alternative pre-anaesthetic/peri-operative checklist is also described using the mnemonic A<sub>2</sub>B<sub>2</sub>C<sub>2</sub>D<sub>2</sub>E<sub>2</sub>F<sub>2</sub>G<sub>2</sub>:
-* **A**ffirmative history
+* **Affirmative history**
 	* Surgical condition
 	* Past illnesses and treatment
-* **A**irway
+* **Airway**
 	* Perform a detailed airway exam
-* **B**lood loss
+* **Blood loss**
 	* Current Hb
 	* Blood loss estimation
 	* Blood availability
-* **B**reathing
+* **Breathing**
 	* Respiratory examination
-* **C**linical exam  
+* **Clinical exam**  
 	* Cardiac examination
 	* Exertional tolerance
-* **C**o-morbidities  
+* **Co-morbidities**  
 Particualarly DM, HTN, asthma, epilepsy.
-* **D**rugs  
+* **Drugs**  
 Current medications and anaesthesia plan.
-* **D**etails  
+* **Details**  
 Of previous anaesthetics and surgeries.
-* **E**valuate investigations  
+* **Evaluate** investigations  
 Other relevant investigations.
-* **E**nd point to take up the case for surgery  
+* **End point** to take up the case for surgery  
 Conduct operation if further postponement will not be beneficial.
-* **F**luid status
-* **F**asting status
-* **G**ive physical status
-* **G**et consent
+* **Fluid** status
+* **Fasting** status
+* **Give physical status
+* **Get consent**
 
 ---
 

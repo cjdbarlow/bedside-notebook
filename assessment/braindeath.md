@@ -14,7 +14,7 @@
 			* PaCO<sub>2</sub> has risen 20mmHg above baseline
 * In a patient who is:
 	* Normothermic  
-	>36.5°C.
+	> 36.5°C.
 	* Normotensive 
 	SBP >100mmHg.
 	* Euvolaemic

@@ -44,30 +44,6 @@ Human failures occur in ~80% of airway events.
 * Patient Factors
 	* Obesity
 
-##Avoiding the Difficult Airway
-Preparation prior to induction reduces incidence of difficult tracheal intubation:
-* Adequate **preoxygenation** and denitrogenation  
-EtO<sub>2</sub> > 80% indicates a good proportion of FRC is oxygen, significantly prolonging safe apnoea times from 1-2 minutes up to 8 minutes.
-	* Note that reduced FRC (e.g. atelectasis) will lead to shunt and rapid drop in SpO<sub>2</sub> despite a high ETO<sub>2</sub> fraction  
-	Significant shunt will result in an SpO<sub>2</sub> of < 100% despite adequate ETO<sub>2</sub>.
-	* This can only be achieved when breathing oxygen through a closed-circuit system
-* **Recruitment**  
-Use of CPAP during preoxygenation prolongs safe apnoea time in obese patients.
-* **Positioning**  
-	* Ensure EAM is level with sternal notch to maximise ease of intubation
-	* Ramping increases FRC in the obese patient
-* **Apnoeic oxygenation**  
-Delivery of oxygen via nasal cannula during the apnoeic period. This:
-	* May be performed with:
-		* Standard nasal cannula from wall oxygen at 15L.min<sup>-1</sup>
-		* Humidified 
-	* Requires a patent airway  
-	May not help during the apnoeic period when airway tone is reduced.
-	* May be useful when:
-		* Oxygenation is compromised
-		* Laryngoscopy is difficult
-* Use **adequate doses of rapid-onset neuromuscular blocking drugs**
-
 
 Important technical factors include:
 * Make the **first attempt** the **best attempt**
