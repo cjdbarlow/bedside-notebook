@@ -7,8 +7,6 @@ Lowest morbidity and mortality technique. >90% of LUSCS are performed under spin
 * Epidural top-up
 * GA
 
-* Preparation:
-
 ###Spinal
 * Patient should be consented that:
 	* Spinal does not remove all sensation
