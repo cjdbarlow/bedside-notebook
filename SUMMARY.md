@@ -7,6 +7,7 @@
 * [Systems Approach](/assessment/physician-approach.md)
   * [Detailed Neurological Exam](/assessment/neurological-exam.md)
 * [Pre-Anaesthetic](/assessment/pre-anaesthetic.md)
+	* [Anaesthetic Machine Check](/assessment/machinecheck.md)
 * [Intraoperative](/assessment/intraoperative.md)
 * [Trauma](/assessment/trauma.md)
 	* [Trauma Epidemiology](/assessment/trauma-epi.md)
