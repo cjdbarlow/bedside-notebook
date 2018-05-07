@@ -48,7 +48,7 @@ Risk Factors (**MBBS MAT**):
 Risk factors (**LEMON**):
 * Cormack and **L**ehane Grading:  
 Cook modification correlates better with time to intubate and requirement for adjuncts.  
-![Cook Modification](/resources/needlecric.png)
+![Cook Modification](/resources/c&lgradecookmod.png)
 	* Grades are by best view, with or without ELM or BURP
 	* This modification adds additional complexity  
 	The author recommends subdividing into three tiers which have greater practical value:

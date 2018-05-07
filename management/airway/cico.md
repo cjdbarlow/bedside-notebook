@@ -1,5 +1,5 @@
 #Can't Intubate, Can't Oxygenate
-*This covers the CICO situation from the [difficult airway drill](management/airway/difficult-airway.md#drill).*
+*This covers the CICO situation from the [difficult airway drill](/management/airway/difficult-airway.md#drill).*
 
 > * CICO should be **verbally declared**
 > * A CICO situation may occur when oxygen saturations are normal

@@ -28,7 +28,7 @@
 
 ---
 
-* [Airway](/management/airway/airway-assessment.md#id)
+* [Airway](/management/airway/airway-management.md#id)
 	* [Airway Management](/management/airway/airway-management.md)
   		* Intubation
   			* [RSI](/management/airway/rsi.md)
