@@ -10,8 +10,23 @@
 ##References
 
 
+#Operation
 
+##Summary
+>Time
+>Pain
+>Position
+>Blood loss
+>Special Drugs
 
+##Techniques
+##Considerations
+##Preoperative
+##Perioperative
+##Postoperative
+
+---
+##References
 
 
 

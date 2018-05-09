@@ -54,7 +54,6 @@
 * [Fasting](/anaesthesia/general/fasting.md)
 * [General Anaesthesia](/anaesthesia/general/fasting.md#id)
 	* [Low-Flow Anaesthesia](/anaesthesia/general/low-flow.md)
-	* [Cardiopulmonary Bypass](/anaesthesia/cthr/cpb.md)
 * [Positioning](/anaesthesia/general/positioning.md)
 	* [Prone Positioning](/anaesthesia/general/proneanaes.md)
 	* [Post-operative Neuropathy](/anaesthesia/general/postopneuro.md)
@@ -65,7 +64,10 @@
 		* [TAP](/anaesthesia/regional/tap.md)
 
 ---
-
+* [Cardiac](/anaesthesia/cthr/cpb.md#id)
+	* [Cardiopulmonary Bypass](/anaesthesia/cthr/cpb.md)
+	* [Deep Hypothermic Circulatory Arrest](/anaesthesia/cthr/dhca.md)
+	* [Coronary Artery Bypass Grafting](/anaesthesia/cthr/cabg.md)
 * [Obstetric](/anaesthesia/obs/luscs.md#id)
 	* [LUSCS](/anaesthesia/obs/luscs.md)
 
