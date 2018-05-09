@@ -29,12 +29,10 @@
 ---
 
 * [Airway](/management/airway/airway-management.md#id)
-	* [Airway Management](/management/airway/airway-management.md)
-  		* Intubation
-  			* [RSI](/management/airway/rsi.md)
-  			* FOI
-      	* [Transtracheal Jet ventilation](/management/airway/jet-ventilation.md)
-  		* Extubation
+	* [Airway Planning](/management/airway/airway-management.md)
+	  	* [RSI](/management/airway/rsi.md)
+  	    * [Transtracheal Jet Ventilation](/management/airway/jet-ventilation.md)
+  	* [Expected Difficult Airway](/management/airway/expected-difficult-airway.md)
     * [Unexpected Difficult Airway](/management/airway/difficult-airway.md)
     * [CICO](/management/airway/cico.md)
 * Breathing
@@ -51,13 +49,15 @@
 * Infective and Immune
 
 ## Anaesthesia
+* [Anaesthetic Emergencies](/anaesthesia/crisis/anaesthetic-crisis.md)
+	* [CICO](/management/airway/cico.md#id)
 * [Fasting](/anaesthesia/general/fasting.md)
-* [Positioning](/anaesthesia/general/positioning.md)
-	* [Prone Positioning](/anaesthesia/general/proneanaes.md)
-	* [Post-operative Neuropathy](/anaesthesia/general/postopneuro.md)
 * [General Anaesthesia](/anaesthesia/general/fasting.md#id)
 	* [Low-Flow Anaesthesia](/anaesthesia/general/low-flow.md)
 	* [Cardiopulmonary Bypass](/anaesthesia/cthr/cpb.md)
+* [Positioning](/anaesthesia/general/positioning.md)
+	* [Prone Positioning](/anaesthesia/general/proneanaes.md)
+	* [Post-operative Neuropathy](/anaesthesia/general/postopneuro.md)
 * [Neuraxial](/anaesthesia/regional/epidural.md#id)
 	* [Epidural](/anaesthesia/regional/epidural.md)
 * [Regional](/anaesthesia/regional/tap.md#id)
@@ -89,7 +89,12 @@
 
 
 ## Procedures
-* [Needle Cricothyrotomy](procedures/needle-cricothyrotomy.md)
-* [Scalpel Cricothyrotomy](procedures/scalpel-cricothyrotomy.md)
-* [Epidural Catheters](procedures/epidural_insertion.md)
+* [Airway Procedures](/procedures/airway/bmv.md#id)
+	* [Bag-Mask Ventilation](/procedures/airway/bmv.md#id)
+	* [Intubation](/procedures/airway/intubation.md)
+	* [LMA insertion](/procedures/airway/lma.md)
+	* [FOI](/procedures/airway/foi.md)
+	* [Needle Cricothyrotomy](/procedures/airway/needle-cricothyrotomy.md)
+	* [Scalpel Cricothyrotomy](/procedures/airway/scalpel-cricothyrotomy.md)
+* [Epidural Insertion](/procedures/epidural_insertion.md)
 

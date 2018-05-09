@@ -29,9 +29,23 @@ Multiple indications for intubation exist:
 ##Contraindications
 
 ##Technique
+Optimising laryngoscopy:
+* Ensure ear-to-sternal notch position
+* Lift epiglottis
+* Use of intubation adjuncts
+	* Stylet
+	* Bougie
+	* Magill forceps  
+	With nasal ETT.
+* Use of alternate laryngoscopes
+	* Adjust blade or handle
+	* Use of **video laryngoscopes**
+* Suction
+* Consider adequacy of muscle relaxation
 
 
 ---
 
 ##References
 1. Nickson, C. The challenge of the critically ill airway. 2018. CIA Course Notes.
+2. Chrimes, N. Fritz, P. [The Votex Approach: Management of the Unanticipated Difficult Airway](https://www.smashwords.com/books/view/277513). Smashwords. 2013.

@@ -1,11 +1,76 @@
-#Airway Management
+#Airway Planning
 > Oxygenation > Intubation
 
-The goal of airway management is to**maintain oxygenation and ventilation, without physiological compromise or complications**, ideally with a patent and protected airway.
-* This does not (necessarily) imply intubation
+The goal of airway management is to **maintain oxygenation and ventilation, without physiological compromise or complications**, ideally with a patent and protected airway.
+* This does not (necessarily) imply intubation  
+Oxygen can be delivered by:
+	* Ventilation
+	* Insufflation
+	* Apnoeic absorption
 * The chosen airway management technique will depend on the patients anatomy and physiological state, the situation, and the indication
+* Secondary goals include:
+	* Airway protection  
+	From aspiration.
+	* Airway security  
+	From dislodgement or obstruction.
+	* Ventilation  
+	For acidosis.
+	* Control of airway pressures
+	* Control of respiratory timing
 * Remember the hierarchy of intubation needs  
-<img src="/resources/hierarchy-of-em-intubation-needs.jpg" width="50%")
+<img src="/resources/hierarchy-of-em-intubation-needs.jpg")
+
+
+##Epidemiology of Airway Complications
+* The most common cause of airway related death is hypoxia
+	* Aspiration is the most common cause of airway related anaesthetic death
+* Complications from airway management are more common in ED and ICU
+
+
+* Failed tracheal intubation occurs in:
+	* ~1/1000-2000 elective cases 
+	* ~1/250 obstetric RSI
+	* ~1/100 ED intubations
+* Failed or difficult tracheal intubation was the primary event in >1/3<sup>rd</sup> of events
+
+
+* CICO occurs in ~1/50,000 elective anaesthetics
+	* CICO is low compared to incidence of difficult intubation
+* CICO contributes 25% of anaesthesia-related mortality
+* Requirement for emergency FONA increases morbidity 15x  
+	* ~25% permanent harm or death
+* In 2/3<sup>rds</sup> of CICO situations, a surgical airway was performed too late to prevent harm  
+
+##Factors Contributing to Adverse Airway Events
+* Human factors  
+Human failures occur in ~80% of airway events.
+	* Delayed decision to declare failed airway
+	* Delay in decision to perform cricothyrotomy
+	* Equipment knowledge
+	* Training  
+	Especially in surgical airway and rescue techniques.
+	* Poor communication
+	* Poor teamwork
+	* Tunnel vision/task focus
+	* Training
+	* Systems
+* Patient Factors
+	* Obesity
+
+
+Important technical factors include:
+* Make the **first attempt** the **best attempt**
+	* Subsequent attempts are less successful
+	* Efficacy of SAD rescue is reduced with more attempts
+* Equipment and technique
+	* Selection of laryngoscopes, and experience in their use
+	* Bougie  
+	Pre-shaped.
+	* ELM
+	* Remove cricoid pressure if view is poor
+* **Call for help early**
+* Maximum of **3 attempts** by a single provider
+
 
 ##A Framework for Airway Management
 > There are many frameworks for airway management. This one aims to:
@@ -13,6 +78,10 @@ The goal of airway management is to**maintain oxygenation and ventilation, witho
 >	* Provide an approach that is appropriate for elective anaesthesia as well as emergency airway management
 >	* Plan for and avoid the difficult airway
 >	* In the patient who does not require *immediate* intubation
+
+
+* Optimise before you compromise
+
 
 
 1. **Plan**
@@ -153,3 +222,4 @@ Double check the availability of backup equipment, including FONA equipment.
 ##References
 1. Nickson, C. The challenge of the critically ill airway. 2018. CIA Course Notes.
 2. Mommers L, Keogh S. [SPEEDBOMB: a simple and rapid checklist for Prehospital Rapid Sequence Induction](https://onlinelibrary.wiley.com/doi/abs/10.1111/1742-6723.12363). Emerg Med Australas. 2015 Apr;27(2):165-8. 
+3. Chrimes, N. Fritz, P. [The Votex Approach: Management of the Unanticipated Difficult Airway](https://www.smashwords.com/books/view/277513). Smashwords. 2013.

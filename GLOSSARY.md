@@ -387,6 +387,9 @@ Total Lung Capacity
 ##TSH
 Thyroid Stimulating Hormone
 
+##URTI
+Upper Respiratory Tract Infection
+
 ##VIE
 Vacuum Insulated Evaporator
 

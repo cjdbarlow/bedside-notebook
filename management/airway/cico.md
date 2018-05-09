@@ -1,4 +1,4 @@
-#Can't Intubate, Can't Oxygenate
+#Can't Intubate, Can't Oxygenate {#id}
 *This covers the CICO situation from the [difficult airway drill](/management/airway/difficult-airway.md#drill).*
 
 > * CICO should be **verbally declared**
@@ -14,6 +14,7 @@ A CICO situation occurs when there is a failure (or impending failure) to delive
 	* SAD  
 	Two attempts with different sizes or devices.
 	* Bag-Mask Ventilation with use of adjuncts
+* Note that therefore the **trigger for performing FONA is inability to establish airawy patency** following optimal attempts at non-surgical techniques, **not desaturation**
 
 
 ###Front of Neck Access
@@ -35,3 +36,4 @@ Cricothyrotomy techniques include:
 ##References
 1. Frerk, C., Mitchell, V. S., McNarry, A. F., Mendonca, C., Bhagrath, R., Patel, A., … Ahmad, I. (2015, December 1). Difficult Airway Society 2015 guidelines for management of unanticipated difficult intubation in adults. British Journal of Anaesthesia. Oxford University Press. https://doi.org/10.1093/bja/aev371
 2. ANZCA. [PS 61: Guidelines for the Management of Evolving Airway Obstruction: Transition to the Can’t Intubate Can’t Oxygenate Airway Emergency](http://www.anzca.edu.au/getattachment/resources/professional-documents/ps61_guideline_airway_cognitive_aid_2016.pdf). 2016.
+3. Chrimes, N. [The Vortex: A Universal 'High-Acuity Implementation Tool' for Emergency Airway Management](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bja/117/suppl_1/10.1093_bja_aew175/3/aew175.pdf?Expires=1490519117&Signature=WDst8BeRnWgBXFudzgcLzu~Dw9HSr1v6yYlJwU-QUlgp5PgJ2msffuz~vsoWDXXv-XxZr1ndrpwcxCH274qVjBP~7hGZdtB3HBzH5HUNIHbFqBVtciwZlFQsMOSW6aAAt4kEtBBH6TAjkgxrA-~PpqBqpvOeOzC~08QMUjKXiqmn4errYgsKBEMXdNhxwJRPxra3w4BnOp-zluwtSsmmBzrfVvN0NmISaIOXxUGFqJHs1pWGJ9sqnuTYQsSkyAxdozEdWDnQAYkFNkq7igoHpzVNGzEkUMylsTVub1KHVEXLNT7De~LVU~c-M1Ft6G7p96r8vVYhGwOToDqGURIBig__&Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q). Br J Anaesth 117 Suppl 1, i20-i27. 2016 Jul 20.

@@ -50,7 +50,18 @@ Commonly used adjuvants include:
 * Lignocaine
 
 ###Comparison of Adjuvants
+|Property|Opioids|Benzodiazepines|Lignocaine
+|--|--|--|
+|**Uses**|- Attenuate haemodynamnic response to laryngoscopy<br>- Suppression of airway reflexes<br>- Reduce required dose of induction agent|- Premedication|- Decrease pain on injection<br>- Decrease risk of laryngospasm and bronchospasm
+|**Suggested dose**|- 0.5-1ug/kg fentanyl (reduce in elderly; consider avoiding in HDx unstable patients)|- 1-4mg of midazolam in 0.5-1mg increments (reduce in elderly)|- 0.5-1mg/kg (for airway reflex suppression)<br>- 20-30mg bolus to reduce pain on injection
+|**Advantages**|See uses|- Anxiolysis and amnesia <br>- Decrease IV induction dose requirement<br>- Anticonvulsant|- Decrease airway reactivity<br>-Increase sedation/Decrease dose of IV induction agent
+|**Disadvantages**|- Respiratory depression <br>- May increase PONV (predominantly morphine)|- Mild vasodilation and negative inotropy, may worsen HDx instability <br>- Respiratory depression|- Increases ventricular rate in patients with AF
+
+
+
 
 ---
 
 ##References
+
+1. Weavind LM, Josh GP, Nussmeier NA. General anesthesia: Intravenous induction agents. In: UpToDate, Post, TW (Ed), UpToDate, Waltham, MA, 2014.
