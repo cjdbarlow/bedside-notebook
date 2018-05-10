@@ -68,6 +68,8 @@
 	* [Cardiopulmonary Bypass](/anaesthesia/cthr/cpb.md)
 	* [Deep Hypothermic Circulatory Arrest](/anaesthesia/cthr/dhca.md)
 	* [Coronary Artery Bypass Grafting](/anaesthesia/cthr/cabg.md)
+* [Opthalmology](/anaesthesia/opthal/opthal-la.md#id)
+	* [Procedures under LA](/anaesthesia/opthal/opthal-la.md#id)
 * [Obstetric](/anaesthesia/obs/luscs.md#id)
 	* [LUSCS](/anaesthesia/obs/luscs.md)
 

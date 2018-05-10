@@ -84,13 +84,16 @@ Give 1mg protamine per 100 units of UFH.
 
 ##Complications
 Use of bypass is associated with several complications including:
+* Increased risk of anaesthetic awareness
 * Myocardial stunning  
 EF is reduced immediately post-bypass.
-* CVA
-	* Air embolus
+* Dysrhythmias
+* Air emboli
+	* CVA
+	* CAGE
 * Impaired organ perfusion, leading to post-bypass:
 	* AKI
-	* Vasoplegia
+	* Post-pump vasoplegia
 
 
 

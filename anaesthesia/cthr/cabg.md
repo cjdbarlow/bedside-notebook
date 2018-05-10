@@ -4,7 +4,7 @@
 >Pain: 
 >Position: Supine/crucifix
 >Time: 3-4 hours
->Blood loss: Cross-match two units
+>Blood loss: Cross-match 2 units
 >Special: CPB - higher risk for anaesthetic awareness
 
 Use of an autologous artery or vein to bypass a stenosed section of coronary artery and restore downstream perfusion.
@@ -25,6 +25,8 @@ Evaluation should consider:
 	* Echocardiographic findings
 	* Coronary angiogram
 	* Exercise ECG
+* Previous cardiac surgery  
+**Re-do sternotomy** is associated with risk of **massive haemorrhage**. At least 2 units of **blood should be available**.
 
 ##Technique: Relaxant GA
 Almost always performed under relaxant general anaesthesia.
@@ -50,8 +52,14 @@ Almost always performed under relaxant general anaesthesia.
 * Transfer intubated to PACU/ICU
 
 ##Special Considerations
-Use of intra-aortic balloon pump:
-* Severe LV dysfunction and unablet o wean from bypass
+Complications can include:
+* Massive haemorrhage
+* Severe LV or RV dysfunction
+	* Pulmonary oedema
+	* May be unable to wean from bypass
+* Atelectasis
+* Bronchospasm
 
 ---
 ##References
+1.
