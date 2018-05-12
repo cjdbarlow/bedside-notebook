@@ -133,20 +133,22 @@ Airway assessment and immediate management:
 
 * **B**  
 Assess breathing (**RU IN SHAPE**). If there are no signs of life, commence traumatic cardiac arrest protocol.
-	* Respiratory Rate
-		* RR > 20
-		* RR < 8
-	* Unequal movements
-	* Injuries  
-	Major thoracic trauma.
-	* Search
-	* Hands on  
-	Palpate.
-	* Auscultate
-	* Percuss
-	* (Everywhere)
-	* Interventions  
-	The respiratory support ladder:
+	* Assessment:
+		* Respiratory Rate  
+		Significant when:
+			* RR > 20
+			* RR < 8
+		* Unequal movements
+		* Injuries  
+		Major thoracic trauma.
+		* Search
+		* Hands on  
+		Palpate.
+		* Auscultate
+		* Percuss
+		* (Everywhere)
+		* Interventions to optimise
+	The **respiratory support ladder**:
 		* Rescue  
 		If entrapped.
 		* Optimise positioning

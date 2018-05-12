@@ -219,10 +219,10 @@ Complications of cardiac surgery relevant to intensive care include:
 	Due to uncontrolled (typically arterial) source. Suggested by:
 		* Bleeding with normal coagulation parameters
 		* Large volume drain outputs  
-			* >500ml in 1 hour
-			* >400ml/hr for 2 hours
-			* >300ml/hr for 3 horus
-			* >200ml/hr for 4 hours
+			* \>500ml in 1 hour
+			* \>400ml/hr for 2 hours
+			* \>300ml/hr for 3 horus
+			* \>200ml/hr for 4 hours
 		* Bleeding following period of extreme hypertension
 * **Cardiac Tamponade**  
 Collection of fluid (blood) around the heart, impairing filling and therefore CO.

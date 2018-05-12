@@ -1,52 +1,51 @@
 #Coronary Artery Bypass Grafting
->Airway: ETT
->Access: 14G IVC or MAC line, arterial line, CVC, +/- PAC
+
+>Airway: ETT  
+>Access: 14G IVC or MAC line, arterial line, CVC, +/- PAC  
 >Pain: 
->Position: Supine/crucifix
->Time: 3-4 hours
->Blood loss: Cross-match 2 units
->Special: CPB - higher risk for anaesthetic awareness
+>Position: Supine/crucifix  
+>Time: 3-4 hours  
+>Blood loss: G+H required. Cross-match if **re-do surgery**, anaemic, small, sick, or emergency.
+>Special: CPB - higher risk for anaesthetic awareness  
 
 Use of an autologous artery or vein to bypass a stenosed section of coronary artery and restore downstream perfusion.
 
 ##Preoperative Evaluation
+*This covers factors unique to CABG. Factors relating to cardiac surgery in general are covered [here](/anaesthesia/cthr/cthr-principles.md#id).*
+
 Evaluation should consider:
-* Co-existing disease
-	* COAD and smoking
-	* Hypertension
-	* Valvular disease
-	* CAD  
-	Including previous MI and PCI.
-	* Cerebrovascular disease
-	* DM
-	* CKD
-* Cardiac function
-	* Exercise tolerance
-	* Echocardiographic findings
-	* Coronary angiogram
-	* Exercise ECG
-* Previous cardiac surgery  
-**Re-do sternotomy** is associated with risk of **massive haemorrhage**. At least 2 units of **blood should be available**.
+* CAD  
+High risk features:
+	* History:
+		* Unstable angina
+		* AMI within last 3 months
+		* Cardiogenic shock
+		* Decompensated CCF
+	* Coronary anatomy:
+		* Left main disease
+		* Triple vessel disease
+		* Proximal LAD stenosis
+	* Ventricular function:
+		* LVEF <30%
+		* Concominant RV dysfunction
+
 
 ##Technique: Relaxant GA
 Almost always performed under relaxant general anaesthesia.
 
-###Preparation
-* 5-lead ECG
-* Temperature monitor
-* Pulmonary artery catheter
-	* Severe LV dysfunction (EF<30%)
-	* MV dysfunction
-	* AKI
-* Awake arterial line placement
-* Consider awake central access
-
-###Induction
-* Antibiotics prior to skin incision
-* Haemodynamically stable induction
-
 ###Intraoperative
-* Cease ventilation prior to sternotomy
+*This covers factors unique to CABG. Factors relating to bypass are covered [here](/anaesthesia/cthr/cpb.md#id).*
+
+Operation can be divided into pre-, intra-, and post-bypass phases:
+* Pre-bypass
+	* If LIMA harvest is occurring:
+		* Decrease V<sub>T</sub> to 5-6ml/kg
+		* Reduce anaesthetic  
+		Period of minimal stimulation following the very stimulating sternotomy.
+		* Increase FiO<sub>2</sub> as there is a frequent surgical requirement for apnoea
+* Bypass
+* Post-bypass
+
 
 ###Postoperative Care
 * Transfer intubated to PACU/ICU

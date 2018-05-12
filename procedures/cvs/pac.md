@@ -1,0 +1,88 @@
+#Pulmonary Artery Catheter Insertion
+
+The pulmonary artery catheter (also known as a Swan-Ganz catheter, and the yellow snake), is a 60-110cm long balloon-tipped catheter which is inserted into a central vein and 'floated' into the pulmonary artery.
+
+
+##Indications
+A PAC can be useful to assess:
+* Shock states  
+Particularly undifferentiated/multifactorial shock states.
+* Cardiovascular function
+	* Right heart failure
+	* Pulmonary hypertension
+	* Peri-cardiac surgery
+* Lung function
+* Volume state
+* Multiorgan dysfunction
+
+
+##Contraindications
+Insertion of a PAC may be contraindicated in:
+* Coagulpathy
+* Previous TV or PV replacements
+* Current LBBB  
+There is a risk of rupturing the moderator band during PAC insertion, which will convert a LBBB to CHB.
+
+
+##Equipment
+The PAC contains:
+* A wedge port  
+Allows the balloon to be inflated with air. The port is paired with a special syringe that allows only the amount of air designed for the catheter to be used to inflate the balloon.
+* Distal (yellow) lumen  
+Monitors the PAP when sited correctly, and allows mixed-venous gas samples to be taken.
+* Proximal (blue) lumen  
+Lies in the RA when sited correctly, and monitors CVP. Cardiac output syringe should be attached here.
+* Proximal (white) lumen  
+Can be used for drug infusions.
+* Temperature port  
+Used to monitor core temperature and compute cardiac output.
+
+
+##Technique
+A PAC is inserted through a sheath:
+* Sheaths are usually placed in the right IJV or left SCV as these form a natural angle for the curved PAC to enter the RA
+
+
+Once the sheath is in situ, open the PAC:
+* Remove the catheter tip from its cover
+* Check integrity of the PAC balloon by inflating it
+* Feed the PAC cover over the cathether and secure it in place
+* Cap off any unused lumens
+* Pass the PAC hub to the assistant
+	* Have the assistant prime each catheter lumen and zero each transducer
+	* Confirm that each lumen is being transduced correctly by rotating the catheter tip  
+	If the CVP lumen remains at the same elevation but the catheter tip is raised, the measured PAP should fall but the CVP should remain the same.
+	* Confirm that the zero on each line is correct  
+	Both should measure the same pressure at the same elevation.
+* Float the PAC:
+	* Insert PAC to 20cm
+	* Have assistant inflate balloon  
+	Ensure closed-loop communication whilst floating. **Never withdraw the catheter with the balloon inflated**.
+	* Smoothly insert the catheter at a rate of ~3cm/second whilst watching the PA waveform  
+	For an IJ approach, the RV should be reached at ~30cm mark, PA should be reached at ~40cm mark, and a wedge (if desired) achieved at the 50cm mark.
+		* If the correct waveforms are not being seen, then **deflate the balloon**, withdraw and reattempt
+	* Once a PA waveform is seen, advance 1cm further and then deflate the balloon  
+		* This is to ensure that the catheter does not end up in the RVOT, where it will cause arrythmias
+		* Note that the catheter will expand as it warms, and can spontaneously wedge if it is inserted too far
+	* Ensure the catheter is left with the balloon deflated, the syringe empty, and the tap open to prevent accidental balloon inflation
+
+
+
+##Complications
+Use of a PAC is associated with several complications:
+* Dysrhythmia  
+May be atrial or ventricular, and during insertion or afterwards.
+	* RBBB 
+	Up to 5%.
+* Pulmonary Artery Haemorrhage  
+Up to 50% mortality. Predominantly associated with wedging.
+* Infection
+* Thrombus
+* Central line complications
+	* PTHx
+	* Arterial puncture
+	* Air embolus
+
+---
+##References
+1. Liverpool Hospital. [Pulmonary Artery Catheter Learning Package](https://www.aci.health.nsw.gov.au/__data/assets/pdf_file/0004/306589/Pulmonary_Catheter_Learning_Package.pdf). 2016.

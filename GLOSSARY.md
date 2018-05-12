@@ -51,6 +51,9 @@ Citric Acid Cycle
 ##CBF
 Cerebral Blood Flow
 
+##CHB
+Complete Heart Block
+
 ##CICO
 Can't Intubate, Can't Oxygenate
 
@@ -171,6 +174,9 @@ Free Fatty Acid
 ##FGF
 Fresh Gas Flow
 
+##FOI
+Fibreoptic Intubation
+
 ##FONA
 Front-of-neck access (surgical airway)
 
@@ -227,6 +233,9 @@ K-type (κ) opioid receptor
 
 ##LAD
 Left Anterior Descending
+
+##LBBB
+Left Bundle Branch Block
 
 ##LCx
 Left Circumflex
@@ -330,7 +339,7 @@ Pulse Pressure Variation
 ##RAP
 Right Atrial Pressure
 
-#RBBB
+##RBBB
 Right Bundle Branch Block
 
 ##RR

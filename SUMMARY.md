@@ -51,12 +51,13 @@
 ## Anaesthesia
 * [Anaesthetic Emergencies](/anaesthesia/crisis/anaesthetic-crisis.md)
 	* [CICO](/management/airway/cico.md#id)
+	* [Laryngospasm](/disease/airway/laryngospasm.md#id)
 * [Fasting](/anaesthesia/general/fasting.md)
 * [General Anaesthesia](/anaesthesia/general/fasting.md#id)
 	* [Low-Flow Anaesthesia](/anaesthesia/general/low-flow.md)
 * [Positioning](/anaesthesia/general/positioning.md)
 	* [Prone Positioning](/anaesthesia/general/proneanaes.md)
-	* [Post-operative Neuropathy](/anaesthesia/general/postopneuro.md)
+	* [Post-Operative Neuropathy](/anaesthesia/general/postopneuro.md)
 * [Neuraxial](/anaesthesia/regional/epidural.md#id)
 	* [Epidural](/anaesthesia/regional/epidural.md)
 * [Regional](/anaesthesia/regional/tap.md#id)
@@ -64,7 +65,8 @@
 		* [TAP](/anaesthesia/regional/tap.md)
 
 ---
-* [Cardiac](/anaesthesia/cthr/cpb.md#id)
+* [Cardiac](/anaesthesia/cthr/cthr-principles.md#id)
+	* [Cardiac Anaesthetic Principles](/anaesthesia/cthr/cthr-principles.md)
 	* [Cardiopulmonary Bypass](/anaesthesia/cthr/cpb.md)
 	* [Deep Hypothermic Circulatory Arrest](/anaesthesia/cthr/dhca.md)
 	* [Coronary Artery Bypass Grafting](/anaesthesia/cthr/cabg.md)
@@ -80,6 +82,7 @@
 ## Disease
 * Respiratory
 	* Upper Airway
+		* [Laryngospasm](/disease/airway/laryngospasm.md)
 		* [Laryngeal Fracture](/disease/respiratory/upper-airway/laryngeal-fracture.md)
 * CNS
 	* [PDPH](/disease/cns/pdph.md)
@@ -100,5 +103,10 @@
 	* [FOI](/procedures/airway/foi.md)
 	* [Needle Cricothyrotomy](/procedures/airway/needle-cricothyrotomy.md)
 	* [Scalpel Cricothyrotomy](/procedures/airway/scalpel-cricothyrotomy.md)
+* [Central Venous Access](/procedures/cvs/central-venous-access.md)
+	* [PAC Insertion](/procedures/cvs/pac.md)
 * [Epidural Insertion](/procedures/epidural_insertion.md)
-
+* [Regional Anaesthesia](/procedures/regional/peribulbar.md#id)
+	* [Head and Neck](/procedures/regional/peribulbar.md#id)
+		* [Peribulbar Block](/procedures/regional/peribulbar.md)
+		* [Sub-Tenon's Block](/procedures/regional/subtenon.md)

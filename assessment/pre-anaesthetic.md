@@ -86,6 +86,8 @@ In particular:
 		* Insufficiency
 		* Dialysis
 	* Haematological diseases
+		* Objection to blood products
+		* History of bleeding problems
 		* Anaemia
 		* Coaguolpathy
 		* Dyscrasias
