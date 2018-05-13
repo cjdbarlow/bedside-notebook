@@ -21,8 +21,9 @@
 
 ##Techniques
 ##Considerations
-##Preoperative
-##Perioperative
+##Preparation
+##Induction
+##Intraoperative
 ##Postoperative
 
 ---

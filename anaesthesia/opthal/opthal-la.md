@@ -1,9 +1,9 @@
 #Ocular Procedures Performed with Local Anaesthetic Blocks
->Time
->Pain
->Position
->Blood loss
->Special Drugs
+>Time: Variable  <br>
+>Pain: Minimal  <br>
+>Position: Supine, face parallel to ceiling  <br>
+>Blood loss: Negligible  <br>
+>Special: Hyaluronidase: Hydrolyses hyaluronan, reducing integrity of the extracellular matrix and increasing tissue permeability  
 
 Local anaesthetic with or without sedation is a common technique for many ocular surgeries including:
 * Trabeculectomy  

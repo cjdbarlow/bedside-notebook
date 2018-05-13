@@ -86,20 +86,20 @@ Investigations:
 Lines and monitoring:
 * 5-lead ECG
 * SpO<sub>2</sub>
+* Arterial line and IVC  
+Should be placed awake and on the **right side** if surgeons are not planning on using this vessel.
+	* Left sided arteries and vessels lie closer to the sternum  
+	Damage to left innominate vein will render any left upper limb venous access useless.
 * Consider external defibrillation pads
 	* Re-do cases
 	* Modified aaccess
 	* Deactivated AICD
 	* Removal of PPM leads
-* Arterial line and IVC  
-Should be placed awake and on the **right side** if surgeons are not planning on using this vessel.
-	* Left sided arteries and vessels lie closer to the sternum
-	* Damage to left innominate vein will render any left upper limb venous access useless
 * Consider awake central access  
 MAC lines are excellent choice for volume as well as providing a route of administration of centrally acting drugs.
 * Pulmonary artery catheter  
 Indicated in the setting of:
-	* Severe LV dysfunction (EF<30%)
+	* Severe LV dysfunction (EF \<30%)
 	* MV dysfunction
 	* AKI
 

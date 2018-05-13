@@ -270,6 +270,9 @@ M-type (μ) opioid receptor
 ##MV
 Minute Ventilation
 
+##MVE
+Minimum Volume Extension
+
 ##NSAID
 Non-Steroidal Anti-Inflammatory Drug
 

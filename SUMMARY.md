@@ -21,7 +21,7 @@
 	* [Unconsciousness](/assessment/neuro/unconscious.md)	
 
 ## Management
-* Cardiac Arrest
+* [Cardiac Arrest](/management/cvs/post-cthr.md#id)
 	* Adult Cardiac Arrest
 	* Paediatric Cardiac Arrest
 	* [Post-Cardiac Surgery](/management/cvs/post-cthr.md)
@@ -70,10 +70,15 @@
 	* [Cardiopulmonary Bypass](/anaesthesia/cthr/cpb.md)
 	* [Deep Hypothermic Circulatory Arrest](/anaesthesia/cthr/dhca.md)
 	* [Coronary Artery Bypass Grafting](/anaesthesia/cthr/cabg.md)
-* [Opthalmology](/anaesthesia/opthal/opthal-la.md#id)
-	* [Procedures under LA](/anaesthesia/opthal/opthal-la.md#id)
+* [Neurosurgery](/anaesthesia/neuro/craniotomy.md#id)
+	* [Craniotomy](/anaesthesia/neuro/craniotomy.md)
+	* [Aneurysm Clipping](/anaesthesia/neuro/aneurysm.md)
 * [Obstetric](/anaesthesia/obs/luscs.md#id)
 	* [LUSCS](/anaesthesia/obs/luscs.md)
+* [Orthopaedics](/anaesthesia/ortho/spine.md#id)
+	* [Spinal Surgery](/anaesthesia/ortho/spine.md)	
+* [Opthalmology](/anaesthesia/opthal/opthal-la.md#id)
+	* [Procedures under LA](/anaesthesia/opthal/opthal-la.md#id)
 
 
 ## Intensive Care Medicine

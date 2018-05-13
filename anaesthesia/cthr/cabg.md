@@ -1,11 +1,11 @@
 #Coronary Artery Bypass Grafting
 
->Airway: ETT  
->Access: 14G IVC or MAC line, arterial line, CVC, +/- PAC  
->Pain: 
->Position: Supine/crucifix  
->Time: 3-4 hours  
->Blood loss: G+H required. Cross-match if **re-do surgery**, anaemic, small, sick, or emergency.
+>Airway: ETT <br>
+>Access: 14G IVC or MAC line, arterial line, CVC, +/- PAC <br>
+>Pain: Substantial, especially in younger patients<br>
+>Position: Supine/crucifix <br>
+>Time: 3-4 hours  <br>
+>Blood loss: G+H required. Cross-match if **re-do surgery**, anaemic, small, sick, or emergency. <br>
 >Special: CPB - higher risk for anaesthetic awareness  
 
 Use of an autologous artery or vein to bypass a stenosed section of coronary artery and restore downstream perfusion.
@@ -26,7 +26,7 @@ High risk features:
 		* Triple vessel disease
 		* Proximal LAD stenosis
 	* Ventricular function:
-		* LVEF <30%
+		* LVEF < 30%
 		* Concominant RV dysfunction
 
 
