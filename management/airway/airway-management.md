@@ -1,5 +1,6 @@
 #Airway Planning
-> Oxygenation > Intubation
+> * Oxygenation > Intubation
+> * Optimise before you compromise
 
 The goal of airway management is to **maintain oxygenation and ventilation, without physiological compromise or complications**, ideally with a patent and protected airway.
 * This does not (necessarily) imply intubation  
@@ -80,7 +81,6 @@ Important technical factors include:
 >	* In the patient who does not require *immediate* intubation
 
 
-* Optimise before you compromise
 
 
 

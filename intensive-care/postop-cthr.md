@@ -154,7 +154,7 @@ Low afterload is suggested by a high CO/CI and a low MAP.
 	* Physiological treatment:
 		* Vasopressors:
 			* Noradrenaline  
-			Begin at 1-5ug/min.
+			Begin at 1-5μg/min.
 * Contractility  
 Impairment suggested by a low CO/CI and a low MAP.
 	* Causes:
@@ -168,9 +168,9 @@ Impairment suggested by a low CO/CI and a low MAP.
 	* Physiological treatment:
 		* Inotropes:
 			* Adrenaline  
-			Begin at 0.5-1ug/min.
+			Begin at 0.5-1μg/min.
 			* Dobutamine  
-			Begin at 2.5ug/kg/min.
+			Begin at 2.5μg/kg/min.
 			* Milrinone
 
 
@@ -202,7 +202,7 @@ Complications of cardiac surgery relevant to intensive care include:
 				Aim *functional* platelet count >100 × 10<sup>9</sup> in significant bleeding.
 				* DDAVP  
 				Aim to improve platelet function.
-					* 20ug IV
+					* 20μg IV
 			* Correct coagulopathy  
 			Aim to normalise APTT and PT.
 				* Typically 20ml/kg of FFP

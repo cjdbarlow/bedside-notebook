@@ -13,17 +13,20 @@
 #Operation
 
 ##Summary
->Time
->Pain
->Position
->Blood loss
+>Time <br>
+>Pain <br>
+>Position <br>
+>Blood loss <br>
 >Special Drugs
 
-##Techniques
+Intro and technique
+
 ##Considerations
+##Preoperative Assessment
 ##Preparation
 ##Induction
 ##Intraoperative
+###Surgical Stages
 ##Postoperative
 
 ---

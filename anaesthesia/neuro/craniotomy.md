@@ -1,9 +1,8 @@
 #Craniotomy
->Time: Highly variable
->Pain: Moderate
->Position: Variable, may be supine, head up, or lateral
+>Time: Highly variable <br>
+>Pain: Moderate <br>
+>Position: Variable, may be supine, head up, or lateral <br>
 >Blood loss: Variable. G+H, consider cross-match.
->Special Drugs
 
 ##Techniques
 Under GA:
@@ -22,7 +21,7 @@ May be preferred in cases with high ICP. One approach:
 	* Use a reinforced tube
 * B
 	* Coughing is not allowed  
-	Ensure adequate muscle relaxation (test regularly) or use deep opioid anaesthesia (e.g. remifentanil TIVA).
+	Ensure adequate muscle relaxation (test regularly, consider use of muscle relaxant infusion) or use deep opioid anaesthesia (e.g. remifentanil infusion not less than 0.2ug/kg/min).
 	* Ventilate to normal PaCO<sub>2</sub> in most instances  
 	Avoid cerebral ischaemia.
 * C
@@ -32,6 +31,7 @@ May be preferred in cases with high ICP. One approach:
 	36°C-37°C.
 
 
+##Preoperative Assessment
 
 ##Preparation
 * Standard monitoring
@@ -41,12 +41,17 @@ May be preferred in cases with high ICP. One approach:
 	* Administration of vasoactives
 	* Aspiration of air in case of venous air embolism
 
+
 ##Induction
 Haemodynamic stability is important:
 * Remifentanil infusion usually adequate
 * Otherwise fentanyl (5ug/kg) or alfentanil (25-50ug/kg/hr)
 
 ##Intraoperative
+
+
+
+###Surgical Stages
 Application of clamps:
 * Associated with significant hypertension
 * Cover with bolus of 0.5-1ug/kg remifentanil or 0.5-1mg/kg propofol
@@ -59,3 +64,7 @@ Closure of dura:
 ##Postoperative
 * May require additional IV opioid recovery  
 Monitor carefully for decreased GCS as this may be either anaesthetic or surgically related.
+
+
+---
+##References

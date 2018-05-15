@@ -53,6 +53,8 @@ Relative contraindications:
 
 ##Anatomy
 Lumbar:
+* Aim between L2 and L5 interspaces
+* Epidural space is an average of 5cm  (3-8 in 90%)
 
 Thoracic:
 * Avoid midline approach between T5 and T8
@@ -60,10 +62,6 @@ Thoracic:
 Cervical:
 * Thin and soft ligamentum flavum leads to poor appreciation of LoR
 * Space is ~ 1.5-2mm deep at C7, increases to 3-4mm with neck flexion
-
-    * Anatomy
-    * Equipment
-    * Technique
 
 
 ##Equipment
@@ -112,3 +110,4 @@ Affected by:
 ##References
 1. Susan M Nimmo, BSc (Hons) MB ChB (Hons) MRCP FRCA; [Benefit and outcome after epidural analgesia.](https://academic.oup.com/bjaed/article/4/2/44/271653/Benefit-and-outcome-after-epidural-analgesia) Contin Educ Anaesth Crit Care Pain 2004; 4 (2): 44-47. doi: 10.1093/bjaceaccp/mkh014
 2. http://www.nysora.com/regional-anesthesia/foundations-of-ra/3300-ra-in-anticoagulated-patient.html
+3. Rollins M, Lucero J. [Overview of anesthetic considerations for Cesarean delivery](https://academic.oup.com/bmb/article/101/1/105/262350). Br Med Bull. 2012;101:105-25. doi: 10.1093/bmb/ldr050. Epub 2012 Jan 4.

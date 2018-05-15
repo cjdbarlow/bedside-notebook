@@ -5,24 +5,25 @@
 >Blood loss:  May be substantial in multi-level operations <br>
 >Special Drugs
 
-|Operation|Time|Position|Blood Loss|Pain|Other|
-|--|--|
-|Microdisectomy|1-2 hours|Prone|Minimal|Typically NSAIDS and LA adequate|Day case|
-|Cervical discectomy|2 hours|Prone, may have pins|Minimal|More opioid may be required|May have neurology - emergency|
-|Spinal fusion|1+1 per level|Prone|May be substantial. G+H, cross-match units|Substantial|May need bone grafts|
-|Cervical fusion|3 hours|Supine or prone with pins|Less than for lumbar or thoracic. G+H|Regular opioid may be required|May need FOI due to unstable spine. Pins are stimulating|
-|Tumour|2-6+ hours|Supine or prone|Potential for massive transfusion. G+H, cross-match.|Regular opioid required|Surgically challenging|
-|Scoliosis corection|3-6+ hours|Supine or prone|Potential for massive transfusion. G+H, cross-match|Severe pain, often in patients with history of chronic pain. Seek advice.|May have restrictive respiratory disease.|
-|Fracture fixation|2-6 hours|Supine or Prone|May be substantial. G+H, cross-match.|May be severe if multiple levels involved|Other injuries and physiological state may make anaesthesia challenging|
 
-##Techniques
-Under GA, but may use epidural for post-operative analgesia, especially in scoliosis operations.
+Spinal surgery is generally performed under GA, but may use epidural for post-operative analgesia, especially in scoliosis operations. Anaesthetic considerations vary depending on the operation:
+
+|Operation|Time|Position|Surgical Stages|Blood Loss|Pain|Other|
+|--|--|
+|Microdisectomy|1-2 hours|Prone|Skin incision, dissection of erector spinae, laminotomy, rhizolysis (stimulating)| Minimal|Typically NSAIDS and LA adequate|Day case|
+|Cervical discectomy|2 hours|Prone, may have pins||Minimal|More opioid may be required|May have neurology - emergency|
+|Spinal fusion|1+1 per level|Prone||May be substantial. G+H, cross-match units|Substantial|May need bone grafts|
+|Cervical fusion|3 hours|Supine or prone with pins||Less than for lumbar or thoracic. G+H|Regular opioid may be required|May need FOI due to unstable spine. Pins are stimulating|
+|Tumour|2-6+ hours|Supine or prone||Potential for massive transfusion. G+H, cross-match.|Regular opioid required|Surgically challenging|
+|Scoliosis corection|3-6+ hours|Supine or prone||Potential for massive transfusion. G+H, cross-match|Severe pain, often in patients with history of chronic pain. Seek advice.|May have restrictive respiratory disease.|
+|Fracture fixation|2-6 hours|Supine or Prone||May be substantial. G+H, cross-match.|May be severe if multiple levels involved|Other injuries and physiological state may make anaesthesia challenging|
+
 
 ##Considerations
 May be highly variable, and depending on the position, number of levels, and the patient. Important factors:
 * A  
 	* Must be secured in prone position
-	* Use a **reinforced tube** with a **bite block** to prevent kinking and occlusion
+	* Consider use of a **reinforced tube** with a **bite block** to prevent kinking and occlusion
 	* Risk of cord oedema and inability to extubate after a long case
 * B
 	* Test ventilatiojn once positioned
@@ -42,10 +43,11 @@ May be highly variable, and depending on the position, number of levels, and the
 	* Blood loss may be substantial
 
 
+##Preoperative Assessment
 ##Preparation
 ##Induction
+##Intraoperative
 ##Postoperative
 
 ---
-
 ##References

@@ -66,15 +66,9 @@ Preferably spring scissors.
 
 
 ##Technique
+*Assumes monitoring, IV access, time-out, topical local anaesthetic drops, and sedation have been performed, as discussed [here](/anaesthesia/opthal/opthal-la.md#id).*
+
 The surgical approach involves:
-* Gain IV access
-* Attach monitoring
-* Time out
-* Give sedation  
-Many appropriate techniques:
-	* Midazolam 0.5-2mg
-	* Propofol 10-30mg with alfentanil 250ug
-	* Propofol 10-20 mg with ketamine 10mg and alfentanil 100-250ug
 * Topical LA drops  
 Onto intranasal quadrant as this is more comfortable.
 * Apply antiseptic  
@@ -94,7 +88,7 @@ Ensure there is some antiseptic under the lower lid and in the conjunctival sac.
 * Remove speculum
 
 ##Complications
-*Mechanism of copmplications are similar to [peribulbar blocks](/procedures/regional/peribulbar.md), but are typically far less common.*
+*Mechanism of copmplications are similar to [peribulbar blocks](/procedures/regional/peribulbar.md), but are typically much less common.*
 
 
 Minor complications:

@@ -5,10 +5,14 @@
 >Blood loss: Negligible  <br>
 >Special: Hyaluronidase: Hydrolyses hyaluronan, reducing integrity of the extracellular matrix and increasing tissue permeability  
 
-Local anaesthetic with or without sedation is a common technique for many ocular surgeries including:
-* Trabeculectomy  
-50-80 minutes.
-* Intraocular Lens Insertion
+Local anaesthetic with or without sedation for eye surgery is:
+* Common
+* Relatively free of risk
+Predominant morbidity related to oversedation.
+* Used for many ocular surgeries including:
+	* Trabeculectomy  
+	50-80 minutes.
+	* Intraocular Lens Insertion
 
 
 ##Techniques
@@ -26,28 +30,56 @@ Produces better akinesis and lower IOP than a peribulbar block, but has greater 
 
 
 ##Considerations
-##Preoperative
-Assessment should consider:
-* **Axial length**  
-Determines which technique would be more appropriate.
-* Coagulation profile
-* BSL
-* Ability to lie flat
-* Hearing
+* B
+	* COAD  
+	CO<sub>2</sub> retention may occur under the drapes. High-flow oxygen undedr the drapes may reduce this.
+	* Ability to lie flat for up to 30 minutes
+* D
+	* **Axial length**  
+	Determines which technique would be more appropriate.
+	* Ability to obey commands
+	* Anxiety levels around LA and eye
+* H
+	* Clotting status
+		* Bleeding issues
+		* Presence of anticoagulants    
+		Clotting profile should be checked within 24 hours for patients on anticoagulants.
+			* Use of antiplatelet agents including aspirin
+			* Warfarin and INR if applicable
+			* NOACs
+			* Generally a sub-Tenon's block will be preferred as this is lower than the risk of discontinuing these agents
+
+##Preoperative Assessment
+Should consider:
+* Hypertension  
+High SBP may increase risk of bleeding, especially with use of phenylephrine drops to dilate the eye. Normal antihypertensives should be taken.
+* Ability to lie flat  
+* Hearing  
+Patient will need to follow commands during procedure.
 * Anxiety levels  
-Determine whether sedation will be required.
-
-##Perioperative
-Eye surgery under LA:
-* Carries very little risk  
-Predominant morbidity related to oversedation.
-* Should have basic monitoring
-* Should have IV access
+Determine whether GA will be required.
 
 
+##Preparation
+* Standard ANZCA monitoring
+* IV Access
+
+##Induction
+* Time out
+* Give sedation  
+Many appropriate techniques:
+	* Midazolam 0.5-2mg
+	* Propofol 10-30mg with alfentanil 250ug
+	* Propofol 10-20 mg with ketamine 10mg and alfentanil 100-250ug
+* Apply topical local anaesthetic drops
+
+
+##Intraoperative
+###Surgical Stages
 ##Postoperative
 
 
 ---
 ##References
 1. Ripart J, Mehrige K, Rocca RD. [Local & Regional Anesthesia for Eye Surgery](https://www.nysora.com/local-regional-anesthesia-for-eye-surgery). NYSORA.
+2. Royal College of Anaesthetists and Royal College of Opthalmologists. [Local Anaesthesia in Opthalmic Surgery](https://www.rcophth.ac.uk/wp-content/uploads/2014/12/2012-SCI-247-Local-Anaesthesia-in-Ophthalmic-Surgery-2012.pdf). 2012.

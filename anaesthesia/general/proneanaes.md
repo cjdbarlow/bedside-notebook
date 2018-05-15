@@ -25,6 +25,7 @@ The prone position is:
 	* Decreased CBF  
 	May occur if the head is rotated due to partial occlusion of the ICA, VA; and compression of venous drainage.
 
+
 ##Risks
 Risks of prone position include:
 * **Blindness**  
@@ -34,6 +35,7 @@ Risk of~1:60,000, or 1:30,000 in spinal surgery. Via two mechanisms:
 	* Impaired ocular perfusion  
 	Mechanism of blindness in absence of ocular pressure (e.g. use of Mayfield clamp).
 		* $$Ocular / Perfusion / Pressure = MAP - IOP$$  
+		A MAP target >70mmHg is reasonable to preserve ocular perfusion during anaesthesia.
 			* IOP will increase with:
 				* Venous occlusion
 				* Rise in CVP
@@ -75,7 +77,16 @@ Via compression or stretching of superficial nerves.
 
 
 ##Technique
-###Pre-assessment:
+Can be divided into:
+* [Assessment](#pre)
+* [Preparation](#prep)
+* [Induction](#ind)
+* [Positioning](#pos)}
+* [Emergence](#emergence)
+* [Emergency Management](#emrx)
+
+
+###Preoperative Assessment{#pre}
 * Consent  
 Must cover risk of blindness.
 * Position required by surgeons
@@ -89,13 +100,13 @@ Will affect intra-operative positioning.
 	* Severity of pre-existing disease
 
 
-###Preinduction:
+###Preparation{#prep}
 * Avoid the ACF for venous access
 * Place ECG electrodes on the back
 * Ensure the correct operating table is available
 
 
-###Induction:
+###Induction{#ind}
 * Secure the airway
 	* Use a reinforced ETT with a bite block  
 	Less likely to become occluded during position changes.
@@ -109,7 +120,7 @@ Will affect intra-operative positioning.
 	Tape the padding in.
 
 
-###Positioning:
+###Positioning{#pos}
 * Summon a team of at least 5 trained people, including the surgeon
 * Disconnect the ETT
 * Slowly turn the patient onto the operating table
@@ -124,12 +135,12 @@ Will affect intra-operative positioning.
 	* Check other pressure points
 
 
-###Emergence:
+###Emergence{#emergence}
 * Maintain anaesthesia until the patient is repositioned supine
 * Check for a cuff leak prior to extubation
 
 
-##Emergency Management
+##Emergency Management{#emrx}
 **Accidental Extubation**:
 * Should be anticipated and prepared for
 * Ensure the airway is secure and patent after turning, and prior to removing the bed from the operating theatre
@@ -142,6 +153,7 @@ Will affect intra-operative positioning.
 * Fibreoptic intubation in the prone position can also be performed
 	* Anatomically favourable as the tongue falls forwards
 	* Requires the head to be accessible
+
 
 **Cardiac arrest**:
 * Chest compressions can be performed  

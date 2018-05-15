@@ -59,16 +59,8 @@ Removes weight of syringe from needle improving manual dexterity.
 
 
 ##Technique
-The peribulbar block involves:
-* Gain IV access
-* Attach monitoring
-* Time out
-* Give sedation  
-Many appropriate techniques:
-	* Midazolam 0.5-2mg
-	* Propofol 10-30mg with alfentanil 250ug
-	* Propofol 10-20 mg with ketamine 10mg and alfentanil 100-250ug
-* Topical LA drops
+*Assumes monitoring, IV access, time-out, topical local anaesthetic drops, and sedation have been performed, as discussed [here](/anaesthesia/opthal/opthal-la.md#id).*
+
 * Apply antiseptic  
 Ensure there is some antiseptic under the lower lid and in the conjunctival sac.
 * Ask the patient to look directly ahead

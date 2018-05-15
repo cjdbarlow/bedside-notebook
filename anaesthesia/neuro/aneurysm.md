@@ -2,34 +2,39 @@
 >Time: 3+ hours <br>
 >Pain: Moderate <br>
 >Position: Supine or head up, prone for posterior circulation lesions <br>
->Blood loss: May be substantial; G+H and crossmatch
+>Blood loss: May be substantial; G+H and crossmatch <br>
 >Special Drugs
 
 *This covers factors unique to clipping of intracranial aneurysms. Factors relating to craniotomies in general are covered [here](/anaesthesia/neuro/craniotomy.md).*
 
 
-Intracranial aneurysms may be:
-* Clipped  
-Placing a spring clip across the aneurysmal neck.
-	* Temporary clips are typically placed across the proximal vessel prior to clipping to reduce haemorrhage risk
-* Coiled  
-Endovascularly inserting Guglielmi Detachable Coils to cause the aneurysm is occluded.
-
-##Techniques
-Under GA:
-* Volatile
+Clipping of an intracranial aneurysm involves placing a spring clip across the aneurysmal neck to occlude it. Clipping is performed under GA. Approaches include:
 * TIVA  
-May be preferred in cases with high ICP.
+May be preferred in cases with high ICP, using propofol and remifentanil.
+* Volatile  
+Sub-MAC with a remifentanil infusion.
+
 
 ##Considerations
+* B
+	* **No coughing or movement is tolerated**  
+	Dissection of vasculature and aneurysm are delicate.
+		* Deep opioid analgesia with remifentanil
+		* Deep muscle relaxation (TOF of 0)
 * C
 	* **Bleeding from aneurysm is disastrous** and primary concern  
+* D
+	* Cerebroprotective strategies may be required if a temporary clip is placed over a major vessel
+
+##Preoperative Assessment
+
 
 ##Preparation
 * Standard monitoring
 * Awake arterial line
 * Large venous access
-* CVC
+* Consider CVC  
+For aspiration of gas in case of air embolism in patients in seated position.
 
 
 ##Induction
@@ -41,7 +46,12 @@ Avoid \<10% change in SBP.
 Aneurysmal rupture:
 * Call for help
 * Reduce bleeding
-	* Induce hypotension to reduce haemorrhage
+	* Induce hypotension to reduce haemorrhage  
+	Many strategies - will depend on anaesthetic currently running/drawn up/what is available. Some include:
+		* Remifentanil bolus (e.g. 1ug/kg)
+		* Adenosine
+		* Esmolol
+		* GTN
 	* Compress ipsilateral carotid artery to reduce bleeding
 * Volume resuscitate
 	* Increase IVT rate
@@ -63,6 +73,17 @@ Cerebroprotection:
 	* Aneurysmal rupture
 * Thiopentone 3-5mg/kg bolus, then 3-5mg/kg/hr, targeted to burst suppression
 
+
+###Surgical Stages
+* Craniotomy
+* Dissection and exposure of aneurysm
+Delicate - **ensure immobility**.
+* Temporary clipping of vessels supplying aneurysm  
+Neuroprotection may be required.
+* Clipping of aneurysm  
+Multiple clips may be applied.
+* Aspiration of aneurysm  
+To ensure that there is no further flow to the lesion.
 
 ##Postoperative
 May require ICU care if:
