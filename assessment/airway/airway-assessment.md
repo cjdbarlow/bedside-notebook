@@ -161,3 +161,5 @@ $$SI = {HR \over BP}$$. If the SI is >1, then consider initiating vasopressors/v
 2. Cook TM. [A new practical classification of laryngeal view](https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-2044.2000.01270.x). Anaesthesia. 2000. 55: 274-279. 
 3. Nickson, C. Making it happen: Not if, when. Critically Ill Airway Course Notes. 2018. 
 4. Levitan, R. [The VAPORS and the Resuscitation Sequence of Intubation](https://www.youtube.com/watch?v=152xArQfWyU). Mayo Clinic EM. 2015.
+5. Steven L. Shafer. [Shock Values](http://anesthesiology.pubs.asahq.org/article.aspx?articleid=1942673). Anesthesiology 2004;101(3):567-568.
+

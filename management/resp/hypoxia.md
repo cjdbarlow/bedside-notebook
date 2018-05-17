@@ -1,0 +1,10 @@
+#Management of Undifferentiated Hypoxia
+
+
+
+#Unintubated
+**OOPS**:
+* Oxygen On
+* Pull the mandible forward  
+Jaw thrust.
+* Sit the patient up

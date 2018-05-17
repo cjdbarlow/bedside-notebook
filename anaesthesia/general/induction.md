@@ -1,4 +1,4 @@
-#Induction of Anaesthesia
+#Induction Agents
 
 Induction of anaesthesia generally involves use of:
 * Induction agents  
@@ -28,7 +28,7 @@ Choice and dose of induction agent is individualised. Points to consider:
 * Risks of underdosing
 	* Laryngospasm
 	* Awareness
-
+* Familiarity
 
 ###Comparison of Induction Agents
 
@@ -65,3 +65,5 @@ Commonly used adjuvants include:
 ##References
 
 1. Weavind LM, Josh GP, Nussmeier NA. General anesthesia: Intravenous induction agents. In: UpToDate, Post, TW (Ed), UpToDate, Waltham, MA, 2014.
+2. Morris C, Perris A, Klein J, Mahoney P. [Anaesthesia in haemodynamically compromised emergency patients: does ketamine represent the best choice of induction agent?](https://pdfs.semanticscholar.org/0f36/e225c9d6d60db6d9297b6e25e85fbb5830dd.pdf). Anaesthesia. 2009 May;64(5):532-9.
+3. Steven L. Shafer. [Shock Values](http://anesthesiology.pubs.asahq.org/article.aspx?articleid=1942673). Anesthesiology 2004;101(3):567-568.

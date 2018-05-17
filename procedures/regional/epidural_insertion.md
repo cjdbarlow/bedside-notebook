@@ -19,10 +19,15 @@ Absolute contraindications:
 * Patient refusal
 * Coagulopathy  
     * Epidural should be withheld in patients with pre-existing coagulopathy where intraoperative heparin administration is planned.
-    * Coagulation studies be performed prior to insertion, and should demonstrate:
-        * Normal APTT
-        * INR < 1.5
-        * Platelets > 80 x 10<sup>12</sup>/L
+    * Coagulation studies be performed prior to insertion  
+    Risk of haematoma exists on a continuum - a platelet count of 79 is not substantially more risky than a platelet count of 81.
+        * Any abnormality of coagulation is always a *relative* contraindication
+        * Risk varies depending on technique  
+        Paravertebral is less risky than a spinal, which is less risky than a single-shot epidural, which is less risky than an epidural catheter.
+        * Absolute thresholds will vary depending on the centre; one particular set of numbers is:
+            * Normal APTT
+            * INR < 1.5
+            * Platelets > 80 x 10<sup>12</sup>/L  
 * Presence of anticoagulants  
 See table below.
 * Sepsis
@@ -53,7 +58,7 @@ Relative contraindications:
 
 ##Anatomy
 Lumbar:
-* Aim between L2 and L5 interspaces
+* Generally between L2 and L5 interspaces
 * Epidural space is an average of 5cm  (3-8 in 90%)
 
 Thoracic:
@@ -111,3 +116,4 @@ Affected by:
 1. Susan M Nimmo, BSc (Hons) MB ChB (Hons) MRCP FRCA; [Benefit and outcome after epidural analgesia.](https://academic.oup.com/bjaed/article/4/2/44/271653/Benefit-and-outcome-after-epidural-analgesia) Contin Educ Anaesth Crit Care Pain 2004; 4 (2): 44-47. doi: 10.1093/bjaceaccp/mkh014
 2. http://www.nysora.com/regional-anesthesia/foundations-of-ra/3300-ra-in-anticoagulated-patient.html
 3. Rollins M, Lucero J. [Overview of anesthetic considerations for Cesarean delivery](https://academic.oup.com/bmb/article/101/1/105/262350). Br Med Bull. 2012;101:105-25. doi: 10.1093/bmb/ldr050. Epub 2012 Jan 4.
+4. The Association of Anaesthetists of Great Britain and Ireland, The Obstetric Anaesthetists' Association. [Regional Anaesthesia and Patients with Abnormalities of Coagulation](https://www.aagbi.org/sites/default/files/rapac_2013_web.pdf). 2013.

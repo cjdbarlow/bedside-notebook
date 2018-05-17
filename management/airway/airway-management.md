@@ -223,3 +223,4 @@ Double check the availability of backup equipment, including FONA equipment.
 1. Nickson, C. The challenge of the critically ill airway. 2018. CIA Course Notes.
 2. Mommers L, Keogh S. [SPEEDBOMB: a simple and rapid checklist for Prehospital Rapid Sequence Induction](https://onlinelibrary.wiley.com/doi/abs/10.1111/1742-6723.12363). Emerg Med Australas. 2015 Apr;27(2):165-8. 
 3. Chrimes, N. Fritz, P. [The Votex Approach: Management of the Unanticipated Difficult Airway](https://www.smashwords.com/books/view/277513). Smashwords. 2013.
+4. Levitan, R. The Airway Cam Guide to Intubation and Practical Emergency Airway Management. 1st Ed. 2004.
