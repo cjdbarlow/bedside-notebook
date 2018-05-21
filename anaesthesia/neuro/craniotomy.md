@@ -44,17 +44,27 @@ May be preferred in cases with high ICP. One approach:
 
 ##Induction
 Haemodynamic stability is important:
-* Remifentanil infusion usually adequate
+* Remifentanil infusion usually adequate  
+	* Begin at 0.2-0.3ug/kg/min, and titrate to effect  
+	Can be bolused, but this increases risk of bradycardia and CVS instability.
+	* Once adequately loaded (~1ug/kg), can then commence induction with propofol
 * Otherwise fentanyl (5ug/kg) or alfentanil (25-50ug/kg/hr)
 
+
 ##Intraoperative
-
-
+* Anaesthesia can be maintained with either sub-MAC dose of volatile or propofol TIVA
+* Remifentanil allows for substantial reduction in anaesthetic requirement
 
 ###Surgical Stages
-Application of clamps:
-* Associated with significant hypertension
-* Cover with bolus of 0.5-1ug/kg remifentanil or 0.5-1mg/kg propofol
+Beware stimulating parts of this procedure and aim to maintain haemodynamic stability throughout:
+* Intubation
+* Application of clamps:
+	* Associated with significant hypertension
+	* Cover with bolus of 0.5-1ug/kg remifentanil or 0.5-1mg/kg propofol
+* Local anaesthetic with adrenaline  
+Intravascular adrenaline will also cause CVS compromise.
+* Skin and skull incision
+* Once dura is opened, surgical stimulation drops markedly
 
 Closure of dura:
 * Typically indicates ~30-45 minutes of operating time remaining

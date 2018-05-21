@@ -30,8 +30,8 @@ Choice and dose of induction agent is individualised. Points to consider:
 	* Awareness
 * Familiarity
 
-###Comparison of Induction Agents
 
+###Comparison of Induction Agents
 
 |Property|Propofol|Ketamine|
 |--|--|--|

@@ -1,6 +1,6 @@
 #Laryngospasm
 
-> This is an <span style="color:red">**anaesthetic crisis**</span>
+> This is an <span style="color:red">**anaesthetic crisis**</span>  
 > Priority is to **break laryngospasm** and **maintain oxygenation**
 
 Involuntary contraction of the laryngeal mouscles, resulting in closing of the vocal cords and glottic occlusion.

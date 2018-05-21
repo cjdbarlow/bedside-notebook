@@ -20,6 +20,7 @@
 * [Disability](/assessment/neuro/unconscious.md#id)
 	* [Unconsciousness](/assessment/neuro/unconscious.md)	
 
+
 ## Management
 * [Cardiac Arrest](/management/cvs/post-cthr.md#id)
 	* Adult Cardiac Arrest
@@ -47,6 +48,7 @@
 * GIT
 * Haematological
 * Infective and Immune
+
 
 ## Anaesthesia
 * [Anaesthetic Emergencies](/anaesthesia/crisis/anaesthetic-crisis.md)
@@ -76,12 +78,15 @@
 	* [Cardiopulmonary Bypass](/anaesthesia/cthr/cpb.md)
 	* [Deep Hypothermic Circulatory Arrest](/anaesthesia/cthr/dhca.md)
 	* [Coronary Artery Bypass Grafting](/anaesthesia/cthr/cabg.md)
+* [General Surgery](/anaesthesia/gensurg/scopes.md#id)
+	* [Endoscopy](/anaesthesia/gensurg/scopes.md)
 * [Neurosurgery](/anaesthesia/neuro/craniotomy.md#id)
 	* [Craniotomy](/anaesthesia/neuro/craniotomy.md)
 	* [Aneurysm Clipping](/anaesthesia/neuro/aneurysm.md)
 * [Obstetric](/anaesthesia/obs/luscs.md#id)
 	* [LUSCS](/anaesthesia/obs/luscs.md)
-* [Orthopaedics](/anaesthesia/ortho/spine.md#id)
+* [Orthopaedics](/anaesthesia/ortho/torniquets.md#id)
+	* [Intraoperative Torniquets](/anaesthesia/ortho/torniquets.md)
 	* [Spinal Surgery](/anaesthesia/ortho/spine.md)	
 * [Opthalmology](/anaesthesia/opthal/opthal-la.md#id)
 	* [Procedures under LA](/anaesthesia/opthal/opthal-la.md#id)
@@ -90,12 +95,13 @@
 ## Intensive Care Medicine
 * [Post-Op Cardiac Surgery](/intensive-care/postop-cthr.md)
 
+
 ## Disease
-* Respiratory
-	* Upper Airway
+* [Respiratory](/disease/airway/laryngospasm.md#id)
+	* [Upper Airway](/disease/airway/laryngospasm.md#id)
 		* [Laryngospasm](/disease/airway/laryngospasm.md)
 		* [Laryngeal Fracture](/disease/respiratory/upper-airway/laryngeal-fracture.md)
-* CNS
+* [CNS](/disease/cns/pdph.md#id)
 	* [PDPH](/disease/cns/pdph.md)
 * [Renal](/disease/renal/aki.md#id)
 	* [AKI](/disease/renal/aki.md)
