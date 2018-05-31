@@ -79,7 +79,7 @@
 	* [Cardiopulmonary Bypass](/anaesthesia/cthr/cpb.md)
 	* [Deep Hypothermic Circulatory Arrest](/anaesthesia/cthr/dhca.md)
 	* [Coronary Artery Bypass Grafting](/anaesthesia/cthr/cabg.md)
-* [General Surgery](/anaesthesia/gensurg/scopes.md#id)
+* [General Surgery](/anaesthesia/gensurg/scopes.md#id)	
 	* [Endoscopy](/anaesthesia/gensurg/scopes.md)
 * [Neurosurgery](/anaesthesia/neuro/craniotomy.md#id)
 	* [Craniotomy](/anaesthesia/neuro/craniotomy.md)
@@ -119,6 +119,8 @@
 		* [Pulmonary Embolism](/disease/haeme/pe.md)
 * [MSK](/disease/msk/necfas.md#id)
 	* [Necrotising Fascitis](/disease/msk/necfas.md)
+* [Immune]
+	* [Anaphylaxis](/disease/immune/anaphylaxis.md)
 
 
 ## Procedures

@@ -17,7 +17,7 @@ Systemic anticoagulation with heparin to prevent clotting of the bypass circuit.
 ##Technique
 ###Prior to CPB
 Anaesthetist:
-* Ensure both a central and peripheral temperature monitor are in situ
+* Ensure both a central and peripheral temperature monitor are in situ if deep hypothermic arrest is going to be performed
 * Prior to sternotomy, ensure:
 	* Blood pressure is well controlled  
 	Reduces the chance of significant haemorrhage from vascular damage.
@@ -30,7 +30,9 @@ Anaesthetist:
 * Complete pre-bypass checklist:
 **HAD2SAVE**:
 	* Heparin given
-	* ACT >400
+	* ACT >480  
+	Threshold varies between centres.
+		* Take sample from arterial line, or failing that PA distal on a PAC
 	* Drugs  
 		* Consider additional analgesia, relaxant prior to going on CPB.
 		* Vaporiser off
