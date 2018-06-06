@@ -1,5 +1,5 @@
 # Glossary
-ITS THE FINAL TESTY TEST... or not
+
 ##ACTH
 Adrenocorticotrophic Hormone
 
