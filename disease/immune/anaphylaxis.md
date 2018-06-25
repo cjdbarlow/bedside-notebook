@@ -1,5 +1,5 @@
 #Anaphylaxis
-more testy
+
 *This covers both perioperative and non-perioperative anaphylaxis. Treatment recommendations for perioperative anaphylaxis are detailed separately, due to the nature of the disease (typically of more rapid onset and aggressive progression), and the immediate availability of resuscitation equipment and personell.*
 
 Anaphylaxis is a potentially life-threatening emergency. It is an IgE mediated, immediate (type I) and systemic hypersensitivity reaction, characterised by a triad of:
