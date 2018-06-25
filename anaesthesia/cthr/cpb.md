@@ -6,12 +6,20 @@ Use of an external pump and oxygenator to generate pulseless blood flow and faci
 	Right atrium access and aortic return.
 	* Peripheral  
 	Typically femoral-femoral.
+* Pump
+	* Roller-head
+	* Centrifugal  
+	Less trauma to blood.
 * Cardioplegic solution  
 Hyperkalaemic solutions to induce asystole; reducing oxygen consumption and myocardial metabolic rate.
 * Cooling  
 Typically cooled to < 34°C to reduce oxygen consumption.
 * Anticoagulation  
 Systemic anticoagulation with heparin to prevent clotting of the bypass circuit.
+	* Use of a pump requires at least partial anticoagulation  
+	ACT > 180.
+	* Use of an oxygenator requires full heparinisation  
+	ACT > 400.
 
 
 ##Technique
@@ -22,14 +30,16 @@ Anaesthetist:
 	* Blood pressure is well controlled  
 	Reduces the chance of significant haemorrhage from vascular damage.
 	* Cease ventilation prior to sternotomy
-* Measure baseline ACT
+* Measure baseline ACT  
+Normal is 90-130.
 * Commence TXA infusion  
 	* Some evidence demonstrating reduced fibrinolysis, blood loss, ICC output, reoperation, and transfusion requirement
 	* Many different protocols with wide variability in dosing  
 	One protocol: 1g bolus then 6.5mg/kg/hr.
 * Complete pre-bypass checklist:
 **HAD2SAVE**:
-	* Heparin given
+	* Heparin given  
+	Confirm administration by verifying back-bleeding from heparin delivery line.
 	* ACT >480  
 	Threshold varies between centres.
 		* Take sample from arterial line, or failing that PA distal on a PAC
@@ -82,7 +92,11 @@ May cause atrial arrythmia. If unstable:
 	Clutters surgical field.
 * Places aortic return cannula
 * Places atrial access cannula  
-At this point, bypass may commence although the heart is still beating.
+	* At this point, bypass may commence although the heart is still beating
+	* Access cannula may be
+		* Bicaval  
+		Two separate cannulas, one to the IVC and one to the SVC.
+		* Single, larger dual-stage cannula
 * Places retrograde cardioplegia cannula
 * Places anterograde cardioplegia catheter
 	* An LV vent (typically through the right upper pulmonary vein) may be placed if the anterograde cardioplegia causes LV distension
@@ -127,6 +141,7 @@ Typically every 30 minutes, aiming:
 	* Normal gas exchange
 	* Hb > 60
 	* BE < 2.5
+	* ACT >400
 * Continues to deliver cardioplegia as required
 	* Typically every 10-15 minutes or at surgeon request
 	* May deliver a 'hot shot'  
@@ -248,16 +263,21 @@ Anaesthetist:
 
 ##Complications
 Use of bypass is associated with several complications including:
-* Increased risk of anaesthetic awareness
-* Myocardial stunning  
-EF is reduced immediately post-bypass.
-* Dysrhythmias
-* Air emboli
-	* CVA
-	* CAGE
-* Impaired organ perfusion, leading to post-bypass:
-	* AKI
-	* Post-pump vasoplegia
+* A
+	* Air emboli
+		* CVA
+		* CAGE
+* C
+	* Myocardial stunning  
+	EF is reduced immediately post-bypass.
+	* Dysrhythmias
+	* Impaired organ perfusion, leading to post-bypass:
+		* AKI	
+		* Post-pump vasoplegia
+* D
+	* Increased risk of anaesthetic awareness
+* H
+	* Coagulopathy
 
 
 

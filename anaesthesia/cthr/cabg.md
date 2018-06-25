@@ -13,13 +13,15 @@ Use of an autologous artery or vein to bypass a stenosed section of coronary art
 * Can be performed 'on-pump' (with CPB) or 'off-pump'
 
 ##Considerations
-Complications can include:
-* Massive haemorrhage
-* Severe LV or RV dysfunction
-	* Pulmonary oedema
-	* May be unable to wean from bypass
-* Atelectasis
-* Bronchospasm
+* B
+	* Atelectasis
+	* Bronchospasm
+* C
+	* Severe LV or RV dysfunction
+		* Pulmonary oedema
+		* May be unable to wean from bypass
+* H
+	* Massive haemorrhage
 
 
 ##Preoperative Assessment
@@ -42,6 +44,8 @@ High risk features:
 		* Concominant RV dysfunction
 
 ##Preparation
+As for [other cardiac surgery](/anaesthesia/cthr/cthr-principles.md#prep).
+
 ##Induction
 
 ###Intraoperative

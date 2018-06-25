@@ -13,11 +13,13 @@
 #Operation
 
 ##Summary
->Time <br>
->Pain <br>
->Position <br>
->Blood loss <br>
->Special Drugs
+>Airway: 
+>Access: 
+>Pain: 
+>Position:
+>Time: 
+>Blood loss:
+>Special:
 
 Intro and technique
 

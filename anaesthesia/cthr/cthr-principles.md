@@ -82,7 +82,7 @@ Investigations:
 	* Echocardigram
 
 
-##Preparation
+##Preparation{#prep}
 Lines and monitoring:
 * 5-lead ECG
 * SpO<sub>2</sub>
@@ -127,10 +127,14 @@ Drugs (Infusions):
 ##Anaesthetic
 Induction:
 * Aim is a haemodynamically stable induction  
-Typically large dose of fentanyl, some benzodiazepine, and a small dose of propofol. Aim is:
 	* No myocardial depression
 	* No autonomic response
 	* No change in SVT
+* Typical doses
+	* Fentanyl 10-100ug/kg
+	* Midazolam 0.05mg/kg
+	* Propofol  
+	Classically reduced doses; e.g. ~0.25-0.5mg/kg.
 * Antibiotics prior to skin incision
 
 Position:
