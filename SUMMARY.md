@@ -92,6 +92,8 @@
 	* [Spinal Surgery](/anaesthesia/ortho/spine.md)	
 * [Opthalmology](/anaesthesia/opthal/opthal-la.md#id)
 	* [Procedures under LA](/anaesthesia/opthal/opthal-la.md#id)
+* [Other](/anaesthesia/other/ect.md#id)
+	* [ECT](/anaesthesia/other/ect.md)
 
 
 ## Intensive Care Medicine
