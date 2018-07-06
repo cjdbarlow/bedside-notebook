@@ -30,12 +30,14 @@
 ---
 
 * [Airway](/management/airway/airway-management.md#id)
-	* [Airway Planning](/management/airway/airway-management.md)
-	  	* [RSI](/management/airway/rsi.md)
+	* [Planning](/management/airway/airway-management.md)
+  		* [Expected Difficult Airway](/management/airway/expected-difficult-airway.md)
+    	* [Unexpected Difficult Airway](/management/airway/difficult-airway.md)
+    * [Techniques](/management/airway/extubation.md#id)
+    	* [Extubation](/management/airway/extubation.md)
+   	  	* [RSI](/management/airway/rsi.md)
   	    * [Transtracheal Jet Ventilation](/management/airway/jet-ventilation.md)
-  	* [Expected Difficult Airway](/management/airway/expected-difficult-airway.md)
-    * [Unexpected Difficult Airway](/management/airway/difficult-airway.md)
-    * [CICO](/management/airway/cico.md)
+    	* [CICO](/management/airway/cico.md)
 * Breathing
 	* Mechanical Ventilation
     	* Modes

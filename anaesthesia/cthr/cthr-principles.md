@@ -102,6 +102,7 @@ Indicated in the setting of:
 	* Severe LV dysfunction (EF \<30%)
 	* MV dysfunction
 	* AKI
+* Consider hot line for small patients or those with high risk of bleeding
 
 
 Drugs (Push):
