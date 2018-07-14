@@ -116,6 +116,8 @@
 * [CNS](/disease/cns/cerebral-palsy.md#id)
 	* [Cerebral Palsy](/disease/cns/cerebral-palsy.md)
 	* [PDPH](/disease/cns/pdph.md)
+* [Endocrine](/disease/endo/dm.md#id)
+	* [Diabetes](/disease/endo/dm.md)
 * [Renal](/disease/renal/aki.md#id)
 	* [AKI](/disease/renal/aki.md)
 * [Fluid and Electrolyte](/disease/fluid/hypona.md#id)
