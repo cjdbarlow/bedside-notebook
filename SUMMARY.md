@@ -30,12 +30,14 @@
 ---
 
 * [Airway](/management/airway/airway-management.md#id)
-	* [Airway Planning](/management/airway/airway-management.md)
-	  	* [RSI](/management/airway/rsi.md)
-  	    * [Transtracheal Jet Ventilation](/management/airway/jet-ventilation.md)
-  	* [Expected Difficult Airway](/management/airway/expected-difficult-airway.md)
-    * [Unexpected Difficult Airway](/management/airway/difficult-airway.md)
-    * [CICO](/management/airway/cico.md)
+	* [Planning](/management/airway/airway-management.md)
+		* [Expected Difficult Airway](/management/airway/expected-difficult-airway.md)
+		* [Unexpected Difficult Airway](/management/airway/difficult-airway.md)
+	* [Techniques](/management/airway/extubation.md#id)
+		* [Extubation](/management/airway/extubation.md)
+		* [RSI](/management/airway/rsi.md)
+		* [Transtracheal Jet Ventilation](/management/airway/jet-ventilation.md)
+		* [CICO](/management/airway/cico.md)
 * Breathing
 	* Mechanical Ventilation
     	* Modes
@@ -56,6 +58,7 @@
 	* [Laryngospasm](/disease/airway/laryngospasm.md#id)
 * [Anaesthetic Considerations](/anaesthesia/considerations/fasting.md#id)
 	* [Fasting](/anaesthesia/considerations/fasting.md)
+	* [Operative Analgesia](/anaesthesia/considerations/operative-analgesia.md)
 	* [Positioning](/anaesthesia/considerations/positioning.md)
 		* [Prone Positioning](/anaesthesia/considerations/proneanaes.md)
 		* [Post-Operative Neuropathy](/anaesthesia/general/postopneuro.md)
@@ -79,6 +82,7 @@
 	* [Cardiopulmonary Bypass](/anaesthesia/cthr/cpb.md)
 	* [Deep Hypothermic Circulatory Arrest](/anaesthesia/cthr/dhca.md)
 	* [Coronary Artery Bypass Grafting](/anaesthesia/cthr/cabg.md)
+	* [Mitral Valve Replacement](/anaesthesia/cthr/mvr.md)
 * [General Surgery](/anaesthesia/gensurg/scopes.md#id)	
 	* [Endoscopy](/anaesthesia/gensurg/scopes.md)
 * [Neurosurgery](/anaesthesia/neuro/craniotomy.md#id)
@@ -91,6 +95,8 @@
 	* [Spinal Surgery](/anaesthesia/ortho/spine.md)	
 * [Opthalmology](/anaesthesia/opthal/opthal-la.md#id)
 	* [Procedures under LA](/anaesthesia/opthal/opthal-la.md#id)
+* [Other](/anaesthesia/other/ect.md#id)
+	* [ECT](/anaesthesia/other/ect.md)
 
 
 ## Intensive Care Medicine
@@ -107,8 +113,11 @@
 * [CVS](/disease/cvs/cardiacfailure.md#id)
 	* [Cardiac Failure](/disease/cvs/cardiacfailure.md)
 		* [Right Ventricular Failure](/disease/cvs/rvfailure.md)
-* [CNS](/disease/cns/pdph.md#id)
+* [CNS](/disease/cns/cerebral-palsy.md#id)
+	* [Cerebral Palsy](/disease/cns/cerebral-palsy.md)
 	* [PDPH](/disease/cns/pdph.md)
+* [Endocrine](/disease/endo/dm.md#id)
+	* [Diabetes](/disease/endo/dm.md)
 * [Renal](/disease/renal/aki.md#id)
 	* [AKI](/disease/renal/aki.md)
 * [Fluid and Electrolyte](/disease/fluid/hypona.md#id)
