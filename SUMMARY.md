@@ -39,7 +39,7 @@
 * Breathing
 	* Mechanical Ventilation
     	* Modes
-    	* One Lung Ventilation
+    	* [One-Lung Ventilation](/management/resp/olv.md)
 * Circulation
 * Disability
 * Extremities
