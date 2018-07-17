@@ -1,4 +1,4 @@
-#Mitral Valve Replacement
+#Mitral Valve Repair/Replacement
 >Airway: ETT <br>
 >Access: 14G IVC or MAC line, arterial line, CVC, +/- PAC <br>
 >Pain: Substantial, especially in younger patients<br>
@@ -7,16 +7,30 @@
 >Blood loss: ~400ml. G+H required, consider cross-match of at least 2 units.<br>
 > Special: CPB - higher risk for anaesthetic awareness. Risk of air embolism as left heart is opened.
 
-Repair or replacement of the mitral valve for:
+
+Mitral valvular surgery is performed for:
 * Mitral Stenosis
 * Mitral regurgitation
 * Endocarditis
 
-Mitral valve repair is performed for:
-* Posterior leaflet abnormalities
-* Annula dilation
+
+The valve can be either:
+	* Repaired  
+	Typically for:
+		* Posterior leaflet abnormalities
+		* Annula dilation
+	* Replaced:
+		* Severe MS
+
+
+
 
 ##Considerations
+*This covers factors unique to MVR. Factors relating to cardiac surgery in general are covered [here](/anaesthesia/cthr/cthr-principles.md#id).*
+
+* A
+	* OLV required for minimally invasive approach 
+	Need either DLT or bronchial blocker.
 * B
 	* Pulmonary oedema  
 	May have secondary effusions.
@@ -34,6 +48,8 @@ Mitral valve repair is performed for:
 	* Avoid elevation in PVR
 
 ##Preoperative Assessment
+*This covers factors unique to MVR. Factors relating to cardiac surgery in general are covered [here](/anaesthesia/cthr/cthr-principles.md#id).*
+
 Evaluation should consider:
 * Severity of valvular disease
 * Consequences of valvular disease
@@ -52,7 +68,7 @@ For standard approach:
 * Establish CPB
 * Empty left heart via the PA
 * Establish diastolic arrest
-* Left atrium is opened
+* Open the LA
 * Decision made for repair or replacement, and this is performed
 * LV and atrium are filled
 * Atrium is closed
@@ -60,4 +76,14 @@ For standard approach:
 * Cross-clamp is removed and coronary perfusion commences
 * Wean from CPB occurs once air is removed from circulation
 
+
+Minimally invasive approach:
+* Patient positioned in left lateral (right side up)
+* CPB established typically by peripheral (femoral-femoral) cannulation
+* Deflation of the right lung required to facilitate surgical access
+* Diastolic arrest and cross-clamping
+
 ##Postoperative
+* May require vasodilator due to residual pulmonary hypertension
+
+---

@@ -36,7 +36,8 @@ High risk features:
 		* Cardiogenic shock
 		* Decompensated CCF
 	* Coronary anatomy:
-		* Left main disease
+		* **Left main disease**  
+		Avoid drop in perfusion pressure in the case of critical left main stenosis.
 		* Triple vessel disease
 		* Proximal LAD stenosis
 	* Ventricular function:
@@ -47,6 +48,7 @@ High risk features:
 As for [other cardiac surgery](/anaesthesia/cthr/cthr-principles.md#prep).
 
 ##Induction
+* Aim for haemodynamic stability, especially in the setting of critical left main stenosis
 
 ###Intraoperative
 *This covers factors unique to CABG. Factors relating to bypass are covered [here](/anaesthesia/cthr/cpb.md#id).*

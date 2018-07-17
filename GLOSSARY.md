@@ -267,6 +267,9 @@ Minimum Alveolar Concentration
 ##MAP
 Mean Arterial Pressure
 
+##MPG
+Mean Pressure Gradient
+
 ##MOP
 M-type (μ) opioid receptor
 
