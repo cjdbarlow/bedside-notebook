@@ -82,6 +82,7 @@
 	* [Cardiopulmonary Bypass](/anaesthesia/cthr/cpb.md)
 	* [Deep Hypothermic Circulatory Arrest](/anaesthesia/cthr/dhca.md)
 	* [Coronary Artery Bypass Grafting](/anaesthesia/cthr/cabg.md)
+	* [Aortic Valve Replacement](/anaesthesia/cthr/avr.md)
 	* [Mitral Valve Repair/Replacement](/anaesthesia/cthr/mvr.md)
 * [General Surgery](/anaesthesia/gensurg/scopes.md#id)	
 	* [Endoscopy](/anaesthesia/gensurg/scopes.md)
