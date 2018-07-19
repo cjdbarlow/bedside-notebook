@@ -95,8 +95,10 @@
 	* [Spinal Surgery](/anaesthesia/ortho/spine.md)	
 * [Opthalmology](/anaesthesia/opthal/opthal-la.md#id)
 	* [Procedures under LA](/anaesthesia/opthal/opthal-la.md#id)
-* [Other](/anaesthesia/other/ect.md#id)
-	* [ECT](/anaesthesia/other/ect.md)
+* [Off the Floor](/anaesthesia/otf/remote-anaes.md#id)
+	* [Remote Anaesthesia](/anaesthesia/otf/remote-anaes.md)
+	* [ECT](/anaesthesia/otf/ect.md)
+	* [Dressings Under Sedation](/anaesthesia/otf/dus.md)
 
 
 ## Intensive Care Medicine

@@ -15,12 +15,12 @@ Mitral valvular surgery is performed for:
 
 
 The valve can be either:
-	* Repaired  
-	Typically for:
-		* Posterior leaflet abnormalities
-		* Annula dilation
-	* Replaced:
-		* Severe MS
+* Repaired  
+Typically for:
+	* Posterior leaflet abnormalities
+	* Annula dilation
+* Replaced:
+	* Severe MS
 
 
 
