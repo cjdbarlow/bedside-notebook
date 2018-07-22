@@ -27,6 +27,12 @@ Leads to early presentation with symptoms due to increased cardiovascular work a
 	* Cardiac failure typically occurs in third-trimester in patients with moderate-severe disease
 
 ##Pathophysiology
+* Increased pressure gradient across the mitral valve  
+Flow across mitral valve becomes the prime determinant of ventricular filling.
+	* This leads to a **fixed cardiac output** state because:
+		* Decreasing afterload does not improve subsequent ventricular filling
+		* Increasing contractility cannot improve output if the ventricle is not adequately filled prior to contraction
+
 ###Aetiology
 Causes include:
 * **MS**  
@@ -49,6 +55,7 @@ MS is typically well tolerated until LA dilation fails to compensate and pulmona
 ##Management
 Medical management consists of managing complications:
 * Rate control of AF
+	* β-blockers are mainstain of treatment
 * Diuresis and vasodilators (e.g. nitrates) for failure
 
 Surgical management:
