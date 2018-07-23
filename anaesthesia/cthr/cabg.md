@@ -34,15 +34,23 @@ High risk features:
 		* Unstable angina
 		* AMI within last 3 months
 		* Cardiogenic shock
+		* Emergency revascularisation.
 		* Decompensated CCF
+		* LV aneurysm  
+		Indicates poor myocardial function.
 	* Coronary anatomy:
 		* **Left main disease**  
 		Avoid drop in perfusion pressure in the case of critical left main stenosis.
+			* Significant >50%
+			* Severe > 80%
+			* Note also that high-grade stenosis of the LAD and LCx lead to an effective critical stenosis of the LMCA
 		* Triple vessel disease
 		* Proximal LAD stenosis
 	* Ventricular function:
 		* LVEF < 30%
 		* Concominant RV dysfunction
+* Valvular disease  
+Particularly AS or MR.
 
 ##Preparation
 As for [other cardiac surgery](/anaesthesia/cthr/cthr-principles.md#prep).
@@ -65,6 +73,23 @@ On-pump CABG can be divided into pre-, intra-, and post-bypass phases:
 
 
 ###Surgical Stages
+For standard approach:
+* Sternotomy
+* Establish CPB
+* Establish diastolic arrest
+* Grafting performed
+	* Internal mammary grafting
+		* A pedicled graft may be taken  
+		The origin is left attached to the SCA.
+		* Bilateral IMA grafts may be used  
+		Increases the risk of sternal wound infection due to poor perfusion.
+	* Saphenous vein graft  
+	~50% of SVG grafts will be occluded at 10 years (compared to ~10% of arterial grafts).
+	* Radial artery  
+	Non-dominant or dominant vessels may be used, provided there is adequate collateral flow via the ulnar artery.
+
+* Cross-clamp is removed and coronary perfusion commences
+* Wean from CPB occurs once air is removed from circulation
 
 ###Postoperative Care
 * Transfer intubated to PACU/ICU
@@ -73,4 +98,4 @@ On-pump CABG can be divided into pre-, intra-, and post-bypass phases:
 
 ---
 ##References
-1.
+1. Chikwe J, Kim M, Goldstone AB, Fallahi A, Athanasiou T. Current diagnosis and management of left main coronary disease. Eur J Cardio-Thoracic Surg. 2010;38(4):420-428.

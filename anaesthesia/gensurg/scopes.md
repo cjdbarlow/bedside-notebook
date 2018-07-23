@@ -86,7 +86,8 @@ Reduces anaesthesia requirement.
 	* May also be run via propofol TCI  
 	Typically target Ce of 3ug/ml.
 	* May also be run as a rate-controlled infusion  
-	Bolus and the infuse at ~6mg/kg/hr.
+	Bolus and the infuse at ~1mg/kg/hr.
+		* Works best once steady-state is already established
 * Propofol and fentanyl
 	* Typically ~0.5-1ug/kg of fentanyl and propofol ~0.5-1mg/kg, followed by propofol boluses as required
 

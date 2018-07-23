@@ -3,13 +3,16 @@
 Mitral stenosis is:
 * Narrowing of the mitral valve orifice, leading to a fixed-cardiac output state with a pressure-overloaded (and typically subsequently volume-overloaded) left atrium  
 Normal area is >4cm<sup>2</sup>.
-* Classified into mild, moderate, or severe  
+
+
+MS is classified:
+* Into mild, moderate, or severe  
 Symptoms typically only present in moderate-severe MS.
-	* Classifications based on echocardiographic findings  
-	Using either:
-		* Mean pressure gradient over the valve
-		* Pressure half-time
-		* Valve area
+* Based on echocardiographic findings  
+Using either:
+	* Mean pressure gradient over the valve
+	* Pressure half-time
+	* Valve area
 
 |Measurement|Mild|Moderate|Severe|
 |--|--|--|
