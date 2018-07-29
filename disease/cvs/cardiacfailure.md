@@ -5,8 +5,8 @@ Cardiac failure is a syndrome describing the impediment to ventricular filling o
 	* Acute
 	* Chronic
 * Ejection fraction
-	* Heart failure with preserved ejection fraction (>50%)
-	* Heart failure with reduced ejection fraction (\<40%)
+	* Heart failure with preserved ejection fraction (> 50%)
+	* Heart failure with reduced ejection fraction (< 40%)
 	* (An EF of 40-49% is typically called a mid-range EF)
 
 Classifications include both functional scores (NYHA) or disease progression (ACC/AHA):
@@ -15,8 +15,8 @@ Classifications include both functional scores (NYHA) or disease progression (AC
 
 ##Epidemiology and Risk Factors
 * Prevalence of chronic heart failure is ~2%  
-	* \<2% in \<60 year-olds
-	* >10% in >75 year-olds 
+	* < 2% in < 60 year-olds
+	* > 10% in > 75 year-olds 
 * Lifetime risk of disease is ~20%
 * Annual mortality is 6-7% in patients with stable heart failure
 	* Increases to 25%/year in hospitalised patients

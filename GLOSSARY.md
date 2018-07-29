@@ -30,7 +30,10 @@ Adenosine Triphosphate
 ##APL
 Adjustable Pressure Limiting
 
-###BBB
+##AVA
+Aortic Valve Area
+
+##BBB
 Blood-Brain Barrier
 
 ##BNP
