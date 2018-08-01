@@ -104,7 +104,9 @@ Secondary to hypoxia.
 ###Examination
 ##Diagnostic Approach and DDx
 ##Investigations
-##Post-Emergency Management
+##Management
+###Preventative Management
+###Post-Emergency Management
 Once laryngospasm is broken:
 * Consider deflating the stomach with an OGT prior to extubation
 * Ensure deep anaesthesia for duration of muscle relaxation
