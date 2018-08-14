@@ -71,8 +71,12 @@
 	* [Neuraxial](/anaesthesia/regional/spinal.md#id)
 		* [Spinal](/anaesthesia/regional/spinal.md)
 		* [Epidural](/anaesthesia/regional/epidural.md)
+	* [Head and Neck](/anaesthesia/regional/peribulbar.md#id)
+		* [Peribulbar Block](/anaesthesia/regional/peribulbar.md)
+		* [Sub-Tenon's Block](/anaesthesia/regional/subtenon.md)
 	* [Torso](/anaesthesia/regional/tap.md#id)
 		* [TAP](/anaesthesia/regional/tap.md)
+
 
 
 ---
@@ -148,11 +152,6 @@
 	* [Scalpel Cricothyrotomy](/procedures/airway/scalpel-cricothyrotomy.md)
 * [Central Venous Access](/procedures/cvs/central-venous-access.md)
 	* [PAC Insertion](/procedures/cvs/pac.md)
-* [Regional Anaesthesia](/procedures/regional/peribulbar.md#id)
-	* [Head and Neck](/procedures/regional/peribulbar.md#id)
-		* [Peribulbar Block](/procedures/regional/peribulbar.md)
-		* [Sub-Tenon's Block](/procedures/regional/subtenon.md)
-	* [Neuraxial](/procedures/regional/lp.md#id)
-		* [Lumbar Puncture](/procedures/regional/lp.md)
-		* [Epidural Insertion](/procedures/regional/epidural_insertion.md)
+* [Lumbar Puncture](/anaesthesia/regional/lp.md)
+
 
