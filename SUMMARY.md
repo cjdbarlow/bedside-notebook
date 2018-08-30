@@ -75,6 +75,11 @@
 		* [Peribulbar Block](/anaesthesia/regional/peribulbar.md)
 		* [Sub-Tenon's Block](/anaesthesia/regional/subtenon.md)
 		* [Scalp Block](/anaesthesia/regional/scalp.md)
+	* [Upper Limb](/anaesthesia/regional/interscalene.md#id)
+		* [Interscalene](/anaesthesia/regional/interscalene.md)
+		* [Supraclavicular](/anaesthesia/regional/supraclav.md)
+		* [Infraclavicular](/anaesthesia/regional/infraclav.md)
+		* [Forearm & Wrist](/anaesthesia/regional/forearm-blocks.md)
 	* [Torso](/anaesthesia/regional/tap.md#id)
 		* [TAP](/anaesthesia/regional/tap.md)
 
