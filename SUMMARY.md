@@ -72,9 +72,9 @@
 		* [Spinal](/anaesthesia/regional/spinal.md)
 		* [Epidural](/anaesthesia/regional/epidural.md)
 	* [Head and Neck](/anaesthesia/regional/peribulbar.md#id)
-		* [Peribulbar Block](/anaesthesia/regional/peribulbar.md)
-		* [Sub-Tenon's Block](/anaesthesia/regional/subtenon.md)
-		* [Scalp Block](/anaesthesia/regional/scalp.md)
+		* [Peribulbar](/anaesthesia/regional/peribulbar.md)
+		* [Sub-Tenon's](/anaesthesia/regional/subtenon.md)
+		* [Scalp](/anaesthesia/regional/scalp.md)
 	* [Upper Limb](/anaesthesia/regional/interscalene.md#id)
 		* [Interscalene](/anaesthesia/regional/interscalene.md)
 		* [Supraclavicular](/anaesthesia/regional/supraclav.md)
@@ -82,8 +82,10 @@
 		* [Forearm & Wrist](/anaesthesia/regional/forearm-blocks.md)
 	* [Torso](/anaesthesia/regional/tap.md#id)
 		* [TAP](/anaesthesia/regional/tap.md)
-
-
+	* [Lower Limb](/anaesthesia/regional/fnb.md#id)
+		* [Femoral Nerve](/anaesthesia/regional/fnb.md)
+		* [Fascial Iliaca](/anaesthesia/regional/fasciailiaca.md)
+		* [Sciatic](/anaesthesia/regional/sciatic.md)
 
 ---
 
