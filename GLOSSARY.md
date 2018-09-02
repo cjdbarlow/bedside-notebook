@@ -54,6 +54,9 @@ Citric Acid Cycle
 ##CBF
 Cerebral Blood Flow
 
+##CFA
+Common Femoral Artery
+
 ##CHB
 Complete Heart Block
 
@@ -228,6 +231,9 @@ Intermittent Haemodialysis/Ischaemic Heart Disease
 ##IJV
 Internal Jugular Vein
 
+##IP
+In-Plane
+
 ##IVC
 Inferior Vena Cava
 
@@ -305,6 +311,9 @@ Nasopharangeal Airway
 
 ##OHG
 Oral Hypoglycaemic
+
+##OOP
+Out-Of-Plane
 
 ##OPA
 Oropharyngeal Airway (Guedel Airway)

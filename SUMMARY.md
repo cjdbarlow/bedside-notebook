@@ -48,7 +48,8 @@
 * [Renal and Fluid](/management/renal/rrt.md#id)
 	* [Renal Replacement](/management/renal/rrt.md)
 * GIT
-* Haematological
+* [Haematological](/management/haeme/anticoag.md#id)
+	* [Anticoagulation](/management/haeme/anticoag.md)
 * Infective and Immune
 
 
@@ -58,6 +59,7 @@
 	* [Laryngospasm](/disease/airway/laryngospasm.md#id)
 * [Anaesthetic Considerations](/anaesthesia/considerations/fasting.md#id)
 	* [Fasting](/anaesthesia/considerations/fasting.md)
+	* [Perioperative Anticoagulation](/anaesthesia/considerations/periop-anticoag.md)
 	* [Operative Analgesia](/anaesthesia/considerations/operative-analgesia.md)
 	* [Positioning](/anaesthesia/considerations/positioning.md)
 		* [Prone Positioning](/anaesthesia/considerations/proneanaes.md)

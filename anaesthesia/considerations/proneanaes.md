@@ -81,7 +81,7 @@ Can be divided into:
 * [Assessment](#pre)
 * [Preparation](#prep)
 * [Induction](#ind)
-* [Positioning](#pos)}
+* [Positioning](#pos)
 * [Emergence](#emergence)
 * [Emergency Management](#emrx)
 

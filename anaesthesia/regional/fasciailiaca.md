@@ -1,16 +1,63 @@
 #Fascia Iliaca Block
+Blockade is:
+* Low-tech alternative to femoral nerve block  
+Relies on high-volume to spread underneath fascia and provide blockade to:
+	* Femoral nerve  
+	Blocked in all instances.
+	* Lateral cutaneous nerve of the thigh (lateral femoral cutaneous nerve)  
+	In most (80-100%) of instances.
+	* Obturator nerve is not reliably blocked
+* Delivers analgesia but not anaesthesia
+* Requires large volume and dose of LA
+* Does not reliably block obturator nerve
+
 
 ##Indications
-Can be used:
-* In isolation, providing *analgesia* for:
-	* Thigh surgery
-	* Knee arthroscopy
-	* Fractured neck of femur
-* In combination with sciatic nerve block for anaesthesia for:
+*Analgesia* for:
+* Thigh surgery
+* Knee arthroscopy
+* Fractured neck of femur
+
 
 ##Contraindications
+* General contraindications:
+	* Patient refusal
+	* LA allergy
+	* Local infection
+* Specific contraindications
+	* **Previous femoral bypass**
+
+
 ##Anatomy
+Innervation of the lower extremities occurs via the **lumbosacral plexus**, which divides into:
+* **Sciatic nerve**  
+Formed from L4-S3, and divides into the tibial nerve and common peroneal nerve at a variable location in the thigh. Provides:
+	* Motor supply to all muscles in:
+		* Posterior compartment of thigh
+	* Sensory supply to:	
+		* Posterior thigh  
+		Not blocked by anterior or posterior approaches to the sciatic nerve.
+		* Lower leg not covered by saphenous nerve
+* Lumbar plexus  
+In turn dividing into:
+	* **Femoral nerve**  
+	Largest branch of the lumbar plexus formed from L2-4, providing:
+		* Motor supply to knee extensors
+		* Sensory supply to anteriomedial thigh and, via the **saphenous nerve**, medial lower leg, ankle, and foot
+	* **Obturator nerve**  
+	Formed from L2-4, and enters thigh through obturator foramen. Provides:
+		* Motor supply to hip adductors
+		* Sensory supply to a variable aspect of the medial thigh/knee
+	* **Lateral femoral cutaneous nerve**  
+	Formed from L2-3, and runs on vental surface of iliacus, beneath fascia iliaca. Provides:
+		* Sensory supply to lateral aspect of thigh and knee
+
 ##Equipment
+* Standard nerve block tray
+* High-frequency linear probe
+* 5-10cm **blunted**, short-beveled, or Tuohy needle  
+Blunted needles improve tactile feeling of block.
+* 40ml local anaesthetic
 
 
 ##Technique
@@ -20,16 +67,56 @@ Easy and reliable, but high volume of LA required.
 * Ultrasound  
 Greater equipment requirement but associated with lower risk of complications.
 
+
 ###Landmark
+* Position patient supine
+* Identify landmarks:
+	* ASIS
+	* Pubic tubercle
+* Divide distance between ASIS and tubercle into **thirds**
+* Mark a point **1cm caudal** from the junction of the **lateral and middle third**  
+Confirm that this point is ~1-2cm lateral to the femoral pulse.
+* Standard prep, drape, skin anaesthesia, etc
+* Perform block:
+	* Insert needle perpendicularly
+	* Angle slightly cranio-medially to avoid vessels
+	* Advance needle slowly, feeling for two pops
+		* Distinct pop through fascia lata
+		* Subtle pop through fascia iliaca
+	* Flaten needle and insert a further 1-2mm
+	* Aspirate and inject in 5ml aliquots  
+		* No resistance to injection should be appreciated  
+		Resistance suggests needle is within iliacus - withdraw until injection is easy.
+
+
 ###Ultrasound
 * Position patient supine
 * Identify femoral vessels
-* Follow fascia iliaca laterally to the ASIS
-* Insert needle  
-IP or OOP techniques can be used.
-* Hydrodissect beneath fascia iliaca with 30-40ml of LA
+* Follow fascia iliaca laterally to the ASIS  
+Identifed as the thick fascial plane superficial to the femoral nerve and femoral vessels.
+* Perform block  
+	* Insert needle IP from the lateral side
+	* Aim to place needle tip under the fascia iliaca at the junction of the middle and lateral thirds of the line between the ASIS and pubic tubercle  
+	As per landmark technique. Pops are usually perceived.
+	* Aspirate and inject 1-2ml of LA to confirm location with hydrodissection of fascia
+	* Inject remainder of LA in 5ml aliquots (aspirating between)
+	* Aim is to identify spread both:
+		* Laterally towards iliac crest
+		* Medially towards femoral nerve
+
 
 ##Complications
+* General complications
+	* Intravascular injection
+	* LAST
+	* Nerve injury
+	* Infection
+	* Failure
+	* Allergy to LA
+
 
 ---
 ##References
+1. Range C, Egeler C. [Fascia Iliaca Compartment Block: Landmark and Ultrasound Approach](http://www.frca.co.uk/Documents/193%20Fascia%20Iliaca%20compartment%20block.pdf). WFOSOA. 2010.
+2. Chuan A, Scott DM. Regional Anaesthesia: A Pocket Guide. 1st Ed. Oxford University Press.
+2. NYSORA. [Ultrasound Guided Fascia Iliaca Block](https://www.nysora.com/ultrasound-guided-fascia-iliaca-block). Accessed September 2018.

@@ -1,5 +1,8 @@
 #Femoral Nerve Block
-Covers anterior thigh and knee.
+Blockade provides anaesthesia to:
+* Anterior and medial thigh
+* Knee
+* Variable strip on the medial leg and foot
 
 ##Indications
 Surgery on:
@@ -9,18 +12,76 @@ Surgery on:
 
 
 ##Contraindications
+* General contraindications:
+	* Patient refusal
+	* LA allergy
+	* Local infection
+* Specific contraindications
+	* **Previous femoral bypass**
+
 ##Anatomy
+Innervation of the lower extremities occurs via the **lumbosacral plexus**, which divides into:
+* **Sciatic nerve**  
+Formed from L4-S3, and divides into the tibial nerve and common peroneal nerve at a variable location in the thigh. Provides:
+	* Motor supply to all muscles in:
+		* Posterior compartment of thigh
+	* Sensory supply to:	
+		* Posterior thigh  
+		Not blocked by anterior or posterior approaches to the sciatic nerve.
+		* Lower leg not covered by saphenous nerve
+* Lumbar plexus  
+In turn dividing into:
+	* **Femoral nerve**  
+	Largest branch of the lumbar plexus formed from L2-4, providing:
+		* Motor supply to knee extensors
+		* Sensory supply to anteriomedial thigh and, via the **saphenous nerve**, medial lower leg, ankle, and foot
+	* **Obturator nerve**  
+	Formed from L2-4, and enters thigh through obturator foramen. Provides:
+		* Motor supply to hip adductors
+		* Sensory supply to a variable aspect of the medial thigh/knee
+	* **Lateral femoral cutaneous nerve**  
+	Formed from L2-3, and runs on vental surface of iliacus, beneath fascia iliaca. Provides:
+		* Sensory supply to lateral aspect of thigh and knee
+
 ##Equipment
+* Standard nerve block tray
+* High-frequency linear probe
+* 5-10cm 22G short-bevel needle
+* 20ml local anaesthetic
+
 ##Technique
 * Position patient supine
-* Identify the inguinal ligament and the femoral artery
+* Identify the inguinal ligament and the femoral artery by palpation or ultrasound
+* Standard prep, drape, skin anaesthesia, etc
 * Place probe in the transverse plane close to the femoral crease, over the femoral artery
 * Identify femoral artery and common femoral vein
-* Identify femoral nerve lateral to the femoral artery
-* Pass needle through the iliopectineal fascia
-* Inject 1-20ml of LA around nerve, ensuring it remains contained underneath the fascia
+* Identify femoral nerve lateral to the femoral artery  
+Features include:
+	* Hyperechoic triangular or oval in shape
+	* Lies in a sulcus in the iliopsoas muscle
+	* Typically 2-4cm deep
+	* More visible during dynamic cranial/caudal tilting
+	* Best visualised prior to bifurcation of CFA
+* Perform block:
+	* Pass needle IP, lateral to medial, through the iliopectineal fascia
+	* Aim to place needle adjacent to lateral aspect of the nerve  
+	May be below fascia iliac, or between its two layers.
+	* Inject 1-20ml of LA around nerve, ensuring it remains contained underneath the fascia  
+	Proper location should result in:
+		* Nerve being elevated off iliopsoas
+		* LA spreading into the wedge-shaped space lateral to the femoral artery
 
 ##Complications
+* General complications
+	* Intravascular injection
+	* LAST
+	* Nerve injury
+	* Infection
+	* Failure
+	* Allergy to LA
 
 ---
 ##References
+1. Chuan A, Scott DM. Regional Anaesthesia: A Pocket Guide. 1st Ed. Oxford University Press.
+2. NYSORA. [Ultrasound Guided Femoral Nerve Block](https://www.nysora.com/ultrasound-guided-femoral-nerve-block). Accessed September 2018.
+3. Range C, Egeler C. [Fascia Iliaca Compartment Block: Landmark and Ultrasound Approach](http://www.frca.co.uk/Documents/193%20Fascia%20Iliaca%20compartment%20block.pdf). WFOSOA. 2010.

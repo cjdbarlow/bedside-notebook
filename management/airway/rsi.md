@@ -30,10 +30,13 @@ Evidence (both for and against cricoid pressure) is weak. Cricoid pressure:
 	Evidence is poor.
 		* Studies demonstrating reduced aspiration risk are small and poor quality
 		* Ultrasound and MRI studies suggest that applying cricoid laterally displaces rather than compresses the oesophagus
+		* NAP4 noted several cases where cricoid was omitted during RSI despite strong indications, and significant morbidity/mortality from aspiration resulted  
+		Conversely, there were no major complications identified in cases where cricoid pressure was applied.
 	* May *increase* risk of aspiration by reducing oeosophageal sphincter tone
 	* *Does* reduce gastric distension during face-mask ventilation
 	* May worsen laryngoscopic view
-		* Cricoid pressure should be released if view is difficult
+		* Cricoid pressure should be **released immediately if view is difficult**  
+		Release under direct vision with suction immediately available.
 	* May increase difficulty of supraglotic airway placement
 	* Requires a skilled airway assistant
 
@@ -43,3 +46,5 @@ Evidence (both for and against cricoid pressure) is weak. Cricoid pressure:
 ---
 ##References
 1. Frerk, C., Mitchell, V. S., McNarry, A. F., Mendonca, C., Bhagrath, R., Patel, A., … Ahmad, I. (2015, December 1). Difficult Airway Society 2015 guidelines for management of unanticipated difficult intubation in adults. British Journal of Anaesthesia. Oxford University Press. https://doi.org/10.1093/bja/aev371
+2. McNarry AF, Patel A. The evolution of airway management - new concepts and conflicts with traditional practice. Br J Anaesth. 2017;119(suppl_1):i154-i166. doi:10.1093/bja/aex385
+3. Cook T, Woodall N, Frerk C. (eds). 4th National Audit Project of The Royal College of Anaesthetists and The Difficult Airway Society (NAP4). Major complications of airway management in the United Kingdom. Report and findings. London, 2011.
