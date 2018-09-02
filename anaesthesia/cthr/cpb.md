@@ -69,13 +69,14 @@ Anaesthetist:
 * Prepare 300 Units/kg heparin
 	* Give heparin when requested  
 	**Close loop**.
-	* Chect ACT **3 minutes** post UFH
+	* Chect ACT **3 minutes** post UFH  
 	Confirm ACT >400 prior to cannulation.
 * Reduce SBP to 80-100mmHg to reduce risk of aortic dissection during cannulation
 	* Too low and there is increased risk of puncturing the posterior wall of the aorta, leading to dissection
 	* Too high and there is increased risk of aortic dissection from the anterior wall
-* Connects coronary sinus cannula to PA transducer and monitors pressure
+* Connects coronary sinus cannula to PA transducer to monitor pressure during retrograde cardiopegia
 * Confirm coronary sinus cannula is correctly sited  
+Via TOE.
 Used for retrograde cardioplegia.
 * Monitor for LV distension with TOE  
 May occur with anterograde cardioplegia if there is aortic regurgitation.
@@ -110,7 +111,7 @@ Signifcant left sided CO at this stage implies a problem:
 	* Obstruction of venous bypass line
 	* Significant AR
 	* PDA
-* Deliver cardioplegia once aorta is cross clamped
+* Deliver cardioplegia once aorta is cross clamped  
 Typically contain high potassium and magnesium concentrations.
 	* Produce asystole when rapidly infused
 	* Cold cardioplegia is cardioprotective for ischaemia
@@ -167,8 +168,8 @@ Complete a pre-wean checklist and confirm:
 		* Rate and Rhythm  
 		Pacing wires in situ and pacing is set. A suggested approach:
 			* AOO/AAI or DOO/DDD
-			* High amplitudes (e.g. 16mA)
-			* High sensing threshold if using a synchronus mode
+			* High amplitudes (e.g. 16mA)  
+			* High sensing threshold if using a synchronus mode  
 			Decreases chance of diathermy interference.
 		* Preload  
 		* Afterload  

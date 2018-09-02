@@ -87,9 +87,9 @@ For standard approach:
 	~50% of SVG grafts will be occluded at 10 years (compared to ~10% of arterial grafts).
 	* Radial artery  
 	Non-dominant or dominant vessels may be used, provided there is adequate collateral flow via the ulnar artery.
-
 * Cross-clamp is removed and coronary perfusion commences
 * Wean from CPB occurs once air is removed from circulation
+
 
 ###Postoperative Care
 * Transfer intubated to PACU/ICU
