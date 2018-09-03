@@ -36,7 +36,8 @@ The equator of the globe lies at the lateral border.
 
 The globe is:
 * Spherical
-* Encased in **Tenon's capsule** over the scleral portion, which is a fascial sheath
+* Encased in **Tenon's capsule** over the scleral portion  
+Elastic white connective tissue layer that surrounds the globe. It lies deep to the conjunctiva, which it merges with ~1mm from the limbus.
 * Has six muscular attachments:
 	* The four rectus muscles form the retrobulbar cone  
 	Contact the walls of the orbit.
@@ -84,11 +85,11 @@ Ensure there is some antiseptic under the lower lid and in the conjunctival sac.
 	* Insert a blunt cannula into the episcleral space, tangential to the globe
 	* Inject LA
 		* 3-5ml typically produces good analgesia but only partial akinesia
-		* 8-11 produces akinesia via spread of LA to extraocular muscle sheaths
+		* 8-11ml produces akinesia via spread of LA to extraocular muscle sheaths
 * Remove speculum
 
 ##Complications
-*Mechanism of copmplications are similar to [peribulbar blocks](/procedures/regional/peribulbar.md), but are typically much less common.*
+*Mechanism of copmplications are similar to [peribulbar blocks](/procedures/regional/peribulbar.md#comp), but are typically much less common.*
 
 
 Minor complications:
@@ -112,3 +113,4 @@ May be due to direct trauma and haemoatoma formation, leading to muscular contra
 1. Ripart J, Mehrige K, Rocca RD. [Local & Regional Anesthesia for Eye Surgery](https://www.nysora.com/local-regional-anesthesia-for-eye-surgery). NYSORA.
 2. Olive, D. [Sub-Tenon's Eye Block Version 2](https://www.youtube.com/watch?v=JJBlwHknBcA). Anaestricks. 2013.
 3. Kumar CM, Eid H, Dodds C. [Sub-Tenon’s anaesthesia: complications and their prevention](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3178142/pdf/eye201169a.pdf). Eye. 2011;25(6):694-703.
+4. Chuan A, Scott DM. Regional Anaesthesia: A Pocket Guide. 1st Ed. Oxford University Press

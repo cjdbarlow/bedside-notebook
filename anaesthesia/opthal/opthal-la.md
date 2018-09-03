@@ -21,9 +21,9 @@ Different methods for LA include:
 Provides corneal anaesthesia.
 	* Adequate for cataract surgery by phacoemulsification  
 	Does not provide akinesia.
-* [Peribulbar Block](/procedures/regional/peribulbar.md#id)  
+* [Peribulbar Block](/anaesthesia/regional/peribulbar.md#id)  
 The most commonly used injection technique.
-* [Sub-Tenon's Block](/procedures/regional/subtenon.md)  
+* [Sub-Tenon's Block](/anaesthesia/regional/subtenon.md)  
 A useful alternative when a peri-bulbar block is contraindicated.
 * Retrobulbar block  
 Produces better akinesis and lower IOP than a peribulbar block, but has greater associated risks and is essentially superseded by a peribulbar block.
@@ -32,7 +32,7 @@ Produces better akinesis and lower IOP than a peribulbar block, but has greater 
 ##Considerations
 * B
 	* COAD  
-	CO<sub>2</sub> retention may occur under the drapes. High-flow oxygen undedr the drapes may reduce this.
+	CO<sub>2</sub> retention may occur under the drapes. High-flow oxygen under the drapes may reduce this.
 	* Ability to lie flat for up to 30 minutes
 * D
 	* **Axial length**  
@@ -47,7 +47,7 @@ Produces better akinesis and lower IOP than a peribulbar block, but has greater 
 			* Use of antiplatelet agents including aspirin
 			* Warfarin and INR if applicable
 			* NOACs
-			* Generally a sub-Tenon's block will be preferred as this is lower than the risk of discontinuing these agents
+			* Generally a sub-Tenon's block will be preferred as the associated risks are lower than the risk of discontinuing these agents
 
 ##Preoperative Assessment
 Should consider:
@@ -71,12 +71,8 @@ Many appropriate techniques:
 	* Midazolam 0.5-2mg
 	* Propofol 10-30mg with alfentanil 250ug
 	* Propofol 10-20 mg with ketamine 10mg and alfentanil 100-250ug
-* Apply topical local anaesthetic drops
-
-
-##Intraoperative
-###Surgical Stages
-##Postoperative
+* Apply topical local anaesthetic drops  
+3 drops of 1% amethocaine or oxybuprocaine into the eye. Repeat 3 times at 1 minutely intervals, as required.
 
 
 ---

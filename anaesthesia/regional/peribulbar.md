@@ -8,14 +8,18 @@ The peribulbar block:
 
 
 ##Indications
-Anaesthesia and akinesia of the globe.
+Anaesthesia and akinesia of the globe for:
+* Cataract extraction
+* Trabeculectomy
+* Vitrectomy
+* Strabismus repair
 
 
 ##Contraindications
 Should be avoided when:
 * Axial length is **>26mm**  
 Increased risk of globe perforation.
-* Anticoagulation
+* Severe coagulopathy
 * Perforated globe
 * Infected eye
 * Inability to lie flat
@@ -29,7 +33,8 @@ The equator of the globe lies at the lateral border.
 
 The globe is:
 * Spherical
-* Encased in **Tenon's capsule** over the scleral portion, which is a fascial sheath
+* Encased in **Tenon's capsule** over the scleral portion  
+Elastic white connective tissue layer that surrounds the globe. It lies deep to the conjunctiva, which it merges with ~1mm from the limbus.
 * Has six muscular attachments:
 	* The four rectus muscles form the retrobulbar cone  
 	Contact the walls of the orbit.
@@ -37,19 +42,21 @@ The globe is:
 		Intraconal injection of local anaesthetic produces anaesthesia and akinesia of the globe and extraocular muscles.
 		* The extraconal space is a potential space lying between these muscles and the orbital wall
 
+
 ##Equipment
 * Gauze
 * Antiseptic  
 Typically 50% saline with 50% aqueous betadine
 * Topical local anaesthetic drops
 * Mix LA solution  
-Many different options exist. One approach:
-	* Take two ampoules of 10mls of 0.75% ropivacaine, 10% lignocaine, and 150 units of hyaluronidase
-	* Add the hyalase to one ampoule of 0.75% ropivacaine, producing ~15U/ml of hyalase in ~0.75% ropivacaine
-	* Into a 10ml syringe, draw up 7ml of 0.75% ropivacaine, 2ml of 10% lignocaine, and 1ml of the ropivacaine/hyalase mixture  
-	This will give a total volume of 10mls of ~0.6% ropivacaine, 2% lignocaine, and 15U/ml hyaluronidase.
-
-
+Many different options exist.
+	* Lignocaine/ropivacaine
+		* Take two ampoules of 10mls of 0.75% ropivacaine, 10% lignocaine, and 150 units of hyaluronidase
+		* Add the hyalase to one ampoule of 0.75% ropivacaine, producing ~15U/ml of hyalase in ~0.75% ropivacaine
+		* Into a 10ml syringe, draw up 7ml of 0.75% ropivacaine, 2ml of 10% lignocaine, and 1ml of the ropivacaine/hyalase mixture  
+		This will give a total volume of 10mls of ~0.6% ropivacaine, 2% lignocaine, and 15U/ml hyaluronidase.
+	* Ropivacaine alone  
+	0.75-1% ropivacaine with 75-150 U/ml hyaluronidase.
 * A needle  
 Typically 23-27G.
 * A syringe  
@@ -67,6 +74,7 @@ Ensure there is some antiseptic under the lower lid and in the conjunctival sac.
 * Perform block:
 	* Palpate **medial two-thirds** and **lateral one-third** of the inferior rim of the orbit
 	* Using a 23-27G needle, advance **directly backwards**  
+	Parallel to orbital floor.
 	**Limit insertion depth to 25mm**.
 		* If contacting bone, redirect slightly superiorly
 		* If the globe rotates, this suggests scleral contact
@@ -75,12 +83,12 @@ Ensure there is some antiseptic under the lower lid and in the conjunctival sac.
 * Use digital pressure or a Honan balloon to compress the globe, reducing LA volume and therefore IOP
 * Assess for block efficacy
 * If required, a **top-up block** can be performed with a **different technique**:
-	* Plce the needle at the medial canthus
+	* Place the needle at the medial canthus
 	* Aim towards the medial wall of the orbit
 	* Inject 3-4ml LA
 
 
-##Complications
+##Complications{#comp}
 Minor complications:
 * Chemosis  
 Subconjunctival swelling. Transient.
@@ -105,7 +113,7 @@ Due to direct trauma.
 Due to direct injury or vascular occlusion.
 	* Presents with visual loss
 * Intraarterial injection  
-Retrograde flow down the ICA may result in the dose of LA being delivered directly to midbrain structures.
+Flow down the ICA may result in the dose of LA being delivered directly to midbrain structures.
 	* May present with seizure or CVS toxicity
 * Brainstem anaesthesia  
 Due to needle passing through the nerve sheath, resulting in subarachnoid deposition of LA.
@@ -119,3 +127,4 @@ Due to raised intraocular pressure.
 
 ##References
 1. Ripart J, Mehrige K, Rocca RD. [Local & Regional Anesthesia for Eye Surgery](https://www.nysora.com/local-regional-anesthesia-for-eye-surgery). NYSORA.
+2. Chuan A, Scott DM. Regional Anaesthesia: A Pocket Guide. 1st Ed. Oxford University Press
