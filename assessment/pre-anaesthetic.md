@@ -1,6 +1,8 @@
 #Pre-Anaesthetic Assessment
 
-Preoperative assessment is divided into:
+*This section covers identification of medical issues that influence anaesthetic technique and outcome. Management of identified issues is covered under [perioperative management](/anaesthesia/periop/periop-management.md).*
+
+Preoperative assessment can be divided into:
 * History
 * Examination
 
@@ -24,21 +26,6 @@ In particular:
 	* Cardiac drugs
 	* Opioid/analgesic use and tolerance
 	* Drugs with many side-effects or interactions
-	* Drugs which should be **ceased perioperatively**
-		* OHGs  
-		Morning of surgery.
-		* Antidepressants  
-		Morning of surgery.
-	* Drugs which should be **adjusted perioperatively**
-		* Insulins
-		* Anticoagulants, some antiplatelets
-		* Steroids
-		* Bronchodilators  
-		Give preoperatively.
-	* Drugs which should be **initiated perioperatively**
-		* Consider beta-blockade  
-		In those with increased risk of stroke, inducible ischaemia, CAD, multiple CVS risk factors.
-			* Note that cardioselective β-blockers do not increase bronchospasm risk in short term
 	* Alcohol use
 	* Drug use
 * **Past Medical History**
@@ -52,12 +39,11 @@ In particular:
 			* Consider cancellation or delaying elective procedures in poorly controlled asthma
 		* Smoking  
 		Impaired mucous secretion & clearance, decreased small airway calibre, altered immune response.
-			* Cease 8 weeks prior to OT if possible
-			* Abstaining 24/24 prior has benefit
 		* COAD  
 		Increased risk of atelectasis, bronchospasm, pneumonia, mechanical ventilation, respiratory failure.
 		* Recent URTI
-		* OSA
+		* OSA  
+		Screening should be performed with the STOP-BANG questionaire. 
 	* Cardiac disease
 		* CAD  
 		CCS Angina class.
@@ -79,30 +65,47 @@ In particular:
 		* Raised ICP
 		* Spinal disease
 		* Neuromuscular disease
-	* GIT
-		* GORD
-		* Hepatic disease
-	* Renal
-		* Insufficiency
-		* Dialysis
-	* Haematological diseases
-		* Objection to blood products
-		* History of bleeding problems
-		* Anaemia
-		* Coaguolpathy
-		* Dyscrasias
 	* MSK
+		* Obesity  
+		Obesity is associated increased rates of multiple complications. Perioperative evaluation should include:
+			* Screening for OSA
+			* HbA1c and Hb
+			* Potential for difficult intubation
 		* Arthropathies
 		* Cervical spine disease  
 		Abscess, trauma, tumours, scleroderma, obesity fixation.
 	* Endocrine disease
 		* Diabetes  
-		Including complications:
-			* CVS
-			* Renal
-			* Neuropathy
+			* Check and test HbA1c in known diabetics with planned major orthopaedic or vascular surgery
+			* Evaluate for complications:
+				* CVS
+				* Renal
+				* Neuropathy
 		* Thyroid
 		* Adrenal
+	* Renal
+		* Insufficiency  
+		Perioperative AKI is more likely with:
+			* Age
+			* Emergency surgery
+			* Obesity
+			* Smoking
+			* ETOH abuse
+			* DM
+			* HTN
+			* Anaemia
+			* Elevated Urea/Creatinine ratios
+		* Dialysis
+	* GIT
+		* GORD
+		* Hepatic disease
+	* Haematological diseases
+		* Objection to blood products
+		* History of bleeding problems  
+		Asking patients about their risk of bleeding is a sensitive tool to identify patients with impaired haemostasis or platelet function.
+		* Anaemia
+		* Coaguolpathy
+		* Dyscrasias
 	* Pregnancy
 		* Issues with this pregnancy
 		* Issues with previous pregnancies
@@ -173,3 +176,4 @@ Conduct operation if further postponement will not be beneficial.
 
 ##References
 1. Hemanth Kumar VR, Saraogi A, Parthasarathy S, Ravishankar M. [A useful mnemonic for pre-anesthetic assessment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3819859/). Journal of Anaesthesiology, Clinical Pharmacology. 2013;29(4):560-561. doi:10.4103/0970-9185.119127.
+2. De Hert, S., Staender, S., Fritsch, G., Hinkelbein, J., Afshari, A., Bettelli, G., … Wappler, F. (2018). Pre-operative evaluation of adults undergoing elective noncardiac surgery: Updated guideline from the European Society of Anaesthesiology. European Journal of Anaesthesiology (Vol. 35).
