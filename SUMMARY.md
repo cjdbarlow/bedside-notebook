@@ -6,6 +6,9 @@
 
 * [Systems Approach](/assessment/physician-approach.md)
   * [Detailed Neurological Exam](/assessment/neurological-exam.md)
+* [Issues-Based Approach](/assessment/issues/chestpain.md#id)
+	* [Pain](/assessment/issues/chestpain.md#id)
+		* [Chest Pain](/assessment/issues/chestpain.md)
 * [Pre-Anaesthetic](/assessment/pre-anaesthetic.md)
 	* [Anaesthetic Machine Check](/assessment/machinecheck.md)
 * [Intraoperative](/assessment/intraoperative.md)
@@ -81,6 +84,7 @@
 		* [Interscalene](/anaesthesia/regional/interscalene.md)
 		* [Supraclavicular](/anaesthesia/regional/supraclav.md)
 		* [Infraclavicular](/anaesthesia/regional/infraclav.md)
+		* [Axillary](/anaesthesia/regional/axillary.md)
 		* [Forearm & Wrist](/anaesthesia/regional/forearm-blocks.md)
 	* [Torso](/anaesthesia/regional/tap.md#id)
 		* [TAP](/anaesthesia/regional/tap.md)

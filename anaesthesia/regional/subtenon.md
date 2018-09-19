@@ -105,7 +105,7 @@ Major complications:
 * Retinal ischaemia  
 May occur in absence of retrobulbar haemorrhage, and result in permanent visual loss.
 * Optic nerve damage
-* rectus muscle dysfunctikon  
+* Rectus muscle dysfunctikon  
 May be due to direct trauma and haemoatoma formation, leading to muscular contracture.
 
 ---

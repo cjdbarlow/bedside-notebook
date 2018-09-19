@@ -6,18 +6,31 @@ Alternative to supraclavicular block, which:
 * Further from the lung
 
 ##Indications
-* Analgesia for arm and hand
+* Analgesia for forearm and hand
 
 ##Contraindications
+* Contralateral pneumonectomy
+
 ##Anatomy
 ##Equipment
+* 100mm needle
+* Local anaesthetic  
+20-30 mls of:
+	* 0.5-0.75% ropivacaine  
+	0.2-0.5% for post-operative analgesia.
+	* 1.5-2% lignocaine with 1:200,000 adrenaline.
+* High or intermediate frequency linear transducer
+
 ##Technique
 * Position
 	* Supine
-	* Arm by side or above head
+	* Arm by side or above head  
+	Arm abduction moves the clavicle cephalad, increasing space between transducer and clavicle for needle.
 * Probe parasagitally in the deltopectoral groove, medial to the AC joint
-* Identify SCA and SCV lying deep to pectoralis major and minor
-* Deposit a U-shaped bolus of LA under the SCA
+* Identify subclavian/axillary artery and vein lying deep to pectoralis major and minor
+* Insert needle IP, cranial to caual
+* Deposit a U-shaped bolus of LA under the artery  
+Cords of the brachial plexus may not be reliably visible at this level.
 
 ##Complications
 
