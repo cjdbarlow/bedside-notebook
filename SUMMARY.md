@@ -113,6 +113,8 @@
 	* [LUSCS](/anaesthesia/obs/luscs.md)
 * [Orthopaedic](/anaesthesia/ortho/torniquets.md#id)
 	* [Intraoperative Torniquets](/anaesthesia/ortho/torniquets.md)
+	* [THR](/anaesthesia/ortho/thr.md)
+	* [Femoral Fractures](/anaesthesia/ortho/femoral.md)
 	* [Spinal Surgery](/anaesthesia/ortho/spine.md)	
 * [Opthalmology](/anaesthesia/opthal/opthal-la.md#id)
 	* [Procedures under LA](/anaesthesia/opthal/opthal-la.md#id)
