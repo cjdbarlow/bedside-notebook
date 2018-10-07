@@ -1,6 +1,6 @@
 #Management of Post-Operative Cardiac Surgery
+*This section covers the intensive care management common to post-op cardiac surgical patients*
 
-> * This section covers the intensive care management common to post-op cardiac surgical patients
 
 Cardiac surgery is unique due to the:
 * Type of procedure  
