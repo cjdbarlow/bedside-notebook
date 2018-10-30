@@ -42,9 +42,11 @@ Management of insulin depends on:
 
 #####Sliding Scales
 Sliding scales should be based on the total daily insulin dose:
+
 |BSL (mmol/L)|< 20 units/day|21-40 units/day|41-60 units/day|61-89 units/day|>90 units/day|
-|10-11.9|1 unit|2 units|4 units|6 units|10 units|
-|12-15|2 units|4 units|6 units|8 units|12 units|
+|--|--|
+|**10-11.9**|1 unit|2 units|4 units|6 units|10 units|
+|**12-15**|2 units|4 units|6 units|8 units|12 units|
 
 **If BSL** is:
 * < 4 mmol/L 

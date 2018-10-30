@@ -1,2 +1,0 @@
-#Aortic Cross Clamp
-
