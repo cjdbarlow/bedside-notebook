@@ -7,6 +7,81 @@ Anaphylaxis is a potentially life-threatening emergency. It is an IgE mediated, 
 * Bronchospasm
 * Rash
 
+##<span style="color:red">Emergency Management of Perioperative Anaphylaxis</span>
+Immediate management follows a DRSABCD approach:
+* Danger
+	* Remove triggers  
+		* Chlorhexidine  
+		Including impregnated CVCs.
+		* Colloid
+		* Latex
+* Response
+	* Commence ALS if grade IV anaphylaxis
+* Send for help
+	* Organise team
+* Airway
+	* Consider **early intubation**  
+	Early administration of adrenaline may avoid the need for intubation, however if airway oedema is present then early consideration of intubation is appropriate.
+* Respiratory
+	* Provide 100% oxygen
+* Circulation
+	* Gain wide-bore IV access
+	* Commence rapid infusion of warm IV fluids
+	* Give **adrenaline**
+		* If no IV access or haemodynamic monitoring  
+		500ug IM Q5 minutes.
+		* If IV access:
+			* Grade 2  
+			20ug bolus Q1-2 minutes as starting dose, titrated to effect.
+			* Grade 3 (Life threatening)  
+			100-200ug bolus Q1-2 minutes as starting dose, titrated to effect.
+		* If >3 IV boluses required, commence infusion:  
+		Peripheral infusion is acceptable in the short term prior to establishing CVC access.
+			* Begin at 3ug/min
+			* Titrate up to 40ug/min
+	* Consider **arterial line insertion**
+	* Consider **central line insertion**  
+	If ongoing vasopressor requirement.
+* Disability
+	* Maintain anaesthesia  
+	Consider processed EEG monitoring.
+
+
+Monitoring and followup:
+* Grade 3 and Grade 4 anaphylaxis requires admission to ICU/HDU for monitoring and ongoing therapy as required
+* Grade 1 and 2 anaphylaxis which has settled quickly should be have at least 6 hours of close monitoring
+
+
+* All patients require a letter containing descriptions of the reaction and agents administered
+
+
+
+###Refractory Management of Perioperative Anaphylaxis
+* Ensure triggers removed
+* Reconsider arterial line
+* Consider echocardiography
+* **Resistant bronchospasm**
+	* Consider additional diagnosis
+		* Equipment malfunction
+		* Tension pneumothorax
+	* Continue adrenaline
+	* Salbutamol
+		* 100-200ug IV bolus, followed by an infusion of 5-25ug/min
+		* 12 puffs MDI
+	* Magnesium  
+	2g over 20 minutes.
+	* Inhalational anaesthetics
+	* Ketamine
+* **Resistant hypotension**
+	* Additional IV fluid
+	* Vasopressor
+		* Noradrenaline or vasopressin rpreferred
+	* Glucagon  
+	In the setting of β-blockade.
+		* 1-2mg IV Q5 min until CVS response is noted.
+
+
+
 ##Epidemiology and Risk Factors
 Triggers of non-perioperative anaphylaxis:
 * Food
@@ -20,12 +95,14 @@ Triggers of non-perioperative anaphylaxis:
 	* 21% of anaphylaxis in adults
 
 
-Perioperative anaphylaxis:
+###Epidemiology of Perioperative Anaphylaxis
 * 56% female
 * Overall less common in paediatrics
 	* May be due to less use of antibiotics and muscle relaxants
 	* More likley to present with bronchospasm
-* Causes
+
+
+* Causes:
 	* ~46% are antibiotic associated  
 	Teicoplanin and amoxycillin-clavulanate have the highest risk.
 	* ~33% are related to neuromuscular blocking drugs
@@ -36,8 +113,19 @@ Perioperative anaphylaxis:
 	Typically presents more slowly, unless IV (i.e. chlorhexidine-impregnated CVC) source.
 	* Patent Blue die  
 	Highest risk single therapy at ~15/100,000.
-* Isolated severe hypotension was typically managed most poorly
 
+
+* Onset:
+	* 83% present within 10 minutes
+	* 2% present *after* 60 minutes
+
+
+* Death:  
+More common in patients who are:
+	* Older
+	* Obese
+	* Vasculopaths
+	* β-blocked
 
 ##Pathophysiology
 Anaphylaxis is driven by degranualation of mas cells and basophil graculocytes, causing release of:
@@ -62,6 +150,7 @@ Symptoms and signs of anaphylaxis:
 * Relate to the region of the body affected  
 Typically tissues with high concentrations of mast cells.
 	* Skin  
+	Skin signs are uncommon in severe anaphylaxis due to lack of perusion.
 		* Urticaria
 		* Erythema
 		* Angioedema
@@ -69,15 +158,21 @@ Typically tissues with high concentrations of mast cells.
 	* Respiratory
 		* Bronchospasm  
 		Leading symptom in life-threatening reactions.
+			* Present in 50%
+			* First symptom in ~20%
+		* Capnographic changes will be evident in ~30%
 	* GIT
 		* Nausea
 		* Vomiting
 		* Diarrhoea
 	* CVS
-		* Hypotension
+		* Hypotension  
+		Isolated severe hypotension was typically managed poorly in NAP6.
 		* Haemoconcentration  
 		Due to interstitial oedema.
 			* 35-70% of circulating volume may extravasate in 10-15 minutes
+		* Cardiac arrest  
+		PEA most common.
 
 
 Prodromal symptoms:
@@ -202,80 +297,7 @@ Principles of management include:
 * Glucagon
 	* Recommended in patients on β-blockers
 
-###Immediate Managment of Perioperative Anaphylaxis
-*From the ANZCA/AANZAG guideline*  
 
-Follows a DRSABCD approach:
-* Danger
-	* Remove triggers  
-		* Chlorhexidine  
-		Including impregnated CVCs.
-		* Colloid
-		* Latex
-* Response
-	* Commence ALS if grade IV anaphylaxis
-* Send for help
-	* Organise team
-* Airway
-	* Consider **early intubation**  
-	Early administration of adrenalie may avoid the need for intubation, however if airway oedema is present then early consideration of intubation is appropriate.
-* Respiratory
-	* Provide 100% oxygen
-* Circulation
-	* Gain wide-bore IV access
-	* Commence rapid infusion of warm IV fluids
-	* Give **adrenaline**
-		* If no IV access or haemodynamic monitoring  
-		500ug IM Q5 minutes.
-		* If IV access:
-			* Grade 2  
-			20ug bolus Q1-2 minutes as starting dose, titrated to effect.
-			* Grade 3 (Life threatening)  
-			100-200ug bolus Q1-2 minutes as starting dose, titrated to effect.
-		* If >3 IV boluses required, commence infusion:  
-		Peripheral infusion is acceptable in the short term prior to establishing CVC access.
-			* Begin at 3ug/min
-			* Titrate up to 40ug/min
-	* Consider **arterial line insertion**
-	* Consider **central line insertion**  
-	If ongoing vasopressor requirement.
-* Disability
-	* Maintain anaesthesia  
-	Consider processed EEG monitoring.
-
-
-Monitoring and followup:
-* Grade 3 and Grade 4 anaphylaxis requires admission to ICU/HDU for monitoring and ongoing therapy as required
-* Grade 1 and 2 anaphylaxis which has settled quickly should be have at least 6 hours of close monitoring
-
-
-* All patients require a letter containing descriptions of the reaction and agents administered
-
-
-
-###Refractory Management of Perioperative Anaphylaxis
-* Ensure triggers removed
-* Reconsider arterial line
-* Consider echocardiography
-* **Resistant bronchospasm**
-	* Consider additional diagnosis
-		* Equipment malfunction
-		* Tension pneumothorax
-	* Continue adrenaline
-	* Salbutamol
-		* 100-200ug IV bolus, followed by an infusion of 5-25ug/min
-		* 12 puffs MDI
-	* Magnesium  
-	2g over 20 minutes.
-	* Inhalational anaesthetics
-	* Ketamine
-* **Resistant hypotension**
-	* Additional IV fluid
-	* Vasopressor
-		* Noradrenaline or vasopressin rpreferred
-	* Glucagon  
-	In the setting of β-blockade.
-		* 1-2mg IV Q5 min until CVS response is noted.
 
 ###Ineffective Therapies
 * Sugammadex  

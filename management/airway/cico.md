@@ -5,7 +5,7 @@
 > * A CICO situation may occur when oxygen saturations are normal
 
 
-A CICO situation occurs when there is a failure (or impending failure) to deliver oxygen due to supraglottic obstruction, and:
+A CICO situation occurs when there is a **failure (or impending failure) to deliver oxygen due to supraglottic obstruction**, and:
 * This obstruction is unlikely to be relieved by persistent attempts at supraglottic rescue
 * This obstruction may be bypassed with front of neck access
 * Failure is defined as:
@@ -15,6 +15,27 @@ A CICO situation occurs when there is a failure (or impending failure) to delive
 	Two attempts with different sizes or devices.
 	* Bag-Mask Ventilation with use of adjuncts
 * Note that therefore the **trigger for performing FONA is inability to establish airawy patency** following optimal attempts at non-surgical techniques, **not desaturation**
+
+
+###Transitioning to CICO
+Successful management of a CICO situation requires control of the human factors. Aim to:
+* Prevent (where possible)
+	* Adquate preparation
+	* Preoxygenation
+	* Airway assessment
+	* Use of adjunts and tools
+
+
+* Priming
+	* Recognise the situation  
+	**Verbally declare**.
+	* Communicate
+	* Demonstrate willingness to act
+* Preparation  
+Of CICO kit.
+* Puncture  
+Perform critothyrotomy.
+
 
 
 ###Front of Neck Access

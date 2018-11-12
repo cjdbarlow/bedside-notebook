@@ -14,8 +14,6 @@ Instituted when there is little to no residual kidney function.
 * Non-emergent indications
 	* Fluid overload
 	* Solute control
-* 
-
 
 ##Contraindications
 
@@ -56,7 +54,7 @@ Similar toxin control to CRRT, with potentially better acid-base control and HDx
 ###Anticoagulation
 
 In general for CRRT:
-*Anticoagulation is recommended when patient is:
+* Anticoagulation is recommended when patient is:
 	* Not coagulopathic
 	* Not systemically anticoagulated
 * Citrate is preferred if there is no contraindication

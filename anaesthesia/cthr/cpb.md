@@ -70,7 +70,7 @@ Anaesthetist:
 	* Give heparin when requested  
 	**Close loop**.
 	* Chect ACT **3 minutes** post UFH  
-	Confirm ACT >400 prior to cannulation.
+	Confirm ACT >480 prior to cannulation.
 * Reduce SBP to 80-100mmHg to reduce risk of aortic dissection during cannulation
 	* Too low and there is increased risk of puncturing the posterior wall of the aorta, leading to dissection
 	* Too high and there is increased risk of aortic dissection from the anterior wall
@@ -117,7 +117,8 @@ Typically contain high potassium and magnesium concentrations.
 	* Cold cardioplegia is cardioprotective for ischaemia
 	* Cardioplegia may be delivered:
 		* Retrograde via the coronary sinus  
-		Typically retrograde will preserve LV function better than anterograde, especially when there is AR or severe CAD. The same benefit is not seen in RV function, as the RV is drained via the anterior cardiac veins.
+		Typically retrograde will preserve LV function better than anterograde, especially when there is AR or severe CAD. The same protection does not extend to the RV, as the RV is drained via the anterior cardiac veins.
+			* Cardioplegia delivery will cause rise in coronary sinus pressure
 		* Anterograde via the coronary arteries
 
 
@@ -145,7 +146,7 @@ Typically every 30 minutes, aiming:
 	* ACT >400
 * Continues to deliver cardioplegia as required
 	* Typically every 10-15 minutes or at surgeon request
-	* May deliver a 'hot shot'  
+	* May deliver a **'hot shot'**
 	Warmed cardioplegic blood given as the last bolus prior to rewarming.
 		* Decreases chance of immediate post-operative arrhythmia
 * Rewarms patient prior to weaning  
@@ -181,6 +182,8 @@ Complete a pre-wean checklist and confirm:
 	* Method for delivery anaesthesia is present
 * E:
 	* Temperature ~36°C
+	* Ensure central-peripheral temperature gradient is < 2°C for rewarming  
+	Slow down rate of separation if this temperature gradient exceeds this.
 * F:
 	* pH is 7.35-7.45
 	* Potassium 4.5-5mmol/L
@@ -192,23 +195,42 @@ Complete a pre-wean checklist and confirm:
 Anaesthetist:
 * Monitor cardiac function as heart is slowly refilled  
 Adjust infusions if necessary. Ensure good flow rates of carrier fluid to enable rapid titration and reduce the effect of dead space.
-	* Look for rapid rate of rise of the arterial line waveform
-	* Look at ventricular performance on TOE  
-	Global EF and wall function.
-	* Start inotropes if required
-	* An IABP may be required if LV function is very poor
-* Defibrillate if required  
-Arrhythmias are common.
-	* 10-20J, announce when charged
-	* Defibrillate when surgeon instructs
-	* May need multiple shocks if persistent VT/VF
-	* Pharmacotherapy may be required:
-		* IV amiodarone
-		* Magnesium
-		* Esmolol
-* Check pacing  
-Generally pace 88-90 to improve CO during weaning period.
-* Aim SBP <100mmHg during aortic decannulation
+* Optimise:
+	* Preload
+		* Evaluate with
+	* Contractility  
+		* Evaluate with:
+			* Ventricular performance on TOE
+			Global EF and wall function
+			* Rate of rise of the arterial line waveform 
+		* Increase with:
+			* Inotropes
+			* IABP
+			* ECMO
+	* Afterload
+	Note perfusing pressures (aim SBP <100mmHg during aortic decannulation), and optimise with:
+		* Vasodilators
+		* Vasopressors
+	* Rate  
+	Note rate (and rhythm) and:
+		* Check pacing
+		* Consider pacing  
+		Native conduction typically superior.
+			* Generally pace 88-90 to improve CO during weaning period.  
+			Atrial pacing preferred if AV node is functional.
+			* DDD 88-90 at 15mA is a safe starting mode
+			* Use higher sensitivities (e.g. ~7mV) for diathermy
+	* Rhythm  
+	Defibrillate if required; arrhythmias are common.
+		* 10-20J, announce when charged
+		* Defibrillate when surgeon instructs
+		* May need multiple shocks if persistent VT/VF
+		* Pharmacotherapy may be required:
+			* IV amiodarone
+			* Magnesium
+			* Esmolol
+
+
 
 
 * Reverse heparinisation **when fully off bypass**  
@@ -223,9 +245,13 @@ Give 1mg protamine per 100 units of UFH.
 Perfusionist:
 * Progressive clamping of the venous line  
 Allows the heart to fill and eject.
+	* Partial bypass can be sustained for some time if required
 
 
 Surgeon:
+* De-air the circulation if required  
+i.e. if aorta or cardiac chambers opened.
+* Ensure adequate haemostasis
 * Remove venous access cannula
 * Remove cardioplegia lines
 * Remove aortic cannula

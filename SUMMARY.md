@@ -20,14 +20,14 @@
 
 * [Airway](/assessment/airway/airway-assessment.md#id)
 	* [Airway Assessment](/assessment/airway/airway-assessment.md)
+* [CVS](/assessment/cvs/tachycardia.md#id)
+	* [Sinus Tachycardia](/assessment/cvs/tachycardia.md)
 * [Disability](/assessment/neuro/unconscious.md#id)
 	* [Unconsciousness](/assessment/neuro/unconscious.md)	
 
 
 ## Management
 * [Cardiac Arrest](/management/cvs/post-cthr.md#id)
-	* Adult Cardiac Arrest
-	* Paediatric Cardiac Arrest
 	* [Post-Cardiac Surgery](/management/cvs/post-cthr.md)
 
 ---
@@ -41,32 +41,28 @@
 		* [RSI](/management/airway/rsi.md)
 		* [Transtracheal Jet Ventilation](/management/airway/jet-ventilation.md)
 		* [CICO](/management/airway/cico.md)
-* Breathing
-	* Mechanical Ventilation
-    	* Modes
+* [Breathing](/management/resp/olv.md#id)
+	* [Mechanical Ventilation](/management/resp/olv.md#id)
     	* [One-Lung Ventilation](/management/resp/olv.md)
-* Circulation
-* Disability
-* Extremities
 * [Renal and Fluid](/management/renal/rrt.md#id)
 	* [Renal Replacement](/management/renal/rrt.md)
-* GIT
 * [Haematological](/management/haeme/anticoag.md#id)
 	* [Anticoagulation](/management/haeme/anticoag.md)
-* Infective and Immune
-
 
 ##Anaesthesia
 * [Anaesthetic Emergencies](/anaesthesia/crisis/anaesthetic-crisis.md)
 	* [CICO](/management/airway/cico.md#id)
 	* [Laryngospasm](/disease/airway/laryngospasm.md#id)
+	* [Massive Haemoptysis](/crisis/massive-haemoptysis.md)
 * [Anaesthetic Considerations](/anaesthesia/considerations/risk.md#id)
 	* [Risk and Consent](/anaesthesia/considerations/risk.md)
 	* [Fasting](/anaesthesia/considerations/fasting.md)
-	* [Operative Analgesia](/anaesthesia/considerations/operative-analgesia.md)
+	* [Perioperative Medication](/anaesthesia/considerations/periop-med.md)
 	* [Positioning](/anaesthesia/considerations/positioning.md)
 		* [Prone Positioning](/anaesthesia/considerations/proneanaes.md)
 		* [Post-Operative Neuropathy](/anaesthesia/general/postopneuro.md)
+	* [Operative Analgesia](/anaesthesia/considerations/operative-analgesia.md)
+	* [Intraoperative Optimisation](/anaesthesia/considerations/intraop.md)
 * [Perioperative Management](/anaesthesia/periop/periop-management.md)
 	* [Perioperative Anticoagulation](/anaesthesia/periop/periop-anticoag.md)
 * [General Anaesthesia](/anaesthesia/general/induction.md#id)
@@ -102,10 +98,12 @@
 	* [Cardiopulmonary Bypass](/anaesthesia/cthr/cpb.md)
 	* [Deep Hypothermic Circulatory Arrest](/anaesthesia/cthr/dhca.md)
 	* [Coronary Artery Bypass Grafting](/anaesthesia/cthr/cabg.md)
-	* [Aortic Valve Replacement](/anaesthesia/cthr/avr.md)
-	* [Mitral Valve Repair/Replacement](/anaesthesia/cthr/mvr.md)
+	* [Open Aortic Valve Replacement](/anaesthesia/cthr/avr.md)
+	* [TAVI](anaesthesia/cthr/tavi.md)
+	* [Open Mitral Valve Repair/Replacement](/anaesthesia/cthr/mvr.md)
 * [General Surgery](/anaesthesia/gensurg/scopes.md#id)	
 	* [Endoscopy](/anaesthesia/gensurg/scopes.md)
+	* [Thyroidectomy](/anaesthesia/gensurg/thyroid.md)
 * [Neurosurgery](/anaesthesia/neuro/craniotomy.md#id)
 	* [Craniotomy](/anaesthesia/neuro/craniotomy.md)
 	* [Aneurysm Clipping](/anaesthesia/neuro/aneurysm.md)
@@ -139,6 +137,7 @@
 		* [Laryngospasm](/disease/airway/laryngospasm.md)
 		* [Laryngeal Fracture](/disease/airway/laryngeal-fracture.md)
 		* [Obstructive Sleep Apnoea](/disease/resp/osa.md)
+		* [Massive Haemoptysis](/disease/airway/massive-haemoptysis.md)
 	* [Lower Airway](/disease/resp/bronchospasm.md#id)
 		* [Bronchospasm](/disease/resp/bronchospasm.md)
 * [CVS](/disease/cvs/cardiacfailure.md#id)
@@ -149,23 +148,24 @@
 		* [Mitral Stenosis](/disease/cvs/ms.md)
 	* [Vascular Disease](/disease/cvs/aaa.md#id)
 		* [AAA](/disease/cvs/aaa.md)
+	* [Thromboembolic Disease](/disease/cvs/pe.md#id)
+		* [Pulmonary Embolism](/disease/cvs/pe.md)
+		* [Venous Air Embolism](/disease/cvs/vae.md)
 * [CNS](/disease/cns/cerebral-palsy.md#id)
 	* [Cerebral Palsy](/disease/cns/cerebral-palsy.md)
 	* [PDPH](/disease/cns/pdph.md)
+* [MSK](/disease/msk/necfas.md#id)
+	* [Necrotising Fascitis](/disease/msk/necfas.md)
 * [Endocrine](/disease/endo/dm.md#id)
-	* [Diabetes](/disease/endo/dm.md)
-* [Renal](/disease/renal/aki.md#id)
+	* [Diabetes](/disease/endo/dm.md)* [Renal](/disease/renal/aki.md#id)
 	* [AKI](/disease/renal/aki.md)
 * [Fluid and Electrolyte](/disease/fluid/hypona.md#id)
 	* [Hyponatraemia](/disease/fluid/hypona.md)
 	* [SIADH](/disease/fluid/siadh.md)
 * [Haematology](/disease/haeme/pe.md#id)
-	* [Thrombotic Disease](/disease/haeme/pe.md#id)
-		* [Pulmonary Embolism](/disease/haeme/pe.md)
-* [MSK](/disease/msk/necfas.md#id)
-	* [Necrotising Fascitis](/disease/msk/necfas.md)
 * [Immune](/disease/immune/anaphylaxis.md#id)
 	* [Anaphylaxis](/disease/immune/anaphylaxis.md)
+	* [Sepsis](/disease/immune/sepsis.md)
 
 
 ## Procedures

@@ -21,10 +21,11 @@ This assessment template uses the mnemonic **IIF AMPLE**. Fasting status is in t
 		* Atypical cholinesterase
 		* Other reactions
 * **Medications**  
-In particular:
+Perioperative management of medication is covered [here](/anaesthesia/considerations/periop-med.md). In particular, evaluate:
 	* Respiratory drugs
 	* Cardiac drugs
 	* Opioid/analgesic use and tolerance
+	* Antiplatelet and anticoagulant use
 	* Drugs with many side-effects or interactions
 	* Alcohol use
 	* Drug use
@@ -51,7 +52,7 @@ In particular:
 		 Recommend postponing elective operations 4-6/52 following an MI - increased risk of reinfarction/death (periop MI mortality is 20-50%).
 		 	* <3/12: 37% chance reinfarction
 		 	* 3-6/12: 15% chance reinfarction
-		 	* > 6/12: Constant 5% risk
+		 	* Over 6/12: Constant 5% risk
 		 	* If surgery cannot be avoided, post-op ICU monitoring decreases risk to 6%, 2%, 1% respectively
 		* CHF  
 		NYHA class.
@@ -169,7 +170,7 @@ Other relevant investigations.
 Conduct operation if further postponement will not be beneficial.
 * **Fluid** status
 * **Fasting** status
-* **Give physical status
+* **Give** physical status
 * **Get consent**
 
 ---

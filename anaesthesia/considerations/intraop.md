@@ -1,0 +1,15 @@
+#Intraoperative Optimisation
+Optimising provision of general anaesthesia will incidence of post-anaesthetic complications.
+
+
+
+* Myocardial Injury
+Associated with:
+	* HR >100  
+	HR <55 is protective.
+	* SBP < 100 or >160
+
+
+---
+##References
+1. Botto, Fernando & Alonso, Pablo & T. V. Chan, Matthew & Villar, Juan & Xavier, Denis & Srinathan, Sadeesh & Guyatt, Gordon & Cruz, Patricia & Graham, Michelle & Wang, Chew Yin & Berwanger, Otavio & Pearse, Rupert & M. Biccard, Bruce & Valsa, Abraham & Malaga, German & S. Hillis, Graham & N. Rodseth, Reitze & Cook, Deborah & A. Polanczyk, Carisi & Wildes, Troy. (2014). Myocardial Injury after Noncardiac Surgery: A Large, International, Prospective Cohort Study Establishing Diagnostic Criteria, Characteristics, Predictors, and 30-day Outcomes. Anesthesiology. 120. 564-578. 10.1097/ALN.0000000000000113. 

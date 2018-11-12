@@ -23,8 +23,17 @@ Sub-MAC with a remifentanil infusion.
 		* Deep muscle relaxation (TOF of 0)
 * C
 	* **Bleeding from aneurysm is disastrous** and primary concern  
+	* Consider two IV access sites:  
+		* One large volume line
+		* One anaesthetic/remifentanil infusion line
 * D
 	* Cerebroprotective strategies may be required if a temporary clip is placed over a major vessel
+* E
+	* Muscle relaxation  
+	Not *technically* required if using remifentanil, but paralysis recommended given the extreme requirement for immobility.
+		* Aim ToF = 0
+		* Consider relaxant infusion  
+		Cisatracurium reliable and will wear off adequately for extubation.
 
 ##Preoperative Assessment
 
@@ -48,7 +57,9 @@ Aneurysmal rupture:
 * Reduce bleeding
 	* Induce hypotension to reduce haemorrhage  
 	Many strategies - will depend on anaesthetic currently running/drawn up/what is available. Some include:
-		* Remifentanil bolus (e.g. 1ug/kg)
+		* Propofol  
+		Immediately available and intimately familar, but may not be enough.
+		* Remifentanil bolus (e.g. 1ug/kg)  
 		* Adenosine
 		* Esmolol
 		* GTN

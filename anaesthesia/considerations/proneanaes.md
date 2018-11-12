@@ -35,7 +35,7 @@ Risk of~1:60,000, or 1:30,000 in spinal surgery. Via two mechanisms:
 	* Impaired ocular perfusion  
 	Mechanism of blindness in absence of ocular pressure (e.g. use of Mayfield clamp).
 		* $$Ocular / Perfusion / Pressure = MAP - IOP$$  
-		A MAP target >70mmHg is reasonable to preserve ocular perfusion during anaesthesia.
+		A **MAP target >70mmHg** is reasonable to preserve ocular perfusion during anaesthesia.
 			* IOP will increase with:
 				* Venous occlusion
 				* Rise in CVP

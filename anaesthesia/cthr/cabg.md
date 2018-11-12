@@ -42,8 +42,11 @@ High risk features:
 		* **Left main disease**  
 		Avoid drop in perfusion pressure in the case of critical left main stenosis.
 			* Significant >50%
-			* Severe > 80%
+			* Severe >80%
+			* Critical ~>95%
 			* Note also that high-grade stenosis of the LAD and LCx lead to an effective critical stenosis of the LMCA
+			* Note that effective stenosis depends on degree of collateralisation   
+			Well-developed collaterals compensate for poor native disease.
 		* Triple vessel disease
 		* Proximal LAD stenosis
 	* Ventricular function:

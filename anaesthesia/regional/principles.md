@@ -21,7 +21,13 @@ Can use:
 * Associated with reduced rate of vascular injury compared to stimulator
 	* Identify vessels on proposed needle path and choose approach to avoid them
 * Approach:
-	* Halt needle advancement prior to 
+	* Halt needle advancement prior to encountering nerve
+	* Aim off
+* **Tips for optimising success**:
+	* Place digital pressure on the needle insertion site  
+	Allows insertion site to be used as a fulcrum and torque the needle to drastically change direction after having penetrated a muscle plane.
+	* Penetrate fascial planes away from nerves/vesseels, then slide up within that plane
+	* Injection inside the nerve *sheath* causes a rapid onset of surgical anaesthesia, but increases the risk of nerve injury
 
 ###Stimulator
 * Allows localisation of nerves via electrical stimulation

@@ -7,12 +7,18 @@ Haemodynamically significant obstruction occurs when AVA approaches 1cm<sup>2</s
 
 AS is classified based on echocardiographic findings, using either:
 * Aortic valve area
-* Aortic valve pressure gradient  
+* Aortic valve pressure gradient/peak flow  
 Dependent upon flow across the valve, and so will underpredict severity in failure states.
+	* Pressure gradients are calculated by measuring flow across the valve, using the **simplified Benoulli equation:** $$ \Delta P = 4v^2$$  
+		* Peak gradients are calculated from peak flow during ejection
+		* Mean gradients are calculated by the average flow (area under the doppler envelope) during ejection
 
-|Technique|Mild|Moderate|Severe|Critical
+
+|Technique|Mild|Moderate|Severe|Critical|
+|--|---|
 |Valve Area|1.2-1.8cm<sup>2</sup>|0.8-1.2cm<sup>2</sup>|0.6-0.8cm<sup>2</sup>|< 0.6cm<sup>2</sup>|
 |Mean Pressure Gradient|12-25mmHg|25-40mmHg|40-50mmHg|>50mmHg|
+|Peak flow|1-2m/s|2-3m/s|>4m/s|
 
 ##Epidemiology and Risk Factors
 Risk factors include:

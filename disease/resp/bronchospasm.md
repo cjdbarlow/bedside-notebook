@@ -3,7 +3,7 @@
 > This is an <span style="color:red">**anaesthetic crisis**</span>  
 > Priority is to:
 >* **Maintain oxygenation**
->* **Keep Pip \<50cmH<sub>2</sub>O
+>* **Keep Pip < 50cmH<sub>2</sub>O**
 
 
 ##<span style="color:red">Emergency Management</span>
