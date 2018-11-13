@@ -87,6 +87,18 @@ This can be performed:
 	In a patient who has been ventilated on 100% oxygen, this will indicate maximal atelectasis in the lung (though may take some time to occur).
 
 
+####Selective Lobar Isolation with Bronchial Blocker
+* This technique allows isolation of one particular area of lung whilst maintaining gas exchange in the remaining lung  
+Isolation of the RUL or RML/RLL is easiest to perform.
+* Place DLT and isolate the operative/injured lung
+* Place bronchial blocker into the non-ventilated lung and inflate the blocker
+* Apply CPAP:  
+Initially 5-10cmH<sub>2</sub>O until recruited, then decrease to 2-5cmH<sub>2</sub>O.
+	* Down bronchial blocker  
+	Can be performed by removing loop from Arndt blocker.
+	* To DLT lumen
+
+
 ##Ventilatory Technique
 > * Priority is to **avoid hypoxia**  
 Typically aim SpO<sub>2</sub> > 90%

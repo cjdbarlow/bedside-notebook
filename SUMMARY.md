@@ -29,6 +29,7 @@
 ## Management
 * [Cardiac Arrest](/management/cvs/post-cthr.md#id)
 	* [Post-Cardiac Surgery](/management/cvs/post-cthr.md)
+	* [OOHCA](/disease/cvs/oohca.md)
 
 ---
 
@@ -48,6 +49,7 @@
 	* [Renal Replacement](/management/renal/rrt.md)
 * [Haematological](/management/haeme/anticoag.md#id)
 	* [Anticoagulation](/management/haeme/anticoag.md)
+	* [Transfusion & Products](/management/haeme/bloodproduct.md)
 
 ##Anaesthesia
 * [Anaesthetic Emergencies](/anaesthesia/crisis/anaesthetic-crisis.md)
@@ -140,8 +142,9 @@
 		* [Massive Haemoptysis](/disease/airway/massive-haemoptysis.md)
 	* [Lower Airway](/disease/resp/bronchospasm.md#id)
 		* [Bronchospasm](/disease/resp/bronchospasm.md)
-* [CVS](/disease/cvs/cardiacfailure.md#id)
-	* [Cardiac Failure](/disease/cvs/cardiacfailure.md)
+* [CVS](/disease/cvs/mi.md#id)
+	* [Cardiac Muscle](/disease/cvs/mi.md#id)
+		* [Acute Myocardial Infarction](/disease/cvs/mi.md)
 		* [Right Ventricular Failure](/disease/cvs/rvfailure.md)
 	* [Valvular Disease](/disease/cvs/as.md#id)
 		* [Aortic Stenosis](/disease/cvs/as.md)

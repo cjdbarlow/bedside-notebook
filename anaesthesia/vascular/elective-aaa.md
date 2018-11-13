@@ -86,10 +86,12 @@ The AAA can be divided into 3 phases:
 * Send baseline ABG
 * Maintain stable haemodynamics
 * Prepare vasodilators
-
+* Draw up heparin  
+**100 U/kg**.
 
 ####During Cross-clamp  
 * SVR increases, leading to an increased in BP  
+BP typically increases 7-10% during cross clamp.
 	* Begin vasodilators immediately prior to crossclamp
 	* Magnitude of this effect is reduced if occlusive aortoiliac disease is prsent  
 	As SVR is already high prior to clamping.

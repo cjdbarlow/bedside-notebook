@@ -1,0 +1,39 @@
+#Transfusion and Blood Products
+
+
+##Blood Typing
+Involves:
+* Blood group (ABO) typing  
+Takes ~15 minutes.
+* Antibody screen  
+Screening for minor antibodies other than anti-A and anti-B. Takes up to **45** minutes.
+	* **If** antibody screen is **normal**, computer cross-match can typically match unit of blood in <5 minutes
+
+
+##Transfusing
+###Use of Uncrossmatched Blood
+If transfusion is required **before ABO typing** is complete, uncrossmatched blood can be given. Using uncrossmatched blood:
+* Consumes limited pool of universal units
+* Has a higher risk of transfusion reaction  
+Risk of reaction from minor antibodies.
+	* Present in **2% of population**  
+	Prevalence **increases with age**.
+	* Typically IgG mediated
+	* Does not generally cause major haemolysis  
+	Overall **haemolysis rate of emergency transfusion is 0.1%**.
+* Type for **packed red cells** is **O-**
+	* Rh- (or unknown) females of childbearing age shoul receive O-  
+	Risk of rhesus disease if Rh+ blood given.
+		* If prolonged/repeated transfusion required, use of Rh+ blood can be justified due to limited availability of Rh- blood
+* Type for **plasma** is usually **AB+**, but can be A+ with **low anti-B**
+	* Very limited supply of AB+ plasma
+	* Use of A+ plasma with low anti-B plasma is epidemiologically justified  
+		* Low risk due to low overall presence of AB+ and B+ individuals
+		* Demonstrated to be safe
+* Is justified in patients needing emergency transfusion, but not in those patients who are stable enough to wait until crossmatched units become available
+
+
+---
+
+##References
+1. Yazer MH, Waters JH, Spinella PC, et al. Use of Uncrossmatched Erythrocytes in Emergency Bleeding Situations. Anesthesiology. 2018;128(3):650-656. doi:10.1097/ALN.0000000000002037

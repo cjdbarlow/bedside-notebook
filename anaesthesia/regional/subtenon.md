@@ -52,11 +52,15 @@ Elastic white connective tissue layer that surrounds the globe. It lies deep to 
 Typically 50% saline with 50% aqueous betadine
 * Topical local anaesthetic drops
 * Mix LA solution  
-Many different options exist. One approach:
-	* Take two ampoules of 10mls of 0.75% ropivacaine, 10% lignocaine, and 150 units of hyaluronidase
-	* Add the hyalase to one ampoule of 0.75% ropivacaine, producing ~15U/ml of hyalase in ~0.75% ropivacaine
-	* Into a 10ml syringe, draw up 7ml of 0.75% ropivacaine, 2ml of 10% lignocaine, and 1ml of the ropivacaine/hyalase mixture  
-	This will give a total volume of 10mls of ~0.6% ropivacaine, 2% lignocaine, and 15U/ml hyaluronidase.
+Many different options exist.
+	* Lignocaine/Ropivacaine
+		* Take two ampoules of 10mls of 0.75% ropivacaine, 10% lignocaine, and 150 units of hyaluronidase
+		* Add the hyalase to one ampoule of 0.75% ropivacaine, producing ~15U/ml of hyalase in ~0.75% ropivacaine
+		* Into a 10ml syringe, draw up 7ml of 0.75% ropivacaine, 2ml of 10% lignocaine, and 1ml of the ropivacaine/hyalase mixture  
+		This will give a total volume of 10mls of ~0.6% ropivacaine, 2% lignocaine, and 15U/ml hyaluronidase.  
+		Hyaluronidase concentrations of 30U/ml or greater are associated with periorbital cellulitis.
+	* Ropivacaine alone  
+	0.75-1% ropivacaine with 75-150 U/ml hyaluronidase.
 
 
 * Eye speculum

@@ -9,6 +9,9 @@ Acetylcholine
 ##AChE
 Acetylcholinesterase
 
+##ACS
+Acute Coronary Syndrome
+
 ##ADP
 Adenosine diphosphate
 
