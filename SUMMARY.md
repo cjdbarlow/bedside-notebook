@@ -123,6 +123,8 @@
 * [Vascular](/anaesthesia/vascular/elective-aaa.md#id)
 	* [Elective AAA](/anaesthesia/vascular/elective-aaa.md)
 	* [Carotid Endarterectomy](/anaesthesia/vascular/carotid.md)
+* [Interventional Radiology](/anaesthesia/ir/isletcelltx.md#id)
+	* [Islet Cell Transplant](/anaesthesia/ir/isletcelltx.md)
 * [Off the Floor](/anaesthesia/otf/remote-anaes.md#id)
 	* [Remote Anaesthesia](/anaesthesia/otf/remote-anaes.md)
 	* [ECT](/anaesthesia/otf/ect.md)
