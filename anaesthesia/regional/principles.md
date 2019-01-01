@@ -104,7 +104,19 @@ Troubleshooting:
 	* Techniques to avoid vascular injury:
 		* Identify vessels prior to injection
 		* Choose a needle path that minmises peri-vascular approach
-		* Compress veins during needle passage (after they have been identified) 
+		* Compress veins during needle passage (after they have been identified)
+	* **Management of anticoagulants**  
+	Peripheral nerve blocks are low risk for serious bleeding. *In general* (and **in absence of other risk factors**; such as age, renal/hepatic disease, history of major bleeding):
+		* Aspirin and NSAIDs do not need to be discontinued  
+		* P2Y12 inhibits do not need to be discontinued  
+		Includes clopidogrel, ticagreular, prasugrel.
+		* Warfarin may safely be continued if INR < 3.0  
+		Cessation should be discussed with treating team.
+		* UFH should be ceased at least 4 hours before the procedure, and restarted 2 hours after
+		* Prophylactic-dose LMWH should be last given at least 12 hours prior
+		* Therapeutic-dose LMWH should be last given at least 24 hours prior
+		* NOACs may be safely continued  
+		Cessation should be discussed with the treating team, and at least 2 drug half-lifes should occur between cessation and intervention.
 
 
 * Nerve injury
@@ -139,3 +151,4 @@ Covered in detail under specific blocks; examples include phrenic nerve block af
 ---
 
 ##References
+1. Narouze S, Benzon HT, Provenzano D, Buvanendran A, De Andres J, Deer T, Rauck R, Huntoon MA. [Interventional Spine and Pain Procedures in Patients on Antiplatelet and Anticoagulant Medications (Second Edition): Guidelines From the American Society of Regional Anesthesia and Pain Medicine, the European Society of Regional Anaesthesia and Pain Therapy, the American Academy of Pain Medicine, the International Neuromodulation Society, the North American Neuromodulation Society, and the World Institute of Pain](https://journals.lww.com/rapm/fulltext/2018/04000/Interventional_Spine_and_Pain_Procedures_in.2.aspx). Reg Anesth Pain Med. 2018 Apr;43(3):225-262.

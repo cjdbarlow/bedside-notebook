@@ -126,7 +126,7 @@ Objective motor weakness indicates block level.
 
 
 ###Factors Affecting Block Spread
-> With the exception of baricity and patietn position, the influence of most of these factors is small and unpredictable
+> With the exception of baricity and patient position, the influence of most of these factors is small and unpredictable
 
 * Baricity  
 Hyperbaric solutions behave more predictably due to the effect of gravity.
