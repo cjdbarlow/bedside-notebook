@@ -1,74 +1,21 @@
 #Epidural {#id}
 
-##Indications
+##Indications and Contraindications
+*General contraindications to neuraxial techniques are covered under [principles of neuraxial anaesthesia](/anaesthesia/regional/principles/principles-neuraxial.md).
+
 Epidural catheters are commonly used for:
 * Analgesia
     * Adjunct to major abdominal and thoracic procedures  
     In general, offers significant benefit in high-risk patients and high-risk surgery:
         * Reduces stress response
         * Reduces incidence of serious complications
-        * Provides excellent analgesia    In combination with a general anaesthetic.
+        * Provides excellent analgesia    
+        * In combination with a general anaesthetic.
     * Labor
     * Chronic pain
 * Anaesthesia
     * As a sole technique, e.g. epidural top-up
     * As a combined spinal-epidural technique
-
-##Contraindications
-Absolute contraindications:
-* Patient refusal
-* Coagulopathy  
-    * Epidural should be withheld in patients with pre-existing coagulopathy where intraoperative heparin administration is planned.
-    * Coagulation studies be performed prior to insertion  
-    Risk of haematoma exists on a continuum - a platelet count of 79 is not substantially more risky than a platelet count of 81.
-        * Any abnormality of coagulation is always a *relative* contraindication
-        * Risk varies depending on technique  
-        Paravertebral is less risky than a spinal, which is less risky than a single-shot epidural, which is less risky than an epidural catheter.
-        * Absolute thresholds will vary depending on the centre; one particular set of numbers is:
-            * Normal APTT
-            * INR < 1.5
-            * Platelets > 80 x 10<sup>12</sup>/L  
-* Presence of anticoagulants  
-See table below.
-* Sepsis
-
-Relative contraindications:
-* Immunocompromise
-
-###Management of Anticoagulants
-
-|Drug|Time between last dose and epidural insertion/adjustment/removal|Time before next dose|
-|--|--|--|
-|**Heparin** <br>5,000 Units S/C|8 hours.|8 hours.|
-|**Heparin** Infusion|6 hours since cessation, and a normal APTT.|Restart 8 hours after infusion, or 24 hours if bloody tap.|
-|**Heparin** IV intraoperative|Removal > 4 hours after last dose.|1 hour between placement and first dose.
-|**Enoxaparin** (prophylactic)|12 hours, 24 hours post-operative.|2 hours|
-|**Enoxaparin** (therapeutic)|24 hours.|2 hours|
-|**Warfarin**|INR < 1.5 prior to insertion. Warfarin cannot be used with an epidural in situ - use UFH.|INR < 1.5 prior to removal.|
-|**Aspirin**|2-3 days prior to cervical/thoracic epidural placement.|-|
-|**NSAIDs**|-|-|
-|**Clopidogrel**|7 days for insertion, can consider 5 days if high cardiac risk.|12-24 hours following catheter removal (24 hours if loading dose to be given).|
-|**Ticagrelor**|5 days|6 hours following catheter removal|
-|**Prasugrel**|7-10 days|6 hours following catheter removal|
-|**Rivaroxaban**|At least 2 days.|6 hours.
-|**GPIIb/IIIa inhibitors**|At least 2 days. Seek expert advice.|Seek expert advice.
-|**Dabigatran**|48 hours||
-|**Thrombin inhibitors** including bivalirudin, lepirudin|Avoid. Seek expert advice.|Seek expert advice.
-|**Thrombolytics**|10 days.|Measure fibrinogen level prior to removal. Seek expert advice.|
-|**Herbal** including garglic, gingseng, and gingo bilboa|-|-|
-
-
-##Anatomy
-Lumbar:
-* Generally between L2 and L5 interspaces
-* Epidural space is an average of 5cm  (3-8 in 90%)
-
-Thoracic:
-* Avoid midline approach between T5 and T8
-
-Cervical:
-* Thin and soft ligamentum flavum leads to poor appreciation of LoR
-* Space is ~ 1.5-2mm deep at C7, increases to 3-4mm with neck flexion
 
 
 ##Equipment
@@ -79,6 +26,147 @@ Cervical:
 * Procedure
 * Post
 * Removal
+
+
+###Preparation
+* Obtain good IV access  
+14-16G.
+* Obtain a pre-procedure BP  
+Maternal hypertension may suggest pre-eclampsia.
+* Obtain consent
+* Prepare equipment
+
+####Informed Consent During Labour  
+Should still be performed, though is made more difficult by the situation. In general:
+* Women wish to be involved in the process
+* About 30% of information will be retained
+* Written consent is not required  
+Verbal consent should be documented.
+* Talk between contractions if possible
+* Involve the birth partner, particularly if contractions are continuous
+* Essential information includes:
+    * What will happen  
+    The position, what they will feel (e.g. skin local), the need to keep still.
+    * Risk of PDPH
+    * Risk of failure/inadequate analgesia
+    * Risk of instrumental delivery
+    * Back pain  
+    Over next 1-2 days, but not longterm.
+    * Risk of neurological complications  
+    Long term ~1:10,000.
+
+
+###Procedure
+* **Position the patient**
+Most failures are related to poor positioning.
+    * If sitting, ensure:  
+        * Flat, level mattress  
+        Commonly bed is not level or mother may be sitting on the division in the mattress.
+        * Feet flat on a stool
+        * As far back on the bed as possible  
+        Patients back should be closest to you, with their calves touching the side of the bed.
+        * Ensure knees are higher than hips
+        * Hold a pillow close to the chest
+        * Place chin on chest and relax shoulders
+        * Ensure knees, hips, and shoulders are in a line
+        * Slump
+* Identify the target interspace 
+* Prepare the skin  
+    * Chlorhexidine is superior  
+    Should be kept away and separate from the procedure tray, and allowed to dry fully.
+* Hat, gown, glove, drape  
+Place a hat on the patient as well.
+* Prepare equipment  
+Prime catheter with saline.
+* Skin local  
+23G needle is usually adequate to anaesthetise the interspinous ligament in the non-obese patient.
+
+* Approach may be midline or paramedian
+* Insert Tuohy  needle through the skin and supraspinous ligament  
+    * Needle will be held firm in the ligament - on letting go the needle will be tethered, whilst it tends to fall if in fat
+    * Typically 2-3cm deep
+    * Remove stylet/obturator from Tuohy needle and attach loss of resistance syringe
+* *Slowly* advance needle and syringe  
+    * With saline:
+        * Majority of forwards pressure should be on the plunger of the syringe  
+        *Just* enough pressure should be applied to the hub of the needle such that minimal saline is injected into the ligament.
+            * Too much pressure on the plunger means the ligament becomes oedematous and boggy
+            * Too much pressure through the needle hub may lead to accidental dural puncture
+        * Consider hydrodissecting the epidural space with saline once it is found, to open up the space in preparation for the catheter  
+        Saline commonly flows from the needle afterwards, and may be concerning for dural puncture.
+    * With air:
+        * Carefully advance the syringe < 1 mm at a time
+        * Check for loss of resistance by intermittently ballotting the plunger
+        * Minimal air should be injected into the space.
+* Remove syringe  
+Observe for:
+    * CSF  
+    Typically continual, brisk flow. If uncertain, can check sample for glucose. See [accidental dural puncture](#adp).
+    * **Blood**  
+    If blood returns through the Tuohy needle it should be withdrawn. Attempt cannulation at a **different interspace**.
+* Thread the catheter  
+Warn for potential of transient electric shock feeling.
+    * **Never withdraw the catheter through the Tuohy needle**  
+    It may shear off and be retained in the epidural space.
+* Observe catheter for:
+    * Saline  
+        * A meniscus should exist in the catheter, and fall as it the catheter is elevated.
+        * Continuous flow suggests [dural puncture](adp)  
+        Can be confirmed with easy aspiration of CSF, and 
+    * **Blood**  
+    Indicates cannulation of an epidural vein.
+        * Epidural veins can be cannulated during insertion  
+        More when the veins are engorged, as occurs in:
+            * The sitting position
+            * Pregnancy
+        * If blood is aspirated from the catheter:
+            * Remove the Tuohy needle
+            * Pull the catheter back 1-2cm
+            * Flush the catheter with saline
+            * Lower the catheter to see if blood flows freely  
+            If no blood flows, gently aspirate.
+            * If:
+                * Blood flows or is aspirated  
+                Withdraw it 1cm and flush with saline, then check for free-flowing or aspirated blood.
+                * No blood flows  
+                Cautiously give test dose.
+                * Blood flows or is aspirated, and the epidural is 3cm in the space.  
+                Remove and try at a different interspace.
+
+
+* Connect filter  
+Can provide first test dose at this stage - see [post-procedure](post).
+* Apply dressing  
+Can provide second loading dose at this stage.
+
+
+
+
+
+###Post-Procedure{#post}
+* Deliver test dose  
+Ensure HR, BP, and SpO<sub>2</sub> monitoring.
+* Measure BP Q5 minutely for at least 20 minutes  
+Continue longer if BP is labile.
+    * BP should be checked 5 minutes after every subsequent top-up or bolus
+* Evaluate for intrathecal injection
+    * Presence of motor block
+* Document procedure  
+Should include:
+    * Name
+    * Date and time
+    * Consent and risks discussed
+    * Patient position
+    * Aseptic techniques used
+    * Level, approach, and needle used
+    * Loss of resistance technique
+    * Technique used
+    * Depth to space
+    * Presence/absence of CSF, blood
+    * Length of catheter in space
+    * Bolus dose
+    * Efficacy and any neurology
+    * Complications
 
 
 ##Complications
@@ -113,47 +201,51 @@ Affected by:
 
 
 
-##Dosing
-* Maximal epidural dosing:  
-Dose reduce in hepatic failure, renal failure, or severe hypoalbuminaemia.
+##Management
+Dosing Epidurals:
+* In general:
     * Ropivacaine 3-4mg.kg<sup>-1</sup>.6 hours<sup>-1</sup>
     * Bupivacaine 2-3mg.kg<sup>-1</sup>.6 hours<sup>-1</sup>
+* Dose reduce in:
+    * Hepatic failure
+    * Renal failure
+    * Severe hypoalbuminaemia
+
+###Catheter Removal
+Removal of an epidural can occur when:
+* Coagulation status is normal  
+Covered under [coagulopathy](/anaesthesia/regional/principles/principles-neuraxial.md#coag).
+* No longer therapeutically indicated
+* Risk of infection is too high to justify ongoing use
+Typically epidurals may stay up to **5 days** following insertion, though local procedure may vary.
+    * This needs to be balanced against the requirement for ongoing analgesia
+
+Removing the catheter:
+* Remove dressing
+* Apply gentle pressure to remove the catheter
+* Tip of catheter should be visible
+* If **catheter does not come out easily**  
+Place the patient in the same position they were in for insertion, and pull gently.
 
 
-##Management
+###Accidental Dural Puncture {#adp}
+Following dural puncture, one can either:
+* **Use as** an **intrathecal catheter**  
+This is a higher risk technique.
+    * Pass epidural catheter and leave 2-2.5cm in the space
+    * **Label clearly as SPINAL**
+    * *Cautiously* establish block  
+    Typically, intrathecal doses are ~1/10<sup>th</sup>sup> of epidural doses.
+        * Consider using 2mg bupivacaine and 5μg fentanyl
+    * Consider leaving the catheter in post-delivery as this reduces the incidence and severity of PDPH
+* Remove and repeat
+    * Higher risk of subsequent dural puncture
+    * Cautiously test dose repeat epidural  
+    Some LA may migrate intrathecally.
 
-###Inadequate analgesia:
-* Pain > 5
-* Inability to cough or move effectively
 
-Management process:
-* Assess vitals
-* Exclude surgical cause of pain
-* Check catheter location  
-Catheter may migrate out of the epidural space.
-    * Check anticoagulation status prior to manipulation.
-* Check BP  
-Hypotension and uncorrected hypovolaemia are relative contraindications to epidural bolus.
-* Epidural Rescue  
-A rescue bolus of LA can be delivered to re-establish a failing epidural.
-    * Ensure adequate monitoring
-    * Ensure working IV access
-    * Ensure vasopressor is readily available
-    * Give a rescue bolus  
-    The end point is either analgesia or side effects.
-        * Appropriate agents include:
-            * 0.25% bupivacaine  
-            6-10ml is appropriate for most adult patients, though more will sometimes be required.
-            * Ropivacaine 0.35%
-            * Ropivacaine 0.2%
-        * If analgesia is achieved:
-            * Increase rate by one third
-            * Change solution
-        * If a unilateral block is present:
-            * Pull catheter back to 3cm within the epidural space
-            * Repeat bolus
-        * If no block to ice is present:
-            * Consider alternate methods of analgesia
+
+
 
 ---
 ##References

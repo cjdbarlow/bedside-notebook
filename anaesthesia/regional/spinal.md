@@ -29,20 +29,9 @@ Relative:
 
 
 ##Contraindications
-* Patient factors
-	* AS  
-	Afterload reduction results in decreased LV perfusion pressure.
-	* Pulmonary hypertension  
-	Afterload reduction results in decreased RV perfusion pressure.
-	* Hypotension/hypovolaemia/shock states  
-	Exacerbated by drop in SVR.
-	* Anxiety/behavioural concern
-	* Coagulopathy/Thrombocytopenia 
-	Relative contraindication to LP.
-	* Local infection  
-	Contraindication to LP.
-	* Sepsis
-	* Hypersensitivity to LA
+*This covers contraindications specific to spinal anesthesia. General contraindications to neuraxial techniques are covered under [principles of neuraxial anaesthesia](/anaesthesia/regional/principles/principles-neuraxial.md).
+
+
 * Surgical factors
 	* Operative duration  
 	Surgery expected to last >2 hours will usualy require a different technique.
@@ -51,8 +40,6 @@ Relative:
 
 ##Preoperative Assessment
 Key factors:
-* A
-* B
 * C
 	* Volume and haemodynamic state
 * D
