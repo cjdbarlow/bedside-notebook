@@ -105,9 +105,13 @@ Observe for:
     * **Blood**  
     If blood returns through the Tuohy needle it should be withdrawn. Attempt cannulation at a **different interspace**.
 * Thread the catheter  
-Warn for potential of transient electric shock feeling.
+    * Warn for potential of transient electric shock feeling.
     * **Never withdraw the catheter through the Tuohy needle**  
     It may shear off and be retained in the epidural space.
+    * Aim to leave the catheter at 3-5cm  
+    **5cm with a **multiorifice catheter** or **3-4cm** with a **uniorifice** catheter **is optimal** for analgesia.
+        * > 7cm is associated with more complications  
+        * < 3 cm is associated with dislodgement
 * Observe catheter for:
     * Saline  
         * A meniscus should exist in the catheter, and fall as it the catheter is elevated.
@@ -135,17 +139,41 @@ Warn for potential of transient electric shock feeling.
 
 
 * Connect filter  
-Can provide first test dose at this stage - see [post-procedure](post).
+* Deliver [test dose](test)   
+Ensure HR, BP, and SpO<sub>2</sub> monitoring.
 * Apply dressing  
 Can provide second loading dose at this stage.
 
 
+####Test and Loading Doses{#test}
+The ideal test dose should:
+* Identify intravascular injection  
+Options include:
+    * Negative aspiration of blood prior to injection
+    * Adrenaline 15μg  
+    Neither **sensitive nor specific**, as it is associated with an increase in HR by ~30bpm for ~30s if intravascular, and ~20-30bpm if epidural. No respone may be seen in β-blocked patients.
+* Identify intrathecal injection
+    * Inject small volumes slowly and titrate to effect
+* Be safe
 
+
+Test dose options:
+* Rapid load
+    * Give 2-3ml of 2% lignocaine with 1:200,000 adrenaline  
+    Monitor for HR response.
+    * Give 50-100μg fentanyl  
+    Monitor for excessive analgesia or narcosis.
+    * Give 5ml of standard institution solution  
+    e.g. 0.125% buipvacaine or 0.2% ropivacaine.
+    * Assess block
+    * Give 5ml of standard solution at least 5 minutes after first 5ml bolus  
+    Continue to assess block. Give up to 20ml of solution, increasing interval between doses.
+* Slow load
+    * Give 5ml of standard solution Q5min, up to 20ml  
+    Assess for adverse effects and block between each dose.
 
 
 ###Post-Procedure{#post}
-* Deliver test dose  
-Ensure HR, BP, and SpO<sub>2</sub> monitoring.
 * Measure BP Q5 minutely for at least 20 minutes  
 Continue longer if BP is labile.
     * BP should be checked 5 minutes after every subsequent top-up or bolus
@@ -198,18 +226,46 @@ Affected by:
     * IDC placement
 * Itch  
     * Due to presence of opioids within epidural
+* Back pain  
+Localised pain due to tissue trauma from the needle is common. Note that:
+    * Pre-existing arthritis/osteoporois increase risk of back pain  
+    Epidural analgesia does not increase this risk.
 
 
 
 ##Management
-Dosing Epidurals:
-* In general:
-    * Ropivacaine 3-4mg.kg<sup>-1</sup>.6 hours<sup>-1</sup>
-    * Bupivacaine 2-3mg.kg<sup>-1</sup>.6 hours<sup>-1</sup>
-* Dose reduce in:
+Maintenance of analgesia can be performed via:
+* Intermittent boluses alone  
+Essentially a historical relic.
+* Continuous infusion with intermittent boluses
+* Patient Controlled Epidural Analgesia (PCEA)
+
+In general, maximal anaesthetic doses should be:
+* Ropivacaine 3-4mg.kg<sup>-1</sup>.6 hours<sup>-1</sup>
+* Bupivacaine 2-3mg.kg<sup>-1</sup>.6 hours<sup>-1</sup>
+* Reducedin:
     * Hepatic failure
     * Renal failure
     * Severe hypoalbuminaemia
+
+
+###Continuous Infusion
+* Typically lower concentrations used to minimise motor block
+    * Ropivacaine 0.2%
+    * Bupivacaine 0.0625-0.125%
+* Generally run at 6-10ml/hr
+* May have 5ml boluses Q20min
+* Adjuvants include:
+    * Opioid  
+    Classically fentanyl.
+    * Adrenaline
+
+###Patient Controlled Epidural Analgesia
+* May be run with a background infusion
+* Reduced need for intervention
+* e.g. Bupivacaine 0.125% with 2μg/ml fentanyl:
+    * 6ml/hr background
+    * 6ml patient demand bolus, Q15 minute lockout
 
 ###Catheter Removal
 Removal of an epidural can occur when:
@@ -228,7 +284,31 @@ Removing the catheter:
 Place the patient in the same position they were in for insertion, and pull gently.
 
 
+##Management of Epidural-related Complications  
+*This covers complications of insertion. Troubleshooting the working epidural is covered [here](/anaesthesia/regional/epidural-mx.md).*
+
+
+Complications of epidural insertion include:
+* Accidental dural puncture
+* Subdural injection
+* Intravascular injection
+* Broken epidural catheter
+* Paraesthesia
+
 ###Accidental Dural Puncture {#adp}
+*Management of PDPH is covered [here](/disease/cns/pdph.md).*
+
+
+Dural puncture is:
+* Common  
+1-2% of epidural inertions.
+    * Predominantly by needle
+    * Rarely by catheter  
+    Important as may result in inadvertent total spinal.
+* May lead to PDPH  
+75-85% in the labour epidural population.
+
+
 Following dural puncture, one can either:
 * **Use as** an **intrathecal catheter**  
 This is a higher risk technique.
@@ -237,14 +317,56 @@ This is a higher risk technique.
     * *Cautiously* establish block  
     Typically, intrathecal doses are ~1/10<sup>th</sup>sup> of epidural doses.
         * Consider using 2mg bupivacaine and 5μg fentanyl
-    * Consider leaving the catheter in post-delivery as this reduces the incidence and severity of PDPH
+    * Leave catheter in situ for 24 hours  
+        * Aids inflammatory response and healing of dural puncture.
+        * Reduces need for blood patch  
+        59% to 33%.
 * Remove and repeat
     * Higher risk of subsequent dural puncture
     * Cautiously test dose repeat epidural  
     Some LA may migrate intrathecally.
+* Note there is **no benefit** for **prophylactic blood patch**  
 
 
+###Subdural Injection
+Occasionally, injection may be between the dura and the arachnoid. Subdural injection:
+* Typically causes a:
+    * **Delayed onset**  
+    10-30 minutes may elapse. **Hypotension** may be the presenting symptom.
+    * **High block**  
+    Due to reduced compliance of the subdural space compared to the epidural space, causing solution to rise higher in the space.
+    * **Weak/patchy block**  
+    Due to spread of a small amount of LA through a large area.
 
+
+###Intravascular Injection
+Intravascular injection of LA may:
+* Occur:
+    * At insertion
+    * Following migration/manipulation of catheter
+* Lead to systemic LA toxicity
+
+Management priorities are:
+* ABC
+* Management of LA toxicity
+* Foetus  
+Evaluate foetal heart rate:
+    * If normal, labour may continue
+    * Cat 1 LUSCS should be planned in setting of non-reassuring trace
+
+
+###Broken Epidural Catheter
+* Generally should be left in place
+
+###Horner's Syndrome  
+* May occur following blockade of sympathetic ganglion of T1-4
+* Occur commonly with epidural top-up for LUSCS  
+Of itself, not of clinical significance.
+
+###Paraesthesia
+* Occurs in 5-25% of insertions
+* If paraesthesia persists after catheter maniuplation then the catheter should be removed and re-inserted in a different space  
+May be an association with severe neurological deficit.
 
 
 ---
