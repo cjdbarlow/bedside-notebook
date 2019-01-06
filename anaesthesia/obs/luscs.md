@@ -22,23 +22,24 @@ Divided into 4 categories:
 	* **GA**  
 		* Quick to perform and reliable
 		* Allows fastest delivery of baby
-		* Increased risk
+		* Increased risk:
 			* Anaphylaxis
 			* Aspiration
 			* Increased blood loss  
-			Without increased transfusion requirement
-		* Indications
+			Without increased transfusion requirement.
+		* Indications:
 			* Maternal request
 			* Cat 1 CS  
 			In skilled hands with good patient selection a spinal or epidural top-up is also appropriate.
 			* Contraindication to regional technique
 			* Failure of regional technique
 			* Additional surgery required
-	* **Regional**
+	* **Regional**  
 	Desired **block level is T4-S4** to light touch and ice.
-		* Many advantages over GA
+		* Many advantages over GA:
 			* Mother and support person can be present at delivery
-			* Lower risk
+			* Lower risk  
+			Predominantly due to less aspiration.
 			* Alert neonate  
 			Early bonding and breastfeeding.
 			* Better postoperative analgesia and mobilisation
@@ -46,7 +47,7 @@ Divided into 4 categories:
 		Most (>90%) CS are performed under spinal.
 			* Rapid onset
 			* Simple (usually)
-			* \<1% failure rate
+			* < 1% failure rate
 			* More rapid sympathectomy than epidural, leading to greater haemodynamic disturbance  
 			Can be avoided with use of phenylephrine infusion.
 			* Shorter acting, and difficult to correct  
