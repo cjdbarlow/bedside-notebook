@@ -37,16 +37,33 @@ WCC > 20 x 10<sup>9</sup>/L.
 
 
 ##Anatomy
-Lumbar:
-* Generally between L2 and L5 interspaces
-* Epidural space is an average of 5cm  (3-8 in 90%)
-
-Thoracic:
-* Avoid midline approach between T5 and T8
-
-Cervical:
-* Thin and soft ligamentum flavum leads to poor appreciation of LoR
-* Space is ~ 1.5-2mm deep at C7, increases to 3-4mm with neck flexion
+Layers of the back include:
+* Skin
+* Subcutaneous tissue
+* Longitudinal ligament
+* Interspinous ligament
+* Ligamentum flavum
+* Epidural space  
+The epidural space:
+    * Bounded:
+        * Anteriorly by the posterior longitudinal ligament  
+        Remember the epidural space forms a ring around the dural sac.
+        * Superiorly by the skull  
+        At the foramen magnum.  
+        * Inferiorly by the sacrococcygeal ligament
+        * Posteriorly by the ligamentum flavum
+    * Contains fat, **valveless veins**, nerve roots, as well as the posterior and anterior spinal arteries and the artery of Adamkiewicz
+    * Has different properties in different areas of the spine:
+        * Lumbar
+            * At an average of 5cm  (3-8 in 90%)
+            * Usually catheterised between L2 and L5 interspaces
+        * Thoracic
+            * Narrow, avoid midline approach between T5 and T8
+        * Cervical
+            * Thin and soft ligamentum flavum leads to poor appreciation of LoR
+            * Space is ~ 1.5-2mm deep at C7, increases to 3-4mm with neck flexion
+* Dura and arachnoid
+* Subarachnoid space
 
 
 ###Coagulopathy{#coag}

@@ -9,56 +9,83 @@ Completely bedridden, associated symptoms, no response to conservative therapy.
 
 
 ##Epidemiology
+* Occurs in ~1-2% of labour epidurals
+* Exceedingly rare following LP with modern spinal (25-27G) needles
+	* Risk increases as gauge decreases
 
 
 ##Pathophysiology
-Puncture of the dura causes CSF to leak into the epidural space, reducing CSF volume. This causes
+* Puncture of the dura causes CSF to leak into the epidural space, reducing CSF volume.
 
 ##Clinical Features
+May be recognised during procedure as:
 * CSF leak from Tuohy needle during epidural insertion
+* Aspiration of CSF from catheter
+
+Symptoms:
+* Headache
+* Worse when sitting/standing
+* Nausea/Vomiting
+* Blurred vision/diplopia  
+Due to 6<sup>th</sup> nerve stretch
 
 ##Investigations
 
 
 ##Management
-* Placement of (a **clearly labelled**) intrathecal catheter  
-Response to witnessed CSF leak from Tuohy needle during epidural insertion.
-	* Leave catheter in situ for 24 hours  
-	Aids inflammatory response and healing of dural puncture.
-	* Reduces need for blood patch  
-	59% to 33%.
+*Procedural management options are covered under [epidural](/anaesthesia/regional/epidural.md).*
 
+Management of established PDPH:
+* Mild and moderate PDPH  
+Conservative approach:
+	* Best rest
+	* Oral analgesia
 
-* Conservative approach  
-Mild and moderate PDPH.
-	* Bed rest
-	* Analgesia
+* Severe PDPH  
+Epidural blood patch.
 
-
-* Epidural blood patch  
+###Epidural Blood Patch  
 Placement of patients own blood in epidural space, which clots and prevents futher CSF leakage.
-	* 70-90% efficacy
-	* Indications:
-		* Severe PDPH
-	* Contraindications:
-		* Systemic fever
-		* Systemic infection
-		* Local infection
-		* Coagulopathy
-	* Risks:
-		* Failure
-		* Back pain
-		* Dural puncture
-		* Nerve injury
-		* Infection
-			* Abscess
-			* Meningitis
-	* Process
-		* Aseptic technique  
-		Including blood draw.
-		* Epidural puncture at or 1 level below the original site
-		* 10-30ml of blood injected  
-		Stop if radicular pain occurs.
+* 70-90% efficacy
+* Indications:
+* Severe PDPH
+* Contraindications:
+	* Systemic fever
+	* Systemic infection
+	* Local infection
+	* Coagulopathy
+* Risks:
+	* Failure
+	* Back pain  
+	Common for first 24-48 hours.
+	* Dural puncture
+	* Nerve injury
+	* Infection
+		* Abscess
+		* Meningitis
+
+Process:
+* Aseptic technique  
+Including blood draw.
+* Epidural puncture at or 1 level below the original site  
+Lowest puncture should be used if multiple punctures present.
+* Following epidural puncture, draw 20-30ml of blood
+* 10-30ml of blood injected  
+	* Until pressure felt in back
+	* Stop if radicular pain occurs
+* Lay supine for 1-2 hours
+
+
+####Failure of BLood Patch
+Failure may be due to:
+* Incorrect diagnosis  
+Diagnosis should be re-evaluated if patch fails. Consider:
+	* Neurological consult
+	* Cortical vein thrombosis  
+	Mimics dural puncture and worsened by blood patch.
+* Incorrect placement
+	* A second or third blood patch may be required
+
 
 ###Ineffective Therapies
 * Caffeine
