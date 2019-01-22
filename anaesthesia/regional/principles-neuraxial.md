@@ -26,6 +26,9 @@ Relative contraindications:
 * Raised ICP
 * Leukocytosis  
 WCC > 20 x 10<sup>9</sup>/L.
+* Infection
+    * Chorioamnioitis
+    * Usually safe to insert if temperature is < 38°C and patient is on antibiotics.
 * CVS disease:
 	* AS  
 	Afterload reduction results in decreased LV perfusion pressure.
@@ -34,6 +37,45 @@ WCC > 20 x 10<sup>9</sup>/L.
 	* Hypotension/hypovolaemia/shock states  
 	Exacerbated by drop in SVR.
 * Anxiety/behavioural concern
+
+###Coagulopathy{#coag}
+In general:
+* Coagulation studies be performed prior to insertion if there is any concern  
+Any abnormality of coagulation is always a *relative* contraindication.
+* Risk of haematoma exists on a continuum - a platelet count of 79 is not substantially more risky than a platelet count of 81.
+* Risk varies depending on technique  
+Paravertebral is less risky than a spinal, which is less risky than a single-shot epidural, which is less risky than an epidural catheter.
+* Absolute thresholds will vary depending on the centre; one particular set of numbers is:
+    * Normal APTT
+    * INR < 1.5
+    * Platelets > 80 x 10<sup>12</sup>/L  
+    Institutional policy may vary.
+        * Above 100 is ideal
+        * < 70 can be considered an absolute contraindication
+        * Beware patients whose platlet counts are falling
+* Strong history of bleeding  
+Even in presence of normal coagulation studies.
+
+###Anticoagulants
+
+|Drug|Time between last dose and epidural insertion/adjustment/removal|Time before next dose|
+|--|--|--|
+|**Heparin** <br>5,000 Units S/C|6 hours.|2 hours.|
+|**Heparin** Infusion|6 hours since cessation, and a normal APTT|2 hours|
+|**Enoxaparin** (prophylactic)|12 hours, 24 hours post-operative|4 hours|
+|**Enoxaparin** (therapeutic)|24 hours|4 hours|
+|**Warfarin**|INR < 1.5 prior to insertion. Warfarin cannot be used with an epidural in situ - use UFH. INR < 1.5 prior to removal.|6 hours|
+|**Aspirin**|2-3 days prior to cervical/thoracic epidural placement.|-|
+|**NSAIDs**|-|-|
+|**Clopidogrel**|7 days for insertion, can consider 5 days if high cardiac risk.|12-24 hours following catheter removal (24 hours if loading dose to be given).|
+|**Ticagrelor**|5 days|24 hours|
+|**Prasugrel**|7-10 days|24 hours|
+|**Dabigatran**|Ideally 4 days|24 hours|
+|**Rivaroxaban/Apixaban**|At least 2 days, ideally 3 days|24 hours
+|**Tirofiban**|8-24 hours|8-12 hours|
+|**Thrombin inhibitors** including bivalirudin, lepirudin|Avoid. Seek expert advice.|Seek expert advice.
+|**Thrombolytics**|10 days.|Measure fibrinogen level prior to removal. Seek expert advice.|
+|**Herbal** including garglic, gingseng, and gingo bilboa|-|-|
 
 
 ##Anatomy
@@ -66,42 +108,7 @@ The epidural space:
 * Subarachnoid space
 
 
-###Coagulopathy{#coag}
-In general:
-* Coagulation studies be performed prior to insertion if there is any concern  
-Any abnormality of coagulation is always a *relative* contraindication.
-* Risk of haematoma exists on a continuum - a platelet count of 79 is not substantially more risky than a platelet count of 81.
-* Risk varies depending on technique  
-Paravertebral is less risky than a spinal, which is less risky than a single-shot epidural, which is less risky than an epidural catheter.
-* Absolute thresholds will vary depending on the centre; one particular set of numbers is:
-    * Normal APTT
-    * INR < 1.5
-    * Platelets > 80 x 10<sup>12</sup>/L  
-    Above 100 is idea, < 70 can be considered an absolute contraindication.
-* Strong history of bleeding  
-Even in presence of normal coagulation studies.
 
-###Anticoagulants
-
-|Drug|Time between last dose and epidural insertion/adjustment/removal|Time before next dose|
-|--|--|--|
-|**Heparin** <br>5,000 Units S/C|8 hours.|8 hours.|
-|**Heparin** Infusion|6 hours since cessation, and a normal APTT.|Restart 8 hours after infusion, or 24 hours if bloody tap.|
-|**Heparin** IV intraoperative|Removal > 4 hours after last dose.|1 hour between placement and first dose.
-|**Enoxaparin** (prophylactic)|12 hours, 24 hours post-operative.|2 hours|
-|**Enoxaparin** (therapeutic)|24 hours.|2 hours|
-|**Warfarin**|INR < 1.5 prior to insertion. Warfarin cannot be used with an epidural in situ - use UFH.|INR < 1.5 prior to removal.|
-|**Aspirin**|2-3 days prior to cervical/thoracic epidural placement.|-|
-|**NSAIDs**|-|-|
-|**Clopidogrel**|7 days for insertion, can consider 5 days if high cardiac risk.|12-24 hours following catheter removal (24 hours if loading dose to be given).|
-|**Ticagrelor**|5 days|6 hours following catheter removal|
-|**Prasugrel**|7-10 days|6 hours following catheter removal|
-|**Rivaroxaban**|At least 2 days.|6 hours.
-|**GPIIb/IIIa inhibitors**|At least 2 days. Seek expert advice.|Seek expert advice.
-|**Dabigatran**|48 hours||
-|**Thrombin inhibitors** including bivalirudin, lepirudin|Avoid. Seek expert advice.|Seek expert advice.
-|**Thrombolytics**|10 days.|Measure fibrinogen level prior to removal. Seek expert advice.|
-|**Herbal** including garglic, gingseng, and gingo bilboa|-|-|
 
 ---
 ##References

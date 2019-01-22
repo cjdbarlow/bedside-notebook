@@ -2,12 +2,29 @@
 *This covers common and serious problems with both labour and post-operative epidurals.*
 
 Include:
+* High Block
 * Inadequate analgesia
     * Patchy block
     * Asymmetric block
     * Diminished block
 * Inadequate perineal analgesia
 
+
+###High Block
+Symptoms include:
+* Nasal stuffiness
+* Difficulty breathing
+* Lightheadedness
+* Horner's Syndrome  
+Block may be between T4-T8.
+
+Treatment is based upon symptoms:
+* Hypotension  
+Vasopressor, such as metaraminol.
+* Bradycardia  
+Atropine.
+* Hypoxia  
+Supplemental oxygen, respiratory support. 
 
 ###Inadequate Analgesia
 Can be defined as:

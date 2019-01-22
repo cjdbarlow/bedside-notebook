@@ -53,7 +53,7 @@ Sliding scales should be based on the total daily insulin dose:
 Notify anaesthetist and recheck BSL every 15 minutes
 * < 10 mmol/L and the patient is fasting  
 Give 5% dextrose at 100ml/hr.
-* > 10 mmol/L and the patient is fasting  
+* ≥ 10 mmol/L and the patient is fasting  
 Consider 5% dextrose at 50-100ml/hr.
 
 
@@ -64,14 +64,33 @@ Check BSL Q2H whilst fasting.
 * If BSL:
 	* < 4 mmol/L  
 	Withold insulin, consider giving additional glucose.
-	* > 4 mmol/L  
+	* ≥ 4 mmol/L  
 	Continue insulin infusion.
-	* > 10 mmol/L  
+	* ≥ 10 mmol/L  
 	Adminster additional short-acting insulin (as for sliding scale insulin).
 
 
 ###Ineffective Therapies
 ##Complications
+
+
+###Obstetric Complications
+Complications of maternal diabetes include:
+* Placental insufficiency  
+	* Uteroplacental blood flow is reduced 35-45%  
+	Additional impairment if blood glucose control is poor.
+	* Reduced oxygen transport on HbA<sub>1c</sub>
+* Superimposed pre-eclampsia
+* Diabetic ketoacidosis  
+Major factor increasing perinatal morbidity and mortality.
+* Increased foetal acidosis at delivery
+
+
+Management considerations:
+* Epidural reduces foetal metabolic acidosis
+* Greater haemodynamic disturbance with spinal  
+Likely due to higher sympathectomy.
+
 ##Prognosis
 
 ---

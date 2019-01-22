@@ -18,6 +18,9 @@ Adenosine diphosphate
 ##ADH
 Anti-Diuretic Hormone
 
+##AFE
+Amniotic Fluid Embolism
+
 ##ANP
 Atrial Natriuretic Peptide
 
@@ -30,8 +33,11 @@ Atrial Septal Defect
 ##ATP
 Adenosine Triphosphate
 
+##APH  
+Antepartum Haemorrhage
+
 ##APL
-Adjustable Pressure Limiting
+Adjustable Pressure-Limiting
 
 ##AVA
 Aortic Valve Area
@@ -177,6 +183,9 @@ End-Systolic Volume
 ##ETT
 Endotracheal Tube
 
+##FDIU
+Foetal Death in Utero
+
 ##FEV1
 Forced Expiratory Volume in 1 second
 
@@ -236,6 +245,9 @@ Internal Jugular Vein
 
 ##IP
 In-Plane
+
+##ITTP
+Idiopathic Thrombocytopenic Purpura
 
 ##IVC
 Inferior Vena Cava
@@ -357,8 +369,14 @@ Platelet-Derived Growth Factor
 ##Pip
 Peak inspiratory pressure
 
+##PPH
+Postpartum Haemorrhage
+
 ##PPV
 Pulse Pressure Variation
+
+##PV
+Per Vaginal
 
 ##RAP
 Right Atrial Pressure

@@ -11,14 +11,14 @@ Divided into 4 categories:
 	* Cat 1  
 	Imminent threat to life of mother or foetus.
 		* Objective is to deliver baby as rapidly as possible whilst being safe  
-		GA is often used.
+		Epidural top-up (if available) or GA otherwise. Spinal is associated with ~8-10 minute additional anaesthetic time.
 	* Cat 2  
 	Maternal or foetal compromise that is not imminently life threatening.
 	* Cat 3  
 	No compromise, but requires early delivery.
 	* Cat 4  
 	No compromise, delivery timed to suit the mother and the hospital.
-* With a different techniques
+* With a different techniques:
 	* **GA**  
 		* Quick to perform and reliable
 		* Allows fastest delivery of baby
@@ -30,7 +30,6 @@ Divided into 4 categories:
 		* Indications:
 			* Maternal request
 			* Cat 1 CS  
-			In skilled hands with good patient selection a spinal or epidural top-up is also appropriate.
 			* Contraindication to regional technique
 			* Failure of regional technique
 			* Additional surgery required
@@ -65,6 +64,7 @@ Divided into 4 categories:
 			* Allows block to be extended if surgery is prolonged
 			* Epidural can be used for post-operative analgesia
 
+
 ##Considerations
 * A
 	* Higher risk of difficult airway
@@ -85,9 +85,23 @@ Divided into 4 categories:
 	* Group and Hold  
 	There is always a risk of massive haemorrhage with obstetric cases.
 * O
-	* Diseases of pregnancy
 	* Placenta position  
 	Low-lying anterior placenta greatly increases risk of major haemorrhage, especially if there is a scar from previous CS.
+	* Obstetric factors influencing anaesthetic technique:
+		* Pre-eclampsia  
+		Generally, early epidural prior to thrombocytopenia is preferred.
+		* Prematurity  
+		Generally, regional techniques reduce foetal morbidity.
+		* Post-dates  
+			* Often require LUSCS
+			* Regional techniques generally preferred
+		* Breech presentation
+			* Elective LUSCS improves neonatal outcomes
+			* Regional preferred in elective LUSCS
+		* Multiple Gestation
+			* Early epidural provides route enables quick conversion to LUSCS in second-twin distress
+			* GA for cat 1 LUSCS
+
 
 ##Preoperative Assessment
 Specific factors include:
@@ -193,7 +207,9 @@ A slightly smaller tube may make intubation easier and will be adequate to venti
 
 
 ###Template for Spinal for CS
-* Discuss with patient that
+>"It is easier to manage a high block than an inadequate one"
+
+* Discuss with patient that:
 	* Spinal does not remove all sensation
 	* Discomfort will be felt at certain points
 		* Pull prior to uterine incisoin
@@ -286,7 +302,7 @@ This section is divided into:
 * Peritoneal retraction
 * Uterine incision  
 If amnion is intact then amniotic fluid will enter abdominal cavity.
-* 
+
 
 ###General Complications of CS
 * Massive haemorrhage

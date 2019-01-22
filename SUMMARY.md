@@ -73,7 +73,7 @@
 	* [Low-Flow Anaesthesia](/anaesthesia/general/low-flow.md)
 	* [TIVA](/anaesthesia/general/tiva.md)
 * [Regional Anaesthesia](/anaesthesia/regional/principles.md)
-	* [Neuraxial](/anaesthesia/regional/principles/principles-neuraxial.md)
+	* [Neuraxial](/anaesthesia/regional/principles-neuraxial.md)
 		* [Spinal](/anaesthesia/regional/spinal.md)
 		* [Epidural](/anaesthesia/regional/epidural.md)
 		* [Epidural Troubleshooting](/anaesthesia/regional/epidural-mx.md)
@@ -172,7 +172,21 @@
 * [Immune](/disease/immune/anaphylaxis.md#id)
 	* [Anaphylaxis](/disease/immune/anaphylaxis.md)
 	* [Sepsis](/disease/immune/sepsis.md)
-
+* [Obstetric]
+	* [Maternal]
+		* Placenta Previa
+		* Abruptio Placentae
+		* Uterine Iversion
+		* Uterine Rupture
+		* Pregnancy-Induced Hypertension
+		* Amniotic Embolism
+	* [Foetal]
+		* Prematurity
+		* Post-maturity
+		* Breech
+		* Multiple Gestation
+		* Foetal Distress
+		* Intrauterine Death
 
 ## Procedures
 * [Airway Procedures](/procedures/airway/bmv.md#id)
