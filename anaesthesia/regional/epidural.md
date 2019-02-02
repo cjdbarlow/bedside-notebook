@@ -316,7 +316,7 @@ This is a higher risk technique.
     * **Label clearly as SPINAL**
     * *Cautiously* establish block  
     Typically, intrathecal doses are ~1/10<sup>th</sup>sup> of epidural doses.
-        * Consider using 2mg bupivacaine and 5μg fentanyl
+        * Consider using 1.5-2ml of *0.25%* bupivacaine with 15µg of fentanyl
     * Leave catheter in situ for 24 hours  
         * Aids inflammatory response and healing of dural puncture.
         * Reduces need for blood patch  

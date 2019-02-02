@@ -27,7 +27,8 @@
 
 
 ## Management
-* [Cardiac Arrest](/management/cvs/post-cthr.md#id)
+* [Cardiac Arrest](/management/cvs/neo.md#id)
+	* [Neonatal Resuscitation](/management/cvs/neo.md)
 	* [Post-Cardiac Surgery](/management/cvs/post-cthr.md)
 	* [OOHCA](/disease/cvs/oohca.md)
 
@@ -56,6 +57,7 @@
 	* [CICO](/management/airway/cico.md#id)
 	* [Laryngospasm](/disease/airway/laryngospasm.md#id)
 	* [Massive Haemoptysis](/crisis/massive-haemoptysis.md)
+	* [Amniotic Fluid Embolism](/disease/cvs/afe.md#id)
 * [Anaesthetic Considerations](/anaesthesia/considerations/risk.md#id)
 	* [Risk and Consent](/anaesthesia/considerations/risk.md)
 	* [Fasting](/anaesthesia/considerations/fasting.md)
@@ -152,11 +154,12 @@
 	* [Valvular Disease](/disease/cvs/as.md#id)
 		* [Aortic Stenosis](/disease/cvs/as.md)
 		* [Mitral Stenosis](/disease/cvs/ms.md)
-	* [Vascular Disease](/disease/cvs/aaa.md#id)
+	* [Systemic Vascular Disease](/disease/cvs/aaa.md#id)
 		* [AAA](/disease/cvs/aaa.md)
 	* [Thromboembolic Disease](/disease/cvs/pe.md#id)
 		* [Pulmonary Embolism](/disease/cvs/pe.md)
 		* [Venous Air Embolism](/disease/cvs/vae.md)
+		* [Amniotic Fluid Embolism](/disease/cvs/afe.md)
 * [CNS](/disease/cns/cerebral-palsy.md#id)
 	* [Cerebral Palsy](/disease/cns/cerebral-palsy.md)
 	* [PDPH](/disease/cns/pdph.md)
@@ -172,21 +175,11 @@
 * [Immune](/disease/immune/anaphylaxis.md#id)
 	* [Anaphylaxis](/disease/immune/anaphylaxis.md)
 	* [Sepsis](/disease/immune/sepsis.md)
-* [Obstetric]
-	* [Maternal]
-		* Placenta Previa
-		* Abruptio Placentae
-		* Uterine Iversion
-		* Uterine Rupture
-		* Pregnancy-Induced Hypertension
-		* Amniotic Embolism
-	* [Foetal]
-		* Prematurity
-		* Post-maturity
-		* Breech
-		* Multiple Gestation
-		* Foetal Distress
-		* Intrauterine Death
+* [Obstetric](/disease/obs/preg.md#id)
+	* [Pregnancy and Labour](/disease/obs/preg.md)
+	* [Hypertensive Disorders](/disease/obs/htn.md)
+	* [Antepartum Haemorrhage](/disease/obs/aph.md)
+	* [Postpartum Haemorrhage](/disease/obs/pph.md)
 
 ## Procedures
 * [Airway Procedures](/procedures/airway/bmv.md#id)

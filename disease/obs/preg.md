@@ -97,14 +97,16 @@ Delivery of the placenta.
 
 ##Management
 Divided into:
-* Drugs in pregnancy
+* [Drugs in pregnancy](drugs)
 	* Risks
 	* Risk categorisation of drugs
 	* Examples
-* Labour
+* [Labour](labour)
+	* Premature labour
+	* Foetal distress
 
 
-###Drugs in Pregnancy
+###Drugs in Pregnancy{#drugs}
 Drugs in pregnancy are:
 * Used by 20-25% of women regularly
 * Often not validated for use or safety, including anaesthetic drugs  
@@ -183,7 +185,7 @@ Such **high risk of causing foetal damage** that they should **not be used in pr
 |**Vasopressors**|Adrenaline<br>Ephedrine||Phenylephrine||Metaraminol|||Used whatever agent is best for the mother|
 |**Antiarrythmics**|Digoxin||Adenosine||Amiodarone||||
 
-###Labour
+###Labour{#labour}
 Management of abnormal labour depends on stage:
 * Abnormal S1
 	* Trial of oxytocin  
@@ -223,8 +225,51 @@ Active management of S3 significantly reduces PPH and maternal mortality. Active
 	* Early cord clamping
 	* Controlled cord traction
 
-###Anaesthetic Considerations
 
+####Premature Labour
+Premature:
+* Labor occurs prior to 37 weeks gestation
+* Birth occurs in ~10% of deliveries  
+Associated with 85% of all perinatal morbidity and mortality, due to:
+	* Respiratory distress syndrome
+	* Intracranial haemorrhage
+	* Ischaemic cerebral damage  
+	Intrapartum:
+		* Hypoxia
+		* Asphyxia
+		* Hypotension
+	* Hypoglycaemia
+
+
+Management of Premature Labour:
+* **Tocolytics** are used to stop premature contractions  
+Agents include:
+	* Magnesium sulfate
+	* Calcium channel blockers
+	* Methylxanthines
+	* Prostaglandin inhibitors
+	* β-agonists
+		* Evaluate for hyperkalemia if on treatment longer than 24 hours
+	* Ethanol
+		* Historical
+		* Inhibits ADH, oxytocin, and myometrial contractility
+* Consider epidural as anaesthetic technique
+	* Reduces effects of systemic drugs on foetus
+	* Improved foetal perfusion
+	* May reduce incidence of ICH by allowing controlled delivery
+
+
+####Foetal distress
+* Avoid aortocaval compression
+* Supplemental oxygen
+* Treat hypotension
+* Cease oxytocin  
+Generally decision of obstetric team.
+* Consider tocolytics
+	* Terbutaline 250μg IV/SC
+	* Salbutamol 100μg IV
+	* GTN 400μg SL
+* Prepare for em LUSCS
 
 ##Complications
 ##Prognosis

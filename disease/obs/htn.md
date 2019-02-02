@@ -22,6 +22,8 @@ Hypertension in pregnancy is:
 				* Seizures
 				* Epigastric pain
 				* Pulmonary oedema
+				* HELLP  
+				Haemolysis, elevated liver enzymes, thrombocytopaenia.
 		* Eclampsia is defined as **preeclampsia** with **seizures**
 			* Occurs in ~0.05% of pregnancies
 			* Risk continues up to 1 week following delivery  
@@ -111,7 +113,17 @@ Key therapy is **magnesium**. Magnesium has:
 	* Hypertension
 		* Management is difficult
 		* Hypertension with light GA/laryngoscopy may be problematic
+		* Key questions:
+			* What is the current BP?
+			* What is the trend in the BP?
+			* What antihypertensive agents is the patient taking?
 * D
+	* Liklihood of eclampsia  
+	Evaluate presence of:
+		* Headache
+		* Hyperreflexia/clonus
+		* Visual symptoms
+		* Extreme hypertension
 	* Anaesthetic technique
 		* Epidural
 			* Reduces BP, and improves placental perfusion
@@ -135,7 +147,14 @@ Key therapy is **magnesium**. Magnesium has:
 				* Labetalol 1mg/kg pre-induction  
 				Reduces BP without affecting foetal blood flow.
 			* Magnesium increases sensitivity to muscle relaxants
+* F
+	* Volume state
+		* Urine output
+		* Thirst
+* H
+	* Coagulation profile
 
+	
 ###Ineffective Therapies
 
 ##Complications

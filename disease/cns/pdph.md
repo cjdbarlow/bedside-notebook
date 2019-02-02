@@ -48,7 +48,8 @@ Epidural blood patch.
 Placement of patients own blood in epidural space, which clots and prevents futher CSF leakage.
 * 70-90% efficacy
 * Indications:
-* Severe PDPH
+	* Severe PDPH  
+	Note that prophylactic blood patch after a dural puncture is not effective.
 * Contraindications:
 	* Systemic fever
 	* Systemic infection
