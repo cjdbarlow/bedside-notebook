@@ -1,0 +1,74 @@
+#Total Spinal
+
+> This is an <span style="color:red">**anaesthetic crisis**</span>  
+> Priority is to:
+>* **Manage A-B-Cs**
+>* **Deliver foetus** (if relevant)
+
+A total spinal is:
+* **Spinal anaesthesia involving **the** brain stem**
+* Difficult to predict  
+May be difficult to induce even if intentional.
+
+
+#####<span style="color:red">Emergency Management</span>
+Follows an ABC approach:
+* A
+	* Provide 100% oxygen
+	* Assist ventilation if required
+	* Intubate if apnoeic 
+	Patient may still be aware and not-relaxed; perform a drug-assisted intubation.
+* B
+	* Support ventilation as above
+* C
+	* Volume  
+	Fill dilated, compliant venous resevoir.
+	* Vasopressors  
+	* Inotropes  
+	If bradycardia predominants. **50-100µg adrenaline** is a reasonable starting point.
+* D
+	* Post-intubation sedation  
+	If required.
+* Supportive therapy continues until total spinal has resolved  
+May last 15 minutes to ~4 hours.
+
+
+Foetal delivery:
+* Foetal distress often present with maternal hypotension
+* Delivery will improve maternal circulatory compromise
+
+
+##Epidemiology and Risk Factors
+Total Spinal:
+* Occurs in ~1:1000-1:5000  
+Risk factors:
+	* Total dose of local anaesthetic  
+	Higher risk with inadvertent dural puncture.
+	* Baricity  
+	Hyperbaric solutions increase cephalad spread in head-down position.
+	* Patient factors
+		* Height
+		* Anatomical  
+		Separations within thecal sac.
+		* Weight  
+		Epidural venous congestion compresses intrathecal space.
+	* CSE  
+	Epidural injection may displace spinal solution cephalad.
+* Features of spinal anaesthesia
+	* **Rapid onset**  
+	Usually (but not always) within 1-5 minutes.
+	* High spinal symptoms
+		* Bradycardia
+		* Hypotension
+		* Respiratory impairment
+			* Difficulty once intercostals are paralysed  
+			Note **whispering** and **inability to cough**.
+			* Severe when phrenic nerve is paralyse  
+		* Upper limb weakness
+	* Cervical spine involvement
+
+
+---
+
+##References
+

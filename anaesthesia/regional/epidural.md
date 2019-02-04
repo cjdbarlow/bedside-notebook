@@ -1,7 +1,7 @@
 #Epidural {#id}
 
 ##Indications and Contraindications
-*General contraindications to neuraxial techniques are covered under [principles of neuraxial anaesthesia](/anaesthesia/regional/principles/principles-neuraxial.md).
+*General contraindications to neuraxial techniques are covered under [principles of neuraxial anaesthesia](/anaesthesia/regional/principles/principles-neuraxial.md).*
 
 Epidural catheters are commonly used for:
 * Analgesia

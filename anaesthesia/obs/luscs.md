@@ -157,7 +157,7 @@ Under right hip to displace the gravid uterus off the IVC, and ensure venous ret
 * Volume load  
 Up to 10ml/kg of crystalloid.
 * Start phenylephrine infusion on commencement of anaesthesia, aiming to preserve the baseline BP  
-Generally 30-60ml/hr of 100ug/ml of phenylephrine.
+**Generally 30**-60**ml/hr of 100ug/ml of phenylephrine**.
 	* Adjust infusion rate each minute depending on the blood pressure  
 	25-50% increments are reasonable.
 	* Phenylephrine is the preferred agent as it does not constrict the spiral arteries
@@ -218,18 +218,11 @@ A slightly smaller tube may make intubation easier and will be adequate to venti
 * Premedication is acceptable for anxiolysis
 	* Midazolam 0.02mg/kg
 * Perform spinal  
-Many different options:
-	* 2.2ml of 0.5% heavy bupivacaine and 15μg of fentanyl is a reliable combination for most patients
-	* Bupivacaine 8-12mg  
-	Block will recede after 1.5 hours, though some block will remain after 2.5 hours.
-		* Hyperbaric bupivacaine has a more rapid onset and the level can be adjusted by moving the table
-	* Lignocaine generally avoided because of transient neurological symptoms
-	* Ropivacaine has a much shorter intrathecal duration of action
-	* Opioids  
-	May be added to improve analgesia intra- and post-operatively.
-		* Fentanyl 10-25μg
-		* Morphine 50-150μg  
-		Provides longer lasting analgesia in exchange for risks of PONV, pruritis (can be severe), and late respiratory depression.
+[Many different options for dosing](#dosing). At the Royal Womens Hospital (Melbourne), a total volume of 3ml is used:
+	* 2.2ml of 0.5% heavy bupivacaine
+	* 15μg of fentanyl
+	* 100μg intrahtecal morphine
+
 
 * Lie supine with pillow
 	* Trendelenburg can be used to increase the cranial spread
@@ -244,6 +237,22 @@ Many different options:
 		* Consider GA
 	* Inadequate block  
 	Consider epidural and slow titration of LA.
+
+####Principles of Spinal Dosing{#dosing}
+In general:
+* Much research has been done
+* Little of it demonstrates significant superiority for one technique over another
+* Local anaesthetics:
+	* Bupivacaine 8-12mg  
+	Block will recede after 1.5 hours, though some block will remain after 2.5 hours.
+		* Hyperbaric bupivacaine has a more rapid onset and the level can be adjusted by moving the table
+	* Lignocaine generally avoided because of transient neurological symptoms
+	* Ropivacaine has a much shorter intrathecal duration of action
+* Opioids  
+May be added to improve analgesia intra- and post-operatively.
+	* Fentanyl 10-25μg
+	* Morphine 50-150μg  
+	Provides longer lasting analgesia in exchange for risks of PONV, pruritis (can be severe), and late respiratory depression.
 
 
 ###Template for Epidural Top-Up for CS{#etu}
@@ -390,21 +399,20 @@ Increased risk in obstetric population.
 		* Increased gastric volume
 
 ##Postoperative
-Most departments have a standard post-operative analgesia management protocol. These include:
-* PO-only:
-	* Paracetamol 1g QID
-	* Ibuprofen 400mg TDS
-	* Oxycontin 20mg BD
-	* Coloxyl + Senna ii BD
-	* Endone 5-10mg Q2H PRN
-	* Ondansetron 4-8mg IV TDS PRN
-
-
+Most departments have a standard post-operative analgesia management protocol. At the Royal Women's Hospital (Melbourne):
+* Paracetamol 1g QID
+* Ibuprofen 400mg TDS
+* Tramadol 50-100mg IV/PO QID
+* Ondansetron 4-8mg IV/SL TDS
+* Metocloparmide 10mg IV/PO TDS
+* Naloxone 40μg SC Q1H  
+For itch.
+* Naloxine 100μg IV Q5 min  
+For RR < 8.
 
 
 ---
 ##References
-
 1. Maronge, L., & Bogod, D. (2018). Complications in obstetric anaesthesia. Anaesthesia.
 2. Aberdeen Maternity Hospital Anaesthetic Guidelines. Management of Blood Pressure during Caesarean Sections under Spinal Anaesthesia. 2009.
 3. Nixon H, Leffert L. [Anesthesia for cesarian delivery](https://www.uptodate.com/contents/anesthesia-for-cesarean-delivery). Post TW, ed. UpToDate. Waltham, MA: UpToDate Inc. http://www.uptodate.com

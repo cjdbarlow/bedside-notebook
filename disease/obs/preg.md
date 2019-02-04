@@ -97,11 +97,11 @@ Delivery of the placenta.
 
 ##Management
 Divided into:
-* [Drugs in pregnancy](drugs)
+* [Drugs in pregnancy](#drugs)
 	* Risks
 	* Risk categorisation of drugs
 	* Examples
-* [Labour](labour)
+* [Labour](#labour)
 	* Premature labour
 	* Foetal distress
 
