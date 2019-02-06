@@ -19,7 +19,20 @@ Epidural catheters are commonly used for:
 
 
 ##Equipment
-
+* Procedure tray
+* Epidural kit  
+Containing:
+    * Tuohy needle
+    * Frictionless syringe
+    * Epidural catheter
+    * Catheter connector and filter
+* Skin local anaesthetic  
+In a 5ml syringe with a 23G needle.
+* Opioid  
+e.g. Fentanyl.
+* Epidural local anaesthetic  
+e.g. 20ml 0.2% ropivacaine.
+* Dressing
 
 ##Technique
 * Preparation
@@ -57,7 +70,7 @@ Verbal consent should be documented.
 
 
 ###Procedure
-* **Position the patient**
+* **Position the patient**  
 Most failures are related to poor positioning.
     * If sitting, ensure:  
         * Flat, level mattress  
@@ -73,7 +86,7 @@ Most failures are related to poor positioning.
 * Identify the target interspace 
 * Prepare the skin  
     * Chlorhexidine is superior  
-    Should be kept away and separate from the procedure tray, and allowed to dry fully.
+    Should be kept away and separate from the procedure tray, and allowed to dry fully. Ideally should be applied by the assistant.
 * Hat, gown, glove, drape  
 Place a hat on the patient as well.
 * Prepare equipment  
@@ -86,7 +99,8 @@ Prime catheter with saline.
     * Needle will be held firm in the ligament - on letting go the needle will be tethered, whilst it tends to fall if in fat
     * Typically 2-3cm deep
     * Remove stylet/obturator from Tuohy needle and attach loss of resistance syringe
-* *Slowly* advance needle and syringe  
+* *Slowly* advance needle and syringe
+    * Maintain contact with the patient and apply countertraction to the needle to minimise effect of patient movement on needle position  
     * With saline:
         * Majority of forwards pressure should be on the plunger of the syringe  
         *Just* enough pressure should be applied to the hub of the needle such that minimal saline is injected into the ligament.
@@ -105,18 +119,18 @@ Observe for:
     * **Blood**  
     If blood returns through the Tuohy needle it should be withdrawn. Attempt cannulation at a **different interspace**.
 * Thread the catheter  
-    * Warn for potential of transient electric shock feeling.
+    * Warn for potential of transient electric shock sensation
     * **Never withdraw the catheter through the Tuohy needle**  
     It may shear off and be retained in the epidural space.
     * Aim to leave the catheter at 3-5cm  
-    **5cm with a **multiorifice catheter** or **3-4cm** with a **uniorifice** catheter **is optimal** for analgesia.
-        * > 7cm is associated with more complications  
+    **5cm** with a **multiorifice catheter** or **3-4cm** with a **uniorifice** catheter **is optimal** for analgesia.
+        * ≥ 7cm is associated with   
         * < 3 cm is associated with dislodgement
 * Observe catheter for:
     * Saline  
-        * A meniscus should exist in the catheter, and fall as it the catheter is elevated.
-        * Continuous flow suggests [dural puncture](adp)  
-        Can be confirmed with easy aspiration of CSF, and 
+        * Continuous flow suggests [dural puncture](#adp)  
+        Can be confirmed with easy aspiration of CSF.
+        * Meniscal drop is not helpful once the dural space has been pressurised (i.e; with saline), and is rarely useful with loss of resistance to air techniques
     * **Blood**  
     Indicates cannulation of an epidural vein.
         * Epidural veins can be cannulated during insertion  
@@ -139,7 +153,7 @@ Observe for:
 
 
 * Connect filter  
-* Deliver [test dose](test)   
+* Deliver [test dose](#test)   
 Ensure HR, BP, and SpO<sub>2</sub> monitoring.
 * Apply dressing  
 Can provide second loading dose at this stage.
@@ -147,30 +161,35 @@ Can provide second loading dose at this stage.
 
 ####Test and Loading Doses{#test}
 The ideal test dose should:
+* Identify intrathecal injection
+    * Inject small volumes slowly and titrate to effect
+* Identify intravascular injection
+* Avoid haemodynamic instability
+* Give a slower onset of analgesia  
+Optimal onset time is 15 minutes. Rapid onset is associated with increased uterine tone and foetal bradycardia.
+
+
+#####A Good Loading Technique
+* 5ml 0.2% ropivacaine  
+    * If intrathecal, should be associated with warm sensation (as with spinal) and **rapid analgesia**  
+    Ask the patient if they have a substantial reduction in pain.
+    * Using a higher dose (e.g. 10ml) may also lead to early motor block, excessive sensory block, or hypotension
+* 100μg fentanyl
+    * If intravascular, should be associated with a potent opioid effect (analgesia, narcosis)
+* Further 10-15ml 0.2% ropivacaine  
+Titrated to achieve desired block height.
+
+
+#####Not-so-good Loading Techniques
+* 2% lignocaine  
+Associated with more motor block.
+* Adrenaline  
+Heart rate changes with 15-20μg of intravascular adrenaline are not reliably distinguishable from effect of epidural adrenaline, or normal heart rate variability.
 * Identify intravascular injection  
 Options include:
     * Negative aspiration of blood prior to injection
     * Adrenaline 15μg  
     Neither **sensitive nor specific**, as it is associated with an increase in HR by ~30bpm for ~30s if intravascular, and ~20-30bpm if epidural. No respone may be seen in β-blocked patients.
-* Identify intrathecal injection
-    * Inject small volumes slowly and titrate to effect
-* Be safe
-
-
-Test dose options:
-* Rapid load
-    * Give 2-3ml of 2% lignocaine with 1:200,000 adrenaline  
-    Monitor for HR response.
-    * Give 50-100μg fentanyl  
-    Monitor for excessive analgesia or narcosis.
-    * Give 5ml of standard institution solution  
-    e.g. 0.125% buipvacaine or 0.2% ropivacaine.
-    * Assess block
-    * Give 5ml of standard solution at least 5 minutes after first 5ml bolus  
-    Continue to assess block. Give up to 20ml of solution, increasing interval between doses.
-* Slow load
-    * Give 5ml of standard solution Q5min, up to 20ml  
-    Assess for adverse effects and block between each dose.
 
 
 ###Post-Procedure{#post}
@@ -263,9 +282,8 @@ In general, maximal anaesthetic doses should be:
 ###Patient Controlled Epidural Analgesia
 * May be run with a background infusion
 * Reduced need for intervention
-* e.g. Bupivacaine 0.125% with 2μg/ml fentanyl:
-    * 6ml/hr background
-    * 6ml patient demand bolus, Q15 minute lockout
+* e.g. Ropivacaine 0.2% with 2μg/ml fentanyl:
+    * 5ml patient demand bolus, Q15 minute lockout
 
 ###Catheter Removal
 Removal of an epidural can occur when:
