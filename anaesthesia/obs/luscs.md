@@ -1,80 +1,63 @@
-#Caesarean Section {#id}
->Time <br>
->Pain <br>
->Position <br>
->Blood loss: G+H required. Typically 500-100, but can be substantial. <br>
->Special Drugs
+#Principles of Caesarean Section {#id}
 
-Caesarian section can be performed:
-* At different degrees of urgency  
+*This covers general principles of caesarian section. Particulars of caesarian section performed under [general](ga-luscs.md) or [regional](reg-luscs.md) anaesthesia are covered elsewhere.*
+
+>Time: 45 to 90 minutes <br>
+>Pain: Significant opioid requirement post-operatively<br>
+>Position: Supine <br>
+>Blood loss: G+H required. Typically 500-100, but can be substantial. <br>
+>Special Drugs: Oxytocin post-delivery
+
+Caesarian section is delivery of a foetus through an abdominal incision. A caesarian section can be performed:
+* At **different degrees of urgency**  
 Divided into 4 categories:
-	* Cat 1  
+	* **Cat 1**  
 	Imminent threat to life of mother or foetus.
 		* Objective is to deliver baby as rapidly as possible whilst being safe  
 		Epidural top-up (if available) or GA otherwise. Spinal is associated with ~8-10 minute additional anaesthetic time.
-	* Cat 2  
+	* **Cat 2**  
 	Maternal or foetal compromise that is not imminently life threatening.
-	* Cat 3  
+	* **Cat 3**  
 	No compromise, but requires early delivery.
-	* Cat 4  
+	* **Cat 4**  
 	No compromise, delivery timed to suit the mother and the hospital.
-* With a different techniques:
-	* **GA**  
+* With **different techniques**:
+	* **[General Anaesthesia](ga-luscs.md)**  
 		* Quick to perform and reliable
 		* Allows fastest delivery of baby
-		* Increased risk:
-			* Anaphylaxis
-			* Aspiration
-			* Increased blood loss  
-			Without increased transfusion requirement.
+		* Generally increased risk of complications
 		* Indications:
 			* Maternal request
-			* Cat 1 CS  
+			* Cat 1 CS without pre-existing epidural  
 			* Contraindication to regional technique
-			* Failure of regional technique
-			* Additional surgery required
-	* **Regional**  
-	Desired **block level is T4-S4** to light touch and ice.
-		* Many advantages over GA:
-			* Mother and support person can be present at delivery
-			* Lower risk  
-			Predominantly due to less aspiration.
-			* Alert neonate  
-			Early bonding and breastfeeding.
-			* Better postoperative analgesia and mobilisation
-		* **Spinal**  
-		Most (>90%) CS are performed under spinal.
-			* Rapid onset
-			* Simple (usually)
-			* < 1% failure rate
-			* More rapid sympathectomy than epidural, leading to greater haemodynamic disturbance  
-			Can be avoided with use of phenylephrine infusion.
-			* Shorter acting, and difficult to correct  
-			Avoid if procedure is expected to be >2 hours in duration.
-		* **Epidural top-up**  
-			* Used when a working epidural is already present  
-			Easy to top up.
-			* Greater haemodynamic stability at cost of slower onset
-			* Generally poorer block than spinal
-			* Additional top-up can be given intraoperatively
-			* Epidural can be used for post-operative analgesia
-		* **CSE**
-			* Technically more difficult
-			* Greater haemodynamic stability
-			* Allows block to be extended if surgery is prolonged
-			* Epidural can be used for post-operative analgesia
+			* Failure of regional technique  
+			May be:
+				* Prior to incision
+				* After incision  
+				Limited consent and preparation time.
+			* Expected massive haemorrhage
+	* **[Regional](reg-luscs.md)**  
+		* Preferred method in absence of contraindications
+		* Includes:
+			* Spinal
+			* CSE
+			* Epidural top-up
 
 
-##Considerations
+##Considerations{#considerations}
 * A
-	* Higher risk of difficult airway
-	* High risk aspiration
+	* Probably higher risk of difficult airway
+		* Mallampati score increases both during pregnancy and during labour
+	* Higher risk of aspiration
 * B
 	* Reduced FRC and increased VO<sub>2</sub> in pregnancy lead to faster desaturation
 	* Respiratory function may be compromised with regional techniques
 * C
-	* HDx state may be compromised with regional techniques
+	* HDx state may be compromised with regional techniques  
+	Avoid if significant antepartum blood loss.
 * D
+	* Consent  
+	Depth of consent will be tailored to clinical urgency.
 	* Anxiety
 		* Often first exposure many people have to the hospital system  
 		Aim to make it a positive one.
@@ -111,6 +94,10 @@ Specific factors include:
 	* Pre-eclampsia
 	* Placenta position
 * Expected operative duration
+	* Multiple previous abdominal surgeries
+	* Multiple previous caesarian sections
+	* Combined operation  
+	e.g. hysterectomy.
 
 
 ###Indications for Antenatal Anaesthetics Review
@@ -140,7 +127,7 @@ Specific factors include:
 
 
 ##Preparation{#prep}
-* Give antacid prophylaxis
+* Give **antacid prophylaxis**
 	* Ranitidine 150mg PO  
 	2 hours prior to surgery.
 	* 30ml sodium citrate  
@@ -149,152 +136,20 @@ Specific factors include:
 Cycle BP cuff minutely from induction until delivery.
 	* Treat hypotension aggressively with vasopressor  
 	Treat nausea aggressively with vasopressor, as this is often a sign of hypotension.
-* Give supplemental oxygen if <95% on air
-* Wedge  
+* Give supplemental oxygen if < 95% on air
+* **Wedge**  
 Under right hip to displace the gravid uterus off the IVC, and ensure venous return.
 * Large IVC  
 16G or bigger ideal, 18G acceptable.
-* Volume load  
-Up to 10ml/kg of crystalloid.
 * Start phenylephrine infusion on commencement of anaesthesia, aiming to preserve the baseline BP  
 **Generally 30**-60**ml/hr of 100ug/ml of phenylephrine**.
 	* Adjust infusion rate each minute depending on the blood pressure  
 	25-50% increments are reasonable.
 	* Phenylephrine is the preferred agent as it does not constrict the spiral arteries
 	* 100μg bolus can be used to treat hypotension
-* Ensure oxytocin available
+* Ensure **oxytocin available**
 * Prophylactic antibiotics  
 Should be given prior to skin incision.
-
-
-##Induction
-Induction varies on anaesthetic technique used:
-
-
-###Template for GA CS
-* Preoxygenate
-* Surgeons scrubbed
-* Abdomen prepped and draped
-* Perform RSI  
-Ensure adequate doses induction agent and relaxant.
-	* Thiopentone 5-7mg/kg
-	* Propofol is associated with poorer neonatal status
-	* Suxamethonium 1-2mg/kg  
-	Additional relaxation should not be required, but as only trivial amounts of NMBD cross the placenta and extra can be given without concern for foetal effects if required.
-	* Alfentanil  
-	Reasonable in patients with severe cardiac disease or hypertensive disorders of pregnancy.
-* Intubate  
-A slightly smaller tube may make intubation easier and will be adequate to ventilate with.
-* Commence ventilation
-	* 50% O<sub>2</sub>/50% N<sub>2</sub>O  
-	MAC-sparing, thereby reducing tocolytic effects of volatile agent.
-	* Over-pressure volatile  
-	Target >0.8 MAC.
-* Aim low-nomral CO<sub>2</sub>
-* At delivery
-	* Give analgesia  
-	Opioid, paracetamol, NSAID.
-		* Opioids administered before delivery may cause foetal depression  
-		Alert paediatrics if this occurs.
-	* (Give oxytocin as well, as per obstetrician request)
-	* Increase FiN<sub>2</sub>O to 0.67 and reduce volatile  
-	Decrease tocolysis, aiming to decrease uterine bleeding.
-		* Can consider use of additional IV agents (e.g. midazolam) to further reduce MAC and volatile requirements
-* Consider regional analgesia
-	* TAP block
-	* Rectus sheath catheters.
-* Extubate awake
-
-
-###Template for Spinal for CS
->"It is easier to manage a high block than an inadequate one"
-
-* Discuss with patient that:
-	* Spinal does not remove all sensation
-	* Discomfort will be felt at certain points
-		* Pull prior to uterine incisoin
-		* Upper abdominal pressure to deliver baby
-* Sitting position preferred if patient will tolerate this
-* Premedication is acceptable for anxiolysis
-	* Midazolam 0.02mg/kg
-* Perform spinal  
-[Many different options for dosing](#dosing). At the Royal Womens Hospital (Melbourne), a total volume of 3ml is used:
-	* 2.2ml of 0.5% heavy bupivacaine
-	* 15μg of fentanyl
-	* 100μg intrahtecal morphine
-
-
-* Lie supine with pillow
-	* Trendelenburg can be used to increase the cranial spread
-	* Reverse trendelenburg will reduce cranial spread   
-	Increase the degree of tilt if block is rising/rises too cranially.
-* Place wedge
-* Commence phenylephrine infusion
-* Test the block
-	* No block  
-		* Consider repeat spinal  
-		May cause exaggerated haemodynamic response.
-		* Consider GA
-	* Inadequate block  
-	Consider epidural and slow titration of LA.
-
-####Principles of Spinal Dosing{#dosing}
-In general:
-* Much research has been done
-* Little of it demonstrates significant superiority for one technique over another
-* Local anaesthetics:
-	* Bupivacaine 8-12mg  
-	Block will recede after 1.5 hours, though some block will remain after 2.5 hours.
-		* Hyperbaric bupivacaine has a more rapid onset and the level can be adjusted by moving the table
-	* Lignocaine generally avoided because of transient neurological symptoms
-	* Ropivacaine has a much shorter intrathecal duration of action
-* Opioids  
-May be added to improve analgesia intra- and post-operatively.
-	* Fentanyl 10-25μg
-	* Morphine 50-150μg  
-	Provides longer lasting analgesia in exchange for risks of PONV, pruritis (can be severe), and late respiratory depression.
-
-
-###Template for Epidural Top-Up for CS{#etu}
-* Test the current block  
-* Incrementally top up epidural
-	* 2% lignocaine with 1:200,000 of adrenaline  
-	5ml bolus Q2-3 min, up to 7mg/kg.
-	* 0.5% bupivacaine/levobupivacaine/ropivacaine  
-	5ml bolus Q4-5min up to 2mg/kg.
-	* Additional opioid  
-	e.g. 100μg fentanyl.
-* Test the block  
-	* No block  
-	Catheter may be inadequately positioned. Consider:
-		* Resiting epidural
-		* Peforming spinal
-	* Inadequate block  
-	Epidural may be resited or withdrawn.
-		* Consider
-			* Further top-up  
-			Ensure that further top-ups will not prohibit performing a spinal if required.
-			* Spinal
-		* If LA dose limit has been reached:
-			* Consider abandoning  
-			For elective procedures.
-			* Convert to GA  
-			For emergency procedures.
-
-
-###Template for CSE for CS
-* Sit patient up
-* Perform CSE  
-Can be performed as:
-	* Needle-through-needle technique
-	* Two-needle technique
-* Dosing
-	* Most cases given a full-dose spinal with subsequent epidural top-up if required
-	In addition to top up with LA, 10mls 0.9% NaCl can be given through the epidural to compress the dural sac and encourage cranial spread of intrathecal LA.
-	* Can alternatively give a half-dose spinal, followed by intentional titration  
-	More haemodynamically stable, and confirms adequate positioning of epidural.
-* Test the block  
-As per [epidural top-up](#etu).
 
 
 ##Intraoperative
@@ -306,11 +161,14 @@ This section is divided into:
 
 
 ###Surgical Stages
-* Test block
-* Laparotomy
+* Test block (if regional)
+* Transverse laparotomy  
+Generally little muscle relaxation is required.
 * Peritoneal retraction
 * Uterine incision  
 If amnion is intact then amniotic fluid will enter abdominal cavity.
+* Delivery
+* Uterine closure and haemostasis
 
 
 ###General Complications of CS
@@ -321,95 +179,22 @@ Typically due to poor tone.
 	* Uterine massage
 	* Oxytocin
 
-###Complications of Regional Techniques in CS
-* Bradycardia
-	* May be due to vena cava compression or blockade of cardioaccelerator fibres
-	* Should be treated if <50 and associated with hypotension
-	* 200-400ug glycopyrrolate is the preferred agent  
-	Does not cross placenta.
-
-
-* Nausea and vomiting  
-	* Predominantly due to hypotension
-	* May be due to visceral manipulation or rapid administration of oxytocic  
-	Amenable to vasopressors.
-
-
-* Hypotension  
-	* First line treatment should be pressor agents  
-	Adjust phenylephrine infusions, covered [here](#prep).
-
-
-* Inadequate blockade
-	* Pain  
-		* Generally due to no block of high thoracic dermatomes.
-		* Alternate technique required in up to 10%
-		* Additional analgesia required in up to 15%  
-		Options include:
-			* Reassurance
-			* Epidural top-up (if available)
-			* Nitrous oxide
-			* IV opioid  
-			Alert paediatrics if this is given prior to delivery. Short acting agents preferred:
-				* Alfentanil
-				* Fentanyl
-			* Conversion to GA  
-				* Generally comply with this if the patient requests it and risk is not extreme
-				* Often required if pain occurs before foetal delivery
-				* Occurs in 2%
-
-
-* High spinal
-
-
-
-###Complications of GA in CS
-* Awareness  
-High risk in obstetric population, and especially CS:
-	* Occurs in ~1/670
-	* Multifactorial:
-		* High CO  
-			* Increased onset/offset of IV agents
-			* Decreased onset/offset of volatile agents
-		* No premedication
-		* Rapid onset of surgical stimulation following induction
-		* Increased V<sub>D</sub>
-	* 20% risk of new psychological morbidity following an awareness event
-
-
-* Failed intubation  
-Higher risk in obstetric population.
-	* Occurs in ~1/300
-	* Major cause of death in obstetric population
-	* Anatomical changes
-		* Laryngeal oedema
-		* Increased breast size
-		* Decreased safe apnoea time
-			* Increased VO<sub>2</sub>
-			* Decreased FRC
-
-
-* Aspiration  
-Increased risk in obstetric population.
-	* Major cause of death in obstetric population
-	* Occurs in 0.15% of obstetric GAs with unsecured airways
-	* 25mls of gastric contents may cause pulmonary complications
-	* Multifactorial:
-		* Lower gastric pH
-		* Increased gastric volume
 
 ##Postoperative
-Most departments have a standard post-operative analgesia management protocol. At the Royal Women's Hospital (Melbourne):
+Most departments have a standard post-operative analgesia management protocol. Consider:
 * Paracetamol 1g QID
 * Ibuprofen 400mg TDS
 * Tramadol 50-100mg IV/PO QID
 * Ondansetron 4-8mg IV/SL TDS
 * Metocloparmide 10mg IV/PO TDS
-* Naloxone 40μg SC Q1H  
-For itch.
-* Naloxine 100μg IV Q5 min  
-For RR < 8.
 
+* If intrathecal morphine given:
+	* Naloxone 40μg SC Q1H  
+	For itch.
+	* Naloxine 100μg IV Q5 min  
+	For RR < 8.
+* If no intrathecal morphine given:
+	* Oxycontin 20mg SR BD (wean in 1-2/7)
 
 ---
 ##References
