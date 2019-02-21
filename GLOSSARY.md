@@ -1,5 +1,8 @@
 # Glossary
 
+##AB
+Antibiotics *or* Abortion
+
 ##ACTH
 Adrenocorticotrophic Hormone
 
@@ -18,14 +21,29 @@ Adenosine diphosphate
 ##ADH
 Anti-Diuretic Hormone
 
+##AF
+Atrial Fibrillation *or* Anteflexed (uterus)
+
 ##AFE
 Amniotic Fluid Embolism
+
+##AFI
+Amniotic Fluid Index
+
+##AFP
+Alpha Foetal Protein
+
+##AMA
+Against Medical Advice *or* dvanced Maternal Age
 
 ##ANP
 Atrial Natriuretic Peptide
 
 ##Anchoring Bias
 Prematurely settling on a single diagnosis, and failing to adjust that diagnosis as new information becomes available.
+
+##AROM
+Artificial Rupture of Membranes
 
 ##ASD
 Atrial Septal Defect
@@ -39,6 +57,9 @@ Antepartum Haemorrhage
 ##APL
 Adjustable Pressure-Limiting
 
+##AV
+Aortic Valve *or* Anteverted (uterus)
+
 ##AVA
 Aortic Valve Area
 
@@ -50,6 +71,24 @@ Brain Natriuretic Peptide
 
 ##BMR
 Basal Metabolic Rate
+
+##BPD
+Biparietal Diameter
+
+##bpm
+Beats per minute
+
+##BPP
+Biophysical Profile
+
+##BSO
+Bilateral Salpingo-oophorectomy
+
+##BTBV
+Beat-to-beat variation
+
+##BTL
+Bilateral Tubal Ligation
 
 ##BURP
 Backwards, Upwards, Rightwards Pressure
@@ -96,6 +135,9 @@ Continuous Positive Airway Pressure
 ##CPB
 Cardiopulmonary Bypass
 
+##CPD
+Cephalopelvic Disproportion
+
 ##CPP
 Cerebral/Coronary Perfusion Pressure
 
@@ -110,6 +152,9 @@ Collecting Duct
 
 ##CTM
 Cricothyroid membrane
+
+##CTX
+Contactions (of uterus)
 
 ##CNIX
 Glossopharyngeal Nerve
@@ -162,6 +207,9 @@ Electron Transport Chain
 ##ECF
 Extracellular Fluid
 
+##ECV
+External Cephalic Version
+
 ##EDP
 End-Diastolic Pressure
 
@@ -173,6 +221,12 @@ Electroencephalogram
 
 ##EF
 Ejection Fraction
+
+##EFM
+External Foetal Monitoring
+
+##EGA
+Estimated Gestational Age
 
 ##ELM
 External Laryngeal Manipulation
@@ -198,6 +252,9 @@ Free Fatty Acid
 ##FGF
 Fresh Gas Flow
 
+##FHR
+Foetal Heart Rate
+
 ##FOI
 Fibreoptic Intubation
 
@@ -212,6 +269,12 @@ Follicle Stimulating Hormone
 
 ##FVC
 Forced Vital Capacity
+
+##GBS
+Group B Streptococcus
+
+##GDM
+Gestational Diabetes
 
 ##GFR
 Glomerular Filtration Rate

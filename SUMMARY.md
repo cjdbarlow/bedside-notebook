@@ -113,7 +113,8 @@
 * [Neurosurgery](/anaesthesia/neuro/craniotomy.md#id)
 	* [Craniotomy](/anaesthesia/neuro/craniotomy.md)
 	* [Aneurysm Clipping](/anaesthesia/neuro/aneurysm.md)
-* [Obstetric](/anaesthesia/obs/luscs.md#id)
+* [Obstetric](/anaesthesia/obs/terms.md#id)
+	* [Obstetric Terms](/anaesthesia/obs/terms.md)
 	* [Principles of Caesarian Section](/anaesthesia/obs/luscs.md)
 	* [GA Caesarian](/anaesthesia/obs/ga-luscs.md)
 	* [Regional Caesarian](/anaesthesia/obs/reg-luscs.md)
@@ -183,6 +184,9 @@
 	* [Hypertensive Disorders](/disease/obs/htn.md)
 	* [Antepartum Haemorrhage](/disease/obs/aph.md)
 	* [Postpartum Haemorrhage](/disease/obs/pph.md)
+
+##Investigations
+* [Cardiotocography](/investigations/ctg.md)
 
 ## Procedures
 * [Airway Procedures](/procedures/airway/bmv.md#id)
