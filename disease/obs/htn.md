@@ -117,6 +117,8 @@ Key therapy is **magnesium**. Magnesium has:
 			* What is the current BP?
 			* What is the trend in the BP?
 			* What antihypertensive agents is the patient taking?
+	* Volume state  
+	May have ↓ intravascular volume; **↑ hypotension with neuraxial techniques**.
 * D
 	* Liklihood of eclampsia  
 	Evaluate presence of:

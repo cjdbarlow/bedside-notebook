@@ -14,7 +14,7 @@ Divided into 4 categories:
 	* **Cat 1**  
 	Imminent threat to life of mother or foetus.
 		* Objective is to deliver baby as rapidly as possible whilst being safe  
-		Epidural top-up (if available) or GA otherwise. Spinal is associated with ~8-10 minute additional anaesthetic time.
+		**Epidural top-up (if available) or GA otherwise**. Spinal is associated with ~8-10 minute additional anaesthetic time.
 	* **Cat 2**  
 	Maternal or foetal compromise that is not imminently life threatening.
 	* **Cat 3**  

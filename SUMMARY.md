@@ -115,6 +115,7 @@
 	* [Aneurysm Clipping](/anaesthesia/neuro/aneurysm.md)
 * [Obstetric](/anaesthesia/obs/terms.md#id)
 	* [Obstetric Terms](/anaesthesia/obs/terms.md)
+	* [Obstetric Considerations](/anaesthesia/obs/principles.md)
 	* [Principles of Caesarian Section](/anaesthesia/obs/luscs.md)
 	* [GA Caesarian](/anaesthesia/obs/ga-luscs.md)
 	* [Regional Caesarian](/anaesthesia/obs/reg-luscs.md)
