@@ -102,6 +102,7 @@ Divided into:
 	* Risk categorisation of drugs
 	* Examples
 * [Labour](#labour)
+	* Induction of labour
 	* Premature labour
 	* Foetal distress
 
@@ -226,7 +227,32 @@ Active management of S3 significantly reduces PPH and maternal mortality. Active
 	* Controlled cord traction
 
 
-####Premature Labour
+####Induction of Labour{#induction}
+Artificial techniques to initiate the process of labour. Induction is performed:
+* For:
+	* Pregnancy reasons
+		* PD
+		* Twin pregnancy > 38 weeks
+		* PROM  
+		See [premature rupture of membranes](/anaesthesia/obs/terms.md)
+		* FDIU
+	* Maternal disease
+		* [Preeclampsia](/disease/obs/htn.md)
+		* Diabetes
+	* Foetal
+		* IUGR
+* By:
+	* Pharmaceutical means:
+		* Intravaginal or endocervical prostaglandin
+		* Intravenous oxytocin  
+	* Non-pharmaceutical means:
+		* Membrane sweep  
+		Digital stimulation of the cervix to release endogenous prostaglandins.
+		* AROM
+		* Cervical ripening balloon
+
+
+####Premature Labour{#preterm}
 Premature:
 * Labor occurs prior to 37 weeks gestation
 * Birth occurs in ~10% of deliveries  

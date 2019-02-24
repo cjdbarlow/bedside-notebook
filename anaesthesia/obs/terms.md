@@ -97,7 +97,7 @@ Where the [presenting part](#pp) is the bottom or feet. Breech presentations are
 ##Cephalopelvic Disproportion - CPD
 Mismatch between size of foetal head and maternal pelvis. Results in obstructed labour due to mechanical failure to progress, and commonly leads to caesarian section.
 
-##Cord Prolapse
+##Cord Prolapse{#cord}
 Prolapse of umbilical cord through an open cervix in advance of the [presenting part](#pp). Cord prolapse:
 * May lead to rapid foetal ischaemia and death - this is an **obstetric emergency** 
 Requires rapid intervention and commonly operative delivery. Broadly, management consists of:
@@ -130,7 +130,7 @@ About half are iatrogenic, due to:
 ##Cartiotocograph - CTG
 Electronic measurement of foetal heart rate and uterine tone.
 
-##Dilation
+##Dilation{#dilation}
 First stage of labour is defined by extent (in cm) of cervical dilation, and is divided into:
 * Latent phase  
 Softening and shortening of cervix. Occurs from 0-3cm.
@@ -159,6 +159,9 @@ Measure of age of pregnancy in weeks, i.e. x/40. May be calculated from:
 * Days since last menstrual period
 * Size of foetus on early obstetric ultrasound
 * Days since oocyte retrieval (if IVF)
+
+##Foetal Death in Utero - FDIU {#fdiu}
+Death occurring after point of viability, usually 20 weeks.
 
 ##Group B Strep - GBS
 Bacteria which commonly colonises maternal vagina. GBS colonisation:
@@ -216,31 +219,53 @@ Woman who has had multiple deliveries.
 * Grand multipara  
 Woman who has had 5 or more deliveries.
 
+##Hydrops Foetalis  
+Abnormal accumulation of fluid:
+* With at least two of:
+	* Subcutaneous oedema
+	* Ascites
+	* Pleural effusion
+	* Pericardial effusion
+* Classified into:
+	* Immune  
+	10-20% of cases.
+		* [Rhesus isoimmunisation](#rhesus)  
+		High-output cardiac failure secondary to anaemia.
+	* Non-immune:  
+		* Cardiac failure
+		* Venous obstruction
+		* Lymphatic obstruction
+		* Decreased oncotic pressure
 
-##Foetal Death in Utero - FDIU {#fdiu}
-Death occurring after point of viability, usually 20 weeks.
 
-##Indicated Low Forceps (ILF)
-
-##Intrauterine Foetal Demise (IUFD)
+##Intrauterine Foetal Demise - IUFD
 *See [FDIU](#FDIU).
 
-##Intrauterine Gestation (IUD)
 
-##Intrauterine Growth Restriction (IUGR){#iugr}
+##Intrauterine Growth Restriction - IUGR {#iugr}
+Estimated foetal weight that is **under the 10<sup>th</sup> centile** on ultrasound:
+* Does not imply pathology  
+May be normal, but also associated with:
+	* Uteroplacental insufficiency  
+	In turn associated with **severe preeclampsia**, which requires monitoring.
+	* ntepartum stillbirth
+	* Preterm delivery
+* Generally requires increased surveillance
+* May require early delivery for foetal or maternal reasons
 
 ##Internal Foetal Monitoring
 Describes foetal scalp pH and lactate electrodes, providing indications of foetal ischaemia and influence obstetric decision making around urgency of caesarian section.
 
-##Low Birth Weight (LBW)
+##Low Birth Weight - LBW
+Defined as birth weight < **2500g**. Related terms include:
+* Very low birth weight (VLBW)  
+Weight < 1500g.
+* Extremely low birth weight (ELBW)  
+Weight < 1000g.
 
-##Last Menstrual Perioid (LMP)
 
-##Left Occiput Anterior (LOA)
-
-##Left Occiput Posterior (LOP)
-
-##Left Occiput Transverse (LOT)
+##Last Menstrual Perioid - LMP
+Time of last menstrual period, used as a surrogate marker for when conception occured; usually 14 days after LMP.
 
 ##Miscarriage{#mis}
 Collection of terms, including:
@@ -267,12 +292,6 @@ Infection of retained products following an incomplete miscarriage.
 	* Requires cultures, antibiotics, resuscitation, and D&C
 
 
-##Normal Vaginal Delivery (NVD)
-
-##Occiput Anterior (OA)
-
-##Occiput Posterior (OP)
-
 ##Oligohydramnios{#oligo}
 Where amniotic fluid volume is less than expected for gestational age. Oligohydramnios:
 * Occurs in ~6% of pregnancies
@@ -285,9 +304,22 @@ Where amniotic fluid volume is less than expected for gestational age. Oligohydr
 	* [Post-dates](#pd)
 	* Chromosomal abnormalities
 
-##Pregnancy Induced Hypertension (PIH)
 
-##Post-Partum Day (PPD)
+##Pregnancy Induced Hypertension (PIH)
+*See [hypertension of pregnancy](/disease/obs/htn.md).
+
+##Presentations {#presentations}
+Position that the foetus sits in the birth canal. Includes:>
+* Cephalic  
+Normal, head-first. Includes:
+	* Occiput Anterior (OA)  
+	Includes left occiput anterior (LOA) and right occiput anterior (ROA).
+	* Occiput Posterior (OP)  
+	Includes left occiput posterior (LOP) and right occiput posterior (ROP).
+	* Occiput Transverse  
+	Includes left occiput transverse (LOT) and right occiput transverse (ROT).
+* [Breech](#breech)
+* Shoulder
 
 ##Polyhydramnios{#poly}
 Where amniotic fluid volume is greater than expected for gestational age. Polyhydramnios:
@@ -315,50 +347,88 @@ Where amniotic fluid volume is greater than expected for gestational age. Polyhy
 
 
 ##Presenting Part {#pp}
+Refers to which anatomical part of the foetus is closest to the birth canal. *See [presentations](#presentations)*.
 
-##Preterm Premature Rupture of Membranes (PPROM)
+##Preterm Premature Rupture of Membranes - PPROM
+PROM occurring prior to 37 weeks.
 
-##Premature Rupture of Membranes (PROM)
+##Premature Rupture of Membranes - PROM
+Rupture of the amniotic sac prior to onset of labour. May lead to:
+* Foetal:
+	* Premature birth
+	* Cord compression  
+	*See [cord prolapse](#cord).*
+	* Infection
+* Maternal:
+	* Placental abruption  
+	*See [PPH](/obstetric/disease/obs/pph.md).*
+	* Endometritis
 
-##Preterm labour (PTL)
+##Preterm labour - PTL
+Onset of labour prior to 37 weeks. *See [preterm labour](/disease/obs/preg.md#preterm)*.
 
-##Post-Dates{#pd}
+##Post-Dates{#pd} - PD
+Pregnancy extending past 42 weeks.
 
-##Retroflexed (RF)
-
-##Right Occiput Anterior (ROA)
 
 ##Rhesus
+Refers to maternal Rhesus status, either RH(-) or RH(+). This is important as:
+* Rh(-) mothers may develop Anti-RH(+) if the foetus is RH(+)  
+Due to foetal-maternal transfer of blood.
+* May lead to haemolytic disease of the newborn  
+Anaemia may be:
+	* Mild  
+	Observation/phototherapy.
+	* Moderate  
+	Exchange transfusion.
+	* Severe  
+	FDIU, [foetal hydrops](#hydrops).
 
-##Rule Out Labour (ROL)
 
-##Rupture of Membranes (ROM)
-
-##Right Occiput Posterior (ROP)
-
-##Right Occiput Transverse (ROT)
+##Rupture of Membranes - ROM {#rom}
+Breakage of the amniotic sac, causing amniotic fluid (the 'waters') to leak out of the vagina.
 
 
-##Small for Gestational Age (SGA)
+##Small for Gestational Age - SGA
+*See [IUGR](#iugr).
 
 ##Spontaneous Abortion (SAB)
 *See [miscarriage](#mis)*.
 
 
-##Spontaneous Rupture of Membranes (SROM)
+##Spontaneous Rupture of Membranes - SROM
+Unassisted/normal [ROM](#rom).
 
-##Station
+##Station{#station}
 Describes location of the [presenting part](#pp) of the foetus in reference to the ischial spines. Operative vaginal delivery is not recommended at negative station, i.e. when the presenting part is above the ischial spines.
 
-##Termination of Pregnancy (TOP)
+##Termination of Pregnancy - TOP
+Use of medication or surgery to end a pregnancy.
 
 ##Trial of Labour After Caesarian Section (TOLAC)
+Attempting normal vaginal delivery after previous caesarian. TOLAC is associated with:
+* Increased risk of **uterine rupture**
+* Re-do caesarian rate of ~50%
 
-##Vaginal Birth After Caesarian Section (VBAC)
+##Vaginal Birth After Caesarian Section - VBAC
+Successful vaginal delivery after previous caesarian.
 
-##Vasa Praevia
+##Vasa Praevia  
+Where foetal vessels within the amniotic membrane cover or are close to the internal cervical os. May lead to foetal death due to hypovolamic shock if foetal vessels rupture when [ROM](#rom) occurs.
 
-##Vaginal Examination (VE)
+##Vaginal Delivery
+Birth via the vagina. Related terms include:
+* Spontaneous Vaginal Delivery (SVD)  
+Labor and delivery achieved without induction, assisted, or caesarian.
+* Induced Vaginal Delivery  
+Artificial induction of labor, *see [induction of labour](/disease/obstetrics/preg.md#induction)*.
+* Normal Vaginal Delivery (NVD)
+Vaginal delivery without caesarian.
+* Assited/Instrumented Vaginal Delivery (AVD)  
+Vaginal delivery
+
+##Vaginal Examination - VE
+Internal examination performed to assess [dilation](#dilation), [station](#station), and [presentation](#presentations).
 
 ---
 ##References
@@ -378,3 +448,6 @@ Gynecol Surv. 2010 Jun;65(6):387-95.
 10. Department of Health. [Pregnancy Care Guidelines; Part F: Routine Maternal Health Tests 39: Group B Streptococcus](https://beta.health.gov.au/resources/pregnancy-care-guidelines/part-f-routine-maternal-health-tests/group-b-streptococcus). Australian Government. 2018.
 11. Nankervis A, Price S, Conn J. [Gestational diabetes mellitus: A pragmatic
 approach to diagnosis and management](https://www1.racgp.org.au/ajgp/2018/july/gestational-diabetes-mellitus). Aust J Gen Pract. 2018 Jul;47(7):445-449.
+12. Lausman A, Kingdom J; MATERNAL FETAL MEDICINE COMMITTEE. [Intrauterine growth restriction: screening, diagnosis, and management](https://www.jogc.com/article/S1701-2163(15)30865-3/fulltext). J Obstet Gynaecol Can. 2013 Aug;35(8):741-748. doi: 10.1016/S1701-2163(15)30865-3.
+13. Perinatology. [Hydrops Fetalis](http://perinatology.com/conditions/Hydrops.htm). Perinatology. 2015.
+14. RANZCOG. [Vasa praevia](https://www.ranzcog.edu.au/RANZCOG_SITE/media/RANZCOG-MEDIA/Women's%20Health/Statement%20and%20guidelines/Clinical-Obstetrics/Vasa-praevia-(C-Obs-47)-Review-July-2016.pdf?ext=.pdf). RANZCOG. 2016.

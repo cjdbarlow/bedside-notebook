@@ -194,8 +194,8 @@ Anaesthetic techniques, in order of preference:
 * Ensure coagulation profile has been sent
 
 ###Uterine Inversion
->Haemorrhagic shock is common
->Uterine relaxation
+>Haemorrhagic shock is common  
+>Uterine relaxation may be required
 
 Anaesthetic techniques:
 * Regional  

@@ -315,6 +315,18 @@ In-Plane
 ##ITTP
 Idiopathic Thrombocytopenic Purpura
 
+##IUD
+Intrauterine Device
+
+##IUFD
+Intrauterine Foetal Demise
+
+##IUG
+Intrauterine Gestation
+
+##IUGR
+Intrauterine Growth Restriction
+
 ##IVC
 Inferior Vena Cava
 
@@ -330,6 +342,9 @@ Left Anterior Descending
 ##LBBB
 Left Bundle Branch Block
 
+##LBW  
+Low Birth Weight.
+
 ##LCx
 Left Circumflex
 
@@ -338,6 +353,18 @@ Lutenising Hormone
 
 ##LIMA
 Left Internal Mammary Artery
+
+##LMP
+Last Menstrual Period
+
+##LOA  
+Left Occiput Anterior
+
+##LOP
+Left Occiput Posterior
+
+##LOT  
+Left Occiput Transverse
 
 ##LVEDP
 Left Ventricular End-Diastolic Pressure
@@ -390,11 +417,17 @@ N-type Opioid Receptor
 ##NPA
 Nasopharangeal Airway
 
+##OA
+Osteoarthritis *or* Occiput Anterior (obstetrics)
+
 ##OHG
 Oral Hypoglycaemic
 
 ##OOP
 Out-Of-Plane
+
+##OP  
+Occiput Posterior
 
 ##OPA
 Oropharyngeal Airway (Guedel Airway)
@@ -412,13 +445,16 @@ Proximal Convoluted Tubule
 Pulmonary Capillary Wedge Pressure
 
 ##PD
-Peritoneal Dialysis
+Peritoneal Dialysis *or* Post-Dates (obstetrics)
 
 ##PDA
 Posterior Descending Artery
 
 ##PDE
 Phosphodiesterase
+
+##PDGF
+Platelet-Derived Growth Factor
 
 ##PEA
 Pulseless Electrical Activity
@@ -429,17 +465,27 @@ Positive End-Expiratory Pressure
 ##PEFR
 Peak Expiratory Flow Rate
 
-##PDGF
-Platelet-Derived Growth Factor
 
 ##Pip
 Peak inspiratory pressure
+
+##PPROM
+Preterm Premature Rupture of Membranes
+
+##PROM
+Premature Rupture of Membranes
+
+##PPD
+Post-partum Day
 
 ##PPH
 Postpartum Haemorrhage
 
 ##PPV
 Pulse Pressure Variation
+
+##PTL
+Preterm Labour
 
 ##PV
 Per Vaginal
@@ -455,6 +501,18 @@ Respiratory Rate
 
 ##RNA
 Ribonucleic Acid
+
+##ROA  
+Right Occiput Anterior
+
+##ROM
+Rupture of Membranes
+
+##ROP  
+Right Occiput Posterior
+
+##ROT  
+Right Occiput Transverse
 
 ##RVEDP
 Right Ventricular End-Diastolic Pressure
@@ -474,8 +532,14 @@ Serum Creatinine
 ##SCV
 Subclavian Vein
 
+##SGA
+Small for Gestational Age
+
 ##SLED
 Sustained Low-Efficiency Dialysis
+
+##SROM
+Spontaneous Rupture of Membranes
 
 ##STP
 Standard Temperature and Pressure (0°C at 100kPa)
@@ -501,11 +565,17 @@ Total Body Water
 ##TLC
 Total Lung Capacity
 
+##TOP
+Termination of Pregnancy
+
 ##TSH
 Thyroid Stimulating Hormone
 
 ##URTI
 Upper Respiratory Tract Infection
+
+##VBAC
+Vaginal birth after caesarian section
 
 ##VIE
 Vacuum Insulated Evaporator
