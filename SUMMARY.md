@@ -51,6 +51,8 @@
 * [Haematological](/management/haeme/anticoag.md#id)
 	* [Anticoagulation](/management/haeme/anticoag.md)
 	* [Transfusion & Products](/management/haeme/bloodproduct.md)
+* [Obstetric](/management/obs/intrauterineresus.md#id)
+	* [Intrauterine Resuscitation](/management/obs/intrauterineresus.md)
 
 ##Anaesthesia
 * [Anaesthetic Emergencies](/anaesthesia/crisis/anaesthetic-crisis.md)
@@ -119,6 +121,7 @@
 	* [Principles of Caesarian Section](/anaesthesia/obs/luscs.md)
 	* [GA Caesarian](/anaesthesia/obs/ga-luscs.md)
 	* [Regional Caesarian](/anaesthesia/obs/reg-luscs.md)
+	* [Trial of Forceps](/anaesthesia/obs/tof.md)
 * [Orthopaedic](/anaesthesia/ortho/torniquets.md#id)
 	* [Intraoperative Torniquets](/anaesthesia/ortho/torniquets.md)
 	* [THR](/anaesthesia/ortho/thr.md)

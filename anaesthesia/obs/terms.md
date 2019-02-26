@@ -130,6 +130,25 @@ About half are iatrogenic, due to:
 ##Cartiotocograph - CTG
 Electronic measurement of foetal heart rate and uterine tone.
 
+##Contractions
+Tightening and shorterning of uterine muscle, causing the cervix to shorten and foetus to move into the birth canal. Key terms:
+* Number of contractions  
+Quantified as number per 10 minutes, e.g. 4:10.
+	* Tachysystole is >5:10  
+	May be associated with increased foetal acidosis, and is associated with placental abruption.
+* Duration  
+Time in seconds from onset to offset.
+* Relaxation time  
+Time in minutes and seconds between contractions.
+* Resting tone  
+Intrauterine pressure during relaxation.
+	* Qualified as 'soft' or 'firm'
+	* Quantified in mmHg if transduced directly
+* Strength/intensity  
+Intrauterine pressure during contaction.
+	* Qualified as 'mild', 'moderate', or 'strong'
+	* Quantified as peak pressure in mmHg if transduced directly
+
 ##Dilation{#dilation}
 First stage of labour is defined by extent (in cm) of cervical dilation, and is divided into:
 * Latent phase  
@@ -292,6 +311,9 @@ Infection of retained products following an incomplete miscarriage.
 	* Requires cultures, antibiotics, resuscitation, and D&C
 
 
+##Nucal Cord
+Where umbilical cord wraps around the foetal neck.
+
 ##Oligohydramnios{#oligo}
 Where amniotic fluid volume is less than expected for gestational age. Oligohydramnios:
 * Occurs in ~6% of pregnancies
@@ -451,3 +473,4 @@ approach to diagnosis and management](https://www1.racgp.org.au/ajgp/2018/july/g
 12. Lausman A, Kingdom J; MATERNAL FETAL MEDICINE COMMITTEE. [Intrauterine growth restriction: screening, diagnosis, and management](https://www.jogc.com/article/S1701-2163(15)30865-3/fulltext). J Obstet Gynaecol Can. 2013 Aug;35(8):741-748. doi: 10.1016/S1701-2163(15)30865-3.
 13. Perinatology. [Hydrops Fetalis](http://perinatology.com/conditions/Hydrops.htm). Perinatology. 2015.
 14. RANZCOG. [Vasa praevia](https://www.ranzcog.edu.au/RANZCOG_SITE/media/RANZCOG-MEDIA/Women's%20Health/Statement%20and%20guidelines/Clinical-Obstetrics/Vasa-praevia-(C-Obs-47)-Review-July-2016.pdf?ext=.pdf). RANZCOG. 2016.
+15. Garite TJ, Simpson KR. [Intrauterine resuscitation during labor](https://www.ncbi.nlm.nih.gov/pubmed/21278499). Clin Obstet Gynecol. 2011 Mar;54(1):28-39.
