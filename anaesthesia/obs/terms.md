@@ -282,6 +282,13 @@ Weight < 1500g.
 * Extremely low birth weight (ELBW)  
 Weight < 1000g.
 
+##Kleihauer-Betke Test
+Quantitative assessment of volume of foetomaternal haemorrhage, used both to diagnose the presence of foetal-maternal blood transfer and determine the dose of anti-D required in an Rh- mother. The Kleihauer test:
+* Measures foetal hameoglobin
+* Has poor sensitivity and reproducibility
+* Tends to overestimate haemorrhage
+* Cannot identify the source foetal haemoglobin
+Most inaccurate during 2<sup>nd</sup> trimester when maternal HbF is high
 
 ##Last Menstrual Perioid - LMP
 Time of last menstrual period, used as a surrogate marker for when conception occured; usually 14 days after LMP.
@@ -474,3 +481,4 @@ approach to diagnosis and management](https://www1.racgp.org.au/ajgp/2018/july/g
 13. Perinatology. [Hydrops Fetalis](http://perinatology.com/conditions/Hydrops.htm). Perinatology. 2015.
 14. RANZCOG. [Vasa praevia](https://www.ranzcog.edu.au/RANZCOG_SITE/media/RANZCOG-MEDIA/Women's%20Health/Statement%20and%20guidelines/Clinical-Obstetrics/Vasa-praevia-(C-Obs-47)-Review-July-2016.pdf?ext=.pdf). RANZCOG. 2016.
 15. Garite TJ, Simpson KR. [Intrauterine resuscitation during labor](https://www.ncbi.nlm.nih.gov/pubmed/21278499). Clin Obstet Gynecol. 2011 Mar;54(1):28-39.
+16. Callum J, Barrett J. [Kleihauer-Betke Test](https://www.sciencedirect.com/topics/medicine-and-dentistry/kleihauer-betke-test). Blood Banking and Transfusion Medicine: Basic Principles & Practice. 2<sup>nd</sup> Ed. 2007.
