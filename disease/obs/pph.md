@@ -2,7 +2,7 @@
 
 Postpartum haemorrhage is a major cause of maternal mortality. With respect to PPH:
 * Primary PPH is blood loss the first 24 hours post-partum that:
-	* Exceeds >500ml
+	* Exceeds 500ml
 	* Causes haemodynamic instability
 * Massive PPH is loss of >50% of the circulating blood volume
 
@@ -157,13 +157,12 @@ Ensure active management of the third stage has been completed.
 	* Oxytocin 10 units IV  
 	Commence infusion at 10 units/hr; usually 40 units in 1L of CSL/NS/D5W over 4 hours.
 	* Ergometrine 0.25mg IM  
-	Can give a further 0.25mg IV; beware bronchospasm and hypertension.
+	Can give a further 0.25mg IV; beware bronchospasm and hypertension. Up to a total of 1mg.
 	* Metoclopramide 10mg IV
-	* Consider prostaglandin F2-alpha 1mg **IM**  
-	Can repeat up to 5 times.
+	* Carboprost 0.25mg **IM**  
+	Can repeat Q15 minutelyy, up to 2mg.
 	* Consider misoprostol 1mg **PR**
 	* Misoprostol
-	* Prostaglandin F2-alpha
 
 
 ###Trauma
@@ -192,6 +191,9 @@ Anaesthetic techniques, in order of preference:
 >"An empty, intact, **contracted** uterus will not bleed unless there is coagulopathy"
 
 * Ensure coagulation profile has been sent
+* Replacement of platelets and clotting factors
+* Consider TXA  
+Of dubious benefit in obstetric haemorrhage in the 1<sup>st</sup> world setting.
 
 ###Uterine Inversion
 >Haemorrhagic shock is common  
@@ -211,3 +213,4 @@ May be required if **uterine relaxation** needed, particularly in the case of **
 
 ---
 ##References
+1. RANZCOG. [Management of Postpartum Haemorrhage](https://www.ranzcog.edu.au/RANZCOG_SITE/media/RANZCOG-MEDIA/Women%27s%20Health/Statement%20and%20guidelines/Clinical-Obstetrics/Management-of-Postpartum-Haemorrhage-(C-Obs-43)-Review-July-2017.pdf?ext=.pdf). RANZCOG. 2017.
