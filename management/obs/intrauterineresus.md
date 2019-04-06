@@ -1,30 +1,3 @@
-
-Conversation opened. 1 unread message.
-
-Skip to content
-Using Gmail with screen readers
-3 of 9,222
-(no subject)
-Inbox
-x
-
-Jake Barlow <cjdbarlow@gmail.com>
-Attachments
-Mon, Feb 25, 9:09 PM (17 hours ago)
-to me
-
-
-
--- 
-
-Jake Barlow MBBS MPH
-Anaesthetic and Intensive Care Registrar
-The Alfred Hospital
-Melbourne
-
-w: jakebarlow.me | e: jake@jakebarlow.me | m: 0433 325 895
-3 Attachments
-
 #Intrauterine Resuscitation
 
 > General principle is to optimise foetal DO<sub>2</sub> by:

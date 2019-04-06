@@ -4,27 +4,24 @@
 
 ## Assessment
 
-* [Targeted Assessments](/assessment/targeted/trauma.md#id)
-	* [Pain](/assessment/targeted/chestpain.md#id)
-		* [Chest Pain](/assessment/targeted/chestpain.md)
+* [Targeted Assessments](/assessment/targeted/airway-assessment.md#id)
+	* [Airway Assessment](/assessment/targeted/airway-assessment.md)
+	* [CVS](/assessment/cvs/tachycardia.md#id)
+		* [Sinus Tachycardia](/assessment/cvs/tachycardia.md)
+	* [Disability](/assessment/targeted/neuro/unconscious.md#id)
+		* [Unconsciousness](/assessment/targeted/neuro/unconscious.md)	
+	* [Pain](/assessment/targeted/pain/chestpain.md#id)
+		* [Chest Pain](/assessment/targeted/pain/chestpain.md)
 	* [Trauma](/assessment/targeted/trauma.md)
-		* [Primary Survey](/assessments/targeted/primary-survey.md)
-		* [Secondary Survey](/assessments/targeted/secondary-survey.md)
-* [Anaesthetic Assessments](/assessment/anaesthetic/pre-anaesthetic.md)
+		* [Primary Survey](/assessment/targeted/primary-survey.md)
+		* [Secondary Survey](/assessment/targeted/secondary-survey.md)
+* [Anaesthetic Assessments](/assessment/anaesthetic/pre-anaesthetic.md#id)
+	* [Pre-Anaesthetic](/assessment/anaesthetic/pre-anaesthetic.md)
 	* [Anaesthetic Machine Check](/assessment/anaesthetic/machinecheck.md)
-	* [Intraoperative](/assessment/anaesthetic/intraoperative.md)
+	* [Intraoperative Assessment](/assessment/anaesthetic/intraoperative.md)
 * [The ICU Patient](/assessment/icu/icu-approach.md)
  	* [Neurological Exam](/assessment/icu/neurological-exam.md)
  	* [Brain Death Testing](/assessment/icu/braindeath.md)
-
----
-
-* [Airway](/assessment/airway/airway-assessment.md#id)
-	* [Airway Assessment](/assessment/airway/airway-assessment.md)
-* [CVS](/assessment/cvs/tachycardia.md#id)
-	* [Sinus Tachycardia](/assessment/cvs/tachycardia.md)
-* [Disability](/assessment/neuro/unconscious.md#id)
-	* [Unconsciousness](/assessment/neuro/unconscious.md)	
 
 
 ## Management
@@ -194,7 +191,7 @@
 	* [Postpartum Haemorrhage](/disease/obs/pph.md)
 
 ##Investigations
-* [Cardiotocography](/investigations/ctg.md)
+* [Cardiotocograph](/investigations/ctg.md)
 
 ## Procedures
 * [Airway Procedures](/procedures/airway/bmv.md#id)
