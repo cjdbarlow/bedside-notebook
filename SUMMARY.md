@@ -7,7 +7,7 @@
 * [Targeted Assessments](/assessment/targeted/trauma.md#id)
 	* [Pain](/assessment/targeted/chestpain.md#id)
 		* [Chest Pain](/assessment/targeted/chestpain.md)
-	* [Trauma](/assessment/trauma.md)
+	* [Trauma](/assessment/targeted/trauma.md)
 		* [Primary Survey](/assessments/targeted/primary-survey.md)
 		* [Secondary Survey](/assessments/targeted/secondary-survey.md)
 * [Anaesthetic Assessments](/assessment/anaesthetic/pre-anaesthetic.md)
