@@ -3,10 +3,24 @@
 *This section covers aspects common to peripheral nerve blockade.*
 
 This section is divided into:
+* The 'block time out'
 * Procedural techniques
 * Delivery mechanisms
 * LA dosing
 * Complications and risk-reduction methods
+
+##Block Time-Out {#timeout}
+Prior to performing a regional block:
+* Verify the **side** and **site** of proposed block with another clinician  
+Requires:
+	* Patient identification
+	* Checking of the surgical consent
+	* Identificaiton of a surgical site mark
+	* Discussion with the patient if possible
+	* Placement of a mark close enough to the block site to be visible whilst performing the block
+	* **Pausing *just*** prior to needle insertion to:
+		* Verify presence of side and site mark
+		* Verbally confirm site with the assistant
 
 ##Procedural Techniques
 Can use:
@@ -61,6 +75,11 @@ Ensure catheter position does not change.
 * Inject remainder of loading dose into catheter
 
 Postoperative management:
+* Unambiguous labelling of the giving set
+	* Tubing colour should be unique to regional analgesia infusions
+	* Infusion pumps should be unique to regional analgesia
+* Regular monitoring of physiological parameters and pain
+* Ideally daily review by the proceduralist or a trained delegate
 * Continue LA delivery:
 	* Constant infusion at 2-10ml/h
 	* Background infusion of 2ml/h with 5ml Q30min boluses PRN

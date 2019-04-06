@@ -4,17 +4,18 @@
 
 ## Assessment
 
-* [Systems Approach](/assessment/physician-approach.md)
-  * [Detailed Neurological Exam](/assessment/neurological-exam.md)
-* [Issues-Based Approach](/assessment/issues/chestpain.md#id)
-	* [Pain](/assessment/issues/chestpain.md#id)
-		* [Chest Pain](/assessment/issues/chestpain.md)
-* [Pre-Anaesthetic](/assessment/pre-anaesthetic.md)
-	* [Anaesthetic Machine Check](/assessment/machinecheck.md)
-* [Intraoperative](/assessment/intraoperative.md)
-* [Trauma](/assessment/trauma.md)
-	* [Trauma Epidemiology](/assessment/trauma-epi.md)
-* [Brain Death](/assessment/braindeath.md)
+* [Targeted Assessments](/assessment/targeted/trauma.md#id)
+	* [Pain](/assessment/targeted/chestpain.md#id)
+		* [Chest Pain](/assessment/targeted/chestpain.md)
+	* [Trauma](/assessment/trauma.md)
+		* [Primary Survey](/assessments/targeted/primary-survey.md)
+		* [Secondary Survey](/assessments/targeted/secondary-survey.md)
+* [Anaesthetic Assessments](/assessment/anaesthetic/pre-anaesthetic.md)
+	* [Anaesthetic Machine Check](/assessment/anaesthetic/machinecheck.md)
+	* [Intraoperative](/assessment/anaesthetic/intraoperative.md)
+* [The ICU Patient](/assessment/icu/icu-approach.md)
+ 	* [Neurological Exam](/assessment/icu/neurological-exam.md)
+ 	* [Brain Death Testing](/assessment/icu/braindeath.md)
 
 ---
 
@@ -73,7 +74,7 @@
 * [Perioperative Management](/anaesthesia/periop/periop-management.md)
 	* [Perioperative Anticoagulation](/anaesthesia/periop/periop-anticoag.md)
 * [General Anaesthesia](/anaesthesia/general/induction.md#id)
-	* [Induction Agents](/anaesthesia/general/induction.md#)
+	* [Induction Agents](/anaesthesia/general/induction.md)
 	* [Low-Flow Anaesthesia](/anaesthesia/general/low-flow.md)
 	* [TIVA](/anaesthesia/general/tiva.md)
 	* [Anaesthetic Strategies](/anaesthesia/general/inductionstrat.md)
@@ -98,7 +99,9 @@
 		* [Femoral Nerve](/anaesthesia/regional/fnb.md)
 		* [Fascial Iliaca](/anaesthesia/regional/fasciailiaca.md)
 		* [Sciatic](/anaesthesia/regional/sciatic.md)
-
+* [ANZCA Professional Documents](/anaesthesia/anzca/anzca.md)
+	* [Credentialling and Scope of Practice](/anaesthesia/anzca/credentialling.md)
+	* [PACU](/anaesthesia/anzca/pacu.md)
 ---
 
 * [Cardiac](/anaesthesia/cthr/cthr-principles.md#id)
@@ -144,6 +147,7 @@
 
 ## Intensive Care Medicine
 * [Post-Op Cardiac Surgery](/intensive-care/postop-cthr.md)
+* [Patient Transport](/intensive-care/transport.md)
 
 
 ## Disease

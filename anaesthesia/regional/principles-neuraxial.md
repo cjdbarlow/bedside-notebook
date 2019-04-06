@@ -37,6 +37,7 @@ WCC > 20 x 10<sup>9</sup>/L.
 	* Hypotension/hypovolaemia/shock states  
 	Exacerbated by drop in SVR.
 * Anxiety/behavioural concern
+* Lack of expertise in the technique and management of potential complications
 
 ###Coagulopathy{#coag}
 In general:
@@ -107,9 +108,26 @@ The epidural space:
 * Dura and arachnoid
 * Subarachnoid space
 
-
+##Complications
+Divided into:
+* Physiological  
+Arising due to effect of the drugs:
+    * Hypotension
+    * LAST
+    * Narcosis
+* Procedural
+    * Permanent nerve injury
+    * Bleeding
+        * Epidural haematoma
+    * Infection
+        * Epidural abscess
+    * Drug error
+        * Antiseptic injection
+    * [PDPH](/disease/cns/pdph.md)
+* Failure/Incomplete analgesia
 
 
 ---
 ##References
 1. Narouze S, Benzon HT, Provenzano D, Buvanendran A, De Andres J, Deer T, Rauck R, Huntoon MA. [Interventional Spine and Pain Procedures in Patients on Antiplatelet and Anticoagulant Medications (Second Edition): Guidelines From the American Society of Regional Anesthesia and Pain Medicine, the European Society of Regional Anaesthesia and Pain Therapy, the American Academy of Pain Medicine, the International Neuromodulation Society, the North American Neuromodulation Society, and the World Institute of Pain](https://journals.lww.com/rapm/fulltext/2018/04000/Interventional_Spine_and_Pain_Procedures_in.2.aspx). Reg Anesth Pain Med. 2018 Apr;43(3):225-262.
+2. ANZCA. [PS03: Guidelines for the Management of Major Regional Analgesia](http://www.anzca.edu.au/Documents/ps03-2014-guidelines-for-the-management-of-major-r.pdf).

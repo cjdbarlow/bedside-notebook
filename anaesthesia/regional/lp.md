@@ -38,6 +38,22 @@ Ends at L2 in adults and L3 in children.
 
 
 ##Equipment
+* Adequate IV access
+* Oxygen  
+If sedation is being used.
+* Monitoring  
+	* If performing regional anesthesia, ensure regular monitoring of:
+		* Blood pressure
+		* Respiratory rate
+		* Conscious state
+	* Additionally, ensure availability of:
+		* ECG
+		* Pulse oximetry
+* Infection control measures
+	* Sterile field
+	* Facemask
+	* Gloves
+	* Gown
 * Sterile prep  
 Should be dried prior to insertion.
 * Local anaesthetic and syringe  
@@ -56,7 +72,7 @@ If performing LP.
 If performing LP.
 
 ##Technique
-For LP:
+* Perform a [block time-out](/anaesthesia/regional/principles.md#timeout)
 * Position the patient
 	* Sitting is typically easier as the sagittal plain is aligned
 	* Lateral may be required for the uncooperative or sedated, or when measuring CSF pressures
@@ -132,3 +148,4 @@ Needle is likely within an epidural vein.
 ---
 ##References
 1. Janik R, Dick W, Stanton-Hicks MD. [Influence of barbotage on block characteristics during spinal anesthesia with hyperbaric tetracaine and bupivacaine](https://www.ncbi.nlm.nih.gov/pubmed/2486582?report=docsum&format=text). Reg Anesth. 1989 Jan-Feb;14(1):26-30.
+2. ANZCA. [PS03: Guidelines for the Management of Major Regional Analgesia](http://www.anzca.edu.au/Documents/ps03-2014-guidelines-for-the-management-of-major-r.pdf).

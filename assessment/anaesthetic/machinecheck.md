@@ -32,7 +32,7 @@ Connected and flow is adequate.
 	* Check soda lime
 	* Check ETCO<sub>2</sub> working
 6. Check for circuit leak  
-Leak should be <300ml/min for a circuit pressure >30cm H<sub>2</sub>O.
+Leak should be ≤300ml/min for a circuit pressure >30cm H<sub>2</sub>O.
 7. **Manual circuit check**  
 Attach a circuit bag to the patient y-piece and test:
 	* Circuit compliance
