@@ -41,9 +41,10 @@ WCC > 20 x 10<sup>9</sup>/L.
 
 ###Coagulopathy{#coag}
 In general:
-* Coagulation studies be performed prior to insertion if there is any concern  
+* Coagulation studies should be performed prior to insertion if there is any concern  
 Any abnormality of coagulation is always a *relative* contraindication.
-* Risk of haematoma exists on a continuum - a platelet count of 79 is not substantially more risky than a platelet count of 81.
+* Risk of haematoma exists on a continuum - a platelet count of 79 is not substantially more risky than a platelet count of 81  
+**Decision needs to be based upon a risk-benefit analysis for this particular patient.**
 * Risk varies depending on technique  
 Paravertebral is less risky than a spinal, which is less risky than a single-shot epidural, which is less risky than an epidural catheter.
 * Absolute thresholds will vary depending on the centre; one particular set of numbers is:

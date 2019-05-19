@@ -99,6 +99,13 @@
 * [ANZCA Professional Documents](/anaesthesia/anzca/anzca.md)
 	* [Credentialling and Scope of Practice](/anaesthesia/anzca/credentialling.md)
 	* [PACU](/anaesthesia/anzca/pacu.md)
+	* [Anaesthetic Record](/anaesthesia/anzca/record.md)
+	* [Preanaesthetic Consultation](/anaesthesia/anzca/pre-anaesthetic.md)
+	* [Anaesthetic Assistant](/anaesthesia/anzca/assistant.md)
+	* [Sedation and Analgesia](/anaesthesia/anzca/sed-and-analgesia.md)
+	* [Smoking Perioperatively](/anaesthesia/anzca/smoking.md)
+	* [Day Surgery](/anaesthesia/anzca/daystay.md)
+
 ---
 
 * [Cardiac](/anaesthesia/cthr/cthr-principles.md#id)
@@ -118,6 +125,7 @@
 * [Obstetric](/anaesthesia/obs/terms.md#id)
 	* [Obstetric Terms](/anaesthesia/obs/terms.md)
 	* [Obstetric Considerations](/anaesthesia/obs/principles.md)
+	* [Labour Analgesia](/anaesthesia/obs/labour-analgesia.md)
 	* [Principles of Caesarian Section](/anaesthesia/obs/luscs.md)
 	* [GA Caesarian](/anaesthesia/obs/ga-luscs.md)
 	* [Regional Caesarian](/anaesthesia/obs/reg-luscs.md)

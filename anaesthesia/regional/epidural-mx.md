@@ -1,7 +1,58 @@
 #Epidural Troubleshooting
-*This covers common and serious problems with both labour and post-operative epidurals.*
+*This covers management of the working and non-working epidurals. [Insertion of an epidural](/anaesthesia/regional/epidural.md) and the particulars of the [labour epidural](/anaesthesia/obs/labour-analgesia.md) are covered elsewhere.*
 
-Include:
+##Management of a Working Epidural
+Maintenance of analgesia can be performed via:
+* Intermittent boluses alone  
+Essentially a historical relic.
+* Continuous infusion with intermittent boluses
+* Patient Controlled Epidural Analgesia (PCEA)
+
+In general, maximal anaesthetic doses should be:
+* Ropivacaine 3-4mg.kg<sup>-1</sup>.6 hours<sup>-1</sup>
+* Bupivacaine 2-3mg.kg<sup>-1</sup>.6 hours<sup>-1</sup>
+* Reducedin:
+    * Hepatic failure
+    * Renal failure
+    * Severe hypoalbuminaemia
+
+
+###Continuous Infusion
+* Typically lower concentrations used to minimise motor block
+    * Ropivacaine 0.2%
+    * Bupivacaine 0.0625-0.125%
+* Generally run at 6-10ml/hr
+* May have 5ml boluses Q20min
+* Adjuvants include:
+    * Opioid  
+    Classically fentanyl.
+    * Adrenaline
+
+###Patient Controlled Epidural Analgesia
+* May be run with a background infusion
+* Reduced need for intervention
+* e.g. Ropivacaine 0.2% with 2μg/ml fentanyl:
+    * 5ml patient demand bolus, Q15 minute lockout
+
+###Catheter Removal
+Removal of an epidural can occur when:
+* Coagulation status is normal  
+Covered under [coagulopathy](/anaesthesia/regional/principles/principles-neuraxial.md#coag).
+* No longer therapeutically indicated
+* Risk of infection is too high to justify ongoing use
+Typically epidurals may stay up to **5 days** following insertion, though local procedure may vary.
+    * This needs to be balanced against the requirement for ongoing analgesia
+
+Removing the catheter:
+* Remove dressing
+* Apply gentle pressure to remove the catheter
+* Tip of catheter should be visible
+* If **catheter does not come out easily**  
+Place the patient in the same position they were in for insertion, and pull gently.
+
+
+##Troubleshooting an Epidural{#comp}
+Common issues include:
 * High Block
 * Inadequate analgesia
     * Patchy block
@@ -16,7 +67,10 @@ Symptoms include:
 * Difficulty breathing
 * Lightheadedness
 * Horner's Syndrome  
-Block may be between T4-T8.
+    * May occur following blockade of sympathetic ganglion of T1-4
+    * Occur commonly with epidural top-up for LUSCS  
+    Of itself, not of clinical significance.
+
 
 Treatment is based upon symptoms:
 * Hypotension  
@@ -25,6 +79,7 @@ Vasopressor, such as metaraminol.
 Atropine.
 * Hypoxia  
 Supplemental oxygen, respiratory support. 
+
 
 ###Inadequate Analgesia
 Can be defined as:

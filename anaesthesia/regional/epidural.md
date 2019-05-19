@@ -1,4 +1,5 @@
 #Epidural {#id}
+*This covers insertion of an epidural catheter. [Management of an epidural](/anaesthesia/regional/epidural-mx.md) (including complications of management), and particulars of the [labour epidural](/anaesthesia/obs/labour-analgesia.md) are covered elsewhere.*
 
 ##Indications and Contraindications
 *General contraindications to neuraxial techniques are covered under [principles of neuraxial anaesthesia](/anaesthesia/regional/principles/principles-neuraxial.md).*
@@ -49,24 +50,6 @@ Maternal hypertension may suggest pre-eclampsia.
 * Obtain consent
 * Prepare equipment
 
-####Informed Consent During Labour  
-Should still be performed, though is made more difficult by the situation. In general:
-* Women wish to be involved in the process
-* About 30% of information will be retained
-* Written consent is not required  
-Verbal consent should be documented.
-* Talk between contractions if possible
-* Involve the birth partner, particularly if contractions are continuous
-* Essential information includes:
-    * What will happen  
-    The position, what they will feel (e.g. skin local), the need to keep still.
-    * Risk of PDPH
-    * Risk of failure/inadequate analgesia
-    * Risk of instrumental delivery
-    * Back pain  
-    Over next 1-2 days, but not longterm.
-    * Risk of neurological complications  
-    Long term ~1:10,000.
 
 
 ###Procedure
@@ -75,6 +58,8 @@ Most failures are related to poor positioning.
     * If sitting, ensure:  
         * Flat, level mattress  
         Commonly bed is not level or mother may be sitting on the division in the mattress.
+            * If possible (e.g. operating table), bed can be tilted (slightly) so that the pelvis rocks forward, and the patient must bring their centre of gravity forwards to avoid toppling backwards off the bed  
+            This increases lumbar kyphosis.
         * Feet flat on a stool
         * As far back on the bed as possible  
         Patients back should be closest to you, with their calves touching the side of the bed.
@@ -94,6 +79,7 @@ Prime catheter with saline.
 * Skin local  
 23G needle is usually adequate to anaesthetise the interspinous ligament in the non-obese patient.
 
+
 * Approach may be midline or paramedian
 * Insert Tuohy  needle through the skin and supraspinous ligament  
     * Needle will be held firm in the ligament - on letting go the needle will be tethered, whilst it tends to fall if in fat
@@ -112,6 +98,8 @@ Prime catheter with saline.
         * Carefully advance the syringe < 1 mm at a time
         * Check for loss of resistance by intermittently ballotting the plunger
         * Minimal air should be injected into the space.
+
+
 * Remove syringe  
 Observe for:
     * CSF  
@@ -119,7 +107,8 @@ Observe for:
     * **Blood**  
     If blood returns through the Tuohy needle it should be withdrawn. Attempt cannulation at a **different interspace**.
 * Thread the catheter  
-    * Warn for potential of transient electric shock sensation
+    * Warn for potential of transient electric shock sensation  
+    Ensure this has resolved when the catheter has been adjusted to the correct position.
     * **Never withdraw the catheter through the Tuohy needle**  
     It may shear off and be retained in the epidural space.
     * Aim to leave the catheter at 3-5cm  
@@ -129,8 +118,10 @@ Observe for:
 * Observe catheter for:
     * Saline  
         * Continuous flow suggests [dural puncture](#adp)  
-        Can be confirmed with easy aspiration of CSF.
-        * Meniscal drop is not helpful once the dural space has been pressurised (i.e; with saline), and is rarely useful with loss of resistance to air techniques
+        Can be confirmed with:
+            * Easy aspiration of CSF
+            * Testing for presence of glucose
+        * **Meniscal drop is not helpful** once the dural space has been pressurised (i.e; with saline), and is rarely useful with loss of resistance to air techniques
     * **Blood**  
     Indicates cannulation of an epidural vein.
         * Epidural veins can be cannulated during insertion  
@@ -153,43 +144,10 @@ Observe for:
 
 
 * Connect filter  
-* Deliver [test dose](#test)   
+* Deliver test dose  
 Ensure HR, BP, and SpO<sub>2</sub> monitoring.
 * Apply dressing  
 Can provide second loading dose at this stage.
-
-
-####Test and Loading Doses{#test}
-The ideal test dose should:
-* Identify intrathecal injection
-    * Inject small volumes slowly and titrate to effect
-* Identify intravascular injection
-* Avoid haemodynamic instability
-* Give a slower onset of analgesia  
-Optimal onset time is 15 minutes. Rapid onset is associated with increased uterine tone and foetal bradycardia.
-
-
-#####A Good Loading Technique
-* 5ml 0.2% ropivacaine  
-    * If intrathecal, should be associated with warm sensation (as with spinal) and **rapid analgesia**  
-    Ask the patient if they have a substantial reduction in pain.
-    * Using a higher dose (e.g. 10ml) may also lead to early motor block, excessive sensory block, or hypotension
-* 100μg fentanyl
-    * If intravascular, should be associated with a potent opioid effect (analgesia, narcosis)
-* Further 10-15ml 0.2% ropivacaine  
-Titrated to achieve desired block height.
-
-
-#####Not-so-good Loading Techniques
-* 2% lignocaine  
-Associated with more motor block.
-* Adrenaline  
-Heart rate changes with 15-20μg of intravascular adrenaline are not reliably distinguishable from effect of epidural adrenaline, or normal heart rate variability.
-* Identify intravascular injection  
-Options include:
-    * Negative aspiration of blood prior to injection
-    * Adrenaline 15μg  
-    Neither **sensitive nor specific**, as it is associated with an increase in HR by ~30bpm for ~30s if intravascular, and ~20-30bpm if epidural. No respone may be seen in β-blocked patients.
 
 
 ###Post-Procedure{#post}
@@ -252,58 +210,8 @@ Localised pain due to tissue trauma from the needle is common. Note that:
 
 
 
-##Management
-Maintenance of analgesia can be performed via:
-* Intermittent boluses alone  
-Essentially a historical relic.
-* Continuous infusion with intermittent boluses
-* Patient Controlled Epidural Analgesia (PCEA)
-
-In general, maximal anaesthetic doses should be:
-* Ropivacaine 3-4mg.kg<sup>-1</sup>.6 hours<sup>-1</sup>
-* Bupivacaine 2-3mg.kg<sup>-1</sup>.6 hours<sup>-1</sup>
-* Reducedin:
-    * Hepatic failure
-    * Renal failure
-    * Severe hypoalbuminaemia
-
-
-###Continuous Infusion
-* Typically lower concentrations used to minimise motor block
-    * Ropivacaine 0.2%
-    * Bupivacaine 0.0625-0.125%
-* Generally run at 6-10ml/hr
-* May have 5ml boluses Q20min
-* Adjuvants include:
-    * Opioid  
-    Classically fentanyl.
-    * Adrenaline
-
-###Patient Controlled Epidural Analgesia
-* May be run with a background infusion
-* Reduced need for intervention
-* e.g. Ropivacaine 0.2% with 2μg/ml fentanyl:
-    * 5ml patient demand bolus, Q15 minute lockout
-
-###Catheter Removal
-Removal of an epidural can occur when:
-* Coagulation status is normal  
-Covered under [coagulopathy](/anaesthesia/regional/principles/principles-neuraxial.md#coag).
-* No longer therapeutically indicated
-* Risk of infection is too high to justify ongoing use
-Typically epidurals may stay up to **5 days** following insertion, though local procedure may vary.
-    * This needs to be balanced against the requirement for ongoing analgesia
-
-Removing the catheter:
-* Remove dressing
-* Apply gentle pressure to remove the catheter
-* Tip of catheter should be visible
-* If **catheter does not come out easily**  
-Place the patient in the same position they were in for insertion, and pull gently.
-
-
-##Management of Epidural-related Complications  
-*This covers complications of insertion. Troubleshooting the working epidural is covered [here](/anaesthesia/regional/epidural-mx.md).*
+##Management of Copmlications Relating to Epidural Insertion{#comp}  
+*This covers complications of insertion. Troubleshooting the working epidural is covered [here](/anaesthesia/regional/epidural-mx.md#comp).*
 
 
 Complications of epidural insertion include:
@@ -335,10 +243,8 @@ This is a higher risk technique.
     * *Cautiously* establish block  
     Typically, intrathecal doses are ~1/10<sup>th</sup>sup> of epidural doses.
         * Consider using 1.5-2ml of *0.25%* bupivacaine with 15µg of fentanyl
-    * Leave catheter in situ for 24 hours  
-        * Aids inflammatory response and healing of dural puncture.
-        * Reduces need for blood patch  
-        59% to 33%.
+    * Leave catheter in situ for 24 hours, but this is not supported by evidence  
+    Initially thought to reduce requirement for blood patch, however this is not born out in replication studies.
 * Remove and repeat
     * Higher risk of subsequent dural puncture
     * Cautiously test dose repeat epidural  
@@ -375,11 +281,6 @@ Evaluate foetal heart rate:
 
 ###Broken Epidural Catheter
 * Generally should be left in place
-
-###Horner's Syndrome  
-* May occur following blockade of sympathetic ganglion of T1-4
-* Occur commonly with epidural top-up for LUSCS  
-Of itself, not of clinical significance.
 
 ###Paraesthesia
 * Occurs in 5-25% of insertions

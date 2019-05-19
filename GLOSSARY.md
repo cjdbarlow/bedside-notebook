@@ -177,6 +177,9 @@ Chest X-Ray
 ##DBP
 Diastolic Blood Pressure
 
+##DC
+Discharge *or* Direct Current
+
 ##DCR
 Direct Current Cardioversion
 
@@ -435,6 +438,9 @@ Occiput Posterior
 ##OPA
 Oropharyngeal Airway (Guedel Airway)
 
+##OSA
+Obstructive Sleep Apnoea
+
 ##PAC
 Pulmonary Artery Catheter
 
@@ -443,6 +449,12 @@ Post-Anaesthesia Care Unit
 
 ##PBP
 Penicillin Binding Protein
+
+##PCA
+Patient Controlled Analgesia
+
+##PCEA
+Patient Controlled Epidural Analgesia
 
 ##PCT
 Proximal Convoluted Tubule
