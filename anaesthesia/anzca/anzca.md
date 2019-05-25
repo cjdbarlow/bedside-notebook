@@ -34,6 +34,12 @@ Covered under:
 * [PS15: Guidelines for the Perioperative Care of Patients Selected for Day Care Surgery](http://www.anzca.edu.au/Documents/ps15-2010-recommendations-for-the-perioperative-ca.pdf)  
 Covered under:
 	* [Day Surgery](/anaesthesia/anzca/daystay.md)
+* [PS18 Guidelines on Monitoring During Anaesthesia](http://www.anzca.edu.au/Documents/ps18-2015-guidelines-on-monitoring-during-anaesthe.pdf)  
+Covered under:
+	* [Monitoring](/anaesthesia/anzca/monitoring.md)
+* [PS26 Guidelines on Consent for Anaesthesia or Sedation](http://www.anzca.edu.au/Documents/ps26-2005-guidelines-on-consent-for-anaesthesia-or.pdf)  
+Covered under:
+	* [Consent](/anaesthesia/anzca/consent.md)
 
 ---
 ##References

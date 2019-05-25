@@ -105,6 +105,7 @@
 	* [Sedation and Analgesia](/anaesthesia/anzca/sed-and-analgesia.md)
 	* [Smoking Perioperatively](/anaesthesia/anzca/smoking.md)
 	* [Day Surgery](/anaesthesia/anzca/daystay.md)
+	* [Monitoring](/anaesthesia/anzca/monitoring.md)
 
 ---
 

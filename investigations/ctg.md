@@ -5,20 +5,61 @@ Cardiotocography is:
 * Widely used tool to assess foetal wellbeing
 	* Highly sensitive
 	* Poorly specific
+* Poor correlation with foetal outcome
+* Increases intervention rate  
+Caesarian or instrumental deliver.
+
+##Foetal Heart Rate
+Contributors (of unknown relative importance) include:
+* Sympathetic/parasympathetci tone
+* Baroreceptor effects
+* Chemoreceptor effects
+* Cord compression
+* Placental function
+* Uteroplacental function
 
 
 ##Interpretation
+Principles:
+* Accurate interpretation **relies on context**  
+Considerations:
+	* Gestational age
+	* In labour/not in labour
+	* Other symptoms  
+	e.g. Pain, bleeding.
+	* Risk factors
+	* Cardiac disease  
+	Foetal heart rate may not vary in the setting of a cardiac lesion (e.g. heart block).
+* Requires accurate foetal trace  
+Maternal trace may be being measured in error. Confirm foetal heart rate using:
+	* Maternal SpO<sub>2</sub> for heart rate  
+	Useful if foetal heart rate and maternal heart rate differ.
+	* Foetal scalp electrode
+
 Key features:
 * **Baseline FHR**  
-Mean FHR in bpm, when FHR is stable, over 5-10 minutes.
+Mean FHR in bpm, when FHR is stable, **when there is no contraction** over 5-10 minutes.
+	* Required to accurately assess the remainder of the CTG
+
+
 * **Baseline variability**  
-Minor fluctuation in baseline FHR; as assessed by the difference in peak and trough FHR over one minute.
-	* Normal 6-25 bpm
-	* Reduced 3-5 bpm
-	* Absent <3 bpm
-	* Increased > 25 bpm
+Minor fluctuation in baseline FHR; as assessed by the difference in peak and trough FHR over one minute. Variability is **important**.
+	* Normal 6-25 bpm  
+	* Increased > 25 bpm  
+	Unclear signifiance - may not be bad.
+	* Reduced 3-5 bpm  
+	Loss of variability is always a bad sign.
+		* Absent variability is <3 bpm
+
+
 * **Accelerations**  
 Transient increases of >15 bpm in FHR above baseline for at least 15s.
+	*  Normal to have >2 in 20 minutes when:
+		* Awake  
+		Foetal sleep phases last ~45 minutes.
+		* Not in labour
+
+
 * **Decelerations**  
 Transient decreases of >15 bpm in FHR below baseline for at least 15s. Subdivided into:
 	* **Early decelerations**  
@@ -28,10 +69,11 @@ Transient decreases of >15 bpm in FHR below baseline for at least 15s. Subdivide
 		* **Uniform** in shape
 		* **Start** and **finish with** the **contraction**
 	* **Variable decelerations**
-		* Rapid onsent and recovery
+		* Rapid onsent and recovery  
+		Deep 'V-shaped' decelerations.
 		* Variable relationship with the contraction  
 		Most are simultaneous with contraction.
-		* **Signifiance** is **variable**
+		* **Signifiance** depends on other findings
 		* **Complicated variable** decelerations are **non-reassuring**, and occur with:
 			* Rising baseline FHR
 			* Foetal tachycardia
@@ -40,8 +82,6 @@ Transient decreases of >15 bpm in FHR below baseline for at least 15s. Subdivide
 			* Deceleration nadir following peak contraction
 			* Large amplitude (60bpm) or long duration (60s) of deceleration
 			* Post-deceleration overshoots
-	* **Prolonged decelerations**  
-	Deceleration lasting 90s to 5 minutes.
 	* **Late decelerations**  
 		* Uniform, repetitive deceleration with:
 			* Slow onset in second half of contraction
@@ -50,6 +90,10 @@ Transient decreases of >15 bpm in FHR below baseline for at least 15s. Subdivide
 		* Indication that contraction is occurring in the presence of foetal hypoxia  
 		Therefore, will lack reasurring signs such as normal baseline variability, early decelerations.
 		* May be <15 bpm if foetus is profoundly hypoxic
+		* May not be distinguishable from **variable decelerations** however this is usually academic  
+	* **Prolonged decelerations**  
+	Deceleration lasting 90s to 5 minutes.
+
 * **Sinusoidal**  
 Smooth, regular oscillations at 2-5 cycles per minute with an amplitude of 5-15bpm. Indicates severe anaemia.
 
@@ -83,3 +127,4 @@ Low probability of foetal compromise. Features include:
 ---
 ##References
 1. The Royal Women's Hospital. Guideline: Cardiotocograph Interpretation and Response. The Royal Women's Hospital Melbourne. 2017.
+2. Woodward, A. CTG interpretation for the Anaesthetist. RWH Anaesthetic Tutorial Program.

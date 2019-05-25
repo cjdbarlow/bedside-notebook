@@ -77,6 +77,7 @@ Covers the process of cervical dilation (0-10cm).
 		* Desent of the presenting part
 	* **Normal** progress  
 	Based on rate of cervical dilation, should be **>1cm/hr**.
+		* 0.5cm/hr is 10<sup>th</sup> centile, and is often accepted
 * **Second stage**  
 Covers full dilation to delivery.
 	* Involves:
