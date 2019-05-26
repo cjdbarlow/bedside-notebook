@@ -28,7 +28,7 @@
 * [Cardiac Arrest](/management/cvs/neo.md#id)
 	* [Neonatal Resuscitation](/management/cvs/neo.md)
 	* [Post-Cardiac Surgery](/management/cvs/post-cthr.md)
-	* [OOHCA](/disease/cvs/oohca.md)
+	* [OOHCA](/management/cvs/oohca.md)
 
 ---
 
@@ -165,13 +165,19 @@
 		* [Massive Haemoptysis](/disease/airway/massive-haemoptysis.md)
 	* [Lower Airway](/disease/resp/bronchospasm.md#id)
 		* [Bronchospasm](/disease/resp/bronchospasm.md)
-* [CVS](/disease/cvs/mi.md#id)
-	* [Cardiac Muscle](/disease/cvs/mi.md#id)
-		* [Acute Myocardial Infarction](/disease/cvs/mi.md)
+* [CVS](/disease/cvs/cardiacfailure.md#id)
+	* [Cardiac Failure](/disease/cvs/cardiacfailure.md)
 		* [Right Ventricular Failure](/disease/cvs/rvfailure.md)
+	* [Ischaemic Heart Disease](/disease/cvs/mi.md#id)
+		* [Acute Myocardial Infarction](/disease/cvs/mi.md)
 	* [Valvular Disease](/disease/cvs/as.md#id)
 		* [Aortic Stenosis](/disease/cvs/as.md)
 		* [Mitral Stenosis](/disease/cvs/ms.md)
+		* [Mitral Regurgitation](/disease/cvs/mr.md)
+	* [Cardiomyopathy](/disease/cvs/peripartum.md)
+		* [Peripartum Cardiomyopathy](/disease/cvs/peripartum.md)
+	* [Congenital Heart Disease]
+	* [Arrythmia]
 	* [Systemic Vascular Disease](/disease/cvs/aaa.md#id)
 		* [AAA](/disease/cvs/aaa.md)
 	* [Thromboembolic Disease](/disease/cvs/pe.md#id)
@@ -195,6 +201,7 @@
 	* [Sepsis](/disease/immune/sepsis.md)
 * [Obstetric](/disease/obs/preg.md#id)
 	* [Pregnancy and Labour](/disease/obs/preg.md)
+	* [Cardiac Disease in Pregnancy](/disease/obs/cardiac.md)
 	* [Hypertensive Disorders](/disease/obs/htn.md)
 	* [Antepartum Haemorrhage](/disease/obs/aph.md)
 	* [Postpartum Haemorrhage](/disease/obs/pph.md)

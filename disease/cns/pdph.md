@@ -17,7 +17,7 @@ Completely bedridden, associated symptoms, no response to conservative therapy.
 ##Pathophysiology
 * Puncture of the dura causes CSF to leak into the epidural space, reducing CSF volume.
 
-##Clinical Features
+##Assessment
 May be recognised during procedure as:
 * CSF leak from Tuohy needle during epidural insertion
 * Aspiration of CSF from catheter

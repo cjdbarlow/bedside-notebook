@@ -61,7 +61,7 @@ Causes of SIADH can be classified into:
 * Idiopathic
 
 
-##Clinical Features
+##Assessment
 ##Diagnostic Approach and DDx
 ##Investigations
 ##Management

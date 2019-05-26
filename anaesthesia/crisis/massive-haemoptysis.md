@@ -46,7 +46,7 @@ Causes can be divided into:
 * Primary CVS disease
 * Iatrogenic
 
-##Clinical Features
+##Assessment
 ###History
 ###Examination
 ##Diagnostic Approach and DDx

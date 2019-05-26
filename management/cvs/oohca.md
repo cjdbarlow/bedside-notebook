@@ -10,7 +10,7 @@ If STE present, aim cardiac catheterisation.
 Strongly consider cardiac catheterisation anyway, as 33% will have a PCI-treatable lesion.
 
 
-##Clinical Features
+##Assessment
 ###History
 ###Examination
 ##Diagnostic Approach and DDx

@@ -81,7 +81,7 @@ Due to low mixed venous PO<sub>2</sub> in patients with PE and low-cardiac outpu
 Increase in RAP may open a PFO and lead to intracardiac right-to-left shunting.
 
 
-##Clinical Features
+##Assessment
 Clinical features depend on:
 * Clot location
 * Clot burden

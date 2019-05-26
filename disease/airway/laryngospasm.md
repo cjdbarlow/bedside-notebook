@@ -82,7 +82,7 @@ Due to closure of the true cords, the false cords, and the supraglottic tissues.
 	* Jaw thrust is more effective in correcting obstruction via this mechanism (though paralysis is still often required)
 
 
-##Clinical Features
+##Assessment
 Laryngospasm should be suspected whenever there is airway obstruction with potential supraglottic cause.
 
 Laryngospasm presents with:

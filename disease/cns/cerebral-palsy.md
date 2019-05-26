@@ -58,7 +58,7 @@ In turn associated with chronic lung injury from repeated aspiration. May be due
 ##Pathophysiology
 Disruption of normal developmental changes in brain structure and organisation from a variety of potential causes, although clasically due to foetal hypoxia occurring during development or delivery.
 
-##Clinical Features
+##Assessment
 * Motor
 	* Muscle spasticity  
 	Present in 80% of patients.

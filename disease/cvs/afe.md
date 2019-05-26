@@ -77,7 +77,7 @@ Containing:
 		* Tissue factor 
 
 ###Aetiology
-##Clinical Features
+##Assessment
 **Rapid** and **severe** triad of:
 * **Hypoxic respiratory failure**
 * **Cardiogenic shock**

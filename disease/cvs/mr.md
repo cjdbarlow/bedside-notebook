@@ -24,7 +24,7 @@ MR classification is complex, and is based on echocardiographic findings:
 ##Epidemiology and Risk Factors
 ##Pathophysiology
 ###Aetiology
-##Clinical Features
+##Assessment
 ###History
 ###Examination
 ##Diagnostic Approach and DDx

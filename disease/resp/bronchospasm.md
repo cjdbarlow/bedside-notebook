@@ -65,7 +65,7 @@ Risk factors:
 * Prior laryngospasm
 
 ##Pathophysiology
-##Clinical Features
+##Assessment
 Typically presents as a triad of:
 * Expiratory wheeze
 * Prolonged expiration time  

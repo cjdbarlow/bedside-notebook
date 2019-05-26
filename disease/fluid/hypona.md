@@ -77,7 +77,7 @@ Indicates how the kidneys are handling sodium.
 	Key in discriminating CSW and hypovolaemia from SIADH.
 
 
-##Clinical Features
+##Assessment
 ###History
 * Symptoms  
 Largely attributable to brain oedema.

@@ -80,7 +80,7 @@ These processes:
 		* Consumptive coagulopathy
 
 ###Aetiology
-##Clinical Features{#clinical}
+##Assessment{#clinical}
 Pre-eclampsia is classified by:
 * Gestational age at diagnosis
 	* Late  

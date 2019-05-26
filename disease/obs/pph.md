@@ -83,7 +83,7 @@ Where the fundus of the uterus begins to prolapse out of the cervix.
 Usually along a scar from previous caesarian or uterine surgery.
 
 
-##Clinical Features
+##Assessment
 > Many features may be **masked by the physiology** of pregnancy
 
 Symptoms and signs of massive blood loss:

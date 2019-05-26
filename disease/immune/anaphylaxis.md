@@ -143,7 +143,7 @@ Non-allergic anaphylaxis:
 * Probably relates to G-protein induced release of vasoactive mediators
 
 
-##Clinical Features
+##Assessment
 Symptoms and signs of anaphylaxis:
 * Typically occur acutely and progress rapidly
 * Relate to involvement of different organ systems

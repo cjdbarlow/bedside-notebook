@@ -108,6 +108,9 @@ Common Femoral Artery
 ##CHB
 Complete Heart Block
 
+##CHD
+Congenital Heart Disease
+
 ##CICO
 Can't Intubate, Can't Oxygenate
 
@@ -371,6 +374,9 @@ Left Occiput Posterior
 
 ##LOT  
 Left Occiput Transverse
+
+##LVEDD
+Left Ventricular End-Diastolic Distance
 
 ##LVEDP
 Left Ventricular End-Diastolic Pressure

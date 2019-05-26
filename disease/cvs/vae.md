@@ -20,7 +20,7 @@ Interstitial/pulmonary oedema due to local inflammation.
 
 
 ###Aetiology
-##Clinical Features
+##Assessment
 VAE may be graded by its clinical severity:
 * Small  
 < 10ml.

@@ -19,7 +19,7 @@ Risk factors include:
 * Age
 
 
-##Clinical Features
+##Assessment
 * Typically is not evident in recovery  
 	* May take 24 hours to become apparent
 	* 90% of cases present within 7 days

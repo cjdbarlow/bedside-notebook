@@ -30,7 +30,7 @@ Worse than type I.
 
 ##Pathophysiology
 ###Aetiology
-##Clinical Features
+##Assessment
 ###History
 ###Examination
 ##Diagnostic Approach and DDx
