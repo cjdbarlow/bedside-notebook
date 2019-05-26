@@ -40,6 +40,9 @@ Covered under:
 * [PS26 Guidelines on Consent for Anaesthesia or Sedation](http://www.anzca.edu.au/Documents/ps26-2005-guidelines-on-consent-for-anaesthesia-or.pdf)  
 Covered under:
 	* [Consent](/anaesthesia/anzca/consent.md)
+* [PS27 Guidelines for Major Extracorporeal Perfusion](http://www.anzca.edu.au/Documents/ps27-2015-guidelines-for-major-extracorporeal-perf.pdf)  
+Covered under:
+	* [Major Extracorporeal Perfusion](/anaesthesia/anzca/extracorporeal.md)
 
 ---
 ##References
