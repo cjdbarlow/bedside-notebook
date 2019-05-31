@@ -7,6 +7,12 @@ Achieving a term pregnancy demonstrates presence of physiological reserve.
 * Time where underlying cardiac disease is diagnosed
 
 ##Epidemiology and Risk Factors
+Prevalence:
+* Mitral stenosis is the most common lesion in the pregnant patient  
+Poorer prognosis with decompensated disease, i.e.:
+	* AF
+	* Pulmonary hypertesion
+
 ###Identification of High Risk Patients
 Adverse maternal outcome associated with:
 * Previous:
@@ -60,7 +66,9 @@ Key investigations include:
 
 ##Management
 Principles of management:
-* Optimise cardiac disease
+* Optimise underlying cardiac disease  
+Manage the lesion.
+	* Note prognosis is often worse due to the higher CO demand
 * Aim for a "stress free" labour  
 Vaginal delivery preferred.
 	* Early epidural is recommended  

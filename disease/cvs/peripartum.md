@@ -26,19 +26,36 @@ Risk Factors:
 	* Sympathomimetics
 	* Tocolytics
 	* Cocaine
-	
+
 ##Pathophysiology
 ###Aetiology
 ##Assessment
-###History
-###Examination
+Features:
+* Similarly to other cardiac failures
+* Wheeze may be misdiagnosed as asthma
+
 ##Diagnostic Approach and DDx
 ##Investigations
+* Echocardiography
+	* 
+
 ##Management
 ###Anaesthetic Considerations
 ###Ineffective Therapies
 ##Complications
 ##Prognosis
+Recovery:
+* 30-50% will recover normal LV function
+	* Better recovery if LVEF is >30% at diagnosis
+	* Dobutamine stress test correlates with liklihood of recovery
+
+Subsequent pregnancy:
+* Associated with significant morbidity  
+Generally better than the pregnancy with the cardiomyopathy however:
+	* 25% develop cardiac failure
+	* 15% have a fall in EF  
+	10% have a persistent reduction in EF.
+	* 13% premature birth rate
 
 ---
 ##References

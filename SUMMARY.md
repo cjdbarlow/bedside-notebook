@@ -7,7 +7,7 @@
 * [Targeted Assessments](/assessment/targeted/airway-assessment.md#id)
 	* [Airway Assessment](/assessment/targeted/airway-assessment.md)
 	* [CVS](/assessment/cvs/tachycardia.md#id)
-		* [Sinus Tachycardia](/assessment/cvs/tachycardia.md)
+		* [Sinus Tachycardia](/assessment/targeted/cvs/tachycardia.md)
 	* [Disability](/assessment/targeted/neuro/unconscious.md#id)
 		* [Unconsciousness](/assessment/targeted/neuro/unconscious.md)	
 	* [Pain](/assessment/targeted/pain/chestpain.md#id)
