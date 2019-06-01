@@ -50,8 +50,12 @@ These guidelines may not apply. Important considerations:
 
 ##Fasting for Children
 For elective surgery in children **> 6 months old**:
-* **Breast milk**, **formula**, and **limited solid food** up to **6 hours prior**
-* **Clear fluids** up to **2 hours prior**
+* **Breast milk**, **formula**, and **limited solid food** up to **6 hours prior**  
+Includes milk drinks, food, lollies, and chewing gum.
+* **Clear fluids** up to **1-2 hour prior**  
+Clear fluids should be encouraged up to this point.
+	* Timing varies depending on guideline  
+	Check you local institutional practice.
 
 
 For elective surgery in children **< 6 months old**:
@@ -63,3 +67,4 @@ For elective surgery in children **< 6 months old**:
 
 ##References
 1. PS07: [Guidelines on Pre-Anaesthesia Consultation and Patient Preparation](https://www.anzca.edu.au/getattachment/resources/professional-documents/ps07_guidelines_pre-anaesthesia_consultation_patient_preparation.pdf). ANZCA. 2016.
+2. Royal Children's Hospital Melbourne. [Fasting](https://www.rch.org.au/clinicalguide/guideline_index/Fasting_Guidelines/). Accessed 6/19.

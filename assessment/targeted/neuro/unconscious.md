@@ -6,7 +6,7 @@ More precisely, "a completely unaware patient unresponsive to external stimuli w
 * Due to impairment of the ARAS-thalmic-cortical pathway  
 Lesion may be in:
 	* Arousal centres  
-	Dorsal pons, midbrainm, thalamus.
+	Dorsal pons, midbrain, thalamus.
 	* Consciousness centre  
 	Cerebral cortex - must be bilateral to cause coma.
 	* Connecting tracts  
@@ -278,5 +278,5 @@ Coma mimics include:
 1. Yartsev, A. [The Unconscious Patient](http://www.derangedphysiology.com/main/cicm-fellowship-exam/hot-cases/unconscious-patient). Deranged Physiology. Accessed 11/2017.
 2. Wijdicks EFM, Bamlet WR, Maramattom BV, Manno EM, McClelland RL. Validation of a new coma scale: The FOUR score. Ann Neurol. 2005;58(4):585-593.
 3. Fischer M, Rüegg S, Czaplinski A, et al. Inter-rater reliability of the Full Outline of UnResponsiveness score and the Glasgow Coma Scale in critically ill patients: a prospective observational study. Critical Care. 2010;14(2):R64.
-4. 1: Traub SJ, Wijdicks EF. [Initial Diagnosis and Management of Coma](https://www.sciencedirect.com/science/article/pii/S073386271630058X?via%3Dihub). Emerg Med Clin North Am. 2016 Nov;34(4):777-793. doi: 10.1016/j.emc.2016.06.017. Epub 2016 Sep 3.
+4. Traub SJ, Wijdicks EF. [Initial Diagnosis and Management of Coma](https://www.sciencedirect.com/science/article/pii/S073386271630058X?via%3Dihub). Emerg Med Clin North Am. 2016 Nov;34(4):777-793. doi: 10.1016/j.emc.2016.06.017. Epub 2016 Sep 3.
 5. Wijdicks EF. The bare essentials: coma. Pract Neurol. 2010 Feb;10(1):51-60.

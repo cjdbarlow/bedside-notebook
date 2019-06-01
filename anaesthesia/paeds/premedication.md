@@ -1,0 +1,75 @@
+#Preparation and Premedication
+Premedication is useful for:
+* Sedation and anxiolysis
+* Analgesia
+* Secretion management
+
+##Anxiolysis
+Allaying anxiety is an important part of patient preparation. Strategies include:
+* Pharmacological
+* Non-pharmacological
+
+###Pharmacological
+Premedication is exceedingly helpful. Consider:
+* Anxiolysis/sedation
+	* Midazolam: 0.5-1 mg/kg PO (up to 15mg)  
+	Onset with 15-30 minutes.
+	* Clonidine 2-4μg/kg PO  
+	Slower onset than midazolam (>45 minutes). Consider combining with midazolam; e.g. 0.5mg/kg midazolam and 1μg/kg clonidine PO.
+	* Temazepam 10-20mg or Diazepam 0.2mg/kg  
+	For older children, and 45-60 minutes prior to induction.
+	* Ketamine 3-6mg/kg PO
+		* Avoid as first line agent or without co-administration of benzodiazepine
+		* May prolong recovery time
+		* Consider in the presence of other behavioural problems
+
+###Non-pharmacological
+* Explanatory booklets
+* Parental presence at induction  
+Not appropriate for all parents or all children.
+	* Reduces separation anxiety
+	* Parental anxiety (and calmness) may be transmitted to the child
+	* Requires understanding by the parents about:
+		* Induction plan
+		* When the parents are to leave  
+		Need a dedicated member of staff to guide them out.
+
+##Skin Preparation
+Topical cutaneous anaesthesia is routine prior to venepuncture and cannulation. Options include:
+* Local anaesthetics
+	* EMLA cream
+		* 2.5% lignocaine and 2.5% prilocaine
+		* Cover with an occlusive dressing and leave for 1-2/24  
+		65% effective after 1/24.
+		* Lasts 30-60 minutes folling removal
+		* Vasoconstrictor effect at 1.5 hours
+	* Tetracaine
+		* 4% gel
+		* Cover with occlusive dressing
+		* Onset within 40 minutes
+		* Lasts 4 hours following removal
+		* Erythema and local vasodilation
+* Ethyl chloride
+	* Solution in glass vial
+	* Evaporates on skin contact, causing transient freezing and subsequent anaesthesia
+	* Works instantaneously
+
+##Analgesia
+For minor procedures:
+* 25% sucrose 0.25ml Q2min (up to 1ml, or 0.5ml if < 1500g) for infants
+
+##Secretions
+Useful in children where secretion control is paramount, including:
+* Cerebral palsy
+* Potential difficult airway
+* High risk of laryngospasm
+	* Neonates
+
+Options include:
+* Atropine 40μg/kg PO  
+Given ~90 minutes before induction.
+* Glycopyrrolate 100μg/kg PO.  
+Given ~1 hour before induction.
+
+---
+##References

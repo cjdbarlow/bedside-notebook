@@ -1,3 +1,11 @@
+#Key symbols
+↑
+↓
+⩾
+⩽
+°
+μ
+
 #Clinical State
 
 ##Assessment

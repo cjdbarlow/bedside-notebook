@@ -6,7 +6,7 @@
 Usually understood by patients to refer to an **elective** termination of pregnancy. Non-elective abortions are covered under [miscarriage](#mis)
 
 ##Anteflexed - AF
-*See [anteverted](#anteverted).
+*See [anteverted](#anteverted)*.
 
 ##Amniotic Fluid Index - AFI {#afi}
 Estimate of uterine amniotic fluid volume:

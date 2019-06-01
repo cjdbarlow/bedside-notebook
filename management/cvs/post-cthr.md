@@ -105,7 +105,7 @@ Post-procedural care:
 	* Consider closure
 * Antibiotics
 * Avoid fever  
-Temperature \<36°C.
+Temperature ⩽36°C.
 
 ---
 

@@ -1,6 +1,6 @@
 #Pre-Anaesthetic Assessment
 
-*This section covers identification of medical issues that influence anaesthetic technique and outcome. Management of identified issues is covered under [perioperative management](/anaesthesia/periop/periop-management.md).*
+*This section covers identification of medical issues that influence anaesthetic technique and outcome. Management of identified issues is covered under [perioperative management](/anaesthesia/periop/periop-management.md), and assessment of the paediatric patient is covered under [paediatric anaesthetic assessment](/assessment/anaesthetic/paeds.md).*
 
 Preoperative assessment can be divided into:
 * History
