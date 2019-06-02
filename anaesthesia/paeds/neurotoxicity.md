@@ -1,0 +1,110 @@
+#Anaesthesia-Related Neurotoxicity
+
+>* Effect of general anaesthesia on human cognitive development brain is unclear, but probably minor if present
+>	* No particular agent shown to be superior
+>* Effects of anaesthesia are difficult to separate from having surgery/having an illness that requires surgery
+>* In general: balance benefits of anaesthesia in children and pregnant women against risks, especially if procedures >3 hours or if multiple procedures are required
+
+
+General anaesthesia is potentially neurotoxic at both extremes of age. These effects:
+* May be neurotoxic and neuroplastic
+* Alter cognition via neuromodulation
+* Concern many parents  
+Particuarly the association with memory deficits and abnormal behaviours.
+
+##Pathophysiology
+The developing brain:
+* Has a different structure to adult brain
+	* Many more neurones present in early development
+* Has 50-70% of its neurones eliminated by apoptosis, under normal circumstances
+	* This allows behaviourally relevant connections to remain
+	* 3rd trimester and 1st year of life are the most important
+
+
+Anaesthetic agents affect several aspects of brain development, including:
+* Inducing neuroapoptosis  
+	* Critical factors
+		* Stage of brain development at time of exposure  
+		Different brain regions develop at different points.
+		* Degree of exposure
+	* Secondary factors
+		* Agent used
+		* Health status
+		* Surgical procedure
+* Reduced neurogenesis
+	* Associated with oxidative stress  
+
+Effect of anaesthetic agents is difficult to separate from (and may be worsened by)associated factors, including:
+* Surgery
+* Underlying disease
+
+
+###Animal Studies
+* Juvenile animal studies identified that NMDA antagonists and GABA activators/potentiators appeared to increase rates of neuronal apoptosis when used for longer than 3 hours
+* Use of anaesthetic drugs during periods of rapid brain growth and synaptogenesis causes neuronal and glial cell loss
+* Primate studies showed increased neuronal cell loss with:
+	* 24 hours of ketamine
+	* 5 hours of isoflurane or 5 hours of propofol
+* Rat and primate studies suggest neuronal cell loss is associated with learning and memory deficits
+* Dose response relationship appears to exist
+	* Light surgical plains of anaesthesia were less affected
+	* Shorter duration of anaesthesia does not show the same effect
+* Age-related outcome  
+Apoptosis is 2.2x greater in monkey foetus as compared to 120 day old monkey.
+
+
+###Human Studies
+* Retrospective cohort studies
+	* Wide variety of ages and agents
+	* Mostly unable to determine duration of anaesthesia
+* Conflicting data  
+However, some dramatic results; e.g. one observational study suggested before the age of 4:
+	* 2 Anaesthetics  
+	1.6x more likely to have learning disability.
+	* >3 Anaesthetics  
+	2.6x more likely to have a learning disability.
+	* Note that the **magnitude of the risk was small**: ~1% difference in school grades
+* Lots of confounders
+	* Surgical trauma and pathology are also important
+		* Humoral and inflammatory stress
+		* Metabolic, haemodynamic, and respiratory events
+		* Pathology
+		* Sepsis
+		* Chromosomal abormalities
+* Notably no data regarding adverse consequences of human foetal exposure
+
+
+##Key Studies
+PANDA trial:
+* Children <3 years and eligible sibling
+	* 105 exposures
+* Sibling-matched observational cohort study
+* Evaluating IQ
+* No difference in primary outcome
+
+GAS trial:
+* International, multicentre RCT
+* 722 children
+* Awake regional vs. sevoflurane for inguinal hernia repair
+* No difference in development at 2 years of age  
+Bayley Scale of Infant and Toddler Development III.
+* No difference in 
+
+
+##Summary
+* Single, short anaesthetics in infancy are not associated with developmental delay
+* Requirement for **multiple anaesthetics early in life is associated with an increased risk of learning disability**
+	* The magnitude of this disability is small
+* Discuss with surgeons and parents about delaying unnecessary procedures until >3 years of age if feasible
+
+
+---
+##References
+1. Jevtovic-Todorovic V, Absalom AR, Blomgren K, Brambrink A, Crosby G, Culley DJ, et al. Anaesthetic neurotoxicity and neuroplasticity: an expert group report and statement based on the BJA Salzburg Seminar. British Journal of Anaesthesia. 2013 Aug;111(2):143–51. 
+2. Wilder RT, Flick RP, Sprung J, Katusic SK, Barbaresi WJ, Mickelson C, Gleich SJ, Schroeder DR, Weaver AL, Warner DO. Early exposure to anesthesia and learning disabilities in a population-based birth cohort. Anesthesiology. 2009 Apr; 110(4):796-804.
+3. Brambrink AM, Evers AS, Avidan MS, Farber NB, Smith DJ, Martin LD, Dissen GA, Creeley CE, Olney JW. Ketamine-induced neuroapoptosis in the fetal and neonatal rhesus macaque brain. Anesthesiology. 2012 Feb;116(2):372-84.
+4. Yu CK, Yuen VMY, Wong GT, Irwin MG. The effects of anaesthesia on the developing brain: a summary of the clinical evidence. F1000Research. 2013;2:166.
+5. Andropoulos DB, Greene MF. Anesthesia and Developing Brains - Implications of the FDA Warning. N Engl J Med. 2017 Mar 9;376(10):905-907.
+6. Davidson AJ, Sun LS. Clinical Evidence for Any Effect of Anesthesia on the Developing Brain. Anesthesiology. 2018 Apr;128(4):840-853.
+Pinyavat T, Warner DO, Flick RP, et al. Summary of the Update Session of Clinical Studies. Journal of neurosurgical anesthesiology. 2016;28(4):356-360.
+7. McCann ME, de Graaff JC, Dorris L, Disma N, Withington D, Bell G, et al. [Neurodevelopmental outcome at 5 years of age after general anaesthesia or awake-regional anaesthesia in infancy (GAS): an international, multicentre, randomised, controlled equivalence trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)32485-1/fulltext). The Lancet. 2019 Feb;393(10172):664–77. 
