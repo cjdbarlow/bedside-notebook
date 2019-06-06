@@ -52,7 +52,7 @@ These guidelines may not apply. Important considerations:
 For elective surgery in children **> 6 months old**:
 * **Breast milk**, **formula**, and **limited solid food** up to **6 hours prior**  
 Includes milk drinks, food, lollies, and chewing gum.
-* **Clear fluids** up to **1-2 hour prior**  
+* **Clear fluids** up to **1 hour prior**  
 Clear fluids should be encouraged up to this point.
 	* Timing varies depending on guideline  
 	Check you local institutional practice.
@@ -61,7 +61,7 @@ Clear fluids should be encouraged up to this point.
 For elective surgery in children **< 6 months old**:
 * **Formula** up to **4 hours prior**
 * **Breast milk** up to **3 hours prior**
-* **Clear fluid** up to **2 hours prior**
+* **Clear fluid** up to **1 hour prior**
 
 ---
 

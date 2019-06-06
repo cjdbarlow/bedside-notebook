@@ -55,7 +55,7 @@ Epidural anaesthesia:
 * Usually sited under anaesthesia
 * Achieved with continuous infusions:
 	* 0.1% or 0.125% levobupivacaine  
-		* <6 months: 0.25mg/kg/hr
+		* ⩽6 months: 0.25mg/kg/hr
 		* ⩾6 months: 0.4mg/kg/hr
 	* 0.2% ropivacaine
 		* 0.4mg/kg/hr
