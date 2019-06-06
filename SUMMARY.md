@@ -108,6 +108,8 @@
 	* [Day Surgery](/anaesthesia/anzca/daystay.md)
 	* [Monitoring](/anaesthesia/anzca/monitoring.md)
 	* [Major Extracorporeal Perfusion](/anaesthesia/anzca/extracorporeal.md)
+	* [Infection Control](/anaesthesia/anzca/infection.md)
+	* [Non-Paediatric Centres](/anaesthesia/anzca/paeds.md)
 
 ---
 
