@@ -43,6 +43,17 @@ Covered under:
 * [PS27 Guidelines for Major Extracorporeal Perfusion](http://www.anzca.edu.au/Documents/ps27-2015-guidelines-for-major-extracorporeal-perf.pdf)  
 Covered under:
 	* [Major Extracorporeal Perfusion](/anaesthesia/anzca/extracorporeal.md)
+* [PS28 Guidelines on Infection Control in Anaesthesia](http://www.anzca.edu.au/Documents/ps28-2015-guidelines-on-infection-control-in-anaes.pdf)  
+Covered under:
+	* [Infection Control](/anaesthesia/anzca/infection.md)
+* [PS29 Statement on Anaesthesia Care of Children in Healthcare Facilities Without Dedicated Paediatric Facilities.](http://www.anzca.edu.au/Documents/ps29-2008-statement-on-anaesthesia-care-of-childre.pdf)
+Covered under:
+	* [Non-Paediatric Centres](/anaesthesia/anzca/paeds.md)
+* [PS31 Guidelines on Checking Anaesthesia Delivery Systems](http://www.anzca.edu.au/Documents/ps31-2014-guidelines-on-checking-anaesthesia-deliv.pdf)  
+Covered under:
+	* [Anaesthetic Machine Check](/assessment/anaesthetic/machinecheck.md)
+
+
 
 ---
 ##References
