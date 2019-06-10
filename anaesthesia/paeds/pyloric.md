@@ -1,11 +1,11 @@
 #Pyloromyotomy
->Airway: 
->Access: 
->Pain: 
->Position:
->Time: 
->Blood loss:
->Special:
+>Airway: ETT <br>
+>Access: IV required <br>
+>Pain: Simple analgesia and local <br>
+>Position: Supine <br>
+>Time: 30 minutes to 1 hour <br>
+>Blood loss: Minimal <br>
+>Special: Apnoea monitoring, aspiration precautions  
 
 Pyloromyotomy is:
 * Performed for hypertrophic pyloric stenosis  
