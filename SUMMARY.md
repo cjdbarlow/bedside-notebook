@@ -147,6 +147,7 @@
 		* [Premedication](/anaesthesia/paeds/premedication.md)
 		* [Analgesia](/anaesthesia/paeds/analgesia.md)
 		* [Neurotoxicity](/anaesthesia/paeds/neurotoxicity.md)
+	* [Pyloromyotomy](/anaesthesia/paeds/pyloric.md)
 * [Thoracic](/anaesthesia/cthr/vats.md#id)
 	* [VATS](/anaesthesia/cthr/vats.md#id)
 * [Vascular](/anaesthesia/vascular/elective-aaa.md#id)

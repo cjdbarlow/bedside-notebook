@@ -26,6 +26,29 @@ Children **under 4** have different airway anatomy which may hamper airway manag
 * Higher larynx  
 Results in relatively anterior laryngx.
 
+###Post-Extubation "Croup"{#stridor}
+Post-operative laryngeal oedema due to irritation from ETT. It:
+* Can be **disastrous**
+* Occurs in young children due to airway diameter
+	* 1-4 years
+	* Infants ⩽1 at particular risk
+* Presents as stridor and coughing
+* Requires immediate treatment with:
+	* Humidified oxygen  
+	FiO<sub>2</sub> >0.5.
+	* Resuscitation
+	* Light sedation  
+	Aim to reduce distress without decreasing respiratory drive.
+	* Nebulised adrenaline
+	* Steroids  
+	Dexamethasone 0.5-1mg/kg.
+	* Reintubation  
+	If ongoing deterioration or hypoxia.
+	* Tracheostomy  
+	If upper airway obstruction worsens.
+* Rebound may occur at ~2 hours
+
+
 ##Respiratory
 Key differences:
 * ↓ Airway diameter  
