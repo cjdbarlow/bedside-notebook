@@ -1,13 +1,17 @@
 #Thyroidectomy
->Airway: 
->Access: 
->Pain: 
->Position:
->Time: 
->Blood loss:
->Special:
+>Airway: ETT <br>
+>Access: ~18G IV <br>
+>Pain: Simple analgesia and PRN opioid usually adequate <br>
+>Position: Supine with neck extended. <br>
+>Time: 1-3 hours. <br>
+>Blood loss: Low. <br>
+>Special: Use of intraoperative nerve monitoring for laryngeal nerve preservation requires use of a specialised ETT, and absence of muscle relaxation. <br>
 
-Intro and technique
+
+Removal of thyroid gland, usually by transverse neck incision. Performed for:
+* Cancer
+	* Adenomas
+* Goitre
 
 ##Considerations
 * A
@@ -25,11 +29,16 @@ Intro and technique
 * B
 	* Obesity
 * C
+	* AF or CHF  
+	If hyperthyroid.
 * D
 	* Use of nerve monitoring
 * E
 	* Thyroid state  
-	Aim euthyroid if possible..
+	Aim euthyroid if possible. Evaluate for:
+		* Normal temperature
+		* Normal HR, BP, pulse pressure
+		* Normal reflexes
 	* Electrolytes  
 	Notably **hypocalcaemia**.
 
@@ -37,9 +46,58 @@ Intro and technique
 ##Preoperative Assessment
 ##Preparation
 ##Induction
+* Standard induction
+* Shorter acting neuromuscular blockers should be used if using nerve integrity monitoring
+
 ##Intraoperative
+* Ensure depth of anaesthesia adequate, particularly if incompletely treated hyperthyroidism
 ###Surgical Stages
+* Skin incision
+* Platsyma divided
+* Subplatysmal flaps developed
+	* Anterior jugular veins avoided
+* Prethyroid fascia divided in midline
+
+
+* Thyroid gland resected  
+Depends on diagnosis.
+	* Total
+	* Subtotal  
+	Lobe, isthmus, +/- part of remaining lobe.
+	* Lobar
+* Identification and preservation of the:
+	* Parathyroid glands
+	* Recurrent laryngeal nerve(s)
+* Excision of lymph nodes
+
 ##Postoperative
+Immediate serious post-operative complications include:
+* Recurrent laryngeal nerve damage
+	* Bilateral  
+	Vocal cords adducted.
+		* Unable to speak
+		* Requires reintubation  
+		CPAP may temporise by splinting open cords.
+	* Unilateral  
+	Hoarse voice.
+* Tracheomalacia  
+Acute upper airway obstuction - requires emergent reintubation.
+* Haematoma  
+Expansion may lead to airway compromise.
+	* Rapidly reopen incision and drain remaining blood
+	* Consider CPAP to temporise airway
+	* Reintubation may be required immediately, or delayed (on return to theatre)
+
+Delayed complications include:
+* Hypoparathyroidism  
+Inadvertent removal of parathyroid glands leading to acute fall in PTH and hypocalcaemia:
+	* Presents as:
+		* Laryngeal stridor
+		* Tingling/numbness
+		* Tetany
+		* Seizures
+	* Treated with 10ml calcium gluconate IV
+
 
 ---
 ##References

@@ -58,20 +58,6 @@ Commonly used adjuvants include:
 |**Disadvantages**|- Respiratory depression <br>- May increase PONV (predominantly morphine)|- Mild vasodilation and negative inotropy, may worsen HDx instability <br>- Respiratory depression|- Increases ventricular rate in patients with AF
 
 
-##A Selection of Induction Strategies
-Covered include:
-* RSI
-* Cardiac
-* Relaxant-free
-
-###Relaxant-free Induction
-
-* Remifentanil
-	* 3-5μg/kg, up to ~250μg
-	* Wait for the brdycardia  
-	* Beware wooden chest
-	* Will provide typically 3-4 minutes of apnoea
-
 
 
 ---
