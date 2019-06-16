@@ -26,28 +26,6 @@ Children **under 4** have different airway anatomy which may hamper airway manag
 * Higher larynx  
 Results in relatively anterior laryngx.
 
-###Post-Extubation "Croup"{#stridor}
-Post-operative laryngeal oedema due to irritation from ETT. It:
-* Can be **disastrous**
-* Occurs in young children due to airway diameter
-	* 1-4 years
-	* Infants ⩽1 at particular risk
-* Presents as stridor and coughing
-* Requires immediate treatment with:
-	* Humidified oxygen  
-	FiO<sub>2</sub> >0.5.
-	* Resuscitation
-	* Light sedation  
-	Aim to reduce distress without decreasing respiratory drive.
-	* Nebulised adrenaline
-	* Steroids  
-	Dexamethasone 0.5-1mg/kg.
-	* Reintubation  
-	If ongoing deterioration or hypoxia.
-	* Tracheostomy  
-	If upper airway obstruction worsens.
-* Rebound may occur at ~2 hours
-
 
 ##Respiratory
 Key differences:
@@ -76,6 +54,63 @@ Change in inspired gas mixture rapidly alters alveolar (and arterial) gas compos
 	* Periodic breathign with apnoeas in neonates
 	* Sub-anaesthetic drug concentrations still affect respiration
 
+
+###Respiratory Complications
+Perioperative respiratory complications:
+* Are major causes of morbidity and mortality
+* Can be reduced by identifying at-risk patients  
+Factors include:
+	* Age  
+	Risk decreases by ~11% per year of age.
+	* ↑ Airway reactivity
+		* Atopy
+			* Asthma
+			* Eczema
+			* **FHx** of two or more relatives with asthma, eczema, or rhinitis
+		* Eczema
+		* Recent URTI  
+		Within last 6/52, though first 2/52 are highest risk period.
+		* Passive smoke exposure
+	* Premedication with midazolam
+	* Use of volatiles
+		* Bronchospasm: Desflurane > Sevoflurane > Isoflurane
+		* Sevoflurane associated with more laryngospasm than propofol maintenance (but equivalent bronchospasm)   
+	Compared with sevoflurane.
+	* Use of lignocaine
+	* Airway devices and depth of anaesthesia  
+	Safest options to reduce laryngospasm include:
+		* Use of facemask  
+		Equivalent bronchospasm risk to LMA, but significantly reduced laryngospasm.
+		* Awake removal of ETT
+		* Deep removal of LMA
+		* Use of cuffed (compared with uncuffed) ETT  
+		Also reduces post-operative stridor. 
+
+####Post-Extubation Stridor/"Croup"{#stridor}
+Post-operative laryngeal oedema due to irritation from ETT. It:
+* Can be **disastrous**
+* Occurs in young children due to airway diameter
+	* 1-4 years
+	* Infants ⩽1 at particular risk
+* Presents as stridor and coughing
+* Requires immediate treatment with:
+	* Humidified oxygen  
+	FiO<sub>2</sub> >0.5.
+	* Resuscitation
+	* Light sedation  
+	Aim to reduce distress without decreasing respiratory drive.
+	* Nebulised adrenaline
+	* Steroids  
+	Dexamethasone 0.5-1mg/kg.
+	* Reintubation  
+	If ongoing deterioration or hypoxia.
+	* Tracheostomy  
+	If upper airway obstruction worsens.
+* Rebound may occur at ~2 hours
+
+
+
+
 ##Cardiovascular
 Key differences:
 * ↓ Myocardial compliance  
@@ -87,14 +122,21 @@ Due to ↓ number of elements.
 * Heart rate
 	* Bradycardia is poorly tolerated  
 	HR <60 does not give adequate CO - **commence CPR**.
+		* Atropine  
+		Relative parasympathetic predominance in autonomically stressed child, but not always reliable.
+		* Adrenaline  
+		Better choice when bradycardia must be corrected immediately and reliably (which is usually the case).
+			* Consider ~1μg/kg adrenaline for bradycardia in non-arrest situations  
+			0.1ml/kg of 1:10,000 adrenaline, diluted into a 10ml syringe, will give 1μg/kg/ml.
 	* Tachycardia is well tolerated
 * Dominate vagal tone  
 Bradycardia common with vagal stimuli, such as laryngoscopy, hypoxia.
 
+
 ##CNS
 Covers both:
 * Anatomical
-* Functional
+* Psychological
 
 ###Anatomical
 * Incomplete blood-brain barrier  
@@ -126,13 +168,17 @@ Developmental stages:
 	* Birth to 6 months:
 		* Parental anxiety > infant anxiety
 		* Separation tolerated  
-		Provided a surrogate mother provided.
+		With a surrogate mother.
 		* Anxiolytic unnecessary
 	* 6 months to 4 years:
-		* Separation anxiety
+		* Separation anxiety  
+		Parental involvement in induction is very helpful.
 		* Fear of environment common
 		* Aware that this is not normal
-		* Anxiolysis helpful
+		* Anxiolysis helpful  
+		Difficult to predict which children will require premedication.
+			* ~50% of children who are predicted to be well behaved will not be
+			* ~50% of children who are given a premedication will still be difficult to manage
 	* 4 to 6 years:
 		* Fear of strangers  
 		Ongoing separation anxiety, but may be less than previous.
@@ -140,7 +186,9 @@ Developmental stages:
 		* Anxiolysis helpful
 	* 6 to 13 years:
 		* Existential concerns (death, self-control) more common
-		* Anxiolysis may be helpful
+		* Anxiolysis may be helpful  
+		Usually able to reliably predict which children will require premedication.
+
 
 Significant anxiety is common to both children and parents around time of surgery:
 * Parental anxiety is:
@@ -149,6 +197,20 @@ Significant anxiety is common to both children and parents around time of surger
 * Child anxiety is common, and exacerbated by:
 	* Lack of understanding
 	* Lack of cooperation
+
+
+###Allaying Anxiety
+Use of language:
+* Positive lanuage  
+Remove words with negative associations, e.g. pain.
+	* "You'll usually wake up pretty comfortable, we'll give you extra medicine to make you more comfortable, and a nurse will be there to give you more medicine to keep you comfortable."
+* Emphasis on safety rather than risk
+* Reinforce positive behaviours
+* Don't downplay pain and anxiety  
+Says things will hurt if they will hurt.
+* Reassure that concerns and anxiety is normal, but magnitude of risk of low in well children
+* Project a sense of relaxation
+* Engage in normal conversation with the parents and child
 
 
 ##Musculoskeletal
@@ -223,4 +285,4 @@ Key differences in pharmacokinetics and pharmacodynamics occur in children up to
 ---
 
 ##References
-1. 
+1. von Ungern-Sternberg BS, Boda K, Chambers NA, Rebmann C, Johnson C, Sly PD, et al. Risk assessment for respiratory complications in paediatric anaesthesia: a prospective cohort study. The Lancet. 2010 Sep;376(9743):773–83. 

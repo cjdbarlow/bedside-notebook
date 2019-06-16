@@ -225,9 +225,6 @@ Anaphylaxis is classified into four grades, based on severity:
 
 
 
-
-###History
-###Examination
 ##Diagnostic Approach and DDx
 Differential diagnoses include:
 * Respiratory

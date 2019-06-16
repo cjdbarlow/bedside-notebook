@@ -14,6 +14,13 @@ Fasting >6 hours may:
 	* Annoy patients
 
 
+##Physiology
+* Gastric residual volume often used as a surrogate for risk
+	* No known volume which indicates a particular threshold of risk or eliminates all risk
+* Fluids empty by first-order kinetics
+* Solids empty by zero-order kinetics
+* Gastric emptying time is increased following trauma, and standard fasting times may not be adequate
+
 ##Fasting for Adults
 For elective surgery:
 * **Solid** food up to **6 hours prior**
@@ -68,3 +75,4 @@ For elective surgery in children **< 6 months old**:
 ##References
 1. PS07: [Guidelines on Pre-Anaesthesia Consultation and Patient Preparation](https://www.anzca.edu.au/getattachment/resources/professional-documents/ps07_guidelines_pre-anaesthesia_consultation_patient_preparation.pdf). ANZCA. 2016.
 2. Royal Children's Hospital Melbourne. [Fasting](https://www.rch.org.au/clinicalguide/guideline_index/Fasting_Guidelines/). Accessed 6/19.
+3. Splinter WM, Schreiner MS. [Preoperative fasting in children](https://www.semanticscholar.org/paper/Preoperative-fasting-in-children.-Splinter-Schreiner/913966639884cb04bf2d0bf75c42d34e55adecee). Anesthesia and analgesia. 1999;89(1):80–9. 

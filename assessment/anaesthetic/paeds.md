@@ -1,5 +1,5 @@
 #Pre-anaesthetic Assessment of the Paediatric Patient
-*This covers specific elements of assessing a paediatric patient for anaesthesia. The general elements of the [pre-Anaesthetic](/assessment/anaesthetic/pre-anaesthetic.md) are still important.*
+*This covers specific elements of assessing a paediatric patient for anaesthesia. The general elements of the [pre-Anaesthetic](/assessment/anaesthetic/pre-anaesthetic.md) and [considerations for paediatric anaesthesia](/anaesthesia/paeds/considerations.md) are covered elsewhere.*
 
 Anaesthetic assessment of the paediatric patient aims to:
 * Obtain a medical history and examination
@@ -41,7 +41,8 @@ RTIs are:
 * Usually viral  
 May have bacterial superinfection.
 * Commonly described as URTIs, but usually involve whole respiratory tract
-* Associated with ↑ risk of respiratory complications:
+* Associated with ↑ risk of respiratory complications:  
+For 6/52 post infection (though highest risk in first 2/52):
 	* 5x increase
 	* 10x increase if intubated
 	* Including:
@@ -94,3 +95,4 @@ Logistical burden on the family may be significant.
 
 ---
 ##References
+1. von Ungern-Sternberg BS, Boda K, Chambers NA, Rebmann C, Johnson C, Sly PD, et al. Risk assessment for respiratory complications in paediatric anaesthesia: a prospective cohort study. The Lancet. 2010 Sep;376(9743):773–83. 
