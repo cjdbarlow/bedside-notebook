@@ -40,8 +40,15 @@ Risk Factors (**MBBS MAT**):
 * **S**noring
 * **M**ale
 * **A**ge >55
-* **T**eeth (lack of)
-
+* **T**eeth (lack of)  
+Teeth are numbered:
+	* Firstly by quadrant  
+	Top-right, top-left, bottom-left, bottom-right.
+		* Adult teeth are quadrants 1-4 respectively  
+		Each quadrant has 8 teeth, for a total of 32.
+		* Deciduous (baby) teeth are quadrants 5-8  
+		Each quadrant has 5 teeth, for a total of 20.
+	* Secondly by tooth number, from medial to lateral
 
 
 ###Difficult Intubation

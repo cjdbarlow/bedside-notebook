@@ -22,12 +22,36 @@ This should ensure spontaneous ventilation maintained, though it takes quite som
 
 
 ###Relaxant-free Intubation
-Using Remifentanil:
+Using remifentanil:
 * 3-5μg/kg, up to ~250μg
 * Wait for the bradycardia  
 * Beware wooden chest
 * Will provide typically 3-4 minutes of apnoea
 
+
+Using fentanyl:
+* 5-7μg/kg
+* Standard dose of propofol
+* Time intubation with peak propofol effect
+
+
+###Synergistic Drug Combinations
+Diluted propofol:
+* Reduces pain on injection
+* Useful in paediatrics
+* Method:
+	* 1mg/kg of lignocaine and 2mg/kg of propofol
+	* Dilute mixture to 25ml total volume with normal saline
+	* Give via slow push
+
+	
+##Gas Induction
+Gentle gas induction to minimise smell of sevoflurane:
+* 50-70% FiN<sub>2</sub>O
+* Start sevoflurane at 0.5%
+* Double sevoflurane concentration every:
+	* 4-5 breaths
+	* Or when end-tital sevoflurane concentration is ~0.5 of inspired sevoflurane concentration
 
 
 ##Maintenance
@@ -43,10 +67,20 @@ Propofol/Alfentanil TIVA:
 
 
 ##Emergence
-From volatile and remifentanil
+From volatile and remifentanil:
 * Begin volatile wash out during wound closure
 * Trace volatile and remifentanil will keep patients functionally anaesthetised in absence of surgical stimulation
 * Turn off remifentanil prior to transferring patient from the operating table
 * Extubate on bed
+
+##Deep Extubation
+Requires:
+* Steady, stable, adequate ventilation on minimal pressure suppport
+* No response (cough, breath-hold, or altered respiratory pattern) to:
+	* Removal of ETT tape/tie
+	* Suctioning of oropharynx
+	* Deflation of ETT cuff
+* Removal of tube at end-inspiration  
+Vocal cords maximally abducted.
 
 ---
