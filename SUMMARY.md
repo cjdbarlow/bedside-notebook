@@ -111,6 +111,7 @@
 	* [Major Extracorporeal Perfusion](/anaesthesia/anzca/extracorporeal.md)
 	* [Infection Control](/anaesthesia/anzca/infection.md)
 	* [Non-Paediatric Centres](/anaesthesia/anzca/paeds.md)
+	* [Anaesthesia under Local](/anaesthesia/anzca/local.md)
 
 ---
 

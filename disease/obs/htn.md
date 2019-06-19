@@ -153,28 +153,52 @@ IV fluid increases risk of APO.
 		* Renal function normal 
 * Avoid NSAIDs  
 Reduce APO risk.
+* Aspirin  
+Indicated in pregnancy with major risk factors for pre-eclampsia, including:
+	* Pre-disposing medical conditions
+		* SLE
+		* Scleroderma
+		* Anti-phospholipid syndrome
+	* Chronic hypertension
+	* Diabetes
+	* CKD
+	* Oocyte donation
+	* Family history of pre-eclampsia  
+	Mother or sister.
+
 
 Treatment revolves around:
 * Control of blood pressure
 	* Target SBP 140-150mmHg and DBP 90-100mmHg
 	* Strategy depends on severity of hypertension
 		* For non-severe hypertension:
-			* Labetalol 100-200mg PO BD-TDS  
+			* Labetalol
 			Drug of choice.
-			* Nifedipine 10-20mg PO
+				* 100-400mg PO BD-TDS
+			* Nifedipine
+				* 20-60mg PO SR
 			* Methyldopa
+				* 250-750mg PO TDS
+			* Clonidine
+				* 75-300μg PO TDS
+			* Hydralazine
+				* 25-50mg PO Q8H
 			* Metoprolol
 			* Propranolol
 		* For **severe hypertension** or **hypertensive crisis**:
 		Aim to lower BP by 10-20mmHg every 10-20 minutes to reduce incidence of intracerebral haemorrhage.
 			* Labetalol
+				* 20-80mg IV over 2 minutes  
+				Can repeat every 10 minutes.
 			* Nifedipine
+				* 10-20mg PO IR
 			* Hydralazine  
+				* 10mg IV Q20 minutes
 			* GTN  
 			For hypertension and APO
 		* Safe agents in pregnancy include
 			* Labetalol
-* Planning for delivery  
+* **Planning for delivery**  
 	* Only curative option
 	* Neuraxial techniques preferred in absence of coagulopathy  
 	No clear advantage of any (CSE, epidural, single-shot spinal) technique.
@@ -188,6 +212,26 @@ Treatment revolves around:
 			* Decreases calcium influx  
 			Thereby decreasing ATP-consuming Ca<sup>2+</sup>-dependent processes.
 			* NMDA antagonism
+
+
+###Timing of Delivery  
+Timing of delivery is dependent on gestational age at time of onset of pre-eclampsia:
+* Previable (< 23<sup>6</sup> weeks)
+	* High risk patient
+	* Will likely require either:
+		* Termination of pregnancy
+		* Extreme preterm delivery
+* 24-31<sup>6</sup> weeks
+	* High risk patient
+	* Transfer to tertiary institution
+	* Will likely require pre-term delivery
+	* Aim to prolong pregnancy as able
+* 32-36<sup>6</sup> weeks
+	* Aim to prolong pregnancy
+	* Delivery where appropriate paediatric support is available
+* 37<sup>0</sup>
+	* Planned delivery
+
 
 ###Breastfeeding and Post-Partum Management
 Ongoing and new-onset hypertension occur in the post-partum period. In addition to drugs used antenatally, drugs with low milk:maternal plasma ratios include:
@@ -283,7 +327,9 @@ Foetal complications of pre-eclampsia include:
 
 ---
 ##References
-1. Dennis AT. Management of pre-eclampsia: issues for anaesthetists. Anaesthesia. 2012;67(9):1009-1020. doi:10.1111/j.1365-2044.2012.07195.x
-2. Dennis AT, Castro J, Carr C, Simmons S, Permezel M, Royse C. Haemodynamics in women with untreated pre-eclampsia*. Anaesthesia. 2012;67(10):1105-1118. doi:10.1111/j.1365-2044.2012.07193.x
-3. Dennis AT, Solnordal CB. Acute pulmonary oedema in pregnant women. Anaesthesia. 2012;67(6):646-659. doi:10.1111/j.1365-2044.2012.07055.x
-4. Dennis AT, Castro JM. Hypertension and haemodynamics in pregnant women - is a unified theory for pre-eclampsia possible? Anaesthesia. 2014;69(11):1183-1189. doi:10.1111/anae.12832
+1. Dennis AT. Management of pre-eclampsia: issues for anaesthetists. Anaesthesia. 2012;67(9):1009-1020.
+2. Dennis AT, Castro J, Carr C, Simmons S, Permezel M, Royse C. Haemodynamics in women with untreated pre-eclampsia*. Anaesthesia. 2012;67(10):1105-1118.
+3. Dennis AT, Solnordal CB. Acute pulmonary oedema in pregnant women. Anaesthesia. 2012;67(6):646-659.
+4. Dennis AT, Castro JM. Hypertension and haemodynamics in pregnant women - is a unified theory for pre-eclampsia possible? Anaesthesia. 2014;69(11):1183-1189.
+5. New Zealand Committee of RANZCOG, NZCOM. [Guidance regarding the use of low-dose aspirin in the prevention of pre-eclampsia in high-risk women](https://www.ranzcog.edu.au/RANZCOG_SITE/media/RANZCOG-MEDIA/New%20Zealand/Guidance-Aspirin-for-Prevention-of-Pre-eclampsia.pdf). 2018.
+6. Lowe SA, Bowyer L, Lust K, McMahon LP, Morton M, North RA, Paech M. Said JM. [Guideline for the Management of Hypertensive Disorders of Pregnancy](https://www.ranzcog.edu.au/RANZCOG_SITE/media/RANZCOG-MEDIA/Women%27s%20Health/SOMANZ-Hypertension-Pregnancy-Guideline-April-2014.pdf?ext=.pdf). 2014.

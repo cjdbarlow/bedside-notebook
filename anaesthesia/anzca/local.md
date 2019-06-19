@@ -1,0 +1,43 @@
+#Guidelines for Health Practitioners Administering Local Anaesthesia
+
+Local anaesthesia:
+* Describes reduction or elimination of pain achieved by drugs acting locally to interfere with nerve conduction
+* May be administered:
+	* Topically
+	* By injection at the:
+		* Field
+		* Peripheral nerve
+
+
+Patient assessment is:
+* Identical to standard pre-operative assessment
+* Aims to identify patients at risk of compromise to:
+	* CVS
+	* Respiratory
+	* Airway
+
+##Equipment and Facilities
+The location should have:
+* Equipment to maintain basic life support until specialised help is available
+* A means to summmon help
+
+
+The location may have:
+* Adequate room for resuscitation
+* Appropriate lighting
+* Oxygen supply and means of administration
+* A means of inflating the lungs with oxygen
+* A means to measuring blood pressure
+
+
+##Technique
+* Principal monitoring will be observation and communication with the patient
+* Other monitors may be required if clinically indicated
+* Practitioners administered local anaesthesia should be trained in the:
+	* Dosing
+	* Use and appropriateness of additives
+	* Management of copmlications
+
+---
+##References
+1. ANZCA. [PS37: Guidelines for Health Practitioners Administering Local Anaesthesia](http://www.anzca.edu.au/Documents/ps37-2013-guidelines-for-health-practitioners-admi.pdf) .

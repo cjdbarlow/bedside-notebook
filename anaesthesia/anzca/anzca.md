@@ -34,25 +34,27 @@ Covered under:
 * [PS15: Guidelines for the Perioperative Care of Patients Selected for Day Care Surgery](http://www.anzca.edu.au/Documents/ps15-2010-recommendations-for-the-perioperative-ca.pdf)  
 Covered under:
 	* [Day Surgery](/anaesthesia/anzca/daystay.md)
-* [PS18 Guidelines on Monitoring During Anaesthesia](http://www.anzca.edu.au/Documents/ps18-2015-guidelines-on-monitoring-during-anaesthe.pdf)  
+* [PS18: Guidelines on Monitoring During Anaesthesia](http://www.anzca.edu.au/Documents/ps18-2015-guidelines-on-monitoring-during-anaesthe.pdf)  
 Covered under:
 	* [Monitoring](/anaesthesia/anzca/monitoring.md)
-* [PS26 Guidelines on Consent for Anaesthesia or Sedation](http://www.anzca.edu.au/Documents/ps26-2005-guidelines-on-consent-for-anaesthesia-or.pdf)  
+* [PS26: Guidelines on Consent for Anaesthesia or Sedation](http://www.anzca.edu.au/Documents/ps26-2005-guidelines-on-consent-for-anaesthesia-or.pdf)  
 Covered under:
 	* [Consent](/anaesthesia/anzca/consent.md)
-* [PS27 Guidelines for Major Extracorporeal Perfusion](http://www.anzca.edu.au/Documents/ps27-2015-guidelines-for-major-extracorporeal-perf.pdf)  
+* [PS27: Guidelines for Major Extracorporeal Perfusion](http://www.anzca.edu.au/Documents/ps27-2015-guidelines-for-major-extracorporeal-perf.pdf)  
 Covered under:
 	* [Major Extracorporeal Perfusion](/anaesthesia/anzca/extracorporeal.md)
-* [PS28 Guidelines on Infection Control in Anaesthesia](http://www.anzca.edu.au/Documents/ps28-2015-guidelines-on-infection-control-in-anaes.pdf)  
+* [PS28: Guidelines on Infection Control in Anaesthesia](http://www.anzca.edu.au/Documents/ps28-2015-guidelines-on-infection-control-in-anaes.pdf)  
 Covered under:
 	* [Infection Control](/anaesthesia/anzca/infection.md)
-* [PS29 Statement on Anaesthesia Care of Children in Healthcare Facilities Without Dedicated Paediatric Facilities.](http://www.anzca.edu.au/Documents/ps29-2008-statement-on-anaesthesia-care-of-childre.pdf)
+* [PS29: Statement on Anaesthesia Care of Children in Healthcare Facilities Without Dedicated Paediatric Facilities.](http://www.anzca.edu.au/Documents/ps29-2008-statement-on-anaesthesia-care-of-childre.pdf)
 Covered under:
 	* [Non-Paediatric Centres](/anaesthesia/anzca/paeds.md)
-* [PS31 Guidelines on Checking Anaesthesia Delivery Systems](http://www.anzca.edu.au/Documents/ps31-2014-guidelines-on-checking-anaesthesia-deliv.pdf)  
+* [PS31: Guidelines on Checking Anaesthesia Delivery Systems](http://www.anzca.edu.au/Documents/ps31-2014-guidelines-on-checking-anaesthesia-deliv.pdf)  
 Covered under:
 	* [Anaesthetic Machine Check](/assessment/anaesthetic/machinecheck.md)
-
+* [PS37: Guidelines for Health Practitioners Administering Local Anaesthesia](http://www.anzca.edu.au/Documents/ps37-2013-guidelines-for-health-practitioners-admi.pdf)  
+Covered under:
+	* [Anaesthesia under Local](/anaesthesia/anzca/local.md)
 
 
 ---
