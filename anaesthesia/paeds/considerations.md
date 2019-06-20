@@ -86,6 +86,7 @@ Factors include:
 		* Use of cuffed (compared with uncuffed) ETT  
 		Also reduces post-operative stridor. 
 
+
 ####Post-Extubation Stridor/"Croup"{#stridor}
 Post-operative laryngeal oedema due to irritation from ETT. It:
 * Can be **disastrous**
@@ -99,7 +100,8 @@ Post-operative laryngeal oedema due to irritation from ETT. It:
 	* Resuscitation
 	* Light sedation  
 	Aim to reduce distress without decreasing respiratory drive.
-	* Nebulised adrenaline
+	* Nebulised adrenaline  
+	0.5ml/kg of 1:1,000, up to 5mg total.
 	* Steroids  
 	Dexamethasone 0.5-1mg/kg.
 	* Reintubation  
