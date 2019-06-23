@@ -32,9 +32,12 @@ Immediate management follows a DRSABCD approach:
 		500ug IM Q5 minutes.
 		* If IV access:
 			* Grade 2  
-			20ug bolus Q1-2 minutes as starting dose, titrated to effect.
+				* Adults: 20ug bolus Q1-2 minutes as starting dose, titrated to effect
+				* Paeds: 2ug/kg bolus  
+				Draw up an arrest dose (10ug/kg) in a 10ml syringe with saline, for a total volume of 10ml. This gives 1ug/kg/ml.
 			* Grade 3 (Life threatening)  
-			100-200ug bolus Q1-2 minutes as starting dose, titrated to effect.
+				* Adults: 100-200ug bolus Q1-2 minutes as starting dose, titrated to effect.
+				* PAaeds: 4-10ug/kg bolus
 		* If >3 IV boluses required, commence infusion:  
 		Peripheral infusion is acceptable in the short term prior to establishing CVC access.
 			* Begin at 3ug/min

@@ -105,8 +105,8 @@ Post-operative laryngeal oedema due to irritation from ETT. It:
 	* Steroids  
 	Dexamethasone 0.5-1mg/kg.
 	* Reintubation  
-	If ongoing deterioration or hypoxia.
-	* Tracheostomy  
+	If ongoing deterioration or hypoxia
+.	* Tracheostomy  
 	If upper airway obstruction worsens.
 * Rebound may occur at ~2 hours
 
@@ -114,7 +114,7 @@ Post-operative laryngeal oedema due to irritation from ETT. It:
 
 
 ##Cardiovascular
-Key differences:
+Key differences in young children:
 * ↓ Myocardial compliance  
 Heart failure with ↑ volume due to poor Starling response.
 * ↓ Contractility  
@@ -123,7 +123,7 @@ Due to ↓ number of elements.
 	* CO is HR dependent
 * Heart rate
 	* Bradycardia is poorly tolerated  
-	HR <60 does not give adequate CO - **commence CPR**.
+	HR <60 does not give adequate CO - **commence CPR** in neonates, or when there are signs of inadequate perfusion in older children.
 		* Atropine  
 		Relative parasympathetic predominance in autonomically stressed child, but not always reliable.
 		* Adrenaline  
@@ -133,6 +133,11 @@ Due to ↓ number of elements.
 	* Tachycardia is well tolerated
 * Dominate vagal tone  
 Bradycardia common with vagal stimuli, such as laryngoscopy, hypoxia.
+
+
+Older children:
+* Absence of cardiac disease means children will tolerate significant doses of anaesthesia without circulatory compromise
+
 
 
 ##CNS
