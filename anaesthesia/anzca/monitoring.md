@@ -49,4 +49,4 @@ Alarms:
 ---
 
 ##References
-1. ANZCA. [PS18 Guidelines on Monitoring During Anaesthesia](http://www.anzca.edu.au/Documents/ps18-2015-guidelines-on-monitoring-during-anaesthe.pdf).
+1. ANZCA. [PS18: Guidelines on Monitoring During Anaesthesia](http://www.anzca.edu.au/Documents/ps18-2015-guidelines-on-monitoring-during-anaesthe.pdf).

@@ -1,0 +1,40 @@
+#Industry Relationships
+
+Relationship of healthcare providers with the healthcare industry is inevitable, but does give rise to professional and ethical questions. In general:
+* Community benefit should be the deciding factor behind any association
+* Financial benefits to the provider are not sanctioned by ANZCA
+* Any association with a provider:
+	* Must be openly declared if there is financial or material support to the provider
+	* Does not imply endorsement of the product
+	* Cannot rely on affiliation to ANZCA
+	* Should respect responsibility fellows hold to their colleagues and trainees
+* Any association with ANZCA:
+	* Does not imply endorsement of the product/service
+	* Must have all sources of funding declared
+
+
+Industry-supported education must have:
+* An organising committee independent of industry
+	* Industry may have minority representation
+* Advertising material clearly advertised as such
+* Declaration by presenters of industry funding and support  
+Presenters should present content in an unbiased manner.
+
+
+Industry-supported research must have:
+* Written contracts administered by a neurtral third party  
+e.g. Hospital, university, research foundation.
+* Financial arrangements should be via the third party
+* A right for investigators to access and publish data, independent of outcome
+
+
+Industry-sponsored employment must be:
+* Paid via a neutral third-party
+* Subject to normal rule sof the employer
+* Not for work usually done pro-bono  
+e.g. Mentorship, short courses, exam practice, etc.
+
+---
+
+##References
+1. ANZCA. [PS40: Statement on the Relationship between Fellows, Trainees and the Healthcare Industry](http://www.anzca.edu.au/Documents/ps40-2012-statement-on-the-relationship-between-fe.pdf).

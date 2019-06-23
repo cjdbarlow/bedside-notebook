@@ -55,6 +55,12 @@ Covered under:
 * [PS37: Guidelines for Health Practitioners Administering Local Anaesthesia](http://www.anzca.edu.au/Documents/ps37-2013-guidelines-for-health-practitioners-admi.pdf)  
 Covered under:
 	* [Anaesthesia under Local](/anaesthesia/anzca/local.md)
+* [PS38: Statement Relating to the Relief of Pain and Suffering and End of Life Decisions](http://www.anzca.edu.au/Documents/ps38-2010-statement-relating-to-the-relief-of-pain.pdf)  
+Covered under:
+	* [Palliative and End-of-Life Care](/anaesthesia/anzca/eol.md)
+* [PS40: Statement on the Relationship between Fellows, Trainees and the Healthcare Industry](http://www.anzca.edu.au/Documents/ps40-2012-statement-on-the-relationship-between-fe.pdf)  
+Covered under:
+	* [Industry Relationships](/anaesthesia/anzca/industry.md)
 
 
 ---

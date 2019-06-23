@@ -18,4 +18,4 @@ Benefits of cessation:
 ---
 
 ##References
-1. ANZCA. [PS12 Guidelines on Smoking as Related to the Perioperative Period](http://www.anzca.edu.au/Documents/ps12-2013-guidelines-on-smoking-as-related-to-the.pdf).
+1. ANZCA. [PS12: Guidelines on Smoking as Related to the Perioperative Period](http://www.anzca.edu.au/Documents/ps12-2013-guidelines-on-smoking-as-related-to-the.pdf).

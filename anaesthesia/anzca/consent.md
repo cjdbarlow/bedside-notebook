@@ -61,4 +61,4 @@ Provision of information and discussion of treatment undertaken must be done as 
 
 ---
 ##References
-1. ANZCA. [PS26 Guidelines on Consent for Anaesthesia or Sedation](http://www.anzca.edu.au/Documents/ps26-2005-guidelines-on-consent-for-anaesthesia-or.pdf).
+1. ANZCA. [PS26: Guidelines on Consent for Anaesthesia or Sedation](http://www.anzca.edu.au/Documents/ps26-2005-guidelines-on-consent-for-anaesthesia-or.pdf).
