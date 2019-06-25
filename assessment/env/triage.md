@@ -12,11 +12,11 @@ Reassessment is required to detect:
 
 ##Classifications
 Triage priorities:
-* Tier 1 
+* Tier 1   
 Immediate priority. Require immediate life-saving procedures.
-* Tier 2
-Urgent prioriety. Require intervention within 2-4 hours.
-* Tier 3 
+* Tier 2  
+Urgent priority. Require intervention within 2-4 hours.
+* Tier 3  
 Delayed priority. Intervention can be delayed ⩾4 hours.
 	* Should be directed to a survivor reception centre
 	* Should continue to be monitored to ensuree they do not deteriorate
@@ -48,7 +48,7 @@ Straightforward protocol based on:
 * Circulation assessment  
 Capillary refil time ⩽2 seconds can also be used as an alternative to HR.
 
-<img src="resources\triage-sieve.jpg">
+<img src="\resources\triage-sieve.jpg">
 
 Application to paediatrics:
 * Increased normal RR and HR in children will lead to relative over-triage of children

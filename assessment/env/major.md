@@ -130,7 +130,7 @@ Point of secondary triage and casualty treatment. Should be:
 
 
 *Example of a CCS*  
-<img src="resources\ccs.jpg">
+<img src="\resources\ccs.jpg">
 
 ###Safety
 Code of safety is the '1-2-3' of safety:
