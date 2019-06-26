@@ -5,13 +5,44 @@
 Triage is:
 * A method of sorting casulaties into treatment priorities
 * A dynamic process  
-Reassessment is required to detect:
-	* Deteroriation
-	* Improvement
+	* Reassessment is required to detect:
+		* Deteroriation
+		* Improvement
+	* Reassessed:
+		* At scene
+		* At CCS
+		* On arrival to hospital
+		* Etc
+
+##Methods
+Many triage tools exist. MIMMS describes the:
+* Triage sieve  
+Rapidly sorts casualties into priorities based on physiological variables. Quick but crude.
+* Triage sort
 
 
-##Classifications
-Triage priorities:
+###Triage Sieve
+Straightforward protocol that is:
+* Performed by anyone with limited training
+* Reproducible
+* Based on physiological assessments  
+Less prone to bias then anatomical systems.
+* Based on assessment of:
+	* Mobility
+	* Airway assessment
+	* Respiratory rate
+	* Circulation assessment  
+	Capillary refil time ⩽2 seconds can also be used as an alternative to HR, though HR takes precedence.
+
+<img src="\resources\triage-sieve.jpg">
+
+Application to paediatrics:
+* Increased normal RR and HR in children will lead to relative over-triage of children
+	* Some feel this is beneficial to speed up evacuation of children
+	* Specific protocols for triaging of children exist  
+	Paediatric Broselow tapes exist for triage protocols.
+
+####Classifications
 * Tier 1   
 Immediate priority. Require immediate life-saving procedures.
 * Tier 2  
@@ -32,28 +63,6 @@ Expectant.
 	* May be revoked if resources become available  
 	All T4 casualties then become T1.
 
-
-##Methods
-Many triage tools exist. MIMMS describes the:
-* Triage sieve  
-Rapidly sorts casualties into priorities based on physiological variables. Quick but crude.
-* Triage sort
-
-
-###Triage Sieve
-Straightforward protocol based on:
-* Mobility
-* Airway assessment
-* Respiratory rate
-* Circulation assessment  
-Capillary refil time ⩽2 seconds can also be used as an alternative to HR.
-
-<img src="\resources\triage-sieve.jpg">
-
-Application to paediatrics:
-* Increased normal RR and HR in children will lead to relative over-triage of children
-	* Some feel this is beneficial to speed up evacuatiojn of children
-	* Specific protocls for triaging of children exist
 
 ###Triage Sort
 Controlled method triage based upon the Triage Revised Trauma Score, which uses the sum of scores from:

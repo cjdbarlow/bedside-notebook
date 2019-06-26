@@ -1,6 +1,6 @@
 #Major Incident Assessment and Medical Management
 
-A major incident occurs when the location, number, severity, or type of live casualties requires extraordinary resources. Major incidents can be:
+A major incident occurs when the location, number, severity, or type of live casualties requires **extraordinary resources**. Major incidents can be:
 * Natural of man-made
 * Simple or compound  
 A compound incident occcurs when releveant infrastructure (roads, hospitals, and lines of communication) is also disrupted/destroyed.
@@ -25,6 +25,8 @@ Severe disruption to health and social care and other supportive infrastructure 
 Emergency preparation is vital to limiting extent and severity of an incident. Preparedness involves:
 * Preparation
 	* Planning
+		* Should be **all-hazard**  
+		Needs to be generic enough to cover all disasters.
 		* Health service plans
 			* Ambulance service plan
 			* Internal hospital plans  
@@ -32,7 +34,7 @@ Emergency preparation is vital to limiting extent and severity of an incident. P
 		* High-risk venue plans  
 		e.g. Stadiums, festivals, protests are all high-risk settings.
 		* Government plans  
-		Regional/State/National plans for coordinating rsources.
+		Regional/State/National plans for coordinating resources.
 		* Creating surge capacity
 			* Inter- and intra-agency written protocols
 			* Succession planning within organisations
@@ -67,22 +69,48 @@ Emergency preparation is vital to limiting extent and severity of an incident. P
 * Recovery
 
 
-##Incident Response
-Response involves:
+##Overview of Incident Response
+Response **from all services** involves **CSCATT**:
 * Command and Control
-* Scene layout
-* Safety
-* Establishing communications
-* Conducting initial assessment
+	* Scene layout
+* Safety  
+Of:
+	* Self
+	* Scene
+	* Survivors
+* Communications  
+Particularly the **ETHANE** approach.
+* Assessment
+	* Hazards
+	* CCS
+* Triage
+* Treatment
+* Transport
+
+
+Priorities are to:
+* Save life
+* Prevent escalation
+* Relieve suffering
+* Protect property
+* Launch inquiries
+
+
+Medical response is led by the:
+* Ambulance Commander
+* Medical Commander
 
 ###Command and Control
+>Organisations are commanded, situations are controlled, and resources are coordinated
+
 * Command  
 Held by each emergency service at scene.
 	* Runs vertically in each service
 * Control  
 Held by **one** service at scene.
 	* Runs horizontally **across the services**  
-	* In Australia, service in control will depend on the nature of the incident
+	* In Australia, service in control will depend on the nature of the incident  
+	Ambulance and medical are never a control agency.
 
 
 Tiers of Command:
@@ -91,21 +119,25 @@ Tiers of Command:
 	* Cross state/national boundaries may require multi-agency gold command  
 	Regional or national ocoordination may be established above this; known as platinum command.
 	* Supports tactical command
+	* Generally not on site
+		* Regional emergency operation centre
 * Tactical/Silver Command  
 	* Commanders of each service  
 	Co-location of service commanders forms Joint Services Emergency Control.
 	* Located inside the outer cordon
 	* Allocate resouces to operaetional commanders
+	* Interservice operational requests are requested at the silver command level
 * Operational/Bronze Command
 	* Multiple bronze commanders dealing with particular sectors
-	* Oversee operational activities
+	* Oversee operational activities  
+	Commanders **do not become involved in casualty treatment**.
 
-###Layout
+####Layout
 Scene layout:
 * Outer cordon  
 Prevents access by general public. Usually established and maintained by police.
 * Inner cordon  
-Area around scene, outside of which service facilities are established.
+Area around scene, outside of which service facilities are established. Usually established by fire.
 
 Health service response requires:
 * Ambulance Command Point  
@@ -122,7 +154,8 @@ Area where ambulances collect casualties from CCS.
 Point of secondary triage and casualty treatment. Should be:
 	* Safe
 	* Accessible:
-		* From the scene
+		* From the scene  
+		As close as possible without compromising safety.
 		* To evacuation routes
 	* Sheltered
 	* Well-lit
@@ -142,6 +175,7 @@ Code of safety is the '1-2-3' of safety:
 2. Scene
 3. Survivors  
 Prevent further casualties.
+	* Evacuate uninjured survivors
 
 
 Risk Asseessment:
@@ -169,6 +203,11 @@ May indicate leak present.
 ###Communication
 > Poor communication is the commonest failing at the scene of a major incident
 
+Failures of communication occur when there is a lack of:
+* Information
+* Confirmation
+* Coordination
+
 Key messages:
 * Major incident - standby  
 Alerts hospital that a major incident is possible.
@@ -176,6 +215,67 @@ Alerts hospital that a major incident is possible.
 Incident has occured and the response is enacted.
 * Major incident - cancelled  
 Above order rescinded.
+
+####Methods
+* Radio net
+* Landlines
+* Mobile networks  
+Reception often poor when net is saturated.
+* Runners  
+With handwritten messages.
+
+
+####Radio Procedure
+Radio traffic should be:
+* Rhythm  
+Steady rhythm.
+* Speed  
+Slower than normal.
+* Volume  
+Of adequate volume.
+* Pitch  
+Higher pitch is more readable.
+
+Common radio pro-words:
+* I SPELL  
+Next word spelled phonetically.
+* SAY AGAIN  
+Request to repeat all of the last transmission.
+	* SAY AGAIN ALL AFTER  
+	Repeat message after a given phrase.
+	* SAY AGAIN ALL BEFORE  
+	Repeat message before a given phrase.
+* OVER  
+I have finished talking.
+* OUT  
+The conversation is finished. Only to be stated by the party initiating the call.
+* WAIT 1/2/3/4/5  
+Wait a given number of seconds.
+* WAIT OUT  
+Wait longer than 5 seconds; conversation is over in interim.
+* RADIO CHECK  
+Check of **strength and readability** of radio signal with another call-sign.
+	* Strength  
+	Can be:
+		* Loud
+		* Good
+		* Weak
+		* Very weak
+		* Fading
+	* Readability  
+	Can be:
+		* Clear
+		* Readable
+		* Distorted
+		* Unreadable
+		* With interference
+* FIGURES  
+When giving a number; e.g. "sixty, figures six-zero".
+* MESSAGE/PREPARE TO COPY  
+I have to tell you something.
+* SEND  
+I am ready to receive your message.
+
 
 
 ###Scene Assessment  
@@ -202,6 +302,42 @@ Initial assessment:
 Ongoing assessment can be covered with **HANE**.
 
 
+###Triage{#triage}
+*Covered in detail under [triage](/assessment/env/triage.md).*
+
+Triage is:
+* The cornerstone of support
+* Involves sorting casulaties into treatment priorities
+* Requires an appropriate labelling system
+	* Easily and securely attached
+	* Marked and colour coded
+	* Durable and weather resistant
+	* Able to be written on
+	* Facilitate rapid and clear re-categorisation
+
+
+###Treatment{#treatment}	
+Aims to do the most for the most; i.e. maximise utilitarian benefit. May include:
+* First aid  
+Should allow immediate intervention in life-threatening conditions.
+	* May include devices to support respiration  
+	This consumes significant resources and may not be appropriate depending on the number and severity of casulaties relative to the number and expertise of providers.
+* Advanced Life Support  
+	* Provided at CCS
+	* Extent of resuscitation attempts will depend on casualty load
+* Blood product  
+	* Exceptional circumstances only
+	* Usually coordinated through local services
+	* Regular donor centres are usually used to facilitate donation
+* Specialist medical intervention  
+Supplied and supported by medical teams.
+
+
+###Transport
+Most casualties will be moved to hospital, either by own means or by emergency services.
+
+
+
 ##Service Reponse
 Objectives of all services are to:
 * Save life
@@ -218,10 +354,15 @@ Key roles:
 * First crew on scene  
 Duties:
 	* Critical to determining speed of mobilisation
-	* Ambulance attendant should assume role of ambulance commander
-	* Ambulance assistant will maintain communications with control
-	* Should **not become invovled with casualty treatment**  
+	* Senior paramedic should assume role of ambulance commander  
+		* Should find fire (who generally have *control*), and thereby form a forward *command* post
+	* Junior paramedic will maintain communications with control  
+	Acts as communications officer.
+	* Should **not become involved with casualty treatment**  
 	Will prevent adequate scene assessment and mobilisation of additional resources.
+	* Leave emergency beacons on  
+	Designates *command* vehicle.
+	* Designates other roles as more crews arrive on scene
 * Ambulance Commander  
 Duties:
 	* Commands ambulance resources
@@ -270,9 +411,36 @@ Supervises vehicle resources to ensure they are used appropriately, and logs sta
 Recieves and distrubtes equipment.
 
 
-###Medical Response
+###State Emergency Service
+In Victoria:
+* Lead agency for flood, earthquake, wind, tempest and other natural disasters
+
+
+###Defence Force
+ADF:
+* Does not have a formal role in disaster management
+* Can be requested via Defence Assistance to Civil Community  
+Categorised as:
+	* Category 1  
+	Response within 24 hours if civilian resources are exhausted.
+	* Category 2
+	* Category 3
+* Can mobilise enormous resources and personell at short notice
+	* Search and Rescue
+	* Hazard Control
+		* EOD
+		* Fire fighting
+	* Casualty treatment and transport
+	* Body recovery
+	* Maintenance of public order
+	* Provision of food/water/shelter
+* Cannot be commanded or have its assets commandeered by other services
+
+
+###Medical/Health Response
 Key roles:
 * Medical Commander  
+If present, oversees triage and treatment (whilst ambulance does transport).
 	* Background is less important than the following:
 		* Major incident management training and experience
 		* Pre-hospital training and experience
@@ -284,12 +452,11 @@ Key roles:
 			* Should **not become involved with casualty treatment**  
 			* Ensures secondary triage is established
 			* Performs clinical assessment of scene
-			* 
 		* Ensures receiving hospitals receive adequate information
 		* Liases with ambulance commander for:
 			* Medical equipment needs
 			* Destination of casualties
-* Forward Medical Commander  
+* Forward Medical Commander/Forward Emergency Medical Officer (FEMO)  
 Duties:
 	* Supervises clinicians working in the forward area
 	* No direct involvement with patient care
@@ -301,6 +468,15 @@ Duties:
 	* Treates live casualties at site and at CCS
 	* Provides assistance to mobile surgical team
 	* Confirms death at scene
+
+
+####Victorian Medical Assistance Teams
+VMAT:
+* Team of experieced doctors and nurses
+* Deployed from hospital to provide on-site assessment and emergency treatment
+* Can provide extended field care and advanced clinical care
+* Report to Forward Medical Commander  
+Or health commander if no medical commander present.
 
 
 ####Management of the Dead
@@ -330,15 +506,24 @@ Only by coronial order. Considerations include:
 Initial Responsibilities:
 * Command and control
 * Log of incident
+* Media relations  
+Keep outside of the outer cordon.
+* Activating support services  
+NGOs, etc.
+* Liasing with defence forces
 * Prevent escalation
 * Provides traffic management
 * Maintains public order
+* Protection of other services
 * Protects property
 * Criminal investigation
 * Establishes outer cordon to prevent access by general public  
 * Assistance to other services
 
+
 ###Fire Response
+* Response is pre-determined  
+Protocolised deployment of resources based on type of incident.
 * Establish forward control piont
 * Prevent escalation
 * Fight fire
@@ -348,53 +533,6 @@ Initial Responsibilities:
 e.g. Lights, tentage, lifting.
 * Mass decontamination
 * Assistance to other services
-
-
-##Medical Support
-Response led by:
-* Ambulance Commander
-* Medical Commander
-
-Components:
-* Triage  
-* Treatment  
-Includes:
-	* Life-saving first age
-	* Advanced Life Support
-	* Specialist Medical Support
-* Transport  
-Most casualties will be moved to hospital, either by own means or by emergency services.
-
-
-###Triage
-*Covered in detail under [triage](/assessment/env/triage.md).*
-
-Triage is:
-* The cornerstone of support
-* Involves sorting casulaties into treatment priorities
-* Requires an appropriate labelling system
-	* Easily and securely attached
-	* Marked and colour coded
-	* Durable and weather resistant
-	* Able to be written on
-	* Facilitate rapid and clear re-categorisation
-
-
-###Treatment	
-Aims to do the most for the most; i.e. maximise utilitarian benefit. May include:
-* First aid  
-Should allow immediate intervention in life-threatening conditions.
-	* May include devices to support respiration  
-	This consumes significant resources and may not be appropriate depending on the number and severity of casulaties relative to the number and expertise of providers.
-* Advanced Life Support  
-	* Provided at CCS
-	* Extent of resuscitation attempts will depend on casualty load
-* Blood product  
-	* Exceptional circumstances only
-	* Usually coordinated through local services
-	* Regular donor centres are usually used to facilitate donation
-* Specialist medical intervention  
-Supplied and supported by medical teams.
 
 
 ##Media Handling
@@ -410,7 +548,7 @@ May:
 
 ###Media Management
 * Responsibility of police
-* Requires a balance of providing information to satisfy journalists, and prevent harm to scene and personell  
+* Requires a balance of providing information to satisfy journalists, and prevent harm to scene and personnel  
 Achieved with:
 	* Restrictions
 		* Create a media rendevous point
@@ -421,6 +559,7 @@ Achieved with:
 		* Regular information updates
 		* Parking for broadcast vehicles  
 		Not obstructing access routes.
+
 
 ##Special Incidents
 Include:
@@ -436,6 +575,7 @@ Requires specialised equipment and staffing. May involve evacuation to paediatri
 	* Requires attendance by burns assessment team  
 	Usually registrar/specialist and burns nurse deployed to each ED.
 	* Often requires evacuation to centres far from incident location
+
 
 ###Scene Considerations
 Determine the:
@@ -458,6 +598,7 @@ Signs of contamination:
 Fruit, flowery, sharp, pungent, garlic, hay.
 * Cloud and fog unexplained by prevailing weather
 
+
 ###Decontamination
 Includes:
 * Clinical decontamination  
@@ -465,6 +606,21 @@ Usually 'rinse, wipe, rinse' by trained health care professionals.
 * Interim decontamination
 * Improvised decontamination
 * Mass decontamination
+
+
+
+###Incident Management System
+* Integrated all-service response to hostile events
+* Divided into hot/warm/cold zones  
+Borders protected by armed police.
+	* Hot zone  
+	Active shooter.
+	* Warm zone  
+	Injured/escaped casualties evacuated here.
+	* Cold zone  
+	All agency response assets sited here.
+
+
 
 ---
 ##References

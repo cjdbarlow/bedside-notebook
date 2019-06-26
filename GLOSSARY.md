@@ -246,6 +246,9 @@ Estimated Gestational Age
 ##ELM
 External Laryngeal Manipulation
 
+##EOD
+Explosive Ordinance Disposal
+
 ##EPO
 Erythropoietin
 
