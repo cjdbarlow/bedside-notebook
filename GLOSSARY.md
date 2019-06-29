@@ -315,6 +315,9 @@ Hypothalamic-Pituitary Axis
 ##HR
 Heart Rate
 
+##HOTO
+Handover Takeover
+
 ##IABP
 Intra-Aortic Balloon Pump
 

@@ -160,6 +160,14 @@ Point of secondary triage and casualty treatment. Should be:
 	* Sheltered
 	* Well-lit
 	* Of appropriate size
+	* Laid out as follows:
+		* Equipment in one section
+		* One entry for patients from the scene
+		* One exit for patients to Ambulance Loading Point
+		* Patients with heads easily accessible  
+			* Semi-circle around team leader/provider
+			* Feet against the wall
+		* Sections for casualties of each priority
 
 
 *Example of a CCS*  
@@ -334,7 +342,24 @@ Supplied and supported by medical teams.
 
 
 ###Transport
-Most casualties will be moved to hospital, either by own means or by emergency services.
+In general:
+* Most casualties will be moved to hospital, either by own means or by emergency services
+	* Prior 3s should be evacuated by non-medical transport *en masse* to a receiving hospital  
+	Can be placed on buses/civilian transports.
+* Transport mode based upon:
+	* Capacity
+	* Availability
+	* Suitability
+* Evacuation order may not strictly be based upon priority  
+Considerations:
+	* Current transport modes available
+	* How stable a given patient is for transfer  
+	Benefit of additional care that can be provided at CCS>
+	* Disease process  
+	e.g. Airway burns.
+	* Definitive care required
+	* Revised trauma score value  
+	Can be used to subdivide within priority categories.
 
 
 
@@ -356,6 +381,9 @@ Duties:
 	* Critical to determining speed of mobilisation
 	* Senior paramedic should assume role of ambulance commander  
 		* Should find fire (who generally have *control*), and thereby form a forward *command* post
+		* Will be *acting silver command* until arrival of senior ambulance personnel  
+		Ideally only one HOTO will occur to avoid missed information in handover.
+		* On completion of handover, will generally become a bronze commander
 	* Junior paramedic will maintain communications with control  
 	Acts as communications officer.
 	* Should **not become involved with casualty treatment**  
@@ -577,7 +605,7 @@ Requires specialised equipment and staffing. May involve evacuation to paediatri
 	* Often requires evacuation to centres far from incident location
 
 
-###Scene Considerations
+###Scene Considerations in Hazmat and CBRN
 Determine the:
 * Cold zone  
 Uncontaminated area between inner and outer cordons.
@@ -587,9 +615,9 @@ Area contaminated by movement of people and vehicles to and from the hot zone.
 Contaminated area where substances disperse to.
 
 
-Signs of contamination:
+Look for signs of contamination:
 * Dead birds/fish/insects
-* PHysical symptoms
+* Physical symptoms
 * Mass casualties
 * Unusual liquid droplets
 	* Oily film on water
@@ -599,14 +627,27 @@ Fruit, flowery, sharp, pungent, garlic, hay.
 * Cloud and fog unexplained by prevailing weather
 
 
-###Decontamination
-Includes:
-* Clinical decontamination  
-Usually 'rinse, wipe, rinse' by trained health care professionals.
-* Interim decontamination
-* Improvised decontamination
-* Mass decontamination
+Considerations:
+* Emergency service liason
+* Product identification
+* Symptomatology
+* Antidotes
+* Management of decontamination`
 
+
+###Decontamination
+For persons who have contacted the substance. Decontamination:
+* Run by a Decontamination Control Officer  
+Reports to Ambulance Commander.
+* Includes:
+	* Clinical decontamination  
+	Usually 'rinse, wipe, rinse' by trained health care professionals.
+	* Interim decontamination  
+	Single individual shower.
+	* Improvised decontamination  
+	e.g. Using fire hose.
+	* Mass decontamination  
+	Specially constructed tents for showering multiple people at a time. Usually include a method for decontaminating persons on stretchers as well.
 
 
 ###Incident Management System
