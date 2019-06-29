@@ -38,8 +38,6 @@ Surgery:
 		* Increases importance of good myocardial protection on CPB
 
 
-##Preoperative Assessment
-*This covers factors unique to AVR. Factors relating to cardiac surgery in general are covered [here](/anaesthesia/cthr/cthr-principles.md#id).*
 
 ##Preparation
 *This covers factors unique to AVR. Factors relating to cardiac surgery in general are covered [here](/anaesthesia/cthr/cthr-principles.md#id).*

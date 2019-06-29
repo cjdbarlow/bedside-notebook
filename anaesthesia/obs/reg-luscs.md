@@ -34,7 +34,7 @@ Provision of regional anaesthesia for a [caesarian section](/luscs.md):
 		* Allows block to be extended if surgery is prolonged
 		* Epidural can be used for post-operative analgesia
 
-##Preoperative Assessment
+##Considerations
 * E
 	* BMI  
 	Affects technical difficulty.

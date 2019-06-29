@@ -30,7 +30,6 @@ Most patients can be managed without requring transplantation.
 * E
 	* Co-existing endocrine disease
 
-##Preoperative Assessment
 ##Preparation
 ##Induction
 * Sedation for interventional radiology

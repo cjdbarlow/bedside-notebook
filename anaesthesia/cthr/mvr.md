@@ -40,6 +40,9 @@ Typically for:
 		May be anticoagulated.
 		* AF may result in precipitous decline in both MS and MR
 	* Severity of valvular disease
+	* Consequences of valvular disease
+		* PHTN
+		* Cardiac remodelling
 	* Presence of coronary disease
 	* Pulmonary artery hypertension  
 	May be associated with both MR and MS.
@@ -47,18 +50,6 @@ Typically for:
 		* MS leads to a relatively fixed CO and elevated SVR; therefore CBF will fall and not be compensated with a fall in perfusion pressure
 	* Avoid elevation in PVR
 
-##Preoperative Assessment
-*This covers factors unique to MVR. Factors relating to cardiac surgery in general are covered [here](/anaesthesia/cthr/cthr-principles.md#id).*
-
-Evaluation should consider:
-* Severity of valvular disease
-* Consequences of valvular disease
-	* PHTN
-	* Cardiac remodelling
-* Presence of coexisting coronary disease
-
-##Preparation
-*This covers factors unique to MVR. Factors relating to cardiac surgery in general are covered [here](/anaesthesia/cthr/cthr-principles.md#id).*
 
 ##Induction
 ##Intraoperative

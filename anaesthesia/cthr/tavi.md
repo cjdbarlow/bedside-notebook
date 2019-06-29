@@ -23,7 +23,6 @@ Transarterial/endoluminal insertion of a prosthetic aortic valve. Anaesthetic st
 		* Have a prexisting RBBB
 
 
-##Preoperative Assessment
 ##Preparation
 ##Induction
 ##Intraoperative

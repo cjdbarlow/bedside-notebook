@@ -45,6 +45,12 @@ Divided into 4 categories:
 
 
 ##Considerations{#considerations}
+* Indication for caesarian
+	* Expected duration
+	* Combined surgery  
+	e.g. With salpingectomy or hysterectomy.
+
+
 * A
 	* Probably higher risk of difficult airway
 		* Mallampati score increases both during pregnancy and during labour
@@ -70,34 +76,29 @@ Divided into 4 categories:
 * O
 	* Placenta position  
 	Low-lying anterior placenta greatly increases risk of major haemorrhage, especially if there is a scar from previous CS.
-	* Obstetric factors influencing anaesthetic technique:
-		* Pre-eclampsia  
-		Generally, early epidural prior to thrombocytopenia is preferred.
-		* Prematurity  
-		Generally, regional techniques reduce foetal morbidity.
-		* Post-dates  
-			* Often require LUSCS
-			* Regional techniques generally preferred
-		* Breech presentation
-			* Elective LUSCS improves neonatal outcomes
-			* Regional preferred in elective LUSCS
-		* Multiple Gestation
-			* Early epidural provides route enables quick conversion to LUSCS in second-twin distress
-			* GA for cat 1 LUSCS
-
-
-##Preoperative Assessment
-Specific factors include:
-* Gestational history
-	* Previous CS and issues
-* Issues with current pregnancy
-	* Pre-eclampsia
-	* Placenta position
-* Expected operative duration
-	* Multiple previous abdominal surgeries
-	* Multiple previous caesarian sections
-	* Combined operation  
-	e.g. hysterectomy.
+	* Obstetric history
+		* Key questions:
+			* Previous gestations
+			* Previous caesarians
+			* Issues with current pregnancy
+		* Key obstetric factors:
+			* Pre-eclampsia  
+			Generally, early epidural prior to thrombocytopenia is preferred.
+			* Prematurity  
+			Generally, regional techniques reduce foetal morbidity.
+			* Post-dates  
+				* Often require LUSCS
+				* Regional techniques generally preferred
+			* Breech presentation
+				* Elective LUSCS improves neonatal outcomes
+				* Regional preferred in elective LUSCS
+			* Multiple Gestation
+				* Early epidural provides route enables quick conversion to LUSCS in second-twin distress
+				* GA for cat 1 LUSCS
+			* Placenta praevia  
+			Requires caesarian, cannot undergo spontaneous labour.
+			* Placental adhesive disorders  
+			High risk of haemorrhage and requirement for hysterectomy. 
 
 
 ###Indications for Antenatal Anaesthetics Review

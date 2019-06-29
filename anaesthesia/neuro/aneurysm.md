@@ -35,9 +35,6 @@ Sub-MAC with a remifentanil infusion.
 		* Consider relaxant infusion  
 		Cisatracurium reliable and will wear off adequately for extubation.
 
-##Preoperative Assessment
-
-
 ##Preparation
 * Standard monitoring
 * Awake arterial line

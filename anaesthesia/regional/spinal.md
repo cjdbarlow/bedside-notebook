@@ -31,15 +31,10 @@ Relative:
 ##Contraindications
 *This covers contraindications specific to spinal anesthesia. General contraindications to neuraxial techniques are covered under [principles of neuraxial anaesthesia](/anaesthesia/regional/principles/principles-neuraxial.md).
 
-
-* Surgical factors
-	* Operative duration  
+* Operative duration  
 	Surgery expected to last >2 hours will usualy require a different technique.
 
 
-
-##Preoperative Assessment
-Key factors:
 * C
 	* Volume and haemodynamic state
 * D

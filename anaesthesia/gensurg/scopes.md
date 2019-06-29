@@ -15,6 +15,21 @@ Endoscopy:
 
 
 ##Considerations
+* Indication for procedure  
+Conditions with risk of:
+	* Airway difficulty
+	* Reduced safe apnoea time
+	* Aspiration
+	Pathologies with high-risk of aspiration include:
+		* Gastric outlet obstruction
+		* Achalasia
+		* Upper GI bleeding
+		* Oesophageal stricture  
+		Especially if being dilated.
+		* Bowel obstruction
+		* Pharyngeal pouch
+
+
 * A
 	* Aspiration is always a risk with an unprotected airway
 	* Predicted difficulty with airway management  
@@ -39,18 +54,6 @@ Endoscopy:
 * E
 	* Remote location of endoscopy suite relative to other parts of the hospital
 
-##Preoperative Assessment
-* Indication for procedure  
-Pathologies with high-risk of aspiration include:
-	* Gastric outlet obstruction
-	* Achalasia
-	* Upper GI bleeding
-	* Oesophageal stricture  
-	Especially if being dilated.
-	* Bowel obstruction
-	* Pharyngeal pouch
-* Conditions predisposing to airway difficulty
-* Conditions reducing safe apnoea time
 
 ##Preparation
 * Standard ANZCA monitoring

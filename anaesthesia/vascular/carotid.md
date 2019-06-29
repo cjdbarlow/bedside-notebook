@@ -20,18 +20,16 @@ Allows neurological monitoring, but requires:
 * A
 	* LMA may reduce carotid blood flow - consider using ETT.
 	* Head is inaccessible during surgery
+* C
+	* Co-existing CVS disease
+	* Accurate measurement of normal BP  
+	Measure in both arms, and target the highest intraoperatively.
 * D
 	* Use of cerebral monitoring
+	* CVA recency  
+	Reperfusion within **one month** of the original infarct may lead to haemorrhagic transformation of ischaemic brain.
 
 
-
-##Preoperative Assessment
-Evaluation should consider:
-* CVA recency  
-Reperfusion within **one month** of the original infarct may lead to haemorrhagic transformation of ischaemic brain.
-* Co-existing CVS disease
-* Normal BP  
-Measure in both arms, and target the highest intraoperatively.
 
 ##Preparation
 * Standard ANZCA monitoring

@@ -22,8 +22,7 @@ Systemic anticoagulation with heparin to prevent clotting of the bypass circuit.
 	ACT > 400.
 
 
-##Technique
-###Prior to CPB
+##Prior to CPB
 Anaesthetist:
 * Ensure both a central and peripheral temperature monitor are in situ if deep hypothermic arrest is going to be performed
 * Prior to sternotomy, ensure:
@@ -64,7 +63,7 @@ Perfusionist:
 Combination of heparinised crystalloid and colloid.
 
 
-###Instituting CPB
+##Instituting CPB
 Anaesthetist:
 * Prepare 300 Units/kg heparin
 	* Give heparin when requested  
@@ -124,7 +123,7 @@ Typically contain high potassium and magnesium concentrations.
 
 
 
-###During CPB
+##During CPB
 Anaesthetist:
 * Cease ventilation
 
@@ -154,7 +153,7 @@ Ensure that central-peripheral temperature gradient is <2°C as this increases t
 	* Slow down rate of rewarming if this occurs
 
 
-###Prior to Weaning
+##Prior to Weaning
 Complete a pre-wean checklist and confirm:
 * A:
 	* ETT is in situ
@@ -191,7 +190,7 @@ Complete a pre-wean checklist and confirm:
 	* Hct > 0.2
 
 
-###Weaning from CPB
+##Weaning from CPB
 Anaesthetist:
 * Monitor cardiac function as heart is slowly refilled  
 Adjust infusions if necessary. Ensure good flow rates of carrier fluid to enable rapid titration and reduce the effect of dead space.
@@ -257,7 +256,7 @@ i.e. if aorta or cardiac chambers opened.
 * Remove aortic cannula
 
 
-####Difficulty Weaning from Bypass
+###Difficulty Weaning from Bypass
 Check and optimise:
 * Preload
 	* Check EDV on TOE and filling pressures (CVP, PADP)

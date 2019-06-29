@@ -13,51 +13,45 @@ Use of an autologous artery or vein to bypass a stenosed section of coronary art
 * Can be performed 'on-pump' (with CPB) or 'off-pump'
 
 ##Considerations
+*This covers factors unique to CABG. Factors relating to cardiac surgery in general are covered [here](/anaesthesia/cthr/cthr-principles.md#id).*
+
 * B
 	* Atelectasis
 	* Bronchospasm
 * C
+	* CAD  
+	High risk features:
+		* History:
+			* Unstable angina
+			* AMI within last 3 months
+			* Cardiogenic shock
+			* Emergency revascularisation.
+			* Decompensated CCF
+			* LV aneurysm  
+			Indicates poor myocardial function.
+		* Coronary anatomy:
+			* **Left main disease**  
+			Avoid drop in perfusion pressure in the case of critical left main stenosis.
+				* Significant >50%
+				* Severe >80%
+				* Critical ~>95%
+				* Note also that high-grade stenosis of the LAD and LCx lead to an effective critical stenosis of the LMCA
+				* Note that effective stenosis depends on degree of collateralisation   
+				Well-developed collaterals compensate for poor native disease.
+			* Triple vessel disease
+			* Proximal LAD stenosis
+		* Ventricular function  
+		Dysfunction may be unable to wean from bypass.
+			* LVEF < 30%  
+			* Concominant RV dysfunction
+	* Valvular disease  
+	Particularly AS or MR.
 	* Severe LV or RV dysfunction
 		* Pulmonary oedema
-		* May be unable to wean from bypass
+
 * H
 	* Massive haemorrhage
 
-
-##Preoperative Assessment
-*This covers factors unique to CABG. Factors relating to cardiac surgery in general are covered [here](/anaesthesia/cthr/cthr-principles.md#id).*
-
-Evaluation should consider:
-* CAD  
-High risk features:
-	* History:
-		* Unstable angina
-		* AMI within last 3 months
-		* Cardiogenic shock
-		* Emergency revascularisation.
-		* Decompensated CCF
-		* LV aneurysm  
-		Indicates poor myocardial function.
-	* Coronary anatomy:
-		* **Left main disease**  
-		Avoid drop in perfusion pressure in the case of critical left main stenosis.
-			* Significant >50%
-			* Severe >80%
-			* Critical ~>95%
-			* Note also that high-grade stenosis of the LAD and LCx lead to an effective critical stenosis of the LMCA
-			* Note that effective stenosis depends on degree of collateralisation   
-			Well-developed collaterals compensate for poor native disease.
-		* Triple vessel disease
-		* Proximal LAD stenosis
-	* Ventricular function:
-		* LVEF < 30%
-		* Concominant RV dysfunction
-* Valvular disease  
-Particularly AS or MR.
-
-
-##Preparation
-As for [other cardiac surgery](/anaesthesia/cthr/cthr-principles.md#prep).
 
 ##Induction
 * Aim for haemodynamic stability, especially in the setting of critical left main stenosis

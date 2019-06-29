@@ -23,6 +23,13 @@ Sequential replacement of each hip joint. Increased operative duration limits ut
 
 
 ##Considerations
+* Indication  
+	* OA  
+	Most common indication, often associated with limited exercise tolerance which may mask underlying CVS/respiratory disease.
+	* Rheumatoid arthritis  
+	Associated pulmonary disease, anaemia, potential difficult airway.
+
+
 * A
 	* ETT reasonable if GA in lateral position
 * C
@@ -43,13 +50,6 @@ Sequential replacement of each hip joint. Increased operative duration limits ut
 	80% in femoral vein.
 	* Major blood loss
 
-##Preoperative Assessment
-Evaluation should consider:
-* Indication  
-	* OA  
-	Most common indication. Limits exercise tolerance and may mask underlying CVS/respiratory disease. Consider stress TTE.
-	* Rheumatoid arthritis  
-	Associated qurg pulmonary disease, anaemia, potential difficulty with airway management..
 
 ##Preparation
 * Premedication

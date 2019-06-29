@@ -31,8 +31,6 @@ May be preferred in cases with high ICP. One approach:
 	36°C-37°C.
 
 
-##Preoperative Assessment
-
 ##Preparation
 * Standard monitoring
 * Arterial line  

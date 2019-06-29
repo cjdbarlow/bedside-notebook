@@ -12,6 +12,12 @@ ECT involves transcutaneous electrical stimulation of the brain to produce gener
 ##Considerations
 * C
 	* Arrythmias and MI are the primary cause of ECT-related mortality
+	* Recent MI  
+	Absolute contraindication if ⩽3 months.
+	* Recent aortic aneurysm, angina, CHF, thrombophlebitis.  
+	Relative contraindications.
+	* Presence of PPM  
+	Magenet should be available.
 * D
 	* Underlying psychiatric illness
 	* Altered mental status  
@@ -29,15 +35,6 @@ ECT involves transcutaneous electrical stimulation of the brain to produce gener
 		May last minutes to over an hour post-procedure:
 			* Bradyarrythmias in 30% due to vagal activation
 			* Followed by increased sympathetic tone with elevated HR and BP
-
-##Preoperative Assessment
-Evaluation should consider:
-* CVS  
-ECT is **contraindicated**:
-	* <3 months post MI (absolute)
-	* Aortic aneurysm, angina, CHF, thrombophlebitis (relative)
-* Presence of PPM  
-Magnet should be available.
 
 
 ##Preparation

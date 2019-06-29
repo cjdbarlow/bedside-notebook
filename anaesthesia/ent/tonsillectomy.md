@@ -17,8 +17,11 @@ Usually appropriate for day-surgery provided oral intake is tolerated post-opera
 * OSA
 
 ##Considerations
+* Indication for surgery  
+Primary pathology may affect choice of predmedication, opioids, and choice of discharge destination.
 * A
 	* Risk of difficult mask ventilation and intubation
+	* Discussion with surgeon about preferred airway
 * B
 	* Presence and severity of OSA will affect:
 		* Sensitivity to opioids and sedatives  
@@ -29,11 +32,6 @@ Usually appropriate for day-surgery provided oral intake is tolerated post-opera
 	* PONV prevention
 * H
 	* Coagulopathy
-
-##Preoperative Assessment
-Should cover:
-* Indication for surgery
-* Discussion with surgeon about preferred airway
 
 ##Preparation
 ##Induction

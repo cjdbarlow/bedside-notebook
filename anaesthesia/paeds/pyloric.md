@@ -26,13 +26,25 @@ Hypokalaemic hypochloraemic metabolic alkalosis.
 'Olive' palpable epigastrically and right of midline.
 
 ##Considerations
+> Surgery is not an emergency and electrolyte and fluid state should be corrected prior to operating
+
+
 * A
 	* Aspiration risk  
 	High risk - OGT or NGT should be placed and stomach suctioned prior to induction.
 		* Four-quadrant suctioning can be performed
 * C
 	* Volume state  
-	Must be corrected preoperatively.
+	**Must be corrected preoperatively**.
+		* Frequency and amount of vomiting
+		* Diarrhoea
+		* Urine output
+		* Resuscitation performed:  
+		Adequate resuscitation may take up to 72 hours.
+			* Inital resuscitation of shock with standard solutions
+			CSL or Albumin.
+			* Correct volume with salt and dextrose containing solutions  
+				* Usually requires addition of potassium 40mmol/L
 * F
 	* Alkalosis
 		* Off-loading of oxygen is impaired in alkalotic states  
@@ -40,27 +52,13 @@ Hypokalaemic hypochloraemic metabolic alkalosis.
 		* Compensatory respiratory acidosis is common  
 		Extent of compensation (i.e. PaCO<sub>2</sub>) is a marker of severity of dehyration.
 		* Respiratory alkalosis (secondary to hypovolaemic shock) suggests **critical** dehydration
-	* Hyponatraemia  
-	May be present but masked by dehydration.
-
-
-##Preoperative Assessment
-> Surgery is not an emergency and electrolyte and fluid state should be corrected prior to operating
-
-Evaluation should consider:
-* Frequency and extent of vomiting
-* Volume and electrolyte status  
-	* Volume loss:
-		* Frequency and amount of vomiting
-		* Diarrhoea
-		* Urine output
-	* Resuscitation performed:  
-	Adequate resuscitation may take up to 72 hours.
-		* Inital resuscitation of shock with standard solutions
-		CSL or Albumin.
-		* Correct volume with salt and dextrose containing solutions  
-			* Usually requires addition of potassium 40mmol/L
 		* HCl may be used to correct severe alkalosis but is rarely necessary
+	* Hyponatraemia/electrolyte derangement  
+	May be present but masked by dehydration.
+* G
+	* Frequency and extent of vomiting
+
+
 
 ##Preparation
 * Secure IV access

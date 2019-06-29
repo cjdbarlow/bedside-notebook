@@ -43,7 +43,6 @@ Removal of thyroid gland, usually by transverse neck incision. Performed for:
 	Notably **hypocalcaemia**.
 
 
-##Preoperative Assessment
 ##Preparation
 ##Induction
 * Standard induction

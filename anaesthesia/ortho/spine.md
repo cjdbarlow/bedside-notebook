@@ -43,7 +43,6 @@ May be highly variable, and depending on the position, number of levels, and the
 	* Blood loss may be substantial
 
 
-##Preoperative Assessment
 ##Preparation
 ##Induction
 ##Intraoperative

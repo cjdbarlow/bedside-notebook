@@ -14,7 +14,12 @@ Sedation outside the operating theatre is commonly required for:
 * Emergency
 
 ##Considerations
-Evaluate conditions which may contraindicate sedation or suggest altering the technique:
+* Appropriate for in-patient vs. outpatient sedation
+	* Outpatient usually appropriate for ASA I-II
+	* Infants under 1 year of age are particularly sensitive  
+	Usually not appropriate for outpatient sedation.
+
+
 * A
 	* Airway abnormalities
 	* Aspiration risk
@@ -33,14 +38,10 @@ Evaluate conditions which may contraindicate sedation or suggest altering the te
 * E
 	* Neuromuscular disease
 
-##Preoperative Assessment
-Determine:
-* Appropriate for in-patient vs. outpatient sedation
-	* Outpatient usually appropriate for ASA I-II
-	* Infants under 1 year of age are particularly sensitive  
-	Usually not appropriate for outpatient sedation.
 
 ##Preparation
+
+
 ##Induction
 ##Intraoperative
 ###Surgical Stages

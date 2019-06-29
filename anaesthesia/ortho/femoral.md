@@ -35,20 +35,18 @@ Generally blood loss and operative time increases the more distal
 
 ##Considerations
 * B
+	* Respiratory comorbidities
 	* Fat embolus  
 	Up to 15%.
 * C
+	* Cardiac comorbidities
 	* Prior blood loss into thigh may lead to haemodynamic instability
 	* Consider arterial line
 * E
 	* Presence of other traumatic injuries
+	* Frailty
 * H
 	* Potential for blood loss/transfusion requirement
-
-##Preoperative Assessment
-Preoperative evaluation should consider:
-* Presence of cormorbidities, particularly in the elderly
-* Frailty
 
 ##Preparation
 ##Induction

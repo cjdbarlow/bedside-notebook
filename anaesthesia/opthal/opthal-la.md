@@ -34,6 +34,9 @@ Produces better akinesis and lower IOP than a peribulbar block, but has greater 
 	* COAD  
 	CO<sub>2</sub> retention may occur under the drapes. High-flow oxygen under the drapes may reduce this.
 	* Ability to lie flat for up to 30 minutes
+* C
+	* Hypertension  
+	High SBP may increase risk of bleeding, especially with use of phenylephrine drops to dilate the eye. Normal antihypertensives should be taken.
 * D
 	* **Axial length**  
 	Determines which technique would be more appropriate.
@@ -48,16 +51,6 @@ Produces better akinesis and lower IOP than a peribulbar block, but has greater 
 			* Warfarin and INR if applicable
 			* NOACs
 			* Generally a sub-Tenon's block will be preferred as the associated risks are lower than the risk of discontinuing these agents
-
-##Preoperative Assessment
-Should consider:
-* Hypertension  
-High SBP may increase risk of bleeding, especially with use of phenylephrine drops to dilate the eye. Normal antihypertensives should be taken.
-* Ability to lie flat  
-* Hearing  
-Patient will need to follow commands during procedure.
-* Anxiety levels  
-Determine whether GA will be required.
 
 
 ##Preparation

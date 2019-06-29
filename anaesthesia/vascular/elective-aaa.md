@@ -13,8 +13,20 @@ Removal of an aneurysmal aorta and replacment with a synthetic graft. May be:
 Requires a supra-renal cross-clamp, and therefore is associated with significantly greater peri-operative AKI.
 
 
+High risk of perioperative morbidity and mortality.	Discuss:
+* 1-6% perioperative mortality
+* Requirement for ventilation post-operatively
+* Post-operative respiratory compromise
+* Bleeding and transfusion requirement)
+
+
 ##Considerations
+* B
+	* Respiratory reserve
 * C
+	* Co-existing CVS disease
+		* 40% of patients will have coexisting disease
+		* Particularly cardiac function and presence of inducible ischaemia
 	* Invasive monitoring
 		* Arterial line pre-induction
 		* CVC can be placed post-induction
@@ -35,25 +47,11 @@ Requires a supra-renal cross-clamp, and therefore is associated with significant
 		**Do not warm legs during cross clamp** - there is a risk of worsening ischaemia, as well as causing burns due to absence of circulation.
 		* Fluid warmer
 * F
-	* Pre-existing renal impairment
+	* Pre-existing renal impairment  
+	Especially in supra-renal AAA.
 * H
 	* Rapid transfusion set available
 
-
-##Preoperative Assessment
-High risk of perioperative morbidity and mortality.	Discuss:
-* 1-6% perioperative mortality
-* Requirement for ventilation post-operatively
-* Post-operative respiratory compromise
-* Bleeding and transfusion requirement)
-
-Anaesthetic assessment should include:
-* Respiratory reserve
-* Co-existing CVS disease  
-	* 40% of patients will have coexisting disease
-	* Particularly cardiac function and presence of inducible ischaemia
-* Renal impairment  
-Especially in supra-renal AAA.
 
 ##Preparation
 * Standard ANZCA monitoring
