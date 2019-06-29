@@ -20,7 +20,6 @@
 
 #Operation
 
-##Summary
 >Airway: 
 >Access: 
 >Pain: 
@@ -32,11 +31,11 @@
 Intro and technique
 
 ##Considerations
-##Preoperative Assessment
 ##Preparation
 ##Induction
 ##Intraoperative
 ###Surgical Stages
+##Emergence
 ##Postoperative
 
 ---

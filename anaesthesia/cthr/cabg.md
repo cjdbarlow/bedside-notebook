@@ -55,6 +55,7 @@ High risk features:
 * Valvular disease  
 Particularly AS or MR.
 
+
 ##Preparation
 As for [other cardiac surgery](/anaesthesia/cthr/cthr-principles.md#prep).
 
