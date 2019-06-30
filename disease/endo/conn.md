@@ -1,0 +1,48 @@
+#Conn's Syndrome
+
+Disease of aldosterone excess, which may be:
+* Primary
+	* Adrenal hyperplasia
+	* Adrenal adenoma  
+	Bilateral in 30%.
+* Secondary
+	* Excess renin secretion
+	* Hepatic disease
+	* Cardiac failure
+
+##Epidemiology and Risk Factors
+##Pathophysiology
+###Aetiology
+##Assessment
+Features include:
+* C
+	* Hypertension
+	* Cardiac failure
+* F
+	* Metabolic alkalosis
+	* Hypokalaemia
+
+###History
+###Examination
+##Diagnostic Approach and DDx
+##Investigations
+##Management
+###Anaesthetic Considerations
+* C
+	* Hypertension  
+	Classically diastolic.
+	* Cardiac failure
+	* CHF
+* E
+	* Sensitivity to muscle relaxants
+* F
+	* Electrolyte abnormalities  
+	Hypokalaemia, alkalosis.
+
+###Ineffective Therapies
+##Complications
+##Prognosis
+##Key Studies
+
+---
+##References

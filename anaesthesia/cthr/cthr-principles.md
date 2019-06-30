@@ -1,5 +1,8 @@
 #Principles of Cardiac Anaesthesia
 
+>Cardiothoracic surgery has the anaesthetist and surgeon sharing the circulation. Anaesthetic management has to adapt to surgical requirements, and vice versa.
+
+
 *This covers the general considerations of cardiac anaesthesia except those relating to cardiopulmonary bypass, which are covered [here](/anaesthesia/cthr/cpb.md).*
 
 A cardiac anaesthetic needs to **prevent decompensation** by avoiding:

@@ -5,8 +5,9 @@
 >Pain: Moderate. <br>
 >Position: Supine, head elevated with neck extended. <br>
 >Time: 30-60min. <br>
->Blood loss: Usually minimal. May be difficult to estimate if blood enters stomach.<br>
+>Blood loss: Usually minimal; ~4ml/kg in children. May be difficult to estimate if blood enters stomach.<br>
 >Special: Antibiotic chemoprophylaxis are usually not required. <br>
+
 
 *This covers anaesthesia for elective tonsillectomy. Anaesthetic management of the bleeding tonsil is [covered elsewhere](/anaesthesia/ent/bleeding-tonsil.md).*
 
@@ -23,21 +24,35 @@ Primary pathology may affect choice of predmedication, opioids, and choice of di
 	* Risk of difficult mask ventilation and intubation
 	* Discussion with surgeon about preferred airway
 * B
-	* Presence and severity of OSA will affect:
+	* Presence and severity of OSA will affect
+		* Secondary effects
+			* CO<sub>2</sub> retention
+			* Failure to thrive
+			* Cor pulmonale
 		* Sensitivity to opioids and sedatives  
 		Generally **avoid premedication** in paediatric cohort.
 		* Post-operative destination  
 		* Awake vs. deep extubation
 * G
-	* PONV prevention
+	* PONV prevention  
+	Suggest 0.5mg/kg of dexamethasone.
 * H
 	* Coagulopathy
 
 ##Preparation
+* Standard ANZCA monitoring in adults
+
+
 ##Induction
-Strategies include:
 * Gas induction  
 Common in children.
+* IV induction may be safer in severe OSA
+
+
+* Airway obstruction is common  
+Often require CPAP to alleviate.
+
+
 * Intubation
 	* Careful laryngoscopy to avoid bleeding from enlarged tonsils and adenoids
 * Laryngeal mask  
@@ -74,6 +89,13 @@ Under vision.
 	* Place left lateral, head-down  
 	Leave until fully awake.
 * Avoid coughing
+
+Post-operative care:
+* Day stay unless:  
+	* ⩽2 years old  
+	More likely to have severe airway obstruction postoperatively.
+	* Severe OSA
+	* Other comorbidities
 
 ---
 ##References

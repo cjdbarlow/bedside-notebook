@@ -1,6 +1,6 @@
 #Cerebral Palsy
 
-Cerebral palsy is a collective term describing a group of neurological disorders. CP is:
+Cerebral palsy is a collective term describing a group of neurological disorders. Cerebral Palsy is:
 * Characterised by varying impediments to function:
 	* Motor
 	* Sensory
@@ -34,25 +34,11 @@ Risk factors:
 * Maternal pathogenic factors
 	* Breech
 	* Pre-eclampsia
-	* peripartum haemorrhage
+	* Peripartum haemorrhage
 	* Maternal hyperthyroidism
 	* Foetal alcohol syndrome
 
 
-Associated conditions:
-* Neonatal respiratory distress syndrome
-* Respiratory impairment
-	* Scoliosis and spinal deformities
-	* Restrictive lung disease  
-	May in turn lead to pulmonary hypertension, and right heart/respiratory failure.
-* GORD/recurrent aspiration  
-In turn associated with chronic lung injury from repeated aspiration. May be due to:
-	* Swallowing difficulties
-	* Oesophageal dymotility
-	* Spinal deformities
-	* Weak cough
-* Epilepsy  
-50% may have focal or generalised forms.
 
 
 ##Pathophysiology
@@ -92,14 +78,14 @@ Treatment is supportive, and consists of:
 	* Risk of loose teeth/poor dental hygeine
 * B
 	* Respiratory impairment  
-	Prone to post-operative hypoxia.
+	Combination of muscular weakness, skeletal deformities, and recurrent aspiration pneumonia. Prone to post-operative hypoxia.
 * C
-	* Co-exisent cardiac disease
+	* Co-existent cardiac disease
 	* Generally limited cardiorespiratory reserve
 * D
 	* Difficulty communicating
-	* Risk of seizures  
-	Continue antiepileptic sin perioperative period.
+	* Co-existant epilepsy 
+	Continue antiepileptics in perioperative period.
 	* Hyperalgesia
 * E
 	* Fixed flexion deformities  
@@ -109,10 +95,31 @@ Treatment is supportive, and consists of:
 	* **Use of muscle relaxants**
 		* No restriction on suxamethonium
 		* Offset of non-depolarising agent is increased due to upregulation of ACh receptors
+* G
+	* GORD  
+	Risk of aspiration.
 * H
 	* Increased blood loss  
 	CP muscle contracts poorly when incised, leading to much greater volumes of blood loss.
 		* **Group and save** for any major surgery
+
+##Complications
+Associated conditions:
+* Neonatal respiratory distress syndrome
+* Respiratory impairment
+	* Scoliosis and spinal deformities
+	* Restrictive lung disease  
+	May in turn lead to pulmonary hypertension, and right heart/respiratory failure.
+* GORD/recurrent aspiration  
+In turn associated with chronic lung injury from repeated aspiration. May be due to:
+	* Swallowing difficulties
+	* Oesophageal dymotility
+	* Spinal deformities
+	* Weak cough
+* Epilepsy  
+50% may have focal or generalised forms.
+
+
 
 ---
 ##References
