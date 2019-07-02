@@ -487,7 +487,7 @@ Pulmonary Capillary Wedge Pressure
 Peritoneal Dialysis *or* Post-Dates (obstetrics)
 
 ##PDA
-Posterior Descending Artery
+Posterior Descending Artery *or* Patent Ductus Arteriosus
 
 ##PDE
 Phosphodiesterase
@@ -603,6 +603,9 @@ Total Body Water
 
 ##TLC
 Total Lung Capacity
+
+##TOF  
+Train of Four *or* Tetralogy of Fallot
 
 ##TOP
 Termination of Pregnancy

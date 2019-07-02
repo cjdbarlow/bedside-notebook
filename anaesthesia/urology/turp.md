@@ -1,0 +1,64 @@
+#Trans-Urethral Resection of the Prostate
+
+>Airway:  <br>
+>Access:  <br>
+>Pain:  <br>
+>Position: <br>
+>Time:  <br>
+>Blood loss:  2-4ml/min of resection, usually ~500ml. <br>
+>Special: [TURP Syndrome](/disease/fluid/turp-syndrome.md) occurs in 1-8% of patients<br>
+
+
+TURP:
+* Resection of the prostate in small strips under direct vision using a resectoscope inserted into the urethra  
+Nerve supply via prostatic plexus
+	* Pain from T11-L2
+	* Sympathetic fibres from T11-L2
+	* Parasympathetic fibres from S2-4  
+	Including bladder stretch.
+* Requires continuous irrigation to allow visualisation and remove debris  
+Blood loss may be substantial and under-appreciated.
+* Performed in older men who are usually comorbid  
+~80% will have other medical disease.
+
+
+##Considerations
+* D
+	* Anaesthetic technique
+		* Spinal  
+			* Good post-operative analgesia
+			* Reduces stress response
+			* Allows monitoring of conscious state due to **TURP syndrome**
+			* Allows identification of **capsular tears**  
+			If spinal block to ⩽T10 then pain will indicate peritoneal stimulation from blood/irrigation fluid.
+	* [TURP Syndrome](/disease/fluid/turp-syndrome.md)
+
+##Preparation
+##Induction
+##Intraoperative
+###Surgical Stages
+* Capsular performation may result in significant bleeding
+* Bleeding  
+Can be substantial.
+	* Risk factors:
+		* Extensive resection
+		* Large prostate
+		* Infection
+		* Surgery ⩾ 1 hour
+		* IDC preoperatively
+	* Urokinase is released from the prostate during resection  
+	Conxider 15-25mg/kg of **TXA** to reduce volume of haemorrhage.
+* [TURP Syndrome](/disease/fluid/turp-syndrome.md)  
+Abandon surgery if suspected.
+
+
+##Emergence
+##Postoperative
+* Myocardial ischaemia in up to 25% of patients
+* [TURP Syndrome](/disease/fluid/turp-syndrome.md)
+* Clot retention
+
+
+---
+##References
+1. O’Donnell, Aidan M., and Irwin T.H. Foo. ‘Anaesthesia for Transurethral Resection of the Prostate’. Continuing Education in Anaesthesia Critical Care & Pain 9, no. 3 (June 2009): 92–96. https://doi.org/10.1093/bjaceaccp/mkp012.

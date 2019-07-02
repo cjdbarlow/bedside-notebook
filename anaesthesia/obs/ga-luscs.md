@@ -12,7 +12,12 @@ In addition to [general considerations](luscs.md#considerations), particular con
 	* High risk of anaesthetic awareness
 		* Reluctance to use opioid for foetal effects
 		* Desire to preserve haemodynamic stability
-		* 
+		* Most occur at, or shortly after, induction  
+		Multifactorial:
+			* Rapid offset of IV agents and slower uptake of volatile in this population  
+			Remember to **mind the gap**!
+			* Common avoidance of opioid
+			* Maximal surgical stimulus occurring immediately post-induction
 	* Foetal effects  
 	Foetus will be affected by agents.
 		* Volatile agents will diffuse across placenta  
@@ -32,13 +37,16 @@ In addition to [general considerations](luscs.md#considerations), particular con
 * Perform RSI  
 Ensure adequate doses induction agent and relaxant.
 	* Thiopentone 5mg/kg
-	* Propofol may be associated with poorer neonatal status
-	* Suxamethonium 1-2mg/kg  
-		* Additional relaxation should not be required
-		* Can use further NDMB if required  
+	* Propofol 3-4mg/kg  
+	High sympathetic drive - heavier doses tolerated well.
+		* *May* be associated with poorer neonatal status, but is commonly used  
+	* Relaxant
+		* Suxamethonium 1-2mg/kg  
+		Additional relaxation should not be required
+		* Rocuronium 1.2-2mg/kg
 		Remember that **magnesium will prolong duration of action** of non-depolarising agents.
 	* Opioid  
-	Not necessarily required, but tell the paediatrician that it has been given.
+	Not necessarily required, but tell the paediatrician that it has been given if used.
 		* Alfentanil  
 		Reasonable in patients with severe cardiac disease or hypertensive disorders of pregnancy.
 		* Remifentanil  
@@ -50,8 +58,11 @@ A slightly smaller tube may make intubation easier and will be adequate to venti
 * Commence ventilation
 	* 30% O<sub>2</sub>/70% N<sub>2</sub>O  
 	MAC-sparing, thereby reducing tocolytic effects of volatile agent.
-	* Sevoflurane ~1%  
-	Use high flows to reach target quickly.
+		* Make sure to avoid maternal hypoxia, and decraese the FiN<sub>2</sub>O if needed
+	* Sevoflurane ~1.5%  
+	Use high flows (10L/min) to reach target quickly.
+		* Consider overpressuring the volatile, but remember to turn it down again  
+		Can be easy to forget in this chaotic situation.
 
 
 ##Maintenance
@@ -127,4 +138,4 @@ Increased risk in obstetric population.
 3. Nixon H, Leffert L. [Anesthesia for cesarian delivery](https://www.uptodate.com/contents/anesthesia-for-cesarean-delivery). Post TW, ed. UpToDate. Waltham, MA: UpToDate Inc. http://www.uptodate.com
 4. Rollins M, Lucero J. [Overview of anesthetic considerations for Cesarean delivery](https://academic.oup.com/bmb/article/101/1/105/262350). Br Med Bull. 2012;101:105-25. doi: 10.1093/bmb/ldr050. Epub 2012 Jan 4.
 5. McGlennan A, Mustafa A. [General anaesthesia for Caesarean section](https://academic.oup.com/bjaed/article/9/5/148/439565). Continuing Education in Anaesthesia Critical Care & Pain, Volume 9, Issue 5, 1 October 2009, Pages 148–151.
-
+6. Chaggar, Rs, and Jp Campbell. ‘The Future of General Anaesthesia in Obstetrics’. BJA Education 17, no. 3 (March 2017): 79–83. https://doi.org/10.1093/bjaed/mkw046.

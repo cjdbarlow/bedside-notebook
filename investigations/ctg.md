@@ -5,19 +5,22 @@ Cardiotocography is:
 * Widely used tool to assess foetal wellbeing
 	* Highly sensitive
 	* Poorly specific
-* Poor correlation with foetal outcome
+* Poor correlation with foetal outcome  
+Reduction of neonatal seizures is the only clinically significant benefit.
 * Increases intervention rate  
 Caesarian or instrumental deliver.
+	* Generally considered mandatory to act on abnormal FHR patterns
 
 ##Foetal Heart Rate
 Contributors (of unknown relative importance) include:
-* Sympathetic/parasympathetci tone
+* Sympathetic/parasympathetic tone
 * Baroreceptor effects
 * Chemoreceptor effects
 * Cord compression
 * Placental function
 * Uteroplacental function
-
+* Contractions  
+Contractions in uncomplicated labour result in short and long-term reduction in oxygenation; and this effect is markedly increased with excessively frequent contractions.
 
 ##Interpretation
 Principles:
@@ -128,3 +131,4 @@ Low probability of foetal compromise. Features include:
 ##References
 1. The Royal Women's Hospital. Guideline: Cardiotocograph Interpretation and Response. The Royal Women's Hospital Melbourne. 2017.
 2. Woodward, A. CTG interpretation for the Anaesthetist. RWH Anaesthetic Tutorial Program.
+3. Thurlow, J.A., and S.M. Kinsella. [Intrauterine Resuscitation: Active Management of Fetal Distress](https://www.ncbi.nlm.nih.gov/pubmed/15321562). International Journal of Obstetric Anesthesia 11, no. 2 (April 2002): 105–16. https://doi.org/10.1054/ijoa.2001.0933.

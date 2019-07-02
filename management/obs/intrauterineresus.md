@@ -7,12 +7,30 @@
 > * Increasing maternal oxygen saturation
 > * Removing any cord impingement
 
+Foetal distress is progressive foetal asphyxia that if not corrected or circumvented, will result in decompensation and permanent CNS damage or death.
+
 Intrauterine resuscitation:
 * Describes techniques used to correct **common** and **reversible** causes foetal hypoxia, prior to harm occurring  
 Non-correctable (e.g. anencephaly) or rare causes (e.g. ruptured vasa praevia) are not captured.
 * Relies on detection of foetal distress by [electronic foetal monitoring]
 
 
+##Causes
+* Contractions  
+Contractions in uncomplicated labour result in short and long-term reduction in oxygenation; and this effect is markedly increased with excessively frequent contractions.
+* Aorto-caval compression
+* Cord compression
+* Epidural  
+Rarely associated with severe hypotension.
+	* Around 50% of FHR decelerations after regional analgesia can be attributed to increase in uterine activity
+* Maternal hypoxia  
+	* Opioids
+	* Nitrous oxide
+	* Post-contraction  
+	Hypoventilatory period occurring due to low PaCO<sub>2</sub> after a contraction.
+* Placental abruption
+* Foetal haemorrhage
+	* Vasa praevia
 
 ##Management
 Increasing degree of escalation:
@@ -30,11 +48,16 @@ Particularly if foetal distress is **epidural** or **spinal associated**.
 	* Ephedrine
 * Give tocolytics
 	* 250μg terbutaline SC
+	* GTN 60-180μg IV  
+	Likely faster onset and offset than SC terbutaline.
+	* GTN 800μg SL
+* Delivery  
+If foetal distress is not corrected by fixing reversible factors.
 
 ###Second-line Strategies
 * Administer 15L/min O<sub>2</sub>  
 	* Placental transfer of oxygen is driven by tension (mmHg) rather than content (ml/100ml), and so this may be effective even in a normoxic mother
-	* Evidence supporting this practice is inconsistent
+	* Evidence supporting this practice is inconsistent, and potential harms have limited this practice
 * Alternate maternal position  
 May alleviate cord compression depending on relationship between pelvis, foetus, and cord. Consider:
 	* These positions
@@ -49,4 +72,5 @@ Transvaginal elevation of the foetal head out of the birth canal for foetal dist
 
 ---
 ##References
-1.  Garite TJ, Simpson KR. [Intrauterine resuscitation during labor](https://www.ncbi.nlm.nih.gov/pubmed/21278499). Clin Obstet Gynecol. 2011 Mar;54(1):28-39.
+1. Garite TJ, Simpson KR. [Intrauterine resuscitation during labor](https://www.ncbi.nlm.nih.gov/pubmed/21278499). Clin Obstet Gynecol. 2011 Mar;54(1):28-39.
+2. Thurlow, J.A., and S.M. Kinsella. [Intrauterine Resuscitation: Active Management of Fetal Distress](https://www.ncbi.nlm.nih.gov/pubmed/15321562). International Journal of Obstetric Anesthesia 11, no. 2 (April 2002): 105–16. https://doi.org/10.1054/ijoa.2001.0933.

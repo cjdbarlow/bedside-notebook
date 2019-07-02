@@ -42,7 +42,12 @@ Conservative approach:
 	* Oral analgesia
 
 * Severe PDPH  
-Epidural blood patch.
+	* Neostigmine and Atropine  
+	 20 µg/kg neostigmine and 10 µg/kg atropine in 20 mL of 0.9% saline given over 5 minutes every 8 hours until resolution.
+	 	* Resolution usually seen within 2 doses
+	 	* Atropine increases CSF secretion and reverses cerebral vasodilation
+	 	* Neostigmine also reduces cerebral vasodilation
+	* Epidural blood patch
 
 ###Epidural Blood Patch  
 Placement of patients own blood in epidural space, which clots and prevents futher CSF leakage.
@@ -98,3 +103,4 @@ Diagnosis should be re-evaluated if patch fails. Consider:
 ---
 ##References
 1. Maronge, L., & Bogod, D. (2018). Complications in obstetric anaesthesia. Anaesthesia.
+2. Mahmoud, Ahmed Abdelaal Ahmed, Amr Zaki Mansour, Hany Mahmoud Yassin, Hazem Abdelwahab Hussein, Ahmed Moustafa Kamal, Mohamed Elayashy, Mohamed Farid Elemady, et al. ‘Addition of Neostigmine and Atropine to Conventional Management of Postdural Puncture Headache: A Randomized Controlled Trial’ 127, no. 6 (2018): 6.
