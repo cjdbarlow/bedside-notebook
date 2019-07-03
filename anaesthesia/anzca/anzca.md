@@ -61,7 +61,9 @@ Covered under:
 * [PS40: Statement on the Relationship between Fellows, Trainees and the Healthcare Industry](http://www.anzca.edu.au/Documents/ps40-2012-statement-on-the-relationship-between-fe.pdf)  
 Covered under:
 	* [Industry Relationships](/anaesthesia/anzca/industry.md)
-
+* [PS41 Guidelines on Acute Pain Management.](http://www.anzca.edu.au/Documents/ps41-2013-guidelines-on-acute-pain-management.pdf)  
+Covered under:
+	* [Acute Pain Management](/anaesthesia/anzca/pain.md)
 
 ---
 ##References

@@ -116,6 +116,7 @@
 	* [Anaesthesia under Local](/anaesthesia/anzca/local.md)
 	* [Palliative and End-of-Life Care](/anaesthesia/anzca/eol.md)
 	* [Industry Relationships](/anaesthesia/anzca/industry.md)
+	* [Acute Pain Management](/anaesthesia/anzca/pain.md)
 
 ---
 

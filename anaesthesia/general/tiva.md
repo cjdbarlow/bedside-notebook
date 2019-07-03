@@ -21,15 +21,19 @@ Relative:
 * Difficult intubation or extubation
 
 ##Advantages
+* A
+	* Obtundation of airway reflexes
 * B
-	* Reduced airway reactivity
+	* Reduced airway reactivity  
+	Smoother extubation and emergence.
 	* Potential preservation of hypoxic pulmonary vasoconstriction
+	* Allows spontaneous ventilation when titrated
 * C
 	* Potentially greater haemodynamic stability
 * D
 	* Reduced ICP
 	* Decreased incidence of PONV
-	* Nicer wake-up and extubation
+	* Decreased incidence of emergence delirium
 * Other
 	* Decreased pollution
 	* Cheaper
@@ -39,26 +43,38 @@ Relative:
 * D
 	* Potentially increased risk of awareness  
 	Related to failure to apply the technique effectively, rather than failure of the technique itself.
+		* Suggest use of **processed EEG monitoring** in patients with neuromuscular blockade
 * E
 	* Obesity  
 	Models are not validated in obese patients, and the risk of awareness is increased.
 		* Marsh model is capped at 150kg
 		* Schneider is capped at a BMI of 42 (men) or 35 (women)
 
+
+##Principles
+* Effect of:
+	* Bolus doses of propofol are mostly determined by V<sub>D</sub>
+	* Infusion rates are mostly determined by clearance
+
 ##TIVA Models
 Many different pharmacokinetic models exist:
 * Propofol  
 All models perform well in practice, and any are reasonable. After 10 minutes they are peform similarly. Models include:
-	* Marsh
+	* Manual infusion  
+	Important role remains due to:
+		* Ease of use
+		* (Lack of) availability of TCI pumps in some institutions
+		* Variability within and between TCI models
+	* **Marsh**
 		* Plasma site targetting
 		* Requires:
 			* Total body weight
 			* Age  
 			Not used in calculation.
 		* Less haemodynamic stability/shorter induction time
-	* Modified Marsh  
+	* **Modified Marsh**  
 	Greater haemodynamic stability than Marsh.
-	* Schnider
+	* **Schnider**
 		* Effect-site target
 		* Requires:
 			* Age
@@ -67,6 +83,19 @@ All models perform well in practice, and any are reasonable. After 10 minutes th
 			* Total body weight
 		* Administers less propofol than Marsh
 		* Greater haemodynamic stability/Longer induction time
+	* Paediatrics
+		* Models not as refined as adults  
+		Generally require larger initial bolus (greater V<sub>1</sub>) and infusion rate (increased clearance)
+		* Note highly variable propofol pharmacokinetics in neonates
+		* Widely available models include:
+			* **Paedfusor**
+				* Requires:
+					* Weight  
+					5-61kg.
+					* Age  
+					1-16 years.
+			* **Kataria**
+			Generally inferior to paedfusor.
 * Remifentanil
 	* Minto
 		* Can be used in either plasma-site targeting or effect-site targeting  
@@ -171,3 +200,4 @@ In case of failure, consider:
 
 ##References
 1. Al-Rifai Z, Mulvey D. [Principles of total intravenous anaesthesia: practical aspects of using total intravenous anaesthesia](https://academic.oup.com/bjaed/article-pdf/16/8/276/7135003/mkv074.pdf). BJA Educ. 2016;16(8):276-280. doi:10.1093/bjaed/mkv074
+2. Gaynor, J, and J M Ansermino. ‘Paediatric Total Intravenous Anaesthesia’. BJA Education 16, no. 11 (November 2016): 369–73. https://doi.org/10.1093/bjaed/mkw019.

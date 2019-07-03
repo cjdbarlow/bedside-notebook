@@ -50,6 +50,8 @@ Removal of thyroid gland, usually by transverse neck incision. Performed for:
 
 ##Intraoperative
 * Ensure depth of anaesthesia adequate, particularly if incompletely treated hyperthyroidism
+
+
 ###Surgical Stages
 * Skin incision
 * Platsyma divided
@@ -80,7 +82,15 @@ Immediate serious post-operative complications include:
 	* Unilateral  
 	Hoarse voice.
 * Tracheomalacia  
-Acute upper airway obstuction - requires emergent reintubation.
+Acute upper airway obstuction due to tracheal collapse.
+	* Requires emergent reintubation or tracheostomy
+	* Largely a historical remant  
+	Risk is exceedingly rare in modern practice.
+	* Risks may include:
+		* Duration of goitre
+		* Retrosternal extension of goitre
+		* Significance of extrinsic compression  
+		Tumour; may also include bronchogenic carcinoma or aortic aneurysm.
 * Haematoma  
 Expansion may lead to airway compromise.
 	* Rapidly reopen incision and drain remaining blood
@@ -100,3 +110,4 @@ Inadvertent removal of parathyroid glands leading to acute fall in PTH and hypoc
 
 ---
 ##References
+1. Findlay, J.M., G.P. Sadler, H. Bridge, and R. Mihai. ‘Post-Thyroidectomy Tracheomalacia: Minimal Risk despite Significant Tracheal Compression’. British Journal of Anaesthesia 106, no. 6 (June 2011): 903–6. https://doi.org/10.1093/bja/aer062.
