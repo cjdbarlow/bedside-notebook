@@ -62,6 +62,8 @@ Occurs in 50%.
 	* Subglottic stenosis  
 	In ~5%. Use smaller ETT than expected for age.
 * B
+	* **Bradycardia** common and significant with anaesthetic agents  
+	Have atropine available.
 	* High incidence of post-operatively respiratory complications
 	* Impaired central respiratory drive
 	* Chronic lower respiratory tract infections are common

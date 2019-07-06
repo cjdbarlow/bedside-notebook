@@ -3,7 +3,7 @@
 > * In all peri-extubation airway problems, rapid supplemental oxygen administration is beneficial
 
 
-Emergence is associateed with more airway problems than induction.
+Emergence is associated with more airway problems than induction.
 
 ##Planning Extubation
 Assessing for extubation requires:
@@ -12,9 +12,12 @@ Assessing for extubation requires:
 	* What is the risk of aspiration?  
 	Baseline risk of aspiration in the anaesthetic population is 2-10/10,000.
 * B
-	* Is there any respiratory compromise?
+	* Is there adequate oxygenation?
 		* FiO<sub>2</sub>
-		* PEEP/Pressure Support requirements
+		* PEEP requirement
+	* Is there adequate ventilation?
+		* ETCO<sub>2</sub>
+		* Pressure Support requirement
 * C
 	* Is there any CVS compromise?
 * D

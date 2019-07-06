@@ -111,6 +111,9 @@ Casualty Clearing Station
 ##CFA
 Common Femoral Artery
 
+##CGA  
+Combined Gestational Age
+
 ##CHB
 Complete Heart Block
 

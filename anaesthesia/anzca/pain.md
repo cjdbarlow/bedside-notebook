@@ -54,4 +54,4 @@ Physiotherapy, psychology, pharmacy.
 ---
 ##References
 
-1. ANZCA. [PS41 Guidelines on Acute Pain Management.](http://www.anzca.edu.au/Documents/ps41-2013-guidelines-on-acute-pain-management.pdf).
+1. ANZCA. [PS41: Guidelines on Acute Pain Management.](http://www.anzca.edu.au/Documents/ps41-2013-guidelines-on-acute-pain-management.pdf).
