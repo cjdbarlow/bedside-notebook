@@ -8,14 +8,14 @@ Describes cardiac and neurological changes that occur due to systemic absorption
 
 ##Epidemiology and Risk Factors
 Mostly related to rate of absorption:
-	* Operating time  
-	⩾1 hour.
-	* Low venous pressure
-		* Hypovolaemia
-		* Hypotension
-	* Extensive bleeding
-	* Capsular performation
-	* High irrigation fluid pressure
+* Operating time  
+⩾1 hour.
+* Low venous pressure
+	* Hypovolaemia
+	* Hypotension
+* Extensive bleeding
+* Capsular performation
+* High irrigation fluid pressure
 
 
 ##Pathophysiology
@@ -26,7 +26,7 @@ Due to systemic absorption of 1.5% glycine
 	Effects mostly due to hypoosmolality, rather than hyponatraemia.
 	* Circulating volume
 * Direct neurological effects of glycine  
-Acts as major inhibitory neurotransmitter in CNS
+Acts as major inhibitory neurotransmitter and potentiates NMDA in CNS.
 
 
 ##Assessment
