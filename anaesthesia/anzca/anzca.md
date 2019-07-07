@@ -67,6 +67,25 @@ Covered under:
 * [PS42: Statement on Staffing of Accredited Departments of Anaesthesia](http://www.anzca.edu.au/Documents/ps42-2014-statement-on-staffing-of-accredited-depa.pdf)  
 Covered under:
 	* [Staffing](/anaesthesia/anzca/staffing.md)
+* [PS43: Statement on Fatigue and the Anaesthetist](http://www.anzca.edu.au/Documents/ps43-2007-statement-on-fatigue-and-the-anaesthetis.pdf)  
+Covered under:
+	* [Fatigue](/anaesthesia/anzca/fatigue.md)
+* [PS44: Guidelines to Fellows Acting on Appointments Committees for Senior Staff in Anaesthesia](http://www.anzca.edu.au/Documents/ps44-2006-guidelines-to-fellows-acting-on-appointm.pdf)  
+Covered under:
+	* [Appointments](/anaesthesia/anzca/appointments.md)
+* [PS45: Statement on Patients' Rights to Pain Management and Associated Responsibilities](http://www.anzca.edu.au/Documents/ps45-2010-statement-on-patients-rights-to-pain-man.pdf)  
+Covered under:
+	* [Acute Pain Management](/anaesthesia/anzca/pain.md)
+* [PS46: Guidelines on Training and Practice of Perioperative Cardiac Ultrasound in Adults](http://www.anzca.edu.au/Documents/ps46-2014-guidelines-on-training-and-practice-of-p.pdf)  
+Covered under:
+	* [Training in Echocardiography](/anaesthesia/anzca/echo.md)
+* [PS49: Guidelines on the Health of Specialists and Trainees](http://www.anzca.edu.au/Documents/ps49-2010-guidelines-on-the-health-of-specialists.pdf)  
+Covered under:
+	* [Welfare](/anaesthesia/anzca/welfare.md)
+* [PS50: Guidelines on Return to Anaesthesia Practice for Anaesthetists ](http://www.anzca.edu.au/Documents/ps50-2016-guidelines-on-return-to-anaesthesia-prac.pdf)  
+Covered under:
+	* [Return to Practice](/anaesthesia/anzca/rtp.md)
+
 
 ---
 ##References

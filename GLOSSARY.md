@@ -81,6 +81,9 @@ Beats per minute
 ##BPP
 Biophysical Profile
 
+##BSL
+Blood Sugar Level
+
 ##BSO
 Bilateral Salpingo-oophorectomy
 
@@ -198,6 +201,9 @@ Direct Current Cardioversion
 ##DCT
 Distal Convoluted Tubule
 
+##DKA
+Diabetic Ketoacidosis
+
 ##DHCA
 Deep Hypothermic Circulatory Arrest
 
@@ -212,6 +218,9 @@ Diabetes Mellitus
 
 ##DOP
 D-type (δ) opioid receptor
+
+##DOS
+Day of Surgery
 
 ##EAM
 External Auditory Meatus
@@ -576,6 +585,9 @@ Subclavian Vein
 
 ##SGA
 Small for Gestational Age
+
+##SGLT2
+Sodium-Glucose Co-transporter 2
 
 ##SLED
 Sustained Low-Efficiency Dialysis

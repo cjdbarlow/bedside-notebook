@@ -1,0 +1,59 @@
+#Return to Anaesthesia Practice for Anaesthetists
+
+Optimal performance depends on recency of practice, and deteriorates when clinical activities are interrupted. Deterioration is individual, and relates to:
+* Duration of interruption
+* Duration of practice prior to interruption
+* Ageing
+* Illnes
+* Individual variation
+
+##Definitions
+* Prolonged absence  
+Absence from clinical anaesthesia >12 months.
+
+
+##Principles
+Return to practice should be:
+* Based upon ANZCA roles in practice
+* Incorporate ANZCA CPD philosophy
+* Be informed by a needs analysis
+
+
+##Outline
+Program duration is **one month per year of absence**:
+* Tailored to individual needs
+* Broken into stages:
+	* Stage 1  
+	Prior to recommencement, or early in return to practice:
+		* CICO
+		* Cardiac arrest
+		* Formal CPD plan
+	* Stage 2  
+	On commencement.
+		* Initial period of one-to-one supervision
+		* Structured assessment of ability to practice without one-to-one supervision
+	* Stage 3  
+	After finishing one-to-one supervision period.
+		* Oversight by supervisor
+		* Evaluation  
+		MSF, peer review, clinical audit.
+		* Discussion of cases with supervisor
+	* Stage 4  
+	Completion of return to practice.
+		* Supervisor submits report to college confirming satisfactory completion
+
+
+##Plan Requirements
+Must contain:
+* Supervisor details
+* Reason of absence from practice
+* Learning needs analysis
+* Description of:
+	* Where the program will occur
+	* Intended duration
+	* Intended clinical experience
+
+
+---
+##References
+1. ANZCA. [PS50: Guidelines on Return to Anaesthesia Practice for Anaesthetists ](http://www.anzca.edu.au/Documents/ps50-2016-guidelines-on-return-to-anaesthesia-prac.pdf).

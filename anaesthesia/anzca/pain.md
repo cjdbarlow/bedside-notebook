@@ -48,10 +48,34 @@ Physiotherapy, psychology, pharmacy.
 * Should develop specific policies, protocols, and guidelines
 * Should review all patients under their care **at least daily**
 * Should consult on acute pain and acute-on-chronic pain
-* SHould conduct regular audits of practice
+* Should conduct regular audits of practice
+
+##Rights of the Patient
+Patients with pain, have the right to:
+* Have pain relief  
+Professional response be reasonable and proportionate to level and character of the pain experience. This **does not mean that**:
+	* The pain will (or can) be treated successfully
+	* The patient will be free of pain
+	* That pain relief can be provided on demand  
+	Notably opioids.
+* Have their complaints respected and taken seriously
+* Be cared for in a timely manner by health professionals trained and experienced in assessment and management of pain
+* Participate actively in the education and goal development
+* Have their pain history, assessment, and management documented so that optimal ongoing relief is provided
+* Have access to best practice care
+* Informed of the evidence of efficacy and liklihood of sucess of management, and of alternative therapies
+* Have appropriate planning for pain management after discharge
+
+##Responsibilities of the Patient
+Paients, carers, and families should:
+* Engage openly
+* Educate themselves about their pain and its management
+* Participate actively in their own care, and decisions about their care
+* Consider best-practice advice
 
 
 ---
 ##References
 
 1. ANZCA. [PS41: Guidelines on Acute Pain Management.](http://www.anzca.edu.au/Documents/ps41-2013-guidelines-on-acute-pain-management.pdf).
+2. ANZCA. [PS45: Statement on Patients' Rights to Pain Management and Associated Responsibilities](http://www.anzca.edu.au/Documents/ps45-2010-statement-on-patients-rights-to-pain-man.pdf).

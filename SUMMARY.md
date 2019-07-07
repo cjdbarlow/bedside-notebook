@@ -120,6 +120,10 @@
 	* [Palliative and End-of-Life Care](/anaesthesia/anzca/eol.md)
 	* [Industry Relationships](/anaesthesia/anzca/industry.md)
 	* [Acute Pain Management](/anaesthesia/anzca/pain.md)
+	* [Fatigue](/anaesthesia/anzca/fatigue.md)
+	* [Appointments](/anaesthesia/anzca/appointments.md)
+	* [Return to Practice](/anaesthesia/anzca/rtp.md)
+
 
 ---
 
@@ -207,12 +211,15 @@
 		* [Amniotic Fluid Embolism](/disease/cvs/afe.md)
 * [CNS](/disease/cns/cerebral-palsy.md#id)
 	* [Cerebral Palsy](/disease/cns/cerebral-palsy.md)
+	* [Epilepsy](/disease/cns/epilepsy.md)
+	* [Non-Convulsive Status](/disease/cns/ncse.md)
 	* [PDPH](/disease/cns/pdph.md)
 * [MSK](/disease/msk/necfas.md#id)
 	* [Necrotising Fascitis](/disease/msk/necfas.md)
 * [Endocrine](/disease/endo/dm.md#id)
 	* [Glucose Homeostasis](/disease/endo/dm.md)
 		* [Diabetes](/disease/endo/dm.md)
+		* [Euglycaemic Ketoacidosis](/disease/endo/udka.md)
 	* [Thyroid Disorders](/disease/endo/hyperthyroidism.md#id)
 		* [Hyperthyroidism](/disease/endo/hyperthyroidism.md)
 		* [Hypothyroidism](/disease/endo/hypothyroidism.md)
