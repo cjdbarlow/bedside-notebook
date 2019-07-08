@@ -1,0 +1,118 @@
+#Delayed Emergence
+
+> This is an <span style="color:red">**anaesthetic crisis**</span>  
+> Priority is to:
+>* **Rapidly identify and reverse immediately treatble causes**
+
+
+#####<span style="color:red">Immediate Management</span>
+* Scan monitors  
+ECG, BP, ETCO<sub>2</sub>, SpO<sub>2</sub>, temperature.
+* Confirm all anaesthetic agents are ceased  
+Inhalational & intravenous.
+* Apply nerve stimulator & evaluate for residual paralysis  
+Reverse as required:
+* Check BSL  
+25-50ml of 50% dextrose if BSL ⩽3mmol/L (or higher, if the patient has poorly controlled DM).
+* Apply processed EEG
+* Check syringes and ampoules for drug error
+* Consider:
+	* Narcotic reversal  
+	Naloxone 40μg IV Q2 minutes.
+	* Benzodiazepine reversal  
+	Flumazenil 0.2-1mg IV Q1 minutes.
+	* Inhalational reversal  
+	Physostigmine 0.5-1mg IV.
+	* Anticholinergic reversal  
+	Physostigmine 0.5-1mg IV.
+* Check ABG
+	* Electrolytes
+	* CO<sub>2</sub>
+* Check temperature  
+Actively warm if ⩽34°C.
+
+
+##Causes
+
+Failure to wake from anaesthesia requires a broad differential:
+* **D**rugs
+	* Drug error
+	* Anaesthetic drugs
+		* Opioids
+		* Hypnotics
+		* Paralytics
+			* Suxamethonium apnoea
+		* Anticholinergics  
+		Central anticholinergic syndrome.
+		* Local anaesthetic
+	* Other drugs
+		* Antiepileptics
+* **I**nfection
+	* Sepsis
+	* Meningitis/encephalitis
+* **M**etabolic
+	* Gas
+		* Hypoxia
+		* Hypercarbia
+	* Electrolyte
+		* Hyponatraemia
+		* Hypo/hyperglycaemia
+		BSL ⩾14mmol/L.
+	* Endocrine
+		* Hyperthyroidism
+		* Hypothyroidism
+	* Hepatic encephalopathy
+	* Hypo/hyperthermia
+	* Uraemia
+	* Ammonaemia
+* **S**tructural
+	* Blood
+		* CVA
+		* Cerebral hyperperfusion syndrome
+	* Brain
+		* Hypoxic brain injury
+		* Cerebral oedema
+		* Seizure/post-ictal state
+	* CSF
+		* Hydrocephalus
+		* Pneumocephalus
+
+## Investigations:
+Additional bloods:
+* FBE
+* UEC/CMP
+* LFTs
+* TFTs
+* Toxicology screen
+
+
+
+Imaging:
+* CTB  
+Consider repeating at 6-8 hours if no improvement in ICU.
+* MRI
+
+
+##Management
+Examination and consider further investigations:
+* Focused exam:
+	* Neurological
+		* GCS
+		* Pupil
+		* Gag/cough
+		* Focal signs
+	* Cardiovascular  
+	Adequacy of perfusion.
+* Investigations
+
+Consider disposition:
+* ICU
+* Neurology
+
+
+---
+
+##References
+1. Sinclair RCF, Faleiro RJ. Delayed recovery of consciousness after anaesthesia. Contin Educ Anaesth Crit Care Pain. 2006 Jun 1;6(3):114–8. 
+2. Ether. [Delayed Emergence from Anesthesia](http://ether.stanford.edu/delayed_emergence.html). Standford School of Medicine. Accessed 7/2019.
+3. Kazemi P, et al. [Delayed Emergence](https://www.anesthesiaconsiderations.com/delayed-emergence). Anaesthesia Considerations. Accessed 7/2019.

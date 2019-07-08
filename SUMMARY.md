@@ -60,11 +60,12 @@
 
 ##Anaesthesia
 * [Anaesthetic Emergencies](/anaesthesia/crisis/anaesthetic-crisis.md)
-	* [CICO](/management/airway/cico.md#id)
 	* [Airway Fire](/anaesthesia/crisis/fire.md)
 	* [Laryngospasm](/disease/airway/laryngospasm.md#id)
+	* [CICO](/management/airway/cico.md#id)
 	* [Massive Haemoptysis](/anaesthesia/crisis/massive-haemoptysis.md)
 	* [Amniotic Fluid Embolism](/disease/cvs/afe.md#id)
+	* [Delayed Emergence](/anaesthesia/crisis/delayed-emergence.md)
 	* [Total Spinal](/anaesthesia/crisis/totalspinal.md)
 * [Anaesthetic Considerations](/anaesthesia/considerations/risk.md#id)
 	* [Risk and Consent](/anaesthesia/considerations/risk.md)
