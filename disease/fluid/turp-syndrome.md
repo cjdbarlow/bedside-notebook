@@ -5,14 +5,14 @@ Describes cardiac and neurological changes that occur due to systemic absorption
 	* Osmolality  
 	With associated hyponatraemia.
 	* Circulating volume
-* CNS activity  
+* CNS effect of substances  
 
 ##Epidemiology and Risk Factors
 Prevalence:
 * Confusion, nausea, vomiting in ~2% of TURP patients
 
 
-Primary risk factor is rate and amount of irrigation fluid absoprtion:
+Primary risk factor is rate and amount of irrigation fluid absorption:
 * Volume absorbed is directly proportional to degree of hyponatraemia  
 **~10mmol/L** fall **for each 1L of irrigation fluid absorbed**; though this will vary depending on lean body weight.
 * Factors influencing rate of absoprtion:
@@ -23,7 +23,7 @@ Primary risk factor is rate and amount of irrigation fluid absoprtion:
 		* Hypovolaemia
 		* Hypotension  
 	* Extensive bleeding
-	* Capsular performation
+	* Capsular perforation
 	* High irrigation fluid pressure
 
 
