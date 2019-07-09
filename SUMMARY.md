@@ -220,7 +220,7 @@
 * [Endocrine](/disease/endo/dm.md#id)
 	* [Glucose Homeostasis](/disease/endo/dm.md)
 		* [Diabetes](/disease/endo/dm.md)
-		* [Euglycaemic Ketoacidosis](/disease/endo/udka.md)
+		* [Euglycaemic Ketoacidosis](/disease/endo/edka.md)
 	* [Thyroid Disorders](/disease/endo/hyperthyroidism.md#id)
 		* [Hyperthyroidism](/disease/endo/hyperthyroidism.md)
 		* [Hypothyroidism](/disease/endo/hypothyroidism.md)
