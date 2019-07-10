@@ -1,0 +1,100 @@
+#Caudal Epidural Block
+
+Injection of LA into the epidural space:
+* Via the sacral hiatus
+* Through the sacro-coccygeal ligament
+* Below the termination of the cord
+
+##Indications
+Intra- and post-operative analgesia up to the umbilicus.
+
+
+##Contraindications
+*This covers contraindications specific to caudal epidural anesthesia. General contraindications to neuraxial techniques are covered under [principles of neuraxial anaesthesia](/anaesthesia/regional/principles/principles-neuraxial.md).
+
+
+Relative:
+* Abnormal sacral anatomy  
+Pigmentation, dimples, and hair may be associated with spina bifida or a tethered cord - normal neuroanatomy should be confirmed prior.
+* Significance of motor weakness  
+Often not done once mobilising or too big for a pram/stroller.
+
+##Anatomy
+Predominantly a landmark technique. Identify:
+* Coccyx  
+Identifies midline.
+* Posterior sacroiliac joints
+* Sacral cornuae  
+Tubercles of the inferior articular processes.
+	* Palpate cranial-caudal to identify the location of the ligament  
+	This should be located midline, at the point forming an **equilateral triangle with each SI joint**.
+
+##Equipment
+* Sterile preparation
+* Syringe
+* Needle
+	* 25G to 23G needle  
+	Finer needles associated with IV or SAH injection.
+* Cannula  
+Good alternative to needle.
+	* Reduced incidence of dural puncture
+	* Less likely to migrate during injection
+	* 20G appropriate for most children
+	* 22G if <8kg
+	* 24G in premature babies
+
+
+Drug prepration::
+* Local anaesthetic
+	* 0.25% levobupivacaine
+	* 0.2% ropivacaine  
+	Less motor block than levobupivacaine.
+* Additives
+	* Clonidine 1.5μg/ml  
+	Prolongs caudal analgesia.
+* Total injectate volume determines block height:
+	* Sacral: 0.5ml/kg
+	* Lower thoracic: 1ml/kg  
+	Common dose used.
+	* Upper thoracic: 1.25ml/kg  
+	May have significant cephalad spread.
+
+##Technique
+
+###Preparation
+* Obtain IV access
+* Apply ECG monitoring
+* Identify site
+
+###Procedure
+* Apply sterile preparation
+* Identify sacral hiatus
+* Cannulate sacral hiatus
+	* Bevel facing posteriorly
+	* Pop or loss of resistance should be felt as needle passes through sacrococcygeal membrane
+	* Do not advance needle more than **2-3mm** in space
+* Leave open to air to rule-out inadvertant IV or intrathecal placement
+With a cannula, this time can be used to draw up solution.
+* Perform aspiration test
+* Slowly inject selected dose
+
+###Post-Procedure
+* Ensure parents know to watch & return if:
+	* Signs of weakness
+	* Urinary retention
+	* Local infection
+
+
+##Complications
+* Failure  
+~10%.
+* Urinary retention
+* Motor block  
+Common and significant in older children.
+* Inadvertent dural puncture
+* Systemic LA toxicity
+
+
+---
+##References
+
