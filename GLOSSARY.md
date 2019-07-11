@@ -423,6 +423,9 @@ Minimum Alveolar Concentration
 ##MAP
 Mean Arterial Pressure
 
+##MILS
+Manual In-Line Stabilisation
+
 ##MPG
 Mean Pressure Gradient
 
@@ -627,6 +630,9 @@ Termination of Pregnancy
 
 ##TPL
 Threatened Premature Labour
+
+##TRIM
+Transfusion-Related Immune Modulation
 
 ##TSH
 Thyroid Stimulating Hormone

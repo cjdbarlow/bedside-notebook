@@ -51,8 +51,6 @@ Intro and technique
 ##Pathophysiology
 ###Aetiology
 ##Assessment
-###History
-###Examination
 ##Diagnostic Approach and DDx
 ##Investigations
 ##Management
