@@ -13,7 +13,8 @@ Altered physiological state that:
 		* Anaesthesia
 		* Incontinence
 * **Neurogenic shock**  
-	* May occur within 30 minutes
+Distributive shock process due to loss of sympathetic tone:
+	* May occur within 30 minutes after injury
 	* May last up to 6 weeks
 	Features include:
 		* Hypotension  

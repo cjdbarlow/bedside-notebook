@@ -89,7 +89,7 @@ Therapeutic options:
 	* Patient availability
 	* Cause of anaemia
 * Include:
-	* Preoperative iron Supplementation  
+	* Preoperative iron supplementation  
 	If iron deficient.
 		* Oral
 			* Common
@@ -104,7 +104,8 @@ Therapeutic options:
 				Significant GI side effects.
 			* 80mg elemental iron given every **second day**  
 			Daily administration down-regulates hepcidin, and reduces absorption.
-		* IV
+		* IV  
+		Generally used if ferritin deficiency is severe, or moderate with low transferrin saturation.
 			* Facilitate rapid repletion of stores
 			* Requires local pathway to facilitate
 			* Newer preprations have much lower incidence of anaphylaxis  
@@ -162,3 +163,4 @@ Goals are to:
 ##References
 1. WHO. [Haemoglobin concentrations for the diagnosis of anaemia and assessment of severity](https://www.who.int/vmnis/indicators/haemoglobin.pdf). 
 2. Hughes, R, Khalafallah A, Aras, D. Perioperative iron deficiency anaemia – a review with a regional flavour. ANZCA Blue Book 2015.
+3. Thakrar SV, Clevenger B, Mallett S. Patient blood management and perioperative anaemia. BJA Educ. 2017 Jan 1;17(1):28–34. 

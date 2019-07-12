@@ -3,33 +3,17 @@
 Potentially **life-threatening sympathetic overactivity** occurring in patients with a **spinal injury above T6**.
 
 
-Syndrome of excess sympathetic activity in patients with 
-	* Occurring when:
-		* Spinal injury level is T6 or higher  
-		Increasing risk with higher injuries.
-		* Stimulus occurs below the leve o fhte injury
-	*  
-	Associated symptoms include:
-		* Bradycardia
-		* Flushing/sweating
-		* Headache
-		* Blurred vision
-
-				* Treat by:
-			* Remove stimulus
-			* Provide vasodilator
-		* Incidence ↓ with use of neuraxial anaesthesia
-
-
 ##Epidemiology and Risk Factors
 ##Pathophysiology
-Noxious stimulus below the level of injury:
-* Ascending sensory fibres convey message to spinal cord
-* Widespread SNS reflex activity occuring below the level of injury  
-Sympathetic ganglion activity remains uncontrolled due to lack of descending inhibition.
-* Compensatory parasympathetic activity **above** the level of injury
-	* ↑ BP detected by baroreceptors  
-	Leads to compensatory bradycardia.
+Requires:
+* Spinal injury level is T6 or higher
+* Noxious stimulus below the level of injury:
+	* Ascending sensory fibres convey message to spinal cord
+	* Widespread SNS reflex activity occuring below the level of injury  
+	Sympathetic ganglion activity remains uncontrolled due to lack of descending inhibition.
+	* Compensatory parasympathetic activity **above** the level of injury
+		* ↑ BP detected by baroreceptors  
+		Leads to compensatory bradycardia.
 
 ###Aetiology
 Common causes include:
@@ -41,20 +25,22 @@ Common causes include:
 	* IDC placement
 	* Trans-urethral urological procedures
 * Bowel
-	* Constipation
-	* Gaseous distension
+	* Distension
+		* Constipation
+		* Gas
 	* Rectal irritation
-	* Haemorrhoids
+		* Haemorrhoids
 * Skin
 	* Burns
 	* Pressure areas
 	* Tight clothing
-* Other
+* GU
+	* Intercourse
+	* Menstrual cramping
+	* Labour
+* Pain
 	* Lower limb trauma
-	* GU
-		* Intercourse
-		* Menstrual cramping
-		* Labour
+
 
 ##Assessment
 Presentation due to SNS overactivity, with compensatory PNS responses:
@@ -106,7 +92,7 @@ Minimises hypotension once stimulus has resolved.
 	* GTN 400μg SL
 	* Captopril 25mg SL
 	* Hydralazine 5mg IV Q10min
-	* Labetaolol 5mg iV Q5min
+	* Labetaolol 5mg IV Q5min
 * Analgesia  
 If a noxious stimulus present, e.g. trauma.
 

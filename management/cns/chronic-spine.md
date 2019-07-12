@@ -42,7 +42,7 @@ Presence and severity of symptoms depends on height of injury.
 * A
 	* Fusion may impair airway management
 * C
-	* Consider induction with vasopressor
+	* Consider induction with vasopressor infusion
 	* Arterial line
 	* MAP within 20% of baseline
 * D
