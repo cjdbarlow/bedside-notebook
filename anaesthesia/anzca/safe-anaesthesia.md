@@ -1,0 +1,122 @@
+#Minimum Facilities for Safe Administration of Anaesthesia
+
+Provision of safe anaesthesia requires appropriate:
+* Staff
+* Facilities
+* Equipment
+
+##Staff
+Requires:
+* A dedicated assistant for the anaesthetist
+* Assistance for positioning
+* Technical assistance for functioning and servicing of equipment
+
+##Facilities
+Should have:
+A place for recovery from anaesthesia
+* Contingency plans for safe emergency evacuation from the operating suite or recovery areas
+
+
+###Delivery Suites
+Must have:
+* Midwives competent in obstetric epidural management, if used
+* A minimum FiO<sub>2</sub> of 0.3 if inhalational analgesia used
+* Exclusive anaesthetic suction
+* Separate oxygen outlets for mother and neonate
+* Neonatal resuscitation equipment
+
+###Electroconvulsive Therapy Locations
+Must have:
+* Breathing system capable of 100% oxygen
+* Alternative breathing system
+* Adequate oxygen reserves
+
+###Dental Surgery
+Must have:
+* Dental chair allowing patient to be rapidly placed horizontally or head-down
+
+###Imaging
+Must have:
+* Monitoring equipment complying with ANZCA standards
+* Consideration of location for anaesthetic delivery systems
+
+##Equipment:
+Essential requirements:
+* Specialist anaesthetist to advice on equipment choice and maintenance
+* Nursing or technical staff to organise cleaning, maintenance, and servicing of equipment
+
+
+In each anaesthetising location there must be:
+* Gas and anaesthetic delivery:
+	* Device to deliver accurately measured flow of air and oxygen
+	* Calibrated vaporisers  
+	When required.
+	* Infusion devices for controlled delivery of IV anaesthesia  
+	When required.
+	* Range of suitable breathing systems
+	* Separate means to inflate lungs with oxygen
+	* Scavenging  
+	If anaesthetic gases and vaporisers.
+* Safety equipment
+	* Gowns
+	* Gloves
+	* Masks
+	* Eye shields
+* Monitoring
+	* Stethoscope
+	* Sphygmomanometer
+	* Standard ANZCA monitoring
+* Airway equipment  
+Including a range of:
+	* Face masks
+	* OPAs
+	* NPAs
+	* Laryngoscopes and blades
+	* ETTs and connectors
+	* Bougies and stylets
+	* Syringes
+	* Magill forceps and throat packs
+	* Sterile lubricant
+* IV access equipment
+	* Tourniquets
+	* IV access and infusion equipment
+	* Sharps disposal devices
+
+
+In each anaesthetising location there must be readily available:
+* Difficult intubation equipment
+* Automatic ventilation of the lungs
+* Equipment for measurement of arterial and venous pressures
+* Cardiac defibrillator
+* Pleural drainage sets
+* Telephone or intercom
+* Means to control room temperature
+* Drugs  
+To manage:
+	* Adrenal dysfunction
+	* Anaphylaxis
+	* Bronchospasm
+	* Cardiac arrest
+	* Arrhythmias
+	* Coagulopathies
+	* Hypoglycaemia
+	* Hypotension
+	* Pulmonary oedema
+	* Raised ICP
+	* Respiratory depression
+	* Uterine Atony  
+	If relevant.
+
+
+Equipment must:
+* Have regular routines for:
+	* Checking
+	* Cleaning
+	* Sterilisation
+* Be serviced appropriately, and have that servicing documented  
+Twice a year in absence of a manufacturer recommendation.
+
+
+---
+##References
+1. ANZCA. [PS55: Recommendations on Minimum Facilities for Safe Administration of Anaesthesia in Operating Suites and Other Anaesthetising Locations](http://www.anzca.edu.au/Documents/ps55-2012-recommendations-on-minimum-facilities-fo.pdf).

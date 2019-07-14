@@ -129,6 +129,10 @@
 	* [Fatigue](/anaesthesia/anzca/fatigue.md)
 	* [Appointments](/anaesthesia/anzca/appointments.md)
 	* [Return to Practice](/anaesthesia/anzca/rtp.md)
+	* [Safe Medication Use](/anaesthesia/anzca/safemeds.md)
+	* [Patient Transport](/anaesthesia/anzca/patient-transport.md)
+	* [Handover](/anaesthesia/anzca/handover.md)
+	* [Safe Anaesthesia](/anaesthesia/anzca/safe-anaesthesia.md)
 
 
 ---

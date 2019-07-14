@@ -1,0 +1,72 @@
+#Safe Management and Use of Medications
+
+Safe administration of medicine involves:
+* Timely administration
+* Prevention of drug errors  
+Anaesthetists are often solely responsible for prescription, preparation, dispension, and labelling of drugs.
+	* Correct:
+		* Patient
+		* Dose
+		* Route
+		* Time
+	* Awareness of human factors that contribute to drug errors
+* Accurate recording of drugs used
+* Minimisation of drug misdirection
+
+##Purchasing Decisions
+Consideration should be placed towards:
+* Accurate labelling and packaging, facilitating identification
+* Segration of drugs with different concentrations but similar physical preparation
+* Minimising need for dilution prior to use
+	* Consider pre-diluting dangerous drugs to levels safe for administration
+
+##Storage
+Considerations:
+* Drugs with abuse potential should be locked when access is not required
+* Emergency drugs should be immediately accessible  
+These include:
+	* Adrenaline
+	* Vasopressors
+	* Propofol
+	* Muscle relaxants
+	* Local anaesthetics
+* Drug draws should be organised formally  
+Standardisation within each institution and region is desirable.
+* Drugs with similar appearances and names (but in different classes) should be stored separately
+* Drugs should be stored in ways to minimise error
+
+
+##Labelling
+Labels:
+* Should be applied to all drawn-up injectable drugs
+* Should be legible
+* Should be colour-coded by class
+* Are only not required when:
+	* Preparation and bolus administration is a single uninterrupted process
+	* The syringe does not leave the hands of the person who prepared it
+	* The person who prepared it administers it immediately
+
+
+##Administration
+* Every patient receiving a drug should be identified prior to administration
+* Prescriptions must be legible, and contain:
+	* Drug name
+	* Dose
+	* Route
+	* Dose interval and time
+	* Any special instructions
+* Uncluttered surface space should be available for drawing up, arranging, and holding drugs
+	* Emergency drugs should be located separately
+* Empty ampoules should be retained for checking in case of an adverse event or administration error
+* Time between drawing up and administering should be minimised
+
+###Infusion Pumps
+Should be:
+* Standardised within an institution
+* Fitted with one-wayu valves to prevent siphoning of inufsed drug
+	* Luer-lock connections should be used where possible
+* Different from those used for neuraxial and peripheral nerve catheters
+
+---
+##References
+1. ANZCA. [PS51: Guidelines for the Safe Management and Use of Medications in Anaesthesia](http://www.anzca.edu.au/documents/ps51-2009-guidelines-for-the-safe-administration-o.pdf).

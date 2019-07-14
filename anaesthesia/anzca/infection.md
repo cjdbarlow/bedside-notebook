@@ -12,7 +12,7 @@ Equipment classifications:
 * Critical  
 Penetrate skin or mucous membranes, or enters a sterile space. Requires sterilisation.
 * Semi-critical  
-In contact with intact mucous membranes or becomes contaminated with readily transmissable organisims. Requires sterilisation or high level disinfection.
+In contact with intact mucous membranes or becomes contaminated with readily transmissable organisms. Requires sterilisation or high level disinfection.
 * Non-critical  
 Contacts skin or does not contact the patient. Requires a low-level of disinfection or cleaning.
 

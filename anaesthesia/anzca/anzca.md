@@ -2,7 +2,6 @@
 
 *This section is aimed at the ANZCA Final Exam candidate, and provides an index of where relevant [ANZCA Professional Documents](http://www.anzca.edu.au/resources/professional-documents) are covered.*
 
-
 ANZCA Professional Documents:
 * [PS02: Credentialling and Scope of Practice](http://www.anzca.edu.au/Documents/ps02-2006-statement-on-credentialling-and-defining.pdf).  
 Covered under:
@@ -85,8 +84,22 @@ Covered under:
 * [PS50: Guidelines on Return to Anaesthesia Practice for Anaesthetists ](http://www.anzca.edu.au/Documents/ps50-2016-guidelines-on-return-to-anaesthesia-prac.pdf)  
 Covered under:
 	* [Return to Practice](/anaesthesia/anzca/rtp.md)
-
-
+* [PS51: Guidelines for the Safe Management and Use of Medications in Anaesthesia](http://www.anzca.edu.au/documents/ps51-2009-guidelines-for-the-safe-administration-o.pdf)  
+Covered under:
+	* [Safe Medication Use](/anaesthesia/anzca/safemeds.md)
+* [PS52: Guidelines for Transport of Critically Ill Patients](http://www.anzca.edu.au/Documents/ps52-2015-guidelines-for-transport-of-critically-i.pdf)  
+Covered under:
+	* [Patient Transport](/anaesthesia/anzca/patient-transport.md)
+* [PS53: Statement on the Handover Responsibilities of the Anaesthetist](http://www.anzca.edu.au/Documents/ps53-2013-statement-on-the-handover-responsibiliti.pdf)  
+Covered under:
+	* [Handover](/anaesthesia/anzca/handover.md)
+* [PS54: Statement on the Minimum Safety Requirements for Anaesthetic Machines and Workstations for Clinical Practice](http://www.anzca.edu.au/Documents/ps54-2013-statement-on-the-minimum-safety-requirem.pdf)  
+Covered under:
+	* [Anaesthetic Machine Check](/assessment/anaesthetic/machinecheck.md)
+* [PS55: Recommendations on Minimum Facilities for Safe Administration of Anaesthesia in Operating Suites and Other Anaesthetising Locations](http://www.anzca.edu.au/Documents/ps55-2012-recommendations-on-minimum-facilities-fo.pdf)  
+Covered under:
+	* [Safe Anaesthesia](/anaesthesia/anzca/safe-anaesthesia.md)
+	
 ---
 ##References
 1. ANZCA. [Professional Documents](http://www.anzca.edu.au/resources/professional-documents).

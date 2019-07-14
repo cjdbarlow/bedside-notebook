@@ -69,8 +69,47 @@ The level three check involves checking any piece of equipment that has been cha
 * Alarms and monitoring should comply with ANZCA standards
 * Secondary means of oxygenation and positive pressure ventilation should be available 
 
+
+##Machine Safety
+Additionally, anaesthetic machines:
+* Should be assessed yearly by a specialist anaesthetist for:
+	* Safety
+	* Reliability
+	* Functionality
+* That do not comply with the following safety requirements to be removed from clinical use, or be upgraded to do so
+	* Gas supply
+		* Gas cylinder connections must be pin indexed
+		* Reserve oxygen suppply must be attached and easily activatable
+		* Non-interchangeable gas hose connectors
+		* Supply gas pressure display visible
+		* Oxygen failure warning device present
+			* Generates alarm
+			* Cut off supply of gases other than air and oxygen to common gas outlet
+		* Oxygen must be the last gas to enter the backbar
+		* If flowmeters are used:
+			* Only one gas flow control knob for each gas
+			* Oxygen knob should differ from other knobs so it can be identified by touch  
+			Generally fluted.
+			* Oxygen flow knob must be left-most  
+		* Incapable of delivering a hypoxic mixture  
+		i.e. FiO<sub>2</sub> ⩽21%.
+	* Vaporisers
+		* Interlock must prevent more than one vaporiser being used
+		* Gas concentraiton must increase when dial rotated anti-clockwise
+	* Fresh gas outlet  
+	Must be:
+		* 22mm outer diameter and 15mm internal diameter
+		* Visible
+		* Connected in such a way to prevent accidental disconnection
+	* High-presure release valve present in the circuit
+	* Scavenging must be of a different diameter to other connections
+	* All alarms must activate when the associated feature of the machine isenabled
+	* Emergency oxygen flush must be protected from accidental activation
+	* On/off switch must be protected from unintended activation  
+	Turning off during normal operation requires a confirmatory step.
 ---
 
 ##References
 
-1. ANZCA. [PS31 Guidelines on Checking Anaesthesia Delivery Systems](http://www.anzca.edu.au/Documents/ps31-2014-guidelines-on-checking-anaesthesia-deliv.pdf)
+1. ANZCA. [PS31: Guidelines on Checking Anaesthesia Delivery Systems](http://www.anzca.edu.au/Documents/ps31-2014-guidelines-on-checking-anaesthesia-deliv.pdf).
+2. ANZCA. [PS54: Statement on the Minimum Safety Requirements for Anaesthetic Machines and Workstations for Clinical Practice](http://www.anzca.edu.au/Documents/ps54-2013-statement-on-the-minimum-safety-requirem.pdf).
