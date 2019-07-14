@@ -3,7 +3,9 @@
 Lung isolation and one-lung ventilation:
 * Has many uses in thoracic surgery and ICU
 * May be difficult to achieve
-* May lead to complications and physiological compromise
+* May lead to complications and physiological compromise  
+Clinically meaningful hypoxia in ~10% of thoracic surgery during OLV.
+
 
 ##Indications
 Absolute:
@@ -25,6 +27,21 @@ Relative:
 	* Thoracoscopy
 
 ##Contraindications
+Inability to maintain oxygenation on one-lung.
+
+Predictors of hypxoxaemia:
+* Patient
+	* Preferential perfusion to operative lung
+		* Right-sided surgery
+		* Previous contralateral resection
+		* Contralateral pathology
+	* Normal FEV<sub>1</sub>
+	* Chronic vasodilator therapy
+	* Poor oxygenation on two lung ventilation
+* Procedure
+	* Supine perfusion
+	* Volatile anaesthesia >>1 MAC
+
 ##Anatomy
 ##Equipment
 Specific equipment for lung isolation include:
@@ -69,13 +86,19 @@ Isolation can be achieved using:
 * Bronchial blocker
 * Endobronchial intubation with a single-lumen ETT
 
+General principles involve:
+* Ventilation with 100% O<sub>2</sub>  
+Aim for maximal denitrogenation; absorption of oxygen will speed up lung collapse.
 
-###Isolation with Double-Lumen ETT
 
+###Isolation with Double-Lumen Tube
+* Confirm DLT positioning
+* Clamp DLT proximally on side to be deflated
+* Open DLT to air, distal to the clamp, on the side to be deflated  
+	* Consider suctioning down open lumen to speed up collape
+* Confirm ventilation appropriate on remaining lung
 
 ###Isolation with Bronchial Blocker
-* Ventilate the patient with 100% O<sub>2</sub>  
-Aim for maximal denitrogenation.
 * Turn PEEP to 0cmH<sub>2</sub>O
 * Insert bronchial blocker  
 May be inserted under bronchoscopic guidance or directed blindly.
@@ -99,35 +122,85 @@ Initially 5-10cmH<sub>2</sub>O until recruited, then decrease to 2-5cmH<sub>2</s
 	* To DLT lumen
 
 
+###Surgical Considerations
+Surgical technique will affect rate and adequacy of lung collapse:
+* Airtight seal with thorascopic ports will reduce pneumothorax development
+* Suctioning will re-expand lung
+
+
 ##Ventilatory Technique
 > * Priority is to **avoid hypoxia**  
-Typically aim SpO<sub>2</sub> > 90%
+Typically aim SpO<sub>2</sub> > 90%.
+>	* Maintain FRC in ventilated lung
 > * Maximise PVR in the independent/operative/deflated lung
 > * Minimise PVR in the dependent/ventilated lung
 
 General Approach:
 * Optimise FRC of the dependent lung  
 Occurs at lower than usual volumes due to paralysis, lateral position, and the weight of the mediastinum.
+	* Any shunt in ventilated lung is poorly tolerated
+* Avoid impediments to hypoxic pulmonary vasoconstriction in ventilated lung
+	* Hypocapnoea
+	* Vasodilators
+	* Excessive volatile
 * Begin at:
-	* FiO<sub>2</sub> of 1.0 and downtitrate
+	* FiO<sub>2</sub> of 1.0  
+	Aim to down-titrate to 0.5-0.8.
 	* Vt of 8-10ml/kg
 		* Vt of <8ml/kg may lead to atelectasis
 		* Vt of >15ml/kg can increase PVR in the ventilated lung
 	* 5cmH<sub>2</sub> of PEEP
 * Targeting:
 	* Pplat < 25cmH<sub>2</sub>O
-	* PaCO<sub>2</sub> ~35mmHg
+	* PaCO<sub>2</sub> ~35mmHg  
+	Permissive hypercapnoea acceptable; 
 
 
 ###Responding to Hypoxaemia
-* Ensure:
-	* DLT not obstructed
-	* Haemodynamic state acceptable
-	* Mediastinal pressure not being performed by surgeon
-* Increase FiO<sub>2</sub>
-* Increase PEEP  
-Typically up to 10cmH<sub>2</sub>O - noting that excessive PEEP will worsen PVR.
-* CPAP to operative lung
+Critical hypoxaemia:
+* May occur with:
+	* Rapid decline
+	* Major comorbidity
+	* Haemodynamic instability
+* Recruit operative lung until stabilised/help arrived
+	* Increase FiO<sub>2</sub>
+	* Two-lung ventilation
+	* CPAP
+
+Identify and treat common causes:
+* Failure of isolation
+	* Bronchoscopy
+* Obstruction
+	* Suction
+* Derecruitment
+	* Recruitment manoever
+	30-40cmH<sub>2</sub>O, noting a drop in CO, BP, and SpO<sub>2</sub> will transiently follow.
+		* Arterial line useful if recruiting longer than 10-20s
+	* PEEP titration  
+	Typically up to 10cmH<sub>2</sub>O - noting that excessive PEEP will worsen PVR.
+* Low DO<sub>2</sub>
+	* Ensure Hb adequate
+	* Consider inotropes
+	* Fall in CO
+		* Mediastinal pressure by surgeon
+* Shunt through operative lung  
+Likely cause of hypoxia when other factors are optimised. Consider:
+	* Oxygen to operative lung  
+	Delivery of low-flow (e.g. 2L/min) O<sub>2</sub> down a suction catheter.
+		* Catheter can be placed under bronchoscopic guidance to minimise effect on surgical exposure
+	* CPAP to operative lung  
+	May interfere with surgical exposure depending on amount of CPAP applied and proximity of operative site to hilum.
+		* 2cmH<sub>2</sub>O nearly always tolerated
+		* 9cmH<sub>2</sub>O begins to impinge
+	* Pulmonary vasodilators to ventilated lung  
+	Not appropriate as rescue therapy. 
+		* iNO at 20ppm is effective only when combined with a vasoconstrictor
+		* Inhaled PGE1 at 10ng/kg/min
+	* Intermittent two-lung ventilation  
+	May significantly hamper surgical access and prolong operating time.
+	* Clamp PA of operatigve lung
+
+
 
 
 ##Complications
@@ -139,3 +212,4 @@ Complications of one-lung ventilation include:
 
 ---
 ##References
+1. Lohser J. Managing Hypoxemia During Minimally Invasive Thoracic Surgery. Anesthesiology Clinics. 2012;30(4):683-697.

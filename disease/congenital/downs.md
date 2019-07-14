@@ -53,6 +53,7 @@ Occurs in 50%.
 	Despite the below changes, muscular hypotonia makes laryngoscopy generally straightfoward.
 		* Macroglossia
 		* Micrognathia
+		* Midface hypoplasia
 		* Short neck
 		* Tonsillar hypertrophy
 	* Atlanto-axial instability  
@@ -61,6 +62,8 @@ Occurs in 50%.
 		* Symptomatic in 1.5%
 	* Subglottic stenosis  
 	In ~5%. Use smaller ETT than expected for age.
+	* Recurrent RTIs  
+	Due to immune deficiency.
 * B
 	* **Bradycardia** common and significant with anaesthetic agents  
 	Have atropine available.

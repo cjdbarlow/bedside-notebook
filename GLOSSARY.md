@@ -465,6 +465,9 @@ Osteoarthritis *or* Occiput Anterior (obstetrics)
 ##OHG
 Oral Hypoglycaemic
 
+##OLV
+One-Lung Ventilation
+
 ##OOP
 Out-Of-Plane
 

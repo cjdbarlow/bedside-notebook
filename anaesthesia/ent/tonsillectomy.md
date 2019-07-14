@@ -90,6 +90,19 @@ Under vision.
 	Leave until fully awake.
 * Avoid coughing
 
+Risk factors for post-operative airway events:
+* Age < 3 years
+* Severe OSA
+* Ex-premature
+* Under-overweight
+* Syndromic
+* Significant cardio/respiratory disease
+* Intercurrent RTI
+* Intraoperative event:
+	* Desaturation
+	* Use of CPAP
+	* Delayed emergence
+
 Post-operative care:
 * Day stay unless:  
 	* ⩽2 years old  
@@ -99,3 +112,4 @@ Post-operative care:
 
 ---
 ##References
+1. Coté CJ, Posner KL, Domino KB. Death or neurologic injury after tonsillectomy in children with a focus on obstructive sleep apnea: houston, we have a problem! Anesth Analg. 2014 Jun;118(6):1276-83.
