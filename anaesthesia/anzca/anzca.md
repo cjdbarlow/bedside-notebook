@@ -99,7 +99,32 @@ Covered under:
 * [PS55: Recommendations on Minimum Facilities for Safe Administration of Anaesthesia in Operating Suites and Other Anaesthetising Locations](http://www.anzca.edu.au/Documents/ps55-2012-recommendations-on-minimum-facilities-fo.pdf)  
 Covered under:
 	* [Safe Anaesthesia](/anaesthesia/anzca/safe-anaesthesia.md)
-	
+* [PS56: Guidelines on Equipment to Manage a Difficult Airway During Anaesthesia](http://www.anzca.edu.au/Documents/ps56-2012-guidelines-on-equipment-to-manage-a-diff.pdf)  
+Covered under:  
+	* [Unexpected Difficult Airway](/management/airway/difficult-airway.md)
+* [PS57: Statement on Duties of Specialist Anaesthetists](http://www.anzca.edu.au/Documents/ps57-2014-statement-on-duties-of-specialist-anaest.pdf)  
+Covered under:
+	* [Specialist Duties](/anaesthesia/anzca/specialists.md)
+* [PS58: Guidelines on Quality Assurance and Quality Improvement in Anaesthesia](http://www.anzca.edu.au/Documents/ps58-2012-guidelines-on-quality-assurance-in-anaes.pdf)  
+Covered under:
+	* [Quality Assurance and Improvement](/anzca/anaesthesia/qa.md)
+* [PS60: Guidelines on the Perioperative Management of Patients with Suspected or Proven Hypersensitivity to Chlorhexidine](http://www.anzca.edu.au/Documents/ps60-2015-guidelines-on-the-perioperative-manageme.pdf)  
+Covered under:
+	* [Anaphylaxis](/disease/immune/anaphylaxis.md)
+* [PS62: Statement on Cultural Competence](http://www.anzca.edu.au/documents/ps62-2016.pdf)  
+Covered under:
+	* [Cultural Competency](/anaesthesia/anzca/cultural.md)
+* [PS63: Guidelines for Safe Care for Patients Sedated in Health Care Facilities for Acute Behavioural Disturbance](http://www.anzca.edu.au/Documents/ps26-2005-guidelines-on-consent-for-anaesthesia-or.pdf)  
+Covered under:
+	* [Acute Behavioural Disturbance](/management/cns/abd.md)
+* [PS64: Statement on Environmental Sustainability in Anaesthesia and Pain Medicine Practice](http://www.anzca.edu.au/documents/ps64-statement-on-environmental-sustainability-in.pdf)  
+Covered under:
+	* [Sustainability](/anaesthesia/anzca/sustainability.md)
+* [PS65: Guidelines for the Performance Assessment of a Peer](http://www.anzca.edu.au/documents/ps65-2018-guidelines-for-the-performance-assessmen.pdf)  
+Covered under:
+	* [Performace Appraisal](/anaesthesia/anzca/peer-review.md)
+
+
 ---
 ##References
 1. ANZCA. [Professional Documents](http://www.anzca.edu.au/resources/professional-documents).

@@ -37,8 +37,8 @@
 
 * [Airway](/management/airway/airway-management.md#id)
 	* [Planning](/management/airway/airway-management.md)
-		* [Expected Difficult Airway](/management/airway/expected-difficult-airway.md)
 		* [Unexpected Difficult Airway](/management/airway/difficult-airway.md)
+		* [Expected Difficult Airway](/management/airway/expected-difficult-airway.md)
 	* [Techniques](/management/airway/mask.md#id)
 		* [Mask Ventilation](/management/airway/mask.md)
 		* [Laryngeal Mask](/procedures/airway/lma.md)
@@ -53,6 +53,9 @@
 * [Disability](/management/cns/seizure.md#id)
 	* [Seizure](/management/cns/seizure.md)
 	* [Acute Spinal Cord Injury](/management/cns/acute-spine.md)
+	* [Chronic Spinal Cord Injury](/management/cns/chronic-spine.md)
+	* [Autonomic Dysreflexia](/management/cns/autonomic-dysreflexia.md)
+	* [Acute Behavioural Disturbance](/management/cns/abd.md)
 * [Renal and Fluid](/management/renal/rrt.md#id)
 	* [Renal Replacement](/management/renal/rrt.md)
 	* [Hyponatraemia](/management/fluid/hypona.md)
@@ -133,6 +136,9 @@
 	* [Patient Transport](/anaesthesia/anzca/patient-transport.md)
 	* [Handover](/anaesthesia/anzca/handover.md)
 	* [Safe Anaesthesia](/anaesthesia/anzca/safe-anaesthesia.md)
+	* [Specialist Duties](/anaesthesia/anzca/specialists.md)
+	* [Quality Assurance and Improvement](/anzca/anaesthesia/qa.md)
+	* [Cultural Competency](/anaesthesia/anzca/cultural.md)
 
 
 ---

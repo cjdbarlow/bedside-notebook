@@ -17,26 +17,48 @@ A CICO situation occurs when there is a **failure (or impending failure) to deli
 * Note that therefore the **trigger for performing FONA is inability to establish airawy patency** following optimal attempts at non-surgical techniques, **not desaturation**
 
 
-###Transitioning to CICO
-Successful management of a CICO situation requires control of the human factors. Aim to:
+##Transitioning to CICO
+Transition describes the phase of care leading up to, and including, a committed declaration of a CICO event. Key steps in transition:
 * Prevent (where possible)
 	* Adquate preparation
 	* Preoxygenation
-	* Airway assessment
+	* Airway assessment  
+	Consider:
+		* Awake intubation
+		* Awake tracheostomy
 	* Use of adjunts and tools
-
-
-* Priming
-	* Recognise the situation  
-	**Verbally declare**.
-	* Communicate
-	* Demonstrate willingness to act
+		* Ensure attempts at:
+			* Mask ventilation  
+			With adjuncts, and two-hands.
+			* Supraglottic technique
+			* Intubation
+		* Continuous, apneic delivery of oxygen  
+		Mask, nasal prongs, or supraglottic airway.
+	* Call for help early
+		* **Call** for skilled **help** after **failure of one technique**
 * Preparation  
 Of CICO kit.
+	* **Prepare** equipment after **failure of two techniques**
+* Priming
+	* Recognise the situation  
+		* **Verbally declare** when recognised, or after **failure of three techniques**
+		* Many such situations may be recognition of impending CICO  
+		Focus shifts from supraglottic to infraglottic rescue.
+	* Communicate
+	* Demonstrate willingness to act
 * Puncture  
 Perform critothyrotomy.
 
-
+###Optimising Transition
+Principles:
+* Manage ambiguity
+* Prevent and detect cognitive failure
+	* Use of cognitive aids
+	* Use pre-rehearsed responses
+	* Be self-aware of vulnerability
+* Optimise team support and coordination
+* Monitor attention
+* Minimise delays
 
 ###Front of Neck Access
 Cricothyrotomy techniques include:
@@ -50,6 +72,38 @@ Cricothyrotomy techniques include:
 	* May be favoured by anaesthetists who are more comfortable with needles than scalpels
 	* Use of a 14G cannula facilitates jet ventilation
 	* Cannula can be converted to a definitive airway using Seldinger technique
+
+
+##Epidemiology of CICO
+CICO is:
+* A rare event  
+~1:10,000 to 1:50,000 of routine GAs.
+	* Increased risk in ICU and ED
+* Influenced heavily by:
+	* Organisational factors
+		* Use of airway registries
+		* Early warning and alert systems
+		* Use of checklists
+		* Safety culture
+	* Cognitive errors
+		* Use of cognitive aids  
+		Prompt team to adopt rehearsed practices.
+		* Self-awareness  
+		Of vulnerability to error, and monitoring to detect and correct error.
+		* Encourage  
+		Team members to speak up.
+		* Real-time optimisation of the environment  
+		Enhance situational awareness.
+	* Teamwork
+		* Shared mental models
+		* Role clarity
+		* High coordination
+		* Clear communication
+		* Strong leadership
+		* Rapid, robust decision making
+
+
+
 
 
 ---

@@ -7,6 +7,9 @@
 > * CICO mortality and morbidity occurs due to **delay** in performing FONA, not due to the procedure
 > * A standardised approach improves crisis performance
 > * Cognitive and motor skills are significantly impaired in a crisis
+> * Priority is to maintain:
+>	* Oxygenation
+>	* Ventilation
 
 
 ##Difficult Airway Drill{#drill}
@@ -87,6 +90,149 @@ Though there are many different airway management techniques, most are not appli
 			* Optimise the current technique to re-attempt the primary technique
 
 
+##Equipment
+As difficult airways are often unpredictable, emergency airway equipment should be available wherever airways are managed. This equipment should be:
+* Clearly labelled
+* Stored in a:
+	* Dedicated container
+	* Known location  
+	Staff should be orientated to its location, and a process of orientating new staff exist.
+* Portable
+* Rapidly available within 60 seconds  
+In the OR, operating suite, or off-the floor.
+	* Supplementary equipment should be available within 5 minutes
+* Compliant with:
+	* Sterility standards
+	* Checked daily and replenished when required
+	* Checked every 3 months for battery function
+	* Restocked and resealed promptly after use
+
+
+###Adult Equipment
+Includes:
+* Airway adjuncts
+	* Oropharyngeal airways size 3, 4, 5 and 6
+	* Nasopharyngeal airways size 6, 7 and 8
+* Laryngoscopes
+	* Macintosh blades size 3 and 4
+	* Alternative blades
+	* Two laryngoscope handles  
+	Including one stubby handle.
+* ETT adjuncts
+	* ETT introducer with a Coudé tip  
+	e.g. Frova.
+	* Malleable stylet
+	* Selection of specialised ETTs
+		* MLTs
+		* Reinforced tubes
+		* Flexible tubes appropriate for fibre-optic intubation
+			* Parker Flexi-tip
+			* iLMA flexible tube
+	* Airway exchange catheter
+* LMAs
+	* Intubating LMAs
+	* LMAS size 3, 4, and 5  
+	Able to admit a bronchoscope.
+* Emergency airway equipment
+	* Surgical cricothyrotomy kit  
+	Containing:
+		* Scalpel with #10 or #20 blade
+		* Tracheal hook
+		* Trousseau dilator
+		* Tracheostomy tubes size 6 and 7
+	* Catheter cricothyrotomy kit  
+	Containing:
+		* Cannula
+		* Pressure or flow regulated insufflation system
+* Oesophageal intubation detector
+* Immediate CO<sub>2</sub> detector  
+Capnograph, capnometer, or calorimetric detector.
+
+###Paediatric Equipment
+Should be available wherever paediatric airways are managed:
+* Airway adjuncts
+	* Oropharyngeal airways 000, 00, 0, 1, 2, 3, 4, 5
+	* Nasopharyngeal airways 3, 3.5, 4, 4.5, 5
+* Laryngoscopes
+	* Macintosh blade size 1
+	* Straight blades  
+	e.g. Miller sizes 0, 1, 2.
+* ETT adjuncts
+	* Paediatric introducers
+	* Malleable stylets
+	* Cuffed and uncuffed ETTs in various sizes  
+	2, 2.5, 3, 3.5, 4, 4.5, 5, 5.5.
+	* Airway exchange catheters  
+	Size 8 Fr, 11 Fr, and 14 Fr.
+* LMAs
+	* LMAs size 1, 1.5, 2, 2.5
+* Emergency airway equipment
+	* Paediatric cricothyrotomy set, size 3.5mm
+	* Kink-resistant transtracheal catheter
+	* High pressure, pressure or flow-regulated ventilation system
+* Oesophageal intubation detector
+* Immediate CO<sub>2</sub> detector  
+Capnograph, capnometer, or calorimetric detector.
+
+
+Additionally, specialist paediatric units should have:
+* Ultra-thin flexible intubating bronchoscope
+
+###Bronchoscopes
+Should be available within 5 minutes to support the above. Bronchoscopic equipment should include:
+* Intubating catheter  
+e.g. Aintree.
+* Spare battery
+* Intubating airways
+* Endoscopy masks
+* Bronchoscopic swivel connectors
+* Wires
+* Anti-fog solution
+* Local anaesthetics  
+Including:
+	* Sprays
+	* Atomisers
+	* Jelly
+* Nasal vasoconstrictor
+* Bite block
+
+###Supplementary Equipment
+Optional equipment may include:
+* Double-lumen airway  
+e.g. Combitube.
+* Non-standard laryngoscope blades
+	* McCoy
+	* Flexiblade
+	* McMorrow
+* Video laryngoscopes
+	* Including hyper-angulated blades
+* Airway stylets
+* Light wand
+* Equipment for retrograde intubation
+* Rigid ventilating bronchoscope
+
+###Grab-Bag
+Bag containing essential equipment that can be taken to emergency locations. Recommended content:
+* Airway adjuncts
+	* OPAs  
+	Size 3, 4, 5.
+	* NPAs  
+	Size 6, 7, 8.
+* LMAs
+	* Intubating LMAs  
+	Size 3, 4, 5; with dedicated tubes.
+* ETTs
+	* ETTs  
+	Size 5, 6.
+	* Intubating stylets
+	* Macintosh blades  
+	Size 2, 3, 4.
+	* Straight blade  
+	Size 3.
+	* Two laryngoscope handles
+	* Swivel bronchoscopy connector
+* CO<sub>2</sub> detector device
+* Emergency surgical airway set
 
 
 
@@ -97,3 +243,4 @@ Though there are many different airway management techniques, most are not appli
 3. T. M. Cook, S. R. MacDougall-Davis; Complications and failure of airway management, BJA: British Journal of Anaesthesia, Volume 109, Issue suppl_1, 1 December 2012, Pages i68–i85, https://doi.org/10.1093/bja/aes393
 4. Chrimes, N. [The Vortex: A Universal 'High-Acuity Implementation Tool' for Emergency Airway Management](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bja/117/suppl_1/10.1093_bja_aew175/3/aew175.pdf?Expires=1490519117&Signature=WDst8BeRnWgBXFudzgcLzu~Dw9HSr1v6yYlJwU-QUlgp5PgJ2msffuz~vsoWDXXv-XxZr1ndrpwcxCH274qVjBP~7hGZdtB3HBzH5HUNIHbFqBVtciwZlFQsMOSW6aAAt4kEtBBH6TAjkgxrA-~PpqBqpvOeOzC~08QMUjKXiqmn4errYgsKBEMXdNhxwJRPxra3w4BnOp-zluwtSsmmBzrfVvN0NmISaIOXxUGFqJHs1pWGJ9sqnuTYQsSkyAxdozEdWDnQAYkFNkq7igoHpzVNGzEkUMylsTVub1KHVEXLNT7De~LVU~c-M1Ft6G7p96r8vVYhGwOToDqGURIBig__&Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q). Br J Anaesth 117 Suppl 1, i20-i27. 2016 Jul 20.
 5. Chrimes, N. Fritz, P. [The Votex Approach: Management of the Unanticipated Difficult Airway](https://www.smashwords.com/books/view/277513). Smashwords. 2013.
+6. ANZCA. [PS56: Guidelines on Equipment to Manage a Difficult Airway During Anaesthesia](http://www.anzca.edu.au/Documents/ps56-2012-guidelines-on-equipment-to-manage-a-diff.pdf).

@@ -1,0 +1,39 @@
+#Cultural Competency
+
+Health inequities exist between different cultures. Culture is complex, and include:
+* Gender
+* Religious & spiritual beliefs
+* Age
+* Employment status
+* Socio-economic status
+* Sexual orientation
+* Disability
+
+Cultural competence involves:
+* An awareness of cultural diversity and the ability to function effectively, and respectfully, when working with and treating people of different cultural backgrounds
+* Ensuring clinical environment is inclusive of patients cultural needs
+* Healthcare providers navigating the healthcare system for patients
+
+##Principles of Cultural Competence
+Include:
+* Respect and understanding
+	* Understand privelege and disadvantage
+	* Identification of cultural biases and norms which influence healthcare
+* Culturally appropriate communication
+	* Sensitivity to patients needs and wishes
+* Patient-centred practice
+	* Tailor care to patient needs
+	* Avoid generalising to assuming a patients needs based on their status or cultural group
+	* Empower patient to take full advantage of healthcare services available
+	* Demonstrate respect, compassion, and competence
+* Partnership
+	* Sensitivity to power gradient between doctor and patient
+* Anaesthetic-specific
+	* Period of vulnerability
+	* Cultural perceptions of pain
+
+
+---
+
+##References
+1. ANZCA. [PS62: Statement on Cultural Competence](http://www.anzca.edu.au/documents/ps62-2016.pdf).

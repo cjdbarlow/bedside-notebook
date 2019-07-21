@@ -99,36 +99,28 @@ Triggers of non-perioperative anaphylaxis:
 
 
 ###Epidemiology of Perioperative Anaphylaxis
+Epidemiology:
 * 56% female
 * Overall less common in paediatrics
 	* May be due to less use of antibiotics and muscle relaxants
 	* More likley to present with bronchospasm
 
 
-* Causes:
-	* ~46% are antibiotic associated  
-	Teicoplanin and amoxycillin-clavulanate have the highest risk.
-	* ~33% are related to neuromuscular blocking drugs
-		* Suxamethonium: ~11/100,000
-		* Rocuronium: 6/100,000
-		* Atracurium: 4/100,000
-	* ~10% chlorhexidine  
-	Typically presents more slowly, unless IV (i.e. chlorhexidine-impregnated CVC) source.
-	* Patent Blue die  
-	Highest risk single therapy at ~15/100,000.
+Causes:
+* ~46% are antibiotic associated  
+Teicoplanin and amoxycillin-clavulanate have the highest risk.
+* ~33% are related to neuromuscular blocking drugs
+	* Suxamethonium: ~11/100,000
+	* Rocuronium: 6/100,000
+	* Atracurium: 4/100,000
+* ~10% chlorhexidine  
+Typically presents more slowly, unless IV (i.e. chlorhexidine-impregnated CVC) source.
+	* Increasing incidence due to increased use
+	* An untested patient with a history of perioperative anaphylaxis should be managed as having chlorhexidine hypersensitivity
+* Patent Blue die  
+Highest risk single therapy at ~15/100,000.
+	* May present with blue urticaria
 
-
-* Onset:
-	* 83% present within 10 minutes
-	* 2% present *after* 60 minutes
-
-
-* Death:  
-More common in patients who are:
-	* Older
-	* Obese
-	* Vasculopaths
-	* β-blocked
 
 ##Pathophysiology
 Anaphylaxis is driven by degranualation of mas cells and basophil graculocytes, causing release of:
@@ -149,6 +141,8 @@ Non-allergic anaphylaxis:
 ##Assessment
 Symptoms and signs of anaphylaxis:
 * Typically occur acutely and progress rapidly
+	* 83% present within 10 minutes
+	* 2% present *after* 60 minutes
 * Relate to involvement of different organ systems
 * Relate to the region of the body affected  
 Typically tissues with high concentrations of mast cells.
@@ -337,3 +331,4 @@ Anaphylaxis can:
 1. Cook T, Harper N. [Anaesthesia, Surgery, and Life-Threatening Allergic Reactions: Report and findings of the Royal College of Anaesthetists' 6th National Audit Project: Perioperative Anaphylaxis](https://niaa.org.uk/NAP6Report#pt). Royal College of Anaesthetists'. 2018.
 2. Ring J, Beyer K, Biedermann T, et al. [Guideline for acute therapy and management of anaphylaxis: S2 Guideline of the German Society for Allergology and Clinical Immunology (DGAKI), the Association of German Allergologists (AeDA), the Society of Pediatric Allergy and Environmental Medicine (GPA), the German Academy of Allergology and Environmental Medicine (DAAU), the German Professional Association of Pediatricians (BVKJ), the Austrian Society for Allergology and Immunology (ÖGAI), the Swiss Society for Allergy and Immunology (SGAI), the German Society of Anaesthesiology and Intensive Care Medicine (DGAI), the German Society of Pharmacology (DGP), the German Society for Psychosomatic Medicine (DGPM), the German Working Group of Anaphylaxis Training and Education (AGATE) and the patient organization German Allergy and Asthma Association (DAAB)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4479483/pdf/40629_2014_Article_9.pdf). Allergo Journal International. 2014;23(3):96-112. doi:10.1007/s40629-014-0009-1.
 3. Kolawole H, Crilly H, Kerridge R, Marshall S, Roessler P. [Australian and New Zealand College of Anaesthetists (ANZCA) and Australian and New Zealand Anaesthetic Allergy Group (ANZAAG) Perioperative Anaphylaxis Management Guidelines: Background Paper](http://www.anzca.edu.au/documents/bp-anaphylaxis-2016.pdf). ANZCA/ANZAAG. 2016.
+2. ANZCA. [PS60: Guidelines on the Perioperative Management of Patients with Suspected or Proven Hypersensitivity to Chlorhexidine](http://www.anzca.edu.au/Documents/ps60-2015-guidelines-on-the-perioperative-manageme.pdf).
