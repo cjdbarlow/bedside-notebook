@@ -1,6 +1,6 @@
 #Abdominal Aortic Aneurysm
 
-Permanent dilatation of **>30mm** of the aorta.
+Permanent dilatation **>30mm** of the aorta.
 
 ##Epidemiology and Risk Factors
 Risk factors include:

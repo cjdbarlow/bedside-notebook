@@ -43,7 +43,7 @@ Use of an autologous artery or vein to bypass a stenosed section of coronary art
 		* Ventricular function  
 		Dysfunction may be unable to wean from bypass.
 			* LVEF < 30%  
-			* Concominant RV dysfunction
+			* Concomitant RV dysfunction
 	* Valvular disease  
 	Particularly AS or MR.
 	* Severe LV or RV dysfunction
