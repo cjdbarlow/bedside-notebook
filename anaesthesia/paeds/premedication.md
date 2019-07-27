@@ -10,7 +10,7 @@ Allaying anxiety is an important part of patient preparation. Strategies include
 * Non-pharmacological
 
 ###Pharmacological
-Premedication is exceedingly helpful. Consider:
+Premedication is helpful in **children who can't use logic**. Consider:
 * Anxiolysis/sedation
 	* Midazolam: 0.5-1 mg/kg PO (up to 15mg)  
 	Onset with 15-30 minutes.

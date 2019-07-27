@@ -3,12 +3,15 @@
 Dramatic physiological changes occur following clamping of the descending aorta:
 * Exact haemodynamic responses vary depending on the level
 	* Supra-coeliac clamping consistently redirects blood flow and has predictable responses
-	* Infra-coeliac clamping is inconsistent
+	* Infra-coeliac clamping is inconsistent, but less dramatic
 
 ##Physiology of Clamping
 Immediate effects:
 * ↑ Afterload
 	* ↑ Systemic BP
+	* May precipitate LV failure
+	* Have a profound afterload-reducing agent available 
+	**GTN**, **SNP**, **nicardipine**.
 * ↑ Preload  
 Due to redistribution in blood volume:
 	* ↓ Venous capacitance distal to clamp  
@@ -40,6 +43,7 @@ Due to combination of:
 	* ↓ UO
 	* Ischaemia-reperfusion injury  
 	Subsequent AKI.
+	* **0.25mg/kg of mannitol** is often given to maintain urine output, without much evidence
 
 
 Long term effects:
@@ -51,8 +55,13 @@ Continues to ↑ with ↑ duration of cross-clamping.
 Immediate effects:
 * ↑ ETCO<sub>2</sub>  
 Due to ischaemic washout.
-* ↓ SVR
-	* ↓ BP
+	* **Minimise washout** by **unclamping each lower limb separately**
+* ↓ SVR  
+Distal circulation is profoundly vasodilated due to ischaemia; release of clamp makes this dilated and relatively volume deplete circulation available.
+	* ↓ BP  
+	May be profound. Give **volume** targeting **slightly elevated filling pressures** prior to release.
+		* **Vasodilators** given **prior to release** allow **extra volume without increasing filling pressures**
+		* If **BP remains low**, then have the surgeon **reapply the clamp**; and give more volume.
 * ↓ Preload  
 Due to:
 	* Central hypovolaemia  

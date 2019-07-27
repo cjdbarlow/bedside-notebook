@@ -8,7 +8,7 @@ Paediatric anaesthesia:
 	* Psychological
 		* Child  
 		* Parents
-* Is more similiar to adult anaesthesia than it is different
+* Is more similar to adult anaesthesia than it is different
 
 
 ##Age-Independent Factors
@@ -37,7 +37,7 @@ Neurological:
 
 ###Allaying Anxiety
 Use of language:
-* Positive lanuage  
+* Positive language  
 Remove words with negative associations, e.g. pain.
 	* "You'll usually wake up pretty comfortable, we'll give you extra medicine to make you more comfortable, and a nurse will be there to give you more medicine to keep you comfortable."
 * Emphasis on safety rather than risk
@@ -106,7 +106,7 @@ Change in inspired gas mixture rapidly alters alveolar (and arterial) gas compos
 	* ↑ Risk of shunt
 	* Rapid desaturation 
 * Immature respiratory centres
-	* Periodic breathign with apnoeas in neonates
+	* Periodic breathing with apnoeas in neonates
 	* Sub-anaesthetic drug concentrations still affect respiration
 * Anatomically inefficient alignment of thoracic bones, and weak respiratory musculature
 	* Less efficient ventilation  
@@ -114,7 +114,7 @@ Change in inspired gas mixture rapidly alters alveolar (and arterial) gas compos
 	* ↓ Respiratory reserve
 	* Earlier onset of respiratory failure due to fatigue
 	* ↑ Chest wall compliance  
-	Early apperance of intercostal and sternal recession when work of breathing is ↑.
+	Early appearance of intercostal and sternal recession when work of breathing is ↑.
 * ↓ Number of thick-walled alveoli  
 May only be 10% of adult total.
 

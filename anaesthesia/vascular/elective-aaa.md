@@ -27,6 +27,8 @@ High risk of perioperative morbidity and mortality.	Discuss:
 	* Co-existing CVS disease
 		* 40% of patients will have coexisting disease
 		* Particularly cardiac function and presence of inducible ischaemia
+		* Prevent and control SNS stimulation
+		* Defend coronary perfusion pressure
 	* Invasive monitoring
 		* Arterial line pre-induction
 		* CVC can be placed post-induction
@@ -41,6 +43,8 @@ High risk of perioperative morbidity and mortality.	Discuss:
 * D
 	* Analgesic plan  
 	Consider thoracic epidural.
+	* Spinal cord ischaemia and [spine protection](/anaesthesia/vascular/spine-protection)  
+	Thoraco-lumbar portion of the anterior spinal artery receives the majority of its blood supply from the intercostal arteries and the artery of Adamkiewicz, and may be impaired during cross-clamping.
 * E
 	* Warming devices
 		* Upper body warmer  

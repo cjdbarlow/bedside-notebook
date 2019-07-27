@@ -19,7 +19,7 @@ Oxygen can be delivered by:
 	* Control of airway pressures
 	* Control of respiratory timing
 * Remember the hierarchy of intubation needs  
-<img src="/resources/hierarchy-of-em-intubation-needs.jpg")
+<img src="/resources/hierarchy-of-em-intubation-needs.jpg">
 
 
 ##Epidemiology of Airway Complications
@@ -216,6 +216,7 @@ Double check the availability of backup equipment, including FONA equipment.
 	* Detail airway plan A, B, etc
 	* Declare at what points the airway management strategy will change  
 	e.g. "If the SpO<sub>2</sub> falls to less than 93%, I will cease intubation attempts and return to BVM. If unable to mask ventilate, I will place an LMA."
+	
 
 ---
 
