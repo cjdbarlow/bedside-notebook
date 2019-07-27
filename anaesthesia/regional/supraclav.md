@@ -18,6 +18,8 @@ Relative:
 * Reduced respiratory reserve
 
 ##Anatomy
+{% include "/stubs/ul-neuro.md" %}
+
 ##Equipment
 * 50-100mm 22-24G needle
 * Local anaesthetic  
@@ -34,7 +36,7 @@ Relative:
 * Place probe parasagitally in supraclavicular fossa
 * **Identify brachial plexus**  
 	* Superoanterior to SCA  
-	Pleura and 1st rib should be identifible deep to SCA.
+	Pleura and 1st rib should be identifiable deep to SCA.
 	* Between scalenus anterior and scalenus medius
 	* Deep to omohyoid
 * Note presence of dorsal scapular artery superficial to brachial plexus

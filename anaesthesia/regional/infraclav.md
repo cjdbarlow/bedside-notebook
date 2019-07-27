@@ -12,6 +12,8 @@ Alternative to supraclavicular block, which:
 * Contralateral pneumonectomy
 
 ##Anatomy
+{% include "/stubs/ul-neuro.md" %}
+
 ##Equipment
 * 100mm needle
 * Local anaesthetic  

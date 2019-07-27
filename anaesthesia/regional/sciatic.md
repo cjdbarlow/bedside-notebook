@@ -20,28 +20,7 @@ Can be used:
 	* Local infection
 
 ##Anatomy
-Innervation of the lower extremities occurs via the **lumbosacral plexus**, which divides into:
-* **Sciatic nerve**  
-Formed from L4-S3, and divides into the tibial nerve and common peroneal nerve at a variable location in the thigh. Provides:
-	* Motor supply to all muscles in:
-		* Posterior compartment of thigh
-	* Sensory supply to:	
-		* Posterior thigh  
-		Not blocked by anterior or posterior approaches to the sciatic nerve.
-		* Lower leg not covered by saphenous nerve
-* Lumbar plexus  
-In turn dividing into:
-	* **Femoral nerve**  
-	Largest branch of the lumbar plexus formed from L2-4, providing:
-		* Motor supply to knee extensors
-		* Sensory supply to anteriomedial thigh and, via the **saphenous nerve**, medial lower leg, ankle, and foot
-	* **Obturator nerve**  
-	Formed from L2-4, and enters thigh through obturator foramen. Provides:
-		* Motor supply to hip adductors
-		* Sensory supply to a variable aspect of the medial thigh/knee
-	* **Lateral femoral cutaneous nerve**  
-	Formed from L2-3, and runs on vental surface of iliacus, beneath fascia iliaca. Provides:
-		* Sensory supply to lateral aspect of thigh and knee
+{% include "/stubs/ll-neuro.md" %}
 
 
 ##Equipment

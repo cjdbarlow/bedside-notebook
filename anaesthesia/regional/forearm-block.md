@@ -9,6 +9,8 @@
 
 ##Contraindications
 ##Anatomy
+{% include "/stubs/ul-neuro.md" %}
+
 ##Equipment
 * Local anaesthetic
 	* 1% lignocaine

@@ -4,7 +4,7 @@
 Analgesia and anaesthesia for:
 * Shoulder surgery  
 	* Particularly open surgery  
-	Arthroplasy, arthroscopy, rotator cuff repair, subacromial decompression.
+	Arthroplasty, arthroscopy, rotator cuff repair, subacromial decompression.
 	* Mobilisation  
 	Frozen shoulder.
 * Proximal humerus surgery
@@ -21,22 +21,7 @@ Relative:
 * Reduced respiratory reserve
 
 ##Anatomy
-Innervation of the shoulder:
-* **Bulk of innervation** comes from the **C5-6** trunks  
-Injecting at this level facilitates reduced LA doses and side-effects.
-* Suprascapular nerve  
-From C5/6 roots, upper trunk.
-* Axillary nerve  
-From C5/6 roots, branch of the posterior cord.
-* Supraclavicular nerve  
-From cervical plexus.
-
-
-Landmarks:
-* Lateral border of SCM
-* Scalenus anterior
-* Interscalene groove
-
+{% include "/stubs/ul-neuro.md" %}
 
 ##Equipment
 * 22G 4cm needle

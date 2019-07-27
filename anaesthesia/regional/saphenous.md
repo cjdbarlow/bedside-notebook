@@ -16,12 +16,7 @@ Anaesthesia for lower leg in combination with sciatic nerve block.
 	* Local infection
 
 ##Anatomy
-The saphenous nerve:
-* Lies in the adductor canal, close to the femoral artery and vein  
-Deep to sartorius and superficial to vastus medialis.
-* Typically not visible on ultrasound  
-May be seen as a small, round, hyperechoic structure medial to the artery.
-* Typically 2-3cm deep
+{% include "/stubs/ll-neuro.md" %}
 
 ##Equipment
 * Standard nerve block tray

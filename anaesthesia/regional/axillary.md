@@ -11,6 +11,8 @@
 
 ##Contraindications
 ##Anatomy
+{% include "/stubs/ul-neuro.md" %}
+
 ##Equipment
 * 50-100mm 21G needle
 * Local anaesthetic  
