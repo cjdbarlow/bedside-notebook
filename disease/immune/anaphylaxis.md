@@ -28,21 +28,13 @@ Immediate management follows a DRSABCD approach:
 	* Gain wide-bore IV access
 	* Commence rapid infusion of warm IV fluids
 	* Give **adrenaline**
-		* If no IV access or haemodynamic monitoring  
-		500ug IM Q5 minutes.
-		* If IV access:
-			* Grade 2  
-				* Adults: 20ug bolus Q1-2 minutes as starting dose, titrated to effect
-				* Paeds: 2ug/kg bolus  
-				Draw up an arrest dose (10ug/kg) in a 10ml syringe with saline, for a total volume of 10ml. This gives 1ug/kg/ml.
-			* Grade 3 (Life threatening)  
-				* Adults: 100-200ug bolus Q1-2 minutes as starting dose, titrated to effect.
-				* PAaeds: 4-10ug/kg bolus
+		* IM if no IV access or haemodynamic monitoring  
+		Can consider IM dosing to provide a pseudo-infusion whilst establishing infusion.
+		* Otherwise IV
 		* If >3 IV boluses required, commence infusion:  
 		Peripheral infusion is acceptable in the short term prior to establishing CVC access.
-			* Begin at 3ug/min
-			* Titrate up to 40ug/min
-	* Consider **arterial line insertion**
+	* **Arterial line insertion**  
+	Monitoring, titration, and blood sampling for tryptase.
 	* Consider **central line insertion**  
 	If ongoing vasopressor requirement.
 * Disability
@@ -78,7 +70,7 @@ Monitoring and followup:
 * **Resistant hypotension**
 	* Additional IV fluid
 	* Vasopressor
-		* Noradrenaline or vasopressin rpreferred
+		* Noradrenaline or vasopressin preferred
 	* Glucagon  
 	In the setting of β-blockade.
 		* 1-2mg IV Q5 min until CVS response is noted.
@@ -103,7 +95,7 @@ Epidemiology:
 * 56% female
 * Overall less common in paediatrics
 	* May be due to less use of antibiotics and muscle relaxants
-	* More likley to present with bronchospasm
+	* More likely to present with bronchospasm
 
 
 Causes:
@@ -139,6 +131,9 @@ Non-allergic anaphylaxis:
 
 
 ##Assessment
+> * Unanticipated hypotension or tachycardia should raise suspicion
+> * Absence of skin signs does not rule out the diagnosis
+
 Symptoms and signs of anaphylaxis:
 * Typically occur acutely and progress rapidly
 	* 83% present within 10 minutes
@@ -305,6 +300,7 @@ Principles of management include:
 				* May be repeated every 1-2 minutes, as required
 		* **Glucagon**  
 		Recommended in patients on β-blockers.
+			* 1-2mg IV Q5M
 	* E
 		* Position supine
 		* Consider leg elevation
@@ -313,12 +309,26 @@ Principles of management include:
 	* Colloids
 	* Chlorhexidine  
 	Remove chlorhexidine-impregnated CVC, IDC, and lubricants.
+	* Latex
 
 
-###Intraoperative Dosing  
+###Intraoperative Adrenaline Dosing  
 Management reflects the nature of operative anaphylaxis, namely:
 * High frequency of sudden onset, severe symptoms
 * Presence of an anaesthetist
+
+IV bolus dose adrenaline:
+
+|Situation|Adults|Paediatrics|
+|--|--|
+|IM bolus (Q5M)|500μg|- 150μg in ⩽6 <br>- 300μg in 6-12
+|IV bolus in Moderate/Grade II|20μg|2μg/kg
+|IV bolus in life threatening/Grade III|100-200μg|4-10μg/kg
+|IV bolus in cardiac Arrest/Grade IV|1mg|10μg/kg
+|Starting infusion rate|3μg/min|0.1μg/kg/min
+|Maximum infusion rate|40μg/min|2μg/kg/min
+
+
 
 ###Refractory Management
 Anaphylaxis refractory to maximal management occurs in patients
@@ -331,6 +341,11 @@ For hypotension, consider:
 * ECMO/CPB to establish adequate perfusion
 * Alternative vasopressors
 	* Vasopressin
+		* Adults: 1-2 unit bolus, then 2 units/hr
+		* Paediatrics: 0.04 units/kg bolus, then 0.02-0.06 units/kg/hr
+	* Noradrenaline
+		* Adults: 3-40μg/min
+		* Paediatrics: 0.1-0.2μg/kg/min
 	* Metaraminol
 	* Phenylephrine
 
@@ -338,24 +353,28 @@ For bronchospasm, consider:
 * Excluding:
 	* Pneumothorax
 	* Airway device malfunction
-* Bronchoodilators
-	* 1200μg salbutamol via MDI
-	* IV salbutamol
+* Bronchodilators
+	* Salbutamol
+		* 1200μg (12 puffs) via MDI
+		* 100-200μg IV, +/- infusion at 5-25μg/min
 
 
 ###Post-Crisis Management
 Measure tryptase:
-* At 0, 1, and 24 hours
+* At 0-1, 4, and 24 hours
 * Acute elevation supports anaphylaxis diagnosis
 	* Peak level usually within 15-120 minutes
 	* Declines over 3-6 hours
 * Baseline level can be measured at 24 hours
+* Requires refrigeration if ⩾1 hour to laboratory
 
 Consider:
 * Steroids  
 No evidence that use of corticosteroids affects outcome.
 	* May be reasonable as part of secondary management in a stable patient
 	* May have a role in reducing rebound
+	* Dexamethasone 0.1-0.4mg/kg, up to 12mg
+	* Hydrocortisone 2-4mg/kg, up to 200mg
 * Antihistamines  
 	* No role in acute phase
 	* May be used for symptomatic management of urticaria, angioedema, and pruritus  
