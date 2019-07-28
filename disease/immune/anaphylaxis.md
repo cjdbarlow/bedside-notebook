@@ -1,8 +1,8 @@
 #Anaphylaxis
 
-*This covers both perioperative and non-perioperative anaphylaxis. Treatment recommendations for perioperative anaphylaxis are detailed separately, due to the nature of the disease (typically of more rapid onset and aggressive progression), and the immediate availability of resuscitation equipment and personell.*
+*This covers both perioperative and non-perioperative anaphylaxis. Treatment recommendations for perioperative anaphylaxis are detailed separately, due to the nature of the disease (typically of more rapid onset and aggressive progression), and the immediate availability of resuscitation equipment and personnel.*
 
-Anaphylaxis is a potentially life-threatening emergency. It is an IgE mediated, immediate (type I) and systemic hypersensitivity reaction, characterised by a triad of:
+Anaphylaxis is a potentially **life-threatening emergency**. It is an IgE mediated, immediate (type I) and systemic hypersensitivity reaction, characterised by a triad of:
 * Hypotension
 * Bronchospasm
 * Rash
@@ -108,7 +108,7 @@ Epidemiology:
 
 Causes:
 * ~46% are antibiotic associated  
-Teicoplanin and amoxycillin-clavulanate have the highest risk.
+Teicoplanin and amoxacillin-clavulanate have the highest risk.
 * ~33% are related to neuromuscular blocking drugs
 	* Suxamethonium: ~11/100,000
 	* Rocuronium: 6/100,000
@@ -123,7 +123,7 @@ Highest risk single therapy at ~15/100,000.
 
 
 ##Pathophysiology
-Anaphylaxis is driven by degranualation of mas cells and basophil graculocytes, causing release of:
+Anaphylaxis is driven by degranulation of mas cells and basophil granulocytes, causing release of:
 * Histamine
 * Prostaglandins
 * Leukotrienes
@@ -147,7 +147,7 @@ Symptoms and signs of anaphylaxis:
 * Relate to the region of the body affected  
 Typically tissues with high concentrations of mast cells.
 	* Skin  
-	Skin signs are uncommon in severe anaphylaxis due to lack of perusion.
+	Skin signs are uncommon in severe anaphylaxis due to lack of perfusion.
 		* Urticaria
 		* Erythema
 		* Angioedema
@@ -157,7 +157,7 @@ Typically tissues with high concentrations of mast cells.
 		Leading symptom in life-threatening reactions.
 			* Present in 50%
 			* First symptom in ~20%
-		* Capnographic changes will be evident in ~30%
+		* Capnograph changes will be evident in ~30%
 	* GIT
 		* Nausea
 		* Vomiting
@@ -175,7 +175,7 @@ Typically tissues with high concentrations of mast cells.
 Prodromal symptoms:
 * Itching
 * Metallic taste
-* Fearfullness
+* Fearfulness
 * Headache
 * Disorientation
 
@@ -207,7 +207,7 @@ Anaphylaxis is classified into four grades, based on severity:
 		* Hypotension  
 		Perioperatively, consider **hypotension out of proportion to what would be expected** by the drugs given or the operative stage.
 		* Mucocutaneous signs  
-		Typically allows differentition from isolated bronchospasm or other causes of hypotension.
+		Typically allows differentiation from isolated bronchospasm or other causes of hypotension.
 * **Grade 3 (Life-threatening)**
 	* Life threatening
 		* Hypotension
@@ -229,7 +229,7 @@ Differential diagnoses include:
 	* Airway foreign body
 	* Laryngotracheitis
 	* Tension pneumothorax
-	* Acid aspiartion
+	* Acid aspiration
 	* Dislodged, kinked, or obstructed airway device
 * CVS
 	* Cardiogenic shock
@@ -238,10 +238,10 @@ Differential diagnoses include:
 * Endocrinological
 	* Carcinoid syndrome
 	* Pheochromocytoma
-	* Thryotoxic crisis
+	* Thyrotoxic crisis
 	* Hypoglycaemia
 * Skin diseases
-	* Urticardia
+	* Urticaria
 	* Hereditary/acquired angioedema
 * Toxins
 	* Ethanol
@@ -260,54 +260,115 @@ Serum tryptase:
 
 ##Management
 Principles of management include:
-* IV fluid  
-	* Volume resucitation  
-	Reverses haemoconcentration due to interstitial oedema.
-	* Can consider colloid, provided colloid was not given prior to onset of anaphylaxis
-* Adrenaline
-	* Key therapy
-		* Prevents further mast cell degranulation
-		* Bronchodilator
-		* Vasoconstrictor
-	* Doses may vary depend on patient factors
-		* Increased risk of CVS compromise with overdose
-			* Extremes of age
-			* Hypertension
-			* Ischaemic heart disease
-			* Hyperthyroidism
-		* Catecholamine resistance
-			* β-blockade
-			* ACE-I use
-		* Catecholamine sensitivity
-			* Amphetamines
-			* Cocaine
-	* Intramuscular
-		* Appropriate when IV access is unavailable
-		* Reduces chance of severe CVS side effects
-		* Provides 'depot' for continued release  
-		Up to 40 minutes.
-	* Intravenous
-		* Appropriate in severe anaphylaxis
-* Glucagon
-	* Recommended in patients on β-blockers
+* Human factors
+	* Team leader  
+	Usually most senior person present.
+	* Card reader  
+	Call out required actions of immediate management cards, and to communicate with the team leader.
+	* Giver of adrenaline
+* An ABC approach:
+	* A
+		* Check and secure airway
+			* Prompt administration of adrenaline may avoid the need to secure the airway
+			* If airway oedema is present, then consider early endotracheal intubation
+	* B
+	* C
+		* Secure IV access
+		* **IV fluid**  
+			* Volume resuscitation  
+			Reverses haemoconcentration due to interstitial oedema.
+			* Can consider colloid, provided colloid was not given prior to onset of anaphylaxis
+		* **Adrenaline**
+			* Key therapy
+				* Prevents further mast cell degranulation
+				* Bronchodilator
+				* Vasoconstrictor
+			* Doses may vary depend on patient factors
+				* Increased risk of CVS compromise with overdose
+					* Extremes of age
+					* Hypertension
+					* Ischaemic heart disease
+					* Hyperthyroidism
+				* Catecholamine resistance
+					* β-blockade
+					* ACE-I use
+				* Catecholamine sensitivity
+					* Amphetamines
+					* Cocaine
+			* Intramuscular
+				* Appropriate when IV access is unavailable
+				* Reduces chance of severe CVS side effects
+				* Provides 'depot' for continued release  
+				Up to 40 minutes.
+			* Intravenous
+				* Appropriate in severe anaphylaxis
+				* May be repeated every 1-2 minutes, as required
+		* **Glucagon**  
+		Recommended in patients on β-blockers.
+	* E
+		* Position supine
+		* Consider leg elevation
+* Cease administration of triggers
+	* Drug infusions
+	* Colloids
+	* Chlorhexidine  
+	Remove chlorhexidine-impregnated CVC, IDC, and lubricants.
 
+
+###Intraoperative Dosing  
+Management reflects the nature of operative anaphylaxis, namely:
+* High frequency of sudden onset, severe symptoms
+* Presence of an anaesthetist
+
+###Refractory Management
+Anaphylaxis refractory to maximal management occurs in patients
+* On β-blockers
+* On ACE-Is
+* With spinal blockade
+
+For hypotension, consider:
+* TOE or TTE to guide resuscitation
+* ECMO/CPB to establish adequate perfusion
+* Alternative vasopressors
+	* Vasopressin
+	* Metaraminol
+	* Phenylephrine
+
+For bronchospasm, consider:
+* Excluding:
+	* Pneumothorax
+	* Airway device malfunction
+* Bronchoodilators
+	* 1200μg salbutamol via MDI
+	* IV salbutamol
+
+
+###Post-Crisis Management
+Measure tryptase:
+* At 0, 1, and 24 hours
+* Acute elevation supports anaphylaxis diagnosis
+	* Peak level usually within 15-120 minutes
+	* Declines over 3-6 hours
+* Baseline level can be measured at 24 hours
+
+Consider:
+* Steroids  
+No evidence that use of corticosteroids affects outcome.
+	* May be reasonable as part of secondary management in a stable patient
+	* May have a role in reducing rebound
+* Antihistamines  
+	* No role in acute phase
+	* May be used for symptomatic management of urticaria, angioedema, and pruritus  
+	Appropriate in mild anaphylaxis.
+	* No effect on hypotension and bronchospasm
+	* Oral agents have a preferred side-effect profile compared to IV
 
 
 ###Ineffective Therapies
 * Sugammadex  
 Has no role in the management of rocuronium anaphylaxis.
 
-* Steroids  
-No evidence that use of corticosteroids affects outcome.
-	* May be reasonable as part of secondary management in a stable patient
-	* May have a role in reducing rebound
 
-* Antihistamines  
-	* No role in acute phase
-	* May be used for symptomatic management of urticardia, angioedema, and pruritis  
-	Appropriate in mild anaphylaxis.
-	* No effect on hypotension and bronchospasm
-	* Oral agents have a preferred side-effect profile compared to IV
 
 
 ##Complications

@@ -15,7 +15,7 @@ Prior to performing a regional block:
 Requires:
 	* Patient identification
 	* Checking of the surgical consent
-	* Identificaiton of a surgical site mark
+	* Identification of a surgical site mark
 	* Discussion with the patient if possible
 	* Placement of a mark close enough to the block site to be visible whilst performing the block
 	* **Pausing *just*** prior to needle insertion to:
@@ -40,7 +40,7 @@ Can use:
 * **Tips for optimising success**:
 	* Place digital pressure on the needle insertion site  
 	Allows insertion site to be used as a fulcrum and torque the needle to drastically change direction after having penetrated a muscle plane.
-	* Penetrate fascial planes away from nerves/vesseels, then slide up within that plane
+	* Penetrate fascial planes away from nerves/vessels, then slide up within that plane
 	* Injection inside the nerve *sheath* causes a rapid onset of surgical anaesthesia, but increases the risk of nerve injury
 
 ###Stimulator
@@ -75,7 +75,7 @@ Ensure catheter position does not change.
 * Inject remainder of loading dose into catheter
 
 Postoperative management:
-* Unambiguous labelling of the giving set
+* Unambiguous labeling of the giving set
 	* Tubing colour should be unique to regional analgesia infusions
 	* Infusion pumps should be unique to regional analgesia
 * Regular monitoring of physiological parameters and pain
@@ -122,13 +122,13 @@ Troubleshooting:
 	May lead to compression and secondary injury.
 	* Techniques to avoid vascular injury:
 		* Identify vessels prior to injection
-		* Choose a needle path that minmises peri-vascular approach
+		* Choose a needle path that minimises peri-vascular approach
 		* Compress veins during needle passage (after they have been identified)
 	* **Management of anticoagulants**  
 	Peripheral nerve blocks are low risk for serious bleeding. *In general* (and **in absence of other risk factors**; such as age, renal/hepatic disease, history of major bleeding):
 		* Aspirin and NSAIDs do not need to be discontinued  
 		* P2Y12 inhibits do not need to be discontinued  
-		Includes clopidogrel, ticagreular, prasugrel.
+		Includes clopidogrel, ticagrelor, prasugrel.
 		* Warfarin may safely be continued if INR < 3.0  
 		Cessation should be discussed with treating team.
 		* UFH should be ceased at least 4 hours before the procedure, and restarted 2 hours after
@@ -143,7 +143,7 @@ Troubleshooting:
 	* Not reduced with ultrasound guidance
 	* Deficits:
 		* Predominantly sensory  
-		Paraethesias.
+		Paraesthesias.
 		* Typically resolve in less than a month:
 			* 92% resolve in 1 month
 			* 96% in 3 months

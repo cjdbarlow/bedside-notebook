@@ -14,7 +14,7 @@ Principles of PACU:
 	* Two-to-one ratio is usually needed during reception
 		* Second person may be the anaesthetist or operating room nurse
 * With respect to airway devices:
-	* Intubated patients must be monitored by the anaesthestist
+	* Intubated patients must be monitored by the anaesthetist
 	* Patients with a SAD must be breathing spontaneously  
 	* The anaesthetist cannot leave a facility whilst a SAD is still in situ for their patient
 * Must be resourced to:
@@ -29,7 +29,7 @@ Principles of PACU:
 * Part of the operating theatre or procedural suite
 * Have easy access from the operating theatres
 * Have routes for rapid evacuation if required
-* Have enough bed spaces to accomodate expected peak loads
+* Have enough bed spaces to accommodate expected peak loads
 * Adequate space for the patients bed, equipment, and personnel:
 	* A **minimum of 9m<sup>2</sup>** for each patient
 	* Up to **20m<sup>2</sup>** for higher-acuity patients
@@ -63,7 +63,7 @@ Including:
 * Intravenous fluids
 * Thermometer
 * BSL and ketone testing
-* Stethescope
+* Stethoscope
 * Defibrillator
 * Handwashing basin
 * Routine for checking equipment
@@ -93,7 +93,7 @@ Each bed space must have:
 Each bed should:
 * Have a firm base and mattress allowing effective CPR
 * Tilt both head-up and head-down at least 15°
-* Be easy to moove
+* Be easy to move
 * Have efficient and accessible brakes
 * Have secure side rails which must be able to be dropped below the base or be easily removed
 * Have provision for maintaining IV infusions

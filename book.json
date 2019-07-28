@@ -11,7 +11,8 @@
         "wide",
         "ungrey",
         "expandable-chapters-small",
-        "git-author"
+        "git-author",
+        "intopic-toc"
     ],
     "pluginsConfig": {
           "git-author": {
@@ -22,6 +23,9 @@
           },
           "layout": {
             "footerPath" : "resources/footer.html"
+          },
+          "intopic-toc": {
+            "label" : "Contents"
           }
     }
 }

@@ -3,9 +3,9 @@
 *This section is aimed at the ANZCA Final Exam candidate, and provides an index of where relevant [ANZCA Professional Documents](http://www.anzca.edu.au/resources/professional-documents) are covered.*
 
 ANZCA Professional Documents:
-* [PS02: Credentialling and Scope of Practice](http://www.anzca.edu.au/Documents/ps02-2006-statement-on-credentialling-and-defining.pdf).  
+* [PS02: Credentialing and Scope of Practice](http://www.anzca.edu.au/Documents/ps02-2006-statement-on-credentialling-and-defining.pdf).  
 Covered under:
-	* [Credentialling and Scope of Practice](/anaesthesia/anzca/credentialling.md)
+	* [Credentialing and Scope of Practice](/anaesthesia/anzca/credentialling.md)
 * [PS03: Guidelines for the Management of Major Regional Analgesia](http://www.anzca.edu.au/Documents/ps03-2014-guidelines-for-the-management-of-major-r.pdf).  
 Covered under:
 	* [Principles of Regional Anaesthesia](/anaesthesia/regional/principles.md)
@@ -19,7 +19,7 @@ Covered under:
 	* [The Anaesthetic Record](/anaesthesia/anzca/record.md)
 * [PS07: Guidelines on Pre-Anaesthesia Consultation and Patient Preparation](http://www.anzca.edu.au/documents/ps07-2008-recommendations-for-the-pre-anaesthesia.pdf)  
 Covered under:
- 	* [Preanaesthetic Consultation](/anaesthesia/anzca/pre-anaesthetic.md) covers the ANZCA guideline
+ 	* [Pre-anaesthetic Consultation](/anaesthesia/anzca/pre-anaesthetic.md) covers the ANZCA guideline
  	* [Performance of the assessment](/assessment/anaesthetic/pre-anaesthetic.md) is covered elsewhere
 * [PS08: Statement on the Assistant for the Anaesthetist ](http://www.anzca.edu.au/documents/ps08-2015-statement-on-the-assistant-for-the-anaes.pdf)  
 Covered under:

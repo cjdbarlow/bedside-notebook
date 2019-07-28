@@ -1,7 +1,7 @@
-#Credentialling and Defining the Scope of Clinical Practice in Anaesthesia
+#Credentialing and Defining the Scope of Clinical Practice in Anaesthesia
 
-Credentialling:
-* Allows registered medical practictioners to provide clinical services
+Credentialing:
+* Allows registered medical practitioners to provide clinical services
 * Is required regularly by medical regulators
 * Must be:
 	* Fair
@@ -19,4 +19,4 @@ Scope of Practice:
 
 ---
 ##References
-1. ANZCA. [PS02: Statement on Credentialling and Defining the Scope of Clinical Practice in Anaesthesia](http://www.anzca.edu.au/Documents/ps02-2006-statement-on-credentialling-and-defining.pdf).
+1. ANZCA. [PS02: Statement on Credentialing and Defining the Scope of Clinical Practice in Anaesthesia](http://www.anzca.edu.au/Documents/ps02-2006-statement-on-credentialling-and-defining.pdf).
