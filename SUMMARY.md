@@ -28,9 +28,9 @@
 	* [Major Incident](/assessment/env/major.md)
 
 ## Management
-* [Cardiac Arrest](/management/cvs/neo.md#id)
-	* [Neonatal Resuscitation](/management/cvs/neo.md)
-	* [Post-Cardiac Surgery](/management/cvs/post-cthr.md)
+* [Cardiac Arrest](/management/cvs/neo-arrest.md#id)
+	* [Neonatal Resuscitation](/management/cvs/neo-arrest.md)
+	* [Post-Cardiac Surgery](/management/cvs/post-cthr-arrest.md)
 	* [OOHCA](/management/cvs/oohca.md)
 
 ---
@@ -51,6 +51,11 @@
 * [Breathing](/management/resp/olv.md#id)
 	* [Mechanical Ventilation](/management/resp/olv.md#id)
     	* [One-Lung Ventilation](/management/resp/olv.md)
+* [Cardiovascular](/management/cvs/left-right-shunt.md#id)
+	* [Congenital](/management/cvs/left-right-shunt.md#id)
+		* [Left-to-Right Shunts](/management/cvs/left-right-shunt.md)
+		* [Right-to-Left Shunts](/management/cvs/right-left-shunt.md)
+		* [Fontan Circulation](/management/cvs/fontan.md)
 * [Disability](/management/cns/seizure.md#id)
 	* [Seizure](/management/cns/seizure.md)
 	* [Acute Spinal Cord Injury](/management/cns/acute-spine.md)
@@ -178,6 +183,7 @@
 	* [Premedication](/anaesthesia/paeds/premedication.md)
 	* [Analgesia](/anaesthesia/paeds/analgesia.md)
 	* [Neurotoxicity](/anaesthesia/paeds/neurotoxicity.md)
+	* [Univentricular Pathway](/anaesthesia/paeds/univent.md)
 	* [Pyloromyotomy](/anaesthesia/paeds/pyloric.md)
 * [Thoracic](/anaesthesia/cthr/vats.md#id)
 	* [VATS](/anaesthesia/cthr/vats.md#id)

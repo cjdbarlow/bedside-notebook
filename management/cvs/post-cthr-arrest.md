@@ -7,7 +7,7 @@ This section covers the algorithmic management of cardiac arrest in an adult pat
 	* Invasively monitored
 
 ##Protocol
-This algorithim assumes that the patient has ECG and invasive arterial monitoring:
+This algorithm assumes that the patient has ECG and invasive arterial monitoring:
 * **Recognition**  
 Arrest is consisent with:
 	* Loss of central pulse
@@ -26,7 +26,7 @@ Arrest is consisent with:
 		* Amiodarone  
 		300mg. Further loading of 150mg followed by infusion may be given for refractory VT/VF.
 		* Prepare for emergency resternotomy
-	* **Aystole/Severe bradycardia**
+	* **Asystole/Severe bradycardia**
 		* Pace  
 		In DDD or DOO at 100bpm and at maximal amplitude.  
 		* Start BLS  
