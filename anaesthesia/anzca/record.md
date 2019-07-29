@@ -18,7 +18,7 @@ The anaesthetic record:
 	* Pre-anaesthetic consult
 		* Medical status
 		* Medication therapy
-		* Anaesthetic ans urgical history
+		* Anaesthetic an surgical history
 		* Airway assessment
 		* Relevant investigations
 		* Premedications

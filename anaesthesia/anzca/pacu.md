@@ -6,35 +6,36 @@ Principles of PACU:
 	* If patients are transferred to PACU from elsewhere, they must be monitored as per [guidelines for transport of the critically ill patient](/intensive-care/transport.md).
 * Recovery staff should be trained for their role, have appropriate supervision, and have appropriate paediatric experience (if required)
 * With respect to nursing ratios:
-	* All patients must be monitored one-to-one until the patient:
+	* All **patients must be monitored one-to-one** until the patient:
 		* Controls their own airway
 		* Has stable observations within acceptable limits
 		* Can communicate purposefully
 		* Is awake
-	* Two-to-one ratio is usually needed during reception
+	* **Two-to-one** ratio is usually needed **during reception**
 		* Second person may be the anaesthetist or operating room nurse
 * With respect to airway devices:
-	* Intubated patients must be monitored by the anaesthetist
+	* **Intubated** patients must be **monitored** by the **anaesthetist**
 	* Patients with a SAD must be breathing spontaneously  
-	* The anaesthetist cannot leave a facility whilst a SAD is still in situ for their patient
+	* The **anaesthetist cannot leave a facility** whilst a **SAD** is still **in situ** for their patient
 * Must be resourced to:
 	* Manage common and expected outcomes of the given procedure
 	* Cover the spectrum of patients managed in that facility
 	* Manage airway, respiratory, and cardiovascular complications
 	* Treat both common and life-threatening post-anaesthetic events  
 	e.g. PONV, pain, anaphylaxis.
-* Must have an emergency call system to summon assistance from appropriate areas within the facility
+* Must have an **emergency call system** to summon assistance from appropriate areas within the facility
 
 ##Design Features
 * Part of the operating theatre or procedural suite
 * Have easy access from the operating theatres
+* Accessible without passing through OR
 * Have routes for rapid evacuation if required
 * Have enough bed spaces to accommodate expected peak loads
 * Adequate space for the patients bed, equipment, and personnel:
 	* A **minimum of 9m<sup>2</sup>** for each patient
 	* Up to **20m<sup>2</sup>** for higher-acuity patients
 * Staff should be able to view all patients at once  
-'Line-of-sight nursing care'.
+**'Line-of-sight nursing care'**.
 * Separate area for paediatric patients, if the facility deals with both adult and paediatric patients
 * Each bed space must have:
 	* An oxygen outlet
@@ -44,6 +45,9 @@ Principles of PACU:
 	* Emergency lighting
 	* Facilities for mounting equipment
 	* Facilities for charting/accessing electronic records
+* A clock
+* Emergency power supply
+* Access for portable x-ray
 
 ##Equipment Requirements
 Within all PACU there must be:

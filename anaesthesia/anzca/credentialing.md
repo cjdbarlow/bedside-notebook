@@ -6,11 +6,15 @@ Credentialing:
 * Must be:
 	* Fair
 	* Transparent
+	* Prospective
+	* Approved for a specific time frame
 	* Legally robust
 	* Consistent
 * Should be:
 	* Unique to the institution
 	* Performed by each institution where a practitioner works
+	* Documented
+	* Able to include performance review
 	
 
 Scope of Practice:

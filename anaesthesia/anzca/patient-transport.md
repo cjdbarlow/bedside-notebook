@@ -2,11 +2,24 @@
 
 Transport may involve
 * Primary retrieval  
-Retrieval from scene of injury to a hospital.
+Retrieval from scene of injury to a hospital. Requires:
+	* Adequate training
+		* Scene organisation and safety
+		* Mass casualty
+		* Chemical, biological, radiological incidents
+	* Adequate PPE
+	* Adequate fitness
 * Secondary retrieval  
-Interhospital transport.
+Interhospital transport. Requires:
+	* Sufficient staff  
+	To cover rest, if required.
+	* Consideration of transporting expert assistance to the patient
 * Intra-hospital transport  
-Transport of a critically ill patient within the hospital.
+Transport of a critically ill patient within the hospital. Requires:
+	* Appropriate nurse
+	* Orderly
+	* Medical practitioner  
+	With appropriate skills.
 
 ##Modes of Transport
 Choice of transportation vehicle will depend on:
@@ -26,7 +39,7 @@ Choice of transportation vehicle will depend on:
 	* Time taken to transport
 	* Range and speed of vehicle
 	* Weather and road conditions
-	* Staffing traning on transport platform
+	* Staffing training on transport platform
 * Conditions at the referring and receiving centre
 	* Location
 	* Distance
@@ -49,10 +62,10 @@ Other effects:
 * Temperature changes
 * Humidity changes
 * Acceleration, deceleration, turbulence
-* Electromagmetic interference
+* Electromagnetic interference
 * Motion sickness
 
-##Prerequesites
+##Prerequisites
 * Secure airway
 * IV access
 * Secure catheters

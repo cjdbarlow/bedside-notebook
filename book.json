@@ -8,7 +8,6 @@
 
     "plugins": [
         "mathjax",
-        "wide",
         "ungrey",
         "expandable-chapters-small",
         "git-author",
@@ -24,7 +23,7 @@
           "layout": {
             "footerPath" : "resources/footer.html"
           },
-          "inline-toc": {
+          "intopic-toc": {
             "label" : "Contents"
           }
     }

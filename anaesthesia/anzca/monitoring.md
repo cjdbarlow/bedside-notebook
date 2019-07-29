@@ -7,8 +7,9 @@ Vigilance is essential for safe practice.
 * Person responsible for provision of anaesthesia must be constantly present from induction until transfer to PACU or ICU  
 In exceptional circumstances, a brief absence may be unavoidable. In such instances, observation should be delegated to a suitably trained and skilled practitioner.
 	* Permanent handover of responsibility can only occur to an anaesthetist who is able to accept that responsibility
-* Duration of monitoring post-operatively relies on clinical judgement 
+* Duration of monitoring post-operatively relies on clinical judgment 
 * Presence of monitoring is the responsibility of the anaesthetist
+* Visual and auditory alarms must be enabled at commencement of anaesthesia
 
 Regular monitoring should include assessment and recording of:
 * Oxygenation  
@@ -29,7 +30,7 @@ Detection of pulse and blood pressure.
 	* NIBP should be:
 		* Available for every GA
 		* If used, measured no less than every 10 minutes
-	* Invasive blood pressure monitoring shouild be available
+	* Invasive blood pressure monitoring should be available
 * Awareness/Anaesthesia
 	* Equipment to measure effect of anaesthesia on the brain should be available
 	* End-tidal inhalational anaesthetic concentration must be used for every inhalational anaesthetic

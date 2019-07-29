@@ -34,7 +34,7 @@ Educational Requirements:
 
 Core competencies:
 * Standards  
-Understand and apply various anesthesia, workplace, occupational health, safety, and legal responsiblities/protocols.
+Understand and apply various anesthesia, workplace, occupational health, safety, and legal responsibilities/protocols.
 * Anaesthesia equipment  
 Understand care, use, and servicing of equipment, including:
 	* Anaesthesia delivery equipment

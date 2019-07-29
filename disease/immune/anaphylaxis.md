@@ -217,13 +217,67 @@ Differential diagnoses include:
 
 
 ##Investigations
-Serum tryptase:
+Formal follow-up is important:
+* As anaesthetists are mostly wrong about the likely causative agent
+* For patients with any of the following:
+	* Unexplained cardiac arrest
+	* Unexplained and unexpected hypotension
+	* Unexplained bronchospasm, particularly when:
+		* Severe
+		* Associated with desaturations
+		* Treatment resistant
+	* Angioedema
+* To provide education for future anaesthetics
+	* Notably, no cause is found in ~50% of cases
+
+
+####Tryptase Testing
+* Tryptase is a protease enzyme stored in granules in mast cells and basophils  
+Two subtypes:
+	* α-tryptase is secreted constitutively and found in health
+	* β-tryptase is released by mast cells in anaphylaxis, and may be raised in cutaneous mastocytosis
+* Will not be elevated in a basophil or complement-mediated anaphylaxis
+* Acute elevation supports anaphylaxis diagnosis
+	* Level >20μg/L is considered positive, assuming a normal baseline
+	Magnitude of elevation is relevant, and is more likely to have an agent identified.
+	* Peak level usually within 15-120 minutes
+	* Declines over 3-6 hours
 * Should be measured at the 1 (as close as possible to onset), 4, and 24 hour mark  
-	* Peak level typically occurs 15-120 minutes following reaction
-	* Declines slowly within 3-6 hours  
-	24 hour value gives a baseline level, which can then be used to identify whether there was substantial mast cell degranulation.
+	* 24 hour value gives a baseline level, which can then be used to identify whether there was substantial mast cell degranulation
+	* Samples require refrigeration if ⩾1 hour to laboratory
 
 
+####RAST Testing
+* *In vitro* testing evaluating IgE response to specific agents
+	* Limited to IgE mediated reactions
+* Only available for a small number of agents:
+	* Suxamethonium  
+	Limited sensitivity.
+	* Penicillin
+	* Ampicillin
+	* Amoxicillin
+	* Cefaclor
+	* Latex
+	* Chlorhexidine
+
+####Skin Testing
+* Gold standard
+* Most useful for:
+	* Neuromuscular blocking drugs  
+	Only method to determine cross-reactivity in NMBD-induced anaphylaxis.
+	* Latex
+	* β-lactam antibiotics
+* Requirements:
+	* Must be performed **6 weeks** after the event  
+	Ensure mast cell recovery has occurred.
+	* Several day cessation of:
+		* Antihistamines
+		* Psychotropic drugs
+* May involve either:
+	* **Skin prick testing**  
+	Agent is applied to the forearm, and then a needle prick made through the agent.
+	* **Intradermal testing**  
+	Injection of dilute agents *into* the dermis.*
 
 
 ##Management
@@ -353,71 +407,6 @@ No evidence that use of corticosteroids affects outcome.
 	Appropriate in mild anaphylaxis.
 	* No effect on hypotension and bronchospasm
 	* Oral agents have a preferred side-effect profile compared to IV
-
-###Follow-up of Perioperative Anaphylaxis
-Formal investigation is important:
-* As anaesthetists are mostly wrong about the likely causative agent
-* For patients with any of the following:
-	* Unexplained cardiac arrest
-	* Unexplained and unexpected hypotension
-	* Unexplained bronchospasm, particularly when:
-		* Severe
-		* Associated with desaturations
-		* Treatment resistant
-	* Angioedema
-* To provide education for future anaesthetics
-	* Notably, no cause is found in ~50% of cases
-
-Pati
-
-
-
-####Tryptase Testing
-* Tryptase is a protease enzyme stored in granules in mast cells and basophils  
-Two subtypes:
-	* α-tryptase is secreted constitutively and found in health
-	* β-tryptase is released by mast cells in anaphylaxis, and may be raised in cutaneous mastocytosis
-* Will not be elevated in a basophil or complement-mediated anaphylaxis
-* Acute elevation supports anaphylaxis diagnosis
-	* Level >20μg/L is considered positive, assuming a normal baseline
-	Magnitude of elevation is relevant, and is more likely to have an agent identified.
-	* Peak level usually within 15-120 minutes
-	* Declines over 3-6 hours
-* Baseline level can be measured at 24 hours
-* Requires refrigeration if ⩾1 hour to laboratory
-
-
-####RAST Testing
-* *In vitro* testing evaluating IgE response to specific agents
-	* Limited to IgE mediated reactions
-* Only available for a small number of agents:
-	* Suxamethonium  
-	Limited sensitivity.
-	* Penicillin
-	* Ampicillin
-	* Amoxicillin
-	* Cefaclor
-	* Latex
-	* Chlorhexidine
-
-####Skin Testing
-* Gold standard
-* Most useful for:
-	* Neuromuscular blocking drugs  
-	Only method to determine cross-reactivity in NMBD-induced anaphylaxis.
-	* Latex
-	* β-lactam antibiotics
-* Requirements:
-	* Must be performed **6 weeks** after the event  
-	Ensure mast cell recovery has occurred.
-	* Several day cessation of:
-		* Antihistamines
-		* Psychotropic drugs
-* May involve either:
-	* **Skin prick testing**  
-	Agent is applied to the forearm, and then a needle prick made through the agent.
-	* **Intradermal testing**  
-	Injection of dilute agents *into* the dermis.* Requires cessation of
 
 
 ###Ineffective Therapies

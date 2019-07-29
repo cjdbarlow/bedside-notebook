@@ -206,7 +206,6 @@
 
 ## Intensive Care Medicine
 * [Post-Op Cardiac Surgery](/intensive-care/postop-cthr.md)
-* [Patient Transport](/intensive-care/transport.md)
 
 
 ## Disease
@@ -259,7 +258,7 @@
 	* [Endocrine Tumours](/disease/endo/phaeo.md#id)
 * [Renal](/disease/renal/aki.md#id)
 	* [AKI](/disease/renal/aki.md)
-* [Fluid and Electrolyte](/disease/fluid/hypona.md#id)
+* [Fluid and Electrolyte](/disease/fluid/siadh.md#id)
 	* [SIADH](/disease/fluid/siadh.md)
 	* [TURP Syndrome](/disease/fluid/turp-syndrome.md)
 * [Haematology](/disease/haeme/pe.md#id)

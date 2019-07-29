@@ -3,13 +3,28 @@
 *This section covers aspects common to peripheral nerve blockade.*
 
 This section is divided into:
-* The 'block time out'
+* Requirements
 * Procedural techniques
 * Delivery mechanisms
 * LA dosing
 * Complications and risk-reduction methods
 
-##Block Time-Out {#timeout}
+##Requirements
+Requires:
+* Informed consent
+	* Nerve injury
+	* Drug toxicity
+	* Haemodynamic changes
+	* Bleeding/bruising
+	* Failure
+* Assistance
+* Sterile technique
+* Coagulation assessment
+* IV access
+* Monitoring
+* Ability to manage potential complications
+
+###Block Time-Out {#timeout}
 Prior to performing a regional block:
 * Verify the **side** and **site** of proposed block with another clinician  
 Requires:
