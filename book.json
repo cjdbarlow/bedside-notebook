@@ -11,7 +11,7 @@
         "ungrey",
         "expandable-chapters-small",
         "git-author",
-        "inline-toc"
+        "intopic-toc"
     ],
     "pluginsConfig": {
           "git-author": {
