@@ -83,14 +83,4 @@ From the cords:
 Supplies upper medial part of the forearm, and can be covered with a subcutaneous bleb just distal to the axillary hairline.
 
 
-Innervation of the shoulder:
-* **Bulk of innervation** comes from the **C5-6** trunks  
-Injecting at this level facilitates reduced LA doses and side-effects.
-* Suprascapular nerve  
-From C5/6 roots, upper trunk.
-* Axillary nerve  
-From C5/6 roots, branch of the posterior cord.
-* Supraclavicular nerve  
-From cervical plexus.
-
 
