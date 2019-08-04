@@ -24,7 +24,7 @@ High risk of perioperative morbidity and mortality.	Discuss:
 * B
 	* Respiratory reserve
 * C
-	* Co-existing CVS disease
+	* Optimise co-existing CVS disease
 		* 40% of patients will have coexisting disease
 		* Particularly cardiac function and presence of inducible ischaemia
 		* Prevent and control SNS stimulation
@@ -76,9 +76,9 @@ Generally post-induction, unless required. Transduce CVP.
 Haemodynamically stable induction required:
 * Consider
 	* Fentanyl  
-	4-6, up to 10 μg/kg.
+	4-6, up to 10μg/kg.
 	* Remifentanil infusion  
-	0.1-0.3 μg/kg/min.
+	0.1-0.3μg/kg/min.
 
 ##Intraoperative
 ###Surgical Stages
@@ -95,7 +95,7 @@ The AAA can be divided into 3 phases:
 * SVR increases, leading to an increased in BP  
 BP typically increases 7-10% during cross clamp.
 	* Begin vasodilators immediately prior to crossclamp
-	* Magnitude of this effect is reduced if occlusive aortoiliac disease is prsent  
+	* Magnitude of this effect is reduced if occlusive aortoiliac disease is present  
 	As SVR is already high prior to clamping.
 * VR reduces as ischaemia of lower limbs occurs.
 

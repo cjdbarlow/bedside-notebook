@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Examinations](exams.md)
 
 ## Assessment
 
@@ -68,6 +69,7 @@
 * [Haematological](/management/haeme/anticoag.md#id)
 	* [Anticoagulation](/management/haeme/anticoag.md)
 	* [Transfusion & Products](/management/haeme/bloodproduct.md)
+	* [TEG and ROTEM](/management/haeme/teg.md)
 * [Obstetric](/management/obs/intrauterineresus.md#id)
 	* [Intrauterine Resuscitation](/management/obs/intrauterineresus.md)
 
@@ -87,7 +89,7 @@
 	* [Positioning](/anaesthesia/considerations/positioning.md)
 		* [Prone Positioning](/anaesthesia/considerations/proneanaes.md)
 		* [Post-Operative Neuropathy](/anaesthesia/general/postopneuro.md)
-	* [Operative Analgesia](/anaesthesia/considerations/operative-analgesia.md)
+	* [Post-Operative Analgesia](/anaesthesia/considerations/postop-analgesia.md)
 	* [Intraoperative Optimisation](/anaesthesia/considerations/intraop.md)
 * [Perioperative Management](/anaesthesia/periop/periop-management.md)
 	* [Perioperative Anticoagulation](/anaesthesia/periop/periop-anticoag.md)
@@ -234,10 +236,11 @@
 		* [TAA](/disease/cvs/taa.md)
 		* [AAA](/disease/cvs/aaa.md)
 		* [Aortic Dissection](/disease/cvs/aortic-dissection.md)
-	* [Thromboembolic Disease](/disease/cvs/pe.md#id)
+	* [Embolic Disease](/disease/cvs/pe.md#id)
 		* [Pulmonary Embolism](/disease/cvs/pe.md)
 		* [Venous Air Embolism](/disease/cvs/vae.md)
 		* [Amniotic Fluid Embolism](/disease/cvs/afe.md)
+		* [Fat Embolism Syndrome](/disease/cvs/fat-embolism.md)
 * [CNS](/disease/cns/cerebral-palsy.md#id)
 	* [Cerebral Palsy](/disease/cns/cerebral-palsy.md)
 	* [Epilepsy](/disease/cns/epilepsy.md)

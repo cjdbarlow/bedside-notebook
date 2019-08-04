@@ -9,7 +9,6 @@ In exceptional circumstances, a brief absence may be unavoidable. In such instan
 	* Permanent handover of responsibility can only occur to an anaesthetist who is able to accept that responsibility
 * Duration of monitoring post-operatively relies on clinical judgment 
 * Presence of monitoring is the responsibility of the anaesthetist
-* Visual and auditory alarms must be enabled at commencement of anaesthesia
 
 Regular monitoring should include assessment and recording of:
 * Oxygenation  
