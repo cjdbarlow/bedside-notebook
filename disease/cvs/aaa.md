@@ -22,10 +22,23 @@ Size correlates strongly with risk of rupture:
 ##Diagnostic Approach and DDx
 ##Investigations
 ##Management
+Medical Management:
+* Optimise modifiable risk factors
+	* Smoking cessation slows growth by 15-20%
+	* Control HTN
+* Statins may alter growth
+* Low-dose aspirin  
+Reduces major coronary events.
+
 Surgical management:
 * Indicated when aneurysm is **greater than 5.5cm**
+	* <1% annual rupture rate below this size
 * May be open or endovascular
 	* Equivalent long-term outcome
+	* Choice depends on:
+		* Co-morbidities
+		* Age
+		* Aneurysm morphology
 
 ###Anaesthetic Considerations
 ###Ineffective Therapies

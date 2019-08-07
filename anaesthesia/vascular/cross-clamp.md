@@ -56,12 +56,18 @@ Immediate effects:
 * ↑ ETCO<sub>2</sub>  
 Due to ischaemic washout.
 	* **Minimise washout** by **unclamping each lower limb separately**
-* ↓ SVR  
-Distal circulation is profoundly vasodilated due to ischaemia; release of clamp makes this dilated and relatively volume deplete circulation available.
-	* ↓ BP  
-	May be profound. Give **volume** targeting **slightly elevated filling pressures** prior to release.
+	* Also present:
+		* Lactate
+		* NO
+* ↓ BP  
+May be profound.
+	* Due to: 
+		* ↓ SVR by 70-80%  
+		Distal circulation is profoundly vasodilated due to ischaemia.
+		* Relatively volume deplete venous bed
+	* Give **volume** targeting **slightly elevated filling pressures** prior to release.
 		* **Vasodilators** given **prior to release** allow **extra volume without increasing filling pressures**
-		* If **BP remains low**, then have the surgeon **reapply the clamp**; and give more volume.
+	* If **BP remains low**, then have the surgeon **reapply the clamp**; and give more volume.
 * ↓ Preload  
 Due to:
 	* Central hypovolaemia  

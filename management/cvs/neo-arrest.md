@@ -1,7 +1,7 @@
 #Neonatal Resuscitation
 
 This section covers resuscitation of the neonate. Neonatal resuscitation is:
-* Required in ~5% 
+* Required in ~5%  
 The majority need gentle manoeuvres; drying, stimulation, warming. Need for:
 	* Intubation and ventilation is unlikely
 	* Compressions is rare  
@@ -28,6 +28,22 @@ Should cover:
 	Suggest unlikely to be compromised.
 	* Heat loss prevention is essential
 
+###APGAR Score
+Evaluation of a newborn:
+* Used to determine whether they need medical intervention  
+Poor scores at later times (e.g. 10-30 minutes post-delivery) do correlate with poor neurological outcome.
+* Based on five criteria
+* Performed at 1, 5, and 10 minutes post-delivery
+* Scored out of 10  
+0, 1, or 2 points in each category.
+
+|Criterion|0|1|2|
+|--|--|
+|**A**ppearance|Blue or pale|Blue extremities|Pink|
+|**P**ulse|Absent|<100bpm|>100bpm|
+|**G**rimace|No response|Grimace to suction/aggressive stimulation|Cry on stimulation|
+|**A**ctivity|None|Some flexion|Flexed limbs resisting extension|
+|**R**espiration|Absent|Weak/irregular|Strong/robust|
 
 ##Management
 Follows an ABC approach:
@@ -47,7 +63,7 @@ Follows an ABC approach:
 		* Preparing for intubation
 		* HR < 60/min and chest compressions indicated
 * C
-	* Commence chest compressions if:  
+	* Commence chest compressions at **100-120** per minute if:  
 	Need for chest compressions mostly occurs if PPV has not been performed correctly.
 		* HR < 60/min despite adequate PPV with supplementary oxygen
 	* Adrenaline 10-30µg/kg (0.1-0.3ml/kg of 1:10,000 solution) if HR < 60
@@ -73,7 +89,7 @@ Follows an ABC approach:
 	* Laryngoscope
 	* ETT  
 	In a range sizes: 2.5-4.0.
-	* Magil neonatal forceps
+	* Magill neonatal forceps
 	* Sterile scissors
 * B
 	* Medical air

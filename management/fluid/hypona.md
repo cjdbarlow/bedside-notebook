@@ -1,15 +1,21 @@
 #Hyponatraemia {#id}
 
-Hyponatraemia is the excess of body water relative to sodium. It is defined as a serum sodium level <135mmol/L, and is further divided by serum concentrations and symptoms into:
-* Mild  
-* Moderate
-* Severe
-
-Hyponatraemia may also be divided by time course:
-* Acute  
-<48 hours.
-* Chronic  
-\>48 hours.
+Hyponatraemia is:
+* The excess of body water relative to sodium
+* Defined as a serum sodium level <135mmol/L
+* Further divided by:
+	* Serum concentrations and symptoms into:
+		* Mild  
+		125-134.
+		* Moderate  
+		120-124.
+		* Severe  
+		⩽123.
+	* Time course:	
+		* Acute  
+		⩽48 hours.
+		* Chronic  
+		⩾48 hours.
 
 ##Epidemiology and Risk Factors
 * Most common electrolyte abnormality
@@ -31,56 +37,26 @@ Increased frequency of monitoring should be performed in patients with:
 ##Pathophysiology
 Basic principles:
 * Water diffuses freely across cell membranes
-* Hyponatraemia indicates extracellular hypoosmolality, and therefore intracellular hypoosmolality
+* Hyponatraemia indicates extracellular hyposmolality, and therefore intracellular hypoosmolality
 * Water influx into cells causes swelling, and may lead to life-threatening cerebral oedema
 	* Initially, neurons excrete osmoles to reduce oedema formation
 	* Swelling will occur when compensatory mechanisms are overwhelmed
 * As hyponatraemia is corrected, neurons must reabsorb osmoles  
 This process is slower than excretion, and may take several days.
 	* Rapid correction of extracellular sodium may therefore lead to dehydration of brain cells as more water leaves the neuron as extracellular osmoles rise  
-	This causes cells to shink, and potentially demyelinate.
+	This causes cells to shrink, and potentially demyelinate.
 
+###Aetiology
 Hyponatraemia is a disorder of water excess. Broadly, this may be either due to:
 * Excessive water intake
 * Failure of the kidneys to remove water
 
-
-##Investigations
-Blood:
-* Serum osmolality  
-	* Normal >280mOsm/L
-* Arterial blood gases  
-* UECs
-	* Potassium
-	* Chloride
-	* Bicarbonate
-	* Glucose
-	* Creatinine
-	* Urea
-* Cholesterol
-	* Triglycerides
-* Protein
-* Random cortisol
-* Short synacthen test
-
-
-Urine:
-* Urine osmolality
-	* <100mOsm/L indicates (appropriate) suppression of ADH  
-	This is an appropriate response to hyponatraemia, as the body is in a state of water excess. 
-* Urine sodium  
-Indicates how the kidneys are handling sodium.
-	* 10mmol/L is the theoretical minimum
-	* <20mmol/L suggests hypovolaemia  
-	May be **true** hypovolaemia, or **percieved** hypovolaemia (e.g. heart failure)
-	* \>40mmol/L suggests SIADH  
-	Key in discriminating CSW and hypovolaemia from SIADH.
-
-
 ##Assessment
+Speed of onset is more important than the absolute value.
+
 ###History
 * Symptoms  
-Largely attributable to brain oedema.
+Largely attributable to brain oedema; rare if Na<sup>+</sup> >135mmol/L.
 	* Symptoms of mild hyponatraemia:
 		* Nausea
 		* Vomiting
@@ -120,12 +96,13 @@ Largely attributable to brain oedema.
 
 
 ###Examination
-* Volume state
+* Volume state  
+Key in differentiating SIADH from CSW.
 
 
 ##Diagnostic Approach
 > * Many different approaches have been described
-> * The following approach is used because it doesn't require assessment of volume state, which clinicians are generally bad at
+> * The following approach is suggested because it doesn't require assessment of volume state, which clinicians are generally bad at
 
 
 1. Measure serum osmolality
@@ -136,13 +113,13 @@ Largely attributable to brain oedema.
 2. Measure urine osmolality and sodium  
 Patients can then be classified into:
 	* Sodium retainers/sodium wasters  
-	**Sodium retainers have urinary sodium \<40mmol/L.**
+	**Sodium retainers have urinary sodium ⩽40mmol/L.**
 	* Water retainers/water wasters  
-	**Water retainers have urinary osmolality >100mmol/L.**
+	**Water retainers have urinary osmolality ⩾100mmol/L.**
 
 
 Causes of hyponatraemia can then be grouped into **six types**:
-1. Hyper-osmotic hyponatramia  
+1. Hyper-osmotic hyponatraemia  
 High serum osmolality - pseudohyponatraemia.
 	* Mannitol
 	* Sorbitol
@@ -180,7 +157,7 @@ Low serum osmolality, high urine osmolality, high urine sodium - sodium is being
 	* Cerebral Salt Wasting  
 	High urine output but hypovolaemic.
 5. Sodium retainers, water wasters  
-Low serum osmolality, low urine osmolality, low urinary sodium - water excretion is normal but water intake is excessively high.
+Low serum osmolality, low urine osmolality, low urinary sodium.
 	* Polydipsia/Excess IV water
 	* Malnutrition/Beer potomania
 6. Sodium wasters, water wasters  
@@ -191,6 +168,11 @@ Low serum osmolality, low urine osmolality, high urinary sodium - failure of wat
 		* AKI
 
 ##Investigations{#ix}
+Blood:
+* Serum osmolality  
+	* Normal >280mOsm/L
+* Arterial blood gases  
+* UECs
 * Sodium Measurement  
 Two methods are available:
 	* Direct Ion-Specific Electrode (ISE)
@@ -209,7 +191,25 @@ Two methods are available:
 				* The diluted fraction will contain more sodium ions  
 				Serum sodium will be overestimated.
 				* Serum sodium can be partially corrected for hypoalbuminaemia by subtracting **0.7mmol/L for every 1g/dL** decrease in total protein.
+* Cholesterol
+	* Triglycerides
+* Protein
+* Random cortisol
+* Short Synacthen test  
+Test of adrenal insufficiency.
 
+
+Urine:
+* Urine osmolality
+	* <100mOsm/L indicates (appropriate) suppression of ADH  
+	This is an appropriate response to hyponatraemia, as the body is in a state of water excess. 
+* Urine sodium  
+Indicates how the kidneys are handling sodium.
+	* 10mmol/L is the theoretical minimum
+	* ⩽20mmol/L suggests hypovolaemia  
+	May be **true** hypovolaemia, or **perceived** hypovolaemia (e.g. heart failure)
+	* ⩾40mmol/L suggests SIADH  
+	Key in discriminating CSW and hypovolaemia from SIADH.
 * Urine/Plasma electrolyte ratio  
 Ratio of urinary electrolytes to plasma electrolytes, given an indication of the relative tonicity of urine and plasma.
 	* Typically given by: $${U \over P}Ratio = {[Na]_u + [K]_u \over [Na]_p}$$
@@ -220,15 +220,29 @@ Ratio of urinary electrolytes to plasma electrolytes, given an indication of the
 	* A negative ratio indicates a degree of electrolyte-free water excretion
 
 
+###Calculation of Sodium Deficit
+Allows the total body sodium deficit to be crudely calculated, and therefore replaced.
+
+$$Sodium \ Deficit = TBW \times Weight \times (Desired \ [Na^+] - Current \ [Na^+])$$, where:
+* $$TBW$$ is the fraction of weight that is water:
+	* $$~0.6$$ for men
+	* $$~0.5$$ for women
+* $$Weight$$ is body weight
+
+
+
 ##Management
 > * Inadequate treatment may cause brain oedema
-> * Excessively rapid correction may lead to osmotic demyelination syndomre
+> * Excessively rapid correction may lead to osmotic demyelination syndrome
 >	* Risk is increased in chronic hyponatraemia
 
 
 * Free water restriction  
 Important in hyponatraemia associated with cardiac failure.
 	* Degree of restriction may be calculated from a spot urine/plasma electrolyte ratio
+	* Unlikely to work if:
+		* Urine osmolality is high
+		* Urine output is low
 	
 
 
@@ -236,6 +250,7 @@ Important in hyponatraemia associated with cardiac failure.
 3% NaCl is the mainstay of treatment, and may be given peripherally.
 	* For **severe, acute** hyponatraemia:  
 	100ml of 3% NaCl over 10 minutes, repeated up to 3 times or until symptoms resolve.
+		* Risk of ongoing oedema exceeds risk of osmotic demyelination syndrome
 	* For **acute** (but less severe) hyponatraemia:
 		* 1-2ml/kg/hr of 3% NaCl
 		* Target increase in serum sodium up to 2mmol/L/hr until symptoms improve
@@ -263,14 +278,15 @@ Hypokalaemia should also be corrected.
 
 ##Complications
 Osmotic Demyelination Syndrome:
-* Also known as central pontine demyelinolysis
+* Also known as central pontine myelinolysis  
+Though oedema and demyelination will occur everywhere there is myelin, not just in the pons.
 * Risk factors include:
 	* Severe hyponatraemia
 	* Chronic hyponatraemia
 	* Rapid correction of serum sodium
 * Symptoms may appear 24-48 hours after correction  
 These include:
-	* Quadiplegia
+	* Quadriplegia
 	* Pseudobulbar palsy
 	* Seizures
 	* Coma
