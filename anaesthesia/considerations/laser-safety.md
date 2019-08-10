@@ -1,4 +1,15 @@
+#Laser Safety
 
+Lasers are common in ENT and opthalmic surgery; however:
+* They are a hazard to both patients and staff  
+Due to risk of:
+	* Eye injury
+	* Burns
+	* Airborn contamination
+* Safe use requires use of:
+	* Engineering controls
+	* Administrative controls
+	* Procedural controls
 
 ##Risks
 Include:
@@ -46,14 +57,14 @@ Methods include:
 	* Formal audit process of issues
 * Procedural controls
 	* Eye protection  
-		* Protective eyewear worn at all times, including by the operator 
+		* Protective eyewear worn at all times, including by the operator  
 		Needs to be specific to the laser in use.
-		* Non-flammable window coverings
 	* Remove flammable substances  
 		* Use matte drapes
 		* Remove cosmetics at operative site  
 		Hairspray, gels, mousse, nail polish.
 		* Remove reflective materials from beam path
+		* Non-flammable window coverings
 		* All non-reflective materials should be tested or rated for laser safety  
 		Black colour does not imply a low reflectivity.
 		* Drape non-targeted tissues in wet towels
@@ -72,7 +83,8 @@ Methods include:
 		Usually costly and largely ineffective due to efficiency and efficacy of the sieve. 
 	* Active control of laser
 		* Always attended whilst on
-	* Water
+	* Water  
+	Available to douse fire, and team trained in its use.
 
 ---
 ##References
