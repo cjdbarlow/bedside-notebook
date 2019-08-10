@@ -91,6 +91,7 @@
 		* [Post-Operative Neuropathy](/anaesthesia/general/postopneuro.md)
 	* [Post-Operative Analgesia](/anaesthesia/considerations/postop-analgesia.md)
 	* [Intraoperative Optimisation](/anaesthesia/considerations/intraop.md)
+	* [Laser Safety](/anaesthesia/considerations/laser-safety.md)
 * [Perioperative Management](/anaesthesia/periop/periop-management.md)
 	* [Perioperative Anticoagulation](/anaesthesia/periop/periop-anticoag.md)
 	* [Patient Blood Management](/anaesthesia/periop/patient-blood-mx.md)
