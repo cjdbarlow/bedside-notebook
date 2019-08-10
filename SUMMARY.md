@@ -165,6 +165,7 @@
 	* [Thyroidectomy](/anaesthesia/gensurg/thyroid.md)
 	* [Adrenalectomy](/anaesthesia/gensurg/adrenalectomy.md)
 * [Neurosurgery](/anaesthesia/neuro/craniotomy.md#id)
+	* [Nerve Integrity Monitoring](/anaesthesia/neuro/nerve-integrity.md)
 	* [Craniotomy](/anaesthesia/neuro/craniotomy.md)
 	* [Aneurysm Clipping](/anaesthesia/neuro/aneurysm.md)
 * [Obstetric](/anaesthesia/obs/obs-principles.md)

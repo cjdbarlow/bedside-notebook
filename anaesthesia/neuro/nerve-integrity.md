@@ -1,0 +1,75 @@
+#Nerve Integrity Monitoring
+
+Monitoring of nerve integrity:
+* Involves applying a known stimulus and measuring the triggered response  
+Ischaemia or injury is suggested by:
+	* Change in response **amplitude**  
+	Usually ~50%.
+	* Increased response **latency**  
+	Usually ~10%.
+	* Total loss of signal
+	* Need to increase stimulation voltage
+* Is generally highly sensitive but non-specific
+* May be used:
+	* Intraoperatively any procedure where the cord is at risk
+	* In ICU to evaluate a spinal cord injury
+* Includes:
+	* SSEPs
+	* MEPs
+
+##Somatosensory Evoked Potentials
+Method:
+* Stimulating electrode applied to a nerve:
+	* Median
+	* Posterior tibial nerve
+	* Common peroneal
+* Monitor may be:
+	* Over the sensory cortex
+	* With epidural electrodes  
+	Tend to be difficult to place and may move intraoperatively.
+* Evaluate proprioceptive signals  
+Therefore evaluate **dorsal column** function.
+
+
+###Conduct of Anaesthesia
+* Muscle relaxation improves signal:noise ratio
+* Volatile anaesthesia and nitrous oxide have a dose-dependent effect on amplitude  
+⩽ 1 MAC is acceptable, but TIVA is better.
+* Opioids have a minimal effect
+* Clonidine, and dexmedetomidine have no effect
+* Ketamine enhances the effect
+
+###Interpretation
+* Significantly affected by muscle tremor
+* Cord may be at risk if **SSEP amplitude ⩽ 50%**
+
+
+##Motor Evoked Potentials
+Method:
+* Short-duration stimuli applied to the motor cortex
+* Measurement via needle electrodes in:
+	* Tibialis anterior
+	* Abductor hallucis
+	* Vastus medialis
+* Reference electrodes placed into the small muscles of the hands
+* Evaluate motor signals  
+Therefore **corticospinal tract** function.
+
+###Conduct of Anaesthesia
+Require:
+* Minimal muscle relaxation
+* Avoidance of volatile anaesthesia  
+⩾0.5 MAC usually incompatible.
+* Avoidance of deep anaesthesia  
+Burst suppression reduces utility of monitoring.
+* Ketamine enhances the effect
+
+
+###Interpretation
+* Described as present or absent
+
+
+---
+##References
+1. Nowicki RW. Anaesthesia for major spinal surgery. Contin Educ Anaesth Crit Care Pain. 2014 Aug 1;14(4):147–52. 
+2. So VC, Poon CCM. Intraoperative neuromonitoring in major vascular surgery. Br J Anaesth. 2016 Sep 1;117(suppl_2):ii13–25. 

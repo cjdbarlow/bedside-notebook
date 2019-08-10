@@ -114,9 +114,6 @@ Casualty Clearing Station
 ##CFA
 Common Femoral Artery
 
-##CGA  
-Combined Gestational Age
-
 ##CHB
 Complete Heart Block
 
@@ -411,9 +408,6 @@ Left Ventricular End-Diastolic Pressure
 ##LVEDV
 Left Ventricular End-Diastolic Volume
 
-##MSFP
-Mean Systemic Filling Pressure
-
 ##MALT
 Mucosa-Associated Lymphoid Tissue
 
@@ -423,6 +417,9 @@ Minimum Alveolar Concentration
 ##MAP
 Mean Arterial Pressure
 
+##MEP
+Motor-Evoked Potential
+
 ##MILS
 Manual In-Line Stabilisation
 
@@ -431,6 +428,9 @@ Mean Pressure Gradient
 
 ##MOP
 M-type (μ) opioid receptor
+
+##MSFP
+Mean Systemic Filling Pressure
 
 ##MV
 Minute Ventilation
@@ -490,7 +490,7 @@ Post-Anaesthesia Care Unit
 Penicillin Binding Protein
 
 ##PCA
-Patient Controlled Analgesia
+Patient Controlled Analgesia *or* Post-Conceptual Age
 
 ##PCEA
 Patient Controlled Epidural Analgesia
@@ -600,6 +600,9 @@ Sustained Low-Efficiency Dialysis
 
 ##SROM
 Spontaneous Rupture of Membranes
+
+##SSEP
+Somato-Sensory Evoked Potential
 
 ##STP
 Standard Temperature and Pressure (0°C at 100kPa)

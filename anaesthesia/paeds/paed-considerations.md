@@ -59,8 +59,8 @@ This group:
 	Both in difficulty, and in difference from adults.
 	* Requirement for additional resources
 * Probably has the highest parental anxiety
-* Should have age calculated as **combined gestational age**  
-$$CGA = Weeks \ of \ Gestation + Weeks \ since \ Birth$$. 
+* Should have age calculated as **post-conceptual age**  
+$$PCA = Weeks \ of \ Gestation + Weeks \ since \ Birth$$. 
 
 
 |System|Premature|Neonate|Infant (up to 2 years)|

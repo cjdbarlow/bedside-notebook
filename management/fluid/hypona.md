@@ -10,7 +10,7 @@ Hyponatraemia is:
 		* Moderate  
 		120-124.
 		* Severe  
-		⩽123.
+		⩽119.
 	* Time course:	
 		* Acute  
 		⩽48 hours.
@@ -118,50 +118,67 @@ Patients can then be classified into:
 	**Water retainers have urinary osmolality ⩾100mmol/L.**
 
 
+↑
+↓
+
 Causes of hyponatraemia can then be grouped into **six types**:
 1. Hyper-osmotic hyponatraemia  
-High serum osmolality - pseudohyponatraemia.
-	* Mannitol
-	* Sorbitol
-	* IV contrast
-	* Hyperglycaemia
+	* ↑ Serum osmolality  
+	Pseudohyponatraemia.
+	* Causes:
+		* Mannitol
+		* Sorbitol
+		* IV contrast
+		* Hyperglycaemia
 2. Iso-osmotic hyponatraemia  
-Normal serum osmolality - pseudohyponatraemia.
-	* Hyperlipidaemia
-	* Hyperproteinaemia
-	* Post-TURP hyponatraemia
-	* Massive uraemia
+	* Normal serum osmolality  
+	Pseudohyponatraemia.
+	* Causes:
+		* Hyperlipidaemia
+		* Hyperproteinaemia
+		* Post-TURP hyponatraemia
+		* Massive uraemia
 3. Sodium retainers, water retainers  
-Low serum osmolality, high urine osmolality, low urine sodium - sodium and water are being retained.
-	* Hypovolaemia
-	* Heart failure  
-	Consider TTE.
-	* Cirrhosis  
-	Consider LFTs.
-	* Nephrotic syndrome  
-	Consider 24 hour urinary protein.
+	* ↓ Serum osmolality
+	* ↑ Urine osmolality, ↓ urine sodium  
+	Sodium and water are being retained.
+	* Causes:
+		* Hypovolaemia
+		* Heart failure  
+		Consider TTE.
+		* Cirrhosis  
+		Consider LFTs.
+		* Nephrotic syndrome  
+		Consider 24 hour urinary protein.
 4. Sodium wasters, water retainers  
-Low serum osmolality, high urine osmolality, high urine sodium - sodium is being inappropriately lost, and water reabsorption mechanisms are intact.
-	* Failure to reabsorb renal sodium
-		* Diuretics
-		* Polyuric ATN
-		* Post-obstruction diuresis
-		* Chronic renal failure
-	* Mineralocorticoid deficiency  
-	Consider cortisol level.
-	* Hypothyroidism  
-	Consider TFTs.
-	* SIADH  
-	Low urine output but euvolaemic.
-	* Renal osmostat syndrome
-	* Cerebral Salt Wasting  
-	High urine output but hypovolaemic.
+	* ↓ Serum osmolality
+	* ↑ Urine osmolality, ↑ urine sodium  
+	Sodium is being inappropriately lost, and water reabsorption mechanisms are intact.
+	* Causes:
+		* Failure to reabsorb renal sodium
+			* Diuretics
+			* Polyuric ATN
+			* Post-obstruction diuresis
+			* Chronic renal failure
+		* Mineralocorticoid deficiency  
+		Consider cortisol level.
+		* Hypothyroidism  
+		Consider TFTs.
+		* SIADH  
+		Low urine output but euvolaemic.
+		* Renal osmostat syndrome
+		* Cerebral Salt Wasting  
+		High urine output but hypovolaemic.
 5. Sodium retainers, water wasters  
-Low serum osmolality, low urine osmolality, low urinary sodium.
-	* Polydipsia/Excess IV water
-	* Malnutrition/Beer potomania
+	* ↓ Serum osmolality
+	* ↓ Urine osmolality, ↓ urine sodium.
+	* Causes:
+		* Polydipsia/Excess IV water
+		* Malnutrition/Beer potomania
 6. Sodium wasters, water wasters  
-Low serum osmolality, low urine osmolality, high urinary sodium - failure of water and sodium reabsorption.
+	* ↓ Serum osmolality
+	* ↓ Urine osmolality, ↑ urine sodium  
+	Failure of water and sodium reabsorption.
 	* Renal sodium loss
 		* Post-obstructive diuresis
 		* Polyuric ATN
