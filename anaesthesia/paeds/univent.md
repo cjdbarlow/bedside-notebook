@@ -49,13 +49,17 @@ Involves:
 Through joining of the pulmonary artery and the aorta; the Damus-Kay-Stansel procedure.
 * Formation of a systemic-pulmonary artery shunt  
 Results in supra-normal pulmonary flow. May be:
-	* Right modified Blalock-Taussig Shunt (RMBTS)  
+	* Right modified Blalock-Thomas-Taussig Shunt (RMBTTS)  
 	Shunt placed between right subclavian artery and right pulmonary artery.
 		* Right because it is on the right side
 		* Modified because it uses goretex, rather than a direct side-to-side anastomosis
+		* Results in a "pulmonary steal", as systemic blood pressure drives flow into the compliant pulmonary circulation  
+		Leads to a fall in MAP and DBP, and decrease in organ (particularly coronary) flow.
 	* Central shunt
-	* RV-PA conduit  
+	* Ventricular-PA conduit  
 	A Sano shunt.
+		* No fall in DBP, and thus coronary perfusion is maintained
+		* May lead to bleeding from ventricle
 * Atrial septectomy  
 Formation of a common atria.
 

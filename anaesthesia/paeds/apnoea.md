@@ -49,7 +49,8 @@ Inpatient admission:
 * Multiple approaches exist
 * Monitored observation includes:
 	* Continuous SpO<sub>2</sub>
-	* Continuous ECG
+	* Line of sight nursing  
+	* A plan to stimulate the child to resume respiration
 * Conservative:
 	* Admitting all infants <60 weeks for 24 hours of monitored observation
 	* Admit and monitor all infants for 12 hours after surgery

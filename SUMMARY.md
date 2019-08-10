@@ -95,6 +95,7 @@
 * [Perioperative Management](/anaesthesia/periop/periop-management.md)
 	* [Perioperative Anticoagulation](/anaesthesia/periop/periop-anticoag.md)
 	* [Patient Blood Management](/anaesthesia/periop/patient-blood-mx.md)
+	* [Routine Investigations](/anaesthesia/periop/routine-ix.md)
 * [General Anaesthesia](/anaesthesia/general/inductionstrat.md#id)
 	* [Anaesthetic Strategies](/anaesthesia/general/inductionstrat.md)
 	* [Low-Flow Anaesthesia](/anaesthesia/general/low-flow.md)
@@ -233,7 +234,8 @@
 	* [Cardiomyopathy](/disease/cvs/peripartum.md)
 		* [Peripartum Cardiomyopathy](/disease/cvs/peripartum.md)
 	* [Congenital Heart Disease]
-	* [Arrhythmia]
+	* [Arrhythmia](/disease/cvs/longqt.md#id)
+		* [Long QT Syndrome](/disease/cvs/longqt.md)
 	* [Systemic Vascular Disease](/disease/cvs/aaa.md#id)
 		* [TAA](/disease/cvs/taa.md)
 		* [AAA](/disease/cvs/aaa.md)
