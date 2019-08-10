@@ -243,7 +243,7 @@ Up to 2-3 months:
 	* Distraction and hyponosis are beneficial
 	* In general, believe that the world is fair and adults Do The Right Thing  
 	Play to this.
-	* Ideally, use onve voice during induction  
+	* Ideally, use one voice during induction  
 	Yours or the parents; but avoid chattering.
 
 |System|5-10 Year Olds|
