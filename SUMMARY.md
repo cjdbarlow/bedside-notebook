@@ -95,7 +95,7 @@
 * [Perioperative Management](/anaesthesia/periop/periop-management.md)
 	* [Implantable Cardiac Devices](/aneasthesia/periop/icd.md)
 	* [Perioperative Anticoagulation](/anaesthesia/periop/periop-anticoag.md)
-	* [Nerve Integrity](/anaesthesia/periop/nerve-integrity.md)
+	* [Nerve Integrity Monitoring](/anaesthesia/periop/nerve-integrity.md)
 	* [Patient Blood Management](/anaesthesia/periop/patient-blood-mx.md)
 	* [Routine Investigations](/anaesthesia/periop/routine-ix.md)
 * [General Anaesthesia](/anaesthesia/general/inductionstrat.md#id)
