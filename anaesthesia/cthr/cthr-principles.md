@@ -40,7 +40,7 @@ Cardiac patients tend to be sicker. Particularly relevant features:
 	Smoking cessation should be encouraged.
 	* Hypertension
 	* Valvular disease
-	* Coronary artery diseaese  
+	* Coronary artery disease  
 	* Cerebrovascular disease
 	* Peripheral vascular disease  
 	Affects graft sites and arterial line placement.

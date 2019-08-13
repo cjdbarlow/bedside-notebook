@@ -49,6 +49,25 @@ Says things will hurt if they will hurt.
 * Engage in normal conversation with the parents and child
 
 
+###Reducing Intraoperative Heat Loss
+Reduce:
+* Unnecessary exposure
+
+Increase warming with:
+* Radiant heaters
+* Warm fluids
+	* Intravenous
+	* Irrigation
+	* Skin preparation
+* Active warmers
+* Adjust operating theatre temperature
+	* 20-22°C for children
+	* 26-28°C for neonates
+* Humidified ventilators
+	* Circle system with HME
+	* Inspiratory humidifiers
+
+
 ##Key Differences
 This section covers key differences from adults relevant to paediatric anaesthesia, broken up by age groups.
 
@@ -261,7 +280,7 @@ Up to 2-3 months:
 Tend to respond in two ways to the stress of hospital and disease. Consult should be tailored appropriately.
 	* Child-like response  
 		* Frustrated, angry, "unfair"
-		* Need gentle reasurrance
+		* Need gentle reassurance
 	* Adult-like response
 		* Existential fears, uncertainty
 		* Honest but fair discussion
@@ -273,93 +292,6 @@ Tend to respond in two ways to the stress of hospital and disease. Consult shoul
 |**C**|- Nil|
 |**D**|- Tailor discussion to psychological state|		
 
-##Particular Considerations
-###Apnoea of Prematurity
-
-
-###Perioperative Respiratory Complications
-Perioperative respiratory complications:
-* Are major causes of morbidity and mortality
-* Major perioperative concerns - have a plan to manage: 
-	* Laryngospasm
-	* Bronchospasm
-	* Atelectasis
-* Can be reduced by identifying at-risk patients  
-Factors include:
-	* Patient factors:
-		* Age  
-		Risk decreases by ~11% per year of age.
-		* ↑ Airway reactivity
-			* Atopy
-				* **Asthma**  
-				Major risk factor.
-				* Eczema
-				* **FHx** of two or more relatives with asthma, eczema, or rhinitis
-			* Eczema
-			* Recent URTI  
-			Within last 6/52, though first 2/52 are highest risk period.
-				* **Croup** is especially high risk
-			* Passive smoke exposure
-		* Fever ⩾38°C.
-	* Anaesthetic factors:
-		* Premedication with midazolam
-		* Use of volatiles:
-			* Bronchospasm: Desflurane > Sevoflurane > Isoflurane
-			* Sevoflurane associated with more laryngospasm than propofol maintenance (but equivalent bronchospasm)   
-		Compared with sevoflurane.
-		* Use of lignocaine
-		* Airway devices and depth of anaesthesia  
-		Safest options to reduce laryngospasm include:
-			* Use of facemask  
-			Equivalent bronchospasm risk to LMA, but significantly reduced laryngospasm.
-			* Awake removal of ETT
-			* Deep removal of LMA
-			* Use of cuffed (compared with uncuffed) ETT  
-			Also reduces post-operative stridor. 
-
-
-####Post-Extubation Stridor/"Croup"{#stridor}
-Post-operative laryngeal oedema due to irritation from ETT. It:
-* Can be **disastrous**
-* Occurs in young children due to airway diameter
-	* 1-4 years
-	* Infants ⩽1 at particular risk
-* Presents as stridor and coughing
-* Requires immediate treatment with:
-	* Humidified oxygen  
-	FiO<sub>2</sub> >0.5.
-	* Resuscitation
-	* Light sedation  
-	Aim to reduce distress without decreasing respiratory drive.
-	* Nebulised adrenaline  
-	0.5ml/kg of 1:1,000, up to 5mg total.
-	* Steroids  
-	Dexamethasone 0.5-1mg/kg.
-	* Reintubation  
-	If ongoing deterioration or hypoxia
-.	* Tracheostomy  
-	If upper airway obstruction worsens.
-* Rebound may occur at ~2 hours
-
-
-
-###Reducing Intraoperative Heat Loss
-Reduce:
-* Unncessary exposure
-
-Increase warming with:
-* Radiant heaters
-* Warm fluids
-	* Intravenous
-	* Irrigation
-	* Skin preparation
-* Active warmers
-* Adjust operating theatre temperature
-	* 20-22°C for children
-	* 26-28°C for neonates
-* Humidified ventilators
-	* Circle system with HME
-	* Inspiratory humidifiers
 
 
 ---
