@@ -187,6 +187,7 @@
 * [Opthalmology](/anaesthesia/opthal/opthal-la.md#id)
 	* [Procedures under LA](/anaesthesia/opthal/opthal-la.md#id)
 * [Paediatrics](/anaesthesia/paeds/paed-considerations.md)
+	* [Apnoea](/anaesthesia/paeds/apnoea.md)
 	* [Premedication](/anaesthesia/paeds/premedication.md)
 	* [Perioperative Respiratory Complications](/anaesthesia/paeds/periop-resp.md)
 	* [Post-operative Apnoea](/anaesthesia/paeds/apnoea.md)
@@ -206,7 +207,6 @@
 	* [Elective AAA](/anaesthesia/vascular/elective-aaa.md)
 	* [Endovascular AAA](/anaesthesia/vascular/endovascular.md)
 	* [TAA](/disease/cvs/taa.md)
-
 	* [Carotid Endarterectomy](/anaesthesia/vascular/carotid.md)
 * [Interventional Radiology](/anaesthesia/ir/isletcelltx.md#id)
 	* [Islet Cell Transplant](/anaesthesia/ir/isletcelltx.md)
