@@ -61,22 +61,24 @@ Key symptoms include:
 
 
 ##Diagnostic Approach and DDx
-Differentiating Pathological and Non-Pathological Murmurs:
+> There are more detailed tables cover this in textbooks, but this approach is probably more practical than deciding if a murmur is "musical"
 
-|Finding|Innocent Murmurs|Pathological Murmurs|
-|**Symptoms**|Asymptomatic|Symptomatic|
-|**Timing**|Early systolic or continuous|Diastolic pansystolic, or late systolic|
-|**Quality**|Blowing, "musical"|Variable/harsh|
-|**Thrill**|Never|Potential|
-|**Postural Variation**|Common|Rare|
-
+Innocent murmurs:
+* Have no signs of cardiac disease
+* Are not harsh
+* Are not purely diastolic
+* Are not purely pansystolic
+* Have no thrill
+ 
 
 ##Investigations
 ECG:
 * Evaluate evidence of ventricular hypertrophy
 
+CXR
+
 ##Management
-Factors favouring postponement and paediatric cardiology involvement:
+Factors favouring postponement, ECG, and paediatric cardiology opinion:
 * Patients <1 year  
 Severe pathology may be present in absence of symptoms.
 * Symptomatic patients
@@ -87,6 +89,15 @@ Factors favouring proceeding with surgery prior to evaluation:
 * Age ⩾ 1 year
 * Normal ECG
 
+
+###Timing of Review
+Urgency of cardiology review depends on age:
+* Neonates  
+Hours.
+* Infants  
+Days.
+* Children  
+Weeks.
 
 
 ---

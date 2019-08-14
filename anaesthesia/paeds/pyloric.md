@@ -1,7 +1,7 @@
 #Pyloromyotomy
 >Airway: ETT <br>
 >Access: IV required <br>
->Pain: Simple analgesia and local <br>
+>Pain: Simple analgesia and local; **no opioids** <br>
 >Position: Supine <br>
 >Time: 30 minutes to 1 hour <br>
 >Blood loss: Minimal <br>
@@ -41,17 +41,21 @@ Hypokalaemic hypochloraemic metabolic alkalosis.
 		* Urine output
 		* Resuscitation performed:  
 		Adequate resuscitation may take up to 72 hours.
-			* Inital resuscitation of shock with standard solutions
+			* Initial resuscitation of shock with standard solutions
 			CSL or Albumin.
 			* Correct volume with salt and dextrose containing solutions  
 				* Usually requires addition of potassium 40mmol/L
 * F
-	* Alkalosis
+	* Hypochloraemic metabolic alkalosis
 		* Off-loading of oxygen is impaired in alkalotic states  
 		More important in neonates due to foetal haemoglobin level.
 		* Compensatory respiratory acidosis is common  
-		Extent of compensation (i.e. PaCO<sub>2</sub>) is a marker of severity of dehyration.
+		Extent of compensation (i.e. PaCO<sub>2</sub>) is a marker of severity of dehydration.
 		* Respiratory alkalosis (secondary to hypovolaemic shock) suggests **critical** dehydration
+		* Potassium may be high, normal, or low, depending on the degree of acidosis and the volume state  
+			* As volume state falls, aldosterone will increase Na<sup>+</sup> retention and lead to hypokalaemia
+			* As hypokalaemia worsens, the kidney will then retain Na<sup>+</sup> and eliminate H<sup>+</sup>  
+			This leads to a paradoxically acidic urine.
 		* HCl may be used to correct severe alkalosis but is rarely necessary
 	* Hyponatraemia/electrolyte derangement  
 	May be present but masked by dehydration.
@@ -66,8 +70,8 @@ Hypokalaemic hypochloraemic metabolic alkalosis.
 	* SpO<sub>2</sub>
 	* ECG
 	* Blood pressure
-* Ensure stomach has been aspirated  
-Premedicate with atropine (0.02mg/kg) prior to decompressoin.
+* Place a **new** large bore orogastric tube and perform 4-quadrant suction    
+Premedicate with atropine (0.02mg/kg) prior to decompression.
 
 ##Induction
 * Rapid sequence induction

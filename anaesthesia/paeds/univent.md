@@ -93,12 +93,59 @@ The Fontan procedure:
 ###Surgical Stages
 Involves creation of:
 * An IVC to right PA conduit
-* A 4mm fenestration  
+* +/- A 4mm fenestration  
 Allows right-to-left shunting to occur, which:
 	* Prevents development of pulmonary hypertension
 	* Reduces venous congestion and the associated complications
 	* Ensures some ventricular filling is maintained, even if PVR is transiently elevated
 	* Leads to post-operative SpO<sub>2</sub> of ~89%
+
+
+###Anaesthetic Considerations
+For anaesthetising a patient with a Fontan circulation:
+* Get SET
+	* Is this the right centre/should they be transferred?
+	* Do you have the right team?
+* B
+	* Minimise PVR  
+	TPG must be kept low to maintain CO. Aim:
+		* Spontaneous ventilation if possible
+		* Normoxia
+		* Normocarbia
+		* If IPPV required:
+			* Minimal PEEP
+			* Minimise Pip
+			* Long expiratory time
+* C
+	* Assess cardiac function
+		* Is there a fenestration?  
+		Reduces hypotension from transiently increased TPG/PAP, at the cost of shunt.
+		* Exercise tolerance
+		* Cardiac complications:
+			* Dysrhythmias
+			* Ventricular dysfunction
+			* Raised PAPs
+	* Strongly consider arterial line
+	* Consider central line
+	* Optimise preload  
+	Will drop on induction and is critical to maintain VR and CO; ensure adequately resuscitated and well-filled before induction.
+	* Minimise Common Atrial Pressure
+		* Avoid dysrhythmia  
+		Particularly AF.
+		* Normal A-V valve function
+		* Optimise ventricular function
+	* Avoid increased afterload
+* E
+	* Elevate head and feet  
+	Optimise venous return
+* G
+	* Assess other complications:
+		* Ascites
+		* Protein losing enteropathies  
+		Raised venous pressures reduce lymphatic flow and nutrient absorption.
+* H
+	* Bleeding risk  
+	Increased due to raised venous pressures.
 
 
 ---

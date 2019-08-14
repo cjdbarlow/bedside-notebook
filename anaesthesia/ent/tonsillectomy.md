@@ -2,7 +2,7 @@
 
 >Airway: Requires either a south RAE, reinforced ETT, or flexible LMA. <br>
 >Access: 22G-18G, depending on  age.<br>
->Pain: Moderate. <br>
+>Pain: Moderate; see below. <br>
 >Position: Supine, head elevated with neck extended. <br>
 >Time: 30-60min. <br>
 >Blood loss: Usually minimal; ~4ml/kg in children. May be difficult to estimate if blood enters stomach.<br>
@@ -62,6 +62,26 @@ Reduced incidence of post-extubation complications.
 Maintenance with:
 * Propofol/remifentanil  
 Smooth haemodynamics and emergence.
+* Deep volatile
+
+
+###Analgesia Strategies
+> Goal is to provide adequate analgesia and avoid post-operative apnoeas
+
+A recipe:
+* Dexamethasone 0.2mg/kg
+* Paracetamol 15mg/kg
+* Parecoxib 1mg/kg
+
+Opioid strategy will depend on degree of OSA:
+* No OSA  
+	* Morphine 0.1-0.2mg/kg.
+* Mild OSA
+	* Fentanyl 1-2mcg/kg
+	* Tramadol 2mg/kg
+* Severe OSA
+	* Fentanyl 1-2mcg/kg
+	* Ketamine
 
 ###Surgical Stages
 * Positioning

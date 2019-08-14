@@ -85,9 +85,13 @@ Mitigate with use of an axillary role.
 Avoid by placing padding between legs.
 
 
-###Seated
+###Seated/Beachchair
+* Airway oedema
+* Decreased cerebral perfusion pressure  
+Consider arterial line placed at the level of the EAM to maintain cerebral perfusion.
+	* Catastrophic cerebral hypoperfusion is rare but described
 * Reduced venous return  
-Can lead to significant hypotension
+Can lead to significant hypotension.
 * Venous air embolism  
 Subatmospheric venous pressure and non-collapsible dural sinus predispose to this.
 
@@ -100,3 +104,4 @@ Covered in detail under [prone positioning](/anaesthesia/general/proneanaes.md).
 
 ##References
 1. Knight DJW, Mahajan RP. [Patient positioning in anaesthesia](https://academic.oup.com/bjaed/article/4/5/160/291023). Continuing Education in Anaesthesia Critical Care & Pain. Oct 2004.
+2. Pearce H, Soeding P, Hoy G. [Surgery in the "beach chair" position](http://www.anzca.edu.au/documents/the-beach-chair-position). ANZCA Bulletin. December 2013.
