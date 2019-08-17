@@ -8,6 +8,14 @@ Sleep disorder defined as **cessation of airflow for more than 10 seconds**:
 
 
 ##Epidemiology and Risk Factors
+OSA is:
+* Highly prevalent in Australian population
+	* 24% of men
+	* 9% of women
+* Responsible for significant societal costs
+* Underdiagnosed and undertreated
+
+
 Risk factors for OSA include:
 * Severe obesity  
 Major risk factor.
@@ -26,23 +34,63 @@ Non-obese individuals with sleep apnoea usually have another structural problem,
 * Tonsillar hypertrophy
 * Chronic nasal obstruction
 
+
 ##Pathophysiology
-###Aetiology
+Four main pathophysiological causes:
+* Anatomical compromise  
+Narrow or crowded upper airway, from:
+	* Craniofacial morphology
+	* Hyoid position
+	* Airway surface tension
+	* Tongue scalloping
+* Non-anatomical
+	* Ineffective pharyngeal dilator
+	* Low arousal threshold
+	* Unstable control of breathing
+
+
+Pharyngeal closing pressure:
+* Evaluates the CPAP required to maintain airway patency
+* CPAP is gradually decreased during stable sleep, until airflow limitation occurs
+* Patients with OSA commonly have a pharyngeal closing pressure close to atmospheric pressure
+* OSA is rare in patients with Pcrit lower than -5cmH<sub>2</sub>O
+
+
+Loop gain:
+* General term describing behaviour of a feedback-control system
+* With respect to OSA, describes the change in ventilatory response due to ventilatory disturbance  
+Consists of:
+	* CO<sub>2</sub> gain in tissues
+	* Circulatory time  
+	Time taken for change in CO<sub>2</sub> to mix with blood and reach chemoreceptors
+	* Chemoreceptor sensitivity
+* High loop gain leads to exaggerated ventilatory responses
+
 ##Assessment
 Patients (or partners) may complain of:
 * Snoring
 * Daytime somnolence
-* 
+* Neurocognitive impairment
 
-##Diagnostic Approach and DDx
+Examination:
+* Weight and BMI
+* ENT exam
+	* Septal deviations
+	* Turbinate hypertrophy
+	* Oral cavity
+		* Mallampati score
+		* Macroglossia
+		* Enlarged uvula
+		* Tonsillar hypertrophy
+
 ##Investigations
 Polysomogram is:
 * Diagnostic
 * Used to grade severity  
 Given as the **apnoea-hypopnoea index** (AHI), the **total number of apnoeas or hypopnoeas per hour of sleep**.
-	* Mild: 6-20
-	* Moderate: 21-40
-	* Severe: ⩾40
+	* Mild: 5-15
+	* Moderate: 16-30
+	* Severe: ⩾31
 * A highly involved study
 	* Waiting lists may be extensive
 * An evaluation of multiple parameters:
@@ -65,7 +113,29 @@ Given as the **apnoea-hypopnoea index** (AHI), the **total number of apnoeas or 
 	Monitors leg movements.
 
 
+FNE:
+* Allows assessment of oral and nasal cavity
+
+
 ##Management
+Largely focuses on correcting anatomical causes:
+* CPAP  
+Increases pharyngeal pressure above closing pressure, maintaining airway patency.
+	* Indicated in moderate to severe disease
+	* Improves sleep quality and quality of life
+	* Reduces pulmonary complications
+
+
+Surgery:
+* Indicated in patients with severe OSA unable or unwilling to use CPAP
+* Options depend on location and degree of obstruction, but include:
+	* Septoplasty/turbinate reduction  
+	May improve nasal breathing and CPAP compliance.
+	* UPPP/UPF  
+	~40% reduction in AHI.
+	* Tongue base reduction  
+	~54% reduction in AHI. Usually combined with another procedure.
+
 ###Anaesthetic Considerations
 * A
 	* CPAP available  
@@ -87,7 +157,6 @@ Given as the **apnoea-hypopnoea index** (AHI), the **total number of apnoeas or 
 		* Benzodiazepines
 		* Opioids
 
-###Ineffective Therapies
 ##Complications
 Hypoxaemia and hypercarbia in severe OSA has several cardiovascular sequelae:
 * Arrhythmia  
@@ -102,9 +171,14 @@ Due to changed autonomic tone.
 		* Increased sympathetic tone  
 		Due to hypoxia.
 		* Increased transmural pressure from more neagative intrathoracic pressure due to inspiratory effort against upper airway obstruction
-		
-##Prognosis
+
+Multiple associations with:
+* Hypertension
+* CVA
+* MVA
 
 ---
 ##References
 1. De Hert, S., Staender, S., Fritsch, G., Hinkelbein, J., Afshari, A., Bettelli, G., Wappler, F. (2018). Pre-operative evaluation of adults undergoing elective noncardiac surgery: Updated guideline from the European Society of Anaesthesiology. European Journal of Anaesthesiology (Vol. 35).
+2. Osman AM, Carter SG, Carberry JC, Eckert DJ. Obstructive sleep apnea: current perspectives. Nature and Science of Sleep. doi:10.2147/NSS.S124657
+3. Jun JC, Chopra S, Schwartz AR. Sleep apnoea. European Respiratory Review. 2016;25(139):12-18. doi:10.1183/16000617.0077-2015
