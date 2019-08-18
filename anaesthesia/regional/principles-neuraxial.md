@@ -27,7 +27,7 @@ Relative contraindications:
 * Leukocytosis  
 WCC > 20 x 10<sup>9</sup>/L.
 * Infection
-    * Chorioamnioitis
+    * Chorioamnionitis
     * Usually safe to insert if temperature is < 38°C and patient is on antibiotics.
 * CVS disease:
 	* AS  

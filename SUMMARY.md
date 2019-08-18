@@ -104,6 +104,7 @@
 	* [TIVA](/anaesthesia/general/tiva.md)
 	* [Trigger-Free Anaesthesia](/anaesthesia/general/trigger.md)
 * [Regional Anaesthesia](/anaesthesia/regional/principles.md)
+	* [Complications](/anaesthesia/regional/complications.md)
 	* [Neuraxial](/anaesthesia/regional/principles-neuraxial.md)
 		* [Spinal](/anaesthesia/regional/spinal.md)
 		* [Epidural](/anaesthesia/regional/epidural.md)

@@ -1,13 +1,12 @@
 #Principles of Regional Anaesthesia
 
-*This section covers aspects common to peripheral nerve blockade.*
+*This section covers aspects common to peripheral nerve blockade. [Complications](/anaesthesia/regional/principles.md) are covered elsewhere.*
 
 This section is divided into:
 * Requirements
 * Procedural techniques
 * Delivery mechanisms
 * LA dosing
-* Complications and risk-reduction methods
 
 ##Requirements
 Requires:
@@ -107,8 +106,10 @@ Troubleshooting:
 
 
 ##Dosing
+
 **Single-shot:**
-||Lignocaine|Bupivacaine|Ropivacaine|
+
+|Factors|Lignocaine|Bupivacaine|Ropivacaine|
 |--|--|
 |**Concentration**|1-2%|0.25-0.5%|0.5-1%|
 |**Dose**|< 4mg/kg|< 2mg/kg|< 3mg/kg|
@@ -117,69 +118,11 @@ Troubleshooting:
 
 
 **Continuous Infusion:**
+
 ||Bupivacaine|Ropivacaine|
 |--|--|
 |**Concentration**|0.125-0.25%|0.2%|
 |**Maximum Dose Rate**|Up to 18.75mg/hr|Up to 28mg/hr|
-
-##Complications
-* Local Anaesthetic Systemic Toxicity (LAST)
-	* Occurs in ~1/1,000-1/10,000 regional techniques
-		* Cardiac arrest in ~1/25,000
-	* Techniques to avoid LAST:
-		* Aspirate repeatedly
-		* Inject LA in discrete boluses
-		* Ensure good spread of LA on ultrasound
-		* Inject slowly
-
-* Vascular injury
-	* Haematoma  
-	May lead to compression and secondary injury.
-	* Techniques to avoid vascular injury:
-		* Identify vessels prior to injection
-		* Choose a needle path that minimises peri-vascular approach
-		* Compress veins during needle passage (after they have been identified)
-	* **Management of anticoagulants**  
-	Peripheral nerve blocks are low risk for serious bleeding. *In general* (and **in absence of other risk factors**; such as age, renal/hepatic disease, history of major bleeding):
-		* Aspirin and NSAIDs do not need to be discontinued  
-		* P2Y12 inhibits do not need to be discontinued  
-		Includes clopidogrel, ticagrelor, prasugrel.
-		* Warfarin may safely be continued if INR < 3.0  
-		Cessation should be discussed with treating team.
-		* UFH should be ceased at least 4 hours before the procedure, and restarted 2 hours after
-		* Prophylactic-dose LMWH should be last given at least 12 hours prior
-		* Therapeutic-dose LMWH should be last given at least 24 hours prior
-		* NOACs may be safely continued  
-		Cessation should be discussed with the treating team, and at least 2 drug half-lifes should occur between cessation and intervention.
-
-
-* Nerve injury
-	* ~2-4/10,000 blocks
-	* Not reduced with ultrasound guidance
-	* Deficits:
-		* Predominantly sensory  
-		Paraesthesias.
-		* Typically resolve in less than a month:
-			* 92% resolve in 1 month
-			* 96% in 3 months
-			* > 99% in 6 months
-	* Risk factors
-		* Intraneural injection  
-		Injection of LA should be performed outside of the connective tissue sheath of the nerve, in the plane of cleavage between epineurium and the extraneural connective tissue layers.
-			* Should be a low-pressure, hydrodissection of the space
-			* Intraneural injection may be identified as nerve expansion under ultrasound
-	* Techniques to avoid nerve injury:
-		* Avoid paresthesiae
-		* Use atraumatic needle
-
-
-* Infection
-	* Risk is increased with use of continuous catheters versus single-shot techniques  
-	Catheters should be placed under strict asepsis.
-
-
-* Block-specific complications  
-Covered in detail under specific blocks; examples include phrenic nerve block after performing a supraclavicular brachial pleuxus block.
 
 
 ---
