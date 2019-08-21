@@ -34,37 +34,67 @@ Non-obese individuals with sleep apnoea usually have another structural problem,
 * Tonsillar hypertrophy
 * Chronic nasal obstruction
 
+###STOP-BANG Score
+STOP-BANG assesses the probability of a having OSA, and may be used perioperatively to predict baseline risk of respiratory events:
+* Each factor gets 1 point
+* **S**noring  
+Snoring loudly overnight.
+* **T**ired  
+Daytime somnolence.
+* **O**bserved  
+To stop breathing/choking during sleep.
+* **P**ressure  
+Presence of hypertension.
+* **B**MI  
+⩾35kg/m<sup>2</sup>.
+* **A**ge  
+⩾50.
+* **N**eck size
+* ⩾43cm (male), 41cm (female).
+* **G**ender  
+Male.
+
+
+Interpretation:
+* Low risk  
+0-2 points.
+* Moderate risk  
+3-4 points.
+* High risk  
+Any of:
+	* 5-8 points
+	* 2 points + male
+	* 2 points + BMI
+	* 2 points + neck circumference 
+
 
 ##Pathophysiology
 Four main pathophysiological causes:
-* Anatomical compromise  
+* **Anatomical compromise**  
 Narrow or crowded upper airway, from:
 	* Craniofacial morphology
 	* Hyoid position
 	* Airway surface tension
 	* Tongue scalloping
-* Non-anatomical
-	* Ineffective pharyngeal dilator
-	* Low arousal threshold
-	* Unstable control of breathing
+* **Non-anatomical**
+	* **Low arousal threshold**
+	* **Ineffective pharyngeal dilator**  
+	Pharyngeal closing pressure:
+		* Evaluates the CPAP required to maintain airway patency
+		* CPAP is gradually decreased during stable sleep, until airflow limitation occurs
+		* Patients with OSA commonly have a pharyngeal closing pressure close to atmospheric pressure
+		* OSA is rare in patients with Pcrit lower than -5cmH<sub>2</sub>O
+	* **Unstable control of breathing**  
+	Loop gain:
+		* General term describing behaviour of a feedback-control system
+		* With respect to OSA, describes the change in ventilatory response due to ventilatory disturbance  
+		Consists of:
+			* CO<sub>2</sub> gain in tissues
+			* Circulatory time  
+			Time taken for change in CO<sub>2</sub> to mix with blood and reach chemoreceptors
+			* Chemoreceptor sensitivity
+		* High loop gain leads to exaggerated ventilatory responses
 
-
-Pharyngeal closing pressure:
-* Evaluates the CPAP required to maintain airway patency
-* CPAP is gradually decreased during stable sleep, until airflow limitation occurs
-* Patients with OSA commonly have a pharyngeal closing pressure close to atmospheric pressure
-* OSA is rare in patients with Pcrit lower than -5cmH<sub>2</sub>O
-
-
-Loop gain:
-* General term describing behaviour of a feedback-control system
-* With respect to OSA, describes the change in ventilatory response due to ventilatory disturbance  
-Consists of:
-	* CO<sub>2</sub> gain in tissues
-	* Circulatory time  
-	Time taken for change in CO<sub>2</sub> to mix with blood and reach chemoreceptors
-	* Chemoreceptor sensitivity
-* High loop gain leads to exaggerated ventilatory responses
 
 ##Assessment
 Patients (or partners) may complain of:

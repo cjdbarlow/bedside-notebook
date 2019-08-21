@@ -213,6 +213,9 @@ Deoxyribonucleic Acid
 ##DM
 Diabetes Mellitus
 
+##DMD
+Duchenne Muscular Dystrophy
+
 ##DOP
 D-type (δ) opioid receptor
 

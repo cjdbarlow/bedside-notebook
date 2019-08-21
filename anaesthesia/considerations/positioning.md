@@ -21,6 +21,13 @@ Function and position must be checked after moving:
 
 
 ##Positions
+Include:
+* Supine
+* Trendelenburg
+* Reverse Trendelenburg
+* Lateral
+* [Prone](/anaesthesia/general/proneanaes.md)
+
 ###Supine
 * Increased risk of airway obstruction
 * Decreased FRC
@@ -33,12 +40,18 @@ May lead to postoperative lower back pain.
 
 ###Trendelenburg
 The head-down position:
-* Results in more extreme CVS changes than the supine position
-* Further reduction in FRC and increased atelectasis  
-Greater in obese patients due to weight of abdominal viscera
+* Airway oedema  
+Due to increased venous pressure.
+	* Check cuff leak prior to extubation
+	* Consider dexamethasone
+* Passive regurgitation of gastric contents
+* Further reduction in FRC, compliance, and increased atelectasis  
+Greater in obese patients due to weight of abdominal viscera.
+* Results in more extreme CVS changes than the supine position  
+	* Increased VR and LVEDP  
+	Beware cardiac failure.
 * Raised ICP
 * Raised IOP
-* Increased passive regurgitation
 
 
 ###Reverse Trendelenburg
@@ -48,7 +61,7 @@ May lead to hypotension.
 * Reduces ICP  
 Via increased venous drainage.
 * Reduces CCP  
-Via decrease in MAP at the level of the CoW.
+Via decrease in MAP at the level of the Circle of Willis.
 * Increased risk of venous air embolism
 
 
@@ -74,12 +87,12 @@ In the positively-pressure ventilated patient in the lateral position:
 * Increased V/Q mismatch  
 May lead to hypoxia. Occurs as the:
 	* Dependent lung is relatively underventilated and overperfused
-	* Non-dependent lung is relatively overperfused and underventilated
+	* Non-dependent lung is relatively overventilated and underperfused
 * Highest risk of **ocular complications**  
 Predominantly corneal abrasions.
 * Brachial plexus compression
 * Axillary compression  
-Mitigate with use of an axillary role.
+Mitigate with use of an axillary roll.
 * Venous outflow obstruction of dependent arm
 * Peroneal and saphenous nerve compression  
 Avoid by placing padding between legs.
@@ -97,7 +110,7 @@ Subatmospheric venous pressure and non-collapsible dural sinus predispose to thi
 
 
 ###Prone
-Covered in detail under [prone positioning](/anaesthesia/general/proneanaes.md).
+*Covered in detail under [prone positioning](/anaesthesia/general/proneanaes.md)*.
 
 
 ---

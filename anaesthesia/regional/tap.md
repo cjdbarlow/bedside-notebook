@@ -2,11 +2,11 @@
 
 The TAP block is a regional technique to provide analgesia to the anterior abdominal wall, between the mid-clavicular lines. There are three approaches:
 * Posterior approach  
-Performed laterally above the iliac crest, and provides analgesia below the umbilicus
+Performed laterally above the iliac crest, and provides analgesia below the umbilicus.
 * Subcostal approach  
-Performed under the costal margin, lateral to the rectus, and provides periumbilical analgesia
+Performed under the costal margin, lateral to the rectus, and provides periumbilical analgesia.
 * Oblique subcostal approach  
-Multiple injections along the oblique subcostal line, pr
+Multiple injections along the oblique subcostal line, and provides analgesia to upper abdominal incisions.
 
 ##Indications
 * Abdominal surgery where epidural would be excessive or contraindicated
@@ -16,8 +16,8 @@ Multiple injections along the oblique subcostal line, pr
 	* The internal and external oblique muscles separate rectus and transversus abdominus more laterally
 	* Transversus abdominus may not be present superiorly  
 	If a block is performed here, then LA should be injected superior to the posterior rectus sheath.
-* The TAP contains the thoracolumber nerves (T6-L1) which innervate the abdominal wall
-* Thoracolumber nerves consist of intercostal, subcostal, iliohypogastric, and ilioinguinal nerves
+* The TAP contains the thoracolumbar nerves (T6-L1) which innervate the abdominal wall
+* Thoracolumbar nerves consist of intercostal, subcostal, iliohypogastric, and ilioinguinal nerves
 * All travel beneath the rectus and run for a variable distance through the TAP before penetrating the rectus sheath  
 This may occur quite laterally, so **medial blocks may miss the nerve** as it travels through the TAP.
 

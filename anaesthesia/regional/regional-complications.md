@@ -73,32 +73,35 @@ Deficits:
 
 
 ###Management of Nerve Injury
-* Review:
-	* Anaesthetic record
-	* Surgical record
-	* Drug chart
-	* Observations
-* Evaluate deficit  
-	* Mild/resolving symptoms or persistent sensory deficit
-		* Reassure and review in 4 weeks  
-		If ongoing persistent symptoms:
-			* Neurology referral
-			* Consider:
-				* MRI
-				* Nerve conduction studies
-				* Electromyography
-	* Complete/progressive deficit or **any motor deficit**
-		* Immediate neurological referral
+Review:
+* Anaesthetic record
+* Surgical record
+* Drug chart
+* Observations
+
+
+Evaluate deficit  
+* Mild/resolving symptoms or persistent sensory deficit
+	* Reassure and review in 4 weeks  
+	If ongoing persistent symptoms:
+		* Neurology referral
 		* Consider:
+			* MRI
 			* Nerve conduction studies
 			* Electromyography
-			* Further imaging  
-			Expedite if potential requirement for urgent decompression.
-		* Consider:
-			* Surgical causes
-			* Need for surgical intervention
+* Complete/progressive deficit or **any motor deficit**
+	* Immediate neurological referral
+	* Consider:
+		* Nerve conduction studies
+		* Electromyography
+		* Further imaging  
+		Expedite if potential requirement for urgent decompression.
+	* Consider:
+		* Surgical causes
+		* Need for surgical intervention
 
 
 ---
+##References
 
 1. Regional Anaesthesia United Kingdom. [Management of nerve injury associated with regional anaesthesia](https://www.ra-uk.org/images/Documents/NERVE_INJURY_management_algorithm_RAUK_April2015.pdf). 2015. 
