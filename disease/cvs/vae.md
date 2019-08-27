@@ -3,11 +3,11 @@
 
 ##Epidemiology and Risk Factors
 Risk factors for venous air embolism:
-* Open veins
-Some veins may be tethered open, greatly increasing risk:
-	* **Bone**  
-	* Dura
-* Elevation of bein above the RA
+* Open veins above the RA
+	* Position dependent
+	* Some veins may be tethered open, greatly increasing risk:
+		* **Bone**  
+		* Dura
 * CVP  
 High CVP is protective.
 
@@ -23,7 +23,7 @@ Interstitial/pulmonary oedema due to local inflammation.
 ##Assessment
 VAE may be graded by its clinical severity:
 * Small  
-< 10ml.
+⩽10ml.
 	* Only visible on TOE
 	* Nil CVS compromise
 * Moderate  
@@ -35,12 +35,13 @@ VAE may be graded by its clinical severity:
 	Due to shunt. A drop in end-tidal is **always significant**.
 	* Bubbles visibile on TOE
 * Large  
-> 50ml.
+⩾50ml.
 	* ↓ BP due to obstructive shock
-	* ↑ or ↓ in HR
+	* ↑ Or ↓ in HR
 	* ↑ CVP due to RV failure  
 	* Signs of RV strain/dysrhythmia.
 	* Cardiac arrest may occur
+
 
 
 ###History
@@ -64,11 +65,11 @@ As moderate, and:
 	* Consider **hyperbaric oxygen**
 
 ###Anaesthetic Considerations
-In high-risk situations, consider pre-emptive **protective management**:
+In high-risk situations, consider preemptive **protective management**:
 * Volume loading
 	* 10ml/kg 4% albumin
-	* Neck *venous* torniquet
-* Avoid valsalva  
+	* Neck *venous* tourniquet
+* Avoid Valsalva  
 May increase right-to-left shunting in the presence of a foramen ovale, leading to paradoxical embolism.
 
 
@@ -76,6 +77,8 @@ May increase right-to-left shunting in the presence of a foramen ovale, leading 
 * Air aspiration
 	* Generally ineffective
 	* More effective with specially designed multi-orifice catheters, but these will generally need to be placed prior to the embolism occurring
+
+
 ##Complications
 ##Prognosis
 

@@ -9,11 +9,13 @@
 		* Junctional
 		* Post-junctional
 
+###Types of Neuromuscular Disease
+
 |Cause|Congenital|Acquired|
 |--|--|
 |Pre-junctional|Peripheral Neuropathies:<br>- Charcot-Marie-Tooth<br>- Fredrichs ataxia|- Motor neurone disease<br>- MS<br>- GBS<br>- Diabetic neuropathy|
 |Junctional||- MG<br>- Eaton-Lambert Syndome|
-|Post-junctional|Dystrophicas:<br>- Duchenne<br>- Becker's<br>Myotonias:<br>- Myotonic Dystrophy<br>- Myotonia congenita<br>- Hyper-, hypokalaemic periodic paralysis<br>Metabolic disorders<br>Mitochondrial disorders|- Inflammatory myopathies<br>- Critical illness myopathy|
+|Post-junctional|Dystrophicas:<br>- Duchenne<br>- Becker's<br><br>Myotonias:<br>- Myotonic Dystrophy<br>- Myotonia congenita<br>- Hyper-, hypokalaemic periodic paralysis<br><br>Metabolic disorders<br><br>Mitochondrial disorders|- Inflammatory myopathies<br>- Critical illness myopathy|
 
 
 
