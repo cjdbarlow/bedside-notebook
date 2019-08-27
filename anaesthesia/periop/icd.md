@@ -16,7 +16,7 @@ Diagnostic tool used in recurrent unexplained syncope.
 ##Risks
 Include:
 * Electromechanical interference  
-External electrical stimuli (e.g. due to diathermy) may intefere with pacemaker function in three ways:
+External electrical stimuli (e.g. due to diathermy) may interfere with pacemaker function in two ways:
 	* Over-sensing  
 	The pacemaker interprets EMI as intrinsic activity, and does not pace despite the intrinsic rhythm being inadequate. This:
 		* Will result in the underlying rhythm being the actual rhythm  

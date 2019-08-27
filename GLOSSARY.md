@@ -258,6 +258,9 @@ Estimated Gestational Age
 ##ELM
 External Laryngeal Manipulation
 
+##EMI
+Electromechanical Interference
+
 ##EOD
 Explosive Ordinance Disposal
 
