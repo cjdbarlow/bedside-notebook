@@ -51,11 +51,17 @@ Surgical:
 * Therapeutic
 
 ###Anaesthetic Considerations
+> Degree of compression may worsen as the mass shifts, which may occur with:
+>	* Induction of anaesthesia
+>	* Loss of spontaneous ventilation
+>	* Muscle relaxation
+
 * Team
 	* Surgeon available  
 		* With rigid bronchoscope
 		* To perform emergent sternotomy and relieve compression of mass.
 * A
+	* **Mass effect on airway**  
 	* Airway plan and induction
 		* Awake fibreoptic
 			* Safest
@@ -80,25 +86,26 @@ Surgical:
 			* Mainstem bronchi
 			* Carina
 * B
+	* **Mass effect on lungs**  
+		* Reduced lung volume
+		* Bronchial muscle relaxation  
+		Occurs under GA, and increases airway compressibility.
 	* Ventilation strategy
 		* **Maintenance of spontaneous ventilation**  
 		Desirable to minimise adverse cardiac effects.
 		* Positive pressure ventilation  
 		Ideally commenced gradually, with progressive taking-over of spontaneous ventilation.
-	* Reduced lung volume
-	* Bronchial muscle relaxation  
-	Occurs under GA, and increases airway compressibility.
 * C
-	* Invasive pressure monitoring
-	* **Mediastinal mass**  
+	* **Mass effect on heart and great vessels**  
 	Evaluate:
 		* Size
 		* Location  
 		Relation to vascular tree/airway.
 		* Compression
-	* SVC obstruction  
-		* Increased venous pressures and bleeding
-		* IV access preferentially in lower limbs
+			* SVC obstruction  
+				* Increased venous pressures and bleeding
+				* IV access preferentially in lower limbs
+	* Invasive pressure monitoring
 * D
 	* Anaesthetic technique
 		* Local anaesthesia preferred
