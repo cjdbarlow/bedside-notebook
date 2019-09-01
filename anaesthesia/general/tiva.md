@@ -8,7 +8,10 @@ A pump run at a standard ml/hr rate.
 
 ##Indications
 Absolute:
-* MH
+* Trigger-free anaesthetic required
+	* Malignant hyperthermia
+	* Neuromuscular diseases  
+	Volatile may precipitate hyperkalaemia.
 * Long QT  
 QTc >500ms.
 * Tubeless ENT and thoracics
@@ -19,13 +22,29 @@ QTc >500ms.
 Relative:
 * Severe PONV
 * Difficult intubation or extubation
+* Remote location
+* Gas trapping/sleep apnoea  
+Offset of anaesthesia decoupled from ventilation.
+
+##Contraindications
+Relative:
+* Shock/cardiac dysfunction/complex anaesthesia
+	* Requires more involvement
+	* Decreased ability to measure and adjust values
+* Propofol contraindication
+	* Mitochondrial disease
+	* Risk of propofol infusion syndrome
+	* Allergy
+* Lack of TCI pumps available
 
 ##Advantages
 * A
-	* Obtundation of airway reflexes
+	* Obtundation of airway reflexes  
+	Airway surgery.
 * B
 	* Reduced airway reactivity  
 	Smoother extubation and emergence.
+		* Reduced respiratory adverse events in children
 	* Potential preservation of hypoxic pulmonary vasoconstriction
 	* Allows spontaneous ventilation when titrated
 * C
@@ -37,6 +56,7 @@ Relative:
 * Other
 	* Decreased pollution
 	* Cheaper
+	* Benefit still exists even if converting from another anaesthetic modality (e.g. volatile)
 
 
 ##Disadvantages
@@ -66,7 +86,7 @@ All models perform well in practice, and any are reasonable. After 10 minutes th
 		* (Lack of) availability of TCI pumps in some institutions
 		* Variability within and between TCI models
 	* **Marsh**
-		* Plasma site targetting
+		* Plasma site targeting
 		* Requires:
 			* Total body weight
 			* Age  
@@ -88,13 +108,13 @@ All models perform well in practice, and any are reasonable. After 10 minutes th
 		Generally require larger initial bolus (greater V<sub>1</sub>) and infusion rate (increased clearance)
 		* Note highly variable propofol pharmacokinetics in neonates
 		* Widely available models include:
-			* **Paedfusor**
-				* Requires:
-					* Weight  
-					5-61kg.
-					* Age  
-					1-16 years.
-			* **Kataria**
+			* **Paedfusor**  
+			Requires:
+				* Weight  
+				5-61kg.
+				* Age  
+				1-16 years.
+			* **Kataria**  
 			Generally inferior to paedfusor.
 * Remifentanil
 	* Minto
@@ -109,9 +129,9 @@ TIVA:
 Propofol TIVA can be used:  
 	* On its own for sedation techniques
 	* With other drugs for GA  
-	Remifentanil is often used as its pharmacokinetic profile it is synergystic with propofol.
+	Remifentanil is often used as its pharmacokinetic profile it is synergistic with propofol.
 
-Performing safe TIVA:
+###Performing Safe TIVA
 * **In all cases, regular checking of anaesthesia delivery should occur**:
 	* The IV site should be visible and checked regularly to ensure drug delivery is occurring  
 	i.e. the drip has not tissued/become disconnected.
@@ -124,6 +144,29 @@ Performing safe TIVA:
 * Remove 3-way taps from the IV line at the end of the case and flush any dead space
 
 
+####TIVA Checklist
+1. Use dedicated TCI pumps if using TCI models
+2. Know what you're doing
+3. Ensure pumps have been serviced in the last 12 months
+4. Ensure pumps are powered and batteries are charged
+6. Ensure **drug dilutions** are correct and **entered correctly**
+7. Ensure correct syringe type and size data are entered
+8. Ensure **the right drug** is in the **right pump**
+9. Ensure infusion pressure alarms are set
+10. Ensure that the targets set are appropriate to the age and ASA status
+11. **Have a Plan B**
+
+
+####Failure of TCI Pumps
+In case of failure, consider:
+* Change to a volatile-based technique
+* Restart the pump at a manual infusion at the last known rate
+* Restart the pump in TCI mode
+	* Be prepared for exaggerated haemodynamic responses as the pump administers a bolus
+	* Up-titrate the infusion rate slowly
+
+
+
 ###Propofol TIVA for Sedation
 Propofol for sedation:
 * Typically targets an effect-site concentration of 2-4ug/ml
@@ -131,14 +174,25 @@ Propofol for sedation:
 
 ###Propofol TIVA for GA
 Propofol can also be used to provide general anaesthesia. This requires:
-* Requires a greater-effect site concentration than with remifentanil  
+* Requires a greater-effect site concentration when used alone
 Typically **an effect-site concentration of 7μg/ml is a reasonable starting point** in most well adult patients.
 	* Check to see if the bolus/loading dose given appears reasonable
+	* Reduction can be achieved with another analgesic, consider:
+		* Remifentanil
+		* Nitrous oxide
 * Titration to effect
 	* Depth of anaesthesia monitoring
 	* Loss of haemodynamic response or limb movement to vigorous jaw thrust
 	* Loss of haemodynamic response to laryngoscopy
-* Cease infusion once final sutures are applied, before application of dressings
+* Cease infusion once final sutures are applied, before application of dressings  
+The **decrement time** is useful for timing emergence:
+	* Decrement time set to a Ce at 1.8 appears to be a reliable marker for extubation in children
+
+Suggested Cp for propofol TIVA:
+
+|Sole Agent|Adjuncts|
+|--|--|
+|4-6μg/ml|3-4μg/ml|
 
 
 ###Propofol/Remifentanil TIVA for GA
@@ -174,26 +228,6 @@ Suggested minimum effect-site concentrations for propofol/remifentanil TIVA in a
 |\>50|PPF: 2-4ug/ml <br> Remi: 1-2ng/ml|PPF: 2-3μg/ml <br> Remi: 3-6μg/ml
 
 
-###TIVA Checklist
-1. Use dedicated TCI pumps if using TCI models
-2. Know what you're doing
-3. Ensure pumps have been serviced in the last 12 months
-4. Ensure pumps are powered and batteries are charged
-6. Ensure **drug dilutions** are correct and **entered correctly**
-7. Ensure correct syringe type and size data are entered
-8. Ensure **the right drug** is in the **right pump**
-9. Ensure infusion pressure alarms are set
-10. Ensure that the targets set are appropriate to the age and ASA status
-11. **Have a Plan B**
-
-
-###Failure of TCI Pumps
-In case of failure, consider:
-* Change to a volatile-based technique
-* Restart the pump at a manual infusion at the last known rate
-* Restart the pump in TCI mode
-	* Be prepared for exaggerated haemodynamic responses as the pump administers a bolus
-	* Up-titrate the infusion rate slowly
 
 
 ---
