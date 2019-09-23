@@ -162,6 +162,9 @@ Caesarian Section
 ##CT
 Collecting Duct
 
+##CTEPH
+Chronic Thrombo-Embolic Pulmonary Hypertension
+
 ##CTM
 Cricothyroid membrane
 
@@ -491,6 +494,9 @@ Pulmonary Artery Catheter
 
 ##PACU
 Post-Anaesthesia Care Unit
+
+##PAH
+Pulmonary Arterial Hypertension
 
 ##PBP
 Penicillin Binding Protein

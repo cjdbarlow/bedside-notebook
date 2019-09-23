@@ -9,16 +9,18 @@ The sciatic nerve:
 * Directly provides:
 	* Motor supply to the posterior compartment of thigh
 	* Sensory supply to posterior thigh
-* Divides at a variable location (but usually close to the popliteal fossa) into four key branches, which supply the foot and ankle:
+* Divides at a variable location (but usually close to the popliteal fossa) into the:
+	* **Common peroneal nerve**  
+	Divides at the knee into two branches which provides sensation to the posterolateral leg: 
+		* **Superficial peroneal nerve**  
+		Provides sensation to dorsum of foot and toes.
+		* **Deep peroneal nerve**  
+		Provides sensation to the web space between the great and second toe.
 	* **Tibial nerve**  
-	Supplies the sole of the feet.
-	* **Superficial peroneal nerve**  
-	Provides sensation to dorsum of foot and toes.
-	* **Deep peroneal nerve**  
-	Provides sensation to the web space between the great and second toe.
-	* **Sural nerve**  
-	Provides sensation to the heel, back of the ankle, and the lateral malleolus.
-
+	Innervates the posterior compartment and sole of the foot. Gives off the:
+		* **Sural nerve**  
+		Provides sensation to the heel, back of the ankle, and the lateral malleolus.
+		* **Posterior tibial nerve**
 
 
 

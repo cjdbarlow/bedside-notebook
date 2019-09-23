@@ -1,5 +1,7 @@
 #Supraclavicular Block
 
+The **spinal** block **of the arm**.
+
 ##Indications
 * Analgesia for arm and hand surgery  
 In particular:
@@ -35,6 +37,7 @@ Relative:
 	* Head rotated to contralateral side
 * Place probe parasagitally in supraclavicular fossa
 * **Identify brachial plexus**  
+In the "corner pocket":
 	* Superoanterior to SCA  
 	Pleura and 1st rib should be identifiable deep to SCA.
 	* Between scalenus anterior and scalenus medius
@@ -49,7 +52,7 @@ Ensure needle tip is placed superficial to the 1st rib.
 Specific complications include:
 * PTHx/HTx
 * Phrenic nerve block
-* Horners Sydnrome
+* Horners Syndrome
 * SCA injury
 
 ---

@@ -1,0 +1,234 @@
+#Pulmonary Hypertension
+
+Defined as a **mean PAP ⩾20mmHg**; and is classified by either:
+* Aetiology
+* Function
+
+###Aetiological Classification
+Into **five** types:
+* Type 1: Primary pulmonary **arterial** hypertension  
+Also known as pre-capillary pulmonary hypertension, as the primary disease is elevated *arterial* pressure.
+	* Defined as an **elevated PVR ⩾3 Wood Units**  
+	Suggests a poor prognosis.
+	* Causes include:
+		* Idiopathic
+		* Inheritable
+		* Drug and toxin induced
+		* PAH associated with:
+			* Connective tissue disease
+			* Congenital heart disease  
+			Due to intracardiac or extracardiac left-to-right shunts.
+			* HIV
+			* Portal hypertension
+			* Schistosomiasis
+* Type 2: Secondary to left heart disease  
+Passive transmission of elevated LAP, occurring due to LV dysfunction or valve disease. Classified into:
+	* Preserved LVEF
+	* Reduced LVEF
+	* Valvular disease
+	* Post-capillary PHTN
+* Type 3: Secondary to respiratory disease (Cor pulmonale)  
+Common complication of severe respiratory disease, but is usually mild. Includes:
+	* Obstructive disease
+	* Restrictive disease
+	* Mixed obstructive/restrictive
+	* Hypoxia without lung disease
+	* Developmental lung disorders
+* Type 4: Chronic thromboembolic PAH (CTEPH)  
+Chronic obstruction of the pulmonary bed occurring due to repeated PE.
+	* Occurs in ~3% of PE patients
+* Type 5: Uncertain mechanism of disease  
+Includes:
+	* Haematologic
+	* Metabolic
+	* Complex congenital cardiac disease
+
+
+###Functional Classification
+WHO definition by limitations to physical activity:
+* Class I  
+No limitations.
+* Class II  
+Slight limitation; comfortable at rest but **ordinary activity** leads to symptoms including:
+	* Fatigue
+	* Dyspnoea
+	* Chest pain
+	* Syncope
+* Class III  
+Marked limitation; comfortable at rest but **less than ordinary activity** leads to symptoms.
+* Class IV  
+Inability to perform **any activity** without symptoms. Patients:
+	* Manifest right heart failure
+	* May have rest symptoms  
+	Dyspnoea, fatigue.
+	* 27% 5-year survival rate without treatment  
+	Increased to 54% with treatment.
+
+
+
+##Epidemiology and Risk Factors
+##Pathophysiology
+###Aetiology
+##Assessment
+> Symptoms often present for up to two years prior to diagnosis
+
+Non specific cardiac and respiratory features:
+* Exertional dyspnoea
+* Fatigue
+* RV dysfunction
+	* Exertional chest pain
+	* Exertional syncope  
+	Rare.
+	* Fluid overload
+	* Anorexia
+	* Hepatic congestion
+		* Abdominal pain
+		* Ascites
+
+Examination:
+* Loud S2
+* Elevated JVP
+* Hepatomegaly
+* Pulsatile liver
+
+##Diagnostic Approach and DDx
+##Investigations
+Right heart catheterisation:
+* Diagnostic
+* Of greater utility in type 1 and type 2
+* Sometimes required to determine treatment eligibility
+
+Echocardiography:
+* Evaluate for signs and degree of PAH
+	* RVSP
+	* RV overload
+		* Flattening of IV septum
+		* 
+* Evaluate for signs of LV dysfunction as cause
+	* Enlarged LA
+	* LVH
+	* Raised E/e'
+* Evaluate for valvular disease as cause
+	* Mitral valve
+	* Aortic valve
+
+Imaging:
+* V/Q scan  
+Assess for pulmonary obstruction, as present in CTEPH.
+* HRCT  
+Assess for presence of primary respiratory disease.
+
+##Management
+> Management options depend on aetiology
+
+Principles of management:
+* Initial medical monotherapy for patients with mild-moderate disease
+* Prostanoid may be added as a **third line** agent
+* Consider prostacyclins as first line in severe disease
+
+
+###Acute Management
+Principles:
+* Treat any precipitating factors
+	* Arrhythmia  
+	**Restore sinus rhythm**.
+	* Sepsis
+	* Anaemia
+	* Thrombus
+* Optimise RV preload  
+Poor tolerance to change in loading conditions.
+	* Diuretics
+	* Fluid
+* Reduce RV afterload
+	* Inodilators  
+	Milrinone.
+	* Prostainoid
+	* Nitric oxide
+* Maintain RV perfusion pressure
+	* Vasopressors  
+		* Noradrenaline generally accepted as first line
+		* Vasopressin useful for patients resistant to noradrenaline
+* Improve RV contractility
+	* Inodilators
+	* Inotropes
+* ECMO
+
+###Medical Management
+Pulmonary vasodilators:
+* Prostacyclins  
+Increase dose as tolerated to prevent systemic hypertension.
+	* Epoprostenol
+		* Reduces mortality
+		* Administered by continued infusion  
+		Requires long-term central access.
+		* Temperature sensitive
+	* Iloprost
+		* Longer duration of action than epoprostenol
+		* May be nebulised Q4H or given by continued infusion
+* Endothelin receptor antagonists
+	* Bosentan
+	* Ambrisentan
+	* Macitentan
+* Phosphodiesterase inhibitors
+	* Sildenafil
+	* Tadalafil
+* Nitric oxide
+
+###Surgical Management
+Pulmonary endarterectomy:
+* May be performed for CTEPH
+* Very few centres capable
+* Perioperative mortality ~5%
+
+
+Transplantation:
+* Lung transplantation
+* Heart transplantation  
+* Heart-lung transplantation
+
+###Anaesthetic Considerations
+Increased perioperative morbidity and mortality.
+
+* A
+* B
+* C
+	* Preoperative medication optimisation
+	* 5-lead ECG
+	* Arterial line
+	* Consider CVC/PAC, TOE
+	* Have pulmonary vasodilators available  
+		* NO available
+	* Haemodynamically stable induction
+	* Potential acute RV dysfunction
+		* May lead to haemodynamic collapse  
+		The **spiral of death**.
+		* **Optimise** PVR by avoiding:
+			* Hypoxia
+			* Hypercarbia
+			* Acidosis
+			* Hypothermia
+			* Sympathetic stimulation  
+			Pain.
+			* RV overload  
+			Use appropriate PEEP; usually 5-8cmH<sub>2</sub>O.
+		* Optimise preload  
+		Narrow range of preload tolerance.
+			* Cautious fluid use
+			* Diuretics
+		* Defend RV perfusion
+		* Maintain sinus rhythm
+		* Optimise rate  
+		High-normal.
+
+###Ineffective Therapies
+##Complications
+
+##Prognosis
+Death:
+* 50% of patients requiring CRRT will die in hospital
+
+##Key Studies
+
+---
+##References
+1. Condliffe R, Kiely DG. Critical care management of pulmonary hypertension. BJA Educ. 2017;17(7):228-234. doi:10.1093/bjaed/mkw074

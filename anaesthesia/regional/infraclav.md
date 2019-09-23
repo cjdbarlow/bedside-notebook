@@ -1,7 +1,8 @@
 #Infraclavicular Block
 
 Alternative to supraclavicular block, which:
-* Has less incidence of technical failure
+* Has less incidence of technical failure when performed correctly  
+But is technically harder to perform.
 * Separate from phrenic nerve
 * Further from the lung
 
