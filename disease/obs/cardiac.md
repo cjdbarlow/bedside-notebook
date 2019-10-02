@@ -44,7 +44,7 @@ Mortality up to 50%.
 
 ##Pathophysiology
 ###Aetiology
-##Assessment
+##Clinical Manifestations
 Assessment aims are to determine level of function:
 * Exercise tolerance
 * HR, BP, and SpO<sub>2</sub>

@@ -63,7 +63,7 @@ Post-traumatic epilepsy associated with:
 
 
 ###Aetiology
-##Assessment
+##Clinical Manifestations
 ###History
 ###Examination
 ##Diagnostic Approach and DDx

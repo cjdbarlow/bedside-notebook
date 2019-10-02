@@ -32,7 +32,7 @@ Strong association.
 * Respiratory muscle fatigue
 
 
-##Assessment
+##Clinical Manifestations
 Occurrence of apnoea is:
 * Most common in first 4-6 hours post-operatively
 * Possible up to 12 hours

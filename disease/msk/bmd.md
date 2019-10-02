@@ -6,7 +6,7 @@ Milder variant of DMD.
 ##Pathophysiology
 Partial absence of dystrophin protein, leading to milder symptoms than DND that run a more protracted course.
 ###Aetiology
-##Assessment
+##Clinical Manifestations
 Presentation in teenage years 
 ##Diagnostic Approach and DDx
 ##Investigations

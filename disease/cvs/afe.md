@@ -92,7 +92,7 @@ Two broad theories for mechanism of disease (neither of which independently expl
 		* Thromboplastic
 		* Tissue factor 
 
-##Assessment
+##Clinical Manifestations
 In general:
 * Timing can be variable
 	* 65-70% during active labour  

@@ -46,7 +46,7 @@ Causes include:
 	* Loeys-Dietz Syndrome
 * Post-stenotic dilatation
 
-##Assessment
+##Clinical Manifestations
 Presentation usually due to compression of adjacent structures:
 * Airway
 	* Hoarseness

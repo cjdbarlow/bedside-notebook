@@ -25,7 +25,7 @@ Classifications include both functional scores (NYHA) or disease progression (AC
 Heart failure with reduced ejection fraction:
 
 
-##Assessment
+##Clinical Manifestations
 * Breathlessness  
 Pulmonary congestion due to raised LAP.
 * Orthopnoea  

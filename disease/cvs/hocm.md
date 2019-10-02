@@ -1,0 +1,94 @@
+#Hypertrophic Cardiomyopathy
+
+Clinically diverse disease consisting of variable LV hypertrophy. May lead to:
+* **Dynamic LVOT obstruction**  
+Present in 20-30% of patients, may precipitate sudden cardiac death.
+* Diastolic dysfunction
+* Systolic dysfunction
+* Ischaemia
+* Mitral regurgitation
+* Cardiac failure
+
+##Epidemiology and Risk Factors
+Autosomal dominant with variable phenotypic expression:
+* Many patients may be relatively unaffected
+
+
+##Pathophysiology
+LVOT obstruction occurs dynamically during systole:
+* **S**ystolic **A**nterior **M**otion of the mitral valve results in the distance between the LV septum and the tip of the anterior leaflet of the mitral valve narrowing during systole
+* This distance is further reduced in HCM due to:
+	* Hypertrophic LV septum
+	* Apically positioned papillary muscles
+	* Longer anterior leaflet
+* The narrowing of the outflow tract impedes ejection, resulting in a pressure gradient between the LV cavity and the aortic root
+* Ejection of blood from the LVOT also creates a drag effect on the anterior leaflet, pulling it towards the septum
+* Obstruction occurs and resolves **dynamically**, and worsens with:
+	* Reduced preload
+	* Reduced afterload
+	* Increased contractility
+	* High CO states
+
+###Aetiology
+Autosomal dominant disease with a large number of potential gene mutations on many different chromosomes.
+
+##Clinical Manifestations
+Presentation may be:
+* Family history of sudden cardiac death
+* Fatigue
+* Dyspnoea
+* Chest pain
+* Palpitations
+* Cardiac syncope
+
+
+##Diagnostic Approach and DDx
+##Investigations
+Echocardiography:
+* LV hypertrophy  
+May be:
+	* Eccentric or concentric
+	* Diffuse or focal
+* LVOT gradient  
+Gradient >70% is present in most patients at rest or with exercise.
+
+##Management
+Medical management of dynamic obstruction:
+* β-blockade
+	* Negative inotropy
+	* Negative chronotropy
+* Non-dihydropyridine calcium channel blockers
+	* Verapamil
+* Positioning
+	* Fontan position increases preload and reduces afterload  
+	Squatting or supine with hips and knees flexed.
+
+Procedural:
+* Alcohol ablation
+* Open myectomy
+
+###Anaesthetic Considerations
+* C
+	* Arterial line
+	* 5-lead ECG
+	* Dynamic LVOT obstruction  
+		* Maintain sinus rhythm  
+		Aggressive treatment of arrhythmia.
+		* Low-normal heart rate
+		* Maintain or ↑ preload
+		* Maintain or ↑ afterload  
+			* Vasopressors
+			* Prepare for anaesthetic vasodilation
+		* ↓ Inotropy  
+		Volatile is excellent choice.
+
+###Ineffective Therapies
+##Complications
+##Prognosis
+* Related to degree of LVOT obstruction  
+
+##Key Studies
+
+---
+##References
+1. Davies MR, Cousins J. Cardiomyopathy and anaesthesia. Contin Educ Anaesth Crit Care Pain. 2009;9(6):189-193. doi:10.1093/bjaceaccp/mkp032

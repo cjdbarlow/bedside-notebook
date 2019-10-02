@@ -17,7 +17,7 @@ Genetic diseases with:
 * Deficiencies in lysosomal enzymes involve in metabolism of mucopolysaccharides
 * Accumulation of mucopolysaccharides in organs leads to dysfunction of that organ
 
-##Assessment
+##Clinical Manifestations
 In general:
 * Asymptomatic at birth
 * Initial period of normal development

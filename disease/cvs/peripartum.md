@@ -29,7 +29,7 @@ Risk Factors:
 
 ##Pathophysiology
 ###Aetiology
-##Assessment
+##Clinical Manifestations
 Features:
 * Similarly to other cardiac failures
 * Wheeze may be misdiagnosed as asthma

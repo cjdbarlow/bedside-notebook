@@ -86,7 +86,7 @@ Causes can be divided into:
 	* Biopsy
 	* Transtracheal aspiration
 
-##Assessment
+##Clinical Manifestations
 ###History
 ###Examination
 ##Diagnostic Approach and DDx

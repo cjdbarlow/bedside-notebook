@@ -26,7 +26,7 @@ Family of disorders characterised by anomalies cranio-cervical junction and down
 ##Epidemiology and Risk Factors
 ##Pathophysiology
 ###Aetiology
-##Assessment
+##Clinical Manifestations
 May be asymptomatic.
 
 Clinical features include:

@@ -20,7 +20,9 @@ Interstitial/pulmonary oedema due to local inflammation.
 
 
 ###Aetiology
-##Assessment
+##Clinical Manifestations
+>~3-5ml/kg of entrained air may cause cardiac arrest, although effect depends both on total volume and rate of entrainment
+
 VAE may be graded by its clinical severity:
 * Small  
 ⩽10ml.
@@ -57,9 +59,11 @@ Identify cause and eliminate it. Warn surgeon.
 * Moderate  
 As small, and:
 	* Apply 100% oxygen
+	* Cease nitrous oxide
 	* Haemodynamic management  
 	Generally right heart support with vasopressor.
 	* Consider abandoning procedure if paradoxical embolism is possible
+	* Consider aspirating CVC if one is present
 * Large  
 As moderate, and:
 	* Consider **hyperbaric oxygen**

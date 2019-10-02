@@ -55,7 +55,7 @@ Non-trauma related:
 	* Haemoglobinopathies
 		* Sickle-cell
 
-##Assessment
+##Clinical Manifestations
 Presentation usually:
 * Occurs 12-72 hours after injury  
 May occur up to 2 weeks.

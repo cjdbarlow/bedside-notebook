@@ -103,7 +103,7 @@ Non-allergic anaphylaxis:
 * Probably relates to G-protein induced release of vasoactive mediators
 
 
-##Assessment
+##Clinical Manifestations
 > * Unanticipated hypotension or tachycardia should raise suspicion
 > * Absence of skin signs does not rule out the diagnosis
 

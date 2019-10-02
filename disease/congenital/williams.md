@@ -22,7 +22,7 @@ Genetic condition that is:
 * Involves deletion of 26-28 genes on chromosome 7
 	* The ELN gene encodes tropoelastin, which is involved in vascular wall development
 
-##Assessment
+##Clinical Manifestations
 Key characteristics:
 * Distinctive facies
 	* Broad forehead

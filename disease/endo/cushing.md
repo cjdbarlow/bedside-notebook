@@ -23,7 +23,7 @@ May be:
 * Secondary
 	* Excessive pituitary ACTH secretion
 
-##Assessment
+##Clinical Manifestations
 ###History
 ###Examination
 ##Diagnostic Approach and DDx

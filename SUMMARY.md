@@ -59,6 +59,8 @@
 		* [Right-to-Left Shunts](/management/cvs/right-left-shunt.md)
 		* [Fontan Circulation](/management/cvs/fontan.md)
 		* [Mediastinal Mass](/management/cvs/mediastinal-mass.md)
+	* [Mechanical Supports](/management/cvs/iabp.md#id)
+		* [IABP](/management/cvs/iabp.md)
 * [Disability](/management/cns/seizure.md#id)
 	* [Seizure](/management/cns/seizure.md)
 	* [Acute Spinal Cord Injury](/management/cns/acute-spine.md)
@@ -167,6 +169,7 @@
 	* [Open Aortic Valve Replacement](/anaesthesia/cthr/avr.md)
 	* [TAVI](anaesthesia/cthr/tavi.md)
 	* [Open Mitral Valve Repair/Replacement](/anaesthesia/cthr/mvr.md)
+	* [Thoracic Aortic Aneurysms](/anaesthesia/cthr/taa.md)
 * [ENT](/anaesthesia/ent/ent-principles.md)
 	* [Tonsillectomy](/anaesthesia/ent/tonsillectomy.md)
 * [General Surgery](/anaesthesia/gensurg/scopes.md#id)	
@@ -216,6 +219,7 @@
 	* [Islet Cell Transplant](/anaesthesia/ir/isletcelltx.md)
 * [Off the Floor](/anaesthesia/otf/remote-anaes.md)
 	* [ECT](/anaesthesia/otf/ect.md)
+	* [DCC](/anaesthesia/otf/dcc.md)
 	* [Dressings Under Sedation](/anaesthesia/otf/dus.md)
 
 
@@ -243,6 +247,7 @@
 		* [Mitral Regurgitation](/disease/cvs/mr.md)
 	* [Cardiomyopathy](/disease/cvs/peripartum.md)
 		* [Peripartum Cardiomyopathy](/disease/cvs/peripartum.md)
+		* [Hypertrophic Cardiomyopathy](/disease/cvs/hocm.md)
 	* [Congenital Heart Disease]
 	* [Arrhythmia](/disease/cvs/longqt.md#id)
 		* [Long QT Syndrome](/disease/cvs/longqt.md)
@@ -291,6 +296,7 @@
 	* [Sepsis](/disease/immune/sepsis.md)
 * [Metabolic and Congenital](/disease/congenital/downs.md#id)
 	* [Down's Syndrome](/disease/congenital/downs.md)
+	* [Cystic Fibrosis](/disease/congenital/cf.md)
 	* [Mitochondrial Disease](/disease/congenital/mitochondrial.md)
 	* [Williams Syndrome](/disease/congenital/williams.md)
 	* [Mucopolysaccharidosis](/disease/congenital/mucopolysaccharidosis.md)

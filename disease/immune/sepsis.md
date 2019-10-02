@@ -5,7 +5,7 @@ A life-threatening organ dysfunction due to a dysregulated hose reponse to infec
 ##Epidemiology and Risk Factors
 ##Pathophysiology
 ###Aetiology
-##Assessment
+##Clinical Manifestations
 ###History
 ###Examination
 ##Diagnostic Approach and DDx

@@ -15,7 +15,7 @@ Subsequent weakness.
 * Muscle fibres are gradually replaced with fibrous connective tissue
 
 ###Aetiology
-##Assessment
+##Clinical Manifestations
 Generally:
 * Presents in early childhood
 * Progressive proximal muscle wasting

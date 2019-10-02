@@ -5,7 +5,7 @@ EEG seizure patterns occurring without clinically detectable seizure phenomena.
 ##Epidemiology and Risk Factors
 ##Pathophysiology
 ###Aetiology
-##Assessment
+##Clinical Manifestations
 ###History
 ###Examination
 ##Diagnostic Approach and DDx

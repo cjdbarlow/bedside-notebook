@@ -27,7 +27,7 @@ Causes of RV failure can be divided into:
 		* Sepsis
 
 
-##Assessment
+##Clinical Manifestations
 ###History
 ###Examination
 ##Diagnostic Approach and DDx

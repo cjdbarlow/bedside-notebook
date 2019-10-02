@@ -1,7 +1,7 @@
 #Right-to-Left Intracardiac Shunts
 
 
-##Assessment
+##Clinical Manifestations
 Clinical appearance depends on the:
 * Degree of shunting
 

@@ -29,7 +29,7 @@ Distributive shock process due to loss of sympathetic tone:
 ###Neurogenic shock
 Spinal cord injury causing sympathectomy, leading to relative parasympathetic overactivity.
 
-##Assessment
+##Clinical Manifestations
 ##Diagnostic Approach and DDx
 ##Investigations
 ##Management

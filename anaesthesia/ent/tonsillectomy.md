@@ -72,16 +72,8 @@ A recipe:
 * Dexamethasone 0.2mg/kg
 * Paracetamol 15mg/kg
 * Parecoxib 1mg/kg
+* Fentanyl 1-2mcg/kg
 
-Opioid strategy will depend on degree of OSA:
-* No OSA  
-	* Morphine 0.1-0.2mg/kg.
-* Mild OSA
-	* Fentanyl 1-2mcg/kg
-	* Tramadol 2mg/kg
-* Severe OSA
-	* Fentanyl 1-2mcg/kg
-	* Ketamine
 
 ###Surgical Stages
 * Positioning

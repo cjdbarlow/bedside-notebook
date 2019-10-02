@@ -27,7 +27,7 @@ External electrical stimuli (e.g. due to diathermy) may interfere with pacemaker
 		* May cause **malignant arrhythmias** as if an R-on-T occurs
 
 
-##Assessment
+##Clinical Manifestations
 Includes both:
 * Nature of surgery
 * Device assessment

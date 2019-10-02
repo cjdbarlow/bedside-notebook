@@ -6,7 +6,7 @@ Progressive multisystem disease caused by excess growth hormone.
 ##Pathophysiology
 Excessive growth hormone secretion occurring after puberty.
 ###Aetiology
-##Assessment
+##Clinical Manifestations
 Usually presents in an advanced stage at middle age. Symptoms may be due to:
 * Mass effect of pituitary
 * Hormone excess
@@ -22,6 +22,7 @@ Usually presents in an advanced stage at middle age. Symptoms may be due to:
 		* Macrognathia
 		* Macroglossia
 		* Soft tissue bulk
+		* ↑ Size epiglottis
 	* AFOI may be preferable
 * B
 	* OSA  
@@ -40,6 +41,11 @@ Usually presents in an advanced stage at middle age. Symptoms may be due to:
 	* Peripheral nerve compression  
 	Increased of entrapment syndromes.
 	* Difficult cannulation
+* E
+	* Associated endocrine disease
+		* Diabetes
+		* Thyroid dysfunction
+		* Adrenal dysfunction
 
 ###Ineffective Therapies
 ##Complications

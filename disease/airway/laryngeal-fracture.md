@@ -2,7 +2,7 @@
 
 
 
-##Assessment
+##Clinical Manifestations
 * May present with **acute airway obstruction**  
 * 'Classical triad' of;
 	* Hoarseness

@@ -43,7 +43,7 @@ Denervation of motor tracts in the ventral pons, leading to:
 * **Psychogenic Unreponsiveness**
 
 
-##Assessment
+##Clinical Manifestations
 Level of consciousness is graded using the GCS or FOUR score:
 
 ###GCS

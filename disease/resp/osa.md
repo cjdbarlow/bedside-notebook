@@ -96,7 +96,7 @@ Narrow or crowded upper airway, from:
 		* High loop gain leads to exaggerated ventilatory responses
 
 
-##Assessment
+##Clinical Manifestations
 Patients (or partners) may complain of:
 * Snoring
 * Daytime somnolence
