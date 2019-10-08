@@ -15,7 +15,7 @@ May be either:
 	With or without coronary re-implantation.
 	* Valve Replacement (Bentall Procedure)
 * Arch  
-Most complex legion due to requirement for debranching and reimplantation of arch vessels. Cerebroprotectin performed with:
+Most complex legion due to requirement for debranching and reimplantation of arch vessels. Cerebroprotection performed with:
 	* Retrograde cerebral perfusion
 	* Hypothermic circulatory arrest
 * Descending  
