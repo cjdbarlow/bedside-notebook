@@ -13,7 +13,7 @@ Treatment of pain is fundamental to quality patient care.
 * Pain is affected by patient attitudes and beliefs
 
 
-##Assessment
+##Clinical Manifestations
 Assessment of analgesia:
 * Must occur to tailor analgesic regimens
 * Should be performed:

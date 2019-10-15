@@ -10,7 +10,7 @@ The majority need gentle manoeuvres; drying, stimulation, warming. Need for:
 Poor alveolar expansion and reduced surfactant impair transition to adult circulation.
 
 
-##Assessment
+##Clinical Manifestations
 Should cover:
 * A
 	* Patency  

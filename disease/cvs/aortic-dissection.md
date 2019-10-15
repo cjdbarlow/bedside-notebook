@@ -59,7 +59,7 @@ Diseases of connective tissue:
 	* Cardiac catheterisation
 	* IABP insertion
 
-##Assessment
+##Clinical Manifestations
 Presentations include:
 * **Chest and back pain**  
 Rapid onset, severe.

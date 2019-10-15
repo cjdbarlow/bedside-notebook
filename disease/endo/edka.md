@@ -55,7 +55,7 @@ Physiological stress:
 	* Insulin resistance
 	* Protein catabolism
 
-##Assessment
+##Clinical Manifestations
 Presentation is similar to DKA, but with a near-normal serum BSL:
 * Dominant symptoms
 	* Nausea/Vomiting

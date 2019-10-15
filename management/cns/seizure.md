@@ -77,7 +77,7 @@ Compensatory mechanisms exhausted.
 		↑ ICP.
 
 ###Aetiology
-##Assessment
+##Clinical Manifestations
 ###History
 ###Examination
 ##Diagnostic Approach and DDx

@@ -42,7 +42,7 @@ Common causes include:
 	* Lower limb trauma
 
 
-##Assessment
+##Clinical Manifestations
 Presentation due to SNS overactivity, with compensatory PNS responses:
 * B
 	* Dyspnoea

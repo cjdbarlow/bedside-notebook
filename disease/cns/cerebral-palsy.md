@@ -44,7 +44,7 @@ Risk factors:
 ##Pathophysiology
 Disruption of normal developmental changes in brain structure and organisation from a variety of potential causes, although clasically due to foetal hypoxia occurring during development or delivery.
 
-##Assessment
+##Clinical Manifestations
 * Motor
 	* Muscle spasticity  
 	Present in 80% of patients.

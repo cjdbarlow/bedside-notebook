@@ -50,7 +50,7 @@ Acts as major inhibitory neurotransmitter and potentiates NMDA in CNS.
 	* Less common with sorbitol
 	* Significantly less common with mannitol
 
-##Assessment
+##Clinical Manifestations
 Timing:
 * Intraoperatively  
 Within 15 minutes.

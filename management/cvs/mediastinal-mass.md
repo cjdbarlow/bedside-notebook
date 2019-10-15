@@ -19,7 +19,7 @@ Anterior masses are most likely to cause severe cardiorespiratory problems due t
 ##Epidemiology and Risk Factors
 ##Pathophysiology
 ###Aetiology
-##Assessment
+##Clinical Manifestations
 > * Presence of symptoms indicates elevated risk
 
 Symptoms may be due to:

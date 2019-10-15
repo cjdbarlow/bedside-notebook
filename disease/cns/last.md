@@ -59,7 +59,7 @@ LAST:
 
 ##Pathophysiology
 ###Aetiology
-##Assessment
+##Clinical Manifestations
 ###History
 ###Examination
 ##Diagnostic Approach and DDx

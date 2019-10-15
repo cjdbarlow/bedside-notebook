@@ -63,7 +63,7 @@ Most common congenital cardiac malformation.
 	Accounts for 50% of AVR performed for AS in those under 70.
 
 
-##Assessment
+##Clinical Manifestations
 Symptoms:
 * Include:
 	* Angina  

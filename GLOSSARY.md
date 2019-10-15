@@ -622,6 +622,9 @@ Spontaneous Rupture of Membranes
 ##SSEP
 Somato-Sensory Evoked Potential
 
+##STJ
+Sinotubular Junction
+
 ##STP
 Standard Temperature and Pressure (0°C at 100kPa)
 

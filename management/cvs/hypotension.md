@@ -3,7 +3,7 @@
 ##Epidemiology and Risk Factors
 ##Pathophysiology
 ###Aetiology
-##Assessment
+##Clinical Manifestations
 ##Diagnostic Approach and DDx
 ##Investigations
 ##Management

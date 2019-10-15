@@ -13,7 +13,7 @@ Disease of aldosterone excess, which may be:
 ##Epidemiology and Risk Factors
 ##Pathophysiology
 ###Aetiology
-##Assessment
+##Clinical Manifestations
 Features include:
 * C
 	* Hypertension

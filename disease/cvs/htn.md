@@ -16,7 +16,7 @@ Complications are associated with:
 
 ##Pathophysiology
 ###Aetiology
-##Assessment
+##Clinical Manifestations
 ##Diagnostic Approach and DDx
 ##Investigations
 ##Management

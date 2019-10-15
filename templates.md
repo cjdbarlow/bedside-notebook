@@ -10,7 +10,7 @@
 
 #Clinical State
 
-##Assessment
+##Clinical Manifestations
 ###Key other findings
 ##Causes
 
@@ -50,7 +50,7 @@ Intro and technique
 ##Epidemiology and Risk Factors
 ##Pathophysiology
 ###Aetiology
-##Assessment
+##Clinical Manifestations
 ##Diagnostic Approach and DDx
 ##Investigations
 ##Management
@@ -75,10 +75,3 @@ Intro and technique
 
 ---
 ##References
-
-
-
-#Anaesthesia
-
-##Surgical Technique
-##Anaesthetic Technique

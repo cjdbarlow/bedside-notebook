@@ -8,7 +8,7 @@ Rapid ↓ in muscle mass within 3 days of ICU admission:
 
 
 ###Aetiology
-##Assessment
+##Clinical Manifestations
 ###History
 ###Examination
 ##Diagnostic Approach and DDx

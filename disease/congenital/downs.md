@@ -26,7 +26,7 @@ Predominantly due to trisomy 21. Remainder are:
 * Mosaic trisomy 21  
 ~1% of cases.
 
-##Assessment
+##Clinical Manifestations
 ###History
 ###Examination
 Characteristic facies:

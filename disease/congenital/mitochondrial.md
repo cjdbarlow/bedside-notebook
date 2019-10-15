@@ -37,7 +37,7 @@ Generally greatest effect on body systems with the highest metabolic requirement
 	* GI tract
 	* Musculoskeletal
 
-##Assessment
+##Clinical Manifestations
 Clinical presentation:
 * May fall into a discrete syndrome
 * Can be highly variable  

@@ -16,7 +16,7 @@ Size correlates strongly with risk of rupture:
 
 ##Pathophysiology
 ###Aetiology
-##Assessment
+##Clinical Manifestations
 ###History
 ###Examination
 ##Diagnostic Approach and DDx

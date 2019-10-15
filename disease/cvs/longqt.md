@@ -43,7 +43,7 @@ Likely associated with some genetic abnormality. Include:
 	In addition to any risk due to neurological abnormalities.
 	* Neurological injury
 
-##Assessment
+##Clinical Manifestations
 History:
 * Sudden syncope
 * Pseudo-seizures during exercise or stress

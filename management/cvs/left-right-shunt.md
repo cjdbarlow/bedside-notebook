@@ -1,6 +1,6 @@
 #Left-to-Right Shunts
 
-##Assessment
+##Clinical Manifestations
 Clinical appearance is due to the magnitude of:
 * Increased right sided pressures and flow
 	* Tachypnoea

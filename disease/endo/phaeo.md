@@ -41,7 +41,7 @@ Rarer.
 Majority are incidental, though ~30% are associated with autosomal dominant inheritance.
 
 
-##Assessment
+##Clinical Manifestations
 Presentation:
 * Classical triad of:  
 Most patients do not have all 3.

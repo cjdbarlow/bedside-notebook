@@ -51,7 +51,7 @@ Hyponatraemia is a disorder of water excess. Broadly, this may be either due to:
 * Excessive water intake
 * Failure of the kidneys to remove water
 
-##Assessment
+##Clinical Manifestations
 Speed of onset is more important than the absolute value.
 
 ###History

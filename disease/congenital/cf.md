@@ -1,0 +1,133 @@
+#Cystic Fibrosis
+
+Multisystem genetic disorder with a heterogenous phenoytype affecting the CFTR channel, reducing chloride levels and increasing viscosity of mucous across multiple organ systems, though most significantly in the lungs.
+
+
+##Epidemiology and Risk Factors
+
+
+##Pathophysiology
+Changes to the CFTR gene alter chloride conductance through the CFTR channel.
+
+###Aetiology
+Genetic disease:
+* Mendelian recessive inheritance
+* Heterozygotes are asymptomatic
+* Highly variable mutations and severity  
+Over 1100 described mutations.
+
+##Clinical Manifestations
+Multiorgan manifestations:
+* Respiratory  
+Increased mucous viscosity and decreased mucociliary clearance, leading to:
+	* Chronic sinusitis
+	* Recurrent LRTI  
+	Chronic colonisation with atypical pathogens.
+	* Obstructive lung disease  
+	Subsequent:
+		* Bronchiectasis
+		* Gas trapping
+	* Chronic hypoxaemia
+		* Cor pulmonale
+* MSK
+	* Osteoporosis  
+	Impaired calcium absorption.
+	* Impaired thermoregulation
+* GIT
+	* Meconium ileus
+	* Distal intestinal obstruction syndrome
+	* Biliary obstruction  
+		* Biliary cirrhosis
+		* Portal HTN
+	* Pancreatic obstruction
+		* Pancreatic exocrine deficiency
+		* Diabetes  
+		Most common non-respiratory comorbidity.
+* GU
+	* Male infertility
+
+##Diagnostic Approach and DDx
+Diagnosis requires:
+* Clinical features
+* Laboratory evidence
+	* Positive sweat test
+	* CFTR gene abnormality
+
+##Investigations
+Post-natal screening:
+* Trypsinogen  
+High false-positive rate.
+* Sweat test  
+Performed two weeks after birth.
+
+Genetic testing:
+* Evaluates the 11 most common CF mutations
+* ~92% sensitive
+
+
+##Management
+Medical management is primarily supportive:
+* Respiratory  
+Aims to decrease incidence and duration of respiratory tract infections. Includes:
+	* Daily respiratory physiotherapy
+	* Bronchodilators
+	* Mucolytics  
+	e.g. Hypertonic saline.
+	* Antibiotics  
+	* Anti-inflammatories  
+	Including inhaled or systemic corticosteroids, NSAIDs, and azithromycin.
+	* CFTR modulators
+		* Ivacaftor  
+		Potentiates chloride channel function in a large subset of CFTR mutations.
+
+Surgical management:
+* Lung transplantation  
+Requires bilateral due to suppurative disease.
+ 
+###Anaesthetic Considerations
+Day surgery is usually inappropriate, but can be considered if:
+* Stable disease
+* Good baseline function
+
+Preoperative investigations should include:
+* CXR
+* Bloods
+	* FBE
+	* UEC
+	* LFTs
+	* BSL
+	* Coags
+
+* A
+	* Airway choice
+		* Spontaneous ventilation on LMA may reduce adverse GA effects on respiratory mechanics for short procedures
+		* ETT facilitates tracheal suctioning and controlled gas exchange
+		* Avoid nasal ETT where possible due to high incidence of nasal polyposis
+	* Extubation early post-operatively
+* B
+	* Obstructive lung disease  
+	Postoperative complications predicted by:
+		* FEV<sub>1</sub> ⩽60%
+		* PCO<sub>2</sub> >50mmHg
+* D
+	* Volatile anaesthesia has greater bronchodilation than TIVA
+* E
+	* Ensure complete reversal of neuromuscular blocker
+* C
+	* Cor pulmonale
+* I
+	* Requirement for isolation
+
+###Ineffective Therapies
+##Complications
+##Prognosis
+Poor prognostic factors include:
+* Chronic pseudomonas infection  
+Increased rate of pulmonary decline, decreased survival.
+* Pulmonary hypertension
+
+##Key Studies
+
+---
+##References
+

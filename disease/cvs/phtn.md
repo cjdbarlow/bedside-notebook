@@ -69,7 +69,7 @@ Inability to perform **any activity** without symptoms. Patients:
 ##Epidemiology and Risk Factors
 ##Pathophysiology
 ###Aetiology
-##Assessment
+##Clinical Manifestations
 > Symptoms often present for up to two years prior to diagnosis
 
 Non specific cardiac and respiratory features:

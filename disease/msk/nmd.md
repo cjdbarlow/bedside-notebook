@@ -27,7 +27,7 @@
 
 
 
-##Assessment
+##Clinical Manifestations
 ##Diagnostic Approach and DDx
 ##Investigations
 ##Management

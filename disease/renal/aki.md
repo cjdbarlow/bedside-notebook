@@ -161,7 +161,7 @@ Most common causes in the critically ill are:
 * Nephrotoxins
 
 
-##Assessment
+##Clinical Manifestations
 
 
 ##Diagnostic Approach and DDx

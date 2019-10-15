@@ -38,7 +38,7 @@ Necrotising fasciitis involves
 * Thrombosis of fascial vessels  
 Leads to ischaemia and necrosis of tissue.
 
-##Assessment
+##Clinical Manifestations
 
 
 ###History

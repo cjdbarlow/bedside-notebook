@@ -1,3 +1,4 @@
+
 #Serotonin Syndrome
 
 > * **Severe** and life-threatening cases **almost always** involve a **monoamine oxidase inhibitor**
@@ -34,7 +35,7 @@ Drug-induced over-stimulation of serotonin receptors in CNS. Serotonin syndrome 
 ##Pathophysiology
 Excessive serotonin activity at 5-HT<sub>2</sub> receptors in the CNS.
 
-##Assessment
+##Clinical Manifestations
 Careful and detailed drug history is essential:
 * Many drugs influence serotonergic neurotransmitters
 * Many drugs listed with serotonin syndrome as a side effect will rarely cause

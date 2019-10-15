@@ -45,7 +45,7 @@ Most common cause.
 	More rapid in cases of repeated infection.
 
 
-##Assessment
+##Clinical Manifestations
 MS is typically well tolerated until LA dilation fails to compensate and pulmonary HTN ensures, leading to:
 * Pulmonary oedema
 * Fatigue

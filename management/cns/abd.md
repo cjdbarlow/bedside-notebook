@@ -7,7 +7,7 @@ Rapid onset of intensive agitation and physical actions that:
 ##Epidemiology and Risk Factors
 ##Pathophysiology
 ###Aetiology
-##Assessment
+##Clinical Manifestations
 ##Diagnostic Approach and DDx
 ##Investigations
 ##Management

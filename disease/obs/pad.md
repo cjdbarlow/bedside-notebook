@@ -35,7 +35,7 @@ Placenta:
 * Does not separate from the uterus as it contracts  
 Placental vessels remaing wide-open and continue to haemorrhage.
 
-##Assessment
+##Clinical Manifestations
 Diagnosis is difficult, and investigations usualy proceed based on risk factors.
 
 
