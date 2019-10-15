@@ -132,6 +132,12 @@ Cerebral Metabolic Rate for Oxygen
 ##CNS
 Central Nervous System
 
+##COAD
+Chronic Obstructive Airways Disease
+
+##COPD
+Chronic Obstructive Pulmonary Disease
+
 ##COX
 Cyclo-Oxygenase
 

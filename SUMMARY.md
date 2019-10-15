@@ -230,7 +230,8 @@
 		* [Laryngeal Fracture](/disease/airway/laryngeal-fracture.md)
 		* [Obstructive Sleep Apnoea](/disease/resp/osa.md)
 		* [Massive Haemoptysis](/disease/airway/massive-haemoptysis.md)
-	* [Lower Airway](/disease/resp/bronchospasm.md#id)
+	* [Lower Airway](/disease/resp/coad.md#id)
+		* [COPD](/disease/resp/coad.md)
 		* [Bronchospasm](/disease/resp/bronchospasm.md)
 * [CVS](/disease/cvs/cardiacfailure.md#id)
 	* [Cardiac Failure](/disease/cvs/cardiacfailure.md)
@@ -306,6 +307,7 @@
 
 ##Investigations
 * [Cardiotocograph](/investigations/ctg.md)
+* [Pulmonary Function Tests](/investigations/pfts.md)
 
 ## Procedures
 * [Airway Procedures](/procedures/airway/needle-cricothyrotomy.md#id)
