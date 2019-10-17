@@ -87,8 +87,8 @@ Key investigations include:
 	* Anaemia  
 	Microangiopathic haemolytic anaemia.
 	* Thrombocytopaenia  
-	Low or rapidly decreasing.
-* Coagulation
+	Low or rapidly decreasing
+.* Coagulation
 	* Assays (PT, APTT)  
 	Prolonged, but this may be minimal.
 	* Fibrinogen  

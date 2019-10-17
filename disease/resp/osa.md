@@ -113,6 +113,35 @@ Examination:
 		* Enlarged uvula
 		* Tonsillar hypertrophy
 
+###Risk Stratification by Symptoms
+> Note grade drops by 1 if compliant with CPAP, i.e. moderate OSA by AHI becomes mild if CPAP compliant
+
+OSA is graded by AHI, but in absence of a sleep study symptoms can provide a guide:
+* Low risk
+	* Snores
+		* ⩽3 nights per week
+		* Tolerated by partner
+	* BMI ⩽30
+	* Absence of CVS disease
+	* Absence of daytime somnolence
+* Moderate risk
+	* Snores
+		* Regularly
+		* Partner may sleep separately
+	* BMI 30-40
+	* Witnessed apnoeas
+* High risk
+	* Snores  
+	In all positions.
+	* BMI >40
+	* Frequent apnoeas
+	* Coexistent:
+		* CVS disease
+		* OHS
+		* Polycythaemia
+	* Daytime somnolence
+	* Expected intubation difficulty
+
 ##Investigations
 Polysomogram is:
 * Diagnostic
@@ -173,7 +202,7 @@ Surgery:
 	* Difficult airway  
 	Intubation difficult in 10-25%.
 * B
-	* Significantly increased risk of perioperative pulmonary complications including:
+	* Significantly increased risk of perioperative pulmonary and cardiovascular complications including:
 		* Aspiration pneumonia
 		* ARDS
 		* PE
@@ -186,6 +215,14 @@ Surgery:
 		* Anaesthetic agents
 		* Benzodiazepines
 		* Opioids
+
+
+####Risk Stratification
+||Low Risk Surgery|Moderate Risk Surgery|High Risk surgery|
+|---|
+|**Low Risk OSA**|Day surgery|May be suitable day surgery|Ward bed, oximetry, line-of-sight nursing|
+|**Moderate Risk OSA**|Ward Bed|Ward bed, oximetry, line-of-sight nursing|Ward bed, oximetry, line-of-sight nursing|
+|**High Risk OSA**|Ward bed, oximetry, line-of-sight nursing|Ward bed, oximetry, line-of-sight nursing, consider HDU, NIV service involvement|HDU/ICU, NIV service notified|
 
 ##Complications
 Hypoxaemia and hypercarbia in severe OSA has several cardiovascular sequelae:

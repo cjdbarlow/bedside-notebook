@@ -396,6 +396,9 @@ Low Birth Weight.
 ##LCx
 Left Circumflex
 
+##LET
+Linear Energy Transfer
+
 ##LH
 Lutenising Hormone
 
@@ -684,6 +687,12 @@ Ventral Respiratory Group
 
 ##VSD
 Venticular Septal Defect
+
+##vWD
+von Willebrand Disease
+
+##vWF
+von Willebrand Factor
 
 ##ZEEP
 Zero End-Expiratory Pressure

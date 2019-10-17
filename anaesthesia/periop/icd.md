@@ -33,10 +33,23 @@ Includes both:
 * Device assessment
 
 ###Surgery Assessment
-EMI risk of the surgery is based upon:
-* Requirement for unipolar diathermy
-* Location  
-Closer to heart or pacing leads is increased risk.
+EMI risk of the procedure:
+* Electrical
+	* Diathermy
+		* Particularly unipolar  
+		Ensure pad is placed such that current does not run through device.
+		* Location  
+		Within 15cm is high risk.
+	* Evoked potential monitors
+	* External defibrillation
+	* Radiofrequency ablation
+	* ECT
+* Magnetic
+	* MRI
+* Mechanical
+	* Shivering
+	* Extracorporeal shock-wave lithotripsy
+	* Large tidal volumes
 
 ###Device Assessment
 Evaluation of pacemakers should consider:
