@@ -299,6 +299,7 @@
 * [Haematology](/disease/haeme/dic.md#id)
 	* [DIC](/disease/haeme/dic.md)
 	* [von Willebrand Disease](/disease/haeme/vwd.md)
+	* [VTE](/disease/haeme/vte.md)
 * [Immune](/disease/immune/anaphylaxis.md#id)
 	* [Anaphylaxis](/disease/immune/anaphylaxis.md)
 	* [Sepsis](/disease/immune/sepsis.md)

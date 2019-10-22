@@ -57,6 +57,26 @@ Disruption of normal developmental changes in brain structure and organisation f
 Impairment present in 60%.
 	* May be difficult to separate from motor problems affecting phonation
 
+###Grading
+Categorised using the Gross Motor Function Classification System (GMFCS):
+* Evaluates mobility
+* Generally will not improve after 5<sup>th</sup> year of life
+* Uses five categories:
+	* Level 1
+		* Can walk, run, and climb stairs without rails
+		* Limited speed, balance, and coordination
+	* Level 2
+		* Walk in most setting, climb stairs without rails
+		* Limited by long distance, uneven terrain, confined or crowded spaces
+	* Level 3
+		* Walk with mobility device indoors, climb stairs with rails
+		* Wheelchairs for distance
+	* Level 4
+		* Physical assistance or motorised wheelchairs in most settings
+	* Level 5
+		* Transported in manual wheelchair in all settings
+		* Limited ability to maintain antigravity head and trunk postures
+
 ##Management
 Treatment is supportive, and consists of:
 * Improving posture
@@ -84,7 +104,7 @@ Treatment is supportive, and consists of:
 	* Generally limited cardiorespiratory reserve
 * D
 	* Difficulty communicating
-	* Co-existant epilepsy 
+	* Co-existent epilepsy 
 	Continue antiepileptics in perioperative period.
 	* Hyperalgesia
 * E
