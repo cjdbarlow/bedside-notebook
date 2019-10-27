@@ -208,6 +208,7 @@
 	* [Pyloromyotomy](/anaesthesia/paeds/pyloric.md)
 * [Thoracic](/anaesthesia/cthr/vats.md#id)
 	* [VATS](/anaesthesia/cthr/vats.md#id)
+	* [Rigid Bronchoscopy](/anaesthesia/cthr/rigid-bronch.md)
 * [Urology](/anaesthesia/urology/turp.md#id)
 	* [TURP](/anaesthesia/urology/turp.md)
 * [Vascular](/anaesthesia/vascular/elective-aaa.md#id)

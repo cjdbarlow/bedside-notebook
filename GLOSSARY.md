@@ -345,6 +345,9 @@ Handover Takeover
 ##IABP
 Intra-Aortic Balloon Pump
 
+##ICA
+Internal Carotid Artery
+
 ##ICF
 Intracellular Fluid
 
@@ -359,6 +362,9 @@ Internal Jugular Vein
 
 ##IP
 In-Plane
+
+##IPH
+Intraparenchymal Haemorrhage
 
 ##ITTP
 Idiopathic Thrombocytopenic Purpura
@@ -434,6 +440,9 @@ Minimum Alveolar Concentration
 
 ##MAP
 Mean Arterial Pressure
+
+##MCA
+Middle Cerebral Artery
 
 ##MEP
 Motor-Evoked Potential
