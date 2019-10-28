@@ -18,11 +18,13 @@ Anaesthesia and akinesia of the globe for:
 ##Contraindications
 Should be avoided when:
 * Axial length is **>26mm**  
-Increased risk of globe perforation.
+Increased risk of globe perforation, particularly due to risk of posterior staphylomas.
 * Severe coagulopathy
 * Perforated globe
 * Infected eye
 * Inability to lie flat
+* Staphyloma  
+Increased risk of globe perforation.
 
 ##Anatomy
 {% include "/stubs/orbit.md" %}
@@ -91,10 +93,10 @@ Major complications:
 Due to direct trauma.
 	* Increased risk with myopia, repeated injections
 	* Presents with ocular pain, intraocular haemorrhage, restlessness  
-	May not be immmediately obvious.
+	May not be immediately obvious.
 * Retrobulbar haemorrhage  
 Due to direct trauma.
-	* Presents with brusing, propotosis, and pain  
+	* Presents with bruising, propotosis, and pain  
 	Inadequate retinal artery flow may require a lateral canthotomy to relieve IOP and prevent loss of vision.
 	* May be subtle, occasionally presents as rapid orbital swelling and proptosis. 
 * Optic nerve damage  
