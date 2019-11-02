@@ -8,6 +8,14 @@ Increased risk of:
 	* ETOH use
 	* Depression
 
+Anaesthetists:
+* Are unique in that they both prescribe and administer substances
+* Have ready access and thorough knowledge of a wide variety of potent medications
+* Have high expectations of success  
+Adverse events in anaesthesia are rare and catastrophic.
+* Are more likely than other doctors to develop a substance dependence  
+2.7x greater risk.
+
 
 ##Personal Care
 Doctors should:
@@ -34,7 +42,133 @@ Should be present if department is >5 people. Responsibilities:
 	* Intervene when patient safety is at risk
 
 
+##Chemical Dependence
+Definitions:
+* Substance abuse  
+Related, excessive, or inappropriate use of a mood-altering substance resulting in negative consequences in one or more life areas, and where addiction cannot be diagnosed.
+* Addiction  
+Primary, chronic disease of brain reward... leading to a pathological pursuit of reward or relief by substance use. Characterised by an inability to consistently abstain, impaired behavioural control, craving, and impaired recognition of problems with behaviours and interpersonal relationships.
+
+
+###Risk Factors
+General:
+* Family history of durg abuse
+* Childhood abuse
+* Family dysfunction
+* Mental health disorder
+* Male
+* Experimenting with drugs/alcohol
+* Peers who use drugs
+* Sense of professional immunity from addiction
+
+
+Specific:
+* Direct contact with drugs
+* Immediate availability
+* Easy to divert
+
+###Clinical Manifestations
+>Disease process usually well-advanced by the time physical and behavioural changes become noticeable
+
+Inside the hospital:
+* Behavioural
+	* Deteriorating relationships
+	* Mood swings
+	* Poor reliability
+	* Frequent change of jobs
+* Clinical
+	* Poor administration and record keeping
+		* Unaccounted for drugs
+	* Disproportionate post-operative pain compared with anaesthetic record
+	* High doses of narcotic used in anaesthesia
+	* Preference for working alone
+	* Difficult to find between cases or when on call
+	* At hospital when not on call
+	* Requesting extra shifts
+	* Unusually willing to take on additional work commitments
+	* Carrying syringes and ampoules in clothing
+	* IV equipment in non-clinical places
+	* Wearing of long-sleeved gowns
+
+
+Outside of hospital:
+* Withdrawal from family, friends, and hobbies
+* Neglect and deterioration in appearance
+* Mood swings
+* Fatigue, lethargy
+* Poor concentration, memory
+* Frequent unexplained illnesses
+* Legal problems
+* Financial problems
+
+###Intervention
+Three major considerations:
+* Patient safety
+	* Remove person from list
+	* Review patients to ensure they are adequately cared for
+	* Find alternative staff
+* Colleague health
+	* Private and confidential
+	* Significant reputation and career risk with allegation
+	* Explain concerns raised about their behaviour
+	* Present any evidence
+	* A non-judgmental approach facilitates a more productive interaction
+	* Have suitable contacts available:
+		* Occupational medicine
+		* Psychiatry
+		* ANZCA Welfare officer
+	* Responses:
+		* Relief  
+			* Usually compliant with suggestions for treatment options
+		* Anger
+			* Common in those with denial
+			* Should be offered assessment and opportunity to consent to urine or hair testing
+* Statutory reporting obligations
+
+
+###Recovery
+In general:
+* Sustained abstinence occurs in 74-90%  
+Anaesthetists similar to general doctors.
+* Median time time to relapse is 2.6 years.
+	* Mortality of 13%
+* Hair testing is preferable to verify abstinence
+
+
+###Angres Criteria  
+Used to stratify likelihood of returning to anaesthesia:
+* Category I  
+Return immediately after treatment.
+	* Tremendous love for/commitment to anaesthesia
+	* Accepts and understands the disease
+	* Bonding with AA (or narcotics anonymous) and has a sponsor
+	* Strong family support
+	* Committed to recovery
+	* Balanced lifestyle
+	* No evidence of dual diagnosis, for example, bipolar disorder
+	* Treatment team, anaesthetic department, and employer support return
+* Category II  
+Possibility of return.
+	* Relapsed with recovery underway
+	* Dysfunctional but improving family situation
+	* Involved, but not bonded with AA/NA
+	* Improving recovery skills
+	* Some denial remains
+	* Mood swings without other psychiatric diagnosis
+* Category III  
+Redirection to another specialty.
+	* Prolonged i.v. use
+	* Prior treatment failure and relapses
+	* Disease clearly remains active
+	* Went into anaesthesia for drug access
+	* Dysfunctional family
+	* Non-compliant with regulatory bodies
+	* Poor recovery skills and no bonding with AA/NA, no sponsor
+	* Severe co-morbid psychiatric diagnosis
+
 ---
 
 ##References
 1. ANZCA. [PS49: Guidelines on the Health of Specialists and Trainees](http://www.anzca.edu.au/Documents/ps49-2010-guidelines-on-the-health-of-specialists.pdf).
+2. Occupational hazards of anaesthesia | BJA Education | Oxford Academic [Internet]. [cited 2019 Nov 2]. Available from: https://academic.oup.com/bjaed/article/6/5/182/336915
+3. Mayall R. Substance abuse in anaesthetists. BJA Education. 2016 Jul;16(7):236–41. 
