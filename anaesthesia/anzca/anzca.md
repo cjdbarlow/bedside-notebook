@@ -122,7 +122,7 @@ Covered under:
 	* [Sustainability](/anaesthesia/anzca/sustainability.md)
 * [PS65: Guidelines for the Performance Assessment of a Peer](http://www.anzca.edu.au/documents/ps65-2018-guidelines-for-the-performance-assessmen.pdf)  
 Covered under:
-	* [Performace Appraisal](/anaesthesia/anzca/peer-review.md)
+	* [Performance Appraisal](/anaesthesia/anzca/peer-review.md)
 
 
 ---

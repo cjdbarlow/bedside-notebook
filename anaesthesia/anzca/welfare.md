@@ -18,7 +18,7 @@ Doctors should:
 
 ##Professional Care
 Doctors and departments should:
-* Faciltate access to GPs and other health professionals
+* Facilitate access to GPs and other health professionals
 * Maintain a list of resources to help doctors with health issues
 * Provide orientation programs to:
 	* Reduce stress
