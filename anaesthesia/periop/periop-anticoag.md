@@ -1,31 +1,32 @@
 #Peri-Operative Management of Anticoagulation and Antiplatelets
 
 Effective management of anticoagulation requires balancing thrombo-embolic and haemorrhagic risk. In general:
+* Detailed trial data is limited
 * Bridging therapy should be used in those at high risk of stroke  
-Defined as >10% annualised risk of stroke.
-* DAPT is required:
-	* For 4 weeks for BMS
-	* Up to 12 months for DES 
-	Complex stenting may require increased duration.
+Defined as ⩾10% annualised risk of stroke.
+
+
+
 
 ##Risk Stratification
 Patients can be divided by:
 * Thrombotic risk
-* Bleeding (surgical) Risk
+* Bleeding (surgical) risk
 
 Patients can then be stratified into:
 * **Low thromboembolic** and **low bleeding risk**  
 Continue anticoagulation.
 * **Low thromboembolic** and **high bleeding risk**  
-Withhold anticoagulation and antiplatlet agents (see below) without bridging.
+Withhold anticoagulation and antiplatelet agents (see below) without bridging.
 * **High thromboembolic** and **high bleeding risk**  
-Withhold anticoagulation and antiplatlet agents, and consider **bridging therapy**.
-
+Withhold anticoagulation and antiplatelet agents, and consider **bridging therapy**.
 
 ###Thrombotic Risk
+>Increasing risk increases the importance of minimising the period without anticoagulation
+
 Divided into:
 * **High risk**  
->10% annual CVA risk. Includes:
+⩾10% annual CVA risk. Includes:
 	* AF with:
 		* Valvular AF  
 		AF secondary to valvular disease (either prosthetic, or related to rheumatic valvular disease) has a much higher stroke rate than non-valvular AF.
@@ -37,7 +38,7 @@ Divided into:
 		Ball and cage, tilting disc.
 	* VTE where:
 		* VTE in last 3 months  
-		If VTE occured in last month AND anticoagulation is contraindicated, consider an IVC filter.
+		If VTE occurred in last month AND anticoagulation is contraindicated, consider an IVC filter.
 		* Severe thrombophilia
 		* Protein C/S or antithrombin deficiency
 * **Intermediate risk**  
@@ -49,22 +50,21 @@ Divided into:
 		* Recurrent VTE
 		* Active malignancy
 * **Low risk**  
-< 4% annual risk. Includes:
+⩽4% annual risk. Includes:
 	* CHADS<sub>2</sub> 0-2
 	* Bileaflet mechanical aortic valve alone
-	* VTE >12 months ago
-
+	* VTE ⩾12 months ago
 
 ###Bleeding Risk
 Surgical risk of bleeding is classified into:
 * Low risk
-	* Can be performed with an INR of 1.5-1.8
+	* Can be performed with an INR of ⩽1.5
 	* Includes:
 		* Dental surgery
 			* Extraction of 1-3 teeth
 			* Periodontal surgery
 			* Abscess incision and draining
-		* Opthalmological surgery
+		* Ophthalmological surgery
 			* Cataract surgery
 			* Glaucoma intervention
 		* Endoscopy without surgery (but with biopsy)
@@ -74,28 +74,27 @@ Surgical risk of bleeding is classified into:
 		* EP study or simple ablations
 		* Trans-radial endovascular/angiographic procedures
 * High risk
-	* Bleeding risk is not elevated with an INR of ≤1.5
-	* Bleeding risk is elevated with INR >2.0
+	* Neuraxial anaesthesia
+	* Cardiac surgery
+	* Thoracic surgery
+	* Abdominal surgery
+	* Major orthopaedic surgery
+	* Liver biopsy
+	* Renal biopsy
+	* TURP
 
 
-##Management of Antiplatelets
-|Drug|When to cease|
-|--|--|
-|**Aspirin**|Usually continued, as risk of bleeding not substantially increased but risk of perioperative CVS event is increased 3-fold.<br>Cease 5-7 days prior to surgery if required.
-|**Clopidogrel**|5-7 days|
-|**Prasugrel**|5-7 days|
-|**Ticagreol**|5-7 days|
 
-Discussion with cardiology team required if DAPT interrupted inside of PCI window.
+
 
 ##Management of Oral Anticoagulants
 
 |Drug|When to cease for **low bleeding risk surgery**|When to cease for **high bleeding risk surgery**|
 |--|--|
 |**Warfarin**|5 days; check INR (see below)|5 days; check INR|
-|**Dabigatran**|24 hours (normal renal function)<br>48-72 hours (eGFR < 50mL/min)|48-72 hours (normal renal function)<br>96 hours (eGFR < 50mL/min)|
-|**Rivaroxaban**|24 hours (normal renal function)<br>48 hours (eGFR < 50mL/min)|48-72 hours (normal renal function)<br> 72 hours (eGFR < 50mL/min)|
-|**Apixaban**|24 hours (normal renal function)<br>48 hours (eGFR < 50mL/min)|48-72 hours (normal renal function)<br> 72 hours (eGFR < 50mL/min)|
+|**Dabigatran**|Normal renal function: 24 hours<br>eGFR < 50mL/min: 48-72 hours|Normal renal function: 48-72 hours<br>eGFR < 50mL/min: 96 hours|
+|**Rivaroxaban**|Normal renal function: 24 hours<br>eGFR < 50mL/min: 48 hours|Normal renal function: 48-72 hours<br>eGFR < 50mL/min:  72 hours|
+|**Apixaban**|Normal renal function: 24 hours<br>eGFR < 50mL/min: 48 hours|Normal renal function: 48-72 hours<br>eGFR < 50mL/min:  72 hours|
 
 Discuss with haematology if eGFR is < 30mL/min.
 
@@ -138,6 +137,10 @@ Appropriate when INR is stable in the preceeding 2-4 weeks.
 			* Delay surgery
 			* Reverse residual warfarin effect with prothrombinex or FFP
 
+
+Bleeding risk with warfarin:
+* Bleeding risk is not elevated with an INR of ≤1.5
+* Bleeding risk is elevated with INR >2.0
 
 ###Management of Novel Oral Anticoagulants
 Note that NOACs:
