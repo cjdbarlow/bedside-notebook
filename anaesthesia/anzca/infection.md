@@ -1,19 +1,19 @@
 #Guidelines on Infection Control in Anaesthesia
 
 Definitions:
-* Asepsis  
+* **Asepsis**  
 Prevention of microbial contamination of living tissues or sterile materials.
-* Disinfection  
+* **Disinfection**  
 Inactivation of non-sporing organisms with thermal or chemical means.
-* Sterilisation  
+* **Sterilisation**  
 Complete destruction of all microorganisms, including spores.
 
 Equipment classifications:
-* Critical  
+* **Critical**  
 Penetrate skin or mucous membranes, or enters a sterile space. Requires sterilisation.
-* Semi-critical  
-In contact with intact mucous membranes or becomes contaminated with readily transmissable organisms. Requires sterilisation or high level disinfection.
-* Non-critical  
+* **Semi-critical**  
+In contact with intact mucous membranes or becomes contaminated with readily transmissible organisms. Requires sterilisation or high level disinfection.
+* **Non-critical**  
 Contacts skin or does not contact the patient. Requires a low-level of disinfection or cleaning.
 
 ##Infection Prevention
@@ -37,7 +37,7 @@ Should be minimised, and theatre doors should be closed.
 * Sharps  
 Should be:
 	* Disposed of immediately after use
-	* Not resheathed, ben, broken, or manipulated
+	* Not re-sheathed, bent, broken, or manipulated
 
 Active management:
 * Antibiotics

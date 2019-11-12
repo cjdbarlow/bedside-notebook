@@ -160,6 +160,8 @@ Will affect intra-operative positioning.
 Place hands over each scapula.
 * Defibrillation be performed in the prone position  
 Pads can be placed posterolaterally under each axilla.
+* If in Mayfield clamp  
+Remove mayfield clamp for cardiac compressions and CPR.
 
 ---
 ##References

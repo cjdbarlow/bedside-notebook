@@ -83,4 +83,16 @@ Requires:
 * Removal of tube at end-inspiration  
 Vocal cords maximally abducted.
 
+
+##Regional Strategies
+
+###Short-Acting Neuraxial
+> Ideal for day cases where avoidance of GA is ideal
+
+
+Perform a CSE with:
+* Spinal  
+1ml 0.5% heavy bupivacaine and 20μg fentanyl.
+* Top up with 5ml 2% lignocaine to desired block height
+
 ---

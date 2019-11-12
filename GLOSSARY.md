@@ -492,6 +492,9 @@ Osteoarthritis *or* Occiput Anterior (obstetrics)
 ##OHG
 Oral Hypoglycaemic
 
+##OIVI
+Opioid-Induced Ventilatory Insufficiency
+
 ##OLV
 One-Lung Ventilation
 

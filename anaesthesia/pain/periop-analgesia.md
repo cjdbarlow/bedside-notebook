@@ -1,6 +1,22 @@
 #Post-Operative Analgesia
 
 
+##Opioid-Based Strategies
+
+
+
+###Methadone
+Sythetic opioid with some unique properties:
+* Some NMDA affinity
+* High interindividual pharmacokinetic variability
+* Long half life of up to 60 hours  
+May lead to prolonged respiratory depression in overdose.
+* Prolongation of QT interval  
+TDP associated with chronic high dose, rather than single perioperative dosing.
+
+Use:
+* Dose ~0.2mg/kg, up to 20mg
+
 
 ##Neuraxial Techniques
 
@@ -66,3 +82,4 @@ Motor blockade provides muscle relaxation, decreasing the requirement to adminis
 1. N. Meylan, N. Elia, C. Lysakowski, M. R. Tramèr. [Benefit and risk of intrathecal morphine without local anaesthetic in patients undergoing major surgery: meta-analysis of randomized trials](https://academic.oup.com/bja/article/102/2/156/304818). BJA: British Journal of Anaesthesia, Volume 102, Issue 2, 1 February 2009, Pages 156–167.
 2. McLeod GA, Cumming C. [Thoracic epidural anaesthesia and analgesia](https://academic.oup.com/bjaed/article/4/1/16/356905). Continuing Education in Anaesthesia Critical Care & Pain, Volume 4, Issue 1, 1 February 2004, Pages 16–19.
 3. Schug SA, Palmer GM, Scott DA, Halliwell R, Trinca J. [Acute pain management: scientific evidence, fourth edition, 2015](http://fpm.anzca.edu.au/documents/apmse4_2015_final). Med J Aust. 2016 May 2;204(8):315–7. 
+4. Russell T, Mitchell C, Paech MJ, Pavy T. Efficacy and safety of intraoperative intravenous methadone during general anaesthesia for caesarean delivery: a retrospective case-control study. International Journal of Obstetric Anesthesia. 2013 Jan;22(1):47–51. 

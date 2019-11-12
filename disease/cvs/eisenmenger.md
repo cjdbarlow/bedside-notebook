@@ -1,0 +1,65 @@
+#Eisenmenger's Syndrome
+
+Reversal of a right-to-left shunt, creating a left-to-right shunt. Eisenmenger's syndrome:
+* Occurs due to progressive right sided volume or pressure overload  
+
+##Epidemiology and Risk Factors
+##Pathophysiology
+Develops chronically, due to:
+* Right sided volume/pressure overload  
+Increases PVR.
+* Compensatory RV changes
+	* RV hypertrophy
+* Pulmonary hypertension  
+When right-sided pressures exceed left-sided pressures, reversal occurs.
+
+###Aetiology
+Any left-to-right shunt o:
+* ASD
+* VSD
+
+##Clinical Manifestations
+Decompensated cyanotic heart disease:
+* Cyanosed
+* Significant SOBOE
+* Poor exercise tolerance
+* Cardiac failure
+	* Right heart overload
+* Altered end-organ function
+
+##Diagnostic Approach and DDx
+##Investigations
+##Management
+Principles include:
+* Treat cardiac failure
+* Pulmonary vasodilators
+
+###Anaesthetic Considerations
+SET:
+* HDU desirable  
+For:
+	* PCA analgesia
+	* Hypoxia and ventilation monitoring
+	* Haemodynamic monitoring
+
+* B
+	* Normocapnoea
+	* Normoxia
+* C
+	* Strongly consider arterial line
+	* Maintain preoperative baseline haemodynamics
+	* Maintain CO and SVR  
+	May worsen shunt.
+	* Consider pulmonary vasodilators  
+	PVR may not reduce in patients with fixed pathology.
+* D
+	* Anaesthetic technique
+		* Greater incidence of desaturation with sedation than GA
+
+###Ineffective Therapies
+##Complications
+##Prognosis
+##Key Studies
+
+---
+##References

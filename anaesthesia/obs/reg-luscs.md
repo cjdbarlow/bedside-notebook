@@ -47,7 +47,7 @@ Adequate patient preparation and **expectation management** is key:
 * Discuss with patient that:
 	* Spinal does not remove all sensation
 	* It will be uncomfortable at certain points, and this is normal
-		* Pull prior to uterine incisoin
+		* Pull prior to uterine incision
 		* Upper abdominal pressure to deliver baby
 	* Pain should not occur
 * Sitting position preferred if patient will tolerate this
@@ -70,10 +70,10 @@ Covers:
 [Many different options for dosing](#dosing). A reliable recipe (with a total volume of 3ml) is:
 	* 2.2ml of 0.5% heavy bupivacaine
 	* 15μg of fentanyl
-	* 100μg intrahtecal morphine
+	* 100μg intrathecal morphine
 * Lie supine with pillow
 	* Trendelenburg can be used to increase the cranial spread
-	* Reverse trendelenburg will reduce cranial spread   
+	* Reverse Trendelenburg will reduce cranial spread   
 	Increase the degree of tilt if block is rising/rises too cranially.
 * Place wedge
 * Commence phenylephrine infusion  
@@ -115,7 +115,7 @@ May be added to improve analgesia intra- and post-operatively.
 	* No block  
 	Catheter may be inadequately positioned. Consider:
 		* Resiting epidural
-		* Peforming spinal
+		* Performing spinal
 	* Inadequate block  
 	Epidural may be resited or withdrawn.
 		* Consider
@@ -175,6 +175,12 @@ As per [epidural top-up](#etu).
 			Alert paediatrics if this is given prior to delivery. Short acting agents preferred:
 				* Alfentanil
 				* Fentanyl
+			* Sedation  
+			Midazolam 1-2mg IV.
+			* Ketamine  
+			10-30mg IV. Pretreat with midazolam.
+			* Additional local anaesthetic by obstetric team  
+			Can be delivered locally to site of wound, especially if pain occurs during closure.
 			* Conversion to GA  
 				* Generally comply with this if the patient requests it and risk is not extreme
 				* Often required if pain occurs before foetal delivery

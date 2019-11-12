@@ -174,6 +174,24 @@ Should include:
     * Complications
 
 
+###Dosing
+Dosing epidural depends on:
+* Targeted block level
+* Required speed of onset
+* Desired density of blockade  
+Analgesia vs. surgical anaesthesia.
+
+
+Analgesia:
+* Ropivacaine 0.1-0.25%
+
+
+Anaesthesia:
+* Ropivacaine 0.5%
+* Lignocaine 2%
+
+
+
 ##Complications
 * Dural puncture (~1/100)  
 Post-dural puncture headache.
