@@ -56,25 +56,43 @@ Removes weight of syringe from needle improving manual dexterity.
 
 
 ##Technique
-*Assumes monitoring, IV access, time-out, topical local anaesthetic drops, and sedation have been performed, as discussed [here](/anaesthesia/opthal/opthal-la.md#id).*
+> Avoid oversedation - patients are usually frail, and the very fine needles are minimally painful. A small dose of midazolam and alfentanil are adequate for good conscious sedation.
+
+*Assumes monitoring, IV access, time-out, topical local anaesthetic drops, and conscious sedation have been performed, as discussed [here](/anaesthesia/opthal/opthal-la.md#id).*
 
 * Apply antiseptic  
 Ensure there is some antiseptic under the lower lid and in the conjunctival sac.
 * Ask the patient to look directly ahead
 * Perform block:
-	* Palpate **medial two-thirds** and **lateral one-third** of the inferior rim of the orbit
+	* Palpate **medial two-thirds** and **lateral one-third** of the inferior rim of the orbit  
+	This should be lateral to the limbus, to avoid damaging the fragile extra-ocular muscles.
 	* Using a 23-27G needle, advance **directly backwards**  
 	Parallel to orbital floor.
 	**Limit insertion depth to 25mm**.
+		* Avoid displacing the globe with a finger - this may cause globe rotation and the posterior part to move into the path of the needle
+		* Bevel should be orientated supero-medially
 		* If contacting bone, redirect slightly superiorly
-		* If the globe rotates, this suggests scleral contact
+		* If the globe rotates, this suggests scleral contact  
+		Ensure patient can **move eye freely** once in at desired depth.
+		* Slight superior and medial angulation can be performed once past the equator of the globe
 	* Aspirate, then inject 4-10ml of LA
 		* Cease injection if the globe becomes tense
 * Use digital pressure or a Honan balloon to compress the globe, reducing LA volume and therefore IOP
-* Assess for block efficacy
+* Assess for block efficacy  
+Assess:
+	* Eye opening  
+	Levator block is usually a good indication of block efficacy.
+	* Eye movements
+	* Eye closing  
+	* Vision  
+	Difficult to interpret; normal findings include:
+		* Normal vision
+		* Grayscale vision
+		* Flashing lights
 * If required, a **top-up block** can be performed with a **different technique**:
-	* Place the needle at the medial canthus
-	* Aim towards the medial wall of the orbit
+	* Using a 30G 13mm needle
+	* Place needle between the caruncle and medial canthus
+	* Aim directly back, perpendicular to the coronal plane
 	* Inject 3-4ml LA
 
 

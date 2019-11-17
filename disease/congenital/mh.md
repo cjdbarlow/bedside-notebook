@@ -1,0 +1,173 @@
+#Malignant Hyperthermia
+
+*This provides an overview of malignant hyperthermia, as well as management of an MH-crisis. Preparing a [trigger-free anaesthetic](/anaesthesia/general/trigger.md) is covered elsewhere.*
+
+Inherited pharmacogenetic disease of skeletal muscle that:
+* May be triggered by volatile anaesthetic agents or succinylcholine
+	* Variable expression
+	* Patient may be exposed without consequences  
+	Susceptible patients have had an average of 3 GAs prior to presentation.
+* Causes uncontrolled muscular contraction and relaxation, leading to:
+	* Hyperthermia
+	* Rhabdomyolysis
+		* AKI
+	* Arrhythmia
+
+
+#####<span style="color:red">Immediate Management</span>{#emerg}
+>Prompt treatment with dantrolene and hyperventilation may obviate the need for active cooling
+
+Priorities are to:
+* **Discontinue trigger**ing agents
+* **Hyperventilate**
+* Inform surgeons and abandon operation if feasible
+* **Administer dantrolene**  
+2.5mg/kg up to 10mg/kg as needed until metabolism controlled.
+* **Treat hyperthermia**  
+Major predictor of outcome:
+	* Should not distract from dantrolene
+	* Should be ceased when temperature is 38°C to prevent over-cooling
+	* Strategies include:
+	* Non-invasive
+		* Cold IV fluids  
+		40ml/kg of 20°C crystalloid, limited by safe fluid volume.
+		* Ice-packs
+		* Forced-air cooling
+		* Cold-water blankets
+		* Ice-water immersion
+	* Invasive
+		* Intravascular cooling devices
+		* CPB
+		* Peritoneal lavage
+
+
+##Epidemiology and Risk Factors
+Prevalence:
+* Wide range of estimates  
+Probably 1:5,000 to 1:10,000.
+* Incidence in anaesthesia is ~1:40,000 to 1:100:000
+
+
+##Pathophysiology
+Defective ryanodine calcium channel gene leads to:
+* Uncontrolled calcium entry into muscle
+* Continuous actin-myosin interaction  
+Requires massive consumption of ATP, leading to:
+	* Hyperthermia and hypercarbia
+	* Rhabdomyolysis
+
+###Aetiology
+Cal
+
+##Clinical Manifestations
+Early signs:
+* Elevated CO<sub>2</sub>
+* Masseter spasm  
+May be severe, and jaw may not be able to be opened.
+	* Concern if:
+		* Unable to open the mouth after 2 minutes
+		* Difficulty opening the mouth after 4 minutes 
+* Tachycardia
+* Arrhythmia
+
+Developing:
+* Acidosis
+* Hyperthermia
+* CVS instability
+* Hyperkalaemia
+
+Late:
+* Cola-coloured urine
+* Coaguolpathy
+* Hypoxia
+* Rhabdomyolysis
+* Cardiac arrest
+
+Triggers:
+* Suxamethonium  
+May occur alone, in the absence of volatile agent.
+* Volatile anaesthetic agents  
+**Not** nitrous oxide.
+* Exercise  
+Case-report level evidence that individuals suffering severe heat injury often have ryanodine receptor mutations, and should be treated as MH.
+
+##Diagnostic Approach and DDx
+Key differential diagnoses:
+* Inadequate anaesthesia
+* Infection/sepsis
+* Torniquet ischaemia
+* Phaeochromocytoma
+* Thyroid storm
+* Cerebral ischaemia
+* Anaphylaxis
+
+##Investigations
+Immediate investigations:
+* Blood gases
+* FBE/UEC/CMP
+
+
+Confirmatory investigations: {#confirm}
+* *In vitro* contracture testing  
+Muscle excised under regional anaesthesia and tested with halothane and caffeine to determine response.
+* Genetic testing  
+	* Limited due to the complex genetic variations
+
+##Management
+Dantrolene:
+* Initial dose 2.5mg/kg
+* Repeat up to 10mg/kg
+* Repeat doses at 1mg/kg Q4-6H whilst monitoring for recurrence
+
+
+###Management of Masseter Muscle Spasm
+Isolated masseter spasm may be the first sign of an MH event. If it occurs:
+* Patient should be observed for risk of rhabdomyolysis
+	* Rhabdomyolysis without other signs of MH should be referred to a neurologist for myopathy investigation  
+	If no myopathies are identified, MH testing should be considered.
+* No investigation is required if masseter spasm is associated with a history of a TMJ disorder
+
+###Parturient with a Parter who is MH-Susceptible
+Largely theoretical concern that:
+* Foetus may be MH-susceptible
+* Foetus may develop MH if mother is given GA whilst pregnant
+
+
+Suggested management:
+* Confirmation of fathers MH status
+* Use of a non-triggering anaesthetic for mother for any procedure whilst pregnant
+* **Recommendation** of **epidural** analgesia for **labour and delivery**  
+Epidural top-up should be used if GA conversion is required.
+* If GA is required for caesarian:
+	* Volatile should be avoided until after delivery
+	* Suxamethonium *may* be used if required  
+	Very little drug will cross the placenta.
+
+###Follow-Up
+After treatment of suspected MH, the patient should be referred for:
+* [Confirmatory investigations](#confirm)
+* Genetic counselling  
+* Investigation of first degree relatives
+
+###Anaesthetic Considerations
+* E
+	* Temperature monitoring  
+	For all patients for GA lasting longer than 30 minutes.
+
+##Complications
+Include:
+* Recurrence  
+Occurs in **20%** of patients; 80% of which occur within 18 hours.
+* Rhabdomyolysis
+* Death  
+Occurs in ~2-3% if treated with dantrolene.
+	* Risk increased 10-fold if temperature monitoring is not used
+
+
+##Prognosis
+
+##Key Studies
+
+---
+##References
+1. Halsall PJ, Hopkins PM. Malignant hyperthermia. BJA CEPD Reviews. 2003 Feb;3(1):5–9. 

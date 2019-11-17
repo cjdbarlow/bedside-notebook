@@ -32,7 +32,7 @@ Relative:
 *This covers contraindications specific to spinal anesthesia. General contraindications to neuraxial techniques are covered under [principles of neuraxial anaesthesia](/anaesthesia/regional/principles/principles-neuraxial.md).
 
 * Operative duration  
-	Surgery expected to last >2 hours will usualy require a different technique.
+	Surgery expected to last >2 hours will usually require a different technique.
 
 
 * C
@@ -55,64 +55,13 @@ Regular (e.g. 1 minutely) BP after spinal injection.
 Consider infusion if it is necessary to defend SBP.
 * LP equipment
 * Local anaesthetic  
-Classically bupivacaine is used:
-	* Typically lasts **2-2.5 hours**
-	* Can be either:
-		* Hyperbaric/heavy bupivacaine  
-		Mixed with 8% dextrose. Heavy bupivacaine:
-			* Provides a denser block
-			* Blocks more inferior nerve roots
-			* Can be adjusted by adjusting the tilt of the table  
-			For a block at L3/4:
-				* Sitting patients will tend to achieve an upper block height on T7-T10  
-				Allows a dense saddle block to be achieved.
-				* Supine patients will tend to achieve an upper block of T4-T7
-			* Dosing of heavy bupivacaine
-				* Adults: 2-4ml (10-20mg)
-				* <5kg: 0.4-0.5mg/kg
-				* 5-15kg: 0.3-0.4mg/kg
-				* 15-40: 0.25-0.3mg/kg
-		* Plain bupivacaine  
-		Mixed with saline online. Plain bupivacaine:
-			* Tends to rise slightly
-			* Cannot be adjusted
-			* Dosing
-				* Adults: 2-3.5ml 0.5% plain bupivacaine
-		* Opioid  
-		Opioid may be added to prolong the duration of analgesia and reduce the dose of LA required, at the risk of respiratory depression. Dosing:
-			* Fentanyl 10-25ug  
-			Lasts 1-4 hours.
-			* Morphine 100-300ug  
-			Lasts 8-24 hours.
-
-##Induction
-* Performance of lumbar puncture is covered [here](/procedures/regional/lp.md).*
-
-###Assessing Block
-* By temperature  
-As pain and temperature sensation are performed by the same pathway, assessing response to ice versus as central reference (e.g. forehead) can be used.
-* By pain  
-Assess response to pain (e.g. pinching with toothed forcepts) prior to commence operation
-* By motor function  
-Objective motor weakness indicates block level.
-
-
-###Troubleshooting Block
-* Block too low  
-	* With a hyperbaric solution  
-	Tilt the patient head down.
-	* With a plan solution  
-	Turn the patient supine and then prone again.
-* Block too high
-
-
 
 ###Factors Affecting Block Spread
 > With the exception of baricity and patient position, the influence of most of these factors is small and unpredictable
 
-* Baricity  
+* **Baricity**  
 Hyperbaric solutions behave more predictably due to the effect of gravity.
-* Patient position  
+* Patient **position**  
 Block height can be altered for up to 20 minutes post injection.
 * Concentration and volume of LA
 	* Volume determines extent of block
@@ -124,6 +73,70 @@ Blocks achieve a denser block close to the level of injection.
 Slower injections produce more predictable spread.
 * Intraabdominal pressure  
 Affects epidural vein volume, which in turn affects CSF volume.
+
+###Dosing
+Classically bupivacaine is used:
+	* Typically lasts **2-2.5 hours**
+	* Can be either:
+		* Hyperbaric/heavy bupivacaine  
+		Mixed with 8% dextrose. Heavy bupivacaine:
+
+			* Dosing of heavy bupivacaine
+				* Adults: 2-4ml (10-20mg)
+				* <5kg: 0.4-0.5mg/kg
+				* 5-15kg: 0.3-0.4mg/kg
+				* 15-40: 0.25-0.3mg/kg
+		* Plain bupivacaine  
+		Mixed with saline online. Plain bupivacaine:
+			* Tends to rise slightly
+			* Cannot be adjusted
+			* Dosing
+				* Adults: 2-3.5ml 0.5% plain bupivacaine
+		
+
+
+
+Additives:
+* 8% dextrose  
+Forms hyperbaric "heavy" bupivacaine, which:
+	* Allows block height and spread to be adjusted by position
+	* Can be adjusted by adjusting patient position  
+	For a block at L3/4:
+		* Sitting patients will tend to achieve an upper block height on T7-T10  
+		Allows a dense saddle block to be achieved with relatively small volumees.
+		* Supine patients will tend to achieve an upper block of T4-T7
+* Opioid  
+Opioid may be added to prolong the duration of analgesia and reduce the dose of LA required, at the risk of respiratory depression. Dosing:
+	* Fentanyl 10-25ug  
+	Lasts 1-4 hours.
+	* Morphine 100-300ug  
+	Lasts 8-24 hours.
+
+##Induction
+* Performance of lumbar puncture is covered [here](/procedures/regional/lp.md).*
+
+###Assessing Block
+* By temperature  
+Using ice, relative to a reference standard (e.g. the forehead). Temperature sensation will be lost **1-2 dermatomal levels above pain**, which is useful for determining adequate surgical anesthesia.
+* By pain  
+Assess response to pain (e.g. pinching with toothed forceps) prior to commence operation. Pain sensation is lost **1-2 dermatomal levels above touch**.
+* By touch
+* By motor function  
+Objective motor weakness, using the **Bromage score**:
+	* 0: No motor block
+	* 1: Inability to raise extended leg; able to move knees and feet
+	* 2: Inability to raise extended leg or knee; able to move feet
+	* 3: Complete motor block
+
+
+###Troubleshooting Block
+* Block too low  
+	* With a hyperbaric solution  
+	Tilt the patient head down.
+	* With a plan solution  
+	Turn the patient supine and then prone again.
+* Block too high
+
 
 ##Intraoperative
 ##Postoperative

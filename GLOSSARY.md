@@ -333,6 +333,12 @@ Haemoglobin
 ##HBOT
 Hyperbaric oxygen therapy
 
+##HIT
+Heparin-Induced Thrombocytopaenia
+
+##HITT
+Heparin-Induced Thrombocytopaenia and Thrombosis
+
 ##HPA
 Hypothalamic-Pituitary Axis
 

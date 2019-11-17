@@ -3,6 +3,8 @@ The orbit:
 * Contains mostly fat
 * Holds the globe in the anterior part  
 The equator of the globe lies at the lateral border.
+* Contains **six** extraocular muscles  
+The inferior and lateral rectus muscles sit at 6 o'clock and 9 o'clock respectively, so the greatest gap between them lies at the 7.5 o'clock position.
 
 The globe is:
 * Spherical
