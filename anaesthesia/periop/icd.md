@@ -109,7 +109,8 @@ Anaesthesia:
 * Standard monitoring
 * C
 	* Have defibrillation equipment available
-	* Consider induction with pads on if high risk
+	* Consider induction with pads on if high risk  
+	Pads should be placed **at least 8cm** from the device.
 	* Consider arterial line
 	* Consider cardiac output monitor
 * D
