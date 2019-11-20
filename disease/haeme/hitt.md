@@ -2,20 +2,20 @@
 
 Immune-mediated hypercoagulable state, that:
 * Occurs due to formation of auto-antibody to a heparin-platelet complex
-* Is classified into:
+* Has two types:
 	* **Type I**  
 	Transient drop in platelet count, and is not clinically significant.
 		* Occurs in first 2 days
 	* **Type II**  
 	Clinically significant HIT that may progress to HITT. Type II is:
 		* More common
-		* Presents **5-14 days after** heparin **exposure**
+		* Presents **5-14 days after** heparin **exposure**  
+		Leads to:
+			* Thrombocytopenia  
+			Usually to 30-50% of baseline.
+			* Thrombosis  
+			May be arterial or venous, and in both large and small vessels.
 
-* Leads to:
-	* Thrombocytopenia  
-	Usually to 30-50% of baseline.
-	* Thrombosis  
-	May be arterial or venous, and in both large and small vessels.
 
 ##Epidemiology and Risk Factors
 Incidence:
@@ -25,6 +25,7 @@ Incidence:
 Risk factors:
 * Critically ill  
 0.3-09.5%.
+* Surgery
 * Cardiac surgery  
 1-3%.
 * UFH > LMWH

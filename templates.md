@@ -54,6 +54,8 @@ Intro and technique
 ##Diagnostic Approach and DDx
 ##Investigations
 ##Management
+###Medical
+###Surgical
 ###Anaesthetic Considerations
 ###Ineffective Therapies
 ##Complications
