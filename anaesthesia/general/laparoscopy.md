@@ -1,6 +1,6 @@
 #Laparoscopy
 
-Insufflation of abdominal cavity with CO<sub>2</sub> up to pressures of 20mmHg, in order to facilitate intra-abdominal surgery.
+Insufflation of abdominal cavity with CO<sub>2</sub,> in order to facilitate intra-abdominal surgery.
 
 ##Physiology
 Key changes:
