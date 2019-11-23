@@ -22,18 +22,34 @@ Sub-MAC with a remifentanil infusion.
 		* Deep opioid analgesia with remifentanil
 		* Deep muscle relaxation (TOF of 0)
 * C
-	* **Bleeding from aneurysm is disastrous** and primary concern  
+	* Stable haemodynamics  
+	Avoid alterations in aneurysm transmural pressure critical to prevent re-bleeding.
+		* Usually target 140-160mmHg; discuss with surgeon
+		* Hypo- and hypertension can be disastrous
 	* Consider two IV access sites:  
 		* One large volume line
 		* One anaesthetic/remifentanil infusion line
+	* Arterial line
+	* Have a plan for:
+		* Aneurysmal rupture
+		* Management of temporary clipping
 * D
-	* Cerebroprotective strategies may be required if a temporary clip is placed over a major vessel
+	* ICP control
+		* Optimise CO<sub>2</sub>
+		* Head up
+		* Sodium
+		* Vent EVD if in situ and appropriate
+	* Cerebroprotective strategies may be required if a temporary clip is placed over a major vessel  
+	Increase BP gently to at least that of pre-operative BP.
+	* Vasospasm prophylaxis
+	* Avoid N<sub>2</sub>O
+
 * E
 	* Muscle relaxation  
 	Not *technically* required if using remifentanil, but paralysis recommended given the extreme requirement for immobility.
 		* Aim ToF = 0
 		* Consider relaxant infusion  
-		Cisatracurium reliable and will wear off adequately for extubation.
+		Cisatracurium reliable and will wear off adequately for extubation if ceased when skull replaced.
 
 ##Preparation
 * Standard monitoring
@@ -45,7 +61,8 @@ For aspiration of gas in case of air embolism in patients in seated position.
 
 ##Induction
 * Haemodynamic stability is vital  
-Avoid \<10% change in SBP.
+Avoid ⩽ 10% change in SBP.
+	* Propofol and remifentanil standard in most institutions
 
 
 ##Intraoperative
@@ -76,22 +93,37 @@ Consider:
 
 
 Cerebroprotection:
-* May be requested if:
-	* Clipping a major vessel
-	* Aneurysmal rupture
-* Thiopentone 3-5mg/kg bolus, then 3-5mg/kg/hr, targeted to burst suppression
+* May be requested if placing temporary clip on a major vessel
+* Goal is to maintain cerebral perfusion by collateral vessels
+* Gentle elevation in BP desirable
+
+
+Aneurysmal rupture:
+* Disastrous
+* Requires urgent surgical control of source
+* Anaesthetic goals
+	* Hypotension  
+	Achieve with whatever is to hand, options include:
+		* Propofol
+		* Remifentanil
+		* Thiopentone  
+		3-5mg/kg bolus, then 3-5mg/kg/hr, targeted to burst suppression.
+		* Esmolol
+		* Labetalol
+		* Adenosine
 
 
 ###Surgical Stages
 * Craniotomy
 * Dissection and exposure of aneurysm
 Delicate - **ensure immobility**.
-* Temporary clipping of vessels supplying aneurysm  
-Neuroprotection may be required.
+* Potential temporary clipping of vessels supplying aneurysm  
 * Clipping of aneurysm  
 Multiple clips may be applied.
-* Aspiration of aneurysm  
+* Potential aspiration of aneurysm  
 To ensure that there is no further flow to the lesion.
+
+
 
 ##Postoperative
 May require ICU care if:

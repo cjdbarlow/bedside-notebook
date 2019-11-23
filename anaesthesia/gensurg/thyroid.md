@@ -17,7 +17,7 @@ Removal of thyroid gland, usually by transverse neck incision. Performed for:
 * A
 	* Goitre
 		* Retrosternal
-			* >50% of goitres are retrosterenal  
+			* ⩾50% of goitres are retrosternal  
 			Associated with increased rate of complications.
 			* 90% have airway issues
 			* 1/3rd have dysphagia.
@@ -58,8 +58,6 @@ Removal of thyroid gland, usually by transverse neck incision. Performed for:
 * Subplatysmal flaps developed
 	* Anterior jugular veins avoided
 * Prethyroid fascia divided in midline
-
-
 * Thyroid gland resected  
 Depends on diagnosis.
 	* Total
@@ -82,20 +80,22 @@ Immediate serious post-operative complications include:
 	* Unilateral  
 	Hoarse voice.
 * Tracheomalacia  
-Acute upper airway obstuction due to tracheal collapse.
+Acute upper airway obstruction due to tracheal collapse.
 	* Requires emergent reintubation or tracheostomy
-	* Largely a historical remant  
+	* Largely a historical remnant  
 	Risk is exceedingly rare in modern practice.
 	* Risks may include:
 		* Duration of goitre
 		* Retrosternal extension of goitre
 		* Significance of extrinsic compression  
 		Tumour; may also include bronchogenic carcinoma or aortic aneurysm.
-* Haematoma  
+* Haematoma/Oedema  
 Expansion may lead to airway compromise.
 	* Rapidly reopen incision and drain remaining blood
 	* Consider CPAP to temporise airway
 	* Reintubation may be required immediately, or delayed (on return to theatre)
+
+
 
 Delayed complications include:
 * Hypoparathyroidism  
@@ -105,7 +105,8 @@ Inadvertent removal of parathyroid glands leading to acute fall in PTH and hypoc
 		* Tingling/numbness
 		* Tetany
 		* Seizures
-	* Treated with 10ml calcium gluconate IV
+	* Treated with calcium supplementation  
+	e.g. 10mL calcium gluconate IV.
 
 
 ---
