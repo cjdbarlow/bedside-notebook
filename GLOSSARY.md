@@ -34,7 +34,7 @@ Amniotic Fluid Index
 Alpha Foetal Protein
 
 ##AMA
-Against Medical Advice *or* dvanced Maternal Age
+Against Medical Advice *or* advanced Maternal Age
 
 ##ANP
 Atrial Natriuretic Peptide
@@ -155,6 +155,9 @@ Cardiopulmonary Bypass
 
 ##CPD
 Cephalopelvic Disproportion
+
+##CPET
+Cardio-Pulmonary Exercise Testing
 
 ##CPP
 Cerebral/Coronary Perfusion Pressure
@@ -642,6 +645,9 @@ Spontaneous Rupture of Membranes
 
 ##SSEP
 Somato-Sensory Evoked Potential
+
+##SSI
+Surgical Site Infection
 
 ##STJ
 Sinotubular Junction

@@ -22,13 +22,15 @@ Consider:
 Consider both the **grade of surgery** and the **medical status** of the patient:
 
 |Grade|ASA 1|ASA 2|ASA 3 or 4|
+|--|--|
 |**Minor**|||- UEC, if risk of AKI<br>- ECG, if none within 12 months|
 |**Intermediate**||- UEC, if risk of AKI<br>- ECG if DM, CVS/Renal disease|- FBE, if CVS/renal disease<br>- UEC<br>- ECG<br>- Coagulation, if liver disease<br>Lung function, if respiratory disease|
 |**Major**|- FBE<br>- UEC, if risk of AKI<br>- ECG, if >65|- FBE<br>- UEC<br>- ECG<br>|- FBE<br>- UEC<br>- ECG<br>- Coagulation, if liver disease<br>- Lung function, if respiratory disease|
 
 ###Grade of Surgery
 A reference for the above table, with examples:
-|Surgical Grades|Example
+
+|Surgical Grades|Example|
 |--|--|
 |**Minor**|- Excision of skin lesion|
 |**Intermediate**|- Inguinal hernia<br>- Tonsillectomy<br>- Knee arthroscopy|

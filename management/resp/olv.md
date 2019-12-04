@@ -29,7 +29,7 @@ Relative:
 ##Contraindications
 Inability to maintain oxygenation on one-lung.
 
-Predictors of hypxoxaemia:
+Predictors of hypoxaemia:
 * Patient
 	* Preferential perfusion to operative lung
 		* Right-sided surgery
@@ -63,7 +63,8 @@ DLTs:
 		* Surgical resection will involve the proximal left main bronchus
 		* Aberrant anatomy precludes use of a left-sided DLT
 * Measured in French gauge  
-In general; 41-39Fr is appropriate for males, and 37Fr for females.
+	* In general; 41-39Fr is appropriate for males, and 37Fr for females.
+	* Depth of DLT insertion: 12cm + 0.1cm/10cm of patient height
 
 
 Pros of DLTs:
@@ -77,7 +78,48 @@ Cons of DLTs:
 Require a bronchoscope with a < 4mm lumen to instrument a 35 Fr DLT.
 
 
-Types of DLTs:
+Insertion of a left-sided DLT:
+* Place DLT through cords with curve in A-P plane
+* Remove stylet once through cords
+* Rotate DLT 90°  
+Anticlockwise for left-sided.
+* Insert DLT until reaching slight resistance
+* Inflate tracheal cuff
+* Confirm ventilation and CO<sub>2</sub>
+* Evaluate position with bronchoscope
+	 * Bronchoscope down tracheal lumen
+	 * Confirm RUL position
+	 * If RUL unable to be visualised:
+	 	* Shield scope in tracheal lumen
+	 	* Deflate tracheal cuff
+	 	* Slowly withdraw tube until carina visualised
+	 	* Use scope as stylet to advance DLT to desired position
+* Inflate bronchial cuff under vision  
+Slight rim of blue cuff should be seen in the LMB.
+* Place bronchoscope down bronchial lumen to ensure left upper lobe bronchus not obstructed
+
+
+###Bronchial Blockers
+Pros:
+* Preferable in certain situations
+	* Difficult intubation
+	* High-risk tube exchange
+	* Tracheostomy
+	* Anatomical abnormalities
+* Selective lobar isolation  
+Apply CPAP down internal channel when wire removed.
+* Paediatrics
+
+
+Cons:
+* More difficult to:
+	* Correct hypoxaemia
+	* Perform lung toilet
+* Increased dislodgement
+* Slower:
+	* Lung deflation
+	* Positioning
+
 
 
 ##Isolation Technique
@@ -97,6 +139,7 @@ Aim for maximal denitrogenation; absorption of oxygen will speed up lung collaps
 * Open DLT to air, distal to the clamp, on the side to be deflated  
 	* Consider suctioning down open lumen to speed up collape
 * Confirm ventilation appropriate on remaining lung
+
 
 ###Isolation with Bronchial Blocker
 * Turn PEEP to 0cmH<sub>2</sub>O
@@ -122,7 +165,23 @@ Initially 5-10cmH<sub>2</sub>O until recruited, then decrease to 2-5cmH<sub>2</s
 	* To DLT lumen
 
 
-###Surgical Considerations
+###Lung Isolation in the Difficult Airway
+Options include:
+* Awake FOI with DLT
+* Awake FOI with SLT and BB
+* Awake FOI with SLT and airway exchange  
+Requires a catheter at least 70cm long.
+* Asleep DLT with combined VL and bronchoscopy
+
+
+Tracheostomy:
+* Remove and insert DLT  
+Certain DLTs made for this purpose.
+* Leave in and insert BB
+
+
+
+##Surgical Considerations
 Surgical technique will affect rate and adequacy of lung collapse:
 * Airtight seal with thorascopic ports will reduce pneumothorax development
 * Suctioning will re-expand lung
@@ -146,10 +205,9 @@ Occurs at lower than usual volumes due to paralysis, lateral position, and the w
 * Begin at:
 	* FiO<sub>2</sub> of 1.0  
 	Aim to down-titrate to 0.5-0.8.
-	* Vt of 8-10ml/kg
-		* Vt of <8ml/kg may lead to atelectasis
-		* Vt of >15ml/kg can increase PVR in the ventilated lung
-	* 5cmH<sub>2</sub> of PEEP
+	* Vt of 5ml/kg
+	* 5-10cmH<sub>2</sub> of PEEP  
+	Consider ZEEP in the severe COAD patient.
 * Targeting:
 	* Pplat < 25cmH<sub>2</sub>O
 	* PaCO<sub>2</sub> ~35mmHg  
@@ -157,6 +215,8 @@ Occurs at lower than usual volumes due to paralysis, lateral position, and the w
 
 
 ###Responding to Hypoxaemia
+>PaO<sub>2</sub> falls rapidly initially, with a nadir at 20-30 minutes. Will tend to improve as HPV increases.
+
 Critical hypoxaemia:
 * May occur with:
 	* Rapid decline
@@ -164,7 +224,8 @@ Critical hypoxaemia:
 	* Haemodynamic instability
 * Recruit operative lung until stabilised/help arrived
 	* Increase FiO<sub>2</sub>
-	* Two-lung ventilation
+	* Two-lung ventilation  
+	If SpO<sub>2</sub> <88-85%.
 	* CPAP
 
 Identify and treat common causes:
@@ -173,7 +234,7 @@ Identify and treat common causes:
 * Obstruction
 	* Suction
 * Derecruitment
-	* Recruitment manoever
+	* Recruitment maneuvre
 	30-40cmH<sub>2</sub>O, noting a drop in CO, BP, and SpO<sub>2</sub> will transiently follow.
 		* Arterial line useful if recruiting longer than 10-20s
 	* PEEP titration  
@@ -198,7 +259,7 @@ Likely cause of hypoxia when other factors are optimised. Consider:
 		* Inhaled PGE1 at 10ng/kg/min
 	* Intermittent two-lung ventilation  
 	May significantly hamper surgical access and prolong operating time.
-	* Clamp PA of operatigve lung
+	* Clamp PA of operative lung
 
 
 
@@ -213,3 +274,4 @@ Complications of one-lung ventilation include:
 ---
 ##References
 1. Lohser J. Managing Hypoxemia During Minimally Invasive Thoracic Surgery. Anesthesiology Clinics. 2012;30(4):683-697.
+2. Collins SR, Titus BJ, Campos JH, Blank RS. Lung Isolation in the Patient With a Difficult Airway. Anesth Analg. 2018 Jun;126(6):1968–78. 

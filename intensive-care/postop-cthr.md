@@ -9,7 +9,7 @@ Common cardiac surgical procedures include:
 	* Valve repair/replacement
 	* Aortic root repair/replacement
 	* Repair of ASD/VSD
-* Use of [Cardiopulmonary Bypass](/anaesthesia/cthr/cpb.md)
+* Use of [Cardiopulmonary Bypass](/anaesthesia/cardiac/cpb.md)
 * Post-operative complications seen
 
 ##Initial Evaluation

@@ -3,7 +3,7 @@
 >Cardiothoracic surgery has the anaesthetist and surgeon sharing the circulation. Anaesthetic management has to adapt to surgical requirements, and vice versa.
 
 
-*This covers the general considerations of cardiac anaesthesia except those relating to cardiopulmonary bypass, which are covered [here](/anaesthesia/cthr/cpb.md).*
+*This covers the general considerations of cardiac anaesthesia except those relating to cardiopulmonary bypass, which are covered [here](/anaesthesia/cardiac/cpb.md).*
 
 A cardiac anaesthetic needs to **prevent decompensation** by avoiding:
 * **F**ailure  
@@ -27,8 +27,20 @@ Evaluation should consider:
 * Planned operation
 * Age, weight, and height  
 For indexing and drug doses.
+* Allergies  
+Particularly:
+	* Heparin
+	* Protamine  
+	Seafood.
+	* Iodine
+	* Antibiotics
 * Preoperative medications
-	* Cease clopidogrel 7-10 days prior
+	* Cease antiplatelets prior:
+		* Clopidogrel 5-7 days
+		* Tirofiban 1-2 days
+		* Streptokinase 3 hours
+	* Heparin  
+	May be continued into the anaesthetic bay.
 	* Continue beta-blockers  
 	Consider initiating if not already instituted.
 	* Stop ACE-Is
@@ -50,7 +62,7 @@ Cardiac patients tend to be sicker. Particularly relevant features:
 	Associated with poorer outcomes.
 	* CKD  
 	Associated with poorer outcomes.  
-	* Dysphagia or oesophageal problems
+	* **Dysphagia** or oesophageal problems
 	Affects use of TOE.
 * Previous cardiac surgery  
 **Re-do sternotomy** is associated with substantial additional risk:
@@ -82,11 +94,25 @@ Investigations:
 	* CXR
 	* PFTs if indiated by respiratory disease
 * Cardiac-specific
-	* Angiogram
+	* Angiogram  
+		* Number, site and severity of stenoses
+		* Left main or equivalent stenosis
 	* Echocardigram
+		* LV function
+		* RV function
+		* Valvular function
 
 
 ##Preparation{#prep}
+Premedication:
+* Highly stressful period
+* Stress may lead to myocardial ischaemia
+* Consider:
+	* Lorazepam 2mg  
+	Night prior and on call to OT.
+	* Morphine 5-10mg or oxycodone 10-20mg PO  
+	On call to OT.
+
 Lines and monitoring:
 * 5-lead ECG
 * SpO<sub>2</sub>
@@ -125,7 +151,7 @@ e.g. Metaraminol 10mg in 20ml.
 * Rocuronium 100mg in 2x5ml
 
 
-* Heparin 300 units/kg if heparin naive
+* Heparin 300-400 units/kg if heparin naive
 
 
 Drugs (Infusions):
@@ -144,6 +170,7 @@ Induction:
 	* No myocardial depression
 	* No autonomic response
 	* No change in SVT
+	* Most inductions are equivalent, with the exception desflurane and ketamine
 * Typical doses
 	* Fentanyl 5-10ug/kg  
 	Up to 100ug/kg may be given over the course of the case in some centres.

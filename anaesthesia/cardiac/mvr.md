@@ -26,7 +26,7 @@ Typically for:
 
 
 ##Considerations
-*This covers factors unique to MVR. Factors relating to cardiac surgery in general are covered [here](/anaesthesia/cthr/cthr-principles.md#id).*
+*This covers factors unique to MVR. Factors relating to cardiac surgery in general are covered [here](/anaesthesia/cardiac/cardiac-principles.md#id).*
 
 * A
 	* OLV required for minimally invasive approach 

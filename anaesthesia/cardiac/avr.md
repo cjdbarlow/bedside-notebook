@@ -51,7 +51,7 @@ Appropriate for isolated regurgitation, with or without associated aneurysm. Tec
 
 
 ##Considerations
-*This covers factors unique to AVR. Factors relating to cardiac surgery in general are covered [here](/anaesthesia/cthr/cthr-principles.md#id).*
+*This covers factors unique to AVR. Factors relating to cardiac surgery in general are covered [here](/anaesthesia/cardiac/cardiac-principles.md#id).*
 
 * B
 	* Left heart failure
@@ -63,7 +63,7 @@ Appropriate for isolated regurgitation, with or without associated aneurysm. Tec
 
 
 ##Preparation
-*This covers factors unique to AVR. Factors relating to cardiac surgery in general are covered [here](/anaesthesia/cthr/cthr-principles.md#id).*
+*This covers factors unique to AVR. Factors relating to cardiac surgery in general are covered [here](/anaesthesia/cardiac/cardiac-principles.md#id).*
 
 ##Induction
 * Haemodynamically stable induction is vital

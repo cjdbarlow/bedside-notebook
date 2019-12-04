@@ -223,9 +223,9 @@ This combination:
 Suggested minimum effect-site concentrations for propofol/remifentanil TIVA in adults:
 
 |Age|Spontaneously Ventilating|PPV|
-|--|--|
-|\<50|PPF: 4-6μg/ml <br> Remi: 1-3ng/ml|PPF: 3-4μg/ml <br> Remi: 5-8ng/ml|
-|\>50|PPF: 2-4ug/ml <br> Remi: 1-2ng/ml|PPF: 2-3μg/ml <br> Remi: 3-6μg/ml
+|--|--|	
+|⩽50|PPF: 4-6μg/ml <br> Remi: 1-3ng/ml|PPF: 3-4μg/ml <br> Remi: 5-8ng/ml|
+|⩾50|PPF: 2-4ug/ml <br> Remi: 1-2ng/ml|PPF: 2-3μg/ml <br> Remi: 3-6μg/ml
 
 
 

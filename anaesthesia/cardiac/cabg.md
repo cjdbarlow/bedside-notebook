@@ -13,7 +13,7 @@ Use of an autologous artery or vein to bypass a stenosed section of coronary art
 * Can be performed 'on-pump' (with CPB) or 'off-pump'
 
 ##Considerations
-*This covers factors unique to CABG. Factors relating to cardiac surgery in general are covered [here](/anaesthesia/cthr/cthr-principles.md#id).*
+*This covers factors unique to CABG. Factors relating to cardiac surgery in general are covered [here](/anaesthesia/cardiac/cardiac-principles.md#id).*
 
 * B
 	* Atelectasis
@@ -57,7 +57,7 @@ Use of an autologous artery or vein to bypass a stenosed section of coronary art
 * Aim for haemodynamic stability, especially in the setting of critical left main stenosis
 
 ###Intraoperative
-*This covers factors unique to CABG. Factors relating to bypass are covered [here](/anaesthesia/cthr/cpb.md#id).*
+*This covers factors unique to CABG. Factors relating to bypass are covered [here](/anaesthesia/cardiac/cpb.md#id).*
 
 On-pump CABG can be divided into pre-, intra-, and post-bypass phases:
 * Pre-bypass

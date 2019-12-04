@@ -58,8 +58,8 @@ Incorporate an anti-proliferative drug which delays endothelialisation.
 		* ACS as indication
 		* Prior stent thrombosis
 		* Left mainstem or diffuse multivessel disease
-		* >3 stents
-		* >3 lesions
+		* ⩾3 stents
+		* ⩾3 lesions
 		* Bifurcation with 2 stents
 		* Total stent length >60mm
 		* All vessels stented
@@ -93,7 +93,7 @@ High-risk surgeries include:
 > For non-cardiac surgery, excluding carotid endarterectomy, in patients without coronary stents
 
 For **primary prevention**:
-* Should be discontinued at least 3 days prior
+* Should be discontinued at least 3 days prior  
 Reduces rate of major bleeding.
 
 For secondary prevention:
@@ -105,32 +105,4 @@ For secondary prevention:
 ---
 ##References
 1. Carruthers J, Shaw J, Tran H, Kusre S. Guideline: Perioperative Management of Antiplatelet Therapy in Patients with Coronary Artery Stents. The Alfred Hospital, Melbourne. May 2019.
-
-
-
-
-
-
-
-##Management of Antiplatelets
-|Drug|When to cease|
-|--|--|
-|**Aspirin**|- Cease for **7-10 days** for primary prevention, irrespective of bleeding risk<br>- Continue if for **secondary prevention** and low bleeding risk<br>
-|**Clopidogrel**|5 days|
-|**Prasugrel**|7 days|
-|**Ticagrelor**|3-5 days|
-
-Discussion with cardiology team required if DAPT interrupted inside of PCI window.
-
-
-
-
-
-
-
-
-
-
-
-
 

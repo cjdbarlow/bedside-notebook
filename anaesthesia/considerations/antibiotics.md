@@ -1,0 +1,196 @@
+#Surgical Antimicrobial Prophylaxis
+
+Perioperative antibiotic prophylaxis:
+* Refers to prevention of an initial SSI
+* Is one of the most effect measures for preventing surgical site infection  
+Variable risk:
+	* 2-5% for most patients
+	* Up to 10% for high risk
+
+##Epidemiology
+Risk factors for SSI:
+* Appropriate antibiotics
+* Infection control
+* Surgical technique
+* Duration of surgery
+* Sterilisation
+* Preparation
+* Temperature
+* BSL
+* Medical conditions
+
+
+##Administration
+Key principles:
+* Hospitals should establish a multidisciplinary antimicrobial team who develop, implement, and audit adherence to protocols
+* Drug administration is the responsibility of the anaesthetist
+* Drug should be administered within 60 minutes prior to skin incision, except for vancomycin and fluoroquinolones
+* Single dose is preferred  
+Repeat doses are indicated if:
+	* Duration of procedure compared to half-life of antibiotic
+	* Significant **blood loss**  
+	**⩾1.5L**, independent of antibiotic used.  
+	Dependent on V<sub>D</sub>; low V<sub>D</sub> indicates greater amount of antibiotic lost in blood.
+
+
+###Antibiotic Selection
+>* Regimen needs to be modified based on:
+	* Patient factors
+		* Presence of infection
+		* MRSA risk factors
+		* Recent travel
+	* System factors
+		* Local resistance patterns
+> * Avoid broad-spectrum agents
+> * Note that penicillin-allergic patients have significantly increased rates of *C. difficile*, VRE, MRSA infections, and longer hospital stays  
+> Therefore, *inappropriate* labeling of patients as penicillin-allergic has significant impact on care
+
+
+Based on normal flora of region:
+* Skin  
+Including cardiac, vascular, neurosurgery.
+	* Cefazolin  
+* Bowel  
+	* Non-obstructed  
+		* Cefazolin
+	* Obstructed or appendicitis
+		* Cefazolin and metronidazole
+* Orthopaedics
+	* General
+		* Cefazolin
+	* Gustilo Type 3 open fracture (>10cm soft tissue injury)  
+		* Aminoglycoside
+* Neurosurgery
+	* General
+		* Cefazolin
+	* Penetrating head trauma
+		* Cefazolin and aminoglycoside  
+		Empirically; i.e. without evidence of meningitis.
+	* Head trauma with sinus involvement
+		* Ceftriaxone
+* Urological
+	* With lower tract instrumentation:
+		* Cefazolin
+		* Fluoroquinolone
+	* With hardware implantation:
+		* Aminoglycoside
+	* Clean-contaminated
+		* Cefazolin and metronidazole
+* Liver transplant
+	* Piperacillin-tazobactam
+
+
+Special circumstances:
+* *Severe* immediate or delayed penicillin hypersensitivity 
+Substitution depends on concern about gram negative infection; cefazolin has better gram negative coverage than clindamycin and so this is not a like-for-like substitution.
+	* If minimal concern  
+	e.g. Head and neck.
+		* Clindamycin alone  
+		For minor surgery.
+		* Clindamycin and vancomycin  
+		For everything else: neurosurgery, orthopaedics, cardiac
+	* If concerned  
+	e.g. Bowel, biliary, obstetric, gynaecological:
+		* Clindamycin and aminoglycoside
+		* Aztreonam
+		* Fluoroquinolone
+* Hardware  
+For high risk patients:
+	* Vancomycin and cefazolin
+* Known or suspected MRSA
+	* Risk factors:
+		* Recent hospitalisation
+		* Nursing-home residents
+		* Haemodialysis patients
+	* Consider vancomycin
+
+
+
+###Dosing and Timing
+|Drug|Adult Dose|Paediatric Dose|Time prior to skin incision|Re-dosing Interval (with normal renal function)|Re-dosing Dose|
+|--|--|
+|Cephazolin|2g, 3g if >120kg|50mg/kg|Ideally 15 minutes, but 1-2 minutes may be equivalent|4 hours|Full|
+|Clindamycin|||Start 15-60 minutes prior to incision|6 hours|Full|
+|Ampicillin|2g|50mg/kg|2 hours|Full|
+|Vancomycin|15mg/kg|15mg/kg|Start 15-120 minutes prior to incision|>8 hours|Half|
+|Ciprofloxacin|400mg|10mg/kg|Within 120 minutes prior to incision|-|-|
+|Gentamicin|2.5-5mg/kg|2.5mg/kg|Within 60 minutes|-|-|
+
+
+Note that:
+* Patients on regular antibiotics should be re-dosed perioperatively as per the above re-dosing interval
+* If in doubt and the drug has a wide therapeutic range (e.g. β-lactams), it is likely safe to re-dose
+* Gentamycin dosing should be based upon the expected duration of prophylaxis
+	* 2.5mg/kg when <6 hours
+	* 5mg/kg when up to 24 hours
+* Skin incision can occur prior to completion of antibiotic infusion, but infusion should be running for at least 15 minutes prior to incision to allow adequate tissue concentration
+
+
+###Adjuncts
+* Mupriocin nasal ointment  
+Reduced SSIs in *S. Aureus* colonised patients.
+
+
+###Inappropriate Administration
+Antibiotic *prophylaxis* is **not recommended** in the following circumstances (and may increase risk due to development of resistance):
+* For 24 hours after surgery
+* With indwelling drains
+
+
+##Infective Endocarditis Prophylaxis
+Infective endocarditis prophylaxis:
+* Was traditionally given in procedures leading to bacteraemia  
+Noting that many activities of daily living (e.g. eating) also lead to a bacteraemia.
+* May prevent an exceedingly small number of IE cases
+* Causes greater harm due to antibiotic-associated adverse events
+
+
+###Epidemiology
+Patients with the highest risk of an adverse outcome from IE:
+* Valvular disease
+* Valve replacement
+* HOCM
+* Previous IE
+* Structural congenital heart disease  
+	* Including surgically corrected or palliated conditions
+	* Excluding:
+		* Isolated ASD
+		* Fully repaired VSD
+		* Fully repaired PDA
+
+
+###Administration
+IE prophylaxis should be given:
+* **Only** if a patient is at high risk of an adverse outcome  
+See above list.
+* **Only** for:
+	* Dental procedures involving:
+		* Manipulation of gingival tissue
+		* Manipulation of periapical region of teeth
+		* Perforation of oral mucosa
+	* Respiratory procedures involving mucosal incision  
+	e.g. Tonsillectomy, adenoidectomy.
+	* Procedures involving infected muscle, skin, or tissue
+
+
+Antibiotic administration:
+* Should cover any known infection at the site of procedure
+* Given pre-procedure  
+Up to 2 hours post-procedure if *inadvertently* missed.
+* Otherwise, the following are reasonable regimens:
+	* PO  
+	Amoxycillin 50mg/kg, up to 2g.
+	* IV  
+	Cephazolin 50mg/kg, up to 1g.
+	* β-lactam allergy   
+	Clindamycin 20mg/kg, up to 600mg.
+
+
+
+
+---
+##References
+1. Magiorakos A-P, Europäisches Zentrum für die Prävention und die Kontrolle von Krankheiten, editors. Systematic review and evidence-based guidance on perioperative antibiotic prophylaxis. Stockholm; 2013. 46 p. (ECDC Technical report). 
+2. Bratzler DW, Dellinger EP, Olsen KM, Perl TM, Auwaerter PG, Bolon MK, et al. Clinical practice guidelines for antimicrobial prophylaxis in surgery. Am J Health Syst Pharm. 2013 Feb 1;70(3):195–283. 
+3. Overview | Prophylaxis against infective endocarditis: antimicrobial prophylaxis against infective endocarditis in adults and children undergoing interventional procedures | Guidance | NICE [Internet]. [cited 2019 Dec 1]. Available from: https://www.nice.org.uk/Guidance/cg64
+4. Wilson Walter, Taubert Kathryn A., Gewitz Michael, Lockhart Peter B., Baddour Larry M., Levison Matthew, et al. Prevention of Infective Endocarditis. Circulation. 2007 Oct 9;116(15):1736–54. 

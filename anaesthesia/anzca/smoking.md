@@ -5,15 +5,21 @@ Overview:
 Greatest preventable cause of death in Australia and New Zealand.
 * Increased risk of perioperative respiratory, cardiac, and wound related complications
 	* Cessation prior to surgery improves surgical outcome
-* Perioperative perioid is a "teachable moment", where smokers may quit
+* Perioperative period is a "teachable moment", where smokers may quit
 
 Benefits of cessation:
 * Quitting smoking for:
-	* One day will lower carboxyhaemoglobin and nicotine levels  
+	* 12 hours will normalise carboxyhaemoglobin and nicotine levels  
 	Could be expected to improve tissue oxygen delivery.
+	* One day has a reduced IHD risk
+	* 2 days has improved taste and reduced sputum load
 	* Three weeks has been shown to improve wound healing
-	* Six to eight weeks results in sputum volumes that are not increased compared to non-smokers, and improved pulmonary function
+	* 2 months has normal sputum load, and improved pulmonary function
 	* Six months results in significant recovery of immune function
+	* One year has a 50% reduction in IHD risk
+	* 5 years; CVA and cervical cancer risk is normalised and oral and oesophageal cancer risk is halved
+	* 10 years; lung cancer risk is halved
+	* 15 years; IHD risk has normalised
 
 ---
 
