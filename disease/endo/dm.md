@@ -48,8 +48,8 @@
 |---|---|
 |Biguanide|Metformin|Withhold 24 hours pre-major surgery|Increase risk of lactic acidosis and tissue hypoxia if elimination impaired by renal hypoperfusion|
 |Sulphonylurea|Gliclazide, Glipizide, Glimepiride|Withhold day of surgery|Increase risk of hypoglycaemia|
-|Glitazones|Rosiglitazone, Pioglitazone|Withhold day of surgery|
-|GLP-1 agonists|Exanatide|Withhold day of surgery|
+|Glitazones|Rosiglitazone, Pioglitazone|Withhold day of surgery||
+|GLP-1 agonists|Exanatide|Withhold day of surgery||
 |DPP-4 inhibitors|Sitagliptin|Withhold day of surgery|Alter GI motility|
 |SGLT-2 inhibitors|Dapagliflozin, canagliflozin, empagliflozin|Withhold for 3 days prior|Euglycaemic DKA|
 
@@ -59,7 +59,7 @@ Management of insulin depends on:
 * The timing of the procedure
 * Whether the patient is taking bowel preparation
 
-|Type of Insulin|Trade Names|Day PRIOR to procedure|For an AM list|For a PM list|
+|Type of Insulin|Trade Names|Day PRIOR to procedure|Morning of procedure; for an AM list|Morning of procedure; for a PM list|
 |---|---|
 |Short Acting|- Novorapid <br>- Humalog <br>- Actrapid<br>|- Usual doses<br>- **Half** usual dose during bowel **preparation**|- Withhold<br>- Give sliding scale|- Half usual dose with early morning breakfast|
 |Intermediate Acting|- Protaphane <br>- Humulin NPH|- Give 2/3<sup>rds</sup> of usual dose<br>- **Half** usual dose during bowel **preparation**|- Withhold<br>- Give sliding scale|- Half usual dose with early morning breakfast|
