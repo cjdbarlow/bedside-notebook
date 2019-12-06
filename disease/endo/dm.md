@@ -101,22 +101,49 @@ Check BSL Q2H whilst fasting.
 
 
 ###Obstetric Complications
-Complications of maternal diabetes include:
-* Placental insufficiency  
-	* Uteroplacental blood flow is reduced 35-45%  
-	Additional impairment if blood glucose control is poor.
-	* Reduced oxygen transport on HbA<sub>1c</sub>
-* Superimposed pre-eclampsia
-* Diabetic ketoacidosis  
-Major factor increasing perinatal morbidity and mortality.
-* Increased foetal acidosis at delivery
+>Complication rate increased in women with pre-existing diabetes, rather than gestational diabetes mellitus (GDM)
+
+Maternal diabetes:
+* Results in complications for both:
+	* Mother
+		* Increased insulin resistance  
+		Increases over course of pregnancy.
+		* Superimposed pre-eclampsia
+		* Diabetic ketoacidosis  
+		Major factor increasing perinatal morbidity and mortality.
+	* Foetus
+		* Placental insufficiency  
+			* Uteroplacental blood flow is reduced 35-45%  
+			Additional impairment if blood glucose control is poor.
+			* Reduced oxygen transport on HbA<sub>1c</sub>
+		* Foetal macrosomia
+			* Shoulder dystocia
+		* Increased foetal acidosis at delivery
+		* Structural defects
+			* Cardiac
+			* Spina bifida
+			* Limb
+			* Renal agenesis
 
 
 Management considerations:
-* Epidural reduces foetal metabolic acidosis
-* Greater haemodynamic disturbance with spinal  
-Likely due to higher sympathectomy.
+* Prepartum
+	* Oral glucose tolerance test  
+	Required for diagnosis.
+	* Screen for end-organ involvement
+	* Provide instructions for fasting BSL management
+* Intrapartum
+	* No contraindications to regional analgesia or anaesthesia  
+	Note:
+		* Epidural reduces foetal metabolic acidosis
+		* Greater haemodynamic disturbance with spinal  
+	Likely due to higher sympathectomy.
+	* Q30 minutely BSL if under GA section
+* Post-partum
+	* **Reduce insulin** dose **after delivery** in women with **pre-exiting DM**
+	* **Cease insulin and OHGs** after delivery in women with **GDM**
 
+	
 ##Prognosis
 
 ---

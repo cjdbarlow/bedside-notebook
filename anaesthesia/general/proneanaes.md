@@ -125,14 +125,21 @@ Will affect intra-operative positioning.
 * Disconnect the ETT
 * Slowly turn the patient onto the operating table
 * Use a foam head holder to support the patients head
-	* Ensure that the eyes are free of pressure  
-	Use a mirror to confirm the eyes are not compressed.
 * Reconnect the ETT and complete an intraoperative cross-check
 	* A sustained or increased a Pip >5cmH<sub>2</sub>O should prompt review for endobronchial intubation or bronchospasm
-* Assess the pressure areas
-	* Ensure that axilla are not under tension  
+* Assess the pressure areas and position
+	* Ensure that the **eyes** are free of pressure  
+	Use a mirror to confirm the eyes are not compressed.
+	* Ensure **spine** is not excessively flexed or extended  
+	Common cause of injury.
+	* Ensure **abdomen** is not compressed  
+	Will lead to pressure injury, abdominal organ compression with potential intra-abdominal hypertension, and impair respiratory excursion.
+	* Ensure that **axilla** are not under tension  
 	May lead to brachial plexus palsy.
 	* Check other pressure points
+	* Place padding liberally on potential pressure areas and bony prominences
+	* Ensure **lines and cables** are not compressed into patient  
+	e.g. IV/arterial lines, ECG cables, SpO<sub>2</sub> cable, IDC, NGT.
 
 
 ###Emergence{#emergence}

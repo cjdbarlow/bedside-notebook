@@ -205,7 +205,7 @@
 	* [Trial of Forceps](/anaesthesia/obs/tof.md)
 	* [PPH](/anaesthesia/obs.pph.md)
 * [Orthopaedic](/anaesthesia/ortho/torniquets.md#id)
-	* [Intraoperative Tourniquets](/anaesthesia/ortho/torniquets.md)
+	* [Intraoperative Tourniquets](/anaesthesia/ortho/tourniquets.md)
 	* [THR](/anaesthesia/ortho/thr.md)
 	* [Femoral Fractures](/anaesthesia/ortho/femoral.md)
 	* [Spinal Surgery](/anaesthesia/ortho/spine.md)	
