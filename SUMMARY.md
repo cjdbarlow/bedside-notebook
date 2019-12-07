@@ -113,6 +113,7 @@
 		* [Prone Positioning](/anaesthesia/general/proneanaes.md)
 		* [Post-Operative Neuropathy](/anaesthesia/general/postopneuro.md)
 	* [Awareness](/anaesthesia/considerations/awareness.md)
+	* [Processed EEG](/anaesthesia/considerations/eeg.md)
 * [Regional Anaesthesia](/anaesthesia/regional/principles.md)
 	* [Complications](/anaesthesia/regional/regional-complications.md)
 	* [Neuraxial](/anaesthesia/regional/principles-neuraxial.md)

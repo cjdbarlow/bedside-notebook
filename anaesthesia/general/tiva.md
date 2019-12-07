@@ -1,6 +1,9 @@
 #Total Intravenous Anaesthesia
 
-TIVA is the creation of general anaesthesia soley by intravenous drugs. TIVA can be delivered via:
+*The interpretation of BIS-processed EEG waveform is [covered elsewhere](/anaesthesia/general/eeg.md).*
+
+
+TIVA describes provision of general anaesthesia solely by intravenous drugs (though some consider nitrous oxide to be a reasonable adjunct). TIVA can be delivered via:
 * Target-Controlled Infusions  
 Pumps programmed with pharmacokinetic models targeting a plasma or effect-site concentration of drug.
 * Rate-Controlled Infusions  
