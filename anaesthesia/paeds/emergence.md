@@ -1,0 +1,76 @@
+#Emergence Delirium
+
+Transient state of irritation and dissociation occurring after general anaesthesia. Emergence delirium is:
+* Most common in young children  
+Usually 2-5, but up to 10 years of age.
+* Characterised by:
+	* Confusion
+	* Distress
+	* Physical agitation
+	* Non-responsive to consolation
+* Self-limiting
+
+
+##Epidemiology and Risk Factors
+Associated factors include:
+* Speed of emergence
+* Nature of agent  
+Volatile *potentially* more likely than IV agents.
+* Pain
+* Surgery type  
+Increased risk with:
+	* ENT
+	* Ophthalmological
+* (Young) age
+* Preoperative anxiety
+* Anxiety
+	* Night terrors
+
+
+##Diagnostic Approach and DDx
+May be confounded by and confused with:
+* Pain
+* Emergence agitation  
+Distress due to:
+	* Hunger
+	* Thirst
+	* Pain
+	* Anxiety
+	* Hypoxia
+
+##Management
+> Parental anxiety is usually harder to manage than the child
+
+###Medical
+Preventative:
+* Premedication
+* Ensuring adequate analgesia
+	* Fentanyl
+	* Ketamine
+* Clonidine
+* Propofol on emergence  
+May slow emergence.
+
+
+Established:
+* Analgesia
+	* Fentanyl
+* Sedation
+	* Propofol
+	* Midazolam
+* Reuniting with parent
+* Waiting  
+Will resolve spontaneously.
+
+
+##Prognosis
+Emergence delirium is:
+* Self-limiting
+* May not occur again
+* Strongly associated with amnesia  
+Rare for child to recall any aspect of the delirious state.
+
+---
+##References
+1. Reduque LL, Verghese ST. Paediatric emergence delirium. Contin Educ Anaesth Crit Care Pain. 2013 Apr 1;13(2):39–41. 
+2. RCH. [Emergence Delirium Fact Sheet](https://www.rch.org.au/kidsinfo/fact_sheets/Emergence_delirium/). 2019. RCH.

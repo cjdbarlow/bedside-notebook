@@ -7,7 +7,8 @@ Causes spread of LA around the globe with a small volume of injection.
 ##Indications
 Anaesthesia and akinesia of the globe, in a patient with:
 * Increased axial length
-* Presence of anticoagulant or antiplatelet agents
+* Presence of anticoagulant or antiplatelet agents  
+Sub-tenons may be preferred by some providers, for a *potentially* lower risk of significant haematoma.
 
 ##Contraindications
 Surgical factors:

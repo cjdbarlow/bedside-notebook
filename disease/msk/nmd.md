@@ -35,12 +35,16 @@
 * A
 	* Aspiration risk  
 	Due to gastric dysmotility.
+	* Strict extubation criteria  
+	May require perioperative ICU admission.
 * B
 	* Respiratory function  
 	High incidence of peri-operative respiratory complications due to:
 		* Respiratory and pharyngeal muscle impediment
 		* Progressive spinal deformities
 		* Potential difficult airway
+		* Strongly consider perioperative BiPAP
+		* Continuous SpO<sub>2</sub> monitoring until consciousness resumed
 	* CXR
 	* PFTs
 * C
@@ -53,9 +57,11 @@
 		* Primarily due to increased risk of rhabdomyolysis, rather than increased MH risk (though this may still be present)
 		* TIVA with a clean anaesthetic machine is recommended
 	* Regional anaesthesia
-		* Advantageous if significant cardiac or respiratory disease
+		* Advantageous if significant cardiac or respiratory disease; and so is recommended whenever appropriate
 		* Autonomic dysfunction may be exacerbated with regional techniques
 		* Consider avoiding if rapidly progressing neurological deficit
+	* Minimise opioid use  
+	Multimodal analgesia, including regional techniques preferred.
 * E
 	* Avoidance of **neuromuscular blockers**
 		* Depolarising agents contraindicated (except in myasthenia gravis) due to:

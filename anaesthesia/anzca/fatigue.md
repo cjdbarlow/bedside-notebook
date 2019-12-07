@@ -2,7 +2,7 @@
 
 Anaesthesia requires:
 * High level of knowledge
-* Sound judgement
+* Sound judgment
 * Fast and accurate responses to rapidly evolving scenarios
 * Extended periods of vigilance
 
@@ -12,7 +12,7 @@ Fatigue may:
 * Impair:
 	* Vigilance
 	* Accuracy
-	* Judgement
+	* Judgment
 	* Communication
 * Reduce psychomotor performance  
 17 hours equivalent to a BAC of 0.05%, and 24 hours equivalent to 0.1%.
@@ -23,21 +23,39 @@ Highest risk between 0300 and 0700, and 1300 and 1600.
 
 
 ###Minimisation
-Effects may be minimsed by:
+Effects may be minimised by:
 * Naps
 	* 2 hour nap prior to night duty
 	* 30 minute nap during night duty
-	* Naps are followed by a perioid of "sleep inertia"  
+	* Naps are followed by a period of "sleep inertia"  
 	15-30 minute period of impaired performance after waking.
 * Sleep as soon as possible after night duty
-* Propery nutrition and hydration
+* Proper nutrition and hydration
 
+
+Out-of-hours procedures for:
+* Continuation of prolonged or complex elective procedures that were started during the day
+* Life, limb, or organ-threatening cases
+* Procedures where delay may result in significant harm
+* Obstetrics
 
 ##Responsibilities
 Anaesthetists should:
 * Organise their life so fatigue does not impact on clinical duties
+* Ensure they have **8 hours** off duty prior to starting their next clinical commitment
 * Not proceed with clinical duties if fatigue may interfere with safe patient care  
-Clinical committments after out-of-hours work should be covered by a colleague or post-poned until adequate rest has been taken.
+Clinical commitments after out-of-hours work should be covered by a colleague or postponed until adequate rest has been taken.
+
+
+Organisations should:
+* Provide a safe working environment
+* **Not commence procedures after 10pm** unless they are life-, limb-, or organ-threatening
+* Minimise long shifts:
+	* Over 12 hours is not recommended
+	* Planned shifts should always be below 16 hours
+* Provide rest facilities
+* Provide safe commuting options in case of fatigue  
+e.g. Reimburse taxi fare.
 
 ---
 ##References

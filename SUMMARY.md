@@ -213,6 +213,7 @@
 	* [Procedures under LA](/anaesthesia/opthal/opthal-la.md#id)
 * [Paediatrics](/anaesthesia/paeds/paed-considerations.md)
 	* [Premedication](/anaesthesia/paeds/premedication.md)
+	* [Emergence Delirium](/anaesthesia/paeds/emergence.md)
 	* [Perioperative Respiratory Complications](/anaesthesia/paeds/periop-resp.md)
 	* [Post-operative Apnoea](/anaesthesia/paeds/apnoea.md)
 	* [Murmur Evaluation](/anaesthesia/paeds/murmurs.md)

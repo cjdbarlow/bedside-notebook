@@ -41,7 +41,7 @@ Qualitative and quantitative measurements, focusing on:
 * Outcomes  
 Ultimate objective, but:
 	* May be harder to measure
-	* May be outside of clinican control  
+	* May be outside of clinician control  
 	e.g. Case mix.
 
 
@@ -75,7 +75,7 @@ Design and preparation, including:
 
 
 ####Rapid Improvement Cycle
-A standard QI methodology using an interative feedback loop:
+A standard QI methodology using an iterative feedback loop:
 * Plan
 	* Identify improvement opportunities
 	* Plan of action

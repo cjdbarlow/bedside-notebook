@@ -50,7 +50,6 @@ Produces better akinesis and lower IOP than a peribulbar block, but has greater 
 			* Use of antiplatelet agents including aspirin
 			* Warfarin and INR if applicable
 			* NOACs
-			* Generally a sub-Tenon's block will be preferred as the associated risks are lower than the risk of discontinuing these agents
 
 
 ##Preparation
