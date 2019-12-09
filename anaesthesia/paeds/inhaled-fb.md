@@ -18,7 +18,7 @@ Intro and technique
 Suggested approach:
 * Perform a gas induction with sevoflurane
 * Place IV rapidly
-* Being propofol TCI at 1μg/ml
+* Begin propofol TCI at 1μg/ml
 * Commence remifentanil at 0.2μg/kg/min  
 With bolus to cover dead space of line.
 * Half sevoflurane (to 4%)
@@ -45,6 +45,21 @@ Usually remifentanil rate remains constant.
 2mg/kg lignocaine Q20-25 minutes.
 
 ###Surgical Stages
+Insertion of rigid bronchoscope:
+* Attach T-piece to side arm of rigid bronchoscopy OR
+* Use high-flow humidified oxygen
+* Remember to re-topicalise periodically
+
+Ventilation:
+* Keep a hand on the chest during rigid bronchoscopy to monitor respiratory rate  
+No ETCO<sub>2</sub> or gas monitor available.
+	* Patient may become
+		* Too light  
+		Breath holds, stridor.
+		* Too deep  
+		Preceded by bradycardia, bradypnoea.
+
+
 ##Emergence
 ##Postoperative
 

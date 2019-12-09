@@ -6,4 +6,14 @@ Discussion of risk is a precursor to gaining informed consent from a patient, an
 * Relative risk of performing vs. not performing an intervention
 * The individual patient and their perception of material risk
 
+
+##Approach
+Use **BRAN**:
+* Benefits
+* Risks
+* Alternatives
+* Nothing  
+What will happen if we do nothing.
+
+
 ---

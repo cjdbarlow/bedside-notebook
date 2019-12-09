@@ -26,7 +26,7 @@ Hypokalaemic hypochloraemic metabolic alkalosis.
 'Olive' palpable epigastrically and right of midline.
 
 ##Considerations
-> Surgery is not an emergency and electrolyte and fluid state should be corrected prior to operating
+> Surgery is **not an emergency** and electrolyte and fluid state should be corrected prior to operating
 
 
 * A

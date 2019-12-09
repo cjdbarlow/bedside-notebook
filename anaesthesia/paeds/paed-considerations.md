@@ -20,6 +20,8 @@ Breathing:
 * Notably **similar tidal volume** of 7mL/kg
 * Similar **dead space volume**  
 However apparatus dead space becomes proportionally more important.
+* Increased atelectasis  
+PEEP requirement.
 
 Circulation:
 * Absence of coronary disease means children will tolerate significant doses of anaesthesia without circulatory compromise  
@@ -33,6 +35,19 @@ Neurological:
 	* Child anxiety is common, and exacerbated by:
 		* Lack of understanding
 		* Lack of cooperation
+
+
+Extremities:
+* Temperature control  
+Surface area to volume ratio increases heat flux (usually loss).
+	* Minimise exposure  
+		* Keep dressed in preop hold
+		* Wrap in OT
+	* Humidification
+	* Forced air warmer  
+	Underbody.
+	* Consider warmed fluids  
+	Only effective if high volumes being given.
 
 
 ###Allaying Anxiety

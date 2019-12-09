@@ -1,3 +1,10 @@
+#Corrections
+High/low
+Increased/decreased
+Tachy/brady
+Hyper/hypo
+BIS -> Processed EEG
+
 #Key symbols
 ↑
 ↓

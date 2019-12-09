@@ -70,6 +70,13 @@ Associated with disturbances to:
 ##Diagnostic Approach and DDx
 ##Investigations
 ##Management
+Preventative:
+* Ketamine  
+Perioperative ketamine reduces CPSP.
+* Epidural analgesia  
+Reduces CPSP after **thoracotomy**.
+
+
 ###Anaesthetic Considerations
 ###Ineffective Therapies
 ##Complications

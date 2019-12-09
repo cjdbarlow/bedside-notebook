@@ -189,8 +189,7 @@ Transplantation:
 ###Anaesthetic Considerations
 Increased perioperative morbidity and mortality.
 
-* A
-* B
+
 * C
 	* Preoperative medication optimisation
 	* 5-lead ECG
@@ -198,7 +197,6 @@ Increased perioperative morbidity and mortality.
 	* Consider CVC/PAC, TOE
 	* Have pulmonary vasodilators available  
 		* NO available
-	* Haemodynamically stable induction
 	* Potential acute RV dysfunction
 		* May lead to haemodynamic collapse  
 		The **spiral of death**.
@@ -219,6 +217,23 @@ Increased perioperative morbidity and mortality.
 		* Maintain sinus rhythm
 		* Optimise rate  
 		High-normal.
+	* Haemodynamic goals
+		* Avoid increased PVR
+			* Hypoxia
+			* Hypercapnoea
+			* Acidosis
+			* Cautious PEEP
+			* Positioning
+			* Be careful of pneumoperitoneum
+		* Vasopressor
+			* Vasopressin  
+			Allegedly will not increase PVR.
+			* Noradrenaline
+		* Inotropes
+			* Dobutamine
+			* Milrinone
+		* Inhaled pulmonary vasodilators
+			* iNO
 
 ###Ineffective Therapies
 ##Complications

@@ -90,7 +90,7 @@ For Rh- mothers, to quantify extent of FMH.
 Foetal investigations:
 * CTG
 	* Once mother stable or resuscitation commenced
-	* Aids decision mkaing on mode of delivery
+	* Aids decision making on mode of delivery
 	* In general, a non-reassuring trace should result in expedited delivery.
 
 ##Management
@@ -138,7 +138,7 @@ Maternal complications:
 	 * Prolonged hospital stay
 	 * Blood transfusion
 
-Foetal copmlications:
+Foetal complications:
 * Haemorrhage  
 Particularly in vasa praevia or abruption.
 * Hypoxia

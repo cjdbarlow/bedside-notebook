@@ -58,7 +58,7 @@ MS is typically well tolerated until LA dilation fails to compensate and pulmona
 ##Management
 Medical management consists of managing complications:
 * Rate control of AF
-	* β-blockers are mainstain of treatment
+	* β-blockers are mainstay of treatment
 * Diuresis and vasodilators (e.g. nitrates) for failure
 
 Surgical management:

@@ -1,5 +1,6 @@
 #Cardiac Arrest Post-Cardiac Surgery
 
+
 This section covers the algorithmic management of cardiac arrest in an adult patient who is:
 * **Up to 14 days** after cardiac surgery
 * And is typically:
@@ -9,7 +10,7 @@ This section covers the algorithmic management of cardiac arrest in an adult pat
 ##Protocol
 This algorithm assumes that the patient has ECG and invasive arterial monitoring:
 * **Recognition**  
-Arrest is consisent with:
+Arrest is consistent with:
 	* Loss of central pulse
 	* Loss of haemodynamic waveform pulsatility
 		* Systemic arterial pressure
@@ -72,8 +73,10 @@ Indication of arrest due to low preload (and not amenable to cardiac compression
 
 
 ###Emergency Resternotomy
+> Resternotomy occurring ⩽10 minutes is associated with ~50% survival, compared to ~10% if >10 minutes
 
-Emergency Resternotomy should be:
+
+Emergency resternotomy should be:
 * Performed within 5 minutes of arrest  
 Or immediately if SBP <60mmHg with external chest compressions.
 * Considered in patients up to 14 days post surgery
@@ -82,7 +85,7 @@ Or immediately if SBP <60mmHg with external chest compressions.
 Process:
 * Cease chest compressions
 * Remove sternotomy dressing, apply betadine, apply sterile drape  
-Should be performed in \<10 seconds.
+Should be performed in ⩽10 seconds.
 * Cut sternotomy incision and wires
 	* Deep incision through sternotomy sutures down to sternal wires
 	* Cut sternal wires

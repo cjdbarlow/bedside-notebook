@@ -103,6 +103,29 @@ Investigations:
 		* Valvular function
 
 
+###Consent
+> This is an incredibly stressful time for patient and family:
+> * Avoid drowning the patient in unnecessary information
+> * Ensure they understand the process
+
+Discuss:
+* Airway
+* Lines
+* TOE
+* CPB
+* Blood transfusion
+* Post operative ventilation
+* ICU Stay
+
+
+Key risks:
+* Death
+* Stroke
+* AMI
+* Oesophageal injury
+* Transfusion
+
+
 ##Preparation{#prep}
 Premedication:
 * Highly stressful period
@@ -161,7 +184,7 @@ Drugs (Infusions):
 * +- GTN 6mg in 50ml
 
 
-##Anaesthetic
+##Induction
 Induction:
 * Don't induce unless:
 	* Surgeon capable of instituting CPB present
@@ -180,12 +203,22 @@ Induction:
 * Antibiotics prior to skin incision
 
 
+###Intraoperative
 Position:
 * Head ring
 * Leg padding
 * Place head frame
 * Arms positioned  
 Tucked if not used for grafts.
+
+
+Sternotomy:
+* Highly stimulating - requires re-dose of analgesia  
+e.g. 250μg fentanyl.
+* Cease ventilation with ZEEP prior to sternotomy  
+Prevents surgeon from damaging lung.
+	* Lungs may be left on during *re*sternotomy to protect the other cardiac structures
+
 
 ---
 

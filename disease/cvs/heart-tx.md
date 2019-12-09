@@ -39,6 +39,8 @@
 			Rate effects are due to alterations of vagal tone, and are therefore ineffective.
 			* Adenosine  
 			Increased sensitivity; commence at 1mg.
+			* Indirect vasoactives (e.g. ephedrine)  
+			Ineffective; requires direct vasoactives (e.g. metaraminol).
 	* Rate dependent on donor SA node function  
 	Nodal ischaemia common cause of PPM dependency.
 	* Arrhythmias
@@ -83,7 +85,7 @@ Donor coronary artery disease:
 * Atheroma present in 50% of patients at 5 years
 * Major cause of death after 12 months
 * **No angina**  
-Denervated heart.
+Denervated heart - silent ischaemia.
 * Presents with:
 	* Ventricular dysfunction
 	* Arrhythmia

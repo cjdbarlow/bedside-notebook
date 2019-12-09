@@ -5,7 +5,8 @@ Overview:
 * Selection of appropriate patients for day surgery is ultimately the responsibility of the anaesthetist  
 
 
-Patients selection:
+##Patients Selection
+Should be:
 * ASA 1 or 2  
 Medically stable ASA 3 or 4 may be appropriate.
 * Comorbidities
@@ -23,25 +24,31 @@ Medically stable ASA 3 or 4 may be appropriate.
 ⩽1 hour from appropriate help.
 
 
-Requirements for discharge:
-* Stable vital signs
-* Return to pre-anaesthesia levels of:
+##Discharge
+Requirements:
+* **S**table vital signs  
+Return to pre-anaesthesia levels of:
 	* Conscious state
 	* Mobility
-* Adequate:
-	* Analgesia
-	* Control of nausea
-	* Haemostasis
-* Ensure:
-	* Tolerating oral fluids
-	* Passed urine  
+* **N**ausea and vomiting controlled
+* **A**analgesia adequate
+* **P**assing urine  
 	For those at risk of urinary retention.
-	* Advice given as to when to resume driving, decision making
+
+
+* **O**ral intake tolerated
+* **P**arent or guardian
 	* Responsible individual available to supervise
 	* Have a transport vehicle  
 	Private car.
+* **S**urgical
+	* Haemostasis
+	* Follow-up plan
+	* Advice given as to when to resume driving, decision making
 
-Quality Assurance:
+
+
+##Quality Assurance
 * Regular Audit should occur
 * Facilities should meet appropriate standards  
 Including:

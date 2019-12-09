@@ -55,23 +55,40 @@ Follows an ABC approach:
 		* Unable to BMV
 		* No detectable heart rate
 * B
-	* Commence **PPV with room air** if HR < 100 after drying and stimulation  
+	* Commence CPAP with room air if HR >100 and there is laboured breathing or persistent cyanosis
+	* Commence **PPV with room air** if HR ⩽100 after drying and stimulation  
 	Generally Pip 30, PEEP 5, at a rate of 40-60/minute.
 	* Transition to **100% oxygen if**:
-		* SpO<sub>2</sub> is < 70% **at 5 minutes**
-		* HR < 100/min after 1 minute of PPV
+		* SpO<sub>2</sub> is ⩽70% **at 5 minutes**
+		* HR ⩽100/min after 1 minute of PPV
 		* Preparing for intubation
-		* HR < 60/min and chest compressions indicated
+		* HR ⩽60/min and chest compressions indicated
 * C
 	* Commence chest compressions at **100-120** per minute if:  
 	Need for chest compressions mostly occurs if PPV has not been performed correctly.
-		* HR < 60/min despite adequate PPV with supplementary oxygen
-	* Adrenaline 10-30µg/kg (0.1-0.3ml/kg of 1:10,000 solution) if HR < 60
-	* Consider 10ml/kg IV crystalloid if blood loss suspected
+		* HR ⩽60/min despite adequate PPV with supplementary oxygen
+	* Adrenaline 10-30µg/kg (0.1-0.3mL/kg of 1:10,000 solution) if HR < 60
+	* Consider 10mL/kg IV crystalloid if blood loss suspected
 * E
 	* Warm
 		* Radiant warmer
-		* Polyethylene bag if < 1500g
+		* Polyethylene bag if ⩽1500g
+
+
+###Target SpO<sub>2</sub>
+> A rough rule of thumb is that the lower limit at birth is 60%, and increases by ~5% every minute
+
+
+SpO<sub>2</sub> should be measured **pre-ductally**, i.e. on the right arm or ear:
+
+|Time (minutes)|Saturation|
+|--|--|
+|1|60-70%|
+|2|65-85%|
+|3|70-90%|
+|4|75-90%|
+|10|80-90%|
+
 
 ###Equipment
 * General
@@ -88,7 +105,7 @@ Follows an ABC approach:
 		* Flow-inflating bag
 	* Laryngoscope
 	* ETT  
-	In a range sizes: 2.5-4.0.
+	In a range of sizes: 2.5-4.0.
 	* Magill neonatal forceps
 	* Sterile scissors
 * B
@@ -96,7 +113,8 @@ Follows an ABC approach:
 	* Medical oxygen
 	* Flowmeters and tubing
 * C
-* D
+	* Fluid
+	* Adrenaline
 * E
 	* Overhead warmer
 	* Warmed towel

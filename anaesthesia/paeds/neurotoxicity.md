@@ -9,8 +9,8 @@
 General anaesthesia is potentially neurotoxic at both extremes of age. These effects:
 * May be neurotoxic and neuroplastic
 * Alter cognition via neuromodulation
-* Concern many parents  
-Particuarly the association with memory deficits and abnormal behaviours.
+* Concerns many parents  
+Particularly the association with memory deficits and abnormal behaviours.
 
 ##Pathophysiology
 The developing brain:
@@ -22,7 +22,7 @@ The developing brain:
 
 
 Anaesthetic agents affect several aspects of brain development, including:
-* Inducing neuroapoptosis  
+* Inducing neuro-apoptosis  
 	* Critical factors
 		* Stage of brain development at time of exposure  
 		Different brain regions develop at different points.
@@ -70,7 +70,7 @@ However, some dramatic results; e.g. one observational study suggested before th
 		* Metabolic, haemodynamic, and respiratory events
 		* Pathology
 		* Sepsis
-		* Chromosomal abormalities
+		* Chromosomal abnormalities
 * Notably no data regarding adverse consequences of human foetal exposure
 
 

@@ -1,5 +1,7 @@
 #Cardiopulmonary Bypass
 
+*This provides a broad overview of the process of CPB and the roles of the anaesthetist, surgeon, and perfusionist. Methods of [myocardial preservation](/anaesthesia/cardiac/myocardial-preservation.md) are covered elsewhere.*
+
 Use of an external pump and oxygenator to generate pulseless blood flow and facilitate gas exchange. CPB involves:
 * Cannulation may be central or peripheral
 	* Central  
@@ -86,7 +88,7 @@ Surgeon:
 May impair atrial filling and cause hypotension.
 * Places aortic purse-string sutures
 * Places atrial purse-string sutures  
-May cause atrial arrythmia. If unstable:
+May cause atrial arrhythmia. If unstable:
 	* Temporise with vasopressor and volume, then go onto bypass
 	* Synchronised DCR  
 	Clutters surgical field.
@@ -94,7 +96,7 @@ May cause atrial arrythmia. If unstable:
 * Places atrial access cannula  
 	* At this point, bypass may commence although the heart is still beating
 	* Access cannula may be
-		* Bicaval  
+		* Bi-caval  
 		Two separate cannulas, one to the IVC and one to the SVC.
 		* Single, larger dual-stage cannula
 * Places retrograde cardioplegia cannula
@@ -106,7 +108,7 @@ May cause atrial arrythmia. If unstable:
 Perfusionist:
 * Gradually releases clamp on venous line, increasing bypass flow and reducing right heart CO
 * Left heart empties due to reduced right sided CO  
-Signifcant left sided CO at this stage implies a problem:
+Significant left sided CO at this stage implies a problem:
 	* Obstruction of venous bypass line
 	* Significant AR
 	* PDA
@@ -163,7 +165,7 @@ Complete a pre-wean checklist and confirm:
 	* Appropriate blood gases on bypass circuit
 * C:
 	* De-airing  
-	Assess for residual air in cardiac chambers.
+	Assess for residual air in cardiac chambers if open cardiac surgery performed.
 	* Estimate what the patients cardiac state will likely be during wean and aim to optimise each facet:
 		* Rate and Rhythm  
 		Pacing wires in situ and pacing is set. A suggested approach:
@@ -176,6 +178,8 @@ Complete a pre-wean checklist and confirm:
 		Start vasopressors or dilators that may be required.
 		* Contractility  
 		Start inotropes that may be required.
+	* Reperfusion  
+	Coronary flow prior to weaning off CPB. **10 minutes** per hour of cross-clamp time.
 * D:
 	* Confirm BSL 6-10 mmol/L
 	* Method for delivery anaesthesia is present
@@ -195,8 +199,11 @@ Anaesthetist:
 * Monitor cardiac function as heart is slowly refilled  
 Adjust infusions if necessary. Ensure good flow rates of carrier fluid to enable rapid titration and reduce the effect of dead space.
 * Optimise:
-	* Preload
-		* Evaluate with
+	* Preload  
+	Evaluate with:
+		* TOE
+		* PADP
+		* CVP
 	* Contractility  
 		* Evaluate with:
 			* Ventricular performance on TOE
@@ -257,19 +264,40 @@ i.e. if aorta or cardiac chambers opened.
 
 
 ###Difficulty Weaning from Bypass
+Assess cause; may be:
+* Expected:
+	* Poor LV function
+	* MVR
+	* Ventriculotomy
+	* Increased bypass and x-clamp time
+	* Emergence surgery
+* Unexpected
+	* Bleeding
+	* Surgical complications
+	* Bleeding
+	* Valve problems
+	* Graft problems
+* Arrhythmia
+* Vasodilation
+* Hypotension
+* Hypoxia
+* Hypercarbia
+* Protamine reactions
+
+
 Check and optimise:
 * Preload
 	* Check EDV on TOE and filling pressures (CVP, PADP)
 	* Give volume
 * Contractility
-	* Check systolic function on TOE, CI on PAC, and visual assessment over draps
+	* Check systolic function on TOE, CI on PAC, and visual assessment over drapes
 	* Give inotropes, consider IABP
 * Afterload
 	* Give vasopressors
 * Rate  
 Pace if <88.
 * Rhythm  
-Evaluate for arrythmia.
+Restore sinus rhythm.
 * Anaesthetic factors
 	* Electrolytes
 	* Temperature
@@ -304,6 +332,9 @@ Use of bypass is associated with several complications including:
 	* Increased risk of anaesthetic awareness
 * H
 	* Coagulopathy
+
+
+
 
 
 

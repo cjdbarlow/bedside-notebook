@@ -18,6 +18,7 @@ Absolute:
 * Unilateral lung lavage
 * VATS
 
+
 Relative:
 * Surgical exposure
 	* Thoracic aortic aneurysm
@@ -46,7 +47,24 @@ Predictors of hypoxaemia:
 ##Equipment
 Specific equipment for lung isolation include:
 * Double-lumen ETT
-* Bronchial blocker
+	* Oral
+	* Tracheostomy  
+
+* Bronchial blocker  
+Subclassified into:
+	* Torque-guided  
+	e.g. Cohen.
+	* FOI-guided  
+	e.g. Arndt, Fuji.
+	* Bilateral  
+	e.g. Easy blocker.
+* Single-lumen ETT
+	* Endobronchial tube
+	* ETT tube  
+	Advanced directly.
+		* Mostly likely to enter RMB
+		* Can be guided with FOI into either bronchus
+
 
 ###Double-Lumen ETT
 DLTs:
@@ -64,7 +82,7 @@ DLTs:
 		* Aberrant anatomy precludes use of a left-sided DLT
 * Measured in French gauge  
 	* In general; 41-39Fr is appropriate for males, and 37Fr for females.
-	* Depth of DLT insertion: 12cm + 0.1cm/10cm of patient height
+	* **Depth** of DLT insertion: **12cm + 0.1cm per 10cm of patient height**
 
 
 Pros of DLTs:
@@ -75,7 +93,7 @@ Pros of DLTs:
 Cons of DLTs:
 * Large and harder to insert than standard ETTs  
 * Smaller internal lumens than standard ETTs  
-Require a bronchoscope with a < 4mm lumen to instrument a 35 Fr DLT.
+Require a bronchoscope with a **⩽4mm lumen** to instrument a **35 Fr** DLT.
 
 
 Insertion of a left-sided DLT:
@@ -100,21 +118,29 @@ Slight rim of blue cuff should be seen in the LMB.
 
 
 ###Bronchial Blockers
+Consist of:
+* A low-pressure, high-volume balloon
+* Key sizes:
+	* 7 Fr for a 6.5 Fr ETT
+	* 9 Fr for a 7.5 Fr ETT
+
 Pros:
 * Preferable in certain situations
 	* Difficult intubation
 	* High-risk tube exchange
 	* Tracheostomy
 	* Anatomical abnormalities
+		* Endoluminal stricture
 * Selective lobar isolation  
 Apply CPAP down internal channel when wire removed.
 * Paediatrics
 
 
 Cons:
-* More difficult to:
-	* Correct hypoxaemia
-	* Perform lung toilet
+* Limited control
+	* Can't suction
+	* Harder to oxygenate/perform pulmonary toilet
+	* Repeated deflation and reinflation is limited
 * Increased dislodgement
 * Slower:
 	* Lung deflation
@@ -137,7 +163,7 @@ Aim for maximal denitrogenation; absorption of oxygen will speed up lung collaps
 * Confirm DLT positioning
 * Clamp DLT proximally on side to be deflated
 * Open DLT to air, distal to the clamp, on the side to be deflated  
-	* Consider suctioning down open lumen to speed up collape
+	* Consider suctioning down open lumen to speed up collapse
 * Confirm ventilation appropriate on remaining lung
 
 
@@ -229,10 +255,12 @@ Critical hypoxaemia:
 	* CPAP
 
 Identify and treat common causes:
-* Failure of isolation
-	* Bronchoscopy
-* Obstruction
-	* Suction
+* Basics first  
+Check the tube and check the patient:
+	* Failure of isolation
+		* Bronchoscopy
+	* Obstruction
+		* Suction
 * Derecruitment
 	* Recruitment maneuvre
 	30-40cmH<sub>2</sub>O, noting a drop in CO, BP, and SpO<sub>2</sub> will transiently follow.
@@ -259,7 +287,8 @@ Likely cause of hypoxia when other factors are optimised. Consider:
 		* Inhaled PGE1 at 10ng/kg/min
 	* Intermittent two-lung ventilation  
 	May significantly hamper surgical access and prolong operating time.
-	* Clamp PA of operative lung
+	* Clamp PA of operative lung  
+	Technically difficult for surgeons to accomplish and not risk-free; they are usually reluctant to do this but it is very helpful if the vessels are exposed (e.g. in pneumonectomy).
 
 
 

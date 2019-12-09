@@ -2,7 +2,7 @@
 
 Postpartum haemorrhage is a major cause of maternal mortality. With respect to PPH:
 * Primary PPH is blood loss the first 24 hours post-partum that:
-	* Exceeds 500ml
+	* Exceeds 500mL
 	* Causes haemodynamic instability
 * Massive PPH is loss of >50% of the circulating blood volume
 
@@ -20,7 +20,7 @@ Risk factors for PPH relate to the cause:
 * Atony
 	* Maternal obesity
 	* Maternal DM
-	* Multiple preganncy
+	* Multiple pregnancy
 	* Multiparity
 	* Advanced maternal age
 	* Prolonged labour
@@ -34,7 +34,7 @@ Risk factors for PPH relate to the cause:
 	* Retained clot
 	* Previous uterine surgery
 	* Placenta praevia
-	* Placeenta accreta/percreta
+	* Placenta accreta/percreta
 * Trauma
 	* Precipitous delivery
 	* Operative delivery
@@ -90,7 +90,7 @@ Symptoms and signs of massive blood loss:
 * Tachycardia
 * Lightheadedness
 * Sweating
-* Pallow
+* Pallor
 * Weakness
 * Hypotension  
 Classically late sign in pregnant women.
@@ -117,7 +117,7 @@ Fluid resuscitation should continue whilst bleeding is ongoing.
 * Avoid hypothermia
 * Consider DDAVP 0.3μg/kg
 	* Uraemia  
-	≥ 20mmol/L.
+	≥20mmol/L.
 	* von Willebrand's disease
 * Consider factor VIIa
 * Treat the cause  
@@ -139,7 +139,7 @@ Management of continued bleeding, despite active management of the third stage a
 * Give prostaglandin F2-alpha if not already given
 * Bimanual uterine compression
 * Aorta compression
-* If bleeing persists:
+* If bleeding persists:
 	* Pack uterus  
 	Up to 24 hours, cover with IV antibiotics and continue oxytocin infusion.
 	* Uterine artery ligation
@@ -160,7 +160,7 @@ Ensure active management of the third stage has been completed.
 	Can give a further 0.25mg IV; beware bronchospasm and hypertension. Up to a total of 1mg.
 	* Metoclopramide 10mg IV
 	* Carboprost 0.25mg **IM**  
-	Can repeat Q15 minutelyy, up to 2mg.
+	Can repeat Q15 minutely, up to 2mg.
 	* Consider misoprostol 1mg **PR**
 	* Misoprostol
 
@@ -207,6 +207,10 @@ May be required if **uterine relaxation** needed, particularly in the case of **
 
 
 ###Anaesthetic Considerations
+* C
+	* Haemodynamic stability
+		* Key guide for resuscitation goals
+
 ###Ineffective Therapies
 ##Complications
 ##Prognosis

@@ -1,6 +1,6 @@
 #Principles of Thoracic Anaesthesia
 
-*This covers general considerations for thoracic anaesthesia, with the exception of [one-lung ventilation](/management/resp/olv.md).*
+*This covers general considerations for thoracic anaesthesia, with the exception of principles (including management of hypoxia) under [one-lung ventilation](/management/resp/olv.md).*
 
 Key considerations:
 * Pre-operative optimisation
@@ -17,15 +17,25 @@ Key considerations:
 * Indication
 	* Tumour
 		* Mass effect  
-		Mediastinal mass.
+		Mediastinal mass:
+			* Lymphomas  
+			Rapidly growing - may cause rapid compression.
+			* Germ cell-tumours
+			* Thymus
+			* Thyroid goitres
 		* Metabolic
 		* Metastases
 		* Medication
 	* Bullectomy
 	* LVRS
 	* Transplant
-* Respiratory Assessment  
-* Ventilator Weaning  
+* Respiratory assessment  
+Prediction of post-operative pulmonary function is vital to:
+* Confirm suitability  
+Stratify to:
+	* Curative-intent
+	* Defined limits of resection
+* Ventilator weaning and post-operative disposition  
 Dependent on PPO FEV<sub>1</sub>:
 	* ⩾40%  
 	Extubate in operating room.
@@ -34,42 +44,70 @@ Dependent on PPO FEV<sub>1</sub>:
 	* ⩽30%  
 		* Staged weaning
 		* Consider thoracic epidural
+* Analgesia plan
+	* Use of regional anaesthesia
 
 
 
-##Respiratory assessment{#lung}
-Prediction of post-operative pulmonary function is vital to:
-* Confirm suitability  
-Stratify to:
-	* Curative-intent
-	* Defined limits of resection
+##Preoperative Assessment{#lung}
+Should include:
+* Normal history and examination
+	* Key comorbidities:
+		* Chronic lung disease
+		* Smoking history
+		* Functional capacity
+		* Cardiac comorbidities
+	* Acute disease process:
+		* Bronchospasm
+		* Infection
+		* Obstruction.collapse
+		* Mass effect
+	* Treatment effects
+		* Chemotherapy
+		* Radiotherapy
+* Detailed airway assessment  
+Insertion of a DLT is more difficult than SLT.
+
+
+###Assessment of Pulmonary Function
+> * Relies on the "3-legged" stool
+> * Ability to tolerate:
+>	* Resection
+>	* [One-lung ventilation](/management/resp/olv.md)
 
 
 
-Each is looked at in order; a pass in any section indicates suitability for resection:
-* [Respiratory Mechanics](lung)  
+
+Respiratory Mechanics:
+* PPO FEV<sub>1</sub>
+	* Key estimate of lung function
+	* Calculated as $$PPO FEV_1 = Preoperative \ FEV_1 \times {Number \ of \ segments \ initially - Number \ of segments \ resected \over Number \ of \ segments \ initially}$$
+	* Assumes that all lung segments contribute equally to function  
+	Usually not the case as diseased units will inherently perform less well.
+	* Normal is **19 segments**
+
+
+
+Lung parenchymal function:
+* Predicted post-operative lung function, as predicted by complex spirometry: 
+	* PPO DLCO >40% and 
+	Consider V/Q scan if DLCO is low. 
+
+
+Cardiopulmonary Reserve:
+* Not always available, and not always performed
+* As measured by **CPET**, or surrogate
+* VO<sub>2</sub> max >15mL/kg/min  
+Most useful predictor of outcome. Indicated by:
+	* Stair climb ⩾2 flights
+	* 6 minute walk test ⩾610m
+	* Exercise SpO<sub>2</sub> <4%
+
+
 **Simple spirometry**:
 	* FEV<sub>1</sub> >1.5 for lobectomy
 	* FEV<sub>1</sub> >2 for pneumonectomy
-* Lung parenchymal function  
-Predicted post-operative lung function, as predicted by complex spirometry: 
-	* PPO DLCO >40% and PPO FEV<sub>1</sub> >40%  
-	Consider V/Q scan if DLCO is low. 
-* Cardio-pulmonary reserve  
-As measured by **CPET**, or surrogate:
-	* VO<sub>2</sub> max >15mL/kg/min  
-	Most useful predictor of outcome. Indicated by:
-		* Stair climb ⩾2 flights
-		* 6 minute walk test ⩾610m
-		* Exercise SpO<sub>2</sub> <4%
 
-
-###Predicted Post-Operative FEV<sub>1</sub>
-Estimate of lung function:
-* Calculated as $$PPO FEV_1 = Preoperative \ FEV_1 \times {Number \ of \ segments \ initially - Number \ of segments \ resected \over Number \ of \ segments \ initially}$$
-* Assumes that all lung segments contribute equally to function  
-Usually not the case as diseased units will inherently perform less well.
-* Normal is **19 segments**
 
 
 ###Risk Stratification

@@ -8,6 +8,7 @@
 >Blood loss: Not usually required. Bleeding causes more issues via airway obstruction. <br>
 >Special: Ventilation strategies. <br>
 
+
 Placement of a rigid bronchoscope into the trachea, which allows passage of instruments and facilitates:
 * Visual inspection
 * Therapeutic interventions  
@@ -25,6 +26,7 @@ Indications include:
 	* Endobronchial stent deployment
 * Ventilation  
 Via side-holes in the rigid bronchoscope, which facilitate ventilation of the **contra-lateral** lung. 
+
 
 ##Considerations
 * A

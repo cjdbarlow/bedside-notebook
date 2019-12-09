@@ -25,6 +25,7 @@ Risk decreases by ~11% per year of age.
 		* **Croup** is especially high risk
 	* Passive smoke exposure
 * Fever ⩾38°C
+* Systemically unwell
 * Coarse crepitations
 
 

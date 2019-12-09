@@ -18,7 +18,8 @@ Dependent upon flow across the valve, and so will underpredict severity in failu
 |--|---|
 |Valve Area|1.2-1.8cm<sup>2</sup>|0.8-1.2cm<sup>2</sup>|0.6-0.8cm<sup>2</sup>|< 0.6cm<sup>2</sup>|
 |Mean Pressure Gradient|12-25mmHg|25-40mmHg|40-50mmHg|>50mmHg|
-|Peak flow|1-2m/s|2-3m/s|>4m/s|
+|Peak flow|1-2m/s|2-3m/s|>4m/s||
+|Dimensionless Index|0.5-0.75|0.25-0.5|<0.25||
 
 ##Epidemiology and Risk Factors
 Risk factors include:
@@ -69,9 +70,9 @@ Symptoms:
 	* Angina  
 	Due to mismatch between LV oxygen consumption and demand.
 	* Syncope  
-	Due to inadequate cardiac output, and may be related to either:
+	Late and bad sign. Occurs due to inadequate cardiac output, and may be related to either:
 		* Increased demand in the setting of a relatively fixed cardiac output
-		* Arrythmia
+		* Arrhythmia
 	* Dyspnoea  
 	Due to LV failure, and typically occurs in late disease (as it represents a failure of LV compensation.)
 * Do not correlate well with anatomical severity
@@ -88,10 +89,12 @@ Signs:
 ##Diagnostic Approach and DDx
 ##Investigations
 ECG:
+* Normal in ~20%
+* LAD
 * LVH  
-ECG signs evident in 85% of patients.
 * AV block  
 Secondary to AV nodal calcium infiltration (extending from the aortic annulus).
+
 
 Echocardiography:
 * 2D exam  
@@ -112,6 +115,15 @@ Identifies thickening, impaired mobility, congenital abnormalities, and calcific
 
 ###Ineffective Therapies
 ##Complications
+Extensive cardiac remodelling, including:
+* LVH
+* LV diastolic dysfunction
+* LA dilation
+* MR  
+Due to annular dilatation.
+* PHTN  
+
+
 ##Prognosis
 
 ---
