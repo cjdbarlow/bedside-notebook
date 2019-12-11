@@ -4,7 +4,7 @@ Hypertension:
 
 
 ##Epidemiology and Risk Factors
-Very high prevalence and incidence, and affecting >1 billion people worldwide.
+Very high prevalence and incidence, and affecting ⩾1 billion people worldwide.
 
 Risk factors:
 * Age
@@ -20,12 +20,15 @@ Complications are associated with:
 ##Diagnostic Approach and DDx
 ##Investigations
 ##Management
+
 ###Anaesthetic Considerations
 Perioperative hypertension is common and requires individualised management.
 
 * C
 	* Perioperative hypertensive emergency  
 	Defined as acute ↑ ⩾20% from baseline.
+	* For elective surgery; aim SBP ⩽180mmHg and DBP ⩽110mmHg  
+	No evidence that controlling BP below this lowers perioperative risk.
 
 ###Ineffective Therapies
 ##Complications

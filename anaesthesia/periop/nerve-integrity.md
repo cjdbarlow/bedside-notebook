@@ -6,7 +6,7 @@ Ischaemia or injury is suggested by:
 	* Change in response **amplitude**  
 	Usually ~50%.
 	* Increased response **latency**  
-	Usually ~10%.
+	Usually ~10%; though some use up to 50% as threshold for intervention.
 	* Total loss of signal
 	* Need to increase stimulation voltage
 * Is generally highly sensitive but non-specific
@@ -19,14 +19,19 @@ Ischaemia or injury is suggested by:
 
 ##Somatosensory Evoked Potentials
 Method:
-* Stimulating electrode applied to a nerve:
+* Evaluates entire pathway including subcortical structures  
+Deeper monitoring than achieved with EEG.
+* Two stimulating electrodes applied to a nerve:
 	* Median
 	* Posterior tibial nerve
 	* Common peroneal
 * Monitor may be:
-	* Over the sensory cortex
+	* Over the sensory cortex  
+	Scalp divided into sections, with electrodes applied in a standardised way.
 	* With epidural electrodes  
 	Tend to be difficult to place and may move intraoperatively.
+	* Along the peripheral nerve  
+	E.g. at brachial plexus for median nerve.
 * Evaluate proprioceptive signals  
 Therefore evaluate **dorsal column** function.
 
@@ -34,7 +39,7 @@ Therefore evaluate **dorsal column** function.
 ###Conduct of Anaesthesia
 * Muscle relaxation improves signal:noise ratio
 * Volatile anaesthesia and nitrous oxide have a dose-dependent effect on amplitude  
-⩽ 1 MAC is acceptable, but TIVA is better.
+⩽1 MAC is acceptable, but TIVA is better.
 * Opioids have a minimal effect
 * Clonidine, and dexmedetomidine have no effect
 * Ketamine enhances the effect
@@ -46,7 +51,11 @@ Therefore evaluate **dorsal column** function.
 
 ##Motor Evoked Potentials
 Method:
-* Short-duration stimuli applied to the motor cortex
+* Short-duration high voltage stimuli applied to the motor cortex  
+Corkscrew electrodes applied into scalp.
+* Place a bite block  
+Voltage stimulation may cause biting and tongue/tube damage.
+* Obviously requires avoidance of muscle relaxation
 * Measurement via needle electrodes in:
 	* Tibialis anterior
 	* Abductor hallucis

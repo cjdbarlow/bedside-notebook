@@ -3,9 +3,10 @@
 Paraplegia following descending aortic surgery:
 * Occurs in 2-6% of patients  
 * Due to occlusion of feeder vessels to the anterior and posterior spinal arteries
+	* Anterior spinal artery and therefore motor function is at increased risk
 	* Source vessels from the left subclavian and vertebral arteries
 	* Anterior spinal arteries have additional supply:
-		* Superiorly from the intercostal and lumbar segmental arteries, and the artery of Adamkiewicz
+		* Superiorly from the intercostal and lumbar segmental arteries, and the artery of Adamkiewicz  
 		* Inferiorly from the mesenteric, internal iliac, and sacral arteries
 * Occlusion may occur from:
 	* Aortic cross-clamping
@@ -15,7 +16,8 @@ Paraplegia following descending aortic surgery:
 		* Plaque
 * Risk is related to:
 	* Extent of aneurysm  
-	Less common with:
+	⩾20% of aneurysm stented.
+	* Less common with:
 		* Infrarenal aneurysms  
 		~0.25%.
 		* Endovascular repair
@@ -37,12 +39,23 @@ Maintenance of spinal cord perfusion is crucial and is the **single most importa
 	* Decrease CVP
 	* Avoiding CSF pressure increases
 * **Lumbar drain**
-	* Optimise spinal perfusion pressure by draining CSF  
-	Drain to **10mmHg**.
-	* Recommended in patients with high risk of ischaemia
+	* Recommended in patients with high risk of ischaemia  
+	Carries a spinal cord injury risk of ~1-3%. Discuss with the surgeon for:
+		* Thoracic stents
+		* Non-fenestrated stents
+		* Open AAA
+		* Previous aortic hardware
 	* Reverses poor perfusion caused by spinal cord oedema
-	* Also facilitates regional hypothermia of cord  
+	* Also facilitates regional hypothermia of cord, if desired  
 	Aim to cool at the watershed area of T8-L1.
+	* Technical aspects:
+		* Use an epidural kit to place a spinal drain
+		* Optimise spinal perfusion pressure by draining CSF  
+		Drain to **10mmHg**. Limit drainage to:
+			* 20mL in first hour of surgery
+			* 40mL in any four hour period
+		* If nerve injury indicated on SSEPs or MEPs, drain 10ml of CSF and augment MAP
+		* Leave in for 1-3 days post operatively
 * **Hypothermia**  
 May be:
 	* Active  
@@ -59,15 +72,21 @@ May be:
 		* SSEPs  
 		Indicate dorsal column function by stimulating the posterior tibial nerve and recording cortical response.
 		* MEPs  
-		Indicate spinothalamic tract function by stimulating motor cortex and recording anterior tibial muscle response.
+		Indicate spinothalamic tract function by stimulating motor cortex.
+			* Performed by:
+				* Recording anterior tibial muscle response
+				* Monitor hands as controls
 	* Indicator of ischaemia
 	* Allows surgical technique to be adapted
-	* Significant false positives
+	* **Significant false positives**  
+		* High specificity but poor sensitivity
+		* Thresholds for intervention are not defined
 * **Surgical techniques**  
 Of controversial benefit, but include:
 	* Intercostal artery reimplantation
 	* Vessel preservation
 	* Side-branch stenting
+
 
 ---
 

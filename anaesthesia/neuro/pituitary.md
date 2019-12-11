@@ -1,0 +1,81 @@
+#Transsphenoidal Pituitary Surgery
+
+>Airway: 
+>Access: 
+>Pain: 
+>Position:
+>Time: 
+>Blood loss:
+>Special:
+
+Intro and technique
+
+##Considerations
+
+* A
+	* Oral RAE/Reinforced tube
+* B
+	* **No HFNP** or **CPAP post-operatively**  
+	Difficult in OSA patients.
+		* Extubate light
+		* Consider remifentanil TIVA
+* C
+	* Arterial line
+	* HTN on nasal preparation
+* D
+	* MRI  
+	Sizing.
+* E
+	* Tumour function  
+	Tumour can be **functional** or **non-functional**.
+		* Functional  
+		Present with symptoms from hypersecretion.
+		* Non-functional  
+		Present with compression symptoms.
+			* Bitemporal hemianopia  
+			Optic chiasm compression.
+	* Hormonal screen
+* F
+	* Diabetes Insipidus  
+	10-60% of cases occur almost immediately.
+
+##Preparation
+* Standard ANZCA monitoring
+* Arterial line
+* Large IV
+* Oral RAE or reinforced tube
+* IDC
+
+
+Position:
+* Semi-recumbent
+
+
+
+##Induction
+##Intraoperative
+###Surgical Stages
+##Emergence
+##Postoperative
+Surgical complications:
+* CSF leak
+* Hydrocephalus
+* Bleeding
+* Visual problems
+	* Direct damage  
+	3.3%.
+
+
+Hormonal complications:
+* Usually enough residual pituitary tissue is present to provide normal pituitary function
+* Posterior pituitary dysfunction is more common due to oedema
+* Hormonal screen performed 2-3 days
+* DI
+	* ~15%  
+	Bulk of cases develop immediately.
+	* Usually transient
+* SIADH
+	* Develops slowly
+
+---
+##References

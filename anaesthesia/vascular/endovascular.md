@@ -1,4 +1,4 @@
-#Endovascular AAA
+#Endovascular Abdominal Aortic Aneurysm Repair (EVAR)
 
 
 >Airway: 
@@ -9,9 +9,42 @@
 >Blood loss:
 >Special:
 
-Intro and technique
+Endovascular repair of aorta using percutaneously inserted grafts. EVAR:
+* Preferred approach in most patients provided the anatomy is favourable, as:
+	* No laparotomy
+	* No cross-clamp
+	* Reduced perioperative morbidity and mortality
+* May be:
+	* Standard EVAR
+	* Thoracic EVAR
+	* Fenestrated EVAR
+* Involves access via:
+	* Femoral arteries  
+	Standard EVAR.
+		* Supine
+		* May limit distal flow
+	* Subclavian arteries  
+	Required for complex grafting.
+
 
 ##Considerations
+* B
+	* Requirement for **breath-holding**  
+	Major effect on anaesthetic plan; either:
+		* GA & ETT
+		* Light sedation and obeying commands  
+			* May be difficult to maintain patient comfort in long procedures
+			* Requires ability to lie flat
+* C
+	* Conversion to open   
+	Incredibly rare.
+* D
+	* Anaesthetic technique
+		* Local
+		* Neuraxial
+		* GA with ETT
+
+
 ##Preparation
 ##Induction
 ##Intraoperative

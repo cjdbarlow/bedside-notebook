@@ -3,9 +3,23 @@
 ##Epidemiology and Risk Factors
 ##Pathophysiology
 ###Aetiology
+Include:
+* Iodine insufficiency
+* Autoimmune thyroiditis
+	* Hashimoto's Thyroiditis  
+	Antibodies against peroxidase and thyroglobulin.
+* Treatment of hyperthyroidism
+* Drugs
+	* Amiodarone
+	* Lithium
+* Pituitary failure
+
 ##Clinical Manifestations
 ###History
 ###Examination
+
+###Myxoedema Coma  
+Hypothyroid crisis:
 ##Diagnostic Approach and DDx
 ##Investigations
 ##Management
@@ -16,12 +30,24 @@
 * B
 	* Reduced response to ↑ CO<sub>2</sub> and ↓ O<sub>2</sub>
 * C
-	* Bradydysrhythmias
+	* Bradydysrhythmia
 	* Diastolic HTN
 	* Diastolic dysfunction
+	* Abnormal baroreceptor function
+	* Contracted plasma volume
+* D
+	* Depression
+	* Hypoglycaemia
+	* Sensitive to anaesthetic agents
 * E
+	* Myxoedema coma  
+	Hypothyroid crisis.
+	* Hypothermia
+* E<sub>2</sub>
 	* Addisons disease  
 	Occurs in 5-10% of patients with severe hypothyroidism.
+* F
+	* Hyponatraemia
 * H
 	* Anaemia
 

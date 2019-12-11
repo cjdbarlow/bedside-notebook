@@ -1,12 +1,18 @@
 #Laser Safety
 
-Lasers are common in ENT and opthalmic surgery; however:
-* They are a hazard to both patients and staff  
+Lasers are common in ENT and opthalmic surgery. Lasers:
+* Facilitate:
+	* Accurate control  
+	Requires the guiding (red helium) laser to be zeroed accurately so it matches the site of the therapeutic beam.
+	* Minimal bleeding
+	* Minimal local tissue reaction
+* Are a hazard to both patients and staff  
 Due to risk of:
 	* Eye injury
 	* Burns
-	* Airborn contamination
-* Safe use requires use of:
+	* Airborne contamination
+* Have controls to ensure safety  
+These are classified into:
 	* Engineering controls
 	* Administrative controls
 	* Procedural controls
@@ -64,6 +70,7 @@ Methods include:
 		* Remove cosmetics at operative site  
 		Hairspray, gels, mousse, nail polish.
 		* Remove reflective materials from beam path
+		* Use a **laser resistant tube** if lasering in airway
 		* Non-flammable window coverings
 		* All non-reflective materials should be tested or rated for laser safety  
 		Black colour does not imply a low reflectivity.
@@ -85,6 +92,16 @@ Methods include:
 		* Always attended whilst on
 	* Water  
 	Available to douse fire, and team trained in its use.
+
+
+###Airway Safety
+If lasering in the airway:
+* Use a laser safe tube
+	* Fill cuffs with saline
+	* Silicone tubes produces a powdery silica ash
+	* PVC are flammable and produce hydrogen chloride and phosgene, which cause chemical pneumonitis
+* Keep FiO<sub>2</sub> ⩽30%
+* Tube soiling increases risk with Nd:YAG laser
 
 ---
 ##References

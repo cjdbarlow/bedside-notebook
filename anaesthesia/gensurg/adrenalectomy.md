@@ -14,7 +14,7 @@ Removal of the adrenal glands can be performed:
 	Used for large tumours; provides easy access to both glands. Prone, jacknife.
 	* Flank  
 	Subcostal incision, remains extraperitoneal - reduces pain. Supine.
-* Laparascopic
+* Laparoscopic
 	* Anterior  
 	Allows bilateral adrenalectomy. Supine.
 	* Lateral  
@@ -24,7 +24,7 @@ Removal of the adrenal glands can be performed:
 
 
 ##Considerations
-* Preoperative diagnosiss  
+* Preoperative diagnosis  
 Significantly affects pre-operative management.
 	* Aldosteronoma
 	* [Phaeochromocytoma](/disease/endo/phaeo.md#mx)  
@@ -59,16 +59,19 @@ Consider intubation with 3-5μg/kg fentanyl and 50mg/kg MgSO<sub>4</sub>, follow
 
 Control of **hypertension**:
 * Ask surgeon to cease manipulating adrenal gland
-* Phentolamine 1-2mg IV, up to 5mg  
+* Phentolamine 1-2mg IV, up to 5mg boluses  
 Reversible non-selective α-antagonist. Short duration of action; may demonstrate tachyphylaxis.
 	* Can be used as a sole agent
-	* Useful to control BP surges
+	* Useful to control BP surges  
+	Behaviours similar to reverse metaraminol.
 	* Can be used by infusion at 0.5-1mg/min
-* Labetaolol 5-20mg IV  
+* Labetalol 5-20mg IV  
 Combined α- & β-antagonist. 
 * SNP 0.5-1.5μg/kg/min, up to 4μg/kg/min  
 * GTN 0.5-10μg/kg/min
 * MgSO<sub>4</sub> 1-2g IV
+* Nicardipine  
+If in America.
 
 Control of **arrhythmia**:
 * Esmolol 0.5mg IV, with infusion at 50μg/kg/min    
@@ -77,20 +80,32 @@ For reflex tachycardia.
 For ectopy.
 
 
+Control of **hypotension**:
+* Occurs in 20-70%  
+Particularly post tumour ligation.
+* Stop infusions
+* Fluid load
+* Commence noradrenaline
+* Consider vasopressin
+	* 0.4-20 units
+	* Infusion to follow
+
 
 ###Surgical Stages
+* Incision may be excessively stimulating
 * Insufflation may cause hypertension  
 Tumour compression, altered tumour blood flow, sympathetic response to hypercapnoea.
 * Ensure good control of blood pressure prior to tumour handling
 * Manipulation of the adrenal gland may cause catecholamine release  
-**Significant hypertension** and **dysrythmia** may occur.
+**Significant hypertension** and **dysrhythmia** may occur.
 * Following clamping of vein and removal of adrenal gland, significant hypotension occurs  
 Anticipate:
 	* Fluid load
 	* Adrenaline infusion for ↓ CO
 	* Vasopressin/noradrenaline if ↓ MAP with normal or ↑ CO  
 	Vasopressin is useful for treating catecholamine-resistant hypotension.
-
+	* Often **more difficult to manage** than the hypertension prior  
+	Have vasopressors prepared.
 
 ##Emergence
 * Extubation dependent on haemodynamic stability
@@ -103,19 +118,27 @@ Key considerations:
 * C
 	* Invasive monitoring  
 	Require at least 24 hours of HDU monitoring post-operatively.
-	* Hypotension  
-	May have ongoing vasopressor/inotrope requirements.
-	* Hypertension
-		* Acute hypertension usually due to pain, pre-existing essential hypertension, urinary retention, or volume overload
-		* Persistent post-operative hypertension may indicate incomplete resection
+	* **Haemodynamic instability**
+		* Risk factors
+			* High plasma noradrenaline levels
+			* Large tumour size
+			* Large postural drop
+			* Pre-induction MAP >100mmHg
+		* Hypotension  
+		May have ongoing vasopressor/inotrope requirements.
+		* Hypertension
+			* Acute hypertension usually due to pain, pre-existing essential hypertension, urinary retention, or volume overload
+			* Persistent post-operative hypertension may indicate incomplete resection
 * D
 	* Return to normal insulin sensitivity  
 	Hypoglycaemia can occur from relative insulin excess; monitor Q2H.
-* E
+* E<sub>2</sub>
 	* Hypoadrenocorticism
 		* Usually only occurs if bilateral resection
 		* Requires gluco/mineralocorticoid replacement  
 		Commence hydrocortisone 100mg Q8H, weaning to 25mg BD over first 72/24 post-op; and then usually conveted to prednisolone.
+
+
 
 ---
 ##References

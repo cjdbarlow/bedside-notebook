@@ -9,25 +9,95 @@
 
 
 
-Resection of ICA plaque to reduce the risk of embolic stroke in patients with ICA stenosis between 60 and 90%. May be performed:
-* Under GA
-* Under regional anaesthesia  
-Allows neurological monitoring, but requires:
-	* Surgeon comfort
-	* Patient compliance
+Resection of ICA plaque to reduce the risk of embolic stroke in patients with ICA stenosis. Performed:
+* To reduce risk of embolic stroke  
+Indication (and risk) depends on degree of stenosis:
+	* No risk at 100% occlusion
+	* Symptomatic stenosis between 70-99%  
+	Symptomatic if:
+		* Focal neurological disease
+		* Sudden onset
+		* Appropriate distribution
+	* Symptomatic moderate stenosis between 50-69%  
+	Depends on patient factors.
+	* Asymptomatic patient between 80-99%  
+	Provided surgical risk of CVA is ⩽3%.
+* Under GA or regional  
+Broadly; no major difference provided technique is done well.
+	* Regional:
+		* Pros:
+			* Best neurological monitoring
+			* Reduces haematoma  
+			Lower BP during closure and emergence.
+			* Avoids risks of airway intervention
+			* Lower shunt rate
+		* Cons:
+			* Surgeon comfort
+			* Patient compliance
+			* Risk of conversion to GA with limited access to head
+			* Risks of siting blocks
+			* Anxious patient and myocardial stress
+	* GA:
+		* Pros:
+			* Immobility
+			* Controlled ventilation
+			* Attenuated stress response
+		* Cons:
+			* Limited neurological monitoring
+			* Intraoperative hypotension
+			* Delayed GA recovery may mask neurological complications
 
 ##Considerations
+Get SET:
+* Centre must have M&M of <6%  
+Stroke risk of procedure must be substantially less than that of doing nothing.
+
+
 * A
 	* LMA may reduce carotid blood flow - consider using ETT.
 	* Head is inaccessible during surgery
 * C
-	* Co-existing CVS disease
-	* Accurate measurement of normal BP  
-	Measure in both arms, and target the highest intraoperatively.
+	* Arterial line required
+	* Co-existing CVS disease  
+	Particularly HTN.
+	* Plan for management of cross-clamping
+		* Accurate measurement of normal BP  
+		Measure in both arms, and target the highest intraoperatively.
+	* Haemodynamic management
+		* Impaired autoregulation after VA
+		* Altered baroreceptor activity following carotid surgery
 * D
-	* Use of cerebral monitoring
+	* Use of cerebral perfusion monitoring
+		* **Regional techniques**  
+		Deficits may present as:
+			* Immediate unconsciousness upon clamping
+			* Immediate subtle deficit
+			* Delayed deficient  
+			Typically related to hypoperfusion.
+		* EEG monitoring
+			* Commence prior to anaesthesia
+			* Usually requires an electrophysiologist
+			* Less affected by TIVA than volatile
+			* Best predictor of cerebral ischaemia with low-stump pressure
+		* SSEPs  
+		Usually bilateral median nerve.
+		* Transcranial doppler  
+		Monitors both flow and **emboli**. Disadvantages:
+			* Operator dependent
+			* Placed near surgical site
+		* Cerebral oximetry  
+			* Monitors anterior circulation
+			* Non-quantitative
+		* Jugular venous bulb oximetry
+		* Stump pressure  
+		Transducing distal carotid stump as an indicator of efficacy of cerebral perfusion.
+			* Less commonly performed now
+			* Ischaemia is rare when stump pressure is **>40-50mmHg**
+		* Regional CBF  
+		Generally unavailable.
 	* CVA recency  
 	Reperfusion within **one month** of the original infarct may lead to haemorrhagic transformation of ischaemic brain.
+		* Reasonable to perform surgery within 2 weeks if no specific contraindications
 	* Regional technique  
 	Involves:
 		* Choice of anaesthesia  
@@ -52,15 +122,21 @@ Allows neurological monitoring, but requires:
 Transduce at the level of the EAM.
 * Bilateral blood pressure monitoring
 
+
 ##Induction
 * Haemodynamically stable induction
 
+
 ##Intraoperative
 Patient comfort in regional technique:
-* Judicious conscious sedation
+* Judicious conscious sedation  
+Options include:
 	* Propofol TCI
+	* Midazolam
 	* Clonidine  
 	1μg/kg, then 1μg/kg/hr.
+	* Dexmedetomidine
+	3μg/kg/min for 10 minutes to give a load of 0.5μg/kg, then decreased to 0.1μg/kg/hr (titrated to effect).
 * Continual communication
 * Use of a non-heated mattress
 * Padding and support of all pressure areas
@@ -68,46 +144,81 @@ Patient comfort in regional technique:
 * Minimise IVT to prevent need to void
 * Water to wet the lips appropriate, but drinking may precipitate choking/coughing/aspiration, and is to be avoided
 
+
+Complications:
+* Bradycardia
+	* Usually due to carotid baroreceptor manipulation
+	* Requires:
+		* Cessation of surgical stimulation
+		* Atropine  
+		CPR may be required in profound bradycardia.
+		* Surgical infiltration of local anaesthetic
+
+
+
 ###Surgical Stages
-Can be divided into three stages:
+Can be divided into four stages:
 * Exposure
 	* Oblique neck incision
 	* Division of common facial vein
 	* Exposure of carotid artery
 	* Control of common carotid, internal carotid, and external carotid
-	* Administration of **heparin**
-
+	* Administration of **heparin**  
+	Usually 5000 units prior to clamping.
 * Clamping	
-Sequential clamping of internal, external, and common carotid arteries
+Sequential clamping of internal, external, and common carotid arteries above and below the stenosis.
 	* Clamping of internal carotid may significantly reduce cerebral perfusion
-	* Evidence of impaired cerebral perfusion should be managed surgically with placement of a shunt
-	* Consider use of cerebral perfusion monitoring  
-		* **Regional techniques**  
-		Deficits may present as:
-			* Immediate unconsciousness upon clamping
-			* Immediate subtle deficit
-			* Delayed deficient  
-			Typically related to hypoperfusion.
-		* **Stump pressure**  
-			Indicates efficacy of cerebral perfusion. Ischaemia is rare when stump pressure is **>40mmHg**.
-		* Cerebral oximetry  
-		Non-quantitative.
-		* Regional CBF  
-		Generally unavailable.
-
 	* Aim MAP **greater than highest recorded awake level** during clamping  
 	Consider **⩾20% above baseline** to reduce POCD.
 	* Stimulation of **carotid baroreceptors** may lead to sudden haemodynamic instability  
 	Anticipate sudden ↓ HR or ↓ BP.
 	* Consider use of neuroprotective agents to achieve burst-suppression
+	* **Evidence of impaired cerebral perfusion** should be managed surgically with **place**ment of a **shunt**
 	* Note total clamping time on record
-
+* Excision of atheroma
+	* Longitudinal excision along carotid
+	* Closure usually with patch  
+	Reduces risk of re-stenosis.
 * Emergence
 	* Avoid hypertension during extubation
 	* Deep extubation appropriate
 
 
-##Postoperative
+
+###Post-Operative
+Hypertension:
+* Multiple potential causes
+	* Disruption of baroreceptors
+	* Pain
+	* Bladder distension
+
+
+Hypotension:
+* May occur from residual
+
+
+Neck haematoma:
+* Occurs in ~3% of patients post-operatively
+	* Increased risk if poorly-controlled HTN
+* May lead to:
+	* Neck haematoma
+	* Obstruction to VR and subsequent lymphoedema
+* May require emergency airway management
+
+
+Cerebral hyperperfusion:
+* Occurs in 1-3% of carotid surgery  
+Associated with:
+	* HTN
+	* >80% stenosis
+	* Previous CVA
+* Cause of most ICH post-CEA
+* Presents as:
+	* Headache
+	* Focal seizures
+	* Impaired conscious state
+	* Up to 2 weeks post-operatively  
+	May occur in theatre or in recovery.
 
 ---
 ##References

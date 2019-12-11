@@ -1,6 +1,13 @@
 #Diabetes Mellitus
 
 ##Epidemiology and Risk Factors
+Highly prevalent in first world countries:
+* 6-7% of population  
+Up to 30% of inpatients.
+
+
+
+
 ##Pathophysiology
 ###Aetiology
 ##Clinical Manifestations
@@ -10,48 +17,72 @@
 ##Investigations
 ##Management
 ###Anaesthetic Considerations{#anaes}
+Diabetes is included in multiple scoring systems, and is an obvious risk factor for perioperative morbidity and mortlity. Key outcomes include:
+* Mortality  
+50% increase.
+* Respiratory complications  
+2.4-fold increase.
+* AKI
+* Infection
+	* Surgical site infections
+	* UTI
+* Hyper- and hypo-glycaemia
+* Medication errors
+* Acute diabetic metabolic states
+	* HHS
+	* DKA
+
+
+Perioperative risk is further increased in:
+* Smokers
+* Long duration of diabetes
+* Poor glycaemic control
+* Obesity
+* HTN
+* Increased lipids
+
+
+Key Considerations:
 * C
 	* Cardiac risk assessment  
-	Increased risk of both CAD, and silent ischaemia.
+	Increased risk of CAD and silent ischaemia.
 * D
-	* BSL  
-		* Surgery and anaesthesia precipitate a neuroendocrine stress response and counterregulatory hormone release  
-		Lead to insulin resistance, decreased peripheral glucose utilisation, increased lipolysis and protein catabolism.
+	* Perioperative BSL  
+	Surgery and anaesthesia precipitate a neuroendocrine stress response and counterregulatory hormone release  
+		* Leads to insulin resistance, decreased peripheral glucose utilisation, increased lipolysis and protein catabolism
 		* Significant attention must be given to perioperative management of blood glucose and hypoglycaemics
-		* Typical BSL targets may be 5-10 mmol/L
-		* Key questions:
-			* **Insulin dependency**  
-			More important than aetiology.
-			* **Diabetic therapies**  
-			Agents, dose, and timing.
-			* Presence of **diabetic complications**
-				* Microvascular
-				* Macrovascular
-			* **Baseline** glucose **control**  
-			Average, range, frequency of monitoring, and HbA1c.
-				* An HbA1c should be performed if not done in the last 3 months  
-				Elevated HbA1c is predictive of postoperative adverse events.
-			* **Hypoglycaemic episodes**  
-			Frequency, timing, symptoms, severity.
-			* Characteristics of **surgery**
-			* Characteristics of **anaesthetic**
-		* **Goals** of management
-			* Avoid hypo/hyperglycaemia  
-			Aim BSL 4.4-10mmol/L.
-			* Prevent DKA/HHS
-			* Maintain euvolaemia
-			* Aim surgery as **first on a morning list**  
-			Minimises disruption to fasting.
+	* **Insulin dependency**  
+	More important than aetiology.
+	* **Diabetic therapies**  
+	Agents, dose, and timing.
+	* Presence of **diabetic complications**
+		* Microvascular
+		* Macrovascular
+	* **Baseline** glucose **control**  
+	Average, range, frequency of monitoring, and HbA1c.
+		* An **HbA1c should be performed** if not done in the last 3 months  
+		Elevated HbA1c is predictive of postoperative adverse events.
+			* Recommended to cancel elective surgery if HbA1c >8.5%  
+			However, no evidence suggesting that reducing it improves outcome
+	* **Hypoglycaemic episodes**  
+	Frequency, timing, symptoms, severity.
+	* **Goals** of management
+		* Avoid hypo/hyperglycaemia  
+		Aim BSL 6-10mmol/L.
+		* Prevent DKA/HHS
+		* Maintain euvolaemia
+		* Aim surgery as **first on a morning list**  
+		Minimises disruption to fasting.
 
 ###Perioperative Oral Hypoglycaemic Management
 |Class|Generic Name|Recommendation|Rationale|
 |---|---|
-|Biguanide|Metformin|Withhold 24 hours pre-major surgery|Increase risk of lactic acidosis and tissue hypoxia if elimination impaired by renal hypoperfusion|
+|Biguanide|Metformin|Withhold 24 hours pre-major surgery|Increase risk of lactic acidosis and tissue hypoxia if elimination impaired by renal hypoperfusion; can proceed with minor surgery if the patient has taken it|
 |Sulphonylurea|Gliclazide, Glipizide, Glimepiride|Withhold day of surgery|Increase risk of hypoglycaemia|
 |Glitazones|Rosiglitazone, Pioglitazone|Withhold day of surgery||
 |GLP-1 agonists|Exanatide|Withhold day of surgery||
 |DPP-4 inhibitors|Sitagliptin|Withhold day of surgery|Alter GI motility|
-|SGLT-2 inhibitors|Dapagliflozin, canagliflozin, empagliflozin|Withhold for 3 days prior|Euglycaemic DKA|
+|SGLT-2 inhibitors|Dapagliflozin, canagliflozin, empagliflozin|Withhold for 3 days prior. Measures ketones, if **>0.6** then measure BE and delay surgery. If >1.5mmol/L then treat for euDKA.|Euglycaemic DKA|
 
 ###Perioperative Insulin Management
 Management of insulin depends on:
@@ -66,7 +97,37 @@ Management of insulin depends on:
 |Long Acting/Basal|- Lantus<br>- Levemir|- Give 2/3<sup>rds</sup> of usual dose<br>- **Half** usual dose during bowel **preparation**|-  Give 2/3<sup>rds</sup> of usual dose<br>|- Give 2/3<sup>rds</sup> of usual dose<br>|
 |Pre-mixed|- Novomix 30<br>- Humalog Mix 25/Humalog Mix 50<br>- Mixtard 30/70|- Give normal dose with dinner<br>- **Half** usual dose during bowel **preparation**|- Withhold<br>- Give sliding scale|- Half usual dose with early morning breakfast<br>- Give sliding scale|
 
-###Sliding Scales
+###Perioperative Hypoglycaemia Management
+> * Check BSL Q2H whilst fasting
+
+**If BSL** is:
+* ⩽4 mmol/L  
+Notify anaesthetist and recheck BSL every 15 minutes
+* ⩽6 mmol/L and the patient is fasting  
+Treat:
+	* 50-100mL of 10-20% dextrose
+	* 1mg IM glucagon
+	* Buccal sugar
+	* 150-200mL juice
+	* 90-120mL lucozade
+* ≥12 mmol/L and the patient is fasting  
+	* IDDM  
+	Give rapid acting insulin as per [sliding scales](#slide).
+
+
+###Perioperative Management of Continuous Subcutaneous Insulin Infusion Pumps
+* Target a BSL of 6-10mmol/L  
+* Give 5% dextrose (as for sliding scale insulin) whilst fasting
+* If BSL:
+	* <4 mmol/L  
+	Withhold insulin, consider giving additional glucose.
+	* ≥4 mmol/L  
+	Continue insulin infusion.
+	* ≥10 mmol/L  
+	Administer additional short-acting insulin (as for sliding scale insulin).
+
+
+###Sliding Scales{#slide}
 Sliding scales should be based on the total daily insulin dose:
 
 |BSL (mmol/L)|< 20 units/day|21-40 units/day|41-60 units/day|61-89 units/day|>90 units/day|
@@ -74,30 +135,21 @@ Sliding scales should be based on the total daily insulin dose:
 |**10-11.9**|1 unit|2 units|4 units|6 units|10 units|
 |**12-15**|2 units|4 units|6 units|8 units|12 units|
 
-**If BSL** is:
-* < 4 mmol/L  
-Notify anaesthetist and recheck BSL every 15 minutes
-* < 10 mmol/L and the patient is fasting  
-Give 5% dextrose at 100ml/hr.
-* ≥ 10 mmol/L and the patient is fasting  
-Consider 5% dextrose at 50-100ml/hr.
 
 
-###Continuous Subcutaneous Insulin Infusion Pumps
-* Target a BSL of 5-10mmol/L  
-Check BSL Q2H whilst fasting.
-* Give 5% dextrose (as for sliding scale insulin) whilst fasting
-* If BSL:
-	* < 4 mmol/L  
-	Withhold insulin, consider giving additional glucose.
-	* ≥ 4 mmol/L  
-	Continue insulin infusion.
-	* ≥ 10 mmol/L  
-	Administer additional short-acting insulin (as for sliding scale insulin).
 
-
-###Ineffective Therapies
 ##Complications
+Significant risk:
+* Increased perioperative risk
+* Micro and macrovascular disease
+* Acute diabetic metabolic states
+	* DKA
+	* HHS
+* AKI
+* HTIs
+* Immunosuppression  
+Glycated neutrophils.
+
 
 
 ###Obstetric Complications

@@ -104,7 +104,11 @@ CT:
 ###Medical
 ###Surgical
 ###Anaesthetic Considerations
+* B
+	* CXR if pulmonary
 * C
+	* ECG
+	* TTE
 	* Cardiac disease
 		* Biventricular failure  
 		* Valvular disease
@@ -116,6 +120,11 @@ CT:
 			* Occur due to variation in hormone secretion
 			* **Unresponsive** to **conventional vasoactives**
 	* Haemodynamic goals
+		* Deep, stable anaesthesia prior to resection
+		* **Avoid**:
+			* Morphine
+			* Atracurium
+			* Suxamethonium
 		* Low CVP during resection
 		* Avoid inotropes and vasopressors  
 		Unpredictable and potentially **paradoxical** response.
@@ -146,6 +155,9 @@ CT:
 ###Ineffective Therapies
 ##Complications
 ##Prognosis
+Death:
+* 70% 5 year survival
+
 ##Key Studies
 
 ---

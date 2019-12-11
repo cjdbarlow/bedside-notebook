@@ -39,7 +39,8 @@ The KDIGO classification stages AKI as follows:
 		* 'True' ATN may occur following arterial occlusion (such as AAA rupture or dissection)
 
 
-##Epidemiology
+##Epidemiology and Risk Factors
+Risk factors:
 * Occurs in:
 	* 7% of hospital inpatients
 	* Up to 25% of ICU patients
@@ -47,29 +48,33 @@ The KDIGO classification stages AKI as follows:
 	* Mortality of patients requiring inpatient dialysis is 50-75%
 * Risk factors
 	* Patient factors
+		* Age
+		* Pre-exiting CKD	
 		* Dehydration
 		* Female
 		* Black race
 		* Elderly
+	* Disease factors
+		* COAD
+		* Obesity
+		* Sepsis
+		* CCF
+		* IABP
 		* DM
 		* Cancer
 		* Anaemia
 		* Hypertension
 		* Vascular disease
-		* Pre-exiting CKD
-	* Disease factors
-		* Sepsis
 		* Critical illness
 		* Shock
 		* Burns
-		* Trauma
-		* Cardiac surgery
-			* Increased with CPB
-		* Major surgery
-		* Infectious diseases
 		* Nephrotoxic drugs
 		* Toxins
-
+	* Perioperative
+		* Trauma
+		* Major surgery
+			* Cardiac surgery
+				* Increased with CPB
 
 ##Pathophysiology
 Causes are generally classified into:
@@ -236,6 +241,11 @@ ANCA, ANA, C3, C4. Perform in patients with:
 
 ##Management
 ###Preventative
+Principles:
+* Maintain renal perfusion
+
+
+General considerations:
 * Maintain MAP 65-90mmHg
 	* Consider higher MAP targets in patients with hypertension
 	* Vasopressors and fluids
@@ -250,9 +260,14 @@ ANCA, ANA, C3, C4. Perform in patients with:
 	* Use azoles or echinocandins as alternatives to amphotericin B if able
 	* IV contrast
 
+
+Perioperative considerations:
+* Meticulous fluid management
+* Cardiac output and blood pressure control
+
 ###Supportive
 * Avoid hyperglycaemia
-	* Use IV insulin to maintain BSL 6 - 8 mmol/L
+	* Use IV insulin to maintain BSL 6-8 mmol/L
 * Maintain 20-30 kcal/kg/day of energy intake  
 Enteric route if possible.
 * Avoid protein restriction
@@ -268,7 +283,7 @@ Enteric route if possible.
 * Dialysis
 	* No mortality difference between IHD and CRRT, but CRRT is less likely to cause hypotension
 
-####Dialysis
+###Dialysis
 *Dialysis is covered in detail [here](/management/renal/rrt.md).*
 
 
@@ -322,7 +337,7 @@ Reduce volume but do not affect survival or renal recovery.
 	Minimal supportive evidence outweighed by evidence of harm.
 	* **Appropriate to treat volume overload in the setting of AKI, but not AKI itself**
 	* Ineffective in reducing frequency or duration of RRT
-	* \>1g/day of frusemide may cause ototoxicity
+	* ⩾1g/day of frusemide may cause ototoxicity
 * Mannitol  
 Likely no benefit.
 * Dopamine  
@@ -337,10 +352,14 @@ No benefit.
 
 
 ##Complications
-* Increased risk of:
-	* CKD  
-	* Death
-	* Organ dysfunction
+Major complications:
+* Death  
+	* Perioperative mortality over 50%
+* Sepsis
+* Organ dysfunction
+
+
+Physiological derangements:
 * Volume overload
 * Metabolic acidosis
 * Hyperkalaemia

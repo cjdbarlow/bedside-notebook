@@ -57,6 +57,7 @@ May interfere with oral absorption of other medications, and contribute to myopa
 Statins:
 * Should be continued
 * Consider initiation in patients where statin therapy indicated
+	* Vascular surgery
 
 Diuretics:
 * Depends on indication:

@@ -12,6 +12,10 @@ Removal of thyroid gland, usually by transverse neck incision. Performed for:
 * Cancer
 	* Adenomas
 * Goitre
+	* Grave's disease
+	* Recurrent hyperthyroidism
+	* Hashimoto's thyroiditis
+	* Cosmetic
 
 ##Considerations
 * A
@@ -20,12 +24,40 @@ Removal of thyroid gland, usually by transverse neck incision. Performed for:
 			* ⩾50% of goitres are retrosternal  
 			Associated with increased rate of complications.
 			* 90% have airway issues
-			* 1/3rd have dysphagia.
-	* Tracheomalacia
+			* 1/3<sup>rd</sup> have dysphagia.
+	* Anatomical distortion  
+	Difficult airway in 6%.
+		* Tracheomalacia
+		* Swallowing difficulty
+			* Meat/bread  
+			Some sort of impingement.
+			* Liquids
+			* Secretion control  
+			Inability to control saliva/respiratory secretions indicates significant dysfunction.
+		* Consider nasoendoscopy for baseline cord function
 	* Airway plan  
 	Particularly afterwards. Plan for:
 		* Minimising coughing
 		* Recurrent laryngeal nerve palsy
+		* Vocal change
+	* Use of NIM tube  
+	ETT with built-in electrodes to monitor integrity of recurrent laryngeal nerves.
+		* Surgeon identifies RLN with current of 0.2-2mA, which will stimulate cord movement  
+		* Cord movement generates an electrical signal in the tube which is read on the monitor
+		* Reduce incidence of neuropraxia but not of long term RLN injury  
+			* Technical factors
+			* Increased external diameter of tube  
+			Minimum of 8.8mm OD.
+			* Cannot be placed nasally
+			* Requires stylet or FOI
+			* Requires precise positioning; VL is helpful  
+			Electrodes must straddle cords. 
+			* Certain blocks will limit efficacy:
+				* Nebulised lignocaine
+				* Trans-tracheal lignocaine
+				* Superior LN blocks
+			* Avoid muscle relaxation during dissection  
+			Remifentanil, atracurium, or rocuronium/sugammadex for intubation.
 * B
 	* Obesity
 * C
@@ -78,19 +110,20 @@ Immediate serious post-operative complications include:
 		* Requires reintubation  
 		CPAP may temporise by splinting open cords.
 	* Unilateral  
-	Hoarse voice.
+	3-4%; hoarse voice.
 * Tracheomalacia  
 Acute upper airway obstruction due to tracheal collapse.
 	* Requires emergent reintubation or tracheostomy
 	* Largely a historical remnant  
 	Risk is exceedingly rare in modern practice.
+	* Suggested by no cuff leak prior to extubation
 	* Risks may include:
 		* Duration of goitre
 		* Retrosternal extension of goitre
 		* Significance of extrinsic compression  
 		Tumour; may also include bronchogenic carcinoma or aortic aneurysm.
 * Haematoma/Oedema  
-Expansion may lead to airway compromise.
+Occurs in 1-2%, and expansion may lead to airway compromise.
 	* Rapidly reopen incision and drain remaining blood
 	* Consider CPAP to temporise airway
 	* Reintubation may be required immediately, or delayed (on return to theatre)
@@ -99,7 +132,8 @@ Expansion may lead to airway compromise.
 
 Delayed complications include:
 * Hypoparathyroidism  
-Inadvertent removal of parathyroid glands leading to acute fall in PTH and hypocalcaemia:
+Inadvertent removal of parathyroid glands leading to acute fall in PTH and **hypocalcaemia**:
+	* Occurs in ~20% of patients, with 3.1% being permanent
 	* Presents as:
 		* Laryngeal stridor
 		* Tingling/numbness
@@ -112,3 +146,4 @@ Inadvertent removal of parathyroid glands leading to acute fall in PTH and hypoc
 ---
 ##References
 1. Findlay, J.M., G.P. Sadler, H. Bridge, and R. Mihai. ‘Post-Thyroidectomy Tracheomalacia: Minimal Risk despite Significant Tracheal Compression’. British Journal of Anaesthesia 106, no. 6 (June 2011): 903–6. https://doi.org/10.1093/bja/aer062.
+2. Atlas G, Lee M. The neural integrity monitor electromyogram tracheal tube: Anesthetic considerations. J Anaesthesiol Clin Pharmacol. 2013;29(3):403-404. doi:10.4103/0970-9185.117052

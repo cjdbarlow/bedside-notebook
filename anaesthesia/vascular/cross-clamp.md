@@ -2,7 +2,8 @@
 
 Dramatic physiological changes occur following clamping of the descending aorta:
 * Exact haemodynamic responses vary depending on the level
-	* Supra-coeliac clamping consistently redirects blood flow and has predictable responses
+	* Supra-coeliac clamping consistently redirects blood flow and has predictable responses  
+	Requires a potent vasodilator; e.g. GTN or SNP.
 	* Infra-coeliac clamping is inconsistent, but less dramatic
 
 ##Physiology of Clamping
@@ -51,6 +52,18 @@ Due to combination of:
 Long term effects:
 * ↑ SVR  
 Continues to ↑ with ↑ duration of cross-clamping.
+
+
+###Preparing for Clamping
+Peri-clamping:
+* Have potent vasodilator available
+* Start vasodilator as the surgeon is placing the clamp  
+Clamp is placed slowly to avoid aortic dissection.
+* Aim **SBP ~90mmHg**
+
+
+Post-clamping:
+* Wean vasodilator as able
 
 
 ##Aortic Unclamping
@@ -119,7 +132,8 @@ Hypotension:
 * Consider unclamping strategies  
 Limits degree of reperfusion:
 	* Partial unclamping  
-	* Partial reclamping
+	* Partial reclamping  
+	May be done for bleeding control as well.
 	* Staged unclamping  
 	Selective reperfusion of different areas.
 	* Slow unclamping

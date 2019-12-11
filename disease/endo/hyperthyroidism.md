@@ -3,8 +3,18 @@
 
 
 ##Epidemiology and Risk Factors
+Risk factors:
+* Female:Male is 2:1
+
 ##Pathophysiology
 ###Aetiology
+Include:
+* Grave's disease
+* Toxic nodular goitre
+* Thyroiditis
+* Drug induced
+	* Amiodarone
+
 ##Clinical Manifestations
 ###History
 ###Examination
@@ -13,15 +23,31 @@
 ##Management
 
 
+###Thyroid Storm
+
 ###Anaesthetic Considerations
 * B
 	* ↓ Apnoea time due to ↑ VO<sub>2</sub>
 * C
 	* ↑ HR
 	* Arrhythmia
+		* AF
+	* CCF
+	* IHD
 * E
+	* Heat intolerance
+	* Weight loss
+* E<sub>2</sub>
 	* Thyroid state  
-	Patients should be euthyroid preoperatively.
+	Patients should be euthyroid preoperatively to avoid thyroid storm.
+		* Carbimazole  
+		Decreases iodine uptake and inhibits peroxidase enzyme, preventing iodine coupling.
+		* Propothiouracil  
+		Inhibits thyroperoxidase, and also decrease T<sub>4</sub> to T<sub>3</sub> conversion.
+		* Steroids  
+		Decrease T<sub>4</sub> to T<sub>3</sub> conversion.
+		* Lugol's Iodine
+		* β-blockers
 
 
 ###Ineffective Therapies

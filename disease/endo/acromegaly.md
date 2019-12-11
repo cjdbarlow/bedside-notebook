@@ -1,10 +1,12 @@
 #Acromegaly
 
-Progressive multisystem disease caused by excess growth hormone.
+Chronic progressive multisystem disease caused by excess growth hormone.
 
 ##Epidemiology and Risk Factors
 ##Pathophysiology
 Excessive growth hormone secretion occurring after puberty.
+
+
 ###Aetiology
 ##Clinical Manifestations
 Usually presents in an advanced stage at middle age. Symptoms may be due to:
@@ -17,7 +19,8 @@ Usually presents in an advanced stage at middle age. Symptoms may be due to:
 ##Management
 ###Anaesthetic Considerations
 * A
-	* Usually straightforward mask ventilation
+	* Usually straightforward mask ventilation  
+	Small hands may struggle.
 	* Potential difficult laryngoscopy
 		* Macrognathia
 		* Macroglossia
@@ -30,7 +33,7 @@ Usually presents in an advanced stage at middle age. Symptoms may be due to:
 	* Restrictive lung disease due to kyphoscoliosis
 * C
 	* Treatment-resistant hypertension  
-	With secondary:
+	Occurs in 40%. Leads to secondary:
 		* Eccentric LV hypertrophy  
 		Preoperative TTE beneficial.
 	* Ischaemic heart disease

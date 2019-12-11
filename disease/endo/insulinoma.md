@@ -1,0 +1,36 @@
+#Insulinoma
+
+Adenoma of beta cells, leading to excessive insulin production and:
+* Neuroglycopaenia
+* Hypoglycaemia  
+Relieved with glucose.	
+
+##Epidemiology and Risk Factors
+Risk factors:
+* F>M
+
+##Pathophysiology
+###Aetiology
+##Clinical Manifestations
+##Diagnostic Approach and DDx
+##Investigations
+##Management
+###Medical
+###Surgical
+###Anaesthetic Considerations
+* D
+	* Glucose management complex
+		* Continuous 5-10% glucose whilst fasting  
+		Often require prolonged (e.g. 72 hours) fast.
+		* BSL Q30 min until on tumour
+		* BSL Q15 min on tumour
+		* May need insulin post-operatively 
+
+
+###Ineffective Therapies
+##Complications
+##Prognosis
+##Key Studies
+
+---
+##References

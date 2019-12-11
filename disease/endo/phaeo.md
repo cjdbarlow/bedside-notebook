@@ -5,7 +5,7 @@ Catecholamine-secreting tumour of chromaffin tissue. Divided into:
 Arise from the adrenal gland.
 	* 70% of cases
 	* Usually unilateral
-* Paraganglionoma  
+* Paraganglioma  
 Arise from extra-adrenal autonomic ganglia:
 	* Bladder
 	* Sympathetic chain
@@ -33,9 +33,11 @@ Tumour of chromaffin cells:
 
 Produce a variety of:
 * Adrenaline
-* Noradrenaline
+* Noradrenaline  
+Most common: ~60%.
 * Dopamine  
 Rarer.
+
 
 ###Aetiology
 Majority are incidental, though ~30% are associated with autosomal dominant inheritance.
@@ -68,13 +70,16 @@ Secondary to ischaemia.
 Phaeochromocytomas may present during another surgery:
 * Hypertension  
 Major sign.
-* Tachyarrythmias
+* Tachyarrhythmias
 * Cardiac failure
 
 ##Investigations
 Diagnosis:
 * Metanephrines  
-	* Breakdown products of adrenaline and noradrenaline
+	* Breakdown products of catecholamines
+		* Metanephrine
+		* Normetanephrine
+		* Homovanillic acid for dopamine
 	* Can be measured in urine and plasma  
 	Unsure which is superior.
 		* Urinary more specific
@@ -117,6 +122,7 @@ This is **critical** to avoid excess morbidity and mortality; up to 45% without 
 		CHF, ischaemia, shock from a low-CO high-SVR state.
 		* Phenoxybenzamine  40-400mg/day  
 		Non-competitive, non-selective, long acting α-antagonist.
+			* Commence at 10mg BD, increase every 2-3 days
 			* Reduces catecholamine surges
 			* Increases postural hypotension
 			* Implicated in post-operative hypotension
@@ -131,12 +137,15 @@ This is **critical** to avoid excess morbidity and mortality; up to 45% without 
 	* **Replete circulating volume**  
 	Reduced due to low circulatory compliance.
 		* High sodium diet, high fluid intake
+		* 2L/day minimum
+		* Monitor haematocrit to ensure it is reducing
 	* **Control heart rate and arrhythmias**
 		* β-blockade  
-		May be requried to control tachyarrhythmias occuring after α-blockade achieved.
-			* Selective β1 antagonisits preferred  
+		May be required to control tachyarrhythmias occurring after α-blockade achieved.
+			* Selective β1 antagonists preferred  
 			Metoprolol, atenolol.
-		* Correct electrolyte deficiencie
+			* Aim **HR ⩽90**
+		* Correct electrolyte deficiencies
 	* **Optimise myocardial function**  
 		* Diastolic dysfunction in majority
 		* Systolic dysfunction in ~10%
@@ -155,18 +164,20 @@ Exact use is questioned, but principle remains. Criteria require 2 weeks of:
 	* ECG without ischaemia  
 	Ischaemia is still to be avoided, but changes may represent Takotsubo rather than ischaemia.
 	* Control of episodic symptoms
+* Preoperative optimisation performed over days-weeks
 
 
 ###Anaesthetic Considerations
 * B
 	* Pulmonary oedema
 * C
-	* Haemodynamic state  
-		* Labile BP
-		* Tachyarhythmias
-		* Volume state  
-		Usually low.
-	* Cardiomyopathy
+	* Arterial line
+	* Consider CO monitoring
+	* Haemodynamic control
+	**Preoperative optimisation required**.
+		* May be performed as an inpatient in some systems
+	* Cardiomyopathy  
+	Bulk of patients have EF ~55% however.
 	* Impaired catecholamine sensitivity
 	* Avoidance of drugs with catecholamine effects
 		* Desflurane
@@ -177,6 +188,8 @@ Exact use is questioned, but principle remains. Criteria require 2 weeks of:
 * D
 	* Impaired insulin sensitivity  
 	Hypoglycaemia may occur following resection - monitor postoperatively.
+	* Anxiolysis
+
 
 ##Complications
 Due to excessive catecholamine effects:

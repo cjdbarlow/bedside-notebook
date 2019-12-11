@@ -1,0 +1,47 @@
+#Extracorporeal Shockwave Lithotripsy
+
+>Airway: 
+>Access: 
+>Pain: 
+>Position:
+>Time: 
+>Blood loss:
+>Special:
+
+High-energy ultrasound used transcutaneously to mechanically destroy upper urinary tract stones.
+
+Contraindications:
+* Morbid obesity
+* Pregnancy  
+Foetal risk.
+* Pacemaker
+* Coagulopathy
+* Lumbar or pelvic hardware
+* Intraabdominal calcification  
+e.g. AAA.
+
+##Considerations
+Get SET:
+* Usually out of operating suite
+* Electrical safety
+
+* B
+	* Small tidal volumes
+* C
+	* Arrhythmias
+	* PPM
+* D
+	* GA vs regional
+		* GA usually easier
+* E
+	* Immobility required
+
+##Preparation
+##Induction
+##Intraoperative
+###Surgical Stages
+##Emergence
+##Postoperative
+
+---
+##References

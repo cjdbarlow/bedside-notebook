@@ -9,6 +9,8 @@
 >	* Haemorrhage
 >	* Haemorrhage
 >	* Obstructive
+>		* Tension PTHx
+>		* Tamponade
 >	* Distributive
 
 

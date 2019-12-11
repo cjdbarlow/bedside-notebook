@@ -7,7 +7,7 @@
 >Blood loss: Extensive, with possibility of exsanguination. Cell saver, cross-match at least 4 units.  <br>
 >Special: HDU/ICU required post-op.
 
-Removal of an aneurysmal aorta and replacment with a synthetic graft. May be:
+Removal of an aneurysmal aorta and replacement with a synthetic graft. May be:
 * Infra-renal
 * Supra-renal  
 Requires a supra-renal cross-clamp, and therefore is associated with significantly greater peri-operative AKI.
@@ -33,7 +33,7 @@ High risk of perioperative morbidity and mortality.	Discuss:
 		* Arterial line pre-induction
 		* CVC can be placed post-induction
 		* Consider PAC in complex disease
-	* Prepare for surgical manouveres that will affect BP
+	* Prepare for surgical maneuvers that will affect BP
 	Vasoactives:
 		* Vasodilators  
 		For the cross-clamp phase.
@@ -61,16 +61,17 @@ High risk of perioperative morbidity and mortality.	Discuss:
 * Standard ANZCA monitoring
 * 5-lead ECG
 * Large-bore IV access
-* Thoracic epidural  
-	* Place at T6-T11
-	* Place immediately after IV, to give maximal time for haemostasis prior to intraoperative heparinisation
-	* Consider not using immediately, instead only initiating after the ischaemic washout phase is complete.  
-	Limits haemodynamic instability if haemorrhage is significant.
 * Arterial line  
 Pre-induction, in the arm with the higher pre-operative BP.
 * CVC  
 Generally post-induction, unless required. Transduce CVP.
+* Consider thoracic epidural  
+	* Place at T6-T11
+	* Place immediately after IV, to give maximal time for haemostasis prior to intraoperative heparinisation
+	* Consider not using immediately, instead only initiating after the ischaemic washout phase is complete.  
+	Limits haemodynamic instability if haemorrhage is significant.
 * Temperature monitoring
+* Fluid warming
 
 ##Induction
 Haemodynamically stable induction required:
@@ -125,8 +126,9 @@ Consider:
 	* Reduce anaesthesia
 
 ##Postoperative
-* ICU or HDC is required  
-HDU acceptable if the patient can be extubated.
+ICU or HDU:
+* One or the other is required  
+* HDU acceptable if the patient can be extubated
 
 ---
 ##References

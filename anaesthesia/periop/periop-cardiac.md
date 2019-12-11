@@ -53,13 +53,56 @@ Useful thresholds:
 		* Monitoring troponin should be considered perioperatively   
 		Pre-operatively, as well as 24 and 72 hours post-operatively.
 
-
-###Investigations
+Investigations:
 * NT-proBNP/BNP  
 	* Independently associated with death and nonfatal MI at 30 days after non-cardiac surgery  
 	* BNP >92mg/L or NT-proBNP >300ng/L  
 	22% vs 4.9%.
 
+
+
+###CAD/IHD
+*Management of perioperative stents is covered under [antiplatelets in coronary artery stents](/anaesthesia/periop/periop-antiplatelet.md#pci).*
+
+
+Previous MI:
+* ⩾60 days should elapse after MI before non-cardiac surgery performed, in absence of coronary intervention
+* MI within **6 months** is an independent risk factor for perioperative stroke  
+8x increase in mortality.
+
+
+Angiography:
+* Routine perioperative angiography is not recommended
+* Revascularisation only recommended if indicated by other existing guidelines
+* No difference in long-term outcome with revascularisation unless:
+	* Left main disease
+	* LVEF <20%
+	* Severe AS
+
+
+
+###Heart Failure
+Perioperative evaluation of LV function is reasonable in patients with:
+* Dyspnoea of unknown origin
+* Worsening dyspnoea or change in clinical status
+* No assessment of LV function in previous 12 months
+
+
+Risk prediction:
+* LVEF <30% is an independent contributor to perioperative morbidity
+
+
+##Arrhythmia
+General principles:
+* AF  
+Adjust anticoagulation as required.
+* Ventricular ectopics don't require intervention unless:
+	* Associated with structural abnormality
+	* Symptomatic
+* Frequent ventricular ectopics are a risk factor for arrhythmia but not MI or death
+* VT should be evaluated by a cardiologist
+	* LV function
+	* CAD
 
 
 ##Post-Operative
@@ -89,6 +132,7 @@ Management of myocardial injury without MI:
 * Aspirin
 * Statin
 * Consideration of beta-blockade
+
 
 
 ---
