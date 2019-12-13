@@ -47,6 +47,12 @@ Use a system based answer:
 	* Airway considerations
 	* Respiratory considerations
 	* Etc
+* **Welfare question**  
+When answer a welfare question for the ANZCA Part II Exam; aim:
+	* Protect the patient
+	* Protect the doctor
+	* Short-term measures
+	* Long-term measures
 
 
 

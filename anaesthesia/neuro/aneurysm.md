@@ -66,25 +66,36 @@ Avoid ⩽ 10% change in SBP.
 
 
 ##Intraoperative
-Aneurysmal rupture:
+Aneurysmal Rupture:
 * Call for help
 * Reduce bleeding
+	* Requires urgent surgical control of source
+	* **Reverse heparin** if in IR
 	* Induce hypotension to reduce haemorrhage  
-	Many strategies - will depend on anaesthetic currently running/drawn up/what is available. Some include:
-		* Propofol  
-		Immediately available and intimately familar, but may not be enough.
-		* Remifentanil bolus (e.g. 1ug/kg)  
-		* Adenosine
-		* Esmolol
-		* GTN
+		* Target:
+			* SBP <100mmHg if in IR
+			* Reduction of haemorrhage if in OT
+		* Strategies  
+		Multiple options; will depend on severity of haemorrhage and what is currently running/drawn up/available. Some include:
+			* Anaesthetic agents
+				* Propofol  
+				Immediately available and intimately familiar, but may not be enough.
+				* Remifentanil bolus (e.g. 1ug/kg)  
+				* Thiopentone  
+			* Cardiac agents
+				* Adenosine
+				* Labetalol
+				* Esmolol
+				* GTN  
+				3-5mg/kg bolus, then 3-5mg/kg/hr, targeted to burst suppression.
 	* Compress ipsilateral carotid artery to reduce bleeding
-* Volume resuscitate
+* Volume resuscitation
 	* Increase IVT rate
 	* Begin transfusion
 * Consider cerebroprotective strategies
 
 
-Induced hypotension:  
+Induced Hypotension:  
 * May be requested to reduce risk of aneurysmal bleeding  
 * Aim SBP 60-80mmHg
 Consider:  
@@ -96,21 +107,6 @@ Cerebroprotection:
 * May be requested if placing temporary clip on a major vessel
 * Goal is to maintain cerebral perfusion by collateral vessels
 * Gentle elevation in BP desirable
-
-
-Aneurysmal rupture:
-* Disastrous
-* Requires urgent surgical control of source
-* Anaesthetic goals
-	* Hypotension  
-	Achieve with whatever is to hand, options include:
-		* Propofol
-		* Remifentanil
-		* Thiopentone  
-		3-5mg/kg bolus, then 3-5mg/kg/hr, targeted to burst suppression.
-		* Esmolol
-		* Labetalol
-		* Adenosine
 
 
 ###Surgical Stages

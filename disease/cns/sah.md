@@ -127,6 +127,8 @@ Secure aneurysm:
 Neurocritical care to prevent and manage complications:
 * Delayed cerebral ischaemia
 	* Nimodipine 60mg Q4H PO should be administered to all SAH patients for 21 days
+		* Improves outcome but does not appear to reduce radiological vasospasm  
+		Neuroprotection probably by another mechanism.
 	* Repeat CT should occur at 24-48 hours to identify any new infarctions  
 	Those not attributable to EVD or IPH should be considered to be due to delayed cerebral ischaemia.
 	* Consider regular transcranial doppler to monitor for vasospasm

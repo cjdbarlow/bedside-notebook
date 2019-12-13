@@ -59,6 +59,8 @@ Position:
 ##Postoperative
 Surgical complications:
 * CSF leak
+	* Pack sella with fat
+	* May need **lumbar drain**
 * Hydrocephalus
 * Bleeding
 * Visual problems

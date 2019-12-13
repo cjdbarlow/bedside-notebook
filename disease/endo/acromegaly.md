@@ -27,6 +27,8 @@ Usually presents in an advanced stage at middle age. Symptoms may be due to:
 		* Soft tissue bulk
 		* ↑ Size epiglottis
 	* AFOI may be preferable
+	* Soft tissue enlargement  
+	Ask about **vocal changes**.
 * B
 	* OSA  
 	Present in up to 70%.
@@ -41,8 +43,8 @@ Usually presents in an advanced stage at middle age. Symptoms may be due to:
 * E
 	* Proximal myopathy  
 	May limit respiratory function.
-	* Peripheral nerve compression  
-	Increased of entrapment syndromes.
+	* Entrapment neuropathy  
+	Peripheral nerve compression.
 	* Difficult cannulation
 * E
 	* Associated endocrine disease

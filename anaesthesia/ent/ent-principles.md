@@ -1,8 +1,11 @@
 #Principles of Ear, Nose, and Throat Surgery
 
->ENT surgery has the anaesthetist and surgeon sharing the airway. Anaesthetic management has to adapt to surgical concerns.
+>* ENT surgery has the anaesthetist and surgeon sharing the airway  
+>Anaesthetic management has to adapt to surgical concerns.
+>* 40% of difficult airway cases in NAP4 were ENT
 
 Anaesthesia for ENT surgery requires:
+* Appreciating the **shared airway**
 * Understanding the **pathology**  
 **Pathology determines** the:
 	* Surgical approach and technique  
@@ -86,9 +89,10 @@ Often need some alternative device:
 * State of airway on completion of surgery
 
 ##Anaesthetic Techniques
-Include:
-* Tube
-
+Key decisions:
+* Awake vs. Asleep
+* Apnoeic vs. Spontaneously ventilating
+* Surgical vs. non-surgical
 
 ###Tube
 Options include:

@@ -1,12 +1,13 @@
 #Chronic Post-Surgical Pain
 
-Chronic post-surgical pain:
-* Is defined as:
-	* >2 months of pain
-	* Occurring after surgery  
-	May be either a continuation of acute post-surgical pain, or develops after an asymptomatic period.
-	* That interferes with quality of life
-* Complicates **~10%** of all surgeries  \
+Chronic post-surgical pain is defined as **>2 months of pain**:
+* Occurring after surgery  
+May be either a continuation of acute post-surgical pain, or develops after an asymptomatic period.
+* That interferes with quality of life
+
+
+Chronic pain:
+* Complicates **~10%** of all surgeries
 With intolerable pain in ~1%.
 * Contributes significantly to the burden of chronic pain
 	* Pain
@@ -15,6 +16,9 @@ With intolerable pain in ~1%.
 
 
 ##Epidemiology and Risk Factors
+> Risk factors are proportional to post-operative opioid consumption
+
+
 **Surgical Factors:**
 * Type
 	* Breast
@@ -44,6 +48,7 @@ With intolerable pain in ~1%.
 * Marital status
 * Compensation status
 * Preoperative opioid use
+
 
 ##Pathophysiology
 Multiple pathways:

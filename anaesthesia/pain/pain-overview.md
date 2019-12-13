@@ -12,7 +12,7 @@ Process of nervous system transmission of a noxious stimuli.
 
 ##Pain Management
 Pain management is important as pain:
-* Causes Suffering
+* Causes suffering
 * Limits rehabilitation  
 Adequate analgesia facilitates **restoration** of **normal function**.
 * Leads to secondary complications
@@ -41,6 +41,13 @@ Goals of pain management include:
 
 
 ##Pain Assessment
+> Use the **PASS** assessment:
+>	* Pain history
+>	* Analgesia and other drug substances
+>	* Stress and other psychology
+>	* Surgical factors
+
+
 Key components of a pain history include:
 * Site
 	* Location
@@ -103,6 +110,7 @@ Targeting:
 * Gabapentin and pregabalin are opioid-sparing
 * Calcitonin reduces acute phantom limb pain
 
+
 NSAIDs:
 * Spectrum of activity between COX-1 and COX-2
 * Renal injury is low when used appropriately
@@ -158,17 +166,24 @@ Tramadol:
 * Relatively high NNT
 * Minimal improvement in pain score, but better subjective opinion of pain
 
+
 α2-delta ligands:
+* α2-delta ligands  
+Probably little in most patients, but good in opioid tolerant.
+* Avoid using PRN
 
-
-
+Clonidine  
+* Useful in opioid users.
 
 
 PCAs:
 * Improve analgesia
 * Improve patient satisfaction
 * Increase opioid consumption
-* 
+
+
+Other:
+* Avoid withdrawal of benzodiazepines
 
 
 

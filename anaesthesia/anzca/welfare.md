@@ -17,6 +17,9 @@ Adverse events in anaesthesia are rare and catastrophic.
 2.7x greater risk.
 
 
+Impairment:
+* Behaviour or actions that compromise patient safety
+
 ##Personal Care
 Doctors should:
 * Have their own GP
@@ -52,7 +55,7 @@ Primary, chronic disease of brain reward... leading to a pathological pursuit of
 
 ###Risk Factors
 General:
-* Family history of durg abuse
+* Family history of drug abuse
 * Childhood abuse
 * Family dysfunction
 * Mental health disorder
@@ -101,6 +104,48 @@ Outside of hospital:
 * Legal problems
 * Financial problems
 
+
+###Mandatory Notification
+Law mandates reporting:
+* Practicing whilst intoxicated
+* Sexual misconduct
+* Placing patient at risk through impairment
+* Patient at risk through practice which constitutes a significant departure from accepted professional standard
+
+
+###Investigation
+Process will vary:
+* Sufficient evidence will usually mandate immediate investigation
+* Lack of evidence may need a period of monitoring
+* Interviews with senior staff (e.g. nurses)
+* Police involvement if criminal activity
+
+
+Meeting with the person:
+* Needs to be planned in advance
+* Have suitable contacts available:
+	* Occupational medicine
+	* Psychiatry
+	* ANZCA Welfare officer
+* Notification to provider needs to be followed immediately by meeting  
+Support person should be available.
+	* Family
+	* Friend
+	* Colleague
+* Explain concerns raised about their behaviour
+* Present any evidence  
+Factual and unemotional way.
+* A non-judgmental approach facilitates a more productive interaction
+* Responses:
+	* Relief  
+		* Usually compliant with suggestions for treatment options
+	* Anger
+		* Common in those with denial
+		* Should be offered assessment and opportunity to consent to urine or hair testing
+* Person should be accompanied from this point on  
+Significant risk of self-harm.
+
+
 ###Intervention
 Three major considerations:
 * Patient safety
@@ -110,19 +155,6 @@ Three major considerations:
 * Colleague health
 	* Private and confidential
 	* Significant reputation and career risk with allegation
-	* Explain concerns raised about their behaviour
-	* Present any evidence
-	* A non-judgmental approach facilitates a more productive interaction
-	* Have suitable contacts available:
-		* Occupational medicine
-		* Psychiatry
-		* ANZCA Welfare officer
-	* Responses:
-		* Relief  
-			* Usually compliant with suggestions for treatment options
-		* Anger
-			* Common in those with denial
-			* Should be offered assessment and opportunity to consent to urine or hair testing
 * Statutory reporting obligations
 
 
@@ -132,7 +164,18 @@ In general:
 Anaesthetists similar to general doctors.
 * Median time time to relapse is 2.6 years.
 	* Mortality of 13%
-* Hair testing is preferable to verify abstinence
+
+
+Re-entry:
+* Assessment by medical board
+* Requires supervision
+* Limitation of practice
+* Restricted access to drugs
+* Drug testing
+	* Blood
+	* Urine  
+	* Hair  
+	Hair testing is preferable to verify abstinence due to longer lead time.
 
 
 ###Angres Criteria  
