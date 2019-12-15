@@ -40,8 +40,7 @@
 
 * [Airway](/management/airway/airway-management.md#id)
 	* [Planning](/management/airway/airway-management.md)
-		* [Unexpected Difficult Airway](/management/airway/difficult-airway.md)
-		* [Expected Difficult Airway](/management/airway/expected-difficult-airway.md)
+	* [Unexpected Difficult Airway](/management/airway/difficult-airway.md)
 	* [Devices](/management/airway/devices-considerations.md)
 	* [Techniques](/management/airway/mask.md#id)
 		* [Mask Ventilation](/management/airway/mask.md)

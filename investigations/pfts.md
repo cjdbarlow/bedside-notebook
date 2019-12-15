@@ -1,5 +1,7 @@
 #Pulmonary Function Tests
 
+*Preoperative assessment for thoracic surgery is covered under [thoracic principles](/anaesthesia/thoracics/thoracic-principles.md#lung).*
+
 Pulmonary function tests are used to:
 * Diagnose disease
 * Monitor response to therapy
@@ -24,9 +26,9 @@ May involve testing:
 
 ##Ventilation Tests
 Include:
-	* Peak flow
-	* Spirometry
-	* Total body plethysmography
+* Peak flow
+* Spirometry
+* Total body plethysmography
 
 ###Peak Flow
 Patient forcefully exhales from a vital capacity breath into a peak flow meter:
@@ -36,7 +38,9 @@ Patient forcefully exhales from a vital capacity breath into a peak flow meter:
 Asthma and COAD.
 
 ###Spirometry
+Process:
 * Patients breaths in and out of a flowmeter
+	* Difficult to coordinate in children under 5
 * Allows all volumes *except* residual volume to be measured, i.e.
 	* Tidal volume
 	* Expiratory reserve volume
@@ -55,24 +59,26 @@ Tests ability of lungs to act as a bellows ,and is reduced by restrictive diseas
 Assesses reversibility of disease.
 
 
-####Lung Resection
-Broadly speaking, resection is appropriate if:
-* FEV<sub>1</sub> ⩾1.5L for lobectomy
-* FEV<sub>1</sub> ⩾2.0L or 80% predicted for pneumonectomy
 
-Post-operative FEV<sub>1</sub> can be calculated as follows:
-
-$$Post-operative / FEV_1 = Pre-operative / FEV_1 \times {Segments \ left \ after \ resection \over 19}
-* Where 19 is the number of existing preoperative bronchopulmonary segments
-
-
-If the FEV<sub>1</sub> results do not suggest suitability, then consider:
-* Quantitative lung scan  
-Surgery appropriate if:
-	* % ppo FEV<sub>1</sub> ⩾40%
-	* % ppo TLCO ⩾40%
-* VO<sub>2</sub> max testing  
-Surgery appropriate if VO<sub>2</sub> max is ⩾15mL/kg/min.
+Interpretation:
+* Validity  
+Multiple best-effort measurements should be taken, and FEV<sub>1</sub> and FVC measurements should be within 0.2L
+* FEV<sub>1</sub>FVC ratio of <70% (adults) or <85% (children) of predicted  
+Indicates an **obstructive** defect.
+	* Reversibility demonstrated by >12% increase following bronchodilator  
+	Asthma is usually reversible, COPD is not.
+	* Multiple grading systems, the GOLD 2008/NICE 2010 system:
+		* FEV<sub>1</sub> ⩾80% predicted  
+		Mild.
+		* FEV<sub>1</sub> 50-79% predicted  
+		Moderate.
+		* FEV<sub>1</sub> 30-49% predicted  
+		Severe.
+		* FEV<sub>1</sub> ⩽30% predicted  
+		Very severe.
+* FVC <80% predicted  
+Indicates a **restrictive** defect.
+* Presence of both a reduced FVC and reduced FEV<sub>1</sub>/FVC ratio indicates a **mixed defect**
 
 ###Total Body Plethysmography  
 Allows measurement of volumes and capacities that are not measured with spirometry, including:
@@ -128,3 +134,4 @@ Provides a functional assessment of cardiopulmonary reserve:
 ##References
 1. Portch D, McCormick B. Pulmonary Function Tests and Assessment for Lung Resection. Update in Anaesthesia.
 1. Gould G, Pearce A. Assessment of suitability for lung resection. Contin Educ Anaesth Crit Care Pain. 2006 Jun 1;6(3):97–100. 
+1. Johnson JD, Theurer WM. A Stepwise Approach to the Interpretation of Pulmonary Function Tests. AFP. 2014;89(5):359-366.

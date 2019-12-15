@@ -1,0 +1,36 @@
+#Zero-Point Survey
+
+Process performed **prior** to arrival of a casualty to optimise the resuscitation. Consists of:
+* **Self-check**  
+Mental readiness for engagement. May consist of:
+	* Eating/drinking/toileting
+	* Controlled breathing
+	* Positive self-talk
+	* Imagery and visualisation
+	* Triggering to action
+* **Team brief**  
+Identify a team leader and allocate roles. Based on available information:
+	* Estimate likely injuries and tasks
+	* Develop and share the mental model
+* **Environmental scan**  
+Identify and mitigate dangers:
+	* Space
+	* Light
+	* Noise
+	* Crowd
+
+
+* **Patient**  
+Commence resuscitation:
+	* Primary survey
+* **Update**  
+Share mental model.
+* **Priorities**  
+Identify team goals and set mission trajectory.
+
+
+---
+
+##References
+
+1. Reid C, Brindley P, Hicks C, Carley S, Richmond C, Lauria M, et al. Zero point survey: a multidisciplinary idea to STEP UP resuscitation effectiveness. Clin Exp Emerg Med. 2018 Sep 30;5(3):139–43. 

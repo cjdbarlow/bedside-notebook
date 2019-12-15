@@ -70,44 +70,50 @@ Insertion of a DLT is more difficult than SLT.
 
 
 ###Assessment of Pulmonary Function
-> * Relies on the "3-legged" stool
 > * Ability to tolerate:
 >	* Resection
 >	* [One-lung ventilation](/management/resp/olv.md)
+>* Broadly speaking, resection is appropriate if:
+>	* FEV<sub>1</sub> ⩾1.5L for lobectomy
+>	* FEV<sub>1</sub> ⩾2.0L or 80% predicted for pneumonectomy
 
 
 
+The "3-legged" stool of respiratory assessment evaluates a patients ability to **tolerate** removal of an **anatomically resectable** lung cancer. Many approaches have been described; institutional practice will vary depending on the availability of more advanced investigations (e.g. CPET) testing. This is one approach:
+* **Spirometry**  
+FEV<sub>1</sub> and DLCO are:
+	* ⩾60% of predicted  
+	Proceed to surgery.
+	* <60% of predicted
+		* Estimate **predicted postoperative lung function**  
+		FEV<sub>1</sub> and DLCO are:
+			* ⩾40% of predicted  
+			Proceed to surgery.
+			* <40% of predicted
+				* Perform **CPET testing**  
+					* Not always available, and not always performed
+					* As measured by **CPET**, or surrogate
+					* VO<sub>2</sub> max >15mL/kg/min  
+					Most useful predictor of outcome. Indicated by:
+						* Stair climb ⩾2 flights
+						* 6 minute walk test ⩾610m
+						* Exercise SpO<sub>2</sub> <4%)
+					* VO<sub>2</sub> max
+						* ⩾10mL/kg/min  
+						Proceed to surgery.
+						* <10mL/kg/min  
+						Discuss alternatives.
 
-Respiratory Mechanics:
-* PPO FEV<sub>1</sub>
-	* Key estimate of lung function
-	* Calculated as $$PPO FEV_1 = Preoperative \ FEV_1 \times {Number \ of \ segments \ initially - Number \ of segments \ resected \over Number \ of \ segments \ initially}$$
+
+
+###Predicted Post-Operative Function Estimation
+Predicting post-operative function:
+* Estimates the proportion of lung function lost by resection
 	* Assumes that all lung segments contribute equally to function  
 	Usually not the case as diseased units will inherently perform less well.
+* Performed for both FEV<sub>1</sub> and DLCO  
+Calculated as $$PPO FEV_1 = Preoperative \ FEV_1 \times {Number \ of \ segments \ initially - Number \ of segments \ resected \over Number \ of \ segments \ initially}$$
 	* Normal is **19 segments**
-
-
-
-Lung parenchymal function:
-* Predicted post-operative lung function, as predicted by complex spirometry: 
-	* PPO DLCO >40% and 
-	Consider V/Q scan if DLCO is low. 
-
-
-Cardiopulmonary Reserve:
-* Not always available, and not always performed
-* As measured by **CPET**, or surrogate
-* VO<sub>2</sub> max >15mL/kg/min  
-Most useful predictor of outcome. Indicated by:
-	* Stair climb ⩾2 flights
-	* 6 minute walk test ⩾610m
-	* Exercise SpO<sub>2</sub> <4%
-
-
-**Simple spirometry**:
-	* FEV<sub>1</sub> >1.5 for lobectomy
-	* FEV<sub>1</sub> >2 for pneumonectomy
-
 
 
 ###Risk Stratification

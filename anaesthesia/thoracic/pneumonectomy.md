@@ -1,18 +1,37 @@
 #Pneumonectomy
 
-
->Airway: 
->Access: 
->Pain: 
->Position:
->Time: 
->Blood loss:
->Special:
+>Airway: Lung isolation required <br>
+>Access: 2x Large IV; arterial line on **lower arm** <br>
+>Pain: High, risk of CPSP, strongly consider regional <br>
+>Position: Lateral <br>
+>Time: 1.5-3 hours <br>
+>Blood loss: ⩽500ml unless great vessels injured. G+H <br>
+>Special: Lung isolation <br>
 
 Intro and technique
 
 ##Considerations
+* B
+	* Lung function  
+	Underlying and predicted post-operative pulmonary reserve.
+	* Lung isolation
+* C
+	* Concomitant cardiac disease  
+	In particular:
+		* **Pulmonary hypertension** or **RV dysfunction**  
+		Relative contraindication due to the increase in RV afterload.
+* D
+	* Analgesia  
+	Regional techniques recommended:
+		* Epidural
+		* Paravertebral
+		* Extrapleural catheter
+
 ##Preparation
+*Ensure preoperative [lung function testing](/anaesthesia/thoracics/thoracic-principles.md#lung) testing has been performed.*
+
+
+
 ##Induction
 ##Intraoperative
 Fluid management:
@@ -20,6 +39,19 @@ Fluid management:
 
 
 ###Surgical Stages
+* Lung isolation
+* Chest entered
+* Lung allowed to passively deflate
+* Vascular structures usually divided first  
+Division of hilar structures may compress the heart and great vessels, leading to:
+	* Hypotension
+	* Arrhythmia
+* Clamps applied  
+* Lung resected
+* Leak test  
+Chest filled with saline and Valsalva performed to identify bubbles.
+* ICC placed
+
 ##Emergence
 ##Postoperative
 Key considerations:
@@ -27,6 +59,9 @@ Key considerations:
 	* ICU
 * Analgesia  
 Often regional techniques.
+* Chest drain
+
+
 
 Complications:
 * Arrhythmia

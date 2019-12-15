@@ -228,7 +228,7 @@ Localised pain due to tissue trauma from the needle is common. Note that:
 
 
 
-##Management of Copmlications Relating to Epidural Insertion{#comp}  
+##Management of Complications Relating to Epidural Insertion{#comp}  
 *This covers complications of insertion. Troubleshooting the working epidural is covered [here](/anaesthesia/regional/epidural-mx.md#comp).*
 
 
@@ -245,7 +245,7 @@ Complications of epidural insertion include:
 
 Dural puncture is:
 * Common  
-1-2% of epidural inertions.
+1-2% of epidural insertions.
     * Predominantly by needle
     * Rarely by catheter  
     Important as may result in inadvertent total spinal.
@@ -274,7 +274,7 @@ This is a higher risk technique.
 Occasionally, injection may be between the dura and the arachnoid. Subdural injection:
 * Typically causes a:
     * **Delayed onset**  
-    10-30 minutes may elapse. **Hypotension** may be the presenting symptom.
+    10-30 minutes may elapse; however block density tends to increase rapidly after onset. **Hypotension** may be the presenting symptom.
     * **High block**  
     Due to reduced compliance of the subdural space compared to the epidural space, causing solution to rise higher in the space.
     * **Weak/patchy block**  

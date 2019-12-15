@@ -78,3 +78,26 @@ May be able to be managed medically.
 	* Usually okay if not in AF  
 	In AF, its like having VF - unfiltered pathway conducts all the atrial activity through to the ventricle.
 	* Requires class I drugs or DCC
+
+
+EEG in ICU:
+* Monitor burst suppression
+* Diagnosis undifferentiated conscious impairment
+* Diagnose NCSE
+* Prognosticate hypoxic brain injury
+* Early diagnosis vasospasm
+
+
+Mannitol contraindications:
+* Na >150
+* Osm >320
+
+
+Easy epilepsy loading doses:
+* Phenytoin 20mg/kg
+* Valproate 40mg/kg
+* Levetiracetam 60mg/kg
+
+
+PRBC transfusion incrementsS:
+* 4ml/kg increases Hb by ~10g/L

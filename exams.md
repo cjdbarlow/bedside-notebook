@@ -47,14 +47,46 @@ Use a system based answer:
 	* Airway considerations
 	* Respiratory considerations
 	* Etc
+
+
+Additional structures for specific questions include:
 * **Welfare question**  
 When answer a welfare question for the ANZCA Part II Exam; aim:
 	* Protect the patient
 	* Protect the doctor
 	* Short-term measures
 	* Long-term measures
-
-
+* **Regional technique**  
+Use the PRECIOUS mnemonic:
+	* Position
+	* Risk
+		* General
+			* Infection
+			* Bleeding
+			* Local anaesthetic toxicity
+			* Nerve injury
+		* Specific  
+		e.g. Pneumothorax.
+	* Equipment
+	* Consent and **block time out**
+	* IV
+	* Oxygen and monitoring
+	* Ultrasound
+	* Sedation
+* **Introduction of new procedure**
+	* Consult regulatory authorities
+	* Set up local hospital group
+		* Anaesthetists
+		* Surgeons
+		* Nurses
+		* Administrators
+	* Formulate local protocols
+	* Policies for selection of patients
+	* Dedicated/separate ward facilities
+	* Equipment appropriate for task
+	* Consultation with other hospitals for advice and review
+	* Slow implementation
+	* Ongoing formal review and audit
 
 ###Medical Viva
 Structure:
