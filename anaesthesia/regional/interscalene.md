@@ -47,10 +47,10 @@ Identify thyroid, carotid, and IJV.
 	Under SCM and lateral to the carotid artery.
 	* Scalenus medius
 	* Interscalene plexus  
-	Appears as three nerves ('traffic light') between scalenus anterior and medius.
+	Appears as three nerves ('traffic light') between the anterior and middle scalene muscles.
 * Occasionally a scalenus intermedius muscle/fascial layer divides the plexus into a superficial and deep plexus.
 * Insert needle IP:
-	* Posterolateral to anteromedial
+	* From posterolateral to anteromedial  
 	* Through middle scalene
 	* Aiming deep to the plexus  
 	This position minimises the risk of nerve injury.

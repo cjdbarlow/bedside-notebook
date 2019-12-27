@@ -76,10 +76,14 @@ Associated with disturbances to:
 ##Investigations
 ##Management
 Preventative:
+* Premptive analgesia  
+Analgesia prior to nociceptive stimulus; e.g.
+	* Epidural  
+Reduces CPSP after **thoracotomy**.
+	* Spinal
 * Ketamine  
 Perioperative ketamine reduces CPSP.
-* Epidural analgesia  
-Reduces CPSP after **thoracotomy**.
+
 
 
 ###Anaesthetic Considerations

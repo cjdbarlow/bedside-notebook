@@ -9,6 +9,7 @@ Provision of regional anaesthesia for a [caesarian section](/luscs.md):
 	* Alert neonate  
 	Early bonding and breastfeeding.
 	* Better postoperative analgesia and mobilisation
+	* Reduced chronic post-surgical pain
 * Requires a **block level from T4-S4** to light touch and ice
 * Can be performed with:
 	* Single-shot **spinal**  

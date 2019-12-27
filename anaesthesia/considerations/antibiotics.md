@@ -152,11 +152,12 @@ Patients with the highest risk of an adverse outcome from IE:
 * HOCM
 * Previous IE
 * Structural congenital heart disease  
-	* Including surgically corrected or palliated conditions
-	* Excluding:
+	* **Including** surgically corrected or palliated conditions
+	* **Excluding**:
 		* Isolated ASD
 		* Fully repaired VSD
 		* Fully repaired PDA
+* Indigenous Australians with rheumatic heart disease
 
 
 ###Administration

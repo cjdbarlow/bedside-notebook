@@ -1,0 +1,10 @@
+#Suprascapular Nerve Block
+
+Blockade of the suprascapular nerve can be used:
+* To augment an incomplete interscalene
+* In isolation for analgesia to the shoulder
+
+
+---
+
+##References

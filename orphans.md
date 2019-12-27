@@ -101,3 +101,52 @@ Easy epilepsy loading doses:
 
 PRBC transfusion incrementsS:
 * 4ml/kg increases Hb by ~10g/L
+
+
+##Midface Fractures
+* Airway control important
+* Blood major issue
+* Laryngoscopy usually straightforward
+* Then realign face
+* Usually interventional radiology in first instance
+* Bite blocks and splints
+* Then surgery in a few days when swelling has improved
+
+
+##Impact Brain Apnoea
+
+##Cryoprecipitate & Transfusion
+* 10-250mg fibrinogen in each bag  
+Median 150mg.
+* Give calcium every second unit of blood
+
+##PRBC
+Physiology:
+* pH 6.5
+* K ⩾25mmol/L
+
+
+##TEG/ROTEM
+* Point of care viscoelastic test for measurement of coagulation function
+
+##Cyclical Hyper-resuscitation
+
+
+##Visceral Organ Injury
+* Bradycardia/lack of tachycardiac due to vagal stimulation despite inadequate organ confusion
+
+
+##End-Points of Resuscitation
+Values indicating critical physiological derangement include:
+* Temperature ⩽35
+* pH ⩾7.2
+* Ionised Calcium ⩽1
+* Plt ⩾50
+* INR ⩾1.5
+* APTT
+* Fibrinogen level ⩽1
+
+
+
+##Blood Resuscitation
+Paeds: 10ml/kg of all blood product is a good guide
