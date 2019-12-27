@@ -48,6 +48,7 @@
 		* [Intubation](/management/airwway/intubation.md)
 		* [Extubation](/management/airway/extubation.md)
 		* [RSI](/management/airway/rsi.md)
+		* [FOI](/management/airway/foi.md)
 		* [Transtracheal Jet Ventilation](/management/airway/jet-ventilation.md)
 		* [CICO](/management/airway/cico.md)
 * [Breathing](/management/resp/olv.md#id)

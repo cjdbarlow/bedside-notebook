@@ -1,6 +1,7 @@
 #Airway Planning
 > * Oxygenation > Intubation
 > * Optimise before you compromise
+> * Awake intubation should be considered in the presence of predictors of difficult airway management
 
 The goal of airway management is to **maintain oxygenation and ventilation, without physiological compromise or complications**, ideally with a patent and protected airway.
 * This does not (necessarily) imply intubation  
