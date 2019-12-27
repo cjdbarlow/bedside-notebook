@@ -1,12 +1,187 @@
 #Fibreoptic Intubation
 
+Technique to secure a definitive airway in **a non-emergent** patient who has **expected difficult** laryngoscopy.
+
+
+Indications:
+* Difficult intubation
+	* Known
+	* Suspected
+	* Rescue
+* Difficult ventilation
+	* Facemask
+	* LMA
+* Cervical spine instability
+
+
+Contraindications:
+* Absolute
+	* Lack of skill, assistance, or equipment
+	* Near-total upper airway obstruction
+	* Patient refusal  
+	For AFOI.
+	* Uncooperative patient  
+	For AFOI.
+* Relative contraindications
+	* Inability to tolerate apnoea
+	* Contaminated airway
+
+
+##Equipment
+Key equipment:
+* Bronchoscope  
+Sized appropriately to tube.
+* ETT
+	* Sizing
+		* Big enough to:
+			* Allow adequate ventilation
+			* Fit the scope
+		* Small enough to:
+			* Fit through the nose (if nasal)
+			* Minimise the gap between tube and scope
+	* PVC tubes  
+		* Appropriate for ICU/long-term intubation
+		* Not appropriate for nasal intubation
+	* Reinforced
+		* Easier to negotiate
+		* Not recommended for long-term use
+		* May not have a Murphy eye
+	* iLMA ETT
+		* Soft tip
+		* Snug tip fits scope well
+		* Flexible allows it to negotiate corners
+		* Length may be an issue
+	* Parker Flex ETT
+		* Flexes and curves past protruding airway structures, smoothing passage
+		* Not as good as iLMA for railroading
+	* Nasal RAE
+		* Long enough even if using small tubes
+		* Pre-formed curve makes it harder to manipulate during railroading
+* Oral intubation aids
+	* Ovassapian  
+	Keeps scope in midline.
+		* Single size
+	* Berman  
+	Keeps scope in midline and flange allows adjustment of view.
+		* Multiple sizes
 
 
 
-Use of NPA:
-* Cut through NPA to split
+##Technique
+Positioning:
+* Two options
+	* Patient supine with operator in normal intubating position
+	* Patient sitting upright and facing the operator
+
+#Fibreoptic Intubation
+
+
+
+
+
+
+
+###Awake FOI
+>Many different recipes exist; many are equally good but all require:
+>* Explanation
+>* Sedation  
+>Supplemental oxygen should always be provided. Sedation is **not a substitute for topicalisation**.
+>* Topicalisation  
+>With:
+>	* Antisialagogue  
+>	Aids visualisation and improves local anaesthetic efficacy.
+>	* Vasoconstriction  
+>	Improves visualisation, opens up nasal passages, reduces bleeding, reduces systemic LA absorption.
+>	* Local anaesthetic  
+>	Improves tolerability. Sedation is **not required** if good topicalisation is performed.
+
+
+Explanation:
+* Consent
+* Detailed discussion
+* **Set expectations**
+
+
+Sedation:
+* Oxygenate  
+	* Nasal prongs  
+	If oral FOI.
+	* Nasal cannula  
+	Through opposite nostril if nasal FOI.
+	* Through suction port of bronchoscope  
+	10L/min helpful to oxygenate and clear blood and secretions from view.
+	* Through a paediatric ETT in opposite nostril  
+	Allows gas monitoring.
+* Sedation  
+Aim for **conscious sedation**. Consider:
+	* Midazolam and a small dose of fentanyl  
+	Familiar and reversible.
+	* Ketamine  
+	Minimises respiratory depression, but oral secretions may be problematic.
+	* Remifentanil TCI (Minto) Ce 1-3ng/mL
+* Risk of oversedation is high
+	* Second anaesthetist for sedation is desirable
+	* Use sedation cautiously and minimalistically
+	* Propofol is not recommended
+	* Avoid in the critically ill
+
+
+Topicalisation:
+* Antisialagogue  
+Glycopyrrolate 200-400μg.
+* Vasoconstriction  
+Cophenylcaine to nose.
+* Serial dilation of nostril  
+	* Use a selection of NPAs well lubricated with 2% viscous lignocaine gel
+	* Dilate every 3-5 minutes in 0.5 size increments up to intended tube size
+* Spray with 10% lignocaine via MAD over 5 minutes  
+Up to **9mg/kg**. Spray:
+	* Oropharynx
+	* Tonsillar pillars
+	* Base of tongue
+* Have 2% lignocaine available for top-up spray-as-you-go
+
+
+###Intubation Technique
+Nasal technique:
+* Pass scope through nose
+* Identify:
+	* Inferior turbinate  
+	Go under this.
+	* Middle turbinate
+	* Nasal septum
+* Patient may swallow at this point  
+This will close the nasopharynx; sniffing will re-open.
+
+
+If difficult, consider using an NPA to traverse nares:
+* Cut NPA along one side so it can be split open
+* Insert NPA
 * Pass bronchoscope through NPA  
-Remove NPA over bronchoscope.
+* Remove NPA over bronchoscope
+
+
+
+
+Oral technique:
+* Protect the scope
+	* Bite block
+	* Ovasappian
+	* Place ETT through teeth
+
+
+Common technique:
+* Identify the uvula and continue into the oropharynx
+* In the asleep patient, jaw thrust and pulling the tongue forward (have assistant use gauze) increases the space available  
+* (Remember to spray-as-you-go with 2% lignocaine from here)
+* Identify the larynx  
+Slight anterior flexion smooths passage through.
+* Identify the carina  
+Posterior flexion is required to negotiate the secondary curve of the trachea.
+* Advance tube over bronchoscope
+* Confirm position with two-point check  
+Capnography and visualisation.
+* Induce anaesthesia
 
 
 ###Emergency Fibreoptic
@@ -22,6 +197,15 @@ Double set-up with unskilled assistant:
 	* Pushes bronch
 * Assistant:
 	* Rotates and flexes bronchoscope
+
+
+---
+##References
+St Vincents FOI training manual
+
+
+
+
 
 
 

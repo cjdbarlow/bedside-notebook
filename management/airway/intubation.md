@@ -3,7 +3,7 @@
 > Successful intubation is also about avoiding physiological insults during the intubation process
 
 ##Indications
-Multiple indications for intubation exist:
+Multiple:
 * A:
 	* Airway protection
 	* Maintain airway patency
@@ -42,6 +42,44 @@ Optimising laryngoscopy:
 	* Use of **video laryngoscopes**
 * Suction
 * Consider adequacy of muscle relaxation
+
+
+
+###Awake Intubation and Laryngoscopy
+Awake Intubation:
+* Has a favourable safety profile
+	* Spontaneous ventilation maintained
+	* Airway protected until intubated
+* Unsuccessful in 1-2%  
+Rarely leads to major complications.
+
+
+Common indications for awake intubation:
+* Head and neck
+	* Tumour
+	* Surgery
+	* Radiotherapy
+* Limited mouth opening
+* Restricted neck movement
+* Airway compromise
+
+
+Preparation:
+* Operating theatre ideal
+* Oxygenation  
+Supplemental oxygen should:
+	* Always be applied
+	* High-flow used if available
+	* Commenced on arrival to OT
+
+
+
+Awake VL:
+* Similar success to AFOI
+* Choice of technique depends upon patient status
+	* Mouth opening
+	* Large tongue
+	* Fixed flexion deformity
 
 
 ---

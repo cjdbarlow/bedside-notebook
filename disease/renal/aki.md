@@ -6,7 +6,7 @@ This definition is useful as it correlates with mortality.
 	* Encompasses both ATN and ARF
 * Specific and non-specific kidney diseases  
 Multiple of which may coexist within one patient.
-* A clinical syndrome consisting of a**rapid decrease in GFR, with concomitant rise in creatinine and urea**  
+* A clinical syndrome consisting of a **rapid decrease in GFR, with concomitant rise in creatinine and urea**  
 The KDIGO classification defines (noting that not all AKI will fit into this criteria, and not all cases fitting the criteria are true AKI) as:  
 	* **Increase** in serum **creatinine >26.5 μmol/L** within 48 hours  
 	Creatinine and GFR are the best overall index of renal function.
@@ -27,9 +27,9 @@ The KDIGO classification stages AKI as follows:
 
 |Stage|Creatinine|Urine Output|
 |---|---|
-|1|1.5-1.9x baseline OR<br> >26.5 μmol/L increase in Cr|< 0.5ml/kg/hr for 6-12 hours|
-|2|2-2.9x baseline|< 0.5ml/kg/hr for > 12 hours|
-|3|3x baseline OR<br> Cr > 354μmol/L OR<br> Initiation of RRT OR<br> eGFR < 35ml/min/1.73m<sup>2</sup> in children|< 0.3ml/kg/hr for > 24 hours OR<br> Anuria > 12 hours|
+|1|1.5-1.9x baseline OR<br> ⩾26.5 μmol/L increase in Cr|⩽0.5ml/kg/hr for 6-12 hours|
+|2|2-2.9x baseline|⩽0.5ml/kg/hr for ⩾12 hours|
+|3|3x baseline OR<br> Cr ⩾354μmol/L OR<br> Initiation of RRT OR<br> eGFR ⩽35ml/min/1.73m<sup>2</sup> in children|⩽0.3ml/kg/hr for ⩾24 hours OR<br> Anuria > 12 hours|
 
 
 **Acute tubular necrosis**:

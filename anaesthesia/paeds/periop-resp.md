@@ -9,7 +9,7 @@ Perioperative respiratory complications:
 ##Risk Assessment	
 Patient factors:
 * Age  
-Risk decreases by ~11% per year of age.
+Increased in prematurity, and decreases by ~11% per year of age.
 * ↑ Airway reactivity
 	* Atopy
 		* **Asthma**  
@@ -35,7 +35,8 @@ Anaesthetic factors:
 	* Bronchospasm: Desflurane > Sevoflurane > Isoflurane
 	* Sevoflurane associated with more laryngospasm than propofol maintenance (but equivalent bronchospasm)
 Compared with sevoflurane.
-* Use of lignocaine
+* Use of lignocaine  
+Effect is disputed and may vary depend on method of administration.
 * Airway devices and depth of anaesthesia  
 Safest options to reduce laryngospasm include:
 	* Use of facemask  
@@ -45,6 +46,11 @@ Safest options to reduce laryngospasm include:
 	* Use of cuffed (compared with uncuffed) ETT  
 	Also reduces post-operative stridor. 
 
+
+Surgical factors:
+* Nature of surgery  
+ENT surgery more likely.
+* Airway intervention
 
 ##Management
 Factors favouring proceeding:
