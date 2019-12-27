@@ -1,6 +1,8 @@
 #Supraclavicular Block
 
-The **spinal** block **of the arm**.
+*The **spinal** block **of the arm**.*
+
+Blockade provides excellent analgesia to the arm, though may miss much of the shoulder. Phrenic nerve may still be anaesthetised via proximal spread.
 
 ##Indications
 * Analgesia for arm and hand surgery  

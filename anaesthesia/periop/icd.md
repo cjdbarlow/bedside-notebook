@@ -94,15 +94,37 @@ Usually disables the ICD.
 
 
 ###Pre-operative
+General measures:
 * Measure and correct electrolytes
 * Continue prescribed anti-arrhythmics
-* Consider re-programming device if:
-	* Significant pacemaker dependency exists
-	* Advanced functions need to be adjusted
-		* Sleep/rest mode  
-		Fall in HR and CO overnight, if late surgery is planned.
-		* Disable minute ventilation based rate-responsiveness
-	* Defibrillator function present
+
+
+Consider **re-programming ICD** if:
+* ICD and EMI is expected
+* Movement from shock could be hazardous
+
+
+Consider **re-programming pacemaker functions** if:
+* Significant pacemaker dependency
+* Augmentation of CO and DO<sub>2</sub> helpful
+* Rate-responsive modes will be triggered incorrectly:
+	* Respiratory rate
+	* Accelerometry
+* Advanced functions need to be adjusted
+	* Sleep/rest mode  
+	Fall in HR and CO overnight, if late surgery is planned.
+
+Consider a **magnet instead of re-programming if**:
+* Magnet response present  
+Exists in most devices planted after 2000.
+* Magnet response known  
+Magnet function can be disabled in some Boston Scientific and St. Jude devices.
+* Magnet effect is desirable
+* Patient is supine
+* Magnet can be accessed:
+	* Observed
+	* Removed in case of arrhythmia
+
 
 ###Intraoperative
 Anaesthesia:

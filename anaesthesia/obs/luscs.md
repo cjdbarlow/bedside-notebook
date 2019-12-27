@@ -45,10 +45,10 @@ Divided into 4 categories:
 
 
 ##Considerations{#considerations}
-* Indication for caesarian
-	* Expected duration
-	* Combined surgery  
-	e.g. With salpingectomy or hysterectomy.
+Indication:
+* Expected duration
+* Combined surgery  
+e.g. With salpingectomy or hysterectomy.
 
 
 * A
@@ -148,7 +148,7 @@ Under right hip to displace the gravid uterus off the IVC, and ensure venous ret
 	25-50% increments are reasonable.
 	* Phenylephrine is the preferred agent as it does not constrict the spiral arteries
 	* 100μg bolus can be used to treat hypotension
-* Ensure **oxytocin available**
+* Ensure **uterotonics available**
 * Prophylactic antibiotics  
 Should be given prior to skin incision.
 
@@ -168,8 +168,34 @@ Generally little muscle relaxation is required.
 * Peritoneal retraction
 * Uterine incision  
 If amnion is intact then amniotic fluid will enter abdominal cavity.
-* Delivery
+* Delivery  
+Provision of **routine uterotonics** after delivery.
 * Uterine closure and haemostasis
+
+
+###Uterotonics
+Uterotonics are routinely given to reduce PPH risk. General recommendations:
+* Oxytocin or carbetocin should be given immediately following delivery  
+Inadvertent administration prior to delivery may be catastrophic.
+* Second-line agents should be considered early
+* IM is a reasonable alternative to IV infusions in resource-limited settings
+* Dose requirements for **intrapartum** caesarian are increased compared to elective caesarian
+
+
+Dosing of first line agents:
+* Oxytocin 5 IU IV and then an infusion 10 IU/hr
+	* Recommendations for dosing vary widely between official bodies, from 1-10U IV, with infusions from at 2.5-15 IU/hr  
+	* Oxytocin should be given slowly to avoid adverse effects
+* Carbetocin 100μg slow IV
+
+
+Dosing of second line agents:
+* Ergometrine 200-500μg  
+	* Contraindicated in pre-eclampsia  
+	* Can give half IV, half IM
+* Carboprost 250μg IM  
+Contraindicated IV. Can be given every 15 minutes up to 8 doses.
+* Sulprostone 500μg; given at 100μg/hr.
 
 
 ###General Complications of CS
@@ -189,11 +215,12 @@ Most departments have a standard post-operative analgesia management protocol. C
 * Ondansetron 4-8mg IV/SL TDS
 * Metocloparmide 10mg IV/PO TDS
 
+
 * If intrathecal morphine given:
 	* Naloxone 40μg SC Q1H  
 	For itch.
-	* Naloxine 100μg IV Q5 min  
-	For RR < 8.
+	* Naloxone 100μg IV Q5 min  
+	For RR ⩽8.
 * If no intrathecal morphine given:
 	* Oxycontin 20mg SR BD (wean in 1-2/7)
 
@@ -204,3 +231,4 @@ Most departments have a standard post-operative analgesia management protocol. C
 3. Nixon H, Leffert L. [Anesthesia for cesarian delivery](https://www.uptodate.com/contents/anesthesia-for-cesarean-delivery). Post TW, ed. UpToDate. Waltham, MA: UpToDate Inc. http://www.uptodate.com
 4. Rollins M, Lucero J. [Overview of anesthetic considerations for Cesarean delivery](https://academic.oup.com/bmb/article/101/1/105/262350). Br Med Bull. 2012;101:105-25. doi: 10.1093/bmb/ldr050. Epub 2012 Jan 4.
 5. McGlennan A, Mustafa A. [General anaesthesia for Caesarean section](https://academic.oup.com/bjaed/article/9/5/148/439565). Continuing Education in Anaesthesia Critical Care & Pain, Volume 9, Issue 5, 1 October 2009, Pages 148–151.
+6. Heesen M, Carvalho B, Carvalho JCA, et al. International consensus statement on the use of uterotonic agents during caesarean section. Anaesthesia. 2019;74(10):1305-1319. doi:10.1111/anae.14757

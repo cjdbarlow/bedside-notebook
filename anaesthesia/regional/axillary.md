@@ -1,5 +1,15 @@
 #Axillary Plexus Block
 
+Blockade of the brachial plexus in the axilla. This block:
+* Avoids the risk of pneumothorax associated with more proximal blocks
+* Gives better coverage of the ulnar artery
+* Traditionally was associated with poor blockade of the musculocutaneous nerve when performed with a landmark technique, but this is essentially moot when performed with ultrasound
+* Allows individual targeting of the four major nerves of the brachial plexus
+	* Radial nerve
+	* Median nerve
+	* Ulnar nerve
+	* Musculocutaneous nerve
+
 ##Indications
 * Anaesthesia and analgesia for:
 	* Distal upper arm

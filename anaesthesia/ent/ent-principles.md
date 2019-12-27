@@ -94,7 +94,21 @@ Key decisions:
 * Apnoeic vs. Spontaneously ventilating
 * Surgical vs. non-surgical
 
+
+This gives an array of airway options:
+* Tube
+* Tubeless
+	* Apnoeic
+	* Spontaneously ventilating
+* Jet ventilation
+	* Supraglottic  
+	Low-frequency, manual jet ventilation.
+	* Tracheal
+* Awake tracheostomy
+
 ###Tube
+*MLT ideal for anterior cord lesions, as the tube will tend to sit in the posterior glottis.*
+
 Options include:
 * ETT
 * MLT
@@ -118,16 +132,21 @@ Spontaneous respiration:
 	
 
 ###Insufflation
+*Supraglottic ventilation usually required for posterior cord lesions.*
+
 Supraglottic:  
 * Jet kept in glottis and gas jetted through the glottis
-* Paralysed patient
+* Requires close communication with surgeon  
+Jet fired between laser pulses to prevent cord movement.
+* Requires paralysis
 * Pros:
 	* Cheap
 	* No tube in surgical field
 * Cons:
 	* No CO<sub>2</sub> monitoring
 	* Cannot use volatile
-	* Barotrauma
+	* Barotrauma  
+	Pneumothorax.
 	* Inadequate ventilation  
 	If aim is incorrect. Monitor:
 		* Sound
@@ -136,6 +155,7 @@ Supraglottic:
 	Can't ventilate whilst lasering.
 	* Malignancy  
 	Theoretical risk of spreading tumour cells.
+	* Risk of airborne contamination if **papilloma**; wear masks
 
 
 Intratracheal:
@@ -144,6 +164,7 @@ Intratracheal:
 * Cons:
 	* Expensive tube
 	* Tube in surgical field
+
 
 
 ###Tracheostomy
@@ -164,7 +185,6 @@ Awake tracheostomy in:
 * Failed extubation
 
 
-###High frequency ventilation
 
 
 ---

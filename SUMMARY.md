@@ -132,6 +132,7 @@
 		* [Scalp](/anaesthesia/regional/scalp.md)
 	* [Upper Limb](/anaesthesia/regional/interscalene.md#id)
 		* [Interscalene](/anaesthesia/regional/interscalene.md)
+		* [Suprascapular](/anaestehsia/regional/suprascapular.md)
 		* [Supraclavicular](/anaesthesia/regional/supraclav.md)
 		* [Infraclavicular](/anaesthesia/regional/infraclav.md)
 		* [Axillary](/anaesthesia/regional/axillary.md)

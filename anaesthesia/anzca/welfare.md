@@ -209,6 +209,24 @@ Redirection to another specialty.
 	* Poor recovery skills and no bonding with AA/NA, no sponsor
 	* Severe co-morbid psychiatric diagnosis
 
+
+###Resources
+In Australia, resources include:
+* Welfare of Anaesthetists Special Interest Group Documents  
+Covering:
+	* RD 1: Personal Health Strategies
+	* RD 3: Depression & Anxiety
+	* RD 5: Critical Incident Support
+	* RD 13: Impairment in a Colleague
+	* RD 16: Welfare Issues in the Anaesthetic Dept
+	* RD 20: Substance Abuse 
+	* RD 24: Mandatory Reporting
+	* * Doctors' Health Advisory Service
+* GP
+* Mentor/buddy system
+* Psychiatrist/staff counsellor
+* AHPRA
+
 ---
 
 ##References

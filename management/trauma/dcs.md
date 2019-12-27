@@ -1,61 +1,33 @@
-#Damage Control Surgery + Other Trauma Stuff that Needs to Be Categorised
-
-Damage control surgery is the:
-* Control of bleeding
-* Correction of hypothermia, coagulopathy, and acidosis
-* Prior to definitive surgery
+#Damage Control Surgery and Resuscitation
 
 
-This requires:
+Damage control surgery describes correcting or **temporising immediately life-threatening injuries until** a patient **regains** the **physiological reserve** to **tolerate** definitive **repair**. Effect damage control surgery requires:
 * Early patient selection
 * Abbreviated life-saving surgery
 	* Normalise physiology at the expensive of anatomy
 	* May result in early amputation of abbreviated surgery leading to neurovascular deficit, in order to save life
 
 
-
-##Midface Fractures
-* Airway control important
-* Blood major issue
-* Laryngoscopy usually straightforward
-* Then realign face
-* Usually interventional radiology in first instance
-* Bite blocks and splints
-* Then surgery in a few days when swelling has improved
+Damage control surgery can be divided into **five phases**:
+* Presurgery damage control
+* Damage control surgery
+* ICU resuscitation
+* Definitive repair
+* Reconstructive surgery
 
 
-##Impact Brain Apnoea
-
-##Cryoprecipitate & Transfusion
-* 10-250mg fibrinogen in each bag  
-Median 150mg.
-* Give calcium every second unit of blood
-
-##PRBC
-Physiology:
-* pH 6.5
-* K ⩾25mmol/L
 
 
-##TEG/ROTEM
-* Point of care viscoelastic test for measurement of coagulation function
-
-##Cyclical Hyper-resuscitation
-
-
-##Visceral Organ Injury
-* Bradycardia/lack of tachycardiac due to vagal stimulation despite inadequate organ confusion
+* Control of bleeding
+* Correction of hypothermia, coagulopathy, and acidosis
+* Prior to definitive surgery
 
 
-##End-Points of Resuscitation
-Values indicating critical physiological derangement include:
-* Temperature ⩽35
-* pH ⩾7.2
-* Ionised Calcium ⩽1
-* Plt ⩾50
-* INR ⩾1.5
-* APTT
-* Fibrinogen level ⩽1
+
+
+
+
+
 
 
 ##DCS Goals
@@ -85,9 +57,6 @@ Goals:
 	* Aim MAP 85-90mmHg
 
 
-
-##Blood Resuscitation
-Paeds: 10ml/kg of all blood product is a good guide
 
 ---
 
