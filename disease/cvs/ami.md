@@ -120,10 +120,10 @@ ECG:
 
 STEMI:
 * ST segment elevation in >2 contiguous leads of:
- 	* >2.5 mm ST elevation in leads V2-3 in men under 40 years
- 	* >2.0 mm ST elevation in leads V2-3 in men over 40 years, or
-	* >1.5 mm ST elevation in V2-3 in women, or
-	* >1.0 mm in other leads
+ 	* ⩾2.5 mm ST elevation in leads V2-3 in men under 40 years
+ 	* ⩾2.0 mm ST elevation in leads V2-3 in men over 40 years, or
+	* ⩾1.5 mm ST elevation in V2-3 in women, or
+	* ⩾1.0 mm in other leads
 * New onset LBBB
 * Sgarbossa criteria positive in old LBBB
 
@@ -131,17 +131,12 @@ STEMI:
 
 
 ##Management
-Initial:
-
-
-
-
 STEMI:
 * For patients with STEMI presenting within **12 hours** of symptom onset, and in absence of conditions suggesting poor survival, reperfusion is recommended
 * Primary PCI is preferred in STEMI if it can be performed within **90 minutes**
-* Fibronolytic is preferred otherwise, in absence of contraindications
-* Patients treated with fibrinolytics in a non-PCI capable hospital should be transferred within 24 hours
-* Rescue angioplasty should be performed on patients with <50% ST recovery after fibrinolysis at 60-90 minutes
+	* Fibronolytic is preferred otherwise, in absence of contraindications
+		* Patients treated with fibrinolytics in a non-PCI capable hospital should be transferred within 24 hours
+		* Rescue angioplasty should be performed on patients with <50% ST recovery after fibrinolysis at 60-90 minutes
 
 
 NSTEACS:
@@ -171,7 +166,7 @@ Target SpO<sub>2</sub> >93%, and **withhold oxygen** if saturations are above th
 * GTN  
 Indicated if ongoing pain and no contraindications (e.g. hypotension)
 	* Give: 0.3-0.6mg SL tablet or spray Q5Min
-	* Consider IV if unrelieved
+	* Consider IV if pain unrelieved by SL GTN
 * Analgesia  
 Give fentanyl or morphine if ongoing pain.
 * Aspirin 300mg  
@@ -188,7 +183,7 @@ For patients with high-risk clinical or angiographic features.
 For intermediate-to-high risk patients.
 
 
-Discharge pharmacotherapy:
+Discharge therapy:
 * Aspirin  
 Continued indefinitely.
 	* Clopidogrel used as alternative
@@ -214,7 +209,8 @@ For all patients with:
 	* Heart failure
 	* LV dysfunction
 	* DM
-* Cardiac rehabilitation
+* Cardiac rehabilitation  
+Strongly recommended for all patients hospitalised for ACS.
 
 
 
@@ -226,3 +222,4 @@ For all patients with:
 ---
 ##References
 1. McCarthy CP, Vaduganathan M, Januzzi JL Jr. Type 2 Myocardial Infarction-Diagnosis, Prognosis, and Treatment. JAMA. 2018 Aug 7;320(5):433-434.
+1. Chew DP, Scott IA, Cullen L, et al. National Heart Foundation of Australia & Cardiac Society of Australia and New Zealand: Australian Clinical Guidelines for the Management of Acute Coronary Syndromes 2016. Heart, Lung and Circulation. 2016;25(9):895-951. doi:10.1016/j.hlc.2016.06.789

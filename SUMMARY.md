@@ -131,6 +131,7 @@
 		* [Peribulbar](/anaesthesia/regional/peribulbar.md)
 		* [Sub-Tenon's](/anaesthesia/regional/subtenon.md)
 		* [Scalp](/anaesthesia/regional/scalp.md)
+		* [Cervical Plexus](/anaesthesia/regional/cervical-plexus.md)
 	* [Upper Limb](/anaesthesia/regional/interscalene.md#id)
 		* [Interscalene](/anaesthesia/regional/interscalene.md)
 		* [Supraclavicular](/anaesthesia/regional/supraclav.md)

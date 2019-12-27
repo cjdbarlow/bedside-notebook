@@ -1,8 +1,9 @@
 #Scalp Block
 
 ##Indications
-* Crainitomy  
-Notable awake crainiotomy.
+* Craniotomy  
+Notable awake craniotomy.
+* Repair of scalp lacerations
 
 
 ##Contraindications
