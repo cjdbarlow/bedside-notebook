@@ -29,7 +29,7 @@ Relative:
 
 
 ##Contraindications
-*This covers contraindications specific to spinal anesthesia. General contraindications to neuraxial techniques are covered under [principles of neuraxial anaesthesia](/anaesthesia/regional/principles/principles-neuraxial.md).
+*This covers contraindications specific to spinal anesthesia. General contraindications to neuraxial techniques are covered under [principles of neuraxial anaesthesia](/anaesthesia/regional/principles/principles-neuraxial.md).*
 
 * Operative duration  
 	Surgery expected to last >2 hours will usually require a different technique.
@@ -80,7 +80,6 @@ Classically bupivacaine is used:
 	* Can be either:
 		* Hyperbaric/heavy bupivacaine  
 		Mixed with 8% dextrose. Heavy bupivacaine:
-
 			* Dosing of heavy bupivacaine
 				* Adults: 2-4ml (10-20mg)
 				* <5kg: 0.4-0.5mg/kg
@@ -113,7 +112,7 @@ Opioid may be added to prolong the duration of analgesia and reduce the dose of 
 	Lasts 8-24 hours.
 
 ##Induction
-* Performance of lumbar puncture is covered [here](/procedures/regional/lp.md).*
+*Performance of lumbar puncture is covered [here](/procedures/regional/lp.md).*
 
 ###Assessing Block
 * By temperature  
