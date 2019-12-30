@@ -1,21 +1,12 @@
 #Routine Perioperative Investigations
 
+*Perioperative investigations for [thoracic surgery](/anaesthesia/thoracic/thoracic-principles.md), [cardiac](/anaesthesia/periop/periop-cardiac.md) risk factors, and [diabetes](/disease/endo/dm.md#anaes) are covered elsewhere.*
+
 Considerations for use of perioperative investigations:
 * Existing medication
 * Pregnancy testing
 	* Consider for all women of childbearing potential if there is any possibility of pregnancy
 * Extent of surgery
-
-
-##Testing in Specific Conditions
-Consider:
-* Heart murmur
-	* Resting ECG
-	* Resting TTE if murmur and any cardiac symptom  
-	e.g. Breathlessness, presyncope, syncope, chest pain.
-* Diabetes
-	* HbA1c  
-	In diabetics without an HbA1c performed in the last **3 months**.
 
 
 ##Testing in Specific Surgical Populations

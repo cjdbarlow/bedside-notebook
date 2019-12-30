@@ -121,6 +121,12 @@ Post-operative care:
 	More likely to have severe airway obstruction postoperatively.
 	* Severe OSA
 	* Other comorbidities
+* Analgesia
+	* Paracetamol QID
+	* Celecoxib BD for 5/7
+	* PRN opioid whilst in hospital  
+	Not on discharge.
+
 
 ---
 ##References

@@ -1,11 +1,34 @@
 #Perioperative Cardiac Evaluation and Management
 
+Extent of investigation and management plan depends on urgency of the surgery. Key timing thresholds:
+* Emergency  
+Requires OT within 6 hours.
+	* Little time for evaluation
+* Urgent  
+Requires OT within 6-24 hours.
+	* Time for limited evaluation
+* Time-sensitive  
+Delay of >1-6 weeks will negatively affect outcome.
+	e.g. Cancer
+* Elective  
+Delay up to 1 year will not adversely affect outcome.
+
+
 ##Preoperative Management
 Involves:
 * Risk Stratification
+* Investigations
+* Medication management/adjustment  
+Largely covered elsewhere, see:
+	* [Perioperative anticoagulation](/anaesthesia/periop/periop-anticoag.md)
+	* [Perioperative antiplatelet](/anaesthesia/periop/periop-antiplatelet.md)
+	* [Perioperative cardiac medication management](/anaesthesia/periop-med.md#card)
 
-##Risk Stratification
-> Patients ⩾45 years of age, or 18-44 with known significant cardiac disease are most likely to benefit from thorough pre-operative risk assessment
+
+###Risk Stratification
+> * Patients ⩾45 years of age, or 18-44 with known significant cardiac disease are most likely to benefit from thorough pre-operative risk assessment
+> * Patients with a perioperative MACE rate of **<1%** are considered **low risk**  
+> Do not require perioperative evaluation.
 
 Pre-operatively:
 * All patients should have cardiac risk assessed
@@ -40,7 +63,8 @@ Useful thresholds:
 				* 1 risk factor: 1.3%
 				* 2 risk factors: 3.6%
 				* ⩾3 risk factors: 9.1%
-	* National Surgical Quality Improvement Program (NSQIP)
+	* National Surgical Quality Improvement Program (NSQIP)  
+	RCRI preferred.
 * Dividing patients into:
 	* Low risk  
 	⩽1% chance of perioperative MI.
@@ -53,56 +77,134 @@ Useful thresholds:
 		* Monitoring troponin should be considered perioperatively   
 		Pre-operatively, as well as 24 and 72 hours post-operatively.
 
-Investigations:
+
+###Investigations:
 * NT-proBNP/BNP  
 	* Independently associated with death and nonfatal MI at 30 days after non-cardiac surgery  
 	* BNP >92mg/L or NT-proBNP >300ng/L  
 	22% vs 4.9%.
 
 
+ECG:
+* Preoperative resting ECG reasonable for patients undergoing other than low-risk surgery:
+	* CAD
+	* Murmur
+	* Arrhythmia
+	* Peripheral arterial disease
+	* Cerebrovascular disease
+	* Structural heart disease
+* Should be performed within 3 months for stable patients
 
-###CAD/IHD
-*Management of perioperative stents is covered under [antiplatelets in coronary artery stents](/anaesthesia/periop/periop-antiplatelet.md#pci).*
+
+Echocardiography:
+> * LVEF <30% is an independent contributor to perioperative morbidity
+
+* Routine assessment is *not recommended*
+* *Reasonable* in dyspnoea of unknown origin
+* *Reasonable* in known cardiac failure and:
+	* Worsening dyspnoea or change in clinical status
+	* *Consider* if no assessment of LV function in previous 12 months
+* New murmur and any cardiac symptom  
+e.g. Breathlessness, presyncope, syncope, chest pain.
+* Valvular disease  
+Moderate or greater stenosis or regurgitation and:
+	* Significant change in clinical status or exam findings
+	* No echo within the last 1 year
 
 
-Previous MI:
-* ⩾60 days should elapse after MI before non-cardiac surgery performed, in absence of coronary intervention
-* MI within **6 months** is an independent risk factor for perioperative stroke  
-8x increase in mortality.
+Stress testing:
+* *Reasonable* to perform pharmacological stress testing in patients at elevated risk and who have <4 METS functional capacity
+* Routine noninvasive stress testing is not useful
 
 
 Angiography:
 * Routine perioperative angiography is not recommended
-* Revascularisation only recommended if indicated by other existing guidelines
+
+
+Exercise testing:
+* Patients with >10 METS do not require further exercise testing
+* *Reasonable* not to perform exercise testing in patients with >4 METS
+* Exercising testing is *reasonable* if exercise capacity is unknown and it would change management
+
+
+
+
+##Management of Specific Conditions
+Cardiac diseases influencing perioperative management include:
+* CAD/IHD
+* Cardiac failure
+* Valvular disease
+* Arrhythmias
+
+
+###CAD/IHD
+*Management of antiplatelet agents in stents is covered under [antiplatelets in coronary artery stents](/anaesthesia/periop/periop-antiplatelet.md#pci).*
+
+
+Previous MI:
+* ⩾60 days should elapse after MI before non-cardiac surgery performed, in absence of coronary intervention, in order to reduce MACE risk
+* MI within **6 months** is an independent risk factor for perioperative stroke  
+8x increase in mortality.
+
+
+Revascularisation:
+* Revascularisation is only recommended if indicated by other existing guidelines
+	* CABGs should be performed before elective surgery if otherwise indicated
+	* PCI should be limited to:
+		* Left main disease not amenable to CABG
+		* STEMI or NSTEACS  
+		BMS recommended in urgent or time-sensitive surgery.
+	* Timing relating to operation:
+		* Elective should be delayed:
+			* 14 days after angioplasty
+			* 30 days after BMS implantation
+			* On year after DES  
+			Consider after 6 months.
 * No difference in long-term outcome with revascularisation unless:
 	* Left main disease
 	* LVEF <20%
 	* Severe AS
 
 
-
-###Heart Failure
-Perioperative evaluation of LV function is reasonable in patients with:
-* Dyspnoea of unknown origin
-* Worsening dyspnoea or change in clinical status
-* No assessment of LV function in previous 12 months
-
-
-Risk prediction:
-* LVEF <30% is an independent contributor to perioperative morbidity
+###Cardiac Failure
+Heart failure is:
+* Prevalent and increasing
+* A significant perioperative risk factor
+	* Active heart failure greater risk than CAD for perioperative morbidity and mortality
+	* Outcomes improved for patients with stable symptoms/controlled failure
 
 
-##Arrhythmia
-General principles:
-* AF  
-Adjust anticoagulation as required.
-* Ventricular ectopics don't require intervention unless:
+###Valvular Heart Disease
+* Valvular intervention is recommended for patients who meet criteria prior to elective surgery
+* Elevated risk elective noncardiac surgery is reasonable to perform with appropriate intraoperative and postoperative haemodynamic monitoring in patients with :
+	* Asymptomatic severe AS
+	* Asymptomatic severe MS if not favourable for percutaneous commissurotomy
+	* Asymptomatic severe MR
+	* Asymptomatic severe AR with a normal LVEF
+
+
+##Arrhythmias
+*Management of [anticoagulation for AF](/anaesthesia/periop/periop-anticoag.md) is covered elsewhere.*
+
+
+Heart Block:
+* High-grade cardiac conduction abnormalities may require temporary or permanent transvenous pacing
+* Interventricular conduction delay without high-grade conduction block or symptoms does not require evaluation, but should be taken into account when considering beta blockade
+
+
+Ventricular Arrhythmias:
+* Asymptomatic ventricular arrhythmias are not associated with an increase in cardiac complications  
+Don't require evaluation unless:
 	* Associated with structural abnormality
 	* Symptomatic
 * Frequent ventricular ectopics are a risk factor for arrhythmia but not MI or death
 * VT should be evaluated by a cardiologist
 	* LV function
 	* CAD
+* Intraoperative VT or NSVT should prompt cardiology referral
+
+
+
 
 
 ##Post-Operative
@@ -139,3 +241,4 @@ Management of myocardial injury without MI:
 ##References
 1. Duceppe E, Parlow J, MacDonald P, Lyons K, McMullen M, Srinathan S, et al. Canadian Cardiovascular Society Guidelines on Perioperative Cardiac Risk Assessment and Management for Patients Who Undergo Noncardiac Surgery. Canadian Journal of Cardiology. 2017 Jan 1;33(1):17–32. 
 2. Wijeysundera DN, Pearse RM, Shulman MA, Abbott TEF, Torres E, Ambosta A, et al. Assessment of functional capacity before major non-cardiac surgery: an international, prospective cohort study. The Lancet. 2018 Jun;391(10140):2631–40. 
+3. Fleisher LA, Fleischmann KE, Auerbach AD, et al. 2014 ACC/AHA Guideline on Perioperative Cardiovascular Evaluation and Management of Patients Undergoing Noncardiac Surgery. Circulation. December 2014. https://www.ahajournals.org/doi/abs/10.1161/CIR.0000000000000106. Accessed December 29, 2019.

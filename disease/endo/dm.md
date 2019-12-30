@@ -17,7 +17,7 @@ Up to 30% of inpatients.
 ##Investigations
 ##Management
 ###Anaesthetic Considerations{#anaes}
-Diabetes is included in multiple scoring systems, and is an obvious risk factor for perioperative morbidity and mortlity. Key outcomes include:
+Diabetes is included in multiple scoring systems, and is an obvious risk factor for perioperative morbidity and mortality. Key outcomes include:
 * Mortality  
 50% increase.
 * Respiratory complications  
@@ -60,7 +60,7 @@ Key Considerations:
 		* Macrovascular
 	* **Baseline** glucose **control**  
 	Average, range, frequency of monitoring, and HbA1c.
-		* An **HbA1c should be performed** if not done in the last 3 months  
+		* An **HbA1c should be performed** if not done in the last **3 months**  
 		Elevated HbA1c is predictive of postoperative adverse events.
 			* Recommended to cancel elective surgery if HbA1c >8.5%  
 			However, no evidence suggesting that reducing it improves outcome
@@ -99,21 +99,31 @@ Management of insulin depends on:
 
 ###Perioperative Hypoglycaemia Management
 > * Check BSL Q2H whilst fasting
+> * Target BSL is ~7.5mmol/L, unless this is below the patients 'hypo' point
+
 
 **If BSL** is:
 * ⩽4 mmol/L  
-Notify anaesthetist and recheck BSL every 15 minutes
+	* Give glucose  
+	IV preferable to maintain fasting status.
+	* Notify anaesthetist
+	* Recheck BSL every 15 minutes
 * ⩽6 mmol/L and the patient is fasting  
 Treat:
-	* 50-100mL of 10-20% dextrose
-	* 1mg IM glucagon
-	* Buccal sugar
-	* 150-200mL juice
-	* 90-120mL lucozade
+	* Give glucose
 * ≥12 mmol/L and the patient is fasting  
 	* IDDM  
 	Give rapid acting insulin as per [sliding scales](#slide).
 
+
+Glucose options:
+* Parenteral
+	* 50-100mL of 10-20% dextrose
+	* 1mg IM glucagon
+* Enteral
+	* Buccal sugar
+	* 150-200mL juice
+	* 90-120mL lucozade
 
 ###Perioperative Management of Continuous Subcutaneous Insulin Infusion Pumps
 * Target a BSL of 6-10mmol/L  

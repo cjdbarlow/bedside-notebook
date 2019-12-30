@@ -7,12 +7,22 @@ Various definitions which include:
 
 ##Epidemiology and Risk Factors
 Predicting massive transfusion:
-* Assessment of BLodo Consumption (ABC Score)
+* Assessment of Blood Consumption (ABC Score)
 ⩾3 factors suggests 85% likelihood of MTP.
 	* HR ⩾120
 	* SBP ⩽90
 	* Penetrating injury
 	* Positive FAST scan
+* Injury patterns
+	* Uncontrolled:
+		* Truncal bleeding
+		* Junctional haemorrhage
+		* Large soft tissue bleeding
+	* Amputations
+	* Mangled extremities
+	* Clinical coagulopathy
+	* Severe hypothermia
+
 
 ##Pathophysiology
 ###Aetiology

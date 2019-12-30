@@ -80,7 +80,7 @@ Insertion of a DLT is more difficult than SLT.
 
 
 The "3-legged" stool of respiratory assessment evaluates a patients ability to **tolerate** removal of an **anatomically resectable** lung cancer. Many approaches have been described; institutional practice will vary depending on the availability of more advanced investigations (e.g. CPET) testing. This is one approach:
-* **Spirometry**  
+* Perform **Spirometry**  
 FEV<sub>1</sub> and DLCO are:
 	* ⩾60% of predicted  
 	Proceed to surgery.
@@ -89,20 +89,20 @@ FEV<sub>1</sub> and DLCO are:
 		FEV<sub>1</sub> and DLCO are:
 			* ⩾40% of predicted  
 			Proceed to surgery.
-			* <40% of predicted
-				* Perform **CPET testing**  
-					* Not always available, and not always performed
-					* As measured by **CPET**, or surrogate
-					* VO<sub>2</sub> max >15mL/kg/min  
-					Most useful predictor of outcome. Indicated by:
-						* Stair climb ⩾2 flights
-						* 6 minute walk test ⩾610m
-						* Exercise SpO<sub>2</sub> <4%)
-					* VO<sub>2</sub> max
-						* ⩾10mL/kg/min  
-						Proceed to surgery.
-						* <10mL/kg/min  
-						Discuss alternatives.
+			* <40% of predicted  
+			Perform **CPET testing**  
+				* Not always available, and not always performed
+				* As measured by **CPET**, or surrogate
+				* VO<sub>2</sub> max >15mL/kg/min  
+				Most useful predictor of outcome. Indicated by:
+					* Stair climb ⩾2 flights
+					* 6 minute walk test ⩾610m
+					* Exercise SpO<sub>2</sub> <4%)
+				* VO<sub>2</sub> max
+					* ⩾10mL/kg/min  
+					Proceed to surgery.
+					* <10mL/kg/min  
+					Discuss alternatives.
 
 
 

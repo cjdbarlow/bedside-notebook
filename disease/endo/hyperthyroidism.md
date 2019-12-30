@@ -1,6 +1,14 @@
 #Hyperthyroidism
 
-
+Disease of excess thyroid hormone, which leads to a constellation of symptoms. Hyperthyroidism may be classified into:
+* Primary  
+Excess secretion of hormone from thyroid gland, further divided into:
+	* Overt  
+	Elevated thyroid hormone with suppressed TSH.
+	* Subclinical  
+	Normal thyroid hormone levels with suppressed TSH.
+* Secondary  
+Excessive TSH production from pituitary gland.
 
 ##Epidemiology and Risk Factors
 Risk factors:
@@ -67,10 +75,13 @@ Systemic effects:
 ###Thyroid Storm
 Exacerbation of hyperthyroidism that:
 * May be life threatening
-* Occurs durring periods of stress
+* Occurs during periods of stress
+* May occur up to 18 hours post-operatively
 * Manifests with:
 	* Tachycardia
+	* Tachyarrhythmia
 	* ↑ Pulse pressure
+	* Cardiac failure/cardiovascular collapse
 	* Altered mental state  
 	Anxiety, psychosis, coma.
 	* Profound hyperthermia  
@@ -89,10 +100,17 @@ Exacerbation of hyperthyroidism that:
 		Prevents thyroid hormone synthesis.
 		* Sodium iodide 1-2.5G IV  
 		Prevents thyroid hormone release. Needs to be given at least **one hour after** propylthiouracil to prevent subsequent iodine escape.
-		* Hydrocortisone 100mg IV Q8H
-		* Beta blockade
-			* Propranolol 20-120mg PO
+		* Hydrocortisone 100mg IV Q8H  
+		Reduces T4-T3 conversion.
+		* β-blockade  
+		Caution if cardiac failure.
+			* Propranolol 
+			In addition to β effects, also reduces T3 levels.
+				* 20-120mg PO  
+				* 0.5-1mg IV over 10 minutes, then 1-2mg over 10 minutes Q4H  
+				Requires haemodynamic monitoring.
 			* Esmolol 50-300μg/kg/min
+
 
 ##Prognosis
 ##Key Studies

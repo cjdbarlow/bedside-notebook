@@ -19,7 +19,7 @@ Theophylline:
 Multiple potential pharmacokinetic interactions.
 
 
-##Cardiac Medications
+##Cardiac Medications{#card}
 Alpha 2 agonists:
 * Continue if already taking  
 Give parentally if will be NBM.
@@ -35,14 +35,11 @@ Beta-blockade:
 * Continue if already taking
 * **Consider starting**:
 	* If indicated and therapy can be initiated 2-4 weeks prior to surgery
-	* In patients with known ischaemic heart disease or myocardial risk factors
-	* In patients with for high risk surgery and multiple risk factors  
-	Including:
-		* DM
-		* Heart failure
-		* CAD
-		* CKD
-		* CVA
+	* In patients with known ischaemic heart disease or myocardial risk factors  
+	* In patients with RCRI ⩾3
+* If initiating, it is ideal to begin long enough in advance to evaluate safety and tolerability  
+	* At least 2-7 days
+	* ⩽1 day harmful
 
 
 Calcium Channel Blockers:
@@ -56,8 +53,9 @@ May interfere with oral absorption of other medications, and contribute to myopa
 
 Statins:
 * Should be continued
-* Consider initiation in patients where statin therapy indicated
-	* Vascular surgery
+* Consider initiation in patients:
+	* Undergoing vascular surgery
+	* Who have an indication and are undergoing elevated risk procedures
 
 Diuretics:
 * Depends on indication:
