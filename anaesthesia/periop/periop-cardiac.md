@@ -41,7 +41,7 @@ Useful thresholds:
 	* Do heavy housework or two flights of stairs  
 	4-10 METS.
 	* Strenuous sports  
-	>10 METS.
+	⩾10 METS.
 * Can be performed using either:
 	* **Revised Cardiac Risk Index** (RCRI)
 		* Evaluates six major risk factors:
@@ -70,19 +70,18 @@ Useful thresholds:
 	⩽1% chance of perioperative MI.
 	* High risk
 		* Consider:
-			* Echocardiography  
-			Presence of significant LV systolic dysfunction or severe valvular disease is associated with a worse outcome.
-			* Stress testing
+			* Investigations  
+			Echocardiography, stress testing.
 			* Cardiology consultation
 		* Monitoring troponin should be considered perioperatively   
 		Pre-operatively, as well as 24 and 72 hours post-operatively.
 
 
 ###Investigations:
-* NT-proBNP/BNP  
-	* Independently associated with death and nonfatal MI at 30 days after non-cardiac surgery  
-	* BNP >92mg/L or NT-proBNP >300ng/L  
-	22% vs 4.9%.
+NT-proBNP/BNP:  
+* Independently associated with death and nonfatal MI at 30 days after non-cardiac surgery  
+* BNP >92mg/L or NT-proBNP >300ng/L  
+22% vs 4.9%.
 
 
 ECG:
@@ -98,8 +97,9 @@ ECG:
 
 Echocardiography:
 > * LVEF <30% is an independent contributor to perioperative morbidity
+> * Routine assessment is *not recommended*
 
-* Routine assessment is *not recommended*
+* Consider if RCRI ⩾1
 * *Reasonable* in dyspnoea of unknown origin
 * *Reasonable* in known cardiac failure and:
 	* Worsening dyspnoea or change in clinical status
@@ -113,8 +113,9 @@ Moderate or greater stenosis or regurgitation and:
 
 
 Stress testing:
-* *Reasonable* to perform pharmacological stress testing in patients at elevated risk and who have <4 METS functional capacity
 * Routine noninvasive stress testing is not useful
+* Consider if RCRI ⩾1
+	* *Reasonable* to perform pharmacological stress testing in patients at elevated risk and who have <4 METS functional capacity
 
 
 Angiography:
@@ -157,9 +158,8 @@ Revascularisation:
 	* Timing relating to operation:
 		* Elective should be delayed:
 			* 14 days after angioplasty
-			* 30 days after BMS implantation
-			* On year after DES  
-			Consider after 6 months.
+			* Variable duration after stenting due to requirements for DAPT  
+			See [antiplatelets for coronary artery stents](/anaesthesia/periop/periop-antiplatelet.md#pci).
 * No difference in long-term outcome with revascularisation unless:
 	* Left main disease
 	* LVEF <20%

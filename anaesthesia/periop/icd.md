@@ -101,7 +101,9 @@ General measures:
 
 Consider **re-programming ICD** if:
 * ICD and EMI is expected
-* Movement from shock could be hazardous
+* Movement from shock could be hazardous  
+Patients who have defibrillation or antitachycardia functions inactivated should be on continuous monitoring with external defibrillation equipment readily available, and have their therapy reactivated prior to discharge.
+
 
 
 Consider **re-programming pacemaker functions** if:
@@ -113,6 +115,7 @@ Consider **re-programming pacemaker functions** if:
 * Advanced functions need to be adjusted
 	* Sleep/rest mode  
 	Fall in HR and CO overnight, if late surgery is planned.
+
 
 Consider a **magnet instead of re-programming if**:
 * Magnet response present  

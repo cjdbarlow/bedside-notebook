@@ -19,7 +19,7 @@ Usually appropriate for day-surgery provided oral intake is tolerated post-opera
 
 ##Considerations
 * Indication for surgery  
-Primary pathology may affect choice of predmedication, opioids, and choice of discharge destination.
+Primary pathology may affect choice of premedication, opioids, and choice of discharge destination.
 * A
 	* Risk of difficult mask ventilation and intubation
 	* Discussion with surgeon about preferred airway
@@ -69,10 +69,21 @@ Smooth haemodynamics and emergence.
 > Goal is to provide adequate analgesia and avoid post-operative apnoeas
 
 A recipe:
-* Dexamethasone 0.2mg/kg
+* Dexamethasone 0.2mg/kg  
+Reduces pain, bleeding, PONV, and time to first oral intake.
 * Paracetamol 15mg/kg
 * Parecoxib 1mg/kg
-* Fentanyl 1-2mcg/kg
+* Opioid
+	* Children  
+	Fentanyl 1-2mcg/kg.
+	* Adults  
+	Have more pain, and pain will depend on surgical technique.
+		* Cold steel  
+		Less pain; fentanyl or smaller doses of morphine.
+		* Bipolar diathermy  
+		Less pain.
+		* Unipolar diathermy  
+		Significant pain. Morphine or oxycodone, often >10mg.
 
 
 ###Surgical Stages
@@ -102,6 +113,7 @@ Under vision.
 	Leave until fully awake.
 * Avoid coughing
 
+
 Risk factors for post-operative airway events:
 * Age < 3 years
 * Severe OSA
@@ -114,6 +126,7 @@ Risk factors for post-operative airway events:
 	* Desaturation
 	* Use of CPAP
 	* Delayed emergence
+
 
 Post-operative care:
 * Day stay unless:  

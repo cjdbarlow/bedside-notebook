@@ -27,7 +27,8 @@ Key principles:
 * Drug should be administered within 60 minutes prior to skin incision, except for vancomycin and fluoroquinolones
 * Single dose is preferred  
 Repeat doses are indicated if:
-	* Duration of procedure compared to half-life of antibiotic
+	* Duration of procedure compared to half-life of antibiotic  
+	Usually re-dose at **two half-lives**.
 	* Significant **blood loss**  
 	**⩾1.5L**, independent of antibiotic used.  
 	Dependent on V<sub>D</sub>; low V<sub>D</sub> indicates greater amount of antibiotic lost in blood.
@@ -81,7 +82,7 @@ Including cardiac, vascular, neurosurgery.
 
 
 Special circumstances:
-* *Severe* immediate or delayed penicillin hypersensitivity 
+* *Severe* immediate or delayed penicillin hypersensitivity  
 Substitution depends on concern about gram negative infection; cefazolin has better gram negative coverage than clindamycin and so this is not a like-for-like substitution.
 	* If minimal concern  
 	e.g. Head and neck.
@@ -107,6 +108,10 @@ For high risk patients:
 
 
 ###Dosing and Timing
+> * Patients on regular antibiotics should be re-dosed perioperatively as per the above re-dosing interval
+> 	* If in doubt and the drug has a wide therapeutic range (e.g. β-lactams), it is likely safe to re-dose
+> * Skin incision can occur prior to completion of antibiotic infusion, but infusion should be running for at least 15 minutes prior to incision to allow adequate tissue concentration
+
 |Drug|Adult Dose|Paediatric Dose|Time prior to skin incision|Re-dosing Interval (with normal renal function)|Re-dosing Dose|
 |--|--|
 |Cephazolin|2g, 3g if >120kg|50mg/kg|Ideally 15 minutes, but 1-2 minutes may be equivalent|4 hours|Full|
@@ -118,12 +123,10 @@ For high risk patients:
 
 
 Note that:
-* Patients on regular antibiotics should be re-dosed perioperatively as per the above re-dosing interval
-* If in doubt and the drug has a wide therapeutic range (e.g. β-lactams), it is likely safe to re-dose
+
 * Gentamycin dosing should be based upon the expected duration of prophylaxis
 	* 2.5mg/kg when <6 hours
 	* 5mg/kg when up to 24 hours
-* Skin incision can occur prior to completion of antibiotic infusion, but infusion should be running for at least 15 minutes prior to incision to allow adequate tissue concentration
 
 
 ###Adjuncts

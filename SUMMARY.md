@@ -150,7 +150,6 @@
 		* [Ankle](/anaesthesia/regional/ankle.md)
 * [Pain](/anaesthesia/pain/pain-overview.md)
 	* [Post-Surgical Pain](/anaesthesia/pain/cpsp.md)
-	* [Perioperative Analgesia](/anaesthesia/pain/periop-analgesia.md)
 * [ANZCA Professional Documents](/anaesthesia/anzca/anzca.md)
 	* [Credentialing and Scope of Practice](/anaesthesia/anzca/credentialling.md)
 	* [The PACU](/anaesthesia/anzca/pacu.md)

@@ -1,4 +1,4 @@
-#Peri-Operative Management of Antiplatelets
+#Peri-Operative Management of Antiplatelet Agents
 
 Effective management of antiplatelet agents requires balancing:
 * Thrombus risk  
@@ -13,7 +13,19 @@ Indication:
 
 
 
-##Coronary Artery Stents{#pci}
+##Aspirin
+> For non-cardiac surgery, excluding carotid endarterectomy, in patients without coronary stents
+
+For **primary prevention**:
+* Should be discontinued at least 3 days prior  
+Reduces rate of major bleeding.
+
+For secondary prevention:
+* Consider discontinuation at least 3 days prior
+* Important to restart when the risk of bleeding has passed
+
+
+##Antiplatelets for Coronary Artery Stents{#pci}
 >* Premature cessation of DAPT is the greatest contributor to stent thrombosis  
 >	* Cessation increases risk
 > 	* Surgery increases risk  
@@ -89,16 +101,6 @@ High-risk surgeries include:
 * Consider platelet transfusion
 
 
-##Aspirin
-> For non-cardiac surgery, excluding carotid endarterectomy, in patients without coronary stents
-
-For **primary prevention**:
-* Should be discontinued at least 3 days prior  
-Reduces rate of major bleeding.
-
-For secondary prevention:
-* Consider discontinuation at least 3 days prior
-* Important to restart when the risk of bleeding has passed
 
 
 
