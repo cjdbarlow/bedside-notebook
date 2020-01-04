@@ -99,7 +99,6 @@ Echocardiography:
 > * LVEF <30% is an independent contributor to perioperative morbidity
 > * Routine assessment is *not recommended*
 
-* Consider if RCRI ⩾1
 * *Reasonable* in dyspnoea of unknown origin
 * *Reasonable* in known cardiac failure and:
 	* Worsening dyspnoea or change in clinical status
@@ -114,19 +113,12 @@ Moderate or greater stenosis or regurgitation and:
 
 Stress testing:
 * Routine noninvasive stress testing is not useful
-* Consider if RCRI ⩾1
-	* *Reasonable* to perform pharmacological stress testing in patients at elevated risk and who have <4 METS functional capacity
+* Patients with >10 METS do not require further exercise testing
+* *Reasonable* to perform pharmacological stress testing in patients at elevated risk and who have <4 METS functional capacity and it would change management
 
 
 Angiography:
 * Routine perioperative angiography is not recommended
-
-
-Exercise testing:
-* Patients with >10 METS do not require further exercise testing
-* *Reasonable* not to perform exercise testing in patients with >4 METS
-* Exercising testing is *reasonable* if exercise capacity is unknown and it would change management
-
 
 
 

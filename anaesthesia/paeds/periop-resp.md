@@ -38,13 +38,15 @@ Compared with sevoflurane.
 * Use of lignocaine  
 Effect is disputed and may vary depend on method of administration.
 * Airway devices and depth of anaesthesia  
-Safest options to reduce laryngospasm include:
+Safest options to reduce laryngospasm involve minimising laryngeal and tracheal stimulation. Consider:
 	* Use of facemask  
 	Equivalent bronchospasm risk to LMA, but significantly reduced laryngospasm.
-	* Awake removal of ETT
-	* Deep removal of LMA
-	* Use of cuffed (compared with uncuffed) ETT  
-	Also reduces post-operative stridor. 
+	* Use of LMA  
+	With deep removal.
+	* If intubating:
+		* Awake removal of ETT
+		* Use of cuffed (compared with uncuffed) ETT  
+		Also reduces post-operative stridor. 
 
 
 Surgical factors:
