@@ -54,7 +54,7 @@ Six or seven nerves are blocked during a scalp block:
 
 
 * **Greater occipital nerve**
-	* Infiltrate 5ml of LA along the middle third of a line between the occipital protuberance and the mastoid process  
+	* Infiltrate 5mL of LA along the middle third of a line between the occipital protuberance and the mastoid process  
 	Variable location of this nerve in this region, but lies medial to the occipital artery (may be palpated). Ensure negative aspiration to avoid occipital artery injection.
 * **Lesser occipital nerve**
 	* Inject 5mL of LA 2.5cm lateral to the site of the greater occipital nerve block

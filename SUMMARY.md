@@ -309,6 +309,7 @@
 		* [Fat Embolism Syndrome](/disease/cvs/fat-embolism.md)
 * [CNS](/disease/cns/cerebral-palsy.md#id)
 	* [Cerebral Palsy](/disease/cns/cerebral-palsy.md)
+	* [Dementia](/disease/cns/dementia.md)
 	* [Epilepsy](/disease/cns/epilepsy.md)
 	* [Non-Convulsive Status](/disease/cns/ncse.md)
 	* [Chiari Malformations](/disease/cns/chiari.md)

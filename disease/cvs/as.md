@@ -18,7 +18,7 @@ Dependent upon flow across the valve, and so will underpredict severity in failu
 |--|---|
 |Valve Area|1.2-1.8cm<sup>2</sup>|0.8-1.2cm<sup>2</sup>|0.6-0.8cm<sup>2</sup>|< 0.6cm<sup>2</sup>|
 |Mean Pressure Gradient|12-25mmHg|25-40mmHg|40-50mmHg|>50mmHg|
-|Peak flow|1-2m/s|2-3m/s|>4m/s||
+|Peak velocity|2.5-3m/s|3-4m/s|>4m/s||
 |Dimensionless Index|0.5-0.75|0.25-0.5|<0.25||
 
 ##Epidemiology and Risk Factors
