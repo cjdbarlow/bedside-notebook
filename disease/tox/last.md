@@ -4,7 +4,7 @@
 > Priority is to:
 >* **Maintain oxygenation**
 >* **Control seizures**
->* **Manage arrythmias or CVS arrest**
+>* **Manage arrhythmias or CVS arrest**
 >* **Give intravenous lipid emulsion**
 
 
@@ -35,9 +35,9 @@ Consider intubation.
 		* Calcium-channel blockers
 		* β-blockade
 7. Give **intravenous lipid emulsion**
-	* 1.5ml/kg bolus  
+	* 1.5mL/kg bolus  
 	May be repeated.
-	* Commence infusion at 0.25ml/kg/min  
+	* Commence infusion at 15mL/kg/hr  
 	Can double rate if ongoing hypotension.
 
 
