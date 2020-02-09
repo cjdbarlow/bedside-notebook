@@ -323,6 +323,8 @@
 	* [Neuromuscular Diseases](/disease/msk/nmd.md)
 		* [Duchenne Muscular Dystrophy](/disease/msk/dmd.md)
 		* [Becker's Muscular Dystrophy](/disease/msk/bmd.md)
+		* [Myasthenia Gravis](/disease/msk/mg.md)
+		* [Myotonic Dystrophy](/disease/msk/myotonic.md)
 	* [Critical Illness Myopathy](/disease/msk/cim.md)
 * [Endocrine](/disease/endo/dm.md#id)
 	* [Glucose Homeostasis](/disease/endo/dm.md)

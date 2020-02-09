@@ -104,7 +104,7 @@ Treatment is supportive, and consists of:
 	* Generally limited cardiorespiratory reserve
 * D
 	* Difficulty communicating
-	* Co-existent epilepsy 
+	* Co-existent epilepsy  
 	Continue antiepileptics in perioperative period.
 	* Hyperalgesia
 * E

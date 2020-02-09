@@ -5,7 +5,8 @@ Progressive chronic neurological disorder:
 * Characterised by:
 	* Motor symptoms
 	* Autonomic dysfunction
-* 
+	* Bulbar dysfunction
+	* Dementia
 
 ##Epidemiology and Risk Factors
 Prevalence:
@@ -168,7 +169,7 @@ Deep Brain Stimulation:
 * B
 	* Chest wall rigidity
 * C
-	* Autonomic instability
+	* **Autonomic instability**
 * D
 	* Parkinsonian medications  
 	Medication management is critical.
@@ -187,7 +188,9 @@ Deep Brain Stimulation:
 	* Opioids  
 		* Muscle rigidity
 		* Dystonic reactions
-	* 
+	* **Dementia**
+* E
+	* **Motor function**
 
 ###Ineffective Therapies
 ##Complications

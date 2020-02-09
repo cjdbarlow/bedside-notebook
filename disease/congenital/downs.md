@@ -96,12 +96,13 @@ Occurs in 50%.
 	* Generalised hypotonia
 * G
 	* GORD
-* I
-	* Immune dysfunction  
-	General abnormalities in T cell, B cell, gamma globulins, and neutrophil function.
 * H
 	* Prone to polycythaemia
 	* Higher incidence of leukaemias
+* I
+	* Immune dysfunction  
+	General abnormalities in T cell, B cell, gamma globulins, and neutrophil function.
+
 
 ###Ineffective Therapies
 ##Complications

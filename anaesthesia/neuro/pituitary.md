@@ -39,7 +39,11 @@ Intro and technique
 	* Diabetes Insipidus  
 	10-60% of cases occur almost immediately.
 
-##Preparation
+##Preoperative
+Assess:
+* Mass effect
+* Metabolic effects
+
 * Standard ANZCA monitoring
 * Arterial line
 * Large IV

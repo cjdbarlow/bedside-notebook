@@ -22,7 +22,7 @@ May be as young as 5 days.
 * Projectile vomiting of gastric contents (no bile)
 * Alkalotic  
 Hypokalaemic hypochloraemic metabolic alkalosis.
-* Diagnosed clinically 
+* Diagnosed clinically  
 'Olive' palpable epigastrically and right of midline.
 
 ##Considerations
@@ -35,16 +35,17 @@ Hypokalaemic hypochloraemic metabolic alkalosis.
 		* Four-quadrant suctioning can be performed
 * C
 	* Volume state  
-	**Must be corrected preoperatively**.
+	**Must be corrected pre-operatively**.
 		* Frequency and amount of vomiting
 		* Diarrhoea
 		* Urine output
-		* Resuscitation performed:  
+		* Perform resuscitation:  
 		Adequate resuscitation may take up to 72 hours.
-			* Initial resuscitation of shock with standard solutions
-			CSL or Albumin.
-			* Correct volume with salt and dextrose containing solutions  
-				* Usually requires addition of potassium 40mmol/L
+			* Initial resuscitation of shock with standard solutions  
+			10-20ml/kg boluses of 0.9% NaCl to restore circulating volume.
+			* Continue maintenance with salt and dextrose containing solutions  
+				* 4ml/kg/hr of 0.9% NaCl with 5% dextrose
+				* Add potassium (40mmol/L) when UO ⩾1-2ml/kg/hr  
 * F
 	* Hypochloraemic metabolic alkalosis
 		* Off-loading of oxygen is impaired in alkalotic states  
@@ -58,7 +59,14 @@ Hypokalaemic hypochloraemic metabolic alkalosis.
 			This leads to a paradoxically acidic urine.
 		* HCl may be used to correct severe alkalosis but is rarely necessary
 	* Hyponatraemia/electrolyte derangement  
-	May be present but masked by dehydration.
+	May be present but masked by dehydration. **Preoperative targets**:
+		* pH ⩽7.45
+		* BE ⩽3.5
+		* HCO<sub>3</sub><sup>-</sup> ⩽26mmol/L
+		* Na<sup>+</sup> ⩾132mmol/L
+		* K<sup>+</sup> ⩾3.5mmol/L
+		* Cl<sup>-</sup> ⩾100mmol/L
+		* BSL ⩾4mmol/L
 * G
 	* Frequency and extent of vomiting
 
@@ -83,14 +91,15 @@ Premedicate with atropine (0.02mg/kg) prior to decompression.
 	* Additional:
 		* Dead space is minimal
 		* Resistance mitigated by use of pressure-support or controlled ventilation
-* Paracetamol and local anaesthetic usually adequate for analgesia
+* Paracetamol and local anaesthetic usually adequate for analgesia  
+**Avoid opioids**; they will not breathe and don't need it anyway.
 
 ###Surgical Stages
 Approach may be:
 * Open
 	* RUQ
 	* Periumbilical
-* 3x laparascopic ports
+* 3x laparoscopic ports
 
 
 ##Postoperative

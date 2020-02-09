@@ -131,9 +131,9 @@ In absence of glucocorticoids, endogenous cortisol release:
 	Take usual steroid dose, and supplement with:
 		* 50mg Hydrocortisone IV pre-procedure
 		* 25mg Hydrocortisone Q8H for 24/24
-	 * Severe stress  
-	 Take usual steroid dose, and supplement with:
-	 	* 100mg Hydrocortisone IV pre-procedure
+	* Severe stress  
+	Take usual steroid dose, and supplement with:
+		* 100mg Hydrocortisone IV pre-procedure
 	 	* 50mg Hydrocortisone Q8H for 24/24
 	 	* Taper hydrocortisone dose by half each day until maintenance steroid dose reached
 

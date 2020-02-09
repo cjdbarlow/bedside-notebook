@@ -150,3 +150,40 @@ Values indicating critical physiological derangement include:
 
 ##Blood Resuscitation
 Paeds: 10ml/kg of all blood product is a good guide
+
+
+#Posterior fossa craniectomy
+Posterior fossa craniectomy have more VAE than supine
+Not much room for surgical operation
+Haemodynamic instability from manipulating brainstem cardiac centres
+Obstructive hydrocephalus
+
+##Clot Retrieval
+* NNT 5 for independence and 3 for discharge
+	* Within 5 hours of onset
+* Can be extended up to 24 hours in selected patients with favourable imaging
+* Time critical
+* Appropriate patient selection
+	* Proven large vessel occlusion (ICA, MCA, M1, M2, basilar1)
+* Arrange brain imaging
+	* Review brain imaging results
+	* Communicate with neurointerventionalist
+	* Transfer to angiography suite for treatment
+
+
+Issues:
+* Patient position
+* HDx stability
+* Maintain SBP 140-180 or within 10% of baseline
+- Maintain sats, CO2 35-40
+* Normothermia, normoglycaemia
+* Anticoagulation
+* GA vs sedation; trend is better with sedation
+
+##Awake crani
+* Patient seelection, counselling
+* art line and IV on ipsilateral side
+* Empty bladder
+* Warming blanket
+* TEDS, no calf compressors
+* Intra-operative awake/asleep/awake

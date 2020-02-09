@@ -12,7 +12,10 @@ Subarachnoid haemorrhage is a neurological emergency. SAH:
 		* Reversible cerebral vasoconstriction syndrome.
 
 
-Clinical and radiological grading scales exist for describing severity, and broadly correlate with outcome at a population level.
+Grading:
+* Many grading scales exist:
+* The WFNS scale assists prognosis and determining post-operative destination
+* The Modified Fischer scale predicts vasospasm risk
 
 |Grade|WFNS|Hunt & Hess|Modified Fisher|
 |--|--|
@@ -28,7 +31,12 @@ Aneurysmal SAH:
 * Has a high mortality rate
 	* 15% prehospital
 	* 30% 30-day
-* Risk factors include:s
+* 40% make a good recovery  
+Prognostication:
+	* Age
+	* Conscious state
+	* Blood volume
+* Risk factors include:
 	* HTN
 	* Smoking
 	* Heavy ETOH use

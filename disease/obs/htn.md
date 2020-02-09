@@ -12,8 +12,7 @@ Hypertension in pregnancy is:
 	Usually within 6 weeks.
 	* **Preeclampsia/Eclampsia**
 		* Preeclampsia is defined as **gestational hypertension** with **organ system involvement**  
-		Preeclampsia with severe features is preeclampsia with severe end-organ dysfunction or hypertension  
-		Covered further under [clinical features](#clinical).
+		Preeclampsia with severe features is preeclampsia with severe end-organ dysfunction or hypertension, see [clinical features](#clinical).
 		* Eclampsia is defined as **preeclampsia** with **seizures**
 	* **Chronic hypertension**  
 	Pre-existing hypertension.
@@ -34,7 +33,7 @@ Risk factors include:
 	* Nulliparity
 	* Multiple gestation
 
-Preecampsia is:
+Preeclampsia is:
 * A leading cause of maternal morbidity and mortality
 * Present in 5-8% of pregnancies
 
@@ -48,10 +47,10 @@ Eclampsia:
 Underlying processes driving placental insufficiency include:
 * Maternal endothelial dysfunction
 	* Altered endothelial function
-		* Increased endothelil secretion
+		* Increased endothelial secretion
 		* Decreased nitric oxide
 	* Normal development of a high-flow, low-resistance placental circulation does not occur
-* Acute atherlosclerosis and thrombosis of placental vessels  
+* Acute atherosclerosis and thrombosis of placental vessels  
 Results in decreased placental flow and structural blood vessel damage.
 
 These processes:
@@ -110,7 +109,7 @@ Pre-eclampsia is classified by:
 			* Pulmonary oedema
 		* CNS
 			* Seizures/eclampsia
-			* HEadache
+			* Headache
 			* Visual disturbances
 			* Papilloedema
 			* Clonus/hyperreflexia
@@ -128,7 +127,7 @@ Pre-eclampsia is classified by:
 		* Haematological
 			* Haemolysis
 			* Thrombocytopenia  
-			<100 x 10<sup>9</sup>sup>/L.
+			⩽100 x 10<sup>9</sup>sup>/L.
 			* DIC
 		* Uteroplacental circulation
 			* Placental abruption
@@ -202,16 +201,24 @@ Treatment revolves around:
 	* Only curative option
 	* Neuraxial techniques preferred in absence of coagulopathy  
 	No clear advantage of any (CSE, epidural, single-shot spinal) technique.
-
 * Managing complications
 	* Magnesium Sulphate
 		* **Prophylaxis** for **eclampsia** in women with **severe preeclampsia**  
 		Not recommended for use as an antihypertensive agent.
 		* Multifactorial mechanism of action:
-			* Increased prostacyclin syntehsis
+			* Increased prostacyclin synthesis
 			* Decreases calcium influx  
 			Thereby decreasing ATP-consuming Ca<sup>2+</sup>-dependent processes.
 			* NMDA antagonism
+		* Give **4g over 20 minutes**, and then **1g/hr** thereafter
+		* Target level is **1.7-3.5mmol/L**
+		* Monitoring should be performed:
+			* Q6H in women with renal impairment
+			* If:
+				* RR < 12
+				* UO < 100ml over 4 hours
+				* Loss of patella reflexes
+				* Further seizures occur
 
 
 ###Timing of Delivery  

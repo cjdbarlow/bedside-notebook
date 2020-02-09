@@ -39,13 +39,23 @@ BIS -> Processed EEG
 
 Intro and technique
 
-##Considerations
-##Preparation
-##Induction
+##Surgical Stages
+##Preoperative
+Assessment:
+Consultation:
+Optimisation:
+Premedication:
+Explain/Consent:
 ##Intraoperative
-###Surgical Stages
-##Emergence
+Preparation:
+Induction:
+Maintenance:
+Emergence:
 ##Postoperative
+Destination:
+Analgesia:
+Drugs:
+###Complications
 
 ---
 ##References

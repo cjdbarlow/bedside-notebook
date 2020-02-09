@@ -68,39 +68,38 @@ Avoid ⩽ 10% change in SBP.
 ##Intraoperative
 Aneurysmal Rupture:
 * Call for help
-* Reduce bleeding
+* Determine if the aneurysm is exposed or unexposed
+* Goals:
+	* Keep ICP low
+	* Balance maintaining CPP vs. exacerbating haemorrhage  
+		* Exposed aneurysm: Rapid reduction in BP to reduce bleeding to allow surgeon to clip quickly
+		* Unexposed aneurysm: Induce a degree of hypotension
 	* Requires urgent surgical control of source
 	* **Reverse heparin** if in IR
-	* Induce hypotension to reduce haemorrhage  
-		* Target:
-			* SBP <100mmHg if in IR
-			* Reduction of haemorrhage if in OT
-		* Strategies  
-		Multiple options; will depend on severity of haemorrhage and what is currently running/drawn up/available. Some include:
-			* Anaesthetic agents
-				* Propofol  
-				Immediately available and intimately familiar, but may not be enough.
-				* Remifentanil bolus (e.g. 1ug/kg)  
-				* Thiopentone  
-			* Cardiac agents
-				* Adenosine
-				* Labetalol
-				* Esmolol
-				* GTN  
-				3-5mg/kg bolus, then 3-5mg/kg/hr, targeted to burst suppression.
-	* Compress ipsilateral carotid artery to reduce bleeding
+* Induce hypotension to reduce haemorrhage  
+	* Target:
+		* SBP ⩽100mmHg if in IR
+		* Aim SBP 60-80mmHg or adequate reduction of haemorrhage if in OT
+	* Strategies  
+	Multiple options; will depend on severity of haemorrhage and what is currently running/drawn up/available. Some include:
+		* Anaesthetic agents
+			* Propofol  
+			Immediately available and intimately familiar, but may not be enough.
+			* Remifentanil bolus (e.g. 1ug/kg)  
+			* Thiopentone  
+			* Volatile
+		* Cardiac agents
+			* Adenosine
+			* Labetalol 5-10mg
+			* Esmolol
+			* GTN  
+			3-5mg/kg bolus, then 3-5mg/kg/hr, targeted to burst suppression.
+		* Compress ipsilateral carotid artery to reduce bleeding
 * Volume resuscitation
 	* Increase IVT rate
 	* Begin transfusion
 * Consider cerebroprotective strategies
 
-
-Induced Hypotension:  
-* May be requested to reduce risk of aneurysmal bleeding  
-* Aim SBP 60-80mmHg
-Consider:  
-	* 5-10mg labetalol boluses
-	* Increase anaesthetic depth
 
 
 Cerebroprotection:
@@ -110,14 +109,27 @@ Cerebroprotection:
 
 
 ###Surgical Stages
-* Craniotomy
-* Dissection and exposure of aneurysm
-Delicate - **ensure immobility**.
-* Potential temporary clipping of vessels supplying aneurysm  
-* Clipping of aneurysm  
-Multiple clips may be applied.
-* Potential aspiration of aneurysm  
-To ensure that there is no further flow to the lesion.
+Haemodynamically critically points include:
+* Induction
+* Pins
+* Incision
+* Dural opening
+* Haematoma removal
+* Exposure and clipping
+	* Dissection and exposure of aneurysm
+	Delicate - **ensure immobility**.
+	* Potential temporary clipping of vessels supplying aneurysm  
+	Increase blood pressure to improve collateral circulation whilst temporary clip in situ.
+		* ⩽15 minutes is well tolerated
+		* ⩾30 minutes will have ischaemic injury
+	* Clipping of aneurysm  
+	Multiple clips may be applied.
+	* Potential aspiration of aneurysm  
+	To ensure that there is no further flow to the lesion.
+* Extubation
+
+
+
 
 
 
