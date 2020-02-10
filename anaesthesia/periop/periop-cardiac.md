@@ -114,7 +114,8 @@ Moderate or greater stenosis or regurgitation and:
 Stress testing:
 * Routine noninvasive stress testing is not useful
 * Patients with >10 METS do not require further exercise testing
-* *Reasonable* to perform pharmacological stress testing in patients at elevated risk and who have <4 METS functional capacity and it would change management
+* *Reasonable* to perform pharmacological stress testing in patients at elevated risk and who have <4 METS functional capacity and it would change management  
+e.g. Preoperative coronary revascularisation, medical management, or a change in surgical approach.
 
 
 Angiography:
@@ -194,9 +195,6 @@ Don't require evaluation unless:
 	* LV function
 	* CAD
 * Intraoperative VT or NSVT should prompt cardiology referral
-
-
-
 
 
 ##Post-Operative

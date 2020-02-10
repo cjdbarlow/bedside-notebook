@@ -84,6 +84,9 @@ Ask about swallowing disability.
 		* Active upper GI bleed
 	* Relative
 		* Neck/mediastinal radiation
+		* Atlantoaxial disease
+		* Dysphagia
+		* Odynophagia
 
 
 Examination:

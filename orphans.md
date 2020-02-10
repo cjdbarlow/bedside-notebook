@@ -214,3 +214,12 @@ Coiling:
 
 ##Cardioplegia
 * Various types
+
+
+##Radiopaedia note:
+* L LL sits at base of heart down to diaphragm
+* Lingula touches left heart border
+* RML covers R heart border
+
+##Anatomy of a bypass circuit
+
