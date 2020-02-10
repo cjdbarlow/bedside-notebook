@@ -23,10 +23,12 @@ Minimise:
 Especially in left main disease, pulmonary hypertension, and AS.
 
 ##Preoperative Evaluation
-Evaluation should consider:
+Basics:
 * Planned operation
 * Age, weight, and height  
 For indexing and drug doses.
+
+History:
 * Allergies  
 Particularly:
 	* Heparin
@@ -74,6 +76,14 @@ Cardiac patients tend to be sicker. Particularly relevant features:
 	* Peripheral bypass (femoral) may need to be established
 	* Significantly prolonged case with substantial blood loss   
 	Dissection of adhesions and identification of old grafts.
+* Contraindications for echocardiography  
+Ask about swallowing disability.
+	* Absolute
+		* Perforated viscous
+		* Oesophageal stricture/tumour/diverticulum
+		* Active upper GI bleed
+	* Relative
+		* Neck/mediastinal radiation
 
 
 Examination:
@@ -92,12 +102,12 @@ Investigations:
 * General
 	* ECG
 	* CXR
-	* PFTs if indiated by respiratory disease
+	* PFTs if indicated by respiratory disease
 * Cardiac-specific
 	* Angiogram  
 		* Number, site and severity of stenoses
 		* Left main or equivalent stenosis
-	* Echocardigram
+	* Echocardiogram
 		* LV function
 		* RV function
 		* Valvular function
@@ -124,6 +134,8 @@ Key risks:
 * AMI
 * Oesophageal injury
 * Transfusion
+
+
 
 
 ##Preparation{#prep}
@@ -155,27 +167,32 @@ Should be placed awake and on the **right side** if surgeons are not planning on
 * Consider awake central access in sick or unstable patients  
 MAC lines are excellent choice for volume as well as providing a route of administration of centrally acting drugs.
 * Pulmonary artery catheter  
-Indicated in the setting of:
-	* Severe LV dysfunction (EF < 30%)
-	* MV dysfunction
-	* AKI
+	* Indication varies depending on centre; strong indications include:
+		* Severe LV dysfunction (EF ⩽30%)
+		* MV dysfunction
+		* AKI
+	* Floating after induction preferable in patients with:
+		* Severe AS
+		* Left main/left main equivalent
+		* Conduction deficits (BBB))
 * Consider hot line for small patients or those with high risk of bleeding
+* Use of TOE
+	* ~5% of the time an unexpected abnormality will be identified
 
 
 Drugs (Push):
 * 2% lignocaine in 3ml syringe with 25G needle for vascular access
 * Midazolam 5mg in 5ml
-* Fentanyl 500ug-1mg in 10 or 20ml syringe
+* Fentanyl 500ug-1mg in 10-20ml syringe
 * Induction agent  
 Propofol 200mg in 20ml (can use syringe driver if required), thiopentone 500mg in 20ml.
 * Cephazolin 2g
 * Vasopressor  
 e.g. Metaraminol 10mg in 20ml.
 * Rocuronium 100mg in 2x5ml
-
-
-* Heparin 300-400 units/kg if heparin naive
-
+* Heparin
+	* 300 units/kg if heparin naive
+	* 400 units/kg if has been on heparin or enoxaparin preoperatively
 
 Drugs (Infusions):
 * TXA 5g in 50ml
@@ -203,6 +220,7 @@ Induction:
 * Antibiotics prior to skin incision
 
 
+
 ###Intraoperative
 Position:
 * Head ring
@@ -219,6 +237,9 @@ e.g. 250μg fentanyl.
 Prevents surgeon from damaging lung.
 	* Lungs may be left on during *re*sternotomy to protect the other cardiac structures
 
+###Postoperative
+ICU Handover:
+* Should be formulaic 
 
 ---
 

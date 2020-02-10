@@ -39,7 +39,8 @@ Chronically elevated CVP is poorly tolerated.
 		* Negative-pressure ventilation is beneficial to maintain ventricular filling
 		* If positively pressure-ventilating:
 			* Avoid excessive PEEP
-			* **Minimise I time/Prolong E time**
+			* **Minimise I time/Prolong E time**  
+			As soon as Pip exceeds CVP then there will be no pulmonary flow. Therefore, the **absolute inspiratory pressure** is essentially **irrelevant**, as CVP is usually only mildly elevated and so any inspiratory pressure (however low) will prevent pulmonary flow.
 * C
 	* Arterial line is mandatory
 	* **Adequate preload**  

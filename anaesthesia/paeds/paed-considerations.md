@@ -102,9 +102,9 @@ $$PCA = Weeks \ of \ Gestation + Weeks \ since \ Birth$$.
 |**A**|- Very small everything<br>- Best lying flat for intubation<br><br>- Consideration of Mac vs. Miller<br>- BVM usually **straightforward**<br>- Intubation can be difficult<br>- Small ETTs are high resistance|- As premature|- Difficult one-hand mask ventilation due to obstructed nasal passages<br>- Small ETTs are high resistance|
 |**B**|- Surfactant may be inadequate<br>- **Apnoeas**<br>- Desaturate *very* quickly<br>- Difficult to preoxygenate<br>|- As premature<br>- Essentially never appropriate for day-case surgery|- Frequent URTIs<br>- Smaller airway diameter = bad bronchospasm|
 |**C**|- Foetal shunts may be open/reopen; avoid air bubbles<br>- Normal MAP ≈ weeks of gestation|- HR dependent CO<br>- **Defend HR**|- Most difficult group for IV access|
-|**D**|- **BSL** management critical<br>- Cord terminates S1 at 28 weeks|- **BSL** management critical <br>- Cord terminates at L3 at term|- **Separation anxiety**<br>- Cord terminates at L2/3 at 1 year|
-|**E**|- **Temperature** management critical|- **Temperature** management critical|
-|**Other**|- **Why are they premature?** Foetal/maternal|
+|**D**|- **BSL** management critical; apnoea with hypoglycaemia<br>- Cord terminates S1 at 28 weeks|- **BSL** management critical <br>- Cord terminates at L3 at term|- **Separation anxiety**<br>- Cord terminates at L2/3 at 1 year|
+|**E**|- **Temperature** management critical|- **Temperature** management critical||
+|**Other**|- **Why are they premature?** Foetal/maternal|||
 |**Requirements**|- NICU<br>- Neonatologist|- NICU|- Anaesthetic assistant capable of cannulating and ventilating|
 
 ####Key Considerations in Neonates

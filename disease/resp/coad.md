@@ -1,12 +1,12 @@
 #Chronic Obstructive Pulmonary Disease
 
-COPD is a chronic, progressive inflammatory condition of the lung. COPD:
+COPD is a chronic, progressive inflammatory disease characterised by incompletely reversible airflow limitation. COPD:
 * Affects airways, lung parenchyma, and vasculature
 * Impairs expiration via:
 	* Poorly reversible airway narrowing
 	* Airway smooth muscle remodelling
 	* Increasing mucous production
-* 
+* Includes bullous disease
 
 
 ##Epidemiology and Risk Factors

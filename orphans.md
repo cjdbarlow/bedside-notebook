@@ -164,7 +164,7 @@ Obstructive hydrocephalus
 * Can be extended up to 24 hours in selected patients with favourable imaging
 * Time critical
 * Appropriate patient selection
-	* Proven large vessel occlusion (ICA, MCA, M1, M2, basilar1)
+	* Proven large vessel occlusion (ICA, MCA, M1, M2, basilar)
 * Arrange brain imaging
 	* Review brain imaging results
 	* Communicate with neurointerventionalist
@@ -181,9 +181,36 @@ Issues:
 * GA vs sedation; trend is better with sedation
 
 ##Awake crani
-* Patient seelection, counselling
+* Patient selection, counselling
 * art line and IV on ipsilateral side
 * Empty bladder
 * Warming blanket
 * TEDS, no calf compressors
 * Intra-operative awake/asleep/awake
+
+##Coiling
+Coiling:
+* Remote
+* Radiation
+* Radiology equipment
+* Heparin requirement
+
+
+
+#Aortic stenosis echo
+* Echo pressure measurements are based on velocity, cath lab based pressure measurements are based on actual pressure
+* Peak velocity is based on the maximal pressure gradient, which does not occur at peak aortic pressure but on the actual upstroke of the LV
+* Echo tables therefore will overestimate the degree of stenosis compared to cath lab measurements
+
+##Mitral valve
+* Anterior leaflet ~1/3 of anulus
+* Posterior leaflet ~2/3 of annulus
+* Omniplane:
+	* 0 deg cuts A2 P2
+	* 60deg cuts along commissure and gives the P3, A2, P1 view
+	* 90deg cuts through A2 P3
+	* 150deg cuts through P2 A2 again
+
+
+##Cardioplegia
+* Various types

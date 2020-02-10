@@ -58,6 +58,8 @@ Hypokalaemic hypochloraemic metabolic alkalosis.
 			* As hypokalaemia worsens, the kidney will then retain Na<sup>+</sup> and eliminate H<sup>+</sup>  
 			This leads to a paradoxically acidic urine.
 		* HCl may be used to correct severe alkalosis but is rarely necessary
+		* Will be corrected by volume and Cl<sup>-</sup> resuscitation  
+		Aciduria will resolve when volume is restored, as the distal tubule no longer exchanges potassium and hydrogen for sodium.
 	* Hyponatraemia/electrolyte derangement  
 	May be present but masked by dehydration. **Preoperative targets**:
 		* pH ⩽7.45
@@ -73,6 +75,10 @@ Hypokalaemic hypochloraemic metabolic alkalosis.
 
 
 ##Preparation
+* Ensure adequately resuscitated, given by:
+	* Restored circulating volume
+	* Cl<sup>-</sup> is normal
+	* pH is normal or approaching normal
 * Secure IV access
 * Monitoring required
 	* SpO<sub>2</sub>

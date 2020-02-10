@@ -7,6 +7,35 @@ Brief descriptions of anaesthetic strategies for:
 
 
 ##Intubation/Induction
+Post-induction checklist:
+* Airway
+	* Intact
+* Breathing
+	* What are they breathing?  
+	Gases, FiO<sub>2</sub>.
+	* How are they breathing?  
+	Mode, pressure values.
+	* Is it adequate?
+* Circulation
+	* Rate/rhythm
+	* Pressures
+* Drugs
+	* Anaesthesia
+	* Analgesics
+	* Antibiotics
+	* Antiemetics
+	* Muscle relaxation
+* Environment
+	* Positioning
+	* Eyes
+	* Warming
+* Fluids and electrolytes
+	* Plan for IVT
+	* Urine output
+	* BSL
+* G
+	* NGT
+
 
 ###Awake Intubation Strategies
 Using Propofol & Remifentanil:

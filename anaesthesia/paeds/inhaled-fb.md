@@ -11,6 +11,11 @@
 Intro and technique
 
 ##Considerations
+* Stability of the foreign body
+* Surgeon available with rigid bronch
+* Spont vent
+
+
 ##Preparation
 ##Induction
 > Priority is to **maintain spontaneous ventilation**

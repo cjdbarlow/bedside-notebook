@@ -41,11 +41,14 @@ Normal is 90-130.
 **HAD2SAVE**:
 	* Heparin given  
 	Confirm administration by verifying back-bleeding from heparin delivery line.
-	* ACT >480  
+	* ACT ⩾480  
 	Threshold varies between centres.
 		* Take sample from arterial line, or failing that PA distal on a PAC
 	* Drugs  
-		* Consider additional analgesia, relaxant prior to going on CPB.
+		* Consider additional analgesia
+		* Anaesthesia plan
+		* Consider relaxant  
+		Prevent shivering if cooling.
 		* Vaporiser off
 	* Drips off
 	* Swan
@@ -56,8 +59,8 @@ Normal is 90-130.
 	* Ventilator
 		* Swap onto bag and open APL valve
 		* Disable alarms
-	* Ensure anaesthesia continues  
-	Anaesthetic plan with perfusionist for either TIVA or volatile.
+	* Emboli  
+	Check arterial cannula for bubbles.
 
 
 Perfusionist:
@@ -97,7 +100,7 @@ May cause atrial arrhythmia. If unstable:
 	* At this point, bypass may commence although the heart is still beating
 	* Access cannula may be
 		* Bi-caval  
-		Two separate cannulas, one to the IVC and one to the SVC.
+		Two separate cannulas, one to the IVC and one to the SVC. Used if the RA has to be empty for surgical conditions (e.g. atrial myxoma, tricuspid valve surgery).
 		* Single, larger dual-stage cannula
 * Places retrograde cardioplegia cannula
 * Places anterograde cardioplegia catheter
@@ -235,7 +238,21 @@ Adjust infusions if necessary. Ensure good flow rates of carrier fluid to enable
 			* IV amiodarone
 			* Magnesium
 			* Esmolol
-
+* Checklist
+	* Alarms re-instituted
+	* Airway intact
+	* Ventilation re-established
+	* Circulation optimised
+	* Pacing box present
+	* Drugs
+		* Anaesthesia
+		* Analgesia
+		* Antibiotics
+		* Muscle relaxations
+	* Warming
+		* Check temperature >36.5
+		* Fluids and electrolytes  
+		Check Hb, Na, K, BSL.
 
 
 
@@ -245,7 +262,9 @@ Give 1mg protamine per 100 units of UFH.
 	* Monitor for systemic hypotension/pulmonary hypertension, high airway pressures, circulatory arrest  
 	May need to crash back onto bypass.
 	* Give test dose of 1-2ml initially
-	* Given *slowly*, typically 2-3ml/min
+	* Given *slowly*, typically 2-3ml/min, titrating to patient blood pressure
+	* Alert surgeons when half to 1/3<sup>rd</sup> of protamine given  
+	Avoid complete reversal whilst cardiotomy suction is still being used.
 * Check ACT 3 minutes after protamine has finished
 
 Perfusionist:
