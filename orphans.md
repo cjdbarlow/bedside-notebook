@@ -223,3 +223,37 @@ Coiling:
 
 ##Anatomy of a bypass circuit
 
+
+
+##Systemic review
+* Clearly stated set of objectives with pre-defined eligibility criteria
+* Explicit and reproducible methodology
+
+
+#Meta analysis
+* Combined results of several studies with values weighted by various quality criteria
+* Funnel plot: is my study representative
+
+##RCTs
+* Obtain two similar groups, treated identically, except for intervention vs control
+* Followed up identically
+* Statistical difference on a predefined outcome which is clinically relevant
+* Use CONSORT criteria when interpreting studies  
+* 5 major questions:
+	* Should this study have been performed?
+		* Originality
+		* Incremental
+		* Significance
+	* Is the methodology flawed?
+
+##Bias
+* Selection
+* Performance  
+Difference in care outside of the intervention.
+* Detection
+* Attrition
+* Reporting
+
+##Odds and risk
+* RR is a ratio of rates, and expresses comparative likelihoods of events between populations
+* OR is a ratio of odds, looking at relative likelihoods of events given EXPOSURES

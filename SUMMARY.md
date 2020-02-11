@@ -358,6 +358,8 @@
 * [Immune](/disease/immune/anaphylaxis.md#id)
 	* [Anaphylaxis](/disease/immune/anaphylaxis.md)
 	* [Sepsis](/disease/immune/sepsis.md)
+* [Rheumatology](/disease/rheum/scleroderma.md#id)
+	* [Scleroderma](/disease/rheum/scleroderma.md)
 * [Metabolic and Congenital](/disease/congenital/downs.md#id)
 	* [Down's Syndrome](/disease/congenital/downs.md)
 	* [Cystic Fibrosis](/disease/congenital/cf.md)

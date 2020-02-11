@@ -1,6 +1,6 @@
 #Chronic Obstructive Pulmonary Disease
 
-COPD is a chronic, progressive inflammatory disease characterised by incompletely reversible airflow limitation. COPD:
+COPD is a chronic, progressive inflammatory disease characterised by persistent respiratory symptoms with incompletely reversible airflow limitation. COPD:
 * Affects airways, lung parenchyma, and vasculature
 * Impairs expiration via:
 	* Poorly reversible airway narrowing
@@ -11,7 +11,19 @@ COPD is a chronic, progressive inflammatory disease characterised by incompletel
 
 ##Epidemiology and Risk Factors
 Environmental exposures:
-* **Cigarette smoking**
+* **Smoking**
+	* **Cigarettes**
+	* Pipes/cigars
+	* Water pipe
+	* Marijuana
+* Occupational exposures
+	* Dusts
+	* Chemical agents
+	* Fumes
+* Indoor air pollution
+	* Cooking fuels
+* Outdoor air pollution  
+Relatively small effect.
 
 Genetic factors:
 * FAM13A associated with development
@@ -28,6 +40,45 @@ Leading to emphysema, which reduces:
 
 ###Aetiology
 ##Assessment
+Key symptoms are:
+* Chronic cough or sputum production
+* History of exposures
+* Dyspnoea  
+Graded using the mMRC scale.
+
+###Modified MRC Scale
+
+|Grade|Breathlessness|
+|--|--|
+|**Grade 0**|Only with strenuous exercise|
+|**Grade 1**|When hurrying or a slight incline|
+|**Grade 2**|Slower than people of same age, or stopping due to shortness of breath on flat ground|
+|**Grade 3**|After ~100m or a few minutes on flat ground|
+|**Grade 4**|I am too breathless to leave the house, or get breathless when dressing/undressing|
+
+
+###GOLD Criteria
+Global Initiative for Obstructive Lung Disease Criteria:
+* Used clinically to determine severity of disease in order to prognosticate and guide therapeutic interventions
+* Not appropriate for diagnosis
+* Are based upon:
+	* Symptom burden  
+	mMRC score.
+	* Number of exacerbations and hospital admissions
+	* FEV<sub>1</sub>
+
+
+Treatment recommendations:
+* GOLD A  
+Bronchodilator (LABA or SABA) offered, and continued if effective.
+* GOLD B  
+LABA or long-acting methacholine antagonist should be offered as initial therapy.
+* GOLD C  
+LAMA as initial therapy, and benefit may be seen with LAMA & LABA & inhaled corticosteroids.
+* GOLD D  
+LAMA & LABA as initial therapy, with inhaled corticosteroids for patients with frequent exacerbations.
+
+
 ##Diagnostic Approach and DDx
 Diagnosis should be considered in:
 * Smokers
@@ -38,7 +89,7 @@ Diagnosis should be considered in:
 
 ##Investigations
 Respiratory function tests are diagnostic and used to grade severity:
-* FEV<sub>1</sub>/FVC of ⩽0.7
+* **FEV<sub>1</sub>/FVC of ⩽0.7**
 	* Reversibility is not required  
 	Differentiated from asthma on clinical grounds.
 * Severity graded by FEV<sub>1</sub>  
@@ -52,10 +103,12 @@ Multiple grading systems, the GOLD 2008/NICE 2010 system:
 	* FEV<sub>1</sub> ⩽30% predicted  
 	Very severe.
 
-
+α-1 antitrypsin:
+* All patients should be screened once for α1 antitrypsin deficiency  
+⩽20% is suggestive of homozygous deficiency.
 
 ##Management
-Includes:
+Medical Management:
 * Smoking cessation  
 Vital, and will slow down deterioration and disability before death occurs.
 * Inhaled therapies  
@@ -66,6 +119,27 @@ Mainstay of day-to-day treatment. Includes:
 	For persistent breathlessness.
 * Oral therapy  
 Oral corticosteroids may be required in advanced disease.
+* Vaccination  
+Influenza and pneumococcal vaccines decrease LRTI rate.
+* NIV  
+Preferred over invasive ventilation, and indicated when:
+	* Respiratory acidosis
+	* Severe dyspnoea with signs of fatigue
+	* Persistent hypoxaemia despite supplemental oxygen
+* Home oxygen  
+Indicated in patients with severe resting hypoxia (PaO<sub>2</sub> <60mmHg, or ⩽55mmHg with cor pulmonale or pulmonary hypertension).
+
+
+Surgical Management:
+* Lung volume reduction surgery  
+Improves survival in severe upper-lobe emphysema and low post-rehabilitation exercise capacity.
+* Bullectomy  
+Improves dyspnoea, lung function, and exercise tolerance is selected patients.
+* Transplantation  
+Improves quality of life in selected patients with very severe COAD.
+* Bronchoscopic interventions  
+Includes coils and endobronchial valves, and improves exercise tolerance and lung function at 6-12 months following treatment.
+
 
 ###Anaesthetic Considerations
 * B
@@ -113,6 +187,8 @@ Oral corticosteroids may be required in advanced disease.
 ###Ineffective Therapies
 ##Complications
 ##Prognosis
+Lung cancer is frequently seen and is the major cause of death.
+
 ##Key Studies
 
 ---

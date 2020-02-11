@@ -74,6 +74,17 @@ Key Considerations:
 		* Aim surgery as **first on a morning list**  
 		Minimises disruption to fasting.
 
+
+###Perioperative Management
+General Principles:
+* Place patient first on an AM list
+* Withhold PO hypoglycaemics  
+Varies depending on size of operation and drug.
+* Adjust insulin dosing  
+Depends on timing of list.
+* 
+
+
 ###Perioperative Oral Hypoglycaemic Management
 |Class|Generic Name|Recommendation|Rationale|
 |---|---|
@@ -82,7 +93,7 @@ Key Considerations:
 |Glitazones|Rosiglitazone, Pioglitazone|Withhold day of surgery||
 |GLP-1 agonists|Exanatide|Withhold day of surgery||
 |DPP-4 inhibitors|Sitagliptin|Withhold day of surgery|Alter GI motility|
-|SGLT-2 inhibitors|Dapagliflozin, canagliflozin, empagliflozin|Withhold for 3 days prior. Measures ketones, if **>0.6** then measure BE and delay surgery. If >1.5mmol/L then treat for euDKA.|Euglycaemic DKA|
+|SGLT-2 inhibitors|Dapagliflozin, canagliflozin, empagliflozin|Withhold for 3 days prior. Measures ketones, if **>0.6-1** then measure pH and BE and delay surgery. If acidotic and unwell, then treat as euglycaemic DKA and refer to endocrinology.|Euglycaemic DKA|
 
 ###Perioperative Insulin Management
 Management of insulin depends on:
@@ -108,10 +119,7 @@ Management of insulin depends on:
 	IV preferable to maintain fasting status.
 	* Notify anaesthetist
 	* Recheck BSL every 15 minutes
-* ⩽6 mmol/L and the patient is fasting  
-Treat:
-	* Give glucose
-* ≥12 mmol/L and the patient is fasting  
+* ≥10 mmol/L and the patient is fasting  
 	* IDDM  
 	Give rapid acting insulin as per [sliding scales](#slide).
 
