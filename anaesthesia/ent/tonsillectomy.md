@@ -2,7 +2,7 @@
 
 >Airway: Requires either a south RAE, reinforced ETT, or flexible LMA. <br>
 >Access: 22G-18G, depending on  age.<br>
->Pain: Moderate; see below. <br>
+>Pain: Moderate; usually worst at day 5-7. <br>
 >Position: Supine, head elevated with neck extended. <br>
 >Time: 30-60min. <br>
 >Blood loss: Usually minimal; ~4ml/kg in children. May be difficult to estimate if blood enters stomach.<br>
@@ -33,6 +33,15 @@ Primary pathology may affect choice of premedication, opioids, and choice of dis
 		Generally **avoid premedication** in paediatric cohort.
 		* Post-operative destination  
 		* Awake vs. deep extubation
+	* Risk factors for post-operative apnoea
+		* Age ⩽3
+		* Moderate-severe OSA
+		* Overnight nadir SpO<sup>2</sup> ⩽90%
+		* Ex-premature
+		* Under/overweight
+		* Syndromic
+		* Recent RTI/asthma
+		* Intraoperative desaturation
 * G
 	* PONV prevention  
 	Suggest 0.5mg/kg of dexamethasone.

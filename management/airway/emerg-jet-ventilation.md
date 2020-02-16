@@ -10,8 +10,8 @@ Transtracheal jet ventilation is the delivery of oxygen via a cannula placed in 
 * Rescue technique in CICO situation  
 Intermediate technique prior to definitive surgical airway.
 * Anticipated difficult airway
-	* Provides additional safe apnoea ime
-	* *May* improve larygoscopic view and tube passage by opening the glottis
+	* Provides additional safe apnoea time
+	* *May* improve laryngoscopic view and tube passage by opening the glottis
 * Laryngeal and oral surgery
 
 ##Contraindications
@@ -63,7 +63,7 @@ Jet ventilation:
 
 * Pressure related:
 	* Pneumothorax
-	* Pneumoediastinum
+	* Pneumomediastinum
 	* Subcutaneous emphysema
 	May be significant or minor.
 		* May occur due to:

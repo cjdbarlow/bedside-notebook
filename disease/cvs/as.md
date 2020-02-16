@@ -65,6 +65,8 @@ Most common congenital cardiac malformation.
 
 
 ##Clinical Manifestations
+> 50% of patients with severe AS do not report symptoms
+
 Symptoms:
 * Include:
 	* Angina  
@@ -86,6 +88,7 @@ Signs:
 	* May disappear in LV failure as flow through the valve orifice decreases
 
 
+
 ##Diagnostic Approach and DDx
 ##Investigations
 ECG:
@@ -101,6 +104,8 @@ Echocardiography:
 Identifies thickening, impaired mobility, congenital abnormalities, and calcification of valve leaflets.
 
 ##Management
+> Asymptomatic patients should be monitored for progression of AS or deteriorating LV function that would indicate requirement for AVR
+
 ###Anaesthetic Considerations
 * C
 	* Lesion assessment  
@@ -125,7 +130,24 @@ Due to annular dilatation.
 
 
 ##Prognosis
+Asymptomatic severe AS:
+* Annual decrease in AVA is ~0.1cm<sup>2</sup>/year
+* Median time to symptom development is 1-4 years
+* Within 5 years:
+	* 2/3<sup>rds</sup> will develop symptoms
+	* 75% will have died or had valve replacement
+
+
+Symptomatic severe AS:
+* Very poor prognosis without AVR
+* Mortality rapidly increases once symptoms develop  
+	* Mean survival 0.5-2.8 years after onset of cardiac failure
+	* Mean survival 0.8-3.8 years after onset of syncope
+	* Mean survival 2-4.7 years after onset of angina
+* Pulmonary hypertension is an additional risk factor and worsens prognosis after valve replacement
+
 
 ---
 ##References
 1. Brown J, Morgan-Hughes NJ. [Aortic stenosis and non-cardiac surgery](https://academic.oup.com/bjaed/article/5/1/1/339852). Contin Educ Anaesth Crit Care Pain. 2005;5(1):1-4. doi:10.1093/bjaceaccp/mki001
+2. Généreux P, Stone GW, O’Gara PT, et al. Natural History, Diagnostic Approaches, and Therapeutic Strategies for Patients With Asymptomatic Severe Aortic Stenosis. J Am Coll Cardiol. 2016;67(19):2263-2288. doi:10.1016/j.jacc.2016.02.057

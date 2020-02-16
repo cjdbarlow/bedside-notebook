@@ -1,13 +1,15 @@
 #Massive Transfusion
 
+> Definitions are not practical as they are all retrospective
+
 Various definitions which include:
 * 10 PRBC in 24 hours
 * Whole blood volume in 24 hours
-* >50% of blood volume in 4 hours
+* ⩾50% of blood volume in 4 hours
 
 ##Epidemiology and Risk Factors
 Predicting massive transfusion:
-* Assessment of Blood Consumption (ABC Score)
+* Assessment of Blood Consumption (ABC Score)  
 ⩾3 factors suggests 85% likelihood of MTP.
 	* HR ⩾120
 	* SBP ⩽90

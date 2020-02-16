@@ -25,7 +25,7 @@ Provision of regional anaesthesia for a [caesarian section](/luscs.md):
 	Used when a working epidural is already present  
 		* Easy
 		* Greater haemodynamic stability at cost of slower onset  
-		The poorer the intitial block, the harder it is to top up.
+		The poorer the initial block, the harder it is to top up.
 		* Generally poorer block than spinal
 		* Additional top-up can be given intraoperatively
 		* Epidural can be used for post-operative analgesia
@@ -128,6 +128,9 @@ May be added to improve analgesia intra- and post-operatively.
 			For elective procedures.
 			* Convert to GA  
 			For emergency procedures.
+* Post-operative analgesia
+	* Consider 1.5mg epidural morphine during skin closure for post-operative analgesia  
+	Avoid if any suspicion of intrathecal catheter.
 
 ###Combined Spinal-Epidural{#cse}
 * Sit patient up

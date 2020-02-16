@@ -194,7 +194,7 @@ Complete a pre-wean checklist and confirm:
 	* pH is 7.35-7.45
 	* Potassium 4.5-5mmol/L
 * H:
-	* Hct > 0.2
+	* Hb > 70
 
 
 ##Weaning from CPB
@@ -284,24 +284,33 @@ i.e. if aorta or cardiac chambers opened.
 
 ###Difficulty Weaning from Bypass
 Assess cause; may be:
-* Expected:
-	* Poor LV function
-	* MVR
-	* Ventriculotomy
-	* Increased bypass and x-clamp time
-	* Emergence surgery
-* Unexpected
+* Rate/rhythm
+	* Conduction failure
+	* Failure of pacing
+* Preload
+	* Inadequate volume
+	* Tamponade
 	* Bleeding
-	* Surgical complications
-	* Bleeding
-	* Valve problems
-	* Graft problems
-* Arrhythmia
-* Vasodilation
-* Hypotension
-* Hypoxia
-* Hypercarbia
-* Protamine reactions
+* Contractility
+	* Ischaemia  
+	Look for new RWMA.
+		* Graft occlusion/dysfunction
+		* Valve dislodgement
+		* Air embolus
+	* Myocardial stunning
+		* Long bypass time
+	* Metabolic
+		* Electrolyte abnormalities
+			* Residual cardioplegia
+		* Acidosis
+		* Hypothermia
+	* Pulmonary HTN and RV failure
+		* Hypoxia
+		* Hypercarbia
+		* Protamine
+* Afterload
+	* Vasoplegia
+	* Residual cardioplegia
 
 
 Check and optimise:

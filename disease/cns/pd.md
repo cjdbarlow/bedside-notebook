@@ -194,6 +194,34 @@ Deep Brain Stimulation:
 
 ###Ineffective Therapies
 ##Complications
+Parkinson Hyperpyrexia Syndrome:
+* Potentially fatal complication of withdrawal of antiparkinsonian medications leading to sudden suppression of central dopaminergic activity
+* Additional precipitants include:
+	* Neuroleptics
+	* Dehydration
+	* Hot weather
+* Presents 18-24 hours following the trigger
+* Clinical features include:
+	* Initial tremor, rigidity, and leads to immobility
+	* Later (24-72 hours) development of pyrexia and obtundation
+	* Autonomic dysfunction  
+	Tachycardia, labile BP, fever.
+* Treatment recommendations include:
+	* Replace antiparkinsonian medications
+		* Premorbid levodopa dose
+		* Dopamine agonists
+	* Supportive therapy
+		* HDU
+		* Cooling
+		* Consider dantrolene if rigidity not responding to other measures
+* Complications of the syndrome include:
+	* Aspiration pneumonia
+	* DVT/PE
+	* DIC
+	* Rhabdomyolysis
+	* Seizures
+
+
 ##Prognosis
 Progression subdivided into three stages:
 * Preclinical phase  
@@ -208,3 +236,4 @@ Symptoms manifest and recognisable.
 ---
 ##References
 1. Zesiewicz TA. Parkinson Disease. CONTINUUM: Lifelong Learning in Neurology. 2019 Aug;25(4):896. 
+2. Newman EJ, Grosset DG, Kennedy PGE. The Parkinsonism-Hyperpyrexia Syndrome. Neurocrit Care. 2009;10(1):136-140. doi:10.1007/s12028-008-9125-4

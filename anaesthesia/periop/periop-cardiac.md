@@ -26,7 +26,7 @@ Largely covered elsewhere, see:
 
 
 ###Risk Stratification
-> * Patients ⩾45 years of age, or 18-44 with known significant cardiac disease are most likely to benefit from thorough pre-operative risk assessment
+> * Patients **⩾45 years of age**, or 18-44 with known significant cardiac disease are most likely to benefit from thorough pre-operative risk assessment
 > * Patients with a perioperative MACE rate of **<1%** are considered **low risk**  
 > Do not require perioperative evaluation.
 
@@ -67,15 +67,19 @@ Useful thresholds:
 	RCRI preferred.
 * Dividing patients into:
 	* Low risk  
-	⩽1% chance of perioperative MI.
-	* High risk
-		* Consider:
-			* Investigations  
-			Echocardiography, stress testing.
-			* Cardiology consultation
-		* Monitoring troponin should be considered perioperatively   
+	⩽1% chance of perioperative MI or death.
+	* High risk  
+	*Consider*:
+		* Investigations  
+		Echocardiography, stress testing.
+		* Cardiology consultation
+		* Perioperative troponin monitoring  
 		Pre-operatively, as well as 24 and 72 hours post-operatively.
 
+
+Other predictors:
+* Heart failure  
+Correlates with poor outcome, even if well managed.
 
 ###Investigations:
 NT-proBNP/BNP:  

@@ -56,6 +56,13 @@ When answer a welfare question for the ANZCA Part II Exam; aim:
 	* Protect the doctor
 	* Short-term measures
 	* Long-term measures
+* **Legal question**
+	* Identify the issue
+	* State the legal and ethical principles that apply
+	* Apply principles to facts of case & balance conflicting arguments
+	* Make a conclusion
+		* Seek help
+	* Close the loop
 * **Regional technique**  
 Use the PRECIOUS mnemonic:
 	* Position

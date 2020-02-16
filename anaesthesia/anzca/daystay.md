@@ -36,16 +36,20 @@ Return to pre-anaesthesia levels of:
 	For those at risk of urinary retention.
 
 
+* **D**ischarge instructions
+	* Eating
+	* Drinking
+	* Follow-up plan
+	* Advice given as to when to resume driving, decision making
 * **O**ral intake tolerated
 * **P**arent or guardian
 	* Responsible individual available to supervise
+		* Not always feasible
+	* Ready access to telephone
 	* Have a transport vehicle  
-	Private car.
-* **S**urgical
-	* Haemostasis
-	* Follow-up plan
-	* Advice given as to when to resume driving, decision making
-
+	Private car, not a taxi driver.
+* **S**urgical requirements  
+e.g. Haemostasis.
 
 
 ##Quality Assurance

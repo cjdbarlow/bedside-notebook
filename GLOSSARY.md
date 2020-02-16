@@ -336,6 +336,9 @@ Haemoglobin
 ##HBOT
 Hyperbaric oxygen therapy
 
+##HFNO
+High-Flow Nasal Oxygen
+
 ##HIT
 Heparin-Induced Thrombocytopaenia
 

@@ -27,7 +27,7 @@ Roots merge together to form three trunks:
 * **Six divisions**  
 Three anterior and three posterior, which then re-merge to form the cords.
 	* Lie posterior and cephalad to the subclavian artery
-	* May be **imaged** either **supraclavicular** level.
+	* May be **imaged** at the **supraclavicular** level.
 * **Three cords**  
 Imaged wrapping around the axillary artery at the **infraclavicular** level, and include:
 	* Lateral cord

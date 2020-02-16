@@ -186,7 +186,18 @@ Sequential clamping of internal, external, and common carotid arteries above and
 
 
 ###Post-Operative
+Stroke:
+* Major concern
+* Neurology should be assessed early
+
+
 Hypertension:
+* Treat aggressively if **SBP >160mmHg**
+	* Hydralazine
+	* Labetalol
+	* Phentolamine
+	* **Avoid GTN**  
+	Headache and cerebral vasodilation is undesirable.
 * Multiple potential causes
 	* Disruption of baroreceptors
 	* Pain
@@ -194,7 +205,7 @@ Hypertension:
 
 
 Hypotension:
-* May occur from residual
+* Disruption of baroreceptors
 
 
 Neck haematoma:
@@ -206,12 +217,17 @@ Neck haematoma:
 * May require emergency airway management
 
 
-Cerebral hyperperfusion:
+Vocal cord palsy:
+* Vagal nerve/recurrent laryngeal nerve palsy  
+
+
+Cerebral Hyperperfusion Syndrome:
 * Occurs in 1-3% of carotid surgery  
 Associated with:
 	* HTN
 	* >80% stenosis
 	* Previous CVA
+* Occurs due to excessive flow through the now un-stenosed vessel
 * Cause of most ICH post-CEA
 * Presents as:
 	* Headache
@@ -219,6 +235,7 @@ Associated with:
 	* Impaired conscious state
 	* Up to 2 weeks post-operatively  
 	May occur in theatre or in recovery.
+* Unilateral cerebral oedema on CTB
 
 ---
 ##References

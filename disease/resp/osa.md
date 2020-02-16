@@ -57,12 +57,13 @@ Male.
 
 Interpretation:
 * Low risk  
-0-2 points.
+0-2 points; very high negative predictive value.
 * Moderate risk  
 3-4 points.
 * High risk  
 Any of:
-	* 5-8 points
+	* 5-8 points  
+	More likely than not to have severe OSA.
 	* 2 points + male
 	* 2 points + BMI
 	* 2 points + neck circumference 
@@ -150,8 +151,12 @@ Given as the **apnoea-hypopnoea index** (AHI), the **total number of apnoeas or 
 	* Mild: 5-15
 	* Moderate: 16-30
 	* Severe: ⩾31
+* Other useful values
+	* Minimum SpO<sub>2</sub>
+	* T90  
+	Time with SpO<sub>2</sub> <90%.
 * A highly involved study
-	* Waiting lists may be extensive
+	* Waiting lists may be extensive which makes it often impractical
 * An evaluation of multiple parameters:
 	* Infrared camera  
 	Monitors body position.
@@ -171,6 +176,19 @@ Given as the **apnoea-hypopnoea index** (AHI), the **total number of apnoeas or 
 	* Leg EMG  
 	Monitors leg movements.
 
+
+Overnight oximetry:
+* Easily accessible
+* Good correlation 
+* Grades **oxygen desaturation index** (ODI), counting an event as a fall in SpO2 by (usually) **⩾4%** 
+	* ⩽5/hr: Normal
+	* 5-15: Mild
+	* 16-30: Consider treatment
+	* >30: Recommend CPAP
+
+ABG:
+* Respiratory acidosis/Metabolic alkalosis  
+Evaluating for presence of obesity hypoventilation syndrome.
 
 FNE:
 * Allows assessment of oral and nasal cavity
@@ -196,6 +214,10 @@ Surgery:
 	~54% reduction in AHI. Usually combined with another procedure.
 
 ###Anaesthetic Considerations
+>* Respiratory and cardiac risk is elevated perioperatively  
+> Risk is substantially elevated with unrecognised severe OSA; up to 14x risk of cardiac death, 7x risk of CCF, 3x risk of pneumonia, 2x risk of sepsis, etc.
+> * Treating patients with OSA in the perioperative period appears effective in decreasing their perioperative risk
+
 * A
 	* CPAP available  
 	Ensure CPAP or BiPAP device that the patient uses is brought to hospital and used perioperatively.
@@ -206,12 +228,17 @@ Surgery:
 		* Aspiration pneumonia
 		* ARDS
 		* PE
+		* Reintubation  
+		Double risk.
 	* Treatment prior to surgery may decrease perioperative risk
 	* Perioperative respiratory monitoring is reasonable  
 	Lacks strong evidence base.
+* C
+	* Increased CVS complications  
+	1.5-2x rate of cardiac complications.
 * D
 	* No clear evidence for general anaesthesia or regional anaesthesia (or vice versa)
-	* Sensitive to CNS depressants: may preciptiative airway collapse
+	* Sensitive to CNS depressants: may precipitate airway collapse
 		* Anaesthetic agents
 		* Benzodiazepines
 		* Opioids
@@ -239,10 +266,22 @@ Due to changed autonomic tone.
 		Due to hypoxia.
 		* Increased transmural pressure from more neagative intrathoracic pressure due to inspiratory effort against upper airway obstruction
 
+
+Obesity Hypoventilation Syndrome:
+* Present in 15%
+Risk increases BMI, >50% with BMI >50.
+	* Requires HDU monitoring post-operatively
+	* CPAP pre-operatively for stabilisation
+
+
 Multiple associations with:
 * Hypertension
 * CVA
 * MVA
+
+
+##Prognosis
+
 
 ---
 ##References

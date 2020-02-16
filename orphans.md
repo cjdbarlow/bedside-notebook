@@ -257,3 +257,231 @@ Difference in care outside of the intervention.
 ##Odds and risk
 * RR is a ratio of rates, and expresses comparative likelihoods of events between populations
 * OR is a ratio of odds, looking at relative likelihoods of events given EXPOSURES
+
+##Post resuscitation care
+CO2; aim 50-55
+O2: aim low normal
+Temp: 33 to 36 degrees
+SBP >100
+Control glucose
+
+
+##Ventilation strategy
+* PEEP 14-16 well tolerated and seems greatest bang for buck with damaged lung
+* Automated recruitment on GE machines
+* Benefit seen in ARDSnet but reversed in ROSE; probably because ventilator dyssynchrony reduced with better ventilators and ventilation modes
+* PCV maximises driving pressure throughout the entire breath
+	* Alveoli peak early due to high pressure gradient in proximal airway
+	* Higher initial flow
+	* More of Vt delivered early in inspiratory cycle
+	* Vt better distributed among alveoli with different time constants
+
+
+##Hyponatraemia & friends
+John Reeves talk:
+* Diagnose based on osmoles
+* Treat based on volume
+* Urinary sodium is a function of the bodies impression of its volume state
+* Hiller Am J Med 1999 correcting sodium; rule of thumb; for every 3mmol/L increase in BSL the sodium will fall by 1  
+Corrected sodium useful to assess total volume deficit; e.g. in DKA, look at difference between corrected sodium and normal sodium, normal sodium deficit.
+* Acute kidney injuries, the urea and creatinine rise proportionally
+* Chronic kidney failure, the creatinine rises disproportionately to the urea
+* Random conditions, the urea will rise disproportionately to the creatinine
+	* Water depletion
+	* GI haemorrhage
+	* Catabolism
+	* Pulse steroids
+
+Liver function:
+* INR best index of rapid progression
+* Albumin and globulins indicators of synthetic function
+* ALP and GGT indicate duct damage
+* Transaminases detect hepatocyte damage
+
+
+* HCO3 should move 2mmol/L for each 10mmHg change in CO2
+
+
+##Ethics
+Ethical practice:
+* Autonomy  
+Right to make own decisions. Advanced care directive is to defend autonomy when they no longer have capacity.
+	* Opposite is paternalism  
+	Any restriction of a patients autonomy, motivated or presented as being justified by interest in the patients well-being.
+* Beneficence  
+The duty to do the best for the patient.
+	* Duty to do good
+	* Difficult to decide what is best?  
+	Patient, doctor, hospital administration, etc.
+* Non-maleficence  
+Duty to do no harm.
+	* Doctrine of double effect  
+	Intended good effect morally outweighs negative effects, provided that negative effect is not intended, even if it is foreseen. 
+		* The action itself must be morally indifferent or morally good
+		* The bad effect must not be the means by which the good effect is achieved
+		* The motive must be the achievement of the good effect
+		* The good effect must be at least equivalent in importance to the bad effet
+	* Can be tested with the **Sulmasy test**  
+	e.g. IN palliative care; if the patient did not die as a result of my actions, would I feel I achieved what I set out to do? If no, then okay.
+* Justice
+	* Distribute justice  
+	Fair distribution of scarce resources. Many ways to define fair:
+		* Equal share
+		* By need
+		* By effort
+		* By contribution
+		* By merit
+		* By free-market exchanges
+	* Rights based justice  
+	Respect for peoples rights.
+* Fidelity  
+Act in ways that are loyal.
+	* Role fidelity  
+	Act appropriately to your job.
+* Utility  
+Greatest good for greatest number.
+
+
+
+Research ethics:
+* Nuremberg code
+	* Voluntary, informed
+	* Results cannot be obtained in another way
+	* Justifiable research
+* Principles required for research:
+	* Voluntary informed consent
+	* Consent withdrawn at any time
+	* Protection for vulnerable populations
+	* Risk vs benefit
+	* Ethics committee approval
+	* Discontinuation
+	* Placebo use
+	* Confidentiality
+* Role of ethics committees
+	* Ensure methodological validity
+	* Question is valid and of value
+	* Ethical principles maintained
+	* Consent
+	* Privacy and record keeping
+	* Risk vs benefit and harm minimisation
+	* Monitoring, reporting, approvals, termination
+* Ethical considerations for placebos
+	* For
+		* Methodologically robust
+		* Active treatment may be no better
+		* Easier to demonstrate effect -> smaller size -> less risk
+	* Against
+		* New treatment may be better than nothing
+		* Suffering due to withholding existing treatment
+		* Psychological harm
+* Ethical considerations for active control orthodoxy
+	* For
+		* Unethical to deny existing effective treatment
+		* Research question should be is the new intervention better than the existing one
+	* Against
+		* Harder to get the correct answer
+		* Harm may be small or non-existent with placebos
+		* More participants = more potential harm
+* Compromise
+	* Placebo for
+		* Minor ailments
+		* No existing procedure
+	* Orthodexy with
+		* Serious condition
+		* Risk of harm
+		* Proven treatment
+
+
+##Failure to breath in recovery
+Reduced respiratory drive:
+* Drugs
+* Metabolic
+* CNS
+* Anaesthetic drugs
+
+
+Respiratory muscle function:
+* Residual NMB
+* Pain
+* Obesity
+* NM disease
+
+
+Pulmonary dysfunction:
+* COAD
+* Bronchospasm
+* Pneumothorax
+
+
+Relative:
+* Shivering
+* Sepsis
+* MH
+
+
+##Hypertension in Recovery
+Pain
+* Bladder
+Pre-existing
+
+
+Metabolic:
+* Hypoxia
+* Hypercarbia
+* Hypothermia
+
+
+Drugs:
+* Vasopressors
+* Interactions
+* Withdrawal
+
+
+Others:
+* Raised ICP
+* MH
+* Autonomic dysreflexia
+* PET
+
+
+DDx:
+* Spurious measurement
+* Normal
+
+
+##Hypoxia Aetiology
+Low FiO2:
+* Diffusion hypoxia
+
+
+Hypoventilation:
+* Drugs
+* UAO
+* Residual paralysis
+* Pain
+* Respiratory alkalosis
+
+
+Pulmonary:
+* Residual anaesthesia
+* Aspiration
+* Atelectasis
+* Obesity
+* APO
+* Pre-existing disease
+
+
+Cardiac:
+* Low CO states
+* Shivering (Higher DO2 requirements)
+
+
+##Massive Transfusion
+* Thawed plasma keeps for 5 days
+* Give calcium with first unit and every 4 units thereafter
+
+
+##Central Cord Syndrome
+* Upper limb weakness > lower limb weakness
+* Sometimes just burning or tingling of hands
+* Often associated with bladder dysfunction/urinary retention

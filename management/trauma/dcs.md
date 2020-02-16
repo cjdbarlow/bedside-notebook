@@ -22,7 +22,7 @@ Severely injured patients with multisystem trauma, generally indicated by:
 	* Persistent cellular shock
 		* pH <7.2
 		* BD >15mmol/L
-		* lactate >5mmol/L
+		* Lactate >5mmol/L
 		* O<sub>2</sub> consumption index <100ml/ml/m<sup>2</sup>
 		* New ventricular arrhythmia
 * Inability to control bleeding
@@ -124,7 +124,7 @@ Methods:
 ###Definitive Repair
 > Usually begins 24-48 hours after initial injury
 
-Definitive repair of previously temporised injuries, includign:
+Definitive repair of previously temporised injuries, including:
 * Removal of packs
 * Anastomosis or externalisation of discontinued bowel
 * Removal of vascular shunts and definitive vascular repair

@@ -46,9 +46,9 @@ Key symptoms are:
 * Dyspnoea  
 Graded using the mMRC scale.
 
-###Modified MRC Scale
+###Modified Medical Research Council (MRC) Scale
 
-|Grade|Breathlessness|
+|MRC Grade|Breathlessness|
 |--|--|
 |**Grade 0**|Only with strenuous exercise|
 |**Grade 1**|When hurrying or a slight incline|

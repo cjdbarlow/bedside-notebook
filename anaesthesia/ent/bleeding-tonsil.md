@@ -31,6 +31,8 @@ Adverse outcomes include:
 		* **Airway maintained?**
 		* **Active bleeding?
 		* **Conscious state?**
+		* Previous grade of laryngoscopy  
+		Usually will **drop one grade**.
 * B
 	* Aspiration risk
 		* Blood in airway
@@ -44,12 +46,13 @@ Adverse outcomes include:
 * G
 	* Fasting status  
 	May be unfasted. Blood in stomach is profoundly emetogenic.
+	* Pre-induction nasogastric tube if possible
 * H
 	* Anaemia
 
 ##Preparation
 * Standard ANZCA monitoring
-* Consider invasive montitoring
+* Consider invasive monitoring
 
 
 * A
@@ -57,8 +60,9 @@ Adverse outcomes include:
 	* RAE or reinforced ETTs
 	* Two laryngoscope blades
 	* Consider video laryngoscopy
+	* Size-smaller tube
 * C
-	* Volume resuscitate prior
+	* **Volume resuscitate prior**
 * H
 	* Ensure G+H sent and available
 	* Consider blood
@@ -79,12 +83,14 @@ Drug choice dependent on haemodynamic stability.
 ##Emergence
 * **Awake extubation** preferred  
 Requires intact laryngeal reflexes.
+* **Antiemetics**
 
 ##Postoperative
 Consideration of **ICU** admission if:
 * High volume transfusion
 * Difficult airway
 * Haemodynamic instability
+
 
 ---
 ##References

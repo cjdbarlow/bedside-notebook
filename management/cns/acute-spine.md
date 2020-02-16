@@ -30,10 +30,13 @@ Distributive shock process due to loss of sympathetic tone:
 Spinal cord injury causing sympathectomy, leading to relative parasympathetic overactivity.
 
 ##Clinical Manifestations
+> Beware the **rising lesion** - an increase in spinal cord injury level occurring with spinal cord oedema, which may precipitate respiratory failure
+
 ##Diagnostic Approach and DDx
 ##Investigations
 ##Management
 > * Avoid secondary injury by preventing hypoxia and hypotension
+> * Early fixation does not improve neurology, but it does permit immediate rehabilitation and overall improves outcome
 
 * A
 	* May have unstable c-spine or require immobilisation
@@ -50,19 +53,22 @@ Spinal cord injury causing sympathectomy, leading to relative parasympathetic ov
 * C
 	* Maintain spinal cord perfusion  
 		* **MAP 85-90mmHg**
-		* Avoid SBP < 90.
+		* Avoid SBP ⩽90mmHg
+		* Usually resting SBP 60-80mmHg
 	* Neurogenic shock  
 	Maintenance of blood pressure crucical to prevent ongoing secondary injury.
 		* HR  
-		Bradycardia may require atropine or pacing.
+		**Bradycardia may require atropine** or pacing; especially with **vagal response to intubation**.
 	* [Autonomic dysreflexia](/management/cns/autonomic-dysreflexia.md)
 * E
 	* Temperature control  
 	Vasodilation and excessive heat loss below the injury.
+	* **Pressure injury prevention**
 * F
 	* Electrolyte disorders  
 		* Hyponatraemia  
 		Common, likely due to RAS dysfunction due to reduced renal sympathetic tone.
+	* Urinary retention
 * G
 	* Delayed gastric emptying
 	* Constipation
@@ -73,10 +79,10 @@ Principles:
 * MILS  
 Reduces amount of c-spine movement during airway management. MILS:
 	* Involves:
-		* Stabilisation of the head by an assiant
+		* Stabilisation of the head by an assistant
 		* Assistant holds the mastoid processes and occiput steady  
 		May be done from from or back.
-	* Increases the rate of failed airway maangement
+	* Increases the rate of failed airway management
 * Use of airway adjuncts  
 Use for mask ventilation to reduce:
 	* Requirement for c-spine movement
@@ -94,7 +100,6 @@ Use for mask ventilation to reduce:
 			* Requires sedation  
 			Limits post-intubation neurological assessment.
 		* Asleep FOI
-			* R
 	* Not using cricoid pressure  
 	May worsen injury.
 

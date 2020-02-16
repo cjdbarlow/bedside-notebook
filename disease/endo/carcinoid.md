@@ -3,14 +3,16 @@
 Neuroendocrine tumour that:
 * May occur from any neuroendocrine cell  
 Found in many tissues; tumour incidence depends on neuroendocrine cell density. May arise in:
-	* Small intestine  
-	40%.
-	* Rectum  
-	27%.
-	* Stomach  
-	10%.
-	* Bronchopulmonary tree  
-	~25%.
+	* Lung  
+	~25%. Technically only neuroendocrine tumours of the lung should be called carcinoid tumours.
+	* GIT  
+	Should be referred to as neuroendocrine tumour (NET). May occur in:
+		* Small intestine  
+		40%.
+		* Rectum  
+		27%.
+		* Stomach  
+		10%.
 * Contain neuroendocrine cells and secrete biological amines
 	* Serotonin  
 	Most commonly.
@@ -38,14 +40,15 @@ Derived from neuroendocrine cells:
 >* Many are asymptomatic and found incidentally due to long lead time to diagnosis
 >* Average time from diagnosis to symptoms is 8 years
 
-Presentation varies depending on location:
+Presentation may be from **mass effect** or **carcinoid syndrome**, and varies depending on location:
 * Pulmonary
 	* Pneumonia
 	* Cough
 	* Haemoptysis
 	* Chest pain
 * Gastric
-	* Zollinger-Ellison syndrome
+	* Zollinger-Ellison syndrome  
+	Peptic ulcers occurring due to excessive acid production, in turn occurring due to a gastrin-producing tumour.
 	* Atrophic gastritis
 * Bowel
 	* Mass effect
@@ -67,17 +70,20 @@ Associated with:
 	* Exercise
 	* Tyramine ingestion  
 	Cheese, chocolate.
-* Symptoms include
+* Common symptoms:
 	* Flushing
 	* Diarrhoea
+* Less common symptoms:
 	* Lacrimation
 	* Rhinorrhoea
-	* Right-sided valvular heart disease  
-	Retraction and fixation of valve leaflets.
-		* Occurs due to chronic elevation of 5-HT
-		* Occurs in 2/3<sup>rds</sup> of carcinoid syndrome
-		* Increases perioperative complications
 
+
+###Carcinoid Heart Disease
+Development of characteristic cardiac lesions, associated with high circulating 5-HT. Classically **right-sided endocardial thickening**:
+* Leads to retraction and fixation of valve leaflets
+* TR near-universal
+* TS, PR, and PS may occur
+* Left sided disease may occur in the presence of an intracardiac shunt (e.g. PFO), that leads to serotonin entering left-sided chambers
 
 ###Carcinoid Crises
 Exaggerated form of carcinoid syndrome that is:
@@ -88,7 +94,8 @@ Exaggerated form of carcinoid syndrome that is:
 	* Bronchospasm
 	* Tachycardia
 	* Widely fluctuating BP  
-
+* Requires octreotide to control haemodynamics  
+0.5-1mg IV followed by infusion of 50-200μg/hr.
 
 
 ##Diagnostic Approach and DDx
@@ -110,10 +117,7 @@ CT:
 	* ECG
 	* TTE
 	* Cardiac disease
-		* Biventricular failure  
-		* Valvular disease
-			* TR
-			* PS
+		* **Carcinoid cardiac disease**
 		* **Coronary spasm**
 		* **Erratic BP**  
 		Hypo- or hypertensive crises may:

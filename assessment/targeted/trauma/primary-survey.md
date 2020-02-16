@@ -12,8 +12,10 @@
 The primary survey follows the **CABCD** approach:
 * **Safe Approach**  
 Ensure the approach to the patient is safe.
+
+
 * **C**  
-Control of massive external haemorrhage.
+Catastrophic haemorrhage control.
 	* Control of immediately life threatening bleeds only
 	* Typically applies to extremety trauma  
 	* Interventions  

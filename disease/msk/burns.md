@@ -83,7 +83,7 @@ Remember to exclude superficial burns.
 Key principles:
 * Fluid resuscitation
 * Transfer to burns centre
-	* >10% BSA or >5% full thickness
+	* ⩾10% BSA full thickness, ⩾5% in children
 	* Burns to key areas
 		* Face
 		* Hands
@@ -192,6 +192,7 @@ Optimisation and complication management:
 		* Prepare for **massive transfusion**  
 		Hard to overtransfuse.
 			* Hb >100g/L prior to procedure ideal
+			* ABG every half hour to measure Hb
 		* **Tumescent preparation**  
 		1:500,000 adrenaline infiltrated widely subcutaneously under sites prior to debridement results in substantial reduction in blood loss without adverse effect on graft success.
 		* Bleeding will continue post-operatively

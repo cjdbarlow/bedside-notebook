@@ -4,7 +4,8 @@ Dramatic physiological changes occur following clamping of the descending aorta:
 * Exact haemodynamic responses vary depending on the level
 	* Supra-coeliac clamping consistently redirects blood flow and has predictable responses  
 	Requires a potent vasodilator; e.g. GTN or SNP.
-	* Infra-coeliac clamping is inconsistent, but less dramatic
+	* Infra-coeliac clamping is inconsistent, but less dramatic  
+	Usually will **not** require vasoactives.
 
 ##Physiology of Clamping
 Immediate effects:
@@ -30,6 +31,7 @@ Effect varies depending on **capacity to ↑ coronary flow** in the setting of �
 	* Inadequate coronary supply  
 	Diastolic dysfunction, ↑↑ LVEDP, ↓ CO.
 * ↑ Myocardial oxygen consumption
+
 
 Short-term effects:
 * ↓ Global oxygen consumption  

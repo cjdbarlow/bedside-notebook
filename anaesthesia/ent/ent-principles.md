@@ -4,24 +4,52 @@
 >Anaesthetic management has to adapt to surgical concerns.
 >* 40% of difficult airway cases in NAP4 were ENT
 
-Anaesthesia for ENT surgery requires:
-* Appreciating the **shared airway**
-* Understanding the **pathology**  
-**Pathology determines** the:
-	* Surgical approach and technique  
-	This dictates the:
-		* Potential options for **airway management**  
-		Anaesthetic techniques has to facilitate surgery.
-		* Surgical requirements
-			* Laser  
-			See [laser safety](/anaesthesia/considerations/laser-safety.md).
-			* Head motion/position
-			* Use of **nerve monitoring**  
-			Requires avoidance of muscle relaxation.
-			* Airway access  
-			Often airway is inaccessible during surgery.
-	* Likelihood of difficult airway  
-	Airway compromise is common in these patients.
+General principles for anaesthesia for ENT surgery requires:
+* Appreciating the **shared** and **remote airway**
+	* Limited access
+	* Casual surgical vandalism
+		* Dislodgement
+		* Eyes
+		* Lips
+		* Teeth
+* Anaesthetic technique
+	* Tube
+		* ETT
+		* MLT
+		* Hunsaker Monjet  
+			* Basket assists central direction of jet
+			* Should be placed >7.5cm post the cords so the monitoring port is at an adequate depth  
+			Monitoring port easily blocked or kinked.
+		* Laser-resistant
+	* Tubeless  
+	HFNO, and either:
+		* Apnoeic  
+		* Spontaneously ventilating  
+			* Propofol infusion and HFNO
+			* Technically difficult to achieve
+			* Hypercapnoea will occur and may be problematic in long cases
+			* Avoid in:
+				* Hypertensive patients
+				* Obese patients
+				* Unwell patients 
+	* [Jet ventilation](/anaesthesia/ent/jet-vent.md)
+		* Supraglottic  
+		Low-frequency, manual jet ventilation.
+		* Tracheal  
+		Can be high frequency and automated.
+	* **Awake tracheostomy**  
+		* For:
+			* Critical upper airway obstruction  
+			Consider under LA.
+			* Predicted difficult intubation
+			* Failed intubation
+			* Predicted difficult extubation
+			* Failed extubation
+			* Often time critical
+		* Assess investigations and imaging
+		* Second pair of hands
+			* ENT surgeon
+		* **Maintain** spontaneous respiration
 * Good **analgesia** plan  
 Surgery may often be highly stimulating intraoperatively, but post-operative pain may be minimal.
 	* High dose fentanyl for major ENT surgery
@@ -52,13 +80,29 @@ Straining or coughing during emergence can increase bleeding, disrupt repairs, o
 
 
 
-##Pathology
-Glottic Lesions:
+##Laryngeal Surgery
+Anaesthesia for laryngeal lesions requires **understanding the pathology**, as this determines:
+* Surgical approach and technique  
+This dictates the:
+	* Potential options for **anaesthetic** and **airway management**  
+	* Surgical requirements
+		* Laser  
+		See [laser safety](/anaesthesia/considerations/laser-safety.md).
+		* Head motion/position
+		* Use of **nerve monitoring**  
+		Requires avoidance of muscle relaxation.
+		* Airway access  
+		Often airway is inaccessible during surgery.
+* Likelihood of difficult airway  
+Airway compromise is common in these patients.
+
+
+###Glottic Lesions
 * Location
 	* Anterior  
-	Usually amenable to ETT if tracheal inspection not required.
+	Usually amenable to **MLT**/ETT if tracheal inspection not required.
 	* Posterior  
-	Not amenable to ETT, requires either jet or apnoeic oxygenation.
+	Not amenable to ETT, requires either **jet** or **apnoeic** (tubeless) oxygenation.
 * Type of pathology
 	* Papilloma
 		* Laser
@@ -70,122 +114,67 @@ Often worse:
 	* Oedema
 
 
-Subglottic Lesion:
+###Subglottic Lesion
 * Location
-	* Amenability to tracheostomy
+	* Amenability to **tracheostomy**
 	* Extent of lesion
 * Airway usually improved on completion of surgery
 
 
-Supraglottic Lesion:
+###Supraglottic Lesion
 * Often straightforward larynx but view impeded by pathology  
-Often need some alternative device:
+Often need some **alternative device**:
 	* VL
 	* FOI
-	* Role of awake tracheostomy
+	* Awake tracheostomy
 * Imaging
-* Nasendoscopy
+* Nasoendoscopy
 * Method of surgical treatment
 * State of airway on completion of surgery
 
-##Anaesthetic Techniques
-Key decisions:
-* Awake vs. Asleep
-* Apnoeic vs. Spontaneously ventilating
-* Surgical vs. non-surgical
+
+###Nasal Surgery
+Topical vasoconstrictors:
+* May precipitate profound hypertension  
+Beware **ischaemic heart disease**.
+	* Best managed with short-acting vasodilators
+	* Consider short acting β-blockers (e.g. esmolol) in patients already β-blockaded
+* Cocaine  
+Less commonly used. Up to 2mg/kg.
+* Adrenaline  
+Commonly used. Dose will depend on current haemodynamics.
 
 
-This gives an array of airway options:
-* Tube
-* Tubeless
-	* Apnoeic
-	* Spontaneously ventilating
-* Jet ventilation
-	* Supraglottic  
-	Low-frequency, manual jet ventilation.
-	* Tracheal
-* Awake tracheostomy
-
-###Tube
-*MLT ideal for anterior cord lesions, as the tube will tend to sit in the posterior glottis.*
-
-Options include:
-* ETT
-* MLT
-* Monjet
-* Laser-resistant
-
-###Tubeless:
-Apnoea:
-* HFNO
+Bloodless surgical field:
+* Particularly important for nasal surgery as this allows easier identification of anatomy and expedites the procedure
+* Aim:
+	* 5-10° head up
+	* Avoid hypercarbia
+	* Hypotensive anaesthesia  
+	Combination of lower SBP and HR ~60.
+		* Remifentanil TCI 3-4ng/mL usually excellent option for all of the above
+		* Consider adding esmolol, hydralazine, clonidine if unable to achieve this despite higher remifentanil use
 
 
-Spontaneous respiration:
-* Propofol infusion and HFNO
-* Technically difficult to achieve
-* Hypercapnoea will occur and may be problematic in long cases
-* Avoid in:
-	* Hypertensive patients
-	* Obese patients
-	* Unwell patients 
-
-	
-
-###Insufflation
-*Supraglottic ventilation usually required for posterior cord lesions.*
-
-Supraglottic:  
-* Jet kept in glottis and gas jetted through the glottis
-* Requires close communication with surgeon  
-Jet fired between laser pulses to prevent cord movement.
-* Requires paralysis
-* Pros:
-	* Cheap
-	* No tube in surgical field
-* Cons:
-	* No CO<sub>2</sub> monitoring
-	* Cannot use volatile
-	* Barotrauma  
-	Pneumothorax.
-	* Inadequate ventilation  
-	If aim is incorrect. Monitor:
-		* Sound
-		* Chest movement
-	* Movement of surgical field  
-	Can't ventilate whilst lasering.
-	* Malignancy  
-	Theoretical risk of spreading tumour cells.
-	* Risk of airborne contamination if **papilloma**; wear masks
+Nasal obstruction:
+* May be difficult o mask ventilate with a closed mouth in this patient population due to the nature of the surgery  
+OPA is helpful.
 
 
-Intratracheal:
-* Barotrauma
-* Inadequate ventilation
-* Cons:
-	* Expensive tube
-	* Tube in surgical field
+Airway:
+* Restricted access
+* Decide between oral RAE or flexible LMA depending on aspiration risk and comfort level with limited access
+* A well-fitting LMA will pool blood above and offer good protection to the airway
+	* Leak can be managed with switching to an alternate size or packing the mouth with a throat pack  
+	Leak will cause bubbles in the surgical field and be disruptive.
 
 
+Analgesia:
+* Usually minimal analgesia requirements post-procedure
 
-###Tracheostomy
-Awake tracheostomy in:
-* Critical upper airway obstruction
-	* Often time critical
-	* Careful assessment
-		* Patient
-		* Investigation
-	* Second pair of hands
-		* ENT surgeon
-	* Full range of equipment
-	* Consider tracheostomy under LA
-	* **Maintain** spontaneous respiration
-* Predicted difficult intubation
-* Failed intubation
-* Predicted difficult extubation
-* Failed extubation
-
-
-
+###Ear Surgery
+* Avoidance of nitrous  
+Usually contraindicated to prevent distension of the middle ear, but may (at times) be requested by the ENT surgeon.
 
 ---
 ##References

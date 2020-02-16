@@ -45,6 +45,8 @@ Presence and severity of symptoms depends on height of injury.
 	* Consider induction with vasopressor infusion
 	* Arterial line
 	* MAP within 20% of baseline
+	* Pulmonary oedema with overfilling  
+	Heart reliant on the Starling mechanism to increase cardiac output.
 * D
 	* Anaesthetic technique  
 	Consider [autonomic dysreflexia](/management/cns/autonomic-dysreflexia.md).

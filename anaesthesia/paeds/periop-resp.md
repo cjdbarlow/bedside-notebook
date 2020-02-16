@@ -21,7 +21,7 @@ Increased in prematurity, and decreases by ~11% per year of age.
 		* **FHx** of two or more relatives with asthma, eczema, or rhinitis
 	* Eczema
 	* Recent URTI  
-	Major risk factor for laryngospasm if within last 6/52, though first 2/52 are highest risk period.
+	Major risk factor for laryngospasm if within last **6/52**, though first 2/52 are highest risk period.
 		* **Croup** is especially high risk
 	* Passive smoke exposure
 * Fever ⩾38°C
@@ -97,6 +97,7 @@ Post-operative laryngeal oedema due to irritation from ETT. It:
 	* Tracheostomy  
 	If upper airway obstruction worsens.
 * Rebound may occur at ~2 hours
+
 
 ---
 

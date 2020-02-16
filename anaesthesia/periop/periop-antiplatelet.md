@@ -36,7 +36,8 @@ For secondary prevention:
 Stent types:
 * **Bare-metal stent** (BMS)  
 High rates of early stent thrombosis, but low rates of late and very-late stent thrombosis.
-	* Require **DAPT** for **minimum of 4 weeks** and **ideally 6 months**
+	* Require **DAPT** for **minimum of 4 weeks** and **ideally 6 months**  
+	Risk of progressive stent narrowing with early DAPT withdrawal.
 	* **Elective surgery** can be **considered one month** after insertion, **provided aspirin** is **continued**
 * **Drug-eluting stent** (DES)  
 Incorporate an anti-proliferative drug which delays endothelialisation.
@@ -49,7 +50,8 @@ Incorporate an anti-proliferative drug which delays endothelialisation.
 			* Improved risk profile
 			* Very low rates of early, late, and very-late ST  
 			Appropriate to use if surgery is expected within 4 weeks of PCI.
-	* Require **DAPT** for **minimum of 6 months**
+	* Require **DAPT** for **minimum of 6 months**  
+	High risk of cardiac death due to complete stent thrombosis with early DAPT withdrawal.
 	* **Elective surgery** should be performed:
 		* Ideally after **6 months**
 		* Can be considered after **3-6 months**
@@ -88,6 +90,7 @@ High-risk surgeries include:
 		* Restart and **reload** after 24-72 hours
 	* Continue aspirin if at all possible  
 	If ceasing aspirin, discuss with cardiology.
+
 
 |Drug|When to cease pre-operatively|Re-loading dose|
 |--|--|
