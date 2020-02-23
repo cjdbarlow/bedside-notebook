@@ -171,6 +171,27 @@ Pitfalls:
 	* Poor integration of investigations to history and examination
 
 
+###Medical Viva
+Assessment:
+* Demographics
+* Severity and Stability
+* Symptoms and Signs
+* Impact on function
+* Risk factors
+* Treatment and treatment adherence
+
+
+Present:
+* Demographic details  
+Age, sex.
+* Stability and severity of disease  
+Use a scoring system or give a general impression.
+* History and examination findings supporting severity grading  
+Relevant positive and negatives.
+* Complications and common comorbidities
+* Risk factors
+* Treatments
+
 ###Anaesthetic Viva
 Process:
 * A 'realistic' patient scenario which evolves overtime

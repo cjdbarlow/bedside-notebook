@@ -1,6 +1,15 @@
 #Fibreoptic Intubation
 
-Technique to secure a definitive airway in **a non-emergent** patient who has **expected difficult** laryngoscopy.
+Technique to secure a **a non-emergent** definitive airway in a patient who has **expected difficult** laryngoscopy. May be:
+* Nasal
+	* Better tolerated  
+	Avoids gag reflex; though this can be overcome with good topicalisation.
+	* Risk of bleeding  
+	Relatively **contraindicated** in the acute setting or if presence of airway compromise.
+* Oral
+	* Require better topicalisation
+	* Essentially requires an adjunct to be effective  
+	Ovassapian or Berman.
 
 
 Indications:
@@ -61,6 +70,7 @@ Sized appropriately to tube.
 	* Ovassapian  
 	Keeps scope in midline.
 		* Single size
+		* Increased failure rate compared to Berman
 	* Berman  
 	Keeps scope in midline and flange allows adjustment of view.
 		* Multiple sizes
@@ -74,9 +84,6 @@ Positioning:
 	* Patient sitting upright and facing the operator
 
 #Fibreoptic Intubation
-
-
-
 
 
 
@@ -104,7 +111,7 @@ Explanation:
 
 Sedation:
 * Oxygenate  
-	* Nasal prongs  
+	* High flow nasal prongs  
 	If oral FOI.
 	* Nasal cannula  
 	Through opposite nostril if nasal FOI.
@@ -166,7 +173,7 @@ If difficult, consider using an NPA to traverse nares:
 Oral technique:
 * Protect the scope
 	* Bite block
-	* Ovasappian
+	* Berman Airway
 	* Place ETT through teeth
 
 
@@ -201,12 +208,5 @@ Double set-up with unskilled assistant:
 
 ---
 ##References
-St Vincents FOI training manual
-
-
-
-
-
-
-
----
+1. Ahmad I, El‐Boghdadly K, Bhagrath R, et al. Difficult Airway Society guidelines for awake tracheal intubation (ATI) in adults. Anaesthesia. n/a(n/a). doi:10.1111/anae.14904
+2. St Vincents FOI training manual

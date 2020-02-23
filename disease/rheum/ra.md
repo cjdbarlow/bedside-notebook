@@ -1,0 +1,126 @@
+#Rheumatoid Arthritis
+
+Common chronic systemic inflammatory disorder
+
+##Epidemiology and Risk Factors
+Prevalence:
+* 1-2% of population
+* 3 times more common in women
+
+
+Associations:
+* Anglo-saxon
+* HLA-DR4 subtype  
+70% of cases.
+* Rheumatoid factor  
+80% of cases.
+* Family history
+* Food allergies/intolerances
+* Psychological stressors
+* Heavy metal exposure
+* Smoking
+
+##Pathophysiology
+###Aetiology
+##Clinical Manifestations
+Affected joints:
+* Wrists
+* Fingers
+* Neck
+* Shoulders
+* Elbows
+* Hips
+* Knees
+* Ankles
+* Feet
+
+
+Joint pain:
+* Morning stiffness
+* Fatigue
+* Weight loss
+* General malaise
+* Depression
+* Disability
+
+
+Examination:
+* Soft tissue swelling
+
+
+Extra-articular manifestations:
+* Respiratory
+	* Fibrosis
+	* Rheumatoid nodules
+	* Restrictive chest wall defect
+	* Pleural effusions
+* Cardiac
+	* Pericarditis  
+	With effusions and tamponade.
+	* Myocarditis
+	* Endocarditis
+	* Peripheral vasculitis
+	* Atherosclerosis and CAD
+* Renal
+	* CKD
+* Hepatic
+	* Hepatosplenomegaly
+	* Hypoalbuminaemia
+
+
+##Diagnostic Approach and DDx
+##Investigations
+##Management
+###Medical
+###Surgical
+###Anaesthetic Considerations
+* A
+	* Airway assessment
+		* Range of neck movement  
+		Paraesthesia or loss of sensation in the hands is concerning and warrants pre-operative radiographic investigation.
+		* TMJ dysfunction
+		* Cricoarytenoid involvement  
+		May cause dyspnoea, stridor, hoarseness, or severe upper airway obstruction.
+	* **Atlanto-axial subluxation**  
+	Potential risk of spinal cord injury.
+	* Subaxial subluxation  
+	Uncommon, leads to early symptoms of nerve impingement.
+* B
+	* Extra-articular respiratory disease
+		* Fibrosis
+		* Nodules
+		* Pleural effusions
+	* Extra-articular cardiac disease
+		* Peri/myo/endocarditis
+		* CAD
+		* Peripheral vasculitis
+* E
+	* Vascular access difficulties
+	* **Drug effects**
+		* Steroids
+		* Methotrexate  
+		Pulmonary toxicity.
+		* DMARDs  
+		Neutropaenia, thrombocytopaenia, aplastic anaemia, fibrosing alveolitis.
+		* Methotrexate  
+		Pulmonary fibrosis, hepatic cirrhosis.
+		* Gold  
+		Thrombocytopenia, haemolytic anaemia, nephrotic syndrome, myasthenia-like syndrome.
+		* Biologics
+			* Etanercept  
+			Flu-like symptoms, CNS demyelination.
+			* Infliximab  
+			Extrapulmonary TB.
+			* Adalimumab  
+			Flu-like symptoms, abdominal pain.
+			* Anakinra  
+			Flu-like symptoms, diarrhoea, nausea, thrombocytopaenia.
+
+
+###Ineffective Therapies
+##Complications
+##Prognosis
+##Key Studies
+
+---
+##References

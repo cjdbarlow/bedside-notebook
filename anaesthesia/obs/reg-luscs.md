@@ -148,50 +148,54 @@ As per [epidural top-up](#etu).
 
 
 ##Complications of Regional Techniques in Caesarian Section
-* Bradycardia
-	* May be due to vena cava compression or blockade of cardioaccelerator fibres
-	* Should be treated if <50 and associated with hypotension
-	* 200-400ug glycopyrrolate is the preferred agent  
-	Does not cross placenta.
+Bradycardia:
+* May be due to vena cava compression or blockade of cardioaccelerator fibres
+* Should be treated if <50 and associated with hypotension
+* 200-400ug glycopyrrolate is the preferred agent  
+Does not cross placenta.
+
+Nausea and vomiting: 
+* Predominantly due to hypotension
+* May be due to visceral manipulation or rapid administration of oxytocic  
+Amenable to vasopressors.
 
 
-* Nausea and vomiting  
-	* Predominantly due to hypotension
-	* May be due to visceral manipulation or rapid administration of oxytocic  
-	Amenable to vasopressors.
+Hypotension:
+* First line treatment should be pressor agents  
+Adjust phenylephrine infusions, covered [here](#prep).
 
 
-* Hypotension  
-	* First line treatment should be pressor agents  
-	Adjust phenylephrine infusions, covered [here](#prep).
+Inadequate blockade/Pain:
+* Generally due to no block of high thoracic dermatomes
+* Alternate technique required in up to 10%
+* Additional analgesia required in up to 15%  
+Options include:
+	* **Conversion to GA**  
+		* Offer early and often
+		* ***Usually* required if pain prior to delivery**
+		* Generally comply with this if the patient requests it and risk is not extreme
+		* Often required if pain occurs before foetal delivery
+		* Occurs in 2%
+	* Supplemental analgesia
+		* Epidural top-up (if available)
+		* Nitrous oxide
+		* IV opioid  
+		Alert paediatrics if this is given prior to delivery. Short acting agents preferred:
+			* Alfentanil
+			* Fentanyl
+		* Sedation  
+		Midazolam 1-2mg IV.
+		* Ketamine  
+		10-30mg IV. Pretreat with midazolam.
+		* Additional local anaesthetic by obstetric team  
+		Can be delivered locally to site of wound, especially if pain occurs during closure.
 
 
-* Inadequate blockade
-	* Pain  
-		* Generally due to no block of high thoracic dermatomes.
-		* Alternate technique required in up to 10%
-		* Additional analgesia required in up to 15%  
-		Options include:
-			* Reassurance
-			* Epidural top-up (if available)
-			* Nitrous oxide
-			* IV opioid  
-			Alert paediatrics if this is given prior to delivery. Short acting agents preferred:
-				* Alfentanil
-				* Fentanyl
-			* Sedation  
-			Midazolam 1-2mg IV.
-			* Ketamine  
-			10-30mg IV. Pretreat with midazolam.
-			* Additional local anaesthetic by obstetric team  
-			Can be delivered locally to site of wound, especially if pain occurs during closure.
-			* Conversion to GA  
-				* Generally comply with this if the patient requests it and risk is not extreme
-				* Often required if pain occurs before foetal delivery
-				* Occurs in 2%
-
-
-* High spinal
+High block:
+* Common
+* Reassurance adequate in the majority
+* Occasionally requires supplemental oxygen
+* Upper limb motor block usually indicates requirement for ETT
 
 ---
 ##References

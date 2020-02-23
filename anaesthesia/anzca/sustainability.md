@@ -3,25 +3,42 @@
 Climate change has:
 * A significant impact on health outcomes
 * Partially resulted from healthcare  
-	* 7% of Australian CO<sub>2</sub> emissions are from healthcare
-	* 5% of hospital CO<sub>2</sub> emissions are from anaesthesia
+	* **7%** of **Australian CO<sub>2</sub> emissions** are from **healthcare**
+	* **5%** of **hospital CO<sub>2</sub> emissions** are from **anaesthesia**
 
-##Anaesthetic Impacts
-Inhalational anaesthetic agents:
-* Have significant and sustained environmental impact
-* Methods to reduce
+
+
+##Personal Responses
+Clinical:
+* Inhalational anaesthetic agents  
+Have significant and sustained environmental impact. Consider:
 	* Avoid use of desflurane and nitrous oxide
 	* Use low-flows
-	* Minimise use of inhalational agents
+	* Minimise use of inhalational agents when clinical indicated
 		* TIVA
 		* Regional
+* Needles and non-tempered glass medications only in sharps bins
+* Rational use of diagnostic tests
 
-Other:
-* Ensure appropriate use of sharps and biohazard bins
 
-##Operating Theatre Impacts
-Generate 20-25% of hospital waste.
-* 60% of OT waste is recyclable
+Non-clinical:
+* Reduce unnecessary travel
+* Advocacy
+* Research into environmental effects
+
+
+##Hospital Responses
+Infrastructure:
+* Heating and cooling considerations
+	* Occupancy-sensing
+* Water use
+	* Auto-off taps	
+* Power generation
+
+
+###Operating Theatre Responses
+> * Theatres generate 20-25% of hospital waste
+> * 60% of OT waste is recyclable
 
 Reusable equipment:
 * Surgical gowns
@@ -33,17 +50,9 @@ Reusable equipment:
 	* Circuits
 	* Avoid unnecessary use of drugs
 
-##Hospital Impacts
-Infrastructure:
-* Heating and cooling considerations
-	* Occupancy-sensing
-* Water use
-	* Auto-off taps	
-* Power generation
+Other:
+* Reform prefabricated kits to only contain what is necessary
 
-
-Diagnostic Tests:
-* Sensible test ordering
 
 
 ---

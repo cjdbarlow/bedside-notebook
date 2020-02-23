@@ -147,6 +147,11 @@ Symptomatic severe AS:
 * Pulmonary hypertension is an additional risk factor and worsens prognosis after valve replacement
 
 
+Perioperative death and MI risk:
+* Symptomatic AS; OR 2.7
+* Co-existing moderate or severe MR; OR 9.8
+* Pre-existing CAD; OR 2.7
+
 ---
 ##References
 1. Brown J, Morgan-Hughes NJ. [Aortic stenosis and non-cardiac surgery](https://academic.oup.com/bjaed/article/5/1/1/339852). Contin Educ Anaesth Crit Care Pain. 2005;5(1):1-4. doi:10.1093/bjaceaccp/mki001

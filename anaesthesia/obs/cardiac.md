@@ -8,25 +8,7 @@ Pregnancy is a:
 Achieving a term pregnancy demonstrates presence of physiological reserve.
 * Time where underlying cardiac disease is diagnosed
 
-##Epidemiology and Risk Factors
-Prevalence:
-* Mitral stenosis is the most common lesion in the pregnant patient  
-Poorer prognosis with decompensated disease, i.e.:
-	* AF
-	* Pulmonary hypertension
-
-
-Consequences:
-* Neonate  
-Complications occur in 20-38% of women with cardiac disease, with key risk factors being:
-	* NYHA >II
-	* Maternal LVOT obstruction
-	* Smoking
-	* Multiple gestation
-	* Use of oral anticoagulants
-	* Mechanical valve
-
-###Risk Stratification
+##Epidemiology and Risk Stratification
 > Risk calculators include:
 >* CARPEG
 >* ZAHARA
@@ -105,7 +87,36 @@ Mortality up to 50%.
 
 
 ##Pathophysiology
-###Aetiology
+Key conditions:
+* Mitral stenosis is the most common lesion in the pregnant patient  
+Poorer prognosis with decompensated disease, i.e.:
+	* AF  
+	May precipitate cardiac failure.
+	* Pulmonary hypertension
+	* May be treated with percutaneous commissurotomy 
+* Marfan's syndrome  
+	* Aortic dissection  
+	Very high risk due to hyperdynamic circulation.
+	* Requires monthly echocardiography
+		* Aortic root dilatation >50mm strongly consider delivery
+	* Vaginal delivery possible if aorta <40mm  
+	Risk of straining leading to dissection.
+* Pulmonary Hypertension
+	* Highest risk is in the week following delivery
+
+
+
+Consequences:
+* Neonate  
+Complications occur in 20-38% of women with cardiac disease, with key risk factors being:
+	* NYHA >II
+	* Maternal LVOT obstruction
+	* Smoking
+	* Multiple gestation
+	* Use of oral anticoagulants
+	* Mechanical valve
+
+
 ##Clinical Manifestations
 Assessment aims are to determine level of function:
 * Exercise tolerance
@@ -116,8 +127,6 @@ With particular attention to:
 	* Warfarin
 	* ACE-I/A2RBs
 
-
-##Diagnostic Approach and DDx
 ##Investigations
 Key investigations include:
 * Bloods
@@ -129,19 +138,27 @@ Key investigations include:
 
 
 ##Management
-Principles of management:
+Preparation:
+* Multidisciplinary approach
+* Tertiary centre
+* Adult ICU available
+* Invasive monitoring required
 * Optimise underlying cardiac disease  
 Manage the lesion.
 	* Note prognosis is often worse due to the higher CO demand
 * Echocardiography for any pregnant patient with new or changing symptoms
 * If requiring surgery, delivery should be considered after 28 weeks
 
+
 Delivery:
-* Vaginal deliver preferred in:
+* Vaginal delivery preferred in:
 	* Severe hypertension  
 	Aim for a "stress free" labour.
 		* Early epidural is recommended  
 		Beware the fixed cardiac-output state.
+* Vaginal delivery **not** preferred in:
+	* Aortic dissection
+	* Marfans syndrome with severe aortic root dilatation
 * Caesarian delivery considered in:
 	* Aortic dilation >45mm
 	* Severe AS
@@ -185,7 +202,7 @@ Delivery:
 				* Facilitate DCR
 			* Disadvantages
 				* Airway and ventilation risks
-				* Haemodynamic perturbance  
+				* Haemodynamic perturbation  
 				Especially at intubation and extubation.
 				* Effect of anaesthetic agents
 					* Negative inotropy
@@ -203,9 +220,9 @@ Delivery:
 		In first 6 months.
 		* Repaired CHD with residual defects	
 
-###Ineffective Therapies
+
 ##Complications
-Consequences of cardiac disease in pregancy include:
+Consequences of cardiac disease in pregnancy include:
 * Maternal
 	* Arrhythmias
 	* Heart failure

@@ -485,3 +485,54 @@ Cardiac:
 * Upper limb weakness > lower limb weakness
 * Sometimes just burning or tingling of hands
 * Often associated with bladder dysfunction/urinary retention
+
+#Advanced Care Directive
+* Made in advance of medical deterioration
+* Allows people to make decisions in advance about the treatment they don't want in the future
+* 2 forms:
+	* Instructional directive: Consent/refuse to a particular medical treatment
+	* Values directive: General statement about preferences and values
+* Requirements:
+	* Voluntary
+		* May be amended or revoked
+	* Person must have capacity
+	* Person understands the nature and effect of each statement
+	* Cannot contain requirement for unlawful act or health professional to breach professional standard
+	* Documented and signed
+
+
+#FOI Speel
+I would thoroughly explain the process to the patient, that it may take some time, and the possibility of discomfort.
+
+I would gain IV access, and give 200-400ug of glycopyrrolate IV as an antisialagogue. I would apply nasal prong oxygen and commence remifentanil TCI at 1ng/ml, titrating to patient comfort whilst ensuring they remain spontaneously ventilating.
+
+For nasal FOI, I would:
+* Identify the most patent nostril
+* Ensure I am not using more than 9mg/kg lignocaine total
+* Spray the nostril with 1-3 sprays of cophenylcaine
+* Serially dilate with NPAs
+	* From a small size up to 0.5 size above the intended tube size
+	* Using lignocaine 2% viscous gel on the first NPA
+	* Using copious lubricant on the other NPAs
+* Whilst dilating, I would spray 10% lignocaine via MAD over 5 minutes, targeting the:
+	* Oropharynx
+	* Tonsillar pillars
+	* Base of tongue
+* Load Parker Flex tube onto the bronch
+* Use ETT as an introducer for bronchoscope into nasopharynx
+* Advance bronchoscope into oropharynx and identify glottis
+* Use 2% lignocaine spray-as-I-go to anaesthetise larynx
+* Spray into trachea to anaesthetise carina
+* Advance bronchoscope to carina
+* Advance tube over bronchoscope
+* Secure airway and confirm ventilation with CO2 monitoring
+* Commence anaesthesia
+
+
+For oral FOI, I would:
+
+
+##Aintree
+* 4.7mm ID (fits a 4mm bronch)
+* 6.5mm OD (fits a 7.0 tube)
+* 56cm long

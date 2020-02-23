@@ -25,16 +25,21 @@ Should still be performed, though is made more difficult by the situation. In ge
 Verbal consent should be documented.
 * Talk between contractions if possible
 * Involve the birth partner, particularly if contractions are continuous
-* Essential information includes:
+* Good discussion points include:
     * What will happen  
     The position, what they will feel (e.g. skin local), the need to keep still.
-    * Risk of PDPH
-    * Risk of failure/inadequate analgesia
+    * Risk of PDPH  
+    ~1:100.
+    * Risk of failure/inadequate analgesia  
+    Replacement required ~1:20.
+    * Risk of neurological complications  
+    	* Temporary: ~1:5,000
+    	* Permanent: ~1:50,000
+    	* Paraplegia: ~1:1,000,000
+* Consider mentioning:
     * Risk of instrumental delivery
     * Back pain  
     Over next 1-2 days, but not longterm.
-    * Risk of neurological complications  
-    Long term ~1:10,000.
 
 
 ###Test and Loading Doses{#test}

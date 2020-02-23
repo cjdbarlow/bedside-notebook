@@ -16,12 +16,53 @@ Any of the above may have features of another systemic rheumatic disease.
 General:
 * Pain
 * Fatigue
+
+
+Respiratory disease:
+* Restrictive lung disease
+* Pulmonary fibrosis
+
+
+Cardiac disease:
+* Myocardial fibrosis/LV failure
+* Pulmonary hypertension
+* Arrhythmias
+
+
+Renal failure:
+* Renal crisis
+
+
+Dermatological:
+* Raynauds
+
 ##Diagnostic Approach and DDx
 ##Investigations
 ##Management
 ###Medical
 ###Surgical
 ###Anaesthetic Considerations
+* A
+	* Potential difficult airway
+		* Small mouth
+		* ↓ Neck mobility
+		* Bleeding telangiectasia
+	* Aspiration risk
+		* Oesophageal dysmotility
+* B
+	* Pulmonary fibrosis
+	* Restrictive lung disease
+* C
+	* Myocardial fibrosis
+	* Pulmonary hypertension
+	* Arterial line placement  
+	Beware Raynaud's and risk of limb ischaemia with small (e.g. radial) arteries.
+* E
+	* Difficult IV access
+* G
+	* Oesophageal dysmotility increases risk of TOE injury
+
+
 ###Ineffective Therapies
 ##Complications
 ##Prognosis

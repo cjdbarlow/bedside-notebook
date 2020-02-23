@@ -21,7 +21,7 @@ Systemic anticoagulation with heparin to prevent clotting of the bypass circuit.
 	* Use of a pump requires at least partial anticoagulation  
 	ACT > 180.
 	* Use of an oxygenator requires full heparinisation  
-	ACT > 400.
+	ACT > 480.
 
 
 ##Prior to CPB
@@ -73,7 +73,7 @@ Anaesthetist:
 * Prepare 300 Units/kg heparin
 	* Give heparin when requested  
 	**Close loop**.
-	* Chect ACT **3 minutes** post UFH  
+	* Check ACT **3 minutes** post UFH  
 	Confirm ACT >480 prior to cannulation.
 * Reduce SBP to 80-100mmHg to reduce risk of aortic dissection during cannulation
 	* Too low and there is increased risk of puncturing the posterior wall of the aorta, leading to dissection
@@ -167,6 +167,7 @@ Complete a pre-wean checklist and confirm:
 	Re-establish FRC with a high FiO<sub>2</sub> to reduce immediate shunt.
 	* Appropriate blood gases on bypass circuit
 * C:
+	* Pacing box present
 	* De-airing  
 	Assess for residual air in cardiac chambers if open cardiac surgery performed.
 	* Estimate what the patients cardiac state will likely be during wean and aim to optimise each facet:
@@ -187,7 +188,7 @@ Complete a pre-wean checklist and confirm:
 	* Confirm BSL 6-10 mmol/L
 	* Method for delivery anaesthesia is present
 * E:
-	* Temperature ~36°C
+	* Temperature >36.5°C
 	* Ensure central-peripheral temperature gradient is < 2°C for rewarming  
 	Slow down rate of separation if this temperature gradient exceeds this.
 * F:
@@ -195,6 +196,19 @@ Complete a pre-wean checklist and confirm:
 	* Potassium 4.5-5mmol/L
 * H:
 	* Hb > 70
+	* Anticipate possible coagulopathy  
+	Product should only be administered once separated from CPB.
+		* Platelets  
+		May be required if:
+			* CKD
+			* Long pump run
+			* Antiplatelets pre-operatively
+			* Reoperation
+		* Factors/cryoprecipitate
+		* DDAVP
+			* CKD
+			* von Willebrand disease
+			* Platelet function abnormalities
 
 
 ##Weaning from CPB
@@ -212,6 +226,7 @@ Adjust infusions if necessary. Ensure good flow rates of carrier fluid to enable
 			* Ventricular performance on TOE
 			Global EF and wall function
 			* Rate of rise of the arterial line waveform 
+			* Visual appearance of heart in chest
 		* Increase with:
 			* Inotropes
 			* IABP
@@ -221,8 +236,10 @@ Adjust infusions if necessary. Ensure good flow rates of carrier fluid to enable
 		* Vasodilators
 		* Vasopressors
 	* Rate  
-	Note rate (and rhythm) and:
-		* Check pacing
+	Usually 80-100, though different physiology may be optimised at different rates.
+		* Correct HR >120 prior to weaning  
+		Usually increasing preload during wean will reduce HR via atrial stretch.
+		* Check epicardial pacing lead function
 		* Consider pacing  
 		Native conduction typically superior.
 			* Generally pace 88-90 to improve CO during weaning period.  
@@ -238,24 +255,6 @@ Adjust infusions if necessary. Ensure good flow rates of carrier fluid to enable
 			* IV amiodarone
 			* Magnesium
 			* Esmolol
-* Checklist
-	* Alarms re-instituted
-	* Airway intact
-	* Ventilation re-established
-	* Circulation optimised
-	* Pacing box present
-	* Drugs
-		* Anaesthesia
-		* Analgesia
-		* Antibiotics
-		* Muscle relaxations
-	* Warming
-		* Check temperature >36.5
-		* Fluids and electrolytes  
-		Check Hb, Na, K, BSL.
-
-
-
 * Reverse heparinisation **when fully off bypass**  
 Give 1mg protamine per 100 units of UFH.
 	* Don't draw up protamine (or hide it somewhere) until reversal is required
@@ -266,6 +265,7 @@ Give 1mg protamine per 100 units of UFH.
 	* Alert surgeons when half to 1/3<sup>rd</sup> of protamine given  
 	Avoid complete reversal whilst cardiotomy suction is still being used.
 * Check ACT 3 minutes after protamine has finished
+
 
 Perfusionist:
 * Progressive clamping of the venous line  

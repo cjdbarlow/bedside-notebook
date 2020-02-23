@@ -16,29 +16,30 @@ General principles for anaesthesia for ENT surgery requires:
 	* Tube
 		* ETT
 		* MLT
-		* Hunsaker Monjet  
-			* Basket assists central direction of jet
-			* Should be placed >7.5cm post the cords so the monitoring port is at an adequate depth  
-			Monitoring port easily blocked or kinked.
 		* Laser-resistant
+	* Intermittent ventilation
+		* e.g. LMA, oxygenate, remove LMA, procedure, desaturate, replace LMA, repeat
 	* Tubeless  
-	HFNO, and either:
-		* Apnoeic  
-		* Spontaneously ventilating  
-			* Propofol infusion and HFNO
-			* Technically difficult to achieve
-			* Hypercapnoea will occur and may be problematic in long cases
-			* Avoid in:
-				* Hypertensive patients
-				* Obese patients
-				* Unwell patients 
+		* HFNO
+		* **Fire risk**
+		* May be:
+			* Apnoeic  
+			* Spontaneously ventilating  
+				* Propofol infusion and HFNO
+				* Technically difficult to achieve
+				* Hypercapnoea will occur and may be problematic in long cases
+				* Avoid in:
+					* Hypertensive patients
+					* Obese patients
+					* Unwell patients
 	* [Jet ventilation](/anaesthesia/ent/jet-vent.md)
 		* Supraglottic  
-		Low-frequency, manual jet ventilation.
-		* Tracheal  
-		Can be high frequency and automated.
+			* Risk of missing larynx and hypoxia
+		* Infraglottic  
+			* Increased risk of barotrauma
+			* Reduced cord movement
 	* **Awake tracheostomy**  
-		* For:
+		* Consider for:
 			* Critical upper airway obstruction  
 			Consider under LA.
 			* Predicted difficult intubation
@@ -50,6 +51,7 @@ General principles for anaesthesia for ENT surgery requires:
 		* Second pair of hands
 			* ENT surgeon
 		* **Maintain** spontaneous respiration
+* Use of **throat packs**
 * Good **analgesia** plan  
 Surgery may often be highly stimulating intraoperatively, but post-operative pain may be minimal.
 	* High dose fentanyl for major ENT surgery

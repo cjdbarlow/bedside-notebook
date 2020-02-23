@@ -27,14 +27,19 @@ Swelling will begin to occlude airway.
 
 
 ##Management
-Prevention is key.
+>Prevention is key
 
 For high risk procedures:
 * Discuss prevention and management plan  
 Advised by local policy.
-* Avoid oxidisers:
-	* Keep FiO<sub>2</sub> < 0.3
-	* Avoid N<sub>2</sub>O
+* **Avoid**:
+	* Oxidisers:
+		* Keep FiO<sub>2</sub> < 0.3
+		* Avoid N<sub>2</sub>O
+	* Alcohol based antisetpics
+	* Diathermy  
+	Bipolar preferable to unipolar.
+
 
 For laser surgery in airway:
 * Use laser-resistant ETT

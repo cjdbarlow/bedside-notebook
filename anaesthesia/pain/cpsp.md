@@ -1,13 +1,12 @@
 #Chronic Post-Surgical Pain
 
-Chronic post-surgical pain is defined as **>2 months of pain**:
-* Occurring after surgery  
-May be either a continuation of acute post-surgical pain, or develops after an asymptomatic period.
-* That interferes with quality of life
+Chronic post-surgical pain occurring at the site of incision or related to surgery and persists a month longer than it takes for most injuries to fully heal. May be:
+* A continuation of acute post-surgical pain
+* Develops after an asymptomatic period
 
 
 Chronic pain:
-* Complicates **~10%** of all surgeries
+* Complicates **~10%** of all surgeries  
 With intolerable pain in ~1%.
 * Contributes significantly to the burden of chronic pain
 	* Pain
@@ -76,11 +75,13 @@ Associated with disturbances to:
 ##Investigations
 ##Management
 Preventative:
-* Premptive analgesia  
+* Preemptive analgesia  
 Analgesia prior to nociceptive stimulus; e.g.
 	* Epidural  
-Reduces CPSP after **thoracotomy**.
+	Reduces CPSP after **thoracotomy**.
 	* Spinal
+	* Paracetamol
+	* Gabapentinoids
 * Ketamine  
 Perioperative ketamine reduces CPSP.
 

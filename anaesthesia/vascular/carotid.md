@@ -211,9 +211,7 @@ Hypotension:
 Neck haematoma:
 * Occurs in ~3% of patients post-operatively
 	* Increased risk if poorly-controlled HTN
-* May lead to:
-	* Neck haematoma
-	* Obstruction to VR and subsequent lymphoedema
+* May lead to obstruction to VR and subsequent lymphoedema
 * May require emergency airway management
 
 
@@ -225,7 +223,7 @@ Cerebral Hyperperfusion Syndrome:
 * Occurs in 1-3% of carotid surgery  
 Associated with:
 	* HTN
-	* >80% stenosis
+	* ⩾80% stenosis
 	* Previous CVA
 * Occurs due to excessive flow through the now un-stenosed vessel
 * Cause of most ICH post-CEA

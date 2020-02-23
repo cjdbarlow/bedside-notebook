@@ -49,6 +49,8 @@ Energy from the laser may potentially cause:
 High-power laser results in evaporation of cellular components; including viruses, bacteria, and mutagenic DNA. This is in addition to the standard toxic gases present in smoke.
 
 ##Safety
+> **Communication is critical** and underpins all of these safety considerations
+
 Methods include:
 * Engineering Controls
 	* Guarded footswitch

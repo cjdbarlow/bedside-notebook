@@ -1,8 +1,12 @@
 #Jet Ventilation
 
 Jet ventilation:
-* May be manual/low frequency or automated/high frequency  
-Automated (HFJV) has reduced barotrauma compared to manual jet ventilation.
+* May be:
+	* Manual  
+	Low frequency.
+	* Automated  
+	Usually high frequency.  
+		* Reduced barotrauma compared to manual jet ventilation
 * Requires:
 	* Close communication with surgeon  
 	Jet fired between laser pulses to prevent cord movement.
@@ -13,8 +17,21 @@ Automated (HFJV) has reduced barotrauma compared to manual jet ventilation.
 		Consider increasing FiO<sub>2</sub> between pulses or whilst waiting for biopsy results, etc.
 
 
+		Can be high frequency and automated.
+			* Hunsaker Monjet  
+				* Basket assists central direction of jet
+				* Should be placed >7.5cm post the cords so the monitoring port is at an adequate depth  
+				Monitoring port easily blocked or kinked.
 
-##High Frequency Jet Ventilators
+
+##Manual Jet Ventilation
+
+Initial setup:
+* Driving pressure: 3.5 bar
+* Respiratory rate: ~8
+
+
+##Automated Jet Ventilators
 * Deliver heated, humidified gas jets in a square wave at 1-10Hz
 * Clinician can control driving pressure, frequency, inspiratory time, and composition of gas
 * Have alarms and emergency shutdown devices in presence of high airway pressures
@@ -36,7 +53,7 @@ Initial Setup:
 150-300cpm. Increasing frequency **reduces** tidal volume.
 * FiO2: 1.0
 * I-time: 20%  
-Adjust 20-70%. Increasing IT increases tidal volume.
+Adjust 20-70%. Increasing inspiratory time increases tidal volume.
 * Pause pressure: 2mbar  
 10-40mbar. This is the pressure measured at the tip of the ventilation catheter ~1ms before the next jet.
 

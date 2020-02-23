@@ -194,7 +194,9 @@ Dosing of second line agents:
 	* Contraindicated in pre-eclampsia  
 	* Can give half IV, half IM
 * Carboprost 250μg IM  
-Contraindicated IV. Can be given every 15 minutes up to 8 doses.
+	* Contraindicated IV
+	* Contraindicated in asthma
+	* Can be given every 15 minutes up to 8 doses.
 * Sulprostone 500μg; given at 100μg/hr.
 
 
@@ -216,13 +218,15 @@ Most departments have a standard post-operative analgesia management protocol. C
 * Metocloparmide 10mg IV/PO TDS
 
 
-* If intrathecal morphine given:
-	* Naloxone 40μg SC Q1H  
-	For itch.
-	* Naloxone 100μg IV Q5 min  
-	For RR ⩽8.
-* If no intrathecal morphine given:
-	* Oxycontin 20mg SR BD (wean in 1-2/7)
+If intrathecal morphine given:
+* Naloxone 40μg SC Q1H  
+For itch.
+* Naloxone 100μg IV Q5 min  
+For RR ⩽8.
+
+
+If no intrathecal morphine given:
+* Oxycontin 20mg SR BD (wean in 1-2/7)
 
 ---
 ##References
