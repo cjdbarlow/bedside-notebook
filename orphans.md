@@ -536,3 +536,55 @@ For oral FOI, I would:
 * 4.7mm ID (fits a 4mm bronch)
 * 6.5mm OD (fits a 7.0 tube)
 * 56cm long
+
+
+##Stats
+Ethics committee:
+* Vital to uphold patient safety
+* Consists of
+	* Layperson
+	* Ethicist
+	* Clinician
+* Evaluate:
+	* Research merit
+	* Methodology
+		* Recruitment
+			* Free of coercion/exploitation
+		* Consent
+			* Opt-in
+			* Opt-out
+			* Waiver
+		* Data storage
+			* NPP
+			* Deidentification
+				* Deidentified-reidentifiable
+		* Feasibility
+			* Funding
+			* Implementability
+		* Periodic review/Safety monitoring/interim analysis  
+		Data safety monitoring committee - separate.
+* Follow national statement on ethics in human research
+	* Research merit and integrity
+	* Beneficence
+	* Justice
+	* Respect
+* Types
+	* Low risk
+	* High risk
+		* Vulnerable population
+			* Elderly
+			* Aboriginal/torres strait islanders
+			* NESB
+			* Paeds
+
+
+##Article Review
+* Why it was done
+	* Lit review
+	* Question
+* How was it done
+	* Methodology
+* What did they find
+	* Results
+	* Discussion
+* Relevance to me
