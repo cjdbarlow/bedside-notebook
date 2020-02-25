@@ -5,7 +5,7 @@
 ANZCA Professional Documents:
 * [PS02: Credentialing and Scope of Practice](http://www.anzca.edu.au/Documents/ps02-2006-statement-on-credentialling-and-defining.pdf).  
 Covered under:
-	* [Credentialing and Scope of Practice](/anaesthesia/anzca/credentialling.md)
+	* [Credentialing and Scope of Practice](/anaesthesia/anzca/credentialing.md)
 * [PS03: Guidelines for the Management of Major Regional Analgesia](http://www.anzca.edu.au/Documents/ps03-2014-guidelines-for-the-management-of-major-r.pdf).  
 Covered under:
 	* [Principles of Regional Anaesthesia](/anaesthesia/regional/principles.md)

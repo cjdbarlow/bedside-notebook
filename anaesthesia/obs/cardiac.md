@@ -1,7 +1,8 @@
 #Cardiac Disease in Pregnancy
 *This describes the general management of the pregnant patient with cardiac disease. Management of [peripartum cardiomyopathy](/disease/cvs/peripartum.md) is covered elsewhere.*
 
-> Risk of pregnancy depends on specific disease and patients condition, individual counselling by experts is recommended
+> * Risk of pregnancy depends on specific disease and patients condition, individual counselling by experts is recommended
+> * Risk stratification is important, and even the lowest-risk patients still have up to 5% risk of peripartum
 
 Pregnancy is a:
 * Significant circulatory burden  
@@ -9,11 +10,40 @@ Achieving a term pregnancy demonstrates presence of physiological reserve.
 * Time where underlying cardiac disease is diagnosed
 
 ##Epidemiology and Risk Stratification
-> Risk calculators include:
->* CARPEG
->* ZAHARA
+Risk stratification can use:
+* Risk prediction model  
+Provides good general-purpose stratification for patients who may have very individual disease, and a spread of functional stratifications within their lesion.
+	* ZAHARA
+	* CARPREG II
+* WHO Classification  
+Comprehensive but may be less useful as does not stratify lesions by severity of that individuals pathology.
 
 
+
+###CARPREG II
+Predictors:
+* General
+	* Prior cardiac events  
+	Includes:
+		* Failure
+		* Stroke/TIA
+		* Arrhythmias
+	* NYHA III/IV or resting SpO<sub>2</sub> <90%
+	* High-risk valve disease/LVOT obstruction
+	* Mild or greater systemic ventricular dysfunction
+	* No previous cardiac intervention
+* Lesion-specific
+	* Mechanical valves
+	* High-risk aortopathies
+	* Pulmonary hypertension
+	* Coronary artery disease
+* Care related
+	* Late pregnancy assessment
+
+<img src="/resources/carpreg.png">
+
+
+###WHO Risk Stratification
 Low (WHO I) risk:
 * Cardiology followup limited to one or two visits
 * Includes:
@@ -166,6 +196,7 @@ Delivery:
 	* Eisenmenger's syndrome
 	* Severe heart failure
 
+
 ###Anaesthetic Considerations
 * C
 	* Nature of lesion
@@ -224,8 +255,8 @@ Delivery:
 ##Complications
 Consequences of cardiac disease in pregnancy include:
 * Maternal
-	* Arrhythmias
-	* Heart failure
+	* **Arrhythmias**
+	* **Heart failure**
 	* Embolism  
 	* CVA
 	* Death

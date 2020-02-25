@@ -59,7 +59,7 @@ Remove words with negative associations, e.g. pain.
 * Reinforce positive behaviours
 * Don't downplay pain and anxiety  
 Says things will hurt if they will hurt.
-* Reassure that concerns and anxiety is normal, but magnitude of risk of low in well children
+* Reassure that concerns and anxiety is normal, but magnitude of risk is low in well children
 * Project a sense of relaxation
 * Engage in normal conversation with the parents and child
 

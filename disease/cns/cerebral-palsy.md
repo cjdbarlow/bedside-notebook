@@ -1,6 +1,6 @@
 #Cerebral Palsy
 
-Cerebral palsy is a collective term describing a group of neurological disorders. Cerebral Palsy is:
+Cerebral palsy is a collective term describing a **heterogenous** group of **neurological disorders** occurring due to **non-progressive** brain damage. Cerebral Palsy is:
 * Characterised by varying impediments to function:
 	* Motor
 	* Sensory
@@ -84,21 +84,29 @@ Treatment is supportive, and consists of:
 		* Antispasmodics  
 		Baclofen.
 		* Denervation techniques
-			* Botulinium toxin
+			* Botulinum toxin
 			* Radiofrequency ablation of dorsal horn ganglia
 	* Alleviating contractures
 		* Tenotomies
 		* Osteotomies
 		* Tendon transfer/lengthening
-* Treatment of coexistant disease
+* Treatment of coexistent disease
 
 ###Anaesthetic Considerations
+* SET
+	* HDU/ICU desirable  
+	Prone to:
+		* Hypoxia
+			* Aspiration
+			* Atelectasis
+		* Hypovolaemia
+		* Hypothermia
 * A
 	* High aspiration risk  
-	* Risk of loose teeth/poor dental hygeine
+	* Risk of loose teeth/poor dental hygiene
 * B
 	* Respiratory impairment  
-	Combination of muscular weakness, skeletal deformities, and recurrent aspiration pneumonia. Prone to post-operative hypoxia.
+	Combination of muscular weakness, skeletal deformities, and recurrent aspiration pneumonia.
 * C
 	* Co-existent cardiac disease
 	* Generally limited cardiorespiratory reserve
@@ -106,7 +114,12 @@ Treatment is supportive, and consists of:
 	* Difficulty communicating
 	* Co-existent epilepsy  
 	Continue antiepileptics in perioperative period.
-	* Hyperalgesia
+	* **Analgesia** very important and can be difficult to manage
+		* Difficult due to nature of surgery and communication
+		* Continuous analgesia preferred
+		* **Muscular spasm** can be painful and debilitating
+			* Diazepam 0.05-0.1mg/kg Q4H
+		* Epidural or regional techniques excellent to reduce spasm, pain, and opioid demand		
 * E
 	* Fixed flexion deformities  
 	Limit or restrict positioning.
