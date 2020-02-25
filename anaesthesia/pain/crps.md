@@ -30,6 +30,7 @@ Key risk factors:
 
 ##Pathophysiology
 Poorly understood, but multifactorial process involving central and peripheral nervous systems:
+
 ###Aetiology
 ##Clinical Manifestations
 ##Diagnostic Approach and DDx
@@ -40,6 +41,7 @@ Poorly understood, but multifactorial process involving central and peripheral n
 > 	* Restore function
 > 	* Decrease pain and disability
 > 	* Improve quality of life
+
 
 Prevention:
 * Avoid prolonged immobilisation

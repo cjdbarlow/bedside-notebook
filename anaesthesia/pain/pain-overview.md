@@ -42,10 +42,10 @@ Goals of pain management include:
 
 ##Pain Assessment
 > Use the **PASS** assessment:
->	* Pain history
->	* Analgesia and other drug substances
->	* Stress and other psychology
->	* Surgical factors
+>* Pain history
+>* Analgesia and other drug substances
+>* Stress and other psychology
+>* Surgical factors and biological causes
 
 
 Key components of a pain history include:
@@ -110,7 +110,7 @@ Effect is independent of its reduction in opioid requirements.
 
 ###NSAIDs
 * Renal injury is low when used appropriately
-* Spectrum of activity between COX-1 and COX-2
+* All NSAIDs sit on a spectrum of activity between COX-1 and COX-2
 * Non-selective NSAIDs:
 	* Are associated with increased risk of minor and major bleeding  
 	* May precipitate bronchospasm in susceptible patients  
@@ -286,14 +286,14 @@ Paravertebral block:
 ###Analgesic Adjuncts
 α2-delta ligands:
 * α2-delta ligands  
-Probably little in most patients, but good in opioid tolerant.
+Probably little effect in most patients, but good in opioid tolerant.
 * Avoid using PRN
 * Gabapentin and pregabalin are opioid-sparing
 * Gabapentin reduces phantom limb pain
 
 
 Clonidine:
-* Useful in opioid users.
+* Useful in opioid users
 
 
 Ketamine:

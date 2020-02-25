@@ -83,7 +83,7 @@ Analgesia prior to nociceptive stimulus; e.g.
 	* Paracetamol
 	* Gabapentinoids
 * Ketamine  
-Perioperative ketamine reduces CPSP.
+Perioperative ketamine reduces phantom limb pain magnitude but not incidence.
 
 
 
