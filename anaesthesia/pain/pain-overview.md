@@ -43,6 +43,8 @@ Goals of pain management include:
 ##Pain Assessment
 > Use the **PASS** assessment:
 >* Pain history
+>	* Somatic
+>	* Neuropathic
 >* Analgesia and other drug substances
 >* Stress and other psychology
 >* Surgical factors and biological causes
@@ -100,15 +102,26 @@ Including:
 >	* Neuropathic pain
 
 
+Covering:
+* [Paracetamol](pmol)
+* [NSAIDS](NSAID)
+* [Opioids](opioids)
+* [Intrathecal Opioids](itopioid)
+* [Intrathecal Adjuncts](itadjunct)
+* [Epidural Analgesia](epidural)
+* [Paravertebral](pvb)
+* [Analgesic Adjuncts](adj)
+* [Other](other)
 
 
-###Paracetamol
+
+###Paracetamol{#pmol}
 * Paracetamol given pre- and intraoperatively reduces PONV and improves analgesia, but does ont reduce opioids
 * Reduces PONV when given IV  
 Effect is independent of its reduction in opioid requirements.
 
 
-###NSAIDs
+###NSAIDs{#NSAID}
 * Renal injury is low when used appropriately
 * All NSAIDs sit on a spectrum of activity between COX-1 and COX-2
 * Non-selective NSAIDs:
@@ -127,7 +140,7 @@ Effect is independent of its reduction in opioid requirements.
 	* Naproxen and celecoxib have lower risks of myocardial injury than other NSAIDs
 
 
-###Opioids
+###Opioids{#opioids}
 > Do not use long-acting opioids in high-risk patients
 
 
@@ -197,7 +210,7 @@ Buprenorphine:
 * Has a ceiling effect for the respiratory depression but not for the analgesia
 
 
-###Intrathecal Opioid
+###Intrathecal Opioid{#itopioid}
 >* Lowest effective dose (usually 100-150µg; less than 300µg) should be used
 >* Respiratory monitoring should occur for at least 18-24 hours following a single dose
 
@@ -231,13 +244,13 @@ Typically 100-500µg used
 		More common compared to PCA.
 
 
-###Intrathecal Adjuncts
+###Intrathecal Adjuncts{#itadjunct}
 * Intrathecal clonidine improves duration of analgesia and anaesthesia
 * Intrathecal adrenaline improves duration of analgesia and anaesthesia when used with local anaesthetics
 
 
 
-###Epidural Analgesia
+###Epidural Analgesia{#epidural}
 Overview:
 * Provides better analgesia than system opioids, irrespective of patient or surgery type  
 Provides ~ 1/10 reduction in pain over the first 24 hours postoperatively.
@@ -277,13 +290,13 @@ Motor blockade provides muscle relaxation, decreasing the requirement to adminis
 	* 3-5ml of 0.75% bupivacaine can be used for top-up
 
 
-###Paravertebral
+###Paravertebral{#pvb}
 Paravertebral block:
 * Superior analgesia in breast surgery compared to systemic analgesia
 * Comparable analgesia but improved side-effect profile compared to epidural analgesia for thoracics
 
 
-###Analgesic Adjuncts
+###Analgesic Adjuncts{#adj}
 α2-delta ligands:
 * α2-delta ligands  
 Probably little effect in most patients, but good in opioid tolerant.
@@ -323,7 +336,7 @@ Antidepressants:
 
 
 
-###Other
+###Other{#other}
 Nitrous oxide:
 * Has analgesic efficacy in labour
 	* Increases maternal satisfaction
@@ -344,6 +357,54 @@ Other:
 * No evidence supporting use of cannabinoids
 
 
+##Situation-Based Approach
+Covering:
+* [Acute neuropathic pain](acuteneuropathic)
+* [Chronic neuropathic pain](chronicneuropathic)
+* [Phantom limb pain](phantom)
+
+###Acute Neuropathic Pain{#acuteneuropathic}
+* First line  
+	* Ketamine
+		* Titrate up with 5mg boluses to effect
+		* Maintain at 0.1mg/kg/hr IV or SC infusion
+* Second line  
+	* Lignocaine
+		* Bolus 1-1.5mg/kg
+		* Maintain at 1-2mg/min
+
+
+###Chronic Neuropathic Pain{#chronicneuropathic}
+* First line  
+	* TCAs
+		* Commence at 5-10mg and increase slowly to optimise acceptability
+		* Effective dose usually 10-100mg
+		* Slow onset and trial for at least 2 weeks, and ideally 2 months
+		* Amitryptyline superior if sleep disturbance an issue; give nocte
+		* Nortriptyline less sedating
+		* Adverse effects significant
+	* SSRIs/SNRIs
+		* Duloxetine 30mg daily, increase up to 60mg
+		* Venlafaxine 37.5mg, increase to 75mg, up to 225mg daily
+* Second line  
+α2-delta ligands:
+	* Pregabalin  
+	75mg up to 300mg BD, start at 25-50mg if frail.
+	* Gabapentin
+* Third line  
+	* Tramadol
+	* Tapentadol
+
+
+
+###Phantom Limb Pain{#phantom}
+* First line  
+	* Calcitonin  
+	100ug daily IV/SC for at least 3 days. Antiemetic prophylaxis.
+* Second line  
+Antineuropathics as above.
+
+
 ---
 ##References
 1. Master trial
@@ -352,3 +413,4 @@ Other:
 2. McLeod GA, Cumming C. [Thoracic epidural anaesthesia and analgesia](https://academic.oup.com/bjaed/article/4/1/16/356905). Continuing Education in Anaesthesia Critical Care & Pain, Volume 4, Issue 1, 1 February 2004, Pages 16–19.
 3. Schug SA, Palmer GM, Scott DA, Halliwell R, Trinca J. [Acute pain management: scientific evidence, fourth edition, 2015](http://fpm.anzca.edu.au/documents/apmse4_2015_final). Med J Aust. 2016 May 2;204(8):315–7. 
 4. Russell T, Mitchell C, Paech MJ, Pavy T. Efficacy and safety of intraoperative intravenous methadone during general anaesthesia for caesarean delivery: a retrospective case-control study. International Journal of Obstetric Anesthesia. 2013 Jan;22(1):47–51. 
+5. Western Australian Therapeutic Advisory Group. [Guidelines for the Pharmacological Treatment of Neuropathic Pain](https://ww2.health.wa.gov.au/~/media/Files/Corporate/general%20documents/WATAG/Neuropathic-Pain-Guidelines.pdf). 2017.

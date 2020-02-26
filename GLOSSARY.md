@@ -682,7 +682,7 @@ Total Lung Capacity
 ##TOF  
 Train of Four *or* Tetralogy of Fallot
 
-#	#TOP
+#TOP
 Termination of Pregnancy
 
 ##TPG
@@ -705,6 +705,9 @@ Vaginal birth after caesarian section
 
 ##VIE
 Vacuum Insulated Evaporator
+
+##VMA
+Vanillylmandelic acid
 
 ##VR
 Venous Return

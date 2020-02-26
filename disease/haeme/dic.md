@@ -65,9 +65,9 @@ Required.
 		* Moderate increase: 2
 		* Strong increase: 3
 	* PT
-		* ⩽	3s: 0
+		* ⩽3s: 0
 		* 3-6s: 1
-		* >6s 2
+		* ⩾6s 2
 	* Fibrinogen level:
 		* ⩾1: 0
 		* ⩽1: 1

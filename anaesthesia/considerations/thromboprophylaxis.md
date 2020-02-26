@@ -1,6 +1,6 @@
 #Thromboprophylaxis
 
-VTE is a common cause of morbidity and mortality in the surgical population
+VTE is a common cause of morbidity and mortality in the surgical population.
 
 
 ##Risk Assessment
@@ -13,15 +13,97 @@ Must factor in:
 Major determinant.
 * Patient factors
 
+
 ###Thrombosis Risk Prediction
-> Prediction models exist (e.g. CAPRINI) but is complex and has limited validation, limiting uptake
+> * This is light on detail because:
+>	* Although prediction models exist (e.g. CAPRINI), the model is complex and has limited validation which has limited its uptake and use
+>	* Centres will have their own policy that should be followed
+>	* Treatment options are limited and most patients will be at least moderate risk, so detailed risk stratification does not usually refine management
+> * The below thresholds just cover surgical risk factors, and so give a **minimum risk level** for any procedure; any additional VTE risk factors that a patient has will increase their risk category
 
 
+Very low risk (<0.5%):
+* Small day-case procedures
+	* General surgical
+	* Gynaecological
+	* Plastics procedures
 
+
+Low risk (0.5-1.5%):
+* Minor elective abdominal surgery
+	* Appendicectomy
+	* Laparoscopic cholecystectomy
+* Minor thoracic surgery
+	* Diagnostic VATS
+* Elective spinal fusion
+
+
+Moderate (1.5-3%) risk:
+* Major surgery
+	* Gynaecologic
+	* Urologic
+	* General surgical
+	* Bariatric surgery
+	* Neurosurgery
+* Trauma not involving brain or spine
+
+
+High (3-6%) risk:
+* Cancer surgery
+* Extensive thoracic or abdominal surgery
+	* Distal colorectal surgery
+	* Extensive pelvic surgery
+* Acute spinal cord injury
+* Major trauma
 
 ###Bleeding Risk Prediction
+> * The below thresholds just cover surgical risk factors, and so give a **minimum risk level** for any procedure; any additional risk factor for bleeding that a patient has will increase their risk category
+
+Low bleeding risk (<2%):
+* Most uncomplicated surgery
+	* General
+	* Bariatric
+	* Vascular
+	* Thoracics
+
+
+High bleeding risk (>2%, or consequences of bleeding would be devastating):
+* Spinal surgery
+* Intracranial surgery
+* Reconstructive surgery
 
 
 ##Management
-According to risk:
-* Very low VTE risk
+Very low VTE risk:
+* Early and frequent ambulation
+
+
+Low VTE risk:
+* Mechanical prophylaxis recommended
+	* Intermittent pneumatic calf compressors
+		* Should be used for at least 18 hours per day
+		* Remove when walking
+	* Graduated Compression Stockings
+		* No additional benefit seen (for VTE) over pharmacological methods
+		* Have additional uses (e.g. peripheral oedema)
+
+
+Moderate VTE risk and Low bleeding risk:
+* Pharmacological prophylaxis suggested
+	* Enoxaparin
+	* UFH acceptable if concerns about renal failure or receiving dialysis, or cost is prohibitive
+	* Fondaparinux if HITS
+
+
+High VTE Risk and Low bleeding risk:
+* Combined mechanical and pharmacological prophylaxis  
+Additional benefit suggested by combining methods, but evidence is poor.
+
+
+High bleeding risk:
+* Mechanical prophylaxis
+* Vena cava filters should not be used routinely
+* Administration of pharmacoprophylaxis should occur as soon as practicable
+
+
+---
