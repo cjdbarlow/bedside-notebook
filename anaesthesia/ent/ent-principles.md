@@ -38,6 +38,7 @@ General principles for anaesthesia for ENT surgery requires:
 		* Infraglottic  
 			* Increased risk of barotrauma
 			* Reduced cord movement
+		* Transtracheal
 	* **Awake tracheostomy**  
 		* Consider for:
 			* Critical upper airway obstruction  
@@ -61,11 +62,15 @@ Surgery may often be highly stimulating intraoperatively, but post-operative pai
 Straining or coughing during emergence can increase bleeding, disrupt repairs, or dislodge grafts.
 	* Deep extubation if appropriate
 	* Exchange to LMA
-	* Remifentanil at 0.1μg/kg/min
+	* Remifentanil at 0.1μg/kg/min until extubation
 * Careful **preoperative assessment**
 	* History
 		* Vocal changes  
 		Suggests a glottic lesion.
+		* Stridor  
+		Highly significant.
+		* Dyspnoea  
+		Supine dyspnoea concerning for >50% laryngeal obstruction.
 		* Pain
 			* Ear  
 			Suggests supraglottic.

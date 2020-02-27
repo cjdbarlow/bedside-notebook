@@ -42,8 +42,10 @@ Low (8 bpm) to high (up to 300bpm) frequency.
 
 ##Manual Jet Ventilation{#man}
 Initial setup:
-* Driving pressure: 3.5 bar
+* Driving pressure: 3.5 bar (0-3.5 bar)
 * Respiratory rate: ~8
+* Inspiratory time: ~1s, aiming 4-5s expiration  
+Keep hand or eyes on chest throughout to ensure full expiration occurs - high risk for barotrauma.
 
 
 ##Automated Jet Ventilators{#auto}
