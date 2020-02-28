@@ -12,20 +12,21 @@ Multiple injections along the oblique subcostal line, and provides analgesia to 
 * Abdominal surgery where epidural would be excessive or contraindicated
 
 ##Anatomy
-* The TAP lies between the rectus abdominus and transversus abdominus muscles in the anterolateral abdominal wall
-	* The internal and external oblique muscles separate rectus and transversus abdominus more laterally
-	* Transversus abdominus may not be present superiorly  
-	If a block is performed here, then LA should be injected superior to the posterior rectus sheath.
+* The TAP lies between:
+	* Internal oblique and transversus abdominus in the inferior and lateral areas of the abdominal wall
+	* Rectus abdominus and transversus abdominus in the subcostal abdominal wall
 * The TAP contains the thoracolumbar nerves (T6-L1) which innervate the abdominal wall
 * Thoracolumbar nerves consist of intercostal, subcostal, iliohypogastric, and ilioinguinal nerves
 * All travel beneath the rectus and run for a variable distance through the TAP before penetrating the rectus sheath  
-This may occur quite laterally, so **medial blocks may miss the nerve** as it travels through the TAP.
+This may occur quite laterally, so **medial blocks may miss the nerve** if it has already penetrated the internal oblique muscle.
+
+<img src="/resources/tap.png">
 
 ##Equipment
 * Ultrasound machine, gel, probe cover  
 High or low frequency probe acceptable.
 * Needle and catheter kit  
-e.g. 18G Touhy.
+e.g. 18G Touhy or 21G 100mm ultrasound needle.
 * Local anaesthetic  
 Typically 3mg/kg ropivacine (up to 200mg) diluted with N/S to 40ml (20ml each side)
 * Sterile equipment
@@ -52,3 +53,5 @@ Typically 3mg/kg ropivacine (up to 200mg) diluted with N/S to 40ml (20ml each si
 ---
 ##References
 1. Hebbard, P. D., Barrington, M. J., & Vasey, C. (2010). [Ultrasound-guided continuous oblique subcostal transversus abdominis plane blockade: Description of anatomy and clinical technique](https://www.ncbi.nlm.nih.gov/pubmed/20830871). Regional Anesthesia and Pain Medicine, 35(5), 436–441.
+2. Vincent M, Mathieu O, Nolain P, Menacé C, Khier S. [Population pharmacokinetics of levobupivacaine during a transversus abdominis plane block
+in children](https://arxiv.org/ftp/arxiv/papers/1910/1910.12710.pdf). arXiv.

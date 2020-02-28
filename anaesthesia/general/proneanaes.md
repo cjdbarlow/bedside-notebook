@@ -3,6 +3,7 @@
 The prone position is:
 * Required to facilitate certain operations
 	* Spinal surgery
+	* Posterior fossa craniotomy
 	* Certain ankle operations
 * Associated with many physiological changes
 	* Broadly positive respiratory effects
@@ -11,7 +12,7 @@ The prone position is:
 		* Improved V/Q matching via better distribution of pulmonary blood flow   
 		Leads to increase in PaO<sub>2</sub>.
 	* Broadly negative CVS effects  
-	These are predominantly due to abdominal and subequent IVC compression, and can be reduced by ensuring the abdomen is not compressed.
+	These are predominantly due to abdominal and subsequent IVC compression, and can be reduced by ensuring the abdomen is not compressed.
 		* Effects include
 			* Decreased preload  
 			Associated with decrease in CI by ~25%.
@@ -53,6 +54,7 @@ Risk of~1:60,000, or 1:30,000 in spinal surgery. Via two mechanisms:
 			* Anaemia
 			* Hypothermia
 			* Anaesthetic technique
+	* Corneal abrasion
 * Neuropathy  
 Via compression or stretching of superficial nerves.
 	* Risk is reduced with careful positioning
@@ -108,15 +110,15 @@ Will affect intra-operative positioning.
 
 ###Induction{#ind}
 * Secure the airway
-	* Use a reinforced ETT with a bite block  
-	Less likely to become occluded during position changes.
-	* Secure the ETT with tape  
+	* Consider use a reinforced ETT with a bite block  
+	Less likely to become kinked during position changes.
+	* Secure the ETT well with tape  
 	Ties may occlude venous drainage.
 	* Recommend against using an LMA  
 	Difficult to access the airway if airway difficulties remove.
 * Protect the eyes
 	* Tape shut
-	* Place extra protective padding over the lips  
+	* Place extra protective padding over the lids  
 	Tape the padding in.
 
 

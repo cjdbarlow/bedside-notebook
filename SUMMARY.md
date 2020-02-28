@@ -166,7 +166,6 @@
 	* [Smoking Perioperatively](/anaesthesia/anzca/smoking.md)
 	* [Day Surgery](/anaesthesia/anzca/daystay.md)
 	* [Monitoring](/anaesthesia/anzca/monitoring.md)
-	* [Consent](/anaesthesia/anzca/consent.md)
 	* [Major Extracorporeal Perfusion](/anaesthesia/anzca/extracorporeal.md)
 	* [Infection Control](/anaesthesia/anzca/infection.md)
 	* [Non-Paediatric Centres](/anaesthesia/anzca/paeds.md)

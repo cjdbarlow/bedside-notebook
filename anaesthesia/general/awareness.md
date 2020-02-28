@@ -5,7 +5,7 @@ Accidental intraoperative awareness is the ability to recall any events which oc
 	* Incidence with NMB is ~1:8200 cases
 	* Incidence without NMB is ~1:135,000
 	* **Dynamic phase** of anaesthesia is the most common time  
-	e.g. Induction and emergence.
+	i.e. Induction and emergence.
 * May lead to memory formation  
 Memories may be:
 	* Explicit  
@@ -34,32 +34,33 @@ Key factors affecting risk of awareness include:
 		* Underdosing during hypotensive episodes  
 		**Titration of anaesthetic agent to BP increases risk** of awareness.
 		* Failure to recognise signs of light anaesthesia
-	* Patient factors  
-	Increased anaesthetic doses required in:
-		* Young age
-		* Hyperthyroidism
-		* Obesity
-		* Anxiety
-		* Drug exposures
-			* Smokers
-			* Heavy alcohol
-			* Recreational drug users
-			* Repeated anaesthetics
+* **Patient factors**  
+Increased anaesthetic requirement in:
+	* Young age
+	* Hyperthyroidism
+	* Obesity
+	* Anxiety
+	* Drug exposures
+		* Smokers
+		* Heavy alcohol
+		* Recreational drug users
+		* Repeated anaesthetics
 * **Neuromuscular blockade**  
 Greatly increases both the incidence and severity of awareness. Particularly:
 	* Use of non-depolarising agents
 	* Failure to monitor effect of non-depolarising agents
 * **High risk surgery**  
+Usually due to intentional dose reduction to minimise haemodynamic effects.
 	* Cardiac surgery
 	* Emergency surgery
 	* Significant haemorrhage
 	* Caesarian section
-* Equipment malfunction
+* **Equipment malfunction**
 
 
 ##Clinical Manifestations
 
->May be masked by β-blockers, anti-muscarinics, among other things
+>May be masked by β-blockers and anti-muscarinics, among other things
 
 Relate to sympathetic activation:
 * ↑ HR
@@ -82,33 +83,36 @@ Use of benzodiazepines reduces incidence.
 * Use of at least 0.8 MAC of volatile
 
 ###Intraoperative Management
+* Use of processed EEG monitoring  
+	* May decrease awareness in high risk patients (NNT ~140)
+	* Effect confounded by muscle relaxants
 * Rapidly deepen anaesthesia
 * If hypotension is present, support BP whilst deepening anaesthesia
 * Consider administration of IV benzodiazepine  
 Will not provide retrograde amnesia, but anterograde amnesia reduces evidence of further recall.
 
-###Post-operative Management
-* Obtain and document a detailed account of the experience  
-Including:
-	* Perioperative timing
-	* Distinguish between dreaming and awareness
-	* Note details of recalled events  
-* Provide support and sympathy  
+
+###Postoperative Management
+Obtain and document a detailed account of the experience:  
+* Perioperative timing
+* Distinguish between dreaming and awareness
+* Note details of recalled events  
+* **The Brice Questionnaire** is a traditional approach to assessing events:
+	* Performed twice
+		* First at 24-48 hours
+		* Second at 7-8 days
+	* Consists of five questions:
+		* What was the last thing you remembered happening before you went to sleep?
+		* What is the first thing you remember on waking?
+		* Did you dream, or have any other experience whilst you were asleep?
+		* What was the worst thing about the operation?"
+		* What was the next worst thing?
+
+
+Provide:
+* Support and sympathy  
 Denial of veracity of events worsens psychological outcome.
-* Offer early support from psychiatric and counselling services
-
-
-####The Brice Questionnaire
-Traditional approach to assessing events:
-* Performed twice
-	* First at 24-48 hours
-	* Second at 7-8 days
-* Consists of five questions:
-	* What was the last thing you remembered happening before you went to sleep?
-	* What is the first thing you remember on waking?
-	* Did you dream, or have any other experience whilst you were asleep?
-	* What was the worst thing about the operation?"
-	* What was the next worst thing?
+* Early referral to psychiatric and counselling services
 
 
 
