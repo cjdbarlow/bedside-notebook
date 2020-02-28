@@ -1,5 +1,9 @@
 #Perioperative Management of Implantable Cardiac Devices
 
+> Key questions:
+> * What is the EMI risk of the surgery?
+> * How dependent is the patient?
+
 Implantable cardiac devices include:
 * Pacemakers  
 Generate an electrical impulse to stimulate myocardial contraction. Used for:
@@ -53,24 +57,44 @@ EMI risk of the procedure:
 
 ###Device Assessment
 Evaluation of pacemakers should consider:
-* Last pacing check  
-Within **12 months**.
 * Indication for pacing
 * Dependency on pacing  
 What proportion of time is the patient actively paced.
-* Underlying cardiac activity  
-No underlying activity, or a non-perfusing rhythm, is at higher risk.
-* Pacing threshold  
-Amplitude should be at least double the threshold.
-* Lead impedance  
-High impedance suggests damage, excessively low impedance suggests insulation defect.
-* Battery life
-* Single or biventricular pacing  
-Biventricular pacing is used for cardiac resynchronisation therapy, and suggests the patient has HFrEF.
-* Presence of rate-responsive pacing modes  
-Pacemaker detects a certain event (usually motion, implying exertion) and increases paced rate to compensate.
+	* Underlying cardiac activity on ECG  
+	No underlying activity, or a non-perfusing rhythm, is at higher risk.
+	* Use of antiarrhythmics
+* Pacemaker function and setup
+	* Presence of rate-responsive pacing modes  
+	Pacemaker detects a certain event (usually motion, implying exertion) and increases paced rate to compensate.
+	* Magnet mode effect  
+	Usually places the devices into DOO or VOO at a set rate.
+	* Last pacing check  
+	Within **12 months**.
+	* Pacing threshold  
+	Amplitude should be at least double the threshold.
+	* Lead impedance  
+	High impedance suggests damage, excessively low impedance suggests insulation defect.
+	* Battery life
+* Lead setup
+	* Number of leads  
+	May be 1, 2, or 3.
+	* Biventricular pacing  
+	Biventricular pacing is used for cardiac resynchronisation therapy, and suggests the patient has HFrEF. Indicated with LVEF <35% with LBBB and NYHA III/IV despite optimal medical therapy.
+	* Unipolar or bipolar leads  
+	Unipolar leads are usually present in older models. In a unipolar lead, the lead is the cathode and the device is the anode; whilst a bipolar lead has both anode and cathode. Unipolar leads are associated with more myocardial scarring and increased impedance.
+
+
+Evaluation of AICDs should consider:
+* Last pacing check  
+Within **6 months**.
+* Indication
+* Dependence
+	* Shock history
 * Magnet mode effect  
-Usually places the devices into DOO or VOO at a set rate.
+Usually disables the ICD.
+
+
+Investigations:
 * ECG
 	* Pacing dependency
 	* Pacing capture
@@ -80,18 +104,11 @@ Usually places the devices into DOO or VOO at a set rate.
 	* Presence of ICD  
 	Identified by use of shock coils on lead and a capacitor in the device.
 
-
-Evaluation of AICDs should consider:
-* Last pacing check  
-Within **6 months**.
-* Indication
-* Magnet mode effect  
-Usually disables the ICD.
-
-
-
 ##Management
-
+Includes:
+* [Pre-operative](#Pre-operative)
+* [Intra-operative](#Intraoperative)
+* [Post-operative](#Post-operative)
 
 ###Pre-operative
 General measures:
@@ -99,22 +116,21 @@ General measures:
 * Continue prescribed anti-arrhythmics
 
 
-Consider **re-programming ICD** if:
-* ICD and EMI is expected
-* Movement from shock could be hazardous  
-Patients who have defibrillation or antitachycardia functions inactivated should be on continuous monitoring with external defibrillation equipment readily available, and have their therapy reactivated prior to discharge.
-
-
-
 Consider **re-programming pacemaker functions** if:
-* Significant pacemaker dependency
-* Augmentation of CO and DO<sub>2</sub> helpful
-* Rate-responsive modes will be triggered incorrectly:
-	* Respiratory rate
-	* Accelerometry
-* Advanced functions need to be adjusted
+* Significant pacemaker dependency and EMI present
+* Modes need to be adjusted
+	* Rate-responsive modes will be triggered incorrectly:
+		* Respiratory rate
+		* Accelerometry
 	* Sleep/rest mode  
 	Fall in HR and CO overnight, if late surgery is planned.
+* Augmentation of CO and DO<sub>2</sub> helpful
+
+
+Consider **re-programming an AICD** if:
+* EMI is expected
+* Movement from shock could be hazardous  
+Patients who have defibrillation or antitachycardia functions inactivated should be on continuous monitoring with external defibrillation equipment readily available, and have their therapy reactivated prior to discharge.
 
 
 Consider a **magnet instead of re-programming if**:
@@ -131,8 +147,11 @@ Magnet function can be disabled in some Boston Scientific and St. Jude devices.
 
 ###Intraoperative
 Anaesthesia:
-* Standard monitoring
 * C
+	* Avoid precipitants of arrhythmia
+		* Hypoxia
+		* Hypercapnoea
+		* Electrolyte abnormalities
 	* Have defibrillation equipment available
 	* Consider induction with pads on if high risk  
 	Pads should be placed **at least 8cm** from the device.
@@ -156,8 +175,11 @@ Surgery:
 
 
 ###Post-operative
-* Reactivate any disabled functions
+* Reactivate any disabled functions  
+Electrophysiologist should check the patient prior to departure from recovery.
 * Check the device if a magnet has been used
+	* AICD should be examined by an electrophysiologist to confirm functions have reactivated
+	* Resumption of normal pacing function can be checked at bedside with an ECG
 
 ---
 ##References

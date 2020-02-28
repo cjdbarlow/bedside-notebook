@@ -145,7 +145,7 @@ Particularly remifentanil.
 	* Droperidol
 * OIVI  
 Particularly in high-risk groups.
-	* Sedation 
+	* Sedation  
 	Sedation is a better predictor of ventilatory impairment than respiratory rate.
 	* ↓ Oropharyngeal tone
 	* Elevated CO<sub>2</sub> set point

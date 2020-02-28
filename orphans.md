@@ -592,3 +592,59 @@ Ethics committee:
 
 ##Metaanalysis
 i-squared: Percentage of variability  	
+
+
+##Exam Stuff
+Overall:
+* Impossible to completely prepare
+* Odds are in your favour
+* Likely that blue book won't cover MCQs but may cover vivas
+	* Blue book 2017 will be about right though...
+
+MCQ and SAQ:
+* **ANZCA networks high yield**
+	* Anaesthesia learning module?
+* Review questions and vivas over the last 2 years; highly likely MCQs and SAQs will relate to these topics
+* One examiner marks each question  
+Random double-marker.
+	* Illegibility, spelling errors are penalised by examiner frustration
+* Questions aimed to be answered in ~8 minutes
+	* Generally easy to get the main points
+	* Time management important
+	* Low yield after the main points
+* Recent questions from FRCA and CICM good for vogue topics
+
+Med viva:
+* Should mostly be chronic stable disease
+* Rarely acute
+* Almost never a DDx
+* Patients tend to be institionalised and pretty good historians
+* Scoring systems (NYHA etc) are good, but if not applicable to your disease then score based on their functional impact
+* Sometimes a bit chaotic on day due to nature of patients, so less standardised than usual
+* Want an organised, empathic, listening approach to patient and getting information relevant to you as an anaesthetist
+* Respect and rapport with the patient is vital and "you will be punished severely" if you cause pain or are not respectful
+* Wear suit and tie or equivalent
+* Stem on door will direct you to a system; focus on that system first and then and only then go outside of that system if it is relevant and you have time
+* In general questions shouldn't focus on perioperative issues, but that may happen with weird shit because they don't know what else to talk about
+* Investigations are a big part of this exam
+	* More detail on spirometry including MMEF, peak and end expiratory flow, shape of waveform and why (seem to want more detail than most of the online resources have)
+	* Lead with the big stuff up front (e.g. there is a massive anterior STEMI), and then go through the detailed bit -> normally they will cut you off if you got the major things
+* Most common mistake is failure to listen to the patient
+
+Trends in people who fail:
+* Haven't used ANZCA networks
+* Haven't used the taxonomy for SAQs
+* Lack of organisation
+
+Vivas:
+* Three areas to work through
+* Make decision and justify your management
+* Avoid diving too deep too soon
+* Admit ignorance if complex cases that you haven't done  
+"I haven't done this but I am aware of these issues (list), and would seek advice of a senior and experienced colleague"
+* Grab lifelines when offered
+* Don't dive into crisis mode inappropriately early; demonstrates not ready for independent practice
+
+
+##ERAS
+* Bundle of care designed to speed return to function and reduce morbidity and mortality

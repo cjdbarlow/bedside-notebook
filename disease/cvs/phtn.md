@@ -68,6 +68,44 @@ Inability to perform **any activity** without symptoms. Patients:
 
 ##Epidemiology and Risk Factors
 ##Pathophysiology
+> Mostly notes from Hastings lecture that need to be classified better
+
+Change in mPAP can be due to:
+* Increased RV CO
+* Increased PVR
+* Increased LAP
+
+
+PASP in one metric to assess severity of disease. Key other metrics:
+* CVP
+* RV systolic function
+
+Classifications:
+* Pre-capillary
+	* PAH
+		* Small derangements have large implications
+	* lung disease
+	* CTEPH
+	* Weird stuff
+* Post-capillary
+	* LV
+		* HFpEF
+		* HFrEF
+		* MV disease
+* Mixed
+	* LV failure
+
+
+Assessment:
+* Where is the primary pathology
+* What are the consequences
+	* What is the PA pressure?  
+	Less important compared to functional severity and stability.
+
+
+Hypoxia primarily due to impaired diffusion capacity
+Other cause is intracardiac shunting (reopening of FO)
+
 ###Aetiology
 ##Clinical Manifestations
 > Symptoms often present for up to two years prior to diagnosis
@@ -75,10 +113,12 @@ Inability to perform **any activity** without symptoms. Patients:
 Non specific cardiac and respiratory features:
 * Exertional dyspnoea
 * Fatigue
+* Hoarseness  
+From recurrent laryngeal nerve stretch.
 * RV dysfunction
 	* Exertional chest pain
 	* Exertional syncope  
-	Rare.
+	Rare and late.
 	* Fluid overload
 	* Anorexia
 	* Hepatic congestion
@@ -90,9 +130,14 @@ Examination:
 * Elevated JVP
 * Hepatomegaly
 * Pulsatile liver
+* Ascites
+* Peripheral oedema
 
 ##Diagnostic Approach and DDx
 ##Investigations
+Six minute walk test:
+* Desaturation of >10% or distance <350m is significant of perioperative morbidity
+
 Right heart catheterisation:
 * Diagnostic
 * Of greater utility in type 1 and type 2
@@ -188,6 +233,16 @@ Transplantation:
 
 ###Anaesthetic Considerations
 Increased perioperative morbidity and mortality.
+
+
+Consider the package:
+* High risk
+	* Group I
+	* sPAP >70/PVR >3 Wood units
+	* WHO III/IV
+	* Major surgery
+	* Long operations
+	* Emergency surgery
 
 
 * C
