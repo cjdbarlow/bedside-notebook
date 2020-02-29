@@ -1,7 +1,7 @@
 #Erector Spinae Plane Block
 
 Paraspinal fascial plane block, which:
-* Involves injecting LA deep to the erector spinae muscle and superficial to the tip of the transeverse process  
+* Involves injecting LA deep to the erector spinae muscle and superficial to the tip of the transverse process  
 Distant from the spine, paravertebral space, pleura and vessels.
 * Can be performed on anticoagulated patients
 
@@ -15,6 +15,24 @@ Thoracic wall analgesia:
 
 ##Contraindications
 ##Anatomy
+Landmarks:
+* Identify spinous processes midline
+* Translate paramedian to identify transverse process and ribs on ultrasound
+
+Layers:
+* Skin
+* Subcutaneous tissue
+* Trapezius  
+Present in, absent
+* Erector spinae muscle  
+Block performed in plane between erector spinae and transverse processes.
+* Transverse processes separated by muscles (Multifidus and Rotatores)  
+* Ribs and intercostal muscles  
+* Paravertebral space
+* Pleura
+
+
+
 ##Equipment
 * High frequency linear transducer
 * Needle and catheter kit

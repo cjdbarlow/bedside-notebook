@@ -363,6 +363,7 @@
 * [Haematology](/disease/haeme/dic.md#id)
 	* [DIC](/disease/haeme/dic.md)
 	* [von Willebrand Disease](/disease/haeme/vwd.md)
+	* [Sickle Cell Disease](/disease/haeme/sickle.md)
 	* [VTE](/disease/haeme/vte.md)
 	* [HITT](/disease/haeme/hitt.md)
 * [Immune](/disease/immune/anaphylaxis.md#id)

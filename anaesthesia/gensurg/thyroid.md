@@ -67,7 +67,8 @@ Removal of thyroid gland, usually by transverse neck incision. Performed for:
 	* Use of nerve monitoring
 * E
 	* Thyroid state  
-	Aim euthyroid if possible. Evaluate for:
+	Requires euthyroid state. Evaluate:
+		* Normal T<sub>4</sub>/T<sub>3</sub>
 		* Normal temperature
 		* Normal HR, BP, pulse pressure
 		* Normal reflexes
