@@ -19,11 +19,12 @@ Anterior masses are most likely to cause severe cardiorespiratory problems due t
 	* SVC
 
 ##Considerations
-> Degree of compression may worsen as the mass shifts, which may occur with:
+> * Degree of compression may worsen as the mass shifts, which may occur with:
 >	* Induction of anaesthesia
 >	* Loss of spontaneous ventilation
 >	* Muscle relaxation
 >	* Supine positioning
+> **Life-threatening complications** may occur in **absence of symptoms** in **children**
 
 
 Anaesthetic considerations:

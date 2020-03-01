@@ -10,6 +10,7 @@ BIS -> Processed EEG
 ↓
 ⩾
 ⩽
+≃
 °
 μ
 α

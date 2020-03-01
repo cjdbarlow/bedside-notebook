@@ -6,8 +6,6 @@ Highly prevalent in first world countries:
 Up to 30% of inpatients.
 
 
-
-
 ##Pathophysiology
 ###Aetiology
 ##Clinical Manifestations
@@ -56,7 +54,9 @@ Key Considerations:
 	* **Diabetic therapies**  
 	Agents, dose, and timing.
 	* Presence of **diabetic complications**
-		* Microvascular
+		* Microvascular  
+			* Autonomic neuropathy  
+			Increases peri-induction instability of cardiovascular parameters.
 		* Macrovascular
 	* **Baseline** glucose **control**  
 	Average, range, frequency of monitoring, and HbA1c.
@@ -82,7 +82,6 @@ General Principles:
 Varies depending on size of operation and drug.
 * Adjust insulin dosing  
 Depends on timing of list.
-* 
 
 
 ###Perioperative Oral Hypoglycaemic Management
@@ -159,7 +158,36 @@ Sliding scales should be based on the total daily insulin dose:
 ##Complications
 Significant risk:
 * Increased perioperative risk
-* Micro and macrovascular disease
+* Microvascular disease  
+Development related to both magnitude and duration of hyperglycaemia.
+	* Retinopathy
+		* Background retinopathy  
+		Small haemorrhages with lipid deposition at their margins.
+		* Proliferative retinopathy  
+		Angiogenesis of retinal vessels into vitreous, which can lead to vitreous haemorrhage and retinal detachment.
+	* Nephropathy  
+	Microalbuminuria, leading to proteinuria and then nephropathy.
+	* Neuropathy
+		* Sensory  
+			* Most common
+			* Paraesthesias, neuropathic pain, or simple numbness
+		* Focal
+		* Autonomic  
+		Manifestation may occur in most organ symptoms.
+			* Resting tachycardia
+			* Silent ischaemia
+			* Orthostatic hypotension
+			* Loss of HR variability
+			* Anhidrosis and failure of vasoconstriction  
+			Poor heat regulation.
+			* Bladder dysfunction
+			* Erectile dysfunction
+			* Gastroparesis
+			* Constipation/diarrhoea
+* Macrovascular disease
+	* IHD
+	* CVD
+	* PVD
 * Acute diabetic metabolic states
 	* DKA
 	* HHS
@@ -219,3 +247,4 @@ Management considerations:
 ---
 ##References
 1. The Royal Women's Hospital. Diabetes: Perioperative Glycaemic Control (Non-Obstetric). Policy and Procedure Manual. 2013.
+2. Fowler MJ. Microvascular and Macrovascular Complications of Diabetes. Clinical Diabetes. 2008;26(2):77-82. doi:10.2337/diaclin.26.2.77
