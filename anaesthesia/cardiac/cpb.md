@@ -175,7 +175,7 @@ Complete a pre-wean checklist and confirm:
 		Pacing wires in situ and pacing is set. A suggested approach:
 			* AOO/AAI or DOO/DDD
 			* High amplitudes (e.g. 16mA)  
-			* High sensing threshold if using a synchronus mode  
+			* High sensing threshold if using a synchronous mode  
 			Decreases chance of diathermy interference.
 		* Preload  
 		* Afterload  

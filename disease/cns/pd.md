@@ -1,12 +1,13 @@
 #Parkinson's Disease
 
-Progressive chronic neurological disorder:
-* Occurs due to 
-* Characterised by:
-	* Motor symptoms
-	* Autonomic dysfunction
-	* Bulbar dysfunction
-	* Dementia
+Progressive chronic central neurological disorder that occurs due to degeneration of dopaminergic neurons in the substantia nigra, and is characterised by:
+* Motor symptoms
+	* Tremor
+	* Bradykinesia
+	* Rigidity
+* Autonomic dysfunction
+* Bulbar dysfunction
+* Dementia
 
 ##Epidemiology and Risk Factors
 Prevalence:
@@ -168,6 +169,7 @@ Deep Brain Stimulation:
 		* Sialorrhoea
 * B
 	* Chest wall rigidity
+		* Impaired secretion clearance
 * C
 	* **Autonomic instability**
 * D
@@ -185,6 +187,25 @@ Deep Brain Stimulation:
 			Chlorpromazine.
 		* **MAO-I** use  
 		Selegiline.
+	* **Deep brain stimulators**  
+	Consist of electrodes implanted into brain parenchyma, a pulse generator located (usually) below the clavicle, and a wire connecting them.
+		* Preoperatively  
+		Assess:
+			* Model, location, last check, battery life
+			* Severity of symptoms when disabled
+			* How to use the patient programmer  
+			Particularly how to turn it on and off.
+			* Discuss with patients neurologist about any post-operative checks required
+			* Path of wires and location of device to avoid iatrogenic injury
+		* Intraoperatively
+			* Turn device off to minimise EMI  
+			Can turn off after induction if severe symptoms.
+			* Regional anaesthesia may require increased sedation to control symptoms whilst off
+			* Turn device on prior to emergence
+			* Use bipolar diathermy in short bursts with lowest possible power
+		* Post-operatively
+			* Neurological examination to rule out adverse events
+			* Device check by product representative or neurologist
 	* Opioids  
 		* Muscle rigidity
 		* Dystonic reactions
@@ -237,3 +258,4 @@ Symptoms manifest and recognisable.
 ##References
 1. Zesiewicz TA. Parkinson Disease. CONTINUUM: Lifelong Learning in Neurology. 2019 Aug;25(4):896. 
 2. Newman EJ, Grosset DG, Kennedy PGE. The Parkinsonism-Hyperpyrexia Syndrome. Neurocrit Care. 2009;10(1):136-140. doi:10.1007/s12028-008-9125-4
+3. Yeoh, Tze Yeng, Pirjo Manninen, Suneil K. Kalia, and Lashmi Venkatraghavan. ‘Anesthesia Considerations for Patients with an Implanted Deep Brain Stimulator Undergoing Surgery: A Review and Update’. Canadian Journal of Anesthesia/Journal Canadien d’anesthésie 64, no. 3 (1 March 2017): 308–19. https://doi.org/10.1007/s12630-016-0794-8.

@@ -1,18 +1,13 @@
 #Aortic Stenosis
 
-Aortic stenosis occurs when valvular disease impedes blood flow across the valve during ventricular systole. The aortic valve is:
-* Normally 2.6-3.5cm<sup>2</sup>  
-Haemodynamically significant obstruction occurs when AVA approaches 1cm<sup>2</sup>.
-
-
-AS is classified based on echocardiographic findings, using either:
-* Aortic valve area
+Aortic stenosis occurs when valvular disease impedes blood flow across the valve during ventricular systole. The aortic valve is normally 2.6-3.5cm<sup>2</sup>, and haemodynamically significant obstruction occurs when AVA approaches 1cm<sup>2</sup>. AS is classified based on echocardiographic findings, using either:
 * Aortic valve pressure gradient/peak flow  
-Dependent upon flow across the valve, and so will underpredict severity in failure states.
+Dependent upon flow across the valve, and so will **underpredict severity in failure states** because the failing LV cannot generate enough pressure to produce a high flow.
 	* Pressure gradients are calculated by measuring flow across the valve, using the **simplified Benoulli equation:** $$ \Delta P = 4v^2$$  
-		* Peak gradients are calculated from peak flow during ejection
-		* Mean gradients are calculated by the average flow (area under the doppler envelope) during ejection
-
+	* Peak gradients are calculated from peak flow during ejection
+	* Mean gradients are calculated by the average flow (area under the doppler envelope) during ejection
+* Aortic valve area  
+Derived using DI and LVOT area, so is less accurate than direct measurements of flow.
 
 |Technique|Mild|Moderate|Severe|Critical|
 |--|---|

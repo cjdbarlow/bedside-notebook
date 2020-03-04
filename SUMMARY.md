@@ -113,6 +113,7 @@
 	* [Patient Blood Management](/anaesthesia/periop/patient-blood-mx.md)
 	* [Routine Investigations](/anaesthesia/periop/routine-ix.md)
 	* [POCD](/anaesthesia/periop/pocd.md)
+	* [ERAS](/anaesthesia/periop/eras.md)
 * [General Anaesthesia](/anaesthesia/general/strategies.md)
 	* [Low-Flow Anaesthesia](/anaesthesia/general/low-flow.md)
 	* [TIVA](/anaesthesia/general/tiva.md)

@@ -42,21 +42,25 @@ Intro and technique
 
 ##Surgical Stages
 ##Preoperative
-Assessment:
-Consultation:
-Optimisation:
-Premedication:
-Explain/Consent:
+**Assessment:**
+**Consultation:**
+**Optimisation:**
+**Premedication:**
+**Explain/Consent:**
+
 ##Intraoperative
-Preparation:
-Induction:
-Maintenance:
-Emergence:
+**Preparation:**
+**Induction:**
+**Maintenance:**
+**Emergence:**
+
 ##Postoperative
-Destination:
-Analgesia:
-Drugs:
-###Complications
+**Disposition:**
+**Referrals/Review:**
+**Analgesia:**
+**Fluids:**
+**Thromboprophylaxis:**
+**Specific:**
 
 ---
 ##References

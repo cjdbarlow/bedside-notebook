@@ -1,0 +1,89 @@
+#Enhanced Recovery After Surgery
+
+> * ERAS describes a bundle of interventions designed to improve perioperative care through standardisation and protocolisation  
+>May reduce:
+>	* LOS by 30-50%
+>	* Complications by 10-20%
+> * Specific interventions are centre and surgery dependent  
+> Critics argue lack of RCTs and this variability decreases strength of evidence.
+> * Much of ERAS has been subsumed by **good perioperative care** and it can be difficult to distinguish ERAS pathways from normal management
+
+ERAS describes a **bundle of care** designed to **attenuate** the **perioperative surgical response**, facilitate **return to premorbid function**, and **reduce complications**.
+
+
+##Elements of ERAS
+> Not all appropriate for all operations
+
+Preoperative:
+* Assessment
+	* Shared decision making
+	* Pre-operative counselling
+* Optimisation
+	* Pre-existing comorbidities
+	* Anaemia
+	* Smoking cessation
+	* Alcohol cessation
+	* Nutrition
+		* Pre-operative carbohydrate loading
+		* Avoid prolonged fasting
+		* Avoid bowel preparation
+
+
+Intraoperative:
+* Laparoscopic surgery
+* Minimise:
+	* Chest drains
+	* NGT
+* Goal-directed fluid therapy
+* Opioid-sparing analgesia
+	* Paracetamol
+	* NSAIDs
+	* Tramadol
+	* Regional
+	* Epidural  
+	Controversial due to impaired mobility.
+
+
+Postoperative:
+* Early mobilisation
+* Nutrition
+	* Early nutritional support
+	* Early hydration
+* VTE prophylaxis
+* Antimicrobial prophylaxis
+
+
+###ERAS+
+Recent addition designed to prevent post-operative pulmonary complications. The mnemonic is ICOUGH:
+* Incentive Spirometry
+* Cough/deep breathing
+* Oral care
+* Understanding (patient education)
+* (Get) out of bed
+* Head of bed elevation
+
+
+##Establishing ERAS Pathways
+Involves:
+* Consultation and need assessment
+	* Benefits
+	* Costs
+	* Regulatory authority involvement
+	* Review local hospitals with similar services and their guidelines
+	* Review specialty hospitals for advice and review
+	* Review college guidelines
+* Plan and formulation
+	* Set up MDT group to consider implementation and appropriate scope of practice
+	* Develop local policy
+	* Consider requirement for:
+		* Staff training
+		* Facilities required
+	* Safety concerns
+* Implementation
+	* Slow rollout
+* Review
+	* Ongoing formal review and audit of effectiveness, safety, and cost
+
+---
+
+##References
