@@ -23,7 +23,11 @@ The globe is:
 		* Sclera is opaque, and covers the rest  
 		The circumferential junction of the cornea and the sclera is called the **limbus**.
 	* **Tenon's capsule** covers the scleral portion  
-Elastic white connective tissue layer that surrounds the globe. It lies deep to the conjunctiva, which it merges with ~1mm from the limbus.
+	Connective tissue layer acts as the **fascial sheathe of the globe**. The capsule:
+		* Lies deep to the conjunctiva
+		* Superficial to the sclera  
+		* Anteriorly merges ~1mm with the limbus
+		* Posteriorly merges with the optic nerve sheathe
 * Attached to each of the extraocular muscles
 * Divided into the anterior and posterior segments:
 	* Anterior segment  

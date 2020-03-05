@@ -8,7 +8,7 @@
 * **Preconditions**  
 Must be met prior to diagnosis.
 	* A **brain lesion consistent with a diagnosis of brain death**  
-	Neuroimaging consistent with acute brain pathology that could cause brain death.
+	Neuroimaging consistent with acute brain pathology that could ause brain death.
 	* Normothermia  
 	≥ 36.5°C.
 	* Normotensive 
@@ -35,7 +35,7 @@ GCS 3, with no response to pain in both central (supraorbital) and peripheral di
 		* 20mL given
 	* No gag
 	* No cough
-* **Apnoea**
+* **Apnoea**  
 Apnoea testing:
 	* Preoxygenated with 100% O<sub>2</sub>
 	* Ventilator disconnected whilst delivering 100% O<sub>2</sub> at 6L/min through a suction catheter close to the carina
@@ -43,36 +43,6 @@ Apnoea testing:
 		* PaCO<sub>2</sub> is ≥60mmHg, OR
 		* PaCO<sub>2</sub> has risen 20mmHg above baseline
 
-
-##Pathophysiology of Brain Death
-Key effects:
-* CVS
-	* Dysrhythmias
-		* Catecholamines
-		* Myocardial damage
-		* Reduced CBF
-	* Hypotension
-		* Vasoplegia
-		* Hypovolaemia
-		* Myocardial dysfunction
-		* DI
-	* APO
-		* Capillary damage
-* Non-CVS
-	* Hypothermia
-		* Reduced metabolic rate
-		* Vasodilatation  
-		Heat loss.
-		* Hypothalamic dysfunction
-	* Endocrine dysfunction
-		* Diabetes Insipidus  
-		Posterior pituitary damage.
-		* Hyperglycaemia
-		* Sick euthyroid state  
-		Low effective T3 and T4 due to high levels of (inactive) reverse-T3; suggested supplementation with thyroxine if impaired cardiac function to assess for suitability for transplant.
-	* DIC
-		* Tissue factor release
-	* SIRS
 
 ##Investigations
 Cerebral perfusion imaging is used when brain death cannot be determined due to ***preconditions* not met**. Key investigations:
@@ -84,8 +54,8 @@ Lack of perfusion in the brain parenchyma.
 Screening test for appropriateness of performing CT. Demonstration of blood flow rules out diagnosis of brain death.
 
 
+
 ---
 
 ##References
 1. Wijdicks EF. The bare essentials: coma. Pract Neurol. 2010 Feb;10(1):51-60.
-2. Kotloff, Robert M., Sandralee Blosser, Gerard J. Fulda, Darren Malinoski, Vivek N. Ahya, Luis Angel, Matthew C. Byrnes, et al. ‘Management of the Potential Organ Donor in the ICU: Society of Critical Care Medicine/American College of Chest Physicians/Association of Organ Procurement Organizations Consensus Statement’. Critical Care Medicine 43, no. 6 (June 2015): 1291–1325.
