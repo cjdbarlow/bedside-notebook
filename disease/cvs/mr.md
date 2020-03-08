@@ -19,7 +19,7 @@ MR classification is complex, and is based on echocardiographic findings:
 |--|--|--|
 |Regurgitant fraction|<30%|30-49%|>50%
 |Regurgitant volume|<30ml/beat|30-60ml/beat|>60ml/beat|
-|Area of regurgitant orifice|⩽0.2cm<sup>2</sup>|0.2-0.39cm<sup>2</sup>|>0.4cm<sup>2</sup>|
+|Effective Regurgitant Orifice Area|⩽0.2cm<sup>2</sup>|0.2-0.39cm<sup>2</sup>|>0.4cm<sup>2</sup>|
 
 ##Epidemiology and Risk Factors
 ##Pathophysiology

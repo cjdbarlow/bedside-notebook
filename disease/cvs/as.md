@@ -9,12 +9,14 @@ Dependent upon flow across the valve, and so will **underpredict severity in fai
 * Aortic valve area  
 Derived using DI and LVOT area, so is less accurate than direct measurements of flow.
 
-|Technique|Mild|Moderate|Severe|Critical|
+|Technique|Mild|Moderate|Severe|
 |--|---|
-|Valve Area|1.2-1.8cm<sup>2</sup>|0.8-1.2cm<sup>2</sup>|0.6-0.8cm<sup>2</sup>|< 0.6cm<sup>2</sup>|
-|Mean Pressure Gradient|12-25mmHg|25-40mmHg|40-50mmHg|>50mmHg|
-|Peak velocity|2.5-3m/s|3-4m/s|>4m/s||
-|Dimensionless Index|0.5-0.75|0.25-0.5|<0.25||
+|Peak velocity (m/s)|2.6-2.9|3-4|>4|
+|Mean Pressure Gradient|<30|30-50|>50|
+|Aortic Valve Area|>1.5|1.5-1.0|<1.0|
+|Dimensionless Index|0.5-0.75|0.25-0.5|<0.25|
+
+<sup>2</sup>
 
 ##Epidemiology and Risk Factors
 Risk factors include:
