@@ -2,6 +2,7 @@
 
 *This covers the key considerations when anaesthetising the obstetric patient for both obstetric and non-obstetric surgery. Other physiological factors are covered under [physiology of pregnancy](/disease/obs/preg.md#physiol)*.
 
+##Physiological Changes of Pregnancy
 * A
 	* Airway oedema  
 	MP score decreases both during pregnancy and during labour.
@@ -35,6 +36,36 @@
 	* Potential for massive maternal haemorrhage from uterine surgery
 		* Crossmatch required
 
+
+##Indications for Antenatal Anaesthetic Assessment
+**Anaesthetic Indications:**
+* Previous anaesthetic complication
+	* Difficult or failed intubation
+	* Anaphylaxis
+	* Malignant hyperthermia
+	* Suxamethonium apnoea
+	* Complications from previous neuraxial
+* Previous obstetric analgesia complication
+	* Painful labour/delivery despite anaesthetic involvement
+	* Painful caesarian
+
+
+**Patient Indications**:
+* Cardiac disease
+* Neurological disorder
+	* MS
+	* MG
+* Spinal cord problem
+	* Spinal cord injury
+	* Previous back surgery
+	* Congenital abnormalities
+* Haematological disorder
+	* Bleeding abnormalities
+	* vWD
+	* Platelet dysfunction
+* Other
+	* Severe systemic disease
+	* Patient request
 
 
 ---

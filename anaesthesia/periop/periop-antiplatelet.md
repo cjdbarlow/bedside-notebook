@@ -92,11 +92,11 @@ High-risk surgeries include:
 	If ceasing aspirin, discuss with cardiology.
 
 
-|Drug|When to cease pre-operatively|Re-loading dose|
+|Drug|When to cease pre-operatively|Re-loading dose|Indications|Other|
 |--|--|
-|**Clopidogrel**|5 days|300-600mg|
-|**Prasugrel**|7 days|60mg|
-|**Ticagrelor**|3-5 days|180mg|
+|**Clopidogrel**|5 days|300-600mg|Intracranial stents (others are off label), or cardiac stents with high-bleeding risk|Clopidogrel resistance in ~30% of patients due to pharmacogenetic variation|
+|**Prasugrel**|7 days|60mg|Recommended for patients at high risk of recurrent ischaemia|Greater risk of bleeding than clopidogrel, fastest time to onset|
+|**Ticagrelor**|3-5 days|180mg|Preferred to clopidogrel in patients at low risk of ischaemia|More effective than clopidogrel with similar rate of bleeding|
 
 
 ###Urgent Surgery	
@@ -105,9 +105,8 @@ High-risk surgeries include:
 
 
 
-
-
 ---
 ##References
 1. Carruthers J, Shaw J, Tran H, Kusre S. Guideline: Perioperative Management of Antiplatelet Therapy in Patients with Coronary Artery Stents. The Alfred Hospital, Melbourne. May 2019.
+2. Indraratna P, Cao C. New antiplatelet drugs for acute coronary syndrome. Aust Prescr. 2014. doi:10.18773/austprescr.2014.074
 

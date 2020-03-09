@@ -1,6 +1,6 @@
 #Complex Regional Pain Syndrome
 
-Chronic pain condition defined by:
+Chronic neuroimmunological pain condition defined by:
 * Continuing pain that is **disproportionate** to any inciting event
 * Pain that is **regional**  
 Not specific to a dermatome or peripheral nerve territory.
@@ -19,17 +19,25 @@ Not specific to a dermatome or peripheral nerve territory.
 
 CRPS is divided into two subtypes:
 * Type I  
-No evidence of nerve injury.
+No evidence of nerve injury. Previously known as reflex sympathetic dystrophy.
 * Type II  
-Evidence of nerve injury present.
+Evidence of nerve injury present. Previously known as causalgia.
 
 ##Epidemiology and Risk Factors
+Occurs in 0.5-2% of limb trauma.
+
+
 Key risk factors:
 * Female > Male
 * Post-fracture
 
 ##Pathophysiology
 Poorly understood, but multifactorial process involving central and peripheral nervous systems:
+* Local tissue damage
+* Inflammation
+* Pain processing
+* Endocrine and autonomic
+* Immune
 
 ###Aetiology
 ##Clinical Manifestations
@@ -58,9 +66,9 @@ Non-pharmacological:
 
 Pharmacological:
 * Oral corticosteroids
+* Bisphosphonates
 * Gabapentinoids
 * Antidepressants
-* Bisphosphonates
 
 
 Refractory:
@@ -72,6 +80,12 @@ Refractory:
 ###Surgical
 ###Anaesthetic Considerations
 ###Ineffective Therapies
+Include:
+* Opioids  
+Worsening of pain due to central sensitisation.
+* Calcitonin  
+No effect.
+
 ##Complications
 ##Prognosis
 ##Key Studies
