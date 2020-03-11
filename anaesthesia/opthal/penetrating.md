@@ -1,12 +1,14 @@
 #Penetrating Eye Injuries
 
 >Airway: ETT usual given emergent surgery and remote airway. <br>
->Access: 20G IV<br>
+>Access: Any<br>
 >Pain: Substantial intraoperative stimulation, requiring deep analgesia or anaesthesia. <br>
 >Position: Aim head elevated to reduce IOP <br>
 >Time: Variable <br>
 >Blood loss: Negligible <br>
->Special: IOP control critical <br>
+>The Bottom Line:
+>* [IOP control critical](/anaesthesia/opthal/opthal-principles.md#Intra-Ocular Pressure): intubation, extubation, and PONV prevention
+>* Oculocardic reflex
 
 Major issues with anaesthetic management include:
 * Avoidance of increased IOP  
@@ -43,6 +45,7 @@ Maintenance:
 * Deep anaesthesia required to avoid coughing
 * Nitrous oxide is acceptable provided there is no air in the eye
 
+
 Emergence:
 * Cough-free extubation is critical to avoid associated rise in IOP
 
@@ -54,3 +57,4 @@ Control of PONV to avoid vomiting and rise in IOP:
 
 ---
 ##References
+1. Murgatroyd H, Bembridge J. Intraocular pressure. Contin Educ Anaesth Crit Care Pain. 2008;8(3):100-103. doi:10.1093/bjaceaccp/mkn015

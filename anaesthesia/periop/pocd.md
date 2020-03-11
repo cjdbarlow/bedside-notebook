@@ -16,7 +16,7 @@ Cognitive dysfunction persisting after 30 days post-operatively. Graded based on
 * Low premorbid IQ
 * Lower education level
 * Perioperative covert stroke
-* Hearing of visual impairment
+* Hearing or visual impairment
 * Comorbidities
 	* CVD
 	* IHD

@@ -102,16 +102,6 @@ From volatile and remifentanil:
 * Turn off remifentanil prior to transferring patient from the operating table
 * Extubate on bed
 
-##Deep Extubation
-Requires:
-* Steady, stable, adequate ventilation on minimal pressure suppport
-* No response (cough, breath-hold, or altered respiratory pattern) to:
-	* Removal of ETT tape/tie
-	* Suctioning of oropharynx
-	* Deflation of ETT cuff
-* Removal of tube at end-inspiration  
-Vocal cords maximally abducted.
-
 
 ##Regional Strategies
 

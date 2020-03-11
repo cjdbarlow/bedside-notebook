@@ -3,49 +3,35 @@
 > * In all peri-extubation airway problems, rapid supplemental oxygen administration is beneficial
 
 
-Emergence is associated with more airway problems than induction.
+Emergence is associated with more airway problems than induction. Planning for extubation should **consider**:
+* How well the patient will **tolerate the physiological response** to extubation  
+Coughing/bucking/Valsalva, hypertension.
+* The **likelihood** of the patient **requiring reintubation**  
+* The predicted **difficulty of reintubation**
 
-##Planning Extubation
-Assessing for extubation requires:
+##Assessment
 * A
-	* Can the patient maintain their own airway?
+	* How easy will this patient be to reintubate?
+		* Anatomical
+		* Physiological
+		* Environmental
+	* Can the patient protect their own airway?
 	* What is the risk of aspiration?  
 	Baseline risk of aspiration in the anaesthetic population is 2-10/10,000.
+	* **Cuff leak** if prolonged intubation or prone
 * B
-	* Is there adequate oxygenation?
+	* Is there adequate oxygenation, and can they oxygenate without support?
 		* FiO<sub>2</sub>
 		* PEEP requirement
-	* Is there adequate ventilation?
+	* Is there adequate ventilation, and can they ventilate without support?
 		* ETCO<sub>2</sub>
 		* Pressure Support requirement
+	* Can this patient clear secretions adequately?
 * C
 	* Is there any CVS compromise?
+	* Does this patient require tight haemodynamic control peri-extubation?
 * D
 	* Is there adequate analgesia?
-
-
-##Performing Extubation
-* Consider placing a bite block  
-Especially in young, male patients.
-	* Prevents tube lumen occlusion if the tube is bitten
-	* If the tube is bitten, then deflate the pilot balloon to allow the patient to breath around the ETT, minimising the risk of negative-pressure pulmonary oedema
-* Position the patient appropriately
-	* Left lateral with the head below the level of the heart if high aspiration risk
-	* Sit up supine to optimise FRC if low aspiration risk/risk of desaturation
-* Suction the airway
-* Provide 100% oxygen
-* Extubate at end-inspiration  
-Vocal cords are maximally abducted at this point.
-* Provide positive airway pressure during extubation, prior to removing the tube from the glottis  
-Increases airway pressure in the trachea, assisting expulsion of secretions from the vocal cords as the tube is removed.
-
-###Strategies for Difficult Extubation
-* LMA exchange  
-Place an LMA during a deep plane of anaesthesia and allow emergence to occur with the LMA in situ.
-* Place a tube exchange wire  
-	* Used when reintubation may be difficult
-	* A wire is left in situ in the trachea, and secured to the patient
-	* The wire is reasonably well tolerated, and can be left up to 72 hours
 
 
 ##Problems Occurring During Extubation
@@ -86,6 +72,70 @@ Problems include:
 * C
 	* CVS instability  
 	Generally ↑ MAP and HR, with corresponding ↓ in EF due to a reduction in afterload.
+
+
+##Performing Extubation
+**General case for the low-risk extubation:**
+* Provide 90-100% oxygen  
+Consider some nitrogen to avoid complete atelectasis.
+* Sit up to optimise FRC
+* Ensure ToF >0.9
+* Suction the pharynx
+* Deflate the ETT cuff  
+Slow deflation minimises coughing.
+* Extubate at end-inspiration  
+Vocal cords are maximally abducted at this point.
+* Consider:
+	* Suction of tube during extubation to clear pharynx  
+	* Providing positive airway pressure during extubation, prior to removing the tube from the glottis  
+	Increases airway pressure in the trachea, assisting expulsion of secretions from the vocal cords as the tube is removed.
+
+
+###Low-Risk Considerations
+* Place a **bite block**  
+Recommended in young, male patients to prevent complete occlusion of the tube if bitten. If the tube is bitten, then deflate the pilot balloon to allow the patient to breath around the ETT, minimising the risk of negative-pressure pulmonary oedema.
+* **Extubate lateral**ly  
+Left lateral with the head below the level of the heart if high aspiration risk. Especially useful in children as this helps to maintain airway without requiring jaw thrust.
+
+
+###High-Risk Considerations
+* Place an **airway exchange catheter** or **exchange wire**  
+Indicated when reintubation may be potentially anatomically difficult.
+	* Catheter is placed through ETT and left in place after extubation, and can be used as a stylet to guide reintubation
+	* Airway exchange wires are generally better tolerated, and can be left up to 72 hours  
+	Wires require an exchange catheter to be railroaded prior to an ETT.
+
+
+
+###Attenuating Physiological Response
+If it is important to minimise coughing or maintain tight haemodynamics peri-extubation, then consider:
+* **Deep extubation**  
+Extubation after recovery of spontaneous ventilation but prior to recovery of laryngeal reflexes. Haemodynamically stable but risks both aspiration and airway obstruction; so is contraindicated in patients who are at risk of aspiration, difficult mask ventilation, or difficult reintubation. Process:
+	* Ensure steady, stable, adequate ventilation on minimal pressure support
+	* No response (cough, breath-hold, or altered respiratory pattern) to:
+		* Removal of ETT tape/tie
+		* Suctioning of oropharynx
+		* Deflation of ETT cuff
+	* Remove ETT at end-inspiration
+* **Lignocaine**  
+	* 1-1.5mg/kg IV peri-extubation via cuff
+	* Use lignocaine in ETT cuff  
+	Must be delivered early (usually with induction) and given adequate time to work.
+* **LMA exchange** ("Bailey maneuvre")  
+Exchange ETT for an LMA during a deep plane of anaesthesia and allow emergence to occur with the LMA in situ.
+* **Remifentanil**  
+Effect site 2.0ng/mL peri-extubation.
+
+
+
+
+
+
+###Strategies for Difficult Extubation
+
+
+
+
 
 
 ---

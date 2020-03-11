@@ -11,13 +11,21 @@ Key changes:
 		* Atelectasis
 	* Increased PaCO<sub>2</sub>  
 	Due to absorption of insufflated CO<sub>2</sub>.
-* Cardiovascular
-	* Decreased preload  
-	IVC compression.
-	* Increased SVR
-		* Inotropes more effective than vasopressors in management of hypotension
-	* Decreased splanchnic blood flow  
-	Up to 40% reduction in mesenteric blood flow.
+* Cardiovascular  
+Effects vary depending on intraabdominal pressure, and these changes will be exacerbated by changes in positioning altering venous return:
+	* IAP ⩽10mmHg
+		* Splanchnic compression and autotransfusion  
+		Up to 40% reduction in mesenteric blood flow.
+		* ↑ Preload, VR, and CO
+	* IAP 10-20mmHg
+		* IVC compression and ↓ preload
+		* ↑ SVR
+		* ↑ SVR exceeds ↓ preload; so BP is maintained
+	* IAP >20mmHg
+		* ↑ IVC compression and ↓↓ preload
+		* ↑ SVR  
+		Inotropes more effective than vasopressors in management of hypotension.
+		* ↓ CO with ↓ in BP
 
 ##Benefits
 Include:

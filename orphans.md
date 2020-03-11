@@ -1,5 +1,5 @@
 #Orphans
-Facts that are useful but don't fit cleanly into a current section:
+>Facts that are useful but don't fit cleanly into a current section
 
 * Endocrine crises depend on the underlying condition (e.g. hypothyroidism) and a physiological stress (surgery, illness) that exacerbates that condition
 
@@ -158,27 +158,7 @@ Not much room for surgical operation
 Haemodynamic instability from manipulating brainstem cardiac centres
 Obstructive hydrocephalus
 
-##Clot Retrieval
-* NNT 5 for independence and 3 for discharge
-	* Within 5 hours of onset
-* Can be extended up to 24 hours in selected patients with favourable imaging
-* Time critical
-* Appropriate patient selection
-	* Proven large vessel occlusion (ICA, MCA, M1, M2, basilar)
-* Arrange brain imaging
-	* Review brain imaging results
-	* Communicate with neurointerventionalist
-	* Transfer to angiography suite for treatment
 
-
-Issues:
-* Patient position
-* HDx stability
-* Maintain SBP 140-180 or within 10% of baseline
-- Maintain sats, CO2 35-40
-* Normothermia, normoglycaemia
-* Anticoagulation
-* GA vs sedation; trend is better with sedation
 
 ##Awake crani
 * Patient selection, counselling
@@ -738,3 +718,38 @@ LV function:
 * GLS
 	* Integrated measurement of change in length of myocardium
 	* -18 normal, less negative is worse (less movement)
+
+
+
+##NIRS
+Cerebral oximetry:
+* Principles similar to pulse oximetry and spatial resolution
+* Algorithmically correct for saturation of extracranial blood
+* Values are derived mainly from venous blood and are independent of pulsatile blood flow
+* Use
+	* Collect baseline prior to induction  
+	Usual is 60-80%.
+	* Factors affecting oxygenation:
+		* Cerebral blood flow
+			* CO
+			* Acid-base
+			* Haemorrhage
+			* Arterial inflow/venous outflow
+		* Oxygen content
+			* [Hb]
+			* Hb saturation
+			* Lung function
+			* FiO2
+	* Optimise based on the above factors
+	* Reduction of 12-20% from baseline suggests brain ischaemia
+* Limitations
+	* Extracranial blood saturation
+	* Diathermy
+	* Only measures regional saturation
+	* Don't detect cause
+
+1. Tosh W, Patteril M. Cerebral oximetry. BJA Educ. 2016;16(12):417-421. doi:10.1093/bjaed/mkw024
+
+##Blood Gas Corrections
+2 and 4 are just as good and easier to remember.
+i.e. for every 10 change in CO2, bicarb will chagne acutely by 2 and chronically by  4.

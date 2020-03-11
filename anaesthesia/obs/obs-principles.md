@@ -18,7 +18,7 @@
 	* ↓ SVR and BP
 	* ↑ Circulating volume
 	* Note **[hypertension of pregnancy](/disease/obs/htn.md)**  
-	Regional is more stable than GA if **not intrasvascularly deplete**.
+	Regional is more stable than GA if **not intravascularly deplete**.
 * F
 	*  ↑ RBF, GFR, and creatinine clearance
 * G

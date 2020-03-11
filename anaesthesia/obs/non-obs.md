@@ -1,4 +1,10 @@
 #Anaesthesia for Non-Obstetric Surgery in the Obstetric Patient
+> The Bottom Line:
+>* Miscarriage is a complication but rarely due to anaesthesia
+>* Principles of intrauterine resuscitation apply
+>* General considerations for the obstetric patient apply
+>* Consider antenatal steroids
+>* Perioperative foetal monitoring required for all pregnancies, but intraoperative only if the pregnancy is viable and the operation could be paused to facilitate caesarian delivery
 
 
 Approximately **2%** of pregnant women will undergo surgery for **non-obstetric indications**. Key considerations are:
@@ -11,13 +17,14 @@ Approximately **2%** of pregnant women will undergo surgery for **non-obstetric 
 		* Hypoxia
 		* Hyper/hypocapnoea
 	* Placental transfer of drugs
-	* Miscarriage
+	* Miscarriage  
+	Predominantly due to risk of surgery and concomitant inflammatory response, rather than any direct effect of anaesthesia.
 	* Pre-term delivery
 
 
 ##Preoperative
 **Assessment:**
-* Indication for surgery  
+* Indication for surgery and inherent risk to foetus  
 Most common including:
 	* Appendicitis
 	* Cholecystitis
@@ -66,7 +73,7 @@ Increases with lower gestational age and conditions associated with **local infl
 **Induction:**
 * Use a **wedge** to prevent **aorto-caval compression after 20 weeks**  
 May be required earlier if polyhydramnios or multiple pregnancy.
-* Other [obstetric considerations](/anaesthesia/obs/obs-principles.md#id), depending on degree of gestation:
+* Other [obstetric considerations](/anaesthesia/obs/obs-principles.md#id), depending on degree of gestation
 
 
 **Maintenance:**
