@@ -101,32 +101,6 @@ e.g. With salpingectomy or hysterectomy.
 			High risk of haemorrhage and requirement for hysterectomy. 
 
 
-###Indications for Antenatal Anaesthetics Review
-* A
-	* Previous airway issues
-* B
-	* Poorly controlled asthma
-	* Respiratory disease that impairs ADLs
-* C
-	* Valvular disease
-	* Arrhythmias
-	* Congenital cardiac disease
-	* PPM/ICD
-	* Pulmonary hypretension
-* D
-	* Chronic pain
-	* Intracranial lesions
-	* Neuromuscular disease
-	* Spinal anatomy disease that may limit neuraxial options
-* E
-	* Morbid Obesity
-	* History of MH
-* H
-	* Coagulopathy
-	* Thrombocytopaenia
-	* Refusal for blood products
-
-
 ##Preparation{#prep}
 * Give **antacid prophylaxis**
 	* Ranitidine 150mg PO  

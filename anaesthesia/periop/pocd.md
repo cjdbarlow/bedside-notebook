@@ -1,11 +1,11 @@
 #Perioperative Neurocognitive Disorders
 
 Umbrella term encompassing:
-* Post-Operative Delirium  
+* **Post-Operative Delirium**  
 Delirium occurring within 1 week post-procedure, and where other causes of delirium have been excluded.
-* Delayed Neurocognitive Recovery  
+* **Delayed Neurocognitive Recovery**  
 Cognitive dysfunction occurring after surgery and up until 30 days post-operatively.
-* Post-Operative Cognitive Dysfunction  
+* **Post-Operative Cognitive Dysfunction**  
 Cognitive dysfunction persisting after 30 days post-operatively. Graded based on extent of cognitive deficit into:
 	* Mild
 	* Major

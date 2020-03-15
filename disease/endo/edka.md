@@ -98,11 +98,11 @@ Primarily supportive:
 
 ###Anaesthetic Considerations
 * F
-	* Assess risk of Euglycaemic DKA
+	* Assess risk of euglycaemic DKA
 		* Factors
 			* Duration of fasting
 			* Bariatric patients
-			* Signifiance of surgery
+			* Significance of surgery
 			* Time to restarting PO intake  
 			SGLT2 inhibitors should not be restarted until post-operative catabolic state has been overcome by PO intake.
 		* Low risk patients

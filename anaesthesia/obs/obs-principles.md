@@ -51,20 +51,29 @@
 
 
 **Patient Indications**:
+* Respiratory disease
+	* That impairs ADLs
 * Cardiac disease
+	* Valvular disease
+	* Arrhythmias
+	* Congenital cardiac disease
+	* PPM/ICD
+	* Pulmonary hypertension
 * Neurological disorder
 	* MS
 	* MG
+	* Intracranial lesions
 * Spinal cord problem
 	* Spinal cord injury
 	* Previous back surgery
 	* Congenital abnormalities
+	* Spinal anatomy that may limit neuraxial options
 * Haematological disorder
-	* Bleeding abnormalities
-	* vWD
-	* Platelet dysfunction
+	* Bleeding abnormalities or disorders
 * Other
 	* Severe systemic disease
+	* Morbid obesity
+	* Refusal of blood products
 	* Patient request
 
 

@@ -12,9 +12,9 @@ Climate change has:
 Clinical:
 * Inhalational anaesthetic agents  
 Have significant and sustained environmental impact. Consider:
-	* Avoid use of desflurane and nitrous oxide
+	* Avoiding desflurane and nitrous oxide
 	* Use low-flows
-	* Minimise use of inhalational agents when clinical indicated
+	* Minimise use of inhalational agents when clinically permissible
 		* TIVA
 		* Regional
 * Needles and non-tempered glass medications only in sharps bins
@@ -38,7 +38,7 @@ Infrastructure:
 
 ###Operating Theatre Responses
 > * Theatres generate 20-25% of hospital waste
-> * 60% of OT waste is recyclable
+> * 60% of theatre waste is recyclable
 
 Reusable equipment:
 * Surgical gowns
@@ -48,10 +48,10 @@ Reusable equipment:
 	* LMAs
 	* Masks
 	* Circuits
-	* Avoid unnecessary use of drugs
 
 Other:
 * Reform prefabricated kits to only contain what is necessary
+* Avoid unnecessary use of drugs
 
 
 

@@ -11,8 +11,8 @@ Foetal distress is progressive foetal asphyxia that if not corrected or circumve
 
 Intrauterine resuscitation:
 * Describes techniques used to correct **common** and **reversible** causes foetal hypoxia, prior to harm occurring  
-Non-correctable (e.g. anencephaly) or rare causes (e.g. ruptured vasa praevia) are not captured.
-* Relies on detection of foetal distress by [electronic foetal monitoring]
+Non-correctable (e.g. anencephaly) or rare (e.g. ruptured vasa praevia) causes are not captured.
+* Relies on detection of foetal distress by electronic foetal monitoring
 
 
 ##Causes
