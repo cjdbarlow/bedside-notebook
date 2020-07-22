@@ -253,6 +253,7 @@
 	* [Pyloromyotomy](/anaesthesia/paeds/pyloric.md)
 * [Thoracic](/anaesthesia/thoracic/thoracic-principles.md)
 	* [VATS](/anaesthesia/thoracic/vats.md)
+	* [LVRS](/anaesthesia/thoracic/lvrs.md)
 	* [Pneumonectomy](/anaesthesia/thoracic/pneumonectomy.md)
 	* [Rigid Bronchoscopy](/anaesthesia/cthr/rigid-bronch.md)
 * [Urology](/anaesthesia/urology/turp.md#id)

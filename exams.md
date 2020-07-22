@@ -255,7 +255,7 @@ Pitfalls:
 	* Indecisive  
 	Using 'could' not 'would.'
 	* Inflexible
-		* Refusing to bed led
+		* Refusing to be lead
 	* Waffling
 	* Too many lists
 	* Does not answer question

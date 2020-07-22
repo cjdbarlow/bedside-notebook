@@ -4,54 +4,14 @@
 >Anaesthetic management has to adapt to surgical concerns.
 >* 40% of difficult airway cases in NAP4 were ENT
 
-General principles for anaesthesia for ENT surgery requires:
-* Appreciating the **shared** and **remote airway**
+General principles for anaesthesia for ENT surgery include:
+* Appreciating the **shared** and **remote airway**:
 	* Limited access
 	* Casual surgical vandalism
 		* Dislodgement
 		* Eyes
 		* Lips
 		* Teeth
-* Anaesthetic technique
-	* Tube
-		* ETT
-		* MLT
-		* Laser-resistant
-	* Intermittent ventilation
-		* e.g. LMA, oxygenate, remove LMA, procedure, desaturate, replace LMA, repeat
-	* Tubeless  
-		* HFNO
-		* **Fire risk**
-		* May be:
-			* Apnoeic  
-			* Spontaneously ventilating  
-				* Propofol infusion and HFNO
-				* Technically difficult to achieve
-				* Hypercapnoea will occur and may be problematic in long cases
-				* Avoid in:
-					* Hypertensive patients
-					* Obese patients
-					* Unwell patients
-	* [Jet ventilation](/anaesthesia/ent/jet-vent.md)
-		* Supraglottic  
-			* Risk of missing larynx and hypoxia
-		* Infraglottic  
-			* Increased risk of barotrauma
-			* Reduced cord movement
-		* Transtracheal
-	* **Awake tracheostomy**  
-		* Consider for:
-			* Critical upper airway obstruction  
-			Consider under LA.
-			* Predicted difficult intubation
-			* Failed intubation
-			* Predicted difficult extubation
-			* Failed extubation
-			* Often time critical
-		* Assess investigations and imaging
-		* Second pair of hands
-			* ENT surgeon
-		* **Maintain** spontaneous respiration
 * Use of **throat packs**
 * Good **analgesia** plan  
 Surgery may often be highly stimulating intraoperatively, but post-operative pain may be minimal.
@@ -85,6 +45,42 @@ Straining or coughing during emergence can increase bleeding, disrupt repairs, o
 		* ABG
 		* LFTs
 
+## Anaesthetic Techniques
+Classify into:
+* **Tube**
+	* ETT
+	* MLT
+	* Laser-resistant
+	* Awake tracheostomy  
+	Consider for:
+		* Critical upper airway obstruction  
+		Consider under LA.
+		* Predicted difficult intubation
+		* Failed intubation
+		* Predicted difficult extubation
+		* Failed extubation
+* **Tubeless**  
+	* HFNO  
+		* Fire risk
+		* Avoid in:
+			* Hypertensive patients
+			* Obese patients
+			* Unwell patients  
+			Hypercapnoea will occur and may be problematic in long cases.
+		* Techniques:
+			* Apnoeic  
+			* Spontaneously ventilating  
+				* Propofol infusion and HFNO
+				* Often technically difficult to achieve
+	* [Jet ventilation](/anaesthesia/ent/jet-vent.md)
+		* Supraglottic  
+			* Risk of missing larynx and hypoxia
+		* Infraglottic  
+			* Increased risk of barotrauma
+			* Reduced cord movement
+		* Transtracheal
+* **Intermittent ventilation**  
+e.g. LMA, oxygenate, remove LMA, procedure, desaturate, replace LMA, repeat...
 
 
 ##Laryngeal Surgery
