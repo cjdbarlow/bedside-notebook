@@ -4,8 +4,10 @@ Dramatic physiological changes occur following clamping of the descending aorta:
 * Exact haemodynamic responses vary depending on the level
 	* Supra-coeliac clamping consistently redirects blood flow and has predictable responses  
 	Requires a potent vasodilator; e.g. GTN or SNP.
+		* Compliant splanchnic circulation collapses and drains its large blood resevoir into the central circulation, greatly increasing preload
 	* Infra-coeliac clamping is inconsistent, but less dramatic  
 	Usually will **not** require vasoactives.
+		* Complaint splanchnic circulation buffers the blood drained from the non-compliant renal circulation
 
 ##Physiology of Clamping
 Immediate effects:
@@ -30,10 +32,12 @@ Effect varies depending on **capacity to ↑ coronary flow** in the setting of �
 		* CO may increase 10-30%.
 	* Inadequate coronary supply  
 	Diastolic dysfunction, ↑↑ LVEDP, ↓ CO.
-* ↑ Myocardial oxygen consumption
+* ↑ Myocardial oxygen consumption  
 
 
 Short-term effects:
+* Myocardial ischaemia  
+Will occur if the increase in LVEDP exceeds the rise in aortic root pressure.
 * ↓ Global oxygen consumption  
 Both distal and proximal to clamp.
 	* ↑ MV PO<sub>2</sub>
