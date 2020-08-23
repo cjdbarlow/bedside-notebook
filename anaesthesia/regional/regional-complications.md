@@ -1,4 +1,4 @@
-#Complications of Regional Anaesthesia
+# Complications of Regional Anaesthesia
 Complications may include:
 * LAST
 * Vascular injury
@@ -8,7 +8,7 @@ Complications may include:
 Covered in detail under specific blocks; examples include phrenic nerve block after performing a supraclavicular brachial pleuxus block.
 
 
-##Local Anaesthetic Systemic Toxicity
+## Local Anaesthetic Systemic Toxicity
 LAST:
 * Occurs in ~1/1,000-1/10,000 regional techniques
 	* Cardiac arrest in ~1/25,000
@@ -18,7 +18,7 @@ LAST:
 	* Ensure good spread of LA on ultrasound
 	* Inject slowly
 
-##Vascular injury
+## Vascular injury
 Vascular injury may lead to haematoma and secondary injury due to mass effect. Prevention involves:
 * Avoiding vascular injury:
 	* Identify vessels prior to injection
@@ -38,11 +38,11 @@ Peripheral nerve blocks are low risk for serious bleeding. *In general* (and **i
 	Cessation should be discussed with the treating team, and at least 2 drug half-lifes should occur between cessation and intervention.
 
 
-##Infection
+## Infection
 * Risk is increased with use of continuous catheters versus single-shot techniques  
 Catheters should be placed under strict asepsis.
 
-##Nerve injury
+## Nerve injury
 *This section describes nerve injuries relating to peripheral nerve blocks. Management of central neuraxial injuries are covered elsewhere.*
 
 Nerve injury related to anaesthesia is:
