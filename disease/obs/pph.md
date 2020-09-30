@@ -41,7 +41,7 @@ Risk factors for PPH relate to the cause:
 	* Foetal malposition
 	* Multiparity
 	* Previous uterine surgery
-* Thrombin
+* Thrombin 
 	* Hereditary disease  
 		* von Willebrand's
 		* Haemophilia

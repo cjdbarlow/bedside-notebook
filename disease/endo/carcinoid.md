@@ -71,19 +71,25 @@ Associated with:
 	* Tyramine ingestion  
 	Cheese, chocolate.
 * Common symptoms:
-	* Flushing
-	* Diarrhoea
+	* Flushing (80%)
+	* Diarrhoea (70%)
 * Less common symptoms:
 	* Lacrimation
 	* Rhinorrhoea
+	* Bronchospasm
+	* Carcinoid heart disease
 
 
 ###Carcinoid Heart Disease
-Development of characteristic cardiac lesions, associated with high circulating 5-HT. Classically **right-sided endocardial thickening**:
-* Leads to retraction and fixation of valve leaflets
-* TR near-universal
-* TS, PR, and PS may occur
-* Left sided disease may occur in the presence of an intracardiac shunt (e.g. PFO), that leads to serotonin entering left-sided chambers
+Characteristic cardiac lesions:
+* Associated with high circulating 5-HT  
+Rarely seen if 5-HIAA levels are ≤50mg/24 hours.
+* Classically **right-sided endocardial thickening**:
+	* Leads to retraction and fixation of valve leaflets
+	* TR near-universal
+	* TS, PR, and PS may occur
+* Left sided disease may occur in the presence of an intracardiac shunt (e.g. PFO) that leads to serotonin entering left-sided chambers
+
 
 ###Carcinoid Crises
 Exaggerated form of carcinoid syndrome that is:
@@ -100,22 +106,66 @@ Exaggerated form of carcinoid syndrome that is:
 
 ##Diagnostic Approach and DDx
 ##Investigations
-Urine:
-* 5-HIAA  
-Serotonin metabolite; requires 24 hour urine collection.
+Tumour activity:
+* Blood
+	* Plasma CgA
+	* LFTs
+	* Coags
+	* UECs
+	* S. Protein
+* Urine
+	* 24 hour 5-HIAA levels  
+	Serotonin metabolite.
 
-CT:
-* For identifying presence of metastases
+
+Tumour localisation:
+* Octreotide scan
+* Gallium PET/CT
+* Echocardiography
 
 ##Management
 ###Medical
+Premedication:
+* Octreotide therapy
+	* 100-500μg/day in divided doses
+	* 30-60mg long-acting octreotide given IM every 4 weeks
+
+
 ###Surgical
 ###Anaesthetic Considerations
+> Surgery should proceed when:
+> * Symptom control achieved
+> * 2 weeks after last long-acting octreotide dose
+
+
+Premedication:
+* Octreotide
+	* Give usual dose of subcutaneous octreotide or 500μg (if untreated, or emergency) 2 hours pre-surgery
+	* Commence infusion at 1μg/kg/hr in holding bay, prior to insertion of invasive monitoring
+* Ranitidine 50mg IV/150mg PO 2 hours prior
+* Promethazine 12.5mg IV/10-20mg PO 2 hours prior
+* Ondansetron 4-8mg IV 2 hours prior
+* Dexamethasone 2-4mg IV  
+For gastric neuroendocrine tumours.
+
+
+General:
+* Disposition:
+	* HDU post-operatively
+		* Haemodynamic monitoring
+		* Continuation of octreotide infusion
+	* Endocrinology involvement
 * B
-	* CXR if pulmonary
+	* **Perioperative bronchospasm**
+		* Octreotide 10-200μg boluses
+		* Antihistamine
+		* Ipratropium nebuliser
+		* Steroid
 * C
 	* ECG
 	* TTE
+	* Arterial line
+	* CVC
 	* Cardiac disease
 		* **Carcinoid cardiac disease**
 		* **Coronary spasm**
@@ -136,24 +186,32 @@ CT:
 			* Exaggerated hypertension also described
 			* Vasopressin is appropriate to use as a vasopressor, if required.
 			* Short-acting α-blockade ideal for managing persistent hypertension
+	* **Perioperative hypotension**
+		* Inform surgeon
+		* Cease tumour handling
+		* Octreotide bolus, 10-100μg
+		* Phenylephrine 50-100μg bolus
+		* Avoid indirect acting adrenergics
+			* Cautious use acceptable for inotropy if on octreotide
+		* Consider steroids, calcium, and vasopressin for unresponsive hypotension
+	* **Perioperative hypertension**
+		* Increase depth of anaesthesia
+		* Octreotide 10-200μg bolus
+		* Labetalol, GTN, and esmolol if unresponsive
 * D
-	* Consider epidural  
-	Reduce pain and vasoactive release.
+	* Consider epidural if major abdominal surgery  
+	Avoid loading until after tumour resection to avoid hypotension.
 * E
 	* **Octreotide** infusion  
-	Used to limit vasoactive crises. Octreotide:
-		* Dosing
-			* 50μg/hr for at least 12 hours pre-operatively
-			* Aggressive redosing (50μg bolus) if ongoing evidence of excessive secretion
-		* Has many effects, however its key:
-			* Mechanism of action is via:
-				* Reducing splanchnic blood flow
-				* Reducing secretion of vasoactive peptides
-			* Adverse effects include:
-				* Conduction defects
-					* QT prolongation
-					* Bradycardia
-				* Abdominal cramps
+	Used to limit vasoactive crises. Octreotide has many effects, however its key:
+		* Mechanism of action is via:
+			* Reducing splanchnic blood flow
+			* Reducing secretion of vasoactive peptides
+		* Adverse effects include:
+			* Conduction defects
+				* QT prolongation
+				* Bradycardia
+			* Abdominal cramps
 
 
 ###Ineffective Therapies
@@ -166,4 +224,4 @@ Death:
 
 ---
 ##References
-1. Carcinoid: the disease and its implications for anaesthesia | BJA Education | Oxford Academic. https://academic.oup.com/bjaed/article/11/1/9/285683. Accessed December 9, 2019.
+1. [Carcinoid: the disease and its implications for anaesthesia](https://academic.oup.com/bjaed/article/11/1/9/285683). BJA Education. Accessed December 9, 2019.

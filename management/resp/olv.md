@@ -118,8 +118,7 @@ Slight rim of blue cuff should be seen in the LMB.
 
 
 ###Bronchial Blockers
-Consist of:
-* A low-pressure, high-volume balloon
+A low-pressure, high-volume balloon that is inflated to occlude the bronchus.
 * Key sizes:
 	* 7 Fr for a 6.5 Fr ETT
 	* 9 Fr for a 7.5 Fr ETT
@@ -160,6 +159,29 @@ Aim for maximal denitrogenation; absorption of oxygen will speed up lung collaps
 
 
 ###Isolation with Double-Lumen Tube
+> Remember to re-check isolation after repositioning the patient
+
+Confirmation of position:
+* Clinical
+	* Insert DLT
+	* Inflate bronchial cuff
+	* Connect circuit directly to bronchial lumen
+	* Confirm ventilation on bronchial side, and not on tracheal side
+	* Connect circuit to tracheal lumen
+	* Inflate tracheal cuff until there is no leak
+	* Confirm breath sounds on tracheal side, and not on bronchial side
+* Bronchoscopic
+	* Insert DLT
+	* Inflate tracheal cuff
+	* Confirm tracheal intubation with CO<sub>2</sub>
+	* Bronchoscope down tracheal lumen and identify carina  
+	Identify trifurcation of RUL if right-sided.
+	* Inflate bronchial cuff under vision  
+	Aim to see narrow rim of blue cuff visible in the main bronchus.
+	* If right-sided DLT, pass bronchoscope down bronchial lumen and confirm that the RUL ventilation port is aligned with the RUL bronchus
+
+
+Isolation:
 * Confirm DLT positioning
 * Clamp DLT proximally on side to be deflated
 * Open DLT to air, distal to the clamp, on the side to be deflated  
@@ -209,7 +231,7 @@ Certain DLTs made for this purpose.
 
 ##Surgical Considerations
 Surgical technique will affect rate and adequacy of lung collapse:
-* Airtight seal with thorascopic ports will reduce pneumothorax development
+* Airtight seal with thoracoscopic ports will reduce pneumothorax development
 * Suctioning will re-expand lung
 
 

@@ -753,3 +753,36 @@ Cerebral oximetry:
 ##Blood Gas Corrections
 2 and 4 are just as good and easier to remember.
 i.e. for every 10 change in CO2, bicarb will chagne acutely by 2 and chronically by  4.
+
+#Paeds mnemonic
+WETFLAGS
+
+Weight
+- <10: Age x 2 + 8
+- >10: A x 3
+
+Electricity
+- 4J/kg
+
+Tube
+- Cuffed: Age/4 + 3.5
+- Uncuffed: Age/4 + 4
+
+Tube Depth:
+- Oral: Weight + 6
+- Nasal: Weight x 1.5 + 7
+
+Fluids
+- 4:2:1
+- 20mL/kg
+- 4mL/kg blood raises Hb by 10g/L
+
+Atropine/Adrenaline
+- Adr: 10ug/kg
+- Atropine: 20ug/kg
+
+Glucose
+- 5mL/kg of 10% dextrose
+
+Systolic
+- 80 + Age x 2

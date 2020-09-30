@@ -73,7 +73,7 @@ Insertion of a DLT is more difficult than SLT.
 > * Ability to tolerate:
 >	* Resection
 >	* [One-lung ventilation](/management/resp/olv.md)
->* Broadly speaking, resection is appropriate if:
+> * Broadly speaking, resection is appropriate if:
 >	* FEV<sub>1</sub> ⩾1.5L for lobectomy
 >	* FEV<sub>1</sub> ⩾2.0L or 80% predicted for pneumonectomy
 
