@@ -1,13 +1,11 @@
-#Saphenous Nerve Block
-The saphenous nerve is the terminal sensory branch of the femoral nerve. Blockade:
-* Provides analgesia to variable strip of medial leg, foot, and ankle  
-May also cause local motor block to vastus medialus.
-* May facilitate superficial procedures
-* Usually supplements a sciatic block when performing foot and ankle procedures
+#Distal Femoral Triangle/Adductor Canal Block
+This is a block of the femoral nerve in the mid-thigh, which aims to achieve analgesia to the anterior knee and medial lower leg, whilst sparing the nerve to vastus medialis and therefore motor function of the quadriceps.
+
 
 ##Indications
-Anaesthesia for lower leg in combination with sciatic nerve block.
-
+Anaesthesia for lower leg surgery
+* May facilitate superficial procedures
+* Usually supplements a sciatic block when performing foot and ankle procedures
 
 ##Contraindications
 * General contraindications:
