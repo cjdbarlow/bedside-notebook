@@ -29,7 +29,7 @@ Grading:
 Aneurysmal SAH:
 * Occurs in ~9/100,000
 * Has a high mortality rate
-	* 15% prehospital
+	* 15% prehospitals
 	* 30% 30-day
 * 40% make a good recovery  
 Prognostication:
@@ -108,7 +108,7 @@ Control and stabilise
 
 
 Avoid rebleeding:
-* Aggressive BP control to **SBP <160mmHg**  
+* Aggressive BP control to **SBP ≤160mmHg**  
 Adjust target based on premorbid baseline BP.
 	* Agents should preferably be given by infusion, and include:
 		* Labetalol 5-20mg/hr

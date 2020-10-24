@@ -786,3 +786,32 @@ Glucose
 
 Systolic
 - 80 + Age x 2
+
+
+#Intraarterial drug injection
+Extravasation injuries and accidental
+intra-arterial injection
+Caroline Lake FANZCA FRCA B Pharm
+Christina L Beecroft FRCA FDS RCS
+
+Amiodarone 			Tissue necrosis Ischaemia
+Atracurium 			Ischaemia, necrosis Ischaemia
+Atropine 			None reported None reported
+Fentanyl 			None reported None reported
+Ketamine 			Ischaemia, necrosis Necrosis
+Midazolam 			None reported None reported
+Morphine 			None reported None reported
+Pancuronium 		None reported None reported
+Phenytoin 			Cellulitis, ischaemia, necrosis Ischaemia, necrosis, tissue death
+Propofol 			Usually none Hyperaemia, distal ‘blanching’
+Rocuronium 			Local irritation Ischaemia
+Succinylcholine 	None reported None reported
+Thiopental 			Ischaemia, necrosis Ischaemia, necrosis, tissue death
+
+Medications:
+- Hyperosmolar substances can cause compartment syndrome
+- High or low pH
+- Vasoconstrictions
+- Formulations containing ethylene glycol
+- Volume
+

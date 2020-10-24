@@ -13,7 +13,7 @@ Key considerations:
 		* Antibiotics
 	* Secretions
 		* Chest physiotherapy
-		* Spirometry
+	 	* Spirometry
 * Indication
 	* Tumour
 		* Mass effect  
@@ -94,13 +94,13 @@ FEV<sub>1</sub> and DLCO are:
 				* Not always available, and not always performed
 				* As measured by **CPET**, or surrogate
 				* VO<sub>2</sub> max >15mL/kg/min  
-				Most useful predictor of outcome. Indicated by:
+				Can proceed to surgery. Most useful predictor of outcome. Indicated by:
 					* Stair climb ⩾2 flights
 					* 6 minute walk test ⩾610m
 					* Exercise SpO<sub>2</sub> <4%)
 				* VO<sub>2</sub> max
 					* ⩾10mL/kg/min  
-					Proceed to surgery.
+					*May*, in certain circumstances, proceed to surgery.
 					* <10mL/kg/min  
 					Discuss alternatives.
 
