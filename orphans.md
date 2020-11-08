@@ -777,12 +777,15 @@ Fluids
 - 20mL/kg
 - 4mL/kg blood raises Hb by 10g/L
 
+Lorazepam: 0.1mg/kg
+
 Atropine/Adrenaline
 - Adr: 10ug/kg
 - Atropine: 20ug/kg
+- Amiodarone: 5mg/kg
 
 Glucose
-- 5mL/kg of 10% dextrose
+- 2mL/kg of 10% dextrose
 
 Systolic
 - 80 + Age x 2
@@ -815,3 +818,239 @@ Medications:
 - Formulations containing ethylene glycol
 - Volume
 
+# Problem Statements
+## Cardiac tamponade
+Primary goals are to avoid haemodynamic collapse and expedite decompression.
+
+### Avoid haemodynamic collapse
+- Full, fast, maintain contractility and SVR
+- Arterial line
+- Volume line available to maintain preload
+- Vasopressor infusion to avoid excessive hypotension
+- If critical (cannot lie flat): spontaneously ventilating induction to avoid PPV and increase in RV afterload, and reduce instability associated with rapid induction
+
+### Minimise surgical time
+- Prepped and draped preinduction
+- Plan for urgent thoracotomy if arrests
+
+## Severe Pulmonary Hypertension
+Greatest risk of anaesthetic mortality. Keys are to accurately assess RV function, optimise perioperatively, defend RV function, avoid raised PVR.
+
+### RV function assessment
+- PAP more useful as long-term prognostic indicator than anaesthetic prognostic indicator
+- Clinical: Exercise tolerance, peripheral oedema, congestive hepatopathy
+- Echo: Systolic function (TAPSE, radial), diastolic dysfn (dilation, RAE)
+
+### Perioperative optimisation
+- Fluid state (diuresis to optimal preload)
+- Pulmonary vasodilators
+
+### Defend RV
+- CVC and transduce; CVP rising -> failing
+- Arterial line
+- Vasopressor infusion
+- Defend RV perfusion pressure
+- Consider TOE/PAC
+
+### Avoid raised PVR
+- Normoxia
+- Avoid hypercarbia
+- Optimise FRC and PEEP/avoid atelectasis
+- Control pain
+- Avoid acidosis
+- Avoid hypothermia
+
+## AFOI
+Requires adequate time and a compliant patient; key domains are sedation, topicalisation, and technical skill/equipment.
+
+### Sedation
+- I prefer judicious sedation with immediately reversible agents
+- Requirement decreased with good patient preparation and expectation management
+- 0.25-0.5mg midazolam
+- Fentanyl 25ug increments
+
+### Topicalisation
+- Antisialagogue with glycopyrrolate 200-400ug
+- Lignocaine up to 9mg/kg
+- For nasal: 
+ - Cophenylcaine to most patent nostril, then serial dilation with lubricated NPAs up to 0.5 intended tube size, using 2% lignocaine viscous gel as lubricant on first NPA.
+ - Bulk of remainder of lignocaine via MAD to oropharynx, tonsillar pillars, and base of tongue
+ - Spray cords and proximal trachea prior via tube with 2ml 2% in 5ml syringe
+- For PO
+ - Spray with MAD as above
+ - Ensure to move tip down to spray cords (spray with inhale)
+ - Test with tip or OPA
+
+### Technical skill
+- Position; sitting from front
+- Nasal: Easier, bleeding, better tolerated, not as good long term
+- Oral: Harder, better for ICU/tube exchange
+- Bullet tip tube
+- Nasal: Assistant with gauze on tongue, pull forward
+- PO: Use Berman or ovassapian to keep scope and tube in midline
+
+
+## DLT insertion
+- Intubate and connect tube
+- Confirm tracheal placement with CO2
+- Confirm correct side with scope to identify RUL bronchus trifurcation
+- Inflate bronchial cuff under vision
+- Clamp isolated side and open lumen to air
+ - Feel for gas leak from isolated side
+ - Check for drop in Vt on vent (PCV)
+ - If uncertain or unclear, auscultate and recheck with bronch
+
+
+## Unsecured Aneurysm
+Priorities are to prevent aneurysm rupture by avoiding changes in transmural pressure, avoid increased ICP, and manage complications of SAH.
+
+### Transmural pressure
+- Avoid swings in MAP and HR
+- Gentle induction with remi, props, vasopressor
+- Tit
+- Key phases include intubation, pinning, bone off, and dura opening
+
+
+### Avoid increased ICP
+- Position: Head up, tape not tie
+- Ventilation: CO2, PEEP
+- Drugs: Sedation, muscle relaxant, osmotic agents
+
+### Complications
+- Hydrocephalus
+- Arrhythmia
+- Vasospasm
+
+
+## Laryngeal fracture
+Critical situation. Principles are to maintain spontaneous ventilation, and secure the airway below the level of the injury
+
+### Spontaneous ventilation
+- Avoid PPV
+
+### Secure
+- Aim awake surgical trache
+- Cric and percutaneous techniques not ideal
+- Failing that secure from the top with VAFI; i.e. intubate under direct vision
+- Tits up -> RSI and pray
+
+## Severe pre-eclampsia
+Key goals are care of mother and care of baby. Priorities are expedite delivery, control BP, seizure prophylaxis, care for baby.
+
+### Expedite delivery
+- Urgent C/S
+- GA may be required
+- Goals of induction are to secure riskier/unfasted airway rapidly whilst avoiding hypertension, recognising the prime killer of these patients is ICH due to hypertensive induction
+
+### Control BP
+- Rapid to <160 and slower thereafter
+- IV agents: labetalol 2.5-10mg IV, hydralazine 5-10mg
+- PO: Nifedipine
+
+### Seizure prophylaxis
+- 4g MgSO4/20 min; 1g/hr thereafter for 24/24
+
+### Baby
+- CTG
+- Paediatricians
+- Intrauterine resus PRN
+
+
+## Myasthenia Gravis
+Major concerns are bulbar, respiratory, cardiac, and skeletal muscle; as well as avoiding crises.
+
+## Bulbar
+- Aspiration risk
+
+## Respiratory
+- Post op respiratory dysfunction
+- May need HDU depending on degree of restrictive defect
+
+## Cardiac
+- Myositis
+- Anterior mediastinal mass (thymomas)
+
+## Skeletal
+- Muscle relaxants:
+ - Sux resistant
+ - Non-depolarising sensitive; use 1/10th of dose, monitor, sugammadex
+
+## Crises
+- Cholinergic: Excess ACh leading to parasympathetic (SLUDGE) and weakness. Intubate and give atropine.
+- Myasthenic: Weakness due to inadequate ACh, exacerbated by physiological stress. Pyridostigmine.
+
+
+## Rheumatoid
+Concerns relate to:
+
+### Neck mobility
+
+### Extra-articular manifestations
+- Respiratory: ILD
+- Cardiac: Myopathy
+
+### Immunosuppression from therapy
+
+
+# Stress Dose Steroids
+* Glucocorticoids >5mg/day can cause HPA axis supression
+* All glucocorticoid dependent patients are at risk of adrenal crisis due to surgical or physiological stress
+* Hydrocortisone 100mg IV bolus
+	* Tapering dose if high physiological stress/major surgery/labour
+	* Single shot for more minor procedures/bowel prep
+* Dexamethasone is inadequate due to lack of mineralocorticoid activity
+* Children are more vulnerable
+* Risk factors
+	* Any comorbidity  
+	Any disease increases risk.
+	* Asthma
+	* Diabetes
+
+
+# Open Disclosure
+Open disclosure describes the way clinicians communicate with and support patients, and their family and carers who have experienced harm during healthcare. Open disclosure is:
+* A patient right
+* Anchored in professional ethics
+* Considered good clinical practice
+* Part of the continuum of care
+
+
+Principles:
+* Open
+* Timely
+* Acknowledged to the patient
+* Apology
+* Support to patient and family
+* Support to healthcare providers
+* Integrated clinical risk management and systems improvement
+* Good governance
+* Confidentiality
+
+Open disclosure consists of:
+* An apology  
+Without speculation, or apportioning blame, and including the words "I am sorry".
+* A factual explanation of what happened
+* An opportunity for the patient, family, and carers to relate to the experience
+* A discussion of the potential consequences
+* An explanation of the steps being taken to manage the adverse event
+
+
+Current findings:
+* Most effective as an ethical practice that prioritises individual and organisations learning from error, rather than solely as an operational risk management strategy
+* Fosters cultures of openness and trust
+* Patients prefer an open dialogue compared to didactic delivery of information
+* Health professionals are supportive but concerns remain
+	* Perceived medio-legal consequences
+	* Preparedness required
+	* Tensions between open and timely acknowledgement
+
+
+## No Harm Incidents
+In errors where no apparent harm has occurred, clinicians can only be certain by discussing the incident with the patient. Indiscriminate disclosure of near-misses and no-harm incidents is not feasible; and disclosure should be guided by:
+* Will the distress or psychological harm of disclosing the error outweigh the benefit that could be obtained by the disclosure?
+* Will disclosure reduce the risk of future incidents?
+* Will disclosure maintain patient, family, and carer trust in the service?
+
+
+Australian Commission on Safety and Quality in Health Care (2013), Australian Open Disclosure Framework.
+ACSQHC, Sydney

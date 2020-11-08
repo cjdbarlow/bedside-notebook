@@ -1,10 +1,4 @@
-
-
-
-
-
-
-#Perioperative Evaluation of Paediatric Heart Murmurs
+# Perioperative Evaluation of Paediatric Heart Murmurs
 
 Heart murmurs in the paediatric patient are:
 * Common  
@@ -37,12 +31,14 @@ Pre- and peri-natal exposure to:
 	* Sudden infant death
 	* Congenital cardiac disease
 
-Should include:
+
+Examination:
 * Palpation of pulses
 	* Assess for equality and delay
 * Palpation of thrills
 * Evaluation of features of murmur
 * Features of right heart failure
+
 
 Key symptoms include:
 * B
@@ -67,7 +63,7 @@ Key symptoms include:
 
 
 ##Diagnostic Approach and DDx
-> There are more detailed tables cover this in textbooks, but this approach is probably more practical than deciding if a murmur is "musical"
+> There are more detailed tables that cover this in textbooks, but this approach is probably more practical than deciding if a murmur is "musical"
 
 Innocent murmurs:
 * Have no signs of cardiac disease

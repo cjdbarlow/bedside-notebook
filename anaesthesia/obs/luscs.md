@@ -4,9 +4,9 @@
 
 >Time: 45 to 90 minutes <br>
 >Pain: Significant opioid requirement post-operatively<br>
->Position: Supine <br>
+>Position: Supine. <br>
 >Blood loss: G+H required. Typically 500-100, but can be substantial. <br>
->Special Drugs: Oxytocin post-delivery
+>Special Drugs: Uterotonics.
 
 Caesarian section is delivery of a foetus through an abdominal incision. A caesarian section can be performed:
 * At **different degrees of urgency**  
@@ -189,7 +189,6 @@ Most departments have a standard post-operative analgesia management protocol. C
 * Ibuprofen 400mg TDS
 * Tramadol 50-100mg IV/PO QID
 * Ondansetron 4-8mg IV/SL TDS
-* Metocloparmide 10mg IV/PO TDS
 
 
 If intrathecal morphine given:

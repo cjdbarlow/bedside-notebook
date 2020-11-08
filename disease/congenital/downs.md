@@ -65,8 +65,6 @@ Occurs in 50%.
 	* Recurrent RTIs  
 	Due to immune deficiency.
 * B
-	* **Bradycardia** common and significant with anaesthetic agents  
-	Have atropine available.
 	* High incidence of post-operatively respiratory complications
 	* Impaired central respiratory drive
 	* Chronic lower respiratory tract infections are common
@@ -77,6 +75,8 @@ Occurs in 50%.
 		* Due to craniofacial abnormalities  
 		* Present in 50-75%
 * C
+	* **Bradycardia** common and significant with anaesthetic agents  
+	Have atropine available.
 	* Strong association with congenital heart disease  
 	In ~60%.
 		* Common abnormalities
