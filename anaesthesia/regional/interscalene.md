@@ -12,7 +12,7 @@ Analgesia and anaesthesia for:
 
 ##Contraindications
 Absolute:
-* **Contralateral** recurrent laryngeal or phrenic nerve injury
+* **Contralateral** recurrent laryngeal or phrenic nerve injury  
 Risk of bilateral phrenic nerve palsy.
 * **Contralateral** pneumonectomy/pneumothorax
 

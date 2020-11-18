@@ -48,8 +48,8 @@ Many different options exist.
 
 
 * Eye speculum
-* Fine non-toothed forceps
-* Scissors  
+* Fine non-toothed (Moorfields) forceps
+* Westcott Scissors  
 Preferably spring scissors.
 * Sub-Tenon cannula
 

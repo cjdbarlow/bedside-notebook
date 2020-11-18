@@ -17,31 +17,36 @@ Presentation may be:
 	* Obscured by other perioperative events
 
 ##<span style="color:red">Emergency Management</span>
-Immediately:
+Priorities:
 1. Cease LA injection
-2. Call for help
-3. Maintain oxygenation and ventilation  
-Consider intubation.
-4. Ensure secure IV access
+2. Call for help  
+**Early** consideration of CPB or **ECMO**, if available.
+3. Support physiology  
+Maintain oxygenation and ventilation, and consider intubation.
+4. **Intralipid emulsion**
 
 
-5. Control seizures  
-**Avoid** propofol due to CVS instability.
-6. Control arrhythmia
+Specific management:
+* Control seizures  
+	* Benzodiazepine preferred
+	* Propofol reasonable alternative  
+	Note potential haemodynamic instability.
+* Arrhythmia
 	* Start ALS if required  
 	Consider ECMO.
+	* Reduce dose adrenaline  
+	⩽1μg/kg.
 	* **Avoid**:
 		* Vasopressin
 		* Calcium-channel blockers
 		* β-blockade
 7. Give **intravenous lipid emulsion**
-	* 1.5mL/kg bolus  
-	May be repeated.
-	* Commence infusion at 15mL/kg/hr  
-	Can double rate if ongoing hypotension.
-
-
-
+	* **1.5mL/kg bolus**  
+	Repeat if unstable.
+	* Commence infusion at **15mL/kg/hr**  
+	Double rate if unstable.
+	* Up to **12ml/kg total** volume.
+	* Continue at least **15 minutes after haemodynamic stability** achieved.
 
 
 ##Epidemiology and Risk Factors

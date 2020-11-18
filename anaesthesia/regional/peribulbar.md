@@ -39,7 +39,7 @@ Typically 50% saline with 50% aqueous betadine
 * Mix LA solution  
 Many different options exist.
 	* Lignocaine/Ropivacaine
-		* Take 40mls of 0.75% ropivacaine, 10ml 10% lignocaine, and 1500 units of hyaluronidase
+		* Take 40mls of 1%% ropivacaine, 10ml 10% lignocaine, and 1500 units of hyaluronidase
 		* Into a 50ml syringe, draw up the local anaesthetics and mix in the hylauronidase
 		* This gives a combination of 0.8% ropivacaine, 2% lignocaine, and 30U/ml hyaluronidase  
 		Hyaluronidase concentrations of 30U/ml or greater are associated with periorbital cellulitis.
@@ -74,7 +74,7 @@ Ensure there is some antiseptic under the lower lid and in the conjunctival sac.
 		* If contacting bone, redirect slightly superiorly
 		* If the globe rotates, this suggests scleral contact  
 		Ensure patient can **move eye freely** once in at desired depth.
-		* Slight superior and medial angulation can be performed once past the equator of the globe
+		* *Slight* superior and medial angulation can be performed once past the equator of the globe
 	* Aspirate, then inject 4-10ml of LA
 		* Cease injection if the globe becomes tense
 * Use digital pressure or a Honan balloon to compress the globe, reducing LA volume and therefore IOP

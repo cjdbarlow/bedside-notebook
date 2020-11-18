@@ -47,7 +47,7 @@ If not critically unwell, then waiting for fasting is appropriate.
 
 ##Induction
 > * Priority is to **maintain spontaneous ventilation**  
-> Concern that positive pressure ventilation may push the foreign body further into the airway. The risk of this is unknown and 
+> Concern that positive pressure ventilation may push the foreign body further into the airway. The risk of this is unknown, but maintaining spontaneous ventilation is preferable to avoid it.
 
 Both intravenous or inhalational techniques are acceptable. Considerations include:
 * Location of obstruction  
@@ -64,6 +64,16 @@ Dependent on pre-induction saturation.
 
 
 ###Intravenous
+* 0.5μg/kg fentanyl
+* Incremental boluses of propofol until loss of consciousness  
+Initially 1mg/kg, then 0.5mg/kg.
+* Commence maintenance, aiming to maintain spontaneous ventilation  
+Children under 3 tolerate higher doses of remifentanil and propofol than order children.
+	* Propofol 15mg/kg/hr
+	* Remifentanil 0.2μg/kg/min
+* Slowly titrate maintenance  
+Aim for respiratory rate **half** of pre-induction rate.
+* When adequately deep, perform laryngoscopy and anaesthetise the cords (see below)
 
 
 ###Hybrid

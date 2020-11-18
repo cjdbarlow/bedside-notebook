@@ -777,7 +777,11 @@ Fluids
 - 20mL/kg
 - 4mL/kg blood raises Hb by 10g/L
 
+<<<<<<< Updated upstream
 Lorazepam: 0.1mg/kg
+=======
+Lorazepam 0.1mg/kg
+>>>>>>> Stashed changes
 
 Atropine/Adrenaline
 - Adr: 10ug/kg
@@ -818,6 +822,7 @@ Medications:
 - Formulations containing ethylene glycol
 - Volume
 
+<<<<<<< Updated upstream
 # Problem Statements
 ## Cardiac tamponade
 Primary goals are to avoid haemodynamic collapse and expedite decompression.
@@ -1054,3 +1059,13 @@ In errors where no apparent harm has occurred, clinicians can only be certain by
 
 Australian Commission on Safety and Quality in Health Care (2013), Australian Open Disclosure Framework.
 ACSQHC, Sydney
+=======
+# Crainiotomy ICP physiology
+ICP falls when dura opened
+Sympathetic driven hypertension may precipitously resolve
+Ends up very hypotensive 
+May have dramatic response to vasopressors
+Avoid with good filling and ablate sympathetically driven hypertension with opioids so the response is less dramatic
+
+
+>>>>>>> Stashed changes
