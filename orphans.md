@@ -777,11 +777,7 @@ Fluids
 - 20mL/kg
 - 4mL/kg blood raises Hb by 10g/L
 
-<<<<<<< Updated upstream
-Lorazepam: 0.1mg/kg
-=======
 Lorazepam 0.1mg/kg
->>>>>>> Stashed changes
 
 Atropine/Adrenaline
 - Adr: 10ug/kg
