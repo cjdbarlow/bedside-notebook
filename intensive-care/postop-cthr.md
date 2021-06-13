@@ -139,6 +139,14 @@ Common management of the cardiac patient includes:
 	As able.
 	* Isolate pacing wires  
 	When no pacing requirement for 24 hours.
+	* AF management
+		* Occurs in 10-40% of post-cardiac surgery patients
+		* Substantial associated morbidity:
+			* ↑ CVA risk (3x)
+			* ↑ Inotrope requirement
+			* ↑ IABP
+			* ↑ Reoperation
+			* ↑ ICU and hospital LoS
 * D
 	* Analgesia
 	* Wean sedation  
@@ -150,6 +158,13 @@ Common management of the cardiac patient includes:
 		* Decreases SVR and myocardial work
 		* Improves coagulopathy
 * F
+	* Electrolytes
+		* Hypokalaemia  
+		Aim 4.5-5mmol/L.
+		* Hypomagnesaemia  
+		Aim >1mmol/L.
+	* Urine output  
+	Polyuria dominates the early post-operative period, but usually resolves in ⩽6 hours.
 	* Remove IDC  
 	Second post-operative day.
 
@@ -238,7 +253,6 @@ Complications of cardiac surgery relevant to intensive care include:
 					* Cardiopulmonary bypass  
 					Greater bypass duration is associated with greater impairment.
 				* Quantitative abnormality  
-				Low number of platelets.
 			* Coagulation abnormality
 				* Residual heparinisation
 				* Haemodilution
