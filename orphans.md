@@ -1064,4 +1064,62 @@ May have dramatic response to vasopressors
 Avoid with good filling and ablate sympathetically driven hypertension with opioids so the response is less dramatic
 
 
->>>>>>> Stashed changes
+#Echo for Transcatheter interventions
+* ASA recommendationds 2011
+
+TAVI:
+* Several types of valve
+* Medtronic Corevalve inflates higher in the root
+	* Valve struts extend into the asecneding aorta
+* Sapien
+	* Positioned at the site of native AV
+* Echo
+	* Confirm diagnosis
+	* Assess LV  
+	Basal septal hhypertrophy increases difficulty.
+	* Measure aortic annular junction
+	* Distance from coronary ostia to aortic annulus  
+	<12mm is an issue with Sapien valves.
+	* Deployment
+		* Ventricular side of valve positioned at IVF but not esxtending past AMVL
+			* MR if too ventricular
+			* Coronary occlusion if too aortic
+	* Paravalvular leak
+		* >Mild inccreased mortality
+		* Assess AV in ME and TG views
+		* TAVI leak usually posterior
+		* Graded by circumferential involvement (how much of the valve clock face is invovled) in SAX
+			* Moderate 10-20%
+		* Flow reversal in descending aorta
+
+EP:
+* Atrial septal puncture
+	* Fossa ovalis
+	* Avoid injury to surrounding structures
+
+ASD:
+* Measure defect in 3mm
+* Need defect <35mm with >5mm circumferential margins
+
+# Aortic Valve
+* Congenital uni/bicuspid valves: Post-stenotic dilatation
+* Biscuspid most common
+* Discrepancies between measures of AS severity
+	* AS <4 and AVA < 1
+		* Check LBVOT diameter
+		* Check LVOT velocity signal for distance from valve
+		* Calculated indexed AVA if <135cm or BMI <22
+	* AS >4 and AVA >1
+		* Probably high output state
+
+# AF in pregnancy
+Youssef’, “Management of Atrial Fibrillation during Pregnancy.”
+
+* Electrical cardioversion if unstable
+* Cardioversion if ongoing risk to mother or foetus
+	* Preference for anticoagulation prior
+	* Flecainide or ibutilide for cardioversion
+	* Amiodarone associated with many adverse foetal outcomes
+* VKAs should be avoided between 6-12 weeks and after week 36
+	* LMWH or UFH over this period
+* Rhythm control preferred
