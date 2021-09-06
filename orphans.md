@@ -1064,6 +1064,7 @@ May have dramatic response to vasopressors
 Avoid with good filling and ablate sympathetically driven hypertension with opioids so the response is less dramatic
 
 
+<<<<<<< Updated upstream
 #Echo for Transcatheter interventions
 * ASA recommendationds 2011
 
@@ -1123,3 +1124,177 @@ Youssef’, “Management of Atrial Fibrillation during Pregnancy.”
 * VKAs should be avoided between 6-12 weeks and after week 36
 	* LMWH or UFH over this period
 * Rhythm control preferred
+=======
+# Mitral Valve 
+
+Anatomy:
+* IVF == aortomitral curtain
+* Key relationships
+	* LCx
+	* Coronary sinus
+
+* Saddle shaped
+	* AP axis is high (WRT atrium)
+	* Lateral/commissural axis is low and long (and imaged in the commissural view)
+
+* PML has twice the annular attachment as AML
+* PML has two scallops that provide pleating mechanism; as the annular circumference reduces during systole
+* PMs are orientated towards the commissures
+	* Both papillary muscles supply both leaflets
+
+Key views:
+* Long axis
+	* Minor axis
+	* Should be able to identify IVF
+	* Leaflet length is true leaflet length
+* Commissural view
+	* Useful because its easy to be sure what you are looking at
+	* Identification of location of regurgitant jets is important
+	* Perpendicular to long axis view
+
+* Both should be lined up such that there is a line perpendicular to the annulus runs through the apex
+
+Less useful views:
+* Less useful because there are limited anatomical references
+* 2 chamber
+* 4 chamber
+	* Oblique to axis of valve
+	* Measurements are unreliable
+	* Advancing or withdrawing probe alters measurements
+
+Rheumatic MS:
+* Pressure half time  
+On long cycle
+
+MR:
+* Restricted asymmetrical leaflet motion: Towards affected side
+* Excessive leaflet motion: Away from affected side
+* PM rupture gives chaotic MR
+
+
+Tenting:
+* Many measurements
+* Tenting height >1cm (normal ~0) is significant leaflet tethering
+
+
+# RV
+Segments:
+* Anterior
+* Inferior
+* Lateral
+* RVOT
+
+Function:
+* Radial vs longitudinal
+* Regionality
+	* Basal
+	* Free wall
+	* RVOT
+* Tricuspid annulus reduces by ~25% in systole which contributes to competence
+
+
+Measurement:
+* Maximised width
+* TAPSE ignores free wall/septum/RVOT; and is reduced in TR and useless post TA
+* FAC ignores RVOT
+
+# Fevers
+
+Patterns:
+* Diurnal variation: infection
+* Sustained: Gram -ve pneumonia/CNS damage
+* >48/24 after ETT: VAP
+* 5-7 postoperatively: Abscess
+* 10-14 post ABx: Fungal
+
+* Sepsis
+	* 10% hypothermic
+	* 35% normothermic
+
+Causes:
+* Infectious
+	* VAP
+	* Sinusitis
+	* CLABSI
+	* Gram -ve bacteraemia
+	* C diff
+	* Abdominal sepsis
+	* Wound infectgions
+
+* Noninfectious
+	* Should be <39 degrees unless drug or transfusion related
+	* ETOH/drug withdrawal
+	* Post-operative  
+	Probably not atelectasis.
+	* Cerebral infarction
+	* Adrenal insufficiency
+	* MI
+	* Pancreatitis
+	* Acalculous cholecystitis
+	* Ischaemic gut
+	* Aspiration pneumonitis
+	* ARDS
+	* SAH
+	* Fat emboli
+	* Transplant rejection
+	* DVT/PE
+	* Gout
+	* Haematoma
+	* Cirrhosis
+	* UGIB
+	* Phlebitis
+	* IV contrast reaction
+	* Neoplastic fevers
+	* Decubitus ulcers
+
+Active cooling increases VO2, adrenaline, and noradrenaline levels
+
+# Vasoplegia
+Busse, Laurence W., Nicholas Barker, and Christopher Petersen. ‘Vasoplegic Syndrome Following Cardiothoracic Surgery—Review of Pathophysiology and Update of Treatment Options’. Critical Care 24, no. 1 (4 February 2020): 36. https://doi.org/10.1186/s13054-020-2743-8.
+
+* Norad; avoid higher than 0.5ug/kg/min
+* Vasopressin
+* Methylene blue 1-2mg/kg  
+Contraindications:
+	* G6PD deficiency
+	* SSRI/SNRI/MAOI preop
+* Hydroxycobalamin 5g IVPB over 15 minutes
+* AT II 10-40ng/kg/min
+
+# Diuretics
+* Multisegment nephron blockade is associated with increased diuretic response without worsening electrolyte abnormalities or renal function and may reduce RRT for volume need
+	* Acetazolamide 250mg Q8H
+	* Frusemide 200mg IV Q6H
+	* Metolazone 10mg Q12H
+	* Spironolactone 100mg PO BD
+
+# Perioperative neurological injury
+Incidence of clinically apparent stroke:
+* Closed chamber: 1-2%
+* Open: 4-13%
+
+Subtle changes:
+* Up to 60%, 2 months for subtle neurological dysfunction
+
+Risk factors:
+* Patient factors
+	* As per other CVA
+	* Carotid disease
+* Operative diseases
+	* Hypethermia
+	* Open chamber
+	* Hypotension or HDx instability
+
+At risk periods:
+* 
+* INduction of hypothermia
+* Cannulation
+* Rewarming
+
+## Selective cerebral perfusion
+* Can I cannulate somewhere where I can perfuse the brain?
+* How long will it take to re-establish perfusion
+* DHCA inflection: 20-40 minutes
+
+* 10% dont have an intact circle of willis
+>>>>>>> Stashed changes
