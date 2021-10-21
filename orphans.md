@@ -1298,3 +1298,21 @@ At risk periods:
 
 * 10% dont have an intact circle of willis
 >>>>>>> Stashed changes
+
+# Mitral regurgitation
+* Perioperative about evaluating location, aetiology, mechanism; not severity
+* ?SAM if degenerative disease
+* ? degree of leaflet tethering
+* Leaflet classification most important for posterior segments because these are defined by the leaflet scallops; A segment defined WRT these
+* Restricted Towards (RT); Excessive Away (EA)
+* Vena contracta measured perpendicular to coaptation point; this is MO LAX. Scan for the narrowest part of the widest jet
+
+* Secondary MR has universallly poorer outcomes compared to other causes
+
+# MS
+Rheumatic and cheaters
+* Rheumatic: subvalvular apparatus thickening has significant contribution to obstucting flow
+
+
+# Diastology
+* Begins when the dP/dT becomes negative
