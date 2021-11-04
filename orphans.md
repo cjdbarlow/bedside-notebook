@@ -1286,8 +1286,7 @@ Risk factors:
 	* Hypotension or HDx instability
 
 At risk periods:
-* 
-* INduction of hypothermia
+* Induction of hypothermia
 * Cannulation
 * Rewarming
 
@@ -1316,3 +1315,10 @@ Rheumatic and cheaters
 
 # Diastology
 * Begins when the dP/dT becomes negative
+
+
+# ACHD 
+General approaches:
+* Draw cardiac diagram with saturations and prssures at different areas
+* Avoid air bubbles in all IV catheters
+* PVR, SVR, and PVR/SVR modification is important; done with drugs and medications
