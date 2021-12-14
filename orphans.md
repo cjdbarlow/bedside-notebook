@@ -1322,3 +1322,154 @@ General approaches:
 * Draw cardiac diagram with saturations and prssures at different areas
 * Avoid air bubbles in all IV catheters
 * PVR, SVR, and PVR/SVR modification is important; done with drugs and medications
+
+# Mitral valve imaging
+* MO views best
+* Prosthetic valve; whatever sector works. No standard views.
+
+# Rethinking resus
+30 day survival where VT/VF is detected as
+the first rhythm has been found to range between 41 -
+58% [2], while other studies report a lower survival to
+hospital discharge at 37% for both VT and VF [7].
+Importantly 99.1% of IHCA presenting with VT or VF
+retain a good neurological outcome [1]. It is frequently
+found to have one of the highest success rates from
+resuscitation, and has been found to respond the
+most to addition of pressors compared to other
+primary rhythms (22.6% without, 40.7% with, [3]).
+Sustained ROSC >20 minutes has been shown to
+occur for over 75% of VT/VF IHCAs [1].
+
+In the event of IHCA complicated by PEA,
+30 day survival ranges from 3.3 to 12.1% and there is
+an inverse relationship between age and likelihood of
+success [1,2]. Use of pressors improves likelihood of
+survival (5.9% without to 15.2% with [3]).
+
+Of 5606 patients with metastatic
+or haematological malignancies who suffered IHCA,
+only 1.1% (461) survived to hospital discharge [3].
+Further meta-analysis demonstrated survival to
+discharge of patients with metastatic disease
+following IHCA was only 5.6% [4]. Of those with nonmetastatic
+cancer, survival rates following IHCA are
+slightly higher but still poor at 18 - 31% [5,6].
+
+A common patient fear is that of losing cognitive
+function following resuscitation. However, severe
+What is not a common outcome of inhospital
+cardiac arrest?
+Chest wall trauma
+Neurological injury
+Subsequent cardiac arrest
+Death
+neurological deficits are uncommon following inhospital
+cardiac arrests. Studies report cognitive
+performance category scores (CPCs) of 1 or 2 (good
+cerebral performance or moderate cerebral disability,
+considered a “good” outcome) in 88- 97% of IHCAs
+for all initial rhythms [1,2]. This is inclusive of those
+elderly survivors with 88% of those > 90 years old
+retaining a CPC of 1-2 [2].
+
+Evidence suggests that the presenting rhythm is
+shockable in 16.9 – 33.2% [1,2,3, 13] of IHCAs. Initial
+shockable rhythm conferred an increased likelihood
+of ROSC (RR 1.63) and 30-day survival (RR = 2.31) [13],
+and nearly all of those resuscitated retain good
+neurological function [13].
+
+Indeed. The odds of 30 day survival following IHCA
+due to respiratory insufficiency was found to be poor
+at just 0.30, and when complicated by acute
+pulmonary oedema was 0.18 [2]. Survival measures for
+IHCA due to pulmonary embolism ranges from 24-
+27%, while hypoxia ranges from 24-37% [8,9]. Overall
+survival from respiratory causes has been found to
+vary from to 24- 35.6% [5,8].
+
+Aortic stenosis is a strong predictor of mortality and
+unfavourable neurological outcome after in-hospital
+cardiac arrest [10]. While 19% of patients with IHCA
+and AS achieved sustained ROSC and survived until
+hospital discharge, only 4.8% achieved a cerebral
+performance category (CPC) of 1 or 2 reflecting a high
+proportion of patients suffered cerebral deficit. Odds
+of survival has been shown to be as poor as 0.14 [10].
+
+In patients presenting with acute
+myocardial infarction complicated by
+tachyarrhythmias or sudden cardiac death, NSTEMI
+patients were associated with higher long-term allcause
+mortality compared with STEMI patients [11].
+Furthermore, all-cause mortality at 2.5 years was
+significantly higher for NSTEMI than STEMI patients 45% vs 34%) as was all-cause mortality at only 30
+days (38% vs 28%) and in-hospital death (28% vs
+37%) [11]. This is similarly reflected in the findings
+that success of resuscitation for IHCA was poorer for
+NSTEMI than STEMI with respect to 6 month survival
+[8].
+
+Preventing cardiac arrest and optimising
+the patient’s condition should be the key strategy in
+this case. Importantly, survival following resuscitation
+for in-hospital cardiac arrest in patients with
+metastatic cancer is typically poor at around 5% [3,4].
+The likely etiological factor in this patient’s peri-arrest
+is cardiac tamponade due to their lung cancer, and
+this typically has a poor rate of survival following
+resuscitation of around 7% [9]. Pericardiocentesis is
+indicated in the peri-arrest situation as part of a
+symptom focussed approach, but once the patient
+has died pericardiocentesis as part of resuscitation is
+not indicated. Once again the key factor in treatment
+will be establishing shared goals of care with the patient’s and whanau. Meanwhile, cardiopulmonary
+resuscitation in the form of chest compressions,
+defibrillation, intubation and supplementary
+medications are unlikely to provide a significant
+likelihood of quality survival for this patient.
+
+This patient has previously been
+managing well independently, and prevention of
+cardiac arrest will be crucial as cardiac arrest in this
+context is likely to be non-reversible. Cardiac arrest
+from pulmonary causes typically has a survival rate
+ranging from 24-36.5% [5,8], and pneumonia alone
+confers a survival to discharge of only 12.9% following
+IHCA [5]. However, overall survival from IHCA is
+significantly lessened by the presence of severe COPD
+and other comorbid disease [12] and this should be a
+sizeable consideration for this patient’s care.
+Although it is not unreasonable to consider
+restorative approach without attempting CPR,
+fractured neck of femur and hospital acquired
+pneumonia are both associated with reducing
+functional status post discharge [15]. A shared goal of
+care discussion should help elicit whether the
+patients would consider restorative versus quality of
+life goal of care.
+
+Aortic stenosis is a strong predictor of
+mortality and unfavourable neurological outcome
+after in-hospital cardiac arrest [10]. Odds of survival
+has been shown to be as poor as 0.14 [10], and as a
+result cardiopulmonary resuscitation would not be
+indicated. Therefore, both B and C are correct depending on the outcome of a shared goals of care
+discussion with the patient inclusive of medical
+treatment and diuresis, transcutaneous aortic valve
+insertion or surgical aortic valve replacement.
+Deciding the best approach requires a partnership
+with the patient to determine their goal from
+undertaking treatment and pair this with what is
+medically appropriate.
+
+# IABP
+Timing adjustment:
+* Safest is late inflation early deflation
+* Auto mode usually best
+* Semi-auto:
+	* Move inflation later until dicrotic notch visible
+	* Then move forward again until dicrotic notch gone
+	* Move deflation earlier until steep drop from balloon deflation disappears and the flatter line of normal diastolic runoff is revealed
+	* Then move deflation later until the systolic upstroke is sharp and visible again
