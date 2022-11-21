@@ -1,0 +1,179 @@
+# Fat Embolism Syndrome
+
+
+Fat embolism syndrome is a serious consequence of embolisation of fat globules:
+
+* **24-72 hours** after injury to medullary bone  
+Usually due to:
+	* Major trauma  
+	95% of cases.
+	* Intraoperative medullary reaming
+* Into the:
+	* Lung parenchyma
+	* Peripheral circulation
+
+
+## Epidemiology and Risk Factors
+
+Primary risk factor is number of fractures:
+
+* Single long bone fracture  
+1-3%.
+* Bifemoral fractures  
+Up to 33%.
+
+
+## Pathophysiology
+
+Two major mechanisms of injury:
+
+* Mechanical  
+Mechanical obstruction of capillary beds, which explains:
+	* Right heart dysfunction
+	* Paradoxical embolism
+* Biochemical  
+Degradation of fat into pathogenic free fatty acids, which explains:
+	* Delayed presentation
+	* ARDS
+	* Cardiac dysfunction
+
+### Aetiology
+
+Majority are trauma related, and include:
+
+* Marrow-containing bone fractures
+	* Long bone
+	* Pelvis
+* Orthopaedic surgery
+* Fat injury
+	* Burns
+
+Non-trauma related:
+
+* Bone related
+	* Bone marrow transplant
+	* Bone tumour lyses
+	* Osteonecrosis
+* Fat related
+	* Liposuction
+	* Pancreatitis
+* Other
+	* DM
+	* Steroid therapy
+	* Fatty liver disease
+	* Haemoglobinopathies
+		* Sickle-cell
+
+## Clinical Manifestations
+
+Presentation usually:
+
+* Occurs 12-72 hours after injury  
+May occur up to 2 weeks.
+* Classical triad of hypoxia, neurological findings, and rash
+* Respiratory changes  
+Due to pulmonary embolism.
+	* Dyspnoea
+	* Tachypnoea
+	* Hypoxaemia
+* CVS changes
+	* Obstructive shock
+	* Right heart dysfunction
+* Neurological features  
+Due to cerebral embolism. Heterogenous appearance:
+	* Confusion
+	* Drowsiness
+	* Seizures
+* Haematological
+	* Anaemia
+	* Thrombocytopaenia
+	* **Petechiae**  
+		* Red-brown rash
+		* Occurring in ~33% of cases
+		* In non-dependent regions
+		* Due to:
+			* Microvascular haemorrhage
+			* Paradoxical embolism
+
+
+## Diagnostic Approach and DDx
+
+Differential diagnoses include:
+
+* Other sources of embolism  
+	* PE
+	* AFE
+	* Tumour embolism
+	* Foreign body embolism
+	* Air embolism
+* Pulmonary oedema
+	* Pneumonia
+	* Heart failure
+	* ARDS
+* Vasculitis
+
+## Investigations
+
+None are diagnostic:
+
+* Bloods
+	* FBE
+		* Anaemia
+		* Thrombocytopaenia
+	* UECs
+		* Hypocalcaemia  
+		Due to free fatty acid binding.
+* CXR  
+May reflect developing ARDS.
+* CR chest  
+Focal ground glass opacification.
+* MRI Brain  
+
+Notably, aspiration of fat from a wedged PAC is neither sensitive nor specific.
+
+## Management
+
+Preventative:
+
+* Medullary venting hole drilled prior to reaming  
+Reduced major embolic events on TOE.
+* Early fixation of fractures
+
+
+Therapeutic is entirely supportive:
+
+* ABC approach
+* Maintain adequate oxygenation and ventilation
+* Right heart support
+
+### Ineffective Therapies
+
+Include:
+
+* Methylprednisolone prophylaxis
+	* 1.5mg/kg IV Q8H for 7 doses
+	* Hypothesised to reduce perivascular haemorrhage  
+	* No RCT evidence supporting use
+* Heparin  
+Theorised to remove lipaemia by stimulating lipase activity.
+
+## Complications
+
+Include:
+
+* Death  
+5-15%, usually due to:
+	* Respiratory failure
+	* Obstructive shock
+	* Brian death
+
+## Prognosis
+
+Most recover spontaneously.
+
+
+---
+
+## References
+
+1. Gupta A, Reilly CS. [Fat embolism](https://academic.oup.com/bjaed/article/7/5/148/534526). Contin Educ Anaesth Crit Care Pain. 2007 Oct 1;7(5):148–51. 

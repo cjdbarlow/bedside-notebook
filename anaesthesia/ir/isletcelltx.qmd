@@ -1,0 +1,72 @@
+# Islet Cell Transplantation
+
+>Airway: Own <br>
+>Access: CVC may be required for blood sampling <br>
+>Pain: Minimal <br>
+>Position: Supine <br>
+>Time: ~1 hour <br>
+>Blood loss: Post-opereative haemorrhage or hepatic bleeding may occur <br>
+>Special: BSL monitoring may be required <br>
+
+
+Transplantation of donor islet cells into a pancreas to achieve independence from insulin, as an alternative to whole pancreas transplantation. Patients undergoing islet cell transplants usually are:
+
+* Type-1 diabetics
+* Poor recognisers of hypoglycaemia
+* Experiencing recurrent, severe hypoglyaemic epidosies
+* Otherwise optimally managed
+* Rare  
+Most patients can be managed without requring transplantation.
+
+
+## Considerations
+
+* D
+	* DM  
+		* Indications  
+		Requires all of:
+			* Insulin sensitive
+			* C-peptide negative
+			* Documented severe unnoticed hypoglycaemic episodes
+			* Without renal impairment
+		* Complications
+* E
+	* Co-existing endocrine disease
+
+## Preparation
+
+## Induction
+
+* Sedation for interventional radiology
+
+## Intraoperative
+
+Surgical stages:
+
+* Percutaneous cannulation of the portal vein  
+Often large (e.g. 4 Fr).
+* Measurement of portal venous pressure
+* Infusion of purified islets in transplant medium into portal vein
+* Removal of catheter
+
+## Postoperative
+
+Further management includes:
+
+* Immunosuppression
+	* Steroids
+	* Calcineurin inhibitors  
+	May require conversion to MMF.
+
+Surgical complications include:
+
+* Bleeding
+* Portal vein thrombosis
+* Portal hypertension
+
+
+---
+
+## References
+
+1. Srinivasan P, Huang GC, Amiel SA, Heaton ND. [Islet cell transplantation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2600029/). Postgrad Med J. 2007;83(978):224-9.

@@ -1,0 +1,168 @@
+% General Packages
+\RequirePackage{makeidx}
+\RequirePackage{booktabs}
+\RequirePackage{longtable}
+\RequirePackage{lscape}
+\RequirePackage{fullwidth}
+\RequirePackage{pdflscape}
+\RequirePackage{xltabular}
+\RequirePackage{sidenotes}
+\RequirePackage{marginnote}
+
+% Styling
+%% Page Numbers
+\RequirePackage{scrlayer-scrpage}
+\lohead*{\pagemark}
+
+%% Fonts
+\RequirePackage{fontspec}
+\RequirePackage[sfdefault]{inter}
+\newfontfamily\tuftefont[]{ETbb}
+
+%% Sidenotes
+
+
+%% Headings
+\setkomafont{part}{\itshape\Huge\hfill\raggedleft\tuftefont}
+\setkomafont{chapter}{\Huge\relax\tuftefont}
+\setkomafont{section}{\LARGE\relax\tuftefont}
+\setkomafont{subsection}{\Large\tuftefont}
+
+%% Info boxes
+\RequirePackage[most]{tcolorbox}
+\RequirePackage{etoolbox}
+\RequirePackage{graphicx}
+
+\definecolor{info}{HTML}{66bbff}
+\definecolor{danger}{HTML}{ff6666}
+\definecolor{caution}{HTML}{f77d05}
+\definecolor{tick}{HTML}{26cb7c}
+\definecolor{ANZCA}{HTML}{93002e}
+\definecolor{CICM}{HTML}{0177a6}
+\definecolor{dual}{HTML}{69019d}
+
+\tcbset{common/.style={%
+    left=2.8em,
+    right=1.4em,
+    top=1.4em,
+    bottom=1.4em,
+    colback=#1!10,
+    colframe=#1,
+    rounded corners,
+    arc=2pt,
+    boxrule=0pt,
+    frame hidden,
+    enhanced,
+    overlay={%
+        \begin{tcbclipframe}
+            \draw[#1,line width=3pt] (frame.north west) -- (frame.south west);
+            \def\myboxicon{Y}
+            \ifstrequal{#1}{ANZCA}{\def\myboxicon{}}{}
+            \ifstrequal{#1}{CICM}{\def\myboxicon{}}{}
+            \ifstrequal{#1}{dual}{\def\myboxicon{}}{}
+            \ifcsempty{myboxicon}{}{
+                \node at ([xshift=1.5em]frame.west) {\includegraphics[width=1em]{png/#1.png}};
+            }
+        \end{tcbclipframe}
+    }
+    }
+}
+
+\newenvironment{info}{\begin{tcolorbox}[common={info}]}{\end{tcolorbox}}
+\newenvironment{danger}{\begin{tcolorbox}[common={danger}]}{\end{tcolorbox}}
+\newenvironment{caution}{\begin{tcolorbox}[common={caution}]}{\end{tcolorbox}}
+\newenvironment{tick}{\begin{tcolorbox}[common={tick}]}{\end{tcolorbox}}
+\newenvironment{ANZCA}{\begin{tcolorbox}[common={ANZCA}]}{\end{tcolorbox}}
+\newenvironment{CICM}{\begin{tcolorbox}[common={CICM}]}{\end{tcolorbox}}
+\newenvironment{dual}{\begin{tcolorbox}[common={dual}]}{\end{tcolorbox}}
+
+% Tables
+\newcommand{\bfulltab}{\begin{adjustwidth}{0pt}{-2.18in}}
+\newcommand{\efulltab}{\end{adjustwidth}}
+
+% Lists
+\renewcommand{\labelitemii}{$\circ$}
+\renewcommand{\labelitemiii}{$\bullet$}
+\renewcommand{\labelitemiv}{$\circ$}
+
+\RequirePackage{enumitem}
+\setitemize{noitemsep,topsep=0pt,parsep=0pt,partopsep=0pt}
+\setlistdepth{9}
+
+%% List Styles
+\newcommand*\smallsquare{\mathbin{\vcenter{\hbox{\rule{.5ex}{.5ex}}}}}
+
+\setlist[itemize,1]{label=$\bullet$}
+\setlist[itemize,2]{label=$\circ$}
+\setlist[itemize,3]{label=$\smallsquare$}
+\setlist[itemize,4]{label=$\bullet$}
+\setlist[itemize,5]{label=$\circ$}
+\setlist[itemize,6]{label=$\smallsquare$}
+\setlist[itemize,7]{label=$\bullet$}
+\setlist[itemize,8]{label=$\circ$}
+\setlist[itemize,9]{label=$\smallsquare$}
+
+\renewlist{itemize}{itemize}{9}
+
+% Page Styles
+% Title Page
+\renewcommand{\maketitle}[0]{%
+  \cleardoublepage {
+      \begin{fullwidth}
+      \fontsize{18}{20}\selectfont\par\noindent\textcolor{darkgray}{\scshape{\tuftefont\@author}}
+      \vspace{11.5pc}
+      \fontsize{36}{40}\selectfont\par\noindent\textcolor{darkgray}{\scshape{\tuftefont\@title}}
+      \vspace{2pc}
+      \fontsize{22}{26}\selectfont\par\noindent\enspace\textcolor{darkgray}{\scshape{\tuftefont\@subtitle}}
+      \vspace{22pc}
+      \fontsize{14}{16}\selectfont\par\noindent\scshape{\tuftefont\@publishers}
+      \end{fullwidth}
+  }
+  \thispagestyle{empty}
+  \clearpage%
+}
+
+
+%% Table of Contents
+
+
+%% Part Pages
+\makeatletter
+\renewcommand\part{%
+  \if@openright
+    \cleardoublepage
+  \else
+    \clearpage
+  \fi
+  \thispagestyle{empty}%
+  \if@twocolumn
+    \onecolumn
+    \@tempswatrue
+  \else
+    \@tempswafalse
+  \fi
+  \null\vfil
+  \secdef\@part\@spart}
+\makeatother
+
+% Calculations
+% Define a month command
+\newcommand{\Month}{%
+  \ifcase\the\month
+  \or January% 1
+  \or February% 2
+  \or March% 3
+  \or April% 4
+  \or May% 5
+  \or June% 6
+  \or July% 7
+  \or August% 8
+  \or September% 9
+  \or October% 10
+  \or November% 11
+  \or December% 12
+  \fi}
+
+%This sets the subtitle for the book since we can't pass it from output.yml, for whatever reason
+%\subtitle{A Pretty Good Guide for the Primary Exam}
+%\publisher{Life in the Fast Lane}

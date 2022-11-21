@@ -1,0 +1,174 @@
+# Inhaled Foreign Body
+
+
+>Airway: Rigid bronchoscope. LMA or ETT into nasopharynx can be useful to maintain airway whilst achieving adequate depth to tolerate bronchoscope.<br>
+>Access: Ideal. <br>
+>Pain: Stimulating intraoperatively, minimal post. <br>
+>Position: Supine. Shoulder roll for bronchscope.<br>
+>Time: Highly variable. <br>
+>Blood loss: Minimal. <br>
+>Special: Maintain spontaneous ventilation. Consider a second anaesthetist. <br>
+
+The inhaled foreign body is common:
+
+* In young children  
+Usually 1-3 year old.
+* Outside of specialist paediatric centres
+
+## Considerations
+
+* Patient
+	* Anxious
+	* Respiratory distress
+		* Stridor
+		* Hypoxia
+* Parent
+	* Often need to rapidly develop rapport
+* Procedure
+	* Airway management in operating theatre
+	* Surgeon available with rigid bronch prior to induction
+* Pathology
+	* Stability
+	* Location  
+	Affected side usually has;
+		* ↓ AE
+		* Wheeze
+		* Hyperinflation with mediastinal shift on expiration on CXR  
+		Ball-valve effect.
+
+
+## Preparation
+
+Consider:
+
+* Emergence  
+If not critically unwell, then waiting for fasting is appropriate.
+* Premedication  
+	* Sedation  
+	Individualised decision; respiratory depression and aspiration are major disadvantages.
+	* Secretion control  
+	Glycopyrrolate 5μg/kg if required. Also mitigates against bradycardia with airway stimulation.
+* Second anaesthetist
+
+## Induction
+
+> * Priority is to **maintain spontaneous ventilation**  
+> Concern that positive pressure ventilation may push the foreign body further into the airway. The risk of this is unknown, but maintaining spontaneous ventilation is preferable to avoid it.
+
+Both intravenous or inhalational techniques are acceptable. Considerations include:
+
+* Location of obstruction  
+Gas induction prolonged in proximal/main bronchus obstruction secondary to shunt.
+* Presence of IV
+* Preference of anaesthetist/parent/child
+
+
+### Inhalational
+
+* Gas induction with 8% sevoflurane in oxygen or nitrous oxide  
+Dependent on pre-induction saturation.
+* Wean nitrous oxide to off when depth of anaesthesia allows
+* Place IV if not sited
+
+
+### Intravenous
+
+* 0.5μg/kg fentanyl
+* Incremental boluses of propofol until loss of consciousness  
+Initially 1mg/kg, then 0.5mg/kg.
+* Commence maintenance, aiming to maintain spontaneous ventilation  
+Children under 3 tolerate higher doses of remifentanil and propofol than order children.
+	* Propofol 15mg/kg/hr
+	* Remifentanil 0.2μg/kg/min
+* Slowly titrate maintenance  
+Aim for respiratory rate **half** of pre-induction rate.
+* When adequately deep, perform laryngoscopy and anaesthetise the cords (see below)
+
+
+### Hybrid
+
+* Perform a gas induction with sevoflurane
+* Place IV if not sited
+* Commence TIVA:
+	* Propofol TCI at 1μg/ml
+	* Remifentanil at 0.2μg/kg/min  
+	With bolus to cover dead space of line.
+* Halve sevoflurane (to 4%)
+* Increase propofol TCI to 1.5μg/ml
+* Continue to increase propofol target every 30-60s until at 2.5-3μg/ml
+* Turn sevoflurane off
+
+
+
+
+## Intraoperative
+
+Once induced, priorities are to:
+
+* **Anaesthetise cords**  
+	* Initial dose of lignocaine 4mg/kg:
+		* 1/3<sup>rd</sup> of volume above cords  
+		May precipitate coughing, indicating depth of anaesthesia is inadequate.
+		* 2/3<sup>rds</sup> of volume below cords
+	* Regular maintenance of 2mg/kg lignocaine Q20-25 minutes
+	* Can bolus remifentanil 0.5μg/kg if ongoing airway reactivity  
+* Maintain **oxygenation**
+	* Via rigid bronchoscopy  
+	Attach circuit or T-piece to 22mm connector on the bronchoscope.
+		* Monitor bronchoscope screen to ensure not obstructed and that gas flow will be occurring
+	* Via high-flow humidified nasal oxygen
+* Maintain **spontaneous ventilation**  
+	* Keep a hand on the chest during rigid bronchoscopy to monitor respiratory rate  
+	* Remember ETCO<sub>2</sub> is unreliable or unavailable with either mechanism of oxygenation
+	* Positive pressure ventilation or assisted ventilation may be required if respiratory effort becomes inadequate
+* Maintain of **anaesthesia**
+	* Too light  
+	Breath holds, stridor.
+	* Too deep  
+	Preceded by bradycardia, bradypnoea.
+	* Options
+		* TIVA  
+		Usually remifentanil rate remains constant; adjust the propofol.
+		* Volatile via rigid bronchoscope  
+
+
+Once safely underway:
+
+* Give 0.25mg/kg dexamethasone  
+Prevent airway swelling.
+* *Consider* fentanyl up to 2μg/kg  
+Give slowly to prevent apnoea.
+
+
+### Surgical Stages
+
+> Duration can be highly variable
+
+Key stages:
+
+* Insertion of rigid bronchoscope  
+Highly stimulating.
+* Removal of foreign body  
+May precipitate soiling of good lung from contamination distal to obstruction. Higher risk with:
+	* Long-duration obstruction
+	* Organic substances
+		* Nuts
+
+## Emergence
+
+* Basic airway maneuvers usually adequate to maintain airway until emergence completed
+* Can consider LMA for convenience
+* Requirement for intubation is rare and only if airway swelling is significant
+
+## Postoperative
+
+* Prolonged PACU stay common
+* Post-operative stridor usually manageable with nebulised adrenaline; intubation rarely required
+
+---
+
+## References
+
+
+1. Bould, M.D. ‘Essential Notes: The Anaesthetic Management of an Inhaled Foreign Body in a Child’. BJA Education 19, no. 3 (March 2019): 66–67. https://doi.org/10.1016/j.bjae.2019.01.005.
+2. Roberts, Steve, and Roger E. Thornington. ‘Paediatric Bronchoscopy’. Continuing Education in Anaesthesia Critical Care & Pain 5, no. 2 (1 April 2005): 41–44. https://doi.org/10.1093/bjaceaccp/mki015.

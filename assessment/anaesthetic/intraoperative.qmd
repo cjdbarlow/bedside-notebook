@@ -1,0 +1,261 @@
+# Intraoperative Assessment
+
+
+Divided into:
+
+* **Anaesthetic crisis assessment**  
+Approach to intraoperative crisis.
+* **Anaesthetic cross-check**  
+Periodic review of patient and equipment.
+
+
+## Intraoperative Crisis
+
+
+> * A standard starting sequence reduces the risk of anchoring bias by forcing a wide variety of causes to be considered early
+> * This approach will identify the cause of *almost all* anaesthetic crises in 40-60s
+
+The mnemonic is **COVER ABCD - A SWIFT CHECK**:
+
+* COVER ABCD is the mnemonic for patient and equipment assessment
+* A SWIFT CHECK is the mnemonic for potential diagnoses
+
+* **C**  
+Circulation assessment.
+	* **Circulation**  
+		* Check adequacy of pulse  
+		Commence CPR if pulseless.
+		* Check capnograph for effective *circulation*
+	* **Colour**  
+	Check SpO<sub>2</sub> and evidence of **peripheral cyanosis**.
+* **O**  
+Oxygen assessment.
+	* **Oxygen Supply**  
+	Ensure inspired gas mixture is not hypoxic. Check **rotameters**.
+	* **Oxygen Analysis**  
+	Increase FiO<sub>2</sub> to 100% and ensure that the oxygen analyser detects the rise in FiO<sub>2</sub>.
+* **V**  
+Ventilation and vapouriser assessment.
+	* **Hand-ventilate** the lungs, assessing:
+		* Circuit integrity
+		* Airway patency
+		* Lung and chest wall compliance
+		* Capnography
+	* Check **agent settings and levels**
+		* Check agent level
+		* Check vapouriser is seated correctly
+		* Consider **wrong agent**
+* **E**  
+	* **ETT assessment**
+		* Contamination
+		* Depth  
+		Externally compress the tracheal cuff whilst palpating the pilot balloon.
+		* Orientation
+		* Consider
+	* **Eliminate**  
+		* Remove the anaesthetic machine from circuit
+		* Hand ventilate with self-inflating bag
+			* Commence TIVA if required
+* **R**  
+Review:
+	* **Monitors**:
+		* Breathing:
+			* Oxygen analyser
+			* SpO<sub>2</sub>
+		* Circulation
+			* ECG
+			* BP
+		* Disability
+			* Train-of-four
+		* Extremities
+			* Temperature
+	* **Equipment**:  
+	All other equipment in contact with the patient.
+		* Diathermy
+		* Humidifiers
+		* Warming blankets
+		* Probes
+		* Prostheses
+
+
+* **Airway**
+	* Check airway patency
+	* Consider:
+		* Foreign body
+		* Blood
+			* Secretions
+		* Aspiration
+		* In an *un*intubated patient, consider:
+			* Laryngospasm
+		* In an intubated patient, consider:  
+		DOPES:
+			* Dislodged
+			* Obstruction
+			* Pneumothorax
+			* Equipment
+				* Ventilator  
+				Consider swapping to self-inflating bag.
+				* Tube  
+				Consider tube exchange.
+			* Stacked breaths  
+			Dynamic hyperinflation.
+* **Breathing**
+	* Check:
+		* Pattern
+		* Adequacy
+	* Consider:
+		* Lower airway:
+			* Bronchospasm  
+			Dynamic hyperinflation.
+		* Alveolar:
+			* Oedema
+			* Lobar collapse
+		* Pleural:
+			* Pneumothorax
+			* Haemothorax
+* **Circulation**  
+	* Check:
+		* Perfusion
+		* Pulse
+		* Arterial pressures
+		* Filling pressures
+			* PEEP
+			* Consider tamponade
+	* Consider:
+		* Ischaemia
+		* Arrest
+* **Drugs**
+	* Check:
+		* Drugs given/ampoules
+		* Adverse effect
+	* Consider:
+		* Awareness
+		* Drug error
+		* Loss of IV
+
+* **A**  
+Note only letter in this mnemonic with four diagnoses:
+	* **Anaphylaxis**
+		* Hypotension
+		* Bronchospasm
+		* Rash
+	* **Awareness**
+		* Interpatient variability
+		* Loss of agent
+		* Empty vapouriser
+		* IVC disconnection
+	* **Air (in pleura)**
+		* Ventilatory failure
+		* Circulatory failure
+	* **Air embolus**
+		* Hypotension
+		* Hypocarbia
+* **S**  
+	* **Surgical**
+		* Vagal stimulus
+		* Aortocaval compression
+		* Haemorrhage
+		* Myocardial stimulation
+	* **Sepsis**
+		* Hypotension
+		* Acidosis
+		* Hyperdynamic circulation
+* **W**  
+	* **Water**
+		* Electrolyte disturbances
+	* **Wound**
+		* Trauma
+		* Bleeding
+		* Tamponade
+		* Pneumothorax
+* **I**  
+	* **Infarction**
+		* Conduction
+		* Arrhythmia
+		* Shock
+	* **Insufflation**
+		* Vagal tone
+		* Loss of VR
+		* Gas embolism
+* **F**
+	* **Fat**
+		* Hypoxia/hypotension post induction, especially in lithotomy or post-inducation
+	* **Full bladder**  
+		* Increased SNS tone
+* **T**
+	* **Trauma**
+	* **Torniquet**
+		* LA toxicity
+		* Bleeding
+* **C**  
+	* **Catheter**
+		* IVC
+			* Tissued
+			* Wrong drug
+			* Leaks
+		* Chest drain
+	* **Cement**
+* **H**  
+	* **Hyper/Hypothermia**
+		* Tachycardia
+		* ECG changes
+	* **Hypoglycaemia**
+		* Insulin
+		* Fasting
+		* Beta-blockade
+		* Hepatic failure
+* **E**
+	* **Embolus**
+		* Fat
+		* Amniotic fluid
+		* Clot
+	* **Endocrine**
+		* Thyroid
+		* Adrenal
+		* Pituitary
+		* Serotonin
+* **C**
+	* **Check** preoperative drugs
+	* **Check** preoperative diseases
+* **K**  
+	* **K<sup>+</sup>**
+		* Hyperkalaemia
+		* Hypokalaemia
+	* **Keep**  
+	Asleep until new anaesthetic machine obtained.
+
+## Intraoperative Cross-Check
+
+
+> * Using the COVER mnemonic helps it become routine
+
+* **C**  
+	* **Circulation**
+		* Check pulse  
+		Rate, rhythm, volume.
+		* Check ETCO<sub>2</sub>
+	* **Colour**
+		* Check colour
+* **O**
+	* Check FiO<sub>2</sub>
+	* Check circuit O<sub>2</sub> flows
+	* Check connection (e.g. if using mask via auxillary oxygen port)
+* **V**
+	* Check ventilation mode, RR, and V<sub>T</sub>
+	* Check ETCO<sub>2</sub> for value and waveform
+	* Check ventilation pressures and waveform
+	* Check vaporiser filling and sttings
+* **E**  
+	* Check tube position and security
+	* Check tube cuff pressure and leak
+* **R**
+	* Review monitors, values, and waveforms
+		* Check level of tranducers
+	* Review equipment in use and in contact with the patient
+
+
+---
+
+## References
+
+1. Runciman WB, Kluger MT, Morris RW, et al Crisis management during anaesthesia: the development of an anaesthetic crisis management manual BMJ Quality & Safety 2005;14:e1.

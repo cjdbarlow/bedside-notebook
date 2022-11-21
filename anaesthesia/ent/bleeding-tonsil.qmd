@@ -1,0 +1,105 @@
+# Bleeding Tonsil
+
+
+>Airway: ETT RSI<br>
+>Access: Large IV <br>
+>Pain: Moderate <br>
+>Position: Supine <br>
+>Time: 30-60 minutes <br>
+>Blood loss: May be massive, and require transfusion <br>
+>Special: Soiled airway: Two suction, intubate head down or lateral <br>
+
+*This covers anaesthesia for the bleeding tonsil. Tonsillectomy is [covered elsewhere](/anaesthesia/ent/tonsillectomy.md).*
+
+Post-tonsillectomy haemorrhage is a **surgical emergency**.
+* Bleeding may be:
+	* Primary  
+	Occurs within 24 hours.
+	* Secondary  
+	Occurs within 2 weeks.
+Adverse outcomes include:
+	* Death
+		* Haemorrhage
+		* Aspiration
+		* Airway obstruction
+	* Emergent tracheotomy
+	* Hypoxic brain injury
+
+## Considerations
+
+* A
+	* Primary challenge is securing a soiled airway in a hypovolaemic and anaemic patient  
+	Evaluate:
+		* **Airway maintained?**
+		* **Active bleeding?
+		* **Conscious state?**
+		* Previous grade of laryngoscopy  
+		Usually will **drop one grade**.
+* B
+	* Aspiration risk
+		* Blood in airway
+		* Fasting and vomitus
+* C
+	* Haemodynamic instability
+* D
+	* Residual anaesthetic effect
+	* Emergency surgery  
+	Inherit risks.
+* G
+	* Fasting status  
+	May be unfasted. Blood in stomach is profoundly emetogenic.
+	* Pre-induction nasogastric tube if possible
+* H
+	* Anaemia
+
+## Preparation
+
+* Standard ANZCA monitoring
+* Consider invasive monitoring
+
+
+* A
+	* Two large-bore suction
+	* RAE or reinforced ETTs
+	* Two laryngoscope blades
+	* Consider video laryngoscopy
+	* Size-smaller tube
+* C
+	* **Volume resuscitate prior**
+* H
+	* Ensure G+H sent and available
+	* Consider blood
+
+
+## Induction
+
+* Avoid premedication
+* Preoxygenate as well as possible
+* Requires rapid sequence and ETT  
+Drug choice dependent on haemodynamic stability.
+* Consider intubating:
+	* Lateral position  
+	Facilitates drainage of blood out of the mouth.
+	* Head-down position  
+	Avoid tracheal soiling.
+* **Chest pressure** can be used to **identify the trachea** by **producing bubbles**
+
+## Emergence
+
+* **Awake extubation** preferred  
+Requires intact laryngeal reflexes.
+* **Antiemetics**
+
+## Postoperative
+
+Consideration of **ICU** admission if:
+
+* High volume transfusion
+* Difficult airway
+* Haemodynamic instability
+
+
+---
+
+## References
+

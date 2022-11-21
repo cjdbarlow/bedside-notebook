@@ -1,0 +1,96 @@
+# Perioperative Neurocognitive Disorders
+
+
+Umbrella term encompassing:
+
+* **Post-Operative Delirium**  
+Delirium occurring within 1 week post-procedure, and where other causes of delirium have been excluded.
+* **Delayed Neurocognitive Recovery**  
+Cognitive dysfunction occurring after surgery and up until 30 days post-operatively.
+* **Post-Operative Cognitive Dysfunction**  
+Cognitive dysfunction persisting after 30 days post-operatively. Graded based on extent of cognitive deficit into:
+	* Mild
+	* Major
+
+## Risk Factors
+
+**Predisposing factors**:
+
+* Increasing age
+* Low premorbid IQ
+* Lower education level
+* Perioperative covert stroke
+* Hearing or visual impairment
+* Comorbidities
+	* CVD
+	* IHD
+	* PVD
+	* DM
+	* Anaemia
+	* PD
+	* Depression and anxiety disorders
+* Poor functional state
+* Polypharmacy
+* Use of psychotropic medications
+	* Benzodiazepines
+	* Anticholinergics
+	* Antihistamines
+	* Antipsychotics
+
+
+**Precipitating factors**L
+* Procedural
+	* Hip fracture surgery
+	* Aortic surgery
+	* Prolonged surgery
+* Physiological
+	* Hypoxia
+	* Hypercarbia
+	* AKI
+	* Prolonged fasting
+	* Infection
+	* Hypothermia
+	* Electrolyte abnormalities
+* Other
+	* Alcohol
+	* Sleep deprivation
+	* IDC
+	* Poor nutrition
+	* Urinary retention
+
+
+## Management
+
+**Preoperative:**
+* Assess risk
+* Consider geriatric referral  
+Associated with reduced incidence of POCD.
+
+
+**Intraoperative:**
+* Consider propofol TIVA
+* Consider light sedation over deep sedation
+* No evidence for benefit of neuraxial over GA
+* Consider BIS target 40-60 for GA
+* Avoid intraoperative hypotension
+
+
+**Postoperative:**
+* Non-pharmacological
+	* Orientation
+	* Early mobilisation
+	* Non-pharmacological approaches
+	* Prevention of sleep deprivation
+	* Hearing aids and glasses
+* Pharmacological
+	* Antipsychotics  
+	Minimise use as they may worsen delirium.
+
+
+---
+
+## References
+
+1. Mrkobrada M, Chan MTV, Cowan D, et al. Perioperative covert stroke in patients undergoing non-cardiac surgery (NeuroVISION): a prospective cohort study. The Lancet. 2019;394(10203):1022-1029. doi:10.1016/S0140-6736(19)31795-7
+2. Evered L. Recommendations for the nomenclature of cognitive change associated with anaesthesia and surgery-2018. :8.
+3. O'Hare K, Brinkmann S, Currigan D. Postoperative Delirium. Australian Anaesthesia. 2019.

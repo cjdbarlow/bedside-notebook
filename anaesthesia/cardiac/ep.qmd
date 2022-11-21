@@ -1,0 +1,79 @@
+# Electrophysiological Procedures
+
+
+>Airway: As per duration. Consider ETT given remote setting. <br>
+>Access: Arterial line may be requested. <br>
+>Pain: Minimal. <br>
+>Position: Supine on tilt table. <br>
+>Time: Variable and may be up to 6 hours. <br>
+>Blood loss: Usually minimal <br>.
+>Special: Off-the-floor location in non-permissive environment with staff unfamiliar with conduct of general anaesthesia.<br>
+
+Ablation procedures can be performed under local and sedation or general anaesthesia. General anaesthesia is usually required for:
+
+* Children, adolescents, and anxious patients
+* Predicted prolonged surgery
+	* Congenital heart disease
+	* Complex anatomy
+* Left atrial ablation
+
+## Preoperative
+
+Assessment:
+
+* Arrhythmia
+	* AF  
+	Ablation across all pulmonary veins. Usually right sided, guided through the FO or via transeptal puncture.
+	* Atrial Flutter  
+	Single ablation line between IVC and TV.
+	* AVNRT  
+	Ablation of slow pathway between the coronary sinus and the bundle of His. Usually LA and sedation.
+	* VT  
+	RVOT VT usually short ablation of the focus.
+	* AVRT  
+	Targeted pacing to identify pathway, which may be around the TV or MV. MV pathways require transseptal or transaortic approach.
+
+## Intraoperative
+
+Preparation:
+
+* Off-the-floor
+	* Non-permissive layout
+	* Limited mobility of catheter table
+* Active warming available
+* **Oesophageal temperature probe**
+	* Indicate if oesophagus is being heated and at risk of perforation (through SVC)
+* Consider arterial line
+
+Maintenance:
+
+* Minimal stimulation
+* Stillness required
+* May require pharmacological control of heart rate at certain stages
+
+Emergence:
+
+* Planned transfer to recovery room (usually located elsewhere)
+
+## Postoperative
+
+Destination:
+Analgesia:
+Drugs:
+
+### Complications
+
+Procedural complications:
+
+* Vascular puncture
+* Arrhythmias
+* Oesophageal injury
+* Vagal nerve injury
+* Burns  
+At site of electrode.
+
+---
+
+## References
+
+1. MC Ashley E. Anaesthesia for electrophysiology procedures in the cardiac catheter laboratory. Contin Educ Anaesth Crit Care Pain. 2012;12(5):230-236. doi:10.1093/bjaceaccp/mks032

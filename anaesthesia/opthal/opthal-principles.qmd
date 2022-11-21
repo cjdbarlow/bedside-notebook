@@ -1,0 +1,41 @@
+# Principles of Opthalmic Anaesthesia
+
+
+
+## Intra-Ocular Pressure
+
+**Control of intraocular pressure** of IOP is important in many complex eye operations.  
+* Blood volume
+	* Avoid hypertension  
+	Choroidal vessels cannot autoregulate and will dilate.
+	* Vasodilation
+		* Hypoxaemia
+		* Hypercarbia
+		* Increased metabolic rate
+	* Low **venous pressure**  
+	Greatest determinant.	
+		* Slight head up facilitates venous drainage
+		* Minimise coughing with extubation
+		* PONV prophylaxis
+* Anaesthetic blocks
+	* Peribulbar associated with an increase in IOP
+	* Sub-Tenon's blocks associated with decrease in IOP
+
+
+### Treatment of Raised IOP
+
+**Intravenous:**
+* Acetazolamide
+* Mannitol
+
+
+**Topical:**
+* Atropine
+* Timolol
+
+
+---
+
+## References
+
+1. Murgatroyd H, Bembridge J. Intraocular pressure. Contin Educ Anaesth Crit Care Pain. 2008;8(3):100-103. doi:10.1093/bjaceaccp/mkn015

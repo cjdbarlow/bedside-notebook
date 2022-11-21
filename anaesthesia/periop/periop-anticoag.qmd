@@ -1,0 +1,194 @@
+# Peri-Operative Management of Anticoagulation and Antiplatelets
+
+
+Effective management of anticoagulation requires balancing thrombo-embolic and haemorrhagic risk. In general:
+
+* Detailed trial data is limited
+* Bridging therapy should be used in those at high risk of stroke  
+Defined as ⩾10% annualised risk of stroke.
+
+
+
+
+## Risk Stratification
+
+Patients can be divided by:
+
+* Thrombotic risk
+* Bleeding (surgical) risk
+
+Patients can then be stratified into:
+
+* **Low thromboembolic** and **low bleeding risk**  
+Continue anticoagulation.
+* **Low thromboembolic** and **high bleeding risk**  
+Withhold anticoagulation and antiplatelet agents (see below) without bridging.
+* **High thromboembolic** and **high bleeding risk**  
+Withhold anticoagulation and antiplatelet agents, and consider **bridging therapy**.
+
+### Thrombotic Risk
+
+>Increasing risk increases the importance of minimising the period without anticoagulation
+
+Divided into:
+
+* **High risk**  
+⩾10% annual CVA risk. Includes:
+	* AF with:
+		* Valvular AF  
+		AF secondary to valvular disease (either prosthetic, or related to rheumatic valvular disease) has a much higher stroke rate than non-valvular AF.
+		* CHADS<sub>2</sub> 5-6 in non-valvular AF
+		* CVA/TIA in last 3 months
+	* Mechanical valves:
+		* Any mechanical mitral valve
+		* Old mechanical aortic valve  
+		Ball and cage, tilting disc.
+	* VTE where:
+		* VTE in last 3 months  
+		If VTE occurred in last month AND anticoagulation is contraindicated, consider an IVC filter.
+		* Severe thrombophilia
+		* Protein C/S or antithrombin deficiency
+* **Intermediate risk**  
+4-10% annual CVA risk. Includes:
+	* AF with CHADS<sub>2</sub> 3-4
+	* Bileaflet mechanical aortic valve with any CVA risk factor
+	* VTE where:
+		* VTE in the last 3-12 months
+		* Recurrent VTE
+		* Active malignancy
+* **Low risk**  
+⩽4% annual risk. Includes:
+	* CHADS<sub>2</sub> 0-2
+	* Bileaflet mechanical aortic valve alone
+	* VTE ⩾12 months ago
+
+### Bleeding Risk
+
+Surgical risk of bleeding is classified into:
+
+* Low risk
+	* Can be performed with an INR of ⩽1.5
+	* Includes:
+		* Dental surgery
+			* Extraction of 1-3 teeth
+			* Periodontal surgery
+			* Abscess incision and draining
+		* Ophthalmological surgery
+			* Cataract surgery
+			* Glaucoma intervention
+		* Endoscopy without surgery (but with biopsy)
+		* Superficial surgery  
+		e.g. Excision of skin lesions.
+		* PPM/ICD insertion in absence of complex anatomy
+		* EP study or simple ablations
+		* Trans-radial endovascular/angiographic procedures
+* High risk
+	* Neuraxial anaesthesia
+	* Cardiac surgery
+	* Thoracic surgery
+	* Abdominal surgery
+	* Major orthopaedic surgery
+	* Liver biopsy
+	* Renal biopsy
+	* TURP
+
+
+
+
+
+## Management of Oral Anticoagulants
+
+
+|Drug|When to cease for **low bleeding risk surgery**|When to cease for **high bleeding risk surgery**|
+|--|--|
+|**Warfarin**|5 days; check INR (see below)|5 days; check INR|
+|**Dabigatran**|Normal renal function: 24 hours<br>eGFR < 50mL/min: 48-72 hours|Normal renal function: 48-72 hours<br>eGFR < 50mL/min: 96 hours|
+|**Rivaroxaban**|Normal renal function: 24 hours<br>eGFR < 50mL/min: 48 hours|Normal renal function: 48-72 hours<br>eGFR < 50mL/min:  72 hours|
+|**Apixaban**|Normal renal function: 24 hours<br>eGFR < 50mL/min: 48 hours|Normal renal function: 48-72 hours<br>eGFR < 50mL/min:  72 hours|
+
+Discuss with haematology if eGFR is < 30mL/min.
+
+### Management of Warfarin
+
+For **low risk of thromboembolism**:
+
+* Check **INR day prior to surgery**
+	* If INR 2-3; administer 3mg IV vitamin K
+* Check **INR day of surgery**
+	* If INR < 1.5  
+	Surgery can proceed.
+	* If INR > 1.5:
+		* Defer surgery, or
+		* Reverse warfarin with
+			* Prothrombin factor concentrate (preferable)
+			* FFP
+			10-15ml/kg.
+* Warfarin can recommence night after surgery at the previous maintenance dose
+* Thromboprophylaxis can be used until warfarin is therapeutic
+
+
+For **high risk of thromboembolism**, two options exist:
+
+* **Bridging**  
+Uses a short-acting anticoagulant (typically UFH or LMWH) to maintain therapeutic anticoagulation whilst longer acting drugs are withdrawn. Perform by:
+	* Withhold warfarin 4-5 days prior to surgery
+	* Monitor INR
+	* When INR < 2.0  
+	Commence anticoagulation with:
+		* LMWH  
+		1.5mg/kg daily or 1mg/kg BD.
+		* UFH infusion  
+		Cease 4-6 hours prior to surgery.
+* **Late reversal**  
+Appropriate when INR is stable in the preceeding 2-4 weeks.
+	* Cease warfarin day prior to surgery
+	* Administer 3mg IV vitamin K
+	* Check INR day of surgery:
+		* INR < 1.5  
+		Surgery can proceed.
+		* INR > 1.5  
+			* Delay surgery
+			* Reverse residual warfarin effect with prothrombinex or FFP
+
+
+Bleeding risk with warfarin:
+
+* Bleeding risk is not elevated with an INR of ≤1.5
+* Bleeding risk is elevated with INR >2.0
+
+### Management of Novel Oral Anticoagulants
+
+Note that NOACs:
+
+* Generally do not require bridging due to the shorter half-life
+* Can be restarted:
+	* 6-8 hours post-operatively in the case of low bleeding risk and complete haemostasis achieved  
+	* 48-72 hours post-operatively in the case of high bleeding risk  
+	Can cconsider reduced dose on evening and first-postoperative day if bleeding and thrombosis risk are high.
+* For emergency surgery:
+	* Cease NOAC
+	* Deferring 12-24 hours since the last dose is ideal  
+	If not possible, discuss with surgeons, haematologist, and cardiology to plan management of bleeding.
+	* Coagulation assays **do not give a *quant*itative measurement** of anticoagulation status, but **can be used *qual*itatively**  
+	Surgery can proceed if:
+		* Dabigatran  
+		Normal APTT and TT, or normal APTT and mildly prolonged TT.
+		* Rivaroxaban  
+		Normal PT.
+		* Apixaban  
+		Normal Anti-Xa.
+
+
+
+
+
+
+
+---
+
+## References
+
+1. Rahman A, Latona J. [New oral anticoagulants and perioperative management of anticoagulant/antiplatelet agents](https://www.racgp.org.au/afp/2014/december/new-oral-anticoagulants-and-perioperative-management-of-anticoagulantantiplatelet-agents/). Aust Fam Physician. 2014;43(12):861-866. http://www.ncbi.nlm.nih.gov/pubmed/25705736. Accessed September 2, 2018.
+2. Tran HA, Chunital S, Tran H et al. An update of consensus guidelines for warfarin reversal. MJA 2013; 198:1-7.
+3. Tran H, Joseph J, Young L et al. New oral anticoagulants- a practical guide on prescription, laboratory testing and peri-procedural/bleeding management. Int Med J 2014; 44: 525- 536
+4. Tran H, Dooley M, Burke J, Dart T, Coutsouvelis J. Guideline: Alteration to Anticoagulant Therapy in Surgical Procedures. The Alfred Hospital, Melbourne. October 2016.

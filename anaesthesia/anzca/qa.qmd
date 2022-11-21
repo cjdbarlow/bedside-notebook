@@ -1,0 +1,110 @@
+# Quality Assurance and Improvement
+
+Fellows should contribute to and support the college in improving safety and quality of patient care. This involves:
+
+* Quality Assurance  
+Establishing that facilities meet acceptable standards.
+* Quality Improvement  
+Promotion of continuous improvement.
+
+
+Such projects include:
+
+* Mortality, mortality and morbidity committees
+* Sentinel event and adverse event reporting
+* Perioperative care and pain management
+
+
+## The Triple Aim
+
+The goal of QA and QI is called the **triple aim**:
+
+* Improved quality, safety, and experience of patient care
+* Improved population health and equity
+* Best value for the available resources
+
+
+Achieving the triple aim requires:
+
+* Doing the right things
+* Doing things right the first time
+
+
+## Quality in Healthcare
+
+Key Principles:
+
+* Safety
+* Timeliness
+* Efficacy
+* Efficiency
+* Equitability
+* Patient-centredness
+
+
+### Measuring Outcomes
+
+Qualitative and quantitative measurements, focusing on:
+
+* Structure
+* Process
+* Outcomes  
+Ultimate objective, but:
+	* May be harder to measure
+	* May be outside of clinician control  
+	e.g. Case mix.
+
+
+### Principles of Conducting a QA or QI Project
+
+Should be:
+
+* Systematic
+* Scientific
+	* Plausible
+	* Supported by evidence
+	* Appropriate use of expert advice
+* Collaborative
+* Cost-effective  
+Time and monetary cost of data collection and analysis should be measured against potential benefit.
+
+### Conduct of a QA or QI Project
+
+Key steps:
+
+* Planning  
+Design and preparation, including:
+	* Defining topic
+	* Determining data to be collected
+	* Determining analytic method
+* Implementation
+	* Data collection and analysis
+	* Results review
+	* Actions to be taken
+* Review
+	* Monitor outcome
+	* Demonstrate impact
+* Setting
+	* Incorporate improvements into practice
+
+
+#### Rapid Improvement Cycle
+
+A standard QI methodology using an iterative feedback loop:
+
+* Plan
+	* Identify improvement opportunities
+	* Plan of action
+* Do
+	* Implement the plan
+* Check
+	* Evaluate results
+	* Modify the plan based on the results
+* Act
+	* Implement revised plan
+
+---
+
+## References
+
+1. ANZCA. [PS58: Guidelines on Quality Assurance and Quality Improvement in Anaesthesia](http://www.anzca.edu.au/Documents/ps58-2012-guidelines-on-quality-assurance-in-anaes.pdf).

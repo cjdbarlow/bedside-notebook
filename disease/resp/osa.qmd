@@ -1,0 +1,323 @@
+# Obstructive Sleep Apnoea
+
+
+Sleep disorder defined as **cessation of airflow for more than 10 seconds**:
+
+* Despite ventilatory effort
+* Occurring 5 or more times per hour of sleep
+* With associated ↓ in SpO<sub>2</sub> of ⩾4%
+
+
+
+## Epidemiology and Risk Factors
+
+OSA is:
+
+* Highly prevalent in Australian population
+	* 24% of men
+	* 9% of women
+* Responsible for significant societal costs
+* Underdiagnosed and undertreated
+
+
+Risk factors for OSA include:
+
+* Severe obesity  
+Major risk factor.
+* Male
+* Middle-aged
+* Alcohol use
+* Sedative use
+
+Non-obese individuals with sleep apnoea usually have another structural problem, such as:
+
+* Craniofacial abnormality
+	* Micrognathia
+	* Pierre Robin sequence
+	* Down syndrome
+	* Marfan syndrome
+	* Acromegaly
+* Tonsillar hypertrophy
+* Chronic nasal obstruction
+
+### STOP-BANG Score
+
+STOP-BANG assesses the probability of a having OSA, and may be used perioperatively to predict baseline risk of respiratory events:
+
+* Each factor gets 1 point
+* **S**noring  
+Snoring loudly overnight.
+* **T**ired  
+Daytime somnolence.
+* **O**bserved  
+To stop breathing/choking during sleep.
+* **P**ressure  
+Presence of hypertension.
+* **B**MI  
+⩾35kg/m<sup>2</sup>.
+* **A**ge  
+⩾50.
+* **N**eck size
+* ⩾43cm (male), 41cm (female).
+* **G**ender  
+Male.
+
+
+Interpretation:
+
+* Low risk  
+0-2 points; very high negative predictive value.
+* Moderate risk  
+3-4 points.
+* High risk  
+Any of:
+	* 5-8 points  
+	More likely than not to have severe OSA.
+	* 2 points + male
+	* 2 points + BMI
+	* 2 points + neck circumference 
+
+
+## Pathophysiology
+
+Four main pathophysiological causes:
+
+* **Anatomical compromise**  
+Narrow or crowded upper airway, from:
+	* Craniofacial morphology
+	* Hyoid position
+	* Airway surface tension
+	* Tongue scalloping
+* **Non-anatomical**
+	* **Low arousal threshold**
+	* **Ineffective pharyngeal dilator**  
+	Pharyngeal closing pressure:
+		* Evaluates the CPAP required to maintain airway patency
+		* CPAP is gradually decreased during stable sleep, until airflow limitation occurs
+		* Patients with OSA commonly have a pharyngeal closing pressure close to atmospheric pressure
+		* OSA is rare in patients with Pcrit lower than -5cmH<sub>2</sub>O
+	* **Unstable control of breathing**  
+	Loop gain:
+		* General term describing behaviour of a feedback-control system
+		* With respect to OSA, describes the change in ventilatory response due to ventilatory disturbance  
+		Consists of:
+			* CO<sub>2</sub> gain in tissues
+			* Circulatory time  
+			Time taken for change in CO<sub>2</sub> to mix with blood and reach chemoreceptors
+			* Chemoreceptor sensitivity
+		* High loop gain leads to exaggerated ventilatory responses
+
+
+## Clinical Manifestations
+
+Patients (or partners) may complain of:
+
+* Snoring
+* Daytime somnolence
+* Neurocognitive impairment
+
+Examination:
+
+* Weight and BMI
+* ENT exam
+	* Septal deviations
+	* Turbinate hypertrophy
+	* Oral cavity
+		* Mallampati score
+		* Macroglossia
+		* Enlarged uvula
+		* Tonsillar hypertrophy
+
+### Risk Stratification by Symptoms
+
+> Note grade drops by 1 if compliant with CPAP, i.e. moderate OSA by AHI becomes mild if CPAP compliant
+
+OSA is graded by AHI, but in absence of a sleep study symptoms can provide a guide:
+
+* Low risk
+	* Snores
+		* ⩽3 nights per week
+		* Tolerated by partner
+	* BMI ⩽30
+	* Absence of CVS disease
+	* Absence of daytime somnolence
+* Moderate risk
+	* Snores
+		* Regularly
+		* Partner may sleep separately
+	* BMI 30-40
+	* Witnessed apnoeas
+* High risk
+	* Snores  
+	In all positions.
+	* BMI >40
+	* Frequent apnoeas
+	* Coexistent:
+		* CVS disease
+		* OHS
+		* Polycythaemia
+	* Daytime somnolence
+	* Expected intubation difficulty
+
+## Investigations
+
+Polysomogram is:
+
+* Diagnostic
+* Used to grade severity  
+Given as the **apnoea-hypopnoea index** (AHI), the **total number of apnoeas or hypopnoeas per hour of sleep**.
+	* Mild: 5-15
+	* Moderate: 16-30
+	* Severe: ⩾31
+* Other useful values
+	* Minimum SpO<sub>2</sub>
+	* T90  
+	Time with SpO<sub>2</sub> <90%.
+* A highly involved study
+	* Waiting lists may be extensive which makes it often impractical
+* An evaluation of multiple parameters:
+	* Infrared camera  
+	Monitors body position.
+	* Airway microphone  
+	Monitors airflow.
+	* SpO<sub>2</sub>  
+	* Chest girth measurement  
+	Evaluates respiratory effort.
+	* EEG  
+	For monitoring of sleep cycles.
+	* Electrooculogram  
+	Monitors eye movement to separate REM from non-REM sleep.
+	* ECG  
+	Monitors cardiac activity.
+	* Chin EMG  
+	Upper airway muscle activity.
+	* Leg EMG  
+	Monitors leg movements.
+
+
+Overnight oximetry:
+
+* Easily accessible
+* Good correlation 
+* Grades **oxygen desaturation index** (ODI), counting an event as a fall in SpO2 by (usually) **⩾4%** 
+	* ⩽5/hr: Normal
+	* 5-15: Mild
+	* 16-30: Consider treatment
+	* >30: Recommend CPAP
+
+ABG:
+
+* Respiratory acidosis/Metabolic alkalosis  
+Evaluating for presence of obesity hypoventilation syndrome.
+
+FNE:
+
+* Allows assessment of oral and nasal cavity
+
+
+## Management
+
+Largely focuses on correcting anatomical causes:
+
+* CPAP  
+Increases pharyngeal pressure above closing pressure, maintaining airway patency.
+	* Indicated in moderate to severe disease
+	* Improves sleep quality and quality of life
+	* Reduces pulmonary complications
+
+
+Surgery:
+
+* Indicated in patients with severe OSA unable or unwilling to use CPAP
+* Options depend on location and degree of obstruction, but include:
+	* Septoplasty/turbinate reduction  
+	May improve nasal breathing and CPAP compliance.
+	* UPPP/UPF  
+	~40% reduction in AHI.
+	* Tongue base reduction  
+	~54% reduction in AHI. Usually combined with another procedure.
+
+### Anaesthetic Considerations
+
+>* Respiratory and cardiac risk is elevated perioperatively  
+> Risk is substantially elevated with unrecognised severe OSA; up to 14x risk of cardiac death, 7x risk of CCF, 3x risk of pneumonia, 2x risk of sepsis, etc.
+> * Treating patients with OSA in the perioperative period appears effective in decreasing their perioperative risk
+
+* A
+	* CPAP available  
+	Ensure CPAP or BiPAP device that the patient uses is brought to hospital and used perioperatively.
+	* Difficult airway  
+	Intubation difficult in 10-25%.
+* B
+	* Significantly increased risk of perioperative pulmonary and cardiovascular complications including:
+		* Aspiration pneumonia
+		* ARDS
+		* PE
+		* Reintubation  
+		Double risk.
+	* Treatment prior to surgery may decrease perioperative risk
+	* Perioperative respiratory monitoring is reasonable  
+	Lacks strong evidence base.
+* C
+	* Increased CVS complications  
+	1.5-2x rate of cardiac complications.
+* D
+	* No clear evidence for general anaesthesia or regional anaesthesia (or vice versa)
+	* Sensitive to CNS depressants: may precipitate airway collapse
+		* Anaesthetic agents
+		* Benzodiazepines
+		* Opioids
+
+
+#### Risk Stratification
+
+||Low Risk Surgery|Moderate Risk Surgery|High Risk surgery|
+|---|
+|**Low Risk OSA**|Day surgery|May be suitable day surgery|Ward bed, oximetry, line-of-sight nursing|
+|**Moderate Risk OSA**|Ward Bed|Ward bed, oximetry, line-of-sight nursing|Ward bed, oximetry, line-of-sight nursing|
+|**High Risk OSA**|Ward bed, oximetry, line-of-sight nursing|Ward bed, oximetry, line-of-sight nursing, consider HDU, NIV service involvement|HDU/ICU, NIV service notified|
+
+## Complications
+
+Hypoxaemia and hypercarbia in severe OSA has several cardiovascular sequelae:
+
+* Arrhythmia  
+Due to changed autonomic tone.
+	* Bradycardia
+	* Second-degree heart block
+	* Ventricular ectopy
+* Pulmonary hypertension
+	* Directly  
+	Due to hypoxic pulmonary vasoconstriction.
+	* Indirectly
+		* Increased sympathetic tone  
+		Due to hypoxia.
+		* Increased transmural pressure from more neagative intrathoracic pressure due to inspiratory effort against upper airway obstruction
+
+
+Obesity Hypoventilation Syndrome:
+
+* Present in 15%
+Risk increases BMI, >50% with BMI >50.
+	* Requires HDU monitoring post-operatively
+	* CPAP pre-operatively for stabilisation
+
+
+Multiple associations with:
+
+* Hypertension
+* CVA
+* MVA
+
+
+## Prognosis
+
+
+
+---
+
+## References
+
+1. De Hert, S., Staender, S., Fritsch, G., Hinkelbein, J., Afshari, A., Bettelli, G., Wappler, F. (2018). Pre-operative evaluation of adults undergoing elective noncardiac surgery: Updated guideline from the European Society of Anaesthesiology. European Journal of Anaesthesiology (Vol. 35).
+2. Osman AM, Carter SG, Carberry JC, Eckert DJ. Obstructive sleep apnea: current perspectives. Nature and Science of Sleep. doi:10.2147/NSS.S124657
+3. Jun JC, Chopra S, Schwartz AR. Sleep apnoea. European Respiratory Review. 2016;25(139):12-18. doi:10.1183/16000617.0077-2015

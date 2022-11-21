@@ -1,0 +1,118 @@
+# Thoracic Aortic Aneurysm Repair
+
+
+>Airway: ETT <br>
+>Access: Multiple large IV, CVC <br>
+>Pain: Severe <br>
+>Position: Supine or partial right lateral <br>
+>Time: 4-6 hours <br>
+>Blood loss: 1-3 PRBC; requires G+H <br>
+>Special: CPB, DHCA <br>
+
+Surgical repair can involve one or more of:
+
+* Ascending  
+May be replaced on CPB with femoral return cannula.
+	* Clamp proximal to the innominate artery
+	* Head and upper limb perfusion maintained
+* Arch  
+Replacement of arch vessels requires total CPB and either:
+	* Cerebral perfusion from bypass return
+	* Retrograde cerebral perfusion
+	* Deep hypothermic circulatory arrest
+* Descending    
+May be performed on partial or full CPB.
+
+
+
+## Considerations
+
+* A
+	* Requirement for lung isolation
+	* Tracheal deviation from lesion
+* B
+	* Haemoptysis  
+	Suggests leak.
+	* Requirement for lung isolation  
+	For **all *but* Crawford IV**.
+		* CPB may be required if unable to tolerate OLV
+* C
+	* Associated CVS disease
+		* HTN
+		* Atherosclerosis
+	* Requirement for CPB  
+	Partial or complete.
+* D
+	* Spinal cord ischaemia
+		* Risk greater in open vs. endovascular procedures
+		* Due to ischaemia of spinal perforators from aorta
+		* Can consider:
+			* SSEPs
+			* MEPs
+			* Lumbar drain
+* E
+	* Associated connective tissue disease
+		* Marfans
+		* Syphilis
+
+## Preparation
+
+Key investigations:
+
+* ECG
+* TTE
+	* Extent of lesion
+	* Valvular function
+	* LV function
+	* Consider angiogram
+* Pulmonary function tests
+* Carotid ultrasound  
+For TIA and CVA risk.
+* Coronary angiography
+* Bloods
+
+## Induction
+
+* Standard ANZCA monitoring
+* Arterial line
+	* Right radial in Crawford I & II  
+	Left subclavian flow may be disrupted by cross-clamp.
+	* Femoral artery  
+		* Required if using distal aortic perfusion
+		* Useful to assess pressure gradient across repair
+	* Left radial in ascending aneurysms  
+		* Left radial assesses systemic pressure
+		* Right radial measure pressure of antegrade cerebral perfusion during hypothermic arrest
+* Multiple large IV
+	* Consider MAC line, RIC
+	* Avoid left upper limb in case the innominate vein is damaged intraoperatively
+* Consider TEE
+
+## Intraoperative
+
+
+### Surgical Stages
+
+Surgical access may be either:
+
+* Left postero-lateral thoracotomy  
+Descending aneurysms.
+* Sternotomy
+
+## Emergence
+
+## Postoperative
+
+* Respiratory failure
+High morbidity and mortality:
+
+* Cardiac morbidity  
+Thoracic aortic surgery is the highest risk procedure for perioperative cardiac morbidity.
+	* 60% diastolic dysfunction
+	* Failure
+* AKI
+
+
+---
+
+## References

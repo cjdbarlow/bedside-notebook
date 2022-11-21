@@ -1,11 +1,13 @@
-#Corrections
+# Corrections
+
 High/low
 Increased/decreased
 Tachy/brady
 Hyper/hypo
 BIS -> Processed EEG
 
-#Key symbols
+# Key symbols
+
 ↑
 ↓
 ⩾
@@ -16,19 +18,25 @@ BIS -> Processed EEG
 α
 β
 
-#Clinical State
+# Clinical State
 
-##Clinical Manifestations
-###Key other findings
-##Causes
+
+## Clinical Manifestations
+
+### Key other findings
+
+## Causes
+
 
 
 ---
 
-##References
+## References
 
 
-#Operation
+
+# Operation
+
 
 >Airway: 
 >Access: 
@@ -40,21 +48,25 @@ BIS -> Processed EEG
 
 Intro and technique
 
-##Surgical Stages
-##Preoperative
+## Surgical Stages
+
+## Preoperative
+
 **Assessment:**
 **Consultation:**
 **Optimisation:**
 **Premedication:**
 **Explain/Consent:**
 
-##Intraoperative
+## Intraoperative
+
 **Preparation:**
 **Induction:**
 **Maintenance:**
 **Emergence:**
 
-##Postoperative
+## Postoperative
+
 **Disposition:**
 **Referrals/Review:**
 **Analgesia:**
@@ -63,39 +75,66 @@ Intro and technique
 **Specific:**
 
 ---
-##References
+
+## References
 
 
 
-#Disease
 
-##Epidemiology and Risk Factors
-##Pathophysiology
-###Aetiology
-##Clinical Manifestations
-##Diagnostic Approach and DDx
-##Investigations
-##Management
-###Medical
-###Surgical
-###Anaesthetic Considerations
-###Ineffective Therapies
-##Complications
-##Prognosis
-##Key Studies
+# Disease
+
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Manifestations
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+## Management
+
+### Medical
+
+### Surgical
+
+### Anaesthetic Considerations
+
+### Ineffective Therapies
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
 
 ---
-##References
+
+## References
 
 
 
-#Procedure
-##Indications
-##Contraindications
-##Anatomy
-##Equipment
-##Technique
-##Complications
+
+# Procedure
+
+## Indications
+
+## Contraindications
+
+## Anatomy
+
+## Equipment
+
+## Technique
+
+## Complications
+
 
 ---
-##References
+
+## References

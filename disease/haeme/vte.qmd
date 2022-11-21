@@ -1,0 +1,185 @@
+# Venous Thromboembolism
+
+
+Major cause of perioperative and in-hospital morbidity and mortality. Perioperative VTE:
+
+* Is the most preventable cause of death in inpatients
+* May be responsible for up to 10% of hospital-related death
+
+
+## Epidemiology and Risk Factors
+
+Epidemiology:
+
+* May affect up to 25% of inpatients
+
+Risk factors:
+
+* Surgery  
+Single most important risk factor, although varies with type of surgery.
+* Immobility
+* Hospitalisation
+* Malignancy
+* OCP use  
+4-fold risk.
+* Factor V Leiden  
+7-fold risk.
+
+## Pathophysiology
+
+Thrombi:
+
+* Develop in regions of reduced flow:
+	* Commonly around valve pockets
+	* Due to venous stasis  
+	Two types of venous flow:
+		* Continuous venous flow  
+		Laminar flow due to *vis a tergo*, and dependent on organ flow. May be impaired by venous outflow obstruction:
+			* Positioning
+			* Tissue oedema
+		* Intermittent flow  
+		Due to muscular pump, and important in preventing stasis in valve pockets. Impaired by:
+			* General anaesthesia
+			* Bed rest
+* Initially consist of 'red clots'  
+Predominantly RBCs and fibrin, and are key in clot formation.
+	* White clot forms as platelet and leukocyte layers accumulate  
+	These components are key in clot propagation.
+
+
+Valve function is dependent on normal endothelial function:
+
+* Venous valves secrete:
+	* Greater amounts of anti-coagulant factors  
+	Thrombomodulin, endothelial cell protein C receptor.
+	* Lower amounts of procoagulant factors  
+	ul-VWF.
+
+### Aetiology
+
+## Clinical Manifestations
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+## Management
+
+
+
+### Prevention
+
+> * Multiple strategies exist
+> * Institutional guidelines will dictate practice
+> * Implementation of guidelines is usually poor
+
+Methods include:
+
+* Mechanical
+	* Minimise non-pulsatile flow
+		* Early ambulation after surgery
+		* Regular foot and calf exercises  
+		At least every 2 hours.
+	* Intermittent pneumatic compression devices
+		* Cornerstone of prevention
+			* Should be used for at least 18 hours/day whilst non-ambulant
+			* Should be applied intraoperatively for high risk cases
+			* Patient compliance is critical
+		* More effective than stockings
+		* May be as effective as pharmacological methods, without increased risk
+		* Contraindications:
+			* Presence of acute DVT
+			* Severe peripheral vascular disease
+			* Recent skin graft
+			* Deformity
+			* Pressure injury
+			* Peripheral neuropathy
+	* Graduated Compression Stockings  
+	Provide no benefit when used **in addition to** pharmacological prophylaxis.
+		* May still be indicated in other settings  
+		e.g. Heart failure.
+		* Should not be worn under intermittent pneumatic compressors
+		* Should only be applied in high risk patients, with a contraindication to pharmacological prophylaxis, and pneumatic compressors are not available or contraindicated
+	* Inferior vena caval filters  
+	Can be considered if pharmacological prophylaxis is contraindicated and there is either a:
+		* Spinal cord injury
+		* Major pelvic fracture
+		* Known acute VTE
+
+
+
+* Pharmacological  
+Institution of pharmacological prophylaxis needs to be tailored to bleeding risk.
+	* Aspirin
+		* Anti-platelet effect limits clot propagation
+		* Reduced bleeding and infectious complications compared with anticoagulants  
+		May not be additive with anticoagulants.
+		* May be as effective as warfarin in LMWH
+	* Enoxaparin
+		* Favoured due to best efficacy/bleeding risk
+		* Dosing:
+			* Usual: 40mg SC daily
+			* CrCl <30ml/min: 20mg daily
+			* Weight <50kg: 20mg daily
+			* Weight >130kg: 60mg daily or 40mg BD  
+			Consider seeking haematological advice.
+	* UFH
+		* Reasonable alternative to LMWH in patients with renal insufficiency
+	* Fondaparinux
+		* Reasonable alternative to LMWH and UFH in HITS
+	* NOACs
+		* Equivalent risk reduction to LMWH
+		* Evidence in favour of use stronger in some orthopaedic populations
+		* Increase bleeding complications relative to LMWH
+
+
+#### Risk Assessment
+
+> In general, surgery risk is proportional to the duration and extensiveness of the surgery, and period of post-operative immobilisation
+
+Into high-risk and low-risk of clotting, by inpatient type:
+
+* Medical patient  
+High risk
+	* Age > 60
+	* Ischaemic CVA
+	* Previous VTE
+	* Active malignancy
+	* Decompensated CCF
+	* Acute-on-chronic lung disease
+	* Acute inflammatory disease
+	* Acute neurological disease
+	* Sepsis
+	* Obesity
+	* Varicose veins
+	* OCP use
+* Surgical patient
+	* Major trauma
+		* Multitrauma
+		* TBI
+		* Truncal trauma
+		* Spine fracture or SCI
+		* Long bone fracture
+	* Malignancy
+	* Major abdominal surgery
+	* Laparascopic major abdominal surgery with one other risk factor
+
+
+### Anaesthetic Considerations
+
+### Ineffective Therapies
+
+Prevention:
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Gordon RJ, Lombard FW. Perioperative Venous Thromboembolism: A Review. Anesthesia & Analgesia. 2017 Aug;125(2):403–12. 

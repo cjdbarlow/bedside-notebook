@@ -1,0 +1,118 @@
+# Perioperative Respiratory Complications in Paediatrics
+
+Perioperative respiratory complications:
+
+* Are major causes of morbidity and mortality
+* Major perioperative concerns - have a plan to manage: 
+	* Laryngospasm
+	* Bronchospasm
+	* Atelectasis
+
+## Risk Assessment	
+
+Patient factors:
+
+* Age  
+Increased in prematurity, and decreases by ~11% per year of age.
+* ↑ Airway reactivity
+	* Atopy
+		* **Asthma**  
+		Major risk factor for bronchospasm and laryngospasm. Key features:
+			* Wheezing during exercise
+			* Nocturnal dry cough
+			* Eczema  
+			Present or past.
+		* **FHx** of two or more relatives with asthma, eczema, or rhinitis
+	* Eczema
+	* Recent URTI  
+	Major risk factor for laryngospasm if within last **6/52**, though first 2/52 are highest risk period.
+		* **Croup** is especially high risk
+	* Passive smoke exposure
+* Fever ⩾38°C
+* Systemically unwell
+* Coarse crepitations
+
+
+Anaesthetic factors:
+
+* Premedication with midazolam
+* Use of volatiles:
+	* Bronchospasm: Desflurane > Sevoflurane > Isoflurane
+	* Sevoflurane associated with more laryngospasm than propofol maintenance (but equivalent bronchospasm)
+Compared with sevoflurane.
+* Use of lignocaine  
+Effect is disputed and may vary depend on method of administration.
+* Airway devices and depth of anaesthesia  
+Safest options to reduce laryngospasm involve minimising laryngeal and tracheal stimulation. Consider:
+	* Use of facemask  
+	Equivalent bronchospasm risk to LMA, but significantly reduced laryngospasm.
+	* Use of LMA  
+	With deep removal.
+	* If intubating:
+		* Awake removal of ETT
+		* Use of cuffed (compared with uncuffed) ETT  
+		Also reduces post-operative stridor. 
+
+
+Surgical factors:
+
+* Nature of surgery  
+ENT surgery more likely.
+* Airway intervention
+
+## Management
+
+Factors favouring proceeding:
+
+* Frequent URTIs
+* "As well as baseline"
+* Long waiting list
+* Social and emotional burden of presentation
+	* Difficulty of parents getting to hospital
+* Team experience
+* ENT surgery
+* Able to perform extended monitoring
+
+
+Factors favouring cancellation:
+
+* Parental concerns
+* Age < 1 year
+* Prematurity
+* Respiratory comorbidity
+* Airway surgery
+* Requires endotracheal intubation
+
+
+### Post-Extubation Stridor/"Croup"{#stridor}
+
+Post-operative laryngeal oedema due to irritation from ETT. It:
+
+* Can be **disastrous**
+* Occurs in young children due to airway diameter
+	* 1-4 years
+	* Infants ⩽1 at particular risk
+* Presents as stridor and coughing
+* Requires immediate treatment with:
+	* Humidified oxygen  
+	FiO<sub>2</sub> >0.5.
+	* Resuscitation
+	* Light sedation  
+	Aim to reduce distress without decreasing respiratory drive.
+	* Nebulised adrenaline  
+	0.5ml/kg of 1:1,000, up to 5mg total.
+	* Steroids  
+	Dexamethasone 0.5-1mg/kg.
+	* Reintubation  
+	If ongoing deterioration or hypoxia
+	* Tracheostomy  
+	If upper airway obstruction worsens.
+* Rebound may occur at ~2 hours
+
+
+---
+
+## References
+
+1. von Ungern-Sternberg BS, Boda K, Chambers NA, Rebmann C, Johnson C, Sly PD, et al. Risk assessment for respiratory complications in paediatric anaesthesia: a prospective cohort study. The Lancet. 2010 Sep;376(9743):773–83. 
+2. Parnis SJ, Barker DS, Van Der Walt JH. Clinical predictors of anaesthetic complications in children with respiratory tract infections: CLINICAL PREDICTORS OF ANAESTHETIC COMPLICATIONS. Pediatric Anesthesia. 2001 Jan 26;11(1):29–40. 

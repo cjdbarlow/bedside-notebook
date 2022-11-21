@@ -1,0 +1,125 @@
+# Anaesthetic Machine Check
+
+
+An anaesthesia delivery system includes any equipment that can deliver gases, vapours, local anaesthetic or intravenous anaesthetic agents.
+
+## Process
+
+There are three levels of machine check:
+
+* **Level One Check**  
+Detailed check performed by trained service personenel of all systems prior to being used.
+* **Level Two Check**  
+Check performed at that start of each anaesthetic list.
+* **Level Three Check**  
+Check performed prior to commencing anaesthesia for each patient.
+
+
+### Level Two Check
+
+
+1. Check gas pressures
+	* Supply line pressures
+	* Reserve O<sub>2</sub> cylinder pressure
+		* Adequate pressure  
+		\>10,000 kPa.
+		* Can be turned on and off  
+		Leave off after check so that there is no slow leak.
+		* Not leaking from seal
+2. Check gas flows
+	* Check that each gas flow is measured correctly on each rotameter
+	* Verify that the anti-hypoxic systems are working correctly
+		* FiO<sub>2</sub> should not be able to be reduced to <0.21
+3. Check scavenging  
+Connected and flow is adequate.
+4. Check vapourisers
+	* Filled with liquid anaesthetic
+	* Seated and detected appropriately
+5. Check CO<sub>2</sub>
+	* Check soda lime
+	* Check ETCO<sub>2</sub> working
+6. Check for circuit leak  
+	* Leak should be ≤300ml/min for a circuit pressure >30cm H<sub>2</sub>O
+	* Usually automated in modern machines
+7. **Manual circuit check**  
+Attach a circuit bag to the patient y-piece and test:
+	* Circuit compliance
+	* Circuit resistance
+	* Valve movement
+	* APL valve function  
+	Compress both circuit bag and breathing bag.
+8. **Verify BVM is present**
+9. **Check emergency drugs**
+
+### Level Three Check
+
+
+The level three check involves checking any piece of equipment that has been changed.
+
+### Intravenous Anaesthesia Delivery Systems
+
+* Device is powered and functions correctly
+* Drug is correctly labelled and loaded
+* Correct programming of:
+	* Syringe type and volume
+	* Drug used and concentration
+	* Flow rate and units
+	* Alarm parameters
+* Antireflux valve placed
+* Secure connections
+* No leakage
+
+## Principles
+
+* Facility must designate an individual responsible for servicing and maintenance
+* Anaesthesia delivery systems should be serviced regularly
+* Alarms and monitoring should comply with ANZCA standards
+* Secondary means of oxygenation and positive pressure ventilation should be available 
+
+
+## Machine Safety
+
+Additionally, anaesthetic machines:
+
+* Should be assessed yearly by a specialist anaesthetist for:
+	* Safety
+	* Reliability
+	* Functionality
+* That do not comply with the following safety requirements to be removed from clinical use, or be upgraded to do so
+	* Gas supply
+		* Gas cylinder connections must be pin indexed
+		* Reserve oxygen suppply must be attached and easily activatable
+		* Non-interchangeable gas hose connectors
+		* Supply gas pressure display visible
+		* Oxygen failure warning device present
+			* Generates alarm
+			* Cut off supply of gases other than air and oxygen to common gas outlet
+		* Oxygen must be the last gas to enter the backbar
+		* If flowmeters are used:
+			* Only one gas flow control knob for each gas
+			* Oxygen knob should differ from other knobs so it can be identified by touch  
+			Generally fluted.
+			* Oxygen flow knob must be left-most  
+		* Incapable of delivering a hypoxic mixture  
+		i.e. FiO<sub>2</sub> ⩽21%.
+	* Vaporisers
+		* Interlock must prevent more than one vaporiser being used
+		* Gas concentraiton must increase when dial rotated anti-clockwise
+	* Fresh gas outlet  
+	Must be:
+		* 22mm outer diameter and 15mm internal diameter
+		* Visible
+		* Connected in such a way to prevent accidental disconnection
+	* High-presure release valve present in the circuit
+	* Scavenging must be of a different diameter to other connections
+	* All alarms must activate when the associated feature of the machine isenabled
+	* Emergency oxygen flush must be protected from accidental activation
+	* On/off switch must be protected from unintended activation  
+	Turning off during normal operation requires a confirmatory step.
+---
+
+## References
+
+
+1. ANZCA. [PS31: Guidelines on Checking Anaesthesia Delivery Systems](http://www.anzca.edu.au/Documents/ps31-2014-guidelines-on-checking-anaesthesia-deliv.pdf).
+2. ANZCA. [PS54: Statement on the Minimum Safety Requirements for Anaesthetic Machines and Workstations for Clinical Practice](http://www.anzca.edu.au/Documents/ps54-2013-statement-on-the-minimum-safety-requirem.pdf).

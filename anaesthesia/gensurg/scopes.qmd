@@ -1,0 +1,143 @@
+# Endoscopy
+
+>Time: Gastroscopy ~10-15 minutes, Colonoscopy up to ~45 minutes
+>Pain:
+>Position: Colonscopy: lateral (occasionally changing to supine); gastrocopy: sitting head-up; ERCP: swimmer's position
+>Blood loss: None (except emergent gastroscopy for haematemesis)
+>Special Drugs
+
+
+Endoscopy:
+
+* Includes colonoscopy, gastroscopy, and ERCP
+* Can be performed:
+	* Sedation-free
+	* Light sedation
+	* General anaesthesia
+
+
+## Considerations
+
+* Indication for procedure  
+Conditions with risk of:
+	* Airway difficulty
+	* Reduced safe apnoea time
+	* Aspiration
+	Pathologies with high-risk of aspiration include:
+		* Gastric outlet obstruction
+		* Achalasia
+		* Upper GI bleeding
+		* Oesophageal stricture  
+		Especially if being dilated.
+		* Bowel obstruction
+		* Pharyngeal pouch
+
+
+* A
+	* Aspiration is always a risk with an unprotected airway
+	* Predicted difficulty with airway management  
+		* Position  
+		Positioning prone or in swimmers position (for ERCP) may necessitate intubation.
+		* Known or expected difficult airway
+		* Sleep apnoea
+* B
+	* Hypoxia is the main complication of endoscopy sedation  
+	* Preoxygenation is vital to prolong safe apnoea time  
+	Especially in shared airway (gastroscopy, ERCP).
+* C
+	* CVS instability may occur at deeper levels of sedation
+* D
+	* Ease of performing procedural sedation  
+	Factors predicting poor response include:
+		* Prior difficulty
+		* Current benzodiazepine or opioid use
+		* Heavy alcohol use
+	* Depth of sedation  
+	Corresponds with risk of perforation.
+* E
+	* Remote location of endoscopy suite relative to other parts of the hospital
+
+
+## Preparation
+
+* Standard ANZCA monitoring
+* Readily accessible IV access
+* End-tidal CO<sub>2</sub> monitoring  
+Provides early warning of loss of airway patency prior to desaturation.
+* Supplemental oxygen  
+	* Bite block with integrated O<sub>2</sub>
+	* Hudson mask
+	* High-flow oxgygen
+* Airway adjuncts
+	* NPA are useful  
+	Oxygen can also be run through a suction catheter to provide oxygen to the nasopharynx.
+
+## Induction - Sedation Free
+
+* Topical local anaesthetic  
+Lignocaine/benzocaine spray to oropharynx.
+	* Reduces patient discomfort
+	* Improves ease of procedure
+
+
+## Induction - Sedation
+
+Many strategies exist:
+
+* Topical local anaesthetic  
+Reduces anaesthesia requirement.
+
+
+* Propofol alone
+	* Typically 1-1.5mg/kg IV followed by 10-20mg boluses as required  
+	Actual patient requirements may be highly variable.
+		* ~1.3mg/kg for gastroscopy and ASA 1 colonoscopy
+		* ~0.7mg/kg for ASA 4 colonoscopy
+	* May also be run via propofol TCI  
+	Typically target Ce of 3ug/ml.
+	* May also be run as a rate-controlled infusion  
+	Bolus and the infuse at ~1mg/kg/hr.
+		* Works best once steady-state is already established
+* Propofol and fentanyl
+	* Typically ~0.5-1ug/kg of fentanyl and propofol ~0.5-1mg/kg, followed by propofol boluses as required
+
+
+## Intraoperative
+
+Main intraoperative challenges include:
+
+* Regurgitation and aspiration
+	* May be foreshadowed by the patient swallowing
+* Desaturation
+	* Maintaining a patent airway provides passage for apnoeic oxygenation
+	* Generally treated by reducing sedation and providing supplmental oxygen
+		* Increase nasal prong O<sub>2</sub> flows
+		* Provide high-flow nasal oxygen
+	* May require intubation
+* CVS instability
+	* May be either bradycardia or hypotension
+	* Bradycardia may also be due to bowel insufflation
+
+### Surgical Stages
+
+Colonoscopy:
+
+* Insertion well tolerated
+* Level of stimulation is usually constant throughout procedure
+
+
+Gastroscopy:
+
+* Insertion is stimulating  
+Should correspond with peak concentration of propofol
+* Remainder of procedure is generally unstimulating
+
+## Postoperative
+
+
+---
+
+## References
+
+1. Heuss LT, Schnieper P, Drewe J, Pflimlin E, Beglinger C. [Risk stratification and safe administration of propofol by registered nurses supervised by the gastroenterologist: a prospective observational study of more than 2000 cases.](https://www.ncbi.nlm.nih.gov/pubmed/12709694) Gastrointest Endosc. 2003 May;57(6):664-71. 
+2. Cohen LB, Delegge MH, Aisenberg J, Brill JV, Inadomi JM, Kochman ML, Piorkowski JD Jr. AGA Institute. [AGA Institute review of endoscopic sedation](https://www.gastrojournal.org/article/S0016-5085(07)01115-8/fulltext). Gastroenterology. 2007 Aug;133(2):675-701. 

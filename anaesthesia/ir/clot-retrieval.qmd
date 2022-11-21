@@ -1,0 +1,114 @@
+# Endovascular Clot Retrieval
+
+
+>Airway: Own vs ETT (often RSI). <br>
+>Access: Any. <br>
+>Pain: Minimal. Conscious sedation can be managed with small boluses of alfentanil. <br>
+>Position: Supine. <br>
+>Time: 30 minutes - 4 hours. <br>
+>Blood loss: Minimal<br>
+>**The Bottom Line:**
+>* Remote: Off-the-floor and often after hours
+>* Proceduralists may start without anaesthesia presence
+>* Patient position and access can be difficult
+>* HDx stability is key: Maintain **SBP 140-180mmHg**
+
+
+Endovascular clot retrieval is the standard of care for stroke caused by **large vessel occlusions** in the **anterior circulation**. Clot retrieval is:
+
+* Time-critical  
+Better outcomes seen earlier, with some **benefit** seen **up to 6 hours**; though this may be extended up to 24 hours in patients with favourable imaging.
+* Preferable to thrombolysis when:
+	* Occlusions are of large vessels  
+	ICA, M1, M2, basilar.
+	* Early presentation
+	* Significant new disability  
+	NIHSS >5.
+	* Previously independent
+* Associated with improvement in functional outcome by 20-35% at 90 days
+	* NNT 5 for independence and 3 for discharge if within 5 hours of stroke onset
+
+## Surgical Stages
+
+* Femoral access
+* Navigation to clot  
+Via microcatheter and guidewire.
+* Removal of clot  
+Removal device placed via guidewire. Options include:
+	* Stents
+	* Stent retriever
+	* Aspiration device
+	* Clot retrieval  
+	Placed distal to clot; balloon is withdrawn and clot removed.
+
+## Preoperative
+
+> Key decision is for conscious sedation vs. general anaesthesia
+>* Possible trend towards benefit with sedation but not strong evidence
+>* Decision largely dependent on patient factors:
+>	* Factors favouring conscious sedation: Conscious, cooperative, and oxygenating
+>	* Factors favouring GA: ↓ GCS, N/V, dominant hemisphere stroke, posterior circulation stroke
+
+
+**Assessment:**
+* Usually time-constrained
+
+
+**Consultation:**
+
+
+**Optimisation:**
+
+
+**Premedication:**
+
+
+**Explain/Consent:**
+
+## Intraoperative
+
+**Preparation:**
+
+
+**Induction:**
+
+
+**Maintenance:**
+* SBP 140-180mmHg
+* BSL 6-10mmol/L
+* CO<sub>2</sub>35-40mmHg
+* Normothermia
+* Liase with interventionalists about points of expected pain and give analgesia accordingly
+
+
+**Emergence:**
+
+## Postoperative
+
+**Disposition:**
+* GA will require recovery in PACU
+* Sedation can be transfered to stroke unit
+
+**Referrals/Review:**
+
+
+**Analgesia:**
+* Avoid opioids to minimise hypercapnoea
+**Fluids:**
+
+
+**Thromboprophylaxis:**
+
+
+**Specific:**
+* Post-reperfusion BP should be maintained ⩽180/105mmHg
+* Risk of post-operative haemorrhagic transformation
+	* Reperfusion
+	* Iatrogenic injury from wires
+* Vasospasm
+
+---
+
+## References
+
+1. Dinsmore J, Elwishi M, Kailainathan P. Anaesthesia for endovascular thrombectomy. BJA Education. 2018;18(10):291-299. doi:10.1016/j.bjae.2018.07.001

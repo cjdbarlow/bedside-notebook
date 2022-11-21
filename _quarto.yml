@@ -1,0 +1,397 @@
+project:
+    type: book
+
+# Allow subparts in the yaml 
+validate-yaml: false
+
+# Allow caching to reduce compile times
+execute:
+    freeze: auto
+    cache: true
+
+# Settings for output formats
+format:
+    html:
+        # General settings
+        page-navigation: false
+        search: true
+        section-divs: true
+        email-obfuscation: javascript
+        lang: en-GB
+        # Theming
+        theme: themes/titfl.scss
+        css: themes/custom.css
+        include-before-body: themes/litfl.html
+        cap-location: margin
+        citation-location: margin
+        reference-location: document
+        number-sections: false
+        # Style
+        toc: true
+        toc-title: "On this Page"
+        sidebar:
+        style: floating  
+        fig-align: center
+        fig-format: svg
+        fig-dpi: 326
+        fig-responsive: true
+        # filters: [scripts/glossary.lua]
+
+# Content
+book:
+    # General settings
+    title: "The Bedside Scientist"
+    # Table of Contents
+    chapters:
+    - index.qmd
+    - exams.qmd
+    - part: <hr>
+    # Assessment
+    - part: "Assessment"
+      chapters:
+        - part: "Anaesthesia"
+          chapters:
+            - assessment/anaesthetic/preanaesthetic.qmd
+            - assessment/anaesthetic/paeds.qmd
+            - assessment/anaesthetic/intraoperative.qmd
+            - assessment/anaesthetic/machine.qmd
+        - part: "Critical Care"
+          chapters:
+            - assessment/critical/neurological.qmd
+            - assessment/critical/braindeath.qmd
+        - part: "Trauma"
+          chapters:
+            - assessment/trauma/primary.qmd
+            - assessment/trauma/secondary.qmd
+        - part: "Team and Environment"
+          chapters:
+            - assessment/zps.qmd
+            - assessment/enviro/triage.qmd
+            - assessment/enviro/major.qmd
+    - part: <hr>
+    # Management
+    - part: "Management"
+      chapters:
+        - part: "Arrest"
+          chapters:
+            - management/arrest/neonatal.qmd
+            - management/arrest/postcardiac.qmd
+            - management/arrest/oohca.qmd
+        - part: "Trauma"
+          chapters:
+            - management/trauma/damage-control.qmd
+        - part: <hr>
+        - part: "Airway"
+          chapters:
+            - management/airway/planning.qmd
+            - management/airway/difficult.qmd
+            - management/airway/extubation.qmd
+        - part: "Respiratory"
+          chapters:
+            - management/resp/olv.qmd
+        - part: "Cardiovascular"
+          chapters:
+            - management/cvs/fontan.qmd
+            - management/cvs/iabp.qmd
+        - part: "Neurological"
+          chapters:
+          - management/cns/seizure.qmd
+          - management/cns/acute-spine.qmd
+          - management/cns/chronic-spine.qmd
+          - management/cns/autonomic-dysreflexia.qmd
+          - management/cns/abd.qmd
+        - part: "Pain"
+          chapters: 
+          - management/pain/pain-overview.qmd
+          - management/pain/cpsp.qmd
+          - management/pain/opioids.qmd
+          - management/pain/crps.qmd
+        - part: "Renal"
+          chapters:
+          - management/renal/rrt.qmd
+          - management/fluid/hypona.qmd
+        - part: "Haematology"
+          chapters:
+          - management/haeme/blood.qmd
+          - management/haeme/massive-transfusion.qmd
+        - part: "Obstetrics"
+          chapters:
+          - management/obs/intrauterineresus.qmd
+    - part: <hr>
+    ## Anaesthesia
+    - part: "Anaesthesia"
+      chapters:
+        - part: "Crises"
+          chapters:
+          - anaesthesia/crisis/fire.qmd
+          - disease/airway/laryngospasm.qmd
+          - anaesthesia/crisis/cico.qmd
+          - anaesthesia/crisis/massive-haemoptysis.qmd
+          - anaesthesia/crisis/delayed-emergence.qmd
+          - anaesthesia/crisis/totalspinal.qmd
+          - disease/tox/last.qmd
+          - disease/congenital/mh.qmd
+        - part: "Considerations"
+          chapters:
+          - anaesthesia/considerations/risk.qmd
+          - anaesthesia/considerations/fasting.qmd
+          - anaesthesia/considerations/intraop.qmd
+          - anaesthesia/considerations/positioning.qmd
+          - anaesthesia/considerations/proneanaes.qmd
+          - anaesthesia/considerations/postopneuro.qmd
+          - anaesthesia/considerations/drug-errors.qmd
+          - anaesthesia/considerations/laser-safety.qmd
+          - anaesthesia/considerations/radiation-safety.qmd
+        - part: "Concepts"
+          chapters: 
+          - anaesthesia/general/low-flow.qmd
+          - anaesthesia/general/tiva.qmd
+          - anaesthesia/general/trigger.qmd
+          - anaesthesia/general/laparoscopy.qmd
+          - anaesthesia/general/awareness.qmd
+          - anaesthesia/general/eeg.qmd
+          - anaesthesia/general/nerve-integrity.qmd
+        - part: "Perioperative"
+          chapters:        
+          - anaesthesia/periop/periop-management.qmd
+          - anaesthesia/periop/routine-ix.qmd
+          - anaesthesia/periop/periop-med.qmd
+          - anaesthesia/periop/periop-anticoag.qmd
+          - anaesthesia/periop/periop-antiplatelet.qmd
+          - anaesthesia/periop/periop-cardiac.qmd
+          - anaesthesia/periop/icd.qmd
+          - anaesthesia/periop/antibiotics.qmd
+          - anaesthesia/periop/thromboprophylaxis.qmd
+          - anaesthesia/periop/ponv.qmd
+          - anaesthesia/periop/patient-blood-mx.qmd
+          - anaesthesia/periop/pocd.qmd
+          - anaesthesia/periop/eras.qmd
+        - part: "Regional"
+          chapters: 
+          - anaesthesia/regional/principles.qmd
+          - anaesthesia/regional/complications.qmd
+          - part: "Neuraxial"
+            chapters: 
+              - anaesthesia/regional/neuraxial.qmd
+              - anaesthesia/regional/spinal.qmd
+              - anaesthesia/regional/caudal.qmd
+              - anaesthesia/regional/epidural.qmd
+              - anaesthesia/regional/epidural-mx.qmd
+          - part: "Head and Neck"
+            chapters: 
+              - anaesthesia/regional/peribulbar.qmd
+              - anaesthesia/regional/subtenon.qmd
+              - anaesthesia/regional/scalp.qmd
+              - anaesthesia/regional/cervical-plexus.qmd
+          - part: "Upper Limb"
+            chapters:
+              - anaesthesia/regional/interscalene.qmd
+              - anaesthesia/regional/suprascap.qmd
+              - anaesthesia/regional/supraclav.qmd
+              - anaesthesia/regional/infraclav.qmd
+              - anaesthesia/regional/axillary.qmd
+              - anaesthesia/regional/forearm.qmd
+          - part: "Thoracoabdominal"
+            chapters:
+              - anaesthesia/regional/serratus.qmd
+              - anaesthesia/regional/pecs.qmd
+              - anaesthesia/regional/esb.qmd
+              - anaesthesia/regional/tap.qmd
+          - part: "Lower Limb"
+            chapters:
+              - anaesthesia/regional/fnb.qmd
+              - anaesthesia/regional/saphenous.qmd
+              - anaesthesia/regional/fasciailiaca.qmd
+              - anaesthesia/regional/sciatic.qmd
+              - anaesthesia/regional/ankle.qmd
+        - part: "Professionalism"
+          chapters:
+            - anaesthesia/anzca/anzca.qmd
+            - anaesthesia/anzca/credentialing.qmd
+            - anaesthesia/anzca/pacu.qmd
+            - anaesthesia/anzca/record.qmd
+            - anaesthesia/anzca/assistant.qmd
+            - anaesthesia/anzca/sed-and-analgesia.qmd
+            - anaesthesia/anzca/smoking.qmd
+            - anaesthesia/anzca/daystay.qmd
+            - anaesthesia/anzca/monitoring.qmd
+            - anaesthesia/anzca/extracorporeal.qmd
+            - anaesthesia/anzca/infection.qmd
+            - anaesthesia/anzca/paeds.qmd
+            - anaesthesia/anzca/local.qmd
+            - anaesthesia/anzca/eol.qmd
+            - anaesthesia/anzca/industry.qmd
+            - anaesthesia/anzca/pain.qmd
+            - anaesthesia/anzca/staffing.qmd
+            - anaesthesia/anzca/fatigue.qmd
+            - anaesthesia/anzca/appointments.qmd
+            - anaesthesia/anzca/pain.qmd
+            - anaesthesia/anzca/echo.qmd
+            - anaesthesia/anzca/welfare.qmd
+            - anaesthesia/anzca/rtp.qmd
+            - anaesthesia/anzca/safemeds.qmd
+            - anaesthesia/anzca/patient-transport.qmd
+            - anaesthesia/anzca/handover.qmd
+            - anaesthesia/anzca/safe-anaesthesia.qmd
+            - anaesthesia/anzca/specialists.qmd
+            - anaesthesia/anzca/qa.qmd
+            - anaesthesia/anzca/sustainability.qmd
+            - anaesthesia/anzca/peer-review.qmd
+            - anaesthesia/anzca/gender.qmd
+        - part: <hr>
+        # The actual anaesthetic stuff
+        - part: "Cardiac"
+          chapters:       
+          - anaesthesia/cardiac/principles.qmd
+          - anaesthesia/cardiac/cpb.qmd
+          - anaesthesia/cardiac/myocardial-preservation.qmd
+          - anaesthesia/cardiac/dhca.qmd
+          - anaesthesia/cardiac/cabg.qmd
+          - anaesthesia/cardiac/avr.qmd
+          - anaesthesia/cardiac/mvr.qmd
+        - part: "Cardiology"
+          chapters:
+            - anaesthesia/cardiac/ep.qmd
+            - anaesthesia/cardiac/tavi.qmd
+            - anaesthesia/cardiac/dcc.qmd
+        - part: "ENT"
+          chapters:
+          - anaesthesia/ent/principles.qmd
+          - anaesthesia/ent/jet-vent.qmd
+          - anaesthesia/ent/tonsillectomy.qmd
+          - anaesthesia/ent/bleeding-tonsil.qmd
+        - part: "General"
+          chapters:
+          - anaesthesia/gensurg/scopes.qmd
+          - anaesthesia/gensurg/thyroid.qmd
+          - anaesthesia/gensurg/adrenalectomy.qmd
+        - part: "Neurosurgery"
+          chapters:
+          - anaesthesia/neuro/principles.qmd
+          - anaesthesia/neuro/craniotomy.qmd
+          - anaesthesia/neuro/aneurysm.qmd
+          - anaesthesia/neuro/scoliosis.qmd
+          - anaesthesia/neuro/pituitary.qmd
+        - part: "Obstetrics"
+          chapters:
+          - anaesthesia/obs/principles.qmd
+          - anaesthesia/obs/terms.qmd
+          - anaesthesia/obs/labour-analgesia.qmd
+          - anaesthesia/obs/luscs.qmd
+          - anaesthesia/obs/ga-luscs.qmd
+          - anaesthesia/obs/reg-luscs.qmd
+          - anaesthesia/obs/tof.qmd
+          - anaesthesia/obs/cardiac.qmd
+          - anaesthesia/obs/non-obs.qmd
+        - part: "Orthopaedics"
+          chapters:
+          - anaesthesia/ortho/tourniquets.qmd
+          - anaesthesia/ortho/tourniquets.qmd
+          - anaesthesia/ortho/thr.qmd
+          - anaesthesia/ortho/femoral.qmd
+          - anaesthesia/ortho/spine.qmd 
+        - part: "Opthalmology"
+          chapters:
+          - anaesthesia/opthal/opthal-principles.qmd
+          - anaesthesia/opthal/opthal-la.qmd
+          - anaesthesia/opthal/penetrating.qmd
+        - part: "Paediatrics"
+          chapters:
+          - anaesthesia/paeds/paed-considerations.qmd
+          - anaesthesia/paeds/premedication.qmd
+          - anaesthesia/paeds/emergence.qmd
+          - anaesthesia/paeds/periop-resp.qmd
+          - anaesthesia/paeds/apnoea.qmd
+          - anaesthesia/paeds/murmurs.qmd
+          - anaesthesia/paeds/congenital-cardiac.qmd
+          - anaesthesia/paeds/univent.qmd
+          - anaesthesia/paeds/analgesia.qmd
+          - anaesthesia/paeds/sedation.qmd
+          - anaesthesia/paeds/neurotoxicity.qmd
+          - anaesthesia/paeds/inhaled-fb.qmd
+          - anaesthesia/paeds/pyloric.qmd
+        - part: "Radiology"
+          chapters:
+          - anaesthesia/ir/clot-retrieval.qmd
+          - anaesthesia/ir/clot-retrieval.qmd
+          - anaesthesia/ir/isletcelltx.qmd
+        - part: "Thoracic"
+          chapters:
+          - anaesthesia/thoracic/principles.qmd
+          - anaesthesia/cardiac/mediastinal-mass.qmd
+          - anaesthesia/thoracic/vats.qmd
+          - anaesthesia/thoracic/lvrs.qmd
+          - anaesthesia/thoracic/pneumonectomy.qmd
+          - anaesthesia/thoracic/rigid-bronch.qmd
+        - part: "Urology"
+          chapters:
+          - anaesthesia/urology/turp.qmd
+          - anaesthesia/urology/nephrectomy.qmd
+          - anaesthesia/urology/lithotripsy.qmd
+          - anaesthesia/urology/transplant.qmd
+        - part: "Vascular"
+          chapters:
+          - anaesthesia/vascular/elective-aaa.qmd
+          - anaesthesia/vascular/cross-clamp.qmd
+          - anaesthesia/vascular/spine-protection.qmd
+          - anaesthesia/vascular/elective-aaa.qmd
+          - anaesthesia/vascular/emerg-aaa.qmd
+          - anaesthesia/vascular/endovascular.qmd
+          - anaesthesia/vascular/carotid.qmd
+        - part: "Off the Floor"
+          chapters:
+          - anaesthesia/otf/remote-anaes.qmd
+          - anaesthesia/otf/ect.qmd
+          - anaesthesia/otf/dus.qmd
+    - part: <hr>
+    # Intensive Care
+    - part: "Intensive Care"
+      chapters:
+        - intensive/postop-cthr.qmd
+    # Pathology
+    - part: "Pathology"
+      chapters:
+      - part: "Respiratory"
+        chapters:
+        - part: "Upper Airway"
+          chapters:          
+          - disease/airway/laryngospasm.qmd
+          - disease/resp/osa.qmd
+          - disease/airway/massive-haemoptysis.qmd
+        - part: "Lower Airway"
+          chapters:     
+          - disease/resp/coad.qmd
+          - disease/resp/bronchospasm.qmd
+          - disease/resp/bronchopleural.qmd
+      - part: "Cardiovascular"
+        chapters:
+        - part: "Failure"
+          chapters:  
+          - disease/cvs/failure.qmd
+        - part: "Myocardial"
+          chapters:        
+          - disease/cvs/peripartum.qmd
+          - disease/cvs/peripartum.qmd
+          - disease/cvs/hocm.qmd
+        - part: "Arrhythmia"
+          chapters:  
+          - disease/cvs/longqt.qmd
+        - part: "Valvular"
+          chapters:  
+          - disease/cvs/as.qmd
+          - disease/cvs/ms.qmd
+          - disease/cvs/mr.qmd
+        - part: "Pericardial"
+          chapters:  
+          - disease/cvs/tamponade.qmd
+        - part: "Systemic Vascular"
+          chapters:  
+            - disease/cvs/dissection.qmd
+            - disease/cvs/htn.qmd
+        - part: "Pulmonary Vascular"
+          chapters:  
+            - disease/cvs/phtn.qmd
+            - disease/cvs/pe.qmd
+            - disease/cvs/vae.qmd
+            - disease/cvs/afe.qmd
+            - disease/cvs/fat-embolism.qmd

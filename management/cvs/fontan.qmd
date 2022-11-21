@@ -1,0 +1,107 @@
+# Fontan Circulation
+
+*This covers physiology and principles of management of the Fontan circulation. Operative elements are covered briefly under the [univentricular pathway](/anaesthesia/paeds/univent.md).*
+
+The Fontan Circulation is a single-ventricle circulation. In the Fontan:
+
+* Blood flows:
+	* From the SVC/IVC directly to the pulmonary artery  
+	**Pulmonary flow is passive**.
+	* Pulmonary circulation returns blood to the single, "left"/systemic atrium
+	* Systemic ventricle to systemic circulation
+* The **critical bottleneck** to flow occurs in the **pulmonary circulation**  
+Therefore **cardiac output** and ventricular filling are **dependent on pulmonary impedance**, and:
+	* Venous congestion occurs upstream, and is **independent of cardiac output**
+	* **Cardiac function is not the determinant of cardiac output**  
+	* Circulation is **dependent** on a **low PVR**
+* A fenestration between the IVC and systemic atria
+	* Allows some ventricular filling to occur if PVR increases
+	* Reduces venous congestion and associated complications
+	* Leads to a degree of cyanosis
+
+## Management
+
+Treatment strategies must address the critical bottleneck to be effective:
+
+* Reduce venous congestion  
+Chronically elevated CVP is poorly tolerated.
+	* Complications occur due to increased pressures
+	* Filling in excess of what the pulmonary bottleneck can utilise will not augment circulatory parameters
+	* Diuretics may be effective
+* Reduce PVR
+
+### Anaesthetic Considerations
+
+* B
+	* **Low PVR**  
+	Minimisation of TPG is critical to maintain systemic ventricular filling. **Avoid**:
+		* ↑ PCO<sub>2</sub>
+		* ↓ PO<sub>2</sub>
+		* ↓ Temperature
+		* ↓ pH
+	* **Minimise Pip**  
+	**High airway pressures** result in **cessation of pulmonary flow**, and ventricular filling is **fenestration dependent**. Therefore:
+		* Negative-pressure ventilation is beneficial to maintain ventricular filling
+		* If positively pressure-ventilating:
+			* Avoid excessive PEEP
+			* **Minimise I time/Prolong E time**  
+			As soon as Pip exceeds CVP then there will be no pulmonary flow. Therefore, the **absolute inspiratory pressure** is essentially **irrelevant**, as CVP is usually only mildly elevated and so any inspiratory pressure (however low) will prevent pulmonary flow.
+* C
+	* Arterial line is mandatory
+	* **Adequate preload**  
+		* Ensure adequately resuscitated pre-operatively
+		* Fill in anticipation of venodilation post-induction
+	* **Optimal filling pressures**  
+	Other factors affecting filling pressure are important to optimise. Consider:
+		* Valvular function
+		* Ventricular function
+		* Maintain sinus rhythm
+		* Optimise afterload
+* E
+	* Position to optimise venous return
+
+### Ineffective Therapies
+
+Treatments that don't affect the critical bottleneck:
+
+* Chronotropes
+* Inotropes
+* Afterload reduction
+
+## Complications
+
+Although a palliative procedure, outcomes vary widely and quality of life may be high for several decades. Potential complications include:
+
+* Death  
+Usually due to gradual elevation in:
+	* Ventricular filling pressures
+	* PVR
+* Arrhythmia
+* Secondary to intrinsic properties of the circulation
+	* Cardiac failure  
+		* Diastolic dysfunction  
+		Combination of:
+			* Volume overload of the single ventricle, particular during the BDCPC/S stage
+			* Volume *under*load of the single ventricle, after establishment of the Fontan
+		* Systolic dysfunction  
+		Pressure overload of the single ventricle in the low-volume, low-compliance post-Fontan stage.
+	* Reduced exercise capacity  
+	Unable to increase CO, as pulmonary impedance remains the flow-limiting step.
+	* Cyanosis
+* Secondary to venous congestion
+	* Hepatic congestion and failure
+		* Secondary cirrhosis
+		* Hepatic carcinoma
+	* Lymphatic failure
+		* Protein-losing enteropathy
+		* Ascites
+		* Peripheral oedema
+		* Venous thrombosis
+* Secondary to reduced systemic cardiac output
+
+
+---
+
+## References
+
+1. Gewillig M, Brown SC. [The Fontan circulation after 45 years: Update in physiology](https://heart.bmj.com/content/102/14/1081). Heart. 2016;102(14):1081-1086. doi:10.1136/heartjnl-2015-307467

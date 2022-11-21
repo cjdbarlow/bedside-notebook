@@ -1,0 +1,107 @@
+# Cardiac Tamponade
+
+
+Accumulation of fluid within the pericardium leading to compression of cardiac chambers and a fall in cardiac output.
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Manifestations
+
+> * Mainly due to low CO or systemic venous congestion
+
+
+Acute signs:
+
+* Pulsus paradoxus
+* Obstructive shock
+	* Tachycardia
+	* Hypotension
+	* High CVP
+	* Low UO
+	* Metabolic acidosis
+
+Chronic signs:
+
+* Right heart failure
+	* Ascites
+	* Exertional dyspnoea
+	* Reduced exercise tolerance
+	* Peripheral oedema
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+Echocardiography:
+
+* Effusion
+* Diastolic collapse of RV
+* Systolic collapse of RA for >1/3<sup>rd</sup> of cardiac cycle
+* IVC dilatation ⩾20%
+* ⩽15% IVC respiratory variation
+* Swinging heart
+
+
+ECG:
+
+* Low voltage
+* Electrical alternans
+
+
+## Management
+
+### Medical
+
+### Surgical
+
+Needle pericardiocentesis:
+
+* For transudates or unclotted blood
+
+
+Pericardial window:
+
+* For ongoing drainage
+
+
+Resternotomy:
+
+* Tamponade occurring post cardiac surgery 
+
+### Anaesthetic Considerations
+
+* A
+* C
+	* Haemodynamic management is difficult
+		* Often precarious anaesthetic induction
+	* Inotropes  
+	Prepare for rapid reduction in requirement on relief of tamponade.
+* D
+	* Processed EEG  
+	Low perfusion to high perfusion state.
+	* Induction  
+	Surgeons scrubbed and ready prior.
+		* Spontaneously ventilating gas induction
+		* IV induction  
+		Benzodiazepines, opioids.
+* H
+	* Coagulation status
+	* Cell salvage
+
+### Ineffective Therapies
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+

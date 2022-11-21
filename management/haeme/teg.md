@@ -1,9 +1,0 @@
-#Thromboelastogram Interpretation
-
-
-##Interpretation
-
-
-
----
-##References

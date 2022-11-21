@@ -1,0 +1,85 @@
+# Femoral Fracture Surgery
+
+>Airway: GA/LMA. Neuraxial appropriate.
+>Access: 14-16G
+>Pain: ++/+++
+>Position: Generally supine
+>Time: 1-3 hours
+>Blood loss: 1-3 units. Consider cell salvage.
+>Special: High perioperative risk. Early operation → early mobilisation
+
+Femoral fractures:
+
+* Common in :
+	* Elderly due to falls
+	* Young patients from trauma
+* May be:  
+Generally blood loss and operative time increases the more distal 
+	* **Subcapital**  
+	Through the femoral neck.
+		* Significantly less blood loss
+		* Easier operative approaches (particularly if non-displaced)
+		* *Generally*:
+			* **[Require hip replacement](/anaesthesia/ortho/thr.md)** if **displaced**
+			* Pins if nondisplaced
+	* **Intertrochanteric**  
+	Around the trochanters.
+		* *Generally* **dynamic hip screw**
+	* **Subtrochanteric**  
+	Distal to the lesser trochanter.
+		* *Generally* **ORIF with plate/screws**
+	* **Mid/shaft or distal femur**
+		* *Generally*:
+			* **Intramedullary nail** for non-displaced/tranverse fractures, or fractures with large fragments  
+			May be placed anterograde (proximal to distal) or retrograde depending on the nature of the fracture.
+			* **ORIF** for displaced/heavily comminuted fractures
+			Substantial blood loss and increased operative time.
+
+## Considerations
+
+* B
+	* Respiratory comorbidities
+	* Fat embolus  
+	Up to 15%.
+* C
+	* Cardiac comorbidities
+	* Prior blood loss into thigh may lead to haemodynamic instability
+	* Consider arterial line
+* E
+	* Presence of other traumatic injuries
+	* Frailty
+* H
+	* Potential for blood loss/transfusion requirement
+
+## Preparation
+
+## Induction
+
+Anaesthetic options include:
+
+* Spinal
+* Epidural
+* GA
+
+## Intraoperative
+
+Key surgical stages include:
+
+* **Reaming** of femoral medullary bone prior to IM nail placement  
+Embolises medullary contents into the pulmonary vasculature.
+	* May lead to acute right heart failure or respiratory failure
+
+
+## Postoperative
+
+Complications include:
+
+* 10% fat embolism
+* 5-10% malunion
+* Up to 10% infection  
+Higher with open fixation.
+
+---
+
+## References
+

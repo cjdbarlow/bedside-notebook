@@ -1,0 +1,148 @@
+# Cardiotocograph
+
+
+Cardiotocography is:
+
+* Graphical representation of the relationship between FHR and uterine tone  
+* Widely used tool to assess foetal wellbeing
+	* Highly sensitive
+	* Poorly specific
+* Poor correlation with foetal outcome  
+Reduction of neonatal seizures is the only clinically significant benefit.
+* Increases intervention rate  
+Caesarian or instrumental deliver.
+	* Generally considered mandatory to act on abnormal FHR patterns
+
+## Foetal Heart Rate
+
+Contributors (of unknown relative importance) include:
+
+* Sympathetic/parasympathetic tone
+* Baroreceptor effects
+* Chemoreceptor effects
+* Cord compression
+* Placental function
+* Uteroplacental function
+* Contractions  
+Contractions in uncomplicated labour result in short and long-term reduction in oxygenation; and this effect is markedly increased with excessively frequent contractions.
+
+## Interpretation
+
+Principles:
+
+* Accurate interpretation **relies on context**  
+Considerations:
+	* Gestational age
+	* In labour/not in labour
+	* Other symptoms  
+	e.g. Pain, bleeding.
+	* Risk factors
+	* Cardiac disease  
+	Foetal heart rate may not vary in the setting of a cardiac lesion (e.g. heart block).
+* Requires accurate foetal trace  
+Maternal trace may be being measured in error. Confirm foetal heart rate using:
+	* Maternal SpO<sub>2</sub> for heart rate  
+	Useful if foetal heart rate and maternal heart rate differ.
+	* Foetal scalp electrode
+
+Key features:
+
+* **Baseline FHR**  
+Mean FHR in bpm, when FHR is stable, **when there is no contraction** over 5-10 minutes.
+	* Required to accurately assess the remainder of the CTG
+
+
+* **Baseline variability**  
+Minor fluctuation in baseline FHR; as assessed by the difference in peak and trough FHR over one minute. Variability is **important**.
+	* Normal 6-25 bpm  
+	* Increased > 25 bpm  
+	Unclear signifiance - may not be bad.
+	* Reduced 3-5 bpm  
+	Loss of variability is always a bad sign.
+		* Absent variability is <3 bpm
+
+
+* **Accelerations**  
+Transient increases of >15 bpm in FHR above baseline for at least 15s.
+	*  Normal to have >2 in 20 minutes when:
+		* Awake  
+		Foetal sleep phases last ~45 minutes.
+		* Not in labour
+
+
+* **Decelerations**  
+Transient decreases of >15 bpm in FHR below baseline for at least 15s. Subdivided into:
+	* **Early decelerations**  
+		* Benign  
+		Usually head compression during a contraction.
+		* Usually at 4-8cm cervical dilation
+		* **Uniform** in shape
+		* **Start** and **finish with** the **contraction**
+	* **Variable decelerations**
+		* Rapid onsent and recovery  
+		Deep 'V-shaped' decelerations.
+		* Variable relationship with the contraction  
+		Most are simultaneous with contraction.
+		* **Signifiance** depends on other findings
+		* **Complicated variable** decelerations are **non-reassuring**, and occur with:
+			* Rising baseline FHR
+			* Foetal tachycardia
+			* Reduced/absent baseline variability
+			* Slow return to baseline FHR following contraction
+			* Deceleration nadir following peak contraction
+			* Large amplitude (60bpm) or long duration (60s) of deceleration
+			* Post-deceleration overshoots
+	* **Late decelerations**  
+		* Uniform, repetitive deceleration with:
+			* Slow onset in second half of contraction
+			* Nadir >20s following peak of contraction
+			* End after contraction finishes
+		* Indication that contraction is occurring in the presence of foetal hypoxia  
+		Therefore, will lack reasurring signs such as normal baseline variability, early decelerations.
+		* May be <15 bpm if foetus is profoundly hypoxic
+		* May not be distinguishable from **variable decelerations** however this is usually academic  
+	* **Prolonged decelerations**  
+	Deceleration lasting 90s to 5 minutes.
+
+* **Sinusoidal**  
+Smooth, regular oscillations at 2-5 cycles per minute with an amplitude of 5-15bpm. Indicates severe anaemia.
+
+### Normal Intrapartum CTG
+
+Low probability of foetal compromise. Features include:
+
+* Baseline FHR  
+110-160bpm.
+* Normal baseline variability  
+6-25bpm.
+* Early or absent decelerations
+
+
+### Non-Reassuring Features
+
+*May* be associated with significant foetal compromise, and requires further action:
+
+* Baseline foetal tachycardia  
+>160 bpm.
+* Reduced baseline variability  
+3-5 bpm.
+* Rising baseline FHR
+* Complicated variable foetal decelerations
+* Late decelerations
+* Prolonged decelerations
+
+***Likely*** to be **associated** with **significant foetal compromise**, and requires immediate intervention or **urgent delivery**:
+
+* Prolonged bradycardia  
+100bpm for >5 minutes.
+* Absent baseline variability
+* Complicated variable decelerations with reduced or absent variability
+* Late decelerations with reduced or absent variability
+
+---
+
+## References
+
+1. The Royal Women's Hospital. Guideline: Cardiotocograph Interpretation and Response. The Royal Women's Hospital Melbourne. 2017.
+2. Woodward, A. CTG interpretation for the Anaesthetist. RWH Anaesthetic Tutorial Program.
+3. Thurlow, J.A., and S.M. Kinsella. [Intrauterine Resuscitation: Active Management of Fetal Distress](https://www.ncbi.nlm.nih.gov/pubmed/15321562). International Journal of Obstetric Anesthesia 11, no. 2 (April 2002): 105–16. https://doi.org/10.1054/ijoa.2001.0933.

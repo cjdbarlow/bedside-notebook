@@ -1,0 +1,77 @@
+# Scoliosis Correction
+
+>Airway: ETT as prone <br>
+>Access: 2x large IV for most cases <br>
+>Pain: Substantial <br>
+>Position: Mostly prone, may be supine <br>
+>Time: Hours <br>
+>Blood loss: May be substantial; consider cell-saver, autologous transfusion, or normovolaemic haemodilution<br>
+>Special:
+
+Scoliosis:
+
+* Describes lateral curvature and rotation of the thoraco-lumbar spine  
+Often with a secondary thoracic cage deformity.
+* Is defined as a **Cobb angle** > 10°  
+Perpendicular lines drawn from the upper and lower maximally tilted vertebrae. The angle of intersection of these lines is the Cobb angle.
+
+Scoliosis surgery:
+
+* May be indicated when the **Cobb angle** >40°
+* Aims to correct curvature and posture, improving:
+	* Pain
+	* Respiratory function
+	* Cardiac function
+
+
+## Considerations
+
+* B
+	* Restrictive lung disease  
+	May be difficult to interpret in patients with non-idiopathic disease (e.g. CP related).
+* C
+	* Exercise tolerance/cardiac reserve
+	* Right heart disease  
+	Secondary to respiratory disease.
+		* Pulmonary hypertension may occur with Cobb angle >100°
+* D
+	* Associated **neuromuscular disease**
+	* May require [nerve monitoring](/anaesthesia/periop/nerve-integrity.md)
+* E
+	* Hypothermia common
+
+## Preparation
+
+
+## Induction
+
+* Standard ANZCA monitoring
+* Ensure G+H available
+* Arterial line
+* Consider central line
+* Consider cell saver
+
+## Intraoperative
+
+### Surgical Stages
+
+Surgery:
+
+* May have a number of approaches
+	* Anterior  
+	Increased morbidity.
+	* Posterior  
+	Commonest.
+	* Combined
+* May require bone grafting
+
+## Emergence
+
+## Postoperative
+
+
+---
+
+## References
+
+1. Entwistle MA, Patel D. Scoliosis surgery in children. Contin Educ Anaesth Crit Care Pain. 2006;6(1):13-16. doi:10.1093/bjaceaccp/mki063

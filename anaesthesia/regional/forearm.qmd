@@ -1,0 +1,83 @@
+# Forearm and Wrist Blocks
+
+
+*This sections covers simple blocks for the radial, ulnar, and median nerves.*
+
+## Indications
+
+* Anaesthesia/analgesia of the hand
+* Supplementation to partially successful upper limb block
+
+
+## Contraindications
+
+## Anatomy
+
+{% include "/stubs/ul-neuro.md" %}
+
+## Equipment
+
+* Local anaesthetic
+	* 1% lignocaine
+	* 0.75% ropivacaine
+	* 0.5% bupivacaine
+
+## Technique
+
+Subdivided into:
+
+* Ultrasound
+* Landmark
+
+### Ultrasound Guided Approaches
+
+Ulnar:
+
+* Identify the ulnar artery at the level of the wrist
+* Scan through proximally, identifying where the nerve separates from the artery in the mid-forearm
+* Inject ~2.5ml of LA around the vessel
+
+
+Median:
+
+* Appears as an anisotropic and hyperecholic structure deep the bicepts aponeurosis  
+* Inject ~2.5ml of LA round nerve
+
+
+Radial:
+
+* Nerve runs in spiral groove in the mid-humerus, deep to tricepts  
+May run close to profunda brachii.
+
+
+### Landmark Approaches
+
+* All performed at the level of the wrist
+* Ensure wrist is supinated and externally rotated
+
+Ulnar:
+
+* Palpate flexor carpi ulnaris tendon
+* Insert needle posterolaterally to the tendon, and inject horizontally
+* Inject 3-5ml of LA
+
+Median:
+
+* Identify palmaris longus tendon at the level of the palmar crease
+* Insert needle perpendicular to skin, deep to flexor retinaculum  
+Injection should result in a diffuse swelling. A tight bleb indicate injection is too superficial.
+
+
+Radial:
+
+* Identify a line on the radial side of the wrist ~3-5cm proximal to the wrist joint
+* Inject 10ml of LA to create a sausage-shaped bleb of LA under the skin
+
+
+## Complications
+
+
+---
+
+## References
+

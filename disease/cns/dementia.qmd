@@ -1,0 +1,136 @@
+# Dementia
+
+
+Neurocognitive disorder characteerised by progressive loss of cognitive function exceeding normal age-related decline across multiple domains, including:
+
+* Attention
+* Executive function
+* Memory
+* Language
+* Perception
+
+## Epidemiology and Risk Factors
+
+Prevalence:
+
+* Highly prevalent, especially in aging populations
+
+
+Incidence:
+
+* Doubles with every 5 year increase in age
+
+
+## Pathophysiology
+
+### Aetiology
+
+Multiple potential aetiologies (which can be **mixed**), including:
+
+* Alzheimer's disease  
+Build up of β-amyloid plaques and τ neurofibrillary tangles causing neurone death. Impairments classically involve:
+	* Memory
+	* Language
+	* Visuospatial
+	* Orientation
+	* Concentration
+* Vascular dementia  
+Neuronal ischaemia due to stroke or multiple small subcortical infarcts. Impairments classically involve:
+	* Planning and organisation
+	* Memory  
+	Later feature compared with Alzheimer's.
+* Lewy body dementia  
+α-synuclein deposits within neurones. Impairments classically involve:
+	* Cognitive impairment  
+	Similar or before motor symptoms.
+	* Visual hallucinations
+	* Parkinsonian signs
+	* Fluctuating attention
+* Parkinson's Dementia  
+Lewy bodies.
+	* Pre-existing Parkinson's disease
+	* Broad range of deficits
+* Frontotemporal dementia  
+Genetic predisposition, leading to τ aggregation in frontal and temporal lobes. Impairments classically involve:
+	* Behaviour
+		* Lack of empathy
+		* Disinhibition
+	* Non-fluent aphasia
+	* Semantic types
+	* Younger
+* HIV-associated  
+Direct viral damage. Impairments classically involve:
+	* Short-term memory
+	* Learning
+	* Olfaction
+
+
+## Clinical Manifestations
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+## Management
+
+### Medical
+
+### Surgical
+
+### Anaesthetic Considerations
+
+* D
+	* Capacity
+	* Analgesia  
+		* Complex pain assessment  
+		Simplified scales helpful.
+		* Consider empirical trial of analgesia if pain is a potential cause of behaviour/distress
+		* Decreased reported pain but pain experience may be unchanged
+	* Post-operative cognitive dysfunction
+		* Consider using:
+			* ERAS protocols
+			* Dexmedetomidine  
+			May reduce POCD in high-risk patients.
+		* Avoid:
+			* Benzodiazepines
+			* Opioid analgesics  
+			Insofar as is practicable.
+			* Anticholinergics
+				* Cyclizine
+		* Behavioural control strategies
+			* Non-pharmacological
+				* Orientation
+				* Family support
+				* Sensory needs  
+				Glasses, hearing aids.
+			* Pharmacological
+				* Haloperidol 0.5-1mg PO/IM
+				* Risperidone 0.25mg PO
+				Avoid in PD or Lewy body dementia.
+				* Olanzapine 2.5-5mg PO  
+				Avoid in PD or Lewy body dementia.
+* E
+	* Acetylcholinesterase inhibitors
+		* Prolong depolarising blockade
+		* Inhibit or reverse non-depolarising blockade
+		* Consider ceasing:
+			* Donepezil requires a 2-3 week washout
+			* Galantamine and rivastigmine can be ceased 1 day prior  
+			Ideally cease pre-operatively.
+		* Sugammadex may be helpful if reliable offset required
+
+
+### Ineffective Therapies
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+

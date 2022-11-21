@@ -1,0 +1,79 @@
+# Trigger-Free Anaesthesia
+
+
+Anaesthesia without using known triggers for MH, namely:
+
+* Inhalational anaesthetics  
+**Excluding**:
+	* Nitrous oxide
+* Suxamethonium
+
+## Indications
+
+Absolute:
+
+* Known malignant hyperthermia
+
+Relative:
+
+* Potential malignant hyperthermia
+	* Skeletal muscular disease
+		* Exercise-induced rhabdomyolysis
+		* Central core disease
+		* Centronuclear myopathy
+		* Congenital fiber type disproportion
+		* Multiminicore disease
+		* King-Denborough syndrome
+	* Family history
+	* Geographic location
+* Neuromuscular disease  
+Associated with hyperkalaemia and rhabdomyolysis, but **not** MH.
+	* Duchenne muscular dystrophy
+	* Becker muscular dystrophy
+
+
+## Preparation
+
+Consider either:
+
+* Use of a dedicated vapour-free machine
+* Flushing of machine  
+Time consuming. Requires:
+	* Remove vapourisers
+	* Attach a fresh:
+		* Circuit
+		* Reservoir bag
+		* Soda lime
+	* Washout machine  
+	As per manufacturers guidelines, but may be up to 60-90 minutes at 10L/min of 100% oxygen.
+* Use of activated charcoal filters
+	* Change circuit as above
+	* Flush circuit at maximal flow rate
+	* Insert activated charcoal filters on both expiratory and inspiratory limb
+	* Machine can be used:
+		* At maximal flow rate for 30 minutes
+		* At 3L/min thereafter
+		* Each set of filters can be used for up to 12 hours
+
+Ensure availability of:
+
+* Temperature monitoring
+* Active cooling
+	* Blankets
+	* Ice
+	* Cold saline
+* Dantrolene
+
+## Anaesthesia
+
+Performed with:
+
+* Intravenous induction
+* Nitrous oxide may be used as an adjuvant
+* Maintenance with TIVA
+
+---
+
+## References
+
+1. EMHG. [Preparation of Anaesthetic Workstations for MH suspected or susceptible patients](https://www.emhg.org/recommendations-1/2018/2/27/preparation-of-anaesthetic-workstations-for-mh-suspected-or-susceptible-patients). Accessed 7/2019.

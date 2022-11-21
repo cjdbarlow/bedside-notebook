@@ -1,0 +1,118 @@
+# Direct Current Cardioversion
+
+
+>Airway: Own, consider RSI if requires airway protection <br>
+>Access: Small IV <br>
+>Pain: Requires sedation. Myalgias may be present post-operatively. <br>
+>Position: Semi-erect <br>
+>Time: Minutes <br>
+>Blood loss: Nil <br>
+>Special: Requirement for anticoagulation; risk of burns
+
+Restoring sinus rhythm through use of a brief electrical discharge across the heart. May be:
+
+* Emergent  
+Broad complex tachyarrhythmia with decompensation:
+	* Shock
+	* Reduced GCS
+	* Angina
+	* Cardiac failure
+* Urgent  
+SVT/VT unresponsive to medical therapy.
+* Elective  
+AF for rhythm control. ⩾90% success but relapse is common.
+
+
+## Considerations
+
+* A
+	* Airway protection  
+	May be required if emergent/unfasted.
+* C
+	* Digoxin toxicity  
+	Contraindication
+	* Duration of arrhythmia  
+	AF for ⩾48 hours requires TOE exclusion of thrombus.
+	* Optimised for successful cardioversion
+		* Nil digoxin toxicity
+		* Normal electrolytes
+	* Underlying CVS disease  
+	May pre-dispose to CVS dysfunction with anaesthesia.
+* E
+	* Fire risk
+		* Remove facemask oxygen/cease NP oxygen
+		* Remove GTN patches
+* H
+	* Anticoagulation
+
+## Preparation
+
+* Standard ANZCA monitoring
+* Preoxygenation
+* Pads away from ICD (if present)
+
+## Induction
+
+> Deep sedation adequate, analgesia rarely required
+
+* Gentle IV induction  
+Consider:
+	* 1-1.5mg/kg propofol given slowly
+	* Alfentanil
+	* Remifentanil
+
+Emergency drugs:
+
+* Atropine
+* Isoprenaline  
+Available but not drawn up.
+
+## Intraoperative
+
+Complications include:
+
+* VF
+* Catecholamine surge  
+May precipitate MI.
+* Asystole
+* Rhabdomyolysis/muscle injury  
+Rare.
+
+
+### Optimising Cardioversion
+
+Modifiable factors:
+
+* Equipment
+	* Larger electrode size  
+	Decreases impedance.
+	* Skin contact  
+	Consider salt gels.
+	* Pad position  
+	AP or AL.
+	* Repeated shock  
+	Impedance decreases with subsequent shocks.
+	* Biphasic defibrillation
+* Patient
+	* Respiration  
+	End-expiration reduces thoracic wall impedance.
+	* Electrolytes
+	* TFTs
+	* Medications
+
+
+Relatively non-modifiable factors:
+
+* Body habitus  
+Increased BMI increases impedance. 
+* Duration of AF
+* Structural heart disease
+
+## Postoperative
+
+* ECG to verify NSR
+
+---
+
+## References
+
