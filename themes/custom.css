@@ -1,0 +1,16 @@
+/* Minor customisations or things that probably should be done in scss but that I didn't work out how are included here*/
+
+/* Hide things*/
+
+/*.sidenote-number, label.margin-toggle.sidenote-number {
+    display: none;
+}*/
+
+/* Colour sidebar */
+.sidebar-navigation a:hover, div.sidebar-item-container .active {
+    color: #66bbff;
+}
+
+h2#toc-title{
+    font-weight: bold;
+}
