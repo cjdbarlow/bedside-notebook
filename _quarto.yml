@@ -58,7 +58,6 @@ book:
         - part: "Critical Care"
           chapters:
             - assessment/critical/neurological.qmd
-            - assessment/critical/braindeath.qmd
         - part: "Trauma"
           chapters:
             - assessment/trauma/primary.qmd
@@ -72,14 +71,12 @@ book:
     # Management
     - part: "Management"
       chapters:
-        - part: "Arrest"
+        - part: "Arrest and Resuscitation"
           chapters:
             - management/arrest/neonatal.qmd
             - management/arrest/postcardiac.qmd
             - management/arrest/oohca.qmd
-        - part: "Trauma"
-          chapters:
-            - management/trauma/damage-control.qmd
+            - management/arrest/intrauterineresus.qmd
         - part: <hr>
         - part: "Airway"
           chapters:
@@ -91,32 +88,22 @@ book:
             - management/resp/olv.qmd
         - part: "Cardiovascular"
           chapters:
-            - management/cvs/fontan.qmd
             - management/cvs/iabp.qmd
-        - part: "Neurological"
-          chapters:
-          - management/cns/seizure.qmd
-          - management/cns/acute-spine.qmd
-          - management/cns/chronic-spine.qmd
-          - management/cns/autonomic-dysreflexia.qmd
-          - management/cns/abd.qmd
         - part: "Pain"
           chapters: 
           - management/pain/pain-overview.qmd
-          - management/pain/cpsp.qmd
           - management/pain/opioids.qmd
-          - management/pain/crps.qmd
         - part: "Renal"
           chapters:
           - management/renal/rrt.qmd
           - management/fluid/hypona.qmd
-        - part: "Haematology"
+        - part: "Blood"
           chapters:
           - management/haeme/blood.qmd
           - management/haeme/massive-transfusion.qmd
-        - part: "Obstetrics"
+        - part: "Trauma"
           chapters:
-          - management/obs/intrauterineresus.qmd
+          - management/trauma/damage-control.qmd
     - part: <hr>
     ## Anaesthesia
     - part: "Anaesthesia"
@@ -124,7 +111,7 @@ book:
         - part: "Crises"
           chapters:
           - anaesthesia/crisis/fire.qmd
-          - disease/airway/laryngospasm.qmd
+          - disease/resp/laryngospasm.qmd
           - anaesthesia/crisis/cico.qmd
           - anaesthesia/crisis/massive-haemoptysis.qmd
           - anaesthesia/crisis/delayed-emergence.qmd
@@ -348,32 +335,53 @@ book:
     - part: "Intensive Care"
       chapters:
         - intensive/postop-cthr.qmd
+    - part: <hr>
     # Pathology
     - part: "Pathology"
       chapters:
+        # Respiratory
       - part: "Respiratory"
         chapters:
+        #- part: "Failure"
+        #  chapters:   
+          # T1RF
+          # T2RF         
         - part: "Upper Airway"
           chapters:          
-          - disease/airway/laryngospasm.qmd
+          - disease/resp/laryngospasm.qmd
           - disease/resp/osa.qmd
-          - disease/airway/massive-haemoptysis.qmd
+          - disease/resp/massive-haemoptysis.qmd
         - part: "Lower Airway"
           chapters:     
-          - disease/resp/coad.qmd
           - disease/resp/bronchospasm.qmd
+          - disease/resp/coad.qmd
           - disease/resp/bronchopleural.qmd
+        # - part: "Parenchymal"
+        #   chapters:    
+            # ARDS
+            # ILD
+            # Aspiration pneumonitis
+        # - part: "Lower Airway"
+        #   chapters:    
+            # PTx
+            # HTx
+            #Effusion
+        # - part: "Chest wall"
+        #   chapters:
+            # Diaphragmatic palsy
+        # Cardiac
       - part: "Cardiovascular"
         chapters:
-        - part: "Failure"
+        - part: "Shock and Failure"
           chapters:  
+            # Shock
           - disease/cvs/failure.qmd
         - part: "Myocardial"
           chapters:        
           - disease/cvs/peripartum.qmd
-          - disease/cvs/peripartum.qmd
+
           - disease/cvs/hocm.qmd
-        - part: "Arrhythmia"
+        - part: "Dysrhythmia"
           chapters:  
           - disease/cvs/longqt.qmd
         - part: "Valvular"
@@ -395,3 +403,211 @@ book:
             - disease/cvs/vae.qmd
             - disease/cvs/afe.qmd
             - disease/cvs/fat-embolism.qmd
+        - part: "Venous"
+          chapters:
+            - disease/cvs/vte.qmd
+        - part: "Congenital"
+          chapters:
+            - disease/cvs/fontan.qmd
+        # Neuro and neuromuscular
+      - part: "Neurological"
+        chapters:
+        - part: "Failure"
+          chapters:
+            - disease/neuro/braindeath.qmd
+            - disease/neuro/abd.qmd
+        - part: "Cortical/Subcortical"
+          chapters:
+            - disease/neuro/seizure.qmd
+            - disease/neuro/epilepsy.qmd
+            - disease/neuro/ncse.qmd
+            - disease/neuro/pd.qmd
+            - disease/neuro/dementia.qmd
+            - disease/neuro/pdph.qmd
+        - part: "Cerebrovascular"
+          chapters:
+            - disease/neuro/sah.qmd
+            - disease/neuro/vasospasm.qmd
+        - part: "Spinal"
+          chapters:
+            - disease/neuro/acute-spine.qmd
+            - disease/neuro/chronic-spine.qmd
+            - disease/neuro/autonomic-dysreflexia.qmd
+        - part: "Peripheral Neuropathy"
+          chapters:
+            - disease/neuro/cpsp.qmd
+            - disease/neuro/crps.qmd
+        - part: "Neuromuscular Junction"
+          chapters:
+            - disease/neuro/mg.qmd            
+        - part: "Neuromuscular"
+          chapters:
+            - disease/neuro/nmd.qmd
+            - disease/neuro/dmd.qmd
+            - disease/neuro/bmd.qmd
+            - disease/neuro/myotonic.qmd
+            - disease/neuro/cim.qmd
+        # Renal        
+      - part: "Renal"
+        chapters:
+        - part: "Failure"
+          chapters:
+            - disease/renal/aki.qmd
+            - disease/renal/ckd.qmd
+        # - part: "Prerenal"
+        #   chapters:
+            # Renovascular
+        # - part: "Intrarenal"
+        #   chapters:
+            # GN
+            # Nephotic syhndrome
+            # RTA
+            # ATN
+            # Interstitial nephritis
+        # - part: "Postrenal"
+        #   chapters:
+            # Obstruction
+            # Infection
+            # Stones
+        # Metabolic and Endocrine
+      - part: "Metabolic and Endocrine"
+        chapters:
+        - part: "Fluid and Electrolyte"
+          chapters:
+            - disease/fluid/siadh.qmd
+            - disease/fluid/turp-syndrome.qmd
+        # - part: "Nutrition"
+        #   chapters:       
+            # Malnutrition
+            # Refeeding syndrome 
+        - part: "Glucose Handling"
+          chapters:
+            - disease/endo/dm.qmd
+            - disease/endo/edka.qmd
+            - disease/endo/insulinoma.qmd
+        - part: "Adrenal"
+          chapters:                            
+            - disease/endo/cushing.qmd
+            - disease/endo/conn.qmd
+        - part: "Thyroid"
+          chapters:  
+            - disease/endo/hyperthyroidism.qmd
+            - disease/endo/hypothyroidism.qmd
+        - part: "Hypothalamic"
+          chapters:
+            - disease/endo/acromegaly.qmd
+        # Gastrointestinal
+      - part: "Gastrointestinal"
+        chapters:
+        - part: "Hepatic"
+          chapters:
+            - disease/git/cld.qmd
+            - disease/git/alf.qmd            
+        # - part: "Biliary"
+        #   chapters:
+        # - part: "Upper GI"
+        #   chapters:
+        # - part: "Lower GI"
+        #   chapters:
+        # - part: "Immune"
+        #   chapters:
+        # Haematology and Oncology
+      - part: "Haematology/Oncology"
+        chapters:
+        - part: "Neuroendocrine"
+          chapters:
+            - disease/endo/phaeo.qmd           
+            - disease/endo/carcinoid.qmd      
+        - part: "RBC"
+          chapters:
+            - disease/haeme/sickle.qmd
+            # Haemolysis
+            # HUS
+        - part: "Clotting"
+          chapters:
+            - disease/haeme/dic.qmd
+            - disease/haeme/hitt.qmd
+            - disease/haeme/vwd.qmd
+            # TTP
+            # ITP
+        # Rheumatology, Immunology, and Dermatology
+      - part: "Rheum/Immune/Derm"
+        chapters:
+        - part: "Acute"
+          chapters:
+            - disease/rid/anaphylaxis.qmd
+        - part: "Autoimmune"
+          chapters:
+            - disease/rid/sarcoid.qmd
+            - disease/rid/ra.qmd
+            # SLE
+            # PAM
+            # PMR
+        - part: "Connective Tissue"
+          chapters:
+            - disease/rid/scleroderma.qmd
+        - part: "Vasculitis"
+          chapters:
+        # Trauma
+      - part: "Trauma"
+        chapters:
+        - part: "Systemic"
+          chapters:
+            - disease/trauma/burns.qmd
+        - part: "Face and Neck"
+          chapters:
+            - disease/trauma/laryngeal-fracture.qmd
+            - disease/trauma/airway-burns.qmd
+        # Infection
+      - part: "Infection"
+        chapters:
+        - part: "Systemic"
+          chapters:
+            - disease/infective/sepsis.qmd
+        - part: "Musculoskeletal"
+          chapters:
+            - disease/infective/necfas.qmd
+        # Toxins
+      - part: "Toxin and Environmental"
+        chapters:
+        - part: "Toxidromes"
+          chapters:
+            - disease/tox/serotonin-syndrome.qmd
+            - disease/tox/last.qmd
+        # Obstetrics
+      - part: "Obstetric"
+        chapters:
+          - disease/obs/preg.qmd
+          - disease/obs/htn.qmd
+          - disease/obs/pad.qmd
+          - disease/obs/aph.qmd
+          - disease/obs/pph.qmd
+        # Congenital
+      - part: "Congenital"
+        chapters:
+          - disease/congenital/achondroplasia.qmd
+          - disease/congenital/cerebral-palsy.qmd
+          - disease/congenital/chiari.qmd
+          - disease/congenital/cf.qmd
+          - disease/congenital/downs.qmd
+          - disease/congenital/mitochondrial.qmd
+          - disease/congenital/mh.qmd
+          - disease/congenital/mucopolysaccharidosis.qmd
+          - disease/congenital/williams.qmd
+    - part: <hr>
+    # Investigations
+    - part: "Investigations"
+      chapters:
+      - investigations/ctg.qmd
+      - investigations/pfts.qmd
+    - part: <hr>
+    # Procedures
+    - part: "Procedures"
+      chapters:
+      - part: "Airway"
+        chapters:
+        - procedures/airway/needle-cricothyrotomy.qmd
+        - procedures/airway/scalpel-cricothyrotomy.qmd
+      - part: "CVS"
+        chapters:
+        - procedures/cvs/pac.qmd

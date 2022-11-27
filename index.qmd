@@ -1,6 +1,5 @@
-::: {.content-visible unless-format="html"}
-
+::: {.content-hidden}
 # About
-
+(This allows the toc to be named independently from the page)
 :::
 

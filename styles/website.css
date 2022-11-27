@@ -34,3 +34,14 @@ path.bgline {
   margin: 0 0 0.85em;
   padding: 0 0.85px;
 }
+
+/* Hide scrollbar for chrome*/
+#quarto-sidebar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+#quarto-sidebar {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
