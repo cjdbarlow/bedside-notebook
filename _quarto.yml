@@ -657,7 +657,7 @@ book:
         # - part: "Abdomen and Pelvis"
         #   chapters:
         # - part: "Long Bones"
-          chapters:
+        #   chapters:
         # Infection
       - part: "Infection"
         chapters:
