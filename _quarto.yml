@@ -1,14 +1,11 @@
 project:
     type: book
-
-# Allow subparts in the yaml 
+# Allow subparts in the yaml
 validate-yaml: false
-
 # Allow caching to reduce compile times
 execute:
     freeze: auto
     cache: true
-
 # Settings for output formats
 format:
     html:
@@ -30,13 +27,12 @@ format:
         toc: true
         toc-title: "On this Page"
         sidebar:
-        style: floating  
+        style: floating
         fig-align: center
         fig-format: svg
         fig-dpi: 326
         fig-responsive: true
         # filters: [scripts/glossary.lua]
-
 # Content
 book:
     # General settings
@@ -57,6 +53,7 @@ book:
             - assessment/anaesthetic/machine.qmd
         - part: "Critical Care"
           chapters:
+            - assessment/critical/braindeath.qmd
             - assessment/critical/neurological.qmd
         - part: "Trauma"
           chapters:
@@ -85,18 +82,64 @@ book:
             - management/airway/extubation.qmd
         - part: "Respiratory"
           chapters:
-            - management/resp/olv.qmd
+            - part: "Ventilation"
+              chapters:
+                - management/resp/olv.qmd
+                # Weaning
+                # Tracheostomy care
+                # Modes
+            # - part: "Equipment"
+            #   chapters:
+                # Humidification
+                # Nebulisers
+                # Suction
+            # - part: "Medications"
+            #   chapters:
+                # Helium
+                # Oxygen therapy
         - part: "Cardiovascular"
           chapters:
-            - management/cvs/iabp.qmd
-        - part: "Pain"
-          chapters: 
-          - management/pain/pain-overview.qmd
-          - management/pain/opioids.qmd
+            - part: "Equipment"
+              chapters:
+                - management/cvs/iabp.qmd
+                # Pacing
+            # - part: "ECMO"
+            #   chapters:
+            # - part: "Medications"
+            #   chapters:
+                  # Inotropes
+                  # Vasoconstrictors
+                  # Vasodilators
+                  # Fluids
+        - part: "Neurology"
+          chapters:
+            - part: "Anaesthesia"
+              chapters:
+            - part: "Analgesia"
+              chapters:
+                - management/pain/pain-overview.qmd
+                - management/pain/opioids.qmd
+                # An approach? Acute pain vs chronic pain? Basic vs opioid vs adjuncts?
+                # Ketamine
+                # Regional infusions
+                # Epidural and intrathecal infusions
+            - part: "Injury"
+              chapters:
+                - management/neuro/acute-spine.qmd
+                - management/neuro/chronic-spine.qmd
+              # ICP
+              # Persistent vegetative state
         - part: "Renal"
           chapters:
-          - management/renal/rrt.qmd
-          - management/fluid/hypona.qmd
+            - part: "Haemofiltration"
+              chapters:
+                - management/renal/rrt.qmd
+                # HDx
+                # PD
+                # Haemoperfusion
+            - part: "Electrolyte"
+              chapters:
+                - management/fluid/hypona.qmd
         - part: "Blood"
           chapters:
           - management/haeme/blood.qmd
@@ -130,7 +173,7 @@ book:
           - anaesthesia/considerations/laser-safety.qmd
           - anaesthesia/considerations/radiation-safety.qmd
         - part: "Concepts"
-          chapters: 
+          chapters:
           - anaesthesia/general/low-flow.qmd
           - anaesthesia/general/tiva.qmd
           - anaesthesia/general/trigger.qmd
@@ -139,7 +182,7 @@ book:
           - anaesthesia/general/eeg.qmd
           - anaesthesia/general/nerve-integrity.qmd
         - part: "Perioperative"
-          chapters:        
+          chapters:
           - anaesthesia/periop/periop-management.qmd
           - anaesthesia/periop/routine-ix.qmd
           - anaesthesia/periop/periop-med.qmd
@@ -154,18 +197,18 @@ book:
           - anaesthesia/periop/pocd.qmd
           - anaesthesia/periop/eras.qmd
         - part: "Regional"
-          chapters: 
+          chapters:
           - anaesthesia/regional/principles.qmd
           - anaesthesia/regional/complications.qmd
           - part: "Neuraxial"
-            chapters: 
+            chapters:
               - anaesthesia/regional/neuraxial.qmd
               - anaesthesia/regional/spinal.qmd
               - anaesthesia/regional/caudal.qmd
               - anaesthesia/regional/epidural.qmd
               - anaesthesia/regional/epidural-mx.qmd
           - part: "Head and Neck"
-            chapters: 
+            chapters:
               - anaesthesia/regional/peribulbar.qmd
               - anaesthesia/regional/subtenon.qmd
               - anaesthesia/regional/scalp.qmd
@@ -228,7 +271,7 @@ book:
         - part: <hr>
         # The actual anaesthetic stuff
         - part: "Cardiac"
-          chapters:       
+          chapters:
           - anaesthesia/cardiac/principles.qmd
           - anaesthesia/cardiac/cpb.qmd
           - anaesthesia/cardiac/myocardial-preservation.qmd
@@ -276,7 +319,7 @@ book:
           - anaesthesia/ortho/tourniquets.qmd
           - anaesthesia/ortho/thr.qmd
           - anaesthesia/ortho/femoral.qmd
-          - anaesthesia/ortho/spine.qmd 
+          - anaesthesia/ortho/spine.qmd
         - part: "Opthalmology"
           chapters:
           - anaesthesia/opthal/opthal-principles.qmd
@@ -335,6 +378,13 @@ book:
     - part: "Intensive Care"
       chapters:
         - intensive/postop-cthr.qmd
+        # Post op thoracic
+        # Post op neuro
+        # Oncollogy
+        # Transplants
+        # Post op endocrine
+        # FASTHUGS
+        # Stress response
     - part: <hr>
     # Pathology
     - part: "Pathology"
@@ -343,26 +393,28 @@ book:
       - part: "Respiratory"
         chapters:
         #- part: "Failure"
-        #  chapters:   
+        #  chapters:
           # T1RF
-          # T2RF         
+          # T2RF
         - part: "Upper Airway"
-          chapters:          
+          chapters:
           - disease/resp/laryngospasm.qmd
           - disease/resp/osa.qmd
           - disease/resp/massive-haemoptysis.qmd
+          # Tracheomalacia
+          # Tracheal stenosis
         - part: "Lower Airway"
-          chapters:     
+          chapters:
           - disease/resp/bronchospasm.qmd
           - disease/resp/coad.qmd
           - disease/resp/bronchopleural.qmd
         # - part: "Parenchymal"
-        #   chapters:    
+        #   chapters:
             # ARDS
             # ILD
             # Aspiration pneumonitis
         # - part: "Lower Airway"
-        #   chapters:    
+        #   chapters:
             # PTx
             # HTx
             #Effusion
@@ -373,31 +425,42 @@ book:
       - part: "Cardiovascular"
         chapters:
         - part: "Shock and Failure"
-          chapters:  
-            # Shock
+          chapters:
           - disease/cvs/failure.qmd
+            # Shock
         - part: "Myocardial"
-          chapters:        
+          chapters:
+            # ACS
+            # Myocarditis
+            # Cardiomyopathies
           - disease/cvs/peripartum.qmd
-
           - disease/cvs/hocm.qmd
         - part: "Dysrhythmia"
-          chapters:  
+          chapters:
+            # AF
+            # TDP
           - disease/cvs/longqt.qmd
         - part: "Valvular"
-          chapters:  
+          chapters:
           - disease/cvs/as.qmd
           - disease/cvs/ms.qmd
           - disease/cvs/mr.qmd
+          # AI
+          # PV
+          # TV
+          # Endocarditis
         - part: "Pericardial"
-          chapters:  
+          chapters:
           - disease/cvs/tamponade.qmd
+          # Pericarditis
         - part: "Systemic Vascular"
-          chapters:  
+          chapters:
             - disease/cvs/dissection.qmd
             - disease/cvs/htn.qmd
+            # TAA
+            # AAA
         - part: "Pulmonary Vascular"
-          chapters:  
+          chapters:
             - disease/cvs/phtn.qmd
             - disease/cvs/pe.qmd
             - disease/cvs/vae.qmd
@@ -406,6 +469,8 @@ book:
         - part: "Venous"
           chapters:
             - disease/cvs/vte.qmd
+            # IVC obstruction
+            # SVC obstruction
         - part: "Congenital"
           chapters:
             - disease/cvs/fontan.qmd
@@ -414,8 +479,9 @@ book:
         chapters:
         - part: "Failure"
           chapters:
-            - disease/neuro/braindeath.qmd
             - disease/neuro/abd.qmd
+            # Brain death
+            # Toxic encephalopathy
         - part: "Cortical/Subcortical"
           chapters:
             - disease/neuro/seizure.qmd
@@ -428,18 +494,22 @@ book:
           chapters:
             - disease/neuro/sah.qmd
             - disease/neuro/vasospasm.qmd
+            # Venous thrombosis
+        # - part: "Brainstem"
+        #   chapters:
+              # Bulbar palsy
+              # Pseudobulbar palsy
         - part: "Spinal"
           chapters:
-            - disease/neuro/acute-spine.qmd
-            - disease/neuro/chronic-spine.qmd
             - disease/neuro/autonomic-dysreflexia.qmd
         - part: "Peripheral Neuropathy"
           chapters:
             - disease/neuro/cpsp.qmd
             - disease/neuro/crps.qmd
+            # GBS
         - part: "Neuromuscular Junction"
           chapters:
-            - disease/neuro/mg.qmd            
+            - disease/neuro/mg.qmd
         - part: "Neuromuscular"
           chapters:
             - disease/neuro/nmd.qmd
@@ -447,7 +517,7 @@ book:
             - disease/neuro/bmd.qmd
             - disease/neuro/myotonic.qmd
             - disease/neuro/cim.qmd
-        # Renal        
+        # Renal
       - part: "Renal"
         chapters:
         - part: "Failure"
@@ -477,20 +547,21 @@ book:
             - disease/fluid/siadh.qmd
             - disease/fluid/turp-syndrome.qmd
         # - part: "Nutrition"
-        #   chapters:       
+        #   chapters:
             # Malnutrition
-            # Refeeding syndrome 
+            # Refeeding syndrome
         - part: "Glucose Handling"
           chapters:
             - disease/endo/dm.qmd
             - disease/endo/edka.qmd
             - disease/endo/insulinoma.qmd
         - part: "Adrenal"
-          chapters:                            
+          chapters:
             - disease/endo/cushing.qmd
             - disease/endo/conn.qmd
+            # Addisons
         - part: "Thyroid"
-          chapters:  
+          chapters:
             - disease/endo/hyperthyroidism.qmd
             - disease/endo/hypothyroidism.qmd
         - part: "Hypothalamic"
@@ -502,22 +573,35 @@ book:
         - part: "Hepatic"
           chapters:
             - disease/git/cld.qmd
-            - disease/git/alf.qmd            
+            - disease/git/alf.qmd
+            # Portal HTN
         # - part: "Biliary"
         #   chapters:
+              # Calculus cholecystitis
+              # Acalculus cholecystitis
+              # Pancreatic
         # - part: "Upper GI"
         #   chapters:
+              # UGIB
+              # Oesophageal
         # - part: "Lower GI"
         #   chapters:
+              # Obstruction
+              # Pseudoobstruction
         # - part: "Immune"
         #   chapters:
+              # IBD
+              # Malabsorption
         # Haematology and Oncology
       - part: "Haematology/Oncology"
         chapters:
-        - part: "Neuroendocrine"
+        - part: "Malignancy"
           chapters:
-            - disease/endo/phaeo.qmd           
-            - disease/endo/carcinoid.qmd      
+            # TLS
+            # Lung ca
+            # Renal ca
+            - disease/endo/phaeo.qmd
+            - disease/endo/carcinoid.qmd
         - part: "RBC"
           chapters:
             - disease/haeme/sickle.qmd
@@ -536,6 +620,8 @@ book:
         - part: "Acute"
           chapters:
             - disease/rid/anaphylaxis.qmd
+            # Tranfusion reactions
+            # TENS/SJS
         - part: "Autoimmune"
           chapters:
             - disease/rid/sarcoid.qmd
@@ -546,24 +632,57 @@ book:
         - part: "Connective Tissue"
           chapters:
             - disease/rid/scleroderma.qmd
-        - part: "Vasculitis"
-          chapters:
+            # CREST
+            # Marfans
+        # - part: "Vasculitis"
+        #   chapters:
         # Trauma
       - part: "Trauma"
         chapters:
         - part: "Systemic"
           chapters:
             - disease/trauma/burns.qmd
+        # - part: "Head"
+        #   chapters:
+            # EDH
+            # SDH
+            # Traumatic SAH
+            # TBI
         - part: "Face and Neck"
           chapters:
             - disease/trauma/laryngeal-fracture.qmd
             - disease/trauma/airway-burns.qmd
+        # - part: "Chest"
+        #   chapters:
+        # - part: "Abdomen and Pelvis"
+        #   chapters:
+        # - part: "Long Bones"
+          chapters:
         # Infection
       - part: "Infection"
         chapters:
         - part: "Systemic"
           chapters:
             - disease/infective/sepsis.qmd
+            # HIV
+            # TSS
+            # Tetanus
+            # Botulism
+        # - part: "Respiratory"
+        #   chapters:
+            # Epiglottitis
+            # CAP
+            # HAP/VAP
+            # Bronchitis
+        # - part: "CNS"
+        #   chapters:
+            # Meningitis
+            # Encephalitis
+        # - part: "GIT"
+        #   chapters:
+            # Hepatitis
+            # Colitis
+            # Peritonitis
         - part: "Musculoskeletal"
           chapters:
             - disease/infective/necfas.qmd
@@ -574,6 +693,13 @@ book:
           chapters:
             - disease/tox/serotonin-syndrome.qmd
             - disease/tox/last.qmd
+        - part: "Environmental"
+          chapters:
+            # Barotrauma
+            # Decompression injury
+            # Hyperthermia
+            # Hypothermia
+            # Drowning
         # Obstetrics
       - part: "Obstetric"
         chapters:
@@ -600,14 +726,52 @@ book:
       chapters:
       - investigations/ctg.qmd
       - investigations/pfts.qmd
+      # Ventilator wavefvorms
+      # Invasive pressure wave intrepretation
     - part: <hr>
     # Procedures
     - part: "Procedures"
       chapters:
       - part: "Airway"
         chapters:
-        - procedures/airway/needle-cricothyrotomy.qmd
-        - procedures/airway/scalpel-cricothyrotomy.qmd
+          # - part: "Basic"
+          #   chapters:
+              # BMV
+              # OPA
+              # LMA
+          # - part: "Advanced"
+          #   chapters:
+              # Laryngoscopy
+              # VL
+              # Fibreoptic
+          - part: "Front-of-Neck"
+            chapters:
+              - procedures/airway/needle-cricothyrotomy.qmd
+              - procedures/airway/scalpel-cricothyrotomy.qmd
+              # Percutaneous tracheostomy
+      # - part: "Respiratory"
+      #   chapters:
+          # Bronchoscopy
       - part: "CVS"
         chapters:
-        - procedures/cvs/pac.qmd
+          - part: "Emergent"
+            chapters:
+              # Resternotomy
+              # Thoracotomy
+              # Caesarian
+          - part: "Drains"
+            chapters:
+              # ICC
+              # Pleural
+              # Pericardial
+          - part: "Vascular"
+            chapters:
+              - procedures/cvs/pac.qmd
+              # Transvenous pacing wire
+              # IV
+              # CVC
+              # Arterial line
+              # IO
+      # - part: "GIT"
+      #   chapters:
+          # Blakemore
