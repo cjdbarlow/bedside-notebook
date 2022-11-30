@@ -1,0 +1,382 @@
+# Neurological Examination
+
+The neurological exam comes in an escalating level of detail, depending on the patient:
+
+:::column-margin
+Testing and diagnosis of brain death is covered under [brain death testing](braindeath.qmd).
+
+
+:::
+
+* **Paralysed**
+    * Pupils
+* **Unconscious**
+    * Pupils
+    * Respiratory pattern
+    * Cranial Nerves
+    * GCS
+* **Uncooperative**
+* **Cooperative**
+
+
+## Assessing Level of Consciousness
+
+:::info
+Having a rigorous approach improves reproducibility and reliability of the score.
+:::
+
+In a patient with unclear level of consciousness:
+
+:::column-margin
+Vertical eye movements (but not always lateral) are preserved in locked-in syndrome.
+<br><br>
+Avoid asking the patient to squeeze hands - this may be a grasp reflex.
+<br><br>
+Report the GCS in its constituent components, e.g. E~2~V~T~M~3~. Use the best score in any section.
+:::
+
+
+* Ask to blink and to look up/down
+* Ask for an *unambiguous action* (e.g. thumbs up, wiggle toes) to assess hands and feet
+* Perform a painful stimulus
+    * Centrally first\
+    Supraorbital pressure, jaw thrust. Allows assessment for localisation.
+    * Peripherally if no central response
+
+:::column-margin
+**Meaningful attempt**s include moving hand to head with supraorbital pressure, or an arm *crossing midline* with pain on the contralateral side.
+:::
+
+| Score |         Eye         |                           Verbal                           |                             Motor                             |
+|-------+---------------------+------------------------------------------------------------+---------------------------------------------------------------|
+|     6 | -                   | -                                                          | Obeys unambiguous command.                                    |
+|     5 | -                   | Orientated. Coherent and appropriate response.             | Moves towards pain in a *meaningful attempt* to alleviate it. |
+|     4 | Open spontaneously. | Confused. Appropriate (but incorrect) response.            | Withdraws to pain.                                            |
+|     3 | Opens to voice.     | Inappropriate response. Response does not match questions. | Abnormal flexion (decorticate posturing) to pain.             |
+|     2 | Opens to pain.      | Incomprehensible response. Moaning/sounds, but no words.   | Abnormal extension (decerebrate posturing) to pain.           |
+|     1 | No response.        | No response.                                               | No response.                                                  |
+
+
+
+## Pupils
+
+Bedside assessment:
+
+* **Size**  
+Different sized pupils suggests different aetiology of the lesion:
+    * Small  
+        * Drugs  
+        Opioids and clonidine.
+        * Pontine lesions
+    * Semi-dilated and unresponsive  
+    Midbrain lesions.
+    * Large and unresponsive  
+    CNIII compression.
+* **Asymmetry**
+    * Large and unresponsive  
+        * Ipsilateral CN III lesion
+        * Adie's Pupil  
+        Idiopathic syndrome of mydriasis and delayed response to light; may occur in one or both pupils.
+* **Reactivity**
+    * Afferent pathway via CN II
+    * Efferent pathway via CN III
+    * Abnormalities between direct and consensual reflexes allow localisation of the lesion to a particular neural pathway
+
+
+Detailed assessment:
+
+* Papilloedema  
+Suggests raised ICP; may not be present (especially acutely).
+
+
+## Respiratory Patterns
+
+:::column-margin
+Assessing respiratory pattern in the intubated patient requires some desedation and a pressure-support mode.
+:::
+
+
++-------------------------------------+-------------------------------------------------------------------------------------+-----------------------------------------------------------------+-----------------------------------+
+| Pattern                             | Presentation                                                                        | Mechanism                                                       | Causes                            |
++=====================================+=====================================================================================+=================================================================+===================================+
+| Apneustic breathing                 | Deep inspiration with a **pause** at end-inspiration, followed by brief expiration. |                                                                 |                                   |
++-------------------------------------+-------------------------------------------------------------------------------------+-----------------------------------------------------------------+-----------------------------------+
+| Central Neurogenic Hyperventilation | Primary respiratory alkalosis (hyperventilation)                                    |                                                                 | * Pontine lesion                  |
+|                                     |                                                                                     |                                                                 | * Midbrain lesion                 |
+|                                     |                                                                                     |                                                                 | * Bihemispheric lesion            |
++-------------------------------------+-------------------------------------------------------------------------------------+-----------------------------------------------------------------+-----------------------------------+
+| Cheyne-Stokes                       | Sinusoidal pattern of:                                                              | Delayed feedback between CO~2~ detector and effector responses. | * Low CO                          |
+|                                     |                                                                                     |                                                                 | * Metabolic encephalopathies      |
+|                                     | - Rapidly increasing depth and frequency of breathing                               |                                                                 | * Bilateral thalamic injuries     |
+|                                     | - Rapidly decreasing depth and frequency                                            |                                                                 | * Bilateral forebrain dysfunction |
+|                                     |                                                                                     |                                                                 | * Acute CVA                       |
++-------------------------------------+-------------------------------------------------------------------------------------+-----------------------------------------------------------------+-----------------------------------+
+
+ 
+## Cranial Nerve Examination in the Unconscious Patient
+
+Basic assessment:
+
+:::column-margin
+Ensure the cervical spine is cleared before testing the oculocephalic reflex.
+:::
+
+* **Ocular deviation**\
+    * Dysconjugate gaze is present in most patients with altered conscious state, such as anaesthesia
+    * Tonic deviation may be present with an **ipsilateral frontal** lobe lesion or a **contralateral pontine** lesion  
+    Supranuclear (e.g. frontal) lobe lesions can be overcome by a oculocephalic or oculovestibular reflex, pontine lesions cannot.
+    * Vertical (skew) deviation suggests a pontine or vestibulocerebellar lesion.
+* **Corneal reflex**\
+Tests V~1~, III (eye movement) and VII (blink).
+    * A drop of saline or wisp of cotton should be applied to the cornea\
+    Patient should not see the or hear the stimulus, otherwise this will not test V<sub>1</sub>.
+    * Reflex is present if they blink or look upwards
+* **Occulo-cephalic reflex**\
+A milder version of the cold caloric reflex that can be performed in unconscious patients. Tests CN III, VI, VIII.
+    * The eyes are held open and the head is rotated side-to-side or up-and-down
+    * The reflex is present if the eyes move in the opposite direction of head movements (**doll's eyes**)
+    * **Absence** of the reflex is suggestive of brainstem dysfunction in the comatose patient
+* **Facial Sensation**
+    * Supra orbital notch pressure\
+    Tests CN V, VII.
+* **Gag reflex**\
+Tests CN IX, X.
+    * Touch the posterior pharynx on each side (use a Yankeur)
+    * A gag is a positive response
+* **Cough reflex**\
+Tests CN X.
+    * Suctioning the trachea should cause a cough response
+
+
+Detailed assessment:
+
+* **Cold caloric reflex**  
+Tests CN III, VI, and VIII.
+    * Used in brain-death testing
+    * Cold water is syringed into the patients ear
+    * A positive reflex occurs when the eyes look towards the tested side  
+    Eyes will remain in this position until irrigation stops.
+    * No response will occur in brain death
+    * 5 minutes should elapse before testing the other wide
+
+
+## Extremities
+
+:::info
+* Asymmetry in tone, reflexes, and plantar responses are useful to lateralise a lesion
+* Symmetrical changes are rarely helpful in the unconscious patient
+:::
+
+:::column-margin
+Decorticate posturing suggests a lesion **above** the **brainstem**:
+
+* Flexion of arms
+* Adduction of shoulder
+* Extension of legs
+
+<br><br>
+
+Decerebrate posturing suggests a lesion **below or at** the **brainstem**:
+
+* Extension of arms
+* Internal rotation of shoulder
+:::
+
+* Observation
+    * Spontaneous or localising movements  
+    * Posturing
+        * Abnormal flexion (decorticate posturing)  
+        * Abnormal extension (decerebrate posturing)  
+    * Tremors
+    * Wasting
+    * Fasciculations
+        * Intrinsic hand muscles
+        * Shoulder girdle
+        * Thigh
+
+:::column-margin
+The **deep tendon reflexes** are:
+
+* Upper limb
+    * Biceps
+    * Brachioradialis
+    * Triceps
+* Lower limb
+    * Patella
+    * Ankle
+:::
+
+* Tone
+    * Passive movement of each joint
+* Power and movement
+    * Response to noxious stimuli  
+    * Drift
+    * Rapid movements
+    * Power
+* Reflexes\
+Look for muscle contraction rather than physical movement.
+    * Clonus  
+    \>5 sustained involuntary contractions following stretching of a muscle.
+    * Plantar response  
+    Sensitive test for the presence of an UMN lesion in the corticospinal tract.
+        * Lateral side of foot is rubbed with a blunt instrument
+        * Flexion of the toes is a normal response
+        * Extension of the hallux with fanning of the toes is a positive Babinski sign  
+        Present as a primitive reflex in infants up to 12 months of age.
+
+:::column-margin
+Upper versus Lower Motor Neuron Lesions:
+
+| Finding          | UMN         | LMN         |
+| ---------------- | ----------- | ----------- |
+| Atrophy          | No          | Yes         |
+| Fasciculations   | No          | Yes         |
+| Reflexes         | Increased   | Decreased   |
+| Tone             | Increased   | Decreased   |
+| Weakness         | Yes         | Yes         |
+
+:::
+
+
+## Cooperative Patient
+
+### Cranial Nerve
+
+* **Visual acuity**  
+Tests CN II
+    * Visual fields
+        * Patient focuses straight ahead
+        * Reports when a finger is moving in each quadrant
+    * Visual extinction
+        * Form of neglect
+        * Patient is presented with a different number of fingers on each side
+        * The patient will not report seeing the fingers on the affected side when presented to both sides, but can see them when presented to the affected side alone
+
+
+* **Extra-ocular movements**  
+Tests CN III, IV, VI
+    * Patient focuses straight ahead
+    * Eyes follow finger in an 'H' pattern
+    * Diplopia:
+        * Movement limitation
+        * Dysconjugate gaze:
+        * Horizontal
+        * Vertical
+
+
+* **Facial Sensation**
+    * Trigeminal sensation  
+    Tests CN V<sub>1</sub>, V<sub>2</sub>, V<sub>3</sub>.
+
+
+* **Facial Expression**  
+Tests CN VII.
+    * Evaluate strength and asymmetry as the patient:
+        * Wrinkles brow
+        * Closes eyes tightly
+        * Puffs out cheeks
+        * Smiles    
+
+
+* **SCM and trapezius**  
+Tests CN XI.
+    * Evaluate strength as the patient:
+        * Shrugs shoulders
+        * Turns head to each side
+
+* **Tongue**  
+Tests CN XII.
+    * Atrophy  
+    Occurs with LMN lesion.
+    * Fasciculations  
+    Occurs with LMN lesions.
+    * Deviation  
+    Weakness causes deviation to the affected side.
+    * Push forcefully against inside of the cheek
+
+
+### Cerebellar Exam
+
+* Nystagmus
+    * A fast phase of nystagmus will occur towards the side of a cerebellar lesion
+* Staccato speech
+* Resting tremor
+    * Head\
+    Known as titubation.
+    * Upper limb
+* Tests of coordination:
+    * Rapid alternating movements
+    * Finger-nose
+    * Heel-shin
+* Gait
+* Romberg's test
+    * Patient stands with eyes closed
+    * A positive result occurs if the patient loses balance
+        * Cerebellar ataxia occurs even when the eyes are open
+        * Sensory ataxia occurs when the eyes are closed, and is a sign of disturbed proprioception
+
+### Motor Exam
+
+Motor assessment involves:
+
+* Appearance
+    * Normal muscle bulk for age
+    * Symmetry of muscle bulk
+    * Tremors  
+    Should be no tremors at rest in normal individuals.
+* Palpation
+* Tone  
+Joint should be able to be moved easily through its range of motion.
+    * Spasticity  
+    Increase in tone is proportional to the rate of movement. Associated with UMN lesion.
+    * Rigidity  
+    Tone is increased irrespective of how quickly the joint is moved.
+    * Flaccidness  
+    Complete absence of tone, occurring when the muscle has no LMN innervation.
+* Power  
+Assessment must consider the age, sex, fitness, and non-neurological disease state. Power assessment is:
+    * Graded on a scale:
+        * 0: No movement
+        * 1: Fasciculations
+        * 2: Movement when gravity is eliminated
+        * 3: Movement capable of overcoming gravity but not additional resistance
+        * 4: Movement capable of overcoming some resistance  
+        Additional (subjective) nuance can be documented by using 4+ or 4- for varying levels of "some" resistance.
+        * 5: Normal
+
+### Sensory Exam
+
+Testing of each main afferent pathway:
+
+* Spinothalamic tracts  
+Pain, temperature, crude touch.
+* Dorsal columns  
+Proprioception, vibration, light touch. 
+
+
+Assessment process:
+
+* Sharp and light touch
+    * Demonstrate to the patient what light and sharp touch will feel like
+    * Start distally and move proximally, crossing multiple dermatomes at each point
+* Proprioception 
+    * Have the patient close their eyes
+    * Grasp either side of the great toe IP joint
+    * Orientate the patient to what up and down will be
+    * Then move the toe and ask the patient to state in which direction it has been moved
+        * If incorrect, then move to a more proximal joint  
+        Distal joints are typically affected first.
+* Vibration
+    * Use a 128Hz tuning fork
+    * Place the fork over the great toe IP joint
+    * The patient should be able to identify when vibration occurs, and when vibration ceases
+* Two-point discrimination  
+Useful for peripheral neuropathy.
+    * Patient should be able to distinguish simultaneous touch from two objects >5mm apart
+
+---
+
+## References
+
+1. Walker MC, O’Brien MD. [Neurological examination of the unconscious patient](https://www.gla.ac.uk/media/media_117701_en.pdf). J R Soc Med. 1999 Jul;92(7):353-5.
+2. Smith, Eimear, and Mark Delargy. ‘Locked-in Syndrome’. BMJ: British Medical Journal 330, no. 7488 (19 February 2005): 406–9.

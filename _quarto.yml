@@ -1,11 +1,14 @@
 project:
     type: book
+
 # Allow subparts in the yaml
 validate-yaml: false
+
 # Allow caching to reduce compile times
 execute:
     freeze: auto
     cache: true
+
 # Settings for output formats
 format:
     html:
@@ -53,8 +56,10 @@ book:
             - assessment/anaesthetic/machine.qmd
         - part: "Critical Care"
           chapters:
+            - assessment/critical/basic.qmd
+            - assessment/critical/neuro.qmd
+            - part: <hr>
             - assessment/critical/braindeath.qmd
-            - assessment/critical/neurological.qmd
         - part: "Trauma"
           chapters:
             - assessment/trauma/primary.qmd
@@ -480,7 +485,6 @@ book:
         - part: "Failure"
           chapters:
             - disease/neuro/abd.qmd
-            # Brain death
             # Toxic encephalopathy
         - part: "Cortical/Subcortical"
           chapters:

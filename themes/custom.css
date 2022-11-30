@@ -14,3 +14,21 @@
 h2#toc-title{
     font-weight: bold;
 }
+
+/* Remove margin in indented lists in book body and margin notes to stop them breaking up unaesthetically */
+.content > ul > li > ul,
+.content > ul > li > ul > li > ul,
+.content > ul > li > ul > li > ul > li > ul,
+.content > section > ul > li > ul,
+.content > section > ul > li > ul > li > ul,
+.content > section > ul > li > ul > li > ul > li > ul,
+div.column-margin > div > ul > li > ul,
+div.column-margin > div > ul > li > ul > li > ul {
+    margin-bottom: 0rem !important;
+}
+
+/* horizontal breaks within the menu should have smaller margins than those between major headings */
+li > ul > li > span > hr {
+    margin: 0.5rem;
+}
+

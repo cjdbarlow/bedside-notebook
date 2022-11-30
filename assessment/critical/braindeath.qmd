@@ -1,9 +1,11 @@
 # Brain Death Testing
 
+:::info
+This is specific to brain death in the Australian context. Additionally:
 
->This is specific to brain death in the Australian context. Additionally:
->* Diagnosis must be made by independent examination of 2 suitable trained nad experienced doctors
->* Time of death is the completion of examination by the second doctor
+* Diagnosis must be made by independent examination of 2 suitable trained and experienced doctors
+* Time of death is the completion of examination by the second doctor
+:::
 
 **Brain Death** is the irreversible loss of all functions of the brain, including brainstem. Diagnosis requires:
 

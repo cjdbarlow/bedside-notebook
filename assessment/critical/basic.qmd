@@ -1,0 +1,68 @@
+# Observation
+
+:::info
+The majority of clinically useful information comes from observation.
+:::
+
+
+Observation should focus on each of the following in turn:
+
+* **Environment**
+	* Medications
+		* Vials/tablets
+	* Environment
+		* Positive or negative pressure orooms
+		* Temperature
+		* Infection control and PPE
+		* Waste disposal
+	* Long-stay
+		* Signs/photographs/art
+		* Physical therapy equipment
+		* Activity plans
+
+
+:::column-margin
+Information from the monitor, ventilator, and medications should be integrated.<br><br> e.g. "The SpO~2~ is 93% with an FiO~2~ of 50% - there is evidence of a raised A-a gradient". <br><br>Or, "The patient is in AF, I note the heparin infusion and wonder if this is the sole indication for anticoagulation."
+:::
+
+* **Monitor**
+	* ECG\
+	Rate and rhythm.
+	* Invasive pressures
+	* EtCO~2~
+* **Ventilator**
+	* Mode
+	* Oxygen and PEEP requirements\
+	Quick assessment of A-a gradient based on SpO2 and FiO2.
+	* Minute ventilation\
+	Assess dynamic compliance.
+	* "Extubatable settings?"
+	* Consider assessing plateau pressure if evidence of reduced compliance.
+* **Medications** and fluids
+	* Vasoactives
+		* Amount
+	* Anticoagulation
+	* Pathognomonic durgs
+	* TPN
+	* Blood
+
+
+* **Ancillary** equipment
+	* CRRT\
+	Mode, dialysate/buffer, vascular access line.
+	* Active cooling
+	* IABP
+
+
+* **Patient**
+	* End of the bed-o-gram
+	* Monitoring lines
+		* CVC/PAC
+		* EVD
+	* Pacing
+	* Drains
+		* Intercostal catheters
+		* Surgical drains
+	* Urethral catheters
+	* Surgical wounds
+		* Ex-fix
