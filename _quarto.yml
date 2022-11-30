@@ -35,7 +35,7 @@ format:
         fig-format: svg
         fig-dpi: 326
         fig-responsive: true
-        # filters: [scripts/glossary.lua]
+        filters: [scripts/glossary.lua]
 # Content
 book:
     # General settings

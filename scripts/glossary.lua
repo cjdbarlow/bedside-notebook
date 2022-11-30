@@ -4,10 +4,13 @@
 --require('mobdebug').start()
 
 --package.path = package.path .. ';.;./scripts/?.lua;'
+
 cwd = debug.getinfo(1).short_src;
 print(cwd)
 
-glossary_file = "glossary.yml"
+-- Load glossary file relative to the quarto project dir
+dir = os.getenv("QUARTO_PROJECT_DIR")
+glossary_file = dir .. "/_glossary.yml"
 
 -- Load required packages
 -- Because lua is completely heinous at relative paths, the next 500-odd lines until "Load glossary file" contain almost the entirety of the lua-yaml parser from https://github.com/exosite/lua-yaml (MIT license)
