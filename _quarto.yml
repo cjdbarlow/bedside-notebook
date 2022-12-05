@@ -43,7 +43,10 @@ book:
     # Table of Contents
     chapters:
     - index.qmd
-    - exams.qmd
+    - part: "Examinations"
+      chapters:
+        - anzca.qmd
+        - cicm.qmd
     - part: <hr>
     # Assessment
     - part: "Assessment"
