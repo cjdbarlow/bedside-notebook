@@ -85,9 +85,16 @@ book:
         - part: <hr>
         - part: "Airway"
           chapters:
-            - management/airway/planning.qmd
-            - management/airway/difficult.qmd
-            - management/airway/extubation.qmd
+            - part: "Difficult Airway"
+              chapters:
+                - management/airway/planning.qmd
+                - management/airway/difficult.qmd
+                - management/airway/extubation.qmd
+            - part: "Tracheostomy"
+              chapters:
+                - management/airway/trache-crisis.qmd
+                - management/airway/trache.qmd
+                # Weaning
         - part: "Respiratory"
           chapters:
             - part: "Ventilation"
@@ -733,8 +740,8 @@ book:
       chapters:
       - investigations/ctg.qmd
       - investigations/pfts.qmd
-      # Ventilator wavefvorms
-      # Invasive pressure wave intrepretation
+      # Ventilator waveforms
+      # Invasive pressure wave interpretation
     - part: <hr>
     # Procedures
     - part: "Procedures"
@@ -761,13 +768,13 @@ book:
           # Bronchoscopy
       - part: "CVS"
         chapters:
-          - part: "Emergent"
-            chapters:
+          # - part: "Emergent"
+          #   chapters:
               # Resternotomy
               # Thoracotomy
               # Caesarian
-          - part: "Drains"
-            chapters:
+          # - part: "Drains"
+          #   chapters:
               # ICC
               # Pleural
               # Pericardial

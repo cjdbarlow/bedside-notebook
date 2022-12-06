@@ -1,0 +1,163 @@
+# Tracheostomy Overview
+
+:::column-margin
+This covers the management of tracheostomies, including considerations for planning insertion. Procedural elements are covered elsewhere.
+:::
+
+
+## Considerations
+
+:::column-margin
+Factors to consider with percutaneous versus surgical tracheostomy:
+
+| Favours Percutaneous | Favours Surgical                      |
+| --                   | --                                    |
+|                      | Vascular insertion site on ultrasound |
+
+:::
+
+
+Considerations for tracheostomy insertion include:
+
+* A
+	* Neck anatomy
+		* Vascularity
+		* Length of accessible trachea\
+		Patients without much extra-thoracic trachea will be more difficult with both insertion and management.
+	* Intubation grade
+* B
+	* Respiratory function\
+		* FiO~2~
+		Risk of airway fire with electrocautery, and indicates tolerance of interruption of ventilation during insertion.
+		* PEEP\
+		Tolerance of de-recruitment and interruption of ventilation during insertion.
+* C
+* D
+
+
+## Indications
+
+* A
+	* Surgical\
+	e.g. Laryngectomy.
+* B
+	* **Respiratory weaning**
+		* **↓ Sedation** requirements\
+		Facilitates spontaneous ventilation, ↑ proportion of respiratory work done by the patient. May lead to ↓ total time on mechanical ventilation.
+		* ↓ Work of breathing\
+		↓ Airway resistance and (marginally) ↓ dead space relative to ETT.
+		* ↓ Airway trauma\
+		↓ Risk of laryngeal stenosis, vocal cord ulceration, and improves voice recovery.
+		* ↓ Aspiration risk\
+		Glottic competence is restored, so the tube cuff is not the only thing preventing aspiration.
+* D
+	* ↓ Sedation requirements\
+	Better tube tolerance.
+		* Improved **communication**\
+		Interaction, and use of speaking valve.
+		* Neurological assessment
+* E
+	* Facilitate **physiotherapy**\
+	Positioning, rehabilitation, coughing.
+
+
+## Contraindications
+
+## Management
+
+Caring for a tracheostomy tube:
+
+* A
+	* **Cuff pressures**\
+	Keep **<30mmHg** to reduce the risk of tracheal ulceration and stenosis.
+* B
+	* **Humidification**\
+	Important for:
+		* Patient comfort
+		* Secretion management\
+		↓ Viscosity.
+
+
+
+## Complications
+
+In-situ tracheostomy:
+
+* A
+	* **Dislodgement**\
+	Risks include:
+		* Patient
+			* Agitation
+			* Large s
+		* Equipment
+			* Poorly sized tube
+		* Staff\
+		Inadequate:
+			* Training
+			* Numbers
+	* **Bleeding**\
+		* Early\
+		Due to vascular injury.
+		* Late\
+		Due to erosion of the tracheostomy into a vascular structure.
+			* Tracheo-innominate fistula\
+			Erosion (classically of the *cuff*) into the innominate artery.
+				* Risk factors
+					* Procedural
+						* Low insertion\Mediastinal tracheostomy\
+						Innominate artery at level of 9^th^ tracheal ring.
+						* Surgical tracheostomy
+						* Hyperextension during insertion
+					* Equipment
+						* Over-inflated cuff
+						* Anteriorly-curved tracheostomy tube
+					* Patient
+						* Poor wound healing
+				* Leads to catastrophic:
+					* Bleeding and airway soiling
+					* Air entrainment
+	* **Obstruction**
+		* Bleeding
+		* Secretions
+* B
+	* **Failure to wean**\
+	If the patient is unable to wean from the ventilator despite the tracheostomy, this may be an unsatisfactory outcome for both patient and family.
+	* Blockage with **secretions**\
+	↑ Risk if dehumidified.
+	* Pneumonia\
+	↑ Risk due to bypass of normal upper respiratory protective mechanisms. Occurs in **~25%** of patients.
+* D
+	* **Quality of life**\
+	Generally worse in patients who have received a tracheostomy, compared to patients who did not.
+* G
+	* Swallowing difficulty
+* I
+	* **Infection**\
+	Either of the stoma, or contamination of wounds (sternal, CVC) with secretions.
+
+
+Post-tracheostomy:
+
+* A
+	* Tracheal **stenosis**\
+	Commonly occurring, rarely significant. Risk increased with:
+		* Procedural
+			* Tracheal ring fracture
+		* Equipment
+			* Oversized cannula
+		* Patient
+			* Male
+			* Elderly
+			* Prolonged duration of use
+	* **Tracheomalacia**\
+	Loss of tracheal cartilage (usually ischaemic), leading to collapse under negative-pressure inspiration.
+	* Persistent stoma\
+	May require surgical repair.
+
+
+
+
+---
+
+## References
+

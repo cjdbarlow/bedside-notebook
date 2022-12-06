@@ -1587,3 +1587,106 @@ Timing adjustment:
 * < 50: Mechanical valve
 * > 65: Bioprosthetic valve
 * 50-65: think carefully
+
+Structure:
+
+* 12% of marks
+* Two 20 minute vivas
+	* 2 minutes reading time
+		* Stem
+		* Medication list  
+		Provided on door and in the room of the *viva voce*.
+	* 9 minutes history and examination  
+		* There will be a timer in the room
+		* Warning when 7 of the 9 minutes has elapsed
+	* 9 minutes *viva voce*  
+	Synthesise and present findings.
+* Is **not** a preanaesthetic anaesthetic
+* Focuses on understanding of medical disease  
+Particularly assessing **severity** and **stability** of disease.  
+* Only point in examination process where interaction with a patient is demonstrated
+
+
+Fundamentals:
+
+* Time management  
+4.5 minutes for history, 4.5 minutes for examination.
+* Assess severity and stability
+	* Functional impact
+* Systematic and **relevant** examination
+
+
+Tips:
+
+* Practice the timing as much as possible
+* Equipment
+	* Stethoscope
+	* Clipboard  
+	If you like.
+* History
+	* Have a nice way to interrupt the patient  
+	"I have a limited time today, so I may interrupt you."
+	* Ask the patient their diagnosis
+	* Be kind
+* Examination
+	* Wash your hands  
+	You won't fail if you don't.
+	* Don't hurt the patient
+	* Position the patient how you wish
+	* Breast exposure can be fraught  
+	Comment that you would normally examine the whole chest, and ask the patient if they can lower the gown to above the nipple line - let the patient make the decision.
+	* If the patient has been diagnosed with a murmur but you cannot hear one, consider a diastolic murmur
+* Practice interpreting common investigations
+	* ECG
+	* CXR
+	* ABG
+	* PFTs
+	* TTE  
+	Read the summary initially, and then the raw values if these don't answer your question.
+
+Pitfalls:
+
+* History:
+	* Not systematic
+	* Not listening to the patient
+	* Failure to assess severity and stability
+	* Failure to assess function
+* Examination:
+	* Incorrect position or posture
+	* Failure to expose the patient
+	* Failure to ask observations
+	* Not systematic
+	* *In*appropriately detailed  
+	e.g. Spending evaluating for peripheral stigmata of endocarditis, without history pointing towards this.
+* Summary/presentation
+	* Not concise
+	* Does not address severity and stability
+	* Poor selection of investigations  
+	Asking for 'routine' investigations, rather than targeted and high-yield investigations.
+	* Poor interpretation of investigations
+	* Poor integration of investigations to history and examination
+
+
+### Medical Viva
+
+Assessment:
+
+* Demographics
+* Severity and Stability
+* Symptoms and Signs
+* Impact on function
+* Risk factors
+* Treatment and treatment adherence
+
+
+Present:
+
+* Demographic details  
+Age, sex.
+* Stability and severity of disease  
+Use a scoring system or give a general impression.
+* History and examination findings supporting severity grading  
+Relevant positive and negatives.
+* Complications and common comorbidities
+* Risk factors
+* Treatments
