@@ -26,7 +26,7 @@ Include:
 * Eye injury  
 Lasers cause tissue destruction by heating water. Different wavelengths cause tissue injury at different depths:
 	* Long-wavelength  
-	CO<sub>2</sub> and Er:YAG lasers may burn the cornea directly.
+	CO~2~ and Er:YAG lasers may burn the cornea directly.
 		* Usually not permanent
 		* Very painful
 	* Mid-range infrared  
@@ -110,7 +110,7 @@ If lasering in the airway:
 	* Fill cuffs with saline
 	* Silicone tubes produces a powdery silica ash
 	* PVC are flammable and produce hydrogen chloride and phosgene, which cause chemical pneumonitis
-* Keep FiO<sub>2</sub> ⩽30%
+* Keep FiO~2~ ⩽30%
 * Tube soiling increases risk with Nd:YAG laser
 
 ---

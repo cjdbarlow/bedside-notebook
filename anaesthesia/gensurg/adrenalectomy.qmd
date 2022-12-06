@@ -54,7 +54,7 @@ Consider for phaeochromocytoma with impaired cardiac function.
 ## Induction
 
 * Gentle IV induction with paralysis  
-Consider intubation with 3-5μg/kg fentanyl and 50mg/kg MgSO<sub>4</sub>, followed by MgSO<sub>4</sub> infusion at 1-2g/hr.
+Consider intubation with 3-5μg/kg fentanyl and 50mg/kg MgSO~4~, followed by MgSO~4~ infusion at 1-2g/hr.
 * Ensure adequate depth prior to stimulation
 
 
@@ -76,7 +76,7 @@ Reversible non-selective α-antagonist. Short duration of action; may demonstrat
 Combined α- & β-antagonist. 
 * SNP 0.5-1.5μg/kg/min, up to 4μg/kg/min  
 * GTN 0.5-10μg/kg/min
-* MgSO<sub>4</sub> 1-2g IV
+* MgSO~4~ 1-2g IV
 * Nicardipine  
 If in America.
 
@@ -145,7 +145,7 @@ Key considerations:
 * D
 	* Return to normal insulin sensitivity  
 	Hypoglycaemia can occur from relative insulin excess; monitor Q2H.
-* E<sub>2</sub>
+* E~2~
 	* Hypoadrenocorticism
 		* Usually only occurs if bilateral resection
 		* Requires gluco/mineralocorticoid replacement  

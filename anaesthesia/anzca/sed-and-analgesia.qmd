@@ -46,7 +46,7 @@ Aiming to identify patients at increased risk of airway or cardiorespiratory com
 	* Airway equipment
 	* Resuscitation drugs
 	* Monitoring  
-	Including ETCO<sub>2</sub>.
+	Including ETCO~2~.
 	* Access to ECG and defibrillator
 	* Oxygen  
 	100% oxygen if anaesthetic gases are used.

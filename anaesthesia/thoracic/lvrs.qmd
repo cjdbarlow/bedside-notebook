@@ -34,7 +34,7 @@ Approach is variable and may be:
 **Assessment:**
 * Respiratory function  
 Typically severe emphysema, with:
-	* FEV<sub>1</sub> <50%
+	* FEV~1~ <50%
 	* Low DLCO
 	* Increased TLC/RV
 * Cardiac function  
@@ -67,7 +67,7 @@ Especially if placing epidural, for administration of vasoactives.
 * Ventilation
 	* Lung isolation
 	* Avoid high inflation pressures  
-		* Usually **<20cmH<sub>2</sub>O** to reduce risk of air leak
+		* Usually **<20cmH~2~O** to reduce risk of air leak
 		* PCV ideal
 	* Ensure adequate expiratory time; may require tolerating moderate hypercapnoea
 * Anaesthesia

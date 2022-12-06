@@ -51,7 +51,7 @@ Choice of transportation vehicle will depend on:
 
 Pressure effects:
 
-* Reduced PO<sub>2</sub>
+* Reduced PO~2~
 * Requirement for pressurisation
 * Risk of rapid depressurisation
 * Expansion of gases

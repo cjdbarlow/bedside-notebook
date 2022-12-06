@@ -30,7 +30,7 @@ Due to redistribution in blood volume:
 		* ↑ PCWP
 		* ↑ LVEDP
 * Contractility  
-Effect varies depending on **capacity to ↑ coronary flow** in the setting of ↑ O<sub>2</sub> demand:
+Effect varies depending on **capacity to ↑ coronary flow** in the setting of ↑ O~2~ demand:
 	* Adequate coronary supply  
 	↑ Contractility as a response to ↑ in preload and afterload.  
 		* CO may increase 10-30%.
@@ -45,7 +45,7 @@ Short-term effects:
 Will occur if the increase in LVEDP exceeds the rise in aortic root pressure.
 * ↓ Global oxygen consumption  
 Both distal and proximal to clamp.
-	* ↑ MV PO<sub>2</sub>
+	* ↑ MV PO~2~
 * ↓ Spinal perfusion pressure  
 Due to combination of:
 	* ↓ Spinal blood flow
@@ -85,7 +85,7 @@ Post-clamping:
 
 Immediate effects:
 
-* ↑ ETCO<sub>2</sub>  
+* ↑ ETCO~2~  
 Due to ischaemic washout.
 	* **Minimise washout** by **unclamping each lower limb separately**
 	* Also present:
@@ -135,12 +135,12 @@ Preload:
 
 Contractility:
 
-* CaCl<sub>2</sub>
+* CaCl~2~
 	* Inotropy
 	* Myocardial membrane stability  
 	In preparation for hyperkalaemic washout.
 	* Blood product calcium chelation
-* NaHCO<sub>3</sub>  
+* NaHCO~3~  
 In preparation for acidosis.
 * Adrenaline  
 Consider:

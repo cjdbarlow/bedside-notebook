@@ -69,7 +69,7 @@ Impairment present in 60%.
 Categorised using the Gross Motor Function Classification System (GMFCS):
 
 * Evaluates mobility
-* Generally will not improve after 5<sup>th</sup> year of life
+* Generally will not improve after 5^th^ year of life
 * Uses five categories:
 	* Level 1
 		* Can walk, run, and climb stairs without rails

@@ -129,7 +129,7 @@ Ensure the cervical spine is cleared before testing the oculocephalic reflex.
 * **Corneal reflex**\
 Tests V~1~, III (eye movement) and VII (blink).
     * A drop of saline or wisp of cotton should be applied to the cornea\
-    Patient should not see the or hear the stimulus, otherwise this will not test V<sub>1</sub>.
+    Patient should not see the or hear the stimulus, otherwise this will not test V~1~.
     * Reflex is present if they blink or look upwards
 * **Occulo-cephalic reflex**\
 A milder version of the cold caloric reflex that can be performed in unconscious patients. Tests CN III, VI, VIII.
@@ -266,7 +266,7 @@ Tests CN III, IV, VI
 
 * **Facial Sensation**
     * Trigeminal sensation  
-    Tests CN V<sub>1</sub>, V<sub>2</sub>, V<sub>3</sub>.
+    Tests CN V~1~, V~2~, V~3~.
 
 
 * **Facial Expression**  

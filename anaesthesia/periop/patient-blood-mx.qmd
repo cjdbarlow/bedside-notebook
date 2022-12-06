@@ -67,7 +67,7 @@ Assess 4-6 weeks preoperatively:
 			* Sickle-cell
 		* Macrocytic  
 		MCV ⩾96 fl. Major causes are:
-			* Folate/Vitamin B<sub>12</sub> deficiecy
+			* Folate/Vitamin B~12~ deficiecy
 			* Alcohol
 			* Drug effect
 	* MCHC
@@ -164,7 +164,7 @@ Postoperatively involves:
 
 Goals are to:
 
-* Maintain DO<sub>2</sub>
+* Maintain DO~2~
 	* Optimise CO
 	* Optimise oxygenation and ventilation
 	* Use appropriate transfusion thresholds  
@@ -172,7 +172,7 @@ Goals are to:
 		* Hb 80g/dL in patients with cardiac disease
 		* Transfuse smallest volume possible  
 		i.e. Single units, if clinically appropriate.
-* Minimise excess VO<sub>2</sub>
+* Minimise excess VO~2~
 	* Rapidly treat infections/sepsis
 
 

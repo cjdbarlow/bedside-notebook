@@ -27,7 +27,7 @@ A place for recovery from anaesthesia
 Must have:
 
 * Midwives competent in obstetric epidural management, if used
-* A minimum FiO<sub>2</sub> of 0.3 if inhalational analgesia used
+* A minimum FiO~2~ of 0.3 if inhalational analgesia used
 * Exclusive anaesthetic suction
 * Separate oxygen outlets for mother and neonate
 * Neonatal resuscitation equipment

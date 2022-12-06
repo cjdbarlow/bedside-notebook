@@ -39,7 +39,7 @@ Stratify to:
 	* Curative-intent
 	* Defined limits of resection
 * Ventilator weaning and post-operative disposition  
-Dependent on PPO FEV<sub>1</sub>:
+Dependent on PPO FEV~1~:
 	* ⩾40%  
 	Extubate in operating room.
 	* 30-40%  
@@ -80,32 +80,32 @@ Insertion of a DLT is more difficult than SLT.
 >	* Resection
 >	* [One-lung ventilation](/management/resp/olv.md)
 > * Broadly speaking, resection is appropriate if:
->	* FEV<sub>1</sub> ⩾1.5L for lobectomy
->	* FEV<sub>1</sub> ⩾2.0L or 80% predicted for pneumonectomy
+>	* FEV~1~ ⩾1.5L for lobectomy
+>	* FEV~1~ ⩾2.0L or 80% predicted for pneumonectomy
 
 
 
 The "3-legged" stool of respiratory assessment evaluates a patients ability to **tolerate** removal of an **anatomically resectable** lung cancer. Many approaches have been described; institutional practice will vary depending on the availability of more advanced investigations (e.g. CPET) testing. This is one approach:
 
 * Perform **Spirometry**  
-FEV<sub>1</sub> and DLCO are:
+FEV~1~ and DLCO are:
 	* ⩾60% of predicted  
 	Proceed to surgery.
 	* <60% of predicted
 		* Estimate **predicted postoperative lung function**  
-		FEV<sub>1</sub> and DLCO are:
+		FEV~1~ and DLCO are:
 			* ⩾40% of predicted  
 			Proceed to surgery.
 			* <40% of predicted  
 			Perform **CPET testing**  
 				* Not always available, and not always performed
 				* As measured by **CPET**, or surrogate
-				* VO<sub>2</sub> max >15mL/kg/min  
+				* VO~2~ max >15mL/kg/min  
 				Can proceed to surgery. Most useful predictor of outcome. Indicated by:
 					* Stair climb ⩾2 flights
 					* 6 minute walk test ⩾610m
-					* Exercise SpO<sub>2</sub> <4%)
-				* VO<sub>2</sub> max
+					* Exercise SpO~2~ <4%)
+				* VO~2~ max
 					* ⩾10mL/kg/min  
 					*May*, in certain circumstances, proceed to surgery.
 					* <10mL/kg/min  
@@ -120,7 +120,7 @@ Predicting post-operative function:
 * Estimates the proportion of lung function lost by resection
 	* Assumes that all lung segments contribute equally to function  
 	Usually not the case as diseased units will inherently perform less well.
-* Performed for both FEV<sub>1</sub> and DLCO  
+* Performed for both FEV~1~ and DLCO  
 Calculated as $$PPO FEV_1 = Preoperative \ FEV_1 \times {Number \ of \ segments \ initially - Number \ of segments \ resected \over Number \ of \ segments \ initially}$$
 	* Normal is **19 segments**
 
@@ -131,10 +131,10 @@ Elevated risk seen with:
 
 * Abnormal blood gases  
 Historically used, but convey increase risk if:
-	* PaO<sub>2</sub> >60mmHg
-	* PaCO<sub>2</sub> <45mmHg
-* VO<sub>2</sub>max <15mL/kg/min have very high morbidity and mortality
-	* VO<sub>2</sub>max >20mL/kg/min have few respiratory complications
+	* PaO~2~ >60mmHg
+	* PaCO~2~ <45mmHg
+* VO~2~max <15mL/kg/min have very high morbidity and mortality
+	* VO~2~max >20mL/kg/min have few respiratory complications
 
 ---
 

@@ -51,7 +51,7 @@ Key factors:
 
 * Appropriate timing
 * Thrombocytopenia  
-Either <150 x10<sup>9</sup>/L or decrease by >50%.
+Either <150 x10^9^/L or decrease by >50%.
 * Thrombosis
 
 
@@ -72,7 +72,7 @@ Differentials include:
 FBE:
 
 * Thrombocytopenia  
-Usually to ~60x10<sup>9</sup>/L.
+Usually to ~60x10^9^/L.
 
 
 Serotonin release assay:
@@ -103,13 +103,13 @@ Transition to a non-heparinoid anticoagulant:
 	* Fondaparinux  
 	Useful for CVTI prophylaxis.
 * Vitamin K antagonist  
-Only when platelet count is >150 x10<sup>9</sup>/L due to risk of worsening thrombosis.
+Only when platelet count is >150 x10^9^/L due to risk of worsening thrombosis.
 * DOAC
 
 
 Platelet transfusion:
 
-* If platelets <20 x10<sup>9</sup>/L
+* If platelets <20 x10^9^/L
 
 
 Consider plasmapheresis:

@@ -37,7 +37,7 @@ Repeat doses are indicated if:
 	Usually re-dose at **two half-lives**.
 	* Significant **blood loss**  
 	**⩾1.5L**, independent of antibiotic used.  
-	Dependent on V<sub>D</sub>; low V<sub>D</sub> indicates greater amount of antibiotic lost in blood.
+	Dependent on V~D~; low V~D~ indicates greater amount of antibiotic lost in blood.
 
 
 ### Antibiotic Selection

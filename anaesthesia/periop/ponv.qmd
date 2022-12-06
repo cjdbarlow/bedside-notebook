@@ -73,7 +73,7 @@ Include:
 * Regional anaesthesia
 * Acupuncture
 * Antiemetic prophylaxis
-	* 5-HT<sub>3</sub> antagonists  
+	* 5-HT~3~ antagonists  
 	Give at end of surgery.
 		* Ondansetron 4-8mg
 		* Granisetron 0.3-3mg
@@ -93,7 +93,7 @@ Include:
 ### Rescue Interventions
 
 > * Treatment should use a different agent to the initial prophylaxis
-> * If no prophylaxis given, then initial treatment should be with a 5-HT<sub>3</sub> antagonist
+> * If no prophylaxis given, then initial treatment should be with a 5-HT~3~ antagonist
 
 * Propofol 20mg  
 Effective but brief.
@@ -103,8 +103,8 @@ Effective but brief.
 
 |Drug|Class|Dose|Timing for prophylaxis|
 |--|--|
-|Ondansetron|5-HT<sub>3</sub> antagonist|4mg|End of surgery|
-|Granisetron|5-HT<sub>3</sub> antagonist|0.3-3mg|End of surgery|
+|Ondansetron|5-HT~3~ antagonist|4mg|End of surgery|
+|Granisetron|5-HT~3~ antagonist|0.3-3mg|End of surgery|
 |Dexamethasone|Corticosteroid|4mg|Induction|
 |Droperidol|Butyrophenones|0.625-1.25mg|End of surgery|
 |Aprepitant|NK-1 antagonist|40mg PO|Induction|

@@ -93,7 +93,7 @@ High-risk surgeries include:
 	* Retinal surgery
 	* Prostatectomy
 * Adjust medications
-	* Cease P2Y<sub>12</sub> inhibitor:
+	* Cease P2Y~12~ inhibitor:
 		* In high or intermediate risk surgery
 		* Restart and **reload** after 24-72 hours
 	* Continue aspirin if at all possible  

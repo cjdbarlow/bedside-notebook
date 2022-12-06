@@ -1,7 +1,7 @@
 # Intrauterine Resuscitation
 
 
-> General principle is to optimise foetal DO<sub>2</sub> by:
+> General principle is to optimise foetal DO~2~ by:
 > * Improving uterine perfusion pressure
 >	* Increasing systemic driving pressure
 >	* Reducing intrauterine pressure
@@ -30,7 +30,7 @@ Rarely associated with severe hypotension.
 	* Opioids
 	* Nitrous oxide
 	* Post-contraction  
-	Hypoventilatory period occurring due to low PaCO<sub>2</sub> after a contraction.
+	Hypoventilatory period occurring due to low PaCO~2~ after a contraction.
 * Placental abruption
 * Foetal haemorrhage
 	* Vasa praevia
@@ -61,7 +61,7 @@ If foetal distress is not corrected by fixing reversible factors.
 
 ### Second-line Strategies
 
-* Administer 15L/min O<sub>2</sub>  
+* Administer 15L/min O~2~  
 	* Placental transfer of oxygen is driven by tension (mmHg) rather than content (ml/100ml), and so this may be effective even in a normoxic mother
 	* Evidence supporting this practice is inconsistent, and potential harms have limited this practice
 * Alternate maternal position  

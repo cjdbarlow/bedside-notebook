@@ -4,7 +4,7 @@
 Low-flow anaesthesia:
 
 * Requires a FGF less than the patients MV  
-Therefore requires a rebreathing system and a CO<sub>2</sub> absorber.
+Therefore requires a rebreathing system and a CO~2~ absorber.
 * Typically uses FGF of 1L/min
 * In absence of leak, flow can be reduced to the gas volume that a patient is absorbing and metabolising  
 This has lead to:
@@ -46,9 +46,9 @@ If oxygen consumption exceeds oxygen delivery:
 	* Circuit volume will decrease  
 	As the overall volume of gas has decreased.
 	* Circuit mixture will become relatively hypoxic  
-	Oxygen is consumed, however nitrogen and inhalational agent amounts remain constant; this results in a decreased FiO<sub>2</sub>.
+	Oxygen is consumed, however nitrogen and inhalational agent amounts remain constant; this results in a decreased FiO~2~.
 * Increased soda-lime concentration  
-As less CO<sub>2</sub> will be scavenged, soda-lime consumption will increase.
+As less CO~2~ will be scavenged, soda-lime consumption will increase.
 * Loss of circuit volume  
 Indicated by decrease in minute ventilation, peak airway pressure, and collapse of the bellows or resevoir bag.
 	* Increase FGF to overcome leak
@@ -65,7 +65,7 @@ Adequate FGF must be used to ensure washout of toxic gases.
 	* Carbon monoxide
 * Cyanide toxicity
 * Malignant hyperthermia  
-As volatile agents will be ceased, there is no benefit to low-flow techniques. Additionally, high FGF is required to ensure adequate washout of CO<sub>2</sub>. 
+As volatile agents will be ceased, there is no benefit to low-flow techniques. Additionally, high FGF is required to ensure adequate washout of CO~2~. 
 * Alcohol intoxication  
 Prevents pulmonary clearance of gaseous alcohol.
 * Acetone poisoning
@@ -83,8 +83,8 @@ In severe cases, may lead to accumulation of gaseous acetone in the circuit.
 	* Free of circuit leaks
 
 
-* Estimate VO<sub>2</sub>
-	* VO<sub>2</sub> can be crudely measured using the Brody Formula: $$ VO_2 = 3.5 \times kg$$  
+* Estimate VO~2~
+	* VO~2~ can be crudely measured using the Brody Formula: $$ VO_2 = 3.5 \times kg$$  
 	This typically overestimates consumption by 10-20%, which introduces a margin of safety.
 * Set an FiO2 alarm  
 e.g. 30%.
@@ -98,15 +98,15 @@ Desflurane and sevoflurane are better agents for use with low-flow techniques du
 
 * Standard Induction
 * Initial Phase
-	* FGF of 4L/min with 40% FiO<sub>2</sub>  
-	3L/min air, 1L/min O<sub>2</sub>; will lead to an FiO<sub>2</sub> of 35-40%.
+	* FGF of 4L/min with 40% FiO~2~  
+	3L/min air, 1L/min O~2~; will lead to an FiO~2~ of 35-40%.
 	* Vaporiser:
 		* Sevoflurane 3.5%
 		* Isoflurane 2.5%
 		* Desflurane 6%
 * At target MAC (0.8-1)
-	* Decrease FGF to 0.5L/min with 68% FiO<sub>2</sub>  
-	0.3L/min air, 0.2L/min O<sub>2</sub>.
+	* Decrease FGF to 0.5L/min with 68% FiO~2~  
+	0.3L/min air, 0.2L/min O~2~.
 	* Increase vaporiser:
 		* Sevoflurane 5%
 		* Isoflurane 5%
@@ -128,21 +128,21 @@ Desflurane and sevoflurane are better agents for use with low-flow techniques du
 	* Set vaporiser to 0% ~10 minutes prior to end of operation
 	* Continue FGF at 0.5L/min
 	* Begin spontaneous ventilation
-	* At the last suture, purge system with 100% O<sub>2</sub> at 6L/min  
+	* At the last suture, purge system with 100% O~2~ at 6L/min  
 	Increasing the FGF above this does not appreciably decrease the time for washout, as at 6L/min rebreathing fraction is only ~2.5%.
 
 ### Template for Minimal-Flow Anaesthesia with Oxygen and Nitrous Oxide
 
 * Standard induction
 * Initial Phase
-	* FGF of 4.4L/min with 32% FiO<sub>2</sub>  
-	1.4L/min O<sub>2</sub> and 3L/min N<sub>2</sub>O; will lead to an FiO<sub>2</sub> of 30-40%.
+	* FGF of 4.4L/min with 32% FiO~2~  
+	1.4L/min O~2~ and 3L/min N~2~O; will lead to an FiO~2~ of 30-40%.
 	* Vaporiser:
 		* Sevoflurane 2-2.5%
 		* Isoflurane 1-1.5%
 		* Desflurane 4-6%
 * At target MAC (0.8-1)
-	* Reduce FGF to 0.5L/min (0.3L/min O<sub>2</sub> and 0.2L/min N<sub>2</sub>O)
+	* Reduce FGF to 0.5L/min (0.3L/min O~2~ and 0.2L/min N~2~O)
 	* Increase vaporiser:
 		* Sevoflurane 3-3.5%
 		* Isoflurane 2.5%
@@ -164,7 +164,7 @@ Desflurane and sevoflurane are better agents for use with low-flow techniques du
 	* Set vaporiser to 0% ~10-15 minutes prior to end of operation
 	* Continue FGF at 0.5L/min
 	* Begin spontaneous ventilation
-	* At the last suture, purge the system with 100% O<sub>2</sub> at 6L/min
+	* At the last suture, purge the system with 100% O~2~ at 6L/min
 
 
 

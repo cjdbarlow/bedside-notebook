@@ -27,7 +27,7 @@ Supply/demand mismatch.
 	Requires:
 		* Cardiac myonecrosis  
 		Enzymatic leak.
-		* Presence of clinical DO<sub>2</sub>/VO<sub>2</sub> mismatch
+		* Presence of clinical DO~2~/VO~2~ mismatch
 		* Lack of clinical picture for ACS
 * Type III  
 Death with symptoms or ECG findings suggestive of ischaemia, but occurring prior to biomarker collection.
@@ -183,7 +183,7 @@ Indicated by:
 Acute pharmacotherapy:
 
 * Oxygen  
-Target SpO<sub>2</sub> >93%, and **withhold oxygen** if saturations are above this.
+Target SpO~2~ >93%, and **withhold oxygen** if saturations are above this.
 * GTN  
 Indicated if ongoing pain and no contraindications (e.g. hypotension)
 	* Give: 0.3-0.6mg SL tablet or spray Q5Min
@@ -192,7 +192,7 @@ Indicated if ongoing pain and no contraindications (e.g. hypotension)
 Give fentanyl or morphine if ongoing pain.
 * Aspirin 300mg  
 For all patients.
-* P2Y<sub>12</sub> inhibitor  
+* P2Y~12~ inhibitor  
 For confirmed ACS with intermediate to very-high risk of recurrence. Consider:
 	* Ticagreolor
 	* Prasugrel

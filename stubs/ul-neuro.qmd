@@ -55,7 +55,7 @@ The major terminal branches include:
 	* Motor: Flexion of fingers
 * Ulnar nerve
 	* Sensation to the medial 1.5 fingers, the ulnar border of the hand (including the dorsum), and sometimes the ulnar part of the forearm
-	* Motor: Flexion of 4<sup>th</sup> and 5<sup>th</sup> digits and opposition of 1<sup>st</sup> digit
+	* Motor: Flexion of 4^th^ and 5^th^ digits and opposition of 1^st^ digit
 	* Most effectively blocked with a targeted axillary block
 * Musculocutaneous nerve
 	* Sensation to the lateral aspect of the forearm

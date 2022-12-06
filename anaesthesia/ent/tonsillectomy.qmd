@@ -29,7 +29,7 @@ Primary pathology may affect choice of premedication, opioids, and choice of dis
 * B
 	* Presence and severity of OSA will affect
 		* Secondary effects
-			* CO<sub>2</sub> retention
+			* CO~2~ retention
 			* Failure to thrive
 			* Cor pulmonale
 		* Sensitivity to opioids and sedatives  
@@ -39,7 +39,7 @@ Primary pathology may affect choice of premedication, opioids, and choice of dis
 	* Risk factors for post-operative apnoea
 		* Age ⩽3
 		* Moderate-severe OSA
-		* Overnight nadir SpO<sup>2</sup> ⩽90%
+		* Overnight nadir SpO^2^ ⩽90%
 		* Ex-premature
 		* Under/overweight
 		* Syndromic

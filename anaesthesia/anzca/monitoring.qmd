@@ -18,11 +18,11 @@ Regular monitoring should include assessment and recording of:
 Continuously. Adequate light should be available.
 	* Pulse oximetry is required for every GA or sedation  
 	Variable pulse tone and alarm should be set and audible.
-	* An oxygen analyser (for low FiO<sub>2</sub>) must be in continuous use for every case involving an anaesthetic breathing system
+	* An oxygen analyser (for low FiO~2~) must be in continuous use for every case involving an anaesthetic breathing system
 * Ventilation  
 Continuously.
 	* If an automatic ventilator is in use, an alarm for a disconnection must also be in use
-	* ETCO<sub>2</sub>:
+	* ETCO~2~:
 		* Must be used for every GA
 		* Should be available for every sedation
 * Circulation  

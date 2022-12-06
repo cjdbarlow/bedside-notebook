@@ -13,8 +13,8 @@ Essentially a historical relic.
 
 In general, maximal anaesthetic doses should be:
 
-* Ropivacaine 3-4mg.kg<sup>-1</sup>.6 hours<sup>-1</sup>
-* Bupivacaine 2-3mg.kg<sup>-1</sup>.6 hours<sup>-1</sup>
+* Ropivacaine 3-4mg.kg^-1^.6 hours^-1^
+* Bupivacaine 2-3mg.kg^-1^.6 hours^-1^
 * Reducedin:
     * Hepatic failure
     * Renal failure

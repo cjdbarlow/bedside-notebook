@@ -86,7 +86,7 @@ Relative:
 ## Principles
 
 * Effect of:
-	* Bolus doses of propofol are mostly determined by V<sub>D</sub>
+	* Bolus doses of propofol are mostly determined by V~D~
 	* Infusion rates are mostly determined by clearance
 
 ## TIVA Models
@@ -120,7 +120,7 @@ All models perform well in practice, and any are reasonable. After 10 minutes th
 		* Greater haemodynamic stability/Longer induction time
 	* Paediatrics
 		* Models not as refined as adults  
-		Generally require larger initial bolus (greater V<sub>1</sub>) and infusion rate (increased clearance)
+		Generally require larger initial bolus (greater V~1~) and infusion rate (increased clearance)
 		* Note highly variable propofol pharmacokinetics in neonates
 		* Widely available models include:
 			* **Paedfusor**  

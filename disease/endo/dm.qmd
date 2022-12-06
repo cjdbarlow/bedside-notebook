@@ -123,8 +123,8 @@ Management of insulin depends on:
 |Type of Insulin|Trade Names|Day PRIOR to procedure|Morning of procedure; for an AM list|Morning of procedure; for a PM list|
 |---|---|
 |Short Acting|- Novorapid <br>- Humalog <br>- Actrapid<br>|- Usual doses<br>- **Half** usual dose during bowel **preparation**|- Withhold<br>- Give sliding scale|- Half usual dose with early morning breakfast|
-|Intermediate Acting|- Protaphane <br>- Humulin NPH|- Give 2/3<sup>rds</sup> of usual dose<br>- **Half** usual dose during bowel **preparation**|- Withhold<br>- Give sliding scale|- Half usual dose with early morning breakfast|
-|Long Acting/Basal|- Lantus<br>- Levemir|- Give 2/3<sup>rds</sup> of usual dose<br>- **Half** usual dose during bowel **preparation**|-  Give 2/3<sup>rds</sup> of usual dose<br>|- Give 2/3<sup>rds</sup> of usual dose<br>|
+|Intermediate Acting|- Protaphane <br>- Humulin NPH|- Give 2/3^rds^ of usual dose<br>- **Half** usual dose during bowel **preparation**|- Withhold<br>- Give sliding scale|- Half usual dose with early morning breakfast|
+|Long Acting/Basal|- Lantus<br>- Levemir|- Give 2/3^rds^ of usual dose<br>- **Half** usual dose during bowel **preparation**|-  Give 2/3^rds^ of usual dose<br>|- Give 2/3^rds^ of usual dose<br>|
 |Pre-mixed|- Novomix 30<br>- Humalog Mix 25/Humalog Mix 50<br>- Mixtard 30/70|- Give normal dose with dinner<br>- **Half** usual dose during bowel **preparation**|- Withhold<br>- Give sliding scale|- Half usual dose with early morning breakfast<br>- Give sliding scale|
 
 ### Perioperative Hypoglycaemia Management
@@ -242,7 +242,7 @@ Maternal diabetes:
 		* Placental insufficiency  
 			* Uteroplacental blood flow is reduced 35-45%  
 			Additional impairment if blood glucose control is poor.
-			* Reduced oxygen transport on HbA<sub>1c</sub>
+			* Reduced oxygen transport on HbA~1c~
 		* Foetal macrosomia
 			* Shoulder dystocia
 		* Increased foetal acidosis at delivery

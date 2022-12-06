@@ -107,9 +107,9 @@ Once induced, priorities are to:
 
 * **Anaesthetise cords**  
 	* Initial dose of lignocaine 4mg/kg:
-		* 1/3<sup>rd</sup> of volume above cords  
+		* 1/3^rd^ of volume above cords  
 		May precipitate coughing, indicating depth of anaesthesia is inadequate.
-		* 2/3<sup>rds</sup> of volume below cords
+		* 2/3^rds^ of volume below cords
 	* Regular maintenance of 2mg/kg lignocaine Q20-25 minutes
 	* Can bolus remifentanil 0.5μg/kg if ongoing airway reactivity  
 * Maintain **oxygenation**
@@ -119,7 +119,7 @@ Once induced, priorities are to:
 	* Via high-flow humidified nasal oxygen
 * Maintain **spontaneous ventilation**  
 	* Keep a hand on the chest during rigid bronchoscopy to monitor respiratory rate  
-	* Remember ETCO<sub>2</sub> is unreliable or unavailable with either mechanism of oxygenation
+	* Remember ETCO~2~ is unreliable or unavailable with either mechanism of oxygenation
 	* Positive pressure ventilation or assisted ventilation may be required if respiratory effort becomes inadequate
 * Maintain of **anaesthesia**
 	* Too light  

@@ -125,8 +125,8 @@ Preoperative investigations should include:
 * B
 	* Obstructive lung disease  
 	Postoperative complications predicted by:
-		* FEV<sub>1</sub> ⩽60%
-		* PCO<sub>2</sub> >50mmHg
+		* FEV~1~ ⩽60%
+		* PCO~2~ >50mmHg
 * D
 	* Volatile anaesthesia has greater bronchodilation than TIVA
 * E

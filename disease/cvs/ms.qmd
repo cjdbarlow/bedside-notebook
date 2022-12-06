@@ -4,7 +4,7 @@
 Mitral stenosis is:
 
 * Narrowing of the mitral valve orifice, leading to a fixed-cardiac output state with a pressure-overloaded (and typically subsequently volume-overloaded) left atrium  
-Normal area is >4cm<sup>2</sup>.
+Normal area is >4cm^2^.
 
 
 MS is classified:
@@ -21,7 +21,7 @@ Using either:
 |--|--|--|
 |MPG|<5mmHg|6-10mmHg|>10mmHg|
 |Pressure half-time|<139ms|140-219ms|>220ms|
-|Valve area|1.6-2.0cm<sup>2</sup>|1.5-1cm<sup>2</sup>|<1cm<sup>2</sup>|
+|Valve area|1.6-2.0cm^2^|1.5-1cm^2^|<1cm^2^|
 
 
 ## Epidemiology and Risk Factors
@@ -49,7 +49,7 @@ Causes include:
 * **MS**  
 Most common cause.
 	* Rarer aetiology in developed countries
-	* Typically worsens at the rate of 0.1-0.3cm<sup>2</sup>/year  
+	* Typically worsens at the rate of 0.1-0.3cm^2^/year  
 	More rapid in cases of repeated infection.
 
 

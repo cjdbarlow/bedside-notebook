@@ -19,7 +19,7 @@ Minimise:
 * **I**schaemia
 	* Maintain CPP  
 	Maintain DBP.
-	* Minimise MVO<sub>2</sub>
+	* Minimise MVO~2~
 	* Minimise stress factors
 * **L**ow BP  
 Especially in left main disease, pulmonary hypertension, and AS.
@@ -166,7 +166,7 @@ Premedication:
 Lines and monitoring:
 
 * 5-lead ECG
-* SpO<sub>2</sub>
+* SpO~2~
 * Arterial line and large bore cannula  
 Should be placed awake and on the **right side** if surgeons are not planning on using this vessel.
 	* Left sided arteries and vessels lie closer to the sternum  

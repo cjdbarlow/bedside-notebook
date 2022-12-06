@@ -34,7 +34,7 @@ Predictors:
 		* Failure
 		* Stroke/TIA
 		* Arrhythmias
-	* NYHA III/IV or resting SpO<sub>2</sub> <90%
+	* NYHA III/IV or resting SpO~2~ <90%
 	* High-risk valve disease/LVOT obstruction
 	* Mild or greater systemic ventricular dysfunction
 	* No previous cardiac intervention
@@ -169,7 +169,7 @@ Complications occur in 20-38% of women with cardiac disease, with key risk facto
 Assessment aims are to determine level of function:
 
 * Exercise tolerance
-* HR, BP, and SpO<sub>2</sub>
+* HR, BP, and SpO~2~
 * Medical therapy  
 With particular attention to:
 	* Amiodarone
@@ -226,7 +226,7 @@ Delivery:
 * C
 	* Nature of lesion
 		* Shunts  
-		Required SpO<sub>2</sub> and ETCO<sub>2</sub>.
+		Required SpO~2~ and ETCO~2~.
 		* Air embolisation
 	* Vascular access
 	* **Circulation goals**

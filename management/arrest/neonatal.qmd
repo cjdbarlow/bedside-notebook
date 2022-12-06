@@ -67,7 +67,7 @@ Follows an ABC approach:
 	* Commence **PPV with room air** if HR ⩽100 after drying and stimulation  
 	Generally Pip 30, PEEP 5, at a rate of 40-60/minute.
 	* Transition to **100% oxygen if**:
-		* SpO<sub>2</sub> is ⩽70% **at 5 minutes**
+		* SpO~2~ is ⩽70% **at 5 minutes**
 		* HR ⩽100/min after 1 minute of PPV
 		* Preparing for intubation
 		* HR ⩽60/min and chest compressions indicated
@@ -83,12 +83,12 @@ Follows an ABC approach:
 		* Polyethylene bag if ⩽1500g
 
 
-### Target SpO<sub>2</sub>
+### Target SpO~2~
 
 > A rough rule of thumb is that the lower limit at birth is 60%, and increases by ~5% every minute
 
 
-SpO<sub>2</sub> should be measured **pre-ductally**, i.e. on the right arm or ear:
+SpO~2~ should be measured **pre-ductally**, i.e. on the right arm or ear:
 
 |Time (minutes)|Saturation|
 |--|--|

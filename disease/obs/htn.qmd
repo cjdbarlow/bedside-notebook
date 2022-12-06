@@ -9,7 +9,7 @@ Hypertension in pregnancy is:
 * Classified into four sub-groups:
 	* **Gestational hypertension**
 		* SBP > 140mmHg *or* DBP > 90mmHg
-		* Present after 20<sup>th</sup> week of gestation
+		* Present after 20^th^ week of gestation
 		* Resolving following delivery  
 	Usually within 6 weeks.
 	* **Preeclampsia/Eclampsia**
@@ -139,7 +139,7 @@ Pre-eclampsia is classified by:
 		* Haematological
 			* Haemolysis
 			* Thrombocytopenia  
-			⩽100 x 10<sup>9</sup>sup>/L.
+			⩽100 x 10^9^sup>/L.
 			* DIC
 		* Uteroplacental circulation
 			* Placental abruption
@@ -227,7 +227,7 @@ Treatment revolves around:
 		* Multifactorial mechanism of action:
 			* Increased prostacyclin synthesis
 			* Decreases calcium influx  
-			Thereby decreasing ATP-consuming Ca<sup>2+</sup>-dependent processes.
+			Thereby decreasing ATP-consuming Ca^2+^-dependent processes.
 			* NMDA antagonism
 		* Give **4g over 20 minutes**, and then **1g/hr** thereafter
 		* Target level is **1.7-3.5mmol/L**
@@ -244,20 +244,20 @@ Treatment revolves around:
 
 Timing of delivery is dependent on gestational age at time of onset of pre-eclampsia:
 
-* Previable (< 23<sup>6</sup> weeks)
+* Previable (< 23^6^ weeks)
 	* High risk patient
 	* Will likely require either:
 		* Termination of pregnancy
 		* Extreme preterm delivery
-* 24-31<sup>6</sup> weeks
+* 24-31^6^ weeks
 	* High risk patient
 	* Transfer to tertiary institution
 	* Will likely require pre-term delivery
 	* Aim to prolong pregnancy as able
-* 32-36<sup>6</sup> weeks
+* 32-36^6^ weeks
 	* Aim to prolong pregnancy
 	* Delivery where appropriate paediatric support is available
-* 37<sup>0</sup>
+* 37^0^
 	* Planned delivery
 
 

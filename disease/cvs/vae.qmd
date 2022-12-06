@@ -41,7 +41,7 @@ VAE may be graded by its clinical severity:
 	* ↑ HR and ↑ BP  
 	Due to ↑ SNS tone.
 	* ↑ PAP
-	* ↓ E<sub>T</sub>CO<sub>2</sub>  
+	* ↓ E~T~CO~2~  
 	Due to shunt. A drop in end-tidal is **always significant**.
 	* Bubbles visibile on TOE
 * Large  

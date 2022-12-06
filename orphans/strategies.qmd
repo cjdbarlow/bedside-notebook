@@ -16,7 +16,7 @@ Post-induction checklist:
 	* Intact
 * Breathing
 	* What are they breathing?  
-	Gases, FiO<sub>2</sub>.
+	Gases, FiO~2~.
 	* How are they breathing?  
 	Mode, pressure values.
 	* Is it adequate?
@@ -89,7 +89,7 @@ Diluted propofol:
 
 Gentle gas induction to minimise smell of sevoflurane:
 
-* 50-70% FiN<sub>2</sub>O
+* 50-70% FiN~2~O
 * Start sevoflurane at 0.5%
 * Double sevoflurane concentration every:
 	* 4-5 breaths

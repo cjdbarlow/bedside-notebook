@@ -23,10 +23,10 @@ Coughing/bucking/Valsalva, hypertension.
 	* **Cuff leak** if prolonged intubation or prone
 * B
 	* Is there adequate oxygenation, and can they oxygenate without support?
-		* FiO<sub>2</sub>
+		* FiO~2~
 		* PEEP requirement
 	* Is there adequate ventilation, and can they ventilate without support?
-		* ETCO<sub>2</sub>
+		* ETCO~2~
 		* Pressure Support requirement
 	* Can this patient clear secretions adequately?
 * C

@@ -25,7 +25,7 @@ May lead to barotrauma.
 Relative contraindication.
 	* Foreign body may be expelled into the oropharynx, allowing it to be removed
 	* May also lead to significant barotrauma  
-	Lower flow rates (5-7L.min<sup>-1</sup> should be used with persistent obstruction).
+	Lower flow rates (5-7L.min^-1^ should be used with persistent obstruction).
 
 
 ## Physiology
@@ -56,14 +56,14 @@ Jet ventilation:
 ## Equipment
 
 * Oxygen supply  
-15L.min<sup>-1</sup> at 40-50psi
+15L.min^-1^ at 40-50psi
 * Cannula  
 	* 12-14G in adults
 	* 16-18G in children
 * Method for jet ventilation
 	* Jet ventilation Y-piece
 	* MacGuyver Technique  
-	A 3-way stopcock can be connected to the cannula and oxygen tubing running at 15 L.min<sup>-1</sup>. Intermitently occluding the third port on the stop-cock facilitates ventilation.
+	A 3-way stopcock can be connected to the cannula and oxygen tubing running at 15 L.min^-1^. Intermitently occluding the third port on the stop-cock facilitates ventilation.
 
 ## Complications
 

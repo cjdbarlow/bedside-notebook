@@ -4,7 +4,7 @@
 > This is an <span style="color:red">**anaesthetic crisis**</span>  
 > Priority is to:
 >* **Maintain oxygenation**
->* **Keep Pip < 50cmH<sub>2</sub>O**
+>* **Keep Pip < 50cmH~2~O**
 
 
 ##<span style="color:red">Emergency Management</span>
@@ -109,7 +109,7 @@ Key differential diagnoses:
 * **Anaphylaxis**
 * Laryngospasm
 * Endobronchial intubation  
-Also causes high airway pressures/reduced volumes and reduced SpO2</sub>.
+Also causes high airway pressures/reduced volumes and reduced SpO2~.
 * Poor chest wall compliance
 	* Eschar
 	* 'Wooden Chest' phenomenon

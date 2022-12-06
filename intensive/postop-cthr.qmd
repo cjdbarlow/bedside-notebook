@@ -79,8 +79,8 @@ Examination should involve:
 	* Gas exchange  
 	Review ABG.
 	* Ventilation settings
-	* E<sub>T</sub>CO<sub>2</sub> trace
-	* SPO<sub>2</sub>
+	* E~T~CO~2~ trace
+	* SPO~2~
 * Circulation
 	* Haemodynamic state
 		* HR
@@ -132,8 +132,8 @@ Compare with preoperative ECG:
 	* Hb
 	* Platelets
 	* Electrolytes
-		* K<sup>+</sup>
-		* Mg<sup>2+</sup>
+		* K^+^
+		* Mg^2+^
 	* Glucose
 	* Coagulation panel
 	* Cardiac markers  
@@ -283,7 +283,7 @@ Complications of cardiac surgery relevant to intensive care include:
 			* Prevent hypertension
 			* Correct platelet dysfunction:
 				* Platelet transfusion  
-				Aim *functional* platelet count >100 × 10<sup>9</sup> in significant bleeding.
+				Aim *functional* platelet count >100 × 10^9^ in significant bleeding.
 				* DDAVP  
 				Aim to improve platelet function.
 					* 20μg IV
@@ -315,7 +315,7 @@ Collection of fluid (blood) around the heart, impairing filling and therefore CO
 	* Features:
 		* Tachycardia
 		* Low UO
-		* Fall in CO/SV/MVO<sub>2</sub>
+		* Fall in CO/SV/MVO~2~
 		* Elevation and equalisation of diastolic pressures  
 		RAP ≃ PADP ≃ PCWP.
 			* May not occur if a small clot occurs around and impedes filing to only one chamber.

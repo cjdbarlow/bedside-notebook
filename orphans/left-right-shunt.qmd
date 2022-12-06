@@ -21,12 +21,12 @@ Low-output state:
 Physiological aims:
 
 * B
-	* High or high-normal PaCO<sub>2</sub>  
+	* High or high-normal PaCO~2~  
 	Maintain PVR to increase systemic CO.
-	* *Enough* FiO<sub>2</sub>  
-	Aim SpO<sub>2</sub> ~93%.
+	* *Enough* FiO~2~  
+	Aim SpO~2~ ~93%.
 	* PEEP  
-	Optimise FRC. Usually ~7-8cmH<sub>2</sub>O.
+	Optimise FRC. Usually ~7-8cmH~2~O.
 		* May require recruitment maneuvres
 
 ---

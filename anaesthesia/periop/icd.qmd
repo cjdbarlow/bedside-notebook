@@ -141,7 +141,7 @@ Consider **re-programming pacemaker functions** if:
 		* Accelerometry
 	* Sleep/rest mode  
 	Fall in HR and CO overnight, if late surgery is planned.
-* Augmentation of CO and DO<sub>2</sub> helpful
+* Augmentation of CO and DO~2~ helpful
 
 
 Consider **re-programming an AICD** if:

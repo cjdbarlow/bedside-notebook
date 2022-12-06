@@ -55,23 +55,23 @@ Hypokalaemic hypochloraemic metabolic alkalosis.
 		* Off-loading of oxygen is impaired in alkalotic states  
 		More important in neonates due to foetal haemoglobin level.
 		* Compensatory respiratory acidosis is common  
-		Extent of compensation (i.e. PaCO<sub>2</sub>) is a marker of severity of dehydration.
+		Extent of compensation (i.e. PaCO~2~) is a marker of severity of dehydration.
 		* Respiratory alkalosis (secondary to hypovolaemic shock) suggests **critical** dehydration
 		* Potassium may be high, normal, or low, depending on the degree of acidosis and the volume state  
-			* As volume state falls, aldosterone will increase Na<sup>+</sup> retention and lead to hypokalaemia
-			* As hypokalaemia worsens, the kidney will then retain Na<sup>+</sup> and eliminate H<sup>+</sup>  
+			* As volume state falls, aldosterone will increase Na^+^ retention and lead to hypokalaemia
+			* As hypokalaemia worsens, the kidney will then retain Na^+^ and eliminate H^+^  
 			This leads to a paradoxically acidic urine.
 		* HCl may be used to correct severe alkalosis but is rarely necessary
-		* Will be corrected by volume and Cl<sup>-</sup> resuscitation  
+		* Will be corrected by volume and Cl^-^ resuscitation  
 		Aciduria will resolve when volume is restored, as the distal tubule no longer exchanges potassium and hydrogen for sodium.
 	* Hyponatraemia/electrolyte derangement  
 	May be present but masked by dehydration. **Preoperative targets**:
 		* pH ⩽7.45
 		* BE ⩽3.5
-		* HCO<sub>3</sub><sup>-</sup> ⩽26mmol/L
-		* Na<sup>+</sup> ⩾132mmol/L
-		* K<sup>+</sup> ⩾3.5mmol/L
-		* Cl<sup>-</sup> ⩾100mmol/L
+		* HCO~3~^-^ ⩽26mmol/L
+		* Na^+^ ⩾132mmol/L
+		* K^+^ ⩾3.5mmol/L
+		* Cl^-^ ⩾100mmol/L
 		* BSL ⩾4mmol/L
 * G
 	* Frequency and extent of vomiting
@@ -82,11 +82,11 @@ Hypokalaemic hypochloraemic metabolic alkalosis.
 
 * Ensure adequately resuscitated, given by:
 	* Restored circulating volume
-	* Cl<sup>-</sup> is normal
+	* Cl^-^ is normal
 	* pH is normal or approaching normal
 * Secure IV access
 * Monitoring required
-	* SpO<sub>2</sub>
+	* SpO~2~
 	* ECG
 	* Blood pressure
 * Place a **new** large bore orogastric tube and perform 4-quadrant suction    

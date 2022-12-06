@@ -9,7 +9,7 @@
 #####<span style="color:red">Immediate Management</span>
 
 * Scan monitors  
-ECG, BP, ETCO<sub>2</sub>, SpO<sub>2</sub>, temperature.
+ECG, BP, ETCO~2~, SpO~2~, temperature.
 * Confirm all anaesthetic agents are ceased  
 Inhalational & intravenous.
 * Apply nerve stimulator & evaluate for residual paralysis  
@@ -30,7 +30,7 @@ Reverse as required:
 	Physostigmine 0.5-1mg IV.
 * Check ABG
 	* Electrolytes
-	* CO<sub>2</sub>
+	* CO~2~
 * Check temperature  
 Actively warm if ⩽34°C.
 

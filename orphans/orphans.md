@@ -32,7 +32,7 @@ Major trauma is defined as:
 
 * AF is a disease of disorganised conduction  
 Does not relate to the presence or absence of P waves; but its relationship to the QRS.
-	* Degree of atrial activity is often seen, especially in V<sub>1</sub>
+	* Degree of atrial activity is often seen, especially in V~1~
 	* Difficult to convert to sinus but easy to rate control
 
 AF Mx:
@@ -65,7 +65,7 @@ Rate control better as less strokes than rhythm control (on warfarin, different 
 * J point is 60-80ms from the deepest part of the S wave
 
 
-* Upward deflections in V1<sub>1</sub> are (almost) always pathological
+* Upward deflections in V1~1~ are (almost) always pathological
 	* RVH  
 	PHTN, PE.
 	* RV infarct

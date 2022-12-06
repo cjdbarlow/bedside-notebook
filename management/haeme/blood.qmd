@@ -76,7 +76,7 @@ Generally raises fibrinogen by 7-10mg/dL.
 ### Platelets
 
 * 1 unit ≈ 50ml  
-Generally raises platelet cont by ~10x10<sup>9</sup>/L.
+Generally raises platelet cont by ~10x10^9^/L.
 * ABO compatibility preferable but not essential
 
 
@@ -89,7 +89,7 @@ Whilst haemorrhage ongoing.
 * INR < 1.5
 * APTT < 40s
 * Fibrinogen >2g/dL
-* Platelet > 50x10<sup>9</sup>/L
+* Platelet > 50x10^9^/L
 * Temperature > 36°C
 * Ionised calcium > 0.85mmol/L
 

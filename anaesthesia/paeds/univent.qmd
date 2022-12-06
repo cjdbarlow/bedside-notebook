@@ -34,14 +34,14 @@ Sickness at birth is dependent on:
 * B
 	* Maintain PVR  
 	Required to achieve adequate systemic flow and prevent a pulmonary steal. Aim:
-		* Normal to high-normal PCO<sub>2</sub>
-		* **SpO<sub>2</sub> 80-85%**  
+		* Normal to high-normal PCO~2~
+		* **SpO~2~ 80-85%**  
 		May be achieved with hypoxic gas mixtures, if required.
-	* Decreased FiO<sub>2</sub>
+	* Decreased FiO~2~
 	* IPPV may be required  
-	Due to apnoea from PGE<sub>1</sub>.
+	Due to apnoea from PGE~1~.
 * C
-	* PGE<sub>1</sub> infusion  
+	* PGE~1~ infusion  
 	Prevents ductus arteriosus from closing.
 	* Inotropes  
 	Augmentation of ventricular function.
@@ -114,7 +114,7 @@ Allows right-to-left shunting to occur, which:
 	* Prevents development of pulmonary hypertension
 	* Reduces venous congestion and the associated complications
 	* Ensures some ventricular filling is maintained, even if PVR is transiently elevated
-	* Leads to post-operative SpO<sub>2</sub> of ~89%
+	* Leads to post-operative SpO~2~ of ~89%
 
 
 ### Anaesthetic Considerations

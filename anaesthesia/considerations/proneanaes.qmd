@@ -11,7 +11,7 @@ The prone position is:
 		* Unchanged lung and chest wall compliance
 		* Increased FRC provided abdomen is not compressed
 		* Improved V/Q matching via better distribution of pulmonary blood flow   
-		Leads to increase in PaO<sub>2</sub>.
+		Leads to increase in PaO~2~.
 	* Broadly negative CVS effects  
 	These are predominantly due to abdominal and subsequent IVC compression, and can be reduced by ensuring the abdomen is not compressed.
 		* Effects include
@@ -137,7 +137,7 @@ Will affect intra-operative positioning.
 * Slowly turn the patient onto the operating table
 * Use a foam head holder to support the patients head
 * Reconnect the ETT and complete an intraoperative cross-check
-	* A sustained or increased a Pip >5cmH<sub>2</sub>O should prompt review for endobronchial intubation or bronchospasm
+	* A sustained or increased a Pip >5cmH~2~O should prompt review for endobronchial intubation or bronchospasm
 * Assess the pressure areas and position
 	* Ensure that the **eyes** are free of pressure  
 	Use a mirror to confirm the eyes are not compressed.
@@ -150,7 +150,7 @@ Will affect intra-operative positioning.
 	* Check other pressure points
 	* Place padding liberally on potential pressure areas and bony prominences
 	* Ensure **lines and cables** are not compressed into patient  
-	e.g. IV/arterial lines, ECG cables, SpO<sub>2</sub> cable, IDC, NGT.
+	e.g. IV/arterial lines, ECG cables, SpO~2~ cable, IDC, NGT.
 
 
 ### Emergence{#emergence}

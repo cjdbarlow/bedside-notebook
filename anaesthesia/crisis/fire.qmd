@@ -40,8 +40,8 @@ For high risk procedures:
 Advised by local policy.
 * **Avoid**:
 	* Oxidisers:
-		* Keep FiO<sub>2</sub> < 0.3
-		* Avoid N<sub>2</sub>O
+		* Keep FiO~2~ < 0.3
+		* Avoid N~2~O
 	* Alcohol based antisetpics
 	* Diathermy  
 	Bipolar preferable to unipolar.
@@ -54,8 +54,8 @@ For laser surgery in airway:
 Will provide early warning in case of cuff damage.
 * Place wet gauze around ETT cuff
 * Avoid oxidisers:
-	* Keep FiO<sub>2</sub> AND FeO<sub>2</sub> < 0.3
-	* Avoid N<sub>2</sub>O
+	* Keep FiO~2~ AND FeO~2~ < 0.3
+	* Avoid N~2~O
 
 
 ---

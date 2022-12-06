@@ -29,7 +29,7 @@ Relative contraindications:
     * Epidural should be withheld in patients with pre-existing coagulopathy where intraoperative heparin administration is planned.
 * Raised ICP
 * Leukocytosis  
-WCC > 20 x 10<sup>9</sup>/L.
+WCC > 20 x 10^9^/L.
 * Infection
     * Chorioamnionitis
     * Usually safe to insert if temperature is < 38°C and patient is on antibiotics.
@@ -56,7 +56,7 @@ Paravertebral is less risky than a spinal, which is less risky than a single-sho
 * Absolute thresholds will vary depending on the centre; one particular set of numbers is:
     * Normal APTT
     * INR < 1.5
-    * Platelets > 80 x 10<sup>12</sup>/L  
+    * Platelets > 80 x 10^12^/L  
     Institutional policy may vary.
         * Above 100 is ideal
         * < 70 can be considered an absolute contraindication

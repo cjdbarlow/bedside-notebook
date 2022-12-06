@@ -12,7 +12,7 @@ Development of cardiac failure:
 With:
 	* LVEF <45%, or
 	* Fractional shortening <30%
-	* +/- LVEDD >2.7cm/m<sup>2</sup>
+	* +/- LVEDD >2.7cm/m^2^
 
 ## Epidemiology and Risk Factors
 

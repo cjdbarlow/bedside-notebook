@@ -132,8 +132,8 @@ Drugs used:
 
 |Mechanism|Drug|
 |---|---|
-|**↑ GABA Cl<sup>-</sup> channel opening frequency**|- Benzodiazepines<br>- Tiagabine<br>- Gabapentin|
-|**↑ GABA Cl<sup>-</sup> channel opening duration**|- Barbiturates|
+|**↑ GABA Cl^-^ channel opening frequency**|- Benzodiazepines<br>- Tiagabine<br>- Gabapentin|
+|**↑ GABA Cl^-^ channel opening duration**|- Barbiturates|
 |**Block GABA transaminase**|Vigabatrin|
 |**Antagonise glutamate**|Topiramate|
 |**↓ Inward voltage-gated positive currents**|- Phenytoin<br>- Carbamazepine<br>- Ethosuximide|

@@ -23,7 +23,7 @@ Mask ventilation and intubation.
 	* Optimise as many factors as possible prior to induction
 * **Plan B**  
 **Maintain oxygenation** with SAD.
-	* Use 2<sup>nd</sup> generation device  
+	* Use 2^nd^ generation device  
 	Higher sealing pressures, gastric port.
 	* Up to 3 attempts with different devices/sizes
 	* If successful, consider:
@@ -82,7 +82,7 @@ Though there are many different airway management techniques, most are not appli
 	* Ability to oxygenate/ventilate results in movement outwards towards the 'green zone'  
 	This **position of relative safety** should prompt:
 		* Reoxygenation  
-		Optimise SpO<sub>2</sub> and re-establish FRC.
+		Optimise SpO~2~ and re-establish FRC.
 		* Assembling additional resources
 			* Personnel
 			* Equipment
@@ -154,7 +154,7 @@ Includes:
 		* Cannula
 		* Pressure or flow regulated insufflation system
 * Oesophageal intubation detector
-* Immediate CO<sub>2</sub> detector  
+* Immediate CO~2~ detector  
 Capnograph, capnometer, or calorimetric detector.
 
 ### Paediatric Equipment
@@ -182,7 +182,7 @@ Should be available wherever paediatric airways are managed:
 	* Kink-resistant transtracheal catheter
 	* High pressure, pressure or flow-regulated ventilation system
 * Oesophageal intubation detector
-* Immediate CO<sub>2</sub> detector  
+* Immediate CO~2~ detector  
 Capnograph, capnometer, or calorimetric detector.
 
 
@@ -249,7 +249,7 @@ Bag containing essential equipment that can be taken to emergency locations. Rec
 	Size 3.
 	* Two laryngoscope handles
 	* Swivel bronchoscopy connector
-* CO<sub>2</sub> detector device
+* CO~2~ detector device
 * Emergency surgical airway set
 
 

@@ -231,7 +231,7 @@ Don't require evaluation unless:
 
 MINS is:
 
-* Defined as elevated cardiac troponin ⩾99<sup>th</sup> percentile
+* Defined as elevated cardiac troponin ⩾99^th^ percentile
 * Likely a supply-demand mismatch in the majority of cases
 * Complicates 8-19% of non-cardiac surgery
 	* 40% of these are true MI

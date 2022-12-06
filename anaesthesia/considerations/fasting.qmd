@@ -56,7 +56,7 @@ These guidelines may not apply. Important considerations:
 * Use of risk-reduction techniques
 	* Pharmacological
 		* PPI
-		* H<sub>2</sub>-antagonists
+		* H~2~-antagonists
 		* Antacids
 			* Sodium citrate
 			* Aluminium hydroxide

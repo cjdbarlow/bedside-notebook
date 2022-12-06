@@ -35,8 +35,8 @@ Principles of PACU:
 * Have routes for rapid evacuation if required
 * Have enough bed spaces to accommodate expected peak loads
 * Adequate space for the patients bed, equipment, and personnel:
-	* A **minimum of 9m<sup>2</sup>** for each patient
-	* Up to **20m<sup>2</sup>** for higher-acuity patients
+	* A **minimum of 9m^2^** for each patient
+	* Up to **20m^2^** for higher-acuity patients
 * Staff should be able to view all patients at once  
 **'Line-of-sight nursing care'**.
 * Separate area for paediatric patients, if the facility deals with both adult and paediatric patients
@@ -80,7 +80,7 @@ Including:
 For facilities conducting general anaesthesia, major regional/neuraxial anaesthesia, or major surgery, there should be easy access to:
 
 * 12-lead ECG
-* End-tidal CO<sub>2</sub>
+* End-tidal CO~2~
 * Nerve stimulator
 * Warming cupboard
 * Patient warming devices

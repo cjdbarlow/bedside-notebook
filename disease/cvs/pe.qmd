@@ -84,7 +84,7 @@ May cause shunt via a variety of mechanisms:
 Changes in cardiac function:
 
 * Increased PVR  
-Due to low mixed venous PO<sub>2</sub> in patients with PE and low-cardiac output states.
+Due to low mixed venous PO~2~ in patients with PE and low-cardiac output states.
 * Elevated right-sided pressures  
 Increase in RAP may open a PFO and lead to intracardiac right-to-left shunting.
 
@@ -112,7 +112,7 @@ Features include:
 		* Increased PVR
 		* Decreased CO
 		* Increased SVR
-	* Loud P<sub>2</sub>
+	* Loud P~2~
 
 * Due to obstructive shock:
 	* Cardiac arrest
@@ -224,8 +224,8 @@ Formal measurement is:
 * Requires an intubated/ventilated patient
 * Not easy to perform in practice
 * Suggested by
-	* Acute reduction in ETCO<sub>2</sub>
-	* Delay in reaching alveolar plateau on ETCO<sub>2</sub> waveform
+	* Acute reduction in ETCO~2~
+	* Delay in reaching alveolar plateau on ETCO~2~ waveform
 
 
 ### Diagnostic Tests

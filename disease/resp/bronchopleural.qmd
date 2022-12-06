@@ -85,7 +85,7 @@ Respiratory:
 	* **ICC** placed and patent  
 		* Obstructed ICC will lead to tension pneumothorax with IPPV
 		* Chest drain should be large enough to adequately ventilate pleural space  
-		32Fr ICC is large enough to drain up to 15L/min of fistula flow on 10cmH<sub>2</sub>O of suction.
+		32Fr ICC is large enough to drain up to 15L/min of fistula flow on 10cmH~2~O of suction.
 		* If drain has been on suction on the ward, continue suction during anaesthetic induction
 	* **Effective size** of fistulae  
 	Combination of physical size and effect on distribution of ventilation and fistulae gas flow.

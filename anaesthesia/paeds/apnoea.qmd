@@ -31,8 +31,8 @@ Strong association.
 	* Highly significant if ⩽52. 
 * Immature respiratory centre
 	* Impaired response to:
-		* ↓ PO<sub>2</sub>
-		* ↑ PCO<sub>2</sub>
+		* ↓ PO~2~
+		* ↑ PCO~2~
 * Hypothermia
 * Anaemia
 * Respiratory muscle fatigue
@@ -59,7 +59,7 @@ Inpatient admission:
 * Requirement varies depending on hospital
 * Multiple approaches exist
 * Monitored observation includes:
-	* Continuous SpO<sub>2</sub>
+	* Continuous SpO~2~
 	* Line of sight nursing  
 	* A plan to stimulate the child to resume respiration
 * Conservative:

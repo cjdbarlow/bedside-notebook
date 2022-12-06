@@ -25,7 +25,7 @@ Physiological changes and their implications can be classified by system:
 	Decreases; decreases safe apnoea time.
 	* RV  
 	Decreases; increases atelectasis and shunt.
-	* VO<sub>2</sub>  
+	* VO~2~  
 	Increases; decreases safe apnoea time.
 * CVS
 	* Cardiac output  
@@ -83,7 +83,7 @@ Covers the process of cervical dilation (0-10cm).
 		* Desent of the presenting part
 	* **Normal** progress  
 	Based on rate of cervical dilation, should be **>1cm/hr**.
-		* 0.5cm/hr is 10<sup>th</sup> centile, and is often accepted
+		* 0.5cm/hr is 10^th^ centile, and is often accepted
 * **Second stage**  
 Covers full dilation to delivery.
 	* Involves:
@@ -130,7 +130,7 @@ Drug interactions in pregnancy can be classified into:
 	* Absorption
 		* PO absorption affected by nausea and vomiting
 	* Distribution
-		* Increased V<sub>D</sub> of water soluble drugs  
+		* Increased V~D~ of water soluble drugs  
 		Due to increased blood and body fluid volume.
 		* Increased free portion of acidic drugs  
 		Due to decreased albumin.
@@ -191,11 +191,11 @@ Such **high risk of causing foetal damage** that they should **not be used in pr
 
 |Class|Category A|Category B1|Category B2|Category B3|Category C|Category D|Category X|Notes|
 |--|--|
-|**Antihypertensives**|Methyldopa||Prazocin <br>- Not recommended in 1<sup>st</sup> trimester||Calcium channel blockers<br>β-blockers <br>- IGUR, ↓ HR, ↓ BSL, ↓ birth weight<br>Labetalol <br>- 1<sup>st</sup> line<br>Hydralazine<br>- For hypertensive emergencies only|ACE-I/A2RB<br>- Contraindicated in all 3 trimesters<br>-1<sup>st</sup> trimester: Major CVS/CNS malformations<br>-2/3<sup>nd</sup> trimester<br>- Renal damage<br>-MSK deformities<br>- Death||
+|**Antihypertensives**|Methyldopa||Prazocin <br>- Not recommended in 1^st^ trimester||Calcium channel blockers<br>β-blockers <br>- IGUR, ↓ HR, ↓ BSL, ↓ birth weight<br>Labetalol <br>- 1^st^ line<br>Hydralazine<br>- For hypertensive emergencies only|ACE-I/A2RB<br>- Contraindicated in all 3 trimesters<br>-1^st^ trimester: Major CVS/CNS malformations<br>-2/3^nd^ trimester<br>- Renal damage<br>-MSK deformities<br>- Death||
 |**Anticoagulants**|||||Heparin/LMWH<br>- Increased peripartum bleeding|Warfarin<br>- Terratogenic, particularly 6-9 weeks||
-|**Anaesthetic agents**|Thiopentone<br>Ketamine||||Propofol<br>Benzodiazepines<br>- Not recommended in 1<sup>st</sup> trimester<br>- Secreted heavily in breast milk||||
-|**Corticosteroids**|Cortisone<br>Hydrocortisone<br>Prednisolone||||Dexamethasone<br>Betamethasone<br>Fludrocortisone<br>Tiamcinolone<br>- May increase oral cleft if used in 1<sup>st</sup> trimester||||
-|**Analgesics**|Paracetamol||||NSAIDS<br>- Avoid in 3<sup>rd</sup> trimester as may cause premature duct closure, renal impairment, oligohydramnios, delayed labour||
+|**Anaesthetic agents**|Thiopentone<br>Ketamine||||Propofol<br>Benzodiazepines<br>- Not recommended in 1^st^ trimester<br>- Secreted heavily in breast milk||||
+|**Corticosteroids**|Cortisone<br>Hydrocortisone<br>Prednisolone||||Dexamethasone<br>Betamethasone<br>Fludrocortisone<br>Tiamcinolone<br>- May increase oral cleft if used in 1^st^ trimester||||
+|**Analgesics**|Paracetamol||||NSAIDS<br>- Avoid in 3^rd^ trimester as may cause premature duct closure, renal impairment, oligohydramnios, delayed labour||
 |**Antiemetics**|Metoclopramide|Ondansetron<br>Granisetron<br>Dolasetron||Tropisetron|||||
 |**Antibiotics**|Penicillins<br>Cephalosporins<br>Erythromycin|Roxithromycin||||Aminoglycosides<br>- Risk of foetal oto/nephrotoxicity<br>Tetracyclines<br>- Teeth staining, suppressed bone development|||
 |**Volatile agents**|Halothane<br>Nitrous oxide||Sevoflurane|Isoflurane<br>Desflurane||||

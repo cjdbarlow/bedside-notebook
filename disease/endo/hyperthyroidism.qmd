@@ -50,7 +50,7 @@ Include:
 ### Anaesthetic Considerations
 
 * B
-	* ↓ Apnoea time due to ↑ VO<sub>2</sub>
+	* ↓ Apnoea time due to ↑ VO~2~
 * C
 	* ↑ HR
 	* Arrhythmia
@@ -60,15 +60,15 @@ Include:
 * E
 	* Heat intolerance
 	* Weight loss
-* E<sub>2</sub>
+* E~2~
 	* Thyroid state  
 	Patients should be euthyroid preoperatively to avoid thyroid storm.
 		* Carbimazole  
 		Decreases iodine uptake and inhibits peroxidase enzyme, preventing iodine coupling.
 		* Propothiouracil  
-		Inhibits thyroperoxidase, and also decrease T<sub>4</sub> to T<sub>3</sub> conversion.
+		Inhibits thyroperoxidase, and also decrease T~4~ to T~3~ conversion.
 		* Steroids  
-		Decrease T<sub>4</sub> to T<sub>3</sub> conversion.
+		Decrease T~4~ to T~3~ conversion.
 		* Lugol's Iodine
 		* β-blockers
 

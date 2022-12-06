@@ -270,7 +270,7 @@ Up to 2-3 months:
 	* Reduced IM and SC absorption
 * Distribution  
 	* Rapid distribution due to high CO
-	* ↑ TBW and V<sub>d</sub> of water-soluble drugs
+	* ↑ TBW and V~d~ of water-soluble drugs
 	* ↑ ECF compartment volume  
 	Increases required dosing for drugs distributed to ECF.
 	* ↓ Plasma protein level and protein binding  

@@ -36,7 +36,7 @@ Severely injured patients with multisystem trauma, generally indicated by:
 		* pH <7.2
 		* BD >15mmol/L
 		* Lactate >5mmol/L
-		* O<sub>2</sub> consumption index <100ml/ml/m<sup>2</sup>
+		* O~2~ consumption index <100ml/ml/m^2^
 		* New ventricular arrhythmia
 * Inability to control bleeding
 * Large volume resuscitation

@@ -61,9 +61,9 @@ Ensure adequate doses induction agent and relaxant.
 * Intubate  
 A slightly smaller tube may make intubation easier and will be adequate to ventilate with.
 * Commence ventilation
-	* 30% O<sub>2</sub>/70% N<sub>2</sub>O  
+	* 30% O~2~/70% N~2~O  
 	MAC-sparing, thereby reducing tocolytic effects of volatile agent.
-		* Make sure to avoid maternal hypoxia, and decraese the FiN<sub>2</sub>O if needed
+		* Make sure to avoid maternal hypoxia, and decraese the FiN~2~O if needed
 	* Sevoflurane ~1.5%  
 	Use high flows (10L/min) to reach target quickly.
 		* Consider overpressuring the volatile, but remember to turn it down again  
@@ -73,7 +73,7 @@ A slightly smaller tube may make intubation easier and will be adequate to venti
 ## Maintenance
 
 * Consider changing to TIVA
-* Aim low-normal CO<sub>2</sub>
+* Aim low-normal CO~2~
 * **Following delivery**
 	* Give oxytocin
 	* Give analgesia  
@@ -110,7 +110,7 @@ High risk in obstetric population, and especially CS:
 			* Decreased onset/offset of volatile agents
 		* No premedication
 		* Rapid onset of surgical stimulation following induction
-		* Increased V<sub>D</sub>
+		* Increased V~D~
 		* Airway difficulty  
 		Decreases time to delivery of volatile.
 		* Often junior staff, after hours
@@ -125,7 +125,7 @@ Higher risk in obstetric population.
 		* Laryngeal oedema
 		* Increased breast size
 		* Decreased safe apnoea time
-			* Increased VO<sub>2</sub>
+			* Increased VO~2~
 			* Decreased FRC
 
 

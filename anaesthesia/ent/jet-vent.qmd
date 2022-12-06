@@ -10,7 +10,7 @@ Jet ventilation is the use of high-pressure (1-3 bar), high frequency ventilatio
 		* Immobility of vocal cords  
 		Small tidal volumes cause less movement.
 	* Thoracics
-		* Selective jet ventilation to non-dependent lung increases PaO<sub>2</sub>
+		* Selective jet ventilation to non-dependent lung increases PaO~2~
 	* Radiofrequency ablation
 		* Jet ventilation reduces breathing-related motion of abdominal and thoracic organs
 * Achieves gas exchange via alternate means compared with conventional ventilation  
@@ -26,10 +26,10 @@ When tidal volumes are smaller than dead space volumes, bulk flow is relatively 
 	Jet fired between laser pulses to prevent cord movement.
 	* Paralysis
 	* TIVA
-	* Careful control of **FiO<sub>2</sub>**  
-		* No laser: 100% O<sub>2</sub>
-		* Laser: 30% O<sub>2</sub>  
-		Consider increasing FiO<sub>2</sub> between pulses or whilst waiting for biopsy results, etc.
+	* Careful control of **FiO~2~**  
+		* No laser: 100% O~2~
+		* Laser: 30% O~2~  
+		Consider increasing FiO~2~ between pulses or whilst waiting for biopsy results, etc.
 
 
 
@@ -91,8 +91,8 @@ Adjustment:
 Intraoperative Management:
 
 * Check for movements of the chest and abdomen
-* Check CO<sub>2</sub> if sampling port connected  
-Not an accurate assessment of arterial CO<sub>2</sub>, and is easily lost if the port is blocked or kinked.
+* Check CO~2~ if sampling port connected  
+Not an accurate assessment of arterial CO~2~, and is easily lost if the port is blocked or kinked.
 * Turn off HFJV prior to removing catheter to prevent contamination
 
 
@@ -117,12 +117,12 @@ Jet kept in glottis and gas jetted through the glottis.
 	* Greater rate of increase in airway pressure compared to subglottic ventilation  
 	Counter-intuitive, but occurs due to:
 		* Venturi effect  
-		Greater entrained air with supraglottic approach increases tidal volume and reduces FiO<sub>2</sub>.
+		Greater entrained air with supraglottic approach increases tidal volume and reduces FiO~2~.
 		* Double jetting  
 		Supraglottic jet is reflected from glottis, increasing supraglottic pressure and impeding expiratory flow.
 		* Expiratory impedance  
 		Expiration can only occur during the expiratory phase of the cycle, which is a function of the I:E ratio of the jet ventilator.
-	* No CO<sub>2</sub> monitoring
+	* No CO~2~ monitoring
 	* Cannot monitor peak airway pressure
 	* Inadequate ventilation  
 	If aim is incorrect. Monitor:
@@ -140,7 +140,7 @@ Jet catheter placed in trachea via glottis:
 
 * Pros
 	* Slow rate of pressure increase
-	* Consistent FiO<sub>2</sub>  
+	* Consistent FiO~2~  
 	Minimal entrainment.
 	* Expiration can occur through a subglottic stenosis throughout the respiratory cycle, reducing expiratory impedance
 * Cons
@@ -153,7 +153,7 @@ Jet catheter placed in trachea via glottis:
 			* Monitoring port easily blocked or kinked
 		* LaserJet
 			* Similar to Hunsaker but without the basket
-			* Monitoring lumen for airway pressure and CO<sub>2</sub>
+			* Monitoring lumen for airway pressure and CO~2~
 
 
 ### Transtracheal
@@ -180,7 +180,7 @@ Outflow obstruction leading to rise in airway pressures and occlusion of venous 
 * Dry gas trauma  
 Occurs if jetting without humidified gas. Leads to epithelial necrosis, mucous buildup, and airway pluggin.
 * Hyperoxia  
-Due to fall in FiO<sub>2</sub> or decreased airway pressure and atelectasis.
+Due to fall in FiO~2~ or decreased airway pressure and atelectasis.
 * Hypercapnoea  
 Can be avoided by increasing driving pressure (to increase tidal volume) and decreasing frequency (to increase E time).
 

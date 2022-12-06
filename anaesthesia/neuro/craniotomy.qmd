@@ -10,7 +10,7 @@
 Under GA:
 
 * Volatile
-	* Avoid N<sub>2</sub>O
+	* Avoid N~2~O
 	* Use < 1 MAC
 * TIVA  
 May be preferred in cases with high ICP. One approach:
@@ -26,7 +26,7 @@ May be preferred in cases with high ICP. One approach:
 * B
 	* Coughing is not allowed  
 	Ensure adequate muscle relaxation (test regularly, consider use of muscle relaxant infusion) or use deep opioid anaesthesia (e.g. remifentanil infusion not less than 0.2ug/kg/min).
-	* Ventilate to normal PaCO<sub>2</sub> in most instances  
+	* Ventilate to normal PaCO~2~ in most instances  
 	Avoid cerebral ischaemia.
 * C
 	* Aim normotension during most procedures  

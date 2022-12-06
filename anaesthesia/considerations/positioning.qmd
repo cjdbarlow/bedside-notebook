@@ -12,7 +12,7 @@ Function and position must be checked after moving:
 	* Capnography present
 	* Pulmonary compliance appropriate
 	* Bilateral air entry
-	* SpO<sub>2</sub> waveform present
+	* SpO~2~ waveform present
 * Circulation
 	* Monitoring stable
 	* IV lines connected and accessible
@@ -37,7 +37,7 @@ Include:
 
 * Increased risk of airway obstruction
 * Decreased FRC
-* Decreased V<sub>T</sub>
+* Decreased V~T~
 * Increased VR and CO
 * Loss of lumbar lordosis  
 May lead to postoperative lower back pain.

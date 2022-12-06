@@ -21,7 +21,7 @@ Arrest is consistent with:
 		* Pulmonary arterial pressure
 		* CVP
 		* Pulse oximetry
-	* Loss of ETCO<sub>2</sub>
+	* Loss of ETCO~2~
 * **Assess rhythm**
 	* **VF/VT/Tachycardia**
 		* DC shock  
@@ -44,9 +44,9 @@ Arrest is consistent with:
 		* Prepare for emergency resternotomy
 * **Adjuvant management**
 	* Airway  
-		* Change to BVM with 100% O<sub>2</sub>
+		* Change to BVM with 100% O~2~
 	* Breathing  
-		* PEEP to 0cmH<sub>2</sub>O  
+		* PEEP to 0cmH~2~O  
 		Improve cardiac preload in the setting of tamponade/hypovolaemia.
 			* Consider increasing PEEP if arrest secondary to hypoxia
 		* Auscultate/ultrasound to evaluate for tension pneumo/haemothorax  

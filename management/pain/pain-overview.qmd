@@ -21,7 +21,7 @@ Pain management is important as pain:
 Adequate analgesia facilitates **restoration** of **normal function**.
 * Leads to secondary complications
 	* Catecholamine release
-		* ↑ MVO<sub>2</sub>  
+		* ↑ MVO~2~  
 		Ischaemia.
 		* Fatigue
 	* Stasis
@@ -175,7 +175,7 @@ Particularly in high-risk groups.
 	* Sedation  
 	Sedation is a better predictor of ventilatory impairment than respiratory rate.
 	* ↓ Oropharyngeal tone
-	* Elevated CO<sub>2</sub> set point
+	* Elevated CO~2~ set point
 * Opioid use increases risk of falls and impairs driving
 
 
@@ -377,7 +377,7 @@ Nitrous oxide:
 * Has analgesic efficacy in labour
 	* Increases maternal satisfaction
 * Neuropathy and bone marrow suppression are rare but potentially serious complications of nitrous oxide use  
-Consideration should be given to duration of exposure and supplementation with vitamin B<sub>12</sub>.
+Consideration should be given to duration of exposure and supplementation with vitamin B~12~.
 
 
 Dexamethasone:

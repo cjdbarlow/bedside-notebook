@@ -42,8 +42,8 @@ Via side-holes in the rigid bronchoscope, which facilitate ventilation of the **
 	Risk increased in patients with:
 		* Poor exercise tolerance
 		* Respiratory distress
-		* PaO<sub>2</sub> ⩽70mmHg
-		* PacO<sub>2</sub> ⩾45mmHg
+		* PaO~2~ ⩽70mmHg
+		* PacO~2~ ⩾45mmHg
 * D
 	* Volatile vs. TIVA  
 	Dependent on ventilatory technique: volatile only achievable with intermittent volume ventilation.
@@ -82,15 +82,15 @@ Usually required in adults to facilitate tracheal placement of the bronchoscope.
 		Lower rates facilitate passive exhalation via elastic recoil of lung and chest wall.
 		* Entrainment of air with oxygen facilitates ventilation and oxygenation
 		* Ensure there is an **avenue of escape** for the insufflated air to prevent barotrauma
-		* Monitor chest rise to prevent excessive V<sub>T</sub> and gas trapping
+		* Monitor chest rise to prevent excessive V~T~ and gas trapping
 		* May be automatic or manual  
 		Higher risk of pneumothorax or pneumomediastinum with manual technique.
 	* High Frequency Jet Ventilation  
-	Automated system giving low V<sub>T</sub> breaths at a rate of 60-300/min.
+	Automated system giving low V~T~ breaths at a rate of 60-300/min.
 		* Motionless operating field
 		* Difficult to assess adequacy of ventilation  
 		May require repeated blood gas analysis.
-		* V<sub>T</sub> < V<sub>Dead Space</sub>  
+		* V~T~ < V~Dead Space~  
 		Gas transport mechanisms include laminar flow, longitudinal dispersion, pendelluft, molecular diffusion.
 	* Intermittent Volume ventilation  
 	Ventilation tubing connected to proximal end of bronchoscope.
@@ -123,7 +123,7 @@ Considerations:
 	* Remifentanil
 	* Lignocaine 1mg/kg IV
 	* Early suctioning
-	* Humidified O<sub>2</sub>
+	* Humidified O~2~
 
 ## Postoperative
 

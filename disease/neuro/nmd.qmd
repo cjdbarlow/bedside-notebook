@@ -54,7 +54,7 @@
 		* Progressive spinal deformities
 		* Potential difficult airway
 		* Strongly consider perioperative BiPAP
-		* Continuous SpO<sub>2</sub> monitoring until consciousness resumed
+		* Continuous SpO~2~ monitoring until consciousness resumed
 	* CXR
 	* PFTs
 * C
@@ -119,7 +119,7 @@ Usually due to respiratory failure.
 
 ### Myotonic Contractures  
 
-Muscle spasm due to excessive Na<sup>+</sup> influx or Cl<sup>-</sup> efflux across a membrane. Contractures are usually:
+Muscle spasm due to excessive Na^+^ influx or Cl^-^ efflux across a membrane. Contractures are usually:
 
 * Due to drugs or environmental conditions
 	* Suxamethonium

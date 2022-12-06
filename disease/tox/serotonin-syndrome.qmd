@@ -37,7 +37,7 @@ Drug-induced over-stimulation of serotonin receptors in CNS. Serotonin syndrome 
 
 ## Pathophysiology
 
-Excessive serotonin activity at 5-HT<sub>2</sub> receptors in the CNS.
+Excessive serotonin activity at 5-HT~2~ receptors in the CNS.
 
 ## Clinical Manifestations
 
@@ -140,7 +140,7 @@ Include:
 
 ### Drugs Without Significant Risk of Toxicity
 
-Serotonin antagonists, or those that do not agnoise 5-HT<sub>2</sub>:
+Serotonin antagonists, or those that do not agnoise 5-HT~2~:
 
 * Antipsychotics
 * Anxiolytics
@@ -210,7 +210,7 @@ Principles of management:
 		* Prevent hyperthermia  
 			* Beneficial as:
 				* Reduces complications
-				* Down regulates 5-HT<sub>2a</sub> receptors
+				* Down regulates 5-HT~2a~ receptors
 			* Methods:
 				* Active cooling
 				* Paralyis and ventilation

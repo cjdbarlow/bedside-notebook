@@ -5,7 +5,7 @@ Sleep disorder defined as **cessation of airflow for more than 10 seconds**:
 
 * Despite ventilatory effort
 * Occurring 5 or more times per hour of sleep
-* With associated ↓ in SpO<sub>2</sub> of ⩾4%
+* With associated ↓ in SpO~2~ of ⩾4%
 
 
 
@@ -54,7 +54,7 @@ To stop breathing/choking during sleep.
 * **P**ressure  
 Presence of hypertension.
 * **B**MI  
-⩾35kg/m<sup>2</sup>.
+⩾35kg/m^2^.
 * **A**ge  
 ⩾50.
 * **N**eck size
@@ -95,15 +95,15 @@ Narrow or crowded upper airway, from:
 		* Evaluates the CPAP required to maintain airway patency
 		* CPAP is gradually decreased during stable sleep, until airflow limitation occurs
 		* Patients with OSA commonly have a pharyngeal closing pressure close to atmospheric pressure
-		* OSA is rare in patients with Pcrit lower than -5cmH<sub>2</sub>O
+		* OSA is rare in patients with Pcrit lower than -5cmH~2~O
 	* **Unstable control of breathing**  
 	Loop gain:
 		* General term describing behaviour of a feedback-control system
 		* With respect to OSA, describes the change in ventilatory response due to ventilatory disturbance  
 		Consists of:
-			* CO<sub>2</sub> gain in tissues
+			* CO~2~ gain in tissues
 			* Circulatory time  
-			Time taken for change in CO<sub>2</sub> to mix with blood and reach chemoreceptors
+			Time taken for change in CO~2~ to mix with blood and reach chemoreceptors
 			* Chemoreceptor sensitivity
 		* High loop gain leads to exaggerated ventilatory responses
 
@@ -170,9 +170,9 @@ Given as the **apnoea-hypopnoea index** (AHI), the **total number of apnoeas or 
 	* Moderate: 16-30
 	* Severe: ⩾31
 * Other useful values
-	* Minimum SpO<sub>2</sub>
+	* Minimum SpO~2~
 	* T90  
-	Time with SpO<sub>2</sub> <90%.
+	Time with SpO~2~ <90%.
 * A highly involved study
 	* Waiting lists may be extensive which makes it often impractical
 * An evaluation of multiple parameters:
@@ -180,7 +180,7 @@ Given as the **apnoea-hypopnoea index** (AHI), the **total number of apnoeas or 
 	Monitors body position.
 	* Airway microphone  
 	Monitors airflow.
-	* SpO<sub>2</sub>  
+	* SpO~2~  
 	* Chest girth measurement  
 	Evaluates respiratory effort.
 	* EEG  

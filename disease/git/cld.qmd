@@ -149,7 +149,7 @@ Bloods:
 	* Neuromuscular blockade
 		* Non-depolarising agents:
 			* Require increased doses  
-			Due to increased V<sub>D</sub>.
+			Due to increased V~D~.
 			* Aminosteroids have prolonged elimination
 * H
 	* Coagulopathy  

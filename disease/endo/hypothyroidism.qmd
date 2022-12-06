@@ -41,7 +41,7 @@ Hypothyroid crisis:
 	* Tracheal compression  
 	Gotires may impinge on trachea and impede airway management.
 * B
-	* Reduced response to ↑ CO<sub>2</sub> and ↓ O<sub>2</sub>
+	* Reduced response to ↑ CO~2~ and ↓ O~2~
 * C
 	* Bradydysrhythmia
 	* Diastolic HTN
@@ -56,7 +56,7 @@ Hypothyroid crisis:
 	* Myxoedema coma  
 	Hypothyroid crisis.
 	* Hypothermia
-* E<sub>2</sub>
+* E~2~
 	* Addisons disease  
 	Occurs in 5-10% of patients with severe hypothyroidism.
 * F

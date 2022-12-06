@@ -229,9 +229,9 @@ Drugs which may cause CNS depression can be classified broadly into:
 
 A mnemonic for the metabolic causes is COMATOSE GREAT APE:
 
-* CO<sub>2</sub>  
+* CO~2~  
 Mechanism unclear, but possibly related to ICP or altered neurotransmitter function.
-* O<sub>2</sub>  
+* O~2~  
 Coma may occur within minutes of severe oxygen deprivation.
 * Metabolism (of drugs)
 * Ammonia  

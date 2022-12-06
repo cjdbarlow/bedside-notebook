@@ -138,15 +138,15 @@ PPV may have many detrimental effects:
 	* Gastric insufflation
 * **Acidaemia**  
 Very high minute ventilation may be compensating for metabolic acidosis  
-	* Rendering the patient apnoeic may lead to a rapid increase in PaCO<sub>2</sub>, fall in pH, and precipitate cardiac arrest
+	* Rendering the patient apnoeic may lead to a rapid increase in PaCO~2~, fall in pH, and precipitate cardiac arrest
 		* **Consider gentle BMV during the apnoeic period to reduce this risk**  
 		This needs to be balanced against the risk of gastric insufflation and aspiration.
-	* Use ETCO<sub>2</sub> during preoxygenation to identify what the patients (compensating) ETCO<sub>2</sub> is prior to induction
-	* Aim for an ETCO<sub>2</sub> **at least as low** post-induction
+	* Use ETCO~2~ during preoxygenation to identify what the patients (compensating) ETCO~2~ is prior to induction
+	* Aim for an ETCO~2~ **at least as low** post-induction
 * **Pressures**  
 Important pressures to consider (**ABG**):
 	* **Airway** pressures  
-	Avoid excessive airway pressures (Aim Pplat <30 cmH<sub>2</sub>O):
+	Avoid excessive airway pressures (Aim Pplat <30 cmH~2~O):
 		* Auto-PEEP  
 		Increases RV afterload, reducing VR and subsequently BP.
 			* **Beware hypoxia secondary to impaired circulation** due to this reason, and avoid increasing minute ventilation further  
@@ -155,13 +155,13 @@ Important pressures to consider (**ABG**):
 	* **Systemic arterial pressure**  
 	Aim for a higher systemic BP prior to induction.
 	* **Pulmonary arterial pressure**  
-	PAP will also be affected by pH and PAO<sub>2</sub>. **Defend the systemic MAP** to maintain RV perfusion.
+	PAP will also be affected by pH and PAO~2~. **Defend the systemic MAP** to maintain RV perfusion.
 	* **Gastric** pressure
 * **Oxygenation**  
 Hypoxia is:
 	* What kills patients during prolonged attempts at intubation
 	* More important than ventilation, **except** at extremes of pH  
-	A starting pH of 7.1 will lead to a pH of ~6.9 after 4 minutes of apnoea (assuming a normal VCO<sub>2</sub>).
+	A starting pH of 7.1 will lead to a pH of ~6.9 after 4 minutes of apnoea (assuming a normal VCO~2~).
 	* Reduced by:
 		* Adequate denitrogenation  
 		Increase FRC oxygen concentration and therefore oxygen reserve.

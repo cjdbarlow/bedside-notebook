@@ -20,7 +20,7 @@ Key principles:
 		May reduce CVA risk under retractor.
 	* Haemodynamic stability
 * Cerebral protection
-	* Maintain DO<sub>2</sub>
+	* Maintain DO~2~
 	* Ischaemic protection
 * Emergence
 	* Haemodynamic stability
@@ -34,7 +34,7 @@ Key principles:
 		* Remifentanil extubation
 		* Laryngeal mask exchange
 * B
-	* CO<sub>2</sub> control
+	* CO~2~ control
 * C
 	* Haemodynamic stability  
 	Most cases require precise haemodynamic control.
@@ -46,7 +46,7 @@ Key principles:
 				* Sevoflurane has the least effect on cerebral blood flow, and is the most suitable volatile agent  
 				Isoflurane and desflurane significantly worse.
 			* Presence of hypercarbia  
-			Loss of CO<sub>2</sub> reactivity is a bad sign.
+			Loss of CO~2~ reactivity is a bad sign.
 		* Nitrous oxide has several detrimental effects due to cerebral vasodilation
 		* Propofol reduces ICP and increases CPP to a greater extent than sevoflurane  
 		**TIVA** desirable in any patient with severely **raised ICP**

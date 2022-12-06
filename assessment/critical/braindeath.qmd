@@ -41,11 +41,11 @@ GCS 3, with no response to pain in both central (supraorbital) and peripheral di
 	* No cough
 * **Apnoea**  
 Apnoea testing:
-	* Preoxygenated with 100% O<sub>2</sub>
-	* Ventilator disconnected whilst delivering 100% O<sub>2</sub> at 6L/min through a suction catheter close to the carina
+	* Preoxygenated with 100% O~2~
+	* Ventilator disconnected whilst delivering 100% O~2~ at 6L/min through a suction catheter close to the carina
 	* Confirmed positive when there is no respiratory effort when:
-		* PaCO<sub>2</sub> is ≥60mmHg, OR
-		* PaCO<sub>2</sub> has risen 20mmHg above baseline
+		* PaCO~2~ is ≥60mmHg, OR
+		* PaCO~2~ has risen 20mmHg above baseline
 
 
 ## Investigations

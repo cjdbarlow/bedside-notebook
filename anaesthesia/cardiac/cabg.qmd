@@ -68,10 +68,10 @@ On-pump CABG can be divided into pre-, intra-, and post-bypass phases:
 
 * Pre-bypass
 	* If LIMA harvest is occurring:
-		* Decrease V<sub>T</sub> to 5-6ml/kg
+		* Decrease V~T~ to 5-6ml/kg
 		* Reduce anaesthetic  
 		Period of minimal stimulation following the very stimulating sternotomy.
-		* Increase FiO<sub>2</sub> as there is a frequent surgical requirement for apnoea
+		* Increase FiO~2~ as there is a frequent surgical requirement for apnoea
 * Bypass
 * Post-bypass
 

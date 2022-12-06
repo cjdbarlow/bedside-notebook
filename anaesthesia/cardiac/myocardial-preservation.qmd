@@ -9,7 +9,7 @@ Methods to reduce myocardial injury include:
 	* CPP >50mmHg
 	* Low HR
 	* Avoid ventricular distension  
-	Increases wall tension and VO<sub>2</sub>; resolve with venting.
+	Increases wall tension and VO~2~; resolve with venting.
 	* Ensure good venous return to reservoir
 * Preconditioning  
 Exposure to stimulus reduces subsequent ischaemic injury.
@@ -24,11 +24,11 @@ Exposure to stimulus reduces subsequent ischaemic injury.
 		* Nicorandil
 * Cardioplegia  
 Goal is to maintain electromechanical arrest.
-	* Reduces myocardial VO<sub>2</sub> to ~20%
-	* Provides O<sub>2</sub> and glucose
+	* Reduces myocardial VO~2~ to ~20%
+	* Provides O~2~ and glucose
 	* Multiple types
 * Hypothermia  
-	* Reduces O<sub>2</sub> demand  
+	* Reduces O~2~ demand  
 	~50% per 10°C.
 	* Promotes electromechanical arrest
 

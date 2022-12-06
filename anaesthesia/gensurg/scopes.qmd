@@ -62,10 +62,10 @@ Conditions with risk of:
 
 * Standard ANZCA monitoring
 * Readily accessible IV access
-* End-tidal CO<sub>2</sub> monitoring  
+* End-tidal CO~2~ monitoring  
 Provides early warning of loss of airway patency prior to desaturation.
 * Supplemental oxygen  
-	* Bite block with integrated O<sub>2</sub>
+	* Bite block with integrated O~2~
 	* Hudson mask
 	* High-flow oxgygen
 * Airway adjuncts
@@ -111,7 +111,7 @@ Main intraoperative challenges include:
 * Desaturation
 	* Maintaining a patent airway provides passage for apnoeic oxygenation
 	* Generally treated by reducing sedation and providing supplmental oxygen
-		* Increase nasal prong O<sub>2</sub> flows
+		* Increase nasal prong O~2~ flows
 		* Provide high-flow nasal oxygen
 	* May require intubation
 * CVS instability

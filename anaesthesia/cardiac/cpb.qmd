@@ -147,7 +147,7 @@ Anaesthetist:
 
 Perfusionist:
 
-* Deliver nonpulsatile flow of ~2.4L/min/m<sup>2</sup> to approximate a normal CI
+* Deliver nonpulsatile flow of ~2.4L/min/m^2^ to approximate a normal CI
 * Aim MAP 50-70mmHg
 * Continue anaesthesia
 	* Via TIVA
@@ -179,7 +179,7 @@ Complete a pre-wean checklist and confirm:
 	* ETT is in situ
 * B:
 	* Hand ventilate both lungs and visually check for inflation  
-	Re-establish FRC with a high FiO<sub>2</sub> to reduce immediate shunt.
+	Re-establish FRC with a high FiO~2~ to reduce immediate shunt.
 	* Appropriate blood gases on bypass circuit
 * C:
 	* Pacing box present
@@ -279,7 +279,7 @@ Give 1mg protamine per 100 units of UFH.
 	May need to crash back onto bypass.
 	* Give test dose of 1-2ml initially
 	* Given *slowly*, typically 2-3ml/min, titrating to patient blood pressure
-	* Alert surgeons when half to 1/3<sup>rd</sup> of protamine given  
+	* Alert surgeons when half to 1/3^rd^ of protamine given  
 	Avoid complete reversal whilst cardiotomy suction is still being used.
 * Check ACT 3 minutes after protamine has finished
 

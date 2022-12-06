@@ -14,10 +14,10 @@ Divides based on surgical repair required:
 		* Begins distal to the L ICA
 		* Extends below the diaphragm, but above the renal arteries
 	* Type II
-		* Begins distal to the L ICA, above the 6<sup>th</sup> intercostal space
+		* Begins distal to the L ICA, above the 6^th^ intercostal space
 		* Extends through the diaphragm, and ends below the renal arteries
 	* Type II
-		* Begins below the 6<sup>th</sup> intercostal space
+		* Begins below the 6^th^ intercostal space
 		* Extends below the renal arteries
 	* Type IV  
 		* Begins below the diaphragm, but above the renal arteries

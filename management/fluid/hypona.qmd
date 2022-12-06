@@ -64,7 +64,7 @@ Speed of onset is more important than the absolute value.
 ### History
 
 * Symptoms  
-Largely attributable to brain oedema; rare if Na<sup>+</sup> >135mmol/L.
+Largely attributable to brain oedema; rare if Na^+^ >135mmol/L.
 	* Symptoms of mild hyponatraemia:
 		* Nausea
 		* Vomiting

@@ -18,7 +18,7 @@ Patient:
 Relaxant not required.
 * Age  
 	* Resistance in cuffed tubes is significantly more than uncuffed tubes  
-	As resistance is proportional to the radius<sup>4</sup>; this effect is dramatic in small tube sizes.
+	As resistance is proportional to the radius^4^; this effect is dramatic in small tube sizes.
 	* Consider using uncuffed tubes until ~5.0
 
 

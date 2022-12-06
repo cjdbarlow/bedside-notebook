@@ -37,7 +37,7 @@ Divided into:
 	* AF with:
 		* Valvular AF  
 		AF secondary to valvular disease (either prosthetic, or related to rheumatic valvular disease) has a much higher stroke rate than non-valvular AF.
-		* CHADS<sub>2</sub> 5-6 in non-valvular AF
+		* CHADS~2~ 5-6 in non-valvular AF
 		* CVA/TIA in last 3 months
 	* Mechanical valves:
 		* Any mechanical mitral valve
@@ -50,7 +50,7 @@ Divided into:
 		* Protein C/S or antithrombin deficiency
 * **Intermediate risk**  
 4-10% annual CVA risk. Includes:
-	* AF with CHADS<sub>2</sub> 3-4
+	* AF with CHADS~2~ 3-4
 	* Bileaflet mechanical aortic valve with any CVA risk factor
 	* VTE where:
 		* VTE in the last 3-12 months
@@ -58,7 +58,7 @@ Divided into:
 		* Active malignancy
 * **Low risk**  
 ⩽4% annual risk. Includes:
-	* CHADS<sub>2</sub> 0-2
+	* CHADS~2~ 0-2
 	* Bileaflet mechanical aortic valve alone
 	* VTE ⩾12 months ago
 

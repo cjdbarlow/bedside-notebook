@@ -76,7 +76,7 @@ Removal device placed via guidewire. Options include:
 **Maintenance:**
 * SBP 140-180mmHg
 * BSL 6-10mmol/L
-* CO<sub>2</sub>35-40mmHg
+* CO~2~35-40mmHg
 * Normothermia
 * Liase with interventionalists about points of expected pain and give analgesia accordingly
 

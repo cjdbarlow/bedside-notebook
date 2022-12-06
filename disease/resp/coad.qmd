@@ -78,7 +78,7 @@ Global Initiative for Obstructive Lung Disease Criteria:
 	* Symptom burden  
 	mMRC score.
 	* Number of exacerbations and hospital admissions
-	* FEV<sub>1</sub>
+	* FEV~1~
 
 
 Treatment recommendations:
@@ -107,18 +107,18 @@ Diagnosis should be considered in:
 
 Respiratory function tests are diagnostic and used to grade severity:
 
-* **FEV<sub>1</sub>/FVC of ⩽0.7**
+* **FEV~1~/FVC of ⩽0.7**
 	* Reversibility is not required  
 	Differentiated from asthma on clinical grounds.
-* Severity graded by FEV<sub>1</sub>  
+* Severity graded by FEV~1~  
 Multiple grading systems, the GOLD 2008/NICE 2010 system:
-	* FEV<sub>1</sub> ⩾80% predicted  
+	* FEV~1~ ⩾80% predicted  
 	Mild.
-	* FEV<sub>1</sub> 50-79% predicted  
+	* FEV~1~ 50-79% predicted  
 	Moderate.
-	* FEV<sub>1</sub> 30-49% predicted  
+	* FEV~1~ 30-49% predicted  
 	Severe.
-	* FEV<sub>1</sub> ⩽30% predicted  
+	* FEV~1~ ⩽30% predicted  
 	Very severe.
 
 α-1 antitrypsin:
@@ -148,7 +148,7 @@ Preferred over invasive ventilation, and indicated when:
 	* Severe dyspnoea with signs of fatigue
 	* Persistent hypoxaemia despite supplemental oxygen
 * Home oxygen  
-Indicated in patients with severe resting hypoxia (PaO<sub>2</sub> <60mmHg, or ⩽55mmHg with cor pulmonale or pulmonary hypertension).
+Indicated in patients with severe resting hypoxia (PaO~2~ <60mmHg, or ⩽55mmHg with cor pulmonale or pulmonary hypertension).
 
 
 Surgical Management:

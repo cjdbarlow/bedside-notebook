@@ -41,7 +41,7 @@ Considerations:
 	Foetal heart rate may not vary in the setting of a cardiac lesion (e.g. heart block).
 * Requires accurate foetal trace  
 Maternal trace may be being measured in error. Confirm foetal heart rate using:
-	* Maternal SpO<sub>2</sub> for heart rate  
+	* Maternal SpO~2~ for heart rate  
 	Useful if foetal heart rate and maternal heart rate differ.
 	* Foetal scalp electrode
 

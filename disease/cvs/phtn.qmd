@@ -296,7 +296,7 @@ Consider the package:
 			* Sympathetic stimulation  
 			Pain.
 			* RV overload  
-			Use appropriate PEEP; usually 5-8cmH<sub>2</sub>O.
+			Use appropriate PEEP; usually 5-8cmH~2~O.
 		* Optimise preload  
 		Narrow range of preload tolerance.
 			* Cautious fluid use

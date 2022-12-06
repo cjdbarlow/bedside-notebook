@@ -16,8 +16,8 @@ Multiple:
 	* Manage secretions
 	* Bronchoscopy
 * C:
-	* Improve DO<sub>2</sub>
-	* Reduce VO<sub>2</sub>
+	* Improve DO~2~
+	* Reduce VO~2~
 * D:
 	* Decreased GCS
 	* Status epilepticus

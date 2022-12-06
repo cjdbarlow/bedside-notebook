@@ -43,7 +43,7 @@ Predictors of hypoxaemia:
 		* Right-sided surgery
 		* Previous contralateral resection
 		* Contralateral pathology
-	* Normal FEV<sub>1</sub>
+	* Normal FEV~1~
 	* Chronic vasodilator therapy
 	* Poor oxygenation on two lung ventilation
 * Procedure
@@ -118,7 +118,7 @@ Insertion of a left-sided DLT:
 Anticlockwise for left-sided.
 * Insert DLT until reaching slight resistance
 * Inflate tracheal cuff
-* Confirm ventilation and CO<sub>2</sub>
+* Confirm ventilation and CO~2~
 * Evaluate position with bronchoscope
 	 * Bronchoscope down tracheal lumen
 	 * Confirm RUL position
@@ -175,7 +175,7 @@ Isolation can be achieved using:
 
 General principles involve:
 
-* Ventilation with 100% O<sub>2</sub>  
+* Ventilation with 100% O~2~  
 Aim for maximal denitrogenation; absorption of oxygen will speed up lung collapse.
 
 
@@ -196,7 +196,7 @@ Confirmation of position:
 * Bronchoscopic
 	* Insert DLT
 	* Inflate tracheal cuff
-	* Confirm tracheal intubation with CO<sub>2</sub>
+	* Confirm tracheal intubation with CO~2~
 	* Bronchoscope down tracheal lumen and identify carina  
 	Identify trifurcation of RUL if right-sided.
 	* Inflate bronchial cuff under vision  
@@ -215,7 +215,7 @@ Isolation:
 
 ### Isolation with Bronchial Blocker
 
-* Turn PEEP to 0cmH<sub>2</sub>O
+* Turn PEEP to 0cmH~2~O
 * Insert bronchial blocker  
 May be inserted under bronchoscopic guidance or directed blindly.
 * Inflate the bronchial blocker  
@@ -233,7 +233,7 @@ Isolation of the RUL or RML/RLL is easiest to perform.
 * Place DLT and isolate the operative/injured lung
 * Place bronchial blocker into the non-ventilated lung and inflate the blocker
 * Apply CPAP:  
-Initially 5-10cmH<sub>2</sub>O until recruited, then decrease to 2-5cmH<sub>2</sub>O.
+Initially 5-10cmH~2~O until recruited, then decrease to 2-5cmH~2~O.
 	* Down bronchial blocker  
 	Can be performed by removing loop from Arndt blocker.
 	* To DLT lumen
@@ -269,7 +269,7 @@ Surgical technique will affect rate and adequacy of lung collapse:
 ## Ventilatory Technique
 
 > * Priority is to **avoid hypoxia**  
-Typically aim SpO<sub>2</sub> > 90%.
+Typically aim SpO~2~ > 90%.
 >	* Maintain FRC in ventilated lung
 > * Maximise PVR in the independent/operative/deflated lung
 > * Minimise PVR in the dependent/ventilated lung
@@ -284,20 +284,20 @@ Occurs at lower than usual volumes due to paralysis, lateral position, and the w
 	* Vasodilators
 	* Excessive volatile
 * Begin at:
-	* FiO<sub>2</sub> of 1.0  
+	* FiO~2~ of 1.0  
 	Aim to down-titrate to 0.5-0.8.
 	* Vt of 5ml/kg
-	* 5-10cmH<sub>2</sub> of PEEP  
+	* 5-10cmH~2~ of PEEP  
 	Consider ZEEP in the severe COAD patient.
 * Targeting:
-	* Pplat < 25cmH<sub>2</sub>O
-	* PaCO<sub>2</sub> ~35mmHg  
+	* Pplat < 25cmH~2~O
+	* PaCO~2~ ~35mmHg  
 	Permissive hypercapnoea acceptable; 
 
 
 ### Responding to Hypoxaemia
 
->PaO<sub>2</sub> falls rapidly initially, with a nadir at 20-30 minutes. Will tend to improve as HPV increases.
+>PaO~2~ falls rapidly initially, with a nadir at 20-30 minutes. Will tend to improve as HPV increases.
 
 Critical hypoxaemia:
 
@@ -306,9 +306,9 @@ Critical hypoxaemia:
 	* Major comorbidity
 	* Haemodynamic instability
 * Recruit operative lung until stabilised/help arrived
-	* Increase FiO<sub>2</sub>
+	* Increase FiO~2~
 	* Two-lung ventilation  
-	If SpO<sub>2</sub> <88-85%.
+	If SpO~2~ <88-85%.
 	* CPAP
 
 Identify and treat common causes:
@@ -321,11 +321,11 @@ Check the tube and check the patient:
 		* Suction
 * Derecruitment
 	* Recruitment maneuvre
-	30-40cmH<sub>2</sub>O, noting a drop in CO, BP, and SpO<sub>2</sub> will transiently follow.
+	30-40cmH~2~O, noting a drop in CO, BP, and SpO~2~ will transiently follow.
 		* Arterial line useful if recruiting longer than 10-20s
 	* PEEP titration  
-	Typically up to 10cmH<sub>2</sub>O - noting that excessive PEEP will worsen PVR.
-* Low DO<sub>2</sub>
+	Typically up to 10cmH~2~O - noting that excessive PEEP will worsen PVR.
+* Low DO~2~
 	* Ensure Hb adequate
 	* Consider inotropes
 	* Fall in CO
@@ -333,12 +333,12 @@ Check the tube and check the patient:
 * Shunt through operative lung  
 Likely cause of hypoxia when other factors are optimised. Consider:
 	* Oxygen to operative lung  
-	Delivery of low-flow (e.g. 2L/min) O<sub>2</sub> down a suction catheter.
+	Delivery of low-flow (e.g. 2L/min) O~2~ down a suction catheter.
 		* Catheter can be placed under bronchoscopic guidance to minimise effect on surgical exposure
 	* CPAP to operative lung  
 	May interfere with surgical exposure depending on amount of CPAP applied and proximity of operative site to hilum.
-		* 2cmH<sub>2</sub>O nearly always tolerated
-		* 9cmH<sub>2</sub>O begins to impinge
+		* 2cmH~2~O nearly always tolerated
+		* 9cmH~2~O begins to impinge
 	* Pulmonary vasodilators to ventilated lung  
 	Not appropriate as rescue therapy. 
 		* iNO at 20ppm is effective only when combined with a vasoconstrictor

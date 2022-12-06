@@ -31,7 +31,7 @@ The KDIGO classification stages AKI as follows:
 |---|---|
 |1|1.5-1.9x baseline OR<br> ⩾26.5 μmol/L increase in Cr|⩽0.5ml/kg/hr for 6-12 hours|
 |2|2-2.9x baseline|⩽0.5ml/kg/hr for ⩾12 hours|
-|3|3x baseline OR<br> Cr ⩾354μmol/L OR<br> Initiation of RRT OR<br> eGFR ⩽35ml/min/1.73m<sup>2</sup> in children|⩽0.3ml/kg/hr for ⩾24 hours OR<br> Anuria > 12 hours|
+|3|3x baseline OR<br> Cr ⩾354μmol/L OR<br> Initiation of RRT OR<br> eGFR ⩽35ml/min/1.73m^2^ in children|⩽0.3ml/kg/hr for ⩾24 hours OR<br> Anuria > 12 hours|
 
 
 **Acute tubular necrosis**:
@@ -349,8 +349,8 @@ CRRT is preferred in patients with:
 * CRRT effluent volume should be 20-25ml/hr  
 This typically requires a prescription of 25-30ml/hr due to interruptions.
 	* Hypotension and electrolyte disturbances are more common at higher intensities and are not associated with 
-* RRT efficiency (Kt/V = Intensity/V<sub>D</sub>) should be 3.9
-	* Note that V<sub>D</sub> is dynamic in the critically ill
+* RRT efficiency (Kt/V = Intensity/V~D~) should be 3.9
+	* Note that V~D~ is dynamic in the critically ill
 	* Therefore Kt/V is typically estimated using effluent flow rate
 
 

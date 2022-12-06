@@ -65,7 +65,7 @@ Include:
 	* CVS instability  
 	Seen on tourniquet deflation, due to reactive hyperaemia and wash-out of anaerobic metabolites.
 * Respiratory
-	* Increased PaCO<sub>2</sub>  
+	* Increased PaCO~2~  
 	Occurs on tourniquet deflation, may result in hyperventilation or hypercarbia (with subsequent changes to CNS blood flow).
 * Extremity  
 Decreased core temperature on tourniquet deflation due to heat redistribution.

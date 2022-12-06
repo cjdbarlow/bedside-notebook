@@ -20,7 +20,7 @@ Delegate person to assemble drugs and airway equipment.
 * Provide 100% oxygen
 * Remove airway devices 
 In mild laryngospasm (without total obstruction) it may be reasonable to attempt to break laryngospasm with the LMA in situ.
-* Provide CPAP 30cmH<sub>2</sub>O  
+* Provide CPAP 30cmH~2~O  
 This aims to stent open the airway.
 	* Typically via face mask  
 	Ensure optimal position, consider use of airway adjuncts.
@@ -32,7 +32,7 @@ Between mastoid process and posterior edge of mandible, applying pressure anteri
 <img src="/resources/larson.png")
 
 
-* If SpO<sub>2</sub> >92%, or if desaturation is expected to occur rapidly (obese, children)  
+* If SpO~2~ >92%, or if desaturation is expected to occur rapidly (obese, children)  
 Deepen anaesthesia or relax the patient:
 	* Suxamethonium 0.5mg/kg
 	* Propofol ~20% of induction dose  
@@ -43,7 +43,7 @@ Deepen anaesthesia or relax the patient:
 	If airway patent enough to ventilate.
 
 
-* If SpO<sub>2</sub> <92%  
+* If SpO~2~ <92%  
 Procede directly to intubation:
 	* Suxamethonium 1-2mg/kg  
 	IM is appropriate if an IV route is not available.
@@ -131,7 +131,7 @@ Once laryngospasm is broken:
 * Ensure deep anaesthesia for duration of muscle relaxation
 * Ensure extubation only when the patient is fully awake  
 Prior to extubation, perform an **artificial cough**:
-	* Single lung inflation with 100% O<sub>2</sub> prior to extubation
+	* Single lung inflation with 100% O~2~ prior to extubation
 		* Delays desaturation
 		* Ensures positive pressure in the trachea, which should result in forceful expiration clearing debris from laryngeal inlet
 
