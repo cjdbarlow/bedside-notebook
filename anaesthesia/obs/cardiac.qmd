@@ -46,7 +46,7 @@ Predictors:
 * Care related
 	* Late pregnancy assessment
 
-<img src="/resources/carpreg.jpg">
+![](/resources/carpreg.jpg)
 
 
 ### WHO Risk Stratification

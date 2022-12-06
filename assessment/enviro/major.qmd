@@ -185,7 +185,7 @@ Point of secondary triage and casualty treatment. Should be:
 
 
 *Example of a CCS*  
-<img src="\resources\ccs.jpg">
+![](\resources\ccs.jpg)
 
 ### Safety
 
