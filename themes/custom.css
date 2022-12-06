@@ -34,5 +34,5 @@ li > ul > li > span > hr {
 
 /* colour the glossary */
 span.glossary {
-    color: #78a7cc;
+  text-decoration: underline;
 }
