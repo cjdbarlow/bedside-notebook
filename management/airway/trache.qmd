@@ -1,47 +1,40 @@
 # Tracheostomy Overview
 
-:::column-margin
-This covers the management of tracheostomies, including considerations for planning insertion. Procedural elements are covered elsewhere.
-:::
-
-
-## Considerations
+Definitive airway produced by inserting a tube subglottically through the anterior neck directly into the trachea. May be:
 
 :::column-margin
-Factors to consider with percutaneous versus surgical tracheostomy:
-
-| Favours Percutaneous | Favours Surgical                      |
-| --                   | --                                    |
-|                      | Vascular insertion site on ultrasound |
-
+This covers the management of a tracheostomy, including considerations for their use. [Tracheostomy weaning](management/airway/trache-wean.qmd) and insertion of percutaneous tracheostomy are covered elsewhere.
 :::
 
-
-Considerations for tracheostomy insertion include:
-
-* A
-	* Neck anatomy
-		* Vascularity
-		* Length of accessible trachea\
-		Patients without much extra-thoracic trachea will be more difficult with both insertion and management.
-	* Intubation grade
-* B
-	* Respiratory function\
-		* FiO~2~
-		Risk of airway fire with electrocautery, and indicates tolerance of interruption of ventilation during insertion.
-		* PEEP\
-		Tolerance of de-recruitment and interruption of ventilation during insertion.
-* C
-* D
+* Surgical\
+Dissection and incision of the trachea under direct vision.
+* Percutaneous\
+Seldinger dilation.
 
 
 ## Indications
 
+:::column-margin
+
+| Favours Percutaneous                     | Favours Surgical                             |
+| --                                       | --                                           |
+| ↓ Bleeding                               | Vascular insertion site on ultrasound        |
+| ↓ Infection                              | Complex neck anatomy                         |
+| ↓ Tracheal stenosis                      | Less risk of death/cardiacarrest             |
+| Better cosmetic                          | Greater airway backup (anaesthetist/surgeon) |
+| Logistics (no waiting on surgical lists) | Does not require bronchoscope                |
+| No risk of transfer                      | Emergent                                            |
+
+: Factors to consider: Percutaneous versus surgical tracheostomy
+
+:::
+
 * A
-	* Surgical\
+	* **Surgical**\
 	e.g. Laryngectomy.
 * B
-	* **Respiratory weaning**
+	* Prolonged **respiratory weaning**\
+	To aid patients who are having a prolonged wean from conventional mechanical ventilation. A tracheostomy aids weaning by:
 		* **↓ Sedation** requirements\
 		Facilitates spontaneous ventilation, ↑ proportion of respiratory work done by the patient. May lead to ↓ total time on mechanical ventilation.
 		* ↓ Work of breathing\
@@ -50,33 +43,114 @@ Considerations for tracheostomy insertion include:
 		↓ Risk of laryngeal stenosis, vocal cord ulceration, and improves voice recovery.
 		* ↓ Aspiration risk\
 		Glottic competence is restored, so the tube cuff is not the only thing preventing aspiration.
+		* Better secretion management\
+		Awake patients can cough more effectively.
 * D
 	* ↓ Sedation requirements\
-	Better tube tolerance.
+	Better tube tolerance and **patient comfort** compared to oral ETT.
 		* Improved **communication**\
 		Interaction, and use of speaking valve.
-		* Neurological assessment
+		* Facilitate **neurological assessment**
+	* **Quality of life**\
 * E
 	* Facilitate **physiotherapy**\
 	Positioning, rehabilitation, coughing.
 
 
-## Contraindications
+
+## Considerations
+
+Considerations for tracheostomy insertion include:
+
+:::column-margin
+**Timing** of tracheostomy insertion is difficult. In general:
+
+* Clinicians are **bad at predicting** who will need a tracheostomy
+* Routine early tracheostomy therefore leads to large numbers of unnecessary tracheostomies
+* An approach:
+	* Early if **prolonged ventilation inevitable**\
+	e.g. GBS.
+	*  **>10 days** following **mechanical ventilation**, without imminent extubation
+:::
+
+* A
+	* Neck anatomy
+		* Vascularity
+		* Length of accessible trachea\
+		Patients without much extra-thoracic trachea will be more difficult with both insertion and management.
+	* Intubation grade
+	* C-spine stability
+* B
+	* Respiratory function\
+	Ideally:
+		* FiO~2~ **<0.6**
+		Risk of airway fire with electrocautery, and indicates tolerance of interruption of ventilation during insertion.
+		* PEEP\ **<10cmH~2~O**
+		Tolerance of de-recruitment and interruption of ventilation during insertion.
+* H
+	* Coagulopathy
+* I
+	* Infection\
+	At site of insertion.
+
+
+## Components
+
+Components of the tracheostomy setup:
+
+* **Tracheostomy tube**
+	* Fenestrated\
+	Tube has holes *above* the cuff.
+		* Permits coughing, phonation, and **aspiration**\
+		Outer portion needs to be blocked to divert gas flow via vocal cords.
+		* Aids respiratory weaning
+		* Patient must protect own airway
+		* Improves swallow
+		* Inner cannula can be:
+			* Fenestrated\
+			Allows tube to function as a fenestrated tube.
+			* Unfenestrated\
+			Blocks fenestration, which permits mechanical ventilation. Mechanical ventilation of a fenestrated tube results in significant circuit leak and a distressed, continually-exhaling patient.
+	* Unfenestrated
+* **Inner cannula**\
+Inner tube placed inside the tracheostomy tube to prevent it being contaminated.
+	* Easy cleaning\
+	Just remove the inner cannula, clean, and replace.
+	* ↓ Internal dimensions/↑ airway resistance\
+	Degree depends on the catheter size.
+* **Speaking** (Passy Muir) **valve**\
+One-way valve that allows a patient to *in*spire through the tracheostomy, and then *ex*pire via the native away, allowing phonation. This **requires** the **cuff** to be **deflated**, or the patient will be unable to breathe
+* Tracheostomy **cap**\
+Occlusive cover for the tracheostomy tube, preventing inspiration via the tracheostomy tube, turning the tube into a partial upper airway obstruction. This requires the patient to inspire and expire via the native airway, and also the cuff to be deflated.
+
+
+
+
 
 ## Management
 
 Caring for a tracheostomy tube:
 
+:::column-margin
+Tracheostomy patients are high risk and should be managed by trained staff. An ICU outreach team is beneficial.
+:::
+
 * A
 	* **Cuff pressures**\
 	Keep **<30mmHg** to reduce the risk of tracheal ulceration and stenosis.
+	* **Clean**ing\
+	Inner cannula (if present) should be cleaned when necessary.
+	* **Suction**ing\
+		* *Shallow* tracheal suctioning (to the length of the tube) to remove secretions, particularly if cough is inadequate
+		* Suction channels (above the cuff) should be suctioned at least Q4H
+	* Wound care\
+	The wound must be kept clean to prevent infection.
 * B
 	* **Humidification**\
-	Important for:
+	Should be routine, including if patient is using trache hood or Swedish nose. Important for:
 		* Patient comfort
 		* Secretion management\
 		↓ Viscosity.
-
 
 
 ## Complications
@@ -96,6 +170,7 @@ In-situ tracheostomy:
 			* Training
 			* Numbers
 	* **Bleeding**\
+	~5% of cases.
 		* Early\
 		Due to vascular injury.
 		* Late\
@@ -140,7 +215,7 @@ Post-tracheostomy:
 
 * A
 	* Tracheal **stenosis**\
-	Commonly occurring, rarely significant. Risk increased with:
+	Commonly occurring (1-2%), rarely significant. Risk increased with:
 		* Procedural
 			* Tracheal ring fracture
 		* Equipment
@@ -160,4 +235,6 @@ Post-tracheostomy:
 ---
 
 ## References
+
+1. De Leyn, Paul, Lieven Bedert, Marion Delcroix, Pieter Depuydt, Geert Lauwers, Youri Sokolov, Alain Van Meerhaeghe, Paul Van Schil, and Belgian Association of Pneumology and Belgian Association of Cardiothoracic Surgery. “Tracheotomy: Clinical Review and Guidelines.” European Journal of Cardio-Thoracic Surgery: Official Journal of the European Association for Cardio-Thoracic Surgery 32, no. 3 (September 2007): 412–21. [](https://doi.org/10.1016/j.ejcts.2007.05.018)
 

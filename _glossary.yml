@@ -38,11 +38,13 @@ EEG: Electroencephalogram
 EPO: Erythropoietin
 ERP: Effective Refractory Period
 ESV: End-Systolic Volume
+exophoria: Lateral deviation of the eyes.
 FEV1: Forced Expiratory Volume in 1 second
 FFA: Free Fatty Acid
 FRC: Functional Residual Capacity
 FSH: Follicle Stimulating Hormone
 FVC: Forced Vital Capacity
+GBS: Guillain-Barré syndrome
 GFR: Glomerular Filtration Rate
 GH: Growth Hormone
 Hb: Haemoglobin
@@ -109,5 +111,4 @@ VIE: Vacuum Insulated Evaporator
 VR: Venous Return
 VRG: Ventral Respiratory Group
 ZEEP: Zero End-Expiratory Pressure
-exophoria: Lateral deviation of the eyes.
 ---

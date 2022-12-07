@@ -29,6 +29,7 @@ format:
         # Style
         toc: true
         toc-title: "On this Page"
+        tbl-cap-location: top
         sidebar:
         style: floating
         fig-align: center
@@ -94,14 +95,13 @@ book:
               chapters:
                 - management/airway/trache-crisis.qmd
                 - management/airway/trache.qmd
-                # Weaning
+                - management/airway/trache-wean.qmd
         - part: "Respiratory"
           chapters:
             - part: "Ventilation"
               chapters:
                 - management/resp/olv.qmd
                 # Weaning
-                # Tracheostomy care
                 # Modes
             # - part: "Equipment"
             #   chapters:
