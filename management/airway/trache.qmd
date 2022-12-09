@@ -20,10 +20,10 @@ Seldinger dilation.
 | --                                       | --                                           |
 | ↓ Bleeding                               | Vascular insertion site on ultrasound        |
 | ↓ Infection                              | Complex neck anatomy                         |
-| ↓ Tracheal stenosis                      | Less risk of death/cardiacarrest             |
-| Better cosmetic                          | Greater airway backup (anaesthetist/surgeon) |
+| ↓ Tracheal stenosis                      | Less risk of death/cardiac arrest            |
+| Better cosmetic result                   | Greater airway backup (anaesthetist/surgeon) |
 | Logistics (no waiting on surgical lists) | Does not require bronchoscope                |
-| No risk of transfer                      | Emergent                                            |
+| No risk of intrahospital transfer        | Emergent                                     |
 
 : Factors to consider: Percutaneous versus surgical tracheostomy
 
@@ -179,7 +179,7 @@ In-situ tracheostomy:
 			Erosion (classically of the *cuff*) into the innominate artery.
 				* Risk factors
 					* Procedural
-						* Low insertion\Mediastinal tracheostomy\
+						* Low insertion site or mediastinal tracheostomy\
 						Innominate artery at level of 9^th^ tracheal ring.
 						* Surgical tracheostomy
 						* Hyperextension during insertion
@@ -193,12 +193,11 @@ In-situ tracheostomy:
 					* Air entrainment
 	* **Obstruction**
 		* Bleeding
-		* Secretions
+		* Secretions\
+		↑ Risk if dehumidified.
 * B
 	* **Failure to wean**\
 	If the patient is unable to wean from the ventilator despite the tracheostomy, this may be an unsatisfactory outcome for both patient and family.
-	* Blockage with **secretions**\
-	↑ Risk if dehumidified.
 	* Pneumonia\
 	↑ Risk due to bypass of normal upper respiratory protective mechanisms. Occurs in **~25%** of patients.
 * D

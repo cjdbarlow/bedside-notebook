@@ -60,6 +60,15 @@ Structures for specific question formats:
 	* Cons
 	* Evidence base
 	* My approach
+* **Toxin**
+	* **R**esuscitation
+	* **R**isk assessment
+	* **S**upportive Care
+	* **I**nvestigations
+	* **D**econtamination
+	* **E**nhanced Elimination
+	* **A**ntidotes
+	* **D**isposition
 
 
 ---
