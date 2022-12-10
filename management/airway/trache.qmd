@@ -3,7 +3,7 @@
 Definitive airway produced by inserting a tube subglottically through the anterior neck directly into the trachea. May be:
 
 :::column-margin
-This covers the management of a tracheostomy, including considerations for their use. [Tracheostomy weaning](management/airway/trache-wean.qmd) and insertion of percutaneous tracheostomy are covered elsewhere.
+This covers the management of a tracheostomy, including considerations for their use. [Tracheostomy weaning](/management/airway/trache-wean.qmd) and insertion of percutaneous tracheostomy are covered elsewhere.
 :::
 
 * Surgical\

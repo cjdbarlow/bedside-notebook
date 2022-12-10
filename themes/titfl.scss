@@ -258,6 +258,7 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0
 .danger,
 .caution,
 .tick,
+.gas,
 .ANZCA,
 .CICM,
 .dual {
@@ -275,6 +276,7 @@ div.info p,
 div.danger p,
 div.caution p,
 div.tick p,
+div.gas p,
 div.ANZCA p,
 div.CICM p,
 div.dual p {
@@ -286,6 +288,7 @@ div.info ul,
 div.danger ul,
 div.caution ul,
 div.tick ul,
+div.gas ul,
 div.ANZCA ul,
 div.CICM ul,
 div.dual ul {
@@ -297,6 +300,7 @@ div.info > :first-child,
 div.danger > :first-child,
 div.caution > :first-child,
 div.tick > :first-child,
+div.gas > :first-child,
 div.ANZCA > :first-child,
 div.CICM > :first-child,
 div.dual > :first-child {
@@ -307,6 +311,7 @@ div.info > :last-child,
 div.danger > :last-child,
 div.caution > :last-child,
 div.tick > :last-child,
+div.gas > :last-child,
 div.ANZCA > :last-child,
 div.CICM > :last-child,
 div.dual > :last-child {
@@ -351,6 +356,16 @@ div.dual > :last-child {
     display: block;
     border-color: #26cb7c;
     background-color: rgba(38,203,124,.1)
+}
+
+.gas {
+    background-image: url("themes/images/syringe.svg") !important;
+    background-repeat: no-repeat;
+    background-size: 1.2em;
+    background-position: 1em 50%;
+    display: block;
+    border-color: #868686;
+    background-color: rgba(134,134,134,0.1)
 }
 
 .ANZCA {

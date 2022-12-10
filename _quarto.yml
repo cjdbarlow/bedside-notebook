@@ -77,7 +77,7 @@ book:
     # Management
     - part: "Management"
       chapters:
-        - part: "Arrest and Resuscitation"
+        - part: "**Resuscitation**"
           chapters:
             - management/arrest/neonatal.qmd
             - management/arrest/postcardiac.qmd
@@ -404,7 +404,7 @@ book:
     # Pathology
     - part: "Pathology"
       chapters:
-        # Respiratory
+      # Respiratory
       - part: "Respiratory"
         chapters:
         #- part: "Failure"
@@ -436,7 +436,7 @@ book:
         # - part: "Chest wall"
         #   chapters:
             # Diaphragmatic palsy
-        # Cardiac
+      # Cardiac
       - part: "Cardiovascular"
         chapters:
         - part: "Shock and Failure"
@@ -489,7 +489,7 @@ book:
         - part: "Congenital"
           chapters:
             - disease/cvs/fontan.qmd
-        # Neuro and neuromuscular
+      # Neuro and neuromuscular
       - part: "Neurological"
         chapters:
         - part: "Failure"
@@ -531,7 +531,35 @@ book:
             - disease/neuro/bmd.qmd
             - disease/neuro/myotonic.qmd
             - disease/neuro/cim.qmd
-        # Renal
+      # Endocrine & Metabolic 
+      - part: "Endocrine and Metabolic"
+        chapters:
+        - part: "Fluid and Electrolyte"
+          chapters:
+            - disease/fluid/siadh.qmd
+            - disease/fluid/turp-syndrome.qmd
+        # - part: "Nutrition"
+        #   chapters:
+            # Malnutrition
+            # Refeeding syndrome
+        - part: "Glucose Handling"
+          chapters:
+            - disease/endo/dm.qmd
+            - disease/endo/edka.qmd
+            - disease/endo/insulinoma.qmd
+        - part: "Adrenal"
+          chapters:
+            - disease/endo/cushing.qmd
+            - disease/endo/conn.qmd
+            # Addison's
+        - part: "Thyroid"
+          chapters:
+            - disease/endo/hyperthyroidism.qmd
+            - disease/endo/hypothyroidism.qmd
+        - part: "Hypothalamic"
+          chapters:
+            - disease/endo/acromegaly.qmd
+      # Renal
       - part: "Renal"
         chapters:
         - part: "Failure"
@@ -553,34 +581,6 @@ book:
             # Obstruction
             # Infection
             # Stones
-        # Metabolic and Endocrine
-      - part: "Metabolic and Endocrine"
-        chapters:
-        - part: "Fluid and Electrolyte"
-          chapters:
-            - disease/fluid/siadh.qmd
-            - disease/fluid/turp-syndrome.qmd
-        # - part: "Nutrition"
-        #   chapters:
-            # Malnutrition
-            # Refeeding syndrome
-        - part: "Glucose Handling"
-          chapters:
-            - disease/endo/dm.qmd
-            - disease/endo/edka.qmd
-            - disease/endo/insulinoma.qmd
-        - part: "Adrenal"
-          chapters:
-            - disease/endo/cushing.qmd
-            - disease/endo/conn.qmd
-            # Addisons
-        - part: "Thyroid"
-          chapters:
-            - disease/endo/hyperthyroidism.qmd
-            - disease/endo/hypothyroidism.qmd
-        - part: "Hypothalamic"
-          chapters:
-            - disease/endo/acromegaly.qmd
         # Gastrointestinal
       - part: "Gastrointestinal"
         chapters:
@@ -629,7 +629,7 @@ book:
             # TTP
             # ITP
         # Rheumatology, Immunology, and Dermatology
-      - part: "Rheum/Immune/Derm"
+      - part: "Immune/Rheum/Derm/MSK"
         chapters:
         - part: "Acute"
           chapters:
@@ -643,13 +643,16 @@ book:
             # SLE
             # PAM
             # PMR
+        # - part: "Vasculitis"
+        #   chapters:
         - part: "Connective Tissue"
           chapters:
             - disease/rid/scleroderma.qmd
             # CREST
             # Marfans
-        # - part: "Vasculitis"
+        # - part: "Muscular"
         #   chapters:
+            # Rhabdo
         # Trauma
       - part: "Trauma"
         chapters:
