@@ -33,23 +33,29 @@ Seldinger dilation.
 	* **Surgical**\
 	e.g. Laryngectomy.
 * B
-	* Prolonged **respiratory weaning**\
-	To aid patients who are having a prolonged wean from conventional mechanical ventilation. A tracheostomy aids weaning by:
+	* **Long-term mechanical ventilation**\
+	Useful for patients requiring long-term ventilation, and to aid **respiratory weaning** by:
 		* **↓ Sedation** requirements\
 		Facilitates spontaneous ventilation, ↑ proportion of respiratory work done by the patient. May lead to ↓ total time on mechanical ventilation.
 		* ↓ Work of breathing\
 		↓ Airway resistance and (marginally) ↓ dead space relative to ETT.
-		* ↓ Airway trauma\
-		↓ Risk of laryngeal stenosis, vocal cord ulceration, and improves voice recovery.
-		* ↓ Aspiration risk\
+		* **↓** Airway **trauma**\
+		↓ Risk of laryngeal stenosis, vocal cord ulceration, and improves voice recovery. These risks rise after **1 week** of oral intubation.
+		* **↓ Aspiration** risk\
 		Glottic competence is restored, so the tube cuff is not the only thing preventing aspiration.
-		* Better secretion management\
-		Awake patients can cough more effectively.
+		* Better **secretion management**\
+		Awake patients can cough more effectively. Potentially less VAP.
+		* Better **oral care**\
+		Can brush teeth.
 * D
-	* ↓ Sedation requirements\
+	* **↓ Sedation** requirements\
 	Better tube tolerance and **patient comfort** compared to oral ETT.
 		* Improved **communication**\
-		Interaction, and use of speaking valve.
+			* Desedation facilitates interaction
+			* Lip-reading\
+			Easier without an ETT.
+			* Talking\
+			With the cuff down, and with or without a speaking valve. Requires generating subglottic pressure of >2cmH~2~O.
 		* Facilitate **neurological assessment**
 	* **Quality of life**\
 * E
@@ -98,7 +104,8 @@ Considerations for tracheostomy insertion include:
 
 Components of the tracheostomy setup:
 
-* **Tracheostomy tube**
+* **Tracheostomy tube**\
+May be:
 	* Fenestrated\
 	Tube has holes *above* the cuff.
 		* Permits coughing, phonation, and **aspiration**\
@@ -119,12 +126,15 @@ Inner tube placed inside the tracheostomy tube to prevent it being contaminated.
 	* ↓ Internal dimensions/↑ airway resistance\
 	Degree depends on the catheter size.
 * **Speaking** (Passy Muir) **valve**\
-One-way valve that allows a patient to *in*spire through the tracheostomy, and then *ex*pire via the native away, allowing phonation. This **requires** the **cuff** to be **deflated**, or the patient will be unable to breathe
+One-way valve that allows a patient to *in*spire through the tracheostomy, and then *ex*pire via the native away, allowing phonation. The valve:
+	* **Requires** the **cuff** to be **deflated**\
+	Or the patient will be unable to exhale.
+	* A humidifier can (and should) be used\
+	An HME will be ineffective as the patient exhales via a different route.
+	* Can be used with or without a ventilator\
+	The ventilator will need to be set accordingly, to prevent continual alarms.
 * Tracheostomy **cap**\
 Occlusive cover for the tracheostomy tube, preventing inspiration via the tracheostomy tube, turning the tube into a partial upper airway obstruction. This requires the patient to inspire and expire via the native airway, and also the cuff to be deflated.
-
-
-
 
 
 ## Management
@@ -151,6 +161,30 @@ Tracheostomy patients are high risk and should be managed by trained staff. An I
 		* Patient comfort
 		* Secretion management\
 		↓ Viscosity.
+
+
+### Facilitating Speech
+
+Speech greatly improves the quality of life of a patient with a tracheostomy. All methods of phonation require gas to be exhaled via the native airway. This requires:
+
+:::column-margin
+Contraindications to speaking:
+
+* High aspiration risk
+	* Unconscious/comatose
+	* Loss of upper airway reflexes
+	* High secretion load
+* Unable to exhale via native airway
+	* Upper airway obstruction
+	* Inadequate lung mechanics\
+	↑ Resistance, ↓ compliance.
+:::
+
+* A **deflated** cuff
+* Prevention of expiration via the tracheostomy
+	* Finger-occlusion
+	* Speaking valve
+	* Cap
 
 
 ## Complications
@@ -236,4 +270,5 @@ Post-tracheostomy:
 ## References
 
 1. De Leyn, Paul, Lieven Bedert, Marion Delcroix, Pieter Depuydt, Geert Lauwers, Youri Sokolov, Alain Van Meerhaeghe, Paul Van Schil, and Belgian Association of Pneumology and Belgian Association of Cardiothoracic Surgery. “Tracheotomy: Clinical Review and Guidelines.” European Journal of Cardio-Thoracic Surgery: Official Journal of the European Association for Cardio-Thoracic Surgery 32, no. 3 (September 2007): 412–21. [](https://doi.org/10.1016/j.ejcts.2007.05.018)
-
+2. Dulguerov, Pavel, Gysin, Claudine, Perneger, Thomas, MD, PhD, Chevrolet, Jean-Claude. Percutaneous or surgical tracheostomy: A meta-analysis. Crit Care Med. 1999;27(8):1617-1625. [](https://doi.org/10.1097/00003246-199908000-00041)
+3. Hess, Dean R. “Facilitating Speech in the Patient With a Tracheostomy.” Respiratory Care 50, no. 4 (April 1, 2005): 519–25. [](https://doi.org/10.1097/00003246-199908000-00041)
