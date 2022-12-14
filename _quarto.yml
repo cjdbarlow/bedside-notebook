@@ -155,7 +155,7 @@ book:
             - part: "Electrolyte"
               chapters:
                 - management/fluid/hypona.qmd
-        - part: "Blood"
+        - part: "Haematology"
           chapters:
           - management/haeme/blood.qmd
           - management/haeme/massive-transfusion.qmd
@@ -392,7 +392,7 @@ book:
     # Intensive Care
     - part: "Intensive Care"
       chapters:
-        - intensive/postop-cthr.qmd
+        - intensive/post-cardiac.qmd
         # Post op thoracic
         # Post op neuro
         # Oncollogy
@@ -470,6 +470,7 @@ book:
           # Pericarditis
         - part: "Systemic Vascular"
           chapters:
+            # Acute aortic syndromes
             - disease/cvs/dissection.qmd
             - disease/cvs/htn.qmd
             # TAA
@@ -629,15 +630,16 @@ book:
             # TTP
             # ITP
         # Rheumatology, Immunology, and Dermatology
-      - part: "Immune/Rheum/Derm/MSK"
+      - part: "Immune/Rheum/Derm"
         chapters:
-        - part: "Acute"
+        - part: "Acute Reactions"
           chapters:
             - disease/rid/anaphylaxis.qmd
             # Tranfusion reactions
             # TENS/SJS
         - part: "Autoimmune"
           chapters:
+            - disease/rid/iris.qmd
             - disease/rid/sarcoid.qmd
             - disease/rid/ra.qmd
             # SLE
@@ -650,9 +652,6 @@ book:
             - disease/rid/scleroderma.qmd
             # CREST
             # Marfans
-        # - part: "Muscular"
-        #   chapters:
-            # Rhabdo
         # Trauma
       - part: "Trauma"
         chapters:
@@ -673,15 +672,16 @@ book:
         #   chapters:
         # - part: "Abdomen and Pelvis"
         #   chapters:
-        # - part: "Long Bones"
+        # - part: "Extremities"
         #   chapters:
+            # Rhabdo
         # Infection
       - part: "Infection"
         chapters:
         - part: "Systemic"
           chapters:
             - disease/infective/sepsis.qmd
-            # HIV
+            - disease/infective/hiv.qmd
             # TSS
             # Tetanus
             # Botulism
@@ -710,8 +710,8 @@ book:
           chapters:
             - disease/tox/serotonin-syndrome.qmd
             - disease/tox/last.qmd
-        - part: "Environmental"
-          chapters:
+        # - part: "Environmental"
+        #   chapters:
             # Barotrauma
             # Decompression injury
             # Hyperthermia

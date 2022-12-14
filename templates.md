@@ -37,14 +37,15 @@ BIS -> Processed EEG
 
 # Operation
 
-
->Airway: 
->Access: 
->Pain: 
->Position:
->Time: 
->Blood loss:
->Special:
+:::gas
+Airway: 
+Access: 
+Pain: 
+Position:
+Time: 
+Blood loss:
+Special:
+:::
 
 Intro and technique
 

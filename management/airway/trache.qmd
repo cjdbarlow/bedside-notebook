@@ -206,25 +206,16 @@ In-situ tracheostomy:
 	* **Bleeding**\
 	~5% of cases.
 		* Early\
-		Due to vascular injury.
+		Bleeding within **48 hours** is likely venous.
 		* Late\
 		Due to erosion of the tracheostomy into a vascular structure.
-			* Tracheo-innominate fistula\
+			* [**Tracheo-innominate fistula**](/management/airway/trache-crisis.qmd)\
 			Erosion (classically of the *cuff*) into the innominate artery.
-				* Risk factors
-					* Procedural
-						* Low insertion site or mediastinal tracheostomy\
-						Innominate artery at level of 9^th^ tracheal ring.
-						* Surgical tracheostomy
-						* Hyperextension during insertion
-					* Equipment
-						* Over-inflated cuff
-						* Anteriorly-curved tracheostomy tube
-					* Patient
-						* Poor wound healing
 				* Leads to catastrophic:
 					* Bleeding and airway soiling
 					* Air entrainment
+			* Any bleeding between 3 days and 6 weeks should be investigated for a fistula\
+			Either bronchoscopically or via CT.
 	* **Obstruction**
 		* Bleeding
 		* Secretions\
@@ -272,3 +263,6 @@ Post-tracheostomy:
 1. De Leyn, Paul, Lieven Bedert, Marion Delcroix, Pieter Depuydt, Geert Lauwers, Youri Sokolov, Alain Van Meerhaeghe, Paul Van Schil, and Belgian Association of Pneumology and Belgian Association of Cardiothoracic Surgery. “Tracheotomy: Clinical Review and Guidelines.” European Journal of Cardio-Thoracic Surgery: Official Journal of the European Association for Cardio-Thoracic Surgery 32, no. 3 (September 2007): 412–21. [](https://doi.org/10.1016/j.ejcts.2007.05.018)
 2. Dulguerov, Pavel, Gysin, Claudine, Perneger, Thomas, MD, PhD, Chevrolet, Jean-Claude. Percutaneous or surgical tracheostomy: A meta-analysis. Crit Care Med. 1999;27(8):1617-1625. [](https://doi.org/10.1097/00003246-199908000-00041)
 3. Hess, Dean R. “Facilitating Speech in the Patient With a Tracheostomy.” Respiratory Care 50, no. 4 (April 1, 2005): 519–25. [](https://doi.org/10.1097/00003246-199908000-00041)
+4. Ailawadi, Gorav. “Technique for Managing Tracheo-Innominate Artery Fistula.” Operative Techniques in Thoracic and Cardiovascular Surgery 14, no. 1 (March 1, 2009): 66–72. [](https://doi.org/10.1053/j.optechstcvs.2009.02.003).
+5. Donaldson, Lachlan, and Raymond Raper. “Successful Emergency Management of a Bleeding Tracheoinnominate Fistula.” BMJ Case Reports 12, no. 12 (December 2019): e232257. https://doi.org/10.1136/bcr-2019-232257.
+

@@ -6,33 +6,75 @@
 
 ## Tracheo-Innominate Fistula
 
+Fistula between trachea and innominate artery occurring due to erosion from the tracheostomy tube or cuff, leading to catastrophic:
+
+:::column-margin
+The **Utley Manouvre** involves digital compressing the innominate artery against the manubrium to reduce bleeding.
+
+* Place finger through stoma\
+This may require lateral and inferior extension of the incision to gain access. Consider inserting a Foley catheter as an alternative.
+* Blunt dissect *anterior* to the tracheal wall to create a plane between the trachea and the innominate artery
+* Compress artery against manubrium\
+Artery can be identified by pulsation.
+
+![](/resources/utley.jpg)
+:::
+
+* Airway soiling with arterial haemorrhage
+* Air entrainment and embolism
+* Death\
+In over **90%** of cases.
+
 :::danger
-This is a **crisis**. Priorities are:
+Tracheo-innominate fistula is a **crisis**. Priorities are:
 
 * Control haemorrhage and reduce airway soiling\
 Methods:
 	* **Overinflate** the **tracheostomy cuff**\
 	* **Intubate** from above\
 	May not be an option if the patient has had the laryngectomy.
-	* Digital compression
-* Call a **surgeon**
+	* Digital compression\
+* Call a **surgeon**\
 :::
 
-Fistula between trachea and innominate artery, causing catastrophic:
+A tracheo-innominate fistula is:
 
-* Airway soiling with arterial haemorrhage
-* Air entrainment and embolism
+* **Rare**, ~0.1-1%
+* Occurs between 3 days and 6 weeks following insertion\
+Peak incidence 7-14 days.
+* Associated with various risk factors:
+	* Procedural
+		* Low insertion site or mediastinal tracheostomy\
+		Innominate artery at level of 9^th^ tracheal ring.
+		* Surgical tracheostomy
+		* Hyperextension during insertion
+	* Equipment
+		* Over-inflated cuff
+		* Anteriorly-curved tracheostomy tube
+	* Patient
+		* Poor wound healing
+* Proceeded by a **herald bleed** in **50%** of cases^[This [terrifying case report](https://casereports.bmj.com/content/12/12/e232257) begins:\
+"Thirty days following the insertion of the original tracheostomy, small amounts of blood-stained secretions and tracheal aspirates were noted for the first time.\
+\
+Later that evening, spontaneous massive haemorrhage via the tracheostomy stoma, the tracheostomy tube and the mouth occurred."]
+* 
+				
 
-:::column-margin
-The **Utley Manouvre** involves digital compressing the innominate artery against the manubrium to reduce bleeding.
 
-* Place finger through stoma
-* Blunt dissect *proximal* to the tracheal wall to create a plane between the trachea and the innominate artery
-* Compress artery against manubrium
-:::
+Definitive management will be **surgical**:
 
+* May require a sternotomy, and cardiac surgery involvement
+* The innominate artery will usually be ligated due to the high risk of recurrent bleeding
+* Stenting the innominate *may* be an option, but is centre and skill-mix dependent
+* Keep SBP 120-140 post-operatively to minimising rebleeding
 
 
 ---
 
 ## References
+
+1. Ailawadi, Gorav. “Technique for Managing Tracheo-Innominate Artery Fistula.” Operative Techniques in Thoracic and Cardiovascular Surgery 14, no. 1 (March 1, 2009): 66–72. [](https://doi.org/10.1053/j.optechstcvs.2009.02.003).\
+This has the excellent figure used in the margin note above.
+2. Donaldson, Lachlan, and Raymond Raper. “Successful Emergency Management of a Bleeding Tracheoinnominate Fistula.” BMJ Case Reports 12, no. 12 (December 2019): e232257. https://doi.org/10.1136/bcr-2019-232257.
+
+

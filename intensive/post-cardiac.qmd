@@ -1,16 +1,8 @@
-# Management of Post-Operative Cardiac Surgery
-
-*This section covers the intensive care management common to post-op cardiac surgical patients*
-
+# Post Cardiac Surgery
 
 Cardiac surgery is unique due to the:
 
-* Type of procedure  
-Common cardiac surgical procedures include:
-	* Coronary Bypass Grafting
-	* Valve repair/replacement
-	* Aortic root repair/replacement
-	* Repair of ASD/VSD
+* Variety in the types of procedure  
 * Use of [Cardiopulmonary Bypass](/anaesthesia/cardiac/cpb.md)
 * Post-operative complications seen
 
@@ -303,10 +295,10 @@ Complications of cardiac surgery relevant to intensive care include:
 	Due to uncontrolled (typically arterial) source. Suggested by:
 		* Bleeding with normal coagulation parameters
 		* Large volume drain outputs  
-			* \>500ml in 1 hour
-			* \>400ml/hr for 2 hours
-			* \>300ml/hr for 3 horus
-			* \>200ml/hr for 4 hours
+			* >500ml in 1 hour
+			* >400ml/hr for 2 hours
+			* >300ml/hr for 3 horus
+			* >200ml/hr for 4 hours
 		* Bleeding following period of extreme hypertension
 * **Cardiac Tamponade**  
 Collection of fluid (blood) around the heart, impairing filling and therefore CO.

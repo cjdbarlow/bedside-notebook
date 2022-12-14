@@ -15,6 +15,7 @@ BTPS: Body Temperature and Pressure, Standard
 CAC: Citric Acid Cycle
 CBF: Cerebral Blood Flow
 CMRO2: Cerebral Metabolic Rate for Oxygen
+CMV: Cytomegalovirus
 CNS: Central Nervous System
 COX: Cyclo-Oxygenase
 CSF: Cerebrospinal Fluid
@@ -47,12 +48,16 @@ FVC: Forced Vital Capacity
 GBS: Guillain-Barré syndrome
 GFR: Glomerular Filtration Rate
 GH: Growth Hormone
+HAART: Highly active antiretroviral therapy
 Hb: Haemoglobin
+HIV: Human Immunodeficiency Virus
 HPA: Hypothalamic-Pituitary Axis
 HR: Heart Rate
+HSV: Herpes Simplex Virus
 ICF: Intracellular Fluid
 ICP: Intracranial Pressure
 IJV: Internal Jugular Vein
+IRIS: Immune Reconstitution Inflammatory Syndrome
 IVC: Inferior Vena Cava
 IOP: Intraocular Pressure
 KOP: K-type (κ) opioid receptor
@@ -87,6 +92,7 @@ PEEP: Positive End-Expiratory Pressure
 PEFR: Peak Expiratory Flow Rate
 PDGF: Platelet-Derived Growth Factor
 PPV: Pulse Pressure Variation
+RA: Right Atrium *or* Rheumatoid Arthritis
 RAP: Right Atrial Pressure
 RCA: Right Coronary Artery
 RR: Respiratory Rate
@@ -97,14 +103,17 @@ RVEDP: Right Ventricular End-Diastolic Volume
 SAQ: Short Answer Question
 SBP: Systolic Blood Pressure
 SCV: Subclavian Vein
+SLE: Systemic Lupus Erythematosus
 STP: Standard Temperature and Pressure (0°C at 100kPa)
 SV: Stroke Volume
 SVC: Superior Vena Cava
 SVR: Systemic Vascular Resistance
 SVP: Saturated Vapour Pressure
 SVV: Stroke Volume Variation
+TB: Tuberculosis
 TBW: Total Body Water
 TLC: Total Lung Capacity
+TNF: Tumour Necrosis Factor
 TSH: Thyroid Stimulating Hormone
 VMA: Vanillylmandelic acid
 VIE: Vacuum Insulated Evaporator

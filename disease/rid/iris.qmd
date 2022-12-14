@@ -1,0 +1,113 @@
+# Immune Reconstitution Inflammatory Syndrome
+
+**Dysregulated and hyper-inflammatory state** that due to an abrupt shift from an **anti-inflammatory** and **immunosuppressed** state **to** a **pro-inflammatory** state.
+
+:::column-margin
+Although IRIS can occur in any patient seeing a recovery of suppressed immune function, the disease was originally described in HIV patients commencing HAART who paradoxically developed opportunistic infections, and most of the evidence (and therefore this summary) relates to this population.
+:::
+
+Diagnosis requires both **improving immunologic function** and one of either:
+
+* **Paradoxical worsening** of an existing disease\
+This drives the treating of known infection, prior to commencing HAART.
+* **Unmasking** of a previously unknown disease
+
+
+## Epidemiology and Risk Factors
+
+:::info
+IRIS is also known as: immune recovery disease, immune reconstitution disease, immune reconstitution syndrome, immune restoration disease, and immune rebound illness.\
+\
+Early papers also described it variably as: paradoxical immune activation, immune restitution vitritis (for the ocular variants), paradoxical inflammatory flares, partial immune restoration and pathogen associated inflammatory disease.
+:::
+
+Factors influencing incidence and severity of IRIS **in HIV** include:
+
+* Severity of CD4 lymphopenia\
+* Severity of existing opportunistic infection
+* HIV viral load prior to commencing HAART
+* Rapid response to HAART
+
+## Pathophysiology
+
+Underlying mechanisms are not fully understood, but involve:
+
+* *Rapid* change in T-helper responses
+
+
+### Aetiology
+
+IRIS requires both recovery from an immunosuppressed state and a precipitant:
+
+* **Immunosuppressed state**s
+	* Commencement of HAART for HIV\
+	IRIS occurs most commonly in the first **six months** of treatment. May occur in up to **30%** of patients, though risk is lower if patients commence HAART prior to significant decline in CD4 counts.
+	* Withdrawal of immunosuppression in solid organ transplant
+	* Post-partum\
+	Risk in **3-6 weeks** post-partum, as the immunosuppressed state of pregnancy resolves.
+	* Resolution of Neutropenia
+	* Withdrawal of TNF antagonists
+* **Precipitant**
+	* Latent\opportunistic infections\
+	Classically:
+		* TB
+		* *Mycobacterium avium*
+		* CMV
+		* HSV
+		* Hepatitis viruses
+		* *Cryptococcus neoformans*
+		* *Pneumocystis jirovecii*
+	* Autoimmune diseases\
+	SLE, RA.
+
+
+## Clinical Manifestations
+
+Clinical features relate to the presenting symptoms of the precipitating illness.
+
+## Diagnostic Approach and DDx
+
+Diagnosis is made clinically:
+
+* Improvement in immunological function
+	* From a suitable nadir of immunosuppression
+		* In HIV/AIDS, a CD4 nadir of <100 cells/µl is usually required (or <200 for TB)
+	* Adequate return of function
+
+
+Differential is broad, and includes:
+
+* Progression of opportunistic infection for another reason
+* New opportunistic infection
+* Drug toxicity
+
+
+## Management
+
+Should focus on:
+
+* Underlying cause
+* Alteration to immunotherapy
+* Symptomatic relief
+
+Include:
+
+* ↑ HAART resistance
+* ↓ HAART compliance
+
+## Prognosis
+
+Varies depending on the organ involvement:
+
+* Majority of cases are mild and self-limiting
+* **CNS** or **pulmonary** involvement may lead to **death** or severe neurological morbidity.
+
+
+
+---
+
+## References
+
+1. Thapa S, Shrestha U. [Immune Reconstitution Inflammatory Syndrome](https://www.ncbi.nlm.nih.gov/books/NBK567803/). [Updated 2022 May 10]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2022 Jan. 
+2. Wolfe C. Immune reconstitution inflammatory syndrome. In: UpToDate, Post TW (Ed), UpToDate, Waltham, MA. Accessed December 14, 2022.
+3. Nelson, Ann Marie, Yukari C. Manabe, and Sebastian B. Lucas. “Immune Reconstitution Inflammatory Syndrome (IRIS): What Pathologists Should Know.” Seminars in Diagnostic Pathology, Seminars Issue on HIV-related Disease, 34, no. 4 (July 1, 2017): 340–51. [](https://doi.org/10.1053/j.semdp.2017.04.010).
