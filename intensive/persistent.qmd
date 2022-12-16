@@ -2,8 +2,8 @@
 
 Persistent critical illness occurs when a patients current reason for ICU is more related to their ongoing critical illness than their original reason for ICU admission. These patients:
 
-* Have a high mortality
-* Have a lower chance of returning to independent living
+* Have a high (~25%) mortality
+* Have a lower chance (~46%) of being discharged home
 * Consume a large and disproportionate amount of hospital resources\
 Long-stay ICU patients comprise **~5% of** ICU **patients** but **30% of** ICU **bed-days**.
 * Are relatively under-researched
@@ -11,60 +11,83 @@ Long-stay ICU patients comprise **~5% of** ICU **patients** but **30% of** ICU *
 
 :::column-margin
 ![](/resources/pci-auroc.png)
+
+After 10 days, antecedent characteristics are more important than acute characteristics for outcome.
+
 :::
 
-After 10 days, antecedent characteristics matter more than acute characteristics for ICU LoS and outcome
 
-Causes:
+## Causes
 
-* Ventilator dependence
-* Haemodynamic instability
-* Delirium
-* Obtundation/persistent vegetative state
-* Wounds
+Syndromes characteristic of the persistently critically ill include:
 
-Effects:
+* B
+	* Ventilator dependence
+* C
+	* Persistent vasoactive requirement
+* D
+	* Delirium
+	* Persistent vegetative state
+	* Critical Illness Neuropathy/Myopathy
+* E
+	* Malnutrition
+	* Endocrinopathy
+* I
+	* Immunosuppression
+* Other
+	* Wounds
 
-* Tracheostomy
-* Respiratory wean
 
-* Volume status
-* Arrhythmias
-* cardiac function
 
-* Delirium
-* Depression
-* Critical illness weakness
-* Physio
+## ICU Effects
 
-* Pressure areas
+Issues for the persistently ill in ICU include:
 
-* Infection
+* A
+	* Trachestomy
+* B
+	* Respiratory wean
+* C
+	* Volume state\
+	Anasarca.
+	* Arrhythmias
+* D
+	* Delirium
+	* Depression
+	* Rehabilitation
+* E
+	* Nutrition
+* I
+	* Infections
+* H
+	* Anaemia\
+	Repeated blood sampling.
+* Trauma
+	* Pressure areas
 
-* Nutrition
+## Post-ICU Effects
 
-* Lines
-* Labs
+:::info
+Need to recognise these are complex patients with multiple issues and have a high readmission rate - ICU discharge should be a planned affair.
+:::
 
-* FASTHUGS
+Coordinating Discharge:
 
-DC:
+* Clinician to clinician handover
+* Follow-up by ICU outreach team
 
-* Complex
-* Handover
-* Ward team
-* Followup - high readmission rate
 
-Post op ICU:
+Ongoing issues:
 
-* Pressure areas
-* Weakness
-* Pain
-* PTSD
-* Cognitive dysfn
-* DVT
-
-# Outcome assessment
+* D
+	* Weakness
+	* Pain
+	* PTSD
+	* Cognitive dysfunction
+* H
+	* DVT
+* Trauma
+	* Pressure areas
 
 ---
 

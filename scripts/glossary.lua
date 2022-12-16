@@ -11,7 +11,7 @@
 dir = os.getenv("QUARTO_PROJECT_DIR")
 glossary_file = dir .. "/_glossary.yml"
 
--- Add the quarto project dir/scripts to the path so we can load the yaml parser
+-- Add the quarto project dir/scripts to the path so we can load the yaml parser (accommodates windows and unix /'s, not sure if this is necessary)
 package.path = package.path .. ";" .. dir .. "\\scripts\\?.lua;" .. dir .. "/scripts/?.lua;"
 local yaml = require "yaml"
 

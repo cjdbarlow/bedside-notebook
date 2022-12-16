@@ -294,6 +294,7 @@ book:
           - anaesthesia/cardiac/cabg.qmd
           - anaesthesia/cardiac/avr.qmd
           - anaesthesia/cardiac/mvr.qmd
+          - anaesthesia/cardiac/myectomy.qmd
         - part: "Cardiology"
           chapters:
             - anaesthesia/cardiac/ep.qmd

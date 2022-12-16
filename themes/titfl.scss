@@ -284,6 +284,17 @@ div.dual p {
     margin-bottom: 0;
 }
 
+div.info > ul,
+div.danger > ul,
+div.caution > ul,
+div.tick > ul,
+div.gas > ul,
+div.ANZCA > ul,
+div.CICM > ul,
+div.dual > ul {
+    padding: 0em 1.5em 0em 5em;
+}
+
 div.info ul,
 div.danger ul,
 div.caution ul,
@@ -292,7 +303,6 @@ div.gas ul,
 div.ANZCA ul,
 div.CICM ul,
 div.dual ul {
-    padding: 0em 1.5em 0em 5em;
     margin-bottom: 0;
 }
 

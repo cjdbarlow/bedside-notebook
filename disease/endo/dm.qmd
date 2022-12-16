@@ -103,14 +103,14 @@ Depends on timing of list.
 
 ### Perioperative Oral Hypoglycaemic Management
 
-|Class|Generic Name|Recommendation|Rationale|
-|---|---|
-|Biguanide|Metformin|Withhold 24 hours pre-major surgery|Increase risk of lactic acidosis and tissue hypoxia if elimination impaired by renal hypoperfusion; can proceed with minor surgery if the patient has taken it|
-|Sulphonylurea|Gliclazide, Glipizide, Glimepiride|Withhold day of surgery|Increase risk of hypoglycaemia|
-|Glitazones|Rosiglitazone, Pioglitazone|Withhold day of surgery||
-|GLP-1 agonists|Exanatide|Withhold day of surgery||
-|DPP-4 inhibitors|Sitagliptin|Withhold day of surgery|Alter GI motility|
-|SGLT-2 inhibitors|Dapagliflozin, canagliflozin, empagliflozin|Withhold for 3 days prior. Measures ketones, if **>0.6-1** then measure pH and BE and delay surgery. If acidotic and unwell, then treat as euglycaemic DKA and refer to endocrinology.|Euglycaemic DKA|
+| Class             | Generic Name                                | Recommendation                                                                                                                                                                         | Rationale                                                                                                                                                      |
+| ---               | ---                                         | ---                                                                                                                                                                                    | ---                                                                                                                                                            |
+| Biguanide         | Metformin                                   | Withhold 24 hours pre-major surgery                                                                                                                                                    | Increase risk of lactic acidosis and tissue hypoxia if elimination impaired by renal hypoperfusion; can proceed with minor surgery if the patient has taken it |
+| Sulphonylurea     | Gliclazide, Glipizide, Glimepiride          | Withhold day of surgery                                                                                                                                                                | Increase risk of hypoglycaemia                                                                                                                                 |
+| Glitazones        | Rosiglitazone, Pioglitazone                 | Withhold day of surgery                                                                                                                                                                |                                                                                                                                                                |
+| GLP-1 agonists    | Exanatide                                   | Withhold day of surgery                                                                                                                                                                |                                                                                                                                                                |
+| DPP-4 inhibitors  | Sitagliptin                                 | Withhold day of surgery                                                                                                                                                                | Alter GI motility                                                                                                                                              |
+| SGLT-2 inhibitors | Dapagliflozin, canagliflozin, empagliflozin | Withhold for 3 days prior. Measures ketones, if **>0.6-1** then measure pH and BE and delay surgery. If acidotic and unwell, then treat as euglycaemic DKA and refer to endocrinology. | Euglycaemic DKA                                                                                                                                                |
 
 ### Perioperative Insulin Management
 
@@ -120,12 +120,23 @@ Management of insulin depends on:
 * The timing of the procedure
 * Whether the patient is taking bowel preparation
 
-|Type of Insulin|Trade Names|Day PRIOR to procedure|Morning of procedure; for an AM list|Morning of procedure; for a PM list|
-|---|---|
-|Short Acting|- Novorapid <br>- Humalog <br>- Actrapid<br>|- Usual doses<br>- **Half** usual dose during bowel **preparation**|- Withhold<br>- Give sliding scale|- Half usual dose with early morning breakfast|
-|Intermediate Acting|- Protaphane <br>- Humulin NPH|- Give 2/3^rds^ of usual dose<br>- **Half** usual dose during bowel **preparation**|- Withhold<br>- Give sliding scale|- Half usual dose with early morning breakfast|
-|Long Acting/Basal|- Lantus<br>- Levemir|- Give 2/3^rds^ of usual dose<br>- **Half** usual dose during bowel **preparation**|-  Give 2/3^rds^ of usual dose<br>|- Give 2/3^rds^ of usual dose<br>|
-|Pre-mixed|- Novomix 30<br>- Humalog Mix 25/Humalog Mix 50<br>- Mixtard 30/70|- Give normal dose with dinner<br>- **Half** usual dose during bowel **preparation**|- Withhold<br>- Give sliding scale|- Half usual dose with early morning breakfast<br>- Give sliding scale|
++---------------------+---------------------------------+----------------------------------------------------+--------------------------------------+------------------------------------------------+
+| Type of Insulin     | Trade Names                     | Day PRIOR to procedure                             | Morning of procedure; for an AM list | Morning of procedure; for a PM list            |
++=====================+=================================+====================================================+======================================+================================================+
+| Short Acting        | - Novorapid                     | - Usual doses                                      | - Withhold                           | - Half usual dose with early morning breakfast |
+|                     | - Humalog                       | - **Half** usual dose during bowel **preparation** | - Give sliding scale                 |                                                |
+|                     | - Actrapid                      |                                                    |                                      |                                                |
++---------------------+---------------------------------+----------------------------------------------------+--------------------------------------+------------------------------------------------+
+| Intermediate Acting | - Protaphane                    | - Give 2/3^rds^ of usual dose                      | - Withhold                           | - Half usual dose with early morning breakfast |
+|                     | - Humulin NPH                   | - **Half** usual dose during bowel **preparation** | - Give sliding scale                 |                                                |
++---------------------+---------------------------------+----------------------------------------------------+--------------------------------------+------------------------------------------------+
+| Long Acting/Basal   | - Lantus                        | - Give 2/3^rds^ of usual dose                      | -  Give 2/3^rds^ of usual dose       | - Give 2/3^rds^ of usual dose                  |
+|                     | - Levemir                       | - **Half** usual dose during bowel **preparation** |                                      |                                                |
++---------------------+---------------------------------+----------------------------------------------------+--------------------------------------+------------------------------------------------+
+| Pre-mixed           | - Novomix 30                    | - Give normal dose with dinner                     | - Withhold                           | - Half usual dose with early morning breakfast |
+|                     | - Humalog Mix 25/Humalog Mix 50 | - **Half** usual dose during bowel **preparation** | - Give sliding scale                 | - Give sliding scale                           |
+|                     | - Mixtard 30/70                 |                                                    |                                      |                                                |
++---------------------+---------------------------------+----------------------------------------------------+--------------------------------------+------------------------------------------------+
 
 ### Perioperative Hypoglycaemia Management
 

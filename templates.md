@@ -64,6 +64,7 @@ Intro and technique
 **Preparation:**
 **Induction:**
 **Maintenance:**
+**Echocardiography:**
 **Emergence:**
 
 ## Postoperative

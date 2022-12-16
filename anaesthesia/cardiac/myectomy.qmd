@@ -1,0 +1,122 @@
+# Septal Myectomy
+
+:::gas
+**Airway**: ETT\
+**Access**: Large IV, arterial line, CVC, +/- sheath\
+**Pain**: Moderate\
+**Position**: Supine, arms tucked\
+**Time**: 3-6 hours\
+**Blood Loss**: G+H required\
+**Special**:
+
+* LVH
+	* Usually good systolic function
+	* Harder myocardial protection
+	* DCC less effective
+* High risk dynamic LVOTO
+* CPB with high potential for repeat bypass runs
+* **Provocation maneuvers**
+Requires assess the extent of LVOTO under exercise conditions.
+* Complex TOE exam
+:::
+
+Open-heart surgical procedure to treat HOCM/HCM by resecting the basal IVS, ↑ the diameter of the LVOT and ↓ turbulent flow and the gradient through the LVOT. Patients will typically:
+
+* Be Younger
+* Have severe (>50mmHg) LVOT gradients
+* Have SAM and some degree of MR
+
+## Surgical Stages
+
+* Sternotomy
+* Establish CPB\
+	* Pre-operative provocation testing can be done if required (i.e., if resting gradients or MR are not severe)
+* Aortotomy and septal resection
+* Wean and assess extent of resection\
+Re-measure and re-provoke.
+* Potential return to CPB and further resection
+* Re-wean, re-assess, and re-re-provoke
+* Chest closure
+
+
+## Preoperative
+
+**Assessment:**
+
+* Exercise tolerance and symptoms
+* Echo: Severity of obstruction and MR
+* MRI: Septal width
+
+**Premedication:**
+
+* Usual to withhold beta-blockers and CCBs on day of surgery to allow adequate provocation
+
+
+## Intraoperative
+
+:::caution
+Avoid provocation maneuvers without the ability to immediate institute CPB (i.e., heparinised with cannulas in situ)
+:::
+
+**Preparation:**
+
+:::column-margin
+Precipitants for LVOTO are:
+
+* ↑ HR
+* ↑ Inotropy
+* ↓ Preload
+* ↓ Afterload
+
+We want to *avoid* this in induction, and *precipitate* it for provocation testing. This requires careful control of volume and avoidance of long-acting agents.
+
+:::
+
+* Standard cardiac draw
+* Provoking agent\
+	* Dobutamine 10-40ug/kg/min
+	* Isoprenaline 5-20ug/kg/min
+* Pressure monitoring lines\
+Consider two additional transducers for calculating direct LVOT gradients:
+	* Direct ventricular pressure\
+	Via 18G needle.
+	* Aortic pressure\
+	Via root vent.
+
+**Echocardiography:**
+
+* Interventricular septum
+	* Septal width
+		* Particularly basal septum.
+		* Separate measurements for inferoseptal and anteroseptal walls\
+		Consider Multiplanar Reconstruction for good alignment.
+	* Distance from AV annulus to maximal septal thickening
+* Mitral valve
+	* Degree of MR
+	* Risk of SAM
+		* C-sept
+		* AMVL length
+* LVOT
+	* Gradient
+
+**Provocation:**
+
+* ↑ Dobutamine/isoprenaline until pathophysiology is observed or maximal heart rate is reached
+* Considerations for further resection:
+	* LVOT gradient **>30mmHg**
+	* MR **≥ moderate**
+
+
+**Emergence:**
+
+* Post-bypass TOE:
+	* **VSD**
+	* AV injury\
+	AR.
+	* Coronary-cameral fistula\
+	Unroofing of septal perforators, causing bleeding into LV. Must be distinguished from a VSD but is otherwise benign.
+
+
+---
+
+## References

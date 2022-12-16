@@ -25,6 +25,7 @@ CNIX: Glossopharyngeal Nerve
 CNX: Vagus Nerve
 CVC: Central Venous Catheter
 CVP: Central Venous Pressure
+DCC: Direct Current Cardioversion
 DCT: Distal Convoluted Tubule
 DBP: Diastolic Blood Pressure
 DIC: Disseminated Intravascular Coagulopathy
@@ -50,7 +51,9 @@ GFR: Glomerular Filtration Rate
 GH: Growth Hormone
 HAART: Highly active antiretroviral therapy
 Hb: Haemoglobin
+HCM: Hypertrophic Cardiomyopathy
 HIV: Human Immunodeficiency Virus
+HOCM: Hypertrophic Obstructive Cardiomyopathy
 HPA: Hypothalamic-Pituitary Axis
 HR: Heart Rate
 HSV: Herpes Simplex Virus
@@ -58,9 +61,10 @@ ICF: Intracellular Fluid
 ICP: Intracranial Pressure
 ICU: Intensive Care L
 IJV: Internal Jugular Vein
+IOP: Intraocular Pressure
 IRIS: Immune Reconstitution Inflammatory Syndrome
 IVC: Inferior Vena Cava
-IOP: Intraocular Pressure
+IVS: Interventricular Septum
 KOP: K-type (κ) opioid receptor
 LAD: Left Anterior Descending
 LBM: Lean Body Mass
@@ -69,6 +73,8 @@ LH: Luteinising Hormone
 LVEDP: Left Ventricular End-Diastolic Pressure
 LVEDV: Left Ventricular End-Diastolic Volume
 LoS: Length of Stay
+LVOT: Left Ventricular Outflow Tract
+LVOTO: Left Ventricular Outflow Tract Obstruction
 MSFP: Mean Systemic Filling Pressure
 MALT: Mucosa-Associated Lymphoid Tissue
 MAC: Minimum Alveolar Concentration
@@ -83,6 +89,7 @@ NMB: Neuromuscular Blocker
 NMBD: Neuromuscular Blocking Drug
 NMJ: Neuromuscular Junction
 NOP: N-type Opioid Receptor
+Open-heart: Cardiac surgery involving opening of the aorta or cardiac chambers (e.g., not CABG).
 PAC: Pulmonary Artery Catheter
 PBP: Penicillin Binding Protein
 PCT: Proximal Convoluted Tubule
@@ -102,6 +109,7 @@ RRP: Relative Refractory Period
 RNA: Ribonucleic Acid
 RVEDP: Right Ventricular End-Diastolic Pressure
 RVEDP: Right Ventricular End-Diastolic Volume
+SAM: Systolic Anterior Motion (of the mitral valve)
 SAQ: Short Answer Question
 SBP: Systolic Blood Pressure
 SCV: Subclavian Vein
