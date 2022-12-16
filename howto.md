@@ -13,3 +13,12 @@ quarto::quarto_preview
 * Get SVGs working in pdf output
 * Make the search box prettier
 * Fix the indentation on nested bulleted lists in the info/crises boxes
+
+
+# Decisions
+
+* Where to put rhabdo, CIM, CIN
+	* ?under neuro and make neuromuscular?
+
+
+FLASHCARDS for 

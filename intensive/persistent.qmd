@@ -1,0 +1,74 @@
+# Persistent Critical Illness
+
+Persistent critical illness occurs when a patients current reason for ICU is more related to their ongoing critical illness than their original reason for ICU admission. These patients:
+
+* Have a high mortality
+* Have a lower chance of returning to independent living
+* Consume a large and disproportionate amount of hospital resources\
+Long-stay ICU patients comprise **~5% of** ICU **patients** but **30% of** ICU **bed-days**.
+* Are relatively under-researched
+
+
+:::column-margin
+![](/resources/pci-auroc.png)
+:::
+
+After 10 days, antecedent characteristics matter more than acute characteristics for ICU LoS and outcome
+
+Causes:
+
+* Ventilator dependence
+* Haemodynamic instability
+* Delirium
+* Obtundation/persistent vegetative state
+* Wounds
+
+Effects:
+
+* Tracheostomy
+* Respiratory wean
+
+* Volume status
+* Arrhythmias
+* cardiac function
+
+* Delirium
+* Depression
+* Critical illness weakness
+* Physio
+
+* Pressure areas
+
+* Infection
+
+* Nutrition
+
+* Lines
+* Labs
+
+* FASTHUGS
+
+DC:
+
+* Complex
+* Handover
+* Ward team
+* Followup - high readmission rate
+
+Post op ICU:
+
+* Pressure areas
+* Weakness
+* Pain
+* PTSD
+* Cognitive dysfn
+* DVT
+
+# Outcome assessment
+
+---
+
+## References
+
+1. Iwashyna, Theodore J, Carol L Hodgson, David Pilcher, Michael Bailey, Allison van Lint, Shaila Chavan, and Rinaldo Bellomo. “Timing of Onset and Burden of Persistent Critical Illness in Australia and New Zealand: A Retrospective, Population-Based, Observational Study.” The Lancet Respiratory Medicine 4, no. 7 (July 2016): 566–73. [](https://doi.org/10.1016/S2213-2600(16)30098-4).
+2. Iwashyna TJ, Hodgson CL, Pilcher D, Orford N, Santamaria JD, Bailey M, Bellomo R. Towards defining persistent critical illness and other varieties of chronic critical illness. Crit Care Resusc. 2015 Sep;17(3):215-8. PMID: 26282262.

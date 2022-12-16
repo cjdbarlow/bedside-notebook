@@ -1,12 +1,11 @@
--- Add relevant paths and actively debug with mobdebug with ZBS on OSX
+-- Add relevant paths to actively debug with mobdebug with ZBS on OSX on a non-M1 mac
 --package.path = package.path .. ";/Applications/ZeroBraneStudio.app/Contents/ZeroBraneStudio/lualibs/?.lua;/Applications/ZeroBraneStudio.app/Contents/ZeroBraneStudio/lualibs/?/?.lua"
 --package.cpath = ";/Applications/ZeroBraneStudio.app/Contents/ZeroBraneStudio/bin/clibs53/?/core.dylib"
 --require('mobdebug').start()
 
---package.path = package.path .. ';.;./scripts/?.lua;'
-
-cwd = debug.getinfo(1).short_src;
-print(cwd)
+-- Debug in shell
+--cwd = debug.getinfo(1).short_src;
+-- print(cwd)
 
 -- Find the quarto project dir and identify the glossary file
 dir = os.getenv("QUARTO_PROJECT_DIR")
@@ -29,7 +28,6 @@ local function loadGlossary(filename)
 end
 
 local glossary = yaml.eval(loadGlossary(glossary_file))
-
 
 
 -- functions to find separators and then split out glossary elements

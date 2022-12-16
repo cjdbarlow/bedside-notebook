@@ -392,14 +392,22 @@ book:
     # Intensive Care
     - part: "Intensive Care"
       chapters:
-        - intensive/post-cardiac.qmd
-        # Post op thoracic
-        # Post op neuro
-        # Oncollogy
-        # Transplants
-        # Post op endocrine
+        - part: "General"
+          chapters:
+            - intensive/persistent.qmd
+            # Feeding
         # FASTHUGS
         # Stress response
+        - part: "Surgical"
+          chapters:
+            - intensive/post-cardiac.qmd
+            # Post op thoracic
+            # Post op neuro
+            # Transplants
+            # Post op endocrine
+        # - part: "Medical"
+        #   chapters:
+            # Oncology
     - part: <hr>
     # Pathology
     - part: "Pathology"
