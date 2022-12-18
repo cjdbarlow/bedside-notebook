@@ -508,6 +508,7 @@ book:
             # Toxic encephalopathy
         - part: "Cortical/Subcortical"
           chapters:
+            - disease/neuro/stroke.qmd
             - disease/neuro/seizure.qmd
             - disease/neuro/epilepsy.qmd
             - disease/neuro/ncse.qmd

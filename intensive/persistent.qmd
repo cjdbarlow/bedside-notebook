@@ -12,7 +12,7 @@ Long-stay ICU patients comprise **~5% of** ICU **patients** but **30% of** ICU *
 :::column-margin
 ![](/resources/pci-auroc.png)
 
-After 10 days, antecedent characteristics are more important than acute characteristics for outcome.
+After 10 days, antecedent characteristics are more important than acute characteristics for outcome ([Iwashyna et al. 2016](https://doi.org/10.1016/S2213-2600(16))).
 
 :::
 

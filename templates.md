@@ -100,13 +100,24 @@ Intro and technique
 
 ## Management
 
-### Medical
+**Resuscitation**:\
 
-### Surgical
+ABC approach. Comment on team coordination and clinical priorities.
+**Specific therapy**:
 
-### Anaesthetic Considerations
+* Pharmacological
+* Physical
+* Procedural
+
+**Underlying cause**:
+
+**Supportive care**:
+
+**Disposition**:
 
 ### Ineffective Therapies
+
+## Anaesthetic Considerations
 
 ## Complications
 

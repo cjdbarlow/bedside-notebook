@@ -21,13 +21,13 @@ Grading:
 * The WFNS scale assists prognosis and determining post-operative destination
 * The Modified Fischer scale predicts vasospasm risk
 
-|Grade|WFNS|Hunt & Hess|Modified Fisher|
-|--|--|
-|**1**|GCS 15|Mild headache, no or minimal nuchal rigidity|No SAH or IVH
-|**2**|GCS 13-14, no motor deficit|Moderate to severe headache, nuchal rigidity, may have CN deficit|Thin SAH, no IVH|
-|**3**|GCS 13-14, motor deficit|Confusion or lethargy, with or without mild focal deficit|Thin SAH, IVH present|
-|**4**|GCS 7-12|Stuporous, severe focal deficit|Thick SAH, no IVH|
-|**5**|GCS 3-6|Comatose, posturing or no motor response|Thick SAH, IVH present|
+| Grade | WFNS                        | Hunt & Hess                                                       | Modified Fisher        |
+| --    | --                          | --                                                                | --                     |
+| **1** | GCS 15                      | Mild headache, no or minimal nuchal rigidity                      | No SAH or IVH          |
+| **2** | GCS 13-14, no motor deficit | Moderate to severe headache, nuchal rigidity, may have CN deficit | Thin SAH, no IVH       |
+| **3** | GCS 13-14, motor deficit    | Confusion or lethargy, with or without mild focal deficit         | Thin SAH, IVH present  |
+| **4** | GCS 7-12                    | Stuporous, severe focal deficit                                   | Thick SAH, no IVH      |
+| **5** | GCS 3-6                     | Comatose, posturing or no motor response                          | Thick SAH, IVH present |
 
 ## Epidemiology and Risk Factors
 
@@ -35,7 +35,7 @@ Aneurysmal SAH:
 
 * Occurs in ~9/100,000
 * Has a high mortality rate
-	* 15% prehospitals
+	* 15% prehospital
 	* 30% 30-day
 * 40% make a good recovery  
 Prognostication:
@@ -43,17 +43,18 @@ Prognostication:
 	* Conscious state
 	* Blood volume
 * Risk factors include:
-	* HTN
-	* Smoking
-	* Heavy ETOH use
-	* Sympathomimetic drug use
-	* Age
-	* Female
-	* PHx SAH
-	* FHx SAH
-	* Polycystic kidney disease
-	* Type IV Ehlers-Danlos syndrome
-
+	* Patient
+		* Age
+		* Female
+		* Smoking
+		* Heavy ETOH use
+		* Sympathomimetic drug use
+	* Disease
+		* HTN
+		* PHx SAH
+		* FHx SAH
+		* Polycystic kidney disease
+		* Type IV Ehlers-Danlos syndrome
 
 ## Pathophysiology
 

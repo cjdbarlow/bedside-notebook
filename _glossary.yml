@@ -1,45 +1,49 @@
 ---
-ACTH: Adrenocorticotropic Hormone
+ACA: Anterior Cerebral Artery
 ACh: Acetylcholine
 AChE: Acetylcholinesterase
-ADP: Adenosine diphosphate
+ACTH: Adrenocorticotropic Hormone
 ADH: Anti-Diuretic Hormone
+ADP: Adenosine diphosphate
+AF: Atrial Fibrillation
 ANP: Atrial Natriuretic Peptide
+APL: Adjustable Pressure Limiting
+ASD: Atrial Septal Defect
 ATP: Adenosine Triphosphate
 AUC: Area Under the Curve
-APL: Adjustable Pressure Limiting
 BBB: Blood-Brain Barrier
-BNP: Brain Natriuretic Peptide
 BMR: Basal Metabolic Rate
+BNP: Brain Natriuretic Peptide
 BTPS: Body Temperature and Pressure, Standard
 CAC: Citric Acid Cycle
 CBF: Cerebral Blood Flow
 CMRO2: Cerebral Metabolic Rate for Oxygen
 CMV: Cytomegalovirus
-CNS: Central Nervous System
-COX: Cyclo-Oxygenase
-CSF: Cerebrospinal Fluid
-CPP: Cerebral/Coronary Perfusion Pressure
-CT: Collecting Duct
 CNIX: Glossopharyngeal Nerve
+CNS: Central Nervous System
 CNX: Vagus Nerve
+COX: Cyclo-Oxygenase
+CPP: Cerebral/Coronary Perfusion Pressure
+CSF: Cerebrospinal Fluid
+CD: Collecting Duct
 CVC: Central Venous Catheter
 CVP: Central Venous Pressure
+DBP: Diastolic Blood Pressure
 DCC: Direct Current Cardioversion
 DCT: Distal Convoluted Tubule
-DBP: Diastolic Blood Pressure
 DIC: Disseminated Intravascular Coagulopathy
-DRG: Dorsal Respiratory Group
 DNA: Deoxyribonucleic Acid
 DOP: D-type (δ) opioid receptor
-ECT: Electron Transport Chain
+DRG: Dorsal Respiratory Group
 ECF: Extracellular Fluid
+ECT: Electron Transport Chain
 EDP: End-Diastolic Pressure
 EDV: End-Diastolic Volume
 EEG: Electroencephalogram
 EPO: Erythropoietin
 ERP: Effective Refractory Period
 ESV: End-Systolic Volume
+EVD: External Ventricular Drain
 exophoria: Lateral deviation of the eyes.
 FEV1: Forced Expiratory Volume in 1 second
 FFA: Free Fatty Acid
@@ -52,14 +56,19 @@ GH: Growth Hormone
 HAART: Highly active antiretroviral therapy
 Hb: Haemoglobin
 HCM: Hypertrophic Cardiomyopathy
+HHS: Hyperosmolar Hyperglycaemic Syndrome
 HIV: Human Immunodeficiency Virus
 HOCM: Hypertrophic Obstructive Cardiomyopathy
 HPA: Hypothalamic-Pituitary Axis
 HR: Heart Rate
 HSV: Herpes Simplex Virus
+HTN: Hypertension
+IADLs: Independent with activities of daily living.
 ICF: Intracellular Fluid
+ICH: Intracranial Haemorrhage
 ICP: Intracranial Pressure
-ICU: Intensive Care L
+ICU: Intensive Care Unit
+IE: Infective Endocarditis
 IJV: Internal Jugular Vein
 IOP: Intraocular Pressure
 IRIS: Immune Reconstitution Inflammatory Syndrome
@@ -70,43 +79,51 @@ LAD: Left Anterior Descending
 LBM: Lean Body Mass
 LCx: Left Circumflex
 LH: Luteinising Hormone
+LoS: Length of Stay
 LVEDP: Left Ventricular End-Diastolic Pressure
 LVEDV: Left Ventricular End-Diastolic Volume
-LoS: Length of Stay
+LSW: Last Seen Well
 LVOT: Left Ventricular Outflow Tract
 LVOTO: Left Ventricular Outflow Tract Obstruction
-MSFP: Mean Systemic Filling Pressure
-MALT: Mucosa-Associated Lymphoid Tissue
 MAC: Minimum Alveolar Concentration
+MALT: Mucosa-Associated Lymphoid Tissue
 MAP: Mean Arterial Pressure
+MCA: Middle Cerebral Artery
 MLAC: Minimum Local Anaesthetic Concentration
+MMCAS: Malignant Middle Cerebral Artery Infarction Syndrome
 MOP: M-type (μ) opioid receptor
+mRS: Modified Rankin Scale
+MSFP: Mean Systemic Filling Pressure
 MV: Minute Ventilation
 NDMR: Non-Depolarising Muscle Relaxant
-NSAID: Non-Steroidal Anti-Inflammatory Drug
-NTS: Nucleus of the Tractus Solitarius
+NIHSS: National Institute of Health Stroke Scale/Score
 NMB: Neuromuscular Blocker
 NMBD: Neuromuscular Blocking Drug
 NMJ: Neuromuscular Junction
 NOP: N-type Opioid Receptor
+NSAID: Non-Steroidal Anti-Inflammatory Drug
+NTS: Nucleus of the Tractus Solitarius
 Open-heart: Cardiac surgery involving opening of the aorta or cardiac chambers (e.g., not CABG).
 PAC: Pulmonary Artery Catheter
+PADLs: Personal Activities of Daily Living, e.g. dressing, feeding, toileting, and personal hygeine.
 PBP: Penicillin Binding Protein
+PCA: Posterior Cerebral Artery
 PCT: Proximal Convoluted Tubule
 PCWP: Pulmonary Capillary Wedge Pressure
 PDA: Posterior Descending Artery/Patent Ductus Arteriosus
 PDE: Phosphodiesterase
+PDGF: Platelet-Derived Growth Factor
 PDPH: Post-Dural Puncture Headache
 PEEP: Positive End-Expiratory Pressure
 PEFR: Peak Expiratory Flow Rate
-PDGF: Platelet-Derived Growth Factor
+PFO: Patent Foramen Ovale
 PPV: Pulse Pressure Variation
 RA: Right Atrium *or* Rheumatoid Arthritis
 RAP: Right Atrial Pressure
 RCA: Right Coronary Artery
+RNA: Ribonucleic Acid
 RR: Respiratory Rate
 RRP: Relative Refractory Period
-RNA: Ribonucleic Acid
 RVEDP: Right Ventricular End-Diastolic Pressure
 RVEDP: Right Ventricular End-Diastolic Volume
 SAM: Systolic Anterior Motion (of the mitral valve)
@@ -117,17 +134,20 @@ SLE: Systemic Lupus Erythematosus
 STP: Standard Temperature and Pressure (0°C at 100kPa)
 SV: Stroke Volume
 SVC: Superior Vena Cava
-SVR: Systemic Vascular Resistance
 SVP: Saturated Vapour Pressure
+SVR: Systemic Vascular Resistance
 SVV: Stroke Volume Variation
 TB: Tuberculosis
 TBW: Total Body Water
+TIA: Transient Ischaemic Attack
 TLC: Total Lung Capacity
 TNF: Tumour Necrosis Factor
 TSH: Thyroid Stimulating Hormone
-VMA: Vanillylmandelic acid
 VIE: Vacuum Insulated Evaporator
+VMA: Vanillylmandelic acid
 VR: Venous Return
 VRG: Ventral Respiratory Group
+VSD: Ventricular Septal Defect
+WFNS: World Federation of Neurosurgical Societies
 ZEEP: Zero End-Expiratory Pressure
 ---

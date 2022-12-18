@@ -1,0 +1,567 @@
+# Stroke
+
+Sudden onset of a constellation of neurological deficits secondary to a vascular event. Stroke symptoms are:
+
+* **Focal** (usually)
+* **Negative**\
+i.e. Loss of usual function, rather than the addition of a new sensation.
+* **Maximal** at **onset**
+* Without precipitating event
+
+
+Stroke is subdivided by cause into:
+
+:::column-margin
+Stroke is related to a TIA, which is a clinical syndrome with:
+
+* Abrupt onset of focal neurological symptoms consistent with ischaemia
+* No radiological abnormality
+* Resolution over 24 hours
+:::
+
+* **Ischaemic** (85%)\
+Related to:
+	* Thrombosis
+	* Embolism
+	* Hypoperfusion
+* **Haemorrhagic** (15%)\
+	* Intracerebral
+	* Subarachnoid
+
+## Epidemiology and Risk Factors
+
+Risk factors:
+
+* Age
+* Smoking
+* Cardiovascular disease
+	* AF
+	* HTN
+	* Dyslipidaemia
+	* DM
+	* Previous stroke or TIA
+	* IE
+* Hypercoagulable state
+	* Pregnancy
+	* Factor V Leiden
+	* Protein C/S deficiency
+	* Antithrombin III deficiency
+* Hyperviscosity
+	* Myeloma
+	* HHS
+
+
+## Pathophysiology
+
+Ischaemic:
+
+* Interruption to blood flow leading to cellular failure\
+Disruption to receptor and channel function, free radial release, mitochondrial dysfunction, membrane disruption, and cell death.
+* An ischaemic stroke has a:
+	* **Core infarct**\
+	Irretrievably damaged centre of brain, seen as cyotoxic oedema on CT. A large (>50mL) core suggests less recoverable tissue by endovascular therapy.
+	* **Ischaemic penumbra**\
+	*Potentially viable* region of brain around the ischaemic core, that is malperfused and dysfunctional but may be recoverable with restoration of blood flow.
+		* A large pnenumbra may show better response to endovascular therapy
+		* Slow progression of ischaemic penumbra (to core infarction) may indicate better *late* response to endovascular therapy
+
+
+### Aetiology
+
+Ischaemic:
+
+:::column-margin
+Large vessel thrombus/embolism is more amenable to endovascular retrieval than small vessel occlusion.
+:::
+
+* Thrombosis
+	* Large vessel
+		* Dissection
+		* Vasospasm
+		* Large vessel arteritis
+			* GCA
+			* Takayasu arteritis
+	* Small vessel
+		* Vasculitis
+		* Vasospasm\
+		Cocaine, other sympathomimetics.
+* Embolic
+	* Paradoxical embolism\
+	PFO, ASD, VSD.
+	* Cardiac embolism
+		* AF
+		* Valves
+			* Degenerative
+			* Prosthetic
+			* Endocarditic
+		* LV thrombus
+			* Ischaemic
+				* Aneurysm
+				* Apical thrombus
+			* Cardiomyopathy\
+			Stasis.
+	* Carotid embolism
+	* Air
+		* Surgery
+		* Diving
+* Hypoperfusion\
+Prolonged hypotension.
+
+Haemorrhagic:
+
+* Systemic HTN
+* Vascular abnormality
+	* Amyloid angiopathy
+	* AVM
+	* Intracranial aneurysm
+	* Vasculitis
+* Tumour\
+With haemorrhage into it.
+* Ischaemic stroke\
+With haemorrhagic transformation.
+
+
+## Clinical Manifestations
+
+:::caution
+Stroke severity is semi-objectively described using the [NIHSS](https://www.mdcalc.com/calc/715/nih-stroke-scale-score-nihs). However, **endovascularly correctable** stroke may have a **low NIHSS** score. NIHSS is **not** a guide for identifying patients eligible for reperfusion therapies.
+:::
+
+Stroke symptoms include:
+
+* **Negative**\
+* Usually **focal**
+	* Motor
+		* Limb weakness
+		* Dysphagia
+		* Ataxia
+	* Sensation
+	* Speech and language
+		* Comprehension
+		* Expression
+		* Calculation
+	* Non-focal include:
+		* Syncope
+		* Altered conscious state
+		* Incontinence
+		* Cerebellar signs\
+		Vertigo, tinnitus, dysphagia, dysarthria, diplopia, ataxia.
+* **Maximal** at **onset**
+
+### Stroke Syndromes
+
++---------------+---------------------------------------------------------------+-------------------------------------------+--------------------------------+
+| Vessel/Region | Bilateral                                                     | Dominant Hemisphere                       | Non-dominant Hemisphere        |
++===============+===============================================================+===========================================+================================+
+| ACA           | - Contralateral **leg** weakness/numbness                     | Transcortical Motor Aphasia:              | - Confusion                    |
+|               | - Executive dysfunction                                       |                                           | - Contralateral hemineglect    |
+|               |                                                               | - Word finding difficulties               |                                |
+|               |                                                               | - Halting speech                          |                                |
+|               |                                                               | - Preserved repetition                    |                                |
+|               |                                                               | - Preserved comprehension                 |                                |
++---------------+---------------------------------------------------------------+-------------------------------------------+--------------------------------+
+| MCA           | - Contralateral face and arm weakness\                        | - Aphasia                                 | - Contralateral hemineglect    |
+|               | May have numbness.                                            | - Bilateral apraxia\                      | - Loss of insight into deficit |
+|               | - Conjugate ipsilateral eye deviation                         | Loss of skilled movements.                | - Drowsiness                   |
++---------------+---------------------------------------------------------------+-------------------------------------------+--------------------------------+
+| PCA           | - Hemianopia/superior quadrantanopia                          | - Preservation of writing but not reading | - Inability to recognise faces |
+|               | - Contralateral sensory loss                                  | - Difficulty naming objects               |                                |
+|               | - ↓ Arousal                                                   | - Difficulty giving uses for objects      |                                |
+|               | - Contralateral hemiplegia\                                   |                                           |                                |
+|               | Uncommon.                                                     |                                           |                                |
+|               | - Cortical blindness\                                         |                                           |                                |
+|               | May be unrecognised by the patient, leading to confabulation. |                                           |                                |
++---------------+---------------------------------------------------------------+-------------------------------------------+--------------------------------+
+| Thalamic      | - Limbic disruption\                                          |                                           |                                |
+|               | Disorientation, euphoria, apathy, other mood changes.         |                                           |                                |
+|               | - ↓ Arousal                                                   |                                           |                                |
+|               | - Hemibody sensory loss                                       |                                           |                                |
+|               | - Ataxia                                                      |                                           |                                |
+|               | - Aphasia                                                     |                                           |                                |
++---------------+---------------------------------------------------------------+-------------------------------------------+--------------------------------+
+| Basilar       | - ↓ GCS                                                       |                                           |                                |
+|               | - Quadriplegia\                                               |                                           |                                |
+|               | May be "crossed", e.g. left face/right limbs.                 |                                           |                                |
+|               | - Gaze palsy                                                  |                                           |                                |
+|               | - Bulbar/pseudobulbar palsy                                   |                                           |                                |
+|               | - Pupil abnormalities (dilated through to pinprick)           |                                           |                                |
+|               | - Locked-in syndrome                                          |                                           |                                |
+|               | - Amnesia                                                     |                                           |                                |
+|               | - Hallucinations                                              |                                           |                                |
++---------------+---------------------------------------------------------------+-------------------------------------------+--------------------------------+
+| Cerebellar    | - Ipsilateral ataxia                                          |                                           |                                |
+|               | - Vertigo\                                                    |                                           |                                |
+|               | Nausea.                                                       |                                           |                                |
+|               | - Nystagmus                                                   |                                           |                                |
++---------------+---------------------------------------------------------------+-------------------------------------------+--------------------------------+
+
+
+: Overview of Stroke Syndromes
+
+
+
+## Diagnostic Approach and DDx
+
+Diagnosis relies on identifying both:
+
+* A stroke syndrome
+* The corresponding radiological deficit
+
+
+Differential diagnoses include:
+
+* Migraine\
+Positive migraine symptoms (visual symptoms, paraesthesias) are less consistent with ischaemic stroke.
+* Post-ictal deficit\
+Should improve over minutes-hours.
+* Mass lesion (e.g. Tumour, abscess)\
+More gradual onset.
+* PRES
+* Intoxication
+
+## Investigations
+
+Blood:
+
+* Blood cultures\
+If considering endocarditis.
+
+Radiology:
+
+:::column-margin
+CT non-con should be repeated 24 hours after perfusion therapy to evaluate for complications.
+:::
+
+* CT **non-contrast**\
+	* **Grey-white differentiation** (<1 hour)\
+	Occurs early  and suggests **irreversibly infarcted** brain tissue.
+	* **Vasogenic oedema** (3-6 hours)\
+	Hypodensity developing due to irreversible infarction.
+	* **ICH**\
+	Rapidly changes management plan.
+	* **Hyperdense vessel**\
+	Thrombus may be visible in an intracranial vessel (particularly MCA), indicating large vessel occlusion.
+* **CT angiography**
+	* **Occlusion**\
+	Identification of large vessel occlusion to guide endovascular therapy.
+	* Dissection
+	* Athersclerosis
+* **CT perfusion**
+	* Penumbra identification\
+	Identifies volume of ischaemic penumbra for supratentorial stroke.
+
+
+* MRI
+	* Identification of stroke\
+	Particularly for the posterior fossa, which is more poorly imaged on CT.
+	* Identification of ICH
+	* DWI and FLAIR mismatch\
+	Identifies penumbra.
+
+Other:
+
+:::column-margin
+Echocardiography is more useful in younger patients, who are less likely to have "classical" embolic causes.
+:::
+
+* Echocardiography\
+PFO, endocarditis.
+* ECG\
+Screen for AF.
+
+## Management
+
+**Resuscitation**:
+
+:::column-margin
+:::caution
+Thrombolysis (if indicated) should be given as soon as possible after ICH is excluded and hypertension is controlled.
+:::
+:::
+
+* Activate a **Stroke Code**\
+Rapid activation of neurology, radiology, and interventional radiology dramatically streamlines care for these patients.
+Establish:
+	* Weight\
+	To allow TPA to be dispensed.
+	* Time **Last Seen Well**\
+	To establish onset, and eligibility for reperfusion.
+	* Anticoagulation status
+* A
+	* Airway protection\
+		* Indications vary, but in RCTs have included:
+			* GCS <8
+			* Other aspiration risk
+			* Respiratory failure (PCO~2~ > 48mmHg, PO~2~ < 60mmHg)
+		* Removes the mortality and morbidity benefits of stroke unit admission
+		* Is a very bad prognostic sign
+* B
+	* Normoxaemia\
+	Investigate for a secondary cause (e.g., aspiration).
+	* Normocapnoea\
+	Hyperventilation may be required for high ICP.
+* C
+	* Blood pressure monitoring and control\
+	Invasive if haemodynamically unstable or mechanically ventilated.
+* D
+	* EVD\
+	May be required if obstructive hydrocephalus develops.
+	* ICP control
+		* Hyperventilation
+		* Osmotic therapy
+* E
+	* Maintain normothermia\
+	Treat temperature >38°C.
+
+
+**Disposition**:
+
+* Mortality and morbidity are higher with specialist stroke unit admission\
+Avoid ICU admission if possible.
+
+### Ischaemic Stroke
+
+**Resuscitation**:
+
+* C
+	* **Hypertension**\
+	Aims (SBP/DBP):
+		* Before thrombolysis: <185/<110
+		* After thrombolysis: <180/105
+		* No thrombolysis: <220/<120 or end-organ damage\
+		Reduce cautiously (aim <15% reduction/24 hours) if not urgently required - ↑ morbidity with rapid ↓.
+		* Agents
+			* Labetalol 10-20mg IV
+	* Hypotension\
+	Much less common.
+		* Aim SBP >90mmHg
+		* Treat cause, and otherwise use noradrenaline
+
+**Specific therapy**:
+
+* Pharmacological
+	* **Aspirin**\
+	Load (300mg) within **48** hours, but delay:
+		* **24** hours following **thrombolysis**
+		* Indefinitely if craniectomy planned
+	* Anticoagulation\
+	If required for another indication (e.g. AF), commence >4-14/7 after the stroke, depending on risk of haemorrhagic transformation. Delay is unlikely to be harmful given the repeat stroke risk (from AF) is probably low over this period.
+	* Statin\
+	High dose (e.g. atorvastatin 80mg).
+* Procedural
+	* Craniectomy\
+	Two scenarios where this may be considered:
+		* MMCAS with mass effect
+		* Cerebellar infarction with posterior fossa syndrome\
+		Much better outcomes than for MMCAS.
+* **Reperfusion**\
+	* Intravenous thrombolysis
+ 	* Intraarterial thrombolysis\
+ 	↑ Recanalisation rates but ↑↑ ICH.
+ 	* Thrombectomy
+
+### Reperfusion
+
++--------------------------+------------------------------------------------+--------------------------------------------------------------------------------------------------+---------------------------------+----------------------------------------------+
+| Technique                | Timing                                         | Comments                                                                                         | Indications                     | Contraindications                            |
++==========================+================================================+==================================================================================================+=================================+==============================================+
+| Intravenous thrombolysis | - Onset <4.5 hours                             | - Earlier is better                                                                              | - "Significant" stroke\         | Intracranial:                                |
+|                          |                                                | - NNT ~3 to improve mRS by 1                                                                     | Thresholds vary, but NIHSS >~5. |                                              |
+|                          |                                                | - Alteplase 0.9mg/kg, up to 90mg\                                                                | - mRS 0-1 at baseline           | - ICH/SAH                                    |
+|                          |                                                | 10% over 1/60, remainder over 60/60.                                                             |                                 | - Completed stroke                           |
+|                          |                                                | - Risks should be discussed with the patient and family prior to commencing                      |                                 |                                              |
+|                          |                                                | - For **wake-up** strokes with **unknown onset**, can be beneficial if <4.5 hours of recognition |                                 | Surgical:                                    |
+|                          |                                                |                                                                                                  |                                 |                                              |
+|                          |                                                |                                                                                                  |                                 | - Intracranial/spinal surgery within 3/12    |
+|                          |                                                |                                                                                                  |                                 |                                              |
+|                          |                                                |                                                                                                  |                                 | Bleeding risk:                               |
+|                          |                                                |                                                                                                  |                                 |                                              |
+|                          |                                                |                                                                                                  |                                 | - Bacterial endocarditis                     |
+|                          |                                                |                                                                                                  |                                 | - Uncontrolled hypertension (>185/110)       |
+|                          |                                                |                                                                                                  |                                 | - Aortic dissection                          |
+|                          |                                                |                                                                                                  |                                 | - UGIB within 21/7                           |
+|                          |                                                |                                                                                                  |                                 | - Major trauma 14/7                          |
+|                          |                                                |                                                                                                  |                                 | - Uncontrolled coagulopathy                  |
++--------------------------+------------------------------------------------+--------------------------------------------------------------------------------------------------+---------------------------------+----------------------------------------------+
+| Thrombectomy             | - Early: <6 hours                              | - Earlier is better                                                                              | - Large vessel occlusion\       | Intracranial:                                |
+|                          | - Extended: <24 hours\                         | - The greater penumbra:core, the better the outcome\                                             | M1, M2, ICA, basilar.           |                                              |
+|                          | With significant volume of salvageable tissue. | Even a long time from LSW.                                                                       | - "Significant" stroke          | - Completed stroke                           |
+|                          |                                                | - Few trials for basilar strokes due to lack of equipoise driven by real-world benefit           | - mRS 0-1 at baseline           |                                              |
+|                          |                                                |                                                                                                  |                                 | Procedural:                                  |
+|                          |                                                |                                                                                                  |                                 |                                              |
+|                          |                                                |                                                                                                  |                                 | - Unable to achieve carotid/vertebral access |
+|                          |                                                |                                                                                                  |                                 | - Contrast allergy                           |
+|                          |                                                |                                                                                                  |                                 |                                              |
+|                          |                                                |                                                                                                  |                                 | Bleeding risk:                               |
+|                          |                                                |                                                                                                  |                                 |                                              |
+|                          |                                                |                                                                                                  |                                 | - Uncontrolled coagulopathy                  |
++--------------------------+------------------------------------------------+--------------------------------------------------------------------------------------------------+---------------------------------+----------------------------------------------+
+
+
+### Malignant Middle Cerebral Artery Infarction Syndrome
+
+A massive swelling of the MCA territory driving by a proximal occlusion, leading to mass effect on the contralateral side. MMCAS:
+
+:::column-margin
+![](/resources/mmca-crani.png)
+
+Outcomes at 12 months for patients randomised to decompressive craniectomy or non-surgical treatment for MMCAS ([Vahedi et al, 2007](https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(07)70036-4/fulltext)).
+:::
+
+* Defined by >50% of MCA stroke affecteed on CT
+* Occurs in 1-10% of patients with MCA CVA
+* Has a mortality of 80%
+* **Decompressive craniectomy**\
+Significantly improves survival, but the majority of new survivors are at least moderately-severely disabled.
+
+### Ineffective Therapies
+
+* B
+	* Hyperventilation
+* D
+	* ICP monitoring
+	* Seizure prophylaxis
+* H
+	* Heparin infusion
+
+
+## Anaesthetic Considerations
+
+:::info
+GA and sedation have been compared with no clear evidence of superiority
+:::
+
+:::column-margin
+My approach is tailored to the individual patient, with a strong preference towards whatever will allow the proceduralist to **expedite reperfusion**.
+:::
+
+* A
+	* Extubation\
+	Should be extubated as soon as feasible.
+* C
+	* Arrhythmia\
+	Correct electrolytes.
+	* Blood pressure control
+		* Prior to revascularisation: SBP <185 and MAP >10-20% of baseline
+		* After revascularisation: SBP <160
+* D
+	* CVA
+	* ICP management
+* H
+	* Bleeding\
+	If thrombolysed prior.
+* Other
+	* Off the floor
+
+
+## Complications
+
+* A
+	* Aspiration\
+	Dysphagia common both with brainstem and hemispheric stroke.
+* B
+	* Pneumonia\
+	Including VAP, if intubated.
+	* PE\
+	Accounts for **10%** of deaths following stroke.
+* C
+	* Dysrhythmia (40%)
+	\Common.
+* D
+	* Malignant Infarction of the Middle Cerebral Artery (**MMCAS**)\
+	* **Haemorrhagic transformation** (5%)\
+	Bleeding into a previously ischaemic stroke.
+		* Risks
+			* Large infarct
+			* Coagulopathy
+			* Vascular risk factors
+			* Hypertension
+		* Management
+			* Stop any residual thrombolysis
+			* Repeat imaging
+			* Correct coagulopathy
+				* Cryoprecipitate 10U
+				* TXA 1g
+			* Neurosurgical evacuation may be indicated if mass effect
+	* **Cerebral oedema** and ↑ ICP
+	* **Seizure** (<10%)\
+	Uncommon. Risk increase with stroke severity, and may indicated haemorrhagic transformation.
+	* Hyperglycaemia (40%)
+		* Common
+		* Associated with mortality and morbidity
+		* Tight control harmful
+* E
+	* Fever (50%)
+* H
+	* DVT\
+	Early mobilisation. Prophylactic heparin should be started **>24 hours** following reperfusion.
+	* Anaemia\
+	Transfusion threshold not established.
+
+:::column-margin
+Things to consider if the stroke patient deteriorates:
+
+* Haemorrhagic transformation
+* Reinfarction/reocclusion
+* ↑ ICP
+* Seizure
+* Hypoglycaemia
+:::
+
+## Prognosis
+
+Outcome is highly dependent on the particulars of the individual neurology. With this in mind, poor prognostic factors include:
+
+:::column-margin
+Degree of disability following stroke is commonly quantified using the **Modified Rankin Scale** (mRS):
+
+* 0: Asymptomatic.
+* 1: No significant disability. Some symptoms, but IADLs.
+* 2: Slight disability. Unable to to carry out all previous activities, but IADLs.
+* 3: Moderate disability. Requires some help, able to walk unassisted.
+* 4: Moderately severe disability. Assistance with PADLs and walking.
+* 5: Severe disability. Constant nursing care, bedridden, incontinent.
+* 6: Dead
+:::
+
+* Age\
+>85 has 35% in-hospital mortality.
+* Requiring mechanical ventilation\
+~50% in-hospital mortality (lowest for ischaemic stroke) and significantly increased disability in survivors.
+
+## Key Studies
+
+For decompressive craniectomy:
+
+* [DESTINY](https://www.ahajournals.org/doi/full/10.1161/STROKEAHA.107.485649#d3e366) (2007)
+	* 32 patients 18-60 with large (>2/3^rds^ of territory) unilateral MCA stroke
+		* 12-36 hours from diagnosis
+		* NIHSS >18 (dominant) or >20 (non-dominant)
+	* Decompressive craniectomy versus non-surgical
+	* Improved survival in surgical group, worse disability
+	* Stopped early for statistical significance in mortality end-point
+* DECIMAL (2007)
+* HAMLET (2009) 
+* [DESTINY II](https://doi.org/10.1056/NEJMoa1311367) (2007)
+	* 112 patients >60 with large unilateral MCA stroke
+		* <48/24 of diagnosis
+		* NIHSS >14 (non-dominant) or >19 (dominant hemisphere)
+		* Red
+	* Decompressive hemicraniectomy versus non-surgical
+	* Double survival (57% vs 24%) in surgical group, but vast majority of survivors have moderate-severe (or worse) disability
+
+## Further Reading
+
+* The IBCC has a phenomenal in-depth [chapter](https://emcrit.org/ibcc/ais/) on ischaemic stroke
+* NeuroEMCRit has a two-part ([one](https://emcrit.org/emcrit/acute-ischemic-stroke-1/), [two](https://emcrit.org/emcrit/acute_ischemic_stroke_part2/)) overview of ischaemic stroke 
+* Deranged Physiology has a much more detailed list of [stroke syndromes](https://derangedphysiology.com/main/required-reading/neurology-and-neurosurgery/Chapter%201501/classical-stroke-syndromes)
+
+---
+
+## References
+
+1. Vahedi, Katayoun, Jeannette Hofmeijer, Eric Juettler, Eric Vicaut, Bernard George, Ale Algra, G. Johan Amelink, et al. [Early Decompressive Surgery in Malignant Infarction of the Middle Cerebral Artery: A Pooled Analysis of Three Randomised Controlled Trials](https://doi.org/10.1016/S1474-4422(07)70036-4). The Lancet Neurology 6, no. 3 (1 March 2007): 215–22.
+2. Jüttler, Eric, Andreas Unterberg, Johannes Woitzik, Julian Bösel, Hemasse Amiri, Oliver W. Sakowitz, Matthias Gondan, et al. [Hemicraniectomy in Older Patients with Extensive Middle-Cerebral-Artery Stroke](https://doi.org/10.1056/NEJMoa1311367). New England Journal of Medicine 370, no. 12 (20 March 2014): 1091–1100..
+3. Saver, Jeffrey L. [Number Needed to Treat Estimates Incorporating Effects over the Entire Range of Clinical Outcomes: Novel Derivation Method and Application to Thrombolytic Therapy for Acute Stroke](https://doi.org/10.1001/archneur.61.7.1066). Archives of Neurology 61, no. 7 (July 2004): 1066–70.
+4. Farag, Ehab, Maged Argalious, and Gabor Toth. [Stroke Thrombectomy Perioperative Anesthetic and Hemodynamic Management](https://doi.org/10.1136/neurintsurg-2021-018300). Journal of NeuroInterventional Surgery, 13 June 2022.
+5. Powers, William J., Alejandro A. Rabinstein, Teri Ackerson, Opeolu M. Adeoye, Nicholas C. Bambakidis, Kyra Becker, José Biller, et al. [Guidelines for the Early Management of Patients With Acute Ischemic Stroke: 2019 Update to the 2018 Guidelines for the Early Management of Acute Ischemic Stroke: A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association](https://doi.org/10.1161/STR.0000000000000211). Stroke 50, no. 12 (December 2019): e344–418.
