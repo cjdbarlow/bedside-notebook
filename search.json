@@ -130,7 +130,7 @@
     "href": "assessment/critical/neuro.html#assessing-level-of-consciousness",
     "title": "Neurological Examination",
     "section": "Assessing Level of Consciousness",
-    "text": "Assessing Level of Consciousness\n\nHaving a rigorous approach improves reproducibility and reliability of the score.\n\nIn a patient with unclear level of consciousness:\n\n\nVertical eye movements (but not always lateral) are preserved in locked-in syndrome.  Avoid asking the patient to squeeze hands - this may be a grasp reflex.  Report the GCS in its constituent components, e.g. E2VTM3. Use the best score in any section.\n\nAsk to blink and to look up/down\nAsk for an unambiguous action (e.g. thumbs up, wiggle toes) to assess hands and feet\nPerform a painful stimulus\n\nCentrally first\nSupraorbital pressure, jaw thrust. Allows assessment for localisation.\nPeripherally if no central response\n\n\n\n\nMeaningful attempts include moving hand to head with supraorbital pressure, or an arm crossing midline with pain on the contralateral side.\n\n\n\n\n\n\n\n\n\nScore\nEye\nVerbal\nMotor\n\n\n\n\n6\n-\n-\nObeys unambiguous command.\n\n\n5\n-\nOrientated. Coherent and appropriate response.\nMoves towards pain in a meaningful attempt to alleviate it.\n\n\n4\nOpen spontaneously.\nConfused. Appropriate (but incorrect) response.\nWithdraws to pain.\n\n\n3\nOpens to voice.\nInappropriate response. Response does not match questions.\nAbnormal flexion (decorticate posturing) to pain.\n\n\n2\nOpens to pain.\nIncomprehensible response. Moaning/sounds, but no words.\nAbnormal extension (decerebrate posturing) to pain.\n\n\n1\nNo response.\nNo response.\nNo response."
+    "text": "Assessing Level of Consciousness\n\nHaving a rigorous approach improves reproducibility and reliability of the score.\n\nIn a patient with unclear level of consciousness:\n\n\nVertical eye movements (but not always lateral) are preserved in locked-in syndrome.  Avoid asking the patient to squeeze hands - this may be a grasp reflex.  Report the GCS in its constituent components, e.g. E2VTM3. Use the best score in any section.\n\nAsk to blink and to look up/down\nAsk for an unambiguous action (e.g. thumbs up, wiggle toes) to assess hands and feet\nPerform a painful stimulus\nOnly after a patient has failed to respond to a command.\n\nCentrally first\nSupraorbital pressure, jaw thrust. Allows assessment for localisation.\nPeripherally if no central response\n\n\n\n\nMeaningful attempts include moving hand to head with supraorbital pressure, or an arm crossing midline with pain on the contralateral side.\n\n\n\n\n\n\n\n\n\nScore\nEye\nVerbal\nMotor\n\n\n\n\n6\n-\n-\nObeys unambiguous command.\n\n\n5\n-\nOrientated. Coherent and appropriate response.\nMoves towards pain in a meaningful attempt to alleviate it.\n\n\n4\nOpen spontaneously.\nConfused. Appropriate (but incorrect) response.\nWithdraws to pain.\n\n\n3\nOpens to voice.\nInappropriate response. Response does not match questions.\nAbnormal flexion (decorticate posturing) to pain.\n\n\n2\nOpens to pain.\nIncomprehensible response. Moaning/sounds, but no words.\nAbnormal extension (decerebrate posturing) to pain.\n\n\n1\nNo response.\nNo response.\nNo response."
   },
   {
     "objectID": "assessment/critical/neuro.html#pupils",
@@ -8421,11 +8421,11 @@
     "text": "References\n\nANZCA. PS63: Guidelines for Safe Care for Patients Sedated in Health Care Facilities for Acute Behavioural Disturbance."
   },
   {
-    "objectID": "disease/neuro/stroke.html#epidemiology-and-risk-factors",
-    "href": "disease/neuro/stroke.html#epidemiology-and-risk-factors",
+    "objectID": "disease/neuro/stroke.html#epidemiology-and-risk",
+    "href": "disease/neuro/stroke.html#epidemiology-and-risk",
     "title": "Stroke",
-    "section": "Epidemiology and Risk Factors",
-    "text": "Epidemiology and Risk Factors\nRisk factors:\n\nAge\nSmoking\nCardiovascular disease\n\nAF\nHTN\nDyslipidaemia\nDM\nPrevious stroke or TIA\nIE\n\nHypercoagulable state\n\nPregnancy\nFactor V Leiden\nProtein C/S deficiency\nAntithrombin III deficiency\n\nHyperviscosity\n\nMyeloma\nHHS"
+    "section": "Epidemiology and Risk",
+    "text": "Epidemiology and Risk\nRisk factors:\n\nAge\nSmoking\nCardiovascular disease\n\nAF\nHTN\nDyslipidaemia\nDM\nPrevious stroke or TIA\nIE\n\nHypercoagulable state\n\nPregnancy\nFactor V Leiden\nProtein C/S deficiency\nAntithrombin III deficiency\n\nHyperviscosity\n\nMyeloma\nHHS"
   },
   {
     "objectID": "disease/neuro/stroke.html#pathophysiology",
@@ -8439,7 +8439,7 @@
     "href": "disease/neuro/stroke.html#clinical-manifestations",
     "title": "Stroke",
     "section": "Clinical Manifestations",
-    "text": "Clinical Manifestations\n\nStroke severity is semi-objectively described using the NIHSS. However, endovascularly correctable stroke may have a low NIHSS score. NIHSS is not a guide for identifying patients eligible for reperfusion therapies.\n\nStroke symptoms include:\n\nNegative\n\nUsually focal\n\nMotor\n\nLimb weakness\nDysphagia\nAtaxia\n\nSensation\nSpeech and language\n\nComprehension\nExpression\nCalculation\n\nNon-focal include:\n\nSyncope\nAltered conscious state\nIncontinence\nCerebellar signs\nVertigo, tinnitus, dysphagia, dysarthria, diplopia, ataxia.\n\n\nMaximal at onset\n\n\nStroke Syndromes\n\nOverview of Stroke Syndromes\n\n\n\n\n\n\n\n\nVessel/Region\nBilateral\nDominant Hemisphere\nNon-dominant Hemisphere\n\n\n\n\nACA\n\nContralateral leg weakness/numbness\nExecutive dysfunction\n\nTranscortical Motor Aphasia:\n\nWord finding difficulties\nHalting speech\nPreserved repetition\nPreserved comprehension\n\n\nConfusion\nContralateral hemineglect\n\n\n\nMCA\n\nContralateral face and arm weakness\nMay have numbness.\nConjugate ipsilateral eye deviation\n\n\nAphasia\nBilateral apraxia\nLoss of skilled movements.\n\n\nContralateral hemineglect\nLoss of insight into deficit\nDrowsiness\n\n\n\nPCA\n\nHemianopia/superior quadrantanopia\nContralateral sensory loss\n↓ Arousal\nContralateral hemiplegia\nUncommon.\nCortical blindness\nMay be unrecognised by the patient, leading to confabulation.\n\n\nPreservation of writing but not reading\nDifficulty naming objects\nDifficulty giving uses for objects\n\n\nInability to recognise faces\n\n\n\nThalamic\n\nLimbic disruption\nDisorientation, euphoria, apathy, other mood changes.\n↓ Arousal\nHemibody sensory loss\nAtaxia\nAphasia\n\n\n\n\n\nBasilar\n\n↓ GCS\nQuadriplegia\nMay be “crossed”, e.g. left face/right limbs.\nGaze palsy\nBulbar/pseudobulbar palsy\nPupil abnormalities (dilated through to pinprick)\nLocked-in syndrome\nAmnesia\nHallucinations\n\n\n\n\n\nCerebellar\n\nIpsilateral ataxia\nVertigo\nNausea.\nNystagmus"
+    "text": "Clinical Manifestations\n\nStroke severity is semi-objectively described using the NIHSS. However, endovascularly correctable stroke may have a low NIHSS score. NIHSS is not a guide for identifying patients eligible for reperfusion therapies.\n\nStroke symptoms include:\n\nNegative\n\nUsually focal\n\nMotor\n\nLimb weakness\nDysphagia\nAtaxia\n\nSensation\nSpeech and language\n\nComprehension\nExpression\nCalculation\n\nNon-focal include:\n\nSyncope\nAltered conscious state\nIncontinence\nCerebellar signs\nVertigo, tinnitus, dysphagia, dysarthria, diplopia, ataxia.\n\n\nMaximal at onset\n\n\nStroke Syndromes\n\nThis is an abbreviated list. Smarter people than I have compiled more complete ones.\n\n\nAbbreviated Overview of Stroke Syndromes\n\n\n\n\n\n\n\n\nVessel/Region\nBilateral\nDominant Hemisphere\nNon-dominant Hemisphere\n\n\n\n\nACA\n\nContralateral leg weakness/numbness\nExecutive dysfunction\n\nTranscortical Motor Aphasia:\n\nWord finding difficulties\nHalting speech\nPreserved repetition\nPreserved comprehension\n\n\nConfusion\nContralateral hemineglect\n\n\n\nMCA\n\nContralateral face and arm weakness\nMay have numbness.\nConjugate ipsilateral eye deviation\n\n\nAphasia\nBilateral apraxia\nLoss of skilled movements.\n\n\nContralateral hemineglect\nLoss of insight into deficit\nDrowsiness\n\n\n\nPCA\n\nHemianopia/superior quadrantanopia\nContralateral sensory loss\n↓ Arousal\nContralateral hemiplegia\nUncommon.\nCortical blindness\nMay be unrecognised by the patient, leading to confabulation.\n\n\nPreservation of writing but not reading\nDifficulty naming objects\nDifficulty giving uses for objects\n\n\nInability to recognise faces\n\n\n\nThalamic\n\nLimbic disruption\nDisorientation, euphoria, apathy, other mood changes.\n↓ Arousal\nHemibody sensory loss\nAtaxia\nAphasia\n\n\n\n\n\nLacunar\nNo cortical defect and:\n\nHemiparesis\nHemibody sensory loss (+/- paraesthesia)\nDysarthria\n\n\n\n\n\nVertebrobasilar\n\n↓ GCS\nQuadriplegia\nMay be “crossed”, e.g. left face/right limbs.\nGaze palsy\nBulbar/pseudobulbar palsy\nPupil abnormalities (dilated through to pinprick)\nLocked-in syndrome\nAmnesia\nHallucinations\n\n\n\n\n\nCerebellar\n\nIpsilateral ataxia\nVertigo\nNausea.\nNystagmus"
   },
   {
     "objectID": "disease/neuro/stroke.html#diagnostic-approach-and-ddx",
@@ -8474,7 +8474,7 @@
     "href": "disease/neuro/stroke.html#complications",
     "title": "Stroke",
     "section": "Complications",
-    "text": "Complications\n\nA\n\nAspiration\nDysphagia common both with brainstem and hemispheric stroke.\n\nB\n\nPneumonia\nIncluding VAP, if intubated.\nPE\nAccounts for 10% of deaths following stroke.\n\nC\n\nDysrhythmia (40%) .\n\nD\n\nMalignant Infarction of the Middle Cerebral Artery (MMCAS)\n\nHaemorrhagic transformation (5%)\nBleeding into a previously ischaemic stroke.\n\nRisks\n\nLarge infarct\nCoagulopathy\nVascular risk factors\nHypertension\n\nManagement\n\nStop any residual thrombolysis\nRepeat imaging\nCorrect coagulopathy\n\nCryoprecipitate 10U\nTXA 1g\n\nNeurosurgical evacuation may be indicated if mass effect\n\n\nCerebral oedema and ↑ ICP\nSeizure (<10%)\nUncommon. Risk increase with stroke severity, and may indicated haemorrhagic transformation.\nHyperglycaemia (40%)\n\nCommon\nAssociated with mortality and morbidity\nTight control harmful\n\n\nE\n\nFever (50%)\n\nH\n\nDVT\nEarly mobilisation. Prophylactic heparin should be started >24 hours following reperfusion.\nAnaemia\nTransfusion threshold not established.\n\n\n\n\nThings to consider if the stroke patient deteriorates:\n\nHaemorrhagic transformation\nReinfarction/reocclusion\n↑ ICP\nSeizure\nHypoglycaemia"
+    "text": "Complications\n\nA\n\nAspiration\nDysphagia common both with brainstem and hemispheric stroke.\n\nB\n\nPneumonia\nIncluding VAP, if intubated.\nPE\nAccounts for 10% of deaths following stroke.\n\nC\n\nDysrhythmia (40%) .\n\nD\n\nMalignant Infarction of the Middle Cerebral Artery (MMCAS)\n\nHaemorrhagic transformation (5%)\nBleeding into a previously ischaemic stroke.\n\nRisks\n\nLarge infarct\nCoagulopathy\nVascular risk factors\nHypertension\n\nManagement\n\nStop any residual thrombolysis\nRepeat imaging\nCorrect coagulopathy\n\nCryoprecipitate 10U\nTXA 1g\n\nNeurosurgical evacuation may be indicated if mass effect\n\n\nCerebral oedema and ↑ ICP\nHydrocephalus\n\nObstructive\nMay be both more common and more severe following cerebellar than cortical infarction.\nEx-vacuo\nLoss of brain tissue resulting in ↑ CSF volume.\n\nSeizure (<10%)\nUncommon. Risk increase with stroke severity, and may indicated haemorrhagic transformation.\nHyperglycaemia (40%)\n\nCommon\nAssociated with mortality and morbidity\nTight control harmful\n\n\nE\n\nFever (50%)\n\nH\n\nDVT\nEarly mobilisation. Prophylactic heparin should be started >24 hours following reperfusion.\nAnaemia\nTransfusion threshold not established.\n\n\n\n\nThings to consider if the stroke patient deteriorates:\n\nHaemorrhagic transformation\nReinfarction/reocclusion\n↑ ICP\nSeizure\nHypoglycaemia"
   },
   {
     "objectID": "disease/neuro/stroke.html#prognosis",
@@ -8495,14 +8495,14 @@
     "href": "disease/neuro/stroke.html#further-reading",
     "title": "Stroke",
     "section": "Further Reading",
-    "text": "Further Reading\n\nThe IBCC has a phenomenal in-depth chapter on ischaemic stroke\nNeuroEMCRit has a two-part (one, two) overview of ischaemic stroke\nDeranged Physiology has a much more detailed list of stroke syndromes"
+    "text": "Further Reading\n\nThe IBCC has a phenomenal in-depth chapter on ischaemic stroke\nNeuroEMCRit has a two-part (one, two) overview of ischaemic stroke"
   },
   {
     "objectID": "disease/neuro/stroke.html#references",
     "href": "disease/neuro/stroke.html#references",
     "title": "Stroke",
     "section": "References",
-    "text": "References\n\nVahedi, Katayoun, Jeannette Hofmeijer, Eric Juettler, Eric Vicaut, Bernard George, Ale Algra, G. Johan Amelink, et al. Early Decompressive Surgery in Malignant Infarction of the Middle Cerebral Artery: A Pooled Analysis of Three Randomised Controlled Trials. The Lancet Neurology 6, no. 3 (1 March 2007): 215–22.\nJüttler, Eric, Andreas Unterberg, Johannes Woitzik, Julian Bösel, Hemasse Amiri, Oliver W. Sakowitz, Matthias Gondan, et al. Hemicraniectomy in Older Patients with Extensive Middle-Cerebral-Artery Stroke. New England Journal of Medicine 370, no. 12 (20 March 2014): 1091–1100..\nSaver, Jeffrey L. Number Needed to Treat Estimates Incorporating Effects over the Entire Range of Clinical Outcomes: Novel Derivation Method and Application to Thrombolytic Therapy for Acute Stroke. Archives of Neurology 61, no. 7 (July 2004): 1066–70.\nFarag, Ehab, Maged Argalious, and Gabor Toth. Stroke Thrombectomy Perioperative Anesthetic and Hemodynamic Management. Journal of NeuroInterventional Surgery, 13 June 2022.\nPowers, William J., Alejandro A. Rabinstein, Teri Ackerson, Opeolu M. Adeoye, Nicholas C. Bambakidis, Kyra Becker, José Biller, et al. Guidelines for the Early Management of Patients With Acute Ischemic Stroke: 2019 Update to the 2018 Guidelines for the Early Management of Acute Ischemic Stroke: A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association. Stroke 50, no. 12 (December 2019): e344–418."
+    "text": "References\n\nVahedi, Katayoun, Jeannette Hofmeijer, Eric Juettler, Eric Vicaut, Bernard George, Ale Algra, G. Johan Amelink, et al. Early Decompressive Surgery in Malignant Infarction of the Middle Cerebral Artery: A Pooled Analysis of Three Randomised Controlled Trials. The Lancet Neurology 6, no. 3 (1 March 2007): 215–22.\nJüttler, Eric, Andreas Unterberg, Johannes Woitzik, Julian Bösel, Hemasse Amiri, Oliver W. Sakowitz, Matthias Gondan, et al. Hemicraniectomy in Older Patients with Extensive Middle-Cerebral-Artery Stroke. New England Journal of Medicine 370, no. 12 (20 March 2014): 1091–1100..\nSaver, Jeffrey L. Number Needed to Treat Estimates Incorporating Effects over the Entire Range of Clinical Outcomes: Novel Derivation Method and Application to Thrombolytic Therapy for Acute Stroke. Archives of Neurology 61, no. 7 (July 2004): 1066–70.\nFarag, Ehab, Maged Argalious, and Gabor Toth. Stroke Thrombectomy Perioperative Anesthetic and Hemodynamic Management. Journal of NeuroInterventional Surgery, 13 June 2022.\nPowers, William J., Alejandro A. Rabinstein, Teri Ackerson, Opeolu M. Adeoye, Nicholas C. Bambakidis, Kyra Becker, José Biller, et al. Guidelines for the Early Management of Patients With Acute Ischemic Stroke: 2019 Update to the 2018 Guidelines for the Early Management of Acute Ischemic Stroke: A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association. Stroke 50, no. 12 (December 2019): e344–418.\nEpstein, Elliot, and Huma Naqvi. Acute Hydrocephalus Following Cerebellar Infarct. BMJ Case Reports 2010 (February 22, 2010): bcr06.2009.1957"
   },
   {
     "objectID": "disease/neuro/seizure.html#emergency-management",
@@ -9779,6 +9779,48 @@
     "text": "References\n\nO’Donnell, Aidan M., and Irwin T.H. Foo. ‘Anaesthesia for Transurethral Resection of the Prostate’. Continuing Education in Anaesthesia Critical Care & Pain 9, no. 3 (June 2009): 92–96. https://doi.org/10.1093/bjaceaccp/mkp012.\nHahn RG. Fluid absorption in endoscopic surgery. British Journal of Anaesthesia. 2006 Jan 1;96(1):8–20.\nIstre O, Bjoennes J, Naess R, Hornbaek K, Forman A. Postoperative cerebral oedema after transcervical endometrial resection and uterine irrigation with 1.5% glycine. Lancet. 1994 Oct 29;344(8931):1187–9.\nAmerican College of Obstetricians and Gynecologists. ACOG technology assessment in obstetrics and gynecology, number 4, August 2005: hysteroscopy. Obstet Gynecol. 2005 Aug;106(2):439-42."
   },
   {
+    "objectID": "disease/fluid/hypoca.html#epidemiology-and-risk-factors",
+    "href": "disease/fluid/hypoca.html#epidemiology-and-risk-factors",
+    "title": "Hypocalcaemia",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors\nCommon electrolyte abnormality:\n\n18% of hospital inpatients\n85% of ICU patients"
+  },
+  {
+    "objectID": "disease/fluid/hypoca.html#pathophysiology",
+    "href": "disease/fluid/hypoca.html#pathophysiology",
+    "title": "Hypocalcaemia",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\nCalcium is an important and highly regulated cation with multiple critical functions:\n\nMuscular contraction\nCoagulation\nNeurotransmission\nHormone release\nCellular apoptosis\n\nSerum calcium is regulated by:\n\nPTH\n\n\nRelease stimulated by ↓ serum calcium\n↑ Renal and bone reabsorption\n↑ Calcitriol production\n↑ Gut calcium absorption.\n\nVitamin D\nCalcitriol precursor.\nCalcitonin\n↓ Bone reabsorption and ↑ renal elimination.\n\n\nAetiology\n\n↓ PTH\n\nPrimary\n\nParathyroid/thyroid surgery\nAutoimmune disease\n\nSecondary\n\nSepsis\nHypomagnesaemia\n<0.4mmol/L.\n\n\n↑ PTH\n\n↓ Vitamin D\n\nDietary\n\nMalabsorption\n\n↓ Sunlight exposure\nRenal failure\nPregnancy\n\nPTH resistance\n\nHypomagnesaemia\n\nCalcium loss/consumption\n\nHyperphosphataemia\n\nTLS\n\nAcute pancreatitis\nClotting\nBone metastases\nAlkalosis\n\nDrugs\n\nCitrate\nTotal calcium remains normal, because the citrate-calcium complex is measured and accounted for.\nBisphosphonates\nPhenytoin\n\n\n\n\n\nPrimary alkalosis causes an ionised hypocalcaemia by ↑ calcium binding to albumin. However, many other causes of hypocalcaemia also cause metabolic acidosis (e.g. renal failure, TLS."
+  },
+  {
+    "objectID": "disease/fluid/hypoca.html#clinical-manifestations",
+    "href": "disease/fluid/hypoca.html#clinical-manifestations",
+    "title": "Hypocalcaemia",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations\n\nC\n\nLong QT\nTDP if severe.\n\nD\n\nParaesthesias\nConfusion/delirium\n\nE\n\nTwitching\nSpasm/Tetany\n\nCarpopedal spasm\n\n\n\n\n\nChvostek’s sign - tapping the parotid gland over the facial nerve to induce facial spasm - is a poor discriminator of ↓ calcium. 10% of normal patients are positive, and ~30% of hypocalcaemic patients are negative."
+  },
+  {
+    "objectID": "disease/fluid/hypoca.html#investigations",
+    "href": "disease/fluid/hypoca.html#investigations",
+    "title": "Hypocalcaemia",
+    "section": "Investigations",
+    "text": "Investigations\nBloods:\n\nPTH\nShould be ↑ in the setting of hypocalcaemia.\n25-hydroxyvitamin D\nRenal function\nAlbumin\nLipase\nPancreatitis.\nMagnesium\nPhosphate\n\n\n↑ Phosphate associated with primary hypoparathyroidism\nPhosphate also chelates calcium, which may contribute to ↓ calcium.\n↓ Phosphate associated with secondary hypoparathyroidism\n\n\nOther:\n\nECG\nLong QT, TDP."
+  },
+  {
+    "objectID": "disease/fluid/hypoca.html#management",
+    "href": "disease/fluid/hypoca.html#management",
+    "title": "Hypocalcaemia",
+    "section": "Management",
+    "text": "Management\n\nIV replacement should be used for anyone with:\n\nNeuromuscular irritability\nSerum calcium <1.9mmol/L\n\n\nAcute:\n\nCorrect any hypomagnesaemia\nIV Calcium Gluconate\n\n10mL 10% (diluted to 50-100mL) over 10 minutes\nCardiac monitor due to risk of dysrhythmia.\nInfusion\n100mL 10% (diluted to 1L), run at 50mL/hr. Expect ~0.3-0.5mmol/L ↑ in calcium over 6 hours. IV Calcium Gluconate infusion if required, titrating rate to serum calcium.\n\n\n\n\nCalcium chloride can also be used, but needs a big reliable drip or CVC due to the risk of devastating tissue necrosis on extravasation.\nSub-acute:\n\n↓ PTH\n\n\nCalcitriol 0.25-1ug/day\nOral calcium supplementation\n\nNormal/↑ PTH\n\n50,000 IU Cholecalciferol\n\n\n\n\n\nCholecalciferol requires PTH for conversion, which is why calcitriol is used in the ↓ PTH group.\nPersistent:\n\nIf calcium continues to fall despite treatment, consider:\n\nThiazide\n↑ Renal calcium reabsorption.\nRecombinant PTH"
+  },
+  {
+    "objectID": "disease/fluid/hypoca.html#references",
+    "href": "disease/fluid/hypoca.html#references",
+    "title": "Hypocalcaemia",
+    "section": "References",
+    "text": "References\n\nCooper, Mark S, and Neil J L Gittoes. Diagnosis and Management of Hypocalcaemia. BMJ: British Medical Journal 336, no. 7656 (June 7, 2008): 1298–1302."
+  },
+  {
     "objectID": "disease/endo/dm.html#epidemiology-and-risk-factors",
     "href": "disease/endo/dm.html#epidemiology-and-risk-factors",
     "title": "Diabetes Mellitus",
@@ -10920,323 +10962,323 @@
     "text": "References"
   },
   {
-    "objectID": "disease/rid/anaphylaxis.html#epidemiology-and-risk-factors",
-    "href": "disease/rid/anaphylaxis.html#epidemiology-and-risk-factors",
+    "objectID": "disease/immune/anaphylaxis.html#epidemiology-and-risk-factors",
+    "href": "disease/immune/anaphylaxis.html#epidemiology-and-risk-factors",
     "title": "Anaphylaxis",
     "section": "Epidemiology and Risk Factors",
     "text": "Epidemiology and Risk Factors\nTriggers of non-perioperative anaphylaxis:\n\nFood\n\n60% of anaphylaxis in children\n16% of anaphylaxis in adults\n\nInsect venoms\n\n16% of anaphylaxis in children\n55% of anaphylaxis in adults\n\nDrugs\n\n8% of anaphylaxis in children\n21% of anaphylaxis in adults\n\n\n\nEpidemiology of Perioperative Anaphylaxis\nEpidemiology:\n\n56% female\nOverall less common in paediatrics\n\nMay be due to less use of antibiotics and muscle relaxants\nMore likely to present with bronchospasm\n\n\nCauses:\n\n~46% are antibiotic associated\nTeicoplanin and amoxacillin-clavulanate have the highest risk.\n~33% are related to neuromuscular blocking drugs\n\nSuxamethonium: ~11/100,000\nRocuronium: 6/100,000\nAtracurium: 4/100,000\n\n~10% chlorhexidine\nTypically presents more slowly, unless IV (i.e. chlorhexidine-impregnated CVC) source.\n\nIncreasing incidence due to increased use\nAn untested patient with a history of perioperative anaphylaxis should be managed as having chlorhexidine hypersensitivity\n\nPatent Blue die\nHighest risk single therapy at ~15/100,000.\n\nMay present with blue urticaria"
   },
   {
-    "objectID": "disease/rid/anaphylaxis.html#pathophysiology",
-    "href": "disease/rid/anaphylaxis.html#pathophysiology",
+    "objectID": "disease/immune/anaphylaxis.html#pathophysiology",
+    "href": "disease/immune/anaphylaxis.html#pathophysiology",
     "title": "Anaphylaxis",
     "section": "Pathophysiology",
     "text": "Pathophysiology\nAnaphylaxis is driven by degranulation of mas cells and basophil granulocytes, causing release of:\n\nHistamine\nProstaglandins\nLeukotrienes\nTryptase\nPlatelet-activating factor\nCytokines\nChemokines\n\nNon-allergic anaphylaxis:\n\nDescribes a clinical appearance of anaphylaxis where immunological sensitisation has not been detected\nProbably relates to G-protein induced release of vasoactive mediators"
   },
   {
-    "objectID": "disease/rid/anaphylaxis.html#clinical-manifestations",
-    "href": "disease/rid/anaphylaxis.html#clinical-manifestations",
+    "objectID": "disease/immune/anaphylaxis.html#clinical-manifestations",
+    "href": "disease/immune/anaphylaxis.html#clinical-manifestations",
     "title": "Anaphylaxis",
     "section": "Clinical Manifestations",
     "text": "Clinical Manifestations\n\n\nUnanticipated hypotension or tachycardia should raise suspicion\nAbsence of skin signs does not rule out the diagnosis\n\n\nSymptoms and signs of anaphylaxis:\n\nTypically occur acutely and progress rapidly\n\n83% present within 10 minutes\n2% present after 60 minutes\n\nRelate to involvement of different organ systems\nRelate to the region of the body affected\nTypically tissues with high concentrations of mast cells.\n\nSkin\nSkin signs are uncommon in severe anaphylaxis due to lack of perfusion.\n\nUrticaria\nErythema\nAngioedema\nAirway swelling\n\nRespiratory\n\nBronchospasm\nLeading symptom in life-threatening reactions.\n\nPresent in 50%\nFirst symptom in ~20%\n\nCapnograph changes will be evident in ~30%\n\nGIT\n\nNausea\nVomiting\nDiarrhoea\n\nCVS\n\nHypotension\nIsolated severe hypotension was typically managed poorly in NAP6.\nHaemoconcentration\nDue to interstitial oedema.\n\n35-70% of circulating volume may extravasate in 10-15 minutes\n\nCardiac arrest\nPEA most common.\n\n\n\nProdromal symptoms:\n\nItching\nMetallic taste\nFearfulness\nHeadache\nDisorientation\n\n\nPresentation of Perioperative Anaphylaxis\n\nTiming\n\n~80% occurs within 10 minutes of drug administration\nAntibiotic-associated anaphylaxis typically occurs more rapidly and aggressively.\n~2% occurs after 60 minutes\n\nFeatures\n\nBronchospasm\n\nOccurs in 50%\nFirst feature in ~20%\nCapnograph changes in ~30%\n\nSkin signs\nUncommon in severe reactions.\n\n\n\n\nClassification\nAnaphylaxis is classified into four grades, based on severity:\n\nGrade 1 (Mild)\n\nMucocutaneous signs only\nDoes not require treatment with adrenaline\nDoes require monitoring\n\nGrade 2 (Moderate)\n\nMulti-organ manifestations\nTypically:\n\nBronchospasm\nHypotension\nPerioperatively, consider hypotension out of proportion to what would be expected by the drugs given or the operative stage.\nMucocutaneous signs\nTypically allows differentiation from isolated bronchospasm or other causes of hypotension.\n\n\nGrade 3 (Life-threatening)\n\nLife threatening\n\nHypotension\nElevated airway pressures\n\nRequires immediate treatment to avoid progression\nCutaneous signs frequently absent due to poor cardiac output state\nMay only appear following resuscitation.\n\nGrade 4 (Cardiac arrest)\n\nAbsence of palpable central pulse or grossly inadequate blood pressure\nManagement follows a ALS protocol\nConsider more frequent use of adrenaline (Q1-2 minutely) and early initiation of vasopressors when initial therapy is inadequate."
   },
   {
-    "objectID": "disease/rid/anaphylaxis.html#diagnostic-approach-and-ddx",
-    "href": "disease/rid/anaphylaxis.html#diagnostic-approach-and-ddx",
+    "objectID": "disease/immune/anaphylaxis.html#diagnostic-approach-and-ddx",
+    "href": "disease/immune/anaphylaxis.html#diagnostic-approach-and-ddx",
     "title": "Anaphylaxis",
     "section": "Diagnostic Approach and DDx",
     "text": "Diagnostic Approach and DDx\nDifferential diagnoses include:\n\nRespiratory\n\nStatus asthmaticus\nAirway foreign body\nLaryngotracheitis\nTension pneumothorax\nAcid aspiration\nDislodged, kinked, or obstructed airway device\n\nCVS\n\nCardiogenic shock\nEmbolism\nMI\n\nEndocrinological\n\nCarcinoid syndrome\nPheochromocytoma\nThyrotoxic crisis\nHypoglycaemia\n\nSkin diseases\n\nUrticaria\nHereditary/acquired angioedema\n\nToxins\n\nEthanol\nHistaminosis"
   },
   {
-    "objectID": "disease/rid/anaphylaxis.html#investigations",
-    "href": "disease/rid/anaphylaxis.html#investigations",
+    "objectID": "disease/immune/anaphylaxis.html#investigations",
+    "href": "disease/immune/anaphylaxis.html#investigations",
     "title": "Anaphylaxis",
     "section": "Investigations",
     "text": "Investigations\nFormal follow-up is important:\n\nAs anaesthetists are mostly wrong about the likely causative agent\nFor patients with any of the following:\n\nUnexplained cardiac arrest\nUnexplained and unexpected hypotension\nUnexplained bronchospasm, particularly when:\n\nSevere\nAssociated with desaturations\nTreatment resistant\n\nAngioedema\n\nTo provide education for future anaesthetics\n\nNotably, no cause is found in ~50% of cases\n\n\n\nTryptase Testing\n\nTryptase is a protease enzyme stored in granules in mast cells and basophils\nTwo subtypes:\n\nα-tryptase is secreted constitutively and found in health\nβ-tryptase is released by mast cells in anaphylaxis, and may be raised in cutaneous mastocytosis\n\nWill not be elevated in a basophil or complement-mediated anaphylaxis\nAcute elevation supports anaphylaxis diagnosis\n\nLevel >20μg/L is considered positive, assuming a normal baseline Magnitude of elevation is relevant, and is more likely to have an agent identified.\nPeak level usually within 15-120 minutes\nDeclines over 3-6 hours\n\nShould be measured at the 1 (as close as possible to onset), 4, and 24 hour mark\n\n24 hour value gives a baseline level, which can then be used to identify whether there was substantial mast cell degranulation\nSamples require refrigeration if ⩾1 hour to laboratory\n\n\n\n\nRAST Testing\n\nIn vitro testing evaluating IgE response to specific agents\n\nLimited to IgE mediated reactions\n\nOnly available for a small number of agents:\n\nSuxamethonium\nLimited sensitivity.\nPenicillin\nAmpicillin\nAmoxicillin\nCefaclor\nLatex\nChlorhexidine\n\n\n\n\nSkin Testing\n\nGold standard\nMost useful for:\n\nNeuromuscular blocking drugs\nOnly method to determine cross-reactivity in NMBD-induced anaphylaxis.\nLatex\nβ-lactam antibiotics\n\nRequirements:\n\nMust be performed 6 weeks after the event\nEnsure mast cell recovery has occurred.\nSeveral day cessation of:\n\nAntihistamines\nPsychotropic drugs\n\n\nMay involve either:\n\nSkin prick testing\nAgent is applied to the forearm, and then a needle prick made through the agent.\nIntradermal testing\nInjection of dilute agents into the dermis.*"
   },
   {
-    "objectID": "disease/rid/anaphylaxis.html#management",
-    "href": "disease/rid/anaphylaxis.html#management",
+    "objectID": "disease/immune/anaphylaxis.html#management",
+    "href": "disease/immune/anaphylaxis.html#management",
     "title": "Anaphylaxis",
     "section": "Management",
     "text": "Management\nPrinciples of management include:\n\nHuman factors\n\nTeam leader\nUsually most senior person present.\nCard reader\nCall out required actions of immediate management cards, and to communicate with the team leader.\nGiver of adrenaline\n\nAn ABC approach:\n\nA\n\nCheck and secure airway\n\nPrompt administration of adrenaline may avoid the need to secure the airway\nIf airway oedema is present, then consider early endotracheal intubation\n\n\nB\nC\n\nSecure IV access\nIV fluid\n\nVolume resuscitation\nReverses haemoconcentration due to interstitial oedema.\nCan consider colloid, provided colloid was not given prior to onset of anaphylaxis\n\nAdrenaline\n\nKey therapy\n\nPrevents further mast cell degranulation\nBronchodilator\nVasoconstrictor\n\nDoses may vary depend on patient factors\n\nIncreased risk of CVS compromise with overdose\n\nExtremes of age\nHypertension\nIschaemic heart disease\nHyperthyroidism\n\nCatecholamine resistance\n\nβ-blockade\nACE-I use\n\nCatecholamine sensitivity\n\nAmphetamines\nCocaine\n\n\nIntramuscular\n\nAppropriate when IV access is unavailable\nReduces chance of severe CVS side effects\nProvides ‘depot’ for continued release\nUp to 40 minutes.\n\nIntravenous\n\nAppropriate in severe anaphylaxis\nMay be repeated every 1-2 minutes, as required\n\n\nGlucagon\nRecommended in patients on β-blockers.\n\n1-2mg IV Q5M\n\n\nE\n\nPosition supine\nConsider leg elevation\n\n\nCease administration of triggers\n\nDrug infusions\nColloids\nChlorhexidine\nRemove chlorhexidine-impregnated CVC, IDC, and lubricants.\nLatex\n\n\n\nIntraoperative Adrenaline Dosing\nManagement reflects the nature of operative anaphylaxis, namely:\n\nHigh frequency of sudden onset, severe symptoms\nPresence of an anaesthetist\n\nIV bolus dose adrenaline:\n\n\n\nSituation\nAdults\n\n\n\n\nIM bolus (Q5M)\n500μg\n\n\nIV bolus in Moderate/Grade II\n20μg\n\n\nIV bolus in life threatening/Grade III\n100-200μg\n\n\nIV bolus in cardiac Arrest/Grade IV\n1mg\n\n\nStarting infusion rate\n3μg/min\n\n\nMaximum infusion rate\n40μg/min\n\n\n\n\n\nRefractory Management\nAnaphylaxis refractory to maximal management occurs in patients * On β-blockers * On ACE-Is * With spinal blockade\nFor hypotension, consider:\n\nTOE or TTE to guide resuscitation\nECMO/CPB to establish adequate perfusion\nAlternative vasopressors\n\nVasopressin\n\nAdults: 1-2 unit bolus, then 2 units/hr\nPaediatrics: 0.04 units/kg bolus, then 0.02-0.06 units/kg/hr\n\nNoradrenaline\n\nAdults: 3-40μg/min\nPaediatrics: 0.1-0.2μg/kg/min\n\nMetaraminol\nPhenylephrine\n\n\nFor bronchospasm, consider:\n\nExcluding:\n\nPneumothorax\nAirway device malfunction\n\nBronchodilators\n\nSalbutamol\n\n1200μg (12 puffs) via MDI\n100-200μg IV, +/- infusion at 5-25μg/min\n\nMagnesium\n2g over 20 minutes.\nInhalational anaesthetics\nKetamine\n\n\n\n\nPost-Crisis Management\nMeasure tryptase:\n\nAt 0-1, 4, and 24 hours\n\nConsider:\n\nSteroids\nNo evidence that use of corticosteroids affects outcome.\n\nMay be reasonable as part of secondary management in a stable patient\nMay have a role in reducing rebound\nDexamethasone 0.1-0.4mg/kg, up to 12mg\nHydrocortisone 2-4mg/kg, up to 200mg\n\nAntihistamines\n\nNo role in acute phase\nMay be used for symptomatic management of urticaria, angioedema, and pruritus\nAppropriate in mild anaphylaxis.\nNo effect on hypotension and bronchospasm\nOral agents have a preferred side-effect profile compared to IV\n\n\n\n\nIneffective Therapies\n\nSugammadex\nHas no role in the management of rocuronium anaphylaxis."
   },
   {
-    "objectID": "disease/rid/anaphylaxis.html#complications",
-    "href": "disease/rid/anaphylaxis.html#complications",
+    "objectID": "disease/immune/anaphylaxis.html#complications",
+    "href": "disease/immune/anaphylaxis.html#complications",
     "title": "Anaphylaxis",
     "section": "Complications",
     "text": "Complications\n\nCardiac arrest\nBradycardic/PEA arrest is most common.\nDeath\nAssociated with:\n\nAge\nObesity\nCoronary artery disease\nβ-blockade"
   },
   {
-    "objectID": "disease/rid/anaphylaxis.html#prognosis",
-    "href": "disease/rid/anaphylaxis.html#prognosis",
+    "objectID": "disease/immune/anaphylaxis.html#prognosis",
+    "href": "disease/immune/anaphylaxis.html#prognosis",
     "title": "Anaphylaxis",
     "section": "Prognosis",
     "text": "Prognosis\nAnaphylaxis can:\n\nSpontaneously resolve\nProgress despite adequate therapy"
   },
   {
-    "objectID": "disease/rid/anaphylaxis.html#references",
-    "href": "disease/rid/anaphylaxis.html#references",
+    "objectID": "disease/immune/anaphylaxis.html#references",
+    "href": "disease/immune/anaphylaxis.html#references",
     "title": "Anaphylaxis",
     "section": "References",
     "text": "References\n\nCook T, Harper N. Anaesthesia, Surgery, and Life-Threatening Allergic Reactions: Report and findings of the Royal College of Anaesthetists’ 6th National Audit Project: Perioperative Anaphylaxis. Royal College of Anaesthetists’. 2018.\nRing J, Beyer K, Biedermann T, et al. Guideline for acute therapy and management of anaphylaxis: S2 Guideline of the German Society for Allergology and Clinical Immunology (DGAKI), the Association of German Allergologists (AeDA), the Society of Pediatric Allergy and Environmental Medicine (GPA), the German Academy of Allergology and Environmental Medicine (DAAU), the German Professional Association of Pediatricians (BVKJ), the Austrian Society for Allergology and Immunology (ÖGAI), the Swiss Society for Allergy and Immunology (SGAI), the German Society of Anaesthesiology and Intensive Care Medicine (DGAI), the German Society of Pharmacology (DGP), the German Society for Psychosomatic Medicine (DGPM), the German Working Group of Anaphylaxis Training and Education (AGATE) and the patient organization German Allergy and Asthma Association (DAAB). Allergo Journal International. 2014;23(3):96-112. doi:10.1007/s40629-014-0009-1.\nKolawole H, Crilly H, Kerridge R, Marshall S, Roessler P. Australian and New Zealand College of Anaesthetists (ANZCA) and Australian and New Zealand Anaesthetic Allergy Group (ANZAAG) Perioperative Anaphylaxis Management Guidelines: Background Paper. ANZCA/ANZAAG. 2016.\nANZCA. PS60: Guidelines on the Perioperative Management of Patients with Suspected or Proven Hypersensitivity to Chlorhexidine."
   },
   {
-    "objectID": "disease/rid/iris.html#epidemiology-and-risk-factors",
-    "href": "disease/rid/iris.html#epidemiology-and-risk-factors",
+    "objectID": "disease/immune/iris.html#epidemiology-and-risk-factors",
+    "href": "disease/immune/iris.html#epidemiology-and-risk-factors",
     "title": "Immune Reconstitution Inflammatory Syndrome",
     "section": "Epidemiology and Risk Factors",
     "text": "Epidemiology and Risk Factors\n\nIRIS is also known as: immune recovery disease, immune reconstitution disease, immune reconstitution syndrome, immune restoration disease, and immune rebound illness.\n\nEarly papers also described it variably as: paradoxical immune activation, immune restitution vitritis (for the ocular variants), paradoxical inflammatory flares, partial immune restoration and pathogen associated inflammatory disease.\n\nFactors influencing incidence and severity of IRIS in HIV include:\n\nSeverity of CD4 lymphopenia\n\nSeverity of existing opportunistic infection\nHIV viral load prior to commencing HAART\nRapid response to HAART"
   },
   {
-    "objectID": "disease/rid/iris.html#pathophysiology",
-    "href": "disease/rid/iris.html#pathophysiology",
+    "objectID": "disease/immune/iris.html#pathophysiology",
+    "href": "disease/immune/iris.html#pathophysiology",
     "title": "Immune Reconstitution Inflammatory Syndrome",
     "section": "Pathophysiology",
     "text": "Pathophysiology\nUnderlying mechanisms are not fully understood, but include a rapid increase in immune function including:\n\nRapid change in T-helper responses\n↑ Lymphocyte proliferation\nPathogen specific delayed-hypersensitivity\n\n\nAetiology\nIRIS requires both recovery from an immunosuppressed state and a precipitant:\n\nImmunosuppressed states\n\nCommencement of HAART for HIV\nIRIS occurs most commonly in the first six months of treatment. May occur in up to 30% of patients, though risk is lower if patients commence HAART prior to significant decline in CD4 counts.\nWithdrawal of immunosuppression in solid organ transplant\nPost-partum\nRisk in 3-6 weeks post-partum, as the immunosuppressed state of pregnancy resolves.\nResolution of Neutropenia\nWithdrawal of TNF antagonists\n\nPrecipitant\n\nLatentinfections\nClassically:\n\nTB\nMycobacterium avium\nCMV\nHSV\nHepatitis viruses\nCryptococcus neoformans\nPneumocystis jirovecii\n\nAutoimmune diseases\nSLE, RA."
   },
   {
-    "objectID": "disease/rid/iris.html#clinical-manifestations",
-    "href": "disease/rid/iris.html#clinical-manifestations",
+    "objectID": "disease/immune/iris.html#clinical-manifestations",
+    "href": "disease/immune/iris.html#clinical-manifestations",
     "title": "Immune Reconstitution Inflammatory Syndrome",
     "section": "Clinical Manifestations",
     "text": "Clinical Manifestations\nClinical features relate to the presenting symptoms of the precipitating illness."
   },
   {
-    "objectID": "disease/rid/iris.html#diagnostic-approach-and-ddx",
-    "href": "disease/rid/iris.html#diagnostic-approach-and-ddx",
+    "objectID": "disease/immune/iris.html#diagnostic-approach-and-ddx",
+    "href": "disease/immune/iris.html#diagnostic-approach-and-ddx",
     "title": "Immune Reconstitution Inflammatory Syndrome",
     "section": "Diagnostic Approach and DDx",
     "text": "Diagnostic Approach and DDx\nDiagnosis is made clinically:\n\nImprovement in immunological function\n\nFrom a suitable nadir of immunosuppression\n\nIn HIV/ a CD4 nadir of <100 cells/µl is usually required (or <200 for TB)\n\nAdequate return of function\n\n\nDifferential is broad, and includes:\n\nProgression of opportunistic infection for another reason\nNew opportunistic infection\nDrug toxicity"
   },
   {
-    "objectID": "disease/rid/iris.html#management",
-    "href": "disease/rid/iris.html#management",
+    "objectID": "disease/immune/iris.html#management",
+    "href": "disease/immune/iris.html#management",
     "title": "Immune Reconstitution Inflammatory Syndrome",
     "section": "Management",
     "text": "Management\nShould focus on:\n\nUnderlying cause\nAlteration to immunotherapy\nSymptomatic relief\n\nInclude:\n\n↑ HAART resistance\n↓ HAART compliance"
   },
   {
-    "objectID": "disease/rid/iris.html#prognosis",
-    "href": "disease/rid/iris.html#prognosis",
+    "objectID": "disease/immune/iris.html#prognosis",
+    "href": "disease/immune/iris.html#prognosis",
     "title": "Immune Reconstitution Inflammatory Syndrome",
     "section": "Prognosis",
     "text": "Prognosis\nVaries depending on the organ involvement:\n\nMajority of cases are mild and self-limiting\nCNS or pulmonary involvement may lead to death or severe neurological morbidity."
   },
   {
-    "objectID": "disease/rid/iris.html#references",
-    "href": "disease/rid/iris.html#references",
+    "objectID": "disease/immune/iris.html#references",
+    "href": "disease/immune/iris.html#references",
     "title": "Immune Reconstitution Inflammatory Syndrome",
     "section": "References",
     "text": "References\n\nThapa S, Shrestha U. Immune Reconstitution Inflammatory Syndrome. [Updated 2022 May 10]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2022 Jan. \nWolfe C. Immune reconstitution inflammatory syndrome. In: UpToDate, Post TW (Ed), UpToDate, Waltham, MA. Accessed December 14, 2022.\nNelson, Ann Marie, Yukari C. Manabe, and Sebastian B. Lucas. “Immune Reconstitution Inflammatory Syndrome (IRIS): What Pathologists Should Know.” Seminars in Diagnostic Pathology, Seminars Issue on HIV-related Disease, 34, no. 4 (July 1, 2017): 340–51. ."
   },
   {
-    "objectID": "disease/rid/sarcoid.html#epidemiology-and-risk-factors",
-    "href": "disease/rid/sarcoid.html#epidemiology-and-risk-factors",
+    "objectID": "disease/immune/sarcoid.html#epidemiology-and-risk-factors",
+    "href": "disease/immune/sarcoid.html#epidemiology-and-risk-factors",
     "title": "Sarcoidosis",
     "section": "Epidemiology and Risk Factors",
     "text": "Epidemiology and Risk Factors\nPrevalence: ~5/100,000"
   },
   {
-    "objectID": "disease/rid/sarcoid.html#pathophysiology",
-    "href": "disease/rid/sarcoid.html#pathophysiology",
+    "objectID": "disease/immune/sarcoid.html#pathophysiology",
+    "href": "disease/immune/sarcoid.html#pathophysiology",
     "title": "Sarcoidosis",
     "section": "Pathophysiology",
     "text": "Pathophysiology\n\nAetiology\nUnknown, likely to be genetic susceptibility combined with an environmental trigger leading to an inflammatory response."
   },
   {
-    "objectID": "disease/rid/sarcoid.html#clinical-manifestations",
-    "href": "disease/rid/sarcoid.html#clinical-manifestations",
+    "objectID": "disease/immune/sarcoid.html#clinical-manifestations",
+    "href": "disease/immune/sarcoid.html#clinical-manifestations",
     "title": "Sarcoidosis",
     "section": "Clinical Manifestations",
     "text": "Clinical Manifestations\nCommon:\n\nConstitutional\n\nMalaise\nFever\nWeight loss\n\nPulmonary\n\nCough\nDyspnoea\n\n\nSystem involvement:\n\nAirway\n\nMuscosal infiltration in ~5%\n\nRespiratory\nOccurs in over 90%.\n\nClassified into:\n\nIsolated hilar disease\nAdenopathy and parenchymal involvement\nParenchymal involvement without adenopathy\nPulmonary fibrosis\n\nParenchymal changes are classically peribronchial and perivascular\n\nCardiac\n\nConduction disease\n\nSupraventricular arrhythmias\nProlonged QT and ventricular arrhythmias\nPVCs\n\nCardiomyopathy\n\nFailure\n\n\nCNS\n\nEye involvement\n\nChronic anterior uveitis\n\nCranial nerve involvement\n\nRenal\n\nAcute granulomatous interstitial nephritis\nNephrolithiasis and nephrocalcinosis\nCalcium deposition subsequently leading to chronic renal failure.\n\nHepatic\n\nCholestasis\nHepatic failure\nPortal hypertension\n\nHaematological\n40%.\n\nAnaemia\nLeukopaenia"
   },
   {
-    "objectID": "disease/rid/sarcoid.html#diagnostic-approach-and-ddx",
-    "href": "disease/rid/sarcoid.html#diagnostic-approach-and-ddx",
+    "objectID": "disease/immune/sarcoid.html#diagnostic-approach-and-ddx",
+    "href": "disease/immune/sarcoid.html#diagnostic-approach-and-ddx",
     "title": "Sarcoidosis",
     "section": "Diagnostic Approach and DDx",
     "text": "Diagnostic Approach and DDx"
   },
   {
-    "objectID": "disease/rid/sarcoid.html#investigations",
-    "href": "disease/rid/sarcoid.html#investigations",
+    "objectID": "disease/immune/sarcoid.html#investigations",
+    "href": "disease/immune/sarcoid.html#investigations",
     "title": "Sarcoidosis",
     "section": "Investigations",
     "text": "Investigations"
   },
   {
-    "objectID": "disease/rid/sarcoid.html#management",
-    "href": "disease/rid/sarcoid.html#management",
+    "objectID": "disease/immune/sarcoid.html#management",
+    "href": "disease/immune/sarcoid.html#management",
     "title": "Sarcoidosis",
     "section": "Management",
     "text": "Management\nTreatment modifies course:\n\nSteroids\nFirst-line.\nAlternative immunosuppression\nUsed if disease progresses despite steroids, or steroids are not tolerated. Evidence is poor. Options include:\n\nMethotrexate\nAzathioprine\nCyclophosphamide\nMycophenolate\n\n\n\nMedical\n\n\nSurgical\n\n\nAnaesthetic Considerations\n\nA\n\nAirway nodules\n\nB\n\nRespiratory involvement\n\nC\n\nConduction abnormalities\nPulmonary hypertension\nCardiomyopathy\n\nE\n\nSteroid use\n\nCushingoid features\n\n\nF\n\nHypercalcaemia\n\n\n\n\nIneffective Therapies"
   },
   {
-    "objectID": "disease/rid/sarcoid.html#complications",
-    "href": "disease/rid/sarcoid.html#complications",
+    "objectID": "disease/immune/sarcoid.html#complications",
+    "href": "disease/immune/sarcoid.html#complications",
     "title": "Sarcoidosis",
     "section": "Complications",
     "text": "Complications"
   },
   {
-    "objectID": "disease/rid/sarcoid.html#prognosis",
-    "href": "disease/rid/sarcoid.html#prognosis",
+    "objectID": "disease/immune/sarcoid.html#prognosis",
+    "href": "disease/immune/sarcoid.html#prognosis",
     "title": "Sarcoidosis",
     "section": "Prognosis",
     "text": "Prognosis\nHigh variable, including:\n\nSpontaneous resolution\nUnlikely if it persists over 5 years.\nProtraction\nDeath:\n\nPulmonary\nCardiac\nNeurological"
   },
   {
-    "objectID": "disease/rid/sarcoid.html#key-studies",
-    "href": "disease/rid/sarcoid.html#key-studies",
+    "objectID": "disease/immune/sarcoid.html#key-studies",
+    "href": "disease/immune/sarcoid.html#key-studies",
     "title": "Sarcoidosis",
     "section": "Key Studies",
     "text": "Key Studies"
   },
   {
-    "objectID": "disease/rid/sarcoid.html#references",
-    "href": "disease/rid/sarcoid.html#references",
+    "objectID": "disease/immune/sarcoid.html#references",
+    "href": "disease/immune/sarcoid.html#references",
     "title": "Sarcoidosis",
     "section": "References",
     "text": "References\n\nSanders D, Rowland R, Howell T. Sarcoidosis and anaesthesia. BJA Educ. 2016;16(5):173-177. doi:10.1093/bjaed/mkv037"
   },
   {
-    "objectID": "disease/rid/ra.html#epidemiology-and-risk-factors",
-    "href": "disease/rid/ra.html#epidemiology-and-risk-factors",
+    "objectID": "disease/immune/ra.html#epidemiology-and-risk-factors",
+    "href": "disease/immune/ra.html#epidemiology-and-risk-factors",
     "title": "Rheumatoid Arthritis",
     "section": "Epidemiology and Risk Factors",
     "text": "Epidemiology and Risk Factors\nPrevalence:\n\n1-2% of population\n3 times more common in women\n\nAssociations:\n\nAnglo-saxon\nHLA-DR4 subtype\n70% of cases.\nRheumatoid factor\n80% of cases.\nFamily history\nFood allergies/intolerances\nPsychological stressors\nHeavy metal exposure\nSmoking"
   },
   {
-    "objectID": "disease/rid/ra.html#pathophysiology",
-    "href": "disease/rid/ra.html#pathophysiology",
+    "objectID": "disease/immune/ra.html#pathophysiology",
+    "href": "disease/immune/ra.html#pathophysiology",
     "title": "Rheumatoid Arthritis",
     "section": "Pathophysiology",
     "text": "Pathophysiology\n\nAetiology"
   },
   {
-    "objectID": "disease/rid/ra.html#clinical-manifestations",
-    "href": "disease/rid/ra.html#clinical-manifestations",
+    "objectID": "disease/immune/ra.html#clinical-manifestations",
+    "href": "disease/immune/ra.html#clinical-manifestations",
     "title": "Rheumatoid Arthritis",
     "section": "Clinical Manifestations",
     "text": "Clinical Manifestations\nAffected joints:\n\nWrists\nFingers\nNeck\nShoulders\nElbows\nHips\nKnees\nAnkles\nFeet\n\nJoint pain:\n\nMorning stiffness\nFatigue\nWeight loss\nGeneral malaise\nDepression\nDisability\n\nExamination:\n\nSoft tissue swelling\n\nExtra-articular manifestations:\n\nRespiratory\n\nFibrosis\nRheumatoid nodules\nRestrictive chest wall defect\nPleural effusions\n\nCardiac\n\nPericarditis\nWith effusions and tamponade.\nMyocarditis\nEndocarditis\nPeripheral vasculitis\nAtherosclerosis and CAD\n\nRenal\n\nCKD\n\nHepatic\n\nHepatosplenomegaly\nHypoalbuminaemia"
   },
   {
-    "objectID": "disease/rid/ra.html#diagnostic-approach-and-ddx",
-    "href": "disease/rid/ra.html#diagnostic-approach-and-ddx",
+    "objectID": "disease/immune/ra.html#diagnostic-approach-and-ddx",
+    "href": "disease/immune/ra.html#diagnostic-approach-and-ddx",
     "title": "Rheumatoid Arthritis",
     "section": "Diagnostic Approach and DDx",
     "text": "Diagnostic Approach and DDx"
   },
   {
-    "objectID": "disease/rid/ra.html#investigations",
-    "href": "disease/rid/ra.html#investigations",
+    "objectID": "disease/immune/ra.html#investigations",
+    "href": "disease/immune/ra.html#investigations",
     "title": "Rheumatoid Arthritis",
     "section": "Investigations",
     "text": "Investigations"
   },
   {
-    "objectID": "disease/rid/ra.html#management",
-    "href": "disease/rid/ra.html#management",
+    "objectID": "disease/immune/ra.html#management",
+    "href": "disease/immune/ra.html#management",
     "title": "Rheumatoid Arthritis",
     "section": "Management",
     "text": "Management\n\nMedical\n\n\nSurgical\n\n\nAnaesthetic Considerations\n\nA\n\nAirway assessment\n\nRange of neck movement\nParaesthesia or loss of sensation in the hands is concerning and warrants pre-operative radiographic investigation.\nTMJ dysfunction\nCricoarytenoid involvement\nMay cause dyspnoea, stridor, hoarseness, or severe upper airway obstruction.\n\nAtlanto-axial subluxation\nPotential risk of spinal cord injury.\nSubaxial subluxation\nUncommon, leads to early symptoms of nerve impingement.\n\nB\n\nExtra-articular respiratory disease\n\nFibrosis\nNodules\nPleural effusions\n\nExtra-articular cardiac disease\n\nPeri/myo/endocarditis\nCAD\nPeripheral vasculitis\n\n\nE\n\nVascular access difficulties\nDrug effects\n\nSteroids\nMethotrexate\nPulmonary toxicity.\nDMARDs\nNeutropaenia, thrombocytopaenia, aplastic anaemia, fibrosing alveolitis.\nMethotrexate\nPulmonary fibrosis, hepatic cirrhosis.\nGold\nThrombocytopenia, haemolytic anaemia, nephrotic syndrome, myasthenia-like syndrome.\nBiologics\n\nEtanercept\nFlu-like symptoms, CNS demyelination.\nInfliximab\nExtrapulmonary TB.\nAdalimumab\nFlu-like symptoms, abdominal pain.\nAnakinra\nFlu-like symptoms, diarrhoea, nausea, thrombocytopaenia.\n\n\n\n\n\n\nIneffective Therapies"
   },
   {
-    "objectID": "disease/rid/ra.html#complications",
-    "href": "disease/rid/ra.html#complications",
+    "objectID": "disease/immune/ra.html#complications",
+    "href": "disease/immune/ra.html#complications",
     "title": "Rheumatoid Arthritis",
     "section": "Complications",
     "text": "Complications"
   },
   {
-    "objectID": "disease/rid/ra.html#prognosis",
-    "href": "disease/rid/ra.html#prognosis",
+    "objectID": "disease/immune/ra.html#prognosis",
+    "href": "disease/immune/ra.html#prognosis",
     "title": "Rheumatoid Arthritis",
     "section": "Prognosis",
     "text": "Prognosis"
   },
   {
-    "objectID": "disease/rid/ra.html#key-studies",
-    "href": "disease/rid/ra.html#key-studies",
+    "objectID": "disease/immune/ra.html#key-studies",
+    "href": "disease/immune/ra.html#key-studies",
     "title": "Rheumatoid Arthritis",
     "section": "Key Studies",
     "text": "Key Studies"
   },
   {
-    "objectID": "disease/rid/ra.html#references",
-    "href": "disease/rid/ra.html#references",
+    "objectID": "disease/immune/ra.html#references",
+    "href": "disease/immune/ra.html#references",
     "title": "Rheumatoid Arthritis",
     "section": "References",
     "text": "References"
   },
   {
-    "objectID": "disease/rid/scleroderma.html#epidemiology-and-risk-factors",
-    "href": "disease/rid/scleroderma.html#epidemiology-and-risk-factors",
+    "objectID": "disease/immune/scleroderma.html#epidemiology-and-risk-factors",
+    "href": "disease/immune/scleroderma.html#epidemiology-and-risk-factors",
     "title": "Systemic Sclerosis/Scleroderma",
     "section": "Epidemiology and Risk Factors",
     "text": "Epidemiology and Risk Factors"
   },
   {
-    "objectID": "disease/rid/scleroderma.html#pathophysiology",
-    "href": "disease/rid/scleroderma.html#pathophysiology",
+    "objectID": "disease/immune/scleroderma.html#pathophysiology",
+    "href": "disease/immune/scleroderma.html#pathophysiology",
     "title": "Systemic Sclerosis/Scleroderma",
     "section": "Pathophysiology",
     "text": "Pathophysiology\n\nAetiology"
   },
   {
-    "objectID": "disease/rid/scleroderma.html#clinical-manifestations",
-    "href": "disease/rid/scleroderma.html#clinical-manifestations",
+    "objectID": "disease/immune/scleroderma.html#clinical-manifestations",
+    "href": "disease/immune/scleroderma.html#clinical-manifestations",
     "title": "Systemic Sclerosis/Scleroderma",
     "section": "Clinical Manifestations",
     "text": "Clinical Manifestations\nGeneral:\n\nPain\nFatigue\n\nRespiratory disease:\n\nRestrictive lung disease\nPulmonary fibrosis\n\nCardiac disease:\n\nMyocardial fibrosis/LV failure\nPulmonary hypertension\nArrhythmias\n\nRenal failure:\n\nRenal crisis\n\nDermatological:\n\nRaynauds"
   },
   {
-    "objectID": "disease/rid/scleroderma.html#diagnostic-approach-and-ddx",
-    "href": "disease/rid/scleroderma.html#diagnostic-approach-and-ddx",
+    "objectID": "disease/immune/scleroderma.html#diagnostic-approach-and-ddx",
+    "href": "disease/immune/scleroderma.html#diagnostic-approach-and-ddx",
     "title": "Systemic Sclerosis/Scleroderma",
     "section": "Diagnostic Approach and DDx",
     "text": "Diagnostic Approach and DDx"
   },
   {
-    "objectID": "disease/rid/scleroderma.html#investigations",
-    "href": "disease/rid/scleroderma.html#investigations",
+    "objectID": "disease/immune/scleroderma.html#investigations",
+    "href": "disease/immune/scleroderma.html#investigations",
     "title": "Systemic Sclerosis/Scleroderma",
     "section": "Investigations",
     "text": "Investigations"
   },
   {
-    "objectID": "disease/rid/scleroderma.html#management",
-    "href": "disease/rid/scleroderma.html#management",
+    "objectID": "disease/immune/scleroderma.html#management",
+    "href": "disease/immune/scleroderma.html#management",
     "title": "Systemic Sclerosis/Scleroderma",
     "section": "Management",
     "text": "Management\n\nMedical\n\n\nSurgical\n\n\nAnaesthetic Considerations\n\nA\n\nPotential difficult airway\n\nSmall mouth\n↓ Neck mobility\nBleeding telangiectasia\n\nAspiration risk\n\nOesophageal dysmotility\n\n\nB\n\nPulmonary fibrosis\nRestrictive lung disease\n\nC\n\nMyocardial fibrosis\nPulmonary hypertension\nArterial line placement\nBeware Raynaud’s and risk of limb ischaemia with small (e.g. radial) arteries.\n\nE\n\nDifficult IV access\n\nG\n\nOesophageal dysmotility increases risk of TOE injury\n\n\n\n\nIneffective Therapies"
   },
   {
-    "objectID": "disease/rid/scleroderma.html#complications",
-    "href": "disease/rid/scleroderma.html#complications",
+    "objectID": "disease/immune/scleroderma.html#complications",
+    "href": "disease/immune/scleroderma.html#complications",
     "title": "Systemic Sclerosis/Scleroderma",
     "section": "Complications",
     "text": "Complications"
   },
   {
-    "objectID": "disease/rid/scleroderma.html#prognosis",
-    "href": "disease/rid/scleroderma.html#prognosis",
+    "objectID": "disease/immune/scleroderma.html#prognosis",
+    "href": "disease/immune/scleroderma.html#prognosis",
     "title": "Systemic Sclerosis/Scleroderma",
     "section": "Prognosis",
     "text": "Prognosis"
   },
   {
-    "objectID": "disease/rid/scleroderma.html#key-studies",
-    "href": "disease/rid/scleroderma.html#key-studies",
+    "objectID": "disease/immune/scleroderma.html#key-studies",
+    "href": "disease/immune/scleroderma.html#key-studies",
     "title": "Systemic Sclerosis/Scleroderma",
     "section": "Key Studies",
     "text": "Key Studies"
   },
   {
-    "objectID": "disease/rid/scleroderma.html#references",
-    "href": "disease/rid/scleroderma.html#references",
+    "objectID": "disease/immune/scleroderma.html#references",
+    "href": "disease/immune/scleroderma.html#references",
     "title": "Systemic Sclerosis/Scleroderma",
     "section": "References",
     "text": "References"
