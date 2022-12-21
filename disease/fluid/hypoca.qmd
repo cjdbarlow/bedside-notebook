@@ -1,0 +1,170 @@
+# Hypocalcaemia
+
+Hypocalcaemia is a common and occasionally severe electrolyte disorder. In plasma, calcium may be:
+
+* Ionised calcium (1.1-1.3mmol/L)\
+	* ~50% of serum calcium in normal persons
+	* Only biologically important version as bound calcium is not active 
+* Total (serum) calcium (2.2-2.5mmol/L)\
+Reflects sum of bound and ionised calcium.
+	* Majority of non-ionised calcium is bound to albumin, and so is affected by albumin levels\
+	Corrected calcium is calculated by ↓ (or ↑) measured total calcium by 0.02 mmol/L for every 1g/L ↓ (or ↑) the albumin is above 40g/L.
+	* Remainder bound to beta-globulins, phosphate, citrate
+
+
+## Epidemiology and Risk Factors
+
+Common electrolyte abnormality:
+
+* 18% of hospital inpatients
+* 85% of ICU patients
+
+## Pathophysiology
+
+Calcium is an important and highly regulated cation with multiple critical functions:
+
+* Muscular contraction
+* Coagulation
+* Neurotransmission
+* Hormone release
+* Cellular apoptosis
+
+Serum calcium is regulated by:
+
+* PTH\
+	* Release stimulated by ↓ serum calcium
+	* ↑ Renal and bone reabsorption
+	* ↑ Calcitriol production\
+	↑ Gut calcium absorption.
+* Vitamin D\
+Calcitriol precursor.
+* Calcitonin\
+↓ Bone reabsorption and ↑ renal elimination.
+
+### Aetiology
+
+* ↓ PTH
+	* Primary
+		* Parathyroid/thyroid surgery
+		* Autoimmune disease
+	* Secondary
+		* Sepsis
+		* Hypomagnesaemia\
+		<0.4mmol/L.
+* ↑ PTH	
+	* ↓ Vitamin D
+		* Dietary
+			* Malabsorption
+		* ↓ Sunlight exposure
+		* Renal failure
+		* Pregnancy
+	* PTH resistance
+		* Hypomagnesaemia
+	* Calcium loss/consumption
+		* Hyperphosphataemia
+			* TLS
+		* Acute pancreatitis
+		* Clotting
+		* Bone metastases
+		* Alkalosis
+	* Drugs
+		* Citrate\
+		Total calcium remains normal, because the citrate-calcium complex is measured and accounted for.
+		* Bisphosphonates
+		* Phenytoin
+
+:::column-margin
+Primary alkalosis causes an ionised hypocalcaemia by ↑ calcium binding to albumin. However, many other causes of hypocalcaemia also cause metabolic *acid*osis (e.g. renal failure, TLS).
+:::
+
+## Clinical Manifestations
+
+* C
+	* Long QT\
+	TDP if severe.
+* D
+	* Paraesthesias
+	* Confusion/delirium
+* E
+	* Twitching
+	* Spasm/Tetany
+		* Carpopedal spasm
+
+:::column-margin
+Chvostek’s sign - tapping the parotid gland over the facial nerve to induce facial spasm - is a poor discriminator of ↓ calcium. 10% of normal patients are positive, and ~30% of hypocalcaemic patients are negative.
+:::
+
+
+## Investigations
+
+Bloods:
+
+* PTH\
+Should be ↑ in the setting of hypocalcaemia.
+* 25-hydroxyvitamin D
+* Renal function
+* Albumin
+* Lipase\
+Pancreatitis.
+* Magnesium
+* Phosphate\
+	* ↑ Phosphate associated with primary hypoparathyroidism\
+	Phosphate also chelates calcium, which may contribute to ↓ calcium.
+	* ↓ Phosphate associated with secondary hypoparathyroidism
+
+
+Other:
+
+* ECG\
+Long QT, TDP.
+
+## Management
+
+:::caution
+IV replacement should be used for anyone with:
+
+* Neuromuscular irritability
+* Serum calcium **<1.9mmol/L**
+:::
+
+**Acute**:
+
+* Correct any **hypomagnesaemia**
+* IV Calcium Gluconate
+	* 10mL 10% (diluted to 50-100mL) over 10 minutes\
+	Cardiac monitor due to risk of dysrhythmia.
+	* Infusion\
+	100mL 10% (diluted to 1L), run at 50mL/hr. Expect ~0.3-0.5mmol/L ↑ in calcium over 6 hours. IV Calcium Gluconate infusion if required, titrating rate to serum calcium.
+
+
+:::column-margin
+Calcium chloride can also be used, but needs a big reliable drip or CVC due to the risk of devastating tissue necrosis on extravasation.
+:::
+
+**Sub-acute**:
+
+* ↓ PTH\
+	* Calcitriol 0.25-1ug/day
+	* Oral calcium supplementation
+* Normal/↑ PTH
+	* 50,000 IU Cholecalciferol\
+
+:::column-margin
+Cholecalciferol requires PTH for conversion, which is why calcitriol is used in the ↓ PTH group.
+:::
+
+
+**Persistent**:
+
+* If calcium continues to fall despite treatment, consider:
+	* Thiazide\
+	↑ Renal calcium reabsorption.
+	* Recombinant PTH
+
+
+
+---
+
+## References
+
+1. Cooper, Mark S, and Neil J L Gittoes. [Diagnosis and Management of Hypocalcaemia](https://doi.org/10.1136/bmj.39582.589433.BE). BMJ: British Medical Journal 336, no. 7656 (June 7, 2008): 1298–1302.

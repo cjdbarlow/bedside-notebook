@@ -542,6 +542,10 @@ book:
             - disease/neuro/bmd.qmd
             - disease/neuro/myotonic.qmd
             - disease/neuro/cim.qmd
+      # Extremities
+      #- part: "Extremities"
+      #  chapters:
+            # Rhabdo
       # Endocrine & Metabolic 
       - part: "Endocrine and Metabolic"
         chapters:
@@ -549,6 +553,7 @@ book:
           chapters:
             - disease/fluid/siadh.qmd
             - disease/fluid/turp-syndrome.qmd
+            - disease/fluid/hypoca.qmd
         # - part: "Nutrition"
         #   chapters:
             # Malnutrition
@@ -583,7 +588,7 @@ book:
         # - part: "Intrarenal"
         #   chapters:
             # GN
-            # Nephotic syhndrome
+            # Nephotic syndrome
             # RTA
             # ATN
             # Interstitial nephritis
@@ -640,18 +645,18 @@ book:
             # TTP
             # ITP
         # Rheumatology, Immunology, and Dermatology
-      - part: "Immune/Rheum/Derm"
+      - part: "Immunology"
         chapters:
         - part: "Acute Reactions"
           chapters:
-            - disease/rid/anaphylaxis.qmd
+            - disease/immune/anaphylaxis.qmd
             # Tranfusion reactions
             # TENS/SJS
         - part: "Autoimmune"
           chapters:
-            - disease/rid/iris.qmd
-            - disease/rid/sarcoid.qmd
-            - disease/rid/ra.qmd
+            - disease/immune/iris.qmd
+            - disease/immune/sarcoid.qmd
+            - disease/immune/ra.qmd
             # SLE
             # PAM
             # PMR
@@ -659,7 +664,7 @@ book:
         #   chapters:
         - part: "Connective Tissue"
           chapters:
-            - disease/rid/scleroderma.qmd
+            - disease/immune/scleroderma.qmd
             # CREST
             # Marfans
         # Trauma
@@ -684,7 +689,6 @@ book:
         #   chapters:
         # - part: "Extremities"
         #   chapters:
-            # Rhabdo
         # Infection
       - part: "Infection"
         chapters:

@@ -38,7 +38,8 @@ Report the GCS in its constituent components, e.g. E~2~V~T~M~3~. Use the best sc
 
 * Ask to blink and to look up/down
 * Ask for an *unambiguous action* (e.g. thumbs up, wiggle toes) to assess hands and feet
-* Perform a painful stimulus
+* Perform a painful stimulus\
+*Only* after a patient has failed to respond to a command.
     * Centrally first\
     Supraorbital pressure, jaw thrust. Allows assessment for localisation.
     * Peripherally if no central response

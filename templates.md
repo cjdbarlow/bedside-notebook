@@ -38,13 +38,13 @@ BIS -> Processed EEG
 # Operation
 
 :::gas
-Airway: 
-Access: 
-Pain: 
-Position:
-Time: 
-Blood loss:
-Special:
+**Airway**: 
+**Access**: 
+**Pain**: 
+**Position**:
+**Time**: 
+**Blood loss**:
+**Special**:
 :::
 
 Intro and technique
