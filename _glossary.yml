@@ -32,6 +32,7 @@ DBP: Diastolic Blood Pressure
 DCC: Direct Current Cardioversion
 DCT: Distal Convoluted Tubule
 DIC: Disseminated Intravascular Coagulopathy
+DI: Diabetes Insipidus
 DNA: Deoxyribonucleic Acid
 DOP: D-type (δ) opioid receptor
 DRG: Dorsal Respiratory Group
@@ -85,6 +86,7 @@ LVEDV: Left Ventricular End-Diastolic Volume
 LSW: Last Seen Well
 LVOT: Left Ventricular Outflow Tract
 LVOTO: Left Ventricular Outflow Tract Obstruction
+MAB: Monocloncal Antibody
 MAC: Minimum Alveolar Concentration
 MALT: Mucosa-Associated Lymphoid Tissue
 MAP: Mean Arterial Pressure
@@ -118,17 +120,22 @@ PEEP: Positive End-Expiratory Pressure
 PEFR: Peak Expiratory Flow Rate
 PFO: Patent Foramen Ovale
 PPV: Pulse Pressure Variation
+PTH: Parathyroid Hormone
+PTHrP: Parathyroid Hormone related Peptide
 RA: Right Atrium *or* Rheumatoid Arthritis
 RAP: Right Atrial Pressure
 RCA: Right Coronary Artery
 RNA: Ribonucleic Acid
+RTA: Renal Tubular Acidosis
 RR: Respiratory Rate
 RRP: Relative Refractory Period
+RRT: Renal Replacement Therapy
 RVEDP: Right Ventricular End-Diastolic Pressure
 RVEDP: Right Ventricular End-Diastolic Volume
 SAM: Systolic Anterior Motion (of the mitral valve)
 SAQ: Short Answer Question
 SBP: Systolic Blood Pressure
+SCC: Squamous Cell Carcinoma
 SCV: Subclavian Vein
 SLE: Systemic Lupus Erythematosus
 STP: Standard Temperature and Pressure (0°C at 100kPa)

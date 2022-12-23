@@ -26,7 +26,7 @@ Blockade of the brachial plexus in the axilla. This block:
 
 ## Anatomy
 
-{% include "/stubs/ul-neuro.md" %}
+{{< include /includes/ul-neuro.qmd >}}
 
 ## Equipment
 

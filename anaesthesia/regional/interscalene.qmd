@@ -28,7 +28,7 @@ Relative:
 
 ## Anatomy
 
-{% include "/stubs/ul-neuro.md" %}
+{{< include /includes/ul-neuro.qmd >}}
 
 ## Equipment
 

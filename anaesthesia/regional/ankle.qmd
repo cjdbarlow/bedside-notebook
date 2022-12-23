@@ -10,7 +10,7 @@
 
 ## Anatomy
 
-{% include "/stubs/ll-neuro.md" %}
+{{< include /includes/ll-neuro.qmd >}}
 
 ## Equipment
 

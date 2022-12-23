@@ -1,0 +1,225 @@
+# Hypercalcaemia
+
+Hypercalcaemia (serum calcium >2.5mmol/L) is a common and occasionally severe electrolyte disorder. Extracellular calcium is split (approximately evenly) into:
+
+:::column-margin
+No formal severity grading exists, but a reasonable stratification is:
+
+* 2.6-2.9mmol/L: Mild\
+Often asymptomatic, urgent correction not required.
+* 3.0-3.4mmol/L: Moderate\
+Acute occurrence often symptomatic and demands prompt treatment.
+* >3.4mmol/L: Severe\
+Urgent treatment required due to risk of dysrhythmias.
+:::
+
+* Ionised calcium (1.1-1.3mmol/L)\
+Only biologically important version as bound calcium is not active.
+* Bound calcium
+	* Majority of non-ionised calcium is bound to albumin, and so this amount is affected by albumin levels\
+	Corrected calcium is calculated by ↓ (or ↑) measured total calcium by 0.02 mmol/L for every 1g/L ↓ (or ↑) the albumin is above 40g/L.
+	* Remainder bound to beta-globulins, phosphate, citrate
+
+
+## Epidemiology and Risk Factors
+
+* Hypercalcaemia of malignancy is:
+	* Common (20-30%)
+	* Associated with poor prognosis
+
+## Pathophysiology
+
+{{< include /includes/calcium-patho.qmd >}}
+
+Hypercalcaemia occurs most commonly when osteoclastic resorption or GI absorption exceed the ability of the kidney to eliminate it or the skeleton to claim it.
+
+### Aetiology
+
+**Common** causes:
+
+:::column-margin
+Malignancy and primary hyperparathyroidism account for **>90%** of cases.
+:::
+
+* ↑ PTH
+	* Primary hyperparathyroidism\
+	Adenoma.
+* ↓ PTH
+	* Malignancy
+		* Lytic bone lesions
+			* Haematological malignancy/myeloma
+			* Breast cancer
+			* Paget's disease
+		* ↑ PTHrP\
+		Paraneoplastic syndrome from:
+			* Squamous cell tumours
+			Lung, head and neck.
+			* Other tumours\
+			Renal, transitional, breast, prostate, colon, ovarian cancer.
+	* Drugs
+		* Thiazide
+		* Lithium
+		* Oestrogen/HRT
+		* TPN
+	* Other
+		* Immobilisation
+		* TLS
+		* Hypovolaemia
+
+**Uncommon** causes:
+
+* ↓ PTH
+	* Endocrine
+		* Thyrotoxicosis
+		* Addison's disease
+		* Phaeochromocytoma
+		* Gastric adenoma
+	* ↑ 25-hydroxyvitamin D\
+	Dietary vitamin D that has been activated by hepatic metabolism.
+		* Excess Vitamin D intake
+		* Lymphoma
+	* ↑ 1,25-dihydroxyvitamin D\
+	Calcitriol, produced in the renal tubule from 25-hydroxyvitamin D.
+		* Extra-renal production\
+		Classically granulomatous disease.
+			* HIV
+			* Sarcoid
+			* Tuberculosis
+			* Histoplasmosis
+			* Coccidioidomycosis
+			* Leprosy
+	* Drugs
+		* Androgens
+		* Theophylline
+		* TPN
+	* Other
+		* CKD\
+		Secondary hyperparathyroidism.
+		* Tertiary hyperparathyroidism
+		* Hypophosphataemia
+		* Rhabdomyolysis\
+		Usually preceded by a hypocalcaemic state.
+		* Milk alkali syndrome
+
+## Clinical Manifestations
+
+Include:
+
+:::column-margin
+Classically, "stones, bones, groans, and psychic moans."
+:::
+
+* C
+	* HTN
+	* *Short* QT
+	* AV block
+	* Broad QRS
+	* Osborn Waves
+	* Malignant arrhythmias
+* D
+	* Delirium
+	* Headache
+	* Seizures
+* E
+	* Weakness
+	* Bone pain
+* F
+	* Polydipsia
+	* Polyuria
+		* DI\
+		Secondary to interfering with ADH action in the DCT.
+	* Type 1 RTA
+	* Nephrolithiasis
+	* Renal failure
+* G
+	* Nausea
+	* Pancreatitis
+	* Peptic ulcers
+
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+Bloods:
+
+* UEC\
+Renal failure.
+* Mg\
+* PTH
+* ALP
+* Lipase
+* PTHrP\
+Rule out humoral hypercalcaemia of malignancy.
+* 1,25-dihydroxy vitamin D
+* 25-hydroxy vitamin D\
+Rule out vitamin D intoxication.
+* TSH
+
+Others:
+
+* Urinary calcium\
+Hypercalciuria usually precedes hypercalcaemia, as hypercalcaemia only occurs when renal elimination is overwhelmed.
+* ECG
+
+## Management
+
+**Resuscitation**:\
+
+:::column-margin
+Do not give thiazide diuretics, this will worsen hypocalcaemia.
+:::
+
+* **Volume expansion**
+To dilute serum calcium and promote renal clearance. Start at NS 250mL/hr.
+* Correct magnesium and potassium
+* ↓ Renal resorption
+	* *Loop* diuretics\
+	Not useful for reducing serum calcium but are useful for controlling for volume overload.
+* ↓ Bone reabsorption
+	* Bisphosphonates\
+	Works over 2-3 days.
+		* Pamindronate 90mg IV 
+	* Zoledronic acid\
+	Alternative to bisphosphonates.
+	* Calcitonin/Salcalcitonin\
+	Rapid and transient effect. Most useful in severe hypercalcaemia whilst waiting bisphosphonate therapy to work.
+* RRT\
+If cardiac/renal compromise.
+
+:::column-margin
+Loop diuretics were used historically to enhance elimination of calcium, but this is probably ineffective. They are still used to control volume state, however.
+:::
+
+**Specific therapy**:
+
+* Pharmacological
+	* Hydrocortisone 100mg QID\
+	Useful in granulomatous disease. ↓ Absorption and ↑ renal elimination of calcium.
+	* Denosumab\
+	MAB which inhibits osteoclast activity. May be indicated for hypercalcaemia of malignancy, where bisphosphonates have failed. Watch for *hypo*calcaemia.
+* Procedural
+	* Parathyroidectomy\
+	If adenoma.
+
+
+## Complications
+
+Include:
+
+* C
+	* Malignant arrhythmias
+* F
+	* AKI
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Shane, Elizabeth, and I. Dinaz. H[ypercalcemia: pathogenesis, clinical manifestations, differential diagnosis, and management](www.homepages.ucl.ac.uk/%7Eucgatma/Anat3048/PAPERS%20etc/ASBMR%20Primer%20Ed%206/Ch%2026-41%20-%20Disorders%20of%20Serum%20Minerals.pdf). Primer on the Metabolic Bone Diseases and Disorders of Mineral Metabolism, Favus MJ (ed.). Philadelphia: Lippincott, Williams &Wilkins (1999): 183-87.
+2. eviQ. [Hypercalcaemia of Malignancy](https://www.eviq.org.au/clinical-resources/oncological-emergencies/486-hypercalcaemia-of-malignancy-hcm#references). ID: 486 v.4.

@@ -18,22 +18,6 @@ BIS -> Processed EEG
 α
 β
 
-# Clinical State
-
-
-## Clinical Manifestations
-
-### Key other findings
-
-## Causes
-
-
-
----
-
-## References
-
-
 
 # Operation
 

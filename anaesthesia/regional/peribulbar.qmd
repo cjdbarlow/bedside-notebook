@@ -34,7 +34,7 @@ Increased risk of globe perforation.
 
 ## Anatomy
 
-{% include "/stubs/orbit.md" %}
+{{< include /includes/orbit.qmd >}}
 
 
 

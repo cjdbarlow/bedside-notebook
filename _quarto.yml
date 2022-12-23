@@ -155,6 +155,8 @@ book:
             - part: "Electrolyte"
               chapters:
                 - management/fluid/hypona.qmd
+                - management/fluid/hypoca.qmd
+                - management/fluid/hyperca.qmd
         - part: "Haematology"
           chapters:
           - management/haeme/blood.qmd
@@ -553,7 +555,6 @@ book:
           chapters:
             - disease/fluid/siadh.qmd
             - disease/fluid/turp-syndrome.qmd
-            - disease/fluid/hypoca.qmd
         # - part: "Nutrition"
         #   chapters:
             # Malnutrition
