@@ -966,6 +966,118 @@
     "text": "References\n\nYartsev, A. Hyponatraemia: A Lazy Man’s Classification. Deranged Physiology. 2016.\nMilionis HJ, Liamis GL, Elisaf MS. The hyponatremic patient: a systematic approach to laboratory diagnosis. CMAJ: Canadian Medical Association Journal. 2002;166(8):1056-1062.\nBuffington MA, Abreo K. Hyponatremia: A Review. J Intensive Care Med. 2016. May;31(4):223-36."
   },
   {
+    "objectID": "management/fluid/hypoca.html#epidemiology-and-risk-factors",
+    "href": "management/fluid/hypoca.html#epidemiology-and-risk-factors",
+    "title": "Hypocalcaemia",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors\nCommon electrolyte abnormality:\n\n18% of hospital inpatients\n85% of ICU patients"
+  },
+  {
+    "objectID": "management/fluid/hypoca.html#pathophysiology",
+    "href": "management/fluid/hypoca.html#pathophysiology",
+    "title": "Hypocalcaemia",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\nCalcium is an important cation with multiple critical functions:\n\nMuscular contraction\nCoagulation\nNeurotransmission\nHormone release\nCellular apoptosis\n\nCalcium homeostasis is regulated by:\n\nPTH\n\n\nRelease stimulated by ↓ serum calcium and magnesium\n↑ Renal and bone reabsorption\n↑ Calcitriol production\n↑ Gut calcium absorption.\n\nVitamin D\nCalcitriol precursor.\nCalcitonin\nFunctionally a PTH antagonist.\n\nRelease stimulated by hypercalcaemia, catecholamines, and gastrin\n↓ Bone reabsorption and ↑ renal elimination\n\n\n\nAetiology\n\n↓ PTH\n\nPrimary\n\nParathyroid/thyroid surgery\nAutoimmune disease\n\nSecondary\n\nSepsis\nHypomagnesaemia\n<0.4mmol/L.\n\n\n↑ PTH\n\n↓ Vitamin D\n\nDietary\n\nMalabsorption\n\n↓ Sunlight exposure\nRenal failure\nPregnancy\n\nPTH resistance\n\nHypomagnesaemia\n\nCalcium loss/consumption\n\nHyperphosphataemia\n\nTLS\n\nAcute pancreatitis\nClotting\nBone metastases\nAlkalosis\n\nDrugs\n\nCitrate\nTotal calcium remains normal, because the citrate-calcium complex is measured and accounted for.\nBisphosphonates\nPhenytoin\n\n\n\n\n\nA primary alkalosis (e.g. from hyperventilation) causes an ionised hypocalcaemia by ↑ calcium binding to albumin. However, many other causes of hypocalcaemia also cause metabolic acidosis (e.g. renal failure, TLS."
+  },
+  {
+    "objectID": "management/fluid/hypoca.html#clinical-manifestations",
+    "href": "management/fluid/hypoca.html#clinical-manifestations",
+    "title": "Hypocalcaemia",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations\n\nC\n\nLong QT\nTDP if severe.\n\nD\n\nParaesthesias\nConfusion/delirium\n\nE\n\nTwitching\nSpasm/Tetany\n\nCarpopedal spasm\n\n\n\n\n\nChvostek’s sign - tapping the parotid gland over the facial nerve to induce facial spasm - is a poor discriminator of ↓ calcium. 10% of normal patients are positive, and ~30% of hypocalcaemic patients are negative."
+  },
+  {
+    "objectID": "management/fluid/hypoca.html#investigations",
+    "href": "management/fluid/hypoca.html#investigations",
+    "title": "Hypocalcaemia",
+    "section": "Investigations",
+    "text": "Investigations\nBloods:\n\nPTH\nShould be ↑ in the setting of hypocalcaemia.\n25-hydroxyvitamin D\nRenal function\nAlbumin\nLipase\nPancreatitis.\nMagnesium\nPhosphate\n\n\n↑ Phosphate associated with primary hypoparathyroidism\nPhosphate also chelates calcium, which may contribute to ↓ calcium.\n↓ Phosphate associated with secondary hypoparathyroidism\n\n\nOther:\n\nECG\nLong QT, TDP."
+  },
+  {
+    "objectID": "management/fluid/hypoca.html#management",
+    "href": "management/fluid/hypoca.html#management",
+    "title": "Hypocalcaemia",
+    "section": "Management",
+    "text": "Management\n\nIV replacement should be used for anyone with:\n\nNeuromuscular irritability\nSerum calcium <1.9mmol/L\n\n\nAcute:\n\nCorrect any hypomagnesaemia\nIV Calcium Gluconate\n\n10mL 10% (diluted to 50-100mL) over 10 minutes\nCardiac monitor due to risk of dysrhythmia.\nInfusion\n100mL 10% (diluted to 1L), run at 50mL/hr. Expect ~0.3-0.5mmol/L ↑ in calcium over 6 hours. IV Calcium Gluconate infusion if required, titrating rate to serum calcium.\n\n\n\n\nCalcium chloride can also be used, but needs a big reliable drip or CVC due to the risk of devastating tissue necrosis on extravasation.\nSub-acute:\n\n↓ PTH\n\n\nCalcitriol 0.25-1ug/day\nOral calcium supplementation\n\nNormal/↑ PTH\n\n50,000 IU Cholecalciferol\n\n\n\n\n\nCholecalciferol requires PTH for conversion, which is why calcitriol is used in the ↓ PTH group.\nPersistent:\n\nIf calcium continues to fall despite treatment, consider:\n\nThiazide\n↑ Renal calcium reabsorption.\nRecombinant PTH"
+  },
+  {
+    "objectID": "management/fluid/hypoca.html#references",
+    "href": "management/fluid/hypoca.html#references",
+    "title": "Hypocalcaemia",
+    "section": "References",
+    "text": "References\n\nCooper, Mark S, and Neil J L Gittoes. Diagnosis and Management of Hypocalcaemia. BMJ: British Medical Journal 336, no. 7656 (June 7, 2008): 1298–1302."
+  },
+  {
+    "objectID": "management/fluid/hyperca.html#epidemiology-and-risk-factors",
+    "href": "management/fluid/hyperca.html#epidemiology-and-risk-factors",
+    "title": "Hypercalcaemia",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors\n\nHypercalcaemia of malignancy is:\n\nCommon (20-30%)\nAssociated with poor prognosis"
+  },
+  {
+    "objectID": "management/fluid/hyperca.html#pathophysiology",
+    "href": "management/fluid/hyperca.html#pathophysiology",
+    "title": "Hypercalcaemia",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\nCalcium is an important cation with multiple critical functions:\n\nMuscular contraction\nCoagulation\nNeurotransmission\nHormone release\nCellular apoptosis\n\nCalcium homeostasis is regulated by:\n\nPTH\n\n\nRelease stimulated by ↓ serum calcium and magnesium\n↑ Renal and bone reabsorption\n↑ Calcitriol production\n↑ Gut calcium absorption.\n\nVitamin D\nCalcitriol precursor.\nCalcitonin\nFunctionally a PTH antagonist.\n\nRelease stimulated by hypercalcaemia, catecholamines, and gastrin\n↓ Bone reabsorption and ↑ renal elimination\n\n\nHypercalcaemia occurs most commonly when osteoclastic resorption or GI absorption exceed the ability of the kidney to eliminate it or the skeleton to claim it.\n\nAetiology\nCommon causes:\n\n\nMalignancy and primary hyperparathyroidism account for >90% of cases.\n\n↑ PTH\n\nPrimary hyperparathyroidism\nAdenoma.\n\n↓ PTH\n\nMalignancy\n\nLytic bone lesions\n\nHaematological malignancy/myeloma\nBreast cancer\nPaget’s disease\n\n↑ PTHrP\nParaneoplastic syndrome from:\n\nSquamous cell tumours Lung, head and neck.\nOther tumours\nRenal, transitional, breast, prostate, colon, ovarian cancer.\n\n\nDrugs\n\nThiazide\nLithium\nOestrogen/HRT\nTPN\n\nOther\n\nImmobilisation\nTLS\nHypovolaemia\n\n\n\nUncommon causes:\n\n↓ PTH\n\nEndocrine\n\nThyrotoxicosis\nAddison’s disease\nPhaeochromocytoma\nGastric adenoma\n\n↑ 25-hydroxyvitamin D\nDietary vitamin D that has been activated by hepatic metabolism.\n\nExcess Vitamin D intake\nLymphoma\n\n↑ 1,25-dihydroxyvitamin D\nCalcitriol, produced in the renal tubule from 25-hydroxyvitamin D.\n\nExtra-renal production\nClassically granulomatous disease.\n\nHIV\nSarcoid\nTuberculosis\nHistoplasmosis\nCoccidioidomycosis\nLeprosy\n\n\nDrugs\n\nAndrogens\nTheophylline\nTPN\n\nOther\n\nCKD\nSecondary hyperparathyroidism.\nTertiary hyperparathyroidism\nHypophosphataemia\nRhabdomyolysis\nUsually preceded by a hypocalcaemic state.\nMilk alkali syndrome"
+  },
+  {
+    "objectID": "management/fluid/hyperca.html#clinical-manifestations",
+    "href": "management/fluid/hyperca.html#clinical-manifestations",
+    "title": "Hypercalcaemia",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations\nInclude:\n\n\nClassically, “stones, bones, groans, and psychic moans.”\n\nC\n\nHTN\nShort QT\nAV block\nBroad QRS\nOsborn Waves\nMalignant arrhythmias\n\nD\n\nDelirium\nHeadache\nSeizures\n\nE\n\nWeakness\nBone pain\n\nF\n\nPolydipsia\nPolyuria\n\nDI\nSecondary to interfering with ADH action in the DCT.\n\nType 1 RTA\nNephrolithiasis\nRenal failure\n\nG\n\nNausea\nPancreatitis\nPeptic ulcers"
+  },
+  {
+    "objectID": "management/fluid/hyperca.html#diagnostic-approach-and-ddx",
+    "href": "management/fluid/hyperca.html#diagnostic-approach-and-ddx",
+    "title": "Hypercalcaemia",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
+  },
+  {
+    "objectID": "management/fluid/hyperca.html#investigations",
+    "href": "management/fluid/hyperca.html#investigations",
+    "title": "Hypercalcaemia",
+    "section": "Investigations",
+    "text": "Investigations\nBloods:\n\nUEC\nRenal failure.\nMg\n\nPTH\nALP\nLipase\nPTHrP\nRule out humoral hypercalcaemia of malignancy.\n1,25-dihydroxy vitamin D\n25-hydroxy vitamin D\nRule out vitamin D intoxication.\nTSH\n\nOthers:\n\nUrinary calcium\nHypercalciuria usually precedes hypercalcaemia, as hypercalcaemia only occurs when renal elimination is overwhelmed.\nECG"
+  },
+  {
+    "objectID": "management/fluid/hyperca.html#management",
+    "href": "management/fluid/hyperca.html#management",
+    "title": "Hypercalcaemia",
+    "section": "Management",
+    "text": "Management\nResuscitation:\n\n\n\nDo not give thiazide diuretics, this will worsen hypocalcaemia.\n\nVolume expansion To dilute serum calcium and promote renal clearance. Start at NS 250mL/hr.\nCorrect magnesium and potassium\n↓ Renal resorption\n\nLoop diuretics\nNot useful for reducing serum calcium but are useful for controlling for volume overload.\n\n↓ Bone reabsorption\n\nBisphosphonates\nWorks over 2-3 days.\n\nPamindronate 90mg IV\n\nZoledronic acid\nAlternative to bisphosphonates.\nCalcitonin/Salcalcitonin\nRapid and transient effect. Most useful in severe hypercalcaemia whilst waiting bisphosphonate therapy to work.\n\nRRT\nIf cardiac/renal compromise.\n\n\n\nLoop diuretics were used historically to enhance elimination of calcium, but this is probably ineffective. They are still used to control volume state, however.\nSpecific therapy:\n\nPharmacological\n\nHydrocortisone 100mg QID\nUseful in granulomatous disease. ↓ Absorption and ↑ renal elimination of calcium.\nDenosumab\nMAB which inhibits osteoclast activity. May be indicated for hypercalcaemia of malignancy, where bisphosphonates have failed. Watch for hypocalcaemia.\n\nProcedural\n\nParathyroidectomy\nIf adenoma."
+  },
+  {
+    "objectID": "management/fluid/hyperca.html#complications",
+    "href": "management/fluid/hyperca.html#complications",
+    "title": "Hypercalcaemia",
+    "section": "Complications",
+    "text": "Complications\nInclude:\n\nC\n\nMalignant arrhythmias\n\nF\n\nAKI"
+  },
+  {
+    "objectID": "management/fluid/hyperca.html#prognosis",
+    "href": "management/fluid/hyperca.html#prognosis",
+    "title": "Hypercalcaemia",
+    "section": "Prognosis",
+    "text": "Prognosis"
+  },
+  {
+    "objectID": "management/fluid/hyperca.html#key-studies",
+    "href": "management/fluid/hyperca.html#key-studies",
+    "title": "Hypercalcaemia",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "management/fluid/hyperca.html#references",
+    "href": "management/fluid/hyperca.html#references",
+    "title": "Hypercalcaemia",
+    "section": "References",
+    "text": "References\n\nShane, Elizabeth, and I. Dinaz. Hypercalcemia: pathogenesis, clinical manifestations, differential diagnosis, and management. Primer on the Metabolic Bone Diseases and Disorders of Mineral Metabolism, Favus MJ (ed.). Philadelphia: Lippincott, Williams &Wilkins (1999): 183-87.\neviQ. Hypercalcaemia of Malignancy. ID: 486 v.4."
+  },
+  {
     "objectID": "management/haeme/blood.html#blood-typing",
     "href": "management/haeme/blood.html#blood-typing",
     "title": "Transfusion and Blood Products",
@@ -2461,7 +2573,7 @@
     "href": "anaesthesia/regional/peribulbar.html#anatomy",
     "title": "Peribulbar Block",
     "section": "Anatomy",
-    "text": "Anatomy\n{% include “/stubs/orbit.md” %}"
+    "text": "Anatomy\nThe orbit:\n\nTakes a truncated pyramid shape\nContains mostly fat\nIs divided into three parts, based on their contents:\n\nIntraocular compartment contains the globe:\n\nLies anteriorly\nEquator of the globe lies at the lateral border.\n\nThe intraconal compartment contains the six extraocular muscles\nThe inferior and lateral rectus muscles sit at inferiorly and nasally respectively, so the greatest gap between them lies is inferonasally.\n\nThe four rectus muscles form the retrobulbar cone\nContact the walls of the orbit.\n\nThe intraconal space lies within these muscular attachments\nIntraconal injection of local anaesthetic produces anaesthesia and akinesia of the globe and extraocular muscles.\nThe extraconal space is a potential space lying between these muscles and the orbital wall\n\n\nThe extraconal compartment\nConsists of fat sitting between the extraocular muscles and the bony walls of the orbit, and communicates freely with the intraconal component.\n\n\nThe globe is:\n\nSpherical\nCovered in three layers:\n\nCornea and sclera\n\nCornea is translucent and covers the iris\nSclera is opaque, and covers the rest\nThe circumferential junction of the cornea and the sclera is called the limbus.\n\nTenon’s capsule covers the scleral portion\nConnective tissue layer acts as the fascial sheathe of the globe. The capsule:\n\nLies deep to the conjunctiva\nSuperficial to the sclera\n\nAnteriorly merges ~1mm with the limbus\nPosteriorly merges with the optic nerve sheathe\n\n\nAttached to each of the extraocular muscles\nDivided into the anterior and posterior segments:\n\nAnterior segment\nSmall, containing:\n\nAqueous humor\n\nPosterior segment\nLarge, containing:\n\nLens\nVitreous\nRetina\nMacula\nOptic nerve\n\nSegments are separated by the iris, and communicate via the pupil"
   },
   {
     "objectID": "anaesthesia/regional/peribulbar.html#equipment",
@@ -2510,7 +2622,7 @@
     "href": "anaesthesia/regional/subtenon.html#anatomy",
     "title": "Sub-Tenon’s Block",
     "section": "Anatomy",
-    "text": "Anatomy\n{% include “/stubs/orbit.md” %}"
+    "text": "Anatomy\nThe orbit:\n\nTakes a truncated pyramid shape\nContains mostly fat\nIs divided into three parts, based on their contents:\n\nIntraocular compartment contains the globe:\n\nLies anteriorly\nEquator of the globe lies at the lateral border.\n\nThe intraconal compartment contains the six extraocular muscles\nThe inferior and lateral rectus muscles sit at inferiorly and nasally respectively, so the greatest gap between them lies is inferonasally.\n\nThe four rectus muscles form the retrobulbar cone\nContact the walls of the orbit.\n\nThe intraconal space lies within these muscular attachments\nIntraconal injection of local anaesthetic produces anaesthesia and akinesia of the globe and extraocular muscles.\nThe extraconal space is a potential space lying between these muscles and the orbital wall\n\n\nThe extraconal compartment\nConsists of fat sitting between the extraocular muscles and the bony walls of the orbit, and communicates freely with the intraconal component.\n\n\nThe globe is:\n\nSpherical\nCovered in three layers:\n\nCornea and sclera\n\nCornea is translucent and covers the iris\nSclera is opaque, and covers the rest\nThe circumferential junction of the cornea and the sclera is called the limbus.\n\nTenon’s capsule covers the scleral portion\nConnective tissue layer acts as the fascial sheathe of the globe. The capsule:\n\nLies deep to the conjunctiva\nSuperficial to the sclera\n\nAnteriorly merges ~1mm with the limbus\nPosteriorly merges with the optic nerve sheathe\n\n\nAttached to each of the extraocular muscles\nDivided into the anterior and posterior segments:\n\nAnterior segment\nSmall, containing:\n\nAqueous humor\n\nPosterior segment\nLarge, containing:\n\nLens\nVitreous\nRetina\nMacula\nOptic nerve\n\nSegments are separated by the iris, and communicate via the pupil"
   },
   {
     "objectID": "anaesthesia/regional/subtenon.html#equipment",
@@ -2657,7 +2769,7 @@
     "href": "anaesthesia/regional/interscalene.html#anatomy",
     "title": "Interscalene",
     "section": "Anatomy",
-    "text": "Anatomy\n{% include “/stubs/ul-neuro.md” %}"
+    "text": "Anatomy\nThe upper limb is supplied by the brachial plexus:\n\nFormed by the anterior primary rami of C5 to T1\n\nVariably C4 to T2\n\nDivided into roots, trunks, devisions, cords, and branches\nBlocking the plexus at different levels will give a different distribution of sensory block.\nRuns between the clavicle and third rib\nRuns with the axillary artery into the upper limb, where it forms the major terminal branches\n\n\nSections of Brachial Plexus\nThe brachial plexus has five key sections:\n\nFive roots\nThe nerve roots that give rise to the plexus. May be imaged as they emerge from the vertebral foramen.\nThree trunks\nRoots merge together to form three trunks:\n\nMay be imaged at the interscalene level\nDeep to SCM, between anterior and middle scalene. Key landmarks:\n\nLateral border of SCM\nScalenus anterior\nInterscalene groove\n\nSuperior trunk\nFrom C5 & C6.\nMiddle trunk\nFrom C7.\nInferior trunk\nFrom C8 and T1.\n\nSix divisions\nThree anterior and three posterior, which then re-merge to form the cords.\n\nLie posterior and cephalad to the subclavian artery\nMay be imaged at the supraclavicular level.\n\nThree cords\nImaged wrapping around the axillary artery at the infraclavicular level, and include:\n\nLateral cord\nPosterior cord\nMedial cord\n\nBranches\n\nDivided into major and minor terminal branches\nMajor terminal branches may be imaged in the axilla\n\n\n\n\nMajor Terminal Branches\nThe major terminal branches include:\n\nRadial nerve\n\nSensation to the dorsum of the hand, generally the lateral 2.5 digits.\nMotor: Extension of elbow and fingers\n\nMedian nerve\n\nSensation to the palm, and the palmar surface and dorsum of the distal phalanges of the lateral 3.5 digits\nMotor: Flexion of fingers\n\nUlnar nerve\n\nSensation to the medial 1.5 fingers, the ulnar border of the hand (including the dorsum), and sometimes the ulnar part of the forearm\nMotor: Flexion of 4th and 5th digits and opposition of 1st digit\nMost effectively blocked with a targeted axillary block\n\nMusculocutaneous nerve\n\nSensation to the lateral aspect of the forearm\nMotor: Flexion and supination of forearm\n\nAxillary nerve\n\nSensation over the “regimental patch” of the shoulder\n\n\n\n\nMinor Terminal Branches\nFrom the roots:\n\nDorsal scapular nerve\nLong thoracic nerve\nBranch to phrenic nerve\n\nFrom the trunks:\n\nNerve to subclavius\nSuprascapular nerve\n\nFrom the cords:\n\nLateral pectoral nerve\nSubscapular nerve\nThoracodorsal nerve\nMedian pectoral nerve\nIntercostal brachial nerve\n\nMedial brachial cutaneous nerve\nMedial antebrachial cutaneous nerve Supplies upper medial part of the forearm, and can be covered with a subcutaneous bleb just distal to the axillary hairline."
   },
   {
     "objectID": "anaesthesia/regional/interscalene.html#equipment",
@@ -2713,7 +2825,7 @@
     "href": "anaesthesia/regional/supraclav.html#anatomy",
     "title": "Supraclavicular Block",
     "section": "Anatomy",
-    "text": "Anatomy\n{% include “/stubs/ul-neuro.md” %}"
+    "text": "Anatomy\nThe upper limb is supplied by the brachial plexus:\n\nFormed by the anterior primary rami of C5 to T1\n\nVariably C4 to T2\n\nDivided into roots, trunks, devisions, cords, and branches\nBlocking the plexus at different levels will give a different distribution of sensory block.\nRuns between the clavicle and third rib\nRuns with the axillary artery into the upper limb, where it forms the major terminal branches\n\n\nSections of Brachial Plexus\nThe brachial plexus has five key sections:\n\nFive roots\nThe nerve roots that give rise to the plexus. May be imaged as they emerge from the vertebral foramen.\nThree trunks\nRoots merge together to form three trunks:\n\nMay be imaged at the interscalene level\nDeep to SCM, between anterior and middle scalene. Key landmarks:\n\nLateral border of SCM\nScalenus anterior\nInterscalene groove\n\nSuperior trunk\nFrom C5 & C6.\nMiddle trunk\nFrom C7.\nInferior trunk\nFrom C8 and T1.\n\nSix divisions\nThree anterior and three posterior, which then re-merge to form the cords.\n\nLie posterior and cephalad to the subclavian artery\nMay be imaged at the supraclavicular level.\n\nThree cords\nImaged wrapping around the axillary artery at the infraclavicular level, and include:\n\nLateral cord\nPosterior cord\nMedial cord\n\nBranches\n\nDivided into major and minor terminal branches\nMajor terminal branches may be imaged in the axilla\n\n\n\n\nMajor Terminal Branches\nThe major terminal branches include:\n\nRadial nerve\n\nSensation to the dorsum of the hand, generally the lateral 2.5 digits.\nMotor: Extension of elbow and fingers\n\nMedian nerve\n\nSensation to the palm, and the palmar surface and dorsum of the distal phalanges of the lateral 3.5 digits\nMotor: Flexion of fingers\n\nUlnar nerve\n\nSensation to the medial 1.5 fingers, the ulnar border of the hand (including the dorsum), and sometimes the ulnar part of the forearm\nMotor: Flexion of 4th and 5th digits and opposition of 1st digit\nMost effectively blocked with a targeted axillary block\n\nMusculocutaneous nerve\n\nSensation to the lateral aspect of the forearm\nMotor: Flexion and supination of forearm\n\nAxillary nerve\n\nSensation over the “regimental patch” of the shoulder\n\n\n\n\nMinor Terminal Branches\nFrom the roots:\n\nDorsal scapular nerve\nLong thoracic nerve\nBranch to phrenic nerve\n\nFrom the trunks:\n\nNerve to subclavius\nSuprascapular nerve\n\nFrom the cords:\n\nLateral pectoral nerve\nSubscapular nerve\nThoracodorsal nerve\nMedian pectoral nerve\nIntercostal brachial nerve\n\nMedial brachial cutaneous nerve\nMedial antebrachial cutaneous nerve Supplies upper medial part of the forearm, and can be covered with a subcutaneous bleb just distal to the axillary hairline."
   },
   {
     "objectID": "anaesthesia/regional/supraclav.html#equipment",
@@ -2762,7 +2874,7 @@
     "href": "anaesthesia/regional/infraclav.html#anatomy",
     "title": "Infraclavicular Block",
     "section": "Anatomy",
-    "text": "Anatomy\n{% include “/stubs/ul-neuro.md” %}"
+    "text": "Anatomy\nThe upper limb is supplied by the brachial plexus:\n\nFormed by the anterior primary rami of C5 to T1\n\nVariably C4 to T2\n\nDivided into roots, trunks, devisions, cords, and branches\nBlocking the plexus at different levels will give a different distribution of sensory block.\nRuns between the clavicle and third rib\nRuns with the axillary artery into the upper limb, where it forms the major terminal branches\n\n\nSections of Brachial Plexus\nThe brachial plexus has five key sections:\n\nFive roots\nThe nerve roots that give rise to the plexus. May be imaged as they emerge from the vertebral foramen.\nThree trunks\nRoots merge together to form three trunks:\n\nMay be imaged at the interscalene level\nDeep to SCM, between anterior and middle scalene. Key landmarks:\n\nLateral border of SCM\nScalenus anterior\nInterscalene groove\n\nSuperior trunk\nFrom C5 & C6.\nMiddle trunk\nFrom C7.\nInferior trunk\nFrom C8 and T1.\n\nSix divisions\nThree anterior and three posterior, which then re-merge to form the cords.\n\nLie posterior and cephalad to the subclavian artery\nMay be imaged at the supraclavicular level.\n\nThree cords\nImaged wrapping around the axillary artery at the infraclavicular level, and include:\n\nLateral cord\nPosterior cord\nMedial cord\n\nBranches\n\nDivided into major and minor terminal branches\nMajor terminal branches may be imaged in the axilla\n\n\n\n\nMajor Terminal Branches\nThe major terminal branches include:\n\nRadial nerve\n\nSensation to the dorsum of the hand, generally the lateral 2.5 digits.\nMotor: Extension of elbow and fingers\n\nMedian nerve\n\nSensation to the palm, and the palmar surface and dorsum of the distal phalanges of the lateral 3.5 digits\nMotor: Flexion of fingers\n\nUlnar nerve\n\nSensation to the medial 1.5 fingers, the ulnar border of the hand (including the dorsum), and sometimes the ulnar part of the forearm\nMotor: Flexion of 4th and 5th digits and opposition of 1st digit\nMost effectively blocked with a targeted axillary block\n\nMusculocutaneous nerve\n\nSensation to the lateral aspect of the forearm\nMotor: Flexion and supination of forearm\n\nAxillary nerve\n\nSensation over the “regimental patch” of the shoulder\n\n\n\n\nMinor Terminal Branches\nFrom the roots:\n\nDorsal scapular nerve\nLong thoracic nerve\nBranch to phrenic nerve\n\nFrom the trunks:\n\nNerve to subclavius\nSuprascapular nerve\n\nFrom the cords:\n\nLateral pectoral nerve\nSubscapular nerve\nThoracodorsal nerve\nMedian pectoral nerve\nIntercostal brachial nerve\n\nMedial brachial cutaneous nerve\nMedial antebrachial cutaneous nerve Supplies upper medial part of the forearm, and can be covered with a subcutaneous bleb just distal to the axillary hairline."
   },
   {
     "objectID": "anaesthesia/regional/infraclav.html#equipment",
@@ -2811,7 +2923,7 @@
     "href": "anaesthesia/regional/axillary.html#anatomy",
     "title": "Axillary Plexus Block",
     "section": "Anatomy",
-    "text": "Anatomy\n{% include “/stubs/ul-neuro.md” %}"
+    "text": "Anatomy\nThe upper limb is supplied by the brachial plexus:\n\nFormed by the anterior primary rami of C5 to T1\n\nVariably C4 to T2\n\nDivided into roots, trunks, devisions, cords, and branches\nBlocking the plexus at different levels will give a different distribution of sensory block.\nRuns between the clavicle and third rib\nRuns with the axillary artery into the upper limb, where it forms the major terminal branches\n\n\nSections of Brachial Plexus\nThe brachial plexus has five key sections:\n\nFive roots\nThe nerve roots that give rise to the plexus. May be imaged as they emerge from the vertebral foramen.\nThree trunks\nRoots merge together to form three trunks:\n\nMay be imaged at the interscalene level\nDeep to SCM, between anterior and middle scalene. Key landmarks:\n\nLateral border of SCM\nScalenus anterior\nInterscalene groove\n\nSuperior trunk\nFrom C5 & C6.\nMiddle trunk\nFrom C7.\nInferior trunk\nFrom C8 and T1.\n\nSix divisions\nThree anterior and three posterior, which then re-merge to form the cords.\n\nLie posterior and cephalad to the subclavian artery\nMay be imaged at the supraclavicular level.\n\nThree cords\nImaged wrapping around the axillary artery at the infraclavicular level, and include:\n\nLateral cord\nPosterior cord\nMedial cord\n\nBranches\n\nDivided into major and minor terminal branches\nMajor terminal branches may be imaged in the axilla\n\n\n\n\nMajor Terminal Branches\nThe major terminal branches include:\n\nRadial nerve\n\nSensation to the dorsum of the hand, generally the lateral 2.5 digits.\nMotor: Extension of elbow and fingers\n\nMedian nerve\n\nSensation to the palm, and the palmar surface and dorsum of the distal phalanges of the lateral 3.5 digits\nMotor: Flexion of fingers\n\nUlnar nerve\n\nSensation to the medial 1.5 fingers, the ulnar border of the hand (including the dorsum), and sometimes the ulnar part of the forearm\nMotor: Flexion of 4th and 5th digits and opposition of 1st digit\nMost effectively blocked with a targeted axillary block\n\nMusculocutaneous nerve\n\nSensation to the lateral aspect of the forearm\nMotor: Flexion and supination of forearm\n\nAxillary nerve\n\nSensation over the “regimental patch” of the shoulder\n\n\n\n\nMinor Terminal Branches\nFrom the roots:\n\nDorsal scapular nerve\nLong thoracic nerve\nBranch to phrenic nerve\n\nFrom the trunks:\n\nNerve to subclavius\nSuprascapular nerve\n\nFrom the cords:\n\nLateral pectoral nerve\nSubscapular nerve\nThoracodorsal nerve\nMedian pectoral nerve\nIntercostal brachial nerve\n\nMedial brachial cutaneous nerve\nMedial antebrachial cutaneous nerve Supplies upper medial part of the forearm, and can be covered with a subcutaneous bleb just distal to the axillary hairline."
   },
   {
     "objectID": "anaesthesia/regional/axillary.html#equipment",
@@ -2860,7 +2972,7 @@
     "href": "anaesthesia/regional/forearm.html#anatomy",
     "title": "Forearm and Wrist Blocks",
     "section": "Anatomy",
-    "text": "Anatomy\n{% include “/stubs/ul-neuro.md” %}"
+    "text": "Anatomy\nThe upper limb is supplied by the brachial plexus:\n\nFormed by the anterior primary rami of C5 to T1\n\nVariably C4 to T2\n\nDivided into roots, trunks, devisions, cords, and branches\nBlocking the plexus at different levels will give a different distribution of sensory block.\nRuns between the clavicle and third rib\nRuns with the axillary artery into the upper limb, where it forms the major terminal branches\n\n\nSections of Brachial Plexus\nThe brachial plexus has five key sections:\n\nFive roots\nThe nerve roots that give rise to the plexus. May be imaged as they emerge from the vertebral foramen.\nThree trunks\nRoots merge together to form three trunks:\n\nMay be imaged at the interscalene level\nDeep to SCM, between anterior and middle scalene. Key landmarks:\n\nLateral border of SCM\nScalenus anterior\nInterscalene groove\n\nSuperior trunk\nFrom C5 & C6.\nMiddle trunk\nFrom C7.\nInferior trunk\nFrom C8 and T1.\n\nSix divisions\nThree anterior and three posterior, which then re-merge to form the cords.\n\nLie posterior and cephalad to the subclavian artery\nMay be imaged at the supraclavicular level.\n\nThree cords\nImaged wrapping around the axillary artery at the infraclavicular level, and include:\n\nLateral cord\nPosterior cord\nMedial cord\n\nBranches\n\nDivided into major and minor terminal branches\nMajor terminal branches may be imaged in the axilla\n\n\n\n\nMajor Terminal Branches\nThe major terminal branches include:\n\nRadial nerve\n\nSensation to the dorsum of the hand, generally the lateral 2.5 digits.\nMotor: Extension of elbow and fingers\n\nMedian nerve\n\nSensation to the palm, and the palmar surface and dorsum of the distal phalanges of the lateral 3.5 digits\nMotor: Flexion of fingers\n\nUlnar nerve\n\nSensation to the medial 1.5 fingers, the ulnar border of the hand (including the dorsum), and sometimes the ulnar part of the forearm\nMotor: Flexion of 4th and 5th digits and opposition of 1st digit\nMost effectively blocked with a targeted axillary block\n\nMusculocutaneous nerve\n\nSensation to the lateral aspect of the forearm\nMotor: Flexion and supination of forearm\n\nAxillary nerve\n\nSensation over the “regimental patch” of the shoulder\n\n\n\n\nMinor Terminal Branches\nFrom the roots:\n\nDorsal scapular nerve\nLong thoracic nerve\nBranch to phrenic nerve\n\nFrom the trunks:\n\nNerve to subclavius\nSuprascapular nerve\n\nFrom the cords:\n\nLateral pectoral nerve\nSubscapular nerve\nThoracodorsal nerve\nMedian pectoral nerve\nIntercostal brachial nerve\n\nMedial brachial cutaneous nerve\nMedial antebrachial cutaneous nerve Supplies upper medial part of the forearm, and can be covered with a subcutaneous bleb just distal to the axillary hairline."
   },
   {
     "objectID": "anaesthesia/regional/forearm.html#equipment",
@@ -3091,7 +3203,7 @@
     "href": "anaesthesia/regional/fnb.html#anatomy",
     "title": "Femoral Nerve Block",
     "section": "Anatomy",
-    "text": "Anatomy\n{% include “/stubs/ll-neuro.md” %}"
+    "text": "Anatomy\nInnervation of the lower extremities occurs via the lumbosacral plexus, which divides into the:\n\nSciatic nerve\nFemoral nerve\n\n\nSciatic Nerve and Branches\nThe sciatic nerve:\n\nArises from L4-S3\nDirectly provides:\n\nMotor supply to the posterior compartment of thigh\nSensory supply to posterior thigh\n\nDivides at a variable location (but usually close to the popliteal fossa) into the:\n\nCommon peroneal nerve\nDivides at the knee into two branches which provides sensation to the posterolateral leg:\n\nSuperficial peroneal nerve\nProvides sensation to dorsum of foot and toes.\nDeep peroneal nerve\nProvides sensation to the web space between the great and second toe.\n\nTibial nerve\nInnervates the posterior compartment and sole of the foot. Gives off the:\n\nSural nerve\nProvides sensation to the heel, back of the ankle, and the lateral malleolus.\nPosterior tibial nerve\n\n\n\n\n\nFemoral Nerve and Branches\nThe femoral nerve:\n\nArises from L2-4\nLargest branch.\nDirectly provides:\n\nMotor supply to knee extensors\nSensory supply to anteromedial thigh\n\nDivides into the:\n\nObturator nerve\nFormed from L2-4, and enters thigh through obturator foramen. Provides:\n\nMotor supply to hip adductors\nSensory supply to a variable aspect of the medial thigh/knee\n\nLateral femoral cutaneous nerve\nFormed from L2-3, and runs on ventral surface of iliacus, beneath fascia iliaca. Provides:\n\nSensory supply to lateral aspect of thigh and knee\n\nSaphenous nerve\n\nLies in the adductor canal, close to the femoral artery and vein\nDeep to sartorius and superficial to vastus medialis.\n\nTypically not visible on ultrasound\nMay be seen as a small, round, hyperechoic structure medial to the artery.\nTypically 2-3cm deep\n\nEntirely sensory nerve, providing sensation to medial lower leg and ankle."
   },
   {
     "objectID": "anaesthesia/regional/fnb.html#equipment",
@@ -3140,7 +3252,7 @@
     "href": "anaesthesia/regional/saphenous.html#anatomy",
     "title": "Distal Femoral Triangle/Adductor Canal Block",
     "section": "Anatomy",
-    "text": "Anatomy\n{% include “/stubs/ll-neuro.md” %}"
+    "text": "Anatomy\nInnervation of the lower extremities occurs via the lumbosacral plexus, which divides into the:\n\nSciatic nerve\nFemoral nerve\n\n\nSciatic Nerve and Branches\nThe sciatic nerve:\n\nArises from L4-S3\nDirectly provides:\n\nMotor supply to the posterior compartment of thigh\nSensory supply to posterior thigh\n\nDivides at a variable location (but usually close to the popliteal fossa) into the:\n\nCommon peroneal nerve\nDivides at the knee into two branches which provides sensation to the posterolateral leg:\n\nSuperficial peroneal nerve\nProvides sensation to dorsum of foot and toes.\nDeep peroneal nerve\nProvides sensation to the web space between the great and second toe.\n\nTibial nerve\nInnervates the posterior compartment and sole of the foot. Gives off the:\n\nSural nerve\nProvides sensation to the heel, back of the ankle, and the lateral malleolus.\nPosterior tibial nerve\n\n\n\n\n\nFemoral Nerve and Branches\nThe femoral nerve:\n\nArises from L2-4\nLargest branch.\nDirectly provides:\n\nMotor supply to knee extensors\nSensory supply to anteromedial thigh\n\nDivides into the:\n\nObturator nerve\nFormed from L2-4, and enters thigh through obturator foramen. Provides:\n\nMotor supply to hip adductors\nSensory supply to a variable aspect of the medial thigh/knee\n\nLateral femoral cutaneous nerve\nFormed from L2-3, and runs on ventral surface of iliacus, beneath fascia iliaca. Provides:\n\nSensory supply to lateral aspect of thigh and knee\n\nSaphenous nerve\n\nLies in the adductor canal, close to the femoral artery and vein\nDeep to sartorius and superficial to vastus medialis.\n\nTypically not visible on ultrasound\nMay be seen as a small, round, hyperechoic structure medial to the artery.\nTypically 2-3cm deep\n\nEntirely sensory nerve, providing sensation to medial lower leg and ankle."
   },
   {
     "objectID": "anaesthesia/regional/saphenous.html#equipment",
@@ -3189,7 +3301,7 @@
     "href": "anaesthesia/regional/fasciailiaca.html#anatomy",
     "title": "Fascia Iliaca Block",
     "section": "Anatomy",
-    "text": "Anatomy\n{% include “/stubs/ll-neuro.md” %}"
+    "text": "Anatomy\nInnervation of the lower extremities occurs via the lumbosacral plexus, which divides into the:\n\nSciatic nerve\nFemoral nerve\n\n\nSciatic Nerve and Branches\nThe sciatic nerve:\n\nArises from L4-S3\nDirectly provides:\n\nMotor supply to the posterior compartment of thigh\nSensory supply to posterior thigh\n\nDivides at a variable location (but usually close to the popliteal fossa) into the:\n\nCommon peroneal nerve\nDivides at the knee into two branches which provides sensation to the posterolateral leg:\n\nSuperficial peroneal nerve\nProvides sensation to dorsum of foot and toes.\nDeep peroneal nerve\nProvides sensation to the web space between the great and second toe.\n\nTibial nerve\nInnervates the posterior compartment and sole of the foot. Gives off the:\n\nSural nerve\nProvides sensation to the heel, back of the ankle, and the lateral malleolus.\nPosterior tibial nerve\n\n\n\n\n\nFemoral Nerve and Branches\nThe femoral nerve:\n\nArises from L2-4\nLargest branch.\nDirectly provides:\n\nMotor supply to knee extensors\nSensory supply to anteromedial thigh\n\nDivides into the:\n\nObturator nerve\nFormed from L2-4, and enters thigh through obturator foramen. Provides:\n\nMotor supply to hip adductors\nSensory supply to a variable aspect of the medial thigh/knee\n\nLateral femoral cutaneous nerve\nFormed from L2-3, and runs on ventral surface of iliacus, beneath fascia iliaca. Provides:\n\nSensory supply to lateral aspect of thigh and knee\n\nSaphenous nerve\n\nLies in the adductor canal, close to the femoral artery and vein\nDeep to sartorius and superficial to vastus medialis.\n\nTypically not visible on ultrasound\nMay be seen as a small, round, hyperechoic structure medial to the artery.\nTypically 2-3cm deep\n\nEntirely sensory nerve, providing sensation to medial lower leg and ankle."
   },
   {
     "objectID": "anaesthesia/regional/fasciailiaca.html#equipment",
@@ -3238,7 +3350,7 @@
     "href": "anaesthesia/regional/sciatic.html#anatomy",
     "title": "Sciatic Nerve Block",
     "section": "Anatomy",
-    "text": "Anatomy\n{% include “/stubs/ll-neuro.md” %}"
+    "text": "Anatomy\nInnervation of the lower extremities occurs via the lumbosacral plexus, which divides into the:\n\nSciatic nerve\nFemoral nerve\n\n\nSciatic Nerve and Branches\nThe sciatic nerve:\n\nArises from L4-S3\nDirectly provides:\n\nMotor supply to the posterior compartment of thigh\nSensory supply to posterior thigh\n\nDivides at a variable location (but usually close to the popliteal fossa) into the:\n\nCommon peroneal nerve\nDivides at the knee into two branches which provides sensation to the posterolateral leg:\n\nSuperficial peroneal nerve\nProvides sensation to dorsum of foot and toes.\nDeep peroneal nerve\nProvides sensation to the web space between the great and second toe.\n\nTibial nerve\nInnervates the posterior compartment and sole of the foot. Gives off the:\n\nSural nerve\nProvides sensation to the heel, back of the ankle, and the lateral malleolus.\nPosterior tibial nerve\n\n\n\n\n\nFemoral Nerve and Branches\nThe femoral nerve:\n\nArises from L2-4\nLargest branch.\nDirectly provides:\n\nMotor supply to knee extensors\nSensory supply to anteromedial thigh\n\nDivides into the:\n\nObturator nerve\nFormed from L2-4, and enters thigh through obturator foramen. Provides:\n\nMotor supply to hip adductors\nSensory supply to a variable aspect of the medial thigh/knee\n\nLateral femoral cutaneous nerve\nFormed from L2-3, and runs on ventral surface of iliacus, beneath fascia iliaca. Provides:\n\nSensory supply to lateral aspect of thigh and knee\n\nSaphenous nerve\n\nLies in the adductor canal, close to the femoral artery and vein\nDeep to sartorius and superficial to vastus medialis.\n\nTypically not visible on ultrasound\nMay be seen as a small, round, hyperechoic structure medial to the artery.\nTypically 2-3cm deep\n\nEntirely sensory nerve, providing sensation to medial lower leg and ankle."
   },
   {
     "objectID": "anaesthesia/regional/sciatic.html#equipment",
@@ -3287,7 +3399,7 @@
     "href": "anaesthesia/regional/ankle.html#anatomy",
     "title": "Ankle Block",
     "section": "Anatomy",
-    "text": "Anatomy\n{% include “/stubs/ll-neuro.md” %}"
+    "text": "Anatomy\nInnervation of the lower extremities occurs via the lumbosacral plexus, which divides into the:\n\nSciatic nerve\nFemoral nerve\n\n\nSciatic Nerve and Branches\nThe sciatic nerve:\n\nArises from L4-S3\nDirectly provides:\n\nMotor supply to the posterior compartment of thigh\nSensory supply to posterior thigh\n\nDivides at a variable location (but usually close to the popliteal fossa) into the:\n\nCommon peroneal nerve\nDivides at the knee into two branches which provides sensation to the posterolateral leg:\n\nSuperficial peroneal nerve\nProvides sensation to dorsum of foot and toes.\nDeep peroneal nerve\nProvides sensation to the web space between the great and second toe.\n\nTibial nerve\nInnervates the posterior compartment and sole of the foot. Gives off the:\n\nSural nerve\nProvides sensation to the heel, back of the ankle, and the lateral malleolus.\nPosterior tibial nerve\n\n\n\n\n\nFemoral Nerve and Branches\nThe femoral nerve:\n\nArises from L2-4\nLargest branch.\nDirectly provides:\n\nMotor supply to knee extensors\nSensory supply to anteromedial thigh\n\nDivides into the:\n\nObturator nerve\nFormed from L2-4, and enters thigh through obturator foramen. Provides:\n\nMotor supply to hip adductors\nSensory supply to a variable aspect of the medial thigh/knee\n\nLateral femoral cutaneous nerve\nFormed from L2-3, and runs on ventral surface of iliacus, beneath fascia iliaca. Provides:\n\nSensory supply to lateral aspect of thigh and knee\n\nSaphenous nerve\n\nLies in the adductor canal, close to the femoral artery and vein\nDeep to sartorius and superficial to vastus medialis.\n\nTypically not visible on ultrasound\nMay be seen as a small, round, hyperechoic structure medial to the artery.\nTypically 2-3cm deep\n\nEntirely sensory nerve, providing sensation to medial lower leg and ankle."
   },
   {
     "objectID": "anaesthesia/regional/ankle.html#equipment",
@@ -9777,48 +9889,6 @@
     "title": "TURP Syndrome",
     "section": "References",
     "text": "References\n\nO’Donnell, Aidan M., and Irwin T.H. Foo. ‘Anaesthesia for Transurethral Resection of the Prostate’. Continuing Education in Anaesthesia Critical Care & Pain 9, no. 3 (June 2009): 92–96. https://doi.org/10.1093/bjaceaccp/mkp012.\nHahn RG. Fluid absorption in endoscopic surgery. British Journal of Anaesthesia. 2006 Jan 1;96(1):8–20.\nIstre O, Bjoennes J, Naess R, Hornbaek K, Forman A. Postoperative cerebral oedema after transcervical endometrial resection and uterine irrigation with 1.5% glycine. Lancet. 1994 Oct 29;344(8931):1187–9.\nAmerican College of Obstetricians and Gynecologists. ACOG technology assessment in obstetrics and gynecology, number 4, August 2005: hysteroscopy. Obstet Gynecol. 2005 Aug;106(2):439-42."
-  },
-  {
-    "objectID": "disease/fluid/hypoca.html#epidemiology-and-risk-factors",
-    "href": "disease/fluid/hypoca.html#epidemiology-and-risk-factors",
-    "title": "Hypocalcaemia",
-    "section": "Epidemiology and Risk Factors",
-    "text": "Epidemiology and Risk Factors\nCommon electrolyte abnormality:\n\n18% of hospital inpatients\n85% of ICU patients"
-  },
-  {
-    "objectID": "disease/fluid/hypoca.html#pathophysiology",
-    "href": "disease/fluid/hypoca.html#pathophysiology",
-    "title": "Hypocalcaemia",
-    "section": "Pathophysiology",
-    "text": "Pathophysiology\nCalcium is an important and highly regulated cation with multiple critical functions:\n\nMuscular contraction\nCoagulation\nNeurotransmission\nHormone release\nCellular apoptosis\n\nSerum calcium is regulated by:\n\nPTH\n\n\nRelease stimulated by ↓ serum calcium\n↑ Renal and bone reabsorption\n↑ Calcitriol production\n↑ Gut calcium absorption.\n\nVitamin D\nCalcitriol precursor.\nCalcitonin\n↓ Bone reabsorption and ↑ renal elimination.\n\n\nAetiology\n\n↓ PTH\n\nPrimary\n\nParathyroid/thyroid surgery\nAutoimmune disease\n\nSecondary\n\nSepsis\nHypomagnesaemia\n<0.4mmol/L.\n\n\n↑ PTH\n\n↓ Vitamin D\n\nDietary\n\nMalabsorption\n\n↓ Sunlight exposure\nRenal failure\nPregnancy\n\nPTH resistance\n\nHypomagnesaemia\n\nCalcium loss/consumption\n\nHyperphosphataemia\n\nTLS\n\nAcute pancreatitis\nClotting\nBone metastases\nAlkalosis\n\nDrugs\n\nCitrate\nTotal calcium remains normal, because the citrate-calcium complex is measured and accounted for.\nBisphosphonates\nPhenytoin\n\n\n\n\n\nPrimary alkalosis causes an ionised hypocalcaemia by ↑ calcium binding to albumin. However, many other causes of hypocalcaemia also cause metabolic acidosis (e.g. renal failure, TLS."
-  },
-  {
-    "objectID": "disease/fluid/hypoca.html#clinical-manifestations",
-    "href": "disease/fluid/hypoca.html#clinical-manifestations",
-    "title": "Hypocalcaemia",
-    "section": "Clinical Manifestations",
-    "text": "Clinical Manifestations\n\nC\n\nLong QT\nTDP if severe.\n\nD\n\nParaesthesias\nConfusion/delirium\n\nE\n\nTwitching\nSpasm/Tetany\n\nCarpopedal spasm\n\n\n\n\n\nChvostek’s sign - tapping the parotid gland over the facial nerve to induce facial spasm - is a poor discriminator of ↓ calcium. 10% of normal patients are positive, and ~30% of hypocalcaemic patients are negative."
-  },
-  {
-    "objectID": "disease/fluid/hypoca.html#investigations",
-    "href": "disease/fluid/hypoca.html#investigations",
-    "title": "Hypocalcaemia",
-    "section": "Investigations",
-    "text": "Investigations\nBloods:\n\nPTH\nShould be ↑ in the setting of hypocalcaemia.\n25-hydroxyvitamin D\nRenal function\nAlbumin\nLipase\nPancreatitis.\nMagnesium\nPhosphate\n\n\n↑ Phosphate associated with primary hypoparathyroidism\nPhosphate also chelates calcium, which may contribute to ↓ calcium.\n↓ Phosphate associated with secondary hypoparathyroidism\n\n\nOther:\n\nECG\nLong QT, TDP."
-  },
-  {
-    "objectID": "disease/fluid/hypoca.html#management",
-    "href": "disease/fluid/hypoca.html#management",
-    "title": "Hypocalcaemia",
-    "section": "Management",
-    "text": "Management\n\nIV replacement should be used for anyone with:\n\nNeuromuscular irritability\nSerum calcium <1.9mmol/L\n\n\nAcute:\n\nCorrect any hypomagnesaemia\nIV Calcium Gluconate\n\n10mL 10% (diluted to 50-100mL) over 10 minutes\nCardiac monitor due to risk of dysrhythmia.\nInfusion\n100mL 10% (diluted to 1L), run at 50mL/hr. Expect ~0.3-0.5mmol/L ↑ in calcium over 6 hours. IV Calcium Gluconate infusion if required, titrating rate to serum calcium.\n\n\n\n\nCalcium chloride can also be used, but needs a big reliable drip or CVC due to the risk of devastating tissue necrosis on extravasation.\nSub-acute:\n\n↓ PTH\n\n\nCalcitriol 0.25-1ug/day\nOral calcium supplementation\n\nNormal/↑ PTH\n\n50,000 IU Cholecalciferol\n\n\n\n\n\nCholecalciferol requires PTH for conversion, which is why calcitriol is used in the ↓ PTH group.\nPersistent:\n\nIf calcium continues to fall despite treatment, consider:\n\nThiazide\n↑ Renal calcium reabsorption.\nRecombinant PTH"
-  },
-  {
-    "objectID": "disease/fluid/hypoca.html#references",
-    "href": "disease/fluid/hypoca.html#references",
-    "title": "Hypocalcaemia",
-    "section": "References",
-    "text": "References\n\nCooper, Mark S, and Neil J L Gittoes. Diagnosis and Management of Hypocalcaemia. BMJ: British Medical Journal 336, no. 7656 (June 7, 2008): 1298–1302."
   },
   {
     "objectID": "disease/endo/dm.html#epidemiology-and-risk-factors",
