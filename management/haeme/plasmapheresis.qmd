@@ -1,0 +1,57 @@
+# Apheresis
+
+General technique of extracorporeal blood filtration. Can be divided into:
+
+* Cytapheresis\
+Removal of cells.
+* Plasmapheresis\
+Removal of plasma, and replacement with donor plasma or another colloid. Usually performed via filtration or filtration or centrifugation of plasma and blood.
+
+
+
+## Indications
+
+Specific indications:
+
+:::column-margin
+In general, for a substance to be effectively removed by apheresis it must be:
+
+* Present intravascularly
+* Unable to be removed by more simple means (RRT)\
+Usually due to molecular weight or plasma protein binding.
+* Have a long enough half-life\
+Otherwise, just wait?
+* Not be rapidly replenished
+* Not have a more simple treatment available
+:::
+
+* Cellular
+	* Leukocytosis\
+	e.g. ALL/AML.
+	* Sickle cell crisis
+* Proteins
+	* Autoantibodies
+		* Myasthenia gravis
+		* Goodpasture Syndrome
+	* Immunoglobulins
+		* Monoclonal gammapathy
+		* Cryoglobulinaemia
+		* Waldenstrom macroglobulinaemia
+	* Immune complexes
+		* Glomerulonephritis
+	* Protein-bound substances
+		* Toxins
+			* Digoxin
+			* Paraquat
+		* Thyroid storm
+		* Familial hypercholesterolaemia
+
+## Contraindications
+
+## Anatomy
+
+## Equipment
+
+## Technique
+
+## Complications

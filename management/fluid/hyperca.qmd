@@ -211,6 +211,8 @@ Include:
 	* Malignant arrhythmias
 * F
 	* AKI
+* G
+	Pancreatitis
 
 ## Prognosis
 

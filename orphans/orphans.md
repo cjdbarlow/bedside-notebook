@@ -1409,7 +1409,7 @@ At risk periods:
 * Restricted Towards (RT); Excessive Away (EA)
 * Vena contracta measured perpendicular to coaptation point; this is MO LAX. Scan for the narrowest part of the widest jet
 
-* Secondary MR has universallly poorer outcomes compared to other causes
+* Secondary MR has universally poorer outcomes compared to other causes
 
 # MS
 Rheumatic and cheaters

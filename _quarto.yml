@@ -161,6 +161,7 @@ book:
           chapters:
           - management/haeme/blood.qmd
           - management/haeme/massive-transfusion.qmd
+          - management/haeme/plasmapheresis.qmd
         - part: "Trauma"
           chapters:
           - management/trauma/damage-control.qmd
