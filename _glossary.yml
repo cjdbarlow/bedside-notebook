@@ -8,7 +8,9 @@ ADP: Adenosine diphosphate
 AF: Atrial Fibrillation
 ANP: Atrial Natriuretic Peptide
 APL: Adjustable Pressure Limiting
+APS: Anti-Phospholipid Syndrome
 ASD: Atrial Septal Defect
+ATC: Automatic Tube Compensation
 ATP: Adenosine Triphosphate
 AUC: Area Under the Curve
 BBB: Blood-Brain Barrier
@@ -153,10 +155,12 @@ TLS: Tumour Lysis Syndrome
 TNF: Tumour Necrosis Factor
 TSH: Thyroid Stimulating Hormone
 VIE: Vacuum Insulated Evaporator
+VILI: Ventilator Induced Lung Injury
 VMA: Vanillylmandelic acid
 VR: Venous Return
 VRG: Ventral Respiratory Group
 VSD: Ventricular Septal Defect
+Vt: Tidal Volume
 WFNS: World Federation of Neurosurgical Societies
 ZEEP: Zero End-Expiratory Pressure
 ---

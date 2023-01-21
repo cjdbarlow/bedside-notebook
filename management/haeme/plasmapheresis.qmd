@@ -1,12 +1,11 @@
-# Apheresis
+# Plasma Exchange
 
-General technique of extracorporeal blood filtration. Can be divided into:
+General technique of extracorporeal blood filtration to separate cellular or plasma components. Can be divided into:
 
 * Cytapheresis\
 Removal of cells.
 * Plasmapheresis\
 Removal of plasma, and replacement with donor plasma or another colloid. Usually performed via filtration or filtration or centrifugation of plasma and blood.
-
 
 
 ## Indications
@@ -33,25 +32,71 @@ Otherwise, just wait?
 	* Autoantibodies
 		* Myasthenia gravis
 		* Goodpasture Syndrome
+		* GBS\
+		Equivalent to IV IgG.
+		* APS\
+		Indicated for catastrophic APS.
+		* Thrombotic Thrombocytopaenic Purpura
 	* Immunoglobulins
-		* Monoclonal gammapathy
+		* Monoclonal gammopathy
 		* Cryoglobulinaemia
 		* Waldenstrom macroglobulinaemia
 	* Immune complexes
 		* Glomerulonephritis
 	* Protein-bound substances
-		* Toxins
+		* Toxins\
+			* Heavy metals
+				* Mercury
+				* Cisplatin
+			* Herbal preparations
+				* Kava
 			* Digoxin
-			* Paraquat
+			* Paraquat\
+			Relatively ineffective.
 		* Thyroid storm
-		* Familial hypercholesterolaemia
+* Triglycerides\
+Indicated for pancreatitis secondary to hypertriglycerideaemia (>1g/dL).
+
+:::column-margin
+Efficacy of plasma exchange for toxins is generally over-rated due to the relatively small volume of distribution of the intravascular compartment.
+:::
 
 ## Contraindications
 
-## Anatomy
 
 ## Equipment
 
 ## Technique
 
+* Placement of a vascular dialysis catheter\
+As for RRT.
+* Removal of **1-1.5x** plasma volume\
+Single exchange of 40mL/kg can remove ~50% of plasma factors (including clotting factors) if not replaced, with replenishment in 24-48 hours.
+* Repeat daily or second-daily
+
+
 ## Complications
+
+* Procedural
+	* Vascular injury
+* Pump
+	* Hypocalcaemia\
+	Citrate mediated.
+	* Haemolysis
+	* Air embolism
+	* Haemodynamic instability
+	* Hypothermia
+* Replacement fluid effects
+	* Transfusion reactions
+	* Removal of other substances\
+	e.g. Loss of therapeutic drugs.
+	* Anaemia
+	* Coagulopathy\
+	Dilutional.
+	* Sepsis
+
+---
+
+## References
+
+1. Russi G, Marson P. [Urgent plasma exchange: how, where and when](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3200401/). Blood Transfus. 2011 Oct;9(4):356-61. doi: 10.2450/2011.0093-10. Epub 2011 Jul 18. 
