@@ -560,6 +560,41 @@
     "text": "References\n\nDe Leyn, Paul, Lieven Bedert, Marion Delcroix, Pieter Depuydt, Geert Lauwers, Youri Sokolov, Alain Van Meerhaeghe, Paul Van Schil, and Belgian Association of Pneumology and Belgian Association of Cardiothoracic Surgery. “Tracheotomy: Clinical Review and Guidelines.” European Journal of Cardio-Thoracic Surgery: Official Journal of the European Association for Cardio-Thoracic Surgery 32, no. 3 (September 2007): 412–21. \nO’Connor, Heidi H., and Alexander C. White. “Tracheostomy Decannulation.” Respiratory Care 55, no. 8 (August 1, 2010): 1076–81."
   },
   {
+    "objectID": "management/resp/aprv.html",
+    "href": "management/resp/aprv.html",
+    "title": "Airway Pressure Release Ventilation",
+    "section": "",
+    "text": "Settings\nParameters:\nInitial Settings:\nWeaning:"
+  },
+  {
+    "objectID": "management/resp/aprv.html#indications",
+    "href": "management/resp/aprv.html#indications",
+    "title": "Airway Pressure Release Ventilation",
+    "section": "Indications",
+    "text": "Indications\n\nRefractory hypoxaemia due to bilateral lung pathology\nClassically ARDS."
+  },
+  {
+    "objectID": "management/resp/aprv.html#troubleshooting",
+    "href": "management/resp/aprv.html#troubleshooting",
+    "title": "Airway Pressure Release Ventilation",
+    "section": "Troubleshooting",
+    "text": "Troubleshooting\nHypoxaemia:\n\nUsually indicates under-recruitment\n\n↓ T-low if end-expiratory flow < 75% PEFR\n↑ P-high 1-2cmH2O\n↑ T-high 0.5-1s\n↑ P-low 1-2cmH2O\n\n\nHypercapnoea:\n\nEncourage spontaneous ventilation\n↑ P-high 1-2cmH2O\nAdjust T-High\n↑ May improve recruitment and V/Q matching; ↓ will ↑ release frequency.\n↓ P-low"
+  },
+  {
+    "objectID": "management/resp/aprv.html#further-reading",
+    "href": "management/resp/aprv.html#further-reading",
+    "title": "Airway Pressure Release Ventilation",
+    "section": "Further Reading",
+    "text": "Further Reading\n\nPulmcrit has a very nice guideline on APRV"
+  },
+  {
+    "objectID": "management/resp/aprv.html#references",
+    "href": "management/resp/aprv.html#references",
+    "title": "Airway Pressure Release Ventilation",
+    "section": "References",
+    "text": "References\n\nSpiegel, Rory, and Max Hockstein. Airway Pressure Release Ventilation. Emergency Medicine Clinics of North America 40, no. 3 (August 2022): 489–501. https://doi.org/10.1016/j.emc.2022.05.004."
+  },
+  {
     "objectID": "management/resp/olv.html#indications",
     "href": "management/resp/olv.html#indications",
     "title": "Lung Isolation",
@@ -1178,44 +1213,44 @@
   {
     "objectID": "management/haeme/plasmapheresis.html#indications",
     "href": "management/haeme/plasmapheresis.html#indications",
-    "title": "Apheresis",
+    "title": "Plasma Exchange",
     "section": "Indications",
-    "text": "Indications\nSpecific indications:\n\n\nIn general, for a substance to be effectively removed by apheresis it must be:\n\nPresent intravascularly\nUnable to be removed by more simple means (RRT)\nUsually due to molecular weight or plasma protein binding.\nHave a long enough half-life\nOtherwise, just wait?\nNot be rapidly replenished\nNot have a more simple treatment available\n\n\nCellular\n\nLeukocytosis\ne.g. ALL/AML.\nSickle cell crisis\n\nProteins\n\nAutoantibodies\n\nMyasthenia gravis\nGoodpasture Syndrome\n\nImmunoglobulins\n\nMonoclonal gammapathy\nCryoglobulinaemia\nWaldenstrom macroglobulinaemia\n\nImmune complexes\n\nGlomerulonephritis\n\nProtein-bound substances\n\nToxins\n\nDigoxin\nParaquat\n\nThyroid storm\nFamilial hypercholesterolaemia"
+    "text": "Indications\nSpecific indications:\n\n\nIn general, for a substance to be effectively removed by apheresis it must be:\n\nPresent intravascularly\nUnable to be removed by more simple means (RRT)\nUsually due to molecular weight or plasma protein binding.\nHave a long enough half-life\nOtherwise, just wait?\nNot be rapidly replenished\nNot have a more simple treatment available\n\n\nCellular\n\nLeukocytosis\ne.g. ALL/AML.\nSickle cell crisis\n\nProteins\n\nAutoantibodies\n\nMyasthenia gravis\nGoodpasture Syndrome\nGBS\nEquivalent to IV IgG.\nAPS\nIndicated for catastrophic APS.\nThrombotic Thrombocytopaenic Purpura\n\nImmunoglobulins\n\nMonoclonal gammopathy\nCryoglobulinaemia\nWaldenstrom macroglobulinaemia\n\nImmune complexes\n\nGlomerulonephritis\n\nProtein-bound substances\n\nToxins\n\n\nHeavy metals\n\nMercury\nCisplatin\n\nHerbal preparations\n\nKava\n\nDigoxin\nParaquat\nRelatively ineffective.\n\nThyroid storm\n\n\nTriglycerides\nIndicated for pancreatitis secondary to hypertriglycerideaemia (>1g/dL).\n\n\n\nEfficacy of plasma exchange for toxins is generally over-rated due to the relatively small volume of distribution of the intravascular compartment."
   },
   {
     "objectID": "management/haeme/plasmapheresis.html#contraindications",
     "href": "management/haeme/plasmapheresis.html#contraindications",
-    "title": "Apheresis",
+    "title": "Plasma Exchange",
     "section": "Contraindications",
     "text": "Contraindications"
   },
   {
-    "objectID": "management/haeme/plasmapheresis.html#anatomy",
-    "href": "management/haeme/plasmapheresis.html#anatomy",
-    "title": "Apheresis",
-    "section": "Anatomy",
-    "text": "Anatomy"
-  },
-  {
     "objectID": "management/haeme/plasmapheresis.html#equipment",
     "href": "management/haeme/plasmapheresis.html#equipment",
-    "title": "Apheresis",
+    "title": "Plasma Exchange",
     "section": "Equipment",
     "text": "Equipment"
   },
   {
     "objectID": "management/haeme/plasmapheresis.html#technique",
     "href": "management/haeme/plasmapheresis.html#technique",
-    "title": "Apheresis",
+    "title": "Plasma Exchange",
     "section": "Technique",
-    "text": "Technique"
+    "text": "Technique\n\nPlacement of a vascular dialysis catheter\nAs for RRT.\nRemoval of 1-1.5x plasma volume\nSingle exchange of 40mL/kg can remove ~50% of plasma factors (including clotting factors) if not replaced, with replenishment in 24-48 hours.\nRepeat daily or second-daily"
   },
   {
     "objectID": "management/haeme/plasmapheresis.html#complications",
     "href": "management/haeme/plasmapheresis.html#complications",
-    "title": "Apheresis",
+    "title": "Plasma Exchange",
     "section": "Complications",
-    "text": "Complications"
+    "text": "Complications\n\nProcedural\n\nVascular injury\n\nPump\n\nHypocalcaemia\nCitrate mediated.\nHaemolysis\nAir embolism\nHaemodynamic instability\nHypothermia\n\nReplacement fluid effects\n\nTransfusion reactions\nRemoval of other substances\ne.g. Loss of therapeutic drugs.\nAnaemia\nCoagulopathy\nDilutional.\nSepsis"
+  },
+  {
+    "objectID": "management/haeme/plasmapheresis.html#references",
+    "href": "management/haeme/plasmapheresis.html#references",
+    "title": "Plasma Exchange",
+    "section": "References",
+    "text": "References\n\nRussi G, Marson P. Urgent plasma exchange: how, where and when. Blood Transfus. 2011 Oct;9(4):356-61. doi: 10.2450/2011.0093-10. Epub 2011 Jul 18."
   },
   {
     "objectID": "management/trauma/damage-control.html#indications",
