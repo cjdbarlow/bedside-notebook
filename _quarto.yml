@@ -403,6 +403,7 @@ book:
         - part: "General"
           chapters:
             - intensive/persistent.qmd
+            - intensive/nutrition.qmd
             # Feeding
         # FASTHUGS
         # Stress response

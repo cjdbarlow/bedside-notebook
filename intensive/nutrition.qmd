@@ -1,0 +1,353 @@
+# Critical Care Nutrition
+
+Requirement for nutritional supplementation depends on where a patient is in their phase of illness:
+
+:::column-margin
+Key definitions:
+
+* Hypocaloric nutrition\
+Supplemental non-protein nutrition supplementation lower than daily expenditure, resulting in a calorie deficit.
+* Trophic feeding\
+Feeding <500kcal/day.
+* Permissive underfeeding\
+Feeding 40-60% of daily required calories.
+::
+:
+* **Acute Phase**\
+<7 days.
+	* **Early acute** period (**<2 days**)
+		* Catabolism occurs independent of nutritional supplementation
+		* Enteral feeding at <50% of requirements is appropriate if tolerated
+	* **Late acute** period (**2-7 days**)
+		* Recovery from critically ill state and ↓ catabolism
+		* ↑ Feeding appropriate
+* **Late Phase**
+Persistent Critical Illness/Recovery (>7-10 days).
+	* Ideally, recovery occurs and patients enter an anabolic state
+	* Patients generally will require full nutritional support\
+	i.e. Calorie expenditure is matched.
+
+
+## Nutrition Assessment
+
+A subjective global nutrition assessment includes:
+
+* Premorbid weight and loss
+* Premorbid nutrition
+* Muscle mass
+* Disease affecting GI function
+	* Food intolerances
+	* GI symptoms
+	* Stomas
+	* Liver disease\
+	Ascites.
+* Disease affecting metabolic rate
+	* Hypothyroidism
+	* Hyperthyroidism
+	* Hypoadrenalism
+	* Cushing disease
+
+Determining nutrition requirements:
+
+:::column-margin
+The **Reverse Fick** Method:
+
+$$VO_2 = (CO \times C_a) - (CO \times C_v)$$
+
+Where:
+
+* VO~2~: Oxygen consumption (mL/min)
+* CO: Cardiac Output (L/min)
+* C~a~: Arterial Oxygen Content (mL/L)
+* C~v~: Venous Oxygen Content (mL/L)
+:::
+
+* **Calorie**\
+Can be provided as either **carbohydrate** (functionally dextrose) or **lipid**, ideally in a **70:30 ratio**. Approaches to assessing need include:
+	* **Assume 25-30kCal/kg/day**\
+		* Easy
+		* Crude
+		* Inaccurate at extremes of weight and metabolic need
+	* **Reverse Fick** Equation\
+	Metabolic rate is proportional to VO~2~, which can be calculated using data from a PAC.
+		* Does not measure pulmonary VO~2~, and so underestimates total requirements\
+		Becomes more inaccurate in pulmonary pathology.
+	* **Indirect calorimetry**\
+	Direct measurement of VO~2~ and VCO~2~.
+		* Most accurate (practical) technique\
+			* Assumes all O~2~ is used for oxidation of substrate
+			* Accuracy falls with ↑ PEEP, ↑ FiO~2~, and with circuit leaks
+		* Best in selected use cases\
+		Extremes of obesity, temperature, estimated metabolic rate.
+		* Requires a metabolic cart that is rarely available and requires additional eperteise
+	* **Estimate expenditure**\
+	Point estimate of VCO~2~ from ventilator, or VO~2~ from PAC.
+		* Affected by changes to respiratory quotient in the critically ill
+	* Predictive **equations**
+	Many (i.e., >200) equations exist to evaluate different patient populations, basically all are poorly calibrated.
+* **Protein**\
+	* Assume **1-2g/kg/day**\
+	More than this has no benefit and ↑ nitrogen load, leading to encephalopathy via accumulation of:
+		* Urea\
+		With a normally-functioning urea cycle.
+		* Ammonia\
+		Dysfunctional urea cycle.
+	* Higher range recommended in protein deficient conditions:
+		* Burns
+		* Obesity
+		* Trauma
+		* RRT
+
+
+## Enteral Nutrition
+
+:::column-margin
+Use of gastric residual volumes (like most of ICU nutrition) to determine EN tolerance is not well supported by evidence. Measured GRVs vary depending on the type of NGT used, and is a poor predictor of aspiration. 
+:::
+
+Liquid nutrition delivered directly into the digestive tract. Administration of EN is:
+
+* Associated with no overall change in mortality
+* Benefits
+	* Overall ↓ infection\
+	Including pneumonia.
+	* Possibly ↑ immune function
+* Risks include:
+	* Sinusitis\
+	From NGT.
+	* VAP\
+	Microaspiration.
+	* GI injury
+	* Feed intolerance
+* Either continuous or intermittent bolus dosing\
+	* No difference in mortality outcomes
+	* Continuous feeding reduces nursing workload
+	* Intermittent feeding may:
+		* Be more physiological
+		* ↓ Insulin requirement by ↓ insulin resistance
+		* ↑ Muscle synthesis
+
+
+### Gastric Residual Volumes
+
+The GRV is the volume aspirated from the stomach during enteral feeding. Using the GRV to guide feeding:
+
+:::column-margin
+The GRV is only useful with wide-bore NGTs, not fine-bore or jejunal tubes as these cannot be aspirated.
+:::
+
+* Is not well supported by evidence
+	* Often delays feeding and total feeding volume
+	* Poorly predicts aspiration
+	* Prone to inter-observer variance
+* <500mL is a safe volume, supportive of normal GIT function
+* **>500mL** suggest **delayed gastric emptying**
+* Originally used to identify aspiration risk
+* Now used to identify feeding intolerance
+
+
+### Equipment
+
+* Wide-bore NGT\
+Preferentially placed orogastrically in the intubated patient.
+* Fine-bore NGT\
+	* Cannot be used for suctioning
+	* May be blocked
+	* Better tolerated in the awake patient\
+	Comfort, improved swallow.
+	* Aspiration risk\
+	Multiple reports of inadvertent tracheal placement.
+* Post-pyloric feeding\
+	* Indicated in small subsets
+	* Difficult to place\
+	May require endoscopy.
+
+
+### Formulations
+
+* Different feed preparations vary the concentration of:
+	* Calories
+		* Fat
+		* Carbohydrate\
+		↓ Glucose content may ↓ **insulin resistance**
+	* Protein
+	* Osmolality\
+	↑ **Diarrhoea** with ↑ osmolality. Consider switching to a lower concentration feed if the volume state permits.
+* Practically, there is little evidence of benefit with disease-specific combinations
+
+
+## Parenteral Nutrition
+
+Nutrition given intravenously. PN is used when EN is either contraindicated or has failed, as it is inferior to EN. Key differences include:
+
+:::column-margin
+Total Parenteral Nutrition refers to the entirety of a patients nutritional needs being met with TPN, as opposed to top-up PN when EN alone is ineffective.
+:::
+
+* Requires central venous access
+	* ↑ Risk of CLABSI\
+	PN as an independent risk factor for infection is probably overstated.
+* ↑ Volume load\
+1-2L/day.
+* Electrolyte derangements
+	* Metabolic Acidosis\
+	Amino acids.
+	* Risk of refeeding syndrome
+* Lipid load\
+	* Hypertriclyceridaemia
+	* Immunosuppression
+* ↑ BSL
+* ↓ Intestinal function\
+Monitor LFTs for:
+	* Cholestasis
+	* Acalculous cholecystitis
+* More expensive
+
+
+## An Approach
+
+:::caution
+There is a paucity of strong evidence to guide decision making for nutrition within the ICU. This is one framework.
+:::
+
+Principles:
+
+* Early (<48 hours) enteral nutrition
+* Early dietician involvement
+
+
+### Assessment
+
+:::column-margin
+Pathology severe enough to contraindicate EN could include:
+
+* Obstruction
+* Perforation
+* Mesenteric ischaemia
+* Short gut syndrome
+* Abdominal compartment syndrome
+:::
+
+* Assess nutritional status
+* Assess GIT function\
+Contraindications to EN:
+	* Severe GIT pathology
+	* Active shock state
+	* Undergoing resuscitation
+* Determine targets
+	* Calorie target\
+	Assume **25kCal/kg/day**.
+	* Protein target\
+	As above.
+
+:::column-margin
+Albumin is not a reliable marker of nutritional status because it is a negative acute phase reactant, and so production is suppressed in the critically ill.
+:::
+
+
+### Overview
+
+:::caution
+The primary controversy here is whether PN should be started early (i.e. at 2-7 days), particularly in the critically ill.
+:::
+
+:::column-margin
+Consider **EN insufficient** if unable to meet >60% of calorie and protein requirements.
+:::
+
+* Early Acute Phase (<2 days)
+	* Energy: Strongly consider commencing EN at 30mL/hr and ↑ until at 70% of target\
+		* No PN if EN target not met.
+		* Monitor for refeeding syndrome in the severely malnourished
+	* Protein: No target
+* Late Acute Phase (2-7 days)
+	* Energy: EN at up to 100% of target\
+	Consider PN if EN insufficient, particularly in the severely malnourished.
+	* Protein: 1.3g/kg/day\
+	More if indicated.
+* Late phase (>7 days)
+	* Energy: EN at up to 100% of target\
+	PN if EN insufficient.
+	* Protein: >1.3g/kg/day
+
+
+### Enteral Nutrition
+
+Approach:
+
+:::column-margin
+Causes of feed intolerance:
+
+* Patient:
+	* Hiatus hernia
+	* Gastroparesis
+		* Opioids
+		* Anticholinergics
+	* Bowel injury
+		* Ileus
+		* Obstruction
+	* Sepsis
+	* Electrolyte abnormalities\
+	↓ K^+^, ↑ Mg^2+^.
+* Delivery:
+	* NGT blocked/kinked
+	* NGT malpositioned
+::: 
+
+* Commence feeding at desired rate
+* Measure GRV PRN\
+Only if vomiting or gastric distension.
+	* Return volumes <**500m**L\
+	* After 1^st^ GRV >500mL:\
+	An *isolated* high GRV is common.
+		* Return up to 500mL of aspirate
+		* Consider prokinetics\
+		No good evidence of benefit. If used, consider ceasing after 24-72 hours due to risks of tachyphylaxis.
+	* After 2^nd^ GRV >500mL:\
+	EN intolerance indicated by ⩾2 consecutive GRVs >500mL.
+		* Return up to 500mL of aspirate
+		* Halve EN delivery rate for 6/24
+		* Repeat GRV in 6/24
+	* After 3^rd^ GRV >500mL:
+		* Cease EN
+		* Consider post-pyloric (nasojejunal) feeding
+		* Consider PN
+* **Avoid interruptions**\
+Avoid interrupting feeding when possible (e.g., for procedures where the airway is already secured).
+
+
+Prokinetics:
+
++------------------+----------------+-----------------------------------------+
+| Drug             | Dose           | Notes                                   |
++==================+================+=========================================+
+| Metoclopramide   | 10mg Q6H IV    | - Dysrhythmias                          |
+|                  |                | - Dystonia                              |
++------------------+----------------+-----------------------------------------+
+| Erythromycin     | 200mg Q12H IV  | -  **Prolonged QT**                     |
+|                  |                | - Hepatic dysfunction                   |
+|                  |                | - *C. Difficile*                        |
++------------------+----------------+-----------------------------------------+
+| Methylnaltrexone | 8-12mg Q24H SC | - Only useful in opioid-induced paresis |
+|                  |                | - ↓ Dose in renal failure               |
+|                  |                | - Greater effect on lower GIT           |
++------------------+----------------+-----------------------------------------+
+| Neostigmine      | 2.5mg Q6H SC   | - Bradycardia (↑ risk if IV)            |
+|                  |                | - GI perforation (if true obstruction)  |
+|                  |                | - Greater effect on lower GIT           |
++------------------+----------------+-----------------------------------------+
+
+
+### Parental Nutrition
+
+Approach:
+
+* Commence PN at 80% of target if EN contraindicated or insufficient after 7 days\
+If EN insufficient, make up remainder of requirement with PN.
+* Use a dedicated CVC lumen
+* Ensure adequate supplementation of trace elements, vitamins, and micronutrients
+* Reassess enteral feeding Q12H
+
+---
+
+1. Lambell, Kate J., Oana A. Tatucu-Babet, Lee-anne Chapple, Dashiell Gantner, and Emma J. Ridley. [Nutrition Therapy in Critical Illness: A Review of the Literature for Clinicians](https://ccforum.biomedcentral.com/articles/10.1186/s13054-020-2739-4). Critical Care 24, no. 1 (4 February 2020): 35. https://doi.org/10.1186/s13054-020-2739-4.

@@ -43,6 +43,7 @@ ECT: Electron Transport Chain
 EDP: End-Diastolic Pressure
 EDV: End-Diastolic Volume
 EEG: Electroencephalogram
+EN: Enteral Nutrition
 EPO: Erythropoietin
 ERP: Effective Refractory Period
 ESV: End-Systolic Volume
@@ -56,6 +57,7 @@ FVC: Forced Vital Capacity
 GBS: Guillain-Barré syndrome
 GFR: Glomerular Filtration Rate
 GH: Growth Hormone
+GRV: Gastric Residual Volume
 HAART: Highly active antiretroviral therapy
 Hb: Haemoglobin
 HCM: Hypertrophic Cardiomyopathy
@@ -121,6 +123,7 @@ PDPH: Post-Dural Puncture Headache
 PEEP: Positive End-Expiratory Pressure
 PEFR: Peak Expiratory Flow Rate
 PFO: Patent Foramen Ovale
+PN: Parenteral Nutrition
 PPV: Pulse Pressure Variation
 PTH: Parathyroid Hormone
 PTHrP: Parathyroid Hormone related Peptide
@@ -153,6 +156,7 @@ TIA: Transient Ischaemic Attack
 TLC: Total Lung Capacity
 TLS: Tumour Lysis Syndrome
 TNF: Tumour Necrosis Factor
+TPN: Total Parental Nutrition
 TSH: Thyroid Stimulating Hormone
 VIE: Vacuum Insulated Evaporator
 VILI: Ventilator Induced Lung Injury
