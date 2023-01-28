@@ -767,6 +767,7 @@ book:
         - investigations/blood/lft.qmd
       - part: "Other"
         chapters:        
+        - investigations/csf.qmd
         - investigations/ctg.qmd
         - investigations/pfts.qmd
       # Ventilator waveforms
