@@ -12614,6 +12614,13 @@
     "text": "Interpretation\n\n\n\n\n\n\n\n\nPattern\nPresentation\nCauses\n\n\n\n\nCholestatic\n\nALP >200\nALP >3x AST\n\n\nBiliary obstruction\nMalignancy\nPregnancy\nDrugs\n\n\n\nHepatitic\n\nALT >200\nALT >3x ALP\n\n\nHepatocellular destruction\nHepatitis\nEBV\nCMV\nAlcohol\nDrugs\nMetal overload\nAutoimmune"
   },
   {
+    "objectID": "investigations/csf.html",
+    "href": "investigations/csf.html",
+    "title": "Cerebrospinal Fluid Analysis",
+    "section": "",
+    "text": "Normal (and abnormal) CSF Composition\n\n\n\n\n\n\n\n\n\n\n\nProperty\nNormal\nTraumatic Tap\nInfection\nSAH\nOther\n\n\n\n\n\nColour\nClear\nBloodstained\n\nClear in viral infection\nTurbid in bacterial infection\nFibrinous in fungal infection\n\nBloodstained\n\n\n\n\nOpening Pressure\n5-20cmH2O\n\n\n-/↑ In viral\n↑ In bacterial\n\n\n\n\n\n\nRBC (count)\nNil\n↑\n\n↑/↑↑\n\n\n\n\nWBC (count)\n0-3\n1 WCC:500 RBC\n↑ In the setting of an EVD.\n\nPMN leukocytosis (>500)\nFavours bacterial.\nLymphocytosis\nFavours viral, TB, fungal, or listeria.\nMonocyte dominant (>100)\nFavours viral infection.\nMixed lymphocytosis\nGBS, status epilepticus.\n\n\n\nLymphocytosis and monocytosis can also occur in GBS and vasculitis\n\n\n\n\nProtein (g/L)\n0.18-0.45\n\n\n↑ (<1) In viral\n↑↑ (>1) In bacterial\n-/↑ (0.1-0.5) in fungal\n\n\n\n↑ In vasculitis\n↑ In sarcoidosis\n↑ In GBS\n↑ In status epilepticus\nOligoclonal bands in MS\n\n\n\n\nGlucose (mmol/L)\n2.5-3.5\n\n\n↓ (<2.2) In bacterial\n↓ (<2.5) In fungal\n\n\n↓ Due to RBC metabolism\n\n\n\n\n\nGlucose CSF:Serum* (ratio) | 0.6 | | - >0.6 In viral | | . | | | - <0.6 In bacterial | | |\n\n\nOther\n\n\n\nCSF culture\nLDH\n↑ in bacterial.\nCryptococcal antigen\nBacterial antigen\nViral PCR\n\n\nXanthochromia*\nBilirubin in CSF.\n\n\n\n\n\n\nNotes:\n\n\nThings to Request:\n\nMicroscopy\nGram stain\nCulture\nExtended if considering listeria, cryptococcus.\nCytology and cell counts\nProtein\nAny other disease-specific tests\n\n\nAn ↑ CSF WCC is referred to as a pleocytosis\nXanthochromia classically occurs due to metabolism of lysed RBCs from a SAH, but can also occur if serum bilirubin >100umol/L\nGlucose CSF:serum ratio is inaccurate if serum BSL ⪆17mmol/L due to saturation of glucose transporters\nβ-2 transferrin is specific for CSF, and is used to confirm suspicion of CSF rhinorrhea or CSF otorrhea.\n\n\n\nVenkatesh, B., P. Scott, and M. Ziegenfuss. Cerebrospinal Fluid in Critical Illness. Critical Care and Resuscitation: Journal of the Australasian Academy of Critical Care Medicine 2, no. 1 (March 2000): 42–54."
+  },
+  {
     "objectID": "investigations/ctg.html#foetal-heart-rate",
     "href": "investigations/ctg.html#foetal-heart-rate",
     "title": "Cardiotocograph",
