@@ -1,8 +1,10 @@
 # Considerations in Paediatric Anaesthesia
 
-*This section covers various considerations for paediatric anaesthesia. The [anaesthetic assessment of a paediatric patient](/assessment/anaesthetic/paeds.md) is covered elsewhere.*
-
 Paediatric anaesthesia:
+
+:::column-margin
+This section covers various considerations for paediatric anaesthesia. The [anaesthetic assessment of a paediatric patient](/assessment/anaesthetic/paeds.qmd) is covered elsewhere.*
+:::
 
 * Presents its own unique challenges
 	* Technical  
@@ -110,18 +112,36 @@ This group:
 	* Requirement for additional resources
 * Probably has the highest parental anxiety
 * Should have age calculated as **post-conceptual age**  
-$$PCA = Weeks \ of \ Gestation + Weeks \ since \ Birth$$. 
+$PCA = Weeks \ of \ Gestation + Weeks \ since \ Birth$. 
 
-
-|System|Premature|Neonate|Infant (up to 2 years)|
-|---|---|
-|**A**|- Very small everything<br>- Best lying flat for intubation<br><br>- Consideration of Mac vs. Miller<br>- BVM usually **straightforward**<br>- Intubation can be difficult<br>- Small ETTs are high resistance|- As premature|- Difficult one-hand mask ventilation due to obstructed nasal passages<br>- Small ETTs are high resistance|
-|**B**|- Surfactant may be inadequate<br>- **Apnoeas**<br>- Desaturate *very* quickly<br>- Difficult to preoxygenate<br>|- As premature<br>- Essentially never appropriate for day-case surgery|- Frequent URTIs<br>- Smaller airway diameter = bad bronchospasm|
-|**C**|- Foetal shunts may be open/reopen; avoid air bubbles<br>- Normal MAP ≈ weeks of gestation|- HR dependent CO<br>- **Defend HR**|- Most difficult group for IV access|
-|**D**|- **BSL** management critical; apnoea with hypoglycaemia<br>- Cord terminates S1 at 28 weeks|- **BSL** management critical <br>- Cord terminates at L3 at term|- **Separation anxiety**<br>- Cord terminates at L2/3 at 1 year|
-|**E**|- **Temperature** management critical|- **Temperature** management critical||
-|**Other**|- **Why are they premature?** Foetal/maternal|||
-|**Requirements**|- NICU<br>- Neonatologist|- NICU|- Anaesthetic assistant capable of cannulating and ventilating|
++------------------+----------------------------------------------------------+------------------------------------------------------+------------------------------------------------------------------------+
+| System           | Premature                                                | Neonate                                              | Infant (up to 2 years)                                                 |
++==================+==========================================================+======================================================+========================================================================+
+| **A**            | - Very small everything                                  | - As premature                                       | - Difficult one-hand mask ventilation due to obstructed nasal passages |
+|                  | - Best lying flat for intubation                         |                                                      | - Small ETTs are high resistance                                       |
+|                  | - Consideration of Mac vs. Miller                        |                                                      |                                                                        |
+|                  | - BVM usually **straightforward**                        |                                                      |                                                                        |
+|                  | - Intubation can be difficult                            |                                                      |                                                                        |
+|                  | - Small ETTs are high resistance                         |                                                      |                                                                        |
++------------------+----------------------------------------------------------+------------------------------------------------------+------------------------------------------------------------------------+
+| **B**            | - Surfactant may be inadequate                           | - As premature                                       | - Frequent URTIs                                                       |
+|                  | - **Apnoeas**                                            | - Essentially never appropriate for day-case surgery | - Smaller airway diameter\                                             |
+|                  | - Desaturate *very* quickly                              |                                                      | ↑ Severity of bronchospasm and sputum plugging.                        |
+|                  | - Difficult to preoxygenate                              |                                                      |                                                                        |
++------------------+----------------------------------------------------------+------------------------------------------------------+------------------------------------------------------------------------+
+| **C**            | - Foetal shunts may be open/reopen; avoid air bubbles    | - HR dependent CO                                    | - Most difficult group for IV access                                   |
+|                  | - Normal MAP ≈ weeks of gestation                        | - **Defend HR**                                      |                                                                        |
++------------------+----------------------------------------------------------+------------------------------------------------------+------------------------------------------------------------------------+
+| **D**            | - **BSL** management critical; apnoea with hypoglycaemia | - **BSL** management critical                        | - **Separation anxiety**                                               |
+|                  | - Cord terminates S1 at 28 weeks                         | - Cord terminates at L3 at term                      | - Cord terminates at L2/3 at 1 year                                    |
++------------------+----------------------------------------------------------+------------------------------------------------------+------------------------------------------------------------------------+
+| **E**            | - **Temperature** management critical                    | - **Temperature** management critical                |                                                                        |
++------------------+----------------------------------------------------------+------------------------------------------------------+------------------------------------------------------------------------+
+| **Other**        | - **Why are they premature?** Foetal/maternal            |                                                      |                                                                        |
++------------------+----------------------------------------------------------+------------------------------------------------------+------------------------------------------------------------------------+
+| **Requirements** | - NICU                                                   | - NICU                                               | - Anaesthetic assistant capable of cannulating and ventilating         |
+|                  | - Neonatologist                                          |                                                      |                                                                        |
++------------------+----------------------------------------------------------+------------------------------------------------------+------------------------------------------------------------------------+
 
 #### Key Considerations in Neonates
 
@@ -150,6 +170,7 @@ Tendency to hypoglycaemia.
 #### Changes in Infants in Detail
 
 **Airway Differences:**
+
 * Relatively large:
 	* Head
 	* Tongue
@@ -173,6 +194,7 @@ Results in relatively **anterior larynx**.
 
 
 **Respiratory Differences:**
+
 * ↑ VA:FRC ratio  
 Change in inspired gas mixture rapidly alters alveolar (and arterial) gas composition.
 	* Rapid uptake of volatile agents
@@ -195,6 +217,7 @@ May only be 10% of adult total.
 
 
 **Cardiac Differences:**
+
 * ↓ Myocardial compliance  
 Heart failure with ↑ volume due to poor Starling response.
 * ↓ Contractility  
@@ -216,6 +239,7 @@ Bradycardia common with vagal stimuli, such as laryngoscopy, hypoxia.
 
 
 **CNS Differences:**
+
 * Incomplete blood-brain barrier  
 Free passage of:
 	* Opioids
@@ -234,6 +258,7 @@ Neuraxial techniques achievable.
 
 
 **MSK Differences:**
+
 * Sensitivity to **hypothermia** due to:
 	* ↑ Surface area:volume ratio  
 	↑ Heat losses to environment, and in respiratory vapour (due to higher MV).
@@ -246,6 +271,7 @@ Neuraxial techniques achievable.
 		Brown fat metabolism key to heat production.
 
 **Renal Differences:**
+
 * ↓ Tubular concentrating ability
 * ↓ Renal bicarbonate levels
 * ↓ GFR  
@@ -253,6 +279,7 @@ Reduced ability to cope with volume and electrolyte loads.
 
 
 **Hepatic Differences:**
+
 * Neonate
 	* Reduced vitamin K dependent clotting factors in neonate
 	* Reduced glucose storage in neonate
@@ -265,6 +292,7 @@ Up to 2-3 months:
 		* Bilirubin
 
 **Pharmacological Differences:**
+
 * Major differences occur in children up to ~6 months
 * Absorption
 	* Reduced IM and SC absorption
@@ -297,12 +325,18 @@ Up to 2-3 months:
 		* ~50% of children who are given a premedication will still be difficult to manage
 	* **Tone of language** is important
 
-|System|2-4 Year Olds|
-|---|---|
-|**A**|- Laryngospasm|
-|**B**|- Frequent URTIs<br>- Asthma common<br>|
-|**C**|- Assess METs with climbing, crying, and fighting with siblings|
-|**D**|- Parental involvement helpful for child anxiety|
++--------+-----------------------------------------------------------------+
+| System | 2-4 Year Olds                                                   |
++========+=================================================================+
+| **A**  | - Laryngospasm                                                  |
++--------+-----------------------------------------------------------------+
+| **B**  | - Frequent URTIs                                                |
+|        | - Asthma common                                                 |
++--------+-----------------------------------------------------------------+
+| **C**  | - Assess METs with climbing, crying, and fighting with siblings |
++--------+-----------------------------------------------------------------+
+| **D**  | - Parental involvement helpful for child anxiety                |
++--------+-----------------------------------------------------------------+
 
 
 ### Primary School-Aged Children
@@ -326,13 +360,21 @@ Up to 2-3 months:
 	* Ideally, use one voice during induction  
 	Yours or the parents; but avoid chattering.
 
-|System|5-10 Year Olds|
-|---|---|
-|**A**|- Loose teeth|
-|**B**|- Frequent URTIs<br>- Asthma<br>- Respiratory management |
-|**C**|- Assess METs with climbing, crying, and fighting with siblings|
-|**D**|- **Choose words carefully**<br>- Distractible<br>- Cord terminates at L1/2 at 8|
-
++--------+-----------------------------------------------------------------+
+| System | 5-10 Year Olds                                                  |
++========+=================================================================+
+| **A**  | - Loose teeth                                                   |
++--------+-----------------------------------------------------------------+
+| **B**  | - Frequent URTIs                                                |
+|        | - Asthma                                                        |
+|        | - Respiratory management                                        |
++--------+-----------------------------------------------------------------+
+| **C**  | - Assess METs with climbing, crying, and fighting with siblings |
++--------+-----------------------------------------------------------------+
+| **D**  | - **Choose words carefully**                                    |
+|        | - Distractible                                                  |
+|        | - Cord terminates at L1/2 at 8                                  |
++--------+-----------------------------------------------------------------+
 
 ### Secondary School-Aged Children
 
@@ -348,12 +390,12 @@ Tend to respond in two ways to the stress of hospital and disease. Consult shoul
 		* Existential fears, uncertainty
 		* Honest but fair discussion
 
-|System|5-10 Year Olds|
-|---|---|
-|**A**|- Nil|
-|**B**|- Nil|
-|**C**|- Nil|
-|**D**|- Tailor discussion to psychological state|		
+| System | 5-10 Year Olds                             |
++--------+--------------------------------------------+
+| **A**  | - Nil                                      |
+| **B**  | - Nil                                      |
+| **C**  | - Nil                                      |
+| **D**  | - Tailor discussion to psychological state |
 
 
 

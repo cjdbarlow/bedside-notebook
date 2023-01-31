@@ -1,0 +1,77 @@
+# Preparation
+
+:::info
+Room and equipment preparation for the occasional paediatric anaesthetist.
+:::
+
+## Setup
+
+Operating Room:
+
+* Warm the operating room
+* Underbody warmer
+
+Anaesthetic machine:
+
+* Paediatric circle circuit
+	* Lower volume reservoir bag\
+	1L appropriate for 1-7 year olds.
+	* Lower volume circuit
+* Bain (Mapleson F) circuit if desired\
+May need to cut the tip from the bag, depending on available equipment.
+* Paediatric suction
+
+## Airway Equipment
+
+* Mask
+* OPA\
+Size from angle of mandible to the central incisors.
+* Endotracheal Tube\
+	* Size is $Age/4 + 3.5$ (cuffed)\
+	Have a half-size above and below.
+	* Depth of insertion is $Age/2 + 12$
+* LMA
+
+:::column-margin
+| Age       | Miller   | Macintosh   |
+| --------- | -------- | ----------- |
+| Neonate   | 0 - 1    |             |
+| Infant    | 1        | 1           |
+| 1-3       | 1        | 1           |
+| 3-5       |          | 2           |
+| 6-12      |          | 2-3         |
+
+: Laryngoscope Sizing
+
+| Weight    | Size (kg) |
+| --------- | --------  |
+| <5kg      | 1         |
+| 1.5       | 5-10      |
+| 2         | 10-20     |
+| 2.5       | 20-30     |
+| 3         | 30-50     |
+
+: LMA Sizing
+:::
+
+## Intravenous
+
+Lines:
+
+* IV
+	* Consider Burette
+	* 250-500mL bag
+* Ensure air bubbles removed
+
+
+Emergency drugs:
+
+* Atropine\
+10-20ug/kg.
+* Succinylcholine
+	* 1-2mg/kg IV
+	* 1-3mg/kg intralingual
+	* 3-5mg/kg IM
+
+
+---

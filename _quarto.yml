@@ -351,6 +351,7 @@ book:
         - part: "Paediatrics"
           chapters:
           - anaesthesia/paeds/paed-considerations.qmd
+          - anaesthesia/paeds/preparation.qmd
           - anaesthesia/paeds/premedication.qmd
           - anaesthesia/paeds/emergence.qmd
           - anaesthesia/paeds/periop-resp.qmd
