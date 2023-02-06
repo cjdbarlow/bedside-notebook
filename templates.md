@@ -93,8 +93,6 @@ ABC approach. Comment on team coordination and clinical priorities.
 * Physical
 * Procedural
 
-**Underlying cause**:
-
 **Supportive care**:
 
 **Disposition**:

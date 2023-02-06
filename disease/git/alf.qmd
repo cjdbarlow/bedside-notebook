@@ -1,1 +1,369 @@
 # Acute Liver Failure
+
+Rapidly progressive, life-threatening development of **coagulopathy**, **encephalopathy**, and **jaundice** in a patient with a previously normal liver. ALF is subclassified by time interval between jaundice and encephalopathy:
+
+* Hyperacute\
+Encephalopathy within 7 days. Typically:
+	* Severe encephalopathy, coagulopathy, ↑ ICP, and very deranged LFTs
+	* Aetiologies are paracetamol, viral hepatitis
+	* Good recovery
+* Acute\
+Encephalopathy within 28 days. Typically:
+	* More gradual decline
+	* Aetiologies are idiosyncratic drug reactions, viral hepatitis
+* Subacute\
+Encephalopathy within 3 months. Typically:
+	* Less deranged LFTs
+	* Aetiologies are *un*likely to be pregnancy-related or viral. 
+	* Poorest recovery
+
+
+
+:::column-margin
+Acute Liver Failure is distinct from:
+
+* **Acute Liver Injury**\
+Coagulopathy in absence of encephalopathy.
+* **Acute on Chronic Liver Failure**\
+Acute decline in liver function in patients with chronic liver disease.
+:::
+
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+* Direct hepatocyte damage
+* Immune response
+	* Local
+	* Systemic
+		* MODS
+* Cerebral dysfunction
+	* Oedema
+	* Altered autoregulation
+
+### Aetiology
+
+* Ischaemia
+* Vascular
+* Infection
+* Autoimmune
+* Drugs/toxins
+	* Paracetamol\
+	50-70% in the developed world.
+	* Aspirin\
+	Reye's syndrome.
+	* Alcohol
+	* Herbal
+	* Halothane
+* Pregnancy-related\
+	* Acute fatty liver of pregnancy
+	* Severe pre-eclampsia
+
+
+## Clinical Manifestations
+
+History:
+
+:::column-margin
+Hepatic encephalopathy graded into:
+
+1. Mild confusion/irritability, ↓ attention
+2. Disorientation, drowsiness, inappropriate
+3. Somnolent but rousable, incoherent
+4. Coma
+:::
+
+* Overdose
+* CNS
+	* Confusion
+	* Agitation
+* GI
+	* Nausea/Vomiting
+
+Examination:
+
+* Asterixis
+* Hyperreflexia
+* Jaundice
+
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+Blood:
+
+* Liver function testing\
+Severity and pattern of injury:
+	* Hepatocellular
+	* Cholestatic
+* Point of care coagulation studies\
+*May* be more accurate than standard assays.
+* Coagulation studies
+	* Synthetic function
+* Lactate\
+Failure of hepatic clearance.
+* Ammonia\
+Neurotoxin responsible for much of hepatic encephalopathy. ↑ Ammonia may reflect:
+	* Hepatic metabolic dysfunction\
+	Degree of hepatic dysfunction typically correlates with ammonia level, though not with the degree of encephalopathy.
+	* ↑↑ Protein intake
+	* ↑ GI ammonia production\
+	Produced by gut bacteria.
+	* ↓ Clearance\
+	Urea cycle disorder.
+* UEC\
+	* AKI
+	* Electrolyte derangements
+* FBE
+	* Anaemia
+	* Thrombocytopaenia
+	* Concurrent infection
+* Lipase/amylase
+	* Associated pancreatitis
+* Paracetamol level
+* LDH\
+Malignancy.
+* Viral screen\
+Aetiology. Include:
+	* Hepatitis A/B/C/E
+	* EBV
+	* HSV
+	* VZV
+	* HIV 1/2
+* Autoimmune screen
+	* ANA\
+	Autoimmune.
+	* Anti-smooth muscle Ab\
+	Autoimmune.
+	* Anti-mitochondrial Ab\
+	Primary sclerosing cholangitis.
+	* Copper studies\
+	Wilson's disease.
+* Pregnancy test
+
+
+Urine:
+
+* Drug screen
+	* Paracetamol
+
+
+Radiology:
+
+* TTE
+	* RV function
+* Liver ultrasound
+	* Splenomegaly
+	* Ascites
+	* Nodularity
+	* Hepatomegaly
+	* Portal blood flow
+	* Portal patency
+* CT\
+Triple-phase liver.
+
+
+Pathology:
+
+* Liver biopsy
+
+## Management
+
+:::info
+Goals of therapy are:
+
+* Identify cause
+* Supportive care to limit hepatic damage
+* Early identification of patients for transplant
+	* Significant improvement in outcomes with **emergency liver transplantation**
+	* **Early** escalation to **critical care** and early referral to a **specialist centre** is essential
+:::
+
+**Resuscitation**:\
+
+:::column-margin
++----------------------------+-----------------------------+
+| Paracetamol Toxicity       | Other Cause                 |
++============================+=============================+
+| - pH <7.25 and             | - PT >100s                  |
+| - Lactate >3mmol/L         |                             |
+|                            | Or 3 of:                    |
+| Or:                        | - Age <10 or >40            |
+| - PT >100s and             | - Hyperacute                |
+| - Cr >300umol/L and        | - Seronegative/drug induced |
+| - Grade 3/4 encephalopathy | - Bilirubin >300umol/L      |
+|                            | - PT >50s                   |
++----------------------------+-----------------------------+
+
+: King's College Criteria for Liver Transplantation
+
+The King's criteria are widely used but validation is less well supported, particularly in the paracetamol cohort.
+:::
+
+:::column-margin
+An alternative to the King's criteria is the MELD score, which predicts 90 day survival using:
+
+* Bilirubin
+* INR
+* Creatinine
+:::
+
+* A\
+Consider securing if:
+	* High grade (III/IV) encephalopathy
+	* Need for transfer
+ B
+	* CO~2~ control for ICP management
+* C
+	* Classically distributive shock picture
+		* Noradrenaline
+* D
+	* ↑ ICP\
+		* Control with standard ICP management
+
+
+**Specific therapy**:
+
+* Liver transplantation
+* Extra-corporeal hepatic support\
+Artificial, extra-corporeal liver replacement therapy. Broadly, ↓ encephalopathy and ↑ haemodynamic function without mortality benefit. May be:
+	* Biological\
+	Using human/porcine cells.
+	* Mechanical\
+	Molecular filtration.
+
+**Underlying cause**:
+
+* Alcoholic hepatitis
+* Paracetamol overdose
+	* N-acetyl cysteine
+		* 150mg/kg load, then 50mg/kg over 4 hours
+* Hepatitis B
+	* Lamivudine\
+	Benefit if given early.
+* Wilson's disease
+	* D-Penicillamine\
+	Chelates copper.
+* Hepatic vein thrombosis
+	* Lysis
+	* Clot retreival
+	* TIPS
+* Viral hepatitis
+	* Antivirals
+
+**Supportive care**:
+
+* B
+	* Lung protective ventilation\
+	ARDS risk.
+	* Drain pleural effusions
+* D
+	* ↑ ICP\
+		* Consider invasive ICP management if **all** of:
+			* Grade 3-4 encephalopathy
+			* Hyperacute liver failure
+			* Ammonia >150mmolL
+			* Young
+* E
+	* ↓ BSL\
+	Use high-concentration dextrose to avoid cerebral oedema/↓ Na^+^.
+* F
+	* ↓ Phosphate\
+	Replenish.
+	* RRT\
+		* Avoid citrate!
+		* CRRT preferential due to haemodynamics
+		* In addition to standard indications, consider for:
+			* Hyperammonaemia\
+			Aim <100umol/L to ↓ cerebral oedema.
+			* Hypothermia
+* G
+	* Early enteral feeding\
+	May have ↑ metabolic requirements. No change in protein requirement.
+	* Lactulose\
+	Controversial. May ↓ hepatic encephalopathy but lead to gaseous intestinal distension.
+	* PPI
+	* Drain ascites\
+	For haemodynamic benefit.
+* H
+	* Coagulopathy\
+	Treat if bleeding or prior to procedures. Patients may be prothrombotic, anti-thrombotic, or fibrinolytic, and the assays themselves (both coagulation profiles and point-of-care testing) may not correlate with the observed clinical effect.
+		* Vitamin K\
+		Very reasonable, probably ineffective.
+
+
+
+**Disposition**:
+
+* Liver transplant centre
+
+### Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+* Death
+	* Intracranial hypertension\
+	Classically if untreated.
+	* Sepsis/multiorgan failure
+
+
+* A
+	* Unprotected airway
+* B
+	* ARDS\
+	Relatively intolerant of permissive hypercapnoea due to ↑ ICP concerns.
+	* Pleural effusions
+* C
+	* Distributive shock
+* D
+	* Intracranial hypertension
+	* Hepatic encephalopathy
+* F
+	* AKI (hepatorenal syndrome)\
+	40-80% of cases.
+		* ↑ In paracetamol toxicity (directly nephrotoxic)
+* G
+	* ↓ BSL
+	* Pancreatitis
+	* Ascites
+* H
+	* Coagulopathy\
+	May be variable and not in keeping with assays.
+	* Bone marrow suppression
+		* Thrombocytopaenia
+* I
+	* Infection\
+	↑ Susceptibility.
+
+## Prognosis
+
+:::info
+Eligibility for transplantation is determined using one of the prognostic scores, such as MELD or the King's College criteria.
+:::
+
+Factors:
+
+* Age
+↑ Mortality with ↑ age.
+* Aetiology
+↓ Mortality with pregnancy-related causes.
+* Acuity\
+↑ Mortality with ↑ acuity.
+
+Transplantation:
+
+* 80% 5-year survival following liver transplant for ALF
+
+## Key Studies
+
+
+
+---
+
+## References
+
+1. Aziz, Riaz, Jennifer Price, and Banwari Agarwal. [Management of Acute Liver Failure in Intensive Care](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7892353/pdf/main.pdf). BJA Education 21, no. 3 (March 2021): 110–16. https://doi.org/10.1016/j.bjae.2020.11.006.

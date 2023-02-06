@@ -3,40 +3,194 @@
 Liver function tests are a panel, usually with most of:
 
 * **Bilirubin**\
-Haeme metabolite, conjugated in the liver.
+End product of haeme metabolism. It is conjugated in the liver, so we can measure:
+	* Unconjugated bilirubin\
+	↑ Indicates either ↑ bilirubin production or ↓ hepatic conjugation.
+	* Conjugated bilirubin\
+	↑ Indicates normal hepatic conjugation and failure of secretion.
+* γ-Glutamyl transferase (**GGT**)\
+Inducible enzyme produced predominantly in the biliary tract. Highly non-specific.
+* Alkaline Phosphatase (**ALP**)\
+Ubiquitous enzyme, found predominantly in on the surface of bile canaliculi, bone (during formation), intestine, and placenta.
+* Aspartate Aminotransferase (**AST**)\
+Kreb cycle enzyme, present in many tissues but most concentrated in **hepatocytes** and **muscle**.
+* Alanine Transaminase (**ALT**)\
+Kreb cycle enzyme, used to turn alanine into pyruvate. Present in (essentially) all cells, but abundant in hepatocytes. ALT is:
+	* Released after AST
+	* Rises higher and longer than AST
+	* Usually lower if alcohol is the cause
+
+
 * **Albumin**\
 Hepatically synthesised plasma protein, half-life of ~20 days.
 * **Total protein**\
 Sum of all plasma proteins (not all hepatically synthesised), including: albumin, immunoglobulins, and carrier proteins.
-* **GGT**\
-From *biliary* hepatocyte.
-* **ALP**\
-From *biliary* hepatocyte, bone (during formation), intestine, and placenta.
-* **AST**\
-From hepatocyte *cytoplasm*, and muscle.
-* **ALT**\
-From hepatocyte *cytoplasm*.
 
 
 ## Interpretation
 
-+-------------+---------------+------------------------------+
-| Pattern     | Presentation  | Causes                       |
-+=============+===============+==============================+
-| Cholestatic | - ALP >200    | - Biliary obstruction        |
-|             | - ALP >3x AST | - Malignancy                 |
-|             |               | - Pregnancy                  |
-|             |               | - Drugs                      |
-+-------------+---------------+------------------------------+
-| Hepatitic   | - ALT >200    | - Hepatocellular destruction |
-|             | - ALT >3x ALP | - Hepatitis                  |
-|             |               | - EBV                        |
-|             |               | - CMV                        |
-|             |               | - Alcohol                    |
-|             |               | - Drugs                      |
-|             |               | - Metal overload             |
-|             |               | - Autoimmune                 |
-+-------------+---------------+------------------------------+
++-----------------+----------------+-----------------------------------------+
+| Pattern         | Presentation   | Causes                                  |
++=================+================+=========================================+
+| **Cholestatic** | - ALP >200     |                                         |
+|                 | - ALP >3x AST  |                                         |
+|                 |                | Hepatic:                                |
+|                 |                |                                         |
+|                 |                | - Cholestasis of pregnancy              |
+|                 |                | - Primary biliary cirrhosis             |
+|                 |                | - Primary sclerosing cholangitis        |
+|                 |                | - Hepatitis                             |
+|                 |                | - Drug toxicity                         |
+|                 |                | - Malignancy                            |
+|                 |                |                                         |
+|                 |                |                                         |
+|                 |                | Extrahepatic:                           |
+|                 |                |                                         |
+|                 |                | - Choledocholithiasis                   |
+|                 |                | - Cholangitis                           |
+|                 |                | - Pancreatitis                          |
++-----------------+----------------+-----------------------------------------+
+| **Hepatitic**   | - ALT >200     |                                         |
+|                 | - ALT >3x ALP  |                                         |
+|                 |                | Circulatory:                            |
+|                 |                |                                         |
+|                 |                | - Right heart failure                   |
+|                 |                | - Ischaemic hepatitis                   |
+|                 |                | - ↑ Venous pressures                    |
+|                 |                |                                         |
+|                 |                |                                         |
+|                 |                | Metabolic:                              |
+|                 |                |                                         |
+|                 |                | - Haemochromatosis                      |
+|                 |                | - Wilson's disease                      |
+|                 |                | - α1-antitrypsin deficiency             |
+|                 |                |                                         |
+|                 |                |                                         |
+|                 |                | GI:                                     |
+|                 |                |                                         |
+|                 |                | - Fatty liver                           |
+|                 |                | - NASH                                  |
+|                 |                | - Pancreatitis                          |
+|                 |                |                                         |
+|                 |                |                                         |
+|                 |                | Trauma:                                 |
+|                 |                |                                         |
+|                 |                | - Surgical                              |
+|                 |                | - Hepatic injury                        |
+|                 |                |                                         |
+|                 |                |                                         |
+|                 |                | Infective:                              |
+|                 |                |                                         |
+|                 |                | - Viral hepatitis                       |
+|                 |                |                                         |
+|                 |                |                                         |
+|                 |                | Toxin:                                  |
+|                 |                |                                         |
+|                 |                | - Alcohol                               |
+|                 |                | - Paracetamol                           |
+|                 |                | - Mushrooms\                            |
+|                 |                | *Amanita phalloides*.                   |
+|                 |                |                                         |
+|                 |                |                                         |
+|                 |                | Obstetric:                              |
+|                 |                |                                         |
+|                 |                | - Cholestasis of pregnancy              |
+|                 |                |                                         |
+|                 |                | Congenital:                             |
+|                 |                |                                         |
+|                 |                | - Glycogen storage disease              |
++-----------------+----------------+-----------------------------------------+
+|                 | ALT >> AST     | Hepatic:                                |
+|                 |                |                                         |
+|                 |                | - Alcoholic toxicity/hepatitis          |
+|                 |                | - Early hepatic ischaemia               |
+|                 |                |                                         |
+|                 |                | Extrahepatic:                           |
+|                 |                |                                         |
+|                 |                | - Rhabdomyolysis                        |
+|                 |                | - MI                                    |
++-----------------+----------------+-----------------------------------------+
+|                 | AST >> ALT     | - Viral                                 |
+|                 |                | - Drugs                                 |
++-----------------+----------------+-----------------------------------------+
+| **Bilirubin**   | ↑ Unconjugated | ↑ Production:                           |
+|                 |                |                                         |
+|                 |                | - Haemolysis                            |
+|                 |                | - Transfusion                           |
+|                 |                | - Resorption (haematomas, UGIB)         |
+|                 |                |                                         |
+|                 |                | ↓ Uptake:                               |
+|                 |                |                                         |
+|                 |                | - Gilbert's syndrome                    |
+|                 |                | - Drugs                                 |
+|                 |                |                                         |
+|                 |                | ↓ Conjugation:                          |
+|                 |                |                                         |
+|                 |                | - Gilbert's syndrome                    |
+|                 |                | - Physiological jaundice of the newborn |
++-----------------+----------------+-----------------------------------------+
+|                 | ↑ Conjugated   | - Biliary obstruction                   |
+|                 |                | - Failure to excrete\                   |
+|                 |                | Syndromal.                              |
+|                 |                |                                         |
++-----------------+----------------+-----------------------------------------+
+| **Other**       | Isolated ↑ GGT | - MI                                    |
+|                 |                | - Myocarditis                           |
+|                 |                | - COPD                                  |
+|                 |                | - Diabetes                              |
+|                 |                | - Renal failure                         |
+|                 |                |                                         |
+|                 |                | Drugs:                                  |
+|                 |                | - Alcohol                               |
+|                 |                | - Phenytoin                             |
+|                 |                | - Flucloxacillin                        |
+|                 |                | - Barbiturates                          |
++-----------------+----------------+-----------------------------------------+
+|                 | ↑ ALP          | Physiological:                          |
+|                 |                |                                         |
+|                 |                | - 3~rd~ trimester                       |
+|                 |                | - Children/adolescents                  |
+|                 |                | - Familial                              |
+|                 |                |                                         |
+|                 |                | Hepatic:                                |
+|                 |                |                                         |
+|                 |                | - Obstruction                           |
+|                 |                | - Primary biliary cirrhosis             |
+|                 |                | - Primary sclerosing cholangitis        |
+|                 |                | - Cholestasis                           |
+|                 |                | - Metastatic                            |
+|                 |                |                                         |
+|                 |                | Extra-hepatic:                          |
+|                 |                |                                         |
+|                 |                | - Bone disease                          |
+|                 |                | - Sarcoid                               |
+|                 |                | - Hyperthyroidism                       |
+|                 |                |                                         |
++-----------------+----------------+-----------------------------------------+
 
+## Other Investigations for Liver Disease
+
+Blood:
+
+* Coagulation
+	* Indicator of synthetic function
+		* ↑ INR if fat-soluble vitamin intake, absorption, or storage are impaired
+		* ↑ APTT if synthesis impaired
+	* Mixing studies demonstrate reversibility with normal plasma
+* Amylase/Lipase\
+Exclude concomitant pancreatitis.
+
+
+Radiology:
+
+* Liver ultrasound
+	* Bile duct obstruction
+	* Hepatic vascular supply
+	* Hepatic texture
+
+
+Pathology:
+
+* Liver biopsy
 
 ---
