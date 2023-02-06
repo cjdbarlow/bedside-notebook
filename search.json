@@ -1453,7 +1453,7 @@
     "href": "anaesthesia/crisis/delayed-emergence.html#investigations",
     "title": "Delayed Emergence",
     "section": "Investigations:",
-    "text": "Investigations:\nAdditional bloods:\n\nFBE\nUEC/CMP\nLFTs\nTFTs\nToxicology screen\n\nImaging:\n\nCTB\nConsider repeating at 6-8 hours if no improvement in ICU.\nMRI"
+    "text": "Investigations:\nAdditional bloods:\n\nFBE\nUEC/\nLFTs\nTFTs\nToxicology screen\n\nImaging:\n\nCTB\nConsider repeating at 6-8 hours if no improvement in ICU.\nMRI"
   },
   {
     "objectID": "anaesthesia/crisis/delayed-emergence.html#management",
@@ -1579,7 +1579,7 @@
     "href": "disease/congenital/mh.html#investigations",
     "title": "Malignant Hyperthermia",
     "section": "Investigations",
-    "text": "Investigations\nImmediate investigations:\n\nBlood gases\nFBE/UEC/CMP\n\nConfirmatory investigations: {#confirm} * In vitro contracture testing\nMuscle excised under regional anaesthesia and tested with halothane and caffeine to determine response. * Genetic testing\n* Limited due to the complex genetic variations"
+    "text": "Investigations\nImmediate investigations:\n\nBlood gases\nUEC/\n\nConfirmatory investigations: {#confirm} * In vitro contracture testing\nMuscle excised under regional anaesthesia and tested with halothane and caffeine to determine response. * Genetic testing\n* Limited due to the complex genetic variations"
   },
   {
     "objectID": "disease/congenital/mh.html#management",
@@ -4127,7 +4127,7 @@
     "href": "anaesthesia/cardiac/principles.html#preoperative-evaluation",
     "title": "Principles of Cardiac Anaesthesia",
     "section": "Preoperative Evaluation",
-    "text": "Preoperative Evaluation\nBasics:\n\nPlanned operation\nAge, weight, and height\nFor indexing and drug doses.\n\nHistory:\n\nAllergies\nParticularly:\n\nHeparin\nProtamine\nSeafood.\nIodine\nAntibiotics\n\nPreoperative medications\n\nCease antiplatelets prior:\n\nClopidogrel 5-7 days\nTirofiban 1-2 days\nStreptokinase 3 hours\n\nHeparin\nMay be continued into the anaesthetic bay.\nContinue beta-blockers\nConsider initiating if not already instituted.\nStop ACE-Is\nContinue statins perioperatively\n\nExercise tolerance\nCo-existing disease\nCardiac patients tend to be sicker. Particularly relevant features:\n\nCOAD and smoking history\nSmoking cessation should be encouraged.\nHypertension\nValvular disease\nCoronary artery disease\n\nCerebrovascular disease\nPeripheral vascular disease\nAffects graft sites and arterial line placement.\nCognitive function\nBaseline level of impairment.\nDM\nAssociated with poorer outcomes.\nCKD\nAssociated with poorer outcomes.\n\nDysphagia or oesophageal problems Affects use of TOE.\n\nPrevious cardiac surgery\nRe-do sternotomy is associated with substantial additional risk:\n\nPericardium is usually obliterated\nRV or innominate vein may be adherent to sternum\nRisk of massive haemorrhage due to sternal saw.\nInternal paddles may not be able to be applied\nExternal defib pads should be used.\nPeripheral bypass (femoral) may need to be established\nSignificantly prolonged case with substantial blood loss\nDissection of adhesions and identification of old grafts.\n\nContraindications for echocardiography\nAsk about swallowing disability.\n\nAbsolute\n\nPerforated viscous\nOesophageal stricture/tumour/diverticulum\nActive upper GI bleed\n\nRelative\n\nNeck/mediastinal radiation\nAtlantoaxial disease\nDysphagia\nOdynophagia\n\n\n\nExamination:\n\nVital signs\nAirway assessment\nRespiratory and CVS exam\nPeripheral and central vascular access sites\n\nInvestigations:\n\nBloods\n\nFBE\nUEC/CMP\nCoagulation profile\nG+H +/- crossmatch\n\nGeneral\n\nECG\nCXR\nPFTs if indicated by respiratory disease\n\nCardiac-specific\n\nAngiogram\n\nNumber, site and severity of stenoses\nLeft main or equivalent stenosis\n\nEchocardiogram\n\nLV function\nRV function\nValvular function\n\n\n\n\nConsent\n\nThis is an incredibly stressful time for patient and family: * Avoid drowning the patient in unnecessary information * Ensure they understand the process\n\nDiscuss:\n\nAirway\nLines\nTOE\nCPB\nBlood transfusion\nPost operative ventilation\nICU Stay\n\nKey risks:\n\nDeath\nStroke\nAMI\nOesophageal injury\nTransfusion"
+    "text": "Preoperative Evaluation\nBasics:\n\nPlanned operation\nAge, weight, and height\nFor indexing and drug doses.\n\nHistory:\n\nAllergies\nParticularly:\n\nHeparin\nProtamine\nSeafood.\nIodine\nAntibiotics\n\nPreoperative medications\n\nCease antiplatelets prior:\n\nClopidogrel 5-7 days\nTirofiban 1-2 days\nStreptokinase 3 hours\n\nHeparin\nMay be continued into the anaesthetic bay.\nContinue beta-blockers\nConsider initiating if not already instituted.\nStop ACE-Is\nContinue statins perioperatively\n\nExercise tolerance\nCo-existing disease\nCardiac patients tend to be sicker. Particularly relevant features:\n\nCOAD and smoking history\nSmoking cessation should be encouraged.\nHypertension\nValvular disease\nCoronary artery disease\n\nCerebrovascular disease\nPeripheral vascular disease\nAffects graft sites and arterial line placement.\nCognitive function\nBaseline level of impairment.\nDM\nAssociated with poorer outcomes.\nCKD\nAssociated with poorer outcomes.\n\nDysphagia or oesophageal problems Affects use of TOE.\n\nPrevious cardiac surgery\nRe-do sternotomy is associated with substantial additional risk:\n\nPericardium is usually obliterated\nRV or innominate vein may be adherent to sternum\nRisk of massive haemorrhage due to sternal saw.\nInternal paddles may not be able to be applied\nExternal defib pads should be used.\nPeripheral bypass (femoral) may need to be established\nSignificantly prolonged case with substantial blood loss\nDissection of adhesions and identification of old grafts.\n\nContraindications for echocardiography\nAsk about swallowing disability.\n\nAbsolute\n\nPerforated viscous\nOesophageal stricture/tumour/diverticulum\nActive upper GI bleed\n\nRelative\n\nNeck/mediastinal radiation\nAtlantoaxial disease\nDysphagia\nOdynophagia\n\n\n\nExamination:\n\nVital signs\nAirway assessment\nRespiratory and CVS exam\nPeripheral and central vascular access sites\n\nInvestigations:\n\nBloods\n\nFBE\nUEC/\nCoagulation profile\nG+H +/- crossmatch\n\nGeneral\n\nECG\nCXR\nPFTs if indicated by respiratory disease\n\nCardiac-specific\n\nAngiogram\n\nNumber, site and severity of stenoses\nLeft main or equivalent stenosis\n\nEchocardiogram\n\nLV function\nRV function\nValvular function\n\n\n\n\nConsent\n\nThis is an incredibly stressful time for patient and family: * Avoid drowning the patient in unnecessary information * Ensure they understand the process\n\nDiscuss:\n\nAirway\nLines\nTOE\nCPB\nBlood transfusion\nPost operative ventilation\nICU Stay\n\nKey risks:\n\nDeath\nStroke\nAMI\nOesophageal injury\nTransfusion"
   },
   {
     "objectID": "anaesthesia/cardiac/principles.html#prep",
@@ -8411,7 +8411,7 @@
     "href": "disease/cvs/afe.html#investigations",
     "title": "Amniotic Fluid Embolism",
     "section": "Investigations",
-    "text": "Investigations\nAFE is funamentally a clinical diagnosis. Key supportive investigations:\n\nFBE/UEC/CMP/ABC\nCommonly performed but do not aid management. Thrombocytopaenia is rare initially.\nCardiac enzymes\nCoagulation assay\nClassically low (or entirely absent) fibrinogen with prolonged PT and APTT.\nTEG/ROTEM\nFor evaluating DIC.\nEchocardiography\nTTE or TOE if available. Key findings:\n\nRV failure\nPulmonary hypertension\nUnderfilled LV\nIntracardiac thrombi/emboli\n\nECG\nRV strain, tachycardia, ischaemia.\nCXR\n\nInvestigations that have been used for diagnosis include:\n\nMaternal PA blood sampling for squamous epithelial cells\nDrawn from a wedged PAC.\nHistological analysis of cervix\nIf a hysterectomy has been performed\nAutopsy"
+    "text": "Investigations\nAFE is funamentally a clinical diagnosis. Key supportive investigations:\n\nUEC/\nCommonly performed but do not aid management. Thrombocytopaenia is rare initially.\nCardiac enzymes\nCoagulation assay\nClassically low (or entirely absent) fibrinogen with prolonged PT and APTT.\nTEG/ROTEM\nFor evaluating DIC.\nEchocardiography\nTTE or TOE if available. Key findings:\n\nRV failure\nPulmonary hypertension\nUnderfilled LV\nIntracardiac thrombi/emboli\n\nECG\nRV strain, tachycardia, ischaemia.\nCXR\n\nInvestigations that have been used for diagnosis include:\n\nMaternal PA blood sampling for squamous epithelial cells\nDrawn from a wedged PAC.\nHistological analysis of cervix\nIf a hysterectomy has been performed\nAutopsy"
   },
   {
     "objectID": "disease/cvs/afe.html#management",
@@ -8789,7 +8789,7 @@
     "href": "disease/neuro/seizure.html#investigations",
     "title": "Seizure",
     "section": "Investigations",
-    "text": "Investigations\nBlood:\n\nABG\n\nLactate\nBSL\n\nFBE/Coagulation assay\nUEC/CMP\nLFTs\nDrug lvels\n\nCXR:\n\nIf concern for aspiration"
+    "text": "Investigations\nBlood:\n\nABG\n\nLactate\nBSL\n\nFBE/Coagulation assay\nUEC/\nLFTs\nDrug lvels\n\nCXR:\n\nIf concern for aspiration"
   },
   {
     "objectID": "disease/neuro/seizure.html#rx",
@@ -8866,7 +8866,7 @@
     "href": "disease/neuro/epilepsy.html#investigations",
     "title": "Epilepsy",
     "section": "Investigations",
-    "text": "Investigations\nBlood:\n\nUEC/CMP\nProlactin\n\nEEG:\n\nInterpretation may be difficult\nPatients with disease will have abnormalities ~50% of the time\n\nCT:\n\nEvaluation of structural cause\nE.g. tumour.\n\nMRI:\n\nEvaluation of structural cause\nIncrease sensitivity and specificity compared with CT."
+    "text": "Investigations\nBlood:\n\nUEC/\nProlactin\n\nEEG:\n\nInterpretation may be difficult\nPatients with disease will have abnormalities ~50% of the time\n\nCT:\n\nEvaluation of structural cause\nE.g. tumour.\n\nMRI:\n\nEvaluation of structural cause\nIncrease sensitivity and specificity compared with CT."
   },
   {
     "objectID": "disease/neuro/epilepsy.html#management",
@@ -10766,6 +10766,83 @@
     "text": "References\n\nLata J. Hepatorenal syndrome. World J Gastroenterol. 2012 Sep 28;18(36):4978–84.\nVaja R, McNicol L, Sisley I. Anaesthesia for patients with liver disease. Contin Educ Anaesth Crit Care Pain. 2010 Feb 1;10(1):15–9."
   },
   {
+    "objectID": "disease/git/alf.html#epidemiology-and-risk-factors",
+    "href": "disease/git/alf.html#epidemiology-and-risk-factors",
+    "title": "Acute Liver Failure",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors"
+  },
+  {
+    "objectID": "disease/git/alf.html#pathophysiology",
+    "href": "disease/git/alf.html#pathophysiology",
+    "title": "Acute Liver Failure",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\n\nDirect hepatocyte damage\nImmune response\n\nLocal\nSystemic\n\nMODS\n\n\nCerebral dysfunction\n\nOedema\nAltered autoregulation\n\n\n\nAetiology\n\nIschaemia\nVascular\nInfection\nAutoimmune\nDrugs/toxins\n\nParacetamol\n50-70% in the developed world.\nAspirin\nReye’s syndrome.\nAlcohol\nHerbal\nHalothane\n\nPregnancy-related\n\n\nAcute fatty liver of pregnancy\nSevere pre-eclampsia"
+  },
+  {
+    "objectID": "disease/git/alf.html#clinical-manifestations",
+    "href": "disease/git/alf.html#clinical-manifestations",
+    "title": "Acute Liver Failure",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations\nHistory:\n\n\nHepatic encephalopathy graded into:\n\nMild confusion/irritability, ↓ attention\nDisorientation, drowsiness, inappropriate\nSomnolent but rousable, incoherent\nComa\n\n\nOverdose\nCNS\n\nConfusion\nAgitation\n\nGI\n\nNausea/Vomiting\n\n\nExamination:\n\nAsterixis\nHyperreflexia\nJaundice"
+  },
+  {
+    "objectID": "disease/git/alf.html#diagnostic-approach-and-ddx",
+    "href": "disease/git/alf.html#diagnostic-approach-and-ddx",
+    "title": "Acute Liver Failure",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
+  },
+  {
+    "objectID": "disease/git/alf.html#investigations",
+    "href": "disease/git/alf.html#investigations",
+    "title": "Acute Liver Failure",
+    "section": "Investigations",
+    "text": "Investigations\nBlood:\n\nLiver function testing\nSeverity and pattern of injury:\n\nHepatocellular\nCholestatic\n\nPoint of care coagulation studies\nMay be more accurate than standard assays.\nCoagulation studies\n\nSynthetic function\n\nLactate\nFailure of hepatic clearance.\nAmmonia\nNeurotoxin responsible for much of hepatic encephalopathy. ↑ Ammonia may reflect:\n\nHepatic metabolic dysfunction\nDegree of hepatic dysfunction typically correlates with ammonia level, though not with the degree of encephalopathy.\n↑↑ Protein intake\n↑ GI ammonia production\nProduced by gut bacteria.\n↓ Clearance\nUrea cycle disorder.\n\nUEC\n\n\nAKI\nElectrolyte derangements\n\nFBE\n\nAnaemia\nThrombocytopaenia\nConcurrent infection\n\nLipase/amylase\n\nAssociated pancreatitis\n\nParacetamol level\nLDH\nMalignancy.\nViral screen\nAetiology. Include:\n\nHepatitis A/B/C/E\nEBV\nHSV\nVZV\nHIV 1/2\n\nAutoimmune screen\n\nANA\nAutoimmune.\nAnti-smooth muscle Ab\nAutoimmune.\nAnti-mitochondrial Ab\nPrimary sclerosing cholangitis.\nCopper studies\nWilson’s disease.\n\nPregnancy test\n\nUrine:\n\nDrug screen\n\nParacetamol\n\n\nRadiology:\n\nTTE\n\nRV function\n\nLiver ultrasound\n\nSplenomegaly\nAscites\nNodularity\nHepatomegaly\nPortal blood flow\nPortal patency\n\nCT\nTriple-phase liver.\n\nPathology:\n\nLiver biopsy"
+  },
+  {
+    "objectID": "disease/git/alf.html#management",
+    "href": "disease/git/alf.html#management",
+    "title": "Acute Liver Failure",
+    "section": "Management",
+    "text": "Management\n\nGoals of therapy are:\n\nIdentify cause\nSupportive care to limit hepatic damage\nEarly identification of patients for transplant\n\nSignificant improvement in outcomes with emergency liver transplantation\nEarly escalation to critical care and early referral to a specialist centre is essential\n\n\n\nResuscitation:\n\n\n\n\nKing’s College Criteria for Liver Transplantation\n\n\n\n\n\n\nParacetamol Toxicity\nOther Cause\n\n\n\n\n\npH <7.25 and\nLactate >3mmol/L\n\nOr: - PT >100s and - Cr >300umol/L and - Grade 3/4 encephalopathy\n\nPT >100s\n\nOr 3 of: - Age <10 or >40 - Hyperacute - Seronegative/drug induced - Bilirubin >300umol/L - PT >50s\n\n\n\nThe King’s criteria are widely used but validation is less well supported, particularly in the paracetamol cohort.\n\nAn alternative to the King’s criteria is the MELD score, which predicts 90 day survival using:\n\nBilirubin\nINR\nCreatinine\n\n\n\nA\nConsider securing if:\n\nHigh grade (III/IV) encephalopathy\nNeed for transfer B\nCO2 control for ICP management\n\nC\n\nClassically distributive shock picture\n\nNoradrenaline\n\n\nD\n\n↑ ICP\n\n\nControl with standard ICP management\n\n\n\nSpecific therapy:\n\nLiver transplantation\nExtra-corporeal hepatic support\nArtificial, extra-corporeal liver replacement therapy. Broadly, ↓ encephalopathy and ↑ haemodynamic function without mortality benefit. May be:\n\nBiological\nUsing human/porcine cells.\nMechanical\nMolecular filtration.\n\n\nUnderlying cause:\n\nAlcoholic hepatitis\nParacetamol overdose\n\nN-acetyl cysteine\n\n150mg/kg load, then 50mg/kg over 4 hours\n\n\nHepatitis B\n\nLamivudine\nBenefit if given early.\n\nWilson’s disease\n\nD-Penicillamine\nChelates copper.\n\nHepatic vein thrombosis\n\nLysis\nClot retreival\nTIPS\n\nViral hepatitis\n\nAntivirals\n\n\nSupportive care:\n\nB\n\nLung protective ventilation\nARDS risk.\nDrain pleural effusions\n\nD\n\n↑ ICP\n\n\nConsider invasive ICP management if all of:\n\nGrade 3-4 encephalopathy\nHyperacute liver failure\nAmmonia >150mmolL\nYoung\n\n\n\nE\n\n↓ BSL\nUse high-concentration dextrose to avoid cerebral oedema/↓ Na+.\n\nF\n\n↓ Phosphate\nReplenish.\nRRT\n\n\nAvoid citrate!\nCRRT preferential due to haemodynamics\nIn addition to standard indications, consider for:\n\nHyperammonaemia\nAim <100umol/L to ↓ cerebral oedema.\nHypothermia\n\n\n\nG\n\nEarly enteral feeding\nMay have ↑ metabolic requirements. No change in protein requirement.\nLactulose\nControversial. May ↓ hepatic encephalopathy but lead to gaseous intestinal distension.\nPPI\nDrain ascites\nFor haemodynamic benefit.\n\nH\n\nCoagulopathy\nTreat if bleeding or prior to procedures. Patients may be prothrombotic, anti-thrombotic, or fibrinolytic, and the assays themselves (both coagulation profiles and point-of-care testing) may not correlate with the observed clinical effect.\n\nVitamin K\nVery reasonable, probably ineffective.\n\n\n\nDisposition:\n\nLiver transplant centre\n\n\nIneffective Therapies"
+  },
+  {
+    "objectID": "disease/git/alf.html#anaesthetic-considerations",
+    "href": "disease/git/alf.html#anaesthetic-considerations",
+    "title": "Acute Liver Failure",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "disease/git/alf.html#complications",
+    "href": "disease/git/alf.html#complications",
+    "title": "Acute Liver Failure",
+    "section": "Complications",
+    "text": "Complications\n\nDeath\n\nIntracranial hypertension\nClassically if untreated.\nSepsis/multiorgan failure\n\nA\n\nUnprotected airway\n\nB\n\nARDS\nRelatively intolerant of permissive hypercapnoea due to ↑ ICP concerns.\nPleural effusions\n\nC\n\nDistributive shock\n\nD\n\nIntracranial hypertension\nHepatic encephalopathy\n\nF\n\nAKI (hepatorenal syndrome)\n40-80% of cases.\n\n↑ In paracetamol toxicity (directly nephrotoxic)\n\n\nG\n\n↓ BSL\nPancreatitis\nAscites\n\nH\n\nCoagulopathy\nMay be variable and not in keeping with assays.\nBone marrow suppression\n\nThrombocytopaenia\n\n\nI\n\nInfection\n↑ Susceptibility."
+  },
+  {
+    "objectID": "disease/git/alf.html#prognosis",
+    "href": "disease/git/alf.html#prognosis",
+    "title": "Acute Liver Failure",
+    "section": "Prognosis",
+    "text": "Prognosis\n\nEligibility for transplantation is determined using one of the prognostic scores, such as MELD or the King’s College criteria.\n\nFactors:\n\nAge ↑ Mortality with ↑ age.\nAetiology ↓ Mortality with pregnancy-related causes.\nAcuity\n↑ Mortality with ↑ acuity.\n\nTransplantation:\n\n80% 5-year survival following liver transplant for ALF"
+  },
+  {
+    "objectID": "disease/git/alf.html#key-studies",
+    "href": "disease/git/alf.html#key-studies",
+    "title": "Acute Liver Failure",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/git/alf.html#references",
+    "href": "disease/git/alf.html#references",
+    "title": "Acute Liver Failure",
+    "section": "References",
+    "text": "References\n\nAziz, Riaz, Jennifer Price, and Banwari Agarwal. Management of Acute Liver Failure in Intensive Care. BJA Education 21, no. 3 (March 2021): 110–16. https://doi.org/10.1016/j.bjae.2020.11.006."
+  },
+  {
     "objectID": "disease/endo/phaeo.html#epidemiology-and-risk-factors",
     "href": "disease/endo/phaeo.html#epidemiology-and-risk-factors",
     "title": "Phaeochromocytoma",
@@ -10791,7 +10868,7 @@
     "href": "disease/endo/phaeo.html#investigations",
     "title": "Phaeochromocytoma",
     "section": "Investigations",
-    "text": "Investigations\nDiagnosis:\n\nMetanephrines\n\nBreakdown products of catecholamines\n\nMetanephrine\nNormetanephrine\nHomovanillic acid for dopamine\n\nCan be measured in urine and plasma\nUnsure which is superior.\n\nUrinary more specific\nPlasma more sensitive\n\nMany causes of false-positives:\n\nExercise\nVenous sampling whilst sitting\nDiet\nRenal impairment\nMedications\n\n\nImaging\n\nHalf of cases are diagnosed incidentally on CT or MRI\nCT\nMRI\nBetter sensitivity for paraganglionomas.\n\n\nEvaluation of haemodynamic effects:\n\nEchocardiography\nMandatory.\nECG\nCardiac enzymes\nUEC/CMP"
+    "text": "Investigations\nDiagnosis:\n\nMetanephrines\n\nBreakdown products of catecholamines\n\nMetanephrine\nNormetanephrine\nHomovanillic acid for dopamine\n\nCan be measured in urine and plasma\nUnsure which is superior.\n\nUrinary more specific\nPlasma more sensitive\n\nMany causes of false-positives:\n\nExercise\nVenous sampling whilst sitting\nDiet\nRenal impairment\nMedications\n\n\nImaging\n\nHalf of cases are diagnosed incidentally on CT or MRI\nCT\nMRI\nBetter sensitivity for paraganglionomas.\n\n\nEvaluation of haemodynamic effects:\n\nEchocardiography\nMandatory.\nECG\nCardiac enzymes\nUEC/"
   },
   {
     "objectID": "disease/endo/phaeo.html#mx",
@@ -11813,7 +11890,7 @@
     "href": "disease/tox/serotonin-syndrome.html#investigations",
     "title": "Serotonin Syndrome",
     "section": "Investigations",
-    "text": "Investigations\nDiagnosis is clinical. Investigations usually targeted towards ruling out other causes, or identifying complications.\nBloods:\n\nUEC/CMP\nRhabdomyolysis.\nCoagulation screen\nDIC.\n\nImaging:\n\nCTB\n\nOther:\n\nLP\nEncephalitis.\nEEG"
+    "text": "Investigations\nDiagnosis is clinical. Investigations usually targeted towards ruling out other causes, or identifying complications.\nBloods:\n\nUEC/\nRhabdomyolysis.\nCoagulation screen\nDIC.\n\nImaging:\n\nCTB\n\nOther:\n\nLP\nEncephalitis.\nEEG"
   },
   {
     "objectID": "disease/tox/serotonin-syndrome.html#management",
@@ -12632,7 +12709,14 @@
     "href": "investigations/blood/lft.html#interpretation",
     "title": "Liver Function Tests",
     "section": "Interpretation",
-    "text": "Interpretation\n\n\n\n\n\n\n\n\nPattern\nPresentation\nCauses\n\n\n\n\nCholestatic\n\nALP >200\nALP >3x AST\n\n\nBiliary obstruction\nMalignancy\nPregnancy\nDrugs\n\n\n\nHepatitic\n\nALT >200\nALT >3x ALP\n\n\nHepatocellular destruction\nHepatitis\nEBV\nCMV\nAlcohol\nDrugs\nMetal overload\nAutoimmune"
+    "text": "Interpretation\n\n\n\n\n\n\n\n\nPattern\nPresentation\nCauses\n\n\n\n\nCholestatic\n\nALP >200\nALP >3x AST\n\nHepatic:\n\nCholestasis of pregnancy\nPrimary biliary cirrhosis\nPrimary sclerosing cholangitis\nHepatitis\nDrug toxicity\nMalignancy\n\nExtrahepatic:\n\nCholedocholithiasis\nCholangitis\nPancreatitis\n\n\n\nHepatitic\n\nALT >200\nALT >3x ALP\n\nCirculatory:\n\nRight heart failure\nIschaemic hepatitis\n↑ Venous pressures\n\nMetabolic:\n\nHaemochromatosis\nWilson’s disease\nα1-antitrypsin deficiency\n\nGI:\n\nFatty liver\nNASH\nPancreatitis\n\nTrauma:\n\nSurgical\nHepatic injury\n\nInfective:\n\nViral hepatitis\n\nToxin:\n\nAlcohol\nParacetamol\nMushrooms\nAmanita phalloides.\n\nObstetric:\n\nCholestasis of pregnancy\n\nCongenital:\n\nGlycogen storage disease\n\n\n\n\nALT >> AST\nHepatic:\n\nAlcoholic toxicity/hepatitis\nEarly hepatic ischaemia\n\nExtrahepatic:\n\nRhabdomyolysis\nMI\n\n\n\n\nAST >> ALT\n\nViral\nDrugs\n\n\n\nBilirubin\n↑ Unconjugated\n↑ Production:\n\nHaemolysis\nTransfusion\nResorption (haematomas, UGIB)\n\n↓ Uptake:\n\nGilbert’s syndrome\nDrugs\n\n↓ Conjugation:\n\nGilbert’s syndrome\nPhysiological jaundice of the newborn\n\n\n\n\n↑ Conjugated\n\nBiliary obstruction\nFailure to excrete\nSyndromal.\n\n\n\nOther\nIsolated ↑ GGT\n\nMI\nMyocarditis\nCOPD\nDiabetes\nRenal failure\n\nDrugs: - Alcohol - Phenytoin - Flucloxacillin - Barbiturates\n\n\n\n↑ ALP\nPhysiological:\n\n3rd trimester\nChildren/adolescents\nFamilial\n\nHepatic:\n\nObstruction\nPrimary biliary cirrhosis\nPrimary sclerosing cholangitis\nCholestasis\nMetastatic\n\nExtra-hepatic:\n\nBone disease\nSarcoid\nHyperthyroidism"
+  },
+  {
+    "objectID": "investigations/blood/lft.html#other-investigations-for-liver-disease",
+    "href": "investigations/blood/lft.html#other-investigations-for-liver-disease",
+    "title": "Liver Function Tests",
+    "section": "Other Investigations for Liver Disease",
+    "text": "Other Investigations for Liver Disease\nBlood:\n\nCoagulation\n\nIndicator of synthetic function\n\n↑ INR if fat-soluble vitamin intake, absorption, or storage are impaired\n↑ APTT if synthesis impaired\n\nMixing studies demonstrate reversibility with normal plasma\n\nAmylase/Lipase\nExclude concomitant pancreatitis.\n\nRadiology:\n\nLiver ultrasound\n\nBile duct obstruction\nHepatic vascular supply\nHepatic texture\n\n\nPathology:\n\nLiver biopsy"
   },
   {
     "objectID": "investigations/csf.html",
