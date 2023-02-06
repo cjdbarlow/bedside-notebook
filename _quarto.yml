@@ -590,7 +590,9 @@ book:
           chapters:
             - disease/renal/aki.qmd
             - disease/renal/ckd.qmd
-        # - part: "Prerenal"
+        - part: "Prerenal"
+          chapters:
+            - disease/renal/hepatorenal.qmd
         #   chapters:
             # Renovascular
         # - part: "Intrarenal"
@@ -610,8 +612,8 @@ book:
         chapters:
         - part: "Hepatic"
           chapters:
-            - disease/git/cld.qmd
             - disease/git/alf.qmd
+            - disease/git/cld.qmd
             # Portal HTN
         # - part: "Biliary"
         #   chapters:

@@ -12,7 +12,7 @@ End result of a process of progressive destruction and regeneration of liver par
 
 ### Aetiology
 
-Causes include:
+Common causes include:
 
 * Viral hepatitis  
 	* Hepatitis B
@@ -73,36 +73,11 @@ Classified into:
 		* Coagulopathy  
 		Reduced synthesis of both pro- and anti-coagulant factors.
 
-### Child-Pugh Score
 
-Score to assess prognosis of cirrhosis:
-
-* Initially developed to predict perioperative mortality
-* Validated for prognostication and to assess necessity of liver transplantation
-
-|Value|1 point|2 points|3 points|
-|--|--|-
-|**Total bilirubin** (μmol/L)|⩽34|34-50|⩾50|
-|**Serum albumin** (g/dL)|⩾3.5|2.8-3.5|⩽2.8|
-|**PT** (s)|⩽4|4-6|⩾6
-|**INR**|⩽1.7|1.7-2.3|⩾2.3|
-|**Ascites**|None|Mild/medically controlled|Moderate to severe/refractory|
-|**Hepatic encephalopathy**|None|Grade I-II|Grade III-IV|
-
-Patients are then risk stratified as follows:
-
-|Class|Points|One-year survival|
-|--|--|
-|A|5-6|100%|
-|B|7-9|80%|
-|C|10-15|45%|
 
 ### MELD Score
 
-Model for End-Stage Liver Disease score:
 
-* Initially developed to predict mortality for TIPS
-* Subsequently used to prognosticate and prioritise liver transplantation
 
 Uses:
 
@@ -130,7 +105,9 @@ Bloods:
 
 ### Anaesthetic Considerations
 
->End-stage liver disease associated with high perioperative morbidity and mortality
+:::caution
+End-stage liver disease associated with high perioperative morbidity and mortality.
+:::
 
 * A
 	* Aspiration risk  
@@ -153,23 +130,71 @@ Bloods:
 			* Aminosteroids have prolonged elimination
 * H
 	* Coagulopathy  
-		* 
+
 
 ### Ineffective Therapies
 
 ## Complications
 
-Major complications include:
+* C
+	* Hepatopulmonary syndrome
+* D
+	* Hepatic encephalopathy
+* F
+	* Hepatorenal syndrome
+* G
+	* Variceal bleeding
+	* Ascites
+	* Spontaneous bacterial peritonitis\
+	Usually single organism.
+	* Hepatocellular carcinoma
+	* Decompensation
+* I
+	* Sepsis
 
-* Variceal bleeding
-* Ascites
-* Spontaneous bacterial peritonitis
-* Hepatic encephalopathy
-* Hepatocellular carcinoma
-* Hepatorenal syndrome
-* Hepatopulmonary syndrome
 
 ## Prognosis
+
+
+### Child-Pugh Score
+
+:::info
+This is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.
+\
+MELD (see @sec-alfscoring) is equally poor in predicting outcome in the ICU patient.
+:::
+
+Score to assess prognosis of cirrhosis:
+
+* Initially developed to predict perioperative mortality
+* Validated for prognostication and to assess necessity of liver transplantation
+
+| Value                          | 1 point  | 2 points                   | 3 points                       |
+| ------------------------------ | -------- | -------------------------- | ------------------------------ |
+| **Total bilirubin** (μmol/L)   | ⩽34      | 34-50                      | ⩾50                            |
+| **Serum albumin** (g/dL)       | ⩾3.5     | 2.8-3.5                    | ⩽2.8                           |
+| **PT** (s)                     | ⩽4       | 4-6                        | ⩾6                             |
+| **INR**                        | ⩽1.7     | 1.7-2.3                    | ⩾2.3                           |
+| **Ascites**                    | None     | Mild/medically controlled  | Moderate to severe/refractory  |
+| **Hepatic encephalopathy**     | None     | Grade I-II                 | Grade III-IV                   |
+
+:::column-margin
+There are many issues with the Child-Pugh score:
+
+* Subjective assessments have inter-observer variability
+* Evaluation of ascites has progressed since the '60s when the score was developed
+* Excludes effects of concomitant disease
+
+:::
+
+Patients are then risk stratified as follows:
+
+| Class  | Points  | One-year survival  |
+| ------ | ------- | ------------------ |
+| A      | 5-6     | 100%               |
+| B      | 7-9     | 80%                |
+| C      | 10-15   | 45%                |
+
 
 ## Key Studies
 

@@ -1,0 +1,115 @@
+# Hepatorenal Syndrome
+
+Form of pre-renal failure which:
+
+* Occurs in the setting of severe chronic liver disease\
+Usually with portal hypertension.
+* Is unresponsive to fluid therapy
+
+
+## Pathophysiology
+
+* Hepatic dysfunction leads to drastic splanchnic NO overproduction and splanchnic vasodilation
+Circulating volume is sequestered in the dilated splanchnic circulation.
+* RAAS activation occurs in the setting of apparent hypovolaemia
+	* ↑ Renin constricts afferent arteriole and ↓ renal perfusion
+	* Systemic vasoconstrictor release does not overcome splanchnic NO production\
+		* There is a global **↓** in **SVR** and ↑ in CO
+		* Progressively more volume is sequestered in the splanchnic circulation
+		* Renal perfusion suffers due to ↓ SVR and ↑ afferent arteriolar constriction
+* Ascites\
+High volume ascites contributes to ↑ IAP and compression of the kidney.
+
+### Aetiology
+
+Often insidious, but acute decline is usually precipitated by another renal-failure inducing event:
+
+:::column-margin
+The difference between "AKI secondary to hypovolaemia/NSAID/etc" and "hepatorenal syndrome secondary to hypovolaemia" is the **reversibility**.
+\
+If the AKI recovers after volume administration, then it was standard pre-renal failure; if it doesn't, then it's hepatorenal syndrome.
+:::
+
+* Volume loss
+	* Large paracentesis without albumin replacement
+	* Diuresis
+	* Bleeding
+* Infection
+	* SBP
+	* Sepsis
+* Nephrotoxins
+
+## Clinical Manifestations
+
+Constellation of:
+
+* Biochemical renal failure
+* Minimal proteinuria
+* Low sodium excretion\
+Urinary Na <10mmol/L.
+* Oliguria or normal urine output\
+Especially early.
+
+## Diagnostic Approach and DDx
+
+Diagnosis requires all of:
+
+* Renal failure
+	* Creatinine >150mmol/L
+	* Non-responsive to fluid and albumin resuscitation
+* Chronic liver disease
+	* Ascites
+	* Cirrhosis
+* Absence of another cause:
+	* Nephrotoxins
+	* Intra-renal disease\
+	i.e. No:L
+		* Proteinuria
+		* Microhaematuria
+		* Sonoanatomical renal abnormality
+
+
+Other differentials include:
+
+* Pre-renal failure
+	* Cessation of beta-blockade
+* ATN
+
+
+## Management
+
+**Resuscitation**:\
+
+Focuses on the restoration of renal blood flow and renal perfusion pressure:
+
+* Volume\
+Classically albumin.
+* Systemic vasoconstrictors\
+Aim ↑ MAP by 10-15mmHg above presentation (at least >80mmHg).
+	* Discontinue anti-hypertensives
+	* Predominantly noradrenaline
+	* Midodrine safe and effective
+* Splanchnic vasoconstrictors
+	* Terlipressin\
+	1-2mg IV Q4-6H.
+	* Octreotide\
+	100ug SC Q8H or 50ug/hr IV infusion.
+
+
+**Specific therapy**:
+
+* TIPS\
+↓ Ascites production.
+* Liver transplantation
+
+
+## Prognosis
+
+Indicative of very high mortality without liver transplantation.
+
+## Key Studies
+
+
+---
+
+## References

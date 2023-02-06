@@ -141,7 +141,7 @@ RVEDP: Right Ventricular End-Diastolic Pressure
 RVEDP: Right Ventricular End-Diastolic Volume
 SAM: Systolic Anterior Motion (of the mitral valve)
 SAQ: Short Answer Question
-SBP: Systolic Blood Pressure
+SBP: Systolic Blood Pressure or Spontaneous Bacterial Peritonitis
 SCC: Squamous Cell Carcinoma
 SCV: Subclavian Vein
 SLE: Systemic Lupus Erythematosus
@@ -155,6 +155,7 @@ TB: Tuberculosis
 TBW: Total Body Water
 TDP: Torsades de Pointes
 TIA: Transient Ischaemic Attack
+TIPS: Transjugular Intrahepatic Portosystemic Shunt
 TLC: Total Lung Capacity
 TLS: Tumour Lysis Syndrome
 TNF: Tumour Necrosis Factor
