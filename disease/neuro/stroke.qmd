@@ -338,7 +338,7 @@ Establish:
 
 **Disposition**:
 
-* Mortality and morbidity are higher with specialist stroke unit admission\
+* Mortality and morbidity are improved with specialist stroke unit admission\
 Avoid ICU admission if possible.
 
 ### Ischaemic Stroke
@@ -351,7 +351,7 @@ Avoid ICU admission if possible.
 		* Before thrombolysis: <185/<110
 		* After thrombolysis: <180/105
 		* No thrombolysis: <220/<120 or end-organ damage\
-		Reduce cautiously (aim <15% reduction/24 hours) if not urgently required - ↑ morbidity with rapid ↓.
+		↓ Cautiously (aim <15% reduction/24 hours) if not urgently required - ↑ morbidity with rapid ↓.
 		* Agents
 			* Labetalol 10-20mg IV
 	* Hypotension\
@@ -361,7 +361,12 @@ Avoid ICU admission if possible.
 
 **Specific therapy**:
 
-* Pharmacological
+* **Reperfusion**\
+	* Intravenous thrombolysis
+ 	* Intraarterial thrombolysis\
+ 	↑ Recanalisation rates but ↑↑ ICH.
+ 	* Thrombectomy
+ * Pharmacological
 	* **Aspirin**\
 	Load (300mg) within **48** hours, but delay:
 		* **24** hours following **thrombolysis**
@@ -376,11 +381,7 @@ Avoid ICU admission if possible.
 		* MMCAS with mass effect
 		* Cerebellar infarction with posterior fossa syndrome\
 		Much better outcomes than for MMCAS.
-* **Reperfusion**\
-	* Intravenous thrombolysis
- 	* Intraarterial thrombolysis\
- 	↑ Recanalisation rates but ↑↑ ICH.
- 	* Thrombectomy
+
 
 ### Reperfusion
 

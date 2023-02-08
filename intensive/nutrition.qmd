@@ -11,8 +11,8 @@ Supplemental non-protein nutrition supplementation lower than daily expenditure,
 Feeding <500kcal/day.
 * Permissive underfeeding\
 Feeding 40-60% of daily required calories.
-::
-:
+:::
+
 * **Acute Phase**\
 <7 days.
 	* **Early acute** period (**<2 days**)
@@ -81,9 +81,9 @@ Can be provided as either **carbohydrate** (functionally dextrose) or **lipid**,
 		Extremes of obesity, temperature, estimated metabolic rate.
 		* Requires a metabolic cart that is rarely available and requires additional eperteise
 	* **Estimate expenditure**\
-	Point estimate of VCO~2~ from ventilator, or VO~2~ from PAC.
+	Point estimate of VCO~2~ from ventilator.
 		* Affected by changes to respiratory quotient in the critically ill
-	* Predictive **equations**
+	* Predictive **equations**\
 	Many (i.e., >200) equations exist to evaluate different patient populations, basically all are poorly calibrated.
 * **Protein**\
 	* Assume **1-2g/kg/day**\

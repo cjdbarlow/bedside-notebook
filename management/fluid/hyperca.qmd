@@ -9,7 +9,7 @@ No formal severity grading exists, but a reasonable stratification is:
 Often asymptomatic, urgent correction not required.
 * 3.0-3.4mmol/L: Moderate\
 Acute occurrence often symptomatic and demands prompt treatment.
-* >3.4mmol/L: Severe\
+* \>3.4mmol/L: Severe\
 Urgent treatment required due to risk of dysrhythmias.
 :::
 
@@ -212,7 +212,7 @@ Include:
 * F
 	* AKI
 * G
-	Pancreatitis
+	* Pancreatitis
 
 ## Prognosis
 

@@ -51,7 +51,7 @@ IRIS requires both recovery from an immunosuppressed state and a precipitant:
 	* Resolution of Neutropenia
 	* Withdrawal of TNF antagonists
 * **Precipitant**
-	* Latent\opportunistic infections\
+	* Latent/opportunistic infections\
 	Classically:
 		* TB
 		* *Mycobacterium avium*
@@ -74,7 +74,7 @@ Diagnosis is made clinically:
 
 * Improvement in immunological function
 	* From a suitable nadir of immunosuppression
-		* In HIV/AIDS, a CD4 nadir of <100 cells/µl is usually required (or <200 for TB)
+		* In HIV\\/AIDS, a CD4 nadir of <100 cells/µl is usually required (or <200 for TB)
 	* Adequate return of function
 
 
@@ -93,10 +93,12 @@ Should focus on:
 * Alteration to immunotherapy
 * Symptomatic relief
 
-Include:
+
+## Complications
 
 * ↑ HAART resistance
 * ↓ HAART compliance
+
 
 ## Prognosis
 
@@ -104,6 +106,7 @@ Varies depending on the organ involvement:
 
 * Majority of cases are mild and self-limiting
 * **CNS** or **pulmonary** involvement may lead to **death** or severe neurological morbidity.
+
 
 
 
