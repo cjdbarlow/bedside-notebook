@@ -405,7 +405,8 @@ book:
           chapters:
             - intensive/persistent.qmd
             - intensive/nutrition.qmd
-            # Feeding
+            - intensive/physio.qmd
+            - intensive/design.qmd
         # FASTHUGS
         # Stress response
         - part: "Surgical"

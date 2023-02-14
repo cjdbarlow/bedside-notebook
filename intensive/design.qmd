@@ -1,0 +1,78 @@
+# Design and Organisation
+
+CICM classifies intensive care units into **three** levels:
+
+* Level I\
+Provide resuscitation and short-term cardiorespiratory support. Role in small district hospitals. Should have:
+	* FCICM as director
+	* Relationship with level II/III unit for transfer
+2. Level II\
+Provide general intensive care including multisystem life support. Large general hospital. Should have:
+	* FCICM for director and majority of intensivists
+	* Referral policy with level III unit for escalation
+3. Level III\
+All aspects of intensive care for indefinite periods. Major tertiary centre. Should have:\
+	* Commitment to education and research
+	* Pods of 8-15 patients
+
+## Design Considerations
+
+Layout:
+
+* Rapid access to other key parts of the hospital
+* Avenues for transport
+* Public reception
+* Storage rooms
+	* 10m^2^ per bed space
+	* No further than 30m from patient area
+* Sluice rooms
+* Family meeting rooms
+* Family support areas/waiting rooms\
+10m^2^ per 8 beds.
+	* Tea/coffee
+	* Toilets
+
+
+Patient rooms:
+
+* Should have three areas
+	* Patient zone
+	* Family zone
+	* Caregiver zone
+* Minimum 20m^2^\
+Larger for single rooms.
+* Adequate service outlets\
+For a level III ICU:
+	* 4 O~2~
+	* 3 air
+	* 3 suction
+	* 16-20 power
+	* 4 data
+	* Lighting
+* Natural light
+* Noise dampening design
+	* Baffles
+* Orientation aids
+* Isolation rooms\
+Additional requirements:
+	* Air quality
+		* HEPA filters in isolation rooms
+		* 15 air changes per hour
+	* 25m^2^
+
+
+
+## Policy
+
+Key elements:
+
+* Fire and evacuation plan
+* Sensible rostering
+* Adequate supervision for junior staff
+* Closed intensive care\
+Admission, discharge, management, and referral policies are under the control of the intensivist (rather than other unit clinicians having admitting rights). Associated with ↓ mortality.
+
+
+---
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

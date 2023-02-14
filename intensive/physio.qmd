@@ -1,0 +1,41 @@
+# Physiotherapy
+
+Roles of physiotherapy in the ICU:
+
+* Respiratory physiotherapy
+	* Therapeutic hyperinflation\
+	Aims to ↑ recruitment and ↓ airway resistance. Can be:
+		* Manual\
+		Use self-inflating circuit to deliver >150% of Vt.
+		* Ventilator-assisted\
+		Use ventilator to ↑ Vt by 200mL increments until Pip of 40cmH~2~O.
+	* Active Cycle of Breathing Technique\
+	Controlled breathing to ↑ secretion clearance in spontaneously ventilating patients.
+	* Suction\
+	Remove secretions via ETT.
+	* Chest shaking\
+	Oscillatory movement during expiration ↑ mucociliary clearance.
+	* Positioning\
+		* Sitting up to optimise V/Q matching
+		* Gravity-assisted positioning\
+		Adjust patient to position bronchopulmonary segment perpendicular to gravity to ↑ secretion drainage.
+		* Side-to-side turning\
+		↓ VAP.
+		* Proning\
+		↑ Oxygenation and ↓ mortality in ARDS.
+* Early rehabilitation\
+Aims to ↑ independence and ↓ severity of ICU-acquired weakness. Techniques exist for:
+	* Bed\
+	Cycle ergometry, passive movements, electrical stimulation, hoisting.
+	* Chair\
+	Postural exercises, balance and proprioception, core stability.
+	* Standing\
+	Marching, stairs, walking.
+* Positioning aids\
+↓ Contracture formation.
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
