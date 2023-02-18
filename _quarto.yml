@@ -79,10 +79,17 @@ book:
       chapters:
         - part: "**Resuscitation**"
           chapters:
-            - management/arrest/neonatal.qmd
-            - management/arrest/postcardiac.qmd
-            - management/arrest/oohca.qmd
-            - management/arrest/intrauterineresus.qmd
+            - management/resus/neonatal.qmd
+            - management/resus/postcardiac.qmd
+            - management/resus/oohca.qmd
+            - management/resus/intrauterineresus.qmd
+        - part: "Communication"
+          chapters:
+            - management/communication/concepts.qmd
+            - management/communication/types.qmd
+            - management/communication/family.qmd       
+            - management/communication/colleagues.qmd   
+            - management/communication/feedback.qmd         
         - part: <hr>
         - part: "Airway"
           chapters:
@@ -401,7 +408,7 @@ book:
     # Intensive Care
     - part: "Intensive Care"
       chapters:
-        - part: "General"
+        - part: "Concepts"
           chapters:
             - intensive/persistent.qmd
             - intensive/nutrition.qmd
