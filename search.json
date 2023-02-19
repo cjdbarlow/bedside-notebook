@@ -735,6 +735,69 @@
     "text": "References\n\nLohser J. Managing Hypoxemia During Minimally Invasive Thoracic Surgery. Anesthesiology Clinics. 2012;30(4):683-697.\nCollins SR, Titus BJ, Campos JH, Blank RS. Lung Isolation in the Patient With a Difficult Airway. Anesth Analg. 2018 Jun;126(6):1968–78."
   },
   {
+    "objectID": "management/cvs/pressure_monitoring.html#pressures",
+    "href": "management/cvs/pressure_monitoring.html#pressures",
+    "title": "Pressure Monitoring",
+    "section": "Pressures",
+    "text": "Pressures\nCommonly monitored haemodynamic pressures include:\n\nSystemic arterial pressures\nPulmonary artery pressures\n\nPCWP\n\nCentral venous pressure\n\n\nCentral Venous Pressure\n\n\nThe CVP, JVP, and RAP may vary in the setting of some pathologies, such as SVC stenosis causing SVC obstruction.\nThe CVP is the pressure in the vena cava, and by extension the RA. The CVP is:\n\nNormally:\n\n0-5mmHg in the spontaneously breathing (well) person\n<10mmHg in the positively-pressure ventilated person\nCorrelated with the PAWP\nThis relationship is often lost in illness.\n\nDownstream pressure for the circulation\nThe filling pressure for the right heart\n\n\n\nPulmonary Capillary Wedge Pressure\nThis is the left atrial back-pressure measured from the PAC tip when the balloon is inflated such that it fully occludes the vessel. The wedge pressure is:\n\nA surrogate for the LAP\nIn absence of flow (because of balloon occlusion), there will be no pressure component due to resistance and therefore the measured pressure should be ~LAP. This assumes:\n\nA continual column of blood between the catheter and the LA\nCatheter should be in West Zone 3.\n\nNot measured routinely\nRoutine wedging is the cause of much of the morbidity of PACs, due to the risk of PA rupture.\n\nMeasuring:\n\nGradually inflate the balloon until the normal PAP waveform disappears and is replaced with a (rather damped) looking version of the CVP waveform"
+  },
+  {
+    "objectID": "management/cvs/pressure_monitoring.html#pressure-monitoring-devices",
+    "href": "management/cvs/pressure_monitoring.html#pressure-monitoring-devices",
+    "title": "Pressure Monitoring",
+    "section": "Pressure Monitoring Devices",
+    "text": "Pressure Monitoring Devices\nArterial pressure monitoring evaluates:\n\nSBP\n\n\nGenerally, the determinate of bleeding\n\nMAP\n\nDeterminant of perfusion for most organs\nLeast dependent on measurement site or technique\nLeast affected by damping\n\nDBP\n\nDeterminant of myocardial perfusion pressure\n\n\n\nIntermittent Oscillometric Blood Pressure\nDetection of pulsation in a pneumatically inflated cuff over a proximal limb, which occludes and then reinflates to provide an indication of pressure in that vessel.\nPros:\n\nEasy\nRapid\nUncomfortable\n\nCons:\n\nNot always clinically appropriate\n\nPVD\nAV fistula\nLymphoedema\nSkin and muscular injury\nIV site location\n\nInaccurate in dysrhythmia\nOverestimates low pressures and underestimates high pressures\nMay lead to pressure injuries with repeated inflations\n\n\n\nContinuous Non-Invasive Blood Pressure\nBladder placed around a digit, which compresses the artery to a constant size (a volume-clamp). Arterial pulsation changes the volume of the clamp, which correlates to systemic blood pressure.\nPros:\n\nNon-invasive\nContinuous\n\nCons:\n\nNo blood gas sampling\nPoor at detecting rapid changes in haemodynamic state\nIntermittent pause in monitoring to allow finger perfusion\n\n\n\nInvasive Arterial Measurement\nDirect transduction of the pressure of a column of fluid that is connected to an intra-arterial catheter.\nPros:\n\nContinuous, accurate monitoring of pressure\nGas sampling\n\nCons:\n\nInvasive\n\nPainful\nInfective\nPositional\n\nRequires fluid infusion to maintain patency\nUsually 3mL/hr of saline (sometimes heparinised)."
+  },
+  {
+    "objectID": "management/cvs/pressure_monitoring.html#references",
+    "href": "management/cvs/pressure_monitoring.html#references",
+    "title": "Pressure Monitoring",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
+  },
+  {
+    "objectID": "management/cvs/co_monitoring.html",
+    "href": "management/cvs/co_monitoring.html",
+    "title": "Cardiac Output Monitoring",
+    "section": "",
+    "text": "Venous Oxygen Saturation\nVenous oxygen tension is an index of oxygen consumption, and can be sampled from the:"
+  },
+  {
+    "objectID": "management/cvs/co_monitoring.html#thermodilution",
+    "href": "management/cvs/co_monitoring.html#thermodilution",
+    "title": "Cardiac Output Monitoring",
+    "section": "Thermodilution",
+    "text": "Thermodilution\nThe principle of thermodilution is that a injection of cold fluid into the RA will transiently ↓ PA blood temperature, and that the mean ↓ in temperature is proportional to CO. Thermodilution may be:\n\nBolus\nInjectate of known volume and pressure administered rapidly via a central vein.\nSemi-continuous The PAC has a thermal coil on the RV section, which periodically “boluses” heat in a random fashion, and then monitors for the ↑ in PA temperature.\n\n\n\nThermodilution is an indicator dilution method, where a lower thermal energy content is the indicator.\nSources of error:\n\nMalposition\n\nThermistor on vessel wall\nWedged\n\nAbnormal respiratory patterns\nIntracardiac shunting\nBlood bypassing thermistor (right to left), or being diluted (left to right).\nTR\nArrhythmia\nOther infusions\nTechnical\n\nWrong injection volume\nSlow injection\nPoor temperature difference\nAccuracy is ↑ with a colder (0-12°C) fluid, but this may lead to dysrhythmias. Room temperature is acceptable."
+  },
+  {
+    "objectID": "management/cvs/co_monitoring.html#transpulmonary-dilution-techniques",
+    "href": "management/cvs/co_monitoring.html#transpulmonary-dilution-techniques",
+    "title": "Cardiac Output Monitoring",
+    "section": "Transpulmonary Dilution Techniques",
+    "text": "Transpulmonary Dilution Techniques\nAll of these techniques inject an indicator into a central vein, and measure the indicator in a central artery. In addition to CO/CI, they may also report:\n\nIntrathoracic Blood Volume\nVolumetric preload index that may be more accurate than pressure-based preload indices CVP, PAWP, which are rather inaccurate).\nExtravascular Lung Water\nGlobal End-Diastolic Volume\n\nMethods include:\n\nThermodilution\nCold injectate into a central vein, with central arterial (femoral, axillary) temperature change measured as described above.\nLithium dilution\nSmall, non-toxic lithium doses are injected centrally or peripherally and measured by an ion-sensitive electrode in a peripheral artery.\n\nDoesn’t require central arterial access\nNot accurate in patients receiving lithium therapy\nNo volumetric measurements"
+  },
+  {
+    "objectID": "management/cvs/co_monitoring.html#references",
+    "href": "management/cvs/co_monitoring.html#references",
+    "title": "Cardiac Output Monitoring",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
+  },
+  {
+    "objectID": "management/cvs/regional.html",
+    "href": "management/cvs/regional.html",
+    "title": "Regional Blood Flow",
+    "section": "",
+    "text": "Near-Infrared Spectroscopy\nTechnique to quantify tissue oxygen saturation as a marker of adequacy of regional perfusion."
+  },
+  {
+    "objectID": "management/cvs/regional.html#references",
+    "href": "management/cvs/regional.html#references",
+    "title": "Regional Blood Flow",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
+  },
+  {
     "objectID": "management/cvs/iabp.html#indications",
     "href": "management/cvs/iabp.html#indications",
     "title": "Intra-aortic Balloon Pump",
@@ -7672,6 +7735,83 @@
     "text": "References\n\nMetra M, Teerlink JR. Heart failure. Lancet. 2017;6736(17). doi:10.1016/S0140-6736(17)31071-1.\nABC of heart failure: Clinical features and complications [Internet]. [cited 2019 Dec 9]. Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1117436/"
   },
   {
+    "objectID": "disease/cvs/shock.html#epidemiology-and-risk-factors",
+    "href": "disease/cvs/shock.html#epidemiology-and-risk-factors",
+    "title": "Shock",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors"
+  },
+  {
+    "objectID": "disease/cvs/shock.html#pathophysiology",
+    "href": "disease/cvs/shock.html#pathophysiology",
+    "title": "Shock",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\nKey pathophysiological concepts in shock include:\n\nOxygen delivery\nDysoxia\n\n\nOxygen Delivery\nDelivery of oxygen to tissues is a key function of the cardiovascular system, and is given by the following equation:\n\n\nPractically, oxygen delivery is dependent on three things:\n\nCardiac output\nArterial oxygen saturation\nHaemoglobin\n\n\\(DO_2 = CO \\times (1.34 \\times [Hb] \\times SpO_2 + PaO_2 \\times 0.003)\\), where:\n\n\\(DO_2\\) is the delivery of oxygen (mL/min)\nNormal DO2 is ~1L/min, whilst normal VO2 is ~250mL/min.\n\\(CO\\) is the Cardiac Output (L/min)\n\\([Hb]\\) is the arterial haemoglobin concentration (g/L)\n\\(SpO_2\\) is the arterial oxygen saturation (%)\n\\(PaO_2\\) is the arterial oxygen partial pressure (mmHg)\n\n\n\nThe 1.34 in the oxygen delivery equation refers to millilitres of oxygen bound to each gram of haemoglobin.\n\n\nDysoxia\nDysoxia occurs when oxygen delivery is inadequate to oxygen demand. Harm from dysoxia is a function of:\n\nDuration\nLimited with rapid correction.\nTissue type\nHigh oxygen demand and extraction organs have poor tolerance to tissue hypoxia.\n\nHypoxia sensitive:\n\nHeart\nBrain\n\nHypoxia less-sensitive:\n\nKidney\nSkin\n\n\n\nDysoxia can occur when DO2 is apparently adequate, and results from either:\n\nFailure of cells to utilise available oxygen\nSometimes referenced as histotoxic shock or cytopathic hypoxia.\nIntra-organ arteriolar shunting preventing oxygen delivery to the cell, despite adequate organ oxygen delivery\n\n\n\n\nAetiology\nCauses by mechanism include:\n\nHypovolaemic\n\nBlood loss\n\nTrauma\nPulmonary haemorrhage\nGIT\nObstetric\nRetroperitoneal\nIntra-abdominal\n\nFluid loss\n\nGIT losses\nSweating\nPolyuria\nPancreatitis\nBurns\n\n\nObstructive\n\nTamponade\nTension pneumothorax\nPE\nDynamic obstruction\n\nCardiogenic\n\nMyocardium\n\nIschaemia\n\nRupture\n\nMyocarditis\nContusion\n\nValvular\n\nThrombus\nChordae rupture\n\nArrhythmia\n\nBradyarrhythmia\nTachyarrhythmia\n\n\nDistributive\n\nSepsis\nSIRS/MODS\nAnaphylaxis\nNeurogenic\nAdrenal\nThyroid\nDrug toxicity"
+  },
+  {
+    "objectID": "disease/cvs/shock.html#clinical-manifestations",
+    "href": "disease/cvs/shock.html#clinical-manifestations",
+    "title": "Shock",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations\nManifest as failure of end-organ perfusion:\n\n\nConsider the “4 W’s of Shock”:\n\nWarm\nWakeful\nWeeing\nW(l)actate\n\n\nPeripheral perfusion\n\n\nTemperature\nMottling\nCapillary return\nCentral (sternal) is a better marker of organ perfusion and less affected by environmental conditions than peripheral perfusion.\n\nAltered mental state\nAnxiety, confusion, agitation, delirium, drowsiness, coma.\nUrine output\n\n\nChanges in vital signs reflects the extent of circulatory failure:\n\n↑ HR\n\nEarly compensatory signs\nMay not be present in some conditions\nβ-blocked, bradyarrhythmias as aetiology.\n\n↑ RR\nClassically ↑ during evolving shock and ↓ in the pre-terminal phase.\n↓ BP\nSign of significant circulatory failure, usually late onset due to effect of compensatory mechanisms."
+  },
+  {
+    "objectID": "disease/cvs/shock.html#diagnostic-approach-and-ddx",
+    "href": "disease/cvs/shock.html#diagnostic-approach-and-ddx",
+    "title": "Shock",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
+  },
+  {
+    "objectID": "disease/cvs/shock.html#investigations",
+    "href": "disease/cvs/shock.html#investigations",
+    "title": "Shock",
+    "section": "Investigations",
+    "text": "Investigations\nInvestigations for adequacy of systemic perfusion include:\n\nBlood gases\n\npH\nLactate\nBase deficit\n\nCentral venous oxygen saturation"
+  },
+  {
+    "objectID": "disease/cvs/shock.html#management",
+    "href": "disease/cvs/shock.html#management",
+    "title": "Shock",
+    "section": "Management",
+    "text": "Management\nResuscitation:\n\n\nSupplemental oxygen\nVenous access\nTarget MAP ⩾65mmHg:\nExact target may vary depending on other circumstances.\n\nVolume resuscitation\n\nCrystalloid\nAlbumin\nBlood\n\nVasopressors\nInotropes\n\nArterial access\nCentral venous access if required\n\nSpecific therapy:\n\nTreat precipitating cause\n\nSupportive care:\nDisposition:\n\nIneffective Therapies"
+  },
+  {
+    "objectID": "disease/cvs/shock.html#anaesthetic-considerations",
+    "href": "disease/cvs/shock.html#anaesthetic-considerations",
+    "title": "Shock",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "disease/cvs/shock.html#complications",
+    "href": "disease/cvs/shock.html#complications",
+    "title": "Shock",
+    "section": "Complications",
+    "text": "Complications"
+  },
+  {
+    "objectID": "disease/cvs/shock.html#prognosis",
+    "href": "disease/cvs/shock.html#prognosis",
+    "title": "Shock",
+    "section": "Prognosis",
+    "text": "Prognosis"
+  },
+  {
+    "objectID": "disease/cvs/shock.html#key-studies",
+    "href": "disease/cvs/shock.html#key-studies",
+    "title": "Shock",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/cvs/shock.html#references",
+    "href": "disease/cvs/shock.html#references",
+    "title": "Shock",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
+  },
+  {
     "objectID": "disease/cvs/peripartum.html#epidemiology-and-risk-factors",
     "href": "disease/cvs/peripartum.html#epidemiology-and-risk-factors",
     "title": "Peripartum Cardiomyopathy",
@@ -10966,7 +11106,7 @@
     "href": "disease/git/cld.html#prognosis",
     "title": "Chronic Liver Disease/Cirrhosis",
     "section": "Prognosis",
-    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 278.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
+    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 282.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
   },
   {
     "objectID": "disease/git/cld.html#key-studies",
@@ -11445,6 +11585,34 @@
     "text": "References\n\nCook T, Harper N. Anaesthesia, Surgery, and Life-Threatening Allergic Reactions: Report and findings of the Royal College of Anaesthetists’ 6th National Audit Project: Perioperative Anaphylaxis. Royal College of Anaesthetists’. 2018.\nRing J, Beyer K, Biedermann T, et al. Guideline for acute therapy and management of anaphylaxis: S2 Guideline of the German Society for Allergology and Clinical Immunology (DGAKI), the Association of German Allergologists (AeDA), the Society of Pediatric Allergy and Environmental Medicine (GPA), the German Academy of Allergology and Environmental Medicine (DAAU), the German Professional Association of Pediatricians (BVKJ), the Austrian Society for Allergology and Immunology (ÖGAI), the Swiss Society for Allergy and Immunology (SGAI), the German Society of Anaesthesiology and Intensive Care Medicine (DGAI), the German Society of Pharmacology (DGP), the German Society for Psychosomatic Medicine (DGPM), the German Working Group of Anaphylaxis Training and Education (AGATE) and the patient organization German Allergy and Asthma Association (DAAB). Allergo Journal International. 2014;23(3):96-112. doi:10.1007/s40629-014-0009-1.\nKolawole H, Crilly H, Kerridge R, Marshall S, Roessler P. Australian and New Zealand College of Anaesthetists (ANZCA) and Australian and New Zealand Anaesthetic Allergy Group (ANZAAG) Perioperative Anaphylaxis Management Guidelines: Background Paper. ANZCA/ANZAAG. 2016.\nANZCA. PS60: Guidelines on the Perioperative Management of Patients with Suspected or Proven Hypersensitivity to Chlorhexidine."
   },
   {
+    "objectID": "disease/immune/mods.html#epidemiology-and-risk-factors",
+    "href": "disease/immune/mods.html#epidemiology-and-risk-factors",
+    "title": "Multiorgan Dysfunction Syndrome",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors\n\nThe syndrome has also been described as: multiorgan failure, multiple system failure, and shock lung."
+  },
+  {
+    "objectID": "disease/immune/mods.html#pathophysiology",
+    "href": "disease/immune/mods.html#pathophysiology",
+    "title": "Multiorgan Dysfunction Syndrome",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\nPoorly understood, but includes multiple factors (predominantly functional) including:\n\nInflammatory dysfunction\n\nCompensatory Anti-Inflammatory Response Syndrome\nState of immunosuppression secondary to exaggerated expression of anti-inflammatory mediators.\n\nCoagulopathy\nCirculatory dysfunction\n\nMacrocirculatory dysfunction\nOften shock states with normal or high DO2.\nMicrocirculatory dysfunction\n\nMitochondrial dysfunction\nNeurohumoral and endocrine dysfunction\n\n\nAetiology\nAny disease that causes tissue damage can lead to MODS, however particular risk factors include:\n\nCVS\n\nCardiac arrest\nExtracorporeal circulation\n\nBypass\n\nCirculatory arrest\n\nECMO\n\n\nMetabolic\n\nHyperthermia\n\nGIT\n\nPancreatitis\n\nInfection\nObstetric\n\nEclampsia\n\nToxins\nMajor trauma\n\nMassive transfusion\nBurns"
+  },
+  {
+    "objectID": "disease/immune/mods.html#management",
+    "href": "disease/immune/mods.html#management",
+    "title": "Multiorgan Dysfunction Syndrome",
+    "section": "Management",
+    "text": "Management\nTreatment is fundamentally good, early, supportive care. Principles include:\n\nEarly recognition of illness\nEarly resuscitation\nEarly definitive treatment\nPrevention of secondary injury"
+  },
+  {
+    "objectID": "disease/immune/mods.html#references",
+    "href": "disease/immune/mods.html#references",
+    "title": "Multiorgan Dysfunction Syndrome",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
+  },
+  {
     "objectID": "disease/immune/iris.html#epidemiology-and-risk-factors",
     "href": "disease/immune/iris.html#epidemiology-and-risk-factors",
     "title": "Immune Reconstitution Inflammatory Syndrome",
@@ -11876,7 +12044,7 @@
     "href": "disease/infective/sepsis.html#epidemiology-and-risk-factors",
     "title": "Sepsis",
     "section": "Epidemiology and Risk Factors",
-    "text": "Epidemiology and Risk Factors"
+    "text": "Epidemiology and Risk Factors\nHost response is highly heterogenous, and is affected by:\n\nPatient factors:\n\nComorbidities\nGenetics\n\nPathogen factors:\n\nPathogen virulence\nLocation of infection"
   },
   {
     "objectID": "disease/infective/sepsis.html#pathophysiology",
@@ -11928,11 +12096,18 @@
     "text": "Prognosis"
   },
   {
+    "objectID": "disease/infective/sepsis.html#key-studies",
+    "href": "disease/infective/sepsis.html#key-studies",
+    "title": "Sepsis",
+    "section": "Key Studies",
+    "text": "Key Studies\nEarly Goal Directed Therapy studies:\n\nARISE\nProCESS\nProMISE"
+  },
+  {
     "objectID": "disease/infective/sepsis.html#references",
     "href": "disease/infective/sepsis.html#references",
     "title": "Sepsis",
     "section": "References",
-    "text": "References\n\nBellomo R, Kellum JA, Ronco C et al. Acute kidney injury in sepsis. Intensive Care Med. 2017 Jun;43(6):816-828. doi: 10.1007/s00134-017-4755-7. Epub 2017 Mar 31."
+    "text": "References\n\nBellomo R, Kellum JA, Ronco C et al. Acute kidney injury in sepsis. Intensive Care Med. 2017 Jun;43(6):816-828. doi: 10.1007/s00134-017-4755-7. Epub 2017 Mar 31.\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
   },
   {
     "objectID": "disease/infective/hiv.html#references",
