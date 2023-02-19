@@ -1,7 +1,22 @@
 # Pulmonary Artery Catheter Insertion
 
 
-The pulmonary artery catheter (also known as a Swan-Ganz catheter, and the yellow snake), is a 60-110cm long balloon-tipped catheter which is inserted into a central vein and 'floated' into the pulmonary artery.
+The pulmonary artery catheter (also known as a Swan-Ganz catheter, and the yellow snake), is a 60-110cm long balloon-tipped catheter which is inserted into a central vein and 'floated' into the pulmonary artery. The PAC allows measurement of:
+
+* RAP
+* RV pressures\
+Indicator of RV systolic function. May be measured "in transit", or continuously on some catheters with an RV port.
+* Pulmonary Artery Pressures
+	* PASP
+	* PADP\
+	Should be ~2mmHg greater than PCWP, in absence of:
+		* Significant mitral valve or LA disease
+		* Tachycardia\
+		HR >120.
+		* Significant changes in PVR
+	* MPAP
+* Mixed Venous Oxygen Saturation
+* Cardiac Output Monitoring
 
 
 ## Indications

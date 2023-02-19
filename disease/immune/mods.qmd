@@ -1,0 +1,66 @@
+# Multiorgan Dysfunction Syndrome
+
+Severe derangement of multiple organ systems occurring secondary to an acute disease process.
+
+:::column-margin
+This is related to, but distinct from, SIRS; as SIRS does not necessarily imply organ dysfunction.
+:::
+
+## Epidemiology and Risk Factors
+
+:::info
+The syndrome has also been described as: multiorgan failure, multiple system failure, and shock lung.
+:::
+
+## Pathophysiology
+
+Poorly understood, but includes multiple factors (predominantly functional) including:
+
+* Inflammatory dysfunction
+	* Compensatory Anti-Inflammatory Response Syndrome\
+	State of immunosuppression secondary to exaggerated expression of anti-inflammatory mediators.
+* Coagulopathy
+* Circulatory dysfunction
+	* Macrocirculatory dysfunction\
+	Often shock states with normal or high DO~2~.
+	* Microcirculatory dysfunction
+* Mitochondrial dysfunction
+* Neurohumoral and endocrine dysfunction
+
+### Aetiology
+
+Any disease that causes tissue damage can lead to MODS, however particular risk factors include:
+
+* CVS
+	* Cardiac arrest
+	* Extracorporeal circulation
+		* Bypass
+			* Circulatory arrest
+		* ECMO
+* Metabolic
+	* Hyperthermia
+* GIT
+	* Pancreatitis
+* Infection
+* Obstetric
+	* Eclampsia
+* Toxins
+* Major trauma
+	* Massive transfusion
+	* Burns
+
+## Management
+
+Treatment is fundamentally good, **early**, supportive care. Principles include:
+
+* Early recognition of illness
+* Early resuscitation
+* Early definitive treatment
+* Prevention of secondary injury
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

@@ -1,15 +1,26 @@
 # Sepsis
 
+A life-threatening organ dysfunction due to a dysregulated host response to infection.
 
-A life-threatening organ dysfunction due to a dysregulated hose reponse to infection.
 
 ## Epidemiology and Risk Factors
+
+Host response is highly heterogenous, and is affected by:
+
+* Patient factors:
+	* Comorbidities
+	* Genetics
+* Pathogen factors:
+	* Pathogen virulence
+	* Location of infection
+
 
 ## Pathophysiology
 
 ### Aetiology
 
 ## Clinical Manifestations
+
 
 ### History
 
@@ -56,8 +67,17 @@ Most effective method:
 ## Prognosis
 
 
+## Key Studies
+
+Early Goal Directed Therapy studies:
+
+* ARISE
+* ProCESS
+* ProMISE
+
 ---
 
 ## References
 
 1. Bellomo R, Kellum JA, Ronco C et al. Acute kidney injury in sepsis. Intensive Care Med. 2017 Jun;43(6):816-828. doi: 10.1007/s00134-017-4755-7. Epub 2017 Mar 31.
+2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

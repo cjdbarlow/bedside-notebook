@@ -127,6 +127,9 @@ book:
           chapters:
             - part: "Equipment"
               chapters:
+                - management/cvs/pressure_monitoring.qmd
+                - management/cvs/co_monitoring.qmd
+                - management/cvs/regional.qmd
                 - management/cvs/iabp.qmd
                 # Pacing
             # - part: "ECMO"
@@ -465,10 +468,10 @@ book:
       # Cardiac
       - part: "Cardiovascular"
         chapters:
-        - part: "Shock and Failure"
+        - part: "Failure"
           chapters:
           - disease/cvs/failure.qmd
-            # Shock
+          - disease/cvs/shock.qmd
         - part: "Myocardial"
           chapters:
             # ACS
@@ -668,6 +671,7 @@ book:
         - part: "Acute Reactions"
           chapters:
             - disease/immune/anaphylaxis.qmd
+            - disease/immune/mods.qmd
             # Tranfusion reactions
             # TENS/SJS
         - part: "Autoimmune"

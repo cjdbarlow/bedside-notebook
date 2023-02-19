@@ -1,0 +1,215 @@
+# Shock
+
+Acute circulatory failure associated with inadequate cellular utilisation of oxygen. Shock may be classified by aetiology of circulatory disturbance:
+
+:::column-margin
+This classification is simplistic as many disease processes will cause multiple mechanisms; e.g. sepsis causes both distributive and hypovolaemic shock.
+:::
+
+
+* Hypovolaemic\
+Loss of circulating volume, reducing preload and stroke volume. May be:
+	* Blood loss
+	* Fluid loss
+* Obstructive\
+Mechanical obstruction to flow of blood due to compression of:
+	* Great veins, impeding venous return
+	* Cardiac chambers
+* Cardiogenic\
+Loss of pump function.
+* Distributive\
+Loss of vascular autoregulation, leading to inappropriate allocation of cardiac output.
+
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+Key pathophysiological concepts in shock include:
+
+* Oxygen delivery
+* Dysoxia
+
+### Oxygen Delivery
+
+Delivery of oxygen to tissues is a key function of the cardiovascular system, and is given by the following equation:
+
+:::column-margin
+Practically, oxygen delivery is dependent on **three things**:
+
+* Cardiac output
+* Arterial oxygen saturation
+* Haemoglobin
+:::
+
+$DO_2 = CO \times (1.34 \times [Hb] \times SpO_2 + PaO_2 \times 0.003)$, where:
+
+* $DO_2$ is the delivery of oxygen (mL/min)\
+Normal DO~2~ is ~1L/min, whilst normal VO~2~ is ~250mL/min.
+* $CO$ is the Cardiac Output (L/min)
+* $[Hb]$ is the arterial haemoglobin concentration (g/L)
+* $SpO_2$ is the arterial oxygen saturation (%)
+* $PaO_2$ is the arterial oxygen partial pressure (mmHg)
+
+
+:::column-margin
+The 1.34 in the oxygen delivery equation refers to millilitres of oxygen bound to each gram of haemoglobin.
+:::
+
+### Dysoxia
+
+Dysoxia occurs when oxygen delivery is inadequate to oxygen demand. Harm from dysoxia is a function of:
+
+* Duration\
+Limited with rapid correction.
+* Tissue type\
+High oxygen demand and extraction organs have poor tolerance to tissue hypoxia.
+	* Hypoxia sensitive:
+		* Heart
+		* Brain
+	* Hypoxia less-sensitive:
+		* Kidney
+		* Skin
+
+
+Dysoxia can occur when DO~2~ is apparently adequate, and results from either:
+
+* Failure of cells to utilise available oxygen\
+Sometimes referenced as histotoxic shock or cytopathic hypoxia.
+* Intra-organ arteriolar shunting preventing oxygen delivery to the cell, despite adequate organ oxygen delivery\
+
+
+### Aetiology
+
+Causes by mechanism include:
+
+* **Hypovolaemic**
+	* Blood loss
+		* Trauma
+		* Pulmonary haemorrhage
+		* GIT
+		* Obstetric
+		* Retroperitoneal
+		* Intra-abdominal
+	* Fluid loss
+		* GIT losses
+		* Sweating
+		* Polyuria
+		* Pancreatitis
+		* Burns
+* **Obstructive**
+	* Tamponade
+	* Tension pneumothorax
+	* PE
+	* Dynamic obstruction
+* **Cardiogenic**
+	* Myocardium
+		* Ischaemia
+			* Rupture
+		* Myocarditis
+		* Contusion
+	* Valvular
+		* Thrombus
+		* Chordae rupture
+	* Arrhythmia
+		* Bradyarrhythmia
+		* Tachyarrhythmia
+* **Distributive**
+	* Sepsis
+	* SIRS/MODS
+	* Anaphylaxis
+	* Neurogenic
+	* Adrenal
+	* Thyroid
+	* Drug toxicity
+
+## Clinical Manifestations
+
+Manifest as failure of end-organ perfusion:
+
+:::column-margin
+Consider the "4 W's of Shock":
+
+* Warm
+* Wakeful
+* Weeing
+* W(l)actate
+:::
+
+* Peripheral perfusion\
+	* Temperature
+	* Mottling
+	* Capillary return\
+	Central (sternal) is a better marker of organ perfusion and less affected by environmental conditions than peripheral perfusion.
+* Altered mental state\
+Anxiety, confusion, agitation, delirium, drowsiness, coma.
+* Urine output\
+
+
+Changes in vital signs reflects the extent of circulatory failure:
+
+* ↑ HR
+	* Early compensatory signs
+	* May not be present in some conditions\
+	β-blocked, bradyarrhythmias as aetiology.
+* ↑ RR\
+Classically ↑ during evolving shock and ↓ in the pre-terminal phase.
+* ↓ BP\
+Sign of significant circulatory failure, usually late onset due to effect of compensatory mechanisms.
+
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+Investigations for adequacy of systemic perfusion include:
+
+* Blood gases
+	* pH
+	* Lactate
+	* Base deficit
+* Central venous oxygen saturation
+
+
+## Management
+
+**Resuscitation**:\
+
+* Supplemental oxygen
+* Venous access
+* Target MAP ⩾65mmHg:\
+Exact target may vary depending on other circumstances.
+	* Volume resuscitation
+		* Crystalloid
+		* Albumin
+		* Blood
+	* Vasopressors
+	* Inotropes
+* Arterial access
+* Central venous access if required
+
+**Specific therapy**:
+
+* Treat precipitating cause
+
+**Supportive care**:
+
+**Disposition**:
+
+
+### Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

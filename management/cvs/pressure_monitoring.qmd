@@ -1,0 +1,123 @@
+# Pressure Monitoring
+
+Invasive pressure monitoring is an essential part of critical care, and aims to guide assessment of the delivery of oxygen to tissues.
+
+## Pressures
+
+Commonly monitored haemodynamic pressures include:
+
+* Systemic arterial pressures
+* Pulmonary artery pressures
+	* PCWP
+* Central venous pressure
+
+### Central Venous Pressure
+
+:::column-margin
+The CVP, JVP, and RAP may vary in the setting of some pathologies, such as SVC stenosis causing SVC obstruction.
+:::
+
+The CVP is the pressure in the vena cava, and by extension the RA. The CVP is:
+
+* Normally:
+	* 0-5mmHg in the spontaneously breathing (well) person
+	* <10mmHg in the positively-pressure ventilated person
+	* Correlated with the PAWP\
+	This relationship is often lost in illness. 
+* Downstream pressure for the circulation
+* The filling pressure for the right heart
+
+
+### Pulmonary Capillary Wedge Pressure
+
+This is the left atrial back-pressure measured from the PAC tip when the balloon is inflated such that it fully occludes the vessel. The wedge pressure is:
+
+* A surrogate for the LAP\
+In absence of flow (because of balloon occlusion), there will be no pressure component due to resistance and therefore the measured pressure should be ~LAP. This assumes:
+	* A continual column of blood between the catheter and the LA\
+	Catheter should be in West Zone 3.
+* Not measured routinely\
+Routine wedging is the cause of much of the morbidity of PACs, due to the risk of PA rupture.
+
+
+Measuring:
+
+* Gradually inflate the balloon until the normal PAP waveform disappears and is replaced with a (rather damped) looking version of the CVP waveform
+
+
+## Pressure Monitoring Devices
+
+Arterial pressure monitoring evaluates:
+
+* SBP\
+	* Generally, the determinate of bleeding
+* MAP
+	* Determinant of perfusion for most organs
+	* Least dependent on measurement site or technique
+	* Least affected by damping
+* DBP
+	* Determinant of myocardial perfusion pressure
+
+### Intermittent Oscillometric Blood Pressure
+
+Detection of pulsation in a pneumatically inflated cuff over a proximal limb, which occludes and then reinflates to provide an indication of pressure in that vessel.
+
+Pros:
+
+* Easy
+* Rapid
+* Uncomfortable
+
+Cons:
+
+* Not always clinically appropriate
+	* PVD
+	* AV fistula
+	* Lymphoedema
+	* Skin and muscular injury
+	* IV site location
+* Inaccurate in dysrhythmia
+* **Overestimates low pressures** and **underestimates high pressures**
+* May lead to pressure injuries with repeated inflations
+
+
+### Continuous Non-Invasive Blood Pressure
+
+Bladder placed around a digit, which compresses the artery to a constant size (a volume-clamp). Arterial pulsation changes the volume of the clamp, which correlates to systemic blood pressure.
+
+Pros:
+
+* Non-invasive
+* Continuous
+
+Cons:
+
+* No blood gas sampling
+* Poor at detecting rapid changes in haemodynamic state
+* Intermittent pause in monitoring to allow finger perfusion
+
+
+### Invasive Arterial Measurement
+
+Direct transduction of the pressure of a column of fluid that is connected to an intra-arterial catheter.
+
+Pros:
+
+* Continuous, accurate monitoring of pressure
+* Gas sampling
+
+Cons:
+
+* Invasive
+	* Painful
+	* Infective
+	* Positional
+* Requires fluid infusion to maintain patency\
+Usually 3mL/hr of saline (sometimes heparinised).
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

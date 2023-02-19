@@ -1,0 +1,93 @@
+# Cardiac Output Monitoring
+
+Clinical estimation of CO is generally unreliable unless *in extremis*. Various methods of monitoring cardiac output have therefore been developed. Methods include:
+
+:::column-margin
+The Fick principle states that the amount of a substance taken up by an organ (or the body) per unit time is the product of:
+
+* The arteriovenous concentration difference of the substance across the tissue bed
+* The flow of blood to that tissue bed
+
+This method is used in multiple methods to assess CO.
+:::
+
+* Thermodilution
+	* Bolus
+	* Semi-continuous
+* Transpulmonary dilution
+* Pulse Contour Analysis
+* Venous Oxygen Saturation\
+Mixed and central.
+
+## Thermodilution
+
+The principle of thermodilution is that a injection of cold fluid into the RA will transiently ↓ PA blood temperature, and that the mean ↓ in temperature is proportional to CO. Thermodilution may be:
+
+* Bolus\
+Injectate of known volume and pressure administered rapidly via a central vein.
+* Semi-continuous
+The PAC has a thermal coil on the RV section, which periodically "boluses" heat in a random fashion, and then monitors for the ↑ in PA temperature.
+
+:::column-margin
+Thermodilution is an indicator dilution method, where a lower thermal energy content is the indicator.
+:::
+
+Sources of error:
+
+* Malposition
+	* Thermistor on vessel wall
+	* Wedged
+* Abnormal respiratory patterns
+* Intracardiac shunting\
+Blood bypassing thermistor (right to left), or being diluted (left to right).
+* TR
+* Arrhythmia
+* Other infusions
+* Technical
+	* Wrong injection volume
+	* Slow injection
+	* Poor temperature difference\
+	Accuracy is ↑ with a colder (0-12°C) fluid, but this may lead to dysrhythmias. Room temperature is acceptable.
+
+
+
+## Transpulmonary Dilution Techniques
+
+All of these techniques inject an indicator into a central vein, and measure the indicator in a central artery. In addition to CO/CI, they may also report:
+
+* Intrathoracic Blood Volume\
+Volumetric preload index that may be more accurate than pressure-based preload indices (CVP, PAWP, which are rather inaccurate).
+* Extravascular Lung Water
+* Global End-Diastolic Volume
+
+
+Methods include:
+
+* Thermodilution\
+Cold injectate into a central vein, with *central* arterial (femoral, axillary) temperature change measured as described above.
+* Lithium dilution\
+Small, non-toxic lithium doses are injected centrally or peripherally and measured by an ion-sensitive electrode in a *peripheral* artery.
+	* Doesn't require central arterial access
+	* Not accurate in patients receiving lithium therapy
+	* No volumetric measurements
+
+
+# Venous Oxygen Saturation
+
+Venous oxygen tension is an index of oxygen consumption, and can be sampled from the:
+
+* Pulmonary artery\
+Sampling here ensures adequate admixture of IVC, SVC, and coronary sinus blood.
+	* PVO~2~ <26mmHg suggests cellular hypoxia
+	* SvO~2~ of 70-80% implies global oxygen supply/demand balance\
+	May be elevated in high-CO shock states.
+* Central Venous\
+Less accurate, but more convenient, than PA sampling. Interpretation is similar to mixed venous sampling.
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+

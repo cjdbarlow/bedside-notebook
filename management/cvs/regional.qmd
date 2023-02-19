@@ -1,0 +1,15 @@
+# Regional Blood Flow
+
+Indicies for regional measurement of perfusion include:
+
+* NIRS
+
+# Near-Infrared Spectroscopy
+
+Technique to quantify tissue oxygen saturation as a marker of adequacy of regional perfusion.
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
