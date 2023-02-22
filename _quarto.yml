@@ -86,10 +86,12 @@ book:
         - part: "Communication"
           chapters:
             - management/communication/concepts.qmd
-            - management/communication/types.qmd
-            - management/communication/family.qmd       
+            - management/communication/family.qmd
+            - management/communication/sdm.qmd
+            - management/communication/bad.qmd
+            - management/communication/disclosure.qmd
             - management/communication/colleagues.qmd   
-            - management/communication/feedback.qmd         
+            - management/communication/feedback.qmd    
         - part: <hr>
         - part: "Airway"
           chapters:

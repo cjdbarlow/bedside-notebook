@@ -1,23 +1,41 @@
 # Feedback
 
-Techniques:
+Giving feedback requires understanding the persons "frames", i.e. what were they thinking that made then follow a particular course of action? This requires knowing both:
 
-* Pendleton
+* The individual
+* The situation
+
+
+There are different ways to draw this information out; two include:
+
+* **Pendleton**
 	* Ask them what went well
 	* Respond by communicating what you think went well\
 	Add observations.
 	* Ask them what they would do differently next time
 	* Respond with what you think they should consider doing differently next time
-* Advocacy-Inquiry\
-The feedback-giver assumes a position of non-judgmental curiosity.
+* **Advocacy-Inquiry**\
+The feedback-giver assumes a position of **non-judgmental curiosity**.
 	* Advocacy\
 	State thoughts, feelings, emotions, and judgments. Involves:
-		* Observation on what happened and what action to led to that occurring
+		* Observation on what happened and what actions to led to that occurring
 	* Inquiry\
 	Ask the feedback-receiver for their opinion on those thoughts.
 
+:::column-margin
+Advocacy-Inquiry can be remembered as:
+
+* **I saw**\
+State observations in a non-judgmental and detached way.
+* **I think**\
+What conclusions you draw from those observations.
+* **I wonder**\
+Invite response - what does the feedback receiver think about that?
+:::
+
 ---
 
-1. CICM Communications Course. Course Notes.
+## References
 
+1. CICM Communications Course. Course Notes.
 
