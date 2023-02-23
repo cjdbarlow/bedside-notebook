@@ -130,7 +130,7 @@
     "href": "assessment/critical/basic.html",
     "title": "Observation",
     "section": "",
-    "text": "The majority of clinically useful information comes from observation.\n\nObservation should focus on each of the following in turn:\n\nEnvironment\n\nMedications\n\nVials/tablets\n\nEnvironment\n\nPositive or negative pressure orooms\nTemperature\nInfection control and PPE\nWaste disposal\n\nLong-stay\n\nSigns/photographs/art\nPhysical therapy equipment\nActivity plans\n\n\n\n\n\nInformation from the monitor, ventilator, and medications should be integrated. e.g. “The SpO2 is 93% with an FiO2 of 50% - there is evidence of a raised A-a gradient”. Or, “The patient is in AF, I note the heparin infusion and wonder if this is the sole indication for anticoagulation.”\n\nMonitor\n\nECG\nRate and rhythm.\nInvasive pressures\nEtCO2\n\nVentilator\n\nMode\nOxygen and PEEP requirements\nQuick assessment of A-a gradient based on SpO2 and FiO2.\nMinute ventilation\nAssess dynamic compliance.\n“Extubatable settings?”\nConsider assessing plateau pressure if evidence of reduced compliance.\n\nMedications and fluids\n\nVasoactives\n\nAmount\n\nAnticoagulation\nPathognomonic durgs\nTPN\nBlood\n\nAncillary equipment\n\nCRRT\nMode, dialysate/buffer, vascular access line.\nActive cooling\nIABP\n\nPatient\n\nEnd of the bed-o-gram\nMonitoring lines\n\nCVC/PAC\nEVD\n\nPacing\nDrains\n\nIntercostal catheters\nSurgical drains\n\nUrethral catheters\nSurgical wounds\n\nEx-fix"
+    "text": "This page is geared heavily towards to the CICM Hot Case exam, but the principles can be applied widely.\n\nObservation should focus on each of the following in turn:\n\nEnvironment\n\nMedications\n\nVials/tablets\n\nEnvironment\n\nPositive or negative pressure orooms\nTemperature\nInfection control and PPE\nWaste disposal\n\nLong-stay\n\nSigns/photographs/art\nPhysical therapy equipment\nActivity plans\n\n\n\n\n\nInformation from the monitor, ventilator, and medications should be integrated. e.g. “The SpO2 is 93% with an FiO2 of 50% - there is evidence of a raised A-a gradient”. Or, “The patient is in AF, I note the heparin infusion and wonder if this is the sole indication for anticoagulation.”\n\nMonitor\n\nECG\nRate and rhythm.\nInvasive pressures\nEtCO2\n\nVentilator\n\nMode\nOxygen and PEEP requirements\nQuick assessment of A-a gradient based on SpO2 and FiO2.\nMinute ventilation\nAssess dynamic compliance.\n“Extubatable settings?”\nConsider assessing plateau pressure if evidence of reduced compliance.\n\nMedications and fluids\n\nVasoactives\n\nAmount\n\nAnticoagulation\nPathognomonic durgs\nTPN\nBlood\n\nAncillary equipment\n\nCRRT\nMode, dialysate/buffer, vascular access line.\nActive cooling\nIABP\n\nPatient\n\nEnd of the bed-o-gram\nMonitoring lines\n\nCVC/PAC\nEVD\n\nPacing\nDrains\n\nIntercostal catheters\nSurgical drains\n\nUrethral catheters\nSurgical wounds\n\nEx-fix"
   },
   {
     "objectID": "assessment/critical/neuro.html#assessing-level-of-consciousness",
@@ -280,37 +280,16 @@
     "text": "References\n\nAdvanced Life Support Group (Manchester, Kevin Mackway-Jones, and ProQuest (Firm). Major Incident Medical Management and Support the Practical Approach to Pre-Hospital Incident Command. Chichester, West Sussex, U.K.: Wiley-Blackwell, 2012."
   },
   {
-    "objectID": "management/resus/neonatal.html#clinical-manifestations",
-    "href": "management/resus/neonatal.html#clinical-manifestations",
-    "title": "Neonatal Resuscitation",
-    "section": "Clinical Manifestations",
-    "text": "Clinical Manifestations\nShould cover:\n\nA\n\nPatency\nCrying indicates patency.\nPresence of blood/meconium\nSuction if present.\n\nB\n\nColour\n\nNormal to remain “hypoxic” for first 10 minutes of life\nBluish hands and feet are normal.\n\n\nC\n\nHR > 130\n\nE\n\nSpontaneous flexion and movements are sign of good tone\nSuggest unlikely to be compromised.\nHeat loss prevention is essential\n\n\n\nAPGAR Score\nEvaluation of a newborn:\n\nUsed to determine whether they need medical intervention\nPoor scores at later times (e.g. 10-30 minutes post-delivery) do correlate with poor neurological outcome.\nBased on five criteria\nPerformed at 1, 5, and 10 minutes post-delivery\nScored out of 10\n0, 1, or 2 points in each category.\n\n\n\n\nCriterion\n0\n\n\n\n\nAppearance\nBlue or pale\n\n\nPulse\nAbsent\n\n\nGrimace\nNo response\n\n\nActivity\nNone\n\n\nRespiration\nAbsent"
-  },
-  {
-    "objectID": "management/resus/neonatal.html#management",
-    "href": "management/resus/neonatal.html#management",
-    "title": "Neonatal Resuscitation",
-    "section": "Management",
-    "text": "Management\nFollows an ABC approach:\n\nA\n\nPlace supine\nDry and stimulate\nHead neutral/slightly extended\nIntubation can be considered if:\n\nUnable to BMV\nNo detectable heart rate\n\n\nB\n\nCommence CPAP with room air if HR >100 and there is laboured breathing or persistent cyanosis\nCommence PPV with room air if HR ⩽100 after drying and stimulation\nGenerally Pip 30, PEEP 5, at a rate of 40-60/minute.\nTransition to 100% oxygen if:\n\nSpO2 is ⩽70% at 5 minutes\nHR ⩽100/min after 1 minute of PPV\nPreparing for intubation\nHR ⩽60/min and chest compressions indicated\n\n\nC\n\nCommence chest compressions at 100-120 per minute if:\nNeed for chest compressions mostly occurs if PPV has not been performed correctly.\n\nHR ⩽60/min despite adequate PPV with supplementary oxygen\n\nAdrenaline 10-30µg/kg (0.1-0.3mL/kg of 1:10,000 solution) if HR < 60\nConsider 10mL/kg IV crystalloid if blood loss suspected\n\nE\n\nWarm\n\nRadiant warmer\nPolyethylene bag if ⩽1500g\n\n\n\n\nTarget SpO2\n\nA rough rule of thumb is that the lower limit at birth is 60%, and increases by ~5% every minute\n\nSpO2 should be measured pre-ductally, i.e. on the right arm or ear:\n\n\n\nTime (minutes)\nSaturation\n\n\n\n\n1\n60-70%\n\n\n2\n65-85%\n\n\n3\n70-90%\n\n\n4\n75-90%\n\n\n10\n80-90%\n\n\n\n\n\nEquipment\n\nGeneral\n\nResuscitation trolley\nLight source\nTimer\n\nA\n\nSuction and suction tubing\nOxygen masks\nT-piece\nVentilation system\n\nNeopuff\nSelf-inflating bag\nFlow-inflating bag\n\nLaryngoscope\nETT\nIn a range of sizes: 2.5-4.0.\nMagill neonatal forceps\nSterile scissors\n\nB\n\nMedical air\nMedical oxygen\nFlowmeters and tubing\n\nC\n\nFluid\nAdrenaline\n\nE\n\nOverhead warmer\nWarmed towel\nPolyethylene bag"
-  },
-  {
-    "objectID": "management/resus/neonatal.html#references",
-    "href": "management/resus/neonatal.html#references",
-    "title": "Neonatal Resuscitation",
-    "section": "References",
-    "text": "References"
-  },
-  {
-    "objectID": "management/resus/postcardiac.html#protocol",
-    "href": "management/resus/postcardiac.html#protocol",
-    "title": "Cardiac Arrest Post-Cardiac Surgery",
+    "objectID": "management/resus/cals.html#protocol",
+    "href": "management/resus/cals.html#protocol",
+    "title": "Cardiac Advanced Life Support",
     "section": "Protocol",
     "text": "Protocol\nThis algorithm assumes that the patient has ECG and invasive arterial monitoring:\n\nRecognition\nArrest is consistent with:\n\nLoss of central pulse\nLoss of haemodynamic waveform pulsatility\n\nSystemic arterial pressure\nPulmonary arterial pressure\nCVP\nPulse oximetry\n\nLoss of ETCO2\n\nAssess rhythm\n\nVF/VT/Tachycardia\n\nDC shock\nUp to 3 attempts.\nStart BLS\nCPR may be delayed up to 1 minute to facilitate cardioversion.\nAmiodarone\n300mg. Further loading of 150mg followed by infusion may be given for refractory VT/VF.\nPrepare for emergency resternotomy\n\nAsystole/Severe bradycardia\n\nPace\nIn DDD or DOO at 100bpm and at maximal amplitude.\n\nStart BLS\nCPR may be delayed up to 1 minute to facilitate cardioversion.\nConsider external pacing\nPrepare for emergency resternotomy\n\nPEA\n\nIf paced, turn off external pacing to exclude underlying VF\nStart BLS\nPrepare for emergency resternotomy\n\n\nAdjuvant management\n\nAirway\n\nChange to BVM with 100% O2\n\nBreathing\n\nPEEP to 0cmH2O\nImprove cardiac preload in the setting of tamponade/hypovolaemia.\n\nConsider increasing PEEP if arrest secondary to hypoxia\n\nAuscultate/ultrasound to evaluate for tension pneumo/haemothorax\nDecompress if present.\n\nCirculation\n\nAvoid adrenaline unless advised by senior clinician\nTypical dose is 50-300ug.\nGive fluid bolus\nActivate massive transfusion\nPause infusions\n\nEvaluate for dosing/drug errors\nConsider restarting vasopressor infusions\n\nLignocaine 1mg/kg may be considered as an alternative to amiodarone\nChange IABP settings:\n\nPressure trigger\nMaximum augmentation\n1:1 ratio\n\nConsider echocardiography\nUse should not delay CPR or resternotomy.\n\n\nEvaluate for reversible causes\n\nExternal Cardiac Compressions:\n\nStandard site, depth, and compression ratio\nAn SBP of >60mmHg should be targeted if invasive arterial monitoring is present\nInability to achieve an SBP of >60mmHg with compressions indicates need for immediate resternotomy\nIndication of arrest due to low preload (and not amenable to cardiac compressions) - tamponade or hypovolaemia are likely causes.\n\n\nEmergency Resternotomy\n\nResternotomy occurring ⩽10 minutes is associated with ~50% survival, compared to ~10% if >10 minutes\n\nEmergency resternotomy should be:\n\nPerformed within 5 minutes of arrest\nOr immediately if SBP <60mmHg with external chest compressions.\nConsidered in patients up to 14 days post surgery\nPrepared for immediately upon identification of cardiac arrest\n\nProcess:\n\nCease chest compressions\nRemove sternotomy dressing, apply betadine, apply sterile drape\nShould be performed in ⩽10 seconds.\nCut sternotomy incision and wires\n\nDeep incision through sternotomy sutures down to sternal wires\nCut sternal wires\nRemove sternal wires with heavy needle holder\n\nSuction blood and clot\nOpen sternum with sternal retractor\nIf no output despite opening sternum:\n\nConsider internal defibrillation 20J with internal paddles.\nCommence internal cardiac massage\n\nAvoid grafts\nRight hand over apex and around behind the heart\nLeft hand over anterior surface of heart\nSqueeze both hands together with flat palms and straight fingers\nAim SBP >60mmHg at a 100 bpm.\n\n\n\nPost-procedural care:\n\nTransfer to OT\n\nWashout\nConsider closure\n\nAntibiotics\nAvoid fever\nTemperature ⩽36°C."
   },
   {
-    "objectID": "management/resus/postcardiac.html#references",
-    "href": "management/resus/postcardiac.html#references",
-    "title": "Cardiac Arrest Post-Cardiac Surgery",
+    "objectID": "management/resus/cals.html#references",
+    "href": "management/resus/cals.html#references",
+    "title": "Cardiac Advanced Life Support",
     "section": "References",
     "text": "References\n\nSociety of Thoracic Surgeons Task Force on Resuscitation After Cardiac Surgery. The Society of Thoracic Surgeons Expert Consensus for the Resuscitation of Patients Who Arrest After Cardiac Surgery. Ann Thorac Surg. 2017 Mar;103(3):1005-1020.\nTruhlar A, Deakin CD, Soar J et al. European Resuscitation Council Guidelines for Resuscitation 2015: Section 4. Cardiac arrest in special circumstances. Resuscitation 2015; 95: 148-201."
   },
@@ -399,6 +378,27 @@
     "text": "References\n\nGarite TJ, Simpson KR. Intrauterine resuscitation during labor. Clin Obstet Gynecol. 2011 Mar;54(1):28-39.\nThurlow, J.A., and S.M. Kinsella. Intrauterine Resuscitation: Active Management of Fetal Distress. International Journal of Obstetric Anesthesia 11, no. 2 (April 2002): 105–16. https://doi.org/10.1054/ijoa.2001.0933."
   },
   {
+    "objectID": "management/resus/neonatal.html#clinical-manifestations",
+    "href": "management/resus/neonatal.html#clinical-manifestations",
+    "title": "Neonatal Resuscitation",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations\nShould cover:\n\nA\n\nPatency\nCrying indicates patency.\nPresence of blood/meconium\nSuction if present.\n\nB\n\nColour\n\nNormal to remain “hypoxic” for first 10 minutes of life\nBluish hands and feet are normal.\n\n\nC\n\nHR > 130\n\nE\n\nSpontaneous flexion and movements are sign of good tone\nSuggest unlikely to be compromised.\nHeat loss prevention is essential\n\n\n\nAPGAR Score\nEvaluation of a newborn:\n\nUsed to determine whether they need medical intervention\nPoor scores at later times (e.g. 10-30 minutes post-delivery) do correlate with poor neurological outcome.\nBased on five criteria\nPerformed at 1, 5, and 10 minutes post-delivery\nScored out of 10\n0, 1, or 2 points in each category.\n\n\n\n\nCriterion\n0\n\n\n\n\nAppearance\nBlue or pale\n\n\nPulse\nAbsent\n\n\nGrimace\nNo response\n\n\nActivity\nNone\n\n\nRespiration\nAbsent"
+  },
+  {
+    "objectID": "management/resus/neonatal.html#management",
+    "href": "management/resus/neonatal.html#management",
+    "title": "Neonatal Resuscitation",
+    "section": "Management",
+    "text": "Management\nFollows an ABC approach:\n\nA\n\nPlace supine\nDry and stimulate\nHead neutral/slightly extended\nIntubation can be considered if:\n\nUnable to BMV\nNo detectable heart rate\n\n\nB\n\nCommence CPAP with room air if HR >100 and there is laboured breathing or persistent cyanosis\nCommence PPV with room air if HR ⩽100 after drying and stimulation\nGenerally Pip 30, PEEP 5, at a rate of 40-60/minute.\nTransition to 100% oxygen if:\n\nSpO2 is ⩽70% at 5 minutes\nHR ⩽100/min after 1 minute of PPV\nPreparing for intubation\nHR ⩽60/min and chest compressions indicated\n\n\nC\n\nCommence chest compressions at 100-120 per minute if:\nNeed for chest compressions mostly occurs if PPV has not been performed correctly.\n\nHR ⩽60/min despite adequate PPV with supplementary oxygen\n\nAdrenaline 10-30µg/kg (0.1-0.3mL/kg of 1:10,000 solution) if HR < 60\nConsider 10mL/kg IV crystalloid if blood loss suspected\n\nE\n\nWarm\n\nRadiant warmer\nPolyethylene bag if ⩽1500g\n\n\n\n\nTarget SpO2\n\nA rough rule of thumb is that the lower limit at birth is 60%, and increases by ~5% every minute\n\nSpO2 should be measured pre-ductally, i.e. on the right arm or ear:\n\n\n\nTime (minutes)\nSaturation\n\n\n\n\n1\n60-70%\n\n\n2\n65-85%\n\n\n3\n70-90%\n\n\n4\n75-90%\n\n\n10\n80-90%\n\n\n\n\n\nEquipment\n\nGeneral\n\nResuscitation trolley\nLight source\nTimer\n\nA\n\nSuction and suction tubing\nOxygen masks\nT-piece\nVentilation system\n\nNeopuff\nSelf-inflating bag\nFlow-inflating bag\n\nLaryngoscope\nETT\nIn a range of sizes: 2.5-4.0.\nMagill neonatal forceps\nSterile scissors\n\nB\n\nMedical air\nMedical oxygen\nFlowmeters and tubing\n\nC\n\nFluid\nAdrenaline\n\nE\n\nOverhead warmer\nWarmed towel\nPolyethylene bag"
+  },
+  {
+    "objectID": "management/resus/neonatal.html#references",
+    "href": "management/resus/neonatal.html#references",
+    "title": "Neonatal Resuscitation",
+    "section": "References",
+    "text": "References"
+  },
+  {
     "objectID": "management/communication/concepts.html#responding-to-emotion",
     "href": "management/communication/concepts.html#responding-to-emotion",
     "title": "Concepts",
@@ -424,7 +424,7 @@
     "href": "management/communication/concepts.html#use-of-interpreters",
     "title": "Concepts",
     "section": "Use of Interpreters",
-    "text": "Use of Interpreters\nProfessional interpreters are the best available option, although bilingual staff are acceptable in low-risk situations. Family and friends should be avoided. Interpreters should be used when:\n\nFamily requests\nWhen people cannot comprehend or respond to questions in English\nStressful, complex, or unfamiliar situations\nWhen consent is required\n\n\n\nFamily may request no interpreter if:\n\nFeel their understanding is good enough\nBe embarrassed\nKnow the interpreter\nFear loss of privacy\nBe uncomfortable with gender/religious/ethnic background\nWorry about cost\n\nUsing an interpreter:\n\nConsider discussing aim of the meeting with the interpreter prior\nClarify the use of any technical terms.\nIntroduce both yourself and the interpreter\nMake confidentiality explicit\nTalk directly to the family\nAvoid jargon\nUse silence and short packets of information"
+    "text": "Use of Interpreters\nProfessional interpreters are the best available option, although bilingual staff are acceptable in low-risk situations. Family and friends should be avoided.\nInterpreters should be used when:\n\nFamily requests\nWhen people cannot comprehend or respond to questions in English\nStressful, complex, or unfamiliar situations\nWhen consent is required\n\n\n\nFamily may request no interpreter if:\n\nFeel their understanding is good enough\nBe embarrassed\nKnow the interpreter\nFear loss of privacy\nBe uncomfortable with gender/religious/ethnic background\nWorry about cost\n\nUsing an interpreter:\n\nConsider discussing aim of the meeting with the interpreter prior\nClarify the use of any technical terms.\nIntroduce both yourself and the interpreter\nMake confidentiality explicit\nTalk directly to the family\nAvoid jargon\nUse silence and short packets of information"
   },
   {
     "objectID": "management/communication/concepts.html#references",
@@ -1078,46 +1078,39 @@
     "text": "References"
   },
   {
-    "objectID": "management/renal/rrt.html#indications",
-    "href": "management/renal/rrt.html#indications",
-    "title": "Continuous Renal Replacement Therapy",
-    "section": "Indications",
-    "text": "Indications\nIndications for RRT include:\n\nRenal replacement\nInstituted when there is little to no residual kidney function.\nLife-threatening indications\n\nHyperkalaemia\nRRT is effective in removing potassium, but requires frequent monitoring.\nAcidaemia\nRequires concomitant correction of the underlying disease.\nPulmonary oedema\nUraemic complications\n\nNon-emergent indications\n\nFluid overload\nSolute control"
+    "objectID": "management/acidbase/lactate.html#pathophysiology",
+    "href": "management/acidbase/lactate.html#pathophysiology",
+    "title": "Hyperlactataemia",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\nLactate is:\n\nProduced:\n\nAt ~0.8mmol/kg/hr\n\nPredominantly by skeletal muscle (~40%)\nAlso skin/brain/gut/RBC\n\nFrom pyruvate (via glucose and alanine)\nThis process regenerates NAD+ which allows further conversion from glucose into pyruvate, facilitating ATP production in absence of oxygen.\n\nMetabolised by:\n\nLiver\nKidneys\nBrain\nHypothesised use as substrate for ATP generation, particularly when neuronal uptake of ATP is ↓ as occurs in injury.\n\n\n\n\nAn ↑ in brain lactate is associated with ↓ mortality.\nLactate may be pathologically elevated by:\n\n↑ Production\n\nTissue hypoxia (Type A)\nAltered metabolism (Type B)\n\n↓ Clearance\n\nHepatic dysfunction\nRenal dysfunction\n\n\n\nAetiology\nType A:\n\nShock\n\nMesenteric ischaemia\nAlthough this is just localised ischaemia, it is important enough to be mentioned separately.\n↓ O2 carriage\n\nHypoxia\nAnaemia\nSevere.\nCO poisoning\n\n\nType B:\n\nDisease\n\nSepsis\nFailures\n\nLiver failure\nRenal failure\n\nMalignancy\n↑ Anaerobic glycolysis, possible liver parenchymal destruction.\n\nPhaeochromocytoma\nHaematological\n\nThiamine deficiency\nDiabetes\n\nDrugs\n\nCatecholamines\n\nAdrenaline\nSalbutamol\n\nAnalgesics\n\nParacetamol\nSalicylates\n\nEnergy sources\n\n\nAlcohols\n\nMethanol\nEthanol\n\nSugars\n\nFructose\nSorbitol\n\n\nGlycols\nMetformin\nSNP\n\nInborn Error of Metabolism\n\nG6PD"
   },
   {
-    "objectID": "management/renal/rrt.html#contraindications",
-    "href": "management/renal/rrt.html#contraindications",
-    "title": "Continuous Renal Replacement Therapy",
-    "section": "Contraindications",
-    "text": "Contraindications"
+    "objectID": "management/acidbase/lactate.html#investigations",
+    "href": "management/acidbase/lactate.html#investigations",
+    "title": "Hyperlactataemia",
+    "section": "Investigations",
+    "text": "Investigations\nBloods:\n\nLactate\nThis is by default L-lactate, which is the isomer produced by human metabolism. D-lactate is:\n\nNot detected by standard assays\nProduced by gut organisms\nMay be raised in:\n\nMesenteric ischaemia\nTranslocation through ischaemic bowel.\nShort gut syndrome\nPancreatic insufficiency"
   },
   {
-    "objectID": "management/renal/rrt.html#equipment",
-    "href": "management/renal/rrt.html#equipment",
-    "title": "Continuous Renal Replacement Therapy",
-    "section": "Equipment",
-    "text": "Equipment\nVascular dialysis catheter:\n\nUncuffed, non-tunnelled catheter\nPreferentially sited in:\n\nRight IJV\nFemoral vin\nLeft IJV\nDominant SCV\nRisk of central vein stenosis with SCV insertion.\nNon-dominant SCV\n\nPositioned at the junction of the SCV and RA\n\nRisk of atrial erosion if in too far\nRisk of central vein stenosis if abutting SVC"
+    "objectID": "management/acidbase/lactate.html#management",
+    "href": "management/acidbase/lactate.html#management",
+    "title": "Hyperlactataemia",
+    "section": "Management",
+    "text": "Management\n\nTreating an elevated lactate in isolation is generally unhelpful.\n\nAn elevated lactate should prompt a search for evidence of systemic or regional malperfusion, and any underlying abnormality corrected to restore DO2.\n\n\nTreat the primary disorder\nCorrect acidosis\nBicarbonate is reasonable if:\n\npH < 7.2\nDisorder exacerbated by acidosis is present:\n\nPulmonary hypertension\nArrhythmia risk\nHigh-dose vasoactives"
   },
   {
-    "objectID": "management/renal/rrt.html#technique",
-    "href": "management/renal/rrt.html#technique",
-    "title": "Continuous Renal Replacement Therapy",
-    "section": "Technique",
-    "text": "Technique\nDialysis techniques include:\n\nIntermittent Haemodialysis (IHD)\nRapid removal of volume and toxins.\nContinuous Renal Replacement Therapy (CRRT)\nSlower, preferred in critically ill due to haemodynamic stability.\nSustained Low-Efficiency Dialysis (SLED)\nSimilar toxin control to CRRT, with potentially better acid-base control and HDx stability. Evidence is lacking to recommend SLED over CRRT.\nPeritoneal Dialysis (PD)\n\n\n\n\n\n\n\n\nTechnique\nClinical Setting\n\n\n\n\nIHD\n- HDx stability- Planned for continued dialysis in ward environment\n\n\nCRRT\n- HDx instability- High ICP\n\n\nSLED\n- HDx instability\n\n\nPD\n- HDx instability- Coagulopathic- Difficult access- High ICP- Austere setting\n\n\n\n\nAnticoagulation\nIn general for CRRT:\n\nAnticoagulation is recommended when patient is:\n\nNot coagulopathic\nNot systemically anticoagulated\n\nCitrate is preferred if there is no contraindication\nUFH is used if citrate is contraindicated\nIf there is an increased bleeding risk:\n\nUse regional citrate/calcium in CRRT\nAvoid regional UFH/LMWH\nIf citrate is contraindicated, then no anticoagulation should be used.\n\nFor patients with contraindications to citrate and UFH:\n\nAnticoagulation is still recommended\nDirect thrombin inhibitors (argatroban)\nContraindicated in hepatic failure.\nFactor Xa inhibitors\nDanaparoid, fondaparinux.\n\n\n\n\n\n\n\n\n\n\nAnticoagulant\nAdvantages\nDisadvantages\n\n\n\n\nCalcium/Citrate\n- Regional anticoagulation reduces systemic haemorrhage- Longer filter life- Reduced transfusion and major bleeding compared to UFH\n- Risk of overdose if set up incorrectly- Citrate toxicity (especially hepatic failure, shock) - More complex\n\n\nUFH\n- Widely available- Familiar- Short half-life- Reversible- Can be monitored- Cheap- Allows for regional anticoagulation with heparin/protamine combination\n- Narrow TI- Unpredictable kinetics- HITS- Heparin resistance\n\n\nLMWH\n- Predictable kinetics- Does not require monitoring- Less HITS\n- May accumulate in renal failure- Requires anti-Xa for monitoring- Incompletely reversed with protamine- More expensive"
+    "objectID": "management/acidbase/lactate.html#prognosis",
+    "href": "management/acidbase/lactate.html#prognosis",
+    "title": "Hyperlactataemia",
+    "section": "Prognosis",
+    "text": "Prognosis\nHyperlactataemia is associated with:\n\n↑ Mortality in sepsis/shock Level is proportional to mortality; >4 is highly significant.\n↑ Mortality in severe cardiac disease\nPost-arrest, post-CABG, AMI, heart failure."
   },
   {
-    "objectID": "management/renal/rrt.html#complications",
-    "href": "management/renal/rrt.html#complications",
-    "title": "Continuous Renal Replacement Therapy",
-    "section": "Complications",
-    "text": "Complications"
-  },
-  {
-    "objectID": "management/renal/rrt.html#references",
-    "href": "management/renal/rrt.html#references",
-    "title": "Continuous Renal Replacement Therapy",
+    "objectID": "management/acidbase/lactate.html#references",
+    "href": "management/acidbase/lactate.html#references",
+    "title": "Hyperlactataemia",
     "section": "References",
-    "text": "References\n\nKidney Disease: Improving Global Outcomes (KDIGO) Acute Kidney Injury Work Group. KDIGO Clinical Practice Guideline for Acute Kidney Injury. Kidney inter., Suppl. 2012; 2: 1–138."
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
   },
   {
     "objectID": "management/fluid/hypona.html#epidemiology-and-risk-factors",
@@ -1286,6 +1279,48 @@
     "title": "Hypercalcaemia",
     "section": "References",
     "text": "References\n\nShane, Elizabeth, and I. Dinaz. Hypercalcemia: pathogenesis, clinical manifestations, differential diagnosis, and management. Primer on the Metabolic Bone Diseases and Disorders of Mineral Metabolism, Favus MJ (ed.). Philadelphia: Lippincott, Williams &Wilkins (1999): 183-87.\neviQ. Hypercalcaemia of Malignancy. ID: 486 v.4."
+  },
+  {
+    "objectID": "management/renal/rrt.html#indications",
+    "href": "management/renal/rrt.html#indications",
+    "title": "Continuous Renal Replacement Therapy",
+    "section": "Indications",
+    "text": "Indications\nIndications for RRT include:\n\nRenal replacement\nInstituted when there is little to no residual kidney function.\nLife-threatening indications\n\nHyperkalaemia\nRRT is effective in removing potassium, but requires frequent monitoring.\nAcidaemia\nRequires concomitant correction of the underlying disease.\nPulmonary oedema\nUraemic complications\n\nNon-emergent indications\n\nFluid overload\nSolute control"
+  },
+  {
+    "objectID": "management/renal/rrt.html#contraindications",
+    "href": "management/renal/rrt.html#contraindications",
+    "title": "Continuous Renal Replacement Therapy",
+    "section": "Contraindications",
+    "text": "Contraindications"
+  },
+  {
+    "objectID": "management/renal/rrt.html#equipment",
+    "href": "management/renal/rrt.html#equipment",
+    "title": "Continuous Renal Replacement Therapy",
+    "section": "Equipment",
+    "text": "Equipment\nVascular dialysis catheter:\n\nUncuffed, non-tunnelled catheter\nPreferentially sited in:\n\nRight IJV\nFemoral vin\nLeft IJV\nDominant SCV\nRisk of central vein stenosis with SCV insertion.\nNon-dominant SCV\n\nPositioned at the junction of the SCV and RA\n\nRisk of atrial erosion if in too far\nRisk of central vein stenosis if abutting SVC"
+  },
+  {
+    "objectID": "management/renal/rrt.html#technique",
+    "href": "management/renal/rrt.html#technique",
+    "title": "Continuous Renal Replacement Therapy",
+    "section": "Technique",
+    "text": "Technique\nDialysis techniques include:\n\nIntermittent Haemodialysis (IHD)\nRapid removal of volume and toxins.\nContinuous Renal Replacement Therapy (CRRT)\nSlower, preferred in critically ill due to haemodynamic stability.\nSustained Low-Efficiency Dialysis (SLED)\nSimilar toxin control to CRRT, with potentially better acid-base control and HDx stability. Evidence is lacking to recommend SLED over CRRT.\nPeritoneal Dialysis (PD)\n\n\n\n\n\n\n\n\nTechnique\nClinical Setting\n\n\n\n\nIHD\n- HDx stability- Planned for continued dialysis in ward environment\n\n\nCRRT\n- HDx instability- High ICP\n\n\nSLED\n- HDx instability\n\n\nPD\n- HDx instability- Coagulopathic- Difficult access- High ICP- Austere setting\n\n\n\n\nAnticoagulation\nIn general for CRRT:\n\nAnticoagulation is recommended when patient is:\n\nNot coagulopathic\nNot systemically anticoagulated\n\nCitrate is preferred if there is no contraindication\nUFH is used if citrate is contraindicated\nIf there is an increased bleeding risk:\n\nUse regional citrate/calcium in CRRT\nAvoid regional UFH/LMWH\nIf citrate is contraindicated, then no anticoagulation should be used.\n\nFor patients with contraindications to citrate and UFH:\n\nAnticoagulation is still recommended\nDirect thrombin inhibitors (argatroban)\nContraindicated in hepatic failure.\nFactor Xa inhibitors\nDanaparoid, fondaparinux.\n\n\n\n\n\n\n\n\n\n\nAnticoagulant\nAdvantages\nDisadvantages\n\n\n\n\nCalcium/Citrate\n- Regional anticoagulation reduces systemic haemorrhage- Longer filter life- Reduced transfusion and major bleeding compared to UFH\n- Risk of overdose if set up incorrectly- Citrate toxicity (especially hepatic failure, shock) - More complex\n\n\nUFH\n- Widely available- Familiar- Short half-life- Reversible- Can be monitored- Cheap- Allows for regional anticoagulation with heparin/protamine combination\n- Narrow TI- Unpredictable kinetics- HITS- Heparin resistance\n\n\nLMWH\n- Predictable kinetics- Does not require monitoring- Less HITS\n- May accumulate in renal failure- Requires anti-Xa for monitoring- Incompletely reversed with protamine- More expensive"
+  },
+  {
+    "objectID": "management/renal/rrt.html#complications",
+    "href": "management/renal/rrt.html#complications",
+    "title": "Continuous Renal Replacement Therapy",
+    "section": "Complications",
+    "text": "Complications"
+  },
+  {
+    "objectID": "management/renal/rrt.html#references",
+    "href": "management/renal/rrt.html#references",
+    "title": "Continuous Renal Replacement Therapy",
+    "section": "References",
+    "text": "References\n\nKidney Disease: Improving Global Outcomes (KDIGO) Acute Kidney Injury Work Group. KDIGO Clinical Practice Guideline for Acute Kidney Injury. Kidney inter., Suppl. 2012; 2: 1–138."
   },
   {
     "objectID": "management/haeme/blood.html#blood-typing",
@@ -7847,6 +7882,83 @@
     "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
   },
   {
+    "objectID": "disease/cvs/acs.html#epidemiology-and-risk-factors",
+    "href": "disease/cvs/acs.html#epidemiology-and-risk-factors",
+    "title": "Acute Coronary Syndromes",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors\nACS are a major cause of mortality in the industrialised world:\n\n\nNote that the definition of MI and therefore the actual disease treated has evolved over time. Historically, the diagnostic features were Q-waves, indicating myocardium with a completed infarct. In the reperfusion era, it was noted that patients with STE were the ones who benefited from thrombolysis or PCI - STEMI as an entity exists to delineate these two groups.\n\nIn more recent years with the introduction of high-sensitivity troponin, more patients with UA are now been classified with a NSTEMI.\n\n~15% of all deaths\n\n70% of these are OOHCA\n60% of deaths are within first hour\nUsually prior to reaching medical facility.\n↑ To 20% of deaths in persons >40\n\n↓ In in-hospital mortality from 30% to <10% with current therapy\nHowever, significant issues remain in receiving appropriate medical therapy.\n\n~25% of eligible patients don’t receive reperfusion\n↑ In women and the elderly.\n\n\nRisk factors:\n\nAge\nMale\nFamily history\nSmoking\nDisease\n\nHTN\nDM\nDyslipidaemia\nObesity"
+  },
+  {
+    "objectID": "disease/cvs/acs.html#pathophysiology",
+    "href": "disease/cvs/acs.html#pathophysiology",
+    "title": "Acute Coronary Syndromes",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\nMechanisms include:\n\nPlaque rupture\n\nAtheromatous plaque develops over vessel wall injury\n\nLipid accumulates in arterial intima\nFibrous cap develops\nUsually occurs slowly, may happen more quickly in those with risk factors.\n\nPlaque rupture\nPlaque breaks, exposing thrombogenic lipids.\nPlatelet activation forms a plug over the plaque, occluded blood flow\n\nCoronary spasm\n\nWhich vessel and how proximal the occlusion is determines the region and extent of myocardial ischaemia:\n\nLAD occlusion\n\nAnterior MI\n~40-50%.\nSeptal MI\n\nLCx\\Distal LAD\n\nLateral MI\n\nRCA\\PLB of LCx\\Dominant LCx\n\n\nInferior\n~50%.\nPosterior\n~3%. Usually associated with inferior or lateral MI.\nRV MI\nUsually occurs with inferior MI. Concerns are ↓↓ HR, ↓ BP with GTN."
+  },
+  {
+    "objectID": "disease/cvs/acs.html#clinical-manifestations",
+    "href": "disease/cvs/acs.html#clinical-manifestations",
+    "title": "Acute Coronary Syndromes",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations\n\nACS features are more specific for a Type 1 rather than Type 2 MI, which are often free of ischaemic symptoms.\n\nClinical context is used to differentiate the two.\n\n“Classical” presentation:\n\n\nPain of unstable angina is usually similar but milder.\n\nPain\n\nSevere\nConstant\nRetrosternal\nRadiation to throat, jaw, ulna aspect of each arm, interscapula\nNo clear precipitant\nWorse on exertion or emotion\n\nAssociated autonomic symptoms\n\nSweating\nNausea\nDyspnoea\nAnxiety\n\n\n“Atypical” symptoms:\n\n\nAtypical presentations occur in 25-45% of patients, and is more likely in patients who are:\n\nFemale\nElderly\nDiabetic\nObese\nHave heart failure\n\n\nPain\n\nEpigastric\nLocalised to jaw, arms, wrists, or interscapular\nBurning"
+  },
+  {
+    "objectID": "disease/cvs/acs.html#diagnostic-approach-and-ddx",
+    "href": "disease/cvs/acs.html#diagnostic-approach-and-ddx",
+    "title": "Acute Coronary Syndromes",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx\nDifferentials:\n\nB\n\nPE\n\nC\n\nPericarditis\nAortic dissection"
+  },
+  {
+    "objectID": "disease/cvs/acs.html#investigations",
+    "href": "disease/cvs/acs.html#investigations",
+    "title": "Acute Coronary Syndromes",
+    "section": "Investigations",
+    "text": "Investigations\nBloods:\n\nCardiac enzymes\n\nTroponins\nHighly specific for myocardial injury, but do not identify cause.\n\nRise over 4-6 hours\nPeak 16-24 hours\nResolve over 7-14 days\nProlonged in renal failure.\n\nCK\n\n\nECG:\n\nFor diagnosis and infarct localisation\nSerial recordings\n\n\nChange in symptoms\nDrawing troponin\nPeriodically\n\n\n\n\nECG mimics of MI include:\n\nB\n\nPE\n\nC\n\nLVH\nOld inferior MI\nBenign Early Repolarisation\nDigoxin therapy\n\nF\n\nHyperkalaemia\n\n\nEcho:\n\nLV function\nRWMA\nInfarct location. Presence of RWMA is sensitive but not specific for STEMI.\nAssess other differential diagnoses\nInfarct complications\n\nPapillary muscle rupture\nMR\nMyocardial rupture\nVSD\n\n\n\nECG Indications for Reperfusion\nSTEMI and STEMI equivalents include:\n\nST Segment elevation\n\nMen <40\n2.5mm in V2-3 and 1mm in other leads.\nMen >40\n2mm in V2-3 and 1mm in other leads.\nWomen\n1.5mm in V2-3 and 1mm in other leads\n\nLBBB and one of:\n\nCardiogenic shock\nSgarbossa Criteria positive\n\nConcordant STE >1mm in >1 lead\nIn a LBBB, there is normally discordant STE, i.e. the ST segment moves in the opposite direction to the QRS.\nConcordant STD >1mm in >1 of V1-3\n\nSmith-modified Sgarbossa criteria positive\n\nExcessively discordant STE in >1 lead\nExcessive discordance defined as ST elevation >25% of the preceding S-wave.\n\n\nNew RBBB and LAFB\nStrongly associated with proximal LAD occlusion.\nPosterior MI\nSTD >1mm in V1-4, +/- STE >0.5mm in V8-9.\nLateral wall MI\nAny STE in aVL with STD in III (II/aVF)."
+  },
+  {
+    "objectID": "disease/cvs/acs.html#management",
+    "href": "disease/cvs/acs.html#management",
+    "title": "Acute Coronary Syndromes",
+    "section": "Management",
+    "text": "Management\nResuscitation:\n\n\nB:\n\nSupplemental oxygen\nTarget SpO2 of 93-97%. Avoid hyperoxia, concerns that this may ↑ infarct size.\n\nC\n\nVenous access\nDefibrillator available\nSublingual GTN\n\n\nIndications:\n\nIschaemic pain\nHypertension\nPulmonary oedema\n\nContraindications:\n\nHypotension\nRV MI\nRecent PDE inhibitor\n\n\n\n\nSpecific therapy:\n\n\nGTN does not improve outcome and relief of pain is not diagnostic for ischaemia, but may be useful for symptom relief.\n\nReperfusion therapy\nIn STEMI and STEMI-equivalents.\n\nThrombolysis\nPCI\n\nPharmacological\n\nAspirin\n\n\n300mg load, then 100mg/day lifelong\n↓ Mortality by ~2.5%, halves rate of stroke and reinfarction\nConsider clopidogrel if aspirin contraindicated\n\nConsider DAPT\n\n\nRecommended if:\n\nAnticipating primary PCI\nThough benefit remains even if PCI not performed.\nLow bleeding risk\nNot bradycardic\nTicagrelor may worsen bradycardia.\n\nMay be:\n\nTicagrelor\n180mg load, then 90mg BD.\nClopidogrel\nMay be preferred to ticagrelor for patients with ↑ bleeding risk. 300-600mg load, then 75mg daily.\n\nLong half-lives result in ↑ bleeding if CABG is required\nDuration depends on type of stenting\n\nAnticoagulation\nStabilises clot and ↓ early infarction, but leads to rebound ↑ infarction\n\nFondaparinux 2.5mg daily\nPreferred option, if available.\nEnoxaparin 1mg/kg BD\nTherapeutic heparin infusion\n\nβ-blockers\n\n\nOnly in patients who are haemodynamically stable patients\nUsually after thrombolytic therapy.\nIdeally within 24 hours\n↓ Malignant arrhythmia rate\n\nACE-I/A2RB\n↓ Mortality and ↓ LV failure in STEMI, probably beneficial in NSTEMI.\n\nContraindications\n\nRenal dysfunction\nHypotension\nHyperkalaemia\n\n\nStatin\nCommence within 24 hours. ↓ Mortality.\n\nAtorvastatin 80mg\n\nLong-term anticoagulation\nOnly for specific indication, e.g. AF, LV thrombus, severe LV dysfunction.\n\nPhysical\n\nLifestyle advice\nCardiac rehabilitation\n\n\nSupportive care:\n\nC\n\nHaemodynamic support\n\nMay be required prior to reperfusion for significant infarcts\nMechanical support\n\nIABP\nNo good evidence of mortality benefit.\nECMO\n\n\n\nD\n\nOpioid analgesia\n\nF\n\nElectrolyte correction\n\nK+ >4.5mmol/L\nMg2+ >1mmol/L\n\n\nH\n\nAim Hb > 80mg/L if ongoing ischaemia\n\n\nDisposition:\n\nCCU\nICU\n\n\nReperfusion\n\nThrombolysis should be performed for STEMI if PCI cannot occur in <120 minutes.\n\nReperfusion ↓ infarct size and ↑ LV function, ↓ stroke rate, and ↓ mortality. Factors influencing reperfusion strategy:\n\nTime\n\nInfarct\nTransfer time\n\nContraindications to thrombolysis\n\nAbsolute\n\nIntracranial\n\nStroke <6 months\nIntracranial neoplasm\n\nCardiac\n\nAortic dissection\n\nActive internal bleeding\n\nRelative\n\nBleeding risk\n\nCoagulopathy\nHypertension\nRecent major trauma\nPeptic ulcer disease\n\nPregnancy\n\n\nHigh risk features\nIndication for PCI.\n\nVentricular arrhythmias\nCardiogenic shock\nPain refractive for medical therapy\n\n\nThrombolysis:\n\nEffective if performed <3 hours from onset\nWorks best with fresh clot, prior to fibrin formation.\n~4% ↓ in absolute mortality\n\nPCI is preferred, provided it can occur in a timely fashion. PCI:\n\nShould be performed urgently\nSooner is better, <60 minutes is the goal. PCI has ~6% ↓ in mortality.\nMay be:\n\nPrimary PCI\nRescue PCI\nPCI performed after failed thrombolysis.\n\n\n\n\nRight Ventricular Myocardial Infarction\nAdditional considerations for the RV MI:\n\nC\n\nRV support\n\nMaintain preload\nNitrates, morphine, diuretics, PEEP, hypoxaemia.\niNO\nVasoactives\n\n\n\n\n\nIneffective Therapies"
+  },
+  {
+    "objectID": "disease/cvs/acs.html#anaesthetic-considerations",
+    "href": "disease/cvs/acs.html#anaesthetic-considerations",
+    "title": "Acute Coronary Syndromes",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations\nOccasionally, anaesthetic support to the cath lab is requested for patients with:\n\nCardiogenic shock\nAgitation"
+  },
+  {
+    "objectID": "disease/cvs/acs.html#complications",
+    "href": "disease/cvs/acs.html#complications",
+    "title": "Acute Coronary Syndromes",
+    "section": "Complications",
+    "text": "Complications\n\nDeath\nCardiogenic shock\nPulmonary oedema\nMR\n\nFunctional\nRelated to LV dilation and diastolic dysfunction.\nPapillary muscle rupture\n\nVentricular rupture\nVSD\nMalignant arrhythmias\nIschaemic cardiomyopathy and cardiac failure\n15-25% following STEMI.\nPericarditis/Dressler’s syndrome\nUsually develops 24-72 hours post MI.\nStroke\nEmbolism from LV thrombus."
+  },
+  {
+    "objectID": "disease/cvs/acs.html#prognosis",
+    "href": "disease/cvs/acs.html#prognosis",
+    "title": "Acute Coronary Syndromes",
+    "section": "Prognosis",
+    "text": "Prognosis\nInfarct size is influenced by time to reperfusion, and determines degree of:\n\nLV systolic dysfunction\nDiastolic dysfunction"
+  },
+  {
+    "objectID": "disease/cvs/acs.html#key-studies",
+    "href": "disease/cvs/acs.html#key-studies",
+    "title": "Acute Coronary Syndromes",
+    "section": "Key Studies",
+    "text": "Key Studies\nAntiplatelet agents:\n\nPLATO\nTicagrelor had improved mortality and ischaemic events compared to clopidogrel in NSTE-ACS, with no ↑ in bleeding."
+  },
+  {
+    "objectID": "disease/cvs/acs.html#references",
+    "href": "disease/cvs/acs.html#references",
+    "title": "Acute Coronary Syndromes",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
+  },
+  {
     "objectID": "disease/cvs/peripartum.html#epidemiology-and-risk-factors",
     "href": "disease/cvs/peripartum.html#epidemiology-and-risk-factors",
     "title": "Peripartum Cardiomyopathy",
@@ -11141,7 +11253,7 @@
     "href": "disease/git/cld.html#prognosis",
     "title": "Chronic Liver Disease/Cirrhosis",
     "section": "Prognosis",
-    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 284.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
+    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 286.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
   },
   {
     "objectID": "disease/git/cld.html#key-studies",
