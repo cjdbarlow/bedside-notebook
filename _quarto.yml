@@ -79,10 +79,10 @@ book:
       chapters:
         - part: "**Resuscitation**"
           chapters:
-            - management/resus/neonatal.qmd
-            - management/resus/postcardiac.qmd
+            - management/resus/cals.qmd
             - management/resus/oohca.qmd
             - management/resus/intrauterineresus.qmd
+            - management/resus/neonatal.qmd
         - part: "Communication"
           chapters:
             - management/communication/concepts.qmd
@@ -160,19 +160,22 @@ book:
                 - management/neuro/chronic-spine.qmd
               # ICP
               # Persistent vegetative state
-        - part: "Renal"
+        - part: "Renal and Fluid"
           chapters:
+            - part: "Acid-Base"
+              chapters:
+                - management/acidbase/lactate.qmd
+            - part: "Electrolyte"
+              chapters:
+                - management/fluid/hypona.qmd
+                - management/fluid/hypoca.qmd
+                - management/fluid/hyperca.qmd
             - part: "Haemofiltration"
               chapters:
                 - management/renal/rrt.qmd
                 # HDx
                 # PD
                 # Haemoperfusion
-            - part: "Electrolyte"
-              chapters:
-                - management/fluid/hypona.qmd
-                - management/fluid/hypoca.qmd
-                - management/fluid/hyperca.qmd
         - part: "Haematology"
           chapters:
           - management/haeme/blood.qmd
@@ -476,7 +479,7 @@ book:
           - disease/cvs/shock.qmd
         - part: "Myocardial"
           chapters:
-            # ACS
+          - disease/cvs/acs.qmd
             # Myocarditis
             # Cardiomyopathies
           - disease/cvs/peripartum.qmd

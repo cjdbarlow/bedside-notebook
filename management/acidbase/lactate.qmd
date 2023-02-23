@@ -1,0 +1,131 @@
+# Hyperlactataemia
+
+Elevation in serum lactate >2mmol/L, which may be:
+
+* Physiological
+* Pathological
+
+
+## Pathophysiology
+
+Lactate is:
+
+* Produced:
+	* At ~0.8mmol/kg/hr
+		* Predominantly by skeletal muscle (~40%)
+		* Also skin/brain/gut/RBC
+	* From pyruvate (via glucose and alanine)\
+	This process regenerates NAD^+^ which allows further conversion from glucose into pyruvate, facilitating ATP production in absence of oxygen.
+* Metabolised by:
+	* **Liver**
+	* Kidneys
+	* Brain\
+	Hypothesised use as substrate for ATP generation, particularly when neuronal uptake of ATP is ↓ as occurs in injury.
+
+:::column-margin
+An ↑ in brain lactate is associated with ↓ mortality.
+:::
+
+Lactate may be pathologically elevated by:
+
+* ↑ Production
+	* Tissue hypoxia (Type A)
+	* Altered metabolism (Type B)
+* ↓ Clearance
+	* Hepatic dysfunction
+	* Renal dysfunction
+
+### Aetiology
+
+Type A:
+
+* Shock\
+* **Mesenteric ischaemia**\
+Although this is just localised ischaemia, it is important enough to be mentioned separately.
+* ↓ O~2~ carriage
+	* Hypoxia
+	* Anaemia\
+	Severe.
+	* CO poisoning
+
+Type B:
+
+* Disease
+	* Sepsis
+	* Failures
+		* Liver failure
+		* Renal failure
+	* Malignancy\
+	↑ Anaerobic glycolysis, possible liver parenchymal destruction.
+		* Phaeochromocytoma
+		* Haematological
+	* Thiamine deficiency
+	* Diabetes
+* Drugs
+	* Catecholamines
+		* Adrenaline
+		* Salbutamol
+	* Analgesics
+		* Paracetamol
+		* Salicylates
+	* Energy sources\
+		* Alcohols
+			* Methanol
+			* Ethanol
+		* Sugars
+			* Fructose
+			* Sorbitol
+	* Glycols
+	* Metformin
+	* SNP
+* Inborn Error of Metabolism
+	* G6PD
+
+
+## Investigations
+
+Bloods:
+
+* Lactate\
+This is by default L-lactate, which is the isomer produced by human metabolism. D-lactate is:
+	* Not detected by standard assays
+	* Produced by gut organisms
+	* May be raised in:
+		* Mesenteric ischaemia\
+		Translocation through ischaemic bowel.
+		* Short gut syndrome
+		* Pancreatic insufficiency
+
+## Management
+
+:::caution
+Treating an elevated lactate in isolation is generally unhelpful.\
+\
+An elevated lactate should prompt a search for evidence of systemic or regional malperfusion, and any underlying abnormality corrected to restore DO~2~.
+:::
+
+* Treat the primary disorder
+* Correct acidosis\
+Bicarbonate is reasonable if:
+	* pH < 7.2
+	* Disorder exacerbated by acidosis is present:
+		* Pulmonary hypertension
+		* Arrhythmia risk
+		* High-dose vasoactives
+
+
+## Prognosis
+
+Hyperlactataemia is associated with:
+
+* ↑ Mortality in sepsis/shock
+Level is proportional to mortality; >4 is highly significant.
+* ↑ Mortality in severe cardiac disease\
+Post-arrest, post-CABG, AMI, heart failure.
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

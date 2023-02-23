@@ -78,6 +78,7 @@ ICP: Intracranial Pressure
 ICU: Intensive Care Unit
 IE: Infective Endocarditis
 IJV: Internal Jugular Vein
+iNO: Inhaled Nitric Oxide
 IOP: Intraocular Pressure
 IRIS: Immune Reconstitution Inflammatory Syndrome
 IVC: Inferior Vena Cava
@@ -120,6 +121,7 @@ PAC: Pulmonary Artery Catheter
 PADLs: Personal Activities of Daily Living, e.g. dressing, feeding, toileting, and personal hygeine.
 PBP: Penicillin Binding Protein
 PCA: Posterior Cerebral Artery
+PCI: Percutaneous Coronary Intervention
 PCT: Proximal Convoluted Tubule
 PCWP: Pulmonary Capillary Wedge Pressure
 PDA: Posterior Descending Artery/Patent Ductus Arteriosus
@@ -143,6 +145,7 @@ RRP: Relative Refractory Period
 RRT: Renal Replacement Therapy
 RVEDP: Right Ventricular End-Diastolic Pressure
 RVEDP: Right Ventricular End-Diastolic Volume
+RWMA: Regional Wall Motion Abnormality
 SAM: Systolic Anterior Motion (of the mitral valve)
 SAQ: Short Answer Question
 SBP: Systolic Blood Pressure or Spontaneous Bacterial Peritonitis
@@ -151,6 +154,7 @@ SCV: Subclavian Vein
 SIRS: Systemic Inflammatory Response Syndrome
 SLE: Systemic Lupus Erythematosus
 STP: Standard Temperature and Pressure (0°C at 100kPa)
+STE: ST segment elevation
 SV: Stroke Volume
 SVC: Superior Vena Cava
 SVP: Saturated Vapour Pressure

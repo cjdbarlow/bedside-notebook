@@ -1,0 +1,461 @@
+# Acute Coronary Syndromes
+
+Acute coronary syndrome defines the spectrum of myocardial ischaemia, that is subdivided into:
+
+:::column-margin
+The term OMI (occlusive myocardial infarction) has been suggested as an alternative to STEMI. This change in nomenclature is proposed so all patients who would **benefit from PCI** are overtly included in the classification, as patients with a STEMI-equivalent (i.e., would benefit from PCI, but who don't have STE) may go unrecognised.\
+\
+The language here will retain the traditional nomenclature, but it is good to keep in mind.
+:::
+
+
+* **Unstable Angina**\
+Requires:
+	* Ischaemic symptoms
+	* No ECG changes
+	* No biomarker elevation
+* **Myocardial Infarction**\
+Further subclassified by:
+	* ECG changes, indicating appropriate therapeutic pathway:
+		* **STEMI** and STEMI-equivalents\
+		Strong benefit from a rapid reperfusion therapy. Requires all of:
+			* Ischaemic symptoms
+			* Qualifying ECG changes
+				* New LBBB\
+				False positive in ~40%.
+			* Dynamic change in biomarkers\
+			Will inevitably ↑, although intervention ideally takes place prior to this occurring and so is not necessary for diagnosis.
+		* **NSTEMI**\
+		Requires two of:
+			* Ischaemic symptoms
+			* Ischaemic ECG changes
+			* Dynamic ↑ in biomarkers
+	* Cause:
+		* **Type 1**\
+		Secondary to coronary event.
+		* **Type 2**\
+		Ischaemic imbalance; i.e. mismatch in myocardial oxygen supply and demand.Causes include:
+			* Tachyarrhythmias
+			* Sepsis
+			* Coronary spasm
+			* Anaemia
+			* Hypo/hypertension
+
+:::column-margin
+There are three additional subtypes of MI, with minimal clinical implication:
+
+* Type 3\
+Death with symptoms and ECG changes, but no biomarkers available.
+* Type 4
+	* 4a: Secondary to PCI
+	* 4b: Secondary to stent thrombosis
+* Type 5\
+Secondary to CABG.
+:::
+
+
+
+## Epidemiology and Risk Factors
+
+ACS are a major cause of mortality in the industrialised world:
+
+:::column-margin
+Note that the definition of MI and therefore the *actual disease treated* has evolved over time. Historically, the diagnostic features were Q-waves, indicating myocardium with a completed infarct. In the reperfusion era, it was noted that patients with STE were the ones who benefited from thrombolysis or PCI - STEMI as an entity exists to delineate these two groups.\
+\
+In more recent years with the introduction of high-sensitivity troponin, more patients with UA are now been classified with a NSTEMI.
+:::
+
+* ~15% of all deaths
+	* 70% of these are OOHCA
+	* 60% of deaths are within first hour\
+	Usually prior to reaching medical facility.
+	* ↑ To 20% of deaths in persons >40
+* ↓ In in-hospital mortality from 30% to <10% with current therapy\
+However, significant issues remain in receiving appropriate medical therapy.
+	* ~25% of eligible patients don't receive reperfusion\
+	↑ In women and the elderly. 
+
+Risk factors:
+
+* Age
+* Male
+* Family history
+* Smoking
+* Disease
+	* HTN
+	* DM
+	* Dyslipidaemia
+	* Obesity
+
+
+## Pathophysiology
+
+Mechanisms include:
+
+* Plaque rupture
+	* Atheromatous plaque develops over vessel wall injury
+		* Lipid accumulates in arterial intima
+		* Fibrous cap develops\
+		Usually occurs slowly, may happen more quickly in those with risk factors.
+	* Plaque rupture\
+	Plaque breaks, exposing thrombogenic lipids.
+	* Platelet activation forms a plug over the plaque, occluded blood flow
+* Coronary spasm
+
+Which vessel and how proximal the occlusion is determines the region and extent of myocardial ischaemia:
+
+* LAD occlusion
+	* Anterior MI\
+	~40-50%.
+	* Septal MI
+* LCx\\Distal LAD
+	* Lateral MI
+* RCA\\PLB of LCx\\Dominant LCx\
+	* Inferior\
+	~50%.
+	* Posterior\
+	~3%. Usually associated with inferior or lateral MI.
+	* RV MI\
+	Usually occurs with inferior MI. Concerns are ↓↓ HR, ↓ BP with GTN.
+
+
+## Clinical Manifestations
+
+:::info
+ACS features are more specific for a Type 1 rather than Type 2 MI, which are often free of ischaemic symptoms.\
+\
+Clinical context is used to differentiate the two.
+:::
+
+"Classical" presentation:
+
+:::column-margin
+Pain of unstable angina is usually similar but milder.
+:::
+
+* Pain
+	* Severe
+	* Constant
+	* Retrosternal
+	* Radiation to throat, jaw, ulna aspect of each arm, interscapula
+	* No clear precipitant
+	* Worse on exertion or emotion
+* Associated autonomic symptoms
+	* Sweating
+	* Nausea
+	* Dyspnoea
+	* Anxiety
+
+"Atypical" symptoms:
+
+:::column-margin
+Atypical presentations occur in 25-45% of patients, and is more likely in patients who are:
+
+* Female
+* Elderly
+* Diabetic
+* Obese
+* Have heart failure
+:::
+
+* Pain
+	* Epigastric
+	* Localised to jaw, arms, wrists, or interscapular
+	* Burning
+
+
+## Diagnostic Approach and DDx
+
+Differentials:
+
+* B
+	* PE
+* C
+	* Pericarditis
+	* Aortic dissection
+
+## Investigations
+
+Bloods:
+
+* Cardiac enzymes
+	* Troponins\
+	Highly specific for myocardial injury, but do not identify cause.
+		* Rise over 4-6 hours
+		* Peak 16-24 hours
+		* Resolve over 7-14 days\
+		Prolonged in renal failure.
+	* CK
+
+ECG:
+
+* For diagnosis and infarct localisation
+* Serial recordings\
+	* Change in symptoms
+	* Drawing troponin
+	* Periodically
+
+:::column-margin
+ECG mimics of MI include:
+
+* B
+	* PE
+* C
+	* LVH
+	* Old inferior MI
+	* Benign Early Repolarisation
+	* Digoxin therapy
+* F
+	* Hyperkalaemia
+:::
+
+Echo:
+
+* LV function
+* RWMA\
+Infarct location. Presence of RWMA is sensitive but not specific for STEMI.
+* Assess other differential diagnoses
+* Infarct complications
+	* Papillary muscle rupture
+	* MR
+	* Myocardial rupture
+	* VSD
+
+### ECG Indications for Reperfusion
+
+STEMI and STEMI equivalents include:
+
+1. ST Segment elevation
+	* Men <40\
+	2.5mm in V~2-3~ and 1mm in other leads.
+	* Men >40\
+	2mm in V~2-3~ and 1mm in other leads.
+	* Women\
+	1.5mm in V~2-3~ and 1mm in other leads
+2. LBBB and one of:
+	* Cardiogenic shock
+	* Sgarbossa Criteria positive
+		* *Concordant* STE >1mm in >1 lead\
+		In a LBBB, there is normally discordant STE, i.e. the ST segment moves in the opposite direction to the QRS.
+		* Concordant STD >1mm in >1 of V~1-3~
+	* Smith-modified Sgarbossa criteria positive
+		* Excessively discordant STE in >1 lead\
+		Excessive discordance defined as ST elevation >25% of the preceding S-wave.
+3. New RBBB and LAFB\
+Strongly associated with proximal LAD occlusion.
+4. Posterior MI\
+STD >1mm in V~1-4~, +/- STE >0.5mm in V~8-9~.
+5. Lateral wall MI\
+Any STE in aVL with STD in III (II/aVF).
+
+
+## Management
+
+**Resuscitation**:\
+
+* B:
+	* Supplemental **oxygen**\
+	Target SpO~2~ of 93-97%. Avoid hyperoxia, concerns that this may ↑ infarct size.
+* C
+	* **Venous access**
+	* **Defibrillator** available
+	* Sublingual **GTN**\
+		* Indications:
+			* Ischaemic pain
+			* Hypertension
+			* Pulmonary oedema
+		* Contraindications:
+			* Hypotension
+			* RV MI
+			* Recent PDE inhibitor
+
+
+**Specific therapy**:
+
+:::column-margin
+GTN does not improve outcome and relief of pain is **not diagnostic for ischaemia**, but may be useful for symptom relief.
+:::
+
+* **Reperfusion** therapy\
+In STEMI and STEMI-equivalents.
+	* Thrombolysis
+	* PCI
+* Pharmacological
+	* **Aspirin**\
+		* 300mg load, then 100mg/day lifelong
+		* ↓ Mortality by ~2.5%, halves rate of stroke and reinfarction
+		* Consider clopidogrel if aspirin contraindicated
+	* Consider **DAPT**\
+		* Recommended if:
+			* Anticipating primary PCI\
+			Though benefit remains even if PCI not performed.
+			* Low bleeding risk
+			* Not bradycardic\
+			Ticagrelor may worsen bradycardia.
+		* May be:
+			* Ticagrelor\
+			180mg load, then 90mg BD.
+			* Clopidogrel\
+			May be preferred to ticagrelor for patients with ↑ bleeding risk. 300-600mg load, then 75mg daily.
+		* Long half-lives result in ↑ bleeding if CABG is required
+		* Duration depends on type of stenting
+	* **Anticoagulation**\
+	Stabilises clot and ↓ early infarction, but leads to rebound ↑ infarction
+		* Fondaparinux 2.5mg daily\
+		Preferred option, if available.
+		* Enoxaparin 1mg/kg BD
+		* Therapeutic heparin infusion
+	* **β-blockers**\
+		* **Only** in patients who are haemodynamically stable patients\
+		Usually after thrombolytic therapy.
+		* Ideally within 24 hours
+		* ↓ Malignant arrhythmia rate
+	* **ACE-I/A2RB**\
+	↓ Mortality and ↓ LV failure in STEMI, probably beneficial in NSTEMI.
+		* Contraindications
+			* Renal dysfunction
+			* Hypotension
+			* Hyperkalaemia
+	* **Statin**\
+	Commence within 24 hours. ↓ Mortality.
+		* Atorvastatin 80mg
+	* Long-term anticoagulation\
+	Only for specific indication, e.g. AF, LV thrombus, severe LV dysfunction.
+* Physical
+	* Lifestyle advice
+	* Cardiac rehabilitation
+
+
+**Supportive care**:
+
+* C
+	* Haemodynamic support
+		* May be required prior to reperfusion for significant infarcts
+		* Mechanical support
+			* IABP\
+			No good evidence of mortality benefit.
+			* ECMO
+* D
+	* **Opioid** analgesia
+* F
+	* Electrolyte correction
+		* K^+^ >4.5mmol/L
+		* Mg^2+^ >1mmol/L
+* H
+	* Aim Hb > 80mg/L if ongoing ischaemia
+
+
+**Disposition**:
+
+* CCU
+* ICU
+
+### Reperfusion
+
+:::danger
+Thrombolysis should be performed for STEMI if PCI cannot occur in **<120 minutes**.
+:::
+
+Reperfusion ↓ infarct size and ↑ LV function, ↓ stroke rate, and ↓ mortality. Factors influencing reperfusion strategy:
+
+* **Time**
+	* Infarct
+	* Transfer time
+* **Contraindications to thrombolysis**
+	* Absolute
+		* Intracranial
+			* Stroke <6 months
+			* Intracranial neoplasm
+		* Cardiac
+			* Aortic dissection
+		* Active internal bleeding
+	* Relative
+		* Bleeding risk
+			* Coagulopathy
+			* Hypertension
+			* Recent major trauma
+			* Peptic ulcer disease
+		* Pregnancy
+* **High risk features**\
+Indication for PCI.
+	* Ventricular arrhythmias
+	* Cardiogenic shock
+	* Pain refractive for medical therapy
+
+
+Thrombolysis:
+
+* Effective if performed **<3 hours from onset**\
+Works best with fresh clot, prior to fibrin formation.
+* ~4% ↓ in absolute mortality
+
+
+PCI is preferred, provided it can occur in a timely fashion. PCI:
+
+* Should be performed urgently\
+Sooner is better, <60 minutes is the goal. PCI has ~6% ↓ in mortality.
+* May be:
+	* Primary PCI
+	* Rescue PCI\
+	PCI performed after failed thrombolysis. 
+
+
+### Right Ventricular Myocardial Infarction
+
+Additional considerations for the RV MI:
+
+* C
+	* RV support
+		* Maintain preload\
+		Nitrates, morphine, diuretics, PEEP, hypoxaemia.
+		* iNO
+		* Vasoactives
+
+### Ineffective Therapies
+
+## Anaesthetic Considerations
+
+Occasionally, anaesthetic support to the cath lab is requested for patients with:
+
+* Cardiogenic shock
+* Agitation
+
+## Complications
+
+* Death
+* Cardiogenic shock
+* Pulmonary oedema
+* MR
+	* Functional\
+	Related to LV dilation and diastolic dysfunction.
+	* Papillary muscle rupture
+* Ventricular rupture
+* VSD 
+* Malignant arrhythmias
+* Ischaemic cardiomyopathy and cardiac failure\
+15-25% following STEMI.
+* Pericarditis/Dressler's syndrome\
+Usually develops 24-72 hours post MI.
+* Stroke\
+Embolism from LV thrombus.
+
+## Prognosis
+
+Infarct size is influenced by time to reperfusion, and determines degree of:
+
+* LV systolic dysfunction
+* Diastolic dysfunction
+
+## Key Studies
+
+Antiplatelet agents:
+
+* [PLATO](https://academic.oup.com/eurheartj/article/35/31/2083/2293063)\
+Ticagrelor had improved mortality and ischaemic events compared to clopidogrel in NSTE-ACS, with no ↑ in bleeding.
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

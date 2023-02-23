@@ -1,13 +1,13 @@
-# Cardiac Arrest Post-Cardiac Surgery
+# Cardiac Advanced Life Support
 
+This section covers the algorithmic management of cardiac arrest in an adult patient who is **up to 14 days** after cardiac surgery.
 
+:::column-margin
+These patients are also typically:
 
-This section covers the algorithmic management of cardiac arrest in an adult patient who is:
-
-* **Up to 14 days** after cardiac surgery
-* And is typically:
-	* In the ICU  
-	* Invasively monitored
+* In the ICU  
+* Invasively monitored
+:::
 
 ## Protocol
 
@@ -79,8 +79,9 @@ Indication of arrest due to low preload (and not amenable to cardiac compression
 
 ### Emergency Resternotomy
 
-> Resternotomy occurring ⩽10 minutes is associated with ~50% survival, compared to ~10% if >10 minutes
-
+:::caution
+Resternotomy occurring ⩽10 minutes is associated with ~50% survival, compared to ~10% if >10 minutes
+:::
 
 Emergency resternotomy should be:
 
