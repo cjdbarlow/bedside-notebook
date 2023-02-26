@@ -1,0 +1,71 @@
+# Atrial Flutter
+
+Atrial re-entrant arrhythmia where the electrical impulse circles within the atria. The:
+
+* Atrial rate is usually ~300
+* Ventricular rate is function of AV nodal conduction and occurs as a **ratio** of the atrial rate
+	* Usually 2:1, i.e. ventricular rate ~150
+	* 1:1 is rare and potentially lethal
+	* Ratio is usually fixed, so the ventricular rate is usually abnormally constant\
+	Note the ratio may vary (e.g. between 2:1 and 3:1).
+* Pathway may be either:
+	* Typical\
+		* Counter-clockwise circuit between the tricuspid orifice, vena cavae orifice, and crista terminalis
+		* 90% of cases
+		* Sawtooth appearance best seen in V~1~, with a negative defelction in the inferior leads
+	* Non-typical
+		* Clockwise circuit
+		* Usually associated with atrial disease\
+		Scar, structures.
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Manifestations
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+## Management
+
+:::info
+Drug therapy for flutter is notoriously unsuccessful and electrical cardioversion is often required.
+:::
+
+**Specific therapy**:
+
+* Pharmacological
+	* Antiarrhythmics
+		* Class IA and IC drugs may lead to 1:1 conduction and so this is less preferred. 
+	* Anticoagulation\
+	As per AF, although there is less data supporting this.
+* Physical
+	* Cardioversion\
+	**Synchronised** at 50J.
+	* Rapid atrial pacing\
+	Must be faster than the atrial flutter rate.
+* Procedural
+	* Ablation\
+	For recurrent flutter. Most effective for typical disease.
+
+
+### Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

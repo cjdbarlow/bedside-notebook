@@ -1,0 +1,121 @@
+# Cardiac Arrest
+
+## Epidemiology and Risk Factors
+
+* ~10/100,000 admissions
+* Majority are expected and occur without attempt at resuscitation
+
+
+### Aetiology
+
+Management requires identification and correctin of **reversible** cause:
+
+* Hypoxia
+* Hypovolaemia
+* Hyper/hypokalaemia\
+* Hypo/hyperthermia
+* Tension pneumothorax
+* Tamponade
+* Toxins
+* Thrombosis
+	* Coronary
+	* Pulmonary (embolism)
+
+## Investigations
+
+## Management
+
+### Basic Life Support
+
+Pillars of basic life support:
+
+* **D**anger
+* **R**esponse
+* **S**end for help
+* Open **A**irway
+* Normal **B**reathing?\
+* Start **C**PR
+	* 30 compressions:2 breaths
+	* 100 compressions/minute
+	* 1/3^rd^ depth of chest
+	* Lower half of sterum\
+	Above this is less effective, below has ↑↑ risk of solid organ injury.
+
+### Advanced Life Support
+
+:::column-margin
+In a witnessed and monitored arrest, with **pads already attached**, it is **ideal** to perform **3 stacked** (repeated) **shocks** prior to commencing CPR.\
+\
+In a witnessed and monitored arrest, **without pads**, it is *reasonable* to perform a precordial thump.
+:::
+
+
+* A
+	* Airway\
+	Adequate airway for gas exchange is the goal. Attempts at securing a definitive airway may excessively prolong time without CPR or gas exchange, without improving survival.
+* B
+	* End-tidal CO~2~
+		* Correlates with cardiac index
+		* Allows detection of ROSC
+* C
+	* Attach **D**efibrillator
+		* 200J biphasic or 360J monophasic
+		* Anterior-Posterior pad position may be slightly preferable as it is less dependent on heart position
+
+
+
+### Post-Resuscitation Care
+
+**Immediate**:
+
+* Repeat a primary survey
+* Perform 12-lead ECG
+* Continue treatment of primary causes
+* Commence hypothermia
+
+**Supportive care**:
+
+* A
+	* Secure airway
+* B
+	* Normoxia\
+	Avoid hypoxia; i.e. SpO~2~ 94-98%.
+	* Normocapnoea
+* C
+	* Maintain perfusion\
+	Patients usual BP or SBP >100mmHg.
+* D
+	* Avoid hyperglycaemia\
+	Treat BSL >10mmol/L.
+	* Treat seizures
+	* Remain sedated
+* E
+	* **Therapeutic hypothermia**\
+	Keep temperature 35.5-36.5°C for 24 hours.
+
+### Ineffective Therapies
+
+## Complications
+
+* Malperfusion
+	* Death
+	* Hypoxic brain injury
+* CPR complications
+	* Rib/sternal fractures
+	* Solid organ injury
+
+## Prognosis
+
+Surprisingly good overall:
+
+* Hospital discharge in 52%\
+Multifactorial:
+	* Early detection
+	* Early arrival of ALS
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

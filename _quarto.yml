@@ -79,8 +79,9 @@ book:
       chapters:
         - part: "**Resuscitation**"
           chapters:
-            - management/resus/cals.qmd
+            - management/resus/ihca.qmd
             - management/resus/oohca.qmd
+            - management/resus/cals.qmd
             - management/resus/intrauterineresus.qmd
             - management/resus/neonatal.qmd
         - part: "Communication"
@@ -486,9 +487,12 @@ book:
           - disease/cvs/hocm.qmd
         - part: "Dysrhythmia"
           chapters:
+            - disease/cvs/af.qmd
+            - disease/cvs/flutter.qmd
+            - disease/cvs/ectopy.qmd
             # AF
             # TDP
-          - disease/cvs/longqt.qmd
+            - disease/cvs/longqt.qmd
         - part: "Valvular"
           chapters:
           - disease/cvs/as.qmd

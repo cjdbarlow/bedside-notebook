@@ -1,0 +1,76 @@
+# Ectopy
+
+Premature impulse arising from cardiac conduction tissue:
+
+* Atria
+* AV junction
+* His-Purkinje system
+* Ventricle
+	* No preceding P-wave
+	* Wide-complex
+	* T-wave opposite polarity to QRS
+	* Compensatory pause\
+	Temporary AV-dissociation leading to delay before the next conducted sinus beat. Absence of a pause is an **interpolated** ectopic, and occurs when the sinus rate is slow.
+	* Also includes ventricular bigeminy or trigeminy\
+	An ectopic, followed by one (or two) sinus beats.
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Manifestations
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+## Management
+
+Ventricular ectopics:
+
+* Electrolyte correction
+	* K^+^ >4.5mmol/L
+	* Mg^2+^ >1mmol/L
+
+**Resuscitation**:\
+
+ABC approach. Comment on team coordination and clinical priorities.
+**Specific therapy**:
+
+* Pharmacological
+* Physical
+* Procedural
+
+**Supportive care**:
+
+**Disposition**:
+
+### Ineffective Therapies
+
+Ventricular ectopics:
+
+* Antiarrythmic therapy ↑ mortality
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+Ventricular ectopics:
+
+* Not associated with adverse outcome if asymptomatic unless:
+	* Exercise induced
+	* Occurring with acute MI\
+	Precede VF or VT.
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

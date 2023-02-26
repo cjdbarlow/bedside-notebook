@@ -1,0 +1,152 @@
+# Atrial Fibrillation
+
+Common arrhythmia with completely discordant atrial conduction, leading to:
+
+* Loss of effective atrial contraction\
+↓ Ventricular preload, significance depends on:
+	* Ventricular function\
+		* Systolic function
+		* Diastolic function\
+	* Ventricular rate
+* Variable ventricular rates
+
+:::column-margin
+
+Common terms include:
+
+* Paroxysmal AF\
+Terminates within 7 days (with or without treatment) of onset
+* Persistent AF\
+Lasts >7 days.
+* Longstanding AF\
+Lasts >1 year.
+* Permanent AF\
+When attempts at rhythm control have stopped.
+:::
+
+## Epidemiology and Risk Factors
+
+Common:
+
+* 5% of >70s
+
+Risk factors:
+
+* Age
+* Obesity
+* OSA
+* Cardiac disease
+	* Atrial dilation
+		* MR
+		* MS
+	* LV dysfunction
+	* CABG\
+	25-50%.
+	* Cardiac failure\
+	40%.
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Manifestations
+ 
+## Diagnostic Approach and DDx
+
+## Investigations
+
+## Management
+
+:::info
+Management of AF has traditionally been divided into two competing strategies:
+
+* **Rate control**\
+Remain in AF, with controlled ventricular rate. Requires **anticoagulation**.
+* **Rhythm control**\
+Conversion to sinus rhythm. *May* be superior to rate control, *if* it can be achieved, and is desirable in patients:
+	* <60
+	* Structurally normal hearts
+	* Reversible precipitant of AF
+:::
+
+:::column-margin
+The rate/rhythm control debate is made more complex by the fact that rate control strategies result in SR in ~35% of patients, and rhythm control fails in 40-60% of patients. Rhythm control agents (amiodarone, flecainide) also have poorer side effect profiles than rate control agents.\
+\
+Overall, rhythm control is probably superior if it can be consistently achieved without requirement for heavy-duty antiarrhythmics; and so is most ideal in a young patient, without structural heart disease, and good cardiac reserve.
+:::
+
+**Resuscitation**:\
+
+* C
+	* **Electrical cardioversion** to restore SR
+	**Synchronised** electrical cardioversion indicated if haemodynamically unstable.
+	* Chemical cardioversion\
+	Chemical cardioversion may be appropriate in the "lightly unstable" patient, whose haemodynamic state can be managed with the resources available. Options include:
+		* Amiodarone\
+		Variable dosing strategies described:
+			* 2mg/min for 4 hours
+			* 5mg/kg over 1 hour
+			* 150mg over 30 minutes, followed by infusion
+			Can repeat the IV load twice.
+	* Acute rate control\
+	May be preferred if the patient is lightly unstable
+
+
+
+**Rhythm Control**:
+
+* Pharmacological
+	* Chemical cardioversion
+		* Amiodarone
+		* Flecainide\
+			* 2mg/kg over 10 minutes.
+			* Not suitable in structural heart disease or heart failure
+		* Ibutilide\
+			* 1mg over 10 minutes, followed by a repeat dose after 10 minutes
+			* Risk of TDP
+		* Vernakalant\
+			* 3mg/kg over 10 minutes, followed by 2mg/kg over 10 minutes
+			* Suitable in structural heart disease or heart failure
+	* Electrical cardioversion\
+	Conversion to sinus rhythm is associated with a temporary ↑ stroke risk, as any clot formed in the static atria may embolise when atrial contraction resumes. Safe electrical cardioversion
+* Physical
+* Procedural
+
+**Rate Control**:
+
+* Pharmacological
+	* Chemical cardioversion
+
+**Disposition**:
+
+### Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+* C
+	* Haemodynamic instability
+	* Rate-related cardiomyopathy\
+	Reversible ↓ in LV function, occurs in ~10%.
+* D
+	* Stroke
+
+
+## Prognosis
+
+Prognosis depends on cause:
+
+* Idiopathic ("lone") AF
+* Post-surgical\
+Significant ↑ risk of stroke, arrhythmia, ↑ hospital length of stay.
+
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
