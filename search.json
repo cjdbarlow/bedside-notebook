@@ -280,25 +280,53 @@
     "text": "References\n\nAdvanced Life Support Group (Manchester, Kevin Mackway-Jones, and ProQuest (Firm). Major Incident Medical Management and Support the Practical Approach to Pre-Hospital Incident Command. Chichester, West Sussex, U.K.: Wiley-Blackwell, 2012."
   },
   {
-    "objectID": "management/resus/cals.html#protocol",
-    "href": "management/resus/cals.html#protocol",
-    "title": "Cardiac Advanced Life Support",
-    "section": "Protocol",
-    "text": "Protocol\nThis algorithm assumes that the patient has ECG and invasive arterial monitoring:\n\nRecognition\nArrest is consistent with:\n\nLoss of central pulse\nLoss of haemodynamic waveform pulsatility\n\nSystemic arterial pressure\nPulmonary arterial pressure\nCVP\nPulse oximetry\n\nLoss of ETCO2\n\nAssess rhythm\n\nVF/VT/Tachycardia\n\nDC shock\nUp to 3 attempts.\nStart BLS\nCPR may be delayed up to 1 minute to facilitate cardioversion.\nAmiodarone\n300mg. Further loading of 150mg followed by infusion may be given for refractory VT/VF.\nPrepare for emergency resternotomy\n\nAsystole/Severe bradycardia\n\nPace\nIn DDD or DOO at 100bpm and at maximal amplitude.\n\nStart BLS\nCPR may be delayed up to 1 minute to facilitate cardioversion.\nConsider external pacing\nPrepare for emergency resternotomy\n\nPEA\n\nIf paced, turn off external pacing to exclude underlying VF\nStart BLS\nPrepare for emergency resternotomy\n\n\nAdjuvant management\n\nAirway\n\nChange to BVM with 100% O2\n\nBreathing\n\nPEEP to 0cmH2O\nImprove cardiac preload in the setting of tamponade/hypovolaemia.\n\nConsider increasing PEEP if arrest secondary to hypoxia\n\nAuscultate/ultrasound to evaluate for tension pneumo/haemothorax\nDecompress if present.\n\nCirculation\n\nAvoid adrenaline unless advised by senior clinician\nTypical dose is 50-300ug.\nGive fluid bolus\nActivate massive transfusion\nPause infusions\n\nEvaluate for dosing/drug errors\nConsider restarting vasopressor infusions\n\nLignocaine 1mg/kg may be considered as an alternative to amiodarone\nChange IABP settings:\n\nPressure trigger\nMaximum augmentation\n1:1 ratio\n\nConsider echocardiography\nUse should not delay CPR or resternotomy.\n\n\nEvaluate for reversible causes\n\nExternal Cardiac Compressions:\n\nStandard site, depth, and compression ratio\nAn SBP of >60mmHg should be targeted if invasive arterial monitoring is present\nInability to achieve an SBP of >60mmHg with compressions indicates need for immediate resternotomy\nIndication of arrest due to low preload (and not amenable to cardiac compressions) - tamponade or hypovolaemia are likely causes.\n\n\nEmergency Resternotomy\n\nResternotomy occurring ⩽10 minutes is associated with ~50% survival, compared to ~10% if >10 minutes\n\nEmergency resternotomy should be:\n\nPerformed within 5 minutes of arrest\nOr immediately if SBP <60mmHg with external chest compressions.\nConsidered in patients up to 14 days post surgery\nPrepared for immediately upon identification of cardiac arrest\n\nProcess:\n\nCease chest compressions\nRemove sternotomy dressing, apply betadine, apply sterile drape\nShould be performed in ⩽10 seconds.\nCut sternotomy incision and wires\n\nDeep incision through sternotomy sutures down to sternal wires\nCut sternal wires\nRemove sternal wires with heavy needle holder\n\nSuction blood and clot\nOpen sternum with sternal retractor\nIf no output despite opening sternum:\n\nConsider internal defibrillation 20J with internal paddles.\nCommence internal cardiac massage\n\nAvoid grafts\nRight hand over apex and around behind the heart\nLeft hand over anterior surface of heart\nSqueeze both hands together with flat palms and straight fingers\nAim SBP >60mmHg at a 100 bpm.\n\n\n\nPost-procedural care:\n\nTransfer to OT\n\nWashout\nConsider closure\n\nAntibiotics\nAvoid fever\nTemperature ⩽36°C."
+    "objectID": "management/resus/ihca.html#epidemiology-and-risk-factors",
+    "href": "management/resus/ihca.html#epidemiology-and-risk-factors",
+    "title": "Cardiac Arrest",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors\n\n~10/100,000 admissions\nMajority are expected and occur without attempt at resuscitation\n\n\nAetiology\nManagement requires identification and correctin of reversible cause:\n\nHypoxia\nHypovolaemia\nHyper/hypokalaemia\n\nHypo/hyperthermia\nTension pneumothorax\nTamponade\nToxins\nThrombosis\n\nCoronary\nPulmonary (embolism)"
   },
   {
-    "objectID": "management/resus/cals.html#references",
-    "href": "management/resus/cals.html#references",
-    "title": "Cardiac Advanced Life Support",
+    "objectID": "management/resus/ihca.html#investigations",
+    "href": "management/resus/ihca.html#investigations",
+    "title": "Cardiac Arrest",
+    "section": "Investigations",
+    "text": "Investigations"
+  },
+  {
+    "objectID": "management/resus/ihca.html#management",
+    "href": "management/resus/ihca.html#management",
+    "title": "Cardiac Arrest",
+    "section": "Management",
+    "text": "Management\n\nBasic Life Support\nPillars of basic life support:\n\nDanger\nResponse\nSend for help\nOpen Airway\nNormal Breathing?\n\nStart CPR\n\n30 compressions:2 breaths\n100 compressions/minute\n1/3rd depth of chest\nLower half of sterum\nAbove this is less effective, below has ↑↑ risk of solid organ injury.\n\n\n\n\nAdvanced Life Support\n\n\nIn a witnessed and monitored arrest, with pads already attached, it is ideal to perform 3 stacked (repeated) shocks prior to commencing CPR.\n\nIn a witnessed and monitored arrest, without pads, it is reasonable to perform a precordial thump.\n\nA\n\nAirway\nAdequate airway for gas exchange is the goal. Attempts at securing a definitive airway may excessively prolong time without CPR or gas exchange, without improving survival.\n\nB\n\nEnd-tidal CO2\n\nCorrelates with cardiac index\nAllows detection of ROSC\n\n\nC\n\nAttach Defibrillator\n\n200J biphasic or 360J monophasic\nAnterior-Posterior pad position may be slightly preferable as it is less dependent on heart position\n\n\n\n\n\nPost-Resuscitation Care\nImmediate:\n\nRepeat a primary survey\nPerform 12-lead ECG\nContinue treatment of primary causes\nCommence hypothermia\n\nSupportive care:\n\nA\n\nSecure airway\n\nB\n\nNormoxia\nAvoid hypoxia; i.e. SpO2 94-98%.\nNormocapnoea\n\nC\n\nMaintain perfusion\nPatients usual BP or SBP >100mmHg.\n\nD\n\nAvoid hyperglycaemia\nTreat BSL >10mmol/L.\nTreat seizures\nRemain sedated\n\nE\n\nTherapeutic hypothermia\nKeep temperature 35.5-36.5°C for 24 hours.\n\n\n\n\nIneffective Therapies"
+  },
+  {
+    "objectID": "management/resus/ihca.html#complications",
+    "href": "management/resus/ihca.html#complications",
+    "title": "Cardiac Arrest",
+    "section": "Complications",
+    "text": "Complications\n\nMalperfusion\n\nDeath\nHypoxic brain injury\n\nCPR complications\n\nRib/sternal fractures\nSolid organ injury"
+  },
+  {
+    "objectID": "management/resus/ihca.html#prognosis",
+    "href": "management/resus/ihca.html#prognosis",
+    "title": "Cardiac Arrest",
+    "section": "Prognosis",
+    "text": "Prognosis\nSurprisingly good overall:\n\nHospital discharge in 52%\nMultifactorial:\n\nEarly detection\nEarly arrival of ALS"
+  },
+  {
+    "objectID": "management/resus/ihca.html#references",
+    "href": "management/resus/ihca.html#references",
+    "title": "Cardiac Arrest",
     "section": "References",
-    "text": "References\n\nSociety of Thoracic Surgeons Task Force on Resuscitation After Cardiac Surgery. The Society of Thoracic Surgeons Expert Consensus for the Resuscitation of Patients Who Arrest After Cardiac Surgery. Ann Thorac Surg. 2017 Mar;103(3):1005-1020.\nTruhlar A, Deakin CD, Soar J et al. European Resuscitation Council Guidelines for Resuscitation 2015: Section 4. Cardiac arrest in special circumstances. Resuscitation 2015; 95: 148-201."
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
   },
   {
     "objectID": "management/resus/oohca.html#epidemiology-and-risk-factors",
     "href": "management/resus/oohca.html#epidemiology-and-risk-factors",
     "title": "Out-Of-Hospital Cardiac Arrest",
     "section": "Epidemiology and Risk Factors",
-    "text": "Epidemiology and Risk Factors"
+    "text": "Epidemiology and Risk Factors\nCommunity cardiac arrest:\n\n50-150/100,000 person-years"
   },
   {
     "objectID": "management/resus/oohca.html#pathophysiology",
@@ -355,6 +383,20 @@
     "title": "Out-Of-Hospital Cardiac Arrest",
     "section": "References",
     "text": "References"
+  },
+  {
+    "objectID": "management/resus/cals.html#protocol",
+    "href": "management/resus/cals.html#protocol",
+    "title": "Cardiac Advanced Life Support",
+    "section": "Protocol",
+    "text": "Protocol\nThis algorithm assumes that the patient has ECG and invasive arterial monitoring:\n\nRecognition\nArrest is consistent with:\n\nLoss of central pulse\nLoss of haemodynamic waveform pulsatility\n\nSystemic arterial pressure\nPulmonary arterial pressure\nCVP\nPulse oximetry\n\nLoss of ETCO2\n\nAssess rhythm\n\nVF/VT/Tachycardia\n\nDC shock\nUp to 3 attempts.\nStart BLS\nCPR may be delayed up to 1 minute to facilitate cardioversion.\nAmiodarone\n300mg. Further loading of 150mg followed by infusion may be given for refractory VT/VF.\nPrepare for emergency resternotomy\n\nAsystole/Severe bradycardia\n\nPace\nIn DDD or DOO at 100bpm and at maximal amplitude.\n\nStart BLS\nCPR may be delayed up to 1 minute to facilitate cardioversion.\nConsider external pacing\nPrepare for emergency resternotomy\n\nPEA\n\nIf paced, turn off external pacing to exclude underlying VF\nStart BLS\nPrepare for emergency resternotomy\n\n\nAdjuvant management\n\nAirway\n\nChange to BVM with 100% O2\n\nBreathing\n\nPEEP to 0cmH2O\nImprove cardiac preload in the setting of tamponade/hypovolaemia.\n\nConsider increasing PEEP if arrest secondary to hypoxia\n\nAuscultate/ultrasound to evaluate for tension pneumo/haemothorax\nDecompress if present.\n\nCirculation\n\nAvoid adrenaline unless advised by senior clinician\nTypical dose is 50-300ug.\nGive fluid bolus\nActivate massive transfusion\nPause infusions\n\nEvaluate for dosing/drug errors\nConsider restarting vasopressor infusions\n\nLignocaine 1mg/kg may be considered as an alternative to amiodarone\nChange IABP settings:\n\nPressure trigger\nMaximum augmentation\n1:1 ratio\n\nConsider echocardiography\nUse should not delay CPR or resternotomy.\n\n\nEvaluate for reversible causes\n\nExternal Cardiac Compressions:\n\nStandard site, depth, and compression ratio\nAn SBP of >60mmHg should be targeted if invasive arterial monitoring is present\nInability to achieve an SBP of >60mmHg with compressions indicates need for immediate resternotomy\nIndication of arrest due to low preload (and not amenable to cardiac compressions) - tamponade or hypovolaemia are likely causes.\n\n\nEmergency Resternotomy\n\nResternotomy occurring ⩽10 minutes is associated with ~50% survival, compared to ~10% if >10 minutes\n\nEmergency resternotomy should be:\n\nPerformed within 5 minutes of arrest\nOr immediately if SBP <60mmHg with external chest compressions.\nConsidered in patients up to 14 days post surgery\nPrepared for immediately upon identification of cardiac arrest\n\nProcess:\n\nCease chest compressions\nRemove sternotomy dressing, apply betadine, apply sterile drape\nShould be performed in ⩽10 seconds.\nCut sternotomy incision and wires\n\nDeep incision through sternotomy sutures down to sternal wires\nCut sternal wires\nRemove sternal wires with heavy needle holder\n\nSuction blood and clot\nOpen sternum with sternal retractor\nIf no output despite opening sternum:\n\nConsider internal defibrillation 20J with internal paddles.\nCommence internal cardiac massage\n\nAvoid grafts\nRight hand over apex and around behind the heart\nLeft hand over anterior surface of heart\nSqueeze both hands together with flat palms and straight fingers\nAim SBP >60mmHg at a 100 bpm.\n\n\n\nPost-procedural care:\n\nTransfer to OT\n\nWashout\nConsider closure\n\nAntibiotics\nAvoid fever\nTemperature ⩽36°C."
+  },
+  {
+    "objectID": "management/resus/cals.html#references",
+    "href": "management/resus/cals.html#references",
+    "title": "Cardiac Advanced Life Support",
+    "section": "References",
+    "text": "References\n\nSociety of Thoracic Surgeons Task Force on Resuscitation After Cardiac Surgery. The Society of Thoracic Surgeons Expert Consensus for the Resuscitation of Patients Who Arrest After Cardiac Surgery. Ann Thorac Surg. 2017 Mar;103(3):1005-1020.\nTruhlar A, Deakin CD, Soar J et al. European Resuscitation Council Guidelines for Resuscitation 2015: Section 4. Cardiac arrest in special circumstances. Resuscitation 2015; 95: 148-201."
   },
   {
     "objectID": "management/resus/intrauterineresus.html#causes",
@@ -8092,6 +8134,237 @@
     "text": "References\n\nDavies MR, Cousins J. Cardiomyopathy and anaesthesia. Contin Educ Anaesth Crit Care Pain. 2009;9(6):189-193. doi:10.1093/bjaceaccp/mkp032"
   },
   {
+    "objectID": "disease/cvs/af.html#epidemiology-and-risk-factors",
+    "href": "disease/cvs/af.html#epidemiology-and-risk-factors",
+    "title": "Atrial Fibrillation",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors\nCommon:\n\n5% of >70s\n\nRisk factors:\n\nAge\nObesity\nOSA\nCardiac disease\n\nAtrial dilation\n\nMR\nMS\n\nLV dysfunction\nCABG\n25-50%.\nCardiac failure\n40%."
+  },
+  {
+    "objectID": "disease/cvs/af.html#pathophysiology",
+    "href": "disease/cvs/af.html#pathophysiology",
+    "title": "Atrial Fibrillation",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\n\nAetiology"
+  },
+  {
+    "objectID": "disease/cvs/af.html#clinical-manifestations",
+    "href": "disease/cvs/af.html#clinical-manifestations",
+    "title": "Atrial Fibrillation",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations"
+  },
+  {
+    "objectID": "disease/cvs/af.html#diagnostic-approach-and-ddx",
+    "href": "disease/cvs/af.html#diagnostic-approach-and-ddx",
+    "title": "Atrial Fibrillation",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
+  },
+  {
+    "objectID": "disease/cvs/af.html#investigations",
+    "href": "disease/cvs/af.html#investigations",
+    "title": "Atrial Fibrillation",
+    "section": "Investigations",
+    "text": "Investigations"
+  },
+  {
+    "objectID": "disease/cvs/af.html#management",
+    "href": "disease/cvs/af.html#management",
+    "title": "Atrial Fibrillation",
+    "section": "Management",
+    "text": "Management\n\nManagement of AF has traditionally been divided into two competing strategies:\n\nRate control\nRemain in AF, with controlled ventricular rate. Requires anticoagulation.\nRhythm control\nConversion to sinus rhythm. May be superior to rate control, if it can be achieved, and is desirable in patients:\n\n<60\nStructurally normal hearts\nReversible precipitant of AF\n\n\n\n\n\nThe rate/rhythm control debate is made more complex by the fact that rate control strategies result in SR in ~35% of patients, and rhythm control fails in 40-60% of patients. Rhythm control agents (amiodarone, flecainide) also have poorer side effect profiles than rate control agents.\n\nOverall, rhythm control is probably superior if it can be consistently achieved without requirement for heavy-duty antiarrhythmics; and so is most ideal in a young patient, without structural heart disease, and good cardiac reserve.\nResuscitation:\n\n\nC\n\nElectrical cardioversion to restore SR Synchronised electrical cardioversion indicated if haemodynamically unstable.\nChemical cardioversion\nChemical cardioversion may be appropriate in the “lightly unstable” patient, whose haemodynamic state can be managed with the resources available. Options include:\n\nAmiodarone\nVariable dosing strategies described:\n\n2mg/min for 4 hours\n5mg/kg over 1 hour\n150mg over 30 minutes, followed by infusion Can repeat the IV load twice.\n\n\nAcute rate control\nMay be preferred if the patient is lightly unstable\n\n\nRhythm Control:\n\nPharmacological\n\nChemical cardioversion\n\nAmiodarone\nFlecainide\n\n\n2mg/kg over 10 minutes.\nNot suitable in structural heart disease or heart failure\n\nIbutilide\n\n\n1mg over 10 minutes, followed by a repeat dose after 10 minutes\nRisk of TDP\n\nVernakalant\n\n\n3mg/kg over 10 minutes, followed by 2mg/kg over 10 minutes\nSuitable in structural heart disease or heart failure\n\n\nElectrical cardioversion\nConversion to sinus rhythm is associated with a temporary ↑ stroke risk, as any clot formed in the static atria may embolise when atrial contraction resumes. Safe electrical cardioversion\n\nPhysical\nProcedural\n\nRate Control:\n\nPharmacological\n\nChemical cardioversion\n\n\nDisposition:\n\nIneffective Therapies"
+  },
+  {
+    "objectID": "disease/cvs/af.html#anaesthetic-considerations",
+    "href": "disease/cvs/af.html#anaesthetic-considerations",
+    "title": "Atrial Fibrillation",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "disease/cvs/af.html#complications",
+    "href": "disease/cvs/af.html#complications",
+    "title": "Atrial Fibrillation",
+    "section": "Complications",
+    "text": "Complications\n\nC\n\nHaemodynamic instability\nRate-related cardiomyopathy\nReversible ↓ in LV function, occurs in ~10%.\n\nD\n\nStroke"
+  },
+  {
+    "objectID": "disease/cvs/af.html#prognosis",
+    "href": "disease/cvs/af.html#prognosis",
+    "title": "Atrial Fibrillation",
+    "section": "Prognosis",
+    "text": "Prognosis\nPrognosis depends on cause:\n\nIdiopathic (“lone”) AF\nPost-surgical\nSignificant ↑ risk of stroke, arrhythmia, ↑ hospital length of stay."
+  },
+  {
+    "objectID": "disease/cvs/af.html#key-studies",
+    "href": "disease/cvs/af.html#key-studies",
+    "title": "Atrial Fibrillation",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/cvs/af.html#references",
+    "href": "disease/cvs/af.html#references",
+    "title": "Atrial Fibrillation",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
+  },
+  {
+    "objectID": "disease/cvs/flutter.html#epidemiology-and-risk-factors",
+    "href": "disease/cvs/flutter.html#epidemiology-and-risk-factors",
+    "title": "Atrial Flutter",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors"
+  },
+  {
+    "objectID": "disease/cvs/flutter.html#pathophysiology",
+    "href": "disease/cvs/flutter.html#pathophysiology",
+    "title": "Atrial Flutter",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\n\nAetiology"
+  },
+  {
+    "objectID": "disease/cvs/flutter.html#clinical-manifestations",
+    "href": "disease/cvs/flutter.html#clinical-manifestations",
+    "title": "Atrial Flutter",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations"
+  },
+  {
+    "objectID": "disease/cvs/flutter.html#diagnostic-approach-and-ddx",
+    "href": "disease/cvs/flutter.html#diagnostic-approach-and-ddx",
+    "title": "Atrial Flutter",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
+  },
+  {
+    "objectID": "disease/cvs/flutter.html#investigations",
+    "href": "disease/cvs/flutter.html#investigations",
+    "title": "Atrial Flutter",
+    "section": "Investigations",
+    "text": "Investigations"
+  },
+  {
+    "objectID": "disease/cvs/flutter.html#management",
+    "href": "disease/cvs/flutter.html#management",
+    "title": "Atrial Flutter",
+    "section": "Management",
+    "text": "Management\n\nDrug therapy for flutter is notoriously unsuccessful and electrical cardioversion is often required.\n\nSpecific therapy:\n\nPharmacological\n\nAntiarrhythmics\n\nClass IA and IC drugs may lead to 1:1 conduction and so this is less preferred.\n\nAnticoagulation\nAs per AF, although there is less data supporting this.\n\nPhysical\n\nCardioversion\nSynchronised at 50J.\nRapid atrial pacing\nMust be faster than the atrial flutter rate.\n\nProcedural\n\nAblation\nFor recurrent flutter. Most effective for typical disease.\n\n\n\nIneffective Therapies"
+  },
+  {
+    "objectID": "disease/cvs/flutter.html#anaesthetic-considerations",
+    "href": "disease/cvs/flutter.html#anaesthetic-considerations",
+    "title": "Atrial Flutter",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "disease/cvs/flutter.html#complications",
+    "href": "disease/cvs/flutter.html#complications",
+    "title": "Atrial Flutter",
+    "section": "Complications",
+    "text": "Complications"
+  },
+  {
+    "objectID": "disease/cvs/flutter.html#prognosis",
+    "href": "disease/cvs/flutter.html#prognosis",
+    "title": "Atrial Flutter",
+    "section": "Prognosis",
+    "text": "Prognosis"
+  },
+  {
+    "objectID": "disease/cvs/flutter.html#key-studies",
+    "href": "disease/cvs/flutter.html#key-studies",
+    "title": "Atrial Flutter",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/cvs/flutter.html#references",
+    "href": "disease/cvs/flutter.html#references",
+    "title": "Atrial Flutter",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
+  },
+  {
+    "objectID": "disease/cvs/ectopy.html#epidemiology-and-risk-factors",
+    "href": "disease/cvs/ectopy.html#epidemiology-and-risk-factors",
+    "title": "Ectopy",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors"
+  },
+  {
+    "objectID": "disease/cvs/ectopy.html#pathophysiology",
+    "href": "disease/cvs/ectopy.html#pathophysiology",
+    "title": "Ectopy",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\n\nAetiology"
+  },
+  {
+    "objectID": "disease/cvs/ectopy.html#clinical-manifestations",
+    "href": "disease/cvs/ectopy.html#clinical-manifestations",
+    "title": "Ectopy",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations"
+  },
+  {
+    "objectID": "disease/cvs/ectopy.html#diagnostic-approach-and-ddx",
+    "href": "disease/cvs/ectopy.html#diagnostic-approach-and-ddx",
+    "title": "Ectopy",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
+  },
+  {
+    "objectID": "disease/cvs/ectopy.html#investigations",
+    "href": "disease/cvs/ectopy.html#investigations",
+    "title": "Ectopy",
+    "section": "Investigations",
+    "text": "Investigations"
+  },
+  {
+    "objectID": "disease/cvs/ectopy.html#management",
+    "href": "disease/cvs/ectopy.html#management",
+    "title": "Ectopy",
+    "section": "Management",
+    "text": "Management\nVentricular ectopics:\n\nElectrolyte correction\n\nK+ >4.5mmol/L\nMg2+ >1mmol/L\n\n\nResuscitation:\n\nABC approach. Comment on team coordination and clinical priorities. Specific therapy:\n\nPharmacological\nPhysical\nProcedural\n\nSupportive care:\nDisposition:\n\nIneffective Therapies\nVentricular ectopics:\n\nAntiarrythmic therapy ↑ mortality"
+  },
+  {
+    "objectID": "disease/cvs/ectopy.html#anaesthetic-considerations",
+    "href": "disease/cvs/ectopy.html#anaesthetic-considerations",
+    "title": "Ectopy",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "disease/cvs/ectopy.html#complications",
+    "href": "disease/cvs/ectopy.html#complications",
+    "title": "Ectopy",
+    "section": "Complications",
+    "text": "Complications"
+  },
+  {
+    "objectID": "disease/cvs/ectopy.html#prognosis",
+    "href": "disease/cvs/ectopy.html#prognosis",
+    "title": "Ectopy",
+    "section": "Prognosis",
+    "text": "Prognosis\nVentricular ectopics:\n\nNot associated with adverse outcome if asymptomatic unless:\n\nExercise induced\nOccurring with acute MI\nPrecede VF or VT."
+  },
+  {
+    "objectID": "disease/cvs/ectopy.html#key-studies",
+    "href": "disease/cvs/ectopy.html#key-studies",
+    "title": "Ectopy",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/cvs/ectopy.html#references",
+    "href": "disease/cvs/ectopy.html#references",
+    "title": "Ectopy",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
+  },
+  {
     "objectID": "disease/cvs/longqt.html#epidemiology-and-risk-factors",
     "href": "disease/cvs/longqt.html#epidemiology-and-risk-factors",
     "title": "Long QT Syndrome",
@@ -11253,7 +11526,7 @@
     "href": "disease/git/cld.html#prognosis",
     "title": "Chronic Liver Disease/Cirrhosis",
     "section": "Prognosis",
-    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 286.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
+    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 290.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
   },
   {
     "objectID": "disease/git/cld.html#key-studies",
