@@ -2,13 +2,17 @@
 
 Common arrhythmia with completely discordant atrial conduction, leading to:
 
-* Loss of effective atrial contraction\
-↓ Ventricular preload, significance depends on:
-	* Ventricular function\
-		* Systolic function
-		* Diastolic function\
-	* Ventricular rate
-* Variable ventricular rates
+* Adverse haemodynamics
+	* Loss of effective atrial contraction\
+	↓ Ventricular preload, significance depends on:
+		* Ventricular function\
+			* Systolic function
+			* Diastolic function\
+		* Ventricular rate
+	* Variable ventricular rates
+	* Rate-related **cardiomyopathy**
+* Systemic embolism\
+Left atrial stasis leads to clot formation and subsequent embolic events.
 
 :::column-margin
 
@@ -23,6 +27,30 @@ Lasts >1 year.
 * Permanent AF\
 When attempts at rhythm control have stopped.
 :::
+
+AF requires both:
+
+* Substrate\
+Underlying heart disease:
+	* Atrial enlargement
+		* Valvular disease
+	* Heart failure
+	* Pericarditis
+	* Hypertrophy
+	* Myocardial injury
+		* ACS\
+		10-15%.
+		* Cardiac surgery
+* Precipitant
+	* Ischaemia
+	* Sympathetic stimulation
+		* Stress
+		* Surgical
+		* Critical illness
+	* Endocrine
+		* THyrotoxicosis
+	* Toxins
+		* Alcohol
 
 ## Epidemiology and Risk Factors
 
@@ -75,51 +103,152 @@ The rate/rhythm control debate is made more complex by the fact that rate contro
 Overall, rhythm control is probably superior if it can be consistently achieved without requirement for heavy-duty antiarrhythmics; and so is most ideal in a young patient, without structural heart disease, and good cardiac reserve.
 :::
 
-**Resuscitation**:\
 
-* C
-	* **Electrical cardioversion** to restore SR
-	**Synchronised** electrical cardioversion indicated if haemodynamically unstable.
-	* Chemical cardioversion\
-	Chemical cardioversion may be appropriate in the "lightly unstable" patient, whose haemodynamic state can be managed with the resources available. Options include:
-		* Amiodarone\
-		Variable dosing strategies described:
-			* 2mg/min for 4 hours
-			* 5mg/kg over 1 hour
-			* 150mg over 30 minutes, followed by infusion
-			Can repeat the IV load twice.
-	* Acute rate control\
-	May be preferred if the patient is lightly unstable
+**Resuscitation**:
 
+* Rhythm control
 
+**Specific Therapy**:
 
-**Rhythm Control**:
-
-* Pharmacological
-	* Chemical cardioversion
-		* Amiodarone
-		* Flecainide\
-			* 2mg/kg over 10 minutes.
-			* Not suitable in structural heart disease or heart failure
-		* Ibutilide\
-			* 1mg over 10 minutes, followed by a repeat dose after 10 minutes
-			* Risk of TDP
-		* Vernakalant\
-			* 3mg/kg over 10 minutes, followed by 2mg/kg over 10 minutes
-			* Suitable in structural heart disease or heart failure
-	* Electrical cardioversion\
-	Conversion to sinus rhythm is associated with a temporary ↑ stroke risk, as any clot formed in the static atria may embolise when atrial contraction resumes. Safe electrical cardioversion
-* Physical
+* Pharmacological\Physical
+	* Haemodynamic control\
+	One of:
+		* Rhythm control
+		* Rate control
+	* Anticoagulation
 * Procedural
+	* Ablation\
+	Achieves drug-free rhythm control in >80% after one attempt, and >90% after two attempts.
 
-**Rate Control**:
 
-* Pharmacological
-	* Chemical cardioversion
+**Supportive Care**:
 
-**Disposition**:
+* Treat precipitant
 
-### Ineffective Therapies
+
+### Rhythm Control
+
+:::danger
+Urgent electrical cardioversion is recommended for haemodynamically unstable AF with RVR - just as with other unstable tachyarrhythmias.
+:::
+
+Electrical cardioversion:
+
+* **Electrical cardioversion** to restore SR\
+**Synchronised** electrical cardioversion indicated if haemodynamically unstable. **Requires sedation in the conscious patient**.
+* **Stroke risk**
+Conversion to sinus rhythm is associated with a temporary ↑ stroke risk, as any clot formed in the static atria may embolise when atrial contraction resumes. Risk significantly elevated if **both**:
+	* Not therapeutically anticoagulated for at least **3 weeks**
+	* AF duration >48 hours\
+	* Acute rate control\
+* Failure associated with:
+	* Greater AF duration
+	* LAE
+	* Precipitants present	
+
+Chemical cardioversion:
+
+* Amiodarone\
+Variable dosing strategies described:
+	* 2mg/min for 4 hours
+	* 5mg/kg over 1 hour
+	* 150mg over 30 minutes, followed by infusion
+	Can repeat the IV load twice.	
+* Flecainide\
+	* 2mg/kg over 10 minutes.
+	* Not suitable in structural heart disease or heart failure
+* Ibutilide\
+	* 1mg over 10 minutes, followed by a repeat dose after 10 minutes
+	* Risk of TDP
+* Vernakalant\
+	* 3mg/kg over 10 minutes, followed by 2mg/kg over 10 minutes
+	* Suitable in structural heart disease or heart failure
+	* More effective in the short term than amiodarone, but less effective in maintaining SR at >24 hours.
+
+
+
+### Rate Control
+
+For acute control:
+
+* Stable
+	* Metoprolol 2.5-5mg IV
+	* Diltiazem 30-69mg PO
+* Unstable
+	* Amiodarone 5mg/kg
+	* Digoxin 0.5-1mg IV
+
+For maintenance:
+
+* Stable
+	* Metoprolol CR 23.75-98mg daily
+	* Bisoprolol 2.5-10mg daily
+	* Diltiazem 30-60mg PO TDS
+* Unstable
+	* Digoxin 125-500ug daily
+	* Amiodarone 100-200mg daily
+
+### Anticoagulation
+
+Risk depends on aetiology, and therefore is classified into:
+
+:::column-margin
+No additional benefit seen from adding aspirin in the therapeutically anticoagulated.
+:::
+
+* Valvular AF\
+Secondary to *rheumatic* MV disease. Requires therapeutic anticoagulation with warfarin.
+* Non-valvular AF
+	* Aspirin
+	* Therapeutic anticoagulation\
+		* Risk assessment\
+		Risk-benefit of stroke versus bleeding.
+			* Stroke risk assessed with CHA~2~DS~2~VASc score
+				* 0: Aspirin or no therapy
+				* 1: Either aspirin or anticoagulation
+				* ⩾2: Anticoagulation
+			* Bleeding risk assessed with HAS-BLED score\
+			↑ HAS-BLED suggests use of DOAC rather than warfarin.
+		* Options
+			* Warfarin\
+			Target INR 2-3.
+			* DOAC
+			* Heparin infusion
+	* DAPT\
+	Superior to warfarin in the warfarin non-compliant.
+
+:::column-margin
+: CHA~2~DS~2~VASc Score
+
++---------------------------------+--------+
+| Risk Factor                     | Points |
++=================================+========+
+| **C**ardiac Failure\            | 1      |
+| LVEF <40%.                      |        |
++---------------------------------+--------+
+| **H**ypertension                | 1      |
++---------------------------------+--------+
+| **A**ge ⩾75                     | 2      |
++---------------------------------+--------+
+| **D**iabetes Mellitus           | 1      |
++---------------------------------+--------+
+| **P**revious embolism           | 2      |
++---------------------------------+--------+
+| P**V**D, CAD, or aortic disease | 1      |
++---------------------------------+--------+
+| **A**ge 65-74                   | 1      |
++---------------------------------+--------+
+| **S**ex (Female)                | 1      |
++---------------------------------+--------+
+:::
+
+### Other Considerations
+
+High-risk groups:
+
+* Hypertrophic cardiomyopathy\
+	* Rhythm control superior
+	* Requires therapeutic anticoagulation
 
 ## Anaesthetic Considerations
 

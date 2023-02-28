@@ -1,20 +1,27 @@
 # Long QT Syndrome
 
 
-Cardiac ion channel malfunction which:
+Prolonged ventricular repolarisation which ↑ risk of **polymorphic ventricular tachycardia**. Polymorphic VT:
 
-* Impairs ventricular repolarisation
-* Increases risk of **polymorphic ventricular tachycardia**  
-Which may:
+:::column-margin
+The QT interval varies with and must be corrected for the heart rate.\
+\
+**Bazett's Formula** suggests:
+
+$$QTc = {QT \over \sqrt{R \textendash R \ Interval}}$$
+:::
+
+* May:
 	* Resolve spontaneously
 	* Degenerate to **VF**
-
-
-Increased sympathetic tone may trigger VT; such triggers include:
-
-* Exercise
-* Sudden loud noises
-* Emotional stress
+* Be triggered by:
+	* ↑ Sympathetic tone
+		* Exercise
+		* Sudden loud noises
+		* Emotional stress
+		* Pain
+* Occurs with ↑ risk with ↑ QTc\
+	* Borderline 440-470ms
 
 ## Epidemiology and Risk Factors
 
@@ -38,7 +45,7 @@ Myocardial repolarisation:
 May be:
 
 * Congenital  
-Multiple major genotypes have been developed, which include:
+1/2,500-5,000. Multiple major genotypes have been developed, which include:
 	* Jervell–Lange-Nielsen  
 	Autosomal recessive.
 	* Romano–Ward  
@@ -55,7 +62,8 @@ Likely associated with some genetic abnormality. Include:
 
 History:
 
-* Sudden syncope
+* Sudden syncope\
+30% of congenital present with syncope or aborted sudden death.
 * Pseudo-seizures during exercise or stress
 * Family history of sudden death
 
@@ -70,13 +78,32 @@ May only be revealed in situations of physiological stress (e.g. a stress ECG).
 
 ## Management
 
-Acute management:
 
-* Magnesium  
-Reduces EADs by increasing encouraging resting repolarisation.
-	* Given as 2g MgSO~4~ over 2-3 minutes  
-	May be repeated with another 2g after 15 minutes.
-	* Consider infusion of 3-20mg/min if arrhythmias persist
+**Resuscitation**:\
+
+* C
+	* Polymorphic VT/VF
+		* DC cardioversion
+		* Mg^2+^
+		Reduces EADs by increasing encouraging resting repolarisation.
+			* Given as 2g MgSO~4~ over 2-3 minutes  
+			May be repeated with another 2g after 15 minutes.
+			* Consider infusion of 3-20mg/min if arrhythmias persist
+
+**Specific therapy**:
+
+* Pharmacological
+	* Antiarrhythmic
+		* β-blockade
+* Procedural
+	* Pacing  
+	Increases HR and reduces QTc.
+	* AICD
+
+**Supportive care**:
+
+**Disposition**:
+
 
 Medical management:
 
