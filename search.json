@@ -861,6 +861,55 @@
     "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
   },
   {
+    "objectID": "management/cvs/pacing.html#pacing-modes",
+    "href": "management/cvs/pacing.html#pacing-modes",
+    "title": "Pacing",
+    "section": "Pacing Modes",
+    "text": "Pacing Modes\nA generic 3 or 5 digit code is used to describe pacing modes:\n\n\nSome examples:\n\nVOO\nVentricle is paced, and there is no sensing. This is a (potentially dangerous) asynchronous mode.\nDDD\nBoth atria and ventricles are sensed and paced. Atrial activity will trigger ventricular pacing if ventricular activity not sensed after an (adjustable) A-V delay.\nDDI\nPaces and senses both atria and ventricles. Atrial activity is not tracked (i.e. each chamber is dealt with individually).\n\n\nChambers paced\nA, V, D (dual, i.e. both atria and ventricles), O (neither).\nChambers sensed\nA, V, D, O.\nResponse to sensing\n\nI: Inhibition\nPacemaker is inhibited by a sensed signal. e.g. VVI, ventricular pacing is inhibited by sensed ventricular activity.\nT: Trigger\nPacemaker triggered by sensed signal.\nD: Inhibition and triggering\nRequires a dual-chamber system.\n\nRate Response\nOnly relevant in permanent systems. Describes if the pacemaker changes rate due to sensed change in metabolic demand.\n\nR: Responsive\nResponds to either movement or ↑ minute ventilation.\nO: No response\n\nMultisite pacing\nAre multiple cardiac chambers paced:\n\nO: None\nA: Atria\nV: One or both ventricles\nD: Any combination of ventricles"
+  },
+  {
+    "objectID": "management/cvs/pacing.html#temporary-systems",
+    "href": "management/cvs/pacing.html#temporary-systems",
+    "title": "Pacing",
+    "section": "Temporary Systems",
+    "text": "Temporary Systems\nConfiguration of temporary epicardial and transvenous pacing systems:\n\nDefault settings\n\nOutput: 10-15mA\nSensitivity:\nRate: ~10 higher than native rate Particularly prior to pacing check, to ↓ risk of R-on-T.\n\nPerform pacing check\nManaging failure to pace\n\n\nPacing Check\n\n\nFailure to Pace\n\nThis can be an emergency in the pacing dependent patient.\n\nEscalation:\n\nEnsure the box is connected\nPress the emergency button\nSets DOO at maximal output (usually 20mA atria, 25mA ventricular).\nConnect the pacing box directly to the pacing lead (bypassing the connecting leads)\nReplace the pacemaker\nInstitute transcutaneous pacing\nPlace a transvenous wire"
+  },
+  {
+    "objectID": "management/cvs/pacing.html#anatomy",
+    "href": "management/cvs/pacing.html#anatomy",
+    "title": "Pacing",
+    "section": "Anatomy",
+    "text": "Anatomy"
+  },
+  {
+    "objectID": "management/cvs/pacing.html#equipment",
+    "href": "management/cvs/pacing.html#equipment",
+    "title": "Pacing",
+    "section": "Equipment",
+    "text": "Equipment"
+  },
+  {
+    "objectID": "management/cvs/pacing.html#technique",
+    "href": "management/cvs/pacing.html#technique",
+    "title": "Pacing",
+    "section": "Technique",
+    "text": "Technique"
+  },
+  {
+    "objectID": "management/cvs/pacing.html#complications",
+    "href": "management/cvs/pacing.html#complications",
+    "title": "Pacing",
+    "section": "Complications",
+    "text": "Complications"
+  },
+  {
+    "objectID": "management/cvs/pacing.html#references",
+    "href": "management/cvs/pacing.html#references",
+    "title": "Pacing",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
+  },
+  {
     "objectID": "management/cvs/regional.html",
     "href": "management/cvs/regional.html",
     "title": "Regional Blood Flow",
@@ -2468,7 +2517,7 @@
     "href": "anaesthesia/periop/icd.html#references",
     "title": "Perioperative Management of Implantable Cardiac Devices",
     "section": "References",
-    "text": "References\n\nBryant HC, Roberts PR, Diprose P. Perioperative management of patients with cardiac implantable electronic devices. BJA Educ. 2016;16(11):388-396. doi:10.1093/bjaed/mkw020"
+    "text": "References\n\nBryant HC, Roberts PR, Diprose P. Perioperative management of patients with cardiac implantable electronic devices. BJA Educ. 2016;16(11):388-396. doi:10.1093/bjaed/mkw020\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
   },
   {
     "objectID": "anaesthesia/periop/antibiotics.html#epidemiology",
@@ -5765,7 +5814,7 @@
     "href": "anaesthesia/obs/cardiac.html#epidemiology-and-risk-stratification",
     "title": "Cardiac Disease in Pregnancy",
     "section": "Epidemiology and Risk Stratification",
-    "text": "Epidemiology and Risk Stratification\nRisk stratification can use:\n\nRisk prediction model\nProvides good general-purpose stratification for patients who may have very individual disease, and a spread of functional stratifications within their lesion.\n\nZAHARA\nCARPREG II\n\nWHO Classification\nComprehensive but may be less useful as does not stratify lesions by severity of that individuals pathology.\n\n\nCARPREG II\nPredictors:\n\nGeneral\n\nPrior cardiac events\nIncludes:\n\nFailure\nTIA/\nArrhythmias\n\nNYHA III/IV or resting SpO2 <90%\nHigh-risk valve LVOT/ obstruction\nMild or greater systemic ventricular dysfunction\nNo previous cardiac intervention\n\nLesion-specific\n\nMechanical valves\nHigh-risk aortopathies\nPulmonary hypertension\nCoronary artery disease\n\nCare related\n\nLate pregnancy assessment\n\n\n\n\n\nWHO Risk Stratification\nLow (WHO I) risk:\n\nCardiology followup limited to one or two visits\nIncludes:\n\nUncomplicated or mild:\n\nPS\nPDA\nMV prolapse\n\nRepaired lesions\nIsolated ectopics\n\n\nModerate (WHO II) risk:\n\nRequire cardiology followup every trimester\nIncludes:\n\nUncorrected ASD or VSD\nRepaired ToF\nMost arrhythmias\n\n\nModerate-severe (WHO II-III) risk:\n\nClassification depends on individual presentation\nIncludes:\n\nMild LV dysfunction\nHCM\nValvular heart disease that is not WHO I or WHO IV\nRepaired coarctation\n\n\nSevere (WHO III) risk:\n\nHigh risk of complications requiring at least monthly cardiology and obstetric review\nMechanical valve\nSystemic RV/Fontan\nCyanotic heart disease\nOther complex congenital heart disease\nAortic dilatation 40-45mm in Marfan’s\nAortic dilatation 45-50mm with bicuspid AV\n\nCritical (WHO IV) risk:\n\nPregnancy contraindicated\nPregnant women who will not consider termination require at least monthly review.\nIncludes:\n\nPAH\nSevere LV dysfunction\nNYHA III-IV or LVEF <30%.\nPrevious peripartum cardiomyopathy\nSevere MS\nSevere symptomatic AS\nMarfan’s with aorta ⩾45mm\nAortic dilatation ⩾50mm with bicuspid AV\nSevere coarctation\n\n\n\n\nContraindications to Pregnancy\nDisease of such risk that pregnancy is considered a contraindication include:\n\nSevere Pulmonary Hypertension\nMortality up to 50%.\nSevere obstructive cardiac disease\n\nHOCM\nAortic stenosis\nMitral stenosis\nPulmonary stenosis\nUnrepaired coarctation\n\nNYHA III or IV heart failure\nMarfan’s disease with aortic root ≥4cm"
+    "text": "Epidemiology and Risk Stratification\nRisk stratification can use:\n\nRisk prediction model\nProvides good general-purpose stratification for patients who may have very individual disease, and a spread of functional stratifications within their lesion.\n\nZAHARA\nCARPREG II\n\nWHO Classification\nComprehensive but may be less useful as does not stratify lesions by severity of that individuals pathology.\n\n\nCARPREG II\nPredictors:\n\nGeneral\n\nPrior cardiac events\nIncludes:\n\nFailure\nTIA/\nArrhythmias\n\nNYHA III/IV or resting SpO2 <90%\nHigh-risk valve LVOT/ obstruction\nMild or greater systemic ventricular dysfunction\nNo previous cardiac intervention\n\nLesion-specific\n\nMechanical valves\nHigh-risk aortopathies\nPulmonary hypertension\nCoronary artery disease\n\nCare related\n\nLate pregnancy assessment\n\n\n\n\n\nWHO Risk Stratification\nLow (WHO I) risk:\n\nCardiology followup limited to one or two visits\nIncludes:\n\nUncomplicated or mild:\n\nPS\nPDA\nMV prolapse\n\nRepaired lesions\nIsolated ectopics\n\n\nModerate (WHO II) risk:\n\nRequire cardiology followup every trimester\nIncludes:\n\nUncorrected ASD or VSD\nRepaired ToF\nMost arrhythmias\n\n\nModerate-severe (WHO II-III) risk:\n\nClassification depends on individual presentation\nIncludes:\n\nMild LV dysfunction\nHCM\nValvular heart disease that is not WHO I or WHO IV\nRepaired coarctation\n\n\nSevere (WHO III) risk:\n\nHigh risk of complications requiring at least monthly cardiology and obstetric review\nMechanical valve\nSystemic RV/\nCyanotic heart disease\nOther complex congenital heart disease\nAortic dilatation 40-45mm in Marfan’s\nAortic dilatation 45-50mm with bicuspid AV\n\nCritical (WHO IV) risk:\n\nPregnancy contraindicated\nPregnant women who will not consider termination require at least monthly review.\nIncludes:\n\nPAH\nSevere LV dysfunction\nNYHA III-IV or LVEF <30%.\nPrevious peripartum cardiomyopathy\nSevere MS\nSevere symptomatic AS\nMarfan’s with aorta ⩾45mm\nAortic dilatation ⩾50mm with bicuspid AV\nSevere coarctation\n\n\n\n\nContraindications to Pregnancy\nDisease of such risk that pregnancy is considered a contraindication include:\n\nSevere Pulmonary Hypertension\nMortality up to 50%.\nSevere obstructive cardiac disease\n\nHOCM\nAortic stenosis\nMitral stenosis\nPulmonary stenosis\nUnrepaired coarctation\n\nNYHA III or IV heart failure\nMarfan’s disease with aortic root ≥4cm"
   },
   {
     "objectID": "anaesthesia/obs/cardiac.html#pathophysiology",
@@ -6773,7 +6822,7 @@
     "href": "anaesthesia/thoracic/lvrs.html#preoperative",
     "title": "Lung Volume Reduction Surgery",
     "section": "Preoperative",
-    "text": "Preoperative\nAssessment: * Respiratory function\nTypically severe emphysema, with: * FEV1 <50% * Low DLCO * Increased TLC/ * Cardiac function\nPresence of pulmonary HTN or RHF. * Coronary artery disease\nCommon in this patient group.\nConsultation: Optimisation: * Long acting bronchodilators * Maintain smoking cessation\nPremedication: Explain/Consent:"
+    "text": "Preoperative\nAssessment: * Respiratory function\nTypically severe emphysema, with: * FEV1 <50% * Low DLCO * Increased TLC/RV * Cardiac function\nPresence of pulmonary HTN or RHF. * Coronary artery disease\nCommon in this patient group.\nConsultation: Optimisation: * Long acting bronchodilators * Maintain smoking cessation\nPremedication: Explain/Consent:"
   },
   {
     "objectID": "anaesthesia/thoracic/lvrs.html#intraoperative",
@@ -11526,7 +11575,7 @@
     "href": "disease/git/cld.html#prognosis",
     "title": "Chronic Liver Disease/Cirrhosis",
     "section": "Prognosis",
-    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 290.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
+    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 291.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
   },
   {
     "objectID": "disease/git/cld.html#key-studies",
@@ -12247,7 +12296,7 @@
     "href": "disease/immune/scleroderma.html#clinical-manifestations",
     "title": "Systemic Sclerosis/Scleroderma",
     "section": "Clinical Manifestations",
-    "text": "Clinical Manifestations\nGeneral:\n\nPain\nFatigue\n\nRespiratory disease:\n\nRestrictive lung disease\nPulmonary fibrosis\n\nCardiac disease:\n\nMyocardial fibrosis/LV failure\nPulmonary hypertension\nArrhythmias\n\nRenal failure:\n\nRenal crisis\n\nDermatological:\n\nRaynauds"
+    "text": "Clinical Manifestations\nGeneral:\n\nPain\nFatigue\n\nRespiratory disease:\n\nRestrictive lung disease\nPulmonary fibrosis\n\nCardiac disease:\n\nMyocardial LV/ failure\nPulmonary hypertension\nArrhythmias\n\nRenal failure:\n\nRenal crisis\n\nDermatological:\n\nRaynauds"
   },
   {
     "objectID": "disease/immune/scleroderma.html#diagnostic-approach-and-ddx",
@@ -13627,5 +13676,61 @@
     "title": "Pulmonary Artery Catheter Insertion",
     "section": "References",
     "text": "References\n\nLiverpool Hospital. Pulmonary Artery Catheter Learning Package. 2016."
+  },
+  {
+    "objectID": "procedures/cvs/transvenous.html",
+    "href": "procedures/cvs/transvenous.html",
+    "title": "Transvenous Pacing",
+    "section": "",
+    "text": "Procedure"
+  },
+  {
+    "objectID": "procedures/cvs/transvenous.html#indications",
+    "href": "procedures/cvs/transvenous.html#indications",
+    "title": "Transvenous Pacing",
+    "section": "Indications",
+    "text": "Indications"
+  },
+  {
+    "objectID": "procedures/cvs/transvenous.html#contraindications",
+    "href": "procedures/cvs/transvenous.html#contraindications",
+    "title": "Transvenous Pacing",
+    "section": "Contraindications",
+    "text": "Contraindications"
+  },
+  {
+    "objectID": "procedures/cvs/transvenous.html#anatomy",
+    "href": "procedures/cvs/transvenous.html#anatomy",
+    "title": "Transvenous Pacing",
+    "section": "Anatomy",
+    "text": "Anatomy"
+  },
+  {
+    "objectID": "procedures/cvs/transvenous.html#equipment",
+    "href": "procedures/cvs/transvenous.html#equipment",
+    "title": "Transvenous Pacing",
+    "section": "Equipment",
+    "text": "Equipment"
+  },
+  {
+    "objectID": "procedures/cvs/transvenous.html#technique",
+    "href": "procedures/cvs/transvenous.html#technique",
+    "title": "Transvenous Pacing",
+    "section": "Technique",
+    "text": "Technique"
+  },
+  {
+    "objectID": "procedures/cvs/transvenous.html#complications",
+    "href": "procedures/cvs/transvenous.html#complications",
+    "title": "Transvenous Pacing",
+    "section": "Complications",
+    "text": "Complications\nHigh rate of complications, usually as a function of low-volume of practice:\n\nCentral access\n\nPneumothorax\nHaemothorax\nArterial injury\nCentral vein thrombosis\n\nPacing lead\n\nCardiac perforation\n\nTamponade\n\n\nPacing\n\nUndersensing\nInappropriate pacing and arrhythmia.\nOversensing\nDiaphragmatic pacing\nAssociated with RV perforation."
+  },
+  {
+    "objectID": "procedures/cvs/transvenous.html#references",
+    "href": "procedures/cvs/transvenous.html#references",
+    "title": "Transvenous Pacing",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
   }
 ]
