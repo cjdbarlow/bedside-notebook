@@ -1,0 +1,52 @@
+# Transvenous Pacing
+
+Emergency transvenous pacing is indicated for:
+
+* Haemodynamically unstable bradycardia that is unresponsive to medical therapy\
+Includes:
+	* Symptomatic bradycardia
+	* AV block
+	* Asystole
+
+
+# Procedure
+
+* Place 5-6Fr sheath\
+	* Right IJV best for convenience and familiarity
+	* Avoid left SCV - may be needed for a permanent system
+
+## Indications
+
+## Contraindications
+
+## Anatomy
+
+## Equipment
+
+## Technique
+
+## Complications
+
+High rate of complications, usually as a function of low-volume of practice:
+
+* Central access
+	* Pneumothorax
+	* Haemothorax
+	* Arterial injury
+	* Central vein thrombosis
+* Pacing lead
+	* Cardiac perforation
+		* Tamponade
+* Pacing
+	* Undersensing\
+	Inappropriate pacing and arrhythmia.
+	* Oversensing
+	* Diaphragmatic pacing\
+	Associated with RV perforation.
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

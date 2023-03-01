@@ -47,6 +47,7 @@ ECT: Electron Transport Chain
 EDP: End-Diastolic Pressure
 EDV: End-Diastolic Volume
 EEG: Electroencephalogram
+EMI: Electromagnetic Interference
 EN: Enteral Nutrition
 EPO: Erythropoietin
 ERP: Effective Refractory Period
@@ -94,6 +95,7 @@ LoS: Length of Stay
 LVEDP: Left Ventricular End-Diastolic Pressure
 LVEDV: Left Ventricular End-Diastolic Volume
 LSW: Last Seen Well
+LV: Left Ventricle
 LVOT: Left Ventricular Outflow Tract
 LVOTO: Left Ventricular Outflow Tract Obstruction
 MAB: Monocloncal Antibody
@@ -145,6 +147,7 @@ RTA: Renal Tubular Acidosis
 RR: Respiratory Rate
 RRP: Relative Refractory Period
 RRT: Renal Replacement Therapy
+RV: Right Ventricle
 RVEDP: Right Ventricular End-Diastolic Pressure
 RVEDP: Right Ventricular End-Diastolic Volume
 RWMA: Regional Wall Motion Abnormality
