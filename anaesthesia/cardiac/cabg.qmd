@@ -99,7 +99,20 @@ For standard approach:
 
 ### Postoperative Care
 
-* Transfer intubated to PACU/ICU
+Medication:
+
+* Aspirin  
+	* Within 6 hours
+	* Consider clopidogrel if aspirin allergy
+* Statin  
+	* When PO intake resumes
+* β-blockers
+	* When able  
+	Limited by pacing requirement, inotrope requirement, or hypotension.
+* ACE-I/ARB
+	* Consider in all patients
+	* Initiation limited by hypotension and AKI
+
 
 
 

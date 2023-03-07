@@ -1,0 +1,43 @@
+# Hyperbaric Oxygen Therapy
+
+The use of a pressure chamber to deliver greater-than-atmospheric partial pressures of gas, in particular oxygen. This significantly increases the partial pressure of oxygen dissolved in plasma.
+
+Delivered therapy varies on:
+
+* The chamber
+    * Monoplace\
+    Single-occupant. Usually completely filled with the breathable gas.
+    * Multiplace\
+    Multiple person chamber. Oxygen hoods are usually used (rather than filling the chamber) to reduce fire risk.
+
+
+## Indications
+
+* Decompressive Injury
+* CO~2~ toxicity\
+CO binds Hb with significantly greater affinity than O~2~.
+    * Increasing PaO~2~ reduces the half-life of CO:
+        * Air: 320 minutes
+        * 100% FiO2~2~: 90 minutes
+        * 3 atm: 23 minutes
+    * This is worthwhile in:
+        * Age >35
+        * Syncope
+        * COHb >25%  
+* Necrotising soft tissue infections
+* Non-healing wounds
+
+## Contraindications
+
+## Anatomy
+
+## Equipment
+
+## Technique
+
+## Complications
+
+
+---
+
+## References

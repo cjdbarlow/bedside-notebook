@@ -1,0 +1,154 @@
+# Infective Endocarditis
+
+Severe and life-threatening infection of cardiac skeletal structures, characterised by:
+
+* Cardiac destruction
+    * Valvular heart disease\
+    Typically on the lower-pressure side (atria AV, ventricular for aortic/pulmonary) of the valve.
+        * Left sided in 90%
+    * Abscesses\
+    Classically aortic root.
+    * Perforation
+    * Fistula
+* Persistent bacteraemia
+* Systemic embolic complications
+
+## Epidemiology and Risk Factors
+
+Risk factors:
+
+* Cardiac
+    * Abnormal valve\
+    More likely to become infected, and more difficult to eradicate infection from.
+        * Rheumatic
+        * Degenerative
+    * Intracardiac device
+        * Prosthetic valve
+        * Implantable wires
+* Bacteraemia
+    * Concurrent infection
+    * IVDU 
+
+## Pathophysiology
+
+### Aetiology
+
+Bacterial infection predominates, common causative organisms include:
+
+* Gram positive predominates
+    * *Staphylococci*
+    * *Streptococci*
+    * *Enterococci*
+    
+
+Fungal endocarditis is rare, and seen with:
+
+* Immunocompromise
+* IVDU 
+
+
+## Clinical Manifestations
+
+## Diagnostic Approach and DDx
+
+**Modified Duke** criteria
+
+## Investigations
+
+Bloods:
+
+* FBE
+* UEC
+* Blood cultures
+
+Radiology:
+
+* CT
+    * Embolic phenomena
+* MRI
+    * Embolic phenomena\
+    Particularly strokes. 
+
+Echocardiography:
+
+* Modality
+    * TTE\
+    * TOE\
+    Better imaging of valvular structures and device leads.
+* Features
+    * Vegetation
+    * Valvular destruction
+        * Regurgitation
+        * Dehisence of prosthetic valve
+    * Fistula
+    * Ventricular dysfunction
+
+## Management
+
+**Specific therapy**:
+
+* Pharmacological
+    * Early antimicrobial therapy
+        * Intravenous
+        * Extended duration\
+        Classically 6 weeks.
+        *
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+* ICU admission commmon for:
+    * Heart failure
+    * Septic shock
+    * Neurological involvment
+
+### Surgical Intervention
+
+Surgery is the cornerstone of curative therapy, but the decision on *when* to operate is complex and driven by the balance of delaying for pre-operative optimisation versus intervening to prevent further decline.
+
+The decision should be multidisciplinary, but factors favouring proceeding include:
+
+* Heart failure
+    * Refractory shock/pulmonary oedema infers urgent surgery
+* Uncontrolled infection\
+Persistent positive blood cultures despite 3-10 (recommendations vary) days of appropriate antibiotic trreatment.
+* Embolisation
+    * Large (>1cm) vegetation at risk of embolising
+    * New stroke\
+    Decision confounded by intracranial haemorrhage, which has substantial implications for therapeutic heparin required for CPB.
+
+
+
+### Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+* C
+    * Embolism
+        * Pulmonary\
+        For right sided disease.
+        * Stroke\
+        15-30%.
+        * Splenic
+        * Renal
+* I
+    * Sepsis
+
+## Prognosis
+
+Varies depending on the extent of valvular disease and severity of systemic infection, however:
+
+* Mortality
+    * 30-50% in patients receiving surgical treatment
+    * 85% in those not receiving operative intervention
+
+## Key Studies
+
+
+---
+
+## References

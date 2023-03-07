@@ -1,61 +1,71 @@
 # Post Cardiac Surgery
 
-Cardiac surgery is unique due to the:
+Cardiac surgery forms a significant component of intensive care work, and is unique due to the:
 
-* Variety in the types of procedure  
-* Use of [Cardiopulmonary Bypass](/anaesthesia/cardiac/cpb.md)
-* Post-operative complications seen
+* Use of [Cardiopulmonary Bypass](/anaesthesia/cardiac/cpb.md) and cardioplegia
+* Variety in the types of procedure and the physiological consequences of changes in loading conditions
+* Nature of post-operative complications
 
 ## Initial Evaluation
 
-Initial evaluation of the cardiac patient includes:
+Reception of the post-cardiac surgical patient includes:
 
-* History
+* Handover
 * Examination
 * Investigation
 
-### History
+### Handover
 
-Important facts when admitting a cardiac surgical patient include:
+Important informatin for the cardiac admission:
 
 * Patient factors
-	* Age and sex
-	* Past medical history
+	* Age
+	* Key past medical history
 		* Allergies
 		* Major CVS risk factors and previous interventions
 		* Chronic health conditions
-		* Current medications
+		* Current medications\
+		Timing of last anticoagulants and anti-platelet agents.
 	* Social history
 		* Functional state
-		* Next of kin
+		* Next of kin\
+		Have they been contacted by the surgical team?
 * Surgical factors
-	* Nature of surgery
-	* Operation and findings
-		* Adequacy of graft targets  
-		* Graft locations
-		* Nature of valve repair or replacement
-		* Complications and management
-	* Drain location
+	* What operation?
+		* CABG
+			* Adequacy of graft targets  
+			* Graft locations
+		* Valvular
+			* Adequacy of repair
+			* Type of replacmeent
+				* Mechanical
+				* Tissue	
+	* Adequacy of myocardial protection	
+	* Complications and management
+	* Bleeding
+	* Drain location\
+	Pleural drains generally placed only if pleural breached (e.g., left pleural during mammary takedown for CABG).
 	* Major surgical concerns
 * Anaesthetic factors
-	* Lines
 	* Airway management and intubation grade
+	* Any issues with lines?
 	* Pre-bypass haemodynamics
 	* Pre-bypass echo  
 	Ventricular and valvular function.
-	* Bypass time
-	* Cross-clamp time
+	* Bypass time and cross-clamp time
 	* Separation from bypass  
 	Requirements for:
-		* DCR
 		* Inotropes/vasopressors
 		* Nitric Oxide
 		* Pacing
 		* IABP
-	* Post-bypass haemodynamics
+		* Return to CPB
+	* Post-bypass haemodynamics and changes in vasoactives
 	* Post-bypass echo
-	* Transfusion requirement
+	* Transfusion requirement	
 	* Coagulation status
+	* Pacing wires\
+	Thresholds.
 	* Current supports on arrival to ICU
 
 
@@ -66,22 +76,18 @@ Examination should involve:
 * Airway
 	* ETT position
 * Breathing
-	* Auscultation  
-	Equal air entry.
-	* Gas exchange  
-	Review ABG.
+	* Adequacy of gas exchange
+		* ABG
+		* Auscultation
+		* Monitoring
 	* Ventilation settings
-	* E~T~CO~2~ trace
-	* SPO~2~
 * Circulation
 	* Haemodynamic state
 		* HR
 		* BP
 		* CO/CI
-		* Pressures  
-		Ensure zeroed
-	* Presence of murmurs
-	* Adequacy of peripheral pulses
+		* Pressures\
+		Ensure zeroed.
 	* Peripheral perfusion
 	* Drain
 		* Patency
@@ -102,11 +108,13 @@ Post-operative investigations should include:
 	* Hb
 	* Electrolyte abnormalities
 * ECG  
-Compare with preoperative ECG:
-	* Common and benign post-operative changes include
+Compare with pre-operative ECG:
+	* Common and benign post-operative changes include:
 		* RBBB
 		* Pericarditic changes
 	* Concerning changes include:
+		* Heart block\
+		Indicates AV nodal dysfunction, particularly after valvular surgery.
 		* STE in continguous leads in a grafted vascular territory  
 		May be acute graft failure.
 		* Anterior STE  
@@ -114,44 +122,39 @@ Compare with preoperative ECG:
 		* Low voltage  
 		Consider tamponade.
 * CXR
-	* ETT position
-	* PAC position
-	* Drain position
-	* NGT position
-	* ICC position
-	* PTHx
-* Bloods
-	* Hb
-	* Platelets
+	* Pneumothorax
+	* Device position\
+	ETT, PAC, NGT, ICC, drains.
+* Bloods\
+Depending on degree of concern.
+	* AVG
 	* Electrolytes
-		* K^+^
-		* Mg^2+^
-	* Glucose
-	* Coagulation panel
+	* Coagulation status
+	* TEG
 	* Cardiac markers  
 	Always elevated post-cardiac surgery, but are useful in trending changes.
 
 ## Management
 
-### General Mangement
+:::info
+The goal for the uncomplicated intubated post-operative cardiac patient is to rewarm, desedate and ensure adequate analgesia, wean ventilator support, and extubate.
+:::
 
-Common management of the cardiac patient includes:
+General post-operative trajectory:
+
+:::column-margin
+Specific post-operative considerations for different procedures are under the relevant operation in the cardiac anaesthetic section.
+:::
 
 * C
 	* Remove PAC  
 	Once HDx stable for 6 hours on minimal vasoactive suppport.
 	* Remove other invasive lines  
 	As able.
-	* Isolate pacing wires  
-	When no pacing requirement for 24 hours.
-	* AF management
-		* Occurs in 10-40% of post-cardiac surgery patients
-		* Substantial associated morbidity:
-			* ↑ CVA risk (3x)
-			* ↑ Inotrope requirement
-			* ↑ IABP
-			* ↑ Reoperation
-			* ↑ ICU and hospital LoS
+	* Remove pacing wires\
+		* Once there has been no pacing requirement for 24 hours, wires can be **isolated**, i.e. removed from the pacing box\
+		This improves mobility whilst still allowing pacing to be restarted if required.
+		* Wires can be removed after a further 24 hours, provided there is **no coagulopathy**
 * D
 	* Analgesia
 	* Wean sedation  
@@ -171,26 +174,74 @@ Common management of the cardiac patient includes:
 	* Urine output  
 	Polyuria dominates the early post-operative period, but usually resolves in ⩽6 hours.
 	* Remove IDC  
-	Second post-operative day.
-
-### Specific Medications
-
-CABG surgery:
-
-* Aspirin  
-	* Within 6 hours
-	* Consider clopidogrel if allergy
-* Statin  
-	* When PO intake resumes
-* β-blockers
-	* When able  
-	Limited by pacing requirement, inotrope requirement, or hypotension.
-* ACE-I/ARB
-	* Consider in all patients
-	* Limited by hypotension and AKI
+	Second post-operative day if mobilising.
 
 
-### Haemodynamic Management
+
+## Complications
+
+Key issues in the post-cardiac surgical patient include:
+
+* Bleeding
+* Haemodynamic instability
+* AF
+* Cardiac tamponade
+
+	
+
+### Bleeding
+
+**Medical bleeding**, due to abnormalities of coagulation:
+
+* Causes:
+	* **Platelets**
+		* Qualitative abnormality  
+		Platelet function is decreased by:
+			* Preoperative use of antiplatelet agents
+			* Cardiopulmonary bypass  
+			Greater bypass duration is associated with greater impairment.
+		* Quantitative abnormality  
+	* Coagulation abnormality
+		* Residual heparinisation
+		* Haemodilution
+		* Consumption
+	* Fibrinogen  
+		* Plasminogen is activated by CPB
+* Treatment:
+	* Normalise temperature
+	* Prevent hypertension
+	* Correct platelet dysfunction:
+		* Platelet transfusion  
+		Aim *functional* platelet count >100 × 10^9^ in significant bleeding.
+		* DDAVP  
+		Aim to improve platelet function.
+			* 20μg IV
+	* Correct coagulopathy  
+	Aim to normalise APTT and PT.
+		* Typically 20ml/kg of FFP
+	* Correct fibrinogen  
+	Aim to keep fibrinogen >1g/L.
+	* Prevent fibrinolysis  
+	Consider in the setting of fibrinolysis (i.e. elevated D-Dimer and low fibrinogen).
+		* TXA
+	* Increase mediastinal pressure  
+	Theoretically reduce venous bleeding.
+		* Increase PEEP
+		* Raise head of bed
+
+**Surgical bleeding**, due to uncontrolled (typically arterial) source. Suggested by:
+
+* Bleeding with normal coagulation parameters
+* Bleeding following period of extreme hypertension\
+Anastomotic breakdown.
+* Large volume drain outputs  
+	* >500ml in 1 hour
+	* >400ml/hr for 2 hours
+	* >300ml/hr for 3 horus
+	* >200ml/hr for 4 hours
+
+
+### Causes of Haemodynamic Perturbation
 
 Haemodynamic impairment can be divided into problems with:
 
@@ -248,76 +299,103 @@ Haemodynamic impairment can be divided into problems with:
 	* Pre-existing ventricular dysfunction
 
 
+### Cardiac Tamponade
 
-## Complications after Cardiac Surgery
+Post-surgical tamponade:
 
-Complications of cardiac surgery relevant to intensive care include:
+* Occurs in up to 5%
+* May emerge slowly
+* Combination of clinical suspicion and echocardiographic diagnosis
+* Features (not all of which may be present):
+	* Tachycardia
+	* Low UO
+	* Fall in CO/SV/MVO~2~
+	* Elevation and equalisation of diastolic pressures  
+	RAP ≃ PADP ≃ PCWP. May not occur if a **small clot impedes filling to only one chamber**.
+	* Loss of y-descent on CVP waveform
+	Indicates that the pressure gradient between the atria and the ventricles is reduced.
+	* Loss of mediastinal drain output
+	* Echocardiography evidence of tamponade	
+* Treatment
+	* Resternotomy and evacuation of clot
 
-* **Bleeding**  
-	* **Medical bleeding**  
-	Due to abnormalities of coagulation.
-		* Causes of medical bleeding:
-			* **Platelets**
-				* Qualitative abnormality  
-				Platelet function is decreased by:
-					* Preoperative use of antiplatelet agents
-					* Cardiopulmonary bypass  
-					Greater bypass duration is associated with greater impairment.
-				* Quantitative abnormality  
-			* Coagulation abnormality
-				* Residual heparinisation
-				* Haemodilution
-				* Consumption
-			* Fibrinogen  
-				* Plasminogen is activated by CPB
-		* Treatment of medical bleeding:
-			* Normalise temperature
-			* Prevent hypertension
-			* Correct platelet dysfunction:
-				* Platelet transfusion  
-				Aim *functional* platelet count >100 × 10^9^ in significant bleeding.
-				* DDAVP  
-				Aim to improve platelet function.
-					* 20μg IV
-			* Correct coagulopathy  
-			Aim to normalise APTT and PT.
-				* Typically 20ml/kg of FFP
-			* Correct fibrinogen  
-			Aim to keep fibrinogen >1g/L.
-			* Prevent fibrinolysis  
-			Consider in the setting of fibrinolysis (i.e. elevated D-Dimer and low fibrinogen).
-				* TXA
-			* Increase mediastinal pressure  
-			Theoretically reduce venous bleeding.
-				* Increase PEEP
-				* Raise head of bed
-	* **Surgical bleeding**  
-	Due to uncontrolled (typically arterial) source. Suggested by:
-		* Bleeding with normal coagulation parameters
-		* Large volume drain outputs  
-			* >500ml in 1 hour
-			* >400ml/hr for 2 hours
-			* >300ml/hr for 3 horus
-			* >200ml/hr for 4 hours
-		* Bleeding following period of extreme hypertension
-* **Cardiac Tamponade**  
-Collection of fluid (blood) around the heart, impairing filling and therefore CO.
-	* Up to 5%
-	* Clinical diagnosis
-	* Features:
-		* Tachycardia
-		* Low UO
-		* Fall in CO/SV/MVO~2~
-		* Elevation and equalisation of diastolic pressures  
-		RAP ≃ PADP ≃ PCWP.
-			* May not occur if a small clot occurs around and impedes filing to only one chamber.
-		* Loss of y-descent on CVP waveform  
-		Indicates that the pressure gradient between the atria and the ventricles is reduced.
-		* Loss of mediastinal drain output
-		* Echocardiography
-	* Treatment
-		* Resternotomy and evacuation of clot
 
+
+### Atrial Fibrillation
+
+AF occurs in 10-40% of post-cardiac surgery patients, and is associated with significant morbidity:
+
+* ↑ CVA risk (3x)
+* ↑ Inotrope requirement
+* ↑ Reoperation
+* ↑ ICU and hospital LoS
+
+
+Risk factors include:
+
+* Age
+* Use of cardiac supports:
+	* Inotropes
+	* IABP
+* Previous AF
+* Valvular heart disease
+
+
+Prevention strategies include:
+
+* Antiarrhythmics
+	* Beta-blockade
+	* Amiodarone
+	* Diltiazem
+	* Sotalol
+* Procedural
+	* Bi-atrial pacing
+* Anti-inflammatories
+	* Statins
+	* Dexamethasone
+	* Colchicine		
+
+
+Treatment strategies:
+
+* Pharmacological
+	* Rhythm control
+		* Amiodarone
+		* Magnesium
+	* Rate control
+		* Beta-blockade
+		* Diltiazem
+		* Digoxin
+	* Anticoagulation\
+	Consider if >48 hours.	
+* Physical
+	* Electrical cardioversion
+	
+
+### Renal Failure
+
+Post-operative AKI:	
+
+* Occurs in 1-5%
+* Significant associated morbidity and mortality
+
+### Other
+
+Other complications of cardiac surgery include:
+
+* D
+	* Delirium/POCD
+	10-20%.
+	* Stroke	
+	1-5%.
+* G
+	* Mesenteric ischaemia
+		* Embolic
+* I
+	* Infection
+		* Deep sternal wound infection in 1-2%\
+		Significant morbidity.
+	
 ---
 
 ## References

@@ -13,37 +13,66 @@ COPD is a chronic, progressive inflammatory disease characterised by persistent 
 
 ## Epidemiology and Risk Factors
 
-Environmental exposures:
+Common comorbidity:
 
-* **Smoking**
-	* **Cigarettes**
-	* Pipes/cigars
-	* Water pipe
-	* Marijuana
-* Occupational exposures
-	* Dusts
-	* Chemical agents
-	* Fumes
-* Indoor air pollution
-	* Cooking fuels
-* Outdoor air pollution  
-Relatively small effect.
+* 10% of >40s woldwide
+* 4th most common cause of death
+* Associated with:
+	* CAD
+	* Malignancy
+	* Depression
 
-Genetic factors:
+Risk factors:
 
-* FAM13A associated with development
+* Environmental exposures:
+	* **Smoking**
+		* **Cigarettes**
+		* Pipes/cigars
+		* Water pipe
+		* Marijuana\
+		Greater incease in bullous emphysema due to holding hot inhaled smoke.
+	* Occupational exposures
+		* Dusts
+		* Chemical agents
+		* Fumes
+	* Indoor air pollution
+		* Cooking fuels
+	* Outdoor air pollution  
+	Relatively small effect.
+* Genetic factors:
+	* FAM13A associated with development
+
+:::column-margin
+Degree of decline in FEV~1~ with age varies with the duration of smoking, timing of quitting smoking, and susceptibility to COPD.
+
+![](/resources/fletcher-peto.jpeg)
+:::
+
 
 ## Pathophysiology
 
 Expiratory airflow limitation via:
 
-* Obstructive bronchiolitis  
-Small airway inflammation leads to gas trapping and dynamic hyperinflation.
-* Parenchymal destruction  
-Leading to emphysema, which reduces:
-	* Pulmonary capillary bed volume
-	* Lung surface area for gas exchange
-	* V/Q matching
+* Increased airway resistance:
+	* Obstructive bronchiolitis  
+	Small airway inflammation leads to gas trapping and dynamic hyperinflation.
+	* Increased Secretion production
+	* Bronchospasm
+	* Parenchymal destruction  
+	Leading to emphysema, which reduces:
+		* Pulmonary capillary bed volume
+		* Lung surface area for gas exchange
+		* V/Q matching
+* Loss of elastic recoil\
+Combination of elastin destruction and fall in alveolar surface tension.
+	* Decreased Expiratory air flow
+	
+Air flow limitaiton leads to:
+
+* Prolonged expiration
+* Pulmonary hyperinflation
+* Increased work of breathing
+* Dyspnoea	
 
 ### Aetiology
 
@@ -56,8 +85,9 @@ Key symptoms are:
 * Dyspnoea  
 Graded using the mMRC scale.
 
-### Modified Medical Research Council (MRC) Scale
 
+
+:::column-margin
 
 |MRC Grade|Breathlessness|
 |--|--|
@@ -66,6 +96,9 @@ Graded using the mMRC scale.
 |**Grade 2**|Slower than people of same age, or stopping due to shortness of breath on flat ground|
 |**Grade 3**|After ~100m or a few minutes on flat ground|
 |**Grade 4**|I am too breathless to leave the house, or get breathless when dressing/undressing|
+
+: Modified Medical Research Council (mMRC) Scale
+:::
 
 
 ### GOLD Criteria
@@ -103,6 +136,14 @@ Diagnosis should be considered in:
 * Chronic cough
 * Frequent winter bronchitis or wheeze
 
+Differentials include:
+
+* Chronic asthma\
+Long-term dyspnoea from childhood, with obvious precipitants. Normal TLCO with reversibility.
+* Late-onset asthma\
+Associated with GORD. Normal TLCO with reversibility.
+* Broncholitis obliterans
+
 ## Investigations
 
 Respiratory function tests are diagnostic and used to grade severity:
@@ -121,17 +162,33 @@ Multiple grading systems, the GOLD 2008/NICE 2010 system:
 	* FEV~1~ ⩽30% predicted  
 	Very severe.
 
-α-1 antitrypsin:
+Bloods:
 
-* All patients should be screened once for α1 antitrypsin deficiency  
-⩽20% is suggestive of homozygous deficiency.
+* α-1 antitrypsin\
+All patients should be screened once for α1 antitrypsin deficiency. ⩽20% is suggestive of homozygous deficiency.
+* ABG/VBG\
+Evaluate degree of chronic hypercapnoea and metabolic compensation.
+
+Radiology:
+
+* CXR\
+Hyperinflation if >=10 posterior ribs visible.
+
 
 ## Management
 
-Medical Management:
+Physical:
 
-* Smoking cessation  
+* Smoking cessation\
 Vital, and will slow down deterioration and disability before death occurs.
+* NIV  
+Reduces chronic hypercarbia, survival, and readmission rates.
+* Home oxygen\
+Indicated in patients with severe resting hypoxia (PaO~2~ <60mmHg, or ⩽55mmHg with cor pulmonale or pulmonary hypertension).
+
+
+Pharmacological:
+
 * Inhaled therapies  
 Mainstay of day-to-day treatment. Includes:
 	* Short-acting bronchodilators  
@@ -139,28 +196,90 @@ Mainstay of day-to-day treatment. Includes:
 	* Long-acting bronchodilators  
 	For persistent breathlessness.
 * Oral therapy  
-Oral corticosteroids may be required in advanced disease.
+Regular oral corticosteroids may be requried in advanced disease.
 * Vaccination  
 Influenza and pneumococcal vaccines decrease LRTI rate.
-* NIV  
-Preferred over invasive ventilation, and indicated when:
-	* Respiratory acidosis
-	* Severe dyspnoea with signs of fatigue
-	* Persistent hypoxaemia despite supplemental oxygen
-* Home oxygen  
-Indicated in patients with severe resting hypoxia (PaO~2~ <60mmHg, or ⩽55mmHg with cor pulmonale or pulmonary hypertension).
 
 
-Surgical Management:
+Procedural:
 
 * Lung volume reduction surgery  
 Improves survival in severe upper-lobe emphysema and low post-rehabilitation exercise capacity.
 * Bullectomy  
 Improves dyspnoea, lung function, and exercise tolerance is selected patients.
-* Transplantation  
+* Lung transplantation  
 Improves quality of life in selected patients with very severe COAD.
 * Bronchoscopic interventions  
 Includes coils and endobronchial valves, and improves exercise tolerance and lung function at 6-12 months following treatment.
+
+
+### Acute Exacerbation of COPD
+
+Acute change in degree of dyspnoea, cough, or sputum production. Acute exacerbations are:
+
+* The most common admission diagnosis in the UK (~16%)
+* Usually survivable in the short term but a poor prognostic sign for survival in the medium-long term\
+Up to 90% hospital survival, but significantly impaired 2-3 year survival.
+
+Precipiated by:
+
+* Infection
+	* Most commonly bacterial:\
+	80% caused by:
+		* *S. Pneumoniae*
+		* *H. Influenze*
+	* Viral isolated in 20-30%:
+		* Rhinovirus
+		* Influenze
+		* Parainfluenzae	
+* Sputum retention
+* Cardiac failure
+* Other respiratory disease
+	* Pneumothorax
+* Uncontrolled oxygen therapy\
+Relative hyperoxia (>92%) may adversely affect V/Q matching, reduce hypoxic drive, and increase CO~2~ dissociation via the Haldane effect.
+
+
+
+Physical: 
+
+* **Oxygen**\
+Target SpO~2~ 88-92%.
+* **HFNO**
+* **NIV**\
+Preferred over invasive ventilation, and indicated when:
+	* Uncompensated respiratory acidosis
+	* Severe dyspnoea with signs of fatigue
+	* Persistent hypoxaemia despite supplemental oxygen
+* Chest physio
+	* Encourage **coughing**
+	* Bubble **PEEP**
+* **Invasive ventilation**\
+Reasonable in patients without end-stage lung disease - 80-90% wean successfully. Avoid breath stacking.
+	* Suggested initial settings to avoid breath stacking
+		* PEEP 3-8cmH~2~O
+		* Psup 8-15cmH~2~O
+		* RR <14\
+		Aim MV <115mL/kg.
+	* Minimise dynamic hyperinflation by:
+		* Watching the flow-volume loop
+		* Measuring end-inspiratory pause\
+		Target <25cmH~2~O. flow-volume loop to minimise dynamic hyperiflation	
+
+
+Pharmacological:
+
+* **Bronchodilators**\
+Many patients have a small response, and this assists in sputum clearance.
+	* Ipratropium 500ug Q2H\
+	Anticholinergic agents have a greater effect compared to beta-agonists.	
+	* Salbutamol 5mg Q2H	
+* **Steroids**\
+Prednisolone 0.5mg/kg (or equivalent) for 5 days.
+* **Antibiotics**\
+Amoxycillin usually first line for *S. pneumoniae* and *H. influenzae* cover.
+* Electrolyte correction
+* DVT prophylaxis		
 
 
 ### Anaesthetic Considerations
@@ -210,6 +329,11 @@ Includes coils and endobronchial valves, and improves exercise tolerance and lun
 ### Ineffective Therapies
 
 ## Complications
+
+* Death:
+	* 8% in-hospital mortality
+	* 15% 90-day mortality
+	* Up to 50% 1-year mortality
 
 ## Prognosis
 

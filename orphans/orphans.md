@@ -1210,9 +1210,9 @@ Youssef’, “Management of Atrial Fibrillation during Pregnancy.”
 	* Flecainide or ibutilide for cardioversion
 	* Amiodarone associated with many adverse foetal outcomes
 * VKAs should be avoided between 6-12 weeks and after week 36
-	* LMWH or UFH over this period
+	* LMWH or UFH over this period 
 * Rhythm control preferred
-=======
+ 
 # Mitral Valve 
 
 Anatomy:
@@ -1323,7 +1323,7 @@ Causes:
 * Noninfectious
 	* Should be <39 degrees unless drug or transfusion related
 	* ETOH/drug withdrawal
-	* Post-operative  
+	* Post-operative\
 	Probably not atelectasis.
 	* Cerebral infarction
 	* Adrenal insufficiency
@@ -1349,6 +1349,7 @@ Causes:
 Active cooling increases VO2, adrenaline, and noradrenaline levels
 
 # Vasoplegia
+
 Busse, Laurence W., Nicholas Barker, and Christopher Petersen. ‘Vasoplegic Syndrome Following Cardiothoracic Surgery—Review of Pathophysiology and Update of Treatment Options’. Critical Care 24, no. 1 (4 February 2020): 36. https://doi.org/10.1186/s13054-020-2743-8.
 
 * Norad; avoid higher than 0.5ug/kg/min
@@ -1361,6 +1362,7 @@ Contraindications:
 * AT II 10-40ng/kg/min
 
 # Diuretics
+
 * Multisegment nephron blockade is associated with increased diuretic response without worsening electrolyte abnormalities or renal function and may reduce RRT for volume need
 	* Acetazolamide 250mg Q8H
 	* Frusemide 200mg IV Q6H
@@ -1368,6 +1370,7 @@ Contraindications:
 	* Spironolactone 100mg PO BD
 
 # Perioperative neurological injury
+
 Incidence of clinically apparent stroke:
 
 * Closed chamber: 1-2%
@@ -1394,6 +1397,7 @@ At risk periods:
 * Rewarming
 
 ## Selective cerebral perfusion
+
 * Can I cannulate somewhere where I can perfuse the brain?
 * How long will it take to re-establish perfusion
 * DHCA inflection: 20-40 minutes
@@ -1402,6 +1406,7 @@ At risk periods:
 >>>>>>> Stashed changes
 
 # Mitral regurgitation
+
 * Perioperative about evaluating location, aetiology, mechanism; not severity
 * ?SAM if degenerative disease
 * ? degree of leaflet tethering
@@ -1412,15 +1417,18 @@ At risk periods:
 * Secondary MR has universally poorer outcomes compared to other causes
 
 # MS
+
 Rheumatic and cheaters
 * Rheumatic: subvalvular apparatus thickening has significant contribution to obstucting flow
 
 
 # Diastology
+
 * Begins when the dP/dT becomes negative
 
 
-# ACHD 
+# ACHD
+
 General approaches:
 
 * Draw cardiac diagram with saturations and prssures at different areas
@@ -1428,10 +1436,12 @@ General approaches:
 * PVR, SVR, and PVR/SVR modification is important; done with drugs and medications
 
 # Mitral valve imaging
+
 * MO views best
 * Prosthetic valve; whatever sector works. No standard views.
 
 # Rethinking resus
+
 30 day survival where VT/VF is detected as
 the first rhythm has been found to range between 41 -
 58% [2], while other studies report a lower survival to
@@ -1569,6 +1579,7 @@ undertaking treatment and pair this with what is
 medically appropriate.
 
 # IABP
+
 Timing adjustment:
 
 * Safest is late inflation early deflation
@@ -1581,9 +1592,11 @@ Timing adjustment:
 
 
 # CBP
+
 * Treatments for failure to achieve arrest
 
 # Aortic valve replacements
+
 * < 50: Mechanical valve
 * > 65: Bioprosthetic valve
 * 50-65: think carefully
@@ -1621,7 +1634,7 @@ Tips:
 * Practice the timing as much as possible
 * Equipment
 	* Stethoscope
-	* Clipboard  
+	* Clipboard\
 	If you like.
 * History
 	* Have a nice way to interrupt the patient  
@@ -1690,3 +1703,27 @@ Relevant positive and negatives.
 * Complications and common comorbidities
 * Risk factors
 * Treatments
+
+# Oxygen Toxicity
+
+Organ systems affected:
+
+* B
+	* Lung toxicity\
+	Direct pulmonary damage from reactive oxygen species. Risk related to FiO2 > 0.6.
+	* Bronchopulmonary dysplasia\
+	* V/Q mismatch\
+	Reduces HPV, and therefore may lead to surplus blood flow to marginally ventilated lung units. This can lead to an increase in PaCO~2~ in patients with borderline ventilatory function.
+	* Haldane effect
+	Increase in FiO~2~ decreases the CO~2~ buffering capacity of Haem ogle in, potentially increasing PaCO~2~.  
+	* Absorption atelectasis
+* D
+	* Decreased cerebral blood flow
+	* Direct CNS toxicity\
+	Reduces seizure threshold.
+	* Retinopathy of prematurity\
+	Hyperoxia of the neonate leads to reduction in retinal vascular development, with risk fo scarring and retinal detachment.
+* F
+	* Decreased renal blood flow
+* G
+	* Decreased splanchnic blood flow  

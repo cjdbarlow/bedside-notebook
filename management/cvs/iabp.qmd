@@ -107,25 +107,25 @@ Weaning:
 
 ## Complications
 
-Are multiple, and include:
-
-* Use
-	* Thrombosis
-		* At insertion site
-		* On balloon
-	* Peripheral embolisation
-	* Vascular occlusion  
-	Secondary to incorrect positioning.
-	* Infection
-	* Perforation
-	* Balloon rupture
-		* Gas embolisation
+* Vascular
+	* Limb ischaemia
+	* Trauma
+		* Dissection
+		* Pseudoaneurysm
+		* Vessel injury/rupture
+* Device
+	* Balloon rupture\
+		* Gas embolism
+	* Stroke	
+		* Balloon thrombosis and embolism
+		* Aortic atheroma dislodgement
 	* Haemolysis
-* Following removal
-	* Haemorrhage
-	* Pseudoembolism
-	* AV fistula
-	* Entrapment
+	* Infection	
+* Use
+	* Incorrect positioning
+		* Mesenteric ischaemia
+		* Failure of augmentation	
+
 
 
 ---

@@ -117,8 +117,9 @@ book:
                 chapters:
                   - management/resp/olv.qmd
                 # Weaning
-            # - part: "Equipment"
-            #   chapters:
+            - part: "Equipment"
+              chapters:
+                - management/resp/hyperbaric.qmd
                 # Humidification
                 # Nebulisers
                 # Suction
@@ -126,6 +127,7 @@ book:
             #   chapters:
                 # Helium
                 # Oxygen therapy
+                # Oxygen toxicity
         - part: "Cardiovascular"
           chapters:
             - part: "Equipment"
@@ -495,6 +497,7 @@ book:
             - disease/cvs/longqt.qmd
         - part: "Valvular"
           chapters:
+          - disease/cvs/ie.qmd
           - disease/cvs/as.qmd
           - disease/cvs/ms.qmd
           - disease/cvs/mr.qmd

@@ -423,7 +423,8 @@ Occasionally, anaesthetic support to the cath lab is requested for patients with
 ## Complications
 
 * Death
-* Cardiogenic shock
+* Cardiogenic shock\
+~10% of ACS, with substantial (~50%) associated mortality.
 * Pulmonary oedema
 * MR
 	* Functional\

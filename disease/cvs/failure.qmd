@@ -1,12 +1,12 @@
 # Cardiac Failure
 
 
-Cardiac failure is a syndrome describing the impediment to ventricular filling or ejection due to structural or functional myocardial disease. Cardiac failure is usually classified by:
+Broad range of syndromes describing the impediment to ventricular filling or ejection due to structural or functional myocardial disease. Cardiac failure is usually classified by time course into:
 
-* Time-course
-	* Acute
-	* Chronic
-* Ejection fraction
+* Acute\
+Subclassified by congestion and perfusion
+* Chronic\
+Significantly improved outcomes with medical therapy. Subclassified by EF into:
 	* Heart failure with preserved ejection fraction (> 50%)
 	* Heart failure with reduced ejection fraction (< 40%)
 	* (An EF of 40-49% is typically called a mid-range EF)
@@ -39,27 +39,38 @@ Precipitating causes:
 	* Ischaemia
 		* AMI
 		* Angina
+	* Hypertensive emergency
+	* Mechanical
+		* Valvular
+		* Tamponade
+		* PE	
+* Neurological
+	* Neuromuscular disease
 * Infective
+	* Sepsis
 	* Pneumonia
-* Drug
-	* Alcohol excess
+	* Myocarditis
+* Toxins
+	* Alcohol
+	* Beta-blockade
+	* Calcium antagonists
+	* Cocaine
 * Iatrogenic
 	* IV fluids
 
 ## Clinical Manifestations
 
 * Dyspnoea  
-Pulmonary congestion due to raised LAP.
-	* Moderately sensitive but poorly specific
+	* Pulmonary oedema/Crepitations\
+	Pulmonary congestion due to raised LAP. Moderately sensitive but poorly specific.
+	* Pleural effusion\
+	Fluid retention and elevated LAP/RAP. Classically bilateral, due to pulmonary congestion.
+
 * Orthopnoea  
 Increased VR and pulmonary congestion in supine position.
 	* More specific than dyspnoea, but insensitive
 * PND  
 As orthopnoea, but with additional respiratory depression.
-* Pulmonary oedema/Crepitations  
-Classically bilateral, due to pulmonary congestion.
-* Pleural effusion  
-Fluid retention and elevated LAP/RAP.
 
 
 * Palpitations  
@@ -88,7 +99,7 @@ Examination:
 
 * Oedema  
 Fluid retention and elevated filling pressures.
-	* Insensitive  
+	* Insensitive\
 	Many elderly patients have oedema due to immobility.
 * Elevated JVP  
 Increased RAP.
@@ -103,12 +114,91 @@ Highly specific.
 
 ## Investigations
 
-CXR:
+Blood:
 
-* Pulmonary oedema
-* Cardiomegaly
+* Troponin
+* BNP\
+Released in response to increased ventricular wall tension.
+	* <100pg/mL is 90% sensitive/70% specific for excluding failure
+* BT-proBNP\
+Prohormone of BNP. Similar results for cut off of 300.
+* S~cv~O~2~\
+VBG from IJ or SCV line; <70% suggests inadequate DO~2~.
+
+Radiology:
+
+* CXR
+	* Pulmonary oedema
+	* Cardiomegaly
 
 ## Management
+
+The crux of heart failure management is acheiving balance between the competing goals of:
+
+* Ensuring adqeuate organ perfusion
+* Minimising myocardial work
+
+Choice of therapy depends on where the patient is on this spectrum. If this balance cannot be achieved with medical therapy, then **mechanical support** may be required.
+
+### Improving Organ Perfusion
+
+* Afterload\
+Reduce with systemic vasodilators.
+	* IV
+		* GTN
+		* SNP
+		* Milrinone
+* Preload	
+* Contractility
+	* Cease negative inotropes
+	* Inotropes
+* Rate\
+Increase to high normal (~90); CO may fall with increasing tachycardia depending on the diastolic function.
+* Rhythm\
+Restore sinus rhythm.
+		
+### Reduce Myocardial Work
+
+* Afterload\
+Reduce with systemic vasodilators.
+	* PO
+		* ACE-I
+* Contractility
+	* Negative inotropes\
+	Improvement in ventricular filling, coronary perfusionn, and myocardial oxygen demand.
+* Preload	
+* Rate
+* Rhythm\
+Restore sinus rhythm.
+
+
+### Mechanical Support
+
+* Respiratory
+	* NIV\
+	Positive airway pressures (CPAP, PEEP) reduces LV wall tension and afterload.
+	* Mechanical ventilation\
+	In addition to the effects of increased airway pressure, mechanical ventilation substantially reduces work of breathing and therefore VO~2~. These gains may be significant (up to 30%), but is not a long-term solution.
+* Cardiac
+	* IABP
+	* VAD
+		* Temporary
+		* Permanent	
+	* ECMO	
+
+
+### Additional Physiological Goals
+
+Correct:
+
+* Hypoxia
+* Acidaemia
+* Electrolyte derangements
+* Anaemia
+* Thiamine deficiency
+
+
+
 
 ### Ineffective Therapies
 
