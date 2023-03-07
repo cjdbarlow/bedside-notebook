@@ -1,22 +1,25 @@
 # Perioperative Management of Implantable Cardiac Devices
 
+:::info
+Key questions:
 
-> Key questions:
-> * What is the EMI risk of the surgery?
-> * How dependent is the patient?
+* What is the EMI risk of the surgery?
+* How dependent is the patient?
+:::
 
 Implantable cardiac devices include:
 
-* Pacemakers  
+* **Pacemakers**  
 Generate an electrical impulse to stimulate myocardial contraction. Used for:
-	* Bradycardic states
-	* Resynchronisation
-* Defibrillators  
+	* Bradycardias\
+	* Anti-tachycardia therapy
+	* Resynchronisation therapy
+* **Defibrillators**  
 Used for primary or secondary prevention of VT, in patients with:
 	* Severe LV dysfunction
 	* Post-MI
 	* Sudden cardiac death syndromes
-* Implantable Loop Recorders  
+* **Implantable Loop Recorders**  
 Diagnostic tool used in recurrent unexplained syncope.
 
 ## Risks
@@ -209,3 +212,4 @@ Electrophysiologist should check the patient prior to departure from recovery.
 ## References
 
 1. Bryant HC, Roberts PR, Diprose P. Perioperative management of patients with cardiac implantable electronic devices. BJA Educ. 2016;16(11):388-396. doi:10.1093/bjaed/mkw020
+2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

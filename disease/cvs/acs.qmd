@@ -423,8 +423,13 @@ Occasionally, anaesthetic support to the cath lab is requested for patients with
 ## Complications
 
 * Death
+	* Malignant arrhythmias\
+	Leading cause of death, particularly prehospital.
+		* Major risk in first 4 hours\
+		4-20% have VF in this period.
 * Cardiogenic shock\
 ~10% of ACS, with substantial (~50%) associated mortality.
+* Cardiogenic shock
 * Pulmonary oedema
 * MR
 	* Functional\
@@ -432,7 +437,6 @@ Occasionally, anaesthetic support to the cath lab is requested for patients with
 	* Papillary muscle rupture
 * Ventricular rupture
 * VSD 
-* Malignant arrhythmias
 * Ischaemic cardiomyopathy and cardiac failure\
 15-25% following STEMI.
 * Pericarditis/Dressler's syndrome\

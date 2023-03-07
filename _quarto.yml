@@ -134,9 +134,9 @@ book:
               chapters:
                 - management/cvs/pressure_monitoring.qmd
                 - management/cvs/co_monitoring.qmd
+                - management/cvs/pacing.qmd
                 - management/cvs/regional.qmd
                 - management/cvs/iabp.qmd
-                # Pacing
             # - part: "ECMO"
             #   chapters:
             # - part: "Medications"
@@ -838,7 +838,7 @@ book:
           - part: "Vascular"
             chapters:
               - procedures/cvs/pac.qmd
-              # Transvenous pacing wire
+              - procedures/cvs/transvenous.qmd
               # IV
               # CVC
               # Arterial line

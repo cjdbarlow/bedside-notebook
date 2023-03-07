@@ -1,0 +1,110 @@
+# Pacing
+
+Cardiac pacing refers to repetitive, low-current electrical stimulation of the heart to initiate and maintain rhythm. Pacing:
+
+* Indications include:
+	* **Bradycardias**\
+	Generally symptomatic heart block or sinus node dysfunction, or asymptomatic with HR <40.
+	* **Anti-tachycardia** therapy\
+	Over-drive pacing of SVT (AVNRT, AVRT) and VT.
+	* **Resynchronisation** therapy\
+	↑ EF by coordinating LV and RV contraction.
+* May be performed:
+	* **Transvenous**
+		* Permanent\
+		Classic insertion of pacing leads via the SCV into the RA/RV.
+		* Temporary\
+		Flotation of a pacing catheter via a sheath for temporary emergency pacing.
+	* **Epicardial**
+		* Temporary\
+		Temporary epicardial wires inserted during cardiac surgery. Usually deteriorate over 5-10 days.
+		* Permanent\
+		Occasionally permanent epicardial wires may be inserted during cardiac surgery (or via VATS) if venous access is compromised. 
+	* **Transcutaneous**\
+	Emergency pacing via pads. Requires sedation.
+
+## Pacing Modes
+
+A generic 3 or 5 digit code is used to describe pacing modes:
+
+:::column-margin
+Some examples:
+
+* VOO\
+Ventricle is paced, and there is no sensing. This is a (potentially dangerous) asynchronous mode.
+* DDD\
+Both atria and ventricles are sensed and paced. Atrial activity will trigger ventricular pacing if ventricular activity not sensed after an (adjustable) A-V delay.
+* DDI\
+Paces and senses both atria and ventricles. Atrial activity is not tracked (i.e. each chamber is dealt with individually).
+:::
+
+* **Chambers paced**\
+A, V, D (dual, i.e. both atria and ventricles), O (neither).
+* **Chambers sensed**\
+A, V, D, O.
+* **Response to sensing**
+	* I: Inhibition\
+	Pacemaker is inhibited by a sensed signal. e.g. VVI, ventricular pacing is inhibited by sensed ventricular activity.
+	* T: Trigger\
+	Pacemaker triggered by sensed signal.
+	* D: Inhibition and triggering\
+	Requires a dual-chamber system.
+* **Rate Response**\
+Only relevant in permanent systems. Describes if the pacemaker changes rate due to sensed change in metabolic demand.
+	* R: Responsive\
+	Responds to either movement or ↑ minute ventilation.
+	* O: No response
+* **Multisite pacing**\
+Are multiple cardiac chambers paced:
+	* O: None
+	* A: Atria
+	* V: One or both ventricles
+	* D: Any combination of ventricles
+
+## Temporary Systems
+
+Configuration of temporary epicardial and transvenous pacing systems:
+
+* Default settings
+	* Output: 10-15mA
+	* Sensitivity:
+	* Rate: ~10 higher than native rate
+	Particularly prior to pacing check, to ↓ risk of R-on-T.
+* Perform pacing check
+* Managing failure to pace
+
+
+### Pacing Check
+
+
+### Failure to Pace
+
+:::danger
+This can be an **emergency** in the pacing dependent patient.
+:::
+
+Escalation:
+
+1. Ensure the box is connected
+2. Press the emergency button\
+Sets DOO at maximal output (usually 20mA atria, 25mA ventricular).
+3. Connect the pacing box directly to the pacing lead (bypassing the connecting leads)
+4. Replace the pacemaker
+5. Institute transcutaneous pacing
+6. Place a transvenous wire
+
+
+## Anatomy
+
+## Equipment
+
+## Technique
+
+## Complications
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
