@@ -812,6 +812,55 @@
     "text": "References\n\nLohser J. Managing Hypoxemia During Minimally Invasive Thoracic Surgery. Anesthesiology Clinics. 2012;30(4):683-697.\nCollins SR, Titus BJ, Campos JH, Blank RS. Lung Isolation in the Patient With a Difficult Airway. Anesth Analg. 2018 Jun;126(6):1968–78."
   },
   {
+    "objectID": "management/resp/hyperbaric.html#indications",
+    "href": "management/resp/hyperbaric.html#indications",
+    "title": "Hyperbaric Oxygen Therapy",
+    "section": "Indications",
+    "text": "Indications\n\nDecompressive Injury\nCO2 toxicity\nCO binds Hb with significantly greater affinity than O2.\n\nIncreasing PaO2 reduces the half-life of CO:\n\nAir: 320 minutes\n100% FiO22: 90 minutes\n3 atm: 23 minutes\n\nThis is worthwhile in:\n\nAge >35\nSyncope\nCOHb >25%\n\n\n\nNecrotising soft tissue infections\nNon-healing wounds"
+  },
+  {
+    "objectID": "management/resp/hyperbaric.html#contraindications",
+    "href": "management/resp/hyperbaric.html#contraindications",
+    "title": "Hyperbaric Oxygen Therapy",
+    "section": "Contraindications",
+    "text": "Contraindications"
+  },
+  {
+    "objectID": "management/resp/hyperbaric.html#anatomy",
+    "href": "management/resp/hyperbaric.html#anatomy",
+    "title": "Hyperbaric Oxygen Therapy",
+    "section": "Anatomy",
+    "text": "Anatomy"
+  },
+  {
+    "objectID": "management/resp/hyperbaric.html#equipment",
+    "href": "management/resp/hyperbaric.html#equipment",
+    "title": "Hyperbaric Oxygen Therapy",
+    "section": "Equipment",
+    "text": "Equipment"
+  },
+  {
+    "objectID": "management/resp/hyperbaric.html#technique",
+    "href": "management/resp/hyperbaric.html#technique",
+    "title": "Hyperbaric Oxygen Therapy",
+    "section": "Technique",
+    "text": "Technique"
+  },
+  {
+    "objectID": "management/resp/hyperbaric.html#complications",
+    "href": "management/resp/hyperbaric.html#complications",
+    "title": "Hyperbaric Oxygen Therapy",
+    "section": "Complications",
+    "text": "Complications"
+  },
+  {
+    "objectID": "management/resp/hyperbaric.html#references",
+    "href": "management/resp/hyperbaric.html#references",
+    "title": "Hyperbaric Oxygen Therapy",
+    "section": "References",
+    "text": "References"
+  },
+  {
     "objectID": "management/cvs/pressure_monitoring.html#pressures",
     "href": "management/cvs/pressure_monitoring.html#pressures",
     "title": "Pressure Monitoring",
@@ -963,7 +1012,7 @@
     "href": "management/cvs/iabp.html#complications",
     "title": "Intra-aortic Balloon Pump",
     "section": "Complications",
-    "text": "Complications\nAre multiple, and include:\n\nUse\n\nThrombosis\n\nAt insertion site\nOn balloon\n\nPeripheral embolisation\nVascular occlusion\nSecondary to incorrect positioning.\nInfection\nPerforation\nBalloon rupture\n\nGas embolisation\n\nHaemolysis\n\nFollowing removal\n\nHaemorrhage\nPseudoembolism\nAV fistula\nEntrapment"
+    "text": "Complications\n\nVascular\n\nLimb ischaemia\nTrauma\n\nDissection\nPseudoaneurysm\nVessel injury/rupture\n\n\nDevice\n\nBalloon rupture\n\n\nGas embolism\n\nStroke\n\nBalloon thrombosis and embolism\nAortic atheroma dislodgement\n\nHaemolysis\nInfection\n\nUse\n\nIncorrect positioning\n\nMesenteric ischaemia\nFailure of augmentation"
   },
   {
     "objectID": "management/cvs/iabp.html#references",
@@ -4526,7 +4575,7 @@
     "href": "anaesthesia/cardiac/cabg.html#induction",
     "title": "Coronary Artery Bypass Grafting",
     "section": "Induction",
-    "text": "Induction\n\nAim for haemodynamic stability, especially in the setting of critical left main stenosis\n\n\nIntraoperative\nThis covers factors unique to CABG. Factors relating to bypass are covered here.\nOn-pump CABG can be divided into pre-, intra-, and post-bypass phases:\n\nPre-bypass\n\nIf LIMA harvest is occurring:\n\nDecrease VT to 5-6ml/kg\nReduce anaesthetic\nPeriod of minimal stimulation following the very stimulating sternotomy.\nIncrease FiO2 as there is a frequent surgical requirement for apnoea\n\n\nBypass\nPost-bypass\n\n\n\nSurgical Stages\nFor standard approach:\n\nSternotomy\nEstablish CPB\nEstablish diastolic arrest\nGrafting performed\n\nInternal mammary grafting\n\nA pedicled graft may be taken\nThe origin is left attached to the SCA.\nBilateral IMA grafts may be used\nIncreases the risk of sternal wound infection due to poor perfusion.\n\nSaphenous vein graft\n~50% of SVG grafts will be occluded at 10 years (compared to ~10% of arterial grafts).\nRadial artery\nNon-dominant or dominant vessels may be used, provided there is adequate collateral flow via the ulnar artery.\n\nCross-clamp is removed and coronary perfusion commences\nWean from CPB occurs once air is removed from circulation\n\n\n\nPostoperative Care\n\nTransfer intubated to ICU/"
+    "text": "Induction\n\nAim for haemodynamic stability, especially in the setting of critical left main stenosis\n\n\nIntraoperative\nThis covers factors unique to CABG. Factors relating to bypass are covered here.\nOn-pump CABG can be divided into pre-, intra-, and post-bypass phases:\n\nPre-bypass\n\nIf LIMA harvest is occurring:\n\nDecrease VT to 5-6ml/kg\nReduce anaesthetic\nPeriod of minimal stimulation following the very stimulating sternotomy.\nIncrease FiO2 as there is a frequent surgical requirement for apnoea\n\n\nBypass\nPost-bypass\n\n\n\nSurgical Stages\nFor standard approach:\n\nSternotomy\nEstablish CPB\nEstablish diastolic arrest\nGrafting performed\n\nInternal mammary grafting\n\nA pedicled graft may be taken\nThe origin is left attached to the SCA.\nBilateral IMA grafts may be used\nIncreases the risk of sternal wound infection due to poor perfusion.\n\nSaphenous vein graft\n~50% of SVG grafts will be occluded at 10 years (compared to ~10% of arterial grafts).\nRadial artery\nNon-dominant or dominant vessels may be used, provided there is adequate collateral flow via the ulnar artery.\n\nCross-clamp is removed and coronary perfusion commences\nWean from CPB occurs once air is removed from circulation\n\n\n\nPostoperative Care\nMedication:\n\nAspirin\n\nWithin 6 hours\nConsider clopidogrel if aspirin allergy\n\nStatin\n\nWhen PO intake resumes\n\nβ-blockers\n\nWhen able\nLimited by pacing requirement, inotrope requirement, or hypotension.\n\nACE-I/ARB\n\nConsider in all patients\nInitiation limited by hypotension and AKI"
   },
   {
     "objectID": "anaesthesia/cardiac/cabg.html#references",
@@ -7487,21 +7536,21 @@
     "href": "intensive/post-cardiac.html#initial-evaluation",
     "title": "Post Cardiac Surgery",
     "section": "Initial Evaluation",
-    "text": "Initial Evaluation\nInitial evaluation of the cardiac patient includes:\n\nHistory\nExamination\nInvestigation\n\n\nHistory\nImportant facts when admitting a cardiac surgical patient include:\n\nPatient factors\n\nAge and sex\nPast medical history\n\nAllergies\nMajor CVS risk factors and previous interventions\nChronic health conditions\nCurrent medications\n\nSocial history\n\nFunctional state\nNext of kin\n\n\nSurgical factors\n\nNature of surgery\nOperation and findings\n\nAdequacy of graft targets\n\nGraft locations\nNature of valve repair or replacement\nComplications and management\n\nDrain location\nMajor surgical concerns\n\nAnaesthetic factors\n\nLines\nAirway management and intubation grade\nPre-bypass haemodynamics\nPre-bypass echo\nVentricular and valvular function.\nBypass time\nCross-clamp time\nSeparation from bypass\nRequirements for:\n\nDCR\nInotropes/vasopressors\nNitric Oxide\nPacing\nIABP\n\nPost-bypass haemodynamics\nPost-bypass echo\nTransfusion requirement\nCoagulation status\nCurrent supports on arrival to ICU\n\n\n\n\nExamination\nExamination should involve:\n\nAirway\n\nETT position\n\nBreathing\n\nAuscultation\nEqual air entry.\nGas exchange\nReview ABG.\nVentilation settings\nETCO2 trace\nSPO2\n\nCirculation\n\nHaemodynamic state\n\nHR\nBP\nCO/CI\nPressures\nEnsure zeroed\n\nPresence of murmurs\nAdequacy of peripheral pulses\nPeripheral perfusion\nDrain\n\nPatency\nOutputs\n\n\nDisability\n\nPupils\nGCS\n\nE\n\nTemperature\n\n\n\n\nInvestigations\nPost-operative investigations should include:\n\nABG\n\nAdequacy of gas exchange\nLactataemia\nHb\nElectrolyte abnormalities\n\nECG\nCompare with preoperative ECG:\n\nCommon and benign post-operative changes include\n\nRBBB\nPericarditic changes\n\nConcerning changes include:\n\nSTE in continguous leads in a grafted vascular territory\nMay be acute graft failure.\nAnterior STE\nLIMA spasm in a LIMA-LAD graft.\nLow voltage\nConsider tamponade.\n\n\nCXR\n\nETT position\nPAC position\nDrain position\nNGT position\nICC position\nPTHx\n\nBloods\n\nHb\nPlatelets\nElectrolytes\n\nK+\nMg2+\n\nGlucose\nCoagulation panel\nCardiac markers\nAlways elevated post-cardiac surgery, but are useful in trending changes."
+    "text": "Initial Evaluation\nReception of the post-cardiac surgical patient includes:\n\nHandover\nExamination\nInvestigation\n\n\nHandover\nImportant informatin for the cardiac admission:\n\nPatient factors\n\nAge\nKey past medical history\n\nAllergies\nMajor CVS risk factors and previous interventions\nChronic health conditions\nCurrent medications\nTiming of last anticoagulants and anti-platelet agents.\n\nSocial history\n\nFunctional state\nNext of kin\nHave they been contacted by the surgical team?\n\n\nSurgical factors\n\nWhat operation?\n\nCABG\n\nAdequacy of graft targets\n\nGraft locations\n\nValvular\n\nAdequacy of repair\nType of replacmeent\n\nMechanical\nTissue\n\n\n\n\nAdequacy of myocardial protection\nComplications and management\nBleeding\nDrain location\nPleural drains generally placed only if pleural breached (e.g., left pleural during mammary takedown for CABG).\nMajor surgical concerns\n\nAnaesthetic factors\n\nAirway management and intubation grade\nAny issues with lines?\nPre-bypass haemodynamics\nPre-bypass echo\nVentricular and valvular function.\nBypass time and cross-clamp time\nSeparation from bypass\nRequirements for:\n\nInotropes/vasopressors\nNitric Oxide\nPacing\nIABP\nReturn to CPB\n\nPost-bypass haemodynamics and changes in vasoactives\nPost-bypass echo\nTransfusion requirement\n\nCoagulation status\nPacing wires\nThresholds.\nCurrent supports on arrival to ICU\n\n\n\n\nExamination\nExamination should involve:\n\nAirway\n\nETT position\n\nBreathing\n\nAdequacy of gas exchange\n\nABG\nAuscultation\nMonitoring\n\nVentilation settings\n\nCirculation\n\nHaemodynamic state\n\nHR\nBP\nCO/CI\nPressures\nEnsure zeroed.\n\nPeripheral perfusion\nDrain\n\nPatency\nOutputs\n\n\nDisability\n\nPupils\nGCS\n\nE\n\nTemperature\n\n\n\n\nInvestigations\nPost-operative investigations should include:\n\nABG\n\nAdequacy of gas exchange\nLactataemia\nHb\nElectrolyte abnormalities\n\nECG\nCompare with pre-operative ECG:\n\nCommon and benign post-operative changes include:\n\nRBBB\nPericarditic changes\n\nConcerning changes include:\n\nHeart block\nIndicates AV nodal dysfunction, particularly after valvular surgery.\nSTE in continguous leads in a grafted vascular territory\nMay be acute graft failure.\nAnterior STE\nLIMA spasm in a LIMA-LAD graft.\nLow voltage\nConsider tamponade.\n\n\nCXR\n\nPneumothorax\nDevice position\nETT, PAC, NGT, ICC, drains.\n\nBloods\nDepending on degree of concern.\n\nAVG\nElectrolytes\nCoagulation status\nTEG\nCardiac markers\nAlways elevated post-cardiac surgery, but are useful in trending changes."
   },
   {
     "objectID": "intensive/post-cardiac.html#management",
     "href": "intensive/post-cardiac.html#management",
     "title": "Post Cardiac Surgery",
     "section": "Management",
-    "text": "Management\n\nGeneral Mangement\nCommon management of the cardiac patient includes:\n\nC\n\nRemove PAC\nOnce HDx stable for 6 hours on minimal vasoactive suppport.\nRemove other invasive lines\nAs able.\nIsolate pacing wires\nWhen no pacing requirement for 24 hours.\nAF management\n\nOccurs in 10-40% of post-cardiac surgery patients\nSubstantial associated morbidity:\n\n↑ CVA risk (3x)\n↑ Inotrope requirement\n↑ IABP\n↑ Reoperation\n↑ ICU and hospital LoS\n\n\n\nD\n\nAnalgesia\nWean sedation\nShort acting agents preferred.\n\nE\n\nWarming\nShould be rewarmed to >36°C. This:\n\nReduces arrythmia\nDecreases SVR and myocardial work\nImproves coagulopathy\n\n\nF\n\nElectrolytes\n\nHypokalaemia\nAim 4.5-5mmol/L.\nHypomagnesaemia\nAim >1mmol/L.\n\nUrine output\nPolyuria dominates the early post-operative period, but usually resolves in ⩽6 hours.\nRemove IDC\nSecond post-operative day.\n\n\n\n\nSpecific Medications\nCABG surgery:\n\nAspirin\n\nWithin 6 hours\nConsider clopidogrel if allergy\n\nStatin\n\nWhen PO intake resumes\n\nβ-blockers\n\nWhen able\nLimited by pacing requirement, inotrope requirement, or hypotension.\n\nACE-I/ARB\n\nConsider in all patients\nLimited by hypotension and AKI\n\n\n\n\nHaemodynamic Management\nHaemodynamic impairment can be divided into problems with:\n\nHeart Rate/Rhythm\n\nTachycardias\n\nPacing malfunction\nElectrolytes\nAF\n\nBradycardia\n\nPacing malfunction\nElectrolytes\nIschaemia\n\n\nPreload\n\nHypovolaemia\nAssociated with lower filling pressures, and accentuated by diastolic dysfunction.\n\nBleeding\nDiuretics\nRewarming\nVasodilators\n\n↑ Intrathoracic pressure\n\nPneumothorax\nExcessive PEEP\n\n↑ Intrapericardial pressure\n\nTamponade\nElevation and equalisation of diastolic pressures.\n\nRV failure\n\nSVR/\n\n↑ LV afterload:\n\nAortic valve dysfunction\nExcessive vasoconstrictors\nDynamic outflow tract obstruction\n\n↓ LV afterload:\n\nSIRS\nPost-pump vasoplegia\nAnaphylaxis\n\nProtamine reactions\n\nExcessive vasodilator therapy\nThyroid dysfunction\nAdrenal insufficiency\n\n↑ RV afterload:\n\nAcidosis\nHypoxia\nExcessive PEEP\nThromboembolism\n\n\nContractility\n\nIschaemia\n\nAcute graft dysfunction\nAir embolus\nPredominantly RCA.\n\nInadequate myocardial protection\n\nMyocardial stunning\nLong bypass time.\nVentricular dilatation\nInadequate cardioplegia\n\nPre-existing ventricular dysfunction"
+    "text": "Management\n\nThe goal for the uncomplicated intubated post-operative cardiac patient is to rewarm, desedate and ensure adequate analgesia, wean ventilator support, and extubate.\n\nGeneral post-operative trajectory:\n\n\nSpecific post-operative considerations for different procedures are under the relevant operation in the cardiac anaesthetic section.\n\nC\n\nRemove PAC\nOnce HDx stable for 6 hours on minimal vasoactive suppport.\nRemove other invasive lines\nAs able.\nRemove pacing wires\n\n\nOnce there has been no pacing requirement for 24 hours, wires can be isolated, i.e. removed from the pacing box\nThis improves mobility whilst still allowing pacing to be restarted if required.\nWires can be removed after a further 24 hours, provided there is no coagulopathy\n\n\nD\n\nAnalgesia\nWean sedation\nShort acting agents preferred.\n\nE\n\nWarming\nShould be rewarmed to >36°C. This:\n\nReduces arrythmia\nDecreases SVR and myocardial work\nImproves coagulopathy\n\n\nF\n\nElectrolytes\n\nHypokalaemia\nAim 4.5-5mmol/L.\nHypomagnesaemia\nAim >1mmol/L.\n\nUrine output\nPolyuria dominates the early post-operative period, but usually resolves in ⩽6 hours.\nRemove IDC\nSecond post-operative day if mobilising."
   },
   {
-    "objectID": "intensive/post-cardiac.html#complications-after-cardiac-surgery",
-    "href": "intensive/post-cardiac.html#complications-after-cardiac-surgery",
+    "objectID": "intensive/post-cardiac.html#complications",
+    "href": "intensive/post-cardiac.html#complications",
     "title": "Post Cardiac Surgery",
-    "section": "Complications after Cardiac Surgery",
-    "text": "Complications after Cardiac Surgery\nComplications of cardiac surgery relevant to intensive care include:\n\nBleeding\n\nMedical bleeding\nDue to abnormalities of coagulation.\n\nCauses of medical bleeding:\n\nPlatelets\n\nQualitative abnormality\nPlatelet function is decreased by:\n\nPreoperative use of antiplatelet agents\nCardiopulmonary bypass\nGreater bypass duration is associated with greater impairment.\n\nQuantitative abnormality\n\n\nCoagulation abnormality\n\nResidual heparinisation\nHaemodilution\nConsumption\n\nFibrinogen\n\nPlasminogen is activated by CPB\n\n\nTreatment of medical bleeding:\n\nNormalise temperature\nPrevent hypertension\nCorrect platelet dysfunction:\n\nPlatelet transfusion\nAim functional platelet count >100 × 109 in significant bleeding.\nDDAVP\nAim to improve platelet function.\n\n20μg IV\n\n\nCorrect coagulopathy\nAim to normalise APTT and PT.\n\nTypically 20ml/kg of FFP\n\nCorrect fibrinogen\nAim to keep fibrinogen >1g/L.\nPrevent fibrinolysis\nConsider in the setting of fibrinolysis (i.e. elevated D-Dimer and low fibrinogen).\n\nTXA\n\nIncrease mediastinal pressure\nTheoretically reduce venous bleeding.\n\nIncrease PEEP\nRaise head of bed\n\n\n\nSurgical bleeding\nDue to uncontrolled (typically arterial) source. Suggested by:\n\nBleeding with normal coagulation parameters\nLarge volume drain outputs\n\n\n500ml in 1 hour\n\n\n400ml/hr for 2 hours\n\n\n300ml/hr for 3 horus\n\n\n200ml/hr for 4 hours\n\n\nBleeding following period of extreme hypertension\n\n\nCardiac Tamponade\nCollection of fluid (blood) around the heart, impairing filling and therefore CO.\n\nUp to 5%\nClinical diagnosis\nFeatures:\n\nTachycardia\nLow UO\nFall in SV/2\nElevation and equalisation of diastolic pressures\nRAP ≃ PADP ≃ PCWP.\n\nMay not occur if a small clot occurs around and impedes filing to only one chamber.\n\nLoss of y-descent on CVP waveform\nIndicates that the pressure gradient between the atria and the ventricles is reduced.\nLoss of mediastinal drain output\nEchocardiography\n\nTreatment\n\nResternotomy and evacuation of clot"
+    "section": "Complications",
+    "text": "Complications\nKey issues in the post-cardiac surgical patient include:\n\nBleeding\nHaemodynamic instability\nAF\nCardiac tamponade\n\n\nBleeding\nMedical bleeding, due to abnormalities of coagulation:\n\nCauses:\n\nPlatelets\n\nQualitative abnormality\nPlatelet function is decreased by:\n\nPreoperative use of antiplatelet agents\nCardiopulmonary bypass\nGreater bypass duration is associated with greater impairment.\n\nQuantitative abnormality\n\n\nCoagulation abnormality\n\nResidual heparinisation\nHaemodilution\nConsumption\n\nFibrinogen\n\nPlasminogen is activated by CPB\n\n\nTreatment:\n\nNormalise temperature\nPrevent hypertension\nCorrect platelet dysfunction:\n\nPlatelet transfusion\nAim functional platelet count >100 × 109 in significant bleeding.\nDDAVP\nAim to improve platelet function.\n\n20μg IV\n\n\nCorrect coagulopathy\nAim to normalise APTT and PT.\n\nTypically 20ml/kg of FFP\n\nCorrect fibrinogen\nAim to keep fibrinogen >1g/L.\nPrevent fibrinolysis\nConsider in the setting of fibrinolysis (i.e. elevated D-Dimer and low fibrinogen).\n\nTXA\n\nIncrease mediastinal pressure\nTheoretically reduce venous bleeding.\n\nIncrease PEEP\nRaise head of bed\n\n\n\nSurgical bleeding, due to uncontrolled (typically arterial) source. Suggested by:\n\nBleeding with normal coagulation parameters\nBleeding following period of extreme hypertension\nAnastomotic breakdown.\nLarge volume drain outputs\n\n\n500ml in 1 hour\n\n\n400ml/hr for 2 hours\n\n\n300ml/hr for 3 horus\n\n\n200ml/hr for 4 hours\n\n\n\n\n\nCauses of Haemodynamic Perturbation\nHaemodynamic impairment can be divided into problems with:\n\nHeart Rate/Rhythm\n\nTachycardias\n\nPacing malfunction\nElectrolytes\nAF\n\nBradycardia\n\nPacing malfunction\nElectrolytes\nIschaemia\n\n\nPreload\n\nHypovolaemia\nAssociated with lower filling pressures, and accentuated by diastolic dysfunction.\n\nBleeding\nDiuretics\nRewarming\nVasodilators\n\n↑ Intrathoracic pressure\n\nPneumothorax\nExcessive PEEP\n\n↑ Intrapericardial pressure\n\nTamponade\nElevation and equalisation of diastolic pressures.\n\nRV failure\n\nSVR/\n\n↑ LV afterload:\n\nAortic valve dysfunction\nExcessive vasoconstrictors\nDynamic outflow tract obstruction\n\n↓ LV afterload:\n\nSIRS\nPost-pump vasoplegia\nAnaphylaxis\n\nProtamine reactions\n\nExcessive vasodilator therapy\nThyroid dysfunction\nAdrenal insufficiency\n\n↑ RV afterload:\n\nAcidosis\nHypoxia\nExcessive PEEP\nThromboembolism\n\n\nContractility\n\nIschaemia\n\nAcute graft dysfunction\nAir embolus\nPredominantly RCA.\n\nInadequate myocardial protection\n\nMyocardial stunning\nLong bypass time.\nVentricular dilatation\nInadequate cardioplegia\n\nPre-existing ventricular dysfunction\n\n\n\n\nCardiac Tamponade\nPost-surgical tamponade:\n\nOccurs in up to 5%\nMay emerge slowly\nCombination of clinical suspicion and echocardiographic diagnosis\nFeatures (not all of which may be present):\n\nTachycardia\nLow UO\nFall in SV/2\nElevation and equalisation of diastolic pressures\nRAP ≃ PADP ≃ PCWP. May not occur if a small clot impedes filling to only one chamber.\nLoss of y-descent on CVP waveform Indicates that the pressure gradient between the atria and the ventricles is reduced.\nLoss of mediastinal drain output\nEchocardiography evidence of tamponade\n\n\nTreatment\n\nResternotomy and evacuation of clot\n\n\n\n\nAtrial Fibrillation\nAF occurs in 10-40% of post-cardiac surgery patients, and is associated with significant morbidity:\n\n↑ CVA risk (3x)\n↑ Inotrope requirement\n↑ Reoperation\n↑ ICU and hospital LoS\n\nRisk factors include:\n\nAge\nUse of cardiac supports:\n\nInotropes\nIABP\n\nPrevious AF\nValvular heart disease\n\nPrevention strategies include:\n\nAntiarrhythmics\n\nBeta-blockade\nAmiodarone\nDiltiazem\nSotalol\n\nProcedural\n\nBi-atrial pacing\n\nAnti-inflammatories\n\nStatins\nDexamethasone\nColchicine\n\n\nTreatment strategies:\n\nPharmacological\n\nRhythm control\n\nAmiodarone\nMagnesium\n\nRate control\n\nBeta-blockade\nDiltiazem\nDigoxin\n\nAnticoagulation\nConsider if >48 hours.\n\n\nPhysical\n\nElectrical cardioversion\n\n\n\n\nRenal Failure\nPost-operative AKI:\n\nOccurs in 1-5%\nSignificant associated morbidity and mortality\n\n\n\nOther\nOther complications of cardiac surgery include:\n\nD\n\nDelirium/POCD 10-20%.\nStroke\n1-5%.\n\nG\n\nMesenteric ischaemia\n\nEmbolic\n\n\nI\n\nInfection\n\nDeep sternal wound infection in 1-2%\nSignificant morbidity."
   },
   {
     "objectID": "intensive/post-cardiac.html#references",
@@ -7697,49 +7746,49 @@
     "href": "disease/resp/coad.html#epidemiology-and-risk-factors",
     "title": "Chronic Obstructive Pulmonary Disease",
     "section": "Epidemiology and Risk Factors",
-    "text": "Epidemiology and Risk Factors\nEnvironmental exposures:\n\nSmoking\n\nCigarettes\nPipes/cigars\nWater pipe\nMarijuana\n\nOccupational exposures\n\nDusts\nChemical agents\nFumes\n\nIndoor air pollution\n\nCooking fuels\n\nOutdoor air pollution\nRelatively small effect.\n\nGenetic factors:\n\nFAM13A associated with development"
+    "text": "Epidemiology and Risk Factors\nCommon comorbidity:\n\n10% of >40s woldwide\n4th most common cause of death\nAssociated with:\n\nCAD\nMalignancy\nDepression\n\n\nRisk factors:\n\nEnvironmental exposures:\n\nSmoking\n\nCigarettes\nPipes/cigars\nWater pipe\nMarijuana\nGreater incease in bullous emphysema due to holding hot inhaled smoke.\n\nOccupational exposures\n\nDusts\nChemical agents\nFumes\n\nIndoor air pollution\n\nCooking fuels\n\nOutdoor air pollution\nRelatively small effect.\n\nGenetic factors:\n\nFAM13A associated with development\n\n\n\n\nDegree of decline in FEV1 with age varies with the duration of smoking, timing of quitting smoking, and susceptibility to COPD."
   },
   {
     "objectID": "disease/resp/coad.html#pathophysiology",
     "href": "disease/resp/coad.html#pathophysiology",
     "title": "Chronic Obstructive Pulmonary Disease",
     "section": "Pathophysiology",
-    "text": "Pathophysiology\nExpiratory airflow limitation via:\n\nObstructive bronchiolitis\nSmall airway inflammation leads to gas trapping and dynamic hyperinflation.\nParenchymal destruction\nLeading to emphysema, which reduces:\n\nPulmonary capillary bed volume\nLung surface area for gas exchange\nV/Q matching\n\n\n\nAetiology"
+    "text": "Pathophysiology\nExpiratory airflow limitation via:\n\nIncreased airway resistance:\n\nObstructive bronchiolitis\nSmall airway inflammation leads to gas trapping and dynamic hyperinflation.\nIncreased Secretion production\nBronchospasm\nParenchymal destruction\nLeading to emphysema, which reduces:\n\nPulmonary capillary bed volume\nLung surface area for gas exchange\nV/Q matching\n\n\nLoss of elastic recoil\nCombination of elastin destruction and fall in alveolar surface tension.\n\nDecreased Expiratory air flow\n\n\nAir flow limitaiton leads to:\n\nProlonged expiration\nPulmonary hyperinflation\nIncreased work of breathing\nDyspnoea\n\n\nAetiology"
   },
   {
     "objectID": "disease/resp/coad.html#assessment",
     "href": "disease/resp/coad.html#assessment",
     "title": "Chronic Obstructive Pulmonary Disease",
     "section": "Assessment",
-    "text": "Assessment\nKey symptoms are:\n\nChronic cough or sputum production\nHistory of exposures\nDyspnoea\nGraded using the mMRC scale.\n\n\nModified Medical Research Council (MRC) Scale\n\n\n\n\n\n\n\nMRC Grade\nBreathlessness\n\n\n\n\nGrade 0\nOnly with strenuous exercise\n\n\nGrade 1\nWhen hurrying or a slight incline\n\n\nGrade 2\nSlower than people of same age, or stopping due to shortness of breath on flat ground\n\n\nGrade 3\nAfter ~100m or a few minutes on flat ground\n\n\nGrade 4\nI am too breathless to leave the house, or get breathless when dressing/undressing\n\n\n\n\n\nGOLD Criteria\nGlobal Initiative for Obstructive Lung Disease Criteria:\n\nUsed clinically to determine severity of disease in order to prognosticate and guide therapeutic interventions\nNot appropriate for diagnosis\nAre based upon:\n\nSymptom burden\nmMRC score.\nNumber of exacerbations and hospital admissions\nFEV1\n\n\nTreatment recommendations:\n\nGOLD A\nBronchodilator (LABA or SABA) offered, and continued if effective.\nGOLD B\nLABA or long-acting methacholine antagonist should be offered as initial therapy.\nGOLD C\nLAMA as initial therapy, and benefit may be seen with LAMA & LABA & inhaled corticosteroids.\nGOLD D\nLAMA & LABA as initial therapy, with inhaled corticosteroids for patients with frequent exacerbations."
+    "text": "Assessment\nKey symptoms are:\n\nChronic cough or sputum production\nHistory of exposures\nDyspnoea\nGraded using the mMRC scale.\n\n\n\n\nModified Medical Research Council (mMRC) Scale\n\n\n\n\n\n\nMRC Grade\nBreathlessness\n\n\n\n\nGrade 0\nOnly with strenuous exercise\n\n\nGrade 1\nWhen hurrying or a slight incline\n\n\nGrade 2\nSlower than people of same age, or stopping due to shortness of breath on flat ground\n\n\nGrade 3\nAfter ~100m or a few minutes on flat ground\n\n\nGrade 4\nI am too breathless to leave the house, or get breathless when dressing/undressing\n\n\n\n\nGOLD Criteria\nGlobal Initiative for Obstructive Lung Disease Criteria:\n\nUsed clinically to determine severity of disease in order to prognosticate and guide therapeutic interventions\nNot appropriate for diagnosis\nAre based upon:\n\nSymptom burden\nmMRC score.\nNumber of exacerbations and hospital admissions\nFEV1\n\n\nTreatment recommendations:\n\nGOLD A\nBronchodilator (LABA or SABA) offered, and continued if effective.\nGOLD B\nLABA or long-acting methacholine antagonist should be offered as initial therapy.\nGOLD C\nLAMA as initial therapy, and benefit may be seen with LAMA & LABA & inhaled corticosteroids.\nGOLD D\nLAMA & LABA as initial therapy, with inhaled corticosteroids for patients with frequent exacerbations."
   },
   {
     "objectID": "disease/resp/coad.html#diagnostic-approach-and-ddx",
     "href": "disease/resp/coad.html#diagnostic-approach-and-ddx",
     "title": "Chronic Obstructive Pulmonary Disease",
     "section": "Diagnostic Approach and DDx",
-    "text": "Diagnostic Approach and DDx\nDiagnosis should be considered in:\n\nSmokers\nAge >35\nExertional breathlessness\nChronic cough\nFrequent winter bronchitis or wheeze"
+    "text": "Diagnostic Approach and DDx\nDiagnosis should be considered in:\n\nSmokers\nAge >35\nExertional breathlessness\nChronic cough\nFrequent winter bronchitis or wheeze\n\nDifferentials include:\n\nChronic asthma\nLong-term dyspnoea from childhood, with obvious precipitants. Normal TLCO with reversibility.\nLate-onset asthma\nAssociated with GORD. Normal TLCO with reversibility.\nBroncholitis obliterans"
   },
   {
     "objectID": "disease/resp/coad.html#investigations",
     "href": "disease/resp/coad.html#investigations",
     "title": "Chronic Obstructive Pulmonary Disease",
     "section": "Investigations",
-    "text": "Investigations\nRespiratory function tests are diagnostic and used to grade severity:\n\nFEV1FVC/ of ⩽0.7\n\nReversibility is not required\nDifferentiated from asthma on clinical grounds.\n\nSeverity graded by FEV1\nMultiple grading systems, the GOLD 2008/NICE 2010 system:\n\nFEV1 ⩾80% predicted\nMild.\nFEV1 50-79% predicted\nModerate.\nFEV1 30-49% predicted\nSevere.\nFEV1 ⩽30% predicted\nVery severe.\n\n\nα-1 antitrypsin:\n\nAll patients should be screened once for α1 antitrypsin deficiency\n⩽20% is suggestive of homozygous deficiency."
+    "text": "Investigations\nRespiratory function tests are diagnostic and used to grade severity:\n\nFEV1FVC/ of ⩽0.7\n\nReversibility is not required\nDifferentiated from asthma on clinical grounds.\n\nSeverity graded by FEV1\nMultiple grading systems, the GOLD 2008/NICE 2010 system:\n\nFEV1 ⩾80% predicted\nMild.\nFEV1 50-79% predicted\nModerate.\nFEV1 30-49% predicted\nSevere.\nFEV1 ⩽30% predicted\nVery severe.\n\n\nBloods:\n\nα-1 antitrypsin\nAll patients should be screened once for α1 antitrypsin deficiency. ⩽20% is suggestive of homozygous deficiency.\nABG/VBG\nEvaluate degree of chronic hypercapnoea and metabolic compensation.\n\nRadiology:\n\nCXR\nHyperinflation if >=10 posterior ribs visible."
   },
   {
     "objectID": "disease/resp/coad.html#management",
     "href": "disease/resp/coad.html#management",
     "title": "Chronic Obstructive Pulmonary Disease",
     "section": "Management",
-    "text": "Management\nMedical Management:\n\nSmoking cessation\nVital, and will slow down deterioration and disability before death occurs.\nInhaled therapies\nMainstay of day-to-day treatment. Includes:\n\nShort-acting bronchodilators\nFor breathlessness and exercise limitation.\nLong-acting bronchodilators\nFor persistent breathlessness.\n\nOral therapy\nOral corticosteroids may be required in advanced disease.\nVaccination\nInfluenza and pneumococcal vaccines decrease LRTI rate.\nNIV\nPreferred over invasive ventilation, and indicated when:\n\nRespiratory acidosis\nSevere dyspnoea with signs of fatigue\nPersistent hypoxaemia despite supplemental oxygen\n\nHome oxygen\nIndicated in patients with severe resting hypoxia (PaO2 <60mmHg, or ⩽55mmHg with cor pulmonale or pulmonary hypertension).\n\nSurgical Management:\n\nLung volume reduction surgery\nImproves survival in severe upper-lobe emphysema and low post-rehabilitation exercise capacity.\nBullectomy\nImproves dyspnoea, lung function, and exercise tolerance is selected patients.\nTransplantation\nImproves quality of life in selected patients with very severe COAD.\nBronchoscopic interventions\nIncludes coils and endobronchial valves, and improves exercise tolerance and lung function at 6-12 months following treatment.\n\n\nAnaesthetic Considerations\n\nB\n\nSmoking cessation\nPatients are more receptive to smoking cessation perioperatively, and this should be encouraged.\nDisease severity\n\nExercise tolerance\nNumber of exacerbations\nMost recent course of antibiotics or steroids\nPrevious requirement for NIV or intubation\n\nWheezing\nIf present needs aggressive treatment with bronchodilators +/- steroids.\nActive respiratory infection\nConsider treatment and postponing surgery.\nConsider CXR if:\n\nCurrent infection\nRecent deterioration in symptoms\n\nVentilator settings\nAim to minimise gas trapping:\n\nIncrease the I:E ratio to prolong expiratory time\nSuggest 1:3-1:5.\n\nMay require increased inspiratory flow rate and higher Pip\n\nConsider PEEP\nAim to splint open small airways, and if ePEEP < iPEEP then worsening of CV effects will not occur.\nBronchospasm\n\n\nC\n\nPulmonary hypertension\nConcomitant IHD\n\nD\n\nGeneral anaesthesia\nIncreased risk, particularly with intubation and IPPV, of:\n\nLaryngospasm\nBronchospasm\nBarotrauma\nHypoxaemia\nCardiovascular instability\n\nRegional anaesthesia\n\nE\n\nNeuromuscular blockade\n\nEnsure complete reversal prior to extubation\nConsider extubation directly onto NIV\nReduces need for post-operative reintubation.\n\n\n\n\n\nIneffective Therapies"
+    "text": "Management\nPhysical:\n\nSmoking cessation\nVital, and will slow down deterioration and disability before death occurs.\nNIV\nReduces chronic hypercarbia, survival, and readmission rates.\nHome oxygen\nIndicated in patients with severe resting hypoxia (PaO2 <60mmHg, or ⩽55mmHg with cor pulmonale or pulmonary hypertension).\n\nPharmacological:\n\nInhaled therapies\nMainstay of day-to-day treatment. Includes:\n\nShort-acting bronchodilators\nFor breathlessness and exercise limitation.\nLong-acting bronchodilators\nFor persistent breathlessness.\n\nOral therapy\nRegular oral corticosteroids may be requried in advanced disease.\nVaccination\nInfluenza and pneumococcal vaccines decrease LRTI rate.\n\nProcedural:\n\nLung volume reduction surgery\nImproves survival in severe upper-lobe emphysema and low post-rehabilitation exercise capacity.\nBullectomy\nImproves dyspnoea, lung function, and exercise tolerance is selected patients.\nLung transplantation\nImproves quality of life in selected patients with very severe COAD.\nBronchoscopic interventions\nIncludes coils and endobronchial valves, and improves exercise tolerance and lung function at 6-12 months following treatment.\n\n\nAcute Exacerbation of COPD\nAcute change in degree of dyspnoea, cough, or sputum production. Acute exacerbations are:\n\nThe most common admission diagnosis in the UK (~16%)\nUsually survivable in the short term but a poor prognostic sign for survival in the medium-long term\nUp to 90% hospital survival, but significantly impaired 2-3 year survival.\n\nPrecipiated by:\n\nInfection\n\nMost commonly bacterial:\n80% caused by:\n\nS. Pneumoniae\nH. Influenze\n\nViral isolated in 20-30%:\n\nRhinovirus\nInfluenze\nParainfluenzae\n\n\n\nSputum retention\nCardiac failure\nOther respiratory disease\n\nPneumothorax\n\nUncontrolled oxygen therapy\nRelative hyperoxia (>92%) may adversely affect V/Q matching, reduce hypoxic drive, and increase CO2 dissociation via the Haldane effect.\n\nPhysical:\n\nOxygen\nTarget SpO2 88-92%.\nHFNO\nNIV\nPreferred over invasive ventilation, and indicated when:\n\nUncompensated respiratory acidosis\nSevere dyspnoea with signs of fatigue\nPersistent hypoxaemia despite supplemental oxygen\n\nChest physio\n\nEncourage coughing\nBubble PEEP\n\nInvasive ventilation\nReasonable in patients without end-stage lung disease - 80-90% wean successfully. Avoid breath stacking.\n\nSuggested initial settings to avoid breath stacking\n\nPEEP 3-8cmH2O\nPsup 8-15cmH2O\nRR <14\nAim MV <115mL/kg.\n\nMinimise dynamic hyperinflation by:\n\nWatching the flow-volume loop\nMeasuring end-inspiratory pause\nTarget <25cmH2O. flow-volume loop to minimise dynamic hyperiflation\n\n\n\nPharmacological:\n\nBronchodilators\nMany patients have a small response, and this assists in sputum clearance.\n\nIpratropium 500ug Q2H\nAnticholinergic agents have a greater effect compared to beta-agonists.\nSalbutamol 5mg Q2H\n\n\nSteroids\nPrednisolone 0.5mg/kg (or equivalent) for 5 days.\nAntibiotics\nAmoxycillin usually first line for S. pneumoniae and H. influenzae cover.\nElectrolyte correction\nDVT prophylaxis\n\n\n\nAnaesthetic Considerations\n\nB\n\nSmoking cessation\nPatients are more receptive to smoking cessation perioperatively, and this should be encouraged.\nDisease severity\n\nExercise tolerance\nNumber of exacerbations\nMost recent course of antibiotics or steroids\nPrevious requirement for NIV or intubation\n\nWheezing\nIf present needs aggressive treatment with bronchodilators +/- steroids.\nActive respiratory infection\nConsider treatment and postponing surgery.\nConsider CXR if:\n\nCurrent infection\nRecent deterioration in symptoms\n\nVentilator settings\nAim to minimise gas trapping:\n\nIncrease the I:E ratio to prolong expiratory time\nSuggest 1:3-1:5.\n\nMay require increased inspiratory flow rate and higher Pip\n\nConsider PEEP\nAim to splint open small airways, and if ePEEP < iPEEP then worsening of CV effects will not occur.\nBronchospasm\n\n\nC\n\nPulmonary hypertension\nConcomitant IHD\n\nD\n\nGeneral anaesthesia\nIncreased risk, particularly with intubation and IPPV, of:\n\nLaryngospasm\nBronchospasm\nBarotrauma\nHypoxaemia\nCardiovascular instability\n\nRegional anaesthesia\n\nE\n\nNeuromuscular blockade\n\nEnsure complete reversal prior to extubation\nConsider extubation directly onto NIV\nReduces need for post-operative reintubation.\n\n\n\n\n\nIneffective Therapies"
   },
   {
     "objectID": "disease/resp/coad.html#complications",
     "href": "disease/resp/coad.html#complications",
     "title": "Chronic Obstructive Pulmonary Disease",
     "section": "Complications",
-    "text": "Complications"
+    "text": "Complications\n\nDeath:\n\n8% in-hospital mortality\n15% 90-day mortality\nUp to 50% 1-year mortality"
   },
   {
     "objectID": "disease/resp/coad.html#prognosis",
@@ -7837,14 +7886,14 @@
     "href": "disease/cvs/failure.html#pathophysiology",
     "title": "Cardiac Failure",
     "section": "Pathophysiology",
-    "text": "Pathophysiology\nHeart failure with reduced ejection fraction:\n\nAetiology\nPrecipitating causes:\n\nCardiac\n\nArrhythmias\n\nAF\n\nIschaemia\n\nAMI\nAngina\n\n\nInfective\n\nPneumonia\n\nDrug\n\nAlcohol excess\n\nIatrogenic\n\nIV fluids"
+    "text": "Pathophysiology\nHeart failure with reduced ejection fraction:\n\nAetiology\nPrecipitating causes:\n\nCardiac\n\nArrhythmias\n\nAF\n\nIschaemia\n\nAMI\nAngina\n\nHypertensive emergency\nMechanical\n\nValvular\nTamponade\nPE\n\n\n\nNeurological\n\nNeuromuscular disease\n\nInfective\n\nSepsis\nPneumonia\nMyocarditis\n\nToxins\n\nAlcohol\nBeta-blockade\nCalcium antagonists\nCocaine\n\nIatrogenic\n\nIV fluids"
   },
   {
     "objectID": "disease/cvs/failure.html#clinical-manifestations",
     "href": "disease/cvs/failure.html#clinical-manifestations",
     "title": "Cardiac Failure",
     "section": "Clinical Manifestations",
-    "text": "Clinical Manifestations\n\nDyspnoea\nPulmonary congestion due to raised LAP.\n\nModerately sensitive but poorly specific\n\nOrthopnoea\nIncreased VR and pulmonary congestion in supine position.\n\nMore specific than dyspnoea, but insensitive\n\nPND\nAs orthopnoea, but with additional respiratory depression.\nPulmonary oedema/Crepitations\nClassically bilateral, due to pulmonary congestion.\nPleural effusion\nFluid retention and elevated RAP/\nPalpitations\nTachyarrythmias and reduced exercise tolerance.\nHepatomegaly\nIncreased RAP.\nHepatojugular reflex\nIncreased RAP.\nAscites\nFluid retention.\nCachexia\nIntestinal congestion, chronic inflammatory pathway activation.\nEarly satiety\nFluid retention.\nAnorexia\nFluid retention.\nFatigue\nReduced skeletal muscle perfusion.\n\nExamination:\n\nOedema\nFluid retention and elevated filling pressures.\n\nInsensitive\nMany elderly patients have oedema due to immobility.\n\nElevated JVP\nIncreased RAP.\nDisplaced apex beat\nLV dilatation.\nCrepitations\nHighly specific."
+    "text": "Clinical Manifestations\n\nDyspnoea\n\nPulmonary oedema/Crepitations\nPulmonary congestion due to raised LAP. Moderately sensitive but poorly specific.\nPleural effusion\nFluid retention and elevated RAP/ Classically bilateral, due to pulmonary congestion.\n\nOrthopnoea\nIncreased VR and pulmonary congestion in supine position.\n\nMore specific than dyspnoea, but insensitive\n\nPND\nAs orthopnoea, but with additional respiratory depression.\nPalpitations\nTachyarrythmias and reduced exercise tolerance.\nHepatomegaly\nIncreased RAP.\nHepatojugular reflex\nIncreased RAP.\nAscites\nFluid retention.\nCachexia\nIntestinal congestion, chronic inflammatory pathway activation.\nEarly satiety\nFluid retention.\nAnorexia\nFluid retention.\nFatigue\nReduced skeletal muscle perfusion.\n\nExamination:\n\nOedema\nFluid retention and elevated filling pressures.\n\nInsensitive\nMany elderly patients have oedema due to immobility.\n\nElevated JVP\nIncreased RAP.\nDisplaced apex beat\nLV dilatation.\nCrepitations\nHighly specific."
   },
   {
     "objectID": "disease/cvs/failure.html#diagnostic-approach-and-ddx",
@@ -7858,14 +7907,14 @@
     "href": "disease/cvs/failure.html#investigations",
     "title": "Cardiac Failure",
     "section": "Investigations",
-    "text": "Investigations\nCXR:\n\nPulmonary oedema\nCardiomegaly"
+    "text": "Investigations\nBlood:\n\nTroponin\nBNP\nReleased in response to increased ventricular wall tension.\n\n<100pg/mL is 90% sensitive/70% specific for excluding failure\n\nBT-proBNP\nProhormone of BNP. Similar results for cut off of 300.\nScvO2\nVBG from IJ or SCV line; <70% suggests inadequate DO2.\n\nRadiology:\n\nCXR\n\nPulmonary oedema\nCardiomegaly"
   },
   {
     "objectID": "disease/cvs/failure.html#management",
     "href": "disease/cvs/failure.html#management",
     "title": "Cardiac Failure",
     "section": "Management",
-    "text": "Management\n\nIneffective Therapies"
+    "text": "Management\nThe crux of heart failure management is acheiving balance between the competing goals of:\n\nEnsuring adqeuate organ perfusion\nMinimising myocardial work\n\nChoice of therapy depends on where the patient is on this spectrum. If this balance cannot be achieved with medical therapy, then mechanical support may be required.\n\nImproving Organ Perfusion\n\nAfterload\nReduce with systemic vasodilators.\n\nIV\n\nGTN\nSNP\nMilrinone\n\n\nPreload\n\nContractility\n\nCease negative inotropes\nInotropes\n\nRate\nIncrease to high normal (~90); CO may fall with increasing tachycardia depending on the diastolic function.\nRhythm\nRestore sinus rhythm.\n\n\n\nReduce Myocardial Work\n\nAfterload\nReduce with systemic vasodilators.\n\nPO\n\nACE-I\n\n\nContractility\n\nNegative inotropes\nImprovement in ventricular filling, coronary perfusionn, and myocardial oxygen demand.\n\nPreload\n\nRate\nRhythm\nRestore sinus rhythm.\n\n\n\nMechanical Support\n\nRespiratory\n\nNIV\nPositive airway pressures (CPAP, PEEP) reduces LV wall tension and afterload.\nMechanical ventilation\nIn addition to the effects of increased airway pressure, mechanical ventilation substantially reduces work of breathing and therefore VO2. These gains may be significant (up to 30%), but is not a long-term solution.\n\nCardiac\n\nIABP\nVAD\n\nTemporary\nPermanent\n\nECMO\n\n\n\n\nAdditional Physiological Goals\nCorrect:\n\nHypoxia\nAcidaemia\nElectrolyte derangements\nAnaemia\nThiamine deficiency\n\n\n\nIneffective Therapies"
   },
   {
     "objectID": "disease/cvs/failure.html#complications",
@@ -8026,7 +8075,7 @@
     "href": "disease/cvs/acs.html#complications",
     "title": "Acute Coronary Syndromes",
     "section": "Complications",
-    "text": "Complications\n\nDeath\n\nMalignant arrhythmias\nLeading cause of death, particularly prehospital.\n\nMajor risk in first 4 hours\n4-20% have VF in this period.\n\n\nCardiogenic shock\nPulmonary oedema\nMR\n\nFunctional\nRelated to LV dilation and diastolic dysfunction.\nPapillary muscle rupture\n\nVentricular rupture\nVSD\nIschaemic cardiomyopathy and cardiac failure\n15-25% following STEMI.\nPericarditis/Dressler’s syndrome\nUsually develops 24-72 hours post MI.\nStroke\nEmbolism from LV thrombus."
+    "text": "Complications\n\nDeath\n\nMalignant arrhythmias\nLeading cause of death, particularly prehospital.\n\nMajor risk in first 4 hours\n4-20% have VF in this period.\n\n\nCardiogenic shock\n~10% of ACS, with substantial (~50%) associated mortality.\nCardiogenic shock\nPulmonary oedema\nMR\n\nFunctional\nRelated to LV dilation and diastolic dysfunction.\nPapillary muscle rupture\n\nVentricular rupture\nVSD\nIschaemic cardiomyopathy and cardiac failure\n15-25% following STEMI.\nPericarditis/Dressler’s syndrome\nUsually develops 24-72 hours post MI.\nStroke\nEmbolism from LV thrombus."
   },
   {
     "objectID": "disease/cvs/acs.html#prognosis",
@@ -8482,6 +8531,83 @@
     "title": "Long QT Syndrome",
     "section": "References",
     "text": "References\n\nHunter JD, Sharma P, Rathi S. Long QT syndrome. Contin Educ Anaesth Crit Care Pain. 2008 Apr 1;8(2):67–70."
+  },
+  {
+    "objectID": "disease/cvs/ie.html#epidemiology-and-risk-factors",
+    "href": "disease/cvs/ie.html#epidemiology-and-risk-factors",
+    "title": "Infective Endocarditis",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors\nRisk factors:\n\nCardiac\n\nAbnormal valve\nMore likely to become infected, and more difficult to eradicate infection from.\n\nRheumatic\nDegenerative\n\nIntracardiac device\n\nProsthetic valve\nImplantable wires\n\n\nBacteraemia\n\nConcurrent infection\nIVDU"
+  },
+  {
+    "objectID": "disease/cvs/ie.html#pathophysiology",
+    "href": "disease/cvs/ie.html#pathophysiology",
+    "title": "Infective Endocarditis",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\n\nAetiology\nBacterial infection predominates, common causative organisms include:\n\nGram positive predominates\n\nStaphylococci\nStreptococci\nEnterococci\n\n\nFungal endocarditis is rare, and seen with:\n\nImmunocompromise\nIVDU"
+  },
+  {
+    "objectID": "disease/cvs/ie.html#clinical-manifestations",
+    "href": "disease/cvs/ie.html#clinical-manifestations",
+    "title": "Infective Endocarditis",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations"
+  },
+  {
+    "objectID": "disease/cvs/ie.html#diagnostic-approach-and-ddx",
+    "href": "disease/cvs/ie.html#diagnostic-approach-and-ddx",
+    "title": "Infective Endocarditis",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx\nModified Duke criteria"
+  },
+  {
+    "objectID": "disease/cvs/ie.html#investigations",
+    "href": "disease/cvs/ie.html#investigations",
+    "title": "Infective Endocarditis",
+    "section": "Investigations",
+    "text": "Investigations\nBloods:\n\nFBE\nUEC\nBlood cultures\n\nRadiology:\n\nCT\n\nEmbolic phenomena\n\nMRI\n\nEmbolic phenomena\nParticularly strokes.\n\n\nEchocardiography:\n\nModality\n\nTTE\n\nTOE\nBetter imaging of valvular structures and device leads.\n\nFeatures\n\nVegetation\nValvular destruction\n\nRegurgitation\nDehisence of prosthetic valve\n\nFistula\nVentricular dysfunction"
+  },
+  {
+    "objectID": "disease/cvs/ie.html#management",
+    "href": "disease/cvs/ie.html#management",
+    "title": "Infective Endocarditis",
+    "section": "Management",
+    "text": "Management\nSpecific therapy:\n\nPharmacological\n\nEarly antimicrobial therapy\n\nIntravenous\nExtended duration\nClassically 6 weeks.\n\n\n\nPhysical\n\nSupportive care:\nDisposition:\n\nICU admission commmon for:\n\nHeart failure\nSeptic shock\nNeurological involvment\n\n\n\nSurgical Intervention\nSurgery is the cornerstone of curative therapy, but the decision on when to operate is complex and driven by the balance of delaying for pre-operative optimisation versus intervening to prevent further decline.\nThe decision should be multidisciplinary, but factors favouring proceeding include:\n\nHeart failure\n\nRefractory shock/pulmonary oedema infers urgent surgery\n\nUncontrolled infection\nPersistent positive blood cultures despite 3-10 (recommendations vary) days of appropriate antibiotic trreatment.\nEmbolisation\n\nLarge (>1cm) vegetation at risk of embolising\nNew stroke\nDecision confounded by intracranial haemorrhage, which has substantial implications for therapeutic heparin required for CPB.\n\n\n\n\nIneffective Therapies"
+  },
+  {
+    "objectID": "disease/cvs/ie.html#anaesthetic-considerations",
+    "href": "disease/cvs/ie.html#anaesthetic-considerations",
+    "title": "Infective Endocarditis",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "disease/cvs/ie.html#complications",
+    "href": "disease/cvs/ie.html#complications",
+    "title": "Infective Endocarditis",
+    "section": "Complications",
+    "text": "Complications\n\nC\n\nEmbolism\n\nPulmonary\nFor right sided disease.\nStroke\n15-30%.\nSplenic\nRenal\n\n\nI\n\nSepsis"
+  },
+  {
+    "objectID": "disease/cvs/ie.html#prognosis",
+    "href": "disease/cvs/ie.html#prognosis",
+    "title": "Infective Endocarditis",
+    "section": "Prognosis",
+    "text": "Prognosis\nVaries depending on the extent of valvular disease and severity of systemic infection, however:\n\nMortality\n\n30-50% in patients receiving surgical treatment\n85% in those not receiving operative intervention"
+  },
+  {
+    "objectID": "disease/cvs/ie.html#key-studies",
+    "href": "disease/cvs/ie.html#key-studies",
+    "title": "Infective Endocarditis",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/cvs/ie.html#references",
+    "href": "disease/cvs/ie.html#references",
+    "title": "Infective Endocarditis",
+    "section": "References",
+    "text": "References"
   },
   {
     "objectID": "disease/cvs/as.html#epidemiology-and-risk-factors",
@@ -9286,7 +9412,7 @@
     "href": "disease/cvs/fontan.html#complications",
     "title": "Fontan Circulation",
     "section": "Complications",
-    "text": "Complications\nAlthough a palliative procedure, outcomes vary widely and quality of life may be high for several decades. Potential complications include:\n\nDeath\nUsually due to gradual elevation in:\n\nVentricular filling pressures\nPVR\n\nArrhythmia\nSecondary to intrinsic properties of the circulation\n\nCardiac failure\n\nDiastolic dysfunction\nCombination of:\n\nVolume overload of the single ventricle, particular during the BDCPC/S stage\nVolume underload of the single ventricle, after establishment of the Fontan\n\nSystolic dysfunction\nPressure overload of the single ventricle in the low-volume, low-compliance post-Fontan stage.\n\nReduced exercise capacity\nUnable to increase CO, as pulmonary impedance remains the flow-limiting step.\nCyanosis\n\nSecondary to venous congestion\n\nHepatic congestion and failure\n\nSecondary cirrhosis\nHepatic carcinoma\n\nLymphatic failure\n\nProtein-losing enteropathy\nAscites\nPeripheral oedema\nVenous thrombosis\n\n\nSecondary to reduced systemic cardiac output"
+    "text": "Complications\nAlthough a palliative procedure, outcomes vary widely and quality of life may be high for several decades. Potential complications include:\n\nDeath\nUsually due to gradual elevation in:\n\nVentricular filling pressures\nPVR\n\nArrhythmia\nSecondary to intrinsic properties of the circulation\n\nCardiac failure\n\nDiastolic dysfunction\nCombination of:\n\nVolume overload of the single ventricle, particular during the BDCPC/S stage\nVolume underload of the single ventricle, after establishment of the Fontan\n\nSystolic dysfunction\nPressure overload of the single ventricle in the low-volume, low-compliance post-Fontan stage.\n\nReduced exercise capacity\nUnable to increase CO, as pulmonary impedance remains the flow-limiting step.\nCyanosis\n\nSecondary to venous congestion\n\nHepatic congestion and failure\n\nSecondary cirrhosis\nHepatic carcinoma\n\nProtein-losing enteropathy\n\nLymphatic failure\n\nAscites\nPeripheral oedema\nVenous thrombosis\n\n\nSecondary to reduced systemic cardiac output"
   },
   {
     "objectID": "disease/cvs/fontan.html#references",
@@ -11575,7 +11701,7 @@
     "href": "disease/git/cld.html#prognosis",
     "title": "Chronic Liver Disease/Cirrhosis",
     "section": "Prognosis",
-    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 291.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
+    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 293.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
   },
   {
     "objectID": "disease/git/cld.html#key-studies",
