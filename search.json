@@ -714,6 +714,34 @@
     "text": "References\n\nDe Leyn, Paul, Lieven Bedert, Marion Delcroix, Pieter Depuydt, Geert Lauwers, Youri Sokolov, Alain Van Meerhaeghe, Paul Van Schil, and Belgian Association of Pneumology and Belgian Association of Cardiothoracic Surgery. “Tracheotomy: Clinical Review and Guidelines.” European Journal of Cardio-Thoracic Surgery: Official Journal of the European Association for Cardio-Thoracic Surgery 32, no. 3 (September 2007): 412–21. \nO’Connor, Heidi H., and Alexander C. White. “Tracheostomy Decannulation.” Respiratory Care 55, no. 8 (August 1, 2010): 1076–81."
   },
   {
+    "objectID": "management/resp/ventilation.html#indications",
+    "href": "management/resp/ventilation.html#indications",
+    "title": "Overview of Mechanical Ventilation",
+    "section": "Indications",
+    "text": "Indications\nDivided into need for:\n\nDefinitive airway\n\nLoss of airway reflexes\nSecretion management\nFollowing use of sedation or paralysis\nUpper airway obstruction\n\nMechanical ventilation\n\nT1RF\nT2RF\nManipulate physiology\ne.g. CO2 control for increased ICP.\nWork of breathing"
+  },
+  {
+    "objectID": "management/resp/ventilation.html#complications",
+    "href": "management/resp/ventilation.html#complications",
+    "title": "Overview of Mechanical Ventilation",
+    "section": "Complications",
+    "text": "Complications\n\nEquipment\n\nMalfunction\nIncorrect settings\n\nA\n\nAirway trauma\n\nTeeth\nCords\n\n\nB\n\nVAP\nVILI\nBarotrauma\nPneumothorax.\n\nC\n\nRV dysfunction\n\nDecreased Preload\nIncreased Afterload\n\nOrgan blood flow\n\nDecreased RBF\nDecreased Splanchnic flow\n\nFluid retention\n\nD\n\nDyssynchrony\nComplications of sedation\n\nE\n\nDeconditioning"
+  },
+  {
+    "objectID": "management/resp/ventilation.html#physiological-principles",
+    "href": "management/resp/ventilation.html#physiological-principles",
+    "title": "Overview of Mechanical Ventilation",
+    "section": "Physiological Principles",
+    "text": "Physiological Principles"
+  },
+  {
+    "objectID": "management/resp/ventilation.html#references",
+    "href": "management/resp/ventilation.html#references",
+    "title": "Overview of Mechanical Ventilation",
+    "section": "References",
+    "text": "References"
+  },
+  {
     "objectID": "management/resp/aprv.html",
     "href": "management/resp/aprv.html",
     "title": "Airway Pressure Release Ventilation",
@@ -747,6 +775,13 @@
     "title": "Airway Pressure Release Ventilation",
     "section": "References",
     "text": "References\n\nSpiegel, Rory, and Max Hockstein. Airway Pressure Release Ventilation. Emergency Medicine Clinics of North America 40, no. 3 (August 2022): 489–501. https://doi.org/10.1016/j.emc.2022.05.004."
+  },
+  {
+    "objectID": "management/resp/weaning.html#references",
+    "href": "management/resp/weaning.html#references",
+    "title": "Ventilator Weaning",
+    "section": "References",
+    "text": "References"
   },
   {
     "objectID": "management/resp/olv.html#indications",
@@ -857,6 +892,34 @@
     "objectID": "management/resp/hyperbaric.html#references",
     "href": "management/resp/hyperbaric.html#references",
     "title": "Hyperbaric Oxygen Therapy",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "management/resp/humidifier.html#physiological-importance",
+    "href": "management/resp/humidifier.html#physiological-importance",
+    "title": "Humidification",
+    "section": "Physiological Importance",
+    "text": "Physiological Importance\nInadequate humidification of inspired gas leads to:\n\nImpaired ciliary function\nTracheobronchial epithelial damage\nIncreased Mucous viscosity\n\nAirway obstruction\n\nAtelectasis\nObstruction of small airways."
+  },
+  {
+    "objectID": "management/resp/humidifier.html#humidification-systems",
+    "href": "management/resp/humidifier.html#humidification-systems",
+    "title": "Humidification",
+    "section": "Humidification Systems",
+    "text": "Humidification Systems\nInclude:\n\nCold-water humidifiers\nHot-water humidifiers\nThermostatically-controlled heated water resevoir, with gas containing high water content produced.\n\nSmall risk of infection from aerosolised particles in the water resevoir\nEffective over a wide range of minute ventilation\nParticularly at high levels.\nCan be either:\n\nBlow-by\nGas passed over the water pool.\nBubble/cascade\nGas passed into the water pool.\n\n\nHeat-Moisture Exchanger\nWater vapour (and it’s heat content) is captured in a hygroscopic membrane during expiration, and is returned during the subsequent breath during inspiration.\n\nMay include viral/bacterial filters\nCan become obstructed with blood/oedema/sputum\nAdd to circuit dead space\nUsually 30-90mL.\nLess effective than hot-water humidification systems"
+  },
+  {
+    "objectID": "management/resp/humidifier.html#complications",
+    "href": "management/resp/humidifier.html#complications",
+    "title": "Humidification",
+    "section": "Complications",
+    "text": "Complications\n\nInadequate humidification\nPractially only of concern with an HME.\nOver-humidification\nRisk of airway burns and water intoxication.\nIncreased Work of Breathing\n\n\nHumidified gas\nIncreases Resistive work of breathing due to increased gas viscosity.\nDevice\nHME adds resistance.\n\nInfection\nRisk of culture of organisms from water bath."
+  },
+  {
+    "objectID": "management/resp/humidifier.html#references",
+    "href": "management/resp/humidifier.html#references",
+    "title": "Humidification",
     "section": "References",
     "text": "References"
   },
@@ -11701,7 +11764,7 @@
     "href": "disease/git/cld.html#prognosis",
     "title": "Chronic Liver Disease/Cirrhosis",
     "section": "Prognosis",
-    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 293.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
+    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 296.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
   },
   {
     "objectID": "disease/git/cld.html#key-studies",
