@@ -1,0 +1,23 @@
+# Ventilator Weaning
+
+Separation from mechanical ventilation should occur once the initial process that required ventilation has resolved. Suitability for weaning is indicated by adequate:
+
+* Strength\
+    * To achieve a spontaneous breath\
+    VC >10mL/kg with Psupp of 5cmH~2~O
+    * To clear secretions
+* Oxygenation\
+Normoxia with low PEEP (<8cmH~2~O) and FiO~2~ (<40%) requirements.
+* Work of breathing\
+Can be assessed:
+    * Clinically\
+    Gestalt is effective, with a reintubation rate of ~3%.
+    * Rapid Shallow Breathing Index\
+    Given by $RR \over V_t$, with values >105 significant.
+* Alertness
+    * Conscious state adequate to protect airway
+* Analgesia
+
+---
+
+## References

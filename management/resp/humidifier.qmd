@@ -1,0 +1,62 @@
+# Humidification
+
+Inspired gas is warmed and humidified by the structures of the upper airway. When these structures are bypassed (i.e. by endotracheal intubation), artificial humidification systems must be used instead. The target is an **absolute humidity >30g/m^3^**.
+
+:::column-margin
+Long-term tracheostomy patients undergo metaplasia of tracheal epithelium, reducing (or removing) the need for humdification systems - although this may be required in an acute respiratory deterioration (e.g. infection).
+:::
+
+## Physiological Importance
+
+Inadequate humidification of inspired gas leads to:
+
+* Impaired ciliary function
+* Tracheobronchial epithelial damage
+* Increased Mucous viscosity
+    * Airway obstruction
+* Atelectasis\
+Obstruction of small airways.
+
+
+## Humidification Systems
+
+Include:
+
+* Cold-water humidifiers
+* Hot-water humidifiers\
+Thermostatically-controlled heated water resevoir, with gas containing high water content produced.
+    * Small risk of infection from aerosolised particles in the water resevoir
+    * Effective over a wide range of minute ventilation\
+    Particularly at high levels.
+    * Can be either:
+        * Blow-by\
+        Gas passed over the water pool.
+        * Bubble/cascade\
+        Gas passed into the water pool.
+* Heat-Moisture Exchanger\
+Water vapour (and it's heat content) is captured in a hygroscopic membrane during expiration, and is returned during the subsequent breath during inspiration.
+    * May include viral/bacterial filters
+    * Can become obstructed with blood/oedema/sputum
+    * Add to circuit dead space\
+    Usually 30-90mL.
+    * Less effective than hot-water humidification systems
+
+
+## Complications
+
+* Inadequate humidification\
+Practially only of concern with an HME.
+* Over-humidification\
+Risk of airway burns and water intoxication.
+* Increased Work of Breathing\
+    * Humidified gas\
+    Increases Resistive work of breathing due to increased gas viscosity.
+    * Device\
+    HME adds resistance.
+* Infection\
+Risk of culture of organisms from water bath.
+
+ 
+---
+
+## References
