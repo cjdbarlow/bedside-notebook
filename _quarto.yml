@@ -140,8 +140,10 @@ book:
                 - management/cvs/iabp.qmd
             # - part: "ECMO"
             #   chapters:
-            # - part: "Medications"
-            #   chapters:
+            - part: "Medications"
+              chapters:
+                - management/cvs/ino.qmd
+                - management/cvs/rv.qmd
                   # Inotropes
                   # Vasoconstrictors
                   # Vasodilators
@@ -422,6 +424,7 @@ book:
       chapters:
         - part: "Concepts"
           chapters:
+            - intensive/fasthugs.qmd
             - intensive/persistent.qmd
             - intensive/nutrition.qmd
             - intensive/physio.qmd
@@ -461,9 +464,9 @@ book:
           - disease/resp/bronchospasm.qmd
           - disease/resp/coad.qmd
           - disease/resp/bronchopleural.qmd
-        # - part: "Parenchymal"
-        #   chapters:
-            # ARDS
+        - part: "Parenchyma"
+          chapters:
+          - disease/resp/ards.qmd
             # ILD
             # Aspiration pneumonitis
         # - part: "Lower Airway"

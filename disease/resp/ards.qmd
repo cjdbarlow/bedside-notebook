@@ -1,0 +1,180 @@
+# Acute Respiratory Distress Syndrome
+
+Bilateral diffuse inflammatory lung injury characterised by loss of aerated lung tissue and reduced pulmonary compliance. Various diagnostic criteria exist; the **Berlin Criteria** requires all of:
+
+* **Acute onset**\
+Within **7 days** of known precipitant.
+* **Bilateral** radiographic **opacities**\
+Consistent with pulmonary oedema.
+* **Non-hydrostatic**\
+Not related to an increased PCWP, i.e. not due to LV failure.
+* **Hypoxia**\
+ARDS is graded by severity of hypoxia into:
+    * Mild\
+    PaO~2~/FiO~2~: 200-300.
+    * Moderate\
+    PaO~2~/FiO~2~: 100-200.
+    * Severe\
+    PaO~2~/FiO~2~: <100. 
+
+:::column-margin
+| Direct              | Indirect           |
+| ------------------- | ------------------ |
+| Pneumonia           | Sepsis             |
+| Aspiration          | Trauma             |
+| Contusion           | Massive transfusion|
+| Fat embolism        | Pancreatitis       |
+| Drowning            | CPB                |
+| Inhalational injury |                    |
+| Reperfusion injury  |                    |
+
+: Precipitants of ARDS
+:::
+
+## Epidemiology and Risk Factors
+
+Significant regional variation, in part due to different definitions. In general, ARDS:
+
+* Represents ~10% of ICU admissions
+    * ~25% of those requiring mechanical ventilation
+* Cases are reasonably spread across all severities:
+    * ~30% are mild
+    * ~45% are moderate
+    * ~25% are severe
+
+## Pathophysiology
+
+Acute phase consists of a combination of:
+
+* Alveolar-capillary barrier damage\
+Bidirectional leakage of fluid and protein:
+    * Plasma protein into alveolus\
+    Causing pulmonary oedema.
+    * Alveolar protein into plasma\
+    Surfactant and other alveolar proteins.
+* Inflammatory infiltrate\
+Large increase in:
+    * Alveolar macrophages\
+    Usually dominant cell in health.
+    * Alveolar neutrophils\
+    Rare in health (~1% of cells), become superabundant (~90%) in ARDS.
+* Surfactant dysfunction\
+Epithelial cell damage alters cellular production of inflammatory mediators and increases water egress into the alveolus, as well as production of dysfunctional surfactant.
+
+
+The late (>5 days) phase is characterised by fibrosing alveolitis
+
+## Clinical Manifestations
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+## Management
+
+:::info
+Principles of management are:
+
+* Early identification and treatment of cause
+* Avoidance of further lung injury
+:::
+
+**Resuscitation**:\
+
+ABC approach. Comment on team coordination and clinical priorities.
+
+**Specific therapy**:
+
+* Pharmacological
+    * Neuromuscular blockade
+* Physical
+    * **Proning**\
+    Significant improvement in hypoxia by:
+        * Recruiting dorsal lung
+        * Improving V/Q matching
+* Procedural
+
+**Supportive care**:
+
+* B
+    * **Lung protective ventilation**\
+        * Appropriate PEEP\
+        Often titrated to a PEEP-FiO~2~ table. Considerations:
+            * The disease and degree of recruitable lung is higly heterogenous and often over-distension and under-recruitment will occur together
+            * Higher PEEP is associated with better outcomes in more severe disease, and worse outcomes in milder disease
+            * Inadequate PEEP tends to cause under-recruitment and hypoxia
+            * Excessive PEEP tends to cause over-distension, increased lung stress, and reduced cardiac output
+            * Ideal PEEP is described by the Open Lung Approach\
+            PEEP at which the lung volume is maintained at FRC, thereby:
+                * Maximally recruiting available alveoli
+                * Spreading Vt over a greater number of alveoli
+                * Reducing Pip
+                * Decrasing Barotrauma and volutrauma
+        * Appropriate FiO~2~\
+        High FiO~2~ is associated with diffuse alveolar damage. FiO~2~ should be titrated (in combination with PEEP adjustment):
+            * Down to <0.6 (as able)
+            * Aiming SpO~2~ >90%
+        * Permissive hypercapnoea\
+        * Avoid:
+            * Volutrauma\
+            Aim Vt 4-6mL/kg predicted body weight.
+            * Barotrauma\
+            Aim Pplat <30cmH~2~O.
+                * The plateau pressure is a substitute for the transpulmonary pressure, which reflects the actual elastic distending pressure of the lung
+                    * Measurement of the transpulmonary pressure can be performed with an oesophageal balloon, which allows the chest wall and lung elastance to be separated (rather than measuring the elastance of the respiratory system as a whole)
+                * This may be still be excessive (or inadequate) in patients at extremes of chest wall elastance
+    * VV ECMO
+* E
+    * Early mobilisation 
+* G
+    * Stress ulcer prophylaxis
+    * Feeding
+* H
+    * DVT prophylaxis
+ 
+
+:::column-margin
+One reasonable approach to PEEP-setting is identifying the level where DO~2~ (i.e., the product of arterial oxygen content and cardiac output) is maximal. Determining this point at the bedside is, of course, difficult.
+:::
+
+**Disposition**:
+
+### Ineffective Therapies
+
+* High-Frequency Oscillatory Ventilation\
+Increased Mortality compared to lung protective ventilation strategies.
+* Recruitment Manoeuvres\
+In theory, recruitment manouvres aid the open lung approach by increasing alvolear recruitment. In practice, following a recruitment manouvere:
+    * Over-inflation of previously normal lung occurs
+    * Oxygenation may improve\
+    Predominantly early ARDS with lower baseline PEEP.
+    * Haemodynamic instability often occurs due to large changes in VR
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+* Death\
+Improving with better preventative care and decreased VILI. Mortality varies on:
+    * Severity:
+        * ~35% mild
+        * ~40% moderate
+        * ~45% severe
+    * Cause and cormorbidities:
+        * Decreased In trauma
+        * Increased In elderly, chronic or acute organ failures, and sepsis
+* Chronic lung disease\
+Pulmonary function tests normalise in 6-12 months.
+* Persistent critical illness\
+Increased In survivors of ARDS compared to non-ARDS ICU patients.
+    * Functional impairment persists in young survivors of severe disease
+
+## Key Studies
+
+
+
+---
+
+## References

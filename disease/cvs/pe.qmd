@@ -1,9 +1,27 @@
 # Pulmonary Embolism
 
+Blockage of a pulmonary artery or its branches due to embolised clot, leading to RV dysfunction and impaired gas exchange. Significance ranges from trivial to life-threatening depending on the size of the occlusion and the native cardiac and (to a lesser extent) respiratory function.
+
+PE is classified by degree of haemodynamic impairment into:
+
+* Massive\
+PE with hypotension (**SBP <90mmHg**). Indication for clot destruction via thrombolysis or embolectomy. Anticoagulation should be commenced once thrombolysis completed.
+* Submassive\
+PE with evidence of RV dysfunction (ECG, echo). Clot destruction controversial - low-dose thrombolysis may be more appropriate; anticoagulation is indicated.
+* Mild\
+PE without haemodynamic instability or RV dysfunction. No indication for clot destruction, anticoagulation is indicated.
+
+:::column-margin
+Subsegmental PEs are also sometimes described, which refer to distal emboli seen on CT. They usually are asymptomatic, have no clinical significance, and do not require intervention.
+:::
 
 ## Epidemiology and Risk Factors
 
-Risk factors for clot formation via Vichows triad:
+Risk factors for clot formation are given by Vichows triad:
+
+:::column-margin
+Systemic prothrombotic effects (e.g. Factor V Leiden, OCP use, obesity) predominantly increase risk of DVT (and later embolism), pulmonary disease tends to increase risk of PE without increasing DVT risk.
+:::
 
 * Stasis  
 Many thrombi occur around venous valves.
@@ -38,6 +56,7 @@ Many thrombi occur around venous valves.
 		* Sepsis
 	* Inflammatory diseases
 		* IBD
+		* Autoimmune disease
 	* Previous VTE
 	* Drugs
 		* OCP  
@@ -57,37 +76,30 @@ Risk factors for death from PE:
 
 ## Pathophysiology
 
-Clot burden:
+Key processes are:
 
-* Thrombi commonly form in the deep veins of the leg  
-Clot can then:
+* Clot formation and embolisation\
+PE predominantly arise from DVT in the lower limbs, pelvic veins, or IVC. DVT can then:
 	* Propagate proximally  
-	PE will occur in ~50% of patients with proximal DVT.
+	PE will occur in ~50% of patients with proximal DVT. Below knee DVT rarely causes clinicially significant PE.
 	* Break off entirely  
 	~20% of patients with PE have no identified DVT.
-
-
-Changes in pulmonary gas exchange:
-
-* Increased alveolar dead space  
-Non-perfused alveoli distal to clot.
-* Over-perfusion of non-clotted lung  
-May cause shunt via a variety of mechanisms:
-	* Oedema
-	* Pulmonary haemorrhage  
-	Pulmonary infarction does not usually occur due to ongoing perfusion from bronchial circulation.
-	* Loss of surfactant
-	* Vasoactive peptide secretion
-
-
-
-Changes in cardiac function:
-
-* Increased PVR  
-Due to low mixed venous PO~2~ in patients with PE and low-cardiac output states.
-* Elevated right-sided pressures  
-Increase in RAP may open a PFO and lead to intracardiac right-to-left shunting.
-
+* Impaired pulmonary gas exchange:
+	* Increased alveolar dead space  
+	Non-perfused alveoli distal to clot.
+	* Over-perfusion of non-clotted lung  
+	May cause shunt via a variety of mechanisms:
+		* Oedema
+		* Pulmonary haemorrhage  
+		Pulmonary infarction does not usually occur due to ongoing perfusion from bronchial circulation.
+		* Loss of surfactant
+		* Vasoactive peptide secretion
+* Acute RV dysfunction
+	* Increased PVR  
+	Pulmonary arterial obstruction leads to increased PVR and elevated RV afterload. May be exacerbated by low mixed venous PO~2~ .
+	* Increased Right-sided pressures  
+	Increase in RAP may open a PFO and lead to intracardiac right-to-left shunting and risk of systemic embolism.
+	
 
 ## Clinical Manifestations
 
@@ -97,13 +109,12 @@ Clinical features depend on:
 * Clot burden
 * Severity of disease relating to underlying CVS reserve
 
-Features include:
+Features are few and generally non-specific, but may be:
 
 * Due to pulmonary infarction
 	* Haemoptysis
 	* Pleuritic chest pain  
 	* Pleural rub  
-
 
 * Due to pulmonary hypertension
 	* RV pressure overload
@@ -123,11 +134,6 @@ Features include:
 	* Hypotension
 
 
-
-### History
-
-### Examination
-
 ## Diagnostic Approach and DDx
 
 PE should always be considered in patients with:
@@ -138,7 +144,6 @@ PE should always be considered in patients with:
 * EMD
 * Cardiac arrest
 
-
 Assessing a patient who *may* have PE should:
 
 * Commence with careful evaluation of history, risk factors, and physical exam
@@ -147,19 +152,102 @@ Assessing a patient who *may* have PE should:
 	* Geneva score
 
 
-## Investigations
+Other differentials include:
+
+* B
+	* Pneumonia
+	* PTHx
+	* Rib fractures
+* C
+	* Acute coronary syndrome
+	* Aortic dissection
+	* APO
+* Trauma
+	* Fat embolism
+* Obstetric
+	* Amniotic fluid embolism
+
+
+## Investigations 
 
 Can be divided into:
 
-* Non-diagnostic tests
 * Diagnostic tests
+* Non-diagnostic tests
+
+
+### Diagnostic Tests
+
+Radiology:
+
+* CTPA
+	* Quicker and more available than V/Q scanning, but requires contrast load
+	* ~85% sensitive  
+	Varies depending on machine and radiologist.
+		* Increases to ~100% of PEs with haemodynamic instability
+		* Commonly identifies subsegmental PE in asymptomatic patients\
+		Clinical significance is unclear, but do not require anticoagulation.
+* VQ scan
+	* May not be appropriate if existing cardio-pulmonary disease
+	* Sensitivity increased with modern SPECT devices  
+	~1% now non-diagnostic.
+	* More sensitive than CTPA for peripheral emboli
+
+
+Echocardiography:
+
+:::column-margin
+The absence of RV dilation in a haemodynamically unstable patient means that PE is an unlikely diagnosis.
+:::
+
+* Presence of thrombus  
+~26% of severe PE can be seen on TOE, as this provides better visualisation of the MPA and RPA.
+* Other disease
+* Quantify RV dysfunction\
+Findings include:
+	* RV/LV end-diastolic diameter ratio > 0.7
+	* RV/LV area ratio > 0.66
+	* RV end-diastolic diameter > 27mm
+	* "McConnel Sign"  
+	RV free wall hypokinesis with RV apex normo or hyperkinesis.
+	* Septal shift
+	* TR jet >270cm/sec
+	* Pulmonary artery acceleration time <60ms with maximum TR pressure <60mmHg (60/60 sign)
 
 
 ### Non-Diagnostic Tests
 
-ECG may demonstrate:
+Bloods:
 
-* No abnormalities
+* D-Dimer
+	* ~97% sensitive  
+	May be useful in ruling out PE in patients with low to moderate clinical suspicion. Reduces the need for radiological tests.
+	* Non-specific  
+	Does not support diagnosis or indicate severity. Often raised in the critically ill. 
+* Troponin  
+	* Elevated in <50% of patients
+	* Associated with adverse outcomes  
+	Death, inotropes.
+* BNP/NT-pro-BNP	
+* ABG  
+Typically demonstrates:
+	* Hypoxaemia  
+	May be only abnormality in smaller PEs.
+	* Respiratory alkalosis
+
+
+Radiology:
+
+* CXR
+	* Useful in supporting or ruling-out other causes of hypoxaemia and hypotension
+	* Required prior to V/Q scan
+* Lower limb ultrasound\
+Identify presence of DVT.
+
+ECG:
+
+* No abnormalities\
+~30%.
 * Isolated sinus tachycardia
 * Atrial arrythmias  
 Associated with higher mortality.
@@ -174,144 +262,75 @@ Also non-specific, but suggest massive embolism rather than smaller emvoli.
 	* RAD
 
 
-Bloods:
+Respiratory Function Tests:
 
-* D-Dimer
-	* ~97% sensitive  
-	May be useful in ruling out PE in patients with low to moderate clinical suspicion.
-		* Reduces the need for radiological tests
-	* Non-specific  
-	Does not support diagnosis or indicate severity.
-* Troponin  
-	* Elevated in <50% of patients
-	* Associated with adverse outcomes  
-	Death, inotropes.
-* ABG  
-Typically demonstrates:
-	* Hypoxaemia  
-	May be only abnormality in smaller PEs.
-	* Respiratory alkalosis
-
-
-Echocardiography may identify:
-
-* Presence of thrombus  
-~26% of severe PE can be seen on TOE.
-* Other disease
-* Signs of RV dysfunction  
-Findings include:
-	* RV/LV end-diastolic diameter ratio > 0.7
-	* RV/LV area ratio > 0.66
-	* RV end-diastolic diameter > 27mm
-	* "McConnel Sign"  
-	RV fre wall hypokinesis with RV apex normo or hyperkinesis.
-	* Septal shift
-	* TR jet >270cm/sec.
-
-
-CXR:
-
-* Useful in supporting or ruling-out other causes of hypoxaemia and hypotension
-* Required prior to V/Q scan
-
-
-Physiological dead space:
-
-* Almost always increased in the case of PE  
-Formal measurement is:
-	* 100% sensitive
-	* 89% specific
-* Requires an intubated/ventilated patient
-* Not easy to perform in practice
-* Suggested by
-	* Acute reduction in ETCO~2~
-	* Delay in reaching alveolar plateau on ETCO~2~ waveform
-
-
-### Diagnostic Tests
-
-Include:
-
-* CTPA
-	* Quicker and more available than V/Q scanning, but requires contrast load
-	* ~85% sensitive  
-	Varies depending on machine and radiologist.
-		* Increases to ~100% of PEs with haemodynamic instability
-		* Commonly identifies PE in asymptomatic patients
-* VQ scan
-	* May not be appropriate if existing cardio-pulmonary disease
-	* Sensitivity increased with modern SPECT devices  
-	~1% now non-diagnostic.
-	* More sensitive than CTPA for peripheral emboli
+* Physiological dead space:
+	* Almost always increased in the case of PE  
+	Formal measurement is:
+		* 100% sensitive
+		* 89% specific
+	* Requires an intubated/ventilated patient
+	* Not easy to perform in practice
+	* Suggested by
+		* Acute reduction in ETCO~2~
+		* Delay in reaching alveolar plateau on ETCO~2~ waveform
 
 
 ## Management
 
-### Prophylaxis
+Management options include:
 
-Preventative methods include:
+* Clot destruction
+	* In selected patients, where benefit outweighs risk
+	* Via embolectomy or thrombolysis
+* Therapeutic anticoagulation
+* Haemodynamic support
+	* RV support
+	* ECMO
+	
 
-* Mechanical
-	* Intermittent pneumatic calf compression  
-	May reduce incidence by up to 60% in operative patients.
-		* Treatment of choice where bleeding risk is high
-	* IVC filters
-		* No evidence for mortality reduction
-		* Increased risk of DVT  
-		Should be retrieved when no longer required.
-		* Reasonable to use in patients with:
-			* High VTE risk and contraindications to anticoagulation
-			* Recurrent PE despite therapeutic anticoagulation
-* Pharmacological
+### Clot Destruction
 
+Methods include:
 
-### Therapeutic
-
-* Supportive care
-	* May be required prior to formal diagnosis
-	* Aim to improve RV function
-		* Noradrenaline is the vasopressor of choice
-		* Adrenaline is a reasonable alternative
-		* Pulmonary vasodilators
-			* iNO
-		* Volume is deleterious if the RV is distended  
-		Further volume will further distend the RV and reduce LV preload.
-
-
-* Anticoagulation  
-Inhibit extension of the clot, allowing intrinsic fibrinolysis to decrease clot burden.
-	* Improves survival in patients with symptomatic PE  
-	May be reasonable to commence prior to formal diagnosis if bleeding risk is low.
-	* Options include:
-		* UFH
-		* LMWH  
-		Superior to UFH in most setttings.
-		* Warfarin  
-		Reasonable when haemodynamic and bleeding risk is stabilised.
+* IV thrombolysis
+	* Most common tool
+	* Dramatic improvement in haemodynamic state in 90% of patients following administration
+		* ~50% reduction in mortality in massive PE
+	* Tempered by significant bleeding in 10% of patients with standard dosing
+		* Therapy should be ceased and factor replacement commenced if significant bleeding occurs
+* Catheter-directed thrombolysis	
+* Embolectomy
+	* Endovascular
+	* Open (surgical)\
+	Overtaken by endovascular techniques due to high (25-50%) perioperative mortality, but may be appropriate in massive PE and:
+		* Contraindications to thrombolysis
+		* Unavailability of interventional radiology
+		* Intracardiac thrombus
 
 
-* Clot retreival
+### Anticoagulation
 
+Therapeutic anticoagulation inhibits clot progression, allowing intrinsic fibrinolysis to decrease clot burden. Anticoagulation:
 
-* Thrombolysis  
-Risk outweighs benefits in most patients.
-	* ~50% reduction in mortality in massive PE
-	* ~50% (and greater absolute increase) in risk of major bleeding
-		* ~3% of thrombolysed patients will develop ICH
-	* May be appropriate in patients with haemodynamic compromise and not judged to be at a high risk of bleeding
-		* e.g. Proven PE with cardiogenic shock
-
-
-* Pulmonary embolectomy  
-Open surgical technique involving removal of clot from the pulmonary arteries. Requires CPB.
-	* High perioperative mortality
-	* Reasonable if thrombolysis is contraindicated
+* Decreases Mortality and recurrence\
+May be reasonable to commence prior to formal diagnosis if bleeding risk is low.
+* Initial anticoagulation should be performed with heparin:
+	* UFH\
+	Preferred in:
+		* Renal impairment
+		* Following thrombolysis/embolectomy due to reversibility
+	* LMWH
+		* More predictable dose-response than UFH
+		* Faster time to therapeutic anticoagulation
+* Transition to oral anticoagulation when bleeding risk stabilised
+	* Warfarin
+	* DOAC	
 
 
 ### Ineffective Therapies
 
 ## Complications
-
 
 * Death
 	* 25-30% of patients with RV failure requiring inotropes
@@ -323,9 +342,8 @@ Open surgical technique involving removal of clot from the pulmonary arteries. R
 * Chronic Thromboembolic Pulmonary Hypertension
 * Postthrombotic syndrome
 
+
 ## Prognosis
-
-
 
 
 

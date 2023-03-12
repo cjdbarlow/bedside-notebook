@@ -1,0 +1,54 @@
+# Right Ventricular Support
+
+The right ventricle is fragile and right ventricular failure can be challenging to manage. Each of the determinates of cardiac output should be optimised for the failing RV:
+
+* Preload
+* Afterload
+* Contractility
+* Rate/Rhythm
+
+## Preload
+
+* Volume state is often difficult to determine
+* Volume overload is exceedingly detrimental to RV function, as excessive distension of the RV will impair LV filling and further worsen the haemodynamic state
+
+## Afterload
+
+Reduction in RV afterload can be achieved by:
+
+* Correcting physiology
+	* Normoxia
+	* Normocapnoea
+	* Normal pH
+	* Treating pain
+* Inhaled pulmonary vasodilators
+	* Nitric Oxide
+	* Prostacyclin
+* Inodilators
+	* Milrinone
+
+## Contractility
+
+RV systolic function can be optimised by:
+
+* Inotropes/Inodilators
+* Defending coronary perfusion
+	* The RV is sensitive to changes in perfusion pressure, and therefore **aggressive defence of the systemic perfusion pressure** is essential\
+	**Noradrenaline** is excellent for this.
+	* With (particularly acute) RV failure, RVEDP rises and RV perfusion pressure is reduced due to a higher downstream pressure
+			* Similar physiology is seen during pulmonary hypertension, as the high RVSP reduces RV perfusion during ventricular systole
+		* Coronary perfusion pressure of **<30mmHG** is associated with severe reduction in myocardial blood flow, leading to ischaemia and significant RV dysfunction\
+		This usually leads to the "RV Death Spiral", where RV dysfunction leads to decreased LV preload, leads to decreased LV SV, leads to decreased MAP, and further RV impairment.
+
+:::column-margin
+$RV Coronary Perfusion Pressure = P_{Aortic Root} - P_{RV}$
+:::
+
+## Rate/Rhythm
+
+		
+		
+---
+
+## References
+	
