@@ -1085,6 +1085,90 @@
     "text": "References\n\nParissis H, Graham V, Lampridis S, Lau M, Hooks G, Mhandu PC. IABP: history-evolution-pathophysiology-indications: what we need to know. Journal of Cardiothoracic Surgery. 2016;11(1):122. doi:10.1186/s13019-016-0513-0"
   },
   {
+    "objectID": "management/cvs/ino.html#indications",
+    "href": "management/cvs/ino.html#indications",
+    "title": "Nitric Oxide",
+    "section": "Indications",
+    "text": "Indications\nTwo broad use-cases exist:\n\nRV failure and pulmonary hypertension\nHypoxia\nIdeally increases V/Q matching by reversing pulmonary constriction in ventilated alveoli."
+  },
+  {
+    "objectID": "management/cvs/ino.html#contraindications",
+    "href": "management/cvs/ino.html#contraindications",
+    "title": "Nitric Oxide",
+    "section": "Contraindications",
+    "text": "Contraindications"
+  },
+  {
+    "objectID": "management/cvs/ino.html#anatomy",
+    "href": "management/cvs/ino.html#anatomy",
+    "title": "Nitric Oxide",
+    "section": "Anatomy",
+    "text": "Anatomy"
+  },
+  {
+    "objectID": "management/cvs/ino.html#equipment",
+    "href": "management/cvs/ino.html#equipment",
+    "title": "Nitric Oxide",
+    "section": "Equipment",
+    "text": "Equipment"
+  },
+  {
+    "objectID": "management/cvs/ino.html#technique",
+    "href": "management/cvs/ino.html#technique",
+    "title": "Nitric Oxide",
+    "section": "Technique",
+    "text": "Technique"
+  },
+  {
+    "objectID": "management/cvs/ino.html#complications",
+    "href": "management/cvs/ino.html#complications",
+    "title": "Nitric Oxide",
+    "section": "Complications",
+    "text": "Complications\n\nB\n\nMethaemoglobinaemia\n<5% acceptable.\nLung toxicity\n\nNO2\nShould be monitored."
+  },
+  {
+    "objectID": "management/cvs/ino.html#references",
+    "href": "management/cvs/ino.html#references",
+    "title": "Nitric Oxide",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "management/cvs/rv.html#preload",
+    "href": "management/cvs/rv.html#preload",
+    "title": "Right Ventricular Support",
+    "section": "Preload",
+    "text": "Preload\n\nVolume state is often difficult to determine\nVolume overload is exceedingly detrimental to RV function, as excessive distension of the RV will impair LV filling and further worsen the haemodynamic state"
+  },
+  {
+    "objectID": "management/cvs/rv.html#afterload",
+    "href": "management/cvs/rv.html#afterload",
+    "title": "Right Ventricular Support",
+    "section": "Afterload",
+    "text": "Afterload\nReduction in RV afterload can be achieved by:\n\nCorrecting physiology\n\nNormoxia\nNormocapnoea\nNormal pH\nTreating pain\n\nInhaled pulmonary vasodilators\n\nNitric Oxide\nProstacyclin\n\nInodilators\n\nMilrinone"
+  },
+  {
+    "objectID": "management/cvs/rv.html#contractility",
+    "href": "management/cvs/rv.html#contractility",
+    "title": "Right Ventricular Support",
+    "section": "Contractility",
+    "text": "Contractility\nRV systolic function can be optimised by:\n\nInotropes/Inodilators\nDefending coronary perfusion\n\nThe RV is sensitive to changes in perfusion pressure, and therefore aggressive defence of the systemic perfusion pressure is essential\nNoradrenaline is excellent for this.\nWith (particularly acute) RV failure, RVEDP rises and RV perfusion pressure is reduced due to a higher downstream pressure * Similar physiology is seen during pulmonary hypertension, as the high RVSP reduces RV perfusion during ventricular systole\n\nCoronary perfusion pressure of <30mmHG is associated with severe reduction in myocardial blood flow, leading to ischaemia and significant RV dysfunction\nThis usually leads to the “RV Death Spiral”, where RV dysfunction leads to decreased LV preload, leads to decreased LV SV, leads to decreased MAP, and further RV impairment.\n\n\n\n\n\n\\(RV Coronary Perfusion Pressure = P_{Aortic Root} - P_{RV}\\)"
+  },
+  {
+    "objectID": "management/cvs/rv.html#raterhythm",
+    "href": "management/cvs/rv.html#raterhythm",
+    "title": "Right Ventricular Support",
+    "section": "Rate/Rhythm",
+    "text": "Rate/Rhythm"
+  },
+  {
+    "objectID": "management/cvs/rv.html#references",
+    "href": "management/cvs/rv.html#references",
+    "title": "Right Ventricular Support",
+    "section": "References",
+    "text": "References"
+  },
+  {
     "objectID": "management/pain/pain-overview.html#pain-management",
     "href": "management/pain/pain-overview.html#pain-management",
     "title": "Pain",
@@ -7518,6 +7602,20 @@
     "text": "Process\nOne approach:\n\nInduction:\n\n0.5-1mg/kg IV ketamine\nHigher if stimulating.\n\nHeavy ketamine use reduces risk of airway obstruction and apnoea\n\n0.05-0.1mg/kg IV oxycodone\n\nMaintenance\n\nPropofol TCI at 1-2ug/ml\nConsider additional 0.5mg/kg IV ketamine if the procedure is prolonged/stimulating\n\nEmergence\n\nConsider further 0.05mg/kg oxycodone for post-operative analgesia"
   },
   {
+    "objectID": "intensive/fasthugs.html#dvt-prophylaxis",
+    "href": "intensive/fasthugs.html#dvt-prophylaxis",
+    "title": "Preventative Medicine",
+    "section": "DVT Prophylaxis",
+    "text": "DVT Prophylaxis\nPreventative methods include:\n\nPharmacological\nMechanical\n\nIntermittent pneumatic calf compression\nMay reduce incidence by up to 60% in operative patients.\n\nTreatment of choice where bleeding risk is high\n\nIVC filters\n\nNo evidence for mortality reduction\nIncreased risk of DVT\nShould be retrieved when no longer required, so retreivable designs should be used.\nReasonable to use in patients with:\n\nHigh VTE risk and contraindications to anticoagulation\nRecurrent PE despite therapeutic anticoagulation"
+  },
+  {
+    "objectID": "intensive/fasthugs.html#references",
+    "href": "intensive/fasthugs.html#references",
+    "title": "Preventative Medicine",
+    "section": "References",
+    "text": "References"
+  },
+  {
     "objectID": "intensive/persistent.html#causes",
     "href": "intensive/persistent.html#causes",
     "title": "Persistent Critical Illness",
@@ -7936,6 +8034,83 @@
     "title": "Bronchopleural Fistulae",
     "section": "Key Studies",
     "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/resp/ards.html#epidemiology-and-risk-factors",
+    "href": "disease/resp/ards.html#epidemiology-and-risk-factors",
+    "title": "Acute Respiratory Distress Syndrome",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors\nSignificant regional variation, in part due to different definitions. In general, ARDS:\n\nRepresents ~10% of ICU admissions\n\n~25% of those requiring mechanical ventilation\n\nCases are reasonably spread across all severities:\n\n~30% are mild\n~45% are moderate\n~25% are severe"
+  },
+  {
+    "objectID": "disease/resp/ards.html#pathophysiology",
+    "href": "disease/resp/ards.html#pathophysiology",
+    "title": "Acute Respiratory Distress Syndrome",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\nAcute phase consists of a combination of:\n\nAlveolar-capillary barrier damage\nBidirectional leakage of fluid and protein:\n\nPlasma protein into alveolus\nCausing pulmonary oedema.\nAlveolar protein into plasma\nSurfactant and other alveolar proteins.\n\nInflammatory infiltrate\nLarge increase in:\n\nAlveolar macrophages\nUsually dominant cell in health.\nAlveolar neutrophils\nRare in health (~1% of cells), become superabundant (~90%) in ARDS.\n\nSurfactant dysfunction\nEpithelial cell damage alters cellular production of inflammatory mediators and increases water egress into the alveolus, as well as production of dysfunctional surfactant.\n\nThe late (>5 days) phase is characterised by fibrosing alveolitis"
+  },
+  {
+    "objectID": "disease/resp/ards.html#clinical-manifestations",
+    "href": "disease/resp/ards.html#clinical-manifestations",
+    "title": "Acute Respiratory Distress Syndrome",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations"
+  },
+  {
+    "objectID": "disease/resp/ards.html#diagnostic-approach-and-ddx",
+    "href": "disease/resp/ards.html#diagnostic-approach-and-ddx",
+    "title": "Acute Respiratory Distress Syndrome",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
+  },
+  {
+    "objectID": "disease/resp/ards.html#investigations",
+    "href": "disease/resp/ards.html#investigations",
+    "title": "Acute Respiratory Distress Syndrome",
+    "section": "Investigations",
+    "text": "Investigations"
+  },
+  {
+    "objectID": "disease/resp/ards.html#management",
+    "href": "disease/resp/ards.html#management",
+    "title": "Acute Respiratory Distress Syndrome",
+    "section": "Management",
+    "text": "Management\n\nPrinciples of management are:\n\nEarly identification and treatment of cause\nAvoidance of further lung injury\n\n\nResuscitation:\n\nABC approach. Comment on team coordination and clinical priorities.\nSpecific therapy:\n\nPharmacological\n\nNeuromuscular blockade\n\nPhysical\n\nProning\nSignificant improvement in hypoxia by:\n\nRecruiting dorsal lung\nImproving V/Q matching\n\n\nProcedural\n\nSupportive care:\n\nB\n\nLung protective ventilation\n\n\nAppropriate PEEP\nOften titrated to a PEEP-FiO2 table. Considerations:\n\nThe disease and degree of recruitable lung is higly heterogenous and often over-distension and under-recruitment will occur together\nHigher PEEP is associated with better outcomes in more severe disease, and worse outcomes in milder disease\nInadequate PEEP tends to cause under-recruitment and hypoxia\nExcessive PEEP tends to cause over-distension, increased lung stress, and reduced cardiac output\nIdeal PEEP is described by the Open Lung Approach\nPEEP at which the lung volume is maintained at FRC, thereby:\n\nMaximally recruiting available alveoli\nSpreading Vt over a greater number of alveoli\nReducing Pip\nDecrasing Barotrauma and volutrauma\n\n\nAppropriate FiO2\nHigh FiO2 is associated with diffuse alveolar damage. FiO2 should be titrated (in combination with PEEP adjustment):\n\nDown to <0.6 (as able)\nAiming SpO2 >90%\n\nPermissive hypercapnoea\n\nAvoid:\n\nVolutrauma\nAim Vt 4-6mL/kg predicted body weight.\nBarotrauma\nAim Pplat <30cmH2O.\n\nThe plateau pressure is a substitute for the transpulmonary pressure, which reflects the actual elastic distending pressure of the lung\n\nMeasurement of the transpulmonary pressure can be performed with an oesophageal balloon, which allows the chest wall and lung elastance to be separated (rather than measuring the elastance of the respiratory system as a whole)\n\nThis may be still be excessive (or inadequate) in patients at extremes of chest wall elastance\n\n\n\nVV ECMO\n\nE\n\nEarly mobilisation\n\nG\n\nStress ulcer prophylaxis\nFeeding\n\nH\n\nDVT prophylaxis\n\n\n\n\nOne reasonable approach to PEEP-setting is identifying the level where DO2 (i.e., the product of arterial oxygen content and cardiac output) is maximal. Determining this point at the bedside is, of course, difficult.\nDisposition:\n\nIneffective Therapies\n\nHigh-Frequency Oscillatory Ventilation\nIncreased Mortality compared to lung protective ventilation strategies.\nRecruitment Manoeuvres\nIn theory, recruitment manouvres aid the open lung approach by increasing alvolear recruitment. In practice, following a recruitment manouvere:\n\nOver-inflation of previously normal lung occurs\nOxygenation may improve\nPredominantly early ARDS with lower baseline PEEP.\nHaemodynamic instability often occurs due to large changes in VR"
+  },
+  {
+    "objectID": "disease/resp/ards.html#anaesthetic-considerations",
+    "href": "disease/resp/ards.html#anaesthetic-considerations",
+    "title": "Acute Respiratory Distress Syndrome",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "disease/resp/ards.html#complications",
+    "href": "disease/resp/ards.html#complications",
+    "title": "Acute Respiratory Distress Syndrome",
+    "section": "Complications",
+    "text": "Complications"
+  },
+  {
+    "objectID": "disease/resp/ards.html#prognosis",
+    "href": "disease/resp/ards.html#prognosis",
+    "title": "Acute Respiratory Distress Syndrome",
+    "section": "Prognosis",
+    "text": "Prognosis\n\nDeath\nImproving with better preventative care and decreased VILI. Mortality varies on:\n\nSeverity:\n\n~35% mild\n~40% moderate\n~45% severe\n\nCause and cormorbidities:\n\nDecreased In trauma\nIncreased In elderly, chronic or acute organ failures, and sepsis\n\n\nChronic lung disease\nPulmonary function tests normalise in 6-12 months.\nPersistent critical illness\nIncreased In survivors of ARDS compared to non-ARDS ICU patients.\n\nFunctional impairment persists in young survivors of severe disease"
+  },
+  {
+    "objectID": "disease/resp/ards.html#key-studies",
+    "href": "disease/resp/ards.html#key-studies",
+    "title": "Acute Respiratory Distress Syndrome",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/resp/ards.html#references",
+    "href": "disease/resp/ards.html#references",
+    "title": "Acute Respiratory Distress Syndrome",
+    "section": "References",
+    "text": "References"
   },
   {
     "objectID": "disease/cvs/failure.html#epidemiology-and-risk-factors",
@@ -9146,42 +9321,42 @@
     "href": "disease/cvs/pe.html#epidemiology-and-risk-factors",
     "title": "Pulmonary Embolism",
     "section": "Epidemiology and Risk Factors",
-    "text": "Epidemiology and Risk Factors\nRisk factors for clot formation via Vichows triad:\n\nStasis\nMany thrombi occur around venous valves.\n\nAdvanced age\nRisk increases after 40.\nImmobilisation\nObesity\nGeneral anaesthesia\n~30-50% greater risk compared to spinal/regional technique.\n\nEndothelial Damage\n\nCentral venous access\n\nHypercoagulable state\n\nSurgery\nIncidence depends on type of surgery:\n\nThoracic: ~2%\nAbdominal: ~1%\nHip arthroplasty: Up to 30%\nKnee arthroplasty: Up to 7%\nTrauma: 2-6%\nNeurosurgery: Up to 4%\nSpinal cord injury: 5-9%\n\nHereditary\n\nAT III deficiency\nProtein C or S deficiency\nFactor V leiden\nProthrombin gene deficiency\n\nPregnancy\nDVT risk is 5x as high post-partum compared with durign pregnancy, and PE risk is 15x as high.\nMalignancy\nAcute illness\n\nTrauma\nSepsis\n\nInflammatory diseases\n\nIBD\n\nPrevious VTE\nDrugs\n\nOCP\n2-5x increased relative risk.\nChemotherapeutics\nSmoking\nAntipsychotics\n\n\n\nRisk factors for death from PE:\n\nAge > 70\nCongestive heart failure\nCOAD\nASA score\nHypotension and tachypnoea on diagnosis"
+    "text": "Epidemiology and Risk Factors\nRisk factors for clot formation are given by Vichows triad:\n\n\nSystemic prothrombotic effects (e.g. Factor V Leiden, OCP use, obesity) predominantly increase risk of DVT (and later embolism), pulmonary disease tends to increase risk of PE without increasing DVT risk.\n\nStasis\nMany thrombi occur around venous valves.\n\nAdvanced age\nRisk increases after 40.\nImmobilisation\nObesity\nGeneral anaesthesia\n~30-50% greater risk compared to spinal/regional technique.\n\nEndothelial Damage\n\nCentral venous access\n\nHypercoagulable state\n\nSurgery\nIncidence depends on type of surgery:\n\nThoracic: ~2%\nAbdominal: ~1%\nHip arthroplasty: Up to 30%\nKnee arthroplasty: Up to 7%\nTrauma: 2-6%\nNeurosurgery: Up to 4%\nSpinal cord injury: 5-9%\n\nHereditary\n\nAT III deficiency\nProtein C or S deficiency\nFactor V leiden\nProthrombin gene deficiency\n\nPregnancy\nDVT risk is 5x as high post-partum compared with durign pregnancy, and PE risk is 15x as high.\nMalignancy\nAcute illness\n\nTrauma\nSepsis\n\nInflammatory diseases\n\nIBD\nAutoimmune disease\n\nPrevious VTE\nDrugs\n\nOCP\n2-5x increased relative risk.\nChemotherapeutics\nSmoking\nAntipsychotics\n\n\n\nRisk factors for death from PE:\n\nAge > 70\nCongestive heart failure\nCOAD\nASA score\nHypotension and tachypnoea on diagnosis"
   },
   {
     "objectID": "disease/cvs/pe.html#pathophysiology",
     "href": "disease/cvs/pe.html#pathophysiology",
     "title": "Pulmonary Embolism",
     "section": "Pathophysiology",
-    "text": "Pathophysiology\nClot burden:\n\nThrombi commonly form in the deep veins of the leg\nClot can then:\n\nPropagate proximally\nPE will occur in ~50% of patients with proximal DVT.\nBreak off entirely\n~20% of patients with PE have no identified DVT.\n\n\nChanges in pulmonary gas exchange:\n\nIncreased alveolar dead space\nNon-perfused alveoli distal to clot.\nOver-perfusion of non-clotted lung\nMay cause shunt via a variety of mechanisms:\n\nOedema\nPulmonary haemorrhage\nPulmonary infarction does not usually occur due to ongoing perfusion from bronchial circulation.\nLoss of surfactant\nVasoactive peptide secretion\n\n\nChanges in cardiac function:\n\nIncreased PVR\nDue to low mixed venous PO2 in patients with PE and low-cardiac output states.\nElevated right-sided pressures\nIncrease in RAP may open a PFO and lead to intracardiac right-to-left shunting."
+    "text": "Pathophysiology\nKey processes are:\n\nClot formation and embolisation\nPE predominantly arise from DVT in the lower limbs, pelvic veins, or IVC. DVT can then:\n\nPropagate proximally\nPE will occur in ~50% of patients with proximal DVT. Below knee DVT rarely causes clinicially significant PE.\nBreak off entirely\n~20% of patients with PE have no identified DVT.\n\nImpaired pulmonary gas exchange:\n\nIncreased alveolar dead space\nNon-perfused alveoli distal to clot.\nOver-perfusion of non-clotted lung\nMay cause shunt via a variety of mechanisms:\n\nOedema\nPulmonary haemorrhage\nPulmonary infarction does not usually occur due to ongoing perfusion from bronchial circulation.\nLoss of surfactant\nVasoactive peptide secretion\n\n\nAcute RV dysfunction\n\nIncreased PVR\nPulmonary arterial obstruction leads to increased PVR and elevated RV afterload. May be exacerbated by low mixed venous PO2 .\nIncreased Right-sided pressures\nIncrease in RAP may open a PFO and lead to intracardiac right-to-left shunting and risk of systemic embolism."
   },
   {
     "objectID": "disease/cvs/pe.html#clinical-manifestations",
     "href": "disease/cvs/pe.html#clinical-manifestations",
     "title": "Pulmonary Embolism",
     "section": "Clinical Manifestations",
-    "text": "Clinical Manifestations\nClinical features depend on:\n\nClot location\nClot burden\nSeverity of disease relating to underlying CVS reserve\n\nFeatures include:\n\nDue to pulmonary infarction\n\nHaemoptysis\nPleuritic chest pain\n\nPleural rub\n\nDue to pulmonary hypertension\n\nRV pressure overload\n\nIncreased RAP\nMay be seen as elevated JVP.\nIncreased PVR\nDecreased CO\nIncreased SVR\n\nLoud P2\n\nDue to obstructive shock:\n\nCardiac arrest\nShock Index > 1 is strongly associated with in hospital mortality\nTachycardia\nMay be isolated finding. Tachypnoea\nHypotension\n\n\n\nHistory\n\n\nExamination"
+    "text": "Clinical Manifestations\nClinical features depend on:\n\nClot location\nClot burden\nSeverity of disease relating to underlying CVS reserve\n\nFeatures are few and generally non-specific, but may be:\n\nDue to pulmonary infarction\n\nHaemoptysis\nPleuritic chest pain\n\nPleural rub\n\nDue to pulmonary hypertension\n\nRV pressure overload\n\nIncreased RAP\nMay be seen as elevated JVP.\nIncreased PVR\nDecreased CO\nIncreased SVR\n\nLoud P2\n\nDue to obstructive shock:\n\nCardiac arrest\nShock Index > 1 is strongly associated with in hospital mortality\nTachycardia\nMay be isolated finding. Tachypnoea\nHypotension"
   },
   {
     "objectID": "disease/cvs/pe.html#diagnostic-approach-and-ddx",
     "href": "disease/cvs/pe.html#diagnostic-approach-and-ddx",
     "title": "Pulmonary Embolism",
     "section": "Diagnostic Approach and DDx",
-    "text": "Diagnostic Approach and DDx\nPE should always be considered in patients with:\n\nSudden onset syncope\nHypotension\nExtreme hypoxia\nEMD\nCardiac arrest\n\nAssessing a patient who may have PE should:\n\nCommence with careful evaluation of history, risk factors, and physical exam\nUse a validated clinical prediction score to stratify need for further investigations\n\nWells Score\nGeneva score"
+    "text": "Diagnostic Approach and DDx\nPE should always be considered in patients with:\n\nSudden onset syncope\nHypotension\nExtreme hypoxia\nEMD\nCardiac arrest\n\nAssessing a patient who may have PE should:\n\nCommence with careful evaluation of history, risk factors, and physical exam\nUse a validated clinical prediction score to stratify need for further investigations\n\nWells Score\nGeneva score\n\n\nOther differentials include:\n\nB\n\nPneumonia\nPTHx\nRib fractures\n\nC\n\nAcute coronary syndrome\nAortic dissection\nAPO\n\nTrauma\n\nFat embolism\n\nObstetric\n\nAmniotic fluid embolism"
   },
   {
     "objectID": "disease/cvs/pe.html#investigations",
     "href": "disease/cvs/pe.html#investigations",
     "title": "Pulmonary Embolism",
     "section": "Investigations",
-    "text": "Investigations\nCan be divided into:\n\nNon-diagnostic tests\nDiagnostic tests\n\n\nNon-Diagnostic Tests\nECG may demonstrate:\n\nNo abnormalities\nIsolated sinus tachycardia\nAtrial arrythmias\nAssociated with higher mortality.\nRepolarisation abnormalities\nPresent in ~50% of PE patients.\nRBBB and precordial TWI best correlate with severity\nRV strain/cor pulmonale\nAlso non-specific, but suggest massive embolism rather than smaller emvoli.\n\nS1Q3T3\nP-pulmonale\nIncomplete RBBB\nRAD\n\n\nBloods:\n\nD-Dimer\n\n~97% sensitive\nMay be useful in ruling out PE in patients with low to moderate clinical suspicion.\n\nReduces the need for radiological tests\n\nNon-specific\nDoes not support diagnosis or indicate severity.\n\nTroponin\n\nElevated in <50% of patients\nAssociated with adverse outcomes\nDeath, inotropes.\n\nABG\nTypically demonstrates:\n\nHypoxaemia\nMay be only abnormality in smaller PEs.\nRespiratory alkalosis\n\n\nEchocardiography may identify:\n\nPresence of thrombus\n~26% of severe PE can be seen on TOE.\nOther disease\nSigns of RV dysfunction\nFindings include:\n\nRV/LV end-diastolic diameter ratio > 0.7\nRV/LV area ratio > 0.66\nRV end-diastolic diameter > 27mm\n“McConnel Sign”\nRV fre wall hypokinesis with RV apex normo or hyperkinesis.\nSeptal shift\nTR jet >270cm/sec.\n\n\nCXR:\n\nUseful in supporting or ruling-out other causes of hypoxaemia and hypotension\nRequired prior to V/Q scan\n\nPhysiological dead space:\n\nAlmost always increased in the case of PE\nFormal measurement is:\n\n100% sensitive\n89% specific\n\nRequires an intubated/ventilated patient\nNot easy to perform in practice\nSuggested by\n\nAcute reduction in ETCO2\nDelay in reaching alveolar plateau on ETCO2 waveform\n\n\n\n\nDiagnostic Tests\nInclude:\n\nCTPA\n\nQuicker and more available than V/Q scanning, but requires contrast load\n~85% sensitive\nVaries depending on machine and radiologist.\n\nIncreases to ~100% of PEs with haemodynamic instability\nCommonly identifies PE in asymptomatic patients\n\n\nVQ scan\n\nMay not be appropriate if existing cardio-pulmonary disease\nSensitivity increased with modern SPECT devices\n~1% now non-diagnostic.\nMore sensitive than CTPA for peripheral emboli"
+    "text": "Investigations\nCan be divided into:\n\nDiagnostic tests\nNon-diagnostic tests\n\n\nDiagnostic Tests\nRadiology:\n\nCTPA\n\nQuicker and more available than V/Q scanning, but requires contrast load\n~85% sensitive\nVaries depending on machine and radiologist.\n\nIncreases to ~100% of PEs with haemodynamic instability\nCommonly identifies subsegmental PE in asymptomatic patients\nClinical significance is unclear, but do not require anticoagulation.\n\n\nVQ scan\n\nMay not be appropriate if existing cardio-pulmonary disease\nSensitivity increased with modern SPECT devices\n~1% now non-diagnostic.\nMore sensitive than CTPA for peripheral emboli\n\n\nEchocardiography:\n\n\nThe absence of RV dilation in a haemodynamically unstable patient means that PE is an unlikely diagnosis.\n\nPresence of thrombus\n~26% of severe PE can be seen on TOE, as this provides better visualisation of the MPA and RPA.\nOther disease\nQuantify RV dysfunction\nFindings include:\n\nRV/LV end-diastolic diameter ratio > 0.7\nRV/LV area ratio > 0.66\nRV end-diastolic diameter > 27mm\n“McConnel Sign”\nRV free wall hypokinesis with RV apex normo or hyperkinesis.\nSeptal shift\nTR jet >270cm/sec\nPulmonary artery acceleration time <60ms with maximum TR pressure <60mmHg (60/60 sign)\n\n\n\n\nNon-Diagnostic Tests\nBloods:\n\nD-Dimer\n\n~97% sensitive\nMay be useful in ruling out PE in patients with low to moderate clinical suspicion. Reduces the need for radiological tests.\nNon-specific\nDoes not support diagnosis or indicate severity. Often raised in the critically ill. \n\nTroponin\n\nElevated in <50% of patients\nAssociated with adverse outcomes\nDeath, inotropes.\n\nBNP/BNP\n\nABG\nTypically demonstrates:\n\nHypoxaemia\nMay be only abnormality in smaller PEs.\nRespiratory alkalosis\n\n\nRadiology:\n\nCXR\n\nUseful in supporting or ruling-out other causes of hypoxaemia and hypotension\nRequired prior to V/Q scan\n\nLower limb ultrasound\nIdentify presence of DVT.\n\nECG:\n\nNo abnormalities\n~30%.\nIsolated sinus tachycardia\nAtrial arrythmias\nAssociated with higher mortality.\nRepolarisation abnormalities\nPresent in ~50% of PE patients.\nRBBB and precordial TWI best correlate with severity\nRV strain/cor pulmonale\nAlso non-specific, but suggest massive embolism rather than smaller emvoli.\n\nS1Q3T3\nP-pulmonale\nIncomplete RBBB\nRAD\n\n\nRespiratory Function Tests:\n\nPhysiological dead space:\n\nAlmost always increased in the case of PE\nFormal measurement is:\n\n100% sensitive\n89% specific\n\nRequires an intubated/ventilated patient\nNot easy to perform in practice\nSuggested by\n\nAcute reduction in ETCO2\nDelay in reaching alveolar plateau on ETCO2 waveform"
   },
   {
     "objectID": "disease/cvs/pe.html#management",
     "href": "disease/cvs/pe.html#management",
     "title": "Pulmonary Embolism",
     "section": "Management",
-    "text": "Management\n\nProphylaxis\nPreventative methods include:\n\nMechanical\n\nIntermittent pneumatic calf compression\nMay reduce incidence by up to 60% in operative patients.\n\nTreatment of choice where bleeding risk is high\n\nIVC filters\n\nNo evidence for mortality reduction\nIncreased risk of DVT\nShould be retrieved when no longer required.\nReasonable to use in patients with:\n\nHigh VTE risk and contraindications to anticoagulation\nRecurrent PE despite therapeutic anticoagulation\n\n\n\nPharmacological\n\n\n\nTherapeutic\n\nSupportive care\n\nMay be required prior to formal diagnosis\nAim to improve RV function\n\nNoradrenaline is the vasopressor of choice\nAdrenaline is a reasonable alternative\nPulmonary vasodilators\n\niNO\n\nVolume is deleterious if the RV is distended\nFurther volume will further distend the RV and reduce LV preload.\n\n\nAnticoagulation\nInhibit extension of the clot, allowing intrinsic fibrinolysis to decrease clot burden.\n\nImproves survival in patients with symptomatic PE\nMay be reasonable to commence prior to formal diagnosis if bleeding risk is low.\nOptions include:\n\nUFH\nLMWH\nSuperior to UFH in most setttings.\nWarfarin\nReasonable when haemodynamic and bleeding risk is stabilised.\n\n\nClot retreival\nThrombolysis\nRisk outweighs benefits in most patients.\n\n~50% reduction in mortality in massive PE\n~50% (and greater absolute increase) in risk of major bleeding\n\n~3% of thrombolysed patients will develop ICH\n\nMay be appropriate in patients with haemodynamic compromise and not judged to be at a high risk of bleeding\n\ne.g. Proven PE with cardiogenic shock\n\n\nPulmonary embolectomy\nOpen surgical technique involving removal of clot from the pulmonary arteries. Requires CPB.\n\nHigh perioperative mortality\nReasonable if thrombolysis is contraindicated\n\n\n\n\nIneffective Therapies"
+    "text": "Management\nManagement options include:\n\nClot destruction\n\nIn selected patients, where benefit outweighs risk\nVia embolectomy or thrombolysis\n\nTherapeutic anticoagulation\nHaemodynamic support\n\nRV support\nECMO\n\n\n\nClot Destruction\nMethods include:\n\nIV thrombolysis\n\nMost common tool\nDramatic improvement in haemodynamic state in 90% of patients following administration\n\n~50% reduction in mortality in massive PE\n\nTempered by significant bleeding in 10% of patients with standard dosing\n\nTherapy should be ceased and factor replacement commenced if significant bleeding occurs\n\n\nCatheter-directed thrombolysis\n\nEmbolectomy\n\nEndovascular\nOpen (surgical)\nOvertaken by endovascular techniques due to high (25-50%) perioperative mortality, but may be appropriate in massive PE and:\n\nContraindications to thrombolysis\nUnavailability of interventional radiology\nIntracardiac thrombus\n\n\n\n\n\nAnticoagulation\nTherapeutic anticoagulation inhibits clot progression, allowing intrinsic fibrinolysis to decrease clot burden. Anticoagulation:\n\nDecreases Mortality and recurrence\nMay be reasonable to commence prior to formal diagnosis if bleeding risk is low.\nInitial anticoagulation should be performed with heparin:\n\nUFH\nPreferred in:\n\nRenal impairment\nFollowing thrombolysis/embolectomy due to reversibility\n\nLMWH\n\nMore predictable dose-response than UFH\nFaster time to therapeutic anticoagulation\n\n\nTransition to oral anticoagulation when bleeding risk stabilised\n\nWarfarin\nDOAC\n\n\n\n\nIneffective Therapies"
   },
   {
     "objectID": "disease/cvs/pe.html#complications",
@@ -11764,7 +11939,7 @@
     "href": "disease/git/cld.html#prognosis",
     "title": "Chronic Liver Disease/Cirrhosis",
     "section": "Prognosis",
-    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 296.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
+    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 300.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
   },
   {
     "objectID": "disease/git/cld.html#key-studies",
