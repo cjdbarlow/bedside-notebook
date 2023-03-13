@@ -1,13 +1,13 @@
 # Bronchospasm
 
+:::danger
+This is an **anaesthetic crisis**. Priority is to:
 
-> This is an <span style="color:red">**anaesthetic crisis**</span>  
-> Priority is to:
->* **Maintain oxygenation**
->* **Keep Pip < 50cmH~2~O**
+* **Maintain oxygenation**
+* **Keep Pip < 50cmH~2~O**
+:::
 
-
-##<span style="color:red">Emergency Management</span>
+## Emergency Management
 
 Immediately:
 

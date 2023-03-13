@@ -1,0 +1,265 @@
+# Asthma
+
+Heterogenous chronic inflammatory disease of the small airways, characterised by increased sputum production and airway reactivity. Diagnosis requires a combination of:
+
+* Respiratory symptoms
+    * Wheeze
+    * Dyspnoea
+    * Chest tightness
+    * Cough
+* Variable, **reversible**, expiratory airflow limitation
+
+:::column-margin
+**Status asthmaticus** has variable definitions, but essentially describes acute severe asthma that has not responded to initial doses of nebulised bronchodilators.
+:::
+
+
+
+## Epidemiology and Risk Factors
+
+In Australia:
+
+* 10% have chronic asthma\
+~50% of these have uncontrolled disease and form the highest risk group for critical care.
+* Significant decrease in intensive care admissions with improved community management\
+Namely:
+    * Guidelines
+    * Increased inhaled steroid use
+    * Asthma action plans
+    
+Risk factors:
+
+* Atopy\
+Decreased Exposure to childhood infections may increase risk of asthma, hayfever, and eczema.
+* Family history
+
+## Pathophysiology
+
+Underlying pathology involves both:
+
+* Airway inflamation
+    * Bronchial wall hyperplasia and oedema
+* Sputum production
+    * May lead to obstruction and plugging of small airways\
+    Usually offset by hyperinflation. 
+    
+This leads to a combination of **increased airway resistance** and **dynamic hyperinflation**, with consequentially:
+
+* Increased Work of breathing\
+Lung compliance and the mechanical efficiency of respiratory muscles both decrease at high lung volumes.
+    * Physical exhaustion\
+    Maintenance of elevated work of breathing may lead to tiring and respiratory failure.
+* V/Q mismatch\
+Further increases work of breathing.
+* Impaired cardiac function\
+    * RV preload may be increased by the very negative intrathoracic pressures produced during vigorous inspiration
+    * RV afterload worsened by combination of:
+        * Pulmonary vascular compression by hyperinflated lungs
+        * Hypoxia
+        * Acidosis
+    * LV preload may be worsened by impaired RV function
+    * LV afterload significantly increased by negative intrathoracic pressures  
+
+
+### Aetiology
+
+Often triggered by exposure to an environmental or physiological precipitant, including:
+
+:::column-margin
+Note that if the primary cause of asthma is suspected to be **anaphylaxis**, then adrenaline is the first-line bronchodilator and standard anaphylaxis management should be followed.
+:::
+
+
+* Environmental
+    * Cold air
+    * Allergens\
+    Common ones include:
+        * Pollen
+        * Rye-grass
+        * Dust mites
+        * Animal
+    * Drugs
+        * NSAIDs
+        * Beta-blockers 
+* Physiological
+    * Excercise
+    * Stress
+    * URTI
+
+
+## Clinical Manifestations
+
+
+## Diagnostic Approach and DDx
+
+Key differentials include:
+
+* Hyperventilation
+* COAD
+* Vocal cord dysfunction
+
+## Investigations
+
+Bloods:
+
+* ABG/VBG\
+    * VBG determines the lower limit of pH and the upper limit of PaCO~2~
+    * Respiratory *alkalosis* predominates in *early* disease due to hypoxia
+    * As the disease worsens and V/Q mismatch increases, an increased MV produces the same blood gas composition
+    * Respiratory **acidosis** emerges in **late disease** when the patient tires and is unable to maintain the required MV
+    * A lactic acidosis secondary to beta agonists may also be present
+    
+
+Radiology:
+
+* CXR\
+No role in confirmed asthma, but may be helpful to exclude other differentials.  
+
+## Management
+
+:::caution
+Underestimation of severity and consequent undertreatment are major contributors to asthma mortality.
+
+Principles of severe asthma management are:
+
+* Aggressive and early use of bronchodilators
+* Early use of NIV
+* Avoid invasive ventilation if safe to do so
+:::
+
+**Resuscitation**:\
+
+:::column-margin
+Patient response over the first **2 hours** of treatment are an important guide to the ongoing trajectory.
+:::
+
+
+* A
+    * Intubation and invasive ventilation
+        * Required in rare instances
+        * Associated with significant morbidity and mortality
+            * Dynamic hyperinflation
+            * Precipitation of worse bronchospasm
+        * Usually requires significant permissive hypercapnoea, and therefore sedation and paralysis for patient tolerance
+        * Decision to intubate is made clinically, evidence in favour of:
+            * Significant respiratory distress (not necessarily tachypnoea)
+            * Severe hypoxia
+            * Deteriorating conscious state
+        * Initial ventilator settings:
+            * Volume control
+            * Vt 5-7mL/kg
+            * RR 8-12
+            * Short inspiratory time/High inspiratory flow rate\
+            Aim **expiratory time >4s**. Pip will be high but alveolar pressures will be significantly lower due to the airway obstruction. Once ventilation is established, Pplat should be assessed with an inspiratory hold and should be maintained at **<25cmH~2~O**.
+        * Haemodynamic deterioration following intubation is often due to dynamic hyperinflation\
+        The **ventilator** should be **disconnected** and prolonged (60s) expiration allowed to occur to reduce cardiac compression, before continuing ventilation at a lower rate. 
+* B
+    * **Oxygen**\
+    Target SpO~2~ 94-98%. Excessive supplementation likely harmful.
+    * **Bronchodilators**
+        * Inhaled
+            * Short-acting beta-agonists
+                * Salbutamol\
+                5-10mg nebulised Q2H, or continuously if clinical concern dictates.
+                * Adrenaline\
+                For patients non-responsive to nebulised salbutamol. 5mg nebulised Q2H.
+            * Anticholinergic
+                * Ipratropium bromide\
+                500ug nebulised Q4H.
+        * Intravenous
+            * Beta-agonists\
+            Consider if no response to inhaled beta-agonists.
+                * Salbutamol\
+                5-10ug/min or 100-250ug bolus *in extremis*.
+                * Adrenaline
+                10ug bolus, with infusion at 1-10ug/min.
+            * Corticosteroids
+            * Magnesium\
+            Controversial, but probably beneficial in adults and unlikely to be harmful.
+                * 5-10mmol IV over ~20 minutes
+        * Anaesthetic agents
+            * Ketamine\
+            Direct and indirect (via increased sympathetic tone) bronchodilation. Useful as an induction agent for endotracheal intubation or as a component of post-intubation sedation, but not independently of this.
+            * Volatile\
+            Many inhaled anaesthetic agents (sevoflurane, isoflurane, enflurane, halothane) are effective direct bronchodilators, with use limited by requiring an intubated patient and a ventilator capable of administering them.
+    * Non-Invasive Ventilation\
+    PEEP decreases inspiratory threshold work and may split open small airways, whilst Psup decreases inspiratory work and increases Vt and MV.
+        * Indicated for:
+            * Moderate-severe dyspnoea or increased work of breathing
+            * Respiratory acidosis
+        * Commence with:
+            * CPAP 5cmH~2~O\
+            Increase If difficulty initiating inspiration.
+            * Psup 8-10cmH~2~O\
+            Increase If low Vt/high RR.
+        * Target Vt ~7mL/kg, RR ~25
+    * VV ECMO\
+    May be required if oxygenation is unable to be managed effectively following intubation. 
+            
+:::column-margin
+To initiate gas flow into the lungs, the patient must generate enough inspiratory force such that Palv < Patm.\
+\
+If PEEPi is high, then a *very* negative intrapleural pressure must be generated before Palv is less than Patm and inspiration commences. Application of external PEEP reduces this gradient, and therefore reduces the amount of work performed before inspiration commences (inspiratory threshold work).
+:::
+
+
+**Specific therapy**:
+
+* Pharmacological\
+Community management of asthma is a cornerstone of preventing severe exacerbations. Agents used include:
+    * Inhaled "preventers"\
+    Usually one (or combination therapy) of:
+        * Long-acting beta-agonists\
+        e.g. Salmeterol.
+        * Inhaled corticosteroids\
+        e.g. Fluticasone.
+    * Leukotriene antagonists 
+* Physical
+    * Asthma management plan
+
+
+**Disposition**:
+
+* Intensive care admission is recommended for:
+    * Severe asthma
+    * Respiratory arrest
+    * Altered mental state
+    * Dysrhythmias
+    * Myocardial ischaemia
+
+### Marginal and Ineffective Therapies
+
+* Aminophylline\
+Inferior bronchodilator relative to others available, with a narrow therapeutic range and poor side effect profile.
+* Heliox\
+70% helium/30% oxygen mixture improves work of breathing and effect of inhaled bronchodilators. This is limited by availability of heliox and the low delivered FiO~2~.
+
+## Anaesthetic Considerations
+
+## Complications
+
+* Death
+* B
+    * Dynamic hyperinflation\
+    Airway obstruction leads to **incomplete exhalation** in a **normal expiratory time**. If expiratory time is not prolonged (due to the next breath being taken), then there is progressive accumulation of gas in the lungs and a rise in lume volume. This may precipitate:
+        * Hypotension and cardiovascular collapse\
+        Progressive impairment to VR due to increased intrathoracic pressure.
+        * Barotrauma
+            * Pneumothorax\
+                * Unilateral pneumothorax will result in preferential ventilation of the uninjured lung, increasing the risk of a second (bilateral) pneumothorax\
+                Respiratory rate should be further decreased following diagnosis of a PTx to reduce this risk.
+                * Catheters should be inserted by blunt dissection to minimise risk of lung injury.
+* E
+    * CIM
+    
+## Prognosis
+
+* Mortality 10-20% among those requiring invasive ventilation
+
+## Key Studies
+
+
+
+---
+
+## References

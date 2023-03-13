@@ -1,15 +1,16 @@
 # Laryngospasm
 
+:::danger
+This is an **anaesthetic crisis*. Priority is to:
 
-> This is an <span style="color:red">**anaesthetic crisis**</span>  
-> Priority is to:
->* **Break laryngospasm**
->* **Maintain oxygenation**
+* **Break laryngospasm**
+* **Maintain oxygenation**
+:::
 
 Involuntary contraction of the laryngeal muscles, resulting in closing of the vocal cords and glottic occlusion.
 
 
-##<span style="color:red">Emergency Management</span>
+## Emergency Management
 
 Immediately:
 
@@ -29,8 +30,12 @@ This aims to stent open the airway.
 * Suction airway
 * Consider applying painful pressure bilaterally on Larson's point, which *may* break laryngospasm  
 Between mastoid process and posterior edge of mandible, applying pressure anteriorly and medially.  
-![](/resources/larson.png)
 
+:::column-margin
+![Larson's Point](/resources/larson.png)
+:::
+
+Then:
 
 * If SpO~2~ >92%, or if desaturation is expected to occur rapidly (obese, children)  
 Deepen anaesthesia or relax the patient:
@@ -120,8 +125,6 @@ Secondary to hypoxia.
 ## Investigations
 
 ## Management
-
-### Preventative Management
 
 ### Post-Emergency Management
 

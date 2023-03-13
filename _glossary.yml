@@ -117,6 +117,7 @@ NASH: Non-Alcoholic Steatohepatitis
 NDMR: Non-Depolarising Muscle Relaxant
 NIHSS: National Institute of Health Stroke Scale/Score
 NIRS: Near-Infrared Spectroscopy
+NIV: Non-Invasive Ventilation
 NMB: Neuromuscular Blocker
 NMBD: Neuromuscular Blocking Drug
 NMJ: Neuromuscular Junction
@@ -126,6 +127,8 @@ NTS: Nucleus of the Tractus Solitarius
 Open-heart: Cardiac surgery involving opening of the aorta or cardiac chambers (e.g., not CABG).
 PAC: Pulmonary Artery Catheter
 PADLs: Personal Activities of Daily Living, e.g. dressing, feeding, toileting, and personal hygeine.
+Palv: Alveolar Pressure
+Patm: Atmospheric Pressure
 PBP: Penicillin Binding Protein
 PCA: Posterior Cerebral Artery
 PCI: Percutaneous Coronary Intervention
@@ -136,10 +139,13 @@ PDE: Phosphodiesterase
 PDGF: Platelet-Derived Growth Factor
 PDPH: Post-Dural Puncture Headache
 PEEP: Positive End-Expiratory Pressure
+PEEPi: Intrinsic Positive End-Expiratory Pressure
 PEFR: Peak Expiratory Flow Rate
 PFO: Patent Foramen Ovale
 PN: Parenteral Nutrition
+Pplat: Plateau Pressure
 PPV: Pulse Pressure Variation
+Psup: Pressure Support
 PTH: Parathyroid Hormone
 PTHrP: Parathyroid Hormone related Peptide
 RA: Right Atrium *or* Rheumatoid Arthritis
@@ -181,6 +187,7 @@ TPN: Total Parental Nutrition
 TSH: Thyroid Stimulating Hormone
 UEC: Urea/Electrolytes/Creatinine
 UFH: Unfractionated Heparin
+VF: Ventricular Fibrillation
 VIE: Vacuum Insulated Evaporator
 VILI: Ventilator Induced Lung Injury
 VMA: Vanillylmandelic acid
@@ -188,6 +195,7 @@ VR: Venous Return
 VRG: Ventral Respiratory Group
 VSD: Ventricular Septal Defect
 Vt: Tidal Volume
+VT: Ventricular Tachycardia
 WFNS: World Federation of Neurosurgical Societies
 ZEEP: Zero End-Expiratory Pressure
 ---

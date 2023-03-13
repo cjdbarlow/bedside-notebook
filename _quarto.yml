@@ -198,6 +198,7 @@ book:
           chapters:
           - anaesthesia/crisis/fire.qmd
           - disease/resp/laryngospasm.qmd
+          - disease/resp/bronchospasm.qmd
           - anaesthesia/crisis/cico.qmd
           - anaesthesia/crisis/massive-haemoptysis.qmd
           - anaesthesia/crisis/delayed-emergence.qmd
@@ -454,15 +455,14 @@ book:
           # T2RF
         - part: "Upper Airway"
           chapters:
-          - disease/resp/laryngospasm.qmd
           - disease/resp/osa.qmd
           - disease/resp/massive-haemoptysis.qmd
           # Tracheomalacia
           # Tracheal stenosis
         - part: "Lower Airway"
           chapters:
-          - disease/resp/bronchospasm.qmd
-          - disease/resp/coad.qmd
+          - disease/resp/asthma.qmd
+          - disease/resp/coad.qmd 
           - disease/resp/bronchopleural.qmd
         - part: "Parenchyma"
           chapters:
