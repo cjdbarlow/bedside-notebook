@@ -389,7 +389,7 @@
     "href": "management/resus/cals.html#protocol",
     "title": "Cardiac Advanced Life Support",
     "section": "Protocol",
-    "text": "Protocol\nThis algorithm assumes that the patient has ECG and invasive arterial monitoring:\n\nRecognition\nArrest is consistent with:\n\nLoss of central pulse\nLoss of haemodynamic waveform pulsatility\n\nSystemic arterial pressure\nPulmonary arterial pressure\nCVP\nPulse oximetry\n\nLoss of ETCO2\n\nAssess rhythm\n\nVF/VT/Tachycardia\n\nDC shock\nUp to 3 attempts.\nStart BLS\nCPR may be delayed up to 1 minute to facilitate cardioversion.\nAmiodarone\n300mg. Further loading of 150mg followed by infusion may be given for refractory VT/VF.\nPrepare for emergency resternotomy\n\nAsystole/Severe bradycardia\n\nPace\nIn DDD or DOO at 100bpm and at maximal amplitude.\n\nStart BLS\nCPR may be delayed up to 1 minute to facilitate cardioversion.\nConsider external pacing\nPrepare for emergency resternotomy\n\nPEA\n\nIf paced, turn off external pacing to exclude underlying VF\nStart BLS\nPrepare for emergency resternotomy\n\n\nAdjuvant management\n\nAirway\n\nChange to BVM with 100% O2\n\nBreathing\n\nPEEP to 0cmH2O\nImprove cardiac preload in the setting of tamponade/hypovolaemia.\n\nConsider increasing PEEP if arrest secondary to hypoxia\n\nAuscultate/ultrasound to evaluate for tension pneumo/haemothorax\nDecompress if present.\n\nCirculation\n\nAvoid adrenaline unless advised by senior clinician\nTypical dose is 50-300ug.\nGive fluid bolus\nActivate massive transfusion\nPause infusions\n\nEvaluate for dosing/drug errors\nConsider restarting vasopressor infusions\n\nLignocaine 1mg/kg may be considered as an alternative to amiodarone\nChange IABP settings:\n\nPressure trigger\nMaximum augmentation\n1:1 ratio\n\nConsider echocardiography\nUse should not delay CPR or resternotomy.\n\n\nEvaluate for reversible causes\n\nExternal Cardiac Compressions:\n\nStandard site, depth, and compression ratio\nAn SBP of >60mmHg should be targeted if invasive arterial monitoring is present\nInability to achieve an SBP of >60mmHg with compressions indicates need for immediate resternotomy\nIndication of arrest due to low preload (and not amenable to cardiac compressions) - tamponade or hypovolaemia are likely causes.\n\n\nEmergency Resternotomy\n\nResternotomy occurring ⩽10 minutes is associated with ~50% survival, compared to ~10% if >10 minutes\n\nEmergency resternotomy should be:\n\nPerformed within 5 minutes of arrest\nOr immediately if SBP <60mmHg with external chest compressions.\nConsidered in patients up to 14 days post surgery\nPrepared for immediately upon identification of cardiac arrest\n\nProcess:\n\nCease chest compressions\nRemove sternotomy dressing, apply betadine, apply sterile drape\nShould be performed in ⩽10 seconds.\nCut sternotomy incision and wires\n\nDeep incision through sternotomy sutures down to sternal wires\nCut sternal wires\nRemove sternal wires with heavy needle holder\n\nSuction blood and clot\nOpen sternum with sternal retractor\nIf no output despite opening sternum:\n\nConsider internal defibrillation 20J with internal paddles.\nCommence internal cardiac massage\n\nAvoid grafts\nRight hand over apex and around behind the heart\nLeft hand over anterior surface of heart\nSqueeze both hands together with flat palms and straight fingers\nAim SBP >60mmHg at a 100 bpm.\n\n\n\nPost-procedural care:\n\nTransfer to OT\n\nWashout\nConsider closure\n\nAntibiotics\nAvoid fever\nTemperature ⩽36°C."
+    "text": "Protocol\nThis algorithm assumes that the patient has ECG and invasive arterial monitoring:\n\nRecognition\nArrest is consistent with:\n\nLoss of central pulse\nLoss of haemodynamic waveform pulsatility\n\nSystemic arterial pressure\nPulmonary arterial pressure\nCVP\nPulse oximetry\n\nLoss of ETCO2\n\nAssess rhythm\n\nVF/VT\n\nDC shock\nUp to 3 attempts.\nStart BLS\nCPR may be delayed up to 1 minute to facilitate cardioversion.\nAmiodarone\n300mg. Further loading of 150mg followed by infusion may be given for refractory VT/VF\nPrepare for emergency resternotomy\n\nAsystole/Severe bradycardia\n\nPace\nIn DDD or DOO at 100bpm and at maximal amplitude.\n\nStart BLS\nCPR may be delayed up to 1 minute to facilitate cardioversion.\nConsider external pacing\nPrepare for emergency resternotomy\n\nPEA\n\nIf paced, turn off external pacing to exclude underlying VF\nStart BLS\nPrepare for emergency resternotomy\n\n\nAdjuvant management\n\nAirway\n\nChange to BVM with 100% O2\n\nBreathing\n\nPEEP to 0cmH2O\nImprove cardiac preload in the setting of tamponade/hypovolaemia.\n\nConsider increasing PEEP if arrest secondary to hypoxia\n\nAuscultate/ultrasound to evaluate for tension pneumo/haemothorax\nDecompress if present.\n\nCirculation\n\nAvoid adrenaline unless advised by senior clinician\nTypical dose is 50-300ug.\nGive fluid bolus\nActivate massive transfusion\nPause infusions\n\nEvaluate for dosing/drug errors\nConsider restarting vasopressor infusions\n\nLignocaine 1mg/kg may be considered as an alternative to amiodarone\nChange IABP settings:\n\nPressure trigger\nMaximum augmentation\n1:1 ratio\n\nConsider echocardiography\nUse should not delay CPR or resternotomy.\n\n\nEvaluate for reversible causes\n\nExternal Cardiac Compressions:\n\nStandard site, depth, and compression ratio\nAn SBP of >60mmHg should be targeted if invasive arterial monitoring is present\nInability to achieve an SBP of >60mmHg with compressions indicates need for immediate resternotomy\nIndication of arrest due to low preload (and not amenable to cardiac compressions) - tamponade or hypovolaemia are likely causes.\n\n\nEmergency Resternotomy\n\nResternotomy occurring ⩽10 minutes is associated with ~50% survival, compared to ~10% if >10 minutes\n\nEmergency resternotomy should be:\n\nPerformed within 5 minutes of arrest\nOr immediately if SBP <60mmHg with external chest compressions.\nConsidered in patients up to 14 days post surgery\nPrepared for immediately upon identification of cardiac arrest\n\nProcess:\n\nCease chest compressions\nRemove sternotomy dressing, apply betadine, apply sterile drape\nShould be performed in ⩽10 seconds.\nCut sternotomy incision and wires\n\nDeep incision through sternotomy sutures down to sternal wires\nCut sternal wires\nRemove sternal wires with heavy needle holder\n\nSuction blood and clot\nOpen sternum with sternal retractor\nIf no output despite opening sternum:\n\nConsider internal defibrillation 20J with internal paddles.\nCommence internal cardiac massage\n\nAvoid grafts\nRight hand over apex and around behind the heart\nLeft hand over anterior surface of heart\nSqueeze both hands together with flat palms and straight fingers\nAim SBP >60mmHg at a 100 bpm.\n\n\n\nPost-procedural care:\n\nTransfer to OT\n\nWashout\nConsider closure\n\nAntibiotics\nAvoid fever\nTemperature ⩽36°C."
   },
   {
     "objectID": "management/resus/cals.html#references",
@@ -1792,6 +1792,13 @@
     "text": "References"
   },
   {
+    "objectID": "disease/resp/laryngospasm.html#emergency-management",
+    "href": "disease/resp/laryngospasm.html#emergency-management",
+    "title": "Laryngospasm",
+    "section": "Emergency Management",
+    "text": "Emergency Management\nImmediately:\n\nCease painful stimulation\nPrepare for intubation\nDelegate person to assemble drugs and airway equipment.\nProvide 100% oxygen\nRemove airway devices In mild laryngospasm (without total obstruction) it may be reasonable to attempt to break laryngospasm with the LMA in situ.\nProvide CPAP 30cmH2O\nThis aims to stent open the airway.\n\nTypically via face mask\nEnsure optimal position, consider use of airway adjuncts.\nDeliver low tidal volume ventilation if able via short, sharp squeezes on the bag\nForced inflation will worsen obstruction if there is complete glottic occlusion.\n\nSuction airway\nConsider applying painful pressure bilaterally on Larson’s point, which may break laryngospasm\nBetween mastoid process and posterior edge of mandible, applying pressure anteriorly and medially.\n\n\n\n\n\n\nLarson’s Point\n\n\nThen:\n\nIf SpO2 >92%, or if desaturation is expected to occur rapidly (obese, children)\nDeepen anaesthesia or relax the patient:\n\nSuxamethonium 0.5mg/kg\nPropofol ~20% of induction dose\nEffective in ~80% of cases.\n\nDeepens anaesthesia\nSuppresses reflexes\n\nOverpressure sevoflurane\nIf airway patent enough to ventilate.\n\nIf SpO2 <92%\nProcede directly to intubation:\n\nSuxamethonium 1-2mg/kg\nIM is appropriate if an IV route is not available.\n\n\n\nControversial Treatments\nLignocaine has been described to reduce coughing and laryngospasm:\n\nEvidence is not conclusive\nMay decrease incidence of laryngospasm in at-risk groups\nNot included in many emergency algorithims as its use may delay definitive therapy"
+  },
+  {
     "objectID": "disease/resp/laryngospasm.html#epidemiology-and-risk-factors",
     "href": "disease/resp/laryngospasm.html#epidemiology-and-risk-factors",
     "title": "Laryngospasm",
@@ -1831,7 +1838,7 @@
     "href": "disease/resp/laryngospasm.html#management",
     "title": "Laryngospasm",
     "section": "Management",
-    "text": "Management\n\nPreventative Management\n\n\nPost-Emergency Management\nOnce laryngospasm is broken:\n\nConsider deflating the stomach with an OGT prior to extubation\nEnsure deep anaesthesia for duration of muscle relaxation\nEnsure extubation only when the patient is fully awake\nPrior to extubation, perform an artificial cough:\n\nSingle lung inflation with 100% O2 prior to extubation\n\nDelays desaturation\nEnsures positive pressure in the trachea, which should result in forceful expiration clearing debris from laryngeal inlet"
+    "text": "Management\n\nPost-Emergency Management\nOnce laryngospasm is broken:\n\nConsider deflating the stomach with an OGT prior to extubation\nEnsure deep anaesthesia for duration of muscle relaxation\nEnsure extubation only when the patient is fully awake\nPrior to extubation, perform an artificial cough:\n\nSingle lung inflation with 100% O2 prior to extubation\n\nDelays desaturation\nEnsures positive pressure in the trachea, which should result in forceful expiration clearing debris from laryngeal inlet"
   },
   {
     "objectID": "disease/resp/laryngospasm.html#complications-and-prognosis",
@@ -1846,6 +1853,76 @@
     "title": "Laryngospasm",
     "section": "References",
     "text": "References\n\nPadley, AP. Westmead Anaesthetic Manual. 3rd Ed (Revised). 2014. McGraw-Hill Education. Australia.\nBorshoff, DC. The Anaesthetic Crisis Manual. 1st Ed. 2011. Leeuwin Press.\nLarson, PC. Laryngospasm: The Best Treatment. Anesthesiology 11 1998, Vol.89, 1293-1294.\nSalem MR, Crystal GJ, Nimmagadda U. Understanding the Mechanics of Laryngospasm Is Crucial for Proper Treatment. Anesthesiology 8 2012, Vol.117, 441-442.\nOrliaguet GA, Gall O, Savoldelli GL, Couloigner V. Case scenario: perianesthetic management of laryngospasm in children. Anesthesiology. 2012 Feb;116(2):458-71"
+  },
+  {
+    "objectID": "disease/resp/bronchospasm.html#emergency-management",
+    "href": "disease/resp/bronchospasm.html#emergency-management",
+    "title": "Bronchospasm",
+    "section": "Emergency Management",
+    "text": "Emergency Management\nImmediately:\n\nCease surgical stimulation\nProvide 100% oxygen\nManually ventilate\nAssess lung resistance and compliance.\nRapidly deepen anaesthesia\n\nChange from desflurane if able\n\nConsider:\n\nIs this anaphylaxis?\nCause of ~20% of bronchospasm.\nIf intubated:\nExclude endobronchial or oesophageal intubation.\nIf not intubated:\n\nExclude laryngospasm or airway obstruction\nExclude regurgitation or aspiration\n\n\nBronchodilate\n\nInhaled therapies\nTypically adequate in mild bronchospasm.\n\nSalbutamol\n12 puffs MDI via circuit.\nIpratropium Bromide\n6 puffs MDI via circuit.\n\nIV therapies\nRequired in severe bronchospasm.\n\nSalbutamol\n5ug/kg up to 250ug slow push, with a 100ug/kg/hr infusion.\nAdrenaline 0.1-1ug/kg bolus, with a 0.1ug/kg/min infusion.\n\n\nOptimise ventilation\n\nI:E ratio of at least 1:6\nLow RR\nTarget complete expiration on expiratory flow waveform, accepting hypercapnoea.\nConsider ventilator disconnection if concern for stacked breaths\n\nConsider additional drugs\n\nHydrocortisone\n1-2mg/kg IV.\nKetamine\n0.5-1mg/kg IV.\nMagnesium\nAminophyline\n5-7mg/kg over 15 minutes, then 0.5mg/kg/hr thereafter."
+  },
+  {
+    "objectID": "disease/resp/bronchospasm.html#epidemiology-and-risk-factors",
+    "href": "disease/resp/bronchospasm.html#epidemiology-and-risk-factors",
+    "title": "Bronchospasm",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors\nEpidemiology:\n\nMajority of bronchospasm occurs during induction or maintenance\nBronchospasm due to anaphylaxis predominantly occurs during maintenance.\n\nRisk factors:\n\nAsthma/COAD\nReflux\nHeavy smokers\nRecent URTI\nPrior laryngospasm"
+  },
+  {
+    "objectID": "disease/resp/bronchospasm.html#pathophysiology",
+    "href": "disease/resp/bronchospasm.html#pathophysiology",
+    "title": "Bronchospasm",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology"
+  },
+  {
+    "objectID": "disease/resp/bronchospasm.html#clinical-manifestations",
+    "href": "disease/resp/bronchospasm.html#clinical-manifestations",
+    "title": "Bronchospasm",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations\nTypically presents as a triad of:\n\nExpiratory wheeze\nProlonged expiration time\n“Obstructed” capnographic waveform.\nHigh Pip\nFirst sign in 30% of cases.\n\nClinical features:\n\nDesaturation/cyanosis\nFirst sign in 20% of cases.\nHypercapnoea\nPoor lung compliance\n\nFall in tidal volumes\nDifficulty hand ventilating\n\nWheeze\nMay not be present in severe spasm when gas flow is impaired, but is the first sign in 30% of cases.\n\n\nHistory\n\n\nExamination"
+  },
+  {
+    "objectID": "disease/resp/bronchospasm.html#diagnostic-approach-and-ddx",
+    "href": "disease/resp/bronchospasm.html#diagnostic-approach-and-ddx",
+    "title": "Bronchospasm",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx\nKey differential diagnoses:\n\nAnaphylaxis\nLaryngospasm\nEndobronchial intubation\nAlso causes high airway pressures/reduced volumes and reduced SpO2~.\nPoor chest wall compliance\n\nEschar\n‘Wooden Chest’ phenomenon\n\nPoor lung compliance\n\nPTHx"
+  },
+  {
+    "objectID": "disease/resp/bronchospasm.html#investigations",
+    "href": "disease/resp/bronchospasm.html#investigations",
+    "title": "Bronchospasm",
+    "section": "Investigations",
+    "text": "Investigations"
+  },
+  {
+    "objectID": "disease/resp/bronchospasm.html#management",
+    "href": "disease/resp/bronchospasm.html#management",
+    "title": "Bronchospasm",
+    "section": "Management",
+    "text": "Management\n\nIneffective Therapies"
+  },
+  {
+    "objectID": "disease/resp/bronchospasm.html#complications",
+    "href": "disease/resp/bronchospasm.html#complications",
+    "title": "Bronchospasm",
+    "section": "Complications",
+    "text": "Complications"
+  },
+  {
+    "objectID": "disease/resp/bronchospasm.html#prognosis",
+    "href": "disease/resp/bronchospasm.html#prognosis",
+    "title": "Bronchospasm",
+    "section": "Prognosis",
+    "text": "Prognosis"
+  },
+  {
+    "objectID": "disease/resp/bronchospasm.html#references",
+    "href": "disease/resp/bronchospasm.html#references",
+    "title": "Bronchospasm",
+    "section": "References",
+    "text": "References\n\nWesthorpe RN, Ludbrook GL, Helps SC. Crisis management during anaesthesia: bronchospasm. Qual Saf Health Care. 2005;14(3):e7. doi:10.1136/qshc.2002.004457"
   },
   {
     "objectID": "anaesthesia/crisis/cico.html#transitioning-to-cico",
@@ -7840,67 +7917,81 @@
     "text": "References\n\nLordan JL, Gascoigne A, Corris PA. The pulmonary physician in critical care • Illustrative case 7: Assessment and management of massive haemoptysis. Thorax. 2003 Sep 1;58(9):814–9."
   },
   {
-    "objectID": "disease/resp/bronchospasm.html#epidemiology-and-risk-factors",
-    "href": "disease/resp/bronchospasm.html#epidemiology-and-risk-factors",
-    "title": "Bronchospasm",
+    "objectID": "disease/resp/asthma.html#epidemiology-and-risk-factors",
+    "href": "disease/resp/asthma.html#epidemiology-and-risk-factors",
+    "title": "Asthma",
     "section": "Epidemiology and Risk Factors",
-    "text": "Epidemiology and Risk Factors\nEpidemiology:\n\nMajority of bronchospasm occurs during induction or maintenance\nBronchospasm due to anaphylaxis predominantly occurs during maintenance.\n\nRisk factors:\n\nAsthma/COAD\nReflux\nHeavy smokers\nRecent URTI\nPrior laryngospasm"
+    "text": "Epidemiology and Risk Factors\nIn Australia:\n\n10% have chronic asthma\n~50% of these have uncontrolled disease and form the highest risk group for critical care.\nSignificant decrease in intensive care admissions with improved community management\nNamely:\n\nGuidelines\nIncreased inhaled steroid use\nAsthma action plans\n\n\nRisk factors:\n\nAtopy\nDecreased Exposure to childhood infections may increase risk of asthma, hayfever, and eczema.\nFamily history"
   },
   {
-    "objectID": "disease/resp/bronchospasm.html#pathophysiology",
-    "href": "disease/resp/bronchospasm.html#pathophysiology",
-    "title": "Bronchospasm",
+    "objectID": "disease/resp/asthma.html#pathophysiology",
+    "href": "disease/resp/asthma.html#pathophysiology",
+    "title": "Asthma",
     "section": "Pathophysiology",
-    "text": "Pathophysiology"
+    "text": "Pathophysiology\nUnderlying pathology involves both:\n\nAirway inflamation\n\nBronchial wall hyperplasia and oedema\n\nSputum production\n\nMay lead to obstruction and plugging of small airways\nUsually offset by hyperinflation.\n\n\nThis leads to a combination of increased airway resistance and dynamic hyperinflation, with consequentially:\n\nIncreased Work of breathing\nLung compliance and the mechanical efficiency of respiratory muscles both decrease at high lung volumes.\n\nPhysical exhaustion\nMaintenance of elevated work of breathing may lead to tiring and respiratory failure.\n\nV/Q mismatch\nFurther increases work of breathing.\nImpaired cardiac function\n\n\nRV preload may be increased by the very negative intrathoracic pressures produced during vigorous inspiration\nRV afterload worsened by combination of:\n\nPulmonary vascular compression by hyperinflated lungs\nHypoxia\nAcidosis\n\nLV preload may be worsened by impaired RV function\nLV afterload significantly increased by negative intrathoracic pressures\n\n\n\nAetiology\nOften triggered by exposure to an environmental or physiological precipitant, including:\n\n\nNote that if the primary cause of asthma is suspected to be anaphylaxis, then adrenaline is the first-line bronchodilator and standard anaphylaxis management should be followed.\n\nEnvironmental\n\nCold air\nAllergens\nCommon ones include:\n\nPollen\nRye-grass\nDust mites\nAnimal\n\nDrugs\n\nNSAIDs\nBeta-blockers\n\n\nPhysiological\n\nExcercise\nStress\nURTI"
   },
   {
-    "objectID": "disease/resp/bronchospasm.html#clinical-manifestations",
-    "href": "disease/resp/bronchospasm.html#clinical-manifestations",
-    "title": "Bronchospasm",
+    "objectID": "disease/resp/asthma.html#clinical-manifestations",
+    "href": "disease/resp/asthma.html#clinical-manifestations",
+    "title": "Asthma",
     "section": "Clinical Manifestations",
-    "text": "Clinical Manifestations\nTypically presents as a triad of:\n\nExpiratory wheeze\nProlonged expiration time\n“Obstructed” capnographic waveform.\nHigh Pip\nFirst sign in 30% of cases.\n\nClinical features:\n\nDesaturation/cyanosis\nFirst sign in 20% of cases.\nHypercapnoea\nPoor lung compliance\n\nFall in tidal volumes\nDifficulty hand ventilating\n\nWheeze\nMay not be present in severe spasm when gas flow is impaired, but is the first sign in 30% of cases.\n\n\nHistory\n\n\nExamination"
+    "text": "Clinical Manifestations"
   },
   {
-    "objectID": "disease/resp/bronchospasm.html#diagnostic-approach-and-ddx",
-    "href": "disease/resp/bronchospasm.html#diagnostic-approach-and-ddx",
-    "title": "Bronchospasm",
+    "objectID": "disease/resp/asthma.html#diagnostic-approach-and-ddx",
+    "href": "disease/resp/asthma.html#diagnostic-approach-and-ddx",
+    "title": "Asthma",
     "section": "Diagnostic Approach and DDx",
-    "text": "Diagnostic Approach and DDx\nKey differential diagnoses:\n\nAnaphylaxis\nLaryngospasm\nEndobronchial intubation\nAlso causes high airway pressures/reduced volumes and reduced SpO2~.\nPoor chest wall compliance\n\nEschar\n‘Wooden Chest’ phenomenon\n\nPoor lung compliance\n\nPTHx"
+    "text": "Diagnostic Approach and DDx\nKey differentials include:\n\nHyperventilation\nCOAD\nVocal cord dysfunction"
   },
   {
-    "objectID": "disease/resp/bronchospasm.html#investigations",
-    "href": "disease/resp/bronchospasm.html#investigations",
-    "title": "Bronchospasm",
+    "objectID": "disease/resp/asthma.html#investigations",
+    "href": "disease/resp/asthma.html#investigations",
+    "title": "Asthma",
     "section": "Investigations",
-    "text": "Investigations"
+    "text": "Investigations\nBloods:\n\nABG/VBG\n\n\nVBG determines the lower limit of pH and the upper limit of PaCO2\nRespiratory alkalosis predominates in early disease due to hypoxia\nAs the disease worsens and V/Q mismatch increases, an increased MV produces the same blood gas composition\nRespiratory acidosis emerges in late disease when the patient tires and is unable to maintain the required MV\nA lactic acidosis secondary to beta agonists may also be present\n\n\nRadiology:\n\nCXR\nNo role in confirmed asthma, but may be helpful to exclude other differentials."
   },
   {
-    "objectID": "disease/resp/bronchospasm.html#management",
-    "href": "disease/resp/bronchospasm.html#management",
-    "title": "Bronchospasm",
+    "objectID": "disease/resp/asthma.html#management",
+    "href": "disease/resp/asthma.html#management",
+    "title": "Asthma",
     "section": "Management",
-    "text": "Management\n\nIneffective Therapies"
+    "text": "Management\n\nUnderestimation of severity and consequent undertreatment are major contributors to asthma mortality.\nPrinciples of severe asthma management are:\n\nAggressive and early use of bronchodilators\nEarly use of NIV\nAvoid invasive ventilation if safe to do so\n\n\nResuscitation:\n\n\n\nPatient response over the first 2 hours of treatment are an important guide to the ongoing trajectory.\n\nA\n\nIntubation and invasive ventilation\n\nRequired in rare instances\nAssociated with significant morbidity and mortality\n\nDynamic hyperinflation\nPrecipitation of worse bronchospasm\n\nUsually requires significant permissive hypercapnoea, and therefore sedation and paralysis for patient tolerance\nDecision to intubate is made clinically, evidence in favour of:\n\nSignificant respiratory distress (not necessarily tachypnoea)\nSevere hypoxia\nDeteriorating conscious state\n\nInitial ventilator settings:\n\nVolume control\nVt 5-7mL/kg\nRR 8-12\nShort inspiratory time/High inspiratory flow rate\nAim expiratory time >4s. Pip will be high but alveolar pressures will be significantly lower due to the airway obstruction. Once ventilation is established, Pplat should be assessed with an inspiratory hold and should be maintained at <25cmH2O.\n\nHaemodynamic deterioration following intubation is often due to dynamic hyperinflation\nThe ventilator should be disconnected and prolonged (60s) expiration allowed to occur to reduce cardiac compression, before continuing ventilation at a lower rate.\n\n\nB\n\nOxygen\nTarget SpO2 94-98%. Excessive supplementation likely harmful.\nBronchodilators\n\nInhaled\n\nShort-acting beta-agonists\n\nSalbutamol\n5-10mg nebulised Q2H, or continuously if clinical concern dictates.\nAdrenaline\nFor patients non-responsive to nebulised salbutamol. 5mg nebulised Q2H.\n\nAnticholinergic\n\nIpratropium bromide\n500ug nebulised Q4H.\n\n\nIntravenous\n\nBeta-agonists\nConsider if no response to inhaled beta-agonists.\n\nSalbutamol\n5-10ug/min or 100-250ug bolus in extremis.\nAdrenaline 10ug bolus, with infusion at 1-10ug/min.\n\nCorticosteroids\nMagnesium\nControversial, but probably beneficial in adults and unlikely to be harmful.\n\n5-10mmol IV over ~20 minutes\n\n\nAnaesthetic agents\n\nKetamine\nDirect and indirect (via increased sympathetic tone) bronchodilation. Useful as an induction agent for endotracheal intubation or as a component of post-intubation sedation, but not independently of this.\nVolatile\nMany inhaled anaesthetic agents (sevoflurane, isoflurane, enflurane, halothane) are effective direct bronchodilators, with use limited by requiring an intubated patient and a ventilator capable of administering them.\n\n\nNon-Invasive Ventilation\nPEEP decreases inspiratory threshold work and may split open small airways, whilst Psup decreases inspiratory work and increases Vt and MV.\n\nIndicated for:\n\nModerate-severe dyspnoea or increased work of breathing\nRespiratory acidosis\n\nCommence with:\n\nCPAP 5cmH2O\nIncrease If difficulty initiating inspiration.\nPsup 8-10cmH2O\nIncrease If low Vt/ RR.\n\nTarget Vt ~7mL/kg, RR ~25\n\nVV ECMO\nMay be required if oxygenation is unable to be managed effectively following intubation.\n\n\n\n\nTo initiate gas flow into the lungs, the patient must generate enough inspiratory force such that Palv < Patm.\n\nIf PEEPi is high, then a very negative intrapleural pressure must be generated before Palv is less than Patm and inspiration commences. Application of external PEEP reduces this gradient, and therefore reduces the amount of work performed before inspiration commences (inspiratory threshold work).\nSpecific therapy:\n\nPharmacological\nCommunity management of asthma is a cornerstone of preventing severe exacerbations. Agents used include:\n\nInhaled “preventers”\nUsually one (or combination therapy) of:\n\nLong-acting beta-agonists\ne.g. Salmeterol.\nInhaled corticosteroids\ne.g. Fluticasone.\n\nLeukotriene antagonists\n\nPhysical\n\nAsthma management plan\n\n\nDisposition:\n\nIntensive care admission is recommended for:\n\nSevere asthma\nRespiratory arrest\nAltered mental state\nDysrhythmias\nMyocardial ischaemia\n\n\n\nMarginal and Ineffective Therapies\n\nAminophylline\nInferior bronchodilator relative to others available, with a narrow therapeutic range and poor side effect profile.\nHeliox\n70% helium/30% oxygen mixture improves work of breathing and effect of inhaled bronchodilators. This is limited by availability of heliox and the low delivered FiO2."
   },
   {
-    "objectID": "disease/resp/bronchospasm.html#complications",
-    "href": "disease/resp/bronchospasm.html#complications",
-    "title": "Bronchospasm",
+    "objectID": "disease/resp/asthma.html#anaesthetic-considerations",
+    "href": "disease/resp/asthma.html#anaesthetic-considerations",
+    "title": "Asthma",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "disease/resp/asthma.html#complications",
+    "href": "disease/resp/asthma.html#complications",
+    "title": "Asthma",
     "section": "Complications",
-    "text": "Complications"
+    "text": "Complications\n\nDeath\nB\n\nDynamic hyperinflation\nAirway obstruction leads to incomplete exhalation in a normal expiratory time. If expiratory time is not prolonged (due to the next breath being taken), then there is progressive accumulation of gas in the lungs and a rise in lume volume. This may precipitate:\n\nHypotension and cardiovascular collapse\nProgressive impairment to VR due to increased intrathoracic pressure.\nBarotrauma\n\nPneumothorax\n\n\nUnilateral pneumothorax will result in preferential ventilation of the uninjured lung, increasing the risk of a second (bilateral) pneumothorax\nRespiratory rate should be further decreased following diagnosis of a PTx to reduce this risk.\nCatheters should be inserted by blunt dissection to minimise risk of lung injury.\n\n\n\n\nE\n\nCIM"
   },
   {
-    "objectID": "disease/resp/bronchospasm.html#prognosis",
-    "href": "disease/resp/bronchospasm.html#prognosis",
-    "title": "Bronchospasm",
+    "objectID": "disease/resp/asthma.html#prognosis",
+    "href": "disease/resp/asthma.html#prognosis",
+    "title": "Asthma",
     "section": "Prognosis",
-    "text": "Prognosis"
+    "text": "Prognosis\n\nMortality 10-20% among those requiring invasive ventilation"
   },
   {
-    "objectID": "disease/resp/bronchospasm.html#references",
-    "href": "disease/resp/bronchospasm.html#references",
-    "title": "Bronchospasm",
+    "objectID": "disease/resp/asthma.html#key-studies",
+    "href": "disease/resp/asthma.html#key-studies",
+    "title": "Asthma",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/resp/asthma.html#references",
+    "href": "disease/resp/asthma.html#references",
+    "title": "Asthma",
     "section": "References",
-    "text": "References\n\nWesthorpe RN, Ludbrook GL, Helps SC. Crisis management during anaesthesia: bronchospasm. Qual Saf Health Care. 2005;14(3):e7. doi:10.1136/qshc.2002.004457"
+    "text": "References"
   },
   {
     "objectID": "disease/resp/coad.html#epidemiology-and-risk-factors",
@@ -12948,6 +13039,377 @@
     "title": "Human Immunodeficiency Virus",
     "section": "References",
     "text": "References\n\nNelson, Ann Marie, Yukari C. Manabe, and Sebastian B. Lucas. “Immune Reconstitution Inflammatory Syndrome (IRIS): What Pathologists Should Know.” Seminars in Diagnostic Pathology, Seminars Issue on HIV-related Disease, 34, no. 4 (July 1, 2017): 340–51. ."
+  },
+  {
+    "objectID": "disease/infective/cap.html#epidemiology-and-risk-factors",
+    "href": "disease/infective/cap.html#epidemiology-and-risk-factors",
+    "title": "Community Acquired Pneumonia",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors\nCAP has an annual incidence of up to 4% of the population:\n\n50% require hospital admission\n\nMortality 10% among the hospitalised group\n\n10% require ICU admission"
+  },
+  {
+    "objectID": "disease/infective/cap.html#pathophysiology",
+    "href": "disease/infective/cap.html#pathophysiology",
+    "title": "Community Acquired Pneumonia",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\n\nAetiology\nThere are vast numbers of potentially causative organisms, however the most common in patients requiring ICU admission are:\n\nViral\n25%, most commonly:\n\nRSV\nInfluenza\n\nS. Pneumoniae\nH. Influenzae\nLegionella spp.\nEnterobacteriaceae spp.\nS. aureus\nPsuedomonas spp.\n\nFactors favouring infection with certain organisms include:\n\nExposures\n\nAnimal\n\nAnimal exposures\nBirds and excreta\nParturient pets or farm animals\nInsect bites\nMice and excreta\nBats and excreta\n\nGeographical factors\n\nTB prevalence\nLocally endemic organisms\n\n\nPatient factors\n\nIVDU\nAlcoholism\nRespiratory disease\n\nCOPD\nCF\nBronchiectasis\n\nOther disease\n\nDiabetes\nSickle cell\nPoor dental hygeine\n\nImmunosuppression\n\n\nDisease factors\n\nSputum smell\nLung abscesses\nEmpyema"
+  },
+  {
+    "objectID": "disease/infective/cap.html#clinical-manifestations",
+    "href": "disease/infective/cap.html#clinical-manifestations",
+    "title": "Community Acquired Pneumonia",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations\nMay be either:\n\nSystemic\n\nFever\nSweats\nRigors\n\nRespiratory\n\nProductive cough\nPleural rub\nInspiratory crepitations"
+  },
+  {
+    "objectID": "disease/infective/cap.html#diagnostic-approach-and-ddx",
+    "href": "disease/infective/cap.html#diagnostic-approach-and-ddx",
+    "title": "Community Acquired Pneumonia",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
+  },
+  {
+    "objectID": "disease/infective/cap.html#investigations",
+    "href": "disease/infective/cap.html#investigations",
+    "title": "Community Acquired Pneumonia",
+    "section": "Investigations",
+    "text": "Investigations\nBloods:\n\nFBE\nUEC\nLFT\nBlood cultures (x2-3)\nHIV status\n\nSputum:\n\n\nAnaerobic culture cannot be performed on sputum due to contamination from other upper respiratory organisms.\n\nTests include:\n\nGram stain\nCulture\nMycoplasma pneumoniae PCR\nChlamydophilia PCR\n\nCollection is ideally:\n\nFrom a deep cough\nTo minimise contamination from upper respiratory tract commensals.\nPrior to antibiotics\n\nRapid transport to laboratory increases chance of detecting fastidious organisms\nCausative organism is likely if:\n\nDominant on gram stain\nHeavy growth on culture\n\n\nUrine:\n\nLegionella antigen\nHighly specific but not sensitive for infection; negative test does not exclude disease.\nPneumococcal antigen\nHighly specific and moderately sensitive.\n\nRadiology:\n\nCXR\nRadiographic infiltrates may be absent in up to 25%.\nCT\nMore sensitive than CXR.\nLung ultrasound"
+  },
+  {
+    "objectID": "disease/infective/cap.html#management",
+    "href": "disease/infective/cap.html#management",
+    "title": "Community Acquired Pneumonia",
+    "section": "Management",
+    "text": "Management\n\nUp to 40% of patients have a polymicrobial infection, so narrowing the spectrum of cover following identification of an organism may result in adequate treatment.\n\nResuscitation:\n\n\nA\nB\n\nSupplemental oxygen\n\n\nSpecific therapy:\n\nPharmacological\n\nAntimicrobial therapy\n\nOften unit or region-specific based on local flora and resistance patterns\n7-10 day course recommended for moderate-severe disease\n\n\nPhysical\nProcedural\n\nSupportive care:\nDisposition:\n\nMarginal and Ineffective Therapies\n\nCorticosteroids\nRoutine use not recommended, may be appropriate with concurrent sepsis."
+  },
+  {
+    "objectID": "disease/infective/cap.html#complications",
+    "href": "disease/infective/cap.html#complications",
+    "title": "Community Acquired Pneumonia",
+    "section": "Complications",
+    "text": "Complications\n\nParapneumonic effusion\n\nUncomplicated effusions resolve with resolution of the underlying infection\nComplex effusions:\n\nDevelop 1-2 weeks after the initial fluid collection\nMay occur with persistent fevers and have organisms on Gram stain\nEssentially empyema-lite.\n\n\nEmpyema\nCollection of pus in the pleural space, usually evolving from a parapneumonic effusion. Antibiotics are adjunctive, and these require drainage either:\n\nPercutaneous\nFirst-line therapy, but difficult to effectively drain extensively loculated collections.\nSurgical\nOpen or VATS drainage is the most effetive tool."
+  },
+  {
+    "objectID": "disease/infective/cap.html#prognosis",
+    "href": "disease/infective/cap.html#prognosis",
+    "title": "Community Acquired Pneumonia",
+    "section": "Prognosis",
+    "text": "Prognosis\nTime until improvement varies:\n\nAverage ~3 days\n7 days in the:\n\nElderly\nBacteraemic\n\n2.5 days in young patients with pneumococcal pneumonia"
+  },
+  {
+    "objectID": "disease/infective/cap.html#key-studies",
+    "href": "disease/infective/cap.html#key-studies",
+    "title": "Community Acquired Pneumonia",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/infective/cap.html#references",
+    "href": "disease/infective/cap.html#references",
+    "title": "Community Acquired Pneumonia",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "disease/infective/hap.html#epidemiology-and-risk-factors",
+    "href": "disease/infective/hap.html#epidemiology-and-risk-factors",
+    "title": "Hospital/Ventilator Acquired Pneumonia",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors\nHAP:\n\nOccurs in 0.5-5% of inpatients\nRisk is increased if:\n\nPost-operative\nIn ICU"
+  },
+  {
+    "objectID": "disease/infective/hap.html#pathophysiology",
+    "href": "disease/infective/hap.html#pathophysiology",
+    "title": "Hospital/Ventilator Acquired Pneumonia",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\nMicroaspiration of organisms colonising the upper respiratory tract.\n\nAetiology"
+  },
+  {
+    "objectID": "disease/infective/hap.html#clinical-manifestations",
+    "href": "disease/infective/hap.html#clinical-manifestations",
+    "title": "Hospital/Ventilator Acquired Pneumonia",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations"
+  },
+  {
+    "objectID": "disease/infective/hap.html#diagnostic-approach-and-ddx",
+    "href": "disease/infective/hap.html#diagnostic-approach-and-ddx",
+    "title": "Hospital/Ventilator Acquired Pneumonia",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
+  },
+  {
+    "objectID": "disease/infective/hap.html#investigations",
+    "href": "disease/infective/hap.html#investigations",
+    "title": "Hospital/Ventilator Acquired Pneumonia",
+    "section": "Investigations",
+    "text": "Investigations\nBlood:\n\nFBE\nWCC may increase or decrease.\nProcalcitonin\nMay have a role in timing deescalation of antibiotics.\nBlood cultures\n\nSputum:\n\nMore complex in the intubated patient\nOptions include:\n\nTracheal aspirate\nIdentify potentially causative organisms but is not quantitative.\nBronchial washings\nBronchoalveolar Lavage\n\n\nRadiology:\n\nCXR\n\n\nInfiltrates required for diagnosis is many guidelines\nAppearance usually worsens in initial period, even with institution of appropriate antibiotics\nFeatures of concern are:\n\nCavitation\nPleural effusion\n\nRadiographic improvement lags behind clinical response"
+  },
+  {
+    "objectID": "disease/infective/hap.html#management",
+    "href": "disease/infective/hap.html#management",
+    "title": "Hospital/Ventilator Acquired Pneumonia",
+    "section": "Management",
+    "text": "Management\nResuscitation:\n\n\nA\n\nIntubation may be required\n\nB\n\nSupplmental oxygen\n\nC\n\nHaemodynamic support if concurrent sepsis\n\n\nSpecific therapy:\n\n\nRisk factors for MDR include:\n\nDisease\n\nImmunosupression\nBronchiectasis\nSeptic shock\nARDS\n\nTreatment\n\nPrior IV ABx in previous 90 days\nHospitalisation >5 days\nRRT\n\nEnvironmental\n\nHigh local MDR burden\n\n\n\nAntimicrobial therapy\n\n\n7 day course recommended to reduce subsequent MDR pneumonias.\n2-3 days until clinical response seen is usual\nIf failing to respond, consider:\n\nWrong bug\nRepeat cultures.\nWrong drug\nEnsure sensitivity of organism to the antibiotic beingused.\nWrong dose\nAppropirate for patient weight.\nSequestration\nAbscess cavity or similar\nPatient factors\n\nImmunosuppression\nFrailty\n\n\nNo MDR risk factors\nConsider:\n\nTazocin 4.5g Q6-8H\nCefepime 2g Q8H\nMeropenem 1g Q8H\n\nMDR risk factors\nConsider one of each of:\n\nAntipseudomonal broad spectrum agent\nAs above.\nAdditional gram negative cover\nDecreases Risk that pathogen is resistant to the primary agent.\n\nAminoglycoside 15-20mg Q24H\nCiprofloxacin 400mg Q8H\nLevofloxacin 750mg Q24H\n\nMRSA cover:\n\nLinezolid 600mg Q12H\nVancomycin\n\n\n\n\nPrevention:\n\nA\n\nNurse 30° head up to decrease risk of microaspiration\nOral care Q4H with chlorhexidine mouthwash BD\nUse subglottic suctioning\nUse closed suction circuits\nAvoid non-essential suctioning\nMinimise changes of ventilation equipment\n\nSuction cathethers\nHumidifiers\nCircuit\n\n\nB\n\nMinimise duration of mechanical ventilation\n\nE\n\nEarly mobilisation\n\n\n\nMarginal and Ineffective Therapies"
+  },
+  {
+    "objectID": "disease/infective/hap.html#complications",
+    "href": "disease/infective/hap.html#complications",
+    "title": "Hospital/Ventilator Acquired Pneumonia",
+    "section": "Complications",
+    "text": "Complications\n\nDeath\nAttributable mortality is low.\nIncreased Ventilator days and ICU length of stay\nParapneumonic effusion\n\nUncomplicated effusions resolve with resolution of the underlying infection\nComplex effusions:\n\nDevelop 1-2 weeks after the initial fluid collection\nMay occur with persistent fevers and have organisms on Gram stain\nEssentially empyema-lite.\n\n\nEmpyema\nCollection of pus in the pleural space, usually evolving from a parapneumonic effusion. Antibiotics are adjunctive, and these require drainage either:\n\nPercutaneous\nFirst-line therapy, but difficult to effectively drain extensively loculated collections.\nSurgical\nOpen or VATS drainage is the most effetive tool."
+  },
+  {
+    "objectID": "disease/infective/hap.html#prognosis",
+    "href": "disease/infective/hap.html#prognosis",
+    "title": "Hospital/Ventilator Acquired Pneumonia",
+    "section": "Prognosis",
+    "text": "Prognosis"
+  },
+  {
+    "objectID": "disease/infective/hap.html#key-studies",
+    "href": "disease/infective/hap.html#key-studies",
+    "title": "Hospital/Ventilator Acquired Pneumonia",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/infective/hap.html#references",
+    "href": "disease/infective/hap.html#references",
+    "title": "Hospital/Ventilator Acquired Pneumonia",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "disease/infective/aspergillosis.html#epidemiology-and-risk-factors",
+    "href": "disease/infective/aspergillosis.html#epidemiology-and-risk-factors",
+    "title": "Aspergillosis",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors\nMajor risk factors include:\n\nDisease\n\nCOPD\nDecompensated CLD\n\nEnvironmental\n\nConstruction site exposure"
+  },
+  {
+    "objectID": "disease/infective/aspergillosis.html#pathophysiology",
+    "href": "disease/infective/aspergillosis.html#pathophysiology",
+    "title": "Aspergillosis",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\n\nAetiology"
+  },
+  {
+    "objectID": "disease/infective/aspergillosis.html#clinical-manifestations",
+    "href": "disease/infective/aspergillosis.html#clinical-manifestations",
+    "title": "Aspergillosis",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations"
+  },
+  {
+    "objectID": "disease/infective/aspergillosis.html#diagnostic-approach-and-ddx",
+    "href": "disease/infective/aspergillosis.html#diagnostic-approach-and-ddx",
+    "title": "Aspergillosis",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
+  },
+  {
+    "objectID": "disease/infective/aspergillosis.html#investigations",
+    "href": "disease/infective/aspergillosis.html#investigations",
+    "title": "Aspergillosis",
+    "section": "Investigations",
+    "text": "Investigations"
+  },
+  {
+    "objectID": "disease/infective/aspergillosis.html#management",
+    "href": "disease/infective/aspergillosis.html#management",
+    "title": "Aspergillosis",
+    "section": "Management",
+    "text": "Management\nResuscitation:\n\nABC approach. Comment on team coordination and clinical priorities. Specific therapy:\n\nPharmacological\nPhysical\nProcedural\n\nSupportive care:\nDisposition:\n\nMarginal and Ineffective Therapies"
+  },
+  {
+    "objectID": "disease/infective/aspergillosis.html#anaesthetic-considerations",
+    "href": "disease/infective/aspergillosis.html#anaesthetic-considerations",
+    "title": "Aspergillosis",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "disease/infective/aspergillosis.html#complications",
+    "href": "disease/infective/aspergillosis.html#complications",
+    "title": "Aspergillosis",
+    "section": "Complications",
+    "text": "Complications"
+  },
+  {
+    "objectID": "disease/infective/aspergillosis.html#prognosis",
+    "href": "disease/infective/aspergillosis.html#prognosis",
+    "title": "Aspergillosis",
+    "section": "Prognosis",
+    "text": "Prognosis"
+  },
+  {
+    "objectID": "disease/infective/aspergillosis.html#key-studies",
+    "href": "disease/infective/aspergillosis.html#key-studies",
+    "title": "Aspergillosis",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/infective/aspergillosis.html#references",
+    "href": "disease/infective/aspergillosis.html#references",
+    "title": "Aspergillosis",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "disease/infective/pjp.html#epidemiology-and-risk-factors",
+    "href": "disease/infective/pjp.html#epidemiology-and-risk-factors",
+    "title": "Pneumocystis Jirovecii Pneumonia",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors"
+  },
+  {
+    "objectID": "disease/infective/pjp.html#pathophysiology",
+    "href": "disease/infective/pjp.html#pathophysiology",
+    "title": "Pneumocystis Jirovecii Pneumonia",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\n\nAetiology"
+  },
+  {
+    "objectID": "disease/infective/pjp.html#clinical-manifestations",
+    "href": "disease/infective/pjp.html#clinical-manifestations",
+    "title": "Pneumocystis Jirovecii Pneumonia",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations\nUsually insidious:\n\nNon-productive cough\nDyspnoea\nFever\nFatigue\nWeight loss\nCrepitations are rare"
+  },
+  {
+    "objectID": "disease/infective/pjp.html#diagnostic-approach-and-ddx",
+    "href": "disease/infective/pjp.html#diagnostic-approach-and-ddx",
+    "title": "Pneumocystis Jirovecii Pneumonia",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx\n\nAlternative diagnosis for respiratory failure is present in ~15%"
+  },
+  {
+    "objectID": "disease/infective/pjp.html#investigations",
+    "href": "disease/infective/pjp.html#investigations",
+    "title": "Pneumocystis Jirovecii Pneumonia",
+    "section": "Investigations",
+    "text": "Investigations\nBloods:\n\nIncreased LDH\nCommon, non-specific.\n\nRadiology:\n\nCXR\n\nNormal in 10%\nPerihilar and interstitial shadowing\nOften subtle and missed.\n\n\nSputum:\n\n\nOrganisms persist for days or weeks, so unlike many other infections, treatment can start prior to sampling if diagnostic suspicion is high enough.\n\nAdequate non-invasive sampling requires induced sputum\n\nHypertonic saline nebuliser provokes bronchorrhoea and extensive coughing\nTime consuming\nRequires good operator skill\n\nBronchoscopy with BAL\nDiagnostic in >90%."
+  },
+  {
+    "objectID": "disease/infective/pjp.html#management",
+    "href": "disease/infective/pjp.html#management",
+    "title": "Pneumocystis Jirovecii Pneumonia",
+    "section": "Management",
+    "text": "Management\nResuscitation:\n\nABC approach. Comment on team coordination and clinical priorities. Specific therapy:\n\nPharmacological\n\nAntimicrobials\n\nTrimethoprim/Sulphamethoxazole (cotrimoxazole) 20+100mg/kg daily for 3 weeks\nDecrease By 25% if WCC falls.\nPentamidine 4mg/kg IV daily\nIf cotrimoxazole not tolerated.\n\nCorticosteroids\nFor patients with HIV infection.\n\nPrednisolone\n\n40mg BD for 5 days\n20mg BD for 5 days\n20mg daily until antibiotic treatment completed\n\n\n\nPhysical\nProcedural\n\nSupportive care:\nDisposition:\n\nMarginal and Ineffective Therapies"
+  },
+  {
+    "objectID": "disease/infective/pjp.html#anaesthetic-considerations",
+    "href": "disease/infective/pjp.html#anaesthetic-considerations",
+    "title": "Pneumocystis Jirovecii Pneumonia",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "disease/infective/pjp.html#complications",
+    "href": "disease/infective/pjp.html#complications",
+    "title": "Pneumocystis Jirovecii Pneumonia",
+    "section": "Complications",
+    "text": "Complications"
+  },
+  {
+    "objectID": "disease/infective/pjp.html#prognosis",
+    "href": "disease/infective/pjp.html#prognosis",
+    "title": "Pneumocystis Jirovecii Pneumonia",
+    "section": "Prognosis",
+    "text": "Prognosis"
+  },
+  {
+    "objectID": "disease/infective/pjp.html#key-studies",
+    "href": "disease/infective/pjp.html#key-studies",
+    "title": "Pneumocystis Jirovecii Pneumonia",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/infective/pjp.html#references",
+    "href": "disease/infective/pjp.html#references",
+    "title": "Pneumocystis Jirovecii Pneumonia",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "disease/infective/tb.html#epidemiology-and-risk-factors",
+    "href": "disease/infective/tb.html#epidemiology-and-risk-factors",
+    "title": "Tuberculosis",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors"
+  },
+  {
+    "objectID": "disease/infective/tb.html#pathophysiology",
+    "href": "disease/infective/tb.html#pathophysiology",
+    "title": "Tuberculosis",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\n\nAetiology"
+  },
+  {
+    "objectID": "disease/infective/tb.html#clinical-manifestations",
+    "href": "disease/infective/tb.html#clinical-manifestations",
+    "title": "Tuberculosis",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations\nSystemic:\n\nFever\nSweating\nWeight loss\nAnorexia\n\nRespiratory:\n\nProductive cough\nDyspnoea\nLocalised wheezing\nApical crepitations\nPersistent pneumonias\nSpontaneous pneumothorax\nPleural effusions"
+  },
+  {
+    "objectID": "disease/infective/tb.html#diagnostic-approach-and-ddx",
+    "href": "disease/infective/tb.html#diagnostic-approach-and-ddx",
+    "title": "Tuberculosis",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
+  },
+  {
+    "objectID": "disease/infective/tb.html#investigations",
+    "href": "disease/infective/tb.html#investigations",
+    "title": "Tuberculosis",
+    "section": "Investigations",
+    "text": "Investigations\nRadiology:\n\nCXR\nVery sensitive and a normal CXR almost excludes TB, except in:\n\nHIV +ve patients\nEarly apical disease\n\n\nSputum:\n\nExceedingly difficult to culture\nMultiple samples should be collected across different days\nRequest:\n\nFluorescent microscopy for AFB\nCulture\n\n\nBronchoscopy:\n\nBAL\nBronchial biopsy\nMay be indicated if high clinical suspicion and negative smear."
+  },
+  {
+    "objectID": "disease/infective/tb.html#management",
+    "href": "disease/infective/tb.html#management",
+    "title": "Tuberculosis",
+    "section": "Management",
+    "text": "Management\nSpecific therapy:\n\nPharmacological\nCombination of 4 antimicrobials requried for treatment, divided into:\n\nInitial phase\n8 weeks of:\n\nRifampacin 450-600mg daily\nIsoniazid 300mg\nPyrazinamide 1.5-2g daily\nEthambutol 15mg/kg daily\nMay cause visual disturbances; should be restricted to patients with reasonable acuity and ability to report disturbances.\n\nContinuation phase\n\nPhysical\n\nInfection control measures\n\nTreat as contagious if:\n\nActive coughing\nPositive AFB smear\n<2 weeks of treatment (of non-resistant strains)\n\nShould be managed in negative-pressure isolation\n\n\n\n\nMarginal and Ineffective Therapies"
+  },
+  {
+    "objectID": "disease/infective/tb.html#anaesthetic-considerations",
+    "href": "disease/infective/tb.html#anaesthetic-considerations",
+    "title": "Tuberculosis",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "disease/infective/tb.html#complications",
+    "href": "disease/infective/tb.html#complications",
+    "title": "Tuberculosis",
+    "section": "Complications",
+    "text": "Complications\n\nDeath\n\n25% in those requiring ICU\n50% in those requiring mechanical ventilation"
+  },
+  {
+    "objectID": "disease/infective/tb.html#prognosis",
+    "href": "disease/infective/tb.html#prognosis",
+    "title": "Tuberculosis",
+    "section": "Prognosis",
+    "text": "Prognosis"
+  },
+  {
+    "objectID": "disease/infective/tb.html#key-studies",
+    "href": "disease/infective/tb.html#key-studies",
+    "title": "Tuberculosis",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/infective/tb.html#references",
+    "href": "disease/infective/tb.html#references",
+    "title": "Tuberculosis",
+    "section": "References",
+    "text": "References"
   },
   {
     "objectID": "disease/infective/necfas.html#epidemiology-and-risk-factors",
