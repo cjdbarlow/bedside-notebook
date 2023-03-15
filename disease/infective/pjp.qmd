@@ -1,0 +1,105 @@
+# Pneumocystis Jirovecii Pneumonia
+
+:::info
+*Pneumocystis jirovecii* was previously known as *Pneumocystis carinii*, and was also classified as a protozoan and not a fungus.
+
+It is therefore sometimes still referred to by the "PCP" acronym.
+:::
+
+Severe fungal pneumonia caused the PJP organism, which is essentially confined to the severely immunocompromised:
+
+* HIV
+* Transplant recipients
+* Haematological malignancy
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Manifestations
+
+Usually insidious:
+
+* Non-productive cough
+* Dyspnoea
+* Fever
+* Fatigue
+* Weight loss
+
+
+* Crepitations are rare
+
+## Diagnostic Approach and DDx
+
+* Alternative diagnosis for respiratory failure is present in ~15%
+
+## Investigations
+
+Bloods:
+
+* Increased LDH\
+Common, non-specific.
+
+
+Radiology:
+
+* CXR
+    * Normal in 10%
+    * Perihilar and interstitial shadowing\
+    Often subtle and missed.
+    
+
+Sputum:
+
+:::column-margin
+Organisms **persist** for days or weeks, so unlike many other infections, treatment can start prior to sampling if diagnostic suspicion is high enough.
+:::
+
+* Adequate non-invasive sampling requires **induced sputum**
+    * Hypertonic saline nebuliser provokes bronchorrhoea and extensive coughing
+    * Time consuming
+    * Requires good operator skill
+* Bronchoscopy with BAL\
+Diagnostic in >90%.   
+
+## Management
+
+**Resuscitation**:\
+
+ABC approach. Comment on team coordination and clinical priorities.
+**Specific therapy**:
+
+* Pharmacological
+    * Antimicrobials
+        * Trimethoprim/Sulphamethoxazole (cotrimoxazole) 20+100mg/kg daily for 3 weeks\
+        Decrease By 25% if WCC falls.
+        * Pentamidine 4mg/kg IV daily\
+        If cotrimoxazole not tolerated.
+    * Corticosteroids\
+    For patients with HIV infection.
+        * Prednisolone
+            * 40mg BD for 5 days
+            * 20mg BD for 5 days
+            * 20mg daily until antibiotic treatment completed
+* Physical
+* Procedural
+
+**Supportive care**:
+
+**Disposition**:
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+---
+
+## References

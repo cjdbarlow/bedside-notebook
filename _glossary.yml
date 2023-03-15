@@ -6,6 +6,7 @@ ACTH: Adrenocorticotropic Hormone
 ADH: Anti-Diuretic Hormone
 ADP: Adenosine diphosphate
 AF: Atrial Fibrillation
+AFB: Acid-Fast Bacilli
 AIDS: Acquired Immunodeficiency Syndrome
 ALF: Acute Liver Failure
 ANP: Atrial Natriuretic Peptide
@@ -64,6 +65,7 @@ GFR: Glomerular Filtration Rate
 GH: Growth Hormone
 GRV: Gastric Residual Volume
 HAART: Highly active antiretroviral therapy
+HAP: Hospital-Acquired Pneumonia
 Hb: Haemoglobin
 HCM: Hypertrophic Cardiomyopathy
 HEPA: High-Efficiency Particulate Arrestance
@@ -105,6 +107,7 @@ MAC: Minimum Alveolar Concentration
 MALT: Mucosa-Associated Lymphoid Tissue
 MAP: Mean Arterial Pressure
 MCA: Middle Cerebral Artery
+MDR: Multidrug Resistant Organism
 MLAC: Minimum Local Anaesthetic Concentration
 MMCAS: Malignant Middle Cerebral Artery Infarction Syndrome
 MODS: Multiorgan Dysfunction Syndrome
@@ -142,6 +145,7 @@ PEEP: Positive End-Expiratory Pressure
 PEEPi: Intrinsic Positive End-Expiratory Pressure
 PEFR: Peak Expiratory Flow Rate
 PFO: Patent Foramen Ovale
+PJP: Pneumocystis Jirovecii Pneumonia
 PN: Parenteral Nutrition
 Pplat: Plateau Pressure
 PPV: Pulse Pressure Variation
@@ -187,6 +191,7 @@ TPN: Total Parental Nutrition
 TSH: Thyroid Stimulating Hormone
 UEC: Urea/Electrolytes/Creatinine
 UFH: Unfractionated Heparin
+VAP: Ventilator Associated Pneumonia
 VF: Ventricular Fibrillation
 VIE: Vacuum Insulated Evaporator
 VILI: Ventilator Induced Lung Injury
@@ -196,6 +201,7 @@ VRG: Ventral Respiratory Group
 VSD: Ventricular Septal Defect
 Vt: Tidal Volume
 VT: Ventricular Tachycardia
+WCC: White Cell Count
 WFNS: World Federation of Neurosurgical Societies
 ZEEP: Zero End-Expiratory Pressure
 ---

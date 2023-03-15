@@ -473,7 +473,7 @@ book:
         #   chapters:
             # PTx
             # HTx
-            #Effusion
+            # Effusion
         # - part: "Chest wall"
         #   chapters:
             # Diaphragmatic palsy
@@ -737,11 +737,14 @@ book:
             # TSS
             # Tetanus
             # Botulism
-        # - part: "Respiratory"
-        #   chapters:
+        - part: "Respiratory"
+          chapters:
+            - disease/infective/cap.qmd
+            - disease/infective/hap.qmd
+            - disease/infective/aspergillosis.qmd
+            - disease/infective/pjp.qmd  
+            - disease/infective/tb.qmd
             # Epiglottitis
-            # CAP
-            # HAP/VAP
             # Bronchitis
         # - part: "CNS"
         #   chapters:

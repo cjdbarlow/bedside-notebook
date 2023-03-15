@@ -1,0 +1,198 @@
+# Community Acquired Pneumonia
+
+Infection of pulmonary parenchyma in a patient who was not hospitalised prior to the onset of symptoms, with both:
+
+:::column-margin
+Systemic symptoms are much less common in the elderly and may be absent. Non-respiratory symptoms may also be present.
+:::
+
+* Symptoms of acute infection
+* Evidence of pulmonary infiltrate
+    * Radiographic
+    * Clinical\
+    Crepitations, etc.
+     
+
+## Epidemiology and Risk Factors
+
+CAP has an annual incidence of up to 4% of the population:
+
+* 50% require hospital admission
+    * Mortality 10% among the hospitalised group
+* 10% require ICU admission
+
+
+## Pathophysiology
+
+### Aetiology
+
+There are vast numbers of potentially causative organisms, however the most common in patients requiring ICU admission are:
+
+* Viral\
+25%, most commonly:
+    * RSV
+    * Influenza
+* ***S. Pneumoniae***
+* *H. Influenzae*
+* *Legionella* spp.
+* *Enterobacteriaceae* spp.
+* *S. aureus*
+* *Psuedomonas* spp.
+
+
+Factors favouring infection with certain organisms include:
+
+* Exposures
+    * Animal
+        * Animal exposures
+        * Birds and excreta
+        * Parturient pets or farm animals
+        * Insect bites
+        * Mice and excreta
+        * Bats and excreta
+    * Geographical factors
+        * TB prevalence
+        * Locally endemic organisms
+* Patient factors
+    * IVDU
+    * Alcoholism 
+    * Respiratory disease
+        * COPD
+        * CF
+        * Bronchiectasis
+    * Other disease
+        * Diabetes
+        * Sickle cell
+        * Poor dental hygeine
+    * Immunosuppression  
+* Disease factors
+    * Sputum smell
+    * Lung abscesses
+    * Empyema
+
+
+## Clinical Manifestations
+
+May be either:
+
+* Systemic
+    * Fever
+    * Sweats
+    * Rigors
+* Respiratory
+    * Productive cough
+    * Pleural rub
+    * Inspiratory crepitations  
+
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+Bloods:
+
+* FBE
+* UEC
+* LFT
+* Blood cultures (x2-3)
+* HIV status
+
+
+Sputum:
+
+:::column-margin
+Anaerobic culture cannot be performed on sputum due to contamination from other upper respiratory organisms.
+:::
+
+* Tests include:
+    * Gram stain
+    * Culture
+    * *Mycoplasma pneumoniae* PCR
+    * *Chlamydophilia* PCR
+* Collection is ideally:
+    * From a **deep cough**\
+    To minimise contamination from upper respiratory tract commensals.
+    * Prior to antibiotics
+* Rapid transport to laboratory increases chance of detecting fastidious organisms
+* Causative organism is likely if:
+    * Dominant on gram stain
+    * Heavy growth on culture
+
+
+Urine:
+
+* Legionella antigen\
+Highly specific but not sensitive for infection; negative test does not exclude disease.
+* Pneumococcal antigen\
+Highly specific and moderately sensitive.
+
+Radiology:
+
+* CXR\
+Radiographic infiltrates may be absent in up to 25%.
+* CT\
+More sensitive than CXR.
+* Lung ultrasound
+
+## Management
+
+:::info
+Up to 40% of patients have a polymicrobial infection, so narrowing the spectrum of cover following identification of an organism may result in adequate treatment.
+:::
+
+**Resuscitation**:\
+
+* A
+* B
+    * Supplemental oxygen
+
+**Specific therapy**:
+
+* Pharmacological
+     * Antimicrobial therapy
+        * Often unit or region-specific based on local flora and resistance patterns
+        * 7-10 day course recommended for moderate-severe disease
+* Physical
+* Procedural
+
+**Supportive care**:
+
+**Disposition**:
+
+### Marginal and Ineffective Therapies
+
+* Corticosteroids\
+Routine use not recommended, may be appropriate with concurrent sepsis.
+
+
+## Complications
+
+* Parapneumonic effusion
+    * Uncomplicated effusions resolve with resolution of the underlying infection
+    * Complex effusions:
+        * Develop 1-2 weeks after the initial fluid collection
+        * May occur with persistent fevers and have organisms on Gram stain\
+        Essentially empyema-lite.
+* Empyema\
+Collection of pus in the pleural space, usually evolving from a parapneumonic effusion. Antibiotics are adjunctive, and these require drainage either:
+    * Percutaneous\
+    First-line therapy, but difficult to effectively drain extensively loculated collections.
+    * Surgical\
+    Open or VATS drainage is the most effetive tool.
+
+## Prognosis
+
+Time until improvement varies:
+
+* Average ~3 days
+* 7 days in the:
+    * Elderly
+    * Bacteraemic
+* 2.5 days in young patients with pneumococcal pneumonia 
+
+## Key Studies
+
+
+---
+
+## References

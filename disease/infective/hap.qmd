@@ -1,0 +1,172 @@
+# Hospital/Ventilator Acquired Pneumonia
+
+Pneumonia (infection with chest infiltrate) occuring 48 hours after:
+
+* Hospital admission (HAP)
+* Intubation (VAP)
+
+:::column-margin
+Clinical signs of respiratory infection without CXR infiltrates are suggestive of tracheobronchitis.
+:::
+
+## Epidemiology and Risk Factors
+
+HAP:
+
+* Occurs in 0.5-5% of inpatients
+* Risk is increased if:
+    * Post-operative
+    * In ICU
+
+
+## Pathophysiology
+
+Microaspiration of organisms colonising the upper respiratory tract.
+
+### Aetiology
+
+## Clinical Manifestations
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+Blood:
+
+* FBE\
+WCC may increase or decrease.
+* Procalcitonin\
+May have a role in timing deescalation of antibiotics.
+* Blood cultures
+
+Sputum:
+
+* More complex in the intubated patient
+* Options include:
+    * Tracheal aspirate\
+    Identify potentially causative organisms but is not quantitative.
+    * Bronchial washings
+    * Bronchoalveolar Lavage
+
+
+Radiology:
+
+* CXR\
+    * Infiltrates required for diagnosis is many guidelines
+    * Appearance usually worsens in initial period, even with institution of appropriate antibiotics\
+    Features of concern are:
+        * Cavitation
+        * Pleural effusion
+    * Radiographic improvement lags behind clinical response
+
+## Management
+
+**Resuscitation**:\
+
+* A
+    * Intubation may be required
+* B
+    * Supplmental oxygen
+* C
+    * Haemodynamic support if concurrent sepsis 
+
+
+**Specific therapy**:
+
+:::column-margin
+
+Risk factors for MDR include:
+
+* Disease
+    * Immunosupression
+    * Bronchiectasis
+    * Septic shock
+    * ARDS
+* Treatment
+    * Prior IV ABx in previous 90 days
+    * Hospitalisation >5 days
+    * RRT
+* Environmental
+    * High local MDR burden 
+:::
+
+* Antimicrobial therapy\
+    * **7 day course** recommended to reduce subsequent MDR pneumonias.
+    * 2-3 days until clinical response seen is usual
+    * If **failing to respond**, consider:
+        * Wrong bug\
+        Repeat cultures.
+        * Wrong drug\
+        Ensure sensitivity of organism to the antibiotic beingused.
+        * Wrong dose\
+        Appropirate for patient weight.
+        * Sequestration\
+        Abscess cavity or similar
+        * Patient factors
+            * Immunosuppression
+            * Frailty
+    * No MDR risk factors\
+    Consider:
+        * Tazocin 4.5g Q6-8H
+        * Cefepime 2g Q8H
+        * Meropenem 1g Q8H
+    * MDR risk factors\
+    Consider one of each of:
+        * Antipseudomonal broad spectrum agent\
+        As above.
+        * Additional gram negative cover\
+        Decreases Risk that pathogen is resistant to the primary agent.
+            * Aminoglycoside 15-20mg Q24H
+            * Ciprofloxacin 400mg Q8H
+            * Levofloxacin 750mg Q24H
+        * MRSA cover:
+            * Linezolid 600mg Q12H
+            * Vancomycin 
+              
+
+**Prevention**:
+
+* A
+    * Nurse 30° head up to decrease risk of microaspiration
+    * Oral care Q4H with chlorhexidine mouthwash BD
+    * Use subglottic suctioning
+    * Use closed suction circuits
+    * Avoid non-essential suctioning
+    * Minimise changes of ventilation equipment
+        * Suction cathethers
+        * Humidifiers
+        * Circuit
+* B
+    * Minimise duration of mechanical ventilation
+* E
+    * Early mobilisation 
+
+### Marginal and Ineffective Therapies
+
+
+## Complications
+
+* Death\
+Attributable mortality is low.
+* Increased Ventilator days and ICU length of stay
+* Parapneumonic effusion
+    * Uncomplicated effusions resolve with resolution of the underlying infection
+    * Complex effusions:
+        * Develop 1-2 weeks after the initial fluid collection
+        * May occur with persistent fevers and have organisms on Gram stain\
+        Essentially empyema-lite.
+* Empyema\
+Collection of pus in the pleural space, usually evolving from a parapneumonic effusion. Antibiotics are adjunctive, and these require drainage either:
+    * Percutaneous\
+    First-line therapy, but difficult to effectively drain extensively loculated collections.
+    * Surgical\
+    Open or VATS drainage is the most effetive tool.
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
