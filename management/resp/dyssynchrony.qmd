@@ -1,0 +1,66 @@
+# Ventilator Dyssynchrony
+
+Ventilator dyssynchrony is an uncoordinated interaction between the patient and the ventilator during a spontaneous (or partially spontaneous, e.g. SIMV) mode of breathing, that leads to:
+
+* Agitation
+* Increased Work of breathing
+* Splinting
+    * Hypoxia
+* Increased Duration of ventilation
+
+
+## Failure to Trigger
+
+Failure of a ventilator to respond to a patients respirtory effort. May be due to:
+
+* Trigger setting too high
+    * Reducing the trigger may help, but may also lead to over-triggering
+    * Changing from a pressure to a flow trigger may be beneficial
+        * Pressure trigger generally requires more work but is more controllable by the patient
+        * Flow trigger is more comfortable but greater risk of over-triggering\
+        Flow triggers are more modern and used by default on most newer ventilators.
+* High PEEPi\
+High intrinsic PEEP increases inspiratory threshold work, making it harder for a the patient to reach the prescribed trigger. Increasing extrinsic PEEP to **80% of PEEPi** decreases the gap and makes breath triggering easier.
+
+
+## Over-triggering
+
+Inappropriate delivery of a spontaneous breath. May be due to:
+
+* Trigger too low
+* Distorted measurements
+    * Cardiogenic oscillations\
+    Movement of tracheal gas caused by cardiac activity may reach the triggering threshold.
+    * Condensation
+    * Circuit leak
+* Diaphragmatic pacing\
+Inappropriate pacing of the diaphgram by a cardiac pacemaker (usually temporary epicardial leads).
+
+
+## Flow Starvation
+
+A patient will expect an inspiratory flow proportionate to their work of breathing. If the prescribed flow rate is too low, then the patient:
+
+* Attempts to augment inspiration with further negative pressure effort\
+The inspiratory pressure waveform becomes "scalloped", with a negative deflection in the positive pressure breath.
+
+
+## Double Triggering
+
+Delivery of two pressure-supported breaths during one inspiratory effort. This occurs when:
+
+* The **prescribed inspiratory time** is **shorter** than the **neural inspiratory time** expected\
+Inspiratory effort continues whilst the inspiratory valve is closed, so there is negative pressure in the circuit but no flow.
+* Inspiratory effort continues once the next trigger window is reached
+    * A second supported breath is delivered\
+    This breath is usually low-volume, because it is occurring with high baseline lung volume.
+
+
+## Reverse Triggering
+
+Occurs when a controlled breath produces involuntary patient inspiratory effort.
+
+
+---
+
+## References

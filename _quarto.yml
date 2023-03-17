@@ -110,14 +110,16 @@ book:
           chapters:
             - part: "Ventilation"
               chapters:
-              - management/resp/ventilation.qmd
+              - part: "Concepts"
+                chapters:
+                  - management/resp/ventilation.qmd
+                  - management/resp/niv.qmd
+                  - management/resp/dyssynchrony.qmd
+                  - management/resp/weaning.qmd
+                  - management/resp/olv.qmd
               - part: "Modes"
                 chapters:
                   - management/resp/aprv.qmd
-              - part: "Interventions"
-                chapters:
-                  - management/resp/weaning.qmd
-                  - management/resp/olv.qmd
             - part: "Equipment"
               chapters:
                 - management/resp/hyperbaric.qmd

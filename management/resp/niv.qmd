@@ -1,0 +1,94 @@
+# Non-Invasive Ventilation
+
+Mechanical ventilatory support delivered without an ETT, usually via delivery of positive pressure to the airway. Any invasive mode of ventilation can be given non-invasively:
+
+:::column-margin
+The oldest form of NIV is negative-pressure, and is the iron lung.
+:::
+
+* CPAP\
+Administration of a single pressure throughout the respiratory cycle.
+* PSV\
+Administration of pressure that is provided only when inspiratory flow is detected.
+* Bilevel/Bipap\
+Combination of CPAP and PSV.
+
+
+## Indications
+
+Acute:
+
+* Reversible respiratory failure
+    * APO\
+    Decreases LV afterload and increases recruitment.
+        * CPAP ~10cmH~2~O ideal in most
+    * T2RF in COAD\
+    Decreases Mortality and need for intubation, and re-intubation when extubated onto CPAP.
+        * CPAP appropriate for reversible obstruction
+        * Bilevel/PSV (5-20cmH~2~O) for hypercarbia
+        * Mask intolerance higher for COAD than APO
+    * Asthma
+    * Pneumonia\
+    May be preferred in immunosuppressed patients or other groups with very poor outcomes from mechanical ventilation. 
+    * Post-operative
+    * Chest wall trauma
+    
+    
+Chronic:
+
+* OSA
+* Neuromuscular disease
+
+## Contraindications
+
+* Obtundation\
+Risk of aspiration with an unprotected airway.
+* Dysynchrony\
+Patient discomfort or poor mask fit may lead to leaking and failure of pressure to augment appropriately.
+* Inability to clear secretions
+
+## Continuous Positive Airway Pressure
+
+Applies an unchanging positive pressure throughout the respiratory cycle, leading to:
+
+* Decreased Work of breathing\
+Decreases Elastic work by increasing alveolar recruitment. Decreases Inspiratory threshold work of breathing if PEEPi is increased.
+* Increased SpO~2~\
+Via alveolar recruitment.
+* Decreased LV afterload
+
+
+## Pressure Support Ventilation
+
+Inspiration is detected via a flow or pressure trigger, and a positive airway pressure is provided which:
+
+* Increases Vt\
+Leads to increased Va and decreased PaCO~2~.
+* Decreased elastic and resistive work of breathing
+* Induces pulmonary surfactant release
+
+
+
+
+## Anatomy
+
+## Equipment
+
+## Technique
+
+## Complications
+
+* B
+    * Aspiration
+* D
+    * Discomfort
+    * Agitation
+* E
+    * Pressure injuries 
+* G
+    * Gastric distension 
+
+
+---
+
+## References

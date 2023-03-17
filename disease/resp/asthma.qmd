@@ -147,6 +147,8 @@ Patient response over the first **2 hours** of treatment are an important guide 
             * Deteriorating conscious state
         * Initial ventilator settings:
             * Volume control
+            * ZEEP\
+            Recommendations for set PEEP are variable. 0-5cmH~2~O is probably okay, provided set PEEP < PEEPi.
             * Vt 5-7mL/kg
             * RR 8-12
             * Short inspiratory time/High inspiratory flow rate\
@@ -200,6 +202,8 @@ Patient response over the first **2 hours** of treatment are an important guide 
 To initiate gas flow into the lungs, the patient must generate enough inspiratory force such that Palv < Patm.\
 \
 If PEEPi is high, then a *very* negative intrapleural pressure must be generated before Palv is less than Patm and inspiration commences. Application of external PEEP reduces this gradient, and therefore reduces the amount of work performed before inspiration commences (inspiratory threshold work).
+
+Note that this **differs** from the **controlled ventilation settings**, because NIV assumes *spontaneous* breathing. Inspiratory threshold work is irrelevant in fully controlled ventilation.
 :::
 
 
