@@ -613,7 +613,7 @@
     "href": "management/airway/extubation.html#problems-occurring-during-extubation",
     "title": "Extubation",
     "section": "Problems Occurring During Extubation",
-    "text": "Problems Occurring During Extubation\nProblems include:\n\nA\n\nObstruction\n\nLaryngospasm\nMost common cause of post-extubation upper airway obstruction.\nOedema\nParticularly in:\n\nChildren\nProlonged period of intubation\nProne\nLarger ETT to tracheal size\n\nTrauma\nVocal Cord Dysfunction\nParadoxical movement of the vocal cords, which may present as stridor or complete upper airway obstruction.\n\nDiagnosed by visualisation of paradoxical adduction of vocal cords in inspiration\nMore common in:\n\nYoung\nFemale\nUpper respiratory tract infections\nStress\n\n\nVocal Cords Paralysis\n\nDue to vagal nerve injury\n\n\nETT damage\n\nDamaged pilot tube preventing deflation\n\nLaryngeal trauma/oedemma\nCuff herniation\nSurgical fixation\nOf airway device to surrounding structures\n\nB\n\nCoughing\nMay be reduced by placing lignocaine or lignocaine/sodium bicarbonate solution into the ETT cuff, or marinating the ETT cuff in lignocaine prior to intubation.\nBronchospasm\nNegative pulmonary oedema\nPulmonary oedema due to extreme negative intra-alveolar pressure, in turn due to high inspiratory effort against a narrow or closed upper airway (e.g. occluded ETT).\n\nC\n\nCVS instability\nGenerally ↑ MAP and HR, with corresponding ↓ in EF due to a reduction in afterload."
+    "text": "Problems Occurring During Extubation\nProblems include:\n\nA\n\nObstruction\n\nLaryngospasm\nMost common cause of post-extubation upper airway obstruction.\nOedema\nParticularly in:\n\nChildren\nProlonged period of intubation\nProne\nLarger ETT to tracheal size\n\nTrauma\nVocal Cord Dysfunction\nParadoxical movement of the vocal cords, which may present as stridor or complete upper airway obstruction.\n\nDiagnosed by visualisation of paradoxical adduction of vocal cords in inspiration\nMore common in:\n\nYoung\nFemale\nUpper respiratory tract infections\nStress\n\n\nVocal Cords Paralysis\n\nDue to vagal nerve injury\n\n\nETT damage\n\nDamaged pilot tube preventing deflation\n\nLaryngeal trauma/oedemma\nCuff herniation\nSurgical fixation\nOf airway device to surrounding structures\n\nB\n\nCoughing\nMay be reduced by placing lignocaine or lignocaine/sodium bicarbonate solution into the ETT cuff, or marinating the ETT cuff in lignocaine prior to intubation.\nBronchospasm\nNegative pulmonary oedema\nPulmonary oedema due to extreme negative intra-alveolar pressure, in turn due to high inspiratory effort against a narrow or closed upper airway (e.g. occluded ETT.\n\nC\n\nCVS instability\nGenerally ↑ MAP and HR, with corresponding ↓ in EF due to a reduction in afterload."
   },
   {
     "objectID": "management/airway/extubation.html#performing-extubation",
@@ -742,39 +742,109 @@
     "text": "References"
   },
   {
-    "objectID": "management/resp/aprv.html",
-    "href": "management/resp/aprv.html",
-    "title": "Airway Pressure Release Ventilation",
-    "section": "",
-    "text": "Settings\nParameters:\nInitial Settings:\nWeaning:"
-  },
-  {
-    "objectID": "management/resp/aprv.html#indications",
-    "href": "management/resp/aprv.html#indications",
-    "title": "Airway Pressure Release Ventilation",
+    "objectID": "management/resp/niv.html#indications",
+    "href": "management/resp/niv.html#indications",
+    "title": "Non-Invasive Ventilation",
     "section": "Indications",
-    "text": "Indications\n\nRefractory hypoxaemia due to bilateral lung pathology\nClassically ARDS."
+    "text": "Indications\nAcute:\n\nReversible respiratory failure\n\nAPO\nDecreases LV afterload and increases recruitment.\n\nCPAP 10cmH2~O ideal in most\n\nT2RF in COAD\nDecreases Mortality and need for intubation, and re-intubation when extubated onto CPAP.\n\nCPAP appropriate for reversible obstruction\nBilevel/PSV (5-20cmH2O) for hypercarbia\nMask intolerance higher for COAD than APO\n\nAsthma\nPneumonia\nMay be preferred in immunosuppressed patients or other groups with very poor outcomes from mechanical ventilation.\nPost-operative\nChest wall trauma\n\n\nChronic:\n\nOSA\nNeuromuscular disease"
   },
   {
-    "objectID": "management/resp/aprv.html#troubleshooting",
-    "href": "management/resp/aprv.html#troubleshooting",
-    "title": "Airway Pressure Release Ventilation",
-    "section": "Troubleshooting",
-    "text": "Troubleshooting\nHypoxaemia:\n\nUsually indicates under-recruitment\n\n↓ T-low if end-expiratory flow < 75% PEFR\n↑ P-high 1-2cmH2O\n↑ T-high 0.5-1s\n↑ P-low 1-2cmH2O\n\n\nHypercapnoea:\n\nEncourage spontaneous ventilation\n↑ P-high 1-2cmH2O\nAdjust T-High\n↑ May improve recruitment and V/Q matching; ↓ will ↑ release frequency.\n↓ P-low"
+    "objectID": "management/resp/niv.html#contraindications",
+    "href": "management/resp/niv.html#contraindications",
+    "title": "Non-Invasive Ventilation",
+    "section": "Contraindications",
+    "text": "Contraindications\n\nObtundation\nRisk of aspiration with an unprotected airway.\nDysynchrony\nPatient discomfort or poor mask fit may lead to leaking and failure of pressure to augment appropriately.\nInability to clear secretions"
   },
   {
-    "objectID": "management/resp/aprv.html#further-reading",
-    "href": "management/resp/aprv.html#further-reading",
-    "title": "Airway Pressure Release Ventilation",
-    "section": "Further Reading",
-    "text": "Further Reading\n\nPulmcrit has a very nice guideline on APRV"
+    "objectID": "management/resp/niv.html#continuous-positive-airway-pressure",
+    "href": "management/resp/niv.html#continuous-positive-airway-pressure",
+    "title": "Non-Invasive Ventilation",
+    "section": "Continuous Positive Airway Pressure",
+    "text": "Continuous Positive Airway Pressure\nApplies an unchanging positive pressure throughout the respiratory cycle, leading to:\n\nDecreased Work of breathing\nDecreases Elastic work by increasing alveolar recruitment. Decreases Inspiratory threshold work of breathing if PEEPi is increased.\nIncreased SpO2\nVia alveolar recruitment.\nDecreased LV afterload"
   },
   {
-    "objectID": "management/resp/aprv.html#references",
-    "href": "management/resp/aprv.html#references",
-    "title": "Airway Pressure Release Ventilation",
+    "objectID": "management/resp/niv.html#pressure-support-ventilation",
+    "href": "management/resp/niv.html#pressure-support-ventilation",
+    "title": "Non-Invasive Ventilation",
+    "section": "Pressure Support Ventilation",
+    "text": "Pressure Support Ventilation\nInspiration is detected via a flow or pressure trigger, and a positive airway pressure is provided which:\n\nIncreases Vt\nLeads to increased Va and decreased PaCO2.\nDecreased elastic and resistive work of breathing\nInduces pulmonary surfactant release"
+  },
+  {
+    "objectID": "management/resp/niv.html#anatomy",
+    "href": "management/resp/niv.html#anatomy",
+    "title": "Non-Invasive Ventilation",
+    "section": "Anatomy",
+    "text": "Anatomy"
+  },
+  {
+    "objectID": "management/resp/niv.html#equipment",
+    "href": "management/resp/niv.html#equipment",
+    "title": "Non-Invasive Ventilation",
+    "section": "Equipment",
+    "text": "Equipment"
+  },
+  {
+    "objectID": "management/resp/niv.html#technique",
+    "href": "management/resp/niv.html#technique",
+    "title": "Non-Invasive Ventilation",
+    "section": "Technique",
+    "text": "Technique"
+  },
+  {
+    "objectID": "management/resp/niv.html#complications",
+    "href": "management/resp/niv.html#complications",
+    "title": "Non-Invasive Ventilation",
+    "section": "Complications",
+    "text": "Complications\n\nB\n\nAspiration\n\nD\n\nDiscomfort\nAgitation\n\nE\n\nPressure injuries\n\nG\n\nGastric distension"
+  },
+  {
+    "objectID": "management/resp/niv.html#references",
+    "href": "management/resp/niv.html#references",
+    "title": "Non-Invasive Ventilation",
     "section": "References",
-    "text": "References\n\nSpiegel, Rory, and Max Hockstein. Airway Pressure Release Ventilation. Emergency Medicine Clinics of North America 40, no. 3 (August 2022): 489–501. https://doi.org/10.1016/j.emc.2022.05.004."
+    "text": "References"
+  },
+  {
+    "objectID": "management/resp/dyssynchrony.html#failure-to-trigger",
+    "href": "management/resp/dyssynchrony.html#failure-to-trigger",
+    "title": "Ventilator Dyssynchrony",
+    "section": "Failure to Trigger",
+    "text": "Failure to Trigger\nFailure of a ventilator to respond to a patients respirtory effort. May be due to:\n\nTrigger setting too high\n\nReducing the trigger may help, but may also lead to over-triggering\nChanging from a pressure to a flow trigger may be beneficial\n\nPressure trigger generally requires more work but is more controllable by the patient\nFlow trigger is more comfortable but greater risk of over-triggering\nFlow triggers are more modern and used by default on most newer ventilators.\n\n\nHigh PEEPi\nHigh intrinsic PEEP increases inspiratory threshold work, making it harder for a the patient to reach the prescribed trigger. Increasing extrinsic PEEP to 80% of PEEPi decreases the gap and makes breath triggering easier."
+  },
+  {
+    "objectID": "management/resp/dyssynchrony.html#over-triggering",
+    "href": "management/resp/dyssynchrony.html#over-triggering",
+    "title": "Ventilator Dyssynchrony",
+    "section": "Over-triggering",
+    "text": "Over-triggering\nInappropriate delivery of a spontaneous breath. May be due to:\n\nTrigger too low\nDistorted measurements\n\nCardiogenic oscillations\nMovement of tracheal gas caused by cardiac activity may reach the triggering threshold.\nCondensation\nCircuit leak\n\nDiaphragmatic pacing\nInappropriate pacing of the diaphgram by a cardiac pacemaker (usually temporary epicardial leads)."
+  },
+  {
+    "objectID": "management/resp/dyssynchrony.html#flow-starvation",
+    "href": "management/resp/dyssynchrony.html#flow-starvation",
+    "title": "Ventilator Dyssynchrony",
+    "section": "Flow Starvation",
+    "text": "Flow Starvation\nA patient will expect an inspiratory flow proportionate to their work of breathing. If the prescribed flow rate is too low, then the patient:\n\nAttempts to augment inspiration with further negative pressure effort\nThe inspiratory pressure waveform becomes “scalloped”, with a negative deflection in the positive pressure breath."
+  },
+  {
+    "objectID": "management/resp/dyssynchrony.html#double-triggering",
+    "href": "management/resp/dyssynchrony.html#double-triggering",
+    "title": "Ventilator Dyssynchrony",
+    "section": "Double Triggering",
+    "text": "Double Triggering\nDelivery of two pressure-supported breaths during one inspiratory effort. This occurs when:\n\nThe prescribed inspiratory time is shorter than the neural inspiratory time expected\nInspiratory effort continues whilst the inspiratory valve is closed, so there is negative pressure in the circuit but no flow.\nInspiratory effort continues once the next trigger window is reached\n\nA second supported breath is delivered\nThis breath is usually low-volume, because it is occurring with high baseline lung volume."
+  },
+  {
+    "objectID": "management/resp/dyssynchrony.html#reverse-triggering",
+    "href": "management/resp/dyssynchrony.html#reverse-triggering",
+    "title": "Ventilator Dyssynchrony",
+    "section": "Reverse Triggering",
+    "text": "Reverse Triggering\nOccurs when a controlled breath produces involuntary patient inspiratory effort."
+  },
+  {
+    "objectID": "management/resp/dyssynchrony.html#references",
+    "href": "management/resp/dyssynchrony.html#references",
+    "title": "Ventilator Dyssynchrony",
+    "section": "References",
+    "text": "References"
   },
   {
     "objectID": "management/resp/weaning.html#references",
@@ -845,6 +915,41 @@
     "title": "Lung Isolation",
     "section": "References",
     "text": "References\n\nLohser J. Managing Hypoxemia During Minimally Invasive Thoracic Surgery. Anesthesiology Clinics. 2012;30(4):683-697.\nCollins SR, Titus BJ, Campos JH, Blank RS. Lung Isolation in the Patient With a Difficult Airway. Anesth Analg. 2018 Jun;126(6):1968–78."
+  },
+  {
+    "objectID": "management/resp/aprv.html",
+    "href": "management/resp/aprv.html",
+    "title": "Airway Pressure Release Ventilation",
+    "section": "",
+    "text": "Settings\nParameters:\nInitial Settings:\nWeaning:"
+  },
+  {
+    "objectID": "management/resp/aprv.html#indications",
+    "href": "management/resp/aprv.html#indications",
+    "title": "Airway Pressure Release Ventilation",
+    "section": "Indications",
+    "text": "Indications\n\nRefractory hypoxaemia due to bilateral lung pathology\nClassically ARDS."
+  },
+  {
+    "objectID": "management/resp/aprv.html#troubleshooting",
+    "href": "management/resp/aprv.html#troubleshooting",
+    "title": "Airway Pressure Release Ventilation",
+    "section": "Troubleshooting",
+    "text": "Troubleshooting\nHypoxaemia:\n\nUsually indicates under-recruitment\n\n↓ T-low if end-expiratory flow < 75% PEFR\n↑ P-high 1-2cmH2O\n↑ T-high 0.5-1s\n↑ P-low 1-2cmH2O\n\n\nHypercapnoea:\n\nEncourage spontaneous ventilation\n↑ P-high 1-2cmH2O\nAdjust T-High\n↑ May improve recruitment and V/Q matching; ↓ will ↑ release frequency.\n↓ P-low"
+  },
+  {
+    "objectID": "management/resp/aprv.html#further-reading",
+    "href": "management/resp/aprv.html#further-reading",
+    "title": "Airway Pressure Release Ventilation",
+    "section": "Further Reading",
+    "text": "Further Reading\n\nPulmcrit has a very nice guideline on APRV"
+  },
+  {
+    "objectID": "management/resp/aprv.html#references",
+    "href": "management/resp/aprv.html#references",
+    "title": "Airway Pressure Release Ventilation",
+    "section": "References",
+    "text": "References\n\nSpiegel, Rory, and Max Hockstein. Airway Pressure Release Ventilation. Emergency Medicine Clinics of North America 40, no. 3 (August 2022): 489–501. https://doi.org/10.1016/j.emc.2022.05.004."
   },
   {
     "objectID": "management/resp/hyperbaric.html#indications",
@@ -5030,7 +5135,7 @@
     "href": "anaesthesia/ent/principles.html#laryngeal-surgery",
     "title": "Principles of Ear, Nose, and Throat Surgery",
     "section": "Laryngeal Surgery",
-    "text": "Laryngeal Surgery\nAnaesthesia for laryngeal lesions requires understanding the pathology, as this determines:\n\nSurgical approach and technique\nThis dictates the:\n\nPotential options for anaesthetic and airway management\n\nSurgical requirements\n\nLaser\nSee laser safety.\nHead motion/position\nUse of nerve monitoring\nRequires avoidance of muscle relaxation.\nAirway access\nOften airway is inaccessible during surgery.\n\n\nLikelihood of difficult airway\nAirway compromise is common in these patients.\n\n\nGlottic Lesions\n\nLocation\n\nAnterior\nUsually amenable to MLT/ETT if tracheal inspection not required.\nPosterior\nNot amenable to ETT, requires either jet or apnoeic (tubeless) oxygenation.\n\nType of pathology\n\nPapilloma\n\nLaser\nUsually requires surgeon to inspect the entire bronchial tree\n\n\nSurgical technique\nState of airway on completion of surgery\nOften worse:\n\nBlood\nOedema\n\n\n\n\nSubglottic Lesion\n\nLocation\n\nAmenability to tracheostomy\nExtent of lesion\n\nAirway usually improved on completion of surgery\n\n\n\nSupraglottic Lesion\n\nOften straightforward larynx but view impeded by pathology\nOften need some alternative device:\n\nVL\nFOI\nAwake tracheostomy\n\nImaging\nNasoendoscopy\nMethod of surgical treatment\nState of airway on completion of surgery\n\n\n\nNasal Surgery\nTopical vasoconstrictors:\n\nMay precipitate profound hypertension\nBeware ischaemic heart disease.\n\nBest managed with short-acting vasodilators\nConsider short acting β-blockers (e.g. esmolol) in patients already β-blockaded\n\nCocaine\nLess commonly used. Up to 2mg/kg.\nAdrenaline\nCommonly used. Dose will depend on current haemodynamics.\n\nBloodless surgical field:\n\nParticularly important for nasal surgery as this allows easier identification of anatomy and expedites the procedure\nAim:\n\n5-10° head up\nAvoid hypercarbia\nHypotensive anaesthesia\nCombination of lower SBP and HR ~60.\n\nRemifentanil TCI 3-4ng/mL usually excellent option for all of the above\nConsider adding esmolol, hydralazine, clonidine if unable to achieve this despite higher remifentanil use\n\n\n\nNasal obstruction:\n\nMay be difficult o mask ventilate with a closed mouth in this patient population due to the nature of the surgery\nOPA is helpful.\n\nAirway:\n\nRestricted access\nDecide between oral RAE or flexible LMA depending on aspiration risk and comfort level with limited access\nA well-fitting LMA will pool blood above and offer good protection to the airway\n\nLeak can be managed with switching to an alternate size or packing the mouth with a throat pack\nLeak will cause bubbles in the surgical field and be disruptive.\n\n\nAnalgesia:\n\nUsually minimal analgesia requirements post-procedure\n\n\n\nEar Surgery\n\nAvoidance of nitrous\nUsually contraindicated to prevent distension of the middle ear, but may (at times) be requested by the ENT surgeon."
+    "text": "Laryngeal Surgery\nAnaesthesia for laryngeal lesions requires understanding the pathology, as this determines:\n\nSurgical approach and technique\nThis dictates the:\n\nPotential options for anaesthetic and airway management\n\nSurgical requirements\n\nLaser\nSee laser safety.\nHead motion/position\nUse of nerve monitoring\nRequires avoidance of muscle relaxation.\nAirway access\nOften airway is inaccessible during surgery.\n\n\nLikelihood of difficult airway\nAirway compromise is common in these patients.\n\n\nGlottic Lesions\n\nLocation\n\nAnterior\nUsually amenable to MLTETT/ if tracheal inspection not required.\nPosterior\nNot amenable to ETT, requires either jet or apnoeic (tubeless) oxygenation.\n\nType of pathology\n\nPapilloma\n\nLaser\nUsually requires surgeon to inspect the entire bronchial tree\n\n\nSurgical technique\nState of airway on completion of surgery\nOften worse:\n\nBlood\nOedema\n\n\n\n\nSubglottic Lesion\n\nLocation\n\nAmenability to tracheostomy\nExtent of lesion\n\nAirway usually improved on completion of surgery\n\n\n\nSupraglottic Lesion\n\nOften straightforward larynx but view impeded by pathology\nOften need some alternative device:\n\nVL\nFOI\nAwake tracheostomy\n\nImaging\nNasoendoscopy\nMethod of surgical treatment\nState of airway on completion of surgery\n\n\n\nNasal Surgery\nTopical vasoconstrictors:\n\nMay precipitate profound hypertension\nBeware ischaemic heart disease.\n\nBest managed with short-acting vasodilators\nConsider short acting β-blockers (e.g. esmolol) in patients already β-blockaded\n\nCocaine\nLess commonly used. Up to 2mg/kg.\nAdrenaline\nCommonly used. Dose will depend on current haemodynamics.\n\nBloodless surgical field:\n\nParticularly important for nasal surgery as this allows easier identification of anatomy and expedites the procedure\nAim:\n\n5-10° head up\nAvoid hypercarbia\nHypotensive anaesthesia\nCombination of lower SBP and HR ~60.\n\nRemifentanil TCI 3-4ng/mL usually excellent option for all of the above\nConsider adding esmolol, hydralazine, clonidine if unable to achieve this despite higher remifentanil use\n\n\n\nNasal obstruction:\n\nMay be difficult o mask ventilate with a closed mouth in this patient population due to the nature of the surgery\nOPA is helpful.\n\nAirway:\n\nRestricted access\nDecide between oral RAE or flexible LMA depending on aspiration risk and comfort level with limited access\nA well-fitting LMA will pool blood above and offer good protection to the airway\n\nLeak can be managed with switching to an alternate size or packing the mouth with a throat pack\nLeak will cause bubbles in the surgical field and be disruptive.\n\n\nAnalgesia:\n\nUsually minimal analgesia requirements post-procedure\n\n\n\nEar Surgery\n\nAvoidance of nitrous\nUsually contraindicated to prevent distension of the middle ear, but may (at times) be requested by the ENT surgeon."
   },
   {
     "objectID": "anaesthesia/ent/principles.html#references",
@@ -7956,7 +8061,7 @@
     "href": "disease/resp/asthma.html#management",
     "title": "Asthma",
     "section": "Management",
-    "text": "Management\n\nUnderestimation of severity and consequent undertreatment are major contributors to asthma mortality.\nPrinciples of severe asthma management are:\n\nAggressive and early use of bronchodilators\nEarly use of NIV\nAvoid invasive ventilation if safe to do so\n\n\nResuscitation:\n\n\n\nPatient response over the first 2 hours of treatment are an important guide to the ongoing trajectory.\n\nA\n\nIntubation and invasive ventilation\n\nRequired in rare instances\nAssociated with significant morbidity and mortality\n\nDynamic hyperinflation\nPrecipitation of worse bronchospasm\n\nUsually requires significant permissive hypercapnoea, and therefore sedation and paralysis for patient tolerance\nDecision to intubate is made clinically, evidence in favour of:\n\nSignificant respiratory distress (not necessarily tachypnoea)\nSevere hypoxia\nDeteriorating conscious state\n\nInitial ventilator settings:\n\nVolume control\nVt 5-7mL/kg\nRR 8-12\nShort inspiratory time/High inspiratory flow rate\nAim expiratory time >4s. Pip will be high but alveolar pressures will be significantly lower due to the airway obstruction. Once ventilation is established, Pplat should be assessed with an inspiratory hold and should be maintained at <25cmH2O.\n\nHaemodynamic deterioration following intubation is often due to dynamic hyperinflation\nThe ventilator should be disconnected and prolonged (60s) expiration allowed to occur to reduce cardiac compression, before continuing ventilation at a lower rate.\n\n\nB\n\nOxygen\nTarget SpO2 94-98%. Excessive supplementation likely harmful.\nBronchodilators\n\nInhaled\n\nShort-acting beta-agonists\n\nSalbutamol\n5-10mg nebulised Q2H, or continuously if clinical concern dictates.\nAdrenaline\nFor patients non-responsive to nebulised salbutamol. 5mg nebulised Q2H.\n\nAnticholinergic\n\nIpratropium bromide\n500ug nebulised Q4H.\n\n\nIntravenous\n\nBeta-agonists\nConsider if no response to inhaled beta-agonists.\n\nSalbutamol\n5-10ug/min or 100-250ug bolus in extremis.\nAdrenaline 10ug bolus, with infusion at 1-10ug/min.\n\nCorticosteroids\nMagnesium\nControversial, but probably beneficial in adults and unlikely to be harmful.\n\n5-10mmol IV over ~20 minutes\n\n\nAnaesthetic agents\n\nKetamine\nDirect and indirect (via increased sympathetic tone) bronchodilation. Useful as an induction agent for endotracheal intubation or as a component of post-intubation sedation, but not independently of this.\nVolatile\nMany inhaled anaesthetic agents (sevoflurane, isoflurane, enflurane, halothane) are effective direct bronchodilators, with use limited by requiring an intubated patient and a ventilator capable of administering them.\n\n\nNon-Invasive Ventilation\nPEEP decreases inspiratory threshold work and may split open small airways, whilst Psup decreases inspiratory work and increases Vt and MV.\n\nIndicated for:\n\nModerate-severe dyspnoea or increased work of breathing\nRespiratory acidosis\n\nCommence with:\n\nCPAP 5cmH2O\nIncrease If difficulty initiating inspiration.\nPsup 8-10cmH2O\nIncrease If low Vt/ RR.\n\nTarget Vt ~7mL/kg, RR ~25\n\nVV ECMO\nMay be required if oxygenation is unable to be managed effectively following intubation.\n\n\n\n\nTo initiate gas flow into the lungs, the patient must generate enough inspiratory force such that Palv < Patm.\n\nIf PEEPi is high, then a very negative intrapleural pressure must be generated before Palv is less than Patm and inspiration commences. Application of external PEEP reduces this gradient, and therefore reduces the amount of work performed before inspiration commences (inspiratory threshold work).\nSpecific therapy:\n\nPharmacological\nCommunity management of asthma is a cornerstone of preventing severe exacerbations. Agents used include:\n\nInhaled “preventers”\nUsually one (or combination therapy) of:\n\nLong-acting beta-agonists\ne.g. Salmeterol.\nInhaled corticosteroids\ne.g. Fluticasone.\n\nLeukotriene antagonists\n\nPhysical\n\nAsthma management plan\n\n\nDisposition:\n\nIntensive care admission is recommended for:\n\nSevere asthma\nRespiratory arrest\nAltered mental state\nDysrhythmias\nMyocardial ischaemia\n\n\n\nMarginal and Ineffective Therapies\n\nAminophylline\nInferior bronchodilator relative to others available, with a narrow therapeutic range and poor side effect profile.\nHeliox\n70% helium/30% oxygen mixture improves work of breathing and effect of inhaled bronchodilators. This is limited by availability of heliox and the low delivered FiO2."
+    "text": "Management\n\nUnderestimation of severity and consequent undertreatment are major contributors to asthma mortality.\nPrinciples of severe asthma management are:\n\nAggressive and early use of bronchodilators\nEarly use of NIV\nAvoid invasive ventilation if safe to do so\n\n\nResuscitation:\n\n\n\nPatient response over the first 2 hours of treatment are an important guide to the ongoing trajectory.\n\nA\n\nIntubation and invasive ventilation\n\nRequired in rare instances\nAssociated with significant morbidity and mortality\n\nDynamic hyperinflation\nPrecipitation of worse bronchospasm\n\nUsually requires significant permissive hypercapnoea, and therefore sedation and paralysis for patient tolerance\nDecision to intubate is made clinically, evidence in favour of:\n\nSignificant respiratory distress (not necessarily tachypnoea)\nSevere hypoxia\nDeteriorating conscious state\n\nInitial ventilator settings:\n\nVolume control\nZEEP\nRecommendations for set PEEP are variable. 0-5cmH2O is probably okay, provided set PEEP < PEEPi.\nVt 5-7mL/kg\nRR 8-12\nShort inspiratory time/High inspiratory flow rate\nAim expiratory time >4s. Pip will be high but alveolar pressures will be significantly lower due to the airway obstruction. Once ventilation is established, Pplat should be assessed with an inspiratory hold and should be maintained at <25cmH2O.\n\nHaemodynamic deterioration following intubation is often due to dynamic hyperinflation\nThe ventilator should be disconnected and prolonged (60s) expiration allowed to occur to reduce cardiac compression, before continuing ventilation at a lower rate.\n\n\nB\n\nOxygen\nTarget SpO2 94-98%. Excessive supplementation likely harmful.\nBronchodilators\n\nInhaled\n\nShort-acting beta-agonists\n\nSalbutamol\n5-10mg nebulised Q2H, or continuously if clinical concern dictates.\nAdrenaline\nFor patients non-responsive to nebulised salbutamol. 5mg nebulised Q2H.\n\nAnticholinergic\n\nIpratropium bromide\n500ug nebulised Q4H.\n\n\nIntravenous\n\nBeta-agonists\nConsider if no response to inhaled beta-agonists.\n\nSalbutamol\n5-10ug/min or 100-250ug bolus in extremis.\nAdrenaline 10ug bolus, with infusion at 1-10ug/min.\n\nCorticosteroids\nMagnesium\nControversial, but probably beneficial in adults and unlikely to be harmful.\n\n5-10mmol IV over ~20 minutes\n\n\nAnaesthetic agents\n\nKetamine\nDirect and indirect (via increased sympathetic tone) bronchodilation. Useful as an induction agent for endotracheal intubation or as a component of post-intubation sedation, but not independently of this.\nVolatile\nMany inhaled anaesthetic agents (sevoflurane, isoflurane, enflurane, halothane) are effective direct bronchodilators, with use limited by requiring an intubated patient and a ventilator capable of administering them.\n\n\nNon-Invasive Ventilation\nPEEP decreases inspiratory threshold work and may split open small airways, whilst Psup decreases inspiratory work and increases Vt and MV.\n\nIndicated for:\n\nModerate-severe dyspnoea or increased work of breathing\nRespiratory acidosis\n\nCommence with:\n\nCPAP 5cmH2O\nIncrease If difficulty initiating inspiration.\nPsup 8-10cmH2O\nIncrease If low Vt/ RR.\n\nTarget Vt ~7mL/kg, RR ~25\n\nVV ECMO\nMay be required if oxygenation is unable to be managed effectively following intubation.\n\n\n\n\nTo initiate gas flow into the lungs, the patient must generate enough inspiratory force such that Palv < Patm.\n\nIf PEEPi is high, then a very negative intrapleural pressure must be generated before Palv is less than Patm and inspiration commences. Application of external PEEP reduces this gradient, and therefore reduces the amount of work performed before inspiration commences (inspiratory threshold work).\nNote that this differs from the controlled ventilation settings, because NIV assumes spontaneous breathing. Inspiratory threshold work is irrelevant in fully controlled ventilation.\nSpecific therapy:\n\nPharmacological\nCommunity management of asthma is a cornerstone of preventing severe exacerbations. Agents used include:\n\nInhaled “preventers”\nUsually one (or combination therapy) of:\n\nLong-acting beta-agonists\ne.g. Salmeterol.\nInhaled corticosteroids\ne.g. Fluticasone.\n\nLeukotriene antagonists\n\nPhysical\n\nAsthma management plan\n\n\nDisposition:\n\nIntensive care admission is recommended for:\n\nSevere asthma\nRespiratory arrest\nAltered mental state\nDysrhythmias\nMyocardial ischaemia\n\n\n\nMarginal and Ineffective Therapies\n\nAminophylline\nInferior bronchodilator relative to others available, with a narrow therapeutic range and poor side effect profile.\nHeliox\n70% helium/30% oxygen mixture improves work of breathing and effect of inhaled bronchodilators. This is limited by availability of heliox and the low delivered FiO2."
   },
   {
     "objectID": "disease/resp/asthma.html#anaesthetic-considerations",
@@ -12030,7 +12135,7 @@
     "href": "disease/git/cld.html#prognosis",
     "title": "Chronic Liver Disease/Cirrhosis",
     "section": "Prognosis",
-    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 300.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
+    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 302.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
   },
   {
     "objectID": "disease/git/cld.html#key-studies",
