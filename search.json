@@ -137,7 +137,7 @@
     "href": "assessment/critical/neuro.html#assessing-level-of-consciousness",
     "title": "Neurological Examination",
     "section": "Assessing Level of Consciousness",
-    "text": "Assessing Level of Consciousness\n\nHaving a rigorous approach improves reproducibility and reliability of the score.\n\nIn a patient with unclear level of consciousness:\n\n\nVertical eye movements (but not always lateral) are preserved in locked-in syndrome.  Avoid asking the patient to squeeze hands - this may be a grasp reflex.  Report the GCS in its constituent components, e.g. E2VTM3. Use the best score in any section.\n\nAsk to blink and to look up/down\nAsk for an unambiguous action (e.g. thumbs up, wiggle toes) to assess hands and feet\nPerform a painful stimulus\nOnly after a patient has failed to respond to a command.\n\nCentrally first\nSupraorbital pressure, jaw thrust. Allows assessment for localisation.\nPeripherally if no central response\n\n\n\n\nMeaningful attempts include moving hand to head with supraorbital pressure, or an arm crossing midline with pain on the contralateral side.\n\n\n\n\n\n\n\n\n\nScore\nEye\nVerbal\nMotor\n\n\n\n\n6\n-\n-\nObeys unambiguous command.\n\n\n5\n-\nOrientated. Coherent and appropriate response.\nMoves towards pain in a meaningful attempt to alleviate it.\n\n\n4\nOpen spontaneously.\nConfused. Appropriate (but incorrect) response.\nWithdraws to pain.\n\n\n3\nOpens to voice.\nInappropriate response. Response does not match questions.\nAbnormal flexion (decorticate posturing) to pain.\n\n\n2\nOpens to pain.\nIncomprehensible response. Moaning/sounds, but no words.\nAbnormal extension (decerebrate posturing) to pain.\n\n\n1\nNo response.\nNo response.\nNo response."
+    "text": "Assessing Level of Consciousness\n\nHaving a rigorous approach improves reproducibility and reliability of the score.\n\nIn a patient with unclear level of consciousness:\n\n\nVertical eye movements (but not always lateral) are preserved in locked-in syndrome.\n\nAvoid asking the patient to squeeze hands - this may be a grasp reflex.\n\nReport the GCS in its constituent components, e.g. E2VTM3. Use the best score in any section.\n\nAsk to blink and to look up/down\nAsk for an unambiguous action (e.g. thumbs up, wiggle toes) to assess hands and feet\nPerform a painful stimulus\nOnly after a patient has failed to respond to a command.\n\nCentrally first\nSupraorbital pressure, jaw thrust. Allows assessment for localisation.\nPeripherally if no central response\n\n\n\n\nMeaningful attempts include moving hand to head with supraorbital pressure, or an arm crossing midline with pain on the contralateral side.\n\n\n\n\n\n\n\n\n\nScore\nEye\nVerbal\nMotor\n\n\n\n\n6\n-\n-\nObeys unambiguous command.\n\n\n5\n-\nOrientated. Coherent and appropriate response.\nMoves towards pain in a meaningful attempt to alleviate it.\n\n\n4\nOpen spontaneously.\nConfused. Appropriate (but incorrect) response.\nWithdraws to pain.\n\n\n3\nOpens to voice.\nInappropriate response. Response does not match questions.\nAbnormal flexion (decorticate posturing) to pain.\n\n\n2\nOpens to pain.\nIncomprehensible response. Moaning/sounds, but no words.\nAbnormal extension (decerebrate posturing) to pain.\n\n\n1\nNo response.\nNo response.\nNo response."
   },
   {
     "objectID": "assessment/critical/neuro.html#pupils",
@@ -1188,6 +1188,132 @@
     "title": "Intra-aortic Balloon Pump",
     "section": "References",
     "text": "References\n\nParissis H, Graham V, Lampridis S, Lau M, Hooks G, Mhandu PC. IABP: history-evolution-pathophysiology-indications: what we need to know. Journal of Cardiothoracic Surgery. 2016;11(1):122. doi:10.1186/s13019-016-0513-0"
+  },
+  {
+    "objectID": "management/cvs/ecmo_overview.html#components",
+    "href": "management/cvs/ecmo_overview.html#components",
+    "title": "ECMO Overview",
+    "section": "Components",
+    "text": "Components\nNecessary pieces of the circuit include\n\nAccess cannula\nMultistage cannula with side holes along the distal section, which drains venous blood.\nReturn cannula\nReturns circuit blood to the patient via a single hole in the tip.\nOxygenator\nFacilitates:\n\nO2 provision\nUp to 7L/min, though diminishing returns with both modes means these flows are rarely seen in practice.\nCO2 offloading\nAmount of removal is a function of the sweep gas flow (FGF in L/min). Usually this is set 1:1 with circuit flows on commencement of ECMO.\nWarming\n\nPumps\n\nCentrifugal pump\nMagnetically coupled pump that generates rotary force with a small area of blood-pump contact. These:\n\nMinimise pump-head thrombosis risk\nMinimise haemolysis\nCan be clamped\nCircuit can be safely clamped with the pump running, as the contiguous blood column means that the tubing downstream from the pump will not be pressurised.\nAfterload sensitive\nFlow rate decreases with an increase in afterload for any given RPM.\n\nRoller pump\nPump compresses tubing, moving blood though.\n\nAfterload insensitive\nCannot be clamped whilst running\nDownstream pressure will continue to rise and tube rupture will result.\n\n\nTubing\nAlbumin and (often) heparin-bonded circuits reduce coagulation factor activation.\nController\nUsed to set:\n\nPump speed\nVia setting RPM (flow may vary) or setting flow.\nAlarms"
+  },
+  {
+    "objectID": "management/cvs/ecmo_overview.html#concepts",
+    "href": "management/cvs/ecmo_overview.html#concepts",
+    "title": "ECMO Overview",
+    "section": "Concepts",
+    "text": "Concepts\nKey concepts include:\n\nAccess insufficiency\nFresh Gas Flow\nTransmembrane pressure\n\n\nAccess Insufficiency\nAccess insufficiency describes ‘suck-down’ of the vena cava onto the access cannula, resulting in partial or total occlusion of the cannula access holes and a decrease in circuit flow. Access insufficiency:\n\nPresents as\n\nDecreased ECMO flows\nAlarms.\nCircuit chatter\nCircuit shudders violently, and often audibly.\n\nCan cause significant adverse effects\n\nHypoxia Severe decrease in ECMO support in VV ECMO.\nHaemodynamic instability\nSevere decrease in ECMO support in VA ECMO, or secondary to hypoxia in VV ECMO.\nHaemolysis\nVascular trauma\n\nOccurs due to combination of:\n\nSmall IVC/SVC volume\n\nIntravascular hypovolaemia\nExtrinsic compression\nDecreased VR\n\nIncreased intrathoracic/intraabdominal pressure\n\nCoughing\nMovement\n\n\n\nHigh ECMO circuit flows\nPoor cannula position\n\nMultistage cannula have multiple access holes along their length and are preferred for this reason\nIdeal position depends on circuit configuration, however access is improved the closer the cannula is to the RA\n\n\nManagment\n\nReduce ECMO flows to a level that maintains flow and gives tolerable parameters\nCorrect precipitant\n\n\n\n\nFresh Gas Flow\nThe FGF to the oxygenator should be adjusted to:\n\nMaintain oxygenation\nOnly a small threshold FGF (usually 0.5-1L/min) is required to adequately oxygenate ECMO blood.\nCO2 clearance\nFGF is predomiantly titrated to achieve desired PaCO2, as increasing FGF will decrease PaCO2. The amount of FGF required is inversely proportional to:\n\nNative lung function in VV ECMO\nNative lung function and native CO in VA ECMO\n\n\n\n\nTransmembrane Pressure:\n\n\nThe lowest pressure part of the ECMO circuit is directly before the pump, the highest pressure part is directly after the pump.\n\nAccess ports (if included) should be placed after the pump so that any opening or disconnection results in blood leaking rather than air entrainment.\nThe transmembrane pressure is the pressure differential across the oxygenator. The TMP:\n\nIndicates the degree of thrombus burden\nShould be <10mmHg per L/min of circuit flow"
+  },
+  {
+    "objectID": "management/cvs/ecmo_overview.html#complications",
+    "href": "management/cvs/ecmo_overview.html#complications",
+    "title": "ECMO Overview",
+    "section": "Complications",
+    "text": "Complications\nMajor complications of ECMO support include:\n\nBleeding\nAir Embolism\nHaemolysis\n\n\nBleeding\nBleeding is a major complication and cause of death of patients on ECMO support. Bleeding can occur from:\n\n\nManagement of bleeding is covered under Section 48.1.\n\nCannulation sites\n\nCommon\nDifficult to manage\nDecreased with percutaneous cannulation technique without surgical dissection\n\nPulmonary\n\nCommon in patients with associated lung injury\n\n\n\n\nAir Embolism\nAir embolism can occur if there is a breach in any negative pressure part of the circuit. Air embolism:\n\nCommonly occurs from:\n\n3-way taps\nDecreased Risk by minimising number of unnecessary connectors.\nConnectors\nVenous access sites\n\nLeads to:\n\nPump head air lock\nIn a centrifugal pump will partially or completely decrease circuit flow due to air trapped above the disk.\nDistal air embolism\n\n\n\n\nHaemolysis\nSevere haemolysis may occur with oxygenator or pump head thrombosis. Severe haemolysis:\n\nIs suggested by Plasma Free Hb >1.0g/L\nRequires urgent circuit change"
+  },
+  {
+    "objectID": "management/cvs/ecmo_overview.html#key-trials",
+    "href": "management/cvs/ecmo_overview.html#key-trials",
+    "title": "ECMO Overview",
+    "section": "Key Trials",
+    "text": "Key Trials\nTrials in ECMO have been limited by challenges in ethically conducting placebo-control trials, as well as logistic difficulties. However, key trials include:\n\nCESAR\nEOLIA"
+  },
+  {
+    "objectID": "management/cvs/ecmo_overview.html#references",
+    "href": "management/cvs/ecmo_overview.html#references",
+    "title": "ECMO Overview",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "management/cvs/ecmo_anticoag.html#sec-ecmobleeding",
+    "href": "management/cvs/ecmo_anticoag.html#sec-ecmobleeding",
+    "title": "Anticoagulation",
+    "section": "Bleeding",
+    "text": "Bleeding\nBleeding is a common and severe complication of ECMO support. Initial management should involve:\n\nCease anticoagulation\nResume when bleeding has ceased for 12-24 hours\nReplace clotting factors\n\nFibrinogen >1.5g/dL\nPlatelets >80\nINR <1.3\n\n\nFor bleeding refractory to the above therapies, consider:\n\n\nAvoid protamine in patients with heparin-bonded circuits due to risk of circuit thrombosis.\n\nFibrinolytic\nFactor VIIa\nInterventional radiology\nSurgical"
+  },
+  {
+    "objectID": "management/cvs/ecmo_anticoag.html#references",
+    "href": "management/cvs/ecmo_anticoag.html#references",
+    "title": "Anticoagulation",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "management/cvs/va.html#indications",
+    "href": "management/cvs/va.html#indications",
+    "title": "Veno-Arterial ECMO",
+    "section": "Indications",
+    "text": "Indications\nIn suitable patients, consider initiating support when:\n\nPharmacological haemodynamic support likely to worsen underlying disease\ne.g. Arrhythmia burden.\nCO and pressure inadequate despite significant support\nEvidence of organ ischaemia\n\nAKI\nALF\nSkin mottling\nLactate >5 and increasing"
+  },
+  {
+    "objectID": "management/cvs/va.html#contraindications",
+    "href": "management/cvs/va.html#contraindications",
+    "title": "Veno-Arterial ECMO",
+    "section": "Contraindications",
+    "text": "Contraindications\nPhysiological contraindications to VA ECMO include:\n\nAortic dissection\nSevere AR"
+  },
+  {
+    "objectID": "management/cvs/va.html#concepts",
+    "href": "management/cvs/va.html#concepts",
+    "title": "Veno-Arterial ECMO",
+    "section": "Concepts",
+    "text": "Concepts\nInclude:\n\nNative cardiac function\nAfterload dependence\nDifferential Hypoxia\nWeaning\n\n\nNative Cardiac Function\nVA ECMO adds a second paralell circuit to the circulation, which bypasses the lungs. Native CO varies on ECMO support but will contribute variably to the total CO:\n\nIdeally, the aortic valve will open each beat to promote some native forward flow\nAbsence leads to LV stasis and significantly increased thromboembolic risk.\nNative CO should be periodically assessed at the bedside\n\nPulsatile arterial trace\nEnd-tidal CO2\nEchocardiographcally\n\nInotropic supports should be weaned to the minimum required for AV opening to minimise myocardial work and promote myocardial recovery\n\n\n\nNote that thermodilution is inaccurate on VA ECMO support due to loss of indicator into the ECMO circuit.\n\n\nAfterload Dependence\nThe pressure gradient across the circuit is significantly greater in VA ECMO compared with VV ECMO, due to the downstream systemic arterial pressure. Consequently:\n\nRPM settings are higher for any given flow, as compared to VV ECMO\nECMO flow is affected by systemic pressure\nDecreased Flow with an Increase in afterload.\n\n\n\nDifferential Hypoxia\n\nDifferential hypoxia is also known as Harlequin syndrome.\n\nDifferential hypoxia occurs when hypoxaemic blood is ejected from the LV whilst oxygenated blood enters the circulation via the ECMO circuit. Differential hypoxia:\n\n\nGas tensions in blood from the ECMO circuit will reflect the function of the oxygenator, and therefore usually be supranormal.\n\nGas tensions in blood from the native CO reflect the function of the respiratory system.\n\nImplies hypoxaemia of blood (predominantly) in the arch vessels\n\nKey tissue beds affected are the heart (via the coronaries), the brain, and the right arm\nLeft SCA and ICA are relatively less affected\n\nOccurs when the:\n\nFunction of the native respiratory system is poor\nSuch that hypoxic blood is return to the LA.\nNative cardiac function is recovering\nSuch that it makes up a reasonable proportion of total cardiac output.\n\nIs affected by the position of the return cannula\nSignificantly decreased with a central aortic return, as blood should be mixed. Highest risk with a femoral return, as circuit flow favours the caudal regions.\nManagement involves:\n\nDecreasing native CO\nWean excessive inotropes.\nCorrecting intrapulmonary shunt\n\nPEEP and recruitment\nBronchoscopy\niNO\n\nIncreasing ECMO flows\nChanging circuit configuration May be indicated if SpO2 <85% despite above therapy.\n\nVV ECMO if cardiac recovery has occurred\nVAV if some ongoing cardiac support required\n\n\n\n\n\nDetection of differential hypoxia is why SpO2 of VA ECMO patients should always be measured on the right arm or ear.\n\n\nWeaning\nWeaning of VA ECMO is more complex than VV ECMO. The process involves:\n\nUnderlying cardiac recovery\nIndicated by increased pulsatility with low or no inotropic support.\nConduct of a weaning study:\n\nMonitoring of haemodynamics whilst progressively decreasing circuit flows to 0.5-1L/min\nIncludes echocardiographic assessment\nRequires adequate anticoagulation to prevent sudden oxygenator or pump thrombus due to increased stasis\nWeaning studies are limited by the fact that ECMO support is:\n\nNot stopped\nThe last 0.5-1L/min of flow often provides disproportionately high support.\nWeaned only briefly\nUnlike VV ECMO where ECMO support is ceased for hours, ECMO support during a VA wean is reduced only for a short time.\n\n\nSurgical decannulation\nFollowing a successful weaning study, full ECMO flows are restored. Decannulation and actual cessation of support occurs in the OR, as the arterial cannulation sites require formal surgical repair."
+  },
+  {
+    "objectID": "management/cvs/va.html#configurations",
+    "href": "management/cvs/va.html#configurations",
+    "title": "Veno-Arterial ECMO",
+    "section": "Configurations",
+    "text": "Configurations\nInclude:\n\nCentral VA ECMO\nECMO placed surgically with return cannula in ascending aorta and return cannula in RA or femoral vein. * This eliminates the risk of differential hypoxia, as the ECMO return is mixed with native cardiac output prior to the arch vessels. * This requires an open chest * Increased Infection risk * Increased Bleeding from cannulation site * Decreased Movement and Increased pressure area risk * Often a peripheral access cannula is used to minimise the amount of hardware in the chest\nPeripheral VA ECMO\n\nFemoro-femoral\nAccess cannula in femoral vein, return cannula in femoral artery.\n\nMost common configuration\nAccess and return cannula are usually on opposite sides to minimise vascular compression\nRetrograde perfusion cannula in profunda femoris\nSmaller return cannula used to perfuse the leg when the arterial return cannula is large relative to the size of the vessel.\nRapid to deploy\n\nJugulo-subclavian\nAccess cannula in right IJV, return cannula in right SCA.\n\nPermits mobilisation\nDifferential hypoxia may occur but cerebral perfusion is favoured\nRisk of arm swelling or brachial plexus injury"
+  },
+  {
+    "objectID": "management/cvs/va.html#complications",
+    "href": "management/cvs/va.html#complications",
+    "title": "Veno-Arterial ECMO",
+    "section": "Complications",
+    "text": "Complications"
+  },
+  {
+    "objectID": "management/cvs/va.html#references",
+    "href": "management/cvs/va.html#references",
+    "title": "Veno-Arterial ECMO",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "management/cvs/vv.html#indications",
+    "href": "management/cvs/vv.html#indications",
+    "title": "Veno-Venous ECMO",
+    "section": "Indications",
+    "text": "Indications\nIn suitable patients, consider initiating support with:\n\nSevere respiratory failure\n\nP/F ratio <75\nHypercarbia with pH <7.15 on safe ventilation settings\n\nDespite optimal:\n\nCardiac support\nUse of inotropes to optimise DO2.\nTrial of high PEEP (18-22cmH2O) and recruitment manoeuvre\nIf haemodynamically safe.\nTrial of pulmonary vasodilator\niNO for 2-12 hours; depending on patient trajectory."
+  },
+  {
+    "objectID": "management/cvs/vv.html#concepts",
+    "href": "management/cvs/vv.html#concepts",
+    "title": "Veno-Venous ECMO",
+    "section": "Concepts",
+    "text": "Concepts\nKey concepts include:\n\nRecirculation\nWeaning\n\n\nRecirculation\nRecirculation describes blood that undergoes gas exchange and is returned via the venous return cannula, but then removed via the access cannula without passing through the lungs and participating in DO2. Recirculation:\n\nIntroduces significant inefficiencies in VV ECMO\nIs not completely avoidable, but can be minimised\nIs clinicially significant with a pre-oxygenator saturation of >80%\nMore profound with:\n\nHigh ECMO flow rates\nLow CO\n\nReduces colour differential between access and return cannula\n\n\n\nWeaning\nWeaning involves assessing patient suitability for and removing from ECMO support. Weaning:\n\n\nVV ECMO weaning is much simpler than VA weaning because the patient can be managed completely off support indefintely, whilst maintaining circuit flows and minimising risk of clot.\n\nCan be considered when ECMO flows are <3L/min and lung recovery is occurring\nFGF is turned off (so there is no gas in the oxygenator) and ECMO circuit flows continue\nThe patient is functionally off ECMO support as venous blood is being recirculated, but clot risk is minimised."
+  },
+  {
+    "objectID": "management/cvs/vv.html#configurations",
+    "href": "management/cvs/vv.html#configurations",
+    "title": "Veno-Venous ECMO",
+    "section": "Configurations",
+    "text": "Configurations\nInclude:\n\nFemoro-femoral\nAccess in one femoral vein and return in the other.\n\nTechnically easy to establish\nEasy to secure\nEasy to transport\nAccess insufficiency more common\nRecirculation more common\n\nFemoro-jugular\nAccess in one femoral vein and return in the right IJV vein.\n\nPositioning of right IJV cannula can be difficult\nOften small adjustments can affect recirculation percentage.\nSecuring more difficult\nRisk of decannulation\n\nHigh-flow\nAccess in one femoral vein and right IJV, return in the other femoral vein.\n\nSignificantly decreased access insufficiency\nRequires multiple cannulations\n\nDual-lumen\nSingle right IJV cannula that provides access and return.\n\nSingle cannulation\nPositioning difficult\nNursing care difficult\nAccess insufficeincy very common"
+  },
+  {
+    "objectID": "management/cvs/vv.html#complications",
+    "href": "management/cvs/vv.html#complications",
+    "title": "Veno-Venous ECMO",
+    "section": "Complications",
+    "text": "Complications\nKey complications include:\n\nPneumothorax\n\n\nPneumothorax\nWhilst not a complication of ECMO, they occur commonly in patients on VV ECMO support. Key differences in management:\n\nAvoid pleural drainage if possible\n\nSignificant iatrogenic harm of intercostal catheters in patients on VV ECMO\n\nManage with:\n\nIncreased ECMO support\nDecreased Ventilation or ceased ventilatio"
+  },
+  {
+    "objectID": "management/cvs/vv.html#references",
+    "href": "management/cvs/vv.html#references",
+    "title": "Veno-Venous ECMO",
+    "section": "References",
+    "text": "References"
   },
   {
     "objectID": "management/cvs/ino.html#indications",
@@ -4799,7 +4925,7 @@
     "href": "anaesthesia/cardiac/principles.html#preoperative-evaluation",
     "title": "Principles of Cardiac Anaesthesia",
     "section": "Preoperative Evaluation",
-    "text": "Preoperative Evaluation\nBasics:\n\nPlanned operation\nAge, weight, and height\nFor indexing and drug doses.\n\nHistory:\n\nAllergies\nParticularly:\n\nHeparin\nProtamine\nSeafood.\nIodine\nAntibiotics\n\nPreoperative medications\n\nCease antiplatelets prior:\n\nClopidogrel 5-7 days\nTirofiban 1-2 days\nStreptokinase 3 hours\n\nHeparin\nMay be continued into the anaesthetic bay.\nContinue beta-blockers\nConsider initiating if not already instituted.\nStop ACE-Is\nContinue statins perioperatively\n\nExercise tolerance\nCo-existing disease\nCardiac patients tend to be sicker. Particularly relevant features:\n\nCOAD and smoking history\nSmoking cessation should be encouraged.\nHypertension\nValvular disease\nCoronary artery disease\n\nCerebrovascular disease\nPeripheral vascular disease\nAffects graft sites and arterial line placement.\nCognitive function\nBaseline level of impairment.\nDM\nAssociated with poorer outcomes.\nCKD\nAssociated with poorer outcomes.\n\nDysphagia or oesophageal problems Affects use of TOE.\n\nPrevious cardiac surgery\nRe-do sternotomy is associated with substantial additional risk:\n\nPericardium is usually obliterated\nRV or innominate vein may be adherent to sternum\nRisk of massive haemorrhage due to sternal saw.\nInternal paddles may not be able to be applied\nExternal defib pads should be used.\nPeripheral bypass (femoral) may need to be established\nSignificantly prolonged case with substantial blood loss\nDissection of adhesions and identification of old grafts.\n\nContraindications for echocardiography\nAsk about swallowing disability.\n\nAbsolute\n\nPerforated viscous\nOesophageal stricture/tumour/diverticulum\nActive upper GI bleed\n\nRelative\n\nNeck/mediastinal radiation\nAtlantoaxial disease\nDysphagia\nOdynophagia\n\n\n\nExamination:\n\nVital signs\nAirway assessment\nRespiratory and CVS exam\nPeripheral and central vascular access sites\n\nInvestigations:\n\nBloods\n\nFBE\nUEC/\nCoagulation profile\nG+H +/- crossmatch\n\nGeneral\n\nECG\nCXR\nPFTs if indicated by respiratory disease\n\nCardiac-specific\n\nAngiogram\n\nNumber, site and severity of stenoses\nLeft main or equivalent stenosis\n\nEchocardiogram\n\nLV function\nRV function\nValvular function\n\n\n\n\nConsent\n\nThis is an incredibly stressful time for patient and family: * Avoid drowning the patient in unnecessary information * Ensure they understand the process\n\nDiscuss:\n\nAirway\nLines\nTOE\nCPB\nBlood transfusion\nPost operative ventilation\nICU Stay\n\nKey risks:\n\nDeath\nStroke\nAMI\nOesophageal injury\nTransfusion"
+    "text": "Preoperative Evaluation\n\n\nNote that the phrase ‘open-heart’ means surgery where the cardiac chambers are opened, and so includes most cardiac operations, with the notable exception of CABG.\nBasics:\n\nPlanned operation\nAge, weight, and height\nFor indexing and drug doses.\n\nHistory:\n\nAllergies\nParticularly:\n\nHeparin\nProtamine\nSeafood.\nIodine\nAntibiotics\n\nPreoperative medications\n\nCease antiplatelets prior:\n\nClopidogrel 5-7 days\nTirofiban 1-2 days\nStreptokinase 3 hours\n\nHeparin\nMay be continued into the anaesthetic bay.\nContinue beta-blockers\nConsider initiating if not already instituted.\nStop ACE-Is\nContinue statins perioperatively\n\nExercise tolerance\nCo-existing disease\nCardiac patients tend to be sicker. Particularly relevant features:\n\nCOAD and smoking history\nSmoking cessation should be encouraged.\nHypertension\nValvular disease\nCoronary artery disease\n\nCerebrovascular disease\nPeripheral vascular disease\nAffects graft sites and arterial line placement.\nCognitive function\nBaseline level of impairment.\nDM\nAssociated with poorer outcomes.\nCKD\nAssociated with poorer outcomes.\n\nDysphagia or oesophageal problems Affects use of TOE.\n\nPrevious cardiac surgery\nRe-do sternotomy is associated with substantial additional risk:\n\nPericardium is usually obliterated\nRV or innominate vein may be adherent to sternum\nRisk of massive haemorrhage due to sternal saw.\nInternal paddles may not be able to be applied\nExternal defib pads should be used.\nPeripheral bypass (femoral) may need to be established\nSignificantly prolonged case with substantial blood loss\nDissection of adhesions and identification of old grafts.\n\nContraindications for echocardiography\nAsk about swallowing disability.\n\nAbsolute\n\nPerforated viscous\nOesophageal stricture/tumour/diverticulum\nActive upper GI bleed\n\nRelative\n\nNeck/mediastinal radiation\nAtlantoaxial disease\nDysphagia\nOdynophagia\n\n\n\nExamination:\n\nVital signs\nAirway assessment\nRespiratory and CVS exam\nPeripheral and central vascular access sites\n\nInvestigations:\n\nBloods\n\nFBE\nUEC/\nCoagulation profile\nG+H +/- crossmatch\n\nGeneral\n\nECG\nCXR\nPFTs if indicated by respiratory disease\n\nCardiac-specific\n\nAngiogram\n\nNumber, site and severity of stenoses\nLeft main or equivalent stenosis\n\nEchocardiogram\n\nLV function\nRV function\nValvular function\n\n\n\n\nConsent\n\nThis is an incredibly stressful time for patient and family: * Avoid drowning the patient in unnecessary information * Ensure they understand the process\n\nDiscuss:\n\nAirway\nLines\nTOE\nCPB\nBlood transfusion\nPost operative ventilation\nICU Stay\n\nKey risks:\n\nDeath\nStroke\nAMI\nOesophageal injury\nTransfusion"
   },
   {
     "objectID": "anaesthesia/cardiac/principles.html#prep",
@@ -7263,7 +7389,7 @@
     "href": "anaesthesia/thoracic/pneumonectomy.html#postoperative",
     "title": "Pneumonectomy",
     "section": "Postoperative",
-    "text": "Postoperative\nKey considerations:\n\nDisposition\n\nICU\n\nAnalgesia\nOften regional techniques.\nChest drain\n\nComplications:\n\nArrhythmia\nPulmonary oedema\nLimit fluids to 20ml/kg in first postoperative day\nCardiac herniation\n\nKeep drains off suction\n\nNurse operative site up"
+    "text": "Postoperative\nKey considerations:\n\nDisposition\n\nICU\n\nAnalgesia\nOften regional techniques.\nChest drain\nRisk of cardiac herniation if drain is on suction due to mediastinal shift.\nEmpty hemithorax\n\nInitally air-filled with volume loss\nUsually fills at ~2 ribs/day with fluid, and concominant loss of air\n\nMore rapid increase in fluid volume suggests haemothorax\nIncrease in air volume suggests bronchopleural fistula\n\n\n\nComplications:\n\nArrhythmia\nPulmonary oedema\nLimit fluids to 20ml/kg in first postoperative day\nCardiac herniation\n\nKeep drains off suction\n\nNurse operative site up"
   },
   {
     "objectID": "anaesthesia/thoracic/pneumonectomy.html#references",
@@ -12135,7 +12261,7 @@
     "href": "disease/git/cld.html#prognosis",
     "title": "Chronic Liver Disease/Cirrhosis",
     "section": "Prognosis",
-    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 302.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
+    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 306.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
   },
   {
     "objectID": "disease/git/cld.html#key-studies",
