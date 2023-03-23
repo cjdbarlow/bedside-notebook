@@ -1,0 +1,111 @@
+# Veno-Venous ECMO
+
+Temporary mechanical support for severe respiratory failure with preserved cardiac function, used as:
+
+* Bridge to recovery\
+Provide supportive care to allow recovery of the underlying respiratory failure, when there is a reasonable chance of lung recovery without significant disability.
+* Bridge to lung transplant\
+Known cases of irreversible end-stage respiratory failure, after careful selection.
+* Perioperative organ support\
+Certain procedures can be performed more safely with partial or complete respiratory support.
+    * E.g. Tracheal resection
+
+
+## Indications
+
+In suitable patients, consider initiating support with:
+
+* Severe respiratory failure
+    * P/F ratio <75
+    * Hypercarbia with pH <7.15 on safe ventilation settings
+* Despite optimal:
+    * Cardiac support\
+    Use of inotropes to optimise DO~2~.
+    * Trial of high PEEP (18-22cmH~2~O) and recruitment manoeuvre\
+    If haemodynamically safe.
+    * Trial of pulmonary vasodilator\
+    iNO for 2-12 hours; depending on patient trajectory.
+
+
+## Concepts
+
+Key concepts include:
+
+* Recirculation
+* Weaning
+
+### Recirculation
+
+Recirculation describes blood that undergoes gas exchange and is returned via the venous return cannula, but then removed via the access cannula without passing through the lungs and participating in DO~2~. Recirculation:
+
+* Introduces significant inefficiencies in VV ECMO
+* Is not completely avoidable, but can be minimised
+* Is clinicially significant with a pre-oxygenator saturation of **>80%**
+* More profound with:
+    * High ECMO flow rates
+    * Low CO
+* Reduces colour differential between access and return cannula
+
+
+### Weaning
+
+Weaning involves assessing patient suitability for and removing from ECMO support. Weaning:
+
+:::column-margin
+VV ECMO weaning is much simpler than VA weaning because the patient can be managed completely off support indefintely, whilst maintaining circuit flows and minimising risk of clot.
+:::
+
+* Can be considered when ECMO flows are <3L/min and lung recovery is occurring
+* FGF is turned off (so there is no gas in the oxygenator) and ECMO circuit flows continue\
+The patient is functionally off ECMO support as venous blood is being recirculated, but clot risk is minimised.
+ 
+## Configurations
+
+Include:
+
+* Femoro-femoral\
+Access in one femoral vein and return in the other.
+    * Technically easy to establish
+    * Easy to secure
+    * Easy to transport
+    * Access insufficiency more common
+    * Recirculation more common
+* Femoro-jugular\
+Access in one femoral vein and return in the right IJV vein.
+    * Positioning of right IJV cannula can be difficult\
+    Often small adjustments can affect recirculation percentage.
+    * Securing more difficult
+    * Risk of decannulation
+* High-flow\
+Access in one femoral vein and right IJV, return in the other femoral vein.
+    * Significantly decreased access insufficiency
+    * Requires multiple cannulations
+* Dual-lumen\
+Single right IJV cannula that provides access and return.
+    * Single cannulation
+    * Positioning difficult
+    * Nursing care difficult
+    * Access insufficeincy very common 
+
+
+## Complications
+
+Key complications include:
+
+* Pneumothorax
+
+### Pneumothorax
+
+Whilst not a complication *of* ECMO, they occur commonly in patients *on* VV ECMO support. Key differences in management:
+
+* Avoid pleural drainage if possible
+    * Significant iatrogenic harm of intercostal catheters in patients on VV ECMO
+* Manage with:
+    * Increased ECMO support
+    * Decreased Ventilation or ceased ventilatio 
+
+
+        
+---
+
+## References 

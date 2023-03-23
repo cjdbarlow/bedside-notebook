@@ -1,0 +1,175 @@
+# Veno-Arterial ECMO
+
+Temporary mechanical support for partial or complete circulatory failure, used as:
+
+* Bridge to recovery\
+For short-term, reversible forms of cardiac failure. Include:
+    * Acute fulminant myocarditis
+    * Cardiogenic shock secondary to ACS\
+    Prior to onset of MOF.
+    * Drug overdose
+    * Pulmonary embolism
+    * Primary graft failure
+        * Heart transplant
+        * Lung transplant
+* Bridge to treatment\
+Provide time for definitive management of the underlying condition
+* Bridge to transplant\
+Maintain organ perfusion whilst awaiting organ availability for heart transplant. More commonly used as a 'bridge to bridge', where VA ECMO is used to temporise prior to durable mechanical support (e.g. LVAD), with the intention for heart transplant in the future.
+
+:::column-margin
+Indications for bridge to recovery with significantly poor (<25%) chance of survival include:
+
+* Sepsis with MOF
+* Cardiogenic shock with established MOF
+:::
+
+## Indications
+
+In suitable patients, consider initiating support when:
+
+* Pharmacological haemodynamic support likely to worsen underlying disease\
+e.g. Arrhythmia burden.
+* CO and pressure inadequate despite significant support
+* Evidence of organ ischaemia
+    * AKI
+    * ALF
+    * Skin mottling
+    * Lactate >5 and increasing
+    
+
+## Contraindications
+
+Physiological contraindications to VA ECMO include:
+
+* Aortic dissection
+* Severe AR
+
+## Concepts
+
+Include:
+
+* Native cardiac function
+* Afterload dependence
+* Differential Hypoxia
+* Weaning
+
+### Native Cardiac Function
+
+VA ECMO adds a second paralell circuit to the circulation, which bypasses the lungs. Native CO varies on ECMO support but will contribute variably to the total CO:
+
+* Ideally, the aortic valve will open each beat to promote some native forward flow\
+Absence leads to LV stasis and significantly increased thromboembolic risk.
+* Native CO should be periodically assessed at the bedside
+    * Pulsatile arterial trace
+    * End-tidal CO~2~
+    * Echocardiographcally
+* Inotropic supports should be weaned to the minimum required for AV opening to minimise myocardial work and promote myocardial recovery 
+    
+:::column-margin
+Note that thermodilution is inaccurate on VA ECMO support due to loss of indicator into the ECMO circuit.
+::: 
+
+
+### Afterload Dependence
+
+The pressure gradient across the circuit is significantly greater in VA ECMO compared with VV ECMO, due to the downstream systemic arterial pressure. Consequently:
+
+* RPM settings are higher for any given flow, as compared to VV ECMO
+* ECMO flow is affected by systemic pressure\
+Decreased Flow with an Increase in afterload.
+
+### Differential Hypoxia
+
+:::info
+Differential hypoxia is also known as Harlequin syndrome.
+:::
+
+Differential hypoxia occurs when hypoxaemic blood is ejected from the LV whilst oxygenated blood enters the circulation via the ECMO circuit. Differential hypoxia:
+
+:::column-margin
+Gas tensions in blood from the ECMO circuit will reflect the function of the oxygenator, and therefore usually be supranormal.\
+\
+Gas tensions in blood from the native CO reflect the function of the respiratory system.
+:::
+
+* Implies hypoxaemia of blood (predominantly) in the arch vessels
+    * Key tissue beds affected are the heart (via the coronaries), the brain, and the right arm
+    * Left SCA and ICA are relatively less affected
+* Occurs when the:
+    * Function of the native respiratory system is *poor*\
+    Such that hypoxic blood is return to the LA.
+    * Native cardiac function is recovering\
+    Such that it makes up a reasonable proportion of total cardiac output.
+* Is affected by the position of the return cannula\
+Significantly decreased with a central aortic return, as blood should be mixed. Highest risk with a femoral return, as circuit flow favours the caudal regions.
+* Management involves:
+    * Decreasing native CO\
+    Wean excessive inotropes.
+    * Correcting intrapulmonary shunt
+        * PEEP and recruitment
+        * Bronchoscopy
+        * iNO
+    * Increasing ECMO flows
+    * Changing circuit configuration
+    May be indicated if SpO~2~ <85% despite above therapy.
+        * VV ECMO if cardiac recovery has occurred
+        * VAV if some ongoing cardiac support required
+
+
+:::column-margin
+Detection of differential hypoxia is why SpO~2~ of VA ECMO patients should always be measured on the right arm or ear.
+:::
+
+### Weaning
+
+Weaning of VA ECMO is more complex than VV ECMO. The process involves:
+
+* Underlying cardiac recovery\
+Indicated by increased pulsatility with low or no inotropic support.
+* Conduct of a weaning study:
+    * Monitoring of haemodynamics whilst progressively decreasing circuit flows to 0.5-1L/min
+    * Includes **echocardiographic** assessment
+    * Requires adequate **anticoagulation** to prevent sudden oxygenator or pump thrombus due to increased stasis
+    * Weaning studies are limited by the fact that ECMO support is:
+        * Not stopped\
+        The last 0.5-1L/min of flow often provides disproportionately high support.
+        * Weaned only briefly\
+        Unlike VV ECMO where ECMO support is ceased for hours, ECMO support during a VA wean is reduced only for a short time.
+* Surgical decannulation\
+Following a successful weaning study, full ECMO flows are restored. Decannulation and actual cessation of support occurs in the OR, as the arterial cannulation sites require formal surgical repair.
+
+
+## Configurations
+
+Include:
+
+* Central VA ECMO\
+ECMO placed surgically with return cannula in ascending aorta and return cannula in RA or femoral vein.
+        * This eliminates the risk of **differential hypoxia**, as the ECMO return is mixed with native cardiac output prior to the arch vessels.
+        * This requires an **open chest**
+            * Increased Infection risk
+            * Increased Bleeding from cannulation site
+            * Decreased Movement and Increased pressure area risk
+        * Often a peripheral access cannula is used to minimise the amount of hardware in the chest
+* Peripheral VA ECMO
+    * Femoro-femoral\
+    Access cannula in femoral vein, return cannula in femoral artery.
+        * Most common configuration 
+        * Access and return cannula are usually on opposite sides to minimise vascular compression
+        * Retrograde perfusion cannula in profunda femoris\
+        Smaller return cannula used to perfuse the leg when the arterial return cannula is large relative to the size of the vessel.
+        * Rapid to deploy
+    * Jugulo-subclavian\
+    Access cannula in right IJV, return cannula in right SCA. 
+        * Permits mobilisation
+        * Differential hypoxia may occur but cerebral perfusion is favoured
+        * Risk of arm swelling or brachial plexus injury
+
+
+## Complications
+
+
+---
+
+## References

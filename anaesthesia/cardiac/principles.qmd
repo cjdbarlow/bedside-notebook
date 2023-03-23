@@ -1,12 +1,14 @@
 # Principles of Cardiac Anaesthesia
 
+:::info
+Cardiothoracic surgery has the anaesthetist and surgeon sharing the circulation. Anaesthetic management of the circulation needs to adapt dynamically to surgical requirements.
+:::
 
->Cardiothoracic surgery has the anaesthetist and surgeon sharing the circulation. Anaesthetic management has to adapt to surgical requirements, and vice versa.
+:::column-margin
+This covers the general considerations of cardiac anaesthesia except those relating to cardiopulmonary bypass, which are covered [here](/anaesthesia/cardiac/cpb.md).
+:::
 
-
-*This covers the general considerations of cardiac anaesthesia except those relating to cardiopulmonary bypass, which are covered [here](/anaesthesia/cardiac/cpb.md).*
-
-A cardiac anaesthetic needs to **prevent decompensation** by avoiding:
+Goals are to **prevent decompensation** by avoiding:
 
 * **F**ailure  
 Minimise:
@@ -25,6 +27,10 @@ Minimise:
 Especially in left main disease, pulmonary hypertension, and AS.
 
 ## Preoperative Evaluation
+
+:::column-margin
+Note that the phrase 'open-heart' means surgery where the cardiac chambers are opened, and so includes most cardiac operations, with the **notable exception** of CABG.
+:::
 
 Basics:
 

@@ -69,8 +69,13 @@ Key considerations:
 	* ICU
 * Analgesia  
 Often regional techniques.
-* Chest drain
-
+* Chest drain\
+Risk of **cardiac herniation** if drain is on suction due to mediastinal shift.
+* Empty hemithorax
+	* Initally air-filled with volume loss
+	* Usually fills at ~2 ribs/day with fluid, and concominant loss of air
+		* More rapid increase in fluid volume suggests haemothorax
+		* Increase in air volume suggests bronchopleural fistula
 
 
 Complications:

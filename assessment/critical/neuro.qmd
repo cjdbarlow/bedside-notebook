@@ -28,10 +28,10 @@ Having a rigorous approach improves reproducibility and reliability of the score
 In a patient with unclear level of consciousness:
 
 :::column-margin
-Vertical eye movements (but not always lateral) are preserved in locked-in syndrome.
-<br><br>
-Avoid asking the patient to squeeze hands - this may be a grasp reflex.
-<br><br>
+Vertical eye movements (but not always lateral) are preserved in locked-in syndrome.\
+\
+Avoid asking the patient to squeeze hands - this may be a grasp reflex.\
+\
 Report the GCS in its constituent components, e.g. E~2~V~T~M~3~. Use the best score in any section.
 :::
 

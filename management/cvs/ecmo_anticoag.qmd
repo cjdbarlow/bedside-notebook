@@ -1,0 +1,31 @@
+# Anticoagulation
+
+
+
+## Bleeding {#sec-ecmobleeding}
+
+Bleeding is a common and severe complication of ECMO support. Initial management should involve:
+
+* Cease anticoagulation\
+Resume when bleeding has ceased for 12-24 hours
+* Replace clotting factors
+    * Fibrinogen >1.5g/dL
+    * Platelets >80
+    * INR <1.3
+    
+
+For bleeding refractory to the above therapies, consider:
+    
+:::column-margin
+Avoid protamine in patients with heparin-bonded circuits due to risk of circuit thrombosis.
+:::       
+    
+* Fibrinolytic
+* Factor VIIa
+* Interventional radiology
+* Surgical
+
+
+---
+
+## References

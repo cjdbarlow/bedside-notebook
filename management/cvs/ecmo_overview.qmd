@@ -1,0 +1,180 @@
+# ECMO Overview
+
+Extracorporeal Membrane Oxygenation is the use of an oxygenator and pump to provide mechanical pulmonary or cardiopulmonary support in the setting of severe, acute, and reversible respiratory or cardiac failure. 
+
+ECMO is classified into **modes** by the location of the return cannula, and *configuration** by the vessels used.
+
+:::column-margin
+Configurations are covered in more detail in the specific section.
+:::
+
+* Veno-venous (VV)\
+Provides isolated respiratory support only.
+* Veno-arterial (VA)\
+Provides cardiac support. Configurations:
+* Veno-venous-arterial (VAV)\
+Two return cannulae, one in a central artery and one in a central vein.
+
+
+
+## Components
+
+Necessary pieces of the circuit include
+
+* Access cannula\
+Multistage cannula with side holes along the distal section, which drains venous blood.
+* Return cannula\
+Returns circuit blood to the patient via a single hole in the tip.
+* Oxygenator\
+Facilitates:
+    * O~2~ provision\
+    Up to 7L/min, though diminishing returns with both modes means these flows are rarely seen in practice.
+    * CO~2~ offloading\
+    Amount of removal is a function of the sweep gas flow (FGF in L/min). Usually this is set 1:1 with circuit flows on commencement of ECMO. 
+    * Warming
+* Pumps
+    * Centrifugal pump\
+    Magnetically coupled pump that generates rotary force with a small area of blood-pump contact. These:
+        * Minimise pump-head thrombosis risk
+        * Minimise haemolysis
+        * Can be **clamped**\
+        Circuit can be safely clamped with the pump running, as the contiguous blood column means that the tubing downstream from the pump will not be pressurised.
+        * Afterload sensitive\
+        Flow rate decreases with an increase in afterload for any given RPM.
+    * Roller pump\
+    Pump compresses tubing, moving blood though.
+        * Afterload insensitive
+        * Cannot be clamped whilst running\
+        Downstream pressure will continue to rise and tube rupture will result. 
+* Tubing\
+Albumin and (often) heparin-bonded circuits reduce coagulation factor activation.
+* Controller\
+Used to set:
+    * Pump speed\
+    Via setting RPM (flow may vary) or setting flow.
+    * Alarms
+
+
+## Concepts
+
+Key concepts include:
+
+* Access insufficiency
+* Fresh Gas Flow
+* Transmembrane pressure
+
+### Access Insufficiency
+
+Access insufficiency describes 'suck-down' of the vena cava onto the access cannula, resulting in partial or total occlusion of the cannula access holes and a decrease in circuit flow. Access insufficiency:
+
+* Presents as
+    * Decreased ECMO flows\
+    Alarms.
+    * Circuit chatter\
+    Circuit shudders violently, and often audibly.
+* Can cause significant adverse effects
+    * Hypoxia
+    Severe decrease in ECMO support in VV ECMO.
+    * Haemodynamic instability\
+    Severe decrease in ECMO support in VA ECMO, or secondary to hypoxia in VV ECMO.
+    * Haemolysis
+    * Vascular trauma
+* Occurs due to combination of:
+    * Small IVC/SVC volume
+        * Intravascular hypovolaemia
+        * Extrinsic compression
+        * Decreased VR
+            * Increased intrathoracic/intraabdominal pressure
+                * Coughing
+                * Movement
+    * High ECMO circuit flows
+    * Poor cannula position
+        * Multistage cannula have multiple access holes along their length and are preferred for this reason
+        * Ideal position depends on circuit configuration, however access is improved the closer the cannula is to the RA
+* Managment
+    * Reduce ECMO flows to a level that maintains flow and gives tolerable parameters
+    * Correct precipitant 
+ 
+
+### Fresh Gas Flow
+
+The FGF to the oxygenator should be adjusted to:
+
+* Maintain oxygenation\
+Only a small threshold FGF (usually 0.5-1L/min) is required to adequately oxygenate ECMO blood.
+* CO~2~ clearance\
+FGF is predomiantly titrated to achieve desired PaCO~2~, as increasing FGF will decrease PaCO~2~. The amount of FGF required is inversely proportional to:
+    * Native lung function in VV ECMO
+    * Native lung function and native CO in VA ECMO
+
+### Transmembrane Pressure:
+
+:::column-margin
+The lowest pressure part of the ECMO circuit is directly before the pump, the highest pressure part is directly after the pump.\
+\
+Access ports (if included) should be placed after the pump so that any opening or disconnection results in blood leaking rather than air entrainment.
+:::
+
+The transmembrane pressure is the pressure differential across the oxygenator. The TMP:
+
+* Indicates the degree of thrombus burden
+* Should be <10mmHg per L/min of circuit flow
+
+
+## Complications
+
+Major complications of ECMO support include:
+
+* Bleeding
+* Air Embolism
+* Haemolysis
+
+### Bleeding
+
+Bleeding is a major complication and cause of death of patients on ECMO support. Bleeding can occur from:
+
+:::column-margin
+Management of bleeding is covered under @sec-ecmobleeding.
+:::
+
+* Cannulation sites
+    * Common
+    * Difficult to manage
+    * Decreased with percutaneous cannulation technique without surgical dissection
+* Pulmonary
+    * Common in patients with associated lung injury
+    
+
+### Air Embolism
+
+Air embolism can occur if there is a **breach** in any **negative pressure** part of the circuit. Air embolism:
+
+* Commonly occurs from:
+    * 3-way taps\
+    Decreased Risk by minimising number of unnecessary connectors. 
+    * Connectors
+    * Venous access sites
+* Leads to:
+    * Pump head air lock\
+    In a centrifugal pump will partially or completely decrease circuit flow due to air trapped above the disk.
+    * Distal air embolism
+
+
+### Haemolysis
+
+Severe haemolysis may occur with oxygenator or pump head thrombosis. Severe haemolysis:
+
+* Is suggested by Plasma Free Hb >1.0g/L
+* Requires urgent circuit change
+
+
+## Key Trials
+
+Trials in ECMO have been limited by challenges in ethically conducting placebo-control trials, as well as logistic difficulties. However, key trials include:
+
+* CESAR
+* EOLIA
+
+---
+
+## References

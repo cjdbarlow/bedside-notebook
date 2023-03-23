@@ -140,8 +140,12 @@ book:
                 - management/cvs/pacing.qmd
                 - management/cvs/regional.qmd
                 - management/cvs/iabp.qmd
-            # - part: "ECMO"
-            #   chapters:
+            - part: "ECMO"
+              chapters:
+                - management/cvs/ecmo_overview.qmd
+                - management/cvs/ecmo_anticoag.qmd
+                - management/cvs/va.qmd
+                - management/cvs/vv.qmd
             - part: "Medications"
               chapters:
                 - management/cvs/ino.qmd
