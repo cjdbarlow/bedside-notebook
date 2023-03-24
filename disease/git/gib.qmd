@@ -1,0 +1,223 @@
+# Gastrointestinal Bleeding
+
+Gastrointestinal bleeding is divided anatomically into:
+
+:::column-margin
+UGIB makes up 80% of all gastrointestinal bleeding and is much more likely to require procedural intervention.
+:::
+
+* Upper GI Bleeding\
+Intraluminal bleeding proximal to the ligament of Treitz, from:
+    * Oesophagus
+        * Varices\
+        Abnormally dilated veins at the junction of the portal and systemic venous systems.
+            * Mallory-Weiss tears\
+            5-15% of cases.
+        * Oesophagitis
+    * Stomach
+        * Ulcers\
+        ~15% of cases. **Acute stress ulceration** may occur after gastric hypoxia or hypopefusion in the critically unwell. 
+        * Varicies
+        * Gastritis
+        * Portal hypertensive gastropathy
+    * Duodenum
+        * Ulcers\
+        ~60% of cases.
+        * Duodenitis 
+* Lower GI bleeding\
+Intraluminal bleeding occurring distal to the ligament of Trietz, from:
+    * Small bowel
+        * Andiodysplasia
+        * AVM
+        * Meckel's Diverticulum
+    * Colon
+        * Diverticular bleeding\
+        Most common cause, resolves spontaneously in >75% of cases.
+        * Ischaemic colitis
+        * Post-polypectomy bleeding
+        * Polyps
+        * Carcinoma
+        * Radiation enteropathy
+        * IBD
+    * Rectum
+        * Carcinoma
+        * Haemorrhoids
+        * Anal fissure
+
+## Epidemiology and Risk Factors
+
+Risk factors include:
+
+* Critical illness
+    * Acute stress ulceration in 8-45% of ICu patients
+
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Manifestations
+
+Features due to:
+
+:::column-margin
+Pain is less commonly a feature with ulcers in the elderly and NSAID users.\
+\
+Melaena describes black tarry stools and suggests UGIB. Haematochezia describes bright red or maroon blood and suggests LGIB.
+:::
+
+* Bleeding
+    * Haematemesis\
+    Bright red haematemesis suggests active oesophageal, stomach, or upper duodenal bleeding.
+    * Pain
+    * Vomiting\
+    History of vigorous vomiting prior to onset of bleeding suggests a Mallory-Weiss tear of oesophageal varicies.
+* Hypovolaemia
+    * Tachycardia
+    * Tachypnoea
+    * Hypotension
+    * Impaired organ perfusion
+        * Anxiety
+        * Confusion
+        * Oliguria 
+
+:::caution
+Severe UGIB indicated by:
+
+* SBP <100mmHg
+* Transfusion >4 PRBC in 12 hours
+* Frank haematemesis
+* Syncope
+:::
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+Bloods:
+
+* FBE
+* Coagulation screen
+* LFTs
+
+Radiology:
+
+* Angiography\
+Usually performed as part of interventional embolisation strategy, but can identify bleeding points for subsequent intervention.
+
+## Management
+
+:::danger
+If intubation is required, ensure adequate **volume resuscitation prior to induction** due to the risk of profound haemodynamic instability.
+:::
+
+:::column-margin
+Anaesthetic considerations and management is covered under @sec-scopes.
+:::
+
+**Resuscitation**:\
+
+:::column-margin
+Note that **overresuscitation** may lead to **increased portal venous pressure** and should be avoided.
+:::
+
+* A
+    * Definitive airway if airway compromised\
+    Very high aspiration risk.
+* C
+    * Wide-bore IV
+    * Volume resucitation
+        * MTP
+* H 
+    * Urgent crossmatch
+
+**Specific therapy**:
+
+:::column-margin
+The majority of patients with UGIB will stop bleeding spontaneously and not require procedural intervention. The overwhelming majority of patients with LGIB will stop bleeding prior to *any* intervention.
+:::
+
+* Pharmacological
+    * **Cease anticoagulation**
+    ** **Cease NSAID**
+    * **Acid suppression**\
+    Inadequate without endoscopic control in severe or persistent bleeding. No evidence to support use pre-endoscopy, but decreased rebleeding and repeated endoscopy when used post-bleeding.
+        * PPI
+        * H~2~-antagonist
+    * *H. Pylori* eradication
+        * More effective than acid suppression 
+    * Decrease Portal pressure\
+    For variceal bleeding.
+        * Vasopressin
+            * May precipitate hypertension and cardiac ischaemia
+        * Terlipressin\
+        Preferable to vasopressin due to decreased cardiac side effects. Improves haemostasis and mortality in variceal bleeding.
+        * Octreotide\
+        Decrease portal blood flow, no edemonstrated mortality improvement.
+    * Propranolol\
+    Used for secondary prevention of variceal bleeding. 
+* Procedural\
+    * Balloon tamponade\
+    Insertion of a gastric-oesopahgeal balloon which is placed to provide balloon tamponade feeding veins. Used only *in extremis* to provide control of bleeding.
+    * **Endoscopy**\
+    Gold standard of treatment for severe bleeding, or patients with rebleeding.
+        * Early (<24 hours) associated with:
+            * Decreased Transfusion
+            * Decreased Rebleeding
+            * Decreased Open surgical risk
+            * Decreased Length of stay
+        * Therapeutic options include:
+            * Dilute adrenaline injection
+            * Cauterisation
+            * Stapling of ulcer\
+            Decreased Risk of perforation compared with cauterisation.
+            * Variceal band ligation\
+            Rubber bands used to strangle varicies, to decrease future risk of bleeding.
+        * Repeat endoscopy should be performed if initial endoscopy suboptimal
+    * **Embolisation**
+        * Effective at achieving immediate haemostasis
+        * Small risk of gut ischaemia and rebleeding
+        * Useful in patients at high surgical risk
+    * **Surgical** bowel resection\
+    Largely superseded by endoscopy but has a role in:
+        * Massive transfusion with ongoing haemodynamic instability
+        * Recurrent bleeding despite intitial endoscopic success
+        * Arterial bleeding not controlled by endoscopic haemostasis
+        * GI perforation
+    * TIPS\
+    Indicated in variceal bleeding refractory to control by all other methods. Results in:
+        * Significantly decreased portal venous pressure and variceal bleeding
+        * Hepatic encephalopathy in 60%
+
+:::column-margin
+**Urgent endoscopy* is preferable for suspected *ulcer* bleeding; haemodynamically stable suspected **variceal bleeding** is appropriate to defer until the **next elective list**.
+:::
+
+
+### Marginal and Ineffective Therapies
+
+
+## Complications
+
+* Death\
+4-10% of cases.
+* A
+    * Aspiration
+
+## Prognosis
+
+Poor prognostic factors include:
+
+* Inpatient
+* Age >60
+* CLD\
+Portal hypertension increases size and bleeding rate of varices.
+* Known varicies
+* Haemodynamic instability
+
+## Key Studies
+
+
+---
+
+## References

@@ -653,12 +653,10 @@ book:
               # Calculus cholecystitis
               # Acalculus cholecystitis
               # Pancreatic
-        # - part: "Upper GI"
-        #   chapters:
-              # UGIB
+        - part: "Gut"
+          chapters:
+            - disease/git/gib.qmd 
               # Oesophageal
-        # - part: "Lower GI"
-        #   chapters:
               # Obstruction
               # Pseudoobstruction
         # - part: "Immune"
