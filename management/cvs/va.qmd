@@ -35,7 +35,7 @@ e.g. Arrhythmia burden.
     * AKI
     * ALF
     * Skin mottling
-    * Lactate >5 and increasing
+    * Lactate >5 and ↑
     
 
 ## Contraindications
@@ -59,7 +59,7 @@ Include:
 VA ECMO adds a second paralell circuit to the circulation, which bypasses the lungs. Native CO varies on ECMO support but will contribute variably to the total CO:
 
 * Ideally, the aortic valve will open each beat to promote some native forward flow\
-Absence leads to LV stasis and significantly increased thromboembolic risk.
+Absence leads to LV stasis and significantly ↑ thromboembolic risk.
 * Native CO should be periodically assessed at the bedside
     * Pulsatile arterial trace
     * End-tidal CO~2~
@@ -77,7 +77,7 @@ The pressure gradient across the circuit is significantly greater in VA ECMO com
 
 * RPM settings are higher for any given flow, as compared to VV ECMO
 * ECMO flow is affected by systemic pressure\
-Decreased Flow with an Increase in afterload.
+↓ Flow with an ↑ in afterload.
 
 ### Differential Hypoxia
 
@@ -102,15 +102,15 @@ Gas tensions in blood from the native CO reflect the function of the respiratory
     * Native cardiac function is recovering\
     Such that it makes up a reasonable proportion of total cardiac output.
 * Is affected by the position of the return cannula\
-Significantly decreased with a central aortic return, as blood should be mixed. Highest risk with a femoral return, as circuit flow favours the caudal regions.
+Significantly ↓ with a central aortic return, as blood should be mixed. Highest risk with a femoral return, as circuit flow favours the caudal regions.
 * Management involves:
-    * Decreasing native CO\
+    * ↓ native CO\
     Wean excessive inotropes.
     * Correcting intrapulmonary shunt
         * PEEP and recruitment
         * Bronchoscopy
         * iNO
-    * Increasing ECMO flows
+    * ↑ ECMO flows
     * Changing circuit configuration
     May be indicated if SpO~2~ <85% despite above therapy.
         * VV ECMO if cardiac recovery has occurred
@@ -126,11 +126,11 @@ Detection of differential hypoxia is why SpO~2~ of VA ECMO patients should alway
 Weaning of VA ECMO is more complex than VV ECMO. The process involves:
 
 * Underlying cardiac recovery\
-Indicated by increased pulsatility with low or no inotropic support.
+Indicated by ↑ pulsatility with low or no inotropic support.
 * Conduct of a weaning study:
-    * Monitoring of haemodynamics whilst progressively decreasing circuit flows to 0.5-1L/min
+    * Monitoring of haemodynamics whilst progressively ↓ circuit flows to 0.5-1L/min
     * Includes **echocardiographic** assessment
-    * Requires adequate **anticoagulation** to prevent sudden oxygenator or pump thrombus due to increased stasis
+    * Requires adequate **anticoagulation** to prevent sudden oxygenator or pump thrombus due to ↑ stasis
     * Weaning studies are limited by the fact that ECMO support is:
         * Not stopped\
         The last 0.5-1L/min of flow often provides disproportionately high support.
@@ -148,9 +148,9 @@ Include:
 ECMO placed surgically with return cannula in ascending aorta and return cannula in RA or femoral vein.
         * This eliminates the risk of **differential hypoxia**, as the ECMO return is mixed with native cardiac output prior to the arch vessels.
         * This requires an **open chest**
-            * Increased Infection risk
-            * Increased Bleeding from cannulation site
-            * Decreased Movement and Increased pressure area risk
+            * ↑ Infection risk
+            * ↑ Bleeding from cannulation site
+            * ↓ Movement and ↑ pressure area risk
         * Often a peripheral access cannula is used to minimise the amount of hardware in the chest
 * Peripheral VA ECMO
     * Femoro-femoral\

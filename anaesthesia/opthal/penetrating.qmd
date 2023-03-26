@@ -13,7 +13,7 @@
 
 Major issues with anaesthetic management include:
 
-* Avoidance of increased IOP  
+* Avoidance of ↑ IOP  
 Risks evacuation of ocular contents.
 * Emergency surgery
 
@@ -35,7 +35,7 @@ Premedication:
 
 ## Intraoperative
 
-> * Goal is to avoid increase in IOP  
+> * Goal is to avoid ↑ in IOP  
 > Most anaesthetic agents lower IOP, including:
 > 	* Opioids
 > 	* Volatiles
@@ -46,7 +46,7 @@ Induction:
 * RSI
 * Suxamethonium can be used, noting that it is associated with a (mild) rise in IOP
 * Rocuronium/sugammadex is also an appropriate combination
-* Lignocaine 1-1.5mg/kg prior to induction to minimise IOP increases with laryngoscopy
+* Lignocaine 1-1.5mg/kg prior to induction to minimise IOP ↑ with laryngoscopy
 
 
 Maintenance:

@@ -10,7 +10,7 @@
 Embolism of amniotic fluid and foetal cells into the maternal circulation. May lead to profound shock and death via obstructive and distribute shock, occurring in two phases:
 
 * **Phase 1: Acute Right Heart Dysfunction**  
-Increased PVR and right heart dysfunction due to spasm of the pulmonary artery by biochemical mediators.
+↑ PVR and right heart dysfunction due to spasm of the pulmonary artery by biochemical mediators.
 	* Lasts 30-60 minutes
 	* High mortality
 * **Phase 2: DIC and LV failure**
@@ -53,7 +53,7 @@ Epidemiology of AFE:
 * Occurs in ~1:8000-80,000 pregnancies
 * Has high mortality  
 	* Maternal mortality 37-80%  
-	Decreasing over time as resuscitation has improved, but remains a **leading cause of maternal mortality**.
+	↓ over time as resuscitation has improved, but remains a **leading cause of maternal mortality**.
 	* Foetal mortality ~20%
 * Has high neurological morbidity  
 	* Maternal impediment ~7%

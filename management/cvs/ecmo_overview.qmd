@@ -40,7 +40,7 @@ Facilitates:
         * Can be **clamped**\
         Circuit can be safely clamped with the pump running, as the contiguous blood column means that the tubing downstream from the pump will not be pressurised.
         * Afterload sensitive\
-        Flow rate decreases with an increase in afterload for any given RPM.
+        Flow rate ↓ with an ↑ in afterload for any given RPM.
     * Roller pump\
     Pump compresses tubing, moving blood though.
         * Afterload insensitive
@@ -65,26 +65,26 @@ Key concepts include:
 
 ### Access Insufficiency
 
-Access insufficiency describes 'suck-down' of the vena cava onto the access cannula, resulting in partial or total occlusion of the cannula access holes and a decrease in circuit flow. Access insufficiency:
+Access insufficiency describes 'suck-down' of the vena cava onto the access cannula, resulting in partial or total occlusion of the cannula access holes and a ↓ in circuit flow. Access insufficiency:
 
 * Presents as
-    * Decreased ECMO flows\
+    * ↓ ECMO flows\
     Alarms.
     * Circuit chatter\
     Circuit shudders violently, and often audibly.
 * Can cause significant adverse effects
     * Hypoxia
-    Severe decrease in ECMO support in VV ECMO.
+    Severe ↓ in ECMO support in VV ECMO.
     * Haemodynamic instability\
-    Severe decrease in ECMO support in VA ECMO, or secondary to hypoxia in VV ECMO.
+    Severe ↓ in ECMO support in VA ECMO, or secondary to hypoxia in VV ECMO.
     * Haemolysis
     * Vascular trauma
 * Occurs due to combination of:
     * Small IVC/SVC volume
         * Intravascular hypovolaemia
         * Extrinsic compression
-        * Decreased VR
-            * Increased intrathoracic/intraabdominal pressure
+        * ↓ VR
+            * ↑ intrathoracic/intraabdominal pressure
                 * Coughing
                 * Movement
     * High ECMO circuit flows
@@ -103,7 +103,7 @@ The FGF to the oxygenator should be adjusted to:
 * Maintain oxygenation\
 Only a small threshold FGF (usually 0.5-1L/min) is required to adequately oxygenate ECMO blood.
 * CO~2~ clearance\
-FGF is predomiantly titrated to achieve desired PaCO~2~, as increasing FGF will decrease PaCO~2~. The amount of FGF required is inversely proportional to:
+FGF is predomiantly titrated to achieve desired PaCO~2~, as ↑ FGF will ↓ PaCO~2~. The amount of FGF required is inversely proportional to:
     * Native lung function in VV ECMO
     * Native lung function and native CO in VA ECMO
 
@@ -140,7 +140,7 @@ Management of bleeding is covered under @sec-ecmobleeding.
 * Cannulation sites
     * Common
     * Difficult to manage
-    * Decreased with percutaneous cannulation technique without surgical dissection
+    * ↓ with percutaneous cannulation technique without surgical dissection
 * Pulmonary
     * Common in patients with associated lung injury
     
@@ -151,12 +151,12 @@ Air embolism can occur if there is a **breach** in any **negative pressure** par
 
 * Commonly occurs from:
     * 3-way taps\
-    Decreased Risk by minimising number of unnecessary connectors. 
+    ↓ Risk by minimising number of unnecessary connectors. 
     * Connectors
     * Venous access sites
 * Leads to:
     * Pump head air lock\
-    In a centrifugal pump will partially or completely decrease circuit flow due to air trapped above the disk.
+    In a centrifugal pump will partially or completely ↓ circuit flow due to air trapped above the disk.
     * Distal air embolism
 
 

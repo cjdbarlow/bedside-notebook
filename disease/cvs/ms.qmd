@@ -30,17 +30,17 @@ Important associations:
 
 * Rheumatic fever
 * Pregnancy  
-Leads to early presentation with symptoms due to increased cardiovascular work and circulating volume.
-	* Fixed CO-state leads to increase pulmonary hypertension
+Leads to early presentation with symptoms due to ↑ cardiovascular work and circulating volume.
+	* Fixed CO-state leads to ↑ pulmonary hypertension
 	* Cardiac failure typically occurs in third-trimester in patients with moderate-severe disease
 
 ## Pathophysiology
 
-* Increased pressure gradient across the mitral valve  
+* ↑ pressure gradient across the mitral valve  
 Flow across mitral valve becomes the prime determinant of ventricular filling.
 	* This leads to a **fixed cardiac output** state because:
-		* Decreasing afterload does not improve subsequent ventricular filling
-		* Increasing contractility cannot improve output if the ventricle is not adequately filled prior to contraction
+		* ↓ afterload does not improve subsequent ventricular filling
+		* ↑ contractility cannot improve output if the ventricle is not adequately filled prior to contraction
 
 ### Aetiology
 
@@ -80,7 +80,7 @@ Medical management consists of managing complications:
 Surgical management:
 
 * Percutaneous mitral commissurotomy  
-Balloon dilation of mitral commissures, increasing MV area.
+Balloon dilation of mitral commissures, ↑ MV area.
 * MV repair
 * MV replacement
 
@@ -93,8 +93,8 @@ Balloon dilation of mitral commissures, increasing MV area.
 		* Volume required due to diastolic dysfunction
 		* Excessive volume will worsen pulmonary oedema
 	* Maintain afterload  
-	As CO is fixed, reduced SVR will decrease CPP.
-	* Prevent increase in PVR  
+	As CO is fixed, reduced SVR will ↓ CPP.
+	* Prevent ↑ in PVR  
 	Right heart function may be tenuous in the setting of pre-existing PHTN.
 
 ### ICU Considerations
@@ -113,7 +113,7 @@ Due to atrial dilation.
 		* Reduced diastolic time
 		* Reduced atrial kick
 * Pulmonary hypertension  
-Due to increased LAP.
+Due to ↑ LAP.
 * Right heart failure  
 Due to prolonged period of pulmonary hypertension.
 

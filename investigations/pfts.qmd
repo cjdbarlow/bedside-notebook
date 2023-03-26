@@ -77,7 +77,7 @@ Interpretation:
 Multiple best-effort measurements should be taken, and FEV~1~ and FVC measurements should be within 0.2L
 * FEV~1~FVC ratio of <70% (adults) or <85% (children) of predicted  
 Indicates an **obstructive** defect.
-	* Reversibility demonstrated by >12% increase following bronchodilator  
+	* Reversibility demonstrated by >12% ↑ following bronchodilator  
 	Asthma is usually reversible, COPD is not.
 	* Multiple grading systems, the GOLD 2008/NICE 2010 system:
 		* FEV~1~ ⩾80% predicted  
@@ -122,9 +122,9 @@ Measures the diffusion capacity of the lungs for carbon monoxide, which can be u
 	* Residual CO can be used to calculate how much CO has been absorbed
 	* The amount of CO absorbed allows diffusing capacity to be calculated
 * Reduced by:
-	* Increased thickness  
+	* ↑ thickness  
 	Fibrosis.
-	* Decreased area  
+	* ↓ area  
 	Lung resection, emphysema.
 	* Reduced ability to bind to Hb  
 	Anaemia.
@@ -149,7 +149,7 @@ Maximal volume of air that can be breathed when the subject hyperventilates as f
 Provides a functional assessment of cardiopulmonary reserve:
 
 * Involves:
-	* Exercising at increasing intensity on an exercise bike
+	* Exercising at ↑ intensity on an exercise bike
 	* Inspired and expired O~2~ and CO~2~ are measured
 	* Aims to calculate VO~2~ max and anaerobic threshold
 

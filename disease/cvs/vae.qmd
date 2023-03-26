@@ -8,7 +8,7 @@ Risk factors for venous air embolism:
 
 * Open veins above the RA
 	* Position dependent
-	* Some veins may be tethered open, greatly increasing risk:
+	* Some veins may be tethered open, greatly ↑ risk:
 		* **Bone**  
 		* Dura
 * CVP  
@@ -18,7 +18,7 @@ High CVP is protective.
 
 Air in the pulmonary circulation leads to:
 
-* Increased PVR  
+* ↑ PVR  
 Secondary to obstruction and reflexive hypoxic vasoconstriction.
 * Shunt  
 Interstitial/pulmonary oedema due to local inflammation.
@@ -90,7 +90,7 @@ In high-risk situations, consider preemptive **protective management**:
 	* 10ml/kg 4% albumin
 	* Neck *venous* tourniquet
 * Avoid Valsalva  
-May increase right-to-left shunting in the presence of a foramen ovale, leading to paradoxical embolism.
+May ↑ right-to-left shunting in the presence of a foramen ovale, leading to paradoxical embolism.
 
 
 ### Ineffective Therapies

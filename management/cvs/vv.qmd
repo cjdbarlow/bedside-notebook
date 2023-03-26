@@ -78,7 +78,7 @@ Access in one femoral vein and return in the right IJV vein.
     * Risk of decannulation
 * High-flow\
 Access in one femoral vein and right IJV, return in the other femoral vein.
-    * Significantly decreased access insufficiency
+    * Significantly ↓ access insufficiency
     * Requires multiple cannulations
 * Dual-lumen\
 Single right IJV cannula that provides access and return.
@@ -101,8 +101,8 @@ Whilst not a complication *of* ECMO, they occur commonly in patients *on* VV ECM
 * Avoid pleural drainage if possible
     * Significant iatrogenic harm of intercostal catheters in patients on VV ECMO
 * Manage with:
-    * Increased ECMO support
-    * Decreased Ventilation or ceased ventilatio 
+    * ↑ ECMO support
+    * ↓ Ventilation or ceased ventilatio 
 
 
         

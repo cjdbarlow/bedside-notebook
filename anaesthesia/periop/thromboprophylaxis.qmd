@@ -23,7 +23,7 @@ Major determinant.
 >	* Although prediction models exist (e.g. CAPRINI), the model is complex and has limited validation which has limited its uptake and use
 >	* Centres will have their own policy that should be followed
 >	* Treatment options are limited and most patients will be at least moderate risk, so detailed risk stratification does not usually refine management
-> * The below thresholds just cover surgical risk factors, and so give a **minimum risk level** for any procedure; any additional VTE risk factors that a patient has will increase their risk category
+> * The below thresholds just cover surgical risk factors, and so give a **minimum risk level** for any procedure; any additional VTE risk factors that a patient has will ↑ their risk category
 
 
 Very low risk (<0.5%):
@@ -66,7 +66,7 @@ High (3-6%) risk:
 
 ### Bleeding Risk Prediction
 
-> * The below thresholds just cover surgical risk factors, and so give a **minimum risk level** for any procedure; any additional risk factor for bleeding that a patient has will increase their risk category
+> * The below thresholds just cover surgical risk factors, and so give a **minimum risk level** for any procedure; any additional risk factor for bleeding that a patient has will ↑ their risk category
 
 Low bleeding risk (<2%):
 

@@ -48,7 +48,7 @@ Using Propofol & Remifentanil:
 * Goal is to keep spontaneous ventilation occurring throughout
 * Begin and maintain remifentanil at 0.01μg/kg/min
 * Commence propofol TCI at Cp of 1μg/ml
-* When the propofol Ce reaches 0.5μg/ml, increase the Cp slowly
+* When the propofol Ce reaches 0.5μg/ml, ↑ the Cp slowly
 * Goal is to have $$Ce - Cp \approx 0.5$$  
 This should ensure spontaneous ventilation maintained, though it takes quite some time to achieve.
 * Generally:

@@ -27,7 +27,7 @@ Divided into 4 categories:
 	* **[General Anaesthesia](ga-luscs.md)**  
 		* Quick to perform and reliable
 		* Allows fastest delivery of baby
-		* Generally increased risk of complications
+		* Generally ↑ risk of complications
 		* Indications:
 			* Maternal request
 			* Cat 1 CS without pre-existing epidural  
@@ -57,10 +57,10 @@ e.g. With salpingectomy or hysterectomy.
 
 * A
 	* Probably higher risk of difficult airway
-		* Mallampati score increases both during pregnancy and during labour
+		* Mallampati score ↑ both during pregnancy and during labour
 	* Higher risk of aspiration
 * B
-	* Reduced FRC and increased VO~2~ in pregnancy lead to faster desaturation
+	* Reduced FRC and ↑ VO~2~ in pregnancy lead to faster desaturation
 	* Respiratory function may be compromised with regional techniques
 * C
 	* HDx state may be compromised with regional techniques  
@@ -79,7 +79,7 @@ e.g. With salpingectomy or hysterectomy.
 	There is always a risk of massive haemorrhage with obstetric cases.
 * O
 	* Placenta position  
-	Low-lying anterior placenta greatly increases risk of major haemorrhage, especially if there is a scar from previous CS.
+	Low-lying anterior placenta greatly ↑ risk of major haemorrhage, especially if there is a scar from previous CS.
 	* Obstetric history
 		* Key questions:
 			* Previous gestations
@@ -163,7 +163,7 @@ Uterotonics are routinely given to reduce PPH risk. General recommendations:
 Inadvertent administration prior to delivery may be catastrophic.
 * Second-line agents should be considered early
 * IM is a reasonable alternative to IV infusions in resource-limited settings
-* Dose requirements for **intrapartum** caesarian are increased compared to elective caesarian
+* Dose requirements for **intrapartum** caesarian are ↑ compared to elective caesarian
 
 
 Dosing of first line agents:

@@ -15,7 +15,7 @@ Therefore **cardiac output** and ventricular filling are **dependent on pulmonar
 	* **Cardiac function is not the determinant of cardiac output**  
 	* Circulation is **dependent** on a **low PVR**
 * A fenestration between the IVC and systemic atria
-	* Allows some ventricular filling to occur if PVR increases
+	* Allows some ventricular filling to occur if PVR ↑
 	* Reduces venous congestion and associated complications
 	* Leads to a degree of cyanosis
 
@@ -25,7 +25,7 @@ Treatment strategies must address the critical bottleneck to be effective:
 
 * Reduce venous congestion  
 Chronically elevated CVP is poorly tolerated.
-	* Complications occur due to increased pressures
+	* Complications occur due to ↑ pressures
 	* Filling in excess of what the pulmonary bottleneck can utilise will not augment circulatory parameters
 	* Diuretics may be effective
 * Reduce PVR
@@ -86,7 +86,7 @@ Usually due to gradual elevation in:
 		* Systolic dysfunction  
 		Pressure overload of the single ventricle in the low-volume, low-compliance post-Fontan stage.
 	* Reduced exercise capacity  
-	Unable to increase CO, as pulmonary impedance remains the flow-limiting step.
+	Unable to ↑ CO, as pulmonary impedance remains the flow-limiting step.
 	* Cyanosis
 * Secondary to venous congestion
 	* Hepatic congestion and failure

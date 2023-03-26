@@ -85,7 +85,7 @@ Follows an ABC approach:
 
 ### Target SpO~2~
 
-> A rough rule of thumb is that the lower limit at birth is 60%, and increases by ~5% every minute
+> A rough rule of thumb is that the lower limit at birth is 60%, and ↑ by ~5% every minute
 
 
 SpO~2~ should be measured **pre-ductally**, i.e. on the right arm or ear:

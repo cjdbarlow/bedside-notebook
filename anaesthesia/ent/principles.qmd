@@ -21,7 +21,7 @@ Surgery may often be highly stimulating intraoperatively, but post-operative pai
 	* Remifentanil for procedures with low post-operative pain  
 	0.5-1μg/kg load, and infusion at 0.1-0.3μg/kg/min.
 * **Smooth emergence**  
-Straining or coughing during emergence can increase bleeding, disrupt repairs, or dislodge grafts.
+Straining or coughing during emergence can ↑ bleeding, disrupt repairs, or dislodge grafts.
 	* Deep extubation if appropriate
 	* Exchange to LMA
 	* Remifentanil at 0.1μg/kg/min until extubation
@@ -37,7 +37,7 @@ Straining or coughing during emergence can increase bleeding, disrupt repairs, o
 			* Ear  
 			Suggests supraglottic.
 		* Dysphagia  
-		Suggests increased size.
+		Suggests ↑ size.
 	* Examination
 	* Investigations
 		* Nasoendoscopy
@@ -80,7 +80,7 @@ Classify into:
 		* Supraglottic  
 			* Risk of missing larynx and hypoxia
 		* Infraglottic  
-			* Increased risk of barotrauma
+			* ↑ risk of barotrauma
 			* Reduced cord movement
 		* Transtracheal
 * **Intermittent ventilation**  

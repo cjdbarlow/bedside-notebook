@@ -20,56 +20,56 @@ Physiological changes and their implications can be classified by system:
 
 * Respiratory
 	* MV  
-	Increases; increases uptake of volatile agents.
+	↑; ↑ uptake of volatile agents.
 	* FRC  
-	Decreases; decreases safe apnoea time.
+	↓; ↓ safe apnoea time.
 	* RV  
-	Decreases; increases atelectasis and shunt.
+	↓; ↑ atelectasis and shunt.
 	* VO~2~  
-	Increases; decreases safe apnoea time.
+	↑; ↓ safe apnoea time.
 * CVS
 	* Cardiac output  
-	Increases up to 40%; decreased physiological reserve.
+	↑ up to 40%; ↓ physiological reserve.
 	* Heart rate  
-	Increases by 15-20 bpm; decreased reserve and coronary perfusion time.
+	↑ by 15-20 bpm; ↓ reserve and coronary perfusion time.
 	* SVR  
-	Decreases.
+	↓.
 	* BP  
-	Decreases.
+	↓.
 	* Volume  
-	Increased circulating volume.
+	↑ circulating volume.
 	* Other  
 	Aortocaval compression by uterus reduces CO in supine position; can be reduced by placing tilt under **right** hip.
 * Endocrine  
 	* Insulin  
-	Increased production and resistance; gestational diabetes.
+	↑ production and resistance; gestational diabetes.
 	* Thyroid hormones  
-	Increased; incidence of hyperthyroidism.
+	↑; incidence of hyperthyroidism.
 * Renal
 	* Renal blood flow  
-	Increased; natriuresis.
+	↑; natriuresis.
 	* Blader emptying  
-	Decreased; increased UTI.
+	↓; ↑ UTI.
 * GIT
 	* Bowel  
-	Displaced into upper abdomen; increases reflux risk.
+	Displaced into upper abdomen; ↑ reflux risk.
 * Hepatic  
 	* Plasma cholinesterase  
-	Decreases; increased duration of suxamethonium.
+	↓; ↑ duration of suxamethonium.
 	* Albumin  
-	Decreased; altered pharmacokinetics via change in protein binding, increased peripheral oedema.
+	↓; altered pharmacokinetics via change in protein binding, ↑ peripheral oedema.
 	* Biliary  
-	Decreased gallbladder contractility; biliary stasis.
+	↓ gallbladder contractility; biliary stasis.
 * Haematological
 	* Haemoglobin  
-	Decreases due to dilution; may be confused with haemorrhage.
+	↓ due to dilution; may be confused with haemorrhage.
 	* White Cell Count  
-	Increases; may mimic infection.
+	↑; may mimic infection.
 	* Coagulation factors  
-	Increases; increases thrombosis risk.
+	↑; ↑ thrombosis risk.
 * Immunological
 	* Cell mediated immunity  
-	Decreased; increased viral infections.
+	↓; ↑ viral infections.
 
 ### Physiology of Labour
 
@@ -130,19 +130,19 @@ Drug interactions in pregnancy can be classified into:
 	* Absorption
 		* PO absorption affected by nausea and vomiting
 	* Distribution
-		* Increased V~D~ of water soluble drugs  
-		Due to increased blood and body fluid volume.
-		* Increased free portion of acidic drugs  
-		Due to decreased albumin.
+		* ↑ V~D~ of water soluble drugs  
+		Due to ↑ blood and body fluid volume.
+		* ↑ free portion of acidic drugs  
+		Due to ↓ albumin.
 	* Elimination
-		* Increased renal clearance  
+		* ↑ renal clearance  
 		Due to high GFR.
 * Pharmacodynamic  
 Most unchanged, except for:
 	* Volatiles  
-	Decreased MAC.
+	↓ MAC.
 	* Local anaesthetics  
-	Decreased neuraxial LA requirement.
+	↓ neuraxial LA requirement.
 
 * Foetal transfer via placenta
 	* Almost all drugs cross the placenta to a certain degree  
@@ -170,19 +170,19 @@ Foetal period, effects include:
 The Australian risk categorisation divides drugs into:
 
 * Category A  
-Taken by a **large number** of pregnant women **without any observed increase in malformations** or other harmful effects.
+Taken by a **large number** of pregnant women **without any observed ↑ in malformations** or other harmful effects.
 * Category B  
-Drugs which have been taken by a **limited number** of pregnant women, **without any increase in the frequency of malformations** or other harmful effects. Divided into three **subgroups based on animal data**:
+Drugs which have been taken by a **limited number** of pregnant women, **without any ↑ in the frequency of malformations** or other harmful effects. Divided into three **subgroups based on animal data**:
 	* B1  
 	No observed foetal malformations in animals.
 	* B2  
 	No observed foetal malformations in animals, but studies were inadequate/data was lacking.
 	* B3  
-	Increased foetal abnormalities in animals, of uncertain human significance.
+	↑ foetal abnormalities in animals, of uncertain human significance.
 * Category C  
 Caused/suspected to have **caused *potentially reversible* harmful foetal effects**.
 * Category D  
-Caused/suspected to have **caused increased foetal malformations** or **permanent** damage.
+Caused/suspected to have **caused ↑ foetal malformations** or **permanent** damage.
 * Category X  
 Such **high risk of causing foetal damage** that they should **not be used in pregnancy or** where there is a **possiblity of pregnancy**.
 
@@ -192,9 +192,9 @@ Such **high risk of causing foetal damage** that they should **not be used in pr
 |Class|Category A|Category B1|Category B2|Category B3|Category C|Category D|Category X|Notes|
 |--|--|
 |**Antihypertensives**|Methyldopa||Prazocin <br>- Not recommended in 1^st^ trimester||Calcium channel blockers<br>β-blockers <br>- IGUR, ↓ HR, ↓ BSL, ↓ birth weight<br>Labetalol <br>- 1^st^ line<br>Hydralazine<br>- For hypertensive emergencies only|ACE-I/A2RB<br>- Contraindicated in all 3 trimesters<br>-1^st^ trimester: Major CVS/CNS malformations<br>-2/3^nd^ trimester<br>- Renal damage<br>-MSK deformities<br>- Death||
-|**Anticoagulants**|||||Heparin/LMWH<br>- Increased peripartum bleeding|Warfarin<br>- Terratogenic, particularly 6-9 weeks||
+|**Anticoagulants**|||||Heparin/LMWH<br>- ↑ peripartum bleeding|Warfarin<br>- Terratogenic, particularly 6-9 weeks||
 |**Anaesthetic agents**|Thiopentone<br>Ketamine||||Propofol<br>Benzodiazepines<br>- Not recommended in 1^st^ trimester<br>- Secreted heavily in breast milk||||
-|**Corticosteroids**|Cortisone<br>Hydrocortisone<br>Prednisolone||||Dexamethasone<br>Betamethasone<br>Fludrocortisone<br>Tiamcinolone<br>- May increase oral cleft if used in 1^st^ trimester||||
+|**Corticosteroids**|Cortisone<br>Hydrocortisone<br>Prednisolone||||Dexamethasone<br>Betamethasone<br>Fludrocortisone<br>Tiamcinolone<br>- May ↑ oral cleft if used in 1^st^ trimester||||
 |**Analgesics**|Paracetamol||||NSAIDS<br>- Avoid in 3^rd^ trimester as may cause premature duct closure, renal impairment, oligohydramnios, delayed labour||
 |**Antiemetics**|Metoclopramide|Ondansetron<br>Granisetron<br>Dolasetron||Tropisetron|||||
 |**Antibiotics**|Penicillins<br>Cephalosporins<br>Erythromycin|Roxithromycin||||Aminoglycosides<br>- Risk of foetal oto/nephrotoxicity<br>Tetracyclines<br>- Teeth staining, suppressed bone development|||
@@ -209,7 +209,7 @@ Management of abnormal labour depends on stage:
 
 * Abnormal S1
 	* Trial of oxytocin  
-	Increases rate of dilation.
+	↑ rate of dilation.
 	* LUSCS  
 	If concerns about:
 		* Uterine rupture
@@ -218,7 +218,7 @@ Management of abnormal labour depends on stage:
 		* Foetus
 * Abnormal S2
 	* Trial of oxytocin  
-	Increase uterine contractility.
+	↑ uterine contractility.
 	* Operative vaginal delivery  
 	Forceps, vacuum. Indications can be divided into:
 		* Maternal  

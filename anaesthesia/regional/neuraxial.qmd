@@ -35,9 +35,9 @@ WCC > 20 x 10^9^/L.
     * Usually safe to insert if temperature is < 38°C and patient is on antibiotics.
 * CVS disease:
 	* AS  
-	Afterload reduction results in decreased LV perfusion pressure.
+	Afterload reduction results in ↓ LV perfusion pressure.
 	* Pulmonary hypertension  
-	Afterload reduction results in decreased RV perfusion pressure.
+	Afterload reduction results in ↓ RV perfusion pressure.
 	* Hypotension/hypovolaemia/shock states  
 	Exacerbated by drop in SVR.
 * Anxiety/behavioural concern
@@ -114,7 +114,7 @@ The epidural space:
             * Narrow, avoid midline approach between T5 and T8
         * Cervical
             * Thin and soft ligamentum flavum leads to poor appreciation of LoR
-            * Space is ~ 1.5-2mm deep at C7, increases to 3-4mm with neck flexion
+            * Space is ~ 1.5-2mm deep at C7, ↑ to 3-4mm with neck flexion
 * Dura and arachnoid
 * Subarachnoid space
 

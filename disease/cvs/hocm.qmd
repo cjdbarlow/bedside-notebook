@@ -32,7 +32,7 @@ LVOT obstruction occurs dynamically during systole:
 * Obstruction occurs and resolves **dynamically**, and worsens with:
 	* Reduced preload
 	* Reduced afterload
-	* Increased contractility
+	* ↑ contractility
 	* High CO states
 
 ### Aetiology
@@ -74,7 +74,7 @@ Medical management of dynamic obstruction:
 * Non-dihydropyridine calcium channel blockers
 	* Verapamil
 * Positioning
-	* Fontan position increases preload and reduces afterload  
+	* Fontan position ↑ preload and reduces afterload  
 	Squatting or supine with hips and knees flexed.
 
 Procedural:

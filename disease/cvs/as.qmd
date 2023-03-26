@@ -46,7 +46,7 @@ Allows pressure gradient across the valve to be maintained without:
 * LVH leads to stiffening of the ventricle  
 Subsequent diastolic dysfunction.
 	* Hypertrophied ventricle more dependent on atrial kick
-* LVH increases oxygen requirements, whilst increasing LV diastolic pressures reduce coronary blood flow and oxygen delivery  
+* LVH ↑ oxygen requirements, whilst ↑ LV diastolic pressures reduce coronary blood flow and oxygen delivery  
 Susceptible to ischaemia, especially when CO is high, even in absence of coronary artery disease.
 
 
@@ -80,7 +80,7 @@ Symptoms:
 	Due to mismatch between LV oxygen consumption and demand.
 	* Syncope  
 	Late and bad sign. Occurs due to inadequate cardiac output, and may be related to either:
-		* Increased demand in the setting of a relatively fixed cardiac output
+		* ↑ demand in the setting of a relatively fixed cardiac output
 		* Arrhythmia
 	* Dyspnoea  
 	Due to LV failure, and typically occurs in late disease (as it represents a failure of LV compensation.)
@@ -93,7 +93,7 @@ Signs:
 * Ejection systolic murmur
 	* Peaks in late systole
 	* Radiates to carotids and to apex
-	* May disappear in LV failure as flow through the valve orifice decreases
+	* May disappear in LV failure as flow through the valve orifice ↓
 
 
 
@@ -150,7 +150,7 @@ Due to annular dilatation.
 
 Asymptomatic severe AS:
 
-* Annual decrease in AVA is ~0.1cm^2^/year
+* Annual ↓ in AVA is ~0.1cm^2^/year
 * Median time to symptom development is 1-4 years
 * Within 5 years:
 	* 2/3^rds^ will develop symptoms
@@ -160,7 +160,7 @@ Asymptomatic severe AS:
 Symptomatic severe AS:
 
 * Very poor prognosis without AVR
-* Mortality rapidly increases once symptoms develop  
+* Mortality rapidly ↑ once symptoms develop  
 	* Mean survival 0.5-2.8 years after onset of cardiac failure
 	* Mean survival 0.8-3.8 years after onset of syncope
 	* Mean survival 2-4.7 years after onset of angina

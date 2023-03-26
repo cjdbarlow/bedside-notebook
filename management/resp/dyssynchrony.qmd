@@ -3,10 +3,10 @@
 Ventilator dyssynchrony is an uncoordinated interaction between the patient and the ventilator during a spontaneous (or partially spontaneous, e.g. SIMV) mode of breathing, that leads to:
 
 * Agitation
-* Increased Work of breathing
+* ↑ Work of breathing
 * Splinting
     * Hypoxia
-* Increased Duration of ventilation
+* ↑ Duration of ventilation
 
 
 ## Failure to Trigger
@@ -20,7 +20,7 @@ Failure of a ventilator to respond to a patients respirtory effort. May be due t
         * Flow trigger is more comfortable but greater risk of over-triggering\
         Flow triggers are more modern and used by default on most newer ventilators.
 * High PEEPi\
-High intrinsic PEEP increases inspiratory threshold work, making it harder for a the patient to reach the prescribed trigger. Increasing extrinsic PEEP to **80% of PEEPi** decreases the gap and makes breath triggering easier.
+High intrinsic PEEP ↑ inspiratory threshold work, making it harder for a the patient to reach the prescribed trigger. ↑ extrinsic PEEP to **80% of PEEPi** ↓ the gap and makes breath triggering easier.
 
 
 ## Over-triggering

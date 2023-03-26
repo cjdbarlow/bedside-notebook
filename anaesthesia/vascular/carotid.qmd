@@ -144,7 +144,7 @@ Options include:
 	* Clonidine  
 	1μg/kg, then 1μg/kg/hr.
 	* Dexmedetomidine
-	3μg/kg/min for 10 minutes to give a load of 0.5μg/kg, then decreased to 0.1μg/kg/hr (titrated to effect).
+	3μg/kg/min for 10 minutes to give a load of 0.5μg/kg, then ↓ to 0.1μg/kg/hr (titrated to effect).
 * Continual communication
 * Use of a non-heated mattress
 * Padding and support of all pressure areas
@@ -226,7 +226,7 @@ Hypotension:
 Neck haematoma:
 
 * Occurs in ~3% of patients post-operatively
-	* Increased risk if poorly-controlled HTN
+	* ↑ risk if poorly-controlled HTN
 * May lead to obstruction to VR and subsequent lymphoedema
 * May require emergency airway management
 

@@ -32,7 +32,7 @@ May be:
 
 ## Principles
 
-* Frontal cortical activity is increased by anaesthetic agents  
+* Frontal cortical activity is ↑ by anaesthetic agents  
 Forehead allows this to be measured.
 * Electrodes detect potential difference from multiple current sources
 	* Frontalis
@@ -59,7 +59,7 @@ Awake:
 Drowsy:
 
 * Loss of EMG, eye movements, and blinks
-* Increasing amplitude
+* ↑ amplitude
 
 
 Light anaesthesia:
@@ -81,13 +81,13 @@ Deep anaesthesia:
 Effect of anaesthetic adjuncts:
 
 * Ketamine
-	* Increases high frequency EEG activity  
-	Increases BIS and M-entropy values.
+	* ↑ high frequency EEG activity  
+	↑ BIS and M-entropy values.
 * Nitrous oxide  
 Generally minimal effect:
 	* Unconsciousness occurring predominantly from nitrous oxide results in a high BIS value
 	* Addition of nitrous oxide results in minimal EEG change
-	* Has been associated with a **paradoxical decrease** in BIS values 5-10 minutes **after discontinuation**
+	* Has been associated with a **paradoxical ↓** in BIS values 5-10 minutes **after discontinuation**
 * Opioids  
 Variable effect:
 	* Small doses typically minimal effect

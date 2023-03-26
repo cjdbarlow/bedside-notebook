@@ -8,17 +8,17 @@ This definition is useful as it correlates with mortality.
 	* Encompasses both ATN and ARF
 * Specific and non-specific kidney diseases  
 Multiple of which may coexist within one patient.
-* A clinical syndrome consisting of a **rapid decrease in GFR, with concomitant rise in creatinine and urea**  
+* A clinical syndrome consisting of a **rapid ↓ in GFR, with concomitant rise in creatinine and urea**  
 The KDIGO classification defines (noting that not all AKI will fit into this criteria, and not all cases fitting the criteria are true AKI) as:  
-	* **Increase** in serum **creatinine >26.5 μmol/L** within 48 hours  
+	* **↑** in serum **creatinine >26.5 μmol/L** within 48 hours  
 	Creatinine and GFR are the best overall index of renal function.
-		* This increase is independently associated with increased mortality
+		* This ↑ is independently associated with ↑ mortality
 		* Larger rises in creatinine are correlated with poorer survival
-	* **Increase** in serum **creatinine >1.5x baseline** in the last 7 days  
+	* **↑** in serum **creatinine >1.5x baseline** in the last 7 days  
 	Absolute rises are less accurate in patients with pre-existing renal impairment as an absolute change in GFR will cause a variable change in creatinine. 
 	* **Urine volume < 0.5ml/kg/hr** for 6 hours  
 	Urine output is a reasonably sensitive but not specific index of kidney function.
-		* A significant fall in GFR will immediately result in decreased urine output, however serum creatinine will not rise for several hours
+		* A significant fall in GFR will immediately result in ↓ urine output, however serum creatinine will not rise for several hours
 		* Volume depletion and hypotension stimulate vasopressin secretion and water reabsorption
 		* Polyuria may occur when tubular function is impaired  
 		Impaired concentration of urine in the loop causes **non-oliguric renal failure**.
@@ -29,7 +29,7 @@ The KDIGO classification stages AKI as follows:
 
 |Stage|Creatinine|Urine Output|
 |---|---|
-|1|1.5-1.9x baseline OR<br> ⩾26.5 μmol/L increase in Cr|⩽0.5ml/kg/hr for 6-12 hours|
+|1|1.5-1.9x baseline OR<br> ⩾26.5 μmol/L ↑ in Cr|⩽0.5ml/kg/hr for 6-12 hours|
 |2|2-2.9x baseline|⩽0.5ml/kg/hr for ⩾12 hours|
 |3|3x baseline OR<br> Cr ⩾354μmol/L OR<br> Initiation of RRT OR<br> eGFR ⩽35ml/min/1.73m^2^ in children|⩽0.3ml/kg/hr for ⩾24 hours OR<br> Anuria > 12 hours|
 
@@ -79,7 +79,7 @@ Risk factors:
 		* Trauma
 		* Major surgery
 			* Cardiac surgery
-				* Increased with CPB
+				* ↑ with CPB
 
 ## Pathophysiology
 
@@ -188,7 +188,7 @@ Most common causes in the critically ill are:
 		* Anaemia
 		* Hyperphosphataemia
 		* Hypocalcaemia
-2. Is there decreased renal perfusion?
+2. Is there ↓ renal perfusion?
 	* Volume status?
 	* Cardiac insufficiency?
 	* Renal vasoconstriction
@@ -225,7 +225,7 @@ Serology:
 Urinalysis:
 
 * Sodium and osmolality
-	* Healthy kidneys respont to hypovolaemia/hypoperfusion by increasing urinary osmolarity and reducing sodium, urea, and water excretion  
+	* Healthy kidneys respont to hypovolaemia/hypoperfusion by ↑ urinary osmolarity and reducing sodium, urea, and water excretion  
 	This response may be impaired in disease, as well as due to drugs and other therapies (such as CPB).
 	* Low urine osmolality may indicate impaired tubular function
 	* High osmolality and low sodium with uraemia and oliguria suggests intact tubular function  

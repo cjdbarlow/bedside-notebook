@@ -4,7 +4,7 @@
 Hypertension in pregnancy is:
 
 * Common
-* Associated with increased maternal, foetal, and neonatal morbidity and mortality
+* Associated with ↑ maternal, foetal, and neonatal morbidity and mortality
 * Associated with additional complications
 * Classified into four sub-groups:
 	* **Gestational hypertension**
@@ -55,11 +55,11 @@ Underlying processes driving placental insufficiency include:
 
 * Maternal endothelial dysfunction
 	* Altered endothelial function
-		* Increased endothelial secretion
-		* Decreased nitric oxide
+		* ↑ endothelial secretion
+		* ↓ nitric oxide
 	* Normal development of a high-flow, low-resistance placental circulation does not occur
 * Acute atherosclerosis and thrombosis of placental vessels  
-Results in decreased placental flow and structural blood vessel damage.
+Results in ↓ placental flow and structural blood vessel damage.
 
 These processes:
 
@@ -72,7 +72,7 @@ These processes:
 	* Cardiac
 		* High cardiac output state with inappropriate SVR
 		* Diastolic dysfunction
-		* Decreased venous capacitance  
+		* ↓ venous capacitance  
 		Subsequently, generally normal filling pressures.
 		Risk of acute LV failure if diastolic dysfunction present, especially if given volume.
 	* Retinal vasospasm
@@ -164,7 +164,7 @@ Pre-eclampsia is classified by:
 Preventative therapy:
 
 * Limit intravenous fluid  
-IV fluid increases risk of APO.
+IV fluid ↑ risk of APO.
 	* Avoid if:
 		* Euvolaemic
 		* Renal function normal 
@@ -225,9 +225,9 @@ Treatment revolves around:
 		* **Prophylaxis** for **eclampsia** in women with **severe preeclampsia**  
 		Not recommended for use as an antihypertensive agent.
 		* Multifactorial mechanism of action:
-			* Increased prostacyclin synthesis
-			* Decreases calcium influx  
-			Thereby decreasing ATP-consuming Ca^2+^-dependent processes.
+			* ↑ prostacyclin synthesis
+			* ↓ calcium influx  
+			Thereby ↓ ATP-consuming Ca^2+^-dependent processes.
 			* NMDA antagonism
 		* Give **4g over 20 minutes**, and then **1g/hr** thereafter
 		* Target level is **1.7-3.5mmol/L**
@@ -323,7 +323,7 @@ Ongoing and new-onset hypertension occur in the post-partum period. In addition 
 			Consider:
 				* Labetalol 1mg/kg pre-induction  
 				Reduces BP without affecting foetal blood flow.
-			* Magnesium increases sensitivity to muscle relaxants
+			* Magnesium ↑ sensitivity to muscle relaxants
 * F
 	* Volume state
 		* Urine output
@@ -337,9 +337,9 @@ Ongoing and new-onset hypertension occur in the post-partum period. In addition 
 Maternal complications of severe pre-eclampsia include:
 
 * Airway obstruction  
-Vocal cord oedema due to decreased oncotic and increased hydrostatic pressure.
+Vocal cord oedema due to ↓ oncotic and ↑ hydrostatic pressure.
 * Pulmonary oedema  
-	* *Usually* due to low oncotic pressure or increased capillary permeability
+	* *Usually* due to low oncotic pressure or ↑ capillary permeability
 	* Rarely due to diastolic dysfunction
 * Cerebral haemorrhage
 * Cerebral oedema

@@ -33,7 +33,7 @@ Maternal blood test used to evaluate for presence of foetal birth defects. AFP i
 
 ## Advanced Maternal Age - AMA
 
-Pregnancy in woman over 35. Associated with increased risk of obstetric complications, including:
+Pregnancy in woman over 35. Associated with ↑ risk of obstetric complications, including:
 
 * Placental abruption
 * Placenta praevia
@@ -43,7 +43,7 @@ Pregnancy in woman over 35. Associated with increased risk of obstetric complica
 * Post-dates delivery
 * PPH
 * Requirement for IVF
-	* Subsequent increased risk of multiple pregnancy (due to IVF) amplifies some of the above risks
+	* Subsequent ↑ risk of multiple pregnancy (due to IVF) amplifies some of the above risks
 
 ## Artificial Rupture of Membranes - AROM {#arom}
 
@@ -161,7 +161,7 @@ Tightening and shorterning of uterine muscle, causing the cervix to shorten and 
 * Number of contractions  
 Quantified as number per 10 minutes, e.g. 4:10.
 	* Tachysystole is >5:10  
-	May be associated with increased foetal acidosis, and is associated with placental abruption.
+	May be associated with ↑ foetal acidosis, and is associated with placental abruption.
 * Duration  
 Time in seconds from onset to offset.
 * Relaxation time  
@@ -220,7 +220,7 @@ Death occurring after point of viability, usually 20 weeks.
 
 Bacteria which commonly colonises maternal vagina. GBS colonisation:
 
-* Increases risk of:
+* ↑ risk of:
 	* Preterm labour
 	* PROM
 	* Chorioamnionitis
@@ -238,7 +238,7 @@ Diabetes that occurs during pregnancy. GDM:
 
 * Occurs in ~10% of Australian Pregnancies
 * Usually resolves following the pregnancy
-* Increases risks of:
+* ↑ risks of:
 	* Pre-eclapsia
 	* HTN
 	* Premature labour
@@ -297,7 +297,7 @@ Abnormal accumulation of fluid:
 		* Cardiac failure
 		* Venous obstruction
 		* Lymphatic obstruction
-		* Decreased oncotic pressure
+		* ↓ oncotic pressure
 
 
 ## Intrauterine Foetal Demise - IUFD
@@ -315,7 +315,7 @@ May be normal, but also associated with:
 	In turn associated with **severe preeclampsia**, which requires monitoring.
 	* ntepartum stillbirth
 	* Preterm delivery
-* Generally requires increased surveillance
+* Generally requires ↑ surveillance
 * May require early delivery for foetal or maternal reasons
 
 ## Internal Foetal Monitoring
@@ -362,7 +362,7 @@ Vaginal bleeding at < 20/40, in presence of a **viable foetus**. Threatened misc
 	* First symptom of pregnancy in ~20%
 	* Suggested by small volume blood loss, minimal pain, a closed cervix, and presence of foetal heart sounds
 	* Managed with bed rest and anti-D
-	* Associated with increased risk of complete miscarriage
+	* Associated with ↑ risk of complete miscarriage
 * Missed miscarriage
 Spontaneous abortion with the absence of vaginal bleeding, see [FDIU](#FDIU)
 	* Requires evacuation of products of conception
@@ -384,7 +384,7 @@ Where amniotic fluid volume is less than expected for gestational age. Oligohydr
 * Causes include:
 	* [FDIU](#fdiu)
 	* Renal abnormalities  
-	Decreased foetal urine output.
+	↓ foetal urine output.
 	* [IUGR](#iugr)
 	* [PROM](#prom)
 	* [Post-dates](#pd)
@@ -513,7 +513,7 @@ Use of medication or surgery to end a pregnancy.
 
 Attempting normal vaginal delivery after previous caesarian. TOLAC is associated with:
 
-* Increased risk of **uterine rupture**
+* ↑ risk of **uterine rupture**
 * Re-do caesarian rate of ~50%
 
 ## Vaginal Birth After Caesarian Section - VBAC

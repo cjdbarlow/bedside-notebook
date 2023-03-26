@@ -12,7 +12,7 @@ Heart murmurs in the paediatric patient are:
 
 Congenital cardiac disease:
 
-* Increases mortality in non-cardiac surgery by 2x  
+* ↑ mortality in non-cardiac surgery by 2x  
 Major risk factors:
 	* Cyanosis
 	* Younger age
@@ -54,7 +54,7 @@ Key symptoms include:
 	* Cyanosis
 	* Tachypnoea
 * C
-	* Decreased exercise tolerance/constitutional symptoms
+	* ↓ exercise tolerance/constitutional symptoms
 		* Failure to thrive
 		* Feeding difficulties
 		* Diaphoresis

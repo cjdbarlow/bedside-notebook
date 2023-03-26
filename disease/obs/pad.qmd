@@ -21,7 +21,7 @@ Major risk factors:
 
 * Placenta praevia
 * Previous caesarian section  
-Increasing risk:
+↑ risk:
 	* 0: 2%
 	* 1: 16%
 	* 2: 24%
@@ -95,7 +95,7 @@ Uterus removed with placenta in-situ.
 	Manual removal of placenta.
 	* Expectant management  
 	Placenta is left in situ.
-		* Decreases risk of massive obstetric haemorrhage and placenta is removed from uterus
+		* ↓ risk of massive obstetric haemorrhage and placenta is removed from uterus
 		* Preserves fertility
 		* Placenta will necrose and ideally progressively detach itself  
 		Risk of sepsis or failure (and massive haemorrhage).

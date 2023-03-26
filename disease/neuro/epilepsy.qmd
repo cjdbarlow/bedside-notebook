@@ -100,7 +100,7 @@ E.g. tumour.
 MRI:
 
 * Evaluation of structural cause  
-Increase sensitivity and specificity compared with CT.
+↑ sensitivity and specificity compared with CT.
 
 
 ## Management
@@ -193,7 +193,7 @@ Anaesthetic agents may be:
 Pregnancy:
 
 * 4-8% risk of congenital malformations
-* Increased seizure frequency in ~30% of patients
+* ↑ seizure frequency in ~30% of patients
 * GTCS associated with ↑ miscarriage risk
 * Excretion of benzodiazepines and barbiturates in baby
 

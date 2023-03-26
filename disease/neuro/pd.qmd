@@ -80,9 +80,9 @@ Involuntary, prolonged muscle contractions with abnormal posturing.
 * Motor fluctuations  
 Times of poor response to levodopa, and associated with advancing disease.
 * Reduced arm swing
-* Decreased blink rate
+* ↓ blink rate
 * Masked facies
-* Decreased voice volume
+* ↓ voice volume
 * Difficulty turning over
 
 
@@ -139,13 +139,13 @@ Dopamine precursor.
 	* Effective for rigidity and akinesia
 	* Variable effects on tremor
 	* Treatment does not worsen disease progression but high daily doses and long duration of *disease* is associated with motor fluctuations and dyskinesias
-	* Benefit decreases as disease worsens  
+	* Benefit ↓ as disease worsens  
 	Reduced storage and release of dopamine limits utility of levodopa therapy.
 * Dopamine agonists  
 Directly agonise receptors, bypassing degenerating dopaminergic neurones.
 	* Used as monotherapy or adjuncts
 	* Longer half-life
-	* Increased incidence of psychiatric side effects
+	* ↑ incidence of psychiatric side effects
 	* Agents included:
 		* Pramipexole
 		* Ropinirole
@@ -155,7 +155,7 @@ Directly agonise receptors, bypassing degenerating dopaminergic neurones.
 * COMT inhibitors  
 Reduce levodopa breakdown.
 	* Used in conjunction with levodopa
-	* May increase dyskinesia
+	* May ↑ dyskinesia
 	* Include:
 		* Entacapone
 		* Tolcapone
@@ -184,7 +184,7 @@ Deep Brain Stimulation:
 	* Aspiration
 		* **Bulbar dysfunction**  
 		* Oesophageal dysfunction  
-		Bradykinesia and pharyngeal rigidity increases aspiration risl.
+		Bradykinesia and pharyngeal rigidity ↑ aspiration risl.
 		* Gastroparesis
 		* Sialorrhoea
 * B
@@ -220,7 +220,7 @@ Deep Brain Stimulation:
 		* Intraoperatively
 			* Turn device off to minimise EMI  
 			Can turn off after induction if severe symptoms.
-			* Regional anaesthesia may require increased sedation to control symptoms whilst off
+			* Regional anaesthesia may require ↑ sedation to control symptoms whilst off
 			* Turn device on prior to emergence
 			* Use bipolar diathermy in short bursts with lowest possible power
 		* Post-operatively

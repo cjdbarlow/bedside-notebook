@@ -39,12 +39,12 @@ Perioperative management of medication is covered [here](/anaesthesia/considerat
 		* PONV
 	* Respiratory disease
 		* Asthma  
-		Increased risk of bronchospasm from intubation & desflurane
+		↑ risk of bronchospasm from intubation & desflurane
 			* Consider cancellation or delaying elective procedures in poorly controlled asthma
 		* Smoking  
-		Impaired mucous secretion & clearance, decreased small airway calibre, altered immune response.
+		Impaired mucous secretion & clearance, ↓ small airway calibre, altered immune response.
 		* COAD  
-		Increased risk of atelectasis, bronchospasm, pneumonia, mechanical ventilation, respiratory failure.
+		↑ risk of atelectasis, bronchospasm, pneumonia, mechanical ventilation, respiratory failure.
 		* Recent URTI
 		* OSA  
 		Screening should be performed with the STOP-BANG questionaire. 
@@ -52,11 +52,11 @@ Perioperative management of medication is covered [here](/anaesthesia/considerat
 		* CAD  
 		CCS Angina class.
 		* MI  
-		 Recommend postponing elective operations 4-6/52 following an MI - increased risk of reinfarction/death (periop MI mortality is 20-50%).
+		 Recommend postponing elective operations 4-6/52 following an MI - ↑ risk of reinfarction/death (periop MI mortality is 20-50%).
 		 	* <3/12: 37% chance reinfarction
 		 	* 3-6/12: 15% chance reinfarction
 		 	* Over 6/12: Constant 5% risk
-		 	* If surgery cannot be avoided, post-op ICU monitoring decreases risk to 6%, 2%, 1% respectively
+		 	* If surgery cannot be avoided, post-op ICU monitoring ↓ risk to 6%, 2%, 1% respectively
 		* CHF  
 		NYHA class.
 		* Valvular disease
@@ -71,7 +71,7 @@ Perioperative management of medication is covered [here](/anaesthesia/considerat
 		* Neuromuscular disease
 	* MSK
 		* Obesity  
-		Obesity is associated increased rates of multiple complications. Perioperative evaluation should include:
+		Obesity is associated ↑ rates of multiple complications. Perioperative evaluation should include:
 			* Screening for OSA
 			* HbA1c and Hb
 			* Potential for difficult intubation

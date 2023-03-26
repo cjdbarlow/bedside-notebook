@@ -42,24 +42,24 @@ SGLT2 inhibitors:
 
 * Reduce BSL by inhibiting renal reabsorption of glucose, promoting glycosuria
 	* Fall in plasma glucose reduces insulin secretion from beta cells
-	* Fall in insulin increases glucagon secretion from alpha cells  
+	* Fall in insulin ↑ glucagon secretion from alpha cells  
 	SGLT2 inhibitors also directly stimulate alpha cells.
-	* Increase in glucagon:insulin ratio stimulates:
+	* ↑ in glucagon:insulin ratio stimulates:
 		* Lipolysis
 		* Hepatic fatty acid oxygenation
 		* Hepatic ketogenesis
 		* Hepatic glycogenolysis & gluconeogenesis
 * Reduce renal sodium absorption
-* Increase ketone body reabsorption  
+* ↑ ketone body reabsorption  
 Leads to **ketoacidosis without ketonuria**
 
 
 Physiological stress:
 
-* Increases counter-regulatory hormone production
+* ↑ counter-regulatory hormone production
 	* Adrenaline
 	* Cortisol
-* Increasing:
+* ↑:
 	* Insulin resistance
 	* Protein catabolism
 
@@ -105,9 +105,9 @@ Urinary glucose does not accurately reflect BSL in patients on SGLT2 inhibitors.
 Prevention:
 
 * Insulin  
-Cessation or dose reduction will increase risk of euglycaemic DKA.
+Cessation or dose reduction will ↑ risk of euglycaemic DKA.
 * Avoid glucocorticoids  
-Increases insulin resistance.
+↑ insulin resistance.
 
 Primarily supportive:
 

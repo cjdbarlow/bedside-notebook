@@ -14,7 +14,7 @@ Completely bedridden, associated symptoms, no response to conservative therapy.
 
 * Occurs in ~1-2% of labour epidurals
 * Exceedingly rare following LP with modern spinal (25-27G) needles
-	* Risk increases as gauge decreases
+	* Risk ↑ as gauge ↓
 
 
 ## Pathophysiology
@@ -55,7 +55,7 @@ Conservative approach:
 	* Neostigmine and Atropine  
 	 20 µg/kg neostigmine and 10 µg/kg atropine in 20 mL of 0.9% saline given over 5 minutes every 8 hours until resolution.
 	 	* Resolution usually seen within 2 doses
-	 	* Atropine increases CSF secretion and reverses cerebral vasodilation
+	 	* Atropine ↑ CSF secretion and reverses cerebral vasodilation
 	 	* Neostigmine also reduces cerebral vasodilation
 	* Epidural blood patch
 

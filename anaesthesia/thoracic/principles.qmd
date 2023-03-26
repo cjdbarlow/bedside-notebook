@@ -130,7 +130,7 @@ Calculated as $$PPO FEV_1 = Preoperative \ FEV_1 \times {Number \ of \ segments 
 Elevated risk seen with:
 
 * Abnormal blood gases  
-Historically used, but convey increase risk if:
+Historically used, but convey ↑ risk if:
 	* PaO~2~ >60mmHg
 	* PaCO~2~ <45mmHg
 * VO~2~max <15mL/kg/min have very high morbidity and mortality

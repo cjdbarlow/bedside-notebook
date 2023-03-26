@@ -33,7 +33,7 @@ Oxygen assessment.
 	* **Oxygen Supply**  
 	Ensure inspired gas mixture is not hypoxic. Check **rotameters**.
 	* **Oxygen Analysis**  
-	Increase FiO~2~ to 100% and ensure that the oxygen analyser detects the rise in FiO~2~.
+	↑ FiO~2~ to 100% and ensure that the oxygen analyser detects the rise in FiO~2~.
 * **V**  
 Ventilation and vapouriser assessment.
 	* **Hand-ventilate** the lungs, assessing:
@@ -181,7 +181,7 @@ Note only letter in this mnemonic with four diagnoses:
 	* **Fat**
 		* Hypoxia/hypotension post induction, especially in lithotomy or post-inducation
 	* **Full bladder**  
-		* Increased SNS tone
+		* ↑ SNS tone
 * **T**
 	* **Trauma**
 	* **Torniquet**

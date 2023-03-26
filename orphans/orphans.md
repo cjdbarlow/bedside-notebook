@@ -131,7 +131,7 @@ Easy epilepsy loading doses:
 
 PRBC transfusion incrementsS:
 
-* 4ml/kg increases Hb by ~10g/L
+* 4ml/kg ↑ Hb by ~10g/L
 
 
 ## Midface Fractures
@@ -235,7 +235,7 @@ Coiling:
 * Need to explain why - then people will work out how
 
 Falter
-* Increased aortic dissection rate during 1st covid wave, no pathyophysiological difference
+* ↑ aortic dissection rate during 1st covid wave, no pathyophysiological difference
 * Give 30% of predicted protamine dose to reverse CPB to ECMO
 
 Bellomo:
@@ -312,7 +312,7 @@ John Reeves talk:
 * Diagnose based on osmoles
 * Treat based on volume
 * Urinary sodium is a function of the bodies impression of its volume state
-* Hiller Am J Med 1999 correcting sodium; rule of thumb; for every 3mmol/L increase in BSL the sodium will fall by 1  
+* Hiller Am J Med 1999 correcting sodium; rule of thumb; for every 3mmol/L ↑ in BSL the sodium will fall by 1  
 Corrected sodium useful to assess total volume deficit; e.g. in DKA, look at difference between corrected sodium and normal sodium, normal sodium deficit.
 * Acute kidney injuries, the urea and creatinine rise proportionally
 * Chronic kidney failure, the creatinine rises disproportionately to the urea
@@ -766,10 +766,10 @@ Diastolic function assessment:
 			* Atria has no valves and is pretty weak so can only generate ~5mmHg of additional pressure
 		* Normally, atrial kick is more important and so A usually > E, i.e. E/A <1
 		* With deterioration:
-			* Grade I: LVEDP increases, which reduces diastolic filling (smaller E wave) but atrial kick still relatively reasonably decent, and so E/A reversal occurs (A bigger than E)
-			* Grade II: LAP (filling) pressures increase so gradient is restored. Atria is still a little bitch and so its contribution is relatively small against the increased LV DP so E>A. Looks "normal" from a FLOW point of view on echo, but the pressures are higher.
+			* Grade I: LVEDP ↑, which reduces diastolic filling (smaller E wave) but atrial kick still relatively reasonably decent, and so E/A reversal occurs (A bigger than E)
+			* Grade II: LAP (filling) pressures ↑ so gradient is restored. Atria is still a little bitch and so its contribution is relatively small against the ↑ LV DP so E>A. Looks "normal" from a FLOW point of view on echo, but the pressures are higher.
 				* Valsalva will reduce LA filling pressures, which will restore "normal" filling pressures and therefore E phase filling is reduced and A>E again. This allows pseudonormal to be differentiated from grade I dysfunction.
-			* Grade III: E wave becomes progressively larger as LAP increases, and A wave becomes smaller because the little bitch atrium can't contract against such high LV pressures.
+			* Grade III: E wave becomes progressively larger as LAP ↑, and A wave becomes smaller because the little bitch atrium can't contract against such high LV pressures.
 			* Grade IV:
 			* As ventricle gets stiffer, its diastolic filling time reduces because it distends so quickly. E wave duration shortens because the ventricle fills (and stops filling) so quickly.
 		* E/E'
@@ -908,7 +908,7 @@ Primary goals are to avoid haemodynamic collapse and expedite decompression.
 - Arterial line
 - Volume line available to maintain preload
 - Vasopressor infusion to avoid excessive hypotension
-- If critical (cannot lie flat): spontaneously ventilating induction to avoid PPV and increase in RV afterload, and reduce instability associated with rapid induction
+- If critical (cannot lie flat): spontaneously ventilating induction to avoid PPV and ↑ in RV afterload, and reduce instability associated with rapid induction
 
 ### Minimise surgical time
 - Prepped and draped preinduction
@@ -946,7 +946,7 @@ Requires adequate time and a compliant patient; key domains are sedation, topica
 
 ### Sedation
 - I prefer judicious sedation with immediately reversible agents
-- Requirement decreased with good patient preparation and expectation management
+- Requirement ↓ with good patient preparation and expectation management
 - 0.25-0.5mg midazolam
 - Fentanyl 25ug increments
 
@@ -983,7 +983,7 @@ Requires adequate time and a compliant patient; key domains are sedation, topica
 
 
 ## Unsecured Aneurysm
-Priorities are to prevent aneurysm rupture by avoiding changes in transmural pressure, avoid increased ICP, and manage complications of SAH.
+Priorities are to prevent aneurysm rupture by avoiding changes in transmural pressure, avoid ↑ ICP, and manage complications of SAH.
 
 ### Transmural pressure
 - Avoid swings in MAP and HR
@@ -992,7 +992,7 @@ Priorities are to prevent aneurysm rupture by avoiding changes in transmural pre
 - Key phases include intubation, pinning, bone off, and dura opening
 
 
-### Avoid increased ICP
+### Avoid ↑ ICP
 - Position: Head up, tape not tie
 - Ventilation: CO2, PEEP
 - Drugs: Sedation, muscle relaxant, osmotic agents
@@ -1083,7 +1083,7 @@ Concerns relate to:
 * Children are more vulnerable
 * Risk factors
 	* Any comorbidity  
-	Any disease increases risk.
+	Any disease ↑ risk.
 	* Asthma
 	* Diabetes
 
@@ -1163,7 +1163,7 @@ TAVI:
 * Echo
 	* Confirm diagnosis
 	* Assess LV  
-	Basal septal hhypertrophy increases difficulty.
+	Basal septal hhypertrophy ↑ difficulty.
 	* Measure aortic annular junction
 	* Distance from coronary ostia to aortic annulus  
 	<12mm is an issue with Sapien valves.
@@ -1346,7 +1346,7 @@ Causes:
 	* Neoplastic fevers
 	* Decubitus ulcers
 
-Active cooling increases VO2, adrenaline, and noradrenaline levels
+Active cooling ↑ VO2, adrenaline, and noradrenaline levels
 
 # Vasoplegia
 
@@ -1363,7 +1363,7 @@ Contraindications:
 
 # Diuretics
 
-* Multisegment nephron blockade is associated with increased diuretic response without worsening electrolyte abnormalities or renal function and may reduce RRT for volume need
+* Multisegment nephron blockade is associated with ↑ diuretic response without worsening electrolyte abnormalities or renal function and may reduce RRT for volume need
 	* Acetazolamide 250mg Q8H
 	* Frusemide 200mg IV Q6H
 	* Metolazone 10mg Q12H
@@ -1489,7 +1489,7 @@ retaining a CPC of 1-2 [2].
 
 Evidence suggests that the presenting rhythm is
 shockable in 16.9 – 33.2% [1,2,3, 13] of IHCAs. Initial
-shockable rhythm conferred an increased likelihood
+shockable rhythm conferred an ↑ likelihood
 of ROSC (RR 1.63) and 30-day survival (RR = 2.31) [13],
 and nearly all of those resuscitated retain good
 neurological function [13].
@@ -1713,17 +1713,17 @@ Organ systems affected:
 	Direct pulmonary damage from reactive oxygen species. Risk related to FiO2 > 0.6.
 	* Bronchopulmonary dysplasia\
 	* V/Q mismatch\
-	Reduces HPV, and therefore may lead to surplus blood flow to marginally ventilated lung units. This can lead to an increase in PaCO~2~ in patients with borderline ventilatory function.
+	Reduces HPV, and therefore may lead to surplus blood flow to marginally ventilated lung units. This can lead to an ↑ in PaCO~2~ in patients with borderline ventilatory function.
 	* Haldane effect
-	Increase in FiO~2~ decreases the CO~2~ buffering capacity of Haem ogle in, potentially increasing PaCO~2~.  
+	↑ in FiO~2~ ↓ the CO~2~ buffering capacity of Haem ogle in, potentially ↑ PaCO~2~.  
 	* Absorption atelectasis
 * D
-	* Decreased cerebral blood flow
+	* ↓ cerebral blood flow
 	* Direct CNS toxicity\
 	Reduces seizure threshold.
 	* Retinopathy of prematurity\
 	Hyperoxia of the neonate leads to reduction in retinal vascular development, with risk fo scarring and retinal detachment.
 * F
-	* Decreased renal blood flow
+	* ↓ renal blood flow
 * G
-	* Decreased splanchnic blood flow  
+	* ↓ splanchnic blood flow  

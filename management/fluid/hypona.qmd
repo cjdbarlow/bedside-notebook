@@ -25,10 +25,10 @@ Hyponatraemia is:
 	* 25-30% of ICU patients
 		* ~2.7% mild
 		* ~1.2% severe
-* Increasing severity is associated with increased mortality
+* ↑ severity is associated with ↑ mortality
 
 * Risk factors for rapid correction of hyponatraemia  
-Increased frequency of monitoring should be performed in patients with:
+↑ frequency of monitoring should be performed in patients with:
 	* Hypovolaemia
 	* Glucocorticoid deficiency
 	* Beer potomania
@@ -219,7 +219,7 @@ Two methods are available:
 				* The water fraction will be greater than 93%
 				* The diluted fraction will contain more sodium ions  
 				Serum sodium will be overestimated.
-				* Serum sodium can be partially corrected for hypoalbuminaemia by subtracting **0.7mmol/L for every 1g/dL** decrease in total protein.
+				* Serum sodium can be partially corrected for hypoalbuminaemia by subtracting **0.7mmol/L for every 1g/dL** ↓ in total protein.
 * Cholesterol
 	* Triglycerides
 * Protein
@@ -245,7 +245,7 @@ Ratio of urinary electrolytes to plasma electrolytes, given an indication of the
 	* Typically given by: $${U \over P}Ratio = {[Na]_u + [K]_u \over [Na]_p}$$
 	* A positive ratio indicates that electrolyte-free water excretion is negative  
 	Fluid restriction alone is unlikely to correct sodium, as the kidneys are not excreting a dilute urine.
-		* Water intake in excess of losses will cause further decrease in serum sodium
+		* Water intake in excess of losses will cause further ↓ in serum sodium
 		* A very restrictive (e.g. <500ml/day) restriction will be required
 	* A negative ratio indicates a degree of electrolyte-free water excretion
 
@@ -267,7 +267,7 @@ $$Sodium \ Deficit = TBW \times Weight \times (Desired \ [Na^+] - Current \ [Na^
 
 > * Inadequate treatment may cause brain oedema
 > * Excessively rapid correction may lead to osmotic demyelination syndrome
->	* Risk is increased in chronic hyponatraemia
+>	* Risk is ↑ in chronic hyponatraemia
 
 
 * Free water restriction  
@@ -286,11 +286,11 @@ Important in hyponatraemia associated with cardiac failure.
 		* Risk of ongoing oedema exceeds risk of osmotic demyelination syndrome
 	* For **acute** (but less severe) hyponatraemia:
 		* 1-2ml/kg/hr of 3% NaCl
-		* Target increase in serum sodium up to 2mmol/L/hr until symptoms improve
+		* Target ↑ in serum sodium up to 2mmol/L/hr until symptoms improve
 	* For **chronic** hyponatraemia:
 		* Infusion rate should be calculated based on calculated sodium deficit and desired rate of correction  
-		$$Infusion \ Rate = Body \ Weight \ (kg) \times Desired \ Rate \ of \ Sodium \ Increase (mmol/L/hr)$$.
-		* Target an increase in serum sodium of **4-8mmol/day**
+		$$Infusion \ Rate = Body \ Weight \ (kg) \times Desired \ Rate \ of \ Sodium \ ↑ (mmol/L/hr)$$.
+		* Target an ↑ in serum sodium of **4-8mmol/day**
 	* Sodium levels should be checked every 2-4 hours during replacement
 	* As sodium levels improve, a more dilute urine should be produced
 

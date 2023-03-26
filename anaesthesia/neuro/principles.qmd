@@ -41,14 +41,14 @@ Key principles:
 * D
 	* Anaesthetic choice
 		* Volatile impairs cerebral autoregulation in:
-			* Increasing concentrations  
+			* ↑ concentrations  
 			**Always** some vasodilation, but the effect is **dose-dependent**. Often ⩽1 MAC is acceptable.
 				* Sevoflurane has the least effect on cerebral blood flow, and is the most suitable volatile agent  
 				Isoflurane and desflurane significantly worse.
 			* Presence of hypercarbia  
 			Loss of CO~2~ reactivity is a bad sign.
 		* Nitrous oxide has several detrimental effects due to cerebral vasodilation
-		* Propofol reduces ICP and increases CPP to a greater extent than sevoflurane  
+		* Propofol reduces ICP and ↑ CPP to a greater extent than sevoflurane  
 		**TIVA** desirable in any patient with severely **raised ICP**
 	* Rapid emergence improves neurological assessment and early detection of complications
 

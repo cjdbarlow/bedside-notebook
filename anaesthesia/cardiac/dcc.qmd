@@ -85,13 +85,13 @@ Modifiable factors:
 
 * Equipment
 	* Larger electrode size  
-	Decreases impedance.
+	↓ impedance.
 	* Skin contact  
 	Consider salt gels.
 	* Pad position  
 	AP or AL.
 	* Repeated shock  
-	Impedance decreases with subsequent shocks.
+	Impedance ↓ with subsequent shocks.
 	* Biphasic defibrillation
 * Patient
 	* Respiration  
@@ -104,7 +104,7 @@ Modifiable factors:
 Relatively non-modifiable factors:
 
 * Body habitus  
-Increased BMI increases impedance. 
+↑ BMI ↑ impedance. 
 * Duration of AF
 * Structural heart disease
 

@@ -14,7 +14,7 @@ Clinical signs of respiratory infection without CXR infiltrates are suggestive o
 HAP:
 
 * Occurs in 0.5-5% of inpatients
-* Risk is increased if:
+* Risk is ↑ if:
     * Post-operative
     * In ICU
 
@@ -34,7 +34,7 @@ Microaspiration of organisms colonising the upper respiratory tract.
 Blood:
 
 * FBE\
-WCC may increase or decrease.
+WCC may ↑ or ↓.
 * Procalcitonin\
 May have a role in timing deescalation of antibiotics.
 * Blood cultures
@@ -115,7 +115,7 @@ Risk factors for MDR include:
         * Antipseudomonal broad spectrum agent\
         As above.
         * Additional gram negative cover\
-        Decreases Risk that pathogen is resistant to the primary agent.
+        ↓ Risk that pathogen is resistant to the primary agent.
             * Aminoglycoside 15-20mg Q24H
             * Ciprofloxacin 400mg Q8H
             * Levofloxacin 750mg Q24H
@@ -127,7 +127,7 @@ Risk factors for MDR include:
 **Prevention**:
 
 * A
-    * Nurse 30° head up to decrease risk of microaspiration
+    * Nurse 30° head up to ↓ risk of microaspiration
     * Oral care Q4H with chlorhexidine mouthwash BD
     * Use subglottic suctioning
     * Use closed suction circuits
@@ -148,7 +148,7 @@ Risk factors for MDR include:
 
 * Death\
 Attributable mortality is low.
-* Increased Ventilator days and ICU length of stay
+* ↑ Ventilator days and ICU length of stay
 * Parapneumonic effusion
     * Uncomplicated effusions resolve with resolution of the underlying infection
     * Complex effusions:

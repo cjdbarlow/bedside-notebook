@@ -35,7 +35,7 @@ May be:
 	* Immune
 		* SLE
 	* Vascular flow  
-	Shear stress on vWF multimers increases susceptibility to cleavage by ADAMTS13.
+	Shear stress on vWF multimers ↑ susceptibility to cleavage by ADAMTS13.
 		* AS
 		* LVAD/ECMO
 		* MV prolapse
@@ -98,7 +98,7 @@ Principles of management include:
 	* Antifibrinolytics (TXA)  
 	Effective independent of aetiology of defect.
 * Replenish vWF and FVIII levels
-	* Increase native secretion
+	* ↑ native secretion
 		* DDAVP
 			* Causes release of vWF from endothelial storage sites  
 			Therefore **effective in type 1**, occasionally in type 2, and never in type 3.

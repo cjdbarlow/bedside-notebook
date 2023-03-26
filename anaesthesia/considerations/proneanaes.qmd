@@ -9,22 +9,22 @@ The prone position is:
 * Associated with many physiological changes
 	* Broadly positive respiratory effects
 		* Unchanged lung and chest wall compliance
-		* Increased FRC provided abdomen is not compressed
+		* ↑ FRC provided abdomen is not compressed
 		* Improved V/Q matching via better distribution of pulmonary blood flow   
-		Leads to increase in PaO~2~.
+		Leads to ↑ in PaO~2~.
 	* Broadly negative CVS effects  
 	These are predominantly due to abdominal and subsequent IVC compression, and can be reduced by ensuring the abdomen is not compressed.
 		* Effects include
-			* Decreased preload  
-			Associated with decrease in CI by ~25%.
-			* Increased venous pressure  
-			Leads to increased bleeding from vertebral wall venous plexuses.
-			* Increased PPV and SVV
+			* ↓ preload  
+			Associated with ↓ in CI by ~25%.
+			* ↑ venous pressure  
+			Leads to ↑ bleeding from vertebral wall venous plexuses.
+			* ↑ PPV and SVV
 		* Effects vary depending on the table being used
 			* The **Jackson table** has the least effect on CVS parameters
-			* The Wilson table and Andrew's support decrease CI
-			* The jack-knife position leads to decreased CI, HR, and increased MAP
-	* Decreased CBF  
+			* The Wilson table and Andrew's support ↓ CI
+			* The jack-knife position leads to ↓ CI, HR, and ↑ MAP
+	* ↓ CBF  
 	May occur if the head is rotated due to partial occlusion of the ICA, VA; and compression of venous drainage.
 
 
@@ -40,7 +40,7 @@ Risk of~1:60,000, or 1:30,000 in spinal surgery. Via two mechanisms:
 	Mechanism of blindness in absence of ocular pressure (e.g. use of Mayfield clamp).
 		* $$Ocular \ Perfusion \ Pressure = MAP - IOP$$  
 		A **MAP target >70mmHg** is reasonable to preserve ocular perfusion during anaesthesia.
-			* IOP will increase with:
+			* IOP will ↑ with:
 				* Venous occlusion
 				* Rise in CVP
 				* Head-down position
@@ -137,7 +137,7 @@ Will affect intra-operative positioning.
 * Slowly turn the patient onto the operating table
 * Use a foam head holder to support the patients head
 * Reconnect the ETT and complete an intraoperative cross-check
-	* A sustained or increased a Pip >5cmH~2~O should prompt review for endobronchial intubation or bronchospasm
+	* A sustained or ↑ a Pip >5cmH~2~O should prompt review for endobronchial intubation or bronchospasm
 * Assess the pressure areas and position
 	* Ensure that the **eyes** are free of pressure  
 	Use a mirror to confirm the eyes are not compressed.

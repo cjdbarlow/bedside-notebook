@@ -1,6 +1,6 @@
 # Asthma
 
-Heterogenous chronic inflammatory disease of the small airways, characterised by increased sputum production and airway reactivity. Diagnosis requires a combination of:
+Heterogenous chronic inflammatory disease of the small airways, characterised by ↑ sputum production and airway reactivity. Diagnosis requires a combination of:
 
 * Respiratory symptoms
     * Wheeze
@@ -21,16 +21,16 @@ In Australia:
 
 * 10% have chronic asthma\
 ~50% of these have uncontrolled disease and form the highest risk group for critical care.
-* Significant decrease in intensive care admissions with improved community management\
+* Significant ↓ in intensive care admissions with improved community management\
 Namely:
     * Guidelines
-    * Increased inhaled steroid use
+    * ↑ inhaled steroid use
     * Asthma action plans
     
 Risk factors:
 
 * Atopy\
-Decreased Exposure to childhood infections may increase risk of asthma, hayfever, and eczema.
+↓ Exposure to childhood infections may ↑ risk of asthma, hayfever, and eczema.
 * Family history
 
 ## Pathophysiology
@@ -43,22 +43,22 @@ Underlying pathology involves both:
     * May lead to obstruction and plugging of small airways\
     Usually offset by hyperinflation. 
     
-This leads to a combination of **increased airway resistance** and **dynamic hyperinflation**, with consequentially:
+This leads to a combination of **↑ airway resistance** and **dynamic hyperinflation**, with consequentially:
 
-* Increased Work of breathing\
-Lung compliance and the mechanical efficiency of respiratory muscles both decrease at high lung volumes.
+* ↑ Work of breathing\
+Lung compliance and the mechanical efficiency of respiratory muscles both ↓ at high lung volumes.
     * Physical exhaustion\
     Maintenance of elevated work of breathing may lead to tiring and respiratory failure.
 * V/Q mismatch\
-Further increases work of breathing.
+Further ↑ work of breathing.
 * Impaired cardiac function\
-    * RV preload may be increased by the very negative intrathoracic pressures produced during vigorous inspiration
+    * RV preload may be ↑ by the very negative intrathoracic pressures produced during vigorous inspiration
     * RV afterload worsened by combination of:
         * Pulmonary vascular compression by hyperinflated lungs
         * Hypoxia
         * Acidosis
     * LV preload may be worsened by impaired RV function
-    * LV afterload significantly increased by negative intrathoracic pressures  
+    * LV afterload significantly ↑ by negative intrathoracic pressures  
 
 
 ### Aetiology
@@ -105,7 +105,7 @@ Bloods:
 * ABG/VBG\
     * VBG determines the lower limit of pH and the upper limit of PaCO~2~
     * Respiratory *alkalosis* predominates in *early* disease due to hypoxia
-    * As the disease worsens and V/Q mismatch increases, an increased MV produces the same blood gas composition
+    * As the disease worsens and V/Q mismatch ↑, an ↑ MV produces the same blood gas composition
     * Respiratory **acidosis** emerges in **late disease** when the patient tires and is unable to maintain the required MV
     * A lactic acidosis secondary to beta agonists may also be present
     
@@ -181,19 +181,19 @@ Patient response over the first **2 hours** of treatment are an important guide 
                 * 5-10mmol IV over ~20 minutes
         * Anaesthetic agents
             * Ketamine\
-            Direct and indirect (via increased sympathetic tone) bronchodilation. Useful as an induction agent for endotracheal intubation or as a component of post-intubation sedation, but not independently of this.
+            Direct and indirect (via ↑ sympathetic tone) bronchodilation. Useful as an induction agent for endotracheal intubation or as a component of post-intubation sedation, but not independently of this.
             * Volatile\
             Many inhaled anaesthetic agents (sevoflurane, isoflurane, enflurane, halothane) are effective direct bronchodilators, with use limited by requiring an intubated patient and a ventilator capable of administering them.
     * Non-Invasive Ventilation\
-    PEEP decreases inspiratory threshold work and may split open small airways, whilst Psup decreases inspiratory work and increases Vt and MV.
+    PEEP ↓ inspiratory threshold work and may split open small airways, whilst Psup ↓ inspiratory work and ↑ Vt and MV.
         * Indicated for:
-            * Moderate-severe dyspnoea or increased work of breathing
+            * Moderate-severe dyspnoea or ↑ work of breathing
             * Respiratory acidosis
         * Commence with:
             * CPAP 5cmH~2~O\
-            Increase If difficulty initiating inspiration.
+            ↑ If difficulty initiating inspiration.
             * Psup 8-10cmH~2~O\
-            Increase If low Vt/high RR.
+            ↑ If low Vt/high RR.
         * Target Vt ~7mL/kg, RR ~25
     * VV ECMO\
     May be required if oxygenation is unable to be managed effectively following intubation. 
@@ -247,11 +247,11 @@ Inferior bronchodilator relative to others available, with a narrow therapeutic 
     * Dynamic hyperinflation\
     Airway obstruction leads to **incomplete exhalation** in a **normal expiratory time**. If expiratory time is not prolonged (due to the next breath being taken), then there is progressive accumulation of gas in the lungs and a rise in lume volume. This may precipitate:
         * Hypotension and cardiovascular collapse\
-        Progressive impairment to VR due to increased intrathoracic pressure.
+        Progressive impairment to VR due to ↑ intrathoracic pressure.
         * Barotrauma
             * Pneumothorax\
-                * Unilateral pneumothorax will result in preferential ventilation of the uninjured lung, increasing the risk of a second (bilateral) pneumothorax\
-                Respiratory rate should be further decreased following diagnosis of a PTx to reduce this risk.
+                * Unilateral pneumothorax will result in preferential ventilation of the uninjured lung, ↑ the risk of a second (bilateral) pneumothorax\
+                Respiratory rate should be further ↓ following diagnosis of a PTx to reduce this risk.
                 * Catheters should be inserted by blunt dissection to minimise risk of lung injury.
 * E
     * CIM

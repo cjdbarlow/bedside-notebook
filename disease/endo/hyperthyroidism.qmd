@@ -64,11 +64,11 @@ Include:
 	* Thyroid state  
 	Patients should be euthyroid preoperatively to avoid thyroid storm.
 		* Carbimazole  
-		Decreases iodine uptake and inhibits peroxidase enzyme, preventing iodine coupling.
+		↓ iodine uptake and inhibits peroxidase enzyme, preventing iodine coupling.
 		* Propothiouracil  
-		Inhibits thyroperoxidase, and also decrease T~4~ to T~3~ conversion.
+		Inhibits thyroperoxidase, and also ↓ T~4~ to T~3~ conversion.
 		* Steroids  
-		Decrease T~4~ to T~3~ conversion.
+		↓ T~4~ to T~3~ conversion.
 		* Lugol's Iodine
 		* β-blockers
 

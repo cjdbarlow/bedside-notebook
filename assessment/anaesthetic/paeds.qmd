@@ -51,8 +51,8 @@ May have bacterial superinfection.
 * Commonly described as URTIs, but usually involve whole respiratory tract
 * Associated with ↑ risk of respiratory complications:  
 For 6/52 post infection (though highest risk in first 2/52):
-	* 5x increase
-	* 10x increase if intubated
+	* 5x ↑
+	* 10x ↑ if intubated
 	* Including:
 		* Laryngospasm
 		* Coughing
