@@ -1,0 +1,244 @@
+# Acute Pancreatitis
+
+Acute inflammation of the pancreas that is subclassified by severity into:
+
+:::column-margin
+The **Glasgow Criteria** are adverse prognostic factors:
+
+* Admission
+	* Age >55
+	* WCC >16 1,000/mm^3^
+	* Glucose >11 mmol/L
+	* AST >250 U/L
+* Within 48 hours
+	* ↓ In Hct >10%
+	* ↑ In urea >1.8 mmol/L
+	* Calcium <2 mmol/L
+	* PaO~2~ <60 mmHg
+:::
+
+* Mild acute pancreatitis\
+No organ failure or complications.
+* Moderate acute pancreatitis\
+	* Transient (<48 hours) organ failure
+	* Local complications\
+	Peripancreatic fluid collections, which can be:
+		* Necrosis\
+		Non-viable pancreas that may be sterile or infected. Necrosis:
+			* Usually develops early
+			* Is established by 96 hours
+			* Is a major prognostic factor.
+		* Pseudocysts
+		* Cysts
+	* Systemic complications
+* Severe acute pancreatitis\
+As moderate, but with persistent single or multiorgan failure.
+
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+Precipitants include:
+
+* Biliary obstruction\
+35-40%.
+	* **Gallstones**
+	* Malignancy
+* Drugs
+	* **Alcohol**\
+	35%.
+	* Antibiotics
+		* Metronidazole
+		* Nitrofurantoin
+		* Erythromycin
+		* Tetracyclines
+		* Sulphonamides
+	* Diuretics
+		* Furosemide
+		* Thiazides
+	* Toxins
+		* Methyl alcohol
+		* Scorpion venom
+		* Organophosphates
+* Metabolic
+	* **Hyperlipidaemia**
+	* Hypercalcaemia
+		* Hyperparathyroidism
+	* DKA
+	* ESRD
+* Infections
+	* Viral
+		* HIV
+		* EBV
+		* Mumps
+	* Bacteria
+		* Mycoplasma
+		* Legionella
+		* Campylobacter
+	* Parasites
+		* Ascariasis
+* Immune
+	* Polyarteritis nodosa
+	* SLE
+	* TTP
+* Pregnancy
+* Trauma
+* Iatrogenic
+	* Postoperative
+
+:::column-margin
+An enjoyable mnemonic for some of these causes is:
+
+* **I**diopathic\
+\
+* **G**all stones
+* **E**thanol
+* **T**rauma\
+\
+* **S**teroids
+* **M**umps\
+And other viruses.
+* **A**utoimmune
+* **S**corpions
+* **H**yperlipidaemia
+* **E**RCP
+* **D**rugs
+:::
+
+## Clinical Manifestations
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+Radiology:
+
+* Contrast CT
+	* Pancreatitis\
+	Loss of normal contrast enhancement.
+	* Necrosis
+* Ultrasound
+	* Usually limited by bowel gas
+	* Cannot quantify necrosis
+	* Provides assessment of biliary tree
+	* May provide guidance for needle aspiration
+
+## Management
+
+:::info
+Surgical management of pancreatitis is associated with very high mortality; treatment is supportive and surgical management should only be resorted to if it is otherwise unavoidable.
+:::
+
+**Resuscitation**:
+
+* C
+	* Volume resuscitation\
+		* Aggressive volume resuscitation required for offsetting distributive shock and correcting hypovolaemia
+		* >10mL/kg associated with ↑ ARDS and ↑ abdominal compartment syndrome
+	* Haemodynamic support
+
+**Specific therapy**:
+
+:::column-margin
+Carbapenems have exceptional penetration into pancreatic tissue, and are effective against most culprit organisms.
+:::
+
+* Pharmacological
+	* Antibiotics\
+		* Low threshold for IV antibiotics if suspecting infected collection
+		* Prophylactic antimicrobials *may* have a role in severe disease
+	* NSAIDs\
+	Appropriate post-ERCP in mild gallstone pancreatitis as analgesics and may ↓ severity.
+* Procedural
+	* Feeding\
+		* EN should be started once hyperacute inflammation ceases
+		* PN indicated only if EN fails or is contraindicated\
+		EN ↓ infection, organ failure, and mortality compared with PN.
+		* NJ feeding may be preferable to NG to avoid ↑ pancreatic secretion
+	* Open necrosectomy\
+		* **Infected** collections should be managed **non-operatively** for **>4 weeks** to allow fibrous walls and liquefaction to occur
+		* Indications for surgery usually are other abdominal complication, e.g.:
+			* Perforation
+			* Bleeding
+			* Mesenteric ischaemia
+	* Needle aspiration
+	* Cholecystectomy\
+	Indicated in gallstone pancreatitis due to high (up to 90%) rate of recurrence.
+		* Mild cases can proceed immediately
+		* More severe disease should be stabilised first
+	* ERCP
+		* ↓ Morbidity and mortality in **mild** gallstone pancreatitis
+
+:::column-margin
+Feeding:
+
+* Maintains gut mucosal barrier
+* Corrects nutritional deficiencies\
+Many patients malnourished on presentation.
+* ↓ Risk of secondary infection of necrotic pancreatic tissue
+:::
+
+**Supportive care**:
+
+**Disposition**:
+
+### Marginal and Ineffective Therapies
+
+Prophylactic antifungal therapy is not recommended.
+
+Various therapies aimed at generally ↓ pancreatic exocrine function are without evidence, and include:
+
+* Octreotide
+* Somatostatin
+* H~2~-antagonists
+* Atropine
+* Calcitonin
+* Glucagon
+* Fluorouracil
+
+
+Interventions aimed to ↓ protease secretion are also without evidence, and include:
+
+* Aprotinin
+* Gabexate mesilate
+
+## Anaesthetic Considerations
+
+## Complications
+
+* Death\
+5-10% mortality in severe disease.
+* B
+	* ARDS
+* C
+	* Shock
+		* Distributive
+		* Hypovolaemic
+* G
+	* Abdominal compartment syndrome
+	* Pancreatic cysts\
+	Do not merit surgical intervention unless:
+		* Gastric outflow obstruction
+		* Biliary obstruction
+	* Pancreatic abscess\
+	Infected collections are a major contributor to morbidity and mortality.
+		* Usually arise 4 weeks after severe pancreatitis
+		* Amenable to percutaneous drainage
+
+## Prognosis
+
+Poor prognostic signs:
+
+* Pancreatic necrosis
+	* Pancreatic head necrosis is as severe as whole pancreatic necrosis
+	* Pancreatic tail necrosis usually has a good prognosis
+
+## Key Studies
+
+
+---
+
+## References

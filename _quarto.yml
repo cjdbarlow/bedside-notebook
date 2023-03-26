@@ -647,8 +647,9 @@ book:
             - disease/git/alf.qmd
             - disease/git/cld.qmd
             # Portal HTN
-        # - part: "Biliary"
-        #   chapters:
+        - part: "Biliary"
+          chapters:
+            - disease/git/acute_panc.qmd
               # Calculus cholecystitis
               # Acalculus cholecystitis
               # Pancreatic

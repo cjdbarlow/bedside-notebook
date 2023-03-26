@@ -101,8 +101,8 @@ ABC approach. Comment on team coordination and clinical priorities.
 **Specific therapy**:
 
 * Pharmacological
-* Physical
 * Procedural
+* Physical
 
 **Supportive care**:
 
