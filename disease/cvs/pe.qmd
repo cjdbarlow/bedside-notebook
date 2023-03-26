@@ -20,13 +20,13 @@ Subsegmental PEs are also sometimes described, which refer to distal emboli seen
 Risk factors for clot formation are given by Vichows triad:
 
 :::column-margin
-Systemic prothrombotic effects (e.g. Factor V Leiden, OCP use, obesity) predominantly increase risk of DVT (and later embolism), pulmonary disease tends to increase risk of PE without increasing DVT risk.
+Systemic prothrombotic effects (e.g. Factor V Leiden, OCP use, obesity) predominantly ↑ risk of DVT (and later embolism), pulmonary disease tends to ↑ risk of PE without ↑ DVT risk.
 :::
 
 * Stasis  
 Many thrombi occur around venous valves.
 	* Advanced age  
-	Risk increases after 40.
+	Risk ↑ after 40.
 	* Immobilisation
 	* Obesity
 	* General anaesthesia  
@@ -60,7 +60,7 @@ Many thrombi occur around venous valves.
 	* Previous VTE
 	* Drugs
 		* OCP  
-		2-5x increased relative risk.
+		2-5x ↑ relative risk.
 		* Chemotherapeutics
 		* Smoking
 		* Antipsychotics
@@ -85,7 +85,7 @@ PE predominantly arise from DVT in the lower limbs, pelvic veins, or IVC. DVT ca
 	* Break off entirely  
 	~20% of patients with PE have no identified DVT.
 * Impaired pulmonary gas exchange:
-	* Increased alveolar dead space  
+	* ↑ alveolar dead space  
 	Non-perfused alveoli distal to clot.
 	* Over-perfusion of non-clotted lung  
 	May cause shunt via a variety of mechanisms:
@@ -95,10 +95,10 @@ PE predominantly arise from DVT in the lower limbs, pelvic veins, or IVC. DVT ca
 		* Loss of surfactant
 		* Vasoactive peptide secretion
 * Acute RV dysfunction
-	* Increased PVR  
-	Pulmonary arterial obstruction leads to increased PVR and elevated RV afterload. May be exacerbated by low mixed venous PO~2~ .
-	* Increased Right-sided pressures  
-	Increase in RAP may open a PFO and lead to intracardiac right-to-left shunting and risk of systemic embolism.
+	* ↑ PVR  
+	Pulmonary arterial obstruction leads to ↑ PVR and elevated RV afterload. May be exacerbated by low mixed venous PO~2~ .
+	* ↑ Right-sided pressures  
+	↑ in RAP may open a PFO and lead to intracardiac right-to-left shunting and risk of systemic embolism.
 	
 
 ## Clinical Manifestations
@@ -118,11 +118,11 @@ Features are few and generally non-specific, but may be:
 
 * Due to pulmonary hypertension
 	* RV pressure overload
-		* Increased RAP  
+		* ↑ RAP  
 		May be seen as elevated JVP.
-		* Increased PVR
-		* Decreased CO
-		* Increased SVR
+		* ↑ PVR
+		* ↓ CO
+		* ↑ SVR
 	* Loud P~2~
 
 * Due to obstructive shock:
@@ -184,12 +184,12 @@ Radiology:
 	* Quicker and more available than V/Q scanning, but requires contrast load
 	* ~85% sensitive  
 	Varies depending on machine and radiologist.
-		* Increases to ~100% of PEs with haemodynamic instability
+		* ↑ to ~100% of PEs with haemodynamic instability
 		* Commonly identifies subsegmental PE in asymptomatic patients\
 		Clinical significance is unclear, but do not require anticoagulation.
 * VQ scan
 	* May not be appropriate if existing cardio-pulmonary disease
-	* Sensitivity increased with modern SPECT devices  
+	* Sensitivity ↑ with modern SPECT devices  
 	~1% now non-diagnostic.
 	* More sensitive than CTPA for peripheral emboli
 
@@ -265,7 +265,7 @@ Also non-specific, but suggest massive embolism rather than smaller emvoli.
 Respiratory Function Tests:
 
 * Physiological dead space:
-	* Almost always increased in the case of PE  
+	* Almost always ↑ in the case of PE  
 	Formal measurement is:
 		* 100% sensitive
 		* 89% specific
@@ -311,9 +311,9 @@ Methods include:
 
 ### Anticoagulation
 
-Therapeutic anticoagulation inhibits clot progression, allowing intrinsic fibrinolysis to decrease clot burden. Anticoagulation:
+Therapeutic anticoagulation inhibits clot progression, allowing intrinsic fibrinolysis to ↓ clot burden. Anticoagulation:
 
-* Decreases Mortality and recurrence\
+* ↓ Mortality and recurrence\
 May be reasonable to commence prior to formal diagnosis if bleeding risk is low.
 * Initial anticoagulation should be performed with heparin:
 	* UFH\

@@ -513,7 +513,7 @@ My approach is tailored to the individual patient, with a strong preference towa
 		* Ex-vacuo\
 		Loss of brain tissue resulting in ↑ CSF volume.
 	* **Seizure** (<10%)\
-	Uncommon. Risk increase with stroke severity, and may indicated haemorrhagic transformation.
+	Uncommon. Risk ↑ with stroke severity, and may indicated haemorrhagic transformation.
 	* Hyperglycaemia (40%)
 		* Common
 		* Associated with mortality and morbidity
@@ -555,7 +555,7 @@ Degree of disability following stroke is commonly quantified using the **Modifie
 * Age\
 >85 has 35% in-hospital mortality.
 * Requiring mechanical ventilation\
-~50% in-hospital mortality (lowest for ischaemic stroke) and significantly increased disability in survivors.
+~50% in-hospital mortality (lowest for ischaemic stroke) and significantly ↑ disability in survivors.
 
 
 ## Key Studies

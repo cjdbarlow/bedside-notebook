@@ -199,9 +199,9 @@ Classification by clinical features:
 |No focal neurology|Focal Neurology|Meningism|
 |--|--|--|
 |Infection <br> Encephalitis, septic encephalopathy.|CVA <br> Coma due to CVA is typically due to a posterior circulation lesion, as both cerebral corticies must be disrupted to produce coma.|Infection <br> - Meningitis|
-|Vasculitis|ICH <br> SDH and EDH may cause global depression and seizures. IPH effects may be due to increased ICP, or damage to key pathways.|Vascular <br> - SAH <br> SAH depresses conscious state through direct anoxic-ischaemic injury, or indirectly due to hydrocephalus.|
+|Vasculitis|ICH <br> SDH and EDH may cause global depression and seizures. IPH effects may be due to ↑ ICP, or damage to key pathways.|Vascular <br> - SAH <br> SAH depresses conscious state through direct anoxic-ischaemic injury, or indirectly due to hydrocephalus.|
 |Seizures <br> Including Nonconvulsive status epilepticus|Trauma||
-|Brainstem|Tumour (including lymphoma and metastases) <br> Via direct pressure on key areas, or by diffuse increase in ICP. May have slow progression of findings.||
+|Brainstem|Tumour (including lymphoma and metastases) <br> Via direct pressure on key areas, or by diffuse ↑ in ICP. May have slow progression of findings.||
 |Drugs|Abscess||
 |Metabolic|Acute hydrocephalus <br> Spasticity due to stretching of motor cortex. Diplopia due to CN III or CN VI compression.||
 |Hyopoxic-Ischaemic Encephalopathy|Posterior Reversible Encephalopathy Syndrome (PRES) <br> Patchwork vasodilation and vasoconstriction due to severe hypertension, producing visual disturbances and altered conscious state.|||

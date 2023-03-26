@@ -68,7 +68,7 @@ Inability to perform **any activity** without symptoms. Patients:
 	* May have rest symptoms  
 	Dyspnoea, fatigue.
 	* 27% 5-year survival rate without treatment  
-	Increased to 54% with treatment.
+	↑ to 54% with treatment.
 
 
 
@@ -80,9 +80,9 @@ Inability to perform **any activity** without symptoms. Patients:
 
 Change in mPAP can be due to:
 
-* Increased RV CO
-* Increased PVR
-* Increased LAP
+* ↑ RV CO
+* ↑ PVR
+* ↑ LAP
 
 
 PASP in one metric to assess severity of disease. Key other metrics:
@@ -229,7 +229,7 @@ Poor tolerance to change in loading conditions.
 Pulmonary vasodilators:
 
 * Prostacyclins  
-Increase dose as tolerated to prevent systemic hypertension.
+↑ dose as tolerated to prevent systemic hypertension.
 	* Epoprostenol
 		* Reduces mortality
 		* Administered by continued infusion  
@@ -264,7 +264,7 @@ Transplantation:
 
 ### Anaesthetic Considerations
 
-Increased perioperative morbidity and mortality.
+↑ perioperative morbidity and mortality.
 
 
 Consider the package:
@@ -306,7 +306,7 @@ Consider the package:
 		* Optimise rate  
 		High-normal.
 	* Haemodynamic goals
-		* Avoid increased PVR
+		* Avoid ↑ PVR
 			* Hypoxia
 			* Hypercapnoea
 			* Acidosis
@@ -315,7 +315,7 @@ Consider the package:
 			* Be careful of pneumoperitoneum
 		* Vasopressor
 			* Vasopressin  
-			Allegedly will not increase PVR.
+			Allegedly will not ↑ PVR.
 			* Noradrenaline
 		* Inotropes
 			* Dobutamine

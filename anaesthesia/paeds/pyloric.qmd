@@ -58,7 +58,7 @@ Hypokalaemic hypochloraemic metabolic alkalosis.
 		Extent of compensation (i.e. PaCO~2~) is a marker of severity of dehydration.
 		* Respiratory alkalosis (secondary to hypovolaemic shock) suggests **critical** dehydration
 		* Potassium may be high, normal, or low, depending on the degree of acidosis and the volume state  
-			* As volume state falls, aldosterone will increase Na^+^ retention and lead to hypokalaemia
+			* As volume state falls, aldosterone will ↑ Na^+^ retention and lead to hypokalaemia
 			* As hypokalaemia worsens, the kidney will then retain Na^+^ and eliminate H^+^  
 			This leads to a paradoxically acidic urine.
 		* HCl may be used to correct severe alkalosis but is rarely necessary

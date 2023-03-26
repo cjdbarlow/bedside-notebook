@@ -93,7 +93,7 @@ Narrow or crowded upper airway, from:
 	* **Ineffective pharyngeal dilator**  
 	Pharyngeal closing pressure:
 		* Evaluates the CPAP required to maintain airway patency
-		* CPAP is gradually decreased during stable sleep, until airflow limitation occurs
+		* CPAP is gradually ↓ during stable sleep, until airflow limitation occurs
 		* Patients with OSA commonly have a pharyngeal closing pressure close to atmospheric pressure
 		* OSA is rare in patients with Pcrit lower than -5cmH~2~O
 	* **Unstable control of breathing**  
@@ -220,7 +220,7 @@ FNE:
 Largely focuses on correcting anatomical causes:
 
 * CPAP  
-Increases pharyngeal pressure above closing pressure, maintaining airway patency.
+↑ pharyngeal pressure above closing pressure, maintaining airway patency.
 	* Indicated in moderate to severe disease
 	* Improves sleep quality and quality of life
 	* Reduces pulmonary complications
@@ -241,7 +241,7 @@ Surgery:
 
 >* Respiratory and cardiac risk is elevated perioperatively  
 > Risk is substantially elevated with unrecognised severe OSA; up to 14x risk of cardiac death, 7x risk of CCF, 3x risk of pneumonia, 2x risk of sepsis, etc.
-> * Treating patients with OSA in the perioperative period appears effective in decreasing their perioperative risk
+> * Treating patients with OSA in the perioperative period appears effective in ↓ their perioperative risk
 
 * A
 	* CPAP available  
@@ -249,17 +249,17 @@ Surgery:
 	* Difficult airway  
 	Intubation difficult in 10-25%.
 * B
-	* Significantly increased risk of perioperative pulmonary and cardiovascular complications including:
+	* Significantly ↑ risk of perioperative pulmonary and cardiovascular complications including:
 		* Aspiration pneumonia
 		* ARDS
 		* PE
 		* Reintubation  
 		Double risk.
-	* Treatment prior to surgery may decrease perioperative risk
+	* Treatment prior to surgery may ↓ perioperative risk
 	* Perioperative respiratory monitoring is reasonable  
 	Lacks strong evidence base.
 * C
-	* Increased CVS complications  
+	* ↑ CVS complications  
 	1.5-2x rate of cardiac complications.
 * D
 	* No clear evidence for general anaesthesia or regional anaesthesia (or vice versa)
@@ -290,15 +290,15 @@ Due to changed autonomic tone.
 	* Directly  
 	Due to hypoxic pulmonary vasoconstriction.
 	* Indirectly
-		* Increased sympathetic tone  
+		* ↑ sympathetic tone  
 		Due to hypoxia.
-		* Increased transmural pressure from more neagative intrathoracic pressure due to inspiratory effort against upper airway obstruction
+		* ↑ transmural pressure from more neagative intrathoracic pressure due to inspiratory effort against upper airway obstruction
 
 
 Obesity Hypoventilation Syndrome:
 
 * Present in 15%
-Risk increases BMI, >50% with BMI >50.
+Risk ↑ BMI, >50% with BMI >50.
 	* Requires HDU monitoring post-operatively
 	* CPAP pre-operatively for stabilisation
 

@@ -1,7 +1,7 @@
 # Cystic Fibrosis
 
 
-Multisystem genetic disorder with a heterogenous phenoytype affecting the CFTR channel, reducing chloride levels and increasing viscosity of mucous across multiple organ systems, though most significantly in the lungs.
+Multisystem genetic disorder with a heterogenous phenoytype affecting the CFTR channel, reducing chloride levels and ↑ viscosity of mucous across multiple organ systems, though most significantly in the lungs.
 
 
 ## Epidemiology and Risk Factors
@@ -26,7 +26,7 @@ Over 1100 described mutations.
 Multiorgan manifestations:
 
 * Respiratory  
-Increased mucous viscosity and decreased mucociliary clearance, leading to:
+↑ mucous viscosity and ↓ mucociliary clearance, leading to:
 	* Chronic sinusitis
 	* Recurrent LRTI  
 	Chronic colonisation with atypical pathogens.
@@ -82,7 +82,7 @@ Genetic testing:
 Medical management is primarily supportive:
 
 * Respiratory  
-Aims to decrease incidence and duration of respiratory tract infections. Includes:
+Aims to ↓ incidence and duration of respiratory tract infections. Includes:
 	* Daily respiratory physiotherapy
 	* Bronchodilators
 	* Mucolytics  
@@ -145,7 +145,7 @@ Preoperative investigations should include:
 Poor prognostic factors include:
 
 * Chronic pseudomonas infection  
-Increased rate of pulmonary decline, decreased survival.
+↑ rate of pulmonary decline, ↓ survival.
 * Pulmonary hypertension
 
 ## Key Studies

@@ -40,7 +40,7 @@ Relative:
 
 * Shock/cardiac dysfunction/complex anaesthesia
 	* Requires more involvement
-	* Decreased ability to measure and adjust values
+	* ↓ ability to measure and adjust values
 * Propofol contraindication
 	* Mitochondrial disease
 	* Risk of propofol infusion syndrome
@@ -62,10 +62,10 @@ Relative:
 	* Potentially greater haemodynamic stability
 * D
 	* Reduced ICP
-	* Decreased incidence of PONV
-	* Decreased incidence of emergence delirium
+	* ↓ incidence of PONV
+	* ↓ incidence of emergence delirium
 * Other
-	* Decreased pollution
+	* ↓ pollution
 	* Cheaper
 	* Benefit still exists even if converting from another anaesthetic modality (e.g. volatile)
 
@@ -73,12 +73,12 @@ Relative:
 ## Disadvantages
 
 * D
-	* Potentially increased risk of awareness  
+	* Potentially ↑ risk of awareness  
 	Related to failure to apply the technique effectively, rather than failure of the technique itself.
 		* Suggest use of **processed EEG monitoring** in patients with neuromuscular blockade
 * E
 	* Obesity  
-	Models are not validated in obese patients, and the risk of awareness is increased.
+	Models are not validated in obese patients, and the risk of awareness is ↑.
 		* Marsh model is capped at 150kg
 		* Schneider is capped at a BMI of 42 (men) or 35 (women)
 
@@ -120,7 +120,7 @@ All models perform well in practice, and any are reasonable. After 10 minutes th
 		* Greater haemodynamic stability/Longer induction time
 	* Paediatrics
 		* Models not as refined as adults  
-		Generally require larger initial bolus (greater V~1~) and infusion rate (increased clearance)
+		Generally require larger initial bolus (greater V~1~) and infusion rate (↑ clearance)
 		* Note highly variable propofol pharmacokinetics in neonates
 		* Widely available models include:
 			* **Paedfusor**  
@@ -134,7 +134,7 @@ All models perform well in practice, and any are reasonable. After 10 minutes th
 * Remifentanil
 	* Minto
 		* Can be used in either plasma-site targeting or effect-site targeting  
-		Effect-site gives greater speed of induction but increased risk of chest-wall rigidity or severe bradycardia.
+		Effect-site gives greater speed of induction but ↑ risk of chest-wall rigidity or severe bradycardia.
 
 
 ## A Framework for Delivering TIVA

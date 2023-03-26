@@ -30,9 +30,9 @@ Up to 30% of inpatients.
 Diabetes is included in multiple scoring systems, and is an obvious risk factor for perioperative morbidity and mortality. Key outcomes include:
 
 * Mortality  
-50% increase.
+50% ↑.
 * Respiratory complications  
-2.4-fold increase.
+2.4-fold ↑.
 * AKI
 * Infection
 	* Surgical site infections
@@ -44,25 +44,25 @@ Diabetes is included in multiple scoring systems, and is an obvious risk factor 
 	* DKA
 
 
-Perioperative risk is further increased in:
+Perioperative risk is further ↑ in:
 
 * Smokers
 * Long duration of diabetes
 * Poor glycaemic control
 * Obesity
 * HTN
-* Increased lipids
+* ↑ lipids
 
 
 Key Considerations:
 
 * C
 	* Cardiac risk assessment  
-	Increased risk of CAD and silent ischaemia.
+	↑ risk of CAD and silent ischaemia.
 * D
 	* Perioperative BSL  
 	Surgery and anaesthesia precipitate a neuroendocrine stress response and counterregulatory hormone release  
-		* Leads to insulin resistance, decreased peripheral glucose utilisation, increased lipolysis and protein catabolism
+		* Leads to insulin resistance, ↓ peripheral glucose utilisation, ↑ lipolysis and protein catabolism
 		* Significant attention must be given to perioperative management of blood glucose and hypoglycaemics
 	* **Insulin dependency**  
 	More important than aetiology.
@@ -71,7 +71,7 @@ Key Considerations:
 	* Presence of **diabetic complications**
 		* Microvascular  
 			* Autonomic neuropathy  
-			Increases peri-induction instability of cardiovascular parameters.
+			↑ peri-induction instability of cardiovascular parameters.
 		* Macrovascular
 	* **Baseline** glucose **control**  
 	Average, range, frequency of monitoring, and HbA1c.
@@ -105,8 +105,8 @@ Depends on timing of list.
 
 | Class             | Generic Name                                | Recommendation                                                                                                                                                                         | Rationale                                                                                                                                                      |
 | ---               | ---                                         | ---                                                                                                                                                                                    | ---                                                                                                                                                            |
-| Biguanide         | Metformin                                   | Withhold 24 hours pre-major surgery                                                                                                                                                    | Increase risk of lactic acidosis and tissue hypoxia if elimination impaired by renal hypoperfusion; can proceed with minor surgery if the patient has taken it |
-| Sulphonylurea     | Gliclazide, Glipizide, Glimepiride          | Withhold day of surgery                                                                                                                                                                | Increase risk of hypoglycaemia                                                                                                                                 |
+| Biguanide         | Metformin                                   | Withhold 24 hours pre-major surgery                                                                                                                                                    | ↑ risk of lactic acidosis and tissue hypoxia if elimination impaired by renal hypoperfusion; can proceed with minor surgery if the patient has taken it |
+| Sulphonylurea     | Gliclazide, Glipizide, Glimepiride          | Withhold day of surgery                                                                                                                                                                | ↑ risk of hypoglycaemia                                                                                                                                 |
 | Glitazones        | Rosiglitazone, Pioglitazone                 | Withhold day of surgery                                                                                                                                                                |                                                                                                                                                                |
 | GLP-1 agonists    | Exanatide                                   | Withhold day of surgery                                                                                                                                                                |                                                                                                                                                                |
 | DPP-4 inhibitors  | Sitagliptin                                 | Withhold day of surgery                                                                                                                                                                | Alter GI motility                                                                                                                                              |
@@ -195,7 +195,7 @@ Sliding scales should be based on the total daily insulin dose:
 
 Significant risk:
 
-* Increased perioperative risk
+* ↑ perioperative risk
 * Microvascular disease  
 Development related to both magnitude and duration of hyperglycaemia.
 	* Retinopathy
@@ -238,17 +238,17 @@ Glycated neutrophils.
 
 ### Obstetric Complications
 
->Complication rate increased in women with pre-existing diabetes, rather than gestational diabetes mellitus (GDM)
+>Complication rate ↑ in women with pre-existing diabetes, rather than gestational diabetes mellitus (GDM)
 
 Maternal diabetes:
 
 * Results in complications for both:
 	* Mother
-		* Increased insulin resistance  
-		Increases over course of pregnancy.
+		* ↑ insulin resistance  
+		↑ over course of pregnancy.
 		* Superimposed pre-eclampsia
 		* Diabetic ketoacidosis  
-		Major factor increasing perinatal morbidity and mortality.
+		Major factor ↑ perinatal morbidity and mortality.
 	* Foetus
 		* Placental insufficiency  
 			* Uteroplacental blood flow is reduced 35-45%  
@@ -256,7 +256,7 @@ Maternal diabetes:
 			* Reduced oxygen transport on HbA~1c~
 		* Foetal macrosomia
 			* Shoulder dystocia
-		* Increased foetal acidosis at delivery
+		* ↑ foetal acidosis at delivery
 		* Structural defects
 			* Cardiac
 			* Spina bifida

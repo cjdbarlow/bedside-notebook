@@ -1,6 +1,6 @@
 # Hyperbaric Oxygen Therapy
 
-The use of a pressure chamber to deliver greater-than-atmospheric partial pressures of gas, in particular oxygen. This significantly increases the partial pressure of oxygen dissolved in plasma.
+The use of a pressure chamber to deliver greater-than-atmospheric partial pressures of gas, in particular oxygen. This significantly ↑ the partial pressure of oxygen dissolved in plasma.
 
 Delivered therapy varies on:
 
@@ -16,7 +16,7 @@ Delivered therapy varies on:
 * Decompressive Injury
 * CO~2~ toxicity\
 CO binds Hb with significantly greater affinity than O~2~.
-    * Increasing PaO~2~ reduces the half-life of CO:
+    * ↑ PaO~2~ reduces the half-life of CO:
         * Air: 320 minutes
         * 100% FiO2~2~: 90 minutes
         * 3 atm: 23 minutes

@@ -71,9 +71,9 @@ Required.
 		* 50-100: 1
 		* ⩽50: 
 	* FDPs
-		* No increase: 0
-		* Moderate increase: 2
-		* Strong increase: 3
+		* No ↑: 0
+		* Moderate ↑: 2
+		* Strong ↑: 3
 	* PT
 		* ⩽3s: 0
 		* 3-6s: 1
@@ -100,16 +100,16 @@ Key investigations include:
 	* Anaemia  
 	Microangiopathic haemolytic anaemia.
 	* Thrombocytopaenia  
-	Low or rapidly decreasing
+	Low or rapidly ↓
 .* Coagulation
 	* Assays (PT, APTT)  
 	Prolonged, but this may be minimal.
 	* Fibrinogen  
-	May be either reduced or increased.
+	May be either reduced or ↑.
 		* Reduced to consumption
-		* Increased due to role as acute phase reactant
+		* ↑ due to role as acute phase reactant
 * Fibrin Degradation Products (e.g. D-dimer)  
-Increased, due to fibrinolysis.
+↑, due to fibrinolysis.
 
 Additional investigations:
 

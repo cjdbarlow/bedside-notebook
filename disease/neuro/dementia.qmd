@@ -18,7 +18,7 @@ Prevalence:
 
 Incidence:
 
-* Doubles with every 5 year increase in age
+* Doubles with every 5 year ↑ in age
 
 
 ## Pathophysiology
@@ -85,7 +85,7 @@ Direct viral damage. Impairments classically involve:
 		* Complex pain assessment  
 		Simplified scales helpful.
 		* Consider empirical trial of analgesia if pain is a potential cause of behaviour/distress
-		* Decreased reported pain but pain experience may be unchanged
+		* ↓ reported pain but pain experience may be unchanged
 	* Post-operative cognitive dysfunction
 		* Consider using:
 			* ERAS protocols

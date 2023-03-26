@@ -38,7 +38,7 @@ Assessment:
 
 * Typically poorly predicted  
 In one study, only 17% of difficulty was predicted.
-* Risk increases with >1 risk factor
+* Risk ↑ with >1 risk factor
 
 Risk Factors (**MBBS MAT**):
 
@@ -138,7 +138,7 @@ PPV may have many detrimental effects:
 	* Gastric insufflation
 * **Acidaemia**  
 Very high minute ventilation may be compensating for metabolic acidosis  
-	* Rendering the patient apnoeic may lead to a rapid increase in PaCO~2~, fall in pH, and precipitate cardiac arrest
+	* Rendering the patient apnoeic may lead to a rapid ↑ in PaCO~2~, fall in pH, and precipitate cardiac arrest
 		* **Consider gentle BMV during the apnoeic period to reduce this risk**  
 		This needs to be balanced against the risk of gastric insufflation and aspiration.
 	* Use ETCO~2~ during preoxygenation to identify what the patients (compensating) ETCO~2~ is prior to induction
@@ -148,8 +148,8 @@ Important pressures to consider (**ABG**):
 	* **Airway** pressures  
 	Avoid excessive airway pressures (Aim Pplat <30 cmH~2~O):
 		* Auto-PEEP  
-		Increases RV afterload, reducing VR and subsequently BP.
-			* **Beware hypoxia secondary to impaired circulation** due to this reason, and avoid increasing minute ventilation further  
+		↑ RV afterload, reducing VR and subsequently BP.
+			* **Beware hypoxia secondary to impaired circulation** due to this reason, and avoid ↑ minute ventilation further  
 			Ensure **adequate time for expiration**, especially in patients with obstructive lung disease.
 		* Barotrauma
 	* **Systemic arterial pressure**  
@@ -164,9 +164,9 @@ Hypoxia is:
 	A starting pH of 7.1 will lead to a pH of ~6.9 after 4 minutes of apnoea (assuming a normal VCO~2~).
 	* Reduced by:
 		* Adequate denitrogenation  
-		Increase FRC oxygen concentration and therefore oxygen reserve.
+		↑ FRC oxygen concentration and therefore oxygen reserve.
 		* Lung recruitment  
-		Increase FRC volume.
+		↑ FRC volume.
 * **Underlying disease**
 * **Regurgitation**  
 Consider the risks of aspiration and other airway contaminants (e.g. blood).
@@ -174,7 +174,7 @@ Consider the risks of aspiration and other airway contaminants (e.g. blood).
 $$SI = {HR \over BP}$$. If the SI is >1, then consider initiating vasopressors/volume prior to intubation. If using vasopressor infusions, then prepare these prior.
 	* Dose reduce sedatives  
 	Up to **90%**.
-	* Dose increase relaxants
+	* Dose ↑ relaxants
 	* Aggressively treat hypotension
 
 

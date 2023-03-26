@@ -108,8 +108,8 @@ Assessing respiratory pattern in the intubated patient requires some desedation 
 +-------------------------------------+-------------------------------------------------------------------------------------+-----------------------------------------------------------------+-----------------------------------+
 | Cheyne-Stokes                       | Sinusoidal pattern of:                                                              | Delayed feedback between CO~2~ detector and effector responses. | * Low CO                          |
 |                                     |                                                                                     |                                                                 | * Metabolic encephalopathies      |
-|                                     | - Rapidly increasing depth and frequency of breathing                               |                                                                 | * Bilateral thalamic injuries     |
-|                                     | - Rapidly decreasing depth and frequency                                            |                                                                 | * Bilateral forebrain dysfunction |
+|                                     | - Rapidly ↑ depth and frequency of breathing                               |                                                                 | * Bilateral thalamic injuries     |
+|                                     | - Rapidly ↓ depth and frequency                                            |                                                                 | * Bilateral forebrain dysfunction |
 |                                     |                                                                                     |                                                                 | * Acute CVA                       |
 +-------------------------------------+-------------------------------------------------------------------------------------+-----------------------------------------------------------------+-----------------------------------+
 
@@ -232,8 +232,8 @@ Upper versus Lower Motor Neuron Lesions:
 | ---------------- | ----------- | ----------- |
 | Atrophy          | No          | Yes         |
 | Fasciculations   | No          | Yes         |
-| Reflexes         | Increased   | Decreased   |
-| Tone             | Increased   | Decreased   |
+| Reflexes         | ↑   | ↓   |
+| Tone             | ↑   | ↓   |
 | Weakness         | Yes         | Yes         |
 
 :::
@@ -329,9 +329,9 @@ Motor assessment involves:
 * Tone  
 Joint should be able to be moved easily through its range of motion.
     * Spasticity  
-    Increase in tone is proportional to the rate of movement. Associated with UMN lesion.
+    ↑ in tone is proportional to the rate of movement. Associated with UMN lesion.
     * Rigidity  
-    Tone is increased irrespective of how quickly the joint is moved.
+    Tone is ↑ irrespective of how quickly the joint is moved.
     * Flaccidness  
     Complete absence of tone, occurring when the muscle has no LMN innervation.
 * Power  

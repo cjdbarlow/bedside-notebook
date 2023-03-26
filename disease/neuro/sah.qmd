@@ -93,7 +93,7 @@ May identify intraocular haemorrhage, which occurs in ~40% of cases.
 Imaging:
 
 * Non-contrast CT head  
-Sensitivity increases from 93% to 100% over 6 hours, and falls to 60% over the next 7 days.
+Sensitivity ↑ from 93% to 100% over 6 hours, and falls to 60% over the next 7 days.
 * CTA  
 First-line vascular imaging to identify source, though may miss aneurysms ⩽4mm.
 * MRI  
@@ -194,7 +194,7 @@ Prophylactic 'triple-H' therapy:
 	* Hypervolaemia
 	* Hypertension
 	* Haemodilution  
-	Theorised to improve laminar flow and increase overall DO~2~.
+	Theorised to improve laminar flow and ↑ overall DO~2~.
 
 ## Complications
 
@@ -211,7 +211,7 @@ Hydrocephalus:
 * Occurs in 20% of patients  
 Within minutes to hours of onset.
 * Symptoms include:
-	* Decreased conscious state
+	* ↓ conscious state
 	* Impaired upward gaze
 	* Hypertension
 	* Delirium
@@ -230,7 +230,7 @@ Myocardial injury:
 * LV dysfunction in 10-30%
 * Related to catecholamine surge  
 May lead to myocardial necrosis.
-* Neurocardiogenic shock/Takotsubo cardiomyopathy may arise due to combination of increased preload and afterload (catecholamines), and decreased inotropy (necrosis)
+* Neurocardiogenic shock/Takotsubo cardiomyopathy may arise due to combination of ↑ preload and afterload (catecholamines), and ↓ inotropy (necrosis)
 
 Delayed cerebral ischaemia:
 

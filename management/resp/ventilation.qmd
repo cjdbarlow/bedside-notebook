@@ -23,7 +23,7 @@ Divided into need for:
     * T1RF
     * T2RF
     * Manipulate physiology\
-    e.g. CO~2~ control for increased ICP.
+    e.g. CO~2~ control for ↑ ICP.
     * Work of breathing
 
 ## Complications
@@ -42,11 +42,11 @@ Divided into need for:
     Pneumothorax.
 * C
     * RV dysfunction
-        * Decreased Preload
-        * Increased Afterload
+        * ↓ Preload
+        * ↑ Afterload
     * Organ blood flow
-        * Decreased RBF
-        * Decreased Splanchnic flow
+        * ↓ RBF
+        * ↓ Splanchnic flow
     * Fluid retention
 * D
     * Dyssynchrony

@@ -36,7 +36,7 @@ Myocardial repolarisation:
 * Is not homogenous between epicardium, mid-myocardium, and endocardial cells
 	* Mid-myocardium is slower due to reduced K^+^ and Na^+^ channel density  
 	The tail of the T-wave tends to represent repolarisation of mid-myocardial cells.
-* Decreased mid-myocardial K^+^ or increased Na^+^ channel function in the mid-myocardium will therefore prolong the action potential
+* ↓ mid-myocardial K^+^ or ↑ Na^+^ channel function in the mid-myocardium will therefore prolong the action potential
 	* This may lead to late calcium inflow, and early after-depolarisations
 		* If these EADs reach a threshold amplitude, VT may result
 
@@ -85,7 +85,7 @@ May only be revealed in situations of physiological stress (e.g. a stress ECG).
 	* Polymorphic VT/VF
 		* DC cardioversion
 		* Mg^2+^
-		Reduces EADs by increasing encouraging resting repolarisation.
+		Reduces EADs by ↑ encouraging resting repolarisation.
 			* Given as 2g MgSO~4~ over 2-3 minutes  
 			May be repeated with another 2g after 15 minutes.
 			* Consider infusion of 3-20mg/min if arrhythmias persist
@@ -97,7 +97,7 @@ May only be revealed in situations of physiological stress (e.g. a stress ECG).
 		* β-blockade
 * Procedural
 	* Pacing  
-	Increases HR and reduces QTc.
+	↑ HR and reduces QTc.
 	* AICD
 
 **Supportive care**:
@@ -109,7 +109,7 @@ Medical management:
 
 * β-blockade
 * Pacing  
-Increases HR and reduces QTc.
+↑ HR and reduces QTc.
 * AICD
 
 #### Potential Precipitants
@@ -141,7 +141,7 @@ Drugs associated with development of polymorphic VT:
 * C
 	* Malignant arrhythmia
 		* High risk of intraoperative arrhythmia
-		* May be precipitated by increased sympathetic tone
+		* May be precipitated by ↑ sympathetic tone
 			* Intraoperative sympatholysis is crucial
 		* Cardiology review pre-operatively is ideal
 	* Avoid bradycardia

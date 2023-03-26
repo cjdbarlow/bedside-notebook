@@ -9,7 +9,7 @@ Cardiotocography is:
 	* Poorly specific
 * Poor correlation with foetal outcome  
 Reduction of neonatal seizures is the only clinically significant benefit.
-* Increases intervention rate  
+* ↑ intervention rate  
 Caesarian or instrumental deliver.
 	* Generally considered mandatory to act on abnormal FHR patterns
 
@@ -24,7 +24,7 @@ Contributors (of unknown relative importance) include:
 * Placental function
 * Uteroplacental function
 * Contractions  
-Contractions in uncomplicated labour result in short and long-term reduction in oxygenation; and this effect is markedly increased with excessively frequent contractions.
+Contractions in uncomplicated labour result in short and long-term reduction in oxygenation; and this effect is markedly ↑ with excessively frequent contractions.
 
 ## Interpretation
 
@@ -55,7 +55,7 @@ Mean FHR in bpm, when FHR is stable, **when there is no contraction** over 5-10 
 * **Baseline variability**  
 Minor fluctuation in baseline FHR; as assessed by the difference in peak and trough FHR over one minute. Variability is **important**.
 	* Normal 6-25 bpm  
-	* Increased > 25 bpm  
+	* ↑ > 25 bpm  
 	Unclear signifiance - may not be bad.
 	* Reduced 3-5 bpm  
 	Loss of variability is always a bad sign.
@@ -63,7 +63,7 @@ Minor fluctuation in baseline FHR; as assessed by the difference in peak and tro
 
 
 * **Accelerations**  
-Transient increases of >15 bpm in FHR above baseline for at least 15s.
+Transient ↑ of >15 bpm in FHR above baseline for at least 15s.
 	*  Normal to have >2 in 20 minutes when:
 		* Awake  
 		Foetal sleep phases last ~45 minutes.
@@ -71,7 +71,7 @@ Transient increases of >15 bpm in FHR above baseline for at least 15s.
 
 
 * **Decelerations**  
-Transient decreases of >15 bpm in FHR below baseline for at least 15s. Subdivided into:
+Transient ↓ of >15 bpm in FHR below baseline for at least 15s. Subdivided into:
 	* **Early decelerations**  
 		* Benign  
 		Usually head compression during a contraction.

@@ -68,10 +68,10 @@ On-pump CABG can be divided into pre-, intra-, and post-bypass phases:
 
 * Pre-bypass
 	* If LIMA harvest is occurring:
-		* Decrease V~T~ to 5-6ml/kg
+		* ↓ V~T~ to 5-6ml/kg
 		* Reduce anaesthetic  
 		Period of minimal stimulation following the very stimulating sternotomy.
-		* Increase FiO~2~ as there is a frequent surgical requirement for apnoea
+		* ↑ FiO~2~ as there is a frequent surgical requirement for apnoea
 * Bypass
 * Post-bypass
 
@@ -88,7 +88,7 @@ For standard approach:
 		* A pedicled graft may be taken  
 		The origin is left attached to the SCA.
 		* Bilateral IMA grafts may be used  
-		Increases the risk of sternal wound infection due to poor perfusion.
+		↑ the risk of sternal wound infection due to poor perfusion.
 	* Saphenous vein graft  
 	~50% of SVG grafts will be occluded at 10 years (compared to ~10% of arterial grafts).
 	* Radial artery  

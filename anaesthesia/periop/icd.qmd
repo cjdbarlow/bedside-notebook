@@ -78,7 +78,7 @@ What proportion of time is the patient actively paced.
 	* Use of antiarrhythmics
 * Pacemaker function and setup
 	* Presence of rate-responsive pacing modes  
-	Pacemaker detects a certain event (usually motion, implying exertion) and increases paced rate to compensate.
+	Pacemaker detects a certain event (usually motion, implying exertion) and ↑ paced rate to compensate.
 	* Magnet mode effect  
 	Usually places the devices into DOO or VOO at a set rate.
 	* Last pacing check  
@@ -94,7 +94,7 @@ What proportion of time is the patient actively paced.
 	* Biventricular pacing  
 	Biventricular pacing is used for cardiac resynchronisation therapy, and suggests the patient has HFrEF. Indicated with LVEF <35% with LBBB and NYHA III/IV despite optimal medical therapy.
 	* Unipolar or bipolar leads  
-	Unipolar leads are usually present in older models. In a unipolar lead, the lead is the cathode and the device is the anode; whilst a bipolar lead has both anode and cathode. Unipolar leads are associated with more myocardial scarring and increased impedance.
+	Unipolar leads are usually present in older models. In a unipolar lead, the lead is the cathode and the device is the anode; whilst a bipolar lead has both anode and cathode. Unipolar leads are associated with more myocardial scarring and ↑ impedance.
 
 
 Evaluation of AICDs should consider:

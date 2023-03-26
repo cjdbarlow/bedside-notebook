@@ -10,9 +10,9 @@ Key changes:
 * Respiratory
 	* Limited diaphragmatic excursion
 		* Elevated airway pressure
-		* Decreased pulmonary compliance
+		* ↓ pulmonary compliance
 		* Atelectasis
-	* Increased PaCO~2~  
+	* ↑ PaCO~2~  
 	Due to absorption of insufflated CO~2~.
 * Cardiovascular  
 Effects vary depending on intraabdominal pressure, and these changes will be exacerbated by changes in positioning altering venous return:
@@ -36,8 +36,8 @@ Include:
 
 * Reduced incision size
 	* Improved post-operative pain
-	* Decreased recovery time
-	* Decreased post-operative infections
+	* ↓ recovery time
+	* ↓ post-operative infections
 
 
 ## Risks and Contraindications
@@ -45,10 +45,10 @@ Include:
 Patient:
 
 * Raised ICP  
-Due to increased PaCO~2~.
+Due to ↑ PaCO~2~.
 * Severe hypovolaemia
 * Right-to-left shunts  
-Increased passage with raised venous pressures.
+↑ passage with raised venous pressures.
 
 
 Surgical:
@@ -67,7 +67,7 @@ Anaesthesia:
 
 * Generally requires ETT  
 LMA use controversial.
-* Increased PONV
+* ↑ PONV
 
 ---
 

@@ -50,7 +50,7 @@ Repeat doses are indicated if:
 	* System factors
 		* Local resistance patterns
 > * Avoid broad-spectrum agents
-> * Note that penicillin-allergic patients have significantly increased rates of *C. difficile*, VRE, MRSA infections, and longer hospital stays  
+> * Note that penicillin-allergic patients have significantly ↑ rates of *C. difficile*, VRE, MRSA infections, and longer hospital stays  
 > Therefore, *inappropriate* labeling of patients as penicillin-allergic has significant impact on care
 
 
@@ -147,7 +147,7 @@ Reduced SSIs in *S. Aureus* colonised patients.
 
 ### Inappropriate Administration
 
-Antibiotic *prophylaxis* is **not recommended** in the following circumstances (and may increase risk due to development of resistance):
+Antibiotic *prophylaxis* is **not recommended** in the following circumstances (and may ↑ risk due to development of resistance):
 
 * For 24 hours after surgery
 * With indwelling drains

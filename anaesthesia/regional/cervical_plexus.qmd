@@ -1,0 +1,99 @@
+# Cervical Plexus Block
+
+
+Blockade of the sensory nerves of C2-4 running between SCM and prevertebral fascia, in order to provide anaesthesia to the neck.
+
+
+Three cervical plexus blocks are described, based on site of injection of local anaesthetic:
+
+* Superficial plexus block  
+Anaesthetic superficial to the deep cervical fascia.
+	* Equivalent to deep blockade
+	* Notably no phrenic nerve blockade
+* Intermediate plexus block  
+Anaesthetic between the deep cervical fascia and the prevertebral fascia.
+* Deep plexus block  
+Anaesthetic deep to the prevertebral fascia.
+	* ↑ risk of complications, particularly **phrenic nerve** blockade
+
+## Indications
+
+Include:
+
+* Superficial neck surgery
+* Carotid endarterectomy
+* IJ central line insertion
+
+## Contraindications
+
+## Anatomy
+
+The cervical plexus is:
+
+* Only occasionally visible on ultrasound.
+* Deep to deep cervical fascia  
+Facial fascial layer deep to SCM.
+* Anterior to the **prevertebral fascia**  
+Fascia overlying the middle and anterior scalene muscles.
+* The nerve roots that supply four terminal sensory nerves of the head and neck:
+	* Greater auricular
+	* Lesser occipital
+	* Transverse cervical
+	* Supraclavicular
+
+## Equipment
+
+* 22G 4cm needle
+* Local anaesthetic  
+10-20ml of dilute solution (purely sensory nerves; do not require high concentrations):
+	* 0.25-0.5% ropivacaine
+	* 0.25% bupivacaine
+	* 1% lignocaine
+
+## Technique
+
+Position:
+
+* Supine
+* Head turned away from side
+
+
+Probe:
+
+* Place at midpoint of SCM
+* Identify SCM on ultrasound and position the **posterior edge** of SCM in the middle of the screen
+* Identify the brachial plexus between ASM and MSM
+* Attempt to identify the cervical plexus overlying the prevertebral fascia superficial to the brachial plexus
+
+
+Needle:
+
+* If plexus identified:
+	* Place needle IP through skin, platysma, and fascia adjacent to plexus
+	* Confirm injection site with 1-2ml LA
+	* Deposit remainder of LA around plexus
+* If plexus not identified:
+	* Place needle IP through skin as above
+	* Split later between deep cervical and prevertebral fascia with 5ml of LA
+	* Withdraw and fan cranially ~45° and split fascial layers
+	* Withdraw and rotate needle caudally 45° and split facial layers again  
+	Goal is to achieve a large pool of LA between the fascial layers, and ensure adequate coverage.
+
+
+## Complications
+
+Include:
+
+* General
+	* LAST
+	* Haematoma
+	* Infection
+* Specific
+	* Phrenic nerve block  
+	With deep cervical plexus block.
+	* Spinal anaesthesia  
+	Travel of LA along dural sleeve of plexus nerves; particularly with high volumes and high injection pressures.
+
+---
+
+## References

@@ -64,7 +64,7 @@
 	* TTE
 * D
 	* Avoidance of **volatile**
-		* Primarily due to increased risk of rhabdomyolysis, rather than increased MH risk (though this may still be present)
+		* Primarily due to ↑ risk of rhabdomyolysis, rather than ↑ MH risk (though this may still be present)
 		* TIVA with a clean anaesthetic machine is recommended
 	* Regional anaesthesia
 		* Advantageous if significant cardiac or respiratory disease; and so is recommended whenever appropriate
@@ -92,7 +92,7 @@
 		* Ensure normothermia pre-induction and actively warm
 		* Hypothermia may:
 			* Exacerbate myotonia
-			* Increase sensitivity to non-depolarising agents
+			* ↑ sensitivity to non-depolarising agents
 			* Aggravate rhabdomyolysis
 
 ### Ineffective Therapies

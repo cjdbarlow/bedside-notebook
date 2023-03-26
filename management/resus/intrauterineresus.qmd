@@ -3,9 +3,9 @@
 
 > General principle is to optimise foetal DO~2~ by:
 > * Improving uterine perfusion pressure
->	* Increasing systemic driving pressure
+>	* ↑ systemic driving pressure
 >	* Reducing intrauterine pressure
-> * Increasing maternal oxygen saturation
+> * ↑ maternal oxygen saturation
 > * Removing any cord impingement
 
 Foetal distress is progressive foetal asphyxia that if not corrected or circumvented, will result in decompensation and permanent CNS damage or death.
@@ -20,12 +20,12 @@ Non-correctable (e.g. anencephaly) or rare (e.g. ruptured vasa praevia) causes a
 ## Causes
 
 * Contractions  
-Contractions in uncomplicated labour result in short and long-term reduction in oxygenation; and this effect is markedly increased with excessively frequent contractions.
+Contractions in uncomplicated labour result in short and long-term reduction in oxygenation; and this effect is markedly ↑ with excessively frequent contractions.
 * Aorto-caval compression
 * Cord compression
 * Epidural  
 Rarely associated with severe hypotension.
-	* Around 50% of FHR decelerations after regional analgesia can be attributed to increase in uterine activity
+	* Around 50% of FHR decelerations after regional analgesia can be attributed to ↑ in uterine activity
 * Maternal hypoxia  
 	* Opioids
 	* Nitrous oxide
@@ -37,7 +37,7 @@ Rarely associated with severe hypotension.
 
 ## Management
 
-Increasing degree of escalation:
+↑ degree of escalation:
 
 * Place in full left (or right) lateral position  
 Removes aorto-caval compression.

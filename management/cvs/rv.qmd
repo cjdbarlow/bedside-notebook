@@ -38,7 +38,7 @@ RV systolic function can be optimised by:
 	* With (particularly acute) RV failure, RVEDP rises and RV perfusion pressure is reduced due to a higher downstream pressure
 			* Similar physiology is seen during pulmonary hypertension, as the high RVSP reduces RV perfusion during ventricular systole
 		* Coronary perfusion pressure of **<30mmHG** is associated with severe reduction in myocardial blood flow, leading to ischaemia and significant RV dysfunction\
-		This usually leads to the "RV Death Spiral", where RV dysfunction leads to decreased LV preload, leads to decreased LV SV, leads to decreased MAP, and further RV impairment.
+		This usually leads to the "RV Death Spiral", where RV dysfunction leads to ↓ LV preload, leads to ↓ LV SV, leads to ↓ MAP, and further RV impairment.
 
 :::column-margin
 $RV Coronary Perfusion Pressure = P_{Aortic Root} - P_{RV}$

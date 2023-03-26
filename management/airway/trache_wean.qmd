@@ -1,0 +1,104 @@
+# Tracheostomy Weaning
+
+Safe removal of a trachestomy requires the patient to meet certain **preconditions**:
+
+* **Resolution** of condition that required tracheostomy
+* A
+	* **Patent** upper **airway**
+	* **Manageable secretion** load\
+	Cough adequate for the volume of secretions. Consider met if:
+		* **<4 suction** episodes in previous **24 hours**
+		* **No suppurative** lung disease
+	* **Airway reflexes** intact\
+	Cough and gag present.
+* B
+	* **Mechanical ventilation** ceased\
+	Consider met if:
+		* **>24 hours** free from ventilation
+		* **Minimal** additional **oxygenation**\
+		e.g. Humidification only.
+		* No upcoming requirement for mechanical ventilation
+		* Manageable work of breathing
+* D
+	* Adequate **conscious state** to engage in physiotherapy and cooperation
+* E
+	* Adequate muscular strength
+* G
+	* Low **gastric aspirates**\
+	Avoid commencing weaning in patients with gastric aspirates >250mL due to the risk of aspiration.
+
+:::column-margin
+
+| Benefits                                   | Drawbacks               |
+| --                                         | --                      |
+| ↑ Secretion clearance                      | ↑ Work of Breathing     |
+| ↓ Secretion burden                         | ↑ Anatomical dead space |
+| Facilitate speech                          |                         |
+| Improved swallowing                        |                         |
+| Better humidification                      |                         |
+| Pursed lip breathing - provides auto-PEEP  |                         |
+| ↓ Nursing/carer burden                     |                         |
+| ↓ Tracheostomy risks (bleeding, infection) |                         |
+
+: Effects of decannulation
+
+:::
+
+
+## An Approach to Weaning
+
+If preconditions are met:
+
+:::column-margin
+**Monitor** for **aspiration** during the cuff-down period.
+::: 
+
+* **Deflate** tracheostomy **cuff**\
+Aspirate secretions above the cuff prior, and suction via the tracheostomy *during* deflation to catch dislodged cuff secretions.
+* Ensure adequate ventilation
+* **Gradually** **↑** the **cuff down** **period** as tolerated\
+e.g. 30 minutes, 1 hour, 4 hours, 8 hours, etc; until 48 hours achieved.
+* **Occlude** (cap) the **trache**ostomy or use a speaking valve\
+This final test evaluates the patients ability to breathe via the native airway (and with an upper airway obstruction provided by the trache).
+	* The patient should be 1:1 monitored during the first **15 minutes** of capping
+	* Duration of capping depends on where the tracheostomy wean is being conducted\
+	In a ward/lower-skilled environment, the cap should be tolerated for least **24** hours prior to removal. This can be expedited in an ICU setting.
+* Remove tracheostomy tube and apply occlusive dressing\
+It should **heal** over in **7-10 days**. If there is late failure, an existing tract can be reopened with serial dilators, or a smaller tracheostomy tube can be placed.
+
+
+### Failure to Wean
+
+If the above test is unsuccessful, consider:
+
+* Replacing with a fenestrated tracheostomy\
+↑ Respiratory work.
+* Downsize tracheostomy\
+↓ Size by 1 (e.g. 8.0 to 7.0) to reduce degree of airway obstruction produced by tracheostomy.
+* Refer to ENT team\
+Other airway pathology that is impeding wean, e.g.
+	* Paradoxical vocal cord movement
+	* Granulation tissue
+	* Stenosis
+
+
+## Failure to Decannulate
+
+If weaning is unsuccessful, consider:
+
+* Long-term tracheostomy
+* Vocal cord surgery\
+For paralysis or dysfunction.
+* NIV with capped tracheostomy
+* Airway stenting\
+For tracheomalacia.
+
+
+---
+
+## References
+
+1. De Leyn, Paul, Lieven Bedert, Marion Delcroix, Pieter Depuydt, Geert Lauwers, Youri Sokolov, Alain Van Meerhaeghe, Paul Van Schil, and Belgian Association of Pneumology and Belgian Association of Cardiothoracic Surgery. “Tracheotomy: Clinical Review and Guidelines.” European Journal of Cardio-Thoracic Surgery: Official Journal of the European Association for Cardio-Thoracic Surgery 32, no. 3 (September 2007): 412–21. [](https://doi.org/10.1016/j.ejcts.2007.05.018)
+2. O’Connor, Heidi H., and Alexander C. White. “[Tracheostomy Decannulation](https://rc.rcjournal.com/content/55/8/1076.short).” Respiratory Care 55, no. 8 (August 1, 2010): 1076–81.
+
+

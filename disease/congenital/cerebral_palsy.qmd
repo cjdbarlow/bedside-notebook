@@ -1,0 +1,175 @@
+# Cerebral Palsy
+
+
+Cerebral palsy is a collective term describing a **heterogenous** group of **neurological disorders** occurring due to **non-progressive** brain damage. Cerebral Palsy is:
+
+* Characterised by varying impediments to function:
+	* Motor
+	* Sensory
+	* Intellectual
+* Divided into two types
+	* Congenital  
+	80% of cases.
+	* Acquired  
+	20% of cases, develops during the first 2 years of life. May be due to:
+		* ICH
+		* Encephalitis/Meningitis
+		* Trauma
+		* Seizures
+
+## Epidemiology and Risk Factors
+
+Prevalence:
+
+* Occurs in ~1/500 live births  
+Relatively constant despite improves in obstetric care, likely due to ↑ survival of premature  infants.
+
+
+Risk factors:
+
+* Foetal pathogenic factors
+	* Microcephaly
+	* Trauma
+	* Low birth weight
+	* Prematurity
+	* Peripartum hypoxia  
+	~6% of cases.
+	* Low APGAR score
+	* Prenatal TORCH infections
+* Maternal pathogenic factors
+	* Breech
+	* Pre-eclampsia
+	* Peripartum haemorrhage
+	* Maternal hyperthyroidism
+	* Foetal alcohol syndrome
+
+
+
+
+## Pathophysiology
+
+Disruption of normal developmental changes in brain structure and organisation from a variety of potential causes, although clasically due to foetal hypoxia occurring during development or delivery.
+
+## Clinical Manifestations
+
+* Motor
+	* Muscle spasticity  
+	Present in 80% of patients.
+		* Leads to contractures due to differential growth between long bones and spastic muscle groups
+	* Fixed flexion deformities
+* Sensory
+	* Visual/auditory impairment
+	* Abnormal touch and pain perception
+* Intellectual impediment  
+Impairment present in 60%.
+	* May be difficult to separate from motor problems affecting phonation
+
+### Grading
+
+Categorised using the Gross Motor Function Classification System (GMFCS):
+
+* Evaluates mobility
+* Generally will not improve after 5^th^ year of life
+* Uses five categories:
+	* Level 1
+		* Can walk, run, and climb stairs without rails
+		* Limited speed, balance, and coordination
+	* Level 2
+		* Walk in most setting, climb stairs without rails
+		* Limited by long distance, uneven terrain, confined or crowded spaces
+	* Level 3
+		* Walk with mobility device indoors, climb stairs with rails
+		* Wheelchairs for distance
+	* Level 4
+		* Physical assistance or motorised wheelchairs in most settings
+	* Level 5
+		* Transported in manual wheelchair in all settings
+		* Limited ability to maintain antigravity head and trunk postures
+
+## Management
+
+Treatment is supportive, and consists of:
+
+* Improving posture
+	* Reducing spasticity and spasms
+		* Antispasmodics  
+		Baclofen.
+		* Denervation techniques
+			* Botulinum toxin
+			* Radiofrequency ablation of dorsal horn ganglia
+	* Alleviating contractures
+		* Tenotomies
+		* Osteotomies
+		* Tendon transfer/lengthening
+* Treatment of coexistent disease
+
+### Anaesthetic Considerations
+
+* SET
+	* HDU/ICU desirable  
+	Prone to:
+		* Hypoxia
+			* Aspiration
+			* Atelectasis
+		* Hypovolaemia
+		* Hypothermia
+* A
+	* High aspiration risk  
+	* Risk of loose teeth/poor dental hygiene
+* B
+	* Respiratory impairment  
+	Combination of muscular weakness, skeletal deformities, and recurrent aspiration pneumonia.
+* C
+	* Co-existent cardiac disease
+	* Generally limited cardiorespiratory reserve
+* D
+	* Difficulty communicating
+	* Co-existent epilepsy  
+	Continue antiepileptics in perioperative period.
+	* **Analgesia** very important and can be difficult to manage
+		* Difficult due to nature of surgery and communication
+		* Continuous analgesia preferred
+		* **Muscular spasm** can be painful and debilitating
+			* Diazepam 0.05-0.1mg/kg Q4H
+		* Epidural or regional techniques excellent to reduce spasm, pain, and opioid demand		
+* E
+	* Fixed flexion deformities  
+	Limit or restrict positioning.
+	* Risk of hypothermia  
+	Due to low levels of body fat and muscle.
+	* **Use of muscle relaxants**
+		* No restriction on suxamethonium
+		* Offset of non-depolarising agent is ↑ due to upregulation of ACh receptors
+* G
+	* GORD  
+	Risk of aspiration.
+* H
+	* ↑ blood loss  
+	CP muscle contracts poorly when incised, leading to much greater volumes of blood loss.
+		* **Group and save** for any major surgery
+
+## Complications
+
+Associated conditions:
+
+* Neonatal respiratory distress syndrome
+* Respiratory impairment
+	* Scoliosis and spinal deformities
+	* Restrictive lung disease  
+	May in turn lead to pulmonary hypertension, and right heart/respiratory failure.
+* GORD/recurrent aspiration  
+In turn associated with chronic lung injury from repeated aspiration. May be due to:
+	* Swallowing difficulties
+	* Oesophageal dymotility
+	* Spinal deformities
+	* Weak cough
+* Epilepsy  
+50% may have focal or generalised forms.
+
+
+
+---
+
+## References
+
+1. Prosser DP, Sharma N. [Cerebral palsy and anaesthesia](https://academic.oup.com/bjaed/article/10/3/72/478687). Continuing Education in Anaesthesia Critical Care & Pain, Volume 10, Issue 3, 1 June 2010, Pages 72–76, 

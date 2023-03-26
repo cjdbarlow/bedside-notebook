@@ -44,7 +44,7 @@ The hierarchy of intubation needs:
 * CICO occurs in ~1/50,000 elective anaesthetics
 	* CICO is low compared to incidence of difficult intubation
 * CICO contributes 25% of anaesthesia-related mortality
-* Requirement for emergency FONA increases morbidity 15x  
+* Requirement for emergency FONA ↑ morbidity 15x  
 	* ~25% permanent harm or death
 * In 2/3^rds^ of CICO situations, a surgical airway was performed too late to prevent harm
 
@@ -136,7 +136,7 @@ Adequate patient preparation prior to induction reduces incidence of difficult t
 
 * **Positioning**  
 	* Ensure EAM is level with sternal notch to maximise ease of intubation
-	* Ramping increases FRC in the obese patient
+	* Ramping ↑ FRC in the obese patient
 * **Recruitment**  
 Use of CPAP during preoxygenation prolongs safe apnoea time in obese patients.
 * **Oxygenate**  

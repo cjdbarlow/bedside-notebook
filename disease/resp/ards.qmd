@@ -7,7 +7,7 @@ Within **7 days** of known precipitant.
 * **Bilateral** radiographic **opacities**\
 Consistent with pulmonary oedema.
 * **Non-hydrostatic**\
-Not related to an increased PCWP, i.e. not due to LV failure.
+Not related to an ↑ PCWP, i.e. not due to LV failure.
 * **Hypoxia**\
 ARDS is graded by severity of hypoxia into:
     * Mild\
@@ -53,13 +53,13 @@ Bidirectional leakage of fluid and protein:
     * Alveolar protein into plasma\
     Surfactant and other alveolar proteins.
 * Inflammatory infiltrate\
-Large increase in:
+Large ↑ in:
     * Alveolar macrophages\
     Usually dominant cell in health.
     * Alveolar neutrophils\
     Rare in health (~1% of cells), become superabundant (~90%) in ARDS.
 * Surfactant dysfunction\
-Epithelial cell damage alters cellular production of inflammatory mediators and increases water egress into the alveolus, as well as production of dysfunctional surfactant.
+Epithelial cell damage alters cellular production of inflammatory mediators and ↑ water egress into the alveolus, as well as production of dysfunctional surfactant.
 
 
 The late (>5 days) phase is characterised by fibrosing alveolitis
@@ -103,7 +103,7 @@ ABC approach. Comment on team coordination and clinical priorities.
             * The disease and degree of recruitable lung is higly heterogenous and often over-distension and under-recruitment will occur together
             * Higher PEEP is associated with better outcomes in more severe disease, and worse outcomes in milder disease
             * Inadequate PEEP tends to cause under-recruitment and hypoxia
-            * Excessive PEEP tends to cause over-distension, increased lung stress, and reduced cardiac output
+            * Excessive PEEP tends to cause over-distension, ↑ lung stress, and reduced cardiac output
             * Ideal PEEP is described by the Open Lung Approach\
             PEEP at which the lung volume is maintained at FRC, thereby:
                 * Maximally recruiting available alveoli
@@ -142,9 +142,9 @@ One reasonable approach to PEEP-setting is identifying the level where DO~2~ (i.
 ### Ineffective Therapies
 
 * High-Frequency Oscillatory Ventilation\
-Increased Mortality compared to lung protective ventilation strategies.
+↑ Mortality compared to lung protective ventilation strategies.
 * Recruitment Manoeuvres\
-In theory, recruitment manouvres aid the open lung approach by increasing alvolear recruitment. In practice, following a recruitment manouvere:
+In theory, recruitment manouvres aid the open lung approach by ↑ alvolear recruitment. In practice, following a recruitment manouvere:
     * Over-inflation of previously normal lung occurs
     * Oxygenation may improve\
     Predominantly early ARDS with lower baseline PEEP.
@@ -157,18 +157,18 @@ In theory, recruitment manouvres aid the open lung approach by increasing alvole
 ## Prognosis
 
 * Death\
-Improving with better preventative care and decreased VILI. Mortality varies on:
+Improving with better preventative care and ↓ VILI. Mortality varies on:
     * Severity:
         * ~35% mild
         * ~40% moderate
         * ~45% severe
     * Cause and cormorbidities:
-        * Decreased In trauma
-        * Increased In elderly, chronic or acute organ failures, and sepsis
+        * ↓ In trauma
+        * ↑ In elderly, chronic or acute organ failures, and sepsis
 * Chronic lung disease\
 Pulmonary function tests normalise in 6-12 months.
 * Persistent critical illness\
-Increased In survivors of ARDS compared to non-ARDS ICU patients.
+↑ In survivors of ARDS compared to non-ARDS ICU patients.
     * Functional impairment persists in young survivors of severe disease
 
 ## Key Studies

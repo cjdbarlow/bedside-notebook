@@ -37,7 +37,7 @@ Sickness at birth is dependent on:
 		* Normal to high-normal PCO~2~
 		* **SpO~2~ 80-85%**  
 		May be achieved with hypoxic gas mixtures, if required.
-	* Decreased FiO~2~
+	* ↓ FiO~2~
 	* IPPV may be required  
 	Due to apnoea from PGE~1~.
 * C
@@ -61,7 +61,7 @@ Results in supra-normal pulmonary flow. May be:
 		* Right because it is on the right side
 		* Modified because it uses goretex, rather than a direct side-to-side anastomosis
 		* Results in a "pulmonary steal", as systemic blood pressure drives flow into the compliant pulmonary circulation  
-		Leads to a fall in MAP and DBP, and decrease in organ (particularly coronary) flow.
+		Leads to a fall in MAP and DBP, and ↓ in organ (particularly coronary) flow.
 	* Central shunt
 	* Ventricular-PA conduit  
 	A Sano shunt.
@@ -137,7 +137,7 @@ For anaesthetising a patient with a Fontan circulation:
 * C
 	* Assess cardiac function
 		* Is there a fenestration?  
-		Reduces hypotension from transiently increased TPG/PAP, at the cost of shunt.
+		Reduces hypotension from transiently ↑ TPG/PAP, at the cost of shunt.
 		* Exercise tolerance
 		* Cardiac complications:
 			* Dysrhythmias
@@ -152,7 +152,7 @@ For anaesthetising a patient with a Fontan circulation:
 		Particularly AF.
 		* Normal A-V valve function
 		* Optimise ventricular function
-	* Avoid increased afterload
+	* Avoid ↑ afterload
 * E
 	* Elevate head and feet  
 	Optimise venous return
@@ -163,7 +163,7 @@ For anaesthetising a patient with a Fontan circulation:
 		Raised venous pressures reduce lymphatic flow and nutrient absorption.
 * H
 	* Bleeding risk  
-	Increased due to raised venous pressures.
+	↑ due to raised venous pressures.
 
 
 ---

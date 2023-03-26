@@ -24,7 +24,7 @@
 
 * General
 	* Low threshold for HDU monitoring  
-	Increased risk of apnoea and death for 24 hours following extubation.
+	↑ risk of apnoea and death for 24 hours following extubation.
 * A
 	* Limited mouth opening
 	* Bulbar palsy and aspiration risk
@@ -36,7 +36,7 @@
 	* Cardiomyopathy
 	* Conduction abnormalities
 * D
-	* Increased sensitivity to IV induction agents
+	* ↑ sensitivity to IV induction agents
 		* Addition of lignocaine may reduce the incidence of contractures
 	* **Shivering** from neuraxial anaesthesia **may precipitate myotonic contractures**
 	* Regional techniques ideal to reduce analgesia and opioid requirements

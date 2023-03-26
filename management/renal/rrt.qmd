@@ -53,9 +53,9 @@ Similar toxin control to CRRT, with potentially better acid-base control and HDx
 
 |Technique|Clinical Setting|Advantages|Disadvantages|
 |--|--|
-|IHD|- HDx stability<br>- Planned for continued dialysis in ward environment|- Rapid<br>- Cheaper|- Hypotension due to rapid volume shifts<br>- Increased complexity<br>- Cerebral oedema due to rapid fluid shifts|
+|IHD|- HDx stability<br>- Planned for continued dialysis in ward environment|- Rapid<br>- Cheaper|- Hypotension due to rapid volume shifts<br>- ↑ complexity<br>- Cerebral oedema due to rapid fluid shifts|
 |CRRT|- HDx instability<br>- High ICP|- Technically simple(r)<br>- HDx stability<br>- Continuous removal of toxins|- Slower clearance<br>- Prolonged anticoagulation/immobilisation<br>- Expensive|
-|SLED|- HDx instability|- HDx stability<br>- Reduced anticoagulation requirement|- Slow clearance of toxins<br>- Increased technical complexity|
+|SLED|- HDx instability|- HDx stability<br>- Reduced anticoagulation requirement|- Slow clearance of toxins<br>- ↑ technical complexity|
 |PD|- HDx instability<br>- Coagulopathic<br>- Difficult access<br>- High ICP<br>- Austere setting|- Simple<br>- Cheap<br>- No anticoagulation requirement<br>- No vascular access requirement|- Reduced clearance in catabolic patients<br>- Protein loss<br>- No control over rate of fluid removal<br>- Risk of peritonitis<br>- Hyperglycaemia<br>- Respiratory impairment
 
 
@@ -69,7 +69,7 @@ In general for CRRT:
 	* Not systemically anticoagulated
 * Citrate is preferred if there is no contraindication
 * UFH is used if citrate is contraindicated
-* If there is an increased bleeding risk:
+* If there is an ↑ bleeding risk:
 	* Use regional citrate/calcium in CRRT
 	* Avoid regional UFH/LMWH  
 	If citrate is contraindicated, then no anticoagulation should be used.

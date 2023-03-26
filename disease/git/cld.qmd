@@ -4,7 +4,7 @@
 End result of a process of progressive destruction and regeneration of liver parenchyma, leading to fibrosis and cirrhosis. Cirrhosis is:
 
 * A leading cause of death
-* Greatly increases perioperative morbidity and mortality
+* Greatly ↑ perioperative morbidity and mortality
 
 ## Epidemiology and Risk Factors
 
@@ -41,7 +41,7 @@ Classified into:
 * Extrahepatic
 	* Cardiac
 		* Hepatopulmonary syndrome  
-		Shunt due to pulmonary vasodilation in excess of ventilation, possibly due to decreased hepatic clearance of endogenous vasodilators. 
+		Shunt due to pulmonary vasodilation in excess of ventilation, possibly due to ↓ hepatic clearance of endogenous vasodilators. 
 		* Porto-pulmonary hypertension  
 		Pulmonary hypertension (not due to left heart failure, i.e. ↑ PVR with a normal PCWP) in the setting of portal hypertension.
 	* Endocrine
@@ -125,8 +125,8 @@ End-stage liver disease associated with high perioperative morbidity and mortali
 * E
 	* Neuromuscular blockade
 		* Non-depolarising agents:
-			* Require increased doses  
-			Due to increased V~D~.
+			* Require ↑ doses  
+			Due to ↑ V~D~.
 			* Aminosteroids have prolonged elimination
 * H
 	* Coagulopathy  

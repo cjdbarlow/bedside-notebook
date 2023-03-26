@@ -103,9 +103,9 @@ book:
                 - management/airway/extubation.qmd
             - part: "Tracheostomy"
               chapters:
-                - management/airway/trache-crisis.qmd
+                - management/airway/trache_crisis.qmd
                 - management/airway/trache.qmd
-                - management/airway/trache-wean.qmd
+                - management/airway/trache_wean.qmd
         - part: "Respiratory"
           chapters:
             - part: "Ventilation"
@@ -160,7 +160,7 @@ book:
               chapters:
             - part: "Analgesia"
               chapters:
-                - management/pain/pain-overview.qmd
+                - management/pain/pain_overview.qmd
                 - management/pain/opioids.qmd
                 # An approach? Acute pain vs chronic pain? Basic vs opioid vs adjuncts?
                 # Ketamine
@@ -168,8 +168,8 @@ book:
                 # Epidural and intrathecal infusions
             - part: "Injury"
               chapters:
-                - management/neuro/acute-spine.qmd
-                - management/neuro/chronic-spine.qmd
+                - management/neuro/acute_spine.qmd
+                - management/neuro/chronic_spine.qmd
               # ICP
               # Persistent vegetative state
         - part: "Renal and Fluid"
@@ -191,11 +191,11 @@ book:
         - part: "Haematology"
           chapters:
           - management/haeme/blood.qmd
-          - management/haeme/massive-transfusion.qmd
+          - management/haeme/massive_transfusion.qmd
           - management/haeme/plasmapheresis.qmd
         - part: "Trauma"
           chapters:
-          - management/trauma/damage-control.qmd
+          - management/trauma/damage_control.qmd
     - part: <hr>
     ## Anaesthesia
     - part: "Anaesthesia"
@@ -203,11 +203,11 @@ book:
         - part: "Crises"
           chapters:
           - anaesthesia/crisis/fire.qmd
-          - disease/resp/laryngospasm.qmd
-          - disease/resp/bronchospasm.qmd
+          - anaesthesia/crisis/laryngospasm.qmd
+          - anaesthesia/crisis/bronchospasm.qmd
           - anaesthesia/crisis/cico.qmd
-          - anaesthesia/crisis/massive-haemoptysis.qmd
-          - anaesthesia/crisis/delayed-emergence.qmd
+          - anaesthesia/crisis/massive_haemoptysis.qmd
+          - anaesthesia/crisis/delayed_emergence.qmd
           - anaesthesia/crisis/totalspinal.qmd
           - disease/tox/last.qmd
           - disease/congenital/mh.qmd
@@ -219,31 +219,32 @@ book:
           - anaesthesia/considerations/positioning.qmd
           - anaesthesia/considerations/proneanaes.qmd
           - anaesthesia/considerations/postopneuro.qmd
-          - anaesthesia/considerations/drug-errors.qmd
-          - anaesthesia/considerations/laser-safety.qmd
-          - anaesthesia/considerations/radiation-safety.qmd
+          - anaesthesia/considerations/drug_errors.qmd
+          - anaesthesia/considerations/laser_safety.qmd
+          - anaesthesia/considerations/radiation_safety.qmd
         - part: "Concepts"
           chapters:
-          - anaesthesia/general/low-flow.qmd
+          - anaesthesia/general/low_flow.qmd
           - anaesthesia/general/tiva.qmd
           - anaesthesia/general/trigger.qmd
           - anaesthesia/general/laparoscopy.qmd
           - anaesthesia/general/awareness.qmd
           - anaesthesia/general/eeg.qmd
-          - anaesthesia/general/nerve-integrity.qmd
+          - anaesthesia/general/nerve_integrity.qmd
+          - anaesthesia/general/cell_salvage.qmd
         - part: "Perioperative"
           chapters:
-          - anaesthesia/periop/periop-management.qmd
-          - anaesthesia/periop/routine-ix.qmd
-          - anaesthesia/periop/periop-med.qmd
-          - anaesthesia/periop/periop-anticoag.qmd
-          - anaesthesia/periop/periop-antiplatelet.qmd
-          - anaesthesia/periop/periop-cardiac.qmd
+          - anaesthesia/periop/periop_management.qmd
+          - anaesthesia/periop/routine_ix.qmd
+          - anaesthesia/periop/periop_med.qmd
+          - anaesthesia/periop/periop_anticoag.qmd
+          - anaesthesia/periop/periop_antiplatelet.qmd
+          - anaesthesia/periop/periop_cardiac.qmd
           - anaesthesia/periop/icd.qmd
           - anaesthesia/periop/antibiotics.qmd
           - anaesthesia/periop/thromboprophylaxis.qmd
           - anaesthesia/periop/ponv.qmd
-          - anaesthesia/periop/patient-blood-mx.qmd
+          - anaesthesia/periop/patient_blood_mx.qmd
           - anaesthesia/periop/pocd.qmd
           - anaesthesia/periop/eras.qmd
         - part: "Regional"
@@ -256,13 +257,13 @@ book:
               - anaesthesia/regional/spinal.qmd
               - anaesthesia/regional/caudal.qmd
               - anaesthesia/regional/epidural.qmd
-              - anaesthesia/regional/epidural-mx.qmd
+              - anaesthesia/regional/epidural_mx.qmd
           - part: "Head and Neck"
             chapters:
               - anaesthesia/regional/peribulbar.qmd
               - anaesthesia/regional/subtenon.qmd
               - anaesthesia/regional/scalp.qmd
-              - anaesthesia/regional/cervical-plexus.qmd
+              - anaesthesia/regional/cervical_plexus.qmd
           - part: "Upper Limb"
             chapters:
               - anaesthesia/regional/interscalene.qmd
@@ -291,7 +292,7 @@ book:
             - anaesthesia/anzca/pacu.qmd
             - anaesthesia/anzca/record.qmd
             - anaesthesia/anzca/assistant.qmd
-            - anaesthesia/anzca/sed-and-analgesia.qmd
+            - anaesthesia/anzca/sed_analgesia.qmd
             - anaesthesia/anzca/smoking.qmd
             - anaesthesia/anzca/daystay.qmd
             - anaesthesia/anzca/monitoring.qmd
@@ -310,13 +311,13 @@ book:
             - anaesthesia/anzca/welfare.qmd
             - anaesthesia/anzca/rtp.qmd
             - anaesthesia/anzca/safemeds.qmd
-            - anaesthesia/anzca/patient-transport.qmd
+            - anaesthesia/anzca/patient_transport.qmd
             - anaesthesia/anzca/handover.qmd
-            - anaesthesia/anzca/safe-anaesthesia.qmd
+            - anaesthesia/anzca/safe_anaesthesia.qmd
             - anaesthesia/anzca/specialists.qmd
             - anaesthesia/anzca/qa.qmd
             - anaesthesia/anzca/sustainability.qmd
-            - anaesthesia/anzca/peer-review.qmd
+            - anaesthesia/anzca/peer_review.qmd
             - anaesthesia/anzca/gender.qmd
         - part: <hr>
         # The actual anaesthetic stuff
@@ -324,7 +325,7 @@ book:
           chapters:
           - anaesthesia/cardiac/principles.qmd
           - anaesthesia/cardiac/cpb.qmd
-          - anaesthesia/cardiac/myocardial-preservation.qmd
+          - anaesthesia/cardiac/myocardial_preservation.qmd
           - anaesthesia/cardiac/dhca.qmd
           - anaesthesia/cardiac/cabg.qmd
           - anaesthesia/cardiac/avr.qmd
@@ -338,9 +339,9 @@ book:
         - part: "ENT"
           chapters:
           - anaesthesia/ent/principles.qmd
-          - anaesthesia/ent/jet-vent.qmd
+          - anaesthesia/ent/jet_vent.qmd
           - anaesthesia/ent/tonsillectomy.qmd
-          - anaesthesia/ent/bleeding-tonsil.qmd
+          - anaesthesia/ent/bleeding_tonsil.qmd
         - part: "General"
           chapters:
           - anaesthesia/gensurg/scopes.qmd
@@ -357,13 +358,13 @@ book:
           chapters:
           - anaesthesia/obs/principles.qmd
           - anaesthesia/obs/terms.qmd
-          - anaesthesia/obs/labour-analgesia.qmd
+          - anaesthesia/obs/labour_analgesia.qmd
           - anaesthesia/obs/luscs.qmd
-          - anaesthesia/obs/ga-luscs.qmd
-          - anaesthesia/obs/reg-luscs.qmd
+          - anaesthesia/obs/ga_luscs.qmd
+          - anaesthesia/obs/reg_luscs.qmd
           - anaesthesia/obs/tof.qmd
           - anaesthesia/obs/cardiac.qmd
-          - anaesthesia/obs/non-obs.qmd
+          - anaesthesia/obs/non_obs.qmd
         - part: "Orthopaedics"
           chapters:
           - anaesthesia/ortho/tourniquets.qmd
@@ -373,38 +374,37 @@ book:
           - anaesthesia/ortho/spine.qmd
         - part: "Opthalmology"
           chapters:
-          - anaesthesia/opthal/opthal-principles.qmd
-          - anaesthesia/opthal/opthal-la.qmd
+          - anaesthesia/opthal/opthal_principles.qmd
+          - anaesthesia/opthal/opthal_la.qmd
           - anaesthesia/opthal/penetrating.qmd
         - part: "Paediatrics"
           chapters:
-          - anaesthesia/paeds/paed-considerations.qmd
+          - anaesthesia/paeds/paed_considerations.qmd
           - anaesthesia/paeds/preparation.qmd
           - anaesthesia/paeds/premedication.qmd
           - anaesthesia/paeds/emergence.qmd
-          - anaesthesia/paeds/periop-resp.qmd
+          - anaesthesia/paeds/periop_resp.qmd
           - anaesthesia/paeds/apnoea.qmd
           - anaesthesia/paeds/murmurs.qmd
-          - anaesthesia/paeds/congenital-cardiac.qmd
+          - anaesthesia/paeds/congenital_cardiac.qmd
           - anaesthesia/paeds/univent.qmd
           - anaesthesia/paeds/analgesia.qmd
           - anaesthesia/paeds/sedation.qmd
           - anaesthesia/paeds/neurotoxicity.qmd
-          - anaesthesia/paeds/inhaled-fb.qmd
+          - anaesthesia/paeds/inhaled_fb.qmd
           - anaesthesia/paeds/pyloric.qmd
         - part: "Radiology"
           chapters:
-          - anaesthesia/ir/clot-retrieval.qmd
-          - anaesthesia/ir/clot-retrieval.qmd
+          - anaesthesia/ir/clot_retrieval.qmd
           - anaesthesia/ir/isletcelltx.qmd
         - part: "Thoracic"
           chapters:
           - anaesthesia/thoracic/principles.qmd
-          - anaesthesia/cardiac/mediastinal-mass.qmd
+          - anaesthesia/thoracic/mediastinal_mass.qmd
           - anaesthesia/thoracic/vats.qmd
           - anaesthesia/thoracic/lvrs.qmd
           - anaesthesia/thoracic/pneumonectomy.qmd
-          - anaesthesia/thoracic/rigid-bronch.qmd
+          - anaesthesia/thoracic/rigid_bronch.qmd
         - part: "Urology"
           chapters:
           - anaesthesia/urology/turp.qmd
@@ -413,16 +413,15 @@ book:
           - anaesthesia/urology/transplant.qmd
         - part: "Vascular"
           chapters:
-          - anaesthesia/vascular/elective-aaa.qmd
-          - anaesthesia/vascular/cross-clamp.qmd
-          - anaesthesia/vascular/spine-protection.qmd
-          - anaesthesia/vascular/elective-aaa.qmd
-          - anaesthesia/vascular/emerg-aaa.qmd
+          - anaesthesia/vascular/cross_clamp.qmd
+          - anaesthesia/vascular/spine_protection.qmd
+          - anaesthesia/vascular/elective_aaa.qmd
+          - anaesthesia/vascular/emerg_aaa.qmd
           - anaesthesia/vascular/endovascular.qmd
           - anaesthesia/vascular/carotid.qmd
         - part: "Off the Floor"
           chapters:
-          - anaesthesia/otf/remote-anaes.qmd
+          - anaesthesia/otf/remote_anaes.qmd
           - anaesthesia/otf/ect.qmd
           - anaesthesia/otf/dus.qmd
     - part: <hr>
@@ -440,7 +439,7 @@ book:
         # Stress response
         - part: "Surgical"
           chapters:
-            - intensive/post-cardiac.qmd
+            - intensive/post_cardiac.qmd
             # Post op thoracic
             # Post op neuro
             # Transplants
@@ -462,7 +461,7 @@ book:
         - part: "Upper Airway"
           chapters:
           - disease/resp/osa.qmd
-          - disease/resp/massive-haemoptysis.qmd
+          - disease/resp/massive_haemoptysis.qmd
           # Tracheomalacia
           # Tracheal stenosis
         - part: "Lower Airway"
@@ -532,7 +531,7 @@ book:
             - disease/cvs/pe.qmd
             - disease/cvs/vae.qmd
             - disease/cvs/afe.qmd
-            - disease/cvs/fat-embolism.qmd
+            - disease/cvs/fat_embolism.qmd
         - part: "Venous"
           chapters:
             - disease/cvs/vte.qmd
@@ -568,7 +567,7 @@ book:
               # Pseudobulbar palsy
         - part: "Spinal"
           chapters:
-            - disease/neuro/autonomic-dysreflexia.qmd
+            - disease/neuro/autonomic_dysreflexia.qmd
         - part: "Peripheral Neuropathy"
           chapters:
             - disease/neuro/cpsp.qmd
@@ -594,7 +593,7 @@ book:
         - part: "Fluid and Electrolyte"
           chapters:
             - disease/fluid/siadh.qmd
-            - disease/fluid/turp-syndrome.qmd
+            - disease/fluid/turp_syndrome.qmd
         # - part: "Nutrition"
         #   chapters:
             # Malnutrition
@@ -723,8 +722,8 @@ book:
             # TBI
         - part: "Face and Neck"
           chapters:
-            - disease/trauma/laryngeal-fracture.qmd
-            - disease/trauma/airway-burns.qmd
+            - disease/trauma/laryngeal_fracture.qmd
+            - disease/trauma/airway_burns.qmd
         # - part: "Chest"
         #   chapters:
         # - part: "Abdomen and Pelvis"
@@ -767,7 +766,7 @@ book:
         chapters:
         - part: "Toxidromes"
           chapters:
-            - disease/tox/serotonin-syndrome.qmd
+            - disease/tox/serotonin_syndrome.qmd
             - disease/tox/last.qmd
         # - part: "Environmental"
         #   chapters:
@@ -788,7 +787,7 @@ book:
       - part: "Congenital"
         chapters:
           - disease/congenital/achondroplasia.qmd
-          - disease/congenital/cerebral-palsy.qmd
+          - disease/congenital/cerebral_palsy.qmd
           - disease/congenital/chiari.qmd
           - disease/congenital/cf.qmd
           - disease/congenital/downs.qmd
@@ -828,8 +827,8 @@ book:
               # Fibreoptic
           - part: "Front-of-Neck"
             chapters:
-              - procedures/airway/needle-cricothyrotomy.qmd
-              - procedures/airway/scalpel-cricothyrotomy.qmd
+              - procedures/airway/needle_cricothyrotomy.qmd
+              - procedures/airway/scalpel_cricothyrotomy.qmd
               # Percutaneous tracheostomy
       # - part: "Respiratory"
       #   chapters:

@@ -84,8 +84,8 @@ Anaesthetist:
 	* Check ACT **3 minutes** post UFH  
 	Confirm ACT >480 prior to cannulation.
 * Reduce SBP to 80-100mmHg to reduce risk of aortic dissection during cannulation
-	* Too low and there is increased risk of puncturing the posterior wall of the aorta, leading to dissection
-	* Too high and there is increased risk of aortic dissection from the anterior wall
+	* Too low and there is ↑ risk of puncturing the posterior wall of the aorta, leading to dissection
+	* Too high and there is ↑ risk of aortic dissection from the anterior wall
 * Connects coronary sinus cannula to PA transducer to monitor pressure during retrograde cardiopegia
 * Confirm coronary sinus cannula is correctly sited  
 Via TOE.
@@ -119,7 +119,7 @@ May cause atrial arrhythmia. If unstable:
 
 Perfusionist:
 
-* Gradually releases clamp on venous line, increasing bypass flow and reducing right heart CO
+* Gradually releases clamp on venous line, ↑ bypass flow and reducing right heart CO
 * Left heart empties due to reduced right sided CO  
 Significant left sided CO at this stage implies a problem:
 	* Obstruction of venous bypass line
@@ -165,9 +165,9 @@ Typically every 30 minutes, aiming:
 	* Typically every 10-15 minutes or at surgeon request
 	* May deliver a **'hot shot'**
 	Warmed cardioplegic blood given as the last bolus prior to rewarming.
-		* Decreases chance of immediate post-operative arrhythmia
+		* ↓ chance of immediate post-operative arrhythmia
 * Rewarms patient prior to weaning  
-Ensure that central-peripheral temperature gradient is <2°C as this increases the risk of neurological complications.
+Ensure that central-peripheral temperature gradient is <2°C as this ↑ the risk of neurological complications.
 	* Slow down rate of rewarming if this occurs
 
 
@@ -191,7 +191,7 @@ Complete a pre-wean checklist and confirm:
 			* AOO/AAI or DOO/DDD
 			* High amplitudes (e.g. 16mA)  
 			* High sensing threshold if using a synchronous mode  
-			Decreases chance of diathermy interference.
+			↓ chance of diathermy interference.
 		* Preload  
 		* Afterload  
 		Start vasopressors or dilators that may be required.
@@ -244,7 +244,7 @@ Adjust infusions if necessary. Ensure good flow rates of carrier fluid to enable
 			Global EF and wall function
 			* Rate of rise of the arterial line waveform 
 			* Visual appearance of heart in chest
-		* Increase with:
+		* ↑ with:
 			* Inotropes
 			* IABP
 			* ECMO
@@ -255,7 +255,7 @@ Adjust infusions if necessary. Ensure good flow rates of carrier fluid to enable
 	* Rate  
 	Usually 80-100, though different physiology may be optimised at different rates.
 		* Correct HR >120 prior to weaning  
-		Usually increasing preload during wean will reduce HR via atrial stretch.
+		Usually ↑ preload during wean will reduce HR via atrial stretch.
 		* Check epicardial pacing lead function
 		* Consider pacing  
 		Native conduction typically superior.
@@ -383,7 +383,7 @@ Use of bypass is associated with several complications including:
 		* AKI	
 		* Post-pump vasoplegia
 * D
-	* Increased risk of anaesthetic awareness
+	* ↑ risk of anaesthetic awareness
 * H
 	* Coagulopathy
 

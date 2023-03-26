@@ -158,7 +158,7 @@ Cons:
 	* Can't suction
 	* Harder to oxygenate/perform pulmonary toilet
 	* Repeated deflation and reinflation is limited
-* Increased dislodgement
+* ↑ dislodgement
 * Slower:
 	* Lung deflation
 	* Positioning
@@ -221,7 +221,7 @@ May be inserted under bronchoscopic guidance or directed blindly.
 * Inflate the bronchial blocker  
 This can be performed:
 	* At end-expiration (when lung volume is at its minimum)  
-	This will decrease the size of the isolated section of lung and therefore the impediment to the surgeon.
+	This will ↓ the size of the isolated section of lung and therefore the impediment to the surgeon.
 	* After waiting until desaturation begins to occur  
 	In a patient who has been ventilated on 100% oxygen, this will indicate maximal atelectasis in the lung (though may take some time to occur).
 
@@ -233,7 +233,7 @@ Isolation of the RUL or RML/RLL is easiest to perform.
 * Place DLT and isolate the operative/injured lung
 * Place bronchial blocker into the non-ventilated lung and inflate the blocker
 * Apply CPAP:  
-Initially 5-10cmH~2~O until recruited, then decrease to 2-5cmH~2~O.
+Initially 5-10cmH~2~O until recruited, then ↓ to 2-5cmH~2~O.
 	* Down bronchial blocker  
 	Can be performed by removing loop from Arndt blocker.
 	* To DLT lumen
@@ -297,7 +297,7 @@ Occurs at lower than usual volumes due to paralysis, lateral position, and the w
 
 ### Responding to Hypoxaemia
 
->PaO~2~ falls rapidly initially, with a nadir at 20-30 minutes. Will tend to improve as HPV increases.
+>PaO~2~ falls rapidly initially, with a nadir at 20-30 minutes. Will tend to improve as HPV ↑.
 
 Critical hypoxaemia:
 
@@ -306,7 +306,7 @@ Critical hypoxaemia:
 	* Major comorbidity
 	* Haemodynamic instability
 * Recruit operative lung until stabilised/help arrived
-	* Increase FiO~2~
+	* ↑ FiO~2~
 	* Two-lung ventilation  
 	If SpO~2~ <88-85%.
 	* CPAP

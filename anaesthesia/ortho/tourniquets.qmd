@@ -40,11 +40,11 @@ Permanent vascular injury is rare but catastrophic, and probably involves tourni
 Include:
 
 * CVS
-	* Increased effective circulating volume following limb drainage and tourniquet inflation  
-	Bilateral thigh tourniquets may increase effective volume by 15%.
+	* ↑ effective circulating volume following limb drainage and tourniquet inflation  
+	Bilateral thigh tourniquets may ↑ effective volume by 15%.
 		* May lead to cardiac failure
 	* Hypertension  
-	Gradual increase in BP seen with tourniquet use.
+	Gradual ↑ in BP seen with tourniquet use.
 		* Probably due to tourniquet pain
 * Pain  
 Tourniquet inflation leads to a dull aching pain. This pain:
@@ -54,7 +54,7 @@ Tourniquet inflation leads to a dull aching pain. This pain:
 	Beware treating as it will resolve with tourniquet deflation.
 * Extremity
 	* Temperature  
-	Increased core temperature due to reduced heat loss from ischaemic limb, typically 0.5°C after 2 hours.
+	↑ core temperature due to reduced heat loss from ischaemic limb, typically 0.5°C after 2 hours.
 
 
 ## Effects of Tourniquet Deflation
@@ -65,17 +65,17 @@ Include:
 	* CVS instability  
 	Seen on tourniquet deflation, due to reactive hyperaemia and wash-out of anaerobic metabolites.
 * Respiratory
-	* Increased PaCO~2~  
+	* ↑ PaCO~2~  
 	Occurs on tourniquet deflation, may result in hyperventilation or hypercarbia (with subsequent changes to CNS blood flow).
 * Extremity  
-Decreased core temperature on tourniquet deflation due to heat redistribution.
+↓ core temperature on tourniquet deflation due to heat redistribution.
 * Fluid and Electrolyte
 	* Hyperlactataemia  
 	On tourniquet deflation.
 	* Hyperkalaemia  
 	On tourniquet deflation.
 * Haematological
-	* Increased fibrinolysis
+	* ↑ fibrinolysis
 
 
 ## Reducing Tourniquet Risk
