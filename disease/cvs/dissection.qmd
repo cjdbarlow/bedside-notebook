@@ -1,49 +1,49 @@
 # Aortic Dissection
 
+Life-threatening vascular emergency due to tear of the aortic intima, allowing entry of blood between the intima and media leading to creation of a **false lumen** that extends under pressure, leading to organ ischaemia due to occlusion of the true lumen.
 
-Aortic dissections are:
+The **Standford Classification** divides aortic dissections on their anatomical origin, and determines the management:
 
-* A tear of the aortic intima
-	* Entry of blood between the media and the intima
-	* Expansion of a **false lumen** that expands proximally and distally
-	* Organ ischaemia due to occlusion of vessels from the false lumen
-* Have multiple classification systems, including:
-	* DeBakey Classification  
-	Classified based on anatomical origin and extent.
-		* Type I
-			* Begins in the ascending aorta
-			* Extends past the aortic arch  
-			May extend to the iliacs.
-		* Type II
-			* Begins in the ascending aorta
-			* Ends in the ascending aorta
-		* Type III  
-		Subdivided into:
-			* IIIa
-				* Begin distal to the L SCA
-				* Does not extend past the diaphgram
-			* IIIb
-				* Begin distal to the L SCA
-				* Extend past the diaphragm
-	* Stanford Classification  
-	Also based on anatomical origin
-		* Type A  
-		Originate in the ascending aorta.
-			* Mortality of 1-2% per hour after onset
-		* Type B  
-		Originate in the descending aorta, but may propagate proximally.
-			* May be medically managed  
-			Control of HR and BP.
+* Type A  
+Originate in the ascending aorta.
+	* Mortality of 1-2% per hour after onset
+* Type B  
+Originate in the descending aorta, but may propagate proximally.
+	* May be medically managed  
+	Control of HR and BP.
+
+:::column-margin
+The DeBakey Classification divides based on anatomical origin and extent, but is less helpful than the Stanford classification for the non-interventionalist as it is more verbose and doesn't further influence management:
+
+* Type I
+	* Begins in the ascending aorta
+	* Extends past the aortic arch  
+	May extend to the iliacs.
+* Type II
+	* Begins in the ascending aorta
+	* Ends in the ascending aorta
+* Type III  
+Subdivided into:
+	* IIIa
+		* Begin distal to the L SCA
+		* Does not extend past the diaphgram
+	* IIIb
+		* Begin distal to the L SCA
+		* Extend past the diaphragm
+:::
 
 ## Epidemiology and Risk Factors
 
 Key risk factors:
 
+* Age
 * CVS disease
-	* Hypertension
+	* Hypertension\
+	Poorly controlled or situational.
 	* Hyperlipidaemia
 	* Smoking
 * Cocaine use
+* Genetics
 * Pregnancy  
 Generally 3^rd^ trimester or post-partum.
 
@@ -92,20 +92,39 @@ Include:
 
 ## Management
 
-Follows an ABC approach:
+**Resuscitation**:\
 
-* Destination
-	* ICU
-	* OR
-* A
-* B
 * C
-	* Bilateral invasive blood pressure monitoring
-	* Large bore IV access
-	* Aggressive HR and BP control  
-	Using β-blockers and vasodilators.
+	* **Haemodynamic control**\
+	Vital to reduce progression of dissection, though urgency is ↑ in type A. Targets:
 		* SBP 100-120mmHg
+			* Labetalol
+			* Magnesium
+			* GTN
 		* HR ⩽60bpm
+			* Labetalol
+			* Metoprolol
+	* Arterial access to guide resuscitation
+* D
+	* Analgesia\
+	For control of haemodynamics.
+		* Fentanyl
+
+**Specific therapy**:
+
+* Pharmacological
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+* OR\
+Urgent theatre for Type A dissections.
+* ICU/HDU\
+Often required for BP control.
+
 
 ### Anaesthetic Considerations
 

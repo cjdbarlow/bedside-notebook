@@ -62,33 +62,46 @@ Endovascular repair of aorta using percutaneously inserted grafts. EVAR:
 
 Complications include:
 
-* Spinal cord ischaemia
-* Renal failure
-* Post-implantation syndrome  
-Early, self-limiting, postoperative occurrence of:
-	* Fever
-	* Leukocytosis
-	* Raised inflammatory markers
-* Endograft collapse  
-Collapse of the endograft:
-	* Usually occurs within 3 months
-	* May present:
-		* Asymptomatically
-		* Abdominal pain
-		* Multiorgan failure
-		* Reduced femoral pulses
-* Endoleaks  
-Leakage of blood into aneurysm sac around graft.
-	* Occurs in ~30% of patients
-	* Classified into:
-		* Type I  
-		Incomplete seal. Requires repair.
-		* Type II  
-		Leakage of blood from collateral vessels. Requires repair.
-		* Type III  
-		Inadequate sealing of overlapping graft joints. Requires repair.
-		* Type IV  
-		Direct leakage through a porous graft. Historical curiosity of old grafts.
+* C
+	* Post-implantation syndrome  
+	Early, self-limiting, postoperative occurrence of:
+		* Fever
+		* Leukocytosis
+		* Raised inflammatory markers
+	* Endograft collapse  
+	Collapse of the endograft:
+		* Usually occurs within 3 months
+		* May present:
+			* Asymptomatically
+			* Abdominal pain
+			* Multiorgan failure
+			* Reduced femoral pulses
+	* Endoleaks  
+	Leakage of blood into aneurysm sac around graft.
+		* Occurs in ~30% of patients
+		* Classified into:
+			* Type I  
+			Incomplete seal. Requires repair.
+			* Type II  
+			Leakage of blood from collateral vessels. Requires repair.
+			* Type III  
+			Inadequate sealing of overlapping graft joints. Requires repair.
+			* Type IV  
+			Direct leakage through a porous graft. Historical curiosity of old grafts.
+	* Major bleeding
+	* Abdominal compartment syndrome\
+	~15% of cases, more common if blood loss >5L.
+	* MACE
+* D
+	* Spinal cord ischaemia\
+	Related to spinal perforator injury. Management aimed at ↑ spinal perfusion pressure:
+		* CSF drain to 10mmHg
+		* ↑ MAP to 100mmHg or whatever resolves neurology
+* F
+	* AKI
+* G
+	* Mesenteric ischaemia
+
 		
 
 ---

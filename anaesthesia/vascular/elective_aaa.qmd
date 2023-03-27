@@ -145,6 +145,21 @@ ICU or HDU:
 * One or the other is required  
 * HDU acceptable if the patient can be extubated
 
+Post-operative complications:
+
+* C
+	* Major bleeding
+	* Abdominal compartment syndrome\
+	Incidence relates to blood loss volume.
+	* MACE\
+	~7%.
+* D
+	* Stroke
+* F
+	* AKI
+* G
+	* Mesenteric ischaemia
+
 ---
 
 ## References

@@ -209,6 +209,9 @@ book:
                 # HDx
                 # PD
                 # Haemoperfusion
+        - part: "Gastrointestinal"
+          chapters:
+          - management/git/acs.qmd
         - part: "Haematology"
           chapters:
           - management/haeme/blood.qmd
@@ -544,6 +547,7 @@ book:
             # Acute aortic syndromes
             - disease/cvs/dissection.qmd
             - disease/cvs/htn.qmd
+            - disease/cvs/aaa.qmd
             # TAA
             # AAA
         - part: "Pulmonary Vascular"
@@ -672,12 +676,14 @@ book:
         - part: "Biliary"
           chapters:
             - disease/git/acute_panc.qmd
+            - disease/git/acalculous_cholecystitis.qmd
               # Calculus cholecystitis
-              # Acalculus cholecystitis
               # Pancreatic
         - part: "Gut"
           chapters:
+
             - disease/git/gib.qmd 
+            - disease/git/mesenteric_ischaemia.qmd
               # Oesophageal
               # Obstruction
               # Pseudoobstruction

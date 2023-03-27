@@ -1,0 +1,77 @@
+# Abdominal Aortic Aneurysm
+
+Infrarenal aortic diameter >30mm, with annual risk of rupture proportionate to diameter:
+
+* 1% if <5cm
+* 17% if >6cm
+
+## Epidemiology and Risk Factors
+
+Risk factors:
+
+* Age
+* Male
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Manifestations
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+Radiology:
+
+* CT
+* Ultrasound\
+Used for high-risk population (men >65) screening in some nations.
+
+## Management
+
+**Resuscitation**:\
+
+**Specific therapy**:
+
+* Pharmacological
+* Procedural
+	* EVAR
+		* ↓ Perioperative mortality (~1%) compared with open repair
+	* Open repair
+		* ~3% mortality
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+* C
+	* Aneurysm rupture
+		* Sudden onset of:
+			* Pain\
+			Back, abdominal.
+			* Tenderness
+			* Hypovolaemic shock
+		* Highly fatal
+			* 22% die prior to hospital
+			* Overall ~60% mortality
+		* CT appropriate if haemodynamically stable
+		* EVAR may be appropriate
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
