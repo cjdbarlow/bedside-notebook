@@ -107,7 +107,7 @@ Diagnosis should be re-evaluated if patch fails. Consider:
 	* A second or third blood patch may be required
 
 
-### Ineffective Therapies
+### Marginal and Ineffective Therapies
 
 * Caffeine
 * 5-HT

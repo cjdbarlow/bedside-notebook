@@ -1,21 +1,22 @@
 # Acute Liver Failure
 
-Rapidly progressive, life-threatening development of **coagulopathy**, **encephalopathy**, and **jaundice** in a patient with a previously normal liver. ALF is subclassified by time interval between jaundice and encephalopathy:
+Rapidly progressive, life-threatening development of **coagulopathy**, **encephalopathy**, and **jaundice** in a patient with a previously normal liver due to massive liver parenchymal injury. ALF is subclassified by time interval between jaundice and encephalopathy:
 
 * Hyperacute\
 Encephalopathy within 7 days. Typically:
-	* Severe encephalopathy, coagulopathy, ↑ ICP, and very deranged LFTs
-	* Aetiologies are paracetamol, viral hepatitis
-	* Good recovery
+	* Severe encephalopathy, coagulopathy, ↑ ICP, and very deranged LFTs\
+	Encephalopathy usually preceeds jaundice.
+	* Common aetiologies: paracetamol, viral hepatitis
+	* Higher rate of spontaneous recovery
 * Acute\
 Encephalopathy within 28 days. Typically:
 	* More gradual decline
-	* Aetiologies are idiosyncratic drug reactions, viral hepatitis
+	* Common aetiologies: idiosyncratic drug reactions, viral hepatitis
 * Subacute\
 Encephalopathy within 3 months. Typically:
 	* Less deranged LFTs
-	* Aetiologies are *un*likely to be pregnancy-related or viral. 
-	* Poorest recovery
+	* Common aetiologies are drug or immune-mediated disease and *un*likely to be pregnancy-related or viral. 
+	* Poorest recovery in absence of transplantation
 
 
 
@@ -31,7 +32,14 @@ Acute decline in liver function in patients with chronic liver disease.
 
 ## Epidemiology and Risk Factors
 
+Rare:
+
+* 400 cases annually in the UK
+
+
 ## Pathophysiology
+
+Pathological processes:
 
 * Direct hepatocyte damage
 * Immune response
@@ -44,21 +52,52 @@ Acute decline in liver function in patients with chronic liver disease.
 
 ### Aetiology
 
-* Ischaemia
-* Vascular
-* Infection
-* Autoimmune
-* Drugs/toxins
-	* Paracetamol\
-	50-70% in the developed world.
+:::column-margin
+Cause varies substantially with geography.
+:::
+
+* **Vascular**
+	* Ischaemia
+	* Budd-Chiari Syndrome\
+	Hepatic vein thrombosis, usually with an underlying procoagulant condition.
+* **Infection**
+	* Hepatitis A\
+	Infection rarely leads to liver failure (<1%) and contributes to ~10% of infective cases.
+	* Hepatitis B\
+	25-75% of viral cases. **Reactivation** may occur in immunosuppressed patients.
+	* Hepatitis C\
+	Common cause of CLD but rarely causes acute failure.
+	* Other viruses may cause rarely infection in the immunocompromised:
+		* EBV
+		* Measles
+		* HSV 1/2
+	* Dengue
+	* Yellow fever
+	* Lassa
+* **Autoimmune**
+* **Drugs**/toxins
+	* **Paracetamol**\
+	50-70% of cases in the developed world. Occurs due to:
+		* Depletion of hepatic glutathione\
+		Consumed in conjugating NAPQI, a Phase I metabolite of paracetamol.
+		* NAPQI accumulation causes direct hepatocyte injury
 	* Aspirin\
 	Reye's syndrome.
-	* Alcohol
 	* Herbal
 	* Halothane
+	* Antituberculosis drugs
+	* Alcohol
+	* Ecstasy
+	* *Amanita phalloides*\
+	Mushroom poisoning. Usually presents with diarrhoea, followed by hepatic necrosis at 48-72 hours.
 * Pregnancy-related\
 	* Acute fatty liver of pregnancy
 	* Severe pre-eclampsia
+	* Liver rupture
+* Hyperthermia
+* Other
+	* Wilson disease
+	* Haemophagocytic syndrome
 
 
 ## Clinical Manifestations
@@ -66,7 +105,7 @@ Acute decline in liver function in patients with chronic liver disease.
 History:
 
 :::column-margin
-Hepatic encephalopathy graded into:
+The Parson-sSmith scale grades hepatic encephalopathy into:
 
 1. Mild confusion/irritability, ↓ attention
 2. Disorientation, drowsiness, inappropriate
@@ -76,15 +115,21 @@ Hepatic encephalopathy graded into:
 
 * Overdose
 * CNS
-	* Confusion
-	* Agitation
+	* Encephalopathy
+		* Confusion
+		* Agitation
 * GI
 	* Nausea/Vomiting
+	* Diarrhoea
 
 Examination:
 
 * Asterixis
-* Hyperreflexia
+* Intracranial hypertension
+	* Hyperreflexia
+	* Clonus
+	* Hypertonicity
+	* Cushing's triad
 * Jaundice
 
 
@@ -127,7 +172,13 @@ Neurotoxin responsible for much of hepatic encephalopathy. ↑ Ammonia may refle
 Malignancy.
 * Viral screen\
 Aetiology. Include:
-	* Hepatitis A/B/C/E
+	* Hepatitis A
+	* Hepatitis B\
+	Core antigen indicates infection. Surface antigen often negative.
+	* Hepatitis C\
+	Positive antibodies indicate infection.
+	* Hepatitis E\
+	Positive antibodies indicate infection. Usually faecal-oral, though a subtype is transmissable by blood.
 	* EBV
 	* HSV
 	* VZV
@@ -143,6 +194,9 @@ Aetiology. Include:
 	Wilson's disease.
 * Pregnancy test
 
+:::column-margin
+Ammonia >200μmol/L associated with cerebral herniation.
+:::
 
 Urine:
 
@@ -154,6 +208,7 @@ Radiology:
 
 * TTE
 	* RV function
+	* Transplant assessment
 * Liver ultrasound
 	* Splenomegaly
 	* Ascites
@@ -168,6 +223,12 @@ Triple-phase liver.
 Pathology:
 
 * Liver biopsy
+	* Rare in acute setting due to coagulopathy\
+	Transjugular route safest.
+	* Non-specific necrosis most common finding
+	* May be useful in diagnosis of:
+		* Autoimmune
+		* Wilson's disease
 
 ## Management
 
@@ -209,24 +270,38 @@ Artificial, extra-corporeal liver replacement therapy. Broadly, ↓ encephalopat
 
 **Underlying cause**:
 
-* Alcoholic hepatitis
+:::column-margin
+Management of paracetamol overdose is covered under @sec-pmolod.
+:::
+
 * Paracetamol overdose
-	* N-acetyl cysteine
-		* 150mg/kg load, then 50mg/kg over 4 hours
-* Hepatitis B
-	* Lamivudine\
-	Benefit if given early.
-* Wilson's disease
-	* D-Penicillamine\
-	Chelates copper.
-* Hepatic vein thrombosis
-	* Lysis
-	* Clot retreival
-	* TIPS
+	* **N-acetylcysteine** (NAC)\
+		* Cornerstone of therapy as early administration results in significant reduction in mortality (to <1%), though even late administration may improve outcome
+		* Dosing based on Prescott nomogram
 * Viral hepatitis
 	* Antivirals
+	* Hepatitis B
+		* Lamivudine\
+		Benefit if given early.
+* Alcoholic hepatitis
+* Autoimmune hepatitis
+	* Ste
+* Mushroom poisoning
+	* Forced diuresis\
+	↑ Renal clearance of toxin. Avoid hypovolaemia.
+* Wilson's disease
+	* D-Penicillamine\
+	Chelates copper. Withdrawal of chronic treatment may precipitate failure.
+* Hepatic vein thrombosis
+	* Thrombolysis
+	* Clot retrieval
+	* TIPS
 
 **Supportive care**:
+
+:::column-margin
+Invasive intracranial pressure monitoring associated with ~10% intracranial haemorrhage rate.
+:::
 
 * B
 	* Lung protective ventilation\
@@ -234,7 +309,13 @@ Artificial, extra-corporeal liver replacement therapy. Broadly, ↓ encephalopat
 	* Drain pleural effusions
 * D
 	* ↑ ICP\
-		* Consider invasive ICP management if **all** of:
+		* General measures\
+		If **grade 3/4** encephalopathy, recommend:
+			* Intubation
+			* Sedation
+			* Avoid stimulation
+			* Head-up positioning
+		* Consider invasive ICP management if **all** of:\
 			* Grade 3-4 encephalopathy
 			* Hyperacute liver failure
 			* Ammonia >150mmolL
@@ -250,7 +331,7 @@ Artificial, extra-corporeal liver replacement therapy. Broadly, ↓ encephalopat
 		* CRRT preferential due to haemodynamics
 		* In addition to standard indications, consider for:
 			* Hyperammonaemia\
-			Aim <100umol/L to ↓ cerebral oedema.
+			Aim <100μmol/: to ↓ cerebral oedema.
 			* Hypothermia
 * G
 	* Early enteral feeding\
@@ -264,7 +345,7 @@ Artificial, extra-corporeal liver replacement therapy. Broadly, ↓ encephalopat
 	* Coagulopathy\
 	Treat if bleeding or prior to procedures. Patients may be prothrombotic, anti-thrombotic, or fibrinolytic, and the assays themselves (both coagulation profiles and point-of-care testing) may not correlate with the observed clinical effect.
 		* Vitamin K\
-		Very reasonable, probably ineffective.
+		Very reasonable, probably ineffective in the majority of patients.
 
 
 
@@ -272,7 +353,7 @@ Artificial, extra-corporeal liver replacement therapy. Broadly, ↓ encephalopat
 
 * Liver transplant centre
 
-### Ineffective Therapies
+### Marginal and Ineffective Therapies
 
 ## Anaesthetic Considerations
 
@@ -293,7 +374,8 @@ Artificial, extra-corporeal liver replacement therapy. Broadly, ↓ encephalopat
 * C
 	* Distributive shock
 * D
-	* Intracranial hypertension
+	* Intracranial hypertension\
+	Usually develops rapidly with little time for adaptation.
 	* Hepatic encephalopathy
 * F
 	* AKI (hepatorenal syndrome)\
@@ -310,11 +392,11 @@ Artificial, extra-corporeal liver replacement therapy. Broadly, ↓ encephalopat
 		* Thrombocytopaenia
 * I
 	* Infection\
-	↑ Susceptibility.
+	↑ Susceptibility due to functional immunosuppression.
 
 ## Prognosis
 
-Factors:
+Spontaneous recovery occurs in only **40%**. Factors:
 
 * Age
 ↑ Mortality with ↑ age.
@@ -341,8 +423,8 @@ Eligibility for transplantation is determined using one of the prognostic scores
 |                            | Or 3 of:                    |
 | Or:                        | - Age <10 or >40            |
 | - PT >100s and             | - Hyperacute                |
-| - Cr >300umol/L and        | - Seronegative/drug induced |
-| - Grade 3/4 encephalopathy | - Bilirubin >300umol/L      |
+| - Cr >300μmol/: and        | - Seronegative/drug induced |
+| - Grade 3/4 encephalopathy | - Bilirubin >300μmol/:      |
 |                            | - PT >50s                   |
 +----------------------------+-----------------------------+
 
@@ -383,3 +465,4 @@ Use an app.
 ## References
 
 1. Aziz, Riaz, Jennifer Price, and Banwari Agarwal. [Management of Acute Liver Failure in Intensive Care](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7892353/pdf/main.pdf). BJA Education 21, no. 3 (March 2021): 110–16. https://doi.org/10.1016/j.bjae.2020.11.006.
+2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

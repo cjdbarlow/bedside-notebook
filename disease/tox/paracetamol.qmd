@@ -1,0 +1,78 @@
+# Paracetamol Overdose {#sec-pmolod}
+
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Manifestations
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+## Management
+
+**Resuscitation**:\
+
+ABC approach. Comment on team coordination and clinical priorities.
+**Specific therapy**:
+
+:::column-margin
+![Prescott Nomogram](/resources/prescott.jpg)
+
+: Risk Factors for Toxicity
+
++-----------------------+---------------------------+
+| ↓ Hepatic Glutathione | Cytochrome P450 Induction |
++=======================+===========================+
+| Malnourishment:       | Antiepileptics:           |
+|                       |                           |
+| - Anorexia nervosa    | - Phenytoin               |
+| - Bulimia             | - Carbamazepine           |
+| - Malnourishment      | - Phenobarbital           |
+|                       |                           |
+| Disease:              | Other:                    |
+|                       |                           |
+| - HIV                 | - Rifampicin              |
+| - Cystic Fibrosis     | - Chronic ETOH            |
++-----------------------+---------------------------+
+:::
+
+:::
+If in doubt, give NAC.
+:::
+
+* Pharmacological
+	* **N-acetylcysteine** (NAC)\
+	Stimulates glutathione stimulus, allowing further glutathione to be conjugated.
+		* Prescott nomogram indicates when NAC therapy should be given\
+		>200mg/kg or 10g in a one-off ingestion should receive NAC independent of level.
+		* Early administration results in significant reduction in mortality (to <1%), though even late administration may improve outcome.
+		* 150mg/kg load over 15-60 minutes
+		* 50mg/kg over 4 hours
+		* 100mg/kg over 16 hours
+		* Further doses may be indicated (usually 150mg/kg over 24 hours)
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
