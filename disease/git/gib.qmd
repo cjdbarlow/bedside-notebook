@@ -107,7 +107,7 @@ Usually performed as part of interventional embolisation strategy, but can ident
 
 ## Management
 
-:::danger
+:::crisis
 If intubation is required, ensure adequate **volume resuscitation prior to induction** due to the risk of profound haemodynamic instability.
 :::
 
@@ -139,14 +139,14 @@ The majority of patients with UGIB will stop bleeding spontaneously and not requ
 
 * Pharmacological
     * **Cease anticoagulation**
-    ** **Cease NSAID**
+    * **Cease NSAID**
     * **Acid suppression**\
     Inadequate without endoscopic control in severe or persistent bleeding. No evidence to support use pre-endoscopy, but decreased rebleeding and repeated endoscopy when used post-bleeding.
         * PPI
         * H~2~-antagonist
     * *H. Pylori* eradication
         * More effective than acid suppression 
-    * Decrease Portal pressure\
+    * ↓ Portal pressure\
     For variceal bleeding.
         * Vasopressin
             * May precipitate hypertension and cardiac ischaemia
@@ -156,6 +156,8 @@ The majority of patients with UGIB will stop bleeding spontaneously and not requ
         Decrease portal blood flow, no edemonstrated mortality improvement.
     * Propranolol\
     Used for secondary prevention of variceal bleeding. 
+    * Antibiotics\
+    For patients with **variceal bleeds** due to the high risk of concomitant (or precipitating) infection.
 * Procedural\
     * Balloon tamponade\
     Insertion of a gastric-oesopahgeal balloon which is placed to provide balloon tamponade feeding veins. Used only *in extremis* to provide control of bleeding.

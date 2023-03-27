@@ -248,7 +248,7 @@ Goals of therapy are:
 Consider securing if:
 	* High grade (III/IV) encephalopathy
 	* Need for transfer
- B
+* B
 	* CO~2~ control for ICP management
 * C
 	* Classically distributive shock picture
@@ -260,13 +260,15 @@ Consider securing if:
 
 **Specific therapy**:
 
-* Liver transplantation
-* Extra-corporeal hepatic support\
-Artificial, extra-corporeal liver replacement therapy. Broadly, ↓ encephalopathy and ↑ haemodynamic function without mortality benefit. May be:
-	* Biological\
-	Using human/porcine cells.
-	* Mechanical\
-	Molecular filtration.
+* Procedural
+	* Liver transplantation
+* Physical
+	* Extra-corporeal hepatic support\
+	Artificial, extra-corporeal liver replacement therapy. Broadly, ↓ encephalopathy and ↑ haemodynamic function without mortality benefit. May be:
+		* Biological\
+		Using human/porcine cells.
+		* Mechanical\
+		Molecular filtration.
 
 **Underlying cause**:
 

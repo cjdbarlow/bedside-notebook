@@ -1,4 +1,4 @@
-# Pressure Monitoring
+# Pressure
 
 Invasive pressure monitoring is an essential part of critical care, and aims to guide assessment of the delivery of oxygen to tissues.
 

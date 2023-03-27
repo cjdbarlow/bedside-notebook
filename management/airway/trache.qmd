@@ -91,7 +91,7 @@ Considerations for tracheostomy insertion include:
 	Ideally:
 		* FiO~2~ **<0.6**
 		Risk of airway fire with electrocautery, and indicates tolerance of interruption of ventilation during insertion.
-		* PEEP\ **<10cmH~2~O**
+		* PEEP **<10cmH~2~O**
 		Tolerance of de-recruitment and interruption of ventilation during insertion.
 * H
 	* Coagulopathy

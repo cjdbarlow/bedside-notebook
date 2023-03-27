@@ -1,18 +1,17 @@
 # Major Incident Assessment and Medical Management
 
-
 A major incident occurs when the location, number, severity, or type of live casualties requires **extraordinary resources**. Major incidents can be:
 
 * Natural of man-made
 * Simple or compound  
-A compound incident occcurs when releveant infrastructure (roads, hospitals, and lines of communication) is also disrupted/destroyed.
+A compound incident occurs when relevant infrastructure (roads, hospitals, and lines of communication) is also disrupted/destroyed.
 * Compensated or uncompensated  
 An uncompensated incident occurs when the casualties exceed the resources to treat them. An incident may:
 	* Move from uncompensated to compensated as additional resources are mobilised
 	* Be more likely to be uncompensated when:
-		* Surge capacity planning has not occured
+		* Surge capacity planning has not occurred
 		* Resources are lacking  
-		Remote regions are more likely to experience an uncompenated incident for any given casualty load.
+		Remote regions are more likely to experience an uncompensated incident for any given casualty load.
 		* Confounding factors
 
 Casualty numbers:
@@ -185,7 +184,7 @@ Point of secondary triage and casualty treatment. Should be:
 
 
 *Example of a CCS*  
-![](\resources\ccs.jpg)
+![](/resources/ccs.jpg)
 
 ### Safety
 

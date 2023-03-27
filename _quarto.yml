@@ -11,50 +11,51 @@ execute:
 
 # Settings for output formats
 format:
-    # html:
-    #     # General settings
-    #     page-navigation: false
-    #     search: true
-    #     section-divs: true
-    #     email-obfuscation: javascript
-    #     lang: en-GB
-    #     # Theming
-    #     theme: themes/titfl.scss
-    #     css: themes/custom.css
-    #     include-before-body: themes/litfl.html
-    #     cap-location: margin
-    #     citation-location: margin
-    #     reference-location: document
-    #     number-sections: false
-    #     # Style
-    #     toc: true
-    #     toc-title: "On this Page"
-    #     tbl-cap-location: top
-    #     sidebar:
-    #     style: floating
-    #     fig-align: center
-    #     fig-format: svg
-    #     fig-dpi: 326
-    #     fig-responsive: true
-    #     filters: [scripts/glossary.lua]
-    pdf:
-        # General Settings
-        title: "The Bedside Scientist"
-        author: "C. Jake Barlow"
-        keep-tex: true
+    html:
+        # General settings
+        page-navigation: false
+        search: true
+        section-divs: true
+        email-obfuscation: javascript
+        lang: en-gb
         # Theming
-        documentclass: scrbook
-        classoption: [oneside]
-        filters: [scripts/boxes.lua, scripts/tables.lua]
-        include-in-header: [themes/titfl.tex]
+        theme: themes/titfl.scss
+        css: themes/custom.css
+        include-before-body: themes/litfl.html
         cap-location: margin
         citation-location: margin
         reference-location: document
         number-sections: false
         # Style
-        toc-title: "Contents"
+        toc: true
+        toc-title: "On this Page"
         tbl-cap-location: top
-        include-before-body: content/copyright.tex
+        sidebar:
+        style: floating
+        fig-align: center
+        fig-format: svg
+        fig-dpi: 326
+        fig-responsive: true
+        filters: [scripts/glossary.lua]
+    # pdf:
+    #     # General Settings
+    #     title: "The Bedside Scientist"
+    #     author: "C. Jake Barlow"
+    #     keep-tex: true
+    #     # Theming
+    #     documentclass: scrbook
+    #     classoption: [oneside]
+    #     filters: [scripts/boxes.lua, scripts/tables.lua]
+    #     include-in-header: [themes/titfl.tex]
+    #     cap-location: margin
+    #     citation-location: margin
+    #     reference-location: document
+    #     number-sections: false
+    #     # Style
+    #     toc-title: "Contents"
+    #     tbl-cap-location: top
+    #     include-before-body: content/copyright.tex
+
 # Content
 book:
     # General settings
@@ -151,12 +152,14 @@ book:
                 # Oxygen toxicity
         - part: "Cardiovascular"
           chapters:
-            - part: "Equipment"
+            - part: "Monitoring"
               chapters:
                 - management/cvs/pressure_monitoring.qmd
                 - management/cvs/co_monitoring.qmd
+                - management/cvs/regional.qmd                
+            - part: "Equipment"
+              chapters:
                 - management/cvs/pacing.qmd
-                - management/cvs/regional.qmd
                 - management/cvs/iabp.qmd
             - part: "ECMO"
               chapters:
@@ -664,6 +667,7 @@ book:
           chapters:
             - disease/git/alf.qmd
             - disease/git/cld.qmd
+            - disease/git/aclf.qmd
             # Portal HTN
         - part: "Biliary"
           chapters:
@@ -772,8 +776,9 @@ book:
         #   chapters:
             # Meningitis
             # Encephalitis
-        # - part: "GIT"
-        #   chapters:
+        - part: "GIT"
+          chapters:
+            - disease/infective/sbp.qmd
             # Hepatitis
             # Colitis
             # Peritonitis

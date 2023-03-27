@@ -1,4 +1,4 @@
-# Cardiac Output Monitoring
+# Cardiac Output
 
 Clinical estimation of CO is generally unreliable unless *in extremis*. Various methods of monitoring cardiac output have therefore been developed. Methods include:
 
@@ -25,7 +25,7 @@ The principle of thermodilution is that a injection of cold fluid into the RA wi
 
 * Bolus\
 Injectate of known volume and pressure administered rapidly via a central vein.
-* Semi-continuous
+* Semi-continuous\
 The PAC has a thermal coil on the RV section, which periodically "boluses" heat in a random fashion, and then monitors for the ↑ in PA temperature.
 
 :::column-margin

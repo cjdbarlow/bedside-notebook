@@ -34,7 +34,7 @@
 \RequirePackage{graphicx}
 
 \definecolor{info}{HTML}{66bbff}
-\definecolor{danger}{HTML}{ff6666}
+\definecolor{crisis}{HTML}{ff6666}
 \definecolor{caution}{HTML}{f77d05}
 \definecolor{tick}{HTML}{26cb7c}
 \definecolor{ANZCA}{HTML}{93002e}
@@ -61,7 +61,7 @@
             \ifstrequal{#1}{CICM}{\def\myboxicon{}}{}
             \ifstrequal{#1}{dual}{\def\myboxicon{}}{}
             \ifcsempty{myboxicon}{}{
-                \node at ([xshift=1.5em]frame.west) {\includegraphics[width=1em]{png/#1.png}};
+                \node at ([xshift=1.5em]frame.west) {\includegraphics[width=1em]{themes/images/#1.png}};
             }
         \end{tcbclipframe}
     }
@@ -69,7 +69,7 @@
 }
 
 \newenvironment{info}{\begin{tcolorbox}[common={info}]}{\end{tcolorbox}}
-\newenvironment{danger}{\begin{tcolorbox}[common={danger}]}{\end{tcolorbox}}
+\newenvironment{crisis}{\begin{tcolorbox}[common={crisis}]}{\end{tcolorbox}}
 \newenvironment{caution}{\begin{tcolorbox}[common={caution}]}{\end{tcolorbox}}
 \newenvironment{tick}{\begin{tcolorbox}[common={tick}]}{\end{tcolorbox}}
 \newenvironment{ANZCA}{\begin{tcolorbox}[common={ANZCA}]}{\end{tcolorbox}}

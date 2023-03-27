@@ -6,11 +6,11 @@ function Div (elem)
         elem,
         pandoc.RawBlock('latex', '\\end{info}')
       }
-    elseif elem.classes[1] == "danger" then
+    elseif elem.classes[1] == "crisis" then
       return {
-        pandoc.RawBlock('latex', '\\begin{danger}'),
+        pandoc.RawBlock('latex', '\\begin{crisis}'),
         elem,
-        pandoc.RawBlock('latex', '\\end{danger}')
+        pandoc.RawBlock('latex', '\\end{crisis}')
       }
     elseif elem.classes[1] == "caution" then
       return {

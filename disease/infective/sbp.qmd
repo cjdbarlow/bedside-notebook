@@ -1,0 +1,98 @@
+# Spontaneous Bacterial Peritonitis
+
+Spontaneous infection of (usually cirrhosis-associated) ascites, which may present as:
+
+* Florid sepsis
+* Insidious decline
+
+## Epidemiology and Risk Factors
+
+Risk factors:
+
+* Liver dysfunction
+* Variceal bleeding
+* Previous SBP
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Manifestations
+
+History:
+
+* Abdominal pain
+* Confusion
+
+
+Examination:
+
+* Fever
+
+## Diagnostic Approach and DDx
+
+:::caution
+Mortality approaches 80% if an unnecessary laparotomy is performed, so it is vital to distinguish SBP from secondary peritonitis.
+:::
+
+
+Key differentials:
+
+* Secondary peritonitis
+	* Bowel perforation
+
+## Investigations
+
+Pathology:
+
+* Ascitic tap\
+Required for diagnosis.
+	* Usually **low** bacterial **concentrations** of a **single organism**
+	* 10-20mL should be placed into blood culture bottles to increase yield
+
+## Management
+
+
+**Resuscitation**:\
+
+**Specific therapy**:
+
+* Pharmacological
+	* Antibiotics
+		* Paracentesis should be repeated at 48 hours
+	* 20% Albumin
+		* ↓ AKI
+		* Substantial ↓ mortality
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+* Prophylactic antibiotics\
+May be appropriate in high risk patients; agents include:
+	* Rifaximin
+	* Norfloxacin
+	* Ciprofloxacin
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+Features associated with ↑ mortality include:
+
+* Resistant organism
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

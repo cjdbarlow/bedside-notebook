@@ -3,10 +3,17 @@
 This section covers the algorithmic management of cardiac arrest in an adult patient who is **up to 14 days** after cardiac surgery.
 
 :::column-margin
-These patients are also typically:
+Key **differences** from **standard ALS** include:
 
-* In the ICU  
-* Invasively monitored
+* Environment\
+Patients often:
+	* In the ICU
+	* Invasively monitored
+	* Have epicardial pacing wires
+* Therapy
+	* If VF/VT: Reasonable to delay CPR for 1 minute to facilitate cardioversion
+	* If asystole: pace DOO 100 at maximal amplitude
+	* If PEA: Turn off pacing (exclude VF)
 :::
 
 ## Protocol
@@ -27,7 +34,7 @@ Arrest is consistent with:
 		* DC shock  
 		Up to 3 attempts.
 		* Start BLS  
-		CPR *may* be delayed up to 1 minute to facilitate cardioversion.
+		CPR *may* be delayed up to 1 minute to facilitate cardioversion, with the goal of ↓ trauma from chest compressions.
 		* Amiodarone  
 		300mg. Further loading of 150mg followed by infusion may be given for refractory VT/VF.
 		* Prepare for emergency resternotomy

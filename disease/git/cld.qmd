@@ -1,5 +1,4 @@
-# Chronic Liver Disease/Cirrhosis
-
+# Chronic Liver Disease
 
 End result of a process of progressive destruction and regeneration of liver parenchyma, leading to fibrosis and cirrhosis. Cirrhosis is:
 
@@ -9,6 +8,21 @@ End result of a process of progressive destruction and regeneration of liver par
 ## Epidemiology and Risk Factors
 
 ## Pathophysiology
+
+Key pathophysiological processes relate impairment of key liver functions:
+
+* Metabolic
+	* Clearance of vasoactive mediators\
+	Typically altered baseline haemodynamics:
+		* ↑ CO
+		* ↓ SVR
+			* ↓ Vasopressor response
+* Synthetic
+	* Coagulopathy\
+	↓ Synthesis of both procoagulant (predominantly II, V, VII, X) and anticoagulant (protein C, protein S, antithrombin III) factors leads to:
+		* Highly deranged clotting studies
+		* Variable *in vivo* clotting activity\
+		Often normal behaviour in stable patients, but can easily become both prothrombotic or coagulopathic.
 
 ### Aetiology
 
@@ -25,7 +39,11 @@ Rarer causes include:
 * Cholestasis
 	* Primary biliary cirrhosis
 	* Sclerosing cholangitis
-* Venous obstruction
+* Vascular
+	* Venous obstruction
+	* Budd-Chiari syndrome
+* Infiltrative
+	* Amyloidosis
 * Drugs
 * Toxins
 * Metabolic diseases
@@ -48,36 +66,26 @@ Classified into:
 		* Secondary hyperaldosteronism
 	* Renal
 		* Hepatorenal syndrome  
-		End-stage manifestation of worsening renal perfusion that occurs in portal hypertension.
-			* Related to the progression of portal hypertension, rather than the progression of the hepatic lesion
-			* Note that the kidneys are functional and intact  
-			Renal function will return if portal hypertension is resolved (i.e. liver transplantation, or transplantation of the kidneys to a new host).
-			* Occurs due to fall in renal perfusion pressure due to systemic vasodilation
-			* Poor prognosis
 	* GIT
 		* Portal hypertension  
-		Portal pressure >10mmHg. Leads to:
+		Portal pressure **>10mmHg**. Leads to:
 			* Collateral venous circulation
 			* Ascites
 			* Splenomegaly  
 			Thrombocytopaenia due to sequestration.
 			* Oesophageal varices
 		* Delayed gastric emptying
-	* Haeme
+	* Haematological
 		* Anaemia  
 		Multiple potential causes:
 			* GIT bleeding
 			* Hypersplenic haemolysis
 			* Malnutrition
 			* Anaemia of chronic disease
-		* Coagulopathy  
-		Reduced synthesis of both pro- and anti-coagulant factors.
-
+		* Coagulopathy
 
 
 ### MELD Score
-
-
 
 Uses:
 
@@ -136,6 +144,8 @@ End-stage liver disease associated with high perioperative morbidity and mortali
 
 ## Complications
 
+* B
+	* Ascites
 * C
 	* Hepatopulmonary syndrome
 * D
@@ -143,14 +153,77 @@ End-stage liver disease associated with high perioperative morbidity and mortali
 * F
 	* Hepatorenal syndrome
 * G
-	* Variceal bleeding
+	* Variceal bleeding\
+	May be precipitated by infection due to an ↑ in sinusoidal and portal venous pressure. Therefore, patients with **variceal bleeds should receive antibiotics**.
 	* Ascites
-	* Spontaneous bacterial peritonitis\
-	Usually single organism.
+	* Spontaneous bacterial peritonitis
 	* Hepatocellular carcinoma
 	* Decompensation
 * I
-	* Sepsis
+	* Sepsis\
+	Infections are:
+		* More common in patients with cirrhosis
+			* Physical debilitation
+			* Deconditioning
+			* Malnourishment
+			* ↓ Phagocytic function
+		* Associated with higher mortality and morbidity\
+		Up to 70% mortality. Higher incidence of sepsis associated:
+			* AKI
+			* Encephalopathy
+			* Coagulopathy
+		* The highest cause of death in cirrhotic patients
+
+:::column-margin
+Causative organisms (in order of likelihood) include:
+
+* *E. Coli*
+* *S. Aureus*
+* *E. Faecalis*
+* *S. Pneumoniae*
+* *P. aeruginosa*
+* *S. Epidermidis*
+:::
+
+### Hepatorenal Syndrome
+
+Hepatorenal syndrome is an end-stage manifestation of worsening renal perfusion that occurs in portal hypertension. Hepatorenal syndrome is:
+
+:::column-margin
+Diagnosis of hepatorenal syndrome essentially requires:
+
+* Cirrhosis with ascites
+* Renal impairment\
+Without other cause, i.e. despite:
+	* Diuretic withdrawal
+	* Volume resuscitation
+	* Nephrotoxin cessation
+	* Absence of shock
+	* Absence of parenchymal disease\
+	No haematuria, proteinuria, normal sonographic appearance.
+:::
+
+* Divided into two subtypes
+	* Type 1\
+	Rapidly progressive.
+	* Type 2\
+	Progressive deterioration.
+* Related to the progression of portal hypertension, rather than the progression of the hepatic lesion
+* Occurs due to fall in renal perfusion pressure due to systemic vasodilation
+	* Note that the kidneys are usually functional and intact\
+	Renal function will return if portal hypertension is resolved (i.e. liver transplantation, or transplantation of the kidneys to a new host).
+* Indicative of poor prognosis
+
+Management:
+
+* C
+	* ↑ Renal perfusion
+		* ↑ MAP
+			* Noradrenaline
+			* 20% Albumin
+		* Terlipressin
+		* Ascitic drainage\
+		Relieve abdominal compartment syndrome.
 
 
 ## Prognosis

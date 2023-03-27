@@ -110,7 +110,7 @@ Overall, rhythm control is probably superior if it can be consistently achieved 
 
 **Specific Therapy**:
 
-* Pharmacological\Physical
+* Pharmacological
 	* Haemodynamic control\
 	One of:
 		* Rhythm control
@@ -128,7 +128,7 @@ Overall, rhythm control is probably superior if it can be consistently achieved 
 
 ### Rhythm Control
 
-:::danger
+:::caution
 Urgent electrical cardioversion is recommended for haemodynamically unstable AF with RVR - just as with other unstable tachyarrhythmias.
 :::
 

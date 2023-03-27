@@ -255,7 +255,7 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0
 
 // Info boxes
 .info,
-.danger,
+.crisis,
 .caution,
 .tick,
 .gas,
@@ -273,7 +273,7 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0
 }
 
 div.info p,
-div.danger p,
+div.crisis p,
 div.caution p,
 div.tick p,
 div.gas p,
@@ -285,7 +285,7 @@ div.dual p {
 }
 
 div.info > ul,
-div.danger > ul,
+div.crisis > ul,
 div.caution > ul,
 div.tick > ul,
 div.gas > ul,
@@ -296,7 +296,7 @@ div.dual > ul {
 }
 
 div.info ul,
-div.danger ul,
+div.crisis ul,
 div.caution ul,
 div.tick ul,
 div.gas ul,
@@ -307,7 +307,7 @@ div.dual ul {
 }
 
 div.info > :first-child,
-div.danger > :first-child,
+div.crisis > :first-child,
 div.caution > :first-child,
 div.tick > :first-child,
 div.gas > :first-child,
@@ -318,7 +318,7 @@ div.dual > :first-child {
 }
 
 div.info > :last-child,
-div.danger > :last-child,
+div.crisis > :last-child,
 div.caution > :last-child,
 div.tick > :last-child,
 div.gas > :last-child,
@@ -338,8 +338,8 @@ div.dual > :last-child {
     background-color: rgba(102,187,255,.1)
 }
 
-.danger {
-    background-image: url("themes/images/danger.svg");
+.crisis {
+    background-image: url("themes/images/crisis.svg");
     background-repeat: no-repeat;
     background-size: 1.2em;
     background-position: 1em 50%;

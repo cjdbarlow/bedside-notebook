@@ -79,7 +79,7 @@ Configuration of temporary epicardial and transvenous pacing systems:
 
 ### Failure to Pace
 
-:::danger
+:::crisis
 This can be an **emergency** in the pacing dependent patient.
 :::
 

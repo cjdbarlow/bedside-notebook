@@ -32,9 +32,9 @@ Further subclassified by:
 			* Dynamic ↑ in biomarkers
 	* Cause:
 		* **Type 1**\
-		Secondary to coronary event.
+		Secondary to coronary occlusion (thrombosis, spasm).
 		* **Type 2**\
-		Ischaemic imbalance; i.e. mismatch in myocardial oxygen supply and demand.Causes include:
+		Ischaemic imbalance; i.e. mismatch in myocardial oxygen supply and demand. Causes include:
 			* Tachyarrhythmias
 			* Sepsis
 			* Coronary spasm
@@ -60,7 +60,7 @@ Secondary to CABG.
 ACS are a major cause of mortality in the industrialised world:
 
 :::column-margin
-Note that the definition of MI and therefore the *actual disease treated* has evolved over time. Historically, the diagnostic features were Q-waves, indicating myocardium with a completed infarct. In the reperfusion era, it was noted that patients with STE were the ones who benefited from thrombolysis or PCI - STEMI as an entity exists to delineate these two groups.\
+Note that the definition of MI and therefore the *actual disease* treated has evolved over time. Historically, the diagnostic features were Q-waves, indicating myocardium with a completed infarct. In the reperfusion era, it was noted that patients with STE were the ones who benefited from thrombolysis or PCI - STEMI as an entity exists to delineate these two groups.\
 \
 In more recent years with the introduction of high-sensitivity troponin, more patients with UA are now been classified with a NSTEMI.
 :::
@@ -121,10 +121,8 @@ Which vessel and how proximal the occlusion is determines the region and extent 
 
 ## Clinical Manifestations
 
-:::info
-ACS features are more specific for a Type 1 rather than Type 2 MI, which are often free of ischaemic symptoms.\
-\
-Clinical context is used to differentiate the two.
+:::caution
+ACS features are more specific for a Type 1 rather than Type 2 MI, which are often free of ischaemic symptoms.
 :::
 
 "Classical" presentation:
@@ -300,7 +298,7 @@ In STEMI and STEMI-equivalents.
 		* Long half-lives result in ↑ bleeding if CABG is required
 		* Duration depends on type of stenting
 	* **Anticoagulation**\
-	Stabilises clot and ↓ early infarction, but leads to rebound ↑ infarction
+	Stabilises clot and ↓ early infarction, but leads to rebound ↑ infarction.
 		* Fondaparinux 2.5mg daily\
 		Preferred option, if available.
 		* Enoxaparin 1mg/kg BD
@@ -352,7 +350,7 @@ In STEMI and STEMI-equivalents.
 
 ### Reperfusion
 
-:::danger
+:::caution
 Thrombolysis should be performed for STEMI if PCI cannot occur in **<120 minutes**.
 :::
 
@@ -377,7 +375,7 @@ Reperfusion ↓ infarct size and ↑ LV function, ↓ stroke rate, and ↓ morta
 			* Peptic ulcer disease
 		* Pregnancy
 * **High risk features**\
-Indication for PCI.
+Indication for PCI in absence of STEMI or STEMI-equivalent include:
 	* Ventricular arrhythmias
 	* Cardiogenic shock
 	* Pain refractive for medical therapy

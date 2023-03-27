@@ -1,11 +1,10 @@
 # Shock
 
-Acute circulatory failure associated with inadequate cellular utilisation of oxygen. Shock may be classified by aetiology of circulatory disturbance:
+Life-threatening state of cellular hypoxia due to global insufficient delivery or utilisation of oxygen. Shock may be classified by aetiology of circulatory disturbance:
 
 :::column-margin
 This classification is simplistic as many disease processes will cause multiple mechanisms; e.g. sepsis causes both distributive and hypovolaemic shock.
 :::
-
 
 * Hypovolaemic\
 Loss of circulating volume, reducing preload and stroke volume. May be:
@@ -172,6 +171,10 @@ Investigations for adequacy of systemic perfusion include:
 
 
 ## Management
+
+:::caution
+Rapid recognition and treatment are required to prevent irreversible organ dysfunction.
+:::
 
 **Resuscitation**:\
 
