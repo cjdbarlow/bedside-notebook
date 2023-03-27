@@ -1841,6 +1841,83 @@
     "text": "References\n\nKidney Disease: Improving Global Outcomes (KDIGO) Acute Kidney Injury Work Group. KDIGO Clinical Practice Guideline for Acute Kidney Injury. Kidney inter., Suppl. 2012; 2: 1–138."
   },
   {
+    "objectID": "management/git/acs.html#epidemiology-and-risk-factors",
+    "href": "management/git/acs.html#epidemiology-and-risk-factors",
+    "title": "Abdominal Compartment Syndrome",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors"
+  },
+  {
+    "objectID": "management/git/acs.html#pathophysiology",
+    "href": "management/git/acs.html#pathophysiology",
+    "title": "Abdominal Compartment Syndrome",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\n↑ Volume of abdominal contents leads to an ↑ IAP, and is usually the result of gut oedema. Precipitants include:\n\nTrauma\n\nLaparotomy\n\nCapillary leak\n\nSepsis\n\nFluid administration"
+  },
+  {
+    "objectID": "management/git/acs.html#clinical-manifestations",
+    "href": "management/git/acs.html#clinical-manifestations",
+    "title": "Abdominal Compartment Syndrome",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations"
+  },
+  {
+    "objectID": "management/git/acs.html#diagnostic-approach-and-ddx",
+    "href": "management/git/acs.html#diagnostic-approach-and-ddx",
+    "title": "Abdominal Compartment Syndrome",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
+  },
+  {
+    "objectID": "management/git/acs.html#investigations",
+    "href": "management/git/acs.html#investigations",
+    "title": "Abdominal Compartment Syndrome",
+    "section": "Investigations",
+    "text": "Investigations"
+  },
+  {
+    "objectID": "management/git/acs.html#management",
+    "href": "management/git/acs.html#management",
+    "title": "Abdominal Compartment Syndrome",
+    "section": "Management",
+    "text": "Management\nResuscitation:\n\nABC approach. Comment on team coordination and clinical priorities. Specific therapy:\n\nPharmacological\nProcedural\n\nDecompressive laparotomy with temporary fascial closure\n\nPhysical\n\nSupportive care:\nDisposition:\n\nMarginal and Ineffective Therapies"
+  },
+  {
+    "objectID": "management/git/acs.html#anaesthetic-considerations",
+    "href": "management/git/acs.html#anaesthetic-considerations",
+    "title": "Abdominal Compartment Syndrome",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "management/git/acs.html#complications",
+    "href": "management/git/acs.html#complications",
+    "title": "Abdominal Compartment Syndrome",
+    "section": "Complications",
+    "text": "Complications"
+  },
+  {
+    "objectID": "management/git/acs.html#prognosis",
+    "href": "management/git/acs.html#prognosis",
+    "title": "Abdominal Compartment Syndrome",
+    "section": "Prognosis",
+    "text": "Prognosis"
+  },
+  {
+    "objectID": "management/git/acs.html#key-studies",
+    "href": "management/git/acs.html#key-studies",
+    "title": "Abdominal Compartment Syndrome",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "management/git/acs.html#references",
+    "href": "management/git/acs.html#references",
+    "title": "Abdominal Compartment Syndrome",
+    "section": "References",
+    "text": "References"
+  },
+  {
     "objectID": "management/haeme/blood.html#blood-typing",
     "href": "management/haeme/blood.html#blood-typing",
     "title": "Transfusion and Blood Products",
@@ -7739,7 +7816,7 @@
     "href": "anaesthesia/vascular/elective_aaa.html#postoperative",
     "title": "Elective Open Abdominal Aortic Aneurysm Repair",
     "section": "Postoperative",
-    "text": "Postoperative\nICU or HDU:\n\nOne or the other is required\n\nHDU acceptable if the patient can be extubated"
+    "text": "Postoperative\nICU or HDU:\n\nOne or the other is required\n\nHDU acceptable if the patient can be extubated\n\nPost-operative complications:\n\nC\n\nMajor bleeding\nAbdominal compartment syndrome\nIncidence relates to blood loss volume.\nMACE\n~7%.\n\nD\n\nStroke\n\nF\n\nAKI\n\nG\n\nMesenteric ischaemia"
   },
   {
     "objectID": "anaesthesia/vascular/elective_aaa.html#references",
@@ -7788,7 +7865,7 @@
     "href": "anaesthesia/vascular/emerg_aaa.html#postoperative",
     "title": "Ruptured Abdominal Aortic Aneurysm",
     "section": "Postoperative",
-    "text": "Postoperative"
+    "text": "Postoperative\nComplications:\n\nC\n\nMajor bleeding\nAbdominal compartment syndrome\n~15% in emergent cases; incidence relates to blood loss volume.\nMACE\n~7%.\n\nD\n\nStroke\n\nF\n\nAKI\n\nG\n\nMesenteric ischaemia"
   },
   {
     "objectID": "anaesthesia/vascular/emerg_aaa.html#references",
@@ -7837,7 +7914,7 @@
     "href": "anaesthesia/vascular/endovascular.html#postoperative",
     "title": "Endovascular Abdominal Aortic Aneurysm Repair (EVAR)",
     "section": "Postoperative",
-    "text": "Postoperative\nComplications include:\n\nSpinal cord ischaemia\nRenal failure\nPost-implantation syndrome\nEarly, self-limiting, postoperative occurrence of:\n\nFever\nLeukocytosis\nRaised inflammatory markers\n\nEndograft collapse\nCollapse of the endograft:\n\nUsually occurs within 3 months\nMay present:\n\nAsymptomatically\nAbdominal pain\nMultiorgan failure\nReduced femoral pulses\n\n\nEndoleaks\nLeakage of blood into aneurysm sac around graft.\n\nOccurs in ~30% of patients\nClassified into:\n\nType I\nIncomplete seal. Requires repair.\nType II\nLeakage of blood from collateral vessels. Requires repair.\nType III\nInadequate sealing of overlapping graft joints. Requires repair.\nType IV\nDirect leakage through a porous graft. Historical curiosity of old grafts."
+    "text": "Postoperative\nComplications include:\n\nC\n\nPost-implantation syndrome\nEarly, self-limiting, postoperative occurrence of:\n\nFever\nLeukocytosis\nRaised inflammatory markers\n\nEndograft collapse\nCollapse of the endograft:\n\nUsually occurs within 3 months\nMay present:\n\nAsymptomatically\nAbdominal pain\nMultiorgan failure\nReduced femoral pulses\n\n\nEndoleaks\nLeakage of blood into aneurysm sac around graft.\n\nOccurs in ~30% of patients\nClassified into:\n\nType I\nIncomplete seal. Requires repair.\nType II\nLeakage of blood from collateral vessels. Requires repair.\nType III\nInadequate sealing of overlapping graft joints. Requires repair.\nType IV\nDirect leakage through a porous graft. Historical curiosity of old grafts.\n\n\nMajor bleeding\nAbdominal compartment syndrome\n~15% of cases, more common if blood loss >5L.\nMACE\n\nD\n\nSpinal cord ischaemia\nRelated to spinal perforator injury. Management aimed at ↑ spinal perfusion pressure:\n\nCSF drain to 10mmHg\n↑ MAP to 100mmHg or whatever resolves neurology\n\n\nF\n\nAKI\n\nG\n\nMesenteric ischaemia"
   },
   {
     "objectID": "anaesthesia/vascular/endovascular.html#references",
@@ -9468,7 +9545,7 @@
     "href": "disease/cvs/dissection.html#epidemiology-and-risk-factors",
     "title": "Aortic Dissection",
     "section": "Epidemiology and Risk Factors",
-    "text": "Epidemiology and Risk Factors\nKey risk factors:\n\nCVS disease\n\nHypertension\nHyperlipidaemia\nSmoking\n\nCocaine use\nPregnancy\nGenerally 3rd trimester or post-partum."
+    "text": "Epidemiology and Risk Factors\nKey risk factors:\n\nAge\nCVS disease\n\nHypertension\nPoorly controlled or situational.\nHyperlipidaemia\nSmoking\n\nCocaine use\nGenetics\nPregnancy\nGenerally 3rd trimester or post-partum."
   },
   {
     "objectID": "disease/cvs/dissection.html#pathophysiology",
@@ -9503,7 +9580,7 @@
     "href": "disease/cvs/dissection.html#management",
     "title": "Aortic Dissection",
     "section": "Management",
-    "text": "Management\nFollows an ABC approach:\n\nDestination\n\nICU\nOR\n\nA\nB\nC\n\nBilateral invasive blood pressure monitoring\nLarge bore IV access\nAggressive HR and BP control\nUsing β-blockers and vasodilators.\n\nSBP 100-120mmHg\nHR ⩽60bpm\n\n\n\n\nAnaesthetic Considerations\n\n\nMarginal and Ineffective Therapies"
+    "text": "Management\nResuscitation:\n\n\nC\n\nHaemodynamic control\nVital to reduce progression of dissection, though urgency is ↑ in type A. Targets:\n\nSBP 100-120mmHg\n\nLabetalol\nMagnesium\nGTN\n\nHR ⩽60bpm\n\nLabetalol\nMetoprolol\n\n\nArterial access to guide resuscitation\n\nD\n\nAnalgesia\nFor control of haemodynamics.\n\nFentanyl\n\n\n\nSpecific therapy:\n\nPharmacological\nProcedural\nPhysical\n\nSupportive care:\nDisposition:\n\nOR\nUrgent theatre for Type A dissections.\nICU/\nOften required for BP control.\n\n\nAnaesthetic Considerations\n\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/cvs/dissection.html#complications",
@@ -9602,6 +9679,83 @@
     "title": "Hypertension",
     "section": "References",
     "text": "References\n\nVaron J, Marik PE. Perioperative hypertension management. Vasc Health Risk Manag. 2008 Jun;4(3):615–27."
+  },
+  {
+    "objectID": "disease/cvs/aaa.html#epidemiology-and-risk-factors",
+    "href": "disease/cvs/aaa.html#epidemiology-and-risk-factors",
+    "title": "Abdominal Aortic Aneurysm",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors\nRisk factors:\n\nAge\nMale"
+  },
+  {
+    "objectID": "disease/cvs/aaa.html#pathophysiology",
+    "href": "disease/cvs/aaa.html#pathophysiology",
+    "title": "Abdominal Aortic Aneurysm",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\n\nAetiology"
+  },
+  {
+    "objectID": "disease/cvs/aaa.html#clinical-manifestations",
+    "href": "disease/cvs/aaa.html#clinical-manifestations",
+    "title": "Abdominal Aortic Aneurysm",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations"
+  },
+  {
+    "objectID": "disease/cvs/aaa.html#diagnostic-approach-and-ddx",
+    "href": "disease/cvs/aaa.html#diagnostic-approach-and-ddx",
+    "title": "Abdominal Aortic Aneurysm",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
+  },
+  {
+    "objectID": "disease/cvs/aaa.html#investigations",
+    "href": "disease/cvs/aaa.html#investigations",
+    "title": "Abdominal Aortic Aneurysm",
+    "section": "Investigations",
+    "text": "Investigations\nRadiology:\n\nCT\nUltrasound\nUsed for high-risk population (men >65) screening in some nations."
+  },
+  {
+    "objectID": "disease/cvs/aaa.html#management",
+    "href": "disease/cvs/aaa.html#management",
+    "title": "Abdominal Aortic Aneurysm",
+    "section": "Management",
+    "text": "Management\nResuscitation:\n\nSpecific therapy:\n\nPharmacological\nProcedural\n\nEVAR\n\n↓ Perioperative mortality (~1%) compared with open repair\n\nOpen repair\n\n~3% mortality\n\n\nPhysical\n\nSupportive care:\nDisposition:\n\nMarginal and Ineffective Therapies"
+  },
+  {
+    "objectID": "disease/cvs/aaa.html#anaesthetic-considerations",
+    "href": "disease/cvs/aaa.html#anaesthetic-considerations",
+    "title": "Abdominal Aortic Aneurysm",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "disease/cvs/aaa.html#complications",
+    "href": "disease/cvs/aaa.html#complications",
+    "title": "Abdominal Aortic Aneurysm",
+    "section": "Complications",
+    "text": "Complications\n\nC\n\nAneurysm rupture\n\nSudden onset of:\n\nPain\nBack, abdominal.\nTenderness\nHypovolaemic shock\n\nHighly fatal\n\n22% die prior to hospital\nOverall ~60% mortality\n\nCT appropriate if haemodynamically stable\nEVAR may be appropriate"
+  },
+  {
+    "objectID": "disease/cvs/aaa.html#prognosis",
+    "href": "disease/cvs/aaa.html#prognosis",
+    "title": "Abdominal Aortic Aneurysm",
+    "section": "Prognosis",
+    "text": "Prognosis"
+  },
+  {
+    "objectID": "disease/cvs/aaa.html#key-studies",
+    "href": "disease/cvs/aaa.html#key-studies",
+    "title": "Abdominal Aortic Aneurysm",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/cvs/aaa.html#references",
+    "href": "disease/cvs/aaa.html#references",
+    "title": "Abdominal Aortic Aneurysm",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
   },
   {
     "objectID": "disease/cvs/phtn.html#epidemiology-and-risk-factors",
@@ -12205,7 +12359,7 @@
     "href": "disease/git/alf.html#management",
     "title": "Acute Liver Failure",
     "section": "Management",
-    "text": "Management\n\nGoals of therapy are:\n\nIdentify cause\nSupportive care to limit hepatic damage\nEarly identification of patients for transplant\n\nSignificant improvement in outcomes with emergency liver transplantation\nEarly escalation to critical care and early referral to a specialist centre is essential\n\n\n\nResuscitation:\n\n\nA\nConsider securing if:\n\nHigh grade (III/IV) encephalopathy\nNeed for transfer\n\nB\n\nCO2 control for ICP management\n\nC\n\nClassically distributive shock picture\n\nNoradrenaline\n\n\nD\n\n↑ ICP\n\n\nControl with standard ICP management\n\n\n\nSpecific therapy:\n\nProcedural\n\nLiver transplantation\n\nPhysical\n\nExtra-corporeal hepatic support\nArtificial, extra-corporeal liver replacement therapy. Broadly, ↓ encephalopathy and ↑ haemodynamic function without mortality benefit. May be:\n\nBiological\nUsing human/porcine cells.\nMechanical\nMolecular filtration.\n\n\n\nUnderlying cause:\n\n\nManagement of paracetamol overdose is covered under Chapter 336.\n\nParacetamol overdose\n\nN-acetylcysteine (NAC)\n\n\nCornerstone of therapy as early administration results in significant reduction in mortality (to <1%), though even late administration may improve outcome\nDosing based on Prescott nomogram\n\n\nViral hepatitis\n\nAntivirals\nHepatitis B\n\nLamivudine\nBenefit if given early.\n\n\nAlcoholic hepatitis\nAutoimmune hepatitis\n\nSte\n\nMushroom poisoning\n\nForced diuresis\n↑ Renal clearance of toxin. Avoid hypovolaemia.\n\nWilson’s disease\n\nD-Penicillamine\nChelates copper. Withdrawal of chronic treatment may precipitate failure.\n\nHepatic vein thrombosis\n\nThrombolysis\nClot retrieval\nTIPS\n\n\nSupportive care:\n\n\nInvasive intracranial pressure monitoring associated with ~10% intracranial haemorrhage rate.\n\nB\n\nLung protective ventilation\nARDS risk.\nDrain pleural effusions\n\nD\n\n↑ ICP\n\n\nGeneral measures\nIf grade 3/4 encephalopathy, recommend:\n\nIntubation\nSedation\nAvoid stimulation\nHead-up positioning\n\nConsider invasive ICP management if all of:\n\n\nGrade 3-4 encephalopathy\nHyperacute liver failure\nAmmonia >150mmolL\nYoung\n\n\n\nE\n\n↓ BSL\nUse high-concentration dextrose to avoid cerebral oedema/↓ Na+.\n\nF\n\n↓ Phosphate\nReplenish.\nRRT\n\n\nAvoid citrate!\nCRRT preferential due to haemodynamics\nIn addition to standard indications, consider for:\n\nHyperammonaemia\nAim <100μmol/: to ↓ cerebral oedema.\nHypothermia\n\n\n\nG\n\nEarly enteral feeding\nMay have ↑ metabolic requirements. No change in protein requirement.\nLactulose\nControversial. May ↓ hepatic encephalopathy but lead to gaseous intestinal distension.\nPPI\nDrain ascites\nFor haemodynamic benefit.\n\nH\n\nCoagulopathy\nTreat if bleeding or prior to procedures. Patients may be prothrombotic, anti-thrombotic, or fibrinolytic, and the assays themselves (both coagulation profiles and point-of-care testing) may not correlate with the observed clinical effect.\n\nVitamin K\nVery reasonable, probably ineffective in the majority of patients.\n\n\n\nDisposition:\n\nLiver transplant centre\n\n\nMarginal and Ineffective Therapies"
+    "text": "Management\n\nGoals of therapy are:\n\nIdentify cause\nSupportive care to limit hepatic damage\nEarly identification of patients for transplant\n\nSignificant improvement in outcomes with emergency liver transplantation\nEarly escalation to critical care and early referral to a specialist centre is essential\n\n\n\nResuscitation:\n\n\nA\nConsider securing if:\n\nHigh grade (III/IV) encephalopathy\nNeed for transfer\n\nB\n\nCO2 control for ICP management\n\nC\n\nClassically distributive shock picture\n\nNoradrenaline\n\n\nD\n\n↑ ICP\n\n\nControl with standard ICP management\n\n\n\nSpecific therapy:\n\nProcedural\n\nLiver transplantation\n\nPhysical\n\nExtra-corporeal hepatic support\nArtificial, extra-corporeal liver replacement therapy. Broadly, ↓ encephalopathy and ↑ haemodynamic function without mortality benefit. May be:\n\nBiological\nUsing human/porcine cells.\nMechanical\nMolecular filtration.\n\n\n\nUnderlying cause:\n\n\nManagement of paracetamol overdose is covered under Chapter 340.\n\nParacetamol overdose\n\nN-acetylcysteine (NAC)\n\n\nCornerstone of therapy as early administration results in significant reduction in mortality (to <1%), though even late administration may improve outcome\nDosing based on Prescott nomogram\n\n\nViral hepatitis\n\nAntivirals\nHepatitis B\n\nLamivudine\nBenefit if given early.\n\n\nAlcoholic hepatitis\nAutoimmune hepatitis\n\nSte\n\nMushroom poisoning\n\nForced diuresis\n↑ Renal clearance of toxin. Avoid hypovolaemia.\n\nWilson’s disease\n\nD-Penicillamine\nChelates copper. Withdrawal of chronic treatment may precipitate failure.\n\nHepatic vein thrombosis\n\nThrombolysis\nClot retrieval\nTIPS\n\n\nSupportive care:\n\n\nInvasive intracranial pressure monitoring associated with ~10% intracranial haemorrhage rate.\n\nB\n\nLung protective ventilation\nARDS risk.\nDrain pleural effusions\n\nD\n\n↑ ICP\n\n\nGeneral measures\nIf grade 3/4 encephalopathy, recommend:\n\nIntubation\nSedation\nAvoid stimulation\nHead-up positioning\n\nConsider invasive ICP management if all of:\n\n\nGrade 3-4 encephalopathy\nHyperacute liver failure\nAmmonia >150mmolL\nYoung\n\n\n\nE\n\n↓ BSL\nUse high-concentration dextrose to avoid cerebral oedema/↓ Na+.\n\nF\n\n↓ Phosphate\nReplenish.\nRRT\n\n\nAvoid citrate!\nCRRT preferential due to haemodynamics\nIn addition to standard indications, consider for:\n\nHyperammonaemia\nAim <100μmol/: to ↓ cerebral oedema.\nHypothermia\n\n\n\nG\n\nEarly enteral feeding\nMay have ↑ metabolic requirements. No change in protein requirement.\nLactulose\nControversial. May ↓ hepatic encephalopathy but lead to gaseous intestinal distension.\nPPI\nDrain ascites\nFor haemodynamic benefit.\n\nH\n\nCoagulopathy\nTreat if bleeding or prior to procedures. Patients may be prothrombotic, anti-thrombotic, or fibrinolytic, and the assays themselves (both coagulation profiles and point-of-care testing) may not correlate with the observed clinical effect.\n\nVitamin K\nVery reasonable, probably ineffective in the majority of patients.\n\n\n\nDisposition:\n\nLiver transplant centre\n\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/git/alf.html#anaesthetic-considerations",
@@ -12296,7 +12450,7 @@
     "href": "disease/git/cld.html#prognosis",
     "title": "Chronic Liver Disease",
     "section": "Prognosis",
-    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 305.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
+    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 307.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
   },
   {
     "objectID": "disease/git/cld.html#key-studies",
@@ -12467,6 +12621,83 @@
     "text": "References"
   },
   {
+    "objectID": "disease/git/acalculous_cholecystitis.html#epidemiology-and-risk-factors",
+    "href": "disease/git/acalculous_cholecystitis.html#epidemiology-and-risk-factors",
+    "title": "Acalculous Cholecystitis",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors"
+  },
+  {
+    "objectID": "disease/git/acalculous_cholecystitis.html#pathophysiology",
+    "href": "disease/git/acalculous_cholecystitis.html#pathophysiology",
+    "title": "Acalculous Cholecystitis",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\n\nAetiology"
+  },
+  {
+    "objectID": "disease/git/acalculous_cholecystitis.html#clinical-manifestations",
+    "href": "disease/git/acalculous_cholecystitis.html#clinical-manifestations",
+    "title": "Acalculous Cholecystitis",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations"
+  },
+  {
+    "objectID": "disease/git/acalculous_cholecystitis.html#diagnostic-approach-and-ddx",
+    "href": "disease/git/acalculous_cholecystitis.html#diagnostic-approach-and-ddx",
+    "title": "Acalculous Cholecystitis",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
+  },
+  {
+    "objectID": "disease/git/acalculous_cholecystitis.html#investigations",
+    "href": "disease/git/acalculous_cholecystitis.html#investigations",
+    "title": "Acalculous Cholecystitis",
+    "section": "Investigations",
+    "text": "Investigations"
+  },
+  {
+    "objectID": "disease/git/acalculous_cholecystitis.html#management",
+    "href": "disease/git/acalculous_cholecystitis.html#management",
+    "title": "Acalculous Cholecystitis",
+    "section": "Management",
+    "text": "Management\nResuscitation:\n\nABC approach. Comment on team coordination and clinical priorities. Specific therapy:\n\nPharmacological\nProcedural\nPhysical\n\nSupportive care:\nDisposition:\n\nMarginal and Ineffective Therapies"
+  },
+  {
+    "objectID": "disease/git/acalculous_cholecystitis.html#anaesthetic-considerations",
+    "href": "disease/git/acalculous_cholecystitis.html#anaesthetic-considerations",
+    "title": "Acalculous Cholecystitis",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "disease/git/acalculous_cholecystitis.html#complications",
+    "href": "disease/git/acalculous_cholecystitis.html#complications",
+    "title": "Acalculous Cholecystitis",
+    "section": "Complications",
+    "text": "Complications"
+  },
+  {
+    "objectID": "disease/git/acalculous_cholecystitis.html#prognosis",
+    "href": "disease/git/acalculous_cholecystitis.html#prognosis",
+    "title": "Acalculous Cholecystitis",
+    "section": "Prognosis",
+    "text": "Prognosis"
+  },
+  {
+    "objectID": "disease/git/acalculous_cholecystitis.html#key-studies",
+    "href": "disease/git/acalculous_cholecystitis.html#key-studies",
+    "title": "Acalculous Cholecystitis",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/git/acalculous_cholecystitis.html#references",
+    "href": "disease/git/acalculous_cholecystitis.html#references",
+    "title": "Acalculous Cholecystitis",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
+  },
+  {
     "objectID": "disease/git/gib.html#epidemiology-and-risk-factors",
     "href": "disease/git/gib.html#epidemiology-and-risk-factors",
     "title": "Gastrointestinal Bleeding",
@@ -12506,7 +12737,7 @@
     "href": "disease/git/gib.html#management",
     "title": "Gastrointestinal Bleeding",
     "section": "Management",
-    "text": "Management\n\nIf intubation is required, ensure adequate volume resuscitation prior to induction due to the risk of profound haemodynamic instability.\n\n\n\nAnaesthetic considerations and management is covered under Chapter 178.\nResuscitation:\n\n\n\nNote that overresuscitation may lead to increased portal venous pressure and should be avoided.\n\nA\n\nDefinitive airway if airway compromised\nVery high aspiration risk.\n\nC\n\nWide-bore IV\nVolume resucitation\n\nMTP\n\n\nH\n\nUrgent crossmatch\n\n\nSpecific therapy:\n\n\nThe majority of patients with UGIB will stop bleeding spontaneously and not require procedural intervention. The overwhelming majority of patients with LGIB will stop bleeding prior to any intervention.\n\nPharmacological\n\nCease anticoagulation\nCease NSAID\nAcid suppression\nInadequate without endoscopic control in severe or persistent bleeding. No evidence to support use pre-endoscopy, but decreased rebleeding and repeated endoscopy when used post-bleeding.\n\nPPI\nH2-antagonist\n\nH. Pylori eradication\n\nMore effective than acid suppression\n\n↓ Portal pressure\nFor variceal bleeding.\n\nVasopressin\n\nMay precipitate hypertension and cardiac ischaemia\n\nTerlipressin\nPreferable to vasopressin due to decreased cardiac side effects. Improves haemostasis and mortality in variceal bleeding.\nOctreotide\nDecrease portal blood flow, no edemonstrated mortality improvement.\n\nPropranolol\nUsed for secondary prevention of variceal bleeding.\nAntibiotics\nFor patients with variceal bleeds due to the high risk of concomitant (or precipitating) infection.\n\nProcedural\n\n\nBalloon tamponade\nInsertion of a gastric-oesopahgeal balloon which is placed to provide balloon tamponade feeding veins. Used only in extremis to provide control of bleeding.\nEndoscopy\nGold standard of treatment for severe bleeding, or patients with rebleeding.\n\nEarly (<24 hours) associated with:\n\nDecreased Transfusion\nDecreased Rebleeding\nDecreased Open surgical risk\nDecreased Length of stay\n\nTherapeutic options include:\n\nDilute adrenaline injection\nCauterisation\nStapling of ulcer\nDecreased Risk of perforation compared with cauterisation.\nVariceal band ligation\nRubber bands used to strangle varicies, to decrease future risk of bleeding.\n\nRepeat endoscopy should be performed if initial endoscopy suboptimal\n\nEmbolisation\n\nEffective at achieving immediate haemostasis\nSmall risk of gut ischaemia and rebleeding\nUseful in patients at high surgical risk\n\nSurgical bowel resection\nLargely superseded by endoscopy but has a role in:\n\nMassive transfusion with ongoing haemodynamic instability\nRecurrent bleeding despite intitial endoscopic success\nArterial bleeding not controlled by endoscopic haemostasis\nGI perforation\n\nTIPS\nIndicated in variceal bleeding refractory to control by all other methods. Results in:\n\nSignificantly decreased portal venous pressure and variceal bleeding\nHepatic encephalopathy in 60%\n\n\n\n\n\nUrgent endoscopy* is preferable for suspected ulcer bleeding; haemodynamically stable suspected variceal bleeding** is appropriate to defer until the next elective list.\n\nMarginal and Ineffective Therapies"
+    "text": "Management\n\nIf intubation is required, ensure adequate volume resuscitation prior to induction due to the risk of profound haemodynamic instability.\n\n\n\nAnaesthetic considerations and management is covered under Chapter 179.\nResuscitation:\n\n\n\nNote that overresuscitation may lead to increased portal venous pressure and should be avoided.\n\nA\n\nDefinitive airway if airway compromised\nVery high aspiration risk.\n\nC\n\nWide-bore IV\nVolume resucitation\n\nMTP\n\n\nH\n\nUrgent crossmatch\n\n\nSpecific therapy:\n\n\nThe majority of patients with UGIB will stop bleeding spontaneously and not require procedural intervention. The overwhelming majority of patients with LGIB will stop bleeding prior to any intervention.\n\nPharmacological\n\nCease anticoagulation\nCease NSAID\nAcid suppression\nInadequate without endoscopic control in severe or persistent bleeding. No evidence to support use pre-endoscopy, but decreased rebleeding and repeated endoscopy when used post-bleeding.\n\nPPI\nH2-antagonist\n\nH. Pylori eradication\n\nMore effective than acid suppression\n\n↓ Portal pressure\nFor variceal bleeding.\n\nVasopressin\n\nMay precipitate hypertension and cardiac ischaemia\n\nTerlipressin\nPreferable to vasopressin due to decreased cardiac side effects. Improves haemostasis and mortality in variceal bleeding.\nOctreotide\nDecrease portal blood flow, no edemonstrated mortality improvement.\n\nPropranolol\nUsed for secondary prevention of variceal bleeding.\nAntibiotics\nFor patients with variceal bleeds due to the high risk of concomitant (or precipitating) infection.\n\nProcedural\n\n\nBalloon tamponade\nInsertion of a gastric-oesopahgeal balloon which is placed to provide balloon tamponade feeding veins. Used only in extremis to provide control of bleeding.\nEndoscopy\nGold standard of treatment for severe bleeding, or patients with rebleeding.\n\nEarly (<24 hours) associated with:\n\nDecreased Transfusion\nDecreased Rebleeding\nDecreased Open surgical risk\nDecreased Length of stay\n\nTherapeutic options include:\n\nDilute adrenaline injection\nCauterisation\nStapling of ulcer\nDecreased Risk of perforation compared with cauterisation.\nVariceal band ligation\nRubber bands used to strangle varicies, to decrease future risk of bleeding.\n\nRepeat endoscopy should be performed if initial endoscopy suboptimal\n\nEmbolisation\n\nEffective at achieving immediate haemostasis\nSmall risk of gut ischaemia and rebleeding\nUseful in patients at high surgical risk\n\nSurgical bowel resection\nLargely superseded by endoscopy but has a role in:\n\nMassive transfusion with ongoing haemodynamic instability\nRecurrent bleeding despite intitial endoscopic success\nArterial bleeding not controlled by endoscopic haemostasis\nGI perforation\n\nTIPS\nIndicated in variceal bleeding refractory to control by all other methods. Results in:\n\nSignificantly decreased portal venous pressure and variceal bleeding\nHepatic encephalopathy in 60%\n\n\n\n\n\nUrgent endoscopy* is preferable for suspected ulcer bleeding; haemodynamically stable suspected variceal bleeding** is appropriate to defer until the next elective list.\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/git/gib.html#complications",
@@ -12535,6 +12766,83 @@
     "title": "Gastrointestinal Bleeding",
     "section": "References",
     "text": "References"
+  },
+  {
+    "objectID": "disease/git/mesenteric_ischaemia.html#epidemiology-and-risk-factors",
+    "href": "disease/git/mesenteric_ischaemia.html#epidemiology-and-risk-factors",
+    "title": "Mesenteric Ischaemia",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors"
+  },
+  {
+    "objectID": "disease/git/mesenteric_ischaemia.html#pathophysiology",
+    "href": "disease/git/mesenteric_ischaemia.html#pathophysiology",
+    "title": "Mesenteric Ischaemia",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\n\nAetiology"
+  },
+  {
+    "objectID": "disease/git/mesenteric_ischaemia.html#clinical-manifestations",
+    "href": "disease/git/mesenteric_ischaemia.html#clinical-manifestations",
+    "title": "Mesenteric Ischaemia",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations"
+  },
+  {
+    "objectID": "disease/git/mesenteric_ischaemia.html#diagnostic-approach-and-ddx",
+    "href": "disease/git/mesenteric_ischaemia.html#diagnostic-approach-and-ddx",
+    "title": "Mesenteric Ischaemia",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
+  },
+  {
+    "objectID": "disease/git/mesenteric_ischaemia.html#investigations",
+    "href": "disease/git/mesenteric_ischaemia.html#investigations",
+    "title": "Mesenteric Ischaemia",
+    "section": "Investigations",
+    "text": "Investigations\nRadiology:\n\nCT\n\nPortal venous gas\nIntestinal pneumatosis\n\n\nOther:\n\nEndoscopy\n\nConfirm ischaemia"
+  },
+  {
+    "objectID": "disease/git/mesenteric_ischaemia.html#management",
+    "href": "disease/git/mesenteric_ischaemia.html#management",
+    "title": "Mesenteric Ischaemia",
+    "section": "Management",
+    "text": "Management\nResuscitation:\n\nABC approach. Comment on team coordination and clinical priorities. Specific therapy:\n\nPharmacological\nProcedural\nPhysical\n\nSupportive care:\nDisposition:\n\nMarginal and Ineffective Therapies"
+  },
+  {
+    "objectID": "disease/git/mesenteric_ischaemia.html#anaesthetic-considerations",
+    "href": "disease/git/mesenteric_ischaemia.html#anaesthetic-considerations",
+    "title": "Mesenteric Ischaemia",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "disease/git/mesenteric_ischaemia.html#complications",
+    "href": "disease/git/mesenteric_ischaemia.html#complications",
+    "title": "Mesenteric Ischaemia",
+    "section": "Complications",
+    "text": "Complications"
+  },
+  {
+    "objectID": "disease/git/mesenteric_ischaemia.html#prognosis",
+    "href": "disease/git/mesenteric_ischaemia.html#prognosis",
+    "title": "Mesenteric Ischaemia",
+    "section": "Prognosis",
+    "text": "Prognosis"
+  },
+  {
+    "objectID": "disease/git/mesenteric_ischaemia.html#key-studies",
+    "href": "disease/git/mesenteric_ischaemia.html#key-studies",
+    "title": "Mesenteric Ischaemia",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/git/mesenteric_ischaemia.html#references",
+    "href": "disease/git/mesenteric_ischaemia.html#references",
+    "title": "Mesenteric Ischaemia",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
   },
   {
     "objectID": "disease/endo/phaeo.html#epidemiology-and-risk-factors",
