@@ -81,10 +81,14 @@ May only be revealed in situations of physiological stress (e.g. a stress ECG).
 
 **Resuscitation**:\
 
+:::column-margin
+1g MgSO~4~ is ~4mmoL of Mg^2+^.
+:::
+
 * C
 	* Polymorphic VT/VF
 		* DC cardioversion
-		* Mg^2+^
+		* Mg^2+^\
 		Reduces EADs by ↑ encouraging resting repolarisation.
 			* Given as 2g MgSO~4~ over 2-3 minutes  
 			May be repeated with another 2g after 15 minutes.

@@ -132,39 +132,38 @@ Overall, rhythm control is probably superior if it can be consistently achieved 
 Urgent electrical cardioversion is recommended for haemodynamically unstable AF with RVR - just as with other unstable tachyarrhythmias.
 :::
 
-Electrical cardioversion:
+Cardioversion describes restoration of normal sinus rhythm, and is associated with a temporary ↑ **stroke risk**, as any clot formed in the static atria may embolise when atrial contraction resumes. Risk significantly elevated if **both**:
 
-* **Electrical cardioversion** to restore SR\
+* Not therapeutically anticoagulated for at least **3 weeks**
+* AF duration >48 hours
+
+
+Cardioversion can be performed either:
+
+* **Electrically**\
 **Synchronised** electrical cardioversion indicated if haemodynamically unstable. **Requires sedation in the conscious patient**.
-* **Stroke risk**
-Conversion to sinus rhythm is associated with a temporary ↑ stroke risk, as any clot formed in the static atria may embolise when atrial contraction resumes. Risk significantly elevated if **both**:
-	* Not therapeutically anticoagulated for at least **3 weeks**
-	* AF duration >48 hours\
-	* Acute rate control\
-* Failure associated with:
-	* Greater AF duration
-	* LAE
-	* Precipitants present	
-
-Chemical cardioversion:
-
-* Amiodarone\
-Variable dosing strategies described:
-	* 2mg/min for 4 hours
-	* 5mg/kg over 1 hour
-	* 150mg over 30 minutes, followed by infusion
-	Can repeat the IV load twice.	
-* Flecainide\
-	* 2mg/kg over 10 minutes.
-	* Not suitable in structural heart disease or heart failure
-* Ibutilide\
-	* 1mg over 10 minutes, followed by a repeat dose after 10 minutes
-	* Risk of TDP
-* Vernakalant\
-	* 3mg/kg over 10 minutes, followed by 2mg/kg over 10 minutes
-	* Suitable in structural heart disease or heart failure
-	* More effective in the short term than amiodarone, but less effective in maintaining SR at >24 hours.
-
+	* Failure associated with:
+		* Greater AF duration
+		* LAE
+		* Precipitants present	
+* **Chemically**\
+A variety of agents:
+	* Amiodarone\
+	Variable dosing strategies described:
+		* 2mg/min for 4 hours
+		* 5mg/kg over 1 hour
+		* 150mg over 30 minutes, followed by infusion\
+		Can repeat the IV load twice.	
+	* Flecainide\
+		* 2mg/kg over 10 minutes.
+		* Not suitable in structural heart disease or heart failure
+	* Ibutilide\
+		* 1mg over 10 minutes, followed by a repeat dose after 10 minutes
+		* Risk of TDP
+	* Vernakalant\
+		* 3mg/kg over 10 minutes, followed by 2mg/kg over 10 minutes
+		* Suitable in structural heart disease or heart failure
+		* More effective in the short term than amiodarone, but less effective in maintaining SR at >24 hours.
 
 
 ### Rate Control

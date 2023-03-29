@@ -17,7 +17,7 @@ Intraluminal bleeding proximal to the ligament of Treitz, from:
     * Stomach
         * Ulcers\
         ~15% of cases. **Acute stress ulceration** may occur after gastric hypoxia or hypopefusion in the critically unwell. 
-        * Varicies
+        * Varices
         * Gastritis
         * Portal hypertensive gastropathy
     * Duodenum
@@ -27,7 +27,7 @@ Intraluminal bleeding proximal to the ligament of Treitz, from:
 * Lower GI bleeding\
 Intraluminal bleeding occurring distal to the ligament of Trietz, from:
     * Small bowel
-        * Andiodysplasia
+        * Angiodysplasia
         * AVM
         * Meckel's Diverticulum
     * Colon
@@ -49,7 +49,7 @@ Intraluminal bleeding occurring distal to the ligament of Trietz, from:
 Risk factors include:
 
 * Critical illness
-    * Acute stress ulceration in 8-45% of ICu patients
+    * Acute stress ulceration in 8-45% of ICU patients
 
 
 ## Pathophysiology
@@ -126,7 +126,7 @@ Note that **overresuscitation** may lead to **increased portal venous pressure**
     Very high aspiration risk.
 * C
     * Wide-bore IV
-    * Volume resucitation
+    * Volume resuscitation
         * MTP
 * H 
     * Urgent crossmatch
@@ -144,37 +144,35 @@ The majority of patients with UGIB will stop bleeding spontaneously and not requ
     Inadequate without endoscopic control in severe or persistent bleeding. No evidence to support use pre-endoscopy, but decreased rebleeding and repeated endoscopy when used post-bleeding.
         * PPI
         * H~2~-antagonist
-    * *H. Pylori* eradication
-        * More effective than acid suppression 
-    * ↓ Portal pressure\
-    For variceal bleeding.
-        * Vasopressin
-            * May precipitate hypertension and cardiac ischaemia
-        * Terlipressin\
-        Preferable to vasopressin due to decreased cardiac side effects. Improves haemostasis and mortality in variceal bleeding.
-        * Octreotide\
-        Decrease portal blood flow, no edemonstrated mortality improvement.
-    * Propranolol\
-    Used for secondary prevention of variceal bleeding. 
-    * Antibiotics\
-    For patients with **variceal bleeds** due to the high risk of concomitant (or precipitating) infection.
+    * For **variceal bleeds**:
+        * ↓ Portal pressure
+            * Vasopressin
+                * May precipitate hypertension and cardiac ischaemia
+            * Terlipressin\
+            Preferable to vasopressin due to ↓ cardiac side effects. Improves haemostasis and mortality in variceal bleeding.
+            * Octreotide\
+            ↓ Portal blood flow, no demonstrated mortality improvement.
+        * Propranolol\
+        Secondary prevention of variceal bleeding. 
+        * Antibiotics\
+       High risk of concomitant (or precipitating) infection in variceal bleeds.
 * Procedural\
     * Balloon tamponade\
     Insertion of a gastric-oesopahgeal balloon which is placed to provide balloon tamponade feeding veins. Used only *in extremis* to provide control of bleeding.
     * **Endoscopy**\
     Gold standard of treatment for severe bleeding, or patients with rebleeding.
         * Early (<24 hours) associated with:
-            * Decreased Transfusion
-            * Decreased Rebleeding
-            * Decreased Open surgical risk
-            * Decreased Length of stay
+            * ↓ Transfusion
+            * ↓ Rebleeding
+            * ↓ Open surgical risk
+            * ↓ Length of stay
         * Therapeutic options include:
             * Dilute adrenaline injection
             * Cauterisation
             * Stapling of ulcer\
-            Decreased Risk of perforation compared with cauterisation.
+            ↓ Risk of perforation compared with cauterisation.
             * Variceal band ligation\
-            Rubber bands used to strangle varicies, to decrease future risk of bleeding.
+            Rubber bands used to strangle varices, to decrease future risk of bleeding.
         * Repeat endoscopy should be performed if initial endoscopy suboptimal
     * **Embolisation**
         * Effective at achieving immediate haemostasis
@@ -183,7 +181,7 @@ The majority of patients with UGIB will stop bleeding spontaneously and not requ
     * **Surgical** bowel resection\
     Largely superseded by endoscopy but has a role in:
         * Massive transfusion with ongoing haemodynamic instability
-        * Recurrent bleeding despite intitial endoscopic success
+        * Recurrent bleeding despite initial endoscopic success
         * Arterial bleeding not controlled by endoscopic haemostasis
         * GI perforation
     * TIPS\
@@ -192,8 +190,13 @@ The majority of patients with UGIB will stop bleeding spontaneously and not requ
         * Hepatic encephalopathy in 60%
 
 :::column-margin
-**Urgent endoscopy* is preferable for suspected *ulcer* bleeding; haemodynamically stable suspected **variceal bleeding** is appropriate to defer until the **next elective list**.
+**Urgent endoscopy** is preferable for suspected *ulcer* bleeding; haemodynamically stable suspected **variceal bleeding** is appropriate to defer until the **next elective list**.
 :::
+
+**Disposition**:
+
+* Consider *H. Pylori* eradication
+    * More effective than acid suppression 
 
 
 ### Marginal and Ineffective Therapies
@@ -214,7 +217,7 @@ Poor prognostic factors include:
 * Age >60
 * CLD\
 Portal hypertension increases size and bleeding rate of varices.
-* Known varicies
+* Known varices
 * Haemodynamic instability
 
 ## Key Studies

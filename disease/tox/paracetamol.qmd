@@ -1,4 +1,4 @@
-# Paracetamol Overdose {#sec-pmolod}
+# Paracetamol Toxicity {#sec-pmolod}
 
 
 ## Epidemiology and Risk Factors
@@ -17,7 +17,6 @@
 
 **Resuscitation**:\
 
-ABC approach. Comment on team coordination and clinical priorities.
 **Specific therapy**:
 
 :::column-margin
@@ -41,10 +40,6 @@ ABC approach. Comment on team coordination and clinical priorities.
 +-----------------------+---------------------------+
 :::
 
-:::
-If in doubt, give NAC.
-:::
-
 * Pharmacological
 	* **N-acetylcysteine** (NAC)\
 	Stimulates glutathione stimulus, allowing further glutathione to be conjugated.
@@ -57,6 +52,12 @@ If in doubt, give NAC.
 		* Further doses may be indicated (usually 150mg/kg over 24 hours)
 * Procedural
 * Physical
+
+
+:::column-margin
+If in doubt, give NAC.
+:::
+
 
 **Supportive care**:
 

@@ -59,7 +59,7 @@ Are multiple cardiac chambers paced:
 	* O: None
 	* A: Atria
 	* V: One or both ventricles
-	* D: Any combination of ventricles
+	* D°: Any combination of ventricles
 
 ## Temporary Systems
 
@@ -75,6 +75,58 @@ Configuration of temporary epicardial and transvenous pacing systems:
 
 
 ### Pacing Check
+
+:::caution
+Full pacing checks cannot be performed if:
+
+* The underlying rate is inadequate
+	* Symptomatic hypotension
+	* MAP <50mmHg
+* Temperature <36°C
+:::
+
+Temporary epicardial systems should be checked frequently (at least once per nursing shift) to ensure capture and sensitivity thresholds and safe and functional. The full check requires:
+
+* Preparation
+	* ECG and BP monitoring
+	* Explain to the awake patient that they may feel pre-syncopal\
+* **Sensitivity testing**\
+Test of the pacemakers detection of native cardiac output.
+	* Set the pacing rate **below** the native rhythm
+		* 20bpm below a regular rhythm
+		* 30bpm below an irregular rhythm
+	* Set the **output** of both leads to **0.1mA**\
+	This activates both chambers but ensures that R on T will not occur as the output is too low to achieve capture. No pacing spikes will be visible on the ECG.
+	* Check ventricular sensitivity threshold\
+		* Start at the lowest value (0.8mV for the ventricular lead)
+		* ↑ Sensitivity (mV) until the sensing light is no longer flashing, and the pacing light flashes instead. Then ↓ sensitivity until all native beats are sensed.
+		This is the **sensing threshold**. The sensitivity *setting* of the pacemaker is set based upon this threshold.
+	* Check atrial sensitivity\
+	As ventricular sensitivity. Low atrial sensitivity is significantly less concerning than low ventricular sensitivity as there is no R-on-T risk.
+	* Check ventricular capture threshold\
+		* Set the pacing rate 10bpm **above** the native rhythm\
+		* ↑ Output from 0.1mA until 1:1 capture is achieved\
+		This is the **capture threshold**. The capture *setting* should be set to the **greater** of **double the threshold** or **5mA**, whichever is greater.
+	* Check atrial capture\
+	As ventricular capture.
+
+:::column-margin
++-------------+---------------+------------------------------------------------+
+| Lead        | Threshold     | Setting                                        |
++=============+===============+================================================+
+| Atrial      | - <1mv        | - Avoid as backup mode. Inappropriate in ward. |
+|             | - 1-4mV       | - 0.5mV                                        |
+|             | - >5mV        | - 1mV                                          |
+|             | - Not checked | - 0.5mV. Inappropriate in ward.                |
++-------------+---------------+------------------------------------------------+
+| Ventricular | - <2mV        | - Leave pacing off.                            |
+|             | - 2-6mV       | - 1mV                                          |
+|             | - 7-10mV      | - 2mV                                          |
+|             | - >12mV       | - 3mV                                          |
++-------------+---------------+------------------------------------------------+
+
+: Setting Sensitivity
+:::
 
 
 ### Failure to Pace

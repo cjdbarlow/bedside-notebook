@@ -7,8 +7,8 @@ The **Glasgow Criteria** are adverse prognostic factors:
 
 * Admission
 	* Age >55
-	* WCC >16 1,000/mm^3^
-	* Glucose >11 mmol/L
+	* WCC >15 1,000/mm^3^
+	* Glucose >10 mmol/L
 	* AST >250 U/L
 * Within 48 hours
 	* ↓ In Hct >10%
@@ -27,7 +27,7 @@ No organ failure or complications.
 		Non-viable pancreas that may be sterile or infected. Necrosis:
 			* Usually develops early
 			* Is established by 96 hours
-			* Is a major prognostic factor.
+			* Is a major prognostic factor
 		* Pseudocysts
 		* Cysts
 	* Systemic complications
@@ -137,7 +137,7 @@ Surgical management of pancreatitis is associated with very high mortality; trea
 * C
 	* Volume resuscitation\
 		* Aggressive volume resuscitation required for offsetting distributive shock and correcting hypovolaemia
-		* >10mL/kg associated with ↑ ARDS and ↑ abdominal compartment syndrome
+		* \>10mL/kg associated with ↑ ARDS and ↑ abdominal compartment syndrome
 	* Haemodynamic support
 
 **Specific therapy**:
@@ -153,11 +153,6 @@ Carbapenems have exceptional penetration into pancreatic tissue, and are effecti
 	* NSAIDs\
 	Appropriate post-ERCP in mild gallstone pancreatitis as analgesics and may ↓ severity.
 * Procedural
-	* Feeding\
-		* EN should be started once hyperacute inflammation ceases
-		* PN indicated only if EN fails or is contraindicated\
-		EN ↓ infection, organ failure, and mortality compared with PN.
-		* NJ feeding may be preferable to NG to avoid ↑ pancreatic secretion
 	* Open necrosectomy\
 		* **Infected** collections should be managed **non-operatively** for **>4 weeks** to allow fibrous walls and liquefaction to occur
 		* Indications for surgery usually are other abdominal complication, e.g.:
@@ -165,12 +160,16 @@ Carbapenems have exceptional penetration into pancreatic tissue, and are effecti
 			* Bleeding
 			* Mesenteric ischaemia
 	* Needle aspiration
-	* Cholecystectomy\
-	Indicated in gallstone pancreatitis due to high (up to 90%) rate of recurrence.
-		* Mild cases can proceed immediately
-		* More severe disease should be stabilised first
-	* ERCP
-		* ↓ Morbidity and mortality in **mild** gallstone pancreatitis
+	* For gallstone pancreatitis:
+		* Cholecystectomy\
+		Indicated due to high (up to 90%) rate of recurrence.
+			* Mild cases can proceed immediately
+			* More severe disease should be stabilised first
+		* ERCP
+			* ↓ Morbidity and mortality in **mild** gallstone pancreatitis
+
+
+**Supportive care**:
 
 :::column-margin
 Feeding:
@@ -181,7 +180,12 @@ Many patients malnourished on presentation.
 * ↓ Risk of secondary infection of necrotic pancreatic tissue
 :::
 
-**Supportive care**:
+* G
+	* Feeding\
+		* EN should be started once hyperacute inflammation ceases
+		* PN indicated only if EN fails or is contraindicated\
+		EN ↓ infection, organ failure, and mortality compared with PN.
+		* NJ feeding may be preferable to NG to avoid ↑ pancreatic secretion
 
 **Disposition**:
 

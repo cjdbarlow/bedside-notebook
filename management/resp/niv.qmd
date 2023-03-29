@@ -21,7 +21,7 @@ Acute:
 * Reversible respiratory failure
     * APO\
     ↓ LV afterload and ↑ recruitment.
-        * CPAP ~10cmH~2~O ideal in most
+        * CPAP \~10cmH~2~O ideal in most
     * T2RF in COAD\
     ↓ Mortality and need for intubation, and re-intubation when extubated onto CPAP.
         * CPAP appropriate for reversible obstruction
@@ -43,7 +43,7 @@ Chronic:
 
 * Obtundation\
 Risk of aspiration with an unprotected airway.
-* Dysynchrony\
+* Dyssynchrony\
 Patient discomfort or poor mask fit may lead to leaking and failure of pressure to augment appropriately.
 * Inability to clear secretions
 
@@ -52,7 +52,7 @@ Patient discomfort or poor mask fit may lead to leaking and failure of pressure 
 Applies an unchanging positive pressure throughout the respiratory cycle, leading to:
 
 * ↓ Work of breathing\
-↓ Elastic work by ↑ alveolar recruitment. ↓ Inspiratory threshold work of breathing if PEEPi is ↑.
+↓ Elastic work by ↑ alveolar recruitment. ↓ Inspiratory threshold work of breathing if iPEEP is ↑.
 * ↑ SpO~2~\
 Via alveolar recruitment.
 * ↓ LV afterload

@@ -11,7 +11,7 @@ Ventilator dyssynchrony is an uncoordinated interaction between the patient and 
 
 ## Failure to Trigger
 
-Failure of a ventilator to respond to a patients respirtory effort. May be due to:
+Failure of a ventilator to respond to a patients respiratory effort. May be due to:
 
 * Trigger setting too high
     * Reducing the trigger may help, but may also lead to over-triggering
@@ -19,8 +19,8 @@ Failure of a ventilator to respond to a patients respirtory effort. May be due t
         * Pressure trigger generally requires more work but is more controllable by the patient
         * Flow trigger is more comfortable but greater risk of over-triggering\
         Flow triggers are more modern and used by default on most newer ventilators.
-* High PEEPi\
-High intrinsic PEEP ↑ inspiratory threshold work, making it harder for a the patient to reach the prescribed trigger. ↑ extrinsic PEEP to **80% of PEEPi** ↓ the gap and makes breath triggering easier.
+* High iPEEP\
+High intrinsic PEEP ↑ inspiratory threshold work, making it harder to reach the prescribed trigger. ↑ Extrinsic PEEP to **80% of iPEEP** ↓ the gap and makes triggering a breath easier.
 
 
 ## Over-triggering
@@ -34,7 +34,7 @@ Inappropriate delivery of a spontaneous breath. May be due to:
     * Condensation
     * Circuit leak
 * Diaphragmatic pacing\
-Inappropriate pacing of the diaphgram by a cardiac pacemaker (usually temporary epicardial leads).
+Inappropriate pacing of the diaphragm by a cardiac pacemaker (usually temporary epicardial leads).
 
 
 ## Flow Starvation
@@ -49,7 +49,7 @@ The inspiratory pressure waveform becomes "scalloped", with a negative deflectio
 
 Delivery of two pressure-supported breaths during one inspiratory effort. This occurs when:
 
-* The **prescribed inspiratory time** is **shorter** than the **neural inspiratory time** expected\
+* The **prescribed inspiratory time** is **shorter** than the **neural inspiratory time**\
 Inspiratory effort continues whilst the inspiratory valve is closed, so there is negative pressure in the circuit but no flow.
 * Inspiratory effort continues once the next trigger window is reached
     * A second supported breath is delivered\

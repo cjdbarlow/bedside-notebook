@@ -53,7 +53,7 @@ Degree of decline in FEV~1~ with age varies with the duration of smoking, timing
 
 Expiratory airflow limitation via:
 
-* ↑ airway resistance:
+* ↑ Airway resistance:
 	* Obstructive bronchiolitis  
 	Small airway inflammation leads to gas trapping and dynamic hyperinflation.
 	* ↑ Secretion production
@@ -67,7 +67,7 @@ Expiratory airflow limitation via:
 Combination of elastin destruction and fall in alveolar surface tension.
 	* ↓ Expiratory air flow
 	
-Air flow limitaiton leads to:
+Air flow limitation leads to:
 
 * Prolonged expiration
 * Pulmonary hyperinflation
@@ -89,13 +89,13 @@ Graded using the mMRC scale.
 
 :::column-margin
 
-|MRC Grade|Breathlessness|
-|--|--|
-|**Grade 0**|Only with strenuous exercise|
-|**Grade 1**|When hurrying or a slight incline|
-|**Grade 2**|Slower than people of same age, or stopping due to shortness of breath on flat ground|
-|**Grade 3**|After ~100m or a few minutes on flat ground|
-|**Grade 4**|I am too breathless to leave the house, or get breathless when dressing/undressing|
+| MRC Grade   | Breathlessness                                                                     |
+| ----------- | ---------------------------------------------------------------------------------- |
+| **Grade 0** | Only with strenuous exercise                                                       |
+| **Grade 1** | Hurrying or a slight incline                                                       |
+| **Grade 2** | Slower than people of same age; stopping due to shortness of breath on flat ground |
+| **Grade 3** | After ~100m or a few minutes on flat ground                                        |
+| **Grade 4** | Too breathless to leave the house; breathless when dressing/undressing             |
 
 : Modified Medical Research Council (mMRC) Scale
 :::
@@ -177,40 +177,35 @@ Hyperinflation if >=10 posterior ribs visible.
 
 ## Management
 
-Physical:
+Specific therapy:
 
-* Smoking cessation\
-Vital, and will slow down deterioration and disability before death occurs.
-* NIV  
-Reduces chronic hypercarbia, survival, and readmission rates.
-* Home oxygen\
-Indicated in patients with severe resting hypoxia (PaO~2~ <60mmHg, or ⩽55mmHg with cor pulmonale or pulmonary hypertension).
-
-
-Pharmacological:
-
+* Physical:
+	* Smoking cessation\
+	Vital, and will slow down deterioration and disability before death occurs.
+	* NIV  
+	Reduces chronic hypercarbia, survival, and readmission rates.
+	* Home oxygen\
+	Indicated in patients with severe resting hypoxia (PaO~2~ <60mmHg, or ⩽55mmHg with cor pulmonale or pulmonary hypertension).
+* Pharmacological:
 * Inhaled therapies  
-Mainstay of day-to-day treatment. Includes:
-	* Short-acting bronchodilators  
-	For breathlessness and exercise limitation.
-	* Long-acting bronchodilators  
-	For persistent breathlessness.
-* Oral therapy  
-Regular oral corticosteroids may be requried in advanced disease.
-* Vaccination  
-Influenza and pneumococcal vaccines ↓ LRTI rate.
-
-
-Procedural:
-
-* Lung volume reduction surgery  
-Improves survival in severe upper-lobe emphysema and low post-rehabilitation exercise capacity.
-* Bullectomy  
-Improves dyspnoea, lung function, and exercise tolerance is selected patients.
-* Lung transplantation  
-Improves quality of life in selected patients with very severe COAD.
-* Bronchoscopic interventions  
-Includes coils and endobronchial valves, and improves exercise tolerance and lung function at 6-12 months following treatment.
+	Mainstay of day-to-day treatment. Includes:
+		* Short-acting bronchodilators  
+		For breathlessness and exercise limitation.
+		* Long-acting bronchodilators  
+		For persistent breathlessness.
+	* Oral therapy  
+	Regular oral corticosteroids may be requried in advanced disease.
+	* Vaccination  
+	Influenza and pneumococcal vaccines ↓ LRTI rate.
+* Procedural:
+	* Lung volume reduction surgery  
+	Improves survival in severe upper-lobe emphysema and low post-rehabilitation exercise capacity.
+	* Bullectomy  
+	Improves dyspnoea, lung function, and exercise tolerance is selected patients.
+	* Lung transplantation  
+	Improves quality of life in selected patients with very severe COAD.
+	* Bronchoscopic interventions  
+	Includes coils and endobronchial valves, and improves exercise tolerance and lung function at 6-12 months following treatment.
 
 
 ### Acute Exacerbation of COPD
@@ -221,7 +216,7 @@ Acute change in degree of dyspnoea, cough, or sputum production. Acute exacerbat
 * Usually survivable in the short term but a poor prognostic sign for survival in the medium-long term\
 Up to 90% hospital survival, but significantly impaired 2-3 year survival.
 
-Precipiated by:
+Common precipitants:
 
 * Infection
 	* Most commonly bacterial:\
@@ -241,45 +236,43 @@ Relative hyperoxia (>92%) may adversely affect V/Q matching, reduce hypoxic driv
 
 
 
-Physical: 
+Specific therapy: 
 
-* **Oxygen**\
-Target SpO~2~ 88-92%.
-* **HFNO**
-* **NIV**\
-Preferred over invasive ventilation, and indicated when:
-	* Uncompensated respiratory acidosis
-	* Severe dyspnoea with signs of fatigue
-	* Persistent hypoxaemia despite supplemental oxygen
-* Chest physio
-	* Encourage **coughing**
-	* Bubble **PEEP**
-* **Invasive ventilation**\
-Reasonable in patients without end-stage lung disease - 80-90% wean successfully. Avoid breath stacking.
-	* Suggested initial settings to avoid breath stacking
-		* PEEP 3-8cmH~2~O
-		* Psup 8-15cmH~2~O
-		* RR <14\
-		Aim MV <115mL/kg.
-	* Minimise dynamic hyperinflation by:
-		* Watching the flow-volume loop
-		* Measuring end-inspiratory pause\
-		Target <25cmH~2~O. flow-volume loop to minimise dynamic hyperiflation	
-
-
-Pharmacological:
-
-* **Bronchodilators**\
-Many patients have a small response, and this assists in sputum clearance.
-	* Ipratropium 500ug Q2H\
-	Anticholinergic agents have a greater effect compared to beta-agonists.	
-	* Salbutamol 5mg Q2H	
-* **Steroids**\
-Prednisolone 0.5mg/kg (or equivalent) for 5 days.
-* **Antibiotics**\
-Amoxycillin usually first line for *S. pneumoniae* and *H. influenzae* cover.
-* Electrolyte correction
-* DVT prophylaxis		
+* Physical
+	* **Oxygen**\
+	Target SpO~2~ 88-92%.
+	* **HFNO**
+	* **NIV**\
+	Preferred over invasive ventilation, and indicated when:
+		* Uncompensated respiratory acidosis
+		* Severe dyspnoea with signs of fatigue
+		* Persistent hypoxaemia despite supplemental oxygen
+	* Chest physio
+		* Encourage **coughing**
+		* Bubble **PEEP**
+	* **Invasive ventilation**\
+	Reasonable in patients without end-stage lung disease - 80-90% wean successfully. Avoid breath stacking.
+		* Suggested initial settings to avoid breath stacking
+			* PEEP 3-8cmH~2~O
+			* Psup 8-15cmH~2~O
+			* RR <14\
+			Aim MV <115mL/kg.
+		* Minimise dynamic hyperinflation by:
+			* Watching the flow-volume loop
+			* Measuring end-inspiratory pause\
+			Target <25cmH~2~O. flow-volume loop to minimise dynamic hyperiflation	
+* Pharmacological:
+	* **Bronchodilators**\
+	Many patients have a small response, and this assists in sputum clearance.
+		* Ipratropium 500ug Q2H\
+		Anticholinergic agents have a greater effect compared to beta-agonists.	
+		* Salbutamol 5mg Q2H	
+	* **Steroids**\
+	Prednisolone 0.5mg/kg (or equivalent) for 5 days.
+	* **Antibiotics**\
+	Amoxycillin usually first line for *S. pneumoniae* and *H. influenzae* cover.
+	* Electrolyte correction
+	* DVT prophylaxis		
 
 
 ### Anaesthetic Considerations
@@ -337,7 +330,7 @@ Amoxycillin usually first line for *S. pneumoniae* and *H. influenzae* cover.
 
 ## Prognosis
 
-Lung cancer is frequently seen and is the major cause of death.
+* Lung cancer is frequently seen and is the major cause of death
 
 ## Key Studies
 

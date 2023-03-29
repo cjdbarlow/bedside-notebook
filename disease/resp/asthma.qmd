@@ -37,7 +37,7 @@ Risk factors:
 
 Underlying pathology involves both:
 
-* Airway inflamation
+* Airway inflammation
     * Bronchial wall hyperplasia and oedema
 * Sputum production
     * May lead to obstruction and plugging of small airways\
@@ -57,7 +57,7 @@ Further ↑ work of breathing.
         * Pulmonary vascular compression by hyperinflated lungs
         * Hypoxia
         * Acidosis
-    * LV preload may be worsened by impaired RV function
+    * LV preload may be ↓↓ by impaired RV function
     * LV afterload significantly ↑ by negative intrathoracic pressures  
 
 
@@ -148,11 +148,11 @@ Patient response over the first **2 hours** of treatment are an important guide 
         * Initial ventilator settings:
             * Volume control
             * ZEEP\
-            Recommendations for set PEEP are variable. 0-5cmH~2~O is probably okay, provided set PEEP < PEEPi.
+            Recommendations for set PEEP are variable. 0-5cmH~2~O is probably okay, provided set PEEP < iPEEP.
             * Vt 5-7mL/kg
             * RR 8-12
             * Short inspiratory time/High inspiratory flow rate\
-            Aim **expiratory time >4s**. Pip will be high but alveolar pressures will be significantly lower due to the airway obstruction. Once ventilation is established, Pplat should be assessed with an inspiratory hold and should be maintained at **<25cmH~2~O**.
+            Aim **expiratory time >4s**. Pip will be ↑ but alveolar pressures will be significantly ↓ due to the airway obstruction. Once ventilation is established, Pplat should be assessed with an inspiratory hold and should be maintained at **<25cmH~2~O**.
         * Haemodynamic deterioration following intubation is often due to dynamic hyperinflation\
         The **ventilator** should be **disconnected** and prolonged (60s) expiration allowed to occur to reduce cardiac compression, before continuing ventilation at a lower rate. 
 * B
@@ -197,15 +197,14 @@ Patient response over the first **2 hours** of treatment are an important guide 
         * Target Vt ~7mL/kg, RR ~25
     * VV ECMO\
     May be required if oxygenation is unable to be managed effectively following intubation. 
-            
+
 :::column-margin
 To initiate gas flow into the lungs, the patient must generate enough inspiratory force such that Palv < Patm.\
 \
-If PEEPi is high, then a *very* negative intrapleural pressure must be generated before Palv is less than Patm and inspiration commences. Application of external PEEP reduces this gradient, and therefore reduces the amount of work performed before inspiration commences (inspiratory threshold work).
-
+If iPEEP is high, then a *very* negative intrapleural pressure must be generated before Palv is less than Patm and inspiration commences. Application of external PEEP reduces this gradient, and therefore reduces the amount of work performed before inspiration commences (inspiratory threshold work).\
+\
 Note that this **differs** from the **controlled ventilation settings**, because NIV assumes *spontaneous* breathing. Inspiratory threshold work is irrelevant in fully controlled ventilation.
 :::
-
 
 **Specific therapy**:
 
@@ -245,7 +244,7 @@ Inferior bronchodilator relative to others available, with a narrow therapeutic 
 * Death
 * B
     * Dynamic hyperinflation\
-    Airway obstruction leads to **incomplete exhalation** in a **normal expiratory time**. If expiratory time is not prolonged (due to the next breath being taken), then there is progressive accumulation of gas in the lungs and a rise in lume volume. This may precipitate:
+    Airway obstruction leads to **incomplete exhalation** in a **normal expiratory time**. If expiratory time is not prolonged (due to the next breath being taken), then there is progressive accumulation of gas in the lungs and a rise in lung volume. This may precipitate:
         * Hypotension and cardiovascular collapse\
         Progressive impairment to VR due to ↑ intrathoracic pressure.
         * Barotrauma
@@ -254,7 +253,7 @@ Inferior bronchodilator relative to others available, with a narrow therapeutic 
                 Respiratory rate should be further ↓ following diagnosis of a PTx to reduce this risk.
                 * Catheters should be inserted by blunt dissection to minimise risk of lung injury.
 * E
-    * CIM
+    * Critical Illness Myopathy
     
 ## Prognosis
 
