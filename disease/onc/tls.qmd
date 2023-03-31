@@ -1,0 +1,76 @@
+# Tumour Lysis Syndrome
+
+Life-threatening metabolic syndrome that occurs due to **rapid destruction** of a **large number** of **tumour cells** leading to toxic changes in ECF composition, namely:
+
+* **Hyperuricaemia**
+	* Nephropathy\
+	Due to uric acid deposition in the DCT.
+* **Hyperkalaemia**
+* **Hyperphosphataemia**
+* **Hypocalcaemia**\
+Due to phosphate precipitation.
+
+
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+TLS occurs most commonly:
+
+* In high-volume malignancies:
+	* Bulky solid tumours
+	* Haematological malignancies
+* Following a treatment
+	* Chemotherapy
+	* Radiotherapy
+
+
+## Clinical Manifestations
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+## Management
+
+**Resuscitation**:\
+
+* C
+	* Arrhythmia\
+	Secondary to hyperkalaemia. Standard treatment applies.
+
+**Specific therapy**:
+
+* Pharmacological
+	* Preventative
+		* Intravenous hydration
+		* Uric acid suppression
+			* Rasburicase\
+			Rapidly ↓ uric acid by catalysing it to allantoin.
+			* Allopurinol\
+			↓ Uric acid formation by inhibiting xanthine oxidase. Less preferred to rasburicase as xanthine is accumulated, which can itself cause renal failure.
+* Procedural
+	* RRT\
+	May be required for hyperkalaemia or hyperphosphataemia.
+
+**Supportive care**:
+
+**Disposition**:
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References

@@ -696,11 +696,11 @@ book:
         chapters:
         - part: "Malignancy"
           chapters:
-            # TLS
+            - disease/onc/tls.qmd
             # Lung ca
             # Renal ca
-            - disease/endo/phaeo.qmd
-            - disease/endo/carcinoid.qmd
+            - disease/onc/phaeo.qmd
+            - disease/onc/carcinoid.qmd
         - part: "RBC"
           chapters:
             - disease/haeme/sickle.qmd
@@ -794,11 +794,12 @@ book:
         # Toxins
       - part: "Toxin and Environmental"
         chapters:
-        - part: "Toxidromes"
+        - part: "Toxicology"
           chapters:
-            - disease/tox/serotonin_syndrome.qmd
-            - disease/tox/last.qmd
             - disease/tox/paracetamol.qmd
+            - disease/tox/last.qmd
+            - disease/tox/chemo_toxicity.qmd
+            - disease/tox/serotonin_syndrome.qmd
         # - part: "Environmental"
         #   chapters:
             # Barotrauma

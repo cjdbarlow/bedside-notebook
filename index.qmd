@@ -1,6 +1,6 @@
 ::: {.content-hidden}
 # About
-(This allows the toc to be named independently from the page)
+(This hidden content section allows the toc to be named independently from the page)
 :::
 
 This is a collection of notes from my anaesthetic training and ANZCA Second Part exam, which is currently being expanded for the CICM Second Part exam.
@@ -11,7 +11,7 @@ References are light; though when present you can be confident I have read them.
 
 * At the bedside
 * From wise clinician mentors
-* Unrepentantly plagiarised from titans of critical care education, namely:
+* From titans of critical care education, and from whom I have unrepentantly plagiarised, namely:
 	* [Critical Care Compendium](https://litfl.com/ccc-critical-care-compendium/)
 	* [The Internet Book of Critical Care](https://emcrit.org/ibcc/toc/)
 	* [Deranged Physiology](https://derangedphysiology.com/main/home)

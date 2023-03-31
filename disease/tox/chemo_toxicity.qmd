@@ -1,0 +1,87 @@
+# Chemotherapy Toxicities
+
+Chemotherapeutic agents are infamous for a wide range of adverse effects. These include:
+
+* General chemotherapeutic toxicities
+* Immunotherapy toxicity
+* Agent-specific toxicity
+
+## Immunotherapy Toxicity
+
+Immunotherapeutics are biological therapies that augment the immune system to destroy cancer cells, and have revolutionised the treatment of many malignancies with traditionally poor prognoses. Adverse effects of immunotherapy relate to augmented immune function and include:
+
+* B
+	* Pneumonitis
+* C
+	* Myocarditis
+	* Pericarditis
+	* Vasculitis
+	* Arrhythmia
+	* ACS
+* D
+	* Uveitis
+	* Encephalopathy\
+	1-5%.
+* E
+	* Thyroiditis
+	* Diabetes
+	* Hypophysitis
+* G
+	* Colitis
+	* Hepatitis\
+	5-10%.
+	* Pancreatitis
+	* Cholangitis
+* I
+	* Dermatitis\
+	Most common side effect.
+		* Maculopapular rashes
+		* Lichenoid eruptions
+
+Management:
+
+* Predominantly supportive
+* Agents may be continued, adjusted, or ceased depending on the nature and severity of toxicity
+* Immunosuppressants may be required, including:
+	* Steroids
+	* Infliximab
+	* Tacrolimus
+	* Mycophenolate
+
+## Agent-Specific Toxicities
+
+Chemotherapeutic agents with unique toxidromes include:
+
+* **Anthracyclines**
+	* Include daunorubicin, doxorubicin, epirubicin
+	* Cause acute or chronic heart failure
+		* Acute typically arrhythmia or cardiogenic shock
+		* Chronic typically a dose-dependent cardiomyopathy
+			* May present 3 months to years following chemotherapy
+			* Standard heart failure treatment applies
+* **Bleomycin**
+	* Antibiotic that destroys DNA by generation of oxygen free-radicals
+	* Used in cervical, germ cell, and head and neck tumours
+	* Causes pneumonitis in 40%
+		* Via generation of oxygen free radicals with alveolitis and fibrosis\
+		Condition is **exacerbated by ↑ FiO~2~**, which should be avoided.
+		* ~2% mortality
+* **Ifosfamide**
+	* Aklylating agent
+	* Used in cervical, ovarian, breast, lung, and head and neck cancer
+	* Encephalopathy in 10-20%
+		* Variable severity from confusion to coma
+		* Likely due to direct toxicity from metabolites
+		* Methylene blue 50mg IV Q6H is therapeutic
+* **Trastuzumab** (Herceptin)
+	* Causes dose-independent myocardial dysfunction
+		* Commonly combined with anthracyclines which ↑ risk
+		* Reversible myocardial stunning - can be resumed when myocardial function recovers
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+2. J. Haanen, M. Obeid, L. Spain, et al. [Management of toxicities from immunotherapy: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up](https://www.esmo.org/guidelines/guidelines-by-topic/supportive-and-palliative-care/toxicities-from-immunotherapy). Annals of Oncology. Published online: 18 October 2022.
