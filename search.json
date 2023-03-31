@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "The Bedside Scientist",
     "section": "",
-    "text": "This is a collection of notes from my anaesthetic training and ANZCA Second Part exam, which is currently being expanded for the CICM Second Part exam.\nUnlike Part One, which is (or at least, was) “complete”, this is still very much under construction. Many core topics are absent, others will be covered only partially and sometimes incorrectly, particularly if it is a topic I stumbled upon years ago and have not dusted off since.\nReferences are light; though when present you can be confident I have read them. The bulk of the content is a systemisation of the things I’ve learned:\n\nAt the bedside\nFrom wise clinician mentors\nUnrepentantly plagiarised from titans of critical care education, namely:\n\nCritical Care Compendium\nThe Internet Book of Critical Care\nDeranged Physiology"
+    "text": "This is a collection of notes from my anaesthetic training and ANZCA Second Part exam, which is currently being expanded for the CICM Second Part exam.\nUnlike Part One, which is (or at least, was) “complete”, this is still very much under construction. Many core topics are absent, others will be covered only partially and sometimes incorrectly, particularly if it is a topic I stumbled upon years ago and have not dusted off since.\nReferences are light; though when present you can be confident I have read them. The bulk of the content is a systemisation of the things I’ve learned:\n\nAt the bedside\nFrom wise clinician mentors\nFrom titans of critical care education, and from whom I have unrepentantly plagiarised, namely:\n\nCritical Care Compendium\nThe Internet Book of Critical Care\nDeranged Physiology"
   },
   {
     "objectID": "anzca.html#short-answer-questions",
@@ -12359,7 +12359,7 @@
     "href": "disease/git/alf.html#management",
     "title": "Acute Liver Failure",
     "section": "Management",
-    "text": "Management\n\nGoals of therapy are:\n\nIdentify cause\nSupportive care to limit hepatic damage\nEarly identification of patients for transplant\n\nSignificant improvement in outcomes with emergency liver transplantation\nEarly escalation to critical care and early referral to a specialist centre is essential\n\n\n\nResuscitation:\n\n\nA\nConsider securing if:\n\nHigh grade (III/IV) encephalopathy\nNeed for transfer\n\nB\n\nCO2 control for ICP management\n\nC\n\nClassically distributive shock picture\n\nNoradrenaline\n\n\nD\n\n↑ ICP\n\n\nControl with standard ICP management\n\n\n\nSpecific therapy:\n\nProcedural\n\nLiver transplantation\n\nPhysical\n\nExtra-corporeal hepatic support\nArtificial, extra-corporeal liver replacement therapy. Broadly, ↓ encephalopathy and ↑ haemodynamic function without mortality benefit. May be:\n\nBiological\nUsing human/porcine cells.\nMechanical\nMolecular filtration.\n\n\n\nUnderlying cause:\n\n\nManagement of paracetamol overdose is covered under Chapter 340.\n\nParacetamol overdose\n\nN-acetylcysteine (NAC)\n\n\nCornerstone of therapy as early administration results in significant reduction in mortality (to <1%), though even late administration may improve outcome\nDosing based on Prescott nomogram\n\n\nViral hepatitis\n\nAntivirals\nHepatitis B\n\nLamivudine\nBenefit if given early.\n\n\nAlcoholic hepatitis\nAutoimmune hepatitis\n\nSte\n\nMushroom poisoning\n\nForced diuresis\n↑ Renal clearance of toxin. Avoid hypovolaemia.\n\nWilson’s disease\n\nD-Penicillamine\nChelates copper. Withdrawal of chronic treatment may precipitate failure.\n\nHepatic vein thrombosis\n\nThrombolysis\nClot retrieval\nTIPS\n\n\nSupportive care:\n\n\nInvasive intracranial pressure monitoring associated with ~10% intracranial haemorrhage rate.\n\nB\n\nLung protective ventilation\nARDS risk.\nDrain pleural effusions\n\nD\n\n↑ ICP\n\n\nGeneral measures\nIf grade 3/4 encephalopathy, recommend:\n\nIntubation\nSedation\nAvoid stimulation\nHead-up positioning\n\nConsider invasive ICP management if all of:\n\n\nGrade 3-4 encephalopathy\nHyperacute liver failure\nAmmonia >150mmolL\nYoung\n\n\n\nE\n\n↓ BSL\nUse high-concentration dextrose to avoid cerebral oedema/↓ Na+.\n\nF\n\n↓ Phosphate\nReplenish.\nRRT\n\n\nAvoid citrate!\nCRRT preferential due to haemodynamics\nIn addition to standard indications, consider for:\n\nHyperammonaemia\nAim <100μmol/: to ↓ cerebral oedema.\nHypothermia\n\n\n\nG\n\nEarly enteral feeding\nMay have ↑ metabolic requirements. No change in protein requirement.\nLactulose\nControversial. May ↓ hepatic encephalopathy but lead to gaseous intestinal distension.\nPPI\nDrain ascites\nFor haemodynamic benefit.\n\nH\n\nCoagulopathy\nTreat if bleeding or prior to procedures. Patients may be prothrombotic, anti-thrombotic, or fibrinolytic, and the assays themselves (both coagulation profiles and point-of-care testing) may not correlate with the observed clinical effect.\n\nVitamin K\nVery reasonable, probably ineffective in the majority of patients.\n\n\n\nDisposition:\n\nLiver transplant centre\n\n\nMarginal and Ineffective Therapies"
+    "text": "Management\n\nGoals of therapy are:\n\nIdentify cause\nSupportive care to limit hepatic damage\nEarly identification of patients for transplant\n\nSignificant improvement in outcomes with emergency liver transplantation\nEarly escalation to critical care and early referral to a specialist centre is essential\n\n\n\nResuscitation:\n\n\nA\nConsider securing if:\n\nHigh grade (III/IV) encephalopathy\nNeed for transfer\n\nB\n\nCO2 control for ICP management\n\nC\n\nClassically distributive shock picture\n\nNoradrenaline\n\n\nD\n\n↑ ICP\n\n\nControl with standard ICP management\n\n\n\nSpecific therapy:\n\nProcedural\n\nLiver transplantation\n\nPhysical\n\nExtra-corporeal hepatic support\nArtificial, extra-corporeal liver replacement therapy. Broadly, ↓ encephalopathy and ↑ haemodynamic function without mortality benefit. May be:\n\nBiological\nUsing human/porcine cells.\nMechanical\nMolecular filtration.\n\n\n\nUnderlying cause:\n\n\nManagement of paracetamol overdose is covered under Chapter 339.\n\nParacetamol overdose\n\nN-acetylcysteine (NAC)\n\n\nCornerstone of therapy as early administration results in significant reduction in mortality (to <1%), though even late administration may improve outcome\nDosing based on Prescott nomogram\n\n\nViral hepatitis\n\nAntivirals\nHepatitis B\n\nLamivudine\nBenefit if given early.\n\n\nAlcoholic hepatitis\nAutoimmune hepatitis\n\nSte\n\nMushroom poisoning\n\nForced diuresis\n↑ Renal clearance of toxin. Avoid hypovolaemia.\n\nWilson’s disease\n\nD-Penicillamine\nChelates copper. Withdrawal of chronic treatment may precipitate failure.\n\nHepatic vein thrombosis\n\nThrombolysis\nClot retrieval\nTIPS\n\n\nSupportive care:\n\n\nInvasive intracranial pressure monitoring associated with ~10% intracranial haemorrhage rate.\n\nB\n\nLung protective ventilation\nARDS risk.\nDrain pleural effusions\n\nD\n\n↑ ICP\n\n\nGeneral measures\nIf grade 3/4 encephalopathy, recommend:\n\nIntubation\nSedation\nAvoid stimulation\nHead-up positioning\n\nConsider invasive ICP management if all of:\n\n\nGrade 3-4 encephalopathy\nHyperacute liver failure\nAmmonia >150mmolL\nYoung\n\n\n\nE\n\n↓ BSL\nUse high-concentration dextrose to avoid cerebral oedema/↓ Na+.\n\nF\n\n↓ Phosphate\nReplenish.\nRRT\n\n\nAvoid citrate!\nCRRT preferential due to haemodynamics\nIn addition to standard indications, consider for:\n\nHyperammonaemia\nAim <100μmol/: to ↓ cerebral oedema.\nHypothermia\n\n\n\nG\n\nEarly enteral feeding\nMay have ↑ metabolic requirements. No change in protein requirement.\nLactulose\nControversial. May ↓ hepatic encephalopathy but lead to gaseous intestinal distension.\nPPI\nDrain ascites\nFor haemodynamic benefit.\n\nH\n\nCoagulopathy\nTreat if bleeding or prior to procedures. Patients may be prothrombotic, anti-thrombotic, or fibrinolytic, and the assays themselves (both coagulation profiles and point-of-care testing) may not correlate with the observed clinical effect.\n\nVitamin K\nVery reasonable, probably ineffective in the majority of patients.\n\n\n\nDisposition:\n\nLiver transplant centre\n\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/git/alf.html#anaesthetic-considerations",
@@ -12845,120 +12845,197 @@
     "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
   },
   {
-    "objectID": "disease/endo/phaeo.html#epidemiology-and-risk-factors",
-    "href": "disease/endo/phaeo.html#epidemiology-and-risk-factors",
+    "objectID": "disease/onc/tls.html#epidemiology-and-risk-factors",
+    "href": "disease/onc/tls.html#epidemiology-and-risk-factors",
+    "title": "Tumour Lysis Syndrome",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors"
+  },
+  {
+    "objectID": "disease/onc/tls.html#pathophysiology",
+    "href": "disease/onc/tls.html#pathophysiology",
+    "title": "Tumour Lysis Syndrome",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\n\nAetiology\nTLS occurs most commonly:\n\nIn high-volume malignancies:\n\nBulky solid tumours\nHaematological malignancies\n\nFollowing a treatment\n\nChemotherapy\nRadiotherapy"
+  },
+  {
+    "objectID": "disease/onc/tls.html#clinical-manifestations",
+    "href": "disease/onc/tls.html#clinical-manifestations",
+    "title": "Tumour Lysis Syndrome",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations"
+  },
+  {
+    "objectID": "disease/onc/tls.html#diagnostic-approach-and-ddx",
+    "href": "disease/onc/tls.html#diagnostic-approach-and-ddx",
+    "title": "Tumour Lysis Syndrome",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
+  },
+  {
+    "objectID": "disease/onc/tls.html#investigations",
+    "href": "disease/onc/tls.html#investigations",
+    "title": "Tumour Lysis Syndrome",
+    "section": "Investigations",
+    "text": "Investigations"
+  },
+  {
+    "objectID": "disease/onc/tls.html#management",
+    "href": "disease/onc/tls.html#management",
+    "title": "Tumour Lysis Syndrome",
+    "section": "Management",
+    "text": "Management\nResuscitation:\n\n\nC\n\nArrhythmia\nSecondary to hyperkalaemia. Standard treatment applies.\n\n\nSpecific therapy:\n\nPharmacological\n\nPreventative\n\nIntravenous hydration\nUric acid suppression\n\nRasburicase\nRapidly ↓ uric acid by catalysing it to allantoin.\nAllopurinol\n↓ Uric acid formation by inhibiting xanthine oxidase. Less preferred to rasburicase as xanthine is accumulated, which can itself cause renal failure.\n\n\n\nProcedural\n\nRRT\nMay be required for hyperkalaemia or hyperphosphataemia.\n\n\nSupportive care:\nDisposition:\n\nMarginal and Ineffective Therapies"
+  },
+  {
+    "objectID": "disease/onc/tls.html#anaesthetic-considerations",
+    "href": "disease/onc/tls.html#anaesthetic-considerations",
+    "title": "Tumour Lysis Syndrome",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "disease/onc/tls.html#complications",
+    "href": "disease/onc/tls.html#complications",
+    "title": "Tumour Lysis Syndrome",
+    "section": "Complications",
+    "text": "Complications"
+  },
+  {
+    "objectID": "disease/onc/tls.html#prognosis",
+    "href": "disease/onc/tls.html#prognosis",
+    "title": "Tumour Lysis Syndrome",
+    "section": "Prognosis",
+    "text": "Prognosis"
+  },
+  {
+    "objectID": "disease/onc/tls.html#key-studies",
+    "href": "disease/onc/tls.html#key-studies",
+    "title": "Tumour Lysis Syndrome",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/onc/tls.html#references",
+    "href": "disease/onc/tls.html#references",
+    "title": "Tumour Lysis Syndrome",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "disease/onc/phaeo.html#epidemiology-and-risk-factors",
+    "href": "disease/onc/phaeo.html#epidemiology-and-risk-factors",
     "title": "Phaeochromocytoma",
     "section": "Epidemiology and Risk Factors",
     "text": "Epidemiology and Risk Factors\nIncidence is ~0.2/100,000.\nRisk factors include:\n\nMEN II\nNeurofibromatosis\nTuberous sclerosis\nSturge-Weber Syndrome\nvon Hippel-Lindau disease\nSuccinate dehydrogenase enzyme mutations"
   },
   {
-    "objectID": "disease/endo/phaeo.html#pathophysiology",
-    "href": "disease/endo/phaeo.html#pathophysiology",
+    "objectID": "disease/onc/phaeo.html#pathophysiology",
+    "href": "disease/onc/phaeo.html#pathophysiology",
     "title": "Phaeochromocytoma",
     "section": "Pathophysiology",
     "text": "Pathophysiology\nTumour of chromaffin cells:\n\n30% malignant\n30%\n\nProduce a variety of:\n\nAdrenaline\nNoradrenaline\nMost common: ~60%.\nDopamine\nRarer.\n\n\nAetiology\nMajority are incidental, though ~30% are associated with autosomal dominant inheritance."
   },
   {
-    "objectID": "disease/endo/phaeo.html#clinical-manifestations",
-    "href": "disease/endo/phaeo.html#clinical-manifestations",
+    "objectID": "disease/onc/phaeo.html#clinical-manifestations",
+    "href": "disease/onc/phaeo.html#clinical-manifestations",
     "title": "Phaeochromocytoma",
     "section": "Clinical Manifestations",
     "text": "Clinical Manifestations\nPresentation:\n\nClassical triad of:\nMost patients do not have all 3.\n\nHeadache\nSweating\nPalpitations\n\nHypertension\nPresent in 90%, paroxysmal in 50%.\n\nAssociated cardiomyoapthy\n\nVisual disturbance\nHypertension-related papilloedema.\nAbdominal pain\nSecondary to ischaemia.\nConstitutional symptoms\n\nLethargy\nAnxiety\nNausea\nWeight loss\nHyperglycaemia\nTremor\n\n\n\nIntraoperative Diagnosis\nPhaeochromocytomas may present during another surgery:\n\nHypertension\nMajor sign.\nTachyarrhythmias\nCardiac failure"
   },
   {
-    "objectID": "disease/endo/phaeo.html#investigations",
-    "href": "disease/endo/phaeo.html#investigations",
+    "objectID": "disease/onc/phaeo.html#investigations",
+    "href": "disease/onc/phaeo.html#investigations",
     "title": "Phaeochromocytoma",
     "section": "Investigations",
     "text": "Investigations\nDiagnosis:\n\nMetanephrines\n\nBreakdown products of catecholamines\n\nMetanephrine\nNormetanephrine\nHomovanillic acid for dopamine\n\nCan be measured in urine and plasma\nUnsure which is superior.\n\nUrinary more specific\nPlasma more sensitive\n\nMany causes of false-positives:\n\nExercise\nVenous sampling whilst sitting\nDiet\nRenal impairment\nMedications\n\n\nImaging\n\nHalf of cases are diagnosed incidentally on CT or MRI\nCT\nMRI\nBetter sensitivity for paraganglionomas.\n\n\nEvaluation of haemodynamic effects:\n\nEchocardiography\nMandatory.\nECG\nCardiac enzymes\nUEC/"
   },
   {
-    "objectID": "disease/endo/phaeo.html#mx",
-    "href": "disease/endo/phaeo.html#mx",
+    "objectID": "disease/onc/phaeo.html#mx",
+    "href": "disease/onc/phaeo.html#mx",
     "title": "Phaeochromocytoma",
     "section": "Management",
     "text": "Management\nSurgery is curative, but never emergent.\nMedical management:\n\nRequired to optimise haemodynamic state pre-operatively\nThis is critical to avoid excess morbidity and mortality; up to 45% without adequate control. Consequences:\n\nICH/\nArrhythmias\nIschaemia\nLVF\n\nTitration of agents usually over ~ 2 weeks\nGoals of treatment:\n\nControl arterial pressure\nPrimarily α-blockade.\n\nMust occur prior to β-blockade to prevent unopposed α effect\nCHF, ischaemia, shock from a low-CO high-SVR state.\nPhenoxybenzamine 40-400mg/day\nNon-competitive, non-selective, long acting α-antagonist.\n\nCommence at 10mg BD, ↑ every 2-3 days\nReduces catecholamine surges\n↑ postural hypotension\nImplicated in post-operative hypotension\nShould be stopped 24-48 hours prior to surgery\n\nDoxazosin\nCompetitive, selective α1-antagonist.\n\nReduced postural hypotension compared to phenoxybenzamine\n\nCalcium channel blockers\nGood second agent to further improved BP control in patients with good α-blockade.\n\nNot recommended as monotherapy\nConsider nicardipine 30mg SR BD\n\n\nReplete circulating volume\nReduced due to low circulatory compliance.\n\nHigh sodium diet, high fluid intake\n2L/day minimum\nMonitor haematocrit to ensure it is reducing\n\nControl heart rate and arrhythmias\n\nβ-blockade\nMay be required to control tachyarrhythmias occurring after α-blockade achieved.\n\nSelective β1 antagonists preferred\nMetoprolol, atenolol.\nAim HR ⩽90\n\nCorrect electrolyte deficiencies\n\nOptimise myocardial function\n\nDiastolic dysfunction in majority\nSystolic dysfunction in ~10%\n\nControl BSL\nCorrect electrolyte deficiencies\n\n\nAdequacy of preoperative control:\n\nTraditionally given by the Roizen criteria\nExact use is questioned, but principle remains. Criteria require 2 weeks of:\n\nBP consistently <160/90\nTighter targets now used; aim seated SBP <130/80.\nPostural drop of SBP >15% but not <80 mm Hg\nNo longer required.\nECG without ischaemia\nIschaemia is still to be avoided, but changes may represent Takotsubo rather than ischaemia.\nControl of episodic symptoms\n\nPreoperative optimisation performed over days-weeks\n\n\nAnaesthetic Considerations\n\nB\n\nPulmonary oedema\n\nC\n\nArterial line\nConsider CO monitoring\nHaemodynamic control Preoperative optimisation required.\n\nMay be performed as an inpatient in some systems\n\nCardiomyopathy\nBulk of patients have EF ~55% however.\nImpaired catecholamine sensitivity\nAvoidance of drugs with catecholamine effects\n\nDesflurane\nKetamine\nMorphine/pethidine\nAtracurium/pancuronium\nDroperidol/metoclopramide\n\n\nD\n\nImpaired insulin sensitivity\nHypoglycaemia may occur following resection - monitor postoperatively.\nAnxiolysis"
   },
   {
-    "objectID": "disease/endo/phaeo.html#complications",
-    "href": "disease/endo/phaeo.html#complications",
+    "objectID": "disease/onc/phaeo.html#complications",
+    "href": "disease/onc/phaeo.html#complications",
     "title": "Phaeochromocytoma",
     "section": "Complications",
     "text": "Complications\nDue to excessive catecholamine effects:\n\nPulmonary oedema\nCardiomyopathy\nArrhythmia\nICH/"
   },
   {
-    "objectID": "disease/endo/phaeo.html#references",
-    "href": "disease/endo/phaeo.html#references",
+    "objectID": "disease/onc/phaeo.html#references",
+    "href": "disease/onc/phaeo.html#references",
     "title": "Phaeochromocytoma",
     "section": "References",
     "text": "References\n\nConnor D, Boumphrey S. Perioperative care of phaeochromocytoma. BJA Educ. 2016 May 1;16(5):153–8."
   },
   {
-    "objectID": "disease/endo/carcinoid.html#epidemiology-and-risk-factors",
-    "href": "disease/endo/carcinoid.html#epidemiology-and-risk-factors",
+    "objectID": "disease/onc/carcinoid.html#epidemiology-and-risk-factors",
+    "href": "disease/onc/carcinoid.html#epidemiology-and-risk-factors",
     "title": "Carcinoid",
     "section": "Epidemiology and Risk Factors",
     "text": "Epidemiology and Risk Factors"
   },
   {
-    "objectID": "disease/endo/carcinoid.html#pathophysiology",
-    "href": "disease/endo/carcinoid.html#pathophysiology",
+    "objectID": "disease/onc/carcinoid.html#pathophysiology",
+    "href": "disease/onc/carcinoid.html#pathophysiology",
     "title": "Carcinoid",
     "section": "Pathophysiology",
     "text": "Pathophysiology\nDerived from neuroendocrine cells:\n\nEnterochromaffin cells\nKulchitsky cells\nFrequency of occurrence related to neuroendocrine cell density\n\n\nAetiology"
   },
   {
-    "objectID": "disease/endo/carcinoid.html#clinical-manifestations",
-    "href": "disease/endo/carcinoid.html#clinical-manifestations",
+    "objectID": "disease/onc/carcinoid.html#clinical-manifestations",
+    "href": "disease/onc/carcinoid.html#clinical-manifestations",
     "title": "Carcinoid",
     "section": "Clinical Manifestations",
     "text": "Clinical Manifestations\n\n\nMany are asymptomatic and found incidentally due to long lead time to diagnosis\nAverage time from diagnosis to symptoms is 8 years\n\n\nPresentation may be from mass effect or carcinoid syndrome, and varies depending on location:\n\nPulmonary\n\nPneumonia\nCough\nHaemoptysis\nChest pain\n\nGastric\n\nZollinger-Ellison syndrome\nPeptic ulcers occurring due to excessive acid production, in turn occurring due to a gastrin-producing tumour.\nAtrophic gastritis\n\nBowel\n\nMass effect\n\nObstruction\nAbdominal pain\n\n\n\n\nCarcinoid Syndrome\nSyndrome associated with secretion of vasoactive mediators from the tumour. Carcinoid syndrome is:\n\nRare\n~10% of patients with carcinoid tumours.\nUnpredictable clinical effects\nVariable:\n\nSecretion of (usually) histamine and serotonin\nFirst-pass hepatic metabolism\nDepending on location.\n\nUsually intermittent symptoms\nAssociated with:\n\nExercise\nTyramine ingestion\nCheese, chocolate.\n\nCommon symptoms:\n\nFlushing (80%)\nDiarrhoea (70%)\n\nLess common symptoms:\n\nLacrimation\nRhinorrhoea\nBronchospasm\nCarcinoid heart disease\n\n\n\n\nCarcinoid Heart Disease\nCharacteristic cardiac lesions:\n\nAssociated with high circulating 5-HT\nRarely seen if 5-HIAA levels are ≤50mg/24 hours.\nClassically right-sided endocardial thickening:\n\nLeads to retraction and fixation of valve leaflets\nTR near-universal\nTS, PR, and PS may occur\n\nLeft sided disease may occur in the presence of an intracardiac shunt (e.g. PFO) that leads to serotonin entering left-sided chambers\n\n\n\nCarcinoid Crises\nExaggerated form of carcinoid syndrome that is:\n\nPotentially fatal\nAssociated with medical intervention\nCharacterised by:\n\nProfound flushing\nBronchospasm\nTachycardia\nWidely fluctuating BP\n\n\nRequires octreotide to control haemodynamics\n0.5-1mg IV followed by infusion of 50-200μg/hr."
   },
   {
-    "objectID": "disease/endo/carcinoid.html#diagnostic-approach-and-ddx",
-    "href": "disease/endo/carcinoid.html#diagnostic-approach-and-ddx",
+    "objectID": "disease/onc/carcinoid.html#diagnostic-approach-and-ddx",
+    "href": "disease/onc/carcinoid.html#diagnostic-approach-and-ddx",
     "title": "Carcinoid",
     "section": "Diagnostic Approach and DDx",
     "text": "Diagnostic Approach and DDx"
   },
   {
-    "objectID": "disease/endo/carcinoid.html#investigations",
-    "href": "disease/endo/carcinoid.html#investigations",
+    "objectID": "disease/onc/carcinoid.html#investigations",
+    "href": "disease/onc/carcinoid.html#investigations",
     "title": "Carcinoid",
     "section": "Investigations",
     "text": "Investigations\nTumour activity:\n\nBlood\n\nPlasma CgA\nLFTs\nCoags\nUECs\nS. Protein\n\nUrine\n\n24 hour 5-HIAA levels\nSerotonin metabolite.\n\n\nTumour localisation:\n\nOctreotide scan\nGallium PET/CT\nEchocardiography"
   },
   {
-    "objectID": "disease/endo/carcinoid.html#management",
-    "href": "disease/endo/carcinoid.html#management",
+    "objectID": "disease/onc/carcinoid.html#management",
+    "href": "disease/onc/carcinoid.html#management",
     "title": "Carcinoid",
     "section": "Management",
     "text": "Management\n\nMedical\nPremedication:\n\nOctreotide therapy\n\n100-500μg/day in divided doses\n30-60mg long-acting octreotide given IM every 4 weeks\n\n\n\n\nSurgical\n\n\nAnaesthetic Considerations\n\nSurgery should proceed when: * Symptom control achieved * 2 weeks after last long-acting octreotide dose\n\nPremedication:\n\nOctreotide\n\nGive usual dose of subcutaneous octreotide or 500μg (if untreated, or emergency) 2 hours pre-surgery\nCommence infusion at 1μg/kg/hr in holding bay, prior to insertion of invasive monitoring\n\nRanitidine 50mg IV/150mg PO 2 hours prior\nPromethazine 12.5mg IV/10-20mg PO 2 hours prior\nOndansetron 4-8mg IV 2 hours prior\nDexamethasone 2-4mg IV\nFor gastric neuroendocrine tumours.\n\nGeneral:\n\nDisposition:\n\nHDU post-operatively\n\nHaemodynamic monitoring\nContinuation of octreotide infusion\n\nEndocrinology involvement\n\nB\n\nPerioperative bronchospasm\n\nOctreotide 10-200μg boluses\nAntihistamine\nIpratropium nebuliser\nSteroid\n\n\nC\n\nECG\nTTE\nArterial line\nCVC\nCardiac disease\n\nCarcinoid cardiac disease\nCoronary spasm\nErratic BP\nHypo- or hypertensive crises may:\n\nOccur due to variation in hormone secretion\nUnresponsive to conventional vasoactives\n\n\nHaemodynamic goals\n\nDeep, stable anaesthesia prior to resection\nAvoid:\n\nMorphine\nAtracurium\nSuxamethonium\n\nLow CVP during resection\nAvoid inotropes and vasopressors\nUnpredictable and potentially paradoxical response.\n\nNoradrenaline may release kallikrein from tumour, leading to vasodilation\nExaggerated hypertension also described\nVasopressin is appropriate to use as a vasopressor, if required.\nShort-acting α-blockade ideal for managing persistent hypertension\n\n\nPerioperative hypotension\n\nInform surgeon\nCease tumour handling\nOctreotide bolus, 10-100μg\nPhenylephrine 50-100μg bolus\nAvoid indirect acting adrenergics\n\nCautious use acceptable for inotropy if on octreotide\n\nConsider steroids, calcium, and vasopressin for unresponsive hypotension\n\nPerioperative hypertension\n\n↑ depth of anaesthesia\nOctreotide 10-200μg bolus\nLabetalol, GTN, and esmolol if unresponsive\n\n\nD\n\nConsider epidural if major abdominal surgery\nAvoid loading until after tumour resection to avoid hypotension.\n\nE\n\nOctreotide infusion\nUsed to limit vasoactive crises. Octreotide has many effects, however its key:\n\nMechanism of action is via:\n\nReducing splanchnic blood flow\nReducing secretion of vasoactive peptides\n\nAdverse effects include:\n\nConduction defects\n\nQT prolongation\nBradycardia\n\nAbdominal cramps\n\n\n\n\n\n\nMarginal and Ineffective Therapies"
   },
   {
-    "objectID": "disease/endo/carcinoid.html#complications",
-    "href": "disease/endo/carcinoid.html#complications",
+    "objectID": "disease/onc/carcinoid.html#complications",
+    "href": "disease/onc/carcinoid.html#complications",
     "title": "Carcinoid",
     "section": "Complications",
     "text": "Complications"
   },
   {
-    "objectID": "disease/endo/carcinoid.html#prognosis",
-    "href": "disease/endo/carcinoid.html#prognosis",
+    "objectID": "disease/onc/carcinoid.html#prognosis",
+    "href": "disease/onc/carcinoid.html#prognosis",
     "title": "Carcinoid",
     "section": "Prognosis",
     "text": "Prognosis\nDeath:\n\n70% 5 year survival"
   },
   {
-    "objectID": "disease/endo/carcinoid.html#key-studies",
-    "href": "disease/endo/carcinoid.html#key-studies",
+    "objectID": "disease/onc/carcinoid.html#key-studies",
+    "href": "disease/onc/carcinoid.html#key-studies",
     "title": "Carcinoid",
     "section": "Key Studies",
     "text": "Key Studies"
   },
   {
-    "objectID": "disease/endo/carcinoid.html#references",
-    "href": "disease/endo/carcinoid.html#references",
+    "objectID": "disease/onc/carcinoid.html#references",
+    "href": "disease/onc/carcinoid.html#references",
     "title": "Carcinoid",
     "section": "References",
     "text": "References\n\nCarcinoid: the disease and its implications for anaesthesia. BJA Education. Accessed December 9, 2019."
@@ -14350,69 +14427,6 @@
     "text": "References\n\nDevaney B, Frawley G, Frawley L, Pilcher DV. Necrotising soft tissue infections: the effect of hyperbaric oxygen on mortality. Anaesth Intensive Care. 2015 Nov;43(6):685-92. PubMed PMID: 26603791.\nLevett D, Bennett MH, Millar I. Adjunctive hyperbaric oxygen for necrotizing fasciitis. Cochrane Database of Systematic Reviews 2015, Issue 1. Art. No.: CD007937."
   },
   {
-    "objectID": "disease/tox/serotonin_syndrome.html#epidemiology-and-risk-factors",
-    "href": "disease/tox/serotonin_syndrome.html#epidemiology-and-risk-factors",
-    "title": "Serotonin Syndrome",
-    "section": "Epidemiology and Risk Factors",
-    "text": "Epidemiology and Risk Factors"
-  },
-  {
-    "objectID": "disease/tox/serotonin_syndrome.html#pathophysiology",
-    "href": "disease/tox/serotonin_syndrome.html#pathophysiology",
-    "title": "Serotonin Syndrome",
-    "section": "Pathophysiology",
-    "text": "Pathophysiology\nExcessive serotonin activity at 5-HT2 receptors in the CNS."
-  },
-  {
-    "objectID": "disease/tox/serotonin_syndrome.html#clinical-manifestations",
-    "href": "disease/tox/serotonin_syndrome.html#clinical-manifestations",
-    "title": "Serotonin Syndrome",
-    "section": "Clinical Manifestations",
-    "text": "Clinical Manifestations\nCareful and detailed drug history is essential:\n\nMany drugs influence serotonergic neurotransmitters\nMany drugs listed with serotonin syndrome as a side effect will rarely cause\nMany contributing drugs have:\n\nPersistent activity\ne.g. Irreversible MAO.\nLong half-lives\nMay have been stopped weeks prior.\n\nUse of herbal remedies\nUse of illicit substances\n\nPresentation:\n\nToxicity usually within hours of ingestion\nDiagnosis requires:\n\nOverdose of serotonergic drug\n↑ in dose of serotonergic drug\nAddition of a second sertonergic drug\n\nClassic triad of:\n\nNeuromuscular excitation\nHyperreflexia, myoclonus, rigidity.\n\nGeneralised clonus is classical, and may be:\n\nInducible\nAnkle dorsiflexion.\nSpontaneous\nGenerally rhythmic, large muscle contractions triggered by minor stimulus.\nOcular\nMay be fine or coarse gaze oscillations.\n\n\nAutonomic nervous system excitation\nNausea, diarrhoea, hypertension, tachycardia, hyperthermia, severe hyperthermia.\nAltered mental state\nInsomnia, anxiety, agitation, confusion, coma.\n\nSevere serotonin toxicity is characterised by:\n\nRapid hyperthermia\nMuscle rigidity\n\n\n\nDiagnostic Criteria\nHunter Serotonin Toxicity Criteria:\n\nSertonergic agent\nDose ↑, overdose, or new agent.\n\nSpontaneous clonus\n\nYes\nSerotonin toxicity.\nNo\nInducible clonus or Ocular Clonus?\n\nYes\nAgitation or diaphoresis or (hypertonia and temperature ⩾38°C)?\n\nYes\nSerotonin toxicity.\nNo\nGo to tremor and hyperreflexia.\n\nNo\nTremor and hyperreflexia?\n\nYes\nSerotonin toxicity.\nNo\nNo serotonin toxicity.\n\n\n\n\n\n\n\nDrugs Associated with Moderate to Severe Serotonin Toxicity\nInclude:\n\nMonoamine oxidase inhibitors\n\nIrreversible inhibitors\n\nPhenelzine\nTranylcypromine\nIproniazid\nIsocarboxazid\n\nReversible inhibitors of MAO-A\n\nMoclobemide\n\nNon-psychotropic drugs\n\nLinezolid\nMethylene blue\n\n\nSerotonin releasing agents\n\nSSRIs\nSNRIs\nTCAs\nOpioids\n\nFentanyl\nTramadol\nPethidine\nDextromethorphan\n\nAmphetamines\nSynethetic stimulates\n\nEcstasy\nBath salts\n\nHerbal\n\nSt John’s Wort\n\n\nOther\n\nLithium\nBuspirone\nTryptophan\n\n\n\n\nDrugs Without Significant Risk of Toxicity\nSerotonin antagonists, or those that do not agnoise 5-HT2:\n\nAntipsychotics\nAnxiolytics\nAnti-migraine drugs\nAntiemetics"
-  },
-  {
-    "objectID": "disease/tox/serotonin_syndrome.html#diagnostic-approach-and-ddx",
-    "href": "disease/tox/serotonin_syndrome.html#diagnostic-approach-and-ddx",
-    "title": "Serotonin Syndrome",
-    "section": "Diagnostic Approach and DDx",
-    "text": "Diagnostic Approach and DDx\nKey differentials include:\n\nAlcohol withdrawal\nDrug withdrawal\nNon-convulsive seizures\nEncephalitis\nNeuroleptic Malignant Syndrome\n\n\nDifferentiating from Neuroleptic Malignant Syndrome\nKey differentiating features are that NMS has:\n\nA slow onset over days\nExtrapyramidal features and rigidity\nNo clonus"
-  },
-  {
-    "objectID": "disease/tox/serotonin_syndrome.html#investigations",
-    "href": "disease/tox/serotonin_syndrome.html#investigations",
-    "title": "Serotonin Syndrome",
-    "section": "Investigations",
-    "text": "Investigations\nDiagnosis is clinical. Investigations usually targeted towards ruling out other causes, or identifying complications.\nBloods:\n\nUEC/\nRhabdomyolysis.\nCoagulation screen\nDIC.\n\nImaging:\n\nCTB\n\nOther:\n\nLP\nEncephalitis.\nEEG"
-  },
-  {
-    "objectID": "disease/tox/serotonin_syndrome.html#management",
-    "href": "disease/tox/serotonin_syndrome.html#management",
-    "title": "Serotonin Syndrome",
-    "section": "Management",
-    "text": "Management\n\nLargely consists of sedation Prevention of hyperthermia is critical in severe toxicity Evidence for specific antidotes is lacking\n\nPrinciples of management:\n\nCease agent\nSupportive care\n\nA\n\nIntubation may be required to control temperature\n\nB\nC\n\nVolume resucitation\n\nD\n\nSedation\n\nReduces musclea activity\n\n\nE\n\nPrevent hyperthermia\n\nBeneficial as:\n\nReduces complications\nDown regulates 5-HT2a receptors\n\nMethods:\n\nActive cooling\nParalyis and ventilation\n\n\n\n\nSpecific agents\nIn severe cases, seek toxicology advice:\n\nChlorpromazine\n\nMost commonly used\nRequires pre-load with IV fluid\n\nCyproheptadine\nSerotonin and histamine antagonist.\n\nNo significant differences in severe cases in a retrospective review\n\n\n\n\nAnaesthetic Considerations\n\n\nMarginal and Ineffective Therapies"
-  },
-  {
-    "objectID": "disease/tox/serotonin_syndrome.html#complications",
-    "href": "disease/tox/serotonin_syndrome.html#complications",
-    "title": "Serotonin Syndrome",
-    "section": "Complications",
-    "text": "Complications\nInclude:\n\nHyperthermia related\n\nRhabdomyloysis\nDIC\nMultiorgan failure\n\nARDS"
-  },
-  {
-    "objectID": "disease/tox/serotonin_syndrome.html#prognosis",
-    "href": "disease/tox/serotonin_syndrome.html#prognosis",
-    "title": "Serotonin Syndrome",
-    "section": "Prognosis",
-    "text": "Prognosis\nMild:\n\nWill not progress to severe toxicity without:\n\nDose escalation\nDrug interactions\n\nModerate:\n\nUsually resolves over 1-3 days following cessation\n\nSevere\nMedical emergency. Requires:\n\nAggressive supportive care\nConsideration of specific reversal agents"
-  },
-  {
-    "objectID": "disease/tox/serotonin_syndrome.html#references",
-    "href": "disease/tox/serotonin_syndrome.html#references",
-    "title": "Serotonin Syndrome",
-    "section": "References",
-    "text": "References\n\nBuckley NA, Dawson AH, Isbister GK. Serotonin syndrome. BMJ. 2014 Feb 19;348(feb19 6):g1626–g1626.\nNguyen H, Pan A, Smollin C, Cantrell LF, Kearney T. An 11-year retrospective review of cyproheptadine use in serotonin syndrome cases reported to the California Poison Control System. J Clin Pharm Ther. 2019 Apr;44(2):327–34."
-  },
-  {
     "objectID": "disease/tox/paracetamol.html#epidemiology-and-risk-factors",
     "href": "disease/tox/paracetamol.html#epidemiology-and-risk-factors",
     "title": "Paracetamol Toxicity",
@@ -14488,6 +14502,90 @@
     "title": "Paracetamol Toxicity",
     "section": "References",
     "text": "References"
+  },
+  {
+    "objectID": "disease/tox/chemo_toxicity.html#immunotherapy-toxicity",
+    "href": "disease/tox/chemo_toxicity.html#immunotherapy-toxicity",
+    "title": "Chemotherapy Toxicities",
+    "section": "Immunotherapy Toxicity",
+    "text": "Immunotherapy Toxicity\nImmunotherapeutics are biological therapies that augment the immune system to destroy cancer cells, and have revolutionised the treatment of many malignancies with traditionally poor prognoses. Adverse effects of immunotherapy relate to augmented immune function and include:\n\nB\n\nPneumonitis\n\nC\n\nMyocarditis\nPericarditis\nVasculitis\nArrhythmia\nACS\n\nD\n\nUveitis\nEncephalopathy\n1-5%.\n\nE\n\nThyroiditis\nDiabetes\nHypophysitis\n\nG\n\nColitis\nHepatitis\n5-10%.\nPancreatitis\nCholangitis\n\nI\n\nDermatitis\nMost common side effect.\n\nMaculopapular rashes\nLichenoid eruptions\n\n\n\nManagement:\n\nPredominantly supportive\nAgents may be continued, adjusted, or ceased depending on the nature and severity of toxicity\nImmunosuppressants may be required, including:\n\nSteroids\nInfliximab\nTacrolimus\nMycophenolate"
+  },
+  {
+    "objectID": "disease/tox/chemo_toxicity.html#agent-specific-toxicities",
+    "href": "disease/tox/chemo_toxicity.html#agent-specific-toxicities",
+    "title": "Chemotherapy Toxicities",
+    "section": "Agent-Specific Toxicities",
+    "text": "Agent-Specific Toxicities\nChemotherapeutic agents with unique toxidromes include:\n\nAnthracyclines\n\nInclude daunorubicin, doxorubicin, epirubicin\nCause acute or chronic heart failure\n\nAcute typically arrhythmia or cardiogenic shock\nChronic typically a dose-dependent cardiomyopathy\n\nMay present 3 months to years following chemotherapy\nStandard heart failure treatment applies\n\n\n\nBleomycin\n\nAntibiotic that destroys DNA by generation of oxygen free-radicals\nUsed in cervical, germ cell, and head and neck tumours\nCauses pneumonitis in 40%\n\nVia generation of oxygen free radicals with alveolitis and fibrosis\nCondition is exacerbated by ↑ FiO2, which should be avoided.\n~2% mortality\n\n\nIfosfamide\n\nAklylating agent\nUsed in cervical, ovarian, breast, lung, and head and neck cancer\nEncephalopathy in 10-20%\n\nVariable severity from confusion to coma\nLikely due to direct toxicity from metabolites\nMethylene blue 50mg IV Q6H is therapeutic\n\n\nTrastuzumab (Herceptin)\n\nCauses dose-independent myocardial dysfunction\n\nCommonly combined with anthracyclines which ↑ risk\nReversible myocardial stunning - can be resumed when myocardial function recovers"
+  },
+  {
+    "objectID": "disease/tox/chemo_toxicity.html#references",
+    "href": "disease/tox/chemo_toxicity.html#references",
+    "title": "Chemotherapy Toxicities",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.\nJ. Haanen, M. Obeid, L. Spain, et al. Management of toxicities from immunotherapy: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Annals of Oncology. Published online: 18 October 2022."
+  },
+  {
+    "objectID": "disease/tox/serotonin_syndrome.html#epidemiology-and-risk-factors",
+    "href": "disease/tox/serotonin_syndrome.html#epidemiology-and-risk-factors",
+    "title": "Serotonin Syndrome",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors"
+  },
+  {
+    "objectID": "disease/tox/serotonin_syndrome.html#pathophysiology",
+    "href": "disease/tox/serotonin_syndrome.html#pathophysiology",
+    "title": "Serotonin Syndrome",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\nExcessive serotonin activity at 5-HT2 receptors in the CNS."
+  },
+  {
+    "objectID": "disease/tox/serotonin_syndrome.html#clinical-manifestations",
+    "href": "disease/tox/serotonin_syndrome.html#clinical-manifestations",
+    "title": "Serotonin Syndrome",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations\nCareful and detailed drug history is essential:\n\nMany drugs influence serotonergic neurotransmitters\nMany drugs listed with serotonin syndrome as a side effect will rarely cause\nMany contributing drugs have:\n\nPersistent activity\ne.g. Irreversible MAO.\nLong half-lives\nMay have been stopped weeks prior.\n\nUse of herbal remedies\nUse of illicit substances\n\nPresentation:\n\nToxicity usually within hours of ingestion\nDiagnosis requires:\n\nOverdose of serotonergic drug\n↑ in dose of serotonergic drug\nAddition of a second sertonergic drug\n\nClassic triad of:\n\nNeuromuscular excitation\nHyperreflexia, myoclonus, rigidity.\n\nGeneralised clonus is classical, and may be:\n\nInducible\nAnkle dorsiflexion.\nSpontaneous\nGenerally rhythmic, large muscle contractions triggered by minor stimulus.\nOcular\nMay be fine or coarse gaze oscillations.\n\n\nAutonomic nervous system excitation\nNausea, diarrhoea, hypertension, tachycardia, hyperthermia, severe hyperthermia.\nAltered mental state\nInsomnia, anxiety, agitation, confusion, coma.\n\nSevere serotonin toxicity is characterised by:\n\nRapid hyperthermia\nMuscle rigidity\n\n\n\nDiagnostic Criteria\nHunter Serotonin Toxicity Criteria:\n\nSertonergic agent\nDose ↑, overdose, or new agent.\n\nSpontaneous clonus\n\nYes\nSerotonin toxicity.\nNo\nInducible clonus or Ocular Clonus?\n\nYes\nAgitation or diaphoresis or (hypertonia and temperature ⩾38°C)?\n\nYes\nSerotonin toxicity.\nNo\nGo to tremor and hyperreflexia.\n\nNo\nTremor and hyperreflexia?\n\nYes\nSerotonin toxicity.\nNo\nNo serotonin toxicity.\n\n\n\n\n\n\n\nDrugs Associated with Moderate to Severe Serotonin Toxicity\nInclude:\n\nMonoamine oxidase inhibitors\n\nIrreversible inhibitors\n\nPhenelzine\nTranylcypromine\nIproniazid\nIsocarboxazid\n\nReversible inhibitors of MAO-A\n\nMoclobemide\n\nNon-psychotropic drugs\n\nLinezolid\nMethylene blue\n\n\nSerotonin releasing agents\n\nSSRIs\nSNRIs\nTCAs\nOpioids\n\nFentanyl\nTramadol\nPethidine\nDextromethorphan\n\nAmphetamines\nSynethetic stimulates\n\nEcstasy\nBath salts\n\nHerbal\n\nSt John’s Wort\n\n\nOther\n\nLithium\nBuspirone\nTryptophan\n\n\n\n\nDrugs Without Significant Risk of Toxicity\nSerotonin antagonists, or those that do not agnoise 5-HT2:\n\nAntipsychotics\nAnxiolytics\nAnti-migraine drugs\nAntiemetics"
+  },
+  {
+    "objectID": "disease/tox/serotonin_syndrome.html#diagnostic-approach-and-ddx",
+    "href": "disease/tox/serotonin_syndrome.html#diagnostic-approach-and-ddx",
+    "title": "Serotonin Syndrome",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx\nKey differentials include:\n\nAlcohol withdrawal\nDrug withdrawal\nNon-convulsive seizures\nEncephalitis\nNeuroleptic Malignant Syndrome\n\n\nDifferentiating from Neuroleptic Malignant Syndrome\nKey differentiating features are that NMS has:\n\nA slow onset over days\nExtrapyramidal features and rigidity\nNo clonus"
+  },
+  {
+    "objectID": "disease/tox/serotonin_syndrome.html#investigations",
+    "href": "disease/tox/serotonin_syndrome.html#investigations",
+    "title": "Serotonin Syndrome",
+    "section": "Investigations",
+    "text": "Investigations\nDiagnosis is clinical. Investigations usually targeted towards ruling out other causes, or identifying complications.\nBloods:\n\nUEC/\nRhabdomyolysis.\nCoagulation screen\nDIC.\n\nImaging:\n\nCTB\n\nOther:\n\nLP\nEncephalitis.\nEEG"
+  },
+  {
+    "objectID": "disease/tox/serotonin_syndrome.html#management",
+    "href": "disease/tox/serotonin_syndrome.html#management",
+    "title": "Serotonin Syndrome",
+    "section": "Management",
+    "text": "Management\n\nLargely consists of sedation Prevention of hyperthermia is critical in severe toxicity Evidence for specific antidotes is lacking\n\nPrinciples of management:\n\nCease agent\nSupportive care\n\nA\n\nIntubation may be required to control temperature\n\nB\nC\n\nVolume resucitation\n\nD\n\nSedation\n\nReduces musclea activity\n\n\nE\n\nPrevent hyperthermia\n\nBeneficial as:\n\nReduces complications\nDown regulates 5-HT2a receptors\n\nMethods:\n\nActive cooling\nParalyis and ventilation\n\n\n\n\nSpecific agents\nIn severe cases, seek toxicology advice:\n\nChlorpromazine\n\nMost commonly used\nRequires pre-load with IV fluid\n\nCyproheptadine\nSerotonin and histamine antagonist.\n\nNo significant differences in severe cases in a retrospective review\n\n\n\n\nAnaesthetic Considerations\n\n\nMarginal and Ineffective Therapies"
+  },
+  {
+    "objectID": "disease/tox/serotonin_syndrome.html#complications",
+    "href": "disease/tox/serotonin_syndrome.html#complications",
+    "title": "Serotonin Syndrome",
+    "section": "Complications",
+    "text": "Complications\nInclude:\n\nHyperthermia related\n\nRhabdomyloysis\nDIC\nMultiorgan failure\n\nARDS"
+  },
+  {
+    "objectID": "disease/tox/serotonin_syndrome.html#prognosis",
+    "href": "disease/tox/serotonin_syndrome.html#prognosis",
+    "title": "Serotonin Syndrome",
+    "section": "Prognosis",
+    "text": "Prognosis\nMild:\n\nWill not progress to severe toxicity without:\n\nDose escalation\nDrug interactions\n\nModerate:\n\nUsually resolves over 1-3 days following cessation\n\nSevere\nMedical emergency. Requires:\n\nAggressive supportive care\nConsideration of specific reversal agents"
+  },
+  {
+    "objectID": "disease/tox/serotonin_syndrome.html#references",
+    "href": "disease/tox/serotonin_syndrome.html#references",
+    "title": "Serotonin Syndrome",
+    "section": "References",
+    "text": "References\n\nBuckley NA, Dawson AH, Isbister GK. Serotonin syndrome. BMJ. 2014 Feb 19;348(feb19 6):g1626–g1626.\nNguyen H, Pan A, Smollin C, Cantrell LF, Kearney T. An 11-year retrospective review of cyproheptadine use in serotonin syndrome cases reported to the California Poison Control System. J Clin Pharm Ther. 2019 Apr;44(2):327–34."
   },
   {
     "objectID": "disease/obs/preg.html#physiol",
