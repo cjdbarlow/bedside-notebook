@@ -1,0 +1,167 @@
+# Organ Donation {#sec-organdonation}
+
+:::info
+This is specific to organ donation in the Australian context.
+:::
+
+:::column-margin
+This covers medical elements of organ donation. Discussing organ donation with family is covered in @sec-donorconvo.
+:::
+
+There are several principles that guide the process of organ donation in the Australian context, that arise from various bodies:
+
+* Legislature
+	* Organ donation should be an unconditionally altruistic and non-commercial act
+	* Organ donation is an opt-out process\
+	Evidence is unclear if changing to an opt-in model ↑ donation.
+* ANZICS
+	* No financial benefit should occur to any organisation or person from organ donation
+	* Conditional donation should be refused\
+	Family request that donation only goes to a certain sort of individual (positive condition) or not to a certain sort (negative condition).
+	* Directed donation is permissible under certain circumstances\
+	Donation after death of organs to a named individual.
+	* Irrespective of patient's known wishes, the family should be contacted to discuss donation and donation should not proceed if the family does not agree
+	* Tissue donation should be offered to the family of all dying patients in the hospital
+
+
+## Suitability
+
+:::tick
+All patients near to the end of life should be referred for consideration of organ donation.
+:::
+
+Suitability for organ donation is:
+
+* Highly dynamic\
+Varies with recipient/waiting list requirements. 
+* Without fixed criteria\
+Diseases commonly (but not exclusively) considered contraindications include:
+	* Malignancy
+	* Active infection
+		* Meningococcal
+		* Hepatitis
+		* HIV
+
+
+## Death
+
+Donation can occur after:
+
+* **Brain death**\
+Forms 75-90% of total donors, and considered in patients proceeding towards brain death.
+* **Circulatory death**\
+Considered in ventilated patients in whom life-sustaining treatment is to be withdrawn, and death is likely to occur in a period that permits organ retrieval for transplantation.
+	* The decision for DCD should:
+		* Only be considered after consensus reached that active treatment is no longer in the patients interest
+		* Not include any member of the donation, transplant, or retrieval teams
+		* Not influence the administration of sedatives or analgesics
+		* Be raised with a family when:
+			* End of life care is proceeding
+			* The family are in favour of organ donation
+			* The patient is likely to become brain dead, but has not yet done so
+	* Leads to **warm ischaemic time**\
+	Period during which the organs are still warm, but hypoperfused following circulatory death. Warm ischaemic time is:
+		* The time from circulatory arrest to the time of perfusion with cold preservation solution during retrieval
+		* Related to the **agonal time**\
+		Time from cessation of cardiorespiratory support until circulatory arrest. An agonal time **>90 minutes** usually **precludes donation**, and **occurs** in ~**30%** of patients.
+		* Related to the **functional warm ischaemic time**\
+		Time from SBP <50mmHg to the time of cold perfusion.
+		* Associated with ↑ complications and ↓ graft function:
+			* Delayed graft function
+			* Primary graft dysfunction
+			* Organ-specific ischaemia
+				* Biliary strictures
+
+:::column-margin
+Acceptable warm ischaemic times vary depending on the organ:
+
+* Liver, pancreas: <30 minutes warm ischaemic time
+* Heart: <30 minutes from SBP <90 mmHg to cold perfusion
+* Kidneys: <60 minutes functional warm ischaemic time
+* Lungs: <90 minute functional warm ischaemic time
+:::
+
+
+### Outcomes
+
++----------+------------------------+----------------------------+
+| Organ    | Brain Death            | Circulatory Death          |
++==========+========================+============================+
+| Lung     | - 97% 1-year survival  | - 97% 1-year survival      |
+|          | - 90% 5-year survival  | - 90% 5-year survival      |
++----------+------------------------+----------------------------+
+| Heart    |                        |                            |
++----------+------------------------+----------------------------+
+| Liver    | - Better than DCD      | - 75% 5-year survival      |
++----------+------------------------+----------------------------+
+| Pancreas |                        | - 83% 1-year survival      |
+|          |                        | - 72% 5-year survival      |
++----------+------------------------+----------------------------+
+| Kidney   | - ~86% 5-year survival | - ~86% 5-year survival     |
+|          |                        | - ↑ Delayed graft function |
++----------+------------------------+----------------------------+
+
+
+: Comparison of Recipient Outcomes after Donation
+
+### Antemortem Intervention
+
+Interventions to ↑ organ viability are appropriate if:
+
+* The patient wanted to be an organ donor
+* The family has made an informed decision, and consent obtained
+* The interventions do not shorten life or compromise care
+* Measures are taken to prevent pain or discomfort
+
+### Process
+
+1. Routine referral of all patients who are likely to die for suitability of organ donation\
+This includes checking the organ donation register to ascertain the patients wishes.
+2. Discussion with the family (and rarely, patient, if competent) that the patient is likely to die
+	* In DBD, this may be raising the chance of brain death having occurred and the need to perform further testing to confirm this
+	* In DCD, this may include discussion of futility of continuing treatment
+2. Determination of suitability of organ donation\
+By the intensivist and donation team.
+3. Discussion with the family about organ donation\
+A separate conversation from the end of life conversation, which includes:
+	* Donation process
+	* Formal consent
+	* If relevant, discussing:
+		* Coronial consent
+		* DCD
+			* Risk of a failed donation if agonal time exceeded
+			* Determination of death
+4. Donor assessment
+	* Blood
+	* Tissue typing
+	* Other tests as suitable
+5. Retrieval and transplant team meeting\
+	* Brief discussion of the relevant details of the donors
+	* Discussion of the recipients
+	* Logistical plan
+6. For DCD, the withdrawal of cardiorespiratory support
+	* Negotiation of time and place\
+	May occur:	
+		* In ICU:
+			* Family can be with the patient at time of death
+			* Patient does not have to be moved if agonal time exceeded
+			* Rapid transfer to the OR is required following death\
+			May introduce delays that limit organ donation.
+		* In OR:
+			* Limit family presence
+			* ↑ Speed of retrieval
+		* Near the OR\
+		Hybrid approach of the above.
+	* Appropriate prevision of sedation and analgesia\
+	Should be given by the intensivist, and not by the anaesthetist or transplant team.
+	* The surgical team should not be present in the ICU
+7. Organ retrieval
+8. Transfer of organs to the transplant centre
+9. Implantation 
+
+
+---
+
+## References
+
+1. ANZICS. [The Statement on Death and Organ Donation](https://www.anzics.com.au/wp-content/uploads/2022/04/ANZICS-Statement-on-Death-and-Organ-Donation.pdf). Edition 4.1. 2021.

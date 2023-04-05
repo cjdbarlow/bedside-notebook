@@ -18,7 +18,7 @@ But is technically harder to perform.
 
 ## Anatomy
 
-{{< include /includes/ul-neuro.qmd >}}
+{{< include /includes/ul_neuro.qmd >}}
 
 ## Equipment
 

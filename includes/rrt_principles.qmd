@@ -1,0 +1,12 @@
+All methods of renal replacement therapy rely on one or more basic physical principles:
+
+* **Ultrafiltration**\
+Generation of a **transmembrane pressure** that exceeds the oncotic pressure, resulting in net loss of water across the dialysis membrane. This is achieved by:
+	* Relative pressurisation of the blood relative to the dialysate, ↑ hydrostatic pressure
+	* ↑ Osmolality of the dialysate, drawing water across the membrane
+* **Diffusion**\
+Generation of an **electro-chemical gradient** across the membrane. Rate of diffusion is affected by:
+	* Molecular weight
+	* Membrane porosity
+	* Blood flow rate
+* **Convection** (Solvent drag)\

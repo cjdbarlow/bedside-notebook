@@ -76,13 +76,15 @@ book:
             - assessment/anaesthetic/preanaesthetic.qmd
             - assessment/anaesthetic/paeds.qmd
             - assessment/anaesthetic/intraoperative.qmd
+            - part: <hr>
             - assessment/anaesthetic/machine.qmd
         - part: "Critical Care"
           chapters:
             - assessment/critical/basic.qmd
             - assessment/critical/neuro.qmd
             - part: <hr>
-            - assessment/critical/braindeath.qmd
+            - assessment/critical/brain_death.qmd
+            - assessment/critical/circ_death.qmd
         - part: "Trauma"
           chapters:
             - assessment/trauma/primary.qmd
@@ -109,6 +111,7 @@ book:
             - management/communication/family.qmd
             - management/communication/sdm.qmd
             - management/communication/bad.qmd
+            - management/communication/organ.qmd
             - management/communication/disclosure.qmd
             - management/communication/colleagues.qmd   
             - management/communication/feedback.qmd    
@@ -203,9 +206,10 @@ book:
                 - management/fluid/hypona.qmd
                 - management/fluid/hypoca.qmd
                 - management/fluid/hyperca.qmd
-            - part: "Haemofiltration"
+            - part: "Renal Replacement"
               chapters:
-                - management/renal/rrt.qmd
+                - management/renal/overview.qmd
+                - management/renal/crrt.qmd
                 # HDx
                 # PD
                 # Haemoperfusion
@@ -454,11 +458,14 @@ book:
       chapters:
         - part: "Concepts"
           chapters:
-            - intensive/fasthugs.qmd
             - intensive/persistent.qmd
+            - intensive/design.qmd
+        - part: "General"
+          chapters:
+            - intensive/fasthugs.qmd
             - intensive/nutrition.qmd
             - intensive/physio.qmd
-            - intensive/design.qmd
+            - intensive/organ.qmd
         # FASTHUGS
         # Stress response
         - part: "Surgical"

@@ -1,0 +1,160 @@
+# Continuous Renal Replacement
+
+Form of extracorporeal blood purification using a continuous circuit, providing:
+
+* Continuous control of:
+	* Fluid status
+	* Acid-base status
+	* Electrolyte balance
+	* Intracerebral water
+* Good haemodynamic stability
+* Minimal infective risk
+* Facilitation of **renal recovery**
+
+## Principles
+
+{{< include /includes/rrt_principles.qmd >}}
+
+
+### Types of CRRT
+
+There are a number of technical variations of CRRT based on the physical principles used:
+
+* **Haemofiltration**\
+No dialysate is used.
+	* Ultrafiltration results in a solute-water mix filtered across the semi-permeable membrane\
+	* A substitution solution is used to replace lost volume\
+	The difference between the ultrafiltration volume produced and the substitution solution infused is the fluid removal.
+* **Haemodialysis**\
+Counter-current delivery of dialysis solution.
+	* Clearance is almost entirely by diffusion
+* **Haemodiafiltration**\
+Combination of:
+	* Counter-current dialysis solution\
+	Solute clearance by diffusion.
+	* Ultrafiltration\
+	Additional substitution solution used to replace lost volume.
+
+## Indications
+
+Indications for CRRT include:
+
+:::column-margin
+CRRT may be initiated in ICU based on anticipation of reaching these thresholds, or on a series of composite features that individually do not meet the threshold.
+:::
+
+* Established renal failure
+* Volume overload\
+With oliguria/anuria.
+* Solute
+	* Urea >35mmol/L
+	* Uraemic complications
+	* Hyperkalaemia
+	* Hyponatraemia <110mmol/L
+	* Hypernatraemia >160mmol/L
+* Other
+	* Dialysable toxin
+	* Hyperthermia >40°C
+
+
+## Contraindications
+
+## Equipment
+
+Vascular dialysis catheter:
+
+* Uncuffed, non-tunnelled catheter
+* Preferentially sited in:
+	* Right IJV
+	* Femoral vin
+	* Left IJV
+	* Dominant SCV  
+	Risk of central vein stenosis with SCV insertion.
+	* Non-dominant SCV
+* Positioned at the junction of the SCV and RA
+	* Risk of atrial erosion if in too far
+	* Risk of central vein stenosis if abutting SVC 
+
+## Technique
+
+Clinician-adjustable values in CRRT include:
+
+* Dose\
+Effluent production in ml/kg/hr.
+	* 25-30ml/kg/hr 
+
+
+
+## Anticoagulation
+
+Anticoagulation is frequently used to prevent clotting of the filter and circuit, but must be balanced against risks of bleeding. In general:
+
+* Circuit anticoagulation is recommended when patient is:
+	* Not coagulopathic
+	* Not systemically anticoagulated
+* Citrate is preferred if there is no contraindication
+* UFH is used if citrate is contraindicated
+* If there is an ↑ bleeding risk:
+	* Use regional citrate/calcium in CRRT
+	* Avoid regional UFH/LMWH  
+	If citrate is contraindicated, then no anticoagulation should be used.
+* For patients with contraindications to citrate and UFH, and without coagulopathy:
+	* Anticoagulation is still recommended
+	* Direct thrombin inhibitors (argatroban)  
+	Contraindicated in hepatic failure.
+	* Factor Xa inhibitors  
+	Danaparoid, fondaparinux.
+
+
+:::column-margin
+Acceptable filter life is ~24 hours.
+:::
+
++-------------------------------------------------+---------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------------------------------------------------------------------+
+| Technique                                       | Method                                                                                      | Advantages                                                                                  | Disadvantages                                                              |
++=================================================+=============================================================================================+=============================================================================================+============================================================================+
+| No anticoagulant                                |                                                                                             | - Used in patients with endogenous coagulopathy or other contraindication                   |                                                                            |
++-------------------------------------------------+---------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------------------------------------------------------------------+
+| Heparin alone                                   | Heparin <500 units/hr                                                                       | - Easy, cheap, familiar, available                                                          | - HITTS                                                                    |
+|                                                 |                                                                                             | - Minimal effect on systemic coagulation                                                    | - Heparin resistance                                                       |
+|                                                 |                                                                                             | - Therapeutic heparinisation can be used if systemic anticoagulation is indicated (e.g. PE) |                                                                            |
++-------------------------------------------------+---------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------------------------------------------------------------------+
+| Regional anticoagulation with citrate           | Citrate given into the access line and reversed with calcium given into the return line.    | - Regional anticoagulation reduces systemic haemorrhage                                     | - Special dialysate required                                               |
+|                                                 |                                                                                             | - Longer filter life                                                                        | - Citrate toxicity (especially hepatic failure, shock)\                    |
+|                                                 |                                                                                             | - ↓ Transfusion and major bleeding compared to UFH                                          | Metabolic acidosis, hypocalcaemia, widening total calcium:ionised calcium. |
++-------------------------------------------------+---------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------------------------------------------------------------------+
+| Regional anticoagulation with heparin/protamine | Heparin into access line and reversed with protamine at a fixed ratio into the return line. | - Easy, cheap, familiar, available                                                          | - HITTS                                                                    |
+|                                                 |                                                                                             | - Reversible                                                                                | - Heparin resistance                                                       |
+|                                                 |                                                                                             | - Can be monitored                                                                          | - Narrow TI                                                                |
+|                                                 |                                                                                             | - Short half-life                                                                           | - Unpredictable kinetics                                                   |
++-------------------------------------------------+---------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------------------------------------------------------------------+
+| Systemic low-molecular weight heparin           |                                                                                             | - Predictable kinetics                                                                      | - May accumulate in renal failure                                          |
+|                                                 |                                                                                             | - Does not require monitoring                                                               | - Requires anti-Xa for monitoring                                          |
+|                                                 |                                                                                             | - Less HITTS                                                                                | - Incompletely reversed with protamine                                     |
+|                                                 |                                                                                             |                                                                                             | - More expensive                                                           |
++-------------------------------------------------+---------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+----------------------------------------------------------------------------+
+
+: Comparison of Anticoagulation Techniques
+
+### Responding to Filter Clotting
+
+* Evaluate for mechanical causes\
+Cannula:
+	* Position
+	* Flow rates
+	* Kinking
+
+
+## Complications
+
+* Vascular access
+* Haemodynamic instability\
+More pronounced with more aggressive dialysis modes (particularly IHD).
+
+
+---
+
+## References
+
+1. Kidney Disease: Improving Global Outcomes (KDIGO) Acute Kidney Injury Work Group. [KDIGO Clinical Practice Guideline for Acute Kidney Injury](http://kdigo.org/wp-content/uploads/2016/10/KDIGO-2012-AKI-Guideline-English.pdf). Kidney inter., Suppl. 2012; 2: 1–138.
+2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

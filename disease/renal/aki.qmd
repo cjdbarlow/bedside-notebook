@@ -1,46 +1,54 @@
 # Acute Kidney Injury 
 
+A spectrum of acute glomerular dysfunction characterised by a ↓ UO and ↑ serum creatinine and urea, and defined by the KDIGO classification as an:
 
-AKI describes a syndrome of acute changes in renal function. AKI describes:
+:::column-margin
+Noting that KDIGO is an imperfect definition: not all AKI will fit into this criteria, and not all cases fitting the criteria are true AKI.
+:::
 
-* Both renal injury and renal impairment relative to physiological demand  
-This definition is useful as it correlates with mortality.
-	* Encompasses both ATN and ARF
-* Specific and non-specific kidney diseases  
-Multiple of which may coexist within one patient.
-* A clinical syndrome consisting of a **rapid ↓ in GFR, with concomitant rise in creatinine and urea**  
-The KDIGO classification defines (noting that not all AKI will fit into this criteria, and not all cases fitting the criteria are true AKI) as:  
-	* **↑** in serum **creatinine >26.5 μmol/L** within 48 hours  
-	Creatinine and GFR are the best overall index of renal function.
-		* This ↑ is independently associated with ↑ mortality
-		* Larger rises in creatinine are correlated with poorer survival
-	* **↑** in serum **creatinine >1.5x baseline** in the last 7 days  
-	Absolute rises are less accurate in patients with pre-existing renal impairment as an absolute change in GFR will cause a variable change in creatinine. 
-	* **Urine volume < 0.5ml/kg/hr** for 6 hours  
-	Urine output is a reasonably sensitive but not specific index of kidney function.
-		* A significant fall in GFR will immediately result in ↓ urine output, however serum creatinine will not rise for several hours
-		* Volume depletion and hypotension stimulate vasopressin secretion and water reabsorption
-		* Polyuria may occur when tubular function is impaired  
-		Impaired concentration of urine in the loop causes **non-oliguric renal failure**.
-		* Ideal body weight should be used instead of actual body weight in the obese population
+* **↑** In serum creatinine\
+	* Best overall index of renal function
+		* Independently associated with ↑ mortality\
+		Larger rises in creatinine are correlated with poorer survival
+		* Absolute rises are less accurate in patients with pre-existing renal impairment as an absolute change in GFR will cause a variable change in creatinine
+	* Only rises once ~50% of GFR is lost\
+	This can become apparent where a patient with normal premorbid renal function develops an AKI after a relatively trivial physiological insult.
+	* Lags with respect to "true" GFR, so does not reflect dynamic changes
+* **↓** In **urine output**\
+UO is a reasonably sensitive but not specific index of kidney function.
+	* A significant ↓ in GFR immediately results in ↓ UO, however serum creatinine will not rise for several hours
+	* Volume depletion and hypotension stimulate vasopressin secretion and water reabsorption
+	* Polyuria may occur when tubular function is impaired, even if hypovolaemic\
+	Impaired concentration of urine in the loop causes **non-oliguric renal failure**.
+	* Ideal body weight should be used instead of actual body weight in the obese population for UO calculation
 * Diagnosis is more complex in the critically ill due to lack of steady-state conditions, variable rate of creatinine production, and variable rate of elimination
 
-The KDIGO classification stages AKI as follows:
 
-|Stage|Creatinine|Urine Output|
-|---|---|
-|1|1.5-1.9x baseline OR<br> ⩾26.5 μmol/L ↑ in Cr|⩽0.5ml/kg/hr for 6-12 hours|
-|2|2-2.9x baseline|⩽0.5ml/kg/hr for ⩾12 hours|
-|3|3x baseline OR<br> Cr ⩾354μmol/L OR<br> Initiation of RRT OR<br> eGFR ⩽35ml/min/1.73m^2^ in children|⩽0.3ml/kg/hr for ⩾24 hours OR<br> Anuria > 12 hours|
++-------+---------------------------------------+-------------------------------+
+| Stage | Creatinine                            | Urine Output                  |
++=======+=======================================+===============================+
+| 1     | - 1.5-1.9x baseline in 7 days         | - ⩽0.5ml/kg/hr for 6-12 hours |
+|       | - ⩾26.5 μmol/L ↑ in Cr in 48 hours    |                               |
++-------+---------------------------------------+-------------------------------+
+| 2     | - 2-2.9x baseline                     | - ⩽0.5ml/kg/hr for ⩾12 hours  |
++-------+---------------------------------------+-------------------------------+
+| 3     | - 3x baseline                         | - ⩽0.3ml/kg/hr for ⩾24 hours  |
+|       | - Cr ⩾354μmol/L                       | - Anuria > 12 hours           |
+|       | - Initiation of RRT                   |                               |
+|       | - eGFR ⩽35ml/min/1.73m^2^ in children |                               |
++-------+---------------------------------------+-------------------------------+
+
+: The KDIGO Classification
 
 
-**Acute tubular necrosis**:
+:::column-margin
+On **Acute tubular necrosis**:
 
-* Clinical syndrome where blood flow is adequate to maintain tubular perfusion but not glomerular filtration
-	* Classically believed to be necrosis of the PCT (and occasionally DCT) following ischaemia-reperfusion injury  
-	This is demonstrated in animal models but does not correlate with syndrome typically labelled ATN in humans.
-		* 'True' ATN may occur following arterial occlusion (such as AAA rupture or dissection)
-
+* The term ATN is often used to describe the intrinsic renal injury that occurs following a persistent pre-renal insult
+* This is probably not correct, as the histology of tubular necrosis is not confirmed in this population
+* In animal models, necrosis of the PCT (and occasionally DCT) occurs when blood flow is adequate to maintain tubular perfusion but not glomerular filtration, and is believed to be a form of ischaemia-reperfusion injury
+* 'True' ATN may occur following arterial occlusion (such as AAA rupture or dissection)
+:::
 
 ## Epidemiology and Risk Factors
 
@@ -83,88 +91,16 @@ Risk factors:
 
 ## Pathophysiology
 
-Causes are generally classified into:
+Pathophysiology varies by aetiology, which are generally classified into:
 
-* **Pre-renal**  
-40-70% of AKI. Can be divided into:
-	* Hypovolaemia
-		* Haemorrhage
-		* Vomiting/Diarrhoea
-		* Inappropriate diuresis
-		* Burns
-	* Hypotensive causes
-		* Shock states
-		* AAA
-		* Renal artery stenosis
-		* Hepatorenal syndrome
-	* Impaired autoregulation
-		* NSAIDS
-		* ACE-Is/ARBs
-	* Oedema
-		* Cardiac failure
-		* Cirrhosis
-		* Nephrotic syndrome 
-* **Intra-renal**  
-10-50% of AKI. Can be divided into:
-	* Glomerular disease
-		* Inflammatory
-			* Post-infectie GN
-			* Henoch-Schonlein Purpura
-			* SLE
-			* Antineutrophil cytoplasmic antibody-associated GN
-			* Antiglomerular basement membrane disease
-	* Interstitial nephritis
-		* Drugs
-			* NSAID
-			* Aminoglycosides
-			* Radiological contrast  
-			It is theorised that osmotic stress and direct tubular toxic effects lead to renal tubular injury, and may cause acute tubular necrosis.
-				* Typically, acute contrast nephropathy is benign, with creatinine returning to baseline within 10-14 days  
-				* There is significant uncertainty as to whether contrast media do cause acute kidney injury  
-				*If* this risk is present, it is probably only relevant in patients who have:
-					* Impaired renal function
-					* Arterial contrast
-				* Rehydration and volume correction are effective in preventing a rise in creatinine
-		* Infiltrative disease
-			* Lymphoma
-			* Granulomatous disease
-				* Sarcoidosis
-				* Tuberculosis
-			* Infection
-				* Pyelonephritis
-	* Tubular injury  
-	Typically due to continuation of pre-renal causes.
-		* Ischaemia
-		* Toxins
-			* Drugs
-			* Myoglobin
-			* Heavy metals
-		* Metabolic
-			* Hypercalcaemia
-			* Immunoglobulins
-		* Crystals
-			* Urate
-			* Oxalate
-	* Vascular
-		* Vasculitis
-		* Cryoglobulinaemia
-		* Polyarteritis Nodosa
-		* Thrombotic microangiopathy
-		* Cholesterol emboli
-		* Renal artery/renal vein thrombosis
-* **Post-renal**  
-10% of AKI. May be divided into:
-	* Intraluminal
-		* Urinary retention
-		* Stone
-		* Clot
-	* Intramural
-		* Stricture
-		* Prostatic hypertrophy
-		* Tumour
-	* Extramural
-		* Malignancy
+* Pre-renal\
+40-70% of AKI.
+* Intra-renal\
+10-50% of AKI.
+* Post-renal\
+10% of AKI in ICU patients, but the most common cause in the general population.
 
+:::column-margin
 Most common causes in the critically ill are:
 
 * Sepsis
@@ -172,10 +108,100 @@ Most common causes in the critically ill are:
 * HDx instability
 * Hypovolaemia
 * Nephrotoxins
+:::
+
+### Pre-Renal
+
+Renal dysfunction due to extra-renal factors, resulting in decreased perfusion. Rapid correction of the systemic cause usually results in rapid renal recovery.
+
+Causes can be divided into:
+
+* Hypovolaemia
+	* Haemorrhage
+	* Vomiting/Diarrhoea
+	* Inappropriate diuresis
+	* Burns
+* Hypotensive/low flow
+	* Shock states
+	* AAA
+	* Renal artery stenosis
+	* Hepatorenal syndrome
+* Impaired autoregulation
+	* NSAIDS
+	* ACE-Is/ARBs
+* Oedema
+	* Cardiac failure
+	* Cirrhosis
+	* Nephrotic syndrome
+
+### Intra-Renal
+
+Disease of the renal parenchyma, with structural changes visible on biopsy. Causes include:
+
+* Glomerular disease
+	* Inflammatory
+		* Post-infective GN
+		* Henoch-Schonlein Purpura
+		* SLE
+		* Antineutrophil cytoplasmic antibody-associated GN
+		* Antiglomerular basement membrane disease
+* Interstitial nephritis
+	* Drugs
+		* NSAID
+		* Aminoglycosides
+		* Radiological contrast\
+		It is theorised that osmotic stress and direct tubular toxic effects lead to renal tubular injury, and may cause acute tubular necrosis.
+			* Typically, acute contrast nephropathy is benign, with creatinine returning to baseline within 10-14 days\
+			* There is significant uncertainty as to whether contrast media do cause acute kidney injury\
+			*If* this risk is present, it is probably only relevant in patients who have:
+				* Impaired renal function
+				* Arterial contrast
+			* Rehydration and volume correction are effective in preventing a rise in creatinine
+	* Infiltrative disease
+		* Lymphoma
+		* Granulomatous disease
+			* Sarcoidosis
+			* Tuberculosis
+		* Infection
+			* Pyelonephritis
+* Tubular injury\
+Typically due to continuation of pre-renal causes.
+	* Ischaemia
+	* Toxins
+		* Drugs
+		* Myoglobin
+		* Heavy metals
+	* Metabolic
+		* Hypercalcaemia
+		* Immunoglobulins
+	* Crystals
+		* Urate
+		* Oxalate
+* Vascular
+	* Vasculitis
+	* Cryoglobulinaemia
+	* Polyarteritis Nodosa
+	* Thrombotic microangiopathy
+	* Cholesterol emboli
+	* Renal artery/renal vein thrombosis
+
+### Post-renal
+
+Divided into:
+
+* Intraluminal
+	* Urinary retention
+	* Stone
+	* Clot
+* Intramural
+	* Urethral stricture
+	* Prostatic hypertrophy
+	* Tumour
+* Extramural
+	* Malignancy
 
 
 ## Clinical Manifestations
-
 
 
 ## Diagnostic Approach and DDx
@@ -219,33 +245,33 @@ Serology:
 		* Volume state (as it is measured as a concentration)
 		* 
 	* Ideally, results from the same lab should be used
-
+* Urea
 
 
 Urinalysis:
 
 * Sodium and osmolality
-	* Healthy kidneys respont to hypovolaemia/hypoperfusion by ↑ urinary osmolarity and reducing sodium, urea, and water excretion  
+	* Healthy kidneys respond to hypovolaemia/hypoperfusion by ↑ urinary osmolarity and reducing sodium, urea, and water excretion\
 	This response may be impaired in disease, as well as due to drugs and other therapies (such as CPB).
 	* Low urine osmolality may indicate impaired tubular function
-	* High osmolality and low sodium with uraemia and oliguria suggests intact tubular function  
-* Renal tubular cells  
+	* High osmolality and low sodium with uraemia and oliguria suggests intact tubular function\
+* Renal tubular cells\
 Tubular disease.
-* Red cell casts/dysmorphic red cells  
+* Red cell casts/dysmorphic red cells\
 Indicate glomerular disease.
-* Oxalate crystals  
+* Oxalate crystals\
 Ethylene glycol poisoning.
-* Urate crystals  
+* Urate crystals\
 Tumour lysis syndrome.
 * Urinary light chains
 
 
 Other:
 
-* Intrabdominal pressure measurement  
+* Intrabdominal pressure measurement\
 For evaluation of abdominal compartment syndrome.
 	* Urinary pressure >20mmHg suggests compartment syndrome causing AKI
-* Autoimmune profile  
+* Autoimmune profile\
 ANCA, ANA, C3, C4. Perform in patients with:
 	* Pulmonary-Renal Syndrome
 	* Haemoptysis
@@ -261,6 +287,9 @@ ANCA, ANA, C3, C4. Perform in patients with:
 Principles:
 
 * Maintain renal perfusion
+	* Maintain intravascular volume
+	* Correct anaemia
+	* Maintain renal perfusion pressure33eee
 
 
 General considerations:
@@ -269,9 +298,9 @@ General considerations:
 	* Consider higher MAP targets in patients with hypertension
 	* Vasopressors and fluids
 * Maintain volume status
-	* Cystalloid > colloid
+	* Crystalloid > colloid
 * Avoid nephrotoxins
-	* Avoid aminoglycosides unless no other alternatives are available  
+	* Avoid aminoglycosides unless no other alternatives are available\
 	If used:
 		* Administer as single daily dose
 		* Monitor levels when used for >48 hours
@@ -289,7 +318,7 @@ Perioperative considerations:
 
 * Avoid hyperglycaemia
 	* Use IV insulin to maintain BSL 6-8 mmol/L
-* Maintain 20-30 kcal/kg/day of energy intake  
+* Maintain 20-30 kcal/kg/day of energy intake\
 Enteric route if possible.
 * Avoid protein restriction
 
@@ -316,7 +345,7 @@ Renal replacement therapy is:
 	* Volume overload
 	* Electrolyte disturbance
 	* Acidosis
-	* Uraemia  
+	* Uraemia\
 	Typically initiated for uraemia prior to onset of uraemic complications.
 		* Uraemic pericarditis
 		* Encephalopathy
@@ -329,7 +358,7 @@ Renal replacement therapy is:
 	* Facilitate delivery of other supportive measures
 * Not (necessarily) indicated by creatinine and urea values alone
 * Ceased when:
-	* Intrinsic kidney function has recovered  
+	* Intrinsic kidney function has recovered\
 	Mean duration ~12 days.
 	* Not consistent with goals of care
 
@@ -338,7 +367,7 @@ Renal replacement therapy is:
 
 Technique:
 
-* CRRT has greater haemodynamic stability than IHD  
+* CRRT has greater haemodynamic stability than IHD\
 CRRT is preferred in patients with:
 	* Haemodynamic instability
 	* High ICPs, brain oedema
@@ -346,7 +375,7 @@ CRRT is preferred in patients with:
 	* Shock
 	* Hepatic failure
 	* Lactic acidosis
-* CRRT effluent volume should be 20-25ml/hr  
+* CRRT effluent volume should be 20-25ml/hr\
 This typically requires a prescription of 25-30ml/hr due to interruptions.
 	* Hypotension and electrolyte disturbances are more common at higher intensities and are not associated with 
 * RRT efficiency (Kt/V = Intensity/V~D~) should be 3.9
@@ -357,22 +386,22 @@ This typically requires a prescription of 25-30ml/hr due to interruptions.
 
 ### Ineffective Treatments
 
-* Loop diuretics  
+* Loop diuretics\
 Reduce volume but do not affect survival or renal recovery.
-	* Theoretically reduce oxygen consumption in loop of Henle and therefore lessen ischaemic injury  
+	* Theoretically reduce oxygen consumption in loop of Henle and therefore lessen ischaemic injury\
 	Minimal supportive evidence outweighed by evidence of harm.
 	* **Appropriate to treat volume overload in the setting of AKI, but not AKI itself**
 	* Ineffective in reducing frequency or duration of RRT
 	* ⩾1g/day of frusemide may cause ototoxicity
-* Mannitol  
+* Mannitol\
 Likely no benefit.
-* Dopamine  
+* Dopamine\
 No evidence of benefit, some evidence of harm.
-* Natriuretic peptides (e.g. ANP)   
+* Natriuretic peptides (e.g. ANP) \
 No benefit.
-* Fenoldopam  
+* Fenoldopam\
 No benefit.
-* (rh)IGF-1  
+* (rh)IGF-1\
 No benefit.
 * NAC
 
@@ -381,7 +410,7 @@ No benefit.
 
 Major complications:
 
-* Death  
+* Death\
 	* Perioperative mortality over 50%
 * Sepsis
 * Organ dysfunction

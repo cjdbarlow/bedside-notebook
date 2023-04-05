@@ -29,7 +29,7 @@ Only biologically important version as bound calcium is not active.
 
 ## Pathophysiology
 
-{{< include /includes/calcium-patho.qmd >}}
+{{< include /includes/calcium_patho.qmd >}}
 
 Hypercalcaemia occurs most commonly when osteoclastic resorption or GI absorption exceed the ability of the kidney to eliminate it or the skeleton to claim it.
 

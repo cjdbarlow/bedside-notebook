@@ -1,4 +1,5 @@
 ---
+ABG: Arterial Blood Gas
 ACA: Anterior Cerebral Artery
 ACh: Acetylcholine
 AChE: Acetylcholinesterase
@@ -32,6 +33,7 @@ CNS: Central Nervous System
 CNX: Vagus Nerve
 COX: Cyclo-Oxygenase
 CPP: Cerebral/Coronary Perfusion Pressure
+CRRT: Continuous Renal Replacement Therapy
 CSF: Cerebrospinal Fluid
 CD: Collecting Duct
 CVC: Central Venous Catheter
@@ -39,6 +41,7 @@ CVP: Central Venous Pressure
 DAPT: Dual Anti-Platelet Therapy
 DBP: Diastolic Blood Pressure
 DCC: Direct Current Cardioversion
+DCD: Donation after Circulatory Death
 DCT: Distal Convoluted Tubule
 DIC: Disseminated Intravascular Coagulopathy
 DI: Diabetes Insipidus
@@ -88,6 +91,7 @@ ICH: Intracranial Haemorrhage
 ICP: Intracranial Pressure
 ICU: Intensive Care Unit
 IE: Infective Endocarditis
+IHD: Intermittent Haemodialysis
 IJV: Internal Jugular Vein
 iNO: Inhaled Nitric Oxide
 IOP: Intraocular Pressure
@@ -186,6 +190,7 @@ SCC: Squamous Cell Carcinoma
 SCV: Subclavian Vein
 SIRS: Systemic Inflammatory Response Syndrome
 SLE: Systemic Lupus Erythematosus
+SLED: Sustained Low-Efficiency Dialysis
 STP: Standard Temperature and Pressure (0°C at 100kPa)
 STE: ST segment elevation
 SV: Stroke Volume
@@ -207,8 +212,10 @@ TS: Tricuspid Stenosis
 TSH: Thyroid Stimulating Hormone
 UEC: Urea/Electrolytes/Creatinine
 UFH: Unfractionated Heparin
+UO: Urine Output
 VA: Veno-arterial
 VAP: Ventilator Associated Pneumonia
+VBG: Venous Blood Gas
 VF: Ventricular Fibrillation
 VIE: Vacuum Insulated Evaporator
 VILI: Ventilator Induced Lung Injury

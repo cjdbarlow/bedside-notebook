@@ -1,0 +1,43 @@
+# Circulatory Death
+
+:::info
+Brain death and circulatory death are both death and do not differ in type, but in the way they are determined.
+:::
+
+Determination of circulatory death requires permanent loss of:
+
+* Breathing
+	* Breath sounds
+	* Respiratory effort
+* Circulation\
+>5 minutes loss of:
+	* Invasive arterial pressure 
+	Preferred to ECG, as electrical activity may persist for several minutes. The **ECG** should **not be monitored** if an arterial line is present.
+	* Electrical activity\
+	If an arterial line is unavailable.
+	* Heart sounds
+	* Central pulse
+* Spontaneous movement
+
+:::column-margin
+The 5 minute time requirement for circulatory death is to prevent **autoresuscitation**, or spontaneous resumption of cardiac activity. Almost all cases of autoresuscitation occur within 2 minutes.\
+\
+The the longest recorded interval prior to autoresuscitation in a DCD circumstance was 4:20, although durations of up to 10 minutes have been recorded following CPR.\
+\
+The 5 minute timeframe is chosen to minimise warm ischaemic time in DCD.
+:::
+
+## Following Circulatory Death
+
+* Reintubation\
+To prevent aspiration.
+* No ventilation
+* No cardiac support
+
+
+
+---
+
+## References
+
+1. ANZICS. [The Statement on Death and Organ Donation](https://www.anzics.com.au/wp-content/uploads/2022/04/ANZICS-Statement-on-Death-and-Organ-Donation.pdf). Edition 4.1. 2021.

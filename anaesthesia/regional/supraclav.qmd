@@ -28,7 +28,7 @@ Relative:
 
 ## Anatomy
 
-{{< include /includes/ul-neuro.qmd >}}
+{{< include /includes/ul_neuro.qmd >}}
 
 ## Equipment
 

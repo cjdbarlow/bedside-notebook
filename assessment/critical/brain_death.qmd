@@ -1,0 +1,218 @@
+# Brain Death
+
+:::info
+Brain death and circulatory death are both death, and do not differ in type but in the way they are determined.
+:::
+
+**Brain Death** is the irreversible loss of all functions of the brain, including the brainstem. 
+
+
+## Pathophysiology
+
+Brain death occurs when ICP exceeds arterial perfusion pressure and cerebral blood flow ceases. This leads to a relatively predictable pattern of autonomic responses:
+
+* Autonomic storm
+	* Transient ↑ BP with vasoconstriction, tachyarrhythmia
+	* Less commonly tachypnoea, seizures, sweating, pupillary dilation
+* Autonomic collapse
+	* Loss of **reflex brainstem activity**
+	* Loss of **respiratory drive**
+	* Loss of **temperature regulation**
+	* Loss of **vascular tone** and **HR regulation**
+	* **DI**
+
+
+## Determination of Brain Death
+
+:::info
+The definitions and process discussed here are specific to brain death in the Australian context, which requires **whole brain death**. Some other jurisdictions accept brain-stem death as sufficient, and vary as to the procedural requirements to determine brain death.
+:::
+
+Determination of brain death requires:
+
+* Meeting preconditions
+* Clinical testing\
+Consists of:
+	* Observation period
+	* Formal testing by two clinicians
+
+:::column-margin
+Time of death is the completion of examination by the second doctor.
+:::
+
+### Preconditions
+
+For brain stem testing to be appropriate, the following preconditions must be met:
+
+:::column-margin
+Due to the immaturity of brain-stem reflexes, brain death cannot be determined in preterm neonates, and ↑ caution should be used in neonates and infants.
+:::
+
+* A **brain lesion consistent with a diagnosis of brain death**\
+Neuroimaging consistent with acute brain pathology that could cause brain death. Only in the case of HIE is imaging not required, and the diagnosis may be made on history alone.
+* **Absence of physiological** and **anatomical perturbations** that could confound assessment:
+	* No high cervical spine injury\
+	Must be able to assess:
+		* Upper limb motor response to central stimulus
+		* Central response (grimace) to upper limb stimulus
+		* Cough reflex
+	* Normothermia\
+	≥ 36.5°C.
+	* Normotensive 
+	SBP ≥90mmHg/MAP >60mmHg in adults, or age-appropriate perfusion pressure in children.
+	* No sedation, analgesia 
+	Time for assessment depends on the drugs used and the degree of renal or hepatic dysfunction.
+		* Drug antagonists can be used if concern about persisting effects
+		* Thiopentone plasma levels should be <10mg/L
+	* No muscle relaxation\
+	Confirm with train-of-four.
+	* Absence of severe metabolic, endocrine, and electrolyte derangements
+		* Glucose: <3 or >25mmol/L
+		* Sodium: <125 or >160mmol/L
+		* Phosphate: <0.5mmol/L
+		* Magnesium: <0.5mmol/L
+		* Urea: >40mmol/L
+		* Severe hypothyroidism
+		* Severe hypoadrenalism
+* **Ability to perform clinical testing**\
+	* Ability to assess brain stem reflexes\
+	At least one eye and ear.
+	* Ability to perform apnoea test\
+	Neuromuscular system capable of independent respiration (e.g. no high cervical spine injury), saturations able to be maintained with supplemental oxygen.
+
+
+### Clinical Testing
+
+:::info
+Each Australian state has slightly different requirements around the qualifications, experience, and relationship to the patient of the clinicians determining brain death.
+:::
+
+:::column-margin
+Family should be offered the opportunity to observe clinical testing, after appropriate explanation (particularly about **spinal reflexes**) and support. Consider using the second set of testing, as the family can be warned about any spinal reflexes that may occur.
+:::
+
+Prior to performing clinical testing, a minimum of **4 hours** of observation should be performed during which the:
+
+:::column-margin
+The observation period should be extended to **24** hours in the case of HIE or hypothermia >6 hours.
+:::
+
+* **Preconditions** are **met**
+* **GCS** is **3**
+* Non-reactive pupils
+* No spontaneous respiratory effort
+* Absent cough reflex
+
+:::column-margin
+Since all patients undergoing brain death testing will be intubated, GCS 3 = GCS 2T.
+:::
+
+Clinical testing is performed **separately** by two suitably trained and experienced clinicians (at least one a specialist), and requires:
+
+* **Coma**\
+GCS 3; with a motor response provided centrally and to all four limbs.
+* **Absence** of **brainstem reflexes**\
+Should be tested **sequentially** and **bilaterally**.
+	* Pupils fixed and non-reactive
+	* No corneal reflex\
+	Use of cotton wool or gauze are appropriate stimuli. 
+	* No oculo-vestibular reflexes\
+	Cold ice water injected into each EAM via a small catheter until either:
+		* Nystagmus\
+		Slow-phase towards irrigated ear in intact brainstem.
+		* Ocular deviation
+		* 20mL given
+	* No gag\
+	Use a tongue depressor or cotton swab. A laryngoscope can be used for assistance, if required.
+	* No cough
+* **Apnoea**\
+Conducted last so that an ↑ PaCO~2~ does not confound assessment. Apnoea testing assesses ventilatory drive, and is performed by:
+	* Preoxygenating with 100% O~2~
+	* Ventilator disconnection\
+	Hypoxia (SpO~2~ <88%) should be avoided; attach a self-inflating bag with a PEEP valve to prevent atelectasis and provide some passive entrainment.
+	* No respiratory effort when:
+		* PaCO~2~ is ≥60mmHg, OR\
+		Expect PaCO~2~ to ↑ by ~3mmHg/min as a guide for when to perform the ABG.
+		* PaCO~2~ has risen 20mmHg above baseline
+
+:::column-margin
+Use of suction catheter or t-piece to provide passive oxygenation during apnoea testing is not recommended.\
+\
+For patients on ECMO during apnoea testing:
+
+* Preoxygenate via the lung and circuit
+* ↑ PaCO~2~ to >45mmHg on the circuit
+* Attach a CPAP circuit as describe above
+* ↓ Sweep to 0.5-1L/min
+:::
+
+
+### Spinal Reflexes
+
+Spinal reflexes are movements due to loss of higher centre inhibition of a reflex arc, are **compatible with brain death** and:
+
+* Occur:
+	* In up to 50% of patients
+	* Usually within 24 hours of death, though can stretch to days
+	* Consistently\
+	May be highly variable between patients, but usually repeatable within a given patient.
+* Include:
+	* Upper limb extension-pronation
+	* Lower limb flexion
+	* Deep tendon reflexes
+	* Lazarus sign\
+	Bilateral arm flexion, shoulder adduction, hand raising above chest.
+	* Plantar response
+
+## Investigations
+
+Cerebral perfusion imaging is used when brain death cannot be determined because the ***preconditions* are not met**. Key investigations:
+
+* 4-vessel angiogram\
+Demonstrating absence of flow above the carotid siphon in the anterior circulation and foramen magnum in the posterior circulation.
+* Tc-99 HMPAO Spect\
+Lack of perfusion in the brain parenchyma.
+* CT Angiography\
+Acceptable when formal angiography or radionuclide imaging is not available.
+
+
+:::column-margin
+MRI and transcranial doppler should not be used to determine brain death, although doppler may be appropriate to **time** formal imaging.
+:::
+
+## Management
+
+Good supportive care improves organ function in brain dead patients proceeding to organ donation. In addition to regular ICU supportive care, specific management includes:
+
+* B
+	* Lung protective ventilation
+	* Routine respiratory care
+* C
+	* Autonomic storm\
+	Short acting antihypertensives and β-blockers.
+	* Autonomic collapse
+		* Volume resuscitation\
+		* Vasoactives\
+		Bradycardia usually resistant to anticholinergics, so adrenergic vasoactives and vasopressin are preferred.
+* E
+	* External warming
+	* Tri-iodothyronine\
+	4μg bolus, then 3μg/hr given for haemodynamic instability with impaired cardiac function.
+* F
+	* Electrolyte correction\
+	Minimise arrhythmia.
+	* IVT\
+	Aim to prevent DI and fluid overload, with UO 0.5-3mL/kg/hr targeted.
+	* Desmopressin\
+	4-8μg given if DI occurs. Can be repeated if polyuric.
+* H
+	* Anaemia correction
+	* Coagulopathy correction
+
+---
+
+## References
+
+1. Wijdicks EF. The bare essentials: coma. Pract Neurol. 2010 Feb;10(1):51-60.
+2. ANZICS. [Brain Death Determination](https://www.anzics.com.au/wp-content/uploads/2018/08/Brain-Death-Determination-Statement-FINAL.pdf). 2018.
+3. ANZICS. [The Statement on Death and Organ Donation](https://www.anzics.com.au/wp-content/uploads/2022/04/ANZICS-Statement-on-Death-and-Organ-Donation.pdf). Edition 4.1. 2021.

@@ -19,7 +19,7 @@ Common electrolyte abnormality:
 
 ## Pathophysiology
 
-{{< include /includes/calcium-patho.qmd >}}
+{{< include /includes/calcium_patho.qmd >}}
 
 ### Aetiology
 

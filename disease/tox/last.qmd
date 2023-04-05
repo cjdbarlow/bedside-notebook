@@ -1,26 +1,27 @@
 # Local Anaesthetic Systemic Toxicity
 
+:::crisis
+This is an **anaesthetic crisis**. Priority is to:
 
-> This is an <span style="color:red">**anaesthetic crisis**</span>  
-> Priority is to:
->* **Maintain oxygenation**
->* **Control seizures**
->* **Manage arrhythmias or CVS arrest**
->* **Give intravenous lipid emulsion**
-
+* Maintain **oxygenation**
+* Control **seizures**
+* Manage **arrhythmias** or CVS arrest
+* Give **intravenous lipid emulsion**
+:::
 
 Excessive systemic levels of local anaesthetic. LAST presents:
 
-* With CNS or CVS signs  
+* With **CNS** or **CVS** signs  
 Up to and including seizures and **cardiac arrest**.
 * Variably  
 Presentation may be:
 	* In PACU, the ward, or after hospital discharge
 	* Obscured by other perioperative events
 
-##<span style="color:red">Emergency Management</span>
+## Emergency Management
 
 Priorities:
+
 1. Cease LA injection
 2. Call for help  
 **Early** consideration of CPB or **ECMO**, if available.
