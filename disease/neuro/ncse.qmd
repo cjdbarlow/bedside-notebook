@@ -1,7 +1,6 @@
-# Non-Convulsive Status Epilepticus
+# Non-Convulsive Status Epilepticus {#sec-ncse}
 
-
-EEG seizure patterns occurring without clinically detectable seizure phenomena.
+Altered conscious state and EEG seizure patterns occurring without clinically detectable seizure phenomena. NCSE may evolve from convulsive status, and 
 
 ## Epidemiology and Risk Factors
 
@@ -9,7 +8,18 @@ EEG seizure patterns occurring without clinically detectable seizure phenomena.
 
 ### Aetiology
 
+Causes include:
+
+* D
+	* Evolution from status epilepticus
+* G
+	* Hepatic encephalopathy
+* Trauma
+	* CNS trauma
+
 ## Clinical Manifestations
+
+* Level of consciousness may be maintained, and content of consciousness can be different
 
 ### History
 
@@ -17,7 +27,14 @@ EEG seizure patterns occurring without clinically detectable seizure phenomena.
 
 ## Diagnostic Approach and DDx
 
+Commonly misdiagnosed and requires a high index of suspicion. 
+
 ## Investigations
+
+Other:
+
+* EEG
+
 
 ## Management
 
@@ -46,3 +63,4 @@ In the intensive care setting:
 ## References
 
 1. Perks A, Cheema S, Mohanraj R. Anaesthesia and epilepsy. Br J Anaesth. 2012 Apr 1;108(4):562–71. 
+2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

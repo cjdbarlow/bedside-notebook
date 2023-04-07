@@ -1,19 +1,16 @@
-# Epilepsy
+# Epilepsy {#sec-Epilepsy}
 
+Epilepsy is a primary seizure disorder with recurrent (two or more) epileptic seizures.
 
-*Covers general management of epilepsy. Management of seizures, including status epilepticus, is covered elsewhere.*
-
-Epilepsy is a:
-
-* Primary seizure disorder  
-Unprovoked by another cause.
-* With recurrent (two or more) epileptic seizures  
+:::column-margin
+This covers epilepsy. Management of seizures including status epilepticus are covered at @sec-Seizure, and NCSE is covered at @sec-ncse.
+:::
 
 ## Epidemiology and Risk Factors
 
 Prevalence:
 
-* Most common serious neurological disoder
+* Most common serious neurological disorder
 * ~0.5-1% of the population
 
 Incidence:
@@ -31,9 +28,12 @@ Risk factors:
 
 ## Pathophysiology
 
-Multiple causes exist, and may be:
 
-* CNS causes
+### Aetiology
+
+Multiple causes exist, and include:
+
+* D
 	* Migraine
 	* Cerebrovascular disease
 		* CVA  
@@ -44,33 +44,31 @@ Multiple causes exist, and may be:
 	* Degenerative
 		* Dementia
 		* Alzheimer's Disease
-* Post-syncope
+	* Post-syncope
+* F
+	* Hypo/hypernatraemia
+	* Hypo/hypercalcaemia
+	* Hypo/hypermagnesaemia
+	* Hypoglycaemia
+* Immune
+	* Multiple sclerosis
 * Traumatic  
 Post-traumatic epilepsy associated with:
 	* Early seizures
 	* Depressed skull fractures
 	* ICH
-* Fluid and Electrolyte
-	* Hypo/hypernatraemia
-	* Hypo/hyperercalcaemia
-	* Hypo/hypermagnesaemia
-	* Hypoglycaemia
-* Infection
+* Infective
 	* Meningitis
 	* Encephalitis
-* Immune
-	* Multiple sclerosis
-* Genetic
+* Congenital
 	* Associated with other disorders
 		* Down's Syndrome
 		* Mitochondrial disease
 	* Epilepsy syndromes
 		* Juvenile myoclonic epilepsy
-		* Benigjn rolandic epilepsy
+		* Benign rolandic epilepsy
 
 
-
-### Aetiology
 
 ## Clinical Manifestations
 
@@ -82,25 +80,25 @@ Post-traumatic epilepsy associated with:
 
 ## Investigations
 
-Blood:
+Laboratory:
 
 * UEC/CMP
 * Prolactin
 
-EEG:
 
-* Interpretation may be difficult
-* Patients with disease will have abnormalities ~50% of the time
+Imaging:
 
-CT:
+* CTB\
+Evaluation of structural cause.
+* MRI\
+Evaluation of structural cause, with ↑ sensitivity and specificity compared with CT.
 
-* Evaluation of structural cause  
-E.g. tumour.
 
-MRI:
+Other:
 
-* Evaluation of structural cause  
-↑ sensitivity and specificity compared with CT.
+* EEG:
+	* Interpretation may be difficult
+	* Patients with disease will have abnormalities ~50% of the time
 
 
 ## Management
@@ -121,11 +119,11 @@ Principles of medical management:
 Drugs used:
 
 * Focal seizures
-	* Lamotragine
+	* Lamotrigine
 	* Carbamazepine
 * Generalised
 	* Valproate  
-	Most effeective drug for primary generalised epilepsy.
+	Most effective drug for primary generalised epilepsy.
 
 
 ### Mechanisms of Action
@@ -202,7 +200,7 @@ Pregnancy:
 
 Related to severity and degree of control. Morbidity associated with:
 
-* Requring ⩾3 antiepileptic drugs
+* Requiring ⩾3 antiepileptic drugs
 * Status epilepticus
 
 ## Key Studies

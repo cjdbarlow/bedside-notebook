@@ -353,7 +353,8 @@ Urine:
 * D
 	* 50% Dextrose\
 	Empiric treatment of hypoglycaemia is low-risk.
-	* Thiamine
+	* Thiamine\
+	100mg IV.
 	* Naloxone
 	* Mannitol 0.5-1g/kg\
 	If concern of ↑ ICP.

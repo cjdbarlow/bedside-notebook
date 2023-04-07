@@ -93,6 +93,14 @@ Intro and technique
 
 ## Investigations
 
+Bedside:
+
+Laboratory:
+
+Imaging:
+
+Other:
+
 ## Management
 
 **Resuscitation**:\
