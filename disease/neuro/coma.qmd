@@ -1,0 +1,396 @@
+# Coma and Unconsciousness 
+
+Coma is a clinical state of being **not aware** and **not awake** due to impairment of the ARAS-thalmic-cortical pathway.  Lesion may be in:
+
+* Arousal centres\
+Dorsal pons, midbrain, thalamus.
+* Consciousness centre\
+Cerebral cortex - must be bilateral to cause coma.
+* Connecting tracts\
+Ascending reticulator activating system.
+
+:::column-margin
+More precisely, "a completely unaware patient unresponsive to external stimuli with only eye opening to pain, with no eye tracking or fixation, and limb withdrawal to a noxious stimulus at best."
+:::
+
+
+## Aetiology
+
+Major causes can be classified by:
+
+* Pathophysiology
+	* Structural\
+		* Cerebral hemispheres
+		* Intrinsic brainstem injury
+		* Cerebellar injury
+	* Functional
+		* Metabolic or endocrine derangement
+		* Diffuse physiological dysfunction
+* Clinical features
+	* No focal signs
+	* Focal neurology
+	* Meningism
+
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
+| No focal neurology                | Focal Neurology                                                                                                                     | Meningism                                                                                                 |
++===================================+=====================================================================================================================================+===========================================================================================================+
+| Infection:                        | CVA\                                                                                                                                | Infection:                                                                                                |
+|                                   |                                                                                                                                     |                                                                                                           |
+| - Encephalitis                    | - Typically due to a posterior circulation lesion                                                                                   | - Meningitis                                                                                              |
+| - Septic encephalopathy           | - Both cerebral corticies must be disrupted to produce coma from an anterior circulation CVA                                        |                                                                                                           |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
+| Vasculitis                        | ICH:                                                                                                                                | Vascular:                                                                                                 |
+|                                   |                                                                                                                                     |                                                                                                           |
+|                                   | - SDH and EDH may cause global depression and seizures                                                                              | - SAH\                                                                                                    |
+|                                   | - Effects may be due to ↑ ICP, or damage to key pathways                                                                            | SAH depresses conscious state through direct anoxic-ischaemic injury, or indirectly due to hydrocephalus. |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
+| Seizures:                         | Trauma                                                                                                                              |                                                                                                           |
+|                                   |                                                                                                                                     |                                                                                                           |
+| - NCSE                            |                                                                                                                                     |                                                                                                           |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
+| Brainstem                         | Tumour (including lymphoma and metastases):                                                                                         |                                                                                                           |
+|                                   |                                                                                                                                     |                                                                                                           |
+|                                   | - May have slow progression of findings                                                                                             |                                                                                                           |
+|                                   | - Via direct pressure on key areas, or by diffuse ↑ in ICP                                                                          |                                                                                                           |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
+| Drugs\                            | Abscess                                                                                                                             |                                                                                                           |
+| See below.                        |                                                                                                                                     |                                                                                                           |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
+| Metabolic\                        | Acute hydrocephalus:                                                                                                                |                                                                                                           |
+| See blow.                         |                                                                                                                                     |                                                                                                           |
+|                                   | - Spasticity due to stretching of motor cortex                                                                                      |                                                                                                           |
+|                                   | - Diplopia due to CN III or CN VI compression                                                                                       |                                                                                                           |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
+| Hyopoxic-Ischaemic Encephalopathy | Posterior Reversible Encephalopathy Syndrome (PRES):                                                                                |                                                                                                           |
+|                                   |                                                                                                                                     |                                                                                                           |
+|                                   | - Patchwork vasodilation and vasoconstriction due to severe hypertension, producing visual disturbances and altered conscious state |                                                                                                           |
++-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
+
+: Causes of Coma by Clinical Features
+
+
+### Drug Causes
+
+Drugs which may cause CNS depression can be classified broadly into:
+
+* Sedative/hyponotics
+	* Alcohols
+		* Ethanol
+		* Methanol
+		* Ethylene glycol
+	* Barbiturates
+	* Benzodiazepines
+	* Baclofen
+	* GHB
+	* Clonidine
+* Opioids
+* Dissociatives
+	* Ketamine
+	* PCP
+* Toxins and overdoses
+	* Carbon monoxide
+	* Serotonin syndrome
+	* Neuroleptic malignant syndrome
+
+
+
+### Metabolic Causes
+
+A mnemonic for the metabolic causes is COMATOSE GREAT APE:
+
+* **CO~2~**\
+Mechanism unclear, but possibly related to ICP or altered neurotransmitter function.
+* **O~2~**\
+Coma may occur within minutes of severe oxygen deprivation.
+* **Metabolism** (of drugs)
+* **Ammonia**\
+Hepatic encephalopathy, as well as:
+	* Valproate in the settin gof carnitine deficiency
+	* Urease-producing bacterial infection
+	* Hyperalimentation
+	* Inborn errors of metabolism
+	* Surgery
+		* Lung transplantation
+		* Bariatric surgery
+		* Ureterosigmoidostomy
+* **Temperature**\
+Typically requires temperatures <28°C.
+* **Overdose**
+	* Neuroleptic malignant syndrome
+* **Seizures**
+* **Encephalitis**\
+\
+* **Glucose**\
+	* Hypoglycaemia\
+	Wide variety of neurologic signs, including coma.
+	* Hyperglycaemia\
+	May cause coma in the setting of HHS/DKA.
+* **Renal** failure\
+Uraemic encephalopathy.
+* **ETOH**
+* **Adrenal** Insufficiency
+* **Thyroid**\
+	* Acute hypothyroidism\
+	Myxedema coma.
+	* Panhypopituitarism\
+\
+* **Autoimmune**
+* **pH**
+* **Electrolytes**
+	* Hyponatraemia
+	* Hypernatraemia
+	* Hypercalcaemia
+	* Addisons IDisease
+
+
+## Clinical Manifestations
+
+Level of consciousness is graded using the GCS or FOUR score:
+
+{{< include /includes/gcs.qmd >}}
+
+### FOUR Score
+
+The FOUR (Full Outline of UnResponsiveness) score is:
+
+* A coma scale (similar to GCS)
+* Designed to be **valid** in **intubated patients**
+* Able to **further separate patients with low GCS** scores\
+Provides greater detail on patients with severe neurological injury.
+	* Able to identify locked-in syndrome and vegetative states
+* Has clinically similar inter-rater reliability to GCS
+* Measured on a **16-point scale**\
+Consists of **four components**, each **scored from 0-4**.
+* An overall **score of 0** should **prompt brain death evaluation**
+
++-------+--------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------+----------------------------------------------------+
+| Score | Eye                                                                            | Motor                                                                                                 | Brainstem                                                                             | Respiration                                        |
++=======+================================================================================+=======================================================================================================+=======================================================================================+====================================================+
+| 4     | Open, tracking, or blinking to command                                         | Thumbs up, fist, or peace sign                                                                        | Pupillary and corneal reflexes present                                                | Not intubated, regular breathing                   |
++-------+--------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------+----------------------------------------------------+
+| 3     | Open but not tracking                                                          | Localising to pain                                                                                    | One pupil fixed and dilated                                                           | Not intubated, Cheyne-Stokes breathing             |
++-------+--------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------+----------------------------------------------------+
+| 2     | Open to loud voice                                                             | Flexing to pain                                                                                       | Pupil OR corneal reflexes absent                                                      | Not intubated, irregular breathing                 |
++-------+--------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------+----------------------------------------------------+
+| 1     | Open to pain                                                                   | Extending to pain                                                                                     | Pupil AND corneal reflexes absent                                                     | Intubated, breathing above ventilator              |
++-------+--------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------+----------------------------------------------------+
+| 0     | Closed to pain                                                                 | No response or generalised myoclonus/status epilepticus                                               | Pupil, corneal, AND cough reflex absent                                               | Intubated, breathing at ventilator rate OR apnoeic |
++-------+--------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------+----------------------------------------------------+
+| Notes | * If closed, eyes should be opened to test for tracking before inflicting pain | * Best **upper limb** response                                                                        | * Best possible response. Corneal reflexes should ideally be tested with saline drops |                                                    |
+|       | * Tracking requires at least 3 excursions                                      | * Localisation requires supraorbital nerve compression results in the patient touching examiners hand | * Tests mesencephalon, pons, and medulla function                                     |                                                    |
+|       | * Blinking requires at least 2 blinks                                          | * Myoclonus: Persistent, multisegmental, arrhythmic, jerking movements.                               |                                                                                       |                                                    |
++-------+--------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------+----------------------------------------------------+
+
+: FOUR Score
+
+
+## Diagnostic Approach and DDx
+
+:::caution
+Two **key pitfalls** in coma assessment are:
+
+* **Locked-in Syndrome**\
+Denervation of motor tracts in the ventral pons, leading to:
+	* Ability to blink to command and move eyes vertically
+	* Intact hearing, vision, and peripheral pain sensation
+* **Psychogenic Unreponsiveness**
+:::
+
+Presence or absence of other findings will narrow the differential:
+
+* C
+	* Bradycardia\
+		* Hypnotic toxicity
+		* Raised ICP\
+		With hypertension (Cushing's Triad).
+	* Tachycardia
+		* Sympathomimetic toxicity
+		* Intracranial haemorrhage
+	* Hypotension
+		* Sepsis
+		* Drug toxicities
+	* Hypertension
+		* PRES
+* E
+	* Hyperthermia
+		* Intracranial infections
+		* Heat injury
+		* Anticholinergic toxicity
+		* Pontine stroke
+	* Hypothermia
+		* Drug
+			* Alcohol
+			* Barbiturate
+		* Cold exposure
+		* Sepsis
+		* Drowning
+	* Paralysis
+		* Neuromuscular blockade
+* HENT
+	* Signs of trauma
+		* Haemotympanum
+		* Bony deformities
+	* Miosis\
+		* Toxicity\
+		Opioid, clonidine.
+		* Pontine haemorrhage
+	* Mydriasis
+		* Anticholinergic toxicity
+		* MDMA
+	* Horizontal nystagmus
+		* ETOH
+		* Antiepileptics
+	* Vertical nystagmus
+		* Dissociate agents
+		* Brainstemi lesion
+	* Gaze deviation
+		* Ipsilateral hemispheric lesion
+		* Contralateral pontine lesion
+		* Focal seizure
+	* Cold-caloric reflex
+		* Loss of (normal) deviation of eyes towards irrigation suggestive of midbrain or pontine lesion
+		* Loss of (normal) rapid nystagmus away from the irrigation suggestive of cortical lesion
+		* Loss of neither normal response suggests psychogenic coma
+	* Dry mucous membranes
+		* Dehydration
+		* Anticholinergic toxicity
+
+### Coma Mimics
+
+:::info
+Related categories of altered conscious states that do not have their own page.
+:::
+
+* **Locked-in syndrome**
+* **Psychogenic unresponsiveness**
+	* Eyes
+		* Resistance of passive eye opening
+		* Blink response
+		* No spontaneous roving movements
+		* Oculocephalic reflex ("Dolls Eye)\
+		Eyes remain stationary with respect to head.
+		* Cold-caloric testing wakes up
+* **Akinetic mutism**
+* **Persistent Vegetative State**\
+Patients with PVS < 3 years may (rarely) partially recover; there are no known predictors though it is usually after TBI. Patients with PVS for >3 years do not recover. PVS is defined by:
+	* No awareness of self or environment
+	* No sustained, reproducible, purposeful, or voluntary response to a stimuli
+	* No language comprehension or expression
+	* Mostly intact cranial nerve reflexes
+	* Roving nystagmoid eye movements
+	* Presence of a sleep/wake cycle
+	* Stable unsupported blood pressure
+	* Intact respiratory drive
+	* Double incontinence
+* **Minimally Conscious State**\
+May further recover, but no predictors are known. Patients with MCS:
+	* Make eye contact and turns head when talked through
+	* Eye tracking
+	* "Abulic emotionless state"\
+	* May mouth words or fend off pain
+	* Some intelligible verbalisation
+	* May hold or use objects when asked
+
+
+## Investigations
+
+Blood:
+
+* Glucose
+* Blood gases
+* UEC
+* Osmolality
+* LFT
+	* Blood
+	* Alcohol
+	* Paracetamol
+	* Salicylates
+	* Benzodiazepines
+	* TCA
+
+
+Radiology:
+
+* CTB
+	* ICH
+	* SAH
+	* Trauma
+	* CVA
+	* Cerebral oedema
+	* Space-occupying lesion
+	* Hydrocephalus\
+	Particularly prior to LP.
+* MRI
+	* Better detection of:
+		* Acute ischaemia
+		* DAI
+		* Cerebral oedema
+		* Tumour
+		* Abscess
+	* Better posterior fossa imaging
+
+
+Pathology:
+
+* LP
+	* SAH
+	* Infection
+
+Urine:
+
+* Drug analysis
+
+
+## Management
+
+**Resuscitation**:\
+
+* A
+	* Ensure patency and oxygenation\
+	Decision to secure will depend on the level of consciousness.
+* C
+	* Intravenous access
+* D
+	* 50% Dextrose\
+	Empiric treatment of hypoglycaemia is low-risk.
+	* Thiamine
+	* Naloxone
+	* Mannitol 0.5-1g/kg\
+	If concern of ↑ ICP.
+
+
+**Specific therapy**:
+
+* Pharmacological
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+Generally poor:
+
+* 15% of non-traumatic coma return to pre-morbid state
+* Traumatic coma generally superior to non-traumat causes
+
+## Key Studies
+
+---
+
+## References
+
+
+1. Yartsev, A. [The Unconscious Patient](http://www.derangedphysiology.com/main/cicm-fellowship-exam/hot-cases/unconscious-patient). Deranged Physiology. Accessed 11/2017.
+2. Wijdicks EFM, Bamlet WR, Maramattom BV, Manno EM, McClelland RL. Validation of a new coma scale: The FOUR score. Ann Neurol. 2005;58(4):585-593.
+3. Fischer M, Rüegg S, Czaplinski A, et al. Inter-rater reliability of the Full Outline of UnResponsiveness score and the Glasgow Coma Scale in critically ill patients: a prospective observational study. Critical Care. 2010;14(2):R64.
+4. Traub SJ, Wijdicks EF. [Initial Diagnosis and Management of Coma](https://www.sciencedirect.com/science/article/pii/S073386271630058X?via%3Dihub). Emerg Med Clin North Am. 2016 Nov;34(4):777-793. doi: 10.1016/j.emc.2016.06.017. Epub 2016 Sep 3.
+5. Wijdicks EF. The bare essentials: coma. Pract Neurol. 2010 Feb;10(1):51-60.

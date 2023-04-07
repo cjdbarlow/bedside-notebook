@@ -1,18 +1,18 @@
 # Airway Assessment
 
-
-> * Airway assessment should always be performed
-> * Predicting an anatomically difficult airway is unreliable
-> 	* When a predicted difficult airway exists, a plan should be developed to manage that particular difficulty
-> * Previous difficulty with a technique is the greatest predictor of difficulty with that technique
+:::info
+* Predicting an anatomically difficult airway is unreliable
+* When a predicted difficult airway exists, a plan should be developed to manage that particular difficulty
+* Previous difficulty with a technique is the greatest predictor of difficulty with that technique
+:::
 
 Airway assessment involves identifying potential:
 
-* [Anatomical difficulty](#anat)  
-* [Physiological difficulty](#phys)
-* [Situational difficulty](#env)
+* Anatomical difficulty
+* Physiological difficulty
+* Situational difficulty
 
-## Anatomical Difficulty {#anat}
+## Anatomical Difficulty
 
 Anatomical difficulty can be further divided into difficulty with:
 
@@ -23,8 +23,10 @@ Anatomical difficulty can be further divided into difficulty with:
 * FONA
 
 Difficulty with one technique is associated with difficulty of other techniques.
-* Consider **elective cannulation of the CTM** if multiple anatomical difficulties exist
 
+:::column-margin
+Consider **elective cannulation of the cricothyroid membrane** if multiple anatomical difficulties exist.
+:::
 
 ### Difficult Mask Ventilation
 
@@ -36,9 +38,9 @@ Defined as inability to keep ventilate without:
 
 Assessment:
 
-* Typically poorly predicted  
-In one study, only 17% of difficulty was predicted.
-* Risk ↑ with >1 risk factor
+* Typically poorly predicted\
+May be <20% of all patients.
+* Risk ↑↑ with >1 risk factor
 
 Risk Factors (**MBBS MAT**):
 
@@ -48,13 +50,13 @@ Risk Factors (**MBBS MAT**):
 * **S**noring
 * **M**ale
 * **A**ge >55
-* **T**eeth (lack of)  
+* **T**eeth (lack of)\
 Teeth are numbered:
-	* Firstly by quadrant  
+	* Firstly by quadrant\
 	Top-right, top-left, bottom-left, bottom-right.
-		* Adult teeth are quadrants 1-4 respectively  
+		* Adult teeth are quadrants 1-4 respectively\
 		Each quadrant has 8 teeth, for a total of 32.
-		* Deciduous (baby) teeth are quadrants 5-8  
+		* Deciduous (baby) teeth are quadrants 5-8\
 		Each quadrant has 5 teeth, for a total of 20.
 	* Secondly by tooth number, from medial to lateral
 
@@ -63,34 +65,32 @@ Teeth are numbered:
 
 Risk factors (**LEMON**):
 
-* Cormack and **L**ehane Grading:  
-Cook modification correlates better with time to intubate and requirement for adjuncts.  
+* Cormack and **L**ehane Grading:\
+Cook modification correlates better with time to intubate and requirement for adjuncts.\
 ![Cook Modification](/resources/c&lgradecookmod.png)
 	* Grades are by best view, with or without ELM or BURP
-	* This modification adds additional complexity  
+	* This modification adds additional complexity\
 	The author recommends subdividing into three tiers which have greater practical value:
 		* Easy: Laryngeal inlet visible
-		* Restricted: Posterior glottic structures visible  
+		* Restricted: Posterior glottic structures visible\
 		Likely amenable to bougie.
-		* Difficult: Epiglottis cannot be lifted/No structures visible  
+		* Difficult: Epiglottis cannot be lifted/No structures visible\
 		Likely require specialist or blind techniques, and is associated with a significantly longer intubation time.
-* **E**xternal anatomy  
+* **E**xternal anatomy\
 The 3-3-2 rule is a crude predictor of difficult airway:
 	* Interincisor distance <3cm
 	* Thyromental distance <3cm
 	* Hyoid-thyroid notch distance <1cm
-* **M**allampati score  
+* **M**allampati score\
 MP 4 is associated with >10% change of difficult intubation.
 * **O**bstruction
-* **N**eck mobility  
+* **N**eck mobility\
 Ability to assume the ear-to-sternal notch position.
 
 
 ### Difficult SAD Placement
 
-Defined as inability to ventilate, requiring removal and tracheal intubation.
-
-SAD failure occurs in ~1% of instances, and is usually due to:
+Defined as inability to ventilate, requiring removal and tracheal intubation. SAD failure occurs in ~1% of instances, and is usually due to:
 
 * Leak
 * Obstruction
@@ -101,15 +101,14 @@ Risk Factors (**PROMPT**):
 * **R**estricted mouth opening
 * **O**besity
 * **M**ale
-* **P**osition  
+* **P**osition\
 Non-level operating table.
 * **T**eeth (poor)
 
 
 ### Difficult FOI
 
-
-Epidemiology:
+Risks:
 
 * FOI failure occurs in ~1.5% of instances. 
 * Epistaxis occurs in ~10%
@@ -127,58 +126,58 @@ Risk factors (**SHORT**):
 * **T**umour
 
 
-## Physiological Difficulty {#phys}	
+## Physiological Difficulty
 
-Key physiological states that affect intubation are the **VAPOURS**:
+Key physiological states that affect induction are the **VAPOURS**:
 
-* **Ventilation**  
+* **Ventilation**\
 PPV may have many detrimental effects:
 	* Reduce VR and therefore BP
 	* Volutrauma and barotrauma
 	* Gastric insufflation
-* **Acidaemia**  
-Very high minute ventilation may be compensating for metabolic acidosis  
+* **Acidaemia**\
+Very high minute ventilation may be compensating for metabolic acidosis\
 	* Rendering the patient apnoeic may lead to a rapid ↑ in PaCO~2~, fall in pH, and precipitate cardiac arrest
-		* **Consider gentle BMV during the apnoeic period to reduce this risk**  
+		* **Consider gentle BMV during the apnoeic period to reduce this risk**\
 		This needs to be balanced against the risk of gastric insufflation and aspiration.
 	* Use ETCO~2~ during preoxygenation to identify what the patients (compensating) ETCO~2~ is prior to induction
 	* Aim for an ETCO~2~ **at least as low** post-induction
-* **Pressures**  
+* **Pressures**\
 Important pressures to consider (**ABG**):
-	* **Airway** pressures  
+	* **Airway** pressures\
 	Avoid excessive airway pressures (Aim Pplat <30 cmH~2~O):
-		* Auto-PEEP  
+		* Auto-PEEP\
 		↑ RV afterload, reducing VR and subsequently BP.
-			* **Beware hypoxia secondary to impaired circulation** due to this reason, and avoid ↑ minute ventilation further  
+			* **Beware hypoxia secondary to impaired circulation** due to this reason, and avoid ↑ minute ventilation further\
 			Ensure **adequate time for expiration**, especially in patients with obstructive lung disease.
 		* Barotrauma
-	* **Systemic arterial pressure**  
+	* **Systemic arterial pressure**\
 	Aim for a higher systemic BP prior to induction.
-	* **Pulmonary arterial pressure**  
+	* **Pulmonary arterial pressure**\
 	PAP will also be affected by pH and PAO~2~. **Defend the systemic MAP** to maintain RV perfusion.
 	* **Gastric** pressure
-* **Oxygenation**  
+* **Oxygenation**\
 Hypoxia is:
 	* What kills patients during prolonged attempts at intubation
-	* More important than ventilation, **except** at extremes of pH  
+	* More important than ventilation, **except** at extremes of pH\
 	A starting pH of 7.1 will lead to a pH of ~6.9 after 4 minutes of apnoea (assuming a normal VCO~2~).
 	* Reduced by:
-		* Adequate denitrogenation  
+		* Adequate denitrogenation\
 		↑ FRC oxygen concentration and therefore oxygen reserve.
-		* Lung recruitment  
+		* Lung recruitment\
 		↑ FRC volume.
 * **Underlying disease**
-* **Regurgitation**  
+* **Regurgitation**\
 Consider the risks of aspiration and other airway contaminants (e.g. blood).
-* **Shock Index**  
-$$SI = {HR \over BP}$$. If the SI is >1, then consider initiating vasopressors/volume prior to intubation. If using vasopressor infusions, then prepare these prior.
-	* Dose reduce sedatives  
+* **Shock Index**\
+$SI = {HR \over BP}$. If the SI is >1, then consider initiating vasopressors/volume prior to intubation. If using vasopressor infusions, then prepare these prior.
+	* Dose ↓ sedatives\
 	Up to **90%**.
 	* Dose ↑ relaxants
 	* Aggressively treat hypotension
 
 
-## Situational Difficulty {#env}
+## Situational Difficulty
 
 
 

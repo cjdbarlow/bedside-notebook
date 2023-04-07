@@ -1,0 +1,10 @@
+| Score |         Eye         |                           Verbal                           |                             Motor                             |
+|-------+---------------------+------------------------------------------------------------+---------------------------------------------------------------|
+|     6 | -                   | -                                                          | Obeys unambiguous command.                                    |
+|     5 | -                   | Orientated. Coherent and appropriate response.             | Moves towards pain in a *meaningful attempt* to alleviate it. |
+|     4 | Open spontaneously. | Confused. Appropriate (but incorrect) response.            | Withdraws to pain.                                            |
+|     3 | Opens to voice.     | Inappropriate response. Response does not match questions. | Abnormal flexion (decorticate posturing) to pain.             |
+|     2 | Opens to pain.      | Incomprehensible response. Moaning/sounds, but no words.   | Abnormal extension (decerebrate posturing) to pain.           |
+|     1 | No response.        | No response.                                               | No response.                                                  |
+
+: Glasgow Coma Scale Scoring

@@ -81,6 +81,8 @@ book:
         - part: "Critical Care"
           chapters:
             - assessment/critical/basic.qmd
+            - part: <hr>
+            - assessment/critical/airway.qmd
             - assessment/critical/neuro.qmd
             - part: <hr>
             - assessment/critical/brain_death.qmd
@@ -180,8 +182,8 @@ book:
                   # Fluids
         - part: "Neurology"
           chapters:
-            - part: "Anaesthesia"
-              chapters:
+            # - part: "Anaesthesia"
+            #   chapters:
             - part: "Analgesia"
               chapters:
                 - management/pain/pain_overview.qmd
@@ -577,6 +579,8 @@ book:
         chapters:
         - part: "Failure"
           chapters:
+            - disease/neuro/coma.qmd
+            - disease/neuro/hie.qmd
             - disease/neuro/abd.qmd
             # Toxic encephalopathy
         - part: "Cortical/Subcortical"
@@ -844,6 +848,7 @@ book:
       - part: "Other"
         chapters:        
         - investigations/csf.qmd
+        - investigations/eeg.qmd
         - investigations/ctg.qmd
         - investigations/pfts.qmd
       # Ventilator waveforms

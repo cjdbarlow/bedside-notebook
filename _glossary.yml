@@ -69,6 +69,7 @@ FRC: Functional Residual Capacity
 FSH: Follicle Stimulating Hormone
 FVC: Forced Vital Capacity
 GBS: Guillain-Barré syndrome
+GCS: Glasgow Coma Scale
 GFR: Glomerular Filtration Rate
 GH: Growth Hormone
 GRV: Gastric Residual Volume
@@ -107,6 +108,7 @@ LCx: Left Circumflex
 LH: Luteinising Hormone
 LMWH: Low Molecular Weight Heparin
 LoS: Length of Stay
+LP: Lumbar Puncture
 LSW: Last Seen Well
 LVEDP: Left Ventricular End-Diastolic Pressure
 LVEDV: Left Ventricular End-Diastolic Volume
@@ -191,6 +193,7 @@ SCV: Subclavian Vein
 SIRS: Systemic Inflammatory Response Syndrome
 SLE: Systemic Lupus Erythematosus
 SLED: Sustained Low-Efficiency Dialysis
+SSEP: Somatosensory Evoked Potential
 STP: Standard Temperature and Pressure (0°C at 100kPa)
 STE: ST segment elevation
 SV: Stroke Volume
@@ -200,6 +203,7 @@ SVR: Systemic Vascular Resistance
 SVV: Stroke Volume Variation
 TB: Tuberculosis
 TBW: Total Body Water
+TCA: Tricyclic Antidepressant
 TDP: Torsades de Pointes
 TIA: Transient Ischaemic Attack
 TIPS: Transjugular Intrahepatic Portosystemic Shunt
@@ -210,6 +214,7 @@ TPN: Total Parental Nutrition
 TR: Tricuspid Regurgitation
 TS: Tricuspid Stenosis
 TSH: Thyroid Stimulating Hormone
+TTM: Targeted Temperature Management
 UEC: Urea/Electrolytes/Creatinine
 UFH: Unfractionated Heparin
 UO: Urine Output

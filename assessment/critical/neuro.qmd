@@ -3,9 +3,7 @@
 The neurological exam comes in an escalating level of detail, depending on the patient:
 
 :::column-margin
-Testing and diagnosis of brain death is covered under [brain death testing](braindeath.qmd).
-
-
+Testing and diagnosis of brain death is covered under @sec-braindeath.
 :::
 
 * **Paralysed**
@@ -22,10 +20,13 @@ Testing and diagnosis of brain death is covered under [brain death testing](brai
 ## Assessing Level of Consciousness
 
 :::info
-Having a rigorous approach improves reproducibility and reliability of the score.
+Principles of GCS assessment:
+
+* A rigorous approach improves reproducibility and reliability
+* Score is the sum of the **best** result in any limb
 :::
 
-In a patient with unclear level of consciousness:
+In a patient with an unclear level of consciousness, assess GCS by:
 
 :::column-margin
 Vertical eye movements (but not always lateral) are preserved in locked-in syndrome.\
@@ -35,8 +36,8 @@ Avoid asking the patient to squeeze hands - this may be a grasp reflex.\
 Report the GCS in its constituent components, e.g. E~2~V~T~M~3~. Use the best score in any section.
 :::
 
-
-* Ask to blink and to look up/down
+* Ask to blink and to look up/down\
+This assesses for locked-in syndrome.
 * Ask for an *unambiguous action* (e.g. thumbs up, wiggle toes) to assess hands and feet
 * Perform a painful stimulus\
 *Only* after a patient has failed to respond to a command.
@@ -44,27 +45,15 @@ Report the GCS in its constituent components, e.g. E~2~V~T~M~3~. Use the best sc
     Supraorbital pressure, jaw thrust. Allows assessment for localisation.
     * Peripherally if no central response
 
-:::column-margin
-**Meaningful attempt**s include moving hand to head with supraorbital pressure, or an arm *crossing midline* with pain on the contralateral side.
-:::
 
-| Score |         Eye         |                           Verbal                           |                             Motor                             |
-|-------+---------------------+------------------------------------------------------------+---------------------------------------------------------------|
-|     6 | -                   | -                                                          | Obeys unambiguous command.                                    |
-|     5 | -                   | Orientated. Coherent and appropriate response.             | Moves towards pain in a *meaningful attempt* to alleviate it. |
-|     4 | Open spontaneously. | Confused. Appropriate (but incorrect) response.            | Withdraws to pain.                                            |
-|     3 | Opens to voice.     | Inappropriate response. Response does not match questions. | Abnormal flexion (decorticate posturing) to pain.             |
-|     2 | Opens to pain.      | Incomprehensible response. Moaning/sounds, but no words.   | Abnormal extension (decerebrate posturing) to pain.           |
-|     1 | No response.        | No response.                                               | No response.                                                  |
-
-
+{{< include /includes/gcs.qmd >}}
 
 ## Pupils
 
 Bedside assessment:
 
 * **Size**  
-Different sized pupils suggests different aetiology of the lesion:
+Normal is 2-5mm. Pupil size suggests aetiology of the lesion:
     * Small  
         * Drugs  
         Opioids and clonidine.
@@ -251,9 +240,8 @@ Tests CN II
     * Visual extinction
         * Form of neglect
         * Patient is presented with a different number of fingers on each side
-        * The patient will not report seeing the fingers on the affected side when presented to both sides, but can see them when presented to the affected side alone
-
-
+        * The patient will not report seeing the fingers on the affected side when presented to both sides, but can see them when presented to the affected side alone\
+\
 * **Extra-ocular movements**  
 Tests CN III, IV, VI
     * Patient focuses straight ahead
@@ -262,29 +250,26 @@ Tests CN III, IV, VI
         * Movement limitation
         * Dysconjugate gaze:
         * Horizontal
-        * Vertical
-
-
+        * Vertical\
+\
 * **Facial Sensation**
     * Trigeminal sensation  
-    Tests CN V~1~, V~2~, V~3~.
-
-
+    Tests CN V~1~, V~2~, V~3~.\
+\
 * **Facial Expression**  
 Tests CN VII.
     * Evaluate strength and asymmetry as the patient:
         * Wrinkles brow
         * Closes eyes tightly
         * Puffs out cheeks
-        * Smiles    
-
-
+        * Smiles\
+\
 * **SCM and trapezius**  
 Tests CN XI.
     * Evaluate strength as the patient:
         * Shrugs shoulders
-        * Turns head to each side
-
+        * Turns head to each side\
+\
 * **Tongue**  
 Tests CN XII.
     * Atrophy  

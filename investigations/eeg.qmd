@@ -1,0 +1,24 @@
+# Electroencephalogram
+
+## Findings
+
+Key EEG diagnoses and their associated findings include:
+
+* NCSE
+* Thiopentone infusion
+	* Burst suppression
+* Hepatic encephalopathy
+	* Paroxysmal triphasic waves
+* Hypoxic encephalopathy
+	* Theta activity
+	* Diffuse slowing
+	* Burst suppression
+	* Alpha coma
+* Herpes encephalitis
+	* Periodic sharp spikes
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
