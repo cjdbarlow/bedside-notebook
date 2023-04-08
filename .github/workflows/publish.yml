@@ -16,6 +16,9 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
+      - name: Add Memory
+        run: echo "QUARTO_DENO_EXTRA_OPTIONS=--v8-flags=--max-old-space-size=8192" >> $GITHUB_ENV
+
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
