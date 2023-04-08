@@ -1727,3 +1727,18 @@ Organ systems affected:
 	* ↓ renal blood flow
 * G
 	* ↓ splanchnic blood flow  
+
+
+
+# Thrombophilia screen:
+
+* Protein C/S
+* AT III
+* Factor V Leiden
+
+# Raised ICP as a management page with sx and rx, with link back to appropriate pages
+
+* ↓ Conscious state
+* Impaired upward gaze
+* Hypertension
+* Delirium

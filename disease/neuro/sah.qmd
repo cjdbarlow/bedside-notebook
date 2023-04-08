@@ -1,33 +1,56 @@
-# Aneurysmal Subarachnoid Haemorrhage
+# Subarachnoid Haemorrhage
 
- 
-Subarachnoid haemorrhage is a neurological emergency. SAH:
+Intracranial haemorrhage into the subarachnoid space that occurs commonly with other forms of intracranial haemorrhage, and is secondary to:
 
-* May be:
-	* Aneurysmal  
-	Form of haemorrhagic stroke.
-		* Accounts for 3% of all strokes
-	* Traumatic
-	* Other  
-		* AVM
-		* Fistulae
-		* Reversible cerebral vasoconstriction syndrome.
+:::column-margin
+Intra**cranial** haemorrhage can be divided into:
+
+* Intra-axial\
+Intracerebral haemorrhage.
+* Extra-axial
+	* EDH
+	* SDH
+	* SAH
+	* IVH
+:::
+
+* Aneurysm rupture\
+85% of all cases.
+* Trauma
+* Other
+	* AVM
+	* Pituitary apoplexy
+	* Cocaine
+	* Fistulae
+	* Reversible cerebral vasoconstriction syndrome
 
 
-Grading:
+| Grade | WFNS                                                                           | Grade | Modified Fisher                                                           |
+| ----- | ------------------------------------------------------------------------------ | ----- | ------------------------------------------------------------------------- |
+| **1** | GCS 15                                                                         | **0** | No SAH or IVH                                                             |
+| **2** | GCS 13-14, no motor deficit                                                    | **1** | Thin SAH, no IVH                                                          |
+| **3** | GCS 13-14, motor deficit                                                       | **2** | Thin SAH, IVH present                                                     |
+| **4** | GCS 7-12                                                                       | **3** | Thick SAH, no IVH                                                         |
+| **5** | GCS 3-6                                                                        | **4** | Thick SAH, IVH present                                                    |
+| Notes: | Assists prognosis and determining post-operative destination. Graded from 1-5. |       | Radiological grading scale that predicts vasospasm risk. Graded from 0-4. |
 
-* Many grading scales exist:
 
-* The WFNS scale assists prognosis and determining post-operative destination
-* The Modified Fischer scale predicts vasospasm risk
+: Grading of Subarachnoid Haemorrhage
 
-| Grade | WFNS                        | Hunt & Hess                                                       | Modified Fisher        |
-| --    | --                          | --                                                                | --                     |
-| **1** | GCS 15                      | Mild headache, no or minimal nuchal rigidity                      | No SAH or IVH          |
-| **2** | GCS 13-14, no motor deficit | Moderate to severe headache, nuchal rigidity, may have CN deficit | Thin SAH, no IVH       |
-| **3** | GCS 13-14, motor deficit    | Confusion or lethargy, with or without mild focal deficit         | Thin SAH, IVH present  |
-| **4** | GCS 7-12                    | Stuporous, severe focal deficit                                   | Thick SAH, no IVH      |
-| **5** | GCS 3-6                     | Comatose, posturing or no motor response                          | Thick SAH, IVH present |
+:::column-margin
+The Hunt & Hess grading system is largely deprecated due to inter-rater variability, but is included as a historical footnote.
+
+| Grade | Hunt & Hess                                                       |
+| ----- | ----------------------------------------------------------------- |
+| **1** | Mild headache, no or minimal nuchal rigidity                      |
+| **2** | Moderate to severe headache, nuchal rigidity, may have CN deficit |
+| **3** | Confusion or lethargy, with or without mild focal deficit         |
+| **4** | Stuporous, severe focal deficit                                   |
+| **5** | Comatose, posturing or no motor response                          |
+
+: Hunt & Hess Grading
+
+:::
 
 ## Epidemiology and Risk Factors
 
@@ -37,7 +60,7 @@ Aneurysmal SAH:
 * Has a high mortality rate
 	* 15% prehospital
 	* 30% 30-day
-* 40% make a good recovery  
+* 40% make a good recovery\
 Prognostication:
 	* Age
 	* Conscious state
@@ -56,7 +79,9 @@ Prognostication:
 		* Polycystic kidney disease
 		* Type IV Ehlers-Danlos syndrome
 
+
 ## Pathophysiology
+
 
 ### Aetiology
 
@@ -64,124 +89,147 @@ Prognostication:
 
 Typical presentation of:
 
-* Sudden, severe headache  
+* Sudden, severe headache
 	* "Worst headache of life"
 	* Different from usual headaches
+	* 20% of patients may have had similar headache before\
+	Potentially sentinel haemorrhage.
 * Often associated with:
 	* Loss of consciousness
 	* Nausea
 	* Vomiting
 	* Photophobia
-	* Neck pain
+	* Meningeal irritation\
+	More reliable in patients iwth higher GCS.
 
-
-Headache may occur without symptoms, and patients may not seek medical attention or be misdiagnosed.
-
-Assessment:
-
-* GCS
-* Meningeal irritation
-* Focal neurology
-* Fundoscopy  
-May identify intraocular haemorrhage, which occurs in ~40% of cases.
+:::column-margin
+Headache may occur without other symptoms, and patients may not seek medical attention or be misdiagnosed.
+:::
 
 
 ## Diagnostic Approach and DDx
 
 ## Investigations
 
+Laboratory:
+
+* LP\
+Recommended if negative or equivocal CT in the setting of high clinical suspicion. Important findings: 
+	* Opening pressure
+	* CSF collection in 4 consecutive tubes\
+	RBC counts can be measured in each to exclude traumatic tap.
+	* Xanthochromia\
+		* By visual inspection\
+		May take 12 hours to develop.
+		* Spectrophotometry\
+		Superior to visual inspection.
+
 Imaging:
 
-* Non-contrast CT head  
-Sensitivity ↑ from 93% to 100% over 6 hours, and falls to 60% over the next 7 days.
-* CTA  
+* Non-contrast CT head\
+	* Sensitivity ↑ from 93% to 100% over 6 hours, and falls to 60% over the next 7 days.
+	* Repeat CT should occur at 24-48 hours to identify any new infarctions\
+	Those not attributable to EVD or IPH should be considered to be due to delayed cerebral ischaemia.
+* CTA\
 First-line vascular imaging to identify source, though may miss aneurysms ⩽4mm.
-* MRI  
+* MRI\
 May be slightly superior to CT.
-* DSA  
+* DSA\
 Gold-standard for vascular imaging, and facilitates treatment.
-* Transcranial Doppler  
+* Transcranial Doppler\
 Used to monitor for vasospasm.
-	* Suggested by a Lindegaard ratio >3  
+	* Suggested by a Lindegaard ratio >3\
 	Mean velocity in the MCA/mean velocity in ipsilateral ICA.
 
-Lumbar puncture:
 
-* Recommended if negative or equivocal CT in the setting of high clinical suspicion
-* Method:
-	* Opening pressures
-	* CSF collection in 4 consecutive tubes  
-	RBC can be measured consecutively to exclude traumatic tap.
-	* Xanthochromia  
-	By visual inspection; may take 12 hours to develop.
-	* Spectrophotometry  
-	Superior to visual inspection.
+Other:
 
+* EEG\
+Consider continuous EEG monitoring in patients who
+	* Have a poor grade of SAH
+	* Fail to improve
 
 ## Management
 
-Control and stabilise
-* Secure airway if required
+**Resuscitation**:\
 
-
-Avoid rebleeding:
-
-* Aggressive BP control to **SBP ≤160mmHg**  
-Adjust target based on premorbid baseline BP.
-	* Agents should preferably be given by infusion, and include:
-		* Labetalol 5-20mg/hr
-	* Short-acting opioids for analgesia
-		* Dexamethasone can be considered for meningeal irritation
-	* Avoid hypotension
-	* Maintain euvolaemia  
+* A
+	* Secure if required
+* C
+	* Aggressive **blood pressure control**
+		* Target **SBP ≤160**mmHg or **MAP ≤110**mmHg
+		Adjust target based on premorbid baseline BP.
+		* Agents should preferably be given by infusion, and include:
+			* **Labetalol** 5-20mg/hr
+		* Short-acting **opioids** for analgesia
+			* Dexamethasone can be considered for meningeal irritation
+		* Avoid hypotension
+	* Maintain euvolaemia\
 	Avoid hypervolaemia.
-* Consider antifibrinolytics  
-For up to 72 hours, prior to aneurysm repair.
 
 
-Secure aneurysm:
+**Specific therapy**:
 
-* Transfer to high-volume aneurysm centre for securing of aneurysm  
-* Clip or coil depending on location and characteristics
-	* Clipping  
-	Favoured for aneurysms:
-		* From the MCA
-		* With a wide neck:body ratio
-		* With crucial arteries from aneurysm dome
-		* With a large parenchymal haematoma
-
-
-Neurocritical care to prevent and manage complications:
-
-* Delayed cerebral ischaemia
-	* Nimodipine 60mg Q4H PO should be administered to all SAH patients for 21 days
-		* Improves outcome but does not appear to reduce radiological vasospasm  
+* Pharmacological
+	* **Tranexamic acid**\
+	For up to 72 hours prior to aneurysm repair to ↓ risk of rebleeding.
+	* **Nimodipine**
+		* 60mg Q4H PO\
+		Can adjust to 30mg Q2H PO if symptomatic hypotension.
+			* Commonly requires vasopressors
+		* Administered to all SAH patients for 21 days
+		* Significantly improves outcome (↓ stroke by 34%) but does not appear to reduce radiological vasospasm\
 		Neuroprotection probably by another mechanism.
-	* Repeat CT should occur at 24-48 hours to identify any new infarctions  
-	Those not attributable to EVD or IPH should be considered to be due to delayed cerebral ischaemia.
-	* Consider regular transcranial doppler to monitor for vasospasm
-	* Patients with suspected vasospasm should have induced hypertension  
-	Usually results in SBP 180-200mmHg. Depending on preference for MAP or SBP targets, consider aiming:
-		* MAP 20mmHg above baseline
-		* SBP 20-40mmHg above baseline
-	* Consider intraarterial vasodilators or angioplasty for vasospasm-related delayed cerebral ischaemia
-* Seizures  
-	* Consider prophylactic anticonvulsants  
-	Restrict to a short course.
-	* Consider continuous EEG monitoring in patients who
-		* Have a poor grade of SAH
-		* Fail to improve
-* Temperature control  
-Target normothermia, with aggressiveness based on risk of delayed cerebral ischaemia.
-* Glucose control  
-Careful control with strict avoidance of hypoglycaemia.
-* Anaemia  
-Hb level should be maintained at 80-100g/L.
-* Hyponatraemia  
-Treat early with hydrocortisone and fludrocortisone.
-* DVT prophylaxis  
-UFH should be considered 24 hours after securing of aneurysm. 
+	* Prophylactic anticonvulsants\
+		* Limited evidence\
+		Restrict to a short course.
+* Procedural
+	* **Aneurysm securing**
+		* Transfer to high-volume aneurysm centre for securing of aneurysm
+		* Securing recommended within 48 hours of onset
+		* Decision for clipping or coiling depends on location aneurysm location and characteristics
+			* **Clipping**\
+			Favoured for aneurysms:
+				* From the MCA
+				* With a wide neck:body ratio
+				* With crucial arteries from aneurysm dome
+				* With a large parenchymal haematoma
+			* Coiling\
+				* Higher 1-year survival in patients who are equally suitable for clipping or clipping
+				* ↑ Risk of rebleeding
+				* Risk of rupture without option for immediate surgical control
+	* EVD\
+	Early if signs of hydrocephalus or IVH.
 
+
+**Supportive care**:
+
+* D
+	* Glucose control\
+	Careful control with strict avoidance of hypoglycaemia.
+* E
+	* Temperature control\
+	Treat >38°C targeting normothermia, with aggressiveness based on risk of delayed cerebral ischaemia.
+		* Anti-pyretics
+		* Cooling
+* F
+	* Hyponatraemia\
+	Treat early with hydrocortisone and fludrocortisone.
+* H
+	* Anaemia\
+	Hb level should be maintained at 80-100g/L.
+	* DVT prophylaxis\
+	UFH should be considered 24 hours after securing of aneurysm. 
+	
+
+**Disposition**:
+
+* ICU
+	* If intubated or airway concerns
+	* Often required for haemodynamic control prior to securing aneurysm
+	* May be required if EVD in situ, depending on ward skill
+* Neurosurgical HDU
+	
 
 ### Anaesthetic Considerations
 
@@ -189,77 +237,68 @@ UFH should be considered 24 hours after securing of aneurysm.
 
 Prophylactic 'triple-H' therapy:
 
-* Not recommended due to lack of efficacy
+* Not recommended due to lack of efficacy and evidence of harm
 * Consists of:
 	* Hypervolaemia
 	* Hypertension
-	* Haemodilution  
+	* Haemodilution\
 	Theorised to improve laminar flow and ↑ overall DO~2~.
 
 ## Complications
 
-Rebleeding:
-
-* Major life-threatening complication
-	* 20-60% mortality
-	* Usually occurs within 72 hours  
-	Majority (50-90%) within 6 hours.
-
-
-Hydrocephalus:
-
-* Occurs in 20% of patients  
-Within minutes to hours of onset.
-* Symptoms include:
-	* ↓ conscious state
-	* Impaired upward gaze
-	* Hypertension
-	* Delirium
-* Diagnosis on CT
-* Managed with EVD
-
-
-Epilepsy:
-
-* Occurs in 2% of patients  
-Correlated with severity.
-
-
-Myocardial injury:
-
-* LV dysfunction in 10-30%
-* Related to catecholamine surge  
-May lead to myocardial necrosis.
-* Neurocardiogenic shock/Takotsubo cardiomyopathy may arise due to combination of ↑ preload and afterload (catecholamines), and ↓ inotropy (necrosis)
-
-Delayed cerebral ischaemia:
-
-* Defined as **any neurological deterioration** lasting **more than one hour** and **cannot be explained** by any other condition
-* Leading cause of neurological morbidity  
-Via cerebral infarction.
-* Mechanisms include:
-	* Vasospasm
-	* Microcirculatory dysfunction
-	* Microthrombosis
-	* Cortical spreading depolarisation
-	* Neuro-inflammation
-* Associated with:
-	* High serum catecholamine levels
-	* Elevated serum lactate
-* Leads to both:
-	* Neurological complications:
-		* Seizures
-		* Infection
-		* Cerebral oedema
-	* Systemic complications:
-		* Infection
-		* Fever
-		* APO
-		* Cardiac failure
+* C
+	* Myocardial injury\
+	Catecholamine surge with risk of myocardial necrosis.
+		* LV dysfunction in 10-30%
+		* Neurocardiogenic shock/Takotsubo cardiomyopathy may arise due to combination of ↑ preload and afterload (catecholamines), and ↓ inotropy (necrosis)
+* D
+	* **Rebleeding**\
+	Major life-threatening complication
+		* 20% of patients in first 24 hours
+		* Majority (50-90%) occur within 6 hours
+		* Uncommon after 72 hours
+		* 20-60% mortality
+	* Secondary **hydrocephalus**
+		* Occurs in 20% of patients\
+		Within minutes to hours of onset.
+		* Requires EVD
+	* **Seizures**
+		* Occurs in 26% of patients\
+		Correlated with blood volume and MCA aneurysms.
+	* **DCI**\
+	Leading cause of neurological morbidity due to cerebral infarction, and leads to both:
+		* Neurological complications:
+			* Seizures
+			* Infection
+			* Cerebral oedema
+		* Systemic complications:
+			* Infection
+			* Fever\
+			Intracranial blood is pyrogenic.
+			* APO
+			* Cardiac failure\
+			Via ↑ catecholamines.
+	* **Seizure**
+* F
+	* Hyponatraemia\
+	30% of cases.
+		* CSW
+	* Hypernatraemia
 
 ## Prognosis
 
->Grading systems should not be used in isolation to prognosticate for individual patients
+Poor prognostic features:
+
+* Age
+* Medical comorbidities
+* Delayed Cerebral Ischaemia
+* Hyperglycaemia
+* Anaemia
+
+
+Good prognostic features:
+
+* High-volume neurosurgical centre
 
 
 ## Key Studies

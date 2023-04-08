@@ -596,6 +596,7 @@ book:
           chapters:
             - disease/neuro/sah.qmd
             - disease/neuro/vasospasm.qmd
+            - disease/neuro/ich.qmd
             # Venous thrombosis
         # - part: "Brainstem"
         #   chapters:

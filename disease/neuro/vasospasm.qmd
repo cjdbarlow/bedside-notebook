@@ -1,15 +1,43 @@
-# Vasospasm
+# Delayed Cerebral Ischaemia
 
+:::info
+DCI was historically referred to as **vasospasm** due to the narrowed cerebral vasculature seen on angiogram. The nomenclature has changed due to recognition that:
 
-Spasm of large and medium-sized intracranial arteries that:
+* The pathophysiology is more complex than just 
+* Not all patients with radiological vasospasm are symptomatic
+* Not all symptomatic patients have radiological vasospasm
+:::
 
-* Occurs following SAH
-* Is a major cause of delayed cerebral ischaemia
-* Develops in **one-third** of SAH patients between **4 and 14 days**
+Neurological deterioration in the setting of SAH that:
+
+* Consists of one or more of:
+	* **New focal** neurological **deficit**
+	* **Drop** in **GCS** by **⩾2**
+	* Cerebral infarction
+* Lasts **more than one hour**
+* **Cannot be explained** by any other condition
+
+ 
 
 ## Epidemiology and Risk Factors
 
+Risk factors:
+
+* SAH
+	* Directly related to volume of interventricular blood.
+	* Develops in **one-third** of SAH patients between **4 and 14 days**
+* Hyponatraemia
+
 ## Pathophysiology
+
+Mechanisms include:
+
+* Vasospasm\
+Of large and medium-sized intracranial arteries.
+* Microcirculatory dysfunction
+* Microthrombosis
+* Cortical spreading depolarisation
+* Neuro-inflammation
 
 ### Aetiology
 
@@ -20,6 +48,34 @@ Spasm of large and medium-sized intracranial arteries that:
 ## Investigations
 
 ## Management
+
+:::caution
+Aggressive management of vasospasm is critical to prevent neurological injury and should progress in a stepwise fashion:
+
+* Euvolaemia
+* Induced hypertension
+* Formal angiography with:
+	* Cerebral angioplasty
+	* Direct cerebral vasodilators
+::: 
+
+**Resuscitation**:
+
+* C
+	* Volume resuscitation
+	To euvolaemia.
+	* Induced hypertension
+	* **Nimodipine**
+		* 60mg Q4H PO\
+		Can adjust to 30mg Q2H PO if symptomatic hypotension.
+		* Administered to all SAH patients for 21 days
+		* Improves outcome but does not appear to reduce radiological vasospasm\
+		Neuroprotection probably by another mechanism.
+	* Patients with suspected vasospasm should have induced hypertension\
+	Usually results in SBP 180-200mmHg. Depending on preference for MAP or SBP targets, consider aiming:
+		* MAP 20mmHg above baseline
+		* SBP 20-40mmHg above baseline
+	* Consider intraarterial vasodilators or angioplasty for vasospasm-related delayed cerebral ischaemia
 
 ### Anaesthetic Considerations
 

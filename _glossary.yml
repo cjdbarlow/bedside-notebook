@@ -20,6 +20,7 @@ ASD: Atrial Septal Defect
 ATC: Automatic Tube Compensation
 ATP: Adenosine Triphosphate
 AUC: Area Under the Curve
+AVM: Arterovenous Malformation
 BBB: Blood-Brain Barrier
 BMR: Basal Metabolic Rate
 BNP: Brain Natriuretic Peptide
@@ -35,6 +36,7 @@ COX: Cyclo-Oxygenase
 CPP: Cerebral/Coronary Perfusion Pressure
 CRRT: Continuous Renal Replacement Therapy
 CSF: Cerebrospinal Fluid
+CSW: Cerebral Salt Wasting
 CD: Collecting Duct
 CVC: Central Venous Catheter
 CVP: Central Venous Pressure
@@ -42,6 +44,7 @@ DAPT: Dual Anti-Platelet Therapy
 DBP: Diastolic Blood Pressure
 DCC: Direct Current Cardioversion
 DCD: Donation after Circulatory Death
+DCI: Delayed Cerebral Ischaemia
 DCT: Distal Convoluted Tubule
 DIC: Disseminated Intravascular Coagulopathy
 DI: Diabetes Insipidus
@@ -51,6 +54,7 @@ DOP: D-type (δ) opioid receptor
 DRG: Dorsal Respiratory Group
 ECF: Extracellular Fluid
 ECT: Electron Transport Chain
+EDH: Extradural Haemorrhage
 EDP: End-Diastolic Pressure
 EDV: End-Diastolic Volume
 EEG: Electroencephalogram
@@ -88,7 +92,7 @@ HTN: Hypertension
 IADLs: Independent with activities of daily living.
 IAP: Intraabdominal Pressure
 ICF: Intracellular Fluid
-ICH: Intracranial Haemorrhage
+ICH: Intracerebral Haemorrhage
 ICP: Intracranial Pressure
 ICU: Intensive Care Unit
 IE: Infective Endocarditis
@@ -100,6 +104,7 @@ iPEEP: Intrinsic Positive End-Expiratory Pressure
 IRIS: Immune Reconstitution Inflammatory Syndrome
 IVDU: Intravenous Drug Use
 IVC: Inferior Vena Cava
+IVH: Intraventricular Haemorrhage
 IVS: Interventricular Septum
 KOP: K-type (κ) opioid receptor
 LAD: Left Anterior Descending
@@ -191,6 +196,7 @@ SAQ: Short Answer Question
 SBP: Systolic Blood Pressure or Spontaneous Bacterial Peritonitis
 SCC: Squamous Cell Carcinoma
 SCV: Subclavian Vein
+SDH: Subdural Haemorrhage
 SIRS: Systemic Inflammatory Response Syndrome
 SLE: Systemic Lupus Erythematosus
 SLED: Sustained Low-Efficiency Dialysis

@@ -1,0 +1,116 @@
+# Intracerebral Haemorrhage {#sec-ich}
+
+Intracerebral haemorrhage is bleeding into brain parenchyma, usually from a vascular cause. 
+
+:::column-margin
+This discusses "pure" ICH, which most commonly occurs with haemorrhagic stroke.\
+\
+Pure ICH from aneurysmal bleeding is rare, as the majority have subarachnoid (SAH) or ventricular (IVH) extension. Trauma often causes a variety of intra- and extra-axial bleeds, although isolated contusions are common.
+:::
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+Haemorrhage:
+
+* Size is a function of the anatomical resistance of the site of bleeding
+	* Cortical typically larger than pontine
+* Degree of dysfunction is determined by the region of brain destroyed
+	* Pontine typically more disabling than cerebral
+
+:::column-margin
+Intra**cranial** haemorrhage can be divided into:
+
+* Intra-axial\
+Intracerebral haemorrhage.
+* Extra-axial
+	* EDH
+	* SDH
+	* SAH
+	* IVH
+:::
+
+### Aetiology
+
+Causes:
+
+* Vascular
+	* Hypertensive haemorrhage\
+	Prolonged systemic hypertension results in vascular degeneration and formation of microaneurysms, usually at bifurcations.
+	* Aneurysmal\
+	Cerebral aneurysms can occasionally cause ICH without SAH.
+	* AVM
+* Trauma
+
+## Clinical Manifestations
+
+* Usually no prodrome
+* Sudden onset and rapid deterioration with:
+	* Focal neurology
+	* Depression of consciousness
+	* ↑ ICP\
+	Ocular palsies.
+
+## Diagnostic Approach and DDx
+
+Key differential diagnoses:
+
+* Ischaemic stroke\
+Difficult to distinguish clinically in early stages.
+
+## Investigations
+
+Bedside:
+
+Laboratory:
+
+Imaging:
+
+Other:
+
+## Management
+
+**Resuscitation**:\
+
+:::column-margin
+General principles of management are the same as for ischaemic stroke, with the obvious exceptions of anticoagulation and thrombolysis.
+:::
+
+* C
+	* Hypertension control\
+	SBP target <140mmHg.
+
+***Specific therapy**:
+
+* Pharmacological
+	* Reversal of anticoagulation
+* Procedural
+	* EVD\
+	Indicated in:
+		* Secondary hydrocephalus
+		* Intraventricular extension
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+### Marginal and Ineffective Therapies
+
+* Hyperventilation\
+↓ PaCO~2~ to <30mmHg results in ↓ CBF and cerebral ischaemia
+* Steroids
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References

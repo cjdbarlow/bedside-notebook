@@ -262,11 +262,13 @@ The more the seizure is disturbing consciousness, the greater the risk of brain 
 			Always should be combined with a benzodiazepine for seizure termination.
 			* Phenobarbital 10-15mg/kg IV, given at 100mg/min
 		* **Refractory status**
-			* Thiopental 100-250mg IV
-			* Midazolam 0.1-0.3mg/kg IV, then infuse at 0.05-0.4mg/kg/hr\
-			Can be used as an alternative to phenobarbital.
-			* Propofol 2mg/kg IV, then infusion at 5-10mg/kg/hr
-			* Continue infusions for **12 hours** before attempting to wean therapy
+			* Highly sedating anaesthetic agents\
+			Continue infusions for **12 hours** before attempting to wean therapy. Options include:
+				* Thiopental 100-250mg IV
+				* Midazolam 0.1-0.3mg/kg IV, then infuse at 0.05-0.4mg/kg/hr\
+				Can be used as an alternative to phenobarbital.
+				* Propofol 2mg/kg IV, then infusion at 5-10mg/kg/hr
+			* Ketogenic diet
 	* Maintenance antiepileptic
 		* Phenytoin
 			* **20mg/kg** IV load
