@@ -4,8 +4,22 @@
 Brain death and circulatory death are both death, and do not differ in type but in the way they are determined.
 :::
 
-**Brain Death** is the irreversible loss of all functions of the brain, including the brainstem. 
+**Brain Death** is the irreversible loss of all functions of the brain, including the brainstem.
 
+:::column-margin
+Brain death is also referred to as neurological death.
+:::
+
+
+## Epidemiology and Risk Factors
+
+Brain death:
+
+* Accounts for 1-2% of all death
+	* 5-10% of ICU death
+* Rates decline as treatment of brain injury improves
+* Is poorly understood by both physicians and the general public
+	* In a 2015 survey, 57% of physicians did not believe that brain death equates to cardiorespiratory death
 
 ## Pathophysiology
 
@@ -31,6 +45,9 @@ The definitions and process discussed here are specific to brain death in the Au
 Determination of brain death requires:
 
 * Meeting preconditions
+	* Consistent lesion
+	* No reversible cause
+	* Possible to diagnose
 * Clinical testing\
 Consists of:
 	* Observation period
@@ -57,7 +74,7 @@ Neuroimaging consistent with acute brain pathology that could cause brain death.
 		* Central response (grimace) to upper limb stimulus
 		* Cough reflex
 	* Normothermia\
-	≥ 36.5°C.
+	≥ 36.5°C. Hypothermia depresses consciousness, and brainstem reflexes may be absent <28°C.
 	* Normotensive 
 	SBP ≥90mmHg/MAP >60mmHg in adults, or age-appropriate perfusion pressure in children.
 	* No sedation, analgesia 
@@ -80,6 +97,17 @@ Neuroimaging consistent with acute brain pathology that could cause brain death.
 	* Ability to perform apnoea test\
 	Neuromuscular system capable of independent respiration (e.g. no high cervical spine injury), saturations able to be maintained with supplemental oxygen.
 
+:::column-margin
+Conditions which may mimic brain death include:
+
+* Neurological
+	* GBS
+		* Miller-Fisher
+* Drug and Toxin
+	* Baclofen
+	* Valproic acid
+	* Organophosphate intoxication
+:::
 
 ### Clinical Testing
 
@@ -110,24 +138,25 @@ Since all patients undergoing brain death testing will be intubated, GCS 3 = GCS
 Clinical testing is performed **separately** by two suitably trained and experienced clinicians (at least one a specialist), and requires:
 
 * **Coma**\
-GCS 3; with a motor response provided centrally and to all four limbs.
+GCS 3; with no motor response following painful stimulus applied centrally and to all four limbs.
 * **Absence** of **brainstem reflexes**\
 Should be tested **sequentially** and **bilaterally**.
-	* Pupils fixed and non-reactive
-	* No corneal reflex\
+	* **Pupils**\
+	Fixed and non-reactive.
+	* **Corneal** reflex\
 	Use of cotton wool or gauze are appropriate stimuli. 
-	* No oculo-vestibular reflexes\
+	* **Oculo-vestibular** reflexes\
 	Cold ice water injected into each EAM via a small catheter until either:
 		* Nystagmus\
 		Slow-phase towards irrigated ear in intact brainstem.
 		* Ocular deviation
 		* 20mL given
-	* No gag\
+	* **Gag**\
 	Use a tongue depressor or cotton swab. A laryngoscope can be used for assistance, if required.
-	* No cough
+	* **Cough**
 * **Apnoea**\
 Conducted last so that an ↑ PaCO~2~ does not confound assessment. Apnoea testing assesses ventilatory drive, and is performed by:
-	* Preoxygenating with 100% O~2~
+	* Preoxygenation with 100% O~2~
 	* Ventilator disconnection\
 	Hypoxia (SpO~2~ <88%) should be avoided; attach a self-inflating bag with a PEEP valve to prevent atelectasis and provide some passive entrainment.
 	* No respiratory effort when:
@@ -169,15 +198,16 @@ Spinal reflexes are movements due to loss of higher centre inhibition of a refle
 Cerebral perfusion imaging is used when brain death cannot be determined because the ***preconditions* are not met**. Key investigations:
 
 * 4-vessel angiogram\
-Demonstrating absence of flow above the carotid siphon in the anterior circulation and foramen magnum in the posterior circulation.
+Demonstrating absence of flow above the carotid siphon in the anterior circulation and foramen magnum in the posterior circulation. Reliable, easy to interpret, but limited access.
 * Tc-99 HMPAO Spect\
 Lack of perfusion in the brain parenchyma.
 * CT Angiography\
 Acceptable when formal angiography or radionuclide imaging is not available.
-
-
+ 
 :::column-margin
-MRI and transcranial doppler should not be used to determine brain death, although doppler may be appropriate to **time** formal imaging.
+MRI and transcranial doppler should not be used to determine brain death, although doppler may be appropriate to **time** formal imaging.\
+\
+EEG is similarly unhelpful; absence of cortical activity does not confirm brainstem death and electrical activity in some cortical cells does not indicate brain functioning.
 :::
 
 ## Management
@@ -216,3 +246,4 @@ Good supportive care improves organ function in brain dead patients proceeding t
 1. Wijdicks EF. The bare essentials: coma. Pract Neurol. 2010 Feb;10(1):51-60.
 2. ANZICS. [Brain Death Determination](https://www.anzics.com.au/wp-content/uploads/2018/08/Brain-Death-Determination-Statement-FINAL.pdf). 2018.
 3. ANZICS. [The Statement on Death and Organ Donation](https://www.anzics.com.au/wp-content/uploads/2022/04/ANZICS-Statement-on-Death-and-Organ-Donation.pdf). Edition 4.1. 2021.
+4. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

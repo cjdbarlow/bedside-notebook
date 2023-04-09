@@ -1,0 +1,97 @@
+# External Ventricular Drain
+
+Catheter inserted via a burr hole into a lateral ventricle, in order to:
+
+* Drain CSF
+* Measure ICP
+
+:::column-margin
+EVDs are usually inserted:
+
+* Anteriorly
+* Into the non-dominant hemisphere
+:::
+
+## Indications
+
+Diagnostic and therapeutic:
+
+## Contraindications
+
+## Anatomy
+
+## Equipment
+
+The components of the EVD from proximal to distal are:
+
+* **Multi-stage access catheter**\
+Inserted into the ventricle.
+* **Patient connection line**\
+Connects the drain to the monitoring and drainage apparatus.
+* **3-way stopcock**\
+Allows line to be:
+	* **Transduced**\
+	Standard transducer (as used for any other invasive pressure monitoring).
+	* **Drained**\
+	Note that the EVD **cannot simultaneously transduce** ICP **and drain** CSF. When draining, the ICP waveform should transduce the drainage height.
+	* **Sampled**\
+	Attaching a 3mL syringe allows aspiration of CSF for sampling. Routine sampling ↑ the risk of ventriculitis.
+* **Drip chamber**\
+A small chamber with volume markers. This chamber:
+	* Can be adjusted relative to the pressure scale\
+	This **allows** the **drainage height** (pressure) to be **selected**.
+		* When ICP exceeds the drainage height, CSF will vent from the EVD
+		* Standard drainage height is **10-15*cmH~2~O***\
+		Many scales provide options for both mmHg and cmH~2~O. 
+	* Collects CSF\
+	Allows hourly volumes vented to be measured.
+	* Can be periodically emptied into a drainage bag
+
+:::column-margin
+1mmHg is ~1.3cmH~2~O; 1cmH~2~O is ~0.7mmHg.
+:::
+
+## Technique
+
+General:
+
+* EVDs can be:
+	* Continuously draining\
+	For high ICP. Good practice is to transduce every hour, especially if there is high-volume CSF drainage.
+	* Continuously transduced\
+	Intermittently vented in case of ↑ ICP.
+
+Setting height:
+
+* The pressure scale should be placed at 0 relative to the:
+	* EAM in a supine patient
+	* Bridge of nose in a lateral patient
+
+Assessing Patency:
+
+* EVDs can become blocked with blood or other exudate
+* Briefly lowering the EVD will detect blockage as CSF will flow under gravity
+
+
+Medication administration:
+
+* Occasionally, medications are administered through an EVD
+
+Moving:
+
+* The EVD should be clamped prior to moving to prevent CSF over-draining
+
+## Complications
+
+* I
+	* Ventriculitis\
+	Risk is ↑ with:
+		* Non-sterile insertion
+		* Duration of EVD insertion
+		* SAH/IVH present
+		* Skull fracture
+		* Frequent CSF sampling
+
+---
+
+## References

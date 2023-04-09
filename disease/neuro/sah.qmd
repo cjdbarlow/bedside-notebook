@@ -211,7 +211,7 @@ Consider continuous EEG monitoring in patients who
 	* Temperature control\
 	Treat >38°C targeting normothermia, with aggressiveness based on risk of delayed cerebral ischaemia.
 		* Anti-pyretics
-		* Cooling
+		* Active cooling
 * F
 	* Hyponatraemia\
 	Treat early with hydrocortisone and fludrocortisone.
@@ -309,4 +309,5 @@ Good prognostic features:
 ## References
 
 1. Okazaki T, Kuroda Y. Aneurysmal subarachnoid hemorrhage: intensive care for improving neurological outcome. Journal of Intensive Care. 2018 May 8;6(1):28. 
-2. Muehlschlegel S. Subarachnoid Hemorrhage. Continuum (Minneap Minn). 2018 Dec;24(6):1623–57. 
+2. Muehlschlegel S. Subarachnoid Hemorrhage. Continuum (Minneap Minn). 2018 Dec;24(6):1623–57.
+3. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

@@ -196,7 +196,8 @@ book:
               chapters:
                 - management/neuro/acute_spine.qmd
                 - management/neuro/chronic_spine.qmd
-              # ICP
+                - management/neuro/icp.qmd
+                - management/neuro/evd.qmd
               # Persistent vegetative state
         - part: "Renal and Fluid"
           chapters:
@@ -586,17 +587,17 @@ book:
             # Toxic encephalopathy
         - part: "Cortical/Subcortical"
           chapters:
-            - disease/neuro/stroke.qmd
             - disease/neuro/epilepsy.qmd
             - disease/neuro/ncse.qmd
             - disease/neuro/pd.qmd
-            - disease/neuro/dementia.qmd
             - disease/neuro/pdph.qmd
+            - disease/neuro/dementia.qmd
         - part: "Cerebrovascular"
           chapters:
+            - disease/neuro/stroke.qmd
+            - disease/neuro/ich.qmd
             - disease/neuro/sah.qmd
             - disease/neuro/vasospasm.qmd
-            - disease/neuro/ich.qmd
             # Venous thrombosis
         # - part: "Brainstem"
         #   chapters:
@@ -755,8 +756,9 @@ book:
         - part: "Systemic"
           chapters:
             - disease/trauma/burns.qmd
-        # - part: "Head"
-        #   chapters:
+        - part: "Head"
+          chapters:
+            - disease/trauma/dai.qmd
             # EDH
             # SDH
             # Traumatic SAH

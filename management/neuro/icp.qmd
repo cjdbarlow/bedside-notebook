@@ -1,0 +1,131 @@
+# Intracranial Pressure
+
+## Indications
+
+## Contraindications
+
+## Anatomy
+
+## Pathophysiology
+
+Normal ICP waveform contains 3 peaks:
+
+* P1\
+Percussino wave from arterial pressure transmitted to the choroid plexus.
+* P2\
+Tidal wave due to brain compliance. P2 > P1 when brain compliance falls.
+* P3\
+Dicrotic wave from AV closure.
+
+Lungberg waves are pathological waveforms seen rarely:
+
+* Lundberg A waves\
+Slow rise in ICP to very high (50-100mmHg) levels, occurring due to a fall in MAP/CPP leading to cerebral vasodilatation and ↑ ICP. Can be terminated by an ↑ in MAP and restoration of CPP.
+* Lundberg B waves\
+Changes in ICP by 10-20mmHg over shorter (30-180s) time periods, with associated change in respiratory pattern.
+* Lundberg C waves\
+Low amplitude changes in ICP that occur several times per minute.
+
+
+## Management
+
+:::info
+Goal is maintain cerebral perfusion by targeting:
+
+* **ICP <22mmHg**
+* **CPP >60mmHg**
+:::
+
+**Resuscitation**:\
+
+* C
+	* MAP\
+	Adequate CPP is essential.
+		* Ensure euvolaemia
+		* Vasopressors to ↑ MAP thereafter
+		* If ICP is not measured, then target **MAP >80mmHg**
+		* If ICP is measured, then target **CPP >60mmHg**
+* D
+	* ICP control
+
+**Specific therapy**:
+
+* Pharmacological
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+### Intracranial Pressure {#sec-icp}
+
+Control of ICP is based upon ↓ the volume of intracranial contents, namely:
+
+:::column-margin
+The principle of flow-metabolism coupling states that CBF is directly proportional to CMRO~2~. Sedation ↓ CMRO~2~, resulting in a ↓ in CBF, cerebral blood volume, and ICP.
+:::
+
+* Blood
+	* Head-up positioning\
+	↓ Venous pressure.
+	* Avoid hypoxia\
+	Target SpO~2~ >95%.
+		* Supplemental oxygen as first line 
+		* PEEP\
+		Concern about ↑ ICP due to ↑ CVP, however adequate oxygenation takes priority.
+	* CO~2~ control\
+	Tight control aiming PaCO~2~ of 35-40mmHg.
+	* Sedation
+		* Benzodiazepine
+		* Opioid
+		* Thiopentone
+	* Temperature control\
+		* Target 36.5°C - 37.5°C
+		* Maintain normothermia
+* CSF
+	* EVD\
+	Drain to 10mmHg.
+* Brain
+	* Hyperosmolar therapy
+		* Hypernatraemia
+			* 3mmol ↑ in osmolality ↓ cerebral volume by **~7%**
+		* Mannitol
+
+
+## Complications
+
+
+## Multimodality Monitoring
+
+A variety of other intracranial monitors see use in specialist centres, although without much evidence supporting them. These include:
+
+* Intraparenchymal oxygen content\
+Invasive measurement of cerebral oxygen tension.
+	* Normal 20-35mmHg
+	* \<10mmHg associated with ↑ morbidity and mortality
+	* \<20mmHg suggested as threshold for intervention
+* Jugular bulb oxygen saturation\
+Invasive measurement of cerebral venous oxygen saturation.
+	* Normal 55-70%
+	* Low levels suggested oxygen supply-demand mismatch
+	* Elevated levels suggest hyperaemia or brain death
+* Cerebral Microdialysis\
+Invasive measurement of cerebral interstitial metabolic milieu via microdialysis probes.
+	* Measurement of:
+		* Lactate
+		* Pyruvate
+		* Glucose
+		* Glutamate
+		* Glycerol
+	* Lactate and pyruvate used as markers of ischaemia
+* Transcranial Doppler\
+Noninvasive measurement of cerebral blood flow.
+* NIRS\
+Non-invasive measurement of cerebral oxygen saturation. Not validated in neurological intensive care.
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

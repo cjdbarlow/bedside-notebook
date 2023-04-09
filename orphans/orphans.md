@@ -1742,3 +1742,22 @@ Organ systems affected:
 * Impaired upward gaze
 * Hypertension
 * Delirium
+
+# EBM
+3 types of research:
+
+1. That which guides clinical practice or policy
+2. That which is foundational to research category 1
+3. That which is neither
+
+Classic levels of evidence:
+
+* Systematic reviews
+* Critically-appraised topics
+* Article synopses
+* RCTs
+* Cohort studies
+* Case-control studies
+* Case series
+* Case reports
+* Expert opinion
