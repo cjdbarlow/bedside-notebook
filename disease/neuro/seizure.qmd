@@ -1,9 +1,13 @@
-# Seizures {#sec-Seizure}
+# Seizures {#sec-seizure}
 
 Seizures are the **clinical manifestation** of an **abnormal** and **excessive** **discharge** of **neurones**, with alterations of consciousness, motor, sensory, or autonomic function. Seizures are classified into:
 
 :::column-margin
-Covers emergency management of seizures, including status epilepticus. Epilepsy is covered at @sec-Epilepsy, and NCSE is covered at @sec-ncse.
+Covers emergency management of seizures, including status epilepticus. Other seizure disorders include:
+
+* NCSE, covered at @sec-ncse
+* Epilepsy, covered at @sec-epilepsy
+* Eclampsia, covered at @sec-eclampsia
 :::
 
 * **Partial**\
@@ -32,7 +36,7 @@ Activity across both hemispheres.
 	* **Continuous seizure** activity for **5 minutes** without return of consciousness
 	* **Recurrent seizure** activity over **30 minutes**, between which **consciousness** is **not regained**\
 \
-* **Refractory status epilepticus** are seizures non-responsive to first and second line agents.
+* **Refractory status epilepticus** are seizures non-responsive to first and second line agents
 * **Super-refractory status epilepticus** are seizures continuing despite general anaesthesia
 :::
 
@@ -69,9 +73,15 @@ Compensatory mechanisms exhausted.
 
 ### Aetiology
 
+Causes may be multifactorial, as multiple insults may ↓ seizure threshold:
+
+* B
+	* Hypoxia
 * C
-	* Hypertensive encephalopathy\
-	**Eclampsia**.
+	* Hypertensive encephalopathy
+		* **Eclampsia**\
+		Aggressive control of seizures in pregnancy is required for good foetal outcome.
+		* PRES
 * D
 	* CVA
 	* Tumour
@@ -79,6 +89,7 @@ Compensatory mechanisms exhausted.
 		* Dementia
 		* Alzheimer's Disease
 	* Post-syncope
+	* Chronic epilepsy
 * F
 	* Hypo/hypernatraemia
 	* Hypo/hypercalcaemia
@@ -89,11 +100,16 @@ Compensatory mechanisms exhausted.
 	* Hepatic encephalopathy
 * Immune
 	* Multiple sclerosis
+	* Autoimmune encephalitis
+		* anti-NMDA receptor antibodies
+		* anti-VGKC receptor antibodies
+		* Paraneoplastic
 * Traumatic  
 Post-traumatic epilepsy associated with:
 	* Early seizures
 	* Depressed skull fractures
 	* ICH
+	* TBI
 * Infective
 	* Meningitis
 	* Encephalitis
@@ -130,18 +146,14 @@ Seizures affect:
 
 * Consciousness
 * Motor function
-	* Abnormal muscle contraction
-		* Tonic\
-		Sustained.
-		* Clonic\
-		Interrupted.
+	* Tonic-clonic (sustained-interrupted) seizures
 	* May begin generalised or with focal onset, evolving into bilateral convulsive SE
 * Autonomic function
 	* Urinary incontinence
+* Sensory function
 
-### History
 
-Covers:
+History should cover:
 
 * Seizure
 	* Time of onset
@@ -157,8 +169,6 @@ Covers:
 * Other precipitants
 	* Drug withdrawal
 
-
-### Examination
 
 ## Diagnostic Approach and DDx
 
@@ -193,9 +203,15 @@ Laboratory:
 	* UEC/CMP
 	* LFTs
 	* TFTs
+	* Porphyrins
 	* Drug levels
-* CSF
-	* Meningitis
+		* Antiepileptic
+		* Alcohol
+		* Benzodiazepines
+* LP\
+If consideration of:
+	* Infection
+	* Autoimmune encephalitis
 
 
 Imaging:
@@ -208,22 +224,26 @@ Investigation of structural cause.
 
 Other:
 
-* Diagnostic
-* Required following resolution without improvement in conscious state\
-15% of this group have NCSE.
-* Changing appearance over time
-	* Initially discrete seizure activity
-	* Continuous monomorphic discharges
-	* Periodic epileptiform discharges
+* EEG
+	* Diagnostic
+	* Required following resolution without improvement in conscious state\
+	15% of this group have NCSE.
+	* Changing appearance over time
+		* Initially discrete seizure activity
+		* Continuous monomorphic discharges
+		* Periodic epileptiform discharges
+	* Continuous EEG required for refractory status, ideally with video monitoring if available
 
 
 
-## Management
+## Management {#sec-seizuremx}
 
 :::info
 **Principles**:
 
-* Seizure termination
+* Seizure termination\
+**Early benzodiazepines**. Definitive control should occur within 60 minutes of onset.
+* Prevent secondary brain injury
 * Treat underlying cause
 * Prevent recurrence
 :::
@@ -235,10 +255,12 @@ The more the seizure is disturbing consciousness, the greater the risk of brain 
 **Resuscitation**:\
 
 * A
-	* Airway protection
+	* Airway protection\
+	If intubation is required, consider **suxamethonium** so seizures can be rapidly detected.
 * B
 	* Supplemental oxygenation
 * C
+	* IV access
 * D
 	* **50% Dextrose** 50mL IV with **thiamine** 100mg IV
 	Low threshold if ↓ BSL is a possibility.
@@ -248,47 +270,21 @@ The more the seizure is disturbing consciousness, the greater the risk of brain 
 
 **Specific therapy**:
 
+:::column-margin
+Interestingly, patients convulsive status are unlikely to get respiratory depression following benzodiazepines.
+:::
+
 * Pharmacological
 	* Seizure termination\
-	Choice depends on timing, IV access, and drug availability.
-		* **Premonitory**
-			* 10mg SL or IN midazolam
-			* 10-20mg PR diazepam
-		* **Early status**
-			* Lorazepam 0.1mg/kg IV
-			* Diazepam 0.1mg/kg IV
-		* **Established status**
-			* Phenytoin 20mg/kg IV load, given at 50mg/min\
-			Always should be combined with a benzodiazepine for seizure termination.
-			* Phenobarbital 10-15mg/kg IV, given at 100mg/min
-		* **Refractory status**
-			* Highly sedating anaesthetic agents\
-			Continue infusions for **12 hours** before attempting to wean therapy. Options include:
-				* Thiopental 100-250mg IV
-				* Midazolam 0.1-0.3mg/kg IV, then infuse at 0.05-0.4mg/kg/hr\
-				Can be used as an alternative to phenobarbital.
-				* Propofol 2mg/kg IV, then infusion at 5-10mg/kg/hr
-			* Ketogenic diet
-	* Maintenance antiepileptic
-		* Phenytoin
-			* **20mg/kg** IV load
-			* Wait **2 hours** before checking levels following loading dose
-			* May precipitate hypotension
-			* Avoid if usually on phenytoin
-			* Avoid if drug induced seizures
-		* Valproate
-			* **40mg/kg** IV load
-			* Non-sedating
-			* Levels can be checked immediately
-		* Levetiracetam
-			* **60mg/kg** IV load
-* Procedural
-* Physical
+{{< include /includes/seizure_rx.qmd >}}
+* Procedural\
+Last-line therapy for refractory status may include:
+	* Deep brain stimulation
+	* Surgical resection
+		* Callostomy
 
-**Supportive care**:
 
 **Disposition**:
-
 
 
 
@@ -296,14 +292,39 @@ The more the seizure is disturbing consciousness, the greater the risk of brain 
 
 ### Marginal and Ineffective Therapies
 
+* Hypothermia\
+Theorised to be neuroprotective in setting of seizures.
+* Muscle relaxation\
+Prevent the metabolic cost of seizures, however renders it unclear if fitting has ceased.
+
 ## Complications
 
-* Death
+* Death\
+10-20% of status epilepticus.
+* B
+	* Aspiration pneumonitis
+	* Neurogenic pulmonary oedema
 * D
-	* Permanent neurological deficit\
-	Neuronal cell death occurs after ~30 minutes of status.
+	* Permanent neurological deficit
+		* Primary injury\
+		Neuronal cell death occurs after ~30 minutes of status. Occurs in 10-16% of status.
+		* Secondary injury
+			* Hypoxia
+			* Hyperthermia
+			* Hypotension
 	* Focal epilepsy
-
+	* Todd's Paresis\
+	Transient (hours-days) focal weakness following seizure activity in that limb.
+* E
+	* Rhabdomyolysis
+	* Hyperthermia
+* F
+	* Glucose derangements
+		* Hyperglycaemia\
+		Early, due to catecholamine release.
+		* Hypoglycaemia\
+		Late, due to catecholamine tachyphylaxis.
+		* Lactic acidosis
 
 ## Prognosis
 
@@ -315,8 +336,8 @@ Poor prognostic signs include:
 	* HIE\
 	Usually fatal.
 * Degree of impaired consciousness
-* Refractory status
-
+* Refractory status\
+↑ Mortality and ↓ chance of returning to functional baseline.
 
 Good prognostic signs include:
 
@@ -335,3 +356,4 @@ Good prognostic signs include:
 1. Gratrix AP, Enright SM. Epilepsy in anaesthesia and intensive care. Continuing Education in Anaesthesia Critical Care & Pain. 2005 Aug;5(4):118–21. 
 2. Perks A, Cheema S, Mohanraj R. Anaesthesia and epilepsy. Br J Anaesth. 2012 Apr 1;108(4):562–71.
 3. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+4. Neurocritical Care Society Status Epilepticus Guideline Writing Committee et al. [Guidelines for the Evaluation and Management of Status Epilepticus](https://doi.org/10.1007/s12028-012-9695-z). Neurocritical Care 17, no. 1 (August 2012): 3–23. 

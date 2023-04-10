@@ -1,8 +1,45 @@
 # Non-Convulsive Status Epilepticus {#sec-ncse}
 
-Altered conscious state and EEG seizure patterns occurring without clinically detectable seizure phenomena. NCSE may evolve from convulsive status, and 
+Change in consciousness, behaviour, autonomic function, or sensorium with EEG seizure patterns, but no major motor phenomena. NCSE has a broad spectrum of clinical presentation, and is loosely classified into:
+
+* Wandering confused\
+Usually good prognosis.
+* Critically ill patient with severe cognitive impairment
+	* May have subtle motor findings
 
 ## Epidemiology and Risk Factors
+
+Epidemiology:
+
+* NCSE is present in:
+	* Up to 50% of patients with coma
+	* 10-30% of post-cardiac arrest patients
+	* 10-35% of TBI patients
+
+Risk factors are predominantly conditions which **lower seizure threshold**:
+
+* D
+	* Known epilepsy
+	* Cerebral irritation
+		* ICH
+		* Encephalitis
+		* Stroke
+		* TBI
+	* Previous cerebral irritation
+		* Neurosurgery
+		* Previous meningitis
+	* Dementia
+* F
+	* Electrolyte derangements
+* I
+	* Systemic infection
+* Drug
+	* Withdrawal
+		* Benzodiazepine
+		* Alcohol
+	* Use
+		* Psychotropics
+
 
 ## Pathophysiology
 
@@ -19,26 +56,122 @@ Causes include:
 
 ## Clinical Manifestations
 
-* Level of consciousness may be maintained, and content of consciousness can be different
+Seizure manifestations include:
 
-### History
+* Consciousness
+	* Level of consciousness
+	* *Content* of consciousness
+		* Behavioural changes
+		* Delusions
+		* Paranoia
+		* Speech
+* Autonomic
+* Sensory
+* Motor\
+Subtle change sometimes occur:
+	* Twitching
+	* Automatism
+	* Cyclonic jerks
+	* Nystagmus
+	* Myoclonus
 
-### Examination
+
 
 ## Diagnostic Approach and DDx
 
-Commonly misdiagnosed and requires a high index of suspicion. 
+NCSE is:
+
+* Commonly misdiagnosed
+* Requires a high index of suspicion. 
+* Difficult to differentiate from non-ictal causes
+	* Metabolic encephalopathy
+	* Septic encephalopathy
+	* Hypoxia
+
+:::column-margin
+EEG features crossover with other encephalopathies, further confounding diagnosis.
+:::
+
+
+NCSE should be considered in:
+
+* Altered sensorium with small motor signs
+* Prolonged postictal period following GTCS
+* Unexplained stupor
+* Stroke clinically worse than expected
+* Paradoxical improvement in alertness following anti-epileptic therapy
+
+
+Differentials include:
+
+* D
+	* Encephalopathies
+		* Metabolic
+		* Epileptic
+	* Encephalitis
+	* Migraine
+	* Postictal
+* F
+	* Hypoglycaemia
+* Drug
+	* Intoxication
+		* Lithium
+		* Baclofen
+		* TCA
+	* Withdrawal
+		* Alcohol
+		* Benzodiazepines
 
 ## Investigations
+
+Bedside:
+
+* ABG\
+Hypoglycaemia, basic electrolytes.
+
+
+Lab:
+
+* Blood
+	* UEC
+	* LFTs
+* LP
+	* Meningitis
+	* Non-infective encephalitis
 
 Other:
 
 * EEG
+	* No pathognomic findings
+	* Epileptiform discharges with seizure activity
+	* Response to treatment
 
 
 ## Management
 
-Requires treatment with anti-epileptic drugs, as per epilepsy.
+**Resuscitation**:\
+
+* A
+	* Correct airway compromise
+* D
+	* Hypoglycaemia
+
+**Specific therapy**:
+
+:::column-margin
+Often unresponsive to initial treatment; 2^nd^ or 3^rd^ line agents are usually required.
+:::
+
+* Pharmacological
+	* Seizure termination\
+{{< include /includes/seizure_rx.qmd >}}
+
+
+**Disposition**:
+
+* ICU admission\
+If not responsive to 1^st^ line treatment.
+
 
 ### Anaesthetic Considerations
 
@@ -46,14 +179,17 @@ Requires treatment with anti-epileptic drugs, as per epilepsy.
 
 ## Complications
 
+* Death
+	* 20-50% by hospital discharge
+	* Significantly ↑ mortality with diagnosis 24 hours after seizure onset
+
 ## Prognosis
 
-In the intensive care setting:
+Features associated with poor outcome:
 
-* Grave situation
-* Almost universally poor outcome
-
-## Key Studies
+* Severe cognitive deficit
+	* Longer seizure duration
+* Unknown precipitant
 
 
 ---
@@ -62,3 +198,4 @@ In the intensive care setting:
 
 1. Perks A, Cheema S, Mohanraj R. Anaesthesia and epilepsy. Br J Anaesth. 2012 Apr 1;108(4):562–71. 
 2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+3. Neurocritical Care Society Status Epilepticus Guideline Writing Committee et al. [Guidelines for the Evaluation and Management of Status Epilepticus](https://doi.org/10.1007/s12028-012-9695-z). Neurocritical Care 17, no. 1 (August 2012): 3–23. 

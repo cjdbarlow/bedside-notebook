@@ -1,9 +1,9 @@
-# Epilepsy {#sec-Epilepsy}
+# Epilepsy {#sec-epilepsy}
 
 Epilepsy is a primary seizure disorder with recurrent (two or more) epileptic seizures.
 
 :::column-margin
-This covers epilepsy. Management of seizures including status epilepticus are covered at @sec-Seizure, and NCSE is covered at @sec-ncse.
+This covers epilepsy. Management of seizures including status epilepticus are covered at @sec-seizure, and NCSE is covered at @sec-ncse.
 :::
 
 ## Epidemiology and Risk Factors

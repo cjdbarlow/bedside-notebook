@@ -1,0 +1,43 @@
+	Choice depends on timing, IV access, and drug availability.
+		* **Premonitory**
+			* 10mg SL or IN midazolam
+			* 10-20mg PR diazepam
+		* **Emergent initial therapy** (1^st^ line)\
+		Benzodiazepines Q2-5 minutely:
+			* Lorazepam 0.1mg/kg IV\
+			Preferred IV option, if available.
+			* Diazepam 0.1mg/kg IV
+			* Midazolam 0.1mg/kg IV/0.2mg/kg IM\
+			Preferred IM option, if available.
+		* **Urgent control therapy** (2^nd^ line)\
+		One of:
+			* Phenytoin 20mg/kg IV load, given at 50mg/min\
+			Always should be combined with a benzodiazepine for seizure termination.
+			* Levetiracetam\
+			**60mg/kg** IV load.
+			* Midazolam infusion at 0.05-0.4mg/kg/hr\
+			Phenobarbital (below) can be used as an alternative.
+		* **Refractory therapy** (3^rd^ line)\
+			* Transition to continuous infusions
+			* Duration of therapy usually dictated by EEG
+			* Consideration of:
+				* Anaesthetic agents\
+				Continue infusions for **12-48 hours** before attempting to wean therapy. Options include:
+					* Thiopental 100-250mg IV
+					* Propofol 2mg/kg IV, then infusion at 5-10mg/kg/hr
+					* Phenobarbital 10-15mg/kg IV, given at 100mg/min
+				* Ketogenic diet\
+				Considered dual 3^rd^ line in some institutions.
+	* Maintenance antiepileptic
+		* Phenytoin
+			* **20mg/kg** IV load
+			* Wait **2 hours** before checking levels following loading dose
+			* May precipitate hypotension
+			* Avoid if usually on phenytoin
+			* Avoid if drug induced seizures
+		* Valproate
+			* **40mg/kg** IV load
+			* Non-sedating
+			* Levels can be checked immediately
+		* Levetiracetam
+			* **60mg/kg** IV load
