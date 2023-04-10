@@ -16,14 +16,26 @@ Patients often:
 	* If PEA: Turn off pacing (exclude VF)
 :::
 
+## Epidemiology
+
+Cardiac arrest post cardiac-surgery:
+
+* Occurs in 1-5%
+	* 50% within 3 hours of ICU admission
+	* Majority within 24 hours
+
 ## Protocol
 
 This algorithm assumes that the patient has ECG and invasive arterial monitoring:
 
-* **Recognition**  
+:::column-margin
+![](/resources/cals.png)
+:::
+
+* **Recognition**\
 Arrest is consistent with:
 	* Loss of central pulse
-	* Loss of haemodynamic waveform pulsatility
+	* Loss of all invasive pressures
 		* Systemic arterial pressure
 		* Pulmonary arterial pressure
 		* CVP
@@ -31,83 +43,122 @@ Arrest is consistent with:
 	* Loss of ETCO~2~
 * **Assess rhythm**
 	* **VF/VT/Tachycardia**
-		* DC shock  
+		* DC shock\
 		Up to 3 attempts.
-		* Start BLS  
+		* Start BLS\
 		CPR *may* be delayed up to 1 minute to facilitate cardioversion, with the goal of ↓ trauma from chest compressions.
-		* Amiodarone  
+		* Amiodarone\
 		300mg. Further loading of 150mg followed by infusion may be given for refractory VT/VF.
 		* Prepare for emergency resternotomy
 	* **Asystole/Severe bradycardia**
-		* Pace  
-		In DDD or DOO at 100bpm and at maximal amplitude.  
-		* Start BLS  
+		* Pace\
+		In DDD or DOO at 100bpm and at maximal amplitude.\
+		* Start BLS\
 		CPR *may* be delayed up to 1 minute to facilitate cardioversion.
 		* Consider external pacing
 		* Prepare for emergency resternotomy
 	* **PEA**
-		* If paced, turn off external pacing to exclude underlying VF
+		* Pause pacing to exclude underlying VF
 		* Start BLS
 		* Prepare for emergency resternotomy
 * **Adjuvant management**
-	* Airway  
+	* Airway
 		* Change to BVM with 100% O~2~
-	* Breathing  
-		* PEEP to 0cmH~2~O  
+	* Breathing
+		* **PEEP to 0cmH~2~O**\
 		Improve cardiac preload in the setting of tamponade/hypovolaemia.
 			* Consider ↑ PEEP if arrest secondary to hypoxia
-		* Auscultate/ultrasound to evaluate for tension pneumo/haemothorax  
+		* Auscultate/ultrasound to evaluate for **tension pneumo/haemothorax**\
 		Decompress if present.
 	* Circulation
-		* Avoid adrenaline unless advised by senior clinician  
-		Typical dose is 50-300ug.
+		* **Avoid adrenaline unless advised** by senior clinician\
+		Typical dose is **50-300ug**.
 		* Give fluid bolus
 		* Activate massive transfusion
-		* Pause infusions  
+		* **Pause infusions**\
 			* Evaluate for dosing/drug errors
 			* Consider restarting vasopressor infusions
 		* Lignocaine 1mg/kg may be considered as an alternative to amiodarone
-		* Change IABP settings:
+		* **Change IABP** settings:
 			* Pressure trigger
 			* Maximum augmentation
 			* 1:1 ratio
-		* Consider echocardiography  
+		* Consider echocardiography\
 		Use should not delay CPR or resternotomy.
-* **Evaluate for reversible causes**
+* **External Cardiac Compressions**
+	* Standard site, depth, and compression ratio
+	* An SBP of >60mmHg should be targeted if invasive arterial monitoring is present
+	* Inability to achieve an SBP of >60mmHg with compressions indicates need for **immediate resternotomy**
 
+:::column-margin
+Delay of chest compressions is appropriate to minimise iatrogenic trauma, and in recognition that it is minimally effective in obstructive and hypovolaemic causes of shock.
+:::
 
-External Cardiac Compressions:
-
-* Standard site, depth, and compression ratio
-* An SBP of >60mmHg should be targeted if invasive arterial monitoring is present
-* Inability to achieve an SBP of >60mmHg with compressions indicates need for **immediate resternotomy**  
-Indication of arrest due to low preload (and not amenable to cardiac compressions) - tamponade or hypovolaemia are likely causes.
-
-
-### Emergency Resternotomy
+## Emergency Resternotomy
 
 :::caution
 Resternotomy occurring ⩽10 minutes is associated with ~50% survival, compared to ~10% if >10 minutes
 :::
 
-Emergency resternotomy should be:
+Integral part of arrest management, that should be:
 
-* Performed within 5 minutes of arrest  
-Or immediately if SBP <60mmHg with external chest compressions.
+* Performed in all patients within 10 days of their last operation
 * Considered in patients up to 14 days post surgery
 * Prepared for immediately upon identification of cardiac arrest
+* Completed within **5 minutes** of arrest
 
-Process:
+### Indications
+
+* Failure to achieve ROSC with above measures
+* Immediately if SBP <60mmHg despite external chest compressions
+
+
+### Equipment
+
+Required:
+
+* Scalpel
+* Wire cutter
+* Sternal wire holder
+* Suction
+* Sternal retractor\
+e.g. Finochietto.
+
+
+Optional:
+
+* Dissection scissors
+* Non-toothed forceps
+
+
+### Roles
+
+Six key roles (with ⩾7 staff):
+
+* Team leader
+* ICU coordinator/scribe
+* Resternotomy team
+	* Doctor
+	* Nurse
+* Resternotomy trolley\
+Scout.
+* Defibrillator/pacing
+* Airway/breathing
+
+
+### Process
 
 * Cease chest compressions
-* Remove sternotomy dressing, apply betadine, apply sterile drape  
-Should be performed in ⩽10 seconds.
-* Cut sternotomy incision and wires
-	* Deep incision through sternotomy sutures down to sternal wires
-	* Cut sternal wires
-	* Remove sternal wires with heavy needle holder
-* Suction blood and clot
+* Remove sternotomy dressing
+* Apply adhesive surgical drape **without prior** skin preparation\
+Sterile chest compressions can occur at this time whilst equipment is assembled.
+* Open sternotomy incision:
+	* Deep incision through sternotomy sutures down to sternal wires with scalpel
+	* Cut sternal wires with wire cutter
+	* Remove sternal wires with wire holder
+* Clear blood and clot
 * Open sternum with sternal retractor
+* Open pericardium if closed
 * If no output despite opening sternum:
 	* Consider internal defibrillation
 	20J with internal paddles.
@@ -115,7 +166,7 @@ Should be performed in ⩽10 seconds.
 		* Avoid grafts
 		* Right hand over apex and around behind the heart
 		* Left hand over anterior surface of heart
-		* Squeeze both hands together with flat palms and straight fingers  
+		* Squeeze both hands together with flat palms and straight fingers\
 		Aim SBP >60mmHg at a 100 bpm.
 
 Post-procedural care:
@@ -124,7 +175,7 @@ Post-procedural care:
 	* Washout
 	* Consider closure
 * Antibiotics
-* Avoid fever  
+* Avoid fever\
 Temperature ⩽36°C.
 
 ---
@@ -133,3 +184,4 @@ Temperature ⩽36°C.
 
 1. Society of Thoracic Surgeons Task Force on Resuscitation After Cardiac Surgery. [The Society of Thoracic Surgeons Expert Consensus for the Resuscitation of Patients Who Arrest After Cardiac Surgery](https://www.ncbi.nlm.nih.gov/pubmed/28122680). Ann Thorac Surg. 2017 Mar;103(3):1005-1020.
 2. Truhlar A, Deakin CD, Soar J et al. [European Resuscitation Council Guidelines for Resuscitation 2015: Section 4. Cardiac arrest in special circumstances](https://ercguidelines.elsevierresource.com/european-resuscitation-council-guidelines-resuscitation-2015-section-4-cardiac-arrest-special). Resuscitation 2015; 95: 148-201.
+3. Karcher C. et al. [The Australasian ANZSCTS/ANZICS Guidelines on Cardiothoracic Advanced Life Support (CALS-ANZ)](https://doi.org/10.51893/2022.3.SA3). Critical Care and Resuscitation 24, no. 3 (6 September 2022): 218–23.
