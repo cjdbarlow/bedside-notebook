@@ -198,6 +198,7 @@ book:
                 - management/neuro/chronic_spine.qmd
                 - management/neuro/icp.qmd
                 - management/neuro/evd.qmd
+                - management/neuro/brain_death.qmd
               # Persistent vegetative state
         - part: "Renal and Fluid"
           chapters:

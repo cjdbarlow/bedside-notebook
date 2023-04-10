@@ -23,6 +23,15 @@ There are several principles that guide the process of organ donation in the Aus
 	* Irrespective of patient's known wishes, the family should be contacted to discuss donation and donation should not proceed if the family does not agree
 	* Tissue donation should be offered to the family of all dying patients in the hospital
 
+## Principles
+
+Organ donation:
+
+* **Should not** be raised **prior to family understanding** of death or impending death
+* **Should not** be raised **prior** to medical **consensus** for **end-of-life** care
+* **Should be discussed** with **donation staff**, *prior* to discussion with family
+* **Should be discussed** with **all families** where it is a possibility
+	* Any information contained on the organ donor register should also be communicated to family
 
 ## Suitability
 
@@ -30,11 +39,11 @@ There are several principles that guide the process of organ donation in the Aus
 All patients near to the end of life should be referred for consideration of organ donation.
 :::
 
-Suitability for organ donation is:
+**Suitability** for organ donation **is**:
 
-* Highly dynamic\
+* **Highly dynamic**\
 Varies with recipient/waiting list requirements. 
-* Without fixed criteria\
+* **Without fixed criteria**\
 Diseases commonly (but not exclusively) considered contraindications include:
 	* Malignancy
 	* Active infection
@@ -120,6 +129,9 @@ This includes checking the organ donation register to ascertain the patients wis
 2. Discussion with the family (and rarely, patient, if competent) that the patient is likely to die
 	* In DBD, this may be raising the chance of brain death having occurred and the need to perform further testing to confirm this
 	* In DCD, this may include discussion of futility of continuing treatment
+	* The organ donation nurse should be invited to attend this meeting
+		* This allows them to get to know and build rapport with the family
+		* They are best introduced as a "specialist nurse" rather than an organ donation specialist if organ donation has not yet been raised
 2. Determination of suitability of organ donation\
 By the intensivist and donation team.
 3. Discussion with the family about organ donation\
@@ -131,6 +143,9 @@ A separate conversation from the end of life conversation, which includes:
 		* DCD
 			* Risk of a failed donation if agonal time exceeded
 			* Determination of death
+		* DBD
+			* The patient looks the same afterwards\
+			Warm, "breathing".
 4. Donor assessment
 	* Blood
 	* Tissue typing
@@ -156,8 +171,10 @@ A separate conversation from the end of life conversation, which includes:
 	Should be given by the intensivist, and not by the anaesthetist or transplant team.
 	* The surgical team should not be present in the ICU
 7. Organ retrieval
-8. Transfer of organs to the transplant centre
-9. Implantation 
+8. Transfer of the donor to the mortuary\
+The donor will "look dead: afterwards; donors generally look the same on transfer to the OR.
+10. Transfer of organs to the transplant centre
+11. Implantation 
 
 
 ---

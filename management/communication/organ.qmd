@@ -1,59 +1,215 @@
 # Organ Donation {#sec-donorconvo}
 
-Organ donation is a complex discussion that occurs at a particularly vulnerable time for families. Organ donation:
+Discussions around organ donation are complex and emotive, and occurs at a particularly difficult and vulnerable time for families. The organ donation conversation is important as:
 
 :::column-margin
-This covers considerations when discussing organ donation with the family. Medical elements of organ donation are covered in @sec-organdonation.
+This covers considerations when discussing organ donation with the family. The entire process of organ donation is covered in @sec-organdonation.
 :::
 
+* Many families have:
+	* Little understanding of organ donation
+	* Not discussed their wishes with their loved one
+* The conversation occurs at a particularly difficult and vulnerable time\
+It is important that the discussion occurs sensitively:
+	* Agreement for donation varies widely depending on *who* has the discussion
+	* Many (~35%) families who refuse organ donation later regret the decision
+	* Few (~5%) families who consent to organ donation later regret the decision
+* It is important to offer the family the opportunity to determine what they want to do
+* Organ donation is often valuable to donor families
+	* Family raise donation in 1/3 cases\
+	The conversation should be deferred if it is not appropriate, i.e. prior to planning end-of-life care.
+* **The goal** is to arrive at **a decision** that is:
+	* **Proactive**\
+	Consistent with personal values and beliefs, and not dominated by the immediate circumstance.
+	* **Informed**\
+	Decision based upon fact.
+	* **Enduring**\
+	Decision that feels right in the months and years to come.
 
-* Should not be raised prior to family understanding death or impending death
-* Should be discussed with all families where it is a possibility
-* Should be discussed with donation staff, *prior* to discussion with family
-	* Any information contained on the organ donor register should also be communicated to family
+:::column-margin
+Giving families information gives them the opportunity to have a choice. Not giving them information takes away that choice.
+:::
+
+## The Conversation
+
+:::info
+This assumes that the end-of-life conversation has already happened, and that the family is aware that their loved one is likely to die. A break should occur between these conversations.\
+\
+In patients who are potential:
+
+* DBD\
+Then this conversation should happen **after** brain death testing has occurred. This requires an intervening conversation to discuss brain death, and a period to conduct testing and any relevant investigations.
+* DCD\
+Then this conversation must happen **before** withdrawal of cardiorespiratory support.
+:::
+
+Preparation:
+
+* Donor registry status
+* Family issues\
+Best to know in advance and raise them, particularly if there are competing value systems.
+	* Religious values
+	* Other factors
+* Plan approach to the meeting
 
 
+Conduct:
+
+:::column-margin
+Principles:
+
+* Slow information delivery
+* Time to make decisions
+* Support to make decisions
+* Sensitivity
+:::
+
+1. **Introduce** the **donation nurse** if they have not yet met
+2. **Raise** organ **donation**\
+	* Emphasise that we are **offering the family to choose** what is right for them; not asking for or taking organs
+	* If the patient has registered as an organ donor, it is helpful to mention that now
+3. Give **important information**\
+Information that families have found helpful includes:
+	* Organ donor **registry status**
+	* Organ donation is **rare**\
+	\<1% of patients who die in hospital can become organ donors.
+	* There is a **significant need** for donor organs
+	* The **reasons other donor families** feel that organ donation was the right decision for them include that:
+		* Their loved one would have **wanted to help others**
+		* It provided an opportunity for **something positive** to come **out of tragedy**
+		* It allowed **someone else** to **live** a **better life**
+4. Answer questions
 
 
+## Discussing Concepts
 
-Table 3.1: Elements that can be covered in the family donation conversation
-Most people who receive a transplant benefit greatly and lead full and active lives as a result.
-The process of organ and tissue donation is carried out with respect and dignity for all involved.
-Donation is an option to consider and there is no obligation to donate.
-The ICU and donation staff are available to discuss any issue family members may wish to raise before
-making their decision.
-Regardless of the donation decision, support is available for family members — this may be from hospital
-staff, chaplains, social workers and donation staff, in accord with the needs and wishes of the family.
-44
+:::info
+This is a **phrase library** of concepts around transplant, organ donation, and the donation process.
+:::
 
-Table 3.2: Essential aspects to discuss with the family regarding donation after neurological
-determination of death
-Medical treatment of the donor will continue after death to ensure that the donated organs are in the best
-possible condition.
-The donor will go to the operating theatre on the mechanical ventilator with a beating heart, which will
-stop during the donation surgery.
+### Donation
 
-Table 3.3: Essential aspects to discuss with the family regarding donation after circulatory determination
-of death
-DCDD can only take place if death occurs within a specific timeframe.
-The donation surgery needs to begin without delay after death to minimise possible damage to organs
-that occurs during the time that they remain in the body without blood flow.
-Medications will be given to the patient, as necessary, to relieve pain or anything else that may be
-distressing to the patient or family (such as noisy breathing, seizures and abnormal jerky movements).
-Predicting the time from treatment withdrawal to death is difficult. If this interval is greater than the
-maximum that allows organ retrieval for transplantation, organ donation will not be possible. Tissue
-donation may still occur if suitable and the family consents.
-If organ donation is not possible, care for the patient will be continued in the ICU or another suitable location.
-Before treatment is withdrawn, blood is taken to ensure the organs are suitable for donation and to match
-the organs to potential recipients.
-The family’s permission will be sought for the administration of medications and procedures to facilitate
-organ donation (provided that these may be legally administered).
-Families may change their minds and withdraw consent at any time.
+Organ Donation:
+
+* People can donate organs if they pass away in very specific circumstances
+* Sometimes people register to do this while they are still alive, so that there is a record of it when they have passed
+* Other times doctors will ask the family if they wish to donate
+* It is always a very hard time to think about such a serious thing, but this is the only time it can happen
+* Family don't have to decide immediately and have some time to talk and think about it, but the decision does have to be made within a couple of days
+* Organs that can be donated include heart, lungs, liver, kidneys, and pancreas
 
 
+Tissue Donation:
+
+* Tissue donation is different to organ donation because almost anyone can become a tissue donor, irrespective of how they died
+* Tissues donation can occur some time after death and so is not as urgent
+* Tissues that can be donated include:
+	* Cornea\
+	Outer layer of the eye used for those blinded from disease of their own cornea.
+	* Heart valves\
+	To replace damaged heart valves.
+	* Skin\
+	Used to replace skin in those with serious burns.
+	* Bone
+	* Tendons\
+	To help repair damaged joints.
+
+
+Organ Donation Process:
+
+* Blood tests and sometimes x-rays or ultrasound is done to make sure the organs are healthy enough for transplant
+* Sometimes, the person will receive medicine to make sure the organs stay healthy enough to transplant
+* The organ will go to the next person on the waiting list who is a good fit
+	* You can't choose who the organs will go to
+* There's a lot of organisation that has to happen before the organ donation goes ahead so it can take some time\
+Need to arrange:
+	* The team who removes the organs
+	* The patients who need the organs have to come into hospital
+	* The teams who put in the organs into each patient
+	* The transport for all of these
+* The donation operation:
+	* May take up to 6 hours, depending on how many organs are being donated
+	* The cut is closed up afterwards and covered with a special dressing
+	* The body is then taken to the hospital mortuary
+	* They will look different afterwards as their heart will have stopped beating
+	* The family can see the body afterwards if they want to
+	* There are no problems having an open-casket funeral after this operation
+
+
+After Organ Donation:
+
+* The family will get a call letting them know what was transplanted and how the recipients are doing
+* The family can't contact the recipients directly, but can write to them through DonateLife
+* The recipients can also write to the family through DonateLife in the same way
+
+
+### Brain Death 
+
+Overview:
+
+* The brain is a soft and fragile organ that is protected in the skull
+* The brain keeps us alive by sending messages to all the other parts of the body to control them, and also lets us see, smell, hear, and think
+* If our brain very badly damaged then it can swell so much that blood can't get to it
+* This can lead to death of the brain, even though the other parts of the body may not be as badly damaged
+
+
+Brain Death Testing:
+
+* We test for brain death through a formal process that tests the vital functions of the brain, such as coughing and breathing
+* If these tests confirm what we think is going on, then it means that the brain has died, and that means that they have died
+	* They have died even though their heart continues to beat and the breathing machine keeps giving air
+* You are welcome to watch these tests
+	* Some people find it helpful to watch the testing
+	* Other people find it distressing
+	* If you want to watch, someone will be with you to support you and tell you what is going on
+* The time of death is the the time that the second set of tests are done
+* They will look the same after this set of testing as they are still on the breathing machine
+
+
+Donation after brain death:
+
+* If they become an organ donor, they will look like this when they go to the operating room for the donation procedure
+
+
+### Circulatory Death
+
+Overview:
+
+* Sometimes:
+	* The brain is damaged very badly but some parts of the brain still work a little\
+	This does not meet the criteria for brain death, but is still not a recoverable injury.
+	* The person may be very sick and cannot survive without the breathing machine
+* At this point, we no longer think the breathing tube is helping them
+* We are not sure how long they will survive without the breathing tube, but we will focus on their comfort during this time
+* This usually happens within 10-20 minutes, but sometimes takes hours or days
+
+
+Donation after circulatory death:
+
+* Donation can only happen if death occurs within a specific timeframe
+	* This is so the possible damage to organs is minimised, which happens when they are without blood flow
+* Medication will be given to relieve pain or distress
+* Predicting time between withdrawal of support to death is hard
+	* Organ donation may not be possible
+	* Tissue donation may still occur
+* You can withdraw consent at any time
+
+
+### Transplant
+
+* When someones organs - body parts - are healthy, they can live a normal life
+* When these organs get sick, then people are often very sick and it changes what they can do\
+For example:
+	* Someone with sick kidneys may need to go on a machine called dialysis
+	* This means they have to spend several hours at hospital 3 days a week
+	* They are often very tired and can't do much or work much even when they are not at hospital
+	* If they get a healthy kidney put in, then they don't need dialysis anymore and can get back to a more normal life
 
 ---
 
 ## References
 
 1. ANZICS. [The Statement on Death and Organ Donation](https://www.anzics.com.au/wp-content/uploads/2022/04/ANZICS-Statement-on-Death-and-Organ-Donation.pdf). Edition 4.1. 2021.
+2. Core Family Donation Conversation (FDC) Workshop. Course Notes. 2023.
+3. The Organ and Tissue Donation Story. DonateLife WA. 2023.
+4. The Brain Story. DonateLife WA. 2023.

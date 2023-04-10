@@ -1,15 +1,14 @@
 # Brain Death {#sec-braindeath}
 
 :::info
-Brain death and circulatory death are both death, and do not differ in type but in the way they are determined.
+Brain death and circulatory death are both death, and do not differ in type or degree, but in the way they are determined.
 :::
 
-**Brain Death** is the irreversible loss of all functions of the brain, including the brainstem.
+**Brain Death** is the irreversible loss of all functions of the brain, including the brainstem. Brain death is also referred to as neurological death.
 
 :::column-margin
-Brain death is also referred to as neurological death.
+This covers epidemiology and determination of brain death in a general Australian context. Management of the brain dead patient proceeding to organ donation is covered at @sec-braindeathmx.
 :::
-
 
 ## Epidemiology and Risk Factors
 
@@ -23,18 +22,7 @@ Brain death:
 
 ## Pathophysiology
 
-Brain death occurs when ICP exceeds arterial perfusion pressure and cerebral blood flow ceases. This leads to a relatively predictable pattern of autonomic responses:
-
-* Autonomic storm
-	* Transient ↑ BP with vasoconstriction, tachyarrhythmia
-	* Less commonly tachypnoea, seizures, sweating, pupillary dilation
-* Autonomic collapse
-	* Loss of **reflex brainstem activity**
-	* Loss of **respiratory drive**
-	* Loss of **temperature regulation**
-	* Loss of **vascular tone** and **HR regulation**
-	* **DI**
-
+{{< include /includes/brain_death_pathophys.qmd >}}
 
 ## Determination of Brain Death
 
@@ -175,6 +163,11 @@ For patients on ECMO during apnoea testing:
 * ↓ Sweep to 0.5-1L/min
 :::
 
+The **time of death** is the time of the **second** set of testing. This should be discussed with family in advance as:
+
+* Certain times may be important for the family
+* The patient will look the same after they have died as they did before\
+Still warm, "breathing" on the ventilator.
 
 ### Spinal Reflexes
 
@@ -210,34 +203,7 @@ MRI and transcranial doppler should not be used to determine brain death, althou
 EEG is similarly unhelpful; absence of cortical activity does not confirm brainstem death and electrical activity in some cortical cells does not indicate brain functioning.
 :::
 
-## Management
 
-Good supportive care improves organ function in brain dead patients proceeding to organ donation. In addition to regular ICU supportive care, specific management includes:
-
-* B
-	* Lung protective ventilation
-	* Routine respiratory care
-* C
-	* Autonomic storm\
-	Short acting antihypertensives and β-blockers.
-	* Autonomic collapse
-		* Volume resuscitation\
-		* Vasoactives\
-		Bradycardia usually resistant to anticholinergics, so adrenergic vasoactives and vasopressin are preferred.
-* E
-	* External warming
-	* Tri-iodothyronine\
-	4μg bolus, then 3μg/hr given for haemodynamic instability with impaired cardiac function.
-* F
-	* Electrolyte correction\
-	Minimise arrhythmia.
-	* IVT\
-	Aim to prevent DI and fluid overload, with UO 0.5-3mL/kg/hr targeted.
-	* Desmopressin\
-	4-8μg given if DI occurs. Can be repeated if polyuric.
-* H
-	* Anaemia correction
-	* Coagulopathy correction
 
 ---
 

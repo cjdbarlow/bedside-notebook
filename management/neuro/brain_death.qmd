@@ -1,0 +1,48 @@
+# Brain Death Management {#sec-braindeathmx}
+
+Following brain death, a variety of neuro-hormonal responses may occur that lead to end-organ dysfunction. In brain dead patients proceeding to organ donation, good supportive care improves organ function and donor outcomes.
+
+:::column-margin
+This covers the management of the brain dead patient proceeding to organ donation. Epidemiology and determination of brain death is covered at @sec-braindeath.
+:::
+
+## Pathophysiology
+
+{{< include /includes/brain_death_pathophys.qmd >}}
+
+## Management
+
+In addition to regular supportive care, particular considerations include:
+
+* B
+	* Lung protective ventilation
+	* Routine respiratory care
+* C
+	* Autonomic storm\
+	Short acting antihypertensives and β-blockers.
+	* Autonomic collapse
+		* Volume resuscitation\
+		* Vasoactives\
+		Bradycardia usually resistant to anticholinergics, so adrenergic vasoactives and vasopressin are preferred.
+* E
+	* External warming
+	* Tri-iodothyronine\
+	4μg bolus, then 3μg/hr given for haemodynamic instability with impaired cardiac function.
+* F
+	* Electrolyte correction\
+	Minimise arrhythmia.
+	* IVT\
+	Aim to prevent DI and fluid overload, with UO 0.5-3mL/kg/hr targeted.
+	* Desmopressin\
+	4-8μg given if DI occurs. Can be repeated if polyuric.
+* H
+	* Anaemia correction
+	* Coagulopathy correction
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+2. ANZICS. [The Statement on Death and Organ Donation](https://www.anzics.com.au/wp-content/uploads/2022/04/ANZICS-Statement-on-Death-and-Organ-Donation.pdf). Edition 4.1. 2021.
