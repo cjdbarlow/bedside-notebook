@@ -1,0 +1,122 @@
+# Encephalitis
+
+Inflammation of brain parenchyma, which can be:
+
+* Infective
+	* Viral
+	* Mycoplasma
+* Non-infective
+	* Autoimmune
+		* NMDA-receptor encephalitis
+
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+Viral causes include:
+
+* HSV 1\
+Classically temporal lobe involvement.
+* Arboviruses
+* Japanese encephalitis
+* Nipah virus
+* Hendra virus
+* Murray Valley
+* John Cunningham virus\
+Classically immunosuppressed.
+* West Nile virus\
+Most common cause of epidemic viral encephalitis.
+
+
+## Clinical Manifestations
+
+Can be difficult to diagnose, with major symptoms resulting from infection of brain parenchyma:
+
+* Brain parenchyma
+	* Speech disturbance
+	* Seizures
+	* Altered cognition
+
+Certain causes result in particular presentations:
+
+* CMV
+	* Ganglionitis
+	* Polyradiculitis
+* John Cunningham virus
+	* Progressive Multifocal Leucoencephalopathy\
+	Subacute:
+		* Confusion
+		* Weakness
+		* Visual symptoms
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+Bedside:
+
+Laboratory:
+
+Imaging:
+
+* MRI\
+T2-weighted.
+
+Other:
+
+* LP
+	* PCR
+* EEG
+	* Slow-wave activity
+	* Epileptiform discharges
+	* Extreme delta brush pattern\
+	Highly specific for NMDA-receptor encephalitis.
+
+## Management
+
+**Resuscitation**:\
+
+ABC approach. Comment on team coordination and clinical priorities.
+**Specific therapy**:
+
+* Pharmacological
+	* Antiviral\
+	Choice depends on nature of viral infection.
+		* HSV encephalitis
+			* Aciclovir 10mg/kg IV TDS for 14 days
+			* Consider continuing until CSF is HSV DNA negative
+		* CMV
+			* Ganciclovir
+			* Valganciclovir
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+Varies depending on cause:
+
+* HSV
+	* 20% treated
+	* 70% untreated
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

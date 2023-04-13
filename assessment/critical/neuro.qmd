@@ -97,8 +97,8 @@ Assessing respiratory pattern in the intubated patient requires some desedation 
 +-------------------------------------+-------------------------------------------------------------------------------------+-----------------------------------------------------------------+-----------------------------------+
 | Cheyne-Stokes                       | Sinusoidal pattern of:                                                              | Delayed feedback between CO~2~ detector and effector responses. | * Low CO                          |
 |                                     |                                                                                     |                                                                 | * Metabolic encephalopathies      |
-|                                     | - Rapidly ↑ depth and frequency of breathing                               |                                                                 | * Bilateral thalamic injuries     |
-|                                     | - Rapidly ↓ depth and frequency                                            |                                                                 | * Bilateral forebrain dysfunction |
+|                                     | - Rapidly ↑ depth and frequency of breathing                                        |                                                                 | * Bilateral thalamic injuries     |
+|                                     | - Rapidly ↓ depth and frequency                                                     |                                                                 | * Bilateral forebrain dysfunction |
 |                                     |                                                                                     |                                                                 | * Acute CVA                       |
 +-------------------------------------+-------------------------------------------------------------------------------------+-----------------------------------------------------------------+-----------------------------------+
 

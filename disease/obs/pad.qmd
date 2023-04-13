@@ -20,7 +20,7 @@ Major risk factors:
 
 * Placenta praevia
 * Previous caesarian section  
-↑ risk:
+↑ Risk:
 	* 0: 2%
 	* 1: 16%
 	* 2: 24%
@@ -68,7 +68,7 @@ Antenatal diagnosis facilitates adequate preparation:
 	May include plan for caesarian-hysterectomy.
 * Elective delivery
 	* Tertiary obstetric centre
-		* Personel availability  
+		* Personnel availability  
 		Senior:
 			* Obstetric
 			* Paediatric

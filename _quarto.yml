@@ -599,7 +599,7 @@ book:
             - disease/neuro/ich.qmd
             - disease/neuro/sah.qmd
             - disease/neuro/vasospasm.qmd
-            # Venous thrombosis
+            - disease/neuro/cvst.qmd
         # - part: "Brainstem"
         #   chapters:
               # Bulbar palsy
@@ -793,10 +793,12 @@ book:
             - disease/infective/tb.qmd
             # Epiglottitis
             # Bronchitis
-        # - part: "CNS"
-        #   chapters:
-            # Meningitis
-            # Encephalitis
+        - part: "CNS"
+          chapters:
+            - disease/infective/meningitis.qmd
+            - disease/infective/encephalitis.qmd
+            - disease/infective/brain_abscess.qmd
+            - disease/infective/myelitis.qmd
         - part: "GIT"
           chapters:
             - disease/infective/sbp.qmd

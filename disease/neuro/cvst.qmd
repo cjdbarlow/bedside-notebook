@@ -1,0 +1,93 @@
+# Cerebral Venous Sinus Thrombosis
+
+Thrombosis of the venous sinuses leading to:
+
+* Focal neurology
+	* Particularly **cranial nerves**
+* ↑ ICP
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+Causes include:
+
+* **Infection**\
+Classical cause.
+	* Intracranial
+		* Meningitis
+		* Epidural abscess
+		* Subdural abscess
+	* Extracranial
+		* Facial cellulitis
+		* Dental infection
+* Prothrombotic cause
+	* OCP
+	* Hereditary
+
+
+## Clinical Manifestations
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+Bedside:
+
+Laboratory:
+
+Imaging:
+
+* CT\
+Sensitivity 60%, or 96%.
+* MRI/MRA\
+Sensitivity 86%/96% respectively.
+* DSA\
+100% sensitive.
+
+Other:
+
+## Management
+
+:::info
+Principles are:
+
+* **Treat** primary **infection**
+* **Anticoagulation**\
+There is often concurrent intracerebral haemorrhage, and this is **not a contraindication** to anticoagulation.
+:::
+
+**Resuscitation**:\
+
+ABC approach. Comment on team coordination and clinical priorities.
+**Specific therapy**:
+
+* Pharmacological
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

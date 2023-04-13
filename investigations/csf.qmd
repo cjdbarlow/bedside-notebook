@@ -1,4 +1,4 @@
-# Cerebrospinal Fluid Analysis
+# Cerebrospinal Fluid Analysis {#sec-csf}
 
 +-------------------------------+-------------+-----------------------------+-----------------------------------------+---------------------------+----------------------------------------------------------------------+
 | Property                      | Normal      | Traumatic Tap               | Infection                               | SAH                       | Other                                                                |
@@ -66,3 +66,4 @@ Extended if considering listeria, cryptococcus.
 ---
 
 1. Venkatesh, B., P. Scott, and M. Ziegenfuss. [Cerebrospinal Fluid in Critical Illness](https://pubmed.ncbi.nlm.nih.gov/16597284/). Critical Care and Resuscitation: Journal of the Australasian Academy of Critical Care Medicine 2, no. 1 (March 2000): 42–54.
+2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

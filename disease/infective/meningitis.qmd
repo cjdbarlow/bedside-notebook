@@ -1,0 +1,271 @@
+# Meningitis
+
+Inflammation of the meninges and subarachnoid space, that can be divided into:
+
+* **Infective** meningitis
+	* Bacterial\
+	Severe disease with high mortality in absence of treatment.
+	* Viral\
+	Relatively benign, self-limiting disease.
+	* Yeast
+* **Aseptic** meningitis\
+Inflammation where bacteria cannot be isolated from CSF, and includes:
+	* Occult infective causes
+		* Viral meningitis\
+		Most common.
+		* Partially treated bacterial meningitis
+		* Tuberculosis meningitis\
+		Subacute lymphocytic meningitis. Non-specific prodromal phase.
+		* Fungal meningitis
+	* Non-infective causes
+		* Lymphoma
+		* Sarcoidosis
+		* Drug-induced meningitis
+		* Vascular disease
+
+:::column-margin
+Meningitis in the immunocompromised can present with non-specific features and with more exotic causative organisms.
+:::
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+Series of processes:
+
+* Infection\
+Predominantly via droplet or saliva. Common routes include:
+	* Nasopharyngeal colonisation
+	* Middle ear
+	* Sinusitis
+	* Dental
+* Cytokine production
+* Meningitis
+* Hydrocephalus
+	* ↑ ICP
+	* ↓ CPP
+* Vasculitis
+* Thrombosis
+
+### Aetiology
+
+Bacterial meningitis:
+
+* Community
+	* *S. pneumoniae*
+	* *N. meningitidis*
+	* *H. influenzae*\
+	Most common prior to vaccination.
+	* *L. monocytogenes*
+	Rare, and confined to the immunosuppressed:
+		* Elderly
+		* Alcohol dependency
+		* Diabetes
+		* Malignancy
+* Nosocomial\
+**Rare**, but organisms include:
+	* *Staphylococcus* spp.\
+	Particularly with intracranial devices, or following neurosurgery.
+	* *E. coli*
+	* *Pseudomonas* spp.
+	* *Klebsiella* spp.
+	* *Acinetobacter* spp
+
+
+Viral:
+
+* Enteroviruses
+	* Coxsackie
+* Herpes simplex
+* Mumps
+* Echoviruses
+* Toscana virus
+
+
+Yeast:
+
+* *Cryptococcus neoformans*
+	* Chronic meningitis
+	* Immunocompromised
+	* **India ink** stain and antigen testing on CSF
+
+
+## Clinical Manifestations
+
+Clinical features are typically **rapidly evolving** over hours, and relate to:
+
+:::column-margin
+Viral meningitis presents with similar symptoms to bacterial meningitis, but is generally less severe.
+:::
+
+* Meningeal inflammation
+	* Fever
+	* Headache
+	* Neck stiffness
+	* Photophobia
+* Encephalopathy
+	* Altered level of consciousness
+	* Irritability
+	* Seizures\
+	Paediatric.
+* Causative organism
+	* Meningococcal disease
+		* Hash\
+		Haemorrhagic, petechial, purpuric.
+		* Digital gangrene
+		* Skin necrosis
+		* Signs of coagulopathy
+
+:::column-margin
+![](/resources/meningococcal_rash.jpg)
+:::
+
+In the immunocompromised:
+
+* Low-grade fever
+* Behavioural changes
+
+:::column-margin
+NB: Kernig's sign is neither sensitive or specific of meningeal irritation.
+:::
+
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+Bedside:
+
+Laboratory:
+
+:::column-margin
+Details of CSF findings in meningitis are covered under @sec-csf.
+:::
+
+* Blood
+	* FBE\
+	Infection.
+	* Blood cultures
+	 * PCR
+* LP
+	* Required to completely confirm diagnosis
+	* However, contraindications are common
+		* Coagulopathy
+		* ↑ ICP, or significant clinical concern of such
+	* **Empirical antibiotics should be commenced if there is delay**
+	* Urgent **Gram stain** and culture
+
+
+Imaging:
+
+Other:
+
+## Management
+
+**Resuscitation**:\
+
+
+**Specific therapy**:
+
+:::column-margin
+Duration of antimicrobial therapy depends on the organism:
+
+* *N. meningitidis*: 5 days
+* *S. pneumoniae*: 10-14 days
+* *L. monocytogenes*: 21 days
+:::
+
+* Pharmacological
+	* Antimicrobial therapy
+		* **Empiric therapy**
+			* Foundation:
+				* **Ceftriaxone** 2g IV Q12H\
+				Or cefotaxime 2g IV Q6H.
+				* **Dexamethasone** 10mg IV Q6H
+					* Give with or before first dose of antibiotics
+					* Cease if cause *other* than *S. pneumoniae* is discovered\
+					No mortality benefit outside this group.
+				* **Acyclovir** 10mg/kg IV\
+				Indicated for viral meningitis caused by VZV or HSV.
+			* If immunocompromised:\
+			i.e. Age >60, diabetes, alcohol misuse, malignancy, immunosuppressants:
+				* Add **ampicillin** 2g Q4H
+			* If **penicillin resistant** pneumococci:
+				* Add **vancomycin**
+		* **Cryptococcal meningitis**
+			* Initial therapy:
+				* Amphoteracin B
+				* 5-fluorocytosine
+			* Fluconazole
+	* Anticonvulsants
+		* Benzodiazepines for seizure control
+		* 
+* Procedural
+* Physical
+
+:::column-margin
+Management of seizures is covered under @sec-seizure.
+:::
+
+**Supportive care**:
+
+**Disposition**:
+
+* ICU admission in:
+	* Rapidly evolving rash
+	* GCS ⩽12
+	* Organ support
+	* Seizures
+
+
+**Preventative:**
+
+* Prophylaxis is recommended for close contacts\
+Ciprofloxacin 500mg.
+* Meningococcal vaccination
+* Public health notification
+
+### Marginal and Ineffective Therapies
+
+* Intrathecal antibiotics\
+Not recommended.
+* Prophylactic anticonvulsants
+
+## Anaesthetic Considerations
+
+## Complications
+
+* Death
+* D
+	* Hydrocephalus
+	* Cerebral infarction
+	* Seizure\
+	25% of cases.
+* H
+	* DIC\
+	Meningococcal meningitis.
+
+## Prognosis
+
+Bacterial meningitis:
+
+* Usually fatal without treatment
+* Mortality ~20%\
+↑ In patients with:
+	* Seizures
+	* Delays to treatment
+	* Extremes of age
+
+
+Viral meningitis:
+
+* Usually lasts 7-10 days
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
