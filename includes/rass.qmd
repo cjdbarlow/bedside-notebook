@@ -1,0 +1,21 @@
+The RASS is a 10-point scale that grades patient arousal from:
+
+* **+4: Combative**\
+Violent, with immediate danger to staff.
+* **+3: Very agitated**\
+Pulls or removes indwelling devices.
+* **+2: Agitated**\
+Non-purposeful, fights ventilator.
+* **+1: Restless**\
+Anxious but not aggressive.
+* **0: Alert and calm**
+* **-1: Drowsy**\
+*Sustained* (>10s) awakening to voice.
+* **-2: Light sedation**\
+*Brief* awakening to voice.
+* **-3: Moderate sedation**\
+Movement or eye opening to voice.
+* **-4: Deep sedation**\
+Movement or eye opening to pain.
+* **-5: Unarousable**\
+No response to pain.

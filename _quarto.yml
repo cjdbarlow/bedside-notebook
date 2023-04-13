@@ -583,6 +583,7 @@ book:
           chapters:
             - disease/neuro/coma.qmd
             - disease/neuro/hie.qmd
+            - disease/neuro/delirium.qmd
             - disease/neuro/abd.qmd
             # Toxic encephalopathy
         - part: "Cortical/Subcortical"

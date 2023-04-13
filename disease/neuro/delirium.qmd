@@ -1,0 +1,237 @@
+# Delirium
+
+Fluctuant acute **confusional state** secondary to an **organic** brain disorder that is:
+
+* Characterised by **impairments in**:
+	* **Orientation**\
+	To time, place, and person.
+	* **Attention**\
+	* **Grasp**\
+	Lack of contextual understanding - does not appreciate they are a patient, you are a clinician, they are in a hospital.
+* Divided into **three subtypes**:
+	* **Hypoactive**\
+	Sedated and inattentive, but docile and cooperative meaning that it is relatively underdiagnosed.
+	* **Hyperactive**\
+	Agitated, aggressive, and uncooperative.
+	* **Mixed**\
+	Fluctuant between hypoactive and hyperactive forms.
+
+:::column-margin
+Delirium tremens is a subtype of delirium occurring 48-72 hours after alcohol withdrawal, and is covered elsewhere.
+:::
+
+
+## Epidemiology and Risk Factors
+
+Delirium is exceedingly common in inpatients:
+
+* Occurring in:
+	* ~70% of ventilated ICU patients
+	* ~50% of surgical patients
+	* ~30% of medical patients
+* Majority are hypoactive delirium
+
+:::column-margin
+Despite this documented high prevalence, it is likely delirium is still under-diagnosed.
+:::
+
+Risk factors are divided into:
+
+* Modifiable
+	* **Infection**
+	* Hypoxia
+	* Hypercarbia
+	* Acidosis
+	* Hyponatraemia
+	* Medications
+		* Anticholinergic
+		* Opioids
+		* **Sedatives**
+		* Polypharmacy
+	* Physical
+		* Restraints
+		* IDC
+		* Immobility
+	* Supportive
+		* Constipation
+		* Dehydration
+		* Pain
+* Non-modifiable
+	* Age
+	* Pre-existing cognitive impairment
+		* Dementia
+	* Depression
+	* Hepatic impairment
+	* Institutionalised prior to admission
+
+## Pathophysiology
+
+Poorly understood; proposed mechanisms include:
+
+* TNF-α activation in microglia
+* Altered cerebral blood flow
+* Thalamic dysfunction
+* Relative dopamine excess
+
+### Aetiology
+
+## Clinical Manifestations
+
+
+## Diagnostic Approach and DDx
+
+Screening for delirium is recommended:
+
+* By major intensive care societies
+* Regularly
+	* Usually daily in appropriate patients.
+	* Unclear how this should best be performed in practice
+	* Sensitivity and specificity of screening tools varies widely between publications\
+	Likely affected substantially by implementation and local practice.
+* Using standardised tools
+	* Confusion Assessment Model (CAM-ICU)
+	* Intensive Care Delirium Screening Checklist (ICDSC)
+
+
+:::column-margin
+Both scores are designed for binary prediction (present/absent) of delirium, although quantification of a spectrum of delirium is also possible.
+:::
+
+
+### Confusion Assessment Model
+
+The CAM-ICU score is:
+
+* A point in time assessment
+* Specific but not sensitive for delirium
+* Relatively quick and straightforward to perform
+* Requires prior calculation of the RASS
+
+:::column-margin
+{{< include /includes/rass.qmd >}}
+:::
+
+![](/resources/CAM-ICU.png)
+
+
+## Investigations
+
+Bedside:
+
+Laboratory:
+
+Imaging:
+
+Other:
+
+## Management
+
+:::info
+Principles:
+
+* Maximise preventative interventions\
+Predominantly non-pharmacological.
+* Correct cause
+* Minimise pharmacological intervention
+* Remember the family\
+Emphasise delirium is common and transient.
+:::
+
+
+**Specific therapy**:
+
+* Pharmacological
+	* Antipsychotics
+		* Typical antipsychotics
+			* Haloperidol
+				* 0.5-10mg, usually 1-2mg IV
+				* Risk of QTc prolongation
+		* Atypical antipsychotics\
+		Lower extrapyramidal side effects.
+			* Olanzapine
+			* Quetiapine
+			* Risperidone
+	* α~2~-agonists
+		* Clonidine
+		* Dexmedetomidine
+* Physical\
+**Non-pharmacological interventions** are covered under preventative management, but remain a critical part of treating active delirium.
+
+:::column-margin
+{{< include /includes/extrapyramidal.qmd >}}
+:::
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+* **Orientation aids**
+	* **Orientation clues**
+		* **Windows** with natural light
+		* **Clocks**
+		* **Calendars** with todays date
+		* Verbal statements of the time, date, and location
+	* **Familiar individuals**
+		* **Family**
+			* Greatest familiarity
+			* Sense of control
+			* Sense of safety
+		* Nursing and medical staff
+* **Minimise disorientation**
+	* Sensory impairments
+		* Hearing aids
+		* Glasses
+* **Minimise agitation**
+	* Environmental noise
+	* Sleep quality
+	* Physical restraints
+	* **Medical restraints**
+		* **IDC**
+		* IV lines	
+* Address **risk factors**
+	* Minimise sedation\
+	Avoid deep sedation without good reason.
+	* Pain
+	* Bowel care
+	* Polypharmacy
+	* Appropriate oxygenation and haemodynamic target
+	* Electrolyte correction
+* Patient **diaries**
+	* Fill gaps in memory after ICU discharge
+	* Rationalise traumatic hallucinations
+
+:::column-margin
+Balancing opioid related harm and pain management is a difficult balancing act. On balance, I am to ensure adequate analgesia (minimising opioid when able, and using lower-risk opioids) and accept some opioid related harm.
+:::
+
+### Marginal and Ineffective Therapies
+
+* Benzodiazepines\
+Significant independent risk factor for delirium, and recommended only for:
+	* Delirium tremens
+	* Urgent control of dangerous hyperactive delirium 
+* Prophylactic antipsychotics\
+May ↓ duration or severity, but no improvement in mortality.
+* Anticholinesterases\
+Worsen delirium.
+
+
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+2. Krewulak, K.D., Rosgen, B.K., Ely, E.W., Stelfox, H.T., Fiest, K.M., 2020. [The CAM-ICU-7 and ICDSC as measures of delirium severity in critically ill adult patients](https://doi.org/10.1371/journal.pone.0242378). PLoS One 15, e0242378. 
+
