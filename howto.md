@@ -10,12 +10,19 @@ quarto::quarto_preview
 
 * Broken links
 * Images to markdown style
-* Get SVGs working in pdf output
+* Get SVGs working in pdf output - prob convert to pdf
 * Make the search box prettier
 * Glossary highlight only once per section
 * Autolink to terms ?disease ?management
+* Correct image size when column-margin images have captions
 
 # Decisions
 
 * Where to put rhabdo, CIM, CIN
-	* ?under neuro and make neuromuscular?
+	* Rhabdo under fluid
+	* CIM, CIN under neuromuscular
+
+* Infection
+	* Move system-specific infections to that system
+	* New infective subgroups
+		* ?where would TB meningitis go; under TB, separate neuro infection, under meningitis...

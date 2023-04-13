@@ -29,6 +29,7 @@ CAC: Citric Acid Cycle
 CBF: Cerebral Blood Flow
 CMRO2: Cerebral Metabolic Rate for Oxygen
 CMV: Cytomegalovirus
+CN: Cranial Nerve
 CNIX: Glossopharyngeal Nerve
 CNS: Central Nervous System
 CNX: Vagus Nerve
@@ -103,7 +104,7 @@ iNO: Inhaled Nitric Oxide
 IOP: Intraocular Pressure
 iPEEP: Intrinsic Positive End-Expiratory Pressure
 IRIS: Immune Reconstitution Inflammatory Syndrome
-IVDU: Intravenous Drug Use
+IVDU: Intravenous Drug Use(r)
 IVC: Inferior Vena Cava
 IVH: Intraventricular Haemorrhage
 IVS: Interventricular Septum

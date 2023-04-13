@@ -1,0 +1,267 @@
+# Tetanus
+
+Non-communicable infection of devitalised tissue by *Clostridium tetani*, which produces an **exotoxin** that causes **life-threatening**:
+
+* **Muscle rigidity**\
+Including laryngeal and respiratory muscle spasm.
+* **Autonomic instability**\
+Haemodynamic lability, including cardiac arrest.
+* **Convulsions**
+
+## Epidemiology and Risk Factors
+
+Significant public health problem of the developing world, due to a combination of:
+
+* High incidence\
+Major risk factors include:
+	* Unvaccinated
+		* LMIC
+		* Elderly
+	* Rural
+	* Poor
+* Requirement for prolonged ICU care
+
+
+## Pathophysiology
+
+*C. tetani* is a gram positive rod and obligate anaerobe that:
+
+* Exists in spore form in the environment
+* Is non-invasive\
+Requires innoculation into a wound to produce infection - cannot grow in vitalised tissue.
+* Produces two **exotoxins**:
+	* **Tetanospasmin**
+		* LD~50~ 0.01mg
+		* Haematological spread
+		* Uptake into motor nerve endings, and transport into nervous system
+		* Diffuses into interstitium with, and acts on pre-synaptic terminals of nearby neurones\
+		Produces **dysfunction** of predominantly **inhibitory interneurons**:
+			* Muscle spasms
+			* Autonomic dysfunction
+			Requires toxin to diffuse to lateral horns.
+				* ↑ Sympathetic tone
+			* Cognitive dysfunction
+	* Tetanolysin\
+	Localised tissue destruction; clinically relatively unimportant.
+
+
+:::column-margin
+Fun Fact:\
+~240g of tetanospasmin could kill the entire world population.
+:::
+
+
+### Aetiology
+
+Mechanisms of *C. tetani* innoculation include:
+
+* **Trauma**
+	* Puncture
+	* Laceration
+	* Dog bites
+* Skin breakdown
+	* Burns
+	* Chronic ulcers
+	* Dental infections
+* Other devitalised tissue
+	* Abortion
+	* Childbirth
+	* Tetanus neonatorum\
+	Infection of umbilical stump.
+
+
+## Clinical Manifestations
+
+Presentation:
+
+* Occurs following an **incubation** period\
+A shorter incubation period indicates ↑ severity.
+	* **Usually >2 days**\
+	* **90% <14 days**
+	* Up to 60 days
+* **Pain**
+* **Musculoskeletal** symptoms\
+Progression:
+	* Stiffness
+	* Rigidity
+	* **Trismus**\
+	Presentation typically at this point.
+	* Risus sardonicus\
+	Clenched-teeth expression relating to facial muscle spasm.
+* **Autonomic dysfunction**
+	* Confined to severe cases
+	* Begins after muscle spasms
+	* Generally short-duration episodes of:
+		* ↑↑ Sympathetic tone
+		* ↑↑ Parasympathetic tone
+			* Including sudden cardiac arrest\
+			Particularly in IVDU.
+
+
+:::column-margin
+![](/resources/risus.jpg)
+:::
+
+
+Tetanus neonatorum presents:
+
+* ~7^th^ day of life
+* Short history of failure to feed
+
+
+## Diagnostic Approach and DDx
+
+Include:
+
+* Local disease
+	* Dental
+	* TMJ disease
+	* Infection
+* Toxidromes
+	* TCA overdose
+	* Strychnine poisoning
+
+
+## Investigations
+
+:::info
+No specific laboratory findings - diagnosis is clinical.
+:::
+
+Bedside:
+
+* ABG\
+Respiratory failure.
+
+Laboratory:
+
+* Bloods
+	* UEC\
+	Rhabdomyolysis.
+	* CMP
+
+Imaging:
+
+Other:
+
+
+## Management
+
+:::info
+Principles:
+
+* Immunoglobulin to neutralise circulating toxin
+* Source control/wound care
+* Supportive care
+:::
+
+
+**Resuscitation**:\
+
+* A
+	* **Intubation**\
+	For control of muscle spasm.
+* B
+	* Mechanical ventilation\
+		* If respiratory muscle involvement
+		* **Muscle relaxation** if spasms prevent ventilation\
+		No particular agent is preferred.
+* C
+	* Haemodynamic control\
+	Consider:
+		* ↓ Catecholamine production
+			* **Sedation**\
+			May require **hefty** doses, Oh's quotes 3.4 *grams* of diazepam daily.
+			* Opioids\
+			Heavy doses may also be required.
+		* **α/β Antagonists**\
+			* Clonidine
+			* Phentolamine, phenoxybenzamine
+			* Esmolol
+		* **MgSO~4~**\
+		Target 2.4-4mmol/L. May also assist in ↓ spasm.
+
+
+**Specific therapy**:
+
+* Pharmacological
+	* **Human antitetanus immunoglobulin**
+		* 500 IU
+		* Should be given to all patients who are not known to be immunised on presentation
+	* Antibiotics\
+	Spores and bacteria are destroyed by:
+		* Metronidazole 500mg IV Q6-8H for 10 days\
+		Preferred.
+		* Penicillin G 1-3MU IV Q6H for 10 days 
+* Procedural
+	* Wound care\
+	Washout of contaminated wounds.
+	* Source control
+* Physical
+
+
+**Disposition**:
+
+* ICU
+
+
+**Preventative**:
+
+* Tetanus toxoid vaccine
+	* Cheap
+	* Three doses for full course\
+	2^nd^ at 6-12 weeks, 3^rd^ at 6-12 months.
+	* Booster every 10 years
+	* Occasionally results in *local tetanus*\
+	Spasm of limb or muscle.
+	* Frequent doses may result in non-life threatening immune symptoms
+
+
+:::column-margin
+Neonates have  immunity via maternal antibodies until 3 months, and vaccination of pregnant women will protect children produced within 5 years.
+:::
+
+### Marginal and Ineffective Therapies
+
+
+## Complications
+
+* Death
+* B
+	* Respiratory failure
+* C
+	* Cardiac failure\
+	↑ Catecholamines.
+	* Hypertensive crises
+* D
+	* Spasm
+* F
+	* Rhabdomyolysis
+
+## Prognosis
+
+* Death
+	* 80% without ICU care
+	* 10% with mechanical ventilation
+	* More common with:
+		* Systemic tetanus
+		* Cephalic tetanus\
+		Secondary to head and neck injuries with CN involvement.
+		* Age
+* C
+	* Arrhythmias
+	* Cardiac failure
+* D
+	* Spasm
+		* Most resolve within 1-3 weeks
+		* Residual stiffness may remain
+	* Cognitive changes
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
