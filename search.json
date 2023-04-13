@@ -179,7 +179,7 @@
     "href": "assessment/critical/neuro.html#respiratory-patterns",
     "title": "Neurological Examination",
     "section": "Respiratory Patterns",
-    "text": "Respiratory Patterns\n\n\nAssessing respiratory pattern in the intubated patient requires some desedation and a pressure-support mode.\n\n\n\n\n\n\n\n\n\nPattern\nPresentation\nMechanism\nCauses\n\n\n\n\nApneustic breathing\nDeep inspiration with a pause at end-inspiration, followed by brief expiration.\n\n\n\n\nCentral Neurogenic Hyperventilation\nPrimary respiratory alkalosis (hyperventilation)\n\n\nPontine lesion\nMidbrain lesion\nBihemispheric lesion\n\n\n\nCheyne-Stokes\nSinusoidal pattern of: | Delayed feedback between CO2 detector and effector responses. | * Low CO | | * Metabolic encephalopathies - Rapidly ↑ depth and frequency of breathing | | * Bilateral thalamic injuries | - Rapidly ↓ depth and frequency | | * Bilateral forebrain dysfunction | | | * Acute CVA"
+    "text": "Respiratory Patterns\n\n\nAssessing respiratory pattern in the intubated patient requires some desedation and a pressure-support mode.\n\n\n\n\n\n\n\n\n\nPattern\nPresentation\nMechanism\nCauses\n\n\n\n\nApneustic breathing\nDeep inspiration with a pause at end-inspiration, followed by brief expiration.\n\n\n\n\nCentral Neurogenic Hyperventilation\nPrimary respiratory alkalosis (hyperventilation)\n\n\nPontine lesion\nMidbrain lesion\nBihemispheric lesion\n\n\n\nCheyne-Stokes\nSinusoidal pattern of:\n\nRapidly ↑ depth and frequency of breathing\nRapidly ↓ depth and frequency\n\nDelayed feedback between CO2 detector and effector responses.\n\nLow CO\nMetabolic encephalopathies\nBilateral thalamic injuries\nBilateral forebrain dysfunction\nAcute CVA"
   },
   {
     "objectID": "assessment/critical/neuro.html#cranial-nerve-examination-in-the-unconscious-patient",
@@ -1727,6 +1727,13 @@
     "title": "Intracranial Pressure",
     "section": "Pathophysiology",
     "text": "Pathophysiology\nNormal ICP waveform contains 3 peaks:\n\nP1\nPercussino wave from arterial pressure transmitted to the choroid plexus.\nP2\nTidal wave due to brain compliance. P2 > P1 when brain compliance falls.\nP3\nDicrotic wave from AV closure.\n\nLungberg waves are pathological waveforms seen rarely:\n\nLundberg A waves\nSlow rise in ICP to very high (50-100mmHg) levels, occurring due to a fall in MAP/CPP leading to cerebral vasodilatation and ↑ ICP. Can be terminated by an ↑ in MAP and restoration of CPP.\nLundberg B waves\nChanges in ICP by 10-20mmHg over shorter (30-180s) time periods, with associated change in respiratory pattern.\nLundberg C waves\nLow amplitude changes in ICP that occur several times per minute."
+  },
+  {
+    "objectID": "management/neuro/icp.html#clinical-manifestations",
+    "href": "management/neuro/icp.html#clinical-manifestations",
+    "title": "Intracranial Pressure",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations\nClinical features of ↑ ICP include:\n\nSeizures\nGCS\n⩽12 is relative contraindication to LP without radiographic exclusion of ↑ ICP or hydrocephalus.\nFocal neurological signs\nPapilloedema"
   },
   {
     "objectID": "management/neuro/icp.html#management",
@@ -11382,6 +11389,83 @@
     "text": "References\n\nOkazaki T, Kuroda Y. Aneurysmal subarachnoid hemorrhage: intensive care for improving neurological outcome. Journal of Intensive Care. 2018 May 8;6(1):28.\nMuehlschlegel S. Subarachnoid Hemorrhage. Continuum (Minneap Minn). 2018 Dec;24(6):1623–57.\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
   },
   {
+    "objectID": "disease/neuro/cvst.html#epidemiology-and-risk-factors",
+    "href": "disease/neuro/cvst.html#epidemiology-and-risk-factors",
+    "title": "Cerebral Venous Sinus Thrombosis",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors"
+  },
+  {
+    "objectID": "disease/neuro/cvst.html#pathophysiology",
+    "href": "disease/neuro/cvst.html#pathophysiology",
+    "title": "Cerebral Venous Sinus Thrombosis",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\n\nAetiology\nCauses include:\n\nInfection\nClassical cause.\n\nIntracranial\n\nMeningitis\nEpidural abscess\nSubdural abscess\n\nExtracranial\n\nFacial cellulitis\nDental infection\n\n\nProthrombotic cause\n\nOCP\nHereditary"
+  },
+  {
+    "objectID": "disease/neuro/cvst.html#clinical-manifestations",
+    "href": "disease/neuro/cvst.html#clinical-manifestations",
+    "title": "Cerebral Venous Sinus Thrombosis",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations"
+  },
+  {
+    "objectID": "disease/neuro/cvst.html#diagnostic-approach-and-ddx",
+    "href": "disease/neuro/cvst.html#diagnostic-approach-and-ddx",
+    "title": "Cerebral Venous Sinus Thrombosis",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
+  },
+  {
+    "objectID": "disease/neuro/cvst.html#investigations",
+    "href": "disease/neuro/cvst.html#investigations",
+    "title": "Cerebral Venous Sinus Thrombosis",
+    "section": "Investigations",
+    "text": "Investigations\nBedside:\nLaboratory:\nImaging:\n\nCT\nSensitivity 60%, or 96%.\nMRI/MRA\nSensitivity 86%/96% respectively.\nDSA\n100% sensitive.\n\nOther:"
+  },
+  {
+    "objectID": "disease/neuro/cvst.html#management",
+    "href": "disease/neuro/cvst.html#management",
+    "title": "Cerebral Venous Sinus Thrombosis",
+    "section": "Management",
+    "text": "Management\n\nPrinciples are:\n\nTreat primary infection\nAnticoagulation\nThere is often concurrent intracerebral haemorrhage, and this is not a contraindication to anticoagulation.\n\n\nResuscitation:\n\nABC approach. Comment on team coordination and clinical priorities. Specific therapy:\n\nPharmacological\nProcedural\nPhysical\n\nSupportive care:\nDisposition:\nPreventative:\n\nMarginal and Ineffective Therapies"
+  },
+  {
+    "objectID": "disease/neuro/cvst.html#anaesthetic-considerations",
+    "href": "disease/neuro/cvst.html#anaesthetic-considerations",
+    "title": "Cerebral Venous Sinus Thrombosis",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "disease/neuro/cvst.html#complications",
+    "href": "disease/neuro/cvst.html#complications",
+    "title": "Cerebral Venous Sinus Thrombosis",
+    "section": "Complications",
+    "text": "Complications"
+  },
+  {
+    "objectID": "disease/neuro/cvst.html#prognosis",
+    "href": "disease/neuro/cvst.html#prognosis",
+    "title": "Cerebral Venous Sinus Thrombosis",
+    "section": "Prognosis",
+    "text": "Prognosis"
+  },
+  {
+    "objectID": "disease/neuro/cvst.html#key-studies",
+    "href": "disease/neuro/cvst.html#key-studies",
+    "title": "Cerebral Venous Sinus Thrombosis",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/neuro/cvst.html#references",
+    "href": "disease/neuro/cvst.html#references",
+    "title": "Cerebral Venous Sinus Thrombosis",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
+  },
+  {
     "objectID": "disease/neuro/autonomic_dysreflexia.html#epidemiology-and-risk-factors",
     "href": "disease/neuro/autonomic_dysreflexia.html#epidemiology-and-risk-factors",
     "title": "Autonomic Dysreflexia",
@@ -12870,7 +12954,7 @@
     "href": "disease/git/alf.html#management",
     "title": "Acute Liver Failure",
     "section": "Management",
-    "text": "Management\n\nGoals of therapy are:\n\nIdentify cause\nSupportive care to limit hepatic damage\nEarly identification of patients for transplant\n\nSignificant improvement in outcomes with emergency liver transplantation\nEarly escalation to critical care and early referral to a specialist centre is essential\n\n\n\nResuscitation:\n\n\nA\nConsider securing if:\n\nHigh grade (III/IV) encephalopathy\nNeed for transfer\n\nB\n\nCO2 control for ICP management\n\nC\n\nClassically distributive shock picture\n\nNoradrenaline\n\n\nD\n\n↑ ICP\n\n\nControl with standard ICP management\n\n\n\nSpecific therapy:\n\nProcedural\n\nLiver transplantation\n\nPhysical\n\nExtra-corporeal hepatic support\nArtificial, extra-corporeal liver replacement therapy. Broadly, ↓ encephalopathy and ↑ haemodynamic function without mortality benefit. May be:\n\nBiological\nUsing human/porcine cells.\nMechanical\nMolecular filtration.\n\n\n\nUnderlying cause:\n\n\nManagement of paracetamol overdose is covered under Chapter 351.\n\nParacetamol overdose\n\nN-acetylcysteine (NAC)\n\n\nCornerstone of therapy as early administration results in significant reduction in mortality (to <1%), though even late administration may improve outcome\nDosing based on Prescott nomogram\n\n\nViral hepatitis\n\nAntivirals\nHepatitis B\n\nLamivudine\nBenefit if given early.\n\n\nAlcoholic hepatitis\nAutoimmune hepatitis\n\nSte\n\nMushroom poisoning\n\nForced diuresis\n↑ Renal clearance of toxin. Avoid hypovolaemia.\n\nWilson’s disease\n\nD-Penicillamine\nChelates copper. Withdrawal of chronic treatment may precipitate failure.\n\nHepatic vein thrombosis\n\nThrombolysis\nClot retrieval\nTIPS\n\n\nSupportive care:\n\n\nInvasive intracranial pressure monitoring associated with ~10% intracranial haemorrhage rate.\n\nB\n\nLung protective ventilation\nARDS risk.\nDrain pleural effusions\n\nD\n\n↑ ICP\n\n\nGeneral measures\nIf grade 3/4 encephalopathy, recommend:\n\nIntubation\nSedation\nAvoid stimulation\nHead-up positioning\n\nConsider invasive ICP management if all of:\n\n\nGrade 3-4 encephalopathy\nHyperacute liver failure\nAmmonia >150mmolL\nYoung\n\n\n\nE\n\n↓ BSL\nUse high-concentration dextrose to avoid cerebral oedema/↓ Na+.\n\nF\n\n↓ Phosphate\nReplenish.\nRRT\n\n\nAvoid citrate!\nCRRT preferential due to haemodynamics\nIn addition to standard indications, consider for:\n\nHyperammonaemia\nAim <100μmol/: to ↓ cerebral oedema.\nHypothermia\n\n\n\nG\n\nEarly enteral feeding\nMay have ↑ metabolic requirements. No change in protein requirement.\nLactulose\nControversial. May ↓ hepatic encephalopathy but lead to gaseous intestinal distension.\nPPI\nDrain ascites\nFor haemodynamic benefit.\n\nH\n\nCoagulopathy\nTreat if bleeding or prior to procedures. Patients may be prothrombotic, anti-thrombotic, or fibrinolytic, and the assays themselves (both coagulation profiles and point-of-care testing) may not correlate with the observed clinical effect.\n\nVitamin K\nVery reasonable, probably ineffective in the majority of patients.\n\n\n\nDisposition:\n\nLiver transplant centre\n\n\nMarginal and Ineffective Therapies"
+    "text": "Management\n\nGoals of therapy are:\n\nIdentify cause\nSupportive care to limit hepatic damage\nEarly identification of patients for transplant\n\nSignificant improvement in outcomes with emergency liver transplantation\nEarly escalation to critical care and early referral to a specialist centre is essential\n\n\n\nResuscitation:\n\n\nA\nConsider securing if:\n\nHigh grade (III/IV) encephalopathy\nNeed for transfer\n\nB\n\nCO2 control for ICP management\n\nC\n\nClassically distributive shock picture\n\nNoradrenaline\n\n\nD\n\n↑ ICP\n\n\nControl with standard ICP management\n\n\n\nSpecific therapy:\n\nProcedural\n\nLiver transplantation\n\nPhysical\n\nExtra-corporeal hepatic support\nArtificial, extra-corporeal liver replacement therapy. Broadly, ↓ encephalopathy and ↑ haemodynamic function without mortality benefit. May be:\n\nBiological\nUsing human/porcine cells.\nMechanical\nMolecular filtration.\n\n\n\nUnderlying cause:\n\n\nManagement of paracetamol overdose is covered under Chapter 356.\n\nParacetamol overdose\n\nN-acetylcysteine (NAC)\n\n\nCornerstone of therapy as early administration results in significant reduction in mortality (to <1%), though even late administration may improve outcome\nDosing based on Prescott nomogram\n\n\nViral hepatitis\n\nAntivirals\nHepatitis B\n\nLamivudine\nBenefit if given early.\n\n\nAlcoholic hepatitis\nAutoimmune hepatitis\n\nSte\n\nMushroom poisoning\n\nForced diuresis\n↑ Renal clearance of toxin. Avoid hypovolaemia.\n\nWilson’s disease\n\nD-Penicillamine\nChelates copper. Withdrawal of chronic treatment may precipitate failure.\n\nHepatic vein thrombosis\n\nThrombolysis\nClot retrieval\nTIPS\n\n\nSupportive care:\n\n\nInvasive intracranial pressure monitoring associated with ~10% intracranial haemorrhage rate.\n\nB\n\nLung protective ventilation\nARDS risk.\nDrain pleural effusions\n\nD\n\n↑ ICP\n\n\nGeneral measures\nIf grade 3/4 encephalopathy, recommend:\n\nIntubation\nSedation\nAvoid stimulation\nHead-up positioning\n\nConsider invasive ICP management if all of:\n\n\nGrade 3-4 encephalopathy\nHyperacute liver failure\nAmmonia >150mmolL\nYoung\n\n\n\nE\n\n↓ BSL\nUse high-concentration dextrose to avoid cerebral oedema/↓ Na+.\n\nF\n\n↓ Phosphate\nReplenish.\nRRT\n\n\nAvoid citrate!\nCRRT preferential due to haemodynamics\nIn addition to standard indications, consider for:\n\nHyperammonaemia\nAim <100μmol/: to ↓ cerebral oedema.\nHypothermia\n\n\n\nG\n\nEarly enteral feeding\nMay have ↑ metabolic requirements. No change in protein requirement.\nLactulose\nControversial. May ↓ hepatic encephalopathy but lead to gaseous intestinal distension.\nPPI\nDrain ascites\nFor haemodynamic benefit.\n\nH\n\nCoagulopathy\nTreat if bleeding or prior to procedures. Patients may be prothrombotic, anti-thrombotic, or fibrinolytic, and the assays themselves (both coagulation profiles and point-of-care testing) may not correlate with the observed clinical effect.\n\nVitamin K\nVery reasonable, probably ineffective in the majority of patients.\n\n\n\nDisposition:\n\nLiver transplant centre\n\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/git/alf.html#anaesthetic-considerations",
@@ -12961,7 +13045,7 @@
     "href": "disease/git/cld.html#prognosis",
     "title": "Chronic Liver Disease",
     "section": "Prognosis",
-    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 318.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
+    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 319.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
   },
   {
     "objectID": "disease/git/cld.html#key-studies",
@@ -14875,6 +14959,314 @@
     "text": "References"
   },
   {
+    "objectID": "disease/infective/meningitis.html#epidemiology-and-risk-factors",
+    "href": "disease/infective/meningitis.html#epidemiology-and-risk-factors",
+    "title": "Meningitis",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors"
+  },
+  {
+    "objectID": "disease/infective/meningitis.html#pathophysiology",
+    "href": "disease/infective/meningitis.html#pathophysiology",
+    "title": "Meningitis",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\nSeries of processes:\n\nInfection\nPredominantly via droplet or saliva. Common routes include:\n\nNasopharyngeal colonisation\nMiddle ear\nSinusitis\nDental\n\nCytokine production\nMeningitis\nHydrocephalus\n\n↑ ICP\n↓ CPP\n\nVasculitis\nThrombosis\n\n\nAetiology\nBacterial meningitis:\n\nCommunity\n\nS. pneumoniae\nN. meningitidis\nH. influenzae\nMost common prior to vaccination.\nL. monocytogenes Rare, and confined to the immunosuppressed:\n\nElderly\nAlcohol dependency\nDiabetes\nMalignancy\n\n\nNosocomial\nRare, but organisms include:\n\nStaphylococcus spp.\nParticularly with intracranial devices, or following neurosurgery.\nE. coli\nPseudomonas spp.\nKlebsiella spp.\nAcinetobacter spp\n\n\nViral:\n\nEnteroviruses\n\nCoxsackie\n\nHerpes simplex\nMumps\nEchoviruses\nToscana virus\n\nYeast:\n\nCryptococcus neoformans\n\nChronic meningitis\nImmunocompromised\nIndia ink stain and antigen testing on CSF"
+  },
+  {
+    "objectID": "disease/infective/meningitis.html#clinical-manifestations",
+    "href": "disease/infective/meningitis.html#clinical-manifestations",
+    "title": "Meningitis",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations\nClinical features are typically rapidly evolving over hours, and relate to:\n\n\nViral meningitis presents with similar symptoms to bacterial meningitis, but is generally less severe.\n\nMeningeal inflammation\n\nFever\nHeadache\nNeck stiffness\nPhotophobia\n\nEncephalopathy\n\nAltered level of consciousness\nIrritability\nSeizures\nPaediatric.\n\nCausative organism\n\nMeningococcal disease\n\nHash\nHaemorrhagic, petechial, purpuric.\nDigital gangrene\nSkin necrosis\nSigns of coagulopathy\n\n\n\n\n\n\nIn the immunocompromised:\n\nLow-grade fever\nBehavioural changes\n\n\n\nNB: Kernig’s sign is neither sensitive or specific of meningeal irritation."
+  },
+  {
+    "objectID": "disease/infective/meningitis.html#diagnostic-approach-and-ddx",
+    "href": "disease/infective/meningitis.html#diagnostic-approach-and-ddx",
+    "title": "Meningitis",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
+  },
+  {
+    "objectID": "disease/infective/meningitis.html#investigations",
+    "href": "disease/infective/meningitis.html#investigations",
+    "title": "Meningitis",
+    "section": "Investigations",
+    "text": "Investigations\nBedside:\nLaboratory:\n\n\nDetails of CSF findings in meningitis are covered under Chapter 376.\n\nBlood\n\nFBE\nInfection.\nBlood cultures\nPCR\n\nLP\n\nRequired to completely confirm diagnosis\nHowever, contraindications are common\n\nCoagulopathy\n↑ ICP, or significant clinical concern of such\n\nEmpirical antibiotics should be commenced if there is delay\nUrgent Gram stain and culture\n\n\nImaging:\nOther:"
+  },
+  {
+    "objectID": "disease/infective/meningitis.html#management",
+    "href": "disease/infective/meningitis.html#management",
+    "title": "Meningitis",
+    "section": "Management",
+    "text": "Management\nResuscitation:\n\nSpecific therapy:\n\n\nDuration of antimicrobial therapy depends on the organism:\n\nN. meningitidis: 5 days\nS. pneumoniae: 10-14 days\nL. monocytogenes: 21 days\n\n\nPharmacological\n\nAntimicrobial therapy\n\nEmpiric therapy\n\nFoundation:\n\nCeftriaxone 2g IV Q12H\nOr cefotaxime 2g IV Q6H.\nDexamethasone 10mg IV Q6H\n\nGive with or before first dose of antibiotics\nCease if cause other than S. pneumoniae is discovered\nNo mortality benefit outside this group.\n\nAcyclovir 10mg/kg IV\nIndicated for viral meningitis caused by VZV or HSV.\n\nIf immunocompromised:\ni.e. Age >60, diabetes, alcohol misuse, malignancy, immunosuppressants:\n\nAdd ampicillin 2g Q4H\n\nIf penicillin resistant pneumococci:\n\nAdd vancomycin\n\n\nCryptococcal meningitis\n\nInitial therapy:\n\nAmphoteracin B\n5-fluorocytosine\n\nFluconazole\n\n\nAnticonvulsants\n\nBenzodiazepines for seizure control\n\n\n\nProcedural\nPhysical\n\n\n\nManagement of seizures is covered under Chapter 286.\nSupportive care:\nDisposition:\n\nICU admission in:\n\nRapidly evolving rash\nGCS ⩽12\nOrgan support\nSeizures\n\n\nPreventative:\n\nProphylaxis is recommended for close contacts\nCiprofloxacin 500mg.\nMeningococcal vaccination\nPublic health notification\n\n\nMarginal and Ineffective Therapies\n\nIntrathecal antibiotics\nNot recommended.\nProphylactic anticonvulsants"
+  },
+  {
+    "objectID": "disease/infective/meningitis.html#anaesthetic-considerations",
+    "href": "disease/infective/meningitis.html#anaesthetic-considerations",
+    "title": "Meningitis",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "disease/infective/meningitis.html#complications",
+    "href": "disease/infective/meningitis.html#complications",
+    "title": "Meningitis",
+    "section": "Complications",
+    "text": "Complications\n\nDeath\nD\n\nHydrocephalus\nCerebral infarction\nSeizure\n25% of cases.\n\nH\n\nDIC\nMeningococcal meningitis."
+  },
+  {
+    "objectID": "disease/infective/meningitis.html#prognosis",
+    "href": "disease/infective/meningitis.html#prognosis",
+    "title": "Meningitis",
+    "section": "Prognosis",
+    "text": "Prognosis\nBacterial meningitis:\n\nUsually fatal without treatment\nMortality ~20%\n↑ In patients with:\n\nSeizures\nDelays to treatment\nExtremes of age\n\n\nViral meningitis:\n\nUsually lasts 7-10 days"
+  },
+  {
+    "objectID": "disease/infective/meningitis.html#key-studies",
+    "href": "disease/infective/meningitis.html#key-studies",
+    "title": "Meningitis",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/infective/meningitis.html#references",
+    "href": "disease/infective/meningitis.html#references",
+    "title": "Meningitis",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
+  },
+  {
+    "objectID": "disease/infective/encephalitis.html#epidemiology-and-risk-factors",
+    "href": "disease/infective/encephalitis.html#epidemiology-and-risk-factors",
+    "title": "Encephalitis",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors"
+  },
+  {
+    "objectID": "disease/infective/encephalitis.html#pathophysiology",
+    "href": "disease/infective/encephalitis.html#pathophysiology",
+    "title": "Encephalitis",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\n\nAetiology\nViral causes include:\n\nHSV 1\nClassically temporal lobe involvement.\nArboviruses\nJapanese encephalitis\nNipah virus\nHendra virus\nMurray Valley\nJohn Cunningham virus\nClassically immunosuppressed.\nWest Nile virus\nMost common cause of epidemic viral encephalitis."
+  },
+  {
+    "objectID": "disease/infective/encephalitis.html#clinical-manifestations",
+    "href": "disease/infective/encephalitis.html#clinical-manifestations",
+    "title": "Encephalitis",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations\nCan be difficult to diagnose, with major symptoms resulting from infection of brain parenchyma:\n\nBrain parenchyma\n\nSpeech disturbance\nSeizures\nAltered cognition\n\n\nCertain causes result in particular presentations:\n\nCMV\n\nGanglionitis\nPolyradiculitis\n\nJohn Cunningham virus\n\nProgressive Multifocal Leucoencephalopathy\nSubacute:\n\nConfusion\nWeakness\nVisual symptoms"
+  },
+  {
+    "objectID": "disease/infective/encephalitis.html#diagnostic-approach-and-ddx",
+    "href": "disease/infective/encephalitis.html#diagnostic-approach-and-ddx",
+    "title": "Encephalitis",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
+  },
+  {
+    "objectID": "disease/infective/encephalitis.html#investigations",
+    "href": "disease/infective/encephalitis.html#investigations",
+    "title": "Encephalitis",
+    "section": "Investigations",
+    "text": "Investigations\nBedside:\nLaboratory:\nImaging:\n\nMRI\nT2-weighted.\n\nOther:\n\nLP\n\nPCR\n\nEEG\n\nSlow-wave activity\nEpileptiform discharges\nExtreme delta brush pattern\nHighly specific for NMDA-receptor encephalitis."
+  },
+  {
+    "objectID": "disease/infective/encephalitis.html#management",
+    "href": "disease/infective/encephalitis.html#management",
+    "title": "Encephalitis",
+    "section": "Management",
+    "text": "Management\nResuscitation:\n\nABC approach. Comment on team coordination and clinical priorities. Specific therapy:\n\nPharmacological\n\nAntiviral\nChoice depends on nature of viral infection.\n\nHSV encephalitis\n\nAciclovir 10mg/kg IV TDS for 14 days\nConsider continuing until CSF is HSV DNA negative\n\nCMV\n\nGanciclovir\nValganciclovir\n\n\n\nProcedural\nPhysical\n\nSupportive care:\nDisposition:\n\nMarginal and Ineffective Therapies"
+  },
+  {
+    "objectID": "disease/infective/encephalitis.html#anaesthetic-considerations",
+    "href": "disease/infective/encephalitis.html#anaesthetic-considerations",
+    "title": "Encephalitis",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "disease/infective/encephalitis.html#complications",
+    "href": "disease/infective/encephalitis.html#complications",
+    "title": "Encephalitis",
+    "section": "Complications",
+    "text": "Complications"
+  },
+  {
+    "objectID": "disease/infective/encephalitis.html#prognosis",
+    "href": "disease/infective/encephalitis.html#prognosis",
+    "title": "Encephalitis",
+    "section": "Prognosis",
+    "text": "Prognosis\nVaries depending on cause:\n\nHSV\n\n20% treated\n70% untreated"
+  },
+  {
+    "objectID": "disease/infective/encephalitis.html#key-studies",
+    "href": "disease/infective/encephalitis.html#key-studies",
+    "title": "Encephalitis",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/infective/encephalitis.html#references",
+    "href": "disease/infective/encephalitis.html#references",
+    "title": "Encephalitis",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
+  },
+  {
+    "objectID": "disease/infective/brain_abscess.html#epidemiology-and-risk-factors",
+    "href": "disease/infective/brain_abscess.html#epidemiology-and-risk-factors",
+    "title": "Brain Abscess",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors"
+  },
+  {
+    "objectID": "disease/infective/brain_abscess.html#pathophysiology",
+    "href": "disease/infective/brain_abscess.html#pathophysiology",
+    "title": "Brain Abscess",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\nInfective spread from:\n\nBone\nDura\nBacteraemia\n\n\nAetiology\nOragnisms include:\n\nCommon\n\nS. Aureus\nStrepococcus spp.\nBacteroides fragilis\nGram negative"
+  },
+  {
+    "objectID": "disease/infective/brain_abscess.html#clinical-manifestations",
+    "href": "disease/infective/brain_abscess.html#clinical-manifestations",
+    "title": "Brain Abscess",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations\nFeature include:\n\n↑ ICP\n\nObtundation\n\nMass lesion\n\nHeadache\nVomiting\nObtundation\nSeizures\n\n\n\n\nNotably, meningism is often absent."
+  },
+  {
+    "objectID": "disease/infective/brain_abscess.html#diagnostic-approach-and-ddx",
+    "href": "disease/infective/brain_abscess.html#diagnostic-approach-and-ddx",
+    "title": "Brain Abscess",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
+  },
+  {
+    "objectID": "disease/infective/brain_abscess.html#investigations",
+    "href": "disease/infective/brain_abscess.html#investigations",
+    "title": "Brain Abscess",
+    "section": "Investigations",
+    "text": "Investigations\nBedside:\nLaboratory:\nImaging:\nOther:"
+  },
+  {
+    "objectID": "disease/infective/brain_abscess.html#management",
+    "href": "disease/infective/brain_abscess.html#management",
+    "title": "Brain Abscess",
+    "section": "Management",
+    "text": "Management\nResuscitation:\n\nABC approach. Comment on team coordination and clinical priorities. Specific therapy:\n\nPharmacological\nProcedural\nPhysical\n\nSupportive care:\nDisposition:\n\nMarginal and Ineffective Therapies"
+  },
+  {
+    "objectID": "disease/infective/brain_abscess.html#anaesthetic-considerations",
+    "href": "disease/infective/brain_abscess.html#anaesthetic-considerations",
+    "title": "Brain Abscess",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "disease/infective/brain_abscess.html#complications",
+    "href": "disease/infective/brain_abscess.html#complications",
+    "title": "Brain Abscess",
+    "section": "Complications",
+    "text": "Complications"
+  },
+  {
+    "objectID": "disease/infective/brain_abscess.html#prognosis",
+    "href": "disease/infective/brain_abscess.html#prognosis",
+    "title": "Brain Abscess",
+    "section": "Prognosis",
+    "text": "Prognosis"
+  },
+  {
+    "objectID": "disease/infective/brain_abscess.html#key-studies",
+    "href": "disease/infective/brain_abscess.html#key-studies",
+    "title": "Brain Abscess",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/infective/brain_abscess.html#references",
+    "href": "disease/infective/brain_abscess.html#references",
+    "title": "Brain Abscess",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
+  },
+  {
+    "objectID": "disease/infective/myelitis.html#epidemiology-and-risk-factors",
+    "href": "disease/infective/myelitis.html#epidemiology-and-risk-factors",
+    "title": "Myelitis",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors"
+  },
+  {
+    "objectID": "disease/infective/myelitis.html#pathophysiology",
+    "href": "disease/infective/myelitis.html#pathophysiology",
+    "title": "Myelitis",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\n\nAetiology"
+  },
+  {
+    "objectID": "disease/infective/myelitis.html#clinical-manifestations",
+    "href": "disease/infective/myelitis.html#clinical-manifestations",
+    "title": "Myelitis",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations"
+  },
+  {
+    "objectID": "disease/infective/myelitis.html#diagnostic-approach-and-ddx",
+    "href": "disease/infective/myelitis.html#diagnostic-approach-and-ddx",
+    "title": "Myelitis",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
+  },
+  {
+    "objectID": "disease/infective/myelitis.html#investigations",
+    "href": "disease/infective/myelitis.html#investigations",
+    "title": "Myelitis",
+    "section": "Investigations",
+    "text": "Investigations\nBedside:\nLaboratory:\nImaging:\nOther:"
+  },
+  {
+    "objectID": "disease/infective/myelitis.html#management",
+    "href": "disease/infective/myelitis.html#management",
+    "title": "Myelitis",
+    "section": "Management",
+    "text": "Management\nResuscitation:\n\nABC approach. Comment on team coordination and clinical priorities. Specific therapy:\n\nPharmacological\nProcedural\nPhysical\n\nSupportive care:\nDisposition:\n\nMarginal and Ineffective Therapies"
+  },
+  {
+    "objectID": "disease/infective/myelitis.html#anaesthetic-considerations",
+    "href": "disease/infective/myelitis.html#anaesthetic-considerations",
+    "title": "Myelitis",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "disease/infective/myelitis.html#complications",
+    "href": "disease/infective/myelitis.html#complications",
+    "title": "Myelitis",
+    "section": "Complications",
+    "text": "Complications"
+  },
+  {
+    "objectID": "disease/infective/myelitis.html#prognosis",
+    "href": "disease/infective/myelitis.html#prognosis",
+    "title": "Myelitis",
+    "section": "Prognosis",
+    "text": "Prognosis"
+  },
+  {
+    "objectID": "disease/infective/myelitis.html#key-studies",
+    "href": "disease/infective/myelitis.html#key-studies",
+    "title": "Myelitis",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/infective/myelitis.html#references",
+    "href": "disease/infective/myelitis.html#references",
+    "title": "Myelitis",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
+  },
+  {
     "objectID": "disease/infective/sbp.html#epidemiology-and-risk-factors",
     "href": "disease/infective/sbp.html#epidemiology-and-risk-factors",
     "title": "Spontaneous Bacterial Peritonitis",
@@ -15243,7 +15635,7 @@
     "href": "disease/obs/htn.html#management",
     "title": "Hypertensive Diseases of Pregnancy",
     "section": "Management",
-    "text": "Management\nPreventative therapy:\n\nLimit intravenous fluid\nIV fluid ↑ risk of APO.\n\nAvoid if:\n\nEuvolaemic\nRenal function normal\n\n\nAvoid NSAIDs\nReduce APO risk.\nAspirin\nIndicated in pregnancy with major risk factors for pre-eclampsia, including:\n\nPre-disposing medical conditions\n\nSLE\nScleroderma\nAnti-phospholipid syndrome\n\nChronic hypertension\nDiabetes\nCKD\nOocyte donation\nFamily history of pre-eclampsia\nMother or sister.\n\n\nResuscitation:\n\n\nC\n\nControl of blood pressure\n\nTarget SBP 140-150mmHg and DBP 90-100mmHg\nStrategy depends on severity of hypertension\n\nFor non-severe hypertension:\n\nLabetalol Drug of choice.\n\n100-400mg PO BD-TDS\n\nNifedipine\n\n20-60mg PO SR\n\nMethyldopa\n\n250-750mg PO TDS\n\nClonidine\n\n75-300μg PO TDS\n\nHydralazine\n\n25-50mg PO Q8H\n\nMetoprolol\nPropranolol\n\nFor severe hypertension or hypertensive crisis: Aim to lower BP by 10-20mmHg every 10-20 minutes to reduce incidence of intracerebral haemorrhage.\n\nLabetalol\n\n20-80mg IV over 2 minutes\nCan repeat every 10 minutes.\n\nNifedipine\n\n10-20mg PO IR\n\nHydralazine\n\n\n10mg IV Q20 minutes\n\nGTN\nFor hypertension and APO\n\nSafe agents in pregnancy include\n\nLabetalol\n\n\n\n\nD\n\nSeizure prophylaxis\n\nMagnesium Sulphate\n\nProphylaxis for eclampsia in women with severe preeclampsia\nNot recommended for use as an antihypertensive agent.\nMultifactorial mechanism of action:\n\n↑ Prostacyclin synthesis\n↓ Calcium influx\nThereby ↓ ATP-consuming Ca2+-dependent processes.\nNMDA antagonism\n\nGive 4g over 20 minutes, and then 1g/hr thereafter\nTarget level is 1.7-3.5mmol/L\nMonitoring should be performed:\n\nQ6H in women with renal impairment\nIf:\n\nRR < 12\nUO < 100ml over 4 hours\nLoss of patella reflexes\nFurther seizures occur\n\n\n\n\n\n\nSpecific therapy:\n\nPharmacological\nProcedural\nDelivery\n\n\nOnly curative option\nNeuraxial techniques preferred in absence of coagulopathy\nNo clear advantage of any (CSE, epidural, single-shot spinal) technique.\n\n\nDisposition:\n\nAdmission\nMay be required for BP management.\nDelivery\nTiming of delivery is dependent on gestational age at time of onset of pre-eclampsia:\n\nPreviable (< 236 weeks)\n\nHigh risk patient\nWill likely require either:\n\nTermination of pregnancy\nExtreme preterm delivery\n\n\n24-316 weeks\n\nHigh risk patient\nTransfer to tertiary institution\nWill likely require pre-term delivery\nAim to prolong pregnancy as able\n\n32-366 weeks\n\nAim to prolong pregnancy\nDelivery where appropriate paediatric support is available\n\n370\n\nPlanned delivery\n\n\n\n\nBreastfeeding and Post-Partum Management\nOngoing and new-onset hypertension occur in the post-partum period. In addition to drugs used antenatally, drugs with low milk:maternal plasma ratios include:\n\nEnalapril\nCaptopril\n\n\n\nAnaesthetic Considerations\n\nA\n\nLaryngeal oedema\n\nNote presence of stridor pre-induction\nUse a smaller ETT\n\n\nC\n\nHypertension\n\nManagement is difficult\nHypertension with light GA/laryngoscopy may be problematic\nKey questions:\n\nWhat is the current BP?\nWhat is the trend in the BP?\nWhat antihypertensive agents is the patient taking?\n\n\nVolume state\nMay have ↓ intravascular volume; ↑ hypotension with neuraxial techniques.\n\nD\n\nLikelihood of eclampsia\nEvaluate presence of:\n\nHeadache\nHyperreflexia/clonus\nVisual symptoms\nExtreme hypertension\n\nAnaesthetic technique\n\nEpidural\n\nReduces BP, and improves placental perfusion\nProvides analgesia during labour\nSlow titration may be better than spinal in severe preeclampsia\nConsider inserting early, prior to thrombocytopenia developing\nRequires normal coagulation profile prior\n\nPlatelet count > 70,000/ml\nInstitutional policy may differ.\nRoutine APTT/PT is not required unless:\n\nClinical history of bleeding\nOther clinical condition that may contribute to coagulopathy\n\n\n\nSpinal\n\nSafe alternative\nMay require additional volume to compensate for the low-volume pre-eclamptic state\n\nCSE\n\nPreferable to spinal if surgery is long\n\nGA\n\nRSI associated with dangerous hypertension\nConsider:\n\nLabetalol 1mg/kg pre-induction\nReduces BP without affecting foetal blood flow.\n\nMagnesium ↑ sensitivity to muscle relaxants\n\n\n\nF\n\nVolume state\n\nUrine output\nThirst\n\n\nH\n\nCoagulation profile"
+    "text": "Management\nPreventative:\n\nLimit intravenous fluid\nIV fluid ↑ risk of APO.\n\nAvoid if:\n\nEuvolaemic\nRenal function normal\n\n\nAvoid NSAIDs\nReduce APO risk.\nAspirin\nIndicated in pregnancy with major risk factors for pre-eclampsia, including:\n\nPre-disposing medical conditions\n\nSLE\nScleroderma\nAnti-phospholipid syndrome\n\nChronic hypertension\nDiabetes\nCKD\nOocyte donation\nFamily history of pre-eclampsia\nMother or sister.\n\n\nResuscitation:\n\n\nC\n\nControl of blood pressure\n\nTarget SBP 140-150mmHg and DBP 90-100mmHg\nStrategy depends on severity of hypertension\n\nFor non-severe hypertension:\n\nLabetalol Drug of choice.\n\n100-400mg PO BD-TDS\n\nNifedipine\n\n20-60mg PO SR\n\nMethyldopa\n\n250-750mg PO TDS\n\nClonidine\n\n75-300μg PO TDS\n\nHydralazine\n\n25-50mg PO Q8H\n\nMetoprolol\nPropranolol\n\nFor severe hypertension or hypertensive crisis: Aim to lower BP by 10-20mmHg every 10-20 minutes to reduce incidence of intracerebral haemorrhage.\n\nLabetalol\n\n20-80mg IV over 2 minutes\nCan repeat every 10 minutes.\n\nNifedipine\n\n10-20mg PO IR\n\nHydralazine\n\n\n10mg IV Q20 minutes\n\nGTN\nFor hypertension and APO\n\nSafe agents in pregnancy include\n\nLabetalol\n\n\n\n\nD\n\nSeizure prophylaxis\n\nMagnesium Sulphate\n\nProphylaxis for eclampsia in women with severe preeclampsia\nNot recommended for use as an antihypertensive agent.\nMultifactorial mechanism of action:\n\n↑ Prostacyclin synthesis\n↓ Calcium influx\nThereby ↓ ATP-consuming Ca2+-dependent processes.\nNMDA antagonism\n\nGive 4g over 20 minutes, and then 1g/hr thereafter\nTarget level is 1.7-3.5mmol/L\nMonitoring should be performed:\n\nQ6H in women with renal impairment\nIf:\n\nRR < 12\nUO < 100ml over 4 hours\nLoss of patella reflexes\nFurther seizures occur\n\n\n\n\n\n\nSpecific therapy:\n\nPharmacological\nProcedural\nDelivery\n\n\nOnly curative option\nNeuraxial techniques preferred in absence of coagulopathy\nNo clear advantage of any (CSE, epidural, single-shot spinal) technique.\n\n\nDisposition:\n\nAdmission\nMay be required for BP management.\nDelivery\nTiming of delivery is dependent on gestational age at time of onset of pre-eclampsia:\n\nPreviable (< 236 weeks)\n\nHigh risk patient\nWill likely require either:\n\nTermination of pregnancy\nExtreme preterm delivery\n\n\n24-316 weeks\n\nHigh risk patient\nTransfer to tertiary institution\nWill likely require pre-term delivery\nAim to prolong pregnancy as able\n\n32-366 weeks\n\nAim to prolong pregnancy\nDelivery where appropriate paediatric support is available\n\n370\n\nPlanned delivery\n\n\n\n\nBreastfeeding and Post-Partum Management\nOngoing and new-onset hypertension occur in the post-partum period. In addition to drugs used antenatally, drugs with low milk:maternal plasma ratios include:\n\nEnalapril\nCaptopril\n\n\n\nAnaesthetic Considerations\n\nA\n\nLaryngeal oedema\n\nNote presence of stridor pre-induction\nUse a smaller ETT\n\n\nC\n\nHypertension\n\nManagement is difficult\nHypertension with light GA/laryngoscopy may be problematic\nKey questions:\n\nWhat is the current BP?\nWhat is the trend in the BP?\nWhat antihypertensive agents is the patient taking?\n\n\nVolume state\nMay have ↓ intravascular volume; ↑ hypotension with neuraxial techniques.\n\nD\n\nLikelihood of eclampsia\nEvaluate presence of:\n\nHeadache\nHyperreflexia/clonus\nVisual symptoms\nExtreme hypertension\n\nAnaesthetic technique\n\nEpidural\n\nReduces BP, and improves placental perfusion\nProvides analgesia during labour\nSlow titration may be better than spinal in severe preeclampsia\nConsider inserting early, prior to thrombocytopenia developing\nRequires normal coagulation profile prior\n\nPlatelet count > 70,000/ml\nInstitutional policy may differ.\nRoutine APTT/PT is not required unless:\n\nClinical history of bleeding\nOther clinical condition that may contribute to coagulopathy\n\n\n\nSpinal\n\nSafe alternative\nMay require additional volume to compensate for the low-volume pre-eclamptic state\n\nCSE\n\nPreferable to spinal if surgery is long\n\nGA\n\nRSI associated with dangerous hypertension\nConsider:\n\nLabetalol 1mg/kg pre-induction\nReduces BP without affecting foetal blood flow.\n\nMagnesium ↑ sensitivity to muscle relaxants\n\n\n\nF\n\nVolume state\n\nUrine output\nThirst\n\n\nH\n\nCoagulation profile"
   },
   {
     "objectID": "disease/obs/htn.html#complications",
@@ -15341,7 +15733,7 @@
     "href": "disease/obs/pad.html#epidemiology-and-risk-factors",
     "title": "Placental Adhesive Disorders",
     "section": "Epidemiology and Risk Factors",
-    "text": "Epidemiology and Risk Factors\nOccurs in 1 in 500 pregnancies.\nMajor risk factors:\n\nPlacenta praevia\nPrevious caesarian section\n↑ risk:\n\n0: 2%\n1: 16%\n2: 24%\n3: 30%\n\nPlacenta praevia AND previous caesarian section\nMultiplicative risk: 40% of women with praevia and three previous caesarians will have placental adhesive disorder.\nSmoking\nUterine trauma\n\nMultiple curettes\nAsherman’s syndrome describes intrauterine adhesions occuring following uterine surgery."
+    "text": "Epidemiology and Risk Factors\nOccurs in 1 in 500 pregnancies.\nMajor risk factors:\n\nPlacenta praevia\nPrevious caesarian section\n↑ Risk:\n\n0: 2%\n1: 16%\n2: 24%\n3: 30%\n\nPlacenta praevia AND previous caesarian section\nMultiplicative risk: 40% of women with praevia and three previous caesarians will have placental adhesive disorder.\nSmoking\nUterine trauma\n\nMultiple curettes\nAsherman’s syndrome describes intrauterine adhesions occuring following uterine surgery."
   },
   {
     "objectID": "disease/obs/pad.html#pathophysiology",
@@ -15369,7 +15761,7 @@
     "href": "disease/obs/pad.html#management",
     "title": "Placental Adhesive Disorders",
     "section": "Management",
-    "text": "Management\nAntenatal diagnosis facilitates adequate preparation:\n\nPatient counselling\n\nLiklihood of hysterectomy\nMay include plan for caesarian-hysterectomy.\n\nElective delivery\n\nTertiary obstetric centre\n\nPersonel availability\nSenior:\n\nObstetric\nPaediatric\nHaematology\nIntensive care\n\nUse of cell salvage\nBlood bank availability\n\nUreteric stenting\nIf percreta.\nInterventional radiology\nFor:\n\nEmbolisation\nPre-emptive placement of balloon catheters to reduce haemorrhage\n\n\n\nSurgical management options:\n\nCaesarian hysterectomy\nUterus removed with placenta in-situ.\nCaesarian with uterine preservation\nOne-third will still require hysterectomy due to bleeding, which may be delayed up to 4 week. Four major techniques:\n\nExtirpative technique\nManual removal of placenta.\nExpectant management\nPlacenta is left in situ.\n\n↓ risk of massive obstetric haemorrhage and placenta is removed from uterus\nPreserves fertility\nPlacenta will necrose and ideally progressively detach itself\nRisk of sepsis or failure (and massive haemorrhage).\n\nConservative surgery\nPlacenta accreta area is removed.\nTriple-P\nAcceta is resected and then sutured.\n\n\n\nAnaesthetic Considerations\nGeneral considerations for caesarian section, as well as considerations for general or regional techniques, are also critical.\n\nC\n\nEnsure 2x wide-bore IVs\nInvasive arterial monitoring\n\nD\n\nAnaesthetic technique\nEither GA or neuraxial can be performed safely. A technique that the provider and system are comfortable with is appropriate.\n\nPrimary GA\n\nAttendant risks of GA caesarian\nFoetal effects of general anaesthetic agents\nTime to delivery often prolonged, and may be over an hour.\n\nPrimary neuraxial\n\nPlanned conversion to GA following delivery is reasonable in the setting of:\n\nHysterectomy\nMassive PPH\nLarge volume resuscitation\nAcidosis\n\n\n\n\nH\n\nCross-match blood prior\n\nO\n\nAvoid oxytocin\nPlacental separation is to be avoided in many surgical techniques."
+    "text": "Management\nAntenatal diagnosis facilitates adequate preparation:\n\nPatient counselling\n\nLiklihood of hysterectomy\nMay include plan for caesarian-hysterectomy.\n\nElective delivery\n\nTertiary obstetric centre\n\nPersonnel availability\nSenior:\n\nObstetric\nPaediatric\nHaematology\nIntensive care\n\nUse of cell salvage\nBlood bank availability\n\nUreteric stenting\nIf percreta.\nInterventional radiology\nFor:\n\nEmbolisation\nPre-emptive placement of balloon catheters to reduce haemorrhage\n\n\n\nSurgical management options:\n\nCaesarian hysterectomy\nUterus removed with placenta in-situ.\nCaesarian with uterine preservation\nOne-third will still require hysterectomy due to bleeding, which may be delayed up to 4 week. Four major techniques:\n\nExtirpative technique\nManual removal of placenta.\nExpectant management\nPlacenta is left in situ.\n\n↓ risk of massive obstetric haemorrhage and placenta is removed from uterus\nPreserves fertility\nPlacenta will necrose and ideally progressively detach itself\nRisk of sepsis or failure (and massive haemorrhage).\n\nConservative surgery\nPlacenta accreta area is removed.\nTriple-P\nAcceta is resected and then sutured.\n\n\n\nAnaesthetic Considerations\nGeneral considerations for caesarian section, as well as considerations for general or regional techniques, are also critical.\n\nC\n\nEnsure 2x wide-bore IVs\nInvasive arterial monitoring\n\nD\n\nAnaesthetic technique\nEither GA or neuraxial can be performed safely. A technique that the provider and system are comfortable with is appropriate.\n\nPrimary GA\n\nAttendant risks of GA caesarian\nFoetal effects of general anaesthetic agents\nTime to delivery often prolonged, and may be over an hour.\n\nPrimary neuraxial\n\nPlanned conversion to GA following delivery is reasonable in the setting of:\n\nHysterectomy\nMassive PPH\nLarge volume resuscitation\nAcidosis\n\n\n\n\nH\n\nCross-match blood prior\n\nO\n\nAvoid oxytocin\nPlacental separation is to be avoided in many surgical techniques."
   },
   {
     "objectID": "disease/obs/pad.html#complications",
@@ -16048,7 +16440,7 @@
     "href": "investigations/csf.html",
     "title": "Cerebrospinal Fluid Analysis",
     "section": "",
-    "text": "Normal (and abnormal) CSF Composition\n\n\n\n\n\n\n\n\n\n\nProperty\nNormal\nTraumatic Tap\nInfection\nSAH\nOther\n\n\n\n\nColour\nClear\nBloodstained\n\nClear in viral infection\nTurbid in bacterial infection\nFibrinous in fungal infection\n\nBloodstained\n\n\n\nOpening Pressure\n5-20cmH2O\n\n\n-/↑ In viral\n↑ In bacterial\n\n\n\n\n\nRBC (count)\nNil\n↑\n\n↑/↑↑\n\n\n\nWBC (count)\n0-3\n1 WCC:500 RBC\n↑ In the setting of an EVD.\n\nPMN leukocytosis (>500)\nFavours bacterial.\nLymphocytosis\nFavours viral, TB, fungal, or listeria.\nMonocyte dominant (>100)\nFavours viral infection.\nMixed lymphocytosis\\monocytosis\nGBS, status epilepticus.\n\n\n\nLymphocytosis and monocytosis can also occur in GBS and vasculitis\n\n\n\nProtein (g/L)\n0.18-0.45\n\n\n↑ (<1) In viral\n↑↑ (>1) In bacterial\n-/↑ (0.1-0.5) in fungal\n\n\n\n↑ In vasculitis\n↑ In sarcoidosis\n↑ In GBS\n↑ In status epilepticus\nOligoclonal bands in MS\n\n\n\nGlucose (mmol/L)\n2.5-3.5\n\n\n↓ (<2.2) In bacterial\n↓ (<2.5) In fungal\n\n\n↓ Due to RBC metabolism\n\n\n\n\nGlucose CSF:Serum (ratio) .\n0.6\n\n\n>0.6 In viral\n<0.6 In bacterial\n\n\n\n\n\nOther\n\n\n\nCSF culture\nLDH\n↑ In bacterial.\nCryptococcal antigen\nBacterial antigen\nViral PCR\n\n\nXanthochromia\nBilirubin in CSF.\n\n\n\n\n\nNotes:\n\n\nThings to Request:\n\nMicroscopy\nGram stain\nCulture\nExtended if considering listeria, cryptococcus.\nCytology and cell counts\nProtein\nAny other disease-specific tests\n\n\nAn ↑ CSF WCC is referred to as a pleocytosis\nXanthochromia classically occurs due to metabolism of lysed RBCs from a SAH, but can also occur if serum bilirubin >100μmol/:\nGlucose CSF:serum ratio is inaccurate if serum BSL ⪆17mmol/L due to saturation of glucose transporters\nβ-2 transferrin is specific for CSF, and is used to confirm suspicion of CSF rhinorrhea or CSF otorrhea.\n\n\n\nVenkatesh, B., P. Scott, and M. Ziegenfuss. Cerebrospinal Fluid in Critical Illness. Critical Care and Resuscitation: Journal of the Australasian Academy of Critical Care Medicine 2, no. 1 (March 2000): 42–54."
+    "text": "Normal (and abnormal) CSF Composition\n\n\n\n\n\n\n\n\n\n\nProperty\nNormal\nTraumatic Tap\nInfection\nSAH\nOther\n\n\n\n\nColour\nClear\nBloodstained\n\nClear in viral infection\nTurbid in bacterial infection\nFibrinous in fungal infection\n\nBloodstained\n\n\n\nOpening Pressure\n5-20cmH2O\n\n\n-/↑ In viral\n↑ In bacterial\n\n\n\n\n\nRBC (count)\nNil\n↑\n\n↑/↑↑\n\n\n\nWBC (count)\n0-3\n1 WCC:500 RBC\n↑ In the setting of an EVD.\n\nPMN leukocytosis (>500)\nFavours bacterial.\nLymphocytosis\nFavours viral, TB, fungal, or listeria.\nMonocyte dominant (>100)\nFavours viral infection.\nMixed lymphocytosis\\monocytosis\nGBS, status epilepticus.\n\n\n\nLymphocytosis and monocytosis can also occur in GBS and vasculitis\n\n\n\nProtein (g/L)\n0.18-0.45\n\n\n↑ (<1) In viral\n↑↑ (>1) In bacterial\n-/↑ (0.1-0.5) in fungal\n\n\n\n↑ In vasculitis\n↑ In sarcoidosis\n↑ In GBS\n↑ In status epilepticus\nOligoclonal bands in MS\n\n\n\nGlucose (mmol/L)\n2.5-3.5\n\n\n↓ (<2.2) In bacterial\n↓ (<2.5) In fungal\n\n\n↓ Due to RBC metabolism\n\n\n\n\nGlucose CSF:Serum (ratio) .\n0.6\n\n\n>0.6 In viral\n<0.6 In bacterial\n\n\n\n\n\nOther\n\n\n\nCSF culture\nLDH\n↑ In bacterial.\nCryptococcal antigen\nBacterial antigen\nViral PCR\n\n\nXanthochromia\nBilirubin in CSF.\n\n\n\n\n\nNotes:\n\n\nThings to Request:\n\nMicroscopy\nGram stain\nCulture\nExtended if considering listeria, cryptococcus.\nCytology and cell counts\nProtein\nAny other disease-specific tests\n\n\nAn ↑ CSF WCC is referred to as a pleocytosis\nXanthochromia classically occurs due to metabolism of lysed RBCs from a SAH, but can also occur if serum bilirubin >100μmol/:\nGlucose CSF:serum ratio is inaccurate if serum BSL ⪆17mmol/L due to saturation of glucose transporters\nβ-2 transferrin is specific for CSF, and is used to confirm suspicion of CSF rhinorrhea or CSF otorrhea.\n\n\n\nVenkatesh, B., P. Scott, and M. Ziegenfuss. Cerebrospinal Fluid in Critical Illness. Critical Care and Resuscitation: Journal of the Australasian Academy of Critical Care Medicine 2, no. 1 (March 2000): 42–54.\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
   },
   {
     "objectID": "investigations/eeg.html#findings",
