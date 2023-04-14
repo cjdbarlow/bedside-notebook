@@ -622,7 +622,7 @@ book:
             - disease/neuro/dmd.qmd
             - disease/neuro/bmd.qmd
             - disease/neuro/myotonic.qmd
-            - disease/neuro/cim.qmd
+            - disease/neuro/icu_weakness.qmd
       # Endocrine & Metabolic 
       - part: "Endocrine and Metabolic"
         chapters:

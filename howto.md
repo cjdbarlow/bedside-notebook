@@ -15,6 +15,7 @@ quarto::quarto_preview
 * Glossary highlight only once per section
 * Autolink to terms ?disease ?management
 * Correct image size when column-margin images have captions
+* Click on margin images to pop into centre screen
 
 # Decisions
 

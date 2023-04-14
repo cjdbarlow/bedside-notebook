@@ -1,0 +1,184 @@
+# Critical Illness Weakness
+
+Combination of myopathy and neuropathy that occurs in the ICU patient, that is:
+
+:::column-margin
+Formal diagnosis of CIN/CIM requires electrophysiology studies, which are rarely performed in practice and are predominantly a research tool. Criteria include:
+
+* CIN
+	* ↓ AP amplitude\
+	⩾2 nerves have amplitude <80% LLN for both:
+		* Compound muscle
+		* Sensory nerve
+	* Normal nerve conduction velocity
+	* No change on repetitive stimulation
+* CIM
+	* Preserved sensory nerve function
+	* ↓ Muscle excitability in ⩾2 muscle groups
+:::
+
+
+* Characterised by:
+	* Proximal myopathy
+	* Symmetrical flaccid weakness
+	* Hyporeflexia
+* Subdivided into Critical Illness:
+	* **Myopathy**\
+	Almost universal in the critically ill, and contributes to the majority of ICU acquired weakness. 
+	* **Neuropathy**\
+	Rarer than CIM.
+	* **Neuromyopathy**\
+	Combination of neuropathy and myopathy.
+
+
+## Epidemiology and Risk Factors
+
+Weakness is common in ICU patients:
+
+* 65% of patients after 5-7 days of ventilation
+
+
+Risk factors relate predominantly to ↓ muscle mass:
+
+:::column-margin
+Patient factors have substantial overlap, are mutually reinforcing, and could broadly be summarised as **frailty**.
+:::
+
+* Patient factors
+	* Age
+	* Low-baseline muscle mass
+	* Chronic disease
+* Disease factors
+	Severity of illness
+	* ICU length of stay
+	* Hyperglycaemia
+
+:::column-margin
+Notably, **muscle relaxants** are **not associated** with ↑ CIM/CIN.
+:::
+
+
+## Pathophysiology
+
+
+Myopathy:
+
+* Loss of muscle mass
+	* Rapid ↓ in muscle mass within 3 days of ICU admission:
+		* 10% ↓ in thickness and cross-sectional area within first 3 days
+		* Further 10% ↓ over following 4 days\
+		Usually 2-3%/day.
+	* ↑↑ Speed of wasting with ↑ number of organ failures
+* ↓ Anabolism
+	* Altered protein metabolism
+	* Generalised inflammation
+* Myonecrosis
+* ↓ Skeletal muscle ATP synthesis
+
+:::column-margin
+![](/resources/cim_sofa.png)
+:::
+
+Neuropathy:
+
+* Acquired channelopathy of voltage-gated sodium channels\
+Widely present but poor correlation with dysfunction.
+* Axonal degeneration
+	* Associated with ↑ BSL
+
+
+### Aetiology
+
+## Clinical Manifestations
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+Bedside:
+
+Laboratory:
+
+Imaging:
+
+Other:
+
+* Electrophysiology
+	* Rarely poerformed in practice
+	* Required for diagnosis of peripheral nerve injury
+
+## Management
+
+
+**Specific therapy**:
+
+* Pharmacological
+* Procedural
+* Physical
+
+**Supportive care**:
+
+* E
+	* Physiotherapy
+		* ↓ Catabolic effects of immobilisation and bed rest
+		* ↑ Anabolism
+* G
+	* Feeding\
+	↑ Anabolism.
+	* Insulin\
+	↑ Anabolism.
+
+
+**Disposition**:
+
+**Preventative**:
+
+* Minimise sedation and ventilation time
+	* Early wakening
+	* Spontaneous breathing
+	* Early mobilisation
+
+
+### Marginal and Ineffective Therapies
+
+* Electrical stimulation\
+No ↑ muscle mass, possibly due to:
+	* Impaired anabolic response
+	* Electrical damage to muscle
+* Extra nutrition\
+No ↑ muscle mass or outcome improvement.
+* Tight glucose control\
+Does ↓ muscle mass loss, but results in ↑↑ hypoglycaemia and ↑ mortality.
+
+## Anaesthetic Considerations
+
+## Complications
+
+* Death
+* D
+	* Persistent weakness
+* E
+	* ↑ Osteoporosis and fracture risk
+
+## Prognosis
+
+
+Significant morbidity and mortality:
+
+* Mortality\
+↑ Short-term and 5-year mortality.
+* Morbidity\
+Severe functional limitations occur among survivors:
+	* At 6-12 months
+		* 70% have substantial limitations
+		* 30% are carer-dependent
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Nakanishi N, Oto J, Tsutsumi R, Iuchi M, Onodera M, Nishimura M. Upper and lower limb muscle atrophy in critically ill patients: an observational ultrasonography study. Intensive Care Med. 2018 Feb;44(2):263-264.
+2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
