@@ -1,0 +1,48 @@
+# Ulcer Prophylaxis
+
+Physiological stress-related gastric and intestinal mucosal bleeding occurs in 8-45% of patients. Ulcer prophylaxis:
+
+* Aims to ↑ gastric pH to decrease ulceration
+* ↓ Mucosal bleeding rate but not mortality
+* May ↑ risk of:
+	* HAP/VAP\
+	Via gastric bacterial overgrowth and microaspiration.
+
+
+## Principles
+
+
+## Practice
+
+Approach:
+
+* Non-pharmacological prophylaxis for all patients
+	* Cease *primary* prevention aspirin
+	* Avoid NSAID
+	* Enteral nutrition
+* **Pharmacological prophylaxis** should be **reserved for at-risk patients**:
+	* **Risk factors** include:
+		* **Intubated**
+		* ***Multiple* risk factors** for **ulceration**
+			* Shock
+			* Previous GI bleed
+			* High-dose steroid
+		* Occult bleding
+		* COVID
+	* Consider:
+		* **PPI**\
+		PO or NG preferred if available.
+			* Omeprazole 40mg PO/IV/NG
+			* Pantoprazole 40mg PO/IV/NG daily
+		* H~2~ antagonist\
+		Compared with PPI:
+			* ↓ Efficacy
+			* ↑ Delirium
+			* Cheaper
+
+
+## Key Studies
+
+---
+
+## References

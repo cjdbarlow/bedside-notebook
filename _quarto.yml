@@ -172,6 +172,10 @@ book:
                 - management/cvs/ecmo_anticoag.qmd
                 - management/cvs/va.qmd
                 - management/cvs/vv.qmd
+            - part: "VAD"
+              chapters:
+                - management/cvs/vad_overview.qmd
+                - management/cvs/lvad.qmd
             - part: "Medications"
               chapters:
                 - management/cvs/ino.qmd
@@ -451,7 +455,7 @@ book:
           - anaesthesia/vascular/emerg_aaa.qmd
           - anaesthesia/vascular/endovascular.qmd
           - anaesthesia/vascular/carotid.qmd
-        - part: "Off the Floor"
+        - part: "Off-the-Floor"
           chapters:
           - anaesthesia/otf/remote_anaes.qmd
           - anaesthesia/otf/ect.qmd
@@ -462,19 +466,24 @@ book:
       chapters:
         - part: "Concepts"
           chapters:
-            - intensive/persistent.qmd
-            - intensive/design.qmd
-        - part: "General"
+            - intensive/concepts/persistent.qmd
+            - intensive/concepts/design.qmd
+            - intensive/concepts/organ.qmd
+        - part: "Supportive Care"
           chapters:
-            - intensive/fasthugs.qmd
-            - intensive/nutrition.qmd
-            - intensive/physio.qmd
-            - intensive/organ.qmd
+            - intensive/supportive/fasthugs.qmd
+            - intensive/supportive/fluids.qmd
+            - intensive/supportive/icu_sedation.qmd
+            - intensive/supportive/thromboprophylaxis.qmd
+            - intensive/supportive/ulcer.qmd
+            - intensive/supportive/glucose.qmd
+            - intensive/supportive/nutrition.qmd
+            - intensive/supportive/physio.qmd
         # FASTHUGS
         # Stress response
         - part: "Surgical"
           chapters:
-            - intensive/post_cardiac.qmd
+            - intensive/surgical/post_cardiac.qmd
             # Post op thoracic
             # Post op neuro
             # Transplants
@@ -612,7 +621,7 @@ book:
           chapters:
             - disease/neuro/cpsp.qmd
             - disease/neuro/crps.qmd
-            # GBS
+            - disease/neuro/gbs.qmd
         - part: "Neuromuscular Junction"
           chapters:
             - disease/neuro/mg.qmd

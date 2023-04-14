@@ -1,0 +1,232 @@
+# Left Ventricular Assist Device
+
+
+
+
+## Pathophysiology
+
+
+## Parameters
+
+Key LVAD parameters include:
+
+* Speed\
+Pump speed in RPM. The speed is:
+	* The only value that is **set**
+	* Generally, ↑ pump speed should ↑ flow
+* Power\
+Measure of pump work.
+	* ↑ Power occurs with:
+		* ↑ Pump speed
+		* ↑ Pump flow\
+		This can occur independent of speed with pathology, e.g. AR or ↓ SVR states.
+		* Rotor thrombosis
+	* ↓ Power occurs with:
+		* ↓ Pump speed
+		* ↓ Pump flow
+		* Obstruction\
+		*Inflow* cannula obstruction.
+* Flow\
+LVAD flow is a measure of LVAD output, and is *estimated* based on:
+	* Speed
+	* RPM
+	* Haematocrit
+* Pulsatility Index\
+Measure of the variation in flow. The PI is:
+	* Calculated as:\
+	$PI = {Flow_{Max} - Flow_{Min} \over Flow_{Mean}}$
+	* A marker of native cardiac function
+	* Assessed over 15s
+	* Used to determine **PI Events**\
+		* Period where PI is >45%
+		* Results in a transient ↓ LVAD speed
+		* May trigger a suction event
+
+:::column-margin
+Normal ranges for LVAD parameters vary depending on the model.\
+\
+For the **HeartMate 3**:
+
+* Speed: 4700-6500
+* Power: 3-7
+* Flow: 3-6L/min
+* PI: 1-10
+:::
+
+
+## Assessment
+
+Vital signs:
+
+* Palpable pulse may not be present due to low native CO
+* NIBP similarly ineffective
+* MAP can be calculated:
+	* Via invasive measurement
+	* Via pressure cuff with doppler
+		* Inflate cuff above SBP
+		* Deflate cuff until doppler pulse returns
+		* This pressure is the MAP
+
+
+LVAD assessment:
+
+* Driveline intact
+* Driveline connected to controller
+* Controller not alarming
+* LVAD connected to power source
+* Auscultate for mechanical hum
+
+
+## Investigations
+
+Bedside:
+
+Laboratory:
+
+Imaging:
+
+Other:
+
+## Management
+
+**Resuscitation**:\
+
+ABC approach. Comment on team coordination and clinical priorities.
+**Specific therapy**:
+
+* Pharmacological
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+
+## Anaesthetic Considerations
+
+## Complications
+
+Include:
+
+:::column-margin
++----------------------------+------------+-------+-----+
+| Condition                  | Flow       | Power | PI  |
++============================+============+=======+=====+
+| Inflow/Outflow Obstruction | ↓          | ↓     | ↓   |
++----------------------------+------------+-------+-----+
+| Rotor Thrombus             | Machine: ↑ | ↑↑    |     |
+|                            | Reality: ↓ |       |     |
++----------------------------+------------+-------+-----+
+| Hypovolaemia               | ↓          | ↓     | ↑/↓ |
++----------------------------+------------+-------+-----+
+| Hypervolaemia              | ↑          | ↑     | ↑/↓ |
++----------------------------+------------+-------+-----+
+| Hypertension               | ↓          | ↓     | ↑   |
++----------------------------+------------+-------+-----+
+| RV Failure                 | ↓          | ↓     | ↑/↓ |
++----------------------------+------------+-------+-----+
+| Sepsis                     | ↑          | ↑     | ↓   |
++----------------------------+------------+-------+-----+
+| Aortic Regurgitation       | ↑          | ↑     | ↓   |
++----------------------------+------------+-------+-----+
+| Ventricular arrhythmia     | ↓          | ↓     | ↓   |
++----------------------------+------------+-------+-----+
+
+: Changes in LVAD Parameters by Condition
+:::
+
+* Direct
+	* Suction event
+	* Pump thrombosis
+* Indirect
+
+
+### Direct
+
+Suction event:
+
+* LV collapse due to either:
+	* ↓ LV preload\
+	Intervention is **very different** depending on the cause, and usually needs echo guidance:
+		* True hypovolaemia
+			* Bleeding
+		* RV failure
+		* Tamponade
+		* Arrhythmia
+	* Excessive LVAD speed
+* Leads to:
+	* ↓ LVAD output
+		* Alarms
+		* ↓ LVAD CO and likely total CO
+			* Hypotension
+
+
+Pump thrombosis:
+
+* Consider if clinically ↓ CO with ↑ power
+* Assess for haemolysis:
+	* ↑ LDH
+	* ↓ Haptoglobin
+	* ↑ Plasma Free haemoglobin
+* Usually requires device exchange, though thrombolysis may be possible
+
+
+Device failure:
+
+* Treat as cardiogenic shock in a patient with terrible ventricular function
+	* Adrenaline
+	* Noradrenaline/dobutamine
+* Consider VA ECMO
+
+### Indirect
+
+* C
+	* RV failure\
+	Major complication of LVAD support.
+		* 10-40% by 2 years
+		* Multifactorial
+			* ↑ RV preload secondary to ↑ CO and ↑ VR
+			* Altered ventricular dynamics\
+			Septal shift with LV unloading.
+			* Pulmonary hypertension
+			* Arrhythmias
+	* Ventricular arrhythmias
+		* Can be surprisingly well-tolerated in short term
+		* Require treatment due to:
+			* RV dysfunction
+			* Loss of native CO
+				* Thrombosis risk
+	* Aortic Regurgitation
+		* Consider if clinically ↓ CO despite ↑ flow
+		* Results in ineffective LVAD function with recirculation through device
+			* Cardiogenic shock
+			* RV failure
+* D
+	* Stroke\
+	10% by 2 years.
+* G
+	* GI bleeding
+		* Multiple risk factors
+			* Therapeutic anticoagulation
+			* Acquired von Willebrand syndrome
+			* Gastrointestinal AVM formation\
+			Attributed to non-pulsatile flow.
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## Further Reading
+
+* An excellent discussion on management with an ED focus is [at Emcrit](https://emcrit.org/emcrit/heartmate-3-lvad-overview/)
+
+---
+
+## References

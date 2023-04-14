@@ -1,0 +1,59 @@
+# Fluids
+
+
+
+
+## Principles
+
+* Critically unwell patients tend to:
+	* Receive large volumes of fluid
+	* Retain large volumes of fluid
+* Positive fluid balance correlates with mortality\
+**\>4-5L positive** requires intervention.
+* ICU patients tend to be euvolaemic by the time of admission
+
+* Balanced crystalloid is preferable except in:
+	* ↑ ICP\
+	Hypertonic sodium solutions preferable.
+	* Metformin-induced lactic acidosis
+	* Metabolic alkalosis
+
+
+## Practice
+
+* Appropriate de-resuscitation during the maintenance and recovery phase of critical illness
+* Minimise use of maintenance fluids
+* Appropriate management of **hypernatraemia**
+
+
+Diuresis:
+
+* Furosemide is the diuretic of choice for volume control
+* However, further issues may arise that require intervention:
+	* **Hypernatraemia**
+		* Furosemide produces**dilute** urine\
+		More water is eliminated relative to sodium (it's dilute), resulting in concentration of ECF contents and ↑ Na^+^.
+		* Correction of hypernatraemia classically requires administration of free water, which is inefficient
+		* Consider a **thiazide** to ↑ renal sodium elimination
+	* **Metabolic alkalosis**
+		* Contraction alkalosis due to volume depletion\
+		↑ Renal resorption of Cl^-^ and HCO~3~^-^
+		* Consider **acetazolamide** 250-500mg IV BD
+	* Hypomagnesaemia/Hypokalaemia\
+	Often require repletion.
+
+:::column-margin
+In the outpatient population, frusemide diuresis often leads to *hypo*natraemia - patients are thirsty from diuresis and drink large volumes of free water, thereby diluting their ECF.
+:::
+
+Electrolytes:
+
+* Hypernatraemia
+	* Treat with free water or IV dextrose
+
+
+## Key Studies
+
+---
+
+## References
