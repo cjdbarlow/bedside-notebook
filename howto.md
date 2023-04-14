@@ -26,3 +26,5 @@ quarto::quarto_preview
 	* Move system-specific infections to that system
 	* New infective subgroups
 		* ?where would TB meningitis go; under TB, separate neuro infection, under meningitis...
+
+* Dissolve ICU 'concepts' into a more appropriate category (or at least some of)
