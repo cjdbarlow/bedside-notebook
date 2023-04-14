@@ -1421,6 +1421,111 @@
     "text": "References"
   },
   {
+    "objectID": "management/cvs/vad_overview.html#equipment",
+    "href": "management/cvs/vad_overview.html#equipment",
+    "title": "Overview",
+    "section": "Equipment",
+    "text": "Equipment\nA VAD consists of a:\n\nInflow cannula\nOutflow cannula\nExternally-controlled pump"
+  },
+  {
+    "objectID": "management/cvs/vad_overview.html#technique",
+    "href": "management/cvs/vad_overview.html#technique",
+    "title": "Overview",
+    "section": "Technique",
+    "text": "Technique\n\nPreload dependent\nAfterload sensitive"
+  },
+  {
+    "objectID": "management/cvs/vad_overview.html#complications",
+    "href": "management/cvs/vad_overview.html#complications",
+    "title": "Overview",
+    "section": "Complications",
+    "text": "Complications"
+  },
+  {
+    "objectID": "management/cvs/vad_overview.html#references",
+    "href": "management/cvs/vad_overview.html#references",
+    "title": "Overview",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "management/cvs/lvad.html#pathophysiology",
+    "href": "management/cvs/lvad.html#pathophysiology",
+    "title": "Left Ventricular Assist Device",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology"
+  },
+  {
+    "objectID": "management/cvs/lvad.html#parameters",
+    "href": "management/cvs/lvad.html#parameters",
+    "title": "Left Ventricular Assist Device",
+    "section": "Parameters",
+    "text": "Parameters\nKey LVAD parameters include:\n\nSpeed\nPump speed in RPM. The speed is:\n\nThe only value that is set\nGenerally, ↑ pump speed should ↑ flow\n\nPower\nMeasure of pump work.\n\n↑ Power occurs with:\n\n↑ Pump speed\n↑ Pump flow\nThis can occur independent of speed with pathology, e.g. AR or ↓ SVR states.\nRotor thrombosis\n\n↓ Power occurs with:\n\n↓ Pump speed\n↓ Pump flow\nObstruction\nInflow cannula obstruction.\n\n\nFlow\nLVAD flow is a measure of LVAD output, and is estimated based on:\n\nSpeed\nRPM\nHaematocrit\n\nPulsatility Index\nMeasure of the variation in flow. The PI is:\n\nCalculated as:\n\\(PI = {Flow_{Max} - Flow_{Min} \\over Flow_{Mean}}\\)\nA marker of native cardiac function\nAssessed over 15s\nUsed to determine PI Events\n\n\nPeriod where PI is >45%\nResults in a transient ↓ LVAD speed\nMay trigger a suction event\n\n\n\n\n\nNormal ranges for LVAD parameters vary depending on the model.\n\nFor the HeartMate 3:\n\nSpeed: 4700-6500\nPower: 3-7\nFlow: 3-6L/min\nPI: 1-10"
+  },
+  {
+    "objectID": "management/cvs/lvad.html#assessment",
+    "href": "management/cvs/lvad.html#assessment",
+    "title": "Left Ventricular Assist Device",
+    "section": "Assessment",
+    "text": "Assessment\nVital signs:\n\nPalpable pulse may not be present due to low native CO\nNIBP similarly ineffective\nMAP can be calculated:\n\nVia invasive measurement\nVia pressure cuff with doppler\n\nInflate cuff above SBP\nDeflate cuff until doppler pulse returns\nThis pressure is the MAP\n\n\n\nLVAD assessment:\n\nDriveline intact\nDriveline connected to controller\nController not alarming\nLVAD connected to power source\nAuscultate for mechanical hum"
+  },
+  {
+    "objectID": "management/cvs/lvad.html#investigations",
+    "href": "management/cvs/lvad.html#investigations",
+    "title": "Left Ventricular Assist Device",
+    "section": "Investigations",
+    "text": "Investigations\nBedside:\nLaboratory:\nImaging:\nOther:"
+  },
+  {
+    "objectID": "management/cvs/lvad.html#management",
+    "href": "management/cvs/lvad.html#management",
+    "title": "Left Ventricular Assist Device",
+    "section": "Management",
+    "text": "Management\nResuscitation:\n\nABC approach. Comment on team coordination and clinical priorities. Specific therapy:\n\nPharmacological\nProcedural\nPhysical\n\nSupportive care:\nDisposition:\nPreventative:"
+  },
+  {
+    "objectID": "management/cvs/lvad.html#anaesthetic-considerations",
+    "href": "management/cvs/lvad.html#anaesthetic-considerations",
+    "title": "Left Ventricular Assist Device",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "management/cvs/lvad.html#complications",
+    "href": "management/cvs/lvad.html#complications",
+    "title": "Left Ventricular Assist Device",
+    "section": "Complications",
+    "text": "Complications\nInclude:\n\n\n\nChanges in LVAD Parameters by Condition\n\n\n\n\n\n\n\n\nCondition\nFlow\nPower\nPI\n\n\n\n\nInflow/Outflow Obstruction\n↓\n↓\n↓\n\n\nRotor Thrombus\nMachine: ↑ Reality: ↓\n↑↑\n\n\n\nHypovolaemia\n↓\n↓\n↑/↓\n\n\nHypervolaemia\n↑\n↑\n↑/↓\n\n\nHypertension\n↓\n↓\n↑\n\n\nRV Failure\n↓\n↓\n↑/↓\n\n\nSepsis\n↑\n↑\n↓\n\n\nAortic Regurgitation\n↑\n↑\n↓\n\n\nVentricular arrhythmia\n↓\n↓\n↓\n\n\n\n\nDirect\n\nSuction event\nPump thrombosis\n\nIndirect\n\n\nDirect\nSuction event:\n\nLV collapse due to either:\n\n↓ LV preload\nIntervention is very different depending on the cause, and usually needs echo guidance:\n\nTrue hypovolaemia\n\nBleeding\n\nRV failure\nTamponade\nArrhythmia\n\nExcessive LVAD speed\n\nLeads to:\n\n↓ LVAD output\n\nAlarms\n↓ LVAD CO and likely total CO\n\nHypotension\n\n\n\n\nPump thrombosis:\n\nConsider if clinically ↓ CO with ↑ power\nAssess for haemolysis:\n\n↑ LDH\n↓ Haptoglobin\n↑ Plasma Free haemoglobin\n\nUsually requires device exchange, though thrombolysis may be possible\n\nDevice failure:\n\nTreat as cardiogenic shock in a patient with terrible ventricular function\n\nAdrenaline\nNoradrenaline/dobutamine\n\nConsider VA ECMO\n\n\n\nIndirect\n\nC\n\nRV failure\nMajor complication of LVAD support.\n\n10-40% by 2 years\nMultifactorial\n\n↑ RV preload secondary to ↑ CO and ↑ VR\nAltered ventricular dynamics\nSeptal shift with LV unloading.\nPulmonary hypertension\nArrhythmias\n\n\nVentricular arrhythmias\n\nCan be surprisingly well-tolerated in short term\nRequire treatment due to:\n\nRV dysfunction\nLoss of native CO\n\nThrombosis risk\n\n\n\nAortic Regurgitation\n\nConsider if clinically ↓ CO despite ↑ flow\nResults in ineffective LVAD function with recirculation through device\n\nCardiogenic shock\nRV failure\n\n\n\nD\n\nStroke\n10% by 2 years.\n\nG\n\nGI bleeding\n\nMultiple risk factors\n\nTherapeutic anticoagulation\nAcquired von Willebrand syndrome\nGastrointestinal AVM formation\nAttributed to non-pulsatile flow."
+  },
+  {
+    "objectID": "management/cvs/lvad.html#prognosis",
+    "href": "management/cvs/lvad.html#prognosis",
+    "title": "Left Ventricular Assist Device",
+    "section": "Prognosis",
+    "text": "Prognosis"
+  },
+  {
+    "objectID": "management/cvs/lvad.html#key-studies",
+    "href": "management/cvs/lvad.html#key-studies",
+    "title": "Left Ventricular Assist Device",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "management/cvs/lvad.html#further-reading",
+    "href": "management/cvs/lvad.html#further-reading",
+    "title": "Left Ventricular Assist Device",
+    "section": "Further Reading",
+    "text": "Further Reading\n\nAn excellent discussion on management with an ED focus is at Emcrit"
+  },
+  {
+    "objectID": "management/cvs/lvad.html#references",
+    "href": "management/cvs/lvad.html#references",
+    "title": "Left Ventricular Assist Device",
+    "section": "References",
+    "text": "References"
+  },
+  {
     "objectID": "management/cvs/ino.html#indications",
     "href": "management/cvs/ino.html#indications",
     "title": "Nitric Oxide",
@@ -8295,155 +8400,281 @@
     "text": "Process\nOne approach:\n\nInduction:\n\n0.5-1mg/kg IV ketamine\nHigher if stimulating.\n\nHeavy ketamine use reduces risk of airway obstruction and apnoea\n\n0.05-0.1mg/kg IV oxycodone\n\nMaintenance\n\nPropofol TCI at 1-2ug/ml\nConsider additional 0.5mg/kg IV ketamine if the procedure is prolonged/stimulating\n\nEmergence\n\nConsider further 0.05mg/kg oxycodone for post-operative analgesia"
   },
   {
-    "objectID": "intensive/persistent.html#causes",
-    "href": "intensive/persistent.html#causes",
+    "objectID": "intensive/concepts/persistent.html#causes",
+    "href": "intensive/concepts/persistent.html#causes",
     "title": "Persistent Critical Illness",
     "section": "Causes",
     "text": "Causes\nSyndromes characteristic of the persistently critically ill include:\n\nB\n\nVentilator dependence\n\nC\n\nPersistent vasoactive requirement\n\nD\n\nDelirium\nPersistent vegetative state\nCritical Illness Neuropathy/Myopathy\n\nE\n\nMalnutrition\nEndocrinopathy\n\nI\n\nImmunosuppression\n\nOther\n\nWounds"
   },
   {
-    "objectID": "intensive/persistent.html#icu-effects",
-    "href": "intensive/persistent.html#icu-effects",
+    "objectID": "intensive/concepts/persistent.html#icu-effects",
+    "href": "intensive/concepts/persistent.html#icu-effects",
     "title": "Persistent Critical Illness",
     "section": "ICU Effects",
     "text": "ICU Effects\nIssues for the persistently ill in ICU include:\n\nA\n\nTrachestomy\n\nB\n\nRespiratory wean\n\nC\n\nVolume state\nAnasarca.\nArrhythmias\n\nD\n\nDelirium\nDepression\nRehabilitation\n\nE\n\nNutrition\n\nI\n\nInfections\n\nH\n\nAnaemia\nRepeated blood sampling.\n\nTrauma\n\nPressure areas"
   },
   {
-    "objectID": "intensive/persistent.html#post-icu-effects",
-    "href": "intensive/persistent.html#post-icu-effects",
+    "objectID": "intensive/concepts/persistent.html#post-icu-effects",
+    "href": "intensive/concepts/persistent.html#post-icu-effects",
     "title": "Persistent Critical Illness",
     "section": "Post-ICU Effects",
     "text": "Post-ICU Effects\n\nNeed to recognise these are complex patients with multiple issues and have a high readmission rate - ICU discharge should be a planned affair.\n\nCoordinating Discharge:\n\nClinician to clinician handover\nFollow-up by ICU outreach team\n\nOngoing issues:\n\nD\n\nWeakness\nPain\nPTSD\nCognitive dysfunction\n\nH\n\nDVT\n\nTrauma\n\nPressure areas"
   },
   {
-    "objectID": "intensive/persistent.html#references",
-    "href": "intensive/persistent.html#references",
+    "objectID": "intensive/concepts/persistent.html#references",
+    "href": "intensive/concepts/persistent.html#references",
     "title": "Persistent Critical Illness",
     "section": "References",
     "text": "References\n\nIwashyna, Theodore J, Carol L Hodgson, David Pilcher, Michael Bailey, Allison van Lint, Shaila Chavan, and Rinaldo Bellomo. “Timing of Onset and Burden of Persistent Critical Illness in Australia and New Zealand: A Retrospective, Population-Based, Observational Study.” The Lancet Respiratory Medicine 4, no. 7 (July 2016): 566–73. .\nIwashyna TJ, Hodgson CL, Pilcher D, Orford N, Santamaria JD, Bailey M, Bellomo R. Towards defining persistent critical illness and other varieties of chronic critical illness. Crit Care Resusc. 2015 Sep;17(3):215-8. PMID: 26282262."
   },
   {
-    "objectID": "intensive/design.html#design-considerations",
-    "href": "intensive/design.html#design-considerations",
+    "objectID": "intensive/concepts/design.html#design-considerations",
+    "href": "intensive/concepts/design.html#design-considerations",
     "title": "Design and Organisation",
     "section": "Design Considerations",
     "text": "Design Considerations\nLayout:\n\nRapid access to other key parts of the hospital\nAvenues for transport\nPublic reception\nStorage rooms\n\n10m2 per bed space\nNo further than 30m from patient area\n\nSluice rooms\nFamily meeting rooms\nFamily support areas/waiting rooms\n10m2 per 8 beds.\n\nTea/coffee\nToilets\n\n\nPatient rooms:\n\nShould have three areas\n\nPatient zone\nFamily zone\nCaregiver zone\n\nMinimum 20m2\nLarger for single rooms.\nAdequate service outlets\nFor a level III ICU:\n\n4 O2\n3 air\n3 suction\n16-20 power\n4 data\nLighting\n\nNatural light\nNoise dampening design\n\nBaffles\n\nOrientation aids\nIsolation rooms\nAdditional requirements:\n\nAir quality\n\nHEPA filters in isolation rooms\n15 air changes per hour\n\n25m2"
   },
   {
-    "objectID": "intensive/design.html#policy",
-    "href": "intensive/design.html#policy",
+    "objectID": "intensive/concepts/design.html#policy",
+    "href": "intensive/concepts/design.html#policy",
     "title": "Design and Organisation",
     "section": "Policy",
     "text": "Policy\nKey elements:\n\nFire and evacuation plan\nSensible rostering\nAdequate supervision for junior staff\nClosed intensive care\nAdmission, discharge, management, and referral policies are under the control of the intensivist (rather than other unit clinicians having admitting rights). Associated with ↓ mortality.\n\n\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
   },
   {
-    "objectID": "intensive/fasthugs.html#dvt-prophylaxis",
-    "href": "intensive/fasthugs.html#dvt-prophylaxis",
-    "title": "Supportive Care",
-    "section": "DVT Prophylaxis",
-    "text": "DVT Prophylaxis\nPreventative methods include:\n\nPharmacological\nMechanical\n\nIntermittent pneumatic calf compression\nMay reduce incidence by up to 60% in operative patients.\n\nTreatment of choice where bleeding risk is high\n\nIVC filters\n\nNo evidence for mortality reduction\n↑ risk of DVT\nShould be retrieved when no longer required, so retreivable designs should be used.\nReasonable to use in patients with:\n\nHigh VTE risk and contraindications to anticoagulation\nRecurrent PE despite therapeutic anticoagulation"
-  },
-  {
-    "objectID": "intensive/fasthugs.html#ulcer-prophylaxis",
-    "href": "intensive/fasthugs.html#ulcer-prophylaxis",
-    "title": "Supportive Care",
-    "section": "Ulcer Prophylaxis",
-    "text": "Ulcer Prophylaxis\nPhysiological stress-related mucosal bleeding occurs in 8-45% of patients. Ulcer prophylaxis:\n\nAims to increase gastric pH to decrease ulceration\nDecreases Mucosal bleeding rate but not mortality\nMay increase risk of:\n\nHAP/VAP\nVia gastric bacterial overgrowth and microaspiration.\n\n\nOverall, treatment should probably reserfved for at-risk patients.\nOptions for management include:\n\nPPI\nH2-receptor antagonsits"
-  },
-  {
-    "objectID": "intensive/fasthugs.html#references",
-    "href": "intensive/fasthugs.html#references",
-    "title": "Supportive Care",
-    "section": "References",
-    "text": "References"
-  },
-  {
-    "objectID": "intensive/nutrition.html#nutrition-assessment",
-    "href": "intensive/nutrition.html#nutrition-assessment",
-    "title": "Critical Care Nutrition",
-    "section": "Nutrition Assessment",
-    "text": "Nutrition Assessment\nA subjective global nutrition assessment includes:\n\nPremorbid weight and loss\nPremorbid nutrition\nMuscle mass\nDisease affecting GI function\n\nFood intolerances\nGI symptoms\nStomas\nLiver disease\nAscites.\n\nDisease affecting metabolic rate\n\nHypothyroidism\nHyperthyroidism\nHypoadrenalism\nCushing disease\n\n\nDetermining nutrition requirements:\n\n\nThe Reverse Fick Method:\n\\[VO_2 = (CO \\times C_a) - (CO \\times C_v)\\]\nWhere:\n\nVO2: Oxygen consumption (mL/min)\nCO: Cardiac Output (L/min)\nCa: Arterial Oxygen Content (mL/L)\nCv: Venous Oxygen Content (mL/L)\n\n\nCalorie\nCan be provided as either carbohydrate (functionally dextrose) or lipid, ideally in a 70:30 ratio. Approaches to assessing need include:\n\nAssume 25-30kCal/kg/day\n\n\nEasy\nCrude\nInaccurate at extremes of weight and metabolic need\n\nReverse Fick Equation\nMetabolic rate is proportional to VO2, which can be calculated using data from a PAC.\n\nDoes not measure pulmonary VO2, and so underestimates total requirements\nBecomes more inaccurate in pulmonary pathology.\n\nIndirect calorimetry\nDirect measurement of VO2 and VCO2.\n\nMost accurate (practical) technique\n\n\nAssumes all O2 is used for oxidation of substrate\nAccuracy falls with ↑ PEEP, ↑ FiO2, and with circuit leaks\n\nBest in selected use cases\nExtremes of obesity, temperature, estimated metabolic rate.\nRequires a metabolic cart that is rarely available and requires additional eperteise\n\nEstimate expenditure\nPoint estimate of VCO2 from ventilator.\n\nAffected by changes to respiratory quotient in the critically ill\n\nPredictive equations\nMany (i.e., >200) equations exist to evaluate different patient populations, basically all are poorly calibrated.\n\nProtein\n\n\nAssume 1-2g/kg/day\nMore than this has no benefit and ↑ nitrogen load, leading to encephalopathy via accumulation of:\n\nUrea\nWith a normally-functioning urea cycle.\nAmmonia\nDysfunctional urea cycle.\n\nHigher range recommended in protein deficient conditions:\n\nBurns\nObesity\nTrauma\nRRT"
-  },
-  {
-    "objectID": "intensive/nutrition.html#enteral-nutrition",
-    "href": "intensive/nutrition.html#enteral-nutrition",
-    "title": "Critical Care Nutrition",
-    "section": "Enteral Nutrition",
-    "text": "Enteral Nutrition\n\n\nUse of gastric residual volumes (like most of ICU nutrition) to determine EN tolerance is not well supported by evidence. Measured GRVs vary depending on the type of NGT used, and is a poor predictor of aspiration.\nLiquid nutrition delivered directly into the digestive tract. Administration of EN is:\n\nAssociated with no overall change in mortality\nBenefits\n\nOverall ↓ infection\nIncluding pneumonia.\nPossibly ↑ immune function\n\nRisks include:\n\nSinusitis\nFrom NGT.\nVAP\nMicroaspiration.\nGI injury\nFeed intolerance\n\nEither continuous or intermittent bolus dosing\n\n\nNo difference in mortality outcomes\nContinuous feeding reduces nursing workload\nIntermittent feeding may:\n\nBe more physiological\n↓ Insulin requirement by ↓ insulin resistance\n↑ Muscle synthesis\n\n\n\n\nGastric Residual Volumes\nThe GRV is the volume aspirated from the stomach during enteral feeding. Using the GRV to guide feeding:\n\n\nThe GRV is only useful with wide-bore NGTs, not fine-bore or jejunal tubes as these cannot be aspirated.\n\nIs not well supported by evidence\n\nOften delays feeding and total feeding volume\nPoorly predicts aspiration\nProne to inter-observer variance\n\n<500mL is a safe volume, supportive of normal GIT function\n>500mL suggest delayed gastric emptying\nOriginally used to identify aspiration risk\nNow used to identify feeding intolerance\n\n\n\nEquipment\n\nWide-bore NGT\nPreferentially placed orogastrically in the intubated patient.\nFine-bore NGT\n\n\nCannot be used for suctioning\nMay be blocked\nBetter tolerated in the awake patient\nComfort, improved swallow.\nAspiration risk\nMultiple reports of inadvertent tracheal placement.\n\nPost-pyloric feeding\n\n\nIndicated in small subsets\nDifficult to place\nMay require endoscopy.\n\n\n\n\nFormulations\n\nDifferent feed preparations vary the concentration of:\n\nCalories\n\nFat\nCarbohydrate\n↓ Glucose content may ↓ insulin resistance\n\nProtein\nOsmolality\n↑ Diarrhoea with ↑ osmolality. Consider switching to a lower concentration feed if the volume state permits.\n\nPractically, there is little evidence of benefit with disease-specific combinations"
-  },
-  {
-    "objectID": "intensive/nutrition.html#parenteral-nutrition",
-    "href": "intensive/nutrition.html#parenteral-nutrition",
-    "title": "Critical Care Nutrition",
-    "section": "Parenteral Nutrition",
-    "text": "Parenteral Nutrition\nNutrition given intravenously. PN is used when EN is either contraindicated or has failed, as it is inferior to EN. Key differences include:\n\n\nTotal Parenteral Nutrition refers to the entirety of a patients nutritional needs being met with TPN, as opposed to top-up PN when EN alone is ineffective.\n\nRequires central venous access\n\n↑ Risk of CLABSI\nPN as an independent risk factor for infection is probably overstated.\n\n↑ Volume load\n1-2L/day.\nElectrolyte derangements\n\nMetabolic Acidosis\nAmino acids.\nRisk of refeeding syndrome\n\nLipid load\n\n\nHypertriclyceridaemia\nImmunosuppression\n\n↑ BSL\n↓ Intestinal function\nMonitor LFTs for:\n\nCholestasis\nAcalculous cholecystitis\n\nMore expensive"
-  },
-  {
-    "objectID": "intensive/nutrition.html#an-approach",
-    "href": "intensive/nutrition.html#an-approach",
-    "title": "Critical Care Nutrition",
-    "section": "An Approach",
-    "text": "An Approach\n\nThere is a paucity of strong evidence to guide decision making for nutrition within the ICU. This is one framework.\n\nPrinciples:\n\nEarly (<48 hours) enteral nutrition\nEarly dietician involvement\n\n\nAssessment\n\n\nPathology severe enough to contraindicate EN could include:\n\nObstruction\nPerforation\nMesenteric ischaemia\nShort gut syndrome\nAbdominal compartment syndrome\n\n\nAssess nutritional status\nAssess GIT function\nContraindications to EN:\n\nSevere GIT pathology\nActive shock state\nUndergoing resuscitation\n\nDetermine targets\n\nCalorie target\nAssume 25kCal/kg/day.\nProtein target\nAs above.\n\n\n\n\nAlbumin is not a reliable marker of nutritional status because it is a negative acute phase reactant, and so production is suppressed in the critically ill.\n\n\nOverview\n\nThe primary controversy here is whether PN should be started early (i.e. at 2-7 days), particularly in the critically ill.\n\n\n\nConsider EN insufficient if unable to meet >60% of calorie and protein requirements.\n\nEarly Acute Phase (<2 days)\n\nEnergy: Strongly consider commencing EN at 30mL/hr and ↑ until at 70% of target\n\n\nNo PN if EN target not met.\nMonitor for refeeding syndrome in the severely malnourished\n\nProtein: No target\n\nLate Acute Phase (2-7 days)\n\nEnergy: EN at up to 100% of target\nConsider PN if EN insufficient, particularly in the severely malnourished.\nProtein: 1.3g/kg/day\nMore if indicated.\n\nLate phase (>7 days)\n\nEnergy: EN at up to 100% of target\nPN if EN insufficient.\nProtein: >1.3g/kg/day\n\n\n\n\nEnteral Nutrition\nApproach:\n\n\nCauses of feed intolerance:\n\nPatient:\n\nHiatus hernia\nGastroparesis\n\nOpioids\nAnticholinergics\n\nBowel injury\n\nIleus\nObstruction\n\nSepsis\nElectrolyte abnormalities\n↓ K+, ↑ Mg2+.\n\nDelivery:\n\nNGT blocked/kinked\nNGT malpositioned\n\n\n\nCommence feeding at desired rate\nMeasure GRV PRN\nOnly if vomiting or gastric distension.\n\nReturn volumes <500mL\n\nAfter 1st GRV >500mL:\nAn isolated high GRV is common.\n\nReturn up to 500mL of aspirate\nConsider prokinetics\nNo good evidence of benefit. If used, consider ceasing after 24-72 hours due to risks of tachyphylaxis.\n\nAfter 2nd GRV >500mL:\nEN intolerance indicated by ⩾2 consecutive GRVs >500mL.\n\nReturn up to 500mL of aspirate\nHalve EN delivery rate for 6/24\nRepeat GRV in 6/24\n\nAfter 3rd GRV >500mL:\n\nCease EN\nConsider post-pyloric (nasojejunal) feeding\nConsider PN\n\n\nAvoid interruptions\nAvoid interrupting feeding when possible (e.g., for procedures where the airway is already secured).\n\nProkinetics:\n\n\n\n\n\n\n\n\nDrug\nDose\nNotes\n\n\n\n\nMetoclopramide\n10mg Q6H IV\n\nDysrhythmias\nDystonia\n\n\n\nErythromycin\n200mg Q12H IV\n\nProlonged QT\nHepatic dysfunction\nC. Difficile\n\n\n\nMethylnaltrexone\n8-12mg Q24H SC\n\nOnly useful in opioid-induced paresis\n↓ Dose in renal failure\nGreater effect on lower GIT\n\n\n\nNeostigmine\n2.5mg Q6H SC\n\nBradycardia (↑ risk if IV)\nGI perforation (if true obstruction)\nGreater effect on lower GIT\n\n\n\n\n\n\nParental Nutrition\nApproach:\n\nCommence PN at 80% of target if EN contraindicated or insufficient after 7 days\nIf EN insufficient, make up remainder of requirement with PN.\nUse a dedicated CVC lumen\nEnsure adequate supplementation of trace elements, vitamins, and micronutrients\nReassess enteral feeding Q12H\n\n\n\nLambell, Kate J., Oana A. Tatucu-Babet, Lee-anne Chapple, Dashiell Gantner, and Emma J. Ridley. Nutrition Therapy in Critical Illness: A Review of the Literature for Clinicians. Critical Care 24, no. 1 (4 February 2020): 35. https://doi.org/10.1186/s13054-020-2739-4."
-  },
-  {
-    "objectID": "intensive/physio.html#references",
-    "href": "intensive/physio.html#references",
-    "title": "Physiotherapy",
-    "section": "References",
-    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
-  },
-  {
-    "objectID": "intensive/organ.html#principles",
-    "href": "intensive/organ.html#principles",
+    "objectID": "intensive/concepts/organ.html#principles",
+    "href": "intensive/concepts/organ.html#principles",
     "title": "Organ Donation",
     "section": "Principles",
     "text": "Principles\nOrgan donation:\n\nShould not be raised prior to family understanding of death or impending death\nShould not be raised prior to medical consensus for end-of-life care\nShould be discussed with donation staff, prior to discussion with family\nShould be discussed with all families where it is a possibility\n\nAny information contained on the organ donor register should also be communicated to family"
   },
   {
-    "objectID": "intensive/organ.html#suitability",
-    "href": "intensive/organ.html#suitability",
+    "objectID": "intensive/concepts/organ.html#suitability",
+    "href": "intensive/concepts/organ.html#suitability",
     "title": "Organ Donation",
     "section": "Suitability",
     "text": "Suitability\n\nAll patients near to the end of life should be referred for consideration of organ donation.\n\nSuitability for organ donation is:\n\nHighly dynamic\nVaries with recipient/waiting list requirements.\nWithout fixed criteria\nDiseases commonly (but not exclusively) considered contraindications include:\n\nMalignancy\nActive infection\n\nMeningococcal\nHepatitis\nHIV"
   },
   {
-    "objectID": "intensive/organ.html#death",
-    "href": "intensive/organ.html#death",
+    "objectID": "intensive/concepts/organ.html#death",
+    "href": "intensive/concepts/organ.html#death",
     "title": "Organ Donation",
     "section": "Death",
     "text": "Death\nDonation can occur after:\n\nBrain death\nForms 75-90% of total donors, and considered in patients proceeding towards brain death.\nCirculatory death\nConsidered in ventilated patients in whom life-sustaining treatment is to be withdrawn, and death is likely to occur in a period that permits organ retrieval for transplantation.\n\nThe decision for DCD should:\n\nOnly be considered after consensus reached that active treatment is no longer in the patients interest\nNot include any member of the donation, transplant, or retrieval teams\nNot influence the administration of sedatives or analgesics\nBe raised with a family when:\n\nEnd of life care is proceeding\nThe family are in favour of organ donation\nThe patient is likely to become brain dead, but has not yet done so\n\n\nLeads to warm ischaemic time\nPeriod during which the organs are still warm, but hypoperfused following circulatory death. Warm ischaemic time is:\n\nThe time from circulatory arrest to the time of perfusion with cold preservation solution during retrieval\nRelated to the agonal time\nTime from cessation of cardiorespiratory support until circulatory arrest. An agonal time >90 minutes usually precludes donation, and occurs in ~30% of patients.\nRelated to the functional warm ischaemic time\nTime from SBP <50mmHg to the time of cold perfusion.\nAssociated with ↑ complications and ↓ graft function:\n\nDelayed graft function\nPrimary graft dysfunction\nOrgan-specific ischaemia\n\nBiliary strictures\n\n\n\n\n\n\n\nAcceptable warm ischaemic times vary depending on the organ:\n\nLiver, pancreas: <30 minutes warm ischaemic time\nHeart: <30 minutes from SBP <90 mmHg to cold perfusion\nKidneys: <60 minutes functional warm ischaemic time\nLungs: <90 minute functional warm ischaemic time\n\n\nOutcomes\n\nComparison of Recipient Outcomes after Donation\n\n\n\n\n\n\n\nOrgan\nBrain Death\nCirculatory Death\n\n\n\n\nLung\n\n97% 1-year survival\n90% 5-year survival\n\n\n97% 1-year survival\n90% 5-year survival\n\n\n\nHeart\n\n\n\n\nLiver\n\nBetter than DCD\n\n\n75% 5-year survival\n\n\n\nPancreas\n\n\n83% 1-year survival\n72% 5-year survival\n\n\n\nKidney\n\n~86% 5-year survival\n\n\n~86% 5-year survival\n↑ Delayed graft function\n\n\n\n\n\n\nAntemortem Intervention\nInterventions to ↑ organ viability are appropriate if:\n\nThe patient wanted to be an organ donor\nThe family has made an informed decision, and consent obtained\nThe interventions do not shorten life or compromise care\nMeasures are taken to prevent pain or discomfort\n\n\n\nProcess\n\nRoutine referral of all patients who are likely to die for suitability of organ donation\nThis includes checking the organ donation register to ascertain the patients wishes.\nDiscussion with the family (and rarely, patient, if competent) that the patient is likely to die\n\nIn DBD, this may be raising the chance of brain death having occurred and the need to perform further testing to confirm this\nIn DCD, this may include discussion of futility of continuing treatment\nThe organ donation nurse should be invited to attend this meeting\n\nThis allows them to get to know and build rapport with the family\nThey are best introduced as a “specialist nurse” rather than an organ donation specialist if organ donation has not yet been raised\n\n\nDetermination of suitability of organ donation\nBy the intensivist and donation team.\nDiscussion with the family about organ donation\nA separate conversation from the end of life conversation, which includes:\n\nDonation process\nFormal consent\nIf relevant, discussing:\n\nCoronial consent\nDCD\n\nRisk of a failed donation if agonal time exceeded\nDetermination of death\n\nDBD\n\nThe patient looks the same afterwards\nWarm, “breathing”.\n\n\n\nDonor assessment\n\nBlood\nTissue typing\nOther tests as suitable\n\nRetrieval and transplant team meeting\n\n\nBrief discussion of the relevant details of the donors\nDiscussion of the recipients\nLogistical plan\n\nFor DCD, the withdrawal of cardiorespiratory support\n\nNegotiation of time and place\nMay occur:\n\nIn ICU:\n\nFamily can be with the patient at time of death\nPatient does not have to be moved if agonal time exceeded\nRapid transfer to the OR is required following death\nMay introduce delays that limit organ donation.\n\nIn OR:\n\nLimit family presence\n↑ Speed of retrieval\n\nNear the OR\nHybrid approach of the above.\n\nAppropriate prevision of sedation and analgesia\nShould be given by the intensivist, and not by the anaesthetist or transplant team.\nThe surgical team should not be present in the ICU\n\nOrgan retrieval\nTransfer of the donor to the mortuary\nThe donor will “look dead: afterwards; donors generally look the same on transfer to the OR.\nTransfer of organs to the transplant centre\nImplantation"
   },
   {
-    "objectID": "intensive/organ.html#references",
-    "href": "intensive/organ.html#references",
+    "objectID": "intensive/concepts/organ.html#references",
+    "href": "intensive/concepts/organ.html#references",
     "title": "Organ Donation",
     "section": "References",
     "text": "References\n\nANZICS. The Statement on Death and Organ Donation. Edition 4.1. 2021."
   },
   {
-    "objectID": "intensive/post_cardiac.html#initial-evaluation",
-    "href": "intensive/post_cardiac.html#initial-evaluation",
+    "objectID": "intensive/supportive/fasthugs.html#references",
+    "href": "intensive/supportive/fasthugs.html#references",
+    "title": "Overview",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "intensive/supportive/fluids.html#principles",
+    "href": "intensive/supportive/fluids.html#principles",
+    "title": "Fluids",
+    "section": "Principles",
+    "text": "Principles\n\nCritically unwell patients tend to:\n\nReceive large volumes of fluid\nRetain large volumes of fluid\n\nPositive fluid balance correlates with mortality\n>4-5L positive requires intervention.\nICU patients tend to be euvolaemic by the time of admission\nBalanced crystalloid is preferable except in:\n\n↑ ICP\nHypertonic sodium solutions preferable.\nMetformin-induced lactic acidosis\nMetabolic alkalosis"
+  },
+  {
+    "objectID": "intensive/supportive/fluids.html#practice",
+    "href": "intensive/supportive/fluids.html#practice",
+    "title": "Fluids",
+    "section": "Practice",
+    "text": "Practice\n\nAppropriate de-resuscitation during the maintenance and recovery phase of critical illness\nMinimise use of maintenance fluids\nAppropriate management of hypernatraemia\n\nDiuresis:\n\nFurosemide is the diuretic of choice for volume control\nHowever, further issues may arise that require intervention:\n\nHypernatraemia\n\nFurosemide producesdilute urine\nMore water is eliminated relative to sodium (it’s dilute), resulting in concentration of ECF contents and ↑ Na+.\nCorrection of hypernatraemia classically requires administration of free water, which is inefficient\nConsider a thiazide to ↑ renal sodium elimination\n\nMetabolic alkalosis\n\nContraction alkalosis due to volume depletion\n↑ Renal resorption of Cl- and HCO3-\nConsider acetazolamide 250-500mg IV BD\n\nHypomagnesaemia/Hypokalaemia\nOften require repletion.\n\n\n\n\nIn the outpatient population, frusemide diuresis often leads to hyponatraemia - patients are thirsty from diuresis and drink large volumes of free water, thereby diluting their ECF.\nElectrolytes:\n\nHypernatraemia\n\nTreat with free water or IV dextrose"
+  },
+  {
+    "objectID": "intensive/supportive/fluids.html#key-studies",
+    "href": "intensive/supportive/fluids.html#key-studies",
+    "title": "Fluids",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "intensive/supportive/fluids.html#references",
+    "href": "intensive/supportive/fluids.html#references",
+    "title": "Fluids",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "intensive/supportive/icu_sedation.html#principles",
+    "href": "intensive/supportive/icu_sedation.html#principles",
+    "title": "Sedation",
+    "section": "Principles",
+    "text": "Principles"
+  },
+  {
+    "objectID": "intensive/supportive/icu_sedation.html#practice",
+    "href": "intensive/supportive/icu_sedation.html#practice",
+    "title": "Sedation",
+    "section": "Practice",
+    "text": "Practice\nThere is little evidence supporting any one therapy, however options include:\n\nPropofol\n0-300mg/hr.\n\nEasily titrated\nMay precipitate hypotension\nRisk of hypertriglyceridaemia and propofol infusion syndrome\nDose related.\n\nDexmedetomidine\n0-1.4μg/kg/min.\n\nConsider load of 1μg/kg over 10 minutes if required\nMinimal suppression of respiration\n\n\nBenzodiazepines"
+  },
+  {
+    "objectID": "intensive/supportive/icu_sedation.html#key-studies",
+    "href": "intensive/supportive/icu_sedation.html#key-studies",
+    "title": "Sedation",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "intensive/supportive/icu_sedation.html#references",
+    "href": "intensive/supportive/icu_sedation.html#references",
+    "title": "Sedation",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "intensive/supportive/thromboprophylaxis.html#principles",
+    "href": "intensive/supportive/thromboprophylaxis.html#principles",
+    "title": "Thromboprophylaxis",
+    "section": "Principles",
+    "text": "Principles"
+  },
+  {
+    "objectID": "intensive/supportive/thromboprophylaxis.html#practice",
+    "href": "intensive/supportive/thromboprophylaxis.html#practice",
+    "title": "Thromboprophylaxis",
+    "section": "Practice",
+    "text": "Practice\nApproach:\n\nPharmacological\n\nAll patients should receive chemoprophylaxis unless there is a particular contraindication:\n\nActive haemorrhage\nThrombocytopenia\n\nGenerally ⩽50\n⩽100 in some cases\nCardiothoracic, neurosurgery.\n\nPlanned procedure requiring thromboprophylaxis interruption\n\nGFR >30mL/min\nUse enoxaparin:\n\n⩽50kg: 20mg SC daily\n50-120kg: 40mg SC daily\n\n120kg: 0.25mg/kg SC Q12H\n\n\nGFR <30mL/min\nHeparin:\n\n⩽120kg: 5000 IU SC BD\n\n120kg: 5000 IU SC TDS\n\n\n\nMechanical\n\nIntermittent pneumatic calf compression\nMay reduce incidence by up to 60% in operative patients.\n\nTreatment of choice where bleeding risk is high\n\nIVC filters\n\nNo evidence for mortality reduction\n↑ risk of DVT\nShould be retrieved when no longer required, so retrievable designs should be used.\nReasonable to use in patients with:\n\nHigh VTE risk and contraindications to anticoagulation\nRecurrent PE despite therapeutic anticoagulation\n\n\n\n\n\n\nCompression stockings are not recommend as they:\n\nDo not ↓ DVT risk\n↑ Falls (slippery!) risk\n↑ Pressure areas\nCreate a lot of waste"
+  },
+  {
+    "objectID": "intensive/supportive/thromboprophylaxis.html#key-studies",
+    "href": "intensive/supportive/thromboprophylaxis.html#key-studies",
+    "title": "Thromboprophylaxis",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "intensive/supportive/thromboprophylaxis.html#references",
+    "href": "intensive/supportive/thromboprophylaxis.html#references",
+    "title": "Thromboprophylaxis",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "intensive/supportive/ulcer.html#principles",
+    "href": "intensive/supportive/ulcer.html#principles",
+    "title": "Ulcer Prophylaxis",
+    "section": "Principles",
+    "text": "Principles"
+  },
+  {
+    "objectID": "intensive/supportive/ulcer.html#practice",
+    "href": "intensive/supportive/ulcer.html#practice",
+    "title": "Ulcer Prophylaxis",
+    "section": "Practice",
+    "text": "Practice\nApproach:\n\nNon-pharmacological prophylaxis for all patients\n\nCease primary prevention aspirin\nAvoid NSAID\nEnteral nutrition\n\nPharmacological prophylaxis should be reserved for at-risk patients:\n\nRisk factors include:\n\nIntubated\nMultiple risk factors for ulceration\n\nShock\nPrevious GI bleed\nHigh-dose steroid\n\nOccult bleding\nCOVID\n\nConsider:\n\nPPI\nPO or NG preferred if available.\n\nOmeprazole 40mg PO/IV/NG\nPantoprazole 40mg PO/IV/NG daily\n\nH2 antagonist\nCompared with PPI:\n\n↓ Efficacy\n↑ Delirium\nCheaper"
+  },
+  {
+    "objectID": "intensive/supportive/ulcer.html#key-studies",
+    "href": "intensive/supportive/ulcer.html#key-studies",
+    "title": "Ulcer Prophylaxis",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "intensive/supportive/ulcer.html#references",
+    "href": "intensive/supportive/ulcer.html#references",
+    "title": "Ulcer Prophylaxis",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "intensive/supportive/glucose.html#principles",
+    "href": "intensive/supportive/glucose.html#principles",
+    "title": "Glucose Management",
+    "section": "Principles",
+    "text": "Principles"
+  },
+  {
+    "objectID": "intensive/supportive/glucose.html#practice",
+    "href": "intensive/supportive/glucose.html#practice",
+    "title": "Glucose Management",
+    "section": "Practice",
+    "text": "Practice"
+  },
+  {
+    "objectID": "intensive/supportive/glucose.html#key-studies",
+    "href": "intensive/supportive/glucose.html#key-studies",
+    "title": "Glucose Management",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "intensive/supportive/glucose.html#references",
+    "href": "intensive/supportive/glucose.html#references",
+    "title": "Glucose Management",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "intensive/supportive/nutrition.html#nutrition-assessment",
+    "href": "intensive/supportive/nutrition.html#nutrition-assessment",
+    "title": "Critical Care Nutrition",
+    "section": "Nutrition Assessment",
+    "text": "Nutrition Assessment\nA subjective global nutrition assessment includes:\n\nPremorbid weight and loss\nPremorbid nutrition\nMuscle mass\nDisease affecting GI function\n\nFood intolerances\nGI symptoms\nStomas\nLiver disease\nAscites.\n\nDisease affecting metabolic rate\n\nHypothyroidism\nHyperthyroidism\nHypoadrenalism\nCushing disease\n\n\nDetermining nutrition requirements:\n\n\nThe Reverse Fick Method:\n\\[VO_2 = (CO \\times C_a) - (CO \\times C_v)\\]\nWhere:\n\nVO2: Oxygen consumption (mL/min)\nCO: Cardiac Output (L/min)\nCa: Arterial Oxygen Content (mL/L)\nCv: Venous Oxygen Content (mL/L)\n\n\nCalorie\nCan be provided as either carbohydrate (functionally dextrose) or lipid, ideally in a 70:30 ratio. Approaches to assessing need include:\n\nAssume 25-30kCal/kg/day\n\n\nEasy\nCrude\nInaccurate at extremes of weight and metabolic need\n\nReverse Fick Equation\nMetabolic rate is proportional to VO2, which can be calculated using data from a PAC.\n\nDoes not measure pulmonary VO2, and so underestimates total requirements\nBecomes more inaccurate in pulmonary pathology.\n\nIndirect calorimetry\nDirect measurement of VO2 and VCO2.\n\nMost accurate (practical) technique\n\n\nAssumes all O2 is used for oxidation of substrate\nAccuracy falls with ↑ PEEP, ↑ FiO2, and with circuit leaks\n\nBest in selected use cases\nExtremes of obesity, temperature, estimated metabolic rate.\nRequires a metabolic cart that is rarely available and requires additional eperteise\n\nEstimate expenditure\nPoint estimate of VCO2 from ventilator.\n\nAffected by changes to respiratory quotient in the critically ill\n\nPredictive equations\nMany (i.e., >200) equations exist to evaluate different patient populations, basically all are poorly calibrated.\n\nProtein\n\n\nAssume 1-2g/kg/day\nMore than this has no benefit and ↑ nitrogen load, leading to encephalopathy via accumulation of:\n\nUrea\nWith a normally-functioning urea cycle.\nAmmonia\nDysfunctional urea cycle.\n\nHigher range recommended in protein deficient conditions:\n\nBurns\nObesity\nTrauma\nRRT"
+  },
+  {
+    "objectID": "intensive/supportive/nutrition.html#enteral-nutrition",
+    "href": "intensive/supportive/nutrition.html#enteral-nutrition",
+    "title": "Critical Care Nutrition",
+    "section": "Enteral Nutrition",
+    "text": "Enteral Nutrition\n\n\nUse of gastric residual volumes (like most of ICU nutrition) to determine EN tolerance is not well supported by evidence. Measured GRVs vary depending on the type of NGT used, and is a poor predictor of aspiration.\nLiquid nutrition delivered directly into the digestive tract. Administration of EN is:\n\nAssociated with no overall change in mortality\nBenefits\n\nOverall ↓ infection\nIncluding pneumonia.\nPossibly ↑ immune function\n\nRisks include:\n\nSinusitis\nFrom NGT.\nVAP\nMicroaspiration.\nGI injury\nFeed intolerance\n\nEither continuous or intermittent bolus dosing\n\n\nNo difference in mortality outcomes\nContinuous feeding reduces nursing workload\nIntermittent feeding may:\n\nBe more physiological\n↓ Insulin requirement by ↓ insulin resistance\n↑ Muscle synthesis\n\n\n\n\nGastric Residual Volumes\nThe GRV is the volume aspirated from the stomach during enteral feeding. Using the GRV to guide feeding:\n\n\nThe GRV is only useful with wide-bore NGTs, not fine-bore or jejunal tubes as these cannot be aspirated.\n\nIs not well supported by evidence\n\nOften delays feeding and total feeding volume\nPoorly predicts aspiration\nProne to inter-observer variance\n\n<500mL is a safe volume, supportive of normal GIT function\n>500mL suggest delayed gastric emptying\nOriginally used to identify aspiration risk\nNow used to identify feeding intolerance\n\n\n\nEquipment\n\nWide-bore NGT\nPreferentially placed orogastrically in the intubated patient.\nFine-bore NGT\n\n\nCannot be used for suctioning\nMay be blocked\nBetter tolerated in the awake patient\nComfort, improved swallow.\nAspiration risk\nMultiple reports of inadvertent tracheal placement.\n\nPost-pyloric feeding\n\n\nIndicated in small subsets\nDifficult to place\nMay require endoscopy.\n\n\n\n\nFormulations\n\nDifferent feed preparations vary the concentration of:\n\nCalories\n\nFat\nCarbohydrate\n↓ Glucose content may ↓ insulin resistance\n\nProtein\nOsmolality\n↑ Diarrhoea with ↑ osmolality. Consider switching to a lower concentration feed if the volume state permits.\n\nPractically, there is little evidence of benefit with disease-specific combinations"
+  },
+  {
+    "objectID": "intensive/supportive/nutrition.html#parenteral-nutrition",
+    "href": "intensive/supportive/nutrition.html#parenteral-nutrition",
+    "title": "Critical Care Nutrition",
+    "section": "Parenteral Nutrition",
+    "text": "Parenteral Nutrition\nNutrition given intravenously. PN is used when EN is either contraindicated or has failed, as it is inferior to EN. Key differences include:\n\n\nTotal Parenteral Nutrition refers to the entirety of a patients nutritional needs being met with TPN, as opposed to top-up PN when EN alone is ineffective.\n\nRequires central venous access\n\n↑ Risk of CLABSI\nPN as an independent risk factor for infection is probably overstated.\n\n↑ Volume load\n1-2L/day.\nElectrolyte derangements\n\nMetabolic Acidosis\nAmino acids.\nRisk of refeeding syndrome\n\nLipid load\n\n\nHypertriclyceridaemia\nImmunosuppression\n\n↑ BSL\n↓ Intestinal function\nMonitor LFTs for:\n\nCholestasis\nAcalculous cholecystitis\n\nMore expensive"
+  },
+  {
+    "objectID": "intensive/supportive/nutrition.html#an-approach",
+    "href": "intensive/supportive/nutrition.html#an-approach",
+    "title": "Critical Care Nutrition",
+    "section": "An Approach",
+    "text": "An Approach\n\nThere is a paucity of strong evidence to guide decision making for nutrition within the ICU. This is one framework.\n\nPrinciples:\n\nEarly (<48 hours) enteral nutrition\nEarly dietician involvement\n\n\nAssessment\n\n\nPathology severe enough to contraindicate EN could include:\n\nObstruction\nPerforation\nMesenteric ischaemia\nShort gut syndrome\nAbdominal compartment syndrome\n\n\nAssess nutritional status\nAssess GIT function\nContraindications to EN:\n\nSevere GIT pathology\nActive shock state\nUndergoing resuscitation\n\nDetermine targets\n\nCalorie target\nAssume 25kCal/kg/day.\nProtein target\nAs above.\n\n\n\n\nAlbumin is not a reliable marker of nutritional status because it is a negative acute phase reactant, and so production is suppressed in the critically ill.\n\n\nOverview\n\nThe primary controversy here is whether PN should be started early (i.e. at 2-7 days), particularly in the critically ill.\n\n\n\nConsider EN insufficient if unable to meet >60% of calorie and protein requirements.\n\nEarly Acute Phase (<2 days)\n\nEnergy: Strongly consider commencing EN at 30mL/hr and ↑ until at 70% of target\n\n\nNo PN if EN target not met.\nMonitor for refeeding syndrome in the severely malnourished\n\nProtein: No target\n\nLate Acute Phase (2-7 days)\n\nEnergy: EN at up to 100% of target\nConsider PN if EN insufficient, particularly in the severely malnourished.\nProtein: 1.3g/kg/day\nMore if indicated.\n\nLate phase (>7 days)\n\nEnergy: EN at up to 100% of target\nPN if EN insufficient.\nProtein: >1.3g/kg/day\n\n\n\n\nEnteral Nutrition\nApproach:\n\n\nCauses of feed intolerance:\n\nPatient:\n\nHiatus hernia\nGastroparesis\n\nOpioids\nAnticholinergics\n\nBowel injury\n\nIleus\nObstruction\n\nSepsis\nElectrolyte abnormalities\n↓ K+, ↑ Mg2+.\n\nDelivery:\n\nNGT blocked/kinked\nNGT malpositioned\n\n\n\nCommence feeding at desired rate\nMeasure GRV PRN\nOnly if vomiting or gastric distension.\n\nReturn volumes <500mL\n\nAfter 1st GRV >500mL:\nAn isolated high GRV is common.\n\nReturn up to 500mL of aspirate\nConsider prokinetics\nNo good evidence of benefit. If used, consider ceasing after 24-72 hours due to risks of tachyphylaxis.\n\nAfter 2nd GRV >500mL:\nEN intolerance indicated by ⩾2 consecutive GRVs >500mL.\n\nReturn up to 500mL of aspirate\nHalve EN delivery rate for 6/24\nRepeat GRV in 6/24\n\nAfter 3rd GRV >500mL:\n\nCease EN\nConsider post-pyloric (nasojejunal) feeding\nConsider PN\n\n\nAvoid interruptions\nAvoid interrupting feeding when possible (e.g., for procedures where the airway is already secured).\n\nProkinetics:\n\n\n\n\n\n\n\n\nDrug\nDose\nNotes\n\n\n\n\nMetoclopramide\n10mg Q6H IV\n\nDysrhythmias\nDystonia\n\n\n\nErythromycin\n200mg Q12H IV\n\nProlonged QT\nHepatic dysfunction\nC. Difficile\n\n\n\nMethylnaltrexone\n8-12mg Q24H SC\n\nOnly useful in opioid-induced paresis\n↓ Dose in renal failure\nGreater effect on lower GIT\n\n\n\nNeostigmine\n2.5mg Q6H SC\n\nBradycardia (↑ risk if IV)\nGI perforation (if true obstruction)\nGreater effect on lower GIT\n\n\n\n\n\n\nParental Nutrition\nApproach:\n\nCommence PN at 80% of target if EN contraindicated or insufficient after 7 days\nIf EN insufficient, make up remainder of requirement with PN.\nUse a dedicated CVC lumen\nEnsure adequate supplementation of trace elements, vitamins, and micronutrients\nReassess enteral feeding Q12H\n\n\n\nLambell, Kate J., Oana A. Tatucu-Babet, Lee-anne Chapple, Dashiell Gantner, and Emma J. Ridley. Nutrition Therapy in Critical Illness: A Review of the Literature for Clinicians. Critical Care 24, no. 1 (4 February 2020): 35. https://doi.org/10.1186/s13054-020-2739-4."
+  },
+  {
+    "objectID": "intensive/supportive/physio.html#references",
+    "href": "intensive/supportive/physio.html#references",
+    "title": "Physiotherapy",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
+  },
+  {
+    "objectID": "intensive/surgical/post_cardiac.html#initial-evaluation",
+    "href": "intensive/surgical/post_cardiac.html#initial-evaluation",
     "title": "Post Cardiac Surgery",
     "section": "Initial Evaluation",
     "text": "Initial Evaluation\nReception of the post-cardiac surgical patient includes:\n\nHandover\nExamination\nInvestigation\n\n\nHandover\nImportant informatin for the cardiac admission:\n\nPatient factors\n\nAge\nKey past medical history\n\nAllergies\nMajor CVS risk factors and previous interventions\nChronic health conditions\nCurrent medications\nTiming of last anticoagulants and anti-platelet agents.\n\nSocial history\n\nFunctional state\nNext of kin\nHave they been contacted by the surgical team?\n\n\nSurgical factors\n\nWhat operation?\n\nCABG\n\nAdequacy of graft targets\n\nGraft locations\n\nValvular\n\nAdequacy of repair\nType of replacmeent\n\nMechanical\nTissue\n\n\n\n\nAdequacy of myocardial protection\nComplications and management\nBleeding\nDrain location\nPleural drains generally placed only if pleural breached (e.g., left pleural during mammary takedown for CABG).\nMajor surgical concerns\n\nAnaesthetic factors\n\nAirway management and intubation grade\nAny issues with lines?\nPre-bypass haemodynamics\nPre-bypass echo\nVentricular and valvular function.\nBypass time and cross-clamp time\nSeparation from bypass\nRequirements for:\n\nInotropes/vasopressors\nNitric Oxide\nPacing\nIABP\nReturn to CPB\n\nPost-bypass haemodynamics and changes in vasoactives\nPost-bypass echo\nTransfusion requirement\n\nCoagulation status\nPacing wires\nThresholds.\nCurrent supports on arrival to ICU\n\n\n\n\nExamination\nExamination should involve:\n\nAirway\n\nETT position\n\nBreathing\n\nAdequacy of gas exchange\n\nABG\nAuscultation\nMonitoring\n\nVentilation settings\n\nCirculation\n\nHaemodynamic state\n\nHR\nBP\nCO/CI\nPressures\nEnsure zeroed.\n\nPeripheral perfusion\nDrain\n\nPatency\nOutputs\n\n\nDisability\n\nPupils\nGCS\n\nE\n\nTemperature\n\n\n\n\nInvestigations\nPost-operative investigations should include:\n\nABG\n\nAdequacy of gas exchange\nLactataemia\nHb\nElectrolyte abnormalities\n\nECG\nCompare with pre-operative ECG:\n\nCommon and benign post-operative changes include:\n\nRBBB\nPericarditic changes\n\nConcerning changes include:\n\nHeart block\nIndicates AV nodal dysfunction, particularly after valvular surgery.\nSTE in continguous leads in a grafted vascular territory\nMay be acute graft failure.\nAnterior STE\nLIMA spasm in a LIMA-LAD graft.\nLow voltage\nConsider tamponade.\n\n\nCXR\n\nPneumothorax\nDevice position\nETT, PAC, NGT, ICC, drains.\n\nBloods\nDepending on degree of concern.\n\nAVG\nElectrolytes\nCoagulation status\nTEG\nCardiac markers\nAlways elevated post-cardiac surgery, but are useful in trending changes."
   },
   {
-    "objectID": "intensive/post_cardiac.html#management",
-    "href": "intensive/post_cardiac.html#management",
+    "objectID": "intensive/surgical/post_cardiac.html#management",
+    "href": "intensive/surgical/post_cardiac.html#management",
     "title": "Post Cardiac Surgery",
     "section": "Management",
     "text": "Management\n\nThe goal for the uncomplicated intubated post-operative cardiac patient is to rewarm, desedate and ensure adequate analgesia, wean ventilator support, and extubate.\n\nGeneral post-operative trajectory:\n\n\nSpecific post-operative considerations for different procedures are under the relevant operation in the cardiac anaesthetic section.\n\nC\n\nRemove PAC\nOnce HDx stable for 6 hours on minimal vasoactive suppport.\nRemove other invasive lines\nAs able.\nRemove pacing wires\n\n\nOnce there has been no pacing requirement for 24 hours, wires can be isolated, i.e. removed from the pacing box\nThis improves mobility whilst still allowing pacing to be restarted if required.\nWires can be removed after a further 24 hours, provided there is no coagulopathy\n\n\nD\n\nAnalgesia\nWean sedation\nShort acting agents preferred.\n\nE\n\nWarming\nShould be rewarmed to >36°C. This:\n\nReduces arrythmia\n↓ SVR and myocardial work\nImproves coagulopathy\n\n\nF\n\nElectrolytes\n\nHypokalaemia\nAim 4.5-5mmol/L.\nHypomagnesaemia\nAim >1mmol/L.\n\nUrine output\nPolyuria dominates the early post-operative period, but usually resolves in ⩽6 hours.\nRemove IDC\nSecond post-operative day if mobilising."
   },
   {
-    "objectID": "intensive/post_cardiac.html#complications",
-    "href": "intensive/post_cardiac.html#complications",
+    "objectID": "intensive/surgical/post_cardiac.html#complications",
+    "href": "intensive/surgical/post_cardiac.html#complications",
     "title": "Post Cardiac Surgery",
     "section": "Complications",
     "text": "Complications\nKey issues in the post-cardiac surgical patient include:\n\nBleeding\nHaemodynamic instability\nAF\nCardiac tamponade\n\n\nBleeding\nMedical bleeding, due to abnormalities of coagulation:\n\nCauses:\n\nPlatelets\n\nQualitative abnormality\nPlatelet function is ↓ by:\n\nPreoperative use of antiplatelet agents\nCardiopulmonary bypass\nGreater bypass duration is associated with greater impairment.\n\nQuantitative abnormality\n\n\nCoagulation abnormality\n\nResidual heparinisation\nHaemodilution\nConsumption\n\nFibrinogen\n\nPlasminogen is activated by CPB\n\n\nTreatment:\n\nNormalise temperature\nPrevent hypertension\nCorrect platelet dysfunction:\n\nPlatelet transfusion\nAim functional platelet count >100 × 109 in significant bleeding.\nDDAVP\nAim to improve platelet function.\n\n20μg IV\n\n\nCorrect coagulopathy\nAim to normalise APTT and PT.\n\nTypically 20ml/kg of FFP\n\nCorrect fibrinogen\nAim to keep fibrinogen >1g/L.\nPrevent fibrinolysis\nConsider in the setting of fibrinolysis (i.e. elevated D-Dimer and low fibrinogen).\n\nTXA\n\n↑ mediastinal pressure\nTheoretically reduce venous bleeding.\n\n↑ PEEP\nRaise head of bed\n\n\n\nSurgical bleeding, due to uncontrolled (typically arterial) source. Suggested by:\n\nBleeding with normal coagulation parameters\nBleeding following period of extreme hypertension\nAnastomotic breakdown.\nLarge volume drain outputs\n\n\n500ml in 1 hour\n\n\n400ml/hr for 2 hours\n\n\n300ml/hr for 3 horus\n\n\n200ml/hr for 4 hours\n\n\n\n\n\nCauses of Haemodynamic Perturbation\nHaemodynamic impairment can be divided into problems with:\n\nHeart Rate/Rhythm\n\nTachycardias\n\nPacing malfunction\nElectrolytes\nAF\n\nBradycardia\n\nPacing malfunction\nElectrolytes\nIschaemia\n\n\nPreload\n\nHypovolaemia\nAssociated with lower filling pressures, and accentuated by diastolic dysfunction.\n\nBleeding\nDiuretics\nRewarming\nVasodilators\n\n↑ Intrathoracic pressure\n\nPneumothorax\nExcessive PEEP\n\n↑ Intrapericardial pressure\n\nTamponade\nElevation and equalisation of diastolic pressures.\n\nRV failure\n\nSVR/\n\n↑ LV afterload:\n\nAortic valve dysfunction\nExcessive vasoconstrictors\nDynamic outflow tract obstruction\n\n↓ LV afterload:\n\nSIRS\nPost-pump vasoplegia\nAnaphylaxis\n\nProtamine reactions\n\nExcessive vasodilator therapy\nThyroid dysfunction\nAdrenal insufficiency\n\n↑ RV afterload:\n\nAcidosis\nHypoxia\nExcessive PEEP\nThromboembolism\n\n\nContractility\n\nIschaemia\n\nAcute graft dysfunction\nAir embolus\nPredominantly RCA.\n\nInadequate myocardial protection\n\nMyocardial stunning\nLong bypass time.\nVentricular dilatation\nInadequate cardioplegia\n\nPre-existing ventricular dysfunction\n\n\n\n\nCardiac Tamponade\nPost-surgical tamponade:\n\nOccurs in up to 5%\nMay emerge slowly\nCombination of clinical suspicion and echocardiographic diagnosis\nFeatures (not all of which may be present):\n\nTachycardia\nLow UO\nFall in SV/2\nElevation and equalisation of diastolic pressures\nRAP ≃ PADP ≃ PCWP. May not occur if a small clot impedes filling to only one chamber.\nLoss of y-descent on CVP waveform Indicates that the pressure gradient between the atria and the ventricles is reduced.\nLoss of mediastinal drain output\nEchocardiography evidence of tamponade\n\n\nTreatment\n\nResternotomy and evacuation of clot\n\n\n\n\nAtrial Fibrillation\nAF occurs in 10-40% of post-cardiac surgery patients, and is associated with significant morbidity:\n\n↑ CVA risk (3x)\n↑ Inotrope requirement\n↑ Reoperation\n↑ ICU and hospital LoS\n\nRisk factors include:\n\nAge\nUse of cardiac supports:\n\nInotropes\nIABP\n\nPrevious AF\nValvular heart disease\n\nPrevention strategies include:\n\nAntiarrhythmics\n\nBeta-blockade\nAmiodarone\nDiltiazem\nSotalol\n\nProcedural\n\nBi-atrial pacing\n\nAnti-inflammatories\n\nStatins\nDexamethasone\nColchicine\n\n\nTreatment strategies:\n\nPharmacological\n\nRhythm control\n\nAmiodarone\nMagnesium\n\nRate control\n\nBeta-blockade\nDiltiazem\nDigoxin\n\nAnticoagulation\nConsider if >48 hours.\n\n\nProcedural\n\nElectrical cardioversion\n\n\n\n\nRenal Failure\nPost-operative AKI:\n\nOccurs in 1-5%\nSignificant associated morbidity and mortality\n\n\n\nOther\nOther complications of cardiac surgery include:\n\nD\n\nDelirium/POCD 10-20%.\nStroke\n1-5%.\n\nG\n\nMesenteric ischaemia\n\nEmbolic\n\n\nI\n\nInfection\n\nDeep sternal wound infection in 1-2%\nSignificant morbidity."
   },
   {
-    "objectID": "intensive/post_cardiac.html#references",
-    "href": "intensive/post_cardiac.html#references",
+    "objectID": "intensive/surgical/post_cardiac.html#references",
+    "href": "intensive/surgical/post_cardiac.html#references",
     "title": "Post Cardiac Surgery",
     "section": "References",
     "text": "References\n\nMelanson, P. Management of post-op cardiac surgery patients. 2001. McGill."
@@ -10742,7 +10973,7 @@
     "href": "disease/neuro/seizure.html#sec-seizuremx",
     "title": "Seizures",
     "section": "Management",
-    "text": "Management\n\nPrinciples:\n\nSeizure termination\nEarly benzodiazepines. Definitive control should occur within 60 minutes of onset.\nPrevent secondary brain injury\nTreat underlying cause\nPrevent recurrence\n\n\n\n\nThe more the seizure is disturbing consciousness, the greater the risk of brain injury to the patient therefore there is strong justification to escalate treatment.\nResuscitation:\n\n\nA\n\nAirway protection\nIf intubation is required, consider suxamethonium so seizures can be rapidly detected.\n\nB\n\nSupplemental oxygenation\n\nC\n\nIV access\n\nD\n\n50% Dextrose 50mL IV with thiamine 100mg IV Low threshold if ↓ BSL is a possibility.\nSeizure termination See below.\n\n\nSpecific therapy:\n\n\nInterestingly, patients convulsive status are unlikely to get respiratory depression following benzodiazepines.\n\nPharmacological\n\nSeizure termination\nChoice depends on timing, IV access, and drug availability.\n\nPremonitory\n\n10mg SL or IN midazolam\n10-20mg PR diazepam\n\nEmergent initial therapy (1st line)\nBenzodiazepines Q2-5 minutely:\n\nLorazepam 0.1mg/kg IV\nPreferred IV option, if available.\nDiazepam 0.1mg/kg IV\nMidazolam 0.1mg/kg IV/0.2mg/kg IM\nPreferred IM option, if available.\n\nUrgent control therapy (2nd line)\nOne of:\n\nPhenytoin 20mg/kg IV load, given at 50mg/min\nAlways should be combined with a benzodiazepine for seizure termination.\nLevetiracetam\n60mg/kg IV load.\nMidazolam infusion at 0.05-0.4mg/kg/hr\nPhenobarbital (below) can be used as an alternative.\n\nRefractory therapy (3rd line)\n\n\nTransition to continuous infusions\nDuration of therapy usually dictated by EEG\nConsideration of:\n\nAnaesthetic agents\nContinue infusions for 12-48 hours before attempting to wean therapy. Options include:\n\nThiopental 100-250mg IV\nPropofol 2mg/kg IV, then infusion at 5-10mg/kg/hr\nPhenobarbital 10-15mg/kg IV, given at 100mg/min\n\nKetogenic diet\nConsidered dual 3rd line in some institutions.\n\n\n\nMaintenance antiepileptic\n\nPhenytoin\n\n20mg/kg IV load\nWait 2 hours before checking levels following loading dose\nMay precipitate hypotension\nAvoid if usually on phenytoin\nAvoid if drug induced seizures\n\nValproate\n\n40mg/kg IV load\nNon-sedating\nLevels can be checked immediately\n\nLevetiracetam\n\n60mg/kg IV load\n\n\n\nProcedural\nLast-line therapy for refractory status may include:\n\nDeep brain stimulation\nSurgical resection\n\nCallostomy\n\n\n\nDisposition:\n\nAnaesthetic Considerations\n\n\nMarginal and Ineffective Therapies\n\nHypothermia\nTheorised to be neuroprotective in setting of seizures.\nMuscle relaxation\nPrevent the metabolic cost of seizures, however renders it unclear if fitting has ceased."
+    "text": "Management\n\nPrinciples:\n\nSeizure termination\nEarly benzodiazepines. Definitive control should occur within 60 minutes of onset.\nPrevent secondary brain injury\nTreat underlying cause\nPrevent recurrence\n\n\n\n\nThe more the seizure is disturbing consciousness, the greater the risk of brain injury to the patient therefore there is strong justification to escalate treatment.\nResuscitation:\n\n\nA\n\nAirway protection\nIf intubation is required, consider suxamethonium so seizures can be rapidly detected.\n\nB\n\nSupplemental oxygenation\n\nC\n\nIV access\n\nD\n\n50% Dextrose 50mL IV with thiamine 100mg IV Low threshold if ↓ BSL is a possibility.\nSeizure termination See below.\n\n\nSpecific therapy:\n\n\nInterestingly, patients convulsive status are unlikely to get respiratory depression following benzodiazepines.\n\nPharmacological\n\nSeizure termination\nChoice depends on timing, IV access, and drug availability.\n\nPremonitory\n\n10mg SL or IN midazolam\n10-20mg PR diazepam\n\nEmergent initial therapy (1st line)\nBenzodiazepines Q2-5 minutely:\n\nLorazepam 0.1mg/kg IV\nPreferred IV option, if available.\nDiazepam 0.1mg/kg IV\nMidazolam 0.1mg/kg IV/0.2mg/kg IM\nPreferred IM option, if available.\n\nUrgent control therapy (2nd line)\nOne of:\n\nLevetiracetam\n60mg/kg IV load.\nPhenytoin 20mg/kg IV load, given at 50mg/min\nAlways should be combined with a benzodiazepine for seizure termination.\nMidazolam infusion at 0.05-0.4mg/kg/hr\nPhenobarbital (below) can be used as an alternative.\n\nRefractory therapy (3rd line)\n\n\nTransition to continuous infusions\nDuration of therapy usually dictated by EEG\nConsideration of:\n\nAnaesthetic agents\nContinue infusions for 12-48 hours before attempting to wean therapy. Options include:\n\nThiopental 100-250mg IV\nPropofol 2mg/kg IV, then infusion at 5-10mg/kg/hr\nPhenobarbital 10-15mg/kg IV, given at 100mg/min\n\nKetogenic diet\nConsidered dual 3rd line in some institutions.\n\n\n\nMaintenance antiepileptic\n\nPhenytoin\n\n20mg/kg IV load\nWait 2 hours before checking levels following loading dose\nMay precipitate hypotension\nAvoid if usually on phenytoin\nAvoid if drug induced seizures\n\nValproate\n\n40mg/kg IV load\nNon-sedating\nLevels can be checked immediately\n\nLevetiracetam\n\n60mg/kg IV load\n\n\n\nProcedural\nLast-line therapy for refractory status may include:\n\nDeep brain stimulation\nSurgical resection\n\nCallostomy\n\n\n\nDisposition:\n\nAnaesthetic Considerations\n\n\nMarginal and Ineffective Therapies\n\nHypothermia\nTheorised to be neuroprotective in setting of seizures.\nMuscle relaxation\nPrevent the metabolic cost of seizures, however renders it unclear if fitting has ceased."
   },
   {
     "objectID": "disease/neuro/seizure.html#complications",
@@ -10882,7 +11113,7 @@
     "href": "disease/neuro/ncse.html#management",
     "title": "Non-Convulsive Status Epilepticus",
     "section": "Management",
-    "text": "Management\nResuscitation:\n\n\nA\n\nCorrect airway compromise\n\nD\n\nHypoglycaemia\n\n\nSpecific therapy:\n\n\nOften unresponsive to initial treatment; 2nd or 3rd line agents are usually required.\n\nPharmacological\n\nSeizure termination\nChoice depends on timing, IV access, and drug availability.\n\nPremonitory\n\n10mg SL or IN midazolam\n10-20mg PR diazepam\n\nEmergent initial therapy (1st line)\nBenzodiazepines Q2-5 minutely:\n\nLorazepam 0.1mg/kg IV\nPreferred IV option, if available.\nDiazepam 0.1mg/kg IV\nMidazolam 0.1mg/kg IV/0.2mg/kg IM\nPreferred IM option, if available.\n\nUrgent control therapy (2nd line)\nOne of:\n\nPhenytoin 20mg/kg IV load, given at 50mg/min\nAlways should be combined with a benzodiazepine for seizure termination.\nLevetiracetam\n60mg/kg IV load.\nMidazolam infusion at 0.05-0.4mg/kg/hr\nPhenobarbital (below) can be used as an alternative.\n\nRefractory therapy (3rd line)\n\n\nTransition to continuous infusions\nDuration of therapy usually dictated by EEG\nConsideration of:\n\nAnaesthetic agents\nContinue infusions for 12-48 hours before attempting to wean therapy. Options include:\n\nThiopental 100-250mg IV\nPropofol 2mg/kg IV, then infusion at 5-10mg/kg/hr\nPhenobarbital 10-15mg/kg IV, given at 100mg/min\n\nKetogenic diet\nConsidered dual 3rd line in some institutions.\n\n\n\nMaintenance antiepileptic\n\nPhenytoin\n\n20mg/kg IV load\nWait 2 hours before checking levels following loading dose\nMay precipitate hypotension\nAvoid if usually on phenytoin\nAvoid if drug induced seizures\n\nValproate\n\n40mg/kg IV load\nNon-sedating\nLevels can be checked immediately\n\nLevetiracetam\n\n60mg/kg IV load\n\n\n\n\nDisposition:\n\nICU admission\nIf not responsive to 1st line treatment.\n\n\nAnaesthetic Considerations\n\n\nMarginal and Ineffective Therapies"
+    "text": "Management\nResuscitation:\n\n\nA\n\nCorrect airway compromise\n\nD\n\nHypoglycaemia\n\n\nSpecific therapy:\n\n\nOften unresponsive to initial treatment; 2nd or 3rd line agents are usually required.\n\nPharmacological\n\nSeizure termination\nChoice depends on timing, IV access, and drug availability.\n\nPremonitory\n\n10mg SL or IN midazolam\n10-20mg PR diazepam\n\nEmergent initial therapy (1st line)\nBenzodiazepines Q2-5 minutely:\n\nLorazepam 0.1mg/kg IV\nPreferred IV option, if available.\nDiazepam 0.1mg/kg IV\nMidazolam 0.1mg/kg IV/0.2mg/kg IM\nPreferred IM option, if available.\n\nUrgent control therapy (2nd line)\nOne of:\n\nLevetiracetam\n60mg/kg IV load.\nPhenytoin 20mg/kg IV load, given at 50mg/min\nAlways should be combined with a benzodiazepine for seizure termination.\nMidazolam infusion at 0.05-0.4mg/kg/hr\nPhenobarbital (below) can be used as an alternative.\n\nRefractory therapy (3rd line)\n\n\nTransition to continuous infusions\nDuration of therapy usually dictated by EEG\nConsideration of:\n\nAnaesthetic agents\nContinue infusions for 12-48 hours before attempting to wean therapy. Options include:\n\nThiopental 100-250mg IV\nPropofol 2mg/kg IV, then infusion at 5-10mg/kg/hr\nPhenobarbital 10-15mg/kg IV, given at 100mg/min\n\nKetogenic diet\nConsidered dual 3rd line in some institutions.\n\n\n\nMaintenance antiepileptic\n\nPhenytoin\n\n20mg/kg IV load\nWait 2 hours before checking levels following loading dose\nMay precipitate hypotension\nAvoid if usually on phenytoin\nAvoid if drug induced seizures\n\nValproate\n\n40mg/kg IV load\nNon-sedating\nLevels can be checked immediately\n\nLevetiracetam\n\n60mg/kg IV load\n\n\n\n\nDisposition:\n\nICU admission\nIf not responsive to 1st line treatment.\n\n\nAnaesthetic Considerations\n\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/neuro/ncse.html#complications",
@@ -11672,6 +11903,83 @@
     "objectID": "disease/neuro/crps.html#references",
     "href": "disease/neuro/crps.html#references",
     "title": "Complex Regional Pain Syndrome",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "disease/neuro/gbs.html#epidemiology-and-risk-factors",
+    "href": "disease/neuro/gbs.html#epidemiology-and-risk-factors",
+    "title": "Guillain-Barré Syndrome",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors"
+  },
+  {
+    "objectID": "disease/neuro/gbs.html#pathophysiology",
+    "href": "disease/neuro/gbs.html#pathophysiology",
+    "title": "Guillain-Barré Syndrome",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\n\nAetiology"
+  },
+  {
+    "objectID": "disease/neuro/gbs.html#clinical-manifestations",
+    "href": "disease/neuro/gbs.html#clinical-manifestations",
+    "title": "Guillain-Barré Syndrome",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations"
+  },
+  {
+    "objectID": "disease/neuro/gbs.html#diagnostic-approach-and-ddx",
+    "href": "disease/neuro/gbs.html#diagnostic-approach-and-ddx",
+    "title": "Guillain-Barré Syndrome",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
+  },
+  {
+    "objectID": "disease/neuro/gbs.html#investigations",
+    "href": "disease/neuro/gbs.html#investigations",
+    "title": "Guillain-Barré Syndrome",
+    "section": "Investigations",
+    "text": "Investigations\n\nImpending respiratory failure suggested on PFTs by:\n\nVC <20 mL/kg\nMax inspiratory pressure <-30 cmH20\nMax expiratory pressure <40 cmH20\n\n\nBedside:\nLaboratory:\nImaging:\nOther:"
+  },
+  {
+    "objectID": "disease/neuro/gbs.html#management",
+    "href": "disease/neuro/gbs.html#management",
+    "title": "Guillain-Barré Syndrome",
+    "section": "Management",
+    "text": "Management\nResuscitation:\n\nABC approach. Comment on team coordination and clinical priorities. Specific therapy:\n\nPharmacological\nProcedural\nPhysical\n\nSupportive care:\nDisposition:\nPreventative:\n\nMarginal and Ineffective Therapies"
+  },
+  {
+    "objectID": "disease/neuro/gbs.html#anaesthetic-considerations",
+    "href": "disease/neuro/gbs.html#anaesthetic-considerations",
+    "title": "Guillain-Barré Syndrome",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "disease/neuro/gbs.html#complications",
+    "href": "disease/neuro/gbs.html#complications",
+    "title": "Guillain-Barré Syndrome",
+    "section": "Complications",
+    "text": "Complications"
+  },
+  {
+    "objectID": "disease/neuro/gbs.html#prognosis",
+    "href": "disease/neuro/gbs.html#prognosis",
+    "title": "Guillain-Barré Syndrome",
+    "section": "Prognosis",
+    "text": "Prognosis"
+  },
+  {
+    "objectID": "disease/neuro/gbs.html#key-studies",
+    "href": "disease/neuro/gbs.html#key-studies",
+    "title": "Guillain-Barré Syndrome",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/neuro/gbs.html#references",
+    "href": "disease/neuro/gbs.html#references",
+    "title": "Guillain-Barré Syndrome",
     "section": "References",
     "text": "References"
   },
@@ -12954,7 +13262,7 @@
     "href": "disease/git/alf.html#management",
     "title": "Acute Liver Failure",
     "section": "Management",
-    "text": "Management\n\nGoals of therapy are:\n\nIdentify cause\nSupportive care to limit hepatic damage\nEarly identification of patients for transplant\n\nSignificant improvement in outcomes with emergency liver transplantation\nEarly escalation to critical care and early referral to a specialist centre is essential\n\n\n\nResuscitation:\n\n\nA\nConsider securing if:\n\nHigh grade (III/IV) encephalopathy\nNeed for transfer\n\nB\n\nCO2 control for ICP management\n\nC\n\nClassically distributive shock picture\n\nNoradrenaline\n\n\nD\n\n↑ ICP\n\n\nControl with standard ICP management\n\n\n\nSpecific therapy:\n\nProcedural\n\nLiver transplantation\n\nPhysical\n\nExtra-corporeal hepatic support\nArtificial, extra-corporeal liver replacement therapy. Broadly, ↓ encephalopathy and ↑ haemodynamic function without mortality benefit. May be:\n\nBiological\nUsing human/porcine cells.\nMechanical\nMolecular filtration.\n\n\n\nUnderlying cause:\n\n\nManagement of paracetamol overdose is covered under Chapter 357.\n\nParacetamol overdose\n\nN-acetylcysteine (NAC)\n\n\nCornerstone of therapy as early administration results in significant reduction in mortality (to <1%), though even late administration may improve outcome\nDosing based on Prescott nomogram\n\n\nViral hepatitis\n\nAntivirals\nHepatitis B\n\nLamivudine\nBenefit if given early.\n\n\nAlcoholic hepatitis\nAutoimmune hepatitis\n\nSte\n\nMushroom poisoning\n\nForced diuresis\n↑ Renal clearance of toxin. Avoid hypovolaemia.\n\nWilson’s disease\n\nD-Penicillamine\nChelates copper. Withdrawal of chronic treatment may precipitate failure.\n\nHepatic vein thrombosis\n\nThrombolysis\nClot retrieval\nTIPS\n\n\nSupportive care:\n\n\nInvasive intracranial pressure monitoring associated with ~10% intracranial haemorrhage rate.\n\nB\n\nLung protective ventilation\nARDS risk.\nDrain pleural effusions\n\nD\n\n↑ ICP\n\n\nGeneral measures\nIf grade 3/4 encephalopathy, recommend:\n\nIntubation\nSedation\nAvoid stimulation\nHead-up positioning\n\nConsider invasive ICP management if all of:\n\n\nGrade 3-4 encephalopathy\nHyperacute liver failure\nAmmonia >150mmolL\nYoung\n\n\n\nE\n\n↓ BSL\nUse high-concentration dextrose to avoid cerebral oedema/↓ Na+.\n\nF\n\n↓ Phosphate\nReplenish.\nRRT\n\n\nAvoid citrate!\nCRRT preferential due to haemodynamics\nIn addition to standard indications, consider for:\n\nHyperammonaemia\nAim <100μmol/: to ↓ cerebral oedema.\nHypothermia\n\n\n\nG\n\nEarly enteral feeding\nMay have ↑ metabolic requirements. No change in protein requirement.\nLactulose\nControversial. May ↓ hepatic encephalopathy but lead to gaseous intestinal distension.\nPPI\nDrain ascites\nFor haemodynamic benefit.\n\nH\n\nCoagulopathy\nTreat if bleeding or prior to procedures. Patients may be prothrombotic, anti-thrombotic, or fibrinolytic, and the assays themselves (both coagulation profiles and point-of-care testing) may not correlate with the observed clinical effect.\n\nVitamin K\nVery reasonable, probably ineffective in the majority of patients.\n\n\n\nDisposition:\n\nLiver transplant centre\n\n\nMarginal and Ineffective Therapies"
+    "text": "Management\n\nGoals of therapy are:\n\nIdentify cause\nSupportive care to limit hepatic damage\nEarly identification of patients for transplant\n\nSignificant improvement in outcomes with emergency liver transplantation\nEarly escalation to critical care and early referral to a specialist centre is essential\n\n\n\nResuscitation:\n\n\nA\nConsider securing if:\n\nHigh grade (III/IV) encephalopathy\nNeed for transfer\n\nB\n\nCO2 control for ICP management\n\nC\n\nClassically distributive shock picture\n\nNoradrenaline\n\n\nD\n\n↑ ICP\n\n\nControl with standard ICP management\n\n\n\nSpecific therapy:\n\nProcedural\n\nLiver transplantation\n\nPhysical\n\nExtra-corporeal hepatic support\nArtificial, extra-corporeal liver replacement therapy. Broadly, ↓ encephalopathy and ↑ haemodynamic function without mortality benefit. May be:\n\nBiological\nUsing human/porcine cells.\nMechanical\nMolecular filtration.\n\n\n\nUnderlying cause:\n\n\nManagement of paracetamol overdose is covered under Chapter 365.\n\nParacetamol overdose\n\nN-acetylcysteine (NAC)\n\n\nCornerstone of therapy as early administration results in significant reduction in mortality (to <1%), though even late administration may improve outcome\nDosing based on Prescott nomogram\n\n\nViral hepatitis\n\nAntivirals\nHepatitis B\n\nLamivudine\nBenefit if given early.\n\n\nAlcoholic hepatitis\nAutoimmune hepatitis\n\nSte\n\nMushroom poisoning\n\nForced diuresis\n↑ Renal clearance of toxin. Avoid hypovolaemia.\n\nWilson’s disease\n\nD-Penicillamine\nChelates copper. Withdrawal of chronic treatment may precipitate failure.\n\nHepatic vein thrombosis\n\nThrombolysis\nClot retrieval\nTIPS\n\n\nSupportive care:\n\n\nInvasive intracranial pressure monitoring associated with ~10% intracranial haemorrhage rate.\n\nB\n\nLung protective ventilation\nARDS risk.\nDrain pleural effusions\n\nD\n\n↑ ICP\n\n\nGeneral measures\nIf grade 3/4 encephalopathy, recommend:\n\nIntubation\nSedation\nAvoid stimulation\nHead-up positioning\n\nConsider invasive ICP management if all of:\n\n\nGrade 3-4 encephalopathy\nHyperacute liver failure\nAmmonia >150mmolL\nYoung\n\n\n\nE\n\n↓ BSL\nUse high-concentration dextrose to avoid cerebral oedema/↓ Na+.\n\nF\n\n↓ Phosphate\nReplenish.\nRRT\n\n\nAvoid citrate!\nCRRT preferential due to haemodynamics\nIn addition to standard indications, consider for:\n\nHyperammonaemia\nAim <100μmol/: to ↓ cerebral oedema.\nHypothermia\n\n\n\nG\n\nEarly enteral feeding\nMay have ↑ metabolic requirements. No change in protein requirement.\nLactulose\nControversial. May ↓ hepatic encephalopathy but lead to gaseous intestinal distension.\nPPI\nDrain ascites\nFor haemodynamic benefit.\n\nH\n\nCoagulopathy\nTreat if bleeding or prior to procedures. Patients may be prothrombotic, anti-thrombotic, or fibrinolytic, and the assays themselves (both coagulation profiles and point-of-care testing) may not correlate with the observed clinical effect.\n\nVitamin K\nVery reasonable, probably ineffective in the majority of patients.\n\n\n\nDisposition:\n\nLiver transplant centre\n\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/git/alf.html#anaesthetic-considerations",
@@ -13045,7 +13353,7 @@
     "href": "disease/git/cld.html#prognosis",
     "title": "Chronic Liver Disease",
     "section": "Prognosis",
-    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 319.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
+    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 327.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
   },
   {
     "objectID": "disease/git/cld.html#key-studies",
@@ -13332,7 +13640,7 @@
     "href": "disease/git/gib.html#management",
     "title": "Gastrointestinal Bleeding",
     "section": "Management",
-    "text": "Management\n\nIf intubation is required, ensure adequate volume resuscitation prior to induction due to the risk of profound haemodynamic instability.\n\n\n\nAnaesthetic considerations and management is covered under Chapter 186.\nResuscitation:\n\n\n\nNote that overresuscitation may lead to increased portal venous pressure and should be avoided.\n\nA\n\nDefinitive airway if airway compromised\nVery high aspiration risk.\n\nC\n\nWide-bore IV\nVolume resuscitation\n\nMTP\n\n\nH\n\nUrgent crossmatch\n\n\nSpecific therapy:\n\n\nThe majority of patients with UGIB will stop bleeding spontaneously and not require procedural intervention. The overwhelming majority of patients with LGIB will stop bleeding prior to any intervention.\n\nPharmacological\n\nCease anticoagulation\nCease NSAID\nAcid suppression\nInadequate without endoscopic control in severe or persistent bleeding. No evidence to support use pre-endoscopy, but decreased rebleeding and repeated endoscopy when used post-bleeding.\n\nPPI\nH2-antagonist\n\nFor variceal bleeds:\n\n↓ Portal pressure\n\nVasopressin\n\nMay precipitate hypertension and cardiac ischaemia\n\nTerlipressin\nPreferable to vasopressin due to ↓ cardiac side effects. Improves haemostasis and mortality in variceal bleeding.\nOctreotide\n↓ Portal blood flow, no demonstrated mortality improvement.\n\nPropranolol\nSecondary prevention of variceal bleeding.\nAntibiotics\nHigh risk of concomitant (or precipitating) infection in variceal bleeds.\n\n\nProcedural\n\n\nBalloon tamponade\nInsertion of a gastric-oesopahgeal balloon which is placed to provide balloon tamponade feeding veins. Used only in extremis to provide control of bleeding.\nEndoscopy\nGold standard of treatment for severe bleeding, or patients with rebleeding.\n\nEarly (<24 hours) associated with:\n\n↓ Transfusion\n↓ Rebleeding\n↓ Open surgical risk\n↓ Length of stay\n\nTherapeutic options include:\n\nDilute adrenaline injection\nCauterisation\nStapling of ulcer\n↓ Risk of perforation compared with cauterisation.\nVariceal band ligation\nRubber bands used to strangle varices, to decrease future risk of bleeding.\n\nRepeat endoscopy should be performed if initial endoscopy suboptimal\n\nEmbolisation\n\nEffective at achieving immediate haemostasis\nSmall risk of gut ischaemia and rebleeding\nUseful in patients at high surgical risk\n\nSurgical bowel resection\nLargely superseded by endoscopy but has a role in:\n\nMassive transfusion with ongoing haemodynamic instability\nRecurrent bleeding despite initial endoscopic success\nArterial bleeding not controlled by endoscopic haemostasis\nGI perforation\n\nTIPS\nIndicated in variceal bleeding refractory to control by all other methods. Results in:\n\nSignificantly decreased portal venous pressure and variceal bleeding\nHepatic encephalopathy in 60%\n\n\n\n\n\nUrgent endoscopy is preferable for suspected ulcer bleeding; haemodynamically stable suspected variceal bleeding is appropriate to defer until the next elective list.\nDisposition:\n\nConsider H. Pylori eradication\n\nMore effective than acid suppression\n\n\n\nMarginal and Ineffective Therapies"
+    "text": "Management\n\nIf intubation is required, ensure adequate volume resuscitation prior to induction due to the risk of profound haemodynamic instability.\n\n\n\nAnaesthetic considerations and management is covered under Chapter 188.\nResuscitation:\n\n\n\nNote that overresuscitation may lead to increased portal venous pressure and should be avoided.\n\nA\n\nDefinitive airway if airway compromised\nVery high aspiration risk.\n\nC\n\nWide-bore IV\nVolume resuscitation\n\nMTP\n\n\nH\n\nUrgent crossmatch\n\n\nSpecific therapy:\n\n\nThe majority of patients with UGIB will stop bleeding spontaneously and not require procedural intervention. The overwhelming majority of patients with LGIB will stop bleeding prior to any intervention.\n\nPharmacological\n\nCease anticoagulation\nCease NSAID\nAcid suppression\nInadequate without endoscopic control in severe or persistent bleeding. No evidence to support use pre-endoscopy, but decreased rebleeding and repeated endoscopy when used post-bleeding.\n\nPPI\nH2-antagonist\n\nFor variceal bleeds:\n\n↓ Portal pressure\n\nVasopressin\n\nMay precipitate hypertension and cardiac ischaemia\n\nTerlipressin\nPreferable to vasopressin due to ↓ cardiac side effects. Improves haemostasis and mortality in variceal bleeding.\nOctreotide\n↓ Portal blood flow, no demonstrated mortality improvement.\n\nPropranolol\nSecondary prevention of variceal bleeding.\nAntibiotics\nHigh risk of concomitant (or precipitating) infection in variceal bleeds.\n\n\nProcedural\n\n\nBalloon tamponade\nInsertion of a gastric-oesopahgeal balloon which is placed to provide balloon tamponade feeding veins. Used only in extremis to provide control of bleeding.\nEndoscopy\nGold standard of treatment for severe bleeding, or patients with rebleeding.\n\nEarly (<24 hours) associated with:\n\n↓ Transfusion\n↓ Rebleeding\n↓ Open surgical risk\n↓ Length of stay\n\nTherapeutic options include:\n\nDilute adrenaline injection\nCauterisation\nStapling of ulcer\n↓ Risk of perforation compared with cauterisation.\nVariceal band ligation\nRubber bands used to strangle varices, to decrease future risk of bleeding.\n\nRepeat endoscopy should be performed if initial endoscopy suboptimal\n\nEmbolisation\n\nEffective at achieving immediate haemostasis\nSmall risk of gut ischaemia and rebleeding\nUseful in patients at high surgical risk\n\nSurgical bowel resection\nLargely superseded by endoscopy but has a role in:\n\nMassive transfusion with ongoing haemodynamic instability\nRecurrent bleeding despite initial endoscopic success\nArterial bleeding not controlled by endoscopic haemostasis\nGI perforation\n\nTIPS\nIndicated in variceal bleeding refractory to control by all other methods. Results in:\n\nSignificantly decreased portal venous pressure and variceal bleeding\nHepatic encephalopathy in 60%\n\n\n\n\n\nUrgent endoscopy is preferable for suspected ulcer bleeding; haemodynamically stable suspected variceal bleeding is appropriate to defer until the next elective list.\nDisposition:\n\nConsider H. Pylori eradication\n\nMore effective than acid suppression\n\n\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/git/gib.html#complications",
@@ -15061,14 +15369,14 @@
     "href": "disease/infective/meningitis.html#investigations",
     "title": "Meningitis",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\nLaboratory:\n\n\nDetails of CSF findings in meningitis are covered under Chapter 377.\n\nBlood\n\nFBE\nInfection.\nBlood cultures\nPCR\n\nLP\n\nRequired to completely confirm diagnosis\nHowever, contraindications are common\n\nCoagulopathy\n↑ ICP, or significant clinical concern of such\n\nEmpirical antibiotics should be commenced if there is delay\nUrgent Gram stain and culture\n\n\nImaging:\nOther:"
+    "text": "Investigations\nBedside:\nLaboratory:\n\n\nDetails of CSF findings in meningitis are covered under Chapter 385.\n\nBlood\n\nFBE\nInfection.\nBlood cultures\nPCR\n\nLP\n\nRequired to completely confirm diagnosis\nHowever, contraindications are common\n\nCoagulopathy\n↑ ICP, or significant clinical concern of such\n\nEmpirical antibiotics should be commenced if there is delay\nUrgent Gram stain and culture\n\n\nImaging:\nOther:"
   },
   {
     "objectID": "disease/infective/meningitis.html#management",
     "href": "disease/infective/meningitis.html#management",
     "title": "Meningitis",
     "section": "Management",
-    "text": "Management\nResuscitation:\n\nSpecific therapy:\n\n\nDuration of antimicrobial therapy depends on the organism:\n\nN. meningitidis: 5 days\nS. pneumoniae: 10-14 days\nL. monocytogenes: 21 days\n\n\nPharmacological\n\nAntimicrobial therapy\n\nEmpiric therapy\n\nFoundation:\n\nCeftriaxone 2g IV Q12H\nOr cefotaxime 2g IV Q6H.\nDexamethasone 10mg IV Q6H\n\nGive with or before first dose of antibiotics\nCease if cause other than S. pneumoniae is discovered\nNo mortality benefit outside this group.\n\nAcyclovir 10mg/kg IV\nIndicated for viral meningitis caused by VZV or HSV.\n\nIf immunocompromised:\ni.e. Age >60, diabetes, alcohol misuse, malignancy, immunosuppressants:\n\nAdd ampicillin 2g Q4H\n\nIf penicillin resistant pneumococci:\n\nAdd vancomycin\n\n\nCryptococcal meningitis\n\nInitial therapy:\n\nAmphoteracin B\n5-fluorocytosine\n\nFluconazole\n\n\nAnticonvulsants\n\nBenzodiazepines for seizure control\n\n\n\nProcedural\nPhysical\n\n\n\nManagement of seizures is covered under Chapter 286.\nSupportive care:\nDisposition:\n\nICU admission in:\n\nRapidly evolving rash\nGCS ⩽12\nOrgan support\nSeizures\n\n\nPreventative:\n\nProphylaxis is recommended for close contacts\nCiprofloxacin 500mg.\nMeningococcal vaccination\nPublic health notification\n\n\nMarginal and Ineffective Therapies\n\nIntrathecal antibiotics\nNot recommended.\nProphylactic anticonvulsants"
+    "text": "Management\nResuscitation:\n\nSpecific therapy:\n\n\nDuration of antimicrobial therapy depends on the organism:\n\nN. meningitidis: 5 days\nS. pneumoniae: 10-14 days\nL. monocytogenes: 21 days\n\n\nPharmacological\n\nAntimicrobial therapy\n\nEmpiric therapy\n\nFoundation:\n\nCeftriaxone 2g IV Q12H\nOr cefotaxime 2g IV Q6H.\nDexamethasone 10mg IV Q6H\n\nGive with or before first dose of antibiotics\nCease if cause other than S. pneumoniae is discovered\nNo mortality benefit outside this group.\n\nAcyclovir 10mg/kg IV\nIndicated for viral meningitis caused by VZV or HSV.\n\nIf immunocompromised:\ni.e. Age >60, diabetes, alcohol misuse, malignancy, immunosuppressants:\n\nAdd ampicillin 2g Q4H\n\nIf penicillin resistant pneumococci:\n\nAdd vancomycin\n\n\nCryptococcal meningitis\n\nInitial therapy:\n\nAmphoteracin B\n5-fluorocytosine\n\nFluconazole\n\n\nAnticonvulsants\n\nBenzodiazepines for seizure control\n\n\n\nProcedural\nPhysical\n\n\n\nManagement of seizures is covered under Chapter 293.\nSupportive care:\nDisposition:\n\nICU admission in:\n\nRapidly evolving rash\nGCS ⩽12\nOrgan support\nSeizures\n\n\nPreventative:\n\nProphylaxis is recommended for close contacts\nCiprofloxacin 500mg.\nMeningococcal vaccination\nPublic health notification\n\n\nMarginal and Ineffective Therapies\n\nIntrathecal antibiotics\nNot recommended.\nProphylactic anticonvulsants"
   },
   {
     "objectID": "disease/infective/meningitis.html#anaesthetic-considerations",
