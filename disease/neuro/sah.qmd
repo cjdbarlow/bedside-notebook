@@ -156,8 +156,8 @@ Consider continuous EEG monitoring in patients who
 * A
 	* Secure if required
 * C
-	* Aggressive **blood pressure control**
-		* Target **SBP ≤160**mmHg or **MAP ≤110**mmHg
+	* Aggressive **blood pressure control** for the unsecured aneurysm
+		* Target **SBP 100-160**mmHg or **MAP ≤110**mmHg
 		Adjust target based on premorbid baseline BP.
 		* Agents should preferably be given by infusion, and include:
 			* **Labetalol** 5-20mg/hr
@@ -166,6 +166,8 @@ Consider continuous EEG monitoring in patients who
 		* Avoid hypotension
 	* Maintain euvolaemia\
 	Avoid hypervolaemia.
+* H
+	* Reveres anticoagulation
 
 
 **Specific therapy**:
@@ -177,12 +179,9 @@ Consider continuous EEG monitoring in patients who
 		* 60mg Q4H PO\
 		Can adjust to 30mg Q2H PO if symptomatic hypotension.
 			* Commonly requires vasopressors
-		* Administered to all SAH patients for 21 days
+		* Administered to all SAH patients for **21 days**
 		* Significantly improves outcome (↓ stroke by 34%) but does not appear to reduce radiological vasospasm\
 		Neuroprotection probably by another mechanism.
-	* Prophylactic anticonvulsants\
-		* Limited evidence\
-		Restrict to a short course.
 * Procedural
 	* **Aneurysm securing**
 		* Transfer to high-volume aneurysm centre for securing of aneurysm
@@ -199,11 +198,15 @@ Consider continuous EEG monitoring in patients who
 				* ↑ Risk of rebleeding
 				* Risk of rupture without option for immediate surgical control
 	* EVD\
-	Early if signs of hydrocephalus or IVH.
+	Early if signs of hydrocephalus or IVH. Open at:
+		* **10cmH~2~O** for **secured** aneurysm
+		* **15cmH~2~O** for **unsecured** aneurysm
 
 
 **Supportive care**:
 
+* C
+	* Defend CPP
 * D
 	* Glucose control\
 	Careful control with strict avoidance of hypoglycaemia.
@@ -219,7 +222,10 @@ Consider continuous EEG monitoring in patients who
 	* Anaemia\
 	Hb level should be maintained at 80-100g/L.
 	* DVT prophylaxis\
-	UFH should be considered 24 hours after securing of aneurysm. 
+	UFH should be considered:
+		* 24 hours after coiling
+		* 48 hours after clipping\
+		↑ Duration due to craniotomy.
 	
 
 **Disposition**:
@@ -235,14 +241,15 @@ Consider continuous EEG monitoring in patients who
 
 ### Marginal and Ineffective Therapies
 
-Prophylactic 'triple-H' therapy:
-
-* Not recommended due to lack of efficacy and evidence of harm
-* Consists of:
-	* Hypervolaemia
-	* Hypertension
-	* Haemodilution\
-	Theorised to improve laminar flow and ↑ overall DO~2~.
+* Prophylactic 'triple-H' therapy:
+	* Not recommended due to lack of efficacy and evidence of harm
+	* Consists of:
+		* Hypervolaemia
+		* Hypertension
+		* Haemodilution\
+		Theorised to improve laminar flow and ↑ overall DO~2~.
+* Prophylactic anticonvulsants\
+Routine use worsens outcomes.
 
 ## Complications
 
@@ -266,24 +273,18 @@ Prophylactic 'triple-H' therapy:
 		* Occurs in 26% of patients\
 		Correlated with blood volume and MCA aneurysms.
 	* **DCI**\
-	Leading cause of neurological morbidity due to cerebral infarction, and leads to both:
-		* Neurological complications:
-			* Seizures
-			* Infection
-			* Cerebral oedema
-		* Systemic complications:
-			* Infection
-			* Fever\
-			Intracranial blood is pyrogenic.
-			* APO
-			* Cardiac failure\
-			Via ↑ catecholamines.
+	Leading cause of neurological morbidity due to cerebral infarction.
 	* **Seizure**
+		* Treat with levetiracetam at first line
 * F
 	* Hyponatraemia\
 	30% of cases.
 		* CSW
 	* Hypernatraemia
+
+:::column-margin
+Delayed cerebral ischaemia is covered in detail under @sec-vasospasm.
+:::
 
 ## Prognosis
 

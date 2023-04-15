@@ -81,9 +81,27 @@ Early Goal Directed Therapy studies:
 * ProCESS
 * ProMISE
 
+
+Fluid studies:
+
+* [CLOVERS](https://www.nejm.org/doi/full/10.1056/NEJMoa2212663)
+	* ~12,000 patients with sepsis and hypotension after 1L IVT
+		* Within 24 hours of hospital admission
+		* \<3L of IVT\
+		i.e. 1-3L of IVT received by randomisation.
+	* Restrictive vs. liberal fluid strategy
+		* Restrictive: Up to 2L IVT, then noradrenaline\
+		Rescue fluids allowed.
+		* Liberal: 2L bolus at randomisation, further 500mL boluses\
+		Rescue vasopressors allowed, and recommended after 5L (6-8L total) IVT.
+	* No change in mortality, ventilator free days, ICU free days, ARDS
+	* ↑ ICU admission in restrictive group
+	* Strong safety profile of peripheral vasopressors
+
 ---
 
 ## References
 
 1. Bellomo R, Kellum JA, Ronco C et al. Acute kidney injury in sepsis. Intensive Care Med. 2017 Jun;43(6):816-828. doi: 10.1007/s00134-017-4755-7. Epub 2017 Mar 31.
 2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+3. [Early Restrictive or Liberal Fluid Management for Sepsis-Induced Hypotension](https://www.nejm.org/doi/full/10.1056/NEJMoa2212663). New England Journal of Medicine. 2023;388(6):499-510. 

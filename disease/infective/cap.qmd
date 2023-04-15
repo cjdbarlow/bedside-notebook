@@ -3,7 +3,9 @@
 Infection of pulmonary parenchyma in a patient who was not hospitalised prior to the onset of symptoms, with both:
 
 :::column-margin
-Systemic symptoms are much less common in the elderly and may be absent. Non-respiratory symptoms may also be present.
+Systemic symptoms are much less common in the elderly and may be absent.\
+\
+Non-respiratory symptoms may also be present.
 :::
 
 * Symptoms of acute infection
@@ -87,6 +89,23 @@ May be either:
 
 ## Diagnostic Approach and DDx
 
+Assessment of severity:
+
+* Determines disposition (home, inpatient, intensive care)
+* Can be performed with the SMART COP score
+    * ⩾4 has 1/3 chance of requiring vasoactive or respiratory support
+    * Consists of:
+        * SBP <90
+        * Multilobar infiltrate
+        * Albumin <35g/L
+        * RR:
+            * \>30 if age >50
+            * \>25 if age >25
+        * Tachycardia >125
+        * Confusion
+        * Oxygen saturation <93%
+        * pH <7.35
+
 ## Investigations
 
 Bloods:
@@ -95,6 +114,8 @@ Bloods:
 * UEC
 * LFT
 * Blood cultures (x2-3)
+* CRP\
+↑ Benefit from steroids seen with ↑ CRP.
 * HIV status
 
 
@@ -149,15 +170,43 @@ Up to 40% of patients have a polymicrobial infection, so narrowing the spectrum 
 **Specific therapy**:
 
 * Pharmacological
-     * Antimicrobial therapy
-        * Often unit or region-specific based on local flora and resistance patterns
-        * 7-10 day course recommended for moderate-severe disease
+    * **Antimicrobial therapy**
+        * Non-tropical
+            * Mild:\
+            5-7 days of:
+                * Amoxicillin 1g PO TDS
+                * Clarithromycin 250mg PO BD
+            * Moderate:\
+            7-10 days of:
+                * Benzylpenicillin 1.2g IV QID and doxycycline 100mg PO BD
+                * Ceftriaxone 1g IV daily and doxycycline 100mg PO BD
+            * Severe:\
+            7-10 days of:
+                * Benzylpenicillin 1.2g IV Q4H and gentamicin
+                * Ceftriaxone 1g IV daily and azithromycin 500mg IV daily
+        * Tropical\
+        To cover *Burkholderia pseudomallei* and *Acinetobacter baumannii*:
+            * Meropenem 1g IV TDS and azithromycin 500mg IV daily
+    * **Hydrocortisone**
+        * Possible mortality benefit
+        * Suggest 200mg/day
+        * Unless contraindicated
+            * Chronic infection
+            * Immunocompromised
+            * Poorly controlled diabetes
+            * Pregnancy
 * Procedural
 * Physical
+
+:::column-margin
+Antimicrobial therapy is often unit or region-specific based on local flora and resistance patterns.
+:::
 
 **Supportive care**:
 
 **Disposition**:
+
+* ICU or HDU for severe disease
 
 ### Marginal and Ineffective Therapies
 
@@ -192,7 +241,19 @@ Time until improvement varies:
 
 ## Key Studies
 
+* [CAPE COD](https://www.nejm.org/doi/10.1056/NEJMoa2215145)
+    * 800 French ICU patients with severe CAP
+        * Without septic shock
+        * Without features suggesting other causes of pneumonia mimics
+    * 200mg hydrocortisone infusion vs. placebo
+    * Significant:
+        * ↓ Mortality in treatment group (6.2% vs. 11.9%)
+        * ↑ Insulin use in treatment group
+    * Stopped early due to COVID and significance on interim analysis
 
 ---
 
 ## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+2. Dequin PF, Meziani F, Quenot JP, et al. [Hydrocortisone in Severe Community-Acquired Pneumonia](https://www.nejm.org/doi/10.1056/NEJMoa2215145). N Engl J Med. Published online March 21, 2023:NEJMoa2215145.

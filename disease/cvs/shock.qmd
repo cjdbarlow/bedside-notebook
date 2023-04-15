@@ -178,18 +178,24 @@ Rapid recognition and treatment are required to prevent irreversible organ dysfu
 
 **Resuscitation**:\
 
-* Supplemental oxygen
-* Venous access
-* Target MAP ⩾65mmHg:\
-Exact target may vary depending on other circumstances.
-	* Volume resuscitation
-		* Crystalloid
-		* Albumin
-		* Blood
-	* Vasopressors
-	* Inotropes
-* Arterial access
-* Central venous access if required
+* A
+	* Intubation
+* B
+	* Supplemental oxygen
+* C
+	* Venous access
+	* Restore organ perfusion\
+	Target MAP ⩾65mmHg:
+		* Exact target may vary depending on other characteristics.
+		* Volume resuscitation
+			* Crystalloid
+			* Albumin
+			* Blood
+		* Vasopressors
+		* Inotropes
+		* Mechanical support
+	* Arterial access
+	* Central venous access if required
 
 **Specific therapy**:
 

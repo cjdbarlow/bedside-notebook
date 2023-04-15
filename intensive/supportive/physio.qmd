@@ -34,8 +34,25 @@ Aims to ↑ independence and ↓ severity of ICU-acquired weakness. Techniques e
 * Positioning aids\
 ↓ Contracture formation.
 
+
+## Key Studies
+
+* [TEAM](https://www.nejm.org/doi/full/10.1056/NEJMoa2209083)
+	* 750 adult ventilated ICU patients
+	* Early mobilisation versus usual care
+		* Early mobilisation: highest level of activity for the longest time on the lowest amount of sedation
+		* Usual care still included reasonably early mobilisation
+	* No significant mortality difference
+	* Standing and walking occurred 1-2 days earlier in the early mobilisation group
+	* More adverse events in the early mobilisation group
+
+:::column-margin
+![](/resources/team-icu.png)
+:::
+
 ---
 
 ## References
 
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+2. [Early Active Mobilization during Mechanical Ventilation in the ICU](https://www.nejm.org/doi/full/10.1056/NEJMoa2209083). New England Journal of Medicine. 2022;387(19):1747-1758.

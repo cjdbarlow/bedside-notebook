@@ -216,6 +216,8 @@ Significant independent risk factor for delirium, and recommended only for:
 May ↓ duration or severity, but no improvement in mortality.
 * Anticholinesterases\
 Worsen delirium.
+* Melatonin\
+No change in rate of delirium, or quality and quantity of sleep.
 
 
 
@@ -227,6 +229,10 @@ Worsen delirium.
 
 ## Key Studies
 
+* [Pro-MEDIC](https://link.springer.com/article/10.1007/s00134-022-06638-9)
+	* ~850 Australian adults across 12 ICUs with expected ICU admission >72 hours
+	* 4mg enteric melatonin nocte for 14 days versus placebo
+	* No change in delirium (by CAM-ICU) or sleep quality or quantity
 
 ---
 
@@ -234,4 +240,4 @@ Worsen delirium.
 
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
 2. Krewulak, K.D., Rosgen, B.K., Ely, E.W., Stelfox, H.T., Fiest, K.M., 2020. [The CAM-ICU-7 and ICDSC as measures of delirium severity in critically ill adult patients](https://doi.org/10.1371/journal.pone.0242378). PLoS One 15, e0242378. 
-
+3. Wibrow B, Martinez FE, Myers E, et al. [Prophylactic melatonin for delirium in intensive care (Pro-MEDIC): a randomized controlled trial](https://link.springer.com/article/10.1007/s00134-022-06638-9). Intensive Care Med. 2022;48(4):414-425. doi:10.1007/s00134-022-06638-9

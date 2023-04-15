@@ -57,7 +57,10 @@ General:
 
 * EVDs can be:
 	* Continuously draining\
-	For high ICP. Good practice is to transduce every hour, especially if there is high-volume CSF drainage.
+	For high ICP or hydrocephalus.
+		* Good practice is to transduce every hour to confirm patency\
+		A blocked EVD *may* be flushed to restore patency, and should be done by the neurosurgeon.
+		* High-volume CSF drainage is >30mL/hr
 	* Continuously transduced\
 	Intermittently vented in case of ↑ ICP.
 
