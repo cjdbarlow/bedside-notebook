@@ -1,110 +1,212 @@
 # Myasthenia Gravis
 
+Autoimmune disease of post-synaptic ACh receptors at the neuromuscular junction, leading to **fatiguable weakness** of skeletal and ocular muscles. Classified by the **Osserman Classification**:
 
-Autoimmune disease of post-synaptic ACh receptors at the neuromuscular junction, leading to **fatiguable weakness** of skeletal muscles. Classified by the **Osserman Classification**:
-
-* Class I  
-Ocular myasthenia.
-* Class IIa  
+* **Class I**\
+Ocular myasthenia. ~20% of cases.
+* **Class IIa**\
 Mild generalized myasthenia with slow progression.
 	* No crises
 	* Treatment responsive
-* Class IIb  
+* **Class IIb**\
 Moderately severe generalized myasthenia:
 	* Severe skeletal & bulbar involvement
 	* No crises
 	* Less than satisfactory treatment response
-* Class III  
+* **Class III**\
 Acute fulminating myasthenia:
 	* Rapid progression
 	* Severe symptoms
 	* Respiratory crises
 	* Poor response to treatment
-* Class IV  
-Late severe myasthenia
-	* Identical to class III, however progresses over >2 years
+* **Class IV**\
+Late severe myasthenia. Symptoms identical to class III, however progresses over >2 years.
 
 
 ## Epidemiology and Risk Factors
 
+* Peak incidence in young adult women
+	* Can occur at any age
+	* Sex discrepancy differs over time
+* 8-10/1,000,000
+* No geographical variation
+* No racial variation
+
+
 ## Pathophysiology
+
+Disruption of muscle contraction by production of auto-antibodies to one of:
+
+* Nicotinic ACh receptor
+	* Located at the post-synaptic cleft of the NMJ
+	* Functionally antagonise ACh by blocking receptor binding
+	* May also ↓ ACh receptor number via changing folding of synaptic cleft
+	* Antibodies may have a thymic origin
+		* Thymus hyperplasia in 70% of patients
+		* Thymectomy 
+* Muscle-specific Kinase
+	* Results in ↓ number of ACh receptors
+	* Causes seronegative MG
+
+:::column-margin
+I have yet to find a satisfactory explanation for why this results in *fatiguable* weakness, rather than just weakness.
+:::
 
 ### Aetiology
 
 ## Clinical Manifestations
 
+Fatiguable weakness of the:
+
+:::column-margin
+Antibodies may be transferred across the placenta, so ~15% neonates from mothers with MG may demonstrate *transient* weakness.
+:::
+
+
+* Ocular muscles
+	* Ptosis and diplopia most common initial symptoms
+	* Usually asymmetrical
+* Limb and trunk weakness
+	* Usually symmetrical
+
 ## Diagnostic Approach and DDx
 
 ## Investigations
 
+Laboratory:
+
+* Blood
+	* AChR antibodies\
+	Highly specific for ACh receptor mediated disease, but not other forms.
+
+
+Other:
+
+:::column-margin
+The **Tensilon®** (edrophonium chloride) test has been largely deprecated due to poor specificity, but is included for posterity. Process involves:
+
+* Have resuscitation facilities available\
+Weakness and respiratory failure may result.
+* Atropine 0.6mg\
+For muscarinic side effect prevention.
+* Edrophonium 1mg\
+Acetylcholinesterase inhibitor.
+* Watch for improvement over 1-2 minutes
+* If no improvement, further 5mg of edrophonium
+* Evaluate for further improvement
+:::
+
+
+* Electromyography
+	* Repetitive nerve stimulation quantifies decreasing amplitude of response
+
+
 ## Management
 
-Include:
+**Specific therapy**:
 
-* Symptomatic treatment
-	* Anticholinesterases
-		* Pyridostigmine
-			* Onset within 15-30 minutes, with duration of 3-4 hours
-			* Usually commenced at 30mg PO, and then titrated to effect  
-			May be given IV, with 1mg IV ≃ 30mg PO.
-* Chronic immunomodulation
-	* Steroids
-	* Other immunosuppressants
-* Acute immunomodulation
-	* Plasmapheresis
-	* IVIg
+* Pharmacological
+	* Symptomatic treatment
+		* Anticholinesterases
+			* **Pyridostigmine**
+				* Onset within 15-30 minutes, with duration of 3-4 hours
+				* Usually commenced at 30mg PO QID, and then titrated to effect\
+				May be given IV, with 1mg IV ≃ 30mg PO.
+	* Chronic immunomodulation
+		* Corticosteroids\
+		May worsen symptoms in initial period.
+			* 50-100mg/day prednisolone initially
+			* 10-40mg/day for maintenance
+		* Other immunosuppressants
+			* Azathioprine
+			* Mycophenolate
+			* Ciclosporin
+			* Tacrolimus
+			* Rituximab
+	* Acute immunomodulation
+		* Plasmapheresis
+			* 5 exchanges of 3-4 L over 2 weeks
+			* Benefits last weeks
+		* IVIg
+			* 1-2g/kg over 1-2 days
+			* Occasional long term benefit
+* Procedural
+	* Thymectomy\
+		* Recommended for patients with thymic hyperplasia/thymoma
+		* Usually early onset MG
+* Physical
 
-### Medical
-
-### Surgical
-
-### Anaesthetic Considerations
-
->* Disease stability
-	* Elective surgery should occur when a patient requires minimal immunomodulation or glucocorticoids
-	* Surgery should occur in the morning  
-	Usually greatest muscular strength.
-> * Anticholinesterases should be continued
-> * **Stress dose steroids** may be required
-
-* A
-	* Bulbar symptoms  
-	Indicate risk of aspiration.
-* B
-	* Respiratory muscle function  
-	Consider PFTs to predict need for ICU admission.
-* D
-	* Conduct of anaesthesia  
-	Use **short-acting agents** to minimise respiratory depression and time taken for emergence.
-* E
-	* Muscle relaxants  
-	Avoid wherever possible.
-		* Highly sensitive to non-depolarising agents
-		* Avoid reversal with neostigmine where possible  
-		May precipitate cholinergic crisis.
-		* Resistant to suxamethonium
 
 ### Marginal and Ineffective Therapies
 
+
+## Anaesthetic Considerations
+
+:::gas
+Key considerations:
+
+* Disease stability
+	* Elective surgery should occur when a patient requires minimal immunomodulation or glucocorticoids
+* Surgery should occur in the morning\
+Usually greatest muscular strength.
+* Anticholinesterases should be continued
+* **Stress dose steroids** may be required
+* Consider **ICU admission** post-operatively
+:::
+
+* A
+	* Bulbar symptoms\
+	Indicate risk of aspiration.
+* B
+	* Respiratory muscle function\
+	Consider PFTs to predict need for ICU admission.
+* D
+	* Conduct of anaesthesia\
+	Use **short-acting agents** to minimise respiratory depression and time taken for emergence.
+* E
+	* Muscle relaxants\
+	Avoid wherever possible.
+		* Highly sensitive to non-depolarising agents
+		* Avoid reversal with neostigmine where possible\
+		May precipitate cholinergic crisis.
+		* Resistant to suxamethonium
+
+
 ## Complications
+ 
+### Myasthenic Crisis
 
-Myasthenic crisis:
+Sudden weakness of respiratory or bulbar muscles be precipitated by physiological stress, including:
 
-* Sudden weakness of respiratory or bulbar muscles, which may require intubation
-* May be precipitated by physiological stress, including:
-	* Infection
-	* Medication adjustment
-	* Surgery
-* May require neurophysiological studies to differentiate it from cholinergic crisis
-* Requires neurologist involvement, and usually:
+:::column-margin
+Myasthenic crisis is **much** more common than cholinergic crisis.
+:::
+
+* Infection
+* Medication adjustment
+	* Antibiotics
+	* Antiarrhythmics
+	* Local or general anaesthetics
+	* Muscle relaxants
+* Surgery
+* Pregnancy
+
+Management:
+
+* Neurologist involvement
+* Aggressive acute immunotherapy
 	* ICU
 	* Plasmapheresis
-	* IVIG
+	* IVIg
+* May require intubation for aspiration prevention
 
-Cholinergic crisis:
 
-* Excess ACh due to excessive cholinesterase inhibition
-* Presents as weakness and signs of parasympathetic stimulation from excess ACh, i.e.
+### Cholinergic Crisis
+
+Sudden weakness due to *excess* ACh due to cholinesterase inhibition. Results in:
+
+* Weakness
+* Muscarinic/parasympathetic overactivity, i.e.
 	* Salivation
 	* Lacrimation
 	* Urination

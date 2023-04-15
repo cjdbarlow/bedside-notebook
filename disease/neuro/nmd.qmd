@@ -12,35 +12,33 @@
 
 ### Types of Neuromuscular Disease
 
++-----------------+-------------------------------------------+-----------------------------------------------------+
+| Cause           | Congenital                                | Acquired                                            |
++=================+===========================================+=====================================================+
+| Pre-junctional  | Peripheral Neuropathies:                  | * Motor Neuron Disease (ALS, Lou Gehrig's Disease) |
+|                 |                                           | * MS                                                |
+|                 | * Charcot-Marie-Tooth                     | * GBS                                               |
+|                 | * Fredrichs ataxia                        | * Diabetic neuropathy                               |
++-----------------+-------------------------------------------+-----------------------------------------------------+
+| Junctional      |                                           | * MG                                                |
+|                 |                                           | * Eaton-Lambert Syndrome                            |
++-----------------+-------------------------------------------+-----------------------------------------------------+
+| Post-junctional | Dystrophicas:                             | * Inflammatory myopathies                           |
+|                 |                                           | * CIM/CIN                                           |
+|                 | * Duchenne                                |                                                     |
+|                 | * Becker's                                |                                                     |
+|                 |                                           |                                                     |
+|                 | Myotonias:                                |                                                     |
+|                 |                                           |                                                     |
+|                 | * Myotonic Dystrophy                      |                                                     |
+|                 | * Myotonia congenita                      |                                                     |
+|                 | * Hyper-, hypokalaemic periodic paralysis |                                                     |
+|                 | * Metabolic disorders                     |                                                     |
++-----------------+-------------------------------------------+-----------------------------------------------------+
 
-|Cause|Congenital|Acquired|
-|--|--|
-|Pre-junctional|Peripheral Neuropathies:<br>- Charcot-Marie-Tooth<br>- Fredrichs ataxia|- Motor neurone disease<br>- MS<br>- GBS<br>- Diabetic neuropathy|
-|Junctional||- MG<br>- Eaton-Lambert Syndome|
-|Post-junctional|Dystrophicas:<br>- Duchenne<br>- Becker's<br><br>Myotonias:<br>- Myotonic Dystrophy<br>- Myotonia congenita<br>- Hyper-, hypokalaemic periodic paralysis<br><br>Metabolic disorders<br><br>Mitochondrial disorders|- Inflammatory myopathies<br>- Critical illness myopathy|
 
 
-
-
-
-## Epidemiology and Risk Factors
-
-## Pathophysiology
-
-### Aetiology
-
-
-
-
-## Clinical Manifestations
-
-## Diagnostic Approach and DDx
-
-## Investigations
-
-## Management
-
-### Anaesthetic Considerations
+## Anaesthetic Considerations
 
 * A
 	* Aspiration risk  
@@ -95,7 +93,6 @@
 			* ↑ sensitivity to non-depolarising agents
 			* Aggravate rhabdomyolysis
 
-### Marginal and Ineffective Therapies
 
 ## Complications
 
@@ -138,13 +135,9 @@ Muscle spasm due to excessive Na^+^ influx or Cl^-^ efflux across a membrane. Co
 		* Antiarrhythmics
 
 
-## Prognosis
-
-## Key Studies
-
-
 ---
 
 ## References
 
-1. Marsh S, Ross N, Pittard A. Neuromuscular disorders and anaesthesia. Part 1: generic anaesthetic management. Contin Educ Anaesth Crit Care Pain. 2011;11(4):115-118. doi:10.1093/bjaceaccp/mkr020
+1. Marsh S, Ross N, Pittard A. [Neuromuscular disorders and anaesthesia. Part 1: generic anaesthetic management](https://academic.oup.com/bjaed/article/11/4/119/266998). Contin Educ Anaesth Crit Care Pain. 2011;11(4):115-118. 
+2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

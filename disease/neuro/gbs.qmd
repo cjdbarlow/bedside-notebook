@@ -1,16 +1,110 @@
 # Guillain-Barré Syndrome
 
+Heterogenous **autoimmune disease** of **peripheral nerves**, usually **following** an **infection** or other immune stimulus, that leads to **rapid onset ascending flaccid paralysis** and **sensory dysfunction**. Can be divided into:
+
+* "Classical" GBS:\
+Further divided by pathophysiological cause into:
+	* Demyelinating
+		* Acute Inflammatory Demyelinating Polyneuropathy\
+		Typically less severe than the axonal variants.
+	* Axonal
+		* Acute Motor Axonal Neuropathy
+		* Acute Motor and Sensory Axonal Neuropathy
+* **Miller-Fisher Syndrome**\
+Cranial nerve abnormalities dominate; typical features include:
+	* Ataxia
+	* Areflexia
+	* Opthalmoplegia
 
 ## Epidemiology and Risk Factors
 
 ## Pathophysiology
 
+Variable depending on the subtype of GBS. Postulated mechanisms include:
+
+* Antibody-mediated nerve injury
+	* Secondary to molecular mimicry between the microbial antigen and nerve surface aminoglycosides
+
 ### Aetiology
+
+Precipitating conditions include:
+
+* Infection
+	* Bacterial
+		* *Campylobacter jejuni*\
+		25-40%. Strong association with axonal GBS and Miller-Fisher Syndrome.
+		* *Haemophilius* spp.
+		* *Mycoplasma* spp.
+	* Viral
+		* CMV
+		* VZV
+		* EBV
+		* HIV
+		* Mumps
+		* Influenza A
+		* Parainfluenza
+		* Hepatitis E
+* Immune
+	* Vaccinations\
+	Difficult to disentangle from baseline risk. Case reports include:
+		* Influenza
+		* TB
+		* Tetanus
+		* Typhoid
+		
 
 ## Clinical Manifestations
 
+Prodromal illness:
+
+* Usually mild
+* Within the last 8 weeks
+	* Peak at 2 weeks prior
+
+
+Neuropathy:
+
+* Paraesthesiae
+	* ~50%
+	* Distal
+	* Usually mild
+* Motor
+	* Initial weakness, progressing to flaccid paralysis
+	* Hyporeflexia, progressing to areflexia
+* Cranial nerves
+	* ~45%
+	* Most common:
+		* Facial
+		* Glossopharyngeal
+		* Vagus
+* Autonomic dysfunction
+	* Common
+	* Significant cause of morbidity and mortality
+
 
 ## Diagnostic Approach and DDx
+
+Factors favouring GBS:
+
+* Progressive weakness that is:
+	* Bilateral
+	* In both arms and legs
+* Areflexia
+* Autonomic dysfunction
+* Pain
+* Protein in CSF
+
+
+Factors favouring alternative diagnosis:
+
+* Respiratory failure disproportionate to limb weakness
+* Febrile
+* Persistent bladder or bowel dysfunction
+* Spinal cord sensory level
+* Asymmetry of motor signs
+
+
+{{< include /includes/weakness.qmd >}}
 
 ## Investigations
 
@@ -30,18 +124,60 @@ Imaging:
 
 Other:
 
+* LP
+	* ↑ CSF protein >0.4g/dL\
+	In >90%.
+	* Low/normal CSF cell count
+* Nerve conduction studies
+	* Reinforce diagnosis
+	* Differentiate between demyelinating and axonal subtypes
+
 ## Management
 
-**Resuscitation**:\
+:::info
+Principles:
 
-ABC approach. Comment on team coordination and clinical priorities.
+* Early immunotherapy with either:
+	* Immunoglobulin
+	* Plasma exchange
+:::
+
+
 **Specific therapy**:
 
 * Pharmacological
+	* **Immunoglobulin**
+		* 2g/kg IV
+		* 10% relapse, with good response to further course
+		* **↓ Need** for mechanical **ventilation**
+		* **↓ Duration** of mechanical **ventilation**
+		* Equivalent to plasma exchange\
+		Preferred due to convenience.
 * Procedural
+	* **Plasma exchange**
+		* Within 7 days of onset
+			* 4 exchanges of 1-2 volumes over 1-2 weeks
+			* Albumin preferable to FFP
 * Physical
 
 **Supportive care**:
+
+:::column-margin
+Avoid suxamethonium for intubation, as with other neuromuscular disorders.
+:::
+
+* A
+	* Intubation\
+	If bulbar dysfunction.
+* B
+	* Chest physiotherapy
+	* Respiratory function (VC) monitoring with PFTs\
+	More reliable than blood gases.
+	* Mechanical ventilation
+		* Early tracheostomy as long duration of ventilation is expected
+* G
+	* Feeding
+		* PN only if EN precluded by paralytic ileus
 
 **Disposition**:
 
@@ -50,11 +186,58 @@ ABC approach. Comment on team coordination and clinical priorities.
 
 ### Marginal and Ineffective Therapies
 
+* Steroids\
+Both low and high-dose corticosteroids have no effect on outcome, and may slow recovery.
+
 ## Anaesthetic Considerations
 
 ## Complications
 
+* Death\
+5-8%.
+* A
+	* Aspiration
+* B
+	* Respiratory failure\
+	30% require ventilation.
+* C
+	* Haemodynamic instability
+		* Orthostatic hypotension
+		* Paroxysmal hypertension
+		* Sinus tachycardia
+		* Bradycardia
+		* Ventricular arrhythmias
+* F
+	* Urinary retention
+* G
+	* Paralytic ileus
+
 ## Prognosis
+
+Usual course:
+
+* Nadir at 2-4 weeks
+* Resolution over weeks-months
+	* 70% functional independence at 1 year\
+	Further improvement seen for 18 months/2 years.
+	* 20% minor limitations
+
+
+Good prognostic factors include:
+
+* Early treatment
+* Early avoidance of complications
+
+
+Poor prognostic factors:
+
+* Age >60
+* Rapid progression\
+Quadriparesis in <7 days.
+* Mechanical ventilation
+* Diarrheal illness prodrome
+
+
 
 ## Key Studies
 
@@ -62,3 +245,5 @@ ABC approach. Comment on team coordination and clinical priorities.
 ---
 
 ## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

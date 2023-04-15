@@ -621,13 +621,12 @@ book:
           chapters:
             - disease/neuro/cpsp.qmd
             - disease/neuro/crps.qmd
-            - disease/neuro/gbs.qmd
-        - part: "Neuromuscular Junction"
-          chapters:
-            - disease/neuro/mg.qmd
         - part: "Neuromuscular"
           chapters:
             - disease/neuro/nmd.qmd
+            - disease/neuro/mnd.qmd
+            - disease/neuro/gbs.qmd
+            - disease/neuro/mg.qmd
             - disease/neuro/dmd.qmd
             - disease/neuro/bmd.qmd
             - disease/neuro/myotonic.qmd

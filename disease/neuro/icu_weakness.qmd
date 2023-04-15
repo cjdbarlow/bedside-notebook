@@ -93,6 +93,8 @@ Widely present but poor correlation with dysfunction.
 
 ## Diagnostic Approach and DDx
 
+{{< include /includes/weakness.qmd >}}
+
 ## Investigations
 
 Bedside:
@@ -104,7 +106,7 @@ Imaging:
 Other:
 
 * Electrophysiology
-	* Rarely poerformed in practice
+	* Rarely performed in practice
 	* Required for diagnosis of peripheral nerve injury
 
 ## Management
