@@ -1,0 +1,209 @@
+# Antibiotics
+
+Principles of effective antibiotic use:
+
+* Antibiotics:
+	* Give as soon as practicable
+	* Give an adequate dose
+	* Give an appropriate course
+	* Use empirical therapy until cultures return
+	* Narrow spectrum once gram stain and culture confirm type of agent
+* Blood cultures:
+	* Before antibiotics
+	* 2 sets
+	* Not from an existing line
+	* Do not have to be timed with fever
+* Consider:
+	* Infectious disease input
+	* Tissue penetration
+	* Clearance
+
+
+## Concepts
+
+Key concepts in antibiotic function:
+
+* Minimum Inhibitory Concentration
+* Kill characteristics
+* Post-antibiotic 
+* Treatment failure
+
+
+### Minimum Inhibitory Concentration
+
+The MIC is the **lowest concentration** of antimicrobial that will **inhibit visible growth** of an organism after **overnight incubation**. The MIC is:
+
+* Reported as μg/mL\
+A lower MIC indicates ↑ efficacy.
+* Easily performed\
+Usually automated, and therefore reproducible
+* Affected significantly by:
+	* Incubation time\
+	↑ MIC with ↑ time.
+	* Concentration of bacteria in sample\
+	↓ MIC with ↓ concentration.
+* Not a perfect surrogate for *in vivo* efficacy
+	* Other factors besides MIC determine antibiotic effect
+	* Antibiotic tissue concentration may be higher or lower than serum
+
+
+### Kill Characteristics
+
+Antibiotics can effect bacterial genocide in three broad ways:
+
+* **Time-dependent** killing\
+Efficacy dependent on the time that antibiotic concentration exceeds MIC, but not by how much.
+	* Occurs when the drug only works at a particular point in the bacterial life cycle\
+	e.g. Preparation for cell division.
+	* Threshold effect\
+		* Maximal effect reached at some proportion (usually 40-70%) of the dosing interval\
+		Drug concentrations do not have to be over MIC continuously.
+		* Affected by tissue penetration\
+		Time over MIC is important only in the tissue where the infection is, which may not be in blood (where we measure concentrations).
+	* Lend themselves to **dosing by infusion**
+		* Benefits (at steady-state) include:
+			* ↑ Time above MIC, which should ↑ efficacy and ↓ 
+			* ↓ Peak concentration, which should ↓ toxicity
+			* ↓ Nursing workload
+		* Disadvantages include:
+			* ↓ Concentration gradient driving diffusion into tissues
+			* Most drugs are not *pure* time-dependent killers, and ↑ concentration still results in some ↑ efficacy
+			* MIC is not known in early stages of treatment
+			* Consumes a lumen continuously
+		* May ↓ ventilator days without clear evidence of mortality benefit, with greatest effect seen in the critically ill
+	* Examples include:
+		* β-lactam
+		* Carbapenems
+		* Linezolid
+* **Concentration-dependent** killing\
+Efficacy dependent on how much antibiotic concentration exceeds MIC, but not by how long for.
+	* Occurs when drug affects some critical component of bacterial infrastructure\
+	* Greater effect with greater dose
+	* Examples include:
+		* Aminoglycosides
+		* Metronidazole
+		* Fluoroquinolones
+* **Time and concentration-dependent** killing\
+Efficacy dependent on both time over MIC and concentration above MIC.
+	* Occurs for drugs which prevent synthesis of components for cell division
+		* ↑ Concentration results in ↑ inhibition of relevant components
+		* ↑ Time results in affecting a greater number of bacteria\
+		As they won't all divide at the same time.
+	* Examples include:
+		* Fluoroquinolones
+		* Azithromycin
+		* Glycopeptides
+
+
+### Post-Antibiotic Effect
+
+The post-antibiotic effect describes bacterial killing that persists after the concentration falls below MIC. Post-antibiotic effects:
+
+* Are an idiosyncratic feature of some agents\
+Usually where the drug binds strongly to some part of the bacteria.
+* Are **strongest** generally **for** drugs with **concentration-dependent** killing
+* Have moderate strength for **time-dependent** killing
+
+### Treatment Failure
+
+Antibiotic treatment failure may occur due to:
+
+* Wrong bug
+	* Not susceptible
+		* Viral
+		* Fungal
+		* Parasitic
+	* Not infection
+* Wrong drug
+	* Resistant organism
+	* Poor penetration to infected tissue
+	* Bacteriostatic antagonism\
+	Administration of a bacteriostatic antibiotic may ↓ efficacy of a bacteriocidal antibiotic, as cell division cannot be interrupted if it does not occur.
+* Wrong dose
+	* Too small
+	* Too infrequent
+	* Too short
+* Wrong route
+	* Inadequate oral absorption
+* Source control
+	* Incomplete surgical resection
+	* Inadequate sputum clearance
+
+
+## Dose Adjustment
+
++---------------------------+------------------------------------+------------------------------------------------+
+| Characteristic            | Increased With                     | Decreased With                                 |
++===========================+====================================+================================================+
+| Peak Target Concentration | * ↓ Protein binding\               | * ↓ Gut absorption                             |
+|                           | ↑ Free drug fraction.              | * ↑ V~D~\                                      |
+|                           | * ↑ Penetration into target tissue | Oedema ↑ distribution of water-soluble agents. |
+|                           |                                    | * ↓ Penetration                                |
++---------------------------+------------------------------------+------------------------------------------------+
+| Half-life                 | * Renal dysfunction                | * RRT                                          |
+|                           | * Hepatic dysfunction\             | * Enzyme induction                             |
+|                           | Particularly sepsis.               |                                                |
+|                           | * ↓ Metabolism                     |                                                |
++---------------------------+------------------------------------+------------------------------------------------+
+
+: Pharmacokinetic Changes in Critical Illness
+
+### Renal Failure
+
+Adjusting antibiotic administration in renal failure is to **avoid toxicity** as efficacy is unaffected by impaired renal clearance. Drugs may require:
+
+:::column-margin
+In general:
+
+* **Interval**-adjustment:
+	* Aminoglycosides
+	* Fluoroquinolones
+	* Glycopeptides
+* **Dose *or* Interval** adjustment:\
+For drugs not particularly toxic in overdose either can be chosen, although interval adjustment is cheaper.
+	* Beta-lactams
+	* Carbapenems
+:::
+
+* **Dose adjusted**
+	* Best for *both*:
+		* Time-dependent *killing*\
+		Time above MIC determines efficacy, but amount above MIC doesn't.
+		* Concentration-dependent *toxicity*\
+	* Maintains time above MIC, with ↓ dosing to avoid progressively ↑ drug levels when amount given exceeds amount cleared
+* **Interval adjusted**
+	* Best for *both*:
+		* Concentration-dependent *killing*\
+		Peak concentration should be 8-10 times MIC, but the time above MIC doesn't effect efficacy.
+		* Concentration-dependent *toxicity*
+	* Maintains the high peak concentration required for killing, but minimises concentration at other times
+
+
+### Renal Replacement Therapy
+
+Dose adjustment on RRT is similar to renal failure. In general, drugs can require:
+
+* **No adjustment**\
+Administration is unchanged due to:
+	* Small free drug fraction
+		* High V~D~
+		* Highly protein bound
+	* Hepatically cleared
+	* Cleared by filtration\
+	CRRT replicates glomerular filtration reasonably well, but not other forms of renal clearance.
+* **Interval adjustment**\
+	* Actively transported drugs\
+	Renal clearance by tubular secretion is not replicated by CRRT, and so interval adjustment needed to ↓ toxicity.
+* **Dose adjustment**\
+	* Renally reabsorbed drugs\
+	Drugs that are usually reabsorbed by the tubule undergo **increased clearance** in the kidney, and therefore require ***↑ dose*** on RRT.
+
+
+## Key Studies
+
+* BLISS
+* BLING II
+
+---
+
+## References

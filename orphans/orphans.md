@@ -1761,3 +1761,16 @@ Classic levels of evidence:
 * Case series
 * Case reports
 * Expert opinion
+
+
+## Antibiotics
+> Need to add:
+
+Key characteristics:
+
+* Mechanism of action
+	* Time or concentration dependent
+* Clearance
+	* Renal
+		* Renal reabsorption
+	* Hepatic

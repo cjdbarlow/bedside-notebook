@@ -1,6 +1,19 @@
 # Sepsis
 
-A life-threatening organ dysfunction due to a dysregulated host response to infection.
+A **life-threatening organ dysfunction** due to a **dysregulated** host **response to infection**, where:
+
+:::column-margin
+The definition of sepsis has remained necessarily vague, as the clinical diagnosis of sepsis is based on a constellation of non-specific features. Drawing a line which neatly includes the septic and excludes other illnesses is therefore not currently possible.\
+\
+This is the [Sepsis-3](https://jamanetwork.com/journals/jama/fullarticle/2492881) definition, which moved the definitional goalposts from trying to pin down "sepsis" to trying to identify patients with clinically suspected infection who had a high mortality.
+:::
+
+* **Organ dysfunction**\
+⩾2 ↑ in SOFA score.
+* **Septic shock**\
+Sepsis, with:
+	* ↓ BP requiring vasopressors
+	* Lactate >2mmol/L
 
 
 ## Epidemiology and Risk Factors
@@ -17,24 +30,215 @@ Host response is highly heterogenous, and is affected by:
 
 ## Pathophysiology
 
+Vasodilation occurs via several mechanisms:
+
+* Acidosis
+	* K^+^ efflux leading to membrane hyperpolarisation\
+	↓ Ca^2+^ entry into vascular smooth muscle.
+	* Catecholamine resistance
+* ↑ NO production\
+Induced by cytokines and bacterial endotoxin.
+* Adrenal suppression
+* Endovenous vasopressin suppression
+
+
+Septic cardiomyopathy:
+
+* ↓ Diastolic function
+
 ### Aetiology
 
 ## Clinical Manifestations
 
+Heterogenous and non-specific features:
 
-### History
-
-### Examination
+* Tachycardia
+* Temperature
+	* 35% normothermic
+	* 10% hypothermic
+	* 55% hyperthermic\
+		* Often fluctuant
+		* Less likely to be present in the:
+			* Elderly
+			* Immunosuppressed
+			* Malnourished
 
 ## Diagnostic Approach and DDx
 
+Diagnosis of sepsis is difficult.
+
+* Clinical
+	* Signs are non-specific
+		* Changes with local infection
+		* May not be present in:
+			* Elderly
+			* Immunocompromised
+	* Findings may reflect other forms of shock
+* Laboratory
+	* Markers are non-specific
+	* Microbiological samples:
+		* Take significant time to process\
+		Requires treatment to be initiated in advance of knowing.
+		* Must distinguish infection from colonisation\
+		Requires clinical interpretation.
+
 ## Investigations
 
+Laboratory:
+	* Blood
+		* CRP
+			* Non-specific marker of inflammation
+				* May be more specific for *Strep. pneumonia* infection\
+				This may also better identify patients in whom steroid would be appropriate. 
+			* Rises 4-6 hours after onset of infection, doubles ~8 hourly
+			* Correlates with severity of infection
+				* Rapid ↓ indicates response
+		* Procalcitonin
+			* Relatively more specific marker of inflammation\
+			Elevated in:
+				* Bacterial infection\
+				Produced in response to bacterial endotoxin.
+					* Levels rise in 6-8 hours\
+					Prior to cultures flagging positive.
+					* Not ↑ in viral or fungal infections
+					* Not ↑ in local bacterial infection without a systemic response
+				* Burns
+				* TLS
+				* Major surgery
+				* Multi-organ failure
+				* ESRD\
+				Renally cleared.
+			* No better than clinical judgment in discriminating infectious vs. non-infectious causes
+			* Expensive, requires serial measurements
+
+
 ## Management
+
+:::info
+Principles are:
+
+* Early antibiotics (<1 hour) with blood cultures (2-3 sets) prior
+* Determine haemodynamic goals and target with
+	* Fluids
+	* Vasopressors
+:::
+
+**Resuscitation**:\
+
+* C
+	* **Target MAP** >65mmHg\
+	Consider ↑ (e.g. MAP >70mmHg) if renal failure, poorly controlled hypertension.
+	* **Fluid resuscitation**\
+	10-20mL/kg up to 30mL/kg total.
+		* Crystalloid most effective
+			* Albumin equivalent outcomes with potentially ↓ total volume delivered, and haemodynamic goals are achieved move quickly
+			* Starch harmful
+		* Use dynamic measures of fluid responsiveness to assess need for more therapy
+			* Passive leg raise
+			* Pulse pressure variation
+	* **Arterial line**\
+	If vasopressors.
+	* **Vasopressors**
+		* Noradrenaline 1^st^ line
+			* ↑ Preload due to *veno*constriction
+			* ↑ SVR due to vasoconstriction
+			* Maintain or ↑ CO\
+			B~1~ effects ↑ CO, compensating for ↑ in afterload.
+		* Consider adrenaline as 2^nd^ line
+		* Vasopressin as 3^rd^ line
+		* End-of-the line vasopressor options without much supporting evidence include:
+			* Methylene blue\
+			1mg/kg bolus over ~30 minutes.
+			* Hydroxycobalamin\
+			5g.
+			* Terlipressin
+			* Angiotensin II
+	* **Assess CO**
+		* **Inotropic support** if:
+			* Adequately volume resuscitated
+			* Evidence of ↓ perfusion:
+				* ↑ Lactate
+				* ↓ Central capillary refill
+				* Echocardiography
+			* Pre-existing LV dysfunction
+		* VA ECMO\
+		Appropriate in selected patients with myocardial dysfunction, acknowledging high mortality of this cohort.
+
+
+:::column-margin
+Early use of noradrenaline is associated with ↓ mortality.
+:::
+
+:::column-margin
+**Average** total **IV fluid** resuscitation at:
+
+* **6** hours is **~4.2L** ±**1.4L**
+* **72** hours is **~6.8L** ±**3L**
+:::
+
+**Specific therapy**:
+
+* Pharmacological
+	* **Antibiotics**
+		* Empirical\
+		Tailed to likely sources and resistance patterns.
+	* Toxic Shock cover\
+	If treating TSS, or empirical if clinically likely.
+		* Clindamycin
+		* IV Ig
+* Procedural
+	* Source control
+* Physical
+
+**Supportive care**:
+
+* F
+	* pH >7.15\
+	↑ Cardiac sensitivity to catecholamines.
+		* Sodium bicarbonate
+		* THAM
+	* iCa >1.1mmol/L\
+	Very low supporting evidence.
+* H
+	* Hb >70
+
+**Disposition**:
+
+**Preventative**:
 
 ### Anaesthetic Considerations
 
 ### Marginal and Ineffective Therapies
+
+Drugs:
+
+* **Corticosteroids**
+	* Controversial
+	* Appropriate for patients:
+		* With another indication for steroids
+		* Sepsis with CAP
+	* *May* be appropriate in septic patients:
+		* Refractory to vasopressors
+		* Otherwise high risk
+	* Unlikely to change mortality or outcome
+	* Will spare vasopressors
+* β-blockade
+	* Esmolol probably most well studied
+		* Very high control group mortality
+		* May reflect reversal of harmful exogenous β-agonists 
+Activated protein C
+
+Resuscitation targets:
+
+* CVP targeting
+* ScvO~2~ targeting
+* PAC targeting\
+Use of PAC does not improve and may worsen outcome.
+
+
+Other:
+
+* High-dose dialysis
 
 ## Complications
 
@@ -44,7 +248,6 @@ Complications of sepsis include:
 	* Septic encephalopathy\
 	Impaired mental function in the setting of extracranial infection.
 		* 10-80%
-		* 
 * F
 	* AKI
 
@@ -58,12 +261,12 @@ Epidemiology of septic AKI:
 
 Management:
 
-* Preventative  
+* Preventative\
 Most effective method:
-	* Low dose vasopressors  
+	* Low dose vasopressors\
 	Achieving a **MAP >80mmHg** may reduce requirement for RRT.
 	* Note that excessive**IV fluid is *in*effective**
-		* May worsen oedema  
+		* May worsen oedema\
 		Aim euvolaemia.
 		* Septic AKI is **not a low-flow state**
 		* Balanced solutions are beneficial
@@ -75,15 +278,14 @@ Most effective method:
 
 ## Key Studies
 
-Early Goal Directed Therapy studies:
-
-* ARISE
-* ProCESS
-* ProMISE
-
-
 Fluid studies:
 
+* FEAST
+* SOAP
+* SAFE
+* ALBIOS
+* CHEST
+* VAAST
 * [CLOVERS](https://www.nejm.org/doi/full/10.1056/NEJMoa2212663)
 	* ~12,000 patients with sepsis and hypotension after 1L IVT
 		* Within 24 hours of hospital admission
@@ -98,10 +300,60 @@ Fluid studies:
 	* ↑ ICU admission in restrictive group
 	* Strong safety profile of peripheral vasopressors
 
+
+Early Goal Directed Therapy studies:
+
+:::column-margin
+Early Goal-Directed Therapy is (?was) a protocolised pathway for sepsis management, targeting specific haemodynamic goals in order to maximise DO~2~ and thus restore cellular oxygen balance:
+
+* CVP 8-12mmHg
+* MAP 65-90mmHg
+* UO >0.5mL/kg/hr
+* ScvO~2~ >70%
+* Haematocrit >30%
+
+The comfort of this physiological approach did not survive the crucible of real-word RCT evaluation, and EGDT has been subsequently dismissed. However, the principles of aggressive, goal-directed (but not CVP and ScvO~2~-directed) therapy live on.
+:::
+
+* Rivers et al.
+	* Single-centre, non-randomised, non-blinded trial
+	* High control group mortality (46.5%)
+	* Use of ScvO~2~ target was not based on prior evidence
+	* Effect may be due to presence of experience clinician at the bedside directing therapy
+* ARISE
+* ProCESS
+* ProMISE
+
+
+Steroid studies:
+
+:::column-margin
+The rationale for steroids is that they *may*:
+
+* C
+	* Limit ↓ inotropy due to bacterial endotoxin
+	* ↑ Catecholamine function
+	* ↓ NO synthetase production
+* I
+	* Correct adrenal insufficiency
+	* Dampen hyperactive immune response
+:::
+
+* CORTICUS
+* ADRENAL
+* APROCCHSS
+
+Other:
+
+* SUPPORT
+* TRISS
+* Morelli JAMA 2013
+
 ---
 
 ## References
 
 1. Bellomo R, Kellum JA, Ronco C et al. Acute kidney injury in sepsis. Intensive Care Med. 2017 Jun;43(6):816-828. doi: 10.1007/s00134-017-4755-7. Epub 2017 Mar 31.
 2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
-3. [Early Restrictive or Liberal Fluid Management for Sepsis-Induced Hypotension](https://www.nejm.org/doi/full/10.1056/NEJMoa2212663). New England Journal of Medicine. 2023;388(6):499-510. 
+3. [Early Restrictive or Liberal Fluid Management for Sepsis-Induced Hypotension](https://www.nejm.org/doi/full/10.1056/NEJMoa2212663). New England Journal of Medicine. 2023;388(6):499-510.
+4. Singer, M., Deutschman, C.S., Seymour, C.W., Shankar-Hari, M., Annane, D., Bauer, M., Bellomo, R., Bernard, G.R., Chiche, J.-D., Coopersmith, C.M., Hotchkiss, R.S., Levy, M.M., Marshall, J.C., Martin, G.S., Opal, S.M., Rubenfeld, G.D., van der Poll, T., Vincent, J.-L., Angus, D.C., 2016. [The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3)](https://jamanetwork.com/journals/jama/fullarticle/2492881). JAMA 315, 801.

@@ -179,10 +179,10 @@ book:
                 - management/cvs/lvad.qmd
             - part: "Medications"
               chapters:
-                - management/cvs/ino.qmd
+                - management/cvs/nitric.qmd
                 - management/cvs/rv.qmd
-                  # Inotropes
-                  # Vasoconstrictors
+                - management/cvs/pressors.qmd
+                - management/cvs/inotropes.qmd
                   # Vasodilators
                   # Fluids
         - part: "Neurology"
@@ -233,6 +233,15 @@ book:
         - part: "Trauma"
           chapters:
           - management/trauma/damage_control.qmd
+        - part: "Infective"
+          chapters:
+            - part: "Organisms"
+              chapters:
+              - management/infective/escappm.qmd
+            - part: "Antimicrobials"
+              chapters:
+              - management/infective/antibiotics.qmd
+              - management/infective/antifungals.qmd
     - part: <hr>
     ## Anaesthesia
     - part: "Anaesthesia"

@@ -1,0 +1,41 @@
+# Vasopressors
+
+
+## Indications
+
+## Contraindications
+
+
++---------------+---------------+--------------------------------+--------------------------------------+
+| Drug          | Noradrenaline | Vasopressin                    | Methylene Blue                       |
++===============+===============+================================+======================================+
+| Overview      |               | Endogenous nonapeptide\        |                                      |
+|               |               | cts on V~1~ and V~2~ receptors |                                      |
++---------------+---------------+--------------------------------+--------------------------------------+
+|               |               | * Not a catecholamine\         | * Mesenteric vasoconstriction        |
+|               |               | Works synergistically.         | * Coronary vasoconstriction\         |
+|               |               | * Not affected by acidosis     | May lead to ischaemia.               |
+|               |               | * Not pro-arrhythmic           | * Possibly ↑ microcirculatory change |
+|               |               | * Fluid retention              | * Hyponatraemia                      |
++---------------+---------------+--------------------------------+--------------------------------------+
+| Disadvantages |               |                                | * MAO Inhibition                     |
++---------------+---------------+--------------------------------+--------------------------------------+
+
+
+## Comparison
+
+## Equipment
+
+## Technique
+
+## Complications
+
+## Key Studies
+
+* VAAST
+* VANISH
+
+
+---
+
+## References

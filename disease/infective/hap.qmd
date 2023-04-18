@@ -66,7 +66,7 @@ Radiology:
 * A
     * Intubation may be required
 * B
-    * Supplmental oxygen
+    * Supplemental oxygen
 * C
     * Haemodynamic support if concurrent sepsis 
 
@@ -78,7 +78,7 @@ Radiology:
 Risk factors for MDR include:
 
 * Disease
-    * Immunosupression
+    * Immunosuppression
     * Bronchiectasis
     * Septic shock
     * ARDS
@@ -99,7 +99,7 @@ Risk factors for MDR include:
         * Wrong drug\
         Ensure sensitivity of organism to the antibiotic beingused.
         * Wrong dose\
-        Appropirate for patient weight.
+        Appropriate for patient weight.
         * Sequestration\
         Abscess cavity or similar
         * Patient factors
@@ -160,7 +160,7 @@ Collection of pus in the pleural space, usually evolving from a parapneumonic ef
     * Percutaneous\
     First-line therapy, but difficult to effectively drain extensively loculated collections.
     * Surgical\
-    Open or VATS drainage is the most effetive tool.
+    Open or VATS drainage is the most effective tool.
 
 ## Prognosis
 

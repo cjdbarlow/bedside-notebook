@@ -131,6 +131,7 @@ MALT: Mucosa-Associated Lymphoid Tissue
 MAP: Mean Arterial Pressure
 MCA: Middle Cerebral Artery
 MDR: Multidrug Resistant Organism
+MIC: Minimum Inhibitory Concentration
 MLAC: Minimum Local Anaesthetic Concentration
 MMCAS: Malignant Middle Cerebral Artery Infarction Syndrome
 MODS: Multiorgan Dysfunction Syndrome
@@ -205,6 +206,7 @@ SDH: Subdural Haemorrhage
 SIRS: Systemic Inflammatory Response Syndrome
 SLE: Systemic Lupus Erythematosus
 SLED: Sustained Low-Efficiency Dialysis
+SOFA: Sequential Organ Failure Assessment
 SSEP: Somatosensory Evoked Potential
 STP: Standard Temperature and Pressure (0°C at 100kPa)
 STE: ST segment elevation

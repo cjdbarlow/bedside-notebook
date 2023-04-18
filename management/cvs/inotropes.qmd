@@ -1,0 +1,65 @@
+# Inotropes
+
+
+## Indications
+
+## Contraindications
+
+
+## Comparison
+
++---------------+----------------------------------------+-----------------------------------+
+| Drug          | Adrenaline                             | Dobutamine                        |
++===============+========================================+===================================+
+| Overview      | Endogenous catecholamine               | Synthetic catecholamine           |
+|               |                                        |                                   |
+|               | * Mixed non-selective α and β activity | * Predominantly β~1~              |
+|               |                                        | * Nonspecific α effects at ↑ dose |
++---------------+----------------------------------------+-----------------------------------+
+| Advantages    | * ↑ Inotropy                           | * ↑ Inotropy                      |
+|               | * ↑ SVR                                | * ↓ SVR                           |
++---------------+----------------------------------------+-----------------------------------+
+| Disadvantages | * ↑ Myocardial O~2~ consumption        | * ↓ SVR\                          |
+|               | * Type B lactataemia                   | Hypotension.                      |
+|               | * Arrhythmogenic                       | * ↑ Myocardial O~2~ consumption   |
+|               |                                        | * Arrhythmogenic                  |
++---------------+----------------------------------------+-----------------------------------+
+
+: Pure Inotropes
+
+
++---------------+----------------------------------+---------------------------+
+| Drug          | Milrinone                        | Levosimendan              |
++===============+==================================+===========================+
+| Overview      |                                  |                           |
+|               |                                  |                           |
+|               |                                  |                           |
+|               |                                  |                           |
++---------------+----------------------------------+---------------------------+
+| Advantages    | * ↑ Inotropy                     | * ↑ Inotropy              |
+|               | * ↓ SVR                          | * ↓ SVR                   |
+|               |                                  | * Long duration of action |
++---------------+----------------------------------+---------------------------+
+| Disadvantages | * ↑ Arrhythmia                   | * ↓ SVR                   |
+|               | * ↓ SVR                          | * Expensive               |
+|               | * Requires loading               |                           |
+|               | * Longer t~1/2~ ↓ titrateability |                           |
++---------------+----------------------------------+---------------------------+
+
+: Inodilators
+
+## Equipment
+
+## Technique
+
+## Complications
+
+## Key Studies
+
+* LEOPARDS
+* Zangrillo et al 2015
+
+
+---
+
+## References

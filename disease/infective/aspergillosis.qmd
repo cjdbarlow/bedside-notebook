@@ -3,11 +3,30 @@
 
 ## Epidemiology and Risk Factors
 
-Major risk factors include:
+Major risk factors are surrogates of immunosuppression, and include:
 
+* Patient
+    * Extremes of age\
+    \<1 and >70.
+    * Malnutrition
 * Disease
     * COPD
+    * Diabetes
+    * Burns
+    * HIV
+    * Prolonged neutropenia
+    * Bone marrow transplant
+    * Complicated abdominal surgery
     * Decompensated CLD
+* Treatment factors
+    * Prolonged ICU stay
+    * Mechanical ventilation
+    * Broad spectrum antibiotics
+    * Indwelling catheters
+    * PN
+    * Steroid\
+    \>1mg/kg for >2 weeks.
+    * Chemotherapy
 * Environmental
     * Construction site exposure 
 
