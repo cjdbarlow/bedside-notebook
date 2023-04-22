@@ -1,0 +1,165 @@
+# Hyperosmolar Hyperglycaemic State {#sec-hhs}
+
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+Similar to DKA, there is an alteration in normal carbohydrate metabolism due to **insulin deficiency**. However, *unlike* DKA there is still *some* insulin, such that:
+
+* Hyperglycaemia still occurs
+	* Due to:
+		* ↑ Gluconeogenesis
+		* ↓ Peripheral uptake of glucose
+	* Leads to polyuria (and subsequently, polydipsia) due to the high filtered load
+		* Water deficit in HHS is about twice that of DKA
+* There is no ↑ in lipolysis\
+Therefore, there is no ↑ free fatty acid oxidation and so generally **no ketones**.
+
+### Aetiology
+
+## Clinical Manifestations
+
+Develops over **days**-weeks with:
+
+* Polyuria
+* Polydipsia
+* Weakness
+* Weight loss
+
+Other symptoms include:
+
+* Neurological symptoms
+More common in HHS than DKA, as it occurs secondary to a hyperosmolar state. Include:
+	* Confusion
+	* Seizures
+	* Coma
+
+
+## Diagnostic Approach and DDx
+
+Features include:
+
+* Hypovolaemia
+* Severe ↑ BSL (usually >30mmol/L)
+	* Without ketosis (<3mmol/L)
+	* Without acidosis (pH >7.3)
+* ↑ Osmoles (>320mOsmol/kg)
+
+
+## Investigations
+
+Bedside:
+
+* ABG
+	* ↑ BSL
+
+Laboratory:
+
+* Osmolality
+
+Imaging:
+
+Other:
+
+## Management
+
+:::info
+Goals:
+
+* Fluid resuscitation\
+Restore circulating volume and correct osmolarity.
+* Insulin administration
+* Correct electrolytes
+* Treat precipitant
+:::
+
+**Resuscitation**:\
+
+* C
+	* **Volume resuscitation**
+		* Balanced crystalloid preferred
+			* 0.9% saline ↑ hyperchloraemic acidosis
+			* Colloid may ↑ mortality
+		* Addition of 20-30mmol/L of potassium to crystalloid may be performed to replete potassium stores
+* D
+	* **Insulin**\
+	Fixed rate intravenous insulin infusion at **0.1 unit/kg/hr**.
+		* **Bolus** dose may precipitate hyperglycaemia and is **not recommended**
+		* * ↑ May be required if insulin resistant
+		* **↓** To 0.02-0.05 unit/kg/hr **when BSL** is **<15mmol/L** or fluid resuscitation is complete
+* F
+	* Electrolyte correction
+		* **Potassium**
+			* Begin correction of total body deficit once serum potassium is <5.5mmol/L
+			* Consider **only initiating insulin** when **potassium** is **>3.3mmol/L** to avoid precipitating severe hypokalaemia
+
+
+**Supportive care**:
+
+* F
+	* Correction of free water deficit
+	* Magnesium\
+	Often deplete, PRN replenishment is sufficient.
+
+:::column-margin
+Free water deficit can be calculated by:
+
+$$Free \ Water \ Deficit = 0.6 \times Weight \times {Na_{serum} - 1 \over 140}$$
+
+Where:
+
+* Free water deficit is in litres
+* Weight is in kg
+* Serum sodium is in mmol/L
+:::
+
+
+**Disposition**:
+
+* ICU admission for:
+	* Neurological symptoms
+		* GCS <12
+	* Severe DKA
+		* pH <7.0
+		* HCO~3~^-^ <5mmol/L
+		* AG >16
+	* Severe electrolyte derangements
+
+**Preventative**:
+
+* Appropriate insulin administration
+	* Baseline maintenance
+	* ↑ Dosing in times of physiologic stress
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+* Aspiration
+* D
+	* ↓ BSL
+	* CVA
+	* Cerebral oedema
+* F
+	* ↓ K^+^
+* H
+	* DVT
+
+:::column-margin
+Hypoglycaemia and hypokalaemia are the most common serious complication, due to excessive insulin replacement with inadequate potassium supplementation.
+:::
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

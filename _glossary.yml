@@ -27,6 +27,7 @@ BNP: Brain Natriuretic Peptide
 BTPS: Body Temperature and Pressure, Standard
 CAC: Citric Acid Cycle
 CBF: Cerebral Blood Flow
+CD: Collecting Duct
 CIM: Critical Illness Myopathy
 CIN: Critical Illness Neuropathy
 CMRO2: Cerebral Metabolic Rate for Oxygen
@@ -40,7 +41,6 @@ CPP: Cerebral/Coronary Perfusion Pressure
 CRRT: Continuous Renal Replacement Therapy
 CSF: Cerebrospinal Fluid
 CSW: Cerebral Salt Wasting
-CD: Collecting Duct
 CVC: Central Venous Catheter
 CVP: Central Venous Pressure
 DAPT: Dual Anti-Platelet Therapy
@@ -50,8 +50,9 @@ DCC: Direct Current Cardioversion
 DCD: Donation after Circulatory Death
 DCI: Delayed Cerebral Ischaemia
 DCT: Distal Convoluted Tubule
-DIC: Disseminated Intravascular Coagulopathy
 DI: Diabetes Insipidus
+DIC: Disseminated Intravascular Coagulopathy
+DKA: Diabetic Ketoacidosis
 DNA: Deoxyribonucleic Acid
 DOAC: Direct Oral Anticoagulant
 DOP: D-type (δ) opioid receptor
@@ -59,6 +60,7 @@ DRG: Dorsal Respiratory Group
 ECF: Extracellular Fluid
 ECT: Electron Transport Chain
 EDH: Extradural Haemorrhage
+EDKA: Euglycaemic Ketoacidosis
 EDP: End-Diastolic Pressure
 EDV: End-Diastolic Volume
 EEG: Electroencephalogram
@@ -106,8 +108,8 @@ iNO: Inhaled Nitric Oxide
 IOP: Intraocular Pressure
 iPEEP: Intrinsic Positive End-Expiratory Pressure
 IRIS: Immune Reconstitution Inflammatory Syndrome
-IVDU: Intravenous Drug Use(r)
 IVC: Inferior Vena Cava
+IVDU: Intravenous Drug Use(r)
 IVH: Intraventricular Haemorrhage
 IVS: Interventricular Septum
 KOP: K-type (κ) opioid receptor
@@ -120,9 +122,9 @@ LMWH: Low Molecular Weight Heparin
 LoS: Length of Stay
 LP: Lumbar Puncture
 LSW: Last Seen Well
+LV: Left Ventricle
 LVEDP: Left Ventricular End-Diastolic Pressure
 LVEDV: Left Ventricular End-Diastolic Volume
-LV: Left Ventricle
 LVOT: Left Ventricular Outflow Tract
 LVOTO: Left Ventricular Outflow Tract Obstruction
 MAB: Monocloncal Antibody
@@ -154,8 +156,8 @@ NMB: Neuromuscular Blocker
 NMBD: Neuromuscular Blocking Drug
 NMJ: Neuromuscular Junction
 NNT: Number Needed to Treat
-NOP: N-type Opioid Receptor
 NOMI: Non-Occlusive Mesenteric Ischaemia
+NOP: N-type Opioid Receptor
 NSAID: Non-Steroidal Anti-Inflammatory Drug
 NSAIDs: Non-Steroidal Anti-Inflammatory Drugs
 NTS: Nucleus of the Tractus Solitarius
@@ -189,10 +191,10 @@ RAP: Right Atrial Pressure
 RCA: Right Coronary Artery
 RNA: Ribonucleic Acid
 RPA: Right Pulmonary Artery
-RTA: Renal Tubular Acidosis
 RR: Respiratory Rate
 RRP: Relative Refractory Period
 RRT: Renal Replacement Therapy
+RTA: Renal Tubular Acidosis
 RV: Right Ventricle
 RVEDP: Right Ventricular End-Diastolic Pressure
 RVEDP: Right Ventricular End-Diastolic Volume
@@ -208,13 +210,15 @@ SLE: Systemic Lupus Erythematosus
 SLED: Sustained Low-Efficiency Dialysis
 SOFA: Sequential Organ Failure Assessment
 SSEP: Somatosensory Evoked Potential
-STP: Standard Temperature and Pressure (0°C at 100kPa)
 STE: ST segment elevation
+STP: Standard Temperature and Pressure (0°C at 100kPa)
 SV: Stroke Volume
 SVC: Superior Vena Cava
 SVP: Saturated Vapour Pressure
 SVR: Systemic Vascular Resistance
 SVV: Stroke Volume Variation
+T1DM: Type 1 Diabetes Mellitus
+T2DM: Type 2 Diabetes Mellitus
 TB: Tuberculosis
 TBI: Traumatic Brain Injury
 TBW: Total Body Water

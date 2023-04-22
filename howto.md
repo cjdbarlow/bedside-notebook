@@ -29,3 +29,5 @@ quarto::quarto_preview
 		* ?where would TB meningitis go; under TB, separate neuro infection, under meningitis...
 
 * Dissolve ICU 'concepts' into a more appropriate category (or at least some of)
+
+* Add a "goals" div to replace the info box in each management section

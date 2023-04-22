@@ -1,7 +1,6 @@
-# Euglycaemic Diabetic Ketoacidosis
+# Euglycaemic Diabetic Ketoacidosis {#sec-edka}
 
-
-Development of DKA with near-normal BSL. Euglycaemic DKA:
+Diabetic ketoacidosis with near-normal BSL. Euglycaemic DKA:
 
 * Occurs due to altered balance of glucose production (in the liver) and intake (dietary), and renal glucose clearance
 * Typically caused by SGLT2 inhibitors, in the context of physiological stress  
@@ -145,4 +144,5 @@ Primarily supportive:
 ## References
 
 1. Thiruvenkatarajan V, Meyer EJ, Nanjappa N, Van Wijk RM, Jesudason D. Perioperative diabetic ketoacidosis associated with sodium-glucose co-transporter-2 inhibitors: a systematic review. British Journal of Anaesthesia. 2019 Jul;123(1):27–36. 
+2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
 

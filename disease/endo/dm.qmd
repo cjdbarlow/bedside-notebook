@@ -1,11 +1,14 @@
-# Diabetes Mellitus
+# Diabetes Mellitus {#sec-dm}
 
+:::column-margin
+This covers general considerations and perioperative management of diabetes. The diabetic crises are covered such as DKA, HHS, and euglycaemic DKA are covered at @sec-dka, @sec-hhs, and @sec-edka respectively.
+:::
 
 ## Epidemiology and Risk Factors
 
 Highly prevalent in first world countries:
 
-* 6-7% of population  
+* 6-7% of population, and rising
 Up to 30% of inpatients.
 
 
@@ -25,13 +28,13 @@ Up to 30% of inpatients.
 
 ## Management
 
-### Anaesthetic Considerations{#anaes}
+## Anaesthetic Considerations
 
 Diabetes is included in multiple scoring systems, and is an obvious risk factor for perioperative morbidity and mortality. Key outcomes include:
 
-* Mortality  
+* Mortality\
 50% ↑.
-* Respiratory complications  
+* Respiratory complications\
 2.4-fold ↑.
 * AKI
 * Infection
@@ -57,36 +60,36 @@ Perioperative risk is further ↑ in:
 Key Considerations:
 
 * C
-	* Cardiac risk assessment  
-	↑ risk of CAD and silent ischaemia.
+	* Cardiac risk assessment\
+	↑ Risk of CAD and silent ischaemia.
 * D
-	* Perioperative BSL  
-	Surgery and anaesthesia precipitate a neuroendocrine stress response and counterregulatory hormone release  
+	* Perioperative BSL\
+	Surgery and anaesthesia precipitate a neuroendocrine stress response and counterregulatory hormone release\
 		* Leads to insulin resistance, ↓ peripheral glucose utilisation, ↑ lipolysis and protein catabolism
 		* Significant attention must be given to perioperative management of blood glucose and hypoglycaemics
-	* **Insulin dependency**  
+	* **Insulin dependency**\
 	More important than aetiology.
-	* **Diabetic therapies**  
+	* **Diabetic therapies**\
 	Agents, dose, and timing.
 	* Presence of **diabetic complications**
-		* Microvascular  
-			* Autonomic neuropathy  
+		* Microvascular\
+			* Autonomic neuropathy\
 			↑ peri-induction instability of cardiovascular parameters.
 		* Macrovascular
-	* **Baseline** glucose **control**  
+	* **Baseline** glucose **control**\
 	Average, range, frequency of monitoring, and HbA1c.
-		* An **HbA1c should be performed** if not done in the last **3 months**  
+		* An **HbA1c should be performed** if not done in the last **3 months**\
 		Elevated HbA1c is predictive of postoperative adverse events.
-			* Recommended to cancel elective surgery if HbA1c >8.5%  
+			* Recommended to cancel elective surgery if HbA1c >8.5%\
 			However, no evidence suggesting that reducing it improves outcome
-	* **Hypoglycaemic episodes**  
+	* **Hypoglycaemic episodes**\
 	Frequency, timing, symptoms, severity.
 	* **Goals** of management
-		* Avoid hypo/hyperglycaemia  
+		* Avoid hypo/hyperglycaemia\
 		Aim BSL 6-10mmol/L.
 		* Prevent DKA/HHS
 		* Maintain euvolaemia
-		* Aim surgery as **first on a morning list**  
+		* Aim surgery as **first on a morning list**\
 		Minimises disruption to fasting.
 
 
@@ -95,9 +98,9 @@ Key Considerations:
 General Principles:
 
 * Place patient first on an AM list
-* Withhold PO hypoglycaemics  
+* Withhold PO hypoglycaemics\
 Varies depending on size of operation and drug.
-* Adjust insulin dosing  
+* Adjust insulin dosing\
 Depends on timing of list.
 
 
@@ -140,19 +143,20 @@ Management of insulin depends on:
 
 ### Perioperative Hypoglycaemia Management
 
-> * Check BSL Q2H whilst fasting
-> * Target BSL is ~7.5mmol/L, unless this is below the patients 'hypo' point
-
+:::tick
+* Check BSL Q2H whilst fasting
+* Target BSL is ~7.5mmol/L, unless this is below the patients 'hypo' point
+:::
 
 **If BSL** is:
 
-* ⩽4 mmol/L  
-	* Give glucose  
+* ⩽4 mmol/L\
+	* Give glucose\
 	IV preferable to maintain fasting status.
 	* Notify anaesthetist
 	* Recheck BSL every 15 minutes
-* ≥10 mmol/L and the patient is fasting  
-	* IDDM  
+* ≥10 mmol/L and the patient is fasting\
+	* IDDM\
 	Give rapid acting insulin as per [sliding scales](#slide).
 
 
@@ -168,18 +172,18 @@ Glucose options:
 
 ### Perioperative Management of Continuous Subcutaneous Insulin Infusion Pumps
 
-* Target a BSL of 6-10mmol/L  
+* Target a BSL of 6-10mmol/L\
 * Give 5% dextrose (as for sliding scale insulin) whilst fasting
 * If BSL:
-	* <4 mmol/L  
+	* <4 mmol/L\
 	Withhold insulin, consider giving additional glucose.
-	* ≥4 mmol/L  
+	* ≥4 mmol/L\
 	Continue insulin infusion.
-	* ≥10 mmol/L  
+	* ≥10 mmol/L\
 	Administer additional short-acting insulin (as for sliding scale insulin).
 
 
-### Sliding Scales{#slide}
+### Sliding Scales
 
 Sliding scales should be based on the total daily insulin dose:
 
@@ -195,63 +199,66 @@ Sliding scales should be based on the total daily insulin dose:
 
 Significant risk:
 
-* ↑ perioperative risk
-* Microvascular disease  
-Development related to both magnitude and duration of hyperglycaemia.
-	* Retinopathy
-		* Background retinopathy  
-		Small haemorrhages with lipid deposition at their margins.
-		* Proliferative retinopathy  
-		Angiogenesis of retinal vessels into vitreous, which can lead to vitreous haemorrhage and retinal detachment.
-	* Nephropathy  
-	Microalbuminuria, leading to proteinuria and then nephropathy.
-	* Neuropathy
-		* Sensory  
-			* Most common
-			* Paraesthesias, neuropathic pain, or simple numbness
-		* Focal
-		* Autonomic  
-		Manifestation may occur in most organ symptoms.
-			* Resting tachycardia
-			* Silent ischaemia
-			* Orthostatic hypotension
-			* Loss of HR variability
-			* Anhidrosis and failure of vasoconstriction  
-			Poor heat regulation.
-			* Bladder dysfunction
-			* Erectile dysfunction
-			* Gastroparesis
-			* Constipation/diarrhoea
-* Macrovascular disease
-	* IHD
-	* CVD
-	* PVD
-* Acute diabetic metabolic states
+* ↑ Perioperative risk
+* C
+	* **Macrovascular** disease
+		* IHD
+		* CVD
+		* PVD
+	* **Microvascular** disease\
+	Development related to both magnitude and duration of hyperglycaemia.
+		* **Retinopathy**
+			* Background retinopathy\
+			Small haemorrhages with lipid deposition at their margins.
+			* Proliferative retinopathy\
+			Angiogenesis of retinal vessels into vitreous, which can lead to vitreous haemorrhage and retinal detachment.
+		* **Nephropathy**\
+		Microalbuminuria, leading to proteinuria and then nephropathy.
+		* **Neuropathy**
+			* Sensory\
+				* Most common
+				* Paraesthesias, neuropathic pain, or simple numbness
+			* Focal
+			* Autonomic\
+			Manifestation may occur in most organ symptoms.
+				* Resting tachycardia
+				* Silent ischaemia
+				* Orthostatic hypotension
+				* Loss of HR variability
+				* Anhidrosis and failure of vasoconstriction\
+				Poor heat regulation.
+				* Bladder dysfunction
+				* Erectile dysfunction
+				* Gastroparesis
+				* Constipation/diarrhoea
+* E
 	* DKA
 	* HHS
-* AKI
-* HTIs
-* Immunosuppression  
-Glycated neutrophils.
+* F
+	* AKI
+* I
+	* Generally immunosuppressed\
+	Glycated neutrophils.
 
 
 
 ### Obstetric Complications
 
->Complication rate ↑ in women with pre-existing diabetes, rather than gestational diabetes mellitus (GDM)
-
+:::info
+Complication rate ↑ in women with pre-existing diabetes, rather than gestational diabetes mellitus (GDM)
+:::
 Maternal diabetes:
 
 * Results in complications for both:
 	* Mother
-		* ↑ insulin resistance  
+		* ↑ insulin resistance\
 		↑ over course of pregnancy.
 		* Superimposed pre-eclampsia
-		* Diabetic ketoacidosis  
+		* Diabetic ketoacidosis\
 		Major factor ↑ perinatal morbidity and mortality.
 	* Foetus
-		* Placental insufficiency  
-			* Uteroplacental blood flow is reduced 35-45%  
+		* Placental insufficiency\
+			* Uteroplacental blood flow is reduced 35-45%\
 			Additional impairment if blood glucose control is poor.
 			* Reduced oxygen transport on HbA~1c~
 		* Foetal macrosomia
@@ -267,15 +274,15 @@ Maternal diabetes:
 Management considerations:
 
 * Prepartum
-	* Oral glucose tolerance test  
+	* Oral glucose tolerance test\
 	Required for diagnosis.
 	* Screen for end-organ involvement
 	* Provide instructions for fasting BSL management
 * Intrapartum
-	* No contraindications to regional analgesia or anaesthesia  
+	* No contraindications to regional analgesia or anaesthesia\
 	Note:
 		* Epidural reduces foetal metabolic acidosis
-		* Greater haemodynamic disturbance with spinal  
+		* Greater haemodynamic disturbance with spinal\
 	Likely due to higher sympathectomy.
 	* Q30 minutely BSL if under GA section
 * Post-partum
@@ -292,3 +299,4 @@ Management considerations:
 
 1. The Royal Women's Hospital. Diabetes: Perioperative Glycaemic Control (Non-Obstetric). Policy and Procedure Manual. 2013.
 2. Fowler MJ. Microvascular and Macrovascular Complications of Diabetes. Clinical Diabetes. 2008;26(2):77-82. doi:10.2337/diaclin.26.2.77
+3. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

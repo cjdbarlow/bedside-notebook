@@ -1,0 +1,206 @@
+# Diabetic Ketoacidosis {#sec-dka}
+
+Life-threatening metabolic complication of insulin-dependent diabetes due to **complete insulin deficiency** resulting in:
+
+:::column-margin
+Classically occurs in T1DM, but can also occur in ketosis-prone T2DM.
+:::
+
+* Hyperglycaemia
+* Ketonaemia
+* Metabolic acidosis\
+pH is used to grade severity:
+	* Mild: 7.25-7.3
+	* Moderate: 7.0-7.24
+	* Severe: <7
+
+Severity is a function of:
+
+## Epidemiology and Risk Factors
+
+
+## Pathophysiology
+
+Alteration in normal carbohydrate metabolism due to **insulin deficiency**, which leads to:
+
+* ↑ Lipolysis\
+Breakdown into glycerol and free fatty acids, in turn leading to:
+	* ↑ **Ketones**
+		* ↑ Serum levels occur via combination of:
+			* ↑ Production via fatty acid oxidation
+			* ↓ Ketone clearance
+		* Causes **HAGMA** as ketones are a strong acid, dissociating completely at physiological pH
+* **Hyperglycaemia**
+	* Due to:
+		* ↑ Gluconeogenesis
+		* ↓ Peripheral uptake of glucose
+	* Leads to polyuria and hypovolaemia (and subsequently, polydipsia) due to the high filtered osmolar load
+* Electrolyte derangements
+	* **Potassium**\
+	Serum level may be relatively normal in the setting of acidosis, although there is usually a **total body deficit** due to combination of:
+		* Osmotic diuresis
+		* Secondary hyperaldosteronism
+
+### Aetiology
+
+In a known diabetic, DKA is usually precipitated by some antecedent pathology, which include:
+
+* Poor insulin compliance or access
+* Infection
+* ACS
+* Pancreatitis
+
+## Clinical Manifestations
+
+Develops over **hours**-days with:
+
+* Polyuria
+* Polydipsia
+* Weakness
+* Weight loss
+
+
+Ketoacidosis results in:
+
+* Compensatory hyperventilation
+* Acetone breath
+
+
+Other symptoms include:
+
+* Abdominal pain\
+More common in children.
+
+:::column-margin
+Neurological symptoms are more common in HHS than DKA, as they occurs secondary to a hyperosmolar state. Coma in a normoosmolar patient with DKA should prompt a search for another (particularly antecedent) cause.
+:::
+
+## Diagnostic Approach and DDx
+
+Diagnosis is biochemical, and requires:
+
+* ↑ Ketones
+	* \>3mmol/L on blood
+	* 2+ on urine dipstick
+* ↑ BSL
+	* BSL >11mmol/L
+	* Known DM
+* Metabolic acidosis\
+	* HCO~3~^-^ <15mmol/L
+	* pH <7.3
+
+
+## Investigations
+
+Bedside:
+
+* ABG
+	* ↑ BSL
+	* ↑ Ketones
+	* Metabolic acidosis
+
+Laboratory:
+
+* Osmolality\
+Raised, although not to the same degree as HHS.
+
+Imaging:
+
+Other:
+
+## Management
+
+:::info
+Goals:
+
+* Fluid resuscitation\
+Restore circulating volume and correct osmolarity.
+* Insulin administration
+* Correct electrolytes
+* Treat precipitant
+:::
+
+**Resuscitation**:\
+
+* C
+	* **Volume resuscitation**
+		* Balanced crystalloid preferred
+			* 0.9% saline ↑ hyperchloraemic acidosis
+			* Colloid may ↑ mortality
+		* Addition of 20-30mmol/L of potassium to crystalloid may be performed to replete potassium stores
+* D
+	* **Insulin**\
+	Fixed rate intravenous insulin infusion at **0.1 unit/kg/hr**.
+		* **Bolus** dose may precipitate hyperglycaemia and is **not recommended**
+		* * ↑ May be required if insulin resistant
+		* **↓** To 0.02-0.05 unit/kg/hr **when BSL** is **<12mmol/L**
+* F
+	* Electrolyte correction
+		* **Potassium**
+			* Begin correction of total body deficit once serum potassium is <5.5mmol/L
+			* Consider **only initiating insulin** when **potassium** is **>3.3mmol/L** to avoid precipitating severe hypokalaemia
+
+
+**Supportive care**:
+
+* F
+	* Magnesium\
+	Often deplete, PRN replenishment is sufficient.
+
+**Disposition**:
+
+* ICU admission for:
+	* Neurological symptoms
+		* GCS <12
+	* Severe DKA
+		* pH <7.0
+		* HCO~3~^-^ <5mmol/L
+		* AG >16
+	* Severe electrolyte derangements
+
+**Preventative**:
+
+* Appropriate insulin administration
+	* Baseline maintenance
+	* ↑ Dosing in times of physiologic stress
+
+
+### Marginal and Ineffective Therapies
+
+* Bicarbonate\
+Not recommended.
+
+## Anaesthetic Considerations
+
+## Complications
+
+* A
+	* Aspiration
+* D
+	* ↓ BSL
+	* CVA
+	* Cerebral oedema
+* F
+	* ↓ K^+^
+* H
+	* DVT
+
+:::column-margin
+Hypoglycaemia and hypokalaemia are the most common serious complication, due to excessive insulin replacement with inadequate potassium supplementation.
+:::
+
+
+## Prognosis
+
+Immediate mortality is low despite the profound metabolic derangements, however:
+
+* 1-month mortality: 8%
+* 1-year mortality: 18%
+* 5-year mortality: 35%
+
+## Key Studies
+
+
+---
+
+## References

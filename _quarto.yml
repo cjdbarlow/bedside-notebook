@@ -657,6 +657,8 @@ book:
         - part: "Glucose Handling"
           chapters:
             - disease/endo/dm.qmd
+            - disease/endo/dka.qmd
+            - disease/endo/hhs.qmd
             - disease/endo/edka.qmd
             - disease/endo/insulinoma.qmd
         - part: "Adrenal"
