@@ -1,0 +1,246 @@
+# Diabetes Insipidus
+
+Pathological absence of or insensitivity to ADH, leading to excessive polyuria and polydipsia. DI is subdivided into:
+
+* Nephrogenic DI\
+Insensitivity of the kidney to circulating ADH.
+* Neurogenic (central) DI\
+Complete or partial loss of ADH production.
+* Gestational DI\
+Various mechanisms, including:
+	* ↑ Placental vasopressinase production\
+	May be the sole cause, or unmask a previous relative ADH deficiency.
+	* Pre-eclampsia
+	* HELLP syndrome
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+Under normal circumstances:
+
+* The daily obligatory solute loss is ~800mmol\
+300mmol of urea and 500mmol of assorted ions.
+* The **kidney** can **produce urine**:
+	* As **dilute** as **25mOsmol/kg**\
+	* As **concentrated** as **~1200mOsmol/kg**
+
+:::column-margin
+Excretion of the ordinary daily solute load therefore requires:
+
+* ~666mL, assuming a maximally-concentrated urine
+* ~32L, assuming a maximally-dilute urine
+:::
+
+* Variations in urine output occur due to changes in free water intake
+* Diuresis describes urine output >1.5mL/kg/hr, and can be:
+	* Water diuresis\
+	Normal solute excretion with low urine osmolality.
+	* Solute diuresis\
+	Higher solute excretion with variable urine osmolality:
+		* Iso-osmolar if hypervolaemic
+		* Hyperosmolar if hypo- or euvolaemic\
+\
+* Volume and plasma osmolality are regulated by different mechanisms and so can occur independently
+	* The RAAS is the prime determinant of volume state
+	* ADH is the prime determinant of osmolality
+		* Secreted in response to ↓ plasma osmolality
+		* V~2~ receptors in the kidney:
+
+
+Partial or complete absence of ADH leads to:
+
+* Impaired water reabsorption
+* Production of a large volume of dilute urine
+	* In an awake patient with intact thirst mechanisms, this is matched with a high volume of free water intake
+	* Otherwise, results in hypovolaemia and hyper-osmolar serum
+
+
+In pregnancy, there is a:
+
+* ↓ In normal plasma osmolality (to 265-285mOsmol/kg) and sodium (130-145mmol/L)
+* ↑ In ADH secretion
+* ↑ In aldosterone production
+* ↑ GFR and solute load
+
+### Aetiology
+
+Neurogenic DI:
+
+:::column-margin
+Neurogenic DI may be complete or partial, depending on the severity of the lesion.
+:::
+
+* Vascular
+	* Strokes
+	* Sheehan's syndrome
+	* Aneurysm
+* Inflammatory
+	* Sarcoidosis
+	* Sickle-cell disease
+	* Encephalitis
+	* Wegener's granulomatosis
+* Neoplasm
+	* Primary tumour\
+	Suprasellar.
+	* Metastatic disease
+* Drugs
+	* Amiodarone
+	* Lithium\
+	May also cause nephrogenic DI.
+* Idiopathic
+* Congenital
+	* Congenital cranial DI\
+	Autosomal dominant loss of ADH producing cells that reveals itself between 1 and middle age.
+* Autoimmune
+* Trauma
+	* Hypoxic brain injury
+	* Surgery
+
+
+Nephrogenic DI:
+
+* Renal
+	* Post-obstructive diuresis
+	* Polycystic kidney disease
+	* Pyelonephritis
+	* Transplant
+* Electrolyte
+	* Hypercalcaemia
+	* Hypokalaemia
+	* Hypoproteinaemia
+* Drugs
+	* **Lithium**\
+	\>20% of patients on chronic lithium therapy.
+	* Amiodarone
+	* Frusemide
+	* Gentamicin
+	* Amphotericin B
+
+
+## Clinical Manifestations
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+Bedside:
+
+Laboratory:
+
+* Blood
+	* UEC
+	* Osmolality\
+	Measured osmolality may be high.
+	* TFT
+	* Prolactin
+* Urinalysis
+	* Hypo-osmolar
+	* High volume
+
+:::column-margin
+With complete absence of ADH, >20L/day of very dilute (25-200mOsmol/kg) of urine can be produced.\
+\
+Partial absence of ADH may lead to ~3L/day of moderately dilute (500-800mOsmol/kg) urine.
+:::
+
+
+Imaging:
+
+* MRI\
+Investigation of hypothalamic or pituitary injury and likelihood of recovery.
+
+:::column-margin
+Hypothalamic lesions are less likely to recover than pituitary injuries.
+:::
+
+Other:
+
+* Water deprivation test
+
+## Management
+
+:::info
+Principles:
+
+* Correction of hypernatraemia
+* Correction of volume state
+* Correction of underlying ADH deficiency
+* Investigation of other anterior pituitary hormone deficiencies
+:::
+
+### Neurogenic Diabetes Insipidus
+
+**Specific therapy**:
+
+* Pharmacological
+	* **Sodium correction**\
+	Hypernatraemia >48 hours duration should be corrected at <10mmol/L/day. 
+	* **Volume correction**
+		* 0.9% Saline is preferable
+		* Careful titration is required in hypernatraemia to avoid a rapid correction
+			* Consider hypertonic saline to ↓ rate
+	* Exogenous **ADH**\
+	Indicated if euvolaemic and UO >3mL/kg/hr.
+		* DDAVP 1-4μg IV daily\
+		Adjusted to control of UO.
+	* **Corticosteroids**\
+	Indicated if clinical concern about adrenal insufficiency due to anterior pituitary disruption.
+		* 100mg hydrocortisone
+
+
+### Nephrogenic Diabetes Insipidus
+
+**Specific therapy**:
+
+* Pharmacological
+	* Cease precipitants (drugs)
+	* Diuretic
+		* Thiazide
+			* Corrects hyperosmolar plasma by driving natriuresis
+			* Relative hypovolaemia results in RAAS activation, ↓ GFR, and ↓↓ UO
+		* Amiloride\
+		Offsets potassium loss from thiazide.
+	* Exogenous ADH\
+	DDAVP 1-4μg IV daily.
+	* Other agents
+		* NSAID\
+		↓ GFR and therefore ↓ UO.
+			* Synergistic with diuretics
+			* Obvious risk of AKI
+		* Chlorpropamide\
+		↑ ADH release and renal ADH sensitivity.
+		* Carbamazepine\
+		High doses ↓ UO in partial disease.
+
+
+**Supportive care**:
+
+* F
+	* Electrolyte correction\
+	Replacement of magnesium, potassium, calcium, etc.
+	* ↓ Solute intake\
+	↓ Daily solute load results in a ↓ total UO, and may make it more manageable.
+		* Salt restriction (<100mmol/day)
+		* Protein restriction to minimum daily requirements
+
+
+### Marginal and Ineffective Therapies
+
+* Clofibrate\
+Superseded by DDAVP.
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

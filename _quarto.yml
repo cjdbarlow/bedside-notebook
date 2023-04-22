@@ -648,6 +648,7 @@ book:
         - part: "Fluid and Electrolyte"
           chapters:
             - disease/fluid/siadh.qmd
+            - disease/fluid/di.qmd
             - disease/fluid/turp_syndrome.qmd
             # Rhabdo
         # - part: "Nutrition"
