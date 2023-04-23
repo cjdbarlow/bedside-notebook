@@ -1,5 +1,8 @@
-# Hypothyroidism
+# Hypothyroidism {#sec-hypothyroid}
 
+:::column-margin
+This covers general considerations of hypothyroidism, myxoedema coma is covered at @sec-myxoedemacoma.
+:::
 
 ## Epidemiology and Risk Factors
 
@@ -21,21 +24,15 @@ Include:
 
 ## Clinical Manifestations
 
-### History
-
-### Examination
 
 
-### Myxoedema Coma  
-
-Hypothyroid crisis:
 ## Diagnostic Approach and DDx
 
 ## Investigations
 
 ## Management
 
-### Anaesthetic Considerations
+## Anaesthetic Considerations
 
 * A
 	* Tracheal compression  
@@ -69,37 +66,6 @@ Hypothyroid crisis:
 ## Complications
 
 
-### Myxedema Coma
-
-Exacerbation of hypothyroidism that:
-
-* May be life threatening  
-Mortality >50%.
-* Manifests with:
-	* Hypoventilation and subsequent hypoxia
-	* Bradycardia and hypotension
-	* Altered mental state  
-	Apathy, coma.
-	* Hyponatraemia
-	* Hypothermia
-* Requires emergent maagement with:
-	* Supportive therapy
-		* Intubation and ventilation  
-		For hypoxia and hypoventilation.
-		* Cautious volume expansion  
-		For hypotension. Risk of APO.
-		* Pacing or chronotropic agent  
-		Again, cautiously.
-		* Rewarming
-		* Correction of BSL
-	* Curative therapy
-		* Thyroxine  
-		200-500μg of L-thyroxine as loading dose, followed by 100-300μg the following day.
-			* Monitor TSH level for response
-		* Tri-iodothyronine  
-		If thyroxine unavailable.
-		* Hydrocortisone  
-		100-300mg IV QID.
 
 ## Prognosis
 
@@ -109,3 +75,5 @@ Mortality >50%.
 ---
 
 ## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

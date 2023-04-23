@@ -670,7 +670,9 @@ book:
         - part: "Thyroid"
           chapters:
             - disease/endo/hyperthyroidism.qmd
+            - disease/endo/thyroid_storm.qmd
             - disease/endo/hypothyroidism.qmd
+            - disease/endo/myxoedema_coma.qmd
         - part: "Hypothalamic"
           chapters:
             - disease/endo/acromegaly.qmd

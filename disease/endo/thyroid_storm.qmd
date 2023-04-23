@@ -1,0 +1,190 @@
+# Thyroid Storm {#sec-thyroidstorm}
+
+:::info
+Thyroid storm is also known as thyroid crisis.
+:::
+
+Clinical diagnosis of **thyrotoxicosis** of **life-threatening** severity, which classically presents with a **combination** of **adrenergic symptoms**:
+
+:::column-margin
+This covers thyroid storm; considerations of general hyperthyroidism are covered at @sec-hyperthyroid.
+:::
+
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+Precipitants include:
+
+* Cessation of usual thyroid suppression
+* Thyroid hormone overdose
+* Iodinated contrast
+* Physiological stress
+	* Infection
+	* Trauma
+		* Surgery
+		* Burns
+	* DKA
+	* CVA
+* Excessive thyroid palpation
+
+## Clinical Manifestations
+
+Extremely variable presentation, with all or some of:
+
+* B
+	* Dyspnoea
+* C
+	* **↑ HR**
+	* **Tachyarrhythmias**
+		* AF
+		* Ventricular arrhythmias
+	* **Heart failure**
+	* ↑ BP (early)
+	* ↓ BP (late)
+* D
+	* Tremor → Weakness\
+	Generally early signs.
+	* **Encephalopathy** → Coma
+* E
+	* **Fever**
+* G
+	* **Diarrhoea**
+	* **Nausea**
+	* Vomiting
+	* Jaundice
+
+
+## Diagnostic Approach and DDx
+
+Key differentials include:
+
+* Sepsis
+* Anticholinergic toxicity
+
+## Investigations
+
+Bedside:
+
+* ABG/VBG
+	* ↑ BSL
+
+Laboratory:
+
+* FBE
+	* Leucocytosis
+* UEC
+	* Hypercalcaemia
+	* Hypokalaemia
+	* Hypomagnesaemia
+* LFTs
+	* ↑ Bilirubin
+* Cortisol\
+Should be ↑ in the setting of thyroid storm, and requires corticosteroids otherwise.
+* TFTs
+	* TSH usually undetectable
+	* Free T~4~ and T~3~ usually ↑
+
+:::column-margin
+TFTs do not correlate with clinical severity.
+:::
+
+Imaging:
+
+Other:
+
+## Management
+
+:::info
+Goals are:
+
+* Control adrenergic symptoms
+* Correct thyroid abnormalities
+* Treat precipitating cause
+:::
+
+**Resuscitation**:\
+
+* C
+	* **β-blockade**\
+		* **Propranolol**\
+		Agent of choice for cardiovascular symptoms.
+			* 0.5-1mg IV increments for acute control
+			* 60-120mg Q4-6H for maintenance
+		* **Esmolol**\
+		Alternative for rapid, titrateable control.
+	* Amiodarone
+		* 2^nd& line agent for arrhythmias
+		* Also inhibits T~4~ conversion
+		* May interfere with TFT measurement and so confound future therapy
+	* **Volume resuscitation**
+		* Patients generally undervolumed\
+		Diarrhoea, vomiting, insensible losses.
+		* **Resuscitation** must be **cautious** in the setting of cardiac failure
+
+
+:::column-margin
+Propranolol is preferred to other β-blockers because it also ↓ peripheral conversion of T~4~ to T~3~. High doses are required due to ↑ elimination that occurs during a thyroid storm.
+:::
+
+**Specific therapy**:
+
+* Pharmacological
+	* **Corticosteroids**
+		* ↓ T~4~ conversion
+		* Correct adrenal insufficiency
+	* **Thionamides**\
+	Inhibit thyroid hormone synthesis.	
+		* Propylthiouracil\
+		Preferred agent.
+			* 200mg PO Q4H
+	* **Iodine**\
+	Inhibit thyroid hormone release.
+		* **Must be given after thionamide**, **otherwise** it will **↑ hormone synthesis** and worsen thyrotoxicosis
+		* 1g sterile iodine IV Q12H
+		* Iodinated contrast media may be used as an alternative
+
+**Supportive care**:
+
+* E
+	* Cooling
+		* Passive cooling usually adequate
+* G
+	* Feeding\
+	Usually caloric deficient, consider early feeding.
+
+**Disposition**:
+
+* Thyroid storm necessitates ICU admission
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+Non-established therapies include:
+
+* Plasmapheresis
+* Charcoal haemoperfusion
+* Dantrolene
+
+## Anaesthetic Considerations
+
+## Complications
+
+* E
+	* Rhabdomyolysis
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

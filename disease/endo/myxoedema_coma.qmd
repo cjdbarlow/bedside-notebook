@@ -1,0 +1,184 @@
+# Myxoedema Coma {#sec-myxoedemacoma}
+
+Life-threatening manifestation of hypothyroidism characterised by a combination of:
+
+:::column-margin
+This covers myxoedema coma, general considerations of hypothyroidism are covered at @sec-hypothyroid.\
+\
+Note that the name is a **misnomer** and patients typically present with **neither myxoedema** or **coma**.
+:::
+
+* **Hypothermia**
+* **↓** Level of **consciousness**
+* Clinical **hypothyroidism**
+
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+Typically presents with **pre-existing untreated** (or undiagnosed) **hypothyroidism**, exacerbated by some **precipitant**:
+
+* Cessation of usual thyroid suppression
+* Physiological stress
+	* Infection
+	* Hypothermia
+	* Trauma
+		* Surgery
+		* Burns
+	* DKA
+	* CVA
+	* Cardiac failure
+* Medications
+	* Amiodarone
+	* Anaesthetic agents
+	* Analgesics
+	* β-blockers
+	* Diuretics
+	* Lithium
+	* Phenytoin
+
+
+## Clinical Manifestations
+
+* B
+	* Weakness
+	* Pleural effusions
+	* OSA
+* C
+	* Bradycardia
+	* ↓ CO
+	* Diastolic hypertension
+* D
+	* ↓ GCS
+	* Weakness
+	* Fatigue
+	* Psychiatric alterations
+* F
+	* Bladder distension
+	* Urinary retention
+* G
+	* Distension
+	* Ileus
+	* Faecal impaction
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+Bedside:
+
+* ABG
+	* Respiratory alkalosis\
+	Due to ↓ metabolic rate and ↓ CO~2~ production.
+
+Laboratory:
+
+* Blood
+	* FBE
+		* Normocytic anaemia
+	* UEC
+		* Hyponatraemia\
+		Due to free wate retention.
+		* Hypoglycaemia
+		* Hypophosphataemia
+	* TFTs
+		* ↓ T~4~/T~3~
+		* Variable TSH
+			* ↑ In primary hypothyroidism
+			* ↓ In secondary and tertiary hypothyroidism
+	* Cortisol\
+	Prior to commencing hydrocortisone.
+
+
+Imaging:
+
+Other:
+
+## Management
+
+:::info
+Principles:
+
+* Replace thyroid hormone\
+Note that **rapid replacement** may **precipitate** cardiac **ischaemia** and malignant **arrhythmias**.
+* Replace adrenal hormone
+* Supportive care
+:::
+
+
+**Resuscitation**:\
+
+* A
+	* Intubation and ventilation may be required for respiratory failure
+* C
+	* Volume resuscitation\
+	Cautiously due to risk of APO.
+	* Chronotropy\
+	May require pacing.
+* D
+	* Dextrose replacement
+
+**Specific therapy**:
+
+:::column-margin
+Dosing of thyroxine should be adjusted for age and frailty, with lower doses used for patients at ↑ risk of adverse cardiac events relating to rapid replacement.
+:::
+
+* Pharmacological
+	* **Thyroid replacement**
+		* Thyroxine (T~4~)
+			* Generally preferred agent
+			* Load: Levothyroxine 200-500μg IV
+			* Maintenance: Levothyroxine 100-300μg IV daily thereafter\
+			Can be converted to PO formulation.
+		* T~3~
+			* More active than T~4~
+			* More rapid onset of action
+			* Expensive
+			* Possible ↑ risk of iatrogenic harm
+	* Corticosteroids
+		* Hydrocortisone 100mg Q8H\
+		Cease if random cortisol normal.
+* Procedural
+* Physical
+
+**Supportive care**:
+
+* C
+	* Avoid vasoactives\
+	If possible, to ↓ arrhythmia risk.
+* E
+	* Rewarming
+		* Passive usually adequate
+		* Active may be required
+* G
+	* Feeding\
+	↑ Risk of intolerance with gastrointestinal stasis.
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+* Death
+* E
+	* Adrenal insufficiency
+	* Refractory hypothermia
+
+## Prognosis
+
+* Mortality >50%
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

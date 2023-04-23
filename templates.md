@@ -10,6 +10,8 @@ BIS -> Processed EEG
 
 ↑
 ↓
+→
+←
 ⩾
 ⩽
 ≃
