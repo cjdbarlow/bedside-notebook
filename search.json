@@ -13451,14 +13451,21 @@
     "href": "disease/endo/hyperthyroidism.html#management",
     "title": "Hyperthyroidism",
     "section": "Management",
-    "text": "Management\n\nThyroid Storm\n\n\nAnaesthetic Considerations\n\nB\n\n↓ Apnoea time due to ↑ VO2\n\nC\n\n↑ HR\nArrhythmia\n\nAF\n\nCCF\nIHD\n\nE\n\nHeat intolerance\nWeight loss\n\nE2\n\nThyroid state\nPatients should be euthyroid preoperatively to avoid thyroid storm.\n\nCarbimazole\n↓ iodine uptake and inhibits peroxidase enzyme, preventing iodine coupling.\nPropothiouracil\nInhibits thyroperoxidase, and also ↓ T4 to T3 conversion.\nSteroids\n↓ T4 to T3 conversion.\nLugol’s Iodine\nβ-blockers\n\n\n\n\n\nMarginal and Ineffective Therapies"
+    "text": "Management"
+  },
+  {
+    "objectID": "disease/endo/hyperthyroidism.html#anaesthetic-considerations",
+    "href": "disease/endo/hyperthyroidism.html#anaesthetic-considerations",
+    "title": "Hyperthyroidism",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations\n\nB\n\n↓ Apnoea time due to ↑ VO2\n\nC\n\n↑ HR\nArrhythmia\n\nAF\n\nCCF\nIHD\n\nE\n\nHeat intolerance\nWeight loss\n\nE2\n\nThyroid state\nPatients should be euthyroid preoperatively to avoid thyroid storm.\n\nCarbimazole\n↓ Iodine uptake and inhibits peroxidase enzyme, preventing iodine coupling.\nPropothiouracil\nInhibits thyroperoxidase, and also ↓ T4 to T3 conversion.\nSteroids\n↓ T4 to T3 conversion.\nLugol’s Iodine\nβ-blockers\n\nThyroid storm may occur up to 18 hours post-operatively\n\n\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/endo/hyperthyroidism.html#complications",
     "href": "disease/endo/hyperthyroidism.html#complications",
     "title": "Hyperthyroidism",
     "section": "Complications",
-    "text": "Complications\nSystemic effects:\n\nC\n\nAF\n10-40% incidence.\nPalpitations\nCHF\n\nE\n\n↑ Incidence of myasthenia gravis\n\nH\n\nThyrombocytopenia\nAnaemia\n\n\n\nThyroid Storm\nExacerbation of hyperthyroidism that:\n\nMay be life threatening\nOccurs during periods of stress\nMay occur up to 18 hours post-operatively\nManifests with:\n\nTachycardia\nTachyarrhythmia\n↑ Pulse pressure\nCardiac failure/cardiovascular collapse\nAltered mental state\nAnxiety, psychosis, coma.\nProfound hyperthermia\n⩾40°C.\nMyopathy\nRhabdomyolysis occurs in ~50%.\n\nRequires aggressive treatment with:\n\nSupportive therapy\n\nOxygen supplementation\nFluid resuscitation\nDiuresis\nIf rhabdomyolysis present.\nTemperature correction\n\nCurative therapy\n\nPropylthiouracil 200-250mg PO Q4H\nPrevents thyroid hormone synthesis.\nSodium iodide 1-2.5G IV\nPrevents thyroid hormone release. Needs to be given at least one hour after propylthiouracil to prevent subsequent iodine escape.\nHydrocortisone 100mg IV Q8H\nReduces T4-T3 conversion.\nβ-blockade\nCaution if cardiac failure.\n\nPropranolol In addition to β effects, also reduces T3 levels.\n\n20-120mg PO\n\n0.5-1mg IV over 10 minutes, then 1-2mg over 10 minutes Q4H\nRequires haemodynamic monitoring.\n\nEsmolol 50-300μg/kg/min"
+    "text": "Complications\n\nC\n\nAF\n10-40% incidence.\nPalpitations\nCHF\n\nE\n\n↑ Incidence of myasthenia gravis\nThyroid storm\n\nH\n\nThyrombocytopenia\nAnaemia"
   },
   {
     "objectID": "disease/endo/hyperthyroidism.html#prognosis",
@@ -13479,7 +13486,84 @@
     "href": "disease/endo/hyperthyroidism.html#references",
     "title": "Hyperthyroidism",
     "section": "References",
-    "text": "References"
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
+  },
+  {
+    "objectID": "disease/endo/thyroid_storm.html#epidemiology-and-risk-factors",
+    "href": "disease/endo/thyroid_storm.html#epidemiology-and-risk-factors",
+    "title": "Thyroid Storm",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors"
+  },
+  {
+    "objectID": "disease/endo/thyroid_storm.html#pathophysiology",
+    "href": "disease/endo/thyroid_storm.html#pathophysiology",
+    "title": "Thyroid Storm",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\n\nAetiology\nPrecipitants include:\n\nCessation of usual thyroid suppression\nThyroid hormone overdose\nIodinated contrast\nPhysiological stress\n\nInfection\nTrauma\n\nSurgery\nBurns\n\nDKA\nCVA\n\nExcessive thyroid palpation"
+  },
+  {
+    "objectID": "disease/endo/thyroid_storm.html#clinical-manifestations",
+    "href": "disease/endo/thyroid_storm.html#clinical-manifestations",
+    "title": "Thyroid Storm",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations\nExtremely variable presentation, with all or some of:\n\nB\n\nDyspnoea\n\nC\n\n↑ HR\nTachyarrhythmias\n\nAF\nVentricular arrhythmias\n\nHeart failure\n↑ BP (early)\n↓ BP (late)\n\nD\n\nTremor → Weakness\nGenerally early signs.\nEncephalopathy → Coma\n\nE\n\nFever\n\nG\n\nDiarrhoea\nNausea\nVomiting\nJaundice"
+  },
+  {
+    "objectID": "disease/endo/thyroid_storm.html#diagnostic-approach-and-ddx",
+    "href": "disease/endo/thyroid_storm.html#diagnostic-approach-and-ddx",
+    "title": "Thyroid Storm",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx\nKey differentials include:\n\nSepsis\nAnticholinergic toxicity"
+  },
+  {
+    "objectID": "disease/endo/thyroid_storm.html#investigations",
+    "href": "disease/endo/thyroid_storm.html#investigations",
+    "title": "Thyroid Storm",
+    "section": "Investigations",
+    "text": "Investigations\nBedside:\n\nABG/VBG\n\n↑ BSL\n\n\nLaboratory:\n\nFBE\n\nLeucocytosis\n\nUEC\n\nHypercalcaemia\nHypokalaemia\nHypomagnesaemia\n\nLFTs\n\n↑ Bilirubin\n\nCortisol\nShould be ↑ in the setting of thyroid storm, and requires corticosteroids otherwise.\nTFTs\n\nTSH usually undetectable\nFree T4 and T3 usually ↑\n\n\n\n\nTFTs do not correlate with clinical severity.\nImaging:\nOther:"
+  },
+  {
+    "objectID": "disease/endo/thyroid_storm.html#management",
+    "href": "disease/endo/thyroid_storm.html#management",
+    "title": "Thyroid Storm",
+    "section": "Management",
+    "text": "Management\n\nGoals are:\n\nControl adrenergic symptoms\nCorrect thyroid abnormalities\nTreat precipitating cause\n\n\nResuscitation:\n\n\nC\n\nβ-blockade\n\n\nPropranolol\nAgent of choice for cardiovascular symptoms.\n\n0.5-1mg IV increments for acute control\n60-120mg Q4-6H for maintenance\n\nEsmolol\nAlternative for rapid, titrateable control.\n\nAmiodarone\n\n2^nd& line agent for arrhythmias\nAlso inhibits T4 conversion\nMay interfere with TFT measurement and so confound future therapy\n\nVolume resuscitation\n\nPatients generally undervolumed\nDiarrhoea, vomiting, insensible losses.\nResuscitation must be cautious in the setting of cardiac failure\n\n\n\n\n\nPropranolol is preferred to other β-blockers because it also ↓ peripheral conversion of T4 to T3. High doses are required due to ↑ elimination that occurs during a thyroid storm.\nSpecific therapy:\n\nPharmacological\n\nCorticosteroids\n\n↓ T4 conversion\nCorrect adrenal insufficiency\n\nThionamides\nInhibit thyroid hormone synthesis.\n\nPropylthiouracil\nPreferred agent.\n\n200mg PO Q4H\n\n\nIodine\nInhibit thyroid hormone release.\n\nMust be given after thionamide, otherwise it will ↑ hormone synthesis and worsen thyrotoxicosis\n1g sterile iodine IV Q12H\nIodinated contrast media may be used as an alternative\n\n\n\nSupportive care:\n\nE\n\nCooling\n\nPassive cooling usually adequate\n\n\nG\n\nFeeding\nUsually caloric deficient, consider early feeding.\n\n\nDisposition:\n\nThyroid storm necessitates ICU admission\n\nPreventative:\n\nMarginal and Ineffective Therapies\nNon-established therapies include:\n\nPlasmapheresis\nCharcoal haemoperfusion\nDantrolene"
+  },
+  {
+    "objectID": "disease/endo/thyroid_storm.html#anaesthetic-considerations",
+    "href": "disease/endo/thyroid_storm.html#anaesthetic-considerations",
+    "title": "Thyroid Storm",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "disease/endo/thyroid_storm.html#complications",
+    "href": "disease/endo/thyroid_storm.html#complications",
+    "title": "Thyroid Storm",
+    "section": "Complications",
+    "text": "Complications\n\nE\n\nRhabdomyolysis"
+  },
+  {
+    "objectID": "disease/endo/thyroid_storm.html#prognosis",
+    "href": "disease/endo/thyroid_storm.html#prognosis",
+    "title": "Thyroid Storm",
+    "section": "Prognosis",
+    "text": "Prognosis"
+  },
+  {
+    "objectID": "disease/endo/thyroid_storm.html#key-studies",
+    "href": "disease/endo/thyroid_storm.html#key-studies",
+    "title": "Thyroid Storm",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/endo/thyroid_storm.html#references",
+    "href": "disease/endo/thyroid_storm.html#references",
+    "title": "Thyroid Storm",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
   },
   {
     "objectID": "disease/endo/hypothyroidism.html#epidemiology-and-risk-factors",
@@ -13500,7 +13584,14 @@
     "href": "disease/endo/hypothyroidism.html#clinical-manifestations",
     "title": "Hypothyroidism",
     "section": "Clinical Manifestations",
-    "text": "Clinical Manifestations\n\nHistory\n\n\nExamination\n\n\nMyxoedema Coma\nHypothyroid crisis: ## Diagnostic Approach and DDx"
+    "text": "Clinical Manifestations"
+  },
+  {
+    "objectID": "disease/endo/hypothyroidism.html#diagnostic-approach-and-ddx",
+    "href": "disease/endo/hypothyroidism.html#diagnostic-approach-and-ddx",
+    "title": "Hypothyroidism",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
   },
   {
     "objectID": "disease/endo/hypothyroidism.html#investigations",
@@ -13514,14 +13605,21 @@
     "href": "disease/endo/hypothyroidism.html#management",
     "title": "Hypothyroidism",
     "section": "Management",
-    "text": "Management\n\nAnaesthetic Considerations\n\nA\n\nTracheal compression\nGotires may impinge on trachea and impede airway management.\n\nB\n\nReduced response to ↑ CO2 and ↓ O2\n\nC\n\nBradydysrhythmia\nDiastolic HTN\nDiastolic dysfunction\nAbnormal baroreceptor function\nContracted plasma volume\n\nD\n\nDepression\nHypoglycaemia\nSensitive to anaesthetic agents\n\nE\n\nMyxoedema coma\nHypothyroid crisis.\nHypothermia\n\nE2\n\nAddisons disease\nOccurs in 5-10% of patients with severe hypothyroidism.\n\nF\n\nHyponatraemia\n\nH\n\nAnaemia\n\n\n\n\nMarginal and Ineffective Therapies"
+    "text": "Management"
+  },
+  {
+    "objectID": "disease/endo/hypothyroidism.html#anaesthetic-considerations",
+    "href": "disease/endo/hypothyroidism.html#anaesthetic-considerations",
+    "title": "Hypothyroidism",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations\n\nA\n\nTracheal compression\nGotires may impinge on trachea and impede airway management.\n\nB\n\nReduced response to ↑ CO2 and ↓ O2\n\nC\n\nBradydysrhythmia\nDiastolic HTN\nDiastolic dysfunction\nAbnormal baroreceptor function\nContracted plasma volume\n\nD\n\nDepression\nHypoglycaemia\nSensitive to anaesthetic agents\n\nE\n\nMyxoedema coma\nHypothyroid crisis.\nHypothermia\n\nE2\n\nAddisons disease\nOccurs in 5-10% of patients with severe hypothyroidism.\n\nF\n\nHyponatraemia\n\nH\n\nAnaemia\n\n\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/endo/hypothyroidism.html#complications",
     "href": "disease/endo/hypothyroidism.html#complications",
     "title": "Hypothyroidism",
     "section": "Complications",
-    "text": "Complications\n\nMyxedema Coma\nExacerbation of hypothyroidism that:\n\nMay be life threatening\nMortality >50%.\nManifests with:\n\nHypoventilation and subsequent hypoxia\nBradycardia and hypotension\nAltered mental state\nApathy, coma.\nHyponatraemia\nHypothermia\n\nRequires emergent maagement with:\n\nSupportive therapy\n\nIntubation and ventilation\nFor hypoxia and hypoventilation.\nCautious volume expansion\nFor hypotension. Risk of APO.\nPacing or chronotropic agent\nAgain, cautiously.\nRewarming\nCorrection of BSL\n\nCurative therapy\n\nThyroxine\n200-500μg of L-thyroxine as loading dose, followed by 100-300μg the following day.\n\nMonitor TSH level for response\n\nTri-iodothyronine\nIf thyroxine unavailable.\nHydrocortisone\n100-300mg IV QID."
+    "text": "Complications"
   },
   {
     "objectID": "disease/endo/hypothyroidism.html#prognosis",
@@ -13542,7 +13640,84 @@
     "href": "disease/endo/hypothyroidism.html#references",
     "title": "Hypothyroidism",
     "section": "References",
-    "text": "References"
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
+  },
+  {
+    "objectID": "disease/endo/myxoedema_coma.html#epidemiology-and-risk-factors",
+    "href": "disease/endo/myxoedema_coma.html#epidemiology-and-risk-factors",
+    "title": "Myxoedema Coma",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors"
+  },
+  {
+    "objectID": "disease/endo/myxoedema_coma.html#pathophysiology",
+    "href": "disease/endo/myxoedema_coma.html#pathophysiology",
+    "title": "Myxoedema Coma",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\n\nAetiology\nTypically presents with pre-existing untreated (or undiagnosed) hypothyroidism, exacerbated by some precipitant:\n\nCessation of usual thyroid suppression\nPhysiological stress\n\nInfection\nHypothermia\nTrauma\n\nSurgery\nBurns\n\nDKA\nCVA\nCardiac failure\n\nMedications\n\nAmiodarone\nAnaesthetic agents\nAnalgesics\nβ-blockers\nDiuretics\nLithium\nPhenytoin"
+  },
+  {
+    "objectID": "disease/endo/myxoedema_coma.html#clinical-manifestations",
+    "href": "disease/endo/myxoedema_coma.html#clinical-manifestations",
+    "title": "Myxoedema Coma",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations\n\nB\n\nWeakness\nPleural effusions\nOSA\n\nC\n\nBradycardia\n↓ CO\nDiastolic hypertension\n\nD\n\n↓ GCS\nWeakness\nFatigue\nPsychiatric alterations\n\nF\n\nBladder distension\nUrinary retention\n\nG\n\nDistension\nIleus\nFaecal impaction"
+  },
+  {
+    "objectID": "disease/endo/myxoedema_coma.html#diagnostic-approach-and-ddx",
+    "href": "disease/endo/myxoedema_coma.html#diagnostic-approach-and-ddx",
+    "title": "Myxoedema Coma",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
+  },
+  {
+    "objectID": "disease/endo/myxoedema_coma.html#investigations",
+    "href": "disease/endo/myxoedema_coma.html#investigations",
+    "title": "Myxoedema Coma",
+    "section": "Investigations",
+    "text": "Investigations\nBedside:\n\nABG\n\nRespiratory alkalosis\nDue to ↓ metabolic rate and ↓ CO2 production.\n\n\nLaboratory:\n\nBlood\n\nFBE\n\nNormocytic anaemia\n\nUEC\n\nHyponatraemia\nDue to free wate retention.\nHypoglycaemia\nHypophosphataemia\n\nTFTs\n\n↓ T4/T3\nVariable TSH\n\n↑ In primary hypothyroidism\n↓ In secondary and tertiary hypothyroidism\n\n\nCortisol\nPrior to commencing hydrocortisone.\n\n\nImaging:\nOther:"
+  },
+  {
+    "objectID": "disease/endo/myxoedema_coma.html#management",
+    "href": "disease/endo/myxoedema_coma.html#management",
+    "title": "Myxoedema Coma",
+    "section": "Management",
+    "text": "Management\n\nPrinciples:\n\nReplace thyroid hormone\nNote that rapid replacement may precipitate cardiac ischaemia and malignant arrhythmias.\nReplace adrenal hormone\nSupportive care\n\n\nResuscitation:\n\n\nA\n\nIntubation and ventilation may be required for respiratory failure\n\nC\n\nVolume resuscitation\nCautiously due to risk of APO.\nChronotropy\nMay require pacing.\n\nD\n\nDextrose replacement\n\n\nSpecific therapy:\n\n\nDosing of thyroxine should be adjusted for age and frailty, with lower doses used for patients at ↑ risk of adverse cardiac events relating to rapid replacement.\n\nPharmacological\n\nThyroid replacement\n\nThyroxine (T4)\n\nGenerally preferred agent\nLoad: Levothyroxine 200-500μg IV\nMaintenance: Levothyroxine 100-300μg IV daily thereafter\nCan be converted to PO formulation.\n\nT3\n\nMore active than T4\nMore rapid onset of action\nExpensive\nPossible ↑ risk of iatrogenic harm\n\n\nCorticosteroids\n\nHydrocortisone 100mg Q8H\nCease if random cortisol normal.\n\n\nProcedural\nPhysical\n\nSupportive care:\n\nC\n\nAvoid vasoactives\nIf possible, to ↓ arrhythmia risk.\n\nE\n\nRewarming\n\nPassive usually adequate\nActive may be required\n\n\nG\n\nFeeding\n↑ Risk of intolerance with gastrointestinal stasis.\n\n\n\nMarginal and Ineffective Therapies"
+  },
+  {
+    "objectID": "disease/endo/myxoedema_coma.html#anaesthetic-considerations",
+    "href": "disease/endo/myxoedema_coma.html#anaesthetic-considerations",
+    "title": "Myxoedema Coma",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "disease/endo/myxoedema_coma.html#complications",
+    "href": "disease/endo/myxoedema_coma.html#complications",
+    "title": "Myxoedema Coma",
+    "section": "Complications",
+    "text": "Complications\n\nDeath\nE\n\nAdrenal insufficiency\nRefractory hypothermia"
+  },
+  {
+    "objectID": "disease/endo/myxoedema_coma.html#prognosis",
+    "href": "disease/endo/myxoedema_coma.html#prognosis",
+    "title": "Myxoedema Coma",
+    "section": "Prognosis",
+    "text": "Prognosis\n\nMortality >50%"
+  },
+  {
+    "objectID": "disease/endo/myxoedema_coma.html#key-studies",
+    "href": "disease/endo/myxoedema_coma.html#key-studies",
+    "title": "Myxoedema Coma",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/endo/myxoedema_coma.html#references",
+    "href": "disease/endo/myxoedema_coma.html#references",
+    "title": "Myxoedema Coma",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
   },
   {
     "objectID": "disease/endo/acromegaly.html#epidemiology-and-risk-factors",
@@ -13829,7 +14004,7 @@
     "href": "disease/git/alf.html#management",
     "title": "Acute Liver Failure",
     "section": "Management",
-    "text": "Management\n\nGoals of therapy are:\n\nIdentify cause\nSupportive care to limit hepatic damage\nEarly identification of patients for transplant\n\nSignificant improvement in outcomes with emergency liver transplantation\nEarly escalation to critical care and early referral to a specialist centre is essential\n\n\n\nResuscitation:\n\n\nA\nConsider securing if:\n\nHigh grade (III/IV) encephalopathy\nNeed for transfer\n\nB\n\nCO2 control for ICP management\n\nC\n\nClassically distributive shock picture\n\nNoradrenaline\n\n\nD\n\n↑ ICP\n\n\nControl with standard ICP management\n\n\n\nSpecific therapy:\n\nProcedural\n\nLiver transplantation\n\nPhysical\n\nExtra-corporeal hepatic support\nArtificial, extra-corporeal liver replacement therapy. Broadly, ↓ encephalopathy and ↑ haemodynamic function without mortality benefit. May be:\n\nBiological\nUsing human/porcine cells.\nMechanical\nMolecular filtration.\n\n\n\nUnderlying cause:\n\n\nManagement of paracetamol overdose is covered under Chapter 376.\n\nParacetamol overdose\n\nN-acetylcysteine (NAC)\n\n\nCornerstone of therapy as early administration results in significant reduction in mortality (to <1%), though even late administration may improve outcome\nDosing based on Prescott nomogram\n\n\nViral hepatitis\n\nAntivirals\nHepatitis B\n\nLamivudine\nBenefit if given early.\n\n\nAlcoholic hepatitis\nAutoimmune hepatitis\n\nSte\n\nMushroom poisoning\n\nForced diuresis\n↑ Renal clearance of toxin. Avoid hypovolaemia.\n\nWilson’s disease\n\nD-Penicillamine\nChelates copper. Withdrawal of chronic treatment may precipitate failure.\n\nHepatic vein thrombosis\n\nThrombolysis\nClot retrieval\nTIPS\n\n\nSupportive care:\n\n\nInvasive intracranial pressure monitoring associated with ~10% intracranial haemorrhage rate.\n\nB\n\nLung protective ventilation\nARDS risk.\nDrain pleural effusions\n\nD\n\n↑ ICP\n\n\nGeneral measures\nIf grade 3/4 encephalopathy, recommend:\n\nIntubation\nSedation\nAvoid stimulation\nHead-up positioning\n\nConsider invasive ICP management if all of:\n\n\nGrade 3-4 encephalopathy\nHyperacute liver failure\nAmmonia >150mmolL\nYoung\n\n\n\nE\n\n↓ BSL\nUse high-concentration dextrose to avoid cerebral oedema/↓ Na+.\n\nF\n\n↓ Phosphate\nReplenish.\nRRT\n\n\nAvoid citrate!\nCRRT preferential due to haemodynamics\nIn addition to standard indications, consider for:\n\nHyperammonaemia\nAim <100μmol/: to ↓ cerebral oedema.\nHypothermia\n\n\n\nG\n\nEarly enteral feeding\nMay have ↑ metabolic requirements. No change in protein requirement.\nLactulose\nControversial. May ↓ hepatic encephalopathy but lead to gaseous intestinal distension.\nPPI\nDrain ascites\nFor haemodynamic benefit.\n\nH\n\nCoagulopathy\nTreat if bleeding or prior to procedures. Patients may be prothrombotic, anti-thrombotic, or fibrinolytic, and the assays themselves (both coagulation profiles and point-of-care testing) may not correlate with the observed clinical effect.\n\nVitamin K\nVery reasonable, probably ineffective in the majority of patients.\n\n\n\nDisposition:\n\nLiver transplant centre\n\n\nMarginal and Ineffective Therapies"
+    "text": "Management\n\nGoals of therapy are:\n\nIdentify cause\nSupportive care to limit hepatic damage\nEarly identification of patients for transplant\n\nSignificant improvement in outcomes with emergency liver transplantation\nEarly escalation to critical care and early referral to a specialist centre is essential\n\n\n\nResuscitation:\n\n\nA\nConsider securing if:\n\nHigh grade (III/IV) encephalopathy\nNeed for transfer\n\nB\n\nCO2 control for ICP management\n\nC\n\nClassically distributive shock picture\n\nNoradrenaline\n\n\nD\n\n↑ ICP\n\n\nControl with standard ICP management\n\n\n\nSpecific therapy:\n\nProcedural\n\nLiver transplantation\n\nPhysical\n\nExtra-corporeal hepatic support\nArtificial, extra-corporeal liver replacement therapy. Broadly, ↓ encephalopathy and ↑ haemodynamic function without mortality benefit. May be:\n\nBiological\nUsing human/porcine cells.\nMechanical\nMolecular filtration.\n\n\n\nUnderlying cause:\n\n\nManagement of paracetamol overdose is covered under Chapter 378.\n\nParacetamol overdose\n\nN-acetylcysteine (NAC)\n\n\nCornerstone of therapy as early administration results in significant reduction in mortality (to <1%), though even late administration may improve outcome\nDosing based on Prescott nomogram\n\n\nViral hepatitis\n\nAntivirals\nHepatitis B\n\nLamivudine\nBenefit if given early.\n\n\nAlcoholic hepatitis\nAutoimmune hepatitis\n\nSte\n\nMushroom poisoning\n\nForced diuresis\n↑ Renal clearance of toxin. Avoid hypovolaemia.\n\nWilson’s disease\n\nD-Penicillamine\nChelates copper. Withdrawal of chronic treatment may precipitate failure.\n\nHepatic vein thrombosis\n\nThrombolysis\nClot retrieval\nTIPS\n\n\nSupportive care:\n\n\nInvasive intracranial pressure monitoring associated with ~10% intracranial haemorrhage rate.\n\nB\n\nLung protective ventilation\nARDS risk.\nDrain pleural effusions\n\nD\n\n↑ ICP\n\n\nGeneral measures\nIf grade 3/4 encephalopathy, recommend:\n\nIntubation\nSedation\nAvoid stimulation\nHead-up positioning\n\nConsider invasive ICP management if all of:\n\n\nGrade 3-4 encephalopathy\nHyperacute liver failure\nAmmonia >150mmolL\nYoung\n\n\n\nE\n\n↓ BSL\nUse high-concentration dextrose to avoid cerebral oedema/↓ Na+.\n\nF\n\n↓ Phosphate\nReplenish.\nRRT\n\n\nAvoid citrate!\nCRRT preferential due to haemodynamics\nIn addition to standard indications, consider for:\n\nHyperammonaemia\nAim <100μmol/: to ↓ cerebral oedema.\nHypothermia\n\n\n\nG\n\nEarly enteral feeding\nMay have ↑ metabolic requirements. No change in protein requirement.\nLactulose\nControversial. May ↓ hepatic encephalopathy but lead to gaseous intestinal distension.\nPPI\nDrain ascites\nFor haemodynamic benefit.\n\nH\n\nCoagulopathy\nTreat if bleeding or prior to procedures. Patients may be prothrombotic, anti-thrombotic, or fibrinolytic, and the assays themselves (both coagulation profiles and point-of-care testing) may not correlate with the observed clinical effect.\n\nVitamin K\nVery reasonable, probably ineffective in the majority of patients.\n\n\n\nDisposition:\n\nLiver transplant centre\n\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/git/alf.html#anaesthetic-considerations",
@@ -13920,7 +14095,7 @@
     "href": "disease/git/cld.html#prognosis",
     "title": "Chronic Liver Disease",
     "section": "Prognosis",
-    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 338.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
+    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 340.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
   },
   {
     "objectID": "disease/git/cld.html#key-studies",
@@ -15936,7 +16111,7 @@
     "href": "disease/infective/meningitis.html#investigations",
     "title": "Meningitis",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\nLaboratory:\n\n\nDetails of CSF findings in meningitis are covered under Chapter 396.\n\nBlood\n\nFBE\nInfection.\nBlood cultures\nPCR\n\nLP\n\nRequired to completely confirm diagnosis\nHowever, contraindications are common\n\nCoagulopathy\n↑ ICP, or significant clinical concern of such\n\nEmpirical antibiotics should be commenced if there is delay\nUrgent Gram stain and culture\n\n\nImaging:\nOther:"
+    "text": "Investigations\nBedside:\nLaboratory:\n\n\nDetails of CSF findings in meningitis are covered under Chapter 398.\n\nBlood\n\nFBE\nInfection.\nBlood cultures\nPCR\n\nLP\n\nRequired to completely confirm diagnosis\nHowever, contraindications are common\n\nCoagulopathy\n↑ ICP, or significant clinical concern of such\n\nEmpirical antibiotics should be commenced if there is delay\nUrgent Gram stain and culture\n\n\nImaging:\nOther:"
   },
   {
     "objectID": "disease/infective/meningitis.html#management",
