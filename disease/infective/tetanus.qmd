@@ -59,6 +59,7 @@ Mechanisms of *C. tetani* innoculation include:
 	* Puncture
 	* Laceration
 	* Dog bites
+	* Piercings
 * Skin breakdown
 	* Burns
 	* Chronic ulcers
@@ -85,7 +86,7 @@ Progression:
 	* Stiffness
 	* Rigidity
 	* **Trismus**\
-	Presentation typically at this point.
+	Presentation typically at this point, which occurs due to masseter spasm.
 	* Risus sardonicus\
 	Clenched-teeth expression relating to facial muscle spasm.
 * **Autonomic dysfunction**
@@ -117,6 +118,8 @@ Include:
 	* Dental
 	* TMJ disease
 	* Infection
+* Neurological disease
+	* Epilepsy
 * Toxidromes
 	* TCA overdose
 	* Strychnine poisoning
@@ -139,6 +142,8 @@ Laboratory:
 	* UEC\
 	Rhabdomyolysis.
 	* CMP
+* Wound culture\
+May grow *C. tetani*.
 
 Imaging:
 
@@ -188,17 +193,27 @@ Principles:
 	* **Human antitetanus immunoglobulin**
 		* 500 IU
 		* Should be given to all patients who are not known to be immunised on presentation
+		* Binds circulating toxin
 	* Antibiotics\
 	Spores and bacteria are destroyed by:
 		* Metronidazole 500mg IV Q6-8H for 10 days\
 		Preferred.
-		* Penicillin G 1-3MU IV Q6H for 10 days 
+		* Penicillin G 1-3MU IV Q6H for 10 days
 * Procedural
 	* Wound care\
 	Washout of contaminated wounds.
 	* Source control
 * Physical
 
+
+**Supportive Care**:
+
+* C
+	* Haemodynamic control
+		* Labetalol
+		* Magnesium
+		* Clonidine
+		
 
 **Disposition**:
 

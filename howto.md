@@ -16,6 +16,7 @@ quarto::quarto_preview
 * Autolink to terms ?disease ?management
 * Correct image size when column-margin images have captions
 * Click on margin images to pop into centre screen
+* Add scrolling radiology images
 
 # Decisions
 

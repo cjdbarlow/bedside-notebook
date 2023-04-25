@@ -1,24 +1,52 @@
 # Aspergillosis
 
+Fungal infection by the mold ***Aspergillus*** with a broad **spectrum** of clinical **disease** from:
+
+* **Hypersensitivity**\
+Colonisation is usually benign, but allergic bronchopulmonary aspergillosis can result and progress to:
+    * Asthma
+    * Bronchiectasis
+    * Pulmonary fibrosis
+* **Aspergilloma**
+* **Necrotising pneumonia**
+* **Invasive aspergillosis**\
+Severe respiratory failure, usually with different preceding course depending on immune function.
+    * Neutropenic\
+    Refractory fever, extra-pulmonary infection (abscesses), and pulmonary infarction.
+    * Non-neutropenic\
+    Mimics bacterial pneumonia with dyspnoea and sputum production predominating.
+
+
 
 ## Epidemiology and Risk Factors
 
-Major risk factors are surrogates of immunosuppression, and include:
+Major risk factors for both disease and severity are essentially **surrogates of immunosuppression** as well as underlying **lung disease**. They include:
 
-* Patient
+:::column-margin
+Respiratory disease significantly ↑ rate of aspergillus colonisation, and risk of subsequent infection if immunocompromise occurs.
+:::
+
+* **Patient**
     * Extremes of age\
     \<1 and >70.
     * Malnutrition
-* Disease
-    * COPD
-    * Diabetes
-    * Burns
-    * HIV
-    * Prolonged neutropenia
-    * Bone marrow transplant
-    * Complicated abdominal surgery
-    * Decompensated CLD
-* Treatment factors
+    * Alcohol misuse
+* **Disease**
+    * Respiratory
+        * COPD
+        * CF
+        * Interstitial lung disease
+    * Immunocompromise
+        * Diabetes
+        * Burns
+        * HIV
+        * Prolonged neutropenia
+        * Bone marrow transplant
+        * Solid organ transplant\
+        Lung most significant.
+        * Complicated abdominal surgery
+        * Decompensated CLD
+* **Treatment factors**
     * Prolonged ICU stay
     * Mechanical ventilation
     * Broad spectrum antibiotics
@@ -27,28 +55,157 @@ Major risk factors are surrogates of immunosuppression, and include:
     * Steroid\
     \>1mg/kg for >2 weeks.
     * Chemotherapy
-* Environmental
+* **Environmental**
     * Construction site exposure 
 
 ## Pathophysiology
 
-### Aetiology
+Fungal pneumonia:
+
+* Peri-vascular predominance in the immunocompromised
+    * ↑ Rate of pulmonary infarction\
+    Leads to:
+        * Haemoptysis
+        * Cavity formation
+* Bronchoalveolar pneumonia in the immunocompetent
+    * Similar to other pneumonias
+    * "Classical" features of cavitation and aspergilloma formation are rarer
+
 
 ## Clinical Manifestations
+
+* Respiratory failure
+* Persistent infection
+    * Pneumonia refractory to antibiotics
+    * Refractory fever
+* Pulmonary infarction
+    * Cough
+    * Pleuritic chest pain
+    * Haemoptysis\
+    May be massive.
+* Distant infection
+    * Abscesses
+    * Skin lesions
+
+
+In the immunocompromised, haematogenous dissemination and rampant infection can lead to:
+
+* Endocarditis
+* Endophthalmitis
+* Abscesses
 
 ## Diagnostic Approach and DDx
 
 ## Investigations
 
+:::info
+Cultures, stain, and specific testing (galactomannan, PCR) are unable to discriminate between colonisation and infection.
+:::
+
+Laboratory:
+
+:::column-margin
+Galactomannan is a cell wall polysaccharide found in *aspergillus*, ice cream, salad dressings, and cream cheese. 
+:::
+
+* Blood
+    * FBE
+        * Eosinophilia
+        * Neutropenia
+    * Serum galactomannan
+        * Moderately sensitive (75%) and specific (85%) at a cutoff of >0.5\
+        Higher cutoffs ↑ specificity and ↓ sensitivity.
+        * Lower sensitivity in the immunocompetent and those receiving prophylaxis
+    * β-D-glucan antigen\
+    Cell wall component of most fungi. Improves sensitivity and specificity in combination with galactomannan.
+    * Serum PCR
+        * Similar diagnostic properties to serum galactomannan.
+* Bronchoscopy\
+BAL is an integral part of adequate sampling.
+    * Visual inspection
+    * Fungal culture and stain\
+        * Difficult to culture, with correspondingly low sensitivity and long culture times
+        * Loss of specificity with *aspergillus* colonisation
+    * *Aspergillus* PCR
+        * Highly sensitive - negative result persuasive for no infection
+    * BAL galactomannan
+        * Better than serum galactomannan in the immunocompetent\
+        More likely to have contained pulmonary disease.
+    * Transbronchial biopsy
+        * Definitive diagnostic test
+        * Risk of bleeding and pneumothorax often precludes this, particularly in the critically unwell
+* Sputum\
+Significantly ↓ yield compared with BAL.
+    * *Aspergillus* radioallergosorbent assay
+    * Silver staining
+    * *Aspergillus* IgG/IgE
+
+Imaging:
+
+* **CXR**
+    * Aspergilloma cavities
+* **CT**
+    * Aspergilloma cavities
+    * Nodules
+    * Monod sign\
+    Free-moving (i.e. positional and dependent) aspergilloma in a pulmonary cavity.
+    * Halo sign\
+    Ground-glass opacity around a nodule or mass, usually indicating haemorrhage secondary to pulmonary infarction.
+    * Air crescent sign\
+    Halo of air around a region of necrosis, and indicates recovery.
+
+:::column-margin
+![](/resources/monod.jpg)\
+\
+![](/resources/air-crescent-sign.jpg)
+:::
+
+Other:
+
+* Open lung biopsy\
+Rarely indicated due to risk of procedure.
+
 ## Management
+
+:::info
+Aggressiveness of antifungal treatment depends on the severity of clinical presentation, and usually begins prior to diagnostic confirmation due to the long lead time of specific investigations.
+:::
+
 
 **Resuscitation**:\
 
 **Specific therapy**:
 
 * Pharmacological
+    * Allergic Bronchopulmonary Aspergillosis
+        * Corticosteroids
+        * PO itraconazole
+    * Aspergilloma
+        * PO itraconazole
+    * Pneumonia and invasive disease
+        * **IV antifungal**
+            * **Voriconazole**\
+            1^st^ line for efficacy.
+            * **Echinocandins**\
+            Synergistic when combined with azoles. Combination therapy may be appropriate with:
+                * Known or likely azole resistance\
+                From culture findings, treatment failure, or local microbial patterns.
+                * Severe disease\
+                Profound immunosuppression.
+            * Amphotericin B\
+            Generally not preferred due to nephrotoxicity. Indicated for:
+                * Hepatic failure
+                * Azole-resistant
+        * **Altering immunosuppression**\
+        Consideration should be given to ↓ exogenous immunosuppression.
+        * **G-CSF**\
+        For neutropenia.
 * Procedural
+    * Aspergilloma
+        * **Surgical resection**
+        * Percutaneous amphotericin injection
 * Physical
+    * Respiratory isolation
 
 **Supportive care**:
 
@@ -60,6 +217,8 @@ Major risk factors are surrogates of immunosuppression, and include:
 
 ## Complications
 
+
+
 ## Prognosis
 
 ## Key Studies
@@ -68,3 +227,6 @@ Major risk factors are surrogates of immunosuppression, and include:
 ---
 
 ## References
+
+1. Case courtesy of Frank Gaillard, Radiopaedia.org, rID: [8684](https://radiopaedia.org/cases/8684?lang=us).
+2. Case courtesy of Ian Bickle, Radiopaedia.org, rID: [26223](https://radiopaedia.org/cases/26223?lang=us).
