@@ -487,7 +487,7 @@
     "href": "management/resus/intrauterineresus.html#management",
     "title": "Intrauterine Resuscitation",
     "section": "Management",
-    "text": "Management\n↑ degree of escalation:\n\nPlace in full left (or right) lateral position\nRemoves aorto-caval compression.\nReduce/cease oxytocin infusion\nReduces intrauterine pressure, reducing foetal compression and improving uteroplacental blood flow.\nGive fluid bolus\n500ml-1L CSL.\n\nAssociated with improvement in foetal oxygenation even with adequate maternal driving pressure\nCaution in women with preeclampsia or receiving tocolytics\n\nGive vasopressor\nParticularly if foetal distress is epidural or spinal associated.\n\nPhenylephrine 50-100μg\nEphedrine\n\nGive tocolytics\n\n250μg terbutaline SC\nGTN 60-180μg IV\nLikely faster onset and offset than SC terbutaline.\nGTN 800μg SL\n\nDelivery\nIf foetal distress is not corrected by fixing reversible factors.\n\n\nSecond-line Strategies\n\nAdminister 15L/min O2\n\nPlacental transfer of oxygen is driven by tension (mmHg) rather than content (ml/100ml), and so this may be effective even in a normoxic mother\nEvidence supporting this practice is inconsistent, and potential harms have limited this practice\n\nAlternate maternal position\nMay alleviate cord compression depending on relationship between pelvis, foetus, and cord. Consider:\n\nThese positions\n\nFull left lateral\nFull right lateral\nAll fours\n\nWill probably be unhelpful if oligohydramnios or nuchal cord is present\n\nAmnioinfusion\nTransfusion of normal saline into the uterine cavity where foetal distres is due to cord compression secondary to oligohydramnios.\nElevation of the foetal vertex\nTransvaginal elevation of the foetal head out of the birth canal for foetal distress due to cord prolapse."
+    "text": "Management\n↑ degree of escalation:\n\nPlace in full left (or right) lateral position\nRemoves aorto-caval compression.\nReduce/cease oxytocin infusion\nReduces intrauterine pressure, reducing foetal compression and improving uteroplacental blood flow.\nGive fluid bolus\n500ml-1L CSL.\n\nAssociated with improvement in foetal oxygenation even with adequate maternal driving pressure\nCaution in women with pre-eclampsia or receiving tocolytics\n\nGive vasopressor\nParticularly if foetal distress is epidural or spinal associated.\n\nPhenylephrine 50-100μg\nEphedrine\n\nGive tocolytics\n\n250μg terbutaline SC\nGTN 60-180μg IV\nLikely faster onset and offset than SC terbutaline.\nGTN 800μg SL\n\nDelivery\nIf foetal distress is not corrected by fixing reversible factors.\n\n\nSecond-line Strategies\n\nAdminister 15L/min O2\n\nPlacental transfer of oxygen is driven by tension (mmHg) rather than content (ml/100ml), and so this may be effective even in a normoxic mother\nEvidence supporting this practice is inconsistent, and potential harms have limited this practice\n\nAlternate maternal position\nMay alleviate cord compression depending on relationship between pelvis, foetus, and cord. Consider:\n\nThese positions\n\nFull left lateral\nFull right lateral\nAll fours\n\nWill probably be unhelpful if oligohydramnios or nuchal cord is present\n\nAmnioinfusion\nTransfusion of normal saline into the uterine cavity where foetal distres is due to cord compression secondary to oligohydramnios.\nElevation of the foetal vertex\nTransvaginal elevation of the foetal head out of the birth canal for foetal distress due to cord prolapse."
   },
   {
     "objectID": "management/resus/intrauterineresus.html#references",
@@ -2121,48 +2121,6 @@
     "text": "References\n\nYartsev, A. Hyponatraemia: A Lazy Man’s Classification. Deranged Physiology. 2016.\nMilionis HJ, Liamis GL, Elisaf MS. The hyponatremic patient: a systematic approach to laboratory diagnosis. CMAJ: Canadian Medical Association Journal. 2002;166(8):1056-1062.\nBuffington MA, Abreo K. Hyponatremia: A Review. J Intensive Care Med. 2016. May;31(4):223-36."
   },
   {
-    "objectID": "management/fluid/hypoca.html#epidemiology-and-risk-factors",
-    "href": "management/fluid/hypoca.html#epidemiology-and-risk-factors",
-    "title": "Hypocalcaemia",
-    "section": "Epidemiology and Risk Factors",
-    "text": "Epidemiology and Risk Factors\nCommon electrolyte abnormality:\n\n18% of hospital inpatients\n85% of ICU patients"
-  },
-  {
-    "objectID": "management/fluid/hypoca.html#pathophysiology",
-    "href": "management/fluid/hypoca.html#pathophysiology",
-    "title": "Hypocalcaemia",
-    "section": "Pathophysiology",
-    "text": "Pathophysiology\nCalcium is an important cation with multiple critical functions:\n\nMuscular contraction\nCoagulation\nNeurotransmission\nHormone release\nCellular apoptosis\n\nCalcium homeostasis is regulated by:\n\nPTH\n\n\nRelease stimulated by ↓ serum calcium and magnesium\n↑ Renal and bone reabsorption\n↑ Calcitriol production\n↑ Gut calcium absorption.\n\nVitamin D\nCalcitriol precursor.\nCalcitonin\nFunctionally a PTH antagonist.\n\nRelease stimulated by hypercalcaemia, catecholamines, and gastrin\n↓ Bone reabsorption and ↑ renal elimination\n\n\n\nAetiology\n\n↓ PTH\n\nPrimary\n\nParathyroid/thyroid surgery\nAutoimmune disease\n\nSecondary\n\nSepsis\nHypomagnesaemia\n<0.4mmol/L.\n\n\n↑ PTH\n\n↓ Vitamin D\n\nDietary\n\nMalabsorption\n\n↓ Sunlight exposure\nRenal failure\nPregnancy\n\nPTH resistance\n\nHypomagnesaemia\n\nCalcium loss/consumption\n\nHyperphosphataemia\n\nTLS\n\nAcute pancreatitis\nClotting\nBone metastases\nAlkalosis\n\nDrugs\n\nCitrate\nTotal calcium remains normal, because the citrate-calcium complex is measured and accounted for.\nBisphosphonates\nPhenytoin\n\n\n\n\n\nA primary alkalosis (e.g. from hyperventilation) causes an ionised hypocalcaemia by ↑ calcium binding to albumin. However, many other causes of hypocalcaemia also cause metabolic acidosis (e.g. TLS, renal failure)."
-  },
-  {
-    "objectID": "management/fluid/hypoca.html#clinical-manifestations",
-    "href": "management/fluid/hypoca.html#clinical-manifestations",
-    "title": "Hypocalcaemia",
-    "section": "Clinical Manifestations",
-    "text": "Clinical Manifestations\n\nC\n\nLong QT\nTDP if severe.\n\nD\n\nParaesthesias\nConfusion/delirium\n\nE\n\nTwitching\nSpasm/Tetany\n\nCarpopedal spasm\n\n\n\n\n\nChvostek’s sign - tapping the parotid gland over the facial nerve to induce facial spasm - is a poor discriminator of ↓ calcium. 10% of normal patients are positive, and ~30% of hypocalcaemic patients are negative."
-  },
-  {
-    "objectID": "management/fluid/hypoca.html#investigations",
-    "href": "management/fluid/hypoca.html#investigations",
-    "title": "Hypocalcaemia",
-    "section": "Investigations",
-    "text": "Investigations\nBloods:\n\nPTH\nShould be ↑ in the setting of hypocalcaemia.\n25-hydroxyvitamin D\nRenal function\nAlbumin\nLipase\nPancreatitis.\nMagnesium\nPhosphate\n\n\n↑ Phosphate associated with primary hypoparathyroidism\nPhosphate also chelates calcium, which may contribute to ↓ calcium.\n↓ Phosphate associated with secondary hypoparathyroidism\n\n\nOther:\n\nECG\nLong QT, TDP."
-  },
-  {
-    "objectID": "management/fluid/hypoca.html#management",
-    "href": "management/fluid/hypoca.html#management",
-    "title": "Hypocalcaemia",
-    "section": "Management",
-    "text": "Management\n\nIV replacement should be used for anyone with:\n\nNeuromuscular irritability\nSerum calcium <1.9mmol/L\n\n\nAcute:\n\nCorrect any hypomagnesaemia\nIV Calcium Gluconate\n\n10mL 10% (diluted to 50-100mL) over 10 minutes\nCardiac monitor due to risk of dysrhythmia.\nInfusion\n100mL 10% (diluted to 1L), run at 50mL/hr. Expect ~0.3-0.5mmol/L ↑ in calcium over 6 hours. IV Calcium Gluconate infusion if required, titrating rate to serum calcium.\n\n\n\n\nCalcium chloride can also be used, but needs a big reliable drip or CVC due to the risk of devastating tissue necrosis on extravasation.\nSub-acute:\n\n↓ PTH\n\n\nCalcitriol 0.25-1ug/day\nOral calcium supplementation\n\nNormal/↑ PTH\n\n50,000 IU Cholecalciferol\n\n\n\n\n\nCholecalciferol requires PTH for conversion, which is why calcitriol is used in the ↓ PTH group.\nPersistent:\n\nIf calcium continues to fall despite treatment, consider:\n\nThiazide\n↑ Renal calcium reabsorption.\nRecombinant PTH"
-  },
-  {
-    "objectID": "management/fluid/hypoca.html#references",
-    "href": "management/fluid/hypoca.html#references",
-    "title": "Hypocalcaemia",
-    "section": "References",
-    "text": "References\n\nCooper, Mark S, and Neil J L Gittoes. Diagnosis and Management of Hypocalcaemia. BMJ: British Medical Journal 336, no. 7656 (June 7, 2008): 1298–1302."
-  },
-  {
     "objectID": "management/fluid/hyperca.html#epidemiology-and-risk-factors",
     "href": "management/fluid/hyperca.html#epidemiology-and-risk-factors",
     "title": "Hypercalcaemia",
@@ -2195,7 +2153,7 @@
     "href": "management/fluid/hyperca.html#investigations",
     "title": "Hypercalcaemia",
     "section": "Investigations",
-    "text": "Investigations\nBloods:\n\nUEC\nRenal failure.\nMg\n\nPTH\nALP\nLipase\nPTHrP\nRule out humoral hypercalcaemia of malignancy.\n1,25-dihydroxy vitamin D\n25-hydroxy vitamin D\nRule out vitamin D intoxication.\nTSH\n\nOthers:\n\nUrinary calcium\nHypercalciuria usually precedes hypercalcaemia, as hypercalcaemia only occurs when renal elimination is overwhelmed.\nECG"
+    "text": "Investigations\nBedside: * ABG\nLaboratory:\n\n\nThree equations exist to correct measured calcium:\n\nCorrection of ionised calcium for pH:\n\\(iCa^{2+}_{7.4}c = iCa^{2+} \\times (1 - 0.53 \\times (7.40 - pH))\\)\nCorrecting total calcium for:\n\nAlbumin:\nMeasured total calcium will ↓ (or ↑) by 0.02 mmol/L for every 1g/L ↓ (or ↑) the albumin is above 40g/L.\nGlobulins:\nMeasured total calcium will ↓ (or ↑) by 0.04mmol/L for every 10g/L ↓ (or ↑) in serum globulin.\n\n\n\nBloods\n\nUEC\nRenal failure.\nMg\n\nPTH\nALP\nLipase\nPTHrP\nRule out humoral hypercalcaemia of malignancy.\n1,25-dihydroxy vitamin D\n25-hydroxy vitamin D\nRule out vitamin D intoxication.\nTSH\n\n\nOther:\n\nUrinary calcium\nHypercalciuria usually precedes hypercalcaemia, as hypercalcaemia only occurs when renal elimination is overwhelmed.\nECG"
   },
   {
     "objectID": "management/fluid/hyperca.html#management",
@@ -2230,7 +2188,49 @@
     "href": "management/fluid/hyperca.html#references",
     "title": "Hypercalcaemia",
     "section": "References",
-    "text": "References\n\nShane, Elizabeth, and I. Dinaz. Hypercalcemia: pathogenesis, clinical manifestations, differential diagnosis, and management. Primer on the Metabolic Bone Diseases and Disorders of Mineral Metabolism, Favus MJ (ed.). Philadelphia: Lippincott, Williams &Wilkins (1999): 183-87.\neviQ. Hypercalcaemia of Malignancy. ID: 486 v.4."
+    "text": "References\n\nShane, Elizabeth, and I. Dinaz. Hypercalcemia: pathogenesis, clinical manifestations, differential diagnosis, and management. Primer on the Metabolic Bone Diseases and Disorders of Mineral Metabolism, Favus MJ (ed.). Philadelphia: Lippincott, Williams &Wilkins (1999): 183-87.\neviQ. Hypercalcaemia of Malignancy. ID: 486 v.4.\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
+  },
+  {
+    "objectID": "management/fluid/hypoca.html#epidemiology-and-risk-factors",
+    "href": "management/fluid/hypoca.html#epidemiology-and-risk-factors",
+    "title": "Hypocalcaemia",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors\nCommon electrolyte abnormality:\n\n18% of hospital inpatients\n85% of ICU patients"
+  },
+  {
+    "objectID": "management/fluid/hypoca.html#pathophysiology",
+    "href": "management/fluid/hypoca.html#pathophysiology",
+    "title": "Hypocalcaemia",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\nCalcium is an important cation with multiple critical functions:\n\nMuscular contraction\nCoagulation\nNeurotransmission\nHormone release\nCellular apoptosis\n\nCalcium homeostasis is regulated by:\n\nPTH\n\n\nRelease stimulated by ↓ serum calcium and magnesium\n↑ Renal and bone reabsorption\n↑ Calcitriol production\n↑ Gut calcium absorption.\n\nVitamin D\nCalcitriol precursor.\nCalcitonin\nFunctionally a PTH antagonist.\n\nRelease stimulated by hypercalcaemia, catecholamines, and gastrin\n↓ Bone reabsorption and ↑ renal elimination\n\n\n\nAetiology\n\n↓ PTH\n\nPrimary\n\nParathyroid/thyroid surgery\nAutoimmune disease\n\nSecondary\n\nSepsis\nHypomagnesaemia\n<0.4mmol/L.\n\n\n↑ PTH\n\n↓ Vitamin D\n\nDietary\n\nMalabsorption\n\n↓ Sunlight exposure\nRenal failure\nPregnancy\n\nPTH resistance\n\nHypomagnesaemia\n\nCalcium loss/consumption\n\nHyperphosphataemia\n\nTLS\n\nAcute pancreatitis\nClotting\nBone metastases\nAlkalosis\n\nDrugs\n\nCitrate\nTotal calcium remains normal, because the citrate-calcium complex is measured and accounted for.\nBisphosphonates\nPhenytoin\n\n\n\n\n\nA primary alkalosis (e.g. from hyperventilation) causes an ionised hypocalcaemia by ↑ calcium binding to albumin. However, many other causes of hypocalcaemia also cause metabolic acidosis (e.g. TLS, renal failure)."
+  },
+  {
+    "objectID": "management/fluid/hypoca.html#clinical-manifestations",
+    "href": "management/fluid/hypoca.html#clinical-manifestations",
+    "title": "Hypocalcaemia",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations\n\nC\n\nLong QT\nTDP if severe.\n\nD\n\nParaesthesias\nConfusion/delirium\n\nE\n\nTwitching\nSpasm/Tetany\n\nCarpopedal spasm\n\n\n\n\n\nChvostek’s sign - tapping the parotid gland over the facial nerve to induce facial spasm - is a poor discriminator of ↓ calcium. 10% of normal patients are positive, and ~30% of hypocalcaemic patients are negative."
+  },
+  {
+    "objectID": "management/fluid/hypoca.html#investigations",
+    "href": "management/fluid/hypoca.html#investigations",
+    "title": "Hypocalcaemia",
+    "section": "Investigations",
+    "text": "Investigations\nBedside:\n\nABG\n\nLaboratory:\n\n\nThree equations exist to correct measured calcium:\n\nCorrection of ionised calcium for pH:\n\\(iCa^{2+}_{7.4}c = iCa^{2+} \\times (1 - 0.53 \\times (7.40 - pH))\\)\nCorrecting total calcium for:\n\nAlbumin:\nMeasured total calcium will ↓ (or ↑) by 0.02 mmol/L for every 1g/L ↓ (or ↑) the albumin is above 40g/L.\nGlobulins:\nMeasured total calcium will ↓ (or ↑) by 0.04mmol/L for every 10g/L ↓ (or ↑) in serum globulin.\n\n\n\nBloods\n\nPTH\nShould be ↑ in the setting of hypocalcaemia.\n25-hydroxyvitamin D\nRenal function\nAlbumin\nLipase\nPancreatitis.\nMagnesium\nPhosphate\n\n\n↑ Phosphate associated with primary hypoparathyroidism\nPhosphate also chelates calcium, which may contribute to ↓ calcium.\n↓ Phosphate associated with secondary hypoparathyroidism\n\n\n\nOther:\n\nECG\nLong QT, TDP."
+  },
+  {
+    "objectID": "management/fluid/hypoca.html#management",
+    "href": "management/fluid/hypoca.html#management",
+    "title": "Hypocalcaemia",
+    "section": "Management",
+    "text": "Management\n\nMild hypocalcaemia (iCa2+ 0.8-1.1) in the critically ill is common and does not require replacement.\n\n\nIV replacement should be used for anyone with:\n\nNeuromuscular irritability\nSerum calcium <1.9mmol/L\n\n\nAcute:\n\nCorrect any hypomagnesaemia\nIV Calcium Gluconate\n\n10mL 10% (diluted to 50-100mL) over 10 minutes\nCardiac monitor due to risk of dysrhythmia.\nInfusion\n100mL 10% (diluted to 1L), run at 50mL/hr. Expect ~0.3-0.5mmol/L ↑ in calcium over 6 hours. IV Calcium Gluconate infusion if required, titrating rate to serum calcium.\n\n\n\n\nCalcium chloride can also be used, but requires a large reliable drip or CVC due to the risk of devastating tissue necrosis on extravasation.\n\n\nCalcium Dose Equivalents\n\n\n\n\n\n\n\nFormulation\nDose\nElemental Ca2+/g\n\n\n\n\nCalcium Gluconate\n10mL\n2.3mmol\n\n\nCalcium Chloride\n10mL\n8.6mmol\n\n\n\n\nSub-acute:\n\n↓ PTH\n\n\nCalcitriol 0.25-1ug/day\nOral calcium supplementation\n\nNormal/↑ PTH\n\n50,000 IU Cholecalciferol\n\n\n\n\n\nCholecalciferol requires PTH for conversion, which is why calcitriol is used in the ↓ PTH group.\nPersistent:\n\nIf calcium continues to fall despite treatment, consider:\n\nThiazide\n↑ Renal calcium reabsorption.\nRecombinant PTH"
+  },
+  {
+    "objectID": "management/fluid/hypoca.html#references",
+    "href": "management/fluid/hypoca.html#references",
+    "title": "Hypocalcaemia",
+    "section": "References",
+    "text": "References\n\nCooper, Mark S, and Neil J L Gittoes. Diagnosis and Management of Hypocalcaemia. BMJ: British Medical Journal 336, no. 7656 (June 7, 2008): 1298–1302.\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
   },
   {
     "objectID": "management/renal/overview.html#principles",
@@ -4050,7 +4050,7 @@
     "href": "anaesthesia/regional/epidural.html#comp",
     "title": "Epidural",
     "section": "Management of Complications Relating to Epidural Insertion",
-    "text": "Management of Complications Relating to Epidural Insertion\nThis covers complications of insertion. Troubleshooting the working epidural is covered here.\nComplications of epidural insertion include:\n\nAccidental dural puncture\nSubdural injection\nIntravascular injection\nBroken epidural catheter\nParaesthesia\n\n\nAccidental Dural Puncture\nManagement of PDPH is covered here.\nDural puncture is:\n\nCommon\n1-2% of epidural insertions.\n\nPredominantly by needle\nRarely by catheter\nImportant as may result in inadvertent total spinal.\n\nMay lead to PDPH\n75-85% in the labour epidural population.\n\nFollowing dural puncture, one can either:\n\nUse as an intrathecal catheter\nThis is a higher risk technique.\n\nPass epidural catheter and leave 2-2.5cm in the space\nLabel clearly as SPINAL\nCautiously establish block\nTypically, intrathecal doses are ~1/10thsup> of epidural doses.\n\nConsider using 1.5-2ml of 0.25% bupivacaine with 15µg of fentanyl\n\nLeave catheter in situ for 24 hours, but this is not supported by evidence\nInitially thought to reduce requirement for blood patch, however this is not born out in replication studies.\n\nRemove and repeat\n\nHigher risk of subsequent dural puncture\nCautiously test dose repeat epidural\nSome LA may migrate intrathecally.\n\nNote there is no benefit for prophylactic blood patch\n\n\n\nSubdural Injection\nOccasionally, injection may be between the dura and the arachnoid. Subdural injection:\n\nTypically causes a:\n\nDelayed onset\n10-30 minutes may elapse; however block density tends to ↑ rapidly after onset. Hypotension may be the presenting symptom.\nHigh block\nDue to reduced compliance of the subdural space compared to the epidural space, causing solution to rise higher in the space.\nWeak/patchy block\nDue to spread of a small amount of LA through a large area.\n\n\n\n\nIntravascular Injection\nIntravascular injection of LA may:\n\nOccur:\n\nAt insertion\nFollowing migration/manipulation of catheter\n\nLead to systemic LA toxicity\n\nManagement priorities are:\n\nABC\nManagement of LA toxicity\nFoetus\nEvaluate foetal heart rate:\n\nIf normal, labour may continue\nCat 1 LUSCS should be planned in setting of non-reassuring trace\n\n\n\n\nBroken Epidural Catheter\n\nGenerally should be left in place\n\n\n\nParaesthesia\n\nOccurs in 5-25% of insertions\nIf paraesthesia persists after catheter maniuplation then the catheter should be removed and re-inserted in a different space\nMay be an association with severe neurological deficit."
+    "text": "Management of Complications Relating to Epidural Insertion\nThis covers complications of insertion. Troubleshooting the working epidural is covered here.\nComplications of epidural insertion include:\n\nAccidental dural puncture\nSubdural injection\nIntravascular injection\nBroken epidural catheter\nParaesthesia\n\n\nAccidental Dural Puncture\nManagement of PDPH is covered here.\nDural puncture is:\n\nCommon\n1-2% of epidural insertions.\n\nPredominantly by needle\nRarely by catheter\nImportant as may result in inadvertent total spinal.\n\nMay lead to PDPH\n75-85% in the labour epidural population.\n\nFollowing dural puncture, one can either:\n\nUse as an intrathecal catheter\nThis is a higher risk technique.\n\nPass epidural catheter and leave 2-2.5cm in the space\nLabel clearly as SPINAL\nCautiously establish block\nTypically, intrathecal doses are ~1/10th of epidural doses.\n\nConsider using 1.5-2ml of 0.25% bupivacaine with 15µg of fentanyl\n\nLeave catheter in situ for 24 hours, but this is not supported by evidence\nInitially thought to reduce requirement for blood patch, however this is not born out in replication studies.\n\nRemove and repeat\n\nHigher risk of subsequent dural puncture\nCautiously test dose repeat epidural\nSome LA may migrate intrathecally.\n\nNote there is no benefit for prophylactic blood patch\n\n\n\nSubdural Injection\nOccasionally, injection may be between the dura and the arachnoid. Subdural injection:\n\nTypically causes a:\n\nDelayed onset\n10-30 minutes may elapse; however block density tends to ↑ rapidly after onset. Hypotension may be the presenting symptom.\nHigh block\nDue to reduced compliance of the subdural space compared to the epidural space, causing solution to rise higher in the space.\nWeak/patchy block\nDue to spread of a small amount of LA through a large area.\n\n\n\n\nIntravascular Injection\nIntravascular injection of LA may:\n\nOccur:\n\nAt insertion\nFollowing migration/manipulation of catheter\n\nLead to systemic LA toxicity\n\nManagement priorities are:\n\nABC\nManagement of LA toxicity\nFoetus\nEvaluate foetal heart rate:\n\nIf normal, labour may continue\nCat 1 LUSCS should be planned in setting of non-reassuring trace\n\n\n\n\nBroken Epidural Catheter\n\nGenerally should be left in place\n\n\n\nParaesthesia\n\nOccurs in 5-25% of insertions\nIf paraesthesia persists after catheter maniuplation then the catheter should be removed and re-inserted in a different space\nMay be an association with severe neurological deficit."
   },
   {
     "objectID": "anaesthesia/regional/epidural.html#references",
@@ -6598,7 +6598,7 @@
     "href": "anaesthesia/obs/terms.html#iugr",
     "title": "Obstetric Terms",
     "section": "Intrauterine Growth Restriction - IUGR",
-    "text": "Intrauterine Growth Restriction - IUGR\nEstimated foetal weight that is under the 10th centile on ultrasound:\n\nDoes not imply pathology\nMay be normal, but also associated with:\n\nUteroplacental insufficiency\nIn turn associated with severe preeclampsia, which requires monitoring.\nntepartum stillbirth\nPreterm delivery\n\nGenerally requires ↑ surveillance\nMay require early delivery for foetal or maternal reasons"
+    "text": "Intrauterine Growth Restriction - IUGR\nEstimated foetal weight that is under the 10th centile on ultrasound:\n\nDoes not imply pathology\nMay be normal, but also associated with:\n\nUteroplacental insufficiency\nIn turn associated with severe pre-eclampsia, which requires monitoring.\nAntepartum stillbirth\nPreterm delivery\n\nGenerally requires ↑ surveillance\nMay require early delivery for foetal or maternal reasons"
   },
   {
     "objectID": "anaesthesia/obs/terms.html#internal-foetal-monitoring",
@@ -12387,7 +12387,7 @@
     "href": "disease/neuro/mg.html#anaesthetic-considerations",
     "title": "Myasthenia Gravis",
     "section": "Anaesthetic Considerations",
-    "text": "Anaesthetic Considerations\n\nKey considerations:\n\nDisease stability\n\nElective surgery should occur when a patient requires minimal immunomodulation or glucocorticoids\n\nSurgery should occur in the morning\nUsually greatest muscular strength.\nAnticholinesterases should be continued\nStress dose steroids may be required\nConsider ICU admission post-operatively\n\n\n\nA\n\nBulbar symptoms\nIndicate risk of aspiration.\n\nB\n\nRespiratory muscle function\nConsider PFTs to predict need for ICU admission.\n\nD\n\nConduct of anaesthesia\nUse short-acting agents to minimise respiratory depression and time taken for emergence.\n\nE\n\nMuscle relaxants\nAvoid wherever possible.\n\nHighly sensitive to non-depolarising agents\nAvoid reversal with neostigmine where possible\nMay precipitate cholinergic crisis.\nResistant to suxamethonium"
+    "text": "Anaesthetic Considerations\nKey considerations:\n\nDisease stability\n\nElective surgery should occur when a patient requires minimal immunomodulation or glucocorticoids\n\nSurgery should occur in the morning\nUsually greatest muscular strength.\nAnticholinesterases should be continued\nStress dose steroids may be required\nConsider ICU admission post-operatively\n\nEvaluation:\n\nA\n\nBulbar symptoms\nIndicate risk of aspiration.\n\nB\n\nRespiratory muscle function\nConsider PFTs to predict need for ICU admission.\n\nD\n\nConduct of anaesthesia\nUse short-acting agents to minimise respiratory depression and time taken for emergence.\n\nE\n\nMuscle relaxants\nAvoid wherever possible.\n\nHighly sensitive to non-depolarising agents\nAvoid reversal with neostigmine where possible\nMay precipitate cholinergic crisis.\nResistant to suxamethonium"
   },
   {
     "objectID": "disease/neuro/mg.html#complications",
@@ -13251,6 +13251,83 @@
     "text": "References"
   },
   {
+    "objectID": "disease/endo/adrenal_insufficiency.html#epidemiology-and-risk-factors",
+    "href": "disease/endo/adrenal_insufficiency.html#epidemiology-and-risk-factors",
+    "title": "Adrenal Insufficiency",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors"
+  },
+  {
+    "objectID": "disease/endo/adrenal_insufficiency.html#pathophysiology",
+    "href": "disease/endo/adrenal_insufficiency.html#pathophysiology",
+    "title": "Adrenal Insufficiency",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\nIn health, the adrenal cortex is responsible for production of steroid hormones:\n\nUnder the control of the HPA axis\n\nCRH release from the hypothalamus stimulates ACTH release from the pituitary\nStimulation is ↑ during critical illness, resulting in ↑ plasma cortisol.\n\nIncluding:\n\nCortisol\nUsually secreted:\n\nIn pulses\nWith a diurnal pattern\n\nPeak at ~0800 hours\nTrough at ~0100\n\nUnder the influence of ACTH\nNegative feedback mechanism exists.\nAt 15-30mg/day\n\nAldosterone\nSex steroids\nRelatively unimportant in critical illness.\n\n\n\nAetiology\nPrimary adrenal insufficiency:\n\nAutoimmune\nMost common in Western world.\nInfections\n\nTB\nMost common worldwide.\nCMV\nHistoplasmosis\nCoccidiomycosis\n\nAdrenal haemorrhage\n\nSepsis\nMeningococcal septicaemia, also known as Waterhouse-Friderichsen syndrome.\nAPS\nTrauma\nSrugery\n\nInfiltrative\n\nTumour\nAmyloid\nSarcoid\nHaemachromatosis\n\nDrug related\n\nInhibition of cortisol synthesis\n\nEtomidate\nFluconazole\n\nInduce cortisol metabolism\n\nRifampicin\nPhenytoin\n\n\nCongenital\n\nAdrenal dysgenesis\n\n\nSecondary adrenal insufficiency:\n\nCessation of exogenous glucocorticoid\nPituitary disease\n\nSurgery\nInfarction\n\nSheehan’s syndrome\n\nPituitary tumour"
+  },
+  {
+    "objectID": "disease/endo/adrenal_insufficiency.html#clinical-manifestations",
+    "href": "disease/endo/adrenal_insufficiency.html#clinical-manifestations",
+    "title": "Adrenal Insufficiency",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations\nAdrenal crisis is a catastrophic syndrome characterised by:\n\nRefractory shock\nPoor response to vasopressors\n\n\n\nMany patients with primary deficiency will present with an adrenal crisis, due to the vague symptomatology of evolving disease.\nPresentation without an adrenal crisis is usually non-specific and ill-defined. Subtypes of adrenal insufficiency vary with their features:\n\nPrimary adrenal insufficiency is the only cause that produces hyperpigmentation\nOnly disease with ↑ ACTH production.\nSecondary adrenal insufficiency typically does not include mineralocorticoid deficiency, and remains a primarily cortisone-deficient state\n\n\nFeatures of Adrenal Insufficiency\n\n\n\n\n\n\n\nSpecific to Cortisone Deficiency\nSpecific to Aldosterone Deficiency\nNon-specific\n\n\n\n\n\nHypotension\nRefractory to fluids and vasopressors.\nHypoglycaemia\nHyperpigmentation\nDue to ↑ ACTH, which stimulates melanogenesis. First evident on mucous membranes, then non-sun exposed areas, followed by normal skin.\nEosinophilia\n\n\nHyponatraemia\nHyperkalaemia\nNAGMA\nType 4 RTA.\n\n\nWeakness\nWeight loss\nAnorexia\nAbdominal pain\nNausea\nDiarrhoea\nNormocytic anaemia\nPostural hypotension"
+  },
+  {
+    "objectID": "disease/endo/adrenal_insufficiency.html#diagnostic-approach-and-ddx",
+    "href": "disease/endo/adrenal_insufficiency.html#diagnostic-approach-and-ddx",
+    "title": "Adrenal Insufficiency",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
+  },
+  {
+    "objectID": "disease/endo/adrenal_insufficiency.html#investigations",
+    "href": "disease/endo/adrenal_insufficiency.html#investigations",
+    "title": "Adrenal Insufficiency",
+    "section": "Investigations",
+    "text": "Investigations\nBedside:\n\nABG\n\nNAGMA\nHyponatraemia\nHyperkalaemia\n\n\nLaboratory:\n\nBlood\n\nFBE\n\nAnaemia\n\nUEC\n\nHyponatraemia\nHyperkalaemia\n\nRandom cortisol\nIn adrenal crisis would be expected to be <80nmol/L; ACTH stimulation testing is not required.\nACTH stimulation test\nIn a stable patient:\n\nAdminister 250μg of tetracosactrin (Synacthen)\nMeasure cortisol at 0 and 30 minutes\nAppropriate elevation in peak cortisol should be seen\nThreshold varies depending on the laboratory.\n\nHydrocortisone interacts with many assays and so cannot be used\nDexamethasone can be used as an alternative steroid if planning the test\n\n\n\n\nImaging:\nOther:"
+  },
+  {
+    "objectID": "disease/endo/adrenal_insufficiency.html#management",
+    "href": "disease/endo/adrenal_insufficiency.html#management",
+    "title": "Adrenal Insufficiency",
+    "section": "Management",
+    "text": "Management\nResuscitation:\n\n\nC\n\nVolume resuscitation\nVasopressors\n\nE\n\nGlucocorticoids\n\n100mg hydrocortisone IV Q6H\nThis provides adequate mineralocorticoid replacement.\n\n\n\nSpecific therapy:\n\nPharmacological\nProcedural\nPhysical\n\nSupportive care:\nDisposition:\nPreventative:\n\nMarginal and Ineffective Therapies"
+  },
+  {
+    "objectID": "disease/endo/adrenal_insufficiency.html#anaesthetic-considerations",
+    "href": "disease/endo/adrenal_insufficiency.html#anaesthetic-considerations",
+    "title": "Adrenal Insufficiency",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "disease/endo/adrenal_insufficiency.html#complications",
+    "href": "disease/endo/adrenal_insufficiency.html#complications",
+    "title": "Adrenal Insufficiency",
+    "section": "Complications",
+    "text": "Complications"
+  },
+  {
+    "objectID": "disease/endo/adrenal_insufficiency.html#prognosis",
+    "href": "disease/endo/adrenal_insufficiency.html#prognosis",
+    "title": "Adrenal Insufficiency",
+    "section": "Prognosis",
+    "text": "Prognosis"
+  },
+  {
+    "objectID": "disease/endo/adrenal_insufficiency.html#key-studies",
+    "href": "disease/endo/adrenal_insufficiency.html#key-studies",
+    "title": "Adrenal Insufficiency",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/endo/adrenal_insufficiency.html#references",
+    "href": "disease/endo/adrenal_insufficiency.html#references",
+    "title": "Adrenal Insufficiency",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
+  },
+  {
     "objectID": "disease/endo/cushing.html#epidemiology-and-risk-factors",
     "href": "disease/endo/cushing.html#epidemiology-and-risk-factors",
     "title": "Cushing’s Syndrome",
@@ -13983,7 +14060,7 @@
     "href": "disease/git/alf.html#management",
     "title": "Acute Liver Failure",
     "section": "Management",
-    "text": "Management\n\nGoals of therapy are:\n\nIdentify cause\nSupportive care to limit hepatic damage\nEarly identification of patients for transplant\n\nSignificant improvement in outcomes with emergency liver transplantation\nEarly escalation to critical care and early referral to a specialist centre is essential\n\n\n\nResuscitation:\n\n\nA\nConsider securing if:\n\nHigh grade (III/IV) encephalopathy\nNeed for transfer\n\nB\n\nCO2 control for ICP management\n\nC\n\nClassically distributive shock picture\n\nNoradrenaline\n\n\nD\n\n↑ ICP\n\n\nControl with standard ICP management\n\n\n\nSpecific therapy:\n\nProcedural\n\nLiver transplantation\n\nPhysical\n\nExtra-corporeal hepatic support\nArtificial, extra-corporeal liver replacement therapy. Broadly, ↓ encephalopathy and ↑ haemodynamic function without mortality benefit. May be:\n\nBiological\nUsing human/porcine cells.\nMechanical\nMolecular filtration.\n\n\n\nUnderlying cause:\n\n\nManagement of paracetamol overdose is covered under Chapter 378.\n\nParacetamol overdose\n\nN-acetylcysteine (NAC)\n\n\nCornerstone of therapy as early administration results in significant reduction in mortality (to <1%), though even late administration may improve outcome\nDosing based on Prescott nomogram\n\n\nViral hepatitis\n\nAntivirals\nHepatitis B\n\nLamivudine\nBenefit if given early.\n\n\nAlcoholic hepatitis\nAutoimmune hepatitis\n\nSte\n\nMushroom poisoning\n\nForced diuresis\n↑ Renal clearance of toxin. Avoid hypovolaemia.\n\nWilson’s disease\n\nD-Penicillamine\nChelates copper. Withdrawal of chronic treatment may precipitate failure.\n\nHepatic vein thrombosis\n\nThrombolysis\nClot retrieval\nTIPS\n\n\nSupportive care:\n\n\nInvasive intracranial pressure monitoring associated with ~10% intracranial haemorrhage rate.\n\nB\n\nLung protective ventilation\nARDS risk.\nDrain pleural effusions\n\nD\n\n↑ ICP\n\n\nGeneral measures\nIf grade 3/4 encephalopathy, recommend:\n\nIntubation\nSedation\nAvoid stimulation\nHead-up positioning\n\nConsider invasive ICP management if all of:\n\n\nGrade 3-4 encephalopathy\nHyperacute liver failure\nAmmonia >150mmolL\nYoung\n\n\n\nE\n\n↓ BSL\nUse high-concentration dextrose to avoid cerebral oedema/↓ Na+.\n\nF\n\n↓ Phosphate\nReplenish.\nRRT\n\n\nAvoid citrate!\nCRRT preferential due to haemodynamics\nIn addition to standard indications, consider for:\n\nHyperammonaemia\nAim <100μmol/: to ↓ cerebral oedema.\nHypothermia\n\n\n\nG\n\nEarly enteral feeding\nMay have ↑ metabolic requirements. No change in protein requirement.\nLactulose\nControversial. May ↓ hepatic encephalopathy but lead to gaseous intestinal distension.\nPPI\nDrain ascites\nFor haemodynamic benefit.\n\nH\n\nCoagulopathy\nTreat if bleeding or prior to procedures. Patients may be prothrombotic, anti-thrombotic, or fibrinolytic, and the assays themselves (both coagulation profiles and point-of-care testing) may not correlate with the observed clinical effect.\n\nVitamin K\nVery reasonable, probably ineffective in the majority of patients.\n\n\n\nDisposition:\n\nLiver transplant centre\n\n\nMarginal and Ineffective Therapies"
+    "text": "Management\n\nGoals of therapy are:\n\nIdentify cause\nSupportive care to limit hepatic damage\nEarly identification of patients for transplant\n\nSignificant improvement in outcomes with emergency liver transplantation\nEarly escalation to critical care and early referral to a specialist centre is essential\n\n\n\nResuscitation:\n\n\nA\nConsider securing if:\n\nHigh grade (III/IV) encephalopathy\nNeed for transfer\n\nB\n\nCO2 control for ICP management\n\nC\n\nClassically distributive shock picture\n\nNoradrenaline\n\n\nD\n\n↑ ICP\n\n\nControl with standard ICP management\n\n\n\nSpecific therapy:\n\nProcedural\n\nLiver transplantation\n\nPhysical\n\nExtra-corporeal hepatic support\nArtificial, extra-corporeal liver replacement therapy. Broadly, ↓ encephalopathy and ↑ haemodynamic function without mortality benefit. May be:\n\nBiological\nUsing human/porcine cells.\nMechanical\nMolecular filtration.\n\n\n\nUnderlying cause:\n\n\nManagement of paracetamol overdose is covered under Chapter 379.\n\nParacetamol overdose\n\nN-acetylcysteine (NAC)\n\n\nCornerstone of therapy as early administration results in significant reduction in mortality (to <1%), though even late administration may improve outcome\nDosing based on Prescott nomogram\n\n\nViral hepatitis\n\nAntivirals\nHepatitis B\n\nLamivudine\nBenefit if given early.\n\n\nAlcoholic hepatitis\nAutoimmune hepatitis\n\nSte\n\nMushroom poisoning\n\nForced diuresis\n↑ Renal clearance of toxin. Avoid hypovolaemia.\n\nWilson’s disease\n\nD-Penicillamine\nChelates copper. Withdrawal of chronic treatment may precipitate failure.\n\nHepatic vein thrombosis\n\nThrombolysis\nClot retrieval\nTIPS\n\n\nSupportive care:\n\n\nInvasive intracranial pressure monitoring associated with ~10% intracranial haemorrhage rate.\n\nB\n\nLung protective ventilation\nARDS risk.\nDrain pleural effusions\n\nD\n\n↑ ICP\n\n\nGeneral measures\nIf grade 3/4 encephalopathy, recommend:\n\nIntubation\nSedation\nAvoid stimulation\nHead-up positioning\n\nConsider invasive ICP management if all of:\n\n\nGrade 3-4 encephalopathy\nHyperacute liver failure\nAmmonia >150mmolL\nYoung\n\n\n\nE\n\n↓ BSL\nUse high-concentration dextrose to avoid cerebral oedema/↓ Na+.\n\nF\n\n↓ Phosphate\nReplenish.\nRRT\n\n\nAvoid citrate!\nCRRT preferential due to haemodynamics\nIn addition to standard indications, consider for:\n\nHyperammonaemia\nAim <100μmol/: to ↓ cerebral oedema.\nHypothermia\n\n\n\nG\n\nEarly enteral feeding\nMay have ↑ metabolic requirements. No change in protein requirement.\nLactulose\nControversial. May ↓ hepatic encephalopathy but lead to gaseous intestinal distension.\nPPI\nDrain ascites\nFor haemodynamic benefit.\n\nH\n\nCoagulopathy\nTreat if bleeding or prior to procedures. Patients may be prothrombotic, anti-thrombotic, or fibrinolytic, and the assays themselves (both coagulation profiles and point-of-care testing) may not correlate with the observed clinical effect.\n\nVitamin K\nVery reasonable, probably ineffective in the majority of patients.\n\n\n\nDisposition:\n\nLiver transplant centre\n\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/git/alf.html#anaesthetic-considerations",
@@ -14074,7 +14151,7 @@
     "href": "disease/git/cld.html#prognosis",
     "title": "Chronic Liver Disease",
     "section": "Prognosis",
-    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 340.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
+    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 341.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
   },
   {
     "objectID": "disease/git/cld.html#key-studies",
@@ -15628,35 +15705,35 @@
     "href": "disease/infective/tetanus.html#pathophysiology",
     "title": "Tetanus",
     "section": "Pathophysiology",
-    "text": "Pathophysiology\nC. tetani is a gram positive rod and obligate anaerobe that:\n\nExists in spore form in the environment\nIs non-invasive\nRequires innoculation into a wound to produce infection - cannot grow in vitalised tissue.\nProduces two exotoxins:\n\nTetanospasmin\n\nLD50 0.01mg\nHaematological spread\nUptake into motor nerve endings, and transport into nervous system\nDiffuses into interstitium with, and acts on pre-synaptic terminals of nearby neurones\nProduces dysfunction of predominantly inhibitory interneurons:\n\nMuscle spasms\nAutonomic dysfunction Requires toxin to diffuse to lateral horns.\n\n↑ Sympathetic tone\n\nCognitive dysfunction\n\n\nTetanolysin\nLocalised tissue destruction; clinically relatively unimportant.\n\n\n\n\nFun Fact:\n~240g of tetanospasmin could kill the entire world population.\n\nAetiology\nMechanisms of C. tetani innoculation include:\n\nTrauma\n\nPuncture\nLaceration\nDog bites\n\nSkin breakdown\n\nBurns\nChronic ulcers\nDental infections\n\nOther devitalised tissue\n\nAbortion\nChildbirth\nTetanus neonatorum\nInfection of umbilical stump."
+    "text": "Pathophysiology\nC. tetani is a gram positive rod and obligate anaerobe that:\n\nExists in spore form in the environment\nIs non-invasive\nRequires innoculation into a wound to produce infection - cannot grow in vitalised tissue.\nProduces two exotoxins:\n\nTetanospasmin\n\nLD50 0.01mg\nHaematological spread\nUptake into motor nerve endings, and transport into nervous system\nDiffuses into interstitium with, and acts on pre-synaptic terminals of nearby neurones\nProduces dysfunction of predominantly inhibitory interneurons:\n\nMuscle spasms\nAutonomic dysfunction Requires toxin to diffuse to lateral horns.\n\n↑ Sympathetic tone\n\nCognitive dysfunction\n\n\nTetanolysin\nLocalised tissue destruction; clinically relatively unimportant.\n\n\n\n\nFun Fact:\n~240g of tetanospasmin could kill the entire world population.\n\nAetiology\nMechanisms of C. tetani innoculation include:\n\nTrauma\n\nPuncture\nLaceration\nDog bites\nPiercings\n\nSkin breakdown\n\nBurns\nChronic ulcers\nDental infections\n\nOther devitalised tissue\n\nAbortion\nChildbirth\nTetanus neonatorum\nInfection of umbilical stump."
   },
   {
     "objectID": "disease/infective/tetanus.html#clinical-manifestations",
     "href": "disease/infective/tetanus.html#clinical-manifestations",
     "title": "Tetanus",
     "section": "Clinical Manifestations",
-    "text": "Clinical Manifestations\nPresentation:\n\nOccurs following an incubation period\nA shorter incubation period indicates ↑ severity.\n\nUsually >2 days\n\n90% <14 days\nUp to 60 days\n\nPain\nMusculoskeletal symptoms\nProgression:\n\nStiffness\nRigidity\nTrismus\nPresentation typically at this point.\nRisus sardonicus\nClenched-teeth expression relating to facial muscle spasm.\n\nAutonomic dysfunction\n\nConfined to severe cases\nBegins after muscle spasms\nGenerally short-duration episodes of:\n\n↑↑ Sympathetic tone\n↑↑ Parasympathetic tone\n\nIncluding sudden cardiac arrest\nParticularly in IVDU.\n\n\n\n\n\n\n\nTetanus neonatorum presents:\n\n~7th day of life\nShort history of failure to feed"
+    "text": "Clinical Manifestations\nPresentation:\n\nOccurs following an incubation period\nA shorter incubation period indicates ↑ severity.\n\nUsually >2 days\n\n90% <14 days\nUp to 60 days\n\nPain\nMusculoskeletal symptoms\nProgression:\n\nStiffness\nRigidity\nTrismus\nPresentation typically at this point, which occurs due to masseter spasm.\nRisus sardonicus\nClenched-teeth expression relating to facial muscle spasm.\n\nAutonomic dysfunction\n\nConfined to severe cases\nBegins after muscle spasms\nGenerally short-duration episodes of:\n\n↑↑ Sympathetic tone\n↑↑ Parasympathetic tone\n\nIncluding sudden cardiac arrest\nParticularly in IVDU.\n\n\n\n\n\n\n\nTetanus neonatorum presents:\n\n~7th day of life\nShort history of failure to feed"
   },
   {
     "objectID": "disease/infective/tetanus.html#diagnostic-approach-and-ddx",
     "href": "disease/infective/tetanus.html#diagnostic-approach-and-ddx",
     "title": "Tetanus",
     "section": "Diagnostic Approach and DDx",
-    "text": "Diagnostic Approach and DDx\nInclude:\n\nLocal disease\n\nDental\nTMJ disease\nInfection\n\nToxidromes\n\nTCA overdose\nStrychnine poisoning"
+    "text": "Diagnostic Approach and DDx\nInclude:\n\nLocal disease\n\nDental\nTMJ disease\nInfection\n\nNeurological disease\n\nEpilepsy\n\nToxidromes\n\nTCA overdose\nStrychnine poisoning"
   },
   {
     "objectID": "disease/infective/tetanus.html#investigations",
     "href": "disease/infective/tetanus.html#investigations",
     "title": "Tetanus",
     "section": "Investigations",
-    "text": "Investigations\n\nNo specific laboratory findings - diagnosis is clinical.\n\nBedside:\n\nABG\nRespiratory failure.\n\nLaboratory:\n\nBloods\n\nUEC\nRhabdomyolysis.\nCMP\n\n\nImaging:\nOther:"
+    "text": "Investigations\n\nNo specific laboratory findings - diagnosis is clinical.\n\nBedside:\n\nABG\nRespiratory failure.\n\nLaboratory:\n\nBloods\n\nUEC\nRhabdomyolysis.\nCMP\n\nWound culture\nMay grow C. tetani.\n\nImaging:\nOther:"
   },
   {
     "objectID": "disease/infective/tetanus.html#management",
     "href": "disease/infective/tetanus.html#management",
     "title": "Tetanus",
     "section": "Management",
-    "text": "Management\n\nPrinciples:\n\nImmunoglobulin to neutralise circulating toxin\nSource control/wound care\nSupportive care\n\n\nResuscitation:\n\n\nA\n\nIntubation\nFor control of muscle spasm.\n\nB\n\nMechanical ventilation\n\n\nIf respiratory muscle involvement\nMuscle relaxation if spasms prevent ventilation\nNo particular agent is preferred.\n\n\nC\n\nHaemodynamic control\nConsider:\n\n↓ Catecholamine production\n\nSedation\nMay require hefty doses, Oh’s quotes 3.4 grams of diazepam daily.\nOpioids\nHeavy doses may also be required.\n\nα/β Antagonists\n\n\nClonidine\nPhentolamine, phenoxybenzamine\nEsmolol\n\nMgSO4\nTarget 2.4-4mmol/L. May also assist in ↓ spasm.\n\n\n\nSpecific therapy:\n\nPharmacological\n\nHuman antitetanus immunoglobulin\n\n500 IU\nShould be given to all patients who are not known to be immunised on presentation\n\nAntibiotics\nSpores and bacteria are destroyed by:\n\nMetronidazole 500mg IV Q6-8H for 10 days\nPreferred.\nPenicillin G 1-3MU IV Q6H for 10 days\n\n\nProcedural\n\nWound care\nWashout of contaminated wounds.\nSource control\n\nPhysical\n\nDisposition:\n\nICU\n\nPreventative:\n\nTetanus toxoid vaccine\n\nCheap\nThree doses for full course\n2nd at 6-12 weeks, 3rd at 6-12 months.\nBooster every 10 years\nOccasionally results in local tetanus\nSpasm of limb or muscle.\nFrequent doses may result in non-life threatening immune symptoms\n\n\n\n\nNeonates have immunity via maternal antibodies until 3 months, and vaccination of pregnant women will protect children produced within 5 years.\n\nMarginal and Ineffective Therapies"
+    "text": "Management\n\nPrinciples:\n\nImmunoglobulin to neutralise circulating toxin\nSource control/wound care\nSupportive care\n\n\nResuscitation:\n\n\nA\n\nIntubation\nFor control of muscle spasm.\n\nB\n\nMechanical ventilation\n\n\nIf respiratory muscle involvement\nMuscle relaxation if spasms prevent ventilation\nNo particular agent is preferred.\n\n\nC\n\nHaemodynamic control\nConsider:\n\n↓ Catecholamine production\n\nSedation\nMay require hefty doses, Oh’s quotes 3.4 grams of diazepam daily.\nOpioids\nHeavy doses may also be required.\n\nα/β Antagonists\n\n\nClonidine\nPhentolamine, phenoxybenzamine\nEsmolol\n\nMgSO4\nTarget 2.4-4mmol/L. May also assist in ↓ spasm.\n\n\n\nSpecific therapy:\n\nPharmacological\n\nHuman antitetanus immunoglobulin\n\n500 IU\nShould be given to all patients who are not known to be immunised on presentation\nBinds circulating toxin\n\nAntibiotics\nSpores and bacteria are destroyed by:\n\nMetronidazole 500mg IV Q6-8H for 10 days\nPreferred.\nPenicillin G 1-3MU IV Q6H for 10 days\n\n\nProcedural\n\nWound care\nWashout of contaminated wounds.\nSource control\n\nPhysical\n\nSupportive Care:\n\nC\n\nHaemodynamic control\n\nLabetalol\nMagnesium\nClonidine\n\n\n\nDisposition:\n\nICU\n\nPreventative:\n\nTetanus toxoid vaccine\n\nCheap\nThree doses for full course\n2nd at 6-12 weeks, 3rd at 6-12 months.\nBooster every 10 years\nOccasionally results in local tetanus\nSpasm of limb or muscle.\nFrequent doses may result in non-life threatening immune symptoms\n\n\n\n\nNeonates have immunity via maternal antibodies until 3 months, and vaccination of pregnant women will protect children produced within 5 years.\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/infective/tetanus.html#complications",
@@ -15831,21 +15908,21 @@
     "href": "disease/infective/aspergillosis.html#epidemiology-and-risk-factors",
     "title": "Aspergillosis",
     "section": "Epidemiology and Risk Factors",
-    "text": "Epidemiology and Risk Factors\nMajor risk factors are surrogates of immunosuppression, and include:\n\nPatient\n\nExtremes of age\n<1 and >70.\nMalnutrition\n\nDisease\n\nCOPD\nDiabetes\nBurns\nHIV\nProlonged neutropenia\nBone marrow transplant\nComplicated abdominal surgery\nDecompensated CLD\n\nTreatment factors\n\nProlonged ICU stay\nMechanical ventilation\nBroad spectrum antibiotics\nIndwelling catheters\nPN\nSteroid\n>1mg/kg for >2 weeks.\nChemotherapy\n\nEnvironmental\n\nConstruction site exposure"
+    "text": "Epidemiology and Risk Factors\nMajor risk factors for both disease and severity are essentially surrogates of immunosuppression as well as underlying lung disease. They include:\n\n\nRespiratory disease significantly ↑ rate of aspergillus colonisation, and risk of subsequent infection if immunocompromise occurs.\n\nPatient\n\nExtremes of age\n<1 and >70.\nMalnutrition\nAlcohol misuse\n\nDisease\n\nRespiratory\n\nCOPD\nCF\nInterstitial lung disease\n\nImmunocompromise\n\nDiabetes\nBurns\nHIV\nProlonged neutropenia\nBone marrow transplant\nSolid organ transplant\nLung most significant.\nComplicated abdominal surgery\nDecompensated CLD\n\n\nTreatment factors\n\nProlonged ICU stay\nMechanical ventilation\nBroad spectrum antibiotics\nIndwelling catheters\nPN\nSteroid\n>1mg/kg for >2 weeks.\nChemotherapy\n\nEnvironmental\n\nConstruction site exposure"
   },
   {
     "objectID": "disease/infective/aspergillosis.html#pathophysiology",
     "href": "disease/infective/aspergillosis.html#pathophysiology",
     "title": "Aspergillosis",
     "section": "Pathophysiology",
-    "text": "Pathophysiology\n\nAetiology"
+    "text": "Pathophysiology\nFungal pneumonia:\n\nPeri-vascular predominance in the immunocompromised\n\n↑ Rate of pulmonary infarction\nLeads to:\n\nHaemoptysis\nCavity formation\n\n\nBronchoalveolar pneumonia in the immunocompetent\n\nSimilar to other pneumonias\n“Classical” features of cavitation and aspergilloma formation are rarer"
   },
   {
     "objectID": "disease/infective/aspergillosis.html#clinical-manifestations",
     "href": "disease/infective/aspergillosis.html#clinical-manifestations",
     "title": "Aspergillosis",
     "section": "Clinical Manifestations",
-    "text": "Clinical Manifestations"
+    "text": "Clinical Manifestations\n\nRespiratory failure\nPersistent infection\n\nPneumonia refractory to antibiotics\nRefractory fever\n\nPulmonary infarction\n\nCough\nPleuritic chest pain\nHaemoptysis\nMay be massive.\n\nDistant infection\n\nAbscesses\nSkin lesions\n\n\nIn the immunocompromised, haematogenous dissemination and rampant infection can lead to:\n\nEndocarditis\nEndophthalmitis\nAbscesses"
   },
   {
     "objectID": "disease/infective/aspergillosis.html#diagnostic-approach-and-ddx",
@@ -15859,14 +15936,14 @@
     "href": "disease/infective/aspergillosis.html#investigations",
     "title": "Aspergillosis",
     "section": "Investigations",
-    "text": "Investigations"
+    "text": "Investigations\n\nCultures, stain, and specific testing (galactomannan, PCR) are unable to discriminate between colonisation and infection.\n\nLaboratory:\n\n\nGalactomannan is a cell wall polysaccharide found in aspergillus, ice cream, salad dressings, and cream cheese.\n\nBlood\n\nFBE\n\nEosinophilia\nNeutropenia\n\nSerum galactomannan\n\nModerately sensitive (75%) and specific (85%) at a cutoff of >0.5\nHigher cutoffs ↑ specificity and ↓ sensitivity.\nLower sensitivity in the immunocompetent and those receiving prophylaxis\n\nβ-D-glucan antigen\nCell wall component of most fungi. Improves sensitivity and specificity in combination with galactomannan.\nSerum PCR\n\nSimilar diagnostic properties to serum galactomannan.\n\n\nBronchoscopy\nBAL is an integral part of adequate sampling.\n\nVisual inspection\nFungal culture and stain\n\n\nDifficult to culture, with correspondingly low sensitivity and long culture times\nLoss of specificity with aspergillus colonisation\n\nAspergillus PCR\n\nHighly sensitive - negative result persuasive for no infection\n\nBAL galactomannan\n\nBetter than serum galactomannan in the immunocompetent\nMore likely to have contained pulmonary disease.\n\nTransbronchial biopsy\n\nDefinitive diagnostic test\nRisk of bleeding and pneumothorax often precludes this, particularly in the critically unwell\n\n\nSputum\nSignificantly ↓ yield compared with BAL.\n\nAspergillus radioallergosorbent assay\nSilver staining\nAspergillus IgG/IgE\n\n\nImaging:\n\nCXR\n\nAspergilloma cavities\n\nCT\n\nAspergilloma cavities\nNodules\nMonod sign\nFree-moving (i.e. positional and dependent) aspergilloma in a pulmonary cavity.\nHalo sign\nGround-glass opacity around a nodule or mass, usually indicating haemorrhage secondary to pulmonary infarction.\nAir crescent sign\nHalo of air around a region of necrosis, and indicates recovery.\n\n\n\n\n\n\n\nOther:\n\nOpen lung biopsy\nRarely indicated due to risk of procedure."
   },
   {
     "objectID": "disease/infective/aspergillosis.html#management",
     "href": "disease/infective/aspergillosis.html#management",
     "title": "Aspergillosis",
     "section": "Management",
-    "text": "Management\nResuscitation:\n\nSpecific therapy:\n\nPharmacological\nProcedural\nPhysical\n\nSupportive care:\nDisposition:\n\nMarginal and Ineffective Therapies"
+    "text": "Management\n\nAggressiveness of antifungal treatment depends on the severity of clinical presentation, and usually begins prior to diagnostic confirmation due to the long lead time of specific investigations.\n\nResuscitation:\n\nSpecific therapy:\n\nPharmacological\n\nAllergic Bronchopulmonary Aspergillosis\n\nCorticosteroids\nPO itraconazole\n\nAspergilloma\n\nPO itraconazole\n\nPneumonia and invasive disease\n\nIV antifungal\n\nVoriconazole\n1st line for efficacy.\nEchinocandins\nSynergistic when combined with azoles. Combination therapy may be appropriate with:\n\nKnown or likely azole resistance\nFrom culture findings, treatment failure, or local microbial patterns.\nSevere disease\nProfound immunosuppression.\n\nAmphotericin B\nGenerally not preferred due to nephrotoxicity. Indicated for:\n\nHepatic failure\nAzole-resistant\n\n\nAltering immunosuppression\nConsideration should be given to ↓ exogenous immunosuppression.\nG-CSF\nFor neutropenia.\n\n\nProcedural\n\nAspergilloma\n\nSurgical resection\nPercutaneous amphotericin injection\n\n\nPhysical\n\nRespiratory isolation\n\n\nSupportive care:\nDisposition:\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/infective/aspergillosis.html#anaesthetic-considerations",
@@ -15901,7 +15978,7 @@
     "href": "disease/infective/aspergillosis.html#references",
     "title": "Aspergillosis",
     "section": "References",
-    "text": "References"
+    "text": "References\n\nCase courtesy of Frank Gaillard, Radiopaedia.org, rID: 8684.\nCase courtesy of Ian Bickle, Radiopaedia.org, rID: 26223."
   },
   {
     "objectID": "disease/infective/pjp.html#epidemiology-and-risk-factors",
@@ -16090,7 +16167,7 @@
     "href": "disease/infective/meningitis.html#investigations",
     "title": "Meningitis",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\nLaboratory:\n\n\nDetails of CSF findings in meningitis are covered under Chapter 398.\n\nBlood\n\nFBE\nInfection.\nBlood cultures\nPCR\n\nLP\n\nRequired to completely confirm diagnosis\nHowever, contraindications are common\n\nCoagulopathy\n↑ ICP, or significant clinical concern of such\n\nEmpirical antibiotics should be commenced if there is delay\nUrgent Gram stain and culture\n\n\nImaging:\nOther:"
+    "text": "Investigations\nBedside:\nLaboratory:\n\n\nDetails of CSF findings in meningitis are covered under Chapter 399.\n\nBlood\n\nFBE\nInfection.\nBlood cultures\nPCR\n\nLP\n\nRequired to completely confirm diagnosis\nHowever, contraindications are common\n\nCoagulopathy\n↑ ICP, or significant clinical concern of such\n\nEmpirical antibiotics should be commenced if there is delay\nUrgent Gram stain and culture\n\n\nImaging:\nOther:"
   },
   {
     "objectID": "disease/infective/meningitis.html#management",
@@ -16678,7 +16755,7 @@
     "href": "disease/obs/preg.html#management",
     "title": "Pregnancy and Labour",
     "section": "Management",
-    "text": "Management\nDivided into:\n\nDrugs in pregnancy\n\nRisks\nRisk categorisation of drugs\nExamples\n\nLabour\n\nInduction of labour\nPremature labour\nFoetal distress\n\n\n\nDrugs in Pregnancy\nDrugs in pregnancy are:\n\nUsed by 20-25% of women regularly\nOften not validated for use or safety, including anaesthetic drugs\nDrug trials are difficult to perform in pregnant women.\n\nDrug interactions in pregnancy can be classified into:\n\nPharmcokinetic\n\nAbsorption\n\nPO absorption affected by nausea and vomiting\n\nDistribution\n\n↑ VD of water soluble drugs\nDue to ↑ blood and body fluid volume.\n↑ free portion of acidic drugs\nDue to ↓ albumin.\n\nElimination\n\n↑ renal clearance\nDue to high GFR.\n\n\nPharmacodynamic\nMost unchanged, except for:\n\nVolatiles\n↓ MAC.\nLocal anaesthetics\n↓ neuraxial LA requirement.\n\nFoetal transfer via placenta\n\nAlmost all drugs cross the placenta to a certain degree\n\nMajor determinants are concentration gradient, molecular weight, lipid solubility, degree of ionisation, protein binding, uteroplacental blood flow.\n\nFoetal transfer via breast milk\n\n\nRisk of Drugs in Pregnancy\nExtent of effect depends on timing of consumption:\n\n0-2 weeks\nGenerally all or nothing effect:\n\nBrief slowing of gestation with no overt ill effect\nSpontaneous abortion\n\n\n3-8 weeks\nPeriod of organogenesis and potential for major abnormalities.\nOver 8 weeks\nFoetal period, effects include:\n\nPhysiological abnormalities\nMinor morphological abnormalities\n\n\n\n\nRisk Categorisation System\nThe Australian risk categorisation divides drugs into:\n\nCategory A\nTaken by a large number of pregnant women without any observed ↑ in malformations or other harmful effects.\nCategory B\nDrugs which have been taken by a limited number of pregnant women, without any ↑ in the frequency of malformations or other harmful effects. Divided into three subgroups based on animal data:\n\nB1\nNo observed foetal malformations in animals.\nB2\nNo observed foetal malformations in animals, but studies were inadequate/data was lacking.\nB3\n↑ foetal abnormalities in animals, of uncertain human significance.\n\nCategory C\nCaused/suspected to have caused potentially reversible harmful foetal effects.\nCategory D\nCaused/suspected to have caused ↑ foetal malformations or permanent damage.\nCategory X\nSuch high risk of causing foetal damage that they should not be used in pregnancy or where there is a possiblity of pregnancy.\n\n\n\nSpecific Drugs in Pregnancy\n\n\n\nClass\nCategory A\n\n\n\n\nAntihypertensives\nMethyldopa\n\n\nAnticoagulants\n\n\n\nAnaesthetic agents\nThiopentoneKetamine\n\n\nCorticosteroids\nCortisoneHydrocortisonePrednisolone\n\n\nAnalgesics\nParacetamol\n\n\nAntiemetics\nMetoclopramide\n\n\nAntibiotics\nPenicillinsCephalosporinsErythromycin\n\n\nVolatile agents\nHalothaneNitrous oxide\n\n\nMuscle relaxants\nSuxamethonium\n\n\nVasopressors\nAdrenalineEphedrine\n\n\nAntiarrythmics\nDigoxin\n\n\n\n\n\n\nLabour\nManagement of abnormal labour depends on stage:\n\nAbnormal S1\n\nTrial of oxytocin\n↑ rate of dilation.\nLUSCS\nIf concerns about:\n\nUterine rupture\nObstruction\nPower of contraction\nFoetus\n\n\nAbnormal S2\n\nTrial of oxytocin\n↑ uterine contractility.\nOperative vaginal delivery\nForceps, vacuum. Indications can be divided into:\n\nMaternal\n\nExhaustion\nContraindication to pushing\n\nHTN\nCerebral aneurysm\n\n\nFoetal\n\nDistress\nCTG, scalp pH, prolapse.\n\nFailure to progress\nArrested descent. May be due to:\n\nMento-anterior (MA)\nFailure to descend.\nOcciput Posterior (OP)\nFailure to rotate.\nOther\nUsually requires LUSCS.\n\n\nLUSCS\n\nS3\nActive management of S3 significantly reduces PPH and maternal mortality. Active management involves:\n\nProphylactic oxytocin\nUpon delivery of the anterior shoulder.\nEarly cord clamping\nControlled cord traction\n\n\n\nInduction of Labour\nArtificial techniques to initiate the process of labour. Induction is performed:\n\nFor:\n\nPregnancy reasons\n\nPD\nTwin pregnancy > 38 weeks\nPROM\nSee premature rupture of membranes\nFDIU\n\nMaternal disease\n\nPreeclampsia\nDiabetes\n\nFoetal\n\nIUGR\n\n\nBy:\n\nPharmaceutical means:\n\nIntravaginal or endocervical prostaglandin\nIntravenous oxytocin\n\n\nNon-pharmaceutical means:\n\nMembrane sweep\nDigital stimulation of the cervix to release endogenous prostaglandins.\nAROM\nCervical ripening balloon\n\n\n\n\n\nPremature Labour\nPremature:\n\nLabor occurs prior to 37 weeks gestation\nBirth occurs in ~10% of deliveries\nAssociated with 85% of all perinatal morbidity and mortality, due to:\n\nRespiratory distress syndrome\nIntracranial haemorrhage\nIschaemic cerebral damage\nIntrapartum:\n\nHypoxia\nAsphyxia\nHypotension\n\nHypoglycaemia\n\n\nManagement of Premature Labour:\n\nTocolytics are used to stop premature contractions\nAgents include:\n\nMagnesium sulfate\nCalcium channel blockers\nMethylxanthines\nProstaglandin inhibitors\nβ-agonists\n\nEvaluate for hyperkalemia if on treatment longer than 24 hours\n\nEthanol\n\nHistorical\nInhibits ADH, oxytocin, and myometrial contractility\n\n\nConsider epidural as anaesthetic technique\n\nReduces effects of systemic drugs on foetus\nImproved foetal perfusion\nMay reduce incidence of ICH by allowing controlled delivery\n\n\n\n\nFoetal distress\n\nAvoid aortocaval compression\nSupplemental oxygen\nTreat hypotension\nCease oxytocin\nGenerally decision of obstetric team.\nConsider tocolytics\n\nTerbutaline 250μg IV/SC\nSalbutamol 100μg IV\nGTN 400μg SL\n\nPrepare for em LUSCS"
+    "text": "Management\nDivided into:\n\nDrugs in pregnancy\n\nRisks\nRisk categorisation of drugs\nExamples\n\nLabour\n\nInduction of labour\nPremature labour\nFoetal distress\n\n\n\nDrugs in Pregnancy\nDrugs in pregnancy are:\n\nUsed by 20-25% of women regularly\nOften not validated for use or safety, including anaesthetic drugs\nDrug trials are difficult to perform in pregnant women.\n\nDrug interactions in pregnancy can be classified into:\n\nPharmcokinetic\n\nAbsorption\n\nPO absorption affected by nausea and vomiting\n\nDistribution\n\n↑ VD of water soluble drugs\nDue to ↑ blood and body fluid volume.\n↑ free portion of acidic drugs\nDue to ↓ albumin.\n\nElimination\n\n↑ renal clearance\nDue to high GFR.\n\n\nPharmacodynamic\nMost unchanged, except for:\n\nVolatiles\n↓ MAC.\nLocal anaesthetics\n↓ neuraxial LA requirement.\n\nFoetal transfer via placenta\n\nAlmost all drugs cross the placenta to a certain degree\n\nMajor determinants are concentration gradient, molecular weight, lipid solubility, degree of ionisation, protein binding, uteroplacental blood flow.\n\nFoetal transfer via breast milk\n\n\nRisk of Drugs in Pregnancy\nExtent of effect depends on timing of consumption:\n\n0-2 weeks\nGenerally all or nothing effect:\n\nBrief slowing of gestation with no overt ill effect\nSpontaneous abortion\n\n\n3-8 weeks\nPeriod of organogenesis and potential for major abnormalities.\nOver 8 weeks\nFoetal period, effects include:\n\nPhysiological abnormalities\nMinor morphological abnormalities\n\n\n\n\nRisk Categorisation System\nThe Australian risk categorisation divides drugs into:\n\nCategory A\nTaken by a large number of pregnant women without any observed ↑ in malformations or other harmful effects.\nCategory B\nDrugs which have been taken by a limited number of pregnant women, without any ↑ in the frequency of malformations or other harmful effects. Divided into three subgroups based on animal data:\n\nB1\nNo observed foetal malformations in animals.\nB2\nNo observed foetal malformations in animals, but studies were inadequate/data was lacking.\nB3\n↑ foetal abnormalities in animals, of uncertain human significance.\n\nCategory C\nCaused/suspected to have caused potentially reversible harmful foetal effects.\nCategory D\nCaused/suspected to have caused ↑ foetal malformations or permanent damage.\nCategory X\nSuch high risk of causing foetal damage that they should not be used in pregnancy or where there is a possiblity of pregnancy.\n\n\n\nSpecific Drugs in Pregnancy\n\n\n\nClass\nCategory A\n\n\n\n\nAntihypertensives\nMethyldopa\n\n\nAnticoagulants\n\n\n\nAnaesthetic agents\nThiopentoneKetamine\n\n\nCorticosteroids\nCortisoneHydrocortisonePrednisolone\n\n\nAnalgesics\nParacetamol\n\n\nAntiemetics\nMetoclopramide\n\n\nAntibiotics\nPenicillinsCephalosporinsErythromycin\n\n\nVolatile agents\nHalothaneNitrous oxide\n\n\nMuscle relaxants\nSuxamethonium\n\n\nVasopressors\nAdrenalineEphedrine\n\n\nAntiarrythmics\nDigoxin\n\n\n\n\n\n\nLabour\nManagement of abnormal labour depends on stage:\n\nAbnormal S1\n\nTrial of oxytocin\n↑ rate of dilation.\nLUSCS\nIf concerns about:\n\nUterine rupture\nObstruction\nPower of contraction\nFoetus\n\n\nAbnormal S2\n\nTrial of oxytocin\n↑ uterine contractility.\nOperative vaginal delivery\nForceps, vacuum. Indications can be divided into:\n\nMaternal\n\nExhaustion\nContraindication to pushing\n\nHTN\nCerebral aneurysm\n\n\nFoetal\n\nDistress\nCTG, scalp pH, prolapse.\n\nFailure to progress\nArrested descent. May be due to:\n\nMento-anterior (MA)\nFailure to descend.\nOcciput Posterior (OP)\nFailure to rotate.\nOther\nUsually requires LUSCS.\n\n\nLUSCS\n\nS3\nActive management of S3 significantly reduces PPH and maternal mortality. Active management involves:\n\nProphylactic oxytocin\nUpon delivery of the anterior shoulder.\nEarly cord clamping\nControlled cord traction\n\n\n\nInduction of Labour\nArtificial techniques to initiate the process of labour. Induction is performed:\n\nFor:\n\nPregnancy reasons\n\nPD\nTwin pregnancy > 38 weeks\nPROM\nSee premature rupture of membranes\nFDIU\n\nMaternal disease\n\nPre-eclampsia\nDiabetes\n\nFoetal\n\nIUGR\n\n\nBy:\n\nPharmaceutical means:\n\nIntravaginal or endocervical prostaglandin\nIntravenous oxytocin\n\n\nNon-pharmaceutical means:\n\nMembrane sweep\nDigital stimulation of the cervix to release endogenous prostaglandins.\nAROM\nCervical ripening balloon\n\n\n\n\n\nPremature Labour\nPremature:\n\nLabor occurs prior to 37 weeks gestation\nBirth occurs in ~10% of deliveries\nAssociated with 85% of all perinatal morbidity and mortality, due to:\n\nRespiratory distress syndrome\nIntracranial haemorrhage\nIschaemic cerebral damage\nIntrapartum:\n\nHypoxia\nAsphyxia\nHypotension\n\nHypoglycaemia\n\n\nManagement of Premature Labour:\n\nFoetal protection\n\nAntenatal corticosteroids\n\nFor women <34+6 and birth expected in <7 days\nRisk:benefit of precise timing varies.\n↓ Foetal morbidity and mortality by ↓ incidence of respiratory distress syndrome by:\n\nAccelerating lung maturity\n↓ IVH\n↓ Necrotising enterocolitis\n\nBetamethasone 11.4mg IM daily for 2 days\n\nMagnesium\n\nFor women <300\n↓ Risk of cerebral palsy and death in preterm infants\nAdminister within 4 hours of birth:\n\n4g over 20 minutes\n1g/hr thereafter\n\n\n\nTocolytics are used to stop premature contractions\nAgents include:\n\nMagnesium sulfate\nCalcium channel blockers\nMethylxanthines\nProstaglandin inhibitors\nβ-agonists\n\nEvaluate for hyperkalemia if on treatment longer than 24 hours\n\nEthanol\n\nHistorical\nInhibits ADH, oxytocin, and myometrial contractility\n\n\nConsider epidural as anaesthetic technique\n\nReduces effects of systemic drugs on foetus\nImproved foetal perfusion\nMay reduce incidence of ICH by allowing controlled delivery\n\n\n\n\nFoetal distress\n\nAvoid aortocaval compression\nSupplemental oxygen\nTreat hypotension\nCease oxytocin\nGenerally decision of obstetric team.\nConsider tocolytics\n\nTerbutaline 250μg IV/SC\nSalbutamol 100μg IV\nGTN 400μg SL\n\nPrepare for em LUSCS"
   },
   {
     "objectID": "disease/obs/preg.html#complications",
@@ -16706,21 +16783,21 @@
     "href": "disease/obs/htn.html#epidemiology-and-risk-factors",
     "title": "Hypertensive Diseases of Pregnancy",
     "section": "Epidemiology and Risk Factors",
-    "text": "Epidemiology and Risk Factors\nRisk factors include:\n\nPatient factors:\n\nAge > 35\nPre-existing HTN\nCKD\nDM\nAnaemia\nLiving at altitude\nNon-smokers\n\nPregnancy factors:\n\nNulliparity\nMultiple gestation\n\n\nPreeclampsia is:\n\nA leading cause of maternal morbidity and mortality\nPresent in 5-8% of pregnancies"
+    "text": "Epidemiology and Risk Factors\nRisk factors include:\n\nPatient factors:\n\nAge > 35\nPre-existing HTN\nCKD\nDM\nAnaemia\nLiving at altitude\nNon-smokers\n\nPregnancy factors:\n\nNulliparity\nMultiple gestation\n\n\nPre-eclampsia is:\n\nA leading cause of maternal morbidity and mortality\nPresent in 5-8% of pregnancies\nWide variation in incidence, with ↑ rates in under-resourced environments."
   },
   {
     "objectID": "disease/obs/htn.html#pathophysiology",
     "href": "disease/obs/htn.html#pathophysiology",
     "title": "Hypertensive Diseases of Pregnancy",
     "section": "Pathophysiology",
-    "text": "Pathophysiology\nUnderlying processes driving placental insufficiency include:\n\nMaternal endothelial dysfunction\n\nAltered endothelial function\n\n↑ endothelial secretion\n↓ nitric oxide\n\nNormal development of a high-flow, low-resistance placental circulation does not occur\n\nAcute atherosclerosis and thrombosis of placental vessels\nResults in ↓ placental flow and structural blood vessel damage.\n\nThese processes:\n\nLead to the triad of:\n\nVasoconstriction\n\nPlatelet activation and aggregation\nLoss of circulating volume\n\nResult in other end-organ dysfunction\n\nLaryngeal oedema\nCardiac\n\nHigh cardiac output state with inappropriate SVR\nDiastolic dysfunction\n↓ venous capacitance\nSubsequently, generally normal filling pressures. Risk of acute LV failure if diastolic dysfunction present, especially if given volume.\n\nRetinal vasospasm\nCerebral\n\nOedema\nHaemorrhage\n\nRenal\n\nOliguria\nUraemia\n\nHepatic\n\nSynthetic coagulopathy\n\nHaematological\n\nConsumptive coagulopathy"
+    "text": "Pathophysiology\nUnderlying processes driving placental insufficiency include:\n\nMaternal endothelial dysfunction\n\nAltered endothelial function\n\n↑ Endothelial secretion\n↓ Nitric oxide\n\nNormal development of a high-flow, low-resistance placental circulation does not occur\n\nAcute atherosclerosis and thrombosis of placental vessels\nResults in ↓ placental flow and structural blood vessel damage.\n\nThese processes:\n\nLead to the triad of:\n\nVasoconstriction\n\nPlatelet activation and aggregation\nLoss of circulating volume\n\nResult in other end-organ dysfunction\n\nA\n\nLaryngeal oedema\n\nC\n\nHigh cardiac output state with inappropriate SVR\nDiastolic dysfunction\n↓ venous capacitance\nSubsequently, generally normal filling pressures. Risk of acute LV failure if diastolic dysfunction present, especially if given volume.\n\nD\n\nRetinal vasospasm\nCerebral\n\nOedema\nHaemorrhage\n\n\nF\n\nOliguria\nUraemia\n\nG\n\nSynthetic coagulopathy\n\nH\n\nConsumptive coagulopathy"
   },
   {
     "objectID": "disease/obs/htn.html#clinical-manifestations",
     "href": "disease/obs/htn.html#clinical-manifestations",
     "title": "Hypertensive Diseases of Pregnancy",
     "section": "Clinical Manifestations",
-    "text": "Clinical Manifestations\nPre-eclampsia is classified by:\n\nGestational age at diagnosis\n\nLate\n≥37 weeks.\n\nMajority of cases\n\nPreterm\n34-37 weeks.\nEarly\n<34 weeks.\n\nSeverity\n\nPreeclampsia\nGestational hypertension with organ system involvement:\n\nCardiorespiratory\nCNS\nGIT\nRenal\n\nProteinuria >0.3g/24 hours\n\nGIT\nUteroplacental circulation\n\nPreeclampsia with severe features\nPreeclampsia with any of the following features:\n\nCardiorespiratory\n\nSevere hypertension\nDefined as SBP > 160mmHg or DBP > 90mmHg.\nHypertensive crisis\nDefined as SBP >180mmHg or DBP >110mmHg.\nPulmonary oedema\n\nCNS\n\nSeizures/eclampsia\nHeadache\nVisual disturbances\nPapilloedema\nClonus/hyperreflexia\n\nRenal\n\nProteinuria\n≥5g/24 hours.\nOliguria\n< 500ml/24 hours.\nProtein/creatinine >0.5g/mmol.\nRenal failure\n\nGIT\n\nElevated transaminases\nHepatic tenderness\nNausea/vomiting\n\nHaematological\n\nHaemolysis\nThrombocytopenia\n⩽100 x 109sup>/L.\nDIC\n\nUteroplacental circulation\n\nPlacental abruption\nIUGR\nAbnormal umbilical/uterine blood flow\nAbsent or reversed end-diastolic flow.\n\nHELLP syndrome\nHaemolysis, elevated liver enzymes, thrombocytopaenia.\n\nGenerally a high-cardiac output state, associated with inappropriately high SVR"
+    "text": "Clinical Manifestations\nPre-eclampsia is classified by:\n\nGestational age at diagnosis\n\nLate\n≥37 weeks.\n\nMajority of cases\n\nPreterm\n34-37 weeks.\nEarly\n<34 weeks.\n\n\n\n\nEarlier onset is associated with greater severity.\n\nSeverity\n\nPre-eclampsia\nGestational hypertension with:\n\nProteinuria\n>0.3g/24 hours.\nOrgan system involvement\n\nCardiorespiratory\n\nPulmonary oedema\n\nCNS\n\nNew-onset, persistent headache\nVisual disturbances\n\nRenal\n\nCreatinine >100mmol/L or doubling\n\nGIT\n\nTransaminases ↑ 2x ULN\n\nHaematological\n\nPlatelets ⩽100/μL.\n\nUteroplacental circulation\n\n\nPre-eclampsia with severe features\nPre-eclampsia with any of the following features:\n\nCardiorespiratory\n\nSevere hypertension\nDefined as SBP > 160mmHg or DBP > 90mmHg.\nHypertensive crisis\nDefined as SBP >180mmHg or DBP >110mmHg.\nPulmonary oedema\nVentricular tachycardia\n\nCNS\n\nSeizures/eclampsia\nPapilloedema\nPRES\nClonus/hyperreflexia\n\nRenal\n\nProteinuria\n≥5g/24 hours.\nOliguria\n<500ml/24 hours.\nProtein/creatinine >0.5g/mmol.\nRenal failure\n\nGIT\n\nHepatic tenderness\nNausea/vomiting\n\nHaematological\n\nHaemolysis\nDIC\n\nUteroplacental circulation\n\nPlacental abruption\nIUGR\nAbnormal umbilical/uterine blood flow\nAbsent or reversed end-diastolic flow.\n\nHELLP syndrome\nHaemolysis, elevated liver enzymes, thrombocytopaenia."
   },
   {
     "objectID": "disease/obs/htn.html#investigations",
@@ -16734,42 +16811,63 @@
     "href": "disease/obs/htn.html#management",
     "title": "Hypertensive Diseases of Pregnancy",
     "section": "Management",
-    "text": "Management\nPreventative:\n\nLimit intravenous fluid\nIV fluid ↑ risk of APO.\n\nAvoid if:\n\nEuvolaemic\nRenal function normal\n\n\nAvoid NSAIDs\nReduce APO risk.\nAspirin\nIndicated in pregnancy with major risk factors for pre-eclampsia, including:\n\nPre-disposing medical conditions\n\nSLE\nScleroderma\nAnti-phospholipid syndrome\n\nChronic hypertension\nDiabetes\nCKD\nOocyte donation\nFamily history of pre-eclampsia\nMother or sister.\n\n\nResuscitation:\n\n\nC\n\nControl of blood pressure\n\nTarget SBP 140-150mmHg and DBP 90-100mmHg\nStrategy depends on severity of hypertension\n\nFor non-severe hypertension:\n\nLabetalol Drug of choice.\n\n100-400mg PO BD-TDS\n\nNifedipine\n\n20-60mg PO SR\n\nMethyldopa\n\n250-750mg PO TDS\n\nClonidine\n\n75-300μg PO TDS\n\nHydralazine\n\n25-50mg PO Q8H\n\nMetoprolol\nPropranolol\n\nFor severe hypertension or hypertensive crisis: Aim to lower BP by 10-20mmHg every 10-20 minutes to reduce incidence of intracerebral haemorrhage.\n\nLabetalol\n\n20-80mg IV over 2 minutes\nCan repeat every 10 minutes.\n\nNifedipine\n\n10-20mg PO IR\n\nHydralazine\n\n\n10mg IV Q20 minutes\n\nGTN\nFor hypertension and APO\n\nSafe agents in pregnancy include\n\nLabetalol\n\n\n\n\nD\n\nSeizure prophylaxis\n\nMagnesium Sulphate\n\nProphylaxis for eclampsia in women with severe preeclampsia\nNot recommended for use as an antihypertensive agent.\nMultifactorial mechanism of action:\n\n↑ Prostacyclin synthesis\n↓ Calcium influx\nThereby ↓ ATP-consuming Ca2+-dependent processes.\nNMDA antagonism\n\nGive 4g over 20 minutes, and then 1g/hr thereafter\nTarget level is 1.7-3.5mmol/L\nMonitoring should be performed:\n\nQ6H in women with renal impairment\nIf:\n\nRR < 12\nUO < 100ml over 4 hours\nLoss of patella reflexes\nFurther seizures occur\n\n\n\n\n\n\nSpecific therapy:\n\nPharmacological\nProcedural\nDelivery\n\n\nOnly curative option\nNeuraxial techniques preferred in absence of coagulopathy\nNo clear advantage of any (CSE, epidural, single-shot spinal) technique.\n\n\nDisposition:\n\nAdmission\nMay be required for BP management.\nDelivery\nTiming of delivery is dependent on gestational age at time of onset of pre-eclampsia:\n\nPreviable (< 236 weeks)\n\nHigh risk patient\nWill likely require either:\n\nTermination of pregnancy\nExtreme preterm delivery\n\n\n24-316 weeks\n\nHigh risk patient\nTransfer to tertiary institution\nWill likely require pre-term delivery\nAim to prolong pregnancy as able\n\n32-366 weeks\n\nAim to prolong pregnancy\nDelivery where appropriate paediatric support is available\n\n370\n\nPlanned delivery\n\n\n\n\nBreastfeeding and Post-Partum Management\nOngoing and new-onset hypertension occur in the post-partum period. In addition to drugs used antenatally, drugs with low milk:maternal plasma ratios include:\n\nEnalapril\nCaptopril\n\n\n\nAnaesthetic Considerations\n\nA\n\nLaryngeal oedema\n\nNote presence of stridor pre-induction\nUse a smaller ETT\n\n\nC\n\nHypertension\n\nManagement is difficult\nHypertension with light GA/laryngoscopy may be problematic\nKey questions:\n\nWhat is the current BP?\nWhat is the trend in the BP?\nWhat antihypertensive agents is the patient taking?\n\n\nVolume state\nMay have ↓ intravascular volume; ↑ hypotension with neuraxial techniques.\n\nD\n\nLikelihood of eclampsia\nEvaluate presence of:\n\nHeadache\nHyperreflexia/clonus\nVisual symptoms\nExtreme hypertension\n\nAnaesthetic technique\n\nEpidural\n\nReduces BP, and improves placental perfusion\nProvides analgesia during labour\nSlow titration may be better than spinal in severe preeclampsia\nConsider inserting early, prior to thrombocytopenia developing\nRequires normal coagulation profile prior\n\nPlatelet count > 70,000/ml\nInstitutional policy may differ.\nRoutine APTT/PT is not required unless:\n\nClinical history of bleeding\nOther clinical condition that may contribute to coagulopathy\n\n\n\nSpinal\n\nSafe alternative\nMay require additional volume to compensate for the low-volume pre-eclamptic state\n\nCSE\n\nPreferable to spinal if surgery is long\n\nGA\n\nRSI associated with dangerous hypertension\nConsider:\n\nLabetalol 1mg/kg pre-induction\nReduces BP without affecting foetal blood flow.\n\nMagnesium ↑ sensitivity to muscle relaxants\n\n\n\nF\n\nVolume state\n\nUrine output\nThirst\n\n\nH\n\nCoagulation profile"
+    "text": "Management\n\nFor severe pre-eclampsia or hypertensive crisis:\n\nGive magnesium for seizure prophylaxis\nAim to lower BP by 10-20mmHg every 10-20 minutes to ↓ incidence of intracerebral haemorrhage\n\n\nPreventative:\n\nLimit intravenous fluid\nIV fluid ↑ risk of APO.\n\nAvoid if:\n\nEuvolaemic\nRenal function normal\n\n\nAvoid NSAIDs\nReduce APO risk.\nAspirin\nIndicated in pregnancy with major risk factors for pre-eclampsia, including:\n\nPre-disposing medical conditions\n\nSLE\nScleroderma\nAnti-phospholipid syndrome\n\nChronic hypertension\nDiabetes\nCKD\nOocyte donation\nFamily history of pre-eclampsia\nMother or sister.\n\n\nResuscitation:\n\n\nC\n\nControl of blood pressure\n\nTarget SBP 140-150mmHg and DBP 90-100mmHg\nStrategy depends on severity of hypertension\n\nHypertensive crisis:\n\nLabetalol\n\n20-80mg IV over 2 minutes\nCan repeat every 10 minutes.\n\nNifedipine\n\n10-20mg PO IR\n\nHydralazine\n\n\n10mg IV Q20 minutes\n\nGTN\nFor hypertension and APO\n\n\n\n\nD\n\nSeizure prophylaxis\n\nMagnesium Sulphate\n\nProphylaxis and treatment for eclampsia in women with severe pre-eclampsia\nNot recommended for use as an antihypertensive agent.\nMultifactorial mechanism of action:\n\n↑ Prostacyclin synthesis\n↓ Calcium influx\nThereby ↓ ATP-consuming Ca2+-dependent processes.\nNMDA antagonism\n\nGive 4g over 20 minutes, and then 1g/hr thereafter\nTarget level is 1.7-3.5mmol/L\nBlood levels should be performed:\n\nQ6H in women with renal impairment\nIf any of:\n\nRR < 12\nUO < 100ml over 4 hours\nLoss of patella reflexes\nSeizures\nIncluding repeat seizures.\n\n\nMagnesium toxicity\n\nAssociated with muscular weakness, rarely respiratory arrest\nUnlikely if deep tendon reflexes present\nTreated with:\n\nCalcium\nRRT\n\n\n\nAnticonvulsants\n\n\nConventional anticonvulsants are only indicated for:\n\nPersistent seizures (>5 minutes) with therapeutic magnesium levels\nMagnesium contraindication\n\nBenzodiazepines\n\nLorazepam 4mg IV\nMidazolam 1-2mg IV\n\n\n\n\n\nSpecific therapy:\n\nPharmacological\n\nFor non-severe hypertension:\n\nLabetalol\nDrug of choice.\n\n100-400mg PO BD-TDS\n\nNifedipine\n\n20-60mg PO SR\n\nMethyldopa\n\n250-750mg PO TDS\n\nClonidine\n\n75-300μg PO TDS\n\nHydralazine\n\n25-50mg PO Q8H\n\nMetoprolol\nPropranolol\n\n\nProcedural\n\nDelivery\n\n\nOnly curative option\nNote that pre-eclampsia can continue to worsen after delivery and may persist until after the puerperium.\nNeuraxial techniques preferred in absence of coagulopathy\nNo clear advantage of any (CSE, epidural, single-shot spinal) technique.\n\n\n\nDisposition:\n\nAdmission\nICU or HDU may be required for BP management, and after delivery.\nDelivery\nTiming of delivery is dependent on gestational age at time of onset of pre-eclampsia:\n\nPreviable (< 236 weeks)\n\nHigh risk patient\nWill likely require either:\n\nTermination of pregnancy\nExtreme preterm delivery\n\n\n24-316 weeks\n\nHigh risk patient\nTransfer to tertiary institution\nWill likely require pre-term delivery\nAim to prolong pregnancy as able\n\n32-366 weeks\n\nAim to prolong pregnancy\nDelivery where appropriate paediatric support is available\n\n370\n\nPlanned delivery\n\n\n\n\nBreastfeeding and Post-Partum Management\nOngoing and new-onset hypertension occur in the post-partum period. In addition to drugs used antenatally, drugs with low milk:maternal plasma ratios include:\n\nEnalapril\nCaptopril"
+  },
+  {
+    "objectID": "disease/obs/htn.html#anaesthetic-considerations",
+    "href": "disease/obs/htn.html#anaesthetic-considerations",
+    "title": "Hypertensive Diseases of Pregnancy",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations\n\nA\n\nLaryngeal oedema\n\nNote presence of stridor pre-induction\nUse a smaller ETT\n\n\nC\n\nHypertension\n\nManagement is difficult\nHypertension with light GA/laryngoscopy may be problematic\nKey questions:\n\nWhat is the current BP?\nWhat is the trend in the BP?\nWhat antihypertensive agents is the patient taking?\n\n\nVolume state\nMay have ↓ intravascular volume; ↑ hypotension with neuraxial techniques.\n\nD\n\nLikelihood of eclampsia\nEvaluate presence of:\n\nHeadache\nHyperreflexia/clonus\nVisual symptoms\nExtreme hypertension\n\nAnaesthetic technique\n\nEpidural\n\nReduces BP, and improves placental perfusion\nProvides analgesia during labour\nSlow titration may be better than spinal in severe pre-eclampsia\nConsider inserting early, prior to thrombocytopenia developing\nRequires normal coagulation profile prior\n\nPlatelet count > 70,000/ml\nInstitutional policy may differ.\nRoutine APTT/PT is not required unless:\n\nClinical history of bleeding\nOther clinical condition that may contribute to coagulopathy\n\n\n\nSpinal\n\nSafe alternative\nMay require additional volume to compensate for the low-volume pre-eclamptic state\n\nCSE\n\nPreferable to spinal if surgery is long\n\nGA\n\nRSI associated with dangerous hypertension\nConsider:\n\nLabetalol 1mg/kg pre-induction\n↓ BP without affecting foetal blood flow.\n\nMagnesium ↑ sensitivity to muscle relaxants\n\n\n\nF\n\nVolume state\n\nUrine output\nThirst\n\n\nH\n\nCoagulation profile"
   },
   {
     "objectID": "disease/obs/htn.html#complications",
     "href": "disease/obs/htn.html#complications",
     "title": "Hypertensive Diseases of Pregnancy",
     "section": "Complications",
-    "text": "Complications\nMaternal complications of severe pre-eclampsia include:\n\nDeath\n\n40% due to cerebral oedema/haemorrhage\n40% due to pulmonary\nUsually iatrogenic fluid overload.\nHepatic failure\nIncluding hepatic rupture.\n\nA\n\nAirway obstruction\nVocal cord oedema due to ↓ oncotic and ↑ hydrostatic pressure.\n\nB\n\nPulmonary oedema\n\n\nUsually due to low oncotic pressure or ↑ capillary permeability\nRarely due to diastolic dysfunction\n\n\nD\n\nCerebral haemorrhage\nCerebral oedema\n\nF\n\nRenal failure\n\nH\n\nDIC\n\n\nFoetal complications of pre-eclampsia include:\n\nIUGR\nFDIU\nPreterm birth"
+    "text": "Complications\nMaternal complications of severe pre-eclampsia include:\n\nDeath\n\n40% due to cerebral oedema/haemorrhage\n40% due to pulmonary\nUsually iatrogenic fluid overload.\nHepatic failure\nIncluding hepatic rupture.\n\nA\n\nAirway obstruction\nVocal cord oedema due to ↓ oncotic and ↑ hydrostatic pressure.\n\nB\n\nPulmonary oedema\n\n\nUsually due to low oncotic pressure or ↑ capillary permeability\nRarely due to diastolic dysfunction\nRisk ↑ following delivery\n\n\nD\n\nCerebral haemorrhage\nCerebral oedema\n\nF\n\nRenal failure\n\nH\n\nDIC\n\n\nFoetal complications of pre-eclampsia include:\n\nIUGR\nFDIU\nPreterm birth"
+  },
+  {
+    "objectID": "disease/obs/htn.html#prognosis",
+    "href": "disease/obs/htn.html#prognosis",
+    "title": "Hypertensive Diseases of Pregnancy",
+    "section": "Prognosis",
+    "text": "Prognosis\nSignificant risk for maternal mortality:\n\n4x for pre-eclampsia\n40x for eclampsia\n\nMorbidity persists even after delivery, with ↑ risk of:\n\nDeath\nIHD\nCVA\nRenal disease"
+  },
+  {
+    "objectID": "disease/obs/htn.html#key-studies",
+    "href": "disease/obs/htn.html#key-studies",
+    "title": "Hypertensive Diseases of Pregnancy",
+    "section": "Key Studies",
+    "text": "Key Studies\n\nMAGPIE\n\n58% ↓ in eclampsia in treatment group"
   },
   {
     "objectID": "disease/obs/htn.html#references",
     "href": "disease/obs/htn.html#references",
     "title": "Hypertensive Diseases of Pregnancy",
     "section": "References",
-    "text": "References\n\nDennis AT. Management of pre-eclampsia: issues for anaesthetists. Anaesthesia. 2012;67(9):1009-1020.\nDennis AT, Castro J, Carr C, Simmons S, Permezel M, Royse C. Haemodynamics in women with untreated pre-eclampsia*. Anaesthesia. 2012;67(10):1105-1118.\nDennis AT, Solnordal CB. Acute pulmonary oedema in pregnant women. Anaesthesia. 2012;67(6):646-659.\nDennis AT, Castro JM. Hypertension and haemodynamics in pregnant women - is a unified theory for pre-eclampsia possible? Anaesthesia. 2014;69(11):1183-1189.\nNew Zealand Committee of RANZCOG, NZCOM. Guidance regarding the use of low-dose aspirin in the prevention of pre-eclampsia in high-risk women. 2018.\nLowe SA, Bowyer L, Lust K, McMahon LP, Morton M, North RA, Paech M. Said JM. Guideline for the Management of Hypertensive Disorders of Pregnancy. 2014."
+    "text": "References\n\nDennis AT. Management of pre-eclampsia: issues for anaesthetists. Anaesthesia. 2012;67(9):1009-1020.\nDennis AT, Castro J, Carr C, Simmons S, Permezel M, Royse C. Haemodynamics in women with untreated pre-eclampsia*. Anaesthesia. 2012;67(10):1105-1118.\nDennis AT, Solnordal CB. Acute pulmonary oedema in pregnant women. Anaesthesia. 2012;67(6):646-659.\nDennis AT, Castro JM. Hypertension and haemodynamics in pregnant women - is a unified theory for pre-eclampsia possible? Anaesthesia. 2014;69(11):1183-1189.\nNew Zealand Committee of RANZCOG, NZCOM. Guidance regarding the use of low-dose aspirin in the prevention of pre-eclampsia in high-risk women. 2018.\nLowe SA, Bowyer L, Lust K, McMahon LP, Morton M, North RA, Paech M. Said JM. Guideline for the Management of Hypertensive Disorders of Pregnancy. 2014.\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
   },
   {
     "objectID": "disease/obs/eclampsia.html#epidemiology-and-risk-factors",
     "href": "disease/obs/eclampsia.html#epidemiology-and-risk-factors",
     "title": "Eclampsia",
     "section": "Epidemiology and Risk Factors",
-    "text": "Epidemiology and Risk Factors\nEclampsia:\n\nOccurs in ~0.05% of pregnancies\nRisk continues up to 1 week following delivery\n30% of seizures are post-partum."
+    "text": "Epidemiology and Risk Factors\nEclampsia:\n\nOccurs in ~0.05% of pregnancies\nTiming is variable:\n\n60% of cases occur antepartum\n\n50% pre-term\n20% 20-30 weeks\n\n20% intrapartum\n20% post-partum\n90% within 1 week of delivery.\n\nRecurrent seizure in 10%"
   },
   {
     "objectID": "disease/obs/eclampsia.html#pathophysiology",
     "href": "disease/obs/eclampsia.html#pathophysiology",
     "title": "Eclampsia",
     "section": "Pathophysiology",
-    "text": "Pathophysiology\n\nAetiology"
+    "text": "Pathophysiology\nMechanisms are not well understood but may include:\n\nLoss of cerebral autoregulation\n\nHyperperfusion\nEndothelial dysfunction\nVasogenic oedema\n\nMaintenance of autoregulation leading to extreme vasoconstriction\n\nHypoperfusion\nLocalised ischaemia"
   },
   {
     "objectID": "disease/obs/eclampsia.html#clinical-manifestations",
     "href": "disease/obs/eclampsia.html#clinical-manifestations",
     "title": "Eclampsia",
     "section": "Clinical Manifestations",
-    "text": "Clinical Manifestations"
+    "text": "Clinical Manifestations\nGeneralised tonic-clonic seizure with unconsciousness with a post-ictal period lasting 10-20 minutes, preceded in most cases by:\n\n\nDespite this, 25% of cases have no precipitating signs or symptoms.\n\nHypertension\nHeadache\nVisual disturbances\nAbdominal pain\n\nEpigastric\nRUQ\n\n\nOther features of pre-eclampsia may also be evident, including:\n\nHyperreflexia/clonus\nVisual deficits\nAltered mental status\nCranial nerve deficits"
   },
   {
     "objectID": "disease/obs/eclampsia.html#diagnostic-approach-and-ddx",
@@ -16783,14 +16881,14 @@
     "href": "disease/obs/eclampsia.html#investigations",
     "title": "Eclampsia",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\nLaboratory:\nImaging:\nOther:"
+    "text": "Investigations\nBedside:\nLaboratory:\nImaging:\n\nCTB\nEvaluate for intracranial complications.\n\nOther:"
   },
   {
     "objectID": "disease/obs/eclampsia.html#management",
     "href": "disease/obs/eclampsia.html#management",
     "title": "Eclampsia",
     "section": "Management",
-    "text": "Management\nResuscitation:\n\n\nA\n\nAirway protection\nPrevention of aspiration.\n\nC\nD\n\nAnticonvulsant\n\nMagnesium Sulfate\n\n\n\nSpecific therapy:\n\nPharmacological\nProcedural\nPhysical\n\nSupportive care:\nDisposition:\n\nMarginal and Ineffective Therapies"
+    "text": "Management\n\nGoals:\n\nAirway protection and aspiration prevention\nCorrect hypertension\nTerminate seizure\nPrevent recurrent seizure\nExpedite delivery\n\n\n\n\nManagement of co-existing pre-eclampsia is crucial, and is covered at Chapter 384.\nResuscitation:\n\n\nA\n\nAirway protection\nPrevention of aspiration.\n\nB\n\nSupplemental oxygen\n\nC\n\nControl of blood pressure\n\nTarget SBP 140-150mmHg and DBP 90-100mmHg\nStrategy depends on severity of hypertension\n\nHypertensive crisis:\n\nLabetalol\n\n20-80mg IV over 2 minutes\nCan repeat every 10 minutes.\n\nNifedipine\n\n10-20mg PO IR\n\nHydralazine\n\n\n10mg IV Q20 minutes\n\nGTN\nFor hypertension and APO\n\n\n\n\nD\n\nSeizure prophylaxis\n\nMagnesium Sulphate\n\nProphylaxis and treatment for eclampsia in women with severe pre-eclampsia\nNot recommended for use as an antihypertensive agent.\nMultifactorial mechanism of action:\n\n↑ Prostacyclin synthesis\n↓ Calcium influx\nThereby ↓ ATP-consuming Ca2+-dependent processes.\nNMDA antagonism\n\nGive 4g over 20 minutes, and then 1g/hr thereafter\nTarget level is 1.7-3.5mmol/L\nBlood levels should be performed:\n\nQ6H in women with renal impairment\nIf any of:\n\nRR < 12\nUO < 100ml over 4 hours\nLoss of patella reflexes\nSeizures\nIncluding repeat seizures.\n\n\nMagnesium toxicity\n\nAssociated with muscular weakness, rarely respiratory arrest\nUnlikely if deep tendon reflexes present\nTreated with:\n\nCalcium\nRRT\n\n\n\nAnticonvulsants\n\n\nConventional anticonvulsants are only indicated for:\n\nPersistent seizures (>5 minutes) with therapeutic magnesium levels\nMagnesium contraindication\n\nBenzodiazepines\n\nLorazepam 4mg IV\nMidazolam 1-2mg IV\n\n\n\n\n\nSpecific therapy:\n\nPharmacological\n\nBlood pressure control\n\nProcedural\n\nExpedite delivery\n\n\nDisposition:\n\nICU Admission\n\n\nFollowing seizure\nCommonly required after delivery\n\n\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/obs/eclampsia.html#anaesthetic-considerations",
@@ -16804,7 +16902,7 @@
     "href": "disease/obs/eclampsia.html#complications",
     "title": "Eclampsia",
     "section": "Complications",
-    "text": "Complications"
+    "text": "Complications\n\nDeath\nA\n\nAspiration\n\nD\n\nIntracranial haemorrhage\nCerebral oedema\nCerebral venous thrombosis"
   },
   {
     "objectID": "disease/obs/eclampsia.html#prognosis",
@@ -16825,7 +16923,7 @@
     "href": "disease/obs/eclampsia.html#references",
     "title": "Eclampsia",
     "section": "References",
-    "text": "References"
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
   },
   {
     "objectID": "disease/obs/pad.html#epidemiology-and-risk-factors",
