@@ -3475,16 +3475,27 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this Page</h2>
    
   <ul>
-  <li><a href="#pacing-modes" id="toc-pacing-modes" class="nav-link active" data-scroll-target="#pacing-modes">Pacing Modes</a></li>
+  <li><a href="#terminology" id="toc-terminology" class="nav-link active" data-scroll-target="#terminology">Terminology</a>
+  <ul class="collapse">
+  <li><a href="#sensitivity" id="toc-sensitivity" class="nav-link" data-scroll-target="#sensitivity">Sensitivity</a></li>
+  <li><a href="#capture" id="toc-capture" class="nav-link" data-scroll-target="#capture">Capture</a></li>
+  <li><a href="#pacing-codes" id="toc-pacing-codes" class="nav-link" data-scroll-target="#pacing-codes">Pacing Codes</a></li>
+  <li><a href="#pacing-modes" id="toc-pacing-modes" class="nav-link" data-scroll-target="#pacing-modes">Pacing Modes</a></li>
+  </ul></li>
   <li><a href="#temporary-systems" id="toc-temporary-systems" class="nav-link" data-scroll-target="#temporary-systems">Temporary Systems</a>
   <ul class="collapse">
   <li><a href="#pacing-check" id="toc-pacing-check" class="nav-link" data-scroll-target="#pacing-check">Pacing Check</a></li>
-  <li><a href="#failure-to-pace" id="toc-failure-to-pace" class="nav-link" data-scroll-target="#failure-to-pace">Failure to Pace</a></li>
+  <li><a href="#rapid-atrial-pacing" id="toc-rapid-atrial-pacing" class="nav-link" data-scroll-target="#rapid-atrial-pacing">Rapid Atrial Pacing</a></li>
   </ul></li>
-  <li><a href="#anatomy" id="toc-anatomy" class="nav-link" data-scroll-target="#anatomy">Anatomy</a></li>
-  <li><a href="#equipment" id="toc-equipment" class="nav-link" data-scroll-target="#equipment">Equipment</a></li>
-  <li><a href="#technique" id="toc-technique" class="nav-link" data-scroll-target="#technique">Technique</a></li>
-  <li><a href="#complications" id="toc-complications" class="nav-link" data-scroll-target="#complications">Complications</a></li>
+  <li><a href="#troubleshooting" id="toc-troubleshooting" class="nav-link" data-scroll-target="#troubleshooting">Troubleshooting</a>
+  <ul class="collapse">
+  <li><a href="#failure-to-pace" id="toc-failure-to-pace" class="nav-link" data-scroll-target="#failure-to-pace">Failure to Pace</a></li>
+  <li><a href="#failure-to-capture" id="toc-failure-to-capture" class="nav-link" data-scroll-target="#failure-to-capture">Failure to Capture</a></li>
+  <li><a href="#irregular-pacing" id="toc-irregular-pacing" class="nav-link" data-scroll-target="#irregular-pacing">Irregular Pacing</a></li>
+  <li><a href="#malignant-arrhythmia" id="toc-malignant-arrhythmia" class="nav-link" data-scroll-target="#malignant-arrhythmia">Malignant Arrhythmia</a></li>
+  <li><a href="#pacemaker-mediated-tachycardia" id="toc-pacemaker-mediated-tachycardia" class="nav-link" data-scroll-target="#pacemaker-mediated-tachycardia">Pacemaker-mediated Tachycardia</a></li>
+  <li><a href="#crosstalk" id="toc-crosstalk" class="nav-link" data-scroll-target="#crosstalk">Crosstalk</a></li>
+  </ul></li>
   <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
   </ul>
 </nav>
@@ -3541,20 +3552,104 @@ Occasionally permanent epicardial wires may be inserted during cardiac surgery (
 Emergency pacing via pads. Requires sedation.</li>
 </ul></li>
 </ul>
-<section id="pacing-modes" class="level2 page-columns page-full">
-<h2 class="anchored" data-anchor-id="pacing-modes">Pacing Modes</h2>
+<section id="terminology" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="terminology">Terminology</h2>
+<p>Key pacing terminology includes:</p>
+<ul>
+<li>Sensitivity
+<ul>
+<li>Thresholds</li>
+<li>Undersensing</li>
+<li>Oversensing</li>
+</ul></li>
+<li>Capture
+<ul>
+<li>Thresholds</li>
+</ul></li>
+<li>Pacemaker code nomenclature</li>
+<li>Pacing modes</li>
+</ul>
+<section id="sensitivity" class="level3 page-columns page-full">
+<h3 class="anchored" data-anchor-id="sensitivity">Sensitivity</h3>
+<p>Sensitivity describes the ability of the pacemaker to detect native cardiac rhythm. Sensitivity is:</p>
+<ul>
+<li>Measured in <strong>mV</strong>
+<ul>
+<li>The <strong>sensing threshold</strong> is the <strong>voltage</strong> at which native <strong>activity</strong> is <strong>detected</strong></li>
+<li>The <strong>sensitivity setting</strong> (usually known as sensitivity) is the <strong>voltage</strong> that the <strong>pacemaker</strong> is <strong>set to</strong>
+<ul>
+<li>This is lower than the sensing threshold<br>
+“Increasing the sensitivity” therefore requires <em>decreasing</em> the sensitivity setting.</li>
+</ul></li>
+</ul></li>
+<li><strong>Good</strong> when the sensing <strong>threshold</strong> is <strong>high</strong></li>
+<li><strong>Poor</strong> when the sensing <strong>threshold</strong> is <strong>low</strong></li>
+</ul>
+<p>Undersensing:</p>
+<ul>
+<li>Failure to sense the normal cardiac rhythm, resulting in inappropriate delivery of a pacing impulse<br>
+If this occurs during chamber repolarisation, arrhythmia can result:
+<ul>
+<li><strong>Inappropriate atrial</strong> pacing may cause <strong><span class="glossary" title="Atrial Fibrillation"><span class="glossary" title="Atrial Fibrillation">AF</span></span></strong></li>
+<li><strong>Inappropriate ventricular</strong> pacing may cause <strong>polymorphic <span class="glossary" title="Ventricular Tachycardia"><span class="glossary" title="Ventricular Tachycardia">VT</span></span></strong> or <strong><span class="glossary" title="Ventricular Fibrillation"><span class="glossary" title="Ventricular Fibrillation">VF</span></span></strong></li>
+</ul></li>
+<li>May occur due to:
+<ul>
+<li>Variability in the sensing threshold</li>
+<li>Inappropriate setting of the sensitivity</li>
+</ul></li>
+<li>Due to the risk of malignant arrhythmias, use undersensing pacing leads should be carefully considered and not used at all outside of a critical care setting</li>
+</ul>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p><strong>Low atrial sensitivity</strong> is less concerning than low ventricular sensitivity as there is <em>less</em> (but <strong>not no</strong>) <strong>R-on-T risk</strong>.<br>
+<br>
+An R-on-T can still result if an undersensing atrial lead is used in a DDD mode. This occurs when:</p>
+<ul>
+<li>The atrial lead fails to sense a native P wave</li>
+<li>Atrial pacing then occurs during the subsequent (native) QRS
+<ul>
+<li>The (functioning) ventricular lead studiously ignores any sensed electrical activity that occurs during atrial pacing<br>
+This is known as a blanking period.</li>
+<li>This results in the ventricular lead not registering native ventricular activity</li>
+</ul></li>
+<li>After the programmed A-V interval, the ventricular lead paces</li>
+<li>This pacing occurs during repolarisation</li>
+</ul>
+</div></div><p>Oversensing:</p>
+<ul>
+<li>Inappropriate inhibition of pacing due to misinterpretation of other electrical activity as chamber depolarisation<br>
+Sources include:
+<ul>
+<li>Diathermy</li>
+<li>Muscle activity
+<ul>
+<li>Shivering</li>
+</ul></li>
+<li>T-wave</li>
+<li>Other chamber depolarisation</li>
+</ul></li>
+</ul>
+</section>
+<section id="capture" class="level3">
+<h3 class="anchored" data-anchor-id="capture">Capture</h3>
+<p>Capture describes how easily the pacemaker can cause a depolarisation. Capture is:</p>
+<ul>
+<li>Measured in <strong>mA</strong>
+<ul>
+<li>The <strong>capture threshold</strong> is the <strong>current</strong> at which a <strong>pacing impulse causes</strong> chamber <strong>depolarisation</strong></li>
+<li>The capture setting is a current well above the capture threshold</li>
+</ul></li>
+<li><strong>Good</strong> when the capture <strong>threshold</strong> is <strong>low</strong></li>
+<li><strong>Poor</strong> when the capture <strong>threshold</strong> is <strong>high</strong></li>
+</ul>
+</section>
+<section id="pacing-codes" class="level3 page-columns page-full">
+<h3 class="anchored" data-anchor-id="pacing-codes">Pacing Codes</h3>
 <p>A generic 3 or 5 digit code is used to describe pacing modes:</p>
 
 <div class="no-row-height column-margin column-container"><div class="">
-<p>Some examples:</p>
-<ul>
-<li>VOO<br>
-Ventricle is paced, and there is no sensing. This is a (potentially dangerous) asynchronous mode.</li>
-<li>DDD<br>
-Both atria and ventricles are sensed and paced. Atrial activity will trigger ventricular pacing if ventricular activity not sensed after an (adjustable) A-V delay.</li>
-<li>DDI<br>
-Paces and senses both atria and ventricles. Atrial activity is not tracked (i.e.&nbsp;each chamber is dealt with individually).</li>
-</ul>
+<p>This code is used by the North American Society of Pacing and Electrophysiology (NAPSE), and the British Pacing and Electrophysiology Group (BPEG), and is abbreviated to the NBG (NAPSE/BPEG Generic Code).</p>
 </div></div><ul>
 <li><strong>Chambers paced</strong><br>
 A, V, D (dual, i.e.&nbsp;both atria and ventricles), O (neither).</li>
@@ -3586,30 +3681,165 @@ Are multiple cardiac chambers paced:
 </ul></li>
 </ul>
 </section>
+<section id="pacing-modes" class="level3">
+<h3 class="anchored" data-anchor-id="pacing-modes">Pacing Modes</h3>
+<table class="table">
+<caption>Basic Pacing Modes</caption>
+<colgroup>
+<col style="width: 1%">
+<col style="width: 43%">
+<col style="width: 14%">
+<col style="width: 39%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Mode</th>
+<th>Action</th>
+<th>Indications</th>
+<th>Contraindications</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>AAI</td>
+<td><ul>
+<li>Atrium sensed</li>
+<li>Atrium paced at the set rate if the native atrial rate is less than the set rate</li>
+<li>Pacing inhibited in response to sensing</li>
+</ul></td>
+<td><ul>
+<li>Sinus bradycardia<br>
+↓ Risk of new <span class="glossary" title="Atrial Fibrillation"><span class="glossary" title="Atrial Fibrillation">AF</span></span> in the post-operative period.</li>
+</ul></td>
+<td><ul>
+<li>High grade AV block<br>
+Or high risk of such.</li>
+<li><span class="glossary" title="Atrial Fibrillation"><span class="glossary" title="Atrial Fibrillation">AF</span></span></li>
+<li>Poor atrial sensitivity<br>
+<em>Relative</em> contraindication, may produce <span class="glossary" title="Atrial Fibrillation"><span class="glossary" title="Atrial Fibrillation">AF</span></span> in atrial modes or <span class="glossary" title="Ventricular Fibrillation"><span class="glossary" title="Ventricular Fibrillation">VF</span></span> in DDD A-V sequential modes.</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>VVI</td>
+<td><ul>
+<li>Ventricle sensed</li>
+<li>Ventricle paced at the set rate if the native ventricular rate is less than the set rate<br>
+<span class="glossary" title="Right Ventricle"><span class="glossary" title="Right Ventricle">RV</span></span> free wall is depolarised first, leading to a pseudo-LBBB pattern and dyssynchronous <span class="glossary" title="Left Ventricle"><span class="glossary" title="Left Ventricle">LV</span></span> ejection that ↓ <span class="glossary" title="Left Ventricle"><span class="glossary" title="Left Ventricle">LV</span></span> EF.</li>
+<li>Pacing inhibited in response to sensing</li>
+</ul></td>
+<td><ul>
+<li>AV block</li>
+<li>Ventricular standstill</li>
+</ul></td>
+<td><ul>
+<li>Poor ejection<br>
+Ventricular pacing results in dyskinetic contraction of the ventricle in addition to the loss of atrial kick, and can adversely affect haemodynamics.</li>
+<li>Poor ventricular sensitivity<br>
+<strong>Absolute</strong> contraindication, may produce <span class="glossary" title="VF"><span class="glossary" title="Ventricular Fibrillation">VF</span></span>.</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>DDD</td>
+<td><ul>
+<li>Both chambers sensed</li>
+<li>Both chambers paced</li>
+<li>Either chamber inhibited in response to sensing</li>
+<li>Atrium paced at the set rate if the native atrial rate is less than the set rate, as AAI</li>
+<li>Ventricle paced at the <em>sensed</em> atrial rate if it exceeds the set rate, and no AV nodal conduction occurs during the set A-V interval</li>
+<li>Ventricle paced at the <em>set</em> rate if no no AV nodal conduction occurs (during the set A-V interval) following an atrial pacing impulse</li>
+</ul></td>
+<td><ul>
+<li>AV block</li>
+<li>Sinus bradycardia and risk of AV block</li>
+<li>Asystole</li>
+</ul></td>
+<td><ul>
+<li>Poor atrial or ventricular sensitivity</li>
+<li>Pacemaker mediated tachycardia</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>DDI</td>
+<td><ul>
+<li>Both chambers sensed</li>
+<li>Both chambers paced</li>
+<li>Either chamber inhibited in response to sensing</li>
+<li>Atrium paced at the set rate if the native atrial rate is less than the set rate; as AAI</li>
+<li>Ventricle paced at the <em>set</em> rate if the ventricular rate is less than the set rate; as VVI<br>
+This prevents potentially detrimental rapid ventricular pacing occurring if an atrial tachycardia occurs. It is also more tolerant of a prolonged PR interval than DDD.</li>
+</ul></td>
+<td><ul>
+<li>AV block when ventricular pacing is poorly tolerated</li>
+<li><span class="glossary" title="AF"><span class="glossary" title="Atrial Fibrillation">AF</span></span>/ with inadequate ventricular rate</li>
+<li>Pacemaker mediated tachycardia</li>
+</ul></td>
+<td><ul>
+<li>Poor atrial or ventricular sensitivity</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>VOO</td>
+<td><ul>
+<li>No chamber sensed</li>
+<li>Ventricle paced at a set rate<br>
+<strong>High risk R-on-T</strong>.</li>
+</ul></td>
+<td><ul>
+<li>Emergency</li>
+<li>Weaning from CPB</li>
+<li>Pacing dependence in <span class="glossary" title="Operating Room or Odds Ratio"><span class="glossary" title="Operating Room or Odds Ratio">OR</span></span> with diathermy use</li>
+</ul></td>
+<td><ul>
+<li>No availability of skilled practitioner with defibrillator</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>DOO</td>
+<td><ul>
+<li>No chamber sensed</li>
+<li>Both chambers paced at a set rate at a set A-V interval<br>
+<strong>High risk R-on-T</strong>.</li>
+</ul></td>
+<td><ul>
+<li>As VOO</li>
+</ul></td>
+<td><ul>
+<li>As VOO</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
 <section id="temporary-systems" class="level2 page-columns page-full">
 <h2 class="anchored" data-anchor-id="temporary-systems">Temporary Systems</h2>
-<p>Configuration of temporary epicardial and transvenous pacing systems:</p>
+<p>Temporary systems include epicardial and transvenous systems. These systems provide for:</p>
 <ul>
-<li>Default settings
+<li>Setting <strong>capture and sensitivity</strong>
+<ul>
+<li>Levels should be determined following a <strong>pacing check</strong></li>
+<li>Default settings prior to performing a pacing check include:
 <ul>
 <li>Output: 10-15mA</li>
 <li>Sensitivity:</li>
 <li>Rate: ~10 higher than native rate Particularly prior to pacing check, to ↓ risk of R-on-T.</li>
 </ul></li>
-<li>Perform pacing check</li>
-<li>Managing failure to pace</li>
+</ul></li>
+<li>Performing <strong>rapid atrial pacing</strong></li>
 </ul>
 <section id="pacing-check" class="level3 page-columns page-full">
 <h3 class="anchored" data-anchor-id="pacing-check">Pacing Check</h3>
 <div class="caution">
 <p>Full pacing checks cannot be performed if:</p>
 <ul>
-<li>The underlying rate is inadequate
+<li>The underlying rate is inadequate:
 <ul>
 <li>Symptomatic hypotension</li>
 <li><span class="glossary" title="Mean Arterial Pressure"><span class="glossary" title="Mean Arterial Pressure">MAP</span></span> &lt;50mmHg</li>
 </ul></li>
 <li>Temperature &lt;36°C</li>
+<li>Hypokalaemia<br>
+K<sup>+</sup> &lt;4.5mmol/L.</li>
 </ul>
 </div>
 <p>Temporary epicardial systems should be checked frequently (at least once per nursing shift) to ensure capture and sensitivity thresholds and safe and functional. The full check requires:</p>
@@ -3637,7 +3867,7 @@ This activates both chambers but ensures that R on T will not occur as the outpu
 <li>↑ Sensitivity (mV) until the sensing light is no longer flashing, and the pacing light flashes instead. Then ↓ sensitivity until all native beats are sensed. This is the <strong>sensing threshold</strong>. The sensitivity <em>setting</em> of the pacemaker is set based upon this threshold.</li>
 </ul></li>
 <li>Check atrial sensitivity<br>
-As ventricular sensitivity. Low atrial sensitivity is significantly less concerning than low ventricular sensitivity as there is no R-on-T risk.</li>
+As ventricular sensitivity.</li>
 <li>Check ventricular capture threshold<br>
 
 <ul>
@@ -3672,9 +3902,7 @@ As ventricular capture.</li>
 <td><ul>
 <li>&lt;1mv</li>
 <li>1-4mV</li>
-<li><blockquote class="blockquote">
-<p>5mV</p>
-</blockquote></li>
+<li>&gt;5mV</li>
 <li>Not checked</li>
 </ul></td>
 <td><ul>
@@ -3690,9 +3918,7 @@ As ventricular capture.</li>
 <li>&lt;2mV</li>
 <li>2-6mV</li>
 <li>7-10mV</li>
-<li><blockquote class="blockquote">
-<p>12mV</p>
-</blockquote></li>
+<li>&gt;12mV</li>
 </ul></td>
 <td><ul>
 <li>Leave pacing off.</li>
@@ -3704,12 +3930,50 @@ As ventricular capture.</li>
 </tbody>
 </table>
 </div></div></section>
+<section id="rapid-atrial-pacing" class="level3 page-columns page-full">
+<h3 class="anchored" data-anchor-id="rapid-atrial-pacing">Rapid Atrial Pacing</h3>
+<p>Rapid atrial pacing is a technique for reversion of some atrial tachyarrhythmias:</p>
+<ul>
+<li>Revertible rhythms include
+<ul>
+<li>Atrial flutter</li>
+<li>AV junctional tachycardia</li>
+<li>Paroxysmal re-entrant SVT</li>
+</ul></li>
+<li>Non-revertible rhythms include:
+<ul>
+<li><span class="glossary" title="Atrial Fibrillation"><span class="glossary" title="Atrial Fibrillation">AF</span></span></li>
+<li><span class="glossary" title="Ventricular Fibrillation"><span class="glossary" title="Ventricular Fibrillation">VF</span></span></li>
+<li>Sinus tachycardia</li>
+</ul></li>
+<li>Defibrillation pads should be applied in case of precipitation of a malignant arrhythmia</li>
+</ul>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p>Rapid atrial pacing is also known as <strong>atrial overdrive pacing</strong>.</p>
+</div></div><ul>
+<li>The atria is paced 20-30bpm faster than the atrial rate<br>
+Usually at 260-340bpm.</li>
+<li>For periods up to 20s, in order to capture the atria</li>
+<li>If effective, SR should be restored following the rapid pacing period</li>
+</ul>
+</section>
+</section>
+<section id="troubleshooting" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="troubleshooting">Troubleshooting</h2>
+<p>Pacing problems include:</p>
+<ul>
+<li>Failure to pace</li>
+<li>Failure to capture</li>
+<li>Irregular pacing</li>
+<li>Malignant arrhythmias</li>
+<li>Pacemaker-mediated tachycardia</li>
+<li>Crosstalk</li>
+</ul>
 <section id="failure-to-pace" class="level3">
 <h3 class="anchored" data-anchor-id="failure-to-pace">Failure to Pace</h3>
 <div class="crisis">
-<p>This can be an <strong>emergency</strong> in the pacing dependent patient.</p>
-</div>
-<p>Escalation:</p>
+<p>This can be an <strong>emergency</strong> in the pacing dependent patient. If unstable:</p>
 <ol type="1">
 <li>Ensure the box is connected</li>
 <li>Press the emergency button<br>
@@ -3719,20 +3983,166 @@ Sets DOO at maximal output (usually 20mA atria, 25mA ventricular).</li>
 <li>Institute transcutaneous pacing</li>
 <li>Place a transvenous wire</li>
 </ol>
+</div>
+<p>Pacemaker should deliver a pacing impulse, however:</p>
+<ul>
+<li>No pacing spike is seen</li>
+<li>Chamber capture does not occur<br>
+The chamber rate is less than the set rate.</li>
+</ul>
+<p>Causes and management include:</p>
+<ul>
+<li>Wire disconnection or migration
+<ul>
+<li>Box is on, and mode is appropriate</li>
+<li>Box is connected to cables</li>
+<li>Wires are connected to the cables<br>
+Consider replacing cables or cleaning connections.</li>
+<li>Wire location at the skin</li>
+</ul></li>
+<li>Oversensing
+<ul>
+<li>Sensitivity check</li>
+<li>Control other sources of electrical interference</li>
+</ul></li>
+<li>Crosstalk
+<ul>
+<li>Discuss with electrophysiology</li>
+<li>Disable less-effective system</li>
+</ul></li>
+</ul>
 </section>
+<section id="failure-to-capture" class="level3">
+<h3 class="anchored" data-anchor-id="failure-to-capture">Failure to Capture</h3>
+<div class="crisis">
+<p>This can be an <strong>emergency</strong> in the pacing dependent patient. If unstable, follow the advice for failure to pace.</p>
+</div>
+<p>Pacemaker delivers a pacing impulse but capture does not occur.</p>
+<p>Causes and management include:</p>
+<ul>
+<li>Wire disconnection and migration
+<ul>
+<li>Box is on, and mode is appropriate</li>
+<li>Box is connected to cables</li>
+<li>Wires are connected to the cables<br>
+Consider replacing cables or cleaning connections.</li>
+<li>Wire location at the skin</li>
+</ul></li>
+<li>↑ Electrical resistance
+<ul>
+<li>Check capture threshold</li>
+<li>Consider echocardiography<br>
+Potential for pericardial collection to ↑ capture thresholds.</li>
+</ul></li>
+<li><span class="glossary" title="Atrial Fibrillation">AF</span><br>
+Prevents atrial capture.
+<ul>
+<li>Rhythm control</li>
+</ul></li>
+</ul>
 </section>
-<section id="anatomy" class="level2">
-<h2 class="anchored" data-anchor-id="anatomy">Anatomy</h2>
+<section id="irregular-pacing" class="level3">
+<h3 class="anchored" data-anchor-id="irregular-pacing">Irregular Pacing</h3>
+<p>Pacing spikes occurring irregularly, or only irregularly capture the chamber.</p>
+<p>Causes and management include:</p>
+<ul>
+<li>Native rate similar to set rate
+<ul>
+<li>Assess underlying rate by ↓ set rate</li>
+<li>Assess for respiratory change in native R-R interval</li>
+<li>Set rate either well above or below the native rate</li>
+</ul></li>
+<li>Tracking atrial arrhythmia
+<ul>
+<li>Control arrhythmia
+<ul>
+<li>Cardioversion</li>
+</ul></li>
+<li>Change to non A-V sequential mode
+<ul>
+<li>VVI</li>
+<li>DDI</li>
+</ul></li>
+</ul></li>
+<li>Undersensing
+<ul>
+<li>Check sensitivity</li>
+<li>Disable affected lead if undersensing</li>
+</ul></li>
+<li>Oversensing
+<ul>
+<li>Sensitivity check</li>
+<li>Control other sources of electrical interference</li>
+</ul></li>
+</ul>
 </section>
-<section id="equipment" class="level2">
-<h2 class="anchored" data-anchor-id="equipment">Equipment</h2>
+<section id="malignant-arrhythmia" class="level3">
+<h3 class="anchored" data-anchor-id="malignant-arrhythmia">Malignant Arrhythmia</h3>
+<p>Pacing system delivers an impulse during a vulnerable part of ventricular repolarisation, resulting in polymorphic <span class="glossary" title="Ventricular Tachycardia">VT</span> or <span class="glossary" title="VF">VF</span>. Causes and management include:</p>
+<ul>
+<li>Undersensing of atrial or ventricular leads
+<ul>
+<li>Commence CALS</li>
+<li>Pause pacemaker</li>
+<li>Defibrillation</li>
+<li>Following ROSC:
+<ul>
+<li>Repeat sensitivity check</li>
+<li>Review telemetry</li>
+</ul></li>
+</ul></li>
+</ul>
 </section>
-<section id="technique" class="level2">
-<h2 class="anchored" data-anchor-id="technique">Technique</h2>
+<section id="pacemaker-mediated-tachycardia" class="level3 page-columns page-full">
+<h3 class="anchored" data-anchor-id="pacemaker-mediated-tachycardia">Pacemaker-mediated Tachycardia</h3>
+<p><strong>Broad complex tachycardia</strong> occurring just <strong><em>below</em></strong> the <strong>upper ventricular rate</strong> of the pacing system. Pacemaker-mediated tachycardia:</p>
+<ul>
+<li>Occurs when there is both:
+<ul>
+<li>A-V sequential pacing mode (e.g.&nbsp;DDD)<br>
+i.e.&nbsp;A mode with both:
+<ul>
+<li>Atrial sensing</li>
+<li>Ventricular pacing</li>
+</ul></li>
+<li><em>Slow</em> retrograde AV nodal conduction or accessory pathway</li>
+</ul></li>
+<li>Results from:
+<ul>
+<li>Ectopic (or paced) ventricular depolarisation<br>
+Ectopy required so that the AV node is not in a refractory state.</li>
+<li>Retrograde conduction via the AV node into the atria</li>
+<li>Atrial activity (via retrograde conduction) is sensed, resulting in delivery of a ventricular impulse after the programmed A-V interval</li>
+</ul></li>
+</ul>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p>Many pacing systems include a <span class="glossary" title="PVARP">PVARP</span>, which prevents sensing of an atrial impulse shortly after delivery of a ventricular one in order to ↓ risk of pacemaker-mediated tachycardia.<br>
+<br>
+Therefore, for this to occur the retrograde AV nodal conduction needs to be slower than the <span class="glossary" title="Post-Ventricular Atrial Refractory Period">PVARP</span> so it is registered when the impulse reaches the atria.</p>
+<p>Pacemaker-mediated tachycardia may occur with permanent systems but is usually self-terminated, as the system recognises the arrhythmia and defaults to a DDI mode.</p>
+</div></div><p>Management:</p>
+<ul>
+<li>Pause pacing<br>
+This will terminate a pacemaker-mediated rhythm.</li>
+<li>↑ <span class="glossary" title="Post-Ventricular Atrial Refractory Period">PVARP</span><br>
+Will be limited by the set A-V interval and the set rate.</li>
+<li>Change to DDI or VVI</li>
+</ul>
 </section>
-<section id="complications" class="level2">
-<h2 class="anchored" data-anchor-id="complications">Complications</h2>
+<section id="crosstalk" class="level3">
+<h3 class="anchored" data-anchor-id="crosstalk">Crosstalk</h3>
+<p>Crosstalk occurs when there are <strong>two pacing systems</strong> in use. Crosstalk:</p>
+<ul>
+<li>Usually occurs when there is a temporary epicardial system and a permanent system in place</li>
+<li>May result in failure to pace if:
+<ul>
+<li>The faster system fails to capture the chamber it is pacing</li>
+<li>The slower system senses the attempt to the faster system, and inhibits its own pacing</li>
+</ul></li>
+</ul>
 <hr>
+</section>
 </section>
 <section id="references" class="level2">
 <h2 class="anchored" data-anchor-id="references">References</h2>
