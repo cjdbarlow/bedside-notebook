@@ -23,19 +23,85 @@ Cardiac pacing refers to repetitive, low-current electrical stimulation of the h
 	* **Transcutaneous**\
 	Emergency pacing via pads. Requires sedation.
 
-## Pacing Modes
+## Terminology
+
+Key pacing terminology includes:
+
+* Sensitivity
+	* Thresholds
+	* Undersensing
+	* Oversensing
+* Capture
+	* Thresholds
+* Pacemaker code nomenclature
+* Pacing modes
+
+### Sensitivity
+
+Sensitivity describes the ability of the pacemaker to detect native cardiac rhythm. Sensitivity is:
+
+* Measured in **mV**
+	* The **sensing threshold** is the **voltage** at which native **activity** is **detected**
+	* The **sensitivity setting** (usually known as sensitivity) is the **voltage** that the **pacemaker** is **set to**
+		* This is lower than the sensing threshold\
+		"Increasing the sensitivity" therefore requires *decreasing* the sensitivity setting.
+* **Good** when the sensing **threshold** is **high**
+* **Poor** when the sensing **threshold** is **low**
+
+
+Undersensing:
+
+* Failure to sense the normal cardiac rhythm, resulting in inappropriate delivery of a pacing impulse\
+If this occurs during chamber repolarisation, arrhythmia can result:
+	* **Inappropriate atrial** pacing may cause **AF**
+	* **Inappropriate ventricular** pacing may cause **polymorphic VT** or **VF**
+* May occur due to:
+	* Variability in the sensing threshold
+	* Inappropriate setting of the sensitivity
+* Due to the risk of malignant arrhythmias, use undersensing pacing leads should be carefully considered and not used at all outside of a critical care setting
+
+:::column-margin
+**Low atrial sensitivity** is less concerning than low ventricular sensitivity as there is *less* (but **not no**) **R-on-T risk**.\
+\
+An R-on-T can still result if an undersensing atrial lead is used in a DDD mode. This occurs when:
+
+* The atrial lead fails to sense a native P wave
+* Atrial pacing then occurs during the subsequent (native) QRS
+	* The (functioning) ventricular lead studiously ignores any sensed electrical activity that occurs during atrial pacing\
+	This is known as a blanking period.
+	* This results in the ventricular lead not registering native ventricular activity
+* After the programmed A-V interval, the ventricular lead paces
+* This pacing occurs during repolarisation
+:::
+
+
+Oversensing:
+
+* Inappropriate inhibition of pacing due to misinterpretation of other electrical activity as chamber depolarisation\
+Sources include:
+	* Diathermy
+	* Muscle activity
+		* Shivering
+	* T-wave
+	* Other chamber depolarisation
+
+
+### Capture
+
+Capture describes how easily the pacemaker can cause a depolarisation. Capture is:
+
+* Measured in **mA**
+	* The **capture threshold** is the **current** at which a **pacing impulse causes** chamber **depolarisation**
+	* The capture setting is a current well above the capture threshold
+* **Good** when the capture **threshold** is **low**
+* **Poor** when the capture **threshold** is **high**
+
+### Pacing Codes
 
 A generic 3 or 5 digit code is used to describe pacing modes:
 
 :::column-margin
-Some examples:
-
-* VOO\
-Ventricle is paced, and there is no sensing. This is a (potentially dangerous) asynchronous mode.
-* DDD\
-Both atria and ventricles are sensed and paced. Atrial activity will trigger ventricular pacing if ventricular activity not sensed after an (adjustable) A-V delay.
-* DDI\
-Paces and senses both atria and ventricles. Atrial activity is not tracked (i.e. each chamber is dealt with individually).
+This code is used by the North American Society of Pacing and Electrophysiology (NAPSE), and the British Pacing and Electrophysiology Group (BPEG), and is abbreviated to the NBG (NAPSE/BPEG Generic Code).
 :::
 
 * **Chambers paced**\
@@ -61,17 +127,62 @@ Are multiple cardiac chambers paced:
 	* V: One or both ventricles
 	* D°: Any combination of ventricles
 
+
+### Pacing Modes
+
++------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Mode | Action                                                                                                                                                                  | Indications                                            | Contraindications                                                                                                                                     |
++======+=========================================================================================================================================================================+========================================================+=======================================================================================================================================================+
+| AAI  | - Atrium sensed                                                                                                                                                         | - Sinus bradycardia\                                   | - High grade AV block\                                                                                                                                |
+|      | - Atrium paced at the set rate if the native atrial rate is less than the set rate                                                                                      | ↓ Risk of new AF in the post-operative period.         | Or high risk of such.                                                                                                                                 |
+|      | - Pacing inhibited in response to sensing                                                                                                                               |                                                        | - AF                                                                                                                                                  |
+|      |                                                                                                                                                                         |                                                        | - Poor atrial sensitivity\                                                                                                                            |
+|      |                                                                                                                                                                         |                                                        | *Relative* contraindication, may produce AF in atrial modes or VF in DDD A-V sequential modes.                                                        |
++------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| VVI  | - Ventricle sensed                                                                                                                                                      | - AV block                                             | - Poor ejection\                                                                                                                                      |
+|      | - Ventricle paced at the set rate if the native ventricular rate is less than the set rate\                                                                             | - Ventricular standstill                               | Ventricular pacing results in dyskinetic contraction of the ventricle in addition to the loss of atrial kick, and can adversely affect haemodynamics. |
+|      | RV free wall is depolarised first, leading to a pseudo-LBBB pattern and dyssynchronous LV ejection that ↓ LV EF.                                                        |                                                        | - Poor ventricular sensitivity\                                                                                                                       |
+|      | - Pacing inhibited in response to sensing                                                                                                                               |                                                        | **Absolute** contraindication, may produce VF.                                                                                                        |
++------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| DDD  | - Both chambers sensed                                                                                                                                                  | - AV block                                             | - Poor atrial or ventricular sensitivity                                                                                                              |
+|      | - Both chambers paced                                                                                                                                                   | - Sinus bradycardia and risk of AV block               | - Pacemaker mediated tachycardia                                                                                                                      |
+|      | - Either chamber inhibited in response to sensing                                                                                                                       | - Asystole                                             |                                                                                                                                                       |
+|      | - Atrium paced at the set rate if the native atrial rate is less than the set rate, as AAI                                                                              |                                                        |                                                                                                                                                       |
+|      | - Ventricle paced at the *sensed* atrial rate if it exceeds the set rate, and no AV nodal conduction occurs during the set A-V interval                                 |                                                        |                                                                                                                                                       |
+|      | - Ventricle paced at the *set* rate if no no AV nodal conduction occurs (during the set A-V interval) following an atrial pacing impulse                                |                                                        |                                                                                                                                                       |
++------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| DDI  | - Both chambers sensed                                                                                                                                                  | - AV block when ventricular pacing is poorly tolerated | - Poor atrial or ventricular sensitivity                                                                                                              |
+|      | - Both chambers paced                                                                                                                                                   | - AF/Flutter with inadequate ventricular rate          |                                                                                                                                                       |
+|      | - Either chamber inhibited in response to sensing                                                                                                                       | - Pacemaker mediated tachycardia                       |                                                                                                                                                       |
+|      | - Atrium paced at the set rate if the native atrial rate is less than the set rate; as AAI                                                                              |                                                        |                                                                                                                                                       |
+|      | - Ventricle paced at the *set* rate if the ventricular rate is less than the set rate; as VVI\                                                                          |                                                        |                                                                                                                                                       |
+|      | This prevents potentially detrimental rapid ventricular pacing occurring if an atrial tachycardia occurs. It is also more tolerant of a prolonged PR interval than DDD. |                                                        |                                                                                                                                                       |
++------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| VOO  | - No chamber sensed                                                                                                                                                     | - Emergency                                            | - No availability of skilled practitioner with defibrillator                                                                                          |
+|      | - Ventricle paced at a set rate\                                                                                                                                        | - Weaning from CPB                                     |                                                                                                                                                       |
+|      | **High risk R-on-T**.                                                                                                                                                   | - Pacing dependence in OR with diathermy use           |                                                                                                                                                       |
++------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| DOO  | - No chamber sensed                                                                                                                                                     | - As VOO                                               | - As VOO                                                                                                                                              |
+|      | - Both chambers paced at a set rate at a set A-V interval\                                                                                                              |                                                        |                                                                                                                                                       |
+|      | **High risk R-on-T**.                                                                                                                                                   |                                                        |                                                                                                                                                       |
++------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+: Basic Pacing Modes
+
+
 ## Temporary Systems
 
-Configuration of temporary epicardial and transvenous pacing systems:
+Temporary systems include epicardial and transvenous systems. These systems provide for:
 
-* Default settings
-	* Output: 10-15mA
-	* Sensitivity:
-	* Rate: ~10 higher than native rate
-	Particularly prior to pacing check, to ↓ risk of R-on-T.
-* Perform pacing check
-* Managing failure to pace
+* Setting **capture and sensitivity**
+	* Levels should be determined following a **pacing check**
+	* Default settings prior to performing a pacing check include:
+		* Output: 10-15mA
+		* Sensitivity:
+		* Rate: ~10 higher than native rate
+		Particularly prior to pacing check, to ↓ risk of R-on-T.
+* Performing **rapid atrial pacing**
+
 
 
 ### Pacing Check
@@ -79,10 +190,12 @@ Configuration of temporary epicardial and transvenous pacing systems:
 :::caution
 Full pacing checks cannot be performed if:
 
-* The underlying rate is inadequate
+* The underlying rate is inadequate:
 	* Symptomatic hypotension
 	* MAP <50mmHg
 * Temperature <36°C
+* Hypokalaemia\
+K^+^ <4.5mmol/L.
 :::
 
 Temporary epicardial systems should be checked frequently (at least once per nursing shift) to ensure capture and sensitivity thresholds and safe and functional. The full check requires:
@@ -102,7 +215,7 @@ Test of the pacemakers detection of native cardiac output.
 		* ↑ Sensitivity (mV) until the sensing light is no longer flashing, and the pacing light flashes instead. Then ↓ sensitivity until all native beats are sensed.
 		This is the **sensing threshold**. The sensitivity *setting* of the pacemaker is set based upon this threshold.
 	* Check atrial sensitivity\
-	As ventricular sensitivity. Low atrial sensitivity is significantly less concerning than low ventricular sensitivity as there is no R-on-T risk.
+	As ventricular sensitivity.
 	* Check ventricular capture threshold\
 		* Set the pacing rate 10bpm **above** the native rhythm\
 		* ↑ Output from 0.1mA until 1:1 capture is achieved\
@@ -116,26 +229,59 @@ Test of the pacemakers detection of native cardiac output.
 +=============+===============+================================================+
 | Atrial      | - <1mv        | - Avoid as backup mode. Inappropriate in ward. |
 |             | - 1-4mV       | - 0.5mV                                        |
-|             | - >5mV        | - 1mV                                          |
+|             | - \>5mV       | - 1mV                                          |
 |             | - Not checked | - 0.5mV. Inappropriate in ward.                |
 +-------------+---------------+------------------------------------------------+
 | Ventricular | - <2mV        | - Leave pacing off.                            |
 |             | - 2-6mV       | - 1mV                                          |
 |             | - 7-10mV      | - 2mV                                          |
-|             | - >12mV       | - 3mV                                          |
+|             | - \>12mV      | - 3mV                                          |
 +-------------+---------------+------------------------------------------------+
 
 : Setting Sensitivity
 :::
 
 
+### Rapid Atrial Pacing
+
+Rapid atrial pacing is a technique for reversion of some atrial tachyarrhythmias:
+
+* Revertible rhythms include
+	* Atrial flutter
+	* AV junctional tachycardia
+	* Paroxysmal re-entrant SVT
+* Non-revertible rhythms include:
+	* AF
+	* VF
+	* Sinus tachycardia
+* Defibrillation pads should be applied in case of precipitation of a malignant arrhythmia
+
+:::column-margin
+Rapid atrial pacing is also known as **atrial overdrive pacing**.
+:::
+
+* The atria is paced 20-30bpm faster than the atrial rate\
+Usually at 260-340bpm.
+* For periods up to 20s, in order to capture the atria
+* If effective, SR should be restored following the rapid pacing period
+
+
+## Troubleshooting
+
+Pacing problems include:
+
+* Failure to pace
+* Failure to capture
+* Irregular pacing
+* Malignant arrhythmias
+* Pacemaker-mediated tachycardia
+* Crosstalk
+
+
 ### Failure to Pace
 
 :::crisis
-This can be an **emergency** in the pacing dependent patient.
-:::
-
-Escalation:
+This can be an **emergency** in the pacing dependent patient. If unstable:
 
 1. Ensure the box is connected
 2. Press the emergency button\
@@ -144,16 +290,133 @@ Sets DOO at maximal output (usually 20mA atria, 25mA ventricular).
 4. Replace the pacemaker
 5. Institute transcutaneous pacing
 6. Place a transvenous wire
+:::
+
+Pacemaker should deliver a pacing impulse, however:
+
+* No pacing spike is seen
+* Chamber capture does not occur\
+The chamber rate is less than the set rate.
 
 
-## Anatomy
+Causes and management include:
 
-## Equipment
+* Wire disconnection or migration
+	* Box is on, and mode is appropriate
+	* Box is connected to cables
+	* Wires are connected to the cables\
+	Consider replacing cables or cleaning connections.
+	* Wire location at the skin
+* Oversensing
+	* Sensitivity check
+	* Control other sources of electrical interference
+* Crosstalk
+	* Discuss with electrophysiology
+	* Disable less-effective system
 
-## Technique
+### Failure to Capture
 
-## Complications
+:::crisis
+This can be an **emergency** in the pacing dependent patient. If unstable, follow the advice for failure to pace.
+:::
 
+Pacemaker delivers a pacing impulse but capture does not occur.
+
+Causes and management include:
+
+* Wire disconnection and migration
+	* Box is on, and mode is appropriate
+	* Box is connected to cables
+	* Wires are connected to the cables\
+	Consider replacing cables or cleaning connections.
+	* Wire location at the skin
+* ↑ Electrical resistance
+	* Check capture threshold
+	* Consider echocardiography\
+	Potential for pericardial collection to ↑ capture thresholds.
+* AF\
+Prevents atrial capture.
+	* Rhythm control
+
+
+### Irregular Pacing
+
+Pacing spikes occurring irregularly, or only irregularly capture the chamber.
+
+Causes and management include:
+
+* Native rate similar to set rate
+	* Assess underlying rate by ↓ set rate
+	* Assess for respiratory change in native R-R interval
+	* Set rate either well above or below the native rate
+* Tracking atrial arrhythmia
+	* Control arrhythmia
+		* Cardioversion
+	* Change to non A-V sequential mode
+		* VVI
+		* DDI
+* Undersensing
+	* Check sensitivity
+	* Disable affected lead if undersensing
+* Oversensing
+	* Sensitivity check
+	* Control other sources of electrical interference
+
+
+### Malignant Arrhythmia
+
+Pacing system delivers an impulse during a vulnerable part of ventricular repolarisation, resulting in polymorphic VT or VF. Causes and management include:
+
+* Undersensing of atrial or ventricular leads
+	* Commence CALS
+	* Pause pacemaker
+	* Defibrillation
+	* Following ROSC:
+		* Repeat sensitivity check
+		* Review telemetry
+
+
+### Pacemaker-mediated Tachycardia
+
+**Broad complex tachycardia** occurring just ***below*** the **upper ventricular rate** of the pacing system. Pacemaker-mediated tachycardia:
+
+* Occurs when there is both:
+	* A-V sequential pacing mode (e.g. DDD)\
+	i.e. A mode with both:
+		* Atrial sensing
+		* Ventricular pacing
+	* *Slow* retrograde AV nodal conduction or accessory pathway
+* Results from:
+	* Ectopic (or paced) ventricular depolarisation\
+	Ectopy required so that the AV node is not in a refractory state. 
+	* Retrograde conduction via the AV node into the atria
+	* Atrial activity (via retrograde conduction) is sensed, resulting in delivery of a ventricular impulse after the programmed A-V interval
+
+:::column-margin
+Many pacing systems include a PVARP, which prevents sensing of an atrial impulse shortly after delivery of a ventricular one in order to ↓ risk of pacemaker-mediated tachycardia.\
+\
+Therefore, for this to occur the retrograde AV nodal conduction needs to be slower than the PVARP so it is registered when the impulse reaches the atria.
+
+Pacemaker-mediated tachycardia may occur with permanent systems but is usually self-terminated, as the system recognises the arrhythmia and defaults to a DDI mode.
+:::
+
+Management:
+
+* Pause pacing\
+This will terminate a pacemaker-mediated rhythm.
+* ↑ PVARP\
+Will be limited by the set A-V interval and the set rate.
+* Change to DDI or VVI
+
+
+### Crosstalk
+
+Crosstalk occurs when there are **two pacing systems** in use. Crosstalk:
+
+* Usually occurs when there is a temporary epicardial system and a permanent system in place
+* May result in failure to pace if:
+	* The faster system fails to capture the chamber it is pacing
+	* The slower system senses the attempt to the faster system, and inhibits its own pacing
 
 ---
 

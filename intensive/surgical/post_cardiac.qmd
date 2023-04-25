@@ -383,6 +383,11 @@ Post-operative AKI:
 
 Other complications of cardiac surgery include:
 
+* C
+	* Permanent pacing
+		* AVR + MVR: 11%
+		* MVR: 8%
+		* AVR: 5%
 * D
 	* Delirium/POCD
 	10-20%.

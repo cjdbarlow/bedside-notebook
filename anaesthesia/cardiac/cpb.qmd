@@ -366,6 +366,17 @@ Anaesthetist:
 * Aim SBP 80-140mmHg
 * Maintain high-normal potassium
 * Check ABG, ACT, and TEG post reversal
+* Check pacing
+	* VOO or DOO commonly used for weaning\
+	Change to a safer mode when option for internal defibrillation is no longer available (i.e., during sternal closure).
+	* Capture thresholds should be checked
+		* <5mA acceptable
+		* 5-10mA\
+		Discuss with the surgeon about:
+			* Repositioning
+			* Reversing polarity
+		* />10mA\
+		Unacceptably high, should be replaced due to high risk of post-operative failure.
 
 ## Complications
 
