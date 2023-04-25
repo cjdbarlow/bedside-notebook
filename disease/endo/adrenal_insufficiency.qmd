@@ -1,0 +1,192 @@
+# Adrenal Insufficiency
+
+Adrenal insufficiency is a clinical syndrome of cortisol and aldosterone deficiency, that is classified into:
+
+* **Primary** adrenal insufficiency (**Addison's Disease**)\
+**Hypofunction** of the **adrenal cortex** resulting in ↓ in glucocorticoid and mineralocorticoid secretion.
+* **Secondary** adrenal insufficiency\
+**Hypofunction** of the **pituitary**, resulting in ↓ in ACTH and subsequent steroid release.
+* **Relative** adrenal insufficiency\
+**Normal function** of the **entire HPA axis**, but the **cortisone** secretion is **inadequate** for the **degree** of physiological **stress**.
+
+:::column-margin
+Primary adrenal insufficiency is rare overall, and vanishingly rare as the cause in an ICU patient.
+:::
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+In health, the adrenal cortex is responsible for production of steroid hormones:
+
+* Under the control of the HPA axis
+	* CRH release from the hypothalamus stimulates ACTH release from the pituitary\
+	Stimulation is ↑ during critical illness, resulting in ↑ plasma cortisol.
+* Including:
+	* Cortisol\
+	Usually secreted:
+		* In pulses
+		* With a diurnal pattern
+			* Peak at ~0800 hours
+			* Trough at ~0100
+		* Under the influence of ACTH\
+		Negative feedback mechanism exists.
+		* At 15-30mg/day
+	* Aldosterone
+	* Sex steroids\
+	Relatively unimportant in critical illness.
+
+
+### Aetiology
+
+Primary adrenal insufficiency:
+
+* **Autoimmune**\
+Most common in Western world.
+* Infections
+	* **TB**\
+	Most common worldwide.
+	* CMV
+	* Histoplasmosis
+	* Coccidiomycosis
+* Adrenal haemorrhage
+	* Sepsis\
+	Meningococcal septicaemia, also known as Waterhouse-Friderichsen syndrome.
+	* APS
+	* Trauma
+	* Srugery
+* Infiltrative
+	* Tumour
+	* Amyloid
+	* Sarcoid
+	* Haemachromatosis
+* Drug related
+	* Inhibition of cortisol synthesis
+		* Etomidate
+		* Fluconazole
+	* Induce cortisol metabolism
+		* Rifampicin
+		* Phenytoin
+* Congenital
+	* Adrenal dysgenesis
+
+
+Secondary adrenal insufficiency:
+
+* Cessation of exogenous glucocorticoid
+* Pituitary disease
+	* Surgery
+	* Infarction
+		* Sheehan's syndrome
+	* Pituitary tumour
+
+## Clinical Manifestations
+
+**Adrenal crisis** is a catastrophic syndrome characterised by:
+
+* **Refractory shock**
+* **Poor response** to **vasopressors**
+
+:::column-margin
+Many patients with primary deficiency will present with an adrenal crisis, due to the vague symptomatology of evolving disease.
+:::
+
+Presentation without an adrenal crisis is usually non-specific and ill-defined. Subtypes of adrenal insufficiency vary with their features:
+
+* Primary adrenal insufficiency is the only cause that produces **hyperpigmentation**\
+Only disease with ↑ ACTH production.
+* Secondary adrenal insufficiency typically does not include mineralocorticoid deficiency, and remains a primarily cortisone-deficient state
+
++----------------------------------------------------------------------------------------------------------------------------------------+------------------------------------+------------------------+
+| Specific to Cortisone Deficiency                                                                                                       | Specific to Aldosterone Deficiency | Non-specific           |
++========================================================================================================================================+====================================+========================+
+| * Hypotension\                                                                                                                         | * Hyponatraemia                    | * Weakness             |
+| Refractory to fluids and vasopressors.                                                                                                 | * Hyperkalaemia                    | * Weight loss          |
+| * Hypoglycaemia                                                                                                                        | * NAGMA\                           | * Anorexia             |
+| * Hyperpigmentation\                                                                                                                   | Type 4 RTA.                        | * Abdominal pain       |
+| Due to ↑ ACTH, which stimulates melanogenesis. First evident on mucous membranes, then non-sun exposed areas, followed by normal skin. |                                    | * Nausea               |
+| * Eosinophilia                                                                                                                         |                                    | * Diarrhoea            |
+|                                                                                                                                        |                                    | * Normocytic anaemia   |
+|                                                                                                                                        |                                    | * Postural hypotension |
++----------------------------------------------------------------------------------------------------------------------------------------+------------------------------------+------------------------+
+
+: Features of Adrenal Insufficiency
+
+
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+Bedside:
+
+* ABG
+	* NAGMA
+	* Hyponatraemia
+	* Hyperkalaemia
+
+Laboratory:
+
+* Blood
+	* FBE
+		* Anaemia
+	* UEC
+		* Hyponatraemia
+		* Hyperkalaemia
+	* Random cortisol\
+	In adrenal crisis would be expected to be <80nmol/L; ACTH stimulation testing is not required.
+	* ACTH stimulation test\
+	In a stable patient:
+		* Administer 250μg of tetracosactrin (Synacthen)
+		* Measure cortisol at 0 and 30 minutes
+		* Appropriate elevation in peak cortisol should be seen\
+		Threshold varies depending on the laboratory.
+			* Hydrocortisone interacts with many assays and so cannot be used
+			* Dexamethasone can be used as an alternative steroid if planning the test
+
+
+Imaging:
+
+Other:
+
+## Management
+
+**Resuscitation**:\
+
+* C
+	* Volume resuscitation
+	* Vasopressors
+* E
+	* **Glucocorticoids**
+		* 100mg hydrocortisone IV Q6H\
+		This provides adequate mineralocorticoid replacement.
+
+**Specific therapy**:
+
+* Pharmacological
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

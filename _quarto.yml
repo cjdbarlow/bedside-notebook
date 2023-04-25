@@ -664,6 +664,7 @@ book:
             - disease/endo/insulinoma.qmd
         - part: "Adrenal"
           chapters:
+            - disease/endo/adrenal_insufficiency.qmd
             - disease/endo/cushing.qmd
             - disease/endo/conn.qmd
             # Addison's
