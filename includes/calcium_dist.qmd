@@ -1,0 +1,10 @@
+Extracellular calcium is split (approximately evenly) into:
+
+* **Ionised calcium** (1.1-1.3mmol/L)\
+Only biologically important version as bound calcium is not active.
+	* Ionised calcium is affected by pH, as  an ↑ in H^+^ concentration displaces calcium from albumin and therefore ↑ iCa^2+^\
+	For every 0.1 ↓ in pH, iCa^2+^ ↑ by ~0.05mmol/L.
+* **Bound calcium**
+	* Majority (90%) of non-ionised calcium is bound to albumin, and so total calcium is affected by albumin levels
+	* Remainder bound to beta-globulins, phosphate, citrate, sulphate, ketones\
+	Generally of little clinical importance.

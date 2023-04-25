@@ -213,8 +213,8 @@ book:
             - part: "Electrolyte"
               chapters:
                 - management/fluid/hypona.qmd
-                - management/fluid/hypoca.qmd
                 - management/fluid/hyperca.qmd
+                - management/fluid/hypoca.qmd
             - part: "Renal Replacement"
               chapters:
                 - management/renal/overview.qmd
@@ -667,7 +667,6 @@ book:
             - disease/endo/adrenal_insufficiency.qmd
             - disease/endo/cushing.qmd
             - disease/endo/conn.qmd
-            # Addison's
         - part: "Thyroid"
           chapters:
             - disease/endo/hyperthyroidism.qmd
@@ -692,7 +691,7 @@ book:
         # - part: "Intrarenal"
         #   chapters:
             # GN
-            # Nephotic syndrome
+            # Nephrotic syndrome
             # RTA
             # ATN
             # Interstitial nephritis

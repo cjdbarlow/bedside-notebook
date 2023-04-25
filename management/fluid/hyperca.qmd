@@ -1,25 +1,19 @@
 # Hypercalcaemia
 
-Hypercalcaemia (serum calcium >2.5mmol/L) is a common and occasionally severe electrolyte disorder. Extracellular calcium is split (approximately evenly) into:
+Hypercalcaemia (serum calcium >2.5mmol/L) is a common and occasionally severe electrolyte disorder.
 
 :::column-margin
 No formal severity grading exists, but a reasonable stratification is:
 
-* 2.6-2.9mmol/L: Mild\
+* Mild: 2.6-2.9mmol/L\
 Often asymptomatic, urgent correction not required.
-* 3.0-3.4mmol/L: Moderate\
+* Moderate: 3.0-3.4mmol/L\
 Acute occurrence often symptomatic and demands prompt treatment.
-* \>3.4mmol/L: Severe\
+* Severe: >3.4mmol/L\
 Urgent treatment required due to risk of dysrhythmias.
 :::
 
-* Ionised calcium (1.1-1.3mmol/L)\
-Only biologically important version as bound calcium is not active.
-* Bound calcium
-	* Majority of non-ionised calcium is bound to albumin, and so this amount is affected by albumin levels\
-	Corrected calcium is calculated by ↓ (or ↑) measured total calcium by 0.02 mmol/L for every 1g/L ↓ (or ↑) the albumin is above 40g/L.
-	* Remainder bound to beta-globulins, phosphate, citrate
-
+{{< include /includes/calcium_dist.qmd >}}
 
 ## Epidemiology and Risk Factors
 
@@ -141,22 +135,30 @@ Classically, "stones, bones, groans, and psychic moans."
 
 ## Investigations
 
-Bloods:
+Bedside:
+	* ABG
 
-* UEC\
-Renal failure.
-* Mg\
-* PTH
-* ALP
-* Lipase
-* PTHrP\
-Rule out humoral hypercalcaemia of malignancy.
-* 1,25-dihydroxy vitamin D
-* 25-hydroxy vitamin D\
-Rule out vitamin D intoxication.
-* TSH
+Laboratory:
 
-Others:
+:::column-margin
+{{< include /includes/calcium_correction.qmd >}}
+:::
+
+* Bloods
+	* UEC\
+	Renal failure.
+	* Mg\
+	* PTH
+	* ALP
+	* Lipase
+	* PTHrP\
+	Rule out humoral hypercalcaemia of malignancy.
+	* 1,25-dihydroxy vitamin D
+	* 25-hydroxy vitamin D\
+	Rule out vitamin D intoxication.
+	* TSH
+
+Other:
 
 * Urinary calcium\
 Hypercalciuria usually precedes hypercalcaemia, as hypercalcaemia only occurs when renal elimination is overwhelmed.
@@ -225,3 +227,4 @@ Include:
 
 1. Shane, Elizabeth, and I. Dinaz. H[ypercalcemia: pathogenesis, clinical manifestations, differential diagnosis, and management](www.homepages.ucl.ac.uk/%7Eucgatma/Anat3048/PAPERS%20etc/ASBMR%20Primer%20Ed%206/Ch%2026-41%20-%20Disorders%20of%20Serum%20Minerals.pdf). Primer on the Metabolic Bone Diseases and Disorders of Mineral Metabolism, Favus MJ (ed.). Philadelphia: Lippincott, Williams &Wilkins (1999): 183-87.
 2. eviQ. [Hypercalcaemia of Malignancy](https://www.eviq.org.au/clinical-resources/oncological-emergencies/486-hypercalcaemia-of-malignancy-hcm#references). ID: 486 v.4.
+3. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

@@ -1,0 +1,9 @@
+Three equations exist to correct measured calcium:
+
+* Correction of ionised calcium for pH:\
+$iCa^{2+}_{7.4}c = iCa^{2+} \times (1 - 0.53 \times (7.40 - pH))$
+* Correcting total calcium for:
+	* Albumin:\
+	Measured total calcium will ↓ (or ↑) by 0.02 mmol/L for every 1g/L ↓ (or ↑) the albumin is above 40g/L.
+	* Globulins:\
+	Measured total calcium will  ↓ (or ↑) by 0.04mmol/L for every 10g/L ↓ (or ↑) in serum globulin.
