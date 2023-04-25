@@ -1,12 +1,14 @@
 # Intrauterine Resuscitation
 
+:::info
+General principle is to optimise foetal DO~2~ by:
 
-> General principle is to optimise foetal DO~2~ by:
-> * Improving uterine perfusion pressure
->	* ↑ systemic driving pressure
->	* Reducing intrauterine pressure
-> * ↑ maternal oxygen saturation
-> * Removing any cord impingement
+* Improving uterine perfusion pressure
+	* ↑ Systemic driving pressure
+	* Reducing intrauterine pressure
+	* ↑ maternal oxygen saturation
+	* Removing any cord impingement
+:::
 
 Foetal distress is progressive foetal asphyxia that if not corrected or circumvented, will result in decompensation and permanent CNS damage or death.
 
@@ -46,7 +48,7 @@ Reduces intrauterine pressure, reducing foetal compression and improving uteropl
 * Give fluid bolus  
 500ml-1L CSL.
 	* Associated with improvement in foetal oxygenation even with adequate maternal driving pressure
-	* **Caution** in women with **preeclampsia** or receiving tocolytics
+	* **Caution** in women with **pre-eclampsia** or receiving tocolytics
 * Give vasopressor  
 Particularly if foetal distress is **epidural** or **spinal associated**.
 	* Phenylephrine 50-100μg

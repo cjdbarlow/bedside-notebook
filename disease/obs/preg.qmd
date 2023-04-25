@@ -258,7 +258,7 @@ Artificial techniques to initiate the process of labour. Induction is performed:
 		See [premature rupture of membranes](/anaesthesia/obs/terms.md)
 		* FDIU
 	* Maternal disease
-		* [Preeclampsia](/disease/obs/htn.md)
+		* [Pre-eclampsia](/disease/obs/htn.md)
 		* Diabetes
 	* Foetal
 		* IUGR
@@ -292,6 +292,21 @@ Associated with 85% of all perinatal morbidity and mortality, due to:
 
 Management of Premature Labour:
 
+* Foetal protection
+	* Antenatal corticosteroids
+		* For women <34^+6^ and birth expected in <7 days\
+		Risk:benefit of precise timing varies.
+		* ↓ Foetal morbidity and mortality by ↓ incidence of respiratory distress syndrome by:
+			* Accelerating lung maturity
+			* ↓ IVH
+			* ↓ Necrotising enterocolitis
+		* Betamethasone 11.4mg IM daily for 2 days
+	* Magnesium
+		* For women <30^0^
+		* ↓ Risk of cerebral palsy and death in preterm infants
+		* Administer **within 4 hours of birth**:
+			* 4g over 20 minutes
+			* 1g/hr thereafter
 * **Tocolytics** are used to stop premature contractions  
 Agents include:
 	* Magnesium sulfate

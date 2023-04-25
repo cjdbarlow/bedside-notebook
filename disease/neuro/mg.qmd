@@ -142,7 +142,6 @@ Acetylcholinesterase inhibitor.
 
 ## Anaesthetic Considerations
 
-:::gas
 Key considerations:
 
 * Disease stability
@@ -152,7 +151,10 @@ Usually greatest muscular strength.
 * Anticholinesterases should be continued
 * **Stress dose steroids** may be required
 * Consider **ICU admission** post-operatively
-:::
+
+
+Evaluation:
+
 
 * A
 	* Bulbar symptoms\

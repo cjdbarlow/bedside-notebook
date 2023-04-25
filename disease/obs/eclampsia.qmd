@@ -1,21 +1,59 @@
 # Eclampsia {#sec-eclampsia}
 
+Life-threatening **generalised tonic-clonic seizure** and **coma** occurring in a **woman with pre-eclampsia** or gestational hypertension.
+
+:::column-margin
+This covers eclampsia. Pregnancy induced hypertension and pre-eclampsia is covered at @sec-preghtn.
+:::
 
 ## Epidemiology and Risk Factors
 
 Eclampsia:
 
 * Occurs in ~0.05% of pregnancies
-* Risk continues up to 1 week following delivery\
-30% of seizures are post-partum.
-
-
+* Timing is variable:
+	* 60% of cases occur antepartum
+		* 50% pre-term
+		* 20% 20-30 weeks
+	* 20% intrapartum
+	* 20% post-partum\
+	90% within 1 week of delivery.
+* Recurrent seizure in 10%
 
 ## Pathophysiology
 
-### Aetiology
+Mechanisms are not well understood but may include:
+
+* Loss of cerebral autoregulation
+	* Hyperperfusion
+	* Endothelial dysfunction
+	* Vasogenic oedema
+* Maintenance of autoregulation leading to extreme vasoconstriction
+	* Hypoperfusion
+	* Localised ischaemia
 
 ## Clinical Manifestations
+
+Generalised tonic-clonic seizure with unconsciousness with a post-ictal period lasting 10-20 minutes, preceded in *most* cases by:
+
+:::column-margin
+Despite this, 25% of cases have no precipitating signs or symptoms.
+:::
+
+* Hypertension
+* Headache
+* Visual disturbances
+* Abdominal pain
+	* Epigastric
+	* RUQ
+
+
+Other features of pre-eclampsia may also be evident, including:
+
+* Hyperreflexia/clonus
+* Visual deficits
+* Altered mental status
+* Cranial nerve deficits
 
 ## Diagnostic Approach and DDx
 
@@ -27,35 +65,65 @@ Laboratory:
 
 Imaging:
 
+* CTB\
+Evaluate for intracranial complications.
+
 Other:
 
 ## Management
+
+:::info
+Goals:
+
+* Airway protection and aspiration prevention
+* Correct hypertension
+* Terminate seizure
+* Prevent recurrent seizure
+* Expedite delivery
+:::
+
+:::column-margin
+Management of co-existing pre-eclampsia is crucial, and is covered at @sec-preghtn.
+:::
 
 **Resuscitation**:\
 
 * A
 	* Airway protection  
 	Prevention of aspiration.
-* C
-* D
-	* Anticonvulsant  
-		* Magnesium Sulfate
+* B
+	* Supplemental oxygen
+{{< include /includes/preg_htn_resus.qmd >}}
+
 
 **Specific therapy**:
 
 * Pharmacological
+	* Blood pressure control
 * Procedural
-* Physical
+	* Expedite **delivery**
 
-**Supportive care**:
 
 **Disposition**:
+
+* ICU Admission\
+	* Following seizure
+	* Commonly required after delivery
+
 
 ### Marginal and Ineffective Therapies
 
 ## Anaesthetic Considerations
 
 ## Complications
+
+* Death
+* A
+	* Aspiration
+* D
+	* Intracranial haemorrhage
+	* Cerebral oedema
+	* Cerebral venous thrombosis
 
 ## Prognosis
 
@@ -65,3 +133,5 @@ Other:
 ---
 
 ## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

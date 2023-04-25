@@ -1,25 +1,21 @@
-# Hypertensive Diseases of Pregnancy
+# Hypertensive Diseases of Pregnancy {#sec-preghtn}
 
-Hypertension in pregnancy is:
+Hypertension in pregnancy is common and associated with significant maternal and foetal harm. It is classified into four sub-groups:
 
-* Common
-* Associated with ↑ maternal, foetal, and neonatal morbidity and mortality
-* Associated with additional complications
-* Classified into four sub-groups:
-	* **Gestational hypertension**
-		* SBP > 140mmHg *or* DBP > 90mmHg
-		* Present after 20^th^ week of gestation
-		* Resolving following delivery\
+* **Gestational hypertension**
+	* SBP > 140mmHg *or* DBP > 90mmHg
+	* Present after 20^th^ week of gestation
+	* Resolving following delivery\
 	Usually within 6 weeks.
-	* **Preeclampsia/Eclampsia**
-		* Preeclampsia is defined as **gestational hypertension** with **organ system involvement**\
-		Preeclampsia with severe features is preeclampsia with severe end-organ dysfunction or hypertension, see [clinical features](#clinical).
-		* Eclampsia is defined as **preeclampsia** with **seizures**
-	* **Chronic hypertension**\
-	Pre-existing hypertension.
-	* **Chronic hypertension with super-imposed preeclampsia/eclampsia**
+* **Pre-eclampsia/Eclampsia**
+	* Pre-eclampsia is defined as **gestational hypertension** with **organ dysfunction** or **proteinuria**
+	* Pre-eclampsia with severe features is pre-eclampsia with severe end-organ dysfunction
+	* Eclampsia is defined as **pre-eclampsia** with **seizures**
+* **Chronic hypertension**\
+Pre-existing hypertension.
+* **Chronic hypertension with super-imposed pre-eclampsia/eclampsia**
 
-:column-margin
+:::column-margin
 This covers pregnancy induced hypertension and pre-eclampsia. Eclampsia is covered at @sec-eclampsia.
 :::
 
@@ -39,10 +35,11 @@ Risk factors include:
 	* Nulliparity
 	* Multiple gestation
 
-Preeclampsia is:
+Pre-eclampsia is:
 
 * A leading cause of maternal morbidity and mortality
-* Present in 5-8% of pregnancies
+* Present in 5-8% of pregnancies\
+Wide variation in incidence, with ↑ rates in under-resourced environments.
 
 
 ## Pathophysiology
@@ -51,8 +48,8 @@ Underlying processes driving placental insufficiency include:
 
 * Maternal endothelial dysfunction
 	* Altered endothelial function
-		* ↑ endothelial secretion
-		* ↓ nitric oxide
+		* ↑ Endothelial secretion
+		* ↓ Nitric oxide
 	* Normal development of a high-flow, low-resistance placental circulation does not occur
 * Acute atherosclerosis and thrombosis of placental vessels\
 Results in ↓ placental flow and structural blood vessel damage.
@@ -64,23 +61,25 @@ These processes:
 	* **Platelet** activation and **aggregation**
 	* **Loss** of **circulating volume**
 * Result in other end-organ dysfunction
-	* Laryngeal oedema
-	* Cardiac
+	* A
+		* Laryngeal oedema
+	* C
 		* High cardiac output state with inappropriate SVR
 		* Diastolic dysfunction
 		* ↓ venous capacitance\
 		Subsequently, generally normal filling pressures.
 		Risk of acute LV failure if diastolic dysfunction present, especially if given volume.
-	* Retinal vasospasm
-	* Cerebral
-		* Oedema
-		* Haemorrhage
-	* Renal
+	* D
+		* Retinal vasospasm
+		* Cerebral
+			* Oedema
+			* Haemorrhage
+	* F
 		* Oliguria
 		* Uraemia
-	* Hepatic
+	* G
 		* Synthetic coagulopathy
-	* Haematological
+	* H
 		* Consumptive coagulopathy
 
 
@@ -88,7 +87,7 @@ These processes:
 
 Pre-eclampsia is classified by:
 
-* Gestational age at diagnosis
+* **Gestational age** at diagnosis
 	* Late\
 	≥37 weeks.
 		* Majority of cases
@@ -96,45 +95,55 @@ Pre-eclampsia is classified by:
 	34-37 weeks.
 	* Early\
 	<34 weeks.
-* Severity
-	* **Preeclampsia**\
-	Gestational hypertension with organ system involvement:
+
+:::column-margin
+Earlier onset is associated with greater severity.
+:::
+
+* **Severity**
+	* **Pre-eclampsia**\
+	Gestational hypertension with:
+		* Proteinuria\
+		\>0.3g/24 hours.
+		* Organ system involvement
+			* Cardiorespiratory
+				* Pulmonary oedema
+			* CNS
+				* New-onset, persistent headache
+				* Visual disturbances
+			* Renal
+				* Creatinine >100mmol/L or doubling
+			* GIT
+				* Transaminases ↑ 2x ULN
+			* Haematological
+				* Platelets ⩽100/μL.
+			* Uteroplacental circulation
+	* **Pre-eclampsia with severe features**\
+	Pre-eclampsia with *any* of the following features:
 		* Cardiorespiratory
-		* CNS
-		* GIT
-		* Renal
-			* Proteinuria >0.3g/24 hours
-		* GIT
-		* Uteroplacental circulation
-	* **Preeclampsia with severe features**\
-	Preeclampsia with *any* of the following features:
-		* Cardiorespiratory 
 			* Severe hypertension\
 			Defined as SBP > 160mmHg or DBP > 90mmHg.
 			* Hypertensive crisis\
 			Defined as SBP >180mmHg or DBP >110mmHg.
 			* Pulmonary oedema
+			* Ventricular tachycardia
 		* CNS
 			* Seizures/eclampsia
-			* Headache
-			* Visual disturbances
 			* Papilloedema
-			* Clonus/hyperreflexia
+			* PRES
+			* Clonus/**hyperreflexia**
 		* Renal
-			* Proteinuria\
+			* **Proteinuria**\
 			≥5g/24 hours.
 			* Oliguria\
-			< 500ml/24 hours.
-			* Protein/creatinine >0.5g/mmol.
+			\<500ml/24 hours.
+			* **Protein/creatinine >0.5g/mmol**.
 			* Renal failure
 		* GIT
-			* Elevated transaminases
 			* Hepatic tenderness
 			* Nausea/vomiting
 		* Haematological
 			* Haemolysis
-			* Thrombocytopenia\
-			⩽100 x 10^9^sup>/L.
 			* DIC
 		* Uteroplacental circulation
 			* Placental abruption
@@ -143,13 +152,18 @@ Pre-eclampsia is classified by:
 			Absent or reversed end-diastolic flow.
 		* HELLP syndrome\
 		Haemolysis, elevated liver enzymes, thrombocytopaenia.
-	* Generally a high-cardiac output state, associated with inappropriately high SVR
-
 
 
 ## Investigations
 
 ## Management
+
+:::crisis
+For **severe pre-eclampsia** or **hypertensive crisis**:
+
+* Give **magnesium** for seizure prophylaxis
+* Aim to **lower BP** by 10-20mmHg every 10-20 minutes to **↓** incidence of **intracerebral haemorrhage**
+:::
 
 **Preventative:**
 
@@ -176,72 +190,38 @@ Indicated in pregnancy with major risk factors for pre-eclampsia, including:
 
 **Resuscitation**:\
 
-* C
-	* Control of blood pressure
-		* Target SBP 140-150mmHg and DBP 90-100mmHg
-		* Strategy depends on severity of hypertension
-			* For non-severe hypertension:
-				* Labetalol
-				Drug of choice.
-					* 100-400mg PO BD-TDS
-				* Nifedipine
-					* 20-60mg PO SR
-				* Methyldopa
-					* 250-750mg PO TDS
-				* Clonidine
-					* 75-300μg PO TDS
-				* Hydralazine
-					* 25-50mg PO Q8H
-				* Metoprolol
-				* Propranolol
-			* For **severe hypertension** or **hypertensive crisis**:
-			Aim to lower BP by 10-20mmHg every 10-20 minutes to reduce incidence of intracerebral haemorrhage.
-				* Labetalol
-					* 20-80mg IV over 2 minutes\
-					Can repeat every 10 minutes.
-				* Nifedipine
-					* 10-20mg PO IR
-				* Hydralazine\
-					* 10mg IV Q20 minutes
-				* GTN\
-				For hypertension and APO
-			* Safe agents in pregnancy include
-				* Labetalol
-* D
-	* Seizure prophylaxis
-		* **Magnesium Sulphate**
-			* **Prophylaxis** for **eclampsia** in women with **severe preeclampsia**\
-			Not recommended for use as an antihypertensive agent.
-			* Multifactorial mechanism of action:
-				* ↑ Prostacyclin synthesis
-				* ↓ Calcium influx\
-				Thereby ↓ ATP-consuming Ca^2+^-dependent processes.
-				* NMDA antagonism
-			* Give **4g over 20 minutes**, and then **1g/hr** thereafter
-			* Target level is **1.7-3.5mmol/L**
-			* Monitoring should be performed:
-				* Q6H in women with renal impairment
-				* If:
-					* RR < 12
-					* UO < 100ml over 4 hours
-					* Loss of patella reflexes
-					* Further seizures occur
+{{< include /includes/preg_htn_resus.qmd >}}
 
 
 **Specific therapy**:
 
 * Pharmacological
+	* For non-severe hypertension:
+		* Labetalol\
+		Drug of choice.
+			* 100-400mg PO BD-TDS
+		* Nifedipine
+			* 20-60mg PO SR
+		* Methyldopa
+			* 250-750mg PO TDS
+		* Clonidine
+			* 75-300μg PO TDS
+		* Hydralazine
+			* 25-50mg PO Q8H
+		* Metoprolol
+		* Propranolol
 * Procedural
-* **Delivery**\
-	* Only curative option
-	* Neuraxial techniques preferred in absence of coagulopathy\
-	No clear advantage of any (CSE, epidural, single-shot spinal) technique.
+	* **Delivery**\
+		* **Only curative option**\
+		Note that pre-eclampsia can continue to worsen after delivery and may persist until after the puerperium.
+		* Neuraxial techniques preferred in absence of coagulopathy\
+		No clear advantage of any (CSE, epidural, single-shot spinal) technique.
 
 
 **Disposition**:
 
 * Admission\
-May be required for BP management.
+ICU or HDU may be required for BP management, and after delivery.
 * Delivery\
 Timing of delivery is dependent on gestational age at time of onset of pre-eclampsia:
 	* Previable (< 23^6^ weeks)
@@ -260,7 +240,6 @@ Timing of delivery is dependent on gestational age at time of onset of pre-eclam
 	* 37^0^
 		* Planned delivery
 
-
 ### Breastfeeding and Post-Partum Management
 
 Ongoing and new-onset hypertension occur in the post-partum period. In addition to drugs used antenatally, drugs with low milk:maternal plasma ratios include:
@@ -268,7 +247,7 @@ Ongoing and new-onset hypertension occur in the post-partum period. In addition 
 * Enalapril
 * Captopril
 
-### Anaesthetic Considerations
+## Anaesthetic Considerations
 
 * A
 	* Laryngeal oedema
@@ -295,7 +274,7 @@ Ongoing and new-onset hypertension occur in the post-partum period. In addition 
 		* Epidural
 			* Reduces BP, and improves placental perfusion
 			* Provides analgesia during labour
-			* Slow titration may be **better than spinal** in severe preeclampsia
+			* Slow titration may be **better than spinal** in severe pre-eclampsia
 			* Consider inserting early, prior to thrombocytopenia developing
 			* Requires **normal coagulation profile prior**
 				* Platelet count > 70,000/ml\
@@ -312,7 +291,7 @@ Ongoing and new-onset hypertension occur in the post-partum period. In addition 
 			* RSI associated with dangerous hypertension\
 			Consider:
 				* Labetalol 1mg/kg pre-induction\
-				Reduces BP without affecting foetal blood flow.
+				↓ BP without affecting foetal blood flow.
 			* Magnesium ↑ sensitivity to muscle relaxants
 * F
 	* Volume state
@@ -339,6 +318,7 @@ Maternal complications of severe pre-eclampsia include:
 	* Pulmonary oedema\
 		* *Usually* due to low oncotic pressure or ↑ capillary permeability
 		* Rarely due to diastolic dysfunction
+		* **Risk ↑ following delivery**
 * D
 	* Cerebral haemorrhage
 	* Cerebral oedema
@@ -354,6 +334,25 @@ Foetal complications of pre-eclampsia include:
 * FDIU
 * Preterm birth
 
+## Prognosis
+
+Significant risk for maternal mortality:
+
+* 4x for pre-eclampsia
+* 40x for eclampsia
+
+
+Morbidity persists even after delivery, with ↑ risk of:
+
+* Death
+* IHD
+* CVA
+* Renal disease
+
+## Key Studies
+
+* MAGPIE
+	* 58% ↓ in eclampsia in treatment group
 
 ---
 
@@ -365,3 +364,4 @@ Foetal complications of pre-eclampsia include:
 4. Dennis AT, Castro JM. Hypertension and haemodynamics in pregnant women - is a unified theory for pre-eclampsia possible? Anaesthesia. 2014;69(11):1183-1189.
 5. New Zealand Committee of RANZCOG, NZCOM. [Guidance regarding the use of low-dose aspirin in the prevention of pre-eclampsia in high-risk women](https://www.ranzcog.edu.au/RANZCOG_SITE/media/RANZCOG-MEDIA/New%20Zealand/Guidance-Aspirin-for-Prevention-of-Pre-eclampsia.pdf). 2018.
 6. Lowe SA, Bowyer L, Lust K, McMahon LP, Morton M, North RA, Paech M. Said JM. [Guideline for the Management of Hypertensive Disorders of Pregnancy](https://www.ranzcog.edu.au/RANZCOG_SITE/media/RANZCOG-MEDIA/Women%27s%20Health/SOMANZ-Hypertension-Pregnancy-Guideline-April-2014.pdf?ext=.pdf). 2014.
+7. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

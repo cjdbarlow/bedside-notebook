@@ -1,0 +1,47 @@
+* C
+	* **Control** of **blood pressure**
+		* Target SBP 140-150mmHg and DBP 90-100mmHg
+		* Strategy depends on severity of hypertension
+			* Hypertensive crisis:
+				* Labetalol
+					* 20-80mg IV over 2 minutes\
+					Can repeat every 10 minutes.
+				* Nifedipine
+					* 10-20mg PO IR
+				* Hydralazine\
+					* 10mg IV Q20 minutes
+				* GTN\
+				For hypertension and APO
+* D
+	* **Seizure prophylaxis**
+		* **Magnesium Sulphate**
+			* **Prophylaxis** and treatment for **eclampsia** in women with **severe pre-eclampsia**\
+			Not recommended for use as an antihypertensive agent.
+			* Multifactorial mechanism of action:
+				* ↑ Prostacyclin synthesis
+				* ↓ Calcium influx\
+				Thereby ↓ ATP-consuming Ca^2+^-dependent processes.
+				* NMDA antagonism
+			* Give **4g over 20 minutes**, and then **1g/hr** thereafter
+			* Target level is **1.7-3.5mmol/L**
+			* Blood levels should be performed:
+				* Q6H in women with renal impairment
+				* If any of:
+					* RR < 12
+					* UO < 100ml over 4 hours
+					* **Loss** of **patella reflexes**
+					* Seizures\
+					Including repeat seizures.
+			* Magnesium toxicity
+				* Associated with muscular weakness, rarely respiratory arrest
+				* Unlikely if deep tendon reflexes present
+				* Treated with:
+					* Calcium
+					* RRT
+		* Anticonvulsants\
+			* Conventional anticonvulsants are only indicated for:
+				* Persistent seizures (>5 minutes) with therapeutic magnesium levels
+				* Magnesium contraindication
+			* Benzodiazepines
+				* Lorazepam 4mg IV
+				* Midazolam 1-2mg IV

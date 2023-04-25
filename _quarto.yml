@@ -717,7 +717,6 @@ book:
               # Pancreatic
         - part: "Gut"
           chapters:
-
             - disease/git/gib.qmd 
             - disease/git/mesenteric_ischaemia.qmd
               # Oesophageal
