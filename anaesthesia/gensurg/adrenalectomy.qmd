@@ -12,25 +12,25 @@
 Removal of the adrenal glands can be performed:
 
 * Open
-	* Transperitoneal  
+	* Transperitoneal\
 	Used for large tumours; provides easy access to both glands. Prone, jacknife.
-	* Flank  
+	* Flank\
 	Subcostal incision, remains extraperitoneal - reduces pain. Supine.
 * Laparoscopic
-	* Anterior  
+	* Anterior\
 	Allows bilateral adrenalectomy. Supine.
-	* Lateral  
+	* Lateral\
 	**Commonest approach**. Lateral decubitus with bed broken.
-	* Retroperitoneal  
+	* Retroperitoneal\
 	Avoids peritoneal cavity. Prone.
 
 
 ## Considerations
 
-* Preoperative diagnosis  
+* Preoperative diagnosis\
 Significantly affects pre-operative management.
 	* Aldosteronoma
-	* [Phaeochromocytoma](/disease/endo/phaeo.md#mx)  
+	* [Phaeochromocytoma](/disease/endo/phaeo.md#mx)\
 	Ensure adequate control of haemodynamic state prior.
 	* Cortisol-producing tumour
 	* Non-functioning lesion
@@ -41,19 +41,19 @@ Significantly affects pre-operative management.
 ## Preparation
 
 * Standard ANZCA monitoring
-* Epidural awake  
+* Epidural awake\
 If being used.
-* Arterial line  
+* Arterial line\
 Femoral preferred for better monitoring of central pressures.
-* CVC  
+* CVC\
 If any possibility of requiring adrenaline/noradrenaline.
-* PAC/TOE  
+* PAC/TOE\
 Consider for phaeochromocytoma with impaired cardiac function.
 
 
 ## Induction
 
-* Gentle IV induction with paralysis  
+* Gentle IV induction with paralysis\
 Consider intubation with 3-5μg/kg fentanyl and 50mg/kg MgSO~4~, followed by MgSO~4~ infusion at 1-2g/hr.
 * Ensure adequate depth prior to stimulation
 
@@ -66,31 +66,31 @@ Consider intubation with 3-5μg/kg fentanyl and 50mg/kg MgSO~4~, followed by MgS
 Control of **hypertension**:
 
 * Ask surgeon to cease manipulating adrenal gland
-* Phentolamine 1-2mg IV, up to 5mg boluses  
+* Phentolamine 1-2mg IV, up to 5mg boluses\
 Reversible non-selective α-antagonist. Short duration of action; may demonstrate tachyphylaxis.
 	* Can be used as a sole agent
-	* Useful to control BP surges  
+	* Useful to control BP surges\
 	Behaviours similar to reverse metaraminol.
 	* Can be used by infusion at 0.5-1mg/min
-* Labetalol 5-20mg IV  
+* Labetalol 5-20mg IV\
 Combined α- & β-antagonist. 
-* SNP 0.5-1.5μg/kg/min, up to 4μg/kg/min  
+* SNP 0.5-1.5μg/kg/min, up to 4μg/kg/min\
 * GTN 0.5-10μg/kg/min
 * MgSO~4~ 1-2g IV
-* Nicardipine  
+* Nicardipine\
 If in America.
 
 Control of **arrhythmia**:
 
-* Esmolol 0.5mg IV, with infusion at 50μg/kg/min    
+* Esmolol 0.5mg IV, with infusion at 50μg/kg/min  \
 For reflex tachycardia.
-* Amiodarone  
+* Amiodarone\
 For ectopy.
 
 
 Control of **hypotension**:
 
-* Occurs in 20-70%  
+* Occurs in 20-70%\
 Particularly post tumour ligation.
 * Stop infusions
 * Fluid load
@@ -103,18 +103,18 @@ Particularly post tumour ligation.
 ### Surgical Stages
 
 * Incision may be excessively stimulating
-* Insufflation may cause hypertension  
+* Insufflation may cause hypertension\
 Tumour compression, altered tumour blood flow, sympathetic response to hypercapnoea.
 * Ensure good control of blood pressure prior to tumour handling
-* Manipulation of the adrenal gland may cause catecholamine release  
+* Manipulation of the adrenal gland may cause catecholamine release\
 **Significant hypertension** and **dysrhythmia** may occur.
-* Following clamping of vein and removal of adrenal gland, significant hypotension occurs  
+* Following clamping of vein and removal of adrenal gland, significant hypotension occurs\
 Anticipate:
 	* Fluid load
 	* Adrenaline infusion for ↓ CO
-	* Vasopressin/noradrenaline if ↓ MAP with normal or ↑ CO  
+	* Vasopressin/noradrenaline if ↓ MAP with normal or ↑ CO\
 	Vasopressin is useful for treating catecholamine-resistant hypotension.
-	* Often **more difficult to manage** than the hypertension prior  
+	* Often **more difficult to manage** than the hypertension prior\
 	Have vasopressors prepared.
 
 ## Emergence
@@ -129,7 +129,7 @@ Key considerations:
 * B
 	* May required post-operative ventilation
 * C
-	* Invasive monitoring  
+	* Invasive monitoring\
 	Require at least 24 hours of HDU monitoring post-operatively.
 	* **Haemodynamic instability**
 		* Risk factors
@@ -137,18 +137,18 @@ Key considerations:
 			* Large tumour size
 			* Large postural drop
 			* Pre-induction MAP >100mmHg
-		* Hypotension  
+		* Hypotension\
 		May have ongoing vasopressor/inotrope requirements.
 		* Hypertension
 			* Acute hypertension usually due to pain, pre-existing essential hypertension, urinary retention, or volume overload
 			* Persistent post-operative hypertension may indicate incomplete resection
 * D
-	* Return to normal insulin sensitivity  
+	* Return to normal insulin sensitivity\
 	Hypoglycaemia can occur from relative insulin excess; monitor Q2H.
 * E~2~
 	* Hypoadrenocorticism
 		* Usually only occurs if bilateral resection
-		* Requires gluco/mineralocorticoid replacement  
+		* Requires gluco/mineralocorticoid replacement\
 		Commence hydrocortisone 100mg Q8H, weaning to 25mg BD over first 72/24 post-op; and then usually conveted to prednisolone.
 
 

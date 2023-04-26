@@ -14,7 +14,7 @@ Include:
 
 * Iodine insufficiency
 * Autoimmune thyroiditis
-	* Hashimoto's Thyroiditis  
+	* Hashimoto's Thyroiditis\
 	Antibodies against peroxidase and thyroglobulin.
 * Treatment of hyperthyroidism
 * Drugs
@@ -35,7 +35,7 @@ Include:
 ## Anaesthetic Considerations
 
 * A
-	* Tracheal compression  
+	* Tracheal compression\
 	Gotires may impinge on trachea and impede airway management.
 * B
 	* Reduced response to ↑ CO~2~ and ↓ O~2~
@@ -50,11 +50,11 @@ Include:
 	* Hypoglycaemia
 	* Sensitive to anaesthetic agents
 * E
-	* Myxoedema coma  
+	* Myxoedema coma\
 	Hypothyroid crisis.
 	* Hypothermia
 * E~2~
-	* Addisons disease  
+	* Addisons disease\
 	Occurs in 5-10% of patients with severe hypothyroidism.
 * F
 	* Hyponatraemia

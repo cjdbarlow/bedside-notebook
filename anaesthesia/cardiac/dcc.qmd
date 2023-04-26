@@ -11,32 +11,32 @@
 
 Restoring sinus rhythm through use of a brief electrical discharge across the heart. May be:
 
-* Emergent  
+* Emergent\
 Broad complex tachyarrhythmia with decompensation:
 	* Shock
 	* Reduced GCS
 	* Angina
 	* Cardiac failure
-* Urgent  
+* Urgent\
 SVT/VT unresponsive to medical therapy.
-* Elective  
+* Elective\
 AF for rhythm control. ⩾90% success but relapse is common.
 
 
 ## Considerations
 
 * A
-	* Airway protection  
+	* Airway protection\
 	May be required if emergent/unfasted.
 * C
-	* Digoxin toxicity  
+	* Digoxin toxicity\
 	Contraindication
-	* Duration of arrhythmia  
+	* Duration of arrhythmia\
 	AF for ⩾48 hours requires TOE exclusion of thrombus.
 	* Optimised for successful cardioversion
 		* Nil digoxin toxicity
 		* Normal electrolytes
-	* Underlying CVS disease  
+	* Underlying CVS disease\
 	May pre-dispose to CVS dysfunction with anaesthesia.
 * E
 	* Fire risk
@@ -55,7 +55,7 @@ AF for rhythm control. ⩾90% success but relapse is common.
 
 > Deep sedation adequate, analgesia rarely required
 
-* Gentle IV induction  
+* Gentle IV induction\
 Consider:
 	* 1-1.5mg/kg propofol given slowly
 	* Alfentanil
@@ -64,7 +64,7 @@ Consider:
 Emergency drugs:
 
 * Atropine
-* Isoprenaline  
+* Isoprenaline\
 Available but not drawn up.
 
 ## Intraoperative
@@ -72,10 +72,10 @@ Available but not drawn up.
 Complications include:
 
 * VF
-* Catecholamine surge  
+* Catecholamine surge\
 May precipitate MI.
 * Asystole
-* Rhabdomyolysis/muscle injury  
+* Rhabdomyolysis/muscle injury\
 Rare.
 
 
@@ -84,17 +84,17 @@ Rare.
 Modifiable factors:
 
 * Equipment
-	* Larger electrode size  
+	* Larger electrode size\
 	↓ impedance.
-	* Skin contact  
+	* Skin contact\
 	Consider salt gels.
-	* Pad position  
+	* Pad position\
 	AP or AL.
-	* Repeated shock  
+	* Repeated shock\
 	Impedance ↓ with subsequent shocks.
 	* Biphasic defibrillation
 * Patient
-	* Respiration  
+	* Respiration\
 	End-expiration reduces thoracic wall impedance.
 	* Electrolytes
 	* TFTs
@@ -103,7 +103,7 @@ Modifiable factors:
 
 Relatively non-modifiable factors:
 
-* Body habitus  
+* Body habitus\
 ↑ BMI ↑ impedance. 
 * Duration of AF
 * Structural heart disease

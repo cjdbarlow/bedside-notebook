@@ -4,12 +4,12 @@ Life-threatening vascular emergency due to tear of the aortic intima, allowing e
 
 The **Standford Classification** divides aortic dissections on their anatomical origin, and determines the management:
 
-* Type A  
+* Type A\
 Originate in the ascending aorta.
 	* Mortality of 1-2% per hour after onset
-* Type B  
+* Type B\
 Originate in the descending aorta, but may propagate proximally.
-	* May be medically managed  
+	* May be medically managed\
 	Control of HR and BP.
 
 :::column-margin
@@ -17,12 +17,12 @@ The DeBakey Classification divides based on anatomical origin and extent, but is
 
 * Type I
 	* Begins in the ascending aorta
-	* Extends past the aortic arch  
+	* Extends past the aortic arch\
 	May extend to the iliacs.
 * Type II
 	* Begins in the ascending aorta
 	* Ends in the ascending aorta
-* Type III  
+* Type III\
 Subdivided into:
 	* IIIa
 		* Begin distal to the L SCA
@@ -44,7 +44,7 @@ Key risk factors:
 	* Smoking
 * Cocaine use
 * Genetics
-* Pregnancy  
+* Pregnancy\
 Generally 3^rd^ trimester or post-partum.
 
 
@@ -55,7 +55,7 @@ Generally 3^rd^ trimester or post-partum.
 May be:
 
 * Degenerative
-* Genetic disease  
+* Genetic disease\
 Diseases of connective tissue:
 	* Marfans Syndrome
 	* Ehlers-Danlos Syndrome
@@ -70,9 +70,9 @@ Diseases of connective tissue:
 
 Presentations include:
 
-* **Chest and back pain**  
+* **Chest and back pain**\
 Rapid onset, severe.
-* May be **painless** in **6%**  
+* May be **painless** in **6%**\
 Generally:
 	* Diabetic
 	* History of AAA

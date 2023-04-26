@@ -12,13 +12,13 @@ Genetic disorder due to trisomy 21, associated with:
 
 Down's syndrome is:
 
-* The most common chromosomal disorder  
+* The most common chromosomal disorder\
 ~1/700 live births.
 
 
 Risk factors:
 
-* Maternal age  
+* Maternal age\
 	* 1/1400 at 25
 	* 1/46 at 45
 * Previously affected child
@@ -29,9 +29,9 @@ Risk factors:
 
 Predominantly due to trisomy 21. Remainder are:
 
-* Chromosomal translocation  
+* Chromosomal translocation\
 ~4% of cases.
-* Mosaic trisomy 21  
+* Mosaic trisomy 21\
 ~1% of cases.
 
 ## Clinical Manifestations
@@ -42,16 +42,16 @@ Predominantly due to trisomy 21. Remainder are:
 
 Characteristic facies:
 
-* Brachycephaly  
+* Brachycephaly\
 Disproportionately wide head.
 * Third fontanelle
 * Flat nasal bridge
-* Epicanthic folds  
+* Epicanthic folds\
 Skin fold covering medial canthus.
 * Upwardly slanting palepbral fissues
 * Small mouth
 * Small ears
-* Single palmar crease  
+* Single palmar crease\
 Occurs in 50%.
 
 * Often low birth weight in infancy, with obesity in adulthood
@@ -65,20 +65,20 @@ Occurs in 50%.
 ### Anaesthetic Considerations
 
 * A
-	* Airway difficulty  
+	* Airway difficulty\
 	Despite the below changes, muscular hypotonia makes laryngoscopy generally straightfoward.
 		* Macroglossia
 		* Micrognathia
 		* Midface hypoplasia
 		* Short neck
 		* Tonsillar hypertrophy
-	* Atlanto-axial instability  
+	* Atlanto-axial instability\
 		* Cord compression symptoms may develop post-operatively in previously asymptomatic individuals
 		* Asymptomatic in 10-20%
 		* Symptomatic in 1.5%
-	* Subglottic stenosis  
+	* Subglottic stenosis\
 	In ~5%. Use smaller ETT than expected for age.
-	* Recurrent RTIs  
+	* Recurrent RTIs\
 	Due to immune deficiency.
 * B
 	* High incidence of post-operatively respiratory complications
@@ -87,13 +87,13 @@ Occurs in 50%.
 		* Impaired immunity
 		* GORD
 		* Hypotonia
-	* OSA  
-		* Due to craniofacial abnormalities  
+	* OSA\
+		* Due to craniofacial abnormalities\
 		* Present in 50-75%
 * C
-	* **Bradycardia** common and significant with anaesthetic agents  
+	* **Bradycardia** common and significant with anaesthetic agents\
 	Have atropine available.
-	* Strong association with congenital heart disease  
+	* Strong association with congenital heart disease\
 	In ~60%.
 		* Common abnormalities
 			* ASD
@@ -102,11 +102,11 @@ Occurs in 50%.
 			* TOF
 		* Pulmonary HTN develops earlier and more severely than non-DS patients
 * D
-	* Intellectual impairment  
+	* Intellectual impairment\
 	Mean IQ ~50 in adulthood.
-	* Agitation  
+	* Agitation\
 	Post-operatively.
-	* Epilepsy  
+	* Epilepsy\
 	In ~10%.
 * E
 	* Generalised hypotonia
@@ -116,7 +116,7 @@ Occurs in 50%.
 	* Prone to polycythaemia
 	* Higher incidence of leukaemias
 * I
-	* Immune dysfunction  
+	* Immune dysfunction\
 	General abnormalities in T cell, B cell, gamma globulins, and neutrophil function.
 
 

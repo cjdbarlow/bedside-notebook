@@ -2,9 +2,9 @@
 
 Fellows should contribute to and support the college in improving safety and quality of patient care. This involves:
 
-* Quality Assurance  
+* Quality Assurance\
 Establishing that facilities meet acceptable standards.
-* Quality Improvement  
+* Quality Improvement\
 Promotion of continuous improvement.
 
 
@@ -48,10 +48,10 @@ Qualitative and quantitative measurements, focusing on:
 
 * Structure
 * Process
-* Outcomes  
+* Outcomes\
 Ultimate objective, but:
 	* May be harder to measure
-	* May be outside of clinician control  
+	* May be outside of clinician control\
 	e.g. Case mix.
 
 
@@ -65,14 +65,14 @@ Should be:
 	* Supported by evidence
 	* Appropriate use of expert advice
 * Collaborative
-* Cost-effective  
+* Cost-effective\
 Time and monetary cost of data collection and analysis should be measured against potential benefit.
 
 ### Conduct of a QA or QI Project
 
 Key steps:
 
-* Planning  
+* Planning\
 Design and preparation, including:
 	* Defining topic
 	* Determining data to be collected

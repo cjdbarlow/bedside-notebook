@@ -1,7 +1,7 @@
 # Amniotic Fluid Embolism
 
 
-> This is an <span style="color:red">**anaesthetic crisis**</span>  
+> This is an <span style="color:red">**anaesthetic crisis**</span>\
 > Priority is to:
 >* **Manage A-B-Cs**
 >* **Prepare for impending DIC**
@@ -9,12 +9,12 @@
 
 Embolism of amniotic fluid and foetal cells into the maternal circulation. May lead to profound shock and death via obstructive and distribute shock, occurring in two phases:
 
-* **Phase 1: Acute Right Heart Dysfunction**  
+* **Phase 1: Acute Right Heart Dysfunction**\
 ↑ PVR and right heart dysfunction due to spasm of the pulmonary artery by biochemical mediators.
 	* Lasts 30-60 minutes
 	* High mortality
 * **Phase 2: DIC and LV failure**
-	* LV failure  
+	* LV failure\
 	LV failure/APO.
 		* May be due to direct pulmonary depression of mediators
 	* Endothelial activation
@@ -27,15 +27,15 @@ Embolism of amniotic fluid and foetal cells into the maternal circulation. May l
 * Airway
 	* Generally early intubation
 * Breathing
-	* May require bronchodilators  
+	* May require bronchodilators\
 	Note uterine tone.
-* Circulation  
+* Circulation\
 Rapid establishment of:
 	* Invasive pressure monitoring
 	* Aggressive filling
 	* Vasopressors
 	* Pulmonary vasodilators
-	* Mechanical support  
+	* Mechanical support\
 	Includes:
 		* CPB
 		* ECMO
@@ -51,11 +51,11 @@ Rapid establishment of:
 Epidemiology of AFE:
 
 * Occurs in ~1:8000-80,000 pregnancies
-* Has high mortality  
-	* Maternal mortality 37-80%  
+* Has high mortality\
+	* Maternal mortality 37-80%\
 	↓ over time as resuscitation has improved, but remains a **leading cause of maternal mortality**.
 	* Foetal mortality ~20%
-* Has high neurological morbidity  
+* Has high neurological morbidity\
 	* Maternal impediment ~7%
 	* Foetal impediment 30-50%
 
@@ -86,15 +86,15 @@ AFE requires:
 	* Uterus unlikely portal of entry during contractions
 	* Likely source is cervical or lower uterine segment tears
 	* Late presentation may occur if fluid is compressed into circulation during movement or uterine involution
-* Embolisation of amniotic fluid into maternal circulation  
+* Embolisation of amniotic fluid into maternal circulation\
 Two broad theories for mechanism of disease (neither of which independently explains findings):
-	* Mechanical  
+	* Mechanical\
 	Obstruction via:
 		* Foetal squamous epithelial cells
 		* Vernix
 		* Mucin
 		* Meconium
-	* Immunological  
+	* Immunological\
 	Release of inflammatory and thrombotic mediators:
 		* Endothelin
 		* Leukotrienes
@@ -107,18 +107,18 @@ Two broad theories for mechanism of disease (neither of which independently expl
 In general:
 
 * Timing can be variable
-	* 65-70% during active labour  
-	* 20% during LUSCS  
-	* 10% following vaginal delivery  
+	* 65-70% during active labour\
+	* 20% during LUSCS\
+	* 10% following vaginal delivery\
 May occur up to 48 hours post-partum.
-* Presentation may be non-specific  
+* Presentation may be non-specific\
 Hypotension and foetal distress are present in **all cases**.
 * Classicaly has a **rapid** and **severe** triad of:
-	* **Hypoxic respiratory failure**  
+	* **Hypoxic respiratory failure**\
 	Pulmonary oedema occurs in ~95%.
-	* **Cardiogenic shock**  
+	* **Cardiogenic shock**\
 	Including cardiac arrest.
-	* **DIC**  
+	* **DIC**\
 	Occurs in basically all cases that survive the immediate cardiogenic shock.
 * Cause of sudden and unexplained maternal collapse
 
@@ -155,28 +155,28 @@ Key differentials include other causes of shock, particularly:
 
 AFE is funamentally a clinical diagnosis. Key supportive investigations:
 
-* FBE/UEC/CMP/ABC  
+* FBE/UEC/CMP/ABC\
 Commonly performed but do not aid management. Thrombocytopaenia is rare initially.
 * Cardiac enzymes
-* Coagulation assay  
+* Coagulation assay\
 Classically low (or entirely **absent**) fibrinogen with prolonged PT and APTT.
-* TEG/ROTEM  
+* TEG/ROTEM\
 For evaluating DIC.
-* Echocardiography  
+* Echocardiography\
 TTE or TOE if available. Key findings:
 	* RV failure
 	* Pulmonary hypertension
 	* Underfilled LV
 	* Intracardiac thrombi/emboli
-* ECG  
+* ECG\
 RV strain, tachycardia, ischaemia.
 * CXR
 
 Investigations that have been used for diagnosis include:
 
-* Maternal PA blood sampling for squamous epithelial cells  
+* Maternal PA blood sampling for squamous epithelial cells\
 Drawn from a wedged PAC.
-* Histological analysis of cervix  
+* Histological analysis of cervix\
 If a hysterectomy has been performed
 * Autopsy
 
@@ -195,20 +195,20 @@ Treatment is **entirely supportive**:
 
 Include:
 
-* ARDS  
+* ARDS\
 Common:
 	* 83% of all patients
 	* 93% of patients with coagulopathy
 	* Rarely may be the sole feature
-* Hysterectomy  
+* Hysterectomy\
 Due to consumptive coagulopathy.
-* Transfusion requirement  
+* Transfusion requirement\
 Due to DIC.
 
 
 ## Prognosis
 
-* High mortality  
+* High mortality\
 Especially in initial periods.
 
 

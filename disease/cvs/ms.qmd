@@ -3,15 +3,15 @@
 
 Mitral stenosis is:
 
-* Narrowing of the mitral valve orifice, leading to a fixed-cardiac output state with a pressure-overloaded (and typically subsequently volume-overloaded) left atrium  
+* Narrowing of the mitral valve orifice, leading to a fixed-cardiac output state with a pressure-overloaded (and typically subsequently volume-overloaded) left atrium\
 Normal area is >4cm^2^.
 
 
 MS is classified:
 
-* Into mild, moderate, or severe  
+* Into mild, moderate, or severe\
 Symptoms typically only present in moderate-severe MS.
-* Based on echocardiographic findings  
+* Based on echocardiographic findings\
 Using either:
 	* Mean pressure gradient over the valve
 	* Pressure half-time
@@ -29,14 +29,14 @@ Using either:
 Important associations:
 
 * Rheumatic fever
-* Pregnancy  
+* Pregnancy\
 Leads to early presentation with symptoms due to ↑ cardiovascular work and circulating volume.
 	* Fixed CO-state leads to ↑ pulmonary hypertension
 	* Cardiac failure typically occurs in third-trimester in patients with moderate-severe disease
 
 ## Pathophysiology
 
-* ↑ pressure gradient across the mitral valve  
+* ↑ pressure gradient across the mitral valve\
 Flow across mitral valve becomes the prime determinant of ventricular filling.
 	* This leads to a **fixed cardiac output** state because:
 		* ↓ afterload does not improve subsequent ventricular filling
@@ -46,10 +46,10 @@ Flow across mitral valve becomes the prime determinant of ventricular filling.
 
 Causes include:
 
-* **MS**  
+* **MS**\
 Most common cause.
 	* Rarer aetiology in developed countries
-	* Typically worsens at the rate of 0.1-0.3cm^2^/year  
+	* Typically worsens at the rate of 0.1-0.3cm^2^/year\
 	More rapid in cases of repeated infection.
 
 
@@ -79,7 +79,7 @@ Medical management consists of managing complications:
 
 Surgical management:
 
-* Percutaneous mitral commissurotomy  
+* Percutaneous mitral commissurotomy\
 Balloon dilation of mitral commissures, ↑ MV area.
 * MV repair
 * MV replacement
@@ -92,9 +92,9 @@ Balloon dilation of mitral commissures, ↑ MV area.
 	* Maintain preload
 		* Volume required due to diastolic dysfunction
 		* Excessive volume will worsen pulmonary oedema
-	* Maintain afterload  
+	* Maintain afterload\
 	As CO is fixed, reduced SVR will ↓ CPP.
-	* Prevent ↑ in PVR  
+	* Prevent ↑ in PVR\
 	Right heart function may be tenuous in the setting of pre-existing PHTN.
 
 ### ICU Considerations
@@ -107,14 +107,14 @@ Following MV repair or replacement:
 
 ## Complications
 
-* AF  
+* AF\
 Due to atrial dilation.
 	* Leads to worsening symptoms due to:
 		* Reduced diastolic time
 		* Reduced atrial kick
-* Pulmonary hypertension  
+* Pulmonary hypertension\
 Due to ↑ LAP.
-* Right heart failure  
+* Right heart failure\
 Due to prolonged period of pulmonary hypertension.
 
 

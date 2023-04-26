@@ -4,7 +4,7 @@
 Climate change has:
 
 * A significant impact on health outcomes
-* Partially resulted from healthcare  
+* Partially resulted from healthcare\
 	* **7%** of **Australian CO~2~ emissions** are from **healthcare**
 	* **5%** of **hospital CO~2~ emissions** are from **anaesthesia**
 
@@ -14,7 +14,7 @@ Climate change has:
 
 Clinical:
 
-* Inhalational anaesthetic agents  
+* Inhalational anaesthetic agents\
 Have significant and sustained environmental impact. Consider:
 	* Avoiding desflurane and nitrous oxide
 	* Use low-flows

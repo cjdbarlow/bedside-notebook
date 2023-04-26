@@ -26,33 +26,33 @@
 
 
 * C
-	* Graft function  
+	* Graft function\
 	**Recent TTE**.
 	* Donor coronary artery disease
 		* **Maintain coronary perfusion pressures**
 	* Denervated
-		* Absence of vagal tone  
+		* Absence of vagal tone\
 		Resting rate typically 90-100bpm.
-		* Significantly impaired autoregulation  
+		* Significantly impaired autoregulation\
 			* No changes to heart rate and contractility with response to:
 				* Laryngoscopy
 				* Visceral traction
-				* Change in blood pressure  
+				* Change in blood pressure\
 			* Lack of autoregulation means changes in SVR lead to direct changes in BP.
-			* **Maintain preload**  
+			* **Maintain preload**\
 			Starling mechanism intact.
-		* Minimal change seen in exercise  
+		* Minimal change seen in exercise\
 		Due to exogenous catecholamines rather than parasympathetic and sympathetic innervation.
 		* Alteration to **pharmacology**:
-			* Anticholinergics (glycopyrrolate, atropine)  
+			* Anticholinergics (glycopyrrolate, atropine)\
 			Ineffective.
-			* Digoxin  
+			* Digoxin\
 			Rate effects are due to alterations of vagal tone, and are therefore ineffective.
-			* Adenosine  
+			* Adenosine\
 			↑ sensitivity; commence at 1mg.
-			* Indirect vasoactives (e.g. ephedrine)  
+			* Indirect vasoactives (e.g. ephedrine)\
 			Ineffective; requires direct vasoactives (e.g. metaraminol).
-	* Rate dependent on donor SA node function  
+	* Rate dependent on donor SA node function\
 	Nodal ischaemia common cause of PPM dependency.
 	* Arrhythmias
 		* Common, especially initially
@@ -62,19 +62,19 @@
 		* Good understanding of their own disease
 		* Familiar with hospital system
 * E
-	* Avoid right IJV cannulation  
+	* Avoid right IJV cannulation\
 	Preferential site for performing cardiac biopsies.
-	* Osteoporosis  
+	* Osteoporosis\
 	Secondary to steroids.
 	* Poor IV access
 * F
-	* CKD  
+	* CKD\
 	Secondary to immunosuppression.
 * I
-	* Rejection  
+	* Rejection\
 	Recent biopsy or indication of **rejection status**.
 	* **CMV status**
-	* Immunosuppression  
+	* Immunosuppression\
 
 
 ### Marginal and Ineffective Therapies
@@ -100,7 +100,7 @@ Donor coronary artery disease:
 * Major long-term complication
 * Atheroma present in 50% of patients at 5 years
 * Major cause of death after 12 months
-* **No angina**  
+* **No angina**\
 Denervated heart - silent ischaemia.
 * Presents with:
 	* Ventricular dysfunction

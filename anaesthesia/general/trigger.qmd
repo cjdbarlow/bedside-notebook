@@ -3,7 +3,7 @@
 
 Anaesthesia without using known triggers for MH, namely:
 
-* Inhalational anaesthetics  
+* Inhalational anaesthetics\
 **Excluding**:
 	* Nitrous oxide
 * Suxamethonium
@@ -26,7 +26,7 @@ Relative:
 		* King-Denborough syndrome
 	* Family history
 	* Geographic location
-* Neuromuscular disease  
+* Neuromuscular disease\
 Associated with hyperkalaemia and rhabdomyolysis, but **not** MH.
 	* Duchenne muscular dystrophy
 	* Becker muscular dystrophy
@@ -37,14 +37,14 @@ Associated with hyperkalaemia and rhabdomyolysis, but **not** MH.
 Consider either:
 
 * Use of a dedicated vapour-free machine
-* Flushing of machine  
+* Flushing of machine\
 Time consuming. Requires:
 	* Remove vapourisers
 	* Attach a fresh:
 		* Circuit
 		* Reservoir bag
 		* Soda lime
-	* Washout machine  
+	* Washout machine\
 	As per manufacturers guidelines, but may be up to 60-90 minutes at 10L/min of 100% oxygen.
 * Use of activated charcoal filters
 	* Change circuit as above

@@ -5,14 +5,14 @@
 The Fontan Circulation is a single-ventricle circulation. In the Fontan:
 
 * Blood flows:
-	* From the SVC/IVC directly to the pulmonary artery  
+	* From the SVC/IVC directly to the pulmonary artery\
 	**Pulmonary flow is passive**.
 	* Pulmonary circulation returns blood to the single, "left"/systemic atrium
 	* Systemic ventricle to systemic circulation
-* The **critical bottleneck** to flow occurs in the **pulmonary circulation**  
+* The **critical bottleneck** to flow occurs in the **pulmonary circulation**\
 Therefore **cardiac output** and ventricular filling are **dependent on pulmonary impedance**, and:
 	* Venous congestion occurs upstream, and is **independent of cardiac output**
-	* **Cardiac function is not the determinant of cardiac output**  
+	* **Cardiac function is not the determinant of cardiac output**\
 	* Circulation is **dependent** on a **low PVR**
 * A fenestration between the IVC and systemic atria
 	* Allows some ventricular filling to occur if PVR ↑
@@ -23,7 +23,7 @@ Therefore **cardiac output** and ventricular filling are **dependent on pulmonar
 
 Treatment strategies must address the critical bottleneck to be effective:
 
-* Reduce venous congestion  
+* Reduce venous congestion\
 Chronically elevated CVP is poorly tolerated.
 	* Complications occur due to ↑ pressures
 	* Filling in excess of what the pulmonary bottleneck can utilise will not augment circulatory parameters
@@ -33,25 +33,25 @@ Chronically elevated CVP is poorly tolerated.
 ### Anaesthetic Considerations
 
 * B
-	* **Low PVR**  
+	* **Low PVR**\
 	Minimisation of TPG is critical to maintain systemic ventricular filling. **Avoid**:
 		* ↑ PCO~2~
 		* ↓ PO~2~
 		* ↓ Temperature
 		* ↓ pH
-	* **Minimise Pip**  
+	* **Minimise Pip**\
 	**High airway pressures** result in **cessation of pulmonary flow**, and ventricular filling is **fenestration dependent**. Therefore:
 		* Negative-pressure ventilation is beneficial to maintain ventricular filling
 		* If positively pressure-ventilating:
 			* Avoid excessive PEEP
-			* **Minimise I time/Prolong E time**  
+			* **Minimise I time/Prolong E time**\
 			As soon as Pip exceeds CVP then there will be no pulmonary flow. Therefore, the **absolute inspiratory pressure** is essentially **irrelevant**, as CVP is usually only mildly elevated and so any inspiratory pressure (however low) will prevent pulmonary flow.
 * C
 	* Arterial line is mandatory
-	* **Adequate preload**  
+	* **Adequate preload**\
 		* Ensure adequately resuscitated pre-operatively
 		* Fill in anticipation of venodilation post-induction
-	* **Optimal filling pressures**  
+	* **Optimal filling pressures**\
 	Other factors affecting filling pressure are important to optimise. Consider:
 		* Valvular function
 		* Ventricular function
@@ -72,20 +72,20 @@ Treatments that don't affect the critical bottleneck:
 
 Although a palliative procedure, outcomes vary widely and quality of life may be high for several decades. Potential complications include:
 
-* Death  
+* Death\
 Usually due to gradual elevation in:
 	* Ventricular filling pressures
 	* PVR
 * Arrhythmia
 * Secondary to intrinsic properties of the circulation
-	* Cardiac failure  
-		* Diastolic dysfunction  
+	* Cardiac failure\
+		* Diastolic dysfunction\
 		Combination of:
 			* Volume overload of the single ventricle, particular during the BDCPC/S stage
 			* Volume *under*load of the single ventricle, after establishment of the Fontan
-		* Systolic dysfunction  
+		* Systolic dysfunction\
 		Pressure overload of the single ventricle in the low-volume, low-compliance post-Fontan stage.
-	* Reduced exercise capacity  
+	* Reduced exercise capacity\
 	Unable to ↑ CO, as pulmonary impedance remains the flow-limiting step.
 	* Cyanosis
 * Secondary to venous congestion

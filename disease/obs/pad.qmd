@@ -3,13 +3,13 @@
 Placental adhesive disorders, or abnormal placental, describes abnormal attachment of the placenta to the uterine wall. PAD:
 
 * Includes placenta:
-	* Accreta  
+	* Accreta\
 	Placental invading through decidua basalis onto the myometrium.
-	* Increta  
+	* Increta\
 	Placenta invading into but not through the myometrium.
-	* Percreta  
+	* Percreta\
 	Placenta invading through uterine serosa, and may attach to extra-uterine organs (e.g., bladder).
-* May cause massive haemorrhage  
+* May cause massive haemorrhage\
 Common cause of post-partum hysterectomy.
 
 ## Epidemiology and Risk Factors
@@ -19,17 +19,17 @@ Occurs in **1 in 500 pregnancies**.
 Major risk factors:
 
 * Placenta praevia
-* Previous caesarian section  
+* Previous caesarian section\
 ↑ Risk:
 	* 0: 2%
 	* 1: 16%
 	* 2: 24%
 	* 3: 30%
-* Placenta praevia AND previous caesarian section  
+* Placenta praevia AND previous caesarian section\
 Multiplicative risk: 40% of women with praevia and three previous caesarians will have placental adhesive disorder.
 * Smoking
 * Uterine trauma
-	* Multiple curettes  
+	* Multiple curettes\
 	Asherman's syndrome describes intrauterine adhesions occuring following uterine surgery.
 
 ## Pathophysiology
@@ -37,7 +37,7 @@ Multiplicative risk: 40% of women with praevia and three previous caesarians wil
 Placenta:
 
 * Invades deep into the uterine wall
-* Does not separate from the uterus as it contracts  
+* Does not separate from the uterus as it contracts\
 Placental vessels remaing wide-open and continue to haemorrhage.
 
 ## Clinical Manifestations
@@ -49,7 +49,7 @@ Diagnosis is difficult, and investigations usualy proceed based on risk factors.
 
 Diagnosis may be made on:
 
-* Ultrasound  
+* Ultrasound\
 	* Second or third trimester
 	* Not reliable
 	* Significant inter-observer differences
@@ -64,11 +64,11 @@ Diagnosis may be made on:
 Antenatal diagnosis facilitates adequate preparation:
 
 * Patient counselling
-	* Liklihood of hysterectomy  
+	* Liklihood of hysterectomy\
 	May include plan for caesarian-hysterectomy.
 * Elective delivery
 	* Tertiary obstetric centre
-		* Personnel availability  
+		* Personnel availability\
 		Senior:
 			* Obstetric
 			* Paediatric
@@ -76,9 +76,9 @@ Antenatal diagnosis facilitates adequate preparation:
 			* Intensive care
 		* Use of cell salvage
 		* Blood bank availability
-	* Ureteric stenting  
+	* Ureteric stenting\
 	If percreta. 
-	* Interventional radiology  
+	* Interventional radiology\
 	For:
 		* Embolisation
 		* Pre-emptive placement of balloon catheters to reduce haemorrhage
@@ -86,21 +86,21 @@ Antenatal diagnosis facilitates adequate preparation:
 
 Surgical management options:
 
-* Caesarian hysterectomy  
+* Caesarian hysterectomy\
 Uterus removed with placenta in-situ.
-* Caesarian with uterine preservation  
+* Caesarian with uterine preservation\
 **One-third** will still require **hysterectomy** due to bleeding, which may be delayed up to 4 week. Four major techniques:
-	* Extirpative technique  
+	* Extirpative technique\
 	Manual removal of placenta.
-	* Expectant management  
+	* Expectant management\
 	Placenta is left in situ.
 		* ↓ risk of massive obstetric haemorrhage and placenta is removed from uterus
 		* Preserves fertility
-		* Placenta will necrose and ideally progressively detach itself  
+		* Placenta will necrose and ideally progressively detach itself\
 		Risk of sepsis or failure (and massive haemorrhage).
-	* Conservative surgery  
+	* Conservative surgery\
 	Placenta accreta area is removed.
-	* Triple-P  
+	* Triple-P\
 	Acceta is resected and then sutured.
 
 
@@ -114,13 +114,13 @@ Uterus removed with placenta in-situ.
 	* Ensure 2x wide-bore IVs
 	* Invasive arterial monitoring
 * D
-	* Anaesthetic technique  
+	* Anaesthetic technique\
 	Either GA or neuraxial can be performed safely. A technique that the provider and system are comfortable with is appropriate.
 		* Primary GA
 			* Attendant risks of GA caesarian
-			* Foetal effects of general anaesthetic agents  
+			* Foetal effects of general anaesthetic agents\
 			Time to delivery often prolonged, and may be over an hour.
-		* Primary neuraxial  
+		* Primary neuraxial\
 			* Planned conversion to GA following delivery is reasonable in the setting of:
 				* Hysterectomy
 				* Massive PPH
@@ -129,7 +129,7 @@ Uterus removed with placenta in-situ.
 * H
 	* Cross-match blood prior
 * O
-	* **Avoid oxytocin**  
+	* **Avoid oxytocin**\
 	Placental separation is to be avoided in many surgical techniques.
 
 ## Complications

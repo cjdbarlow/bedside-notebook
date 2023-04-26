@@ -6,13 +6,13 @@ Blockade of the sensory nerves of C2-4 running between SCM and prevertebral fasc
 
 Three cervical plexus blocks are described, based on site of injection of local anaesthetic:
 
-* Superficial plexus block  
+* Superficial plexus block\
 Anaesthetic superficial to the deep cervical fascia.
 	* Equivalent to deep blockade
 	* Notably no phrenic nerve blockade
-* Intermediate plexus block  
+* Intermediate plexus block\
 Anaesthetic between the deep cervical fascia and the prevertebral fascia.
-* Deep plexus block  
+* Deep plexus block\
 Anaesthetic deep to the prevertebral fascia.
 	* ↑ risk of complications, particularly **phrenic nerve** blockade
 
@@ -31,9 +31,9 @@ Include:
 The cervical plexus is:
 
 * Only occasionally visible on ultrasound.
-* Deep to deep cervical fascia  
+* Deep to deep cervical fascia\
 Facial fascial layer deep to SCM.
-* Anterior to the **prevertebral fascia**  
+* Anterior to the **prevertebral fascia**\
 Fascia overlying the middle and anterior scalene muscles.
 * The nerve roots that supply four terminal sensory nerves of the head and neck:
 	* Greater auricular
@@ -44,7 +44,7 @@ Fascia overlying the middle and anterior scalene muscles.
 ## Equipment
 
 * 22G 4cm needle
-* Local anaesthetic  
+* Local anaesthetic\
 10-20ml of dilute solution (purely sensory nerves; do not require high concentrations):
 	* 0.25-0.5% ropivacaine
 	* 0.25% bupivacaine
@@ -76,7 +76,7 @@ Needle:
 	* Place needle IP through skin as above
 	* Split later between deep cervical and prevertebral fascia with 5ml of LA
 	* Withdraw and fan cranially ~45° and split fascial layers
-	* Withdraw and rotate needle caudally 45° and split facial layers again  
+	* Withdraw and rotate needle caudally 45° and split facial layers again\
 	Goal is to achieve a large pool of LA between the fascial layers, and ensure adequate coverage.
 
 
@@ -89,9 +89,9 @@ Include:
 	* Haematoma
 	* Infection
 * Specific
-	* Phrenic nerve block  
+	* Phrenic nerve block\
 	With deep cervical plexus block.
-	* Spinal anaesthesia  
+	* Spinal anaesthesia\
 	Travel of LA along dural sleeve of plexus nerves; particularly with high volumes and high injection pressures.
 
 ---

@@ -10,7 +10,7 @@ Transtracheal jet ventilation is the delivery of oxygen via a cannula placed in 
 
 ## Indications
 
-* Rescue technique in CICO situation  
+* Rescue technique in CICO situation\
 Intermediate technique prior to definitive surgical airway.
 * Anticipated difficult airway
 	* Provides additional safe apnoea time
@@ -19,22 +19,22 @@ Intermediate technique prior to definitive surgical airway.
 
 ## Contraindications
 
-* Complete upper airway obstruction  
+* Complete upper airway obstruction\
 May lead to barotrauma.
-* Foreign body  
+* Foreign body\
 Relative contraindication.
 	* Foreign body may be expelled into the oropharynx, allowing it to be removed
-	* May also lead to significant barotrauma  
+	* May also lead to significant barotrauma\
 	Lower flow rates (5-7L.min^-1^ should be used with persistent obstruction).
 
 
 ## Physiology
 
-* Oxygenation  
+* Oxygenation\
 High oxygen tensions can rapidly be achieved.
-* Pressure  
+* Pressure\
 Peak airway pressure is a function of flow rate, inspiratory time, and degree of expiratory obstruction. In normal circumstances, peak airway pressures are limited as delivered gas is 'exhaled' via the pharynx.
-* Ventilation  
+* Ventilation\
 Some ventilation is achieved, though typically respiratory acidosis occurs.
 
 ## Ventilation Technique
@@ -44,25 +44,25 @@ Jet ventilation:
 * Provides oxygen via the tracheal route
 * Exhalation occurs via the normal oral route
 	* Airway obstruction may lead to high airway pressures and pneumothorax
-	* Adequate expiratory time must be given  
+	* Adequate expiratory time must be given\
 	Exhalation occurs via the normal oral route, and so adequate time for exhalation must be provided.
 	* Hand ventilation
 	* High-frequency jet ventilation
 * Can be performed using:
-	* Hand ventilation  
+	* Hand ventilation\
 	Intermittent ventilation: **1 second on, 4 seconds off**.
 	* High-frequency jet ventilation
 
 ## Equipment
 
-* Oxygen supply  
+* Oxygen supply\
 15L.min^-1^ at 40-50psi
-* Cannula  
+* Cannula\
 	* 12-14G in adults
 	* 16-18G in children
 * Method for jet ventilation
 	* Jet ventilation Y-piece
-	* MacGuyver Technique  
+	* MacGuyver Technique\
 	A 3-way stopcock can be connected to the cannula and oxygen tubing running at 15 L.min^-1^. Intermitently occluding the third port on the stop-cock facilitates ventilation.
 
 ## Complications
@@ -78,7 +78,7 @@ Jet ventilation:
 		* May occur due to:
 			* Catheter dislodgement
 			* Use of high airway pressures
-	* Cardiovascular instability  
+	* Cardiovascular instability\
 	Impaired RV function due to ↓ preload/↑ afterload.
 * Kinking of catheter
 * Bleeding

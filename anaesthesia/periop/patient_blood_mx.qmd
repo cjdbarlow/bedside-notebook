@@ -3,7 +3,7 @@
 
 Patient Blood Management:
 
-* Aims to reduce unnecessary transfusions  
+* Aims to reduce unnecessary transfusions\
 Transfusion is associated with:
 	* Mortality in both:
 		* Cardiac and non-cardiac surgery
@@ -33,7 +33,7 @@ Anaemia is:
 	* Morbidity
 	* Hospitalisation
 	* ↓ Quality of Life
-* Associated with ↑ transfusion requirements  
+* Associated with ↑ transfusion requirements\
 
 
 ### Epidemiology
@@ -43,7 +43,7 @@ Anaemia in preoperative patients in Australia is:
 * Common
 	* 6% of females
 	* 2% of males
-	* Risk ↑ with age  
+	* Risk ↑ with age\
 	16% of patients over 75.
 * Usually due to iron deficiency
 
@@ -51,21 +51,21 @@ Anaemia in preoperative patients in Australia is:
 
 Assess 4-6 weeks preoperatively:
 
-* FBE  
+* FBE\
 	* Hb
-	* MCV  
+	* MCV\
 	Classies anaemia into:
-		* Microcytic  
+		* Microcytic\
 		MCV ⩽ 80 fl. Major causes are:
 			* Iron deficiency
 			* Congenital haemoglobinopathies
-		* Normocytic  
+		* Normocytic\
 		MCV 80-96 fl. Major causes are:
 			* Anaemia of chronic disease
 			* Pregnancy
 			* Haemolysis
 			* Sickle-cell
-		* Macrocytic  
+		* Macrocytic\
 		MCV ⩾96 fl. Major causes are:
 			* Folate/Vitamin B~12~ deficiecy
 			* Alcohol
@@ -73,12 +73,12 @@ Assess 4-6 weeks preoperatively:
 	* MCHC
 	* RCC
 * Blood film
-* CRP  
+* CRP\
 Performed if ferritin is raised in a microcytic anaemia, to exclude reactive causes.
 * Iron studies
-	* Ferritin  
+	* Ferritin\
 	Assesses degree of iron deficiency.
-		* Only reliable in absence of acute inflammation  
+		* Only reliable in absence of acute inflammation\
 		Ferritin is an acute phase reactant
 		* Normal range will depend on lab assay, but in general:
 			* Severe: ⩽30μg/mL
@@ -94,31 +94,31 @@ Performed if ferritin is raised in a microcytic anaemia, to exclude reactive cau
 Therapeutic options:
 
 * Depend on:
-	* Surgical urgency  
+	* Surgical urgency\
 	Aim to schedule surgery once red cell mass optimised.
 	* Patient availability
 	* Cause of anaemia
 * Include:
-	* Preoperative iron supplementation  
+	* Preoperative iron supplementation\
 	If iron deficient.
 		* Oral
 			* Common
 			* Cheap
 			* Significantly limited by:
-				* Time  
+				* Time\
 				May take ⩾3 months of therapy to be effective, and 6-9 months for equivalent effect of one IV replacement.
-				* Absorption  
+				* Absorption\
 				Highly variable.
 				* Intake
-				* Non-compliance  
+				* Non-compliance\
 				Significant GI side effects.
-			* 80mg elemental iron given every **second day**  
+			* 80mg elemental iron given every **second day**\
 			Daily administration down-regulates hepcidin, and reduces absorption.
-		* IV  
+		* IV\
 		Generally used if ferritin deficiency is severe, or moderate with low transferrin saturation.
 			* Facilitate rapid repletion of stores
 			* Requires local pathway to facilitate
-			* Newer preprations have much lower incidence of anaphylaxis  
+			* Newer preprations have much lower incidence of anaphylaxis\
 			Include iron polymaltose and iron carboxymaltose.
 	* Erythropoiesis
 		* May be useful in patients:
@@ -145,11 +145,11 @@ Intraoperatively involves:
 		* Temperature ⩾35°C
 		* pH ⩾7.2
 		* iCa ⩾1mmol/L
-	* Anaesthetic blood-sparing techniques  
+	* Anaesthetic blood-sparing techniques\
 	Central neuraxial blockade reduces perioperative bleeding, especially in orthopaedics.
-	* TXA  
+	* TXA\
 	If EBL ⩾500mL.
-	* Cell salvage  
+	* Cell salvage\
 	If EBL ⩾1L.
 
 
@@ -167,10 +167,10 @@ Goals are to:
 * Maintain DO~2~
 	* Optimise CO
 	* Optimise oxygenation and ventilation
-	* Use appropriate transfusion thresholds  
+	* Use appropriate transfusion thresholds\
 		* Hb 70g/dL in patients without underlying cardiac disease
 		* Hb 80g/dL in patients with cardiac disease
-		* Transfuse smallest volume possible  
+		* Transfuse smallest volume possible\
 		i.e. Single units, if clinically appropriate.
 * Minimise excess VO~2~
 	* Rapidly treat infections/sepsis

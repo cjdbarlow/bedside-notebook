@@ -43,7 +43,7 @@ Patient forcefully exhales from a vital capacity breath into a peak flow meter:
 
 * Measures peak expiratory flow rate
 * Cheap and easy to perform
-* Used in monitoring course of obstructive disease  
+* Used in monitoring course of obstructive disease\
 Asthma and COAD.
 
 ### Spirometry
@@ -59,40 +59,40 @@ Process:
 * From this, capacities calculated include:
 	* Vital capacity
 	* Inspiratory capacity
-* Forced vital capacity can also be measured  
+* Forced vital capacity can also be measured\
 Tests ability of lungs to act as a bellows ,and is reduced by restrictive disease.
-	* FEV~1~ can be derived  
+	* FEV~1~ can be derived\
 	Indicates how effectively a patient can cough, and is reduced in obstructive disease.
-	* FEV~1~/FVC ratio  
+	* FEV~1~/FVC ratio\
 	Allows differentiation between obstructive and restrictive disease.
 		* Normal is ~80%
-* May be performed before-and-after bronchodilator use  
+* May be performed before-and-after bronchodilator use\
 Assesses reversibility of disease.
 
 
 
 Interpretation:
 
-* Validity  
+* Validity\
 Multiple best-effort measurements should be taken, and FEV~1~ and FVC measurements should be within 0.2L
-* FEV~1~FVC ratio of <70% (adults) or <85% (children) of predicted  
+* FEV~1~FVC ratio of <70% (adults) or <85% (children) of predicted\
 Indicates an **obstructive** defect.
-	* Reversibility demonstrated by >12% ↑ following bronchodilator  
+	* Reversibility demonstrated by >12% ↑ following bronchodilator\
 	Asthma is usually reversible, COPD is not.
 	* Multiple grading systems, the GOLD 2008/NICE 2010 system:
-		* FEV~1~ ⩾80% predicted  
+		* FEV~1~ ⩾80% predicted\
 		Mild.
-		* FEV~1~ 50-79% predicted  
+		* FEV~1~ 50-79% predicted\
 		Moderate.
-		* FEV~1~ 30-49% predicted  
+		* FEV~1~ 30-49% predicted\
 		Severe.
-		* FEV~1~ ⩽30% predicted  
+		* FEV~1~ ⩽30% predicted\
 		Very severe.
-* FVC <80% predicted  
+* FVC <80% predicted\
 Indicates a **restrictive** defect.
 * Presence of both a reduced FVC and reduced FEV~1~/FVC ratio indicates a **mixed defect**
 
-### Total Body Plethysmography  
+### Total Body Plethysmography\
 
 Allows measurement of volumes and capacities that are not measured with spirometry, including:
 
@@ -116,17 +116,17 @@ Measures the diffusion capacity of the lungs for carbon monoxide, which can be u
 		* Helium is minimally absorbed and so can be used to calculate the initial concentration of CO
 		* CO is highly bound by Hb and so the partial pressure in the blood remains low, such that the primary determinant of CO absorption is the diffusing capacity of the lungs
 	* Patient holds breath for 10-20s
-	* First 750mL of gas is discarded  
+	* First 750mL of gas is discarded\
 	To ensure dead space removed.
 	* Subsequent litre is analysed
 	* Residual CO can be used to calculate how much CO has been absorbed
 	* The amount of CO absorbed allows diffusing capacity to be calculated
 * Reduced by:
-	* ↑ thickness  
+	* ↑ thickness\
 	Fibrosis.
-	* ↓ area  
+	* ↓ area\
 	Lung resection, emphysema.
-	* Reduced ability to bind to Hb  
+	* Reduced ability to bind to Hb\
 	Anaemia.
 
 ## Other Tests
@@ -137,7 +137,7 @@ Include:
 * Cardiopulmonary exercise testing
 * 6-minute walk test
 
-### Maximal Breathing Capacity  
+### Maximal Breathing Capacity\
 
 Maximal volume of air that can be breathed when the subject hyperventilates as forcefully as possible:
 

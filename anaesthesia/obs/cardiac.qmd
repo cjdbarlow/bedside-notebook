@@ -7,7 +7,7 @@
 
 Pregnancy is a:
 
-* Significant circulatory burden  
+* Significant circulatory burden\
 Achieving a term pregnancy demonstrates presence of physiological reserve.
 * Time where underlying cardiac disease is diagnosed
 
@@ -15,11 +15,11 @@ Achieving a term pregnancy demonstrates presence of physiological reserve.
 
 Risk stratification can use:
 
-* Risk prediction model  
+* Risk prediction model\
 Provides good general-purpose stratification for patients who may have very individual disease, and a spread of functional stratifications within their lesion.
 	* ZAHARA
 	* CARPREG II
-* WHO Classification  
+* WHO Classification\
 Comprehensive but may be less useful as does not stratify lesions by severity of that individuals pathology.
 
 
@@ -29,7 +29,7 @@ Comprehensive but may be less useful as does not stratify lesions by severity of
 Predictors:
 
 * General
-	* Prior cardiac events  
+	* Prior cardiac events\
 	Includes:
 		* Failure
 		* Stroke/TIA
@@ -99,11 +99,11 @@ Severe (WHO III) risk:
 
 Critical (WHO IV) risk:
 
-* Pregnancy contraindicated  
+* Pregnancy contraindicated\
 Pregnant women who will not consider termination require at least monthly review.
 * Includes:
 	* PAH
-	* Severe LV dysfunction  
+	* Severe LV dysfunction\
 	NYHA III-IV or LVEF <30%.
 	* Previous peripartum cardiomyopathy
 	* Severe MS
@@ -114,11 +114,11 @@ Pregnant women who will not consider termination require at least monthly review
 
 
 
-### Contraindications to Pregnancy  
+### Contraindications to Pregnancy\
 
 Disease of such risk that pregnancy is considered a contraindication include:
 
-* Severe Pulmonary Hypertension  
+* Severe Pulmonary Hypertension\
 Mortality up to 50%.
 * Severe obstructive cardiac disease
 	* HOCM
@@ -134,18 +134,18 @@ Mortality up to 50%.
 
 Key conditions:
 
-* Mitral stenosis is the most common lesion in the pregnant patient  
+* Mitral stenosis is the most common lesion in the pregnant patient\
 Poorer prognosis with decompensated disease, i.e.:
-	* AF  
+	* AF\
 	May precipitate cardiac failure.
 	* Pulmonary hypertension
 	* May be treated with percutaneous commissurotomy 
-* Marfan's syndrome  
-	* Aortic dissection  
+* Marfan's syndrome\
+	* Aortic dissection\
 	Very high risk due to hyperdynamic circulation.
 	* Requires monthly echocardiography
 		* Aortic root dilatation >50mm strongly consider delivery
-	* Vaginal delivery possible if aorta <40mm  
+	* Vaginal delivery possible if aorta <40mm\
 	Risk of straining leading to dissection.
 * Pulmonary Hypertension
 	* Highest risk is in the week following delivery
@@ -154,7 +154,7 @@ Poorer prognosis with decompensated disease, i.e.:
 
 Consequences:
 
-* Neonate  
+* Neonate\
 Complications occur in 20-38% of women with cardiac disease, with key risk factors being:
 	* NYHA >II
 	* Maternal LVOT obstruction
@@ -170,7 +170,7 @@ Assessment aims are to determine level of function:
 
 * Exercise tolerance
 * HR, BP, and SpO~2~
-* Medical therapy  
+* Medical therapy\
 With particular attention to:
 	* Amiodarone
 	* Warfarin
@@ -196,7 +196,7 @@ Preparation:
 * Tertiary centre
 * Adult ICU available
 * Invasive monitoring required
-* Optimise underlying cardiac disease  
+* Optimise underlying cardiac disease\
 Manage the lesion.
 	* Note prognosis is often worse due to the higher CO demand
 * Echocardiography for any pregnant patient with new or changing symptoms
@@ -206,9 +206,9 @@ Manage the lesion.
 Delivery:
 
 * Vaginal delivery preferred in:
-	* Severe hypertension  
+	* Severe hypertension\
 	Aim for a "stress free" labour.
-		* Early epidural is recommended  
+		* Early epidural is recommended\
 		Beware the fixed cardiac-output state.
 * Vaginal delivery **not** preferred in:
 	* Aortic dissection
@@ -225,7 +225,7 @@ Delivery:
 
 * C
 	* Nature of lesion
-		* Shunts  
+		* Shunts\
 		Required SpO~2~ and ETCO~2~.
 		* Air embolisation
 	* Vascular access
@@ -239,14 +239,14 @@ Delivery:
 			* Advantages
 				* Partner in room
 				* Avoids risks of GA
-				* Allows slow titration of anaesthetic  
+				* Allows slow titration of anaesthetic\
 				CSE or epidural.
 				* Better post-operative analgesia
 				* Reduced blood loss
 				* Reduced PONV
 			* Disadvantages
 				* Anticoagulation
-				* Maternal anxiety  
+				* Maternal anxiety\
 				Subsequent CVS effects.
 				* Complications of regional
 				* Cannot give 100% oxygen
@@ -258,7 +258,7 @@ Delivery:
 				* Facilitate DCR
 			* Disadvantages
 				* Airway and ventilation risks
-				* Haemodynamic perturbation  
+				* Haemodynamic perturbation\
 				Especially at intubation and extubation.
 				* Effect of anaesthetic agents
 					* Negative inotropy
@@ -269,10 +269,10 @@ Delivery:
 				* Greater blood loss
 				* Poorer post-operative analgesia, PONV
 * I
-	* Endocarditis prophylaxis  
+	* Endocarditis prophylaxis\
 	Required in the setting of:
 		* Unrepaired cyanotic CHD
-		* Repaired CHD with prosthesis  
+		* Repaired CHD with prosthesis\
 		In first 6 months.
 		* Repaired CHD with residual defects	
 
@@ -284,7 +284,7 @@ Consequences of cardiac disease in pregnancy include:
 * Maternal
 	* **Arrhythmias**
 	* **Heart failure**
-	* Embolism  
+	* Embolism\
 	* CVA
 	* Death
 * Foetal

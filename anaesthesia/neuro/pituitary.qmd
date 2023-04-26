@@ -17,7 +17,7 @@ Intro and technique
 * A
 	* Oral RAE/Reinforced tube
 * B
-	* **No HFNP** or **CPAP post-operatively**  
+	* **No HFNP** or **CPAP post-operatively**\
 	Difficult in OSA patients.
 		* Extubate light
 		* Consider remifentanil TIVA
@@ -25,20 +25,20 @@ Intro and technique
 	* Arterial line
 	* HTN on nasal preparation
 * D
-	* MRI  
+	* MRI\
 	Sizing.
 * E
-	* Tumour function  
+	* Tumour function\
 	Tumour can be **functional** or **non-functional**.
-		* Functional  
+		* Functional\
 		Present with symptoms from hypersecretion.
-		* Non-functional  
+		* Non-functional\
 		Present with compression symptoms.
-			* Bitemporal hemianopia  
+			* Bitemporal hemianopia\
 			Optic chiasm compression.
 	* Hormonal screen
 * F
-	* Diabetes Insipidus  
+	* Diabetes Insipidus\
 	10-60% of cases occur almost immediately.
 
 ## Preoperative
@@ -79,7 +79,7 @@ Surgical complications:
 * Hydrocephalus
 * Bleeding
 * Visual problems
-	* Direct damage  
+	* Direct damage\
 	3.3%.
 
 
@@ -89,7 +89,7 @@ Hormonal complications:
 * Posterior pituitary dysfunction is more common due to oedema
 * Hormonal screen performed 2-3 days
 * DI
-	* ~15%  
+	* ~15%\
 	Bulk of cases develop immediately.
 	* Usually transient
 * SIADH

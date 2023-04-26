@@ -23,13 +23,13 @@ Anaesthesia and akinesia of the globe for:
 
 Should be avoided when:
 
-* Axial length is **>26mm**  
+* Axial length is **>26mm**\
 ↑ risk of globe perforation, particularly due to risk of posterior staphylomas.
 * Severe coagulopathy
 * Perforated globe
 * Infected eye
 * Inability to lie flat
-* Staphyloma  
+* Staphyloma\
 ↑ risk of globe perforation.
 
 ## Anatomy
@@ -41,25 +41,25 @@ Should be avoided when:
 ## Equipment
 
 * Gauze
-* Antiseptic  
+* Antiseptic\
 Typically 50% saline with 50% aqueous betadine
 * Topical local anaesthetic drops
-* Mix LA solution  
+* Mix LA solution\
 Many different options exist.
 	* Lignocaine/Ropivacaine
 		* Take 40mls of 1%% ropivacaine, 10ml 10% lignocaine, and 1500 units of hyaluronidase
 		* Into a 50ml syringe, draw up the local anaesthetics and mix in the hylauronidase
-		* This gives a combination of 0.8% ropivacaine, 2% lignocaine, and 30U/ml hyaluronidase  
+		* This gives a combination of 0.8% ropivacaine, 2% lignocaine, and 30U/ml hyaluronidase\
 		Hyaluronidase concentrations of 30U/ml or greater are associated with periorbital cellulitis.
-	* Ropivacaine alone  
+	* Ropivacaine alone\
 	0.75-1% ropivacaine with 75-150 U/ml hyaluronidase.
 
 	
-* A needle  
+* A needle\
 Typically 23-27G.
-* A syringe  
+* A syringe\
 Typically 10ml.
-* Minimum volume extension  
+* Minimum volume extension\
 Removes weight of syringe from needle improving manual dexterity.
 
 
@@ -69,31 +69,31 @@ Removes weight of syringe from needle improving manual dexterity.
 
 *Assumes monitoring, IV access, time-out, topical local anaesthetic drops, and conscious sedation have been performed, as discussed [here](/anaesthesia/opthal/opthal-la.md#id).*
 
-* Apply antiseptic  
+* Apply antiseptic\
 Ensure there is some antiseptic under the lower lid and in the conjunctival sac.
 * Ask the patient to look directly ahead
 * Perform block:
-	* Palpate **medial two-thirds** and **lateral one-third** of the inferior rim of the orbit  
+	* Palpate **medial two-thirds** and **lateral one-third** of the inferior rim of the orbit\
 	This should be lateral to the limbus, to avoid damaging the fragile extra-ocular muscles.
-	* Using a 23-27G needle, advance **directly backwards**  
+	* Using a 23-27G needle, advance **directly backwards**\
 	Parallel to orbital floor.
 	**Limit insertion depth to 25mm**.
 		* Avoid displacing the globe with a finger - this may cause globe rotation and the posterior part to move into the path of the needle
 		* Bevel should be orientated supero-medially
 		* If contacting bone, redirect slightly superiorly
-		* If the globe rotates, this suggests scleral contact  
+		* If the globe rotates, this suggests scleral contact\
 		Ensure patient can **move eye freely** once in at desired depth.
 		* *Slight* superior and medial angulation can be performed once past the equator of the globe
 	* Aspirate, then inject 4-10ml of LA
 		* Cease injection if the globe becomes tense
 * Use digital pressure or a Honan balloon to compress the globe, reducing LA volume and therefore IOP
-* Assess for block efficacy  
+* Assess for block efficacy\
 Assess:
-	* Eye opening  
+	* Eye opening\
 	Levator block is usually a good indication of block efficacy.
 	* Eye movements
-	* Eye closing  
-	* Vision  
+	* Eye closing\
+	* Vision\
 	Difficult to interpret; normal findings include:
 		* Normal vision
 		* Grayscale vision
@@ -109,36 +109,36 @@ Assess:
 
 Minor complications:
 
-* Chemosis  
+* Chemosis\
 Subconjunctival swelling. Transient.
-* Venous haemorrhage  
+* Venous haemorrhage\
 Cosmetic but rarely significant.
-* Arterial haemorrhage  
+* Arterial haemorrhage\
 May be dramatic, leading to rise in IOP. Usually requires postponing OT, but may require canthotomy.
 
 
 Major complications:
 
-* Globe perforation  
+* Globe perforation\
 Due to direct trauma.
 	* ↑ risk with myopia, repeated injections
-	* Presents with ocular pain, intraocular haemorrhage, restlessness  
+	* Presents with ocular pain, intraocular haemorrhage, restlessness\
 	May not be immediately obvious.
-* Retrobulbar haemorrhage  
+* Retrobulbar haemorrhage\
 Due to direct trauma.
-	* Presents with bruising, propotosis, and pain  
+	* Presents with bruising, propotosis, and pain\
 	Inadequate retinal artery flow may require a lateral canthotomy to relieve IOP and prevent loss of vision.
 	* May be subtle, occasionally presents as rapid orbital swelling and proptosis. 
-* Optic nerve damage  
+* Optic nerve damage\
 Due to direct injury or vascular occlusion.
 	* Presents with visual loss
-* Intraarterial injection  
+* Intraarterial injection\
 Flow down the ICA may result in the dose of LA being delivered directly to midbrain structures.
 	* May present with seizure or CVS toxicity
-* Brainstem anaesthesia  
+* Brainstem anaesthesia\
 Due to needle passing through the nerve sheath, resulting in subarachnoid deposition of LA.
 	* May present with a broad array of symptoms, including respiratory or CVS arrest, agitation, ptosis, dysphagia, confusion
-* Oculocardic reflex  
+* Oculocardic reflex\
 Due to raised intraocular pressure.
 	* Presents with bradycardia, which may be profound.
 

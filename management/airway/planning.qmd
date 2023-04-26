@@ -15,11 +15,11 @@ Oxygen can be delivered by:
 	* Apnoeic absorption
 * The chosen airway management technique will depend on the patients anatomy and physiological state, the situation, and the indication
 * Secondary goals include:
-	* Airway protection  
+	* Airway protection\
 	From aspiration.
-	* Airway security  
+	* Airway security\
 	From dislodgement or obstruction.
-	* Ventilation  
+	* Ventilation\
 	For acidosis.
 	* Control of airway pressures
 	* Control of respiratory timing
@@ -44,19 +44,19 @@ The hierarchy of intubation needs:
 * CICO occurs in ~1/50,000 elective anaesthetics
 	* CICO is low compared to incidence of difficult intubation
 * CICO contributes 25% of anaesthesia-related mortality
-* Requirement for emergency FONA ↑ morbidity 15x  
+* Requirement for emergency FONA ↑ morbidity 15x\
 	* ~25% permanent harm or death
 * In 2/3^rds^ of CICO situations, a surgical airway was performed too late to prevent harm
 
 
 ## Factors Contributing to Adverse Airway Events
 
-* Human factors  
+* Human factors\
 Human failures occur in ~80% of airway events.
 	* Delayed decision to declare failed airway
 	* Delay in decision to perform cricothyrotomy
 	* Equipment knowledge
-	* Training  
+	* Training\
 	Especially in surgical airway and rescue techniques.
 	* Poor communication
 	* Poor teamwork
@@ -74,7 +74,7 @@ Important technical factors include:
 	* Efficacy of SAD rescue is reduced with more attempts
 * Equipment and technique
 	* Selection of laryngoscopes, and experience in their use
-	* Bougie  
+	* Bougie\
 	Pre-shaped.
 	* ELM
 	* Remove cricoid pressure if view is poor
@@ -94,61 +94,61 @@ There are many frameworks for airway management. This one aims to:
 :::
 
 1. **Plan**
-	* Evaluate what techniques are available  
+	* Evaluate what techniques are available\
 	Based on the equipment, the patient, and technical skills. Think **ACORNS**: 
 		* **A**wake
 			* Waking the patient
 			* Awake laryngoscopy
-			* Awake FOI  
+			* Awake FOI\
 			Is there laryngeal or tracheal pathology?
 		* **C**ricoid/FONA
 			* Scalpel cricothyrotomy
 			* Needle cricothyrotomy
 		* **Or**al
 			* Mask ventilation
-			* Intubation  
+			* Intubation\
 			With and without VL.
-		* **N**asal  
+		* **N**asal\
 		Is the oral route impossible?
-			* Intubation  
+			* Intubation\
 			Including blind.
 		* **S**upraglotic
 			* Use of LMA
 			* Use of iLMA
 	* For *this* patient, **consider which techniques are**:
-		* **Preferred**  
+		* **Preferred**\
 		Depending on the indication for airway management. In most critical care situations (compared to elective anaesthesia), this will be a definitive oral airway.
-		* **Feasible**  
+		* **Feasible**\
 		Could be used to maintain oxygenation +/- ventilation, but may not necessarily be definitive.
-		* **Unfeasible**  
+		* **Unfeasible**\
 		Certain techniques may not be appropriate in certain patients.
-	* Of this short-list of options, decide on a **hierarchy of techniques**  
+	* Of this short-list of options, decide on a **hierarchy of techniques**\
 	**Plan for failure** and have a series of **identified rescue techniques**, including a plan for:
-		* Rescue ventilation  
+		* Rescue ventilation\
 		Alternate device, e.g. LMA, iLMA.
-		* Rescue intubation  
+		* Rescue intubation\
 		Alternate device.
 	* Consider **which drugs** will be required for these techniques
 
 
-2. **Patient**  
+2. **Patient**\
 Adequate patient preparation prior to induction reduces incidence of difficult tracheal intubation. Think **PROC**:
 
-* **Positioning**  
+* **Positioning**\
 	* Ensure EAM is level with sternal notch to maximise ease of intubation
 	* Ramping ↑ FRC in the obese patient
-* **Recruitment**  
+* **Recruitment**\
 Use of CPAP during preoxygenation prolongs safe apnoea time in obese patients.
-* **Oxygenate**  
+* **Oxygenate**\
 Involves adequate denitrogenation, and consideration of apnoeic oxygenation.
-	* **Preoxygenation**/denitrogenation  
+	* **Preoxygenation**/denitrogenation\
 	EtO~2~ > 80% indicates a good proportion of FRC is oxygen, significantly prolonging safe apnoea times from 1-2 minutes up to 8 minutes.
-		* Note that reduced FRC (e.g. atelectasis) will lead to shunt and rapid drop in SpO~2~ despite a high ETO~2~ fraction  
+		* Note that reduced FRC (e.g. atelectasis) will lead to shunt and rapid drop in SpO~2~ despite a high ETO~2~ fraction\
 		Significant shunt will result in an SpO~2~ of < 100% despite adequate ETO~2~.
 		* This can only be achieved when breathing oxygen through a closed-circuit system
-	* **Apnoeic oxygenation**  
+	* **Apnoeic oxygenation**\
 	Delivery of oxygen via nasal cannula during the apnoeic period. This technique:
-		* Requires a patent airway  
+		* Requires a patent airway\
 		May not help during the apnoeic period when airway tone is reduced.
 		* May be performed with:
 			* Standard nasal cannula from wall oxygen at 15L.min^-1^
@@ -159,7 +159,7 @@ Involves adequate denitrogenation, and consideration of apnoeic oxygenation.
 
 
 3. **Perform**
-	* Complete pre-airway management checklist  
+	* Complete pre-airway management checklist\
 	During pre-oxygenation periods.
 	* Begin!
 
@@ -168,7 +168,7 @@ Involves adequate denitrogenation, and consideration of apnoeic oxygenation.
 
 A good mental checklist should be:
 
-* Easy to remember  
+* Easy to remember\
 Allows it to be used as a 'challenge-confirm' checklist - i.e. the steps can be performed by multiple providers simultaneously and then the checklist is used to verify tasks have been completed
 * Appropriate to be used by a single provider as a 'call-do-response' checklist when working with an unfamiliar team
 
@@ -188,9 +188,9 @@ In optimal position for this particular technique.
 Available and working.
 * **Equipment**\
 The kit needed for the chosen techniques.
-	* BVM  
+	* BVM\
 	With mask and PEEP valve.
-	* Airway adjuncts  
+	* Airway adjuncts\
 	NPA and OPA available.
 	* Laryngoscope
 		* Two working laryngoscopes
@@ -205,22 +205,22 @@ The kit needed for the chosen techniques.
 		* At least two, including a smaller one
 		* If concerned about upper airway pathology/burns, have a **size 6 available**
 	* Adjuncts to ETT
-		* **Bougie**  
+		* **Bougie**\
 		Must always be available.
 		* Stylet
-		* Syringe  
+		* Syringe\
 		For cuff inflation.
 * **Drugs**\
 Including desired dose.
-	* Induction agents  
-	* Muscle relaxant  
+	* Induction agents\
+	* Muscle relaxant\
 	If concerned, always use **adequate doses** of a **rapid-onset** NMBD.
 	* Opioid
 	* Vasopressors
 * **Backup plan**\
 Double check the availability of backup equipment, including FONA equipment.
 * **Oxygen**
-	* Supply present **and connected**  
+	* Supply present **and connected**\
 	Ensure that the oxygen tubing attached to the flowmeter is also attached to the patient.
 	* Adequate pre-oxygenation/denitrogenation period
 	* Use of PEEP for lung recruitment prior to induction
@@ -231,7 +231,7 @@ Double check the availability of backup equipment, including FONA equipment.
 * **Briefing**
 	* Allocate roles
 	* Detail airway plan A, B, etc
-	* Declare at what points the airway management strategy will change  
+	* Declare at what points the airway management strategy will change\
 	e.g. "If the SpO~2~ falls to less than 93%, I will cease intubation attempts and return to BVM. If unable to mask ventilate, I will place an LMA."
 	
 

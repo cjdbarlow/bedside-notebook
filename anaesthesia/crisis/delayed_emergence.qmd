@@ -1,37 +1,37 @@
 # Delayed Emergence
 
 
-> This is an <span style="color:red">**anaesthetic crisis**</span>  
+> This is an <span style="color:red">**anaesthetic crisis**</span>\
 > Priority is to:
 >* **Rapidly identify and reverse immediately treatble causes**
 
 
 #####<span style="color:red">Immediate Management</span>
 
-* Scan monitors  
+* Scan monitors\
 ECG, BP, ETCO~2~, SpO~2~, temperature.
-* Confirm all anaesthetic agents are ceased  
+* Confirm all anaesthetic agents are ceased\
 Inhalational & intravenous.
-* Apply nerve stimulator & evaluate for residual paralysis  
+* Apply nerve stimulator & evaluate for residual paralysis\
 Reverse as required:
 
-* Check BSL  
+* Check BSL\
 25-50ml of 50% dextrose if BSL ⩽3mmol/L (or higher, if the patient has poorly controlled DM).
 * Apply processed EEG
 * Check syringes and ampoules for drug error
 * Consider:
-	* Narcotic reversal  
+	* Narcotic reversal\
 	Naloxone 40μg IV Q2 minutes.
-	* Benzodiazepine reversal  
+	* Benzodiazepine reversal\
 	Flumazenil 0.2-1mg IV Q1 minutes.
-	* Inhalational reversal  
+	* Inhalational reversal\
 	Physostigmine 0.5-1mg IV.
-	* Anticholinergic reversal  
+	* Anticholinergic reversal\
 	Physostigmine 0.5-1mg IV.
 * Check ABG
 	* Electrolytes
 	* CO~2~
-* Check temperature  
+* Check temperature\
 Actively warm if ⩽34°C.
 
 
@@ -47,7 +47,7 @@ Failure to wake from anaesthesia requires a broad differential:
 		* Hypnotics
 		* Paralytics
 			* Suxamethonium apnoea
-		* Anticholinergics  
+		* Anticholinergics\
 		Central anticholinergic syndrome.
 		* Local anaesthetic
 	* Other drugs
@@ -96,7 +96,7 @@ Additional bloods:
 
 Imaging:
 
-* CTB  
+* CTB\
 Consider repeating at 6-8 hours if no improvement in ICU.
 * MRI
 
@@ -111,7 +111,7 @@ Examination and consider further investigations:
 		* Pupil
 		* Gag/cough
 		* Focal signs
-	* Cardiovascular  
+	* Cardiovascular\
 	Adequacy of perfusion.
 * Investigations
 

@@ -11,7 +11,7 @@ General anaesthesia is potentially neurotoxic at both extremes of age. These eff
 
 * May be neurotoxic and neuroplastic
 * Alter cognition via neuromodulation
-* Concerns many parents  
+* Concerns many parents\
 Particularly the association with memory deficits and abnormal behaviours.
 
 ## Pathophysiology
@@ -27,9 +27,9 @@ The developing brain:
 
 Anaesthetic agents affect several aspects of brain development, including:
 
-* Inducing neuro-apoptosis  
+* Inducing neuro-apoptosis\
 	* Critical factors
-		* Stage of brain development at time of exposure  
+		* Stage of brain development at time of exposure\
 		Different brain regions develop at different points.
 		* Degree of exposure
 	* Secondary factors
@@ -37,7 +37,7 @@ Anaesthetic agents affect several aspects of brain development, including:
 		* Health status
 		* Surgical procedure
 * Reduced neurogenesis
-	* Associated with oxidative stress  
+	* Associated with oxidative stress\
 
 Effect of anaesthetic agents is difficult to separate from (and may be worsened by)associated factors, including:
 
@@ -56,7 +56,7 @@ Effect of anaesthetic agents is difficult to separate from (and may be worsened 
 * Dose response relationship appears to exist
 	* Light surgical plains of anaesthesia were less affected
 	* Shorter duration of anaesthesia does not show the same effect
-* Age-related outcome  
+* Age-related outcome\
 Apoptosis is 2.2x greater in monkey foetus as compared to 120 day old monkey.
 
 
@@ -65,11 +65,11 @@ Apoptosis is 2.2x greater in monkey foetus as compared to 120 day old monkey.
 * Retrospective cohort studies
 	* Wide variety of ages and agents
 	* Mostly unable to determine duration of anaesthesia
-* Conflicting data  
+* Conflicting data\
 However, some dramatic results; e.g. one observational study suggested before the age of 4:
-	* 2 Anaesthetics  
+	* 2 Anaesthetics\
 	1.6x more likely to have learning disability.
-	* >3 Anaesthetics  
+	* >3 Anaesthetics\
 	2.6x more likely to have a learning disability.
 	* Note that the **magnitude of the risk was small**: ~1% difference in school grades
 * Lots of confounders
@@ -97,7 +97,7 @@ GAS trial:
 * International, multicentre RCT
 * 722 children
 * Awake regional vs. sevoflurane for inguinal hernia repair
-* No difference in development at 2 years of age  
+* No difference in development at 2 years of age\
 Bayley Scale of Infant and Toddler Development III.
 * No difference in 
 

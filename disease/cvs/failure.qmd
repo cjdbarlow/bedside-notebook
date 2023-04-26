@@ -17,7 +17,7 @@ Classifications include both functional scores (NYHA) or disease progression (AC
 
 ## Epidemiology and Risk Factors
 
-* Prevalence of chronic heart failure is ~2%  
+* Prevalence of chronic heart failure is ~2%\
 	* < 2% in < 60 year-olds
 	* > 10% in > 75 year-olds 
 * Lifetime risk of disease is ~20%
@@ -60,52 +60,52 @@ Precipitating causes:
 
 ## Clinical Manifestations
 
-* Dyspnoea  
+* Dyspnoea\
 	* Pulmonary oedema/Crepitations\
 	Pulmonary congestion due to raised LAP. Moderately sensitive but poorly specific.
 	* Pleural effusion\
 	Fluid retention and elevated LAP/RAP. Classically bilateral, due to pulmonary congestion.
 
-* Orthopnoea  
+* Orthopnoea\
 ↑ VR and pulmonary congestion in supine position.
 	* More specific than dyspnoea, but insensitive
-* PND  
+* PND\
 As orthopnoea, but with additional respiratory depression.
 
 
-* Palpitations  
+* Palpitations\
 Tachyarrythmias and reduced exercise tolerance.
 
 
 
-* Hepatomegaly  
+* Hepatomegaly\
 ↑ RAP.
-* Hepatojugular reflex  
+* Hepatojugular reflex\
 ↑ RAP.
-* Ascites  
+* Ascites\
 Fluid retention.
-* Cachexia  
+* Cachexia\
 Intestinal congestion, chronic inflammatory pathway activation.
-* Early satiety  
+* Early satiety\
 Fluid retention.
-* Anorexia  
+* Anorexia\
 Fluid retention.
 
-* Fatigue  
+* Fatigue\
 Reduced skeletal muscle perfusion.
 
 
 Examination:
 
-* Oedema  
+* Oedema\
 Fluid retention and elevated filling pressures.
 	* Insensitive\
 	Many elderly patients have oedema due to immobility.
-* Elevated JVP  
+* Elevated JVP\
 ↑ RAP.
-* Displaced apex beat  
+* Displaced apex beat\
 LV dilatation.
-* Crepitations  
+* Crepitations\
 Highly specific.
 
 
@@ -207,7 +207,7 @@ Correct:
 
 Atrial Fibrillation:
 
-* Present in ~30% of patients  
+* Present in ~30% of patients\
 May be either a cause or consequence.
 
 
@@ -215,7 +215,7 @@ Malignant arrhythmias:
 
 * ↑ risk with:
 	* Ischaemia
-	* Electrolyte abnormalities  
+	* Electrolyte abnormalities\
 	Hypo/hyperkalaemia, hypomagnesaemia.
 * Psychotropic drugs
 * Digoxin

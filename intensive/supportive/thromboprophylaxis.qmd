@@ -25,12 +25,12 @@ Approach:
 		* ⩽120kg: 5000 IU SC BD
 		* >120kg: 5000 IU SC TDS
 * **Mechanical**
-	* Intermittent **pneumatic calf compression**  
+	* Intermittent **pneumatic calf compression**\
 	May reduce incidence by up to 60% in operative patients.
 		* Treatment of choice where bleeding risk is high
 	* IVC filters
 		* No evidence for mortality reduction
-		* ↑ risk of DVT  
+		* ↑ risk of DVT\
 		Should be retrieved when no longer required, so retrievable designs should be used.
 		* Reasonable to use in patients with:
 			* High VTE risk and contraindications to anticoagulation

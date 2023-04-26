@@ -19,21 +19,21 @@ Intra- and post-operative analgesia up to the umbilicus.
 
 Relative:
 
-* Abnormal sacral anatomy  
+* Abnormal sacral anatomy\
 Pigmentation, dimples, and hair may be associated with spina bifida or a tethered cord - normal neuroanatomy should be confirmed prior.
-* Significance of motor weakness  
+* Significance of motor weakness\
 Often not done once mobilising or too big for a pram/stroller.
 
 ## Anatomy
 
 Predominantly a landmark technique. Identify:
 
-* Coccyx  
+* Coccyx\
 Identifies midline.
 * Posterior sacroiliac joints
-* Sacral cornuae  
+* Sacral cornuae\
 Tubercles of the inferior articular processes.
-	* Palpate cranial-caudal to identify the location of the ligament  
+	* Palpate cranial-caudal to identify the location of the ligament\
 	This should be located midline, at the point forming an **equilateral triangle with each SI joint**.
 
 ## Equipment
@@ -41,9 +41,9 @@ Tubercles of the inferior articular processes.
 * Sterile preparation
 * Syringe
 * Needle
-	* 25G to 23G needle  
+	* 25G to 23G needle\
 	Finer needles associated with IV or SAH injection.
-* Cannula  
+* Cannula\
 Good alternative to needle.
 	* Reduced incidence of dural puncture
 	* Less likely to migrate during injection
@@ -56,16 +56,16 @@ Drug prepration::
 
 * Local anaesthetic
 	* 0.25% levobupivacaine
-	* 0.2% ropivacaine  
+	* 0.2% ropivacaine\
 	Less motor block than levobupivacaine.
 * Additives
-	* Clonidine 1.5μg/ml  
+	* Clonidine 1.5μg/ml\
 	Prolongs caudal analgesia.
 * Total injectate volume determines block height:
 	* Sacral: 0.5ml/kg
-	* Lower thoracic: 1ml/kg  
+	* Lower thoracic: 1ml/kg\
 	Common dose used.
-	* Upper thoracic: 1.25ml/kg  
+	* Upper thoracic: 1.25ml/kg\
 	May have significant cephalad spread.
 
 ## Technique
@@ -100,10 +100,10 @@ With a cannula, this time can be used to draw up solution.
 
 ## Complications
 
-* Failure  
+* Failure\
 ~10%.
 * Urinary retention
-* Motor block  
+* Motor block\
 Common and significant in older children.
 * Inadvertent dural puncture
 * Systemic LA toxicity

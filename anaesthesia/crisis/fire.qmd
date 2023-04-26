@@ -1,7 +1,7 @@
 # Airway Fire
 
 
-> This is an <span style="color:red">**anaesthetic crisis**</span>  
+> This is an <span style="color:red">**anaesthetic crisis**</span>\
 > Priority is to:
 >* **Extinguish fire**
 >* **Remove oxygen source**
@@ -13,7 +13,7 @@ Immediately:
 * Call for help
 * **Remove ETT**
 * **Stop oxygen** flow
-* **Irrigate airway**  
+* **Irrigate airway**\
 Saline or water.
 * Remove any foreign body
 	* ETT fragments
@@ -22,7 +22,7 @@ Saline or water.
 
 Once fire extinguished:
 
-* Reintubate  
+* Reintubate\
 Swelling will begin to occlude airway.
 * Bronchoscopy
 	* Remove debris
@@ -36,21 +36,21 @@ Swelling will begin to occlude airway.
 
 For high risk procedures:
 
-* Discuss prevention and management plan  
+* Discuss prevention and management plan\
 Advised by local policy.
 * **Avoid**:
 	* Oxidisers:
 		* Keep FiO~2~ < 0.3
 		* Avoid N~2~O
 	* Alcohol based antisetpics
-	* Diathermy  
+	* Diathermy\
 	Bipolar preferable to unipolar.
 
 
 For laser surgery in airway:
 
 * Use laser-resistant ETT
-* Fill proximal cuff with methylene blue  
+* Fill proximal cuff with methylene blue\
 Will provide early warning in case of cuff damage.
 * Place wet gauze around ETT cuff
 * Avoid oxidisers:

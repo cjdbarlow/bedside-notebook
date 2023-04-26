@@ -12,19 +12,19 @@ Perioperative respiratory complications:
 
 Patient factors:
 
-* Age  
+* Age\
 ↑ in prematurity, and ↓ by ~11% per year of age.
 * ↑ Airway reactivity
 	* Atopy
-		* **Asthma**  
+		* **Asthma**\
 		Major risk factor for bronchospasm and laryngospasm. Key features:
 			* Wheezing during exercise
 			* Nocturnal dry cough
-			* Eczema  
+			* Eczema\
 			Present or past.
 		* **FHx** of two or more relatives with asthma, eczema, or rhinitis
 	* Eczema
-	* Recent URTI  
+	* Recent URTI\
 	Major risk factor for laryngospasm if within last **6/52**, though first 2/52 are highest risk period.
 		* **Croup** is especially high risk
 	* Passive smoke exposure
@@ -40,23 +40,23 @@ Anaesthetic factors:
 	* Bronchospasm: Desflurane > Sevoflurane > Isoflurane
 	* Sevoflurane associated with more laryngospasm than propofol maintenance (but equivalent bronchospasm)
 Compared with sevoflurane.
-* Use of lignocaine  
+* Use of lignocaine\
 Effect is disputed and may vary depend on method of administration.
-* Airway devices and depth of anaesthesia  
+* Airway devices and depth of anaesthesia\
 Safest options to reduce laryngospasm involve minimising laryngeal and tracheal stimulation. Consider:
-	* Use of facemask  
+	* Use of facemask\
 	Equivalent bronchospasm risk to LMA, but significantly reduced laryngospasm.
-	* Use of LMA  
+	* Use of LMA\
 	With deep removal.
 	* If intubating:
 		* Awake removal of ETT
-		* Use of cuffed (compared with uncuffed) ETT  
+		* Use of cuffed (compared with uncuffed) ETT\
 		Also reduces post-operative stridor. 
 
 
 Surgical factors:
 
-* Nature of surgery  
+* Nature of surgery\
 ENT surgery more likely.
 * Airway intervention
 
@@ -94,18 +94,18 @@ Post-operative laryngeal oedema due to irritation from ETT. It:
 	* Infants ⩽1 at particular risk
 * Presents as stridor and coughing
 * Requires immediate treatment with:
-	* Humidified oxygen  
+	* Humidified oxygen\
 	FiO~2~ >0.5.
 	* Resuscitation
-	* Light sedation  
+	* Light sedation\
 	Aim to reduce distress without ↓ respiratory drive.
-	* Nebulised adrenaline  
+	* Nebulised adrenaline\
 	0.5ml/kg of 1:1,000, up to 5mg total.
-	* Steroids  
+	* Steroids\
 	Dexamethasone 0.5-1mg/kg.
-	* Reintubation  
+	* Reintubation\
 	If ongoing deterioration or hypoxia
-	* Tracheostomy  
+	* Tracheostomy\
 	If upper airway obstruction worsens.
 * Rebound may occur at ~2 hours
 

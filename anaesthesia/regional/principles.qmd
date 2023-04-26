@@ -31,7 +31,7 @@ Requires:
 
 Prior to performing a regional block:
 
-* Verify the **side** and **site** of proposed block with another clinician  
+* Verify the **side** and **site** of proposed block with another clinician\
 Requires:
 	* Patient identification
 	* Checking of the surgical consent
@@ -62,7 +62,7 @@ Can use:
 	* Halt needle advancement prior to encountering nerve
 	* Aim off
 * **Tips for optimising success**:
-	* Place digital pressure on the needle insertion site  
+	* Place digital pressure on the needle insertion site\
 	Allows insertion site to be used as a fulcrum and torque the needle to drastically change direction after having penetrated a muscle plane.
 	* Penetrate fascial planes away from nerves/vessels, then slide up within that plane
 	* Injection inside the nerve *sheath* causes a rapid onset of surgical anaesthesia, but ↑ the risk of nerve injury
@@ -73,7 +73,7 @@ Can use:
 * Stimulate:
 	* At 1mA until muscle contractions visible in that nere area
 	* Reduce current to 0.3-0.5mA/0.1ms prior to injection
-* Consider giving a 0.5ml saline injection (Raj test)  
+* Consider giving a 0.5ml saline injection (Raj test)\
 Should be associated with a loss of motor response.
 
 Troubleshooting:
@@ -95,12 +95,12 @@ Can use:
 
 ### Catheter for Continuous Infusion
 
-* Prepare skin carefully  
+* Prepare skin carefully\
 Ensure catheter is not contaminated by alcohol solutions (neurotoxic).
-* Inject small bolus of LA prior to inserting catheter  
+* Inject small bolus of LA prior to inserting catheter\
 Hydrodissect space for catheter.
 * Pass catheter 2-5cm past needle tip
-* Remove needle  
+* Remove needle\
 Ensure catheter position does not change.
 * Inject remainder of loading dose into catheter
 

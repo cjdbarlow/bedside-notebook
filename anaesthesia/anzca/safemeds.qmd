@@ -4,7 +4,7 @@
 Safe administration of medicine involves:
 
 * Timely administration
-* Prevention of drug errors  
+* Prevention of drug errors\
 Anaesthetists are often solely responsible for prescription, preparation, dispension, and labelling of drugs.
 	* Correct:
 		* Patient
@@ -29,14 +29,14 @@ Consideration should be placed towards:
 Considerations:
 
 * Drugs with abuse potential should be locked when access is not required
-* Emergency drugs should be immediately accessible  
+* Emergency drugs should be immediately accessible\
 These include:
 	* Adrenaline
 	* Vasopressors
 	* Propofol
 	* Muscle relaxants
 	* Local anaesthetics
-* Drug draws should be organised formally  
+* Drug draws should be organised formally\
 Standardisation within each institution and region is desirable.
 * Drugs with similar appearances and names (but in different classes) should be stored separately
 * Drugs should be stored in ways to minimise error

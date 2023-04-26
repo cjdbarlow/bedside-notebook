@@ -47,7 +47,7 @@ Radiology:
     * Normal in 10%
     * Perihilar and interstitial shadowing\
     Often subtle and missed.
-    
+  \
 
 Sputum:
 
@@ -60,7 +60,7 @@ Organisms **persist** for days or weeks, so unlike many other infections, treatm
     * Time consuming
     * Requires good operator skill
 * Bronchoscopy with BAL\
-Diagnostic in >90%.   
+Diagnostic in >90%. \
 
 ## Management
 

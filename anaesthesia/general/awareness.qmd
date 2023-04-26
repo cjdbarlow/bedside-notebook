@@ -3,18 +3,18 @@
 
 Accidental intraoperative awareness is the ability to recall any events which occurred during the period at which it was intended that the patient was unconscious. Awareness:
 
-* Occurs in ~1:20,000 cases  
+* Occurs in ~1:20,000 cases\
 	* Incidence with NMB is ~1:8200 cases
 	* Incidence without NMB is ~1:135,000
-	* **Dynamic phase** of anaesthesia is the most common time  
+	* **Dynamic phase** of anaesthesia is the most common time\
 	i.e. Induction and emergence.
-* May lead to memory formation  
+* May lead to memory formation\
 Memories may be:
-	* Explicit  
+	* Explicit\
 	Memory of exact events, which may be:
 		* Recalled spontaneously
 		* Provoked by post-operative events or questioning
-	* Implicit  
+	* Implicit\
 	Not consciously recalled events, but may affect later behaviour.
 * May cause significant psychological harm
 	* Insomnia
@@ -27,18 +27,18 @@ Memories may be:
 
 Key factors affecting risk of awareness include:
 
-* **Depth of anaesthesia**  
+* **Depth of anaesthesia**\
 	* Inspired agent concentration
 		* Rare when MAC >0.8
-		* Virtually non-existent when MAC >1  
+		* Virtually non-existent when MAC >1\
 		Once steady state has been reached.
 	* Poor anaesthetic technique
 		* Omission or late commencement of volatile
 		* Underdosing of induction agent
-		* Underdosing during hypotensive episodes  
+		* Underdosing during hypotensive episodes\
 		**Titration of anaesthetic agent to BP ↑ risk** of awareness.
 		* Failure to recognise signs of light anaesthesia
-* **Patient factors**  
+* **Patient factors**\
 ↑ anaesthetic requirement in:
 	* Young age
 	* Hyperthyroidism
@@ -49,11 +49,11 @@ Key factors affecting risk of awareness include:
 		* Heavy alcohol
 		* Recreational drug users
 		* Repeated anaesthetics
-* **Neuromuscular blockade**  
+* **Neuromuscular blockade**\
 Greatly ↑ both the incidence and severity of awareness. Particularly:
 	* Use of non-depolarising agents
 	* Failure to monitor effect of non-depolarising agents
-* **High risk surgery**  
+* **High risk surgery**\
 Usually due to intentional dose reduction to minimise haemodynamic effects.
 	* Cardiac surgery
 	* Emergency surgery
@@ -87,27 +87,27 @@ Includes:
 
 ### Preventative
 
-* Premedication  
+* Premedication\
 Use of benzodiazepines reduces incidence.
 * Use of at least 0.8 MAC of volatile
 
 ### Intraoperative Management
 
-* Use of processed EEG monitoring  
+* Use of processed EEG monitoring\
 	* May ↓ awareness in high risk patients (NNT ~140)
 	* Effect confounded by muscle relaxants
 * Rapidly deepen anaesthesia
 * If hypotension is present, support BP whilst deepening anaesthesia
-* Consider administration of IV benzodiazepine  
+* Consider administration of IV benzodiazepine\
 Will not provide retrograde amnesia, but anterograde amnesia reduces evidence of further recall.
 
 
 ### Postoperative Management
 
-Obtain and document a detailed account of the experience:  
+Obtain and document a detailed account of the experience:\
 * Perioperative timing
 * Distinguish between dreaming and awareness
-* Note details of recalled events  
+* Note details of recalled events\
 * **The Brice Questionnaire** is a traditional approach to assessing events:
 	* Performed twice
 		* First at 24-48 hours
@@ -122,7 +122,7 @@ Obtain and document a detailed account of the experience:
 
 Provide:
 
-* Support and sympathy  
+* Support and sympathy\
 Denial of veracity of events worsens psychological outcome.
 * Early referral to psychiatric and counselling services
 

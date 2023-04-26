@@ -5,7 +5,7 @@ Lung isolation and one-lung ventilation:
 
 * Has many uses in thoracic surgery and ICU
 * May be difficult to achieve
-* May lead to complications and physiological compromise  
+* May lead to complications and physiological compromise\
 Clinically meaningful hypoxia in ~10% of thoracic surgery during OLV.
 
 
@@ -58,19 +58,19 @@ Specific equipment for lung isolation include:
 
 * Double-lumen ETT
 	* Oral
-	* Tracheostomy  
+	* Tracheostomy\
 
-* Bronchial blocker  
+* Bronchial blocker\
 Subclassified into:
-	* Torque-guided  
+	* Torque-guided\
 	e.g. Cohen.
-	* FOI-guided  
+	* FOI-guided\
 	e.g. Arndt, Fuji.
-	* Bilateral  
+	* Bilateral\
 	e.g. Easy blocker.
 * Single-lumen ETT
 	* Endobronchial tube
-	* ETT tube  
+	* ETT tube\
 	Advanced directly.
 		* Mostly likely to enter RMB
 		* Can be guided with FOI into either bronchus
@@ -82,17 +82,17 @@ DLTs:
 
 * Common and versatile
 * Relatively contraindicated in:
-	* Poor laryngoscopic airway grades  
+	* Poor laryngoscopic airway grades\
 	Difficult to insert, and *extremely* challenging to railroad over a bougie or bronchoscope.
-	* Aberrant tracheobronchial anatomy  
+	* Aberrant tracheobronchial anatomy\
 	Potential for significant iatrogenic injury.
 * Come in left- and right-sided variants
-	* As the right bronchus intermedius is very short, it is easy to accidentally occlude the right upper lobe with a right-sided DLT  
+	* As the right bronchus intermedius is very short, it is easy to accidentally occlude the right upper lobe with a right-sided DLT\
 	The side-port on right-sided ports should generally be positioned under bronchoscopic guidance to minimise this risk.
 	* In general, a left sided DLT is used for most cases unless:
 		* Surgical resection will involve the proximal left main bronchus
 		* Aberrant anatomy precludes use of a left-sided DLT
-* Measured in French gauge  
+* Measured in French gauge\
 	* In general; 41-39Fr is appropriate for males, and 37Fr for females.
 	* **Depth** of DLT insertion: **12cm + 0.1cm per 10cm of patient height**
 
@@ -105,8 +105,8 @@ Pros of DLTs:
 
 Cons of DLTs:
 
-* Large and harder to insert than standard ETTs  
-* Smaller internal lumens than standard ETTs  
+* Large and harder to insert than standard ETTs\
+* Smaller internal lumens than standard ETTs\
 Require a bronchoscope with a **⩽4mm lumen** to instrument a **35 Fr** DLT.
 
 
@@ -114,7 +114,7 @@ Insertion of a left-sided DLT:
 
 * Place DLT through cords with curve in A-P plane
 * Remove stylet once through cords
-* Rotate DLT 90°  
+* Rotate DLT 90°\
 Anticlockwise for left-sided.
 * Insert DLT until reaching slight resistance
 * Inflate tracheal cuff
@@ -127,7 +127,7 @@ Anticlockwise for left-sided.
 	 	* Deflate tracheal cuff
 	 	* Slowly withdraw tube until carina visualised
 	 	* Use scope as stylet to advance DLT to desired position
-* Inflate bronchial cuff under vision  
+* Inflate bronchial cuff under vision\
 Slight rim of blue cuff should be seen in the LMB.
 * Place bronchoscope down bronchial lumen to ensure left upper lobe bronchus not obstructed
 
@@ -147,7 +147,7 @@ Pros:
 	* Tracheostomy
 	* Anatomical abnormalities
 		* Endoluminal stricture
-* Selective lobar isolation  
+* Selective lobar isolation\
 Apply CPAP down internal channel when wire removed.
 * Paediatrics
 
@@ -175,7 +175,7 @@ Isolation can be achieved using:
 
 General principles involve:
 
-* Ventilation with 100% O~2~  
+* Ventilation with 100% O~2~\
 Aim for maximal denitrogenation; absorption of oxygen will speed up lung collapse.
 
 
@@ -197,9 +197,9 @@ Confirmation of position:
 	* Insert DLT
 	* Inflate tracheal cuff
 	* Confirm tracheal intubation with CO~2~
-	* Bronchoscope down tracheal lumen and identify carina  
+	* Bronchoscope down tracheal lumen and identify carina\
 	Identify trifurcation of RUL if right-sided.
-	* Inflate bronchial cuff under vision  
+	* Inflate bronchial cuff under vision\
 	Aim to see narrow rim of blue cuff visible in the main bronchus.
 	* If right-sided DLT, pass bronchoscope down bronchial lumen and confirm that the RUL ventilation port is aligned with the RUL bronchus
 
@@ -208,7 +208,7 @@ Isolation:
 
 * Confirm DLT positioning
 * Clamp DLT proximally on side to be deflated
-* Open DLT to air, distal to the clamp, on the side to be deflated  
+* Open DLT to air, distal to the clamp, on the side to be deflated\
 	* Consider suctioning down open lumen to speed up collapse
 * Confirm ventilation appropriate on remaining lung
 
@@ -216,25 +216,25 @@ Isolation:
 ### Isolation with Bronchial Blocker
 
 * Turn PEEP to 0cmH~2~O
-* Insert bronchial blocker  
+* Insert bronchial blocker\
 May be inserted under bronchoscopic guidance or directed blindly.
-* Inflate the bronchial blocker  
+* Inflate the bronchial blocker\
 This can be performed:
-	* At end-expiration (when lung volume is at its minimum)  
+	* At end-expiration (when lung volume is at its minimum)\
 	This will ↓ the size of the isolated section of lung and therefore the impediment to the surgeon.
-	* After waiting until desaturation begins to occur  
+	* After waiting until desaturation begins to occur\
 	In a patient who has been ventilated on 100% oxygen, this will indicate maximal atelectasis in the lung (though may take some time to occur).
 
 
 #### Selective Lobar Isolation with Bronchial Blocker
 
-* This technique allows isolation of one particular area of lung whilst maintaining gas exchange in the remaining lung  
+* This technique allows isolation of one particular area of lung whilst maintaining gas exchange in the remaining lung\
 Isolation of the RUL or RML/RLL is easiest to perform.
 * Place DLT and isolate the operative/injured lung
 * Place bronchial blocker into the non-ventilated lung and inflate the blocker
-* Apply CPAP:  
+* Apply CPAP:\
 Initially 5-10cmH~2~O until recruited, then ↓ to 2-5cmH~2~O.
-	* Down bronchial blocker  
+	* Down bronchial blocker\
 	Can be performed by removing loop from Arndt blocker.
 	* To DLT lumen
 
@@ -245,14 +245,14 @@ Options include:
 
 * Awake FOI with DLT
 * Awake FOI with SLT and BB
-* Awake FOI with SLT and airway exchange  
+* Awake FOI with SLT and airway exchange\
 Requires a catheter at least 70cm long.
 * Asleep DLT with combined VL and bronchoscopy
 
 
 Tracheostomy:
 
-* Remove and insert DLT  
+* Remove and insert DLT\
 Certain DLTs made for this purpose.
 * Leave in and insert BB
 
@@ -268,7 +268,7 @@ Surgical technique will affect rate and adequacy of lung collapse:
 
 ## Ventilatory Technique
 
-> * Priority is to **avoid hypoxia**  
+> * Priority is to **avoid hypoxia**\
 Typically aim SpO~2~ > 90%.
 >	* Maintain FRC in ventilated lung
 > * Maximise PVR in the independent/operative/deflated lung
@@ -276,7 +276,7 @@ Typically aim SpO~2~ > 90%.
 
 General Approach:
 
-* Optimise FRC of the dependent lung  
+* Optimise FRC of the dependent lung\
 Occurs at lower than usual volumes due to paralysis, lateral position, and the weight of the mediastinum.
 	* Any shunt in ventilated lung is poorly tolerated
 * Avoid impediments to hypoxic pulmonary vasoconstriction in ventilated lung
@@ -284,14 +284,14 @@ Occurs at lower than usual volumes due to paralysis, lateral position, and the w
 	* Vasodilators
 	* Excessive volatile
 * Begin at:
-	* FiO~2~ of 1.0  
+	* FiO~2~ of 1.0\
 	Aim to down-titrate to 0.5-0.8.
 	* Vt of 5ml/kg
-	* 5-10cmH~2~ of PEEP  
+	* 5-10cmH~2~ of PEEP\
 	Consider ZEEP in the severe COAD patient.
 * Targeting:
 	* Pplat < 25cmH~2~O
-	* PaCO~2~ ~35mmHg  
+	* PaCO~2~ ~35mmHg\
 	Permissive hypercapnoea acceptable; 
 
 
@@ -307,13 +307,13 @@ Critical hypoxaemia:
 	* Haemodynamic instability
 * Recruit operative lung until stabilised/help arrived
 	* ↑ FiO~2~
-	* Two-lung ventilation  
+	* Two-lung ventilation\
 	If SpO~2~ <88-85%.
 	* CPAP
 
 Identify and treat common causes:
 
-* Basics first  
+* Basics first\
 Check the tube and check the patient:
 	* Failure of isolation
 		* Bronchoscopy
@@ -323,29 +323,29 @@ Check the tube and check the patient:
 	* Recruitment maneuvre
 	30-40cmH~2~O, noting a drop in CO, BP, and SpO~2~ will transiently follow.
 		* Arterial line useful if recruiting longer than 10-20s
-	* PEEP titration  
+	* PEEP titration\
 	Typically up to 10cmH~2~O - noting that excessive PEEP will worsen PVR.
 * Low DO~2~
 	* Ensure Hb adequate
 	* Consider inotropes
 	* Fall in CO
 		* Mediastinal pressure by surgeon
-* Shunt through operative lung  
+* Shunt through operative lung\
 Likely cause of hypoxia when other factors are optimised. Consider:
-	* Oxygen to operative lung  
+	* Oxygen to operative lung\
 	Delivery of low-flow (e.g. 2L/min) O~2~ down a suction catheter.
 		* Catheter can be placed under bronchoscopic guidance to minimise effect on surgical exposure
-	* CPAP to operative lung  
+	* CPAP to operative lung\
 	May interfere with surgical exposure depending on amount of CPAP applied and proximity of operative site to hilum.
 		* 2cmH~2~O nearly always tolerated
 		* 9cmH~2~O begins to impinge
-	* Pulmonary vasodilators to ventilated lung  
+	* Pulmonary vasodilators to ventilated lung\
 	Not appropriate as rescue therapy. 
 		* iNO at 20ppm is effective only when combined with a vasoconstrictor
 		* Inhaled PGE1 at 10ng/kg/min
-	* Intermittent two-lung ventilation  
+	* Intermittent two-lung ventilation\
 	May significantly hamper surgical access and prolong operating time.
-	* Clamp PA of operative lung  
+	* Clamp PA of operative lung\
 	Technically difficult for surgeons to accomplish and not risk-free; they are usually reluctant to do this but it is very helpful if the vessels are exposed (e.g. in pneumonectomy).
 
 
@@ -356,7 +356,7 @@ Likely cause of hypoxia when other factors are optimised. Consider:
 Complications of one-lung ventilation include:
 
 * Hypoxia due to shunt
-* Acute Lung Injury  
+* Acute Lung Injury\
 ~2-5% incidence.
 
 

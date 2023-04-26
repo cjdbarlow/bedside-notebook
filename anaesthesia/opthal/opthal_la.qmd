@@ -4,7 +4,7 @@
 >Pain: Minimal  <br>
 >Position: Supine, face parallel to ceiling  <br>
 >Blood loss: Negligible  <br>
->Special: Hyaluronidase: Hydrolyses hyaluronan, reducing integrity of the extracellular matrix and ↑ tissue permeability  
+>Special: Hyaluronidase: Hydrolyses hyaluronan, reducing integrity of the extracellular matrix and ↑ tissue permeability\
 
 Local anaesthetic with or without sedation for eye surgery is:
 
@@ -12,7 +12,7 @@ Local anaesthetic with or without sedation for eye surgery is:
 * Relatively free of risk
 Predominant morbidity related to oversedation.
 * Used for many ocular surgeries including:
-	* Trabeculectomy  
+	* Trabeculectomy\
 	50-80 minutes.
 	* Intraocular Lens Insertion
 
@@ -21,36 +21,36 @@ Predominant morbidity related to oversedation.
 
 Different methods for LA include:
 
-* Topical  
+* Topical\
 Provides corneal anaesthesia.
-	* Adequate for cataract surgery by phacoemulsification  
+	* Adequate for cataract surgery by phacoemulsification\
 	Does not provide akinesia.
-* [Peribulbar Block](/anaesthesia/regional/peribulbar.md#id)  
+* [Peribulbar Block](/anaesthesia/regional/peribulbar.md#id)\
 The most commonly used injection technique.
-* [Sub-Tenon's Block](/anaesthesia/regional/subtenon.md)  
+* [Sub-Tenon's Block](/anaesthesia/regional/subtenon.md)\
 A useful alternative when a peri-bulbar block is contraindicated.
-* Retrobulbar block  
+* Retrobulbar block\
 Produces better akinesis and lower IOP than a peribulbar block, but has greater associated risks and is essentially superseded by a peribulbar block.
 
 
 ## Considerations
 
 * B
-	* COAD  
+	* COAD\
 	CO~2~ retention may occur under the drapes. High-flow oxygen under the drapes may reduce this.
 	* Ability to lie flat for up to 30 minutes
 * C
-	* Hypertension  
+	* Hypertension\
 	High SBP may ↑ risk of bleeding, especially with use of phenylephrine drops to dilate the eye. Normal antihypertensives should be taken.
 * D
-	* **Axial length**  
+	* **Axial length**\
 	Determines which technique would be more appropriate.
 	* Ability to obey commands
 	* Anxiety levels around LA and eye
 * H
 	* Clotting status
 		* Bleeding issues
-		* Presence of anticoagulants    
+		* Presence of anticoagulants  \
 		Clotting profile should be checked within 24 hours for patients on anticoagulants.
 			* Use of antiplatelet agents including aspirin
 			* Warfarin and INR if applicable
@@ -65,12 +65,12 @@ Produces better akinesis and lower IOP than a peribulbar block, but has greater 
 ## Induction
 
 * Time out
-* Give sedation  
+* Give sedation\
 Many appropriate techniques:
 	* Midazolam 0.5-2mg
 	* Propofol 10-30mg with alfentanil 250ug
 	* Propofol 10-20 mg with ketamine 10mg and alfentanil 100-250ug
-* Apply topical local anaesthetic drops  
+* Apply topical local anaesthetic drops\
 3 drops of 1% amethocaine or oxybuprocaine into the eye. Repeat 3 times at 1 minutely intervals, as required.
 
 

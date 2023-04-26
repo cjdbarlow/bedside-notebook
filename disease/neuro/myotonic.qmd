@@ -23,13 +23,13 @@
 ### Anaesthetic Considerations
 
 * General
-	* Low threshold for HDU monitoring  
+	* Low threshold for HDU monitoring\
 	↑ risk of apnoea and death for 24 hours following extubation.
 * A
 	* Limited mouth opening
 	* Bulbar palsy and aspiration risk
 * B
-	* Respiratory muscle weakness and expectoration  
+	* Respiratory muscle weakness and expectoration\
 	Pulmonary complications are the most common cause of peri-operative morbidity.
 	* OSA
 * C
@@ -41,11 +41,11 @@
 	* **Shivering** from neuraxial anaesthesia **may precipitate myotonic contractures**
 	* Regional techniques ideal to reduce analgesia and opioid requirements
 * E
-	* Hypothermia  
+	* Hypothermia\
 	Avoid shivering.
-	* **Avoid suxamethonium**  
+	* **Avoid suxamethonium**\
 	May result in severe hyperkalaemia.
-	* Avoid muscle relaxation where possible  
+	* Avoid muscle relaxation where possible\
 	Reduce initial doses and titrate with a nerve stimulator.
 * E
 	* DM

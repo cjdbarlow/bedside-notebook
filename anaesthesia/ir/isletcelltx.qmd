@@ -15,15 +15,15 @@ Transplantation of donor islet cells into a pancreas to achieve independence fro
 * Poor recognisers of hypoglycaemia
 * Experiencing recurrent, severe hypoglyaemic epidosies
 * Otherwise optimally managed
-* Rare  
+* Rare\
 Most patients can be managed without requring transplantation.
 
 
 ## Considerations
 
 * D
-	* DM  
-		* Indications  
+	* DM\
+		* Indications\
 		Requires all of:
 			* Insulin sensitive
 			* C-peptide negative
@@ -43,7 +43,7 @@ Most patients can be managed without requring transplantation.
 
 Surgical stages:
 
-* Percutaneous cannulation of the portal vein  
+* Percutaneous cannulation of the portal vein\
 Often large (e.g. 4 Fr).
 * Measurement of portal venous pressure
 * Infusion of purified islets in transplant medium into portal vein
@@ -55,7 +55,7 @@ Further management includes:
 
 * Immunosuppression
 	* Steroids
-	* Calcineurin inhibitors  
+	* Calcineurin inhibitors\
 	May require conversion to MMF.
 
 Surgical complications include:

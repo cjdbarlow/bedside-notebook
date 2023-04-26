@@ -31,10 +31,10 @@ Myocardial repolarisation:
 
 * Occurs due to a combination of:
 	* Outward K^+^ flow
-	* Inward Ca^+^ and Na^+^ flow  
+	* Inward Ca^+^ and Na^+^ flow\
 	Partially counters K^+^ current.
 * Is not homogenous between epicardium, mid-myocardium, and endocardial cells
-	* Mid-myocardium is slower due to reduced K^+^ and Na^+^ channel density  
+	* Mid-myocardium is slower due to reduced K^+^ and Na^+^ channel density\
 	The tail of the T-wave tends to represent repolarisation of mid-myocardial cells.
 * ↓ mid-myocardial K^+^ or ↑ Na^+^ channel function in the mid-myocardium will therefore prolong the action potential
 	* This may lead to late calcium inflow, and early after-depolarisations
@@ -44,17 +44,17 @@ Myocardial repolarisation:
 
 May be:
 
-* Congenital  
+* Congenital\
 1/2,500-5,000. Multiple major genotypes have been developed, which include:
-	* Jervell–Lange-Nielsen  
+	* Jervell–Lange-Nielsen\
 	Autosomal recessive.
-	* Romano–Ward  
+	* Romano–Ward\
 	Autosomal dominant.
-* Acquired  
+* Acquired\
 Likely associated with some genetic abnormality. Include:
 	* Drugs
 	* Electrolyte abnormalities
-	* Malnutrition  
+	* Malnutrition\
 	In addition to any risk due to neurological abnormalities.
 	* Neurological injury
 
@@ -73,7 +73,7 @@ History:
 
 ECG:
 
-* QTc >440ms  
+* QTc >440ms\
 May only be revealed in situations of physiological stress (e.g. a stress ECG).
 
 ## Management
@@ -90,7 +90,7 @@ May only be revealed in situations of physiological stress (e.g. a stress ECG).
 		* DC cardioversion
 		* Mg^2+^\
 		Reduces EADs by ↑ encouraging resting repolarisation.
-			* Given as 2g MgSO~4~ over 2-3 minutes  
+			* Given as 2g MgSO~4~ over 2-3 minutes\
 			May be repeated with another 2g after 15 minutes.
 			* Consider infusion of 3-20mg/min if arrhythmias persist
 
@@ -100,7 +100,7 @@ May only be revealed in situations of physiological stress (e.g. a stress ECG).
 	* Antiarrhythmic
 		* β-blockade
 * Procedural
-	* Pacing  
+	* Pacing\
 	↑ HR and reduces QTc.
 	* AICD
 
@@ -112,7 +112,7 @@ May only be revealed in situations of physiological stress (e.g. a stress ECG).
 Medical management:
 
 * β-blockade
-* Pacing  
+* Pacing\
 ↑ HR and reduces QTc.
 * AICD
 
@@ -151,7 +151,7 @@ Drugs associated with development of polymorphic VT:
 	* Avoid bradycardia
 	* Avoid hypotension
 * E
-	* Avoid reversal of neuromuscular block  
+	* Avoid reversal of neuromuscular block\
 	QTc is prolonged with neostigmine-glycopyrrolate.
 
 ### Marginal and Ineffective Therapies

@@ -21,25 +21,25 @@ Endovascular repair of aorta using percutaneously inserted grafts. EVAR:
 	* Thoracic EVAR
 	* Fenestrated EVAR
 * Involves access via:
-	* Femoral arteries  
+	* Femoral arteries\
 	Standard EVAR.
 		* Supine
 		* May limit distal flow
-	* Subclavian arteries  
+	* Subclavian arteries\
 	Required for complex grafting.
 
 
 ## Considerations
 
 * B
-	* Requirement for **breath-holding**  
+	* Requirement for **breath-holding**\
 	Major effect on anaesthetic plan; either:
 		* GA & ETT
-		* Light sedation and obeying commands  
+		* Light sedation and obeying commands\
 			* May be difficult to maintain patient comfort in long procedures
 			* Requires ability to lie flat
 * C
-	* Conversion to open   
+	* Conversion to open \
 	Incredibly rare.
 * D
 	* Anaesthetic technique
@@ -63,12 +63,12 @@ Endovascular repair of aorta using percutaneously inserted grafts. EVAR:
 Complications include:
 
 * C
-	* Post-implantation syndrome  
+	* Post-implantation syndrome\
 	Early, self-limiting, postoperative occurrence of:
 		* Fever
 		* Leukocytosis
 		* Raised inflammatory markers
-	* Endograft collapse  
+	* Endograft collapse\
 	Collapse of the endograft:
 		* Usually occurs within 3 months
 		* May present:
@@ -76,17 +76,17 @@ Complications include:
 			* Abdominal pain
 			* Multiorgan failure
 			* Reduced femoral pulses
-	* Endoleaks  
+	* Endoleaks\
 	Leakage of blood into aneurysm sac around graft.
 		* Occurs in ~30% of patients
 		* Classified into:
-			* Type I  
+			* Type I\
 			Incomplete seal. Requires repair.
-			* Type II  
+			* Type II\
 			Leakage of blood from collateral vessels. Requires repair.
-			* Type III  
+			* Type III\
 			Inadequate sealing of overlapping graft joints. Requires repair.
-			* Type IV  
+			* Type IV\
 			Direct leakage through a porous graft. Historical curiosity of old grafts.
 	* Major bleeding
 	* Abdominal compartment syndrome\

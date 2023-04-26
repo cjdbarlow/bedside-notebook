@@ -6,7 +6,7 @@ Complications may include:
 * Vascular injury
 * Infection
 * Nerve Injury
-* Block-specific complications  
+* Block-specific complications\
 Covered in detail under specific blocks; examples include phrenic nerve block after performing a supraclavicular brachial pleuxus block.
 
 
@@ -30,23 +30,23 @@ Vascular injury may lead to haematoma and secondary injury due to mass effect. P
 	* Identify vessels prior to injection
 	* Choose a needle path that minimises peri-vascular approach
 	* Compress veins during needle passage (after they have been identified)
-* **Managing anticoagulants**  
+* **Managing anticoagulants**\
 Peripheral nerve blocks are low risk for serious bleeding. *In general* (and **in absence of other risk factors**; such as age, renal/hepatic disease, history of major bleeding):
-	* Aspirin and NSAIDs do not need to be discontinued  
-	* P2Y12 inhibits do not need to be discontinued  
+	* Aspirin and NSAIDs do not need to be discontinued\
+	* P2Y12 inhibits do not need to be discontinued\
 	Includes clopidogrel, ticagrelor, prasugrel.
-	* Warfarin may safely be continued if INR < 3.0  
+	* Warfarin may safely be continued if INR < 3.0\
 	Cessation should be discussed with treating team.
 	* UFH should be ceased at least 4 hours before the procedure, and restarted 2 hours after
 	* Prophylactic-dose LMWH should be last given at least 12 hours prior
 	* Therapeutic-dose LMWH should be last given at least 24 hours prior
-	* NOACs may be safely continued  
+	* NOACs may be safely continued\
 	Cessation should be discussed with the treating team, and at least 2 drug half-lifes should occur between cessation and intervention.
 
 
 ## Infection
 
-* Risk is ↑ with use of continuous catheters versus single-shot techniques  
+* Risk is ↑ with use of continuous catheters versus single-shot techniques\
 Catheters should be placed under strict asepsis.
 
 ## Nerve injury
@@ -58,10 +58,10 @@ Nerve injury related to anaesthesia is:
 * Defined as a:
 	* New onset of pain, weakness, numbness, or abnormal sensation
 	* Lasting beyond the usual duration of the specified block
-* Rare  
+* Rare\
 ~2-4/10,000 blocks.
 * Risk factors
-	* Intraneural injection  
+	* Intraneural injection\
 	Injection of LA should be performed outside of the connective tissue sheath of the nerve, in the plane of cleavage between epineurium and the extraneural connective tissue layers.
 		* Should be a low-pressure, hydrodissection of the space
 		* Intraneural injection may be identified as nerve expansion under ultrasound
@@ -72,7 +72,7 @@ Nerve injury related to anaesthesia is:
 
 
 Deficits:
-	* Predominantly sensory  
+	* Predominantly sensory\
 	Paraesthesias.
 	* Typically resolve in less than a month:
 		* 92% resolve in 1 month
@@ -91,9 +91,9 @@ Review:
 * Observations
 
 
-Evaluate deficit  
+Evaluate deficit\
 * Mild/resolving symptoms or persistent sensory deficit
-	* Reassure and review in 4 weeks  
+	* Reassure and review in 4 weeks\
 	If ongoing persistent symptoms:
 		* Neurology referral
 		* Consider:
@@ -105,7 +105,7 @@ Evaluate deficit
 	* Consider:
 		* Nerve conduction studies
 		* Electromyography
-		* Further imaging  
+		* Further imaging\
 		Expedite if potential requirement for urgent decompression.
 	* Consider:
 		* Surgical causes

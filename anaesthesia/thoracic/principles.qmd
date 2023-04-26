@@ -18,9 +18,9 @@ Key considerations:
 	 	* Spirometry
 * Indication
 	* Tumour
-		* Mass effect  
+		* Mass effect\
 		Mediastinal mass:
-			* Lymphomas  
+			* Lymphomas\
 			Rapidly growing - may cause rapid compression.
 			* Germ cell-tumours
 			* Thymus
@@ -31,20 +31,20 @@ Key considerations:
 	* Bullectomy
 	* LVRS
 	* Transplant
-* Respiratory assessment  
+* Respiratory assessment\
 Prediction of post-operative pulmonary function is vital to:
 
-* Confirm suitability  
+* Confirm suitability\
 Stratify to:
 	* Curative-intent
 	* Defined limits of resection
-* Ventilator weaning and post-operative disposition  
+* Ventilator weaning and post-operative disposition\
 Dependent on PPO FEV~1~:
-	* ⩾40%  
+	* ⩾40%\
 	Extubate in operating room.
-	* 30-40%  
+	* 30-40%\
 	Consider extubation.
-	* ⩽30%  
+	* ⩽30%\
 		* Staged weaning
 		* Consider thoracic epidural
 * Analgesia plan
@@ -70,7 +70,7 @@ Should include:
 	* Treatment effects
 		* Chemotherapy
 		* Radiotherapy
-* Detailed airway assessment  
+* Detailed airway assessment\
 Insertion of a DLT is more difficult than SLT.
 
 
@@ -87,28 +87,28 @@ Insertion of a DLT is more difficult than SLT.
 
 The "3-legged" stool of respiratory assessment evaluates a patients ability to **tolerate** removal of an **anatomically resectable** lung cancer. Many approaches have been described; institutional practice will vary depending on the availability of more advanced investigations (e.g. CPET) testing. This is one approach:
 
-* Perform **Spirometry**  
+* Perform **Spirometry**\
 FEV~1~ and DLCO are:
-	* ⩾60% of predicted  
+	* ⩾60% of predicted\
 	Proceed to surgery.
 	* <60% of predicted
-		* Estimate **predicted postoperative lung function**  
+		* Estimate **predicted postoperative lung function**\
 		FEV~1~ and DLCO are:
-			* ⩾40% of predicted  
+			* ⩾40% of predicted\
 			Proceed to surgery.
-			* <40% of predicted  
-			Perform **CPET testing**  
+			* <40% of predicted\
+			Perform **CPET testing**\
 				* Not always available, and not always performed
 				* As measured by **CPET**, or surrogate
-				* VO~2~ max >15mL/kg/min  
+				* VO~2~ max >15mL/kg/min\
 				Can proceed to surgery. Most useful predictor of outcome. Indicated by:
 					* Stair climb ⩾2 flights
 					* 6 minute walk test ⩾610m
 					* Exercise SpO~2~ <4%)
 				* VO~2~ max
-					* ⩾10mL/kg/min  
+					* ⩾10mL/kg/min\
 					*May*, in certain circumstances, proceed to surgery.
-					* <10mL/kg/min  
+					* <10mL/kg/min\
 					Discuss alternatives.
 
 
@@ -118,9 +118,9 @@ FEV~1~ and DLCO are:
 Predicting post-operative function:
 
 * Estimates the proportion of lung function lost by resection
-	* Assumes that all lung segments contribute equally to function  
+	* Assumes that all lung segments contribute equally to function\
 	Usually not the case as diseased units will inherently perform less well.
-* Performed for both FEV~1~ and DLCO  
+* Performed for both FEV~1~ and DLCO\
 Calculated as $$PPO FEV_1 = Preoperative \ FEV_1 \times {Number \ of \ segments \ initially - Number \ of segments \ resected \over Number \ of \ segments \ initially}$$
 	* Normal is **19 segments**
 
@@ -129,7 +129,7 @@ Calculated as $$PPO FEV_1 = Preoperative \ FEV_1 \times {Number \ of \ segments 
 
 Elevated risk seen with:
 
-* Abnormal blood gases  
+* Abnormal blood gases\
 Historically used, but convey ↑ risk if:
 	* PaO~2~ >60mmHg
 	* PaCO~2~ <45mmHg

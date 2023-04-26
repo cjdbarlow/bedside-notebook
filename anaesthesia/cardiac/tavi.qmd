@@ -18,9 +18,9 @@ Transarterial/endoluminal insertion of a prosthetic aortic valve. Anaesthetic st
 ## Considerations
 
 * C
-	* Severity  
+	* Severity\
 	Stenosis will worsen as sheath is positioned across the aortic valve. If AVA is already very low, then acute LV failure may occur.
-	* Pacing wire  
+	* Pacing wire\
 	Potential for LBBB to occur during valve placement secondary to AV nodal damage. Consider pacing wire insertion in patients who are:
 		* Extremely unwell
 		* Have a prexisting RBBB

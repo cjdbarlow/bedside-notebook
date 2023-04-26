@@ -11,9 +11,9 @@ This is an **anaesthetic crisis**. Priority is to:
 
 Excessive systemic levels of local anaesthetic. LAST presents:
 
-* With **CNS** or **CVS** signs  
+* With **CNS** or **CVS** signs\
 Up to and including seizures and **cardiac arrest**.
-* Variably  
+* Variably\
 Presentation may be:
 	* In PACU, the ward, or after hospital discharge
 	* Obscured by other perioperative events
@@ -23,32 +23,32 @@ Presentation may be:
 Priorities:
 
 1. Cease LA injection
-2. Call for help  
+2. Call for help\
 **Early** consideration of CPB or **ECMO**, if available.
-3. Support physiology  
+3. Support physiology\
 Maintain oxygenation and ventilation, and consider intubation.
 4. **Intralipid emulsion**
 
 
 Specific management:
 
-* Control seizures  
+* Control seizures\
 	* Benzodiazepine preferred
-	* Propofol reasonable alternative  
+	* Propofol reasonable alternative\
 	Note potential haemodynamic instability.
 * Arrhythmia
-	* Start ALS if required  
+	* Start ALS if required\
 	Consider ECMO.
-	* Reduce dose adrenaline  
+	* Reduce dose adrenaline\
 	⩽1μg/kg.
 	* **Avoid**:
 		* Vasopressin
 		* Calcium-channel blockers
 		* β-blockade
 7. Give **intravenous lipid emulsion**
-	* **1.5mL/kg bolus**  
+	* **1.5mL/kg bolus**\
 	Repeat if unstable.
-	* Commence infusion at **15mL/kg/hr**  
+	* Commence infusion at **15mL/kg/hr**\
 	Double rate if unstable.
 	* Up to **12ml/kg total** volume.
 	* Continue at least **15 minutes after haemodynamic stability** achieved.
@@ -91,7 +91,7 @@ LAST:
 * Use ultrasound
 * Monitor LA spread during injection
 	* If not seen, suggests intravascular injection
-* Consider use of adrenaline in the block  
+* Consider use of adrenaline in the block\
 Gives a marker for inadvertent intravascular injection.
 
 

@@ -17,13 +17,13 @@ Principles of PACU:
 		* Second person may be the anaesthetist or operating room nurse
 * With respect to airway devices:
 	* **Intubated** patients must be **monitored** by the **anaesthetist**
-	* Patients with a SAD must be breathing spontaneously  
+	* Patients with a SAD must be breathing spontaneously\
 	* The **anaesthetist cannot leave a facility** whilst a **SAD** is still **in situ** for their patient
 * Must be resourced to:
 	* Manage common and expected outcomes of the given procedure
 	* Cover the spectrum of patients managed in that facility
 	* Manage airway, respiratory, and cardiovascular complications
-	* Treat both common and life-threatening post-anaesthetic events  
+	* Treat both common and life-threatening post-anaesthetic events\
 	e.g. PONV, pain, anaphylaxis.
 * Must have an **emergency call system** to summon assistance from appropriate areas within the facility
 
@@ -37,7 +37,7 @@ Principles of PACU:
 * Adequate space for the patients bed, equipment, and personnel:
 	* A **minimum of 9m^2^** for each patient
 	* Up to **20m^2^** for higher-acuity patients
-* Staff should be able to view all patients at once  
+* Staff should be able to view all patients at once\
 **'Line-of-sight nursing care'**.
 * Separate area for paediatric patients, if the facility deals with both adult and paediatric patients
 * Each bed space must have:
@@ -63,7 +63,7 @@ Within all PACU there must be:
 * Capnography
 * ECG monitoring
 * Nebulisers
-* Drugs  
+* Drugs\
 Including:
 	* Emergency drugs
 	* Antiemetics
@@ -114,7 +114,7 @@ Each bed should:
 
 Patients should remain until they are:
 
-* Considered safe to discharge by establish criteria  
+* Considered safe to discharge by establish criteria\
 These include:
 	* Respiratory stability
 	* CVS stability
@@ -124,7 +124,7 @@ These include:
 	* No immediate surgical complications
 	* Minimal nausea
 	* Return of consciousness
-* Stage 2 recovery  
+* Stage 2 recovery\
 	* Provides a period of additional supervised care for day-stay or ambulatory patients
 	* Allows:
 		* Additional period of monitoring

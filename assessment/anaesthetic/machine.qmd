@@ -7,11 +7,11 @@ An anaesthesia delivery system includes any equipment that can deliver gases, va
 
 There are three levels of machine check:
 
-* **Level One Check**  
+* **Level One Check**\
 Detailed check performed by trained service personenel of all systems prior to being used.
-* **Level Two Check**  
+* **Level Two Check**\
 Check performed at that start of each anaesthetic list.
-* **Level Three Check**  
+* **Level Three Check**\
 Check performed prior to commencing anaesthesia for each patient.
 
 
@@ -21,16 +21,16 @@ Check performed prior to commencing anaesthesia for each patient.
 1. Check gas pressures
 	* Supply line pressures
 	* Reserve O~2~ cylinder pressure
-		* Adequate pressure  
+		* Adequate pressure\
 		\>10,000 kPa.
-		* Can be turned on and off  
+		* Can be turned on and off\
 		Leave off after check so that there is no slow leak.
 		* Not leaking from seal
 2. Check gas flows
 	* Check that each gas flow is measured correctly on each rotameter
 	* Verify that the anti-hypoxic systems are working correctly
 		* FiO~2~ should not be able to be reduced to <0.21
-3. Check scavenging  
+3. Check scavenging\
 Connected and flow is adequate.
 4. Check vapourisers
 	* Filled with liquid anaesthetic
@@ -38,15 +38,15 @@ Connected and flow is adequate.
 5. Check CO~2~
 	* Check soda lime
 	* Check ETCO~2~ working
-6. Check for circuit leak  
+6. Check for circuit leak\
 	* Leak should be ≤300ml/min for a circuit pressure >30cm H~2~O
 	* Usually automated in modern machines
-7. **Manual circuit check**  
+7. **Manual circuit check**\
 Attach a circuit bag to the patient y-piece and test:
 	* Circuit compliance
 	* Circuit resistance
 	* Valve movement
-	* APL valve function  
+	* APL valve function\
 	Compress both circuit bag and breathing bag.
 8. **Verify BVM is present**
 9. **Check emergency drugs**
@@ -97,15 +97,15 @@ Additionally, anaesthetic machines:
 		* Oxygen must be the last gas to enter the backbar
 		* If flowmeters are used:
 			* Only one gas flow control knob for each gas
-			* Oxygen knob should differ from other knobs so it can be identified by touch  
+			* Oxygen knob should differ from other knobs so it can be identified by touch\
 			Generally fluted.
-			* Oxygen flow knob must be left-most  
-		* Incapable of delivering a hypoxic mixture  
+			* Oxygen flow knob must be left-most\
+		* Incapable of delivering a hypoxic mixture\
 		i.e. FiO~2~ ⩽21%.
 	* Vaporisers
 		* Interlock must prevent more than one vaporiser being used
 		* Gas concentraiton must ↑ when dial rotated anti-clockwise
-	* Fresh gas outlet  
+	* Fresh gas outlet\
 	Must be:
 		* 22mm outer diameter and 15mm internal diameter
 		* Visible
@@ -114,7 +114,7 @@ Additionally, anaesthetic machines:
 	* Scavenging must be of a different diameter to other connections
 	* All alarms must activate when the associated feature of the machine isenabled
 	* Emergency oxygen flush must be protected from accidental activation
-	* On/off switch must be protected from unintended activation  
+	* On/off switch must be protected from unintended activation\
 	Turning off during normal operation requires a confirmatory step.
 ---
 

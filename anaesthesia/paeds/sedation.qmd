@@ -1,6 +1,6 @@
 # Paediatric Sedation
 
->Airway: Own  
+>Airway: Own\
 >Access: 
 >Pain: 
 >Position:
@@ -19,7 +19,7 @@ Sedation outside the operating theatre is commonly required for:
 
 * Appropriate for in-patient vs. outpatient sedation
 	* Outpatient usually appropriate for ASA I-II
-	* Infants under 1 year of age are particularly sensitive  
+	* Infants under 1 year of age are particularly sensitive\
 	Usually not appropriate for outpatient sedation.
 
 

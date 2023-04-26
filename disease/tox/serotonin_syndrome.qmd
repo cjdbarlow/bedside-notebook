@@ -14,17 +14,17 @@ Drug-induced over-stimulation of serotonin receptors in CNS. Serotonin syndrome 
 * Potentially fatal
 * Largely avoidable
 * Subdivided into:
-	* Mild  
+	* Mild\
 	May be difficult to distinguish from underlying medical conditions, or supra-therapeutic use of an SSRI. Symptoms include:
 		* Brisk reflexes, inducible clonus
 		* Insomnia, anxiety
 		* Nausea, diarrhoea, hypertension, tachycardia
-	* Moderate  
+	* Moderate\
 	May occur with overdose of single agent, or ↑ therapeutic doses. Symptoms include:
 		* Sustined clonus, ocular clonus
 		* Agitation
 		* Mydriasis, diaphoresis, fever ⩽38.5
-	* Severe  
+	* Severe\
 	Potentially fatal.
 		* Usually only occurs with two or more serotonergic drugs
 		* Usually requires one monoamine oxidase inhibitor
@@ -46,9 +46,9 @@ Careful and detailed drug history is essential:
 * Many drugs influence serotonergic neurotransmitters
 * Many drugs listed with serotonin syndrome as a side effect will rarely cause
 * Many contributing drugs have:
-	* Persistent activity  
+	* Persistent activity\
 	e.g. Irreversible MAO.
-	* Long half-lives  
+	* Long half-lives\
 	May have been stopped weeks prior.
 * Use of herbal remedies
 * Use of illicit substances
@@ -62,18 +62,18 @@ Presentation:
 	* ↑ in dose of serotonergic drug
 	* Addition of a second sertonergic drug
 * **Classic triad** of:
-	* **Neuromuscular excitation**  
+	* **Neuromuscular excitation**\
 	Hyperreflexia, myoclonus, rigidity.
 		* **Generalised clonus** is classical, and may be:
-			* Inducible  
+			* Inducible\
 			Ankle dorsiflexion.
-			* Spontaneous  
+			* Spontaneous\
 			Generally rhythmic, large muscle contractions triggered by minor stimulus.
-			* Ocular  
+			* Ocular\
 			May be fine or coarse gaze oscillations.
-	* **Autonomic nervous system excitation**  
+	* **Autonomic nervous system excitation**\
 	Nausea, diarrhoea, hypertension, tachycardia, hyperthermia, severe hyperthermia.
-	* **Altered mental state**  
+	* **Altered mental state**\
 	Insomnia, anxiety, agitation, confusion, coma.
 * **Severe serotonin toxicity** is characterised by:
 	* Rapid hyperthermia
@@ -83,24 +83,24 @@ Presentation:
 
 Hunter Serotonin Toxicity Criteria:
 
-* Sertonergic agent  
+* Sertonergic agent\
 Dose ↑, overdose, or new agent.
 	* Spontaneous clonus
-		* Yes  
+		* Yes\
 		Serotonin toxicity.
-		* No  
+		* No\
 		Inducible clonus *or* Ocular Clonus?
-			* Yes  
+			* Yes\
 			Agitation *or* diaphoresis *or* (hypertonia and temperature ⩾38°C)?
-				* Yes  
+				* Yes\
 				Serotonin toxicity.
-				* No  
+				* No\
 				Go to tremor and hyperreflexia.
-			* No  
+			* No\
 			Tremor *and* hyperreflexia?
-				* Yes  
+				* Yes\
 				Serotonin toxicity.
-				* No  
+				* No\
 				No serotonin toxicity.
 
 ### Drugs Associated with Moderate to Severe Serotonin Toxicity
@@ -171,9 +171,9 @@ Diagnosis is clinical. Investigations usually targeted towards ruling out other 
 
 Bloods:
 
-* UEC/CMP  
+* UEC/CMP\
 Rhabdomyolysis.
-* Coagulation screen  
+* Coagulation screen\
 DIC.
 
 Imaging:
@@ -182,7 +182,7 @@ Imaging:
 
 Other:
 
-* LP  
+* LP\
 Encephalitis.
 * EEG
 
@@ -207,19 +207,19 @@ Principles of management:
 		* Sedation
 			* Reduces musclea activity
 	* E
-		* Prevent hyperthermia  
+		* Prevent hyperthermia\
 			* Beneficial as:
 				* Reduces complications
 				* Down regulates 5-HT~2a~ receptors
 			* Methods:
 				* Active cooling
 				* Paralyis and ventilation
-* Specific agents  
+* Specific agents\
 In severe cases, seek toxicology advice:
 	* Chlorpromazine
 		* Most commonly used
 		* Requires pre-load with IV fluid
-	* Cyproheptadine  
+	* Cyproheptadine\
 	Serotonin and histamine antagonist.
 		* No significant differences in severe cases in a retrospective review
 
@@ -248,7 +248,7 @@ Mild:
 	* Drug interactions
 * Moderate:
 	* Usually resolves over 1-3 days following cessation
-* Severe  
+* Severe\
 Medical emergency. Requires:
 	* Aggressive supportive care
 	* Consideration of specific reversal agents

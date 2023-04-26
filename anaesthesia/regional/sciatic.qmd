@@ -2,7 +2,7 @@
 
 Blockade provides anaesthesia to:
 
-* Majority of lower leg (including motor)  
+* Majority of lower leg (including motor)\
 **Excluding** areas supplied by the saphenous nerve, i.e. **medial leg, ankle, and foot**.
 
 
@@ -14,7 +14,7 @@ Can be used:
 	* Knee surgery
 * Anaesthesia for:
 	* Foot and ankle surgery
-	* Knee surgery  
+	* Knee surgery\
 	Requires concomitant femoral nerve block.
 
 ## Contraindications
@@ -41,21 +41,21 @@ Can be used:
 
 Indication determines level to be blocked:
 
-* Proximal  
+* Proximal\
 Hip surgery.
-* Mid-thigh/bifurcation  
+* Mid-thigh/bifurcation\
 Knee/foot/ankle surgery.
 
 
 ### Lateral Approach
 
-* Position  
+* Position\
 Can be:
-	* Semi-prone  
+	* Semi-prone\
 	For all approaches.
-	* Supine with hip and knee flexed  
+	* Supine with hip and knee flexed\
 	For mid-distal approaches.
-	* Oblique  
+	* Oblique\
 	For mid-distal approaches.
 * Place probe on posterior thigh
 * Identify sciatic nerve
@@ -67,11 +67,11 @@ Can be:
 * Standard prep, drape, skin anaesthesia, etc
 * Perform block:
 	* Whilst scanning the posterior thigh, insert the needle IP through the lateral thigh
-	* Insert the needle anterior to the probe, such that the needle is heading directly towards the lateral edge of the nerve  
+	* Insert the needle anterior to the probe, such that the needle is heading directly towards the lateral edge of the nerve\
 	i.e. if the nerve is 5cm deep on ultrasound, insert the needle 5cm anterior to the probe position.
-	* Aim to inject within the common epineurium of the sciatic nerve  
+	* Aim to inject within the common epineurium of the sciatic nerve\
 	Separate blocks of the tibial and common peroneal nerves can be performed if required.
-	* Aspirate and inject 1-2ml of LA to confirm location  
+	* Aspirate and inject 1-2ml of LA to confirm location\
 	High pressure suggests intraneural injection - stop.
 	* Inject remainder of LA
 
@@ -81,7 +81,7 @@ Can be:
 The anterior approach is:
 
 * Better for analgesia post TKR
-* Not well suited for catheter insertion  
+* Not well suited for catheter insertion\
 Deep, and traverses several muscles.
 
 
@@ -92,7 +92,7 @@ Deep, and traverses several muscles.
 * Identify sciatic nerve at the medial edge of the femur
 	* Lies between the planes of adductor magnus and hamstrings
 	* Probe may need to be angled medially
-* Perform block:  
+* Perform block:\
 OOP approach is typically easier than IP approach:
 	* Identification of needle may be difficult
 	* Walk needle off medial edge of femur
@@ -100,7 +100,7 @@ OOP approach is typically easier than IP approach:
 	* Confirm needle position with:
 		* Stimulator
 		* Jiggling
-		* Cautious aspiration and injection  
+		* Cautious aspiration and injection\
 		Don't advance needle if injectate is not seen when OOP technique used.
 	* Apirate and inject remainder of LA
 

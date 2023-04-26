@@ -15,21 +15,21 @@ Involuntary contraction of the laryngeal muscles, resulting in closing of the vo
 Immediately:
 
 * Cease painful stimulation
-* Prepare for intubation  
+* Prepare for intubation\
 Delegate person to assemble drugs and airway equipment.
 
 * Provide 100% oxygen
 * Remove airway devices 
 In mild laryngospasm (without total obstruction) it may be reasonable to attempt to break laryngospasm with the LMA in situ.
-* Provide CPAP 30cmH~2~O  
+* Provide CPAP 30cmH~2~O\
 This aims to stent open the airway.
-	* Typically via face mask  
+	* Typically via face mask\
 	Ensure optimal position, consider use of airway adjuncts.
-	* Deliver low tidal volume ventilation if able via short, sharp squeezes on the bag  
+	* Deliver low tidal volume ventilation if able via short, sharp squeezes on the bag\
 	**Forced inflation will worsen obstruction if there is complete glottic occlusion**.
 * Suction airway
-* Consider applying painful pressure bilaterally on Larson's point, which *may* break laryngospasm  
-Between mastoid process and posterior edge of mandible, applying pressure anteriorly and medially.  
+* Consider applying painful pressure bilaterally on Larson's point, which *may* break laryngospasm\
+Between mastoid process and posterior edge of mandible, applying pressure anteriorly and medially.\
 
 :::column-margin
 ![Larson's Point](/resources/larson.png)
@@ -37,20 +37,20 @@ Between mastoid process and posterior edge of mandible, applying pressure anteri
 
 Then:
 
-* If SpO~2~ >92%, or if desaturation is expected to occur rapidly (obese, children)  
+* If SpO~2~ >92%, or if desaturation is expected to occur rapidly (obese, children)\
 Deepen anaesthesia or relax the patient:
 	* Suxamethonium 0.5mg/kg
-	* Propofol ~20% of induction dose  
+	* Propofol ~20% of induction dose\
 	Effective in ~80% of cases.
 		* Deepens anaesthesia
 		* Suppresses reflexes
-	* Overpressure sevoflurane  
+	* Overpressure sevoflurane\
 	If airway patent enough to ventilate.
 
 
-* If SpO~2~ <92%  
+* If SpO~2~ <92%\
 Procede directly to intubation:
-	* Suxamethonium 1-2mg/kg  
+	* Suxamethonium 1-2mg/kg\
 	IM is appropriate if an IV route is not available.
 
 ### Controversial Treatments
@@ -65,14 +65,14 @@ Lignocaine has been described to reduce coughing and laryngospasm:
 
 Laryngospasm is common (~9 per 1000 anaesthetics) and is associated with:
 
-* Light anesthesia  
+* Light anesthesia\
 On induction and emergence.
-* **Children**  
+* **Children**\
 Double risk relative to adults (~18/1000 cases), greatest in preschool age groups.
 * Airway contamination and stimulation:
-	* ENT surgery  
+	* ENT surgery\
 	~20/1000 cases.
-	* Oral secretions  
+	* Oral secretions\
 	Worse with recent URTI.
 	* Blood
 	* Foreign body
@@ -86,11 +86,11 @@ Airway protection is a function of the larynx. The protective nature of the lary
 
 Mechanics of laryngospasm can be divided into:
 
-* Inspiratory stridor  
+* Inspiratory stridor\
 Occurs passively due to reduced aductor muscle tone.
-* Expiratory stridor  
+* Expiratory stridor\
 Due to active adduction of the cords.
-* Ball-Valve obstruction  
+* Ball-Valve obstruction\
 Due to closure of the true cords, the false cords, and the supraglottic tissues.
 	* In this mechanism, **positive pressure may worsen obstruction** as distension of the pyriform fossae press the aryepiglottic folds more firmly against each other
 	* Jaw thrust is more effective in correcting obstruction via this mechanism (though paralysis is still often required)
@@ -102,17 +102,17 @@ Laryngospasm should be suspected whenever there is airway obstruction with poten
 
 Laryngospasm presents with:
 
-* Stridor  
+* Stridor\
 If airway is not completely occluded.
 * Respiratory distress
 	* Tachypnoea
-	* Chest retraction  
+	* Chest retraction\
 	Due to very negative inspiratory airway pressures.
-* Hypoxia  
+* Hypoxia\
 May occur due to:
 	* Impaired ventilation
 	* Negative pressure pulmonary oedema
-* Bradycardia and arrrest  
+* Bradycardia and arrrest\
 Secondary to hypoxia.
 
 
@@ -132,7 +132,7 @@ Once laryngospasm is broken:
 
 * Consider deflating the stomach with an OGT prior to extubation
 * Ensure deep anaesthesia for duration of muscle relaxation
-* Ensure extubation only when the patient is fully awake  
+* Ensure extubation only when the patient is fully awake\
 Prior to extubation, perform an **artificial cough**:
 	* Single lung inflation with 100% O~2~ prior to extubation
 		* Delays desaturation
@@ -144,7 +144,7 @@ Laryngospasm will break with **severe hypoxia**, but this may only occur after:
 
 * Bradycardia and arrest, and death
 * Aspiration
-* Pulmonary oedema  
+* Pulmonary oedema\
 Negative pressure pulmonary oedema secondary to inspiratory efforts against a closed glottis.
 
 

@@ -12,7 +12,7 @@ VTE is a common cause of morbidity and mortality in the surgical population.
 Must factor in:
 
 * Risk of **thrombosis versus** risk of **bleeding**
-* Surgical factors  
+* Surgical factors\
 Major determinant.
 * Patient factors
 
@@ -112,7 +112,7 @@ Moderate VTE risk and Low bleeding risk:
 
 High VTE Risk and Low bleeding risk:
 
-* Combined mechanical and pharmacological prophylaxis  
+* Combined mechanical and pharmacological prophylaxis\
 Additional benefit suggested by combining methods, but evidence is poor.
 
 

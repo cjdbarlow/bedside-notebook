@@ -23,27 +23,27 @@ Patients undergo a number of physiological changes following a spinal cord injur
 Presence and severity of symptoms depends on height of injury.
 
 * B
-	* Pneumonia  
+	* Pneumonia\
 	Impaired expectoration.
-	* Reduced TLC, FRC  
+	* Reduced TLC, FRC\
 	Rapid desaturation with anaesthetic induction.
-	* Assisted ventilation  
+	* Assisted ventilation\
 	Required by some patients.
 * C
-	* Coronary artery disease  
+	* Coronary artery disease\
 	3-10x ↑ prevalence, due to ↑ risk factors.
 	* Atypical ischaemic symptoms
 	* Hypovolaemia
-	* Bradycardia  
-	RHR of 50-60.  
+	* Bradycardia\
+	RHR of 50-60.\
 * D
-	* Chronic pain  
+	* Chronic pain\
 	Present in ~60%.
 * E
-	* Pressure area care  
+	* Pressure area care\
 	Pressure ulcers are common.
 * H
-	* Anaemia  
+	* Anaemia\
 	Prevalent in ~50%>
 
 ### Anaesthetic Considerations
@@ -54,10 +54,10 @@ Presence and severity of symptoms depends on height of injury.
 	* Consider induction with vasopressor infusion
 	* Arterial line
 	* MAP within 20% of baseline
-	* Pulmonary oedema with overfilling  
+	* Pulmonary oedema with overfilling\
 	Heart reliant on the Starling mechanism to ↑ cardiac output.
 * D
-	* Anaesthetic technique  
+	* Anaesthetic technique\
 	Consider [autonomic dysreflexia](/management/cns/autonomic-dysreflexia.md).
 	* Sensitivity to sedatives
 * E

@@ -15,14 +15,14 @@ Epidemiology:
 
 Risk factors:
 
-* Surgery  
+* Surgery\
 Single most important risk factor, although varies with type of surgery.
 * Immobility
 * Hospitalisation
 * Malignancy
-* OCP use  
+* OCP use\
 4-fold risk.
-* Factor V Leiden  
+* Factor V Leiden\
 7-fold risk.
 
 ## Pathophysiology
@@ -31,28 +31,28 @@ Thrombi:
 
 * Develop in regions of reduced flow:
 	* Commonly around valve pockets
-	* Due to venous stasis  
+	* Due to venous stasis\
 	Two types of venous flow:
-		* Continuous venous flow  
+		* Continuous venous flow\
 		Laminar flow due to *vis a tergo*, and dependent on organ flow. May be impaired by venous outflow obstruction:
 			* Positioning
 			* Tissue oedema
-		* Intermittent flow  
+		* Intermittent flow\
 		Due to muscular pump, and important in preventing stasis in valve pockets. Impaired by:
 			* General anaesthesia
 			* Bed rest
-* Initially consist of 'red clots'  
+* Initially consist of 'red clots'\
 Predominantly RBCs and fibrin, and are key in clot formation.
-	* White clot forms as platelet and leukocyte layers accumulate  
+	* White clot forms as platelet and leukocyte layers accumulate\
 	These components are key in clot propagation.
 
 
 Valve function is dependent on normal endothelial function:
 
 * Venous valves secrete:
-	* Greater amounts of anti-coagulant factors  
+	* Greater amounts of anti-coagulant factors\
 	Thrombomodulin, endothelial cell protein C receptor.
-	* Lower amounts of procoagulant factors  
+	* Lower amounts of procoagulant factors\
 	ul-VWF.
 
 ### Aetiology
@@ -78,7 +78,7 @@ Methods include:
 * Mechanical
 	* Minimise non-pulsatile flow
 		* Early ambulation after surgery
-		* Regular foot and calf exercises  
+		* Regular foot and calf exercises\
 		At least every 2 hours.
 	* Intermittent pneumatic compression devices
 		* Cornerstone of prevention
@@ -94,13 +94,13 @@ Methods include:
 			* Deformity
 			* Pressure injury
 			* Peripheral neuropathy
-	* Graduated Compression Stockings  
+	* Graduated Compression Stockings\
 	Provide no benefit when used **in addition to** pharmacological prophylaxis.
-		* May still be indicated in other settings  
+		* May still be indicated in other settings\
 		e.g. Heart failure.
 		* Should not be worn under intermittent pneumatic compressors
 		* Should only be applied in high risk patients, with a contraindication to pharmacological prophylaxis, and pneumatic compressors are not available or contraindicated
-	* Inferior vena caval filters  
+	* Inferior vena caval filters\
 	Can be considered if pharmacological prophylaxis is contraindicated and there is either a:
 		* Spinal cord injury
 		* Major pelvic fracture
@@ -108,11 +108,11 @@ Methods include:
 
 
 
-* Pharmacological  
+* Pharmacological\
 Institution of pharmacological prophylaxis needs to be tailored to bleeding risk.
 	* Aspirin
 		* Anti-platelet effect limits clot propagation
-		* Reduced bleeding and infectious complications compared with anticoagulants  
+		* Reduced bleeding and infectious complications compared with anticoagulants\
 		May not be additive with anticoagulants.
 		* May be as effective as warfarin in LMWH
 	* Enoxaparin
@@ -121,7 +121,7 @@ Institution of pharmacological prophylaxis needs to be tailored to bleeding risk
 			* Usual: 40mg SC daily
 			* CrCl <30ml/min: 20mg daily
 			* Weight <50kg: 20mg daily
-			* Weight >130kg: 60mg daily or 40mg BD  
+			* Weight >130kg: 60mg daily or 40mg BD\
 			Consider seeking haematological advice.
 	* UFH
 		* Reasonable alternative to LMWH in patients with renal insufficiency
@@ -139,7 +139,7 @@ Institution of pharmacological prophylaxis needs to be tailored to bleeding risk
 
 Into high-risk and low-risk of clotting, by inpatient type:
 
-* Medical patient  
+* Medical patient\
 High risk
 	* Age > 60
 	* Ischaemic CVA

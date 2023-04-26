@@ -3,7 +3,7 @@
 
 Clinically diverse disease consisting of variable LV hypertrophy. May lead to:
 
-* **Dynamic LVOT obstruction**  
+* **Dynamic LVOT obstruction**\
 Present in 20-30% of patients, may precipitate sudden cardiac death.
 * Diastolic dysfunction
 * Systolic dysfunction
@@ -57,11 +57,11 @@ Presentation may be:
 
 Echocardiography:
 
-* LV hypertrophy  
+* LV hypertrophy\
 May be:
 	* Eccentric or concentric
 	* Diffuse or focal
-* LVOT gradient  
+* LVOT gradient\
 Gradient >70% is present in most patients at rest or with exercise.
 
 ## Management
@@ -74,7 +74,7 @@ Medical management of dynamic obstruction:
 * Non-dihydropyridine calcium channel blockers
 	* Verapamil
 * Positioning
-	* Fontan position ↑ preload and reduces afterload  
+	* Fontan position ↑ preload and reduces afterload\
 	Squatting or supine with hips and knees flexed.
 
 Procedural:
@@ -87,15 +87,15 @@ Procedural:
 * C
 	* Arterial line
 	* 5-lead ECG
-	* Dynamic LVOT obstruction  
-		* Maintain sinus rhythm  
+	* Dynamic LVOT obstruction\
+		* Maintain sinus rhythm\
 		Aggressive treatment of arrhythmia.
 		* Low-normal heart rate
 		* Maintain or ↑ preload
-		* Maintain or ↑ afterload  
+		* Maintain or ↑ afterload\
 			* Vasopressors
 			* Prepare for anaesthetic vasodilation
-		* ↓ Inotropy  
+		* ↓ Inotropy\
 		Volatile is excellent choice.
 
 ### Marginal and Ineffective Therapies
@@ -104,7 +104,7 @@ Procedural:
 
 ## Prognosis
 
-* Related to degree of LVOT obstruction  
+* Related to degree of LVOT obstruction\
 
 ## Key Studies
 

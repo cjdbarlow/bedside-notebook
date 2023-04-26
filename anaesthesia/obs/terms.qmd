@@ -51,7 +51,7 @@ Deliberate breaking of amniotic membranes surrounding foetus. AROM:
 
 * Also known as amniotomy
 * Indications include:
-	* Induce or augment labour  
+	* Induce or augment labour\
 	With or without oxytocin infusion.
 	* Perform foetal measurements
 		* Apply foetal scalp electrode
@@ -59,13 +59,13 @@ Deliberate breaking of amniotic membranes surrounding foetus. AROM:
 	* Assess composition of liquor in presence of abnormal [FHR](#fhr)
 * Benefits:
 	* Reduced length of labour
-	* Reduced oxytocin requirement  
+	* Reduced oxytocin requirement\
 	For augmented labour.
 	* Allow liquor assessment
 * Complications:
 	* Cord prolapse
 	* Rupture of vasa praevia
-	* Infection  
+	* Infection\
 	Proportional to number of subsequent VE's.
 	* Pain
 
@@ -107,11 +107,11 @@ Where the [presenting part](#pp) is the bottom or feet. Breech presentations are
 * Sometimes able to be converted to a cephalic presentation with [ECV](#ecv)
 * Safest delivered via caesarian section
 * Subdivided into:
-	* Frank (extended) breech  
+	* Frank (extended) breech\
 	Feet are next to ears with hips flexed and knees extended.
-	* Complete (flexed) breech  
+	* Complete (flexed) breech\
 	Foetus is cross-legged.
-	* Footling breech  
+	* Footling breech\
 	One or both feet are the presenting part.
 
 ## Cephalopelvic Disproportion - CPD
@@ -126,11 +126,11 @@ Prolapse of umbilical cord through an open cervix in advance of the [presenting 
 Requires rapid intervention and commonly operative delivery. Broadly, management consists of:
 	* Minimising cord impingement
 		* Replacing cord into vagina
-		* Elevating the presenting part  
+		* Elevating the presenting part\
 		* Tocolysis
 	* Assisted vaginal birth may be considered if cervix is dilated and presenting part is engaged
 	* Emergency [caesarian section](/anaesthesia/obs/luscs.md) is required if foetus is viable and unable to deliver vaginally.
-* Occurs in 0.2-0.4% of births  
+* Occurs in 0.2-0.4% of births\
 About half are iatrogenic, due to:
 	* [AROM](#arom)
 	* [ECV](#ecv)
@@ -145,9 +145,9 @@ About half are iatrogenic, due to:
 	* Pelvic tumours
 	* Abnormally long umbilical cord
 * Differs from:
-	* Umbilical cord presentation  
+	* Umbilical cord presentation\
 	Umbilical cord lies in front of the presenting part, but the membranes are intact.
-	* Occult umbilical cord prolapse  
+	* Occult umbilical cord prolapse\
 	Cord lies trapped beside the presenting part.
 
 ## Cartiotocograph - CTG
@@ -158,19 +158,19 @@ Electronic measurement of foetal heart rate and uterine tone.
 
 Tightening and shorterning of uterine muscle, causing the cervix to shorten and foetus to move into the birth canal. Key terms:
 
-* Number of contractions  
+* Number of contractions\
 Quantified as number per 10 minutes, e.g. 4:10.
-	* Tachysystole is >5:10  
+	* Tachysystole is >5:10\
 	May be associated with ↑ foetal acidosis, and is associated with placental abruption.
-* Duration  
+* Duration\
 Time in seconds from onset to offset.
-* Relaxation time  
+* Relaxation time\
 Time in minutes and seconds between contractions.
-* Resting tone  
+* Resting tone\
 Intrauterine pressure during relaxation.
 	* Qualified as 'soft' or 'firm'
 	* Quantified in mmHg if transduced directly
-* Strength/intensity  
+* Strength/intensity\
 Intrauterine pressure during contaction.
 	* Qualified as 'mild', 'moderate', or 'strong'
 	* Quantified as peak pressure in mmHg if transduced directly
@@ -179,9 +179,9 @@ Intrauterine pressure during contaction.
 
 First stage of labour is defined by extent (in cm) of cervical dilation, and is divided into:
 
-* Latent phase  
+* Latent phase\
 Softening and shortening of cervix. Occurs from 0-3cm.
-* Active phase  
+* Active phase\
 Active labour from 3-10cm. Contractions become more active and dilation continues at 0.5-1cm/hr.
 
 ## External Cephalic Version - ECV {#ecv}
@@ -224,7 +224,7 @@ Bacteria which commonly colonises maternal vagina. GBS colonisation:
 	* Preterm labour
 	* PROM
 	* Chorioamnionitis
-	* Neonatal infection  
+	* Neonatal infection\
 	5% mortality from:
 		* Pneumonia
 		* Sepsis
@@ -246,7 +246,7 @@ Diabetes that occurs during pregnancy. GDM:
 	* IUGR
 	* Caesarian section
 * Treatment includes:
-	* Insulin  
+	* Insulin\
 	First line treatment as it does not cross the placenta.
 	
 
@@ -255,31 +255,31 @@ Diabetes that occurs during pregnancy. GDM:
 
 Summary of obstetric history:
 
-* Gravida  
+* Gravida\
 Number of pregnancies. NB:
 	* Includes curent pregnancy
 	* A twin pregnancy counts as 1
-* Parity  
+* Parity\
 Pregnancy carried to >20 weeks.
 
 Related terms:
 
-* Nulligravida  
+* Nulligravida\
 Woman who has never been pregnant.
-* Primigravida  
+* Primigravida\
 Woman with her first pregnancy.
-* Multigravida  
+* Multigravida\
 Woman who has had multiple pregnancies.
-* Nulliparous  
+* Nulliparous\
 Woman who has never delivered.
-* Primiparous  
+* Primiparous\
 Woman who has delivered once.
-* Multiparous  
+* Multiparous\
 Woman who has had multiple deliveries.
-* Grand multipara  
+* Grand multipara\
 Woman who has had 5 or more deliveries.
 
-## Hydrops Foetalis  
+## Hydrops Foetalis\
 
 Abnormal accumulation of fluid:
 
@@ -289,11 +289,11 @@ Abnormal accumulation of fluid:
 	* Pleural effusion
 	* Pericardial effusion
 * Classified into:
-	* Immune  
+	* Immune\
 	10-20% of cases.
-		* [Rhesus isoimmunisation](#rhesus)  
+		* [Rhesus isoimmunisation](#rhesus)\
 		High-output cardiac failure secondary to anaemia.
-	* Non-immune:  
+	* Non-immune:\
 		* Cardiac failure
 		* Venous obstruction
 		* Lymphatic obstruction
@@ -309,9 +309,9 @@ Abnormal accumulation of fluid:
 
 Estimated foetal weight that is **under the 10^th^ centile** on ultrasound:
 
-* Does not imply pathology  
+* Does not imply pathology\
 May be normal, but also associated with:
-	* Uteroplacental insufficiency  
+	* Uteroplacental insufficiency\
 	In turn associated with **severe pre-eclampsia**, which requires monitoring.
 	* Antepartum stillbirth
 	* Preterm delivery
@@ -326,9 +326,9 @@ Describes foetal scalp pH and lactate electrodes, providing indications of foeta
 
 Defined as birth weight < **2500g**. Related terms include:
 
-* Very low birth weight (VLBW)  
+* Very low birth weight (VLBW)\
 Weight < 1500g.
-* Extremely low birth weight (ELBW)  
+* Extremely low birth weight (ELBW)\
 Weight < 1000g.
 
 ## Kleihauer-Betke Test
@@ -349,15 +349,15 @@ Time of last menstrual period, used as a surrogate marker for when conception oc
 
 Collection of terms, including:
 
-* Complete miscarriage  
+* Complete miscarriage\
 Return to normal uterine size following passage of all products of conception. 
-* Inevitable Miscarriage  
+* Inevitable Miscarriage\
 Heavy vaginal bleeding with an open cervix and passage of products of conception.
-* Incomplete Miscarriage  
+* Incomplete Miscarriage\
 Failure to pass all products of conception.
 	* May require evacuation 
 	*Usually* requires **GA**. Blood loss may be substantial.
-* Threatened Miscarriage  
+* Threatened Miscarriage\
 Vaginal bleeding at < 20/40, in presence of a **viable foetus**. Threatened miscarriage is:
 	* First symptom of pregnancy in ~20%
 	* Suggested by small volume blood loss, minimal pain, a closed cervix, and presence of foetal heart sounds
@@ -366,7 +366,7 @@ Vaginal bleeding at < 20/40, in presence of a **viable foetus**. Threatened misc
 * Missed miscarriage
 Spontaneous abortion with the absence of vaginal bleeding, see [FDIU](#FDIU)
 	* Requires evacuation of products of conception
-* Septic Miscarriage  
+* Septic Miscarriage\
 Infection of retained products following an incomplete miscarriage.
 	* Suggested by pain, fever, discharge from an open cervix
 	* Requires cultures, antibiotics, resuscitation, and D&C
@@ -383,7 +383,7 @@ Where amniotic fluid volume is less than expected for gestational age. Oligohydr
 * Occurs in ~6% of pregnancies
 * Causes include:
 	* [FDIU](#fdiu)
-	* Renal abnormalities  
+	* Renal abnormalities\
 	↓ foetal urine output.
 	* [IUGR](#iugr)
 	* [PROM](#prom)
@@ -398,13 +398,13 @@ Where amniotic fluid volume is less than expected for gestational age. Oligohydr
 ## Presentations {#presentations}
 
 Position that the foetus sits in the birth canal. Includes:>
-* Cephalic  
+* Cephalic\
 Normal, head-first. Includes:
-	* Occiput Anterior (OA)  
+	* Occiput Anterior (OA)\
 	Includes left occiput anterior (LOA) and right occiput anterior (ROA).
-	* Occiput Posterior (OP)  
+	* Occiput Posterior (OP)\
 	Includes left occiput posterior (LOP) and right occiput posterior (ROP).
-	* Occiput Transverse  
+	* Occiput Transverse\
 	Includes left occiput transverse (LOT) and right occiput transverse (ROT).
 * [Breech](#breech)
 * Shoulder
@@ -415,18 +415,18 @@ Where amniotic fluid volume is greater than expected for gestational age. Polyhy
 
 * Occurs in ~1% of pregnancies
 * Causes include:
-	* Idiopathic  
+	* Idiopathic\
 	Majority.
-	* Maternal  
+	* Maternal\
 	60-65% of cases.
 		* GDM
 		* CHF
-	* Foetal  
+	* Foetal\
 	10-20% of cases.
-		* Neural tube defects  
+		* Neural tube defects\
 		Majority of foetal causes.
 		* Foetal macrosomia
-		* Gastrointestinal obstruction  
+		* Gastrointestinal obstruction\
 			* Upper GI atresia
 			* Abdominal wall defects
 		* Cervical masses
@@ -450,11 +450,11 @@ Rupture of the amniotic sac prior to onset of labour. May lead to:
 
 * Foetal:
 	* Premature birth
-	* Cord compression  
+	* Cord compression\
 	*See [cord prolapse](#cord).*
 	* Infection
 * Maternal:
-	* Placental abruption  
+	* Placental abruption\
 	*See [PPH](/obstetric/disease/obs/pph.md).*
 	* Endometritis
 
@@ -471,15 +471,15 @@ Pregnancy extending past 42 weeks.
 
 Refers to maternal Rhesus status, either RH(-) or RH(+). This is important as:
 
-* Rh(-) mothers may develop Anti-RH(+) if the foetus is RH(+)  
+* Rh(-) mothers may develop Anti-RH(+) if the foetus is RH(+)\
 Due to foetal-maternal transfer of blood.
-* May lead to haemolytic disease of the newborn  
+* May lead to haemolytic disease of the newborn\
 Anaemia may be:
-	* Mild  
+	* Mild\
 	Observation/phototherapy.
-	* Moderate  
+	* Moderate\
 	Exchange transfusion.
-	* Severe  
+	* Severe\
 	FDIU, [foetal hydrops](#hydrops).
 
 
@@ -520,7 +520,7 @@ Attempting normal vaginal delivery after previous caesarian. TOLAC is associated
 
 Successful vaginal delivery after previous caesarian.
 
-## Vasa Praevia  
+## Vasa Praevia\
 
 Where foetal vessels within the amniotic membrane cover or are close to the internal cervical os. May lead to foetal death due to hypovolamic shock if foetal vessels rupture when [ROM](#rom) occurs.
 
@@ -528,13 +528,13 @@ Where foetal vessels within the amniotic membrane cover or are close to the inte
 
 Birth via the vagina. Related terms include:
 
-* Spontaneous Vaginal Delivery (SVD)  
+* Spontaneous Vaginal Delivery (SVD)\
 Labor and delivery achieved without induction, assisted, or caesarian.
-* Induced Vaginal Delivery  
+* Induced Vaginal Delivery\
 Artificial induction of labor, *see [induction of labour](/disease/obstetrics/preg.md#induction)*.
 * Normal Vaginal Delivery (NVD)
 Vaginal delivery without caesarian.
-* Assited/Instrumented Vaginal Delivery (AVD)  
+* Assited/Instrumented Vaginal Delivery (AVD)\
 Vaginal delivery
 
 ## Vaginal Examination - VE

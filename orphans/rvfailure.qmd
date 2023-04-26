@@ -9,13 +9,13 @@ RV failure:
 
 The right ventricle is:
 
-* Relatively *in*sensitive to volume loads due to high compliance  
+* Relatively *in*sensitive to volume loads due to high compliance\
 Allows it to cope with a wide variety of filling volumes.
-* Relatively sensitive to pressure loads due to poor contractility  
+* Relatively sensitive to pressure loads due to poor contractility\
 Dilation and ↑ in RVEDP/CVP is seen when RV afterload/PVR ↑
-	* Results in progressive dilation and ↑ in EDP  
+	* Results in progressive dilation and ↑ in EDP\
 	Subsequent ↑ in LVEDP and ↓ in LVEDV, resulting in systemic hypotension, and a fall in RV coronary perfusion pressure: the RV "spiral of death".
-	* The (in this instance, maladaptive) homeostatic response to a falling cardiac output is tachycardia and volume preservation to try and maintain RV preload and normalise SV volume  
+	* The (in this instance, maladaptive) homeostatic response to a falling cardiac output is tachycardia and volume preservation to try and maintain RV preload and normalise SV volume\
 	This leads to worsening RV dilation, and further failure.
 
 ### Aetiology

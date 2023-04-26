@@ -15,9 +15,9 @@ Post-induction checklist:
 * Airway
 	* Intact
 * Breathing
-	* What are they breathing?  
+	* What are they breathing?\
 	Gases, FiO~2~.
-	* How are they breathing?  
+	* How are they breathing?\
 	Mode, pressure values.
 	* Is it adequate?
 * Circulation
@@ -49,7 +49,7 @@ Using Propofol & Remifentanil:
 * Begin and maintain remifentanil at 0.01μg/kg/min
 * Commence propofol TCI at Cp of 1μg/ml
 * When the propofol Ce reaches 0.5μg/ml, ↑ the Cp slowly
-* Goal is to have $$Ce - Cp \approx 0.5$$  
+* Goal is to have $$Ce - Cp \approx 0.5$$\
 This should ensure spontaneous ventilation maintained, though it takes quite some time to achieve.
 * Generally:
 	* Laryngoscopy is tolerated at Cp of 4μg/ml
@@ -61,7 +61,7 @@ This should ensure spontaneous ventilation maintained, though it takes quite som
 Using remifentanil:
 
 * 3-5μg/kg, up to ~250μg
-* Wait for the bradycardia  
+* Wait for the bradycardia\
 * Beware wooden chest
 * Will provide typically 3-4 minutes of apnoea
 
@@ -105,7 +105,7 @@ Propofol/Alfentanil TIVA:
 * Use a propofol TCI model (e.g. marsh model)
 * Add alfentanil to propofol syringe
 	* Add 1mg to first and second 50ml syringe
-	* Add 0.5mg to subsequent syringes  
+	* Add 0.5mg to subsequent syringes\
 	Up to ~5-6 syringes worth.
 * Titrate additional opioid (oxycodone, fentanyl) to respiratory rate
 
@@ -131,7 +131,7 @@ From volatile and remifentanil:
 
 Perform a CSE with:
 
-* Spinal  
+* Spinal\
 1ml 0.5% heavy bupivacaine and 20μg fentanyl.
 * Top up with 5ml 2% lignocaine to desired block height
 

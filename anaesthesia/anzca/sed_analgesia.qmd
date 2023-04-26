@@ -3,18 +3,18 @@
 
 Definitions:
 
-* Procedural sedation and analgesia  
+* Procedural sedation and analgesia\
 Drug-induced tolerance of uncomfortable or painful procedure.
 	* May include lack of memory
 	* Does not necessarily include lack of response to painful stimulation
-* Conscious sedation  
+* Conscious sedation\
 Drug-induced depression of consciousness, in which patients are able to response purposefully to commands or light tactile stimulation.
 	* Airway or cardiorespiratory support should only rarely be required
-* Deep sedation  
+* Deep sedation\
 Drug-induced depression of consciousness that readily progresses to the poijnt where consciousness is lost, and patients respond only to painful stimulation.
-* Analgesia  
+* Analgesia\
 Reduction or elimination of pain perception.
-* General anaesthesia  
+* General anaesthesia\
 Drug-induced state characterised by:
 	* Absence of purposeful response to any stimulus
 	* Loss of protective airway reflexes
@@ -24,7 +24,7 @@ Drug-induced state characterised by:
 Aims of sedation:
 
 * Enhance patient comfort whilst facilitating the procedure
-* Range of options may be required  
+* Range of options may be required\
 Options exist on a continuum and are not discrete stages.
 * Must be prepared to manage:
 	* Loss of airway patency
@@ -34,7 +34,7 @@ Options exist on a continuum and are not discrete stages.
 
 Requirements of sedation:
 
-* Adequate pre-anaesthetic consultation  
+* Adequate pre-anaesthetic consultation\
 Aiming to identify patients at ↑ risk of airway or cardiorespiratory compromise.
 * Facilities
 	* Room to perform resuscitation
@@ -45,10 +45,10 @@ Aiming to identify patients at ↑ risk of airway or cardiorespiratory compromis
 	* Bag-Mask Ventilator
 	* Airway equipment
 	* Resuscitation drugs
-	* Monitoring  
+	* Monitoring\
 	Including ETCO~2~.
 	* Access to ECG and defibrillator
-	* Oxygen  
+	* Oxygen\
 	100% oxygen if anaesthetic gases are used.
 * Training
 	* Minimum of three months full time equivalent of supervised training in procedural sedation or anaesthesia

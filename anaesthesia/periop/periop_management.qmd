@@ -28,7 +28,7 @@ OSA:
 	* History
 	* Platelet counts
 	* Coagulation assays
-* Anaemia  
+* Anaemia\
 Defined as Hb < 120 g/L for women and < 130 g/L for men.
 	* Iron deficiency anaemia should be treated with IV iron transfusion
 	* EPO supplementation should be used pre-operatively when other causes of anaemia are excluded/treated

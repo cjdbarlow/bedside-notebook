@@ -30,7 +30,7 @@ Major trauma is defined as:
 * Endocrine crises depend on the underlying condition (e.g. hypothyroidism) and a physiological stress (surgery, illness) that exacerbates that condition
 
 
-* AF is a disease of disorganised conduction  
+* AF is a disease of disorganised conduction\
 Does not relate to the presence or absence of P waves; but its relationship to the QRS.
 	* Degree of atrial activity is often seen, especially in V~1~
 	* Difficult to convert to sinus but easy to rate control
@@ -44,7 +44,7 @@ AF Mx:
 	* Anaemia
 	* TFTs
 * Fix
-* Control rate  
+* Control rate\
 Rate control better as less strokes than rhythm control (on warfarin, different now?).
 	* Rhythm control good for sick patients who need the atrial kick
 * Anticoagulate
@@ -66,7 +66,7 @@ Rate control better as less strokes than rhythm control (on warfarin, different 
 
 
 * Upward deflections in V1~1~ are (almost) always pathological
-	* RVH  
+	* RVH\
 	PHTN, PE.
 	* RV infarct
 	* Lead placement
@@ -74,10 +74,10 @@ Rate control better as less strokes than rhythm control (on warfarin, different 
 	* RBBB
 	* WPW
 
-* QRS duration is the speed of conduction through the myocardium  
+* QRS duration is the speed of conduction through the myocardium\
 Quantifies, to a degree, the ejection fraction.
 	* Short QRS; rapid & efficient conduction -> probable good ejection
-	* Prolonged QRS; slow conduction -> potentially bad conduction  
+	* Prolonged QRS; slow conduction -> potentially bad conduction\
 
 
 * LBBB should be evaluated pre-operatively some way, especially if new, and even if asymptomatic
@@ -88,13 +88,13 @@ Quantifies, to a degree, the ejection fraction.
 	* Exercise tolerance
 
 
-* RVOT VT spreads towards cardiac apex; has LBBB morphology  
+* RVOT VT spreads towards cardiac apex; has LBBB morphology\
 May be able to be managed medically.
 * VT with RBBB; LV source (usually myocardial scar from infarct)
 
 
 * CHB risk is related to escape rhythm
-	* Junctional escape suggests purkinje system intact and is relatively less urgent  
+	* Junctional escape suggests purkinje system intact and is relatively less urgent\
 	But should be done before anaesthesia.
 	* Ventricular escape suggests need for pacing
 
@@ -102,7 +102,7 @@ May be able to be managed medically.
 * WPW
 	* Pre-excitation = short PR interval
 	* Delta wave = slurring in first 50% of QRS
-	* Usually okay if not in AF  
+	* Usually okay if not in AF\
 	In AF, its like having VF - unfiltered pathway conducts all the atrial activity through to the ventricle.
 	* Requires class I drugs or DCC
 
@@ -147,7 +147,7 @@ PRBC transfusion incrementsS:
 ## Impact Brain Apnoea
 
 ## Cryoprecipitate & Transfusion
-* 10-250mg fibrinogen in each bag  
+* 10-250mg fibrinogen in each bag\
 Median 150mg.
 * Give calcium every second unit of blood
 
@@ -267,7 +267,7 @@ Ventriculoarterial coupling: Systole pressure energy conveted to elastic energy
 * Obtain two similar groups, treated identically, except for intervention vs control
 * Followed up identically
 * Statistical difference on a predefined outcome which is clinically relevant
-* Use CONSORT criteria when interpreting studies  
+* Use CONSORT criteria when interpreting studies\
 * 5 major questions:
 	* Should this study have been performed?
 		* Originality
@@ -277,7 +277,7 @@ Ventriculoarterial coupling: Systole pressure energy conveted to elastic energy
 
 ## Bias
 * Selection
-* Performance  
+* Performance\
 Difference in care outside of the intervention.
 * Detection
 * Attrition
@@ -312,7 +312,7 @@ John Reeves talk:
 * Diagnose based on osmoles
 * Treat based on volume
 * Urinary sodium is a function of the bodies impression of its volume state
-* Hiller Am J Med 1999 correcting sodium; rule of thumb; for every 3mmol/L ↑ in BSL the sodium will fall by 1  
+* Hiller Am J Med 1999 correcting sodium; rule of thumb; for every 3mmol/L ↑ in BSL the sodium will fall by 1\
 Corrected sodium useful to assess total volume deficit; e.g. in DKA, look at difference between corrected sodium and normal sodium, normal sodium deficit.
 * Acute kidney injuries, the urea and creatinine rise proportionally
 * Chronic kidney failure, the creatinine rises disproportionately to the urea
@@ -336,27 +336,27 @@ Liver function:
 ## Ethics
 Ethical practice:
 
-* Autonomy  
+* Autonomy\
 Right to make own decisions. Advanced care directive is to defend autonomy when they no longer have capacity.
-	* Opposite is paternalism  
+	* Opposite is paternalism\
 	Any restriction of a patients autonomy, motivated or presented as being justified by interest in the patients well-being.
-* Beneficence  
+* Beneficence\
 The duty to do the best for the patient.
 	* Duty to do good
-	* Difficult to decide what is best?  
+	* Difficult to decide what is best?\
 	Patient, doctor, hospital administration, etc.
-* Non-maleficence  
+* Non-maleficence\
 Duty to do no harm.
-	* Doctrine of double effect  
+	* Doctrine of double effect\
 	Intended good effect morally outweighs negative effects, provided that negative effect is not intended, even if it is foreseen. 
 		* The action itself must be morally indifferent or morally good
 		* The bad effect must not be the means by which the good effect is achieved
 		* The motive must be the achievement of the good effect
 		* The good effect must be at least equivalent in importance to the bad effet
-	* Can be tested with the **Sulmasy test**  
+	* Can be tested with the **Sulmasy test**\
 	e.g. IN palliative care; if the patient did not die as a result of my actions, would I feel I achieved what I set out to do? If no, then okay.
 * Justice
-	* Distribute justice  
+	* Distribute justice\
 	Fair distribution of scarce resources. Many ways to define fair:
 		* Equal share
 		* By need
@@ -364,13 +364,13 @@ Duty to do no harm.
 		* By contribution
 		* By merit
 		* By free-market exchanges
-	* Rights based justice  
+	* Rights based justice\
 	Respect for peoples rights.
-* Fidelity  
+* Fidelity\
 Act in ways that are loyal.
-	* Role fidelity  
+	* Role fidelity\
 	Act appropriately to your job.
-* Utility  
+* Utility\
 Greatest good for greatest number.
 
 
@@ -608,7 +608,7 @@ Ethics committee:
 		* Feasibility
 			* Funding
 			* Implementability
-		* Periodic review/Safety monitoring/interim analysis  
+		* Periodic review/Safety monitoring/interim analysis\
 		Data safety monitoring committee - separate.
 * Follow national statement on ethics in human research
 	* Research merit and integrity
@@ -654,7 +654,7 @@ MCQ and SAQ:
 * **ANZCA networks high yield**
 	* Anaesthesia learning module?
 * Review questions and vivas over the last 2 years; highly likely MCQs and SAQs will relate to these topics
-* One examiner marks each question  
+* One examiner marks each question\
 Random double-marker.
 	* Illegibility, spelling errors are penalised by examiner frustration
 * Questions aimed to be answered in ~8 minutes
@@ -692,7 +692,7 @@ Vivas:
 * Three areas to work through
 * Make decision and justify your management
 * Avoid diving too deep too soon
-* Admit ignorance if complex cases that you haven't done  
+* Admit ignorance if complex cases that you haven't done\
 "I haven't done this but I am aware of these issues (list), and would seek advice of a senior and experienced colleague"
 * Grab lifelines when offered
 * Don't dive into crisis mode inappropriately early; demonstrates not ready for independent practice
@@ -714,12 +714,12 @@ Not so good at:
 * Visualising
 	* PV
 	* Apex
-* Physiology  
+* Physiology\
 Requires anaesthetic and therefore changes physiology from patients usual loading conditions.
 	* Regurgitant lesions appear better due to reduced afterload
-	* Aortic stenosis  
+	* Aortic stenosis\
 	Appear less severe because reduced contractility.
-	* Grading severity  
+	* Grading severity\
 	Good at looking at WHY a lesion exists, once the physiology is graded on TTE.
 
 
@@ -747,17 +747,17 @@ Diastolic function assessment:
 	* Normal
 	* Grade I/impaired relaxation	
 	Relaxing more slowly than normal but no compensatory rise in LAP. Is normal in >65 year olds.
-	* Grade II/pseudonormal  
+	* Grade II/pseudonormal\
 	Slowly relaxing ventricle but some compensation by a moderate rise in LAP.
-	* Grade III/restrictive filling  
+	* Grade III/restrictive filling\
 	Severe relaxation failure accommodated by high LAP and LV remodelling.
-	* Grade IV/fixed  
+	* Grade IV/fixed\
 	Severe unfixable relaxation failure
 * Measurement
 	* Pulse wave doppler through tips of mitral valve leaflets
 	* Gives E/A
 		* E wave
-			* Pressure gradient between LA and LV  
+			* Pressure gradient between LA and LV\
 			High with:
 				* High LV negative pressure
 				* High LA filling pressure
@@ -786,7 +786,7 @@ Aortic stenosis:
 	* Probably the most accurate, barring issues with CW doppler (e.g. outflow tract obstruction)
 * AVA
 	* Derived from DI
-* MPG  
+* MPG\
 Can be a function bad AS (high gradient) or bad LV function (low gradient). Compare with DI and stress TTE?
 
 
@@ -807,7 +807,7 @@ Cerebral oximetry:
 * Algorithmically correct for saturation of extracranial blood
 * Values are derived mainly from venous blood and are independent of pulsatile blood flow
 * Use
-	* Collect baseline prior to induction  
+	* Collect baseline prior to induction\
 	Usual is 60-80%.
 	* Factors affecting oxygenation:
 		* Cerebral blood flow
@@ -1082,7 +1082,7 @@ Concerns relate to:
 * Dexamethasone is inadequate due to lack of mineralocorticoid activity
 * Children are more vulnerable
 * Risk factors
-	* Any comorbidity  
+	* Any comorbidity\
 	Any disease ↑ risk.
 	* Asthma
 	* Diabetes
@@ -1111,7 +1111,7 @@ Principles:
 
 Open disclosure consists of:
 
-* An apology  
+* An apology\
 Without speculation, or apportioning blame, and including the words "I am sorry".
 * A factual explanation of what happened
 * An opportunity for the patient, family, and carers to relate to the experience
@@ -1162,10 +1162,10 @@ TAVI:
 	* Positioned at the site of native AV
 * Echo
 	* Confirm diagnosis
-	* Assess LV  
+	* Assess LV\
 	Basal septal hhypertrophy ↑ difficulty.
 	* Measure aortic annular junction
-	* Distance from coronary ostia to aortic annulus  
+	* Distance from coronary ostia to aortic annulus\
 	<12mm is an issue with Sapien valves.
 	* Deployment
 		* Ventricular side of valve positioned at IVF but not esxtending past AMVL
@@ -1255,7 +1255,7 @@ Less useful views:
 
 Rheumatic MS:
 
-* Pressure half time  
+* Pressure half time\
 On long cycle
 
 MR:
@@ -1354,7 +1354,7 @@ Busse, Laurence W., Nicholas Barker, and Christopher Petersen. ‘Vasoplegic Syn
 
 * Norad; avoid higher than 0.5ug/kg/min
 * Vasopressin
-* Methylene blue 1-2mg/kg  
+* Methylene blue 1-2mg/kg\
 Contraindications:
 	* G6PD deficiency
 	* SSRI/SNRI/MAOI preop
@@ -1607,22 +1607,22 @@ Structure:
 * Two 20 minute vivas
 	* 2 minutes reading time
 		* Stem
-		* Medication list  
+		* Medication list\
 		Provided on door and in the room of the *viva voce*.
-	* 9 minutes history and examination  
+	* 9 minutes history and examination\
 		* There will be a timer in the room
 		* Warning when 7 of the 9 minutes has elapsed
-	* 9 minutes *viva voce*  
+	* 9 minutes *viva voce*\
 	Synthesise and present findings.
 * Is **not** a preanaesthetic anaesthetic
-* Focuses on understanding of medical disease  
-Particularly assessing **severity** and **stability** of disease.  
+* Focuses on understanding of medical disease\
+Particularly assessing **severity** and **stability** of disease.\
 * Only point in examination process where interaction with a patient is demonstrated
 
 
 Fundamentals:
 
-* Time management  
+* Time management\
 4.5 minutes for history, 4.5 minutes for examination.
 * Assess severity and stability
 	* Functional impact
@@ -1637,16 +1637,16 @@ Tips:
 	* Clipboard\
 	If you like.
 * History
-	* Have a nice way to interrupt the patient  
+	* Have a nice way to interrupt the patient\
 	"I have a limited time today, so I may interrupt you."
 	* Ask the patient their diagnosis
 	* Be kind
 * Examination
-	* Wash your hands  
+	* Wash your hands\
 	You won't fail if you don't.
 	* Don't hurt the patient
 	* Position the patient how you wish
-	* Breast exposure can be fraught  
+	* Breast exposure can be fraught\
 	Comment that you would normally examine the whole chest, and ask the patient if they can lower the gown to above the nipple line - let the patient make the decision.
 	* If the patient has been diagnosed with a murmur but you cannot hear one, consider a diastolic murmur
 * Practice interpreting common investigations
@@ -1654,7 +1654,7 @@ Tips:
 	* CXR
 	* ABG
 	* PFTs
-	* TTE  
+	* TTE\
 	Read the summary initially, and then the raw values if these don't answer your question.
 
 Pitfalls:
@@ -1669,12 +1669,12 @@ Pitfalls:
 	* Failure to expose the patient
 	* Failure to ask observations
 	* Not systematic
-	* *In*appropriately detailed  
+	* *In*appropriately detailed\
 	e.g. Spending evaluating for peripheral stigmata of endocarditis, without history pointing towards this.
 * Summary/presentation
 	* Not concise
 	* Does not address severity and stability
-	* Poor selection of investigations  
+	* Poor selection of investigations\
 	Asking for 'routine' investigations, rather than targeted and high-yield investigations.
 	* Poor interpretation of investigations
 	* Poor integration of investigations to history and examination
@@ -1694,11 +1694,11 @@ Assessment:
 
 Present:
 
-* Demographic details  
+* Demographic details\
 Age, sex.
-* Stability and severity of disease  
+* Stability and severity of disease\
 Use a scoring system or give a general impression.
-* History and examination findings supporting severity grading  
+* History and examination findings supporting severity grading\
 Relevant positive and negatives.
 * Complications and common comorbidities
 * Risk factors
@@ -1715,7 +1715,7 @@ Organ systems affected:
 	* V/Q mismatch\
 	Reduces HPV, and therefore may lead to surplus blood flow to marginally ventilated lung units. This can lead to an ↑ in PaCO~2~ in patients with borderline ventilatory function.
 	* Haldane effect
-	↑ in FiO~2~ ↓ the CO~2~ buffering capacity of Haem ogle in, potentially ↑ PaCO~2~.  
+	↑ in FiO~2~ ↓ the CO~2~ buffering capacity of Haem ogle in, potentially ↑ PaCO~2~.\
 	* Absorption atelectasis
 * D
 	* ↓ cerebral blood flow
@@ -1726,7 +1726,7 @@ Organ systems affected:
 * F
 	* ↓ renal blood flow
 * G
-	* ↓ splanchnic blood flow  
+	* ↓ splanchnic blood flow\
 
 
 

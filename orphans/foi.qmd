@@ -4,13 +4,13 @@
 Technique to secure a **a non-emergent** definitive airway in a patient who has **expected difficult** laryngoscopy. May be:
 
 * Nasal
-	* Better tolerated  
+	* Better tolerated\
 	Avoids gag reflex; though this can be overcome with good topicalisation.
-	* Risk of bleeding  
+	* Risk of bleeding\
 	Relatively **contraindicated** in the acute setting or if presence of airway compromise.
 * Oral
 	* Require better topicalisation
-	* Essentially requires an adjunct to be effective  
+	* Essentially requires an adjunct to be effective\
 	Ovassapian or Berman.
 
 
@@ -31,9 +31,9 @@ Contraindications:
 * Absolute
 	* Lack of skill, assistance, or equipment
 	* Near-total upper airway obstruction
-	* Patient refusal  
+	* Patient refusal\
 	For AFOI.
-	* Uncooperative patient  
+	* Uncooperative patient\
 	For AFOI.
 * Relative contraindications
 	* Inability to tolerate apnoea
@@ -44,7 +44,7 @@ Contraindications:
 
 Key equipment:
 
-* Bronchoscope  
+* Bronchoscope\
 Sized appropriately to tube.
 * ETT
 	* Sizing
@@ -54,7 +54,7 @@ Sized appropriately to tube.
 		* Small enough to:
 			* Fit through the nose (if nasal)
 			* Minimise the gap between tube and scope
-	* PVC tubes  
+	* PVC tubes\
 		* Appropriate for ICU/long-term intubation
 		* Not appropriate for nasal intubation
 	* Reinforced
@@ -73,11 +73,11 @@ Sized appropriately to tube.
 		* Long enough even if using small tubes
 		* Pre-formed curve makes it harder to manipulate during railroading
 * Oral intubation aids
-	* Ovassapian  
+	* Ovassapian\
 	Keeps scope in midline.
 		* Single size
 		* ↑ failure rate compared to Berman
-	* Berman  
+	* Berman\
 	Keeps scope in midline and flange allows adjustment of view.
 		* Multiple sizes
 
@@ -101,15 +101,15 @@ Positioning:
 
 >Many different recipes exist; many are equally good but all require:
 >* Explanation
->* Sedation  
+>* Sedation\
 >Supplemental oxygen should always be provided. Sedation is **not a substitute for topicalisation**.
->* Topicalisation  
+>* Topicalisation\
 >With:
->	* Antisialagogue  
+>	* Antisialagogue\
 >	Aids visualisation and improves local anaesthetic efficacy.
->	* Vasoconstriction  
+>	* Vasoconstriction\
 >	Improves visualisation, opens up nasal passages, reduces bleeding, reduces systemic LA absorption.
->	* Local anaesthetic  
+>	* Local anaesthetic\
 >	Improves tolerability. Sedation is **not required** if good topicalisation is performed.
 
 
@@ -122,20 +122,20 @@ Explanation:
 
 Sedation:
 
-* Oxygenate  
-	* High flow nasal prongs  
+* Oxygenate\
+	* High flow nasal prongs\
 	If oral FOI.
-	* Nasal cannula  
+	* Nasal cannula\
 	Through opposite nostril if nasal FOI.
-	* Through suction port of bronchoscope  
+	* Through suction port of bronchoscope\
 	10L/min helpful to oxygenate and clear blood and secretions from view.
-	* Through a paediatric ETT in opposite nostril  
+	* Through a paediatric ETT in opposite nostril\
 	Allows gas monitoring.
-* Sedation  
+* Sedation\
 Aim for **conscious sedation**. Consider:
-	* Midazolam and a small dose of fentanyl  
+	* Midazolam and a small dose of fentanyl\
 	Familiar and reversible.
-	* Ketamine  
+	* Ketamine\
 	Minimises respiratory depression, but oral secretions may be problematic.
 	* Remifentanil TCI (Minto) Ce 1-3ng/mL
 * Risk of oversedation is high
@@ -147,14 +147,14 @@ Aim for **conscious sedation**. Consider:
 
 Topicalisation:
 
-* Antisialagogue  
+* Antisialagogue\
 Glycopyrrolate 200-400μg.
-* Vasoconstriction  
+* Vasoconstriction\
 Cophenylcaine to nose.
-* Serial dilation of nostril  
+* Serial dilation of nostril\
 	* Use a selection of NPAs well lubricated with 2% viscous lignocaine gel
 	* Dilate every 3-5 minutes in 0.5 size increments up to intended tube size
-* Spray with 10% lignocaine via MAD over 5 minutes  
+* Spray with 10% lignocaine via MAD over 5 minutes\
 Up to **9mg/kg**. Spray:
 	* Oropharynx
 	* Tonsillar pillars
@@ -168,11 +168,11 @@ Nasal technique:
 
 * Pass scope through nose
 * Identify:
-	* Inferior turbinate  
+	* Inferior turbinate\
 	Go under this.
 	* Middle turbinate
 	* Nasal septum
-* Patient may swallow at this point  
+* Patient may swallow at this point\
 This will close the nasopharynx; sniffing will re-open.
 
 
@@ -180,7 +180,7 @@ If difficult, consider using an NPA to traverse nares:
 
 * Cut NPA along one side so it can be split open
 * Insert NPA
-* Pass bronchoscope through NPA  
+* Pass bronchoscope through NPA\
 * Remove NPA over bronchoscope
 
 
@@ -197,14 +197,14 @@ Oral technique:
 Common technique:
 
 * Identify the uvula and continue into the oropharynx
-* In the asleep patient, jaw thrust and pulling the tongue forward (have assistant use gauze) ↑ the space available  
+* In the asleep patient, jaw thrust and pulling the tongue forward (have assistant use gauze) ↑ the space available\
 * (Remember to spray-as-you-go with 2% lignocaine from here)
-* Identify the larynx  
+* Identify the larynx\
 Slight anterior flexion smooths passage through.
-* Identify the carina  
+* Identify the carina\
 Posterior flexion is required to negotiate the secondary curve of the trachea.
 * Advance tube over bronchoscope
-* Confirm position with two-point check  
+* Confirm position with two-point check\
 Capnography and visualisation.
 * Induce anaesthesia
 

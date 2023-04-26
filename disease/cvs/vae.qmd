@@ -9,18 +9,18 @@ Risk factors for venous air embolism:
 * Open veins above the RA
 	* Position dependent
 	* Some veins may be tethered open, greatly ↑ risk:
-		* **Bone**  
+		* **Bone**\
 		* Dura
-* CVP  
+* CVP\
 High CVP is protective.
 
 ## Pathophysiology
 
 Air in the pulmonary circulation leads to:
 
-* ↑ PVR  
+* ↑ PVR\
 Secondary to obstruction and reflexive hypoxic vasoconstriction.
-* Shunt  
+* Shunt\
 Interstitial/pulmonary oedema due to local inflammation.
 
 
@@ -32,23 +32,23 @@ Interstitial/pulmonary oedema due to local inflammation.
 
 VAE may be graded by its clinical severity:
 
-* Small  
+* Small\
 ⩽10ml.
 	* Only visible on TOE
 	* Nil CVS compromise
-* Moderate  
+* Moderate\
 10-50ml.
-	* ↑ HR and ↑ BP  
+	* ↑ HR and ↑ BP\
 	Due to ↑ SNS tone.
 	* ↑ PAP
-	* ↓ E~T~CO~2~  
+	* ↓ E~T~CO~2~\
 	Due to shunt. A drop in end-tidal is **always significant**.
 	* Bubbles visibile on TOE
-* Large  
+* Large\
 ⩾50ml.
 	* ↓ BP due to obstructive shock
 	* ↑ Or ↓ in HR
-	* ↑ CVP due to RV failure  
+	* ↑ CVP due to RV failure\
 	* Signs of RV strain/dysrhythmia.
 	* Cardiac arrest may occur
 
@@ -68,17 +68,17 @@ VAE may be graded by its clinical severity:
 
 Basing on grading:
 
-* Small  
+* Small\
 Identify cause and eliminate it. Warn surgeon.
-* Moderate  
+* Moderate\
 As small, and:
 	* Apply 100% oxygen
 	* Cease nitrous oxide
-	* Haemodynamic management  
+	* Haemodynamic management\
 	Generally right heart support with vasopressor.
 	* Consider abandoning procedure if paradoxical embolism is possible
 	* Consider aspirating CVC if one is present
-* Large  
+* Large\
 As moderate, and:
 	* Consider **hyperbaric oxygen**
 
@@ -89,7 +89,7 @@ In high-risk situations, consider preemptive **protective management**:
 * Volume loading
 	* 10ml/kg 4% albumin
 	* Neck *venous* tourniquet
-* Avoid Valsalva  
+* Avoid Valsalva\
 May ↑ right-to-left shunting in the presence of a foramen ovale, leading to paradoxical embolism.
 
 

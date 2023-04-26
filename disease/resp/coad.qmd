@@ -37,7 +37,7 @@ Risk factors:
 		* Fumes
 	* Indoor air pollution
 		* Cooking fuels
-	* Outdoor air pollution  
+	* Outdoor air pollution\
 	Relatively small effect.
 * Genetic factors:
 	* FAM13A associated with development
@@ -54,11 +54,11 @@ Degree of decline in FEV~1~ with age varies with the duration of smoking, timing
 Expiratory airflow limitation via:
 
 * ↑ Airway resistance:
-	* Obstructive bronchiolitis  
+	* Obstructive bronchiolitis\
 	Small airway inflammation leads to gas trapping and dynamic hyperinflation.
 	* ↑ Secretion production
 	* Bronchospasm
-	* Parenchymal destruction  
+	* Parenchymal destruction\
 	Leading to emphysema, which reduces:
 		* Pulmonary capillary bed volume
 		* Lung surface area for gas exchange
@@ -82,7 +82,7 @@ Key symptoms are:
 
 * Chronic cough or sputum production
 * History of exposures
-* Dyspnoea  
+* Dyspnoea\
 Graded using the mMRC scale.
 
 
@@ -108,7 +108,7 @@ Global Initiative for Obstructive Lung Disease Criteria:
 * Used clinically to determine severity of disease in order to prognosticate and guide therapeutic interventions
 * Not appropriate for diagnosis
 * Are based upon:
-	* Symptom burden  
+	* Symptom burden\
 	mMRC score.
 	* Number of exacerbations and hospital admissions
 	* FEV~1~
@@ -116,13 +116,13 @@ Global Initiative for Obstructive Lung Disease Criteria:
 
 Treatment recommendations:
 
-* GOLD A  
+* GOLD A\
 Bronchodilator (LABA or SABA) offered, and continued if effective.
-* GOLD B  
+* GOLD B\
 LABA or long-acting methacholine antagonist should be offered as initial therapy.
-* GOLD C  
+* GOLD C\
 LAMA as initial therapy, and benefit may be seen with LAMA & LABA & inhaled corticosteroids.
-* GOLD D  
+* GOLD D\
 LAMA & LABA as initial therapy, with inhaled corticosteroids for patients with frequent exacerbations.
 
 
@@ -149,17 +149,17 @@ Associated with GORD. Normal TLCO with reversibility.
 Respiratory function tests are diagnostic and used to grade severity:
 
 * **FEV~1~/FVC of ⩽0.7**
-	* Reversibility is not required  
+	* Reversibility is not required\
 	Differentiated from asthma on clinical grounds.
-* Severity graded by FEV~1~  
+* Severity graded by FEV~1~\
 Multiple grading systems, the GOLD 2008/NICE 2010 system:
-	* FEV~1~ ⩾80% predicted  
+	* FEV~1~ ⩾80% predicted\
 	Mild.
-	* FEV~1~ 50-79% predicted  
+	* FEV~1~ 50-79% predicted\
 	Moderate.
-	* FEV~1~ 30-49% predicted  
+	* FEV~1~ 30-49% predicted\
 	Severe.
-	* FEV~1~ ⩽30% predicted  
+	* FEV~1~ ⩽30% predicted\
 	Very severe.
 
 Bloods:
@@ -182,29 +182,29 @@ Specific therapy:
 * Physical:
 	* Smoking cessation\
 	Vital, and will slow down deterioration and disability before death occurs.
-	* NIV  
+	* NIV\
 	Reduces chronic hypercarbia, survival, and readmission rates.
 	* Home oxygen\
 	Indicated in patients with severe resting hypoxia (PaO~2~ <60mmHg, or ⩽55mmHg with cor pulmonale or pulmonary hypertension).
 * Pharmacological:
-* Inhaled therapies  
+* Inhaled therapies\
 	Mainstay of day-to-day treatment. Includes:
-		* Short-acting bronchodilators  
+		* Short-acting bronchodilators\
 		For breathlessness and exercise limitation.
-		* Long-acting bronchodilators  
+		* Long-acting bronchodilators\
 		For persistent breathlessness.
-	* Oral therapy  
+	* Oral therapy\
 	Regular oral corticosteroids may be requried in advanced disease.
-	* Vaccination  
+	* Vaccination\
 	Influenza and pneumococcal vaccines ↓ LRTI rate.
 * Procedural:
-	* Lung volume reduction surgery  
+	* Lung volume reduction surgery\
 	Improves survival in severe upper-lobe emphysema and low post-rehabilitation exercise capacity.
-	* Bullectomy  
+	* Bullectomy\
 	Improves dyspnoea, lung function, and exercise tolerance is selected patients.
-	* Lung transplantation  
+	* Lung transplantation\
 	Improves quality of life in selected patients with very severe COAD.
-	* Bronchoscopic interventions  
+	* Bronchoscopic interventions\
 	Includes coils and endobronchial valves, and improves exercise tolerance and lung function at 6-12 months following treatment.
 
 
@@ -278,26 +278,26 @@ Specific therapy:
 ### Anaesthetic Considerations
 
 * B
-	* Smoking cessation  
+	* Smoking cessation\
 	Patients are more receptive to smoking cessation perioperatively, and this should be encouraged.
 	* Disease severity
 		* Exercise tolerance
 		* Number of exacerbations
 		* Most recent course of antibiotics or steroids
 		* Previous requirement for NIV or intubation
-	* Wheezing  
+	* Wheezing\
 	If present needs aggressive treatment with bronchodilators +/- steroids.
-	* Active respiratory infection  
+	* Active respiratory infection\
 	Consider treatment and postponing surgery.
 	* Consider CXR if:
 		* Current infection
 		* Recent deterioration in symptoms
-	* Ventilator settings  
+	* Ventilator settings\
 	Aim to minimise gas trapping:
-		* ↑ the I:E ratio to prolong expiratory time  
+		* ↑ the I:E ratio to prolong expiratory time\
 		Suggest 1:3-1:5.
 			* May require ↑ inspiratory flow rate and higher Pip
-		* Consider PEEP  
+		* Consider PEEP\
 		Aim to splint open small airways, and if ePEEP < iPEEP then worsening of CV effects will not occur.
 		* Bronchospasm
 
@@ -305,7 +305,7 @@ Specific therapy:
 	* Pulmonary hypertension
 	* Concomitant IHD
 * D
-	* General anaesthesia  
+	* General anaesthesia\
 	↑ risk, particularly with intubation and IPPV, of:
 		* Laryngospasm
 		* Bronchospasm
@@ -314,9 +314,9 @@ Specific therapy:
 		* Cardiovascular instability
 	* Regional anaesthesia
 * E
-	* Neuromuscular blockade  
+	* Neuromuscular blockade\
 		* Ensure complete reversal prior to extubation
-		* Consider extubation directly onto NIV  
+		* Consider extubation directly onto NIV\
 		Reduces need for post-operative reintubation.
 
 ### Marginal and Ineffective Therapies

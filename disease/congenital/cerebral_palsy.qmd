@@ -8,9 +8,9 @@ Cerebral palsy is a collective term describing a **heterogenous** group of **neu
 	* Sensory
 	* Intellectual
 * Divided into two types
-	* Congenital  
+	* Congenital\
 	80% of cases.
-	* Acquired  
+	* Acquired\
 	20% of cases, develops during the first 2 years of life. May be due to:
 		* ICH
 		* Encephalitis/Meningitis
@@ -21,7 +21,7 @@ Cerebral palsy is a collective term describing a **heterogenous** group of **neu
 
 Prevalence:
 
-* Occurs in ~1/500 live births  
+* Occurs in ~1/500 live births\
 Relatively constant despite improves in obstetric care, likely due to ↑ survival of premature  infants.
 
 
@@ -32,7 +32,7 @@ Risk factors:
 	* Trauma
 	* Low birth weight
 	* Prematurity
-	* Peripartum hypoxia  
+	* Peripartum hypoxia\
 	~6% of cases.
 	* Low APGAR score
 	* Prenatal TORCH infections
@@ -53,14 +53,14 @@ Disruption of normal developmental changes in brain structure and organisation f
 ## Clinical Manifestations
 
 * Motor
-	* Muscle spasticity  
+	* Muscle spasticity\
 	Present in 80% of patients.
 		* Leads to contractures due to differential growth between long bones and spastic muscle groups
 	* Fixed flexion deformities
 * Sensory
 	* Visual/auditory impairment
 	* Abnormal touch and pain perception
-* Intellectual impediment  
+* Intellectual impediment\
 Impairment present in 60%.
 	* May be difficult to separate from motor problems affecting phonation
 
@@ -92,7 +92,7 @@ Treatment is supportive, and consists of:
 
 * Improving posture
 	* Reducing spasticity and spasms
-		* Antispasmodics  
+		* Antispasmodics\
 		Baclofen.
 		* Denervation techniques
 			* Botulinum toxin
@@ -106,7 +106,7 @@ Treatment is supportive, and consists of:
 ### Anaesthetic Considerations
 
 * SET
-	* HDU/ICU desirable  
+	* HDU/ICU desirable\
 	Prone to:
 		* Hypoxia
 			* Aspiration
@@ -114,17 +114,17 @@ Treatment is supportive, and consists of:
 		* Hypovolaemia
 		* Hypothermia
 * A
-	* High aspiration risk  
+	* High aspiration risk\
 	* Risk of loose teeth/poor dental hygiene
 * B
-	* Respiratory impairment  
+	* Respiratory impairment\
 	Combination of muscular weakness, skeletal deformities, and recurrent aspiration pneumonia.
 * C
 	* Co-existent cardiac disease
 	* Generally limited cardiorespiratory reserve
 * D
 	* Difficulty communicating
-	* Co-existent epilepsy  
+	* Co-existent epilepsy\
 	Continue antiepileptics in perioperative period.
 	* **Analgesia** very important and can be difficult to manage
 		* Difficult due to nature of surgery and communication
@@ -133,18 +133,18 @@ Treatment is supportive, and consists of:
 			* Diazepam 0.05-0.1mg/kg Q4H
 		* Epidural or regional techniques excellent to reduce spasm, pain, and opioid demand		
 * E
-	* Fixed flexion deformities  
+	* Fixed flexion deformities\
 	Limit or restrict positioning.
-	* Risk of hypothermia  
+	* Risk of hypothermia\
 	Due to low levels of body fat and muscle.
 	* **Use of muscle relaxants**
 		* No restriction on suxamethonium
 		* Offset of non-depolarising agent is ↑ due to upregulation of ACh receptors
 * G
-	* GORD  
+	* GORD\
 	Risk of aspiration.
 * H
-	* ↑ blood loss  
+	* ↑ blood loss\
 	CP muscle contracts poorly when incised, leading to much greater volumes of blood loss.
 		* **Group and save** for any major surgery
 
@@ -155,15 +155,15 @@ Associated conditions:
 * Neonatal respiratory distress syndrome
 * Respiratory impairment
 	* Scoliosis and spinal deformities
-	* Restrictive lung disease  
+	* Restrictive lung disease\
 	May in turn lead to pulmonary hypertension, and right heart/respiratory failure.
-* GORD/recurrent aspiration  
+* GORD/recurrent aspiration\
 In turn associated with chronic lung injury from repeated aspiration. May be due to:
 	* Swallowing difficulties
 	* Oesophageal dymotility
 	* Spinal deformities
 	* Weak cough
-* Epilepsy  
+* Epilepsy\
 50% may have focal or generalised forms.
 
 

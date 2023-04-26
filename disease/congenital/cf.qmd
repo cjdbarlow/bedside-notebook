@@ -18,37 +18,37 @@ Genetic disease:
 
 * Mendelian recessive inheritance
 * Heterozygotes are asymptomatic
-* Highly variable mutations and severity  
+* Highly variable mutations and severity\
 Over 1100 described mutations.
 
 ## Clinical Manifestations
 
 Multiorgan manifestations:
 
-* Respiratory  
+* Respiratory\
 ↑ mucous viscosity and ↓ mucociliary clearance, leading to:
 	* Chronic sinusitis
-	* Recurrent LRTI  
+	* Recurrent LRTI\
 	Chronic colonisation with atypical pathogens.
-	* Obstructive lung disease  
+	* Obstructive lung disease\
 	Subsequent:
 		* Bronchiectasis
 		* Gas trapping
 	* Chronic hypoxaemia
 		* Cor pulmonale
 * MSK
-	* Osteoporosis  
+	* Osteoporosis\
 	Impaired calcium absorption.
 	* Impaired thermoregulation
 * GIT
 	* Meconium ileus
 	* Distal intestinal obstruction syndrome
-	* Biliary obstruction  
+	* Biliary obstruction\
 		* Biliary cirrhosis
 		* Portal HTN
 	* Pancreatic obstruction
 		* Pancreatic exocrine deficiency
-		* Diabetes  
+		* Diabetes\
 		Most common non-respiratory comorbidity.
 * GU
 	* Male infertility
@@ -66,9 +66,9 @@ Diagnosis requires:
 
 Post-natal screening:
 
-* Trypsinogen  
+* Trypsinogen\
 High false-positive rate.
-* Sweat test  
+* Sweat test\
 Performed two weeks after birth.
 
 Genetic testing:
@@ -81,22 +81,22 @@ Genetic testing:
 
 Medical management is primarily supportive:
 
-* Respiratory  
+* Respiratory\
 Aims to ↓ incidence and duration of respiratory tract infections. Includes:
 	* Daily respiratory physiotherapy
 	* Bronchodilators
-	* Mucolytics  
+	* Mucolytics\
 	e.g. Hypertonic saline.
-	* Antibiotics  
-	* Anti-inflammatories  
+	* Antibiotics\
+	* Anti-inflammatories\
 	Including inhaled or systemic corticosteroids, NSAIDs, and azithromycin.
 	* CFTR modulators
-		* Ivacaftor  
+		* Ivacaftor\
 		Potentiates chloride channel function in a large subset of CFTR mutations.
 
 Surgical management:
 
-* Lung transplantation  
+* Lung transplantation\
 Requires bilateral due to suppurative disease.
  
 ### Anaesthetic Considerations
@@ -123,7 +123,7 @@ Preoperative investigations should include:
 		* Avoid nasal ETT where possible due to high incidence of nasal polyposis
 	* Extubation early post-operatively
 * B
-	* Obstructive lung disease  
+	* Obstructive lung disease\
 	Postoperative complications predicted by:
 		* FEV~1~ ⩽60%
 		* PCO~2~ >50mmHg
@@ -144,7 +144,7 @@ Preoperative investigations should include:
 
 Poor prognostic factors include:
 
-* Chronic pseudomonas infection  
+* Chronic pseudomonas infection\
 ↑ rate of pulmonary decline, ↓ survival.
 * Pulmonary hypertension
 

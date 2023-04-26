@@ -3,14 +3,14 @@
 
 Low-flow anaesthesia:
 
-* Requires a FGF less than the patients MV  
+* Requires a FGF less than the patients MV\
 Therefore requires a rebreathing system and a CO~2~ absorber.
 * Typically uses FGF of 1L/min
-* In absence of leak, flow can be reduced to the gas volume that a patient is absorbing and metabolising  
+* In absence of leak, flow can be reduced to the gas volume that a patient is absorbing and metabolising\
 This has lead to:
-	* Minimal-flow anaesthesia  
+	* Minimal-flow anaesthesia\
 	Uses an even lower FGF of 0.5L/min; which in normal circumstances, this gives a rebreathing fraction of ~75-80%.
-	* Metabolic-flow anaesthesia  
+	* Metabolic-flow anaesthesia\
 	Uses pure oxygen as a carrier gas, and replacing only the gas that is consumed by patient metabolism.
 
 ## Advantages of Low-Flow Anaesthesia
@@ -18,15 +18,15 @@ This has lead to:
 Benefits include:
 
 * Clinical
-	* Measurement of oxygen consumption  
+	* Measurement of oxygen consumption\
 	Can be estimated by comparing FGF requirements to circuit volume.
-	* ↑ humidification  
+	* ↑ humidification\
 	Rebreathing ↑ humidity, ↓ mucociliary impairment.
-	* Temperature  
+	* Temperature\
 	Rebreathing increaeses temperature of inspired gases, ↓ heat loss under anaesthesia. This can be substantial - up to 1°C in core body temperature after 1 hour of anaesthesia.
-* Environmental  
+* Environmental\
 Inhalational anaesthetic agents are potent greenhouse gases. ↓ FGF results in ↓ volatile consumption, and therefore emission of inhalational agents.
-* Economic  
+* Economic\
 ↓ use of inhalational agents ↓ the cost of delivering anesthesia.
 
 
@@ -34,22 +34,22 @@ Inhalational anaesthetic agents are potent greenhouse gases. ↓ FGF results in 
 
 Disadvantages include:
 
-* Circuit gas composition does not correspond to FGF composition  
+* Circuit gas composition does not correspond to FGF composition\
 Change in circuit gas composition will depend on the time-constant of the circuit.
-	* Remember that for an anaesthetic circuit $$\tau = {Circuit Volume \over FGF - Patient \ Gas \ Uptake}$$  
+	* Remember that for an anaesthetic circuit $$\tau = {Circuit Volume \over FGF - Patient \ Gas \ Uptake}$$\
 	A process will be 95% complete at the end of three time-constants.
-		* At low flows, the time-constant for equilibration between the circuit and the FGF gas ↑  
+		* At low flows, the time-constant for equilibration between the circuit and the FGF gas ↑\
 		Results in very slow equilibration between the circuit/patient and the delivered gas.
 		* E.g., for a 5L circuit + FRC volume, ↑ the FGF to 5L/min will see circuit gas composition approximate FGF composition in ~3 minutes
-* Risk of hypoxia  
+* Risk of hypoxia\
 If oxygen consumption exceeds oxygen delivery:
-	* Circuit volume will ↓  
+	* Circuit volume will ↓\
 	As the overall volume of gas has ↓.
-	* Circuit mixture will become relatively hypoxic  
+	* Circuit mixture will become relatively hypoxic\
 	Oxygen is consumed, however nitrogen and inhalational agent amounts remain constant; this results in a ↓ FiO~2~.
-* ↑ soda-lime concentration  
+* ↑ soda-lime concentration\
 As less CO~2~ will be scavenged, soda-lime consumption will ↑.
-* Loss of circuit volume  
+* Loss of circuit volume\
 Indicated by ↓ in minute ventilation, peak airway pressure, and collapse of the bellows or resevoir bag.
 	* ↑ FGF to overcome leak
 	* Search for source of leak
@@ -59,38 +59,38 @@ Indicated by ↓ in minute ventilation, peak airway pressure, and collapse of th
 
 Contraindications include:
 
-* Toxic gases  
+* Toxic gases\
 Adequate FGF must be used to ensure washout of toxic gases.
 * Smoke inhalation
 	* Carbon monoxide
 * Cyanide toxicity
-* Malignant hyperthermia  
+* Malignant hyperthermia\
 As volatile agents will be ceased, there is no benefit to low-flow techniques. Additionally, high FGF is required to ensure adequate washout of CO~2~. 
-* Alcohol intoxication  
+* Alcohol intoxication\
 Prevents pulmonary clearance of gaseous alcohol.
 * Acetone poisoning
 	* Prolongs anaesthesia
 	* ↑ PONV
-* Ketoacidosis  
+* Ketoacidosis\
 In severe cases, may lead to accumulation of gaseous acetone in the circuit.
 
 
 ## Performing Low-Flow Anaesthesia
 
 * Technical requirements
-	* End-tidal gas measurement  
+	* End-tidal gas measurement\
 	As end-tidal agent concentration will differ markedly from delivered agent concentration, closed-loop monitoring must be used.
 	* Free of circuit leaks
 
 
 * Estimate VO~2~
-	* VO~2~ can be crudely measured using the Brody Formula: $$ VO_2 = 3.5 \times kg$$  
+	* VO~2~ can be crudely measured using the Brody Formula: $$ VO_2 = 3.5 \times kg$$\
 	This typically overestimates consumption by 10-20%, which introduces a margin of safety.
-* Set an FiO2 alarm  
+* Set an FiO2 alarm\
 e.g. 30%.
-* Deliver a volume of gas greater than the patients oxygen consumption  
+* Deliver a volume of gas greater than the patients oxygen consumption\
 At minimal-flows, it easier (and safter with respect to hypoxia) to use 100% oxygen as the carrier gas to prevent buildup of nitrogen and delivery of a hypoxic gas mixture; although over time this will cause FiO2 to steadily ↑.
-* Use an insoluble agent if possible  
+* Use an insoluble agent if possible\
 Desflurane and sevoflurane are better agents for use with low-flow techniques due to their shorter time constants.
 
 
@@ -98,14 +98,14 @@ Desflurane and sevoflurane are better agents for use with low-flow techniques du
 
 * Standard Induction
 * Initial Phase
-	* FGF of 4L/min with 40% FiO~2~  
+	* FGF of 4L/min with 40% FiO~2~\
 	3L/min air, 1L/min O~2~; will lead to an FiO~2~ of 35-40%.
 	* Vaporiser:
 		* Sevoflurane 3.5%
 		* Isoflurane 2.5%
 		* Desflurane 6%
 * At target MAC (0.8-1)
-	* ↓ FGF to 0.5L/min with 68% FiO~2~  
+	* ↓ FGF to 0.5L/min with 68% FiO~2~\
 	0.3L/min air, 0.2L/min O~2~.
 	* ↑ vaporiser:
 		* Sevoflurane 5%
@@ -114,7 +114,7 @@ Desflurane and sevoflurane are better agents for use with low-flow techniques du
 * Adjusting
 	* Rapid change in agent concentration:
 		* Set vaporiser to 0.5-1% above target concentration
-		* ↑ FGF to 4L/min  
+		* ↑ FGF to 4L/min\
 
 	* Slow ↑ in agent concentration:
 		* Continue FGF at 0.5L/min
@@ -128,14 +128,14 @@ Desflurane and sevoflurane are better agents for use with low-flow techniques du
 	* Set vaporiser to 0% ~10 minutes prior to end of operation
 	* Continue FGF at 0.5L/min
 	* Begin spontaneous ventilation
-	* At the last suture, purge system with 100% O~2~ at 6L/min  
+	* At the last suture, purge system with 100% O~2~ at 6L/min\
 	↑ the FGF above this does not appreciably ↓ the time for washout, as at 6L/min rebreathing fraction is only ~2.5%.
 
 ### Template for Minimal-Flow Anaesthesia with Oxygen and Nitrous Oxide
 
 * Standard induction
 * Initial Phase
-	* FGF of 4.4L/min with 32% FiO~2~  
+	* FGF of 4.4L/min with 32% FiO~2~\
 	1.4L/min O~2~ and 3L/min N~2~O; will lead to an FiO~2~ of 30-40%.
 	* Vaporiser:
 		* Sevoflurane 2-2.5%

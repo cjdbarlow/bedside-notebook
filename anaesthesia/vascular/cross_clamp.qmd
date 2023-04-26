@@ -4,10 +4,10 @@
 Dramatic physiological changes occur following clamping of the descending aorta:
 
 * Exact haemodynamic responses vary depending on the level
-	* Supra-coeliac clamping consistently redirects blood flow and has predictable responses  
+	* Supra-coeliac clamping consistently redirects blood flow and has predictable responses\
 	Requires a potent vasodilator; e.g. GTN or SNP.
 		* Compliant splanchnic circulation collapses and drains its large blood resevoir into the central circulation, greatly ↑ preload
-	* Infra-coeliac clamping is inconsistent, but less dramatic  
+	* Infra-coeliac clamping is inconsistent, but less dramatic\
 	Usually will **not** require vasoactives.
 		* Complaint splanchnic circulation buffers the blood drained from the non-compliant renal circulation
 
@@ -16,37 +16,37 @@ Dramatic physiological changes occur following clamping of the descending aorta:
 Immediate effects:
 
 * ↑ Afterload
-	* ↑ Systemic BP  
+	* ↑ Systemic BP\
 	By 7-10%.
 	* May precipitate LV failure
 	* Have a profound afterload-reducing agent available 
 	**GTN**, **SNP**, **nicardipine**.
-* ↑ Preload  
+* ↑ Preload\
 Due to redistribution in blood volume:
-	* ↓ Venous capacitance distal to clamp  
+	* ↓ Venous capacitance distal to clamp\
 	Ejection of blood from splanchnic beds.
 	* ↑ Venous capacitance proximal to clamp
 		* ↑ CVP
 		* ↑ PCWP
 		* ↑ LVEDP
-* Contractility  
+* Contractility\
 Effect varies depending on **capacity to ↑ coronary flow** in the setting of ↑ O~2~ demand:
-	* Adequate coronary supply  
-	↑ Contractility as a response to ↑ in preload and afterload.  
+	* Adequate coronary supply\
+	↑ Contractility as a response to ↑ in preload and afterload.\
 		* CO may ↑ 10-30%.
-	* Inadequate coronary supply  
+	* Inadequate coronary supply\
 	Diastolic dysfunction, ↑↑ LVEDP, ↓ CO.
-* ↑ Myocardial oxygen consumption  
+* ↑ Myocardial oxygen consumption\
 
 
 Short-term effects:
 
-* Myocardial ischaemia  
+* Myocardial ischaemia\
 Will occur if the ↑ in LVEDP exceeds the rise in aortic root pressure.
-* ↓ Global oxygen consumption  
+* ↓ Global oxygen consumption\
 Both distal and proximal to clamp.
 	* ↑ MV PO~2~
-* ↓ Spinal perfusion pressure  
+* ↓ Spinal perfusion pressure\
 Due to combination of:
 	* ↓ Spinal blood flow
 	* ↑ CSF pressure
@@ -55,14 +55,14 @@ Due to combination of:
 * ↓↓ Renal blood flow
 	* ↓ GFR
 	* ↓ UO
-	* Ischaemia-reperfusion injury  
+	* Ischaemia-reperfusion injury\
 	Subsequent AKI.
 	* **0.25mg/kg of mannitol** is often given to maintain urine output, without much evidence
 
 
 Long term effects:
 
-* ↑ SVR  
+* ↑ SVR\
 Continues to ↑ with ↑ duration of cross-clamping.
 
 
@@ -71,7 +71,7 @@ Continues to ↑ with ↑ duration of cross-clamping.
 Peri-clamping:
 
 * Have potent vasodilator available
-* Start vasodilator as the surgeon is placing the clamp  
+* Start vasodilator as the surgeon is placing the clamp\
 Clamp is placed slowly to avoid aortic dissection.
 * Aim **SBP ~90mmHg**
 
@@ -85,31 +85,31 @@ Post-clamping:
 
 Immediate effects:
 
-* ↑ ETCO~2~  
+* ↑ ETCO~2~\
 Due to ischaemic washout.
 	* **Minimise washout** by **unclamping each lower limb separately**
 	* Also present:
 		* Lactate
 		* NO
-* ↓ BP  
+* ↓ BP\
 May be profound.
 	* Due to: 
-		* ↓ SVR by 70-80%  
+		* ↓ SVR by 70-80%\
 		Distal circulation is profoundly vasodilated due to ischaemia.
 		* Relatively volume deplete venous bed
-* ↓ Preload  
+* ↓ Preload\
 Due to:
-	* Central hypovolaemia  
+	* Central hypovolaemia\
 	Blood pooling into re-perfused tissues.
-	* Venodilation  
+	* Venodilation\
 	Secondary to hypoxia.
-* CO  
+* CO\
 May ↓, ↑, or remain unchanged depending on relative effect of:
 	* ↓ SVR
 	* ↓ Preload
-	* Ischaemic washout  
+	* Ischaemic washout\
 	Generally ↓ inotropy.
-* Acidosis  
+* Acidosis\
 Lactic acidosis due to re-perfusion of ischaemic tissues.
 
 
@@ -120,7 +120,7 @@ Short-term effects:
 
 Long-term effects:
 
-* Persistent ↓ GFR and RBF  
+* Persistent ↓ GFR and RBF\
 May remain ↓ for up to 6 months post-operatively.
 
 
@@ -129,7 +129,7 @@ May remain ↓ for up to 6 months post-operatively.
 Preload:
 
 * Give **volume** targeting **slightly elevated filling pressures** prior to release.
-	* **Vasodilators** given **prior to release** allow **extra volume without ↑ filling pressures**  
+	* **Vasodilators** given **prior to release** allow **extra volume without ↑ filling pressures**\
 	Cease 5-10 minutes prior to unclamping.
 
 
@@ -137,12 +137,12 @@ Contractility:
 
 * CaCl~2~
 	* Inotropy
-	* Myocardial membrane stability  
+	* Myocardial membrane stability\
 	In preparation for hyperkalaemic washout.
 	* Blood product calcium chelation
-* NaHCO~3~  
+* NaHCO~3~\
 In preparation for acidosis.
-* Adrenaline  
+* Adrenaline\
 Consider:
 	* Adrenaline infusion
 	* 10μg/ml push-dose available
@@ -153,12 +153,12 @@ Hypotension:
 
 * Have the surgeon **reapply the clamp**
 * Give more volume
-* Consider unclamping strategies  
+* Consider unclamping strategies\
 Limits degree of reperfusion:
-	* Partial unclamping  
-	* Partial reclamping  
+	* Partial unclamping\
+	* Partial reclamping\
 	May be done for bleeding control as well.
-	* Staged unclamping  
+	* Staged unclamping\
 	Selective reperfusion of different areas.
 	* Slow unclamping
 

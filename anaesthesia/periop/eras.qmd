@@ -1,11 +1,11 @@
 # Enhanced Recovery After Surgery
 
 
-> * ERAS describes a bundle of interventions designed to improve perioperative care through standardisation and protocolisation  
+> * ERAS describes a bundle of interventions designed to improve perioperative care through standardisation and protocolisation\
 >May reduce:
 >	* LOS by 30-50%
 >	* Complications by 10-20%
-> * Specific interventions are centre and surgery dependent  
+> * Specific interventions are centre and surgery dependent\
 > Critics argue lack of RCTs and this variability ↓ strength of evidence.
 > * Much of ERAS has been subsumed by **good perioperative care** and it can be difficult to distinguish ERAS pathways from normal management
 
@@ -44,7 +44,7 @@ Intraoperative:
 	* NSAIDs
 	* Tramadol
 	* Regional
-	* Epidural  
+	* Epidural\
 	Controversial due to impaired mobility.
 
 

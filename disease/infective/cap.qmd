@@ -13,7 +13,7 @@ Non-respiratory symptoms may also be present.
     * Radiographic
     * Clinical\
     Crepitations, etc.
-     
+   \
 
 ## Epidemiology and Risk Factors
 
@@ -66,7 +66,7 @@ Factors favouring infection with certain organisms include:
         * Diabetes
         * Sickle cell
         * Poor dental hygeine
-    * Immunosuppression  
+    * Immunosuppression\
 * Disease factors
     * Sputum smell
     * Lung abscesses
@@ -84,7 +84,7 @@ May be either:
 * Respiratory
     * Productive cough
     * Pleural rub
-    * Inspiratory crepitations  
+    * Inspiratory crepitations\
 
 
 ## Diagnostic Approach and DDx

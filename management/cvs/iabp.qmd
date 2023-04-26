@@ -5,11 +5,11 @@ Assisted circulatory device consisting of an intra-aortic balloon which:
 
 * ↑ CO by 0.5-1L/min
 * Provides temporary myocardial support as bridge to recovery or definitive treatment
-* Acts via **counterpulsation** to improve myocardial supply:demand  
+* Acts via **counterpulsation** to improve myocardial supply:demand\
 Deflates pre-systole and inflates during diastole, causing:
-	* **Improved coronary perfusion**  
+	* **Improved coronary perfusion**\
 	Diastolic inflation ↑ DBP and improves coronary perfusion pressure and myocardial oxygen supply.
-	* **↓ afterload**  
+	* **↓ afterload**\
 	Pre-systolic deflation ↓ afterload and myocardial wall tension, reducing myocardial oxygen demand.
 
 
@@ -18,9 +18,9 @@ Deflates pre-systole and inflates during diastole, causing:
 * Reversible cardiogenic shock
 	* Post-bypass
 	* Post-MI
-	* Severe IHD  
+	* Severe IHD\
 	Bridge to stenting or CABG.
-	* Severe acute MR  
+	* Severe acute MR\
 	Awaiting surgery.
 
 ## Contraindications
@@ -44,40 +44,40 @@ Deflates pre-systole and inflates during diastole, causing:
 
 ## Equipment
 
-* Catheter sheath  
+* Catheter sheath\
 Usually 7.5 Fr.
 * Catheter balloon
-	* 25-50mL  
+	* 25-50mL\
 	Size should:
 		* Cover from L SCA origin to coeliac artery
 		* Fill 90-95% of the aorta
 		* Augmentation optimised when balloon volume equals stroke volume
-	* Helium-filled  
+	* Helium-filled\
 	Low viscosity speeds inflation and smooths deflation.
-* Console  
+* Console\
 Contains pump, helium cylinder, and times inflation/deflation.
 
 ## Technique
 
 Use:
 
-* Setting ratio  
+* Setting ratio\
 Proportion of augmented to non-augmented beats.
 	* 1:1
 	* 1:2
-	* 1:3  
+	* 1:3\
 	Identical to no support.
-	* 1:4  
+	* 1:4\
 	Used prior to removal. ↑ risk of thrombus formation.
-* Setting trigger  
+* Setting trigger\
 May be:
-	* ECG  
+	* ECG\
 	May target from R wave.
-	* Pacemaker  
+	* Pacemaker\
 	From pacing spikes.
-	* Arterial  
+	* Arterial\
 	From arterial upstroke.
-	* Internal trigger  
+	* Internal trigger\
 	In asystole.
 * An optimised waveform
 	* Measure at 1:2

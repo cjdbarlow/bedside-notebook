@@ -3,32 +3,32 @@
 
 Definitions:
 
-* **Asepsis**  
+* **Asepsis**\
 Prevention of microbial contamination of living tissues or sterile materials.
-* **Disinfection**  
+* **Disinfection**\
 Inactivation of non-sporing organisms with thermal or chemical means.
-* **Sterilisation**  
+* **Sterilisation**\
 Complete destruction of all microorganisms, including spores.
 
 Equipment classifications:
 
-* **Critical**  
+* **Critical**\
 Penetrate skin or mucous membranes, or enters a sterile space. Requires sterilisation.
-* **Semi-critical**  
+* **Semi-critical**\
 In contact with intact mucous membranes or becomes contaminated with readily transmissible organisms. Requires sterilisation or high level disinfection.
-* **Non-critical**  
+* **Non-critical**\
 Contacts skin or does not contact the patient. Requires a low-level of disinfection or cleaning.
 
 ## Infection Prevention
 
 Precautions:
 
-* Standard precautions  
+* Standard precautions\
 Gloves, eyewear, gowns, or aprons.
-* Gloves  
+* Gloves\
 	* When anticipated contact with body fluids
 	* Changed after moving from a contaminated to a non-contaminated body site
-* Masks  
+* Masks\
 When performing a sterile procedure under full aseptic conditions.
 * Overshoes
 	* Not required if theatre shoes in use
@@ -37,10 +37,10 @@ When performing a sterile procedure under full aseptic conditions.
 
 Behaviours:
 
-* Hand hygiene  
-* Theatre traffic  
+* Hand hygiene\
+* Theatre traffic\
 Should be minimised, and theatre doors should be closed.
-* Sharps  
+* Sharps\
 Should be:
 	* Disposed of immediately after use
 	* Not re-sheathed, bent, broken, or manipulated
@@ -57,26 +57,26 @@ Active management:
 
 Airway equipment:
 
-* Masks  
+* Masks\
 Semi-critical.
-* Laryngoscopes  
+* Laryngoscopes\
 Critical, require sterilisation.
-* Bronchoscopes  
+* Bronchoscopes\
 Semi-critical.
-* Bougies  
+* Bougies\
 Single-use preferred.
 
 
 Anaesthetic breathing systems:
 
-* Circuits  
+* Circuits\
 Can be used for multiple cases provided an HME is in place.
-* Breathing bag  
+* Breathing bag\
 Cleaned between each use.
-* Sampling lines  
+* Sampling lines\
 	* Gas should pass through a viral filter
 	* Can be reused
-* Surfaces and monitors  
+* Surfaces and monitors\
 Cleaned with detergent and water between patients.
 
 Ultrasound:
@@ -85,7 +85,7 @@ Ultrasound:
 	* Removal of gel and debris
 	* Wiped with detergent cloth
 	* Disinfected
-* Internal probes  
+* Internal probes\
 Semi-critical.
 
 ## Invasive Procedures
@@ -95,14 +95,14 @@ Require aseptic technique:
 * Cannulation
 	* Hand hygeine
 	* Gloves
-	* Skin disinfectant  
+	* Skin disinfectant\
 	Alcohol only suitable for cannulation ⩽24 hours.
 * Central venous cannulation
 	* Aseptic technique
-	* Maximal barrier precautions  
+	* Maximal barrier precautions\
 		* Full body draping
 		* Hat, mask, gown, sterile gloves
-	* 0.5-2% chlorhexidine skin preparation  
+	* 0.5-2% chlorhexidine skin preparation\
 	Tincture of iodine, or 70% alcohol are appropriate if chlorhexidine is contraindicated.
 
 ## Drugs

@@ -13,7 +13,7 @@ Various definitions which include:
 
 Predicting massive transfusion:
 
-* Assessment of Blood Consumption (ABC Score)  
+* Assessment of Blood Consumption (ABC Score)\
 ⩾3 factors suggests 85% likelihood of MTP.
 	* HR ⩾120
 	* SBP ⩽90

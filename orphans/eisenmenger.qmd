@@ -3,7 +3,7 @@
 
 Reversal of a right-to-left shunt, creating a left-to-right shunt. Eisenmenger's syndrome:
 
-* Occurs due to progressive right sided volume or pressure overload  
+* Occurs due to progressive right sided volume or pressure overload\
 
 ## Epidemiology and Risk Factors
 
@@ -11,11 +11,11 @@ Reversal of a right-to-left shunt, creating a left-to-right shunt. Eisenmenger's
 
 Develops chronically, due to:
 
-* Right sided volume/pressure overload  
+* Right sided volume/pressure overload\
 ↑ PVR.
 * Compensatory RV changes
 	* RV hypertrophy
-* Pulmonary hypertension  
+* Pulmonary hypertension\
 When right-sided pressures exceed left-sided pressures, reversal occurs.
 
 ### Aetiology
@@ -51,7 +51,7 @@ Principles include:
 
 SET:
 
-* HDU desirable  
+* HDU desirable\
 For:
 	* PCA analgesia
 	* Hypoxia and ventilation monitoring
@@ -63,9 +63,9 @@ For:
 * C
 	* Strongly consider arterial line
 	* Maintain preoperative baseline haemodynamics
-	* Maintain CO and SVR  
+	* Maintain CO and SVR\
 	May worsen shunt.
-	* Consider pulmonary vasodilators  
+	* Consider pulmonary vasodilators\
 	PVR may not reduce in patients with fixed pathology.
 * D
 	* Anaesthetic technique

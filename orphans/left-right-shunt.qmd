@@ -9,7 +9,7 @@ Clinical appearance is due to the magnitude of:
 	* Tachypnoea
 	* ↑ work of breathing
 	* Tachycardia
-* ↓ left sided flow  
+* ↓ left sided flow\
 Low-output state:
 	* ↑ capillary return
 	* Mottled
@@ -21,11 +21,11 @@ Low-output state:
 Physiological aims:
 
 * B
-	* High or high-normal PaCO~2~  
+	* High or high-normal PaCO~2~\
 	Maintain PVR to ↑ systemic CO.
-	* *Enough* FiO~2~  
+	* *Enough* FiO~2~\
 	Aim SpO~2~ ~93%.
-	* PEEP  
+	* PEEP\
 	Optimise FRC. Usually ~7-8cmH~2~O.
 		* May require recruitment maneuvres
 

@@ -5,9 +5,9 @@ The anaesthetic assistant is:
 
 * Important to safe patient management
 * Required during:
-	* Preparation for and induction of anaesthesia  
+	* Preparation for and induction of anaesthesia\
 	Remains until dismissed.
-	* During maintenance  
+	* During maintenance\
 	Available immediately when required.
 	* Emergence
 
@@ -38,16 +38,16 @@ Educational Requirements:
 
 Core competencies:
 
-* Standards  
+* Standards\
 Understand and apply various anesthesia, workplace, occupational health, safety, and legal responsibilities/protocols.
-* Anaesthesia equipment  
+* Anaesthesia equipment\
 Understand care, use, and servicing of equipment, including:
 	* Anaesthesia delivery equipment
 	* Ventilators
 	* Monitoring
 	* Cleaning and sterilisation
 	* Airway devices
-* Safety  
+* Safety\
 Understand and apply safety principles to:
 	* Electricity
 	* Radiation

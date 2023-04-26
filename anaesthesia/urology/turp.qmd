@@ -12,15 +12,15 @@
 
 TURP:
 
-* Resection of the prostate in small strips under direct vision using a resectoscope inserted into the urethra  
+* Resection of the prostate in small strips under direct vision using a resectoscope inserted into the urethra\
 Nerve supply via prostatic plexus
 	* Pain from T11-L2
 	* Sympathetic fibres from T11-L2
-	* Parasympathetic fibres from S2-4  
+	* Parasympathetic fibres from S2-4\
 	Including bladder stretch.
-* Requires continuous irrigation to allow visualisation and remove debris  
+* Requires continuous irrigation to allow visualisation and remove debris\
 Blood loss may be substantial and under-appreciated.
-* Performed in older men who are usually comorbid  
+* Performed in older men who are usually comorbid\
 ~80% will have other medical disease.
 
 
@@ -28,11 +28,11 @@ Blood loss may be substantial and under-appreciated.
 
 * D
 	* Anaesthetic technique
-		* Spinal  
+		* Spinal\
 			* Good post-operative analgesia
 			* Reduces stress response
 			* Allows monitoring of conscious state due to **TURP syndrome**
-			* Allows identification of **capsular tears**  
+			* Allows identification of **capsular tears**\
 			If spinal block to ⩽T10 then pain will indicate peritoneal stimulation from blood/irrigation fluid.
 	* [TURP Syndrome](/disease/fluid/turp-syndrome.md)
 
@@ -45,7 +45,7 @@ Blood loss may be substantial and under-appreciated.
 ### Surgical Stages
 
 * Capsular performation may result in significant bleeding
-* Bleeding  
+* Bleeding\
 Can be substantial.
 	* Risk factors:
 		* Extensive resection
@@ -53,9 +53,9 @@ Can be substantial.
 		* Infection
 		* Surgery ⩾ 1 hour
 		* IDC preoperatively
-	* Urokinase is released from the prostate during resection  
+	* Urokinase is released from the prostate during resection\
 	Conxider 15-25mg/kg of **TXA** to reduce volume of haemorrhage.
-* [TURP Syndrome](/disease/fluid/turp-syndrome.md)  
+* [TURP Syndrome](/disease/fluid/turp-syndrome.md)\
 Abandon surgery if suspected.
 
 

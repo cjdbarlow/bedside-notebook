@@ -18,22 +18,22 @@
 *This section is taken from the [DAS 2015 guidelines](https://academic.oup.com/bja/article/115/6/827/241440/Difficult-Airway-Society-2015-guidelines-for#2825767).*
 
 
-* **Plan A**  
+* **Plan A**\
 Mask ventilation and intubation.
 	* Optimise as many factors as possible prior to induction
-* **Plan B**  
+* **Plan B**\
 **Maintain oxygenation** with SAD.
-	* Use 2^nd^ generation device  
+	* Use 2^nd^ generation device\
 	Higher sealing pressures, gastric port.
 	* Up to 3 attempts with different devices/sizes
 	* If successful, consider:
 		* **Waking**
-		* Intubate through SAD  
+		* Intubate through SAD\
 		Using fibreoptic and aintree catheter.
 		* Continue with SAD
 		* FONA
 	* A failure of two techniques (e.g. intubation and SAD) should prompt preparation for FONA
-* **Plan C**  
+* **Plan C**\
 **Maintain oxgenation** with **face-mask ventilation** (if possible).
 	* 2-person technique
 	* Use adjuncts (OPA, NPA)
@@ -41,7 +41,7 @@ Mask ventilation and intubation.
 	* If successful:
 		* Wake if able
 		* FONA if definitive airway required immediately
-* **Plan D**  
+* **Plan D**\
 **Declare that "This is a [CICO situation](management/airway/cico.md)". Proceed to emergency FONA**.
 	* Scalpel cricothyrotomy
 	* Needle cricothryotomy
@@ -55,7 +55,7 @@ Mask ventilation and intubation.
 
 The vortex approach recognises the fact that:
 
-* CICO scenarios are a high-stress event that causes cognitive overload  
+* CICO scenarios are a high-stress event that causes cognitive overload\
 Cognitive biases abound, with impaired decision-making, fixation, omissions being common.
 	* Complicated guidelines are hard to follow in such situations
 * Surgical airway techniques are psychlogically confronting
@@ -68,20 +68,20 @@ Cognitive biases abound, with impaired decision-making, fixation, omissions bein
 
 Principles of the vortex approach:
 
-* There are three 'non-surgical' airway management options  
+* There are three 'non-surgical' airway management options\
 Though there are many different airway management techniques, most are not applicable in the unexpected airway emergency. Reducing the number of emergency tools encourages clinicians to become proficient with a limited number of devices.
 	* BMV
 	* SGA
 	* ETT
-* If a 'best effort' at any of these three lifelines is unsuccessful, another should be attempted  
+* If a 'best effort' at any of these three lifelines is unsuccessful, another should be attempted\
 'Best effort' and 'reasonable number of attempts' are a context-dependent decision.
-	* A failure of any technique is a 'spinal inwards' towards the centre  
+	* A failure of any technique is a 'spinal inwards' towards the centre\
 	Emphasises:
 		* Diminishing time and options available as successive techniques fail
 		* If oxygenation cannot be achieved with a non-surgical technique, FONA must be performed
-	* Ability to oxygenate/ventilate results in movement outwards towards the 'green zone'  
+	* Ability to oxygenate/ventilate results in movement outwards towards the 'green zone'\
 	This **position of relative safety** should prompt:
-		* Reoxygenation  
+		* Reoxygenation\
 		Optimise SpO~2~ and re-establish FRC.
 		* Assembling additional resources
 			* Personnel
@@ -102,10 +102,10 @@ As difficult airways are often unpredictable, emergency airway equipment should 
 * Clearly labelled
 * Stored in a:
 	* Dedicated container
-	* Known location  
+	* Known location\
 	Staff should be orientated to its location, and a process of orientating new staff exist.
 * Portable
-* Rapidly available within 60 seconds  
+* Rapidly available within 60 seconds\
 In the OR, operating suite, or off-the floor.
 	* Supplementary equipment should be available within 5 minutes
 * Compliant with:
@@ -125,10 +125,10 @@ Includes:
 * Laryngoscopes
 	* Macintosh blades size 3 and 4
 	* Alternative blades
-	* Two laryngoscope handles  
+	* Two laryngoscope handles\
 	Including one stubby handle.
 * ETT adjuncts
-	* ETT introducer with a Coudé tip  
+	* ETT introducer with a Coudé tip\
 	e.g. Frova.
 	* Malleable stylet
 	* Selection of specialised ETTs
@@ -140,21 +140,21 @@ Includes:
 	* Airway exchange catheter
 * LMAs
 	* Intubating LMAs
-	* LMAS size 3, 4, and 5  
+	* LMAS size 3, 4, and 5\
 	Able to admit a bronchoscope.
 * Emergency airway equipment
-	* Surgical cricothyrotomy kit  
+	* Surgical cricothyrotomy kit\
 	Containing:
 		* Scalpel with #10 or #20 blade
 		* Tracheal hook
 		* Trousseau dilator
 		* Tracheostomy tubes size 6 and 7
-	* Catheter cricothyrotomy kit  
+	* Catheter cricothyrotomy kit\
 	Containing:
 		* Cannula
 		* Pressure or flow regulated insufflation system
 * Oesophageal intubation detector
-* Immediate CO~2~ detector  
+* Immediate CO~2~ detector\
 Capnograph, capnometer, or calorimetric detector.
 
 ### Paediatric Equipment
@@ -166,14 +166,14 @@ Should be available wherever paediatric airways are managed:
 	* Nasopharyngeal airways 3, 3.5, 4, 4.5, 5
 * Laryngoscopes
 	* Macintosh blade size 1
-	* Straight blades  
+	* Straight blades\
 	e.g. Miller sizes 0, 1, 2.
 * ETT adjuncts
 	* Paediatric introducers
 	* Malleable stylets
-	* Cuffed and uncuffed ETTs in various sizes  
+	* Cuffed and uncuffed ETTs in various sizes\
 	2, 2.5, 3, 3.5, 4, 4.5, 5, 5.5.
-	* Airway exchange catheters  
+	* Airway exchange catheters\
 	Size 8 Fr, 11 Fr, and 14 Fr.
 * LMAs
 	* LMAs size 1, 1.5, 2, 2.5
@@ -182,7 +182,7 @@ Should be available wherever paediatric airways are managed:
 	* Kink-resistant transtracheal catheter
 	* High pressure, pressure or flow-regulated ventilation system
 * Oesophageal intubation detector
-* Immediate CO~2~ detector  
+* Immediate CO~2~ detector\
 Capnograph, capnometer, or calorimetric detector.
 
 
@@ -194,7 +194,7 @@ Additionally, specialist paediatric units should have:
 
 Should be available within 5 minutes to support the above. Bronchoscopic equipment should include:
 
-* Intubating catheter  
+* Intubating catheter\
 e.g. Aintree.
 * Spare battery
 * Intubating airways
@@ -202,7 +202,7 @@ e.g. Aintree.
 * Bronchoscopic swivel connectors
 * Wires
 * Anti-fog solution
-* Local anaesthetics  
+* Local anaesthetics\
 Including:
 	* Sprays
 	* Atomisers
@@ -214,7 +214,7 @@ Including:
 
 Optional equipment may include:
 
-* Double-lumen airway  
+* Double-lumen airway\
 e.g. Combitube.
 * Non-standard laryngoscope blades
 	* McCoy
@@ -232,20 +232,20 @@ e.g. Combitube.
 Bag containing essential equipment that can be taken to emergency locations. Recommended content:
 
 * Airway adjuncts
-	* OPAs  
+	* OPAs\
 	Size 3, 4, 5.
-	* NPAs  
+	* NPAs\
 	Size 6, 7, 8.
 * LMAs
-	* Intubating LMAs  
+	* Intubating LMAs\
 	Size 3, 4, 5; with dedicated tubes.
 * ETTs
-	* ETTs  
+	* ETTs\
 	Size 5, 6.
 	* Intubating stylets
-	* Macintosh blades  
+	* Macintosh blades\
 	Size 2, 3, 4.
-	* Straight blade  
+	* Straight blade\
 	Size 3.
 	* Two laryngoscope handles
 	* Swivel bronchoscopy connector

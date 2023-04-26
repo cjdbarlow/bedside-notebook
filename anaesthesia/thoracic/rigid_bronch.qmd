@@ -13,7 +13,7 @@
 Placement of a rigid bronchoscope into the trachea, which allows passage of instruments and facilitates:
 
 * Visual inspection
-* Therapeutic interventions  
+* Therapeutic interventions\
 Indications include:
 	* Obstruction
 		* Foreign body
@@ -26,30 +26,30 @@ Indications include:
 	* Argon plasma coagulation
 	* Debridement
 	* Endobronchial stent deployment
-* Ventilation  
+* Ventilation\
 Via side-holes in the rigid bronchoscope, which facilitate ventilation of the **contra-lateral** lung. 
 
 
 ## Considerations
 
 * A
-	* Position  
+	* Position\
 	Requires extreme ramping to facilitate intubation.
-	* Secretion  
+	* Secretion\
 	Consider anti-sialogogue.
 * B
-	* Ventilatory and oxygenation demands  
+	* Ventilatory and oxygenation demands\
 	Risk ↑ in patients with:
 		* Poor exercise tolerance
 		* Respiratory distress
 		* PaO~2~ ⩽70mmHg
 		* PacO~2~ ⩾45mmHg
 * D
-	* Volatile vs. TIVA  
+	* Volatile vs. TIVA\
 	Dependent on ventilatory technique: volatile only achievable with intermittent volume ventilation.
-	* TIVA  
+	* TIVA\
 	Generally preferred; exact technique used will depend on desire for spontaneous or controlled ventilation.
-		* Propofol/remifentanil  
+		* Propofol/remifentanil\
 		Post-operative analgesia requirements are usually minimal.
 		* Propofol/fentanyl
 * H
@@ -66,33 +66,33 @@ Via side-holes in the rigid bronchoscope, which facilitate ventilation of the **
 
 Strategies include:
 
-* Spontaneous ventilation  
+* Spontaneous ventilation\
 Usually only appropriate **in children**.
-	* Spontaneous respiration is ideal in inhaled foreign body cases  
+	* Spontaneous respiration is ideal in inhaled foreign body cases\
 	Prevents distal propagation of the foreign body.
 	* Oxygenation may be facilitated with:
-		* Continuous nasal oxygen  
+		* Continuous nasal oxygen\
 		Via suction catheter or nasal ETT in nasopharynx.
 		* High-flow humidified oxygen
-* Controlled ventilation  
+* Controlled ventilation\
 Usually required in adults to facilitate tracheal placement of the bronchoscope. Methods include:
-	* Jet (Venturi) Ventilation  
+	* Jet (Venturi) Ventilation\
 	Most common method, and involves high-pressure oxygen delivered through the side port at the proximal end of the scope.
-		* Breaths delivered at 10-20/minute at ⩽50psi  
+		* Breaths delivered at 10-20/minute at ⩽50psi\
 		Lower rates facilitate passive exhalation via elastic recoil of lung and chest wall.
 		* Entrainment of air with oxygen facilitates ventilation and oxygenation
 		* Ensure there is an **avenue of escape** for the insufflated air to prevent barotrauma
 		* Monitor chest rise to prevent excessive V~T~ and gas trapping
-		* May be automatic or manual  
+		* May be automatic or manual\
 		Higher risk of pneumothorax or pneumomediastinum with manual technique.
-	* High Frequency Jet Ventilation  
+	* High Frequency Jet Ventilation\
 	Automated system giving low V~T~ breaths at a rate of 60-300/min.
 		* Motionless operating field
-		* Difficult to assess adequacy of ventilation  
+		* Difficult to assess adequacy of ventilation\
 		May require repeated blood gas analysis.
-		* V~T~ < V~Dead Space~  
+		* V~T~ < V~Dead Space~\
 		Gas transport mechanisms include laminar flow, longitudinal dispersion, pendelluft, molecular diffusion.
-	* Intermittent Volume ventilation  
+	* Intermittent Volume ventilation\
 	Ventilation tubing connected to proximal end of bronchoscope.
 		* Ventilation provided via the bronchoscope
 		* Leak minimised by occluding:
@@ -100,7 +100,7 @@ Usually required in adults to facilitate tracheal placement of the bronchoscope.
 			* Mouth packed with gauze
 		* Occlusion of the mouth and nose may be required to prevent leak
 		* Only provides intermittent viewing by the proceduralist
-	* Continuous insufflation/Apnoeic oxygenation  
+	* Continuous insufflation/Apnoeic oxygenation\
 	Continually flow of fresh gas via the side-port. Largely abandoned.
 
 
@@ -109,7 +109,7 @@ Complications of ventilation:
 * Hypercarbia
 * Hypoxia
 * Hypotension
-* Pneumothorax  
+* Pneumothorax\
 Secondary to barotrauma from rigid bronchoscopy.
 	* Occurs in ⩽1% of cases
 

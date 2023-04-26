@@ -14,7 +14,7 @@ Perioperative:
 
 * Opioid prescriptions on discharge and following surgical procedures are identified as independent risk factors
 * Surgery is a potential gateway to longterm opioid use
-* Significant **excess of discharge opioid**  
+* Significant **excess of discharge opioid**\
 	* 70% of patients have opioids remaining
 	* Only 5% of them dispose of it correctly
 
@@ -23,11 +23,11 @@ Perioperative:
 
 Harm reduction strategies can be divided into:
 
-* [Upstream](Upstream)  
+* [Upstream](Upstream)\
 Pharmaceutical and government interventions.
-* [Midstream](Midstream)  
+* [Midstream](Midstream)\
 Hospital interventions.
-* [Downstream](Downstream)  
+* [Downstream](Downstream)\
 Community, GP, and pharmacy interventions.
  
 ### Upstream
@@ -35,12 +35,12 @@ Community, GP, and pharmacy interventions.
 Include:
 
 * Legislative changes
-	* Up-scheduling  
+	* Up-scheduling\
 	Requiring more drugs to be prescription.
-	* Use of prescription trackers to identify doctor shopping  
+	* Use of prescription trackers to identify doctor shopping\
 	e.g. SafeScript.
 * Pharmaceutical changes
-	* Formulation of abuse-deterrent preparations  
+	* Formulation of abuse-deterrent preparations\
 	Addition of naloxone to oral opioids.
 
 
@@ -50,7 +50,7 @@ Include:
 ↓ prescription of opioids by:
 
 * Identify patients at risk of chronic post-surgical pain
-* Opioid stewardship programs  
+* Opioid stewardship programs\
 * Education of patients for realistic expectations for analgesia and harms of over-prescribing
 * Opioid prescribing guidelines
 * Changing default opioid prescription doses in EMR systems

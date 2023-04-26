@@ -3,11 +3,11 @@
 
 Monitoring of nerve integrity:
 
-* Involves applying a known stimulus and measuring the triggered response  
+* Involves applying a known stimulus and measuring the triggered response\
 Ischaemia or injury is suggested by:
-	* Change in response **amplitude**  
+	* Change in response **amplitude**\
 	Usually ~50%.
-	* ↑ response **latency**  
+	* ↑ response **latency**\
 	Usually ~10%; though some use up to 50% as threshold for intervention.
 	* Total loss of signal
 	* Need to ↑ stimulation voltage
@@ -23,27 +23,27 @@ Ischaemia or injury is suggested by:
 
 Method:
 
-* Evaluates entire pathway including subcortical structures  
+* Evaluates entire pathway including subcortical structures\
 Deeper monitoring than achieved with EEG.
 * Two stimulating electrodes applied to a nerve:
 	* Median
 	* Posterior tibial nerve
 	* Common peroneal
 * Monitor may be:
-	* Over the sensory cortex  
+	* Over the sensory cortex\
 	Scalp divided into sections, with electrodes applied in a standardised way.
-	* With epidural electrodes  
+	* With epidural electrodes\
 	Tend to be difficult to place and may move intraoperatively.
-	* Along the peripheral nerve  
+	* Along the peripheral nerve\
 	E.g. at brachial plexus for median nerve.
-* Evaluate proprioceptive signals  
+* Evaluate proprioceptive signals\
 Therefore evaluate **dorsal column** function.
 
 
 ### Conduct of Anaesthesia
 
 * Muscle relaxation improves signal:noise ratio
-* Volatile anaesthesia and nitrous oxide have a dose-dependent effect on amplitude  
+* Volatile anaesthesia and nitrous oxide have a dose-dependent effect on amplitude\
 ⩽1 MAC is acceptable, but TIVA is better.
 * Opioids have a minimal effect
 * Clonidine, and dexmedetomidine have no effect
@@ -59,9 +59,9 @@ Therefore evaluate **dorsal column** function.
 
 Method:
 
-* Short-duration high voltage stimuli applied to the motor cortex  
+* Short-duration high voltage stimuli applied to the motor cortex\
 Corkscrew electrodes applied into scalp.
-* Place a bite block  
+* Place a bite block\
 Voltage stimulation may cause biting and tongue/tube damage.
 * Obviously requires avoidance of muscle relaxation
 * Measurement via needle electrodes in:
@@ -69,7 +69,7 @@ Voltage stimulation may cause biting and tongue/tube damage.
 	* Abductor hallucis
 	* Vastus medialis
 * Reference electrodes placed into the small muscles of the hands
-* Evaluate motor signals  
+* Evaluate motor signals\
 Therefore **corticospinal tract** function.
 
 ### Conduct of Anaesthesia
@@ -77,9 +77,9 @@ Therefore **corticospinal tract** function.
 Require:
 
 * Minimal muscle relaxation
-* Avoidance of volatile anaesthesia  
+* Avoidance of volatile anaesthesia\
 ⩾0.5 MAC usually incompatible.
-* Avoidance of deep anaesthesia  
+* Avoidance of deep anaesthesia\
 Burst suppression reduces utility of monitoring.
 * Ketamine enhances the effect
 

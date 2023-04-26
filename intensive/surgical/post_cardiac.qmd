@@ -33,7 +33,7 @@ Important informatin for the cardiac admission:
 * Surgical factors
 	* What operation?
 		* CABG
-			* Adequacy of graft targets  
+			* Adequacy of graft targets\
 			* Graft locations
 		* Valvular
 			* Adequacy of repair
@@ -50,10 +50,10 @@ Important informatin for the cardiac admission:
 	* Airway management and intubation grade
 	* Any issues with lines?
 	* Pre-bypass haemodynamics
-	* Pre-bypass echo  
+	* Pre-bypass echo\
 	Ventricular and valvular function.
 	* Bypass time and cross-clamp time
-	* Separation from bypass  
+	* Separation from bypass\
 	Requirements for:
 		* Inotropes/vasopressors
 		* Nitric Oxide
@@ -107,7 +107,7 @@ Post-operative investigations should include:
 	* Lactataemia
 	* Hb
 	* Electrolyte abnormalities
-* ECG  
+* ECG\
 Compare with pre-operative ECG:
 	* Common and benign post-operative changes include:
 		* RBBB
@@ -115,11 +115,11 @@ Compare with pre-operative ECG:
 	* Concerning changes include:
 		* Heart block\
 		Indicates AV nodal dysfunction, particularly after valvular surgery.
-		* STE in continguous leads in a grafted vascular territory  
+		* STE in continguous leads in a grafted vascular territory\
 		May be acute graft failure.
-		* Anterior STE  
+		* Anterior STE\
 		LIMA spasm in a LIMA-LAD graft.
-		* Low voltage  
+		* Low voltage\
 		Consider tamponade.
 * CXR
 	* Pneumothorax
@@ -131,7 +131,7 @@ Depending on degree of concern.
 	* Electrolytes
 	* Coagulation status
 	* TEG
-	* Cardiac markers  
+	* Cardiac markers\
 	Always elevated post-cardiac surgery, but are useful in trending changes.
 
 ## Management
@@ -147,9 +147,9 @@ Specific post-operative considerations for different procedures are under the re
 :::
 
 * C
-	* Remove PAC  
+	* Remove PAC\
 	Once HDx stable for 6 hours on minimal vasoactive suppport.
-	* Remove other invasive lines  
+	* Remove other invasive lines\
 	As able.
 	* Remove pacing wires\
 		* Once there has been no pacing requirement for 24 hours, wires can be **isolated**, i.e. removed from the pacing box\
@@ -157,23 +157,23 @@ Specific post-operative considerations for different procedures are under the re
 		* Wires can be removed after a further 24 hours, provided there is **no coagulopathy**
 * D
 	* Analgesia
-	* Wean sedation  
+	* Wean sedation\
 	Short acting agents preferred.
 * E
-	* Warming  
+	* Warming\
 	Should be rewarmed to >36°C. This:
 		* Reduces arrythmia
 		* ↓ SVR and myocardial work
 		* Improves coagulopathy
 * F
 	* Electrolytes
-		* Hypokalaemia  
+		* Hypokalaemia\
 		Aim 4.5-5mmol/L.
-		* Hypomagnesaemia  
+		* Hypomagnesaemia\
 		Aim >1mmol/L.
-	* Urine output  
+	* Urine output\
 	Polyuria dominates the early post-operative period, but usually resolves in ⩽6 hours.
-	* Remove IDC  
+	* Remove IDC\
 	Second post-operative day if mobilising.
 
 
@@ -195,36 +195,36 @@ Key issues in the post-cardiac surgical patient include:
 
 * Causes:
 	* **Platelets**
-		* Qualitative abnormality  
+		* Qualitative abnormality\
 		Platelet function is ↓ by:
 			* Preoperative use of antiplatelet agents
-			* Cardiopulmonary bypass  
+			* Cardiopulmonary bypass\
 			Greater bypass duration is associated with greater impairment.
-		* Quantitative abnormality  
+		* Quantitative abnormality\
 	* Coagulation abnormality
 		* Residual heparinisation
 		* Haemodilution
 		* Consumption
-	* Fibrinogen  
+	* Fibrinogen\
 		* Plasminogen is activated by CPB
 * Treatment:
 	* Normalise temperature
 	* Prevent hypertension
 	* Correct platelet dysfunction:
-		* Platelet transfusion  
+		* Platelet transfusion\
 		Aim *functional* platelet count >100 × 10^9^ in significant bleeding.
-		* DDAVP  
+		* DDAVP\
 		Aim to improve platelet function.
 			* 20μg IV
-	* Correct coagulopathy  
+	* Correct coagulopathy\
 	Aim to normalise APTT and PT.
 		* Typically 20ml/kg of FFP
-	* Correct fibrinogen  
+	* Correct fibrinogen\
 	Aim to keep fibrinogen >1g/L.
-	* Prevent fibrinolysis  
+	* Prevent fibrinolysis\
 	Consider in the setting of fibrinolysis (i.e. elevated D-Dimer and low fibrinogen).
 		* TXA
-	* ↑ mediastinal pressure  
+	* ↑ mediastinal pressure\
 	Theoretically reduce venous bleeding.
 		* ↑ PEEP
 		* Raise head of bed
@@ -234,7 +234,7 @@ Key issues in the post-cardiac surgical patient include:
 * Bleeding with normal coagulation parameters
 * Bleeding following period of extreme hypertension\
 Anastomotic breakdown.
-* Large volume drain outputs  
+* Large volume drain outputs\
 	* >500ml in 1 hour
 	* >400ml/hr for 2 hours
 	* >300ml/hr for 3 horus
@@ -254,8 +254,8 @@ Haemodynamic impairment can be divided into problems with:
 		* Pacing malfunction
 		* Electrolytes
 		* Ischaemia
-* Preload  
-	* Hypovolaemia  
+* Preload\
+	* Hypovolaemia\
 	Associated with lower filling pressures, and accentuated by diastolic dysfunction.
 		* Bleeding
 		* Diuretics
@@ -265,7 +265,7 @@ Haemodynamic impairment can be divided into problems with:
 		* Pneumothorax
 		* Excessive PEEP
 	* ↑ Intrapericardial pressure
-		* Tamponade  
+		* Tamponade\
 		Elevation and equalisation of diastolic pressures.
 	* RV failure
 * Afterload/SVR 
@@ -289,10 +289,10 @@ Haemodynamic impairment can be divided into problems with:
 * Contractility
 	* Ischaemia
 		* Acute graft dysfunction
-		* Air embolus  
+		* Air embolus\
 		Predominantly RCA.
 	* Inadequate myocardial protection
-		* Myocardial stunning  
+		* Myocardial stunning\
 		Long bypass time.
 		* Ventricular dilatation
 		* Inadequate cardioplegia
@@ -310,7 +310,7 @@ Post-surgical tamponade:
 	* Tachycardia
 	* Low UO
 	* Fall in CO/SV/MVO~2~
-	* Elevation and equalisation of diastolic pressures  
+	* Elevation and equalisation of diastolic pressures\
 	RAP ≃ PADP ≃ PCWP. May not occur if a **small clot impedes filling to only one chamber**.
 	* Loss of y-descent on CVP waveform
 	Indicates that the pressure gradient between the atria and the ventricles is reduced.

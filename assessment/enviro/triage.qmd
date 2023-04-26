@@ -6,7 +6,7 @@
 Triage is:
 
 * A method of sorting casulaties into treatment priorities
-* A dynamic process  
+* A dynamic process\
 	* Reassessment is required to detect:
 		* Deteroriation
 		* Improvement
@@ -20,7 +20,7 @@ Triage is:
 
 Many triage tools exist. MIMMS describes the:
 
-* Triage sieve  
+* Triage sieve\
 Rapidly sorts casualties into priorities based on physiological variables. Quick but crude.
 * Triage sort
 
@@ -31,13 +31,13 @@ Straightforward protocol that is:
 
 * Performed by anyone with limited training
 * Reproducible
-* Based on physiological assessments  
+* Based on physiological assessments\
 Less prone to bias then anatomical systems.
 * Based on assessment of:
 	* Mobility
 	* Airway assessment
 	* Respiratory rate
-	* Circulation assessment  
+	* Circulation assessment\
 	Capillary refil time ⩽2 seconds can also be used as an alternative to HR, though HR takes precedence.
 
 ![](/resources/triage-sieve.jpg)
@@ -46,29 +46,29 @@ Application to paediatrics:
 
 * ↑ normal RR and HR in children will lead to relative over-triage of children
 	* Some feel this is beneficial to speed up evacuation of children
-	* Specific protocols for triaging of children exist  
+	* Specific protocols for triaging of children exist\
 	Paediatric Broselow tapes exist for triage protocols.
 
 #### Classifications
 
-* Tier 1   
+* Tier 1 \
 Immediate priority. Require immediate life-saving procedures.
-* Tier 2  
+* Tier 2\
 Urgent priority. Require intervention within 2-4 hours.
-* Tier 3  
+* Tier 3\
 Delayed priority. Intervention can be delayed ⩾4 hours.
 	* Should be directed to a survivor reception centre
 	* Should continue to be monitored to ensure they do not deteriorate
-* Tier 4  
+* Tier 4\
 Expectant.
 	* Casualty cannot survive despite best available care
 	* Treatment of casualty would divert medical resources from salvageable patients
-	* Only rarely activated  
+	* Only rarely activated\
 		* Usually requires the incident to be uncompensated
-		* Decision to activate rests jointly with health service commanders at scene  
+		* Decision to activate rests jointly with health service commanders at scene\
 		Decision should be escalated to the highest level provided communication is intact, and in many instances will occur at Gold Command.
 		* Avoiding the use of this category may cost additional lives
-	* May be revoked if resources become available  
+	* May be revoked if resources become available\
 	All T4 casualties then become T1.
 
 
@@ -96,7 +96,7 @@ Priority is then determined from the sum of scores in each category:
 |T2|11|
 |T3|12|
 |T4*|(1-3)|
-|Dead|0|  
+|Dead|0|\
 
 ^*^*If in use.*
 

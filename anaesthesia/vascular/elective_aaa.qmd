@@ -11,7 +11,7 @@
 Removal of an aneurysmal aorta and replacement with a synthetic graft. May be:
 
 * Infra-renal
-* Supra-renal  
+* Supra-renal\
 Requires a supra-renal cross-clamp, and therefore is associated with significantly greater peri-operative AKI.
 
 
@@ -39,23 +39,23 @@ High risk of perioperative morbidity and mortality.	Discuss:
 		* Consider PAC in complex disease
 	* Prepare for surgical maneuvers that will affect BP
 	Vasoactives:
-		* Vasodilators  
+		* Vasodilators\
 		For the cross-clamp phase.
-		* Vasopressors  
+		* Vasopressors\
 		For the ischaemic wash-out phase.
 		* Inotropes
 * D
-	* Analgesic plan  
+	* Analgesic plan\
 	Consider thoracic epidural.
-	* Spinal cord ischaemia and [spine protection](/anaesthesia/vascular/spine-protection)  
+	* Spinal cord ischaemia and [spine protection](/anaesthesia/vascular/spine-protection)\
 	Thoraco-lumbar portion of the anterior spinal artery receives the majority of its blood supply from the intercostal arteries and the artery of Adamkiewicz, and may be impaired during cross-clamping.
 * E
 	* Warming devices
-		* Upper body warmer  
+		* Upper body warmer\
 		**Do not warm legs during cross clamp** - there is a risk of worsening ischaemia, as well as causing burns due to absence of circulation.
 		* Fluid warmer
 * F
-	* Pre-existing renal impairment  
+	* Pre-existing renal impairment\
 	Especially in supra-renal AAA.
 * H
 	* Rapid transfusion set available
@@ -66,14 +66,14 @@ High risk of perioperative morbidity and mortality.	Discuss:
 * Standard ANZCA monitoring
 * 5-lead ECG
 * Large-bore IV access
-* Arterial line  
+* Arterial line\
 Pre-induction, in the arm with the higher pre-operative BP.
-* CVC  
+* CVC\
 Generally post-induction, unless required. Transduce CVP.
-* Consider thoracic epidural  
+* Consider thoracic epidural\
 	* Place at T6-T11
 	* Place immediately after IV, to give maximal time for haemostasis prior to intraoperative heparinisation
-	* Consider not using immediately, instead only initiating after the ischaemic washout phase is complete.  
+	* Consider not using immediately, instead only initiating after the ischaemic washout phase is complete.\
 	Limits haemodynamic instability if haemorrhage is significant.
 * Temperature monitoring
 * Fluid warming
@@ -83,9 +83,9 @@ Generally post-induction, unless required. Transduce CVP.
 Haemodynamically stable induction required:
 
 * Consider
-	* Fentanyl  
+	* Fentanyl\
 	4-6, up to 10μg/kg.
-	* Remifentanil infusion  
+	* Remifentanil infusion\
 	0.1-0.3μg/kg/min.
 
 ## Intraoperative
@@ -99,15 +99,15 @@ The AAA can be divided into 3 phases:
 * Send baseline ABG
 * Maintain stable haemodynamics
 * Prepare vasodilators
-* Draw up heparin  
+* Draw up heparin\
 **100 U/kg**.
 
-#### During Cross-clamp  
+#### During Cross-clamp\
 
-* SVR ↑, leading to an ↑ in BP  
+* SVR ↑, leading to an ↑ in BP\
 BP typically ↑ 7-10% during cross clamp.
 	* Begin vasodilators immediately prior to crossclamp
-	* Magnitude of this effect is reduced if occlusive aortoiliac disease is present  
+	* Magnitude of this effect is reduced if occlusive aortoiliac disease is present\
 	As SVR is already high prior to clamping.
 * VR reduces as ischaemia of lower limbs occurs.
 
@@ -120,15 +120,15 @@ BP typically ↑ 7-10% during cross clamp.
 	* Some surgeons will request mannitol 0.25-0.5g/kg prior to cross-clamp
 * Ensure lower limbs are not actively warmed
 
-#### Post-Cross Clamp  
+#### Post-Cross Clamp\
 
 Ischaemic washout of lower limbs occurs, leading to haemodynamic instability due to:
 
-* Immediate fall in SVR  
+* Immediate fall in SVR\
 ↑ size of arterial tree.
-* Relative hypovolaemia  
+* Relative hypovolaemia\
 ↑ size of venous bed.
-* Myocardial irritation  
+* Myocardial irritation\
 Metabolic waste irritating the ventricles.
 
 
@@ -142,7 +142,7 @@ Consider:
 
 ICU or HDU:
 
-* One or the other is required  
+* One or the other is required\
 * HDU acceptable if the patient can be extubated
 
 Post-operative complications:

@@ -10,9 +10,9 @@ Defined as a **mean PAP ⩾20mmHg**; and is classified by either:
 
 Into **five** types:
 
-* Type 1: Primary pulmonary **arterial** hypertension  
+* Type 1: Primary pulmonary **arterial** hypertension\
 Also known as pre-capillary pulmonary hypertension, as the primary disease is elevated *arterial* pressure.
-	* Defined as an **elevated PVR ⩾3 Wood Units**  
+	* Defined as an **elevated PVR ⩾3 Wood Units**\
 	Suggests a poor prognosis.
 	* Causes include:
 		* Idiopathic
@@ -20,28 +20,28 @@ Also known as pre-capillary pulmonary hypertension, as the primary disease is el
 		* Drug and toxin induced
 		* PAH associated with:
 			* Connective tissue disease
-			* Congenital heart disease  
+			* Congenital heart disease\
 			Due to intracardiac or extracardiac left-to-right shunts.
 			* HIV
 			* Portal hypertension
 			* Schistosomiasis
-* Type 2: Secondary to left heart disease  
+* Type 2: Secondary to left heart disease\
 Passive transmission of elevated LAP, occurring due to LV dysfunction or valve disease. Classified into:
 	* Preserved LVEF
 	* Reduced LVEF
 	* Valvular disease
 	* Post-capillary PHTN
-* Type 3: Secondary to respiratory disease (Cor pulmonale)  
+* Type 3: Secondary to respiratory disease (Cor pulmonale)\
 Common complication of severe respiratory disease, but is usually mild. Includes:
 	* Obstructive disease
 	* Restrictive disease
 	* Mixed obstructive/restrictive
 	* Hypoxia without lung disease
 	* Developmental lung disorders
-* Type 4: Chronic thromboembolic PAH (CTEPH)  
+* Type 4: Chronic thromboembolic PAH (CTEPH)\
 Chronic obstruction of the pulmonary bed occurring due to repeated PE.
 	* Occurs in ~3% of PE patients
-* Type 5: Uncertain mechanism of disease  
+* Type 5: Uncertain mechanism of disease\
 Includes:
 	* Haematologic
 	* Metabolic
@@ -52,22 +52,22 @@ Includes:
 
 WHO definition by limitations to physical activity:
 
-* Class I  
+* Class I\
 No limitations.
-* Class II  
+* Class II\
 Slight limitation; comfortable at rest but **ordinary activity** leads to symptoms including:
 	* Fatigue
 	* Dyspnoea
 	* Chest pain
 	* Syncope
-* Class III  
+* Class III\
 Marked limitation; comfortable at rest but **less than ordinary activity** leads to symptoms.
-* Class IV  
+* Class IV\
 Inability to perform **any activity** without symptoms. Patients:
 	* Manifest right heart failure
-	* May have rest symptoms  
+	* May have rest symptoms\
 	Dyspnoea, fatigue.
-	* 27% 5-year survival rate without treatment  
+	* 27% 5-year survival rate without treatment\
 	↑ to 54% with treatment.
 
 
@@ -111,7 +111,7 @@ Assessment:
 
 * Where is the primary pathology
 * What are the consequences
-	* What is the PA pressure?  
+	* What is the PA pressure?\
 	Less important compared to functional severity and stability.
 
 
@@ -128,11 +128,11 @@ Non specific cardiac and respiratory features:
 
 * Exertional dyspnoea
 * Fatigue
-* Hoarseness  
+* Hoarseness\
 From recurrent laryngeal nerve stretch.
 * RV dysfunction
 	* Exertional chest pain
-	* Exertional syncope  
+	* Exertional syncope\
 	Rare and late.
 	* Fluid overload
 	* Anorexia
@@ -180,9 +180,9 @@ Echocardiography:
 
 Imaging:
 
-* V/Q scan  
+* V/Q scan\
 Assess for pulmonary obstruction, as present in CTEPH.
-* HRCT  
+* HRCT\
 Assess for presence of primary respiratory disease.
 
 ## Management
@@ -201,22 +201,22 @@ Principles of management:
 Principles:
 
 * Treat any precipitating factors
-	* Arrhythmia  
+	* Arrhythmia\
 	**Restore sinus rhythm**.
 	* Sepsis
 	* Anaemia
 	* Thrombus
-* Optimise RV preload  
+* Optimise RV preload\
 Poor tolerance to change in loading conditions.
 	* Diuretics
 	* Fluid
 * Reduce RV afterload
-	* Inodilators  
+	* Inodilators\
 	Milrinone.
 	* Prostainoid
 	* Nitric oxide
 * Maintain RV perfusion pressure
-	* Vasopressors  
+	* Vasopressors\
 		* Noradrenaline generally accepted as first line
 		* Vasopressin useful for patients resistant to noradrenaline
 * Improve RV contractility
@@ -228,11 +228,11 @@ Poor tolerance to change in loading conditions.
 
 Pulmonary vasodilators:
 
-* Prostacyclins  
+* Prostacyclins\
 ↑ dose as tolerated to prevent systemic hypertension.
 	* Epoprostenol
 		* Reduces mortality
-		* Administered by continued infusion  
+		* Administered by continued infusion\
 		Requires long-term central access.
 		* Temperature sensitive
 	* Iloprost
@@ -259,7 +259,7 @@ Pulmonary endarterectomy:
 Transplantation:
 
 * Lung transplantation
-* Heart transplantation  
+* Heart transplantation\
 * Heart-lung transplantation
 
 ### Anaesthetic Considerations
@@ -283,27 +283,27 @@ Consider the package:
 	* 5-lead ECG
 	* Arterial line
 	* Consider CVC/PAC, TOE
-	* Have pulmonary vasodilators available  
+	* Have pulmonary vasodilators available\
 		* NO available
 	* Potential acute RV dysfunction
-		* May lead to haemodynamic collapse  
+		* May lead to haemodynamic collapse\
 		The **spiral of death**.
 		* **Optimise** PVR by avoiding:
 			* Hypoxia
 			* Hypercarbia
 			* Acidosis
 			* Hypothermia
-			* Sympathetic stimulation  
+			* Sympathetic stimulation\
 			Pain.
-			* RV overload  
+			* RV overload\
 			Use appropriate PEEP; usually 5-8cmH~2~O.
-		* Optimise preload  
+		* Optimise preload\
 		Narrow range of preload tolerance.
 			* Cautious fluid use
 			* Diuretics
 		* Defend RV perfusion
 		* Maintain sinus rhythm
-		* Optimise rate  
+		* Optimise rate\
 		High-normal.
 	* Haemodynamic goals
 		* Avoid ↑ PVR
@@ -314,7 +314,7 @@ Consider the package:
 			* Positioning
 			* Be careful of pneumoperitoneum
 		* Vasopressor
-			* Vasopressin  
+			* Vasopressin\
 			Allegedly will not ↑ PVR.
 			* Noradrenaline
 		* Inotropes

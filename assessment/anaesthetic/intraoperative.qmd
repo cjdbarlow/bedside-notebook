@@ -3,9 +3,9 @@
 
 Divided into:
 
-* **Anaesthetic crisis assessment**  
+* **Anaesthetic crisis assessment**\
 Approach to intraoperative crisis.
-* **Anaesthetic cross-check**  
+* **Anaesthetic cross-check**\
 Periodic review of patient and equipment.
 
 
@@ -20,21 +20,21 @@ The mnemonic is **COVER ABCD - A SWIFT CHECK**:
 * COVER ABCD is the mnemonic for patient and equipment assessment
 * A SWIFT CHECK is the mnemonic for potential diagnoses
 
-* **C**  
+* **C**\
 Circulation assessment.
-	* **Circulation**  
-		* Check adequacy of pulse  
+	* **Circulation**\
+		* Check adequacy of pulse\
 		Commence CPR if pulseless.
 		* Check capnograph for effective *circulation*
-	* **Colour**  
+	* **Colour**\
 	Check SpO~2~ and evidence of **peripheral cyanosis**.
-* **O**  
+* **O**\
 Oxygen assessment.
-	* **Oxygen Supply**  
+	* **Oxygen Supply**\
 	Ensure inspired gas mixture is not hypoxic. Check **rotameters**.
-	* **Oxygen Analysis**  
+	* **Oxygen Analysis**\
 	↑ FiO~2~ to 100% and ensure that the oxygen analyser detects the rise in FiO~2~.
-* **V**  
+* **V**\
 Ventilation and vapouriser assessment.
 	* **Hand-ventilate** the lungs, assessing:
 		* Circuit integrity
@@ -45,18 +45,18 @@ Ventilation and vapouriser assessment.
 		* Check agent level
 		* Check vapouriser is seated correctly
 		* Consider **wrong agent**
-* **E**  
+* **E**\
 	* **ETT assessment**
 		* Contamination
-		* Depth  
+		* Depth\
 		Externally compress the tracheal cuff whilst palpating the pilot balloon.
 		* Orientation
 		* Consider
-	* **Eliminate**  
+	* **Eliminate**\
 		* Remove the anaesthetic machine from circuit
 		* Hand ventilate with self-inflating bag
 			* Commence TIVA if required
-* **R**  
+* **R**\
 Review:
 	* **Monitors**:
 		* Breathing:
@@ -69,7 +69,7 @@ Review:
 			* Train-of-four
 		* Extremities
 			* Temperature
-	* **Equipment**:  
+	* **Equipment**:\
 	All other equipment in contact with the patient.
 		* Diathermy
 		* Humidifiers
@@ -87,17 +87,17 @@ Review:
 		* Aspiration
 		* In an *un*intubated patient, consider:
 			* Laryngospasm
-		* In an intubated patient, consider:  
+		* In an intubated patient, consider:\
 		DOPES:
 			* Dislodged
 			* Obstruction
 			* Pneumothorax
 			* Equipment
-				* Ventilator  
+				* Ventilator\
 				Consider swapping to self-inflating bag.
-				* Tube  
+				* Tube\
 				Consider tube exchange.
-			* Stacked breaths  
+			* Stacked breaths\
 			Dynamic hyperinflation.
 * **Breathing**
 	* Check:
@@ -105,7 +105,7 @@ Review:
 		* Adequacy
 	* Consider:
 		* Lower airway:
-			* Bronchospasm  
+			* Bronchospasm\
 			Dynamic hyperinflation.
 		* Alveolar:
 			* Oedema
@@ -113,7 +113,7 @@ Review:
 		* Pleural:
 			* Pneumothorax
 			* Haemothorax
-* **Circulation**  
+* **Circulation**\
 	* Check:
 		* Perfusion
 		* Pulse
@@ -133,7 +133,7 @@ Review:
 		* Drug error
 		* Loss of IV
 
-* **A**  
+* **A**\
 Note only letter in this mnemonic with four diagnoses:
 	* **Anaphylaxis**
 		* Hypotension
@@ -150,7 +150,7 @@ Note only letter in this mnemonic with four diagnoses:
 	* **Air embolus**
 		* Hypotension
 		* Hypocarbia
-* **S**  
+* **S**\
 	* **Surgical**
 		* Vagal stimulus
 		* Aortocaval compression
@@ -160,7 +160,7 @@ Note only letter in this mnemonic with four diagnoses:
 		* Hypotension
 		* Acidosis
 		* Hyperdynamic circulation
-* **W**  
+* **W**\
 	* **Water**
 		* Electrolyte disturbances
 	* **Wound**
@@ -168,7 +168,7 @@ Note only letter in this mnemonic with four diagnoses:
 		* Bleeding
 		* Tamponade
 		* Pneumothorax
-* **I**  
+* **I**\
 	* **Infarction**
 		* Conduction
 		* Arrhythmia
@@ -180,14 +180,14 @@ Note only letter in this mnemonic with four diagnoses:
 * **F**
 	* **Fat**
 		* Hypoxia/hypotension post induction, especially in lithotomy or post-inducation
-	* **Full bladder**  
+	* **Full bladder**\
 		* ↑ SNS tone
 * **T**
 	* **Trauma**
 	* **Torniquet**
 		* LA toxicity
 		* Bleeding
-* **C**  
+* **C**\
 	* **Catheter**
 		* IVC
 			* Tissued
@@ -195,7 +195,7 @@ Note only letter in this mnemonic with four diagnoses:
 			* Leaks
 		* Chest drain
 	* **Cement**
-* **H**  
+* **H**\
 	* **Hyper/Hypothermia**
 		* Tachycardia
 		* ECG changes
@@ -217,11 +217,11 @@ Note only letter in this mnemonic with four diagnoses:
 * **C**
 	* **Check** preoperative drugs
 	* **Check** preoperative diseases
-* **K**  
+* **K**\
 	* **K^+^**
 		* Hyperkalaemia
 		* Hypokalaemia
-	* **Keep**  
+	* **Keep**\
 	Asleep until new anaesthetic machine obtained.
 
 ## Intraoperative Cross-Check
@@ -229,9 +229,9 @@ Note only letter in this mnemonic with four diagnoses:
 
 > * Using the COVER mnemonic helps it become routine
 
-* **C**  
+* **C**\
 	* **Circulation**
-		* Check pulse  
+		* Check pulse\
 		Rate, rhythm, volume.
 		* Check ETCO~2~
 	* **Colour**
@@ -245,7 +245,7 @@ Note only letter in this mnemonic with four diagnoses:
 	* Check ETCO~2~ for value and waveform
 	* Check ventilation pressures and waveform
 	* Check vaporiser filling and sttings
-* **E**  
+* **E**\
 	* Check tube position and security
 	* Check tube cuff pressure and leak
 * **R**

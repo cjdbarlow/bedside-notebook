@@ -4,10 +4,10 @@
 Describes cardiac and neurological changes that occur due to systemic absorption of glycine, leading to toxicity due to:
 
 * Rapid changes in:
-	* Osmolality  
+	* Osmolality\
 	With associated hyponatraemia.
 	* Circulating volume
-* CNS effect of substances  
+* CNS effect of substances\
 
 ## Epidemiology and Risk Factors
 
@@ -18,15 +18,15 @@ Prevalence:
 
 Primary risk factor is rate and amount of irrigation fluid absorption:
 
-* Volume absorbed is directly proportional to degree of hyponatraemia  
+* Volume absorbed is directly proportional to degree of hyponatraemia\
 **~10mmol/L** fall **for each 1L of irrigation fluid absorbed**; though this will vary depending on lean body weight.
 * Factors influencing rate of absoprtion:
-	* Operating time  
+	* Operating time\
 	⩾1 hour.
-	* Low venous pressure  
+	* Low venous pressure\
 	CVP ⩽10 will permit fluid absorption.
 		* Hypovolaemia
-		* Hypotension  
+		* Hypotension\
 	* Extensive bleeding
 	* Capsular perforation
 	* High irrigation fluid pressure
@@ -37,12 +37,12 @@ Primary risk factor is rate and amount of irrigation fluid absorption:
 Due to systemic absorption of hypertonic irrigation fluid:
 
 * Fluids used include:
-	* Glycine 1.5%  
+	* Glycine 1.5%\
 	220mOsmol/kg.
 	* Sorbitol 3%
 	* Mannitol 5%
 * Used as a nonconductive irrigation fluid in percutaneous procedures using **unipolar** diathermy
-	* Use is rarer now that bipolar diathermy more common  
+	* Use is rarer now that bipolar diathermy more common\
 	Though large fluid shifts still occur due to absorption irrigation fluid.
 	* Procedures include
 		* TURP
@@ -50,10 +50,10 @@ Due to systemic absorption of hypertonic irrigation fluid:
 
 Effects due to::
 
-* Osmolality  
+* Osmolality\
 Effects mostly due to hypoosmolality, rather than hyponatraemia.
 * Circulating volume
-* Direct neurological effects of glycine  
+* Direct neurological effects of glycine\
 Acts as major inhibitory neurotransmitter and potentiates NMDA in CNS.
 	* Less common with sorbitol
 	* Significantly less common with mannitol
@@ -62,9 +62,9 @@ Acts as major inhibitory neurotransmitter and potentiates NMDA in CNS.
 
 Timing:
 
-* Intraoperatively  
+* Intraoperatively\
 Within 15 minutes.
-* Post-operatively  
+* Post-operatively\
 Up to 24 hours.
 
 Presentation:
@@ -74,7 +74,7 @@ Presentation:
 	* Restlessnes
 	* Dyspnoea
 	* Burning sensation in face and hands
-	* Visual disturbance  
+	* Visual disturbance\
 	Mainly due to glycine.
 * Late/severe:
 	* Hypoxia
@@ -91,18 +91,18 @@ Presentation:
 
 ### Prevention
 
-* Avoid use of non-electrolyte fluids  
+* Avoid use of non-electrolyte fluids\
 Use bipolar diathermy.
 * Minimise fluid absorption
-* Monitor fluid absorption  
+* Monitor fluid absorption\
 Calculate deficit between administered and suctioned fluid.
 * Have a (predetermined) threshold at which to abandon surgery
-	* At 750ml-1L:  
+	* At 750ml-1L:\
 	Depending on weight and sex.
 		* Cease fluid administartion
 		* Assess mental state
 		* Check serum sodium
-	* At 1-2L:  
+	* At 1-2L:\
 	Depending on weight and sex.
 		* Abandon surgery
 		* Assess mental state
@@ -117,11 +117,11 @@ Correct:
 
 * Volume changes
 	* Cease IV fluid
-	* Frusemide  
+	* Frusemide\
 	Only recommended if APO is present, as it will worsen hyponatraemia.
 * Solute changes
-	* 3% NaCl  
-		* 100ml, Q10 minutely, until resolution or 300ml given  
+	* 3% NaCl\
+		* 100ml, Q10 minutely, until resolution or 300ml given\
 		Each bolus should raise serum sodium by ~2-3mmol/L.
 		* Indicated if:
 			* Serum sodium is ⩽120mmol/L
@@ -134,18 +134,18 @@ Correct:
 
 Supportive therapy:
 
-* Bradycardia  
+* Bradycardia\
 	* Atropine
 	* Adrenaline
-* Seizures  
+* Seizures\
 	* Benzodiazepines
-	* Magnesium  
+	* Magnesium\
 	May be considered if refractory.
 
 ### Anaesthetic Considerations
 
 * C
-	* Arterial line  
+	* Arterial line\
 	Recommended if managing as TURP syndrome.
 	* Consider CVC
 	

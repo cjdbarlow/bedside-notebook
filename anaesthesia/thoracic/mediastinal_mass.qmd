@@ -11,7 +11,7 @@
 
 Mediastinal masses include aneurysms, tumours, and cysts that:
 
-* Occur in the anterior, posterior, middle, or superior mediastinum  
+* Occur in the anterior, posterior, middle, or superior mediastinum\
 Anterior masses are most likely to cause severe cardiorespiratory problems due to:
 	* Proximity to vascular/airway structures
 	* Exacerbation of compression in the supine position
@@ -33,37 +33,37 @@ Anterior masses are most likely to cause severe cardiorespiratory problems due t
 Anaesthetic considerations:
 
 * Team
-	* Surgeon available  
+	* Surgeon available\
 		* With rigid bronchoscope
 		* To perform emergent sternotomy and relieve compression of mass.
 * A
-	* **Mass effect on airway**  
-	* Airway device(s)  
+	* **Mass effect on airway**\
+	* Airway device(s)\
 	**Aim to intubate distal to obstruction**, which may be endobronchial.
 		* Long ETT
 		* Reinforced ETT
 		* MLT
 		* Jet ventilation
-		* LMA  
+		* LMA\
 		Permit spontaneous ventilation and bronchoscopy.
 * B
-	* **Mass effect on lungs**  
+	* **Mass effect on lungs**\
 		* Reduced lung volume
-		* Bronchial muscle relaxation  
+		* Bronchial muscle relaxation\
 		Occurs under GA, and ↑ airway compressibility.
 	* Ventilation strategy
-		* **Maintenance of spontaneous ventilation**  
+		* **Maintenance of spontaneous ventilation**\
 		Desirable to minimise adverse cardiac effects.
-		* Positive pressure ventilation  
+		* Positive pressure ventilation\
 		Ideally commenced gradually, with progressive taking-over of spontaneous ventilation.
 * C
-	* **Mass effect on heart and great vessels**  
+	* **Mass effect on heart and great vessels**\
 	Evaluate:
 		* Size
-		* Location  
+		* Location\
 		Relation to vascular tree/airway.
 		* Compression
-			* SVC obstruction  
+			* SVC obstruction\
 				* ↑ venous pressures and bleeding
 				* IV access preferentially in lower limbs
 			* PA
@@ -71,7 +71,7 @@ Anaesthetic considerations:
 				* Cardiac arrest
 	* Invasive pressure monitoring
 * D
-	* Anaesthetic technique  
+	* Anaesthetic technique\
 	See below.
 * E
 	* **Positioning**
@@ -80,7 +80,7 @@ Anaesthetic considerations:
 			* Prone
 			* Lateral
 			* Semi-erect
-	* Avoid muscle relaxation  
+	* Avoid muscle relaxation\
 	To maintain spontaneous ventilation.
 
 ## Preparation
@@ -104,20 +104,20 @@ Evaluate patient:
 		* Distended neck veins
 	* Pericardial effusion
 * Review investigations:
-	* CT chest  
+	* CT chest\
 	Most useful scan to evaluate size, location, and severity of compression.
-	* Flow-volume loops  
+	* Flow-volume loops\
 	May demonstrate intrathoracic obstruction, but are unreliable as a diagnostic test.
 
 
 Prepare:
 
 * Standard ANZCA monitoring
-* Multiple IVs  
+* Multiple IVs\
 Consider in lower limb if SVC is involved.
-* Arterial line  
+* Arterial line\
 Either arterial line or pulse oximeter in right arm for mediastinoscopy, to identify intraoperative compression of the innominate artery.
-* NIBP  
+* NIBP\
 On left arm if arterial line is in right side, to monitor systemic perfusion pressures.
 
 
@@ -129,7 +129,7 @@ On left arm if arterial line is in right side, to monitor systemic perfusion pre
 
 Anaesthetic technique:
 
-* Depends on pre-operative risk assessment  
+* Depends on pre-operative risk assessment\
 High risk features include:
 	* Orthopnoea
 	* Cough when supine
@@ -139,12 +139,12 @@ High risk features include:
 	* Tracheal compression <50% of CSA
 * For **low-risk** patients
 	* Standard IV induction +/- muscle relaxation appropriate
-* For **intermediate-risk** patients  
+* For **intermediate-risk** patients\
 Maintain spontaneous ventilation and avoid muscle relaxation:
 	* Semi-erect patient
-	* Induction  
+	* Induction\
 	May be:
-		* IV induction  
+		* IV induction\
 		Small boluses of propofol/ketamine, or dexmedetomidine.
 		* Inhalational
 			* May precipitate airway obstruction
@@ -152,7 +152,7 @@ Maintain spontaneous ventilation and avoid muscle relaxation:
 			* Partial obstruction may lead to very negative intrathoracic pressures
 	* Once GA instituted:
 		* Stepwise ↑ in support as tolerated and required:
-			* Intubation  
+			* Intubation\
 			* Lay supine
 			* Transition to IPPV
 			* Muscle relaxation
@@ -160,15 +160,15 @@ Maintain spontaneous ventilation and avoid muscle relaxation:
 		* **Revert** to previous stage
 		* Intubate distal to obstruction over FOB
 		* Rigid bronchoscopy
-		* Change position  
+		* Change position\
 			* Semi-erect
 			* Prone
 		* If the above fail:
 			* CBP/ECMO
 			* Emergency thoracotomy
-* For **high-risk** patients  
+* For **high-risk** patients\
 	* Local anaesthetic is preferable in every instance
-	* Sedation should be minimised  
+	* Sedation should be minimised\
 	Risk of:
 		* Respiratory depression
 		* Upper airway obstruction

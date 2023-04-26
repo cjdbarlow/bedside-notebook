@@ -22,7 +22,7 @@ OSA is:
 
 Risk factors for OSA include:
 
-* Severe obesity  
+* Severe obesity\
 Major risk factor.
 * Male
 * Middle-aged
@@ -45,33 +45,33 @@ Non-obese individuals with sleep apnoea usually have another structural problem,
 STOP-BANG assesses the probability of a having OSA, and may be used perioperatively to predict baseline risk of respiratory events:
 
 * Each factor gets 1 point
-* **S**noring  
+* **S**noring\
 Snoring loudly overnight.
-* **T**ired  
+* **T**ired\
 Daytime somnolence.
-* **O**bserved  
+* **O**bserved\
 To stop breathing/choking during sleep.
-* **P**ressure  
+* **P**ressure\
 Presence of hypertension.
-* **B**MI  
+* **B**MI\
 ⩾35kg/m^2^.
-* **A**ge  
+* **A**ge\
 ⩾50.
 * **N**eck size
 * ⩾43cm (male), 41cm (female).
-* **G**ender  
+* **G**ender\
 Male.
 
 
 Interpretation:
 
-* Low risk  
+* Low risk\
 0-2 points; very high negative predictive value.
-* Moderate risk  
+* Moderate risk\
 3-4 points.
-* High risk  
+* High risk\
 Any of:
-	* 5-8 points  
+	* 5-8 points\
 	More likely than not to have severe OSA.
 	* 2 points + male
 	* 2 points + BMI
@@ -82,7 +82,7 @@ Any of:
 
 Four main pathophysiological causes:
 
-* **Anatomical compromise**  
+* **Anatomical compromise**\
 Narrow or crowded upper airway, from:
 	* Craniofacial morphology
 	* Hyoid position
@@ -90,19 +90,19 @@ Narrow or crowded upper airway, from:
 	* Tongue scalloping
 * **Non-anatomical**
 	* **Low arousal threshold**
-	* **Ineffective pharyngeal dilator**  
+	* **Ineffective pharyngeal dilator**\
 	Pharyngeal closing pressure:
 		* Evaluates the CPAP required to maintain airway patency
 		* CPAP is gradually ↓ during stable sleep, until airflow limitation occurs
 		* Patients with OSA commonly have a pharyngeal closing pressure close to atmospheric pressure
 		* OSA is rare in patients with Pcrit lower than -5cmH~2~O
-	* **Unstable control of breathing**  
+	* **Unstable control of breathing**\
 	Loop gain:
 		* General term describing behaviour of a feedback-control system
-		* With respect to OSA, describes the change in ventilatory response due to ventilatory disturbance  
+		* With respect to OSA, describes the change in ventilatory response due to ventilatory disturbance\
 		Consists of:
 			* CO~2~ gain in tissues
-			* Circulatory time  
+			* Circulatory time\
 			Time taken for change in CO~2~ to mix with blood and reach chemoreceptors
 			* Chemoreceptor sensitivity
 		* High loop gain leads to exaggerated ventilatory responses
@@ -148,7 +148,7 @@ OSA is graded by AHI, but in absence of a sleep study symptoms can provide a gui
 	* BMI 30-40
 	* Witnessed apnoeas
 * High risk
-	* Snores  
+	* Snores\
 	In all positions.
 	* BMI >40
 	* Frequent apnoeas
@@ -164,34 +164,34 @@ OSA is graded by AHI, but in absence of a sleep study symptoms can provide a gui
 Polysomogram is:
 
 * Diagnostic
-* Used to grade severity  
+* Used to grade severity\
 Given as the **apnoea-hypopnoea index** (AHI), the **total number of apnoeas or hypopnoeas per hour of sleep**.
 	* Mild: 5-15
 	* Moderate: 16-30
 	* Severe: ⩾31
 * Other useful values
 	* Minimum SpO~2~
-	* T90  
+	* T90\
 	Time with SpO~2~ <90%.
 * A highly involved study
 	* Waiting lists may be extensive which makes it often impractical
 * An evaluation of multiple parameters:
-	* Infrared camera  
+	* Infrared camera\
 	Monitors body position.
-	* Airway microphone  
+	* Airway microphone\
 	Monitors airflow.
-	* SpO~2~  
-	* Chest girth measurement  
+	* SpO~2~\
+	* Chest girth measurement\
 	Evaluates respiratory effort.
-	* EEG  
+	* EEG\
 	For monitoring of sleep cycles.
-	* Electrooculogram  
+	* Electrooculogram\
 	Monitors eye movement to separate REM from non-REM sleep.
-	* ECG  
+	* ECG\
 	Monitors cardiac activity.
-	* Chin EMG  
+	* Chin EMG\
 	Upper airway muscle activity.
-	* Leg EMG  
+	* Leg EMG\
 	Monitors leg movements.
 
 
@@ -207,7 +207,7 @@ Overnight oximetry:
 
 ABG:
 
-* Respiratory acidosis/Metabolic alkalosis  
+* Respiratory acidosis/Metabolic alkalosis\
 Evaluating for presence of obesity hypoventilation syndrome.
 
 FNE:
@@ -219,7 +219,7 @@ FNE:
 
 Largely focuses on correcting anatomical causes:
 
-* CPAP  
+* CPAP\
 ↑ pharyngeal pressure above closing pressure, maintaining airway patency.
 	* Indicated in moderate to severe disease
 	* Improves sleep quality and quality of life
@@ -230,36 +230,36 @@ Surgery:
 
 * Indicated in patients with severe OSA unable or unwilling to use CPAP
 * Options depend on location and degree of obstruction, but include:
-	* Septoplasty/turbinate reduction  
+	* Septoplasty/turbinate reduction\
 	May improve nasal breathing and CPAP compliance.
-	* UPPP/UPF  
+	* UPPP/UPF\
 	~40% reduction in AHI.
-	* Tongue base reduction  
+	* Tongue base reduction\
 	~54% reduction in AHI. Usually combined with another procedure.
 
 ### Anaesthetic Considerations
 
->* Respiratory and cardiac risk is elevated perioperatively  
+>* Respiratory and cardiac risk is elevated perioperatively\
 > Risk is substantially elevated with unrecognised severe OSA; up to 14x risk of cardiac death, 7x risk of CCF, 3x risk of pneumonia, 2x risk of sepsis, etc.
 > * Treating patients with OSA in the perioperative period appears effective in ↓ their perioperative risk
 
 * A
-	* CPAP available  
+	* CPAP available\
 	Ensure CPAP or BiPAP device that the patient uses is brought to hospital and used perioperatively.
-	* Difficult airway  
+	* Difficult airway\
 	Intubation difficult in 10-25%.
 * B
 	* Significantly ↑ risk of perioperative pulmonary and cardiovascular complications including:
 		* Aspiration pneumonia
 		* ARDS
 		* PE
-		* Reintubation  
+		* Reintubation\
 		Double risk.
 	* Treatment prior to surgery may ↓ perioperative risk
-	* Perioperative respiratory monitoring is reasonable  
+	* Perioperative respiratory monitoring is reasonable\
 	Lacks strong evidence base.
 * C
-	* ↑ CVS complications  
+	* ↑ CVS complications\
 	1.5-2x rate of cardiac complications.
 * D
 	* No clear evidence for general anaesthesia or regional anaesthesia (or vice versa)
@@ -281,16 +281,16 @@ Surgery:
 
 Hypoxaemia and hypercarbia in severe OSA has several cardiovascular sequelae:
 
-* Arrhythmia  
+* Arrhythmia\
 Due to changed autonomic tone.
 	* Bradycardia
 	* Second-degree heart block
 	* Ventricular ectopy
 * Pulmonary hypertension
-	* Directly  
+	* Directly\
 	Due to hypoxic pulmonary vasoconstriction.
 	* Indirectly
-		* ↑ sympathetic tone  
+		* ↑ sympathetic tone\
 		Due to hypoxia.
 		* ↑ transmural pressure from more neagative intrathoracic pressure due to inspiratory effort against upper airway obstruction
 

@@ -7,10 +7,10 @@ This section covers various considerations for paediatric anaesthesia. The [anae
 :::
 
 * Presents its own unique challenges
-	* Technical  
+	* Technical\
 	Small airways, veins.
 	* Psychological
-		* Child  
+		* Child\
 		* Parents
 * Is more similar to adult anaesthesia than it is different
 
@@ -19,20 +19,20 @@ This section covers various considerations for paediatric anaesthesia. The [anae
 
 Airway:
 
-* ↓ Airway diameter  
+* ↓ Airway diameter\
 ETT diameter significantly affects airway resistance.
 
 Breathing:
 
 * Notably **similar tidal volume** of 7mL/kg
-* Similar **dead space volume**  
+* Similar **dead space volume**\
 However apparatus dead space becomes proportionally more important.
-* ↑ atelectasis  
+* ↑ atelectasis\
 PEEP requirement.
 
 Circulation:
 
-* Absence of coronary disease means children will tolerate significant doses of anaesthesia without circulatory compromise  
+* Absence of coronary disease means children will tolerate significant doses of anaesthesia without circulatory compromise\
 Assuming no congenital cardiac disease present.
 
 Neurological:
@@ -48,15 +48,15 @@ Neurological:
 
 Extremities:
 
-* Temperature control  
+* Temperature control\
 Surface area to volume ratio ↑ heat flux (usually loss).
-	* Minimise exposure  
+	* Minimise exposure\
 		* Keep dressed in preop hold
 		* Wrap in OT
 	* Humidification
-	* Forced air warmer  
+	* Forced air warmer\
 	Underbody.
-	* Consider warmed fluids  
+	* Consider warmed fluids\
 	Only effective if high volumes being given.
 
 
@@ -64,12 +64,12 @@ Surface area to volume ratio ↑ heat flux (usually loss).
 
 Use of language:
 
-* Positive language  
+* Positive language\
 Remove words with negative associations, e.g. pain.
 	* "You'll usually wake up pretty comfortable, we'll give you extra medicine to make you more comfortable, and a nurse will be there to give you more medicine to keep you comfortable."
 * Emphasis on safety rather than risk
 * Reinforce positive behaviours
-* Don't downplay pain and anxiety  
+* Don't downplay pain and anxiety\
 Says things will hurt if they will hurt.
 * Reassure that concerns and anxiety is normal, but magnitude of risk is low in well children
 * Project a sense of relaxation
@@ -107,11 +107,11 @@ This section covers key differences from adults relevant to paediatric anaesthes
 This group:
 
 * Present the greatest:
-	* **Technical** challenges  
+	* **Technical** challenges\
 	Both in difficulty, and in difference from adults.
 	* Requirement for additional resources
 * Probably has the highest parental anxiety
-* Should have age calculated as **post-conceptual age**  
+* Should have age calculated as **post-conceptual age**\
 $PCA = Weeks \ of \ Gestation + Weeks \ since \ Birth$. 
 
 +------------------+----------------------------------------------------------+------------------------------------------------------+------------------------------------------------------------------------+
@@ -147,24 +147,24 @@ $PCA = Weeks \ of \ Gestation + Weeks \ since \ Birth$.
 
 CATABOLIC:
 
-* **C**ongenital Associations  
+* **C**ongenital Associations\
 One abnormality suggests presence of another abnormality.
-* **A**pnoea  
+* **A**pnoea\
 Post-operative.
-* **T**emperature  
+* **T**emperature\
 Tendency to hypothermia.
-* **A**ir in stomach  
+* **A**ir in stomach\
 Significantly impedes ventilation.
-* **B**radycardias  
+* **B**radycardias\
 Indicate a low CO.
-* **O**pioid sensitivity  
+* **O**pioid sensitivity\
 ↑ CNS and respiratory effects.
-* **L**ines  
+* **L**ines\
 Avoid air bubbles.
 * **I**ntubation
-* **C**alcium  
+* **C**alcium\
 Contractility and blood pressure are dependent on extracellular calcium.
-* **G**lucose  
+* **G**lucose\
 Tendency to hypoglycaemia.
 
 #### Changes in Infants in Detail
@@ -176,29 +176,29 @@ Tendency to hypoglycaemia.
 	* Tongue
 		* Difficult to negotiate with laryngoscopy
 		* ↑ Risk of upper airway obstruction
-		* Obligate nasal breathing in first few weeks of life  
+		* Obligate nasal breathing in first few weeks of life\
 			* ↑ Risk of obstruction with:
 				* Nasal congestion
 				* Foreign body
 					* Nasal prongs
 					* NGT
-	* Epiglottis  
+	* Epiglottis\
 	May cover laryngeal inlet if laryngoscope is engaged in the vallecula - hence use of straight blades to elevate epiglottis.
 * Relatively small mandible
 * Prominent occiput
 * Short neck and trachea
-	* High risk of both endobronchial intubation and inadvertent extubation  
+	* High risk of both endobronchial intubation and inadvertent extubation\
 	Endobronchial intubation may be eithe left- or right-sided, as both main bronchi divert at the same angle.
-* Higher larynx  
+* Higher larynx\
 Results in relatively **anterior larynx**.
 
 
 **Respiratory Differences:**
 
-* ↑ VA:FRC ratio  
+* ↑ VA:FRC ratio\
 Change in inspired gas mixture rapidly alters alveolar (and arterial) gas composition.
 	* Rapid uptake of volatile agents
-* Higher closing volume (until 6-12 months) and reduced FRC  
+* Higher closing volume (until 6-12 months) and reduced FRC\
 	* ↑ Risk of atelectasis
 	* ↑ Risk of shunt
 	* Rapid desaturation 
@@ -206,41 +206,41 @@ Change in inspired gas mixture rapidly alters alveolar (and arterial) gas compos
 	* Periodic breathing with apnoeas in neonates
 	* Sub-anaesthetic drug concentrations still affect respiration
 * Anatomically inefficient alignment of thoracic bones, and weak respiratory musculature
-	* Less efficient ventilation  
+	* Less efficient ventilation\
 	Reliant on diaphragm as bucket-handle mechanism not functional.
 	* ↓ Respiratory reserve
 	* Earlier onset of respiratory failure due to fatigue
-	* ↑ Chest wall compliance  
+	* ↑ Chest wall compliance\
 	Early appearance of intercostal and sternal recession when work of breathing is ↑.
-* ↓ Number of thick-walled alveoli  
+* ↓ Number of thick-walled alveoli\
 May only be 10% of adult total.
 
 
 **Cardiac Differences:**
 
-* ↓ Myocardial compliance  
+* ↓ Myocardial compliance\
 Heart failure with ↑ volume due to poor Starling response.
-* ↓ Contractility  
+* ↓ Contractility\
 Due to ↓ number of elements.
 	* Fixed stroke volume
 	* CO is HR dependent
 * Heart rate
-	* Bradycardia is poorly tolerated  
+	* Bradycardia is poorly tolerated\
 	HR <60 does not give adequate CO - **commence CPR** in neonates, or when there are signs of inadequate perfusion in older children.
-		* Atropine  
+		* Atropine\
 		Relative parasympathetic predominance in autonomically stressed child, but not always reliable.
-		* Adrenaline  
+		* Adrenaline\
 		Better choice when bradycardia must be corrected immediately and reliably (which is usually the case).
-			* Consider ~1μg/kg adrenaline for bradycardia in non-arrest situations  
+			* Consider ~1μg/kg adrenaline for bradycardia in non-arrest situations\
 			0.1ml/kg of 1:10,000 adrenaline, diluted into a 10ml syringe, will give 1μg/kg/ml.
 	* Tachycardia is well tolerated
-* Dominate vagal tone  
+* Dominate vagal tone\
 Bradycardia common with vagal stimuli, such as laryngoscopy, hypoxia.
 
 
 **CNS Differences:**
 
-* Incomplete blood-brain barrier  
+* Incomplete blood-brain barrier\
 Free passage of:
 	* Opioids
 	* Barbiturates
@@ -250,31 +250,31 @@ Free passage of:
 	* Sutures will open and fontanelle expand prior to ↑ in ICP
 * Greater volume of CSF
 	* Subarachnoid anaesthesia requires higher doses, and does not last as long
-* Spinal cord occupies entire length of canal  
+* Spinal cord occupies entire length of canal\
 Canal and cord grow at different rates, so the termination moves cephalad with age:
 
-* Incomplete ossification of sacral vertebrae  
+* Incomplete ossification of sacral vertebrae\
 Neuraxial techniques achievable.
 
 
 **MSK Differences:**
 
 * Sensitivity to **hypothermia** due to:
-	* ↑ Surface area:volume ratio  
+	* ↑ Surface area:volume ratio\
 	↑ Heat losses to environment, and in respiratory vapour (due to higher MV).
-	* ↓ Heat production  
+	* ↓ Heat production\
 	Weaker compensatory mechanisms:
 		* Ineffective shivering
-		* Poor vasoconstriction  
+		* Poor vasoconstriction\
 		Ineffective A-V shunts.
-		* Non-shivering thermogenesis  
+		* Non-shivering thermogenesis\
 		Brown fat metabolism key to heat production.
 
 **Renal Differences:**
 
 * ↓ Tubular concentrating ability
 * ↓ Renal bicarbonate levels
-* ↓ GFR  
+* ↓ GFR\
 Reduced ability to cope with volume and electrolyte loads.
 
 
@@ -284,10 +284,10 @@ Reduced ability to cope with volume and electrolyte loads.
 	* Reduced vitamin K dependent clotting factors in neonate
 	* Reduced glucose storage in neonate
 		* Hypoglycaemia common if not feeding
-* Infants  
+* Infants\
 Up to 2-3 months:
 	* Immature metabolic pathways
-		* Many drugs  
+		* Many drugs\
 		May prolong post-operative effects, and alter dosage intervals or infusion rates.
 		* Bilirubin
 
@@ -296,14 +296,14 @@ Up to 2-3 months:
 * Major differences occur in children up to ~6 months
 * Absorption
 	* Reduced IM and SC absorption
-* Distribution  
+* Distribution\
 	* Rapid distribution due to high CO
 	* ↑ TBW and V~d~ of water-soluble drugs
-	* ↑ ECF compartment volume  
+	* ↑ ECF compartment volume\
 	↑ required dosing for drugs distributed to ECF.
-	* ↓ Plasma protein level and protein binding  
+	* ↓ Plasma protein level and protein binding\
 	↑ free drug fraction.
-	* Poorly developed blood-brain barrier  
+	* Poorly developed blood-brain barrier\
 	↑ CNS distribution of drugs. 
 * Metabolism
 	* Immature hepatic metabolism
@@ -316,10 +316,10 @@ Up to 2-3 months:
 
 2-4 year old children:
 
-* Have interactions with adults other than parents  
+* Have interactions with adults other than parents\
 * Recognise *something is up* when in hospital, and will be generally suspicious
 	* Usually cannot be approached with a needle without significant distress
-	* May benefit from premedication  
+	* May benefit from premedication\
 	Difficult to predict which children will require premedication.
 		* ~50% of children who are predicted to be well behaved will not be
 		* ~50% of children who are given a premedication will still be difficult to manage
@@ -345,7 +345,7 @@ Up to 2-3 months:
 
 * Physiology is more similar to adults
 * Primary issue is psychological
-	* Word choice is crucial  
+	* Word choice is crucial\
 	Avoid:
 		* Needle
 		* Mash
@@ -355,9 +355,9 @@ Up to 2-3 months:
 		* Nausea
 		* Sick
 	* Distraction and hyponosis are beneficial
-	* In general, believe that the world is fair and adults Do The Right Thing  
+	* In general, believe that the world is fair and adults Do The Right Thing\
 	Play to this.
-	* Ideally, use one voice during induction  
+	* Ideally, use one voice during induction\
 	Yours or the parents; but avoid chattering.
 
 +--------+-----------------------------------------------------------------+
@@ -381,9 +381,9 @@ Up to 2-3 months:
 11-18 year old children:
 
 * Physiology and management almost identical to adults
-* Psychological differences remain the major difference  
+* Psychological differences remain the major difference\
 Tend to respond in two ways to the stress of hospital and disease. Consult should be tailored appropriately.
-	* Child-like response  
+	* Child-like response\
 		* Frustrated, angry, "unfair"
 		* Need gentle reassurance
 	* Adult-like response

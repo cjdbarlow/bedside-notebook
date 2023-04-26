@@ -8,7 +8,7 @@ Development of cardiac failure:
 * In absence of:
 	* Identifiable cause, or
 	* Cardiac disease prior to the last month of pregnancy
-* As defined by LV dysfunction on echo  
+* As defined by LV dysfunction on echo\
 With:
 	* LVEF <45%, or
 	* Fractional shortening <30%
@@ -68,10 +68,10 @@ Recovery:
 
 Subsequent pregnancy:
 
-* Associated with significant morbidity  
+* Associated with significant morbidity\
 Generally better than the pregnancy with the cardiomyopathy however:
 	* 25% develop cardiac failure
-	* 15% have a fall in EF  
+	* 15% have a fall in EF\
 	10% have a persistent reduction in EF.
 	* 13% premature birth rate
 

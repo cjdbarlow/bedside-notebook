@@ -3,12 +3,12 @@
 
 Developmental disorder characterised by:
 
-* Intellectual disability  
+* Intellectual disability\
 Usually visual-spatial.
 * Distinctive facies
-* Cardiovascular abnormalities  
+* Cardiovascular abnormalities\
 Including:
-	* **Supravalvular aortic stenosis**  
+	* **Supravalvular aortic stenosis**\
 	* Abnormalities of coronary artery implantation
 
 
@@ -41,15 +41,15 @@ Key characteristics:
 	* Mandibular hypoplasia
 * Developmental delay
 * Hypotonia
-* Hypercalcaemia  
+* Hypercalcaemia\
 Develops in infancy and resolves by ~4; unclear cause.
-* Cardiac disease  
-	* **Present in 80%**  
+* Cardiac disease\
+	* **Present in 80%**\
 	40% will require procedural intervention.
 	* Includes
-		* Supravalvular AS  
+		* Supravalvular AS\
 		Non-compliant aorta narrows at the sinotubular junction, and ↑ AV leaflet degeneration. Severity usually remains stable in most patients.
-		* Pulmonary artery stenosis  
+		* Pulmonary artery stenosis\
 		Often occurs with SVAS.
 
 
@@ -81,7 +81,7 @@ Imaging:
 ### Anaesthetic Considerations
 
 * A
-	* Potentially difficult airway  
+	* Potentially difficult airway\
 	Secondary to mandibular hypoplasia.
 * C
 	* Evaluate cardiac disease
@@ -89,11 +89,11 @@ Imaging:
 		* Coronary occlusion
 	* 5-lead ECG
 	* Defend coronary blood flow
-		* Minimise NPO time  
+		* Minimise NPO time\
 		* Maintain volume state
 		* Avoid fall in SVR/rise in PVR
 * F
-	* Hypercalcaemia  
+	* Hypercalcaemia\
 	Testing recommended every 2 years.
 
 ### Marginal and Ineffective Therapies
@@ -102,7 +102,7 @@ Imaging:
 
 Include:
 
-* Perioperative death  
+* Perioperative death\
 Likely due to myocardial ischaemia.
 
 ## Prognosis

@@ -3,11 +3,11 @@
 
 The TAP block is a regional technique to provide analgesia to the anterior abdominal wall, between the mid-clavicular lines. There are three approaches:
 
-* Posterior approach  
+* Posterior approach\
 Performed laterally above the iliac crest, and provides analgesia below the umbilicus.
-* Subcostal approach  
+* Subcostal approach\
 Performed under the costal margin, lateral to the rectus, and provides periumbilical analgesia.
-* Oblique subcostal approach  
+* Oblique subcostal approach\
 Multiple injections along the oblique subcostal line, and provides analgesia to upper abdominal incisions.
 
 ## Indications
@@ -21,18 +21,18 @@ Multiple injections along the oblique subcostal line, and provides analgesia to 
 	* Rectus abdominus and transversus abdominus in the subcostal abdominal wall
 * The TAP contains the thoracolumbar nerves (T6-L1) which innervate the abdominal wall
 * Thoracolumbar nerves consist of intercostal, subcostal, iliohypogastric, and ilioinguinal nerves
-* All travel beneath the rectus and run for a variable distance through the TAP before penetrating the rectus sheath  
+* All travel beneath the rectus and run for a variable distance through the TAP before penetrating the rectus sheath\
 This may occur quite laterally, so **medial blocks may miss the nerve** if it has already penetrated the internal oblique muscle.
 
 ![](/resources/tap.png)
 
 ## Equipment
 
-* Ultrasound machine, gel, probe cover  
+* Ultrasound machine, gel, probe cover\
 High or low frequency probe acceptable.
-* Needle and catheter kit  
+* Needle and catheter kit\
 e.g. 18G Touhy or 21G 100mm ultrasound needle.
-* Local anaesthetic  
+* Local anaesthetic\
 Typically 3mg/kg ropivacine (up to 200mg) diluted with N/S to 40ml (20ml each side)
 * Sterile equipment
 
@@ -43,10 +43,10 @@ Typically 3mg/kg ropivacine (up to 200mg) diluted with N/S to 40ml (20ml each si
 * Identify the rectus abdominus and transversus abdominus muscle at the costal margin
 ![Probe placement: Hebbard, P. D., Barrington, M. J., & Vasey, C. (2010). Ultrasound-guided continuous oblique subcostal transversus abdominis plane blockade: Description of anatomy and clinical technique. Regional Anesthesia and Pain Medicine, 35(5), 436–441. https://doi.org/10.1097/AAP.0b013e3181e66702](/resources/tappos.png)
 * Scan inferiorly to identify the TAP at the level of the surgical incision
-* Place the needle medial to the probe (close to midline), and travel inferolaterally towards the iliac crest into the TAP  
+* Place the needle medial to the probe (close to midline), and travel inferolaterally towards the iliac crest into the TAP\
 ![Needle placement: Hebbard, P. D., Barrington, M. J., & Vasey, C. (2010). Ultrasound-guided continuous oblique subcostal transversus abdominis plane blockade: Description of anatomy and clinical technique. Regional Anesthesia and Pain Medicine, 35(5), 436–441. https://doi.org/10.1097/AAP.0b013e3181e66702](/resources/tapplane.png)
 * Hydrodisect the TAP with 1-2ml of LA solution to confirm correct placement
-* Wound catheters may also be placed  
+* Wound catheters may also be placed\
 	* Use epidural or nerve block catheters
 	* Catheters may be left up to **5 days**
 	* Catheters may be managed as:

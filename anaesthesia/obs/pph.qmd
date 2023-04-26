@@ -12,12 +12,12 @@
 
 Anaesthetic and surgical management depends on the **cause** and **extent** of blood loss. Causes of PPH include:
 
-* Tone  
+* Tone\
 In ascending order:
 	* Uterotonic therapy
 	* Uterine massage/bimanual compression
 	* Balloon tamponade/uterine packing
-	* Uterine artery embolisation  
+	* Uterine artery embolisation\
 	Requires interventional radiology.
 	* Uterine compression sutures
 	* Iliac artery ligation
@@ -25,22 +25,22 @@ In ascending order:
 	* Hysterectomy
 		* Supracervical
 		* Total hysterectomy
-* Tissue  
+* Tissue\
 Retained products of conception; i.e. **incomplete placenta**.
 	* If regional technique used, a block to **T4** is required
 	* Tocolysis may be required
 		* GTN 100-200μg IV
 		* GTN 400μg SL
 		* Volatile anaesthetic agents
-* Trauma  
+* Trauma\
 Vaginal tract or cervical trauma.
 	* Usually amenable to primary repair
 	* *Very* superficial lacerations may be repaired on labour ward
 	* Laparotomy rarely required if cervical laceration extends into lower uterine segment
-* Thrombin (Coagulopathy)  
+* Thrombin (Coagulopathy)\
 Rare, but causes include:
 	* Congenital coaguolpathies
-	* Acquired coagulopathies  
+	* Acquired coagulopathies\
 		* [Pre-eclampsia](/disease/obs/htn.md)
 		* Placental abruption
 		* DIC
@@ -53,15 +53,15 @@ Rare, but causes include:
 	* Airway oedema will linger post-partum
 * C
 	* Aortocaval compression resolved upon foetal delivery
-	* **Haemodyamic state**  
+	* **Haemodyamic state**\
 	**Key consideration for GA vs. regional technique:**
-		* GA offers ↑ haemodynamic stability and is the preferred option in an unstable/undervolumed patient  
+		* GA offers ↑ haemodynamic stability and is the preferred option in an unstable/undervolumed patient\
 		Spinal generally lower risk and facilitates early post-operative breast feeding.
 		* Resuscitate with IVT and blood prior
 * G
 	* Aspiration risk remains
 * O
-	* Malplacentation  
+	* Malplacentation\
 	Note presence of:
 		* Placenta accreta
 		* Placenta praevia
@@ -73,17 +73,17 @@ Rare, but causes include:
 Will vary depending on technique:
 
 * Spinal
-	* For vaginal tract repair **without** retained products  
+	* For vaginal tract repair **without** retained products\
 	A **block to ~T10** is required. Consider:
 		* 1.5ml of 0.5% heavy bupivacaine with 15μg fentanyl
-	* For retained products/when the uterine cavity is instrumented  
+	* For retained products/when the uterine cavity is instrumented\
 	A **block to T4 is required**. Consider:
-		* 2.2ml of 0.5% heavy bupivacaine with 15μg of fentanyl  
+		* 2.2ml of 0.5% heavy bupivacaine with 15μg of fentanyl\
 		Standard obstetric spinal, without a requirement for long-acting opioid.
 * Epidural top-up
 	* 10-15ml of 2% lignocaine with adrenaline and 50-100μg of fentanyl
 * GA
-	* Standard RSI for induction  
+	* Standard RSI for induction\
 	Consider ketamine ~1.5mg/kg if haemodynamic state is unfavourable.
 
 

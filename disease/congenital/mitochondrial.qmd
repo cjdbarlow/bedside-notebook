@@ -5,9 +5,9 @@ Heterogenous group of (hundreds of) genetic and environmental enzymatic mitochon
 
 Two major categories of defects:
 
-* Respiratory chain  
+* Respiratory chain\
 Five complexes in this chain, at least one of which is affected by most anaesthetic agents.
-* Fatty acid metabolism  
+* Fatty acid metabolism\
 	* No affect on volatiles
 	* Some types may alter local anaestheic toxicity thresholds
 
@@ -18,14 +18,14 @@ Prevalance is estimated 1:8,500.
 
 Disease (and inheritance) may occur:
 
-* De novo  
+* De novo\
 Spontaneous mutation (usually deletion) in mitochondrial DNA.
 * Mitochondrial DNA defect
-	* Transmitted only by maternal inheritence  
+	* Transmitted only by maternal inheritence\
 	Mother of affected patient will usually have detectable levels of the mutation.
-	* Amount of affected mitochondria transmitted to the child is highly variable  
+	* Amount of affected mitochondria transmitted to the child is highly variable\
 		* Significant clinical variability in presentation, even amongst siblings in the same family
-* Nuclear gene defect  
+* Nuclear gene defect\
 May be autosomal dominant or recessive.
 
 ## Pathophysiology
@@ -34,9 +34,9 @@ Mutation of genes either in nuclear DNA or in mitochondrial DNA.
 
 Manifestations may be:
 
-* Single-organ  
+* Single-organ\
 e.g. Leber hereditary optic neuropathy.
-* Multi-organ  
+* Multi-organ\
 Generally greatest effect on body systems with the highest metabolic requirements:
 	* CNS
 	* Cardiac
@@ -48,7 +48,7 @@ Generally greatest effect on body systems with the highest metabolic requirement
 Clinical presentation:
 
 * May fall into a discrete syndrome
-* Can be highly variable  
+* Can be highly variable\
 Some common features include:
 	* Cardiac effects:
 		* Cardiomyopathy
@@ -77,9 +77,9 @@ Some common features include:
 
 Dependent on presentation:
 
-* Consistent with a defined mitochondrial disorder  
+* Consistent with a defined mitochondrial disorder\
 Specific mitochondrial DNA testing, usually on blood.
-* Not consistent with any particular disorder  
+* Not consistent with any particular disorder\
 Testing includes:
 	* Blood lactate
 	* CSF lactate
@@ -91,7 +91,7 @@ Testing includes:
 
 Medical therapy depends on underlying deficiency. General principles:
 
-* Supportive  
+* Supportive\
 Treatment of other system manifestations (e.g. epilepsy).
 * Supplementation
 	* Vitamins
@@ -102,7 +102,7 @@ Treatment of other system manifestations (e.g. epilepsy).
 
 Most patients do well, although there may be an ↑ risk of perioperative complications including organ damage and death.
 * A
-	* Airway obstruction  
+	* Airway obstruction\
 	Secondary to hypotonia.
 * B
 	* Respiratory failure
@@ -116,13 +116,13 @@ Most patients do well, although there may be an ↑ risk of perioperative compli
 	* Anaesthetic technique
 		* General anaesthesia usually required
 		* Brief anaesthetics usually safe
-		* Hypersensitive to volatile anaesthesia  
-			* Complex I in the respiraory chain is affected by all halogenated anaesthetic agents  
+		* Hypersensitive to volatile anaesthesia\
+			* Complex I in the respiraory chain is affected by all halogenated anaesthetic agents\
 			* Safe provided titrated to anaesthetic depth. Mitochondrial function returns as agent is washed-out.
 		* **Consider avoiding propofol for *maintenance***
 			* Affects complexes I, II, IV: significant affect on electron transport chain function
 			* Risk of propofol infusion syndrome may be ↑ with substantial doses
-		* **Avoid bupivacaine**  
+		* **Avoid bupivacaine**\
 		Toxicity threshold lowered in carnitine-deficiency.
 	* Use drugs which do not affect mitochondrial function
 		* Opioids (*except* morphine)
@@ -131,17 +131,17 @@ Most patients do well, although there may be an ↑ risk of perioperative compli
 		* Ketamine
 		* Dexmedetomidine
 * E
-	* Optimise temperature control  
+	* Optimise temperature control\
 	Minimise shivering.
 * F
-	* Avoidance of lactated solutions  
+	* Avoidance of lactated solutions\
 	Lactate metagbolism may be impaired.
 	* Avoid dextrose solutions for patients on ketogenic diets
 * G
 	* Dysphagia
 	* GORD
-	* Avoid prolonged fasting  
-		* Exacerbates metabolic burden  
+	* Avoid prolonged fasting\
+		* Exacerbates metabolic burden\
 		Fatty acid metabolism may be impaired.
 		* Aim first on list
 

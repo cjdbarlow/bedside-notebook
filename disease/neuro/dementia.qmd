@@ -27,30 +27,30 @@ Incidence:
 
 Multiple potential aetiologies (which can be **mixed**), including:
 
-* Alzheimer's disease  
+* Alzheimer's disease\
 Build up of β-amyloid plaques and τ neurofibrillary tangles causing neurone death. Impairments classically involve:
 	* Memory
 	* Language
 	* Visuospatial
 	* Orientation
 	* Concentration
-* Vascular dementia  
+* Vascular dementia\
 Neuronal ischaemia due to stroke or multiple small subcortical infarcts. Impairments classically involve:
 	* Planning and organisation
-	* Memory  
+	* Memory\
 	Later feature compared with Alzheimer's.
-* Lewy body dementia  
+* Lewy body dementia\
 α-synuclein deposits within neurones. Impairments classically involve:
-	* Cognitive impairment  
+	* Cognitive impairment\
 	Similar or before motor symptoms.
 	* Visual hallucinations
 	* Parkinsonian signs
 	* Fluctuating attention
-* Parkinson's Dementia  
+* Parkinson's Dementia\
 Lewy bodies.
 	* Pre-existing Parkinson's disease
 	* Broad range of deficits
-* Frontotemporal dementia  
+* Frontotemporal dementia\
 Genetic predisposition, leading to τ aggregation in frontal and temporal lobes. Impairments classically involve:
 	* Behaviour
 		* Lack of empathy
@@ -58,7 +58,7 @@ Genetic predisposition, leading to τ aggregation in frontal and temporal lobes.
 	* Non-fluent aphasia
 	* Semantic types
 	* Younger
-* HIV-associated  
+* HIV-associated\
 Direct viral damage. Impairments classically involve:
 	* Short-term memory
 	* Learning
@@ -81,19 +81,19 @@ Direct viral damage. Impairments classically involve:
 
 * D
 	* Capacity
-	* Analgesia  
-		* Complex pain assessment  
+	* Analgesia\
+		* Complex pain assessment\
 		Simplified scales helpful.
 		* Consider empirical trial of analgesia if pain is a potential cause of behaviour/distress
 		* ↓ reported pain but pain experience may be unchanged
 	* Post-operative cognitive dysfunction
 		* Consider using:
 			* ERAS protocols
-			* Dexmedetomidine  
+			* Dexmedetomidine\
 			May reduce POCD in high-risk patients.
 		* Avoid:
 			* Benzodiazepines
-			* Opioid analgesics  
+			* Opioid analgesics\
 			Insofar as is practicable.
 			* Anticholinergics
 				* Cyclizine
@@ -101,13 +101,13 @@ Direct viral damage. Impairments classically involve:
 			* Non-pharmacological
 				* Orientation
 				* Family support
-				* Sensory needs  
+				* Sensory needs\
 				Glasses, hearing aids.
 			* Pharmacological
 				* Haloperidol 0.5-1mg PO/IM
 				* Risperidone 0.25mg PO
 				Avoid in PD or Lewy body dementia.
-				* Olanzapine 2.5-5mg PO  
+				* Olanzapine 2.5-5mg PO\
 				Avoid in PD or Lewy body dementia.
 * E
 	* Acetylcholinesterase inhibitors
@@ -115,7 +115,7 @@ Direct viral damage. Impairments classically involve:
 		* Inhibit or reverse non-depolarising blockade
 		* Consider ceasing:
 			* Donepezil requires a 2-3 week washout
-			* Galantamine and rivastigmine can be ceased 1 day prior  
+			* Galantamine and rivastigmine can be ceased 1 day prior\
 			Ideally cease pre-operatively.
 		* Sugammadex may be helpful if reliable offset required
 

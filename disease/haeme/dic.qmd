@@ -5,20 +5,20 @@ Acquired syndrome characterised by extreme systemic intravascular activation of 
 
 * Occurs secondary to an underlying condition
 * Leads to:
-	* High consumption of platelets and coagulation factors  
+	* High consumption of platelets and coagulation factors\
 	Leading to coagulopathy and bleeding.
-	* Microvascular fibrin thrombi  
+	* Microvascular fibrin thrombi\
 	Leading to tissue ischaemia and multiorgan dysfunction.
 * May be acute or chronic
 	* Acute DIC is:
 		* Generally more familiar
 		* Characterised by microvascular thrombosis and bleeding
 	* Chronic DIC is:
-		* Associated with disease where thrombin formation is occurring over a prolonged period  
+		* Associated with disease where thrombin formation is occurring over a prolonged period\
 		e.g. Malignancy, IUFD, aneurysms, wound healing.
-		* Partially compensated  
+		* Partially compensated\
 		Upregulation of:
-			* Platelet and factor production  
+			* Platelet and factor production\
 			Assays may be normal or only slightly abnormal.
 			* Hepatic FDP clearance
 		* Characterised by thrombosis without bleeding
@@ -27,7 +27,7 @@ Acquired syndrome characterised by extreme systemic intravascular activation of 
 
 Conditions which lead to the development of DIC include:
 
-* Septic shock  
+* Septic shock\
 Occurs in ~35% of cases of severe sepsis.
 * Trauma
 	* Exsanguination
@@ -38,7 +38,7 @@ Occurs in ~35% of cases of severe sepsis.
 	* AFE
 * Vascular malformations
 * Malignancy
-	* Solid organ tumours  
+	* Solid organ tumours\
 	Primarily thrombosis.
 	* Acute promyelocytic leukaemia
 
@@ -48,7 +48,7 @@ Occurs in ~35% of cases of severe sepsis.
 Underlying disease profoundly stimulates procoagulant activity, resulting in:
 
 * Excessive thrombin generation
-* Thrombin overcomes anticoagulant control mechanisms  
+* Thrombin overcomes anticoagulant control mechanisms\
 Namely:
 	* Protein C
 	* Antithrombin
@@ -63,7 +63,7 @@ Namely:
 
 DIC scoring system:
 
-* Underlying disorder associated with DIC?  
+* Underlying disorder associated with DIC?\
 Required.
 * Coagulation results:
 	* Platelet count
@@ -81,7 +81,7 @@ Required.
 	* Fibrinogen level:
 		* ⩾1: 0
 		* ⩽1: 1
-* Interpretation  
+* Interpretation\
 Score of >5 compatible with acute DIC.
 
 
@@ -97,23 +97,23 @@ Laboratory investigations:
 Key investigations include:
 
 * FBE
-	* Anaemia  
+	* Anaemia\
 	Microangiopathic haemolytic anaemia.
-	* Thrombocytopaenia  
+	* Thrombocytopaenia\
 	Low or rapidly ↓
 .* Coagulation
-	* Assays (PT, APTT)  
+	* Assays (PT, APTT)\
 	Prolonged, but this may be minimal.
-	* Fibrinogen  
+	* Fibrinogen\
 	May be either reduced or ↑.
 		* Reduced to consumption
 		* ↑ due to role as acute phase reactant
-* Fibrin Degradation Products (e.g. D-dimer)  
+* Fibrin Degradation Products (e.g. D-dimer)\
 ↑, due to fibrinolysis.
 
 Additional investigations:
 
-* Blood film  
+* Blood film\
 	Schistocyte formation.
 
 
@@ -124,17 +124,17 @@ Treat the underlying condition.
 
 Management then depends on predominant clinical picture:
 
-* Active bleeding  
+* Active bleeding\
 Transfuse to keep:
 	* Platelets >30-50
 	* PT <3s
 	* Fibrinogen >1.5
 	* Consider vitamin K
 	* Consider antifibrinolytic
-* No major bleeding or thrombosis  
+* No major bleeding or thrombosis\
 Prophylactic LMWH.
-* Overt thromboembolism or organ failure  
-	* Therapeutic anticoagulation  
+* Overt thromboembolism or organ failure\
+	* Therapeutic anticoagulation\
 	Usually UFH.
 
 

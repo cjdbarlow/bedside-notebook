@@ -2,11 +2,11 @@
 
 PDPH is **postural** headache occuring as a complication of neuraxial anaesthesia. PDPH is divided into:
 
-* Mild PDPH  
+* Mild PDPH\
 No affect on daily activities, responds to non-opioid analgesia.
-* Moderate PDPH  
+* Moderate PDPH\
 Predominantly bedridden, requires opioids.
-* Severe PDPH  
+* Severe PDPH\
 Completely bedridden, associated symptoms, no response to conservative therapy.
 
 
@@ -33,7 +33,7 @@ Symptoms:
 * Headache
 * Worse when sitting/standing
 * Nausea/Vomiting
-* Blurred vision/diplopia  
+* Blurred vision/diplopia\
 Due to 6^th^ nerve stretch
 
 ## Investigations
@@ -46,25 +46,25 @@ Due to 6^th^ nerve stretch
 
 Management of established PDPH:
 
-* Mild and moderate PDPH  
+* Mild and moderate PDPH\
 Conservative approach:
 	* Best rest
 	* Oral analgesia
 
-* Severe PDPH  
-	* Neostigmine and Atropine  
+* Severe PDPH\
+	* Neostigmine and Atropine\
 	 20 µg/kg neostigmine and 10 µg/kg atropine in 20 mL of 0.9% saline given over 5 minutes every 8 hours until resolution.
 	 	* Resolution usually seen within 2 doses
 	 	* Atropine ↑ CSF secretion and reverses cerebral vasodilation
 	 	* Neostigmine also reduces cerebral vasodilation
 	* Epidural blood patch
 
-### Epidural Blood Patch  
+### Epidural Blood Patch\
 
 Placement of patients own blood in epidural space, which clots and prevents futher CSF leakage.
 * 70-90% efficacy
 * Indications:
-	* Severe PDPH  
+	* Severe PDPH\
 	Note that prophylactic blood patch after a dural puncture is not effective.
 * Contraindications:
 	* Systemic fever
@@ -73,7 +73,7 @@ Placement of patients own blood in epidural space, which clots and prevents futh
 	* Coagulopathy
 * Risks:
 	* Failure
-	* Back pain  
+	* Back pain\
 	Common for first 24-48 hours.
 	* Dural puncture
 	* Nerve injury
@@ -83,12 +83,12 @@ Placement of patients own blood in epidural space, which clots and prevents futh
 
 Process:
 
-* Aseptic technique  
+* Aseptic technique\
 Including blood draw.
-* Epidural puncture at or 1 level below the original site  
+* Epidural puncture at or 1 level below the original site\
 Lowest puncture should be used if multiple punctures present.
 * Following epidural puncture, draw 20-30ml of blood
-* 10-30ml of blood injected  
+* 10-30ml of blood injected\
 	* Until pressure felt in back
 	* Stop if radicular pain occurs
 * Lay supine for 1-2 hours
@@ -98,10 +98,10 @@ Lowest puncture should be used if multiple punctures present.
 
 Failure may be due to:
 
-* Incorrect diagnosis  
+* Incorrect diagnosis\
 Diagnosis should be re-evaluated if patch fails. Consider:
 	* Neurological consult
-	* Cortical vein thrombosis  
+	* Cortical vein thrombosis\
 	Mimics dural puncture and worsened by blood patch.
 * Incorrect placement
 	* A second or third blood patch may be required

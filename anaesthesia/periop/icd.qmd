@@ -9,30 +9,30 @@ Key questions:
 
 Implantable cardiac devices include:
 
-* **Pacemakers**  
+* **Pacemakers**\
 Generate an electrical impulse to stimulate myocardial contraction. Used for:
 	* Bradycardias\
 	* Anti-tachycardia therapy
 	* Resynchronisation therapy
-* **Defibrillators**  
+* **Defibrillators**\
 Used for primary or secondary prevention of VT, in patients with:
 	* Severe LV dysfunction
 	* Post-MI
 	* Sudden cardiac death syndromes
-* **Implantable Loop Recorders**  
+* **Implantable Loop Recorders**\
 Diagnostic tool used in recurrent unexplained syncope.
 
 ## Risks
 
 Include:
 
-* Electromechanical interference  
+* Electromechanical interference\
 External electrical stimuli (e.g. due to diathermy) may interfere with pacemaker function in two ways:
-	* Over-sensing  
+	* Over-sensing\
 	The pacemaker interprets EMI as intrinsic activity, and does not pace despite the intrinsic rhythm being inadequate. This:
-		* Will result in the underlying rhythm being the actual rhythm  
+		* Will result in the underlying rhythm being the actual rhythm\
 		Extent of haemodynamic compromise depends on the nature of the underlying rhythm.
-	* Under-sensing  
+	* Under-sensing\
 	Pacemaker does not detect intrinsic activity, and paces over an intrinsic rhythm. This:
 		* Leads to over-pacing
 		* May cause **malignant arrhythmias** as if an R-on-T occurs
@@ -51,9 +51,9 @@ EMI risk of the procedure:
 
 * Electrical
 	* Diathermy
-		* Particularly unipolar  
+		* Particularly unipolar\
 		Ensure pad is placed such that current does not run through device.
-		* Location  
+		* Location\
 		Within 15cm is high risk.
 	* Evoked potential monitors
 	* External defibrillation
@@ -71,40 +71,40 @@ EMI risk of the procedure:
 Evaluation of pacemakers should consider:
 
 * Indication for pacing
-* Dependency on pacing  
+* Dependency on pacing\
 What proportion of time is the patient actively paced.
-	* Underlying cardiac activity on ECG  
+	* Underlying cardiac activity on ECG\
 	No underlying activity, or a non-perfusing rhythm, is at higher risk.
 	* Use of antiarrhythmics
 * Pacemaker function and setup
-	* Presence of rate-responsive pacing modes  
+	* Presence of rate-responsive pacing modes\
 	Pacemaker detects a certain event (usually motion, implying exertion) and ↑ paced rate to compensate.
-	* Magnet mode effect  
+	* Magnet mode effect\
 	Usually places the devices into DOO or VOO at a set rate.
-	* Last pacing check  
+	* Last pacing check\
 	Within **12 months**.
-	* Pacing threshold  
+	* Pacing threshold\
 	Amplitude should be at least double the threshold.
-	* Lead impedance  
+	* Lead impedance\
 	High impedance suggests damage, excessively low impedance suggests insulation defect.
 	* Battery life
 * Lead setup
-	* Number of leads  
+	* Number of leads\
 	May be 1, 2, or 3.
-	* Biventricular pacing  
+	* Biventricular pacing\
 	Biventricular pacing is used for cardiac resynchronisation therapy, and suggests the patient has HFrEF. Indicated with LVEF <35% with LBBB and NYHA III/IV despite optimal medical therapy.
-	* Unipolar or bipolar leads  
+	* Unipolar or bipolar leads\
 	Unipolar leads are usually present in older models. In a unipolar lead, the lead is the cathode and the device is the anode; whilst a bipolar lead has both anode and cathode. Unipolar leads are associated with more myocardial scarring and ↑ impedance.
 
 
 Evaluation of AICDs should consider:
 
-* Last pacing check  
+* Last pacing check\
 Within **6 months**.
 * Indication
 * Dependence
 	* Shock history
-* Magnet mode effect  
+* Magnet mode effect\
 Usually disables the ICD.
 
 
@@ -116,7 +116,7 @@ Investigations:
 * CXR
 	* Lead placement
 	* Number of leads
-	* Presence of ICD  
+	* Presence of ICD\
 	Identified by use of shock coils on lead and a capacitor in the device.
 
 ## Management
@@ -142,7 +142,7 @@ Consider **re-programming pacemaker functions** if:
 	* Rate-responsive modes will be triggered incorrectly:
 		* Respiratory rate
 		* Accelerometry
-	* Sleep/rest mode  
+	* Sleep/rest mode\
 	Fall in HR and CO overnight, if late surgery is planned.
 * Augmentation of CO and DO~2~ helpful
 
@@ -150,15 +150,15 @@ Consider **re-programming pacemaker functions** if:
 Consider **re-programming an AICD** if:
 
 * EMI is expected
-* Movement from shock could be hazardous  
+* Movement from shock could be hazardous\
 Patients who have defibrillation or antitachycardia functions inactivated should be on continuous monitoring with external defibrillation equipment readily available, and have their therapy reactivated prior to discharge.
 
 
 Consider a **magnet instead of re-programming if**:
 
-* Magnet response present  
+* Magnet response present\
 Exists in most devices planted after 2000.
-* Magnet response known  
+* Magnet response known\
 Magnet function can be disabled in some Boston Scientific and St. Jude devices.
 * Magnet effect is desirable
 * Patient is supine
@@ -177,7 +177,7 @@ Anaesthesia:
 		* Hypercapnoea
 		* Electrolyte abnormalities
 	* Have defibrillation equipment available
-	* Consider induction with pads on if high risk  
+	* Consider induction with pads on if high risk\
 	Pads should be placed **at least 8cm** from the device.
 	* Consider arterial line
 	* Consider cardiac output monitor
@@ -201,7 +201,7 @@ Surgery:
 
 ### Post-operative
 
-* Reactivate any disabled functions  
+* Reactivate any disabled functions\
 Electrophysiologist should check the patient prior to departure from recovery.
 * Check the device if a magnet has been used
 	* AICD should be examined by an electrophysiologist to confirm functions have reactivated

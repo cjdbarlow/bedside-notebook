@@ -23,18 +23,18 @@ Risk factors for clot formation are given by Vichows triad:
 Systemic prothrombotic effects (e.g. Factor V Leiden, OCP use, obesity) predominantly ↑ risk of DVT (and later embolism), pulmonary disease tends to ↑ risk of PE without ↑ DVT risk.
 :::
 
-* Stasis  
+* Stasis\
 Many thrombi occur around venous valves.
-	* Advanced age  
+	* Advanced age\
 	Risk ↑ after 40.
 	* Immobilisation
 	* Obesity
-	* General anaesthesia  
+	* General anaesthesia\
 	~30-50% greater risk compared to spinal/regional technique.
 * Endothelial Damage
 	* Central venous access
 * Hypercoagulable state
-	* Surgery  
+	* Surgery\
 	Incidence depends on type of surgery:
 		* Thoracic: ~2%
 		* Abdominal: ~1%
@@ -48,7 +48,7 @@ Many thrombi occur around venous valves.
 		* Protein C or S deficiency
 		* Factor V leiden
 		* Prothrombin gene deficiency
-	* Pregnancy  
+	* Pregnancy\
 	DVT risk is 5x as high post-partum compared with durign pregnancy, and PE risk is 15x as high.
 	* Malignancy
 	* Acute illness
@@ -59,7 +59,7 @@ Many thrombi occur around venous valves.
 		* Autoimmune disease
 	* Previous VTE
 	* Drugs
-		* OCP  
+		* OCP\
 		2-5x ↑ relative risk.
 		* Chemotherapeutics
 		* Smoking
@@ -80,24 +80,24 @@ Key processes are:
 
 * Clot formation and embolisation\
 PE predominantly arise from DVT in the lower limbs, pelvic veins, or IVC. DVT can then:
-	* Propagate proximally  
+	* Propagate proximally\
 	PE will occur in ~50% of patients with proximal DVT. Below knee DVT rarely causes clinicially significant PE.
-	* Break off entirely  
+	* Break off entirely\
 	~20% of patients with PE have no identified DVT.
 * Impaired pulmonary gas exchange:
-	* ↑ alveolar dead space  
+	* ↑ alveolar dead space\
 	Non-perfused alveoli distal to clot.
-	* Over-perfusion of non-clotted lung  
+	* Over-perfusion of non-clotted lung\
 	May cause shunt via a variety of mechanisms:
 		* Oedema
-		* Pulmonary haemorrhage  
+		* Pulmonary haemorrhage\
 		Pulmonary infarction does not usually occur due to ongoing perfusion from bronchial circulation.
 		* Loss of surfactant
 		* Vasoactive peptide secretion
 * Acute RV dysfunction
-	* ↑ PVR  
+	* ↑ PVR\
 	Pulmonary arterial obstruction leads to ↑ PVR and elevated RV afterload. May be exacerbated by low mixed venous PO~2~ .
-	* ↑ Right-sided pressures  
+	* ↑ Right-sided pressures\
 	↑ in RAP may open a PFO and lead to intracardiac right-to-left shunting and risk of systemic embolism.
 	
 
@@ -113,12 +113,12 @@ Features are few and generally non-specific, but may be:
 
 * Due to pulmonary infarction
 	* Haemoptysis
-	* Pleuritic chest pain  
-	* Pleural rub  
+	* Pleuritic chest pain\
+	* Pleural rub\
 
 * Due to pulmonary hypertension
 	* RV pressure overload
-		* ↑ RAP  
+		* ↑ RAP\
 		May be seen as elevated JVP.
 		* ↑ PVR
 		* ↓ CO
@@ -128,7 +128,7 @@ Features are few and generally non-specific, but may be:
 * Due to obstructive shock:
 	* Cardiac arrest
 	* Shock Index > 1 is strongly associated with in hospital mortality
-	* Tachycardia  
+	* Tachycardia\
 	May be isolated finding.
 	Tachypnoea
 	* Hypotension
@@ -182,14 +182,14 @@ Radiology:
 
 * CTPA
 	* Quicker and more available than V/Q scanning, but requires contrast load
-	* ~85% sensitive  
+	* ~85% sensitive\
 	Varies depending on machine and radiologist.
 		* ↑ to ~100% of PEs with haemodynamic instability
 		* Commonly identifies subsegmental PE in asymptomatic patients\
 		Clinical significance is unclear, but do not require anticoagulation.
 * VQ scan
 	* May not be appropriate if existing cardio-pulmonary disease
-	* Sensitivity ↑ with modern SPECT devices  
+	* Sensitivity ↑ with modern SPECT devices\
 	~1% now non-diagnostic.
 	* More sensitive than CTPA for peripheral emboli
 
@@ -200,7 +200,7 @@ Echocardiography:
 The absence of RV dilation in a haemodynamically unstable patient means that PE is an unlikely diagnosis.
 :::
 
-* Presence of thrombus  
+* Presence of thrombus\
 ~26% of severe PE can be seen on TOE, as this provides better visualisation of the MPA and RPA.
 * Other disease
 * Quantify RV dysfunction\
@@ -208,7 +208,7 @@ Findings include:
 	* RV/LV end-diastolic diameter ratio > 0.7
 	* RV/LV area ratio > 0.66
 	* RV end-diastolic diameter > 27mm
-	* "McConnel Sign"  
+	* "McConnel Sign"\
 	RV free wall hypokinesis with RV apex normo or hyperkinesis.
 	* Septal shift
 	* TR jet >270cm/sec
@@ -220,18 +220,18 @@ Findings include:
 Bloods:
 
 * D-Dimer
-	* ~97% sensitive  
+	* ~97% sensitive\
 	May be useful in ruling out PE in patients with low to moderate clinical suspicion. Reduces the need for radiological tests.
-	* Non-specific  
+	* Non-specific\
 	Does not support diagnosis or indicate severity. Often raised in the critically ill. 
-* Troponin  
+* Troponin\
 	* Elevated in <50% of patients
-	* Associated with adverse outcomes  
+	* Associated with adverse outcomes\
 	Death, inotropes.
 * BNP/NT-pro-BNP	
-* ABG  
+* ABG\
 Typically demonstrates:
-	* Hypoxaemia  
+	* Hypoxaemia\
 	May be only abnormality in smaller PEs.
 	* Respiratory alkalosis
 
@@ -249,12 +249,12 @@ ECG:
 * No abnormalities\
 ~30%.
 * Isolated sinus tachycardia
-* Atrial arrythmias  
+* Atrial arrythmias\
 Associated with higher mortality.
-* Repolarisation abnormalities  
+* Repolarisation abnormalities\
 Present in ~50% of PE patients.
 * RBBB and precordial TWI best correlate with severity
-* RV strain/cor pulmonale  
+* RV strain/cor pulmonale\
 Also non-specific, but suggest massive embolism rather than smaller emvoli.
 	* S1Q3T3
 	* P-pulmonale
@@ -265,7 +265,7 @@ Also non-specific, but suggest massive embolism rather than smaller emvoli.
 Respiratory Function Tests:
 
 * Physiological dead space:
-	* Almost always ↑ in the case of PE  
+	* Almost always ↑ in the case of PE\
 	Formal measurement is:
 		* 100% sensitive
 		* 89% specific
@@ -336,7 +336,7 @@ May be reasonable to commence prior to formal diagnosis if bleeding risk is low.
 	* 25-30% of patients with RV failure requiring inotropes
 	* Up to 13% of perioperative PEs
 * Recurrence
-	* ~6% within 6 months  
+	* ~6% within 6 months\
 	Despite therapeutic anticoagulation.
 	* ~8% with 12 months
 * Chronic Thromboembolic Pulmonary Hypertension

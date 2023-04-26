@@ -36,7 +36,7 @@ e.g. Arrhythmia burden.
     * ALF
     * Skin mottling
     * Lactate >5 and ↑
-    
+  \
 
 ## Contraindications
 
@@ -65,7 +65,7 @@ Absence leads to LV stasis and significantly ↑ thromboembolic risk.
     * End-tidal CO~2~
     * Echocardiographcally
 * Inotropic supports should be weaned to the minimum required for AV opening to minimise myocardial work and promote myocardial recovery 
-    
+  \
 :::column-margin
 Note that thermodilution is inaccurate on VA ECMO support due to loss of indicator into the ECMO circuit.
 ::: 

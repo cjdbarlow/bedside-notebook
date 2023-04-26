@@ -12,10 +12,10 @@ Postpartum haemorrhage is a major cause of maternal mortality. With respect to P
 
 In Australia, PPH:
 
-* Occurs at 6/1,000 deliveries  
+* Occurs at 6/1,000 deliveries\
 Will likely ↑ over time:
 	* ↑ maternal age
-	* Conception following LUSCS  
+	* Conception following LUSCS\
 	↑ percreta/accreta risk.
 * Has a mortality of 4/100,000 deliveries
 
@@ -47,7 +47,7 @@ Risk factors for PPH relate to the cause:
 	* Multiparity
 	* Previous uterine surgery
 * Thrombin 
-	* Hereditary disease  
+	* Hereditary disease\
 		* von Willebrand's
 		* Haemophilia
 	* Acquired disease
@@ -66,29 +66,29 @@ Risk factors for PPH relate to the cause:
 
 Causes grouped into the **four T's**:
 
-* A**t**ony  
+* A**t**ony\
 Failure of uterine contraction.
 	* Occurs in 10% of pregnancies
 	* Causes 70% of PPH
-* **T**rauma  
+* **T**rauma\
 Second most common cause, due to injury to:
 	* Uterus
 	* Cervix
 	* Vagina
 	* Perineum
-* **T**issue  
+* **T**issue\
 Retained products of conception.
 	* Third most common cause
-	* Generally retained placental fragment  
+	* Generally retained placental fragment\
 	May be related to placenta accreta.
-* **T**hrombin  
+* **T**hrombin\
 Coagulopathy.
 
 Other causes:
 
-* Uterine inversion  
+* Uterine inversion\
 Where the fundus of the uterus begins to prolapse out of the cervix.
-* Uterine rupture  
+* Uterine rupture\
 Usually along a scar from previous caesarian or uterine surgery.
 
 
@@ -103,7 +103,7 @@ Symptoms and signs of massive blood loss:
 * Sweating
 * Pallor
 * Weakness
-* Hypotension  
+* Hypotension\
 Classically late sign in pregnant women.
 
 ## Diagnostic Approach and DDx
@@ -123,7 +123,7 @@ Key investigations:
 Management principles follow the general principles of massive blood loss, plus specific management of uterine causes:
 
 * Apply 100% oxygen
-* Give warmed IV fluids  
+* Give warmed IV fluids\
 Fluid resuscitation should continue whilst bleeding is ongoing.
 * Prepare for transfusion
 	* Ensure at least 2x ≥ 16G IVC access
@@ -132,11 +132,11 @@ Fluid resuscitation should continue whilst bleeding is ongoing.
 * Transfuse appropriately
 * Avoid hypothermia
 * Consider DDAVP 0.3μg/kg
-	* Uraemia  
+	* Uraemia\
 	≥20mmol/L.
 	* von Willebrand's disease
 * Consider factor VIIa
-* Treat the cause  
+* Treat the cause\
 See below.
 
 
@@ -158,7 +158,7 @@ Management of continued bleeding, despite active management of the third stage a
 * Bimanual uterine compression
 * Aorta compression
 * If bleeding persists:
-	* Pack uterus  
+	* Pack uterus\
 	Up to 24 hours, cover with IV antibiotics and continue oxytocin infusion.
 	* Uterine artery ligation
 	* Internal iliac ligation
@@ -169,16 +169,16 @@ Management of continued bleeding, despite active management of the third stage a
 
 #### Atony
 
-* Uterine massage  
+* Uterine massage\
 Rub up. Effective in most cases.
-* Uterotonics  
+* Uterotonics\
 Ensure active management of the third stage has been completed.
-	* Oxytocin 10 units IV  
+	* Oxytocin 10 units IV\
 	Commence infusion at 10 units/hr; usually 40 units in 1L of CSL/NS/D5W over 4 hours.
-	* Ergometrine 0.25mg IM  
+	* Ergometrine 0.25mg IM\
 	Can give a further 0.25mg IV; beware bronchospasm and hypertension. Up to a total of 1mg.
 	* Metoclopramide 10mg IV
-	* Carboprost 0.25mg **IM**  
+	* Carboprost 0.25mg **IM**\
 	Can repeat Q15 minutely, up to 2mg.
 	* Consider misoprostol 1mg **PR**
 	* Misoprostol
@@ -188,23 +188,23 @@ Ensure active management of the third stage has been completed.
 
 > Blood loss often underestimated
 
-* May require anaesthesia for closure  
+* May require anaesthesia for closure\
 Regional techniques appropriate if haemodynamically stable.
 
 
 ### Tissue
 
-> May have significant blood product requirement  
+> May have significant blood product requirement\
 > Uterine relaxation may be required
 
 * Deliver placenta
-	* Controlled cord traction  
+	* Controlled cord traction\
 	Examine for completeness.
-* Retained placenta requires operated delivery  
-Anaesthetic techniques, in order of preference:  
+* Retained placenta requires operated delivery\
+Anaesthetic techniques, in order of preference:\
 	* Epidural top-up
 	* Spinal anaesthesia
-	* Intravenous sedation  
+	* Intravenous sedation\
 	May be appropriate in some instances.
 	* General anaesthesia
 
@@ -214,19 +214,19 @@ Anaesthetic techniques, in order of preference:
 
 * Ensure coagulation profile has been sent
 * Replacement of platelets and clotting factors
-* Consider TXA  
+* Consider TXA\
 Of dubious benefit in obstetric haemorrhage in the 1^st^ world setting.
 
 ### Uterine Inversion
 
->Haemorrhagic shock is common  
+>Haemorrhagic shock is common\
 >Uterine relaxation may be required
 
 Anaesthetic techniques:
 
-* Regional  
+* Regional\
 Appropriate if haemodynamically stable.
-* General anaesthesia  
+* General anaesthesia\
 May be required if **uterine relaxation** needed, particularly in the case of **chronic inversion**.
 
 

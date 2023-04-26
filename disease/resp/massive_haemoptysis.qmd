@@ -1,7 +1,7 @@
 # Massive Haemoptysis
 
 
-> This is an <span style="color:red">**anaesthetic crisis**</span>  
+> This is an <span style="color:red">**anaesthetic crisis**</span>\
 > Priority is to:
 >* **Decontaminate the airway**
 >* **Maintain oxygenation**
@@ -19,22 +19,22 @@ Immediately:
 	* Large, **single-lumen** ETT
 		* Suction catheter/bronchoscopic decontamination
 	* Consider lung isolation
-		* Bronchial blocker  
+		* Bronchial blocker\
 			* May be passed outside the ETT and placed under bronchoscopic guidance
 			* Consider use of a 14Fr Fogarty catheter
 		* Endobronchial tube
-* Haemodynamic resuscitation  
+* Haemodynamic resuscitation\
 	* Cardiac arrest is common
 	* Hypoxia is almost always the cause
 	* Hypovolaemia is rarely significant
 
 Definitive treatment:
 
-* Source control  
+* Source control\
 Options include:
 	* Rigid bronchoscopy
-	* Interventional angiography  
-	Bronchial angiography and embolisation.  
+	* Interventional angiography\
+	Bronchial angiography and embolisation.\
 		* Note risk of paralysis due to loss of spinal perfusion
 	* Thoracotomy
 * Correction of coagulopathy
@@ -47,7 +47,7 @@ Options include:
 
 ## Pathophysiology
 
-* 90% of haemorrhage comes from the bronchial circulation  
+* 90% of haemorrhage comes from the bronchial circulation\
 These bleeds are dependent on ***systemic* blood pressure**.
 
 ### Aetiology
@@ -68,7 +68,7 @@ Causes can be divided into:
 		* Parasitic
 			* Hydatid cyst
 			* Paragonimiasis
-		* Necrotising pneumonia  
+		* Necrotising pneumonia\
 		*Staphylococcus*, *Klebsiella*, *Legionella*.
 	* **Neoplasm**
 		* Primary
@@ -109,7 +109,7 @@ Causes can be divided into:
 
 Medical:
 
-* If related to PAC:  
+* If related to PAC:\
 Withdraw catheter slightly and reinflate to provide proximal compression, prior to surgical resection.
 
 Interventional:
@@ -117,7 +117,7 @@ Interventional:
 * Bronchial artery embolisation
 	* Used for life-threatening haemoptysis
 	* Failure in up to 10%
-* Surgical resection  
+* Surgical resection\
 Treatment of choice when site is localised and patient can tolerate resection.
 
 ### Anaesthetic Considerations

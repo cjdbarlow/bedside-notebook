@@ -13,10 +13,10 @@ Requires:
 * Spinal injury level is T6 or higher
 * Noxious stimulus below the level of injury:
 	* Ascending sensory fibres convey message to spinal cord
-	* Widespread SNS reflex activity occuring below the level of injury  
+	* Widespread SNS reflex activity occuring below the level of injury\
 	Sympathetic ganglion activity remains uncontrolled due to lack of descending inhibition.
 	* Compensatory parasympathetic activity **above** the level of injury
-		* ↑ BP detected by baroreceptors  
+		* ↑ BP detected by baroreceptors\
 		Leads to compensatory bradycardia.
 
 ### Aetiology
@@ -55,19 +55,19 @@ Presentation due to SNS overactivity, with compensatory PNS responses:
 * B
 	* Dyspnoea
 * C
-	* HTN  
+	* HTN\
 	↑ SBP ⩾20%,
 	* Bradycardia
-	* Flushing  
+	* Flushing\
 	Above level.
 * D
 	* Blurred vision
-	* Headache  
+	* Headache\
 	Due to HTN.
 	* Anxiety/irritation
 * E
 	* Above level
-		* Sweating  
+		* Sweating\
 	* Below level
 		* Palor
 		* Piloerection
@@ -92,38 +92,38 @@ Remove obvious causes:
 	* Kinks
 	* Clogging
 	* Overfull bag
-	* Consider irrigating catheter if blocked  
+	* Consider irrigating catheter if blocked\
 * Consider IDC
-* Consider faecal evacuation  
+* Consider faecal evacuation\
 If bladder empty.
 
 Pharmacological therapy:
 
 * If SBP >150mmHg
-* Use short acting agents  
+* Use short acting agents\
 Minimises hypotension once stimulus has resolved.
 	* GTN 400μg SL
 	* Captopril 25mg SL
 	* Hydralazine 5mg IV Q10min
 	* Labetaolol 5mg IV Q5min
-* Analgesia  
+* Analgesia\
 If a noxious stimulus present, e.g. trauma.
 
 ### Anaesthetic Considerations
 
 * D
 	* Anaesthetic technique
-		* General  
+		* General\
 		Appropriate if there is a risk of autonomic dysreflexia, or muscle spasms.
-		* Neuraxial  
+		* Neuraxial\
 		Appropriate if there is a risk of autonomic dysreflexia, or muscle spasms.
 			* Spinal anaesthesia effectively prevents autonomic dysreflexia
 			* Epidural anaesthesia is less reliable, as a patch block may occur
-		* Regional/local  
+		* Regional/local\
 		Appropriate if:
 			* Reduced sensation at site
 			* No risk of autonimic dysreflexia
-		* Monitored anaesthetic care  
+		* Monitored anaesthetic care\
 		Appropriate if:
 			* No sensation at site
 			* No risk of autonomic dysreflexia
@@ -133,11 +133,11 @@ If a noxious stimulus present, e.g. trauma.
 Include:
 
 * Death
-* CVS  
+* CVS\
 ~22%.
 	* Myocardial ischaemia
 	* APO
-* CNS  
+* CNS\
 ~70%; major cause of death.
 	* CVA
 

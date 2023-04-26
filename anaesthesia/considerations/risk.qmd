@@ -20,29 +20,29 @@ Practically, adequate discussion of risk is a precursor to gaining informed cons
 
 Requires:
 
-* **Voluntarily and without coercion**  
+* **Voluntarily and without coercion**\
 	* Refusal and withdrawal must be a realistic option
 	* Patients can refuse for any reason at all, rational or irrational, provided they have capacity and have been provided adequate information
-* **Capacity**  
+* **Capacity**\
 	* Requires three things:
-		* **Comprehension of general information** about procedure  
+		* **Comprehension of general information** about procedure\
 		Can be quite brief/broad overview.
-		* **Retain and weigh up** information  
+		* **Retain and weigh up** information\
 		Often the critical point.
 		* **Communicate decision**
 	* Everyone is assumed to have capacity unless there are reasonable grounds for believing otherwise	
-	* In absence of capacity, another person can give consent on behalf of the patient in certain legally-defined circumstances  
+	* In absence of capacity, another person can give consent on behalf of the patient in certain legally-defined circumstances\
 		* They are legally obligated to act in the best interests of the person for whom consent is being given.
 		* A legal guardian may need to be appointed, or a statutory body (e.g. Guardianship board) may beed to give consent if the individual does not have capacity and there is no currently existing legal guardian available
-	* Age  
+	* Age\
 	One must be old enough to understand the nature, purpose, and consequences of the treatment; as well as the consequences of non-treatment. This does not necessarily require one to be over 18 - this exception is known as **Gillick competence**, where a minor can consent to certain procedures provided they can understand and weigh up risks.		
 * **Informed**
-	* Information that a reasonable patient in their position *might* wish to know and attach significance  
+	* Information that a reasonable patient in their position *might* wish to know and attach significance\
 	Includes information about risk that would be significant to:
 		* A reasonable individual in this position
-		* **This particular patient**  
+		* **This particular patient**\
 		This is the concept of **material risk**.
-	* Basic information must be provided, even if the patient requests no information  
+	* Basic information must be provided, even if the patient requests no information\
 	If staunch refusal exists, then this should be documented.
 
 
@@ -50,13 +50,13 @@ Requires:
 
 Treatment can proceed without consent if:
 
-* The situation is so urgent that immediate intervention is necessary to preserve life or prevent serious harm  
+* The situation is so urgent that immediate intervention is necessary to preserve life or prevent serious harm\
 Provision of information and discussion of treatment undertaken must be done as soon as possible.
-* Treatment is:  
+* Treatment is:\
 (Seek legal advice before proceeding with this justification).
 	* In the patients best interests
 	* Reasonable stepts have been taken to determine the patients views
-	* Believed by the doctor to have been chosen by the patient if they were competent to do so  
+	* Believed by the doctor to have been chosen by the patient if they were competent to do so\
 	* Required immediately to prevent further injury to the patient
 
 ## Risk
@@ -65,7 +65,7 @@ Provision of information and discussion of treatment undertaken must be done as 
 > * Benefits
 > * Risks
 > * Alternatives
-> * Nothing  
+> * Nothing\
 > What will happen if we do nothing.
 
 
@@ -81,11 +81,11 @@ Discussion should:
 	* Common but minor harms
 	* Uncertainty relating to outcomes
 	* The **risk of doing nothing**
-	* Financial implications  
+	* Financial implications\
 	If relevant.
 * Be performed by:
 	* A person able to understand and discuss the risks and benefits of the treatment
-	* A qualified interpreter if necessary  
+	* A qualified interpreter if necessary\
 	Not a family member.
 	* The anaesthetist providing the anaesthetic
 		* A separate anaesthetist may interview and discuss risk with the patient, but the treating anaesthetist is liable if inadequate consent is obtained by another on their behalf
@@ -95,7 +95,7 @@ Discussion should:
 
 Negligence requires:
 
-* A duty of care exists  
+* A duty of care exists\
 Basically assumed in medical cases.
 * Duty of care has to be breached
 * Harm has to be suffered

@@ -14,15 +14,15 @@ Factors favouring intubation include
 
 Patient:
 
-* Weight ⩽ 10kg  
+* Weight ⩽ 10kg\
 Relaxant not required.
-* Age  
-	* Resistance in cuffed tubes is significantly more than uncuffed tubes  
+* Age\
+	* Resistance in cuffed tubes is significantly more than uncuffed tubes\
 	As resistance is proportional to the radius^4^; this effect is dramatic in small tube sizes.
 	* Consider using uncuffed tubes until ~5.0
 
 
-* Nasal RAE tube start cuffed at 6.0  
+* Nasal RAE tube start cuffed at 6.0\
 Consider using a reinforced ETT instead.
 
 ---

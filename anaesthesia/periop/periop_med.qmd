@@ -13,13 +13,13 @@
 
 Inhaled bronchodilators:
 
-* Continue  
+* Continue\
 ↓ risk of post-operative respiratory complications.
 
 
 Theophylline:
 
-* Withhold from day prior to surgery  
+* Withhold from day prior to surgery\
 Multiple potential pharmacokinetic interactions.
 
 
@@ -27,7 +27,7 @@ Multiple potential pharmacokinetic interactions.
 
 Alpha 2 agonists:
 
-* Continue if already taking  
+* Continue if already taking\
 Give parentally if will be NBM.
 
 
@@ -35,16 +35,16 @@ ACE-Is/A2RBs:
 
 * Generally withhold, however:
 	* Favour continuing if for cardiac failure or poorly controlled hypertension to avoid exacerbation
-	* Favour withholding if intraoperative hypotension likely or problematic  
+	* Favour withholding if intraoperative hypotension likely or problematic\
 	If withheld, restart as soon as possible.
 
-Beta-blockade:  
+Beta-blockade:\
 * Continue if already taking
 * **Consider starting**:
 	* If indicated and therapy can be initiated 2-4 weeks prior to surgery
-	* In patients with known ischaemic heart disease or myocardial risk factors  
+	* In patients with known ischaemic heart disease or myocardial risk factors\
 	* In patients with RCRI ⩾3
-* If initiating, it is ideal to begin long enough in advance to evaluate safety and tolerability  
+* If initiating, it is ideal to begin long enough in advance to evaluate safety and tolerability\
 	* At least 2-7 days
 	* ⩽1 day harmful
 
@@ -56,7 +56,7 @@ Calcium Channel Blockers:
 
 Non-statin lipid-lowering agents:
 
-* Discontinue if taking  
+* Discontinue if taking\
 May interfere with oral absorption of other medications, and contribute to myopathy.
 
 
@@ -70,12 +70,12 @@ Statins:
 Diuretics:
 
 * Depends on indication:
-	* For hypertension  
+	* For hypertension\
 	Withhold on morning of surgery.
 	* For cardiac failure
-		* Well controlled with stable volume state  
+		* Well controlled with stable volume state\
 		Withhold on morning of surgery.
-		* Poorly controlled or previous problems with fluid overload  
+		* Poorly controlled or previous problems with fluid overload\
 		Continue.
 
 
@@ -84,28 +84,28 @@ Diuretics:
 
 Antidepressants:
 
-* SSRIs/SNRIs  
+* SSRIs/SNRIs\
 Generally continue, however:
-	* May be ceased if substantial concern about bleeding  
+	* May be ceased if substantial concern about bleeding\
 	Should be weaned off:
 		* Over several weeks
 		* With psychiatrist involvement
 		* And consideration of starting an alternative anaesthetic regimen
-* MAO-Is  
+* MAO-Is\
 Generally cease 2 weeks prior.
-	* Risk of profound hypertension with indirect acting sympathomimetics  
+	* Risk of profound hypertension with indirect acting sympathomimetics\
 	Directly acting agents (noradrenaline, adrenaline, phenyephrine, isoprenaline) are safe when used judiciously.
 	* May be continued if:
 		* Anaesthetist comfortable with MAO-safe anaesthesia
 		* Psychiatrist concerned about exacerbation of psychiatric disease with drug cessation
-* Lithium/Valproate  
+* Lithium/Valproate\
 Generally continue perioperatively due to concerns about exacerbating underlying disease. Ensure regular monitoring of:
 	* Fluids
 	* Electrolytes
 	* Serum lithium levels
-* TCAs  
+* TCAs\
 May be continued but:
-	* Preoperative 12-lead ECG and intraoperative 5-lead ECG should be performed  
+	* Preoperative 12-lead ECG and intraoperative 5-lead ECG should be performed\
 	***If* ceased** due to concerns about arrhythmia, should be **tapered off 7-14 days** prior to surgery.
 	* Tramadol and meperidine should be avoided
 	* Atropine or scopolamine may ↑ perioperative confusion
@@ -126,11 +126,11 @@ Thyroxine:
 
 Glucocorticoids:
 
-* Chronic glucocorticoid therapy may suppress the HPA axis and prevent an appropriate adrenal response to physiological stress  
+* Chronic glucocorticoid therapy may suppress the HPA axis and prevent an appropriate adrenal response to physiological stress\
 In absence of glucocorticoids, endogenous cortisol release:
-	* ↑ even with minor surgery or illness  
+	* ↑ even with minor surgery or illness\
 	↑ may be 5 to 50 times normal, depending on degree of insult.
-	* May persist for days  
+	* May persist for days\
 	Normalise within 24 hours for small insults, and 5 days for larger insults.
 * Addition of "stress dose" steroids perioperatively is common practice, although lacks a strong evidence base
 * In general, patients:
@@ -141,13 +141,13 @@ In absence of glucocorticoids, endogenous cortisol release:
 		* Prednisolone doses >20mg/day
 		* Evidence of Cushing's syndrome
 * Stress-dosing varies on degree of surgical stress:
-	* Minor stress  
+	* Minor stress\
 	Take usual steroid dose.
-	* Moderate stress  
+	* Moderate stress\
 	Take usual steroid dose, and supplement with:
 		* 50mg Hydrocortisone IV pre-procedure
 		* 25mg Hydrocortisone Q8H for 24/24
-	* Severe stress  
+	* Severe stress\
 	Take usual steroid dose, and supplement with:
 		* 100mg Hydrocortisone IV pre-procedure
 	 	* 50mg Hydrocortisone Q8H for 24/24
@@ -160,21 +160,21 @@ In absence of glucocorticoids, endogenous cortisol release:
 
 Specific medications:
 
-* Ephedra  
+* Ephedra\
 Cease 24 hours prior; ↑ cardiac risk.
-* Garlic  
+* Garlic\
 Cease 7 days prior; ↑ bleeding risk.
-* Ginkgo balboa  
+* Ginkgo balboa\
 Cease 36 hours prior; ↑ bleeding risk.
-* Ginseng  
+* Ginseng\
 Cease 7 days prior; ↑ hypoglycaemia.
-* Kava  
+* Kava\
 Cease 24 hours prior; pharmacokinetic interactions with anaesthetic agents.
-* St. John's Wort  
+* St. John's Wort\
 Cease 5 days prior; multiple pharmacokinetic interactions.
-* Valerian root  
+* Valerian root\
 Tapered weeks pre-operatively; ↑ sedation with anaesthesia.
-* Echinacea  
+* Echinacea\
 ↑ hypersensitivity.
 
 

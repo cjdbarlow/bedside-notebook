@@ -3,10 +3,10 @@
 
 Necrotising fasciitis is an aggressive, life-threatening infection characterised by:
 
-* Rapidly progressing necrosis of subcutaneous tissue and fascia  
+* Rapidly progressing necrosis of subcutaneous tissue and fascia\
 Relative sparing of underlying muscle.
 	* Also known as Fournier's Gangrene when involving the perineum
-* Systemic toxicity with associated multi-organ failure and high mortality  
+* Systemic toxicity with associated multi-organ failure and high mortality\
 In absence of this, it may be difficult to differentiate from a severe necrotising abscess or other necrotising soft tissue infection.
 * Two subtypes
 	* Polymicrobial necrotising fasciitis (Type 1)
@@ -28,10 +28,10 @@ Predisposing factors for necrotising soft tissue infection include:
 
 Risk factors associated with ↑ mortality include:
 
-* Age  
+* Age\
 Especially in >70 age group.
 * Illness severity
-* Organism  
+* Organism\
 Higher mortality seen with:
 	* Group A Streptococci
 	* Enteric organisms
@@ -41,7 +41,7 @@ Higher mortality seen with:
 Necrotising fasciitis involves
 * Rapid proliferation of subcutaneous bacteria
 * Leukococyte proliferation
-* Thrombosis of fascial vessels  
+* Thrombosis of fascial vessels\
 Leads to ischaemia and necrosis of tissue.
 
 ## Clinical Manifestations
@@ -68,9 +68,9 @@ Leads to ischaemia and necrosis of tissue.
 
 Standard treatment involves:
 
-* Immediate and radical surgical debridement of dead and infected tissue  
+* Immediate and radical surgical debridement of dead and infected tissue\
 Delayed debridement associated with increasd mortalityh.
-* Antibiotics  
+* Antibiotics\
 Broad spectrum.
 	* Should include good streptococcal cover
 * HDU or ICU care
@@ -78,11 +78,11 @@ Broad spectrum.
 ### Hyperbaric oxygen therapy
 
 * Controversial
-* A retrospective review suggested that HBOT suggests patients are 4x less likely to die  
+* A retrospective review suggested that HBOT suggests patients are 4x less likely to die\
 Multiple suggested mechanisms:
 	* ↑ viability of marginal tissue
 	* Reduces bacterial toxin prouction
-	* Inhibits anaerobic bacterial growth  
+	* Inhibits anaerobic bacterial growth\
 	↑ tissue oxdiation reduction potential.
 	* Potentiates antibiotic function
 	* Improves efficacy of neutrophil respiratory burst

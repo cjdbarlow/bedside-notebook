@@ -24,58 +24,58 @@ Removal of thyroid gland, usually by transverse neck incision. Performed for:
 * A
 	* Goitre
 		* Retrosternal
-			* ⩾50% of goitres are retrosternal  
+			* ⩾50% of goitres are retrosternal\
 			Associated with ↑ rate of complications.
 			* 90% have airway issues
 			* 1/3^rd^ have dysphagia.
-	* Anatomical distortion  
+	* Anatomical distortion\
 	Difficult airway in 6%.
 		* Tracheomalacia
 		* Swallowing difficulty
-			* Meat/bread  
+			* Meat/bread\
 			Some sort of impingement.
 			* Liquids
-			* Secretion control  
+			* Secretion control\
 			Inability to control saliva/respiratory secretions indicates significant dysfunction.
 		* Consider nasoendoscopy for baseline cord function
-	* Airway plan  
+	* Airway plan\
 	Particularly afterwards. Plan for:
 		* Minimising coughing
 		* Recurrent laryngeal nerve palsy
 		* Vocal change
-	* Use of NIM tube  
+	* Use of NIM tube\
 	ETT with built-in electrodes to monitor integrity of recurrent laryngeal nerves.
-		* Surgeon identifies RLN with current of 0.2-2mA, which will stimulate cord movement  
+		* Surgeon identifies RLN with current of 0.2-2mA, which will stimulate cord movement\
 		* Cord movement generates an electrical signal in the tube which is read on the monitor
-		* Reduce incidence of neuropraxia but not of long term RLN injury  
+		* Reduce incidence of neuropraxia but not of long term RLN injury\
 			* Technical factors
-			* ↑ external diameter of tube  
+			* ↑ external diameter of tube\
 			Minimum of 8.8mm OD.
 			* Cannot be placed nasally
 			* Requires stylet or FOI
-			* Requires precise positioning; VL is helpful  
+			* Requires precise positioning; VL is helpful\
 			Electrodes must straddle cords. 
 			* Certain blocks will limit efficacy:
 				* Nebulised lignocaine
 				* Trans-tracheal lignocaine
 				* Superior LN blocks
-			* Avoid muscle relaxation during dissection  
+			* Avoid muscle relaxation during dissection\
 			Remifentanil, atracurium, or rocuronium/sugammadex for intubation.
 * B
 	* Obesity
 * C
-	* AF or CHF  
+	* AF or CHF\
 	If hyperthyroid.
 * D
 	* Use of nerve monitoring
 * E
-	* Thyroid state  
+	* Thyroid state\
 	Requires euthyroid state. Evaluate:
 		* Normal T~4~/T~3~
 		* Normal temperature
 		* Normal HR, BP, pulse pressure
 		* Normal reflexes
-	* Electrolytes  
+	* Electrolytes\
 	Notably **hypocalcaemia**.
 
 
@@ -98,10 +98,10 @@ Removal of thyroid gland, usually by transverse neck incision. Performed for:
 * Subplatysmal flaps developed
 	* Anterior jugular veins avoided
 * Prethyroid fascia divided in midline
-* Thyroid gland resected  
+* Thyroid gland resected\
 Depends on diagnosis.
 	* Total
-	* Subtotal  
+	* Subtotal\
 	Lobe, isthmus, +/- part of remaining lobe.
 	* Lobar
 * Identification and preservation of the:
@@ -114,25 +114,25 @@ Depends on diagnosis.
 Immediate serious post-operative complications include:
 
 * Recurrent laryngeal nerve damage
-	* Bilateral  
+	* Bilateral\
 	Vocal cords adducted.
 		* Unable to speak
-		* Requires reintubation  
+		* Requires reintubation\
 		CPAP may temporise by splinting open cords.
-	* Unilateral  
+	* Unilateral\
 	3-4%; hoarse voice.
-* Tracheomalacia  
+* Tracheomalacia\
 Acute upper airway obstruction due to tracheal collapse.
 	* Requires emergent reintubation or tracheostomy
-	* Largely a historical remnant  
+	* Largely a historical remnant\
 	Risk is exceedingly rare in modern practice.
 	* Suggested by no cuff leak prior to extubation
 	* Risks may include:
 		* Duration of goitre
 		* Retrosternal extension of goitre
-		* Significance of extrinsic compression  
+		* Significance of extrinsic compression\
 		Tumour; may also include bronchogenic carcinoma or aortic aneurysm.
-* Haematoma/Oedema  
+* Haematoma/Oedema\
 Occurs in 1-2%, and expansion may lead to airway compromise.
 	* Rapidly reopen incision and drain remaining blood
 	* Consider CPAP to temporise airway
@@ -142,7 +142,7 @@ Occurs in 1-2%, and expansion may lead to airway compromise.
 
 Delayed complications include:
 
-* Hypoparathyroidism  
+* Hypoparathyroidism\
 Inadvertent removal of parathyroid glands leading to acute fall in PTH and **hypocalcaemia**:
 	* Occurs in ~20% of patients, with 3.1% being permanent
 	* Presents as:
@@ -150,7 +150,7 @@ Inadvertent removal of parathyroid glands leading to acute fall in PTH and **hyp
 		* Tingling/numbness
 		* Tetany
 		* Seizures
-	* Treated with calcium supplementation  
+	* Treated with calcium supplementation\
 	e.g. 10mL calcium gluconate IV.
 
 

@@ -3,11 +3,11 @@
 
 Handover may occur:
 
-* During anaesthesia  
+* During anaesthesia\
 May be:
 	* Temporary
 	* Permanent
-* After anaesthesia  
+* After anaesthesia\
 To PACU or HDU/ICU.
 
 The anaesthetist remains responsible for patient care:
@@ -15,16 +15,16 @@ The anaesthetist remains responsible for patient care:
 * Whilst the patient is in the recovery room
 * Until the patient has been handed over to another suitably qualified medical practitioner
 
-## Handover During Anaesthesia  
+## Handover During Anaesthesia\
 
 Principles:
 
 * Relieving anaesthetist must be competent to manage the patient
-* Patient should be clinically stable  
-* All relevant factors should be explained  
+* Patient should be clinically stable\
+* All relevant factors should be explained\
 Including:
 	* PMHx and HOPC
-	* Surgery  
+	* Surgery\
 	Procedure, state, and implications.
 	* Anaesthetic technique:
 		* Airway

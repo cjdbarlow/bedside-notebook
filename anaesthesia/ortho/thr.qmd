@@ -11,25 +11,25 @@
 
 Involves replacement of the hip joint with prosthesis. May be:
 
-* Unipolar  
+* Unipolar\
 Femoral head replaced.
-* Bipolar  
+* Bipolar\
 Femoral head and acetabular cup replaced.
-* Revision  
+* Revision\
 ↑ operating time and blood loss.
 	* May be difficult to extract cemented prostheses
-* **Girdlestone**  
+* **Girdlestone**\
 Removal of femoral head or prostheses without replacement. Typically for infection or palliation.
-* Bilateral  
+* Bilateral\
 Sequential replacement of each hip joint. ↑ operative duration limits utility of single-shot spinal.
 
 
 ## Considerations
 
-* Indication  
-	* OA  
+* Indication\
+	* OA\
 	Most common indication, often associated with limited exercise tolerance which may mask underlying CVS/respiratory disease.
-	* Rheumatoid arthritis  
+	* Rheumatoid arthritis\
 	Associated pulmonary disease, anaemia, potential difficult airway.
 
 
@@ -37,7 +37,7 @@ Sequential replacement of each hip joint. ↑ operative duration limits utility 
 	* ETT reasonable if GA in lateral position
 * C
 	* Relative hypotension ↓ blood loss
-	* Cementing may precipitate profound hypotension/cardiac arrest  
+	* Cementing may precipitate profound hypotension/cardiac arrest\
 	Particularly in right heart failure.
 * D
 	* Neuraxial anaesthesia:
@@ -49,7 +49,7 @@ Sequential replacement of each hip joint. ↑ operative duration limits utility 
 * E
 	* Neuromuscular blockade for placement of prosthesis and testing of passive ROM
 * H
-	* DVT is common post-operatively  
+	* DVT is common post-operatively\
 	80% in femoral vein.
 	* Major blood loss
 
@@ -70,7 +70,7 @@ Techniques include:
 	* Consider:
 		* 2.5-5ml 0.5% heavy bupivacaine
 		* 10-25ug fentanyl or 100-200 mcg spinal morphine
-* Epidural  
+* Epidural\
 Smoother haemodynamic induction and postoperative analgesia.
 	* Remove D2 post-operatively if used
 * GA
@@ -84,10 +84,10 @@ Key intraoperative stage is **cementing**:
 	* Pulmonary embolus
 	Fat and cement.
 		* Pretreat
-	* **Hypotension**  
+	* **Hypotension**\
 	Direct vasodilation or pulmonary hypertension secondary to embolus.
 		* **Pre-treat** with fluid and vasopressor to optimise right heart function
-	* **Hypoxia**  
+	* **Hypoxia**\
 	Secondary to embolus-related shunt.
 
 
@@ -97,7 +97,7 @@ Key intraoperative stage is **cementing**:
 * Dislocation of the femoral head
 * Removal of native femoral head
 * Reaming of acetabulum for cup replacement
-* Placing of femoral head  
+* Placing of femoral head\
 Cemented or cementless.
 * Hip relocation
 * Closure

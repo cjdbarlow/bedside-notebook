@@ -3,10 +3,10 @@
 
 General Principles:
 
-* Monitoring is essential during anaesthesia, and must be used in conjunction with clinical observation  
+* Monitoring is essential during anaesthesia, and must be used in conjunction with clinical observation\
 Vigilance is essential for safe practice.
 	* Therefore, a proceduralist cannot also provide anaesthesia
-* Person responsible for provision of anaesthesia must be constantly present from induction until transfer to PACU or ICU  
+* Person responsible for provision of anaesthesia must be constantly present from induction until transfer to PACU or ICU\
 In exceptional circumstances, a brief absence may be unavoidable. In such instances, observation should be delegated to a suitably trained and skilled practitioner.
 	* Permanent handover of responsibility can only occur to an anaesthetist who is able to accept that responsibility
 * Duration of monitoring post-operatively relies on clinical judgment 
@@ -14,18 +14,18 @@ In exceptional circumstances, a brief absence may be unavoidable. In such instan
 
 Regular monitoring should include assessment and recording of:
 
-* Oxygenation  
+* Oxygenation\
 Continuously. Adequate light should be available.
-	* Pulse oximetry is required for every GA or sedation  
+	* Pulse oximetry is required for every GA or sedation\
 	Variable pulse tone and alarm should be set and audible.
 	* An oxygen analyser (for low FiO~2~) must be in continuous use for every case involving an anaesthetic breathing system
-* Ventilation  
+* Ventilation\
 Continuously.
 	* If an automatic ventilator is in use, an alarm for a disconnection must also be in use
 	* ETCO~2~:
 		* Must be used for every GA
 		* Should be available for every sedation
-* Circulation  
+* Circulation\
 Detection of pulse and blood pressure.
 	* ECG must be available
 	* ECG should be used for GA and major regional cases, if clinically indicated
@@ -47,7 +47,7 @@ Detection of pulse and blood pressure.
 Alarms:
 
 * Alarms are visual and audible
-* Alarms should be enabled on commencement of anaesthesia  
+* Alarms should be enabled on commencement of anaesthesia\
 * Alarms should only be disabled in exceptional circumstances
 
 ---

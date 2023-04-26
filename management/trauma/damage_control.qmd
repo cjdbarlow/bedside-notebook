@@ -7,12 +7,12 @@ Damage control surgery describes **limited surgical interventions** to correct o
 		* Aggressive control of external haemorrhage
 		* Permissive hypotension
 		* Correcting of hypothermia, coagulopathy, and acidosis
-		* Aggressive transfusion  
-	* Preventing coagulopathy  
+		* Aggressive transfusion\
+	* Preventing coagulopathy\
 		* Avoid acidosis
 		* Avoid hypothermia
-		* Transfusion  
-		* TXA use  
+		* Transfusion\
+		* TXA use\
 		1g over 10 minutes, and a further 1g at 8 hours.
 		* Minimise crystalloid use
 * Abbreviated life-saving surgery
@@ -28,9 +28,9 @@ Severely injured patients with multisystem trauma, generally indicated by:
 * Severe physiological derangement	
 	* Hypothermia
 	* Coagulopathy
-		* Clinical  
+		* Clinical\
 		No visible clots or diffuse tissue ooze.
-		* Laboratory  
+		* Laboratory\
 		APTT/PT >1.5x normal.
 	* Persistent cellular shock
 		* pH <7.2
@@ -41,19 +41,19 @@ Severely injured patients with multisystem trauma, generally indicated by:
 * Inability to control bleeding
 * Large volume resuscitation
 	* >10 units PRBC
-	* >12L of volume resuscitation  
+	* >12L of volume resuscitation\
 	Including crystalloid and blood, in both pre- and intra-hospital phases.
 * Injury patterns
-	* Major venous injury with poor access  
+	* Major venous injury with poor access\
 	Intrahepatic, retrohepatic, retroperitoneal, pelvic.
-	* Major liver injury  
+	* Major liver injury\
 	* Pancreato-duodenal injury with:
 		* Haemodynamic instability
 		* Head of pancreas bleeding
 	* Massive vascular disruption to:
 		* Duodenum
 		* Pancreas
-		* Pancreato-duodenal complex  
+		* Pancreato-duodenal complex\
 		With ampulla/pancreatic duct injury.
 	* Requirement for staged abdominal or thoracic wall reconstruction
 
@@ -79,7 +79,7 @@ Severely injured patients with multisystem trauma, generally indicated by:
 Damage control surgery can be divided into **five phases**:
 
 * Pre-surgery damage control
-* Damage control surgery  
+* Damage control surgery\
 * ICU resuscitation
 * Definitive repair
 * Reconstructive surgery
@@ -90,7 +90,7 @@ Damage control surgery can be divided into **five phases**:
 
 Prehospital:
 
-* Perform life-saving maneuvers  
+* Perform life-saving maneuvers\
 Necessity varies depending on:
 	* Degree of injury
 	* Transportation time
@@ -123,22 +123,22 @@ Principles:
 Methods:
 
 * Damage control laparotomy
-	* Open abdomen and pack all four quadrants  
+	* Open abdomen and pack all four quadrants\
 		* Most significant bleeding packed first
 		* Packs are then removed in reverse order, and bleeding and contamination in each quadrant is addressed in turn
 	* Control haemorrhage
 		* Resect severely damaged non-essential organs
 		* Pack severely damaged essential organs
 		* Ligate or shunt transected intraabdominal vessels
-	* Control contamination  
+	* Control contamination\
 		* Seal or resect perforated hollow viscera
 		* Avoid reanastomosis
-	* Temporary abdominal closure  
+	* Temporary abdominal closure\
 	Consideration of open abdomen to prevent abdominal compartment syndrome.
 * Extremities
-	* External fixation devices  
+	* External fixation devices\
 	Useful to avoid prolonged operative internal fixation or with contaminated wounds.
-	* Vascular shunting  
+	* Vascular shunting\
 	Temporary shunts to maintain flow, rather than ligation or definitive revascularization.
 	* Fasciotomy
 

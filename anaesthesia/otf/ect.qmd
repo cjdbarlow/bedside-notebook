@@ -11,13 +11,13 @@
 ECT involves transcutaneous electrical stimulation of the brain to produce generalised seizures in order to treat certain psychiatric disorders. ECT is:
 
 * Used to treat severe depression, mania, and catatonia
-* Performed regularly (e.g. twice weekly) for 3-4 weeks, and then usually ceased  
+* Performed regularly (e.g. twice weekly) for 3-4 weeks, and then usually ceased\
 Dosing and issues can be reliably deduced from reviewing old anaesthetic charts.
 * Associated with a **significant physiological response**
 	* Arrhythmias and MI are the primary cause of ECT-related mortality
-	* Initial parasympathetic discharge associated with electrical stimulus  
+	* Initial parasympathetic discharge associated with electrical stimulus\
 	Bradycardia or, rarely, asystole may occur.
-	* Subsequent dominant sympathetic response  
+	* Subsequent dominant sympathetic response\
 	Large ↑ in SBP, moderate ↑ in HR, tachyarrhythmias.
 
 
@@ -27,11 +27,11 @@ Dosing and issues can be reliably deduced from reviewing old anaesthetic charts.
 
 **Assessment:**
 * CVS Comorbidities
-	* Recent MI  
+	* Recent MI\
 	Absolute contraindication if ⩽3 months.
-	* Recent aortic aneurysm, angina, CHF, thrombophlebitis.  
+	* Recent aortic aneurysm, angina, CHF, thrombophlebitis.\
 	Relative contraindications.
-	* Presence of PPM  
+	* Presence of PPM\
 	Magnet should be available.
 * Underlying psychiatric illness
 
@@ -49,9 +49,9 @@ Dosing and issues can be reliably deduced from reviewing old anaesthetic charts.
 **Induction:**
 * Preoxygenation
 * Induction with propofol (1-2mg/kg)
-* Partial relaxation with suxamethonium (e.g. 0.6-1mg/kg)  
+* Partial relaxation with suxamethonium (e.g. 0.6-1mg/kg)\
 Adequate muscle relaxation is essential to prevent
-	* Teeth damage from masseter spasm  
+	* Teeth damage from masseter spasm\
 	Most common injury.
 	* Muscular damage or fractures from seizures.
 * Assisted mask ventilation may be required until spontaneous ventilation resumes
@@ -64,7 +64,7 @@ Adequate muscle relaxation is essential to prevent
 
 
 **Emergence:**
-* Altered mental status  
+* Altered mental status\
 Non-memory cognitive functions are rarely affected, however common side-effects include:
 	* Confusion
 	* Agitation
@@ -73,7 +73,7 @@ Non-memory cognitive functions are rarely affected, however common side-effects 
 	* Headache
 	* Myalgia
 	* Nausea and vomiting
-* Amnesia  
+* Amnesia\
 Period of anterograde and retrograde amnesia around seizure. Rarely may become prolonged with long durations of ECT treatment.
 
 ## Postoperative
@@ -83,9 +83,9 @@ Period of anterograde and retrograde amnesia around seizure. Rarely may become p
 
 
 **Specific:**
-* Postictal headache  
+* Postictal headache\
 Due to dilation of meningeal vessels.
-* Haemodynamic upset  
+* Haemodynamic upset\
 May last minutes to over an hour post-procedure:
 
 

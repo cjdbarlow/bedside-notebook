@@ -12,10 +12,10 @@ Under GA:
 * Volatile
 	* Avoid N~2~O
 	* Use < 1 MAC
-* TIVA  
+* TIVA\
 May be preferred in cases with high ICP. One approach:
 	* TCI propofol at 3-6ug/mL
-	* Remifentanil 0.1-0.3ug/kg/min  
+	* Remifentanil 0.1-0.3ug/kg/min\
 	Reduces need for top-up muscle relaxation.
 
 ## Considerations
@@ -24,21 +24,21 @@ May be preferred in cases with high ICP. One approach:
 	* Airway is not accessible intraoperatively, intubate and secure well
 	* Use a reinforced tube
 * B
-	* Coughing is not allowed  
+	* Coughing is not allowed\
 	Ensure adequate muscle relaxation (test regularly, consider use of muscle relaxant infusion) or use deep opioid anaesthesia (e.g. remifentanil infusion not less than 0.2ug/kg/min).
-	* Ventilate to normal PaCO~2~ in most instances  
+	* Ventilate to normal PaCO~2~ in most instances\
 	Avoid cerebral ischaemia.
 * C
-	* Aim normotension during most procedures  
+	* Aim normotension during most procedures\
 * E
-	* Aim normothermia  
+	* Aim normothermia\
 	36°C-37°C.
 
 
 ## Preparation
 
 * Standard monitoring
-* Arterial line  
+* Arterial line\
 * Core temperature monitoring
 * CVC
 	* Administration of vasoactives
@@ -49,8 +49,8 @@ May be preferred in cases with high ICP. One approach:
 
 Haemodynamic stability is important:
 
-* Remifentanil infusion usually adequate  
-	* Begin at 0.2-0.3ug/kg/min, and titrate to effect  
+* Remifentanil infusion usually adequate\
+	* Begin at 0.2-0.3ug/kg/min, and titrate to effect\
 	Can be bolused, but this ↑ risk of bradycardia and CVS instability.
 	* Once adequately loaded (~1ug/kg), can then commence induction with propofol
 * Otherwise fentanyl (5ug/kg) or alfentanil (25-50ug/kg/hr)
@@ -69,7 +69,7 @@ Beware stimulating parts of this procedure and aim to maintain haemodynamic stab
 * Application of clamps:
 	* Associated with significant hypertension
 	* Cover with bolus of 0.5-1ug/kg remifentanil or 0.5-1mg/kg propofol
-* Local anaesthetic with adrenaline  
+* Local anaesthetic with adrenaline\
 Intravascular adrenaline will also cause CVS compromise.
 * Skin and skull incision
 * Once dura is opened, surgical stimulation drops markedly
@@ -82,7 +82,7 @@ Closure of dura:
 
 ## Postoperative
 
-* May require additional IV opioid recovery  
+* May require additional IV opioid recovery\
 Monitor carefully for ↓ GCS as this may be either anaesthetic or surgically related.
 
 

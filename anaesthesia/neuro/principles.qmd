@@ -5,7 +5,7 @@ Key principles:
 
 * Preoperative assessment
 	* Presentation
-		* Neurological findings  
+		* Neurological findings\
 		**Pre-operative deficits**.
 		* Conscious state
 	* Treatment
@@ -14,9 +14,9 @@ Key principles:
 			* Neutrophilia
 		* Anticonvulsants
 * Optimal operating conditions
-	* Relaxed brain  
+	* Relaxed brain\
 		* Reduce global ICP
-		* Reduce retraction pressure  
+		* Reduce retraction pressure\
 		May reduce CVA risk under retractor.
 	* Haemodynamic stability
 * Cerebral protection
@@ -36,19 +36,19 @@ Key principles:
 * B
 	* CO~2~ control
 * C
-	* Haemodynamic stability  
+	* Haemodynamic stability\
 	Most cases require precise haemodynamic control.
 * D
 	* Anaesthetic choice
 		* Volatile impairs cerebral autoregulation in:
-			* ↑ concentrations  
+			* ↑ concentrations\
 			**Always** some vasodilation, but the effect is **dose-dependent**. Often ⩽1 MAC is acceptable.
-				* Sevoflurane has the least effect on cerebral blood flow, and is the most suitable volatile agent  
+				* Sevoflurane has the least effect on cerebral blood flow, and is the most suitable volatile agent\
 				Isoflurane and desflurane significantly worse.
-			* Presence of hypercarbia  
+			* Presence of hypercarbia\
 			Loss of CO~2~ reactivity is a bad sign.
 		* Nitrous oxide has several detrimental effects due to cerebral vasodilation
-		* Propofol reduces ICP and ↑ CPP to a greater extent than sevoflurane  
+		* Propofol reduces ICP and ↑ CPP to a greater extent than sevoflurane\
 		**TIVA** desirable in any patient with severely **raised ICP**
 	* Rapid emergence improves neurological assessment and early detection of complications
 

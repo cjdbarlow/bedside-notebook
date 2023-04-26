@@ -6,26 +6,26 @@
 >Position: Supine <br>
 >Time: 30 minutes to 1 hour <br>
 >Blood loss: Minimal <br>
->Special: Apnoea monitoring, aspiration precautions  
+>Special: Apnoea monitoring, aspiration precautions\
 
 Pyloromyotomy is:
 
-* Performed for hypertrophic pyloric stenosis  
+* Performed for hypertrophic pyloric stenosis\
 Leads to gastric outflow obstruction.
 * Incision of hypertrophied muscle down to the mucosa
 * Curative
 
 Patients classically are:
 
-* 1 to 3 months old  
+* 1 to 3 months old\
 May be as young as 5 days.
 * White
-* Male  
+* Male\
 80%.
 * Projectile vomiting of gastric contents (no bile)
-* Alkalotic  
+* Alkalotic\
 Hypokalaemic hypochloraemic metabolic alkalosis.
-* Diagnosed clinically  
+* Diagnosed clinically\
 'Olive' palpable epigastrically and right of midline.
 
 ## Considerations
@@ -34,37 +34,37 @@ Hypokalaemic hypochloraemic metabolic alkalosis.
 
 
 * A
-	* Aspiration risk  
+	* Aspiration risk\
 	High risk - OGT or NGT should be placed and stomach suctioned prior to induction.
 		* Four-quadrant suctioning can be performed
 * C
-	* Volume state  
+	* Volume state\
 	**Must be corrected pre-operatively**.
 		* Frequency and amount of vomiting
 		* Diarrhoea
 		* Urine output
-		* Perform resuscitation:  
+		* Perform resuscitation:\
 		Adequate resuscitation may take up to 72 hours.
-			* Initial resuscitation of shock with standard solutions  
+			* Initial resuscitation of shock with standard solutions\
 			10-20ml/kg boluses of 0.9% NaCl to restore circulating volume.
-			* Continue maintenance with salt and dextrose containing solutions  
+			* Continue maintenance with salt and dextrose containing solutions\
 				* 4ml/kg/hr of 0.9% NaCl with 5% dextrose
-				* Add potassium (40mmol/L) when UO ⩾1-2ml/kg/hr  
+				* Add potassium (40mmol/L) when UO ⩾1-2ml/kg/hr\
 * F
 	* Hypochloraemic metabolic alkalosis
-		* Off-loading of oxygen is impaired in alkalotic states  
+		* Off-loading of oxygen is impaired in alkalotic states\
 		More important in neonates due to foetal haemoglobin level.
-		* Compensatory respiratory acidosis is common  
+		* Compensatory respiratory acidosis is common\
 		Extent of compensation (i.e. PaCO~2~) is a marker of severity of dehydration.
 		* Respiratory alkalosis (secondary to hypovolaemic shock) suggests **critical** dehydration
-		* Potassium may be high, normal, or low, depending on the degree of acidosis and the volume state  
+		* Potassium may be high, normal, or low, depending on the degree of acidosis and the volume state\
 			* As volume state falls, aldosterone will ↑ Na^+^ retention and lead to hypokalaemia
-			* As hypokalaemia worsens, the kidney will then retain Na^+^ and eliminate H^+^  
+			* As hypokalaemia worsens, the kidney will then retain Na^+^ and eliminate H^+^\
 			This leads to a paradoxically acidic urine.
 		* HCl may be used to correct severe alkalosis but is rarely necessary
-		* Will be corrected by volume and Cl^-^ resuscitation  
+		* Will be corrected by volume and Cl^-^ resuscitation\
 		Aciduria will resolve when volume is restored, as the distal tubule no longer exchanges potassium and hydrogen for sodium.
-	* Hyponatraemia/electrolyte derangement  
+	* Hyponatraemia/electrolyte derangement\
 	May be present but masked by dehydration. **Preoperative targets**:
 		* pH ⩽7.45
 		* BE ⩽3.5
@@ -89,7 +89,7 @@ Hypokalaemic hypochloraemic metabolic alkalosis.
 	* SpO~2~
 	* ECG
 	* Blood pressure
-* Place a **new** large bore orogastric tube and perform 4-quadrant suction    
+* Place a **new** large bore orogastric tube and perform 4-quadrant suction  \
 Premedicate with atropine (0.02mg/kg) prior to decompression.
 
 ## Induction
@@ -104,7 +104,7 @@ Premedicate with atropine (0.02mg/kg) prior to decompression.
 	* Additional:
 		* Dead space is minimal
 		* Resistance mitigated by use of pressure-support or controlled ventilation
-* Paracetamol and local anaesthetic usually adequate for analgesia  
+* Paracetamol and local anaesthetic usually adequate for analgesia\
 **Avoid opioids**; they will not breathe and don't need it anyway.
 
 ### Surgical Stages
@@ -119,7 +119,7 @@ Approach may be:
 
 ## Postoperative
 
-* Risk of respiratory depression  
+* Risk of respiratory depression\
 Monitor for apnoeas for 24/24.
 	* GA
 	* Metabolic alkalosis

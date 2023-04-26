@@ -3,20 +3,20 @@
 
 Neuroendocrine tumour that:
 
-* May occur from any neuroendocrine cell  
+* May occur from any neuroendocrine cell\
 Found in many tissues; tumour incidence depends on neuroendocrine cell density. May arise in:
-	* Lung  
+	* Lung\
 	~25%. Technically only neuroendocrine tumours of the lung should be called carcinoid tumours.
-	* GIT  
+	* GIT\
 	Should be referred to as neuroendocrine tumour (NET). May occur in:
-		* Small intestine  
+		* Small intestine\
 		40%.
-		* Rectum  
+		* Rectum\
 		27%.
-		* Stomach  
+		* Stomach\
 		10%.
 * Contain neuroendocrine cells and secrete biological amines
-	* Serotonin  
+	* Serotonin\
 	Most commonly.
 	* Corticotrophin
 	* Histamine
@@ -55,7 +55,7 @@ Presentation may be from **mass effect** or **carcinoid syndrome**, and varies d
 	* Haemoptysis
 	* Chest pain
 * Gastric
-	* Zollinger-Ellison syndrome  
+	* Zollinger-Ellison syndrome\
 	Peptic ulcers occurring due to excessive acid production, in turn occurring due to a gastrin-producing tumour.
 	* Atrophic gastritis
 * Bowel
@@ -68,17 +68,17 @@ Presentation may be from **mass effect** or **carcinoid syndrome**, and varies d
 
 Syndrome associated with secretion of vasoactive mediators from the tumour. Carcinoid syndrome is:
 
-* Rare  
+* Rare\
 ~10% of patients with carcinoid tumours.
-* Unpredictable clinical effects  
+* Unpredictable clinical effects\
 Variable:
 	* Secretion of (usually) histamine and serotonin
-	* First-pass hepatic metabolism  
+	* First-pass hepatic metabolism\
 	Depending on location.
-* Usually **intermittent** symptoms  
+* Usually **intermittent** symptoms\
 Associated with:
 	* Exercise
-	* Tyramine ingestion  
+	* Tyramine ingestion\
 	Cheese, chocolate.
 * Common symptoms:
 	* Flushing (80%)
@@ -94,7 +94,7 @@ Associated with:
 
 Characteristic cardiac lesions:
 
-* Associated with high circulating 5-HT  
+* Associated with high circulating 5-HT\
 Rarely seen if 5-HIAA levels are ≤50mg/24 hours.
 * Classically **right-sided endocardial thickening**:
 	* Leads to retraction and fixation of valve leaflets
@@ -113,8 +113,8 @@ Exaggerated form of carcinoid syndrome that is:
 	* Profound flushing
 	* Bronchospasm
 	* Tachycardia
-	* Widely fluctuating BP  
-* Requires octreotide to control haemodynamics  
+	* Widely fluctuating BP\
+* Requires octreotide to control haemodynamics\
 0.5-1mg IV followed by infusion of 50-200μg/hr.
 
 
@@ -131,7 +131,7 @@ Tumour activity:
 	* UECs
 	* S. Protein
 * Urine
-	* 24 hour 5-HIAA levels  
+	* 24 hour 5-HIAA levels\
 	Serotonin metabolite.
 
 
@@ -169,7 +169,7 @@ Premedication:
 * Ranitidine 50mg IV/150mg PO 2 hours prior
 * Promethazine 12.5mg IV/10-20mg PO 2 hours prior
 * Ondansetron 4-8mg IV 2 hours prior
-* Dexamethasone 2-4mg IV  
+* Dexamethasone 2-4mg IV\
 For gastric neuroendocrine tumours.
 
 
@@ -194,7 +194,7 @@ General:
 	* Cardiac disease
 		* **Carcinoid cardiac disease**
 		* **Coronary spasm**
-		* **Erratic BP**  
+		* **Erratic BP**\
 		Hypo- or hypertensive crises may:
 			* Occur due to variation in hormone secretion
 			* **Unresponsive** to **conventional vasoactives**
@@ -205,7 +205,7 @@ General:
 			* Atracurium
 			* Suxamethonium
 		* Low CVP during resection
-		* Avoid inotropes and vasopressors  
+		* Avoid inotropes and vasopressors\
 		Unpredictable and potentially **paradoxical** response.
 			* Noradrenaline may release kallikrein from tumour, leading to vasodilation
 			* Exaggerated hypertension also described
@@ -224,10 +224,10 @@ General:
 		* Octreotide 10-200μg bolus
 		* Labetalol, GTN, and esmolol if unresponsive
 * D
-	* Consider epidural if major abdominal surgery  
+	* Consider epidural if major abdominal surgery\
 	Avoid loading until after tumour resection to avoid hypotension.
 * E
-	* **Octreotide** infusion  
+	* **Octreotide** infusion\
 	Used to limit vasoactive crises. Octreotide has many effects, however its key:
 		* Mechanism of action is via:
 			* Reducing splanchnic blood flow

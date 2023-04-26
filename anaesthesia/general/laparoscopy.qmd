@@ -12,12 +12,12 @@ Key changes:
 		* Elevated airway pressure
 		* ↓ pulmonary compliance
 		* Atelectasis
-	* ↑ PaCO~2~  
+	* ↑ PaCO~2~\
 	Due to absorption of insufflated CO~2~.
-* Cardiovascular  
+* Cardiovascular\
 Effects vary depending on intraabdominal pressure, and these changes will be exacerbated by changes in positioning altering venous return:
 	* IAP ⩽10mmHg
-		* Splanchnic compression and autotransfusion  
+		* Splanchnic compression and autotransfusion\
 		Up to 40% reduction in mesenteric blood flow.
 		* ↑ Preload, VR, and CO
 	* IAP 10-20mmHg
@@ -26,7 +26,7 @@ Effects vary depending on intraabdominal pressure, and these changes will be exa
 		* ↑ SVR exceeds ↓ preload; so BP is maintained
 	* IAP >20mmHg
 		* ↑ IVC compression and ↓↓ preload
-		* ↑ SVR  
+		* ↑ SVR\
 		Inotropes more effective than vasopressors in management of hypotension.
 		* ↓ CO with ↓ in BP
 
@@ -44,10 +44,10 @@ Include:
 
 Patient:
 
-* Raised ICP  
+* Raised ICP\
 Due to ↑ PaCO~2~.
 * Severe hypovolaemia
-* Right-to-left shunts  
+* Right-to-left shunts\
 ↑ passage with raised venous pressures.
 
 
@@ -65,7 +65,7 @@ Surgical:
 
 Anaesthesia:
 
-* Generally requires ETT  
+* Generally requires ETT\
 LMA use controversial.
 * ↑ PONV
 

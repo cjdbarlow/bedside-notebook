@@ -4,7 +4,7 @@
 Common and distressing anaesthetic complication that:
 
 * Affects up to 30% of patients
-* May prolong PACU stay or require hospital admission  
+* May prolong PACU stay or require hospital admission\
 Significant ↑ in healthcare costs.
 * PONV prevention therefore aims to improve patient comfort, throughput, and reduce cost
 
@@ -22,9 +22,9 @@ Key patient risk factors:
 Anaesthetic risk factors:
 
 * General anaesthesia
-* Use of volatile anaesthetics  
+* Use of volatile anaesthetics\
 Dose dependent.
-* Use of nitrous oxide  
+* Use of nitrous oxide\
 Has minimal impact when baseline risk is low.
 * Duration of anaesthesia
 * Post-operative opioids
@@ -57,11 +57,11 @@ Apfel Score:
 
 Preventative therapy is titrated to risk:
 
-* Low risk  
+* Low risk\
 Nil intervention required.
-* Moderate risk  
+* Moderate risk\
 1 or 2 interventions.
-* High risk  
+* High risk\
 ⩾2 interventions.
 
 
@@ -73,20 +73,20 @@ Include:
 * Regional anaesthesia
 * Acupuncture
 * Antiemetic prophylaxis
-	* 5-HT~3~ antagonists  
+	* 5-HT~3~ antagonists\
 	Give at end of surgery.
 		* Ondansetron 4-8mg
 		* Granisetron 0.3-3mg
-	* Corticosteroids  
+	* Corticosteroids\
 	Give at induction.
 		* Dexamethasone 4mg
 	* Butyrophenones
 	Give at end of surgery.
 		* Droperidol 0.625-1.25mg
-	* NK-1 antagonists  
+	* NK-1 antagonists\
 	Give at induction.
 		* Aprepitant 40mg PO
-	* Transdermal scopolamine  
+	* Transdermal scopolamine\
 	Give evening prior to surgery or 2/24 prior.
 
 
@@ -95,7 +95,7 @@ Include:
 > * Treatment should use a different agent to the initial prophylaxis
 > * If no prophylaxis given, then initial treatment should be with a 5-HT~3~ antagonist
 
-* Propofol 20mg  
+* Propofol 20mg\
 Effective but brief.
 * Antiemetic
 

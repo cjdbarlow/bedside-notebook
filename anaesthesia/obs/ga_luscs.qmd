@@ -15,20 +15,20 @@ In addition to [general considerations](luscs.md#considerations), particular con
 	* High risk of anaesthetic awareness
 		* Reluctance to use opioid for foetal effects
 		* Desire to preserve haemodynamic stability
-		* Most occur at, or shortly after, induction  
+		* Most occur at, or shortly after, induction\
 		Multifactorial:
-			* Rapid offset of IV agents and slower uptake of volatile in this population  
+			* Rapid offset of IV agents and slower uptake of volatile in this population\
 			Remember to **mind the gap**!
 			* Common avoidance of opioid
 			* Maximal surgical stimulus occurring immediately post-induction
-	* Foetal effects  
+	* Foetal effects\
 	Foetus will be affected by agents.
-		* Volatile agents will diffuse across placenta  
+		* Volatile agents will diffuse across placenta\
 		Aim is to **minimise induction-to-delivery time** to reduce the magnitude of this effect.
-		* Opioids ↑ foetal respiratory depression  
+		* Opioids ↑ foetal respiratory depression\
 		Consider using smaller doses of shorter acting agents.
 * O
-	* Tocolytic effects of volatile agents  
+	* Tocolytic effects of volatile agents\
 	↑ risk of bleeding related adverse events without ↑ transfusion requirement.
 
 ## Preparation
@@ -39,34 +39,34 @@ In addition to [general considerations](luscs.md#considerations), particular con
 ## Induction
 
 * Preoxygenate well
-* Perform RSI  
+* Perform RSI\
 Ensure adequate doses induction agent and relaxant.
 	* Thiopentone 5mg/kg
-	* Propofol 3-4mg/kg  
+	* Propofol 3-4mg/kg\
 	High sympathetic drive - heavier doses tolerated well.
-		* *May* be associated with poorer neonatal status, but is commonly used  
+		* *May* be associated with poorer neonatal status, but is commonly used\
 	* Relaxant
-		* Suxamethonium 1-2mg/kg  
+		* Suxamethonium 1-2mg/kg\
 		Additional relaxation should not be required
 		* Rocuronium 1.2-2mg/kg
 		Remember that **magnesium will prolong duration of action** of non-depolarising agents.
-	* Opioid  
+	* Opioid\
 	Not necessarily required, but tell the paediatrician that it has been given if used.
-		* Alfentanil  
+		* Alfentanil\
 		Reasonable in patients with severe cardiac disease or hypertensive disorders of pregnancy.
-		* Remifentanil  
+		* Remifentanil\
 		1μg/kg bolus with intubation, minimal foetal effects.
-		* Fentanyl  
+		* Fentanyl\
 		Intubating doses will cause significant foetal effects.
-* Intubate  
+* Intubate\
 A slightly smaller tube may make intubation easier and will be adequate to ventilate with.
 * Commence ventilation
-	* 30% O~2~/70% N~2~O  
+	* 30% O~2~/70% N~2~O\
 	MAC-sparing, thereby reducing tocolytic effects of volatile agent.
 		* Make sure to avoid maternal hypoxia, and decraese the FiN~2~O if needed
-	* Sevoflurane ~1.5%  
+	* Sevoflurane ~1.5%\
 	Use high flows (10L/min) to reach target quickly.
-		* Consider overpressuring the volatile, but remember to turn it down again  
+		* Consider overpressuring the volatile, but remember to turn it down again\
 		Can be easy to forget in this chaotic situation.
 
 
@@ -76,10 +76,10 @@ A slightly smaller tube may make intubation easier and will be adequate to venti
 * Aim low-normal CO~2~
 * **Following delivery**
 	* Give oxytocin
-	* Give analgesia  
+	* Give analgesia\
 		* Paracetamol
 		* NSAID
-		* Opioid  
+		* Opioid\
 		20-30mg IV morphine.
 		Opioid, paracetamol, NSAID.
 * Consider regional analgesia
@@ -93,31 +93,31 @@ A slightly smaller tube may make intubation easier and will be adequate to venti
 
 * Regular PO analgesia
 * PCA
-* Follow-up about experience  
+* Follow-up about experience\
 	* Often a confusing, stressful time
 	* Risk of awareness
 
 
 ## Complications of GA in Caesarian Section
 
-* Awareness  
+* Awareness\
 High risk in obstetric population, and especially CS:
-	* Occurs in ~1/670  
+	* Occurs in ~1/670\
 	In NAP 5.
 	* Multifactorial:
-		* High CO  
+		* High CO\
 			* ↑ onset/offset of IV agents
 			* ↓ onset/offset of volatile agents
 		* No premedication
 		* Rapid onset of surgical stimulation following induction
 		* ↑ V~D~
-		* Airway difficulty  
+		* Airway difficulty\
 		↓ time to delivery of volatile.
 		* Often junior staff, after hours
 	* 20% risk of new psychological morbidity following an awareness event
 
 
-* Failed intubation  
+* Failed intubation\
 Higher risk in obstetric population.
 	* Occurs in ~1/300
 	* Major cause of death in obstetric population
@@ -129,7 +129,7 @@ Higher risk in obstetric population.
 			* ↓ FRC
 
 
-* Aspiration  
+* Aspiration\
 ↑ risk in obstetric population.
 	* Major cause of death in obstetric population
 	* Occurs in 0.15% of obstetric GAs with unsecured airways

@@ -22,10 +22,10 @@ Multiple:
 	* ↓ GCS
 	* Status epilepticus
 	* Neuroprotection
-	* Pain control  
+	* Pain control\
 	Humanitarian reasons.
 * E:
-	* Temperature control  
+	* Temperature control\
 	Paralysis to reduce shivering.
 	* Transport
 
@@ -41,7 +41,7 @@ Optimising laryngoscopy:
 * Use of intubation adjuncts
 	* Stylet
 	* Bougie
-	* Magill forceps  
+	* Magill forceps\
 	With nasal ETT.
 * Use of alternate laryngoscopes
 	* Adjust blade or handle
@@ -58,7 +58,7 @@ Awake Intubation:
 * Has a favourable safety profile
 	* Spontaneous ventilation maintained
 	* Airway protected until intubated
-* Unsuccessful in 1-2%  
+* Unsuccessful in 1-2%\
 Rarely leads to major complications.
 
 
@@ -76,7 +76,7 @@ Common indications for awake intubation:
 Preparation:
 
 * Operating theatre ideal
-* Oxygenation  
+* Oxygenation\
 Supplemental oxygen should:
 	* Always be applied
 	* High-flow used if available

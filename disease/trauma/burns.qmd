@@ -4,14 +4,14 @@
 
 >! Emergency Management
 >* Remove from heat source
->* Cool the burn  
+>* Cool the burn\
 >Burnt tissue under room temperature water for 20 minutes.
 
 ## Epidemiology and Risk Factors
 
 Burns are:
 
-* Common  
+* Common\
 ~1% of persons.
 	* ~10% require hospitalisation
 
@@ -20,7 +20,7 @@ Burns are:
 Jacksons Model:
 
 * Zone of coagulation
-* Zone of stasis  
+* Zone of stasis\
 Compromised but viable cells.
 	* Amenable to treatment
 	* Have impaired blood flow
@@ -35,7 +35,7 @@ Eschar:
 Electrical burns:
 
 * High resistance tissues produce excessive heat
-	* Bone generates substantial heat  
+	* Bone generates substantial heat\
 	Leads to muscular burns, leading to:
 		* Rhabdomyolysis
 			* Fasciotomy (in addition to escharotomy)
@@ -58,30 +58,30 @@ Physiological response:
 Assess:
 
 * Depth
-	* Superficial  
+	* Superficial\
 	Epidermal burn.
 		* Red and painful
 		* Healing within 1 week
 		* **Not included** in **BSA calculation**
-	* Superficial dermal  
+	* Superficial dermal\
 	Dermal burn.
 		* **Blistering**
 		* Capillary return present
 		* Healing is slower
 	* Deep dermal
-		* Dark red  
+		* Dark red\
 		Cooked haemoglobin locked in tissue.
 		* May not blister
 		* No capillary refill
 	* Full thickness
 		* White/waxy/charred
-		* Insensate  
+		* Insensate\
 		**No pain**.
 		* No blisters
-		* No capillary refill  
+		* No capillary refill\
 		No viable blood vessels.
 		* Act as a focus for infection.
-* Size  
+* Size\
 Remember to exclude superficial burns.
 	* Rule of 9's
 		* Patient palm is 1%
@@ -113,17 +113,17 @@ Key principles:
 
 Fluid management:
 
-* Modified Parkland formula  
+* Modified Parkland formula\
 Most commonly used protocol for burns resuscitation
 	* For burns >20% BSA (or 10% in children)
 	* 3ml/kg/% BSA burn to calculate first 24/24 fluid requirement
 		* Use lactated ringers or CSL
 		* Give half over the first **8 hours**
-		* **Titrate to urine output**  
+		* **Titrate to urine output**\
 		Aim >0.5ml/kg/hr.
 
 
-* Avoid fluid creep  
+* Avoid fluid creep\
 	* Excessive volume leads to multiorgan complications
 		* Airway occlusion
 		* Pulmonary oedema
@@ -138,34 +138,34 @@ Escharotomy:
 * Precise location for cut is not essential
 * Tissue will 'spring' out as pressure released
 * Important in:
-	* Limbs  
+	* Limbs\
 	Compartment syndrome.
-	* Chest  
+	* Chest\
 	Respiratory failure.
-	* Abdomen  
+	* Abdomen\
 	Abdominal compartment syndrome.
 
 
 Debridement:
 
 * Excision of dead tissue
-* Dressings  
+* Dressings\
 **Rapid transfer** to a burns centre, debridement, and dressings will significantly improve outcome.
 
 Grafting:
 
 * Location may be limited by availability of unburned skin
 * Own skin may be best
-* 'Meshing' skin graft allows graft to be applied to skin in a 4:1 ratio  
+* 'Meshing' skin graft allows graft to be applied to skin in a 4:1 ratio\
 Taking skin in a 'chicken-wire' fashion.
 	* Skin can be taken every ~2 weeks for harvesting
-* Cadaveric skin can be used  
+* Cadaveric skin can be used\
 Temporary coverage of burnt areas.
 * Artificial substances:
-	* Biobrane  
+	* Biobrane\
 	Silicone and porcine collagen.
 		* Temporary dressing for intermediate and deep dermal burns
-		* Early application beneficial  
+		* Early application beneficial\
 		Reduces tissue damage and systemic inflammatory response.
 	* Biodegradable Tissue Matrix
 
@@ -178,7 +178,7 @@ Optimisation and complication management:
 ### Anaesthetic Considerations
 
 * A
-	* **Airway security**  
+	* **Airway security**\
 	May be impossible to get access again.
 	* Facial burns
 		* Painful mask application
@@ -186,38 +186,38 @@ Optimisation and complication management:
 * B
 	* Inhalational injury
 * C
-	* Arterial line  
+	* Arterial line\
 	No NIBP on burnt skin.
 	* Fluid management
 	* IV access
 		* Ideally through unburnt skin
 * D
-	* Analgesia  
+	* Analgesia\
 	Substantial pain.
 		* Multimodal
 		* Early anti-neuropathics
 		* Single-shot regional ideal
 * E
-	* **Suxamethonium contraindicated**  
+	* **Suxamethonium contraindicated**\
 	From 48 hours to 2 years.
 	* **Temperature management**
-		* Warm theatre  
+		* Warm theatre\
 		28°C.
 		* Warming lines
-		* Warming CVCs  
+		* Warming CVCs\
 		Slow rate of cooling but often unsuccessful warming.
 		* Abandon procedure if unmanageable hypothermia (**⩽35°C**)
 	* Positioning difficult
 * G
-	* Hypermetabolic  
+	* Hypermetabolic\
 	Rapid consumption of neuromuscular blockers.
 * H
-	* Bleeding can be substantial  
-		* Prepare for **massive transfusion**  
+	* Bleeding can be substantial\
+		* Prepare for **massive transfusion**\
 		Hard to overtransfuse.
 			* Hb >100g/L prior to procedure ideal
 			* ABG every half hour to measure Hb
-		* **Tumescent preparation**  
+		* **Tumescent preparation**\
 		1:500,000 adrenaline infiltrated widely subcutaneously under sites prior to debridement results in substantial reduction in blood loss without adverse effect on graft success.
 		* Bleeding will continue post-operatively
 	* Coagulopathy

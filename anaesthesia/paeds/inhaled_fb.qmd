@@ -11,7 +11,7 @@
 
 The inhaled foreign body is common:
 
-* In young children  
+* In young children\
 Usually 1-3 year old.
 * Outside of specialist paediatric centres
 
@@ -29,11 +29,11 @@ Usually 1-3 year old.
 	* Surgeon available with rigid bronch prior to induction
 * Pathology
 	* Stability
-	* Location  
+	* Location\
 	Affected side usually has;
 		* ↓ AE
 		* Wheeze
-		* Hyperinflation with mediastinal shift on expiration on CXR  
+		* Hyperinflation with mediastinal shift on expiration on CXR\
 		Ball-valve effect.
 
 
@@ -41,23 +41,23 @@ Usually 1-3 year old.
 
 Consider:
 
-* Emergence  
+* Emergence\
 If not critically unwell, then waiting for fasting is appropriate.
-* Premedication  
-	* Sedation  
+* Premedication\
+	* Sedation\
 	Individualised decision; respiratory depression and aspiration are major disadvantages.
-	* Secretion control  
+	* Secretion control\
 	Glycopyrrolate 5μg/kg if required. Also mitigates against bradycardia with airway stimulation.
 * Second anaesthetist
 
 ## Induction
 
-> * Priority is to **maintain spontaneous ventilation**  
+> * Priority is to **maintain spontaneous ventilation**\
 > Concern that positive pressure ventilation may push the foreign body further into the airway. The risk of this is unknown, but maintaining spontaneous ventilation is preferable to avoid it.
 
 Both intravenous or inhalational techniques are acceptable. Considerations include:
 
-* Location of obstruction  
+* Location of obstruction\
 Gas induction prolonged in proximal/main bronchus obstruction secondary to shunt.
 * Presence of IV
 * Preference of anaesthetist/parent/child
@@ -65,7 +65,7 @@ Gas induction prolonged in proximal/main bronchus obstruction secondary to shunt
 
 ### Inhalational
 
-* Gas induction with 8% sevoflurane in oxygen or nitrous oxide  
+* Gas induction with 8% sevoflurane in oxygen or nitrous oxide\
 Dependent on pre-induction saturation.
 * Wean nitrous oxide to off when depth of anaesthesia allows
 * Place IV if not sited
@@ -74,13 +74,13 @@ Dependent on pre-induction saturation.
 ### Intravenous
 
 * 0.5μg/kg fentanyl
-* Incremental boluses of propofol until loss of consciousness  
+* Incremental boluses of propofol until loss of consciousness\
 Initially 1mg/kg, then 0.5mg/kg.
-* Commence maintenance, aiming to maintain spontaneous ventilation  
+* Commence maintenance, aiming to maintain spontaneous ventilation\
 Children under 3 tolerate higher doses of remifentanil and propofol than order children.
 	* Propofol 15mg/kg/hr
 	* Remifentanil 0.2μg/kg/min
-* Slowly titrate maintenance  
+* Slowly titrate maintenance\
 Aim for respiratory rate **half** of pre-induction rate.
 * When adequately deep, perform laryngoscopy and anaesthetise the cords (see below)
 
@@ -91,7 +91,7 @@ Aim for respiratory rate **half** of pre-induction rate.
 * Place IV if not sited
 * Commence TIVA:
 	* Propofol TCI at 1μg/ml
-	* Remifentanil at 0.2μg/kg/min  
+	* Remifentanil at 0.2μg/kg/min\
 	With bolus to cover dead space of line.
 * Halve sevoflurane (to 4%)
 * ↑ propofol TCI to 1.5μg/ml
@@ -105,38 +105,38 @@ Aim for respiratory rate **half** of pre-induction rate.
 
 Once induced, priorities are to:
 
-* **Anaesthetise cords**  
+* **Anaesthetise cords**\
 	* Initial dose of lignocaine 4mg/kg:
-		* 1/3^rd^ of volume above cords  
+		* 1/3^rd^ of volume above cords\
 		May precipitate coughing, indicating depth of anaesthesia is inadequate.
 		* 2/3^rds^ of volume below cords
 	* Regular maintenance of 2mg/kg lignocaine Q20-25 minutes
-	* Can bolus remifentanil 0.5μg/kg if ongoing airway reactivity  
+	* Can bolus remifentanil 0.5μg/kg if ongoing airway reactivity\
 * Maintain **oxygenation**
-	* Via rigid bronchoscopy  
+	* Via rigid bronchoscopy\
 	Attach circuit or T-piece to 22mm connector on the bronchoscope.
 		* Monitor bronchoscope screen to ensure not obstructed and that gas flow will be occurring
 	* Via high-flow humidified nasal oxygen
-* Maintain **spontaneous ventilation**  
-	* Keep a hand on the chest during rigid bronchoscopy to monitor respiratory rate  
+* Maintain **spontaneous ventilation**\
+	* Keep a hand on the chest during rigid bronchoscopy to monitor respiratory rate\
 	* Remember ETCO~2~ is unreliable or unavailable with either mechanism of oxygenation
 	* Positive pressure ventilation or assisted ventilation may be required if respiratory effort becomes inadequate
 * Maintain of **anaesthesia**
-	* Too light  
+	* Too light\
 	Breath holds, stridor.
-	* Too deep  
+	* Too deep\
 	Preceded by bradycardia, bradypnoea.
 	* Options
-		* TIVA  
+		* TIVA\
 		Usually remifentanil rate remains constant; adjust the propofol.
-		* Volatile via rigid bronchoscope  
+		* Volatile via rigid bronchoscope\
 
 
 Once safely underway:
 
-* Give 0.25mg/kg dexamethasone  
+* Give 0.25mg/kg dexamethasone\
 Prevent airway swelling.
-* *Consider* fentanyl up to 2μg/kg  
+* *Consider* fentanyl up to 2μg/kg\
 Give slowly to prevent apnoea.
 
 
@@ -146,9 +146,9 @@ Give slowly to prevent apnoea.
 
 Key stages:
 
-* Insertion of rigid bronchoscope  
+* Insertion of rigid bronchoscope\
 Highly stimulating.
-* Removal of foreign body  
+* Removal of foreign body\
 May precipitate soiling of good lung from contamination distal to obstruction. Higher risk with:
 	* Long-duration obstruction
 	* Organic substances

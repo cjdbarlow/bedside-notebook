@@ -1,103 +1,102 @@
 # Pregnancy and Labour
 
-
 Period of time during which a child develops inside a woman. Pregnancy is:
 
 * Normally 37-42 weeks
 * Divided into trimesters
-	* First trimester  
+	* First trimester\
 	0-12 weeks. The first trimester:
 		* Has the highest rate of misscarriage
-	* Second trimester  
+	* Second trimester\
 	13-28 weeks. The second trimester:
 		* Foetal movement begins
-	* Third trimester  
+	* Third trimester\
 	29-40 weeks.
 
-## Physiology of Pregnancy{#physiol}
+## Physiology of Pregnancy
 
 Physiological changes and their implications can be classified by system:
 
 * Respiratory
-	* MV  
+	* MV\
 	↑; ↑ uptake of volatile agents.
-	* FRC  
+	* FRC\
 	↓; ↓ safe apnoea time.
-	* RV  
+	* RV\
 	↓; ↑ atelectasis and shunt.
-	* VO~2~  
+	* VO~2~\
 	↑; ↓ safe apnoea time.
 * CVS
-	* Cardiac output  
+	* Cardiac output\
 	↑ up to 40%; ↓ physiological reserve.
-	* Heart rate  
+	* Heart rate\
 	↑ by 15-20 bpm; ↓ reserve and coronary perfusion time.
-	* SVR  
+	* SVR\
 	↓.
-	* BP  
+	* BP\
 	↓.
-	* Volume  
+	* Volume\
 	↑ circulating volume.
-	* Other  
+	* Other\
 	Aortocaval compression by uterus reduces CO in supine position; can be reduced by placing tilt under **right** hip.
-* Endocrine  
-	* Insulin  
+* Endocrine\
+	* Insulin\
 	↑ production and resistance; gestational diabetes.
-	* Thyroid hormones  
+	* Thyroid hormones\
 	↑; incidence of hyperthyroidism.
 * Renal
-	* Renal blood flow  
+	* Renal blood flow\
 	↑; natriuresis.
-	* Blader emptying  
+	* Blader emptying\
 	↓; ↑ UTI.
 * GIT
-	* Bowel  
+	* Bowel\
 	Displaced into upper abdomen; ↑ reflux risk.
-* Hepatic  
-	* Plasma cholinesterase  
+* Hepatic\
+	* Plasma cholinesterase\
 	↓; ↑ duration of suxamethonium.
-	* Albumin  
+	* Albumin\
 	↓; altered pharmacokinetics via change in protein binding, ↑ peripheral oedema.
-	* Biliary  
+	* Biliary\
 	↓ gallbladder contractility; biliary stasis.
 * Haematological
-	* Haemoglobin  
+	* Haemoglobin\
 	↓ due to dilution; may be confused with haemorrhage.
-	* White Cell Count  
+	* White Cell Count\
 	↑; may mimic infection.
-	* Coagulation factors  
+	* Coagulation factors\
 	↑; ↑ thrombosis risk.
 * Immunological
-	* Cell mediated immunity  
+	* Cell mediated immunity\
 	↓; ↑ viral infections.
 
 ### Physiology of Labour
 
 Labour is divided into **three stages**:
 
-* **First stage**  
+* **First stage**\
 Covers the process of cervical dilation (0-10cm).
 	* Involves:
 		* Cervical dilation
 		* Cervical effacement
 		* Desent of the presenting part
-	* **Normal** progress  
+	* **Normal** progress\
 	Based on rate of cervical dilation, should be **>1cm/hr**.
 		* 0.5cm/hr is 10^th^ centile, and is often accepted
-* **Second stage**  
+* **Second stage**\
 Covers full dilation to delivery.
 	* Involves:
 		* Flexion
 		* Descent
-		* Rotation of the presenting part  
+		* Rotation of the presenting part\
 		Head moulds, flexes, and rotates through the birth canal.
 			* Head should be delivered occiput-anterior (OA); i.e. **face-down**
 			* Head has to rotate through the pelvis as the pelvic inlet is widest in the transverse diameter, and the outlet in the A-P diameter
-	* Normal progress  
+	* Normal progress\
 	**Delivery** should occur:
 		* **Within 2 hours** of full dilation without epidural
 		* Within **3 hours with epidural**
-* **Third stage**  
+* **Third stage**\
 Delivery of the placenta.
 
 
@@ -106,46 +105,46 @@ Delivery of the placenta.
 
 Divided into:
 
-* [Drugs in pregnancy](#drugs)
+* Drugs in pregnancy
 	* Risks
 	* Risk categorisation of drugs
 	* Examples
-* [Labour](#labour)
+* Labour
 	* Induction of labour
 	* Premature labour
 	* Foetal distress
 
 
-### Drugs in Pregnancy{#drugs}
+### Drugs in Pregnancy
 
 Drugs in pregnancy are:
 
 * Used by 20-25% of women regularly
-* Often not validated for use or safety, including anaesthetic drugs  
+* Often not validated for use or safety, including anaesthetic drugs\
 Drug trials are difficult to perform in pregnant women.
 
 Drug interactions in pregnancy can be classified into:
 
-* Pharmcokinetic
+* Pharmacokinetic
 	* Absorption
 		* PO absorption affected by nausea and vomiting
 	* Distribution
-		* ↑ V~D~ of water soluble drugs  
+		* ↑ V~D~ of water soluble drugs\
 		Due to ↑ blood and body fluid volume.
-		* ↑ free portion of acidic drugs  
+		* ↑ free portion of acidic drugs\
 		Due to ↓ albumin.
 	* Elimination
-		* ↑ renal clearance  
+		* ↑ renal clearance\
 		Due to high GFR.
-* Pharmacodynamic  
+* Pharmacodynamic\
 Most unchanged, except for:
-	* Volatiles  
+	* Volatiles\
 	↓ MAC.
-	* Local anaesthetics  
+	* Local anaesthetics\
 	↓ neuraxial LA requirement.
 
 * Foetal transfer via placenta
-	* Almost all drugs cross the placenta to a certain degree  
+	* Almost all drugs cross the placenta to a certain degree\
 	* Major determinants are concentration gradient, molecular weight, lipid solubility, degree of ionisation, protein binding, uteroplacental blood flow.
 * Foetal transfer via breast milk
 
@@ -154,13 +153,13 @@ Most unchanged, except for:
 
 Extent of effect depends on timing of consumption:
 
-* 0-2 weeks  
+* 0-2 weeks\
 Generally all or nothing effect:
 	* Brief slowing of gestation with no overt ill effect
-	* Spontaneous abortion  
-* 3-8 weeks  
+	* Spontaneous abortion\
+* 3-8 weeks\
 Period of organogenesis and potential for major abnormalities.
-* Over 8 weeks  
+* Over 8 weeks\
 Foetal period, effects include:
 	* Physiological abnormalities
 	* Minor morphological abnormalities
@@ -169,21 +168,21 @@ Foetal period, effects include:
 
 The Australian risk categorisation divides drugs into:
 
-* Category A  
+* Category A\
 Taken by a **large number** of pregnant women **without any observed ↑ in malformations** or other harmful effects.
-* Category B  
+* Category B\
 Drugs which have been taken by a **limited number** of pregnant women, **without any ↑ in the frequency of malformations** or other harmful effects. Divided into three **subgroups based on animal data**:
-	* B1  
+	* B1\
 	No observed foetal malformations in animals.
-	* B2  
+	* B2\
 	No observed foetal malformations in animals, but studies were inadequate/data was lacking.
-	* B3  
+	* B3\
 	↑ foetal abnormalities in animals, of uncertain human significance.
-* Category C  
+* Category C\
 Caused/suspected to have **caused *potentially reversible* harmful foetal effects**.
-* Category D  
+* Category D\
 Caused/suspected to have **caused ↑ foetal malformations** or **permanent** damage.
-* Category X  
+* Category X\
 Such **high risk of causing foetal damage** that they should **not be used in pregnancy or** where there is a **possiblity of pregnancy**.
 
 #### Specific Drugs in Pregnancy
@@ -208,39 +207,39 @@ Such **high risk of causing foetal damage** that they should **not be used in pr
 Management of abnormal labour depends on stage:
 
 * Abnormal S1
-	* Trial of oxytocin  
+	* Trial of oxytocin\
 	↑ rate of dilation.
-	* LUSCS  
+	* LUSCS\
 	If concerns about:
 		* Uterine rupture
 		* Obstruction
 		* Power of contraction
 		* Foetus
 * Abnormal S2
-	* Trial of oxytocin  
+	* Trial of oxytocin\
 	↑ uterine contractility.
-	* Operative vaginal delivery  
+	* Operative vaginal delivery\
 	Forceps, vacuum. Indications can be divided into:
-		* Maternal  
+		* Maternal\
 			* Exhaustion
 			* Contraindication to pushing
 				* HTN
 				* Cerebral aneurysm
 		* Foetal
-			* Distress  
+			* Distress\
 			CTG, scalp pH, prolapse.
-		* Failure to progress  
+		* Failure to progress\
 		Arrested descent. May be due to:
-			* Mento-anterior (MA)  
+			* Mento-anterior (MA)\
 			Failure to descend.
-			* Occiput Posterior (OP)  
+			* Occiput Posterior (OP)\
 			Failure to rotate.
-			* Other  
+			* Other\
 			Usually requires LUSCS.
 	* LUSCS
-* S3  
+* S3\
 Active management of S3 significantly reduces PPH and maternal mortality. Active management involves:
-	* Prophylactic oxytocin  
+	* Prophylactic oxytocin\
 	Upon delivery of the anterior shoulder.
 	* Early cord clamping
 	* Controlled cord traction
@@ -254,7 +253,7 @@ Artificial techniques to initiate the process of labour. Induction is performed:
 	* Pregnancy reasons
 		* PD
 		* Twin pregnancy > 38 weeks
-		* PROM  
+		* PROM\
 		See [premature rupture of membranes](/anaesthesia/obs/terms.md)
 		* FDIU
 	* Maternal disease
@@ -265,9 +264,9 @@ Artificial techniques to initiate the process of labour. Induction is performed:
 * By:
 	* Pharmaceutical means:
 		* Intravaginal or endocervical prostaglandin
-		* Intravenous oxytocin  
+		* Intravenous oxytocin\
 	* Non-pharmaceutical means:
-		* Membrane sweep  
+		* Membrane sweep\
 		Digital stimulation of the cervix to release endogenous prostaglandins.
 		* AROM
 		* Cervical ripening balloon
@@ -278,11 +277,11 @@ Artificial techniques to initiate the process of labour. Induction is performed:
 Premature:
 
 * Labor occurs prior to 37 weeks gestation
-* Birth occurs in ~10% of deliveries  
+* Birth occurs in ~10% of deliveries\
 Associated with 85% of all perinatal morbidity and mortality, due to:
 	* Respiratory distress syndrome
 	* Intracranial haemorrhage
-	* Ischaemic cerebral damage  
+	* Ischaemic cerebral damage\
 	Intrapartum:
 		* Hypoxia
 		* Asphyxia
@@ -307,7 +306,7 @@ Management of Premature Labour:
 		* Administer **within 4 hours of birth**:
 			* 4g over 20 minutes
 			* 1g/hr thereafter
-* **Tocolytics** are used to stop premature contractions  
+* **Tocolytics** are used to stop premature contractions\
 Agents include:
 	* Magnesium sulfate
 	* Calcium channel blockers
@@ -329,7 +328,7 @@ Agents include:
 * Avoid aortocaval compression
 * Supplemental oxygen
 * Treat hypotension
-* Cease oxytocin  
+* Cease oxytocin\
 Generally decision of obstetric team.
 * Consider tocolytics
 	* Terbutaline 250μg IV/SC

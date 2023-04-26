@@ -18,7 +18,7 @@ Mitral valvular surgery is performed for:
 
 The valve can be either:
 
-* Repaired  
+* Repaired\
 Typically for:
 	* Posterior leaflet abnormalities
 	* Annula dilation
@@ -36,11 +36,11 @@ Typically for:
 	* OLV required for minimally invasive approach 
 	Need either DLT or bronchial blocker.
 * B
-	* Pulmonary oedema  
+	* Pulmonary oedema\
 	May have secondary effusions.
 * C
 	* Atrial fibrillation
-		* Often coexistent due to atrial dilation  
+		* Often coexistent due to atrial dilation\
 		May be anticoagulated.
 		* AF may result in precipitous decline in both MS and MR
 	* Severity of valvular disease
@@ -48,7 +48,7 @@ Typically for:
 		* PHTN
 		* Cardiac remodelling
 	* Presence of coronary disease
-	* Pulmonary artery hypertension  
+	* Pulmonary artery hypertension\
 	May be associated with both MR and MS.
 	* Defend perfusion pressure
 		* MS leads to a relatively fixed CO and elevated SVR; therefore CBF will fall and not be compensated with a fall in perfusion pressure

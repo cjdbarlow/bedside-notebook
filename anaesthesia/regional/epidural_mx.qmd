@@ -6,7 +6,7 @@
 
 Maintenance of analgesia can be performed via:
 
-* Intermittent boluses alone  
+* Intermittent boluses alone\
 Essentially a historical relic.
 * Continuous infusion with intermittent boluses
 * Patient Controlled Epidural Analgesia (PCEA)
@@ -29,7 +29,7 @@ In general, maximal anaesthetic doses should be:
 * Generally run at 6-10ml/hr
 * May have 5ml boluses Q20min
 * Adjuvants include:
-    * Opioid  
+    * Opioid\
     Classically fentanyl.
     * Adrenaline
 
@@ -44,7 +44,7 @@ In general, maximal anaesthetic doses should be:
 
 Removal of an epidural can occur when:
 
-* Coagulation status is normal  
+* Coagulation status is normal\
 Covered under [coagulopathy](/anaesthesia/regional/principles/principles-neuraxial.md#coag).
 * No longer therapeutically indicated
 * Risk of infection is too high to justify ongoing use
@@ -56,7 +56,7 @@ Removing the catheter:
 * Remove dressing
 * Apply gentle pressure to remove the catheter
 * Tip of catheter should be visible
-* If **catheter does not come out easily**  
+* If **catheter does not come out easily**\
 Place the patient in the same position they were in for insertion, and pull gently.
 
 
@@ -79,19 +79,19 @@ Symptoms include:
 * Nasal stuffiness
 * Difficulty breathing
 * Lightheadedness
-* Horner's Syndrome  
+* Horner's Syndrome\
     * May occur following blockade of sympathetic ganglion of T1-4
-    * Occur commonly with epidural top-up for LUSCS  
+    * Occur commonly with epidural top-up for LUSCS\
     Of itself, not of clinical significance.
 
 
 Treatment is based upon symptoms:
 
-* Hypotension  
+* Hypotension\
 Vasopressor, such as metaraminol.
-* Bradycardia  
+* Bradycardia\
 Atropine.
-* Hypoxia  
+* Hypoxia\
 Supplemental oxygen, respiratory support. 
 
 
@@ -115,10 +115,10 @@ Management process:
 * Exclude surgical cause of pain
 * Check pump on and working correctly
 * Check catheter is connected
-* Check catheter location  
+* Check catheter location\
 Catheter may migrate out of the epidural space.
     * Check anticoagulation status prior to manipulation
-* Check BP  
+* Check BP\
 Hypotension and uncorrected hypovolaemia are relative contraindications to epidural bolus.
 * Assess block
     * Patchy
@@ -128,16 +128,16 @@ Hypotension and uncorrected hypovolaemia are relative contraindications to epidu
 
 #### Patchy Block
 
-* Immediately patchy blocks may be misplaced; **consider replacing**  
+* Immediately patchy blocks may be misplaced; **consider replacing**\
 e.g. subdural, paravertebral, threaded over nerve root.
-* Bolus with a moderately concentrated solution  
+* Bolus with a moderately concentrated solution\
 e.g. 0.125-0.25% bupivacaine.
 
 #### Asymmetric/Unilateral Block
 
 Generally indicates catheter is too far within the space:
 
-* Withdraw catheter by 1cm and bolus  
+* Withdraw catheter by 1cm and bolus\
 Place in lateral position (un-blocked side down) to improve onset of block
 * Catheter can be pulled back up to 3cm within the space
 
@@ -148,10 +148,10 @@ A rescue bolus of LA can be delivered to re-establish a failing epidural.
 * Ensure adequate monitoring
 * Ensure working IV access
 * Ensure vasopressor is readily available
-* Give a rescue bolus  
+* Give a rescue bolus\
 The end point is either analgesia or side effects.
     * Appropriate agents include:
-        * 0.25% bupivacaine  
+        * 0.25% bupivacaine\
         6-10ml is appropriate for most adult patients, though more will sometimes be required.
         * Ropivacaine 0.35%
         * Ropivacaine 0.2%
@@ -167,12 +167,12 @@ The end point is either analgesia or side effects.
 
 Perineal analgesia is important at time of delivery. Block can be augmented with:
 
-* LA bolus  
+* LA bolus\
     * 6-8ml of 0.125% bupivacaine
     * 3-4ml of 0.25% bupivacaine
-* Fentanyl  
+* Fentanyl\
 50-100μg augments analgesia without providing motor block.
-* Position in semi-Fowler's  
+* Position in semi-Fowler's\
 Enhances perineal analgesia from epidural.
 
 
@@ -196,19 +196,19 @@ Can be divided into:
 Anaethetic-related neurology includes:
 
 * Prolonged neural blockade
-    * May last 10-48 hours  
+    * May last 10-48 hours\
     * Ultimately resolves
-* Bladder dysfunction  
+* Bladder dysfunction\
 Associated with:
-    * Urinary retention due to epidural anaesthesia  
+    * Urinary retention due to epidural anaesthesia\
     Can be avoided with IDC.
 * Direct trauma/neuritis
     * May occur from intraneural injection of LA
     * Leads to paraesthesia/sensory/motor loss in a specific dermatomal distribution.
 * **Epidural haematoma**
-    * Rare  
+    * Rare\
     ↑ risk with coagulopathy.
-* **Epidural abscess/meningitis**  
+* **Epidural abscess/meningitis**\
 Key features:
     * Severe back pain
     * Local tenderness

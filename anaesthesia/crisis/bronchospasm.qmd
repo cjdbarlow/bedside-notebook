@@ -13,14 +13,14 @@ Immediately:
 
 * Cease surgical stimulation
 * Provide 100% oxygen
-* **Manually ventilate**  
+* **Manually ventilate**\
 Assess lung resistance and compliance.
-* Rapidly deepen anaesthesia  
+* Rapidly deepen anaesthesia\
 	* Change from desflurane if able
 * Consider:
-	* <span style="color:red">**Is this anaphylaxis**?</span>  
+	* <span style="color:red">**Is this anaphylaxis**?</span>\
 	Cause of ~20% of bronchospasm.
-	* If intubated:  
+	* If intubated:\
 	Exclude endobronchial or oesophageal intubation.
 	* If not intubated:
 		* Exclude laryngospasm or airway obstruction
@@ -28,30 +28,30 @@ Assess lung resistance and compliance.
 
 
 * **Bronchodilate**
-	* Inhaled therapies  
+	* Inhaled therapies\
 	Typically adequate in mild bronchospasm.
-		* Salbutamol  
+		* Salbutamol\
 		12 puffs MDI via circuit.
-		* Ipratropium Bromide  
+		* Ipratropium Bromide\
 		6 puffs MDI via circuit.
-	* IV therapies  
+	* IV therapies\
 	Required in severe bronchospasm.
-		* Salbutamol  
+		* Salbutamol\
 		5ug/kg up to 250ug slow push, with a 100ug/kg/**hr** infusion.
 		* Adrenaline
 		0.1-1ug/kg bolus, with a 0.1ug/kg/min infusion.
 * **Optimise ventilation**
 	* I:E ratio of at least 1:6
-	* Low RR  
+	* Low RR\
 	Target complete expiration on expiratory flow waveform, accepting hypercapnoea.
 	* Consider ventilator disconnection if concern for stacked breaths
 * Consider additional drugs
-	* Hydrocortisone  
+	* Hydrocortisone\
 	1-2mg/kg IV.
-	* Ketamine  
+	* Ketamine\
 	0.5-1mg/kg IV.
 	* Magnesium
-	* Aminophyline  
+	* Aminophyline\
 	5-7mg/kg over 15 minutes, then 0.5mg/kg/hr thereafter.
 
 
@@ -59,7 +59,7 @@ Assess lung resistance and compliance.
 
 Epidemiology:
 
-* Majority of bronchospasm occurs during induction or maintenance  
+* Majority of bronchospasm occurs during induction or maintenance\
 Bronchospasm due to anaphylaxis predominantly occurs during maintenance.
 
 Risk factors:
@@ -77,21 +77,21 @@ Risk factors:
 Typically presents as a triad of:
 
 * Expiratory wheeze
-* Prolonged expiration time  
+* Prolonged expiration time\
 "Obstructed" capnographic waveform.
-* High Pip  
+* High Pip\
 First sign in 30% of cases.
 
 
 Clinical features:
 
-* Desaturation/cyanosis  
+* Desaturation/cyanosis\
 First sign in 20% of cases.
 * Hypercapnoea
 * Poor lung compliance
 	* Fall in tidal volumes
 	* Difficulty hand ventilating
-* Wheeze  
+* Wheeze\
 May not be present in severe spasm when gas flow is impaired, but is the first sign in 30% of cases.
 
 
@@ -108,7 +108,7 @@ Key differential diagnoses:
 
 * **Anaphylaxis**
 * Laryngospasm
-* Endobronchial intubation  
+* Endobronchial intubation\
 Also causes high airway pressures/reduced volumes and reduced SpO2~.
 * Poor chest wall compliance
 	* Eschar

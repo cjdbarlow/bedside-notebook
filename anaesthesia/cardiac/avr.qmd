@@ -6,11 +6,11 @@
 >Position: Supine/crucifix <br>
 >Time: 3-4 hours  <br>
 >Blood loss: G+H required. Cross-match if **re-do surgery**, anaemic, small, sick, or emergency. <br>
->Special: CPB - higher risk for anaesthetic awareness  
+>Special: CPB - higher risk for anaesthetic awareness\
 
 Intervention on the aortic valve is performed for:
 
-* Stenosis  
+* Stenosis\
 Not amenable to repair.
 * Regurgitation
 * Stenosis/Regurgitation
@@ -18,7 +18,7 @@ Not amenable to repair.
 
 Surgical techniques include:
 
-* Replacement  
+* Replacement\
 Typical, and may be performed with:
 	* Bioprosthetic valves
 		* Porcine or bovine
@@ -27,29 +27,29 @@ Typical, and may be performed with:
 	* Mechanical valves
 		* Require anticoagulation
 		* Last longer than bioprosthetic valves
-	* Homografts  
+	* Homografts\
 	Rarely available.
-* Repair  
+* Repair\
 Appropriate for isolated regurgitation, with or without associated aneurysm. Technique will depend on:
-	* Cause of regurgitation  
+	* Cause of regurgitation\
 	Defect of the the:
-		* STJ  
+		* STJ\
 		Supracoronary replacement of ascending aorta with prosthesis.
-		* Annulus  
+		* Annulus\
 		Multiple techniques:
-			* Annuloplasty ring  
+			* Annuloplasty ring\
 			May be:
 				* Extraaortic
 				* Intraaortic
-			* Plegeted sutures  
+			* Plegeted sutures\
 			Rarely permits complete stability of annulus.
-		* Leaflets  
+		* Leaflets\
 		Amenability to repair depends on valve morphology; particularly the ability to achieve an effective relationship between the:
-			* Effective height  
+			* Effective height\
 			Height from annulus to leaflet tip.
-			* Geometric height  
+			* Geometric height\
 			Length of the valve leaflet.
-			* Coaptation height  
+			* Coaptation height\
 			Height of leaflet contact during diastole.
 
 
@@ -60,7 +60,7 @@ Appropriate for isolated regurgitation, with or without associated aneurysm. Tec
 * B
 	* Left heart failure
 * C
-	* LVH  
+	* LVH\
 		* Often occurs secondary to AS
 		* ↑ importance of good myocardial protection on CPB
 
@@ -86,7 +86,7 @@ Appropriate for isolated regurgitation, with or without associated aneurysm. Tec
 * LV drained via PA
 * Cardioplegia administered
 * Aorta opened and existing valve excised and annulus debrided
-* Annulus measured and valvular prostehesis sutured in place  
+* Annulus measured and valvular prostehesis sutured in place\
 Rewarming during final stages of valvular implantation.
 * Filing of the LV during aortic closure
 * Left heart de-aired in the **head down** position

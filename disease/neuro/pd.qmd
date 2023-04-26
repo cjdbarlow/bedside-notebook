@@ -15,11 +15,11 @@ Progressive chronic central neurological disorder that occurs due to degeneratio
 
 Prevalence:
 
-* Highly prevalent once over 50  
+* Highly prevalent once over 50\
 Lifetime risk:
 	* Men: 2%
 	* Women: 1.3%
-* Second-most common neurodegenerative condition  
+* Second-most common neurodegenerative condition\
 Following Alzheimer disease.
 
 
@@ -27,7 +27,7 @@ Following Alzheimer disease.
 
 Histologically characterised by:
 
-* Loss of dopaminergic neurons in the nigrostriatal system  
+* Loss of dopaminergic neurons in the nigrostriatal system\
 60-80% loss required for motor symptoms to be present.
 * Lewy bodies in brainstem
 
@@ -36,7 +36,7 @@ Histologically characterised by:
 
 Multifactorial:
 
-* Genetic   
+* Genetic \
 5-10%.
 * Environmental
 	* Pesticides
@@ -50,21 +50,21 @@ Multifactorial:
 
 **Four** cardinal symptoms:
 
-* Tremor  
+* Tremor\
 Rhythmic oscillation around a fixed point in the rest position.
 	* Often first symptom
 	* Usually a resting tremor
 	* Characteristics include:
-		* Asymmetrical  
+		* Asymmetrical\
 		Bilateral once deterioration occurs.
 		* Supination/pronation
 		* "Pill-rolling"
 * Rigidity
-* Bradykinesia  
+* Bradykinesia\
 Slowness of movement. May be:
 	* Initiation
 	* Continuation
-* Postural instability  
+* Postural instability\
 Balance dysfunction.
 	* Major cause of falls, and subsequent injury and loss of independence
 
@@ -73,11 +73,11 @@ Balance dysfunction.
 
 Secondary motor symptoms:
 
-* Dyskinesia  
+* Dyskinesia\
 Involuntary, prolonged muscle contractions with abnormal posturing.
-	* Usually occurs when dopamine levels are low  
+	* Usually occurs when dopamine levels are low\
 	SUch as early morning.
-* Motor fluctuations  
+* Motor fluctuations\
 Times of poor response to levodopa, and associated with advancing disease.
 * Reduced arm swing
 * ↓ blink rate
@@ -127,10 +127,10 @@ Remains a clinical diagnosis.
 
 ### Medical
 
-* Levodopa  
+* Levodopa\
 Dopamine precursor.
 	* Gold standard
-	* Administered with a dopa-decarboxylase inhibitor (e.g. carbidopa) to reduce peripheral breakdown and nausea  
+	* Administered with a dopa-decarboxylase inhibitor (e.g. carbidopa) to reduce peripheral breakdown and nausea\
 	Variable preparations:
 		* Immediate release
 		* Extended release
@@ -139,9 +139,9 @@ Dopamine precursor.
 	* Effective for rigidity and akinesia
 	* Variable effects on tremor
 	* Treatment does not worsen disease progression but high daily doses and long duration of *disease* is associated with motor fluctuations and dyskinesias
-	* Benefit ↓ as disease worsens  
+	* Benefit ↓ as disease worsens\
 	Reduced storage and release of dopamine limits utility of levodopa therapy.
-* Dopamine agonists  
+* Dopamine agonists\
 Directly agonise receptors, bypassing degenerating dopaminergic neurones.
 	* Used as monotherapy or adjuncts
 	* Longer half-life
@@ -150,21 +150,21 @@ Directly agonise receptors, bypassing degenerating dopaminergic neurones.
 		* Pramipexole
 		* Ropinirole
 		* Rotigotine
-		* Apomorphine  
+		* Apomorphine\
 		Rescue medication given subcutaneously.
-* COMT inhibitors  
+* COMT inhibitors\
 Reduce levodopa breakdown.
 	* Used in conjunction with levodopa
 	* May ↑ dyskinesia
 	* Include:
 		* Entacapone
 		* Tolcapone
-* MAO-B inhibitors  
+* MAO-B inhibitors\
 Reduce levodopa breakdown.
 	* Include:
-		* Selegiline  
+		* Selegiline\
 		Selective, irreversible; used as an adjunct.
-		* Rasagiline  
+		* Rasagiline\
 		Monotherapy or adjunct.
 
 ### Surgical
@@ -182,8 +182,8 @@ Deep Brain Stimulation:
 		* Cervical spine rigidity
 		* TMJ dysfunction
 	* Aspiration
-		* **Bulbar dysfunction**  
-		* Oesophageal dysfunction  
+		* **Bulbar dysfunction**\
+		* Oesophageal dysfunction\
 		Bradykinesia and pharyngeal rigidity ↑ aspiration risl.
 		* Gastroparesis
 		* Sialorrhoea
@@ -193,32 +193,32 @@ Deep Brain Stimulation:
 * C
 	* **Autonomic instability**
 * D
-	* Parkinsonian medications  
+	* Parkinsonian medications\
 	Medication management is critical.
 		* Continue anti-Parkinson's drugs perioperatively
-			* Give up to the time of surgery  
+			* Give up to the time of surgery\
 			Except prior to deep brain stimulator placement.
 			* Restart as soon as possible after surgery
 		* Avoid dopamine antagonists
 			* Metoclopramide
-			* Typical antipsychotics  
+			* Typical antipsychotics\
 			Droperidol, haloperidol.
-			* Phenothiazines  
+			* Phenothiazines\
 			Chlorpromazine.
-		* **MAO-I** use  
+		* **MAO-I** use\
 		Selegiline.
-	* **Deep brain stimulators**  
+	* **Deep brain stimulators**\
 	Consist of electrodes implanted into brain parenchyma, a pulse generator located (usually) below the clavicle, and a wire connecting them.
-		* Preoperatively  
+		* Preoperatively\
 		Assess:
 			* Model, location, last check, battery life
 			* Severity of symptoms when disabled
-			* How to use the patient programmer  
+			* How to use the patient programmer\
 			Particularly how to turn it on and off.
 			* Discuss with patients neurologist about any post-operative checks required
 			* Path of wires and location of device to avoid iatrogenic injury
 		* Intraoperatively
-			* Turn device off to minimise EMI  
+			* Turn device off to minimise EMI\
 			Can turn off after induction if severe symptoms.
 			* Regional anaesthesia may require ↑ sedation to control symptoms whilst off
 			* Turn device on prior to emergence
@@ -226,7 +226,7 @@ Deep Brain Stimulation:
 		* Post-operatively
 			* Neurological examination to rule out adverse events
 			* Device check by product representative or neurologist
-	* Opioids  
+	* Opioids\
 		* Muscle rigidity
 		* Dystonic reactions
 	* **Dementia**
@@ -248,7 +248,7 @@ Parkinson Hyperpyrexia Syndrome:
 * Clinical features include:
 	* Initial tremor, rigidity, and leads to immobility
 	* Later (24-72 hours) development of pyrexia and obtundation
-	* Autonomic dysfunction  
+	* Autonomic dysfunction\
 	Tachycardia, labile BP, fever.
 * Treatment recommendations include:
 	* Replace antiparkinsonian medications
@@ -270,11 +270,11 @@ Parkinson Hyperpyrexia Syndrome:
 
 Progression subdivided into three stages:
 
-* Preclinical phase  
+* Preclinical phase\
 Asymptomatic neurodegeneration.
-* Prodromal phase  
+* Prodromal phase\
 Symptoms present but insufficient for diagnosis.
-* Clinical phase  
+* Clinical phase\
 Symptoms manifest and recognisable.
 
 ## Key Studies

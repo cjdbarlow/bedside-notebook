@@ -16,13 +16,13 @@
 
 Endovascular clot retrieval is the standard of care for stroke caused by **large vessel occlusions** in the **anterior circulation**. Clot retrieval is:
 
-* Time-critical  
+* Time-critical\
 Better outcomes seen earlier, with some **benefit** seen **up to 6 hours**; though this may be extended up to 24 hours in patients with favourable imaging.
 * Preferable to thrombolysis when:
-	* Occlusions are of large vessels  
+	* Occlusions are of large vessels\
 	ICA, M1, M2, basilar.
 	* Early presentation
-	* Significant new disability  
+	* Significant new disability\
 	NIHSS >5.
 	* Previously independent
 * Associated with improvement in functional outcome by 20-35% at 90 days
@@ -31,14 +31,14 @@ Better outcomes seen earlier, with some **benefit** seen **up to 6 hours**; thou
 ## Surgical Stages
 
 * Femoral access
-* Navigation to clot  
+* Navigation to clot\
 Via microcatheter and guidewire.
-* Removal of clot  
+* Removal of clot\
 Removal device placed via guidewire. Options include:
 	* Stents
 	* Stent retriever
 	* Aspiration device
-	* Clot retrieval  
+	* Clot retrieval\
 	Placed distal to clot; balloon is withdrawn and clot removed.
 
 ## Preoperative

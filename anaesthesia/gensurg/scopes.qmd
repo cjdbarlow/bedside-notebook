@@ -18,7 +18,7 @@ Endoscopy:
 
 ## Considerations
 
-* Indication for procedure  
+* Indication for procedure\
 Conditions with risk of:
 	* Airway difficulty
 	* Reduced safe apnoea time
@@ -27,7 +27,7 @@ Conditions with risk of:
 		* Gastric outlet obstruction
 		* Achalasia
 		* Upper GI bleeding
-		* Oesophageal stricture  
+		* Oesophageal stricture\
 		Especially if being dilated.
 		* Bowel obstruction
 		* Pharyngeal pouch
@@ -35,24 +35,24 @@ Conditions with risk of:
 
 * A
 	* Aspiration is always a risk with an unprotected airway
-	* Predicted difficulty with airway management  
-		* Position  
+	* Predicted difficulty with airway management\
+		* Position\
 		Positioning prone or in swimmers position (for ERCP) may necessitate intubation.
 		* Known or expected difficult airway
 		* Sleep apnoea
 * B
-	* Hypoxia is the main complication of endoscopy sedation  
-	* Preoxygenation is vital to prolong safe apnoea time  
+	* Hypoxia is the main complication of endoscopy sedation\
+	* Preoxygenation is vital to prolong safe apnoea time\
 	Especially in shared airway (gastroscopy, ERCP).
 * C
 	* CVS instability may occur at deeper levels of sedation
 * D
-	* Ease of performing procedural sedation  
+	* Ease of performing procedural sedation\
 	Factors predicting poor response include:
 		* Prior difficulty
 		* Current benzodiazepine or opioid use
 		* Heavy alcohol use
-	* Depth of sedation  
+	* Depth of sedation\
 	Corresponds with risk of perforation.
 * E
 	* Remote location of endoscopy suite relative to other parts of the hospital
@@ -62,19 +62,19 @@ Conditions with risk of:
 
 * Standard ANZCA monitoring
 * Readily accessible IV access
-* End-tidal CO~2~ monitoring  
+* End-tidal CO~2~ monitoring\
 Provides early warning of loss of airway patency prior to desaturation.
-* Supplemental oxygen  
+* Supplemental oxygen\
 	* Bite block with integrated O~2~
 	* Hudson mask
 	* High-flow oxgygen
 * Airway adjuncts
-	* NPA are useful  
+	* NPA are useful\
 	Oxygen can also be run through a suction catheter to provide oxygen to the nasopharynx.
 
 ## Induction - Sedation Free
 
-* Topical local anaesthetic  
+* Topical local anaesthetic\
 Lignocaine/benzocaine spray to oropharynx.
 	* Reduces patient discomfort
 	* Improves ease of procedure
@@ -84,18 +84,18 @@ Lignocaine/benzocaine spray to oropharynx.
 
 Many strategies exist:
 
-* Topical local anaesthetic  
+* Topical local anaesthetic\
 Reduces anaesthesia requirement.
 
 
 * Propofol alone
-	* Typically 1-1.5mg/kg IV followed by 10-20mg boluses as required  
+	* Typically 1-1.5mg/kg IV followed by 10-20mg boluses as required\
 	Actual patient requirements may be highly variable.
 		* ~1.3mg/kg for gastroscopy and ASA 1 colonoscopy
 		* ~0.7mg/kg for ASA 4 colonoscopy
-	* May also be run via propofol TCI  
+	* May also be run via propofol TCI\
 	Typically target Ce of 3ug/ml.
-	* May also be run as a rate-controlled infusion  
+	* May also be run as a rate-controlled infusion\
 	Bolus and the infuse at ~1mg/kg/hr.
 		* Works best once steady-state is already established
 * Propofol and fentanyl
@@ -128,7 +128,7 @@ Colonoscopy:
 
 Gastroscopy:
 
-* Insertion is stimulating  
+* Insertion is stimulating\
 Should correspond with peak concentration of propofol
 * Remainder of procedure is generally unstimulating
 

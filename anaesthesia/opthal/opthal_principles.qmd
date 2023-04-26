@@ -4,15 +4,15 @@
 
 ## Intra-Ocular Pressure
 
-**Control of intraocular pressure** of IOP is important in many complex eye operations.  
+**Control of intraocular pressure** of IOP is important in many complex eye operations.\
 * Blood volume
-	* Avoid hypertension  
+	* Avoid hypertension\
 	Choroidal vessels cannot autoregulate and will dilate.
 	* Vasodilation
 		* Hypoxaemia
 		* Hypercarbia
 		* ↑ metabolic rate
-	* Low **venous pressure**  
+	* Low **venous pressure**\
 	Greatest determinant.	
 		* Slight head up facilitates venous drainage
 		* Minimise coughing with extubation

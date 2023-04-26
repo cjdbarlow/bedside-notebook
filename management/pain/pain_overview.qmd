@@ -3,11 +3,11 @@
 
 Pain is an unpleasant sensory and emotional experience associated with actual or potential tissue damage, or described in terms of such damage. Pain is:
 
-* Distinct from nociception  
+* Distinct from nociception\
 Process of nervous system transmission of a noxious stimuli.
 * Divided into:
 	* Acute pain
-	* Chronic pain  
+	* Chronic pain\
 	Pain lasting beyond the time expected for healing following an injury, occurring due to changes in both peripheral and central nervous systems, as well as psychologically.
 
 
@@ -17,11 +17,11 @@ Process of nervous system transmission of a noxious stimuli.
 Pain management is important as pain:
 
 * Causes suffering
-* Limits rehabilitation  
+* Limits rehabilitation\
 Adequate analgesia facilitates **restoration** of **normal function**.
 * Leads to secondary complications
 	* Catecholamine release
-		* ↑ MVO~2~  
+		* ↑ MVO~2~\
 		Ischaemia.
 		* Fatigue
 	* Stasis
@@ -62,11 +62,11 @@ Key components of a pain history include:
 * Site
 	* Location
 	* Radiation
-* Circumstances  
+* Circumstances\
 Associated trauma, procedures.
-* Character  
+* Character\
 Key descriptors.
-* Intensity  
+* Intensity\
 Including:
 	* At rest
 	* With movement
@@ -101,9 +101,9 @@ Including:
 ## Mechanism Based Approach
 
 >* Key terms:
->	* Preventative analgesia  
+>	* Preventative analgesia\
 >	Analgesic effect lasts longer than expected duration of drug effet.
->	* Preemptive analgesia  
+>	* Preemptive analgesia\
 >	Analgesia provided prior to nociceptive stimulus.
 >* Aim to target:
 >	* Somatic pain
@@ -128,7 +128,7 @@ Covering:
 ### Paracetamol{#pmol}
 
 * Paracetamol given pre- and intraoperatively reduces PONV and improves analgesia, but does ont reduce opioids
-* Reduces PONV when given IV  
+* Reduces PONV when given IV\
 Effect is independent of its reduction in opioid requirements.
 
 
@@ -137,10 +137,10 @@ Effect is independent of its reduction in opioid requirements.
 * Renal injury is low when used appropriately
 * All NSAIDs sit on a spectrum of activity between COX-1 and COX-2
 * Non-selective NSAIDs:
-	* Are associated with ↑ risk of minor and major bleeding  
-	* May precipitate bronchospasm in susceptible patients  
+	* Are associated with ↑ risk of minor and major bleeding\
+	* May precipitate bronchospasm in susceptible patients\
 * COX-2 inhibitors **do not**:
-	* Impair platelet function  
+	* Impair platelet function\
 	Blood loss is reduced compared to non-selective NSAIDs and comparable to placebo after TKR.
 	* Precipitate bronchospasm
 	* Appear to ↑ rates of gastric ulceration when used in short courses (5-7 days)
@@ -159,10 +159,10 @@ Effect is independent of its reduction in opioid requirements.
 
 General opioids:
 
-* Highly effective for somatic pain  
+* Highly effective for somatic pain\
 Act pre-synaptically and post-synaptically at multiple points.
 * Poor control of visceral pain
-* High doses can induce hyperalgesia  
+* High doses can induce hyperalgesia\
 Particularly remifentanil.
 * Slow release opioids should not be used as sole agents in early acute pain
 * Immediate-release opioids should be used for breakthrough pain
@@ -170,9 +170,9 @@ Particularly remifentanil.
 	* Naloxone
 	* Naltrexone
 	* Droperidol
-* OIVI  
+* OIVI\
 Particularly in high-risk groups.
-	* Sedation  
+	* Sedation\
 	Sedation is a better predictor of ventilatory impairment than respiratory rate.
 	* ↓ Oropharyngeal tone
 	* Elevated CO~2~ set point
@@ -194,7 +194,7 @@ Patches:
 
 PCAs:
 
-* Improve analgesia  
+* Improve analgesia\
 Except where there are high nurse:patient ratios.
 * Subcutaneous PCA is as effective as IV PCA
 * Improve patient satisfaction
@@ -206,9 +206,9 @@ Methadone:
 * Old, synthetic, and cheap
 * Some NMDA affinity
 * High interindividual pharmacokinetic variability
-* Long half life of up to 60 hours  
+* Long half life of up to 60 hours\
 May lead to prolonged respiratory depression in overdose.
-* High dose may prolong QT interval  
+* High dose may prolong QT interval\
 TDP associated with chronic high dose, rather than single perioperative dosing.
 * 0.2mg/kg (up to 20mg) at induction reduces PCA use by 48 hours in spinal surgery
 
@@ -238,8 +238,8 @@ Buprenorphine:
 
 
 * Intrathecal morphine and fentanyl prolong spinal anaesthetic block
-* Morphine is the most commonly studied drug  
-Typically 100-500µg used  
+* Morphine is the most commonly studied drug\
+Typically 100-500µg used\
 	* Generally higher doses used in cardiac or thoracic surgery
 	* No benefit seen in exceeding 300µg
 	* No strong-dose response relationship demonstrated in meta-analyses
@@ -251,18 +251,18 @@ Typically 100-500µg used
 	* High degree of patient satisfaction, despite side effects
 * Complications include:
 	* Nausea/Vomiting
-	* Pruritus  
+	* Pruritus\
 	10-15%.
 		* Amenable to subcutaneous naloxone
 	* Urinary retention
-	* Respiratory depression  
+	* Respiratory depression\
 		* May be:
 			* Hypoxic or hypercapnoeic with an normal respiratory rate
 			* ↓ respiratory rate with normal gases
 			* **Pupil size** does not correlate with degree of respiratory depression
-		* Typically biphasic  
+		* Typically biphasic\
 		Second peak is delayed, occurring at 8-12 hours.
-		* NNH 15-84  
+		* NNH 15-84\
 		More common compared to PCA.
 
 
@@ -277,10 +277,10 @@ Typically 100-500µg used
 
 Overview:
 
-* Provides better analgesia than system opioids, irrespective of patient or surgery type  
+* Provides better analgesia than system opioids, irrespective of patient or surgery type\
 Provides ~ 1/10 reduction in pain over the first 24 hours postoperatively.
 * Reduces:
-	* Respiratory failure  
+	* Respiratory failure\
 	After major surgery in high risk patients; NNT 15.
 	* MI risk.
 	* Muscle catabolism and subsequent hyperglycaemia
@@ -288,30 +288,30 @@ Provides ~ 1/10 reduction in pain over the first 24 hours postoperatively.
 	* Need for ventilation in rib fractures
 	* Incidence of pneumonia and mortality
 * Safe
-	* Epidural haematoma is vanishingly rare  
+	* Epidural haematoma is vanishingly rare\
 		* Anticoagulation and coagulopathy are the two most important risk factors
 		* Decompression within 8 hours of symptom onset ↑ likelihood of partial or good neurological recovery
-	* Epidural abscesses  
+	* Epidural abscesses\
 	Most likely to track from skin: significantly reduced with chlorhexidine-impregnated dressings. 
 * Complications
 	* Those relating to insertion and management of any epidural
 	* Hypotension
 		* May require HDU monitoring/vasopressors
-		* Better corrected with vasopressors than volume  
+		* Better corrected with vasopressors than volume\
 		Vasopressors demonstrated to more likely improve GI blood flow than excessive fluid.
 
 
 Implementation:
 
-* Can be used as a sole technique  
+* Can be used as a sole technique\
 E.g. epidural top-up for LUSCS.
 * Can be used as an adjunct to general anaesthesia
 	* May be used for either thoracic or abdominal operations
 	* Epidural should be sited depending on surgical site
 		* Middle of the surgical incision for low-thoracic epidurals
-		* Relatively more cranially (i.e. top half) of the incision for high-thoracic epidurals  
+		* Relatively more cranially (i.e. top half) of the incision for high-thoracic epidurals\
 		Higher sites of insertion exhibit less cranial spread of epidurally administered LA.
-* Use of high concentration (e.g. 0.75% bupivacaine) leads to a rapid onset of sensory and motor blockade  
+* Use of high concentration (e.g. 0.75% bupivacaine) leads to a rapid onset of sensory and motor blockade\
 Motor blockade provides muscle relaxation, ↓ the requirement to administer NMBD.
 	* 3-5ml of 0.75% bupivacaine can be used for top-up
 
@@ -328,7 +328,7 @@ Paravertebral block:
 
 α2-delta ligands:
 
-* α2-delta ligands  
+* α2-delta ligands\
 Probably little effect in most patients, but good in opioid tolerant.
 * Avoid using PRN
 * Gabapentin and pregabalin are opioid-sparing
@@ -347,7 +347,7 @@ Ketamine:
 * Reduces opioid hyperalgesia
 * Does not ↑ ICP or reduce CPP
 * Reduces chronic post-surgical pain
-* Reduces PONV  
+* Reduces PONV\
 In thoracics.
 * May be useful in opioid-resistant pain
 * Reduces phantom limb pain
@@ -376,7 +376,7 @@ Nitrous oxide:
 
 * Has analgesic efficacy in labour
 	* ↑ maternal satisfaction
-* Neuropathy and bone marrow suppression are rare but potentially serious complications of nitrous oxide use  
+* Neuropathy and bone marrow suppression are rare but potentially serious complications of nitrous oxide use\
 Consideration should be given to duration of exposure and supplementation with vitamin B~12~.
 
 
@@ -384,7 +384,7 @@ Dexamethasone:
 
 * Reduces post-operative pain, as well as PONV and fatigue
 * May cause mild hyperglycaemia
-* Prolongs duration of sensory and motor block  
+* Prolongs duration of sensory and motor block\
 Extent is similar when given in the block as to when given systemically.
 
 
@@ -405,11 +405,11 @@ Covering:
 
 ### Acute Neuropathic Pain{#acuteneuropathic}
 
-* First line  
+* First line\
 	* Ketamine
 		* Titrate up with 5mg boluses to effect
 		* Maintain at 0.1mg/kg/hr IV or SC infusion
-* Second line  
+* Second line\
 	* Lignocaine
 		* Bolus 1-1.5mg/kg
 		* Maintain at 1-2mg/min
@@ -417,7 +417,7 @@ Covering:
 
 ### Chronic Neuropathic Pain{#chronicneuropathic}
 
-* First line  
+* First line\
 	* TCAs
 		* Commence at 5-10mg and ↑ slowly to optimise acceptability
 		* Effective dose usually 10-100mg
@@ -428,12 +428,12 @@ Covering:
 	* SSRIs/SNRIs
 		* Duloxetine 30mg daily, ↑ up to 60mg
 		* Venlafaxine 37.5mg, ↑ to 75mg, up to 225mg daily
-* Second line  
+* Second line\
 α2-delta ligands:
-	* Pregabalin  
+	* Pregabalin\
 	75mg up to 300mg BD, start at 25-50mg if frail.
 	* Gabapentin
-* Third line  
+* Third line\
 	* Tramadol
 	* Tapentadol
 
@@ -441,10 +441,10 @@ Covering:
 
 ### Phantom Limb Pain{#phantom}
 
-* First line  
-	* Calcitonin  
+* First line\
+	* Calcitonin\
 	100ug daily IV/SC for at least 3 days. Antiemetic prophylaxis.
-* Second line  
+* Second line\
 Antineuropathics as above.
 
 

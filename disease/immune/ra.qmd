@@ -14,9 +14,9 @@ Prevalence:
 Associations:
 
 * Anglo-saxon
-* HLA-DR4 subtype  
+* HLA-DR4 subtype\
 70% of cases.
-* Rheumatoid factor  
+* Rheumatoid factor\
 80% of cases.
 * Family history
 * Food allergies/intolerances
@@ -66,7 +66,7 @@ Extra-articular manifestations:
 	* Restrictive chest wall defect
 	* Pleural effusions
 * Cardiac
-	* Pericarditis  
+	* Pericarditis\
 	With effusions and tamponade.
 	* Myocarditis
 	* Endocarditis
@@ -93,14 +93,14 @@ Extra-articular manifestations:
 
 * A
 	* Airway assessment
-		* Range of neck movement  
+		* Range of neck movement\
 		Paraesthesia or loss of sensation in the hands is concerning and warrants pre-operative radiographic investigation.
 		* TMJ dysfunction
-		* Cricoarytenoid involvement  
+		* Cricoarytenoid involvement\
 		May cause dyspnoea, stridor, hoarseness, or severe upper airway obstruction.
-	* **Atlanto-axial subluxation**  
+	* **Atlanto-axial subluxation**\
 	Potential risk of spinal cord injury.
-	* Subaxial subluxation  
+	* Subaxial subluxation\
 	Uncommon, leads to early symptoms of nerve impingement.
 * B
 	* Extra-articular respiratory disease
@@ -115,22 +115,22 @@ Extra-articular manifestations:
 	* Vascular access difficulties
 	* **Drug effects**
 		* Steroids
-		* Methotrexate  
+		* Methotrexate\
 		Pulmonary toxicity.
-		* DMARDs  
+		* DMARDs\
 		Neutropaenia, thrombocytopaenia, aplastic anaemia, fibrosing alveolitis.
-		* Methotrexate  
+		* Methotrexate\
 		Pulmonary fibrosis, hepatic cirrhosis.
-		* Gold  
+		* Gold\
 		Thrombocytopenia, haemolytic anaemia, nephrotic syndrome, myasthenia-like syndrome.
 		* Biologics
-			* Etanercept  
+			* Etanercept\
 			Flu-like symptoms, CNS demyelination.
-			* Infliximab  
+			* Infliximab\
 			Extrapulmonary TB.
-			* Adalimumab  
+			* Adalimumab\
 			Flu-like symptoms, abdominal pain.
-			* Anakinra  
+			* Anakinra\
 			Flu-like symptoms, diarrhoea, nausea, thrombocytopaenia.
 
 

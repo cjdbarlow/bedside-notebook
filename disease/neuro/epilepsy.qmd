@@ -36,7 +36,7 @@ Multiple causes exist, and include:
 * D
 	* Migraine
 	* Cerebrovascular disease
-		* CVA  
+		* CVA\
 		Equally likely after infarction or haemorrhage.
 	* Tumour
 		* Anterior
@@ -52,7 +52,7 @@ Multiple causes exist, and include:
 	* Hypoglycaemia
 * Immune
 	* Multiple sclerosis
-* Traumatic  
+* Traumatic\
 Post-traumatic epilepsy associated with:
 	* Early seizures
 	* Depressed skull fractures
@@ -106,10 +106,10 @@ Other:
 Principles of medical management:
 
 * Single-agent therapy optimised before progressing to multi-agent therapy
-	* If adverse effect to first agent, a second agent tried as monotherapy  
+	* If adverse effect to first agent, a second agent tried as monotherapy\
 	* If seizures continue despite adequate dosing, combination therapy usually begun
 * Significant side effect profile of many older agents
-* Usually continued until 2-3 year seizure-free period  
+* Usually continued until 2-3 year seizure-free period\
 	* Drugs may then be withdrawn over 3-6 months
 	* ~66% of patients will remain seizure free
 * Drug therapy depends on type of epilepsy
@@ -122,7 +122,7 @@ Drugs used:
 	* Lamotrigine
 	* Carbamazepine
 * Generalised
-	* Valproate  
+	* Valproate\
 	Most effective drug for primary generalised epilepsy.
 
 
@@ -154,15 +154,15 @@ Predominantly related to CYP450 induction and inhibition:
 ### Anaesthetic Considerations
 
 * D
-	* Anaesthetic affects  
+	* Anaesthetic affects\
 	Drugs may:
 		* Modulate seizure activity
 		* Interact with antiepileptic medication
 	* General principles
-		* Continue antiepileptic drugs on day of surgery, and recommence as soon as possible afterwards  
+		* Continue antiepileptic drugs on day of surgery, and recommence as soon as possible afterwards\
 		Administer parenterally if multiple doses missed or are likely to be missed.
 		* Avoid epileptogenic drugs
-		* Note presence of drug interactions  
+		* Note presence of drug interactions\
 
 #### Effect of Anaesthetic Agents on Epilepsy
 

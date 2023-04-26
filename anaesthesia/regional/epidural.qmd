@@ -9,11 +9,11 @@
 Epidural catheters are commonly used for:
 
 * Analgesia
-    * Adjunct to major abdominal and thoracic procedures  
+    * Adjunct to major abdominal and thoracic procedures\
     In general, offers significant benefit in high-risk patients and high-risk surgery:
         * Reduces stress response
         * Reduces incidence of serious complications
-        * Provides excellent analgesia    
+        * Provides excellent analgesia  \
         * In combination with a general anaesthetic.
     * Labor
     * Chronic pain
@@ -25,17 +25,17 @@ Epidural catheters are commonly used for:
 ## Equipment
 
 * Procedure tray
-* Epidural kit  
+* Epidural kit\
 Containing:
     * Tuohy needle
     * Frictionless syringe
     * Epidural catheter
     * Catheter connector and filter
-* Skin local anaesthetic  
+* Skin local anaesthetic\
 In a 5ml syringe with a 23G needle.
-* Opioid  
+* Opioid\
 e.g. Fentanyl.
-* Epidural local anaesthetic  
+* Epidural local anaesthetic\
 e.g. 20ml 0.2% ropivacaine.
 * Dressing
 
@@ -49,9 +49,9 @@ e.g. 20ml 0.2% ropivacaine.
 
 ### Preparation
 
-* Obtain good IV access  
+* Obtain good IV access\
 14-16G.
-* Obtain a pre-procedure BP  
+* Obtain a pre-procedure BP\
 Maternal hypertension may suggest pre-eclampsia.
 * Obtain consent
 * Prepare equipment
@@ -60,15 +60,15 @@ Maternal hypertension may suggest pre-eclampsia.
 
 ### Procedure
 
-* **Position the patient**  
+* **Position the patient**\
 Most failures are related to poor positioning.
-    * If sitting, ensure:  
-        * Flat, level mattress  
+    * If sitting, ensure:\
+        * Flat, level mattress\
         Commonly bed is not level or mother may be sitting on the division in the mattress.
-            * If possible (e.g. operating table), bed can be tilted (slightly) so that the pelvis rocks forward, and the patient must bring their centre of gravity forwards to avoid toppling backwards off the bed  
+            * If possible (e.g. operating table), bed can be tilted (slightly) so that the pelvis rocks forward, and the patient must bring their centre of gravity forwards to avoid toppling backwards off the bed\
             This ↑ lumbar kyphosis.
         * Feet flat on a stool
-        * As far back on the bed as possible  
+        * As far back on the bed as possible\
         Patients back should be closest to you, with their calves touching the side of the bed.
         * Ensure knees are higher than hips
         * Hold a pillow close to the chest
@@ -76,30 +76,30 @@ Most failures are related to poor positioning.
         * Ensure knees, hips, and shoulders are in a line
         * Slump
 * Identify the target interspace 
-* Prepare the skin  
-    * Chlorhexidine is superior  
+* Prepare the skin\
+    * Chlorhexidine is superior\
     Should be kept away and separate from the procedure tray, and allowed to dry fully. Ideally should be applied by the assistant.
-* Hat, gown, glove, drape  
+* Hat, gown, glove, drape\
 Place a hat on the patient as well.
-* Prepare equipment  
+* Prepare equipment\
 Prime catheter with saline.
-* Skin local  
+* Skin local\
 23G needle is usually adequate to anaesthetise the interspinous ligament in the non-obese patient.
 
 
 * Approach may be midline or paramedian
-* Insert Tuohy  needle through the skin and supraspinous ligament  
+* Insert Tuohy  needle through the skin and supraspinous ligament\
     * Needle will be held firm in the ligament - on letting go the needle will be tethered, whilst it tends to fall if in fat
     * Typically 2-3cm deep
     * Remove stylet/obturator from Tuohy needle and attach loss of resistance syringe
 * *Slowly* advance needle and syringe
-    * Maintain contact with the patient and apply countertraction to the needle to minimise effect of patient movement on needle position  
+    * Maintain contact with the patient and apply countertraction to the needle to minimise effect of patient movement on needle position\
     * With saline:
-        * Majority of forwards pressure should be on the plunger of the syringe  
+        * Majority of forwards pressure should be on the plunger of the syringe\
         *Just* enough pressure should be applied to the hub of the needle such that minimal saline is injected into the ligament.
             * Too much pressure on the plunger means the ligament becomes oedematous and boggy
             * Too much pressure through the needle hub may lead to accidental dural puncture
-        * Consider hydrodissecting the epidural space with saline once it is found, to open up the space in preparation for the catheter  
+        * Consider hydrodissecting the epidural space with saline once it is found, to open up the space in preparation for the catheter\
         Saline commonly flows from the needle afterwards, and may be concerning for dural puncture.
     * With air:
         * Carefully advance the syringe < 1 mm at a time
@@ -107,31 +107,31 @@ Prime catheter with saline.
         * Minimal air should be injected into the space.
 
 
-* Remove syringe  
+* Remove syringe\
 Observe for:
-    * CSF  
+    * CSF\
     Typically continual, brisk flow. If uncertain, can check sample for glucose. See [accidental dural puncture](#adp).
-    * **Blood**  
+    * **Blood**\
     If blood returns through the Tuohy needle it should be withdrawn. Attempt cannulation at a **different interspace**.
-* Thread the catheter  
-    * Warn for potential of transient electric shock sensation  
+* Thread the catheter\
+    * Warn for potential of transient electric shock sensation\
     Ensure this has resolved when the catheter has been adjusted to the correct position.
-    * **Never withdraw the catheter through the Tuohy needle**  
+    * **Never withdraw the catheter through the Tuohy needle**\
     It may shear off and be retained in the epidural space.
-    * Aim to leave the catheter at 3-5cm  
+    * Aim to leave the catheter at 3-5cm\
     **5cm** with a **multiorifice catheter** or **3-4cm** with a **uniorifice** catheter **is optimal** for analgesia.
-        * ≥ 7cm is associated with   
+        * ≥ 7cm is associated with \
         * < 3 cm is associated with dislodgement
 * Observe catheter for:
-    * Saline  
-        * Continuous flow suggests [dural puncture](#adp)  
+    * Saline\
+        * Continuous flow suggests [dural puncture](#adp)\
         Can be confirmed with:
             * Easy aspiration of CSF
             * Testing for presence of glucose
         * **Meniscal drop is not helpful** once the dural space has been pressurised (i.e; with saline), and is rarely useful with loss of resistance to air techniques
-    * **Blood**  
+    * **Blood**\
     Indicates cannulation of an epidural vein.
-        * Epidural veins can be cannulated during insertion  
+        * Epidural veins can be cannulated during insertion\
         More when the veins are engorged, as occurs in:
             * The sitting position
             * Pregnancy
@@ -139,32 +139,32 @@ Observe for:
             * Remove the Tuohy needle
             * Pull the catheter back 1-2cm
             * Flush the catheter with saline
-            * Lower the catheter to see if blood flows freely  
+            * Lower the catheter to see if blood flows freely\
             If no blood flows, gently aspirate.
             * If:
-                * Blood flows or is aspirated  
+                * Blood flows or is aspirated\
                 Withdraw it 1cm and flush with saline, then check for free-flowing or aspirated blood.
-                * No blood flows  
+                * No blood flows\
                 Cautiously give test dose.
-                * Blood flows or is aspirated, and the epidural is 3cm in the space.  
+                * Blood flows or is aspirated, and the epidural is 3cm in the space.\
                 Remove and try at a different interspace.
 
 
-* Connect filter  
-* Deliver test dose  
+* Connect filter\
+* Deliver test dose\
 Ensure HR, BP, and SpO~2~ monitoring.
-* Apply dressing  
+* Apply dressing\
 Can provide second loading dose at this stage.
 
 
 ### Post-Procedure{#post}
 
-* Measure BP Q5 minutely for at least 20 minutes  
+* Measure BP Q5 minutely for at least 20 minutes\
 Continue longer if BP is labile.
     * BP should be checked 5 minutes after every subsequent top-up or bolus
 * Evaluate for intrathecal injection
     * Presence of motor block
-* Document procedure  
+* Document procedure\
 Should include:
     * Name
     * Date and time
@@ -188,7 +188,7 @@ Dosing epidural depends on:
 
 * Targeted block level
 * Required speed of onset
-* Desired density of blockade  
+* Desired density of blockade\
 Analgesia vs. surgical anaesthesia.
 
 
@@ -206,19 +206,19 @@ Anaesthesia:
 
 ## Complications
 
-* Dural puncture (~1/100)  
+* Dural puncture (~1/100)\
 Post-dural puncture headache.
-* Hypotension (Up to ~1/30)  
+* Hypotension (Up to ~1/30)\
 May lead to nausea.
 * Respiratory depression (~1/200)
-* Epidural haematoma (~1/150,000)  
+* Epidural haematoma (~1/150,000)\
 Affected by:
-    * Intra-abdominal pressure  
+    * Intra-abdominal pressure\
     High IAP impairs epidural venous drainage.
     * Needle size
     * Use of anticoagulants
-* Epidural abscess (0.05%)  
-* Neurological damage (0.5%)   
+* Epidural abscess (0.05%)\
+* Neurological damage (0.5%) \
     * Typically transient
     * Majority associated with motor block rather than pain
     * Poorer outcomes are associated with:
@@ -230,18 +230,18 @@ Affected by:
         * Administration of heparin intraoperatively in > 50% of cases
         * Presence of pre-existing coagulation abnormality in 75% of cases
 * High block
-* Urinary retention  
+* Urinary retention\
     * IDC placement
-* Itch  
+* Itch\
     * Due to presence of opioids within epidural
-* Back pain  
+* Back pain\
 Localised pain due to tissue trauma from the needle is common. Note that:
-    * Pre-existing arthritis/osteoporois ↑ risk of back pain  
+    * Pre-existing arthritis/osteoporois ↑ risk of back pain\
     Epidural analgesia does not ↑ this risk.
 
 
 
-## Management of Complications Relating to Epidural Insertion{#comp}  
+## Management of Complications Relating to Epidural Insertion{#comp}\
 
 *This covers complications of insertion. Troubleshooting the working epidural is covered [here](/anaesthesia/regional/epidural-mx.md#comp).*
 
@@ -261,31 +261,31 @@ Complications of epidural insertion include:
 
 Dural puncture is:
 
-* Common  
+* Common\
 1-2% of epidural insertions.
     * Predominantly by needle
-    * Rarely by catheter  
+    * Rarely by catheter\
     Important as may result in inadvertent total spinal.
-* May lead to PDPH  
+* May lead to PDPH\
 75-85% in the labour epidural population.
 
 
 Following dural puncture, one can either:
 
-* **Use as** an **intrathecal catheter**  
+* **Use as** an **intrathecal catheter**\
 This is a higher risk technique.
     * Pass epidural catheter and leave 2-2.5cm in the space
     * **Label clearly as SPINAL**
-    * *Cautiously* establish block  
+    * *Cautiously* establish block\
     Typically, intrathecal doses are ~1/10^th^ of epidural doses.
         * Consider using 1.5-2ml of *0.25%* bupivacaine with 15µg of fentanyl
-    * Leave catheter in situ for 24 hours, but this is not supported by evidence  
+    * Leave catheter in situ for 24 hours, but this is not supported by evidence\
     Initially thought to reduce requirement for blood patch, however this is not born out in replication studies.
 * Remove and repeat
     * Higher risk of subsequent dural puncture
-    * Cautiously test dose repeat epidural  
+    * Cautiously test dose repeat epidural\
     Some LA may migrate intrathecally.
-* Note there is **no benefit** for **prophylactic blood patch**  
+* Note there is **no benefit** for **prophylactic blood patch**\
 
 
 ### Subdural Injection
@@ -293,11 +293,11 @@ This is a higher risk technique.
 Occasionally, injection may be between the dura and the arachnoid. Subdural injection:
 
 * Typically causes a:
-    * **Delayed onset**  
+    * **Delayed onset**\
     10-30 minutes may elapse; however block density tends to ↑ rapidly after onset. **Hypotension** may be the presenting symptom.
-    * **High block**  
+    * **High block**\
     Due to reduced compliance of the subdural space compared to the epidural space, causing solution to rise higher in the space.
-    * **Weak/patchy block**  
+    * **Weak/patchy block**\
     Due to spread of a small amount of LA through a large area.
 
 
@@ -314,7 +314,7 @@ Management priorities are:
 
 * ABC
 * Management of LA toxicity
-* Foetus  
+* Foetus\
 Evaluate foetal heart rate:
     * If normal, labour may continue
     * Cat 1 LUSCS should be planned in setting of non-reassuring trace
@@ -327,7 +327,7 @@ Evaluate foetal heart rate:
 ### Paraesthesia
 
 * Occurs in 5-25% of insertions
-* If paraesthesia persists after catheter maniuplation then the catheter should be removed and re-inserted in a different space  
+* If paraesthesia persists after catheter maniuplation then the catheter should be removed and re-inserted in a different space\
 May be an association with severe neurological deficit.
 
 

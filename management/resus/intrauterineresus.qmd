@@ -14,24 +14,24 @@ Foetal distress is progressive foetal asphyxia that if not corrected or circumve
 
 Intrauterine resuscitation:
 
-* Describes techniques used to correct **common** and **reversible** causes foetal hypoxia, prior to harm occurring  
+* Describes techniques used to correct **common** and **reversible** causes foetal hypoxia, prior to harm occurring\
 Non-correctable (e.g. anencephaly) or rare (e.g. ruptured vasa praevia) causes are not captured.
 * Relies on detection of foetal distress by electronic foetal monitoring
 
 
 ## Causes
 
-* Contractions  
+* Contractions\
 Contractions in uncomplicated labour result in short and long-term reduction in oxygenation; and this effect is markedly ↑ with excessively frequent contractions.
 * Aorto-caval compression
 * Cord compression
-* Epidural  
+* Epidural\
 Rarely associated with severe hypotension.
 	* Around 50% of FHR decelerations after regional analgesia can be attributed to ↑ in uterine activity
-* Maternal hypoxia  
+* Maternal hypoxia\
 	* Opioids
 	* Nitrous oxide
-	* Post-contraction  
+	* Post-contraction\
 	Hypoventilatory period occurring due to low PaCO~2~ after a contraction.
 * Placental abruption
 * Foetal haemorrhage
@@ -41,41 +41,41 @@ Rarely associated with severe hypotension.
 
 ↑ degree of escalation:
 
-* Place in full left (or right) lateral position  
+* Place in full left (or right) lateral position\
 Removes aorto-caval compression.
-* Reduce/cease oxytocin infusion  
+* Reduce/cease oxytocin infusion\
 Reduces intrauterine pressure, reducing foetal compression and improving uteroplacental blood flow.
-* Give fluid bolus  
+* Give fluid bolus\
 500ml-1L CSL.
 	* Associated with improvement in foetal oxygenation even with adequate maternal driving pressure
 	* **Caution** in women with **pre-eclampsia** or receiving tocolytics
-* Give vasopressor  
+* Give vasopressor\
 Particularly if foetal distress is **epidural** or **spinal associated**.
 	* Phenylephrine 50-100μg
 	* Ephedrine
 * Give tocolytics
 	* 250μg terbutaline SC
-	* GTN 60-180μg IV  
+	* GTN 60-180μg IV\
 	Likely faster onset and offset than SC terbutaline.
 	* GTN 800μg SL
-* Delivery  
+* Delivery\
 If foetal distress is not corrected by fixing reversible factors.
 
 ### Second-line Strategies
 
-* Administer 15L/min O~2~  
+* Administer 15L/min O~2~\
 	* Placental transfer of oxygen is driven by tension (mmHg) rather than content (ml/100ml), and so this may be effective even in a normoxic mother
 	* Evidence supporting this practice is inconsistent, and potential harms have limited this practice
-* Alternate maternal position  
+* Alternate maternal position\
 May alleviate cord compression depending on relationship between pelvis, foetus, and cord. Consider:
 	* These positions
 		* Full left lateral
 		* Full right lateral
 		* All fours
 	* Will probably be unhelpful if **oligohydramnios** or nuchal cord is present
-* Amnioinfusion  
+* Amnioinfusion\
 Transfusion of normal saline into the uterine cavity where foetal distres is due to cord compression secondary to oligohydramnios.
-* Elevation of the foetal vertex  
+* Elevation of the foetal vertex\
 Transvaginal elevation of the foetal head out of the birth canal for foetal distress due to cord prolapse.
 
 ---

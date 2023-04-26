@@ -11,16 +11,16 @@
 
 Surgical repair can involve one or more of:
 
-* Ascending  
+* Ascending\
 May be replaced on CPB with femoral return cannula.
 	* Clamp proximal to the innominate artery
 	* Head and upper limb perfusion maintained
-* Arch  
+* Arch\
 Replacement of arch vessels requires total CPB and either:
 	* Cerebral perfusion from bypass return
 	* Retrograde cerebral perfusion
 	* Deep hypothermic circulatory arrest
-* Descending    
+* Descending  \
 May be performed on partial or full CPB.
 
 
@@ -31,16 +31,16 @@ May be performed on partial or full CPB.
 	* Requirement for lung isolation
 	* Tracheal deviation from lesion
 * B
-	* Haemoptysis  
+	* Haemoptysis\
 	Suggests leak.
-	* Requirement for lung isolation  
+	* Requirement for lung isolation\
 	For **all *but* Crawford IV**.
 		* CPB may be required if unable to tolerate OLV
 * C
 	* Associated CVS disease
 		* HTN
 		* Atherosclerosis
-	* Requirement for CPB  
+	* Requirement for CPB\
 	Partial or complete.
 * D
 	* Spinal cord ischaemia
@@ -66,7 +66,7 @@ Key investigations:
 	* LV function
 	* Consider angiogram
 * Pulmonary function tests
-* Carotid ultrasound  
+* Carotid ultrasound\
 For TIA and CVA risk.
 * Coronary angiography
 * Bloods
@@ -75,12 +75,12 @@ For TIA and CVA risk.
 
 * Standard ANZCA monitoring
 * Arterial line
-	* Right radial in Crawford I & II  
+	* Right radial in Crawford I & II\
 	Left subclavian flow may be disrupted by cross-clamp.
-	* Femoral artery  
+	* Femoral artery\
 		* Required if using distal aortic perfusion
 		* Useful to assess pressure gradient across repair
-	* Left radial in ascending aneurysms  
+	* Left radial in ascending aneurysms\
 		* Left radial assesses systemic pressure
 		* Right radial measure pressure of antegrade cerebral perfusion during hypothermic arrest
 * Multiple large IV
@@ -95,7 +95,7 @@ For TIA and CVA risk.
 
 Surgical access may be either:
 
-* Left postero-lateral thoracotomy  
+* Left postero-lateral thoracotomy\
 Descending aneurysms.
 * Sternotomy
 
@@ -106,7 +106,7 @@ Descending aneurysms.
 * Respiratory failure
 High morbidity and mortality:
 
-* Cardiac morbidity  
+* Cardiac morbidity\
 Thoracic aortic surgery is the highest risk procedure for perioperative cardiac morbidity.
 	* 60% diastolic dysfunction
 	* Failure

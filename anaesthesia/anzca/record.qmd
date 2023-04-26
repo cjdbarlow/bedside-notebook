@@ -27,7 +27,7 @@ The anaesthetic record:
 	* Anaesthetic information
 		* Technique
 		* Medication given
-		* Airway used  
+		* Airway used\
 		Description of problems encountered and solution.
 		* Anaesthetic gas, flow, and ventilation use
 		* Monitoring used

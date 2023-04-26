@@ -4,7 +4,7 @@
 Perioperative antibiotic prophylaxis:
 
 * Refers to prevention of an initial SSI
-* Is one of the most effect measures for preventing surgical site infection  
+* Is one of the most effect measures for preventing surgical site infection\
 Variable risk:
 	* 2-5% for most patients
 	* Up to 10% for high risk
@@ -31,12 +31,12 @@ Key principles:
 * Hospitals should establish a multidisciplinary antimicrobial team who develop, implement, and audit adherence to protocols
 * Drug administration is the responsibility of the anaesthetist
 * Drug should be administered within 60 minutes prior to skin incision, except for vancomycin and fluoroquinolones
-* Single dose is preferred  
+* Single dose is preferred\
 Repeat doses are indicated if:
-	* Duration of procedure compared to half-life of antibiotic  
+	* Duration of procedure compared to half-life of antibiotic\
 	Usually re-dose at **two half-lives**.
-	* Significant **blood loss**  
-	**⩾1.5L**, independent of antibiotic used.  
+	* Significant **blood loss**\
+	**⩾1.5L**, independent of antibiotic used.\
 	Dependent on V~D~; low V~D~ indicates greater amount of antibiotic lost in blood.
 
 
@@ -50,30 +50,30 @@ Repeat doses are indicated if:
 	* System factors
 		* Local resistance patterns
 > * Avoid broad-spectrum agents
-> * Note that penicillin-allergic patients have significantly ↑ rates of *C. difficile*, VRE, MRSA infections, and longer hospital stays  
+> * Note that penicillin-allergic patients have significantly ↑ rates of *C. difficile*, VRE, MRSA infections, and longer hospital stays\
 > Therefore, *inappropriate* labeling of patients as penicillin-allergic has significant impact on care
 
 
 Based on normal flora of region:
 
-* Skin  
+* Skin\
 Including cardiac, vascular, neurosurgery.
-	* Cefazolin  
-* Bowel  
-	* Non-obstructed  
+	* Cefazolin\
+* Bowel\
+	* Non-obstructed\
 		* Cefazolin
 	* Obstructed or appendicitis
 		* Cefazolin and metronidazole
 * Orthopaedics
 	* General
 		* Cefazolin
-	* Gustilo Type 3 open fracture (>10cm soft tissue injury)  
+	* Gustilo Type 3 open fracture (>10cm soft tissue injury)\
 		* Aminoglycoside
 * Neurosurgery
 	* General
 		* Cefazolin
 	* Penetrating head trauma
-		* Cefazolin and aminoglycoside  
+		* Cefazolin and aminoglycoside\
 		Empirically; i.e. without evidence of meningitis.
 	* Head trauma with sinus involvement
 		* Ceftriaxone
@@ -91,20 +91,20 @@ Including cardiac, vascular, neurosurgery.
 
 Special circumstances:
 
-* *Severe* immediate or delayed penicillin hypersensitivity  
+* *Severe* immediate or delayed penicillin hypersensitivity\
 Substitution depends on concern about gram negative infection; cefazolin has better gram negative coverage than clindamycin and so this is not a like-for-like substitution.
-	* If minimal concern  
+	* If minimal concern\
 	e.g. Head and neck.
-		* Clindamycin alone  
+		* Clindamycin alone\
 		For minor surgery.
-		* Clindamycin and vancomycin  
+		* Clindamycin and vancomycin\
 		For everything else: neurosurgery, orthopaedics, cardiac
-	* If concerned  
+	* If concerned\
 	e.g. Bowel, biliary, obstetric, gynaecological:
 		* Clindamycin and aminoglycoside
 		* Aztreonam
 		* Fluoroquinolone
-* Hardware  
+* Hardware\
 For high risk patients:
 	* Vancomycin and cefazolin
 * Known or suspected MRSA
@@ -141,7 +141,7 @@ Note that:
 
 ### Adjuncts
 
-* Mupriocin nasal ointment  
+* Mupriocin nasal ointment\
 Reduced SSIs in *S. Aureus* colonised patients.
 
 
@@ -157,7 +157,7 @@ Antibiotic *prophylaxis* is **not recommended** in the following circumstances (
 
 Infective endocarditis prophylaxis:
 
-* Was traditionally given in procedures leading to bacteraemia  
+* Was traditionally given in procedures leading to bacteraemia\
 Noting that many activities of daily living (e.g. eating) also lead to a bacteraemia.
 * May prevent an exceedingly small number of IE cases
 * Causes greater harm due to antibiotic-associated adverse events
@@ -171,7 +171,7 @@ Patients with the highest risk of an adverse outcome from IE:
 * Valve replacement
 * HOCM
 * Previous IE
-* Structural congenital heart disease  
+* Structural congenital heart disease\
 	* **Including** surgically corrected or palliated conditions
 	* **Excluding**:
 		* Isolated ASD
@@ -184,14 +184,14 @@ Patients with the highest risk of an adverse outcome from IE:
 
 IE prophylaxis should be given:
 
-* **Only** if a patient is at high risk of an adverse outcome  
+* **Only** if a patient is at high risk of an adverse outcome\
 See above list.
 * **Only** for:
 	* Dental procedures involving:
 		* Manipulation of gingival tissue
 		* Manipulation of periapical region of teeth
 		* Perforation of oral mucosa
-	* Respiratory procedures involving mucosal incision  
+	* Respiratory procedures involving mucosal incision\
 	e.g. Tonsillectomy, adenoidectomy.
 	* Procedures involving infected muscle, skin, or tissue
 
@@ -199,14 +199,14 @@ See above list.
 Antibiotic administration:
 
 * Should cover any known infection at the site of procedure
-* Given pre-procedure  
+* Given pre-procedure\
 Up to 2 hours post-procedure if *inadvertently* missed.
 * Otherwise, the following are reasonable regimens:
-	* PO  
+	* PO\
 	Amoxycillin 50mg/kg, up to 2g.
-	* IV  
+	* IV\
 	Cephazolin 50mg/kg, up to 1g.
-	* β-lactam allergy   
+	* β-lactam allergy \
 	Clindamycin 20mg/kg, up to 600mg.
 
 

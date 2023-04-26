@@ -2,7 +2,7 @@
 
 > * Only begins once primary survey is completed and resuscitation is underway
 > * Aims to identify important, but not immediately treatable life-threatening (or **immediately treatable**) life-threatening injuries
-> * The following injuries should be **actively looked for and excluded** during the secondary survey:  
+> * The following injuries should be **actively looked for and excluded** during the secondary survey:\
 >Imaging will be required.
 >	* Tracheobronchial tree injury
 >	* Pneumothorax
@@ -17,12 +17,12 @@
 The secondary survey is a thorough head-to-toe evaluation, including complete history, physical examination, and reassessment of vitals.
 
 * Head
-	* Scalp & Skull  
+	* Scalp & Skull\
 	Lacerations and fractures.
 	* Brief cranial nerve examination
 	* Eye
 		* Acuity
-		* Mobility  
+		* Mobility\
 		May be reduced with entrapment.
 		* Pupil size
 		* Penetrating injury
@@ -70,9 +70,9 @@ The secondary survey is a thorough head-to-toe evaluation, including complete hi
 
 * Extremities
 	* Tenderness
-	* Abnormal movement  
+	* Abnormal movement\
 	The ability to move a joint through its full range of motion usually indicates that the muscle unit is intact and the joint is stable.
-	* Distal pulses  
+	* Distal pulses\
 
 ### Adjuncts to the Secondary Survey
 

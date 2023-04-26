@@ -3,9 +3,9 @@
 Diabetic ketoacidosis with near-normal BSL. Euglycaemic DKA:
 
 * Occurs due to altered balance of glucose production (in the liver) and intake (dietary), and renal glucose clearance
-* Typically caused by SGLT2 inhibitors, in the context of physiological stress  
+* Typically caused by SGLT2 inhibitors, in the context of physiological stress\
 Intercurrent illness, surgery, **fasting**, reduced carbohydrate intake (such as diet modification for bariatric surgery).
-* Is a major adverse event  
+* Is a major adverse event\
 ~50% risk of HDU/ICU admission.
 
 
@@ -18,21 +18,21 @@ Incidence:
 
 Key risk factors:
 
-* Use of SGLT2 inhibitors  
+* Use of SGLT2 inhibitors\
 May occur even if ceased up to 3 days preoperatively.
 * Physiological stress
 	* Perioperative patients
 		* Fasting
-		* Endoscopy  
+		* Endoscopy\
 		Additional stress due to use of bowel preparation.
-		* Degree of surgical stress  
+		* Degree of surgical stress\
 		Counter-regulatory hormone production.
 	* Illness
 	* Volume depletion
 	* Medication changes
 		* Insulin withheld/reduced
 		* Improper use of SGLT2 inhibitors
-	* Renal failure  
+	* Renal failure\
 	Prolonged elimination of SGLT2 inhibitors.
 
 ## Pathophysiology
@@ -41,7 +41,7 @@ SGLT2 inhibitors:
 
 * Reduce BSL by inhibiting renal reabsorption of glucose, promoting glycosuria
 	* Fall in plasma glucose reduces insulin secretion from beta cells
-	* Fall in insulin ↑ glucagon secretion from alpha cells  
+	* Fall in insulin ↑ glucagon secretion from alpha cells\
 	SGLT2 inhibitors also directly stimulate alpha cells.
 	* ↑ in glucagon:insulin ratio stimulates:
 		* Lipolysis
@@ -49,7 +49,7 @@ SGLT2 inhibitors:
 		* Hepatic ketogenesis
 		* Hepatic glycogenolysis & gluconeogenesis
 * Reduce renal sodium absorption
-* ↑ ketone body reabsorption  
+* ↑ ketone body reabsorption\
 Leads to **ketoacidosis without ketonuria**
 
 
@@ -70,12 +70,12 @@ Presentation is similar to DKA, but with a near-normal serum BSL:
 	* Nausea/Vomiting
 	* Tachypnoea
 * Associated symptoms:
-	* Abdominal pain  
+	* Abdominal pain\
 	Significant.
 	* Tachycardia
 	* Flushing
 	* Altered mental state
-	* Polyuria  
+	* Polyuria\
 	May be masked by perioperative hypovolaemia.
 
 
@@ -94,18 +94,18 @@ Bloods:
 
 * BSL <14mmol/L
 * Elevated blood ketones
-* Low or absent urinary ketones  
+* Low or absent urinary ketones\
 Not reliable indicator.
-* Elevated urinary glucose  
+* Elevated urinary glucose\
 Urinary glucose does not accurately reflect BSL in patients on SGLT2 inhibitors.
 
 ## Management
 
 Prevention:
 
-* Insulin  
+* Insulin\
 Cessation or dose reduction will ↑ risk of euglycaemic DKA.
-* Avoid glucocorticoids  
+* Avoid glucocorticoids\
 ↑ insulin resistance.
 
 Primarily supportive:
@@ -120,11 +120,11 @@ Primarily supportive:
 			* Duration of fasting
 			* Bariatric patients
 			* Significance of surgery
-			* Time to restarting PO intake  
+			* Time to restarting PO intake\
 			SGLT2 inhibitors should not be restarted until post-operative catabolic state has been overcome by PO intake.
 		* Low risk patients
 			* e.g. Healthy, day-case, eating immediately post-operatively.
-			* Withhold SGLT2 inhibitor on DOS  
+			* Withhold SGLT2 inhibitor on DOS\
 			* Restart SGLT2 inhibitor 24-48 hours post-operatively, provided PO intake has resumed
 		* High risk patients
 			* e.g. Major surgery, risk of post-operative ileus, risk of post-operative fast.

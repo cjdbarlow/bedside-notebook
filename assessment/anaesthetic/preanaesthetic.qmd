@@ -17,13 +17,13 @@ This assessment template uses the mnemonic **IIF AMPLE**. Fasting status is in t
 * **Fasting** status
 
 
-* **Allergies**  
+* **Allergies**\
 	* Including issues with **previous anaesthetic**
 	* **Family history** of **anaesthetic issues**
 		* MH
 		* Atypical cholinesterase
 		* Other reactions
-* **Medications**  
+* **Medications**\
 Perioperative management of medication is covered [here](/anaesthesia/considerations/periop-med.md). In particular, evaluate:
 	* Respiratory drugs
 	* Cardiac drugs
@@ -38,26 +38,26 @@ Perioperative management of medication is covered [here](/anaesthesia/considerat
 		* Previous airway management difficulty
 		* PONV
 	* Respiratory disease
-		* Asthma  
+		* Asthma\
 		↑ risk of bronchospasm from intubation & desflurane
 			* Consider cancellation or delaying elective procedures in poorly controlled asthma
-		* Smoking  
+		* Smoking\
 		Impaired mucous secretion & clearance, ↓ small airway calibre, altered immune response.
-		* COAD  
+		* COAD\
 		↑ risk of atelectasis, bronchospasm, pneumonia, mechanical ventilation, respiratory failure.
 		* Recent URTI
-		* OSA  
+		* OSA\
 		Screening should be performed with the STOP-BANG questionaire. 
 	* Cardiac disease
-		* CAD  
+		* CAD\
 		CCS Angina class.
-		* MI  
+		* MI\
 		 Recommend postponing elective operations 4-6/52 following an MI - ↑ risk of reinfarction/death (periop MI mortality is 20-50%).
 		 	* <3/12: 37% chance reinfarction
 		 	* 3-6/12: 15% chance reinfarction
 		 	* Over 6/12: Constant 5% risk
 		 	* If surgery cannot be avoided, post-op ICU monitoring ↓ risk to 6%, 2%, 1% respectively
-		* CHF  
+		* CHF\
 		NYHA class.
 		* Valvular disease
 		* Arrhythmias
@@ -70,16 +70,16 @@ Perioperative management of medication is covered [here](/anaesthesia/considerat
 		* Spinal disease
 		* Neuromuscular disease
 	* MSK
-		* Obesity  
+		* Obesity\
 		Obesity is associated ↑ rates of multiple complications. Perioperative evaluation should include:
 			* Screening for OSA
 			* HbA1c and Hb
 			* Potential for difficult intubation
 		* Arthropathies
-		* Cervical spine disease  
+		* Cervical spine disease\
 		Abscess, trauma, tumours, scleroderma, obesity fixation.
 	* Endocrine disease
-		* Diabetes  
+		* Diabetes\
 			* Check and test HbA1c in known diabetics with planned major orthopaedic or vascular surgery
 			* Evaluate for complications:
 				* CVS
@@ -88,7 +88,7 @@ Perioperative management of medication is covered [here](/anaesthesia/considerat
 		* Thyroid
 		* Adrenal
 	* Renal
-		* Insufficiency  
+		* Insufficiency\
 		Perioperative AKI is more likely with:
 			* Age
 			* Emergency surgery
@@ -105,7 +105,7 @@ Perioperative management of medication is covered [here](/anaesthesia/considerat
 		* Hepatic disease
 	* Haematological diseases
 		* Objection to blood products
-		* History of bleeding problems  
+		* History of bleeding problems\
 		Asking patients about their risk of bleeding is a sensitive tool to identify patients with impaired haemostasis or platelet function.
 		* Anaemia
 		* Coaguolpathy
@@ -115,7 +115,7 @@ Perioperative management of medication is covered [here](/anaesthesia/considerat
 		* Issues with previous pregnancies
 		* Problems with prior epidurals
 * **Last eaten**
-* **Events**  
+* **Events**\
 Of the last 24 hours and concurrent illnesses.
 
 ## Examination
@@ -130,7 +130,7 @@ Examination follows an ABCDE approach:
 		2: Visibility of hard and soft palate, upper portion of tonsils and uvula
 		3: Soft and hard palate and base of uvula visible
 		4: Only hard palate visible
-	* Thyromental distance  
+	* Thyromental distance\
 	Distance of lower mandible in the midline from the mentum to the thyroid notch.
 		* < 6cm is associated with difficult intubation
 	* Mouth opening
@@ -162,18 +162,18 @@ An alternative pre-anaesthetic/peri-operative checklist is also described using 
 	* Blood availability
 * **Breathing**
 	* Respiratory examination
-* **Clinical exam**  
+* **Clinical exam**\
 	* Cardiac examination
 	* Exertional tolerance
-* **Co-morbidities**  
+* **Co-morbidities**\
 Particualarly DM, HTN, asthma, epilepsy.
-* **Drugs**  
+* **Drugs**\
 Current medications and anaesthesia plan.
-* **Details**  
+* **Details**\
 Of previous anaesthetics and surgeries.
-* **Evaluate** investigations  
+* **Evaluate** investigations\
 Other relevant investigations.
-* **End point** to take up the case for surgery  
+* **End point** to take up the case for surgery\
 Conduct operation if further postponement will not be beneficial.
 * **Fluid** status
 * **Fasting** status

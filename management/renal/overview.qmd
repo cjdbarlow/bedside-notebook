@@ -2,13 +2,13 @@
 
 Renal replacement is the use of extracorporeal blood purification to control water and solute load when the kidneys are unable to do so. Methods include:
 
-* **Intermittent Haemodialysis** (IHD)  
+* **Intermittent Haemodialysis** (IHD)\
 Rapid removal of volume and toxins.
 	* Most commonly used by ESRD patients in the community
-* **Continuous Renal Replacement Therapy** (CRRT)  
+* **Continuous Renal Replacement Therapy** (CRRT)\
 Slower removal, preferred in critically ill due to haemodynamic stability.
 	* Typical effluent rate of 25-30mL/kg/hr
-* **Sustained Low-Efficiency Dialysis** (SLED)  
+* **Sustained Low-Efficiency Dialysis** (SLED)\
 Similar toxin control to CRRT, with potentially better acid-base control and HDx stability. Evidence is lacking to recommend SLED over CRRT.
 * **Peritoneal Dialysis** (PD)
 

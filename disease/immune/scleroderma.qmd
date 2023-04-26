@@ -3,12 +3,12 @@
 
 Chronic multisystem disease characterised by progressive fibrosis of organs. Subdivided by pattern of skin and internal organ involvement into:
 
-* Limited cutaneous systemic sclerosis  
+* Limited cutaneous systemic sclerosis\
 Skin sclerosis distal to elbows and knees, and prominent vascular malformations.
-* Diffuse cutaneous systemic sclerosis  
+* Diffuse cutaneous systemic sclerosis\
 Skin thickening proximal to elbows and knees, with early lung fibrosis and ↑ risk of renal and cardiac involvement.
 * Systemic sclerosis without scleroderma
-* Systemic sclerosis with overlap  
+* Systemic sclerosis with overlap\
 Any of the above may have features of another systemic rheumatic disease.
 
 ## Epidemiology and Risk Factors
@@ -72,7 +72,7 @@ Dermatological:
 * C
 	* Myocardial fibrosis
 	* Pulmonary hypertension
-	* Arterial line placement  
+	* Arterial line placement\
 	Beware Raynaud's and risk of limb ischaemia with small (e.g. radial) arteries.
 * E
 	* Difficult IV access

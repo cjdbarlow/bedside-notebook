@@ -26,7 +26,7 @@ Namely:
     * Guidelines
     * ↑ inhaled steroid use
     * Asthma action plans
-    
+  \
 Risk factors:
 
 * Atopy\
@@ -42,7 +42,7 @@ Underlying pathology involves both:
 * Sputum production
     * May lead to obstruction and plugging of small airways\
     Usually offset by hyperinflation. 
-    
+  \
 This leads to a combination of **↑ airway resistance** and **dynamic hyperinflation**, with consequentially:
 
 * ↑ Work of breathing\
@@ -58,7 +58,7 @@ Further ↑ work of breathing.
         * Hypoxia
         * Acidosis
     * LV preload may be ↓↓ by impaired RV function
-    * LV afterload significantly ↑ by negative intrathoracic pressures  
+    * LV afterload significantly ↑ by negative intrathoracic pressures\
 
 
 ### Aetiology
@@ -108,12 +108,12 @@ Bloods:
     * As the disease worsens and V/Q mismatch ↑, an ↑ MV produces the same blood gas composition
     * Respiratory **acidosis** emerges in **late disease** when the patient tires and is unable to maintain the required MV
     * A lactic acidosis secondary to beta agonists may also be present
-    
+  \
 
 Radiology:
 
 * CXR\
-No role in confirmed asthma, but may be helpful to exclude other differentials.  
+No role in confirmed asthma, but may be helpful to exclude other differentials.\
 
 ## Management
 
@@ -254,7 +254,7 @@ Inferior bronchodilator relative to others available, with a narrow therapeutic 
                 * Catheters should be inserted by blunt dissection to minimise risk of lung injury.
 * E
     * Critical Illness Myopathy
-    
+  \
 ## Prognosis
 
 * Mortality 10-20% among those requiring invasive ventilation

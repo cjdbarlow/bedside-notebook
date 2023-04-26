@@ -32,10 +32,10 @@ Sickle Cell Disease:
 * Failure to thrive
 * Often frequent hospital admissions
 * Multiorgan failure
-	* Pulmonary hypertension  
+	* Pulmonary hypertension\
 	Recurrent pulmonary infarction.
 	* Cardiac failure
-	* Functional asplenism  
+	* Functional asplenism\
 	Consequential lymphoid hypertrophy.
 	* TIAs/CVAs
 
@@ -71,13 +71,13 @@ Prevention:
 	* Hot weather
 	* Alcohol
 * Folic acid supplementation
-* Hydroxyurea  
+* Hydroxyurea\
 ↑ HbF formation, and so reduces frequency and severity of vaso-occlusive crises.
 
 
 Therapeutic:
 
-* Bone marrow transplantation  
+* Bone marrow transplantation\
 Usually restricted to <16 year olds.
 
 Other:
@@ -105,7 +105,7 @@ Other:
 	* Avoid venous stasis
 * E
 	* Tourniquet use
-		* May precipitate sickle crisis distal to tourniquet  
+		* May precipitate sickle crisis distal to tourniquet\
 		* Careful exsanguination of distal limb prior to inflation
 * H
 	* Sickle cell severity

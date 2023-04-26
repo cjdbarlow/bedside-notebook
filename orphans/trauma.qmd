@@ -4,7 +4,7 @@
 *This section covers clinical assessment of the trauma patient, and likely injuries based on mechanism.*
 
 >* Volume resuscitation is not a substitute for haemorrhage control
->* Shock in the trauma patient is almost always hypovolaemic  
+>* Shock in the trauma patient is almost always hypovolaemic\
 >Causes of shock in trauma:
 >	* Haemorrhage
 >	* Haemorrhage
@@ -32,11 +32,11 @@ History should include:
 * Medication
 * PMHx
 * Last eaten
-* Events  
+* Events\
 	* [Mechanism](#mech)
 	* Injuries
 		* Blood loss at scene
-		* Open wounds/fractures  
+		* Open wounds/fractures\
 		Potential contaminants.
 	* Symptoms
 	* Treatment
@@ -52,7 +52,7 @@ Injury patterns relate to mechanism of injury:
 		* Three-point restraints
 	* External damage to vehicle
 	* Internal damage to vehicle
-	* Speed  
+	* Speed\
 	Pre and post-crash.
 	* Direction of impact
 	* Injuries to other passengers

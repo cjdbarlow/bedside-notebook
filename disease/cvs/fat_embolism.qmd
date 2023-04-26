@@ -3,9 +3,9 @@
 
 Fat embolism syndrome is a serious consequence of embolisation of fat globules:
 
-* **24-72 hours** after injury to medullary bone  
+* **24-72 hours** after injury to medullary bone\
 Usually due to:
-	* Major trauma  
+	* Major trauma\
 	95% of cases.
 	* Intraoperative medullary reaming
 * Into the:
@@ -17,9 +17,9 @@ Usually due to:
 
 Primary risk factor is number of fractures:
 
-* Single long bone fracture  
+* Single long bone fracture\
 1-3%.
-* Bifemoral fractures  
+* Bifemoral fractures\
 Up to 33%.
 
 
@@ -27,11 +27,11 @@ Up to 33%.
 
 Two major mechanisms of injury:
 
-* Mechanical  
+* Mechanical\
 Mechanical obstruction of capillary beds, which explains:
 	* Right heart dysfunction
 	* Paradoxical embolism
-* Biochemical  
+* Biochemical\
 Degradation of fat into pathogenic free fatty acids, which explains:
 	* Delayed presentation
 	* ARDS
@@ -68,10 +68,10 @@ Non-trauma related:
 
 Presentation usually:
 
-* Occurs 12-72 hours after injury  
+* Occurs 12-72 hours after injury\
 May occur up to 2 weeks.
 * Classical triad of hypoxia, neurological findings, and rash
-* Respiratory changes  
+* Respiratory changes\
 Due to pulmonary embolism.
 	* Dyspnoea
 	* Tachypnoea
@@ -79,7 +79,7 @@ Due to pulmonary embolism.
 * CVS changes
 	* Obstructive shock
 	* Right heart dysfunction
-* Neurological features  
+* Neurological features\
 Due to cerebral embolism. Heterogenous appearance:
 	* Confusion
 	* Drowsiness
@@ -87,7 +87,7 @@ Due to cerebral embolism. Heterogenous appearance:
 * Haematological
 	* Anaemia
 	* Thrombocytopaenia
-	* **Petechiae**  
+	* **Petechiae**\
 		* Red-brown rash
 		* Occurring in ~33% of cases
 		* In non-dependent regions
@@ -100,7 +100,7 @@ Due to cerebral embolism. Heterogenous appearance:
 
 Differential diagnoses include:
 
-* Other sources of embolism  
+* Other sources of embolism\
 	* PE
 	* AFE
 	* Tumour embolism
@@ -121,13 +121,13 @@ None are diagnostic:
 		* Anaemia
 		* Thrombocytopaenia
 	* UECs
-		* Hypocalcaemia  
+		* Hypocalcaemia\
 		Due to free fatty acid binding.
-* CXR  
+* CXR\
 May reflect developing ARDS.
-* CR chest  
+* CR chest\
 Focal ground glass opacification.
-* MRI Brain  
+* MRI Brain\
 
 Notably, aspiration of fat from a wedged PAC is neither sensitive nor specific.
 
@@ -135,7 +135,7 @@ Notably, aspiration of fat from a wedged PAC is neither sensitive nor specific.
 
 Preventative:
 
-* Medullary venting hole drilled prior to reaming  
+* Medullary venting hole drilled prior to reaming\
 Reduced major embolic events on TOE.
 * Early fixation of fractures
 
@@ -152,16 +152,16 @@ Include:
 
 * Methylprednisolone prophylaxis
 	* 1.5mg/kg IV Q8H for 7 doses
-	* Hypothesised to reduce perivascular haemorrhage  
+	* Hypothesised to reduce perivascular haemorrhage\
 	* No RCT evidence supporting use
-* Heparin  
+* Heparin\
 Theorised to remove lipaemia by stimulating lipase activity.
 
 ## Complications
 
 Include:
 
-* Death  
+* Death\
 5-15%, usually due to:
 	* Respiratory failure
 	* Obstructive shock

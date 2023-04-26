@@ -11,34 +11,34 @@
 
 Caesarian section is delivery of a foetus through an abdominal incision. A caesarian section can be performed:
 
-* At **different degrees of urgency**  
+* At **different degrees of urgency**\
 Divided into 4 categories:
-	* **Cat 1**  
+	* **Cat 1**\
 	Imminent threat to life of mother or foetus.
-		* Objective is to deliver baby as rapidly as possible whilst being safe  
+		* Objective is to deliver baby as rapidly as possible whilst being safe\
 		**Epidural top-up (if available) or GA otherwise**. Spinal is associated with ~8-10 minute additional anaesthetic time.
-	* **Cat 2**  
+	* **Cat 2**\
 	Maternal or foetal compromise that is not imminently life threatening.
-	* **Cat 3**  
+	* **Cat 3**\
 	No compromise, but requires early delivery.
-	* **Cat 4**  
+	* **Cat 4**\
 	No compromise, delivery timed to suit the mother and the hospital.
 * With **different techniques**:
-	* **[General Anaesthesia](ga-luscs.md)**  
+	* **[General Anaesthesia](ga-luscs.md)**\
 		* Quick to perform and reliable
 		* Allows fastest delivery of baby
 		* Generally ↑ risk of complications
 		* Indications:
 			* Maternal request
-			* Cat 1 CS without pre-existing epidural  
+			* Cat 1 CS without pre-existing epidural\
 			* Contraindication to regional technique
-			* Failure of regional technique  
+			* Failure of regional technique\
 			May be:
 				* Prior to incision
-				* After incision  
+				* After incision\
 				Limited consent and preparation time.
 			* Expected massive haemorrhage
-	* **[Regional](reg-luscs.md)**  
+	* **[Regional](reg-luscs.md)**\
 		* Preferred method in absence of contraindications
 		* Includes:
 			* Spinal
@@ -51,7 +51,7 @@ Divided into 4 categories:
 Indication:
 
 * Expected duration
-* Combined surgery  
+* Combined surgery\
 e.g. With salpingectomy or hysterectomy.
 
 
@@ -63,22 +63,22 @@ e.g. With salpingectomy or hysterectomy.
 	* Reduced FRC and ↑ VO~2~ in pregnancy lead to faster desaturation
 	* Respiratory function may be compromised with regional techniques
 * C
-	* HDx state may be compromised with regional techniques  
+	* HDx state may be compromised with regional techniques\
 	Avoid if significant antepartum blood loss.
 * D
-	* Consent  
+	* Consent\
 	Depth of consent will be tailored to clinical urgency.
 	* Anxiety
-		* Often first exposure many people have to the hospital system  
+		* Often first exposure many people have to the hospital system\
 		Aim to make it a positive one.
 		* Regional and neuraxial anaesthesia are anxiety-inducing
 * G
 	* Antacid prophylaxis
 * H
-	* Group and Hold  
+	* Group and Hold\
 	There is always a risk of massive haemorrhage with obstetric cases.
 * O
-	* Placenta position  
+	* Placenta position\
 	Low-lying anterior placenta greatly ↑ risk of major haemorrhage, especially if there is a scar from previous CS.
 	* Obstetric history
 		* Key questions:
@@ -86,11 +86,11 @@ e.g. With salpingectomy or hysterectomy.
 			* Previous caesarians
 			* Issues with current pregnancy
 		* Key obstetric factors:
-			* Pre-eclampsia  
+			* Pre-eclampsia\
 			Generally, early epidural prior to thrombocytopenia is preferred.
-			* Prematurity  
+			* Prematurity\
 			Generally, regional techniques reduce foetal morbidity.
-			* Post-dates  
+			* Post-dates\
 				* Often require LUSCS
 				* Regional techniques generally preferred
 			* Breech presentation
@@ -99,36 +99,36 @@ e.g. With salpingectomy or hysterectomy.
 			* Multiple Gestation
 				* Early epidural provides route enables quick conversion to LUSCS in second-twin distress
 				* GA for cat 1 LUSCS
-			* Placenta praevia  
+			* Placenta praevia\
 			Requires caesarian, cannot undergo spontaneous labour.
-			* Placental adhesive disorders  
+			* Placental adhesive disorders\
 			High risk of haemorrhage and requirement for hysterectomy. 
 
 
 ## Preparation{#prep}
 
 * Give **antacid prophylaxis**
-	* Ranitidine 150mg PO  
+	* Ranitidine 150mg PO\
 	2 hours prior to surgery.
-	* 30ml sodium citrate  
+	* 30ml sodium citrate\
 	Immediately prior.
-* Standard ANZCA monitoring  
+* Standard ANZCA monitoring\
 Cycle BP cuff minutely from induction until delivery.
-	* Treat hypotension aggressively with vasopressor  
+	* Treat hypotension aggressively with vasopressor\
 	Treat nausea aggressively with vasopressor, as this is often a sign of hypotension.
 * Give supplemental oxygen if < 95% on air
-* **Wedge**  
+* **Wedge**\
 Under right hip to displace the gravid uterus off the IVC, and ensure venous return.
-* Large IVC  
+* Large IVC\
 16G or bigger ideal, 18G acceptable.
-* Start phenylephrine infusion on commencement of anaesthesia, aiming to preserve the baseline BP  
+* Start phenylephrine infusion on commencement of anaesthesia, aiming to preserve the baseline BP\
 **Generally 30**-60**ml/hr of 100ug/ml of phenylephrine**.
-	* Adjust infusion rate each minute depending on the blood pressure  
+	* Adjust infusion rate each minute depending on the blood pressure\
 	25-50% increments are reasonable.
 	* Phenylephrine is the preferred agent as it does not constrict the spiral arteries
 	* 100μg bolus can be used to treat hypotension
 * Ensure **uterotonics available**
-* Prophylactic antibiotics  
+* Prophylactic antibiotics\
 Should be given prior to skin incision.
 
 
@@ -145,12 +145,12 @@ This section is divided into:
 ### Surgical Stages
 
 * Test block (if regional)
-* Transverse laparotomy  
+* Transverse laparotomy\
 Generally little muscle relaxation is required.
 * Peritoneal retraction
-* Uterine incision  
+* Uterine incision\
 If amnion is intact then amniotic fluid will enter abdominal cavity.
-* Delivery  
+* Delivery\
 Provision of **routine uterotonics** after delivery.
 * Uterine closure and haemostasis
 
@@ -159,7 +159,7 @@ Provision of **routine uterotonics** after delivery.
 
 Uterotonics are routinely given to reduce PPH risk. General recommendations:
 
-* Oxytocin or carbetocin should be given immediately following delivery  
+* Oxytocin or carbetocin should be given immediately following delivery\
 Inadvertent administration prior to delivery may be catastrophic.
 * Second-line agents should be considered early
 * IM is a reasonable alternative to IV infusions in resource-limited settings
@@ -169,17 +169,17 @@ Inadvertent administration prior to delivery may be catastrophic.
 Dosing of first line agents:
 
 * Oxytocin 5 IU IV and then an infusion 10 IU/hr
-	* Recommendations for dosing vary widely between official bodies, from 1-10U IV, with infusions from at 2.5-15 IU/hr  
+	* Recommendations for dosing vary widely between official bodies, from 1-10U IV, with infusions from at 2.5-15 IU/hr\
 	* Oxytocin should be given slowly to avoid adverse effects
 * Carbetocin 100μg slow IV
 
 
 Dosing of second line agents:
 
-* Ergometrine 200-500μg  
-	* Contraindicated in pre-eclampsia  
+* Ergometrine 200-500μg\
+	* Contraindicated in pre-eclampsia\
 	* Can give half IV, half IM
-* Carboprost 250μg IM  
+* Carboprost 250μg IM\
 	* Contraindicated IV
 	* Contraindicated in asthma
 	* Can be given every 15 minutes up to 8 doses.
@@ -190,7 +190,7 @@ Dosing of second line agents:
 
 * Massive haemorrhage
 * Amniotic fluid embolism
-* Post-partum haemorrhage  
+* Post-partum haemorrhage\
 Typically due to poor tone.
 	* Uterine massage
 	* Oxytocin
@@ -208,9 +208,9 @@ Most departments have a standard post-operative analgesia management protocol. C
 
 If intrathecal morphine given:
 
-* Naloxone 40μg SC Q1H  
+* Naloxone 40μg SC Q1H\
 For itch.
-* Naloxone 100μg IV Q5 min  
+* Naloxone 100μg IV Q5 min\
 For RR ⩽8.
 
 

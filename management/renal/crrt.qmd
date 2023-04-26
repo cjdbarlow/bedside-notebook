@@ -68,7 +68,7 @@ Vascular dialysis catheter:
 	* Right IJV
 	* Femoral vin
 	* Left IJV
-	* Dominant SCV  
+	* Dominant SCV\
 	Risk of central vein stenosis with SCV insertion.
 	* Non-dominant SCV
 * Positioned at the junction of the SCV and RA
@@ -96,13 +96,13 @@ Anticoagulation is frequently used to prevent clotting of the filter and circuit
 * UFH is used if citrate is contraindicated
 * If there is an ↑ bleeding risk:
 	* Use regional citrate/calcium in CRRT
-	* Avoid regional UFH/LMWH  
+	* Avoid regional UFH/LMWH\
 	If citrate is contraindicated, then no anticoagulation should be used.
 * For patients with contraindications to citrate and UFH, and without coagulopathy:
 	* Anticoagulation is still recommended
-	* Direct thrombin inhibitors (argatroban)  
+	* Direct thrombin inhibitors (argatroban)\
 	Contraindicated in hepatic failure.
-	* Factor Xa inhibitors  
+	* Factor Xa inhibitors\
 	Danaparoid, fondaparinux.
 
 

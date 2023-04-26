@@ -2,7 +2,7 @@
 
 
 Transport may involve
-* Primary retrieval  
+* Primary retrieval\
 Retrieval from scene of injury to a hospital. Requires:
 	* Adequate training
 		* Scene organisation and safety
@@ -10,16 +10,16 @@ Retrieval from scene of injury to a hospital. Requires:
 		* Chemical, biological, radiological incidents
 	* Adequate PPE
 	* Adequate fitness
-* Secondary retrieval  
+* Secondary retrieval\
 Interhospital transport. Requires:
-	* Sufficient staff  
+	* Sufficient staff\
 	To cover rest, if required.
 	* Consideration of transporting expert assistance to the patient
-* Intra-hospital transport  
+* Intra-hospital transport\
 Transport of a critically ill patient within the hospital. Requires:
 	* Appropriate nurse
 	* Orderly
-	* Medical practitioner  
+	* Medical practitioner\
 	With appropriate skills.
 
 ## Modes of Transport
@@ -84,7 +84,7 @@ Other effects:
 
 Needs depend on requirements:
 
-* Transport duration  
+* Transport duration\
 Oxygen and drug supplies should exceed estimated maximum transport time.
 * Severity of illness
 

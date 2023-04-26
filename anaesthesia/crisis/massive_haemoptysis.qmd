@@ -1,7 +1,7 @@
 # Massive Haemoptysis
 
 
-> This is an <span style="color:red">**anaesthetic crisis**</span>  
+> This is an <span style="color:red">**anaesthetic crisis**</span>\
 > Priority is to:
 >* **Decontaminate the airway**
 >* **Maintain oxygenation**
@@ -18,18 +18,18 @@ Immediately:
 	* Consider lung isoation
 		* Bronchial blocker
 		* Endobronchial tube
-* Haemodynamic resuscitation  
+* Haemodynamic resuscitation\
 	* Cardiac arrest is common
 	* Hypoxia is almost always the cause
 	* Hypovolaemia is rarely significant
 
 Definitive treatment:
 
-* Source control  
+* Source control\
 Options include:
 	* Rigid bronchoscopy
-	* Interventional angiography  
-	Bronchial angiography and embolisation.  
+	* Interventional angiography\
+	Bronchial angiography and embolisation.\
 		* Note risk of paralysis due to loss of spinal perfusion
 	* Thoracotomy
 * Correction of coagulopathy
@@ -42,7 +42,7 @@ Options include:
 
 ## Pathophysiology
 
-* 90% of haemorrhage comes from the bronchial circulation  
+* 90% of haemorrhage comes from the bronchial circulation\
 These bleeds are dependent on ***systemic* blood pressure**.
 
 ### Aetiology

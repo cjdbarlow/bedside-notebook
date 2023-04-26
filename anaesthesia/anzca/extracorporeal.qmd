@@ -24,7 +24,7 @@ A hospital providing major extracorporeal perfusion should have:
 	* Assembly and operation of bypass equipment
 	* For anaesthetic trainees training as medical perfusionists, requirements include:
 		* At least 12 months
-		* 75 perfusions  
+		* 75 perfusions\
 		The first 50 cases should be closely supervised.
 	* Critical scenarios including:
 		* Pump head failure
@@ -40,17 +40,17 @@ Heart-lung machine should:
 * Meet electrical standards
 * Undergo routine inspection and maintenance
 * Include:
-	* Pump heads  
+	* Pump heads\
 		* 3 or more available
 		* Alarms
 		* Servo-controlled mechanisms
-		* Manual override capability  
+		* Manual override capability\
 		In the setting of:
 			* Low blood resevoir
 			* Arterial over-pressure
 			* Bubble detection
 		* Runaway control protection
-		* Display of flow  
+		* Display of flow\
 		In L/min or RPM.
 		* Easily calibrated
 		* Cranking system
@@ -60,21 +60,21 @@ Heart-lung machine should:
 		* Alarms
 		* Emergency oxygen supply
 		* Gas flow meters and gas blenders
-		* Oxygen analyser  
+		* Oxygen analyser\
 		Either on:
 			* Oxygenator gas supply line
 			* Oxygenator effluent gas
-		* Scavenger  
+		* Scavenger\
 		If volatile agents in use.
-	* Heat exchanger  
-		* May be external or self-contained water supply  
+	* Heat exchanger\
+		* May be external or self-contained water supply\
 		* Water between:
 			* 4 and 42°C
 			* 10 and 25 L/min
 		* Not at pressures ≥600mmHg
-	* Monitoring and alarms  
+	* Monitoring and alarms\
 	Appropriately positioned, maintained, and calibrated.
-		* Low-level detection monitor  
+		* Low-level detection monitor\
 		Detects when the blood resevoir runs low.
 		* Arterial line pressure monitor
 		* Pre- and post-membrane pressure monitor

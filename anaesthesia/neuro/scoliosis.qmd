@@ -10,9 +10,9 @@
 
 Scoliosis:
 
-* Describes lateral curvature and rotation of the thoraco-lumbar spine  
+* Describes lateral curvature and rotation of the thoraco-lumbar spine\
 Often with a secondary thoracic cage deformity.
-* Is defined as a **Cobb angle** > 10°  
+* Is defined as a **Cobb angle** > 10°\
 Perpendicular lines drawn from the upper and lower maximally tilted vertebrae. The angle of intersection of these lines is the Cobb angle.
 
 Scoliosis surgery:
@@ -27,11 +27,11 @@ Scoliosis surgery:
 ## Considerations
 
 * B
-	* Restrictive lung disease  
+	* Restrictive lung disease\
 	May be difficult to interpret in patients with non-idiopathic disease (e.g. CP related).
 * C
 	* Exercise tolerance/cardiac reserve
-	* Right heart disease  
+	* Right heart disease\
 	Secondary to respiratory disease.
 		* Pulmonary hypertension may occur with Cobb angle >100°
 * D
@@ -58,9 +58,9 @@ Scoliosis surgery:
 Surgery:
 
 * May have a number of approaches
-	* Anterior  
+	* Anterior\
 	↑ morbidity.
-	* Posterior  
+	* Posterior\
 	Commonest.
 	* Combined
 * May require bone grafting

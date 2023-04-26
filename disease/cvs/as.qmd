@@ -3,12 +3,12 @@
 
 Aortic stenosis occurs when valvular disease impedes blood flow across the valve during ventricular systole. The aortic valve is normally 2.6-3.5cm^2^, and haemodynamically significant obstruction occurs when AVA approaches 1cm^2^. AS is classified based on echocardiographic findings, using either:
 
-* Aortic valve pressure gradient/peak flow  
+* Aortic valve pressure gradient/peak flow\
 Dependent upon flow across the valve, and so will **underpredict severity in failure states** because the failing LV cannot generate enough pressure to produce a high flow.
-	* Pressure gradients are calculated by measuring flow across the valve, using the **simplified Benoulli equation:** $$ \Delta P = 4v^2$$  
+	* Pressure gradients are calculated by measuring flow across the valve, using the **simplified Benoulli equation:** $$ \Delta P = 4v^2$$\
 	* Peak gradients are calculated from peak flow during ejection
 	* Mean gradients are calculated by the average flow (area under the doppler envelope) during ejection
-* Aortic valve area  
+* Aortic valve area\
 Derived using DI and LVOT area, so is less accurate than direct measurements of flow.
 
 |Technique|Mild|Moderate|Severe|
@@ -30,23 +30,23 @@ Risk factors include:
 	* Hypercholesterolaemia
 	* Smoking
 	* Hypertension
-	* Haemodialysis  
+	* Haemodialysis\
 	Occurs in 10%.
 
 ## Pathophysiology
 
 In aortic stenosis:
 
-* LV responds to obstruction by undergoing hypertrophy  
+* LV responds to obstruction by undergoing hypertrophy\
 Allows pressure gradient across the valve to be maintained without:
 	* Reduction in SV
 	* Ventricular dilation
 
 
-* LVH leads to stiffening of the ventricle  
+* LVH leads to stiffening of the ventricle\
 Subsequent diastolic dysfunction.
 	* Hypertrophied ventricle more dependent on atrial kick
-* LVH ↑ oxygen requirements, whilst ↑ LV diastolic pressures reduce coronary blood flow and oxygen delivery  
+* LVH ↑ oxygen requirements, whilst ↑ LV diastolic pressures reduce coronary blood flow and oxygen delivery\
 Susceptible to ischaemia, especially when CO is high, even in absence of coronary artery disease.
 
 
@@ -57,15 +57,15 @@ Susceptible to ischaemia, especially when CO is high, even in absence of coronar
 
 AS may be caused by:
 
-* Degenerative calcification  
+* Degenerative calcification\
 Mechanical stress leading to progressive fibrosis and calcification.
 	* Most common cause
 	* Typically in those over 70
-	* Initially occurs as sclerosis  
+	* Initially occurs as sclerosis\
 	Thickening/calcification of leaflets without stenosis.
-* Congenital bicuspid valve  
+* Congenital bicuspid valve\
 Most common congenital cardiac malformation.
-	* Typically symptomatic in 40-60 year olds  
+	* Typically symptomatic in 40-60 year olds\
 	Accounts for 50% of AVR performed for AS in those under 70.
 
 
@@ -76,13 +76,13 @@ Most common congenital cardiac malformation.
 Symptoms:
 
 * Include:
-	* Angina  
+	* Angina\
 	Due to mismatch between LV oxygen consumption and demand.
-	* Syncope  
+	* Syncope\
 	Late and bad sign. Occurs due to inadequate cardiac output, and may be related to either:
 		* ↑ demand in the setting of a relatively fixed cardiac output
 		* Arrhythmia
-	* Dyspnoea  
+	* Dyspnoea\
 	Due to LV failure, and typically occurs in late disease (as it represents a failure of LV compensation.)
 * Do not correlate well with anatomical severity
 
@@ -105,14 +105,14 @@ ECG:
 
 * Normal in ~20%
 * LAD
-* LVH  
-* AV block  
+* LVH\
+* AV block\
 Secondary to AV nodal calcium infiltration (extending from the aortic annulus).
 
 
 Echocardiography:
 
-* 2D exam  
+* 2D exam\
 Identifies thickening, impaired mobility, congenital abnormalities, and calcification of valve leaflets.
 
 ## Management
@@ -122,11 +122,11 @@ Identifies thickening, impaired mobility, congenital abnormalities, and calcific
 ### Anaesthetic Considerations
 
 * C
-	* Lesion assessment  
+	* Lesion assessment\
 	Preoperative TTE ideal to evaluate degree of stenosis and LV function.
 		* If unable to evaluate preoperatively, treat as if patient has at least moderate severity disease
 		* Impairment can be estimated by knowing that valve area reduces by ~0.1cm^2^/year
-	* **Defend perfusion pressure**  
+	* **Defend perfusion pressure**\
 		* Vasopressor infusions with aggressive use of boluses
 		* Use neuraxial techniques with caution
 	* Invasive arterial monitoring
@@ -141,9 +141,9 @@ Extensive cardiac remodelling, including:
 * LVH
 * LV diastolic dysfunction
 * LA dilation
-* MR  
+* MR\
 Due to annular dilatation.
-* PHTN  
+* PHTN\
 
 
 ## Prognosis
@@ -160,7 +160,7 @@ Asymptomatic severe AS:
 Symptomatic severe AS:
 
 * Very poor prognosis without AVR
-* Mortality rapidly ↑ once symptoms develop  
+* Mortality rapidly ↑ once symptoms develop\
 	* Mean survival 0.5-2.8 years after onset of cardiac failure
 	* Mean survival 0.8-3.8 years after onset of syncope
 	* Mean survival 2-4.7 years after onset of angina

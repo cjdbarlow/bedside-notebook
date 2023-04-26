@@ -5,7 +5,7 @@
 
 Acute spinal cord injury occurs commonly, and is frequently devastating. Management involves identifying and treating:
 
-* **Spinal shock**  
+* **Spinal shock**\
 Altered physiological state that:
 	* Occurs **immediately** after spinal cord injury
 	* May **last days to weeks**
@@ -14,16 +14,16 @@ Altered physiological state that:
 		* Hyporeflexia
 		* Anaesthesia
 		* Incontinence
-* **Neurogenic shock**  
+* **Neurogenic shock**\
 Distributive shock process due to loss of sympathetic tone:
 	* May occur within 30 minutes after injury
 	* May last up to 6 weeks
 	Features include:
-		* Hypotension  
+		* Hypotension\
 		Significant orthostatic hypotension.
 		* Bradycardia
 		* Hypothermia
-* **[Autonomic dysreflexia](/management/cns/autonomic-dysreflexia.md)**  
+* **[Autonomic dysreflexia](/management/cns/autonomic-dysreflexia.md)**\
 
 
 ## Epidemiology and Risk Factors
@@ -50,32 +50,32 @@ Spinal cord injury causing sympathectomy, leading to relative parasympathetic ov
 * A
 	* May have unstable c-spine or require immobilisation
 * B
-	* Multiple potential respiratory complications  
+	* Multiple potential respiratory complications\
 	Due to poor respiratory muscle function and immobility.
 		* Respiratory failure
 		* Atelectasis
-		* Bronchospasm  
+		* Bronchospasm\
 		If sympathectomy above T6.
-		* Pneumonia  
+		* Pneumonia\
 		Mucous plugging.
 		* PE
 * C
-	* Maintain spinal cord perfusion  
+	* Maintain spinal cord perfusion\
 		* **MAP 85-90mmHg**
 		* Avoid SBP ⩽90mmHg
 		* Usually resting SBP 60-80mmHg
-	* Neurogenic shock  
+	* Neurogenic shock\
 	Maintenance of blood pressure crucical to prevent ongoing secondary injury.
-		* HR  
+		* HR\
 		**Bradycardia may require atropine** or pacing; especially with **vagal response to intubation**.
 	* [Autonomic dysreflexia](/management/cns/autonomic-dysreflexia.md)
 * E
-	* Temperature control  
+	* Temperature control\
 	Vasodilation and excessive heat loss below the injury.
 	* **Pressure injury prevention**
 * F
-	* Electrolyte disorders  
-		* Hyponatraemia  
+	* Electrolyte disorders\
+		* Hyponatraemia\
 		Common, likely due to RAS dysfunction due to reduced renal sympathetic tone.
 	* Urinary retention
 * G
@@ -87,31 +87,31 @@ Spinal cord injury causing sympathectomy, leading to relative parasympathetic ov
 
 Principles:
 
-* MILS  
+* MILS\
 Reduces amount of c-spine movement during airway management. MILS:
 	* Involves:
 		* Stabilisation of the head by an assistant
-		* Assistant holds the mastoid processes and occiput steady  
+		* Assistant holds the mastoid processes and occiput steady\
 		May be done from from or back.
 	* ↑ the rate of failed airway management
-* Use of airway adjuncts  
+* Use of airway adjuncts\
 Use for mask ventilation to reduce:
 	* Requirement for c-spine movement
 	* Gastric insufflation
 * Avoid suxamethonium
 * Consider:
-	* Videolaryngoscopy  
+	* Videolaryngoscopy\
 	At a minimum for all patients with high-thoracic or c-spine injury.
-	* FOI  
+	* FOI\
 	Reduces amount of c-spine movement. May be performed awake or asleep.
 		* May be difficult due to blood/secretions
 		* Awake FOI
-			* Coughing and gagging may lead to spine movement  
+			* Coughing and gagging may lead to spine movement\
 			May occur either from topicalisation, or if topicalisation inadequate.
-			* Requires sedation  
+			* Requires sedation\
 			Limits post-intubation neurological assessment.
 		* Asleep FOI
-	* Not using cricoid pressure  
+	* Not using cricoid pressure\
 	May worsen injury.
 
 ### Anaesthetic Considerations
@@ -119,15 +119,15 @@ Use for mask ventilation to reduce:
 * A
 	* Difficult airway due to immobilisation
 * C
-	* Arterial line  
+	* Arterial line\
 	Required if high thoracic injury or above.
 	* Vasoactive support
 		* Consider vasopressor infusion during induction
 * E
-	**Suxamethonium** is **contraindicated 48-72 hours post-injury**  
+	**Suxamethonium** is **contraindicated 48-72 hours post-injury**\
 	Fatal hyperkalaemia may result due to up-regulation of ACh receptors.
 * G
-	* Aspiration risk  
+	* Aspiration risk\
 	High risk due to gastric dilation and ↓ emptying.
 
 ### Marginal and Ineffective Therapies

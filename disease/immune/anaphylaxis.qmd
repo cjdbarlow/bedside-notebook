@@ -14,8 +14,8 @@ Anaphylaxis is a potentially **life-threatening emergency**. It is an IgE mediat
 Immediate management follows a DRSABCD approach:
 
 * Danger
-	* Remove triggers  
-		* Chlorhexidine  
+	* Remove triggers\
+		* Chlorhexidine\
 		Including impregnated CVCs.
 		* Colloid
 		* Latex
@@ -24,7 +24,7 @@ Immediate management follows a DRSABCD approach:
 * Send for help
 	* Organise team
 * Airway
-	* Consider **early intubation**  
+	* Consider **early intubation**\
 	Early administration of adrenaline may avoid the need for intubation, however if airway oedema is present then early consideration of intubation is appropriate.
 * Respiratory
 	* Provide 100% oxygen
@@ -32,17 +32,17 @@ Immediate management follows a DRSABCD approach:
 	* Gain wide-bore IV access
 	* Commence rapid infusion of warm IV fluids
 	* Give **adrenaline**
-		* IM if no IV access or haemodynamic monitoring  
+		* IM if no IV access or haemodynamic monitoring\
 		Can consider IM dosing to provide a pseudo-infusion whilst establishing infusion.
 		* Otherwise IV
-		* If >3 IV boluses required, commence infusion:  
+		* If >3 IV boluses required, commence infusion:\
 		Peripheral infusion is acceptable in the short term prior to establishing CVC access.
-	* **Arterial line insertion**  
+	* **Arterial line insertion**\
 	Monitoring, titration, and blood sampling for tryptase.
-	* Consider **central line insertion**  
+	* Consider **central line insertion**\
 	If ongoing vasopressor requirement.
 * Disability
-	* Maintain anaesthesia  
+	* Maintain anaesthesia\
 	Consider processed EEG monitoring.
 
 
@@ -82,17 +82,17 @@ Epidemiology:
 
 Causes:
 
-* ~46% are antibiotic associated  
+* ~46% are antibiotic associated\
 Teicoplanin and amoxacillin-clavulanate have the highest risk.
 * ~33% are related to neuromuscular blocking drugs
 	* Suxamethonium: ~11/100,000
 	* Rocuronium: 6/100,000
 	* Atracurium: 4/100,000
-* ~10% chlorhexidine  
+* ~10% chlorhexidine\
 Typically presents more slowly, unless IV (i.e. chlorhexidine-impregnated CVC) source.
 	* ↑ incidence due to ↑ use
 	* An untested patient with a history of perioperative anaphylaxis should be managed as having chlorhexidine hypersensitivity
-* Patent Blue die  
+* Patent Blue die\
 Highest risk single therapy at ~15/100,000.
 	* May present with blue urticaria
 
@@ -127,16 +127,16 @@ Symptoms and signs of anaphylaxis:
 	* 83% present within 10 minutes
 	* 2% present *after* 60 minutes
 * Relate to involvement of different organ systems
-* Relate to the region of the body affected  
+* Relate to the region of the body affected\
 Typically tissues with high concentrations of mast cells.
-	* Skin  
+	* Skin\
 	Skin signs are uncommon in severe anaphylaxis due to lack of perfusion.
 		* Urticaria
 		* Erythema
 		* Angioedema
 		* Airway swelling
 	* Respiratory
-		* Bronchospasm  
+		* Bronchospasm\
 		Leading symptom in life-threatening reactions.
 			* Present in 50%
 			* First symptom in ~20%
@@ -146,12 +146,12 @@ Typically tissues with high concentrations of mast cells.
 		* Vomiting
 		* Diarrhoea
 	* CVS
-		* Hypotension  
+		* Hypotension\
 		Isolated severe hypotension was typically managed poorly in NAP6.
-		* Haemoconcentration  
+		* Haemoconcentration\
 		Due to interstitial oedema.
 			* 35-70% of circulating volume may extravasate in 10-15 minutes
-		* Cardiac arrest  
+		* Cardiac arrest\
 		PEA most common.
 
 
@@ -167,7 +167,7 @@ Prodromal symptoms:
 ### Presentation of Perioperative Anaphylaxis
 
 * Timing
-	* ~80% occurs within 10 minutes of drug administration  
+	* ~80% occurs within 10 minutes of drug administration\
 	Antibiotic-associated anaphylaxis typically occurs more rapidly and aggressively.
 	* ~2% occurs after 60 minutes
 * Features
@@ -175,7 +175,7 @@ Prodromal symptoms:
 		* Occurs in 50%
 		* First feature in ~20%
 		* Capnograph changes in ~30%
-	* Skin signs  
+	* Skin signs\
 	Uncommon in severe reactions.
 
 
@@ -188,23 +188,23 @@ Anaphylaxis is classified into four grades, based on severity:
 	* Does not require treatment with adrenaline
 	* Does require monitoring
 * **Grade 2 (Moderate)**
-	* Multi-organ manifestations  
+	* Multi-organ manifestations\
 	Typically:
 		* Bronchospasm
-		* Hypotension  
+		* Hypotension\
 		Perioperatively, consider **hypotension out of proportion to what would be expected** by the drugs given or the operative stage.
-		* Mucocutaneous signs  
+		* Mucocutaneous signs\
 		Typically allows differentiation from isolated bronchospasm or other causes of hypotension.
 * **Grade 3 (Life-threatening)**
 	* Life threatening
 		* Hypotension
 		* Elevated airway pressures
 	* Requires immediate treatment to avoid progression
-	* **Cutaneous signs** frequently **absent** due to poor cardiac output state  
+	* **Cutaneous signs** frequently **absent** due to poor cardiac output state\
 	May only appear following resuscitation.
 * **Grade 4 (Cardiac arrest)**
 	* Absence of palpable central pulse or grossly inadequate blood pressure
-	* Management follows a ALS protocol  
+	* Management follows a ALS protocol\
 	Consider more frequent use of adrenaline (Q1-2 minutely) and early initiation of vasopressors when initial therapy is inadequate.
 
 
@@ -256,7 +256,7 @@ Formal follow-up is important:
 
 #### Tryptase Testing
 
-* Tryptase is a protease enzyme stored in granules in mast cells and basophils  
+* Tryptase is a protease enzyme stored in granules in mast cells and basophils\
 Two subtypes:
 	* α-tryptase is secreted constitutively and found in health
 	* β-tryptase is released by mast cells in anaphylaxis, and may be raised in cutaneous mastocytosis
@@ -266,7 +266,7 @@ Two subtypes:
 	Magnitude of elevation is relevant, and is more likely to have an agent identified.
 	* Peak level usually within 15-120 minutes
 	* Declines over 3-6 hours
-* Should be measured at the 1 (as close as possible to onset), 4, and 24 hour mark  
+* Should be measured at the 1 (as close as possible to onset), 4, and 24 hour mark\
 	* 24 hour value gives a baseline level, which can then be used to identify whether there was substantial mast cell degranulation
 	* Samples require refrigeration if ⩾1 hour to laboratory
 
@@ -276,7 +276,7 @@ Two subtypes:
 * *In vitro* testing evaluating IgE response to specific agents
 	* Limited to IgE mediated reactions
 * Only available for a small number of agents:
-	* Suxamethonium  
+	* Suxamethonium\
 	Limited sensitivity.
 	* Penicillin
 	* Ampicillin
@@ -289,20 +289,20 @@ Two subtypes:
 
 * Gold standard
 * Most useful for:
-	* Neuromuscular blocking drugs  
+	* Neuromuscular blocking drugs\
 	Only method to determine cross-reactivity in NMBD-induced anaphylaxis.
 	* Latex
 	* β-lactam antibiotics
 * Requirements:
-	* Must be performed **6 weeks** after the event  
+	* Must be performed **6 weeks** after the event\
 	Ensure mast cell recovery has occurred.
 	* Several day cessation of:
 		* Antihistamines
 		* Psychotropic drugs
 * May involve either:
-	* **Skin prick testing**  
+	* **Skin prick testing**\
 	Agent is applied to the forearm, and then a needle prick made through the agent.
-	* **Intradermal testing**  
+	* **Intradermal testing**\
 	Injection of dilute agents *into* the dermis.*
 
 
@@ -311,9 +311,9 @@ Two subtypes:
 Principles of management include:
 
 * Human factors
-	* Team leader  
+	* Team leader\
 	Usually most senior person present.
-	* Card reader  
+	* Card reader\
 	Call out required actions of immediate management cards, and to communicate with the team leader.
 	* Giver of adrenaline
 * An ABC approach:
@@ -324,8 +324,8 @@ Principles of management include:
 	* B
 	* C
 		* Secure IV access
-		* **IV fluid**  
-			* Volume resuscitation  
+		* **IV fluid**\
+			* Volume resuscitation\
 			Reverses haemoconcentration due to interstitial oedema.
 			* Can consider colloid, provided colloid was not given prior to onset of anaphylaxis
 		* **Adrenaline**
@@ -348,12 +348,12 @@ Principles of management include:
 			* Intramuscular
 				* Appropriate when IV access is unavailable
 				* Reduces chance of severe CVS side effects
-				* Provides 'depot' for continued release  
+				* Provides 'depot' for continued release\
 				Up to 40 minutes.
 			* Intravenous
 				* Appropriate in severe anaphylaxis
 				* May be repeated every 1-2 minutes, as required
-		* **Glucagon**  
+		* **Glucagon**\
 		Recommended in patients on β-blockers.
 			* 1-2mg IV Q5M
 	* E
@@ -362,12 +362,12 @@ Principles of management include:
 * Cease administration of triggers
 	* Drug infusions
 	* Colloids
-	* Chlorhexidine  
+	* Chlorhexidine\
 	Remove chlorhexidine-impregnated CVC, IDC, and lubricants.
 	* Latex
 
 
-### Intraoperative Adrenaline Dosing  
+### Intraoperative Adrenaline Dosing\
 
 Management reflects the nature of operative anaphylaxis, namely:
 
@@ -417,7 +417,7 @@ For bronchospasm, consider:
 	* Salbutamol
 		* 1200μg (12 puffs) via MDI
 		* 100-200μg IV, +/- infusion at 5-25μg/min
-	* Magnesium  
+	* Magnesium\
 	2g over 20 minutes.
 	* Inhalational anaesthetics
 	* Ketamine
@@ -431,15 +431,15 @@ Measure tryptase:
 
 Consider:
 
-* Steroids  
+* Steroids\
 No evidence that use of corticosteroids affects outcome.
 	* May be reasonable as part of secondary management in a stable patient
 	* May have a role in reducing rebound
 	* Dexamethasone 0.1-0.4mg/kg, up to 12mg
 	* Hydrocortisone 2-4mg/kg, up to 200mg
-* Antihistamines  
+* Antihistamines\
 	* No role in acute phase
-	* May be used for symptomatic management of urticaria, angioedema, and pruritus  
+	* May be used for symptomatic management of urticaria, angioedema, and pruritus\
 	Appropriate in mild anaphylaxis.
 	* No effect on hypotension and bronchospasm
 	* Oral agents have a preferred side-effect profile compared to IV
@@ -447,7 +447,7 @@ No evidence that use of corticosteroids affects outcome.
 
 ### Marginal and Ineffective Therapies
 
-* Sugammadex  
+* Sugammadex\
 Has no role in the management of rocuronium anaphylaxis.
 
 
@@ -455,9 +455,9 @@ Has no role in the management of rocuronium anaphylaxis.
 
 ## Complications
 
-* Cardiac arrest  
+* Cardiac arrest\
 Bradycardic/PEA arrest is most common.
-* Death  
+* Death\
 Associated with:
 	* Age
 	* Obesity

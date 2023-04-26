@@ -14,7 +14,7 @@ DMD:
 
 Genetic absence of the gene coding for the dystrophin protein, which:
 
-* Prevents dystrophin expression in muscle sarcolemma  
+* Prevents dystrophin expression in muscle sarcolemma\
 Subsequent weakness.
 * Muscle fibres are poorly tethered due to sarcolemma weakness
 * Muscle fibres are gradually replaced with fibrous connective tissue
@@ -47,7 +47,7 @@ Include:
 * Contractures
 * Scoliosis
 	* Restrictive lung disease
-* Cardiomyopathies  
+* Cardiomyopathies\
 DCM in 50% of children by age 12.
 
 ## Prognosis
