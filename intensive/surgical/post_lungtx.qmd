@@ -1,0 +1,236 @@
+# Post Lung Transplant
+
+Key considerations:
+
+* Lungs
+* Ventricular function
+* Underlying disease
+* Analgesia
+* Immunosuppression
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+Donor lungs:
+
+* Denervated below the bronchial anastomosis
+	* Loss of normal cough reflex
+	* ↓ Mucociliary clearance
+
+
+### Aetiology
+
+## Clinical Manifestations
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+Bedside:
+
+Laboratory:
+
+Imaging:
+
+Other:
+
+## Management
+
+:::info
+Principles:
+
+* Optimise lung function
+	* Rapid respiratory wean
+	* Minimise fluid administration
+	* Chest physiotherapy
+	* Analgesia
+* Close coordination with transplant service
+:::
+
+**Resuscitation**:\
+
+ABC approach. Comment on team coordination and clinical priorities.
+**Specific therapy**:
+
+* Pharmacological
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+* Death
+* B
+	* PGD
+	* Acute Rejection
+	* Pneumonia
+	* Bronchial ischaemia
+		* Stenosis
+			* Bronchomalacia
+			* Dehiscence
+	* Chronic Rejection
+* C
+	* PRES\
+	Calcineurin-inhibitor toxicity.
+* D
+	* Delirium
+		* Steroids
+		* Calcineurin-inhibitor toxicity
+* F
+	* CKD
+		* Calcineurin-inhibitor toxicity
+	* Haemolytic uraemic syndrome
+* G
+	* Distal intestinal obstruction syndrome
+		* CF patients
+* I
+	* Sepsis
+
+:::column-margin
+Differential **diagnosis** of **respiratory failure after 72 hours** must be include **infection** or **rejection**.
+:::
+
+### Primary Graft Dysfunction
+
+Non-immune mediated respiratory failure that develops **within 72 hours** of transplantation and:
+
+:::column-margin
++-------+-----------+-------------+
+| Grade | P:F Ratio | Infiltrates |
++=======+===========+=============+
+| 0     | \>300     | No          |
++-------+-----------+-------------+
+| 1     | \>300     | No          |
++-------+-----------+-------------+
+| 2     | 200-300   | Yes         |
++-------+-----------+-------------+
+| 3     | <200      | Yes         |
++-------+-----------+-------------+
+
+: Grading of Primary Graft Dysfunction
+:::
+
+* Does not have an alternative dianogis
+* Consists of:
+	* Worsening **gas exchange**
+	* **↓ Lung compliance**
+	* Radiological **infiltrates**
+		* Alveolar and interstitial
+		* Most extensive in **perihilar** areas
+* Is managed as ARDS
+	* Lung protective ventilation
+	* ECMO may be considered for lung rest
+
++-----------------------+--------------------------+--------------------------+
+| Donor                 | Recipient                | Procedural               |
++=======================+==========================+==========================+
+| * Age >60             | * Age >60                | * Single lung transplant |
+| * Smoking >20 p/y     | * Ventilated             | * CPB used               |
+| * Pneumonia           | * Pulmonary fibrosis     |                          |
+| * Purulent secretions | * Pulmonary hypertension |                          |
+| * PGD of other organs |                          |                          |
++-----------------------+--------------------------+--------------------------+
+
+: Risk factors for Primary Graft Dysfunction
+
+### Acute Rejection
+
+Acute rejection:
+
+:::column-margin
+Hyperacute rejection is a form of humoral rejection that occurs:
+
+* Within 24 hours of transplantation
+* In patients with pre-formed HLA antibodies\
+Rare with appropriate screening.
+:::
+
+* Generally anti-body mediated
+* Generally non-specific and similar to infection:
+	* Respiratory
+		* Dyspnoea
+		* Cough
+		* ↑ Sputum production
+		* ↓ FEV~1~
+		* Alveolar infiltrates
+	* Systemic
+		* Fever
+* May lead to severe graft dysfunction and ARDS
+* Confirmed with lung biopsy
+* Treated with pulsed steroids
+
+
+### Bronchial Ischaemia
+
+Ischaemia of the bronchial anastomoses is common, although significant complications are rare. Complications can include:
+
+:::column-margin
+The bronchial arteries supply the conducting zone of the lung and are not anastomosed during a transplant, and so the anastomoses are vulnerable until angiogenesis has occurred.
+:::
+
+* Bronchial stenosis
+	* Balloon bronchioplasty
+* Bronchomalacia
+	* Stenting
+* Bronchial dehiscence
+	* Persistent air leak
+	* Mediastinitis
+
+
+### Chronic Rejection
+
+:::info
+Also known as bronchiolitis obliterans syndrome.
+:::
+
+Chronic rejection is a:
+
+* Sustained ↓ in FEV~1~ by ⩾20%
+* Major determinant in long-term survival
+
+Management strategies include:
+
+* Re-transplantation\
+Only "cure".
+* Rotation of immunosuppression\
+Not well evidenced.
+
+## Prognosis
+
+* Death\
+Survival following lung transplant is improving, although not as good as other solid organ transplants. Survival is generally:
+	* 1-year: 80%
+	* 5-year: 54%
+	* 10-year: 32%
+* B
+	* Chronic rejection
+		* 5-10 years: 60-80%
+* I
+	* Malignancy\
+	3-4x baseline risk.
+
+
+:::column-margin
+Improvement in survival is generally due to ↓ early death, generally due to infection or rejection.
+:::
+
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

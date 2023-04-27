@@ -42,7 +42,7 @@ All patients near to the end of life should be referred for consideration of org
 **Suitability** for organ donation **is**:
 
 * **Highly dynamic**\
-Varies with recipient/waiting list requirements. 
+Varies with recipient/waiting list requirements; i.e. an otherwise ineligible donor may be accepted when an appropriate recipient is *in extremis*.
 * **Without fixed criteria**\
 Diseases commonly (but not exclusively) considered contraindications include:
 	* Malignancy
@@ -51,6 +51,37 @@ Diseases commonly (but not exclusively) considered contraindications include:
 		* Hepatitis
 		* HIV
 
+
+### Lung Donation
+
++--------------+--------------------------------+
+| Parameter    | Criterion                      |
++==============+================================+
+| Age          | <60                            |
++--------------+--------------------------------+
+| Smoking      | <20 pack-years                 |
++--------------+--------------------------------+
+| Chest trauma | Nil                            |
++--------------+--------------------------------+
+| Aspiration   | Nil                            |
++--------------+--------------------------------+
+| ABG          | PaO~2~ >300mmHg on 100% oxygen |
++--------------+--------------------------------+
+| Sputum       | Nil                            |
++--------------+--------------------------------+
+| Bronchoscopy | Clear or minimal secretions    |
++--------------+--------------------------------+
+
+: Standard Donor Lung Criteria
+
+Lung preservation techniques:
+
+* Pneumoplegia
+	* Cold colloid solution is administered into the PA and PV
+	* Flushes out clot
+* Ex-vivo lung perfusion
+	* ↑ Ischaemic time
+	* May improve function of otherwise marginal organs
 
 ## Death
 
@@ -182,3 +213,4 @@ The donor will "look dead: afterwards; donors generally look the same on transfe
 ## References
 
 1. ANZICS. [The Statement on Death and Organ Donation](https://www.anzics.com.au/wp-content/uploads/2022/04/ANZICS-Statement-on-Death-and-Organ-Donation.pdf). Edition 4.1. 2021.
+2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

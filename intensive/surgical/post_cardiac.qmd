@@ -16,7 +16,7 @@ Reception of the post-cardiac surgical patient includes:
 
 ### Handover
 
-Important informatin for the cardiac admission:
+Important information for the cardiac admission:
 
 * Patient factors
 	* Age
@@ -162,7 +162,7 @@ Specific post-operative considerations for different procedures are under the re
 * E
 	* Warming\
 	Should be rewarmed to >36°C. This:
-		* Reduces arrythmia
+		* Reduces arrhythmia
 		* ↓ SVR and myocardial work
 		* Improves coagulopathy
 * F

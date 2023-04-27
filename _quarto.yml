@@ -451,6 +451,7 @@ book:
         - part: "Thoracic"
           chapters:
           - anaesthesia/thoracic/principles.qmd
+          - anaesthesia/thoracic/lung_tx.qmd
           - anaesthesia/thoracic/mediastinal_mass.qmd
           - anaesthesia/thoracic/vats.qmd
           - anaesthesia/thoracic/lvrs.qmd
@@ -498,8 +499,9 @@ book:
         # FASTHUGS
         # Stress response
         - part: "Surgical"
-          chapters:
+          chapters:   
             - intensive/surgical/post_cardiac.qmd
+            - intensive/surgical/post_lungtx.qmd
             # Post op thoracic
             # Post op neuro
             # Transplants

@@ -1,0 +1,64 @@
+# Lung Transplant
+
+:::gas
+**Airway**: 
+**Access**: 
+**Pain**: 
+**Position**:
+**Time**: 
+**Blood loss**:
+**Special**:
+:::
+
+Transplant of either one or both lungs for advanced non-malignant lung disease. Lung transplant can be performed:
+
+* Off-bypass
+* On VA ECMO
+* Off VA ECMO
+
+:::column-margin
+Bilateral transplant makes up ~75% of all transplants.\
+\
+Single lung transplant is not appropriate for suppurative lung disease but can be performed for:
+
+* COPD\
+**Not** α~1~-antitrypsin related.
+* Pulmonary fibrosis
+:::
+
+## Surgical Stages
+
+:::column-margin
+Historically performed as a single en-bloc transplant, but high incidence of tracheal anastomotic failure has led to development of the bilateral sequential single lung transplant technique, where each lung is transplanted in turn.
+:::
+
+## Preoperative
+
+**Assessment:**
+**Consultation:**
+**Optimisation:**
+**Premedication:**
+**Explain/Consent:**
+
+## Intraoperative
+
+**Preparation:**
+**Induction:**
+**Maintenance:**
+**Echocardiography:**
+**Emergence:**
+
+## Postoperative
+
+**Disposition:**
+**Referrals/Review:**
+**Analgesia:**
+**Fluids:**
+**Thromboprophylaxis:**
+**Specific:**
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
