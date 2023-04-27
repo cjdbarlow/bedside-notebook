@@ -526,14 +526,19 @@ book:
           - disease/resp/massive_haemoptysis.qmd
           # Tracheomalacia
           # Tracheal stenosis
+          # Epiglottitis
         - part: "Lower Airway"
           chapters:
           - disease/resp/asthma.qmd
           - disease/resp/coad.qmd 
           - disease/resp/bronchopleural.qmd
+          # Bronchitis
         - part: "Parenchyma"
           chapters:
           - disease/resp/ards.qmd
+          - disease/infective/cap.qmd
+          - disease/infective/hap.qmd
+          - disease/infective/pjp.qmd
             # ILD
             # Aspiration pneumonitis
         # - part: "Lower Airway"
@@ -613,6 +618,12 @@ book:
             - disease/neuro/delirium.qmd
             - disease/neuro/abd.qmd
             # Toxic encephalopathy
+        - part: "Infective"
+          chapters:            
+            - disease/infective/meningitis.qmd
+            - disease/infective/encephalitis.qmd
+            - disease/infective/brain_abscess.qmd
+            - disease/infective/myelitis.qmd
         - part: "Cortical/Subcortical"
           chapters:
             - disease/neuro/seizure.qmd
@@ -715,7 +726,9 @@ book:
             - disease/git/alf.qmd
             - disease/git/cld.qmd
             - disease/git/aclf.qmd
+            - disease/infective/sbp.qmd
             # Portal HTN
+            # Hepatitis
         - part: "Biliary"
           chapters:
             - disease/git/acute_panc.qmd
@@ -729,6 +742,8 @@ book:
               # Oesophageal
               # Obstruction
               # Pseudoobstruction
+              # Colitis
+              # Peritonitis
         # - part: "Immune"
         #   chapters:
               # IBD
@@ -806,36 +821,24 @@ book:
       - part: "Infection"
         chapters:
         - part: "Systemic"
-          chapters:
+          chapters:          
             - disease/infective/sepsis.qmd
+            - disease/infective/necfas.qmd
+        - part: "Viral"
+          chapters:
             - disease/infective/hiv.qmd
+        - part: "Bacterial"
+          chapters:
+            - disease/infective/tb.qmd
+        - part: "Fungal"
+          chapters:
+            - disease/infective/candida.qmd
+            - disease/infective/aspergillosis.qmd
+        - part: "Toxin"
+          chapters:
             - disease/infective/tetanus.qmd
             # TSS
             # Botulism
-        - part: "Respiratory"
-          chapters:
-            - disease/infective/cap.qmd
-            - disease/infective/hap.qmd
-            - disease/infective/aspergillosis.qmd
-            - disease/infective/pjp.qmd  
-            - disease/infective/tb.qmd
-            # Epiglottitis
-            # Bronchitis
-        - part: "CNS"
-          chapters:
-            - disease/infective/meningitis.qmd
-            - disease/infective/encephalitis.qmd
-            - disease/infective/brain_abscess.qmd
-            - disease/infective/myelitis.qmd
-        - part: "GIT"
-          chapters:
-            - disease/infective/sbp.qmd
-            # Hepatitis
-            # Colitis
-            # Peritonitis
-        - part: "Musculoskeletal"
-          chapters:
-            - disease/infective/necfas.qmd
         # Toxins
       - part: "Toxin and Environmental"
         chapters:

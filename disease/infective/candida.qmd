@@ -1,0 +1,153 @@
+# Candidiasis
+
+Systemic candidal infections are common in the immunocompromised and intensive care patients. Differentiating invasive candidiasis from culture of a normal commensal requires any of:
+
+:::column-margin
+Candidal infections also include the more pedestrian mucous membrane infections of the systemically well, which are caused by local overgrowth of yeast and respond well to topical treatment.\
+\
+These are not covered here.
+:::
+
+* Culture from a sterile site
+	* Blood\
+	⩾2 non-contiguous sites.
+* Culture from wound or burn site
+* Cultured species is non-commensal
+
+
+## Epidemiology and Risk Factors
+
+Risk factors:
+
+* ICU admission
+	* Immunocompromise
+		* Transplant
+		* Haematological malignancy
+		* Diabetes
+* For non-*Albicans*
+	* **TPN**
+	* Central access
+	* Antimicrobial exposure:
+		* Broad spectrum antibiotics
+		* Fluconazole
+	* Malignancy
+	* Renal failure
+
+## Pathophysiology
+
+Candida is:
+
+* A genus of yeasts\
+Over 100 different species, ~20 of which are pathogens.
+* Part of the normal skin and gut flora
+
+
+
+### Aetiology
+
+Causes have been classically divided on epidemiological and fluconazole-sensitive grounds into:
+
+:::column-margin
+The ongoing utility of this classification is questionable as the non-Albicans infections have become increasingly common, and *albicans* has become increasingly resistant to fluconazole.
+::: 
+
+* *C. Albicans*\
+~50% of all infections.
+* Non-Albicans infections\
+All the rest:
+	* ***C. Auris***\
+	Multi-drug resistant form.
+	* *C. glabrata*
+	* *C. krusei*
+	* *C. parapsilosis*
+	* *C. dubliniensis*
+	* *C. tropicalis*
+
+
+## Clinical Manifestations
+
+Features are non-specific and include:
+
+* Fever\
+Generally unreliable, though may be high with hepatosplenic abscesses.
+* Sepsis\
+Non-responsive to other antimicrobial therapy.
+
+## Diagnostic Approach and DDx
+
+
+## Investigations
+
+Bedside:
+
+Laboratory:
+
+* Blood
+	* Blood cultures
+* Sputum
+	* Bronchoalveolar lavage
+* Other fluid culture
+
+Imaging:
+
+Other:
+
+## Management
+
+**Specific therapy**:
+
+* Pharmacological
+	* **Antifungal**
+		* **Echinocandin** as initial therapy
+		* Fluconazole as step-down therapy\
+		If sensitivity is proven.
+	* ↓ Immunosuppressants
+* Procedural
+	* Source control
+	* Remove lines and devices
+
+
+**Supportive care**:
+
+* G
+	* Adequate nutrition
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+Disseminated Candida causes a large number of organ-specific complications:
+
+* B
+	* Pulmonary candidiasis\
+	Cavitating lung lesions.
+* C
+	* Endocarditis
+		* Very high mortality
+* D
+	* Endophthalmitis\
+	3-15 days following infection.
+* E
+	* Candidal joint infections
+	* Skin lesions
+	* Muscle abscesses
+* G
+	* Hepatic abscess
+* H
+	* Splenic abscess
+
+## Prognosis
+
+Mortality in the ICU patient is up to 50%.
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Chow JK, Golan Y, Ruthazer R, Karchmer AW, Carmeli Y, Lichtenberg D, et al. [Factors Associated with Candidemia Caused by Non-albicans Candida Species Versus Candida albicans in the Intensive Care Unit. Clinical Infectious Diseases](https://academic.oup.com/cid/article/46/8/1206/361259?login=false). 2008 Apr 15;46(8):1206–13. 
