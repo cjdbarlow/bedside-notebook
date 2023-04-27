@@ -2604,25 +2604,11 @@
     "text": "References"
   },
   {
-    "objectID": "management/infective/antifungals.html#indications",
-    "href": "management/infective/antifungals.html#indications",
-    "title": "Antifungals",
-    "section": "Indications",
-    "text": "Indications"
-  },
-  {
     "objectID": "management/infective/antifungals.html#drugs",
     "href": "management/infective/antifungals.html#drugs",
     "title": "Antifungals",
     "section": "Drugs",
-    "text": "Drugs"
-  },
-  {
-    "objectID": "management/infective/antifungals.html#dose-adjustment",
-    "href": "management/infective/antifungals.html#dose-adjustment",
-    "title": "Antifungals",
-    "section": "Dose Adjustment",
-    "text": "Dose Adjustment"
+    "text": "Drugs\n\nComparison of Azoles\n\n\n\n\n\n\n\nDrug\nFluconazole\nVoriconazole\n\n\n\n\nIndications\n\nYeasts\nCovers most Candida species.\nExcludes C. glabrata and C. Krusei\n\n\nInvasive Aspergillosis\nFluconazole-resistant Candida\nEndemic fungi\nCoccidiomycosis, histoplasmosis, blastomycosis.\n\n\n\nDosing\n\nSystemic\n800mg IV load, 200mg IV BD\nEsophageal\n200mg IV load, 50mg IV BD.\n\n\nAspergillus\n6mg/kg IV load (BD), then 4mg/kg BD thereafter.\n\n\n\nKey pharmacology\n\nRenal elimination unchanged\nDose ↓ 50% if GFR &lt;50mL/min\nDose ↑ in CRRT\nUsual renal tubular reabsorption does not occur.\nExtensive CYP interactions\ne.g. Tacrolimus, warfarin, phenytoin.\n\n\nIV contraindicated if GFR &lt;50mL/min\nPO dosing safe and unchanged.\nDose ↓ 50% in hepatic dysfunction\nExtensive CYP interactions\n\n\n\nToxicity\n\n↑ QTc\nHepatitis\n\n\nNeurotoxicity\nDelirium, myoclonus.\nNephrotoxicity\nIV only.\n↑ QTc\nPsychosis\n\n\n\nOther\n\nNo evidence for surgical prophylaxis\n\n\n\n\n\n\nComparison of Other Antifungals\n\n\n\n\n\n\n\nDrug\nEchinocandins\nLiposomal Amphotericin\n\n\n\n\nIndications\n\nCandida\nResistance is rare; may occur with C. parapsilosis, C. glabrata, and C. guilliermondii.\nAspergillus\nNot as monotherapy; synergistic with voriconazole.\n\n\nCryptococcus Neoformans\nDimorphic fungi\nMolds\nOtherwise resistant fungi\n\n\n\nDosing\n\nCaspofungin\n70mg IV load, then 50mg IV daily.\nAnidulafungin\n200mg IV load, then 100mg IV daily.\nMicafungin\n100-150mg IV daily.\n\n\n3-5mg/kg IV Q24H\n\n\n\nKey pharmacology\n\nVery highly protein bound\nNo renal or hepatic dose reduction required\n\n\nNo hepatic impact\nMajor role in treating fungal infections in hepatic failure.\nContraindicated in renal failure\n\n\n\nToxicity\n\nAvoid in acute hepatic failure\nResults in deranged LFTs, confounding monitoring.\n\n\nInfusion reactions\nAtopic/immune symptoms.\nAKI\nRTA\n\n\n\n\n\n\nLiposomal amphotericin has replaced other more toxic amphotericin preparations."
   },
   {
     "objectID": "management/infective/antifungals.html#references",
@@ -9450,6 +9436,223 @@
     "text": "References"
   },
   {
+    "objectID": "disease/infective/cap.html#epidemiology-and-risk-factors",
+    "href": "disease/infective/cap.html#epidemiology-and-risk-factors",
+    "title": "Community Acquired Pneumonia",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors\nCAP has an annual incidence of up to 4% of the population:\n\n50% require hospital admission\n\nMortality 10% among the hospitalised group\n\n10% require ICU admission"
+  },
+  {
+    "objectID": "disease/infective/cap.html#pathophysiology",
+    "href": "disease/infective/cap.html#pathophysiology",
+    "title": "Community Acquired Pneumonia",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\n\nAetiology\nThere are vast numbers of potentially causative organisms, however the most common in patients requiring ICU admission are:\n\nViral\n25%, most commonly:\n\nRSV\nInfluenza\n\nS. Pneumoniae\nH. Influenzae\nLegionella spp.\nEnterobacteriaceae spp.\nS. aureus\nPsuedomonas spp.\n\nFactors favouring infection with certain organisms include:\n\nExposures\n\nAnimal\n\nAnimal exposures\nBirds and excreta\nParturient pets or farm animals\nInsect bites\nMice and excreta\nBats and excreta\n\nGeographical factors\n\nTB prevalence\nLocally endemic organisms\n\n\nPatient factors\n\nIVDU\nAlcoholism\nRespiratory disease\n\nCOPD\nCF\nBronchiectasis\n\nOther disease\n\nDiabetes\nSickle cell\nPoor dental hygeine\n\nImmunosuppression\n\n\nDisease factors\n\nSputum smell\nLung abscesses\nEmpyema"
+  },
+  {
+    "objectID": "disease/infective/cap.html#clinical-manifestations",
+    "href": "disease/infective/cap.html#clinical-manifestations",
+    "title": "Community Acquired Pneumonia",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations\nMay be either:\n\nSystemic\n\nFever\nSweats\nRigors\n\nRespiratory\n\nProductive cough\nPleural rub\nInspiratory crepitations"
+  },
+  {
+    "objectID": "disease/infective/cap.html#diagnostic-approach-and-ddx",
+    "href": "disease/infective/cap.html#diagnostic-approach-and-ddx",
+    "title": "Community Acquired Pneumonia",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx\nAssessment of severity:\n\nDetermines disposition (home, inpatient, intensive care)\nCan be performed with the SMART COP score\n\n⩾4 has 1/3 chance of requiring vasoactive or respiratory support\nConsists of:\n\nSBP &lt;90\nMultilobar infiltrate\nAlbumin &lt;35g/L\nRR:\n\n&gt;30 if age &gt;50\n&gt;25 if age &gt;25\n\nTachycardia &gt;125\nConfusion\nOxygen saturation &lt;93%\npH &lt;7.35"
+  },
+  {
+    "objectID": "disease/infective/cap.html#investigations",
+    "href": "disease/infective/cap.html#investigations",
+    "title": "Community Acquired Pneumonia",
+    "section": "Investigations",
+    "text": "Investigations\nBloods:\n\nFBE\nUEC\nLFT\nBlood cultures (x2-3)\nCRP\n↑ Benefit from steroids seen with ↑ CRP.\nHIV status\n\nSputum:\n\n\nAnaerobic culture cannot be performed on sputum due to contamination from other upper respiratory organisms.\n\nTests include:\n\nGram stain\nCulture\nMycoplasma pneumoniae PCR\nChlamydophilia PCR\n\nCollection is ideally:\n\nFrom a deep cough\nTo minimise contamination from upper respiratory tract commensals.\nPrior to antibiotics\n\nRapid transport to laboratory ↑ chance of detecting fastidious organisms\nCausative organism is likely if:\n\nDominant on gram stain\nHeavy growth on culture\n\n\nUrine:\n\nLegionella antigen\nHighly specific but not sensitive for infection; negative test does not exclude disease.\nPneumococcal antigen\nHighly specific and moderately sensitive.\n\nRadiology:\n\nCXR\nRadiographic infiltrates may be absent in up to 25%.\nCT\nMore sensitive than CXR.\nLung ultrasound"
+  },
+  {
+    "objectID": "disease/infective/cap.html#management",
+    "href": "disease/infective/cap.html#management",
+    "title": "Community Acquired Pneumonia",
+    "section": "Management",
+    "text": "Management\n\nUp to 40% of patients have a polymicrobial infection, so narrowing the spectrum of cover following identification of an organism may result in adequate treatment.\n\nResuscitation:\n\n\nA\nB\n\nSupplemental oxygen\n\n\nSpecific therapy:\n\nPharmacological\n\nAntimicrobial therapy\n\nNon-tropical\n\nMild:\n5-7 days of:\n\nAmoxicillin 1g PO TDS\nClarithromycin 250mg PO BD\n\nModerate:\n7-10 days of:\n\nBenzylpenicillin 1.2g IV QID and doxycycline 100mg PO BD\nCeftriaxone 1g IV daily and doxycycline 100mg PO BD\n\nSevere:\n7-10 days of:\n\nBenzylpenicillin 1.2g IV Q4H and gentamicin\nCeftriaxone 1g IV daily and azithromycin 500mg IV daily\n\n\nTropical\nTo cover Burkholderia pseudomallei and Acinetobacter baumannii:\n\nMeropenem 1g IV TDS and azithromycin 500mg IV daily\n\n\nHydrocortisone\n\nPossible mortality benefit\nSuggest 200mg/day\nUnless contraindicated\n\nChronic infection\nImmunocompromised\nPoorly controlled diabetes\nPregnancy\n\n\n\nProcedural\nPhysical\n\n\n\nAntimicrobial therapy is often unit or region-specific based on local flora and resistance patterns.\nSupportive care:\nDisposition:\n\nICU or HDU for severe disease\n\n\nMarginal and Ineffective Therapies\n\nCorticosteroids\nRoutine use not recommended, may be appropriate with concurrent sepsis."
+  },
+  {
+    "objectID": "disease/infective/cap.html#complications",
+    "href": "disease/infective/cap.html#complications",
+    "title": "Community Acquired Pneumonia",
+    "section": "Complications",
+    "text": "Complications\n\nParapneumonic effusion\n\nUncomplicated effusions resolve with resolution of the underlying infection\nComplex effusions:\n\nDevelop 1-2 weeks after the initial fluid collection\nMay occur with persistent fevers and have organisms on Gram stain\nEssentially empyema-lite.\n\n\nEmpyema\nCollection of pus in the pleural space, usually evolving from a parapneumonic effusion. Antibiotics are adjunctive, and these require drainage either:\n\nPercutaneous\nFirst-line therapy, but difficult to effectively drain extensively loculated collections.\nSurgical\nOpen or VATS drainage is the most effetive tool."
+  },
+  {
+    "objectID": "disease/infective/cap.html#prognosis",
+    "href": "disease/infective/cap.html#prognosis",
+    "title": "Community Acquired Pneumonia",
+    "section": "Prognosis",
+    "text": "Prognosis\nTime until improvement varies:\n\nAverage ~3 days\n7 days in the:\n\nElderly\nBacteraemic\n\n2.5 days in young patients with pneumococcal pneumonia"
+  },
+  {
+    "objectID": "disease/infective/cap.html#key-studies",
+    "href": "disease/infective/cap.html#key-studies",
+    "title": "Community Acquired Pneumonia",
+    "section": "Key Studies",
+    "text": "Key Studies\n\nCAPE COD\n\n800 French ICU patients with severe CAP\n\nWithout septic shock\nWithout features suggesting other causes of pneumonia mimics\n\n200mg hydrocortisone infusion vs. placebo\nSignificant:\n\n↓ Mortality in treatment group (6.2% vs. 11.9%)\n↑ Insulin use in treatment group\n\nStopped early due to COVID and significance on interim analysis"
+  },
+  {
+    "objectID": "disease/infective/cap.html#references",
+    "href": "disease/infective/cap.html#references",
+    "title": "Community Acquired Pneumonia",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.\nDequin PF, Meziani F, Quenot JP, et al. Hydrocortisone in Severe Community-Acquired Pneumonia. N Engl J Med. Published online March 21, 2023:NEJMoa2215145."
+  },
+  {
+    "objectID": "disease/infective/hap.html#epidemiology-and-risk-factors",
+    "href": "disease/infective/hap.html#epidemiology-and-risk-factors",
+    "title": "Hospital/Ventilator Acquired Pneumonia",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors\nHAP:\n\nOccurs in 0.5-5% of inpatients\nRisk is ↑ if:\n\nPost-operative\nIn ICU"
+  },
+  {
+    "objectID": "disease/infective/hap.html#pathophysiology",
+    "href": "disease/infective/hap.html#pathophysiology",
+    "title": "Hospital/Ventilator Acquired Pneumonia",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\nMicroaspiration of organisms colonising the upper respiratory tract.\n\nAetiology"
+  },
+  {
+    "objectID": "disease/infective/hap.html#clinical-manifestations",
+    "href": "disease/infective/hap.html#clinical-manifestations",
+    "title": "Hospital/Ventilator Acquired Pneumonia",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations"
+  },
+  {
+    "objectID": "disease/infective/hap.html#diagnostic-approach-and-ddx",
+    "href": "disease/infective/hap.html#diagnostic-approach-and-ddx",
+    "title": "Hospital/Ventilator Acquired Pneumonia",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
+  },
+  {
+    "objectID": "disease/infective/hap.html#investigations",
+    "href": "disease/infective/hap.html#investigations",
+    "title": "Hospital/Ventilator Acquired Pneumonia",
+    "section": "Investigations",
+    "text": "Investigations\nBlood:\n\nFBE\nWCC may ↑ or ↓.\nProcalcitonin\nMay have a role in timing deescalation of antibiotics.\nBlood cultures\n\nSputum:\n\nMore complex in the intubated patient\nOptions include:\n\nTracheal aspirate\nIdentify potentially causative organisms but is not quantitative.\nBronchial washings\nBronchoalveolar Lavage\n\n\nRadiology:\n\nCXR\n\n\nInfiltrates required for diagnosis is many guidelines\nAppearance usually worsens in initial period, even with institution of appropriate antibiotics\nFeatures of concern are:\n\nCavitation\nPleural effusion\n\nRadiographic improvement lags behind clinical response"
+  },
+  {
+    "objectID": "disease/infective/hap.html#management",
+    "href": "disease/infective/hap.html#management",
+    "title": "Hospital/Ventilator Acquired Pneumonia",
+    "section": "Management",
+    "text": "Management\nResuscitation:\n\n\nA\n\nIntubation may be required\n\nB\n\nSupplemental oxygen\n\nC\n\nHaemodynamic support if concurrent sepsis\n\n\nSpecific therapy:\n\n\nRisk factors for MDR include:\n\nDisease\n\nImmunosuppression\nBronchiectasis\nSeptic shock\nARDS\n\nTreatment\n\nPrior IV ABx in previous 90 days\nHospitalisation &gt;5 days\nRRT\n\nEnvironmental\n\nHigh local MDR burden\n\n\n\nAntimicrobial therapy\n\n\n7 day course recommended to reduce subsequent MDR pneumonias.\n2-3 days until clinical response seen is usual\nIf failing to respond, consider:\n\nWrong bug\nRepeat cultures.\nWrong drug\nEnsure sensitivity of organism to the antibiotic beingused.\nWrong dose\nAppropriate for patient weight.\nSequestration\nAbscess cavity or similar\nPatient factors\n\nImmunosuppression\nFrailty\n\n\nNo MDR risk factors\nConsider:\n\nTazocin 4.5g Q6-8H\nCefepime 2g Q8H\nMeropenem 1g Q8H\n\nMDR risk factors\nConsider one of each of:\n\nAntipseudomonal broad spectrum agent\nAs above.\nAdditional gram negative cover\n↓ Risk that pathogen is resistant to the primary agent.\n\nAminoglycoside 15-20mg Q24H\nCiprofloxacin 400mg Q8H\nLevofloxacin 750mg Q24H\n\nMRSA cover:\n\nLinezolid 600mg Q12H\nVancomycin\n\n\n\n\n\nPrevention:\n\nA\n\nNurse 30° head up to ↓ risk of microaspiration\nOral care Q4H with chlorhexidine mouthwash BD\nUse subglottic suctioning\nUse closed suction circuits\nAvoid non-essential suctioning\nMinimise changes of ventilation equipment\n\nSuction cathethers\nHumidifiers\nCircuit\n\n\nB\n\nMinimise duration of mechanical ventilation\n\nE\n\nEarly mobilisation\n\n\n\nMarginal and Ineffective Therapies"
+  },
+  {
+    "objectID": "disease/infective/hap.html#complications",
+    "href": "disease/infective/hap.html#complications",
+    "title": "Hospital/Ventilator Acquired Pneumonia",
+    "section": "Complications",
+    "text": "Complications\n\nDeath\nAttributable mortality is low.\n↑ Ventilator days and ICU length of stay\nParapneumonic effusion\n\nUncomplicated effusions resolve with resolution of the underlying infection\nComplex effusions:\n\nDevelop 1-2 weeks after the initial fluid collection\nMay occur with persistent fevers and have organisms on Gram stain\nEssentially empyema-lite.\n\n\nEmpyema\nCollection of pus in the pleural space, usually evolving from a parapneumonic effusion. Antibiotics are adjunctive, and these require drainage either:\n\nPercutaneous\nFirst-line therapy, but difficult to effectively drain extensively loculated collections.\nSurgical\nOpen or VATS drainage is the most effective tool."
+  },
+  {
+    "objectID": "disease/infective/hap.html#prognosis",
+    "href": "disease/infective/hap.html#prognosis",
+    "title": "Hospital/Ventilator Acquired Pneumonia",
+    "section": "Prognosis",
+    "text": "Prognosis"
+  },
+  {
+    "objectID": "disease/infective/hap.html#key-studies",
+    "href": "disease/infective/hap.html#key-studies",
+    "title": "Hospital/Ventilator Acquired Pneumonia",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/infective/hap.html#references",
+    "href": "disease/infective/hap.html#references",
+    "title": "Hospital/Ventilator Acquired Pneumonia",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "disease/infective/pjp.html#epidemiology-and-risk-factors",
+    "href": "disease/infective/pjp.html#epidemiology-and-risk-factors",
+    "title": "Pneumocystis Jirovecii Pneumonia",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors"
+  },
+  {
+    "objectID": "disease/infective/pjp.html#pathophysiology",
+    "href": "disease/infective/pjp.html#pathophysiology",
+    "title": "Pneumocystis Jirovecii Pneumonia",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\n\nAetiology"
+  },
+  {
+    "objectID": "disease/infective/pjp.html#clinical-manifestations",
+    "href": "disease/infective/pjp.html#clinical-manifestations",
+    "title": "Pneumocystis Jirovecii Pneumonia",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations\nUsually insidious:\n\nNon-productive cough\nDyspnoea\nFever\nFatigue\nWeight loss\nCrepitations are rare"
+  },
+  {
+    "objectID": "disease/infective/pjp.html#diagnostic-approach-and-ddx",
+    "href": "disease/infective/pjp.html#diagnostic-approach-and-ddx",
+    "title": "Pneumocystis Jirovecii Pneumonia",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx\n\nAlternative diagnosis for respiratory failure is present in ~15%"
+  },
+  {
+    "objectID": "disease/infective/pjp.html#investigations",
+    "href": "disease/infective/pjp.html#investigations",
+    "title": "Pneumocystis Jirovecii Pneumonia",
+    "section": "Investigations",
+    "text": "Investigations\nBloods:\n\n↑ LDH\nCommon, non-specific.\n\nRadiology:\n\nCXR\n\nNormal in 10%\nPerihilar and interstitial shadowing\nOften subtle and missed.\n\n\n\nSputum:\n\n\nOrganisms persist for days or weeks, so unlike many other infections, treatment can start prior to sampling if diagnostic suspicion is high enough.\n\nAdequate non-invasive sampling requires induced sputum\n\nHypertonic saline nebuliser provokes bronchorrhoea and extensive coughing\nTime consuming\nRequires good operator skill\n\nBronchoscopy with BAL\nDiagnostic in &gt;90%."
+  },
+  {
+    "objectID": "disease/infective/pjp.html#management",
+    "href": "disease/infective/pjp.html#management",
+    "title": "Pneumocystis Jirovecii Pneumonia",
+    "section": "Management",
+    "text": "Management\nResuscitation:\n\nABC approach. Comment on team coordination and clinical priorities. Specific therapy:\n\nPharmacological\n\nAntimicrobials\n\nTrimethoprim/Sulphamethoxazole (cotrimoxazole) 20+100mg/kg daily for 3 weeks\nDose ↓ by 25% if WCC falls\nPentamidine 4mg/kg IV daily\nOnly if cotrimoxazole not tolerated. Note that cotrimoxazole is a much better agent, and so mild hypersensitivity reactions are best put up with.\n\nCorticosteroids\nFor patients with HIV infection or ↑ A-a gradient &gt;35mmHg.\n\nPrednisolone\n\n40mg BD for 5 days\n20mg BD for 5 days\n20mg daily until antibiotic treatment completed\n\n\n\nPhysical\nProcedural\n\nSupportive care:\nDisposition:\n\nMarginal and Ineffective Therapies"
+  },
+  {
+    "objectID": "disease/infective/pjp.html#anaesthetic-considerations",
+    "href": "disease/infective/pjp.html#anaesthetic-considerations",
+    "title": "Pneumocystis Jirovecii Pneumonia",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "disease/infective/pjp.html#complications",
+    "href": "disease/infective/pjp.html#complications",
+    "title": "Pneumocystis Jirovecii Pneumonia",
+    "section": "Complications",
+    "text": "Complications\n\nB\n\nPneumothorax"
+  },
+  {
+    "objectID": "disease/infective/pjp.html#prognosis",
+    "href": "disease/infective/pjp.html#prognosis",
+    "title": "Pneumocystis Jirovecii Pneumonia",
+    "section": "Prognosis",
+    "text": "Prognosis"
+  },
+  {
+    "objectID": "disease/infective/pjp.html#key-studies",
+    "href": "disease/infective/pjp.html#key-studies",
+    "title": "Pneumocystis Jirovecii Pneumonia",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/infective/pjp.html#references",
+    "href": "disease/infective/pjp.html#references",
+    "title": "Pneumocystis Jirovecii Pneumonia",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
+  },
+  {
     "objectID": "disease/cvs/failure.html#epidemiology-and-risk-factors",
     "href": "disease/cvs/failure.html#epidemiology-and-risk-factors",
     "title": "Cardiac Failure",
@@ -11375,6 +11578,314 @@
     "text": "References\n\nANZCA. PS63: Guidelines for Safe Care for Patients Sedated in Health Care Facilities for Acute Behavioural Disturbance."
   },
   {
+    "objectID": "disease/infective/meningitis.html#epidemiology-and-risk-factors",
+    "href": "disease/infective/meningitis.html#epidemiology-and-risk-factors",
+    "title": "Meningitis",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors"
+  },
+  {
+    "objectID": "disease/infective/meningitis.html#pathophysiology",
+    "href": "disease/infective/meningitis.html#pathophysiology",
+    "title": "Meningitis",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\nSeries of processes:\n\nInfection\nPredominantly via droplet or saliva. Common routes include:\n\nNasopharyngeal colonisation\nMiddle ear\nSinusitis\nDental\n\nCytokine production\nMeningitis\nHydrocephalus\n\n↑ ICP\n↓ CPP\n\nVasculitis\nThrombosis\n\n\nAetiology\nBacterial meningitis:\n\nCommunity\n\nS. pneumoniae\nN. meningitidis\nH. influenzae\nMost common prior to vaccination.\nL. monocytogenes Rare, and confined to the immunosuppressed:\n\nElderly\nAlcohol dependency\nDiabetes\nMalignancy\n\n\nNosocomial\nRare, but organisms include:\n\nStaphylococcus spp.\nParticularly with intracranial devices, or following neurosurgery.\nE. coli\nPseudomonas spp.\nKlebsiella spp.\nAcinetobacter spp\n\n\nViral:\n\nEnteroviruses\n\nCoxsackie\n\nHerpes simplex\nMumps\nEchoviruses\nToscana virus\n\nYeast:\n\nCryptococcus neoformans\n\nChronic meningitis\nImmunocompromised\nIndia ink stain and antigen testing on CSF"
+  },
+  {
+    "objectID": "disease/infective/meningitis.html#clinical-manifestations",
+    "href": "disease/infective/meningitis.html#clinical-manifestations",
+    "title": "Meningitis",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations\nClinical features are typically rapidly evolving over hours, and relate to:\n\n\nViral meningitis presents with similar symptoms to bacterial meningitis, but is generally less severe.\n\nMeningeal inflammation\n\nFever\nHeadache\nNeck stiffness\nPhotophobia\n\nEncephalopathy\n\nAltered level of consciousness\nIrritability\nSeizures\nPaediatric.\n\nCausative organism\n\nMeningococcal disease\n\nHash\nHaemorrhagic, petechial, purpuric.\nDigital gangrene\nSkin necrosis\nSigns of coagulopathy\n\n\n\n\n\n\nIn the immunocompromised:\n\nLow-grade fever\nBehavioural changes\n\n\n\nNB: Kernig’s sign is neither sensitive or specific of meningeal irritation."
+  },
+  {
+    "objectID": "disease/infective/meningitis.html#diagnostic-approach-and-ddx",
+    "href": "disease/infective/meningitis.html#diagnostic-approach-and-ddx",
+    "title": "Meningitis",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
+  },
+  {
+    "objectID": "disease/infective/meningitis.html#investigations",
+    "href": "disease/infective/meningitis.html#investigations",
+    "title": "Meningitis",
+    "section": "Investigations",
+    "text": "Investigations\nBedside:\nLaboratory:\n\n\nDetails of CSF findings in meningitis are covered under Chapter 404.\n\nBlood\n\nFBE\nInfection.\nBlood cultures\nPCR\n\nLP\n\nRequired to completely confirm diagnosis\nHowever, contraindications are common\n\nCoagulopathy\n↑ ICP, or significant clinical concern of such\n\nEmpirical antibiotics should be commenced if there is delay\nUrgent Gram stain and culture\n\n\nImaging:\nOther:"
+  },
+  {
+    "objectID": "disease/infective/meningitis.html#management",
+    "href": "disease/infective/meningitis.html#management",
+    "title": "Meningitis",
+    "section": "Management",
+    "text": "Management\nResuscitation:\n\nSpecific therapy:\n\n\nDuration of antimicrobial therapy depends on the organism:\n\nN. meningitidis: 5 days\nS. pneumoniae: 10-14 days\nL. monocytogenes: 21 days\n\n\nPharmacological\n\nAntimicrobial therapy\n\nEmpiric therapy\n\nFoundation:\n\nCeftriaxone 2g IV Q12H\nOr cefotaxime 2g IV Q6H.\nDexamethasone 10mg IV Q6H\n\nGive with or before first dose of antibiotics\nCease if cause other than S. pneumoniae is discovered\nNo mortality benefit outside this group.\n\nAcyclovir 10mg/kg IV\nIndicated for viral meningitis caused by VZV or HSV.\n\nIf immunocompromised:\ni.e. Age &gt;60, diabetes, alcohol misuse, malignancy, immunosuppressants:\n\nAdd ampicillin 2g Q4H\n\nIf penicillin resistant pneumococci:\n\nAdd vancomycin\n\n\nCryptococcal meningitis\n\nInitial therapy:\n\nAmphoteracin B\n5-fluorocytosine\n\nFluconazole\n\n\nAnticonvulsants\n\nBenzodiazepines for seizure control\n\n\n\nProcedural\nPhysical\n\n\n\nManagement of seizures is covered under Chapter 312.\nSupportive care:\nDisposition:\n\nICU admission in:\n\nRapidly evolving rash\nGCS ⩽12\nOrgan support\nSeizures\n\n\nPreventative:\n\nProphylaxis is recommended for close contacts\nCiprofloxacin 500mg.\nMeningococcal vaccination\nPublic health notification\n\n\nMarginal and Ineffective Therapies\n\nIntrathecal antibiotics\nNot recommended.\nProphylactic anticonvulsants"
+  },
+  {
+    "objectID": "disease/infective/meningitis.html#anaesthetic-considerations",
+    "href": "disease/infective/meningitis.html#anaesthetic-considerations",
+    "title": "Meningitis",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "disease/infective/meningitis.html#complications",
+    "href": "disease/infective/meningitis.html#complications",
+    "title": "Meningitis",
+    "section": "Complications",
+    "text": "Complications\n\nDeath\nD\n\nHydrocephalus\nCerebral infarction\nSeizure\n25% of cases.\n\nH\n\nDIC\nMeningococcal meningitis."
+  },
+  {
+    "objectID": "disease/infective/meningitis.html#prognosis",
+    "href": "disease/infective/meningitis.html#prognosis",
+    "title": "Meningitis",
+    "section": "Prognosis",
+    "text": "Prognosis\nBacterial meningitis:\n\nUsually fatal without treatment\nMortality ~20%\n↑ In patients with:\n\nSeizures\nDelays to treatment\nExtremes of age\n\n\nViral meningitis:\n\nUsually lasts 7-10 days"
+  },
+  {
+    "objectID": "disease/infective/meningitis.html#key-studies",
+    "href": "disease/infective/meningitis.html#key-studies",
+    "title": "Meningitis",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/infective/meningitis.html#references",
+    "href": "disease/infective/meningitis.html#references",
+    "title": "Meningitis",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
+  },
+  {
+    "objectID": "disease/infective/encephalitis.html#epidemiology-and-risk-factors",
+    "href": "disease/infective/encephalitis.html#epidemiology-and-risk-factors",
+    "title": "Encephalitis",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors"
+  },
+  {
+    "objectID": "disease/infective/encephalitis.html#pathophysiology",
+    "href": "disease/infective/encephalitis.html#pathophysiology",
+    "title": "Encephalitis",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\n\nAetiology\nViral causes include:\n\nHSV 1\nClassically temporal lobe involvement.\nArboviruses\nJapanese encephalitis\nNipah virus\nHendra virus\nMurray Valley\nJohn Cunningham virus\nClassically immunosuppressed.\nWest Nile virus\nMost common cause of epidemic viral encephalitis."
+  },
+  {
+    "objectID": "disease/infective/encephalitis.html#clinical-manifestations",
+    "href": "disease/infective/encephalitis.html#clinical-manifestations",
+    "title": "Encephalitis",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations\nCan be difficult to diagnose, with major symptoms resulting from infection of brain parenchyma:\n\nBrain parenchyma\n\nSpeech disturbance\nSeizures\nAltered cognition\n\n\nCertain causes result in particular presentations:\n\nCMV\n\nGanglionitis\nPolyradiculitis\n\nJohn Cunningham virus\n\nProgressive Multifocal Leucoencephalopathy\nSubacute:\n\nConfusion\nWeakness\nVisual symptoms"
+  },
+  {
+    "objectID": "disease/infective/encephalitis.html#diagnostic-approach-and-ddx",
+    "href": "disease/infective/encephalitis.html#diagnostic-approach-and-ddx",
+    "title": "Encephalitis",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
+  },
+  {
+    "objectID": "disease/infective/encephalitis.html#investigations",
+    "href": "disease/infective/encephalitis.html#investigations",
+    "title": "Encephalitis",
+    "section": "Investigations",
+    "text": "Investigations\nBedside:\nLaboratory:\nImaging:\n\nMRI\nT2-weighted.\n\nOther:\n\nLP\n\nPCR\n\nEEG\n\nSlow-wave activity\nEpileptiform discharges\nExtreme delta brush pattern\nHighly specific for NMDA-receptor encephalitis."
+  },
+  {
+    "objectID": "disease/infective/encephalitis.html#management",
+    "href": "disease/infective/encephalitis.html#management",
+    "title": "Encephalitis",
+    "section": "Management",
+    "text": "Management\nResuscitation:\n\nABC approach. Comment on team coordination and clinical priorities. Specific therapy:\n\nPharmacological\n\nAntiviral\nChoice depends on nature of viral infection.\n\nHSV encephalitis\n\nAciclovir 10mg/kg IV TDS for 14 days\nConsider continuing until CSF is HSV DNA negative\n\nCMV\n\nGanciclovir\nValganciclovir\n\n\n\nProcedural\nPhysical\n\nSupportive care:\nDisposition:\n\nMarginal and Ineffective Therapies"
+  },
+  {
+    "objectID": "disease/infective/encephalitis.html#anaesthetic-considerations",
+    "href": "disease/infective/encephalitis.html#anaesthetic-considerations",
+    "title": "Encephalitis",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "disease/infective/encephalitis.html#complications",
+    "href": "disease/infective/encephalitis.html#complications",
+    "title": "Encephalitis",
+    "section": "Complications",
+    "text": "Complications"
+  },
+  {
+    "objectID": "disease/infective/encephalitis.html#prognosis",
+    "href": "disease/infective/encephalitis.html#prognosis",
+    "title": "Encephalitis",
+    "section": "Prognosis",
+    "text": "Prognosis\nVaries depending on cause:\n\nHSV\n\n20% treated\n70% untreated"
+  },
+  {
+    "objectID": "disease/infective/encephalitis.html#key-studies",
+    "href": "disease/infective/encephalitis.html#key-studies",
+    "title": "Encephalitis",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/infective/encephalitis.html#references",
+    "href": "disease/infective/encephalitis.html#references",
+    "title": "Encephalitis",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
+  },
+  {
+    "objectID": "disease/infective/brain_abscess.html#epidemiology-and-risk-factors",
+    "href": "disease/infective/brain_abscess.html#epidemiology-and-risk-factors",
+    "title": "Brain Abscess",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors"
+  },
+  {
+    "objectID": "disease/infective/brain_abscess.html#pathophysiology",
+    "href": "disease/infective/brain_abscess.html#pathophysiology",
+    "title": "Brain Abscess",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\nInfective spread from:\n\nBone\nDura\nBacteraemia\n\n\nAetiology\nOragnisms include:\n\nCommon\n\nS. Aureus\nStrepococcus spp.\nBacteroides fragilis\nGram negative"
+  },
+  {
+    "objectID": "disease/infective/brain_abscess.html#clinical-manifestations",
+    "href": "disease/infective/brain_abscess.html#clinical-manifestations",
+    "title": "Brain Abscess",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations\nFeature include:\n\n↑ ICP\n\nObtundation\n\nMass lesion\n\nHeadache\nVomiting\nObtundation\nSeizures\n\n\n\n\nNotably, meningism is often absent."
+  },
+  {
+    "objectID": "disease/infective/brain_abscess.html#diagnostic-approach-and-ddx",
+    "href": "disease/infective/brain_abscess.html#diagnostic-approach-and-ddx",
+    "title": "Brain Abscess",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
+  },
+  {
+    "objectID": "disease/infective/brain_abscess.html#investigations",
+    "href": "disease/infective/brain_abscess.html#investigations",
+    "title": "Brain Abscess",
+    "section": "Investigations",
+    "text": "Investigations\nBedside:\nLaboratory:\nImaging:\nOther:"
+  },
+  {
+    "objectID": "disease/infective/brain_abscess.html#management",
+    "href": "disease/infective/brain_abscess.html#management",
+    "title": "Brain Abscess",
+    "section": "Management",
+    "text": "Management\nResuscitation:\n\nABC approach. Comment on team coordination and clinical priorities. Specific therapy:\n\nPharmacological\nProcedural\nPhysical\n\nSupportive care:\nDisposition:\n\nMarginal and Ineffective Therapies"
+  },
+  {
+    "objectID": "disease/infective/brain_abscess.html#anaesthetic-considerations",
+    "href": "disease/infective/brain_abscess.html#anaesthetic-considerations",
+    "title": "Brain Abscess",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "disease/infective/brain_abscess.html#complications",
+    "href": "disease/infective/brain_abscess.html#complications",
+    "title": "Brain Abscess",
+    "section": "Complications",
+    "text": "Complications"
+  },
+  {
+    "objectID": "disease/infective/brain_abscess.html#prognosis",
+    "href": "disease/infective/brain_abscess.html#prognosis",
+    "title": "Brain Abscess",
+    "section": "Prognosis",
+    "text": "Prognosis"
+  },
+  {
+    "objectID": "disease/infective/brain_abscess.html#key-studies",
+    "href": "disease/infective/brain_abscess.html#key-studies",
+    "title": "Brain Abscess",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/infective/brain_abscess.html#references",
+    "href": "disease/infective/brain_abscess.html#references",
+    "title": "Brain Abscess",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
+  },
+  {
+    "objectID": "disease/infective/myelitis.html#epidemiology-and-risk-factors",
+    "href": "disease/infective/myelitis.html#epidemiology-and-risk-factors",
+    "title": "Myelitis",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors"
+  },
+  {
+    "objectID": "disease/infective/myelitis.html#pathophysiology",
+    "href": "disease/infective/myelitis.html#pathophysiology",
+    "title": "Myelitis",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\n\nAetiology"
+  },
+  {
+    "objectID": "disease/infective/myelitis.html#clinical-manifestations",
+    "href": "disease/infective/myelitis.html#clinical-manifestations",
+    "title": "Myelitis",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations"
+  },
+  {
+    "objectID": "disease/infective/myelitis.html#diagnostic-approach-and-ddx",
+    "href": "disease/infective/myelitis.html#diagnostic-approach-and-ddx",
+    "title": "Myelitis",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
+  },
+  {
+    "objectID": "disease/infective/myelitis.html#investigations",
+    "href": "disease/infective/myelitis.html#investigations",
+    "title": "Myelitis",
+    "section": "Investigations",
+    "text": "Investigations\nBedside:\nLaboratory:\nImaging:\nOther:"
+  },
+  {
+    "objectID": "disease/infective/myelitis.html#management",
+    "href": "disease/infective/myelitis.html#management",
+    "title": "Myelitis",
+    "section": "Management",
+    "text": "Management\nResuscitation:\n\nABC approach. Comment on team coordination and clinical priorities. Specific therapy:\n\nPharmacological\nProcedural\nPhysical\n\nSupportive care:\nDisposition:\n\nMarginal and Ineffective Therapies"
+  },
+  {
+    "objectID": "disease/infective/myelitis.html#anaesthetic-considerations",
+    "href": "disease/infective/myelitis.html#anaesthetic-considerations",
+    "title": "Myelitis",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "disease/infective/myelitis.html#complications",
+    "href": "disease/infective/myelitis.html#complications",
+    "title": "Myelitis",
+    "section": "Complications",
+    "text": "Complications"
+  },
+  {
+    "objectID": "disease/infective/myelitis.html#prognosis",
+    "href": "disease/infective/myelitis.html#prognosis",
+    "title": "Myelitis",
+    "section": "Prognosis",
+    "text": "Prognosis"
+  },
+  {
+    "objectID": "disease/infective/myelitis.html#key-studies",
+    "href": "disease/infective/myelitis.html#key-studies",
+    "title": "Myelitis",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/infective/myelitis.html#references",
+    "href": "disease/infective/myelitis.html#references",
+    "title": "Myelitis",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
+  },
+  {
     "objectID": "disease/neuro/seizure.html#epidemiology-and-risk-factors",
     "href": "disease/neuro/seizure.html#epidemiology-and-risk-factors",
     "title": "Seizures",
@@ -11967,7 +12478,7 @@
     "href": "disease/neuro/sah.html#complications",
     "title": "Subarachnoid Haemorrhage",
     "section": "Complications",
-    "text": "Complications\n\nC\n\nMyocardial injury\nCatecholamine surge with risk of myocardial necrosis.\n\nLV dysfunction in 10-30%\nNeurocardiogenic shock/Takotsubo cardiomyopathy may arise due to combination of ↑ preload and afterload (catecholamines), and ↓ inotropy (necrosis)\n\n\nD\n\nRebleeding\nMajor life-threatening complication\n\n20% of patients in first 24 hours\nMajority (50-90%) occur within 6 hours\nUncommon after 72 hours\n20-60% mortality\n\nSecondary hydrocephalus\n\nOccurs in 20% of patients\nWithin minutes to hours of onset.\nRequires EVD\n\nSeizures\n\nOccurs in 26% of patients\nCorrelated with blood volume and MCA aneurysms.\n\nDCI\nLeading cause of neurological morbidity due to cerebral infarction.\nSeizure\n\nTreat with levetiracetam at first line\n\n\nF\n\nHyponatraemia\n30% of cases.\n\nCSW\n\nHypernatraemia\n\n\n\n\nDelayed cerebral ischaemia is covered in detail under Chapter 314."
+    "text": "Complications\n\nC\n\nMyocardial injury\nCatecholamine surge with risk of myocardial necrosis.\n\nLV dysfunction in 10-30%\nNeurocardiogenic shock/Takotsubo cardiomyopathy may arise due to combination of ↑ preload and afterload (catecholamines), and ↓ inotropy (necrosis)\n\n\nD\n\nRebleeding\nMajor life-threatening complication\n\n20% of patients in first 24 hours\nMajority (50-90%) occur within 6 hours\nUncommon after 72 hours\n20-60% mortality\n\nSecondary hydrocephalus\n\nOccurs in 20% of patients\nWithin minutes to hours of onset.\nRequires EVD\n\nSeizures\n\nOccurs in 26% of patients\nCorrelated with blood volume and MCA aneurysms.\n\nDCI\nLeading cause of neurological morbidity due to cerebral infarction.\nSeizure\n\nTreat with levetiracetam at first line\n\n\nF\n\nHyponatraemia\n30% of cases.\n\nCSW\n\nHypernatraemia\n\n\n\n\nDelayed cerebral ischaemia is covered in detail under Chapter 321."
   },
   {
     "objectID": "disease/neuro/sah.html#prognosis",
@@ -14242,7 +14753,7 @@
     "href": "disease/git/alf.html#management",
     "title": "Acute Liver Failure",
     "section": "Management",
-    "text": "Management\n\nGoals of therapy are:\n\nIdentify cause\nSupportive care to limit hepatic damage\nEarly identification of patients for transplant\n\nSignificant improvement in outcomes with emergency liver transplantation\nEarly escalation to critical care and early referral to a specialist centre is essential\n\n\n\nResuscitation:\n\n\nA\nConsider securing if:\n\nHigh grade (III/IV) encephalopathy\nNeed for transfer\n\nB\n\nCO2 control for ICP management\n\nC\n\nClassically distributive shock picture\n\nNoradrenaline\n\n\nD\n\n↑ ICP\n\n\nControl with standard ICP management\n\n\n\nSpecific therapy:\n\nProcedural\n\nLiver transplantation\n\nPhysical\n\nExtra-corporeal hepatic support\nArtificial, extra-corporeal liver replacement therapy. Broadly, ↓ encephalopathy and ↑ haemodynamic function without mortality benefit. May be:\n\nBiological\nUsing human/porcine cells.\nMechanical\nMolecular filtration.\n\n\n\nUnderlying cause:\n\n\nManagement of paracetamol overdose is covered under Chapter 384.\n\nParacetamol overdose\n\nN-acetylcysteine (NAC)\n\n\nCornerstone of therapy as early administration results in significant reduction in mortality (to &lt;1%), though even late administration may improve outcome\nDosing based on Prescott nomogram\n\n\nViral hepatitis\n\nAntivirals\nHepatitis B\n\nLamivudine\nBenefit if given early.\n\n\nAlcoholic hepatitis\nAutoimmune hepatitis\n\nSte\n\nMushroom poisoning\n\nForced diuresis\n↑ Renal clearance of toxin. Avoid hypovolaemia.\n\nWilson’s disease\n\nD-Penicillamine\nChelates copper. Withdrawal of chronic treatment may precipitate failure.\n\nHepatic vein thrombosis\n\nThrombolysis\nClot retrieval\nTIPS\n\n\nSupportive care:\n\n\nInvasive intracranial pressure monitoring associated with ~10% intracranial haemorrhage rate.\n\nB\n\nLung protective ventilation\nARDS risk.\nDrain pleural effusions\n\nD\n\n↑ ICP\n\n\nGeneral measures\nIf grade 3/4 encephalopathy, recommend:\n\nIntubation\nSedation\nAvoid stimulation\nHead-up positioning\n\nConsider invasive ICP management if all of:\n\n\nGrade 3-4 encephalopathy\nHyperacute liver failure\nAmmonia &gt;150mmolL\nYoung\n\n\n\nE\n\n↓ BSL\nUse high-concentration dextrose to avoid cerebral oedema/↓ Na+.\n\nF\n\n↓ Phosphate\nReplenish.\nRRT\n\n\nAvoid citrate!\nCRRT preferential due to haemodynamics\nIn addition to standard indications, consider for:\n\nHyperammonaemia\nAim &lt;100μmol/: to ↓ cerebral oedema.\nHypothermia\n\n\n\nG\n\nEarly enteral feeding\nMay have ↑ metabolic requirements. No change in protein requirement.\nLactulose\nControversial. May ↓ hepatic encephalopathy but lead to gaseous intestinal distension.\nPPI\nDrain ascites\nFor haemodynamic benefit.\n\nH\n\nCoagulopathy\nTreat if bleeding or prior to procedures. Patients may be prothrombotic, anti-thrombotic, or fibrinolytic, and the assays themselves (both coagulation profiles and point-of-care testing) may not correlate with the observed clinical effect.\n\nVitamin K\nVery reasonable, probably ineffective in the majority of patients.\n\n\n\nDisposition:\n\nLiver transplant centre\n\n\nMarginal and Ineffective Therapies"
+    "text": "Management\n\nGoals of therapy are:\n\nIdentify cause\nSupportive care to limit hepatic damage\nEarly identification of patients for transplant\n\nSignificant improvement in outcomes with emergency liver transplantation\nEarly escalation to critical care and early referral to a specialist centre is essential\n\n\n\nResuscitation:\n\n\nA\nConsider securing if:\n\nHigh grade (III/IV) encephalopathy\nNeed for transfer\n\nB\n\nCO2 control for ICP management\n\nC\n\nClassically distributive shock picture\n\nNoradrenaline\n\n\nD\n\n↑ ICP\n\n\nControl with standard ICP management\n\n\n\nSpecific therapy:\n\nProcedural\n\nLiver transplantation\n\nPhysical\n\nExtra-corporeal hepatic support\nArtificial, extra-corporeal liver replacement therapy. Broadly, ↓ encephalopathy and ↑ haemodynamic function without mortality benefit. May be:\n\nBiological\nUsing human/porcine cells.\nMechanical\nMolecular filtration.\n\n\n\nUnderlying cause:\n\n\nManagement of paracetamol overdose is covered under Chapter 385.\n\nParacetamol overdose\n\nN-acetylcysteine (NAC)\n\n\nCornerstone of therapy as early administration results in significant reduction in mortality (to &lt;1%), though even late administration may improve outcome\nDosing based on Prescott nomogram\n\n\nViral hepatitis\n\nAntivirals\nHepatitis B\n\nLamivudine\nBenefit if given early.\n\n\nAlcoholic hepatitis\nAutoimmune hepatitis\n\nSte\n\nMushroom poisoning\n\nForced diuresis\n↑ Renal clearance of toxin. Avoid hypovolaemia.\n\nWilson’s disease\n\nD-Penicillamine\nChelates copper. Withdrawal of chronic treatment may precipitate failure.\n\nHepatic vein thrombosis\n\nThrombolysis\nClot retrieval\nTIPS\n\n\nSupportive care:\n\n\nInvasive intracranial pressure monitoring associated with ~10% intracranial haemorrhage rate.\n\nB\n\nLung protective ventilation\nARDS risk.\nDrain pleural effusions\n\nD\n\n↑ ICP\n\n\nGeneral measures\nIf grade 3/4 encephalopathy, recommend:\n\nIntubation\nSedation\nAvoid stimulation\nHead-up positioning\n\nConsider invasive ICP management if all of:\n\n\nGrade 3-4 encephalopathy\nHyperacute liver failure\nAmmonia &gt;150mmolL\nYoung\n\n\n\nE\n\n↓ BSL\nUse high-concentration dextrose to avoid cerebral oedema/↓ Na+.\n\nF\n\n↓ Phosphate\nReplenish.\nRRT\n\n\nAvoid citrate!\nCRRT preferential due to haemodynamics\nIn addition to standard indications, consider for:\n\nHyperammonaemia\nAim &lt;100μmol/: to ↓ cerebral oedema.\nHypothermia\n\n\n\nG\n\nEarly enteral feeding\nMay have ↑ metabolic requirements. No change in protein requirement.\nLactulose\nControversial. May ↓ hepatic encephalopathy but lead to gaseous intestinal distension.\nPPI\nDrain ascites\nFor haemodynamic benefit.\n\nH\n\nCoagulopathy\nTreat if bleeding or prior to procedures. Patients may be prothrombotic, anti-thrombotic, or fibrinolytic, and the assays themselves (both coagulation profiles and point-of-care testing) may not correlate with the observed clinical effect.\n\nVitamin K\nVery reasonable, probably ineffective in the majority of patients.\n\n\n\nDisposition:\n\nLiver transplant centre\n\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/git/alf.html#anaesthetic-considerations",
@@ -14333,7 +14844,7 @@
     "href": "disease/git/cld.html#prognosis",
     "title": "Chronic Liver Disease",
     "section": "Prognosis",
-    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 346.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
+    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 353.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
   },
   {
     "objectID": "disease/git/cld.html#key-studies",
@@ -14425,6 +14936,83 @@
     "title": "Acute-on-Chronic Liver Failure",
     "section": "References",
     "text": "References"
+  },
+  {
+    "objectID": "disease/infective/sbp.html#epidemiology-and-risk-factors",
+    "href": "disease/infective/sbp.html#epidemiology-and-risk-factors",
+    "title": "Spontaneous Bacterial Peritonitis",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors\nRisk factors:\n\nLiver dysfunction\nVariceal bleeding\nPrevious SBP"
+  },
+  {
+    "objectID": "disease/infective/sbp.html#pathophysiology",
+    "href": "disease/infective/sbp.html#pathophysiology",
+    "title": "Spontaneous Bacterial Peritonitis",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\n\nAetiology"
+  },
+  {
+    "objectID": "disease/infective/sbp.html#clinical-manifestations",
+    "href": "disease/infective/sbp.html#clinical-manifestations",
+    "title": "Spontaneous Bacterial Peritonitis",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations\nHistory:\n\nAbdominal pain\nConfusion\n\nExamination:\n\nFever"
+  },
+  {
+    "objectID": "disease/infective/sbp.html#diagnostic-approach-and-ddx",
+    "href": "disease/infective/sbp.html#diagnostic-approach-and-ddx",
+    "title": "Spontaneous Bacterial Peritonitis",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx\n\nMortality approaches 80% if an unnecessary laparotomy is performed, so it is vital to distinguish SBP from secondary peritonitis.\n\nKey differentials:\n\nSecondary peritonitis\n\nBowel perforation"
+  },
+  {
+    "objectID": "disease/infective/sbp.html#investigations",
+    "href": "disease/infective/sbp.html#investigations",
+    "title": "Spontaneous Bacterial Peritonitis",
+    "section": "Investigations",
+    "text": "Investigations\nPathology:\n\nAscitic tap\nRequired for diagnosis.\n\nUsually low bacterial concentrations of a single organism\n10-20mL should be placed into blood culture bottles to increase yield"
+  },
+  {
+    "objectID": "disease/infective/sbp.html#management",
+    "href": "disease/infective/sbp.html#management",
+    "title": "Spontaneous Bacterial Peritonitis",
+    "section": "Management",
+    "text": "Management\nResuscitation:\n\nSpecific therapy:\n\nPharmacological\n\nAntibiotics\n\nParacentesis should be repeated at 48 hours\n\n20% Albumin\n\n↓ AKI\nSubstantial ↓ mortality\n\n\nProcedural\nPhysical\n\nSupportive care:\nDisposition:\n\nProphylactic antibiotics\nMay be appropriate in high risk patients; agents include:\n\nRifaximin\nNorfloxacin\nCiprofloxacin\n\n\n\nMarginal and Ineffective Therapies"
+  },
+  {
+    "objectID": "disease/infective/sbp.html#anaesthetic-considerations",
+    "href": "disease/infective/sbp.html#anaesthetic-considerations",
+    "title": "Spontaneous Bacterial Peritonitis",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "disease/infective/sbp.html#complications",
+    "href": "disease/infective/sbp.html#complications",
+    "title": "Spontaneous Bacterial Peritonitis",
+    "section": "Complications",
+    "text": "Complications"
+  },
+  {
+    "objectID": "disease/infective/sbp.html#prognosis",
+    "href": "disease/infective/sbp.html#prognosis",
+    "title": "Spontaneous Bacterial Peritonitis",
+    "section": "Prognosis",
+    "text": "Prognosis\nFeatures associated with ↑ mortality include:\n\nResistant organism"
+  },
+  {
+    "objectID": "disease/infective/sbp.html#key-studies",
+    "href": "disease/infective/sbp.html#key-studies",
+    "title": "Spontaneous Bacterial Peritonitis",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/infective/sbp.html#references",
+    "href": "disease/infective/sbp.html#references",
+    "title": "Spontaneous Bacterial Peritonitis",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
   },
   {
     "objectID": "disease/git/acute_panc.html#epidemiology-and-risk-factors",
@@ -15869,6 +16457,69 @@
     "text": "References\n\nBellomo R, Kellum JA, Ronco C et al. Acute kidney injury in sepsis. Intensive Care Med. 2017 Jun;43(6):816-828. doi: 10.1007/s00134-017-4755-7. Epub 2017 Mar 31.\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.\nEarly Restrictive or Liberal Fluid Management for Sepsis-Induced Hypotension. New England Journal of Medicine. 2023;388(6):499-510.\nSinger, M., Deutschman, C.S., Seymour, C.W., Shankar-Hari, M., Annane, D., Bauer, M., Bellomo, R., Bernard, G.R., Chiche, J.-D., Coopersmith, C.M., Hotchkiss, R.S., Levy, M.M., Marshall, J.C., Martin, G.S., Opal, S.M., Rubenfeld, G.D., van der Poll, T., Vincent, J.-L., Angus, D.C., 2016. The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). JAMA 315, 801."
   },
   {
+    "objectID": "disease/infective/necfas.html#epidemiology-and-risk-factors",
+    "href": "disease/infective/necfas.html#epidemiology-and-risk-factors",
+    "title": "Necrotising Fasciitis",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors\nPredisposing factors for necrotising soft tissue infection include:\n\nPrevious trauma\nPrevious surgery\nPre-existing infection\nObesity\nDiabetes\nSmoking\nIV drug use\nImmunosuppression\n\nRisk factors associated with ↑ mortality include:\n\nAge\nEspecially in &gt;70 age group.\nIllness severity\nOrganism\nHigher mortality seen with:\n\nGroup A Streptococci\nEnteric organisms"
+  },
+  {
+    "objectID": "disease/infective/necfas.html#pathophysiology",
+    "href": "disease/infective/necfas.html#pathophysiology",
+    "title": "Necrotising Fasciitis",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\nNecrotising fasciitis involves * Rapid proliferation of subcutaneous bacteria * Leukococyte proliferation * Thrombosis of fascial vessels\nLeads to ischaemia and necrosis of tissue."
+  },
+  {
+    "objectID": "disease/infective/necfas.html#clinical-manifestations",
+    "href": "disease/infective/necfas.html#clinical-manifestations",
+    "title": "Necrotising Fasciitis",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations\n\nHistory\n\n\nExamination"
+  },
+  {
+    "objectID": "disease/infective/necfas.html#diagnostic-approach-and-ddx",
+    "href": "disease/infective/necfas.html#diagnostic-approach-and-ddx",
+    "title": "Necrotising Fasciitis",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
+  },
+  {
+    "objectID": "disease/infective/necfas.html#investigations",
+    "href": "disease/infective/necfas.html#investigations",
+    "title": "Necrotising Fasciitis",
+    "section": "Investigations",
+    "text": "Investigations"
+  },
+  {
+    "objectID": "disease/infective/necfas.html#management",
+    "href": "disease/infective/necfas.html#management",
+    "title": "Necrotising Fasciitis",
+    "section": "Management",
+    "text": "Management\nStandard treatment involves:\n\nImmediate and radical surgical debridement of dead and infected tissue\nDelayed debridement associated with increasd mortalityh.\nAntibiotics\nBroad spectrum.\n\nShould include good streptococcal cover\n\nHDU or ICU care\n\n\nHyperbaric oxygen therapy\n\nControversial\nA retrospective review suggested that HBOT suggests patients are 4x less likely to die\nMultiple suggested mechanisms:\n\n↑ viability of marginal tissue\nReduces bacterial toxin prouction\nInhibits anaerobic bacterial growth\n↑ tissue oxdiation reduction potential.\nPotentiates antibiotic function\nImproves efficacy of neutrophil respiratory burst\n\nEvidence is conflicting and some retrospective studies do not demonstrate mortality benefit\n\n\n\nIntravenous Immunoglobulin\n\n\nMarginal and Ineffective Therapies"
+  },
+  {
+    "objectID": "disease/infective/necfas.html#complications",
+    "href": "disease/infective/necfas.html#complications",
+    "title": "Necrotising Fasciitis",
+    "section": "Complications",
+    "text": "Complications"
+  },
+  {
+    "objectID": "disease/infective/necfas.html#prognosis",
+    "href": "disease/infective/necfas.html#prognosis",
+    "title": "Necrotising Fasciitis",
+    "section": "Prognosis",
+    "text": "Prognosis\n\n30% mortality with aggressive surgical intervention and appropriate antibiotics\nFrequent surgical debridements\nLong hospital stay\nLarge soft tissue defects"
+  },
+  {
+    "objectID": "disease/infective/necfas.html#references",
+    "href": "disease/infective/necfas.html#references",
+    "title": "Necrotising Fasciitis",
+    "section": "References",
+    "text": "References\n\nDevaney B, Frawley G, Frawley L, Pilcher DV. Necrotising soft tissue infections: the effect of hyperbaric oxygen on mortality. Anaesth Intensive Care. 2015 Nov;43(6):685-92. PubMed PMID: 26603791.\nLevett D, Bennett MH, Millar I. Adjunctive hyperbaric oxygen for necrotizing fasciitis. Cochrane Database of Systematic Reviews 2015, Issue 1. Art. No.: CD007937."
+  },
+  {
     "objectID": "disease/infective/hiv.html#epidemiology-and-risk-factors",
     "href": "disease/infective/hiv.html#epidemiology-and-risk-factors",
     "title": "Human Immunodeficiency Virus and Acquired Immune Deficiency Syndrome",
@@ -15908,7 +16559,7 @@
     "href": "disease/infective/hiv.html#management",
     "title": "Human Immunodeficiency Virus and Acquired Immune Deficiency Syndrome",
     "section": "Management",
-    "text": "Management\nResuscitation:\nABC approach. Comment on team coordination and clinical priorities.\nSpecific therapy:\n\nPharmacological\n\nAntiretroviral therapy\nEach drug acts at different points in the replication cycle, and so combination therapy is essential.\n\nTriple combination therapy usually leads to sustained control without resistance development\nInitiation by HIV specialist\nPotential significant drug interactions\nTiming of therapy in the setting of infection is controversial\nIn general:\n\nDelay initiation until 2-4 weeks after treatment of aids defining illness\nLonger in more severe disease with ↑ risk of Chapter 362.\n\n\n\nProcedural\nPhysical\n\n\n\nSignificant drug interactions may occur with:\n\nAnaesthetics\n\nMidazolam\n\nAntimicrobials\nAntiemetics\nAnticonvulsants\nAnticoagulants\nStatins\n\nSupportive care:\nDisposition:\nPreventative:\n\nMarginal and Ineffective Therapies"
+    "text": "Management\nResuscitation:\nABC approach. Comment on team coordination and clinical priorities.\nSpecific therapy:\n\nPharmacological\n\nAntiretroviral therapy\nEach drug acts at different points in the replication cycle, and so combination therapy is essential.\n\nTriple combination therapy usually leads to sustained control without resistance development\nInitiation by HIV specialist\nPotential significant drug interactions\nTiming of therapy in the setting of infection is controversial\nIn general:\n\nDelay initiation until 2-4 weeks after treatment of aids defining illness\nLonger in more severe disease with ↑ risk of Chapter 370.\n\n\n\nProcedural\nPhysical\n\n\n\nSignificant drug interactions may occur with:\n\nAnaesthetics\n\nMidazolam\n\nAntimicrobials\nAntiemetics\nAnticonvulsants\nAnticoagulants\nStatins\n\nSupportive care:\nDisposition:\nPreventative:\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/infective/hiv.html#anaesthetic-considerations",
@@ -15944,370 +16595,6 @@
     "title": "Human Immunodeficiency Virus and Acquired Immune Deficiency Syndrome",
     "section": "References",
     "text": "References\n\nNelson, Ann Marie, Yukari C. Manabe, and Sebastian B. Lucas. “Immune Reconstitution Inflammatory Syndrome (IRIS): What Pathologists Should Know.” Seminars in Diagnostic Pathology, Seminars Issue on HIV-related Disease, 34, no. 4 (July 1, 2017): 340–51. .\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
-  },
-  {
-    "objectID": "disease/infective/tetanus.html#epidemiology-and-risk-factors",
-    "href": "disease/infective/tetanus.html#epidemiology-and-risk-factors",
-    "title": "Tetanus",
-    "section": "Epidemiology and Risk Factors",
-    "text": "Epidemiology and Risk Factors\nSignificant public health problem of the developing world, due to a combination of:\n\nHigh incidence\nMajor risk factors include:\n\nUnvaccinated\n\nLMIC\nElderly\n\nRural\nPoor\n\nRequirement for prolonged ICU care"
-  },
-  {
-    "objectID": "disease/infective/tetanus.html#pathophysiology",
-    "href": "disease/infective/tetanus.html#pathophysiology",
-    "title": "Tetanus",
-    "section": "Pathophysiology",
-    "text": "Pathophysiology\nC. tetani is a gram positive rod and obligate anaerobe that:\n\nExists in spore form in the environment\nIs non-invasive\nRequires innoculation into a wound to produce infection - cannot grow in vitalised tissue.\nProduces two exotoxins:\n\nTetanospasmin\n\nLD50 0.01mg\nHaematological spread\nUptake into motor nerve endings, and transport into nervous system\nDiffuses into interstitium with, and acts on pre-synaptic terminals of nearby neurones\nProduces dysfunction of predominantly inhibitory interneurons:\n\nMuscle spasms\nAutonomic dysfunction Requires toxin to diffuse to lateral horns.\n\n↑ Sympathetic tone\n\nCognitive dysfunction\n\n\nTetanolysin\nLocalised tissue destruction; clinically relatively unimportant.\n\n\n\n\nFun Fact:\n~240g of tetanospasmin could kill the entire world population.\n\nAetiology\nMechanisms of C. tetani innoculation include:\n\nTrauma\n\nPuncture\nLaceration\nDog bites\nPiercings\n\nSkin breakdown\n\nBurns\nChronic ulcers\nDental infections\n\nOther devitalised tissue\n\nAbortion\nChildbirth\nTetanus neonatorum\nInfection of umbilical stump."
-  },
-  {
-    "objectID": "disease/infective/tetanus.html#clinical-manifestations",
-    "href": "disease/infective/tetanus.html#clinical-manifestations",
-    "title": "Tetanus",
-    "section": "Clinical Manifestations",
-    "text": "Clinical Manifestations\nPresentation:\n\nOccurs following an incubation period\nA shorter incubation period indicates ↑ severity.\n\nUsually &gt;2 days\n\n90% &lt;14 days\nUp to 60 days\n\nPain\nMusculoskeletal symptoms\nProgression:\n\nStiffness\nRigidity\nTrismus\nPresentation typically at this point, which occurs due to masseter spasm.\nRisus sardonicus\nClenched-teeth expression relating to facial muscle spasm.\n\nAutonomic dysfunction\n\nConfined to severe cases\nBegins after muscle spasms\nGenerally short-duration episodes of:\n\n↑↑ Sympathetic tone\n↑↑ Parasympathetic tone\n\nIncluding sudden cardiac arrest\nParticularly in IVDU.\n\n\n\n\n\n\n\nTetanus neonatorum presents:\n\n~7th day of life\nShort history of failure to feed"
-  },
-  {
-    "objectID": "disease/infective/tetanus.html#diagnostic-approach-and-ddx",
-    "href": "disease/infective/tetanus.html#diagnostic-approach-and-ddx",
-    "title": "Tetanus",
-    "section": "Diagnostic Approach and DDx",
-    "text": "Diagnostic Approach and DDx\nInclude:\n\nLocal disease\n\nDental\nTMJ disease\nInfection\n\nNeurological disease\n\nEpilepsy\n\nToxidromes\n\nTCA overdose\nStrychnine poisoning"
-  },
-  {
-    "objectID": "disease/infective/tetanus.html#investigations",
-    "href": "disease/infective/tetanus.html#investigations",
-    "title": "Tetanus",
-    "section": "Investigations",
-    "text": "Investigations\n\nNo specific laboratory findings - diagnosis is clinical.\n\nBedside:\n\nABG\nRespiratory failure.\n\nLaboratory:\n\nBloods\n\nUEC\nRhabdomyolysis.\nCMP\n\nWound culture\nMay grow C. tetani.\n\nImaging:\nOther:"
-  },
-  {
-    "objectID": "disease/infective/tetanus.html#management",
-    "href": "disease/infective/tetanus.html#management",
-    "title": "Tetanus",
-    "section": "Management",
-    "text": "Management\n\nPrinciples:\n\nImmunoglobulin to neutralise circulating toxin\nSource control/wound care\nSupportive care\n\n\nResuscitation:\n\n\nA\n\nIntubation\nFor control of muscle spasm.\n\nB\n\nMechanical ventilation\n\n\nIf respiratory muscle involvement\nMuscle relaxation if spasms prevent ventilation\nNo particular agent is preferred.\n\n\nC\n\nHaemodynamic control\nConsider:\n\n↓ Catecholamine production\n\nSedation\nMay require hefty doses, Oh’s quotes 3.4 grams of diazepam daily.\nOpioids\nHeavy doses may also be required.\n\nα/β Antagonists\n\n\nClonidine\nPhentolamine, phenoxybenzamine\nEsmolol\n\nMgSO4\nTarget 2.4-4mmol/L. May also assist in ↓ spasm.\n\n\n\nSpecific therapy:\n\nPharmacological\n\nHuman antitetanus immunoglobulin\n\n500 IU\nShould be given to all patients who are not known to be immunised on presentation\nBinds circulating toxin\n\nAntibiotics\nSpores and bacteria are destroyed by:\n\nMetronidazole 500mg IV Q6-8H for 10 days\nPreferred.\nPenicillin G 1-3MU IV Q6H for 10 days\n\n\nProcedural\n\nWound care\nWashout of contaminated wounds.\nSource control\n\nPhysical\n\nSupportive Care:\n\nC\n\nHaemodynamic control\n\nLabetalol\nMagnesium\nClonidine\n\n\n\nDisposition:\n\nICU\n\nPreventative:\n\nTetanus toxoid vaccine\n\nCheap\nThree doses for full course\n2nd at 6-12 weeks, 3rd at 6-12 months.\nBooster every 10 years\nOccasionally results in local tetanus\nSpasm of limb or muscle.\nFrequent doses may result in non-life threatening immune symptoms\n\n\n\n\nNeonates have immunity via maternal antibodies until 3 months, and vaccination of pregnant women will protect children produced within 5 years.\n\nMarginal and Ineffective Therapies"
-  },
-  {
-    "objectID": "disease/infective/tetanus.html#complications",
-    "href": "disease/infective/tetanus.html#complications",
-    "title": "Tetanus",
-    "section": "Complications",
-    "text": "Complications\n\nDeath\nB\n\nRespiratory failure\n\nC\n\nCardiac failure\n↑ Catecholamines.\nHypertensive crises\n\nD\n\nSpasm\n\nF\n\nRhabdomyolysis"
-  },
-  {
-    "objectID": "disease/infective/tetanus.html#prognosis",
-    "href": "disease/infective/tetanus.html#prognosis",
-    "title": "Tetanus",
-    "section": "Prognosis",
-    "text": "Prognosis\n\nDeath\n\n80% without ICU care\n10% with mechanical ventilation\nMore common with:\n\nSystemic tetanus\nCephalic tetanus\nSecondary to head and neck injuries with CN involvement.\nAge\n\n\nC\n\nArrhythmias\nCardiac failure\n\nD\n\nSpasm\n\nMost resolve within 1-3 weeks\nResidual stiffness may remain\n\nCognitive changes"
-  },
-  {
-    "objectID": "disease/infective/tetanus.html#key-studies",
-    "href": "disease/infective/tetanus.html#key-studies",
-    "title": "Tetanus",
-    "section": "Key Studies",
-    "text": "Key Studies"
-  },
-  {
-    "objectID": "disease/infective/tetanus.html#references",
-    "href": "disease/infective/tetanus.html#references",
-    "title": "Tetanus",
-    "section": "References",
-    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
-  },
-  {
-    "objectID": "disease/infective/cap.html#epidemiology-and-risk-factors",
-    "href": "disease/infective/cap.html#epidemiology-and-risk-factors",
-    "title": "Community Acquired Pneumonia",
-    "section": "Epidemiology and Risk Factors",
-    "text": "Epidemiology and Risk Factors\nCAP has an annual incidence of up to 4% of the population:\n\n50% require hospital admission\n\nMortality 10% among the hospitalised group\n\n10% require ICU admission"
-  },
-  {
-    "objectID": "disease/infective/cap.html#pathophysiology",
-    "href": "disease/infective/cap.html#pathophysiology",
-    "title": "Community Acquired Pneumonia",
-    "section": "Pathophysiology",
-    "text": "Pathophysiology\n\nAetiology\nThere are vast numbers of potentially causative organisms, however the most common in patients requiring ICU admission are:\n\nViral\n25%, most commonly:\n\nRSV\nInfluenza\n\nS. Pneumoniae\nH. Influenzae\nLegionella spp.\nEnterobacteriaceae spp.\nS. aureus\nPsuedomonas spp.\n\nFactors favouring infection with certain organisms include:\n\nExposures\n\nAnimal\n\nAnimal exposures\nBirds and excreta\nParturient pets or farm animals\nInsect bites\nMice and excreta\nBats and excreta\n\nGeographical factors\n\nTB prevalence\nLocally endemic organisms\n\n\nPatient factors\n\nIVDU\nAlcoholism\nRespiratory disease\n\nCOPD\nCF\nBronchiectasis\n\nOther disease\n\nDiabetes\nSickle cell\nPoor dental hygeine\n\nImmunosuppression\n\n\nDisease factors\n\nSputum smell\nLung abscesses\nEmpyema"
-  },
-  {
-    "objectID": "disease/infective/cap.html#clinical-manifestations",
-    "href": "disease/infective/cap.html#clinical-manifestations",
-    "title": "Community Acquired Pneumonia",
-    "section": "Clinical Manifestations",
-    "text": "Clinical Manifestations\nMay be either:\n\nSystemic\n\nFever\nSweats\nRigors\n\nRespiratory\n\nProductive cough\nPleural rub\nInspiratory crepitations"
-  },
-  {
-    "objectID": "disease/infective/cap.html#diagnostic-approach-and-ddx",
-    "href": "disease/infective/cap.html#diagnostic-approach-and-ddx",
-    "title": "Community Acquired Pneumonia",
-    "section": "Diagnostic Approach and DDx",
-    "text": "Diagnostic Approach and DDx\nAssessment of severity:\n\nDetermines disposition (home, inpatient, intensive care)\nCan be performed with the SMART COP score\n\n⩾4 has 1/3 chance of requiring vasoactive or respiratory support\nConsists of:\n\nSBP &lt;90\nMultilobar infiltrate\nAlbumin &lt;35g/L\nRR:\n\n&gt;30 if age &gt;50\n&gt;25 if age &gt;25\n\nTachycardia &gt;125\nConfusion\nOxygen saturation &lt;93%\npH &lt;7.35"
-  },
-  {
-    "objectID": "disease/infective/cap.html#investigations",
-    "href": "disease/infective/cap.html#investigations",
-    "title": "Community Acquired Pneumonia",
-    "section": "Investigations",
-    "text": "Investigations\nBloods:\n\nFBE\nUEC\nLFT\nBlood cultures (x2-3)\nCRP\n↑ Benefit from steroids seen with ↑ CRP.\nHIV status\n\nSputum:\n\n\nAnaerobic culture cannot be performed on sputum due to contamination from other upper respiratory organisms.\n\nTests include:\n\nGram stain\nCulture\nMycoplasma pneumoniae PCR\nChlamydophilia PCR\n\nCollection is ideally:\n\nFrom a deep cough\nTo minimise contamination from upper respiratory tract commensals.\nPrior to antibiotics\n\nRapid transport to laboratory ↑ chance of detecting fastidious organisms\nCausative organism is likely if:\n\nDominant on gram stain\nHeavy growth on culture\n\n\nUrine:\n\nLegionella antigen\nHighly specific but not sensitive for infection; negative test does not exclude disease.\nPneumococcal antigen\nHighly specific and moderately sensitive.\n\nRadiology:\n\nCXR\nRadiographic infiltrates may be absent in up to 25%.\nCT\nMore sensitive than CXR.\nLung ultrasound"
-  },
-  {
-    "objectID": "disease/infective/cap.html#management",
-    "href": "disease/infective/cap.html#management",
-    "title": "Community Acquired Pneumonia",
-    "section": "Management",
-    "text": "Management\n\nUp to 40% of patients have a polymicrobial infection, so narrowing the spectrum of cover following identification of an organism may result in adequate treatment.\n\nResuscitation:\n\n\nA\nB\n\nSupplemental oxygen\n\n\nSpecific therapy:\n\nPharmacological\n\nAntimicrobial therapy\n\nNon-tropical\n\nMild:\n5-7 days of:\n\nAmoxicillin 1g PO TDS\nClarithromycin 250mg PO BD\n\nModerate:\n7-10 days of:\n\nBenzylpenicillin 1.2g IV QID and doxycycline 100mg PO BD\nCeftriaxone 1g IV daily and doxycycline 100mg PO BD\n\nSevere:\n7-10 days of:\n\nBenzylpenicillin 1.2g IV Q4H and gentamicin\nCeftriaxone 1g IV daily and azithromycin 500mg IV daily\n\n\nTropical\nTo cover Burkholderia pseudomallei and Acinetobacter baumannii:\n\nMeropenem 1g IV TDS and azithromycin 500mg IV daily\n\n\nHydrocortisone\n\nPossible mortality benefit\nSuggest 200mg/day\nUnless contraindicated\n\nChronic infection\nImmunocompromised\nPoorly controlled diabetes\nPregnancy\n\n\n\nProcedural\nPhysical\n\n\n\nAntimicrobial therapy is often unit or region-specific based on local flora and resistance patterns.\nSupportive care:\nDisposition:\n\nICU or HDU for severe disease\n\n\nMarginal and Ineffective Therapies\n\nCorticosteroids\nRoutine use not recommended, may be appropriate with concurrent sepsis."
-  },
-  {
-    "objectID": "disease/infective/cap.html#complications",
-    "href": "disease/infective/cap.html#complications",
-    "title": "Community Acquired Pneumonia",
-    "section": "Complications",
-    "text": "Complications\n\nParapneumonic effusion\n\nUncomplicated effusions resolve with resolution of the underlying infection\nComplex effusions:\n\nDevelop 1-2 weeks after the initial fluid collection\nMay occur with persistent fevers and have organisms on Gram stain\nEssentially empyema-lite.\n\n\nEmpyema\nCollection of pus in the pleural space, usually evolving from a parapneumonic effusion. Antibiotics are adjunctive, and these require drainage either:\n\nPercutaneous\nFirst-line therapy, but difficult to effectively drain extensively loculated collections.\nSurgical\nOpen or VATS drainage is the most effetive tool."
-  },
-  {
-    "objectID": "disease/infective/cap.html#prognosis",
-    "href": "disease/infective/cap.html#prognosis",
-    "title": "Community Acquired Pneumonia",
-    "section": "Prognosis",
-    "text": "Prognosis\nTime until improvement varies:\n\nAverage ~3 days\n7 days in the:\n\nElderly\nBacteraemic\n\n2.5 days in young patients with pneumococcal pneumonia"
-  },
-  {
-    "objectID": "disease/infective/cap.html#key-studies",
-    "href": "disease/infective/cap.html#key-studies",
-    "title": "Community Acquired Pneumonia",
-    "section": "Key Studies",
-    "text": "Key Studies\n\nCAPE COD\n\n800 French ICU patients with severe CAP\n\nWithout septic shock\nWithout features suggesting other causes of pneumonia mimics\n\n200mg hydrocortisone infusion vs. placebo\nSignificant:\n\n↓ Mortality in treatment group (6.2% vs. 11.9%)\n↑ Insulin use in treatment group\n\nStopped early due to COVID and significance on interim analysis"
-  },
-  {
-    "objectID": "disease/infective/cap.html#references",
-    "href": "disease/infective/cap.html#references",
-    "title": "Community Acquired Pneumonia",
-    "section": "References",
-    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.\nDequin PF, Meziani F, Quenot JP, et al. Hydrocortisone in Severe Community-Acquired Pneumonia. N Engl J Med. Published online March 21, 2023:NEJMoa2215145."
-  },
-  {
-    "objectID": "disease/infective/hap.html#epidemiology-and-risk-factors",
-    "href": "disease/infective/hap.html#epidemiology-and-risk-factors",
-    "title": "Hospital/Ventilator Acquired Pneumonia",
-    "section": "Epidemiology and Risk Factors",
-    "text": "Epidemiology and Risk Factors\nHAP:\n\nOccurs in 0.5-5% of inpatients\nRisk is ↑ if:\n\nPost-operative\nIn ICU"
-  },
-  {
-    "objectID": "disease/infective/hap.html#pathophysiology",
-    "href": "disease/infective/hap.html#pathophysiology",
-    "title": "Hospital/Ventilator Acquired Pneumonia",
-    "section": "Pathophysiology",
-    "text": "Pathophysiology\nMicroaspiration of organisms colonising the upper respiratory tract.\n\nAetiology"
-  },
-  {
-    "objectID": "disease/infective/hap.html#clinical-manifestations",
-    "href": "disease/infective/hap.html#clinical-manifestations",
-    "title": "Hospital/Ventilator Acquired Pneumonia",
-    "section": "Clinical Manifestations",
-    "text": "Clinical Manifestations"
-  },
-  {
-    "objectID": "disease/infective/hap.html#diagnostic-approach-and-ddx",
-    "href": "disease/infective/hap.html#diagnostic-approach-and-ddx",
-    "title": "Hospital/Ventilator Acquired Pneumonia",
-    "section": "Diagnostic Approach and DDx",
-    "text": "Diagnostic Approach and DDx"
-  },
-  {
-    "objectID": "disease/infective/hap.html#investigations",
-    "href": "disease/infective/hap.html#investigations",
-    "title": "Hospital/Ventilator Acquired Pneumonia",
-    "section": "Investigations",
-    "text": "Investigations\nBlood:\n\nFBE\nWCC may ↑ or ↓.\nProcalcitonin\nMay have a role in timing deescalation of antibiotics.\nBlood cultures\n\nSputum:\n\nMore complex in the intubated patient\nOptions include:\n\nTracheal aspirate\nIdentify potentially causative organisms but is not quantitative.\nBronchial washings\nBronchoalveolar Lavage\n\n\nRadiology:\n\nCXR\n\n\nInfiltrates required for diagnosis is many guidelines\nAppearance usually worsens in initial period, even with institution of appropriate antibiotics\nFeatures of concern are:\n\nCavitation\nPleural effusion\n\nRadiographic improvement lags behind clinical response"
-  },
-  {
-    "objectID": "disease/infective/hap.html#management",
-    "href": "disease/infective/hap.html#management",
-    "title": "Hospital/Ventilator Acquired Pneumonia",
-    "section": "Management",
-    "text": "Management\nResuscitation:\n\n\nA\n\nIntubation may be required\n\nB\n\nSupplemental oxygen\n\nC\n\nHaemodynamic support if concurrent sepsis\n\n\nSpecific therapy:\n\n\nRisk factors for MDR include:\n\nDisease\n\nImmunosuppression\nBronchiectasis\nSeptic shock\nARDS\n\nTreatment\n\nPrior IV ABx in previous 90 days\nHospitalisation &gt;5 days\nRRT\n\nEnvironmental\n\nHigh local MDR burden\n\n\n\nAntimicrobial therapy\n\n\n7 day course recommended to reduce subsequent MDR pneumonias.\n2-3 days until clinical response seen is usual\nIf failing to respond, consider:\n\nWrong bug\nRepeat cultures.\nWrong drug\nEnsure sensitivity of organism to the antibiotic beingused.\nWrong dose\nAppropriate for patient weight.\nSequestration\nAbscess cavity or similar\nPatient factors\n\nImmunosuppression\nFrailty\n\n\nNo MDR risk factors\nConsider:\n\nTazocin 4.5g Q6-8H\nCefepime 2g Q8H\nMeropenem 1g Q8H\n\nMDR risk factors\nConsider one of each of:\n\nAntipseudomonal broad spectrum agent\nAs above.\nAdditional gram negative cover\n↓ Risk that pathogen is resistant to the primary agent.\n\nAminoglycoside 15-20mg Q24H\nCiprofloxacin 400mg Q8H\nLevofloxacin 750mg Q24H\n\nMRSA cover:\n\nLinezolid 600mg Q12H\nVancomycin\n\n\n\n\n\nPrevention:\n\nA\n\nNurse 30° head up to ↓ risk of microaspiration\nOral care Q4H with chlorhexidine mouthwash BD\nUse subglottic suctioning\nUse closed suction circuits\nAvoid non-essential suctioning\nMinimise changes of ventilation equipment\n\nSuction cathethers\nHumidifiers\nCircuit\n\n\nB\n\nMinimise duration of mechanical ventilation\n\nE\n\nEarly mobilisation\n\n\n\nMarginal and Ineffective Therapies"
-  },
-  {
-    "objectID": "disease/infective/hap.html#complications",
-    "href": "disease/infective/hap.html#complications",
-    "title": "Hospital/Ventilator Acquired Pneumonia",
-    "section": "Complications",
-    "text": "Complications\n\nDeath\nAttributable mortality is low.\n↑ Ventilator days and ICU length of stay\nParapneumonic effusion\n\nUncomplicated effusions resolve with resolution of the underlying infection\nComplex effusions:\n\nDevelop 1-2 weeks after the initial fluid collection\nMay occur with persistent fevers and have organisms on Gram stain\nEssentially empyema-lite.\n\n\nEmpyema\nCollection of pus in the pleural space, usually evolving from a parapneumonic effusion. Antibiotics are adjunctive, and these require drainage either:\n\nPercutaneous\nFirst-line therapy, but difficult to effectively drain extensively loculated collections.\nSurgical\nOpen or VATS drainage is the most effective tool."
-  },
-  {
-    "objectID": "disease/infective/hap.html#prognosis",
-    "href": "disease/infective/hap.html#prognosis",
-    "title": "Hospital/Ventilator Acquired Pneumonia",
-    "section": "Prognosis",
-    "text": "Prognosis"
-  },
-  {
-    "objectID": "disease/infective/hap.html#key-studies",
-    "href": "disease/infective/hap.html#key-studies",
-    "title": "Hospital/Ventilator Acquired Pneumonia",
-    "section": "Key Studies",
-    "text": "Key Studies"
-  },
-  {
-    "objectID": "disease/infective/hap.html#references",
-    "href": "disease/infective/hap.html#references",
-    "title": "Hospital/Ventilator Acquired Pneumonia",
-    "section": "References",
-    "text": "References"
-  },
-  {
-    "objectID": "disease/infective/aspergillosis.html#epidemiology-and-risk-factors",
-    "href": "disease/infective/aspergillosis.html#epidemiology-and-risk-factors",
-    "title": "Aspergillosis",
-    "section": "Epidemiology and Risk Factors",
-    "text": "Epidemiology and Risk Factors\nMajor risk factors for both disease and severity are essentially surrogates of immunosuppression as well as underlying lung disease. They include:\n\n\nRespiratory disease significantly ↑ rate of aspergillus colonisation, and risk of subsequent infection if immunocompromise occurs.\n\nPatient\n\nExtremes of age\n&lt;1 and &gt;70.\nMalnutrition\nAlcohol misuse\n\nDisease\n\nRespiratory\n\nCOPD\nCF\nInterstitial lung disease\n\nImmunocompromise\n\nDiabetes\nBurns\nHIV\nProlonged neutropenia\nBone marrow transplant\nSolid organ transplant\nLung most significant.\nComplicated abdominal surgery\nDecompensated CLD\n\n\nTreatment factors\n\nProlonged ICU stay\nMechanical ventilation\nBroad spectrum antibiotics\nIndwelling catheters\nPN\nSteroid\n&gt;1mg/kg for &gt;2 weeks.\nChemotherapy\n\nEnvironmental\n\nConstruction site exposure"
-  },
-  {
-    "objectID": "disease/infective/aspergillosis.html#pathophysiology",
-    "href": "disease/infective/aspergillosis.html#pathophysiology",
-    "title": "Aspergillosis",
-    "section": "Pathophysiology",
-    "text": "Pathophysiology\nFungal pneumonia:\n\nPeri-vascular predominance in the immunocompromised\n\n↑ Rate of pulmonary infarction\nLeads to:\n\nHaemoptysis\nCavity formation\n\n\nBronchoalveolar pneumonia in the immunocompetent\n\nSimilar to other pneumonias\n“Classical” features of cavitation and aspergilloma formation are rarer"
-  },
-  {
-    "objectID": "disease/infective/aspergillosis.html#clinical-manifestations",
-    "href": "disease/infective/aspergillosis.html#clinical-manifestations",
-    "title": "Aspergillosis",
-    "section": "Clinical Manifestations",
-    "text": "Clinical Manifestations\n\nRespiratory failure\nPersistent infection\n\nPneumonia refractory to antibiotics\nRefractory fever\n\nPulmonary infarction\n\nCough\nPleuritic chest pain\nHaemoptysis\nMay be massive.\n\nDistant infection\n\nAbscesses\nSkin lesions\n\n\nIn the immunocompromised, haematogenous dissemination and rampant infection can lead to:\n\nEndocarditis\nEndophthalmitis\nAbscesses"
-  },
-  {
-    "objectID": "disease/infective/aspergillosis.html#diagnostic-approach-and-ddx",
-    "href": "disease/infective/aspergillosis.html#diagnostic-approach-and-ddx",
-    "title": "Aspergillosis",
-    "section": "Diagnostic Approach and DDx",
-    "text": "Diagnostic Approach and DDx"
-  },
-  {
-    "objectID": "disease/infective/aspergillosis.html#investigations",
-    "href": "disease/infective/aspergillosis.html#investigations",
-    "title": "Aspergillosis",
-    "section": "Investigations",
-    "text": "Investigations\n\nCultures, stain, and specific testing (galactomannan, PCR) are unable to discriminate between colonisation and infection.\n\nLaboratory:\n\n\nGalactomannan is a cell wall polysaccharide found in aspergillus, ice cream, salad dressings, and cream cheese.\n\nBlood\n\nFBE\n\nEosinophilia\nNeutropenia\n\nSerum galactomannan\n\nModerately sensitive (75%) and specific (85%) at a cutoff of &gt;0.5\nHigher cutoffs ↑ specificity and ↓ sensitivity.\nLower sensitivity in the immunocompetent and those receiving prophylaxis\n\nβ-D-glucan antigen\nCell wall component of most fungi. Improves sensitivity and specificity in combination with galactomannan.\nSerum PCR\n\nSimilar diagnostic properties to serum galactomannan.\n\n\nBronchoscopy\nBAL is an integral part of adequate sampling.\n\nVisual inspection\nFungal culture and stain\n\n\nDifficult to culture, with correspondingly low sensitivity and long culture times\nLoss of specificity with aspergillus colonisation\n\nAspergillus PCR\n\nHighly sensitive - negative result persuasive for no infection\n\nBAL galactomannan\n\nBetter than serum galactomannan in the immunocompetent\nMore likely to have contained pulmonary disease.\n\nTransbronchial biopsy\n\nDefinitive diagnostic test\nRisk of bleeding and pneumothorax often precludes this, particularly in the critically unwell\n\n\nSputum\nSignificantly ↓ yield compared with BAL.\n\nAspergillus radioallergosorbent assay\nSilver staining\nAspergillus IgG/IgE\n\n\nImaging:\n\nCXR\n\nAspergilloma cavities\n\nCT\n\nAspergilloma cavities\nNodules\nMonod sign\nFree-moving (i.e. positional and dependent) aspergilloma in a pulmonary cavity.\nHalo sign\nGround-glass opacity around a nodule or mass, usually indicating haemorrhage secondary to pulmonary infarction.\nAir crescent sign\nHalo of air around a region of necrosis, and indicates recovery.\n\n\n\n\n\n\n\nOther:\n\nOpen lung biopsy\nRarely indicated due to risk of procedure."
-  },
-  {
-    "objectID": "disease/infective/aspergillosis.html#management",
-    "href": "disease/infective/aspergillosis.html#management",
-    "title": "Aspergillosis",
-    "section": "Management",
-    "text": "Management\n\nAggressiveness of antifungal treatment depends on the severity of clinical presentation, and usually begins prior to diagnostic confirmation due to the long lead time of specific investigations.\n\nResuscitation:\n\nSpecific therapy:\n\nPharmacological\n\nAllergic Bronchopulmonary Aspergillosis\n\nCorticosteroids\nPO itraconazole\n\nAspergilloma\n\nPO itraconazole\n\nPneumonia and invasive disease\n\nIV antifungal\n\nVoriconazole\n1st line for efficacy.\nEchinocandins\nSynergistic when combined with azoles. Combination therapy may be appropriate with:\n\nKnown or likely azole resistance\nFrom culture findings, treatment failure, or local microbial patterns.\nSevere disease\nProfound immunosuppression.\n\nAmphotericin B\nGenerally not preferred due to nephrotoxicity. Indicated for:\n\nHepatic failure\nAzole-resistant\n\n\nAltering immunosuppression\nConsideration should be given to ↓ exogenous immunosuppression.\nG-CSF\nFor neutropenia.\n\n\nProcedural\n\nAspergilloma\n\nSurgical resection\nPercutaneous amphotericin injection\n\n\nPhysical\n\nRespiratory isolation\n\n\nSupportive care:\nDisposition:\n\nMarginal and Ineffective Therapies"
-  },
-  {
-    "objectID": "disease/infective/aspergillosis.html#anaesthetic-considerations",
-    "href": "disease/infective/aspergillosis.html#anaesthetic-considerations",
-    "title": "Aspergillosis",
-    "section": "Anaesthetic Considerations",
-    "text": "Anaesthetic Considerations"
-  },
-  {
-    "objectID": "disease/infective/aspergillosis.html#complications",
-    "href": "disease/infective/aspergillosis.html#complications",
-    "title": "Aspergillosis",
-    "section": "Complications",
-    "text": "Complications"
-  },
-  {
-    "objectID": "disease/infective/aspergillosis.html#prognosis",
-    "href": "disease/infective/aspergillosis.html#prognosis",
-    "title": "Aspergillosis",
-    "section": "Prognosis",
-    "text": "Prognosis"
-  },
-  {
-    "objectID": "disease/infective/aspergillosis.html#key-studies",
-    "href": "disease/infective/aspergillosis.html#key-studies",
-    "title": "Aspergillosis",
-    "section": "Key Studies",
-    "text": "Key Studies"
-  },
-  {
-    "objectID": "disease/infective/aspergillosis.html#references",
-    "href": "disease/infective/aspergillosis.html#references",
-    "title": "Aspergillosis",
-    "section": "References",
-    "text": "References\n\nCase courtesy of Frank Gaillard, Radiopaedia.org, rID: 8684.\nCase courtesy of Ian Bickle, Radiopaedia.org, rID: 26223."
-  },
-  {
-    "objectID": "disease/infective/pjp.html#epidemiology-and-risk-factors",
-    "href": "disease/infective/pjp.html#epidemiology-and-risk-factors",
-    "title": "Pneumocystis Jirovecii Pneumonia",
-    "section": "Epidemiology and Risk Factors",
-    "text": "Epidemiology and Risk Factors"
-  },
-  {
-    "objectID": "disease/infective/pjp.html#pathophysiology",
-    "href": "disease/infective/pjp.html#pathophysiology",
-    "title": "Pneumocystis Jirovecii Pneumonia",
-    "section": "Pathophysiology",
-    "text": "Pathophysiology\n\nAetiology"
-  },
-  {
-    "objectID": "disease/infective/pjp.html#clinical-manifestations",
-    "href": "disease/infective/pjp.html#clinical-manifestations",
-    "title": "Pneumocystis Jirovecii Pneumonia",
-    "section": "Clinical Manifestations",
-    "text": "Clinical Manifestations\nUsually insidious:\n\nNon-productive cough\nDyspnoea\nFever\nFatigue\nWeight loss\nCrepitations are rare"
-  },
-  {
-    "objectID": "disease/infective/pjp.html#diagnostic-approach-and-ddx",
-    "href": "disease/infective/pjp.html#diagnostic-approach-and-ddx",
-    "title": "Pneumocystis Jirovecii Pneumonia",
-    "section": "Diagnostic Approach and DDx",
-    "text": "Diagnostic Approach and DDx\n\nAlternative diagnosis for respiratory failure is present in ~15%"
-  },
-  {
-    "objectID": "disease/infective/pjp.html#investigations",
-    "href": "disease/infective/pjp.html#investigations",
-    "title": "Pneumocystis Jirovecii Pneumonia",
-    "section": "Investigations",
-    "text": "Investigations\nBloods:\n\n↑ LDH\nCommon, non-specific.\n\nRadiology:\n\nCXR\n\nNormal in 10%\nPerihilar and interstitial shadowing\nOften subtle and missed.\n\n\n\nSputum:\n\n\nOrganisms persist for days or weeks, so unlike many other infections, treatment can start prior to sampling if diagnostic suspicion is high enough.\n\nAdequate non-invasive sampling requires induced sputum\n\nHypertonic saline nebuliser provokes bronchorrhoea and extensive coughing\nTime consuming\nRequires good operator skill\n\nBronchoscopy with BAL\nDiagnostic in &gt;90%."
-  },
-  {
-    "objectID": "disease/infective/pjp.html#management",
-    "href": "disease/infective/pjp.html#management",
-    "title": "Pneumocystis Jirovecii Pneumonia",
-    "section": "Management",
-    "text": "Management\nResuscitation:\n\nABC approach. Comment on team coordination and clinical priorities. Specific therapy:\n\nPharmacological\n\nAntimicrobials\n\nTrimethoprim/Sulphamethoxazole (cotrimoxazole) 20+100mg/kg daily for 3 weeks\nDose ↓ by 25% if WCC falls\nPentamidine 4mg/kg IV daily\nOnly if cotrimoxazole not tolerated. Note that cotrimoxazole is a much better agent, and so mild hypersensitivity reactions are best put up with.\n\nCorticosteroids\nFor patients with HIV infection or ↑ A-a gradient &gt;35mmHg.\n\nPrednisolone\n\n40mg BD for 5 days\n20mg BD for 5 days\n20mg daily until antibiotic treatment completed\n\n\n\nPhysical\nProcedural\n\nSupportive care:\nDisposition:\n\nMarginal and Ineffective Therapies"
-  },
-  {
-    "objectID": "disease/infective/pjp.html#anaesthetic-considerations",
-    "href": "disease/infective/pjp.html#anaesthetic-considerations",
-    "title": "Pneumocystis Jirovecii Pneumonia",
-    "section": "Anaesthetic Considerations",
-    "text": "Anaesthetic Considerations"
-  },
-  {
-    "objectID": "disease/infective/pjp.html#complications",
-    "href": "disease/infective/pjp.html#complications",
-    "title": "Pneumocystis Jirovecii Pneumonia",
-    "section": "Complications",
-    "text": "Complications\n\nB\n\nPneumothorax"
-  },
-  {
-    "objectID": "disease/infective/pjp.html#prognosis",
-    "href": "disease/infective/pjp.html#prognosis",
-    "title": "Pneumocystis Jirovecii Pneumonia",
-    "section": "Prognosis",
-    "text": "Prognosis"
-  },
-  {
-    "objectID": "disease/infective/pjp.html#key-studies",
-    "href": "disease/infective/pjp.html#key-studies",
-    "title": "Pneumocystis Jirovecii Pneumonia",
-    "section": "Key Studies",
-    "text": "Key Studies"
-  },
-  {
-    "objectID": "disease/infective/pjp.html#references",
-    "href": "disease/infective/pjp.html#references",
-    "title": "Pneumocystis Jirovecii Pneumonia",
-    "section": "References",
-    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
   },
   {
     "objectID": "disease/infective/tb.html#epidemiology-and-risk-factors",
@@ -16387,452 +16674,228 @@
     "text": "References"
   },
   {
-    "objectID": "disease/infective/meningitis.html#epidemiology-and-risk-factors",
-    "href": "disease/infective/meningitis.html#epidemiology-and-risk-factors",
-    "title": "Meningitis",
+    "objectID": "disease/infective/candida.html#epidemiology-and-risk-factors",
+    "href": "disease/infective/candida.html#epidemiology-and-risk-factors",
+    "title": "Candidiasis",
     "section": "Epidemiology and Risk Factors",
-    "text": "Epidemiology and Risk Factors"
+    "text": "Epidemiology and Risk Factors\nRisk factors:\n\nICU admission\n\nImmunocompromise\n\nTransplant\nHaematological malignancy\nDiabetes\n\n\nFor non-Albicans\n\nTPN\nCentral access\nAntimicrobial exposure:\n\nBroad spectrum antibiotics\nFluconazole\n\nMalignancy\nRenal failure"
   },
   {
-    "objectID": "disease/infective/meningitis.html#pathophysiology",
-    "href": "disease/infective/meningitis.html#pathophysiology",
-    "title": "Meningitis",
+    "objectID": "disease/infective/candida.html#pathophysiology",
+    "href": "disease/infective/candida.html#pathophysiology",
+    "title": "Candidiasis",
     "section": "Pathophysiology",
-    "text": "Pathophysiology\nSeries of processes:\n\nInfection\nPredominantly via droplet or saliva. Common routes include:\n\nNasopharyngeal colonisation\nMiddle ear\nSinusitis\nDental\n\nCytokine production\nMeningitis\nHydrocephalus\n\n↑ ICP\n↓ CPP\n\nVasculitis\nThrombosis\n\n\nAetiology\nBacterial meningitis:\n\nCommunity\n\nS. pneumoniae\nN. meningitidis\nH. influenzae\nMost common prior to vaccination.\nL. monocytogenes Rare, and confined to the immunosuppressed:\n\nElderly\nAlcohol dependency\nDiabetes\nMalignancy\n\n\nNosocomial\nRare, but organisms include:\n\nStaphylococcus spp.\nParticularly with intracranial devices, or following neurosurgery.\nE. coli\nPseudomonas spp.\nKlebsiella spp.\nAcinetobacter spp\n\n\nViral:\n\nEnteroviruses\n\nCoxsackie\n\nHerpes simplex\nMumps\nEchoviruses\nToscana virus\n\nYeast:\n\nCryptococcus neoformans\n\nChronic meningitis\nImmunocompromised\nIndia ink stain and antigen testing on CSF"
+    "text": "Pathophysiology\nCandida is:\n\nA genus of yeasts\nOver 100 different species, ~20 of which are pathogens.\nPart of the normal skin and gut flora\n\n\nAetiology\nCauses have been classically divided on epidemiological and fluconazole-sensitive grounds into:\n\n\nThe ongoing utility of this classification is questionable as the non-Albicans infections have become increasingly common, and albicans has become increasingly resistant to fluconazole.\n\nC. Albicans\n~50% of all infections.\nNon-Albicans infections\nAll the rest:\n\nC. Auris\nMulti-drug resistant form.\nC. glabrata\nC. krusei\nC. parapsilosis\nC. dubliniensis\nC. tropicalis"
   },
   {
-    "objectID": "disease/infective/meningitis.html#clinical-manifestations",
-    "href": "disease/infective/meningitis.html#clinical-manifestations",
-    "title": "Meningitis",
+    "objectID": "disease/infective/candida.html#clinical-manifestations",
+    "href": "disease/infective/candida.html#clinical-manifestations",
+    "title": "Candidiasis",
     "section": "Clinical Manifestations",
-    "text": "Clinical Manifestations\nClinical features are typically rapidly evolving over hours, and relate to:\n\n\nViral meningitis presents with similar symptoms to bacterial meningitis, but is generally less severe.\n\nMeningeal inflammation\n\nFever\nHeadache\nNeck stiffness\nPhotophobia\n\nEncephalopathy\n\nAltered level of consciousness\nIrritability\nSeizures\nPaediatric.\n\nCausative organism\n\nMeningococcal disease\n\nHash\nHaemorrhagic, petechial, purpuric.\nDigital gangrene\nSkin necrosis\nSigns of coagulopathy\n\n\n\n\n\n\nIn the immunocompromised:\n\nLow-grade fever\nBehavioural changes\n\n\n\nNB: Kernig’s sign is neither sensitive or specific of meningeal irritation."
+    "text": "Clinical Manifestations\nFeatures are non-specific and include:\n\nFever\nGenerally unreliable, though may be high with hepatosplenic abscesses.\nSepsis\nNon-responsive to other antimicrobial therapy."
   },
   {
-    "objectID": "disease/infective/meningitis.html#diagnostic-approach-and-ddx",
-    "href": "disease/infective/meningitis.html#diagnostic-approach-and-ddx",
-    "title": "Meningitis",
+    "objectID": "disease/infective/candida.html#diagnostic-approach-and-ddx",
+    "href": "disease/infective/candida.html#diagnostic-approach-and-ddx",
+    "title": "Candidiasis",
     "section": "Diagnostic Approach and DDx",
     "text": "Diagnostic Approach and DDx"
   },
   {
-    "objectID": "disease/infective/meningitis.html#investigations",
-    "href": "disease/infective/meningitis.html#investigations",
-    "title": "Meningitis",
+    "objectID": "disease/infective/candida.html#investigations",
+    "href": "disease/infective/candida.html#investigations",
+    "title": "Candidiasis",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\nLaboratory:\n\n\nDetails of CSF findings in meningitis are covered under Chapter 403.\n\nBlood\n\nFBE\nInfection.\nBlood cultures\nPCR\n\nLP\n\nRequired to completely confirm diagnosis\nHowever, contraindications are common\n\nCoagulopathy\n↑ ICP, or significant clinical concern of such\n\nEmpirical antibiotics should be commenced if there is delay\nUrgent Gram stain and culture\n\n\nImaging:\nOther:"
+    "text": "Investigations\nBedside:\nLaboratory:\n\nBlood\n\nBlood cultures\n\nSputum\n\nBronchoalveolar lavage\n\nOther fluid culture\n\nImaging:\nOther:"
   },
   {
-    "objectID": "disease/infective/meningitis.html#management",
-    "href": "disease/infective/meningitis.html#management",
-    "title": "Meningitis",
+    "objectID": "disease/infective/candida.html#management",
+    "href": "disease/infective/candida.html#management",
+    "title": "Candidiasis",
     "section": "Management",
-    "text": "Management\nResuscitation:\n\nSpecific therapy:\n\n\nDuration of antimicrobial therapy depends on the organism:\n\nN. meningitidis: 5 days\nS. pneumoniae: 10-14 days\nL. monocytogenes: 21 days\n\n\nPharmacological\n\nAntimicrobial therapy\n\nEmpiric therapy\n\nFoundation:\n\nCeftriaxone 2g IV Q12H\nOr cefotaxime 2g IV Q6H.\nDexamethasone 10mg IV Q6H\n\nGive with or before first dose of antibiotics\nCease if cause other than S. pneumoniae is discovered\nNo mortality benefit outside this group.\n\nAcyclovir 10mg/kg IV\nIndicated for viral meningitis caused by VZV or HSV.\n\nIf immunocompromised:\ni.e. Age &gt;60, diabetes, alcohol misuse, malignancy, immunosuppressants:\n\nAdd ampicillin 2g Q4H\n\nIf penicillin resistant pneumococci:\n\nAdd vancomycin\n\n\nCryptococcal meningitis\n\nInitial therapy:\n\nAmphoteracin B\n5-fluorocytosine\n\nFluconazole\n\n\nAnticonvulsants\n\nBenzodiazepines for seizure control\n\n\n\nProcedural\nPhysical\n\n\n\nManagement of seizures is covered under Chapter 305.\nSupportive care:\nDisposition:\n\nICU admission in:\n\nRapidly evolving rash\nGCS ⩽12\nOrgan support\nSeizures\n\n\nPreventative:\n\nProphylaxis is recommended for close contacts\nCiprofloxacin 500mg.\nMeningococcal vaccination\nPublic health notification\n\n\nMarginal and Ineffective Therapies\n\nIntrathecal antibiotics\nNot recommended.\nProphylactic anticonvulsants"
+    "text": "Management\nSpecific therapy:\n\nPharmacological\n\nAntifungal\n\nEchinocandin as initial therapy\nFluconazole as step-down therapy\nIf sensitivity is proven.\n\n↓ Immunosuppressants\n\nProcedural\n\nSource control\nRemove lines and devices\n\n\nSupportive care:\n\nG\n\nAdequate nutrition\n\n\n\nMarginal and Ineffective Therapies"
   },
   {
-    "objectID": "disease/infective/meningitis.html#anaesthetic-considerations",
-    "href": "disease/infective/meningitis.html#anaesthetic-considerations",
-    "title": "Meningitis",
+    "objectID": "disease/infective/candida.html#anaesthetic-considerations",
+    "href": "disease/infective/candida.html#anaesthetic-considerations",
+    "title": "Candidiasis",
     "section": "Anaesthetic Considerations",
     "text": "Anaesthetic Considerations"
   },
   {
-    "objectID": "disease/infective/meningitis.html#complications",
-    "href": "disease/infective/meningitis.html#complications",
-    "title": "Meningitis",
+    "objectID": "disease/infective/candida.html#complications",
+    "href": "disease/infective/candida.html#complications",
+    "title": "Candidiasis",
     "section": "Complications",
-    "text": "Complications\n\nDeath\nD\n\nHydrocephalus\nCerebral infarction\nSeizure\n25% of cases.\n\nH\n\nDIC\nMeningococcal meningitis."
+    "text": "Complications\nDisseminated Candida causes a large number of organ-specific complications:\n\nB\n\nPulmonary candidiasis\nCavitating lung lesions.\n\nC\n\nEndocarditis\n\nVery high mortality\n\n\nD\n\nEndophthalmitis\n3-15 days following infection.\n\nE\n\nCandidal joint infections\nSkin lesions\nMuscle abscesses\n\nG\n\nHepatic abscess\n\nH\n\nSplenic abscess"
   },
   {
-    "objectID": "disease/infective/meningitis.html#prognosis",
-    "href": "disease/infective/meningitis.html#prognosis",
-    "title": "Meningitis",
+    "objectID": "disease/infective/candida.html#prognosis",
+    "href": "disease/infective/candida.html#prognosis",
+    "title": "Candidiasis",
     "section": "Prognosis",
-    "text": "Prognosis\nBacterial meningitis:\n\nUsually fatal without treatment\nMortality ~20%\n↑ In patients with:\n\nSeizures\nDelays to treatment\nExtremes of age\n\n\nViral meningitis:\n\nUsually lasts 7-10 days"
+    "text": "Prognosis\nMortality in the ICU patient is up to 50%."
   },
   {
-    "objectID": "disease/infective/meningitis.html#key-studies",
-    "href": "disease/infective/meningitis.html#key-studies",
-    "title": "Meningitis",
+    "objectID": "disease/infective/candida.html#key-studies",
+    "href": "disease/infective/candida.html#key-studies",
+    "title": "Candidiasis",
     "section": "Key Studies",
     "text": "Key Studies"
   },
   {
-    "objectID": "disease/infective/meningitis.html#references",
-    "href": "disease/infective/meningitis.html#references",
-    "title": "Meningitis",
+    "objectID": "disease/infective/candida.html#references",
+    "href": "disease/infective/candida.html#references",
+    "title": "Candidiasis",
     "section": "References",
-    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
+    "text": "References\n\nChow JK, Golan Y, Ruthazer R, Karchmer AW, Carmeli Y, Lichtenberg D, et al. Factors Associated with Candidemia Caused by Non-albicans Candida Species Versus Candida albicans in the Intensive Care Unit. Clinical Infectious Diseases. 2008 Apr 15;46(8):1206–13."
   },
   {
-    "objectID": "disease/infective/encephalitis.html#epidemiology-and-risk-factors",
-    "href": "disease/infective/encephalitis.html#epidemiology-and-risk-factors",
-    "title": "Encephalitis",
+    "objectID": "disease/infective/aspergillosis.html#epidemiology-and-risk-factors",
+    "href": "disease/infective/aspergillosis.html#epidemiology-and-risk-factors",
+    "title": "Aspergillosis",
     "section": "Epidemiology and Risk Factors",
-    "text": "Epidemiology and Risk Factors"
+    "text": "Epidemiology and Risk Factors\nMajor risk factors for both disease and severity are essentially surrogates of immunosuppression as well as underlying lung disease. They include:\n\n\nRespiratory disease significantly ↑ rate of aspergillus colonisation, and risk of subsequent infection if immunocompromise occurs.\n\nPatient\n\nExtremes of age\n&lt;1 and &gt;70.\nMalnutrition\nAlcohol misuse\n\nDisease\n\nRespiratory\n\nCOPD\nCF\nInterstitial lung disease\n\nImmunocompromise\n\nDiabetes\nBurns\nHIV\nProlonged neutropenia\nBone marrow transplant\nSolid organ transplant\nLung most significant.\nComplicated abdominal surgery\nDecompensated CLD\n\n\nTreatment factors\n\nProlonged ICU stay\nMechanical ventilation\nBroad spectrum antibiotics\nIndwelling catheters\nPN\nSteroid\n&gt;1mg/kg for &gt;2 weeks.\nChemotherapy\n\nEnvironmental\n\nConstruction site exposure"
   },
   {
-    "objectID": "disease/infective/encephalitis.html#pathophysiology",
-    "href": "disease/infective/encephalitis.html#pathophysiology",
-    "title": "Encephalitis",
+    "objectID": "disease/infective/aspergillosis.html#pathophysiology",
+    "href": "disease/infective/aspergillosis.html#pathophysiology",
+    "title": "Aspergillosis",
     "section": "Pathophysiology",
-    "text": "Pathophysiology\n\nAetiology\nViral causes include:\n\nHSV 1\nClassically temporal lobe involvement.\nArboviruses\nJapanese encephalitis\nNipah virus\nHendra virus\nMurray Valley\nJohn Cunningham virus\nClassically immunosuppressed.\nWest Nile virus\nMost common cause of epidemic viral encephalitis."
+    "text": "Pathophysiology\nFungal pneumonia:\n\nPeri-vascular predominance in the immunocompromised\n\n↑ Rate of pulmonary infarction\nLeads to:\n\nHaemoptysis\nCavity formation\n\n\nBronchoalveolar pneumonia in the immunocompetent\n\nSimilar to other pneumonias\n“Classical” features of cavitation and aspergilloma formation are rarer"
   },
   {
-    "objectID": "disease/infective/encephalitis.html#clinical-manifestations",
-    "href": "disease/infective/encephalitis.html#clinical-manifestations",
-    "title": "Encephalitis",
+    "objectID": "disease/infective/aspergillosis.html#clinical-manifestations",
+    "href": "disease/infective/aspergillosis.html#clinical-manifestations",
+    "title": "Aspergillosis",
     "section": "Clinical Manifestations",
-    "text": "Clinical Manifestations\nCan be difficult to diagnose, with major symptoms resulting from infection of brain parenchyma:\n\nBrain parenchyma\n\nSpeech disturbance\nSeizures\nAltered cognition\n\n\nCertain causes result in particular presentations:\n\nCMV\n\nGanglionitis\nPolyradiculitis\n\nJohn Cunningham virus\n\nProgressive Multifocal Leucoencephalopathy\nSubacute:\n\nConfusion\nWeakness\nVisual symptoms"
+    "text": "Clinical Manifestations\n\nRespiratory failure\nPersistent infection\n\nPneumonia refractory to antibiotics\nRefractory fever\n\nPulmonary infarction\n\nCough\nPleuritic chest pain\nHaemoptysis\nMay be massive.\n\nDistant infection\n\nAbscesses\nSkin lesions\n\n\nIn the immunocompromised, haematogenous dissemination and rampant infection can lead to:\n\nEndocarditis\nEndophthalmitis\nAbscesses"
   },
   {
-    "objectID": "disease/infective/encephalitis.html#diagnostic-approach-and-ddx",
-    "href": "disease/infective/encephalitis.html#diagnostic-approach-and-ddx",
-    "title": "Encephalitis",
+    "objectID": "disease/infective/aspergillosis.html#diagnostic-approach-and-ddx",
+    "href": "disease/infective/aspergillosis.html#diagnostic-approach-and-ddx",
+    "title": "Aspergillosis",
     "section": "Diagnostic Approach and DDx",
     "text": "Diagnostic Approach and DDx"
   },
   {
-    "objectID": "disease/infective/encephalitis.html#investigations",
-    "href": "disease/infective/encephalitis.html#investigations",
-    "title": "Encephalitis",
+    "objectID": "disease/infective/aspergillosis.html#investigations",
+    "href": "disease/infective/aspergillosis.html#investigations",
+    "title": "Aspergillosis",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\nLaboratory:\nImaging:\n\nMRI\nT2-weighted.\n\nOther:\n\nLP\n\nPCR\n\nEEG\n\nSlow-wave activity\nEpileptiform discharges\nExtreme delta brush pattern\nHighly specific for NMDA-receptor encephalitis."
+    "text": "Investigations\n\nCultures, stain, and specific testing (galactomannan, PCR) are unable to discriminate between colonisation and infection.\n\nLaboratory:\n\n\nGalactomannan is a cell wall polysaccharide found in aspergillus, ice cream, salad dressings, and cream cheese.\n\nBlood\n\nFBE\n\nEosinophilia\nNeutropenia\n\nSerum galactomannan\n\nModerately sensitive (75%) and specific (85%) at a cutoff of &gt;0.5\nHigher cutoffs ↑ specificity and ↓ sensitivity.\nLower sensitivity in the immunocompetent and those receiving prophylaxis\n\nβ-D-glucan antigen\nCell wall component of most fungi. Improves sensitivity and specificity in combination with galactomannan.\nSerum PCR\n\nSimilar diagnostic properties to serum galactomannan.\n\n\nBronchoscopy\nBAL is an integral part of adequate sampling.\n\nVisual inspection\nFungal culture and stain\n\n\nDifficult to culture, with correspondingly low sensitivity and long culture times\nLoss of specificity with aspergillus colonisation\n\nAspergillus PCR\n\nHighly sensitive - negative result persuasive for no infection\n\nBAL galactomannan\n\nBetter than serum galactomannan in the immunocompetent\nMore likely to have contained pulmonary disease.\n\nTransbronchial biopsy\n\nDefinitive diagnostic test\nRisk of bleeding and pneumothorax often precludes this, particularly in the critically unwell\n\n\nSputum\nSignificantly ↓ yield compared with BAL.\n\nAspergillus radioallergosorbent assay\nSilver staining\nAspergillus IgG/IgE\n\n\nImaging:\n\nCXR\n\nAspergilloma cavities\n\nCT\n\nAspergilloma cavities\nNodules\nMonod sign\nFree-moving (i.e. positional and dependent) aspergilloma in a pulmonary cavity.\nHalo sign\nGround-glass opacity around a nodule or mass, usually indicating haemorrhage secondary to pulmonary infarction.\nAir crescent sign\nHalo of air around a region of necrosis, and indicates recovery.\n\n\n\n\n\n\n\nOther:\n\nOpen lung biopsy\nRarely indicated due to risk of procedure."
   },
   {
-    "objectID": "disease/infective/encephalitis.html#management",
-    "href": "disease/infective/encephalitis.html#management",
-    "title": "Encephalitis",
+    "objectID": "disease/infective/aspergillosis.html#management",
+    "href": "disease/infective/aspergillosis.html#management",
+    "title": "Aspergillosis",
     "section": "Management",
-    "text": "Management\nResuscitation:\n\nABC approach. Comment on team coordination and clinical priorities. Specific therapy:\n\nPharmacological\n\nAntiviral\nChoice depends on nature of viral infection.\n\nHSV encephalitis\n\nAciclovir 10mg/kg IV TDS for 14 days\nConsider continuing until CSF is HSV DNA negative\n\nCMV\n\nGanciclovir\nValganciclovir\n\n\n\nProcedural\nPhysical\n\nSupportive care:\nDisposition:\n\nMarginal and Ineffective Therapies"
+    "text": "Management\n\nAggressiveness of antifungal treatment depends on the severity of clinical presentation, and usually begins prior to diagnostic confirmation due to the long lead time of specific investigations.\n\nResuscitation:\n\nSpecific therapy:\n\nPharmacological\n\nAllergic Bronchopulmonary Aspergillosis\n\nCorticosteroids\nPO itraconazole\n\nAspergilloma\n\nPO itraconazole\n\nPneumonia and invasive disease\n\nIV antifungal\n\nVoriconazole\n1st line for efficacy.\nEchinocandins\nSynergistic when combined with azoles. Combination therapy may be appropriate with:\n\nKnown or likely azole resistance\nFrom culture findings, treatment failure, or local microbial patterns.\nSevere disease\nProfound immunosuppression.\n\nAmphotericin B\nGenerally not preferred due to nephrotoxicity. Indicated for:\n\nHepatic failure\nAzole-resistant\n\n\nAltering immunosuppression\nConsideration should be given to ↓ exogenous immunosuppression.\nG-CSF\nFor neutropenia.\n\n\nProcedural\n\nAspergilloma\n\nSurgical resection\nPercutaneous amphotericin injection\n\n\nPhysical\n\nRespiratory isolation\n\n\nSupportive care:\nDisposition:\n\nMarginal and Ineffective Therapies"
   },
   {
-    "objectID": "disease/infective/encephalitis.html#anaesthetic-considerations",
-    "href": "disease/infective/encephalitis.html#anaesthetic-considerations",
-    "title": "Encephalitis",
+    "objectID": "disease/infective/aspergillosis.html#anaesthetic-considerations",
+    "href": "disease/infective/aspergillosis.html#anaesthetic-considerations",
+    "title": "Aspergillosis",
     "section": "Anaesthetic Considerations",
     "text": "Anaesthetic Considerations"
   },
   {
-    "objectID": "disease/infective/encephalitis.html#complications",
-    "href": "disease/infective/encephalitis.html#complications",
-    "title": "Encephalitis",
+    "objectID": "disease/infective/aspergillosis.html#complications",
+    "href": "disease/infective/aspergillosis.html#complications",
+    "title": "Aspergillosis",
     "section": "Complications",
     "text": "Complications"
   },
   {
-    "objectID": "disease/infective/encephalitis.html#prognosis",
-    "href": "disease/infective/encephalitis.html#prognosis",
-    "title": "Encephalitis",
-    "section": "Prognosis",
-    "text": "Prognosis\nVaries depending on cause:\n\nHSV\n\n20% treated\n70% untreated"
-  },
-  {
-    "objectID": "disease/infective/encephalitis.html#key-studies",
-    "href": "disease/infective/encephalitis.html#key-studies",
-    "title": "Encephalitis",
-    "section": "Key Studies",
-    "text": "Key Studies"
-  },
-  {
-    "objectID": "disease/infective/encephalitis.html#references",
-    "href": "disease/infective/encephalitis.html#references",
-    "title": "Encephalitis",
-    "section": "References",
-    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
-  },
-  {
-    "objectID": "disease/infective/brain_abscess.html#epidemiology-and-risk-factors",
-    "href": "disease/infective/brain_abscess.html#epidemiology-and-risk-factors",
-    "title": "Brain Abscess",
-    "section": "Epidemiology and Risk Factors",
-    "text": "Epidemiology and Risk Factors"
-  },
-  {
-    "objectID": "disease/infective/brain_abscess.html#pathophysiology",
-    "href": "disease/infective/brain_abscess.html#pathophysiology",
-    "title": "Brain Abscess",
-    "section": "Pathophysiology",
-    "text": "Pathophysiology\nInfective spread from:\n\nBone\nDura\nBacteraemia\n\n\nAetiology\nOragnisms include:\n\nCommon\n\nS. Aureus\nStrepococcus spp.\nBacteroides fragilis\nGram negative"
-  },
-  {
-    "objectID": "disease/infective/brain_abscess.html#clinical-manifestations",
-    "href": "disease/infective/brain_abscess.html#clinical-manifestations",
-    "title": "Brain Abscess",
-    "section": "Clinical Manifestations",
-    "text": "Clinical Manifestations\nFeature include:\n\n↑ ICP\n\nObtundation\n\nMass lesion\n\nHeadache\nVomiting\nObtundation\nSeizures\n\n\n\n\nNotably, meningism is often absent."
-  },
-  {
-    "objectID": "disease/infective/brain_abscess.html#diagnostic-approach-and-ddx",
-    "href": "disease/infective/brain_abscess.html#diagnostic-approach-and-ddx",
-    "title": "Brain Abscess",
-    "section": "Diagnostic Approach and DDx",
-    "text": "Diagnostic Approach and DDx"
-  },
-  {
-    "objectID": "disease/infective/brain_abscess.html#investigations",
-    "href": "disease/infective/brain_abscess.html#investigations",
-    "title": "Brain Abscess",
-    "section": "Investigations",
-    "text": "Investigations\nBedside:\nLaboratory:\nImaging:\nOther:"
-  },
-  {
-    "objectID": "disease/infective/brain_abscess.html#management",
-    "href": "disease/infective/brain_abscess.html#management",
-    "title": "Brain Abscess",
-    "section": "Management",
-    "text": "Management\nResuscitation:\n\nABC approach. Comment on team coordination and clinical priorities. Specific therapy:\n\nPharmacological\nProcedural\nPhysical\n\nSupportive care:\nDisposition:\n\nMarginal and Ineffective Therapies"
-  },
-  {
-    "objectID": "disease/infective/brain_abscess.html#anaesthetic-considerations",
-    "href": "disease/infective/brain_abscess.html#anaesthetic-considerations",
-    "title": "Brain Abscess",
-    "section": "Anaesthetic Considerations",
-    "text": "Anaesthetic Considerations"
-  },
-  {
-    "objectID": "disease/infective/brain_abscess.html#complications",
-    "href": "disease/infective/brain_abscess.html#complications",
-    "title": "Brain Abscess",
-    "section": "Complications",
-    "text": "Complications"
-  },
-  {
-    "objectID": "disease/infective/brain_abscess.html#prognosis",
-    "href": "disease/infective/brain_abscess.html#prognosis",
-    "title": "Brain Abscess",
+    "objectID": "disease/infective/aspergillosis.html#prognosis",
+    "href": "disease/infective/aspergillosis.html#prognosis",
+    "title": "Aspergillosis",
     "section": "Prognosis",
     "text": "Prognosis"
   },
   {
-    "objectID": "disease/infective/brain_abscess.html#key-studies",
-    "href": "disease/infective/brain_abscess.html#key-studies",
-    "title": "Brain Abscess",
+    "objectID": "disease/infective/aspergillosis.html#key-studies",
+    "href": "disease/infective/aspergillosis.html#key-studies",
+    "title": "Aspergillosis",
     "section": "Key Studies",
     "text": "Key Studies"
   },
   {
-    "objectID": "disease/infective/brain_abscess.html#references",
-    "href": "disease/infective/brain_abscess.html#references",
-    "title": "Brain Abscess",
+    "objectID": "disease/infective/aspergillosis.html#references",
+    "href": "disease/infective/aspergillosis.html#references",
+    "title": "Aspergillosis",
     "section": "References",
-    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
+    "text": "References\n\nCase courtesy of Frank Gaillard, Radiopaedia.org, rID: 8684.\nCase courtesy of Ian Bickle, Radiopaedia.org, rID: 26223."
   },
   {
-    "objectID": "disease/infective/myelitis.html#epidemiology-and-risk-factors",
-    "href": "disease/infective/myelitis.html#epidemiology-and-risk-factors",
-    "title": "Myelitis",
+    "objectID": "disease/infective/tetanus.html#epidemiology-and-risk-factors",
+    "href": "disease/infective/tetanus.html#epidemiology-and-risk-factors",
+    "title": "Tetanus",
     "section": "Epidemiology and Risk Factors",
-    "text": "Epidemiology and Risk Factors"
+    "text": "Epidemiology and Risk Factors\nSignificant public health problem of the developing world, due to a combination of:\n\nHigh incidence\nMajor risk factors include:\n\nUnvaccinated\n\nLMIC\nElderly\n\nRural\nPoor\n\nRequirement for prolonged ICU care"
   },
   {
-    "objectID": "disease/infective/myelitis.html#pathophysiology",
-    "href": "disease/infective/myelitis.html#pathophysiology",
-    "title": "Myelitis",
+    "objectID": "disease/infective/tetanus.html#pathophysiology",
+    "href": "disease/infective/tetanus.html#pathophysiology",
+    "title": "Tetanus",
     "section": "Pathophysiology",
-    "text": "Pathophysiology\n\nAetiology"
+    "text": "Pathophysiology\nC. tetani is a gram positive rod and obligate anaerobe that:\n\nExists in spore form in the environment\nIs non-invasive\nRequires innoculation into a wound to produce infection - cannot grow in vitalised tissue.\nProduces two exotoxins:\n\nTetanospasmin\n\nLD50 0.01mg\nHaematological spread\nUptake into motor nerve endings, and transport into nervous system\nDiffuses into interstitium with, and acts on pre-synaptic terminals of nearby neurones\nProduces dysfunction of predominantly inhibitory interneurons:\n\nMuscle spasms\nAutonomic dysfunction Requires toxin to diffuse to lateral horns.\n\n↑ Sympathetic tone\n\nCognitive dysfunction\n\n\nTetanolysin\nLocalised tissue destruction; clinically relatively unimportant.\n\n\n\n\nFun Fact:\n~240g of tetanospasmin could kill the entire world population.\n\nAetiology\nMechanisms of C. tetani innoculation include:\n\nTrauma\n\nPuncture\nLaceration\nDog bites\nPiercings\n\nSkin breakdown\n\nBurns\nChronic ulcers\nDental infections\n\nOther devitalised tissue\n\nAbortion\nChildbirth\nTetanus neonatorum\nInfection of umbilical stump."
   },
   {
-    "objectID": "disease/infective/myelitis.html#clinical-manifestations",
-    "href": "disease/infective/myelitis.html#clinical-manifestations",
-    "title": "Myelitis",
+    "objectID": "disease/infective/tetanus.html#clinical-manifestations",
+    "href": "disease/infective/tetanus.html#clinical-manifestations",
+    "title": "Tetanus",
     "section": "Clinical Manifestations",
-    "text": "Clinical Manifestations"
+    "text": "Clinical Manifestations\nPresentation:\n\nOccurs following an incubation period\nA shorter incubation period indicates ↑ severity.\n\nUsually &gt;2 days\n\n90% &lt;14 days\nUp to 60 days\n\nPain\nMusculoskeletal symptoms\nProgression:\n\nStiffness\nRigidity\nTrismus\nPresentation typically at this point, which occurs due to masseter spasm.\nRisus sardonicus\nClenched-teeth expression relating to facial muscle spasm.\n\nAutonomic dysfunction\n\nConfined to severe cases\nBegins after muscle spasms\nGenerally short-duration episodes of:\n\n↑↑ Sympathetic tone\n↑↑ Parasympathetic tone\n\nIncluding sudden cardiac arrest\nParticularly in IVDU.\n\n\n\n\n\n\n\nTetanus neonatorum presents:\n\n~7th day of life\nShort history of failure to feed"
   },
   {
-    "objectID": "disease/infective/myelitis.html#diagnostic-approach-and-ddx",
-    "href": "disease/infective/myelitis.html#diagnostic-approach-and-ddx",
-    "title": "Myelitis",
+    "objectID": "disease/infective/tetanus.html#diagnostic-approach-and-ddx",
+    "href": "disease/infective/tetanus.html#diagnostic-approach-and-ddx",
+    "title": "Tetanus",
     "section": "Diagnostic Approach and DDx",
-    "text": "Diagnostic Approach and DDx"
+    "text": "Diagnostic Approach and DDx\nInclude:\n\nLocal disease\n\nDental\nTMJ disease\nInfection\n\nNeurological disease\n\nEpilepsy\n\nToxidromes\n\nTCA overdose\nStrychnine poisoning"
   },
   {
-    "objectID": "disease/infective/myelitis.html#investigations",
-    "href": "disease/infective/myelitis.html#investigations",
-    "title": "Myelitis",
+    "objectID": "disease/infective/tetanus.html#investigations",
+    "href": "disease/infective/tetanus.html#investigations",
+    "title": "Tetanus",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\nLaboratory:\nImaging:\nOther:"
+    "text": "Investigations\n\nNo specific laboratory findings - diagnosis is clinical.\n\nBedside:\n\nABG\nRespiratory failure.\n\nLaboratory:\n\nBloods\n\nUEC\nRhabdomyolysis.\nCMP\n\nWound culture\nMay grow C. tetani.\n\nImaging:\nOther:"
   },
   {
-    "objectID": "disease/infective/myelitis.html#management",
-    "href": "disease/infective/myelitis.html#management",
-    "title": "Myelitis",
+    "objectID": "disease/infective/tetanus.html#management",
+    "href": "disease/infective/tetanus.html#management",
+    "title": "Tetanus",
     "section": "Management",
-    "text": "Management\nResuscitation:\n\nABC approach. Comment on team coordination and clinical priorities. Specific therapy:\n\nPharmacological\nProcedural\nPhysical\n\nSupportive care:\nDisposition:\n\nMarginal and Ineffective Therapies"
+    "text": "Management\n\nPrinciples:\n\nImmunoglobulin to neutralise circulating toxin\nSource control/wound care\nSupportive care\n\n\nResuscitation:\n\n\nA\n\nIntubation\nFor control of muscle spasm.\n\nB\n\nMechanical ventilation\n\n\nIf respiratory muscle involvement\nMuscle relaxation if spasms prevent ventilation\nNo particular agent is preferred.\n\n\nC\n\nHaemodynamic control\nConsider:\n\n↓ Catecholamine production\n\nSedation\nMay require hefty doses, Oh’s quotes 3.4 grams of diazepam daily.\nOpioids\nHeavy doses may also be required.\n\nα/β Antagonists\n\n\nClonidine\nPhentolamine, phenoxybenzamine\nEsmolol\n\nMgSO4\nTarget 2.4-4mmol/L. May also assist in ↓ spasm.\n\n\n\nSpecific therapy:\n\nPharmacological\n\nHuman antitetanus immunoglobulin\n\n500 IU\nShould be given to all patients who are not known to be immunised on presentation\nBinds circulating toxin\n\nAntibiotics\nSpores and bacteria are destroyed by:\n\nMetronidazole 500mg IV Q6-8H for 10 days\nPreferred.\nPenicillin G 1-3MU IV Q6H for 10 days\n\n\nProcedural\n\nWound care\nWashout of contaminated wounds.\nSource control\n\nPhysical\n\nSupportive Care:\n\nC\n\nHaemodynamic control\n\nLabetalol\nMagnesium\nClonidine\n\n\n\nDisposition:\n\nICU\n\nPreventative:\n\nTetanus toxoid vaccine\n\nCheap\nThree doses for full course\n2nd at 6-12 weeks, 3rd at 6-12 months.\nBooster every 10 years\nOccasionally results in local tetanus\nSpasm of limb or muscle.\nFrequent doses may result in non-life threatening immune symptoms\n\n\n\n\nNeonates have immunity via maternal antibodies until 3 months, and vaccination of pregnant women will protect children produced within 5 years.\n\nMarginal and Ineffective Therapies"
   },
   {
-    "objectID": "disease/infective/myelitis.html#anaesthetic-considerations",
-    "href": "disease/infective/myelitis.html#anaesthetic-considerations",
-    "title": "Myelitis",
-    "section": "Anaesthetic Considerations",
-    "text": "Anaesthetic Considerations"
-  },
-  {
-    "objectID": "disease/infective/myelitis.html#complications",
-    "href": "disease/infective/myelitis.html#complications",
-    "title": "Myelitis",
+    "objectID": "disease/infective/tetanus.html#complications",
+    "href": "disease/infective/tetanus.html#complications",
+    "title": "Tetanus",
     "section": "Complications",
-    "text": "Complications"
+    "text": "Complications\n\nDeath\nB\n\nRespiratory failure\n\nC\n\nCardiac failure\n↑ Catecholamines.\nHypertensive crises\n\nD\n\nSpasm\n\nF\n\nRhabdomyolysis"
   },
   {
-    "objectID": "disease/infective/myelitis.html#prognosis",
-    "href": "disease/infective/myelitis.html#prognosis",
-    "title": "Myelitis",
+    "objectID": "disease/infective/tetanus.html#prognosis",
+    "href": "disease/infective/tetanus.html#prognosis",
+    "title": "Tetanus",
     "section": "Prognosis",
-    "text": "Prognosis"
+    "text": "Prognosis\n\nDeath\n\n80% without ICU care\n10% with mechanical ventilation\nMore common with:\n\nSystemic tetanus\nCephalic tetanus\nSecondary to head and neck injuries with CN involvement.\nAge\n\n\nC\n\nArrhythmias\nCardiac failure\n\nD\n\nSpasm\n\nMost resolve within 1-3 weeks\nResidual stiffness may remain\n\nCognitive changes"
   },
   {
-    "objectID": "disease/infective/myelitis.html#key-studies",
-    "href": "disease/infective/myelitis.html#key-studies",
-    "title": "Myelitis",
+    "objectID": "disease/infective/tetanus.html#key-studies",
+    "href": "disease/infective/tetanus.html#key-studies",
+    "title": "Tetanus",
     "section": "Key Studies",
     "text": "Key Studies"
   },
   {
-    "objectID": "disease/infective/myelitis.html#references",
-    "href": "disease/infective/myelitis.html#references",
-    "title": "Myelitis",
+    "objectID": "disease/infective/tetanus.html#references",
+    "href": "disease/infective/tetanus.html#references",
+    "title": "Tetanus",
     "section": "References",
     "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
-  },
-  {
-    "objectID": "disease/infective/sbp.html#epidemiology-and-risk-factors",
-    "href": "disease/infective/sbp.html#epidemiology-and-risk-factors",
-    "title": "Spontaneous Bacterial Peritonitis",
-    "section": "Epidemiology and Risk Factors",
-    "text": "Epidemiology and Risk Factors\nRisk factors:\n\nLiver dysfunction\nVariceal bleeding\nPrevious SBP"
-  },
-  {
-    "objectID": "disease/infective/sbp.html#pathophysiology",
-    "href": "disease/infective/sbp.html#pathophysiology",
-    "title": "Spontaneous Bacterial Peritonitis",
-    "section": "Pathophysiology",
-    "text": "Pathophysiology\n\nAetiology"
-  },
-  {
-    "objectID": "disease/infective/sbp.html#clinical-manifestations",
-    "href": "disease/infective/sbp.html#clinical-manifestations",
-    "title": "Spontaneous Bacterial Peritonitis",
-    "section": "Clinical Manifestations",
-    "text": "Clinical Manifestations\nHistory:\n\nAbdominal pain\nConfusion\n\nExamination:\n\nFever"
-  },
-  {
-    "objectID": "disease/infective/sbp.html#diagnostic-approach-and-ddx",
-    "href": "disease/infective/sbp.html#diagnostic-approach-and-ddx",
-    "title": "Spontaneous Bacterial Peritonitis",
-    "section": "Diagnostic Approach and DDx",
-    "text": "Diagnostic Approach and DDx\n\nMortality approaches 80% if an unnecessary laparotomy is performed, so it is vital to distinguish SBP from secondary peritonitis.\n\nKey differentials:\n\nSecondary peritonitis\n\nBowel perforation"
-  },
-  {
-    "objectID": "disease/infective/sbp.html#investigations",
-    "href": "disease/infective/sbp.html#investigations",
-    "title": "Spontaneous Bacterial Peritonitis",
-    "section": "Investigations",
-    "text": "Investigations\nPathology:\n\nAscitic tap\nRequired for diagnosis.\n\nUsually low bacterial concentrations of a single organism\n10-20mL should be placed into blood culture bottles to increase yield"
-  },
-  {
-    "objectID": "disease/infective/sbp.html#management",
-    "href": "disease/infective/sbp.html#management",
-    "title": "Spontaneous Bacterial Peritonitis",
-    "section": "Management",
-    "text": "Management\nResuscitation:\n\nSpecific therapy:\n\nPharmacological\n\nAntibiotics\n\nParacentesis should be repeated at 48 hours\n\n20% Albumin\n\n↓ AKI\nSubstantial ↓ mortality\n\n\nProcedural\nPhysical\n\nSupportive care:\nDisposition:\n\nProphylactic antibiotics\nMay be appropriate in high risk patients; agents include:\n\nRifaximin\nNorfloxacin\nCiprofloxacin\n\n\n\nMarginal and Ineffective Therapies"
-  },
-  {
-    "objectID": "disease/infective/sbp.html#anaesthetic-considerations",
-    "href": "disease/infective/sbp.html#anaesthetic-considerations",
-    "title": "Spontaneous Bacterial Peritonitis",
-    "section": "Anaesthetic Considerations",
-    "text": "Anaesthetic Considerations"
-  },
-  {
-    "objectID": "disease/infective/sbp.html#complications",
-    "href": "disease/infective/sbp.html#complications",
-    "title": "Spontaneous Bacterial Peritonitis",
-    "section": "Complications",
-    "text": "Complications"
-  },
-  {
-    "objectID": "disease/infective/sbp.html#prognosis",
-    "href": "disease/infective/sbp.html#prognosis",
-    "title": "Spontaneous Bacterial Peritonitis",
-    "section": "Prognosis",
-    "text": "Prognosis\nFeatures associated with ↑ mortality include:\n\nResistant organism"
-  },
-  {
-    "objectID": "disease/infective/sbp.html#key-studies",
-    "href": "disease/infective/sbp.html#key-studies",
-    "title": "Spontaneous Bacterial Peritonitis",
-    "section": "Key Studies",
-    "text": "Key Studies"
-  },
-  {
-    "objectID": "disease/infective/sbp.html#references",
-    "href": "disease/infective/sbp.html#references",
-    "title": "Spontaneous Bacterial Peritonitis",
-    "section": "References",
-    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
-  },
-  {
-    "objectID": "disease/infective/necfas.html#epidemiology-and-risk-factors",
-    "href": "disease/infective/necfas.html#epidemiology-and-risk-factors",
-    "title": "Necrotising Fasciitis",
-    "section": "Epidemiology and Risk Factors",
-    "text": "Epidemiology and Risk Factors\nPredisposing factors for necrotising soft tissue infection include:\n\nPrevious trauma\nPrevious surgery\nPre-existing infection\nObesity\nDiabetes\nSmoking\nIV drug use\nImmunosuppression\n\nRisk factors associated with ↑ mortality include:\n\nAge\nEspecially in &gt;70 age group.\nIllness severity\nOrganism\nHigher mortality seen with:\n\nGroup A Streptococci\nEnteric organisms"
-  },
-  {
-    "objectID": "disease/infective/necfas.html#pathophysiology",
-    "href": "disease/infective/necfas.html#pathophysiology",
-    "title": "Necrotising Fasciitis",
-    "section": "Pathophysiology",
-    "text": "Pathophysiology\nNecrotising fasciitis involves * Rapid proliferation of subcutaneous bacteria * Leukococyte proliferation * Thrombosis of fascial vessels\nLeads to ischaemia and necrosis of tissue."
-  },
-  {
-    "objectID": "disease/infective/necfas.html#clinical-manifestations",
-    "href": "disease/infective/necfas.html#clinical-manifestations",
-    "title": "Necrotising Fasciitis",
-    "section": "Clinical Manifestations",
-    "text": "Clinical Manifestations\n\nHistory\n\n\nExamination"
-  },
-  {
-    "objectID": "disease/infective/necfas.html#diagnostic-approach-and-ddx",
-    "href": "disease/infective/necfas.html#diagnostic-approach-and-ddx",
-    "title": "Necrotising Fasciitis",
-    "section": "Diagnostic Approach and DDx",
-    "text": "Diagnostic Approach and DDx"
-  },
-  {
-    "objectID": "disease/infective/necfas.html#investigations",
-    "href": "disease/infective/necfas.html#investigations",
-    "title": "Necrotising Fasciitis",
-    "section": "Investigations",
-    "text": "Investigations"
-  },
-  {
-    "objectID": "disease/infective/necfas.html#management",
-    "href": "disease/infective/necfas.html#management",
-    "title": "Necrotising Fasciitis",
-    "section": "Management",
-    "text": "Management\nStandard treatment involves:\n\nImmediate and radical surgical debridement of dead and infected tissue\nDelayed debridement associated with increasd mortalityh.\nAntibiotics\nBroad spectrum.\n\nShould include good streptococcal cover\n\nHDU or ICU care\n\n\nHyperbaric oxygen therapy\n\nControversial\nA retrospective review suggested that HBOT suggests patients are 4x less likely to die\nMultiple suggested mechanisms:\n\n↑ viability of marginal tissue\nReduces bacterial toxin prouction\nInhibits anaerobic bacterial growth\n↑ tissue oxdiation reduction potential.\nPotentiates antibiotic function\nImproves efficacy of neutrophil respiratory burst\n\nEvidence is conflicting and some retrospective studies do not demonstrate mortality benefit\n\n\n\nIntravenous Immunoglobulin\n\n\nMarginal and Ineffective Therapies"
-  },
-  {
-    "objectID": "disease/infective/necfas.html#complications",
-    "href": "disease/infective/necfas.html#complications",
-    "title": "Necrotising Fasciitis",
-    "section": "Complications",
-    "text": "Complications"
-  },
-  {
-    "objectID": "disease/infective/necfas.html#prognosis",
-    "href": "disease/infective/necfas.html#prognosis",
-    "title": "Necrotising Fasciitis",
-    "section": "Prognosis",
-    "text": "Prognosis\n\n30% mortality with aggressive surgical intervention and appropriate antibiotics\nFrequent surgical debridements\nLong hospital stay\nLarge soft tissue defects"
-  },
-  {
-    "objectID": "disease/infective/necfas.html#references",
-    "href": "disease/infective/necfas.html#references",
-    "title": "Necrotising Fasciitis",
-    "section": "References",
-    "text": "References\n\nDevaney B, Frawley G, Frawley L, Pilcher DV. Necrotising soft tissue infections: the effect of hyperbaric oxygen on mortality. Anaesth Intensive Care. 2015 Nov;43(6):685-92. PubMed PMID: 26603791.\nLevett D, Bennett MH, Millar I. Adjunctive hyperbaric oxygen for necrotizing fasciitis. Cochrane Database of Systematic Reviews 2015, Issue 1. Art. No.: CD007937."
   },
   {
     "objectID": "disease/tox/paracetamol.html#epidemiology-and-risk-factors",
@@ -17105,7 +17168,7 @@
     "href": "disease/obs/eclampsia.html#management",
     "title": "Eclampsia",
     "section": "Management",
-    "text": "Management\n\nGoals:\n\nAirway protection and aspiration prevention\nCorrect hypertension\nTerminate seizure\nPrevent recurrent seizure\nExpedite delivery\n\n\n\n\nManagement of co-existing pre-eclampsia is crucial, and is covered at Chapter 388.\nResuscitation:\n\n\nA\n\nAirway protection\nPrevention of aspiration.\n\nB\n\nSupplemental oxygen\n\nC\n\nControl of blood pressure\n\nTarget SBP 140-150mmHg and DBP 90-100mmHg\nStrategy depends on severity of hypertension\n\nHypertensive crisis:\n\nLabetalol\n\n20-80mg IV over 2 minutes\nCan repeat every 10 minutes.\n\nNifedipine\n\n10-20mg PO IR\n\nHydralazine\n\n\n10mg IV Q20 minutes\n\nGTN\nFor hypertension and APO\n\n\n\n\nD\n\nSeizure prophylaxis\n\nMagnesium Sulphate\n\nProphylaxis and treatment for eclampsia in women with severe pre-eclampsia\nNot recommended for use as an antihypertensive agent.\nMultifactorial mechanism of action:\n\n↑ Prostacyclin synthesis\n↓ Calcium influx\nThereby ↓ ATP-consuming Ca2+-dependent processes.\nNMDA antagonism\n\nGive 4g over 20 minutes, and then 1g/hr thereafter\nTarget level is 1.7-3.5mmol/L\nBlood levels should be performed:\n\nQ6H in women with renal impairment\nIf any of:\n\nRR &lt; 12\nUO &lt; 100ml over 4 hours\nLoss of patella reflexes\nSeizures\nIncluding repeat seizures.\n\n\nMagnesium toxicity\n\nAssociated with muscular weakness, rarely respiratory arrest\nUnlikely if deep tendon reflexes present\nTreated with:\n\nCalcium\nRRT\n\n\n\nAnticonvulsants\n\n\nConventional anticonvulsants are only indicated for:\n\nPersistent seizures (&gt;5 minutes) with therapeutic magnesium levels\nMagnesium contraindication\n\nBenzodiazepines\n\nLorazepam 4mg IV\nMidazolam 1-2mg IV\n\n\n\n\n\nSpecific therapy:\n\nPharmacological\n\nBlood pressure control\n\nProcedural\n\nExpedite delivery\n\n\nDisposition:\n\nICU Admission\n\n\nFollowing seizure\nCommonly required after delivery\n\n\n\nMarginal and Ineffective Therapies"
+    "text": "Management\n\nGoals:\n\nAirway protection and aspiration prevention\nCorrect hypertension\nTerminate seizure\nPrevent recurrent seizure\nExpedite delivery\n\n\n\n\nManagement of co-existing pre-eclampsia is crucial, and is covered at Chapter 389.\nResuscitation:\n\n\nA\n\nAirway protection\nPrevention of aspiration.\n\nB\n\nSupplemental oxygen\n\nC\n\nControl of blood pressure\n\nTarget SBP 140-150mmHg and DBP 90-100mmHg\nStrategy depends on severity of hypertension\n\nHypertensive crisis:\n\nLabetalol\n\n20-80mg IV over 2 minutes\nCan repeat every 10 minutes.\n\nNifedipine\n\n10-20mg PO IR\n\nHydralazine\n\n\n10mg IV Q20 minutes\n\nGTN\nFor hypertension and APO\n\n\n\n\nD\n\nSeizure prophylaxis\n\nMagnesium Sulphate\n\nProphylaxis and treatment for eclampsia in women with severe pre-eclampsia\nNot recommended for use as an antihypertensive agent.\nMultifactorial mechanism of action:\n\n↑ Prostacyclin synthesis\n↓ Calcium influx\nThereby ↓ ATP-consuming Ca2+-dependent processes.\nNMDA antagonism\n\nGive 4g over 20 minutes, and then 1g/hr thereafter\nTarget level is 1.7-3.5mmol/L\nBlood levels should be performed:\n\nQ6H in women with renal impairment\nIf any of:\n\nRR &lt; 12\nUO &lt; 100ml over 4 hours\nLoss of patella reflexes\nSeizures\nIncluding repeat seizures.\n\n\nMagnesium toxicity\n\nAssociated with muscular weakness, rarely respiratory arrest\nUnlikely if deep tendon reflexes present\nTreated with:\n\nCalcium\nRRT\n\n\n\nAnticonvulsants\n\n\nConventional anticonvulsants are only indicated for:\n\nPersistent seizures (&gt;5 minutes) with therapeutic magnesium levels\nMagnesium contraindication\n\nBenzodiazepines\n\nLorazepam 4mg IV\nMidazolam 1-2mg IV\n\n\n\n\n\nSpecific therapy:\n\nPharmacological\n\nBlood pressure control\n\nProcedural\n\nExpedite delivery\n\n\nDisposition:\n\nICU Admission\n\n\nFollowing seizure\nCommonly required after delivery\n\n\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/obs/eclampsia.html#anaesthetic-considerations",
