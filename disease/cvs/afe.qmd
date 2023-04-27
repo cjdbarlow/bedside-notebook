@@ -1,13 +1,14 @@
 # Amniotic Fluid Embolism
 
+:::Crisis
+This is an **anaesthetic crisis**. Priority is to:
 
-> This is an <span style="color:red">**anaesthetic crisis**</span>\
-> Priority is to:
->* **Manage A-B-Cs**
->* **Prepare for impending DIC**
+* Manage cardiorespiratory collapse
+* Aggressive **right ventricular support**
+* Prepare for **impending DIC**
+:::
 
-
-Embolism of amniotic fluid and foetal cells into the maternal circulation. May lead to profound shock and death via obstructive and distribute shock, occurring in two phases:
+Embolism of amniotic fluid and foetal cells into the maternal circulation, which may precipitate cardiorespiratory collapse via obstructive and distributive shock, occurring in two phases:
 
 * **Phase 1: Acute Right Heart Dysfunction**\
 ↑ PVR and right heart dysfunction due to spasm of the pulmonary artery by biochemical mediators.
@@ -20,31 +21,6 @@ Embolism of amniotic fluid and foetal cells into the maternal circulation. May l
 	* Endothelial activation
 	* DIC
 
-##<span style="color:red">Emergency Management</span>
-
-**Aggressive supportive measures**:
-
-* Airway
-	* Generally early intubation
-* Breathing
-	* May require bronchodilators\
-	Note uterine tone.
-* Circulation\
-Rapid establishment of:
-	* Invasive pressure monitoring
-	* Aggressive filling
-	* Vasopressors
-	* Pulmonary vasodilators
-	* Mechanical support\
-	Includes:
-		* CPB
-		* ECMO
-		* IABP
-
-**Early consultation with**:
-
-* Haematology
-* Intensive care
 
 ## Epidemiology and Risk Factors
 
@@ -102,18 +78,19 @@ Two broad theories for mechanism of disease (neither of which independently expl
 		* Thromboplastic
 		* Tissue factor 
 
+
 ## Clinical Manifestations
 
 In general:
 
 * Timing can be variable
-	* 65-70% during active labour\
-	* 20% during LUSCS\
-	* 10% following vaginal delivery\
+	* 65-70% during active labour
+	* 20% during LUSCS
+	* 10% following vaginal delivery
 May occur up to 48 hours post-partum.
 * Presentation may be non-specific\
 Hypotension and foetal distress are present in **all cases**.
-* Classicaly has a **rapid** and **severe** triad of:
+* Classically has a **rapid** and **severe** triad of:
 	* **Hypoxic respiratory failure**\
 	Pulmonary oedema occurs in ~95%.
 	* **Cardiogenic shock**\
@@ -153,25 +130,42 @@ Key differentials include other causes of shock, particularly:
 
 ## Investigations
 
-AFE is funamentally a clinical diagnosis. Key supportive investigations:
+Bedside:
 
-* FBE/UEC/CMP/ABC\
-Commonly performed but do not aid management. Thrombocytopaenia is rare initially.
-* Cardiac enzymes
-* Coagulation assay\
-Classically low (or entirely **absent**) fibrinogen with prolonged PT and APTT.
-* TEG/ROTEM\
-For evaluating DIC.
 * Echocardiography\
 TTE or TOE if available. Key findings:
 	* RV failure
 	* Pulmonary hypertension
 	* Underfilled LV
 	* Intracardiac thrombi/emboli
-* ECG\
-RV strain, tachycardia, ischaemia.
+
+
+Laboratory:
+
+:::column-margin
+AFE is fundamentally a clinical diagnosis, investigations may guide supportive management.
+:::
+
+* Bloods
+	* FBE/UEC/CMP/ABC\
+	Commonly performed but do not aid management. Thrombocytopaenia is rare initially.
+	* Cardiac enzymes
+	* Coagulation assay\
+	Classically low (or entirely **absent**) fibrinogen with prolonged PT and APTT.
+	* TEG/ROTEM\
+	For evaluating DIC.
+
+Imaging:
+
 * CXR
 
+
+Other:
+
+* ECG\
+RV strain, tachycardia, ischaemia.
+
+:::column-margin
 Investigations that have been used for diagnosis include:
 
 * Maternal PA blood sampling for squamous epithelial cells\
@@ -179,16 +173,44 @@ Drawn from a wedged PAC.
 * Histological analysis of cervix\
 If a hysterectomy has been performed
 * Autopsy
+:::
 
 ## Management
 
-Treatment is **entirely supportive**:
+:::info
+Principles:
 
-* Key management depends on **whether foetus has been delivered**
-* General principles:
-	* Early intubation if required for hypoxia
-	* Support circulation with fluid, aggressive vasopressors, and inotropes
-	* Early correction hypofibrinogenaemia with cryoprecipitate
+* **Deliver** the foetus
+* Early **intubation** if required for hypoxia
+* Support circulation with fluid, **aggressive vasopressors**, and **inotropes**
+* Early correction hypofibrinogenaemia with **cryoprecipitate**
+:::
+
+**Resuscitation**:
+
+* A
+	* Generally early intubation
+* B
+	* May require bronchodilators\
+	Note uterine tone; consider avoiding β-agonists.
+* C\
+Rapid establishment of:
+	* Invasive pressure monitoring
+	* Aggressive filling
+	* Vasopressors
+	* Pulmonary vasodilators
+	* Mechanical support\
+	Includes:
+		* CPB
+		* ECMO
+		* IABP
+* H
+	* Massive transfusion likely\
+	Early haematological consultation.
+
+**Disposition:**
+
+* ICU admission likely
 
 
 ## Complications
@@ -209,8 +231,8 @@ Due to DIC.
 ## Prognosis
 
 * High mortality\
-Especially in initial periods.
-
+20-60% in developed nations. Highest in initial periods.
+* Neurological morbidity
 
 ---
 

@@ -1,15 +1,19 @@
-# Cardiac Disease in Pregnancy
+# Cardiac Disease in Pregnancy {#sec-pregcardiac}
 
-*This describes the general management of the pregnant patient with cardiac disease. Management of [peripartum cardiomyopathy](/disease/cvs/peripartum.md) is covered elsewhere.*
-
-> * Risk of pregnancy depends on specific disease and patients condition, individual counselling by experts is recommended
-> * Risk stratification is important, and even the lowest-risk patients still have up to 5% risk of peripartum
+:::info
+* Risk of pregnancy depends on specific disease and patients condition, individual counselling by experts is recommended
+* Risk stratification is important, and even the lowest-risk patients still have up to 5% risk of peripartum
+:::
 
 Pregnancy is a:
 
+:::column-margin
+This describes the general management of the pregnant patient with cardiac disease. Management of peripartum cardiomyopathy is covered under @sec-peripartum_cm.
+:::
+
 * Significant circulatory burden\
 Achieving a term pregnancy demonstrates presence of physiological reserve.
-* Time where underlying cardiac disease is diagnosed
+* Time where previously asymptomatic underlying cardiac disease is unmasked and diagnosed
 
 ## Epidemiology and Risk Stratification
 
@@ -32,7 +36,7 @@ Predictors:
 	* Prior cardiac events\
 	Includes:
 		* Failure
-		* Stroke/TIA
+		* Stroke or TIA
 		* Arrhythmias
 	* NYHA III/IV or resting SpO~2~ <90%
 	* High-risk valve disease/LVOT obstruction
@@ -46,8 +50,9 @@ Predictors:
 * Care related
 	* Late pregnancy assessment
 
+:::column-margin
 ![](/resources/carpreg.jpg)
-
+:::
 
 ### WHO Risk Stratification
 
@@ -63,7 +68,6 @@ Low (WHO I) risk:
 	* Isolated ectopics
 
 
-
 Moderate (WHO II) risk:
 
 * Require cardiology followup every trimester
@@ -71,7 +75,6 @@ Moderate (WHO II) risk:
 	* Uncorrected ASD or VSD
 	* Repaired ToF
 	* Most arrhythmias
-
 
 
 Moderate-severe (WHO II-III) risk:
@@ -84,50 +87,41 @@ Moderate-severe (WHO II-III) risk:
 	* Repaired coarctation
 
 
-
 Severe (WHO III) risk:
 
 * High risk of complications requiring *at least* monthly cardiology and obstetric review
 * Mechanical valve
-* Systemic RV/Fontan
+* Systemic RV or Fontan
 * Cyanotic heart disease
 * Other complex congenital heart disease
-* Aortic dilatation 40-45mm in Marfan's
-* Aortic dilatation 45-50mm with bicuspid AV
+* Aortic dilatation:
+	* 40-45mm in Marfan's
+	* 45-50mm with bicuspid AV
 
 
+### Contraindications to Pregnancy
 
-Critical (WHO IV) risk:
-
-* Pregnancy contraindicated\
+:::info
+These patients are also classified as Critical (WHO IV) risk.\
+\
 Pregnant women who will not consider termination require at least monthly review.
-* Includes:
-	* PAH
-	* Severe LV dysfunction\
-	NYHA III-IV or LVEF <30%.
-	* Previous peripartum cardiomyopathy
-	* Severe MS
-	* Severe symptomatic AS
-	* Marfan's with aorta ⩾45mm
-	* Aortic dilatation ⩾50mm with bicuspid AV
-	* Severe coarctation
-
-
-
-### Contraindications to Pregnancy\
-
-Disease of such risk that pregnancy is considered a contraindication include:
+:::
 
 * Severe Pulmonary Hypertension\
-Mortality up to 50%.
+Mortality up to 50%.	
+* Severe LV dysfunction\
+NYHA III-IV or LVEF <30%.
+* Previous peripartum cardiomyopathy
 * Severe obstructive cardiac disease
 	* HOCM
-	* Aortic stenosis
+	* Symptomatic Aortic stenosis
 	* Mitral stenosis
 	* Pulmonary stenosis
 	* Unrepaired coarctation
-* NYHA III or IV heart failure
-* Marfan's disease with aortic root ≥4cm
+* Aortic dilatation:
+	* ⩾45mm in Marfan's
+	* ⩾50mm with bicuspid AV
+* Severe coarctation
 
 
 ## Pathophysiology
@@ -150,12 +144,10 @@ Poorer prognosis with decompensated disease, i.e.:
 * Pulmonary Hypertension
 	* Highest risk is in the week following delivery
 
-
-
 Consequences:
 
 * Neonate\
-Complications occur in 20-38% of women with cardiac disease, with key risk factors being:
+Complications occur in 20-38% of women with cardiac disease, with key risk factors:
 	* NYHA >II
 	* Maternal LVOT obstruction
 	* Smoking
@@ -184,41 +176,48 @@ Key investigations include:
 	* Haemoglobin
 	* Coagulation status
 * ECG
-* Echocardiogram
+* Echocardiogram\
+For any pregnant patient with new or changing symptoms
 * Cardiac MRI
 
 
 ## Management
 
-Preparation:
+:::info
+Highly complicated patients with extensive preparation required:
 
 * Multidisciplinary approach
+	* Anaesthesia
+	* Obstetrics
+	* Maternal-foetal medicine
+		* Obstetric cardiology
+	* Intensive care
+	* Neonatology
 * Tertiary centre
-* Adult ICU available
-* Invasive monitoring required
-* Optimise underlying cardiac disease\
-Manage the lesion.
-	* Note prognosis is often worse due to the higher CO demand
-* Echocardiography for any pregnant patient with new or changing symptoms
-* If requiring surgery, delivery should be considered after 28 weeks
+	* Adult ICU available
+* Optimise underlying cardiac disease
+:::
 
+**Specific Therapy**:
 
-Delivery:
-
-* Vaginal delivery preferred in:
-	* Severe hypertension\
-	Aim for a "stress free" labour.
-		* Early epidural is recommended\
-		Beware the fixed cardiac-output state.
-* Vaginal delivery **not** preferred in:
-	* Aortic dissection
-	* Marfans syndrome with severe aortic root dilatation
-* Caesarian delivery considered in:
-	* Aortic dilation >45mm
-	* Severe AS
-	* Pre-term labour on anticoagulants
-	* Eisenmenger's syndrome
-	* Severe heart failure
+* Procedural
+	* Delivery\
+	Generally planned for between **28-34** weeks.
+		* Vaginal delivery
+			* Preferred in:
+				* Severe hypertension\
+				Aim for a "stress free" labour.
+				* Early epidural is recommended\
+				Beware the fixed cardiac-output state.
+			* Avoid in:
+				* Aortic dissection
+				* Marfan's syndrome with severe aortic root dilatation
+		* Caesarian delivery:
+			* Aortic dilation >45mm
+			* Severe AS
+			* Pre-term labour on anticoagulants
+			* Eisenmenger's syndrome
+			* Severe heart failure
 
 
 ### Anaesthetic Considerations
@@ -245,6 +244,7 @@ Delivery:
 				* Reduced blood loss
 				* Reduced PONV
 			* Disadvantages
+				* Partner in room
 				* Anticoagulation
 				* Maternal anxiety\
 				Subsequent CVS effects.
@@ -252,10 +252,12 @@ Delivery:
 				* Cannot give 100% oxygen
 		* General
 			* Advantages
+				* Controlled situation
+				* Reliable
 				* Anticoagulation status not relevant
 				* Reduced maternal anxiety
 				* Easier invasive vascular access
-				* Facilitate DCR
+				* Facilitate cardiopulmonary bypass or ECMO
 			* Disadvantages
 				* Airway and ventilation risks
 				* Haemodynamic perturbation\
@@ -276,29 +278,31 @@ Delivery:
 		In first 6 months.
 		* Repaired CHD with residual defects	
 
+:::column-margin
+The technique chosen will usually come down to the risk-benefit evaluation of the patient, and the skill and preference of the team.
+:::
 
 ## Complications
 
 Consequences of cardiac disease in pregnancy include:
 
 * Maternal
-	* **Arrhythmias**
-	* **Heart failure**
-	* Embolism\
-	* CVA
 	* Death
+	* C
+		* **Arrhythmias**
+		* **Heart failure**\
+		Uterine contraction results in mobilisation of uterine blood volume that may precipitate fluid overload.
+	* D
+		* CVA
+	* H
+		* Embolism
 * Foetal
+	* Death
 	* SGA
 	* Prematurity
-	* Death
 
 ## Prognosis
 
-
-
----
-
-## See Also
 
 
 ---

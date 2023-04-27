@@ -242,6 +242,12 @@ book:
               chapters:
               - management/infective/antibiotics.qmd
               - management/infective/antifungals.qmd
+        - part: "Obstetric"
+          chapters:
+              - management/obs/pregnancy.qmd
+              - management/obs/labour.qmd
+              - management/obs/drugs.qmd
+              - management/obs/cardiac.qmd
     - part: <hr>
     ## Anaesthesia
     - part: "Anaesthesia"
@@ -409,7 +415,6 @@ book:
           - anaesthesia/obs/ga_luscs.qmd
           - anaesthesia/obs/reg_luscs.qmd
           - anaesthesia/obs/tof.qmd
-          - anaesthesia/obs/cardiac.qmd
           - anaesthesia/obs/non_obs.qmd
         - part: "Orthopaedics"
           chapters:
@@ -848,7 +853,6 @@ book:
         # Obstetrics
       - part: "Obstetric"
         chapters:
-          - disease/obs/preg.qmd
           - disease/obs/htn.qmd
           - disease/obs/eclampsia.qmd
           - disease/obs/pad.qmd

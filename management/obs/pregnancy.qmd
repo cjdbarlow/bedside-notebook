@@ -1,0 +1,112 @@
+# Pregnancy
+
+Period of time during which a child develops inside a woman. Pregnancy is:
+
+* Normally 37-42 weeks
+* Divided into trimesters
+	* First trimester\
+	0-12 weeks. The first trimester:
+		* Has the highest rate of miscarriage
+	* Second trimester\
+	13-28 weeks. The second trimester:
+		* Foetal movement begins
+	* Third trimester\
+	29-40 weeks.
+
+## Physiology of Pregnancy
+
+Physiological changes and their implications can be classified by system:
+
+* Respiratory
+	* MV\
+	↑; ↑ Uptake of volatile agents.
+	* FRC\
+	↓; ↓ Safe apnoea time.
+	* RV\
+	↓; ↑ Atelectasis and shunt.
+	* VO~2~\
+	↑; ↓ Safe apnoea time.
+* CVS
+	* Cardiac output\
+	↑ Up to 40%; ↓ physiological reserve.
+	* Heart rate\
+	↑ by 15-20 bpm; ↓ reserve and coronary perfusion time.
+	* SVR\
+	↓.
+	* BP\
+	↓.
+	* Volume\
+	↑ Circulating volume.
+	* Other\
+	Aortocaval compression by uterus reduces CO in supine position; can be reduced by placing tilt under **right** hip.
+* Endocrine\
+	* Insulin\
+	↑ Production and resistance; gestational diabetes.
+	* Thyroid hormones\
+	↑; Incidence of hyperthyroidism.
+* Renal
+	* Renal blood flow\
+	↑; Natriuresis.
+	* Bladder emptying\
+	↓; ↑ UTI.
+* GIT
+	* Bowel\
+	Displaced into upper abdomen; ↑ reflux risk.
+* Hepatic\
+	* Plasma cholinesterase\
+	↓; ↑ Duration of suxamethonium.
+	* Albumin\
+	↓; Altered pharmacokinetics via change in protein binding, ↑ peripheral oedema.
+	* Biliary\
+	↓ Gallbladder contractility; biliary stasis.
+* Haematological
+	* Haemoglobin\
+	↓ Due to dilution; may be confused with haemorrhage.
+	* White Cell Count\
+	↑; May mimic infection.
+	* Coagulation factors\
+	↑; ↑ Thrombosis risk.
+* Immunological
+	* Cell mediated immunity\
+	↓; ↑ Viral infections.
+
+
+## Management
+
+:::info
+Principles of managing the pregnant patient in critical care.
+:::
+
+**Resuscitation**:
+
+* Modifications of ALS are relevant after ~20 weeks
+	* Relieve aortocaval compression
+		* Wedge
+		* Manual uterine displacement\
+		Results in easier CPR as the patient is not tilted.
+	* Chest compressions slightly above the centre of the sternum
+	* Notably, no change to defibrillation or drug doses
+	* Resuscitative hysterotomy (perimortem caesarian section) should be initiated at **4 minutes**\
+	Completed within 1 minute of commencing.
+
+**Specific Therapy**:
+
+* Early obstetric opinion
+	* Examination
+	* CTG
+	* Timing of delivery
+* Physical
+	* Breast nursing care\
+	↓ Risk of mastitis.	
+
+
+**Supportive care**:
+
+* H
+	* Thromboprophylaxis
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

@@ -1,8 +1,10 @@
-# Peripartum Cardiomyopathy
-
-*This covers peripartum cardiomyopathy. Management of [cardiac disease in pregnancy](/disease/obs/cardiac.md) is covered elsewhere.*
+# Peripartum Cardiomyopathy {#sec-peripartum_cm}
 
 Development of cardiac failure:
+
+:::column-margin
+This covers peripartum cardiomyopathy. Management of cardiac disease in pregnancy is covered under @sec-pregcardiac.
+:::
 
 * Between the **last month** of **pregnancy** and **five months postpartum**
 * In absence of:
@@ -24,7 +26,7 @@ Risk Factors:
 
 * Multiple Pregnancy
 * Multiparity
-* ↑ maternal age
+* ↑ Maternal age
 * Hypertension
 * Black race
 * Drug use:

@@ -1,0 +1,170 @@
+# Labour
+
+Labour is divided into **three stages**:
+
+* **First stage**\
+Covers the process of cervical dilation (0-10cm).
+	* Involves:
+		* Cervical dilation
+		* Cervical effacement
+		* Desent of the presenting part
+	* **Normal** progress\
+	Based on rate of cervical dilation, should be **>1cm/hr**.
+		* 0.5cm/hr is 10^th^ centile, and is often accepted
+* **Second stage**\
+Covers full dilation to delivery.
+	* Involves:
+		* Flexion
+		* Descent
+		* Rotation of the presenting part\
+		Head moulds, flexes, and rotates through the birth canal.
+			* Head should be delivered occiput-anterior (OA); i.e. **face-down**
+			* Head has to rotate through the pelvis as the pelvic inlet is widest in the transverse diameter, and the outlet in the A-P diameter
+	* Normal progress\
+	**Delivery** should occur:
+		* **Within 2 hours** of full dilation without epidural
+		* Within **3 hours with epidural**
+* **Third stage**\
+Delivery of the placenta.
+
+
+## Abnormal Labour
+
+Management of abnormal labour depends on stage:
+
+* **Abnormal S1**
+	* Trial of oxytocin\
+	↑ rate of dilation.
+	* LUSCS\
+	If concerns about:
+		* Uterine rupture
+		* Obstruction
+		* Power of contraction
+		* Foetus
+* **Abnormal S2**
+	* Trial of oxytocin\
+	↑ uterine contractility.
+	* Operative vaginal delivery\
+	Forceps, vacuum. Indications can be divided into:
+		* Maternal\
+			* Exhaustion
+			* Contraindication to pushing
+				* HTN
+				* Cerebral aneurysm
+		* Foetal
+			* Distress\
+			CTG, scalp pH, prolapse.
+		* Failure to progress\
+		Arrested descent. May be due to:
+			* Mento-anterior (MA)\
+			Failure to descend.
+			* Occiput Posterior (OP)\
+			Failure to rotate.
+			* Other\
+			Usually requires LUSCS.
+	* LUSCS
+* **Abnormal S3**\
+Active management of S3 significantly reduces PPH and maternal mortality. Active management involves:
+	* Prophylactic oxytocin\
+	Upon delivery of the anterior shoulder.
+	* Early cord clamping
+	* Controlled cord traction
+
+
+### Management of Foetal Distress
+
+* Avoid aortocaval compression
+* Supplemental oxygen
+* Treat hypotension
+* Cease oxytocin\
+Generally decision of obstetric team.
+* Consider tocolytics
+	* Terbutaline 250μg IV/SC
+	* Salbutamol 100μg IV
+	* GTN 400μg SL
+* Prepare for em LUSCS
+
+
+## Premature Labour
+
+Premature:
+
+* Labor occurs prior to 37 weeks gestation
+* Birth occurs in ~10% of deliveries\
+Associated with 85% of all perinatal morbidity and mortality, due to:
+	* Respiratory distress syndrome
+	* Intracranial haemorrhage
+	* Ischaemic cerebral damage\
+	Intrapartum:
+		* Hypoxia
+		* Asphyxia
+		* Hypotension
+	* Hypoglycaemia
+
+
+### Management
+
+Principles:
+
+* **Foetal protection**
+	* Antenatal corticosteroids
+		* For women <34^+6^ and birth expected in <7 days\
+		Risk:benefit of precise timing varies.
+		* ↓ Foetal morbidity and mortality by ↓ incidence of respiratory distress syndrome by:
+			* Accelerating lung maturity
+			* ↓ IVH
+			* ↓ Necrotising enterocolitis
+		* Betamethasone 11.4mg IM daily for 2 days
+	* Magnesium
+		* For women <30^0^
+		* ↓ Risk of cerebral palsy and death in preterm infants
+		* Administer **within 4 hours of birth**:
+			* 4g over 20 minutes
+			* 1g/hr thereafter
+* Consider **Tocolytics** are used to stop premature contractions\
+Agents include:
+	* Magnesium sulfate
+	* Calcium channel blockers
+	* Methylxanthines
+	* Prostaglandin inhibitors
+	* β-agonists
+		* Evaluate for hyperkalemia if on treatment longer than 24 hours
+	* Ethanol
+		* Historical
+		* Inhibits ADH, oxytocin, and myometrial contractility
+* Consider epidural as anaesthetic technique
+	* Reduces effects of systemic drugs on foetus
+	* Improved foetal perfusion
+	* May reduce incidence of ICH by allowing controlled delivery
+
+## Induction of Labour
+
+Artificial techniques to initiate the process of labour. Induction is performed:
+
+* For:
+	* Pregnancy reasons
+		* PD
+		* Twin pregnancy > 38 weeks
+		* PROM\
+		See [premature rupture of membranes](/anaesthesia/obs/terms.md)
+		* FDIU
+	* Maternal disease
+		* [Pre-eclampsia](/disease/obs/htn.md)
+		* Diabetes
+	* Foetal
+		* IUGR
+* By:
+	* Pharmaceutical means:
+		* Intravaginal or endocervical prostaglandin
+		* Intravenous oxytocin\
+	* Non-pharmaceutical means:
+		* Membrane sweep\
+		Digital stimulation of the cervix to release endogenous prostaglandins.
+		* AROM
+		* Cervical ripening balloon
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
