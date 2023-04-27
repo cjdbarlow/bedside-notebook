@@ -283,6 +283,15 @@ Give 1mg protamine per 100 units of UFH.
 	Avoid complete reversal whilst cardiotomy suction is still being used.
 * Check ACT 3 minutes after protamine has finished
 
+:::column-margin
+Protamine may cause haemodynamic compromise by:
+
+* True anaphylaxis
+* Direct histamine release from mast cells\
+Dose and rate related.
+* Thromboxane release\
+Heparin-protamine combination may lead to profound ↑ in PVR and cardiovascular collapse, which may be mistaken for anaphylaxis.
+:::
 
 Perfusionist:
 
