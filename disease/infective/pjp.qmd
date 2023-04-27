@@ -1,7 +1,7 @@
 # Pneumocystis Jirovecii Pneumonia
 
 :::info
-*Pneumocystis jirovecii* was previously known as *Pneumocystis carinii*, and was also classified as a protozoan and not a fungus.
+*Pneumocystis jirovecii* was previously known as *Pneumocystis carinii*, and was also once classified as a protozoan and not a fungus.
 
 It is therefore sometimes still referred to by the "PCP" acronym.
 :::
@@ -71,12 +71,12 @@ ABC approach. Comment on team coordination and clinical priorities.
 
 * Pharmacological
     * Antimicrobials
-        * Trimethoprim/Sulphamethoxazole (cotrimoxazole) 20+100mg/kg daily for 3 weeks\
-        ↓ By 25% if WCC falls.
+        * **Trimethoprim/Sulphamethoxazole** (cotrimoxazole) 20+100mg/kg daily for 3 weeks\
+        Dose ↓ by 25% if WCC falls
         * Pentamidine 4mg/kg IV daily\
-        If cotrimoxazole not tolerated.
+        Only if cotrimoxazole not tolerated. Note that cotrimoxazole is a much better agent, and so mild hypersensitivity reactions are best put up with.
     * Corticosteroids\
-    For patients with HIV infection.
+    For patients with HIV infection or ↑ A-a gradient >35mmHg.
         * Prednisolone
             * 40mg BD for 5 days
             * 20mg BD for 5 days
@@ -94,6 +94,9 @@ ABC approach. Comment on team coordination and clinical priorities.
 
 ## Complications
 
+* B
+    * Pneumothorax
+
 ## Prognosis
 
 ## Key Studies
@@ -101,3 +104,5 @@ ABC approach. Comment on team coordination and clinical priorities.
 ---
 
 ## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

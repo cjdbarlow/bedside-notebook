@@ -1,11 +1,173 @@
-# Human Immunodeficiency Virus
+# Human Immunodeficiency Virus and Acquired Immune Deficiency Syndrome
+
+HIV is a retrovirus that infects immune cells, leading to:
+
+* An initial, non-specific viral infection\
+Termed seroconversion illness.
+* Chronic immunodeficiency\
+Termed AIDS.
 
 :::column-margin
 When it was first identified, HIV was named HTLV-3 (Human T-lymphotropic Virus), and the more common (and pathogenic) variant named HIV-1 after the rarer and less virulent HIV-2 was discovered in West Africa.
 :::
+
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+Viral exposure results in:
+
+* Initial infection of cell surface receptor\
+Classically CD4, though other receptors are implicated as co-receptors.
+	* Viral RNA is transcribed into cellular DNA
+	* RNA transcribed from cellular RNA, and translated into viral protein
+* Initial viraemia presents as seroconversion illness, and is typically controlled by initial immune response
+* HIV replication continues in a largely asymptomatic fashion
+* Progressive immune deficiency occurs despite persistent host immune response, with ↓ in CD4+ T cells\
+Rate varies depending on host and viral factors:
+	* Median ~9 years
+	* Some show no evidence of CD4 loss for up to 15 years
+
+### Aetiology
+
+## Clinical Manifestations
+
+Seroconversion illness occurs 1-4 weeks following exposure:
+
+* Fever
+* Lymphadenopathy
+* Headache
+* Photophobia
+* Fatigue
+
+
+Chronic infection may cause:
+
+* Fever
+* Weight loss
+* Lymphadenopathy
+* Diarrhoea
+
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+Bedside:
+
+Laboratory:
+
+* Bloods
+	* anti-HIV antibodies\
+	Diagnostic of infection; positive in most patients within 3 months of infection.
+	* HIV viral load\
+	Used to monitor response to treatment.
+	* CD4+ count\
+		* Best indicator of severity of immunodeficiency and susceptibility to infection
+		* AIDS-related illnesses unlikely if >200
+
+Imaging:
+
+Other:
+
+## Management
+
+**Resuscitation**:
+
+ABC approach. Comment on team coordination and clinical priorities.
+
+**Specific therapy**:
+
+* Pharmacological
+	* Antiretroviral therapy\
+	Each drug acts at different points in the replication cycle, and so combination therapy is essential.
+		* Triple combination therapy usually leads to sustained control without resistance development
+		* Initiation by HIV specialist
+		* Potential significant drug interactions
+		* Timing of therapy in the setting of infection is controversial\
+		In general:
+			* Delay initiation until 2-4 weeks after treatment of aids defining illness\
+			Longer in more severe disease with ↑ risk of @sec-iris.
+* Procedural
+* Physical
+
+:::column-margin
+Significant drug interactions may occur with:
+
+* Anaesthetics
+	* Midazolam
+* Antimicrobials
+* Antiemetics
+* Anticonvulsants
+* Anticoagulants
+* Statins
+:::
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+Divided into:
+
+:::column-margin
+Pulmonary infections are more common at higher CD4 counts, extra-pulmonary infection becomes more common as CD4 counts fall.
+:::
+
+* **Direct** complications of immune deficiency
+	* **Infections**
+		* Immunocompromised\
+			* PJP
+			* Oesophageal candidiasis\
+			Common presenting disease.
+			* Cryptococcal meningitis\
+			Non-specific and not-particularly-meningitic presentation:
+				* Headache
+				* Fevers
+				* Minimal neck stiffness\
+				Relies on inflammation of the meninges, which in turn relies on a functioning immune response.
+			* *Mycobacterium avium* complex
+			* CMV retinitis
+			* TB
+			* Cerebral toxoplasmosis
+				* Focal encephalitis
+				* Requires brain biopsy for diagnosis
+		* Generic
+			* Sepsis
+			* Pneumonia
+	* **Tumours**
+		* Immunocompromised
+			* T-cell lymphoma
+			* Karposi Sarcoma\
+			Angioproliferative tumour of epithelium relating to herpes virus 8 infection, which presents as red-purple lesions on skin and oral and gastric mucosa.
+	* Immune reconstitution syndrome
+* Indirect complications
+	* CAD
+	* Drug-related 
+
+## Prognosis
+
+The natural history of HIV is a general decline in immune function with an ↑ burden of exotic and severe disease:
+
+![](/resources/hiv_natural_hx.png)
+
+With access to antiretroviral therapy, mortality approaches that of the general population. 
+
+## Key Studies
+
 
 ---
 
 ## References
 
 1. Nelson, Ann Marie, Yukari C. Manabe, and Sebastian B. Lucas. “Immune Reconstitution Inflammatory Syndrome (IRIS): What Pathologists Should Know.” Seminars in Diagnostic Pathology, Seminars Issue on HIV-related Disease, 34, no. 4 (July 1, 2017): 340–51. [](https://doi.org/10.1053/j.semdp.2017.04.010).
+2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

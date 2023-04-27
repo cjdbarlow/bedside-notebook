@@ -1,4 +1,4 @@
-# Immune Reconstitution Inflammatory Syndrome
+# Immune Reconstitution Inflammatory Syndrome {#sec-iris}
 
 **Dysregulated and hyper-inflammatory state** that due to an abrupt shift from an **anti-inflammatory** and **immunosuppressed** state **to** a **pro-inflammatory** state.
 
@@ -25,6 +25,10 @@ Factors influencing incidence and severity of IRIS **in HIV** include:
 
 * Severity of CD4 lymphopenia\
 * Severity of existing opportunistic infection
+* Certain previous opportunistic infections
+	* CMV retinitis
+	* Cryptococcal meningitis
+	* TB
 * HIV viral load prior to commencing HAART
 * Rapid response to HAART
 
@@ -35,7 +39,6 @@ Underlying mechanisms are not fully understood, but include a rapid ↑ in immun
 * *Rapid* change in T-helper responses
 * ↑ Lymphocyte proliferation
 * Pathogen specific delayed-hypersensitivity
-
 
 
 ### Aetiology
@@ -117,3 +120,4 @@ Varies depending on the organ involvement:
 1. Thapa S, Shrestha U. [Immune Reconstitution Inflammatory Syndrome](https://www.ncbi.nlm.nih.gov/books/NBK567803/). [Updated 2022 May 10]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2022 Jan. 
 2. Wolfe C. Immune reconstitution inflammatory syndrome. In: UpToDate, Post TW (Ed), UpToDate, Waltham, MA. Accessed December 14, 2022.
 3. Nelson, Ann Marie, Yukari C. Manabe, and Sebastian B. Lucas. “Immune Reconstitution Inflammatory Syndrome (IRIS): What Pathologists Should Know.” Seminars in Diagnostic Pathology, Seminars Issue on HIV-related Disease, 34, no. 4 (July 1, 2017): 340–51. [](https://doi.org/10.1053/j.semdp.2017.04.010).
+4. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
