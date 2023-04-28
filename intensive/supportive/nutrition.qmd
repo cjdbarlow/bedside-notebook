@@ -194,7 +194,7 @@ Total Parenteral Nutrition refers to the entirety of a patients nutritional need
 	Amino acids.
 	* Risk of refeeding syndrome
 * Lipid load\
-	* Hypertriclyceridaemia
+	* Hypertriglyceridaemia
 	* Immunosuppression
 * ↑ BSL
 * ↓ Intestinal function\
@@ -348,6 +348,18 @@ If EN insufficient, make up remainder of requirement with PN.
 * Ensure adequate supplementation of trace elements, vitamins, and micronutrients
 * Reassess enteral feeding Q12H
 
+## Key Studies
+
+* [Gao et al](https://jamanetwork.com/journals/jamasurgery/fullarticle/2790269).
+	* 230 adult Chinese patients following elective abdominal surgery across 11 hospitals who are:
+		* At risk of malnutrition
+		* At <30% of energy target via EN on POD 2
+		* Without shock, AKI, or hepatic injury
+	* Randomised to early (day 3) vs late (day 8) supplemental PN
+	* Significant (8.7% vs 18.4%) in nosocomial infection prior to hospital discharge with no change in mortality
+	* Not critically unwell patients
+
 ---
 
 1. Lambell, Kate J., Oana A. Tatucu-Babet, Lee-anne Chapple, Dashiell Gantner, and Emma J. Ridley. [Nutrition Therapy in Critical Illness: A Review of the Literature for Clinicians](https://ccforum.biomedcentral.com/articles/10.1186/s13054-020-2739-4). Critical Care 24, no. 1 (4 February 2020): 35. https://doi.org/10.1186/s13054-020-2739-4.
+2. Gao X, Liu Y, Zhang L, et al. [Effect of Early vs Late Supplemental Parenteral Nutrition in Patients Undergoing Abdominal Surgery: A Randomized Clinical Trial](https://jamanetwork.com/journals/jamasurgery/fullarticle/2790269). JAMA Surgery. 2022;157(5):384-393. doi:10.1001/jamasurg.2022.0269

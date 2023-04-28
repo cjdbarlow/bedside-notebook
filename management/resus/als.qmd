@@ -6,9 +6,11 @@
 * Majority are expected and occur without attempt at resuscitation
 
 
+## Pathophysiology
+
 ### Aetiology
 
-Management requires identification and correctin of **reversible** cause:
+Management requires identification and correction of **reversible** cause:
 
 * Hypoxia
 * Hypovolaemia
@@ -106,12 +108,29 @@ In a witnessed and monitored arrest, **without pads**, it is *reasonable* to per
 
 ## Prognosis
 
-Surprisingly good overall:
+In-hospital cardiac arrest has a surprisingly good overall:
 
 * Hospital discharge in 52%\
 Multifactorial:
 	* Early detection
 	* Early arrival of ALS
+
+## Key Studies
+
+* [BOX](https://www.nejm.org/doi/full/10.1056/NEJMoa2208686#:~:text=In%20this%20randomized%20trial%2C%20we,%2Dof%2Dhospital%20cardiac%20arrest.)
+	* 802 patients in admitted in 2 Danish ICUs following OOHCA with ROSC after 20 minutes and GCS <8
+	* Oxygen arm:
+		* Restrictive oxygenation (PaO~2~ 68-75mmHg) vs. liberal oxygenation (98-105mmHg)\
+		Randomisation occurred in hospital, usually in ICU.
+		* No change in mortality or neurological outcome
+		* Unblinded
+	* MAP arm:
+		* MAP 77mmHg vs MAP 63mmHg
+		* Protocolised therapy with fluids, noradrenaline, and dopamine
+		* No change in mortality or neurological outcome
+		* Blinded
+	* All patients received 24 hours of TTM
+
 
 
 ---

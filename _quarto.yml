@@ -102,12 +102,13 @@ book:
       chapters:
         - part: "**Resuscitation**"
           chapters:
-            - management/resus/ihca.qmd
+            - management/resus/als.qmd
             - management/resus/cals.qmd
             - management/resus/oohca.qmd
             # ECPR
-            - management/resus/intrauterineresus.qmd
+            # PALS
             - management/resus/neonatal.qmd
+            - management/resus/intrauterineresus.qmd
         - part: "Communication"
           chapters:
             - management/communication/concepts.qmd
@@ -496,6 +497,7 @@ book:
             - intensive/supportive/nutrition.qmd
             - intensive/supportive/physio.qmd
             - intensive/supportive/oxygen.qmd
+            - intensive/supportive/decontamination.qmd
         # FASTHUGS
         # Stress response
         - part: "Surgical"

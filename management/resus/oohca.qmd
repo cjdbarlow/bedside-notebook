@@ -13,7 +13,7 @@ Community cardiac arrest:
 
 Cause is commonly primary cardiac:
 
-* STE 
+* STE\
 If STE present, aim cardiac catheterisation.
 * No STE\
 Strongly consider cardiac catheterisation anyway, as 33% will have a PCI-treatable lesion.
@@ -39,8 +39,28 @@ Strongly consider cardiac catheterisation anyway, as 33% will have a PCI-treatab
 
 ## Prognosis
 
+## Key Studies
+
+* [DOSEVF](https://www.nejm.org/doi/pdf/10.1056/NEJMoa2207304)
+	* 405 Canadians patients with OOHCA arrest with refractory VF arrest\
+	Refractory >3 consecutive rhythm checks demonstrating VF.
+	* Initial shocks performed with A-L pad placement
+	* Groups randomised then to one of three groups:
+		* No change
+		* Vector change: Pads moved to A-P defibrillation
+		* Double-sequence: A-P pads added and sequenced (<1s between shocks) A-L and A-P defibrillation
+	* Double-sequence defibrillation resulted in significant ↑:
+		* ROSC (46% vs 26%)
+		* Survival to hospital discharge (30% vs 13%)
+		* Survival with mRS ⩽2 (27% vs 11%)
+	* Vector-change defibrillation resulted in significant ↑ survival to hospital discharge (21.7% vs 13.3%) but no significant change in ROSC or neurological outcome.
+	* Stopped early with a low number of outcomes; ↑↑ risk bias\
+	Stoppage due to paramedic staffing shortages.
+	* Median time to 1^st^ shock ~10 minutes
 
 ---
 
 ## References
+
+1. Cheskes S, Verbeek PR, Drennan IR, et al. [Defibrillation Strategies for Refractory Ventricular Fibrillation](https://www.nejm.org/doi/pdf/10.1056/NEJMoa2207304). N Engl J Med. 2022;387(21):1947-1956. doi:10.1056/NEJMoa2207304
 
