@@ -1,4 +1,4 @@
-# Candidiasis
+# Candidiasis {#sec-candida}
 
 Systemic candidal infections are common in the immunocompromised and intensive care patients. Differentiating invasive candidiasis from culture of a normal commensal requires any of:
 
@@ -20,10 +20,10 @@ These are not covered here.
 Risk factors:
 
 * ICU admission
-	* Immunocompromise
-		* Transplant
-		* Haematological malignancy
-		* Diabetes
+* Immunocompromise
+	* Transplant
+	* Haematological malignancy
+	* Diabetes
 * For non-*Albicans*
 	* **TPN**
 	* Central access
@@ -58,8 +58,9 @@ All the rest:
 	* ***C. Auris***\
 	Multi-drug resistant form, though still generally sensitive to echinocandins.
 	* *C. glabrata*\
-	~25% of infections.
-	* *C. krusei*
+	~25% of infections, ↑ resistant to azoles.
+	* *C. krusei*\
+	↑ Resistant to azoles.
 	* *C. parapsilosis*
 	* *C. dubliniensis*
 	* *C. tropicalis*

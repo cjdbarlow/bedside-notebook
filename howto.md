@@ -17,6 +17,7 @@ quarto::quarto_preview
 * Correct image size when column-margin images have captions
 * Click on margin images to pop into centre screen
 * Add scrolling radiology images
+* Modify glossary to only scan words up to to maximum length in the glossary to speed up build time
 
 # Decisions
 
@@ -28,7 +29,8 @@ quarto::quarto_preview
 	* Move system-specific infections to that system
 	* New infective subgroups
 		* ?where would TB meningitis go; under TB, separate neuro infection, under meningitis...
+		* Where would CLABSI go...
 
-* Dissolve ICU 'concepts' into a more appropriate category (or at least some of)
+* Dissolve ICU 'concepts' into a more appropriate category (or at least some of, ?organ donation separately)
 
 * Add a "goals" div to replace the info box in each management section

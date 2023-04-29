@@ -1,0 +1,136 @@
+# Infection Control
+
+Infection control consists of policy and protective equipment designed to:
+
+* Protect staff from a patients communicable diseases
+* Protect patients from staff and visitors communicable diseases
+
+
+## Standard/Universal Precautions
+
+**Steps taken** with all **patients**, **irrespective of** suspected or confirmed **disease**:
+
+* Hand hygiene
+* Use of appropriate PPE during procedures
+* Safe disposal of sharps
+* Aseptic, no-touch procedure technique
+* Environmental cleaning and laundry
+* Cough etiquette
+
+
+## Contact Precautions
+
+For pathogens **spread** by **direct** patient **contact**, or **indirectly** by **contact** with patient **environment**. Includes:
+
+:::column-margin
+Examples include:
+
+* Diarrhoea
+* Meningitis\
+In children for suspected enteroviruses, or for confirmed *M. tuberculosis*.
+* Exotic viruses\
+Ebola, etc.
+* Pneumonias\
+*S. Aureus*, *S. Pneumoniae*, *M. tuberculosis*.
+* MRSA
+::: 
+
+* Single room
+	* Patients with the same disease can be co-located, but should be separated by >1m\
+	Standard precautions apply between patients in the room.
+* PPE
+	* Gloves for contact with skin
+	* Gown if clothes will contact environment
+* Minimise movement of patient outside room
+* Disposable equipment
+* Daily cleaning and disinfection
+
+
+## Droplet Precautions
+
+For pathogens **spread** by **close respiratory** or mucous membrane **contact**, but that **do not cover long distances** in **air**. Includes: 
+
+:::column-margin
+Examples include:
+
+* *B. pertussis*
+* Influenza virus
+* Adenovirus
+* Rhinovirus
+* *N. meningitides*
+:::
+
+* As contact precautions
+* Single room
+	* If unavailable, patient should be cohorted with their current roommate to prevent additional exposures
+	* Draw curtains in multi-bed room
+* Standard mask
+
+
+## Airborne Precautions
+
+For pathogens that **remain infectious** over **long distances** in **air**. Includes:
+
+:::column-margin
+The distinction between pathogens spread by droplets and those spread by air depends on particle size, with larger suspensions traveling shorter distances and falling more quickly. The somewhat arbitrary cut-off is ~5µm, from which is derived the 1-2m social distancing rules we are too-familiar with.
+:::
+
+:::column-margin
+Examples include:
+
+* *M. Tuberculosis*
+* VZV
+* HSV
+* Measles
+* *S. Aureus* Pneumonias
+* COVID-19
+:::
+
+* As contact precautions
+* Isolation room
+	* Single room
+	* 12 air changes per hour\
+	Via HEPA filter, or to outside.
+* N95 mask or PAPR
+* Susceptible staff should not enter the room
+	* e.g. Pregnant, immunocompromised, etc.
+	* Vaccinated staff should care for patients with vaccine-preventable disease
+
+
+If contact occurs outside of a positive-pressure room, then:
+
+* Mask the patient
+* Keep the patient in a private room with the door closed
+* Use N95 mask for staff
+
+
+## Protective Environment/Reverse Precautions
+
+Reverse precautions are used for **severely immunocompromised patients** to protect them from staff and visitors, and to ↓ fungal spore counts in the air. Includes:
+
+* Airborne precautions for staff and visitors
+* Positive-pressure isolation room
+	* Anteroom
+	* Pressurised relative to surround rooms/environment
+	* HEPA filtration of incoming air with ⩾12 changes/hour
+	* Dust-minimisation design and cleaning
+	* Air flow directed towards entry point of the room
+* No flowers or plants
+
+
+
+## Discontinuation of Precautions
+
+Cessation of precautions varies with the disease, and is usually based on either:
+
+* Time of treatment
+* Evidence of resolution
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+2. CDC. [Guideline for Isolation Precautions: Preventing Transmission of Infectious Agents in Healthcare Settings](https://www.cdc.gov/infectioncontrol/guidelines/isolation/precautions.html). 2007.
+3. Randall K, Ewing ET, Marr LC, Jimenez JL, Bourouiba L. How did we get here: what are droplets and aerosols and how far do they go? A historical perspective on the transmission of respiratory infectious diseases. Interface Focus. 2021 Oct 12;11(6):20210049. 

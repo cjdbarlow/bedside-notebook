@@ -19,7 +19,7 @@ Functionally related to Amphotericin.
 |                  | * Excludes *C. glabrata* and *C. Krusei*         | * Endemic fungi\                                |
 |                  |                                                  | Coccidiomycosis, histoplasmosis, blastomycosis. |
 +------------------+--------------------------------------------------+-------------------------------------------------+
-| Dosing           | * Systemic\                                      | * Aspergillus\                                  |
+| Dosing           | * Systemic\                                      | * *Aspergillus*\                                |
 |                  | 800mg IV load, 200mg IV BD                       | 6mg/kg IV load (BD), then 4mg/kg BD thereafter. |
 |                  | * Esophageal\                                    |                                                 |
 |                  | 200mg IV load, 50mg IV BD.                       |                                                 |
@@ -47,11 +47,11 @@ Functionally related to Amphotericin.
 +------------------+-----------------------------------------------------------------------------------------------+--------------------------------------------------------------+
 | Drug             | Echinocandins                                                                                 | Liposomal Amphotericin                                       |
 +==================+===============================================================================================+==============================================================+
-| Indications      | * Candida\                                                                                    | * Cryptococcus Neoformans                                    |
-|                  | Resistance is rare; may occur with *C. parapsilosis*, *C. glabrata*, and *C. guilliermondii*. | * Dimorphic fungi                                            |
-|                  | * Aspergillus\                                                                                | * Molds                                                      |
-|                  | Not as monotherapy; synergistic with voriconazole.                                            | * Otherwise resistant fungi                                  |
-|                  |                                                                                               |                                                              |
+| Indications      | * Candida\                                                                                    | * *Cryptococcus Neoformans*                                  |
+|                  | Resistance is rare; may occur with *C. parapsilosis*, *C. glabrata*, and *C. guilliermondii*. | * Dimorphic fungi\                                           |
+|                  | * Aspergillus\                                                                                | Change between yeast and mould form.                         |
+|                  | Not as monotherapy; synergistic with voriconazole.                                            | * Moulds                                                     |
+|                  |                                                                                               | * Otherwise resistant fungi                                  |
 +------------------+-----------------------------------------------------------------------------------------------+--------------------------------------------------------------+
 | Dosing           | * Caspofungin\                                                                                | * 3-5mg/kg IV Q24H                                           |
 |                  | 70mg IV load, then 50mg IV daily.                                                             |                                                              |

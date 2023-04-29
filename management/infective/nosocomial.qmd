@@ -1,0 +1,134 @@
+# Nosocomial Infective Organisms
+
+Nosocomial infections are those that occur in a healthcare setting, and are:
+
+* A major contributor of in-patient mortality
+* More common in the critically ill
+* Caused by a relatively small number of organisms
+
+
+## Epidemiology and Risk Factors
+
+Risk factors include:
+
+* Patient
+	* Immunocompromise
+		* Critically unwell
+		* Comorbid
+		* Immunosuppressed
+		* Malnutrition
+	* Vector of transmission
+		* Open wounds
+		* Invasive devices
+		* Multiple procedures
+		* Mechanically ventilated
+		* Blood transfusion
+	* Length of stay
+* Environment
+	* Multiple staff
+	* Poor aseptic practice
+* Organism
+	* Resistance
+	* Biofilm formation
+	* Pathogenicity
+
+
+## Common Organisms
+
+Include:
+
+* Gram positive cocci
+	* MRSA\
+	S. Aureus resistant to most standard anti-Staphylococcal antibiotics, but sensitive to:
+		* Glycopeptides\
+		Vancomycin.
+		* Linezolid\
+		Better pulmonary penetration, may be preferable for MRSA pneumonia.
+	* Coagulase-negative *Staphylococcus*
+	* *Enterococcus* spp.
+		* *E. Faecalis*
+		* *E. Faecium*
+* Gram negative bacilli
+	* *E. Coli*
+	* *P. aeruginosa*
+	* *Klebsiella* spp.
+	* *Serratia marcescens*
+	* *Proteus* spp.
+	* *Acinetobacter baumanni*\
+	Complex and variable resistance pattern.
+	* *Stenotrophomonas maltophilia*
+* Fungi
+	* *Candida* spp.
+
+:::column-margin
+Candidal infections are covered in detail under @sec-candida.
+:::
+
+
+### Coagulase-negative Staphylococci
+
+Common, low-virulence *Staphylococcus*. spp that:
+
+:::column-margin
+*Staphylococci* can be grouped by their ability to produce coagulase, an enzyme which cleaves fibrinogen and leads to clot production. This clot also covers the bacteria in a film of clot, which protects them from immune detection and subsequent phagocytosis.
+
+* Coagulase positive\
+*S. Aureus*
+* Coagulase negative\
+All others.
+:::
+
+* Usually exist as skin commensals\
+Common cause of false-positive blood cultures. Can be distinguished from true infection:
+	* Clinical suspicion
+	* Number of positive cultures
+	* Positive culture in multiple bottles taken at the same time from different places
+	* Positive in aerobic and anaerobic bottles\
+	85% of "true" infections, compared to ~35% of potentially contaminated specimens.
+	* Culture positive in <16 hours
+* Cause infections in:
+	* Areas obscured from the immune system:
+		* Septic arthritis
+		* Endocarditis
+		* Invasive devices
+			* Lines
+			* Pacemakers
+			* Prosthetics
+				* Valves
+				* Joints
+				* VP shunts
+	* Immunocompromised host
+	* Disrupted barriers
+		* Burns
+* Are generally:
+	* Multiresistant
+	* Sensitive to glycopeptides and linezolid
+
+
+### Pseudomonas Aeruginosa
+
+*P. Aeruginosa* is a:
+
+* Common cause of HAP
+* Resistant to common pneumonia therapies
+* Commonly colonises the respiratory tract of patients with respiratory disease, leading to recurrent infection\
+Including:
+	* COPD
+	* CF
+
+
+### Stenotrophomonas Maltophilia
+
+Multiresistant environmental organism:
+
+* Intrinsically resistant to carbapenems\
+Arises in patients with prolonged carbapenem treatment.
+* Generally resistant to β-lactams
+* Responsive to cotrimoxazole
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

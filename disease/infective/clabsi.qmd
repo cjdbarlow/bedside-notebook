@@ -1,0 +1,122 @@
+# CLABSI
+
+Confirmation of central-line associated bloodstream infections requires all of:
+
+* Laboratory-confirmed bloodstream infection
+* Central line was in place for over 48 hours prior to the confirmation
+* Organism cultured from blood is not related to another infection
+
+:::column-margin
+The CLABSI rate is a marker of ICU function, and is reported as number of infections per 1000 central line-days.
+:::
+
+## Epidemiology and Risk Factors
+
+Invasive lines are a major cause of nosocomial infections, causing ~65% of bloodstream infections. Risks depend on:
+
+* Duration of line insertion
+* Site
+	* Femoral possibly highest risk
+	* Subclavian possibly lowest risk
+* Line features
+	* Non-antimicrobial coated
+	* Number of lumens
+	* Frequency of access
+	* Overly frequent or infrequent dressing changes
+* Type of line\
+In descending order:
+	* PA catheter\
+	3.7/1000 line-days.
+	* Non-tunneled CVC\
+	2.7/1000 line-days.
+	* Arterial line\
+	1.7/1000 line-days.
+	* Tunneled CVC
+	1.6/1000 line-days.
+	* PICC line
+	1.1/1000 line-days.
+	* Peripheral IVC
+	0.5/1000 line-days.
+	* Midline
+	0.2/1000 line-days.
+* Colonisation\
+Occurs in 5-40% of catheters. Colonisation is a risk factor for infection, but is otherwise of no consequence.
+
+
+## Pathophysiology
+
+### Aetiology
+
+Causative organisms:
+
+* Predominantly match patient endogenous flora
+* Commonly are coagulase negative *Staph* spp.\
+25%.
+
+## Clinical Manifestations
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+Bedside:
+
+Laboratory:
+
+Imaging:
+
+Other:
+
+## Management
+
+**Resuscitation**:
+
+ABC approach. Comment on team coordination and clinical priorities.
+**Specific therapy**:
+
+* Pharmacological
+	* Antimicrobials\
+	Agent and duration depends on causative organism:
+		* Coagulase-negative *Staphylococcus*: 5 days
+		* *S. Aureus*: 14 days
+		* *Candida*: 14 days
+* Procedural
+	* Remove line
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+* Rationalise insertion
+* Antibiotic coated lines for immunocompromised patients
+* Aseptic insertion and management
+	* Policy around insertion
+	* Securing of line to prevent tract inoculation
+	* Sterile line dressings
+	* Daily line inspection
+	* 7-daily dressing changes
+* Dedicated lumen for lipid infusions
+
+:::column-margin
+Routine changing of lines based solely on catheter-days is not indicated.
+:::
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

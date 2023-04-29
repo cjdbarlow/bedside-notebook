@@ -15,7 +15,7 @@ COPD is a chronic, progressive inflammatory disease characterised by persistent 
 
 Common comorbidity:
 
-* 10% of >40s woldwide
+* 10% of >40s worldwide
 * 4th most common cause of death
 * Associated with:
 	* CAD
@@ -30,7 +30,7 @@ Risk factors:
 		* Pipes/cigars
 		* Water pipe
 		* Marijuana\
-		Greater incease in bullous emphysema due to holding hot inhaled smoke.
+		Greater ↑ in bullous emphysema due to holding hot inhaled smoke.
 	* Occupational exposures
 		* Dusts
 		* Chemical agents
@@ -327,10 +327,14 @@ Specific therapy:
 	* 8% in-hospital mortality
 	* 15% 90-day mortality
 	* Up to 50% 1-year mortality
+* B
+	* Recurrent infection\
+	↑ With *Pseudomonas* colonisation
 
 ## Prognosis
 
 * Lung cancer is frequently seen and is the major cause of death
+
 
 ## Key Studies
 

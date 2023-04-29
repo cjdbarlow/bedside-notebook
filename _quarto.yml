@@ -236,9 +236,11 @@ book:
           - management/trauma/damage_control.qmd
         - part: "Infective"
           chapters:
-            - part: "Organisms"
+            - part: "Concepts"
               chapters:
-              - management/infective/escappm.qmd
+              - management/infective/infection_control.qmd
+              - management/infective/resistant.qmd
+              - management/infective/nosocomial.qmd
             - part: "Antimicrobials"
               chapters:
               - management/infective/antibiotics.qmd
@@ -825,7 +827,8 @@ book:
         - part: "Systemic"
           chapters:          
             - disease/infective/sepsis.qmd
-            - disease/infective/necfas.qmd
+            - disease/infective/nsti.qmd
+            - disease/infective/clabsi.qmd
         - part: "Viral"
           chapters:
             - disease/infective/hiv.qmd

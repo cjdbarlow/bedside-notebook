@@ -1,10 +1,15 @@
 # Selective Digestive Decontamination
 
-Prophylactic enteral administration of non-absorbable antibiotics with the aim aiming to ↓ infections in the critically ill by eradicating potentially pathogenic intestinal organisms.
+Prophylactic enteral administration of non-absorbable antibiotics with the aim of eradicating potentially pathogenic oral and intestinal organisms in order to ↓ nosocomial infection.
 
 ## Indications
 
+* Patients at risk of nosocomial infection
+* ICU with low rate of resistance to chosen antimicrobial
+
 ## Contraindications
+
+* Concern of ↑ antimicrobial resistance, although this has not been demonstrated
 
 ## Pathophysiology
 
@@ -12,14 +17,13 @@ In the critically ill:
 
 * Overgrowth of normal and abnormal flora occurs
 * Gut overgrowth heralds endogenous infections 
-Nosocomial infection
+* Nosocomial infections are predominantly caused by endogenous flora
 
 
 ## Technique
 
 ## Complications
 
-* Risk of ↑ antimicrobial resistance
 
 ## Key Studies
 

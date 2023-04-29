@@ -1,0 +1,170 @@
+# Necrotising Soft Tissue Infections 
+
+Necrotising soft-tissue infections are aggressive, life-threatening infections that:
+
+* Include:
+	* Necrotising fasciitis
+	* Necrotising myositis
+	* Necrotising cellulitis
+	* Fournier's Gangrene\
+	When involving the perineum.
+* Are characterised by rapidly progressing necrosis of subcutaneous tissue and fascia\
+Relative sparing of underlying muscle.
+* Lead to systemic toxicity with associated multi-organ failure and high mortality\
+In absence of this, it may be difficult to differentiate from a severe necrotising abscess or other necrotising soft tissue infection.
+* Two subtypes:
+	* Polymicrobial necrotising fasciitis (Type 1)
+	* Group A Strep necrotising fasciitis (Type 2)
+
+
+## Epidemiology and Risk Factors
+
+Predisposing factors for necrotising soft tissue infection include:
+
+* Abnormal anatomy
+	* Previous trauma
+	* Previous surgery
+	* Obesity
+	* Lymphedema
+	* Chronic venous insufficiency
+	* DVT
+* Vascular damage
+	* PVD
+	* Diabetes
+	* Smoking
+* Immunosuppression
+* Route of entry
+	* IV drug use
+	* Pre-existing infection
+
+
+Risk factors associated with ↑ mortality include:
+
+* Age\
+Especially in >70 age group.
+* Illness severity
+* Organism\
+Higher mortality seen with:
+	* Group A Streptococci
+	* Enteric organisms
+
+## Pathophysiology
+
+Necrotising fasciitis involves:
+
+* Rapid proliferation of subcutaneous bacteria
+* Leukocyte proliferation
+* Thrombosis of fascial vessels\
+Leads to ischaemia and necrosis of tissue.
+
+
+Toxic shock syndromes also contribute to haemodynamic instability in both Streptococcal and Staphylococcal infections.
+
+
+## Clinical Manifestations
+
+Typically present as cellulitis that:
+
+* Fails to improve on antibiotics
+* Spreads rapidly across fascial planes
+* Has **disproportionate pain** to the degree of injury
+
+
+Additional features include:
+
+* Fever\
+Surprisingly rare.
+* Crepitus
+Associated with gas-forming organism infection (generally *Clostridia*, classically *C. Perfringens*) but may also occur with other bacteria such as *E. Coli*.
+
+## Diagnostic Approach and DDx
+
+
+
+## Investigations
+
+
+
+## Management
+
+:::info
+Principles:
+
+* Standard sepsis resuscitation
+* Aggressive, early, surgical debridement
+* Broad spectrum antibiotics with Streptococcal cover
+:::
+
+**Resuscitation**:
+
+* C
+	* Noradrenaline almost always required in a "true" NSTI
+
+**Specific therapy**:
+
+* Pharmacological
+	* **Antimicrobials**
+		* Broad-spectrum agent\
+			* Amoxacillin/clavulanate 1.2g Q6-8H
+			* Meropenem 1g Q8H
+		* Streptococcal cover
+			* Clindamycin 300-450mg Q6H
+		* MRSA cover
+			* Vancomycin
+	* **IVIg**
+		* Associated with ↓ hospital mortality
+* Procedural
+	* **Aggressive surgical debridement**\
+	Improved with surgeon experienced in management.
+* Physical
+	* **Hyperbaric Oxygen Therapy**
+		* Controversial
+		* Associated with a ↓ in mortality, although evidence is conflicting
+		* Use should never delay surgical debridement
+		* Significant logistic impediments to use
+			* Availability
+			* Transfer of critically ill into an isolated environment
+		* Evidence is conflicting and some retrospective studies do not demonstrate mortality benefit
+
+:::column-margin
+Antimicrobial therapy should be adjusted for known resistance patterns.\
+\
+Clindamycin suppresses Streptococcal toxin production, which may ↓ severity of septic shock.
+:::
+
+:::column-margin
+The mechanism of HBOT is uncertain, suggestions include:
+
+* ↑ Viability of marginal tissue
+* ↓ Bacterial toxin production
+* Inhibits anaerobic bacterial growth\
+↑ Tissue oxidation reduction potential.
+* Potentiates antibiotic function
+* ↑ Efficacy of neutrophil respiratory burst
+:::
+
+
+**Disposition**:
+
+* ICU\
+Obviously required for shock requiring vasoactive support.
+
+
+## Complications
+
+
+## Prognosis
+
+* 30% mortality with aggressive surgical intervention and appropriate antibiotics
+* Frequent surgical debridements
+* Long hospital stay
+* Large soft tissue defects
+
+---
+
+## References
+
+
+1. Devaney B, Frawley G, Frawley L, Pilcher DV. [Necrotising soft tissue infections: the effect of hyperbaric oxygen on mortality](https://www.ncbi.nlm.nih.gov/pubmed/26603791). Anaesth Intensive Care. 2015 Nov;43(6):685-92. PubMed PMID: 26603791.
+2. Levett D, Bennett MH, Millar I. [Adjunctive hyperbaric oxygen for necrotizing fasciitis](http://cochranelibrary-wiley.com/doi/10.1002/14651858.CD007937.pub2/full). Cochrane Database of Systematic Reviews 2015, Issue 1. Art. No.: CD007937.
+3. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

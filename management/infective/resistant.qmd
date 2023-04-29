@@ -1,0 +1,76 @@
+# Resistant Organisms
+
+Resistance is the complete or partial loss of response of an organism to a certain antimicrobial agent.
+
+:::column-margin
+Broadly, resistance may occur by:
+
+* Enzymatic inactivation of antimicrobial
+* Change to antimicrobial binding site
+* ↓ Antimicrobial uptake
+* Altered metabolic pathway that obviates antimicrobial action
+:::
+
+
+## Inducible β-lactamase
+
+ESCAPPM/ESCHAPPM is a group of **Gram-negative** organisms which:
+
+* **Rapidly develop resistance** to β-lactam antibiotics
+	* Due to **inducible β-lactamase**\
+	Chromosomal-mediated cephalosporinase enzyme that is strongly selected for in the presence of β-lactam antibiotics.
+	* May be inhibited by tazobactam, and so tazocin may be effective
+* Should be **treated** with **non-β-lactam agents**, even if they initially appear sensitive
+
+
+### ESCHAPPM
+
+The mnemonic refers to:
+
+* ***E**nterobacter* spp.
+* ***S**erratia* spp.
+* ***C**itrobacter*
+* ***H**afnia* spp.
+* ***A**cinetobacter* and ***A**eromonas* spp.
+* ***P**roteus* spp.\
+Excluding *P. mirabilis*
+* ***P**rovidencia* spp.
+* ***M**organella morgani*
+
+
+## Extended Spectrum β-lactamase
+
+Describes organisms that develop a β-lactamase that produces **resistance** to **other antibiotic classes**. The ESBL:
+
+* Provides (variable) resistance to:
+	* Third-generation cephalosporins (e.g. ceftriaxone)
+	* Fluoroquinolones
+	* Aminoglycosides
+* Producing organisms include:
+	* Enterobacteriae:
+		* *E. Coli*
+		* *Klebsiella* spp.
+		* *Enterobacter* spp.
+		* *Serratia* spp.
+		* *Proteus* spp.
+	* *Citrobacter* spp.
+* Can spread by **plasmid transmission**\
+Bacteria share chromosomal coding for the β-lactamase between organisms, resulting in rapid ↑ resistance in a colony.
+
+
+## Carbapenemases
+
+Organisms with enzyme that inactivates carbapenem antibiotics. Carbapenemase:
+
+* Producing organisms include:
+	* Enterobacteriae\
+	Classically:
+		* *E. Coli*
+		* *Klebsiella* spp.
+* Can also spread by plasmid transmission
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

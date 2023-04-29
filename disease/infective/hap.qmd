@@ -1,6 +1,6 @@
 # Hospital/Ventilator Acquired Pneumonia
 
-Pneumonia (infection with chest infiltrate) occuring 48 hours after:
+Pneumonia (infection with chest infiltrate) occurring **48 hours** after:
 
 * Hospital admission (HAP)
 * Intubation (VAP)
@@ -14,16 +14,59 @@ Clinical signs of respiratory infection without CXR infiltrates are suggestive o
 HAP:
 
 * Occurs in 0.5-5% of inpatients
-* Risk is ↑ if:
+
+Risk factors:
+
+* Immunocompromised
+    * Critically unwell
+        * In ICU
+    * Diabetes
+    * Advanced age
+* Microaspiration
+    * Intubated
+    * ↓ Conscious state
+    * NGT in situ
+* Pathology
+    * Chronic lung disease
+    * Receiving antibiotics
+* Procedural
     * Post-operative
-    * In ICU
+    * Bronchoscopy
+    * Thoracic surgery
+    * Abdominal surgery
+* Environmental
+    * Local biogram
+    * Regular ventilator tubing changes
 
 
 ## Pathophysiology
 
-Microaspiration of organisms colonising the upper respiratory tract.
+Proposed mechanisms include:
+
+* Microaspiration of upper respiratory tract colonisers
+* Local spread
+* Haematogenous spread
 
 ### Aetiology
+
+Broadly, three classes of infection can occur:
+
+* Most **common**\
+Aerobic gram negative bacilli:
+    * *Klebsiella* spp.
+    * *E. coli*
+    * *Pseudomonas* spp.
+* **Early-onset**\
+VAP within **5 days** is more likely to include a wider array of community pathogens: 
+    * MRSA
+    * *S. pneumoniae*
+    * *H. influenzae*
+* **Late-onset**\
+After 5 days, multidrug resistant exogenous organisms may be seen:
+    * MRSA
+    * *P. aeruginosa*
+    * *Acinetobacter baumannii*
+    * *S. maltophilia*
 
 ## Clinical Manifestations
 
@@ -41,8 +84,8 @@ May have a role in timing deescalation of antibiotics.
 
 Sputum:
 
-* More complex in the intubated patient
-* Options include:
+* *Deep* respiratory samples are required to avoid culturing respiratory tract commensal organisms\
+More complex in the intubated patient; options include:
     * Tracheal aspirate\
     Identify potentially causative organisms but is not quantitative.
     * Bronchial washings
@@ -132,10 +175,12 @@ Risk factors for MDR include:
     * Use subglottic suctioning
     * Use closed suction circuits
     * Avoid non-essential suctioning
+    * Intubate orally (rather than nasally)
     * Minimise changes of ventilation equipment
-        * Suction cathethers
+        * Suction catheters
         * Humidifiers
-        * Circuit
+        * Circuit\
+        Weekly intervals.
 * B
     * Minimise duration of mechanical ventilation
 * E
@@ -163,6 +208,8 @@ Collection of pus in the pleural space, usually evolving from a parapneumonic ef
     Open or VATS drainage is the most effective tool.
 
 ## Prognosis
+
+* Average ↑ hospital LoS by ~13 days
 
 ## Key Studies
 
