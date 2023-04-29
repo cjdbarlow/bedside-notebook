@@ -2583,18 +2583,102 @@
     "text": "References\n\nCap AP, Pidcoke HF, Spinella P, et al. Damage Control Resuscitation. Mil Med. 2018;183(suppl_2):36-43. doi:10.1093/milmed/usy112"
   },
   {
-    "objectID": "management/infective/escappm.html#organisms",
-    "href": "management/infective/escappm.html#organisms",
-    "title": "ESCAPPM",
-    "section": "Organisms",
-    "text": "Organisms\nThe mnemonic refers to:\n\nEnterobacter spp.\nSerratia spp.\nCitrobacter\nHafnia spp.\nAcinetobacter and Aeromonas spp.\nProteus spp.\nExcluding P. mirabilis\nProvidencia spp.\nMorganella morgani"
+    "objectID": "management/infective/infection_control.html#standarduniversal-precautions",
+    "href": "management/infective/infection_control.html#standarduniversal-precautions",
+    "title": "Infection Control",
+    "section": "Standard/Universal Precautions",
+    "text": "Standard/Universal Precautions\nSteps taken with all patients, irrespective of suspected or confirmed disease:\n\nHand hygiene\nUse of appropriate PPE during procedures\nSafe disposal of sharps\nAseptic, no-touch procedure technique\nEnvironmental cleaning and laundry\nCough etiquette"
   },
   {
-    "objectID": "management/infective/escappm.html#references",
-    "href": "management/infective/escappm.html#references",
-    "title": "ESCAPPM",
+    "objectID": "management/infective/infection_control.html#contact-precautions",
+    "href": "management/infective/infection_control.html#contact-precautions",
+    "title": "Infection Control",
+    "section": "Contact Precautions",
+    "text": "Contact Precautions\nFor pathogens spread by direct patient contact, or indirectly by contact with patient environment. Includes:\n\n\nExamples include:\n\nDiarrhoea\nMeningitis\nIn children for suspected enteroviruses, or for confirmed M. tuberculosis.\nExotic viruses\nEbola, etc.\nPneumonias\nS. Aureus, S. Pneumoniae, M. tuberculosis.\nMRSA\n\n\nSingle room\n\nPatients with the same disease can be co-located, but should be separated by &gt;1m\nStandard precautions apply between patients in the room.\n\nPPE\n\nGloves for contact with skin\nGown if clothes will contact environment\n\nMinimise movement of patient outside room\nDisposable equipment\nDaily cleaning and disinfection"
+  },
+  {
+    "objectID": "management/infective/infection_control.html#droplet-precautions",
+    "href": "management/infective/infection_control.html#droplet-precautions",
+    "title": "Infection Control",
+    "section": "Droplet Precautions",
+    "text": "Droplet Precautions\nFor pathogens spread by close respiratory or mucous membrane contact, but that do not cover long distances in air. Includes:\n\n\nExamples include:\n\nB. pertussis\nInfluenza virus\nAdenovirus\nRhinovirus\nN. meningitides\n\n\nAs contact precautions\nSingle room\n\nIf unavailable, patient should be cohorted with their current roommate to prevent additional exposures\nDraw curtains in multi-bed room\n\nStandard mask"
+  },
+  {
+    "objectID": "management/infective/infection_control.html#airborne-precautions",
+    "href": "management/infective/infection_control.html#airborne-precautions",
+    "title": "Infection Control",
+    "section": "Airborne Precautions",
+    "text": "Airborne Precautions\nFor pathogens that remain infectious over long distances in air. Includes:\n\n\nThe distinction between pathogens spread by droplets and those spread by air depends on particle size, with larger suspensions traveling shorter distances and falling more quickly. The somewhat arbitrary cut-off is ~5µm, from which is derived the 1-2m social distancing rules we are too-familiar with.\n\nExamples include:\n\nM. Tuberculosis\nVZV\nHSV\nMeasles\nS. Aureus Pneumonias\nCOVID-19\n\n\n\nAs contact precautions\nIsolation room\n\nSingle room\n12 air changes per hour\nVia HEPA filter, or to outside.\n\nN95 mask or PAPR\nSusceptible staff should not enter the room\n\ne.g. Pregnant, immunocompromised, etc.\nVaccinated staff should care for patients with vaccine-preventable disease\n\n\nIf contact occurs outside of a positive-pressure room, then:\n\nMask the patient\nKeep the patient in a private room with the door closed\nUse N95 mask for staff"
+  },
+  {
+    "objectID": "management/infective/infection_control.html#protective-environmentreverse-precautions",
+    "href": "management/infective/infection_control.html#protective-environmentreverse-precautions",
+    "title": "Infection Control",
+    "section": "Protective Environment/Reverse Precautions",
+    "text": "Protective Environment/Reverse Precautions\nReverse precautions are used for severely immunocompromised patients to protect them from staff and visitors, and to ↓ fungal spore counts in the air. Includes:\n\nAirborne precautions for staff and visitors\nPositive-pressure isolation room\n\nAnteroom\nPressurised relative to surround rooms/environment\nHEPA filtration of incoming air with ⩾12 changes/hour\nDust-minimisation design and cleaning\nAir flow directed towards entry point of the room\n\nNo flowers or plants"
+  },
+  {
+    "objectID": "management/infective/infection_control.html#discontinuation-of-precautions",
+    "href": "management/infective/infection_control.html#discontinuation-of-precautions",
+    "title": "Infection Control",
+    "section": "Discontinuation of Precautions",
+    "text": "Discontinuation of Precautions\nCessation of precautions varies with the disease, and is usually based on either:\n\nTime of treatment\nEvidence of resolution"
+  },
+  {
+    "objectID": "management/infective/infection_control.html#references",
+    "href": "management/infective/infection_control.html#references",
+    "title": "Infection Control",
     "section": "References",
-    "text": "References"
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.\nCDC. Guideline for Isolation Precautions: Preventing Transmission of Infectious Agents in Healthcare Settings. 2007.\nRandall K, Ewing ET, Marr LC, Jimenez JL, Bourouiba L. How did we get here: what are droplets and aerosols and how far do they go? A historical perspective on the transmission of respiratory infectious diseases. Interface Focus. 2021 Oct 12;11(6):20210049."
+  },
+  {
+    "objectID": "management/infective/resistant.html#inducible-β-lactamase",
+    "href": "management/infective/resistant.html#inducible-β-lactamase",
+    "title": "Resistant Organisms",
+    "section": "Inducible β-lactamase",
+    "text": "Inducible β-lactamase\nESCAPPM/ESCHAPPM is a group of Gram-negative organisms which:\n\nRapidly develop resistance to β-lactam antibiotics\n\nDue to inducible β-lactamase\nChromosomal-mediated cephalosporinase enzyme that is strongly selected for in the presence of β-lactam antibiotics.\nMay be inhibited by tazobactam, and so tazocin may be effective\n\nShould be treated with non-β-lactam agents, even if they initially appear sensitive\n\n\nESCHAPPM\nThe mnemonic refers to:\n\nEnterobacter spp.\nSerratia spp.\nCitrobacter\nHafnia spp.\nAcinetobacter and Aeromonas spp.\nProteus spp.\nExcluding P. mirabilis\nProvidencia spp.\nMorganella morgani"
+  },
+  {
+    "objectID": "management/infective/resistant.html#extended-spectrum-β-lactamase",
+    "href": "management/infective/resistant.html#extended-spectrum-β-lactamase",
+    "title": "Resistant Organisms",
+    "section": "Extended Spectrum β-lactamase",
+    "text": "Extended Spectrum β-lactamase\nDescribes organisms that develop a β-lactamase that produces resistance to other antibiotic classes. The ESBL:\n\nProvides (variable) resistance to:\n\nThird-generation cephalosporins (e.g. ceftriaxone)\nFluoroquinolones\nAminoglycosides\n\nProducing organisms include:\n\nEnterobacteriae:\n\nE. Coli\nKlebsiella spp.\nEnterobacter spp.\nSerratia spp.\nProteus spp.\n\nCitrobacter spp.\n\nCan spread by plasmid transmission\nBacteria share chromosomal coding for the β-lactamase between organisms, resulting in rapid ↑ resistance in a colony."
+  },
+  {
+    "objectID": "management/infective/resistant.html#carbapenemases",
+    "href": "management/infective/resistant.html#carbapenemases",
+    "title": "Resistant Organisms",
+    "section": "Carbapenemases",
+    "text": "Carbapenemases\nOrganisms with enzyme that inactivates carbapenem antibiotics. Carbapenemase:\n\nProducing organisms include:\n\nEnterobacteriae\nClassically:\n\nE. Coli\nKlebsiella spp.\n\n\nCan also spread by plasmid transmission"
+  },
+  {
+    "objectID": "management/infective/resistant.html#references",
+    "href": "management/infective/resistant.html#references",
+    "title": "Resistant Organisms",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
+  },
+  {
+    "objectID": "management/infective/nosocomial.html#epidemiology-and-risk-factors",
+    "href": "management/infective/nosocomial.html#epidemiology-and-risk-factors",
+    "title": "Nosocomial Infective Organisms",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors\nRisk factors include:\n\nPatient\n\nImmunocompromise\n\nCritically unwell\nComorbid\nImmunosuppressed\nMalnutrition\n\nVector of transmission\n\nOpen wounds\nInvasive devices\nMultiple procedures\nMechanically ventilated\nBlood transfusion\n\nLength of stay\n\nEnvironment\n\nMultiple staff\nPoor aseptic practice\n\nOrganism\n\nResistance\nBiofilm formation\nPathogenicity"
+  },
+  {
+    "objectID": "management/infective/nosocomial.html#common-organisms",
+    "href": "management/infective/nosocomial.html#common-organisms",
+    "title": "Nosocomial Infective Organisms",
+    "section": "Common Organisms",
+    "text": "Common Organisms\nInclude:\n\nGram positive cocci\n\nMRSA\nS. Aureus resistant to most standard anti-Staphylococcal antibiotics, but sensitive to:\n\nGlycopeptides\nVancomycin.\nLinezolid\nBetter pulmonary penetration, may be preferable for MRSA pneumonia.\n\nCoagulase-negative Staphylococcus\nEnterococcus spp.\n\nE. Faecalis\nE. Faecium\n\n\nGram negative bacilli\n\nE. Coli\nP. aeruginosa\nKlebsiella spp.\nSerratia marcescens\nProteus spp.\nAcinetobacter baumanni\nComplex and variable resistance pattern.\nStenotrophomonas maltophilia\n\nFungi\n\nCandida spp.\n\n\n\n\nCandidal infections are covered in detail under Chapter 386.\n\nCoagulase-negative Staphylococci\nCommon, low-virulence Staphylococcus. spp that:\n\n\nStaphylococci can be grouped by their ability to produce coagulase, an enzyme which cleaves fibrinogen and leads to clot production. This clot also covers the bacteria in a film of clot, which protects them from immune detection and subsequent phagocytosis.\n\nCoagulase positive\nS. Aureus\nCoagulase negative\nAll others.\n\n\nUsually exist as skin commensals\nCommon cause of false-positive blood cultures. Can be distinguished from true infection:\n\nClinical suspicion\nNumber of positive cultures\nPositive culture in multiple bottles taken at the same time from different places\nPositive in aerobic and anaerobic bottles\n85% of “true” infections, compared to ~35% of potentially contaminated specimens.\nCulture positive in &lt;16 hours\n\nCause infections in:\n\nAreas obscured from the immune system:\n\nSeptic arthritis\nEndocarditis\nInvasive devices\n\nLines\nPacemakers\nProsthetics\n\nValves\nJoints\nVP shunts\n\n\n\nImmunocompromised host\nDisrupted barriers\n\nBurns\n\n\nAre generally:\n\nMultiresistant\nSensitive to glycopeptides and linezolid\n\n\n\n\nPseudomonas Aeruginosa\nP. Aeruginosa is a:\n\nCommon cause of HAP\nResistant to common pneumonia therapies\nCommonly colonises the respiratory tract of patients with respiratory disease, leading to recurrent infection\nIncluding:\n\nCOPD\nCF\n\n\n\n\nStenotrophomonas Maltophilia\nMultiresistant environmental organism:\n\nIntrinsically resistant to carbapenems\nArises in patients with prolonged carbapenem treatment.\nGenerally resistant to β-lactams\nResponsive to cotrimoxazole"
+  },
+  {
+    "objectID": "management/infective/nosocomial.html#references",
+    "href": "management/infective/nosocomial.html#references",
+    "title": "Nosocomial Infective Organisms",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
   },
   {
     "objectID": "management/infective/antibiotics.html#concepts",
@@ -2629,7 +2713,7 @@
     "href": "management/infective/antifungals.html#drugs",
     "title": "Antifungals",
     "section": "Drugs",
-    "text": "Drugs\n\nComparison of Azoles\n\n\n\n\n\n\n\nDrug\nFluconazole\nVoriconazole\n\n\n\n\nIndications\n\nYeasts\nCovers most Candida species.\nExcludes C. glabrata and C. Krusei\n\n\nInvasive Aspergillosis\nFluconazole-resistant Candida\nEndemic fungi\nCoccidiomycosis, histoplasmosis, blastomycosis.\n\n\n\nDosing\n\nSystemic\n800mg IV load, 200mg IV BD\nEsophageal\n200mg IV load, 50mg IV BD.\n\n\nAspergillus\n6mg/kg IV load (BD), then 4mg/kg BD thereafter.\n\n\n\nKey pharmacology\n\nRenal elimination unchanged\nDose ↓ 50% if GFR &lt;50mL/min\nDose ↑ in CRRT\nUsual renal tubular reabsorption does not occur.\nExtensive CYP interactions\ne.g. Tacrolimus, warfarin, phenytoin.\n\n\nIV contraindicated if GFR &lt;50mL/min\nPO dosing safe and unchanged.\nDose ↓ 50% in hepatic dysfunction\nExtensive CYP interactions\n\n\n\nToxicity\n\n↑ QTc\nHepatitis\n\n\nNeurotoxicity\nDelirium, myoclonus.\nNephrotoxicity\nIV only.\n↑ QTc\nPsychosis\n\n\n\nOther\n\nNo evidence for surgical prophylaxis\n\n\n\n\n\n\nComparison of Other Antifungals\n\n\n\n\n\n\n\nDrug\nEchinocandins\nLiposomal Amphotericin\n\n\n\n\nIndications\n\nCandida\nResistance is rare; may occur with C. parapsilosis, C. glabrata, and C. guilliermondii.\nAspergillus\nNot as monotherapy; synergistic with voriconazole.\n\n\nCryptococcus Neoformans\nDimorphic fungi\nMolds\nOtherwise resistant fungi\n\n\n\nDosing\n\nCaspofungin\n70mg IV load, then 50mg IV daily.\nAnidulafungin\n200mg IV load, then 100mg IV daily.\nMicafungin\n100-150mg IV daily.\n\n\n3-5mg/kg IV Q24H\n\n\n\nKey pharmacology\n\nVery highly protein bound\nNo renal or hepatic dose reduction required\n\n\nNo hepatic impact\nMajor role in treating fungal infections in hepatic failure.\nContraindicated in renal failure\n\n\n\nToxicity\n\nAvoid in acute hepatic failure\nResults in deranged LFTs, confounding monitoring.\n\n\nInfusion reactions\nAtopic/immune symptoms.\nAKI\nRTA\n\n\n\n\n\n\nLiposomal amphotericin has replaced other more toxic amphotericin preparations."
+    "text": "Drugs\n\nComparison of Azoles\n\n\n\n\n\n\n\nDrug\nFluconazole\nVoriconazole\n\n\n\n\nIndications\n\nYeasts\nCovers most Candida species.\nExcludes C. glabrata and C. Krusei\n\n\nInvasive Aspergillosis\nFluconazole-resistant Candida\nEndemic fungi\nCoccidiomycosis, histoplasmosis, blastomycosis.\n\n\n\nDosing\n\nSystemic\n800mg IV load, 200mg IV BD\nEsophageal\n200mg IV load, 50mg IV BD.\n\n\nAspergillus\n6mg/kg IV load (BD), then 4mg/kg BD thereafter.\n\n\n\nKey pharmacology\n\nRenal elimination unchanged\nDose ↓ 50% if GFR &lt;50mL/min\nDose ↑ in CRRT\nUsual renal tubular reabsorption does not occur.\nExtensive CYP interactions\ne.g. Tacrolimus, warfarin, phenytoin.\n\n\nIV contraindicated if GFR &lt;50mL/min\nPO dosing safe and unchanged.\nDose ↓ 50% in hepatic dysfunction\nExtensive CYP interactions\n\n\n\nToxicity\n\n↑ QTc\nHepatitis\n\n\nNeurotoxicity\nDelirium, myoclonus.\nNephrotoxicity\nIV only.\n↑ QTc\nPsychosis\n\n\n\nOther\n\nNo evidence for surgical prophylaxis\n\n\n\n\n\n\nComparison of Other Antifungals\n\n\n\n\n\n\n\nDrug\nEchinocandins\nLiposomal Amphotericin\n\n\n\n\nIndications\n\nCandida\nResistance is rare; may occur with C. parapsilosis, C. glabrata, and C. guilliermondii.\nAspergillus\nNot as monotherapy; synergistic with voriconazole.\n\n\nCryptococcus Neoformans\nDimorphic fungi\nChange between yeast and mould form.\nMoulds\nOtherwise resistant fungi\n\n\n\nDosing\n\nCaspofungin\n70mg IV load, then 50mg IV daily.\nAnidulafungin\n200mg IV load, then 100mg IV daily.\nMicafungin\n100-150mg IV daily.\n\n\n3-5mg/kg IV Q24H\n\n\n\nKey pharmacology\n\nVery highly protein bound\nNo renal or hepatic dose reduction required\n\n\nNo hepatic impact\nMajor role in treating fungal infections in hepatic failure.\nContraindicated in renal failure\n\n\n\nToxicity\n\nAvoid in acute hepatic failure\nResults in deranged LFTs, confounding monitoring.\n\n\nInfusion reactions\nAtopic/immune symptoms.\nAKI\nRTA\n\n\n\n\n\n\nLiposomal amphotericin has replaced other more toxic amphotericin preparations."
   },
   {
     "objectID": "management/infective/antifungals.html#references",
@@ -8964,21 +9048,21 @@
     "href": "intensive/supportive/decontamination.html#indications",
     "title": "Selective Digestive Decontamination",
     "section": "Indications",
-    "text": "Indications"
+    "text": "Indications\n\nPatients at risk of nosocomial infection\nICU with low rate of resistance to chosen antimicrobial"
   },
   {
     "objectID": "intensive/supportive/decontamination.html#contraindications",
     "href": "intensive/supportive/decontamination.html#contraindications",
     "title": "Selective Digestive Decontamination",
     "section": "Contraindications",
-    "text": "Contraindications"
+    "text": "Contraindications\n\nConcern of ↑ antimicrobial resistance, although this has not been demonstrated"
   },
   {
     "objectID": "intensive/supportive/decontamination.html#pathophysiology",
     "href": "intensive/supportive/decontamination.html#pathophysiology",
     "title": "Selective Digestive Decontamination",
     "section": "Pathophysiology",
-    "text": "Pathophysiology\nIn the critically ill:\n\nOvergrowth of normal and abnormal flora occurs\nGut overgrowth heralds endogenous infections Nosocomial infection"
+    "text": "Pathophysiology\nIn the critically ill:\n\nOvergrowth of normal and abnormal flora occurs\nGut overgrowth heralds endogenous infections\nNosocomial infections are predominantly caused by endogenous flora"
   },
   {
     "objectID": "intensive/supportive/decontamination.html#technique",
@@ -8992,7 +9076,7 @@
     "href": "intensive/supportive/decontamination.html#complications",
     "title": "Selective Digestive Decontamination",
     "section": "Complications",
-    "text": "Complications\n\nRisk of ↑ antimicrobial resistance"
+    "text": "Complications"
   },
   {
     "objectID": "intensive/supportive/decontamination.html#key-studies",
@@ -9307,7 +9391,7 @@
     "href": "disease/resp/coad.html#epidemiology-and-risk-factors",
     "title": "Chronic Obstructive Pulmonary Disease",
     "section": "Epidemiology and Risk Factors",
-    "text": "Epidemiology and Risk Factors\nCommon comorbidity:\n\n10% of &gt;40s woldwide\n4th most common cause of death\nAssociated with:\n\nCAD\nMalignancy\nDepression\n\n\nRisk factors:\n\nEnvironmental exposures:\n\nSmoking\n\nCigarettes\nPipes/cigars\nWater pipe\nMarijuana\nGreater incease in bullous emphysema due to holding hot inhaled smoke.\n\nOccupational exposures\n\nDusts\nChemical agents\nFumes\n\nIndoor air pollution\n\nCooking fuels\n\nOutdoor air pollution\nRelatively small effect.\n\nGenetic factors:\n\nFAM13A associated with development\n\n\n\n\nDegree of decline in FEV1 with age varies with the duration of smoking, timing of quitting smoking, and susceptibility to COPD."
+    "text": "Epidemiology and Risk Factors\nCommon comorbidity:\n\n10% of &gt;40s worldwide\n4th most common cause of death\nAssociated with:\n\nCAD\nMalignancy\nDepression\n\n\nRisk factors:\n\nEnvironmental exposures:\n\nSmoking\n\nCigarettes\nPipes/cigars\nWater pipe\nMarijuana\nGreater ↑ in bullous emphysema due to holding hot inhaled smoke.\n\nOccupational exposures\n\nDusts\nChemical agents\nFumes\n\nIndoor air pollution\n\nCooking fuels\n\nOutdoor air pollution\nRelatively small effect.\n\nGenetic factors:\n\nFAM13A associated with development\n\n\n\n\nDegree of decline in FEV1 with age varies with the duration of smoking, timing of quitting smoking, and susceptibility to COPD."
   },
   {
     "objectID": "disease/resp/coad.html#pathophysiology",
@@ -9349,7 +9433,7 @@
     "href": "disease/resp/coad.html#complications",
     "title": "Chronic Obstructive Pulmonary Disease",
     "section": "Complications",
-    "text": "Complications\n\nDeath:\n\n8% in-hospital mortality\n15% 90-day mortality\nUp to 50% 1-year mortality"
+    "text": "Complications\n\nDeath:\n\n8% in-hospital mortality\n15% 90-day mortality\nUp to 50% 1-year mortality\n\nB\n\nRecurrent infection\n↑ With Pseudomonas colonisation"
   },
   {
     "objectID": "disease/resp/coad.html#prognosis",
@@ -9587,14 +9671,14 @@
     "href": "disease/infective/hap.html#epidemiology-and-risk-factors",
     "title": "Hospital/Ventilator Acquired Pneumonia",
     "section": "Epidemiology and Risk Factors",
-    "text": "Epidemiology and Risk Factors\nHAP:\n\nOccurs in 0.5-5% of inpatients\nRisk is ↑ if:\n\nPost-operative\nIn ICU"
+    "text": "Epidemiology and Risk Factors\nHAP:\n\nOccurs in 0.5-5% of inpatients\n\nRisk factors:\n\nImmunocompromised\n\nCritically unwell\n\nIn ICU\n\nDiabetes\nAdvanced age\n\nMicroaspiration\n\nIntubated\n↓ Conscious state\nNGT in situ\n\nPathology\n\nChronic lung disease\nReceiving antibiotics\n\nProcedural\n\nPost-operative\nBronchoscopy\nThoracic surgery\nAbdominal surgery\n\nEnvironmental\n\nLocal biogram\nRegular ventilator tubing changes"
   },
   {
     "objectID": "disease/infective/hap.html#pathophysiology",
     "href": "disease/infective/hap.html#pathophysiology",
     "title": "Hospital/Ventilator Acquired Pneumonia",
     "section": "Pathophysiology",
-    "text": "Pathophysiology\nMicroaspiration of organisms colonising the upper respiratory tract.\n\nAetiology"
+    "text": "Pathophysiology\nProposed mechanisms include:\n\nMicroaspiration of upper respiratory tract colonisers\nLocal spread\nHaematogenous spread\n\n\nAetiology\nBroadly, three classes of infection can occur:\n\nMost common\nAerobic gram negative bacilli:\n\nKlebsiella spp.\nE. coli\nPseudomonas spp.\n\nEarly-onset\nVAP within 5 days is more likely to include a wider array of community pathogens:\n\nMRSA\nS. pneumoniae\nH. influenzae\n\nLate-onset\nAfter 5 days, multidrug resistant exogenous organisms may be seen:\n\nMRSA\nP. aeruginosa\nAcinetobacter baumannii\nS. maltophilia"
   },
   {
     "objectID": "disease/infective/hap.html#clinical-manifestations",
@@ -9615,14 +9699,14 @@
     "href": "disease/infective/hap.html#investigations",
     "title": "Hospital/Ventilator Acquired Pneumonia",
     "section": "Investigations",
-    "text": "Investigations\nBlood:\n\nFBE\nWCC may ↑ or ↓.\nProcalcitonin\nMay have a role in timing deescalation of antibiotics.\nBlood cultures\n\nSputum:\n\nMore complex in the intubated patient\nOptions include:\n\nTracheal aspirate\nIdentify potentially causative organisms but is not quantitative.\nBronchial washings\nBronchoalveolar Lavage\n\n\nRadiology:\n\nCXR\n\n\nInfiltrates required for diagnosis is many guidelines\nAppearance usually worsens in initial period, even with institution of appropriate antibiotics\nFeatures of concern are:\n\nCavitation\nPleural effusion\n\nRadiographic improvement lags behind clinical response"
+    "text": "Investigations\nBlood:\n\nFBE\nWCC may ↑ or ↓.\nProcalcitonin\nMay have a role in timing deescalation of antibiotics.\nBlood cultures\n\nSputum:\n\nDeep respiratory samples are required to avoid culturing respiratory tract commensal organisms\nMore complex in the intubated patient; options include:\n\nTracheal aspirate\nIdentify potentially causative organisms but is not quantitative.\nBronchial washings\nBronchoalveolar Lavage\n\n\nRadiology:\n\nCXR\n\n\nInfiltrates required for diagnosis is many guidelines\nAppearance usually worsens in initial period, even with institution of appropriate antibiotics\nFeatures of concern are:\n\nCavitation\nPleural effusion\n\nRadiographic improvement lags behind clinical response"
   },
   {
     "objectID": "disease/infective/hap.html#management",
     "href": "disease/infective/hap.html#management",
     "title": "Hospital/Ventilator Acquired Pneumonia",
     "section": "Management",
-    "text": "Management\nResuscitation:\n\n\nA\n\nIntubation may be required\n\nB\n\nSupplemental oxygen\n\nC\n\nHaemodynamic support if concurrent sepsis\n\n\nSpecific therapy:\n\n\nRisk factors for MDR include:\n\nDisease\n\nImmunosuppression\nBronchiectasis\nSeptic shock\nARDS\n\nTreatment\n\nPrior IV ABx in previous 90 days\nHospitalisation &gt;5 days\nRRT\n\nEnvironmental\n\nHigh local MDR burden\n\n\n\nAntimicrobial therapy\n\n\n7 day course recommended to reduce subsequent MDR pneumonias.\n2-3 days until clinical response seen is usual\nIf failing to respond, consider:\n\nWrong bug\nRepeat cultures.\nWrong drug\nEnsure sensitivity of organism to the antibiotic beingused.\nWrong dose\nAppropriate for patient weight.\nSequestration\nAbscess cavity or similar\nPatient factors\n\nImmunosuppression\nFrailty\n\n\nNo MDR risk factors\nConsider:\n\nTazocin 4.5g Q6-8H\nCefepime 2g Q8H\nMeropenem 1g Q8H\n\nMDR risk factors\nConsider one of each of:\n\nAntipseudomonal broad spectrum agent\nAs above.\nAdditional gram negative cover\n↓ Risk that pathogen is resistant to the primary agent.\n\nAminoglycoside 15-20mg Q24H\nCiprofloxacin 400mg Q8H\nLevofloxacin 750mg Q24H\n\nMRSA cover:\n\nLinezolid 600mg Q12H\nVancomycin\n\n\n\n\n\nPrevention:\n\nA\n\nNurse 30° head up to ↓ risk of microaspiration\nOral care Q4H with chlorhexidine mouthwash BD\nUse subglottic suctioning\nUse closed suction circuits\nAvoid non-essential suctioning\nMinimise changes of ventilation equipment\n\nSuction cathethers\nHumidifiers\nCircuit\n\n\nB\n\nMinimise duration of mechanical ventilation\n\nE\n\nEarly mobilisation\n\n\n\nMarginal and Ineffective Therapies"
+    "text": "Management\nResuscitation:\n\n\nA\n\nIntubation may be required\n\nB\n\nSupplemental oxygen\n\nC\n\nHaemodynamic support if concurrent sepsis\n\n\nSpecific therapy:\n\n\nRisk factors for MDR include:\n\nDisease\n\nImmunosuppression\nBronchiectasis\nSeptic shock\nARDS\n\nTreatment\n\nPrior IV ABx in previous 90 days\nHospitalisation &gt;5 days\nRRT\n\nEnvironmental\n\nHigh local MDR burden\n\n\n\nAntimicrobial therapy\n\n\n7 day course recommended to reduce subsequent MDR pneumonias.\n2-3 days until clinical response seen is usual\nIf failing to respond, consider:\n\nWrong bug\nRepeat cultures.\nWrong drug\nEnsure sensitivity of organism to the antibiotic beingused.\nWrong dose\nAppropriate for patient weight.\nSequestration\nAbscess cavity or similar\nPatient factors\n\nImmunosuppression\nFrailty\n\n\nNo MDR risk factors\nConsider:\n\nTazocin 4.5g Q6-8H\nCefepime 2g Q8H\nMeropenem 1g Q8H\n\nMDR risk factors\nConsider one of each of:\n\nAntipseudomonal broad spectrum agent\nAs above.\nAdditional gram negative cover\n↓ Risk that pathogen is resistant to the primary agent.\n\nAminoglycoside 15-20mg Q24H\nCiprofloxacin 400mg Q8H\nLevofloxacin 750mg Q24H\n\nMRSA cover:\n\nLinezolid 600mg Q12H\nVancomycin\n\n\n\n\n\nPrevention:\n\nA\n\nNurse 30° head up to ↓ risk of microaspiration\nOral care Q4H with chlorhexidine mouthwash BD\nUse subglottic suctioning\nUse closed suction circuits\nAvoid non-essential suctioning\nIntubate orally (rather than nasally)\nMinimise changes of ventilation equipment\n\nSuction catheters\nHumidifiers\nCircuit\nWeekly intervals.\n\n\nB\n\nMinimise duration of mechanical ventilation\n\nE\n\nEarly mobilisation\n\n\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/infective/hap.html#complications",
@@ -9636,7 +9720,7 @@
     "href": "disease/infective/hap.html#prognosis",
     "title": "Hospital/Ventilator Acquired Pneumonia",
     "section": "Prognosis",
-    "text": "Prognosis"
+    "text": "Prognosis\n\nAverage ↑ hospital LoS by ~13 days"
   },
   {
     "objectID": "disease/infective/hap.html#key-studies",
@@ -11687,14 +11771,14 @@
     "href": "disease/infective/meningitis.html#investigations",
     "title": "Meningitis",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\nLaboratory:\n\n\nDetails of CSF findings in meningitis are covered under Chapter 405.\n\nBlood\n\nFBE\nInfection.\nBlood cultures\nPCR\n\nLP\n\nRequired to completely confirm diagnosis\nHowever, contraindications are common\n\nCoagulopathy\n↑ ICP, or significant clinical concern of such\n\nEmpirical antibiotics should be commenced if there is delay\nUrgent Gram stain and culture\n\n\nImaging:\nOther:"
+    "text": "Investigations\nBedside:\nLaboratory:\n\n\nDetails of CSF findings in meningitis are covered under Chapter 408.\n\nBlood\n\nFBE\nInfection.\nBlood cultures\nPCR\n\nLP\n\nRequired to completely confirm diagnosis\nHowever, contraindications are common\n\nCoagulopathy\n↑ ICP, or significant clinical concern of such\n\nEmpirical antibiotics should be commenced if there is delay\nUrgent Gram stain and culture\n\n\nImaging:\nOther:"
   },
   {
     "objectID": "disease/infective/meningitis.html#management",
     "href": "disease/infective/meningitis.html#management",
     "title": "Meningitis",
     "section": "Management",
-    "text": "Management\nResuscitation:\n\nSpecific therapy:\n\n\nDuration of antimicrobial therapy depends on the organism:\n\nN. meningitidis: 5 days\nS. pneumoniae: 10-14 days\nL. monocytogenes: 21 days\n\n\nPharmacological\n\nAntimicrobial therapy\n\nEmpiric therapy\n\nFoundation:\n\nCeftriaxone 2g IV Q12H\nOr cefotaxime 2g IV Q6H.\nDexamethasone 10mg IV Q6H\n\nGive with or before first dose of antibiotics\nCease if cause other than S. pneumoniae is discovered\nNo mortality benefit outside this group.\n\nAcyclovir 10mg/kg IV\nIndicated for viral meningitis caused by VZV or HSV.\n\nIf immunocompromised:\ni.e. Age &gt;60, diabetes, alcohol misuse, malignancy, immunosuppressants:\n\nAdd ampicillin 2g Q4H\n\nIf penicillin resistant pneumococci:\n\nAdd vancomycin\n\n\nCryptococcal meningitis\n\nInitial therapy:\n\nAmphoteracin B\n5-fluorocytosine\n\nFluconazole\n\n\nAnticonvulsants\n\nBenzodiazepines for seizure control\n\n\n\nProcedural\nPhysical\n\n\n\nManagement of seizures is covered under Chapter 313.\nSupportive care:\nDisposition:\n\nICU admission in:\n\nRapidly evolving rash\nGCS ⩽12\nOrgan support\nSeizures\n\n\nPreventative:\n\nProphylaxis is recommended for close contacts\nCiprofloxacin 500mg.\nMeningococcal vaccination\nPublic health notification\n\n\nMarginal and Ineffective Therapies\n\nIntrathecal antibiotics\nNot recommended.\nProphylactic anticonvulsants"
+    "text": "Management\nResuscitation:\n\nSpecific therapy:\n\n\nDuration of antimicrobial therapy depends on the organism:\n\nN. meningitidis: 5 days\nS. pneumoniae: 10-14 days\nL. monocytogenes: 21 days\n\n\nPharmacological\n\nAntimicrobial therapy\n\nEmpiric therapy\n\nFoundation:\n\nCeftriaxone 2g IV Q12H\nOr cefotaxime 2g IV Q6H.\nDexamethasone 10mg IV Q6H\n\nGive with or before first dose of antibiotics\nCease if cause other than S. pneumoniae is discovered\nNo mortality benefit outside this group.\n\nAcyclovir 10mg/kg IV\nIndicated for viral meningitis caused by VZV or HSV.\n\nIf immunocompromised:\ni.e. Age &gt;60, diabetes, alcohol misuse, malignancy, immunosuppressants:\n\nAdd ampicillin 2g Q4H\n\nIf penicillin resistant pneumococci:\n\nAdd vancomycin\n\n\nCryptococcal meningitis\n\nInitial therapy:\n\nAmphoteracin B\n5-fluorocytosine\n\nFluconazole\n\n\nAnticonvulsants\n\nBenzodiazepines for seizure control\n\n\n\nProcedural\nPhysical\n\n\n\nManagement of seizures is covered under Chapter 315.\nSupportive care:\nDisposition:\n\nICU admission in:\n\nRapidly evolving rash\nGCS ⩽12\nOrgan support\nSeizures\n\n\nPreventative:\n\nProphylaxis is recommended for close contacts\nCiprofloxacin 500mg.\nMeningococcal vaccination\nPublic health notification\n\n\nMarginal and Ineffective Therapies\n\nIntrathecal antibiotics\nNot recommended.\nProphylactic anticonvulsants"
   },
   {
     "objectID": "disease/infective/meningitis.html#anaesthetic-considerations",
@@ -12555,7 +12639,7 @@
     "href": "disease/neuro/sah.html#complications",
     "title": "Subarachnoid Haemorrhage",
     "section": "Complications",
-    "text": "Complications\n\nC\n\nMyocardial injury\nCatecholamine surge with risk of myocardial necrosis.\n\nLV dysfunction in 10-30%\nNeurocardiogenic shock/Takotsubo cardiomyopathy may arise due to combination of ↑ preload and afterload (catecholamines), and ↓ inotropy (necrosis)\n\n\nD\n\nRebleeding\nMajor life-threatening complication\n\n20% of patients in first 24 hours\nMajority (50-90%) occur within 6 hours\nUncommon after 72 hours\n20-60% mortality\n\nSecondary hydrocephalus\n\nOccurs in 20% of patients\nWithin minutes to hours of onset.\nRequires EVD\n\nSeizures\n\nOccurs in 26% of patients\nCorrelated with blood volume and MCA aneurysms.\n\nDCI\nLeading cause of neurological morbidity due to cerebral infarction.\nSeizure\n\nTreat with levetiracetam at first line\n\n\nF\n\nHyponatraemia\n30% of cases.\n\nCSW\n\nHypernatraemia\n\n\n\n\nDelayed cerebral ischaemia is covered in detail under Chapter 322."
+    "text": "Complications\n\nC\n\nMyocardial injury\nCatecholamine surge with risk of myocardial necrosis.\n\nLV dysfunction in 10-30%\nNeurocardiogenic shock/Takotsubo cardiomyopathy may arise due to combination of ↑ preload and afterload (catecholamines), and ↓ inotropy (necrosis)\n\n\nD\n\nRebleeding\nMajor life-threatening complication\n\n20% of patients in first 24 hours\nMajority (50-90%) occur within 6 hours\nUncommon after 72 hours\n20-60% mortality\n\nSecondary hydrocephalus\n\nOccurs in 20% of patients\nWithin minutes to hours of onset.\nRequires EVD\n\nSeizures\n\nOccurs in 26% of patients\nCorrelated with blood volume and MCA aneurysms.\n\nDCI\nLeading cause of neurological morbidity due to cerebral infarction.\nSeizure\n\nTreat with levetiracetam at first line\n\n\nF\n\nHyponatraemia\n30% of cases.\n\nCSW\n\nHypernatraemia\n\n\n\n\nDelayed cerebral ischaemia is covered in detail under Chapter 324."
   },
   {
     "objectID": "disease/neuro/sah.html#prognosis",
@@ -14830,7 +14914,7 @@
     "href": "disease/git/alf.html#management",
     "title": "Acute Liver Failure",
     "section": "Management",
-    "text": "Management\n\nGoals of therapy are:\n\nIdentify cause\nSupportive care to limit hepatic damage\nEarly identification of patients for transplant\n\nSignificant improvement in outcomes with emergency liver transplantation\nEarly escalation to critical care and early referral to a specialist centre is essential\n\n\n\nResuscitation:\n\n\nA\nConsider securing if:\n\nHigh grade (III/IV) encephalopathy\nNeed for transfer\n\nB\n\nCO2 control for ICP management\n\nC\n\nClassically distributive shock picture\n\nNoradrenaline\n\n\nD\n\n↑ ICP\n\n\nControl with standard ICP management\n\n\n\nSpecific therapy:\n\nProcedural\n\nLiver transplantation\n\nPhysical\n\nExtra-corporeal hepatic support\nArtificial, extra-corporeal liver replacement therapy. Broadly, ↓ encephalopathy and ↑ haemodynamic function without mortality benefit. May be:\n\nBiological\nUsing human/porcine cells.\nMechanical\nMolecular filtration.\n\n\n\nUnderlying cause:\n\n\nManagement of paracetamol overdose is covered under Chapter 386.\n\nParacetamol overdose\n\nN-acetylcysteine (NAC)\n\n\nCornerstone of therapy as early administration results in significant reduction in mortality (to &lt;1%), though even late administration may improve outcome\nDosing based on Prescott nomogram\n\n\nViral hepatitis\n\nAntivirals\nHepatitis B\n\nLamivudine\nBenefit if given early.\n\n\nAlcoholic hepatitis\nAutoimmune hepatitis\n\nSte\n\nMushroom poisoning\n\nForced diuresis\n↑ Renal clearance of toxin. Avoid hypovolaemia.\n\nWilson’s disease\n\nD-Penicillamine\nChelates copper. Withdrawal of chronic treatment may precipitate failure.\n\nHepatic vein thrombosis\n\nThrombolysis\nClot retrieval\nTIPS\n\n\nSupportive care:\n\n\nInvasive intracranial pressure monitoring associated with ~10% intracranial haemorrhage rate.\n\nB\n\nLung protective ventilation\nARDS risk.\nDrain pleural effusions\n\nD\n\n↑ ICP\n\n\nGeneral measures\nIf grade 3/4 encephalopathy, recommend:\n\nIntubation\nSedation\nAvoid stimulation\nHead-up positioning\n\nConsider invasive ICP management if all of:\n\n\nGrade 3-4 encephalopathy\nHyperacute liver failure\nAmmonia &gt;150mmolL\nYoung\n\n\n\nE\n\n↓ BSL\nUse high-concentration dextrose to avoid cerebral oedema/↓ Na+.\n\nF\n\n↓ Phosphate\nReplenish.\nRRT\n\n\nAvoid citrate!\nCRRT preferential due to haemodynamics\nIn addition to standard indications, consider for:\n\nHyperammonaemia\nAim &lt;100μmol/: to ↓ cerebral oedema.\nHypothermia\n\n\n\nG\n\nEarly enteral feeding\nMay have ↑ metabolic requirements. No change in protein requirement.\nLactulose\nControversial. May ↓ hepatic encephalopathy but lead to gaseous intestinal distension.\nPPI\nDrain ascites\nFor haemodynamic benefit.\n\nH\n\nCoagulopathy\nTreat if bleeding or prior to procedures. Patients may be prothrombotic, anti-thrombotic, or fibrinolytic, and the assays themselves (both coagulation profiles and point-of-care testing) may not correlate with the observed clinical effect.\n\nVitamin K\nVery reasonable, probably ineffective in the majority of patients.\n\n\n\nDisposition:\n\nLiver transplant centre\n\n\nMarginal and Ineffective Therapies"
+    "text": "Management\n\nGoals of therapy are:\n\nIdentify cause\nSupportive care to limit hepatic damage\nEarly identification of patients for transplant\n\nSignificant improvement in outcomes with emergency liver transplantation\nEarly escalation to critical care and early referral to a specialist centre is essential\n\n\n\nResuscitation:\n\n\nA\nConsider securing if:\n\nHigh grade (III/IV) encephalopathy\nNeed for transfer\n\nB\n\nCO2 control for ICP management\n\nC\n\nClassically distributive shock picture\n\nNoradrenaline\n\n\nD\n\n↑ ICP\n\n\nControl with standard ICP management\n\n\n\nSpecific therapy:\n\nProcedural\n\nLiver transplantation\n\nPhysical\n\nExtra-corporeal hepatic support\nArtificial, extra-corporeal liver replacement therapy. Broadly, ↓ encephalopathy and ↑ haemodynamic function without mortality benefit. May be:\n\nBiological\nUsing human/porcine cells.\nMechanical\nMolecular filtration.\n\n\n\nUnderlying cause:\n\n\nManagement of paracetamol overdose is covered under Chapter 389.\n\nParacetamol overdose\n\nN-acetylcysteine (NAC)\n\n\nCornerstone of therapy as early administration results in significant reduction in mortality (to &lt;1%), though even late administration may improve outcome\nDosing based on Prescott nomogram\n\n\nViral hepatitis\n\nAntivirals\nHepatitis B\n\nLamivudine\nBenefit if given early.\n\n\nAlcoholic hepatitis\nAutoimmune hepatitis\n\nSte\n\nMushroom poisoning\n\nForced diuresis\n↑ Renal clearance of toxin. Avoid hypovolaemia.\n\nWilson’s disease\n\nD-Penicillamine\nChelates copper. Withdrawal of chronic treatment may precipitate failure.\n\nHepatic vein thrombosis\n\nThrombolysis\nClot retrieval\nTIPS\n\n\nSupportive care:\n\n\nInvasive intracranial pressure monitoring associated with ~10% intracranial haemorrhage rate.\n\nB\n\nLung protective ventilation\nARDS risk.\nDrain pleural effusions\n\nD\n\n↑ ICP\n\n\nGeneral measures\nIf grade 3/4 encephalopathy, recommend:\n\nIntubation\nSedation\nAvoid stimulation\nHead-up positioning\n\nConsider invasive ICP management if all of:\n\n\nGrade 3-4 encephalopathy\nHyperacute liver failure\nAmmonia &gt;150mmolL\nYoung\n\n\n\nE\n\n↓ BSL\nUse high-concentration dextrose to avoid cerebral oedema/↓ Na+.\n\nF\n\n↓ Phosphate\nReplenish.\nRRT\n\n\nAvoid citrate!\nCRRT preferential due to haemodynamics\nIn addition to standard indications, consider for:\n\nHyperammonaemia\nAim &lt;100μmol/: to ↓ cerebral oedema.\nHypothermia\n\n\n\nG\n\nEarly enteral feeding\nMay have ↑ metabolic requirements. No change in protein requirement.\nLactulose\nControversial. May ↓ hepatic encephalopathy but lead to gaseous intestinal distension.\nPPI\nDrain ascites\nFor haemodynamic benefit.\n\nH\n\nCoagulopathy\nTreat if bleeding or prior to procedures. Patients may be prothrombotic, anti-thrombotic, or fibrinolytic, and the assays themselves (both coagulation profiles and point-of-care testing) may not correlate with the observed clinical effect.\n\nVitamin K\nVery reasonable, probably ineffective in the majority of patients.\n\n\n\nDisposition:\n\nLiver transplant centre\n\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/git/alf.html#anaesthetic-considerations",
@@ -14921,7 +15005,7 @@
     "href": "disease/git/cld.html#prognosis",
     "title": "Chronic Liver Disease",
     "section": "Prognosis",
-    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 354.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
+    "text": "Prognosis\n\nChild-Pugh Score\n\nThis is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.\nMELD (see Section 356.9.1) is equally poor in predicting outcome in the ICU patient.\n\nScore to assess prognosis of cirrhosis:\n\nInitially developed to predict perioperative mortality\nValidated for prognostication and to assess necessity of liver transplantation\n\n\n\n\n\n\n\n\n\n\nValue\n1 point\n2 points\n3 points\n\n\n\n\nTotal bilirubin (μmol/L)\n⩽34\n34-50\n⩾50\n\n\nSerum albumin (g/dL)\n⩾3.5\n2.8-3.5\n⩽2.8\n\n\nPT (s)\n⩽4\n4-6\n⩾6\n\n\nINR\n⩽1.7\n1.7-2.3\n⩾2.3\n\n\nAscites\nNone\nMild/medically controlled\nModerate to severe/refractory\n\n\nHepatic encephalopathy\nNone\nGrade I-II\nGrade III-IV\n\n\n\n\n\nThere are many issues with the Child-Pugh score:\n\nSubjective assessments have inter-observer variability\nEvaluation of ascites has progressed since the ’60s when the score was developed\nExcludes effects of concomitant disease\n\nPatients are then risk stratified as follows:\n\n\n\nClass\nPoints\nOne-year survival\n\n\n\n\nA\n5-6\n100%\n\n\nB\n7-9\n80%\n\n\nC\n10-15\n45%"
   },
   {
     "objectID": "disease/git/cld.html#key-studies",
@@ -15285,7 +15369,7 @@
     "href": "disease/git/gib.html#management",
     "title": "Gastrointestinal Bleeding",
     "section": "Management",
-    "text": "Management\n\nIf intubation is required, ensure adequate volume resuscitation prior to induction due to the risk of profound haemodynamic instability.\n\n\n\nAnaesthetic considerations and management is covered under Chapter 197.\nResuscitation:\n\n\n\nNote that overresuscitation may lead to increased portal venous pressure and should be avoided.\n\nA\n\nDefinitive airway if airway compromised\nVery high aspiration risk.\n\nC\n\nWide-bore IV\nVolume resuscitation\n\nMTP\n\n\nH\n\nUrgent crossmatch\n\n\nSpecific therapy:\n\n\nThe majority of patients with UGIB will stop bleeding spontaneously and not require procedural intervention. The overwhelming majority of patients with LGIB will stop bleeding prior to any intervention.\n\nPharmacological\n\nCease anticoagulation\nCease NSAID\nAcid suppression\nInadequate without endoscopic control in severe or persistent bleeding. No evidence to support use pre-endoscopy, but decreased rebleeding and repeated endoscopy when used post-bleeding.\n\nPPI\nH2-antagonist\n\nFor variceal bleeds:\n\n↓ Portal pressure\n\nVasopressin\n\nMay precipitate hypertension and cardiac ischaemia\n\nTerlipressin\nPreferable to vasopressin due to ↓ cardiac side effects. Improves haemostasis and mortality in variceal bleeding.\nOctreotide\n↓ Portal blood flow, no demonstrated mortality improvement.\n\nPropranolol\nSecondary prevention of variceal bleeding.\nAntibiotics\nHigh risk of concomitant (or precipitating) infection in variceal bleeds.\n\n\nProcedural\n\n\nBalloon tamponade\nInsertion of a gastric-oesopahgeal balloon which is placed to provide balloon tamponade feeding veins. Used only in extremis to provide control of bleeding.\nEndoscopy\nGold standard of treatment for severe bleeding, or patients with rebleeding.\n\nEarly (&lt;24 hours) associated with:\n\n↓ Transfusion\n↓ Rebleeding\n↓ Open surgical risk\n↓ Length of stay\n\nTherapeutic options include:\n\nDilute adrenaline injection\nCauterisation\nStapling of ulcer\n↓ Risk of perforation compared with cauterisation.\nVariceal band ligation\nRubber bands used to strangle varices, to decrease future risk of bleeding.\n\nRepeat endoscopy should be performed if initial endoscopy suboptimal\n\nEmbolisation\n\nEffective at achieving immediate haemostasis\nSmall risk of gut ischaemia and rebleeding\nUseful in patients at high surgical risk\n\nSurgical bowel resection\nLargely superseded by endoscopy but has a role in:\n\nMassive transfusion with ongoing haemodynamic instability\nRecurrent bleeding despite initial endoscopic success\nArterial bleeding not controlled by endoscopic haemostasis\nGI perforation\n\nTIPS\nIndicated in variceal bleeding refractory to control by all other methods. Results in:\n\nSignificantly decreased portal venous pressure and variceal bleeding\nHepatic encephalopathy in 60%\n\n\n\n\n\nUrgent endoscopy is preferable for suspected ulcer bleeding; haemodynamically stable suspected variceal bleeding is appropriate to defer until the next elective list.\nDisposition:\n\nConsider H. Pylori eradication\n\nMore effective than acid suppression\n\n\n\nMarginal and Ineffective Therapies"
+    "text": "Management\n\nIf intubation is required, ensure adequate volume resuscitation prior to induction due to the risk of profound haemodynamic instability.\n\n\n\nAnaesthetic considerations and management is covered under Chapter 199.\nResuscitation:\n\n\n\nNote that overresuscitation may lead to increased portal venous pressure and should be avoided.\n\nA\n\nDefinitive airway if airway compromised\nVery high aspiration risk.\n\nC\n\nWide-bore IV\nVolume resuscitation\n\nMTP\n\n\nH\n\nUrgent crossmatch\n\n\nSpecific therapy:\n\n\nThe majority of patients with UGIB will stop bleeding spontaneously and not require procedural intervention. The overwhelming majority of patients with LGIB will stop bleeding prior to any intervention.\n\nPharmacological\n\nCease anticoagulation\nCease NSAID\nAcid suppression\nInadequate without endoscopic control in severe or persistent bleeding. No evidence to support use pre-endoscopy, but decreased rebleeding and repeated endoscopy when used post-bleeding.\n\nPPI\nH2-antagonist\n\nFor variceal bleeds:\n\n↓ Portal pressure\n\nVasopressin\n\nMay precipitate hypertension and cardiac ischaemia\n\nTerlipressin\nPreferable to vasopressin due to ↓ cardiac side effects. Improves haemostasis and mortality in variceal bleeding.\nOctreotide\n↓ Portal blood flow, no demonstrated mortality improvement.\n\nPropranolol\nSecondary prevention of variceal bleeding.\nAntibiotics\nHigh risk of concomitant (or precipitating) infection in variceal bleeds.\n\n\nProcedural\n\n\nBalloon tamponade\nInsertion of a gastric-oesopahgeal balloon which is placed to provide balloon tamponade feeding veins. Used only in extremis to provide control of bleeding.\nEndoscopy\nGold standard of treatment for severe bleeding, or patients with rebleeding.\n\nEarly (&lt;24 hours) associated with:\n\n↓ Transfusion\n↓ Rebleeding\n↓ Open surgical risk\n↓ Length of stay\n\nTherapeutic options include:\n\nDilute adrenaline injection\nCauterisation\nStapling of ulcer\n↓ Risk of perforation compared with cauterisation.\nVariceal band ligation\nRubber bands used to strangle varices, to decrease future risk of bleeding.\n\nRepeat endoscopy should be performed if initial endoscopy suboptimal\n\nEmbolisation\n\nEffective at achieving immediate haemostasis\nSmall risk of gut ischaemia and rebleeding\nUseful in patients at high surgical risk\n\nSurgical bowel resection\nLargely superseded by endoscopy but has a role in:\n\nMassive transfusion with ongoing haemodynamic instability\nRecurrent bleeding despite initial endoscopic success\nArterial bleeding not controlled by endoscopic haemostasis\nGI perforation\n\nTIPS\nIndicated in variceal bleeding refractory to control by all other methods. Results in:\n\nSignificantly decreased portal venous pressure and variceal bleeding\nHepatic encephalopathy in 60%\n\n\n\n\n\nUrgent endoscopy is preferable for suspected ulcer bleeding; haemodynamically stable suspected variceal bleeding is appropriate to defer until the next elective list.\nDisposition:\n\nConsider H. Pylori eradication\n\nMore effective than acid suppression\n\n\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/git/gib.html#complications",
@@ -16534,67 +16618,144 @@
     "text": "References\n\nBellomo R, Kellum JA, Ronco C et al. Acute kidney injury in sepsis. Intensive Care Med. 2017 Jun;43(6):816-828. doi: 10.1007/s00134-017-4755-7. Epub 2017 Mar 31.\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.\nEarly Restrictive or Liberal Fluid Management for Sepsis-Induced Hypotension. New England Journal of Medicine. 2023;388(6):499-510.\nSinger, M., Deutschman, C.S., Seymour, C.W., Shankar-Hari, M., Annane, D., Bauer, M., Bellomo, R., Bernard, G.R., Chiche, J.-D., Coopersmith, C.M., Hotchkiss, R.S., Levy, M.M., Marshall, J.C., Martin, G.S., Opal, S.M., Rubenfeld, G.D., van der Poll, T., Vincent, J.-L., Angus, D.C., 2016. The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). JAMA 315, 801. 5.Lamontagne F, Masse MH, Menard J, et al. [Intravenous Vitamin C in Adults with Sepsis in the Intensive Care Unit]((https://www.nejm.org/doi/10.1056/NEJMoa2200644). N Engl J Med. 2022;386(25):2387-2398.\nBloos F, Held J, Kluge S, et al. (1→3)-β-d-Glucan-guided antifungal therapy in adults with sepsis: the CandiSep randomized clinical trial. Intensive Care Med. 2022;48(7):865-875. doi:10.1007/s00134-022-06733-x"
   },
   {
-    "objectID": "disease/infective/necfas.html#epidemiology-and-risk-factors",
-    "href": "disease/infective/necfas.html#epidemiology-and-risk-factors",
-    "title": "Necrotising Fasciitis",
+    "objectID": "disease/infective/nsti.html#epidemiology-and-risk-factors",
+    "href": "disease/infective/nsti.html#epidemiology-and-risk-factors",
+    "title": "Necrotising Soft Tissue Infections",
     "section": "Epidemiology and Risk Factors",
-    "text": "Epidemiology and Risk Factors\nPredisposing factors for necrotising soft tissue infection include:\n\nPrevious trauma\nPrevious surgery\nPre-existing infection\nObesity\nDiabetes\nSmoking\nIV drug use\nImmunosuppression\n\nRisk factors associated with ↑ mortality include:\n\nAge\nEspecially in &gt;70 age group.\nIllness severity\nOrganism\nHigher mortality seen with:\n\nGroup A Streptococci\nEnteric organisms"
+    "text": "Epidemiology and Risk Factors\nPredisposing factors for necrotising soft tissue infection include:\n\nAbnormal anatomy\n\nPrevious trauma\nPrevious surgery\nObesity\nLymphedema\nChronic venous insufficiency\nDVT\n\nVascular damage\n\nPVD\nDiabetes\nSmoking\n\nImmunosuppression\nRoute of entry\n\nIV drug use\nPre-existing infection\n\n\nRisk factors associated with ↑ mortality include:\n\nAge\nEspecially in &gt;70 age group.\nIllness severity\nOrganism\nHigher mortality seen with:\n\nGroup A Streptococci\nEnteric organisms"
   },
   {
-    "objectID": "disease/infective/necfas.html#pathophysiology",
-    "href": "disease/infective/necfas.html#pathophysiology",
-    "title": "Necrotising Fasciitis",
+    "objectID": "disease/infective/nsti.html#pathophysiology",
+    "href": "disease/infective/nsti.html#pathophysiology",
+    "title": "Necrotising Soft Tissue Infections",
     "section": "Pathophysiology",
-    "text": "Pathophysiology\nNecrotising fasciitis involves * Rapid proliferation of subcutaneous bacteria * Leukococyte proliferation * Thrombosis of fascial vessels\nLeads to ischaemia and necrosis of tissue."
+    "text": "Pathophysiology\nNecrotising fasciitis involves:\n\nRapid proliferation of subcutaneous bacteria\nLeukocyte proliferation\nThrombosis of fascial vessels\nLeads to ischaemia and necrosis of tissue.\n\nToxic shock syndromes also contribute to haemodynamic instability in both Streptococcal and Staphylococcal infections."
   },
   {
-    "objectID": "disease/infective/necfas.html#clinical-manifestations",
-    "href": "disease/infective/necfas.html#clinical-manifestations",
-    "title": "Necrotising Fasciitis",
+    "objectID": "disease/infective/nsti.html#clinical-manifestations",
+    "href": "disease/infective/nsti.html#clinical-manifestations",
+    "title": "Necrotising Soft Tissue Infections",
     "section": "Clinical Manifestations",
-    "text": "Clinical Manifestations\n\nHistory\n\n\nExamination"
+    "text": "Clinical Manifestations\nTypically present as cellulitis that:\n\nFails to improve on antibiotics\nSpreads rapidly across fascial planes\nHas disproportionate pain to the degree of injury\n\nAdditional features include:\n\nFever\nSurprisingly rare.\nCrepitus Associated with gas-forming organism infection (generally Clostridia, classically C. Perfringens) but may also occur with other bacteria such as E. Coli."
   },
   {
-    "objectID": "disease/infective/necfas.html#diagnostic-approach-and-ddx",
-    "href": "disease/infective/necfas.html#diagnostic-approach-and-ddx",
-    "title": "Necrotising Fasciitis",
+    "objectID": "disease/infective/nsti.html#diagnostic-approach-and-ddx",
+    "href": "disease/infective/nsti.html#diagnostic-approach-and-ddx",
+    "title": "Necrotising Soft Tissue Infections",
     "section": "Diagnostic Approach and DDx",
     "text": "Diagnostic Approach and DDx"
   },
   {
-    "objectID": "disease/infective/necfas.html#investigations",
-    "href": "disease/infective/necfas.html#investigations",
-    "title": "Necrotising Fasciitis",
+    "objectID": "disease/infective/nsti.html#investigations",
+    "href": "disease/infective/nsti.html#investigations",
+    "title": "Necrotising Soft Tissue Infections",
     "section": "Investigations",
     "text": "Investigations"
   },
   {
-    "objectID": "disease/infective/necfas.html#management",
-    "href": "disease/infective/necfas.html#management",
-    "title": "Necrotising Fasciitis",
+    "objectID": "disease/infective/nsti.html#management",
+    "href": "disease/infective/nsti.html#management",
+    "title": "Necrotising Soft Tissue Infections",
     "section": "Management",
-    "text": "Management\nStandard treatment involves:\n\nImmediate and radical surgical debridement of dead and infected tissue\nDelayed debridement associated with increasd mortalityh.\nAntibiotics\nBroad spectrum.\n\nShould include good streptococcal cover\n\nHDU or ICU care\n\n\nHyperbaric oxygen therapy\n\nControversial\nA retrospective review suggested that HBOT suggests patients are 4x less likely to die\nMultiple suggested mechanisms:\n\n↑ viability of marginal tissue\nReduces bacterial toxin prouction\nInhibits anaerobic bacterial growth\n↑ tissue oxdiation reduction potential.\nPotentiates antibiotic function\nImproves efficacy of neutrophil respiratory burst\n\nEvidence is conflicting and some retrospective studies do not demonstrate mortality benefit\n\n\n\nIntravenous Immunoglobulin\n\n\nMarginal and Ineffective Therapies"
+    "text": "Management\n\nPrinciples:\n\nStandard sepsis resuscitation\nAggressive, early, surgical debridement\nBroad spectrum antibiotics with Streptococcal cover\n\n\nResuscitation:\n\nC\n\nNoradrenaline almost always required in a “true” NSTI\n\n\nSpecific therapy:\n\nPharmacological\n\nAntimicrobials\n\nBroad-spectrum agent\n\n\nAmoxacillin/clavulanate 1.2g Q6-8H\nMeropenem 1g Q8H\n\nStreptococcal cover\n\nClindamycin 300-450mg Q6H\n\nMRSA cover\n\nVancomycin\n\n\nIVIg\n\nAssociated with ↓ hospital mortality\n\n\nProcedural\n\nAggressive surgical debridement\nImproved with surgeon experienced in management.\n\nPhysical\n\nHyperbaric Oxygen Therapy\n\nControversial\nAssociated with a ↓ in mortality, although evidence is conflicting\nUse should never delay surgical debridement\nSignificant logistic impediments to use\n\nAvailability\nTransfer of critically ill into an isolated environment\n\nEvidence is conflicting and some retrospective studies do not demonstrate mortality benefit\n\n\n\n\n\nAntimicrobial therapy should be adjusted for known resistance patterns.\n\nClindamycin suppresses Streptococcal toxin production, which may ↓ severity of septic shock.\n\nThe mechanism of HBOT is uncertain, suggestions include:\n\n↑ Viability of marginal tissue\n↓ Bacterial toxin production\nInhibits anaerobic bacterial growth\n↑ Tissue oxidation reduction potential.\nPotentiates antibiotic function\n↑ Efficacy of neutrophil respiratory burst\n\n\nDisposition:\n\nICU\nObviously required for shock requiring vasoactive support."
   },
   {
-    "objectID": "disease/infective/necfas.html#complications",
-    "href": "disease/infective/necfas.html#complications",
-    "title": "Necrotising Fasciitis",
+    "objectID": "disease/infective/nsti.html#complications",
+    "href": "disease/infective/nsti.html#complications",
+    "title": "Necrotising Soft Tissue Infections",
     "section": "Complications",
     "text": "Complications"
   },
   {
-    "objectID": "disease/infective/necfas.html#prognosis",
-    "href": "disease/infective/necfas.html#prognosis",
-    "title": "Necrotising Fasciitis",
+    "objectID": "disease/infective/nsti.html#prognosis",
+    "href": "disease/infective/nsti.html#prognosis",
+    "title": "Necrotising Soft Tissue Infections",
     "section": "Prognosis",
     "text": "Prognosis\n\n30% mortality with aggressive surgical intervention and appropriate antibiotics\nFrequent surgical debridements\nLong hospital stay\nLarge soft tissue defects"
   },
   {
-    "objectID": "disease/infective/necfas.html#references",
-    "href": "disease/infective/necfas.html#references",
-    "title": "Necrotising Fasciitis",
+    "objectID": "disease/infective/nsti.html#references",
+    "href": "disease/infective/nsti.html#references",
+    "title": "Necrotising Soft Tissue Infections",
     "section": "References",
-    "text": "References\n\nDevaney B, Frawley G, Frawley L, Pilcher DV. Necrotising soft tissue infections: the effect of hyperbaric oxygen on mortality. Anaesth Intensive Care. 2015 Nov;43(6):685-92. PubMed PMID: 26603791.\nLevett D, Bennett MH, Millar I. Adjunctive hyperbaric oxygen for necrotizing fasciitis. Cochrane Database of Systematic Reviews 2015, Issue 1. Art. No.: CD007937."
+    "text": "References\n\nDevaney B, Frawley G, Frawley L, Pilcher DV. Necrotising soft tissue infections: the effect of hyperbaric oxygen on mortality. Anaesth Intensive Care. 2015 Nov;43(6):685-92. PubMed PMID: 26603791.\nLevett D, Bennett MH, Millar I. Adjunctive hyperbaric oxygen for necrotizing fasciitis. Cochrane Database of Systematic Reviews 2015, Issue 1. Art. No.: CD007937.\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
+  },
+  {
+    "objectID": "disease/infective/clabsi.html#epidemiology-and-risk-factors",
+    "href": "disease/infective/clabsi.html#epidemiology-and-risk-factors",
+    "title": "CLABSI",
+    "section": "Epidemiology and Risk Factors",
+    "text": "Epidemiology and Risk Factors\nInvasive lines are a major cause of nosocomial infections, causing ~65% of bloodstream infections. Risks depend on:\n\nDuration of line insertion\nSite\n\nFemoral possibly highest risk\nSubclavian possibly lowest risk\n\nLine features\n\nNon-antimicrobial coated\nNumber of lumens\nFrequency of access\nOverly frequent or infrequent dressing changes\n\nType of line\nIn descending order:\n\nPA catheter\n3.7/1000 line-days.\nNon-tunneled CVC\n2.7/1000 line-days.\nArterial line\n1.7/1000 line-days.\nTunneled CVC 1.6/1000 line-days.\nPICC line 1.1/1000 line-days.\nPeripheral IVC 0.5/1000 line-days.\nMidline 0.2/1000 line-days.\n\nColonisation\nOccurs in 5-40% of catheters. Colonisation is a risk factor for infection, but is otherwise of no consequence."
+  },
+  {
+    "objectID": "disease/infective/clabsi.html#pathophysiology",
+    "href": "disease/infective/clabsi.html#pathophysiology",
+    "title": "CLABSI",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\n\nAetiology\nCausative organisms:\n\nPredominantly match patient endogenous flora\nCommonly are coagulase negative Staph spp.\n25%."
+  },
+  {
+    "objectID": "disease/infective/clabsi.html#clinical-manifestations",
+    "href": "disease/infective/clabsi.html#clinical-manifestations",
+    "title": "CLABSI",
+    "section": "Clinical Manifestations",
+    "text": "Clinical Manifestations"
+  },
+  {
+    "objectID": "disease/infective/clabsi.html#diagnostic-approach-and-ddx",
+    "href": "disease/infective/clabsi.html#diagnostic-approach-and-ddx",
+    "title": "CLABSI",
+    "section": "Diagnostic Approach and DDx",
+    "text": "Diagnostic Approach and DDx"
+  },
+  {
+    "objectID": "disease/infective/clabsi.html#investigations",
+    "href": "disease/infective/clabsi.html#investigations",
+    "title": "CLABSI",
+    "section": "Investigations",
+    "text": "Investigations\nBedside:\nLaboratory:\nImaging:\nOther:"
+  },
+  {
+    "objectID": "disease/infective/clabsi.html#management",
+    "href": "disease/infective/clabsi.html#management",
+    "title": "CLABSI",
+    "section": "Management",
+    "text": "Management\nResuscitation:\nABC approach. Comment on team coordination and clinical priorities. Specific therapy:\n\nPharmacological\n\nAntimicrobials\nAgent and duration depends on causative organism:\n\nCoagulase-negative Staphylococcus: 5 days\nS. Aureus: 14 days\nCandida: 14 days\n\n\nProcedural\n\nRemove line\n\nPhysical\n\nSupportive care:\nDisposition:\nPreventative:\n\nRationalise insertion\nAntibiotic coated lines for immunocompromised patients\nAseptic insertion and management\n\nPolicy around insertion\nSecuring of line to prevent tract inoculation\nSterile line dressings\nDaily line inspection\n7-daily dressing changes\n\nDedicated lumen for lipid infusions\n\n\n\nRoutine changing of lines based solely on catheter-days is not indicated.\n\nMarginal and Ineffective Therapies"
+  },
+  {
+    "objectID": "disease/infective/clabsi.html#anaesthetic-considerations",
+    "href": "disease/infective/clabsi.html#anaesthetic-considerations",
+    "title": "CLABSI",
+    "section": "Anaesthetic Considerations",
+    "text": "Anaesthetic Considerations"
+  },
+  {
+    "objectID": "disease/infective/clabsi.html#complications",
+    "href": "disease/infective/clabsi.html#complications",
+    "title": "CLABSI",
+    "section": "Complications",
+    "text": "Complications"
+  },
+  {
+    "objectID": "disease/infective/clabsi.html#prognosis",
+    "href": "disease/infective/clabsi.html#prognosis",
+    "title": "CLABSI",
+    "section": "Prognosis",
+    "text": "Prognosis"
+  },
+  {
+    "objectID": "disease/infective/clabsi.html#key-studies",
+    "href": "disease/infective/clabsi.html#key-studies",
+    "title": "CLABSI",
+    "section": "Key Studies",
+    "text": "Key Studies"
+  },
+  {
+    "objectID": "disease/infective/clabsi.html#references",
+    "href": "disease/infective/clabsi.html#references",
+    "title": "CLABSI",
+    "section": "References",
+    "text": "References\n\nBersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg."
   },
   {
     "objectID": "disease/infective/hiv.html#epidemiology-and-risk-factors",
@@ -16636,7 +16797,7 @@
     "href": "disease/infective/hiv.html#management",
     "title": "Human Immunodeficiency Virus and Acquired Immune Deficiency Syndrome",
     "section": "Management",
-    "text": "Management\nResuscitation:\nABC approach. Comment on team coordination and clinical priorities.\nSpecific therapy:\n\nPharmacological\n\nAntiretroviral therapy\nEach drug acts at different points in the replication cycle, and so combination therapy is essential.\n\nTriple combination therapy usually leads to sustained control without resistance development\nInitiation by HIV specialist\nPotential significant drug interactions\nTiming of therapy in the setting of infection is controversial\nIn general:\n\nDelay initiation until 2-4 weeks after treatment of aids defining illness\nLonger in more severe disease with ↑ risk of Chapter 371.\n\n\n\nProcedural\nPhysical\n\n\n\nSignificant drug interactions may occur with:\n\nAnaesthetics\n\nMidazolam\n\nAntimicrobials\nAntiemetics\nAnticonvulsants\nAnticoagulants\nStatins\n\nSupportive care:\nDisposition:\nPreventative:\n\nMarginal and Ineffective Therapies"
+    "text": "Management\nResuscitation:\nABC approach. Comment on team coordination and clinical priorities.\nSpecific therapy:\n\nPharmacological\n\nAntiretroviral therapy\nEach drug acts at different points in the replication cycle, and so combination therapy is essential.\n\nTriple combination therapy usually leads to sustained control without resistance development\nInitiation by HIV specialist\nPotential significant drug interactions\nTiming of therapy in the setting of infection is controversial\nIn general:\n\nDelay initiation until 2-4 weeks after treatment of aids defining illness\nLonger in more severe disease with ↑ risk of Chapter 373.\n\n\n\nProcedural\nPhysical\n\n\n\nSignificant drug interactions may occur with:\n\nAnaesthetics\n\nMidazolam\n\nAntimicrobials\nAntiemetics\nAnticonvulsants\nAnticoagulants\nStatins\n\nSupportive care:\nDisposition:\nPreventative:\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/infective/hiv.html#anaesthetic-considerations",
@@ -16755,14 +16916,14 @@
     "href": "disease/infective/candida.html#epidemiology-and-risk-factors",
     "title": "Candidiasis",
     "section": "Epidemiology and Risk Factors",
-    "text": "Epidemiology and Risk Factors\nRisk factors:\n\nICU admission\n\nImmunocompromise\n\nTransplant\nHaematological malignancy\nDiabetes\n\n\nFor non-Albicans\n\nTPN\nCentral access\nAntimicrobial exposure:\n\nBroad spectrum antibiotics\nFluconazole\n\nMalignancy\nRenal failure"
+    "text": "Epidemiology and Risk Factors\nRisk factors:\n\nICU admission\nImmunocompromise\n\nTransplant\nHaematological malignancy\nDiabetes\n\nFor non-Albicans\n\nTPN\nCentral access\nAntimicrobial exposure:\n\nBroad spectrum antibiotics\nFluconazole\n\nMalignancy\nRenal failure"
   },
   {
     "objectID": "disease/infective/candida.html#pathophysiology",
     "href": "disease/infective/candida.html#pathophysiology",
     "title": "Candidiasis",
     "section": "Pathophysiology",
-    "text": "Pathophysiology\nCandida is:\n\nA genus of yeasts\nOver 100 different species, ~20 of which are pathogens.\nPart of the normal skin and gut flora\n\n\nAetiology\nCauses have been classically divided on epidemiological and fluconazole-sensitive grounds into:\n\n\nThe ongoing utility of this classification is questionable as the non-Albicans infections have become increasingly common, and albicans has become increasingly resistant to fluconazole.\n\nC. Albicans\n~50% of all infections.\nNon-Albicans infections\nAll the rest:\n\nC. Auris\nMulti-drug resistant form, though still generally sensitive to echinocandins.\nC. glabrata\n~25% of infections.\nC. krusei\nC. parapsilosis\nC. dubliniensis\nC. tropicalis"
+    "text": "Pathophysiology\nCandida is:\n\nA genus of yeasts\nOver 100 different species, ~20 of which are pathogens.\nPart of the normal skin and gut flora\n\n\nAetiology\nCauses have been classically divided on epidemiological and fluconazole-sensitive grounds into:\n\n\nThe ongoing utility of this classification is questionable as the non-Albicans infections have become increasingly common, and albicans has become increasingly resistant to fluconazole.\n\nC. Albicans\n~50% of all infections.\nNon-Albicans infections\nAll the rest:\n\nC. Auris\nMulti-drug resistant form, though still generally sensitive to echinocandins.\nC. glabrata\n~25% of infections, ↑ resistant to azoles.\nC. krusei\n↑ Resistant to azoles.\nC. parapsilosis\nC. dubliniensis\nC. tropicalis"
   },
   {
     "objectID": "disease/infective/candida.html#clinical-manifestations",
@@ -17245,7 +17406,7 @@
     "href": "disease/obs/eclampsia.html#management",
     "title": "Eclampsia",
     "section": "Management",
-    "text": "Management\n\nGoals:\n\nAirway protection and aspiration prevention\nCorrect hypertension\nTerminate seizure\nPrevent recurrent seizure\nExpedite delivery\n\n\n\n\nManagement of co-existing pre-eclampsia is crucial, and is covered at Chapter 390.\nResuscitation:\n\n\nA\n\nAirway protection\nPrevention of aspiration.\n\nB\n\nSupplemental oxygen\n\nC\n\nControl of blood pressure\n\nTarget SBP 140-150mmHg and DBP 90-100mmHg\nStrategy depends on severity of hypertension\n\nHypertensive crisis:\n\nLabetalol\n\n20-80mg IV over 2 minutes\nCan repeat every 10 minutes.\n\nNifedipine\n\n10-20mg PO IR\n\nHydralazine\n\n\n10mg IV Q20 minutes\n\nGTN\nFor hypertension and APO\n\n\n\n\nD\n\nSeizure prophylaxis\n\nMagnesium Sulphate\n\nProphylaxis and treatment for eclampsia in women with severe pre-eclampsia\nNot recommended for use as an antihypertensive agent.\nMultifactorial mechanism of action:\n\n↑ Prostacyclin synthesis\n↓ Calcium influx\nThereby ↓ ATP-consuming Ca2+-dependent processes.\nNMDA antagonism\n\nGive 4g over 20 minutes, and then 1g/hr thereafter\nTarget level is 1.7-3.5mmol/L\nBlood levels should be performed:\n\nQ6H in women with renal impairment\nIf any of:\n\nRR &lt; 12\nUO &lt; 100ml over 4 hours\nLoss of patella reflexes\nSeizures\nIncluding repeat seizures.\n\n\nMagnesium toxicity\n\nAssociated with muscular weakness, rarely respiratory arrest\nUnlikely if deep tendon reflexes present\nTreated with:\n\nCalcium\nRRT\n\n\n\nAnticonvulsants\n\n\nConventional anticonvulsants are only indicated for:\n\nPersistent seizures (&gt;5 minutes) with therapeutic magnesium levels\nMagnesium contraindication\n\nBenzodiazepines\n\nLorazepam 4mg IV\nMidazolam 1-2mg IV\n\n\n\n\n\nSpecific therapy:\n\nPharmacological\n\nBlood pressure control\n\nProcedural\n\nExpedite delivery\n\n\nDisposition:\n\nICU Admission\n\n\nFollowing seizure\nCommonly required after delivery\n\n\n\nMarginal and Ineffective Therapies"
+    "text": "Management\n\nGoals:\n\nAirway protection and aspiration prevention\nCorrect hypertension\nTerminate seizure\nPrevent recurrent seizure\nExpedite delivery\n\n\n\n\nManagement of co-existing pre-eclampsia is crucial, and is covered at Chapter 393.\nResuscitation:\n\n\nA\n\nAirway protection\nPrevention of aspiration.\n\nB\n\nSupplemental oxygen\n\nC\n\nControl of blood pressure\n\nTarget SBP 140-150mmHg and DBP 90-100mmHg\nStrategy depends on severity of hypertension\n\nHypertensive crisis:\n\nLabetalol\n\n20-80mg IV over 2 minutes\nCan repeat every 10 minutes.\n\nNifedipine\n\n10-20mg PO IR\n\nHydralazine\n\n\n10mg IV Q20 minutes\n\nGTN\nFor hypertension and APO\n\n\n\n\nD\n\nSeizure prophylaxis\n\nMagnesium Sulphate\n\nProphylaxis and treatment for eclampsia in women with severe pre-eclampsia\nNot recommended for use as an antihypertensive agent.\nMultifactorial mechanism of action:\n\n↑ Prostacyclin synthesis\n↓ Calcium influx\nThereby ↓ ATP-consuming Ca2+-dependent processes.\nNMDA antagonism\n\nGive 4g over 20 minutes, and then 1g/hr thereafter\nTarget level is 1.7-3.5mmol/L\nBlood levels should be performed:\n\nQ6H in women with renal impairment\nIf any of:\n\nRR &lt; 12\nUO &lt; 100ml over 4 hours\nLoss of patella reflexes\nSeizures\nIncluding repeat seizures.\n\n\nMagnesium toxicity\n\nAssociated with muscular weakness, rarely respiratory arrest\nUnlikely if deep tendon reflexes present\nTreated with:\n\nCalcium\nRRT\n\n\n\nAnticonvulsants\n\n\nConventional anticonvulsants are only indicated for:\n\nPersistent seizures (&gt;5 minutes) with therapeutic magnesium levels\nMagnesium contraindication\n\nBenzodiazepines\n\nLorazepam 4mg IV\nMidazolam 1-2mg IV\n\n\n\n\n\nSpecific therapy:\n\nPharmacological\n\nBlood pressure control\n\nProcedural\n\nExpedite delivery\n\n\nDisposition:\n\nICU Admission\n\n\nFollowing seizure\nCommonly required after delivery\n\n\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/obs/eclampsia.html#anaesthetic-considerations",
@@ -17686,7 +17847,7 @@
     "href": "disease/congenital/cf.html#prognosis",
     "title": "Cystic Fibrosis",
     "section": "Prognosis",
-    "text": "Prognosis\nPoor prognostic factors include:\n\nChronic pseudomonas infection\n↑ rate of pulmonary decline, ↓ survival.\nPulmonary hypertension"
+    "text": "Prognosis\nPoor prognostic factors include:\n\nPseudomonas colonisation\n\n\n↑ Rate of pulmonary decline\nRecurrent infections\n↓ Survival\n\nPulmonary hypertension"
   },
   {
     "objectID": "disease/congenital/cf.html#key-studies",
