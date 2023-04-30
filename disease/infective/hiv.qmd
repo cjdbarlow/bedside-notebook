@@ -20,7 +20,7 @@ Viral exposure results in:
 
 * Initial infection of cell surface receptor\
 Classically CD4, though other receptors are implicated as co-receptors.
-	* Viral RNA is transcribed into cellular DNA
+	* Viral RNA is integrated into cellular DNA
 	* RNA transcribed from cellular RNA, and translated into viral protein
 * Initial viraemia presents as seroconversion illness, and is typically controlled by initial immune response
 * HIV replication continues in a largely asymptomatic fashion
@@ -59,13 +59,15 @@ Bedside:
 Laboratory:
 
 * Bloods
-	* anti-HIV antibodies\
-	Diagnostic of infection; positive in most patients within 3 months of infection.
-	* HIV viral load\
-	Used to monitor response to treatment.
-	* CD4+ count\
-		* Best indicator of severity of immunodeficiency and susceptibility to infection
-		* AIDS-related illnesses unlikely if >200
+	* Diagnosis
+		* anti-HIV antibodies\
+		Diagnostic of infection; positive in most patients within 3 months of infection.
+	* Monitoring\
+	3-4 monthly testing in stable patients.
+		* HIV viral load
+		* CD4+ count
+			* Best indicator of severity of immunodeficiency and susceptibility to infection
+			* AIDS-related illnesses unlikely if >200
 
 Imaging:
 
@@ -126,10 +128,10 @@ Pulmonary infections are more common at higher CD4 counts, extra-pulmonary infec
 * **Direct** complications of immune deficiency
 	* **Infections**
 		* Immunocompromised\
-			* PJP
+			* **PJP**
 			* Oesophageal candidiasis\
 			Common presenting disease.
-			* Cryptococcal meningitis\
+			* **Cryptococcal meningitis**\
 			Non-specific and not-particularly-meningitic presentation:
 				* Headache
 				* Fevers
@@ -137,7 +139,7 @@ Pulmonary infections are more common at higher CD4 counts, extra-pulmonary infec
 				Relies on inflammation of the meninges, which in turn relies on a functioning immune response.
 			* *Mycobacterium avium* complex
 			* CMV retinitis
-			* TB
+			* **TB**
 			* Cerebral toxoplasmosis
 				* Focal encephalitis
 				* Requires brain biopsy for diagnosis
@@ -146,13 +148,23 @@ Pulmonary infections are more common at higher CD4 counts, extra-pulmonary infec
 			* Pneumonia
 	* **Tumours**
 		* Immunocompromised
-			* T-cell lymphoma
+			* T-cell **lymphoma**\
+			Particularly CNS lymphomas.
 			* Karposi Sarcoma\
 			Angioproliferative tumour of epithelium relating to herpes virus 8 infection, which presents as red-purple lesions on skin and oral and gastric mucosa.
 	* Immune reconstitution syndrome
 * Indirect complications
-	* CAD
-	* Drug-related 
+	* C
+		* Autoimmune vasculitis
+		* Dilated cardiomyopathy
+		* CAD
+	* D
+		* Autonomic neuropathy
+	* Drug-related
+		* Type B lactic acidosis
+		* Pancreatitis
+		* AKI
+		* Stevens-Johnson syndrome
 
 ## Prognosis
 

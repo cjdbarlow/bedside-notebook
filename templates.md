@@ -78,8 +78,6 @@ Intro and technique
 ## References
 
 
-
-
 # Disease
 
 
@@ -105,7 +103,7 @@ Other:
 
 ## Management
 
-**Resuscitation**:
+**Resuscitation**:\
 
 ABC approach. Comment on team coordination and clinical priorities.
 **Specific therapy**:

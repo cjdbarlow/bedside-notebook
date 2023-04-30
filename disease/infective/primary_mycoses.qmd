@@ -1,0 +1,51 @@
+# Primary Mycoses
+
+Primary mycoses are fungal infections of the immunocompetent. Primary mycoses:
+
+:::column-margin
+Secondary mycoses are fungal infections of the immunocompromised, and include:
+
+* Aspergillosis
+* Candidiasis
+* Cryptococcosis
+* Penicillinosis
+* Pneumocystosis
+* Zygomycoses
+:::
+
+* Occur in regions with high environmental spore loads
+* Include a limited number of innately virulent organisms:
+	* Blastomycosis
+		* Confined largely to North America
+		* Primary pulmonary infection
+		* Secondary ARDS
+	* Coccidiomycosis
+		* Majority asymptomatic
+		* Immunological sequelae:
+			* Arthralgia
+			* Erythema multiforme
+			* Erythema nodosum
+		* Pulmonary disease
+			* Lobar pneumonia
+			* ARDS
+			* Chronic cavitating pulmonary disease
+	* Cryptococcus
+	* Histoplasmosis
+	* Paracoccidiomycosis
+
+
+## Histoplasmosis
+
+* Soil and bird droppings contain spores
+* Leads to pulmonary granuloma formation
+	* May be contained
+	* May lead to disseminated disease
+* 50% untreated mortality
+* Amphotericin B
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

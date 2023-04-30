@@ -1,0 +1,192 @@
+# Malaria
+
+*Anopheles* mosquito-borne protozoal infection endemic in tropical and subtropical regions, caused by four species of the *Plasmodium* genus:
+
+* *P. falciparum*
+	* Most severe form
+	* Parasite-infected RBC may obstruct capillaries leading to localised tissue ischaemia and organ-dependent dysfunction
+* *P. vivax*
+* *P. malariae*
+* *P. ovale*
+
+## Epidemiology and Risk Factors
+
+
+Risk factors for malaria:
+
+* Patient factors
+	* Age <3
+	* Non-immune
+	* Pregnant
+* Environmental factors
+	* Mosquito carrier\
+	Classically *anopheline*, which are:
+		* Night feeders\
+		Dawn to dusk is the most dangerous time.
+		* Rural breeders\
+		Generally ↓↓ risk in urban areas, even in endemic regions.
+
+## Pathophysiology
+
+Life-cycle:
+
+* Uninucleate sporozoites resident in mosquito salivary glands are injected into a human host during feeding
+* Sporozoites rapidly invade liver parenchyma and mature into **schizonts**
+	* Bursting of schizonts releases 2,000 to 40,000 merozoites, each of which can infective a single RBC
+	* Maturation may take 1-2 years in *P. vivax* and *P. ovale* infections
+* Merozoites mature in the RBC into either:
+	* Gametocyte\
+	If ingested by a mosquito during feeding, will mature in the mosquito gut over 2-3 weeks into new sporozoites.
+	* Erythrocytic schizont containing more merozoites\
+	Subsequent **rupture** of the erythrocyte releases the merozoites, and causes the cyclical fever.
+
+:::column-margin
+The erythrocytic stage is the disease-causing stage; sporozoites and gametocytes are not associated with disease.
+:::
+
+### Aetiology
+
+## Clinical Manifestations
+
+Cyclical fevers are classical, and occur in **three stages**:
+
+:::column-margin
+Cyclical symptoms occur when maturing malarial schizonts rupture their erythrocyte host, the timing of which varies on the strain:
+
+* Tertian malaria\
+Maturation every 48 hours.
+	* *P. vivax*
+	* *P. ovale*
+* Quartan malaria\
+Maturation every 72 hours.
+	* *P. malariae*
+
+Falciparum is typically every 48 hours, but shows can be irregular.
+
+![](/resources/malaria_temp.jpg)}
+:::
+
+* 15-60 minutes cold shivering 
+* 2-6 hour fever (up to 41°C)  
+* 2-4 hour sweating\           
+↓ Temperature.                 
+
++-------------------------+--------------------+
+| Uncomplicated           | Severe             |
++=========================+====================+
+| * Cyclical fever\       | * Pulmonary oedema |
+| In established disease. | * ARDS             |
+| * Headache              | * Septic shock\    |
+| * Jaundice              | Lactic acidosis.   |
+| * Hepatosplenomegally   | * Coma             |
+| * Myalgia               | * Weakness\        |
+|                         | "Prostration."     |
+|                         | * AKI              |
+|                         | * Haemoglobinuria  |
+|                         | * Haemolysis       |
+|                         | * DIC              |
++-------------------------+--------------------+
+
+: Features of Malaria
+
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+Bedside:
+
+Laboratory:
+
+* Blood
+	* FBE
+		* Normochromic normocytic anaemia
+		* Thrombocytopaenia
+	* LFTs
+	* UECs
+	* Blood smears\
+	**Thick and thin films** are gold standard of diagnosis:
+		* Thin films identify parasites within red cells
+		* Thick films allow parasite counting
+	* Rapid diagnostic tests\
+	Look for parasite-specific antigen. Qualitative evidence of disease.
+	* Malaria PCR\
+	More sensitive than antigen testing with similar limitations.
+
+
+:::column-margin
+Thick and thin films refer to the thickness of the blood on the slide.
+:::
+
+Imaging:
+
+Other:
+
+## Management
+
+**Resuscitation**:\
+
+ABC approach. Comment on team coordination and clinical priorities.
+**Specific therapy**:
+
+* Pharmacological
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+* Steroids\
+Worsen outcome.
+* IVIg\
+Worsen outcome.
+
+
+## Anaesthetic Considerations
+
+## Complications
+
+* B
+	* ARDS
+* C
+	* Septic shock
+* D
+	* Cerebral malaria\
+		* Mental status abnormality in a patient with malaria
+		* Due to obstruction of cerebral capillary blood flow
+		* 15-50% mortality
+* E
+	* Hypoglycaemia
+	* Electrolyte derangements
+	* Rhabdomyolysis
+* F
+	* AKI
+	* ATN\
+	Secondary to haemoglobinuria and rhabdomyolysis.
+* H
+	* DIC
+	* Thrombocytopenia
+
+## Prognosis
+
+Death associated with:
+
+* Age <3
+* Cerebral malaria
+* Organ failures
+* Anaemia
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Crutcher JM, Hoffman SL. [Malaria](https://www.ncbi.nlm.nih.gov/books/NBK8584/). In: Baron S, editor. Medical Microbiology [Internet]. 4th ed. Galveston (TX): University of Texas Medical Branch at Galveston; 1996 [cited 2023 May 1].

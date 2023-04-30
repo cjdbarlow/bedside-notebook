@@ -4,10 +4,16 @@ Antifungal drugs occur in **three classes**:
 
 * **Azoles**\
 All have excellent oral bioavailability.
+	* Generally fungicidal by inhibiting ergosterol synthesis in the cell wall\
+	Fungistatic in some organism-dependent cases, notably aspergillus with voriconazole.
 * **Echinocandins**\
 All three agents are similar enough to be clinically interchangeable.
+	* Inhibit β-glucan synthesis causing cell wall instability, which is:
+		* Fungicidal for yeasts
+		* Fungistatic for aspergillus
 * **Polyenes**\
-Functionally related to Amphotericin.
+Essentially restricted to Amphotericin.
+	* Fungicidal by binding to ergosterol
 
 ## Drugs
 
@@ -80,3 +86,5 @@ Liposomal amphotericin has replaced other more toxic amphotericin preparations.
 ---
 
 ## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

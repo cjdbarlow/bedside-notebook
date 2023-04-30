@@ -1,6 +1,6 @@
 # Aspergillosis
 
-Fungal infection by the mold ***Aspergillus*** with a broad **spectrum** of clinical **disease** from:
+Fungal infection by the ***Aspergillus*** mould family with a broad **spectrum** of clinical **disease** from:
 
 * **Hypersensitivity**\
 Colonisation is usually benign, but allergic bronchopulmonary aspergillosis can result and progress to:
@@ -15,7 +15,6 @@ Severe respiratory failure, usually with different preceding course depending on
     Refractory fever, extra-pulmonary infection (abscesses), and pulmonary infarction.
     * Non-neutropenic\
     Mimics bacterial pneumonia with dyspnoea and sputum production predominating.
-
 
 
 ## Epidemiology and Risk Factors
@@ -74,7 +73,12 @@ Fungal pneumonia:
 
 ## Clinical Manifestations
 
+The majority of cases are secondary mycoses of the immunosuppressed, although can occur in otherwise immunocompetent patients with intercurrent illness.
+
+Features include:
+
 * Respiratory failure
+    * Resting hypoxaemia
 * Persistent infection
     * Pneumonia refractory to antibiotics
     * Refractory fever
@@ -83,6 +87,8 @@ Fungal pneumonia:
     * Pleuritic chest pain
     * Haemoptysis\
     May be massive.
+    * Pneumothorax\
+    Rare.
 * Distant infection
     * Abscesses
     * Skin lesions
@@ -95,6 +101,7 @@ In the immunocompromised, haematogenous dissemination and rampant infection can 
 * Abscesses
 
 ## Diagnostic Approach and DDx
+
 
 ## Investigations
 
@@ -217,9 +224,19 @@ Aggressiveness of antifungal treatment depends on the severity of clinical prese
 
 ## Complications
 
-
+* Death
+* B
+    * Pneumothorax
+* I
+    * Disseminated infection
 
 ## Prognosis
+
+High mortality with invasive disease:
+
+* 50-90%\
+Highest in the immunosuppressed.
+
 
 ## Key Studies
 
@@ -228,5 +245,6 @@ Aggressiveness of antifungal treatment depends on the severity of clinical prese
 
 ## References
 
-1. Case courtesy of Frank Gaillard, Radiopaedia.org, rID: [8684](https://radiopaedia.org/cases/8684?lang=us).
-2. Case courtesy of Ian Bickle, Radiopaedia.org, rID: [26223](https://radiopaedia.org/cases/26223?lang=us).
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+2. Case courtesy of Frank Gaillard, Radiopaedia.org, rID: [8684](https://radiopaedia.org/cases/8684?lang=us).
+3. Case courtesy of Ian Bickle, Radiopaedia.org, rID: [26223](https://radiopaedia.org/cases/26223?lang=us). 

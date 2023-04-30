@@ -1,8 +1,27 @@
 # Tuberculosis
 
+ manifestations that may draw attention of intensive care include:
 
+* Pulmonary TB
+* Miliary TB\
+Disseminated TB due to local infection seeding via blood.
+* Tuberculosis meningitis
+    * Tuberculomas
+    * Hydrocephalus
+    * Hyponatraemia
 
 ## Epidemiology and Risk Factors
+
+Risk factors:
+
+* Living conditions
+    * Institutionalised
+    * Poverty and crowding
+* Immunosuppression
+    * HIV
+    * Diabetes
+    * Transplantation
+    * Prolonged steroid use
 
 ## Pathophysiology
 
@@ -74,9 +93,17 @@ Combination of **4 antimicrobials** requried for treatment, divided into:
         * Treat as contagious if:
             * Active coughing
             * Positive AFB smear
-            * <2 weeks of treatment (of non-resistant strains) 
+            * \<2 weeks of treatment (of non-resistant strains) 
         * Should be managed in negative-pressure isolation
 
+
+**Disposition**:
+
+* ICU\
+Patients admitted to ICU generally have either:
+    * Pulmonary TB
+        * Acute respiratory failure
+    * Tuberculosis meningitis
 
 ### Marginal and Ineffective Therapies
 
@@ -88,7 +115,9 @@ Combination of **4 antimicrobials** requried for treatment, divided into:
     * 25% in those requiring ICU
     * 50% in those requiring mechanical ventilation
 
+
 ## Prognosis
+
 
 ## Key Studies
 
@@ -96,3 +125,6 @@ Combination of **4 antimicrobials** requried for treatment, divided into:
 ---
 
 ## References
+
+1. Hagan G, Nathani N. [Clinical review: Tuberculosis on the intensive care unit](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4056111/). Crit Care. 2013;17(5):240. 
+

@@ -243,6 +243,7 @@ book:
               - management/infective/nosocomial.qmd
             - part: "Antimicrobials"
               chapters:
+              - management/infective/principles.qmd
               - management/infective/antibiotics.qmd
               - management/infective/antifungals.qmd
         - part: "Obstetric"
@@ -832,13 +833,21 @@ book:
         - part: "Viral"
           chapters:
             - disease/infective/hiv.qmd
+            - disease/infective/cmv.qmd
         - part: "Bacterial"
           chapters:
+            - disease/infective/aureus.qmd
             - disease/infective/tb.qmd
+            - disease/infective/leptospirosis.qmd
         - part: "Fungal"
           chapters:
+            - disease/infective/primary_mycoses.qmd
             - disease/infective/candida.qmd
             - disease/infective/aspergillosis.qmd
+            - disease/infective/zygomycoses.qmd
+        - part: "Parasites"
+          chapters:
+            - disease/infective/malaria.qmd
         - part: "Toxin"
           chapters:
             - disease/infective/tetanus.qmd

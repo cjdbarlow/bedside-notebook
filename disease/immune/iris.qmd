@@ -26,9 +26,17 @@ Factors influencing incidence and severity of IRIS **in HIV** include:
 * Severity of CD4 lymphopenia\
 * Severity of existing opportunistic infection
 * Certain previous opportunistic infections
-	* CMV retinitis
-	* Cryptococcal meningitis
+	* *C. neoformans*\
+	Cryptococcal meningitis.
+	* *P. jirovecii*\
+	PJP.
 	* TB
+	* *M. avium* complex
+	* CMV
+		* Retinitis
+	* HSV
+	* VZV
+	* Hepatitis
 * HIV viral load prior to commencing HAART
 * Rapid response to HAART
 
@@ -90,11 +98,21 @@ Differential is broad, and includes:
 
 ## Management
 
-Should focus on:
+:::info
+Principles:
 
-* Underlying cause
-* Alteration to immunotherapy
+* Treat underlying cause
+* Consider altering immunotherapy
 * Symptomatic relief
+:::
+
+**Specific therapy**:
+
+* Pharmacological
+	* Continue or consider adjusting HAART\
+	* Corticosteroids
+		* 0.5-1mg/kg/day prednisolone
+	* Infliximab
 
 
 ## Complications
@@ -109,8 +127,6 @@ Varies depending on the organ involvement:
 
 * Majority of cases are mild and self-limiting
 * **CNS** or **pulmonary** involvement may lead to **death** or severe neurological morbidity.
-
-
 
 
 ---

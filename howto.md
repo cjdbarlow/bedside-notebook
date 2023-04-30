@@ -30,6 +30,8 @@ quarto::quarto_preview
 	* New infective subgroups
 		* ?where would TB meningitis go; under TB, separate neuro infection, under meningitis...
 		* Where would CLABSI go...
+		* NSTI
+	* Dissolve "systemic" section
 
 * Dissolve ICU 'concepts' into a more appropriate category (or at least some of, ?organ donation separately)
 

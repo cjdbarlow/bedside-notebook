@@ -1,0 +1,183 @@
+# Leptospirosis
+
+Acute febrile illness caused by *Leptospira* bacterial species, with a range of clinical presentations from:
+
+* **Mild** influenza-like illness\
+Occurs early during the **leptospiraemia phase**, which typically ends after one week as developing antibody response clears bacteraemia.
+* **Icteric leptospirosis** (Weil's disease)\
+Onset usually at the beginning of the **leptospiruria phase**.
+	* Combination of:
+		* Acute liver failure
+		* Coagulopathy
+		* AKI
+	* 5-15% mortality
+* **Leptospirosis Pulmonary Haemorrhage** Syndrome
+	* Respiratory symptoms:
+		* Cough
+		* Fever
+		* Pulmonary haemorrhage
+		* ARDS
+	* Generally occurs at day 4-6
+	* Unrelated to degree of liver dysfunction
+	* 30-70% mortality
+
+
+## Epidemiology and Risk Factors
+
+Globally important public health disease:
+
+* ↑ With climate change
+* Cases relate to:
+	* Flooding
+	* Rodent-borne transmission
+	* Occupational exposure related to agriculture, particularly rice farming
+	* Water sports
+	* Adventure tourism
+
+
+## Pathophysiology
+
+*Leptospira* spp. are a family of spirochetes that:
+
+* Infect the PCT
+* Are excreted in urine
+* Transmitted by exposure to contaminated water or soil
+
+### Aetiology
+
+
+
+## Clinical Manifestations
+
+Following a 5-14 day incubation period:
+
+:::column-margin
+![](/resources/conj_suffusion.jpg)
+:::
+
+* Leptospiraemia phase\
+Typically last ~7 days.
+	* Specific
+		* Myalgia
+			* Calves
+			* Lumbar
+		* Conjunctival suffusion\
+		Redness without exudate.
+	* Non-specific
+		* Fever
+		* Headache
+			* Retro-orbital pain
+			* Photophobia
+		* Myalgia
+		* Vomiting
+* A brief intermission of 1-3 days
+* Leptospiruria\
+Severe disease occurs:
+	* Weil's disease
+	* Pulmonary haemorrhage syndrome
+	* Cardiomyopathy
+	* Aseptic Meningitis\
+	Rarely.
+
+
+Uncommon features include:
+
+* Lymphadenopathy
+* Hepatosplenomegaly
+* Rash
+
+
+Rarely:
+
+* Meningism
+
+
+## Diagnostic Approach and DDx
+
+Common differentials:
+
+* Dengue
+* Malaria
+* Scrub typhus
+
+## Investigations
+
+:::info
+Dark-field microscopic examination of blood, urine, CSF, or other fluids (dialysate!) are diagnostic.
+:::
+
+Bedside:
+
+Laboratory:
+
+* Blood
+	* LFTs
+	* FBE
+		* Variable WCC
+		* Thrombocytopenia in severe disease
+	* Cultures\
+	During the first **few days** of disease, whilst **leptospiraemia** persists. May take up to 14 days to develop.
+	* Microscopic Agglutination Testing\
+	Diagnostic at 5-7 days. Logistically laborious.
+	* DNA PCR\
+	Diagnostic, limited by access.
+* Urine
+	* Proteinuria
+	* Pyuria
+	* Microscopic haematuria
+	* Cultures\
+	During the first **week**, during **leptospiruria** phase.
+* CSF
+	* Pl
+
+
+Imaging:
+
+Other:
+
+## Management
+
+**Resuscitation**:\
+
+
+**Specific therapy**:
+
+* Pharmacological
+	* Antimicrobials
+		* 1^st^ line: Benzylpenicillin
+		* 2^nd^ line:
+			* Ceftriaxone
+			* Doxycycline
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+* Death
+* F
+	* AKI
+* I
+	* Jarisch-Herxheimer reaction\
+	Transient acute inflammatory reaction due to release of bacterial toxin and cytokines due to rapid genocide of spirochetes, and can lead to distributive shock, high fever (38-41°C) and occasionally DIC.
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Toyokawa T, Ohnishi M, Koizumi N. [Diagnosis of acute leptospirosis. Expert Review of Anti-infective Therapy](https://www.tandfonline.com/doi/full/10.1586/eri.10.151). 2011 Jan;9(1):111–21. 

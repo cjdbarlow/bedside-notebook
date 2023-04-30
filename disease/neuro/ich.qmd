@@ -41,6 +41,9 @@ Causes:
 	* Aneurysmal\
 	Cerebral aneurysms can occasionally cause ICH without SAH.
 	* AVM
+	* Microvascular
+		* Arteriolesclerosis
+		* Cerebral Amyloid Angiopathy
 * Trauma
 
 ## Clinical Manifestations
@@ -71,20 +74,37 @@ Other:
 
 ## Management
 
+:::info
+Goals are to:
+
+* Limit haematoma expansion
+* Reverse anticoagulation
+* Control ICP
+:::
+
 **Resuscitation**:\
 
 :::column-margin
-General principles of management are the same as for ischaemic stroke, with the obvious exceptions of anticoagulation and thrombolysis.
+General principles of management are the same as for ischaemic stroke, with more aggressive blood pressure control and the obvious exceptions of anticoagulation and thrombolysis.
 :::
 
 * C
 	* Hypertension control\
-	SBP target <140mmHg.
+	**Acute** ↓ of **SBP** to **130-150mmHg**, ideally within 1 hour.
+* D
+	* ICP control
+	* ICP monitoring\
+	For GCS ⩽8.
 
-***Specific therapy**:
+**Specific therapy**:
 
 * Pharmacological
 	* Reversal of anticoagulation
+		* Warfarin\
+		PCC, irrespective of INR. Can be given prior to INR result returning.
+		* Direct Xa inhibitor
+			* *Consider* Andexenat alfa
+			* PCC may be used to improve haemostasis
 * Procedural
 	* EVD\
 	Indicated in:
@@ -93,6 +113,10 @@ General principles of management are the same as for ischaemic stroke, with the 
 * Physical
 
 **Supportive care**:
+
+* H
+	* Platelets\
+	Only for correction of thrombocytopenia or prior to neurosurgical intervention.
 
 **Disposition**:
 

@@ -6,7 +6,7 @@
 It is therefore sometimes still referred to by the "PCP" acronym.
 :::
 
-Severe fungal pneumonia caused the PJP organism, which is essentially confined to the severely immunocompromised:
+Severe fungal pneumonia caused by *Pneumocystis Jirovecii*, which is essentially confined to the severely immunocompromised:
 
 * HIV
 * Transplant recipients
@@ -15,6 +15,14 @@ Severe fungal pneumonia caused the PJP organism, which is essentially confined t
 ## Epidemiology and Risk Factors
 
 ## Pathophysiology
+
+*Pneumocystis Jirovecii* differs from most fungi as it has cholesterol rather than ergosterol in the cell wall, which results in:
+
+* Minimal extrapulmonary invasion
+* Immunity to most classical antifungals
+    * No response to amphotericin or azoles
+    * Highly resistant to echinocandins
+    
 
 ### Aetiology
 
@@ -32,6 +40,7 @@ Usually insidious:
 ## Diagnostic Approach and DDx
 
 * Alternative diagnosis for respiratory failure is present in ~15%
+
 
 ## Investigations
 
@@ -66,7 +75,7 @@ Diagnostic in >90%. \
 
 **Resuscitation**:\
 
-ABC approach. Comment on team coordination and clinical priorities.
+
 **Specific therapy**:
 
 * Pharmacological

@@ -1,0 +1,173 @@
+# Cytomegalovirus
+
+CMV is a DNA herpesvirus that is:
+
+* Spread by prolonged or intimate exposure
+* Persistent lifelong following infection\
+Replication generally controlled in the immunocompetent.
+* Reactivates in setting of impaired T-cell function:
+	* Immature immune system
+	* Organ transplants
+	* Immunosuppression
+
+
+## Epidemiology and Risk Factors
+
+Prevalence rises with age, and reaches 30-70% of the total population. Transmission via:
+
+* Saliva
+* Sexual contact
+* Breastfeeding
+* Placental transfer\
+40% risk of congenital infection in a seronegative mother, leading to severe neurological disease of the child.
+* Tissue transfer
+	* Transfusion
+	* Solid organ transplant
+	* Bone marrow transplant
+
+
+Risk factors:
+
+* Seronegative organ recipient
+* Seropositive organ donor
+* Solid organ transplant
+
+
+## Pathophysiology
+
+* Largest known β human herpesvirus
+* Double-stranded DNA
+* Lifelong persistent (generally latent) presence following infection
+	* Bone marrow
+
+
+### Aetiology
+
+## Clinical Manifestations
+
+Primary infection of the immunocompetent adult:
+
+* Rarely serious
+* May present similarly to EBV
+	* Persistent fever
+	* Myalgia
+	* Cervical adenopathy
+	* Deranged LFTs
+* Rarer presentations include:
+	* Myocarditis
+	* Meningitis
+	* GBS
+	* Colitis
+
+
+Infection or reactivation in the immunocompromised adult varies with the setting. In:
+
+* Solid organ transplants:
+	* Disease generally localised to transplanted organ
+	* Organ-specific manifestations
+		* Kidney transplant\
+		Renal artery stenosis.
+		* Heart transplant\
+		Coronary artery disease.
+		* Lung transplant\
+		Bronchiolitis obliterans.
+		* Liver transplant\
+		Vanishing bile duct syndrome.
+* Stem cell transplants:
+	* Pneumonitis
+	* Graft versus host disease\
+	Positive association.
+* HIV
+	* Retinitis
+
+
+## Diagnostic Approach and DDx
+
+CMV is commonly detected and so may be an innocent bystander in another disease process. CMV-associated disease should be diagnosed on a combination of:
+
+* Clinical findings\
+CMV syndrome; 2 or more of:
+	* 48 hours of fever ≥38°C
+	* Fatigue
+	* Leukopenia or neutropenia
+	* \>5% atypical lymphocytes 
+	* Thrombocytopenia 
+    * ↑ Transaminases
+* Evidence of viral detection
+
+
+## Investigations
+
+Laboratory:
+
+* Antibodies\
+Inaccurate if recent plasma administration.
+* Qualitative DNA PCR\
+Dies not distinguish between active and latent infection.
+* Antigenaemia essay\
+Reliable indirect measure of CMV infection.
+* Viral cultures\
+May take up to 21 days to demonstrate positivity.
+
+Imaging:
+
+Other:
+
+## Management
+
+**Specific therapy**:
+
+:::column-margin
+Curiously, aciclovir and valaciclovir both ↓ mortality of CMV despite both inhibit thymidine kinase, which is not expressed in CMV. They have fallen out of favour as they are less effective than ganciclovir.
+:::
+
+* Pharmacological
+	* Antivirals
+		* 1^st^ line:
+			* Ganciclovir
+			* Valganciclovir
+		* 2^nd^ line:
+			* Foscarnet
+			* Cidofovir
+	* Immunoglobulin
+		* CMV-specific
+		* Non-specific
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+* Prophylactic therapy in organ recipients prior to symptomatic disease
+	* Ganciclovir
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+Immunocompetent:
+
+* I
+	* Superinfection
+
+
+Transplant:
+
+* I
+	* Chronic rejection in 
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Gandhi MK, Khanna R. [Human cytomegalovirus: clinical aspects, immune regulation, and emerging treatments](https://www.sciencedirect.com/science/article/abs/pii/S1473309904012022). The Lancet Infectious Diseases. 2004 Dec;4(12):725–38. 

@@ -1,18 +1,12 @@
 # Candidiasis {#sec-candida}
 
-Systemic candidal infections are common in the immunocompromised and intensive care patients. Differentiating invasive candidiasis from culture of a normal commensal requires any of:
+Candidiasis is the most common invasive fungal infection worldwide, and a significant cause of mortality in the ICU patient.
 
 :::column-margin
 Candidal infections also include the more pedestrian mucous membrane infections of the systemically well, which are caused by local overgrowth of yeast and respond well to topical treatment.\
 \
 These are not covered here.
 :::
-
-* Culture from a sterile site
-	* Blood\
-	⩾2 non-contiguous sites.
-* Culture from wound or burn site
-* Cultured species is non-commensal
 
 
 ## Epidemiology and Risk Factors
@@ -52,7 +46,7 @@ The ongoing utility of this classification is questionable as the non-Albicans i
 ::: 
 
 * *C. Albicans*\
-~50% of all infections.
+~50% of all infections; less common if fluconazole prophylaxis has been used.
 * Non-Albicans infections\
 All the rest:
 	* ***C. Auris***\
@@ -77,6 +71,18 @@ Non-responsive to other antimicrobial therapy.
 
 ## Diagnostic Approach and DDx
 
+Differentiating invasive candidiasis from culture of a normal commensal requires any of:
+
+* Culture from a sterile site
+	* Blood\
+	⩾2 non-contiguous sites.
+* Culture from wound or burn site
+* Cultured species is non-commensal
+
+Supportive features include:
+
+* Radiographic fungal lesions\
+May be suppressed during **neutropaenia**.
 
 ## Investigations
 
@@ -144,6 +150,8 @@ Disseminated Candida causes a large number of organ-specific complications:
 ## Prognosis
 
 Mortality in the ICU patient is up to 50%.
+* Late diagnosis
+* 
 
 ## Key Studies
 
@@ -152,4 +160,6 @@ Mortality in the ICU patient is up to 50%.
 
 ## References
 
-1. Chow JK, Golan Y, Ruthazer R, Karchmer AW, Carmeli Y, Lichtenberg D, et al. [Factors Associated with Candidemia Caused by Non-albicans Candida Species Versus Candida albicans in the Intensive Care Unit. Clinical Infectious Diseases](https://academic.oup.com/cid/article/46/8/1206/361259?login=false). 2008 Apr 15;46(8):1206–13. 
+1. Chow JK, Golan Y, Ruthazer R, Karchmer AW, Carmeli Y, Lichtenberg D, et al. [Factors Associated with Candidemia Caused by Non-albicans Candida Species Versus Candida albicans in the Intensive Care Unit. Clinical Infectious Diseases](https://academic.oup.com/cid/article/46/8/1206/361259?login=false). 2008 Apr 15;46(8):1206–13.
+2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+
