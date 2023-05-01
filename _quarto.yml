@@ -84,6 +84,7 @@ book:
             - part: <hr>
             - assessment/critical/airway.qmd
             - assessment/critical/neuro.qmd
+            - assessment/critical/fever.qmd
             - part: <hr>
             - assessment/critical/brain_death.qmd
             - assessment/critical/circ_death.qmd
@@ -845,7 +846,7 @@ book:
             - disease/infective/candida.qmd
             - disease/infective/aspergillosis.qmd
             - disease/infective/zygomycoses.qmd
-        - part: "Parasites"
+        - part: "Parasitic"
           chapters:
             - disease/infective/malaria.qmd
         - part: "Toxin"
@@ -948,6 +949,7 @@ book:
               # CVC
               # Arterial line
               # IO
-      # - part: "GIT"
-      #   chapters:
+      - part: "Other"
+        chapters:
+          - procedures/lp.qmd
           # Blakemore

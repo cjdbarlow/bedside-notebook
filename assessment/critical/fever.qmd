@@ -1,0 +1,117 @@
+# Fever
+
+Normal body temperature is 37.0°C with a 0.5-1°C variation, with elevation:
+
+* Defined as **core body temperature >38.3°C**\
+Lower thresholds may be appropriate in certain populations:
+	* Elderly
+	* Immunocompromised
+	* Extracorporeal circuits\
+	Expect a ~0.5°C drop in body temperature on CRRT.
+* Due to either:
+	* ***True* fever**\
+	↑ Temperature due to ↑ hypothalamic set point, and is so **defended** by thermoregulatory mechanisms.
+	* **Hyperthermia**\
+	↑ Temperature with a normal hypothalamic set point. Causes here include:
+		* **Exercise-induced**
+		* Hyperthermia due to **inadequate** heat **dissipation**
+		* Hyperthermia due to **impaired thermoregulation**
+
+
+:::column-margin
+Fever and hyperthermia are often used synonymously clinically and in the literature. However, there is some value in separating the two based on the hypothalamic set point and so for the purpose of this section fever refers to ↑ body temperature due to ↑ hypothalamic set point.
+:::
+
+
+## Fever
+
+Fever:
+
+:::column-margin
+10% of septic patients are hypothermic and 35% are normothermic at presentation, and those that do not become febrile have a higher mortality than those who develop fever.
+:::
+
+* Is a basic and adaptive evolutionary response to infection
+* May be maladaptive in certain disease processes\
+e.g. TBI.
+* Often follows a variable pattern\
+This pattern is generally unhelpful diagnostically due to wide variability.
+
++----------------------------+------------------------------+----------------------------+
+| System                     | Infectious                   | Non-Infectious             |
++============================+==============================+============================+
+| Respiratory                | * **Sinusitis**              | * Aspiration pneumonitis   |
+|                            | * Pharyngitis                | * ARDS                     |
+|                            | * Dental                     |                            |
+|                            | * **Pneumonia**              |                            |
++----------------------------+------------------------------+----------------------------+
+| Circulatory                | * Endocarditis               | * DVT/PE                   |
+|                            | * Myocarditis                | * Thrombophlebitis         |
+|                            | * **Line infection**         | * Fat emboli               |
+|                            | * Mediastinitis              |                            |
+|                            | * **Blood stream infection** |                            |
++----------------------------+------------------------------+----------------------------+
+| Neurological               | * Meningitis                 | * CVA                      |
+|                            | * Encephalitis               | * SAH                      |
+|                            | * Discitis                   | * TBI                      |
+|                            | * Epidural abscess           |                            |
++----------------------------+------------------------------+----------------------------+
+| Endocrine and Metabolic    |                              | * Thyrotoxicosis           |
+|                            |                              | * Thyroiditis              |
+|                            |                              | * Adrenal insufficiency    |
+|                            |                              | * Ovulation                |
++----------------------------+------------------------------+----------------------------+
+| Renal                      | * Pyelonephritis             |                            |
+|                            | * Prostatitis                |                            |
+|                            | * UTI                        |                            |
++----------------------------+------------------------------+----------------------------+
+| Gastrointestinal           | * Oesophagitis               | * Mesenteric ischaemia     |
+|                            | * Pancreatitis               | * Acalculous cholecystitis |
+|                            | * Bowel perforation          | * Pancreatitis             |
+|                            | * Diverticulitis             | * GI bleed                 |
+|                            | * Colitis                    |                            |
+|                            | * *C. difficile* colitis     |                            |
+|                            | * Perianal abscess           |                            |
++----------------------------+------------------------------+----------------------------+
+| Haematological/Oncological | * Malaria                    | * Lymphoma                 |
+|                            |                              | * TLS                      |
++----------------------------+------------------------------+----------------------------+
+| Integumentary              | * Osteomyelitis              | * Gout                     |
+|                            | * NSTI                       | * Pseudogout               |
++----------------------------+------------------------------+----------------------------+
+| Immunology                 |                              | * Transplant rejection     |
+|                            |                              | * Transfusion reaction     |
+|                            |                              | * Vasculitis               |
++----------------------------+------------------------------+----------------------------+
+| Toxin and Environmental    |                              | * Alcohol withdrawal       |
+|                            |                              | * Drug fever               |
++----------------------------+------------------------------+----------------------------+
+| Other                      |                              | * Post-operative           |
+|                            |                              | * IV contrast              |
++----------------------------+------------------------------+----------------------------+
+
+: Causes of fever
+
+:::column-margin
+Non-infectious causes *generally* result in temperatures <39°C.
+:::
+
+
+## Management
+
+Treatment of ↑ temperature is generally not indicated unless:
+
+* Particular pathology
+	* Brain injury
+* Temperature >40°C
+	* Active external cooling\
+	Febrile patients may require paralysis to limit shivering with active cooling.
+
+
+
+
+---
+
+## References
+
+1. Marik PE. [Fever in the ICU](https://journal.chestnet.org/article/S0012-3692(15)32748-3/pdf). Chest. 2000 Mar;117(3):855–69. 

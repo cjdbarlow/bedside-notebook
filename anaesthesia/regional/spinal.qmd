@@ -1,6 +1,5 @@
 # Spinal Anaesthesia
 
-
 Spinal anaesthesia is:
 
 * Performed by injecting local anaesthetic into the CSF\
@@ -99,9 +98,7 @@ Classically bupivacaine is used:
 			* Cannot be adjusted
 			* Dosing
 				* Adults: 2-3.5ml 0.5% plain bupivacaine
-		
-
-
+	
 
 Additives:
 

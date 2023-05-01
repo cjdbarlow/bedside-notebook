@@ -1,4 +1,4 @@
-# Lumbar Puncture and Intrathecal Injection
+# Lumbar Puncture {#sec-lp}
 
 
 ## Indications
@@ -13,6 +13,7 @@ Absolute:
 	* Therapeutically anticoagulated
 	* Platelet dysfunction
 * Infection
+* ↑ ICP
 
 Relative:
 
@@ -39,7 +40,7 @@ Thick and harder than other ligaments.
 Contains fat and blood vessels.
 * Dura
 * Subarachnoid space\
-Contains spinal cord and nerve roots flaoting in CSF.
+Contains spinal cord and nerve roots floating in CSF.
 * Spinal cord\
 Ends at L2 in adults and L3 in children.\
 	* Puncture above these levels is associated with a risk of cord damage
@@ -122,9 +123,10 @@ Ensure that a dural puncture is not achieved in thin patients.
 		Swirling of CSF within syringe should be seen.
 		* Slowly inject local anaesthetic\
 		* Repeat aspiration during and at the end of injection
-			* Ensures needle remained within CSF throughout and inadvertant epidural injection did not occur
+			* Ensures needle remained within CSF throughout and inadvertent epidural injection did not occur
 			* Provides **barbotage**\
 			May achieve a more rapid onset and extent of block.
+
 
 ### Troubleshooting Insertion
 
@@ -136,21 +138,20 @@ Ensure that a dural puncture is not achieved in thin patients.
 		* Redirect cranially
 		* If still hitting bone, redirect cranially again\
 		Entering in the bottom of a space assists this approach, as the needle can be 'walked-off' the lower spinous process
-		* Redirect caudaly
+		* Redirect caudally
 	* Changing introducer position
 		* Move the introducer ~0.5-1cm lower in the space
 		* Place the introducer in a different space
 	* Use a bigger spinal needle\
 		* Thinner needles are more flexible, and may divert their path away from calcified or hard parts of the ligament
-	* Conside a lateral approach
+	* Consider a lateral approach
 * Electrical or stabbing pain\
-Needle has likely struct a spinal nerve root within the CSF.
+Needle has likely struck a spinal nerve root within the CSF.
 	* Withdraw the stylet and monitor for CSF flow
 	* If no flow, withdraw and readjust angle away from side of pain
 * Continuous flow of blood\
 Needle is likely within an epidural vein.
 	* Replace stylet and continue to advance
-
 
 
 

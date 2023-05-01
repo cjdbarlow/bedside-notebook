@@ -10,7 +10,7 @@ Inflammation of the meninges and subarachnoid space, that can be divided into:
 	* Yeast
 * **Aseptic** meningitis\
 Inflammation where bacteria cannot be isolated from CSF, and includes:
-	* Occult infective causes
+	* **Occult infective** causes
 		* Viral meningitis\
 		Most common.
 		* Partially treated bacterial meningitis
@@ -28,6 +28,24 @@ Meningitis in the immunocompromised can present with non-specific features and w
 :::
 
 ## Epidemiology and Risk Factors
+
+General risk factors:
+
+* Immunosuppression
+* Extremes of age
+* Cochlear implants
+* CSF leak
+
+
+For meningococcal meningitis:
+
+* Unvaccinated
+
+
+For pneumococcal meningitis:
+
+* Splenectomy
+* Unvaccinated
 
 ## Pathophysiology
 
@@ -49,45 +67,64 @@ Predominantly via droplet or saliva. Common routes include:
 
 ### Aetiology
 
-Bacterial meningitis:
+Community acquired:
 
-* Community
-	* *S. pneumoniae*
-	* *N. meningitidis*
-	* *H. influenzae*\
-	Most common prior to vaccination.
+* Bacterial:
+	* ***S. pneumoniae***
+	* ***N. meningitidis***
+	* ***H. influenzae***\
+	Most common cause prior to vaccination.
 	* *L. monocytogenes*
-	Rare, and confined to the immunosuppressed:
+	Rare, and generally confined to the lightly immunocompromised:
 		* Elderly
+		* Splenectomy
 		* Alcohol dependency
 		* Diabetes
 		* Malignancy
-* Nosocomial\
-**Rare**, but organisms include:
-	* *Staphylococcus* spp.\
-	Particularly with intracranial devices, or following neurosurgery.
-	* *E. coli*
-	* *Pseudomonas* spp.
-	* *Klebsiella* spp.
-	* *Acinetobacter* spp
+* Viral:
+	* Enteroviruses
+		* Coxsackie
+	* Herpes simplex
+	* Mumps
+	* Echoviruses
+	* Toscana virus
 
 
-Viral:
+Nosocomial:
 
-* Enteroviruses
-	* Coxsackie
-* Herpes simplex
-* Mumps
-* Echoviruses
-* Toscana virus
+:::column-margin
+Nosocomial meningitis is **rare**.
+:::
+
+* *Staphylococcus* spp.\
+Particularly with intracranial devices, or following neurosurgery.
+* *E. coli*
+* *Pseudomonas* spp.
+* *Klebsiella* spp.
+* *Acinetobacter* spp
 
 
-Yeast:
+Immunocompromised:
 
 * *Cryptococcus neoformans*
 	* Chronic meningitis
 	* Immunocompromised
 	* **India ink** stain and antigen testing on CSF
+	* ↑↑ Opening pressures
+* Tuberculosis meningitis
+	* Normal glucose
+	* PMN predominance
+* Toxoplasmosis
+
+
+Neonatal:
+
+* Group B Streptococci\
+*S. agalactiae*.
+* *E. Coli*
+* *L. monocytogenes*
+* *H. Influenzae*\
+Prior to vaccination.
 
 
 ## Clinical Manifestations
@@ -146,7 +183,10 @@ Details of CSF findings in meningitis are covered under @sec-csf.
 	* FBE\
 	Infection.
 	* Blood cultures
-	 * PCR
+	* PCR
+* Urine
+	* Pneumococcal urinary antigen\
+	Significantly ↓ sensitivity for meningitis compared with pneumoniae.
 * LP
 	* Required to completely confirm diagnosis
 	* However, contraindications are common
@@ -154,9 +194,33 @@ Details of CSF findings in meningitis are covered under @sec-csf.
 		* ↑ ICP, or significant clinical concern of such
 	* **Empirical antibiotics should be commenced if there is delay**
 	* Urgent **Gram stain** and culture
+	* Specific antigen investigations:
+		* Herpes simplex PCR
+		* Mycobacterium TB PCR
+		* Mycobacterial stain and cultures
+		* India Ink stain and Cryptococcal antigen
+		* Pneumococcal urinary antigen\
+		95% sensitive if used on CSF.
+
 
 
 Imaging:
+
+:::column-margin
+Indications for pre-LP CT:
+
+* ↑ BP with ↓ HR
+* Focal neurology
+* ↓ Conscious state
+* New **seizures**
+* Predisposition to infection
+* History of CVA or space-occupying lesions
+* **Papilloedema**
+:::
+
+* CT\
+↑ ICP or space-occupying lesion.
+
 
 Other:
 
@@ -183,8 +247,7 @@ Duration of antimicrobial therapy depends on the organism:
 				Or cefotaxime 2g IV Q6H.
 				* **Dexamethasone** 10mg IV Q6H
 					* Give with or before first dose of antibiotics
-					* Cease if cause *other* than *S. pneumoniae* is discovered\
-					No mortality benefit outside this group.
+					* Continue up to 4 days in *S. pneumoniae*, and *H. Influenze* in children.
 				* **Acyclovir** 10mg/kg IV\
 				Indicated for viral meningitis caused by VZV or HSV.
 			* If immunocompromised:\
@@ -192,16 +255,25 @@ Duration of antimicrobial therapy depends on the organism:
 				* Add **ampicillin** 2g Q4H
 			* If **penicillin resistant** pneumococci:
 				* Add **vancomycin**
+				* Replace ceftriaxone with **cefepime** or **meropenem**
 		* **Cryptococcal meningitis**
 			* Initial therapy:
-				* Amphoteracin B
+				* Amphotericin B
 				* 5-fluorocytosine
 			* Fluconazole
 	* Anticonvulsants
 		* Benzodiazepines for seizure control
-		* 
 * Procedural
 * Physical
+
+:::column-margin
+Dexamethaxone is associated with:
+
+* ↓ Mortality in *S. pneumoniae*
+* ↓ Deafness in adults and in children with *H. Influenzae*
+* ↓ Neurological sequelae
+:::
+
 
 :::column-margin
 Management of seizures is covered under @sec-seizure.
@@ -255,11 +327,21 @@ Bacterial meningitis:
 	* Seizures
 	* Delays to treatment
 	* Extremes of age
+	* Pneumonococcal meningitis
 
 
 Viral meningitis:
 
 * Usually lasts 7-10 days
+
+
+Poor prognostic features:
+
+* Cranial nerve palsies
+* ↓ GCS
+* ↑ ESR
+* ↑ CSF protein
+* ↓ CSF leucocytes
 
 ## Key Studies
 

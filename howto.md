@@ -6,7 +6,7 @@ quarto preview
 quarto::quarto_render
 quarto::quarto_preview
 
-# To do:
+# Technical to-do:
 
 * Broken links
 * Images to markdown style
@@ -18,6 +18,12 @@ quarto::quarto_preview
 * Click on margin images to pop into centre screen
 * Add scrolling radiology images
 * Modify glossary to only scan words up to to maximum length in the glossary to speed up build time
+
+
+# Content to-do:
+
+* LP and spinal as distinct entities with incldues
+
 
 # Decisions
 
@@ -36,3 +42,5 @@ quarto::quarto_preview
 * Dissolve ICU 'concepts' into a more appropriate category (or at least some of, ?organ donation separately)
 
 * Add a "goals" div to replace the info box in each management section
+
+* ?Create integumentary section for osteomyelitis, NSTI, etc
