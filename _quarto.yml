@@ -772,6 +772,7 @@ book:
         - part: "Clotting"
           chapters:
             - disease/haeme/dic.qmd
+            - disease/haeme/purpura_fulminans.qmd
             - disease/haeme/hitt.qmd
             - disease/haeme/vwd.qmd
             # TTP
@@ -837,7 +838,8 @@ book:
             - disease/infective/cmv.qmd
         - part: "Bacterial"
           chapters:
-            - disease/infective/aureus.qmd
+            - disease/infective/staph.qmd
+            - disease/infective/strep.qmd
             - disease/infective/tb.qmd
             - disease/infective/leptospirosis.qmd
         - part: "Fungal"

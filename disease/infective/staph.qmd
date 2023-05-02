@@ -1,0 +1,159 @@
+# Staphylococci {#sec-staph}
+
+Gram positive cocci that:
+
+* Typically occur in bunches
+* Culture well on enriched media\
+e.g. Blood.
+* All produce *catalase*\
+Key distinguishing feature from Streptococci.
+* Grouped by their ability to produce **coagulase**\
+Enzyme which cleaves fibrinogen and leads to clot production. This clot also covers the bacteria in a film of clot, which protects them from immune detection and subsequent phagocytosis.
+	* **Coagulase positive**\
+	Confined to ***S. Aureus*.**
+	* **Coagulase negative**\
+	All the rest.
+
+
+## Staphylococcus Aureus
+
+Common skin commensal that:
+
+* Causes illness by local infection and toxin production
+* Generally requires host compromise to cause infection:
+	* Skin break
+	* Foreign body
+	* Immunosuppression
+* May lead to infection in:
+	* B
+		* HAP\
+		Classically necrotising.
+	* C
+		* Infective endocarditis\
+		May be associated with local abscesses if related to injection.
+		* Invasive vascular devices
+			* CLABSI
+			* Pacemaker
+	* D
+		* Osteomyelitis
+		* Discitis
+		* Epidural abscess
+	* E
+		* Skin
+		* Soft tissue infections
+		* Joint prostheses
+
+
+### Methicillin-Resistant *Staphylococcus Aureus*
+
+MRSA is a common mutation of *S. Aureus* that:
+
+* Alters the Penicillin Binding Protein
+* Significantly ↓ affinity of β-lactams for the cell wall\
+Become non-responsive.
+
+
+## Coagulase Negative Staphylococcus
+
+Coagulase-negative *Staphylococcus*:
+
+* Include several strains, the most common which are:
+	* *S. Epidermidis*\
+	IE, line infections.
+	* *S. Saprophyticus*\
+	UTIs.
+	* *S. lugdunensis*\
+	IE.
+	* *S. haemolyticus*\
+	IE.
+	* *S. schleiferi*\
+	IE.
+	* *S. warneri*
+	* *S. hominis*
+	* *S. capitis*
+* Usually exist as skin and nares commensals\
+**Common** cause of **false-positive blood cultures**. **True infection** can be **distinguished** on:
+	* **Clinical suspicion**
+	* **Number** of **positive cultures**
+	* **Positive** culture in **multiple bottles** taken at the same time from different places
+	* **Positive** in **aerobic** and **anaerobic bottles**\
+	85% of "true" infections, compared to ~35% of potentially contaminated specimens.
+	* Culture **positive** in **<16 hours**
+* Cause infections in:
+	* Areas obscured from the immune system:
+		* Septic arthritis
+		* Endocarditis
+		* Invasive devices
+			* Lines
+			* Pacemakers
+			* Prosthetics
+				* Valves
+				* Joints
+				* VP shunts
+	* Immunocompromised host
+	* Disrupted barriers
+		* Burns
+* Are generally:
+	* Multiresistant
+	* Sensitive to glycopeptides and linezolid
+
+
+
+## Investigations
+
+Bedside:
+
+* TTE\
+For vegetations. Does not exclude IE, but can rule-in.
+* TOE\
+Should be performed if TTE is negative.
+
+
+### Management
+
+**Specific therapy**:
+
+* Pharmacological
+	* **MSSA**\
+		* β-lactams\
+		Desensitisation for β-lactam allergic patients should be performed.
+			* Flucloxacillin
+			* Cefazolin
+		* Clindamycin
+		* Moxifloxacin
+		* Vancomycin\
+		Failure rates ~4x that of β-lactams. 
+	* **MRSA**
+		* Glycopeptides
+			* Vancomycin
+			* Teicoplanin
+		* Linezolid
+		* Daptomycin
+	* **Coagulase-negative**
+		* Vancomycin as empiric therapy
+		* Flucloxacillin/Cephalosporin\
+		May be appropriate de-escalation once sensitivity testing completed.
+* Procedural
+	* Source Control
+
+
+## Complications
+
+* I
+	* Toxic shock syndrome
+
+
+### Prognosis
+
+Mortality varies on site of origin, but can reach 50% with:
+
+* Lung
+* CLABSI
+* Infective endocarditis
+
+
+---
+
+## References
+
+1. Harvey RA, Cornelissen CN, Fisher BD. Lippincott Illustrated Reviews: Microbiology (Lippincott Illustrated Reviews Series). 3rd Ed. LWW.

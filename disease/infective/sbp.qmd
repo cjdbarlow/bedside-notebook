@@ -1,6 +1,6 @@
 # Spontaneous Bacterial Peritonitis
 
-Spontaneous infection of (usually cirrhosis-associated) ascites, which may present as:
+**Spontaneous infection** of (usually cirrhosis-associated) **ascites** without an intra-abdominally surgically treatable source, which may present as:
 
 * Florid sepsis
 * Insidious decline
@@ -9,25 +9,47 @@ Spontaneous infection of (usually cirrhosis-associated) ascites, which may prese
 
 Risk factors:
 
-* Liver dysfunction
-* Variceal bleeding
+:::column-margin
+Child-Pugh score is covered under @sec-childpugh.
+:::
+
 * Previous SBP
+* Invasive devices
+* Hepatic dysfunction
+	* Child-Pugh Grade C
+	* Variceal bleeding
+* Infection
+	* UTI
+	* Intestinal bacterial overgrowth
 
 ## Pathophysiology
 
 ### Aetiology
 
+Causative organisms:
+
+* *E. coli*: 37%
+* *K. pneumoniae*: 17%
+* Other gram positives: 14%
+* *S. pneumoniae*: 12%
+* Other gram negatives: 10%
+* *S. viridans*: 9%
+
 ## Clinical Manifestations
 
-History:
+Features include:
 
-* Abdominal pain
+:::column-margin
+Asymptomatic in ~10%.
+:::
+
+* Fever: 70%
+* Abdominal pain: 50%
+	* Tenderness: 40%
+	* Rebound: 10%
 * Confusion
+	* Altered level of consciousness: 54%
 
-
-Examination:
-
-* Fever
 
 ## Diagnostic Approach and DDx
 
@@ -49,32 +71,49 @@ Pathology:
 Required for diagnosis.
 	* Usually **low** bacterial **concentrations** of a **single organism**
 	* 10-20mL should be placed into blood culture bottles to increase yield
+	* Diagnostic criteria:
+		* WCC >250/mm^3^
+		* Evidence of bacteria\
+		Usually only **one**.
+	* Paracentesis should be repeated at 48 hours after microbial therapy
+
+:::column-margin
+Multiple bacteria suggest faecal contamination.
+:::
 
 ## Management
-
-
-**Resuscitation**:\
 
 **Specific therapy**:
 
 * Pharmacological
 	* Antibiotics
-		* Paracentesis should be repeated at 48 hours
+		* Ceftriaxone 2g IV daily
+		* Tazocin 4.5g IV TDS\
+		If resistant species.
 	* 20% Albumin
 		* ↓ AKI
-		* Substantial ↓ mortality
+		* Substantial ↓ mortality by ↓ hepatorenal syndrome
 * Procedural
 * Physical
 
+
 **Supportive care**:
+
+* G
+	* Feeding
+		* ↓ Bacterial translocation
+	* Cease PPI
+	* Rifaximin 400mg PO TDS
+
 
 **Disposition**:
 
-* Prophylactic antibiotics\
+* Ongoing prophylactic antibiotics\
 May be appropriate in high risk patients; agents include:
 	* Rifaximin
 	* Norfloxacin
 	* Ciprofloxacin
+
 
 ### Marginal and Ineffective Therapies
 

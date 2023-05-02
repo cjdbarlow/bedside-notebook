@@ -229,7 +229,7 @@ Management:
 ## Prognosis
 
 
-### Child-Pugh Score
+### Child-Pugh Score {#sec-childpugh}
 
 :::info
 This is included mostly for completeness, the Child-Pugh score is inferior to standard ICU scoring systems for outcome prediction.
@@ -251,13 +251,14 @@ Score to assess prognosis of cirrhosis:
 | **Ascites**                    | None     | Mild/medically controlled  | Moderate to severe/refractory  |
 | **Hepatic encephalopathy**     | None     | Grade I-II                 | Grade III-IV                   |
 
+: Child-Pugh Score Components
+
 :::column-margin
 There are many issues with the Child-Pugh score:
 
 * Subjective assessments have inter-observer variability
 * Evaluation of ascites has progressed since the '60s when the score was developed
 * Excludes effects of concomitant disease
-
 :::
 
 Patients are then risk stratified as follows:
@@ -267,6 +268,8 @@ Patients are then risk stratified as follows:
 | A      | 5-6     | 100%               |
 | B      | 7-9     | 80%                |
 | C      | 10-15   | 45%                |
+
+: Child-Pugh Scoring
 
 
 ## Key Studies

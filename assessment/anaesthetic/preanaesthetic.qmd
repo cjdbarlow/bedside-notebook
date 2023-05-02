@@ -14,9 +14,8 @@ This assessment template uses the mnemonic **IIF AMPLE**. Fasting status is in t
 
 * **Identification** of the patient
 * **Indication** for surgery
-* **Fasting** status
-
-
+* **Fasting** status\
+\
 * **Allergies**\
 	* Including issues with **previous anaesthetic**
 	* **Family history** of **anaesthetic issues**
@@ -117,6 +116,7 @@ Perioperative management of medication is covered [here](/anaesthesia/considerat
 * **Last eaten**
 * **Events**\
 Of the last 24 hours and concurrent illnesses.
+
 
 ## Examination
 

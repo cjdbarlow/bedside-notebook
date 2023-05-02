@@ -72,6 +72,18 @@ Community acquired:
 * Bacterial:
 	* ***S. pneumoniae***
 	* ***N. meningitidis***
+		* Peak incidence in first year of life\
+		Following loss of maternal antibody, and prior to development of new antibody.
+		* Rare in the immunocompetent adult
+		* Characteristic:
+			* Myalgias and arthralgias
+			* Purpuric or petechial rash\
+			May progress to purpura fulminans.
+		* Exquisitely antibiotic sensitive
+		* Complicated by:
+			* Adrenal insufficiency secondary to acute adrenal haemorrhage
+			Waterhouse-Friedrichsen syndrome.
+			* Pericarditis
 	* ***H. influenzae***\
 	Most common cause prior to vaccination.
 	* *L. monocytogenes*
@@ -89,6 +101,9 @@ Community acquired:
 	* Echoviruses
 	* Toscana virus
 
+:::column-margin
+Purpura fulminans is covered in detail at @sec-pf.
+:::
 
 Nosocomial:
 

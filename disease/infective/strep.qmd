@@ -1,0 +1,161 @@
+# Streptococci
+
+Ovoid gram positive organisms that come in pairs (diplococci) or chains, and are subdivided into:
+
+* **α-Haemolytic**\
+Produce **green rings** around colonies on agar. Includes:
+	* *S. pneumoniae*
+	* *S. bovis*
+	* *S. mutans*
+* **β-Hemolytic**\
+Cause lysis of cells, resulting in **clear rings** around colonies, and further divided by the **Lancefield scheme**. Includes:
+	* Group A: *S. pyogenes*
+	* Group B: *S agalactiae*
+* **γ-Haemolytic**\
+No change around colonies. Includes (note can be also α-haemolytic):
+	* *S. bovis*
+	* *S. mutans*
+* **Enterococci**
+
+## α-Haemolytic
+
+*S. pneumoniae* is an obligate parasite and normal nasopharyngeal commensal. Infection:
+
+* Also known as pneumococcal infection
+* Requires some ↑ susceptibility:
+	* Extremes of age
+	* Recent viral pneumonia\
+	With streptococcal bacterial superinfection.
+	* Immunosuppression
+		* Smokers
+		* Asplenic
+			* Splenectomy
+			* Sickle-cell disease
+		* Malnutrition
+		* Alcoholism
+* Include:
+	* **Meningitis**\
+	Most common cause in *H. influenzae* vaccinated individuals.
+	* **CAP**\
+	Most common cause.
+	* Otitis media
+	* Sinusitis
+	* Mastoiditis
+
+
+
+## Lancefield Scheme
+
+Divides β-haemolytic streptococci into several groups based on cell wall composition.
+
+### Group A
+
+**Group A** is synonymous with ***S. Pyogenes***:
+
+* **Reservoir in** skin and mucous membranes of **humans**\
+**Spread by contact** from person to person. 
+* Produces hyaluronidase which destroys connective tissue
+* Cell walls contain an M protein which:
+	* Is essential for infection
+	* Has a high number of antigenic types\
+	Repeat infection is possible and common.
+	* Antibodies to M protein are common precipitants of **rheumatic fever**\
+	Preventable if antimicrobials provided within **10 days**.
+
+
+Infections include:
+
+* B
+	* Pharyngitis\
+	Purulent inflammation of tonsils and oropharynx. Labeled scarlet fever if it occurs with endotoxin production.
+* I
+	* Minor skin infections
+		* Erysipelas
+		* Impetigo
+	* **Necrotising fasciitis**
+
+
+Complications include:
+
+* **Toxic shock syndrome**
+* Rheumatic fever
+* Acute glomerulonephritis
+
+
+### Group B
+
+Group B is synonymous with *S. Agalactiae*:
+
+* Carried in urogenital and GI tract
+	* Transmitted sexually or at birth
+
+
+Infections include:
+
+* Neonatal\
+Risk ↓, but not eliminated by, caesarian section. Intrapartum antibiotics given if high risk features.
+	* Meningitis
+	* Septicaemia
+* Endometritis
+* Opportunistic
+	* Diabetic foot infections
+
+
+## Enterococci
+
+Enterococci are:
+
+:::column-margin
+Enterococci were once considered **Group D** streptococci, but have broken out into their own genus based on DNA analysis and other things. They are included here for posterity and convenience.
+:::
+
+* Normal gut flora 
+* May be α/β/γ-haemolytic
+* Can **survive** in **the presence of bile** and high-salt solutions\
+**And other detergents**, including cleaning chemicals.
+* Are naturally resistant to β-lactams, and commonly resistant to other agents
+
+
+Enterococci include:
+
+* *E. faecalis*
+* *E. faecium*\
+Generally more resistant.
+
+
+## Management
+
+**Specific therapy**:
+
+* Pharmacological
+	* ***S. pneumoniae***\
+	Commonly resistant to penicillins and other β-lactams:
+		* Empiric therapy generally consists of:
+			* Vancomycin
+			* Ceftriaxone 1-2g IV Q12-24H or Cefotaxime 2g IV Q4-6H 
+	* **Group A**
+		* Benzylpenicillin\
+		Resistance not developed.
+	* **Group B**
+		* Benzylpenicillin
+		* Ampicillin\
+		Alternative to benzylpenicillin.
+		* Cephazolin\
+		Alternative if penicillin allergy.
+		* Clindamycin\
+		Alternative if resistance to β-lactams.
+		* Vancomycin\
+		Alternative if penicillin allergy and clindamycin resistant.
+* Procedural
+	* Source control
+
+
+**Preventative**:
+
+* Pneumococcal vaccine
+
+---
+
+## References
+
+1. Harvey RA, Cornelissen CN, Fisher BD. Lippincott Illustrated Reviews: Microbiology (Lippincott Illustrated Reviews Series). 3rd Ed. LWW.

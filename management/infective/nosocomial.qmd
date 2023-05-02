@@ -61,48 +61,8 @@ Include:
 	* *Candida* spp.
 
 :::column-margin
-Candidal infections are covered in detail under @sec-candida.
+Candidal infections are covered in detail under @sec-candida, and Staphylococcal infections under @sec-staph.
 :::
-
-
-### Coagulase-negative Staphylococci
-
-Common, low-virulence *Staphylococcus*. spp that:
-
-:::column-margin
-*Staphylococci* can be grouped by their ability to produce coagulase, an enzyme which cleaves fibrinogen and leads to clot production. This clot also covers the bacteria in a film of clot, which protects them from immune detection and subsequent phagocytosis.
-
-* Coagulase positive\
-*S. Aureus*
-* Coagulase negative\
-All others.
-:::
-
-* Usually exist as skin commensals\
-Common cause of false-positive blood cultures. Can be distinguished from true infection:
-	* Clinical suspicion
-	* Number of positive cultures
-	* Positive culture in multiple bottles taken at the same time from different places
-	* Positive in aerobic and anaerobic bottles\
-	85% of "true" infections, compared to ~35% of potentially contaminated specimens.
-	* Culture positive in <16 hours
-* Cause infections in:
-	* Areas obscured from the immune system:
-		* Septic arthritis
-		* Endocarditis
-		* Invasive devices
-			* Lines
-			* Pacemakers
-			* Prosthetics
-				* Valves
-				* Joints
-				* VP shunts
-	* Immunocompromised host
-	* Disrupted barriers
-		* Burns
-* Are generally:
-	* Multiresistant
-	* Sensitive to glycopeptides and linezolid
 
 
 ### Pseudomonas Aeruginosa

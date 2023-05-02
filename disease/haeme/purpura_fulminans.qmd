@@ -1,0 +1,172 @@
+# Purpura Fulminans {#sec-pf}
+
+Purpura fulminans is a **thrombotic subtype** of **DIC** secondary to **protein C deficiency** and is characterised by:
+
+:::column-margin
+The other two subtypes of purpura fulminans are:
+
+* Congenital\
+Secondary to deficiency of Protein C, Protein S, or Antithrombin III.
+* Autoimmune\
+Very rare, secondary to auto-antibody to Protein S.
+:::
+
+* Microvascular thrombosis
+* Skin necrosis
+
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+Protein C deficiency can result from:
+
+* Consumption\
+The classical DIC coagulopathy
+* ↓ Hepatic synthesis
+	* ↑ Risk with acute liver injury
+* Destruction by elastase
+
+
+### Aetiology
+
++-------------------------------------+----------------------------------+
+| Infective                           | Non-infective                    |
++=====================================+==================================+
+| Bacterial:                          | Circulatory:                     |
+|                                     |                                  |
+| * *S. Pneumoniae*\                  | * Vasopressor excess             |
+| Predominantly asplenic.             |                                  |
+| * *S. Pyogenes*                     |                                  |
+| * *S. Aureus*                       | Haematological:                  |
+| * *H. Influenzae*                   |                                  |
+| * *N. Meningitidis*\                | * MAHA                           |
+| ~20%.                               | * TTP                            |
+| * Endocarditis                      | * Warfarin-induced skin necrosis |
+| * Basically any other gram negative |                                  |
+|                                     |                                  |
+|                                     |                                  |
+| Viral:                              |                                  |
+|                                     |                                  |
+| * VZV                               |                                  |
+| * West Nile virus                   |                                  |
+|                                     |                                  |
+|                                     |                                  |
+| Fungal:                             |                                  |
+|                                     |                                  |
+| * *Aspergillus* spp.                |                                  |
+| * *Cryptococcus neoformans*         |                                  |
+| * *Fusarium* spp.                   |                                  |
+|                                     |                                  |
+|                                     |                                  |
+| Parasitic:                          |                                  |
+|                                     |                                  |
+| * *P. Falciparum* malaria           |                                  |
++-------------------------------------+----------------------------------+
+
+: Causes of Acute Purpura Fulminans
+
+:::column-margin
+Infective causes are significantly more common than non-infective causes.
+:::
+
+
+## Clinical Manifestations
+
+Progressive skin changes:
+
+1. Initially non-blanching patchy rash
+	* Mottling
+	* Generally of extremities
+2. Skin necrosis
+	* Within **24-48** hours
+	* Black necrotic lesions
+	* May be insensate
+	* Haemorrhage into skin may cause bullae formation
+
+## Diagnostic Approach and DDx
+
+Key differentials:
+
+* Haematological
+	* Catastrophic antiphospholipid syndrome
+	* Warfarin-induced skin necrosis
+* Vasculitis
+	* HSP
+* Other
+	* Necrotising fasciitis
+	* Cocaine toxicity
+
+
+## Investigations
+
+Bedside:
+
+Laboratory:
+
+* FBE
+	* Thrombocytopaenia
+* Coagulation
+	* INR: 1-3
+	* PTT: 1-3x ULN
+	* Fibrinogen: Variable
+* D-dimer\
+Significantly ↑.
+* Protein C\
+\<40% normal.
+
+Imaging:
+
+Other:
+
+## Management
+
+:::info
+Principles:
+
+* Treat underlying cause
+* Consider anticoagulation
+:::
+
+
+**Specific therapy**:
+
+* Pharmacological
+	* Heparin
+		* anti-Xa targeting due to confounding from APTT measurement
+		* AT III supplementation may be considered but can result in dramatic ↑ in heparin effect
+	* Blood product
+		* Platelets >30
+		* Fibrinogen >1
+	* Avoid warfarin\
+	Due to ↓ protein C synthesis.
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+* E
+	* Adrenal insufficiency secondary to adrenal haemorrhage
+* F
+	* AKI\
+	Glomerular thrombosis.
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References

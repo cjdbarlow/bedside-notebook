@@ -33,6 +33,8 @@ Predisposing factors for necrotising soft tissue infection include:
 	* Diabetes
 	* Smoking
 * Immunosuppression
+	* Alcoholism
+	* Steroid use
 * Route of entry
 	* IV drug use
 	* Pre-existing infection
@@ -65,9 +67,11 @@ Toxic shock syndromes also contribute to haemodynamic instability in both Strept
 
 Typically present as cellulitis that:
 
-* Fails to improve on antibiotics
-* Spreads rapidly across fascial planes
+* Affects the relatively young and well
+* Follows a history of **minor trauma**
+* Is initially indistinguishable from an uncomplicated soft tissue infection, but fails to improve on antibiotics
 * Has **disproportionate pain** to the degree of injury
+	* Hard, "woody" oedema of affected areas
 
 
 Additional features include:
@@ -77,12 +81,54 @@ Surprisingly rare.
 * Crepitus
 Associated with gas-forming organism infection (generally *Clostridia*, classically *C. Perfringens*) but may also occur with other bacteria such as *E. Coli*.
 
+
 ## Diagnostic Approach and DDx
 
 
 
 ## Investigations
 
+Bedside:
+
+* ABG
+	* Lactic acidosis
+
+
+Laboratory:
+
+* Bloods
+	* FBE
+	* UEC
+	* CMP
+		* Hypocalcaemia
+	* Coag
+		* DIC
+
+
+Imaging:
+
+* XR
+	* Gas in soft tissue planes
+* CT
+	* Fascial thickening
+	* Contrast enhancement
+	* Fascial fluid collections
+	* Gas in soft tissue planes
+* US
+	* Fascial fluid collections
+	* Gas
+* MRI
+	* Fascial thickening
+	* Hyperintense T2 signal in muscles
+
+
+Other:
+
+* Operative findings
+	* Gray necrotic fascia
+	* Lack of bleeding\
+	Due to microvascular thrombosis.
+	* "Dishwater" pus
 
 
 ## Management
@@ -100,26 +146,30 @@ Principles:
 * C
 	* Noradrenaline almost always required in a "true" NSTI
 
+
 **Specific therapy**:
 
 * Pharmacological
 	* **Antimicrobials**
 		* Broad-spectrum agent\
-			* Amoxacillin/clavulanate 1.2g Q6-8H
 			* Meropenem 1g Q8H
-		* Streptococcal cover
+			* Amoxacillin/clavulanate 1.2g Q6-8H
+		* Lincosaminde\
 			* Clindamycin 300-450mg Q6H
 		* MRSA cover
 			* Vancomycin
-	* **IVIg**
+	* **IVIG**
 		* Associated with ↓ hospital mortality
 * Procedural
 	* **Aggressive surgical debridement**\
-	Improved with surgeon experienced in management.
+	Single **most important** management strategy.
+		* Outcome improves with surgeon experienced in management
+		* *Early* debridement is critical for a good outcome
+		* Aggressive debridement to healthy tissue
 * Physical
 	* **Hyperbaric Oxygen Therapy**
 		* Controversial
-		* Associated with a ↓ in mortality, although evidence is conflicting
+		* Associated with a ↓ in mortality and number of debridements, although evidence is conflicting
 		* Use should never delay surgical debridement
 		* Significant logistic impediments to use
 			* Availability
@@ -129,7 +179,7 @@ Principles:
 :::column-margin
 Antimicrobial therapy should be adjusted for known resistance patterns.\
 \
-Clindamycin suppresses Streptococcal toxin production, which may ↓ severity of septic shock.
+Clindamycin suppresses Streptococcal toxin production, which may ↓ severity of septic shock and is strongly associated with ↓ mortality.
 :::
 
 :::column-margin
