@@ -1,20 +1,75 @@
-# Principles of Antibiotic Use
+# Principles of Antimicrobial Use
+
+Antimicrobial:
+
+* Drugs eliminate susceptible organisms, at the cost of significant side-effects
+	* Provide huge evolutionary advantage to resistant strains
+	* Promote overgrowth of non-susceptible organisms
+		* Including fungi
+* Stewardship is a process of selecting antimicrobials to:
+	* Optimise dose and duration
+	* Minimise toxicity
+	* Minimise selection of resistant strains 
+
+
+## Antimicrobial Stewardship
+
+General principles of antimicrobial use:
 
 :::column-margin
-True bacteraemia should be assumed with culture of:
+Empirical antibiotics are those given to cover *likely* organisms, rather than given in response to a known pathogen.
+:::
+
+:::column-margin
+An antibiogram is a summary of the **local** antimicrobial susceptibilities of different pathogens, and is important to determine choices for antimicrobial agent for both empirical therapy, and prior to receiving sensitivity data.
+:::
+
+:::column-margin
+Inappropriate or delayed antibiotic use ↑ morbidity and mortality.
+:::
+
+* Microbiological **specimens** should be obtained **before** commencing **antimicrobials**
+	* Prevents false-negative cultures
+	* Immediate Gram stain may guide therapy
+* Administer **without delay**
+* Choice of empirical antimicrobial should be based upon:
+	* Site of infection
+	* Community or hospital-acquired
+	* Local microbiome\
+	Understanding of the hospital or intensive care units antibiogram.
+	* Patients previous microbiology results
+* The narrowest-spectrum drug should be used
+* Monotherapy is preferable to combination therapy
+* Clinical response should be used to guide therapy\
+	* *In vitro* sensitivity does not equate with clinical effectiveness
+	* ***In vitro* resistance** is a **better predictor** than **sensitivity**
+* A **>7 day course** is **rarely indicated**
+	* Associated with significant adverse effects
+	* Exceptions include:
+		* Osteomyelitis
+		* Infective endocarditis
+		* Complicated bacteraemia\
+		Require longer therapy and have ↑ mortality. Indicated by:
+			* CNS involvement
+			* Septic emboli
+			* Multiple infected regions
+			* Recurrent infection
+* An adequate dose should be given\
+Under-dosing leads to resistance.
+* Serum levels of toxic antibiotics should be monitored for both toxicity and efficacy
+* Recognise patients with **augmented renal clearance**, and ↑ dose accordingly
+
+:::column-margin
+True bacteraemia (or fungaemia) should be assumed with culture of:
 
 * *S. Aureus*
 * *E. Coli*
 * *Candida*
 :::
 
-* Complicated bacteraemia\
-Require longer therapy and have ↑ mortality. Indicated by:
-	* CNS involvement
-	* Septic emboli
-	* Multiple infected regions
-	* Recurrent infection
 
 ---
 
 ## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

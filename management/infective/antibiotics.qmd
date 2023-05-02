@@ -1,32 +1,20 @@
 # Antibiotics
 
-Principles of effective antibiotic use:
+This covers:
 
-* Antibiotics:
-	* Give as soon as practicable
-	* Give an adequate dose
-	* Give an appropriate course
-	* Use empirical therapy until cultures return
-	* Narrow spectrum once gram stain and culture confirm type of agent
-* Blood cultures:
-	* Before antibiotics
-	* 2 sets
-	* Not from an existing line
-	* Do not have to be timed with fever
-* Consider:
-	* Infectious disease input
-	* Tissue penetration
-	* Clearance
-
+* Key concepts
+* Drugs
+* Principles of dose-adjustment
 
 ## Concepts
 
-Key concepts in antibiotic function:
+Key concepts in antibiotic prescription:
 
 * Minimum Inhibitory Concentration
 * Kill characteristics
 * Post-antibiotic 
 * Treatment failure
+* Dose adjustment
 
 
 ### Minimum Inhibitory Concentration
@@ -130,6 +118,52 @@ Antibiotic treatment failure may occur due to:
 	* Inadequate sputum clearance
 
 
+## Drugs
+
++---------------------+------------------------------------------------------------------------------------+----------------------------------------------------------------+
+| Class               | Pharmacokinetics                                                                   | Dosing Considerations                                          |
++=====================+====================================================================================+================================================================+
+| **β-lactams**\      | * Bactericidal                                                                     | * More frequent dosing may be more effective                   |
+| Including:          | * Slow                                                                             |                                                                |
+|                     | * Time dependent\                                                                  |                                                                |
+| * Penicillins       | Ideally 4-5 times MIC, and >0.4 (40%) throughout.                                  |                                                                |
+| * Cephalosporins    | * No significant post-antibiotic effect                                            |                                                                |
+|                     | * Reasonable tissue penetration                                                    |                                                                |
++---------------------+------------------------------------------------------------------------------------+----------------------------------------------------------------+
+| **Carbapenems**     | * Bactericidal                                                                     |                                                                |
+|                     | * Slow                                                                             |                                                                |
+|                     | * Time dependent                                                                   |                                                                |
+|                     | * Post-antibiotic effect                                                           |                                                                |
+|                     | * Reasonable tissue penetration                                                    |                                                                |
++---------------------+------------------------------------------------------------------------------------+----------------------------------------------------------------+
+| **Aminoglycosides** | * Bactericidal                                                                     | Dose at 5-7mg/kg, with interval based on creatinine clearance: |
+|                     | * Fast                                                                             |                                                                |
+|                     | * Concentration-dependent                                                          | * >60mL/min: Daily                                             |
+|                     | * Significant post-antibiotic effect\                                              | * 40-59mL/min:> 36 hourly                                      |
+|                     | Duration related to height of peak concentration.                                  | * 20-39mL/min: 48 hourly                                       |
+|                     | * Single-daily dosing more effective than multiple daily dosing                    |                                                                |
+|                     | * **Poor distribution into tissues**\                                              |                                                                |
+|                     | Less effective in solid organ infections, ↑↑ V~D~ with extravascular fluid shifts. |                                                                |
++---------------------+------------------------------------------------------------------------------------+----------------------------------------------------------------+
+| **Quinolones**      | * Bactericidal                                                                     |                                                                |
+|                     | * Fast                                                                             |                                                                |
+|                     | * Concentration and time dependent\                                                |                                                                |
+|                     | Area under the inhibitor curve; i.e. AUC/MIC >125.                                 |                                                                |
+|                     | * Some post-antibiotic effect                                                      |                                                                |
+|                     | * Very **high tissue penetration**                                                 |                                                                |
++---------------------+------------------------------------------------------------------------------------+----------------------------------------------------------------+
+| **Glycopeptides**   | * Mostly bactericidal, bacteriostatic against enterococci                          |                                                                |
+|                     | * Post-antibiotic effect, even if sub MIC                                          |                                                                |
+|                     | * **Poor distribution into tissues**\                                              |                                                                |
+|                     | Less effective in solid organ infections, ↑↑ V~D~ with extravascular fluid shifts. |                                                                |
++---------------------+------------------------------------------------------------------------------------+----------------------------------------------------------------+
+
+: Comparison of Antibiotic Classes
+
+:::column-margin
+Carbapenems are also β-lactams, but have been separated here due to different pharmacokinetic properties.
+:::
+
 ## Dose Adjustment
 
 +---------------------------+------------------------------------+------------------------------------------------+
@@ -207,3 +241,7 @@ Administration is unchanged due to:
 ---
 
 ## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+2. Rubinstein E, Keynan Y. Vancomycin Revisited – 60 Years Later. Frontiers in Public Health. 2014;2. Accessed May 3, 2023. https://www.frontiersin.org/articles/10.3389/fpubh.2014.00217
+

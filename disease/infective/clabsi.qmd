@@ -59,19 +59,14 @@ Causative organisms:
 
 ## Investigations
 
-Bedside:
-
 Laboratory:
 
-Imaging:
+* Blood cultures
 
-Other:
+
 
 ## Management
 
-**Resuscitation**:
-
-ABC approach. Comment on team coordination and clinical priorities.
 **Specific therapy**:
 
 * Pharmacological
@@ -81,16 +76,14 @@ ABC approach. Comment on team coordination and clinical priorities.
 		* *S. Aureus*: 14 days
 		* *Candida*: 14 days
 * Procedural
-	* Remove line
+	* Remove line\
+	Line tips should be sent for culture if removed for suspected CLABSI, but not for other indications.
 * Physical
 
-**Supportive care**:
-
-**Disposition**:
 
 **Preventative**:
 
-* Rationalise insertion
+* Rationalise line insertion
 * Antibiotic coated lines for immunocompromised patients
 * Aseptic insertion and management
 	* Policy around insertion
@@ -120,3 +113,4 @@ Routine changing of lines based solely on catheter-days is not indicated.
 ## References
 
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+2. O’Grady NP, Barie PS, Bartlett JG, et al. [Guidelines for evaluation of new fever in critically ill adult patients: 2008 update from the American College of Critical Care Medicine and the Infectious Diseases Society of America](https://journals.lww.com/ccmjournal/Fulltext/2008/04000/Guidelines_for_evaluation_of_new_fever_in.40.aspx). Critical Care Medicine. 2008;36(4):1330.

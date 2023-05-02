@@ -31,6 +31,7 @@ CBF: Cerebral Blood Flow
 CD: Collecting Duct
 CIM: Critical Illness Myopathy
 CIN: Critical Illness Neuropathy
+CLABSI: Central Line Associated Bloodstream Infection
 CMRO2: Cerebral Metabolic Rate for Oxygen
 CMV: Cytomegalovirus
 CN: Cranial Nerve
@@ -258,6 +259,7 @@ VIE: Vacuum Insulated Evaporator
 VILI: Ventilator Induced Lung Injury
 VMA: Vanillylmandelic acid
 VR: Venous Return
+VRE: Vancomycin Resistant Enterococcus
 VRG: Ventral Respiratory Group
 VSD: Ventricular Septal Defect
 Vt: Tidal Volume

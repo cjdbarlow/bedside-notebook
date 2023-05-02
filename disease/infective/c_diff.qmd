@@ -1,0 +1,96 @@
+# Clostridium Difficile
+
+Infective diarrhoea that may lead to pseudomembranous colitis, occurring secondary to:
+
+* Broad-spectrum antibiotics
+* Chemotherapy
+
+## Epidemiology and Risk Factors
+
+Antibiotic-associated *C. difficile* infection:
+
+* Causes :
+	* 10-25% of antibiotic-associated diarrhoea
+	* Almost all cases of pseudomembranous colitis
+* Is most commonly associated with:
+	* Clindamycin
+	* Cephalosporins
+	* Fluoroquinolones
+
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Manifestations
+
+Two clinical pictures:
+
+* Diarrhoea with associated fever
+* Ileus (and no diarrhoea) with leukocytosis and toxic megacolon
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+Bedside:
+
+Laboratory:
+
+* Blood
+	* FBE
+		* Leukocytosis
+	* LFT
+		* Hypoalbuminaemia
+* Stool
+	* Antigen and toxin\
+	Sensitive, persist after resolution of infection.
+	* Culture
+		* 2-3 days to grow
+		* Technically demanding
+		* Most useful for epidemiological purposes for strain typing
+
+Imaging:
+
+Other:
+
+* Proctoscopy/flexible sigmoidoscopy
+	* Facilitates direct visualisation of pseudomembranes
+	* Method to detect severe disease
+	* Risk of perforation limits use
+	* Role in severe disease and antigen and toxin tests are negative or unavailable
+
+## Management
+
+**Resuscitation**:\
+
+ABC approach. Comment on team coordination and clinical priorities.
+**Specific therapy**:
+
+* Pharmacological
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. O’Grady NP, Barie PS, Bartlett JG, et al. [Guidelines for evaluation of new fever in critically ill adult patients: 2008 update from the American College of Critical Care Medicine and the Infectious Diseases Society of America](https://journals.lww.com/ccmjournal/Fulltext/2008/04000/Guidelines_for_evaluation_of_new_fever_in.40.aspx). Critical Care Medicine. 2008;36(4):1330.

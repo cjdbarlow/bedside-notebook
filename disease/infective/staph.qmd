@@ -43,6 +43,10 @@ Common skin commensal that:
 		* Soft tissue infections
 		* Joint prostheses
 
+:::column-margin
+Staphylococcal toxic shock is a complication of *S. Aureus* colonisation, and is covered under @sec-toxic_shock.
+:::
+
 
 ### Methicillin-Resistant *Staphylococcus Aureus*
 
@@ -51,6 +55,7 @@ MRSA is a common mutation of *S. Aureus* that:
 * Alters the Penicillin Binding Protein
 * Significantly ↓ affinity of β-lactams for the cell wall\
 Become non-responsive.
+* Require treatment with a much more limited arsenal of antimicrobials
 
 
 ## Coagulase Negative Staphylococcus
@@ -98,7 +103,6 @@ Coagulase-negative *Staphylococcus*:
 	* Sensitive to glycopeptides and linezolid
 
 
-
 ## Investigations
 
 Bedside:
@@ -127,7 +131,11 @@ Should be performed if TTE is negative.
 		* Glycopeptides
 			* Vancomycin
 			* Teicoplanin
-		* Linezolid
+		* Linezolid 600mg IV Q12H\
+		No dose adjustments required for renal or hepatic impairment.
+		* 5^th^ generation cephalosporins:
+			* Ceftaroline 600mg IV Q8H
+			* Ceftobiprole 500mg Q8H
 		* Daptomycin
 	* **Coagulase-negative**
 		* Vancomycin as empiric therapy
@@ -135,12 +143,6 @@ Should be performed if TTE is negative.
 		May be appropriate de-escalation once sensitivity testing completed.
 * Procedural
 	* Source Control
-
-
-## Complications
-
-* I
-	* Toxic shock syndrome
 
 
 ### Prognosis

@@ -180,7 +180,7 @@ Laboratory:
 			* Expensive, requires serial measurements
 
 
-## Management
+## Management {#sec-sepsis_mx}
 
 :::info
 Principles are:
@@ -260,6 +260,7 @@ Early use of noradrenaline is associated with ↓ mortality.
 		* IV Ig
 * Procedural
 	* Source control
+	* Removal of all intravascular catheters with reinsertion at new sites
 * Physical
 
 **Supportive care**:

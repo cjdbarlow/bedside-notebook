@@ -1,26 +1,41 @@
-# Toxic Shock Syndrome
+# Toxic Shock Syndrome {#sec-toxic_shock}
 
-Distributive shock and severe inflammation secondary to bacterial endotoxin that is produced by:
+Syndrome of **severe distributive shock** and generalised **inflammation** that occur **secondary** to **bacterial endotoxin** that:
 
-* Staphylococci
-* Group A Streptococci
+* Is produced by some:
+	* **Streptococci**
+		* Occurs in up to 20% of Streptococcal infections
+		* Much more common that staphylococcal toxic shock
+		* Due to:
+			* *S. pyogenes*
+			* *S. dysgalactiae* subspecies *equisimilis*
+	* Staphylococci
+		* Less common
+		* May occur with colonisation without infection
+		* Usually due to *S. Aureus* (MRSA or MSSA)
+* Occurs in non-immune individuals\
+Most people develop antibodies to these toxins.
 
+:::column-margin
+Streptococcal and staphylococcal toxic shock syndromes are similar enough to be merged. An overview of these pathogens can be found @sec-strep and @sec-staph.
+:::
 
 ## Epidemiology and Risk Factors
 
 General Risk factors:
 
 * Immunocompromise
+* **Pregnancy**
 
 
-Streptococcal TSS:
+Streptococcal toxic shock:
 
 * Infections
 	* Pneumonia
 	* Necrotising fasciitis
 
 
-Staphylococcal TSS:
+Staphylococcal toxic shock:
 
 * Infections
 	* Surgical wound
@@ -36,70 +51,162 @@ Staphylococcal TSS:
 
 ## Pathophysiology
 
+Bacteria secrete endotoxin:
+
+* Bind to T-cell Major Histocompatibility COmplex
+* Stimulates T-lymphocyte response\
+Up to 20% of T-cells may respond, compared to ~0.01% that usually respond to antigens.
+* Leads to **massive T-cell activation** and large release of T-cell cytokines, in particular:
+	* IL-2
+	* Interferon-γ
+	* TNF-α
+
 ### Aetiology
+
+Streptococcal toxic shock occurs with **invasive** streptococcal infection, including:
+
+* Pneumonia
+* Septic arthritis
+* Peritonitis
+* Obstetric
+	* Endometritis
+	* Chorioamnionitis
+	* Mastitis
+
+
+Staphylococcal toxic shock syndrome occurs with:
+
+* **Colonisation**:
+	* Menstrual (~50%)\
+	Tampon colonisation.
+	* Non-menstrual
+		* Nasal packing
+		* IUD
+		* Wounds\
+		Uninfected wounds can be still colonised with *S. Aureus*, and be a source of toxic shock.
+* Invasive infection:
+	* Pneumonia
+	* Soft tissue infection
+* Colonisation without infection
+
 
 ## Clinical Manifestations
 
 Diagnostic features:
 
-* Fever ⩾39°C
-* Shock
-* Diffuse macular erythrodermic rash
-* Desquamation\
-Of palms and soles.
+* Inflammatory syndrome
+	* Fever ⩾39°C
+	* Chills
+	* Headache
+	* Myalgia
+	* Sore throat
+* Skin findings
+	* Diffuse macular erythrodermic rash\
+	Sunburn to bright erythema.
+	* "Strawberry tongue"
+	* Desquamation\
+	Of palms and soles. Late finding.
+* Multiorgan failure
 
 
 Suggestive features:
 
 * Rapid onset
-* Multisystem organ involvement 
+* Disproportionate:
+	* No obvious source with staphyloccal aetiology
+	* Otherwise unimpressive infection
+
 
 ## Diagnostic Approach and DDx
 
-## Investigations
+Consider if:
 
-Bedside:
+* Classical skin findings
+* Known streptococcal infection and sepsis
+* Soft tissue infection and sepsis
+* Flu-like illness with:
+	* Significant left-shift
+	* Haemodynamic instability despite resuscitation
+* Pregnancy
+
+:::column-margin
+The US CDC has published diagnostic criteria, which are not reproduced here as they exhibit the unfortunate combination of being both very long and clinically limited.
+::: 
+
+## Investigations
 
 Laboratory:
 
-Imaging:
+* Blood
+	* FBE
+		* ↑ WCC with left shift
+		* Thrombocytopenia
+	* CK\
+	↑ Secondary to cytokine ↑.
+	* UEC
+	* LFT
+		* ↑ Bilirubin
+		* ↑ AST/ALT
+	* Coag
+	* Cultures
 
-Other:
+:::column-margin
+CK may also be ↑ in necrotising fasciitis.
+:::
+
 
 ## Management
 
-**Resuscitation**:\
+:::info
+Principles:
 
-ABC approach. Comment on team coordination and clinical priorities.
+* Good sepsis resuscitation\
+Covered under @sec-sepsis_mx.
+* Specific therapy for toxic shock is relatively benign and a low-threshold to initiate it is appropriate:
+	* Known or reasonable likelihood of streptococcal infection
+	* Persistent vasopressor requirements
+:::
+
 **Specific therapy**:
 
+:::column-margin
+:::caution
+This just covers management of toxic shock syndrome; you still need to **treat the actual infection** with appropriate antimicrobials and source control.
+:::
+:::
+
 * Pharmacological
-	* Antimicrobials
-		* β-lactams
-		* Clindamycin
-		* IVIG 1g/kg
+	* **Toxin-suppressive antimicrobials**
+		* Clindamycin 900mg IV Q8H
+			* Most evidence
+			* Generally broad activity against streptococci and staphylococci\
+			Combination with a β-lactam recommended for streptococcal infections to avoid potential clindamycin resistance.
+		* Linezolid 600mg IV Q12H\
+		Toxin suppression with better coverage of both streptococci and staphylococci.
+	* **IVIG**\
+	Neutralise toxic antibodies.
+		* 1g/kg on day 1\
+		Can ↑ to 2g/kg if faiulure of response.
+		* 0.5g/kg on day 2 and 3, if required
 * Procedural
 	* Source control
 		* Debridement of necrotic tissue
 		* Removal of tampon
-* Physical
 
-**Supportive care**:
+:::column-margin
+The role and dosing of IVIG in staphyloccal toxic shock is not well elucidated.
+:::
 
-**Disposition**:
-
-**Preventative**:
-
-
-### Marginal and Ineffective Therapies
-
-## Anaesthetic Considerations
 
 ## Complications
 
-## Prognosis
-
-## Key Studies
+* C
+	* Septic cardiomyopathy\
+	↑ Risk in toxic shock.
+* F
+	* AKI
+* H
+	* DIC
 
 
 ---

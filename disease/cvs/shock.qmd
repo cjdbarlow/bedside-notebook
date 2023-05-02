@@ -1,22 +1,23 @@
 # Shock
 
-Life-threatening state of cellular hypoxia due to global insufficient delivery or utilisation of oxygen. Shock may be classified by aetiology of circulatory disturbance:
+Life-threatening state of cellular hypoxia due to globally insufficient delivery or utilisation of oxygen. Shock is generally classified by the aetiology of circulatory disturbance:
 
 :::column-margin
 This classification is simplistic as many disease processes will cause multiple mechanisms; e.g. sepsis causes both distributive and hypovolaemic shock.
 :::
 
-* Hypovolaemic\
+* **Hypovolaemic**\
 Loss of circulating volume, reducing preload and stroke volume. May be:
 	* Blood loss
-	* Fluid loss
-* Obstructive\
+	* Fluid loss\
+	Can include redistribution due to capillary leak.
+* **Obstructive**\
 Mechanical obstruction to flow of blood due to compression of:
 	* Great veins, impeding venous return
 	* Cardiac chambers
-* Cardiogenic\
+* **Cardiogenic**\
 Loss of pump function.
-* Distributive\
+* **Distributive**\
 Loss of vascular autoregulation, leading to inappropriate allocation of cardiac output.
 
 
@@ -107,6 +108,9 @@ Causes by mechanism include:
 			* Rupture
 		* Myocarditis
 		* Contusion
+		* Myopathy
+			* Septic
+			* Drug toxicity
 	* Valvular
 		* Thrombus
 		* Chordae rupture
@@ -222,3 +226,5 @@ Rapid recognition and treatment are required to prevent irreversible organ dysfu
 ## References
 
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+2. Worthley LIG. Shock: A Review of Pathophysiology and Management. Part I. Critical Care and Resuscitation.
+3. Worthley LIG. Shock: A Review of Pathophysiology and Management. Part II. Critical Care and Resuscitation.

@@ -1,39 +1,161 @@
 # Acalculous Cholecystitis
 
-Ischaemia and necrosis of the gallbladder in absence of obstruction.
+Gallbladder **inflammation** in **absence** of **obstruction** that:
+
+* Leads to **ischaemia** and subsequent **necrosis**, biliary gangrene, and septic shock
+* Is associated with critical illness\
+Notably:
+	* Trauma
+	* Burns
+	* Sepsis
+
 
 ## Epidemiology and Risk Factors
 
++-----------+--------------------+---------------------------+
+| Category  | Strong             | Weak                      |
++===========+====================+===========================+
+| Patient   |                    | * Obesity                 |
++-----------+--------------------+---------------------------+
+| Disease   | * Trauma           | * Vasculitis              |
+|           | * Burns            | * CBD obstruction         |
+|           | * Sepsis           | * Diabetes                |
+|           | * Critical illness | * Hypertension            |
++-----------+--------------------+---------------------------+
+| Treatment | * Surgery          | * ERCP                    |
+|           | * TPN              | * Immunosuppression       |
++-----------+--------------------+---------------------------+
+| Other     | * Fasting          | * Prolonged hospital stay |
++-----------+--------------------+---------------------------+
+
+: Risk Factors for Acalculous Cholecystitis
+
+
 ## Pathophysiology
 
-### Aetiology
+Disease develops due to a combination of:
+
+* Gallbladder ischaemia\
+Leading to gangrenous areas. Due to:
+	* ↓ Splanchnic blood flow
+		* Shock
+* Bile stasis\
+Leads to biliary distension. Due to lack of normal gall bladder contraction and emptying.
+* ↑ Bile viscosity\
+Leading to high concentration of bile salts and bile stasis. Due to:
+	* Volume depletion
+	* Dehydration
+	* Bile stasis\
+	Results in further ↑ in bile viscosity.
+
 
 ## Clinical Manifestations
 
+* Fever
+* Abdominal pain
+* RUQ mass
+* RUQ crepitus
+* Jaundice\
+Rarely.
+
 ## Diagnostic Approach and DDx
+
 
 ## Investigations
 
+Bloods:
+
+* FBE
+	* Leukocytosis
+* LFTs\
+Cholestatic picture.
+* Blood cultures
+
+Imaging:
+
+* Ultrasound\
+Features include:
+	* Distension\
+	\>5cm.
+	* Thickened wall\
+	\>3.5mm.
+	* Pericholecystic fluid
+	* No gallstones
+	* Hyperdense biliary sludge
+	* Gas in wall\
+	Indicating gas forming anaerobes present.
+	* Gas in gallbladder\
+	"Champagne sign".
+	* Gall bladder perforation
+* CT\
+Similar accuracy to CT, with similar findings.
+* Cholescintigraphy\
+	* Most sensitive
+	* Can quantify gallbladder ejection fraction
+	* Low utility in the critically ill due to the hours-long test time
+
 ## Management
 
-**Resuscitation**:\
+:::info
+Principles:
 
-ABC approach. Comment on team coordination and clinical priorities.
+* Standard sepsis management\
+Covered under @sec-sepsis_mx.
+* Intra-abdominal antibiotic cover
+* Procedural intervention in selected cases
+	* Low-risk cases can be treated effectively with antibiotics alone
+	* High-risk cases may be so morbid so as to preclude cholecystectomy\
+	Percutaneous cholecystotomy remains an option in many of these.
+:::
+
 **Specific therapy**:
 
 * Pharmacological
-* Procedural
-* Physical
+	* **Antibiotics**\
+	One of:
+		* Tazocin 4.5g IV Q6-8H
+		* Meropenem 1g IV Q8H
+		* Cefepime 2g IV Q8H, metronidazole 500mg IV Q8H, and ampicillin 2g IV Q4H *or* vancomycin
+	* Antifungal\
+	May be reasonable in the critically unwell, discuss with ID.
+* Procedural\
+A spectrum of procedural options, listed by morbidity:
+	* **Percutaneous cholecystotomy**
+		* Lowest complication rate
+		* Definitive management in 80% of cases
+		* Risk of drain dislodgement
+	* **Laparoscopic cholecystectomy**
+		* Definitive management
+		* Risk of conversion to open
+	* **Open cholecystectomy**
+		* Definitive management
+		* Facilitate thorough abdominal washout\
+		e.g. Perforated gallbladder.
+		* Highly morbid in the critically ill\
+		Up to **20% mortality**.
+
+:::column-margin
+Antibiotic regimen chosen should cover streptococci, enterococci, Enterobacteriaceae, *P. aeruginosa*, and anaerobes such as *Bacteroides*. 
+:::
 
 **Supportive care**:
 
-**Disposition**:
+* C
+	* Volume resuscitation
+* D
+	* Analgesia
+	* Antiemetics
+
 
 ### Marginal and Ineffective Therapies
 
 ## Anaesthetic Considerations
 
 ## Complications
+
+* I
+	* Intraabdominal sepsis\
+	Perforation occurs in ~10%.
 
 ## Prognosis
 

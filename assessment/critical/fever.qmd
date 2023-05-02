@@ -1,111 +1,210 @@
-# Fever
+# Fever and Hyperthermia
 
-Normal body temperature is 37.0°C with a 0.5-1°C variation, with elevation:
+Normal body temperature is 37.0°C, with normally a 0.5-1°C variation. Hyperthermia can either:
 
-* Defined as **core body temperature >38.3°C**\
-Lower thresholds may be appropriate in certain populations:
-	* Elderly
-	* Immunocompromised
-	* Extracorporeal circuits\
-	Expect a ~0.5°C drop in body temperature on CRRT.
-* Due to either:
-	* ***True* fever**\
-	↑ Temperature due to ↑ hypothalamic set point, and is so **defended** by thermoregulatory mechanisms.
-	* **Hyperthermia**\
-	↑ Temperature with a normal hypothalamic set point. Causes here include:
-		* **Exercise-induced**
-		* Hyperthermia due to **inadequate** heat **dissipation**
+* ***True* fever**\
+↑ Temperature due to ↑ hypothalamic set point, and is **defended** by thermoregulatory mechanisms.
+	* In the **critically ill** is **core body temperature >38.3°C**\
+	Lower thresholds (>38.0°C) may be appropriate in certain populations:
+		* Not critically unwell
+		* Elderly
+		* Immunocompromised
+			* **Neutropaenic**\
+			Indication for empirical broad-spectrum antibiotics, independent of other clinical suspicion of infection.
+		* Extracorporeal circuits\
+		Expect a ~0.5°C drop in body temperature on CRRT.
+* Non-febrile hyperthermia\
+↑ Temperature with a normal hypothalamic set point.
+	* Due to imbalance between mechanisms of heat gain and heat loss
+	* Causes include:
+		* **Exercise-induced**\
+		Generally benign and self-limiting, though can ↑ risk of heat injury in hot and humid environments.
+		* Hyperthermia due to **inadequate** heat **dissipation**\
+		Particularly in the unacclimatised, who do not exhibit the same degree of peripheral vasodilatation and sweating.
 		* Hyperthermia due to **impaired thermoregulation**
 
-
 :::column-margin
-Fever and hyperthermia are often used synonymously clinically and in the literature. However, there is some value in separating the two based on the hypothalamic set point and so for the purpose of this section fever refers to ↑ body temperature due to ↑ hypothalamic set point.
+Fever and hyperthermia are often used synonymously clinically and in the literature. However, there is some value in separating the two based on the hypothalamic set point and so for the purpose of this section fever refers to ↑ body temperature due to ↑ hypothalamic set point.\
 :::
-
 
 ## Fever
 
-Fever:
+Fever is a basic and adaptive evolutionary response to infection, but may be maladaptive in certain disease processes. Fever:
 
 :::column-margin
 10% of septic patients are hypothermic and 35% are normothermic at presentation, and those that do not become febrile have a higher mortality than those who develop fever.
 :::
 
-* Is a basic and adaptive evolutionary response to infection
-* May be maladaptive in certain disease processes\
-e.g. TBI.
 * Often follows a variable pattern\
-This pattern is generally unhelpful diagnostically due to wide variability.
+This pattern is generally unhelpful diagnostically due to wide variability, however **single fevers** are unlikely to represent infection.
+* Magnitude gives some clue to aetiology:
+	* Infectious causes rarely exceed 41°C
+	* Non-infectious causes *generally* result in temperatures <39°C
+* Associated with rigors\
+Rigors are also associated with bacteraemia.
 
-+----------------------------+------------------------------+----------------------------+
-| System                     | Infectious                   | Non-Infectious             |
-+============================+==============================+============================+
-| Respiratory                | * **Sinusitis**              | * Aspiration pneumonitis   |
-|                            | * Pharyngitis                | * ARDS                     |
-|                            | * Dental                     |                            |
-|                            | * **Pneumonia**              |                            |
-+----------------------------+------------------------------+----------------------------+
-| Circulatory                | * Endocarditis               | * DVT/PE                   |
-|                            | * Myocarditis                | * Thrombophlebitis         |
-|                            | * **Line infection**         | * Fat emboli               |
-|                            | * Mediastinitis              |                            |
-|                            | * **Blood stream infection** |                            |
-+----------------------------+------------------------------+----------------------------+
-| Neurological               | * Meningitis                 | * CVA                      |
-|                            | * Encephalitis               | * SAH                      |
-|                            | * Discitis                   | * TBI                      |
-|                            | * Epidural abscess           |                            |
-+----------------------------+------------------------------+----------------------------+
-| Endocrine and Metabolic    |                              | * Thyrotoxicosis           |
-|                            |                              | * Thyroiditis              |
-|                            |                              | * Adrenal insufficiency    |
-|                            |                              | * Ovulation                |
-+----------------------------+------------------------------+----------------------------+
-| Renal                      | * Pyelonephritis             |                            |
-|                            | * Prostatitis                |                            |
-|                            | * UTI                        |                            |
-+----------------------------+------------------------------+----------------------------+
-| Gastrointestinal           | * Oesophagitis               | * Mesenteric ischaemia     |
-|                            | * Pancreatitis               | * Acalculous cholecystitis |
-|                            | * Bowel perforation          | * Pancreatitis             |
-|                            | * Diverticulitis             | * GI bleed                 |
-|                            | * Colitis                    |                            |
-|                            | * *C. difficile* colitis     |                            |
-|                            | * Perianal abscess           |                            |
-+----------------------------+------------------------------+----------------------------+
-| Haematological/Oncological | * Malaria                    | * Lymphoma                 |
-|                            |                              | * TLS                      |
-+----------------------------+------------------------------+----------------------------+
-| Integumentary              | * Osteomyelitis              | * Gout                     |
-|                            | * NSTI                       | * Pseudogout               |
-+----------------------------+------------------------------+----------------------------+
-| Immunology                 |                              | * Transplant rejection     |
-|                            |                              | * Transfusion reaction     |
-|                            |                              | * Vasculitis               |
-+----------------------------+------------------------------+----------------------------+
-| Toxin and Environmental    |                              | * Alcohol withdrawal       |
-|                            |                              | * Drug fever               |
-+----------------------------+------------------------------+----------------------------+
-| Other                      |                              | * Post-operative           |
-|                            |                              | * IV contrast              |
-+----------------------------+------------------------------+----------------------------+
 
-: Causes of fever
++----------------------------+------------------------------+------------------------------------------------------------------------------------------------------+
+| System                     | Infectious                   | Non-Infectious                                                                                       |
++============================+==============================+======================================================================================================+
+| Respiratory                | * **Sinusitis**              | * Aspiration pneumonitis                                                                             |
+|                            | * Pharyngitis                | * ARDS                                                                                               |
+|                            | * Dental                     |                                                                                                      |
+|                            | * **Pneumonia**              |                                                                                                      |
++----------------------------+------------------------------+------------------------------------------------------------------------------------------------------+
+| Circulatory                | * Endocarditis               | * DVT/PE                                                                                             |
+|                            | * Myocarditis                | * Thrombophlebitis                                                                                   |
+|                            | * **Line infection**         | * Fat emboli                                                                                         |
+|                            | * Mediastinitis              |                                                                                                      |
+|                            | * **Blood stream infection** |                                                                                                      |
++----------------------------+------------------------------+------------------------------------------------------------------------------------------------------+
+| Neurological               | * Meningitis                 | * CVA                                                                                                |
+|                            | * Encephalitis               | * SAH                                                                                                |
+|                            | * Discitis                   | * TBI                                                                                                |
+|                            | * Epidural abscess           | * Hypothalamic injury\                                                                               |
+|                            | * Ventriculitis              | Impairment of thermoregulatory responses, giving risk of hyperthermia in a hot external environment. |
+|                            |                              | * Anti-NMDA receptor encephalitis                                                                    |
++----------------------------+------------------------------+------------------------------------------------------------------------------------------------------+
+| Endocrine and Metabolic    |                              | * Thyrotoxicosis                                                                                     |
+|                            |                              | * Thyroiditis                                                                                        |
+|                            |                              | * Adrenal insufficiency                                                                              |
+|                            |                              | * Ovulation                                                                                          |
++----------------------------+------------------------------+------------------------------------------------------------------------------------------------------+
+| Renal                      | * Pyelonephritis             |                                                                                                      |
+|                            | * Prostatitis                |                                                                                                      |
+|                            | * UTI\                       |                                                                                                      |
+|                            | Catheter-associated UTI.     |                                                                                                      |
++----------------------------+------------------------------+------------------------------------------------------------------------------------------------------+
+| Gastrointestinal           | * Oesophagitis               | * Mesenteric ischaemia                                                                               |
+|                            | * Pancreatitis               | * Acalculous cholecystitis                                                                           |
+|                            | * Bowel perforation          | * Pancreatitis                                                                                       |
+|                            | * Diverticulitis             | * GI bleed                                                                                           |
+|                            | * Colitis                    |                                                                                                      |
+|                            | * *C. difficile* colitis     |                                                                                                      |
+|                            | * Perianal abscess           |                                                                                                      |
++----------------------------+------------------------------+------------------------------------------------------------------------------------------------------+
+| Haematological/Oncological | * Malaria                    | * Lymphoma                                                                                           |
+|                            |                              | * TLS                                                                                                |
++----------------------------+------------------------------+------------------------------------------------------------------------------------------------------+
+| Integumentary              | * Osteomyelitis              | * Gout                                                                                               |
+|                            | * NSTI                       | * Pseudogout                                                                                         |
++----------------------------+------------------------------+------------------------------------------------------------------------------------------------------+
+| Immunology                 |                              | * Transplant rejection                                                                               |
+|                            |                              | * Transfusion reaction                                                                               |
+|                            |                              | * Vasculitis                                                                                         |
++----------------------------+------------------------------+------------------------------------------------------------------------------------------------------+
+| Toxin and Environmental    |                              | * Alcohol withdrawal                                                                                 |
+|                            |                              | * Drug fever                                                                                         |
++----------------------------+------------------------------+------------------------------------------------------------------------------------------------------+
+| Other                      |                              | * Post-operative                                                                                     |
+|                            |                              | * IV contrast                                                                                        |
++----------------------------+------------------------------+------------------------------------------------------------------------------------------------------+
 
-:::column-margin
-Non-infectious causes *generally* result in temperatures <39°C.
+: Causes of Fever
+
+
+## Non-Febrile Hyperthermia
+
+Non-febrile hyperthermia:
+
+* May **exceed 41°C**
+* **Not affected** by **antipyretics**\
+Aspirin, paracetamol.
+* **Active cooling not opposed** by shivering, rigors
+
++-----------------+--------------------------+
+| System          | Cause                    |
++=================+==========================+
+| Drug and Toxins | * Malignant hyperthermia |
+|                 | * Serotonin syndrome     |
+|                 | * NMS                    |
++-----------------+--------------------------+
+| Environmental   | * Heat injury            |
+|                 |                          |
+|                 |                          |
++-----------------+--------------------------+
+
+: Causes of Non-Febrile Hyperthermia
+
+
+## Investigation
+
+:::tick
+Temperature ≥38.3°C is a reasonable trigger to clinically reassess and consider cultures:
 :::
 
+Approach:
+
+* Blood cultures\
+Should be performed when a new fever does **not strongly suggest** a **noninfectious** cause.
+	* Culture any line in place >48 hours
+* Urine\
+Generally avoid unless:
+	* Neutropenic
+	* No IDC and suspicion of UTI
+	* Structural urological abnormality
+* Specific testing:
+	* C. difficile
+	* Paracentesis\
+	If ascites.
+	* DVT/PE evaluation
+	* EVD CSF culture\
+	If in situ.
+	* LP\
+	If suggestion of meningitis.
+
+
+Bedside:
+
+* Temperature measurement\
+Use the most accurate device available in the clinical situation. In descending order:
+	* Intravascular
+	* Oesophageal
+	* Bladder
+	* Rectal
+	* Oral
+	* Tympanic
+
+
+:::column-margin
+Axillary, temporal artery, and chemical dot thermometers should not be used in the critically ill.
+:::
+
+Laboratory:
+
+{{< include /includes/blood_cultures.qmd >}}
+
+Imaging:
+
+Other:
 
 ## Management
 
-Treatment of ↑ temperature is generally not indicated unless:
+:::info
 
-* Particular pathology
-	* Brain injury
-* Temperature >40°C
+:::
+
+**Specific therapy**:
+
+* Pharmacological
+	* Antipyretics\
+	Treatment of ↑ temperature is generally not indicated unless:
+		* Neurological injury
+		* Fever >40°C
+		* Worsening another clinical condition
+			* Delirium
+			* Myocardial ischaemia
+	* Antibiotics
+		* Suspected or confirmed infection
+		* Neutropaenic fever
+* Procedural
+	* Line change\
+	Consider in lines **>72 hours old**, particularly if other features of CLABSI or sepsis.
+* Physical
 	* Active external cooling\
 	Febrile patients may require paralysis to limit shivering with active cooling.
+
+
 
 
 
@@ -115,3 +214,5 @@ Treatment of ↑ temperature is generally not indicated unless:
 ## References
 
 1. Marik PE. [Fever in the ICU](https://journal.chestnet.org/article/S0012-3692(15)32748-3/pdf). Chest. 2000 Mar;117(3):855–69. 
+2. Stitt JT. [Fever versus hyperthermia](https://pubmed.ncbi.nlm.nih.gov/759237/). Fed Proc. 1979;38(1):39-43.
+2. O’Grady NP, Barie PS, Bartlett JG, et al. [Guidelines for evaluation of new fever in critically ill adult patients: 2008 update from the American College of Critical Care Medicine and the Infectious Diseases Society of America](https://journals.lww.com/ccmjournal/Fulltext/2008/04000/Guidelines_for_evaluation_of_new_fever_in.40.aspx). Critical Care Medicine. 2008;36(4):1330.

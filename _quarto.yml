@@ -745,6 +745,7 @@ book:
           chapters:
             - disease/git/gib.qmd 
             - disease/git/mesenteric_ischaemia.qmd
+            - disease/infective/c_diff.qmd
               # Oesophageal
               # Obstruction
               # Pseudoobstruction
@@ -854,7 +855,7 @@ book:
         - part: "Toxin"
           chapters:
             - disease/infective/tetanus.qmd
-            # TSS
+            - disease/infective/tss.qmd
             # Botulism
         # Toxins
       - part: "Toxin and Environmental"
@@ -945,10 +946,10 @@ book:
               # Pericardial
           - part: "Vascular"
             chapters:
+              - procedures/cvs/cvc.qmd
               - procedures/cvs/pac.qmd
               - procedures/cvs/transvenous.qmd
               # IV
-              # CVC
               # Arterial line
               # IO
       - part: "Other"

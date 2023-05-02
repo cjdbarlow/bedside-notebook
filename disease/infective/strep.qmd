@@ -1,4 +1,4 @@
-# Streptococci
+# Streptococci {#sec-strep}
 
 Ovoid gram positive organisms that come in pairs (diplococci) or chains, and are subdivided into:
 
@@ -16,6 +16,7 @@ No change around colonies. Includes (note can be also α-haemolytic):
 	* *S. bovis*
 	* *S. mutans*
 * **Enterococci**
+
 
 ## α-Haemolytic
 
@@ -41,8 +42,6 @@ No change around colonies. Includes (note can be also α-haemolytic):
 	* Otitis media
 	* Sinusitis
 	* Mastoiditis
-
-
 
 ## Lancefield Scheme
 
@@ -81,6 +80,10 @@ Complications include:
 * Rheumatic fever
 * Acute glomerulonephritis
 
+:::column-margin
+Streptococcal toxic shock is covered under @sec-toxic_shock.
+:::
+
 
 ### Group B
 
@@ -106,22 +109,86 @@ Risk ↓, but not eliminated by, caesarian section. Intrapartum antibiotics give
 Enterococci are:
 
 :::column-margin
-Enterococci were once considered **Group D** streptococci, but have broken out into their own genus based on DNA analysis and other things. They are included here for posterity and convenience.
+Enterococci were once considered **Group D** streptococci, but have broken out into their own genus based on DNA analysis and other things. They are included here for posterity and organisational convenience.
 :::
 
 * Normal gut flora 
 * May be α/β/γ-haemolytic
 * Can **survive** in **the presence of bile** and high-salt solutions\
 **And other detergents**, including cleaning chemicals.
-* Are naturally resistant to β-lactams, and commonly resistant to other agents
+* Are **naturally resistant** to **β-lactams** including **carbapenems**, and commonly resistant to other agents
 
 
 Enterococci include:
 
 * *E. faecalis*
-* *E. faecium*\
-Generally more resistant.
+	* Associated with immunocompromise:
+		* Critical illness
+		* Cancer
+		* Neutropaenia
+		* Steroids
+		* Renal failure
+	* Severe illness\
+	Bacteraemia **~50% mortality**.
+* *E. faecium*
+	* More resistant
+	* Less significant illness\
+	Bacteraemia ~10% mortality.
+	* Generally more resistant than *E. faecalis*\
+	More likely to be VRE.
 
+
+### Vancomycin Resistant Enterococcus
+
+Clinically significant enterococcus mutation that is:
+
+* Resistant to a most antibiotics\
+Due to the inherent resistance of *Enterococci* spp., in addition to the vancomycin resistance.
+* Divided by **van** gene expression into:
+	* VanA\
+	Teicoplanin resistant; extremely vancomycin resistant. Common in Australia.
+	* VanB\
+	Teicoplanin sensitive; moderate vancomycin resistance.
+* Able to **transfer resistance**:
+	* Between enterococci
+	* To ***S. Aureus***
+
+
+Risk factors:
+
+* Patient
+	* Age
+* Disease
+	* Critically unwell
+* Treatment
+	* Long hospital stay
+	* TPN/EN feeding
+	* CVC
+	* Transplant
+	* Haemodialysis
+	* Antibiotic exposure\
+	Anything that kills other gut flora, allowing enterococci to expand:
+		* Vancomycin
+		* 3^rd^ generation cephalosporins
+		* Anti-anaerobes
+	* Long duration of antibiotic therapy
+* Environment
+	* Proximity to other VRE patients
+		* Other VRE patients with diarrhoea
+	* Nursing home
+	* Extended hospitalisation
+
+:::column-margin
+Other van genes exist, they are less clinically relevant.
+:::
+
+Management:
+
+* Isolation
+* Contact precautions
+* Antimicrobials
+	* Linezolid
+	Daptomycin
 
 ## Management
 
