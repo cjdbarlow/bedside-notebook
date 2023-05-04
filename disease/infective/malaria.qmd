@@ -11,20 +11,27 @@
 
 ## Epidemiology and Risk Factors
 
-
 Risk factors for malaria:
 
 * Patient factors
 	* Age <3
 	* Non-immune
-	* Pregnant
 * Environmental factors
 	* Mosquito carrier\
-	Classically *anopheline*, which are:
+	Specifically the female *Anopheline* mosquito, which are:
 		* Night feeders\
 		Dawn to dusk is the most dangerous time.
 		* Rural breeders\
 		Generally ↓↓ risk in urban areas, even in endemic regions.
+
+
+Severe malaria associated iwth:
+
+* Children <5
+* Non-immune travelers
+* Immunosuppression
+	* Pregnant
+
 
 ## Pathophysiology
 
@@ -48,7 +55,32 @@ The erythrocytic stage is the disease-causing stage; sporozoites and gametocytes
 
 ## Clinical Manifestations
 
-Cyclical fevers are classical, and occur in **three stages**:
+Presentations are divided into:
+
+* Uncomplicated\
+Generic viral symptoms, progressing to classical cycling fevers.
+* Severe malaria\
+Progression to organ dysfunction, most common with *P. falciparum* infection.
+
++-------------------------+--------------------+
+| Uncomplicated           | Severe             |
++=========================+====================+
+| * Cyclical fever\       | * Pulmonary oedema |
+| In established disease. | * ARDS             |
+| * Headache              | * Septic shock\    |
+| * Jaundice              | Lactic acidosis.   |
+| * Hepatosplenomegaly    | * Coma             |
+| * Myalgia               | * Severe weakness\ |
+|                         | "Prostration."     |
+|                         | * AKI              |
+|                         | * Haemoglobinuria  |
+|                         | * Haemolysis       |
+|                         | * DIC              |
++-------------------------+--------------------+
+
+: Features of Malaria
+
+Cyclical fevers are the classical finding, and occur in **three stages**:
 
 :::column-margin
 Cyclical symptoms occur when maturing malarial schizonts rupture their erythrocyte host, the timing of which varies on the strain:
@@ -69,25 +101,7 @@ Falciparum is typically every 48 hours, but shows can be irregular.
 * 15-60 minutes cold shivering 
 * 2-6 hour fever (up to 41°C)  
 * 2-4 hour sweating\           
-↓ Temperature.                 
-
-+-------------------------+--------------------+
-| Uncomplicated           | Severe             |
-+=========================+====================+
-| * Cyclical fever\       | * Pulmonary oedema |
-| In established disease. | * ARDS             |
-| * Headache              | * Septic shock\    |
-| * Jaundice              | Lactic acidosis.   |
-| * Hepatosplenomegally   | * Coma             |
-| * Myalgia               | * Weakness\        |
-|                         | "Prostration."     |
-|                         | * AKI              |
-|                         | * Haemoglobinuria  |
-|                         | * Haemolysis       |
-|                         | * DIC              |
-+-------------------------+--------------------+
-
-: Features of Malaria
+Normalisation of temperature.                 
 
 
 ## Diagnostic Approach and DDx
@@ -107,7 +121,8 @@ Laboratory:
 	* Blood smears\
 	**Thick and thin films** are gold standard of diagnosis:
 		* Thin films identify parasites within red cells
-		* Thick films allow parasite counting
+		* Thick films allow parasite counting\
+		\>10% is an indicator of severe disease.
 	* Rapid diagnostic tests\
 	Look for parasite-specific antigen. Qualitative evidence of disease.
 	* Malaria PCR\
@@ -124,20 +139,35 @@ Other:
 
 ## Management
 
-**Resuscitation**:\
+:::info
+Principles:
 
-ABC approach. Comment on team coordination and clinical priorities.
+* Preventative antimalarials when visiting endemic areas
+* Standard sepsis management\
+Covered under @sec-sepsis_mx.
+* Antimalarials
+:::
+
+**Resuscitation**:
+
+* C
+	* Fluid boluses ↑ mortality in children
+
+
 **Specific therapy**:
 
 * Pharmacological
-* Procedural
-* Physical
+	* **Antimalarials**
+		* Combination therapy recommended due to *P. falciparum* resistance
+		* Chloroquines kill mature parasites, immature parasites mature despite ongoing treatment
 
-**Supportive care**:
-
-**Disposition**:
 
 **Preventative**:
+
+* Pharmacological
+	* Malarial prophylaxis
+* Physical
+	* Mosquito nets
 
 
 ### Marginal and Ineffective Therapies
@@ -146,6 +176,8 @@ ABC approach. Comment on team coordination and clinical priorities.
 Worsen outcome.
 * IVIG\
 Worsen outcome.
+* Exchange transfusion\
+Cytapheresis with replacement of native RBCs with donor RBCs, sometimes used if >10% parasitaemia. No indication of mortality benefit.
 
 
 ## Anaesthetic Considerations
@@ -158,8 +190,15 @@ Worsen outcome.
 	* Septic shock
 * D
 	* Cerebral malaria\
-		* Mental status abnormality in a patient with malaria
-		* Due to obstruction of cerebral capillary blood flow
+	Mental status abnormality in a patient with malaria without another cause.
+		* Due to obstruction of cerebral capillary blood flow, or efffect of malarial toxin
+		* Coma
+		* Convulsions
+		* ↑ ICP
+		* ↓ BSL
+		* Tone and postural abnormalties\
+		Symmetrical pyramidal signs.
+		* Retinopathy
 		* 15-50% mortality
 * E
 	* Hypoglycaemia
@@ -184,9 +223,13 @@ Death associated with:
 
 ## Key Studies
 
+* FEAST
+
 
 ---
 
 ## References
 
 1. Crutcher JM, Hoffman SL. [Malaria](https://www.ncbi.nlm.nih.gov/books/NBK8584/). In: Baron S, editor. Medical Microbiology [Internet]. 4th ed. Galveston (TX): University of Texas Medical Branch at Galveston; 1996 [cited 2023 May 1].
+2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+3. Harvey RA, Cornelissen CN, Fisher BD. Lippincott Illustrated Reviews: Microbiology (Lippincott Illustrated Reviews Series). 3rd Ed. LWW.

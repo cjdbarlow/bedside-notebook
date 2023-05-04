@@ -24,6 +24,14 @@ Child-Pugh score is covered under @sec-childpugh.
 
 ## Pathophysiology
 
+Major factors:
+
+* Ascites is a ready-made, continuously available viable culture medium
+* Immunosuppression secondary to chronic liver disease
+* **Single organism** indicates SBP\
+**Multiple organisms** suggests faecal contamination or **secondary peritonitis**, which is generally a surgical disease.
+
+
 ### Aetiology
 
 Causative organisms:
@@ -57,19 +65,29 @@ Asymptomatic in ~10%.
 Mortality approaches 80% if an unnecessary laparotomy is performed, so it is vital to distinguish SBP from secondary peritonitis.
 :::
 
-
 Key differentials:
 
-* Secondary peritonitis
-	* Bowel perforation
+* Secondary peritonitis\
+Indicated by:
+	* Peritonism
+	* Localising abdominal pain
+	* Multiple organisms on Gram stain
+	* Failure of antibiotic therapy
+	* Ascitic fluid findings\
+	Two of:
+		* Protein >1g/dL
+		* Glucose <3mmol/L
+		* LDH > ULN serum LDH
+
 
 ## Investigations
 
-Pathology:
+Laboratory:
 
 * Ascitic tap\
 Required for diagnosis.
 	* Usually **low** bacterial **concentrations** of a **single organism**
+	* Consider using a micropuncture kit (e.g. 21G spinal needle) to ↓ risk of continual leak from puncture site
 	* 10-20mL should be placed into blood culture bottles to increase yield
 	* Diagnostic criteria:
 		* WCC >250/mm^3^
@@ -78,27 +96,33 @@ Required for diagnosis.
 	* Paracentesis should be repeated at 48 hours after microbial therapy
 
 :::column-margin
-Multiple bacteria suggest faecal contamination.
+Cirrhotic patients with large volume ascites should be tapped on ICU admission irrespective of their admission diagnosis, as ~10% will be complicated with SBP
 :::
+
+Imaging:
+
+* CT\
+If concern for secondary peritonitis.
 
 ## Management
 
 **Specific therapy**:
 
 * Pharmacological
-	* Antibiotics
+	* Antibiotics\
+	Choice is contextual, however:
 		* Ceftriaxone 2g IV daily
 		* Tazocin 4.5g IV TDS\
 		If resistant species.
 	* 20% Albumin
 		* ↓ AKI
 		* Substantial ↓ mortality by ↓ hepatorenal syndrome
-* Procedural
-* Physical
-
 
 **Supportive care**:
 
+* C
+	* Cease β-blockade\
+	Many patients will be on propranolol for variceal haemorrhage prophylaxis, which will ↓ CO in the septic state.
 * G
 	* Feeding
 		* ↓ Bacterial translocation

@@ -114,7 +114,24 @@ And other viruses.
 
 ## Investigations
 
-Radiology:
+Laboratory:
+
+:::column-margin
+Amylase has been replace by lipase and has no further role in diagnosis of pancreatitis.
+::
+
+* Blood
+	* Lipase\
+	90% sensitive and specific for acute disease.
+		* Elevations from non-pancreatic causes are typically <3x ULN
+	* LFTs\
+	For biliary obstruction.
+	* Triglycerides\
+	\>1000 mg/dL diagnostic of hypertriglyceridaemic pancreatitis, absent other causes.
+	* Calcium
+
+
+Imaging:
 
 * Contrast CT
 	* Pancreatitis\
@@ -123,7 +140,8 @@ Radiology:
 * Ultrasound
 	* Usually limited by bowel gas
 	* Cannot quantify necrosis
-	* Provides assessment of biliary tree
+	* Provides assessment of biliary tree\
+	CBD dilation most important finding.
 	* May provide guidance for needle aspiration
 
 ## Management
@@ -140,6 +158,7 @@ Surgical management of pancreatitis is associated with very high mortality; trea
 		* \>10mL/kg associated with ↑ ARDS and ↑ abdominal compartment syndrome
 	* Haemodynamic support
 
+
 **Specific therapy**:
 
 :::column-margin
@@ -147,11 +166,15 @@ Carbapenems have exceptional penetration into pancreatic tissue, and are effecti
 :::
 
 * Pharmacological
-	* Antibiotics\
+	* **Antibiotics**\
 		* Low threshold for IV antibiotics if suspecting infected collection
 		* Prophylactic antimicrobials *may* have a role in severe disease
 	* NSAIDs\
 	Appropriate post-ERCP in mild gallstone pancreatitis as analgesics and may ↓ severity.
+	* Insulin/dextrose\
+	If hypertriglyceridaemia.
+		* Goal is to promote anabolism
+		* Effect achieve when enough insulin is provided such that the BSL does not rise in the face of dextrose infusion
 * Procedural
 	* Open necrosectomy\
 		* **Infected** collections should be managed **non-operatively** for **>4 weeks** to allow fibrous walls and liquefaction to occur
@@ -167,6 +190,8 @@ Carbapenems have exceptional penetration into pancreatic tissue, and are effecti
 			* More severe disease should be stabilised first
 		* ERCP
 			* ↓ Morbidity and mortality in **mild** gallstone pancreatitis
+	* Plasmapheresis\
+	For hypertriglyceridaemia, with very little supportive evidence.
 
 
 **Supportive care**:
@@ -182,10 +207,17 @@ Many patients malnourished on presentation.
 
 * G
 	* Feeding\
-		* EN should be started once hyperacute inflammation ceases
-		* PN indicated only if EN fails or is contraindicated\
-		EN ↓ infection, organ failure, and mortality compared with PN.
-		* NJ feeding may be preferable to NG to avoid ↑ pancreatic secretion
+		* If non-intubated:
+			* Oral diet as clinically tolerated
+		* If intubated:
+			* EN should be started once resuscitation finished
+			* PN indicated only if EN fails or is contraindicated\
+			EN ↓ infection, organ failure, and mortality compared with PN.
+			* NJ feeding may be preferable to NG to avoid ↑ pancreatic secretion
+		* If hypertriglyceridaemic:
+			* Zero-fat diet initially
+			* Low-fat diet once triglycerides normal
+
 
 **Disposition**:
 
@@ -227,10 +259,14 @@ Interventions aimed to ↓ protease secretion are also without evidence, and inc
 	Do not merit surgical intervention unless:
 		* Gastric outflow obstruction
 		* Biliary obstruction
-	* Pancreatic abscess\
+	* **Infected necrosis**
+		* Usually arise at **10-14 days**
+		* Carbapenem or tazocin preferable for good solid organ penetration
+	* **Pancreatic abscess**\
 	Infected collections are a major contributor to morbidity and mortality.
-		* Usually arise 4 weeks after severe pancreatitis
+		* Usually arise at **4 weeks**
 		* Amenable to percutaneous drainage
+
 
 ## Prognosis
 

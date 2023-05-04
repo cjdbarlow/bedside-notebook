@@ -1,0 +1,107 @@
+# Dengue
+
+Flavivirus infection endemic to equatorial regions, and classified into:
+
+* **Dengue without warning signs**
+* **Dengue with warning signs**
+	* Abdominal pain
+	* Tenderness
+	* Coagulopathy
+* **Severe dengue**
+	* Shock
+	* Organ dysfunction
+	* Severe haemorrhage
+
+
+## Epidemiology and Risk Factors
+
+Epidemiology:
+
+* Endemic in south-east Asia, sub-Saharan Africa, and parts of South America
+* ~10% of cases require hospitalisation\
+\>90% of hospitalisations are children.
+
+
+## Pathophysiology
+
+Single-stranded RNA genome with three structural proteins, divided into **four serotypes**. Infection leads to:
+
+* ~7 day viraemia
+* Immunity to that subtype, but not other serotypes\
+Reinfection can occur with another serotype, and the resulting **secondary infection** is **more severe** than the primary one.
+
+
+### Aetiology
+
+Transmitted by the *Aedes* mosquito, with two different patterns of outbreak:
+
+* Epidemic due to spread of dengue to a naive region
+* Endemic circulation of a variety of different dengue subtypes
+
+## Clinical Manifestations
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+Bedside:
+
+* **Tourniquet test**\
+Marker of capillary fragility:
+	* Inflate BP cuff to midway between systolic and diastolic pressure for 2 minutes
+	* Deflate for 2 minutes
+	* Count petechiae below the ACF
+	* A positive test is >10 petechiae per square inch
+
+Laboratory:
+
+* Blood
+	* FBE
+		* Haemoconcentration
+		* Thrombocytopaenia
+		* Leukopaenia
+	* LFT
+		* ↑ AST
+	* IgM serology
+	* Viral PCR
+	
+
+Imaging:
+
+Other:
+
+## Management
+
+**Resuscitation**:\
+
+ABC approach. Comment on team coordination and clinical priorities.
+**Specific therapy**:
+
+* Pharmacological
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+2. Harvey RA, Cornelissen CN, Fisher BD. Lippincott Illustrated Reviews: Microbiology (Lippincott Illustrated Reviews Series). 3rd Ed. LWW.

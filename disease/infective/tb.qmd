@@ -1,6 +1,6 @@
 # Tuberculosis
 
- manifestations that may draw attention of intensive care include:
+Devastating mycobacterial disease that with substantial global morbidity and mortality. Tuberculosis manifestations that may draw attention of intensive care include:
 
 * Pulmonary TB
 * Miliary TB\
@@ -25,53 +25,161 @@ Risk factors:
 
 ## Pathophysiology
 
+Mycobacterial tubercule is a fastidious mycobacterium, **inhalation** of which leads to one of **four** outcomes:
+
+* **Immediate clearance**\
+No lasting consequences.
+* **Primary\progressive disease**\
+Results in pulmonary infection, with or without lymphohaematogenous seeding to distant sites.
+     * Occasionally leads to:
+        * Miliary TB
+        * Cerebral TB
+* **Chronic\latent infection**
+* **Secondary\Reactivation TB**\
+Occurs when dormant mycobacteria reactivate.
+    * Secondary **pulmonary disease** develops **apical lesions** that undergo **caseation necrosis**\
+    Leads to **cavitation** with surrounding fibrosis.
+        * Caseous soup drains into bronchi, stimulating coughing which facilitates spread to other:
+            * Parts of the lung
+            * People 
+    * **Meningeal disease** develops due to **haematogenous spread**\
+    Characterised histologically by gelatinous exudate around fissures.
+
+
 ### Aetiology
+
+Five members of the mycobacterium complex are responsible:
+
+* ***M. tuberculosis***
+* *M. bovis*
+* *M. africanum*
+* *M. microti*
+* *M. canetti*
 
 ## Clinical Manifestations
 
-Systemic:
+Non-specific systemic features include:
 
-* Fever
-* Sweating
-* Weight loss
+* **Fever**
+* Sweating\
+**Night sweats**.
+* **Weight loss**
 * Anorexia
 
-Respiratory:
 
-* Productive cough
+### Primary Pulmonary Tuberculosis
+
+Primary disease is:
+
+* **Asymptomatic in 90%**
+* More common in children and the immunocompromised
+    * HIV
+* Characterised by:
+    * **Hilar lymphadenopathy**
+    * Pulmonary consolidation
+
+
+### Secondary Pulmonary Tuberculosis
+
+Most pulmonary TB and is generally:
+
+* Due to either **reactivation** or **reinfection**
+* Seen in adults
+* Characterised by:
+    * **Apical infiltrates**\
+        * Apical crepitations
+        * Persistent pnuemonias
+    * Cavitation\
+    Localised wheezing.
+    * Coughing
+
+
+Advanced features include:
+
 * Dyspnoea
-* Localised wheezing
-* Apical crepitations
-* Persistent pneumonias
-* Spontaneous pneumothorax
+* Haemoptysis
+* Pneumothorax\
+Rupture of cavity into pleura.
 * Pleural effusions
+
+
+### Tuberculosis Meningitis
+
+Meningitic infection secondary to haematogenous spread, characterised by:
+
+* Vague 2-8 week prodrome of generalised unwellness
+* Subacute meningitis\
+Often without neck stiffness.
+* Cranial nerve palsies\
+20-25%.
+* Focal neurological deficit
+* Global deficit\
+Late signs.
+    * Seizures
+    * Coma
+
 
 ## Diagnostic Approach and DDx
 
 ## Investigations
 
-Radiology:
+Bedside:
+
+* Bronchoscopy:
+    * BAL
+    * Bronchial biopsy\
+    May be indicated if high clinical suspicion and negative smear. 
+
+
+Laboratory:
+
+:::column-margin
+**Acid-fast** refers to bacilli that have waxy (classically mycolic acids) substances in their cell wall, which retain a carbolfuchsin stain after being washed in an acidic solution.\
+\
+The classic acid-fast stain is the **Ziehl-Neelsen** stain.
+:::
+
+* Nucleic acid amplification\
+Amplifies known sections of DNA:
+    * Available for fluid samples, including sputum
+    * Moderately sensitive and highly specific
+    * Can rapidly confirm diagnosis and presence of rifampicin resistance
+    * Can differentiate *M. tuberculosis* from other mycobacteria
+* Sputum
+    * Exceedingly difficult to culture
+    * Multiple samples should be collected across different days
+    * Request:
+        * Fluorescent microscopy for acid-fast bacilli
+        * Culture
+        * Adenosine deaminase
+* Pleural fluid
+    * Culture\
+    Negative in >75% of cases.
+    * Adenosine deaminase\
+    \>70/L favours TB; and may justify commencing treatment with high enough clinical suspicion.
+* CSF\
+    * Culture ~70% positive in meningeal disease.
+    * Adenosine deaminase
+
+
+Imaging:
 
 * CXR\
 Very sensitive and a normal CXR almost excludes TB, except in:
     * HIV +ve patients
     * Early apical disease
-
- 
-Sputum:
-
-* Exceedingly difficult to culture
-* Multiple samples should be collected across different days
-* Request:
-    * Fluorescent microscopy for AFB
-    * Culture
-
-  \
-Bronchoscopy:
-
-* BAL
-* Bronchial biopsy\
-May be indicated if high clinical suspicion and negative smear. 
+* CT Chest\
+More sensitive than plain film for identifying:
+    * Cavities
+    * Lymphadenopathy
+    * Bronchiectasis
+    * Bronchopleural fistulae
+    * Effusions
+* CT Brain\
+Sensitive and not specific, features include:
+    * Meningeal thickening with contrast enhancement
+    * Tuberculomas
+    * Hydrocephalus
 
 
 ## Management
@@ -79,7 +187,7 @@ May be indicated if high clinical suspicion and negative smear.
 **Specific therapy**:
 
 * Pharmacological\
-Combination of **4 antimicrobials** requried for treatment, divided into:
+Local guideline and advice should be sort, particularly for resistant disease. The classical treatment of sensitive TB is a combination of **4 antimicrobials**:
     * Initial phase\
     8 weeks of:
         * Rifampacin 450-600mg daily
@@ -87,7 +195,10 @@ Combination of **4 antimicrobials** requried for treatment, divided into:
         * Pyrazinamide 1.5-2g daily
         * Ethambutol 15mg/kg daily\
         May cause visual disturbances; should be restricted to patients with reasonable acuity and ability to report disturbances.
-    * Continuation phase
+    * Continuation phase\
+    4 months of:
+        * Rifampicin
+        * Isoniazid
 * Physical
     * Infection control measures
         * Treat as contagious if:
@@ -114,9 +225,22 @@ Patients admitted to ICU generally have either:
 * Death
     * 25% in those requiring ICU
     * 50% in those requiring mechanical ventilation
+* B
+    * Pneumothorax
+    * Pleural effusion
+* D
+    * Hydrocephalus
+    * Seizures
+    * Coma
 
 
 ## Prognosis
+
+Depends on the primary manifestation:
+
+* Pulmonary disease
+* Meningitis\
+~50% mortality.
 
 
 ## Key Studies

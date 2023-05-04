@@ -837,6 +837,7 @@ book:
           chapters:
             - disease/infective/hiv.qmd
             - disease/infective/cmv.qmd
+            - disease/infective/dengue.qmd
         - part: "Bacterial"
           chapters:
             - disease/infective/staph.qmd
