@@ -116,13 +116,13 @@ Impending respiratory failure suggested on PFTs by:
 * Max expiratory pressure <40 cmH~2~0
 :::
 
-Bedside:
+**Bedside**:
 
-Laboratory:
+**Laboratory**:
 
-Imaging:
+**Laboratory**:
 
-Other:
+**Other**:
 
 * LP
 	* ↑ CSF protein >0.4g/dL\
@@ -134,9 +134,7 @@ Other:
 
 ## Management
 
-:::info
-Principles:
-
+:::priority
 * Early immunotherapy with either:
 	* Immunoglobulin
 	* Plasma exchange

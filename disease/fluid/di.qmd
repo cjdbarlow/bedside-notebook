@@ -124,9 +124,9 @@ Nephrogenic DI:
 
 ## Investigations
 
-Bedside:
+**Bedside**:
 
-Laboratory:
+**Laboratory**:
 
 * Blood
 	* UEC
@@ -145,7 +145,7 @@ Partial absence of ADH may lead to ~3L/day of moderately dilute (500-800mOsmol/k
 :::
 
 
-Imaging:
+**Laboratory**:
 
 * MRI\
 Investigation of hypothalamic or pituitary injury and likelihood of recovery.
@@ -154,15 +154,13 @@ Investigation of hypothalamic or pituitary injury and likelihood of recovery.
 Hypothalamic lesions are less likely to recover than pituitary injuries.
 :::
 
-Other:
+**Other**:
 
 * Water deprivation test
 
 ## Management
 
-:::info
-Principles:
-
+:::priority
 * Correction of hypernatraemia
 * Correction of volume state
 * Correction of underlying ADH deficiency

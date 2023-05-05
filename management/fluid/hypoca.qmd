@@ -71,11 +71,11 @@ Chvostek’s sign - tapping the parotid gland over the facial nerve to induce fa
 
 ## Investigations
 
-Bedside:
+**Bedside**:
 
 * ABG
 
-Laboratory:
+**Laboratory**:
 
 :::column-margin
 {{< include /includes/calcium_correction.qmd >}}
@@ -95,7 +95,7 @@ Laboratory:
 		Phosphate also chelates calcium, which may contribute to ↓ calcium.
 		* ↓ Phosphate associated with secondary hypoparathyroidism
 
-Other:
+**Other**:
 
 * ECG\
 Long QT, TDP.

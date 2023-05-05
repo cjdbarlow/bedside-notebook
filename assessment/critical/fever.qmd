@@ -154,7 +154,7 @@ Generally avoid unless:
 	If suggestion of meningitis.
 
 
-Bedside:
+**Bedside**:
 
 * Temperature measurement\
 Use the most accurate device available in the clinical situation. In descending order:
@@ -170,13 +170,13 @@ Use the most accurate device available in the clinical situation. In descending 
 Axillary, temporal artery, and chemical dot thermometers should not be used in the critically ill.
 :::
 
-Laboratory:
+**Laboratory**:
 
 {{< include /includes/blood_cultures.qmd >}}
 
-Imaging:
+**Laboratory**:
 
-Other:
+**Other**:
 
 ## Management
 

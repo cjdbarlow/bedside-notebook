@@ -186,9 +186,9 @@ NB: Kernig's sign is neither sensitive or specific of meningeal irritation.
 
 ## Investigations
 
-Bedside:
+**Bedside**:
 
-Laboratory:
+**Laboratory**:
 
 :::column-margin
 Details of CSF findings in meningitis are covered under @sec-csf.
@@ -219,7 +219,7 @@ Details of CSF findings in meningitis are covered under @sec-csf.
 
 
 
-Imaging:
+**Laboratory**:
 
 :::column-margin
 Indications for pre-LP CT:
@@ -237,7 +237,7 @@ Indications for pre-LP CT:
 ↑ ICP or space-occupying lesion.
 
 
-Other:
+**Other**:
 
 ## Management
 

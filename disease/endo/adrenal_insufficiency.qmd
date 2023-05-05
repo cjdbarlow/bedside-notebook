@@ -118,14 +118,14 @@ Only disease with ↑ ACTH production.
 
 ## Investigations
 
-Bedside:
+**Bedside**:
 
 * ABG
 	* NAGMA
 	* Hyponatraemia
 	* Hyperkalaemia
 
-Laboratory:
+**Laboratory**:
 
 * Blood
 	* FBE
@@ -145,9 +145,9 @@ Laboratory:
 			* Dexamethasone can be used as an alternative steroid if planning the test
 
 
-Imaging:
+**Laboratory**:
 
-Other:
+**Other**:
 
 ## Management
 

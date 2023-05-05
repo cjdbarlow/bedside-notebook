@@ -255,7 +255,7 @@ Differential diagnoses include:
 
 ## Investigations
 
-Laboratory:
+**Laboratory**:
 
 * Bloods
 	* Tryptase\
@@ -266,7 +266,7 @@ Laboratory:
 	* RAST testing\
 	Measurement of level of allergen-specific IgE antibody.
 
-Other:
+**Other**:
 
 * Skin testing\
 Test of degree of histamine release on exposure to certain agents.

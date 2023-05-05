@@ -111,7 +111,7 @@ Headache may occur without other symptoms, and patients may not seek medical att
 
 ## Investigations
 
-Laboratory:
+**Laboratory**:
 
 * LP\
 Recommended if negative or equivocal CT in the setting of high clinical suspicion. Important findings: 
@@ -124,7 +124,7 @@ Recommended if negative or equivocal CT in the setting of high clinical suspicio
 		* Spectrophotometry\
 		Superior to visual inspection.
 
-Imaging:
+**Laboratory**:
 
 * Non-contrast CT head\
 	* Sensitivity ↑ from 93% to 100% over 6 hours, and falls to 60% over the next 7 days.
@@ -142,7 +142,7 @@ Used to monitor for vasospasm.
 	Mean velocity in the MCA/mean velocity in ipsilateral ICA.
 
 
-Other:
+**Other**:
 
 * EEG\
 Consider continuous EEG monitoring in patients who

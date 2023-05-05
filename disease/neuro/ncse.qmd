@@ -124,7 +124,7 @@ Differentials include:
 
 ## Investigations
 
-Bedside:
+**Bedside**:
 
 * ABG\
 Hypoglycaemia, basic electrolytes.
@@ -139,7 +139,7 @@ Lab:
 	* Meningitis
 	* Non-infective encephalitis
 
-Other:
+**Other**:
 
 * EEG
 	* No pathognomic findings

@@ -135,10 +135,11 @@ Classically, "stones, bones, groans, and psychic moans."
 
 ## Investigations
 
-Bedside:
-	* ABG
+**Bedside**:
 
-Laboratory:
+* ABG
+
+**Laboratory**:
 
 :::column-margin
 {{< include /includes/calcium_correction.qmd >}}
@@ -158,7 +159,7 @@ Laboratory:
 	Rule out vitamin D intoxication.
 	* TSH
 
-Other:
+**Other**:
 
 * Urinary calcium\
 Hypercalciuria usually precedes hypercalcaemia, as hypercalcaemia only occurs when renal elimination is overwhelmed.

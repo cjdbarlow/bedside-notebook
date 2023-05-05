@@ -190,14 +190,14 @@ Determination of pseudo-seizures can be difficult and is best confirmed with EEG
 
 ## Investigations
 
-Bedside:
+**Bedside**:
 
 * ABG
 	* Lactate
 	* BSL
 
 
-Laboratory:
+**Laboratory**:
 
 * Blood
 	* FBE/Coagulation assay
@@ -215,7 +215,7 @@ If consideration of:
 	* Autoimmune encephalitis
 
 
-Imaging:
+**Laboratory**:
 
 * CXR\
 Aspiration.
@@ -223,7 +223,7 @@ Aspiration.
 Investigation of structural cause.
 
 
-Other:
+**Other**:
 
 * EEG
 	* Diagnostic

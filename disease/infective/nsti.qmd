@@ -88,13 +88,13 @@ Associated with gas-forming organism infection (generally *Clostridia*, classica
 
 ## Investigations
 
-Bedside:
+**Bedside**:
 
 * ABG
 	* Lactic acidosis
 
 
-Laboratory:
+**Laboratory**:
 
 * Bloods
 	* FBE
@@ -105,7 +105,7 @@ Laboratory:
 		* DIC
 
 
-Imaging:
+**Laboratory**:
 
 * XR
 	* Gas in soft tissue planes
@@ -122,7 +122,7 @@ Imaging:
 	* Hyperintense T2 signal in muscles
 
 
-Other:
+**Other**:
 
 * Operative findings
 	* Gray necrotic fascia
@@ -133,9 +133,7 @@ Other:
 
 ## Management
 
-:::info
-Principles:
-
+:::priority
 * Standard sepsis resuscitation
 * Aggressive, early, surgical debridement
 * Broad spectrum antibiotics with Streptococcal cover

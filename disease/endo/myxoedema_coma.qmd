@@ -68,13 +68,13 @@ Typically presents with **pre-existing untreated** (or undiagnosed) **hypothyroi
 
 ## Investigations
 
-Bedside:
+**Bedside**:
 
 * ABG
 	* Respiratory alkalosis\
 	Due to ↓ metabolic rate and ↓ CO~2~ production.
 
-Laboratory:
+**Laboratory**:
 
 * Blood
 	* FBE
@@ -93,15 +93,13 @@ Laboratory:
 	Prior to commencing hydrocortisone.
 
 
-Imaging:
+**Laboratory**:
 
-Other:
+**Other**:
 
 ## Management
 
-:::info
-Principles:
-
+:::priority
 * Replace thyroid hormone\
 Note that **rapid replacement** may **precipitate** cardiac **ischaemia** and malignant **arrhythmias**.
 * Replace adrenal hormone

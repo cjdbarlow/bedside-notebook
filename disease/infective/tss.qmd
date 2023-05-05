@@ -61,6 +61,7 @@ Up to 20% of T-cells may respond, compared to ~0.01% that usually respond to ant
 	* Interferon-γ
 	* TNF-α
 
+
 ### Aetiology
 
 Streptococcal toxic shock occurs with **invasive** streptococcal infection, including:
@@ -135,7 +136,7 @@ The US CDC has published diagnostic criteria, which are not reproduced here as t
 
 ## Investigations
 
-Laboratory:
+**Laboratory**:
 
 * Blood
 	* FBE
@@ -157,9 +158,7 @@ CK may also be ↑ in necrotising fasciitis.
 
 ## Management
 
-:::info
-Principles:
-
+:::priority
 * Good sepsis resuscitation\
 Covered under @sec-sepsis_mx.
 * Specific therapy for toxic shock is relatively benign and a low-threshold to initiate it is appropriate:

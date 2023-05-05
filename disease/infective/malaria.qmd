@@ -108,9 +108,9 @@ Normalisation of temperature.
 
 ## Investigations
 
-Bedside:
+**Bedside**:
 
-Laboratory:
+**Laboratory**:
 
 * Blood
 	* FBE
@@ -133,15 +133,13 @@ Laboratory:
 Thick and thin films refer to the thickness of the blood on the slide.
 :::
 
-Imaging:
+**Laboratory**:
 
-Other:
+**Other**:
 
 ## Management
 
-:::info
-Principles:
-
+:::priority
 * Preventative antimalarials when visiting endemic areas
 * Standard sepsis management\
 Covered under @sec-sepsis_mx.

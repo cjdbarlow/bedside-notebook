@@ -84,7 +84,7 @@ Placental abruption is classified by:
 
 Maternal investigations are targeted towards assessing extent and consequences of haemorrhage. Investigations will depend on bleeding:
 
-Laboratory:
+**Laboratory**:
 
 * Bloods
 	* FBE
@@ -98,7 +98,7 @@ Laboratory:
 	For Rh- mothers, to quantify extent of FMH.
 
 
-Other:
+**Other**:
 
 * CTG
 	* Once mother stable or resuscitation commenced

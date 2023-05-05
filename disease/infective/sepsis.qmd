@@ -152,7 +152,7 @@ The qSOFA is a quick screening tool to identify patients who should be *consider
 
 ## Investigations
 
-Laboratory:
+**Laboratory**:
 	* Blood
 		* CRP
 			* Non-specific marker of inflammation
@@ -321,7 +321,7 @@ CRRT with Polymyxin B bound to the filter, which binds bacterial endotoxin.
 CRRT with larger pores, allowing filtration of middle-molecular weight proteins which include pro- and anti-inflammatory cytokines.
 
 
-Other:
+**Other**:
 
 * Hydroxy-ethyl starch resuscitation fluids\
 ↑ AKI and mortality.
@@ -453,7 +453,7 @@ The rationale for Vitamin C is that:
 * Vitamin C has antioxidant effects that may alleviate some oxidative stress
 :::
 
-Other:
+**Other**:
 
 * [CandiSep](https://link.springer.com/article/10.1007/s00134-022-06733-x)
 	* 342 Adults with sepsis at risk of invasive candidiasis, but without proven fungal infection and not on fungal treatment

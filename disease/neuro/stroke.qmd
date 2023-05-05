@@ -256,13 +256,13 @@ More gradual onset.
 
 ## Investigations
 
-Bedside:
+**Bedside**:
 
 * BSL
 * ECG\
 Screen for AF.
 
-Laboratory:
+**Laboratory**:
 
 * Blood
 	* FBE\
@@ -276,7 +276,7 @@ Laboratory:
 	* Pregnancy
 
 
-Imaging:
+**Laboratory**:
 
 :::column-margin
 CT non-con should be repeated 24 hours after perfusion therapy to evaluate for complications.

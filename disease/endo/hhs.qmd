@@ -49,24 +49,22 @@ Features include:
 
 ## Investigations
 
-Bedside:
+**Bedside**:
 
 * ABG
 	* ↑ BSL
 
-Laboratory:
+**Laboratory**:
 
 * Osmolality
 
-Imaging:
+**Laboratory**:
 
-Other:
+**Other**:
 
 ## Management
 
-:::info
-Goals:
-
+:::priority
 * Fluid resuscitation\
 Restore circulating volume and correct osmolarity.
 * Insulin administration

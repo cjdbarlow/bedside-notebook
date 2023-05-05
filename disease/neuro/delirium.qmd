@@ -116,19 +116,17 @@ The CAM-ICU score is:
 
 ## Investigations
 
-Bedside:
+**Bedside**:
 
-Laboratory:
+**Laboratory**:
 
-Imaging:
+**Laboratory**:
 
-Other:
+**Other**:
 
 ## Management
 
-:::info
-Principles:
-
+:::priority
 * Maximise preventative interventions\
 Predominantly non-pharmacological.
 * Correct cause

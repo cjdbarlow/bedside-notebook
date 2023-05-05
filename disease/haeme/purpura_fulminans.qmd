@@ -100,9 +100,9 @@ Key differentials:
 
 ## Investigations
 
-Bedside:
+**Bedside**:
 
-Laboratory:
+**Laboratory**:
 
 * FBE
 	* Thrombocytopaenia
@@ -115,15 +115,13 @@ Significantly ↑.
 * Protein C\
 \<40% normal.
 
-Imaging:
+**Laboratory**:
 
-Other:
+**Other**:
 
 ## Management
 
-:::info
-Principles:
-
+:::priority
 * Treat underlying cause
 * Consider anticoagulation
 :::

@@ -93,13 +93,13 @@ Intro and technique
 
 ## Investigations
 
-Bedside:
+**Bedside**:
 
-Laboratory:
+**Laboratory**:
 
-Imaging:
+**Laboratory**:
 
-Other:
+**Other**:
 
 ## Management
 

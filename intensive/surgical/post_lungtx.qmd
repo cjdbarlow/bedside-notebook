@@ -27,19 +27,17 @@ Donor lungs:
 
 ## Investigations
 
-Bedside:
+**Bedside**:
 
-Laboratory:
+**Laboratory**:
 
-Imaging:
+**Laboratory**:
 
-Other:
+**Other**:
 
 ## Management
 
-:::info
-Principles:
-
+:::priority
 * Optimise lung function
 	* Rapid respiratory wean
 	* Minimise fluid administration

@@ -33,9 +33,9 @@ Two clinical pictures:
 
 ## Investigations
 
-Bedside:
+**Bedside**:
 
-Laboratory:
+**Laboratory**:
 
 * Blood
 	* FBE
@@ -50,9 +50,9 @@ Laboratory:
 		* Technically demanding
 		* Most useful for epidemiological purposes for strain typing
 
-Imaging:
+**Laboratory**:
 
-Other:
+**Other**:
 
 * Proctoscopy/flexible sigmoidoscopy
 	* Facilitates direct visualisation of pseudomembranes

@@ -22,14 +22,14 @@ quarto::quarto_preview
 
 # Content to-do:
 
-* LP and spinal as distinct entities with incldues
+* LP and spinal as distinct entities with includes
 
 
 # Decisions
 
 * Where to put rhabdo, CIM, CIN
-	* Rhabdo under fluid
-	* CIM, CIN under neuromuscular
+	* Rhabdo under fluid?
+	* CIM, CIN under neuromuscular?
 
 * Infection
 	* Move system-specific infections to that system
@@ -40,7 +40,5 @@ quarto::quarto_preview
 	* Dissolve "systemic" section
 
 * Dissolve ICU 'concepts' into a more appropriate category (or at least some of, ?organ donation separately)
-
-* Add a "goals" div to replace the info box in each management section
 
 * ?Create integumentary section for osteomyelitis, NSTI, etc

@@ -106,9 +106,9 @@ Common differentials:
 Dark-field microscopic examination of blood, urine, CSF, or other fluids (dialysate!) are diagnostic.
 :::
 
-Bedside:
+**Bedside**:
 
-Laboratory:
+**Laboratory**:
 
 * Blood
 	* LFTs
@@ -131,9 +131,9 @@ Laboratory:
 	* Pl
 
 
-Imaging:
+**Laboratory**:
 
-Other:
+**Other**:
 
 ## Management
 

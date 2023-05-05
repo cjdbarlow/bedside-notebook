@@ -109,7 +109,7 @@ In the immunocompromised, haematogenous dissemination and rampant infection can 
 Cultures, stain, and specific testing (galactomannan, PCR) are unable to discriminate between colonisation and infection.
 :::
 
-Laboratory:
+**Laboratory**:
 
 :::column-margin
 Galactomannan is a cell wall polysaccharide found in *aspergillus*, ice cream, salad dressings, and cream cheese. 
@@ -147,7 +147,7 @@ Significantly ↓ yield compared with BAL.
     * Silver staining
     * *Aspergillus* IgG/IgE
 
-Imaging:
+**Laboratory**:
 
 * **CXR**
     * Aspergilloma cavities
@@ -167,7 +167,7 @@ Imaging:
 ![](/resources/air-crescent-sign.jpg)
 :::
 
-Other:
+**Other**:
 
 * Open lung biopsy\
 Rarely indicated due to risk of procedure.

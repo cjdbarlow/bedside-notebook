@@ -98,9 +98,7 @@ Differential is broad, and includes:
 
 ## Management
 
-:::info
-Principles:
-
+:::priority
 * Treat underlying cause
 * Consider altering immunotherapy
 * Symptomatic relief

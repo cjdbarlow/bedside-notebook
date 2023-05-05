@@ -39,7 +39,7 @@ Results in pulmonary infection, with or without lymphohaematogenous seeding to d
 Occurs when dormant mycobacteria reactivate.
     * Secondary **pulmonary disease** develops **apical lesions** that undergo **caseation necrosis**\
     Leads to **cavitation** with surrounding fibrosis.
-        * Caseous soup drains into bronchi, stimulating coughing which facilitates spread to other:
+        * Caseous soup drains into bronchi, stimulating coughing which facilitates spread to **Other**:
             * Parts of the lung
             * People 
     * **Meningeal disease** develops due to **haematogenous spread**\
@@ -123,7 +123,7 @@ Late signs.
 
 ## Investigations
 
-Bedside:
+**Bedside**:
 
 * Bronchoscopy:
     * BAL
@@ -131,7 +131,7 @@ Bedside:
     May be indicated if high clinical suspicion and negative smear. 
 
 
-Laboratory:
+**Laboratory**:
 
 :::column-margin
 **Acid-fast** refers to bacilli that have waxy (classically mycolic acids) substances in their cell wall, which retain a carbolfuchsin stain after being washed in an acidic solution.\
@@ -162,7 +162,7 @@ Amplifies known sections of DNA:
     * Adenosine deaminase
 
 
-Imaging:
+**Laboratory**:
 
 * CXR\
 Very sensitive and a normal CXR almost excludes TB, except in:

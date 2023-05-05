@@ -130,7 +130,7 @@ Key differentials include other causes of shock, particularly:
 
 ## Investigations
 
-Bedside:
+**Bedside**:
 
 * Echocardiography\
 TTE or TOE if available. Key findings:
@@ -140,7 +140,7 @@ TTE or TOE if available. Key findings:
 	* Intracardiac thrombi/emboli
 
 
-Laboratory:
+**Laboratory**:
 
 :::column-margin
 AFE is fundamentally a clinical diagnosis, investigations may guide supportive management.
@@ -155,12 +155,12 @@ AFE is fundamentally a clinical diagnosis, investigations may guide supportive m
 	* TEG/ROTEM\
 	For evaluating DIC.
 
-Imaging:
+**Laboratory**:
 
 * CXR
 
 
-Other:
+**Other**:
 
 * ECG\
 RV strain, tachycardia, ischaemia.
@@ -177,9 +177,7 @@ If a hysterectomy has been performed
 
 ## Management
 
-:::info
-Principles:
-
+:::priority
 * **Deliver** the foetus
 * Early **intubation** if required for hypoxia
 * Support circulation with fluid, **aggressive vasopressors**, and **inotropes**

@@ -71,7 +71,7 @@ Bloods:
 Cholestatic picture.
 * Blood cultures
 
-Imaging:
+**Laboratory**:
 
 * Ultrasound\
 Features include:
@@ -96,9 +96,7 @@ Similar accuracy to CT, with similar findings.
 
 ## Management
 
-:::info
-Principles:
-
+:::priority
 * Standard sepsis management\
 Covered under @sec-sepsis_mx.
 * Intra-abdominal antibiotic cover
