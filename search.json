@@ -228,7 +228,7 @@
     "href": "assessment/critical/fever.html#investigation",
     "title": "Fever and Hyperthermia",
     "section": "Investigation",
-    "text": "Investigation\n\nTemperature ≥38.3°C is a reasonable trigger to clinically reassess and consider cultures:\n\nApproach:\n\nBlood cultures\nShould be performed when a new fever does not strongly suggest a noninfectious cause.\n\nCulture any line in place &gt;48 hours\n\nUrine\nGenerally avoid unless:\n\nNeutropenic\nNo IDC and suspicion of UTI\nStructural urological abnormality\n\nSpecific testing:\n\nC. difficile\nParacentesis\nIf ascites.\nDVT/PE evaluation\nEVD CSF culture\nIf in situ.\nLP\nIf suggestion of meningitis.\n\n\nBedside:\n\nTemperature measurement\nUse the most accurate device available in the clinical situation. In descending order:\n\nIntravascular\nOesophageal\nBladder\nRectal\nOral\nTympanic\n\n\n\n\nAxillary, temporal artery, and chemical dot thermometers should not be used in the critically ill.\nLaboratory:\n\nBlood cultures\n\nStrict aseptic process should be performed to minimise contamination:\n\nSkin cleaning:\n\n2% chlorhexidine/70% isopropyl alcohol\n1-2% alcoholic iodine\n\nClean blood culture bottle with 70+% alcohol\nAvoiding cleaning with antiseptic as it may degrade the stopper.\nAseptic venepuncture\nIntroduction of blood into bottles can occur with the same needle\n\nTo minimise false negative risk, take:\n\n2-3 samples from separate sites through intact skin\n20mL (10mL for each bottle) minimum for each draw\nCultures prior to antibiotics\n\nCulture to identify resolution of bacteraemia should occur 48-96 hours following initiation of appropriate therapy\n\n\nImaging:\nOther:"
+    "text": "Investigation\n\nTemperature ≥38.3°C is a reasonable trigger to clinically reassess and consider cultures:\n\nApproach:\n\nBlood cultures\nShould be performed when a new fever does not strongly suggest a noninfectious cause.\n\nCulture any line in place &gt;48 hours\n\nUrine\nGenerally avoid unless:\n\nNeutropenic\nNo IDC and suspicion of UTI\nStructural urological abnormality\n\nSpecific testing:\n\nC. difficile\nParacentesis\nIf ascites.\nDVT/PE evaluation\nEVD CSF culture\nIf in situ.\nLP\nIf suggestion of meningitis.\n\n\nBedside:\n\nTemperature measurement\nUse the most accurate device available in the clinical situation. In descending order:\n\nIntravascular\nOesophageal\nBladder\nRectal\nOral\nTympanic\n\n\n\n\nAxillary, temporal artery, and chemical dot thermometers should not be used in the critically ill.\nLaboratory:\n\nBlood cultures\n\nStrict aseptic process should be performed to minimise contamination:\n\nSkin cleaning:\n\n2% chlorhexidine/70% isopropyl alcohol\n1-2% alcoholic iodine\n\nClean blood culture bottle with 70+% alcohol\nAvoiding cleaning with antiseptic as it may degrade the stopper.\nAseptic venepuncture\nIntroduction of blood into bottles can occur with the same needle\n\nTo minimise false negative risk, take:\n\n2-3 samples from separate sites through intact skin\n20mL (10mL for each bottle) minimum for each draw\nCultures prior to antibiotics\n\nCulture to identify resolution of bacteraemia should occur 48-96 hours following initiation of appropriate therapy\n\n\nLaboratory:\nOther:"
   },
   {
     "objectID": "assessment/critical/fever.html#management",
@@ -1516,7 +1516,7 @@
     "href": "management/cvs/lvad.html#investigations",
     "title": "Left Ventricular Assist Device",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\nLaboratory:\nImaging:\nOther:"
+    "text": "Investigations\nBedside:\nLaboratory:\nLaboratory:\nOther:"
   },
   {
     "objectID": "management/cvs/lvad.html#management",
@@ -2216,7 +2216,7 @@
     "href": "management/fluid/hyperca.html#investigations",
     "title": "Hypercalcaemia",
     "section": "Investigations",
-    "text": "Investigations\nBedside: * ABG\nLaboratory:\n\n\nThree equations exist to correct measured calcium:\n\nCorrection of ionised calcium for pH:\n\\(iCa^{2+}_{7.4}c = iCa^{2+} \\times (1 - 0.53 \\times (7.40 - pH))\\)\nCorrecting total calcium for:\n\nAlbumin:\nMeasured total calcium will ↓ (or ↑) by 0.02 mmol/L for every 1g/L ↓ (or ↑) the albumin is above 40g/L.\nGlobulins:\nMeasured total calcium will ↓ (or ↑) by 0.04mmol/L for every 10g/L ↓ (or ↑) in serum globulin.\n\n\n\nBloods\n\nUEC\nRenal failure.\nMg\n\nPTH\nALP\nLipase\nPTHrP\nRule out humoral hypercalcaemia of malignancy.\n1,25-dihydroxy vitamin D\n25-hydroxy vitamin D\nRule out vitamin D intoxication.\nTSH\n\n\nOther:\n\nUrinary calcium\nHypercalciuria usually precedes hypercalcaemia, as hypercalcaemia only occurs when renal elimination is overwhelmed.\nECG"
+    "text": "Investigations\nBedside:\n\nABG\n\nLaboratory:\n\n\nThree equations exist to correct measured calcium:\n\nCorrection of ionised calcium for pH:\n\\(iCa^{2+}_{7.4}c = iCa^{2+} \\times (1 - 0.53 \\times (7.40 - pH))\\)\nCorrecting total calcium for:\n\nAlbumin:\nMeasured total calcium will ↓ (or ↑) by 0.02 mmol/L for every 1g/L ↓ (or ↑) the albumin is above 40g/L.\nGlobulins:\nMeasured total calcium will ↓ (or ↑) by 0.04mmol/L for every 10g/L ↓ (or ↑) in serum globulin.\n\n\n\nBloods\n\nUEC\nRenal failure.\nMg\n\nPTH\nALP\nLipase\nPTHrP\nRule out humoral hypercalcaemia of malignancy.\n1,25-dihydroxy vitamin D\n25-hydroxy vitamin D\nRule out vitamin D intoxication.\nTSH\n\n\nOther:\n\nUrinary calcium\nHypercalciuria usually precedes hypercalcaemia, as hypercalcaemia only occurs when renal elimination is overwhelmed.\nECG"
   },
   {
     "objectID": "management/fluid/hyperca.html#management",
@@ -3154,7 +3154,7 @@
     "href": "anaesthesia/crisis/delayed_emergence.html#investigations",
     "title": "Delayed Emergence",
     "section": "Investigations:",
-    "text": "Investigations:\nAdditional bloods:\n\nFBE\nUEC/\nLFTs\nTFTs\nToxicology screen\n\nImaging:\n\nCTB\nConsider repeating at 6-8 hours if no improvement in ICU.\nMRI"
+    "text": "Investigations:\nAdditional bloods:\n\nFBE\nUEC/\nLFTs\nTFTs\nToxicology screen\n\nLaboratory:\n\nCTB\nConsider repeating at 6-8 hours if no improvement in ICU.\nMRI"
   },
   {
     "objectID": "anaesthesia/crisis/delayed_emergence.html#management",
@@ -9209,14 +9209,14 @@
     "href": "intensive/surgical/post_lungtx.html#investigations",
     "title": "Post Lung Transplant",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\nLaboratory:\nImaging:\nOther:"
+    "text": "Investigations\nBedside:\nLaboratory:\nLaboratory:\nOther:"
   },
   {
     "objectID": "intensive/surgical/post_lungtx.html#management",
     "href": "intensive/surgical/post_lungtx.html#management",
     "title": "Post Lung Transplant",
     "section": "Management",
-    "text": "Management\n\nPrinciples:\n\nOptimise lung function\n\nRapid respiratory wean\nMinimise fluid administration\nChest physiotherapy\nAnalgesia\n\nClose coordination with transplant service\n\n\nResuscitation:\n\nABC approach. Comment on team coordination and clinical priorities. Specific therapy:\n\nPharmacological\nProcedural\nPhysical\n\nSupportive care:\nDisposition:\nPreventative:\n\nMarginal and Ineffective Therapies"
+    "text": "Management\n\n\nOptimise lung function\n\nRapid respiratory wean\nMinimise fluid administration\nChest physiotherapy\nAnalgesia\n\nClose coordination with transplant service\n\n\nResuscitation:\n\nABC approach. Comment on team coordination and clinical priorities. Specific therapy:\n\nPharmacological\nProcedural\nPhysical\n\nSupportive care:\nDisposition:\nPreventative:\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "intensive/surgical/post_lungtx.html#anaesthetic-considerations",
@@ -11113,7 +11113,7 @@
     "href": "disease/cvs/phtn.html#investigations",
     "title": "Pulmonary Hypertension",
     "section": "Investigations",
-    "text": "Investigations\nSix minute walk test:\n\nDesaturation of &gt;10% or distance &lt;350m is significant of perioperative morbidity\n\nRight heart catheterisation:\n\nDiagnostic\nOf greater utility in type 1 and type 2\nSometimes required to determine treatment eligibility\n\nEchocardiography:\n\nEvaluate for signs and degree of PAH\n\nRVSP\nRV overload\n\nFlattening of IV septum\n\n\n\nEvaluate for signs of LV dysfunction as cause\n\nEnlarged LA\nLVH\nRaised E/e’\n\nEvaluate for valvular disease as cause\n\nMitral valve\nAortic valve\n\n\nImaging:\n\nV/Q scan\nAssess for pulmonary obstruction, as present in CTEPH.\nHRCT\nAssess for presence of primary respiratory disease."
+    "text": "Investigations\nSix minute walk test:\n\nDesaturation of &gt;10% or distance &lt;350m is significant of perioperative morbidity\n\nRight heart catheterisation:\n\nDiagnostic\nOf greater utility in type 1 and type 2\nSometimes required to determine treatment eligibility\n\nEchocardiography:\n\nEvaluate for signs and degree of PAH\n\nRVSP\nRV overload\n\nFlattening of IV septum\n\n\n\nEvaluate for signs of LV dysfunction as cause\n\nEnlarged LA\nLVH\nRaised E/e’\n\nEvaluate for valvular disease as cause\n\nMitral valve\nAortic valve\n\n\nLaboratory:\n\nV/Q scan\nAssess for pulmonary obstruction, as present in CTEPH.\nHRCT\nAssess for presence of primary respiratory disease."
   },
   {
     "objectID": "disease/cvs/phtn.html#management",
@@ -11309,14 +11309,14 @@
     "href": "disease/cvs/afe.html#investigations",
     "title": "Amniotic Fluid Embolism",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\n\nEchocardiography\nTTE or TOE if available. Key findings:\n\nRV failure\nPulmonary hypertension\nUnderfilled LV\nIntracardiac thrombi/emboli\n\n\nLaboratory:\n\n\nAFE is fundamentally a clinical diagnosis, investigations may guide supportive management.\n\nBloods\n\nUEC/\nCommonly performed but do not aid management. Thrombocytopaenia is rare initially.\nCardiac enzymes\nCoagulation assay\nClassically low (or entirely absent) fibrinogen with prolonged PT and APTT.\nTEG/ROTEM\nFor evaluating DIC.\n\n\nImaging:\n\nCXR\n\nOther:\n\nECG\nRV strain, tachycardia, ischaemia.\n\n\n\nInvestigations that have been used for diagnosis include:\n\nMaternal PA blood sampling for squamous epithelial cells\nDrawn from a wedged PAC.\nHistological analysis of cervix\nIf a hysterectomy has been performed\nAutopsy"
+    "text": "Investigations\nBedside:\n\nEchocardiography\nTTE or TOE if available. Key findings:\n\nRV failure\nPulmonary hypertension\nUnderfilled LV\nIntracardiac thrombi/emboli\n\n\nLaboratory:\n\n\nAFE is fundamentally a clinical diagnosis, investigations may guide supportive management.\n\nBloods\n\nUEC/\nCommonly performed but do not aid management. Thrombocytopaenia is rare initially.\nCardiac enzymes\nCoagulation assay\nClassically low (or entirely absent) fibrinogen with prolonged PT and APTT.\nTEG/ROTEM\nFor evaluating DIC.\n\n\nLaboratory:\n\nCXR\n\nOther:\n\nECG\nRV strain, tachycardia, ischaemia.\n\n\n\nInvestigations that have been used for diagnosis include:\n\nMaternal PA blood sampling for squamous epithelial cells\nDrawn from a wedged PAC.\nHistological analysis of cervix\nIf a hysterectomy has been performed\nAutopsy"
   },
   {
     "objectID": "disease/cvs/afe.html#management",
     "href": "disease/cvs/afe.html#management",
     "title": "Amniotic Fluid Embolism",
     "section": "Management",
-    "text": "Management\n\nPrinciples:\n\nDeliver the foetus\nEarly intubation if required for hypoxia\nSupport circulation with fluid, aggressive vasopressors, and inotropes\nEarly correction hypofibrinogenaemia with cryoprecipitate\n\n\nResuscitation:\n\nA\n\nGenerally early intubation\n\nB\n\nMay require bronchodilators\nNote uterine tone; consider avoiding β-agonists.\n\nC\nRapid establishment of:\n\nInvasive pressure monitoring\nAggressive filling\nVasopressors\nPulmonary vasodilators\nMechanical support\nIncludes:\n\nCPB\nECMO\nIABP\n\n\nH\n\nMassive transfusion likely\nEarly haematological consultation.\n\n\nDisposition:\n\nICU admission likely"
+    "text": "Management\n\n\nDeliver the foetus\nEarly intubation if required for hypoxia\nSupport circulation with fluid, aggressive vasopressors, and inotropes\nEarly correction hypofibrinogenaemia with cryoprecipitate\n\n\nResuscitation:\n\nA\n\nGenerally early intubation\n\nB\n\nMay require bronchodilators\nNote uterine tone; consider avoiding β-agonists.\n\nC\nRapid establishment of:\n\nInvasive pressure monitoring\nAggressive filling\nVasopressors\nPulmonary vasodilators\nMechanical support\nIncludes:\n\nCPB\nECMO\nIABP\n\n\nH\n\nMassive transfusion likely\nEarly haematological consultation.\n\n\nDisposition:\n\nICU admission likely"
   },
   {
     "objectID": "disease/cvs/afe.html#complications",
@@ -11680,14 +11680,14 @@
     "href": "disease/neuro/delirium.html#investigations",
     "title": "Delirium",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\nLaboratory:\nImaging:\nOther:"
+    "text": "Investigations\nBedside:\nLaboratory:\nLaboratory:\nOther:"
   },
   {
     "objectID": "disease/neuro/delirium.html#management",
     "href": "disease/neuro/delirium.html#management",
     "title": "Delirium",
     "section": "Management",
-    "text": "Management\n\nPrinciples:\n\nMaximise preventative interventions\nPredominantly non-pharmacological.\nCorrect cause\nMinimise pharmacological intervention\nRemember the family\nEmphasise delirium is common and transient.\n\n\nSpecific therapy:\n\nPharmacological\n\nAntipsychotics\n\nTypical antipsychotics\n\nHaloperidol\n\n0.5-10mg, usually 1-2mg IV\nRisk of QTc prolongation\n\n\nAtypical antipsychotics\nLower extrapyramidal side effects.\n\nOlanzapine\nQuetiapine\nRisperidone\n\n\nα2-agonists\n\nClonidine\nDexmedetomidine\n\n\nPhysical\nNon-pharmacological interventions are covered under preventative management, but remain a critical part of treating active delirium.\n\n\n\nExtrapyramidal side effects are adverse drug-induced movement disorders secondary to dopamine-receptor antagonism, and include:\n\nDystonia\nInvoluntary muscle contraction, with abnormal posturing and repetitive movements.\n\nOculogyric crisis\nBilateral upward gaze.\nOpisthotonus\nSevere spine/neck hyperextension.\nTorticollis\nTrismus\n\nAkathisia\nPhysical restlessness.\nTardive dyskinesia\nTongue and facial choreoathetoid movements, which may impair swallowing.\nParkinsonism\nPharyngeal dystonia\nMay precipitate airway crises.\n\nSupportive care:\nDisposition:\nPreventative:\n\nOrientation aids\n\nOrientation clues\n\nWindows with natural light\nClocks\nCalendars with todays date\nVerbal statements of the time, date, and location\n\nFamiliar individuals\n\nFamily\n\nGreatest familiarity\nSense of control\nSense of safety\n\nNursing and medical staff\n\n\nMinimise disorientation\n\nSensory impairments\n\nHearing aids\nGlasses\n\n\nMinimise agitation\n\nEnvironmental noise\nSleep quality\nPhysical restraints\nMedical restraints\n\nIDC\nIV lines\n\n\n\nAddress risk factors\n\nMinimise sedation\nAvoid deep sedation without good reason.\nPain\nBowel care\nPolypharmacy\nAppropriate oxygenation and haemodynamic target\nElectrolyte correction\n\nPatient diaries\n\nFill gaps in memory after ICU discharge\nRationalise traumatic hallucinations\n\n\n\n\nBalancing opioid related harm and pain management is a difficult balancing act. On balance, I am to ensure adequate analgesia (minimising opioid when able, and using lower-risk opioids) and accept some opioid related harm.\n\nMarginal and Ineffective Therapies\n\nBenzodiazepines\nSignificant independent risk factor for delirium, and recommended only for:\n\nDelirium tremens\nUrgent control of dangerous hyperactive delirium\n\nProphylactic antipsychotics\nMay ↓ duration or severity, but no improvement in mortality.\nAnticholinesterases\nWorsen delirium.\nMelatonin\nNo change in rate of delirium, or quality and quantity of sleep."
+    "text": "Management\n\n\nMaximise preventative interventions\nPredominantly non-pharmacological.\nCorrect cause\nMinimise pharmacological intervention\nRemember the family\nEmphasise delirium is common and transient.\n\n\nSpecific therapy:\n\nPharmacological\n\nAntipsychotics\n\nTypical antipsychotics\n\nHaloperidol\n\n0.5-10mg, usually 1-2mg IV\nRisk of QTc prolongation\n\n\nAtypical antipsychotics\nLower extrapyramidal side effects.\n\nOlanzapine\nQuetiapine\nRisperidone\n\n\nα2-agonists\n\nClonidine\nDexmedetomidine\n\n\nPhysical\nNon-pharmacological interventions are covered under preventative management, but remain a critical part of treating active delirium.\n\n\n\nExtrapyramidal side effects are adverse drug-induced movement disorders secondary to dopamine-receptor antagonism, and include:\n\nDystonia\nInvoluntary muscle contraction, with abnormal posturing and repetitive movements.\n\nOculogyric crisis\nBilateral upward gaze.\nOpisthotonus\nSevere spine/neck hyperextension.\nTorticollis\nTrismus\n\nAkathisia\nPhysical restlessness.\nTardive dyskinesia\nTongue and facial choreoathetoid movements, which may impair swallowing.\nParkinsonism\nPharyngeal dystonia\nMay precipitate airway crises.\n\nSupportive care:\nDisposition:\nPreventative:\n\nOrientation aids\n\nOrientation clues\n\nWindows with natural light\nClocks\nCalendars with todays date\nVerbal statements of the time, date, and location\n\nFamiliar individuals\n\nFamily\n\nGreatest familiarity\nSense of control\nSense of safety\n\nNursing and medical staff\n\n\nMinimise disorientation\n\nSensory impairments\n\nHearing aids\nGlasses\n\n\nMinimise agitation\n\nEnvironmental noise\nSleep quality\nPhysical restraints\nMedical restraints\n\nIDC\nIV lines\n\n\n\nAddress risk factors\n\nMinimise sedation\nAvoid deep sedation without good reason.\nPain\nBowel care\nPolypharmacy\nAppropriate oxygenation and haemodynamic target\nElectrolyte correction\n\nPatient diaries\n\nFill gaps in memory after ICU discharge\nRationalise traumatic hallucinations\n\n\n\n\nBalancing opioid related harm and pain management is a difficult balancing act. On balance, I am to ensure adequate analgesia (minimising opioid when able, and using lower-risk opioids) and accept some opioid related harm.\n\nMarginal and Ineffective Therapies\n\nBenzodiazepines\nSignificant independent risk factor for delirium, and recommended only for:\n\nDelirium tremens\nUrgent control of dangerous hyperactive delirium\n\nProphylactic antipsychotics\nMay ↓ duration or severity, but no improvement in mortality.\nAnticholinesterases\nWorsen delirium.\nMelatonin\nNo change in rate of delirium, or quality and quantity of sleep."
   },
   {
     "objectID": "disease/neuro/delirium.html#anaesthetic-considerations",
@@ -11764,7 +11764,7 @@
     "href": "disease/neuro/abd.html#management",
     "title": "Acute Behavioural Disturbance",
     "section": "Management",
-    "text": "Management\n\nPrinciples:\nSafely manage and modify disturbed behaviour: * Relevant drugs often have: * Narrow therapeutic index * Variable onset * Variable depth * Provision of safe sedation is essential\n\nResuscitation:\n\n\n\nA safe a suitable sedating location with fundamental physiological monitoring is essential, with a minimum of 3 trained staff:\n\nDoctor capable of ALS and airway management\nRN capable of BLS and assisting with sedation\nOne other\n\n\nA\n\nManagement of obstruction and respiratory depression\n\n\nABC approach. Comment on team coordination and clinical priorities. Specific therapy:\n\nPharmacological\nProcedural\nPhysical\n\nSupportive care:\n\nFor prolonged sedation\nD\n\nExtrapyramidal side effects\n\nE\n\nPressure care\n\nF\n\nUrinary retention\nMay require IDC.\n\nH\n\nThromboprophylaxis\n\n\nDisposition:\nPreventative:\n\nAnaesthetic Considerations\n\n\nMarginal and Ineffective Therapies"
+    "text": "Management\n\nSafely manage and modify disturbed behaviour:\n\nRelevant drugs often have:\n\nNarrow therapeutic index\nVariable onset\nVariable depth\n\nProvision of safe sedation is essential\n\n\nResuscitation:\n\n\n\nA safe a suitable sedating location with fundamental physiological monitoring is essential, with a minimum of 3 trained staff:\n\nDoctor capable of ALS and airway management\nRN capable of BLS and assisting with sedation\nOne other\n\n\nA\n\nManagement of obstruction and respiratory depression\n\n\nABC approach. Comment on team coordination and clinical priorities. Specific therapy:\n\nPharmacological\nProcedural\nPhysical\n\nSupportive care:\n\nFor prolonged sedation\nD\n\nExtrapyramidal side effects\n\nE\n\nPressure care\n\nF\n\nUrinary retention\nMay require IDC.\n\nH\n\nThromboprophylaxis\n\n\nDisposition:\nPreventative:\n\nAnaesthetic Considerations\n\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/neuro/abd.html#complications",
@@ -11827,7 +11827,7 @@
     "href": "disease/infective/meningitis.html#investigations",
     "title": "Meningitis",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\nLaboratory:\n\n\nDetails of CSF findings in meningitis are covered under Chapter 421.\n\nBlood\n\nFBE\nInfection.\nBlood cultures\nPCR\n\nUrine\n\nPneumococcal urinary antigen\nSignificantly ↓ sensitivity for meningitis compared with pneumoniae.\n\nLP\n\nRequired to completely confirm diagnosis\nHowever, contraindications are common\n\nCoagulopathy\n↑ ICP, or significant clinical concern of such\n\nEmpirical antibiotics should be commenced if there is delay\nUrgent Gram stain and culture\nSpecific antigen investigations:\n\nHerpes simplex PCR\nMycobacterium TB PCR\nMycobacterial stain and cultures\nIndia Ink stain and Cryptococcal antigen\nPneumococcal urinary antigen\n95% sensitive if used on CSF.\n\n\n\nImaging:\n\n\nIndications for pre-LP CT:\n\n↑ BP with ↓ HR\nFocal neurology\n↓ Conscious state\nNew seizures\nPredisposition to infection\nHistory of CVA or space-occupying lesions\nPapilloedema\n\n\nCT\n↑ ICP or space-occupying lesion.\n\nOther:"
+    "text": "Investigations\nBedside:\nLaboratory:\n\n\nDetails of CSF findings in meningitis are covered under Chapter 421.\n\nBlood\n\nFBE\nInfection.\nBlood cultures\nPCR\n\nUrine\n\nPneumococcal urinary antigen\nSignificantly ↓ sensitivity for meningitis compared with pneumoniae.\n\nLP\n\nRequired to completely confirm diagnosis\nHowever, contraindications are common\n\nCoagulopathy\n↑ ICP, or significant clinical concern of such\n\nEmpirical antibiotics should be commenced if there is delay\nUrgent Gram stain and culture\nSpecific antigen investigations:\n\nHerpes simplex PCR\nMycobacterium TB PCR\nMycobacterial stain and cultures\nIndia Ink stain and Cryptococcal antigen\nPneumococcal urinary antigen\n95% sensitive if used on CSF.\n\n\n\nLaboratory:\n\n\nIndications for pre-LP CT:\n\n↑ BP with ↓ HR\nFocal neurology\n↓ Conscious state\nNew seizures\nPredisposition to infection\nHistory of CVA or space-occupying lesions\nPapilloedema\n\n\nCT\n↑ ICP or space-occupying lesion.\n\nOther:"
   },
   {
     "objectID": "disease/infective/meningitis.html#management",
@@ -11904,7 +11904,7 @@
     "href": "disease/infective/encephalitis.html#investigations",
     "title": "Encephalitis",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\nLaboratory:\nImaging:\n\nMRI\nT2-weighted.\n\nOther:\n\nLP\n\nPCR\n\nEEG\n\nSlow-wave activity\nEpileptiform discharges\nExtreme delta brush pattern\nHighly specific for NMDA-receptor encephalitis."
+    "text": "Investigations\nBedside:\nLaboratory:\nLaboratory:\n\nMRI\nT2-weighted.\n\nOther:\n\nLP\n\nPCR\n\nEEG\n\nSlow-wave activity\nEpileptiform discharges\nExtreme delta brush pattern\nHighly specific for NMDA-receptor encephalitis."
   },
   {
     "objectID": "disease/infective/encephalitis.html#management",
@@ -11981,7 +11981,7 @@
     "href": "disease/infective/brain_abscess.html#investigations",
     "title": "Brain Abscess",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\nLaboratory:\nImaging:\nOther:"
+    "text": "Investigations\nBedside:\nLaboratory:\nLaboratory:\nOther:"
   },
   {
     "objectID": "disease/infective/brain_abscess.html#management",
@@ -12058,7 +12058,7 @@
     "href": "disease/infective/myelitis.html#investigations",
     "title": "Myelitis",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\nLaboratory:\nImaging:\nOther:"
+    "text": "Investigations\nBedside:\nLaboratory:\nLaboratory:\nOther:"
   },
   {
     "objectID": "disease/infective/myelitis.html#management",
@@ -12135,7 +12135,7 @@
     "href": "disease/neuro/seizure.html#investigations",
     "title": "Seizures",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\n\nABG\n\nLactate\nBSL\n\n\nLaboratory:\n\nBlood\n\nFBE/Coagulation assay\nUEC/\nLFTs\nTFTs\nPorphyrins\nDrug levels\n\nAntiepileptic\nAlcohol\nBenzodiazepines\n\n\nLP\nIf consideration of:\n\nInfection\nAutoimmune encephalitis\n\n\nImaging:\n\nCXR\nAspiration.\nCTB\nInvestigation of structural cause.\n\nOther:\n\nEEG\n\nDiagnostic\nRequired following resolution without improvement in conscious state\n15% of this group have NCSE.\nChanging appearance over time\n\nInitially discrete seizure activity\nContinuous monomorphic discharges\nPeriodic epileptiform discharges\n\nContinuous EEG required for refractory status, ideally with video monitoring if available"
+    "text": "Investigations\nBedside:\n\nABG\n\nLactate\nBSL\n\n\nLaboratory:\n\nBlood\n\nFBE/Coagulation assay\nUEC/\nLFTs\nTFTs\nPorphyrins\nDrug levels\n\nAntiepileptic\nAlcohol\nBenzodiazepines\n\n\nLP\nIf consideration of:\n\nInfection\nAutoimmune encephalitis\n\n\nLaboratory:\n\nCXR\nAspiration.\nCTB\nInvestigation of structural cause.\n\nOther:\n\nEEG\n\nDiagnostic\nRequired following resolution without improvement in conscious state\n15% of this group have NCSE.\nChanging appearance over time\n\nInitially discrete seizure activity\nContinuous monomorphic discharges\nPeriodic epileptiform discharges\n\nContinuous EEG required for refractory status, ideally with video monitoring if available"
   },
   {
     "objectID": "disease/neuro/seizure.html#sec-seizuremx",
@@ -12205,7 +12205,7 @@
     "href": "disease/neuro/epilepsy.html#investigations",
     "title": "Epilepsy",
     "section": "Investigations",
-    "text": "Investigations\nLaboratory:\n\nUEC/\nProlactin\n\nImaging:\n\nCTB\nEvaluation of structural cause.\nMRI\nEvaluation of structural cause, with ↑ sensitivity and specificity compared with CT.\n\nOther:\n\nEEG:\n\nInterpretation may be difficult\nPatients with disease will have abnormalities ~50% of the time"
+    "text": "Investigations\nLaboratory:\n\nUEC/\nProlactin\n\nLaboratory:\n\nCTB\nEvaluation of structural cause.\nMRI\nEvaluation of structural cause, with ↑ sensitivity and specificity compared with CT.\n\nOther:\n\nEEG:\n\nInterpretation may be difficult\nPatients with disease will have abnormalities ~50% of the time"
   },
   {
     "objectID": "disease/neuro/epilepsy.html#management",
@@ -12520,7 +12520,7 @@
     "href": "disease/neuro/stroke.html#investigations",
     "title": "Stroke",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\n\nBSL\nECG\nScreen for AF.\n\nLaboratory:\n\nBlood\n\nFBE\nAnaemia, polycythaemia.\nBlood cultures\nIf considering endocarditis.\nLipids\nESR/CRP\n↑ Suggests vasculitis.\nThrombophilia screen\nPregnancy\n\n\nImaging:\n\n\nCT non-con should be repeated 24 hours after perfusion therapy to evaluate for complications.\n\nCT non-contrast\n\n\nGrey-white differentiation (&lt;1 hour)\nOccurs early and suggests irreversibly infarcted brain tissue.\nVasogenic oedema (3-6 hours)\nHypodensity developing due to irreversible infarction.\nICH\nRapidly changes management plan.\nHyperdense vessel\nThrombus may be visible in an intracranial vessel (particularly MCA, indicating large vessel occlusion.\n\nCT angiography\n\nOcclusion\nIdentification of large vessel occlusion to guide endovascular therapy.\nDissection\nAthersclerosis\n\nCT perfusion\n\nPenumbra identification\nIdentifies volume of ischaemic penumbra for supratentorial stroke.\n\nMRI\n\nIdentification of stroke\nParticularly for the posterior fossa, which is more poorly imaged on CT.\nIdentification of ICH\nDWI and FLAIR mismatch\nIdentifies penumbra.\n\nEchocardiography\nPFO, endocarditis.\n\n\n\nEchocardiography is more useful in younger patients, who are less likely to have “classical” embolic causes."
+    "text": "Investigations\nBedside:\n\nBSL\nECG\nScreen for AF.\n\nLaboratory:\n\nBlood\n\nFBE\nAnaemia, polycythaemia.\nBlood cultures\nIf considering endocarditis.\nLipids\nESR/CRP\n↑ Suggests vasculitis.\nThrombophilia screen\nPregnancy\n\n\nLaboratory:\n\n\nCT non-con should be repeated 24 hours after perfusion therapy to evaluate for complications.\n\nCT non-contrast\n\n\nGrey-white differentiation (&lt;1 hour)\nOccurs early and suggests irreversibly infarcted brain tissue.\nVasogenic oedema (3-6 hours)\nHypodensity developing due to irreversible infarction.\nICH\nRapidly changes management plan.\nHyperdense vessel\nThrombus may be visible in an intracranial vessel (particularly MCA, indicating large vessel occlusion.\n\nCT angiography\n\nOcclusion\nIdentification of large vessel occlusion to guide endovascular therapy.\nDissection\nAthersclerosis\n\nCT perfusion\n\nPenumbra identification\nIdentifies volume of ischaemic penumbra for supratentorial stroke.\n\nMRI\n\nIdentification of stroke\nParticularly for the posterior fossa, which is more poorly imaged on CT.\nIdentification of ICH\nDWI and FLAIR mismatch\nIdentifies penumbra.\n\nEchocardiography\nPFO, endocarditis.\n\n\n\nEchocardiography is more useful in younger patients, who are less likely to have “classical” embolic causes."
   },
   {
     "objectID": "disease/neuro/stroke.html#management",
@@ -12604,7 +12604,7 @@
     "href": "disease/neuro/ich.html#investigations",
     "title": "Intracerebral Haemorrhage",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\nLaboratory:\nImaging:\nOther:"
+    "text": "Investigations\nBedside:\nLaboratory:\nLaboratory:\nOther:"
   },
   {
     "objectID": "disease/neuro/ich.html#management",
@@ -12681,7 +12681,7 @@
     "href": "disease/neuro/sah.html#investigations",
     "title": "Subarachnoid Haemorrhage",
     "section": "Investigations",
-    "text": "Investigations\nLaboratory:\n\nLP\nRecommended if negative or equivocal CT in the setting of high clinical suspicion. Important findings:\n\nOpening pressure\nCSF collection in 4 consecutive tubes\nRBC counts can be measured in each to exclude traumatic tap.\nXanthochromia\n\n\nBy visual inspection\nMay take 12 hours to develop.\nSpectrophotometry\nSuperior to visual inspection.\n\n\n\nImaging:\n\nNon-contrast CT head\n\n\nSensitivity ↑ from 93% to 100% over 6 hours, and falls to 60% over the next 7 days.\nRepeat CT should occur at 24-48 hours to identify any new infarctions\nThose not attributable to EVD or IPH should be considered to be due to delayed cerebral ischaemia.\n\nCTA\nFirst-line vascular imaging to identify source, though may miss aneurysms ⩽4mm.\nMRI\nMay be slightly superior to CT.\nDSA\nGold-standard for vascular imaging, and facilitates treatment.\nTranscranial Doppler\nUsed to monitor for vasospasm.\n\nSuggested by a Lindegaard ratio &gt;3\nMean velocity in the MCA/ velocity in ipsilateral ICA.\n\n\nOther:\n\nEEG\nConsider continuous EEG monitoring in patients who\n\nHave a poor grade of SAH\nFail to improve"
+    "text": "Investigations\nLaboratory:\n\nLP\nRecommended if negative or equivocal CT in the setting of high clinical suspicion. Important findings:\n\nOpening pressure\nCSF collection in 4 consecutive tubes\nRBC counts can be measured in each to exclude traumatic tap.\nXanthochromia\n\n\nBy visual inspection\nMay take 12 hours to develop.\nSpectrophotometry\nSuperior to visual inspection.\n\n\n\nLaboratory:\n\nNon-contrast CT head\n\n\nSensitivity ↑ from 93% to 100% over 6 hours, and falls to 60% over the next 7 days.\nRepeat CT should occur at 24-48 hours to identify any new infarctions\nThose not attributable to EVD or IPH should be considered to be due to delayed cerebral ischaemia.\n\nCTA\nFirst-line vascular imaging to identify source, though may miss aneurysms ⩽4mm.\nMRI\nMay be slightly superior to CT.\nDSA\nGold-standard for vascular imaging, and facilitates treatment.\nTranscranial Doppler\nUsed to monitor for vasospasm.\n\nSuggested by a Lindegaard ratio &gt;3\nMean velocity in the MCA/ velocity in ipsilateral ICA.\n\n\nOther:\n\nEEG\nConsider continuous EEG monitoring in patients who\n\nHave a poor grade of SAH\nFail to improve"
   },
   {
     "objectID": "disease/neuro/sah.html#management",
@@ -12751,7 +12751,7 @@
     "href": "disease/neuro/vasospasm.html#investigations",
     "title": "Delayed Cerebral Ischaemia",
     "section": "Investigations",
-    "text": "Investigations\nImaging:\n\nCT Brain & Circle of Willis angiogram"
+    "text": "Investigations\nLaboratory:\n\nCT Brain & Circle of Willis angiogram"
   },
   {
     "objectID": "disease/neuro/vasospasm.html#management",
@@ -12821,7 +12821,7 @@
     "href": "disease/neuro/cvst.html#investigations",
     "title": "Cerebral Venous Sinus Thrombosis",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\nLaboratory:\nImaging:\n\nCT\nSensitivity 60%, or 96%.\nMRI/MRA\nSensitivity 86%/96% respectively.\nDSA\n100% sensitive.\n\nOther:"
+    "text": "Investigations\nBedside:\nLaboratory:\nLaboratory:\n\nCT\nSensitivity 60%, or 96%.\nMRI/MRA\nSensitivity 86%/96% respectively.\nDSA\n100% sensitive.\n\nOther:"
   },
   {
     "objectID": "disease/neuro/cvst.html#management",
@@ -13129,7 +13129,7 @@
     "href": "disease/neuro/mnd.html#investigations",
     "title": "Motor Neuron Disease",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\nLaboratory:\nImaging:\nOther:"
+    "text": "Investigations\nBedside:\nLaboratory:\nLaboratory:\nOther:"
   },
   {
     "objectID": "disease/neuro/mnd.html#management",
@@ -13206,14 +13206,14 @@
     "href": "disease/neuro/gbs.html#investigations",
     "title": "Guillain-Barré Syndrome",
     "section": "Investigations",
-    "text": "Investigations\n\nImpending respiratory failure suggested on PFTs by:\n\nVC &lt;20 mL/kg\nMax inspiratory pressure &lt;-30 cmH20\nMax expiratory pressure &lt;40 cmH20\n\n\nBedside:\nLaboratory:\nImaging:\nOther:\n\nLP\n\n↑ CSF protein &gt;0.4g/dL\nIn &gt;90%.\nLow/normal CSF cell count\n\nNerve conduction studies\n\nReinforce diagnosis\nDifferentiate between demyelinating and axonal subtypes"
+    "text": "Investigations\n\nImpending respiratory failure suggested on PFTs by:\n\nVC &lt;20 mL/kg\nMax inspiratory pressure &lt;-30 cmH20\nMax expiratory pressure &lt;40 cmH20\n\n\nBedside:\nLaboratory:\nLaboratory:\nOther:\n\nLP\n\n↑ CSF protein &gt;0.4g/dL\nIn &gt;90%.\nLow/normal CSF cell count\n\nNerve conduction studies\n\nReinforce diagnosis\nDifferentiate between demyelinating and axonal subtypes"
   },
   {
     "objectID": "disease/neuro/gbs.html#management",
     "href": "disease/neuro/gbs.html#management",
     "title": "Guillain-Barré Syndrome",
     "section": "Management",
-    "text": "Management\n\nPrinciples:\n\nEarly immunotherapy with either:\n\nImmunoglobulin\nPlasma exchange\n\n\n\nSpecific therapy:\n\nPharmacological\n\nImmunoglobulin\n\n2g/kg IV\n10% relapse, with good response to further course\n↓ Need for mechanical ventilation\n↓ Duration of mechanical ventilation\nEquivalent to plasma exchange\nPreferred due to convenience.\n\n\nProcedural\n\nPlasma exchange\n\nWithin 7 days of onset\n\n4 exchanges of 1-2 volumes over 1-2 weeks\nAlbumin preferable to FFP\n\n\n\nPhysical\n\nSupportive care:\n\n\nAvoid suxamethonium for intubation, as with other neuromuscular disorders.\n\nA\n\nIntubation\nIf bulbar dysfunction.\n\nB\n\nChest physiotherapy\nRespiratory function (VC) monitoring with PFTs\nMore reliable than blood gases.\nMechanical ventilation\n\nEarly tracheostomy as long duration of ventilation is expected\n\n\nG\n\nFeeding\n\nPN only if EN precluded by paralytic ileus\n\n\n\nDisposition:\nPreventative:\n\nMarginal and Ineffective Therapies\n\nSteroids\nBoth low and high-dose corticosteroids have no effect on outcome, and may slow recovery."
+    "text": "Management\n\n\nEarly immunotherapy with either:\n\nImmunoglobulin\nPlasma exchange\n\n\n\nSpecific therapy:\n\nPharmacological\n\nImmunoglobulin\n\n2g/kg IV\n10% relapse, with good response to further course\n↓ Need for mechanical ventilation\n↓ Duration of mechanical ventilation\nEquivalent to plasma exchange\nPreferred due to convenience.\n\n\nProcedural\n\nPlasma exchange\n\nWithin 7 days of onset\n\n4 exchanges of 1-2 volumes over 1-2 weeks\nAlbumin preferable to FFP\n\n\n\nPhysical\n\nSupportive care:\n\n\nAvoid suxamethonium for intubation, as with other neuromuscular disorders.\n\nA\n\nIntubation\nIf bulbar dysfunction.\n\nB\n\nChest physiotherapy\nRespiratory function (VC) monitoring with PFTs\nMore reliable than blood gases.\nMechanical ventilation\n\nEarly tracheostomy as long duration of ventilation is expected\n\n\nG\n\nFeeding\n\nPN only if EN precluded by paralytic ileus\n\n\n\nDisposition:\nPreventative:\n\nMarginal and Ineffective Therapies\n\nSteroids\nBoth low and high-dose corticosteroids have no effect on outcome, and may slow recovery."
   },
   {
     "objectID": "disease/neuro/gbs.html#anaesthetic-considerations",
@@ -13563,7 +13563,7 @@
     "href": "disease/neuro/icu_weakness.html#investigations",
     "title": "Critical Illness Weakness",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\nLaboratory:\nImaging:\nOther:\n\nElectrophysiology\n\nRarely performed in practice\nRequired for diagnosis of peripheral nerve injury"
+    "text": "Investigations\nBedside:\nLaboratory:\nLaboratory:\nOther:\n\nElectrophysiology\n\nRarely performed in practice\nRequired for diagnosis of peripheral nerve injury"
   },
   {
     "objectID": "disease/neuro/icu_weakness.html#management",
@@ -13689,14 +13689,14 @@
     "href": "disease/fluid/di.html#investigations",
     "title": "Diabetes Insipidus",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\nLaboratory:\n\nBlood\n\nUEC\nOsmolality\nMeasured osmolality may be high.\nTFT\nProlactin\n\nUrinalysis\n\nHypo-osmolar\nHigh volume\n\n\n\n\nWith complete absence of ADH, &gt;20L/day of very dilute (25-200mOsmol/kg) of urine can be produced.\n\nPartial absence of ADH may lead to ~3L/day of moderately dilute (500-800mOsmol/kg) urine.\nImaging:\n\nMRI\nInvestigation of hypothalamic or pituitary injury and likelihood of recovery.\n\n\n\nHypothalamic lesions are less likely to recover than pituitary injuries.\nOther:\n\nWater deprivation test"
+    "text": "Investigations\nBedside:\nLaboratory:\n\nBlood\n\nUEC\nOsmolality\nMeasured osmolality may be high.\nTFT\nProlactin\n\nUrinalysis\n\nHypo-osmolar\nHigh volume\n\n\n\n\nWith complete absence of ADH, &gt;20L/day of very dilute (25-200mOsmol/kg) of urine can be produced.\n\nPartial absence of ADH may lead to ~3L/day of moderately dilute (500-800mOsmol/kg) urine.\nLaboratory:\n\nMRI\nInvestigation of hypothalamic or pituitary injury and likelihood of recovery.\n\n\n\nHypothalamic lesions are less likely to recover than pituitary injuries.\nOther:\n\nWater deprivation test"
   },
   {
     "objectID": "disease/fluid/di.html#management",
     "href": "disease/fluid/di.html#management",
     "title": "Diabetes Insipidus",
     "section": "Management",
-    "text": "Management\n\nPrinciples:\n\nCorrection of hypernatraemia\nCorrection of volume state\nCorrection of underlying ADH deficiency\nInvestigation of other anterior pituitary hormone deficiencies\n\n\n\nNeurogenic Diabetes Insipidus\nSpecific therapy:\n\nPharmacological\n\nSodium correction\nHypernatraemia &gt;48 hours duration should be corrected at &lt;10mmol/L/day.\nVolume correction\n\n0.9% Saline is preferable\nCareful titration is required in hypernatraemia to avoid a rapid correction\n\nConsider hypertonic saline to ↓ rate\n\n\nExogenous ADH\nIndicated if euvolaemic and UO &gt;3mL/kg/hr.\n\nDDAVP 1-4μg IV daily\nAdjusted to control of UO.\n\nCorticosteroids\nIndicated if clinical concern about adrenal insufficiency due to anterior pituitary disruption.\n\n100mg hydrocortisone\n\n\n\n\n\nNephrogenic Diabetes Insipidus\nSpecific therapy:\n\nPharmacological\n\nCease precipitants (drugs)\nDiuretic\n\nThiazide\n\nCorrects hyperosmolar plasma by driving natriuresis\nRelative hypovolaemia results in RAAS activation, ↓ GFR, and ↓↓ UO\n\nAmiloride\nOffsets potassium loss from thiazide.\n\nExogenous ADH\nDDAVP 1-4μg IV daily.\nOther agents\n\nNSAID\n↓ GFR and therefore ↓ UO.\n\nSynergistic with diuretics\nObvious risk of AKI\n\nChlorpropamide\n↑ ADH release and renal ADH sensitivity.\nCarbamazepine\nHigh doses ↓ UO in partial disease.\n\n\n\nSupportive care:\n\nF\n\nElectrolyte correction\nReplacement of magnesium, potassium, calcium, etc.\n↓ Solute intake\n↓ Daily solute load results in a ↓ total UO, and may make it more manageable.\n\nSalt restriction (&lt;100mmol/day)\nProtein restriction to minimum daily requirements\n\n\n\n\n\nMarginal and Ineffective Therapies\n\nClofibrate\nSuperseded by DDAVP."
+    "text": "Management\n\n\nCorrection of hypernatraemia\nCorrection of volume state\nCorrection of underlying ADH deficiency\nInvestigation of other anterior pituitary hormone deficiencies\n\n\n\nNeurogenic Diabetes Insipidus\nSpecific therapy:\n\nPharmacological\n\nSodium correction\nHypernatraemia &gt;48 hours duration should be corrected at &lt;10mmol/L/day.\nVolume correction\n\n0.9% Saline is preferable\nCareful titration is required in hypernatraemia to avoid a rapid correction\n\nConsider hypertonic saline to ↓ rate\n\n\nExogenous ADH\nIndicated if euvolaemic and UO &gt;3mL/kg/hr.\n\nDDAVP 1-4μg IV daily\nAdjusted to control of UO.\n\nCorticosteroids\nIndicated if clinical concern about adrenal insufficiency due to anterior pituitary disruption.\n\n100mg hydrocortisone\n\n\n\n\n\nNephrogenic Diabetes Insipidus\nSpecific therapy:\n\nPharmacological\n\nCease precipitants (drugs)\nDiuretic\n\nThiazide\n\nCorrects hyperosmolar plasma by driving natriuresis\nRelative hypovolaemia results in RAAS activation, ↓ GFR, and ↓↓ UO\n\nAmiloride\nOffsets potassium loss from thiazide.\n\nExogenous ADH\nDDAVP 1-4μg IV daily.\nOther agents\n\nNSAID\n↓ GFR and therefore ↓ UO.\n\nSynergistic with diuretics\nObvious risk of AKI\n\nChlorpropamide\n↑ ADH release and renal ADH sensitivity.\nCarbamazepine\nHigh doses ↓ UO in partial disease.\n\n\n\nSupportive care:\n\nF\n\nElectrolyte correction\nReplacement of magnesium, potassium, calcium, etc.\n↓ Solute intake\n↓ Daily solute load results in a ↓ total UO, and may make it more manageable.\n\nSalt restriction (&lt;100mmol/day)\nProtein restriction to minimum daily requirements\n\n\n\n\n\nMarginal and Ineffective Therapies\n\nClofibrate\nSuperseded by DDAVP."
   },
   {
     "objectID": "disease/fluid/di.html#anaesthetic-considerations",
@@ -13899,14 +13899,14 @@
     "href": "disease/endo/dka.html#investigations",
     "title": "Diabetic Ketoacidosis",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\n\nABG\n\n↑ BSL\n↑ Ketones\nMetabolic acidosis\n\n\nLaboratory:\n\nOsmolality\nRaised, although not to the same degree as HHS.\n\nImaging:\nOther:"
+    "text": "Investigations\nBedside:\n\nABG\n\n↑ BSL\n↑ Ketones\nMetabolic acidosis\n\n\nLaboratory:\n\nOsmolality\nRaised, although not to the same degree as HHS.\n\nLaboratory:\nOther:"
   },
   {
     "objectID": "disease/endo/dka.html#management",
     "href": "disease/endo/dka.html#management",
     "title": "Diabetic Ketoacidosis",
     "section": "Management",
-    "text": "Management\n\nGoals:\n\nFluid resuscitation\nRestore circulating volume and correct osmolarity.\nInsulin administration\nCorrect electrolytes\nTreat precipitant\n\n\nResuscitation:\n\n\nC\n\nVolume resuscitation\n\nBalanced crystalloid preferred\n\n0.9% saline ↑ hyperchloraemic acidosis\nColloid may ↑ mortality\n\nAddition of 20-30mmol/L of potassium to crystalloid may be performed to replete potassium stores\n\n\nD\n\nInsulin\nFixed rate intravenous insulin infusion at 0.1 unit/kg/hr.\n\nBolus dose may precipitate hyperglycaemia and is not recommended\n\n↑ May be required if insulin resistant\n\n↓ To 0.02-0.05 unit/kg/hr when BSL is &lt;12mmol/L\n\n\nF\n\nElectrolyte correction\n\nPotassium\n\nBegin correction of total body deficit once serum potassium is &lt;5.5mmol/L\nConsider only initiating insulin when potassium is &gt;3.3mmol/L to avoid precipitating severe hypokalaemia\n\n\n\n\nSupportive care:\n\nF\n\nMagnesium\nOften deplete, PRN replenishment is sufficient.\n\n\nDisposition:\n\nICU admission for:\n\nNeurological symptoms\n\nGCS &lt;12\n\nSevere DKA\n\npH &lt;7.0\nHCO3- &lt;5mmol/L\nAG &gt;16\n\nSevere electrolyte derangements\n\n\nPreventative:\n\nAppropriate insulin administration\n\nBaseline maintenance\n↑ Dosing in times of physiologic stress\n\n\n\nMarginal and Ineffective Therapies\n\nBicarbonate\nNot recommended."
+    "text": "Management\n\n\nFluid resuscitation\nRestore circulating volume and correct osmolarity.\nInsulin administration\nCorrect electrolytes\nTreat precipitant\n\n\nResuscitation:\n\n\nC\n\nVolume resuscitation\n\nBalanced crystalloid preferred\n\n0.9% saline ↑ hyperchloraemic acidosis\nColloid may ↑ mortality\n\nAddition of 20-30mmol/L of potassium to crystalloid may be performed to replete potassium stores\n\n\nD\n\nInsulin\nFixed rate intravenous insulin infusion at 0.1 unit/kg/hr.\n\nBolus dose may precipitate hyperglycaemia and is not recommended\n\n↑ May be required if insulin resistant\n\n↓ To 0.02-0.05 unit/kg/hr when BSL is &lt;12mmol/L\n\n\nF\n\nElectrolyte correction\n\nPotassium\n\nBegin correction of total body deficit once serum potassium is &lt;5.5mmol/L\nConsider only initiating insulin when potassium is &gt;3.3mmol/L to avoid precipitating severe hypokalaemia\n\n\n\n\nSupportive care:\n\nF\n\nMagnesium\nOften deplete, PRN replenishment is sufficient.\n\n\nDisposition:\n\nICU admission for:\n\nNeurological symptoms\n\nGCS &lt;12\n\nSevere DKA\n\npH &lt;7.0\nHCO3- &lt;5mmol/L\nAG &gt;16\n\nSevere electrolyte derangements\n\n\nPreventative:\n\nAppropriate insulin administration\n\nBaseline maintenance\n↑ Dosing in times of physiologic stress\n\n\n\nMarginal and Ineffective Therapies\n\nBicarbonate\nNot recommended."
   },
   {
     "objectID": "disease/endo/dka.html#anaesthetic-considerations",
@@ -13976,14 +13976,14 @@
     "href": "disease/endo/hhs.html#investigations",
     "title": "Hyperosmolar Hyperglycaemic State",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\n\nABG\n\n↑ BSL\n\n\nLaboratory:\n\nOsmolality\n\nImaging:\nOther:"
+    "text": "Investigations\nBedside:\n\nABG\n\n↑ BSL\n\n\nLaboratory:\n\nOsmolality\n\nLaboratory:\nOther:"
   },
   {
     "objectID": "disease/endo/hhs.html#management",
     "href": "disease/endo/hhs.html#management",
     "title": "Hyperosmolar Hyperglycaemic State",
     "section": "Management",
-    "text": "Management\n\nGoals:\n\nFluid resuscitation\nRestore circulating volume and correct osmolarity.\nInsulin administration\nCorrect electrolytes\nTreat precipitant\n\n\nResuscitation:\n\n\nC\n\nVolume resuscitation\n\nBalanced crystalloid preferred\n\n0.9% saline ↑ hyperchloraemic acidosis\nColloid may ↑ mortality\n\nAddition of 20-30mmol/L of potassium to crystalloid may be performed to replete potassium stores\n\n\nD\n\nInsulin\nFixed rate intravenous insulin infusion at 0.1 unit/kg/hr.\n\nBolus dose may precipitate hyperglycaemia and is not recommended\n\n↑ May be required if insulin resistant\n\n↓ To 0.02-0.05 unit/kg/hr when BSL is &lt;15mmol/L or fluid resuscitation is complete\n\n\nF\n\nElectrolyte correction\n\nPotassium\n\nBegin correction of total body deficit once serum potassium is &lt;5.5mmol/L\nConsider only initiating insulin when potassium is &gt;3.3mmol/L to avoid precipitating severe hypokalaemia\n\n\n\n\nSupportive care:\n\nF\n\nCorrection of free water deficit\nMagnesium\nOften deplete, PRN replenishment is sufficient.\n\n\n\n\nFree water deficit can be calculated by:\n\\[Free \\ Water \\ Deficit = 0.6 \\times Weight \\times {Na_{serum} - 1 \\over 140}\\]\nWhere:\n\nFree water deficit is in litres\nWeight is in kg\nSerum sodium is in mmol/L\n\nDisposition:\n\nICU admission for:\n\nNeurological symptoms\n\nGCS &lt;12\n\nSevere DKA\n\npH &lt;7.0\nHCO3- &lt;5mmol/L\nAG &gt;16\n\nSevere electrolyte derangements\n\n\nPreventative:\n\nAppropriate insulin administration\n\nBaseline maintenance\n↑ Dosing in times of physiologic stress\n\n\n\nMarginal and Ineffective Therapies"
+    "text": "Management\n\n\nFluid resuscitation\nRestore circulating volume and correct osmolarity.\nInsulin administration\nCorrect electrolytes\nTreat precipitant\n\n\nResuscitation:\n\n\nC\n\nVolume resuscitation\n\nBalanced crystalloid preferred\n\n0.9% saline ↑ hyperchloraemic acidosis\nColloid may ↑ mortality\n\nAddition of 20-30mmol/L of potassium to crystalloid may be performed to replete potassium stores\n\n\nD\n\nInsulin\nFixed rate intravenous insulin infusion at 0.1 unit/kg/hr.\n\nBolus dose may precipitate hyperglycaemia and is not recommended\n\n↑ May be required if insulin resistant\n\n↓ To 0.02-0.05 unit/kg/hr when BSL is &lt;15mmol/L or fluid resuscitation is complete\n\n\nF\n\nElectrolyte correction\n\nPotassium\n\nBegin correction of total body deficit once serum potassium is &lt;5.5mmol/L\nConsider only initiating insulin when potassium is &gt;3.3mmol/L to avoid precipitating severe hypokalaemia\n\n\n\n\nSupportive care:\n\nF\n\nCorrection of free water deficit\nMagnesium\nOften deplete, PRN replenishment is sufficient.\n\n\n\n\nFree water deficit can be calculated by:\n\\[Free \\ Water \\ Deficit = 0.6 \\times Weight \\times {Na_{serum} - 1 \\over 140}\\]\nWhere:\n\nFree water deficit is in litres\nWeight is in kg\nSerum sodium is in mmol/L\n\nDisposition:\n\nICU admission for:\n\nNeurological symptoms\n\nGCS &lt;12\n\nSevere DKA\n\npH &lt;7.0\nHCO3- &lt;5mmol/L\nAG &gt;16\n\nSevere electrolyte derangements\n\n\nPreventative:\n\nAppropriate insulin administration\n\nBaseline maintenance\n↑ Dosing in times of physiologic stress\n\n\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/endo/hhs.html#anaesthetic-considerations",
@@ -14193,7 +14193,7 @@
     "href": "disease/endo/adrenal_insufficiency.html#investigations",
     "title": "Adrenal Insufficiency",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\n\nABG\n\nNAGMA\nHyponatraemia\nHyperkalaemia\n\n\nLaboratory:\n\nBlood\n\nFBE\n\nAnaemia\n\nUEC\n\nHyponatraemia\nHyperkalaemia\n\nRandom cortisol\nIn adrenal crisis would be expected to be &lt;80nmol/L; ACTH stimulation testing is not required.\nACTH stimulation test\nIn a stable patient:\n\nAdminister 250μg of tetracosactrin (Synacthen)\nMeasure cortisol at 0 and 30 minutes\nAppropriate elevation in peak cortisol should be seen\nThreshold varies depending on the laboratory.\n\nHydrocortisone interacts with many assays and so cannot be used\nDexamethasone can be used as an alternative steroid if planning the test\n\n\n\n\nImaging:\nOther:"
+    "text": "Investigations\nBedside:\n\nABG\n\nNAGMA\nHyponatraemia\nHyperkalaemia\n\n\nLaboratory:\n\nBlood\n\nFBE\n\nAnaemia\n\nUEC\n\nHyponatraemia\nHyperkalaemia\n\nRandom cortisol\nIn adrenal crisis would be expected to be &lt;80nmol/L; ACTH stimulation testing is not required.\nACTH stimulation test\nIn a stable patient:\n\nAdminister 250μg of tetracosactrin (Synacthen)\nMeasure cortisol at 0 and 30 minutes\nAppropriate elevation in peak cortisol should be seen\nThreshold varies depending on the laboratory.\n\nHydrocortisone interacts with many assays and so cannot be used\nDexamethasone can be used as an alternative steroid if planning the test\n\n\n\n\nLaboratory:\nOther:"
   },
   {
     "objectID": "disease/endo/adrenal_insufficiency.html#management",
@@ -14487,7 +14487,7 @@
     "href": "disease/endo/thyroid_storm.html#investigations",
     "title": "Thyroid Storm",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\n\nABG/VBG\n\n↑ BSL\n\n\nLaboratory:\n\nFBE\n\nLeucocytosis\n\nUEC\n\nHypercalcaemia\nHypokalaemia\nHypomagnesaemia\n\nLFTs\n\n↑ Bilirubin\n\nCortisol\nShould be ↑ in the setting of thyroid storm, and requires corticosteroids otherwise.\nTFTs\n\nTSH usually undetectable\nFree T4 and T3 usually ↑\n\n\n\n\nTFTs do not correlate with clinical severity.\nImaging:\nOther:"
+    "text": "Investigations\nBedside:\n\nABG/VBG\n\n↑ BSL\n\n\nLaboratory:\n\nFBE\n\nLeucocytosis\n\nUEC\n\nHypercalcaemia\nHypokalaemia\nHypomagnesaemia\n\nLFTs\n\n↑ Bilirubin\n\nCortisol\nShould be ↑ in the setting of thyroid storm, and requires corticosteroids otherwise.\nTFTs\n\nTSH usually undetectable\nFree T4 and T3 usually ↑\n\n\n\n\nTFTs do not correlate with clinical severity.\nLaboratory:\nOther:"
   },
   {
     "objectID": "disease/endo/thyroid_storm.html#management",
@@ -14641,14 +14641,14 @@
     "href": "disease/endo/myxoedema_coma.html#investigations",
     "title": "Myxoedema Coma",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\n\nABG\n\nRespiratory alkalosis\nDue to ↓ metabolic rate and ↓ CO2 production.\n\n\nLaboratory:\n\nBlood\n\nFBE\n\nNormocytic anaemia\n\nUEC\n\nHyponatraemia\nDue to free wate retention.\nHypoglycaemia\nHypophosphataemia\n\nTFTs\n\n↓ T4/T3\nVariable TSH\n\n↑ In primary hypothyroidism\n↓ In secondary and tertiary hypothyroidism\n\n\nCortisol\nPrior to commencing hydrocortisone.\n\n\nImaging:\nOther:"
+    "text": "Investigations\nBedside:\n\nABG\n\nRespiratory alkalosis\nDue to ↓ metabolic rate and ↓ CO2 production.\n\n\nLaboratory:\n\nBlood\n\nFBE\n\nNormocytic anaemia\n\nUEC\n\nHyponatraemia\nDue to free wate retention.\nHypoglycaemia\nHypophosphataemia\n\nTFTs\n\n↓ T4/T3\nVariable TSH\n\n↑ In primary hypothyroidism\n↓ In secondary and tertiary hypothyroidism\n\n\nCortisol\nPrior to commencing hydrocortisone.\n\n\nLaboratory:\nOther:"
   },
   {
     "objectID": "disease/endo/myxoedema_coma.html#management",
     "href": "disease/endo/myxoedema_coma.html#management",
     "title": "Myxoedema Coma",
     "section": "Management",
-    "text": "Management\n\nPrinciples:\n\nReplace thyroid hormone\nNote that rapid replacement may precipitate cardiac ischaemia and malignant arrhythmias.\nReplace adrenal hormone\nSupportive care\n\n\nResuscitation:\n\n\nA\n\nIntubation and ventilation may be required for respiratory failure\n\nC\n\nVolume resuscitation\nCautiously due to risk of APO.\nChronotropy\nMay require pacing.\n\nD\n\nDextrose replacement\n\n\nSpecific therapy:\n\n\nDosing of thyroxine should be adjusted for age and frailty, with lower doses used for patients at ↑ risk of adverse cardiac events relating to rapid replacement.\n\nPharmacological\n\nThyroid replacement\n\nThyroxine (T4)\n\nGenerally preferred agent\nLoad: Levothyroxine 200-500μg IV\nMaintenance: Levothyroxine 100-300μg IV daily thereafter\nCan be converted to PO formulation.\n\nT3\n\nMore active than T4\nMore rapid onset of action\nExpensive\nPossible ↑ risk of iatrogenic harm\n\n\nCorticosteroids\n\nHydrocortisone 100mg Q8H\nCease if random cortisol normal.\n\n\nProcedural\nPhysical\n\nSupportive care:\n\nC\n\nAvoid vasoactives\nIf possible, to ↓ arrhythmia risk.\n\nE\n\nRewarming\n\nPassive usually adequate\nActive may be required\n\n\nG\n\nFeeding\n↑ Risk of intolerance with gastrointestinal stasis.\n\n\n\nMarginal and Ineffective Therapies"
+    "text": "Management\n\n\nReplace thyroid hormone\nNote that rapid replacement may precipitate cardiac ischaemia and malignant arrhythmias.\nReplace adrenal hormone\nSupportive care\n\n\nResuscitation:\n\n\nA\n\nIntubation and ventilation may be required for respiratory failure\n\nC\n\nVolume resuscitation\nCautiously due to risk of APO.\nChronotropy\nMay require pacing.\n\nD\n\nDextrose replacement\n\n\nSpecific therapy:\n\n\nDosing of thyroxine should be adjusted for age and frailty, with lower doses used for patients at ↑ risk of adverse cardiac events relating to rapid replacement.\n\nPharmacological\n\nThyroid replacement\n\nThyroxine (T4)\n\nGenerally preferred agent\nLoad: Levothyroxine 200-500μg IV\nMaintenance: Levothyroxine 100-300μg IV daily thereafter\nCan be converted to PO formulation.\n\nT3\n\nMore active than T4\nMore rapid onset of action\nExpensive\nPossible ↑ risk of iatrogenic harm\n\n\nCorticosteroids\n\nHydrocortisone 100mg Q8H\nCease if random cortisol normal.\n\n\nProcedural\nPhysical\n\nSupportive care:\n\nC\n\nAvoid vasoactives\nIf possible, to ↓ arrhythmia risk.\n\nE\n\nRewarming\n\nPassive usually adequate\nActive may be required\n\n\nG\n\nFeeding\n↑ Risk of intolerance with gastrointestinal stasis.\n\n\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/endo/myxoedema_coma.html#anaesthetic-considerations",
@@ -15187,7 +15187,7 @@
     "href": "disease/infective/sbp.html#investigations",
     "title": "Spontaneous Bacterial Peritonitis",
     "section": "Investigations",
-    "text": "Investigations\nLaboratory:\n\nAscitic tap\nRequired for diagnosis.\n\nUsually low bacterial concentrations of a single organism\nConsider using a micropuncture kit (e.g. 21G spinal needle) to ↓ risk of continual leak from puncture site\n10-20mL should be placed into blood culture bottles to increase yield\nDiagnostic criteria:\n\nWCC &gt;250/mm3\nEvidence of bacteria\nUsually only one.\n\nParacentesis should be repeated at 48 hours after microbial therapy\n\n\n\n\nCirrhotic patients with large volume ascites should be tapped on ICU admission irrespective of their admission diagnosis, as ~10% will be complicated with SBP\nImaging:\n\nCT\nIf concern for secondary peritonitis."
+    "text": "Investigations\nLaboratory:\n\nAscitic tap\nRequired for diagnosis.\n\nUsually low bacterial concentrations of a single organism\nConsider using a micropuncture kit (e.g. 21G spinal needle) to ↓ risk of continual leak from puncture site\n10-20mL should be placed into blood culture bottles to increase yield\nDiagnostic criteria:\n\nWCC &gt;250/mm3\nEvidence of bacteria\nUsually only one.\n\nParacentesis should be repeated at 48 hours after microbial therapy\n\n\n\n\nCirrhotic patients with large volume ascites should be tapped on ICU admission irrespective of their admission diagnosis, as ~10% will be complicated with SBP\nLaboratory:\n\nCT\nIf concern for secondary peritonitis."
   },
   {
     "objectID": "disease/infective/sbp.html#management",
@@ -15264,7 +15264,7 @@
     "href": "disease/git/acute_panc.html#investigations",
     "title": "Acute Pancreatitis",
     "section": "Investigations",
-    "text": "Investigations\nLaboratory:\n:::column-margin Amylase has been replace by lipase and has no further role in diagnosis of pancreatitis. ::\n\nBlood\n\nLipase\n90% sensitive and specific for acute disease.\n\nElevations from non-pancreatic causes are typically &lt;3x ULN\n\nLFTs\nFor biliary obstruction.\nTriglycerides\n&gt;1000 mg/dL diagnostic of hypertriglyceridaemic pancreatitis, absent other causes.\nCalcium\n\n\nImaging:\n\nContrast CT\n\nPancreatitis\nLoss of normal contrast enhancement.\nNecrosis\n\nUltrasound\n\nUsually limited by bowel gas\nCannot quantify necrosis\nProvides assessment of biliary tree\nCBD dilation most important finding.\nMay provide guidance for needle aspiration"
+    "text": "Investigations\nLaboratory:\n:::column-margin Amylase has been replace by lipase and has no further role in diagnosis of pancreatitis. ::\n\nBlood\n\nLipase\n90% sensitive and specific for acute disease.\n\nElevations from non-pancreatic causes are typically &lt;3x ULN\n\nLFTs\nFor biliary obstruction.\nTriglycerides\n&gt;1000 mg/dL diagnostic of hypertriglyceridaemic pancreatitis, absent other causes.\nCalcium\n\n\nLaboratory:\n\nContrast CT\n\nPancreatitis\nLoss of normal contrast enhancement.\nNecrosis\n\nUltrasound\n\nUsually limited by bowel gas\nCannot quantify necrosis\nProvides assessment of biliary tree\nCBD dilation most important finding.\nMay provide guidance for needle aspiration"
   },
   {
     "objectID": "disease/git/acute_panc.html#management",
@@ -15341,14 +15341,14 @@
     "href": "disease/git/acalculous_cholecystitis.html#investigations",
     "title": "Acalculous Cholecystitis",
     "section": "Investigations",
-    "text": "Investigations\nBloods:\n\nFBE\n\nLeukocytosis\n\nLFTs\nCholestatic picture.\nBlood cultures\n\nImaging:\n\nUltrasound\nFeatures include:\n\nDistension\n&gt;5cm.\nThickened wall\n&gt;3.5mm.\nPericholecystic fluid\nNo gallstones\nHyperdense biliary sludge\nGas in wall\nIndicating gas forming anaerobes present.\nGas in gallbladder\n“Champagne sign”.\nGall bladder perforation\n\nCT\nSimilar accuracy to CT, with similar findings.\nCholescintigraphy\n\n\nMost sensitive\nCan quantify gallbladder ejection fraction\nLow utility in the critically ill due to the hours-long test time"
+    "text": "Investigations\nBloods:\n\nFBE\n\nLeukocytosis\n\nLFTs\nCholestatic picture.\nBlood cultures\n\nLaboratory:\n\nUltrasound\nFeatures include:\n\nDistension\n&gt;5cm.\nThickened wall\n&gt;3.5mm.\nPericholecystic fluid\nNo gallstones\nHyperdense biliary sludge\nGas in wall\nIndicating gas forming anaerobes present.\nGas in gallbladder\n“Champagne sign”.\nGall bladder perforation\n\nCT\nSimilar accuracy to CT, with similar findings.\nCholescintigraphy\n\n\nMost sensitive\nCan quantify gallbladder ejection fraction\nLow utility in the critically ill due to the hours-long test time"
   },
   {
     "objectID": "disease/git/acalculous_cholecystitis.html#management",
     "href": "disease/git/acalculous_cholecystitis.html#management",
     "title": "Acalculous Cholecystitis",
     "section": "Management",
-    "text": "Management\n\nPrinciples:\n\nStandard sepsis management\nCovered under Section 385.6.\nIntra-abdominal antibiotic cover\nProcedural intervention in selected cases\n\nLow-risk cases can be treated effectively with antibiotics alone\nHigh-risk cases may be so morbid so as to preclude cholecystectomy\nPercutaneous cholecystotomy remains an option in many of these.\n\n\n\nSpecific therapy:\n\nPharmacological\n\nAntibiotics\nOne of:\n\nTazocin 4.5g IV Q6-8H\nMeropenem 1g IV Q8H\nCefepime 2g IV Q8H, metronidazole 500mg IV Q8H, and ampicillin 2g IV Q4H or vancomycin\n\nAntifungal\nMay be reasonable in the critically unwell, discuss with ID.\n\nProcedural\nA spectrum of procedural options, listed by morbidity:\n\nPercutaneous cholecystotomy\n\nLowest complication rate\nDefinitive management in 80% of cases\nRisk of drain dislodgement\n\nLaparoscopic cholecystectomy\n\nDefinitive management\nRisk of conversion to open\n\nOpen cholecystectomy\n\nDefinitive management\nFacilitate thorough abdominal washout\ne.g. Perforated gallbladder.\nHighly morbid in the critically ill\nUp to 20% mortality.\n\n\n\n\n\nAntibiotic regimen chosen should cover streptococci, enterococci, Enterobacteriaceae, P. aeruginosa, and anaerobes such as Bacteroides.\nSupportive care:\n\nC\n\nVolume resuscitation\n\nD\n\nAnalgesia\nAntiemetics\n\n\n\nMarginal and Ineffective Therapies"
+    "text": "Management\n\n\nStandard sepsis management\nCovered under Section 385.6.\nIntra-abdominal antibiotic cover\nProcedural intervention in selected cases\n\nLow-risk cases can be treated effectively with antibiotics alone\nHigh-risk cases may be so morbid so as to preclude cholecystectomy\nPercutaneous cholecystotomy remains an option in many of these.\n\n\n\nSpecific therapy:\n\nPharmacological\n\nAntibiotics\nOne of:\n\nTazocin 4.5g IV Q6-8H\nMeropenem 1g IV Q8H\nCefepime 2g IV Q8H, metronidazole 500mg IV Q8H, and ampicillin 2g IV Q4H or vancomycin\n\nAntifungal\nMay be reasonable in the critically unwell, discuss with ID.\n\nProcedural\nA spectrum of procedural options, listed by morbidity:\n\nPercutaneous cholecystotomy\n\nLowest complication rate\nDefinitive management in 80% of cases\nRisk of drain dislodgement\n\nLaparoscopic cholecystectomy\n\nDefinitive management\nRisk of conversion to open\n\nOpen cholecystectomy\n\nDefinitive management\nFacilitate thorough abdominal washout\ne.g. Perforated gallbladder.\nHighly morbid in the critically ill\nUp to 20% mortality.\n\n\n\n\n\nAntibiotic regimen chosen should cover streptococci, enterococci, Enterobacteriaceae, P. aeruginosa, and anaerobes such as Bacteroides.\nSupportive care:\n\nC\n\nVolume resuscitation\n\nD\n\nAnalgesia\nAntiemetics\n\n\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/git/acalculous_cholecystitis.html#anaesthetic-considerations",
@@ -15565,7 +15565,7 @@
     "href": "disease/infective/c_diff.html#investigations",
     "title": "Clostridium Difficile",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\nLaboratory:\n\nBlood\n\nFBE\n\nLeukocytosis\n\nLFT\n\nHypoalbuminaemia\n\n\nStool\n\nAntigen and toxin\nSensitive, persist after resolution of infection.\nCulture\n\n2-3 days to grow\nTechnically demanding\nMost useful for epidemiological purposes for strain typing\n\n\n\nImaging:\nOther:\n\nProctoscopy/flexible sigmoidoscopy\n\nFacilitates direct visualisation of pseudomembranes\nMethod to detect severe disease\nRisk of perforation limits use\nRole in severe disease and antigen and toxin tests are negative or unavailable"
+    "text": "Investigations\nBedside:\nLaboratory:\n\nBlood\n\nFBE\n\nLeukocytosis\n\nLFT\n\nHypoalbuminaemia\n\n\nStool\n\nAntigen and toxin\nSensitive, persist after resolution of infection.\nCulture\n\n2-3 days to grow\nTechnically demanding\nMost useful for epidemiological purposes for strain typing\n\n\n\nLaboratory:\nOther:\n\nProctoscopy/flexible sigmoidoscopy\n\nFacilitates direct visualisation of pseudomembranes\nMethod to detect severe disease\nRisk of perforation limits use\nRole in severe disease and antigen and toxin tests are negative or unavailable"
   },
   {
     "objectID": "disease/infective/c_diff.html#management",
@@ -15978,14 +15978,14 @@
     "href": "disease/haeme/purpura_fulminans.html#investigations",
     "title": "Purpura Fulminans",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\nLaboratory:\n\nFBE\n\nThrombocytopaenia\n\nCoagulation\n\nINR: 1-3\nPTT: 1-3x ULN\nFibrinogen: Variable\n\nD-dimer\nSignificantly ↑.\nProtein C\n&lt;40% normal.\n\nImaging:\nOther:"
+    "text": "Investigations\nBedside:\nLaboratory:\n\nFBE\n\nThrombocytopaenia\n\nCoagulation\n\nINR: 1-3\nPTT: 1-3x ULN\nFibrinogen: Variable\n\nD-dimer\nSignificantly ↑.\nProtein C\n&lt;40% normal.\n\nLaboratory:\nOther:"
   },
   {
     "objectID": "disease/haeme/purpura_fulminans.html#management",
     "href": "disease/haeme/purpura_fulminans.html#management",
     "title": "Purpura Fulminans",
     "section": "Management",
-    "text": "Management\n\nPrinciples:\n\nTreat underlying cause\nConsider anticoagulation\n\n\nSpecific therapy:\n\nPharmacological\n\nHeparin\n\nanti-Xa targeting due to confounding from APTT measurement\nAT III supplementation may be considered but can result in dramatic ↑ in heparin effect\n\nBlood product\n\nPlatelets &gt;30\nFibrinogen &gt;1\n\nAvoid warfarin\nDue to ↓ protein C synthesis.\n\nProcedural\nPhysical\n\nSupportive care:\nDisposition:\nPreventative:\n\nMarginal and Ineffective Therapies"
+    "text": "Management\n\n\nTreat underlying cause\nConsider anticoagulation\n\n\nSpecific therapy:\n\nPharmacological\n\nHeparin\n\nanti-Xa targeting due to confounding from APTT measurement\nAT III supplementation may be considered but can result in dramatic ↑ in heparin effect\n\nBlood product\n\nPlatelets &gt;30\nFibrinogen &gt;1\n\nAvoid warfarin\nDue to ↓ protein C synthesis.\n\nProcedural\nPhysical\n\nSupportive care:\nDisposition:\nPreventative:\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/haeme/purpura_fulminans.html#anaesthetic-considerations",
@@ -16286,7 +16286,7 @@
     "href": "disease/immune/iris.html#management",
     "title": "Immune Reconstitution Inflammatory Syndrome",
     "section": "Management",
-    "text": "Management\n\nPrinciples:\n\nTreat underlying cause\nConsider altering immunotherapy\nSymptomatic relief\n\n\nSpecific therapy:\n\nPharmacological\n\nContinue or consider adjusting HAART\n\nCorticosteroids\n\n0.5-1mg/kg/day prednisolone\n\nInfliximab"
+    "text": "Management\n\n\nTreat underlying cause\nConsider altering immunotherapy\nSymptomatic relief\n\n\nSpecific therapy:\n\nPharmacological\n\nContinue or consider adjusting HAART\n\nCorticosteroids\n\n0.5-1mg/kg/day prednisolone\n\nInfliximab"
   },
   {
     "objectID": "disease/immune/iris.html#complications",
@@ -16622,7 +16622,7 @@
     "href": "disease/trauma/dai.html#investigations",
     "title": "Diffuse Axonal Injury",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\nLaboratory:\nImaging:\nOther:"
+    "text": "Investigations\nBedside:\nLaboratory:\nLaboratory:\nOther:"
   },
   {
     "objectID": "disease/trauma/dai.html#management",
@@ -16860,14 +16860,14 @@
     "href": "disease/infective/nsti.html#investigations",
     "title": "Necrotising Soft Tissue Infections",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\n\nABG\n\nLactic acidosis\n\n\nLaboratory:\n\nBloods\n\nFBE\nUEC\nCMP\n\nHypocalcaemia\n\nCoag\n\nDIC\n\n\n\nImaging:\n\nXR\n\nGas in soft tissue planes\n\nCT\n\nFascial thickening\nContrast enhancement\nFascial fluid collections\nGas in soft tissue planes\n\nUS\n\nFascial fluid collections\nGas\n\nMRI\n\nFascial thickening\nHyperintense T2 signal in muscles\n\n\nOther:\n\nOperative findings\n\nGray necrotic fascia\nLack of bleeding\nDue to microvascular thrombosis.\n“Dishwater” pus"
+    "text": "Investigations\nBedside:\n\nABG\n\nLactic acidosis\n\n\nLaboratory:\n\nBloods\n\nFBE\nUEC\nCMP\n\nHypocalcaemia\n\nCoag\n\nDIC\n\n\n\nLaboratory:\n\nXR\n\nGas in soft tissue planes\n\nCT\n\nFascial thickening\nContrast enhancement\nFascial fluid collections\nGas in soft tissue planes\n\nUS\n\nFascial fluid collections\nGas\n\nMRI\n\nFascial thickening\nHyperintense T2 signal in muscles\n\n\nOther:\n\nOperative findings\n\nGray necrotic fascia\nLack of bleeding\nDue to microvascular thrombosis.\n“Dishwater” pus"
   },
   {
     "objectID": "disease/infective/nsti.html#management",
     "href": "disease/infective/nsti.html#management",
     "title": "Necrotising Soft Tissue Infections",
     "section": "Management",
-    "text": "Management\n\nPrinciples:\n\nStandard sepsis resuscitation\nAggressive, early, surgical debridement\nBroad spectrum antibiotics with Streptococcal cover\n\n\nResuscitation:\n\nC\n\nNoradrenaline almost always required in a “true” NSTI\n\n\nSpecific therapy:\n\nPharmacological\n\nAntimicrobials\n\nBroad-spectrum agent\n\n\nMeropenem 1g Q8H\nAmoxacillin/clavulanate 1.2g Q6-8H\n\nLincosaminde\n\n\nClindamycin 300-450mg Q6H\n\nMRSA cover\n\nVancomycin\n\n\nIVIG\n\nAssociated with ↓ hospital mortality\n\n\nProcedural\n\nAggressive surgical debridement\nSingle most important management strategy.\n\nOutcome improves with surgeon experienced in management\nEarly debridement is critical for a good outcome\nAggressive debridement to healthy tissue\n\n\nPhysical\n\nHyperbaric Oxygen Therapy\n\nControversial\nAssociated with a ↓ in mortality and number of debridements, although evidence is conflicting\nUse should never delay surgical debridement\nSignificant logistic impediments to use\n\nAvailability\nTransfer of critically ill into an isolated environment\n\nEvidence is conflicting and some retrospective studies do not demonstrate mortality benefit\n\n\n\n\n\nAntimicrobial therapy should be adjusted for known resistance patterns.\n\nClindamycin suppresses Streptococcal toxin production, which may ↓ severity of septic shock and is strongly associated with ↓ mortality.\n\nThe mechanism of HBOT is uncertain, suggestions include:\n\n↑ Viability of marginal tissue\n↓ Bacterial toxin production\nInhibits anaerobic bacterial growth\n↑ Tissue oxidation reduction potential.\nPotentiates antibiotic function\n↑ Efficacy of neutrophil respiratory burst\n\n\nDisposition:\n\nICU\nObviously required for shock requiring vasoactive support."
+    "text": "Management\n\n\nStandard sepsis resuscitation\nAggressive, early, surgical debridement\nBroad spectrum antibiotics with Streptococcal cover\n\n\nResuscitation:\n\nC\n\nNoradrenaline almost always required in a “true” NSTI\n\n\nSpecific therapy:\n\nPharmacological\n\nAntimicrobials\n\nBroad-spectrum agent\n\n\nMeropenem 1g Q8H\nAmoxacillin/clavulanate 1.2g Q6-8H\n\nLincosaminde\n\n\nClindamycin 300-450mg Q6H\n\nMRSA cover\n\nVancomycin\n\n\nIVIG\n\nAssociated with ↓ hospital mortality\n\n\nProcedural\n\nAggressive surgical debridement\nSingle most important management strategy.\n\nOutcome improves with surgeon experienced in management\nEarly debridement is critical for a good outcome\nAggressive debridement to healthy tissue\n\n\nPhysical\n\nHyperbaric Oxygen Therapy\n\nControversial\nAssociated with a ↓ in mortality and number of debridements, although evidence is conflicting\nUse should never delay surgical debridement\nSignificant logistic impediments to use\n\nAvailability\nTransfer of critically ill into an isolated environment\n\nEvidence is conflicting and some retrospective studies do not demonstrate mortality benefit\n\n\n\n\n\nAntimicrobial therapy should be adjusted for known resistance patterns.\n\nClindamycin suppresses Streptococcal toxin production, which may ↓ severity of septic shock and is strongly associated with ↓ mortality.\n\nThe mechanism of HBOT is uncertain, suggestions include:\n\n↑ Viability of marginal tissue\n↓ Bacterial toxin production\nInhibits anaerobic bacterial growth\n↑ Tissue oxidation reduction potential.\nPotentiates antibiotic function\n↑ Efficacy of neutrophil respiratory burst\n\n\nDisposition:\n\nICU\nObviously required for shock requiring vasoactive support."
   },
   {
     "objectID": "disease/infective/nsti.html#complications",
@@ -17000,7 +17000,7 @@
     "href": "disease/infective/hiv.html#investigations",
     "title": "Human Immunodeficiency Virus and Acquired Immune Deficiency Syndrome",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\nLaboratory:\n\nBloods\n\nDiagnosis\n\nanti-HIV antibodies\nDiagnostic of infection; positive in most patients within 3 months of infection.\n\nMonitoring\n3-4 monthly testing in stable patients.\n\nHIV viral load\nCD4+ count\n\nBest indicator of severity of immunodeficiency and susceptibility to infection\nAIDS-related illnesses unlikely if &gt;200\n\n\n\n\nImaging:\nOther:"
+    "text": "Investigations\nBedside:\nLaboratory:\n\nBloods\n\nDiagnosis\n\nanti-HIV antibodies\nDiagnostic of infection; positive in most patients within 3 months of infection.\n\nMonitoring\n3-4 monthly testing in stable patients.\n\nHIV viral load\nCD4+ count\n\nBest indicator of severity of immunodeficiency and susceptibility to infection\nAIDS-related illnesses unlikely if &gt;200\n\n\n\n\nLaboratory:\nOther:"
   },
   {
     "objectID": "disease/infective/hiv.html#management",
@@ -17077,7 +17077,7 @@
     "href": "disease/infective/cmv.html#investigations",
     "title": "Cytomegalovirus",
     "section": "Investigations",
-    "text": "Investigations\nLaboratory:\n\nAntibodies\nInaccurate if recent plasma administration.\nQualitative DNA PCR\nDies not distinguish between active and latent infection.\nAntigenaemia essay\nReliable indirect measure of CMV infection.\nViral cultures\nMay take up to 21 days to demonstrate positivity.\n\nImaging:\nOther:"
+    "text": "Investigations\nLaboratory:\n\nAntibodies\nInaccurate if recent plasma administration.\nQualitative DNA PCR\nDies not distinguish between active and latent infection.\nAntigenaemia essay\nReliable indirect measure of CMV infection.\nViral cultures\nMay take up to 21 days to demonstrate positivity.\n\nLaboratory:\nOther:"
   },
   {
     "objectID": "disease/infective/cmv.html#management",
@@ -17154,7 +17154,7 @@
     "href": "disease/infective/dengue.html#investigations",
     "title": "Dengue",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\n\nTourniquet test\nMarker of capillary fragility:\n\nInflate BP cuff to midway between systolic and diastolic pressure for 2 minutes\nDeflate for 2 minutes\nCount petechiae below the ACF\nA positive test is &gt;10 petechiae per square inch\n\n\nLaboratory:\n\nBlood\n\nFBE\n\nHaemoconcentration\nThrombocytopaenia\nLeukopaenia\n\nLFT\n\n↑ AST\n\nIgM serology\nViral PCR\n\n\nImaging:\nOther:"
+    "text": "Investigations\nBedside:\n\nTourniquet test\nMarker of capillary fragility:\n\nInflate BP cuff to midway between systolic and diastolic pressure for 2 minutes\nDeflate for 2 minutes\nCount petechiae below the ACF\nA positive test is &gt;10 petechiae per square inch\n\n\nLaboratory:\n\nBlood\n\nFBE\n\nHaemoconcentration\nThrombocytopaenia\nLeukopaenia\n\nLFT\n\n↑ AST\n\nIgM serology\nViral PCR\n\n\nLaboratory:\nOther:"
   },
   {
     "objectID": "disease/infective/dengue.html#management",
@@ -17273,7 +17273,7 @@
     "href": "disease/infective/tb.html#pathophysiology",
     "title": "Tuberculosis",
     "section": "Pathophysiology",
-    "text": "Pathophysiology\nMycobacterial tubercule is a fastidious mycobacterium, inhalation of which leads to one of four outcomes:\n\nImmediate clearance\nNo lasting consequences.\nPrimarydisease\nResults in pulmonary infection, with or without lymphohaematogenous seeding to distant sites.\n\nOccasionally leads to:\n\nMiliary TB\nCerebral TB\n\n\nChronicinfection\nSecondaryTB\nOccurs when dormant mycobacteria reactivate.\n\nSecondary pulmonary disease develops apical lesions that undergo caseation necrosis\nLeads to cavitation with surrounding fibrosis.\n\nCaseous soup drains into bronchi, stimulating coughing which facilitates spread to other:\n\nParts of the lung\nPeople\n\n\nMeningeal disease develops due to haematogenous spread\nCharacterised histologically by gelatinous exudate around fissures.\n\n\n\nAetiology\nFive members of the mycobacterium complex are responsible:\n\nM. tuberculosis\nM. bovis\nM. africanum\nM. microti\nM. canetti"
+    "text": "Pathophysiology\nMycobacterial tubercule is a fastidious mycobacterium, inhalation of which leads to one of four outcomes:\n\nImmediate clearance\nNo lasting consequences.\nPrimarydisease\nResults in pulmonary infection, with or without lymphohaematogenous seeding to distant sites.\n\nOccasionally leads to:\n\nMiliary TB\nCerebral TB\n\n\nChronicinfection\nSecondaryTB\nOccurs when dormant mycobacteria reactivate.\n\nSecondary pulmonary disease develops apical lesions that undergo caseation necrosis\nLeads to cavitation with surrounding fibrosis.\n\nCaseous soup drains into bronchi, stimulating coughing which facilitates spread to Other:\n\nParts of the lung\nPeople\n\n\nMeningeal disease develops due to haematogenous spread\nCharacterised histologically by gelatinous exudate around fissures.\n\n\n\nAetiology\nFive members of the mycobacterium complex are responsible:\n\nM. tuberculosis\nM. bovis\nM. africanum\nM. microti\nM. canetti"
   },
   {
     "objectID": "disease/infective/tb.html#clinical-manifestations",
@@ -17294,7 +17294,7 @@
     "href": "disease/infective/tb.html#investigations",
     "title": "Tuberculosis",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\n\nBronchoscopy:\n\nBAL\nBronchial biopsy\nMay be indicated if high clinical suspicion and negative smear.\n\n\nLaboratory:\n\n\nAcid-fast refers to bacilli that have waxy (classically mycolic acids) substances in their cell wall, which retain a carbolfuchsin stain after being washed in an acidic solution.\n\nThe classic acid-fast stain is the Ziehl-Neelsen stain.\n\nNucleic acid amplification\nAmplifies known sections of DNA:\n\nAvailable for fluid samples, including sputum\nModerately sensitive and highly specific\nCan rapidly confirm diagnosis and presence of rifampicin resistance\nCan differentiate M. tuberculosis from other mycobacteria\n\nSputum\n\nExceedingly difficult to culture\nMultiple samples should be collected across different days\nRequest:\n\nFluorescent microscopy for acid-fast bacilli\nCulture\nAdenosine deaminase\n\n\nPleural fluid\n\nCulture\nNegative in &gt;75% of cases.\nAdenosine deaminase\n&gt;70/L favours TB; and may justify commencing treatment with high enough clinical suspicion.\n\nCSF\n\n\nCulture ~70% positive in meningeal disease.\nAdenosine deaminase\n\n\nImaging:\n\nCXR\nVery sensitive and a normal CXR almost excludes TB, except in:\n\nHIV +ve patients\nEarly apical disease\n\nCT Chest\nMore sensitive than plain film for identifying:\n\nCavities\nLymphadenopathy\nBronchiectasis\nBronchopleural fistulae\nEffusions\n\nCT Brain\nSensitive and not specific, features include:\n\nMeningeal thickening with contrast enhancement\nTuberculomas\nHydrocephalus"
+    "text": "Investigations\nBedside:\n\nBronchoscopy:\n\nBAL\nBronchial biopsy\nMay be indicated if high clinical suspicion and negative smear.\n\n\nLaboratory:\n\n\nAcid-fast refers to bacilli that have waxy (classically mycolic acids) substances in their cell wall, which retain a carbolfuchsin stain after being washed in an acidic solution.\n\nThe classic acid-fast stain is the Ziehl-Neelsen stain.\n\nNucleic acid amplification\nAmplifies known sections of DNA:\n\nAvailable for fluid samples, including sputum\nModerately sensitive and highly specific\nCan rapidly confirm diagnosis and presence of rifampicin resistance\nCan differentiate M. tuberculosis from other mycobacteria\n\nSputum\n\nExceedingly difficult to culture\nMultiple samples should be collected across different days\nRequest:\n\nFluorescent microscopy for acid-fast bacilli\nCulture\nAdenosine deaminase\n\n\nPleural fluid\n\nCulture\nNegative in &gt;75% of cases.\nAdenosine deaminase\n&gt;70/L favours TB; and may justify commencing treatment with high enough clinical suspicion.\n\nCSF\n\n\nCulture ~70% positive in meningeal disease.\nAdenosine deaminase\n\n\nLaboratory:\n\nCXR\nVery sensitive and a normal CXR almost excludes TB, except in:\n\nHIV +ve patients\nEarly apical disease\n\nCT Chest\nMore sensitive than plain film for identifying:\n\nCavities\nLymphadenopathy\nBronchiectasis\nBronchopleural fistulae\nEffusions\n\nCT Brain\nSensitive and not specific, features include:\n\nMeningeal thickening with contrast enhancement\nTuberculomas\nHydrocephalus"
   },
   {
     "objectID": "disease/infective/tb.html#management",
@@ -17371,7 +17371,7 @@
     "href": "disease/infective/leptospirosis.html#investigations",
     "title": "Leptospirosis",
     "section": "Investigations",
-    "text": "Investigations\n\nDark-field microscopic examination of blood, urine, CSF, or other fluids (dialysate!) are diagnostic.\n\nBedside:\nLaboratory:\n\nBlood\n\nLFTs\nFBE\n\nVariable WCC\nThrombocytopenia in severe disease\n\nCultures\nDuring the first few days of disease, whilst leptospiraemia persists. May take up to 14 days to develop.\nMicroscopic Agglutination Testing\nDiagnostic at 5-7 days. Logistically laborious.\nDNA PCR\nDiagnostic, limited by access.\n\nUrine\n\nProteinuria\nPyuria\nMicroscopic haematuria\nCultures\nDuring the first week, during leptospiruria phase.\n\nCSF\n\nPl\n\n\nImaging:\nOther:"
+    "text": "Investigations\n\nDark-field microscopic examination of blood, urine, CSF, or other fluids (dialysate!) are diagnostic.\n\nBedside:\nLaboratory:\n\nBlood\n\nLFTs\nFBE\n\nVariable WCC\nThrombocytopenia in severe disease\n\nCultures\nDuring the first few days of disease, whilst leptospiraemia persists. May take up to 14 days to develop.\nMicroscopic Agglutination Testing\nDiagnostic at 5-7 days. Logistically laborious.\nDNA PCR\nDiagnostic, limited by access.\n\nUrine\n\nProteinuria\nPyuria\nMicroscopic haematuria\nCultures\nDuring the first week, during leptospiruria phase.\n\nCSF\n\nPl\n\n\nLaboratory:\nOther:"
   },
   {
     "objectID": "disease/infective/leptospirosis.html#management",
@@ -17462,7 +17462,7 @@
     "href": "disease/infective/candida.html#investigations",
     "title": "Candidiasis",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\nLaboratory:\n\nBlood\n\nBlood cultures\n\nSputum\n\nBronchoalveolar lavage\n\nOther fluid culture\n\nImaging:\nOther:"
+    "text": "Investigations\nBedside:\nLaboratory:\n\nBlood\n\nBlood cultures\n\nSputum\n\nBronchoalveolar lavage\n\nOther fluid culture\n\nLaboratory:\nOther:"
   },
   {
     "objectID": "disease/infective/candida.html#management",
@@ -17539,7 +17539,7 @@
     "href": "disease/infective/aspergillosis.html#investigations",
     "title": "Aspergillosis",
     "section": "Investigations",
-    "text": "Investigations\n\nCultures, stain, and specific testing (galactomannan, PCR) are unable to discriminate between colonisation and infection.\n\nLaboratory:\n\n\nGalactomannan is a cell wall polysaccharide found in aspergillus, ice cream, salad dressings, and cream cheese.\n\nBlood\n\nFBE\n\nEosinophilia\nNeutropenia\n\nSerum galactomannan\n\nModerately sensitive (75%) and specific (85%) at a cutoff of &gt;0.5\nHigher cutoffs ↑ specificity and ↓ sensitivity.\nLower sensitivity in the immunocompetent and those receiving prophylaxis\n\nβ-D-glucan antigen\nCell wall component of most fungi. Improves sensitivity and specificity in combination with galactomannan.\nSerum PCR\n\nSimilar diagnostic properties to serum galactomannan.\n\n\nBronchoscopy\nBAL is an integral part of adequate sampling.\n\nVisual inspection\nFungal culture and stain\n\n\nDifficult to culture, with correspondingly low sensitivity and long culture times\nLoss of specificity with aspergillus colonisation\n\nAspergillus PCR\n\nHighly sensitive - negative result persuasive for no infection\n\nBAL galactomannan\n\nBetter than serum galactomannan in the immunocompetent\nMore likely to have contained pulmonary disease.\n\nTransbronchial biopsy\n\nDefinitive diagnostic test\nRisk of bleeding and pneumothorax often precludes this, particularly in the critically unwell\n\n\nSputum\nSignificantly ↓ yield compared with BAL.\n\nAspergillus radioallergosorbent assay\nSilver staining\nAspergillus IgG/IgE\n\n\nImaging:\n\nCXR\n\nAspergilloma cavities\n\nCT\n\nAspergilloma cavities\nNodules\nMonod sign\nFree-moving (i.e. positional and dependent) aspergilloma in a pulmonary cavity.\nHalo sign\nGround-glass opacity around a nodule or mass, usually indicating haemorrhage secondary to pulmonary infarction.\nAir crescent sign\nHalo of air around a region of necrosis, and indicates recovery.\n\n\n\n\n\n\n\nOther:\n\nOpen lung biopsy\nRarely indicated due to risk of procedure."
+    "text": "Investigations\n\nCultures, stain, and specific testing (galactomannan, PCR) are unable to discriminate between colonisation and infection.\n\nLaboratory:\n\n\nGalactomannan is a cell wall polysaccharide found in aspergillus, ice cream, salad dressings, and cream cheese.\n\nBlood\n\nFBE\n\nEosinophilia\nNeutropenia\n\nSerum galactomannan\n\nModerately sensitive (75%) and specific (85%) at a cutoff of &gt;0.5\nHigher cutoffs ↑ specificity and ↓ sensitivity.\nLower sensitivity in the immunocompetent and those receiving prophylaxis\n\nβ-D-glucan antigen\nCell wall component of most fungi. Improves sensitivity and specificity in combination with galactomannan.\nSerum PCR\n\nSimilar diagnostic properties to serum galactomannan.\n\n\nBronchoscopy\nBAL is an integral part of adequate sampling.\n\nVisual inspection\nFungal culture and stain\n\n\nDifficult to culture, with correspondingly low sensitivity and long culture times\nLoss of specificity with aspergillus colonisation\n\nAspergillus PCR\n\nHighly sensitive - negative result persuasive for no infection\n\nBAL galactomannan\n\nBetter than serum galactomannan in the immunocompetent\nMore likely to have contained pulmonary disease.\n\nTransbronchial biopsy\n\nDefinitive diagnostic test\nRisk of bleeding and pneumothorax often precludes this, particularly in the critically unwell\n\n\nSputum\nSignificantly ↓ yield compared with BAL.\n\nAspergillus radioallergosorbent assay\nSilver staining\nAspergillus IgG/IgE\n\n\nLaboratory:\n\nCXR\n\nAspergilloma cavities\n\nCT\n\nAspergilloma cavities\nNodules\nMonod sign\nFree-moving (i.e. positional and dependent) aspergilloma in a pulmonary cavity.\nHalo sign\nGround-glass opacity around a nodule or mass, usually indicating haemorrhage secondary to pulmonary infarction.\nAir crescent sign\nHalo of air around a region of necrosis, and indicates recovery.\n\n\n\n\n\n\n\nOther:\n\nOpen lung biopsy\nRarely indicated due to risk of procedure."
   },
   {
     "objectID": "disease/infective/aspergillosis.html#management",
@@ -17616,7 +17616,7 @@
     "href": "disease/infective/zygomycoses.html#investigations",
     "title": "Zygomycoses",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\nLaboratory:\n\nCulture\n\nGenerally 3-5 days to positivity\n\nTissue or abscess samples\n\nPeriodic acid-Schiff staining\nGrocott’s methenamine silver dry-mount staining\n\n\nImaging:\nOther:"
+    "text": "Investigations\nBedside:\nLaboratory:\n\nCulture\n\nGenerally 3-5 days to positivity\n\nTissue or abscess samples\n\nPeriodic acid-Schiff staining\nGrocott’s methenamine silver dry-mount staining\n\n\nLaboratory:\nOther:"
   },
   {
     "objectID": "disease/infective/zygomycoses.html#management",
@@ -17693,14 +17693,14 @@
     "href": "disease/infective/malaria.html#investigations",
     "title": "Malaria",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\nLaboratory:\n\nBlood\n\nFBE\n\nNormochromic normocytic anaemia\nThrombocytopaenia\n\nLFTs\nUECs\nBlood smears\nThick and thin films are gold standard of diagnosis:\n\nThin films identify parasites within red cells\nThick films allow parasite counting\n&gt;10% is an indicator of severe disease.\n\nRapid diagnostic tests\nLook for parasite-specific antigen. Qualitative evidence of disease.\nMalaria PCR\nMore sensitive than antigen testing with similar limitations.\n\n\n\n\nThick and thin films refer to the thickness of the blood on the slide.\nImaging:\nOther:"
+    "text": "Investigations\nBedside:\nLaboratory:\n\nBlood\n\nFBE\n\nNormochromic normocytic anaemia\nThrombocytopaenia\n\nLFTs\nUECs\nBlood smears\nThick and thin films are gold standard of diagnosis:\n\nThin films identify parasites within red cells\nThick films allow parasite counting\n&gt;10% is an indicator of severe disease.\n\nRapid diagnostic tests\nLook for parasite-specific antigen. Qualitative evidence of disease.\nMalaria PCR\nMore sensitive than antigen testing with similar limitations.\n\n\n\n\nThick and thin films refer to the thickness of the blood on the slide.\nLaboratory:\nOther:"
   },
   {
     "objectID": "disease/infective/malaria.html#management",
     "href": "disease/infective/malaria.html#management",
     "title": "Malaria",
     "section": "Management",
-    "text": "Management\n\nPrinciples:\n\nPreventative antimalarials when visiting endemic areas\nStandard sepsis management\nCovered under Section 385.6.\nAntimalarials\n\n\nResuscitation:\n\nC\n\nFluid boluses ↑ mortality in children\n\n\nSpecific therapy:\n\nPharmacological\n\nAntimalarials\n\nCombination therapy recommended due to P. falciparum resistance\nChloroquines kill mature parasites, immature parasites mature despite ongoing treatment\n\n\n\nPreventative:\n\nPharmacological\n\nMalarial prophylaxis\n\nPhysical\n\nMosquito nets\n\n\n\nMarginal and Ineffective Therapies\n\nSteroids\nWorsen outcome.\nIVIG\nWorsen outcome.\nExchange transfusion\nCytapheresis with replacement of native RBCs with donor RBCs, sometimes used if &gt;10% parasitaemia. No indication of mortality benefit."
+    "text": "Management\n\n\nPreventative antimalarials when visiting endemic areas\nStandard sepsis management\nCovered under Section 385.6.\nAntimalarials\n\n\nResuscitation:\n\nC\n\nFluid boluses ↑ mortality in children\n\n\nSpecific therapy:\n\nPharmacological\n\nAntimalarials\n\nCombination therapy recommended due to P. falciparum resistance\nChloroquines kill mature parasites, immature parasites mature despite ongoing treatment\n\n\n\nPreventative:\n\nPharmacological\n\nMalarial prophylaxis\n\nPhysical\n\nMosquito nets\n\n\n\nMarginal and Ineffective Therapies\n\nSteroids\nWorsen outcome.\nIVIG\nWorsen outcome.\nExchange transfusion\nCytapheresis with replacement of native RBCs with donor RBCs, sometimes used if &gt;10% parasitaemia. No indication of mortality benefit."
   },
   {
     "objectID": "disease/infective/malaria.html#anaesthetic-considerations",
@@ -17770,14 +17770,14 @@
     "href": "disease/infective/tetanus.html#investigations",
     "title": "Tetanus",
     "section": "Investigations",
-    "text": "Investigations\n\nNo specific laboratory findings - diagnosis is clinical.\n\nBedside:\n\nABG\nRespiratory failure.\n\nLaboratory:\n\nBloods\n\nUEC\nRhabdomyolysis.\nCMP\n\nWound culture\nMay grow C. tetani.\n\nImaging:\nOther:"
+    "text": "Investigations\n\nNo specific laboratory findings - diagnosis is clinical.\n\nBedside:\n\nABG\nRespiratory failure.\n\nLaboratory:\n\nBloods\n\nUEC\nRhabdomyolysis.\nCMP\n\nWound culture\nMay grow C. tetani.\n\nLaboratory:\nOther:"
   },
   {
     "objectID": "disease/infective/tetanus.html#management",
     "href": "disease/infective/tetanus.html#management",
     "title": "Tetanus",
     "section": "Management",
-    "text": "Management\n\nPrinciples:\n\nImmunoglobulin to neutralise circulating toxin\nSource control/wound care\nSupportive care\n\n\nResuscitation:\n\n\nA\n\nIntubation\nFor control of muscle spasm.\n\nB\n\nMechanical ventilation\n\n\nIf respiratory muscle involvement\nMuscle relaxation if spasms prevent ventilation\nNo particular agent is preferred.\n\n\nC\n\nHaemodynamic control\nConsider:\n\n↓ Catecholamine production\n\nSedation\nMay require hefty doses, Oh’s quotes 3.4 grams of diazepam daily.\nOpioids\nHeavy doses may also be required.\n\nα/β Antagonists\n\n\nClonidine\nPhentolamine, phenoxybenzamine\nEsmolol\n\nMgSO4\nTarget 2.4-4mmol/L. May also assist in ↓ spasm.\n\n\n\nSpecific therapy:\n\nPharmacological\n\nHuman antitetanus immunoglobulin\n\n500 IU\nShould be given to all patients who are not known to be immunised on presentation\nBinds circulating toxin\n\nAntibiotics\nSpores and bacteria are destroyed by:\n\nMetronidazole 500mg IV Q6-8H for 10 days\nPreferred.\nPenicillin G 1-3MU IV Q6H for 10 days\n\n\nProcedural\n\nWound care\nWashout of contaminated wounds.\nSource control\n\nPhysical\n\nSupportive Care:\n\nC\n\nHaemodynamic control\n\nLabetalol\nMagnesium\nClonidine\n\n\n\nDisposition:\n\nICU\n\nPreventative:\n\nTetanus toxoid vaccine\n\nCheap\nThree doses for full course\n2nd at 6-12 weeks, 3rd at 6-12 months.\nBooster every 10 years\nOccasionally results in local tetanus\nSpasm of limb or muscle.\nFrequent doses may result in non-life threatening immune symptoms\n\n\n\n\nNeonates have immunity via maternal antibodies until 3 months, and vaccination of pregnant women will protect children produced within 5 years.\n\nMarginal and Ineffective Therapies"
+    "text": "Management\n\n\nImmunoglobulin to neutralise circulating toxin\nSource control/wound care\nSupportive care\n\n\nResuscitation:\n\n\nA\n\nIntubation\nFor control of muscle spasm.\n\nB\n\nMechanical ventilation\n\n\nIf respiratory muscle involvement\nMuscle relaxation if spasms prevent ventilation\nNo particular agent is preferred.\n\n\nC\n\nHaemodynamic control\nConsider:\n\n↓ Catecholamine production\n\nSedation\nMay require hefty doses, Oh’s quotes 3.4 grams of diazepam daily.\nOpioids\nHeavy doses may also be required.\n\nα/β Antagonists\n\n\nClonidine\nPhentolamine, phenoxybenzamine\nEsmolol\n\nMgSO4\nTarget 2.4-4mmol/L. May also assist in ↓ spasm.\n\n\n\nSpecific therapy:\n\nPharmacological\n\nHuman antitetanus immunoglobulin\n\n500 IU\nShould be given to all patients who are not known to be immunised on presentation\nBinds circulating toxin\n\nAntibiotics\nSpores and bacteria are destroyed by:\n\nMetronidazole 500mg IV Q6-8H for 10 days\nPreferred.\nPenicillin G 1-3MU IV Q6H for 10 days\n\n\nProcedural\n\nWound care\nWashout of contaminated wounds.\nSource control\n\nPhysical\n\nSupportive Care:\n\nC\n\nHaemodynamic control\n\nLabetalol\nMagnesium\nClonidine\n\n\n\nDisposition:\n\nICU\n\nPreventative:\n\nTetanus toxoid vaccine\n\nCheap\nThree doses for full course\n2nd at 6-12 weeks, 3rd at 6-12 months.\nBooster every 10 years\nOccasionally results in local tetanus\nSpasm of limb or muscle.\nFrequent doses may result in non-life threatening immune symptoms\n\n\n\n\nNeonates have immunity via maternal antibodies until 3 months, and vaccination of pregnant women will protect children produced within 5 years.\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/infective/tetanus.html#complications",
@@ -17847,7 +17847,7 @@
     "href": "disease/infective/tss.html#management",
     "title": "Toxic Shock Syndrome",
     "section": "Management",
-    "text": "Management\n\nPrinciples:\n\nGood sepsis resuscitation\nCovered under Section 385.6.\nSpecific therapy for toxic shock is relatively benign and a low-threshold to initiate it is appropriate:\n\nKnown or reasonable likelihood of streptococcal infection\nPersistent vasopressor requirements\n\n\n\nSpecific therapy:\n\n\n\nThis just covers management of toxic shock syndrome; you still need to treat the actual infection with appropriate antimicrobials and source control.\n\n\nPharmacological\n\nToxin-suppressive antimicrobials\n\nClindamycin 900mg IV Q8H\n\nMost evidence\nGenerally broad activity against streptococci and staphylococci\nCombination with a β-lactam recommended for streptococcal infections to avoid potential clindamycin resistance.\n\nLinezolid 600mg IV Q12H\nToxin suppression with better coverage of both streptococci and staphylococci.\n\nIVIG\nNeutralise toxic antibodies.\n\n1g/kg on day 1\nCan ↑ to 2g/kg if faiulure of response.\n0.5g/kg on day 2 and 3, if required\n\n\nProcedural\n\nSource control\n\nDebridement of necrotic tissue\nRemoval of tampon\n\n\n\n\n\nThe role and dosing of IVIG in staphyloccal toxic shock is not well elucidated."
+    "text": "Management\n\n\nGood sepsis resuscitation\nCovered under Section 385.6.\nSpecific therapy for toxic shock is relatively benign and a low-threshold to initiate it is appropriate:\n\nKnown or reasonable likelihood of streptococcal infection\nPersistent vasopressor requirements\n\n\n\nSpecific therapy:\n\n\n\nThis just covers management of toxic shock syndrome; you still need to treat the actual infection with appropriate antimicrobials and source control.\n\n\nPharmacological\n\nToxin-suppressive antimicrobials\n\nClindamycin 900mg IV Q8H\n\nMost evidence\nGenerally broad activity against streptococci and staphylococci\nCombination with a β-lactam recommended for streptococcal infections to avoid potential clindamycin resistance.\n\nLinezolid 600mg IV Q12H\nToxin suppression with better coverage of both streptococci and staphylococci.\n\nIVIG\nNeutralise toxic antibodies.\n\n1g/kg on day 1\nCan ↑ to 2g/kg if faiulure of response.\n0.5g/kg on day 2 and 3, if required\n\n\nProcedural\n\nSource control\n\nDebridement of necrotic tissue\nRemoval of tampon\n\n\n\n\n\nThe role and dosing of IVIG in staphyloccal toxic shock is not well elucidated."
   },
   {
     "objectID": "disease/infective/tss.html#complications",
@@ -17903,7 +17903,7 @@
     "href": "disease/tox/paracetamol.html#management",
     "title": "Paracetamol Toxicity",
     "section": "Management",
-    "text": "Management\nResuscitation:\n\nSpecific therapy:\n\n\n\n\n\nPrescott Nomogram\n\n\n\nRisk Factors for Toxicity\n\n\n\n\n\n\n↓ Hepatic Glutathione\nCytochrome P450 Induction\n\n\n\n\nMalnourishment:\n\nAnorexia nervosa\nBulimia\nMalnourishment\n\nDisease:\n\nHIV\nCystic Fibrosis\n\nAntiepileptics:\n\nPhenytoin\nCarbamazepine\nPhenobarbital\n\nOther:\n\nRifampicin\nChronic ETOH\n\n\n\n\n\nPharmacological\n\nN-acetylcysteine (NAC)\nStimulates glutathione stimulus, allowing further glutathione to be conjugated.\n\nPrescott nomogram indicates when NAC therapy should be given\n&gt;200mg/kg or 10g in a one-off ingestion should receive NAC independent of level.\nEarly administration results in significant reduction in mortality (to &lt;1%), though even late administration may improve outcome.\n150mg/kg load over 15-60 minutes\n50mg/kg over 4 hours\n100mg/kg over 16 hours\nFurther doses may be indicated (usually 150mg/kg over 24 hours)\n\n\nProcedural\nPhysical\n\n\n\nIf in doubt, give NAC.\nSupportive care:\nDisposition:\n\nMarginal and Ineffective Therapies"
+    "text": "Management\nResuscitation:\n\nSpecific therapy:\n\n\n\n\n\nPrescott Nomogram\n\n\n\nRisk Factors for Toxicity\n\n\n\n\n\n\n↓ Hepatic Glutathione\nMalnourishment:\n\nAnorexia nervosa\nBulimia\nMalnourishment\n\nDisease:\n\nHIV\nCystic Fibrosis\n\nCytochrome P450 Induction | ===========================+ Antiepileptics: | | - Phenytoin | - Carbamazepine | - Phenobarbital | | Other: | - Rifampicin | - Chronic ETOH |\n\n\n\n\n\n\nPharmacological\n\nN-acetylcysteine (NAC)\nStimulates glutathione stimulus, allowing further glutathione to be conjugated.\n\nPrescott nomogram indicates when NAC therapy should be given\n&gt;200mg/kg or 10g in a one-off ingestion should receive NAC independent of level.\nEarly administration results in significant reduction in mortality (to &lt;1%), though even late administration may improve outcome.\n150mg/kg load over 15-60 minutes\n50mg/kg over 4 hours\n100mg/kg over 16 hours\nFurther doses may be indicated (usually 150mg/kg over 24 hours)\n\n\nProcedural\nPhysical\n\n\n\nIf in doubt, give NAC.\nSupportive care:\nDisposition:\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/tox/paracetamol.html#anaesthetic-considerations",
@@ -17994,7 +17994,7 @@
     "href": "disease/tox/serotonin_syndrome.html#investigations",
     "title": "Serotonin Syndrome",
     "section": "Investigations",
-    "text": "Investigations\nDiagnosis is clinical. Investigations usually targeted towards ruling out other causes, or identifying complications.\nBloods:\n\nUEC/\nRhabdomyolysis.\nCoagulation screen\nDIC.\n\nImaging:\n\nCTB\n\nOther:\n\nLP\nEncephalitis.\nEEG"
+    "text": "Investigations\nDiagnosis is clinical. Investigations usually targeted towards ruling out other causes, or identifying complications.\nBloods:\n\nUEC/\nRhabdomyolysis.\nCoagulation screen\nDIC.\n\nLaboratory:\n\nCTB\n\nOther:\n\nLP\nEncephalitis.\nEEG"
   },
   {
     "objectID": "disease/tox/serotonin_syndrome.html#management",
@@ -18127,14 +18127,14 @@
     "href": "disease/obs/eclampsia.html#investigations",
     "title": "Eclampsia",
     "section": "Investigations",
-    "text": "Investigations\nBedside:\nLaboratory:\nImaging:\n\nCTB\nEvaluate for intracranial complications.\n\nOther:"
+    "text": "Investigations\nBedside:\nLaboratory:\nLaboratory:\n\nCTB\nEvaluate for intracranial complications.\n\nOther:"
   },
   {
     "objectID": "disease/obs/eclampsia.html#management",
     "href": "disease/obs/eclampsia.html#management",
     "title": "Eclampsia",
     "section": "Management",
-    "text": "Management\n\nGoals:\n\nAirway protection and aspiration prevention\nCorrect hypertension\nTerminate seizure\nPrevent recurrent seizure\nExpedite delivery\n\n\n\n\nManagement of co-existing pre-eclampsia is crucial, and is covered at Chapter 406.\nResuscitation:\n\n\nA\n\nAirway protection\nPrevention of aspiration.\n\nB\n\nSupplemental oxygen\n\nC\n\nControl of blood pressure\n\nTarget SBP 140-150mmHg and DBP 90-100mmHg\nStrategy depends on severity of hypertension\n\nHypertensive crisis:\n\nLabetalol\n\n20-80mg IV over 2 minutes\nCan repeat every 10 minutes.\n\nNifedipine\n\n10-20mg PO IR\n\nHydralazine\n\n\n10mg IV Q20 minutes\n\nGTN\nFor hypertension and APO\n\n\n\n\nD\n\nSeizure prophylaxis\n\nMagnesium Sulphate\n\nProphylaxis and treatment for eclampsia in women with severe pre-eclampsia\nNot recommended for use as an antihypertensive agent.\nMultifactorial mechanism of action:\n\n↑ Prostacyclin synthesis\n↓ Calcium influx\nThereby ↓ ATP-consuming Ca2+-dependent processes.\nNMDA antagonism\n\nGive 4g over 20 minutes, and then 1g/hr thereafter\nTarget level is 1.7-3.5mmol/L\nBlood levels should be performed:\n\nQ6H in women with renal impairment\nIf any of:\n\nRR &lt; 12\nUO &lt; 100ml over 4 hours\nLoss of patella reflexes\nSeizures\nIncluding repeat seizures.\n\n\nMagnesium toxicity\n\nAssociated with muscular weakness, rarely respiratory arrest\nUnlikely if deep tendon reflexes present\nTreated with:\n\nCalcium\nRRT\n\n\n\nAnticonvulsants\n\n\nConventional anticonvulsants are only indicated for:\n\nPersistent seizures (&gt;5 minutes) with therapeutic magnesium levels\nMagnesium contraindication\n\nBenzodiazepines\n\nLorazepam 4mg IV\nMidazolam 1-2mg IV\n\n\n\n\n\nSpecific therapy:\n\nPharmacological\n\nBlood pressure control\n\nProcedural\n\nExpedite delivery\n\n\nDisposition:\n\nICU Admission\n\n\nFollowing seizure\nCommonly required after delivery\n\n\n\nMarginal and Ineffective Therapies"
+    "text": "Management\n\n\nAirway protection and aspiration prevention\nCorrect hypertension\nTerminate seizure\nPrevent recurrent seizure\nExpedite delivery\n\n\n\n\nManagement of co-existing pre-eclampsia is crucial, and is covered at Chapter 406.\nResuscitation:\n\n\nA\n\nAirway protection\nPrevention of aspiration.\n\nB\n\nSupplemental oxygen\n\nC\n\nControl of blood pressure\n\nTarget SBP 140-150mmHg and DBP 90-100mmHg\nStrategy depends on severity of hypertension\n\nHypertensive crisis:\n\nLabetalol\n\n20-80mg IV over 2 minutes\nCan repeat every 10 minutes.\n\nNifedipine\n\n10-20mg PO IR\n\nHydralazine\n\n\n10mg IV Q20 minutes\n\nGTN\nFor hypertension and APO\n\n\n\n\nD\n\nSeizure prophylaxis\n\nMagnesium Sulphate\n\nProphylaxis and treatment for eclampsia in women with severe pre-eclampsia\nNot recommended for use as an antihypertensive agent.\nMultifactorial mechanism of action:\n\n↑ Prostacyclin synthesis\n↓ Calcium influx\nThereby ↓ ATP-consuming Ca2+-dependent processes.\nNMDA antagonism\n\nGive 4g over 20 minutes, and then 1g/hr thereafter\nTarget level is 1.7-3.5mmol/L\nBlood levels should be performed:\n\nQ6H in women with renal impairment\nIf any of:\n\nRR &lt; 12\nUO &lt; 100ml over 4 hours\nLoss of patella reflexes\nSeizures\nIncluding repeat seizures.\n\n\nMagnesium toxicity\n\nAssociated with muscular weakness, rarely respiratory arrest\nUnlikely if deep tendon reflexes present\nTreated with:\n\nCalcium\nRRT\n\n\n\nAnticonvulsants\n\n\nConventional anticonvulsants are only indicated for:\n\nPersistent seizures (&gt;5 minutes) with therapeutic magnesium levels\nMagnesium contraindication\n\nBenzodiazepines\n\nLorazepam 4mg IV\nMidazolam 1-2mg IV\n\n\n\n\n\nSpecific therapy:\n\nPharmacological\n\nBlood pressure control\n\nProcedural\n\nExpedite delivery\n\n\nDisposition:\n\nICU Admission\n\n\nFollowing seizure\nCommonly required after delivery\n\n\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/obs/eclampsia.html#anaesthetic-considerations",
@@ -18484,7 +18484,7 @@
     "href": "disease/congenital/chiari.html#investigations",
     "title": "Chiari Malformations",
     "section": "Investigations",
-    "text": "Investigations\nImaging:\n\nCT\nMRI"
+    "text": "Investigations\nLaboratory:\n\nCT\nMRI"
   },
   {
     "objectID": "disease/congenital/chiari.html#management",
@@ -18834,7 +18834,7 @@
     "href": "disease/congenital/williams.html#investigations",
     "title": "Williams Syndrome",
     "section": "Investigations",
-    "text": "Investigations\nECG:\n\nLVH\nLong QT\n\nTTE:\n\nPresence of AS\nPresence of PS\n\nImaging:\n\nCardiac MRI"
+    "text": "Investigations\nECG:\n\nLVH\nLong QT\n\nTTE:\n\nPresence of AS\nPresence of PS\n\nLaboratory:\n\nCardiac MRI"
   },
   {
     "objectID": "disease/congenital/williams.html#management",
