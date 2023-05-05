@@ -1,20 +1,27 @@
 # Secondary Survey
 
-> * Only begins once primary survey is completed and resuscitation is underway
-> * Aims to identify important, but not immediately treatable life-threatening (or **immediately treatable**) life-threatening injuries
-> * The following injuries should be **actively looked for and excluded** during the secondary survey:\
->Imaging will be required.
->	* Tracheobronchial tree injury
->	* Pneumothorax
->	* Pulmonary contusions
->	* Haemothorax
->	* Blunt cardiac injury
->	* Traumatic aortic injury
->	* Oesophageal rupture
->	* Traumatic diaphragmatic injury
+The secondary survey:
+
+* Aims to **identify important**, but not **immediately treatable life-threatening** injuries
+* *Only* **begins once primary survey** is **completed** and resuscitation is underway
+* Should include **actively looking for and excluding** the following injuries:
+	* Tracheobronchial tree injury
+	* Pneumothorax
+	* Pulmonary contusions
+	* Haemothorax
+	* Blunt cardiac injury
+	* Traumatic aortic injury
+	* Oesophageal rupture
+	* Traumatic diaphragmatic injury
+
+:::column-margin
+Imaging will be required for exclusion.
+:::
 
 
-The secondary survey is a thorough head-to-toe evaluation, including complete history, physical examination, and reassessment of vitals.
+## Process
+
+A thorough head-to-toe evaluation, including complete history, physical examination, and reassessment of vitals.
 
 * Head
 	* Scalp & Skull\
@@ -29,11 +36,18 @@ The secondary survey is a thorough head-to-toe evaluation, including complete hi
 		* **Contact lenses**
 		* Lens dislocation
 	* Ear
-		* BoS fracture
+		* Base of skull fracture
+			* Blood
+			* Haemotympanum
+			* CSF otorrhoea
 		* Membrane integrity
 	* Midface
+		* CSF rhinorrhoea
 	* Mandible
 
+:::column-margin
+Scalp lacerations may bleed extensively and be relatively under-recognised.
+:::
 
 * Neck
 	* C-spine tenderness
@@ -45,18 +59,21 @@ The secondary survey is a thorough head-to-toe evaluation, including complete hi
 		* Blunt carotid injuries may cause intimal tears and present late
 	* Lacerations
 	* Distension of neck veins
-		* Tamponade/tension pneumothorax will ↑ right sided filling pressures and raise CVP
+		* Tamponade/tension pneumothorax will ↑ right sided filling pressures and ↑ CVP
 		* Hypovolaemia will reduce filling pressures
 
+:::column-margin
+Laryngotracheal injury is an **airway emergency**, and covered under @sec-trauma_airway.
+:::
 
 * Chest
 	* Palpate ribs, clavicle, sternum
 	* Auscultate anterior chest wall and bases
-
-
+\
+\
 * Abdomen
-
-
+\
+\
 * Pelvis
 	* Bruising of iliac wings, scrotum/labia suggests pelvic fracture
 	* Pelvic spring
@@ -66,21 +83,57 @@ The secondary survey is a thorough head-to-toe evaluation, including complete hi
 	* Vaginal examination
 		* If mechanism suggests injury
 		* Consider retained **tampon**
-
-
+\
+\
 * Extremities
 	* Tenderness
 	* Abnormal movement\
 	The ability to move a joint through its full range of motion usually indicates that the muscle unit is intact and the joint is stable.
-	* Distal pulses\
+	* Distal pulses
 
-### Adjuncts to the Secondary Survey
+
+## Investigations
+
+**Laboratory**:
+
+* Blood
+	* Alcohol
+
+**Imaging**:
+
+:::column-margin
+Unhelpful investigations include:
+
+* C-spine XR\
+Essentially deprecated by CT>
+* Skull XR
+* Abdominal XR\
+May have a role in determining trajectory of high-velocity GSW.
+:::
 
 * X-Ray
 	* CXR
+		* Pneumothorax
+		* Haemothorax
+		* Abdominal free gas
+		* Mediastinal widening
 	* Pelvis
+		* Pelvic fracture
 	* Long bones
+		* Any identified abnormalities on secondary survey
 * CT
+	* Brain\
+	Early identification and triage of traumatic brain injuries.
+	* C-spine\
+	Rapid identification or exclusion of cervical spine injuries.
+	* Chest\
+	Diagnosis of aortic injury; other diagnoses adequately identified on XR.
+	* Abdomen\
+	Source of intrabdominal bleeding in a patient stable enough to transfer to CT.
 
 
 ---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

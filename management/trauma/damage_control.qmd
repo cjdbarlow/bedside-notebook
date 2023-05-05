@@ -1,6 +1,12 @@
-# Damage Control Surgery and Resuscitation
+# Damage Control Surgery {#sec-damage_control}
 
 Damage control surgery describes **limited surgical interventions** to correct or temporise **immediately life-threatening injuries until** a patient **regains** the **physiological reserve** to **tolerate** definitive **repair**. The key principles involve:
+
+:::column-margin
+This covers the principles of Damage Control Surgery and the care of the trauma patient after the emergency room.\
+\
+Conduct of the Primary Survey and Damage Control Resuscitation are covered under @sec-trauma_primary.
+:::
 
 * Avoiding tissue hypoxia and oxygen debt by:
 	* Reducing blood loss
@@ -40,8 +46,8 @@ Severely injured patients with multisystem trauma, generally indicated by:
 		* New ventricular arrhythmia
 * Inability to control bleeding
 * Large volume resuscitation
-	* >10 units PRBC
-	* >12L of volume resuscitation\
+	* \>10 units PRBC
+	* \>12L of volume resuscitation\
 	Including crystalloid and blood, in both pre- and intra-hospital phases.
 * Injury patterns
 	* Major venous injury with poor access\
@@ -73,6 +79,7 @@ Severely injured patients with multisystem trauma, generally indicated by:
 * Spinal cord injury
 	* Avoid SBP ⩽90mmHg
 	* Aim MAP 85-90mmHg
+
 
 ## Phases of Care
 

@@ -810,14 +810,14 @@ book:
             - disease/trauma/burns.qmd
         - part: "Head"
           chapters:
+            - disease/trauma/tbi.qmd
             - disease/trauma/dai.qmd
             # EDH
             # SDH
             # Traumatic SAH
-            # TBI
         - part: "Face and Neck"
           chapters:
-            - disease/trauma/laryngeal_fracture.qmd
+            - disease/trauma/airway_trauma.qmd
             - disease/trauma/airway_burns.qmd
         # - part: "Chest"
         #   chapters:

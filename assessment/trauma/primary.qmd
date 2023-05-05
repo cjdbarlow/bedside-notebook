@@ -1,151 +1,321 @@
-# Primary Survey
+# Primary Survey {#sec-trauma_primary}
 
-> * Aims to **identify and treat immediately life threatening injuries**
-> * These injuries should be **actively looked for and excluded**:
->	* **A**irway Obstruction
->	* **T**ension Pneumothorax
->	* **O**pen Pneumothorax
->	* **M**assive haemorrhage
->	* **H**aemothorax
->	* **F**lail Chest and pulmonary contusion
->	* **C**ardiac Tamponade
+:::priority
+The goal of the Primary Survey is to **identify and immediately treat life threatening injuries**.\
+\
+These injuries should be **actively looked for and excluded**:
+
+* **A**irway Obstruction
+* **T**ension Pneumothorax
+* **O**pen Pneumothorax
+* **M**assive haemorrhage
+* **H**aemothorax
+* **F**lail Chest and pulmonary contusion
+* **C**ardiac Tamponade
+:::
+
+:::column-margin
+Due to the importance of simultaneous assessment and treatment in the care of the acute trauma patient, the principles of Damage Control Resuscitation are included here.\
+\
+The principles of management after the resuscitation bay are covered at @sec-damage_control.
+:::
+
+## Process
 
 The primary survey follows the **CABCD** approach:
 
-* **Safe Approach**\
-Ensure the approach to the patient is safe.
+* Safe approach
+* **C**atastrophic haemorrhage
+* **A**irway
+* **B**reathing
+* **C**irculation
+* **D**isability
 
 
-* **C**\
-Catastrophic haemorrhage control.
-	* Control of immediately life threatening bleeds only
-	* Typically applies to extremety trauma\
-	* Interventions\
-	**DDIT**:
-		* Direct Pressure
-		* Direct Pressure (more)
-		* Indirect Pressure\
-		To artery proximal to injury.
-		* **Torniquets**
+### Safe Approach
+
+Ensure you can safely access the patient.
+
+
+### Catastrophic Haemorrhage
+
+**Assessment**:
+
+:::column-margin
+Audible bleeding indicates catastrophic haemorrhage.
+:::
+
+* Identify immediately life threatening bleeds\
+Typically extremity haemorrhage.
+
+
+**Management**:
+
+* Direct Pressure
+* Direct Pressure (more)
+* Indirect Pressure\
+To artery proximal to injury.
+* **Tourniquets**
+* Consider:
+	* Wound packing
+	* Haemostatic agents
+
+
+
+### Airway
+
+:::priority
+Goal is to **restore** airway **patency**.
+:::
+
+**Assessment**:
+
+* Rapid **Assessment**:\
+Ask the patient to:
+	* **Identify themselves and what happened**\
+	This indicates airway patency, adequate breathing, conscious state.
+	* Open their mouth
+	* Take two deep breaths
+	* Cough
+	* Ask: "Does your breathing feel normal?"\
+	If the above are normal, then the chance of a serious breathing problem is unlikely.
+	* Ask: "Where do you hurt?"
+	* Ask: "Where else do you hurt?"
+* Check for **threatened airway**:
+	* Unconsciousness/obtundation\
+	Loss of airway reflexes.
+	* **Patency**
+		* Look for obstruction or foreign body
+		* Listen for stridor, gurgling, abnormal phonation
 		* Consider:
-			* Wound packing
-			* Haemostatic agents
+			* Facial, mandibular, tracheal, or laryngeal fractures
+
+**Management**:
+
+:::column-margin
+Head tilt is contraindicated in spinal injury due to displacement of trachea; mandibular manipulations are safe and probably more effective.
+:::
+
+* Basic airway maneuvres
+	* Chin lift
+	* Jaw thrust
+* Place OPA
+* Consider NPA\
+Relatively contraindicated if concern for base of skull fractures.
+* Intubate\
+Consider when:
+	* Patient, team, and environment are optimised.\
+	Roles assigned (including MILS).
+	* SpO2 < 93%
+	* GCS < 8
 
 
-* **A**\
-Airway assessment and immediate management:
-	* Rapid Assessment:\
-	Ask the patient to:
-		* **Identify themselves and what happened**\
-		This indicates airway patency, adequate breathing, conscious state.
-		* Open their mouth
-		* Take two deep breaths
-		* Cough
-		* Ask: "Does your breathing feel normal?"\
-		If the above are normal, then the chance of a serious breathing problem is unlikely.
-		* Ask: "Where do you hurt?"
-		* Ask: "Where else do you hurt?"
-	* Check for **threatened airway**:
-		* Unconsciousness/obtundation\
-		Loss of airway reflexes.
-		* **Patency**
-			* Look for obstruction or foreign body
-			* Listen for stridor, gurgling, abnormal phonation
-			* Consider:
-				* Facial, mandibular, tracheal, or laryngeal fractures
-	* Interventions to restore patency:
-		* Basic manouvres
-		* Place OPA
-		* Intubate\
-		Consider when:
-			* Patient, team, and environment are optimised.\
-			Roles assigned (including MILS).
-			* SpO2 < 93%
-			* GCS < 8
+### Breathing
+
+:::priority
+Goal is to ensure **adequate oxygenation**.\
+:::
+
+**Assessment**:
+
+:::column-margin
+Mnemonic for respiratory assessment is **RU IN SHAPE**). 
+:::
+
+* Respiratory Rate\
+Significant when:
+	* RR > 20
+	* RR < 8
+* Unequal movements
+* Injuries\
+Major thoracic trauma.
+* Search
+* Hands on\
+Palpate.
+* Auscultate
+* Percuss
+* (Everywhere)
+
+:::crisis
+If **no signs of life**, commence **traumatic cardiac arrest** management.
+:::
+
+**Management**:
+
+:::column-margin
+Breathing interventions follow a basic respiratory support ladder.
+:::
+
+* Rescue\
+If entrapped.
+* Optimise positioning
+	* Splinting of flail segments
+* Oxygen
+* Analgesia
+* NIV
+* Decompression
+* RSI
+	* ↑ FiO~2~
+	* PEEP
+	* Recruitment
+* Proning
 
 
+### Circulation
 
-* **B**\
-Assess breathing (**RU IN SHAPE**). If there are no signs of life, commence traumatic cardiac arrest protocol.
-	* Assessment:
-		* Respiratory Rate\
-		Significant when:
-			* RR > 20
-			* RR < 8
-		* Unequal movements
-		* Injuries\
-		Major thoracic trauma.
-		* Search
-		* Hands on\
-		Palpate.
-		* Auscultate
-		* Percuss
-		* (Everywhere)
-		* Interventions to optimise
-	The **respiratory support ladder**:
-		* Rescue\
-		If entrapped.
-		* Optimise positioning
-		* Oxygen
-		* Analgesia
-		* NIV
-		* Decompression
-		* RSI
+:::priority
+* Actively **look for** and **control** sources of **bleeding**
+* **Maintain perfusion** at the **minimum viable** for **life**
+* **Resuscitation** with **blood**
+* Minimise crystalloid and vasopressor use
+:::
 
+**Assessment**:
 
-* **C**\
-Assess perfusion:
+:::column-margin
+Central capillary return is used due to:
+	* Centralisation of blood volume
+	* Hypothermia of extremities.
+:::
+
+* **Perfusion**
 	* GCS
 	* Capillary return\
 	Central >3 seconds.
 	* Pulse\
+	Key makers.
 		* Present
 		* \>120
-	* Fluid responsiveness
-	* Actively look for sources of bleeding\
-	**SCALPER**:
-		* Scalp
-		* Chest
-		* Abdomen\
-			* Pain on palpation away from bruises
-			* Fat fractures suggest high risk of hollow organ injury\
-			Divet felt under intact skin.
-		* Long Bones
-		* Pelvis\
-			* Pain suggests pelvic injury
-		* External\
-		"The Floor."
-		* Retroperitoneum
+* Sources of bleeding
+**SCALPER**:
+	* Scalp
+	* Chest
+	* Abdomen\
+		* Pain on palpation away from bruises
+		* Fat fractures suggest high risk of hollow organ injury\
+		Divet felt under intact skin.
+	* Long Bones
+	* Pelvis
+		* Pain suggests pelvic injury
+	* External\
+	"The Floor."
+	* Retroperitoneum
 
 
-* **D**\
-Assess neurology:
-	* GCS
-	* Pupillary size and reaction
-	* Focal defect
-	* Spinal Cord Injury level
+**Management**:
+
+:::column-margin
+Blood product in a matched ratio should be used, however there are times when this is not immediately available. Crystalloid is permissible to maintain the minimum viable blood pressure until blood product arrives.
+:::
+
+* **Permissive hypotension**\
+Accepting degree of hypotension in order to ↓ bleeding and allow clot to form, whilst maintaining some semblance of organ perfusion. Target is a balance of risk of bleeding versus malperfusion, and varies with pathology:
+	* Traumatic brain injury:
+		* <50: SBP >110
+		* 50-69: SBP >100
+		* \>70: SBP >110
+	* Spinal injury: MAP >85mmHg
+	* Blunt trauma: >80mmHg *or* radial pulse
+	* Penetrating trauma: >60mmHg *or* conscious
+* **Fluid/blood resuscitation**
+	* In-line warmers should be used to minimise hypothermia
+	* Massive transfusion protocol if major bleeding
+* **Resuscitative thoracotomy**\
+Indicated for:
+	* **Penetrating trauma** with **cardiac arrest <10 minutes**
+	* **Blunt trauma** with **witnessed cardiac arrest**
+	* Refractory shock with echocardiographic pericardial collection and:
+		* Intubated
+		* Bilateral thoracostomies
+		* Aggressive blood product resuscitation
 
 
-* **E**\
-Exposure and extremities:
-	* Completely undress
-	* Logroll
-	* **Cover and rewarm**
+### Disability
 
-### Adjuncts to the Primary Survey
+:::priority
+**Identify** a **neurosurgical injury** that requires **immediate intervention**.
+:::
 
-* **A**
-	* Capnography\
-	Confirm ETT position.
-* **C**
-	* Ultrasound\
-	FAST scanning:
-		* Free fluid in abdomen
-		* Pneumothorax in chest
-	* ECG
-		* Dysrhythmias/ST segement changes\
-		May indicate blunt cardiac injury or causative event (e.g. MI leading to MVC).
-	* IDC
-		* Consider filling bladder to tamponade pelvic venous bleeds 
+**Assessment**:
+
+* GCS
+* Pupillary size and reaction
+* Focal defect
+* Spinal Cord Injury level
+
+**Management**:
+
+:::column-margin
+Management of TBI is covered under @sec-trauma_tbi.
+:::
+
+* Correct hypoxia
+* Maintain cerebral perfusion
+* Consider emergency burr hole if:
+	* Lateralising neurology
+	* ↓ Conscious state
+	* No CT scan available
+	* No neurosurgeon available
+
+### Exposure
+
+:::priority
+* Identify potential missed injuries; particularly on the **back**
+* **Prevent hypothermia**
+:::
+
+**Assessment**:
+
+* Completely undress
+* Logroll
+* **Cover and rewarm**
+
+
+## Adjuncts to the Primary Survey
+
+**Monitoring**:
+
+* Capnography\
+Confirm ETT position.
+* ECG
+	* Dysrhythmias/ST segment changes\
+	May indicate blunt cardiac injury or causative event (e.g. MI leading to MVC).
+
+
+**Interventions**:
+
+* IDC
+	* Consider filling bladder to tamponade pelvic venous bleeds
+	* Avoid if suspecting urethral injury
+		* Blood at urinary meatus
+		* Fractured pelvis
+
+
+## Investigations
+
+**Bedside**:
+
+* Ultrasound\
+FAST scanning:
+	* Free fluid in abdomen\
+	To indicate whether a hypotensive patient should proceed immediately for laparotomy (with a positive FAST). A normotensive patient with a positive FAST should proceed to CT, in order to aid surgical planning.
+	* Pneumothorax in chest
+
+:::column-margin
+Diagnostic peritoneal lavage is a bedside test to evaluate presence of abdominal haemorrhage.\
+\
+10mL/kg or 1L of saline is infused into the peritoneal cavity via a small midline incision to determine need for laparotomy. It is superseded by ultrasound, but has niche uses in the morbidly obese or subcutaneously emphysematous hypotensive patient who is at risk of transport for a negative CT.
+:::
+
+**Laboratory**:
+
+* Bloods
+	* Group and Cross-match\
+	6 units for major trauma.
+
 
 ---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
