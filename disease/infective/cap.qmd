@@ -108,46 +108,42 @@ Assessment of severity:
 
 ## Investigations
 
-Bloods:
+**Laboratory**:
 
-* FBE
-* UEC
-* LFT
-* Blood cultures (x2-3)
-* CRP\
-↑ Benefit from steroids seen with ↑ CRP.
-* HIV status
-
-
-Sputum:
+* **Blood**:
+    * FBE
+    * UEC
+    * LFT
+    * Blood cultures (x2-3)
+    * CRP\
+    ↑ Benefit from steroids seen with ↑ CRP.
+    * HIV status
+* **Sputum**:
+    * Tests include:
+        * Gram stain
+        * Culture
+        * *Mycoplasma pneumoniae* PCR
+        * *Chlamydophilia* PCR
+    * Collection is ideally:
+        * From a **deep cough**\
+        To minimise contamination from upper respiratory tract commensals.
+        * Prior to antibiotics
+    * Rapid transport to laboratory ↑ chance of detecting fastidious organisms
+    * Causative organism is likely if:
+        * Dominant on gram stain
+        * Heavy growth on culture
+* **Urine**:
+    * Legionella antigen\
+    Highly specific but not sensitive for infection; negative test does not exclude disease.
+    * Pneumococcal antigen\
+    Highly specific and moderately sensitive.
 
 :::column-margin
 Anaerobic culture cannot be performed on sputum due to contamination from other upper respiratory organisms.
 :::
 
-* Tests include:
-    * Gram stain
-    * Culture
-    * *Mycoplasma pneumoniae* PCR
-    * *Chlamydophilia* PCR
-* Collection is ideally:
-    * From a **deep cough**\
-    To minimise contamination from upper respiratory tract commensals.
-    * Prior to antibiotics
-* Rapid transport to laboratory ↑ chance of detecting fastidious organisms
-* Causative organism is likely if:
-    * Dominant on gram stain
-    * Heavy growth on culture
 
-
-Urine:
-
-* Legionella antigen\
-Highly specific but not sensitive for infection; negative test does not exclude disease.
-* Pneumococcal antigen\
-Highly specific and moderately sensitive.
-
-Radiology:
+**Imaging**:
 
 * CXR\
 Radiographic infiltrates may be absent in up to 25%.

@@ -105,7 +105,7 @@ Associated with gas-forming organism infection (generally *Clostridia*, classica
 		* DIC
 
 
-**Laboratory**:
+**Imaging**:
 
 * XR
 	* Gas in soft tissue planes
@@ -117,10 +117,10 @@ Associated with gas-forming organism infection (generally *Clostridia*, classica
 * US
 	* Fascial fluid collections
 	* Gas
-* MRI
-	* Fascial thickening
-	* Hyperintense T2 signal in muscles
 
+:::column-margin
+MRI may reveal fascial thickening and hyperintense T2 signal; however MRI is not the ideal investigation for a time-critical surgical diagnosis.
+:::
 
 **Other**:
 

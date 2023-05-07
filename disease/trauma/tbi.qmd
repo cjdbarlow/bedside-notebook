@@ -1,13 +1,156 @@
 # Traumatic Brain Injury {#sec-trauma_tbi}
 
+**Spectrum** of **brain injury** due to **cerebral oedema** and **impaired autoregulation**, classified by:
+
+* **Severity**
+	* Mild\
+	GCS 13-15.
+		* 70-80% of all TBI.		
+		* Brief loss of consciousness
+	* Moderate\
+	GCS 9-12 after resuscitation
+	* Severe\
+	GCS ⩽8 after resuscitation
+* **Timing**
+	* **Primary brain injury**\
+	Neuronal death from the initial trauma.
+		* Major determinant of outcome
+		* Relatively untreatable
+	* **Secondary brain injury**\
+	Additional harm that occurs due to post-injury insults.
+
+:::column-margin
+Primary brain injury is the damage done when the head hits the windscreen, secondary brain injury is everything that happens afterwards. Good prehospital, ED, and ICU care involves minimising secondary brain injury, since this the time when we can intervene.
+:::
 
 ## Epidemiology and Risk Factors
 
+TBI is the:
+
+* Leading cause of death in <45 year olds
+	* ↑ In males
+
 ## Pathophysiology
+
+**Primary brain injury**:
+
+* Can involve various physical mechanisms:
+	* Impact loading\
+	Collision of head with object.
+	* Impulsive loading\
+	Sudden change in motion without physical contact
+	* Static loading\
+	Force where speed of occurrence is not significant.
+	* Rotational shearing\
+	Leads to axonal stretching and tearing\
+		* Concentrated around the grey-white matter interface as:
+			* Grey and white matter have slightly different densities
+			* Rotational force results in small differences in the velocities of each tissue type
+* Occurs due to brain deformation via:
+	* Compression
+	* Stretch
+	* Shearing
+* Results in a constellation of effects:
+	* Inflammation\
+	Leads to **cerebral oedema** via:
+		* Altered blood-brain barrier permeability
+		* Direct neuronal injury
+		* Microvascular injury
+	* Haemorrhage\
+	Micro and macrovascular haemorrhage:
+		* Extra-axial haemorrhage
+			* EDH
+			* SDH
+		* Intra-axial haemorrhage
+			* SAH
+			* Contusions
+	* Sympathetic surge
+
+
+**Secondary brain injury** occurs due to:
+
+:::column-margin
+Physiological derangements from other traumatic injuries will compound to further worsen secondary brain injury.
+:::
+
+* Cerebral ischaemia
+	* ↓ CPP
+		* Hypotension
+			* Hypovolaemia
+			* Shock
+		* ↑ ICP
+			* Cerebral oedema
+			* Mass effect		
+	* Hypoxaemia
+		* Pulmonary injury
+		* Neurogenic pulmonary oedema
+	* Direct vascular injury\
+	Regional ischaemia.
+* Impaired cerebral autoregulation
+	* Hyper/hypocarbia
+	* Hypo/hyperthermia
+* Induction of apoptosis
+	* Axonal degeneration
+	* Synaptic loss
+
+
+Medium to long-term effects occur over:
+
+* Weeks-months
+	* Neuroplastic remodelling
+	* Apoptotic cell death
+* Months-years
+	* Further remodelling
+	* Cognitive dysfunction
+	* HPA dysfunction.
+
 
 ### Aetiology
 
+Primary brain injury causes include:
+
+* Falls\
+Most common.
+* MVA\
+Most common cause of death.
+* Violence
+	* NAI
+	* Domestic violence
+	* Elder abuse
+* Industrial accidents
+* Sport
+
+
++----------------------+-----------------------------+
+| Systemic             | Intracranial                |
++======================+=============================+
+| * ↓ O~2~ (<90%)      | * Seizure                   |
+| * ↓ SBP (<90mmHg)    | * Intracranial haematoma    |
+| * ↑/↓ CO~2~          | * SAH\                      |
+| * ↑/↓ Temperature    | Delayed cerebral ischaemia. |
+| * ↑/↓ BSL            | * Hydrocephalus\            |
+| * ↑/↓ Na^+^          | \                           |
+| * ↑ Osmoles\         | * Intracranial infection    |
+| \                    |                             |
+| * Systemic infection |                             |
++----------------------+-----------------------------+
+
+: Drivers of Secondary Brain Injury
+
+
 ## Clinical Manifestations
+
+Features include:
+
+* Nausea/vomiting
+* Cognitive dysfunction
+* Behavioural change
+* Obtundation → coma
+
+
+Examination:
+
+* ↑ Pupil size and ↓ reactivity suggest ↑↑↑ ICP with impending herniation
 
 ## Diagnostic Approach and DDx
 
@@ -17,7 +160,90 @@
 
 **Laboratory**:
 
-**Laboratory**:
+**Imaging**:
+
+* CTB
+	* Goals:
+		* **Exclude** a neurosurgically **correctable mass lesion**
+		* Grade injury\
+		Commonly used classification systems include:
+			* Marshall
+			* Rotterdam
+	* Findings:
+		* DAI
+		* Cerebral contusion
+		* Hydrocephalus
+		* Traumatic SAH/EDH/SDH
+* MRI\
+Not indicated routinely in the acute phase. Role in:
+	* Neuroprognostication of DAI
+	* Identification intracranial vascular injury
+
+
+### Marshall Classification
+
+Grades injury into **six categories** by degree of swelling or presence of contusions.
+
+:::column-margin
+High/mixed density lesions refers to haemorrhage.
+:::
+
++-------+---------------------------------------------------------------+
+| Grade | Findings                                                      |
++=======+===============================================================+
+| I     | * No visible pathology                                        |
++-------+---------------------------------------------------------------+
+| II    | * Basal cisterns present with <5mm midline shift              |
+|       | * Density (contusion) present\                                |
+|       | * No high/mixed density >25mm                                 |
+|       | * Bony fragments/foreign body                                 |
++-------+---------------------------------------------------------------+
+| III   | * Compressed or absent basal cisterns with <5mm midline shift |
+|       | * No high/mixed density >25mm                                 |
++-------+---------------------------------------------------------------+
+| IV    | * Midline shift >5mm                                          |
+|       | * No high/mixed density >25mm                                 |
++-------+---------------------------------------------------------------+
+| V     | * Evacuated mass lesion\                                      |
+|       | i.e Lesion that required surgery.                             |
++-------+---------------------------------------------------------------+
+| VI    | * Non-evacuable mass lesion\                                  |
+|       | High/mixed density lesions >25mm.                             |
++-------+---------------------------------------------------------------+
+
+: Marshall Classification of TBI
+
+### Rotterdam Classification
+
++----------------------+---------------+
+| Region               | Score         |
++======================+===============+
+| Basal Cisterns       | 0. Normal     |
+|                      | 1. Compressed |
+|                      | 2. Absent     |
++----------------------+---------------+
+| Midline Shift        | 0. Shift <5mm |
+|                      | 1. Shift >5mm |
++----------------------+---------------+
+| Epidural mass lesion | 0. Present    |
+|                      | 1. Absent     |
++----------------------+---------------+
+| IVH or SAH           | 0. Absent     |
+|                      | 1. Present    |
++----------------------+---------------+
+
+: Rotterdam Classification of TBI
+
+
+Rotterdam score correlates with six-month mortality in adults and children. In adults the sum score + 1 gives a mortality:
+
+* 1. 0%
+* 2. 7%
+* 3. 16%
+* 4. 26%
+* 5. 53%
+* 6. 61%
+
 
 **Other**:
 
@@ -27,37 +253,153 @@
 * Correct hypoxia
 * Maintain **cerebral perfusion**
 * **↓ ICP**
-* Identification and treatment of other traumatic injuries\
-Covered under @sec-trauma_primary.
+* Identification and treatment of other traumatic injuries
+* Transfer to a neurotrauma centre
 :::
 
-**Resuscitation**:\
+**Resuscitation**:
 
-ABC approach. Comment on team coordination and clinical priorities.
+:::column-margin
+This covers brain-specific resuscitation; the principles of Damage Control Resuscitation are covered under @sec-trauma_primary. Details of **ICP management including indications** are covered under @sec-icp_mx.
+:::
+
+* A
+	* **Intubation**\
+	For:
+		* Coma
+		* Marked agitation
+		* Significant extracranial trauma
+* B
+	* Normal **O~2~**\
+	PaO~2~ 80-100mmHg.
+	* Low-normal **CO~2~**\
+	PaCO~2~ 35-40mmHg.
+	* Lung protective ventilation\
+	PEEP of 5-10cmH~2~O is appropriate; ↑↑ PEEP will ↑ CVP and ↓ cerebral venous return.
+* C
+	* Defend **cerebral perfusion**
+		* Target SBP or CPP:\
+		SBP should be targeted if ICP is not monitored, otherwise target CPP.
+			* SBP target varies with age:
+				* <50: SBP >110
+				* 50-69: SBP >100
+				* \>70: SBP >110
+			* Aim **CPP 60-70mmHg**\
+			Can be relaxed after 72 hours as the brain enters a hyperaemic phase, although ICP <22mmHg should still be defended.
+		* Correct hypovolaemia with blood or crystalloid
+		* Vasopressors appropriate once volume resuscitated
+	* Invasive arterial monitoring
+* D
+	* **ICP Control**\
+	Target ICP is <22mmHg.
+
+
+:::column-margin
+Hyperventilation to hypocarbia does ↓ CO~2~ and ↓ ICP, but leads to cerebral vasoconstriction and ↓ CBF. It *may* have a role for short term control of ↑ ICP prior to some definitive therapy; e.g. the patient who blows a pupil during transfer to the OR.
+:::
+
+:::column-margin
+There is no evidence supporting mannitol or hypertonic saline over the other, however I prefer hypertonic saline due to:
+
+* Repeatability
+* Preservation of osmolar gap
+:::
+
 **Specific therapy**:
 
 * Pharmacological
-	* **Osmotherapy**
-		* Mannitol 1g/kg
-		* Hypertonic saline
-			* 5-10mL 23.4%
 * Procedural
+	* Evacuation of extra-axial haemorrhage
+	* EVD
+	* ICP monitoring
 * Physical
+
 
 **Supportive care**:
 
+* D
+	* Seizure prophylaxis\
+	Can be considered to prevent early (<7 days) seizures.
+* E
+	* **Temperature management**\
+	Normothermia (35.5-36.5°C) should be maintained.
+* H
+	* **Thromboprophylaxis**\
+	Difficult balance due to ↑ risk of thromboembolic events in TBI and bleeding risk of concomitant ICH. Consider:
+		* Pneumatic calf compressors in patients without lower limb fractures
+		* Regular (e.g. twice weekly) lower limb DVT ultrasound
+		* Pharmacoprophylaxis in all patients unless:
+			* ICH
+			* Destructive pathology
+			* ICP monitor/EVD in situ
+		* IVC filter in patients who cannot be anticoagulated and have ↑↑↑ risk of DVT, e.g. pelvic or lower limb fractures
+
+
+
 **Disposition**:
+
+* Neurotrauma centre\
+All severely TBI should be managed at a specialist neurotrauma centre.
 
 **Preventative**:
 
 
 ### Marginal and Ineffective Therapies
 
+* Colloid fluid\
+Associated with ↑ mortality.
+* Hypotonic crystalloids\
+Worsen cerebral oedema.
+
+:::column-margin
+Hartmann's and lactated Ringer's are hypotonic and should also be avoided.
+:::
+
 ## Anaesthetic Considerations
 
 ## Complications
 
+* B
+	* Neurogenic pulmonary oedema\
+	Sudden onset of pulmonary oedema due to ↑↑ sympathetic tone, classically **2-8 hours** following head injury.
+	* Pneumonia\
+	HAP/VAP, secondary to prolonged hospital stay.
+* D
+	* Hyperglycaemia
+* H
+	* DVT/PE
+
 ## Prognosis
+
+Poor prognostic factors include:
+
+:::column-margin
+Neuroprognostication itself exceedingly difficult, and made more complex as many patients will exhibit very slow improvement.
+:::
+
+* Age
+* Severity of injuries
+* CT findings
+* Hyperglycaemia
+* Hypothermia
+* **Hyperthermia**
+
+
+Of patients hospitalised with TBI, at 12 months:
+
+* 27% have died
+* 42% have moderate or severe disability
+* 15% of remainder had persistent disability
+
+
+Risk factors for post-traumatic epilepsy:
+
+* GCS <10
+* Haemorrhage\
+EDH, SDH, ICH, contusion.
+* Depressed skull fracture
+* Penetrating head wound
+* Seizure within 24 hours of injury
 
 ## Key Studies
 
@@ -65,3 +407,5 @@ ABC approach. Comment on team coordination and clinical priorities.
 ---
 
 ## References
+
+1. Maas AIR, Hukkelhoven CWPM, Marshall LF, Steyerberg EW. [Prediction of Outcome in Traumatic Brain Injury with Computed Tomographic Characteristics: A Comparison between the Computed Tomographic Classification and Combinations of Computed Tomographic Predictors: Neurosurgery](https://journals.lww.com/neurosurgery/Abstract/2005/12000/Prediction_of_Outcome_in_Traumatic_Brain_Injury.14.aspx). 2005 Dec;57(6):1173–82. 

@@ -1,6 +1,5 @@
 # Williams Syndrome
 
-
 Developmental disorder characterised by:
 
 * Intellectual disability\
@@ -59,18 +58,16 @@ Develops in infancy and resolves by ~4; unclear cause.
 
 ## Investigations
 
+**Bedside**:
 
-ECG:
+* ECG:
+	* LVH
+	* Long QT
+* TTE:
+	* Presence of AS
+	* Presence of PS
 
-* LVH
-* Long QT
-
-TTE:
-
-* Presence of AS
-* Presence of PS
-
-**Laboratory**:
+**Imaging**:
 
 * Cardiac MRI
 

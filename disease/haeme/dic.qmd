@@ -89,31 +89,31 @@ Score of >5 compatible with acute DIC.
 
 ## Investigations
 
+:::info
 Laboratory investigations:
 
 * Are not accurate to provide diagnosis on their own
 * Can be used to score likelihood for DIC
+:::
 
-Key investigations include:
+**Laboratory**:
 
-* FBE
-	* Anaemia\
-	Microangiopathic haemolytic anaemia.
-	* Thrombocytopaenia\
-	Low or rapidly ↓
-.* Coagulation
-	* Assays (PT, APTT)\
-	Prolonged, but this may be minimal.
-	* Fibrinogen\
-	May be either reduced or ↑.
-		* Reduced to consumption
-		* ↑ due to role as acute phase reactant
-* Fibrin Degradation Products (e.g. D-dimer)\
-↑, due to fibrinolysis.
-
-Additional investigations:
-
-* Blood film\
+* Blood:
+	* FBE
+		* Anaemia\
+		Microangiopathic haemolytic anaemia.
+		* Thrombocytopaenia\
+		Low or rapidly ↓
+	.* Coagulation
+		* Assays (PT, APTT)\
+		Prolonged, but this may be minimal.
+		* Fibrinogen\
+		May be either reduced or ↑.
+			* Reduced to consumption
+			* ↑ due to role as acute phase reactant
+	* Fibrin Degradation Products (e.g. D-dimer)\
+	↑ Due to fibrinolysis.
+	* Blood film\
 	Schistocyte formation.
 
 

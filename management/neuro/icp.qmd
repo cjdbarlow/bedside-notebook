@@ -1,4 +1,4 @@
-# Intracranial Pressure
+# Intracranial Pressure {#sec-icp}
 
 ## Indications
 
@@ -11,7 +11,7 @@
 Normal ICP waveform contains 3 peaks:
 
 * P1\
-Percussino wave from arterial pressure transmitted to the choroid plexus.
+Percussion wave from arterial pressure transmitted to the choroid plexus.
 * P2\
 Tidal wave due to brain compliance. P2 > P1 when brain compliance falls.
 * P3\
@@ -38,76 +38,54 @@ Clinical features of ↑ ICP include:
 * Papilloedema
 
 
-## Management
+## Monitoring
 
-:::info
-Goal is maintain cerebral perfusion by targeting:
+ICP monitoring is indicated:
 
-* **ICP <22mmHg**
-* **CPP >60mmHg**
-:::
-
-**Resuscitation**:\
-
-* C
-	* MAP\
-	Adequate CPP is essential.
-		* Ensure euvolaemia
-		* Vasopressors to ↑ MAP thereafter
-		* If ICP is not measured, then target **MAP >80mmHg**
-		* If ICP is measured, then target **CPP >60mmHg**
-* D
-	* ICP control
-
-**Specific therapy**:
-
-* Pharmacological
-* Procedural
-* Physical
-
-**Supportive care**:
-
-**Disposition**:
-
-### Intracranial Pressure {#sec-icp}
-
-Control of ICP is based upon ↓ the volume of intracranial contents, namely:
-
-:::column-margin
-The principle of flow-metabolism coupling states that CBF is directly proportional to CMRO~2~. Sedation ↓ CMRO~2~, resulting in a ↓ in CBF, cerebral blood volume, and ICP.
-:::
-
-* Blood
-	* Head-up positioning\
-	↓ Venous pressure.
-	* Avoid hypoxia\
-	Target SpO~2~ >95%.
-		* Supplemental oxygen as first line 
-		* PEEP\
-		Concern about ↑ ICP due to ↑ CVP, however adequate oxygenation takes priority.
-	* CO~2~ control\
-	Tight control aiming PaCO~2~ of 35-40mmHg.
-	* Sedation
-		* Benzodiazepine
-		* Opioid
-		* Thiopentone
-	* Temperature control\
-		* Target 36.5°C - 37.5°C
-		* Maintain normothermia
-* CSF
-	* EVD\
-	Drain to 10mmHg.
-* Brain
-	* Hyperosmolar therapy
-		* Hypernatraemia
-			* 3mmol ↑ in osmolality ↓ cerebral volume by **~7%**
-		* Mannitol
+* For **salvageable patients** with **GCS ⩽8** and **TBI**, after resuscitation with:
+	* Abnormal CT scan\
+	Swelling, ICH, hydrocephalus, herniation.
+	* Normal CT scan but ⩾2 of:
+		* Age >40
+		* Motor posturing
+		* SBP <90mmHg
+* Until ICP has stabilised and clinical assessment can be performed
 
 
-## Complications
+Commonly used systems for measuring ICP include:
+
+* Intraparenchymal transducer
+* Intraventricular catheter
+* Multimodality monitoring
 
 
-## Multimodality Monitoring
+### Intraparenchymal Transducer
+
+Intraparenchymal transducers:
+
+* Assess regional pressure
+* Can be inserted at the bedside via small burr hole\
+Ideally done in OR for sterility.
+* Include:
+	* Fibre-optic\
+	Camino.
+	* Strain-gauge\
+	Codman.
+* Accuracy drifts over time
+
+
+### Intraventricular Catheter
+
+Intraventricular catheters (EVD):
+
+* Provide an assessment of global ICP
+* Facilitate drainage and sampling of CSF
+* More difficult to place with severe brain oedema and ↓ ventricule size
+* Can be regularly re-calibrated\
+Remain accurate over time.
+
+
+### Multimodality Monitoring
 
 A variety of other intracranial monitors see use in specialist centres, although without much evidence supporting them. These include:
 
@@ -134,6 +112,59 @@ Invasive measurement of cerebral interstitial metabolic milieu via microdialysis
 Noninvasive measurement of cerebral blood flow.
 * NIRS\
 Non-invasive measurement of cerebral oxygen saturation. Not validated in neurological intensive care.
+
+## Management {#sec-icp_mx}
+
+Control of ICP is based upon ↓ the volume of intracranial contents, namely:
+
+:::column-margin
+The principle of flow-metabolism coupling states that CBF is directly proportional to CMRO~2~. Sedation ↓ CMRO~2~, resulting in a ↓ in CBF, cerebral blood volume, and ICP.
+:::
+
+* **Blood**
+	* Head-up positioning\
+	↓ Venous pressure.
+	* Avoid hypoxia\
+	Target SpO~2~ >95%.
+		* Supplemental oxygen as first line 
+		* PEEP\
+		Concern about ↑ ICP due to ↑ CVP, however adequate oxygenation takes priority.
+	* CO~2~ control\
+	Tight control aiming PaCO~2~ of 35-40mmHg.
+	* Sedation
+		* Benzodiazepine
+		* Opioid
+		* Thiopentone
+	* Temperature control\
+		* Target 36.5°C - 37.5°C
+		* Maintain normothermia
+* **CSF**
+	* EVD\
+	Drain to 10mmHg.
+* **Brain**\
+	* **Osmotherapy** ↓ cerebral oedema:
+		* Mannitol 0.25-1g/kg
+			* Creates an osmolar gap
+			* Enters brain via damaged BBB, which may result in local ↑ ICP
+		* Hypertonic saline\
+		3mmol ↑ in osmolality ↓ cerebral volume by **~7%**.
+			* 5-10mL 23.4%
+	* **Evacuation** of **mass** lesions
+	* Decompressive craniectomy
+		* *Early* decompressive craniectomy has no role
+		* *Late* decompressive craniectomy has questionable role:
+			* Performed for refractory ↑ ICP
+			* ↓ Mortality
+			* ↑↑ Morbidity in survivors
+
+
+## Complications
+
+
+## Key Trials
+
+* DECRA
+
 
 ---
 

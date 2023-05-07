@@ -811,7 +811,6 @@ book:
         - part: "Head"
           chapters:
             - disease/trauma/tbi.qmd
-            - disease/trauma/dai.qmd
             # EDH
             # SDH
             # Traumatic SAH

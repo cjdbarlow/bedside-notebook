@@ -84,7 +84,12 @@ Failure to wake from anaesthesia requires a broad differential:
 
 ## Investigations:
 
-Additional bloods:
+**Bedside**:
+
+* ABG
+
+
+**Laboratory**:
 
 * FBE
 * UEC/CMP
@@ -93,8 +98,7 @@ Additional bloods:
 * Toxicology screen
 
 
-
-**Laboratory**:
+**Imaging**:
 
 * CTB\
 Consider repeating at 6-8 hours if no improvement in ICU.

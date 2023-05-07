@@ -97,7 +97,7 @@ Intro and technique
 
 **Laboratory**:
 
-**Laboratory**:
+**Imaging**:
 
 **Other**:
 

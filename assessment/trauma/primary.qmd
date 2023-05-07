@@ -251,7 +251,7 @@ Management of TBI is covered under @sec-trauma_tbi.
 
 * Correct hypoxia
 * Maintain cerebral perfusion
-* Consider emergency burr hole if:
+* Consider **emergency burr hole** if:
 	* Lateralising neurology
 	* ↓ Conscious state
 	* No CT scan available

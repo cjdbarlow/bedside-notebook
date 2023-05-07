@@ -169,14 +169,14 @@ Key differentiating features are that NMS has:
 
 Diagnosis is clinical. Investigations usually targeted towards ruling out other causes, or identifying complications.
 
-Bloods:
+**Bloods**:
 
 * UEC/CMP\
 Rhabdomyolysis.
 * Coagulation screen\
 DIC.
 
-**Laboratory**:
+**Imaging**:
 
 * CTB
 
