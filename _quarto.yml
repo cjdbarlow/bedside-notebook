@@ -88,15 +88,6 @@ book:
             - part: <hr>
             - assessment/critical/brain_death.qmd
             - assessment/critical/circ_death.qmd
-        - part: "Trauma"
-          chapters:
-            - assessment/trauma/primary.qmd
-            - assessment/trauma/secondary.qmd
-        - part: "Team and Environment"
-          chapters:
-            - assessment/zps.qmd
-            - assessment/enviro/triage.qmd
-            - assessment/enviro/major.qmd
     - part: <hr>
     # Management
     - part: "Management"
@@ -120,7 +111,12 @@ book:
             - management/communication/organ.qmd
             - management/communication/disclosure.qmd
             - management/communication/colleagues.qmd   
-            - management/communication/feedback.qmd    
+            - management/communication/feedback.qmd
+        - part: "Team and Environment"
+          chapters:
+            - management/enviro/zps.qmd
+            - management/enviro/triage.qmd
+            - management/enviro/major.qmd
         - part: <hr>
         - part: "Airway"
           chapters:
@@ -235,6 +231,8 @@ book:
           - management/haeme/plasmapheresis.qmd
         - part: "Trauma"
           chapters:
+          - management/trauma/primary.qmd
+          - management/trauma/secondary.qmd
           - management/trauma/damage_control.qmd
         - part: "Infective"
           chapters:
@@ -819,6 +817,7 @@ book:
           chapters:
             - disease/trauma/airway_trauma.qmd
             - disease/trauma/airway_burns.qmd
+            - disease/trauma/face.qmd
         # - part: "Chest"
         #   chapters:
         # - part: "Abdomen and Pelvis"

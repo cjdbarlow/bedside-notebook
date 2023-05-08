@@ -1,24 +1,158 @@
-# Laryngeal Fracture {#sec-trauma_airway}
+# Laryngotracheal Trauma {#sec-trauma_airway}
 
+Airway trauma is an airway emergency best classified by the degree of life-threat:
 
+* Imminently
+* Acute
+* Sub-acute
+
+## Epidemiology and Risk Factors
+
+Airway trauma is:
+
+* Rare
+* Usually fatal pre-hospital
+* Associated with:
+	* Spine injury
+	* Head injury
+	* Facial injury
+
+## Pathophysiology
+
+Pattern of injury affects the nature of injury:
+
+* In blunt trauma:
+	* Laryngeal injury associated with direct blows
+	* Tracheal injury associated with flexion/extension injury
+		* Usually occurs at junction of cricoid and trachea
+* In penetrating trauma:
+	* Vascular injury common
+	* Cervical trachea
+
+### Aetiology
+
+Causes include:
+
+* "Clothesline" injury:
+	* Cyclists
+	* Horse riding
+* Assault
+	* Strangulation
+	* Direct blows
 
 
 ## Clinical Manifestations
 
-* May present with **acute airway obstruction**\
+* May present with **acute airway obstruction**
+* Stridor common
 * 'Classical triad' of;
-	* Hoarseness
+	* Hoarseness\
 	* Subcutaneous emphysema
 	* Palpable fracture
+* **Inability to lie flat**
+
+
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+**Bedside**:
+
+* Fibreoptic evaluation\
+	* Ease of intubation
+	* Vocal cord dysfunction
+	* Laryngeal integrity
+
+**Laboratory**:
+
+**Imaging**:
+
+* XR
+	* Limited information compared to CT
+	* Can be performed in the sitting patient
+	* Can occur at the bedside
+* CT
+	* Gold standard for characterisation of injury and location of abnormality
+
+**Other**:
+
 
 ## Management
 
-* Intubation\
-Indicated by complete obstruction or severe respiratory distress.
-* Surgical airway is second-line
+:::priority
+* **Intubation required** for:
+	* Airway obstruction
+	* Respiratory distress
+	* Hoarseness
+	* Mucosal or cartilage disruption on CT
+* Goal is to place a **cuffed endotracheal tube** in the **distal trachea** under **direct vision**
+:::
+
+**Resuscitation**:\
+
+:::column-margin
+:::caution
+The following are **absolutely contraindicated**:
+
+* **Positive pressure ventilation**\
+Will ↑↑ air leak and may ↑↑ subcutaneous emphysema.
+* **Cricoid pressure**\
+Laryngotracheal separation.
+* **Cricothyrotomy**\
+Blind technique that may result in laryngotracheal separation.
+* **Percutaneous tracheostomy**\
+Force of dilation may further worsen trauma.
+:::
+:::
+
+* A\
+There are **three viable airway techniques**, with the choice based upon available expertise and clinical urgency:
+	* **Awake *surgical* tracheostomy**\
+	Longest duration, requires an ENT surgeon.
+		* Gold standard
+		* Requires compliant patient
+	* **AFOI**\
+	Medium duration, requires a skilled awake intubator.
+		* Maintains spontaneous ventilation and allows airway inspection
+		* Requires a moderately compliant patient
+		* Demands good topicalisation
+	* **Double set-up laryngoscopy**\
+	Quickest, requires two skilled airway clinicians.
+		* Induction of anaesthesia results in no spontaneous ventilation\
+		**No good retreat** if intubation unsuccessful as PPV will likely be required.
+		* Does not require topicalisation
+		* View improved by muscle relaxation
+
+:::column-margin
+Occasionally, gaping airway wounds can be intubated directly.
+:::
+
+**Specific therapy**:
+
+* Pharmacological
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
 
 ---
 
 ## References
 
-1. ATLS 9th Edition
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

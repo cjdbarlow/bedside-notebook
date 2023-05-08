@@ -106,8 +106,8 @@ Relatively contraindicated if concern for base of skull fractures.
 Consider when:
 	* Patient, team, and environment are optimised.\
 	Roles assigned (including MILS).
-	* SpO2 < 93%
-	* GCS < 8
+	* SpO2 <93%
+	* GCS <8
 
 
 ### Breathing
@@ -174,8 +174,9 @@ If entrapped.
 
 :::column-margin
 Central capillary return is used due to:
-	* Centralisation of blood volume
-	* Hypothermia of extremities.
+
+* Centralisation of blood volume
+* Hypothermia of extremities
 :::
 
 * **Perfusion**
@@ -204,10 +205,6 @@ Central capillary return is used due to:
 
 **Management**:
 
-:::column-margin
-Blood product in a matched ratio should be used, however there are times when this is not immediately available. Crystalloid is permissible to maintain the minimum viable blood pressure until blood product arrives.
-:::
-
 * **Permissive hypotension**\
 Accepting degree of hypotension in order to ↓ bleeding and allow clot to form, whilst maintaining some semblance of organ perfusion. Target is a balance of risk of bleeding versus malperfusion, and varies with pathology:
 	* Traumatic brain injury:
@@ -221,6 +218,11 @@ Accepting degree of hypotension in order to ↓ bleeding and allow clot to form,
 	* In-line warmers should be used to minimise hypothermia
 	* Massive transfusion protocol if major bleeding
 * **Resuscitative thoracotomy**
+
+
+:::column-margin
+Blood product in a matched ratio should be used, however there are times when this is not immediately available. Crystalloid is permissible to maintain the minimum viable blood pressure until blood product arrives.
+:::
 
 :::column-margin
 Performance of resuscitative thoracotomy is covered under @sec-resus_thorac. Indications include:
