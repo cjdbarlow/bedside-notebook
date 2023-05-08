@@ -220,15 +220,13 @@ Accepting degree of hypotension in order to ↓ bleeding and allow clot to form,
 * **Fluid/blood resuscitation**
 	* In-line warmers should be used to minimise hypothermia
 	* Massive transfusion protocol if major bleeding
-* **Resuscitative thoracotomy**\
-Indicated for:
-	* **Penetrating trauma** with **cardiac arrest <10 minutes**
-	* **Blunt trauma** with **witnessed cardiac arrest**
-	* Refractory shock with echocardiographic pericardial collection and:
-		* Intubated
-		* Bilateral thoracostomies
-		* Aggressive blood product resuscitation
+* **Resuscitative thoracotomy**
 
+:::column-margin
+Performance of resuscitative thoracotomy is covered under @sec-resus_thorac. Indications include:
+
+{{< include /includes/ind_resus_thorac.qmd >}}
+:::
 
 ### Disability
 

@@ -105,6 +105,7 @@ book:
           chapters:
             - management/resus/als.qmd
             - management/resus/cals.qmd
+            - management/resus/traumatic.qmd
             - management/resus/oohca.qmd
             # ECPR
             # PALS
@@ -934,8 +935,9 @@ book:
           # Bronchoscopy
       - part: "CVS"
         chapters:
-          # - part: "Emergent"
-          #   chapters:
+          - part: "Emergent"
+            chapters:
+              - procedures/resus_thoracotomy.qmd
               # Resternotomy
               # Thoracotomy
               # Caesarian

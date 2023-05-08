@@ -1,0 +1,200 @@
+# Resuscitative Thoracotomy {#sec-resus_thorac}
+
+Immediate thoracotomy performed for resuscitation of the arrested or peri-arrest trauma patient:
+
+* Outside of the operating room
+* By non-surgeons
+* To correct a limited number of reversible causes:
+	* **Cardiac tamponade**
+	* **Cardiac injury**
+	* Intercostal bleeding
+	* Aortic compression
+
+:::column-margin
+Although the *nature* of injuries the non-surgeon can effectively deal with are limited, cardiac tamponade and cardiac wounds make up the majority of reversible causes and are reasonably easy to relieve.
+:::
+
+## Epidemiology
+
+Survival is:
+
+:::column-margin
+Essentially survival improves with a less sick patient and a simpler injury pattern.
+:::
+
+* Highly variable; 0-35%\
+Substantial change based on indications, patient state, and thresholds for initiation.
+* Related to pathology:\
+Good outcomes are associated with:
+	* **Penetrating** trauma
+	* **Tamponade** as mechanism
+	* Low-velocity injuries\
+	Knife wounds more survivable than GSW.
+	* Short arrest time
+	* Exsanguinating from chest tube
+
+
+:::column-margin
+Some centres commence thoracotomy on patients with a parlous (but present) haemodynamic state, and generally report much better outcomes. The significance of this is difficult to tease out, as some patients probably received an "unnecessary" thoracotomy.
+:::
+
+## Indications
+
+Indications include:
+
+{{< include /includes/ind_resus_thorac.qmd >}}
+
+
+## Contraindications
+
+Inadequate:
+
+* Expertise
+* Equipment
+* Environment
+
+
+## Anatomy
+
+## Equipment
+
+Essential equipment:
+
+* Skin preparation
+* Scalpel
+* Heavy scissors
+* Trauma shears\
+Sometimes a Gigli saw is used instead.
+* Retractor\
+Classically Finochietto.
+* Toothed forceps
+* Vascular clamps
+* Gauze
+
+
+## Technique
+
+:::caution
+This is a high-risk, messy procedure:
+
+* **Blood**
+* **Sharp injury** from rib fractures, sternal fractures, and instruments
+* PPE should include: Double gloves, goggles, gown
+:::
+
+Three stages:
+
+* Gaining access to the chest
+* Dealing with the heart
+* Everything else
+
+
+### Access
+
+Perform **bilateral sequential thoracotomy**:
+
+:::column-margin
+If you have **two operators** the:
+
+* **Primary operator** should always perform the **left thoracotomy**
+* Second operator can perform the right thoracotomy
+:::
+
+* Position supine with arms abducted
+* Skin preparation\
+Empty the bottle over the chest. Sterile drapes not applied.
+* Perform bilateral **thorac*ostomies*** in **4^th^ or 5^th^ ICS** in the **mid-axillary line**\
+Often will have already been performed, and so the incision can be extended to the midline from here.
+* Incise with **scalpel from** the **thoracostomy to** the **midline**\
+	* **Cut through** skin and fat **to muscle** with scalpel
+		* Don't cut *through* muscle to avoid entering pleura injuring lung or diaphragm
+	* The **internal mammary artery** will be **transected**, and will bleed when the circulation resumes
+* Place **two fingers** into thoracostomy wound to hold lung away and use heavy scissors to cut through remaining muscle and pleura to midline
+
+
+Convert to **clamshell**:
+
+* Divide sternum\
+Using trauma shears or saw.
+* Insert retractor\
+Handle down so it doesn't jam against the arm, and can be opened.
+* Incision may need to be extended posteriorly so that the chest can be opened in a clamshell fashion
+
+
+### The Heart
+
+Open the pericardium:
+
+* Anterior surface should be opened to avoid the phrenic nerves\
+Two approaches:
+	* Grab with toothed forceps and open with scissors\
+	Often very difficult with a tense, full pericardium
+	* Small nick with scalpel over collection, and then extend with scissors
+* Extend incision **vertically**\
+Again, to avoid the phrenic nerves.
+
+
+Interventions:
+
+* Evacuate **tamponade**\
+Decompression and relief of tamponade is simple and responsible for the largest number of survivors.
+* Close **cardiac wounds**
+	* Staple close
+	* Suture close\
+	Preferable if close to coronary artery to avoid infarction.
+	* Occlude with finger
+	* Occlude with a Foley catheter\
+	Balloon inflated inside the heart can also prevent bleeding from larger wounds, however:
+		* Balloon may herniate and ↑ size
+		* Balloon ↓ EDV and ↓ SV
+* **Defibrillation**
+	* Internal paddles often not available in this setting
+	* The **retractor** must be **removed** and the **chest closed for** successful external **defibrillation**
+* **Internal massage**\
+Much more effective than external compressions and can significantly augment cardiac output. Performance:
+	* Ensure heart is not kinked on the vascular pedicle
+	* Right hand underneath the heart
+	* Left hand on top
+	* "Milk" the heart from apex to base
+
+
+### Other Injuries
+
+Interventions:
+
+* Aortic compression\
+For severe hypovolaemia or control of abdominal bleeding.
+	* Direct compression of aorta and oesophagus against vertebral column using a hand
+	* Clamping possible but is performed blindly and can be difficult to distinguish between aorta and oesophagus when arterial pressure is low
+* Intercostal artery bleeding
+	* Can be substantial
+	* Oversewing with suture usually effective
+* Mammary artery bleeding
+	* Immediate control with vascular clamps
+	* Tie off afterwards
+
+
+### Post-Procedure
+
+* Transfer patient to operating room for washout and definitive management
+* Hot-debrief with team
+
+
+## Complications
+
+* D
+	* Emergence/awareness\
+	Arrested patients may awaken following resuscitation and require immediate anaesthesia.
+
+
+---
+
+## References
+
+1. Paulich S, Lockey D. Resuscitative thoracotomy. BJA Education. 2020 Jul 1;20(7):242–8.
+2. McGonigal, M. [ED Thoracotomy Part 1: Getting In](https://regionstraumapro.com/post/11652726401). Accessed 8/5/23.
+3. McGonigal, M. [ED Thoracotomy Part 2: The Heart(https://regionstraumapro.com/post/11692434793). Accessed 8/5/23.
+4. McGonigal, M. [ED Thoracotomy Part 3: The Aorta](https://regionstraumapro.com/post/11731959224). Accessed 8/5/23.
+5. McGonigal, M. [Off-Label Use of the Foley Catheter](https://regionstraumapro.com/post/1087649383). Accessed 8/5/23.
+
+
