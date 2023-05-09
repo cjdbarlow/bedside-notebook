@@ -217,6 +217,12 @@ Accepting degree of hypotension in order to ↓ bleeding and allow clot to form,
 * **Fluid/blood resuscitation**
 	* In-line warmers should be used to minimise hypothermia
 	* Massive transfusion protocol if major bleeding
+* **Chest decompression**\
+	* Haemopneumothoraces should be treated initially with a finger thoracostomy
+		* Formalisation with a chest drain should occur when clinically appropriate\
+		A separate site may be required for drain insertion, depending on sterility of the initial thoracostomy.
+		* These should be occluded with a one-way valve to prevent lung collapse in the negatively-pressure ventilated patient
+	* This may be performed **empirically** in the **unstable patient**
 * **Resuscitative thoracotomy**
 
 
@@ -225,7 +231,9 @@ Blood product in a matched ratio should be used, however there are times when th
 :::
 
 :::column-margin
-Performance of resuscitative thoracotomy is covered under @sec-resus_thorac. Indications include:
+**Resuscitative thoracotomy** is covered under @sec-resus_thorac.\
+\
+Indications include:
 
 {{< include /includes/ind_resus_thorac.qmd >}}
 :::

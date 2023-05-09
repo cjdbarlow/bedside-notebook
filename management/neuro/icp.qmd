@@ -115,48 +115,68 @@ Non-invasive measurement of cerebral oxygen saturation. Not validated in neurolo
 
 ## Management {#sec-icp_mx}
 
-Control of ICP is based upon ↓ the volume of intracranial contents, namely:
+Control of ICP:
 
 :::column-margin
 The principle of flow-metabolism coupling states that CBF is directly proportional to CMRO~2~. Sedation ↓ CMRO~2~, resulting in a ↓ in CBF, cerebral blood volume, and ICP.
 :::
 
-* **Blood**
-	* Head-up positioning\
-	↓ Venous pressure.
-	* Avoid hypoxia\
-	Target SpO~2~ >95%.
-		* Supplemental oxygen as first line 
-		* PEEP\
-		Concern about ↑ ICP due to ↑ CVP, however adequate oxygenation takes priority.
-	* CO~2~ control\
-	Tight control aiming PaCO~2~ of 35-40mmHg.
-	* Sedation
-		* Benzodiazepine
-		* Opioid
-		* Thiopentone
-	* Temperature control\
-		* Target 36.5°C - 37.5°C
-		* Maintain normothermia
-* **CSF**
-	* EVD\
-	Drain to 10mmHg.
-* **Brain**\
-	* **Osmotherapy** ↓ cerebral oedema:
-		* Mannitol 0.25-1g/kg
-			* Creates an osmolar gap
-			* Enters brain via damaged BBB, which may result in local ↑ ICP
-		* Hypertonic saline\
-		3mmol ↑ in osmolality ↓ cerebral volume by **~7%**.
-			* 5-10mL 23.4%
-	* **Evacuation** of **mass** lesions
-	* Decompressive craniectomy
-		* *Early* decompressive craniectomy has no role
-		* *Late* decompressive craniectomy has questionable role:
-			* Performed for refractory ↑ ICP
-			* ↓ Mortality
-			* ↑↑ Morbidity in survivors
+* Relies on ↓ the volume of intracranial contents, namely blood, brain, and CSF
+* Involves **three tiers** of management\
+	* **First Tier**:\
+		* Avoid hypoxia\
+		Target SpO~2~ >95%.
+			* Supplemental oxygen as first line 
+			* PEEP\
+			Concern about ↑ ICP due to ↑ CVP, however adequate oxygenation takes priority.
+		* 30° head-up **positioning**\
+		↓ Venous pressure.
+		* **Sedation** and analgesia
+			* Benzodiazepine
+			* Opioid
+		* **Remove** hard cervical spine **collar**\
+		If present.
+		* **CO~2~ control**\
+		Tight control aiming PaCO~2~ of 35-40mmHg.
+		* **Normothermia**\
+		Target 36.5°C - 37.5°C.
+		* **Neuromuscular blockade**
+		* **Vent CSF**\
+		Via EVD, draining to 10mmHg.
+	* **Second Tier**:
+		* **Osmotherapy** ↓ cerebral oedema:
+			* Mannitol 0.25-1g/kg
+				* Creates an osmolar gap
+				* Enters brain via damaged BBB, which may result in local ↑ ICP
+			* Hypertonic saline\
+			3mmol ↑ in osmolality ↓ cerebral volume by **~7%**.
+				* 5-10mL 23.4%
+	* **Third Tier**:
+		* **Thiopentone** coma\
+			* Profound ↓ CMRO~2~
+			* Long half-life\
+			Delays further neuro-prognostication.
+		* Aggressive **hyperventilation**
+			* Hyperventilation to hypocarbia does ↓ CO~2~ and ↓ ICP, but leads to cerebral vasoconstriction and ↓ CBF
+			* It *may* have a role for short term control of ↑ ICP prior to some definitive therapy\
+			e.g. the patient who blows a pupil during transfer to the OR.
+		* Decompressive **craniectomy**
+			* *Early* decompressive craniectomy has no role
+			* *Late* decompressive craniectomy has questionable role:
+				* Performed for refractory ↑ ICP
+				* ↓ Mortality
+				* ↑↑ Morbidity in survivors
 
+:::column-margin
+Each tier is characterised by ↑ invasiveness.
+:::
+
+:::column-margin
+There is no evidence supporting mannitol or hypertonic saline over the other, however I prefer hypertonic saline due to:
+
+* Repeatability
+* Preservation of osmolar gap
+:::
 
 ## Complications
 

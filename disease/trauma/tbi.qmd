@@ -294,17 +294,6 @@ This covers brain-specific resuscitation; the principles of Damage Control Resus
 	Target ICP is <22mmHg.
 
 
-:::column-margin
-Hyperventilation to hypocarbia does ↓ CO~2~ and ↓ ICP, but leads to cerebral vasoconstriction and ↓ CBF. It *may* have a role for short term control of ↑ ICP prior to some definitive therapy; e.g. the patient who blows a pupil during transfer to the OR.
-:::
-
-:::column-margin
-There is no evidence supporting mannitol or hypertonic saline over the other, however I prefer hypertonic saline due to:
-
-* Repeatability
-* Preservation of osmolar gap
-:::
-
 **Specific therapy**:
 
 * Pharmacological
@@ -331,9 +320,8 @@ There is no evidence supporting mannitol or hypertonic saline over the other, ho
 		* Pharmacoprophylaxis in all patients unless:
 			* ICH
 			* Destructive pathology
-			* ICP monitor/EVD in situ
+			* ICP monitor or EVD in situ
 		* IVC filter in patients who cannot be anticoagulated and have ↑↑↑ risk of DVT, e.g. pelvic or lower limb fractures
-
 
 
 **Disposition**:
@@ -350,6 +338,7 @@ All severely TBI should be managed at a specialist neurotrauma centre.
 Associated with ↑ mortality.
 * Hypotonic crystalloids\
 Worsen cerebral oedema.
+* Steroids
 
 :::column-margin
 Hartmann's and lactated Ringer's are hypotonic and should also be avoided.
@@ -403,6 +392,7 @@ EDH, SDH, ICH, contusion.
 
 ## Key Studies
 
+* CRASH
 
 ---
 
