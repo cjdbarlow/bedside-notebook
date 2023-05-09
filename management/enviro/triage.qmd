@@ -1,7 +1,8 @@
-# Triage
+# Triage {#sec-triage}
 
-
-> Principles should be used whenever the number of casualties exceeds the capacity of skilled rescuers
+:::info
+Principles should be used **whenever** the **number of casualties exceeds** the **capacity of** skilled **rescuers**.
+:::
 
 Triage is:
 

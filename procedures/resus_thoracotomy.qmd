@@ -8,7 +8,9 @@ Immediate thoracotomy performed for resuscitation of the arrested or peri-arrest
 	* **Cardiac tamponade**
 	* **Cardiac injury**
 	* Intercostal bleeding
-	* Aortic compression
+	* Intrabdominal bleeding\
+	Via aortic compression or cross-clamping, redistributing the limited CO to the heart and brain.
+	* Bronchopleural fistula
 
 :::column-margin
 Although the *nature* of injuries the non-surgeon can effectively deal with are limited, cardiac tamponade and cardiac wounds make up the majority of reversible causes and are reasonably easy to relieve.
@@ -196,5 +198,4 @@ For severe hypovolaemia or control of abdominal bleeding.
 3. McGonigal, M. [ED Thoracotomy Part 2: The Heart(https://regionstraumapro.com/post/11692434793). Accessed 8/5/23.
 4. McGonigal, M. [ED Thoracotomy Part 3: The Aorta](https://regionstraumapro.com/post/11731959224). Accessed 8/5/23.
 5. McGonigal, M. [Off-Label Use of the Foley Catheter](https://regionstraumapro.com/post/1087649383). Accessed 8/5/23.
-
-
+6. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

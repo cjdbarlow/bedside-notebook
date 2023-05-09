@@ -546,10 +546,10 @@ book:
           - disease/infective/pjp.qmd
             # ILD
             # Aspiration pneumonitis
-        # - part: "Lower Airway"
-        #   chapters:
-            # PTx
-            # HTx
+        - part: "Pleural"
+          chapters:
+          - disease/resp/pthx.qmd
+          - disease/resp/haemothorax.qmd
             # Effusion
         # - part: "Chest wall"
         #   chapters:
@@ -804,8 +804,10 @@ book:
         # Trauma
       - part: "Trauma"
         chapters:
-        - part: "Systemic"
+        - disease/trauma/trauma_overview.qmd
+        - part: "Burns"
           chapters:
+            - disease/trauma/airway_burns.qmd
             - disease/trauma/burns.qmd
         - part: "Head"
           chapters:
@@ -816,10 +818,16 @@ book:
         - part: "Face and Neck"
           chapters:
             - disease/trauma/airway_trauma.qmd
-            - disease/trauma/airway_burns.qmd
             - disease/trauma/face.qmd
-        # - part: "Chest"
-        #   chapters:
+        - part: "Chest"
+          chapters:
+            - disease/trauma/cardiac.qmd
+            - disease/trauma/aortic.qmd
+            - disease/trauma/rib.qmd
+            - disease/trauma/lung.qmd
+            # Tracheobronchial injury
+            # Diaphragmatic rupture
+            # Oesophageal injury
         # - part: "Abdomen and Pelvis"
         #   chapters:
         # - part: "Extremities"

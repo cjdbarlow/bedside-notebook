@@ -1,0 +1,90 @@
+# Pneumothorax
+
+Pneumothoraces are pathological collections of air in the pleural space that result in collapse of the lung and associated respiratory or haemodynamic sequelae. Pneumothoraces are divided into:
+
+* **Simple pneumothorax**
+* **Open pneumothorax**\
+Free communication between the pleura and the atmosphere such that $P_{pleura} = P_{atm}$.
+* **Tension pneumothorax**\
+Progressive accumulation of gas in the pleural space resulting in ↑↑ $P_{pleura}$.
+	* Results in:
+		* Lung collapse and hypoxia
+		* Mediastinal shift and obstructive shock
+	* **Significantly worse** with **positive pressure ventilation**, which may precipitate cardiac arrest due to the rapid ↑ in $P_{pleura}$
+
+
+:::column-margin
+In negatively-pressure ventilating patients with a tension pneumothorax, $P_{pleura}$ is limited by their inspiratory effort (which can still be substantial).
+:::
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+
+Open pneumothorax:
+
+* Physiological effect depends on the size of the communication
+
+
+Tension pneumothorax:
+
+* Functional one-way valve between the pleural and atmospheric spaces
+* During inspiration, $P_{pleura} < P_{atm}$, resulting in entry of gas into the pleural space
+* During expiration the valve closes, and there is no flow of gas out of the pleural space despite $P_{pleura} > P_{atm}$
+* This results in a progressive ↑ in pleurla pressure
+
+### Aetiology
+
+## Clinical Manifestations
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+**Imaging**:
+
+**Other**:
+
+## Management
+
+**Resuscitation**:\
+
+**Specific therapy**:
+
+* Pharmacological
+* Procedural
+	* **Intercostal catheter**
+		* Single bottle drainage without suction usually adequate\
+		* Low-pressure suction (-20cmH~2~O) should be applied if:
+			* Pneumothorax fails to resolve
+			* There is associated haemothorax
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

@@ -1,0 +1,68 @@
+# Trauma Overview
+
+Trauma is physical injury occurring due to mechanical force, and is divided into:
+* Blunt trauma\
+Injuries are generally internal, multiple, and may not be initially obvious.
+	* MVA
+	* Falls
+	* Assault
+* Penetrating trauma\
+Injuries highly dependent on trajectory and force of energy involved
+	* Explosions
+	* Assault
+		* GSW
+		* Stabbings
+
+:::column-margin
+A systematic approach of triage and assessment is required to efficiently and effectively identify and treat patients and injuries in the appropriate order.\
+\
+Triage and management of mass casualty scenarios are covered @sec-triage and @sec-mimms; the initial assessment and management of the trauma patient is covered under @sec-trauma_primary.
+:::
+
+## Epidemiology
+
+Trauma is a disease of:
+
+* Young
+
+
+* Chest trauma
+	* Is usually **blunt**
+	* Makes ~25% of all trauma deaths
+
+
+## Chest Trauma
+
+Rapid identification and treatment of chest trauma is critical as most life-threatening chest injuries:
+
+:::column-margin
+Complex life-threatening injuries are usually fatal prior to arriving at hospital.
+:::
+
+* Respond to simple interventions\
+Restoration of cardiopulmonary function also limits secondary injury.
+* Can be identified clinically or with bedside investigation
+Beside ultrasound allows diagnosis of:
+	* Pneumothorax
+	* Haemothorax
+	* Pericardial collection
+
+:::column-margin
+The majority of injuries sought in the primary survey are chest injuries.
+:::
+
+### Investigations
+
+**Imaging**:
+
+* CXR\
+Majority of clinically significant injuries are identifiable on CXR.
+* CT\
+CT angiography allows diagnosis of particular injuries, particularly:
+	* Aortic dissection
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
