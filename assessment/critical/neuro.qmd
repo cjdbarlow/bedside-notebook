@@ -217,13 +217,13 @@ Look for muscle contraction rather than physical movement.
 :::column-margin
 Upper versus Lower Motor Neuron Lesions:
 
-| Finding          | UMN         | LMN         |
-| ---------------- | ----------- | ----------- |
-| Atrophy          | No          | Yes         |
-| Fasciculations   | No          | Yes         |
-| Reflexes         | ↑   | ↓   |
-| Tone             | ↑   | ↓   |
-| Weakness         | Yes         | Yes         |
+| Finding        | UMN | LMN |
++----------------+-----+-----+
+| Atrophy        | No  | Yes |
+| Fasciculations | No  | Yes |
+| Reflexes       | ↑   | ↓   |
+| Tone           | ↑   | ↓   |
+| Weakness       | Yes | Yes |
 
 :::
 
@@ -320,15 +320,11 @@ Joint should be able to be moved easily through its range of motion.
     * Flaccidness\
     Complete absence of tone, occurring when the muscle has no LMN innervation.
 * Power\
-Assessment must consider the age, sex, fitness, and non-neurological disease state. Power assessment is:
-    * Graded on a scale:
-        * 0: No movement
-        * 1: Fasciculations
-        * 2: Movement when gravity is eliminated
-        * 3: Movement capable of overcoming gravity but not additional resistance
-        * 4: Movement capable of overcoming some resistance\
-        Additional (subjective) nuance can be documented by using 4+ or 4- for varying levels of "some" resistance.
-        * 5: Normal
+Assessment must consider the age, sex, fitness, and non-neurological disease state.
+
+:::column-margin
+{{< include /includes/motor_function.qmd >}}
+:::
 
 ### Sensory Exam
 

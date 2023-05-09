@@ -198,7 +198,6 @@ book:
                 # Epidural and intrathecal infusions
             - part: "Injury"
               chapters:
-                - management/neuro/acute_spine.qmd
                 - management/neuro/chronic_spine.qmd
                 - management/neuro/icp.qmd
                 - management/neuro/evd.qmd
@@ -817,8 +816,11 @@ book:
             # Traumatic SAH
         - part: "Face and Neck"
           chapters:
-            - disease/trauma/airway_trauma.qmd
             - disease/trauma/face.qmd
+            - disease/trauma/airway_trauma.qmd
+        - part: "Spine"
+          chapters:
+            - disease/trauma/spine.qmd
         - part: "Chest"
           chapters:
             - disease/trauma/cardiac.qmd

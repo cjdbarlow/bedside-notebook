@@ -78,6 +78,7 @@ EVD: External Ventricular Drain
 FEV1: Forced Expiratory Volume in 1 second
 FFA: Free Fatty Acid
 FGF: Fresh Gas Flow
+FOI: Fibreoptic Intubation
 FRC: Functional Residual Capacity
 FSH: Follicle Stimulating Hormone
 FVC: Forced Vital Capacity
@@ -140,6 +141,7 @@ MAP: Mean Arterial Pressure
 MCA: Middle Cerebral Artery
 MDR: Multidrug Resistant Organism
 MIC: Minimum Inhibitory Concentration
+MILS: Manual Inline Stabilisation
 MLAC: Minimum Local Anaesthetic Concentration
 MMCAS: Malignant Middle Cerebral Artery Infarction Syndrome
 MODS: Multiorgan Dysfunction Syndrome
@@ -208,6 +210,7 @@ RPA: Right Pulmonary Artery
 RR: Respiratory Rate
 RRP: Relative Refractory Period
 RRT: Renal Replacement Therapy
+RSI: Rapid Sequence Induction/Intubation
 RTA: Renal Tubular Acidosis
 RV: Right Ventricle
 RVEDP: Right Ventricular End-Diastolic Pressure
@@ -267,6 +270,7 @@ VRG: Ventral Respiratory Group
 VSD: Ventricular Septal Defect
 Vt: Tidal Volume
 VT: Ventricular Tachycardia
+VTE: Venous thromboembolism
 VV: Veno-Venous
 VZV: Varicella Zoster Virus
 WCC: White Cell Count

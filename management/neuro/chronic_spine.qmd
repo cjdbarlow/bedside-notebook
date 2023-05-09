@@ -1,71 +1,151 @@
-# Chronic Spinal Injury Management
-
-
-*Covers management of spinal cord injuries after the first few weeks following injury. Management differs in the patient with an [acute spinal cord injury](/management/cns/acute-spine.md).*
-
+# Chronic Spinal Cord Injury {#sec-chronic_spine}
 
 Patients undergo a number of physiological changes following a spinal cord injury:
+
+:::column-margin
+Covers management of spinal cord injuries after the first few weeks following injury. Acute spinal cord injuries are covered under @sec-acute_spine.
+:::
+
 
 ## Epidemiology and Risk Factors
 
 ## Pathophysiology
 
-### Aetiology
+:::info
+Degree of deficit depends on the level of the lesion.
+:::
+
+Respiratory:
+
+:::column-margin
+Patients with **cervical spine injury ventilate better** in the **supine** position as:
+
+* **Abdominal paralysis pushes abdominal** contents **cephalad**\
+Can be replicated with an abdominal binder in the erect position.
+* This **↓ FRC but ↑ excursion** of the **diaphragm**, providing mechanical advantage
+:::
+
+* ↓ VC
+	* Intercostal muscle paralysis
+	* Diaphragm paralysis\
+	Requires permanent mechanical ventilation.
+* ↓ Respiratory compliance	
+	* Intercostal muscle spasticity
+	* ↓ FRC
+		* Atelectasis
+		* Altered surfactant
+* ↓ Abdominal compliance
+	* Abdominal muscle paralysis
+* ↑ Bronchial tone
+* ↑ Bronchial secretions
+* Impaired cough
+	* ↓ VC
+	* Abdominal muscle paralysis
+	* Intercostal muslce paralysis
+* Sleep disordered breathing
+
+
+Cardiovascular:
+
+* ↓ Sympathetic tone
+	* Due to:
+		* Loss of sympathetic outflow
+		* Unopposed vagal tone
+	* ↓ HR
+	* Vasodilatation
+	* Hypotension
 
 ## Clinical Manifestations
 
-## Diagnostic Approach and DDx
-
-## Investigations
 
 ## Management
 
-Presence and severity of symptoms depends on height of injury.
+**Specific therapy**:
 
-* B
-	* Pneumonia\
-	Impaired expectoration.
-	* Reduced TLC, FRC\
-	Rapid desaturation with anaesthetic induction.
-	* Assisted ventilation\
-	Required by some patients.
-* C
-	* Coronary artery disease\
-	3-10x ↑ prevalence, due to ↑ risk factors.
-	* Atypical ischaemic symptoms
-	* Hypovolaemia
-	* Bradycardia\
-	RHR of 50-60.\
-* D
-	* Chronic pain\
-	Present in ~60%.
-* E
-	* Pressure area care\
-	Pressure ulcers are common.
-* H
-	* Anaemia\
-	Prevalent in ~50%>
+* Physical
+	* Assisted ventilation
+
+**Supportive care**:
+
+
+
+
 
 ### Anaesthetic Considerations
 
 * A
 	* Fusion may impair airway management
+* B
+	* Reduced TLC, FRC\
+	Rapid desaturation with anaesthetic induction.
 * C
 	* Consider induction with vasopressor infusion
 	* Arterial line
 	* MAP within 20% of baseline
 	* Pulmonary oedema with overfilling\
 	Heart reliant on the Starling mechanism to ↑ cardiac output.
+	* Autonomic dysreflexia
 * D
 	* Anaesthetic technique\
-	Consider [autonomic dysreflexia](/management/cns/autonomic-dysreflexia.md).
+	Consider autonomic dysreflexia.
 	* Sensitivity to sedatives
 * E
 	* **Avoid suxamethonium**
 
+:::column-margin
+Autonomic dysreflexia is covered under @sec-and.
+:::
+
 ### Marginal and Ineffective Therapies
 
 ## Complications
+
+Presence and severity depends on height of injury.
+
+* B
+	* **Pneumonia**\
+	Impaired expectoration.
+* C
+	* Coronary artery disease\
+	3-10x ↑ prevalence, due to ↑ risk factors.
+	* Atypical ischaemic symptoms
+	* Hypovolaemia
+	* Bradycardia\
+	Resting heart rate ~50-60.\
+* D
+	* Chronic pain\
+	Present in ~60%. Evidence for:
+		* Gabapentinoids
+		* TCA
+* E
+	* **Pressure area care**\
+	Decubitus injury occurs in 30-50%:
+		* Loss of sensation
+		* Paralysis
+* F
+	* Urinary **retention**\
+	Due to combined sphincter and detrusor overactivity.
+		* Leads to:
+			* Vesicoureteric reflux
+			* Overflow incontinence
+			* ↑ Risk UTI
+		* May require:
+			* Suprapubic catheter
+			* Anticholinergics
+			* Intra-detruser botulinum toxin
+	* Renal stones\
+	Due to altered calcium homeostasis.
+* G
+	* **Gastric ulceration**
+	* Gastroparesis
+	* **Constipation**\
+	Regular stool softeners required.
+* H
+	* Anaemia\
+	Prevalent in ~50%
+	* **VTE**\
+	100% risk without VTE prophylaxis.
+
 
 ## Prognosis
 
@@ -76,4 +156,4 @@ Presence and severity of symptoms depends on height of injury.
 
 ## References
 
-
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

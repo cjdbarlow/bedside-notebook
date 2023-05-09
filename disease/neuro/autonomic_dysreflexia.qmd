@@ -1,19 +1,21 @@
-# Autonomic Dysreflexia
+# Autonomic Dysreflexia {#sec-and}
 
+Potentially **life-threatening sympathetic overactivity** occurring following **noxious stimulation** in patients with a **spinal injury above T6**, characterised by:
 
-Potentially **life-threatening sympathetic overactivity** occurring in patients with a **spinal injury above T6**.
-
+* Hypertension
+* Bradycardia
+* Sensory over-activity below the lesion
 
 ## Epidemiology and Risk Factors
 
 ## Pathophysiology
 
-Requires:
+Dysregulated sympathetic action that occurs with both:
 
-* Spinal injury level is T6 or higher
-* Noxious stimulus below the level of injury:
+* **Spinal injury** level **at T6 or higher**
+* **Noxious stimulus below** the **spinal level**:
 	* Ascending sensory fibres convey message to spinal cord
-	* Widespread SNS reflex activity occuring below the level of injury\
+	* Widespread SNS reflex activity occurring below the level of injury\
 	Sympathetic ganglion activity remains uncontrolled due to lack of descending inhibition.
 	* Compensatory parasympathetic activity **above** the level of injury
 		* ↑ BP detected by baroreceptors\
@@ -78,36 +80,60 @@ Presentation due to SNS overactivity, with compensatory PNS responses:
 
 ## Management
 
-> * Identify and remove obvious causes
-> * Control BP
-> * BP may drop precipitously folllowing removal of stimulus.
+:::priority
+* Identify and remove obvious causes
+* Control BP
+* BP may drop precipitously folllowing removal of stimulus.
+:::
 
-Sit upright.
+**Resuscitation**:
 
-Remove obvious causes:
+:::column-margin
+Common precipitants of autonomic dysreflexia include:
 
 * Ask the patient/carer
-* Loosen constrictive clothing
-* Check bladder drainage equipment
-	* Kinks
-	* Clogging
-	* Overfull bag
-	* Consider irrigating catheter if blocked\
-* Consider IDC
-* Consider faecal evacuation\
-If bladder empty.
+* Limb constriction
+	* Loosen constrictive clothing
+* Urinary retention
+	* Check bladder drainage equipment
+		* Kinks
+		* Clogging
+		* Overfull bag
+		* Consider irrigating catheter if blocked\
+	* Consider IDC
+* Constipation
+	* Consider faecal evacuation\
+	If bladder empty.
+:::
 
-Pharmacological therapy:
+* C
+	* Haemodynamic control\
+	Escalation of therapy:
+		* Sit up
+		* Remove obvious causes
+		* Pharmacological therapy:
+			* If SBP >150mmHg
+			* Use short acting agents\
+			Minimises hypotension once stimulus has resolved.
+				* GTN 400μg SL
+				* Captopril 25mg SL
+				* Hydralazine 5mg IV Q10min
+				* Labetaolol 5mg IV Q5min
+			* Analgesia\
+			If a noxious stimulus present, e.g. trauma.
 
-* If SBP >150mmHg
-* Use short acting agents\
-Minimises hypotension once stimulus has resolved.
-	* GTN 400μg SL
-	* Captopril 25mg SL
-	* Hydralazine 5mg IV Q10min
-	* Labetaolol 5mg IV Q5min
-* Analgesia\
-If a noxious stimulus present, e.g. trauma.
+**Specific therapy**:
+
+* Pharmacological
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
 
 ### Anaesthetic Considerations
 
@@ -129,8 +155,6 @@ If a noxious stimulus present, e.g. trauma.
 			* No risk of autonomic dysreflexia
 
 ## Complications
-
-Include:
 
 * Death
 * CVS\
