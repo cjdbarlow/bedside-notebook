@@ -327,7 +327,7 @@ Late decompressive craniectomy results in:
 
 * Significantly ↑ number and disability of survivors
 * A greater number of survivors with a "favourable" outcome\
-Favourable is "requiring permanent help with ADLs, but can be left alone for 8 hours", or better.
+Favourable is upper severe disability (see prognosis), or better.
 * A significantly greater number of survivors with severe disability or vegetative state. 
 :::
 
@@ -401,11 +401,7 @@ Hartmann's and lactated Ringer's are hypotonic and should also be avoided.
 
 ## Prognosis
 
-Poor prognostic factors include:
-
-:::column-margin
-Neuroprognostication itself exceedingly difficult, and made more complex as many patients will exhibit very slow improvement.
-:::
+Neuroprognostication itself exceedingly difficult, and made more complex as many patients will exhibit very slow improvement. Poor prognostic factors include:
 
 * Age
 * Severity of injuries
@@ -414,6 +410,25 @@ Neuroprognostication itself exceedingly difficult, and made more complex as many
 * Hypothermia
 * **Hyperthermia**
 
+:::column-margin
+The **Glasgow Outcome Scale - Extended** (GOS-E) is commonly used to measure TBI outcome:
+
+1. Death
+2. Vegetative state\
+Unaware, periods of spontaneous eye opening, persistent reflex responses.
+3. Lower severe disability\
+Dependent, unable to be left alone for >8 hours.
+4. Upper severe disability\
+Dependent, able to be left alone for >8 hours.
+5. Lower moderate disability\
+Independent at home, dependent outside, unable to return to work.
+6. Upper moderate disability\
+Independent at home, dependent outside, able to return to work with special arrangement.
+7. Lower good recovery\
+Some disability but able to return to work.
+8. Upper good recovery\
+Some deficits but not disabling.
+:::
 
 Of patients hospitalised with TBI, at 12 months:
 
@@ -434,9 +449,25 @@ EDH, SDH, ICH, contusion.
 
 ## Key Studies
 
-* CRASH
-* DECRA
+Craniectomy:
+
+* [DECRA](https://www.nejm.org/doi/full/10.1056/NEJMoa1102077)
+	* 155 adults with severe TBI within 72 hours of injury:
+		* With uncontrolled ICP (>20mmHg for 15 minutes)
+		* For full active treatment
+		* Without spinal cord injury or intracranial mass lesions
+	* Bifrontotemporoparietal craniectomy with bilateral dural opening vs standard care
+		* Control group could receive "lifesaving" craniectomy at 72 hours
+	* Standard ICP treatment in both groups
+	* Significant ↑ (70% vs 51%) in unfavourable (GOS-E 1-4) outcomes at 6 months
+	* Significant ↓ in ICP in intervention group
+	* 25% of control group crossed over
 * RESCUE ICP
+
+
+Other:
+
+* CRASH
 
 ---
 
@@ -446,3 +477,4 @@ EDH, SDH, ICH, contusion.
 2. Carney N, Totten AM, OʼReilly C, et al. Guidelines for the Management of Severe Traumatic Brain Injury, Fourth Edition: Neurosurgery. Published online September 2016:1. 
 3. Hawryluk GWJ, Rubiano AM, Totten AM, et al. [Guidelines for the Management of Severe Traumatic Brain Injury: 2020 Update of the Decompressive Craniectomy Recommendations](www.doi.org/10.1093/neuros/nyaa278). Neurosurgery. 2020;87(3):427-434.
 4. Carney N, Totten AM, OʼReilly C, et al. [Guidelines for the Management of Severe Traumatic Brain Injury, Fourth Edition: Neurosurgery](www.doi.org/10.1227/NEU.0000000000001432). Published online September 2016:1.
+5. Cooper DJ, Rosenfeld JV, Murray L, et al. [Decompressive Craniectomy in Diffuse Traumatic Brain Injury](https://www.nejm.org/doi/full/10.1056/NEJMoa1102077). New England Journal of Medicine. 2011;364(16):1493-1502. doi:10.1056/NEJMoa1102077

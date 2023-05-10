@@ -393,6 +393,14 @@ Fluid studies:
 	* No change in mortality, ventilator free days, ICU free days, ARDS
 	* ↑ ICU admission in restrictive group
 	* Strong safety profile of peripheral vasopressors
+* [CLASSIC](https://www.nejm.org/doi/full/10.1056/NEJMoa2202707)
+	* ~1500 non-pregnant, non-burned Europeans with sepsis within 12 hours of diagnosis
+	* Restrictive vs. liberal fluid strategy
+		* Restrictive: Crystalloid given for severe hypoperfusion, overt losses, or to ensure at least 1L/24 hours
+		* Liberal: Crystalloid given based on surviving sepsis guidelines, to replace losses
+	* Vasopressors as per trial protocol
+	* No difference in mortality
+	* Small difference in volume administered (~2L at day 5)
 
 
 Early Goal Directed Therapy studies:
@@ -478,3 +486,4 @@ The rationale for Vitamin C is that:
 4. Singer, M., Deutschman, C.S., Seymour, C.W., Shankar-Hari, M., Annane, D., Bauer, M., Bellomo, R., Bernard, G.R., Chiche, J.-D., Coopersmith, C.M., Hotchkiss, R.S., Levy, M.M., Marshall, J.C., Martin, G.S., Opal, S.M., Rubenfeld, G.D., van der Poll, T., Vincent, J.-L., Angus, D.C., 2016. [The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3)](https://jamanetwork.com/journals/jama/fullarticle/2492881). JAMA 315, 801.
 5.Lamontagne F, Masse MH, Menard J, et al. [Intravenous Vitamin C in Adults with Sepsis in the Intensive Care Unit]((https://www.nejm.org/doi/10.1056/NEJMoa2200644). N Engl J Med. 2022;386(25):2387-2398.
 6. Bloos F, Held J, Kluge S, et al. [(1→3)-β-d-Glucan-guided antifungal therapy in adults with sepsis: the CandiSep randomized clinical trial](https://link.springer.com/article/10.1007/s00134-022-06733-x). Intensive Care Med. 2022;48(7):865-875. doi:10.1007/s00134-022-06733-x
+7. 1. Meyhoff TS, Hjortrup PB, Wetterslev J, et al. [Restriction of Intravenous Fluid in ICU Patients with Septic Shock. New England Journal of Medicine](https://www.nejm.org/doi/full/10.1056/NEJMoa2202707). 2022;386(26):2459-2470.

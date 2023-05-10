@@ -876,6 +876,8 @@ book:
         chapters:
         - part: "Toxicology"
           chapters:
+            - disease/tox/co.qmd
+            - disease/tox/cyanide.qmd
             - disease/tox/paracetamol.qmd
             - disease/tox/last.qmd
             - disease/tox/chemo_toxicity.qmd
