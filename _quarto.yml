@@ -880,8 +880,9 @@ book:
             - disease/tox/last.qmd
             - disease/tox/chemo_toxicity.qmd
             - disease/tox/serotonin_syndrome.qmd
-        # - part: "Environmental"
-        #   chapters:
+        - part: "Environmental"
+          chapters:
+            - disease/tox/drowning.qmd
             # Barotrauma
             # Decompression injury
             # Hyperthermia

@@ -1,10 +1,90 @@
+# Drowning
+
+Drowning is respiratory impairment following submersion in liquid, resulting in:
+
+* **Breath holding**\
+Occurs due to the **mammalian dive reflex**, and followed by:
+	* **Laryngospasm**\
+	Occurs due to **airway immersion**, and leads to:
+		* Hypoxia and hypercarbia
+	* **Breaking** of **laryngospasm**\
+	Due to prolonged hypoxia.
+		* Glottic opening and aspiration
+	* **Secondary apnoea**\
+	Following aspiration.
+		* Loss of consciousness
+* **Hypothermia**
+	* Rapid hypothermia in water <5°C may provide some protection against hypoxia\
+
+:::column-margin
+Fatal aspiration volume is ~22mL/kg.
+:::
+
+:::column-margin
+Aspiration of icy water may be *protective*, as this may cause protective hypothermia prior to significant hypoxia.
+:::
+
+
 ## Epidemiology and Risk Factors
 
+Drowning is the third most common cause of unintentional traumatic death; risk factors include:
+
+* Youth\
+Leading cause of death in Australians aged 1-3.
+* Male
+* Lack of adult supervision
+* Intoxiciation
+* Hyperventilation\
+↓ Respiratory drive by lowering PaCO~2~, which may precipitate hypoxic blackout.
+* Available bodies of water
+	* Pools
+	* Natural bodies of water
+	* Domestic
+		* Bath tubs
+		* Fish tanks
+		* Buckets
+* Disease
+	* Epilepsy
+	* Cardiopulmonary disease
+
+
+Cold shock response occurs following submersion in icy water:
+
+* 'Gasp'
+* Hyperventilation
+* ↓ Maximal breath hold time
+* Vasoconstriction
+* Tachycardia
+* Hypertension
+* ↑ Myocardial oxygen consumption
 ## Pathophysiology
+
+The diving reflex occurs in response to cold-water stimulation of the opthalmic division of the trigeminal nerve, and triggers:
+
+* Apnoea
+* Generalised vasoconstriction
+* Bradycardia
+
+:::column-margin
+There was traditionally believed to be a difference between salt and fresh water drowning due to tonicity of the aspirated salt water drawing in interstitial volume, whilst free water was absorbed into circulation. More recent data pokes holes in this physiologically-pleasing explanation, indicating no difference in the pattern of lung injury.
+:::
 
 ### Aetiology
 
 ## Clinical Manifestations
+
+History:
+
+* Time and duration of submersion
+* Water source
+	* Pollution
+	* Contamination
+* Resuscitation attempts
+* Intoxication
+	* Alcohol
+	* Drug
+
+
 
 ## Diagnostic Approach and DDx
 
@@ -12,24 +92,60 @@
 
 **Bedside**:
 
+* ABG
+* ECG
+
 **Laboratory**:
 
+* FBE
+	* Haemolysis
+* UEC
+* CK
+
 **Imaging**:
+
+* CXR
 
 **Other**:
 
 ## Management
 
+:::priority
+* **Retrieve** from water\
+No role for cervical spine immobilisation whilst in water.
+* **Respiratory support**\
+Any arrest is likely from hypoxia.
+:::
+
 **Resuscitation**:
 
-ABC approach. Comment on team coordination and clinical priorities.
+* A
+	* Intubation if required\
+	High aspiration risk.
+* B
+	* **5 rescue breaths**\
+	Lung compliance may be poor.
+	* Supplemental oxygen
+* C
+	* Cautious volume resuscitation
+
 **Specific therapy**:
 
 * Pharmacological
+	* Bronchodilators
+	* Inhaled pulmonary vasodilators\
+	Consider for refractory hypoxaemia.
 * Procedural
 * Physical
+	* Lung protective ventilation if intubation required
+
 
 **Supportive care**:
+
+* E
+	* Active rewarming
+* G
+	* Nasogastric decompression
 
 **Disposition**:
 
@@ -38,11 +154,60 @@ ABC approach. Comment on team coordination and clinical priorities.
 
 ### Marginal and Ineffective Therapies
 
+* Corticosteroids
+* Prophylactic antibiotics
+
 ## Anaesthetic Considerations
 
 ## Complications
 
+* Death
+* B
+	* Aspiration
+	* Pneumonia\
+	\>15%. Organisms vary depending on the fluid aspirated:
+		* Natural water sources have much greater variety of microbial life
+		* Common aetiologies include:
+			* Gram negative
+			* Anaerobes
+			* *Staphylococcus* spp.
+			* *Aeromonas* spp.
+			* Fungi
+			* Algae
+			* Protozoa
+	* ARDS\
+	↑ Risk with chemical pollutants:
+		* Kerosene
+		* Chlorine
+		* Sand
+	* Pulmonary oedema
+* D
+	* 
+* E
+	* Rhabdomyolysis
+* H
+	* Haemolytic anaemia
+
+
 ## Prognosis
+
+For patients with cardiac arrest:
+
+* Survival to hospital discharge is ~44%
+* Moderate-severe brain injury is 33%
+* Similar outcomes seen in children
+
+
+Poor prognostic signs:
+
+* Warm-water immersion
+* Immersion >5 minutes
+* CPR delay >10 minutes
+
+
+Good prognostic signs:
+
+* Lower initial core temperature, unless this occurs *after* rescue
 
 ## Key Studies
 
