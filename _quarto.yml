@@ -251,6 +251,7 @@ book:
               - management/obs/labour.qmd
               - management/obs/drugs.qmd
               - management/obs/cardiac.qmd
+              - management/obs/trauma.qmd
     - part: <hr>
     ## Anaesthesia
     - part: "Anaesthesia"
@@ -830,8 +831,11 @@ book:
             # Tracheobronchial injury
             # Diaphragmatic rupture
             # Oesophageal injury
-        # - part: "Abdomen and Pelvis"
-        #   chapters:
+        - part: "Abdomen and Pelvis"
+          chapters:
+            - disease/trauma/spleen.qmd
+            - disease/trauma/liver.qmd
+            - disease/trauma/pelvic.qmd
         # - part: "Extremities"
         #   chapters:
         # Infection

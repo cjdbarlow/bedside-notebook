@@ -1,0 +1,102 @@
+# Splenic Trauma
+
+Splenic injury is a frequent complication of blunt trauma and is graded into:
+
+* **Grade I**
+	* Subcapsular haematoma <10% of surface area\
+	Lenticular perisplenic collection.
+	* Parenchymal laceration <1cm deep
+	* Capsular tear
+* **Grade II**
+	* Subcapsular haematoma 10-50% of surface area
+	* Parenchymal laceration 1-3cm deep
+	* Intraparenchymal haematoma <5cm
+* **Grade III**
+	* Subcapsular haematoma >50%
+	* Ruptured haematoma ≥5cm
+	* Parenchymal laceration >3cm deep
+* **Grade IV**
+	* SPlenic vascular injury
+	* Active splenic capsular bleeding
+	* Parenchymal laceration involving segmental or hilar vessels
+* **Grade V**
+	* Shattered spleen
+	* Splenic vascular injury with bleeding into peritoneum
+
+:::column-margin
+Injuries involving the hilum (grade IV-V) usually require intervention; most others can be managed non-operatively.
+:::
+
+## Epidemiology and Risk Factors
+
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Manifestations
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+**Imaging**:
+
+**Other**:
+
+## Management
+
+:::priority
+* Intervention depends on **grade of injury** and haemodynamic stability
+* Non-operative management is appropriate for low-grade injury
+:::
+
+**Resuscitation**:
+
+ABC approach. Comment on team coordination and clinical priorities.
+**Specific therapy**:
+
+* Pharmacological
+* Procedural
+	* Angioembolisation
+ 	* Splenectomy
+ 		* Unstable and proceeding to laparotomy
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+* Prevention of post-splenectomy infection\
+Vulnerability to infection by encapsulated organisms. Recommendations for:
+	* Spleen registry referral
+	* Vaccination
+		* Pneumococcal
+		* Meningococcal
+		* Influenza (annual)
+		* *H. influenzae* type B
+
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

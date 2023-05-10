@@ -64,6 +64,11 @@ Severely injured patients with multisystem trauma, generally indicated by:
 	* Requirement for staged abdominal or thoracic wall reconstruction
 
 
+## Contraindications
+
+Damage control surgery is associated with ↑ morbidity and hospital length of stay, and so should not be performed for patients with the physiological reserve to tolerate definitive repair.
+
+
 ## Haemodynamic Goals
 
 * Penetrating trauma
@@ -92,7 +97,6 @@ Damage control surgery can be divided into **five phases**:
 * Reconstructive surgery
 
 
-
 ### Pre-surgery Damage Control
 
 Prehospital:
@@ -108,14 +112,17 @@ Necessity varies depending on:
 Emergency Department:
 
 * Rapid assess extent of injury and physiological derangement
-* Commence [damage control resuscitation](/management/trauma/dcr.md)
+* Commence damage control resuscitation
 
-
+:::column-margin
+Damage Control Resuscitation is covered under @sec-trauma_primary.
+:::
 
 ### Damage Control Surgery
 
-> Operative time should be **⩽90 minutes** to avoid exacerbating physiological derangement.
-
+:::tick
+Operative time should be **⩽90 minutes** to avoid exacerbating physiological derangement.
+:::
 
 Principles:
 
@@ -150,11 +157,11 @@ Methods:
 	* Fasciotomy
 
 
-
 ### ICU Resuscitation
 
-> Goal is to normalise physiology
-
+:::priority
+Goal is to **normalise physiology**.
+:::
 
 Methods:
 
@@ -164,11 +171,11 @@ Methods:
 * Obtain further imaging to define full extent of injuries
 
 
-
-
 ### Definitive Repair
 
-> Usually begins 24-48 hours after initial injury
+:::info
+Usually begins 24-48 hours after initial injury/
+:::
 
 Definitive repair of previously temporised injuries, including:
 
@@ -178,9 +185,7 @@ Definitive repair of previously temporised injuries, including:
 * Closure of abdominal and soft tissue defects
 
 
-
 ### Reconstructive Surgery
-
 
 Surgery to restore premorbid form and function, e.g.:
 
@@ -193,3 +198,4 @@ Surgery to restore premorbid form and function, e.g.:
 ## References
 
 1. Cap AP, Pidcoke HF, Spinella P, et al. Damage Control Resuscitation. Mil Med. 2018;183(suppl_2):36-43. doi:10.1093/milmed/usy112
+2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

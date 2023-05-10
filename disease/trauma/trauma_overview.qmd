@@ -1,17 +1,22 @@
 # Trauma Overview
 
 Trauma is physical injury occurring due to mechanical force, and is divided into:
+
 * Blunt trauma\
 Injuries are generally internal, multiple, and may not be initially obvious.
 	* MVA
 	* Falls
 	* Assault
 * Penetrating trauma\
-Injuries highly dependent on trajectory and force of energy involved
+Injuries highly dependent on trajectory and force of energy involved.
 	* Explosions
 	* Assault
 		* GSW
+			* Missile calibre
+			* Velocity
+			* Trajectory
 		* Stabbings
+	* Entry and exit wounds **do not predict** nature or tract of deeper injury
 
 :::column-margin
 A systematic approach of triage and assessment is required to efficiently and effectively identify and treat patients and injuries in the appropriate order.\
@@ -21,15 +26,29 @@ Triage and management of mass casualty scenarios are covered @sec-triage and @se
 
 ## Epidemiology
 
-Trauma is a disease of:
+Risk factors:
 
 * Young
 
 
+Patterns of injury:
+
 * Chest trauma
 	* Is usually **blunt**
 	* Makes ~25% of all trauma deaths
+* Abdominal
+	* Mortality ~8%
+* Pelvic
+	* Mortality ~10%
 
+
+Preventative:
+
+* Seat belts
+	* Significant ↓ mortality
+* Air bags
+	* ↓ Mortality
+	* May cause thoracic injuries
 
 ## Chest Trauma
 
@@ -51,7 +70,28 @@ Beside ultrasound allows diagnosis of:
 The majority of injuries sought in the primary survey are chest injuries.
 :::
 
-### Investigations
+## Abdominal Trauma
+
+* Solid organ injury is common after blunt trauma
+* Bowel injury is rare in blunt trauma but common in pemetrating trauma
+* Laparotomy is management tool of choice for:
+	* Haemodynamic compromise
+	* Peritonism
+	* Evisceration
+	* Impalement
+* Interventional radiographic treatment of:
+	* Solid organ injuries with active contrast extravasation
+	* Retroperitoneal haemorrhage
+* Diagnostic laparoscopy is appropriate in stable patients with appropriate surgical expertise
+* Serial abdominal exam is appropriate for low-risk patients
+
+## Pelvic Trauma
+
+* Urinary tract injury is more common after blunt trauma
+	* Blunt injury to a distended bladder can cause rupture which requires operative repair
+	* Extravasation of contast can be seen on CT 10-20 minutes after contrast injection or on a retrograde cystogram
+
+## Investigations
 
 **Imaging**:
 
@@ -60,6 +100,12 @@ Majority of clinically significant injuries are identifiable on CXR.
 * CT\
 CT angiography allows diagnosis of particular injuries, particularly:
 	* Aortic dissection
+
+
+## Complications
+
+* H
+	* Acute traumatic coagulopathy
 
 ---
 

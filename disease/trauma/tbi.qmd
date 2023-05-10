@@ -290,18 +290,44 @@ This covers brain-specific resuscitation; the principles of Damage Control Resus
 		* Vasopressors appropriate once volume resuscitated
 	* Invasive arterial monitoring
 * D
-	* **ICP Control**\
-	Target ICP is <22mmHg.
+	* **ICP monitoring** and **treatment**
+		* Indicated for:
+			* Severe TBI (GCS ⩽8) with:
+				* Abnormal CT scan\
+				Swelling, ICH, hydrocephalus, herniation.
+				* Normal CT scan but ⩾2 of:
+					* Age >40
+					* Motor posturing
+					* SBP <90mmHg
+		* If monitored, ICP should be kept <22mmHg.
 
 
 **Specific therapy**:
 
+:::column-margin
+Management of intracranial pressure is covered under @sec-icp.
+:::
+
 * Pharmacological
+	* ICP interventions
 * Procedural
 	* Evacuation of extra-axial haemorrhage
-	* EVD
-	* ICP monitoring
+	* CSF drainage
+	* Decompressive **craniectomy**
+		* Primary (early) decompressive craniectomy has no role
+		* Secondary (late) decompressive craniectomy for refractory ↑ ICP has a *possible* role:
+			* Performed for refractory ↑ ICP
+			* ↓↓ Mortality but ↑ morbidity in survivors
 * Physical
+
+:::column-margin
+Late decompressive craniectomy results in:
+
+* Significantly ↑ number and disability of survivors
+* A greater number of survivors with a "favourable" outcome\
+Favourable is "requiring permanent help with ADLs, but can be left alone for 8 hours", or better.
+* A significantly greater number of survivors with severe disability or vegetative state. 
+:::
 
 
 **Supportive care**:
@@ -355,6 +381,9 @@ Hartmann's and lactated Ringer's are hypotonic and should also be avoided.
 	HAP/VAP, secondary to prolonged hospital stay.
 * D
 	* Hyperglycaemia
+* G
+	* Feeding\
+	Basal feeding should be established by day 5.
 * H
 	* DVT/PE
 
@@ -393,9 +422,14 @@ EDH, SDH, ICH, contusion.
 ## Key Studies
 
 * CRASH
+* DECRA
+* RESCUE ICP
 
 ---
 
 ## References
 
 1. Maas AIR, Hukkelhoven CWPM, Marshall LF, Steyerberg EW. [Prediction of Outcome in Traumatic Brain Injury with Computed Tomographic Characteristics: A Comparison between the Computed Tomographic Classification and Combinations of Computed Tomographic Predictors: Neurosurgery](https://journals.lww.com/neurosurgery/Abstract/2005/12000/Prediction_of_Outcome_in_Traumatic_Brain_Injury.14.aspx). 2005 Dec;57(6):1173–82. 
+2. Carney N, Totten AM, OʼReilly C, et al. Guidelines for the Management of Severe Traumatic Brain Injury, Fourth Edition: Neurosurgery. Published online September 2016:1. 
+3. Hawryluk GWJ, Rubiano AM, Totten AM, et al. [Guidelines for the Management of Severe Traumatic Brain Injury: 2020 Update of the Decompressive Craniectomy Recommendations](www.doi.org/10.1093/neuros/nyaa278). Neurosurgery. 2020;87(3):427-434.
+4. Carney N, Totten AM, OʼReilly C, et al. [Guidelines for the Management of Severe Traumatic Brain Injury, Fourth Edition: Neurosurgery](www.doi.org/10.1227/NEU.0000000000001432). Published online September 2016:1.
