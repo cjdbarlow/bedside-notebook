@@ -807,7 +807,7 @@ book:
         - disease/trauma/trauma_overview.qmd
         - part: "Burns"
           chapters:
-            - disease/trauma/airway_burns.qmd
+            - disease/trauma/inhalational.qmd
             - disease/trauma/burns.qmd
         - part: "Head"
           chapters:

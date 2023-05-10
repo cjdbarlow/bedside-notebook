@@ -279,8 +279,9 @@ Superior imaging of spinal cord and soft tissue, including unstable ligamentous 
 
 :::priority
 * **Avoid secondary injury** by preventing cord ischaemia and further dislodgement
-* Plan fixation\
-Early fixation does not improve neurology, but it does permit immediate rehabilitation and improves overall outcome
+* Early fixation:
+	* Improves neurorecovery by ↓ secondary injury in **incomplete injury**
+	* Permit immediate rehabilitation and improves overall outcome, but not neurology, in **complete injury**
 :::
 
 **Resuscitation**:
@@ -311,7 +312,6 @@ Principles for airway management are covered below under anaesthetic considerati
 	Fixation of **unstable** injuries within 24 hours permits:
 		* Early mobilisation
 		* Thromboprophylaxis
-		* 
 * Physical
 
 **Supportive care**:
@@ -415,6 +415,7 @@ Use for mask ventilation to reduce:
 * Nimodipine
 * Induced hypothermia
 
+
 ## Anaesthetic Considerations
 
 * A
@@ -433,6 +434,7 @@ Use for mask ventilation to reduce:
 * G
 	* Aspiration risk\
 	High risk due to gastric dilation and ↓ emptying.
+
 
 ## Complications
 

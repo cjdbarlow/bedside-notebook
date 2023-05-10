@@ -17,7 +17,8 @@ Tidal wave due to brain compliance. P2 > P1 when brain compliance falls.
 * P3\
 Dicrotic wave from AV closure.
 
-Lungberg waves are pathological waveforms seen rarely:
+
+Lundberg waves are pathological waveforms seen rarely:
 
 * Lundberg A waves\
 Slow rise in ICP to very high (50-100mmHg) levels, occurring due to a fall in MAP/CPP leading to cerebral vasodilatation and ↑ ICP. Can be terminated by an ↑ in MAP and restoration of CPP.
@@ -80,7 +81,7 @@ Intraventricular catheters (EVD):
 
 * Provide an assessment of global ICP
 * Facilitate drainage and sampling of CSF
-* More difficult to place with severe brain oedema and ↓ ventricule size
+* More difficult to place with severe brain oedema and ↓ ventricle size
 * Can be regularly re-calibrated\
 Remain accurate over time.
 
@@ -112,6 +113,7 @@ Invasive measurement of cerebral interstitial metabolic milieu via microdialysis
 Noninvasive measurement of cerebral blood flow.
 * NIRS\
 Non-invasive measurement of cerebral oxygen saturation. Not validated in neurological intensive care.
+
 
 ## Management {#sec-icp_mx}
 

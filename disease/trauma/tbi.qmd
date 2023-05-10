@@ -179,6 +179,9 @@ Not indicated routinely in the acute phase. Role in:
 	* Neuroprognostication of DAI
 	* Identification intracranial vascular injury
 
+:::column-margin
+Because EVD and ICP monitors contraindicate MRI; MRI is only able to be performed after these have been removed (generally 7 days) and so delayed prognostication is normal.
+:::
 
 ### Marshall Classification
 
@@ -264,8 +267,7 @@ This covers brain-specific resuscitation; the principles of Damage Control Resus
 :::
 
 * A
-	* **Intubation**\
-	For:
+	* **Intubation**
 		* Coma
 		* Marked agitation
 		* Significant extracranial trauma
@@ -284,7 +286,7 @@ This covers brain-specific resuscitation; the principles of Damage Control Resus
 				* <50: SBP >110
 				* 50-69: SBP >100
 				* \>70: SBP >110
-			* Aim **CPP 60-70mmHg**\
+			* Aim **CPP 60-70mmHg** if **ICP >15mmHg**\
 			Can be relaxed after 72 hours as the brain enters a hyperaemic phase, although ICP <22mmHg should still be defended.
 		* Correct hypovolaemia with blood or crystalloid
 		* Vasopressors appropriate once volume resuscitated
@@ -299,7 +301,7 @@ This covers brain-specific resuscitation; the principles of Damage Control Resus
 					* Age >40
 					* Motor posturing
 					* SBP <90mmHg
-		* If monitored, ICP should be kept <22mmHg.
+		* If monitored, ICP should be kept **<22mmHg**
 
 
 **Specific therapy**:
@@ -332,6 +334,14 @@ Favourable is "requiring permanent help with ADLs, but can be left alone for 8 h
 
 **Supportive care**:
 
+* A
+	* Tracheostomy\
+	Timing is controversial but is generally late as there is no clear benefit for early tracheostomy. Can be considered:
+		* \>7 days once severe TBI treatment is completed
+		* Neuroprognostic workup completed
+		* Patient has either:
+			* Reasonable chance of recovery to acceptable quality of life
+			* Require rehabilitation but are unable to protect their away
 * D
 	* Seizure prophylaxis\
 	Can be considered to prevent early (<7 days) seizures.
@@ -354,6 +364,7 @@ Favourable is "requiring permanent help with ADLs, but can be left alone for 8 h
 
 * Neurotrauma centre\
 All severely TBI should be managed at a specialist neurotrauma centre.
+
 
 **Preventative**:
 
@@ -387,6 +398,7 @@ Hartmann's and lactated Ringer's are hypotonic and should also be avoided.
 * H
 	* DVT/PE
 
+
 ## Prognosis
 
 Poor prognostic factors include:
@@ -418,6 +430,7 @@ EDH, SDH, ICH, contusion.
 * Depressed skull fracture
 * Penetrating head wound
 * Seizure within 24 hours of injury
+
 
 ## Key Studies
 
