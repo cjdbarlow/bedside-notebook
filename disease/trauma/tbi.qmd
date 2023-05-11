@@ -411,23 +411,7 @@ Neuroprognostication itself exceedingly difficult, and made more complex as many
 * **Hyperthermia**
 
 :::column-margin
-The **Glasgow Outcome Scale - Extended** (GOS-E) is commonly used to measure TBI outcome:
-
-1. Death
-2. Vegetative state\
-Unaware, periods of spontaneous eye opening, persistent reflex responses.
-3. Lower severe disability\
-Dependent, unable to be left alone for >8 hours.
-4. Upper severe disability\
-Dependent, able to be left alone for >8 hours.
-5. Lower moderate disability\
-Independent at home, dependent outside, unable to return to work.
-6. Upper moderate disability\
-Independent at home, dependent outside, able to return to work with special arrangement.
-7. Lower good recovery\
-Some disability but able to return to work.
-8. Upper good recovery\
-Some deficits but not disabling.
+{{< include /includes/gos-e.qmd >}}
 :::
 
 Of patients hospitalised with TBI, at 12 months:

@@ -84,6 +84,7 @@ book:
             - part: <hr>
             - assessment/critical/airway.qmd
             - assessment/critical/neuro.qmd
+            - assessment/critical/neuroprognostication.qmd
             - assessment/critical/fever.qmd
             - part: <hr>
             - assessment/critical/brain_death.qmd
@@ -921,6 +922,7 @@ book:
         chapters:        
         - investigations/csf.qmd
         - investigations/eeg.qmd
+        - investigations/ssep.qmd
         - investigations/ctg.qmd
         - investigations/pfts.qmd
       # Ventilator waveforms

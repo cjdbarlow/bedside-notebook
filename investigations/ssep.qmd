@@ -1,0 +1,74 @@
+# Evoked Potentials {#sec-ssep}
+
+Evoked potentials are electrical signals generated in response to stimuli. They include:
+
+* **Somatosensory**\
+Electrical stimulation of the periphery with trace of the nerve impulse to the sensory cortex. SSEPs are:
+	* Rapid
+	* Portable
+	* Non-invasive
+	* Reported by:
+		* Direction\
+		A peak is a negative potential (N), a nadir by a postiive potential (P)
+		* *Expected* latency\
+		How long (ms) between stimulation and detection.
+* Motor\
+Stimulation of the cortex with trace of impulse to a motor neuron or muscle group.
+* Brainstem auditory
+
+## Indications
+
+Somatosensory potentials are used for:
+
+* Neuroprognostication\
+Indications:
+	* After 24 hours  in:
+		* Post cardiac arrest
+		* TBI
+	* With sedatives and analgesics
+	* With hypothermia
+	* With an abnormal EEG\
+	No prognostic utility with normal EEG
+
+
+## Contraindications
+
+Somatosensory contraindications:
+
+* Barbiturate coma
+* Known or suspected lack of nerve integrity:
+	* Peripheral nerve injury
+	* Traumatic spinal cord injury
+
+
+Motor evoked potential contraindications:
+
+* Muscle relaxation
+
+## Anatomy
+
+## Equipment
+
+## Technique
+
+:::caution
+Highly sensitive to electrical interference due to the very low (μV) voltages detected.
+:::
+
+For neuroprognostication:
+
+* Electrodes are placed to read activity at the:
+	* Dorsal root ganglion (N9)\
+	"Erb point".
+	* Cervical spinal cord (N13)
+	* Thalamus (P18)
+	* Somatosensory cortex (**N20**)
+* Median nerve stimulated at the level of the wrist
+* Bilateral absence of N20 peaks is highly specific of poor neurological outcome after 24 hours 
+
+## Complications
+
+
+---
+
+## References

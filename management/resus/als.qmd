@@ -108,12 +108,23 @@ In a witnessed and monitored arrest, **without pads**, it is *reasonable* to per
 
 ## Prognosis
 
-In-hospital cardiac arrest has a surprisingly good overall:
+In-hospital cardiac arrest has a surprisingly good overall prognosis:
+
+:::column-margin
+Neuroprognostication is covered under @sec-neuroprog.
+:::
 
 * Hospital discharge in 52%\
 Multifactorial:
 	* Early detection
 	* Early arrival of ALS
+
+
+Out-of-hospital cardiac arrest requiring ICU admission is significantly worse:
+
+* 80% are comatose
+* ~60% die with HIE
+
 
 ## Key Studies
 

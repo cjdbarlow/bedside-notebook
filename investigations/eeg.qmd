@@ -1,21 +1,77 @@
-# Electroencephalogram
+# Electroencephalogram {#sec-eeg}
 
-## Findings
+:::info
+This discusses EEG in the context of intensive care, predominantly in neuroprognostication.
+:::
 
-Key EEG diagnoses and their associated findings include:
+Electrical tracing of cerebral activity that consists of both:
 
-* NCSE
-* Thiopentone infusion
-	* Burst suppression
-* Hepatic encephalopathy
-	* Paroxysmal triphasic waves
+* Background patterns
+* Activity
+
+
+## Background Patterns
+
+Background activity is the most important prognostic feature, with progressive loss of background activity associated with increasingly poor prognosis. Key patterns include:
+
+:::column-margin
+Earlier achievement of a good EEG background is associated with better prognosis.
+:::
+
+* **Continuous background activity**\
+Good prognostic sign.
+* **Discontinuous background activity**\
+Alternating continuous activity with suppression 10-40% of the time.
+* **Burst suppression**\
+Long periods of electrographic silence with short bursts of activity.
+	* Specific of very poor prognosis if exclusion of other causes:
+		* Sedatives
+		* Analgesics
+		* Status epilepticus
+		* Encephalopathy
+		* Anoxic brain injury
+		* Hypothermia
+	* Epileptiform or identical bursts are associated with poor prognosis
+* **Suppression**\
+Electrical silence >99% of the time. Due to:
+	* Profound brain injury
+	* Severe hypothermia
+	* Deep anaesthesia
+	* Acute hypoperfusion
+
+
+## Activity
+
+Additional findings:
+
+* **Periodic discharge**\
+Repeating waveform at a set interval. Divided into:
+	* Generalised Periodic Discharges on suppressed background\
+	Poor prognosis, and consistent with status myoclonus if clinical myoclonus present.
+	* Periodic discharges on a continuous background\
+	Non-specific. May respond to antiepileptics.
+* **Sporadic epileptiform discharges**\
+Repeating waveform at no regular interval. Generally poor prognosis.
+* **Seizure**\
+Highly specific for poor outcome after cardiac arrest.
+* **Status epilepticus**\
+Poor prognostic sign.
+
+
 * Hypoxic encephalopathy
 	* Theta activity
 	* Diffuse slowing
 	* Burst suppression
 	* Alpha coma
-* Herpes encephalitis
-	* Periodic sharp spikes
+
+### Other Findings
+
+Findings associated with other disease include:
+
+* Paroxysmal triphasic waves\
+Hepatic encephalopathy.
+* Periodic sharp spikes\
+Herpes encephalitis.
 
 ---
 

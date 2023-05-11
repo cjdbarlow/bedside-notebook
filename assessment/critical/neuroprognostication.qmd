@@ -1,0 +1,244 @@
+# Neuroprognostication {#sec-neuroprog}
+
+:::info
+This is an overview of neuroprognostication tailed to cardiac arrest, although there is substantial overlap with TBI prognostication.
+:::
+
+Accurate prediction of neurological outcome is difficult and critical. Neurological outcome:
+
+* Major determinant of quality of life and ongoing healthcare needs
+* Overly pessimistic prognosis leads to withdrawal of life sustaining therapy in patients who could potentially recover
+* Overly optimistic views lead to prolongation of support in patients with futile injuries\
+With consequential healthcare-associated suffering:
+	* Individual loss of dignity
+	* Invasiveness of intensive care
+	* Familial exhaustion
+
+
+## Outcome Assessment
+
+Scales used to assess neurological outcome include:
+
+:::column-margin
+The definition of a good outcome changed circa 2006; studies older than this typically include severe disability as a good outcome.
+:::
+
+* Glasgow Outcome Scale\
+Largely deprecated.
+* **Glasgow Outcome Scale - Extended**\
+* **Cerebral Performance Categories**\
+Derived from the Glasgow Outcome Score, and used after cardiac arrest.
+	* Typically, a **good outcome** is as **moderate or minor** disability (CPC 1-2_)
+
+:::column-margin
+{{< include /includes/gos-e.qmd >}}
+:::
+
+{{< include /includes/cpc.qmd >}}
+
+
+## Clinical Examination
+
+:::caution
+Clinical examination is interfered with by hypothermia, sedation, analgesics, and muscle relaxants.
+:::
+
+Relevant features of the neurological exam include:
+
+* Cranial nerve findings
+	* Pupillary reflexes
+	* Corneal reflexes
+* Motor score
+* Myoclonus
+	* *Status* myoclonus involves synchronised, repetitive, symmetric, persistent (>30 minutes) jerking with clinical coma
+		* EEG may show status or general malignant pattern
+		* Specific for poor neurological outcome
+
+
+
++-------------+-----------------------------------------------------------+--------------------------------------------------------------------+-------------------------------+
+| Finding     | Pupillary Reflexes                                        | Corneal Reflexes                                                   | Motor Score                   |
++=============+===========================================================+====================================================================+===============================+
+| <24 hours   | * Absence is non-specific                                 |                                                                    |                               |
+|             | * Presence possibly positive                              |                                                                    |                               |
++-------------+-----------------------------------------------------------+--------------------------------------------------------------------+-------------------------------+
+| 72-96 hours | Absent any is **~99% specific** for **poor outcome**      | Absent any is ~95% specific for poor outcome                       | * M6: Excellent outcome       |
+|             |                                                           |                                                                    | * M5: Probably good outcome   |
+|             |                                                           |                                                                    | * M4: Possible good outcome   |
+|             |                                                           |                                                                    | * ⩽M3: Probable poor outcomes |
++-------------+-----------------------------------------------------------+--------------------------------------------------------------------+-------------------------------+
+| \>96 hours  | Bilateral absence **~100% specific** for **poor outcome** | Absent any is ~100% specific                                       | As 72 hours.                  |
++-------------+-----------------------------------------------------------+--------------------------------------------------------------------+-------------------------------+
+| Comments    | Generally very insensitive (~20%) but highly specific.    | Marginally more sensitive than pupillary (~30%) but less specific. |                               |
+|             |                                                           |                                                                    |                               |
++-------------+-----------------------------------------------------------+--------------------------------------------------------------------+-------------------------------+
+
+: Prognostic Value of the Neurological Exam
+
+
+## Investigations
+
+**Laboratory**:
+
+* Bloods
+	* Neuron Specific Enolase
+		* Serial measurements demonstrating repeated and ↑ levels predict poor outcome
+		* Confounded by haemolysis and NET
+		* Unclear prognostic value
+
+**Imaging**:
+
+:::column-margin
+Functional investigations (**neurological exam**, **SSEPs**, EEG) are generally superior to radiology at predicting outcome but more affected by confounding.
+:::
+
+* CT Brain\
+	* Logistically easier
+	* Can be performed earlier and repeatedly\
+	Features ↑ over 3-5 days as oedema evolves.
+	* Features of HIE include:
+		* Loss of grey/white differential\
+		Cytotoxic oedema ↓ grey matter density.
+		* Diffuse oedema
+		* Herniation
+		* Pseudo-subarachnoid haemorrhage pattern\
+		↑ Density of basal cisterns due to ↑↑ ICP, usually occurring with generalised oedema.
+* MRI Brain
+	* Prognostically useful if no HIE on CT brain
+	* Optimal time is 2-7 days after arrest
+
+**Other**:
+
+:::column-margin
+EEG and SSEP are covered in detail under @sec-eeg and @sec-ssep.
+:::
+
+* EEG
+	* Most useful 24 hours after cardiac arrest
+	* Generally falsely improve over time, ↓ diagnostic utility
+	* Sedatives should be withheld for several half-lives prior to obtaining recording
+* SSEP
+	* Most useful 24 hours after arrest in patients with an **abnormal EEG**
+	* Retains accuracy under sedation
+	* Contraindicated by cervical spine abnormality
+	* ↓ Accuracy after TBI due to presence of spinal or subcortical lesion
+
+
+## Approach
+
+:::info
+* The best predictor of future improvement is past improvement
+* Earlier (hours) improvement is better than late (days) improvement
+:::
+
+Neuroprognostication is difficult, and:
+
+* Relies on a combination of:
+	* Clinical examination findings
+	* Structural investigations
+	* Functional investigations
+* Becomes **more accurate with time**\
+Approach is correspondingly split into:
+	* Early\
+	\<72 hours. Management is supportive unless unequivocal evidence of dismal outcome.
+	* Late
+	* Indeterminate
+
+
+### Early
+
+:::info
+* Minimise **confounders**
+* **Obtain** prognostic **information**
+:::
+
+Principles:
+
+* Supportive intensive care
+* Avoid assessment in the setting of hypothermia\
+e.g. Post-arrest TTM.
+* Early **family meeting** to **set expectations** around:
+	* Time required for prognostication
+	* Likelihood of significant brain injury
+* Gain prognostic information
+	* CT
+	* MRI
+	* EEG\
+	Ideally at 12, 24, 48 hours.
+
+
+Early prognostication by  *may* be possible if there is:
+
+* Brain death
+* Unequivocal evidence of catastrophic brain injury
+* Localisation or withdrawal\
+Favours good prognosis.
+
+
+### Late
+
+:::info
+* Exclude **confounders**
+* Evaluate predictors of good and poor outcome
+* Decisions guided by family input around patients wishes and acceptable quality of life
+:::
+
+Principles:
+
+* Rule out confounders
+	* Drugs
+		* Sedatives and analgesics
+		* Deliriogenic medications
+	* Neurological
+		* Seizures
+			* NCSE
+	* Metabolic causes
+		* Electrolyte abnormalities
+		* Hepatic encephalopathy
+		* Uraemic encephalopathy
+		* Acidosis\
+		Particularly metabolic.
+* Complete any outstanding investigations
+* Neurological exam at 72 hours
+
+
+
+**Good outcome** is *more likely* with **any of**:
+
+* M4/5
+* MRI with at worst isolated DWI lesion
+* EEG continuous background <12 hours from ROSC
+* EEG reactive background <24 hours from ROSC
+* N20 SSEP >4μV >48 hours from ROSC
+
+
+**Poor outcome** is **very likely** with clinical picture of severe widespread brain injury and:
+
+* Bilateral unreactive pupils >72 hours from ROSC
+* Bilateral absent N20 SEEP >48 hours from ROSC
+
+
+**Poor outcome** is **likely** with clinical picture of severe widespread brain injury and:
+
+* CT with diffuse loss of grey-white differentiation and sulcal effacement >48 hours from ROSC
+* MRI-DWI with diffuse restricted diffusion at 2-7 days post ROSC
+* EEG with background or burst suppression >72 hours from ROSC
+
+
+### Indeterminate
+
+Continue support and observation if:
+
+* There are no reliable predictors of poor outcome
+* More time needed to ascertain patients wishes
+
+
+## Key Studies
+
+* TTM2
+
+---
+
+## References
+
+1. Sandroni C, D’Arrigo S, Nolan JP. [Prognostication after cardiac arrest](https://ccforum.biomedcentral.com/articles/10.1186/s13054-018-2060-7). Critical Care. 2018;22(1):150. doi:10.1186/s13054-018-2060-7
