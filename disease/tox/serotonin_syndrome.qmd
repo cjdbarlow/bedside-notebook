@@ -1,9 +1,4 @@
-
 # Serotonin Syndrome
-
-
-> * **Severe** and life-threatening cases **almost always** involve a **monoamine oxidase inhibitor**
-> * Awareness of potent serotonergic agents is key to preventing reactions
 
 Drug-induced over-stimulation of serotonin receptors in CNS. Serotonin syndrome is:
 
@@ -33,6 +28,7 @@ Drug-induced over-stimulation of serotonin receptors in CNS. Serotonin syndrome 
 			* Confusion, coma
 			* Severe hyperthermia
 
+
 ## Epidemiology and Risk Factors
 
 ## Pathophysiology
@@ -40,6 +36,11 @@ Drug-induced over-stimulation of serotonin receptors in CNS. Serotonin syndrome 
 Excessive serotonin activity at 5-HT~2~ receptors in the CNS.
 
 ## Clinical Manifestations
+
+:::info
+* **Severe** and life-threatening cases **almost always** involve a **monoamine oxidase inhibitor**
+* Awareness of potent serotonergic agents is key to preventing reactions
+:::
 
 Careful and detailed drug history is essential:
 
@@ -79,6 +80,7 @@ Presentation:
 	* Rapid hyperthermia
 	* Muscle rigidity
 
+
 ### Diagnostic Criteria
 
 Hunter Serotonin Toxicity Criteria:
@@ -102,6 +104,7 @@ Dose ↑, overdose, or new agent.
 				Serotonin toxicity.
 				* No\
 				No serotonin toxicity.
+
 
 ### Drugs Associated with Moderate to Severe Serotonin Toxicity
 
@@ -138,6 +141,7 @@ Include:
 	* Buspirone
 	* Tryptophan
 
+
 ### Drugs Without Significant Risk of Toxicity
 
 Serotonin antagonists, or those that do not agnoise 5-HT~2~:
@@ -146,6 +150,7 @@ Serotonin antagonists, or those that do not agnoise 5-HT~2~:
 * Anxiolytics
 * Anti-migraine drugs
 * Antiemetics
+
 
 ## Diagnostic Approach and DDx
 
@@ -157,24 +162,29 @@ Key differentials include:
 * Encephalitis
 * Neuroleptic Malignant Syndrome
 
+
 ### Differentiating from Neuroleptic Malignant Syndrome
 
-Key differentiating features are that NMS has:
+Key differentiating features are that:
 
-* A slow onset over days
-* Extrapyramidal features and rigidity
-* No clonus
+* Serotonin syndrome has ↑ bowel sounds
+* NMS has:
+	* A slow onset over days
+	* Extrapyramidal features and rigidity
+	* No clonus
+
 
 ## Investigations
 
 Diagnosis is clinical. Investigations usually targeted towards ruling out other causes, or identifying complications.
 
-**Bloods**:
+**Laboratory**:
 
-* UEC/CMP\
-Rhabdomyolysis.
-* Coagulation screen\
-DIC.
+* Blood
+	* UEC/CMP\
+	Rhabdomyolysis.
+	* Coagulation screen\
+	DIC.
 
 **Imaging**:
 
@@ -187,41 +197,45 @@ Encephalitis.
 * EEG
 
 
-
 ## Management
 
-> Largely consists of sedation
-> Prevention of hyperthermia is critical in severe toxicity
-> Evidence for specific antidotes is lacking
+:::priority
+* **Cease precipitants**
+* **Sedation**
+* **Prevention** of **hyperthermia** is **critical** in severe toxicity
+* **Specific** antidotes is **lack evidence**
+:::
 
-Principles of management:
+**Resuscitation**:
 
-* Cease agent
-* Supportive care
-	* A
-		* Intubation may be required to control temperature
-	* B
-	* C
-		* Volume resucitation
-	* D
-		* Sedation
-			* Reduces musclea activity
-	* E
-		* Prevent hyperthermia\
-			* Beneficial as:
-				* Reduces complications
-				* Down regulates 5-HT~2a~ receptors
-			* Methods:
-				* Active cooling
-				* Paralyis and ventilation
-* Specific agents\
-In severe cases, seek toxicology advice:
-	* Chlorpromazine
-		* Most commonly used
-		* Requires pre-load with IV fluid
-	* Cyproheptadine\
-	Serotonin and histamine antagonist.
-		* No significant differences in severe cases in a retrospective review
+* A
+	* Intubation may be required to control temperature
+* C
+	* Volume resuscitation
+* D
+	* Sedation
+		* Reduces muscles activity
+* E
+	* Prevent hyperthermia\
+		* Beneficial as:
+			* Reduces complications
+			* Down regulates 5-HT~2a~ receptors
+		* Methods:
+			* Active cooling
+			* Paralysis and ventilation
+
+
+**Specific Therapy**:
+
+* Pharmacological
+	* Specific agents\
+	In severe cases, seek toxicology advice:
+		* Chlorpromazine
+			* Most commonly used
+			* Requires pre-load with IV fluid
+		* Cyproheptadine\
+		Serotonin and histamine antagonist.
+			* No significant differences in severe cases in a retrospective review
 
 
 ### Anaesthetic Considerations

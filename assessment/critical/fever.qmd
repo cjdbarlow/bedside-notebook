@@ -1,6 +1,10 @@
-# Fever and Hyperthermia
+# Fever and Hyperthermia {#sec-fever}
 
-Normal body temperature is 37.0°C, with normally a 0.5-1°C variation. Hyperthermia can either:
+Normal body temperature is 37.0°C with a 0.5-1°C diurnal variation that peaks in the evening and is lowest at ~0600. Hyperthermia can either:
+
+:::column-margin
+This covers management of elevated body temperature. Heat injury and heat stroke are covered under @sec-heat_inj.
+:::
 
 * ***True* fever**\
 ↑ Temperature due to ↑ hypothalamic set point, and is **defended** by thermoregulatory mechanisms.
@@ -22,6 +26,7 @@ Normal body temperature is 37.0°C, with normally a 0.5-1°C variation. Hyperthe
 		* Hyperthermia due to **inadequate** heat **dissipation**\
 		Particularly in the unacclimatised, who do not exhibit the same degree of peripheral vasodilatation and sweating.
 		* Hyperthermia due to **impaired thermoregulation**
+
 
 :::column-margin
 Fever and hyperthermia are often used synonymously clinically and in the literature. However, there is some value in separating the two based on the hypothalamic set point and so for the purpose of this section fever refers to ↑ body temperature due to ↑ hypothalamic set point.\
@@ -156,18 +161,12 @@ Generally avoid unless:
 
 **Bedside**:
 
-* Temperature measurement\
-Use the most accurate device available in the clinical situation. In descending order:
-	* Intravascular
-	* Oesophageal
-	* Bladder
-	* Rectal
-	* Oral
-	* Tympanic
-
+* Temperature measurement
+	* Use the most accurate device available
+	* Axillary, temporal artery, and chemical dot thermometers should not be used in the critically ill.
 
 :::column-margin
-Axillary, temporal artery, and chemical dot thermometers should not be used in the critically ill.
+{{< include /includes/temp_measurement.qmd >}}
 :::
 
 **Laboratory**:
@@ -179,10 +178,6 @@ Axillary, temporal artery, and chemical dot thermometers should not be used in t
 **Other**:
 
 ## Management
-
-:::info
-
-:::
 
 **Specific therapy**:
 
@@ -201,12 +196,35 @@ Axillary, temporal artery, and chemical dot thermometers should not be used in t
 	* Line change\
 	Consider in lines **>72 hours old**, particularly if other features of CLABSI or sepsis.
 * Physical
-	* Active external cooling\
+	* Cooling\
 	Febrile patients may require paralysis to limit shivering with active cooling.
 
+:::column-margin
++-----------------+------------------------------+------------------------+
+| Class           | Method                       | Rate of Change (°C/hr) |
++=================+==============================+========================+
+| Passive         | Exposure                     | 0.5-1                  |
++-----------------+------------------------------+------------------------+
+| Active External | Wet towels/ice packs         | 1                      |
+|                 +------------------------------+------------------------+
+|                 | Evaporative (fan and mist)   | 1-2                    |
+|                 +------------------------------+------------------------+
+|                 | Temperature control pad\     | 1.5-3                  |
+|                 | e.g. Arctic sun.             |                        |
++-----------------+------------------------------+------------------------+
+| Active Internal | 30-40mL/kg 4°C IV fluids     | 2-3                    |
+|                 +------------------------------+------------------------+
+|                 | Intravascular catheter       | 2-4                    |
+|                 +------------------------------+------------------------+
+|                 | Body cavity lavage           | 3                      |
+|                 +------------------------------+------------------------+
+|                 | CPB/ECMO                     | 10                     |
+|                 +------------------------------+------------------------+
+|                 | RRT                          | 10                     |
++-----------------+------------------------------+------------------------+
 
-
-
+: Comparison of Cooling Therapies
+:::
 
 
 ---
@@ -215,4 +233,5 @@ Axillary, temporal artery, and chemical dot thermometers should not be used in t
 
 1. Marik PE. [Fever in the ICU](https://journal.chestnet.org/article/S0012-3692(15)32748-3/pdf). Chest. 2000 Mar;117(3):855–69. 
 2. Stitt JT. [Fever versus hyperthermia](https://pubmed.ncbi.nlm.nih.gov/759237/). Fed Proc. 1979;38(1):39-43.
-2. O’Grady NP, Barie PS, Bartlett JG, et al. [Guidelines for evaluation of new fever in critically ill adult patients: 2008 update from the American College of Critical Care Medicine and the Infectious Diseases Society of America](https://journals.lww.com/ccmjournal/Fulltext/2008/04000/Guidelines_for_evaluation_of_new_fever_in.40.aspx). Critical Care Medicine. 2008;36(4):1330.
+3. O’Grady NP, Barie PS, Bartlett JG, et al. [Guidelines for evaluation of new fever in critically ill adult patients: 2008 update from the American College of Critical Care Medicine and the Infectious Diseases Society of America](https://journals.lww.com/ccmjournal/Fulltext/2008/04000/Guidelines_for_evaluation_of_new_fever_in.40.aspx). Critical Care Medicine. 2008;36(4):1330.
+3. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

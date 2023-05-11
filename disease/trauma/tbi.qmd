@@ -301,6 +301,8 @@ This covers brain-specific resuscitation; the principles of Damage Control Resus
 					* Age >40
 					* Motor posturing
 					* SBP <90mmHg
+			* Moderate TBI and unable to assess neurology\
+			Discuss with neurosurgical team.
 		* If monitored, ICP should be kept **<22mmHg**
 
 
@@ -354,7 +356,11 @@ Favourable is upper severe disability (see prognosis), or better.
 		* Pneumatic calf compressors in patients without lower limb fractures
 		* Regular (e.g. twice weekly) lower limb DVT ultrasound
 		* Pharmacoprophylaxis in all patients unless:
-			* ICH
+			* ICH\
+			Timing of pharmacoprophylaxis is based on risk-benefit. In general:
+				* Discuss with neurosurgical team
+				* Consider re-CT before or after commencing to evaluate for interval change
+				* Consider IVC filter if long-term contraindication to anticoagulation
 			* Destructive pathology
 			* ICP monitor or EVD in situ
 		* IVC filter in patients who cannot be anticoagulated and have ↑↑↑ risk of DVT, e.g. pelvic or lower limb fractures

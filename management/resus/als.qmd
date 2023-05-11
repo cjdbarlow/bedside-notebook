@@ -88,23 +88,37 @@ In a witnessed and monitored arrest, **without pads**, it is *reasonable* to per
 	Patients usual BP or SBP >100mmHg.
 * D
 	* Avoid hyperglycaemia\
-	Treat BSL >10mmol/L.
+	Treat BSL >10mmol/L. May be exacerbated by TTM.
 	* Treat seizures
 	* Remain sedated
 * E
-	* **Therapeutic hypothermia**\
+	* **Targeted Temperature Management**\
 	Keep temperature 35.5-36.5°C for 24 hours.
+		* Should be achieved within 8 hours of ROSC
+		* Active external cooling
+		* Intravascular cooling catheter
+	* Paralysis\
+	May be needed to control shivering. Consideration for EEG monitoring if paralysing seizing patients.
+
+:::column-margin
+A variety of cooling methods have been tried, although with change in aims from hypothermia to normothermia many of these are no longer relevant. Historically, 4°C IV saline effectively ↓ temperature at risk of arrhythmia and volume load.
+:::
 
 ### Marginal and Ineffective Therapies
 
 ## Complications
 
-* Malperfusion
-	* Death
+* Death
+* C
+	* Ischaemic injury
+	* CPR complications
+		* Rib/sternal fractures
+		* Solid organ injury
+* D
 	* Hypoxic brain injury
-* CPR complications
-	* Rib/sternal fractures
-	* Solid organ injury
+	* Seizures\
+	In ~36% of patients after ROSC.
+
 
 ## Prognosis
 
@@ -123,7 +137,8 @@ Multifactorial:
 Out-of-hospital cardiac arrest requiring ICU admission is significantly worse:
 
 * 80% are comatose
-* ~60% die with HIE
+* ~60% die with HIE\
+The **most common cause of death** is **withdrawal** of life sustaining **therapy**.
 
 
 ## Key Studies

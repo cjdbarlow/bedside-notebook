@@ -1,0 +1,14 @@
+Temperature should be assessed with the most accurate device available in the clinical situation. In descending order:
+
+* Intravascular\
+	* PAC\
+	Gold standard.
+	* Jugular bulb\
+	Approximates PAC except around infusion of IV fluids.
+* Oesophageal\
+Should be measured at ~T8-9.
+* Bladder\
+Relies on adequate urine output.
+* Nasopharyngeal
+* Rectal
+* Tympanic

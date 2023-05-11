@@ -86,6 +86,7 @@ book:
             - assessment/critical/neuro.qmd
             - assessment/critical/neuroprognostication.qmd
             - assessment/critical/fever.qmd
+            - assessment/critical/hypothermia.qmd
             - part: <hr>
             - assessment/critical/brain_death.qmd
             - assessment/critical/circ_death.qmd
@@ -875,17 +876,22 @@ book:
         # Toxins
       - part: "Toxin and Environmental"
         chapters:
-        - part: "Toxicology"
+        - part: "Poisons"
           chapters:
             - disease/tox/co.qmd
             - disease/tox/cyanide.qmd
+        - part: "Drug Toxicity"
+          chapters:
             - disease/tox/paracetamol.qmd
+            - disease/tox/serotonin_syndrome.qmd
+            - disease/tox/nms.qmd
+            - disease/tox/anticholinergic.qmd
             - disease/tox/last.qmd
             - disease/tox/chemo_toxicity.qmd
-            - disease/tox/serotonin_syndrome.qmd
         - part: "Environmental"
           chapters:
             - disease/tox/drowning.qmd
+            - disease/tox/heat.qmd
             # Barotrauma
             # Decompression injury
             # Hyperthermia

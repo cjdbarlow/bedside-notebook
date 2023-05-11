@@ -1,0 +1,103 @@
+# Heat Injury {#sec-heat_inj}
+
+Heat injury is a pathological rise of core body temperature to unsafe levels, and is graded by severity into:
+
+:::column-margin
+This covers environmental heat injury. Hyperthermia is covered under @sec-fever.
+:::
+
+* Heat stroke\
+\>40°C and neurological dysfunction.
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+Causes include:
+
+* Environmental hyperthermia\
+Usually combination of:
+	* High ambient temperatures
+	* Physical workload
+	* Unacclimatised
+* Endocrine
+	* Thyrotoxicosis
+	* Phaeochromocytoma
+* Drug induced
+	* Malignant hyperthermia
+	* Neuroleptic malignant syndrome
+	* Serotonin syndrome
+	* Sympthomimetic toxicity
+	* MAO-I toxicity
+	* Anticholinergic toxicity
+	* Salicylate toxicity
+* Drug withdrawal
+	* Alcohol
+	* Benzodiazepines
+	* Baclofen
+
+## Clinical Manifestations
+
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+**Imaging**:
+
+**Other**:
+
+## Management
+
+**Resuscitation**:
+
+* C
+	* Fluid resuscitation
+	* Use cool saline
+* E
+	* Cooling
+		* Shaded area
+		* ↓ Activity
+		* Active external cooling
+			8 Fans
+
+
+**Specific therapy**:
+
+* Pharmacological
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+* C
+	* Shock\
+	Distributive and hypovolaemic.
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
