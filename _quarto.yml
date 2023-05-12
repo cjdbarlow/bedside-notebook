@@ -807,6 +807,8 @@ book:
       - part: "Trauma"
         chapters:
         - disease/trauma/trauma_overview.qmd
+        - disease/trauma/blast.qmd
+        - disease/trauma/ballistic.qmd
         - part: "Burns"
           chapters:
             - disease/trauma/inhalational.qmd
@@ -876,11 +878,14 @@ book:
         # Toxins
       - part: "Toxin and Environmental"
         chapters:
+        - part: "Venoms"
+          chapters:
+            - disease/tox/snake.qmd
         - part: "Poisons"
           chapters:
             - disease/tox/co.qmd
             - disease/tox/cyanide.qmd
-        - part: "Drug Toxicity"
+        - part: "Drug Toxidromes"
           chapters:
             - disease/tox/paracetamol.qmd
             - disease/tox/serotonin_syndrome.qmd
@@ -890,13 +895,13 @@ book:
             - disease/tox/chemo_toxicity.qmd
         - part: "Environmental"
           chapters:
+            - disease/tox/cbrn.qmd
             - disease/tox/drowning.qmd
+            - disease/tox/electrocution.qmd
             - disease/tox/heat.qmd
             # Barotrauma
             # Decompression injury
-            # Hyperthermia
             # Hypothermia
-            # Drowning
         # Obstetrics
       - part: "Obstetric"
         chapters:

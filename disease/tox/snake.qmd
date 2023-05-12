@@ -1,0 +1,218 @@
+# Snakebite
+
+
+## Epidemiology and Risk Factors
+
+
+## Pathophysiology
+
+Venoms are complex protein mixtures that act as toxins via one or more of these effects:
+
+* **Neurotoxins**\
+Pre- and post-synaptic neuromuscular blockade
+	* Post-synaptic blockade reversible with antivenom
+	* Pre-synaptic blockade may not be reversible
+* **Prothrombin** activators
+	* Leads to:
+		* Consumptive coagulopathy
+		* MAHA
+		* Cardiovascular collapse\
+		Likely due to idiosyncratic pulmonary hypertension or PE.
+	* Requires antivenom
+* **Anticoagulants**\
+Prevents clotting without consumption.
+* **Rhabdomyolysins**
+	* Direct muscle damage
+	* AKI
+
+### Aetiology
+
+| Snake                  | Neurotoxin | Prothrombin Activation | Anticoagulant | Rhabdomyolysin |
+|------------------------|------------|------------------------|---------------|----------------|
+| **Brown** snake        | Yes        | Yes                    |               | Maybe          |
+| **Tiger** snake        | Yes        | Yes                    |               | Maybe          |
+| Taipan                 | Yes        | Yes                    |               | Maybe          |
+| Black                  |            |                        | Yes           |                |
+| Death Adder            |            | Yes                    |               |                |
+| Rough-scaled snake     |            | Yes                    |               |                |
+| Stephen's Banded snake |            | Yes                    |               |                |
+| Sea snake              | Maybe      |                        |               | Yes            |
+
+: Pathophysiology by Snake Species
+
+## Clinical Manifestations
+
++-------------------------+--------------------------------------+---------------------------------+-------------------+
+| Time Since Envenomation | <1 hour                              | 1-3 hours                       | \>3 hours         |
++=========================+======================================+=================================+===================+
+| General                 | * Headache                           | * ↑ HR                          | * Shock           |
+|                         | * Nausea                             | * ↓ BP                          |                   |
+|                         | * Vomiting                           |                                 |                   |
+|                         | * Confusion                          |                                 |                   |
+|                         | * Regional lymphadenitis             |                                 |                   |
++-------------------------+--------------------------------------+---------------------------------+-------------------+
+| Neurotoxin              |                                      | * Cranial nerve paresis         | * Truncal paresis |
+|                         |                                      | * ↓ Vt                          | * Limb paresis    |
++-------------------------+--------------------------------------+---------------------------------+-------------------+
+| Prothrombin Activation  | * Coagulopathy on laboratory testing | * Mucosal haemorrhage           | * DIC             |
+|                         |                                      | * Venepuncture site haemorrhage |                   |
++-------------------------+--------------------------------------+---------------------------------+-------------------+
+| Anticoagulant           | * Coagulopathy on laboratory testing |                                 |                   |
+|                         |                                      |                                 |                   |
++-------------------------+--------------------------------------+---------------------------------+-------------------+
+| Rhabdomyolysin          |                                      |                                 | * Rhabdomyolysis  |
+|                         |                                      |                                 | * AKI             |
++-------------------------+--------------------------------------+---------------------------------+-------------------+
+
+: Clinical Manifestations by Time Course
+
+:::column-margin
+Disease may occur progress much more rapidly in children.
+:::
+
+
+## Diagnostic Approach and DDx
+
+Identification of the snake is helpful but not essential:
+
+* Venom detection kid should be used to guide antivenom selection
+* Antivenom should be used to cover snakes in that geographical region
+
+## Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+* Venom detection kit\
+Performed on blood, urine, or other tissue.
+	* Highly sensitive
+	* ~25 minutes to run
+	* **Very high venom** concentration may **cause** a **false negative**\
+	Dilute sample and run again if that possiblity exists.
+
+**Imaging**:
+
+**Other**:
+
+## Management
+
+:::priority
+* **Pressure-immobilisation bandage**
+* **Antivenom**
+* Resuscitation as required
+:::
+
+**Resuscitation**:
+
+:::column-margin
+The **pressure-immobilisation bandage** is designed to ↓ lymphatic and capillary absorption. It is **not** an arterial **torniquet**.
+:::
+
+* **Pressure-immobilisation bandage**
+	* Crepe bandage applied from digits up the limb as far as possible, including the bite site
+	* Further immobilisation applied to restrict joints on either side
+	* ↓ Absorption by lymphatics by:
+		* ↑ Hydrostatic pressure
+		* ↓ Skeletal muscle pump
+	* Should only be removed once antivenom administered
+	* Should not be removed for sampling\
+	Cut a window over the bite site to sample.
+	* Should be reapplied if the patient deteriorates
+* A
+	* Intubation if required
+* B
+	* Supplemental oxygen or mechanical ventilation as required
+* C
+	* Fluid resuscitation as required
+
+**Specific therapy**:
+
+:::column-margin
+In general, the dose is two vials. Dosing is reasonably crude and based mostly on trials in small, cute animals.
+:::
+
+* Pharmacological
+	* **Antivenom**\
+		* 2-3x dose should be given if critically unwell
+		* Can be withheld if clinical situation is mild
+		* High risk of immediate hypersensitivity (25%) including **anaphylaxis (10%!)**
+		* **Premedication** with **subcutaneous adrenaline** is recommended:
+			* 0.01mg/kg in children
+			* 0.25mg in adults
+		* Administer over 15-30 minutes if situation permits
+	* Antibiotics\
+	Consider for contaminated wounds.
+* Procedural
+* Physical
+
+**Supportive care**:
+
+:::column-margin
+Antivenom will reverse anticoagulant effects, but not replace lost clotting factors.
+:::
+
+* D
+	* Analgesia\
+	Particularly if rhabdomyolysis.
+* F
+	* AKI prevention
+		* Aim 1-2mL/kg/hr of urine output
+	* Electrolyte derangement\
+	Rhabdomyolysis.
+* H
+	* Coagulopathy treatment
+
+**Disposition**:
+
+* Observe for at least 12 hours
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+* Heparin\
+Not recommended in procoagulant coagulopathy (or for anything else).
+
+## Anaesthetic Considerations
+
+## Complications
+
+* Death
+* D
+	* Persistent neurological sequelae:
+		* Diplopia
+		* Anosmia
+	* PTSD
+* F
+	* CKD
+
+## Prognosis
+
+Death is:
+
+* Due to:
+	* Respiratory paralysis
+	* Cardiac arrest
+	* AKI
+	* Haemorrhage
+* Relatively rare:
+	* Untreated ~2%
+	* Treated ~0.1%
+
+Poor prognostic signs:
+
+* Massive envenomation
+* Remove location
+* Out of hospital collapse
+* Inadequate antivenom therapy
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

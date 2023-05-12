@@ -1,4 +1,4 @@
-# Cyanide Toxicity
+# Cyanide Toxicity {#sec-cyanide}
 
 
 ## Epidemiology and Risk Factors
@@ -27,11 +27,18 @@ Cyanide binds to the ferric ion of cytochrome oxidase, leading to histotoxic hyp
 
 **Resuscitation**:
 
+* B
+	* Supplemental oxygen
+
 
 **Specific therapy**:
 
 * Pharmacological
-	* Hydroxocobalamin
+	* Hydroxocobalamin 5g IV over 15 minutes\
+	Scavenges cyanide, which is then renally cleared.
+	* Dicobalt edetate 300mg IV over 1 minute followed by 50mL of 50% dextrose
+		* Reserved for confirmed severe toxicity as it may cause seizures, airway oedema, and hypotension
+	* Sodium nitrate or amyl nitrate with sodium thiosulphate
 * Procedural
 * Physical
 

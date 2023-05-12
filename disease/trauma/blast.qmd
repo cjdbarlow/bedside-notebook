@@ -1,0 +1,154 @@
+# Blast Trauma
+
+A rapid release of chemical energy can produce an explosion, that causes harm via three mechanisms:
+
+* **Primary injury**\
+Pressure wave causing **barotrauma** due to over-, then under-pressurisation.
+	* Affects air filled organs
+	* Risk with:
+		* Military trauma\
+		Civilian primary blast trauma is rare, and associated with:
+			* Combustion of air-dust mixtures\
+			Coal, grain stores.
+			* BLEVE\
+			Gases stored as liquids under pressure explode when heating to a temperature above their boiling point.
+		* Underwater
+		* Enclosed spaces
+* **Secondary injury**\
+Projectiles created by explosion.
+	* Often penetrating injury
+* **Tertiary injury**\
+Movement of air.
+	* Often blunt trauma
+	* Patient being thrown into objects
+	* Building collapse
+* **Quaternary injury**\
+Everything else:
+	* Burns
+	* Toxic gases
+		* CO
+		* CN
+	* Oxygen depletion
+	* Dust
+
+:::column-margin
+![](/resources/blast_pressure.png)
+:::
+
+:::column-margin
+Explosions produce three key effects:
+
+* **Supersonic pressure wave**\
+Rapid ↑ followed by ↓ of atmospheric pressure without mass particle movement.
+	* ↑ In enclosed spaces due to reflection
+* **Heat**\
+Blast wind created by gases produced during the explosion.
+* Gas
+:::
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Manifestations
+
+Primary blast injury:
+
+* Air filled organs
+	* **Lung**
+		* Pneumothorax
+		* Lung contusion
+		* Alveolar haemorrhage		
+		* Blast lung\
+		Alveolar consolidation with fluid and cellular debris.
+			* May lead to alveolar-pulmonary venous fistuale and air embolism
+	* Tympanic membrane rupture
+	* Hollow visceral rupture
+* Globe rupture
+* Mild TBI
+
+
+Secondary blast injury:
+
+* Penetrating injury
+* Soft-tissue trauma
+* Traumatic amputation
+
+
+Tertiary blast injury:
+
+* Blunt and penetrating injury
+* TBI
+* Crush injury
+* Entrapment
+
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+**Imaging**:
+
+**Other**:
+
+## Management
+
+**Resuscitation**:
+
+* A
+	* Intubation
+* B
+	* Lung protective ventilation
+		* Minimise Pip\
+		Risk of systemic air embolism.
+
+**Specific therapy**:
+
+* Pharmacological
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+* B
+	* ARDS
+* C
+	* Air embolism
+* D
+	* Permanent hearing loss
+	* Tinnitus
+	* Abnormal vestibular function
+
+## Prognosis
+
+Death:
+
+* 70% occur within 5 minutes of injury due to catastrophic:
+	* Haemorrhage
+	* Brain injury
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

@@ -1,0 +1,214 @@
+# Electrical Injury
+
+Electrocution causes a variety of injury patterns depending on the:
+
+* **Current size**\
+Determined by:
+	* Current **source**
+		* **AC**\
+		Maximal risk at ~50-60Hz.
+			* Low-voltage\
+			Typically at homes or offices.
+				* May cause loss of consciousness
+			* High-voltage\
+			Typically industrial.
+				* Extensive thermal burns
+				* Violent muscle contraction may cause further injury
+		* **DC**\
+			* Violent muscle contraction may cause further injury
+			* Much less likely to cause VF than AC current
+		* **Conducted electrical weapons**
+		Typically tasers, and similar devices. 
+			* Injuries due to consequences of the shock\
+			e.g. Falls.
+		* **Lightning strike**\
+		Very high voltage, *short duration* static electrical discharge.
+	* Tissue **resistance**\
+	Significant determinant of injury.
+		* **Wet skin** has **1000 times less resistance** than dry skin
+		* Medical devices that breach skin (e.g. IV lines) significantly ↑ susceptibility\
+		Classified into two types based on **ability to induce VF**:
+			* Microshock\
+			Induce VF when applied directly to myocardium; typically ~1ma.
+			* Macroshock\
+			Induce VF on surface contact; typically ~100mA.
+* **Current duration**\
+Function of current source.
+
+
+:::column-margin
+![](/resources/letgocurrent.png)
+:::
+
+:::column-margin
+Causes of microshock include:
+
+* Pacing wires
+* Pulmonary artery catheters
+* Central lines
+* Arterial lines
+* IV lines
+* Static shock from staff
+:::
+
+## Epidemiology and Risk Factors
+
+Risks:
+
+* Majority occur in:
+	* Workplace\
+	60%.
+	* Home\
+	50%.
+		* Children <6 at highest risk
+* Powerlines
+* Electrified railway tracks
+
+## Pathophysiology
+
+
+### Aetiology
+
++-------------+------------------------+----------------------+
+| Current (A) | Source                 | Effects              |
++=============+========================+======================+
+| 10-100μA    | Earth leakage current  | Microshock (VF)      |
++-------------+------------------------+----------------------+
+| 300-400μA   | Equipment fault        | Tingling             |
++-------------+------------------------+----------------------+
+| \>1mA       | Equipment fault        | Pain                 |
++-------------+------------------------+----------------------+
+| \>**10mA**  | Equipment fault        | **Tetany**          |
++-------------+------------------------+----------------------+
+| \>100mA     | Equipment fault        | Macroshock (VF)      |
++-------------+------------------------+----------------------+
+| \>**1A**    | Equipment fault        | **Burns**            |
++-------------+------------------------+----------------------+
+| \>5A        | Equipment fault        | Sustained asystole   |
++-------------+------------------------+----------------------+
+| \>1000A     | High-tension powerline | Severe burns         |
+|             |                        | Amputation           |
++-------------+------------------------+----------------------+
+| \>12,000A   | Lightning              | Coma                 |
+|             |                        | Burns                |
+|             |                        | Amputation           |
++-------------+------------------------+----------------------+
+
+: Effects of Electrocution by Source
+
+:::column-margin
+**Leakage currents** are low-amperage currents that flow to earth due to imperfect insulation or coupling between electrical and magnetic fields around an AC source.\
+\
+They are generally harmless, but have capacity to cause microshock.
+:::
+
+## Clinical Manifestations
+
+Injuries can occur due to:
+
+* Depolarisation of **muscle** cells\
+	* **Cardiac**
+		* VF
+		* Asystole
+	* **Skeletal** muscle
+		* Violent movement
+		* Tetanic contraction
+			* Prevents letting go
+			* May prevent respiration due to tetanic diaphragmatic or intercostal contraction
+* Vascular injury
+	* Thrombosis\
+	↑ Risk of small vessel injury.
+* **Neurological injury**\
+Due to:
+	* Cardiorespiratory arrest
+	* Direct injury\
+	Current passing through brain.
+	* Secondary trauma
+* **Burns**\
+May be extensive and include:
+	* External electrical burns from arcs
+	* Internal burns due to tissue heating
+	* Thermal burns from heated jewelery or flammable clothes
+	* Flash burns
+
+:::column-margin
+Defibrillators rely on asystole occurring at sustained currents >5A.
+:::
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+:::info
+Investigations are tailed towards detecting consequences of injury.
+:::
+
+**Bedside**:
+
+* ECG
+	* Myocardial injury
+
+**Laboratory**:
+
+* Blood
+	* FBE
+	* UEC
+		* AKI
+	* Coag
+	* CK
+	* Troponin
+
+**Imaging**:
+
+**Other**:
+
+## Management
+
+:::priority
+* **Safety** of rescuers
+* **CPR** even if initial prognosis poor
+* Protect **spine**
+:::
+
+**Resuscitation**:
+
+**Specific therapy**:
+
+* Pharmacological
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+* C
+	* Myocardial injury
+	* Global LV dysfunction
+	* Myocardial infarction
+* D
+	* Cataracts
+* F
+	* Rhabdomyolysis
+	* AKI
+		* Myoglobinuria
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

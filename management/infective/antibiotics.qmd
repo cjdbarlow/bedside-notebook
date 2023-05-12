@@ -51,7 +51,7 @@ Efficacy dependent on the time that antibiotic concentration exceeds MIC, but no
 	* Lend themselves to **dosing by infusion**
 		* Benefits (at steady-state) include:
 			* ↑ Time above MIC, which should ↑ efficacy and ↓ 
-			* ↓ Peak concentration, which should ↓ toxicity
+			* ↓ Peak concentration, which generally ↓ toxicity
 			* ↓ Nursing workload
 		* Disadvantages include:
 			* ↓ Concentration gradient driving diffusion into tissues
@@ -142,8 +142,10 @@ Antibiotic treatment failure may occur due to:
 |                     | * Significant post-antibiotic effect\                                              | * 40-59mL/min:> 36 hourly                                      |
 |                     | Duration related to height of peak concentration.                                  | * 20-39mL/min: 48 hourly                                       |
 |                     | * Single-daily dosing more effective than multiple daily dosing                    |                                                                |
-|                     | * **Poor distribution into tissues**\                                              |                                                                |
+|                     | * **Poor distribution into tissues**\                                              | Consider trough levels:                                        |
 |                     | Less effective in solid organ infections, ↑↑ V~D~ with extravascular fluid shifts. |                                                                |
+|                     |                                                                                    | * Gentamicin <1mg/L                                            |
+|                     |                                                                                    | * Amikacin <5mg/L                                              |
 +---------------------+------------------------------------------------------------------------------------+----------------------------------------------------------------+
 | **Quinolones**      | * Bactericidal                                                                     |                                                                |
 |                     | * Fast                                                                             |                                                                |
@@ -152,8 +154,8 @@ Antibiotic treatment failure may occur due to:
 |                     | * Some post-antibiotic effect                                                      |                                                                |
 |                     | * Very **high tissue penetration**                                                 |                                                                |
 +---------------------+------------------------------------------------------------------------------------+----------------------------------------------------------------+
-| **Glycopeptides**   | * Mostly bactericidal, bacteriostatic against enterococci                          |                                                                |
-|                     | * Post-antibiotic effect, even if sub MIC                                          |                                                                |
+| **Glycopeptides**   | * Mostly bactericidal, bacteriostatic against enterococci                          | * Vancomycin  20-25mg/L\                                       |
+|                     | * Post-antibiotic effect, even if sub MIC                                          | Continuous infusion.                                           |
 |                     | * **Poor distribution into tissues**\                                              |                                                                |
 |                     | Less effective in solid organ infections, ↑↑ V~D~ with extravascular fluid shifts. |                                                                |
 +---------------------+------------------------------------------------------------------------------------+----------------------------------------------------------------+

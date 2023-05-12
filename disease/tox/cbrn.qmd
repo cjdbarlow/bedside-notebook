@@ -1,0 +1,170 @@
+# All-Hazards
+
+All-hazards describes a holistic approach to chemical, biological, radiological, and nuclear threats, both weaponised and non-weaponised.
+
+Agents are classified by:
+
+* Degree of harm:
+	* Damaging\
+	e.g. Mustard gas, low-dose radiation.
+	* Incapacitating\
+	* Lethal\
+	e.g. Cyanide, nerve agents, inhaled anthrax, high-dose radiation.
+* Physical properties
+	* Persistent\
+	Require decontamination to be removed.
+	* Non-persistent\
+	Exposure can be limited by ambient conditions or removal from the area.
+* Route of exposure
+	* Inhalation
+	* Ingestion
+	* Inoculation
+	* Transcutaneous
+
+
+## Agents
+
+Hazards include:
+
+* Chemical
+* Biological
+* Nuclear
+* Radiological
+
+
+### Chemical
+
+:::info
+* Military operations
+* Incapacitating or lethal
+* Inexpensive
+* High casualties
+:::
+
+Nerve agents:
+
+* Rapidly organophosphate compounds that irreversibly inactivate anticholinesterase, causing an anticholinergic toxidrome
+* Include:
+	* Sarin
+
+Cyanides:
+
+:::column-margin
+Cyanide is covered under @sec-cyanide.
+:::
+
+* Inhibit cytochrome oxidase, impairing erobic respiration and leading to refractory lactic acidosis
+
+
+Vesicants:
+
+* Alkylating agents inhibit cellular glycolysis, causing necrosis
+* Include:
+	* Mustard gas\
+	Supportive treatment for:
+		* Temporary blindness
+		* Airway burns
+		* ARDS
+
+
+Pulmonary agents:
+
+* Injury via direct damage or inducing an inflammatory response
+* Include:
+	* Chlorine
+	* Phosgene
+
+
+### Biological Agents
+
+Infecting people, fauna, or flora with a disease or toxin. Classified into:
+
+* Live agent
+	* Small pox
+	* Plague
+* Toxin
+	* Anthrax
+	* Botulinum toxin
+	* Ricin
+
+
+### Radiological and Nuclear
+
+:::info
+* Intentional\
+Explosion or covert radioactive source.
+* Workplace exposure
+:::
+
+Depending on the nature of the exposure, a patient may suffer:
+
+:::column-margin
+Types of radiation:
+
+* **Alpha particles**\
+Charged helium nuclei which are stopped by ~20μm of tissue. May cause internal contamination only. Stopped by clothing and mask.
+* **Beta particles**\
+Energised electrons that can penetrate skin. May cause external or internal contamination. Stopped by plastic or sheet metal.
+* **Gamma**\
+High energy ionising radiation. Requires dense shielding.
+:::
+
+* **Irradiation**\
+Exposure to ionising radiation.
+* **External contamination**\
+Radioactive material in contact with hair, skin clothing.
+* **Internal contamination**\
+Radioactive material inhaled or ingested.
+* **Wound contamination**\
+Wounds containing radioactive blast-fragmentation.
+* **Combined**
+
+
+## Clinical Manifestations
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+**Imaging**:
+
+**Other**:
+
+## Management
+
+**Resuscitation**:
+
+ABC approach. Comment on team coordination and clinical priorities.
+**Specific therapy**:
+
+* Pharmacological
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

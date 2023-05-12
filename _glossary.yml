@@ -1,5 +1,6 @@
 ---
 ABG: Arterial Blood Gas
+AC: Alternating Current or Assist Control
 ACA: Anterior Cerebral Artery
 ACh: Acetylcholine
 AChE: Acetylcholinesterase
@@ -24,6 +25,7 @@ AUC: Area Under the Curve
 AVM: Arterovenous Malformation
 BAL: Bronchoalveolar Lavage
 BBB: Blood-Brain Barrier
+BLEVE: Boiling Liquid Expanding Vapour Explosion
 BMR: Basal Metabolic Rate
 BNP: Brain Natriuretic Peptide
 BSA: Body Surface Area
@@ -51,6 +53,7 @@ CVP: Central Venous Pressure
 DAPT: Dual Anti-Platelet Therapy
 DBD: Donation after Brain Death
 DBP: Diastolic Blood Pressure
+DC: Direct Current
 DCC: Direct Current Cardioversion
 DCD: Donation after Circulatory Death
 DCI: Delayed Cerebral Ischaemia
@@ -138,6 +141,7 @@ LVOT: Left Ventricular Outflow Tract
 LVOTO: Left Ventricular Outflow Tract Obstruction
 MAB: Monocloncal Antibody
 MAC: Minimum Alveolar Concentration
+MAHA: Microangiopathic Haemolytic Anaemia
 MALT: Mucosa-Associated Lymphoid Tissue
 MAP: Mean Arterial Pressure
 MCA: Middle Cerebral Artery
