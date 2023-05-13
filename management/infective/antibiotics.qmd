@@ -138,7 +138,7 @@ Antibiotic treatment failure may occur due to:
 +---------------------+------------------------------------------------------------------------------------+----------------------------------------------------------------+
 | **Aminoglycosides** | * Bactericidal                                                                     | Dose at 5-7mg/kg, with interval based on creatinine clearance: |
 |                     | * Fast                                                                             |                                                                |
-|                     | * Concentration-dependent                                                          | * >60mL/min: Daily                                             |
+|                     | * Concentration-dependent                                                          | * \>60mL/min: Daily                                            |
 |                     | * Significant post-antibiotic effect\                                              | * 40-59mL/min:> 36 hourly                                      |
 |                     | Duration related to height of peak concentration.                                  | * 20-39mL/min: 48 hourly                                       |
 |                     | * Single-daily dosing more effective than multiple daily dosing                    |                                                                |

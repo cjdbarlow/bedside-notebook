@@ -85,8 +85,6 @@ book:
             - assessment/critical/airway.qmd
             - assessment/critical/neuro.qmd
             - assessment/critical/neuroprognostication.qmd
-            - assessment/critical/fever.qmd
-            - assessment/critical/hypothermia.qmd
             - part: <hr>
             - assessment/critical/brain_death.qmd
             - assessment/critical/circ_death.qmd
@@ -235,7 +233,7 @@ book:
           - management/trauma/primary.qmd
           - management/trauma/secondary.qmd
           - management/trauma/damage_control.qmd
-        - part: "Infective"
+        - part: "Infection"
           chapters:
             - part: "Concepts"
               chapters:
@@ -247,6 +245,11 @@ book:
               - management/infective/principles.qmd
               - management/infective/antibiotics.qmd
               - management/infective/antifungals.qmd
+        - part: "Toxin and Environmental"
+          chapters:
+            - management/tox/poison.qmd
+            - management/tox/fever.qmd
+            - management/tox/hypothermia.qmd
         - part: "Obstetric"
           chapters:
               - management/obs/pregnancy.qmd

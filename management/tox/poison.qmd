@@ -1,0 +1,291 @@
+# Poisoning
+
+Acute poisoning is:
+
+:::column-margin
+This covers the general principles of approaching a poisoned patient. Management of specific agents is covered elsewhere.
+:::
+
+* Common\
+5-10% of admissions.
+* Usually intentional
+* Managed predominantly with supportive treatment
+
+
+## Principles
+
+Management should consider:
+
+* **R**esuscitation
+* **R**isk assessment
+* **S**upportive Care\
+Principles of supportive care for the ICU patient.
+* **I**nvestigations
+* **D**econtamination
+* **E**nhanced Elimination
+* **A**ntidotes\
+Covered under the specific drug overdose.
+* **D**isposition
+
+
+### Resuscitation
+
+* A
+	* Remove dentures
+	* Clear oropharynx
+	* Tracheal intubation in almost all cases
+* B
+	* Supplemental oxygen
+	* Respiratory acidosis generally indicates need for assisted ventilation
+* C
+	* Venous access
+	* Fluid resuscitation or vasoactives as required
+
+:::column-margin
+Intubation is reasonable to avoid in patients with a GHB or GBL overdose who will reliably resume consciousness in 2-4 hours.
+:::
+
+### Risk Assessment
+
+:::priority
+* **Ascertain nature** and **severity** of **poisoning**
+* **Requirement** for **specific therapy** or time-limited interventions
+:::
+
+History:
+
+:::column-margin
+Collateral and circumstantial history can be ascertained from:
+
+* Family
+* Medicine cabinet
+	* Counting missing tablets
+	* Checking medical records and pharmacy prescription
+:::
+
+* Drug factors
+	* Drugs taken\
+		* May be multiple or unknown (children)
+		* Always assume the maximum amount if uncertain
+	* Dose
+	* Timing taken
+* Dose
+
+:::column-margin
+Consider **NAI** in **children**.
+:::
+
+Examination:
+
+:::column-margin
+Differential diagnoses of coma should include:
+
+* ICH
+	* SAH
+	* EDH
+	* SDH
+* Meningitis
+* Encephalitis
+* Diabetic coma
+* Uraemic encephalopathy
+:::
+
+* General
+	* Needle marks
+	* Self-harm
+	* Heart rate
+	* Blood pressure
+	* Respiratory rate
+* Neurological exam
+	* GCS
+	* Qualitative evaluation of conscious state
+	* Pupil size
+	* Tone, reflexes, and clonus
+
+
+### Investigations
+
+**Bedside**:
+
+* **BSL**
+* ABG/VBG
+	* Acid-base status
+		* Metabolic acidosis
+		* Respiratory acidosis
+		* Respiratory alkalosis\
+		Classically in early salicylate overdose.
+	* Anion gap
+* **ECG**
+
+
+**Laboratory**:
+
+* Biochemistry
+	* Renal function\
+	Affects clinical course of most drug overdoses.
+* Drug levels\
+For specific poisonings.
+* Urine\
+Retain sample for later analysis.
+
+:::column-margin
+Routine toxin dipsticks are not recommended due to false-positive rate and cross-reactivity with prescription medicine.
+:::
+
+
+**Imaging**:
+
+* CXR
+	* Aspiration
+
+
+### Decontamination
+
+:::info
+Two **viable** methods:
+
+* Activated charcoal
+* Whole bowel irrigation
+:::
+
+:::column-margin
+Historically, two other methods were used but **no longer recommended**:
+
+* **Induced emesis**\
+Removes only limited volumes and ↑ aspiration risk.
+* **Gastric lavage**\
+Removes insignificant volume, may propel unabsorbed poison into small intestine.
+:::
+
+**Activated charcoal**:
+
+* Very effective absorber of toxins in GIT due to high surface area and porous structure
+* 1^st^ line for most poisonings\
+Drugs that are **not effectively removed** include:
+	* Alcohols
+	* Metals
+	* Corrosives\
+	Acids and alkalis.
+	* Pesticides
+	* Cyanide
+* Should be **given** to **all patients within 1 hour** of **ingestion** of a toxic dose
+* 1g/kg up to 50g
+	* May still be given if overdose ↓ gastric emptying or slow-release preparation\
+	e.g. Opioids, anticholinergics, TCA.
+	* **Repeat doses** may be given if drug is **enterohepatically recirculated** or a slow-release preparation
+* Should **not be given** if **↓ GCS** due to risk of **aspiration**\
+Intubate, then administer via NG.
+
+
+**Whole Bowel Irrigation**:
+
+* Gut decontamination with non-absorbable polyethylene glycol solution
+* ↓ GI absorption by creating high volume of liquid stool
+* **Indicated** for **limited number** of poisons:
+	* Iron
+	* Lithium
+	* 'Body packers'
+	* Slow-release preparations
+		* Potassium
+		* Calcium channel blockers
+		* β-blockers
+		* Theophylline
+* Requires monitoring of electrolyte concentrations
+* Administer 25mL/kg/hr up to 2L/hr via NGT
+	* Place patient on commode
+	* Continue until effluent is clear
+	* Stop irrigation if abdominal distension occurs
+
+
+### Enhanced Elimination
+
+**Urinary alkalinisation**:
+
+:::column-margin
+Urinary alkalinisation is also known as forced alkaline diuresis.
+:::
+
+* Creating an alkaline urine to trap ionised drug in the renal tubule and prevent tubular reabsorption
+* **Effective if** the **drug** is:
+	* A **weak acid**
+	* Predominantly **renally eliminated**
+	* Creating significant toxicity
+* In practice, used for:
+	* Salicylates
+	* Phenobarbital
+	* Methotrexate
+	* Chlorpropamide
+* Achieved by sodium bicarbonate IV
+	* 1-2mmol/kg IV
+	* Infuse isotonic bicarbonate at 250mL/hr\
+	Dilute 150mL of 8.4% in 850mL of D5W to produce isotonic bicarbonate.
+* Requires:
+	* Regular **monitoring** of **serum potassium**\
+	Hypokalaemia will occur as potassium is exchanged for hydrogen in the tubule, which ↓ urinary pH as well as being independently significant.
+	* Hypocalcaemia may also occur
+	* Adjust infusion to maintain urinary pH of 7.5-8.5
+
+:::column-margin
+Urinary alkalinisation relies on the following:
+
+* Drugs can only pass through lipid membranes in their unionised form\
+* Ionised drugs are water soluble and trapped by surrounding lipid membranes\
+e.g. In the renal tubule.
+* **Weak acids** will lose their hydrogen ion in a basic environment, and become their ionised conjugate base\
+$AH \leftrightarrow H^+ + A^-$
+* The Henderson-Hasselbach equation: 
+	* Describes the relationship between the:
+		* Environmental pH
+		* Drug pKA
+		* Concentration of ionised and unionised forms
+	* $pH = pKa + {\log_{10} {[A^-] \over [HA]}}$\
+	If concentrations are equal, then pH = pKa as $\log_{10} 0 = 1$
+:::
+
+**Haemodialysis**:
+
+:::column-margin
+Haemodialysis is recommended for severe overdose of:
+
+* Salicylate
+* Lithium\
+Chronic.
+* Theophylline
+* Carbamazepine
+* Metformin
+* Paracetamol
+* Toxic alcohols
+* Phenytoin\
+Some preparations.
+* Valproate
+* Potassium salts
+:::
+
+* Extracorporeal filtration is effective for drugs with:
+	* Small V~D~\
+	Essentially confined to plasma.
+	* Small molecule\
+	Able to cross semi-permeable membrane.
+	* Rapidly redistribution from tissue to plasma\
+	Not trapped in tissues.
+	* Slow endogenous clearance
+
+
+**Lipid Emulsion Therapy**:
+
+* Role in local anaesthetic toxicity
+* Unclear mechanism, may relate to either:
+	* Large lipid volume that lipid soluble drugs dissolve into
+	* Energy substrate for shocked myocardium
+* 20% lipid emulsion given:
+	* At 1.5mL/kg followed by infusion at 15mL/kg/hr
+	* If further instability:
+		* 1.5mL/kg Q5M
+		* ↑ Rate to 30mL/kg/hr
+	* Up to 12mL/kg
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
