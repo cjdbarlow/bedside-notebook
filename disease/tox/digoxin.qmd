@@ -1,0 +1,127 @@
+# Digoxin
+
+Digoxin toxicity:
+
+* May be due to either:
+	* Chronic toxicity due to progressive accumulation:
+	Most common with high mortality (15-30%).
+		* Too high a daily dose
+		* ↓ Renal function with unchanged dose
+	* Large single ingestion:
+		* Toxicity: 2mg
+		* Fatal:
+			* Adult: >10mg
+			* Children: ~4mg
+* Presents as:
+	* Cardiac arrhythmias
+		* **↓ HR** due to slowing of AV nodal conduction
+		* ↑ **Automaticity**\
+		General ↑ in rate of discharge of pacemaker cells.
+			* AF
+			* Flutter (with AV block, due to ↓ dromotropy)
+			* Ventricular ectopics
+			* VF
+			* VT
+	* **Hyperkalaemia**
+	* GI symptoms\
+	Nausea, vomiting, diarrhoea, abdominal pain.
+
+
+:::column-margin
+Adverse effects may be delayed by several hours.
+:::
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Manifestations
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+**Bedside**:
+
+* ABG/VBG
+	* Potassium level
+* ECG
+
+**Laboratory**:
+
+* Blood
+	* Serum digoxin level
+	* UEC
+		* Glucose
+
+**Imaging**:
+
+**Other**:
+
+## Management
+
+:::priority
+* Manage **arrhythmia**
+* Manage **hyperkalaemia**
+* Give **digoxin-specific antibody**
+:::
+
+**Resuscitation**:
+
+* C
+	* ↓ HR
+		* Atropine
+		* Adrenaline
+		* Pacing\
+		Rarely effective.
+	* ↑ HR
+		* Magnesium
+		* Lignocaine
+* F
+	* Hyperkalaemia
+		* Insulin-dextrose as first line
+
+**Specific therapy**:
+
+:::column-margin
+Serum digoxin levels cannot be accurately measured for ~3 weeks after digoxin antibody as the assay will measure bound digoxin.
+:::
+
+* Pharmacological
+	* **Digoxin-specific antibody fragments**\
+	Indicated for:
+		* Cardiac arrest
+		* Life-threatening arrhythmia
+		* Lethal dose ingestion
+		* Persistent hyperkalaemia or arrhythmia
+		* Serum level >12ng/mL
+	* Activated charcoal\
+	Multiple doses to interrupt enterohepatic recirculation.
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

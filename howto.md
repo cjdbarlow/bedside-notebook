@@ -42,3 +42,5 @@ quarto::quarto_preview
 * Dissolve ICU 'concepts' into a more appropriate category (or at least some of, ?organ donation separately)
 
 * ?Create integumentary section for osteomyelitis, NSTI, etc
+
+* ?Change pharmacological to prescription, to encompass fluids and blood, etc

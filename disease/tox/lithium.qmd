@@ -1,0 +1,131 @@
+# Lithium
+
+Lithium toxicity may be either:
+
+* Acute overdose
+	* 25g in adult
+	* GI symptoms
+	* Neurological symptoms if concurrent renal impairment
+* Chronic toxicity
+	* Neurological symptoms
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Manifestations
+
+Gastrointestinal:
+
+* Nausea
+* Vomiting
+* Diarrhoea
+* Abdominal pain
+
+
+Neurological:
+
+* Mild\
+Rare that acute overdose would progress further, provided adequate elimination.
+	* Tremor
+	* Hyperreflexia
+	* Agitation
+	* Weakness
+	* Ataxia
+* Moderate
+	* Stupor
+	* Rigidity
+	* Hypertonia
+	* ↓ BP
+* Severe\
+Very rare, other toxins should be considered if these features are present.
+	* Coma
+	* Seizure
+	* Myoclonus
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+**Bedside**:
+
+* ABG
+	* Low-anion gap metabolic acidosis
+* ECG
+* BSL
+
+:::column-margin
+Three drugs cause a *low*-anion gap metabolic acidosis:
+
+* Lithium
+* Bromide
+* Iodine
+:::
+
+**Laboratory**:
+
+* Blood
+	* Lithium level\
+		* On arrival for chronic toxicity, and then Q4-6 hourly
+		* 6 hours post-ingestion for acute overdose, and then Q4-6 hourly
+	* Paracetamol level
+	* Thyroid
+
+**Imaging**:
+
+**Other**:
+
+## Management
+
+**Resuscitation**:
+
+* C
+	* Fluid resuscitation
+
+**Specific therapy**:
+
+:::column-margin
+Lithium behaves similarly to sodium in the kidney, and so is reabsorbed in hypovolaemic states and has ↓ clearance in renal failure.
+:::
+
+* Pharmacological
+	* Fluid resuscitation
+* Procedural
+	* Whole bowel irrigation\
+	Can be considered.
+	* RRT
+		* Severe toxicity
+		* Acute: Serum lithium >7.5mmol/L
+		* Chronic: Serum lithium >4mmol/L
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+* Thiazide diuretics\
+May precipitate acute toxicity.
+* Phenytoin\
+Should not be used for seizure control.
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

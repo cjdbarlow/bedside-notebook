@@ -1,26 +1,87 @@
-# Paracetamol Toxicity {#sec-pmolod}
+# Paracetamol {#sec-pmolod}
+
+Paracetamol toxicity causes **acute liver injury** due to **↑ levels** of its **toxic metabolite NAPQI** due to **failure** of **conjugation** with **glutathione**. This can occur due to either:
+
+* **↑ NAPQI production**, **exhausting** normal **glutathione** levels\
+Paracetamol overdose.
+* **↓ Glutathione levels**, ↑ vulnerability to paracetamol in normal doses\
+Malnutrition.
 
 
 ## Epidemiology and Risk Factors
 
 ## Pathophysiology
 
+Paracetamol is metabolised by two pathways:
+
+* Conjugation with glucuronide sulfates\
+Normal metabolic pathway (~95% of a therapeutic dose) that produces non-toxic metabolites which are renally cleared.
+* CYP450 2E1 to NAPQI
+	* Under normal circumstances is a minor metabolic pathway
+	* Produces hepatotoxic NAPQI
+	* NAPQI is conjugated with hepatic glutathione to non-toxic metabolites which are renally cleared
+
 ### Aetiology
 
-## Clinical Manifestations
 
-## Diagnostic Approach and DDx
+## Clinical Features
 
-## Investigations
+:::caution
+Often asymptomatic in the first 24-48 hours; may then develop liver failure.
+:::
+
+Gastrointestinal:
+
+* Abdominal pain
+* Nausea
+* Vomiting
+
+Severe toxicity:
+
+* Coma
+* Lactic metabolic acidosis
+
+## Assessment
+
+**History**:
+
+* Dose
+* Formulation ingested
+* Timing
+	* Single ingestion
+	* Staggered ingestion
+	* Repeated ingestion
+
+**Exam**:
+
+### Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+**Imaging**:
+
+**Other**:
+
+### Diagnostic Approach and DDx
+
+
 
 ## Management
+
+:::priority
+* **Activated charcoal**
+* **NAC**
+* **Liver transplant** if fulminant hepatic failure
+:::
 
 **Resuscitation**:\
 
 **Specific therapy**:
 
 :::column-margin
-![Prescott Nomogram](/resources/prescott.png)
+![](/resources/prescott.png)
 
 : Risk Factors for Toxicity
 
@@ -33,7 +94,7 @@
 | - Bulimia             | - Carbamazepine           |
 | - Malnourishment      | - Phenobarbital           |
 |                       |                           |
-| Disease:              | **Other**:                    |
+| Disease:              | **Other**:                |
 |                       |                           |
 | - HIV                 | - Rifampicin              |
 | - Cystic Fibrosis     | - Chronic ETOH            |
@@ -41,8 +102,12 @@
 :::
 
 * Pharmacological
+	* **Activated charcoal**\
+	Appropriate if:
+		* Immediate release within 2 hours
+		* Modified release within 4 hours
 	* **N-acetylcysteine** (NAC)\
-	Stimulates glutathione stimulus, allowing further glutathione to be conjugated.
+	Stimulates glutathione stimulus, allowing NAPQI to be conjugated.
 		* Prescott nomogram indicates when NAC therapy should be given\
 		>200mg/kg or 10g in a one-off ingestion should receive NAC independent of level.
 		* Early administration results in significant reduction in mortality (to <1%), though even late administration may improve outcome.
@@ -51,6 +116,7 @@
 		* 100mg/kg over 16 hours
 		* Further doses may be indicated (usually 150mg/kg over 24 hours)
 * Procedural
+	* Liver transplant
 * Physical
 
 
@@ -71,9 +137,13 @@ If in doubt, give NAC.
 
 ## Prognosis
 
+Severe hepatic injujry has ~10% mortality.
+
 ## Key Studies
 
 
 ---
 
 ## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

@@ -11,6 +11,19 @@ Cyanide binds to the ferric ion of cytochrome oxidase, leading to histotoxic hyp
 
 ## Clinical Manifestations
 
+Moderate:
+
+* Brief loss of consciousness
+* Seizures
+* Vomiting
+
+Severe:
+
+* Coma
+* Respiratory depression
+* ↓ BP
+* Metabolic acidosis
+
 ## Diagnostic Approach and DDx
 
 ## Investigations
@@ -38,7 +51,7 @@ Cyanide binds to the ferric ion of cytochrome oxidase, leading to histotoxic hyp
 	Scavenges cyanide, which is then renally cleared.
 	* Dicobalt edetate 300mg IV over 1 minute followed by 50mL of 50% dextrose
 		* Reserved for confirmed severe toxicity as it may cause seizures, airway oedema, and hypotension
-	* Sodium nitrate or amyl nitrate with sodium thiosulphate
+	* Sodium nitrate or amyl nitrate with sodium thiosulphate 12.5g over 10 minutes
 * Procedural
 * Physical
 
@@ -63,3 +76,5 @@ Cyanide binds to the ferric ion of cytochrome oxidase, leading to histotoxic hyp
 ---
 
 ## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

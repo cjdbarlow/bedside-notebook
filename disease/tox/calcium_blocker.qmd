@@ -1,0 +1,91 @@
+# Calcium-channel Blocker
+
+Subclass selectivity is not typically seen in overdose, and cardiac effects predominate:
+
+* ↓ HR
+* ↓ BP
+	* ↓ Inotropy
+	* ↓ SVR
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+* Direct ↓ inotropy
+* Direct ↓ SVR
+* ↓ Insulin release from β-islet cells
+* ↑ Insulin resistance
+
+### Aetiology
+
+## Clinical Manifestations
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+**Imaging**:
+
+**Other**:
+
+## Management
+
+**Resuscitation**:
+
+:::column-margin
+{{< include /includes/calcium_equiv.qmd >}}
+:::
+
+* C
+	* Hypotension	
+		* Fluid resuscitation
+		* Calcium
+			* 10mL 10% Calcium chloride
+			* 30mL 10% Calcium gluconate
+			* Infusion can be considered but requires close monitoring
+		* Insulin
+	* Bradycardia
+		* Atropine
+		* Cardiac pacing
+
+:::column-margin
+{{< include /includes/hiet.qmd >}}
+:::
+
+**Specific therapy**:
+
+* Pharmacological
+	* Activated charcoal
+		* Within 1-hour of immediate release ingestion
+		* Any time after sustained release ingestion
+			* Consider multiple (Q4H) dosing
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

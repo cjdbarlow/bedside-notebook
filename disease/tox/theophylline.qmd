@@ -1,0 +1,116 @@
+# Theophylline
+
+Theophylline is a phosphodiesterase inhibitor with a narrow therapeutic range that can cause life-threatening toxicity by two major mechanisms:
+
+* Adenosine receptor blockade\
+Therapeutic bronchodilation, but also:
+	* Tachycardia
+	* Tachyarrhythmias
+	* SEizures
+	* Cerebral vasoconstriction
+* Phosphodiesterase inhibition\
+↑ Adrenergic activation and circulating catecholamines, with ↑ up to:
+	* 4-8 times normal for adrenaline
+	* 4-10 times normal for noradrenaline
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Features
+
+## Assessment
+
+**History**:
+
+**Exam**:
+
+### Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+* Blood
+	* Theophylline level
+		* Confirms ingestion
+		* <10mg/ml: Gastrointestinal symptoms
+		* 10-30mg: Tachycardia and arrhythmias
+		* 30-60mg/L: Seizures, malignant arrhythmias
+
+**Imaging**:
+
+**Other**:
+
+### Diagnostic Approach and DDx
+
+
+## Management
+
+:::priority
+* **Activated charcoal**
+* Treat **arrhythmias** and **seizures**
+* **RRT**
+* Correct electrolytes
+:::
+
+**Resuscitation**:
+
+* C
+	* Arrhythmias
+		* β-blockers ideal in the non-asthmatic patient
+		* Diltiazem or verapamil otherwise
+* D
+	* Seizures
+		* Benzodiazepines
+
+:::column-margin
+Avoid phenytoin as it may worsen seizures.
+:::
+
+**Specific therapy**:
+
+:::column-margin
+Theophylline undergoes significant enterohepatic recirculation and so activated charcoal is effective.
+:::
+
+* Pharmacological
+	* Activated charcoal
+		* Multiple doses for slow-release preparations or toxicity
+* Procedural
+	* RRT
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+* F
+	* Electrolyte abnormalities
+		* Hypokalaemia
+		* Hypomagnesaemia
+		* Hypercalcaemia
+		* Hyperglycaemia
+	* Rhabdomyolysis
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

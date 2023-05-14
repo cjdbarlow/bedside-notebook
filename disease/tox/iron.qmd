@@ -1,0 +1,148 @@
+# Iron
+
+Iron toxicity and classically occurs over **four phases**:
+
+* **Phase 1**: 0-6 hours\
+Mucosal corrosion with consequent GI symptoms.
+* **Phase 2**: 6-12 hours\
+Asymptomatic phase as iron shifts intracellularly.
+* **Phase 3**: 12-48 hours\
+Systemic iron toxicity.
+	* Distributive shock
+	* HAGMA
+	* Renal failure
+	* Hepatic failure\
+	Risk extends out to 5 days.
+* **Phase 4**: 2-6 weeks\
+Chronic GI strictures.
+
+
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Manifestations
+
+Phase 1:
+
+* Nasuea
+* Vomiting
+* Haematemesis
+* Diarrhoea
+* Melaena
+
+Phase 3:
+
+## Diagnostic Approach and DDx
+
+Risk assessment is based on the amount of **elemental iron** ingested:
+
+* Function of the:
+	* *Elemental* iron content of the tablet\
+		* Varies depending if the tablet contains ferrous or ferric iron, and anion it is bound to
+		* Check the label
+	* Number of tablets
+		* History
+		* Abdominal XR
+* In general:
+	* Asymptomatic: <20mg/kg
+	* GI symptoms: 20-60mg/kg
+	* Systemic: 60-120mg/kg
+	* Lethal: >120mg/kg
+
+:::column-margin
+The dose is divided by a constant to get the proportion of elemental iron in the tablet:
+
+* Ferrous Sulfate (Dried): Dose/3.3
+* Ferrous Sulfate (Heptahydrate): Dose/5
+* Ferrous Gluconate: Dose/9
+* Ferous Fumarate: Dose/3
+* Ferric Chloride: Dose/3.5
+* Ferrous Chloride: Dose/4
+:::
+
+## Investigations
+
+**Bedside**:
+
+* ABG
+	* HAGMA
+
+**Laboratory**:
+
+* Blood
+	* Serum iron\
+	Levels do not correlate with toxicity, but >90μmol/L is predictive of systemic toxicity.
+		* Peak 4-6 hours following ingestion
+			* ↓ Afterwards as iron moves intracellularly
+	* Coag
+	* UEC
+	* LFT
+
+**Imaging**:
+
+* AXR
+	* Confirm ingestion
+
+**Other**:
+
+## Management
+
+**Resuscitation**:
+
+* C
+	* Fluid resuscitation
+		* GI losses
+		* Distributive shock
+
+**Specific therapy**:
+
+:::column-margin
+Maximal licensed dose of desferioxamine is 80mg/kg/day, though severe toxicity will generally require more than this.
+:::
+
+* Pharmacological
+	* **Desferioxamine**
+		* Chelates free iron ions in plasma, the water soluble complex is renally cleared
+		* If shock, HAGMA, altered mental state, or ↑ serum level
+		* 15mg/kg/hr up to 40mg/kg/hr for severe toxicity
+		* Requires cardiac monitoring due to risk of hypotension
+		* Ceased when clinical stabile and serum ion <60μmol/L
+* Procedural
+* Physical
+	* **Whole bowel irrigation**\
+	For all confirmed ingestions.
+	* **Endoscopic removal**\
+	If WBI not feasible or potentially lethal ingestion.
+
+**Supportive care**:
+
+**Disposition**:
+
+* If asymptomatic at 6 hours with a negative XR may be discharged
+* Symptomatic patients should be admitted
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+* Activated charcoal
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

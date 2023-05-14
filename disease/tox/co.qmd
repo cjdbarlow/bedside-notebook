@@ -27,6 +27,10 @@ Carbon monoxide:
 
 Symptoms vary with the proportion of COHb:
 
+:::column-margin
+Smokers may have a COHb level up to 10%.
+:::
+
 * Mild (10-25%)
 	* Weakness
 	* Dizziness
@@ -37,11 +41,18 @@ Symptoms vary with the proportion of COHb:
 * Severe (>40%)
 	* Coma → Seizure
 
+:::column-margin
+Cyanosis is much more common than "cherry-pink" skin.
+:::
+
 ## Diagnostic Approach and DDx
 
 ## Investigations
 
 **Bedside**:
+
+* ECG
+	* ST segment changes
 
 **Laboratory**:
 
@@ -63,6 +74,8 @@ Symptoms vary with the proportion of COHb:
 * Pharmacological
 * Procedural
 * Physical
+	* Hyperbaric oxygen\
+	Often used though no strong evidence of benefit.
 
 **Supportive care**:
 
@@ -85,3 +98,5 @@ Symptoms vary with the proportion of COHb:
 ---
 
 ## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

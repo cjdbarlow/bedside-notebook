@@ -1,0 +1,198 @@
+# Toxic Alcohols
+
+Toxic alcohols are relatively benign in themselves but produce highly **toxic metabolites** that cause **neurotoxicity** as well as other organ-specific toxicities. Toxic alcohols include:
+
+* **Methanol**\
+	* Found in de-icers, windshield wiper fluid, antifreeze, paint strippers, embalming fluid
+	* Metabolised to formaldehyde and then to **formic acid**\
+	HAGMA and ocular toxicity in addition to neurotoxicity.
+* **Ethylene glycol**
+	* Found in antifreeze, degreasers, and metal cleaners
+	* Metabolised in a series of steps to **oxalic acid**\
+	HAGMA, cardiopulmonary toxicity, and nephrotoxicity in addition to neurotoxicity.
+* **Isopropanol**
+	* Found in rubbing alcohol, hand sanitiser, and other antiseptics
+	* Metabolised to **acetone** and so does *not* produce a HAGMA
+	Gastrointestinal toxicity, and ketosis without acidosis in addition to neurotoxicity.
+	
+
+:::column-margin
+Methanol is metabolised into formic acid, ethylene glycol is metabolised into glycolic acid.
+:::
+
+# Disease
+
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Manifestations
+
+Methanol:
+
+* Ocular
+	* Blurry vision
+	* ↓ Acuity
+	* Photophobia
+	* "Snowstorm" vision
+	* Permanent blindness
+* Neurological
+	* Parkinsonism
+	* Transverse myelitis
+	* Basal ganglia haemorrhages
+* HAGMA
+	* Formic acid
+	* Lactic acid
+
+
+Ethylene Glycol:
+
+* Cardiopulmonary
+	* ↑ HR
+	* ARDS
+	* Heart failure
+	* ↓ Calcium\
+	Chelated by oxalic acid.
+* Renal toxicity
+	* Precipitation of calcium oxalate crystals in renal tubule
+* Neurological
+	* Coma
+	* Seizures
+	* Meningism
+	* Cranial nerve deficit\
+	Often delayed by 5-20 days.
+* HAGMA
+	* Glycolic acid
+	* Oxalic acid
+	* Lactic acid
+
+
+Isopropanol:
+
+* Gastrointestinal
+	* Haemorrhagic gastritis
+* Neurological
+	* Intoxication
+	* Cerebellar signs
+	* Coma
+
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+**Bedside**:
+
+* ABG
+	* HAGMA
+	* AG
+
+**Laboratory**:
+
+:::column-margin
+Osmolar gap and anion gap change over time. Initially, the OG is ↑ due to the toxic alcohols, then as the alcohol is metabolised to acids the OG ↓ and the AG ↑.
+:::
+
+* Blood
+	* UEC
+		* Osmolar gap
+	* Serum alcohol concentrations\
+	Toxic levels usually only available after commencing treatment.
+
+**Imaging**:
+
+* CTB
+	* Methanol toxicity
+		* Putamen necrosis
+		* Basal ganglia haemorrhages
+		* Optic chiasmal atrophy
+		* Caudate nuclear necrosis
+
+**Other**:
+
+## Management
+
+:::priority
+* Treat **acidosis**
+* Early **RRT**
+* For methanol and ethylene glycol:
+	* Give **antidote**
+	* Give **cofactors**
+:::
+
+**Resuscitation**:
+
+**Specific therapy**:
+
+:::column-margin
+Fomepizole is not available in Australia.
+:::
+
+* Pharmacological
+	* **Antidote**\
+	Inhibit conversion to toxic acids in methanol and ethylene glycol poisoning.
+		* Agents:
+			* Fomepizole 15mg/kg load, then 10mg/kg Q12H
+			* Ethanol
+		* Indicated for:
+			* Osmolar gap >10mOsm
+			* pH <7.3
+			* Urinary oxalate crystals
+	* **Sodium bicarbonate**
+		* For metabolic acidosis
+	* **Metabolic cofactors**\
+	↑ Clearance of toxic metabolites to non-toxic metabolites.
+		* Ethylene glycol toxicity
+			* Pyridoxine 100mg IV Q6H and thiamine 100mg IV Q6H
+		* Methanol toxicity
+			* Folic acid 50mg IV Q4-6H
+			* Folinic acid 1-2mg/kg IV Q4-6H
+* Procedural
+	* **RRT**
+		* pH <7.25
+		* Visual abnormalities
+		* Renal failure
+		* Refractory electrolyte derangements
+		* Refractory haemodynamic instability
+* Physical
+
+**Supportive care**:
+
+* G
+	* PPI
+
+**Disposition**:
+
+* ICU if:
+	* Acidaemia
+	* End-organ dysfunction
+* Toxicologically cleared if:
+	* Toxic alcohol concentration <20mg/dL
+	* No organ dysfunction
+	* Haemodynamic stability
+	* Normal pH
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+* Activated charcoal
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

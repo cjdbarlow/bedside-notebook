@@ -1,0 +1,83 @@
+# Benzodiazepine
+
+Benzodiazepine overdose is common and typically only severe when complicated by:
+
+* Co-ingestion of CNS depressant
+* Pulmonary or cardiac disease
+* Extremes of age
+
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Manifestations
+
+Typically:
+
+* Drowsiness
+* Dysarthria
+* Ataxia
+* Nystagmus
+
+
+Occasionally:
+
+* Paradoxical agitation
+* Confusion
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+**Imaging**:
+
+**Other**:
+
+## Management
+
+**Resuscitation**:
+
+ABC approach. Comment on team coordination and clinical priorities.
+**Specific therapy**:
+
+* Pharmacological
+	* Flumazenil
+		* Not licensed for use in poisoning
+		* Risk of VT, status epilepticus, or benzodiazepine withdrawal
+		* Dosing:
+			* 0.1mg per 1mg of midazolam
+			* 0.2mg IV Q30s empirically
+			* Up to 3-5mg as an initial dose, with repeated doses up to 3mg/hr
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

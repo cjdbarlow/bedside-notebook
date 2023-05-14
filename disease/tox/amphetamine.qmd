@@ -1,0 +1,104 @@
+# Amphetamines
+
+:::info
+This covers amphetamines including ecstasy and MDMA.
+:::
+
+:::column-margin
+This covers specific features of amphetamine toxicity. The general approach to management of a poisoning is covered under @sec-poison_mx.
+:::
+
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Manifestations
+
+Mild:
+
+* Sweating
+* Dry mouth
+* Anxiety
+
+
+Severe:
+
+* Serotonin syndrome
+* Hypertension
+* Supraventricular dysrhythmia
+
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+* Blood
+	* UEC
+		* Hyponatraemia\
+		Water intoxication.
+
+**Imaging**:
+
+**Other**:
+
+## Management
+
+:::priority
+* Benzodiazepines are the mainstay for agitation or psychosis
+* Treat concomitant serotonin syndrome
+:::
+
+:::column-margin
+Management of serotonin syndrome is covered under @sec-serotonin.
+:::
+
+**Resuscitation**:
+
+**Specific therapy**:
+
+* Pharmacological
+	* Benzodiazepines
+	* Mixed α/β-antagonists for refractory hypertension
+* Procedural
+* Physical
+	* Cooling
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+* Isolated β-blockade\
+Theoretic risk of unopposed alpha stimulation.
+
+## Anaesthetic Considerations
+
+## Complications
+
+* D
+	* Haemorrhagic stroke
+* F
+	* Hyponatraemia
+	* Rhabdomyolysis
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

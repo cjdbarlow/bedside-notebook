@@ -1,4 +1,4 @@
-# Poisoning
+# Poisoning {#sec-poison_mx}
 
 Acute poisoning is:
 
@@ -285,7 +285,7 @@ Some preparations.
 	* Up to 12mL/kg
 
 ---
-
+ 
 ## References
 
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

@@ -94,11 +94,15 @@ Intro and technique
 
 ### Aetiology
 
-## Clinical Manifestations
+## Clinical Features
 
-## Diagnostic Approach and DDx
+## Assessment
 
-## Investigations
+**History**:
+
+**Exam**:
+
+### Investigations
 
 **Bedside**:
 
@@ -108,11 +112,17 @@ Intro and technique
 
 **Other**:
 
+### Diagnostic Approach and DDx
+
+
 ## Management
+
+:::priority
+Goals of management
+:::
 
 **Resuscitation**:
 
-ABC approach. Comment on team coordination and clinical priorities.
 **Specific therapy**:
 
 * Pharmacological

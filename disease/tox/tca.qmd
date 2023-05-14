@@ -1,0 +1,125 @@
+# Tricyclic Antidepressants
+
+Present with features of:
+
+* **Sodium channel blockade**
+	* Broad complex **arrhythmia**
+* **Anticholinergic toxicity**
+	* Tachycardia
+	* Mydriasis
+	* Dry mouth and skin
+	* Urinary retention
+* **α-blockade**
+	* Hypotension
+* **↓ Catecholamine reuptake**\
+Initial ↑ sympathetic tone with hypertension followed by prolonged decreased tone and hypotension.
+
+
+## Epidemiology and Risk Factors
+
+* Leading cause of death from overdose patients arriving alive at ED
+* 50% of all ICU overdose admissions
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Features
+
+
+
+## Assessment
+
+**History**:
+
+* Dose
+	* 10mg/kg is potentially life threatening
+	* 30mg/kg associated with pH dependent toxicity and coma for >24 hours
+* Timing\
+Asymptomatic window for up to 6 hours.
+
+**Exam**:
+
+### Investigations
+
+**Bedside**:
+
+* ECG
+	* Sodium channel blockade
+		* PR prolongation
+		* **QRS >100ms**\
+		Due to IV conduction delay. Risk of VT (and seizures) ↑ with ↑ QRS width.
+		* **Terminal R wave >3mm** in **aVR**\
+		↑ Susceptibility of the right IV conducting system to Na^+^-channel blockade, causing terminal right axis deviation.
+	* Anticholinergic
+		* **Sinus tachycardia**
+	* Malignant arrhythmias
+
+**Laboratory**:
+
+**Imaging**:
+
+**Other**:
+
+### Diagnostic Approach and DDx
+
+
+## Management
+
+:::priority
+* **Activated charcoal**
+* Treat **arrhythmias** and **seizures**
+* **Induce alkalosis** with sodium bicarbonate
+* **Normalise physiology**\
+Hypothermia, acidosis, and hypotension all ↑ toxicity.
+:::
+
+**Resuscitation**:
+
+* C
+	* Fluid resuscitation
+	* Antiarrhythmics
+		* Avoid class 1a agents as they worsen sodium channel blockade
+		* Lignocaine preferable
+* D
+	* Seizure control\
+	May need intubation and propofol infusion.
+* F
+	* Induce alkalosis\
+	↑ Unionised portion of drug (pKa 8.4) which ↑ distribution into peripheral compartments and away from heart.
+		* Sodium bicarbonate\
+		Preferable as ↑ Na^+^ overcomes Na^+^-channel blockade.
+		* Hyperventilation
+
+
+**Specific therapy**:
+
+* Pharmacological
+	* Activated charcoal\
+	Multi-dose.
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

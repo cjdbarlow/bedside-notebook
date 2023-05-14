@@ -1,0 +1,94 @@
+# Beta-Blocker
+
+Clinical effect of β-blocker overdose depends on underlying cardiac function, namely:
+
+* Systolic function
+* AV nodal blockade
+
+# Disease
+
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Manifestations
+
+* Rate
+	* Sinus bradycardia
+	* Heart block\
+	Full spectrum of AV nodal blockade, from 1^st^ degree heart block to CHB with no escape rhythm.
+	* Asystole
+* Hypotension
+* Cardiogenic shock
+	* Pulmonary oedema
+
+## Diagnostic Approach and DDx
+
+## Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+**Imaging**:
+
+**Other**:
+
+## Management
+
+**Resuscitation**:
+
+* C
+	* Bradycardia
+		* Atropine\
+		Reasonable for symptomatic bradycardia.
+		* Adrenaline
+		* Cardiac pacing
+	* Hypotension
+		* Volume resuscitation
+		* Glucagon 10mg IV
+		* High-dose insulin-euglycaemic therapy
+		* Inotropes
+		* Vasopressors
+	* ECMO if refractory
+
+:::column-margin
+{{< include /includes/hiet.qmd >}}
+:::
+
+***Specific therapy**:
+
+* Pharmacological
+	* Activated charcoal
+		* Within 1-hour of immediate release ingestion
+		* Any time after sustained release ingestion
+			* Consider multiple (Q4H) dosing
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

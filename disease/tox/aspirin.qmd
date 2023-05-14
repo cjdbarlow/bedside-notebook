@@ -1,0 +1,137 @@
+# Salicylates
+
+:::info
+Salicylates include aspirin and Oil of Wintergreen, which has ↑↑ toxic potential due to ↑ drug concentration.
+:::
+
+Salicylate overdose classically causes:
+
+* Triad of:
+	* Nausea
+	* Vomiting
+	* Tinnitus
+* An initial **primary respiratory alkalosis**\
+Direct respiratory centre stimulation.
+* **Secondary metabolic acidosis**\
+HAGMA due to uncoupled oxidative phosphorylation. Late sign indicating imminent demise.
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Features
+
+Initial:
+
+* Tinnitus
+* Nausea, vomiting
+* Abdominal pain
+
+Severe:
+
+* Pulmonary oedema
+* ARDS
+* Seizures
+* Coma
+* Acidaemia
+* Hyper or hypoglycaemia
+* Hypokalaemia
+
+## Assessment
+
+**History**:
+
+* Dose\
+Risk assessment:
+	* <150mg/kg: Minimal
+	* 150-300mg/kg: Mild-moderate
+	* \>300mg/kg: Severe intoxication, metabolic acidosis and neurological features expected
+	* \>500mg/kg: Potentially lethal
+
+**Exam**:
+
+### Investigations
+
+:::caution
+Many **bedside ABG** machines **mistake salicylate** for **chloride** and **incorrectly report** a **hyperchloraemic NAGMA**.
+:::
+
+**Bedside**:
+
+* ABG
+	* Respiratory alkalosis
+	* HAGMA
+
+**Laboratory**:
+
+* Blood
+	* Salicylate level\
+	Correlate poorly with toxicity but can be used to identify trend of absorption.
+	* UEC
+		* Monitor for hypokalaemia
+	* Paracetamol level
+	* BSL
+
+**Imaging**:
+
+**Other**:
+
+### Diagnostic Approach and DDx
+
+
+## Management
+
+:::priority
+* Activated charcoal
+* Treat seizures
+* Urinary alkalinisation or RRT
+:::
+
+**Resuscitation**:
+
+* Pulmonary oedema
+	* CPAP\
+	NIV or intubation, depending on conscious state.
+* C
+	* Fluid resuscitation\
+	GIT and insensible losses.
+* D
+	* Seizures
+		* Benzodiazepines
+
+**Specific therapy**:
+
+* Pharmacological
+	* Activated charcoal\
+	Up to 8 hours following overdose.
+	* Urinary alkalinisation
+* Procedural
+	* RRT\
+	Very effective.
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
