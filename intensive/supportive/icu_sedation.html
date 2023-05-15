@@ -65,7 +65,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../../themes/custom.css">
 </head>
 
-<body class="nav-sidebar floating">
+<body class="nav-sidebar floating slimcontent">
 
 
 <div id="quarto-search-results"></div>
@@ -75,7 +75,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Intensive Care</li><li class="breadcrumb-item"><a href="../../intensive/supportive/fasthugs.html">Supportive Care</a></li><li class="breadcrumb-item"><a href="../../intensive/supportive/icu_sedation.html"><span class="chapter-number">270</span>&nbsp; <span class="chapter-title">Sedation</span></a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Intensive Care</li><li class="breadcrumb-item"><a href="../../intensive/supportive/fasthugs.html">Supportive Care</a></li><li class="breadcrumb-item"><a href="../../intensive/supportive/icu_sedation.html"><span class="chapter-number">271</span>&nbsp; <span class="chapter-title">Sedation</span></a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="true" onclick="window.quartoOpenSearch();">
@@ -653,6 +653,11 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../management/cvs/inotropes.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Inotropes</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../management/cvs/vasodilators.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Vasodilators</span></a>
   </div>
 </li>
       </ul>
@@ -4107,15 +4112,23 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this Page</h2>
    
   <ul>
-  <li><a href="#principles" id="toc-principles" class="nav-link active" data-scroll-target="#principles">Principles</a></li>
-  <li><a href="#practice" id="toc-practice" class="nav-link" data-scroll-target="#practice">Practice</a></li>
+  <li><a href="#assessment" id="toc-assessment" class="nav-link active" data-scroll-target="#assessment">Assessment</a>
+  <ul class="collapse">
+  <li><a href="#richmond-agitation-sedation-scale" id="toc-richmond-agitation-sedation-scale" class="nav-link" data-scroll-target="#richmond-agitation-sedation-scale">Richmond Agitation Sedation Scale</a></li>
+  </ul></li>
+  <li><a href="#principles" id="toc-principles" class="nav-link" data-scroll-target="#principles">Principles</a></li>
+  <li><a href="#practice" id="toc-practice" class="nav-link" data-scroll-target="#practice">Practice</a>
+  <ul class="collapse">
+  <li><a href="#sedatives" id="toc-sedatives" class="nav-link" data-scroll-target="#sedatives">Sedatives</a></li>
+  <li><a href="#analgesia" id="toc-analgesia" class="nav-link" data-scroll-target="#analgesia">Analgesia</a></li>
+  </ul></li>
   <li><a href="#key-studies" id="toc-key-studies" class="nav-link" data-scroll-target="#key-studies">Key Studies</a></li>
   <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
 
 <header id="title-block-header" class="quarto-title-block default">
@@ -4135,31 +4148,269 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Sedation is a mainstay of intensive care therapy, with a large array of choices.</p>
+<p>Sedation is a mainstay of intensive care therapy and is indicated for:</p>
+<ul>
+<li><strong>Primary treatment of disease</strong> e.g.:
+<ul>
+<li>Neurological
+<ul>
+<li>Seizures</li>
+<li>↑ <span class="glossary" title="Intracranial Pressure"><span class="glossary" title="Intracranial Pressure"><span class="glossary" title="Intracranial Pressure">ICP</span></span></span></li>
+</ul></li>
+<li>Drug toxicities
+<ul>
+<li>Serotonin syndrome</li>
+<li>Alcohol withdrawal</li>
+</ul></li>
+</ul></li>
+<li><strong>Facilitate therapy</strong>
+<ul>
+<li>Procedural sedation</li>
+<li>Intubation</li>
+<li>Mechanical ventilation</li>
+<li>Active cooling</li>
+</ul></li>
+<li><strong>↓ Oxygen consumption</strong>
+<ul>
+<li>↓ Respiratory work</li>
+<li>↓ Other physical activity</li>
+<li>↓ Anxiety and arousal</li>
+</ul></li>
+<li><strong>Safety</strong>
+<ul>
+<li>Of patient</li>
+<li>Of carers</li>
+</ul></li>
+<li><strong>Palliation</strong></li>
+</ul>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p><em>Relative</em> indications also include:</p>
+<ul>
+<li>↓ Patient anxiety and distress</li>
+<li>Rest</li>
+<li>↓ Distress</li>
+<li>↓ Awareness of confronting environment</li>
+</ul>
+<p>However, these are preferably managed by non-pharmacological means. Options include:</p>
+<ul>
+<li>Access to visitors</li>
+<li>Good communication</li>
+<li>Positive reinforcement</li>
+<li>COmforts
+<ul>
+<li>Ice chips</li>
+<li>Comfortable mattress</li>
+<li>Music and entertainment</li>
+<li>Circadian routine</li>
+</ul></li>
+</ul>
+</div></div><section id="assessment" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="assessment">Assessment</h2>
+<p>Sedation scoring tools:</p>
+<ul>
+<li>Are used to quantify the degree of sedation provided</li>
+<li>Aim avoid over- or under-sedating patients</li>
+<li>Include:
+<ul>
+<li>Ramsay Sedation Scale</li>
+<li>Richmond Agitation Sedation Scale</li>
+</ul></li>
+</ul>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p><span class="glossary" title="Electroencephalogram">EEG</span> has also been trialled, but is limited by movement artifact and not yet made it into routine practice.</p>
+</div></div><section id="richmond-agitation-sedation-scale" class="level3">
+<h3 class="anchored" data-anchor-id="richmond-agitation-sedation-scale">Richmond Agitation Sedation Scale</h3>
+<p>The RASS is a 10-point scale that grades patient arousal from:</p>
+<ul>
+<li><strong>+4: Combative</strong><br>
+Violent, with immediate danger to staff.</li>
+<li><strong>+3: Very agitated</strong><br>
+Pulls or removes indwelling devices.</li>
+<li><strong>+2: Agitated</strong><br>
+Non-purposeful, fights ventilator.</li>
+<li><strong>+1: Restless</strong><br>
+Anxious but not aggressive.</li>
+<li><strong>0: Alert and calm</strong></li>
+<li><strong>-1: Drowsy</strong><br>
+<em>Sustained</em> (&gt;10s) awakening to voice.</li>
+<li><strong>-2: Light sedation</strong><br>
+<em>Brief</em> awakening to voice.</li>
+<li><strong>-3: Moderate sedation</strong><br>
+Movement or eye opening to voice.</li>
+<li><strong>-4: Deep sedation</strong><br>
+Movement or eye opening to pain.</li>
+<li><strong>-5: Unarousable</strong><br>
+No response to pain.</li>
+</ul>
+</section>
+</section>
 <section id="principles" class="level2">
 <h2 class="anchored" data-anchor-id="principles">Principles</h2>
-</section>
-<section id="practice" class="level2">
-<h2 class="anchored" data-anchor-id="practice">Practice</h2>
+<p>The <strong>goal of sedation</strong> is to achieve a <strong>controlled degree of sedation</strong>, <strong>specific to</strong> the needs of the <strong>patient</strong>, and <strong>based on</strong> the <strong>characteristics</strong> of the <strong>disease</strong>, <strong>patient</strong>, and <strong>therapy</strong>.</p>
+<p>A large number of strategies have been described to achieve this:</p>
+<ul>
+<li><strong>Goal-directed sedation</strong><br>
+Sedatives freely adjusted by the beside nurse to attain the prescribed level of sedation.</li>
+<li><strong>Patient-targeted sedation</strong><br>
+Consist of structured approach for:
+<ul>
+<li>Assessing pain and distress</li>
+<li>Adjusting analgesia and sedation based on the algorithm</li>
+</ul></li>
+<li><strong>Daily interruption of sedation</strong><br>
+As goal-directed sedation, except aims to prevent excessive sedation by pausing sedation each day until the patient awakens or exhibits distress requiring recommencement.</li>
+<li><strong>Intermittent sedation</strong><br>
+Intermittent administration of long-acting sedatives.</li>
+<li><strong>Analgo-sedation</strong><br>
+
+<ul>
+<li>Involves:
+<ul>
+<li>Commencing analgesia (classically opioid) until pain is controlled</li>
+<li>Adding sedatives only if analgesia is inadequate</li>
+</ul></li>
+<li>Benefits include possible ↓ mechanical ventilation duration, <span class="glossary" title="Intensive Care Unit"><span class="glossary" title="Intensive Care Unit">ICU</span></span> length of stay, and <span class="glossary" title="Ventilator Associated Pneumonia"><span class="glossary" title="Ventilator Associated Pneumonia">VAP</span></span></li>
+<li>Risks include possible ↑ self-extubation, myocardial ischaemia, and opioid withdrawal</li>
+</ul></li>
+<li><strong>Patient-controlled sedation</strong></li>
+</ul>
 <p>There is little evidence supporting any one therapy, however options include:</p>
+</section>
+<section id="practice" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="practice">Practice</h2>
+<p>In general:</p>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p>This framework outlines intravenous sedation and analgesia for the above indications. More complex overlapping scenarios, such as severe opioid tolerance (e.g.&nbsp;long stay burns) or hyperactive delirium requiring antipsychotics are not covered here.</p>
+</div></div><ul>
+<li>Some sedative is usually used
+<ul>
+<li>Propofol is a common first-line agent</li>
+<li>Dexmedetomidine is useful for weaning sedation in patients who:
+<ul>
+<li>Are emerging dangerously on propofol</li>
+<li>Have controlled pain</li>
+</ul></li>
+</ul></li>
+<li>Some analgesia is usually used<br>
+
+<ul>
+<li>Opioid infusions</li>
+</ul></li>
+</ul>
+<section id="sedatives" class="level3">
+<h3 class="anchored" data-anchor-id="sedatives">Sedatives</h3>
+<p>Sedation infusions:</p>
 <ul>
 <li><strong>Propofol</strong><br>
 0-300mg/hr.
 <ul>
 <li>Easily titrated</li>
+<li>↓ Ventilation time compared to midazolam</li>
 <li>May precipitate hypotension</li>
-<li>Risk of hypertriglyceridaemia and propofol infusion syndrome<br>
-Dose related.</li>
+<li>Risk of hypertriglyceridaemia<br>
+Should be taken account of in nutrition assessment.</li>
+<li>Risk of propofol infusion syndrome
+<ul>
+<li>Paediatric with heart failure</li>
+<li>Prolonged, high-dose infusions</li>
+</ul></li>
 </ul></li>
 <li><strong>Dexmedetomidine</strong><br>
-0-1.4μg/kg/min.
+0-1.4μg/kg/min. Consider load of 1μg/kg over 10 minutes in well patients.
 <ul>
-<li>Consider load of 1μg/kg over 10 minutes if required</li>
+<li>Analgo-sedative due to central α<sub>2</sub>-agonism</li>
+<li>↓ Opioid requirements</li>
 <li>Minimal suppression of respiration</li>
-<li></li>
+<li>Major side effects include:
+<ul>
+<li>Bradyarrhythmia</li>
+<li>Hyperthermia</li>
 </ul></li>
-<li>Benzodiazepines</li>
+</ul></li>
+<li><strong>Midazolam</strong><br>
+1-20mg/hr.
+<ul>
+<li>Wide dose requirement based on
+<ul>
+<li>Previous exposure</li>
+<li>Age</li>
+<li>Physiologic reserve</li>
+<li>Organ function</li>
+<li>Alcohol</li>
+<li>Other drugs</li>
+</ul></li>
+<li>Risk of accumulation in renal or hepatic failure</li>
+<li>Significant dose ↓ with concurrent opioid infusions</li>
+</ul></li>
+<li><strong>Ketamine</strong><br>
+0.1-0.3mg/kg/hr.
+<ul>
+<li>Produces dissociative anaesthesia; with sedation, analgesia, and amnesia</li>
+<li>Use limited predominantly by emergence phenomena</li>
+<li>Indications include:
+<ul>
+<li>Asthma</li>
+<li>Burns</li>
+</ul></li>
+</ul></li>
 </ul>
+<p>Special:</p>
+<ul>
+<li><strong>Thiopentone</strong>
+<ul>
+<li>Very long CSHT limits general use</li>
+<li>Immunosuppression</li>
+<li>Essentially reserved for:
+<ul>
+<li>Intractable ↑ <span class="glossary" title="Intracranial Pressure"><span class="glossary" title="Intracranial Pressure"><span class="glossary" title="Intracranial Pressure">ICP</span></span></span></li>
+<li>Status epilepticus</li>
+</ul></li>
+</ul></li>
+<li><strong>Volatile anaesthetics</strong>
+<ul>
+<li>Primarily used as bronchodilating sedation in severe asthma</li>
+<li>General use is limited by:
+<ul>
+<li>Cost<br>
+↓ With modern devices that allow volatile to be recirculated in an <span class="glossary" title="Intensive Care Unit"><span class="glossary" title="Intensive Care Unit"><span class="glossary" title="Intensive Care Unit">ICU</span></span></span> ventilator.</li>
+<li>Complexity of running circle system</li>
+<li>Occupational health risks</li>
+</ul></li>
+</ul></li>
+</ul>
+</section>
+<section id="analgesia" class="level3 page-columns page-full">
+<h3 class="anchored" data-anchor-id="analgesia">Analgesia</h3>
+<p>Opioids:</p>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<p>Common features of opioid infusions include:</p>
+<ul>
+<li>High interindividual variability</li>
+<li>Long duration of action due to:
+<ul>
+<li>Retained metabolites</li>
+<li>Long CSHT</li>
+</ul></li>
+<li>Constipation<br>
+Aperients should be administered concurrently.</li>
+<li>Tolerance</li>
+</ul>
+</div></div><ul>
+<li><strong>Fentanyl</strong></li>
+<li><strong>Morphine</strong></li>
+<li><strong>Remifentanil</strong><br>
+0.05-0.2μg/kg/min.
+<ul>
+<li>Short and reliable context-<em>in</em>sensitive half-time</li>
+<li>Provides tube tolerance and permits rapid sedation assessment</li>
+<li>Risk of rebound hyperalgesia limits use to patients without much intrinsic pain</li>
+</ul></li>
+</ul>
+</section>
 </section>
 <section id="key-studies" class="level2">
 <h2 class="anchored" data-anchor-id="key-studies">Key Studies</h2>
