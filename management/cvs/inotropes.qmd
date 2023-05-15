@@ -1,31 +1,46 @@
-# Inotropes
+# Inotropes {#sec-inotropes}
 
+Inotropes are drugs that ↑ force and velocity of myocardial contraction, causing a primary ↑ SV and a secondary ↑ in CO and BP. Inotropes are divided based on their effect on SVR into:
 
-## Indications
+* Standard inotropes\
+Catecholamines (or derived), which act to ↑ cAMP.
+* Inodilators\
+Phosphodiesterase inhibitors. 
+
+:::column-margin
+Although we like to conceptually separate inotropes from @sec-vasopressors, there is substantial overlap in action between drugs in either class and the umbrella term *vasoactive* is a better fit.
+:::
+
+## Practice
+
+* Goal is restoration of tissue perfusion\
+Regular clinical assessment.
+* Circulatory failure
+* Invasive arterial monitoring
 
 ## Contraindications
 
 
 ## Comparison
 
-+---------------+----------------------------------------+-----------------------------------+
-| Drug          | Adrenaline                             | Dobutamine                        |
-+===============+========================================+===================================+
-| Overview      | Endogenous catecholamine               | Synthetic catecholamine           |
-|               |                                        |                                   |
-|               | * Mixed non-selective α and β activity | * Predominantly β~1~              |
-|               |                                        | * Nonspecific α effects at ↑ dose |
-+---------------+----------------------------------------+-----------------------------------+
-| Advantages    | * ↑ Inotropy                           | * ↑ Inotropy                      |
-|               | * ↑ SVR                                | * ↓ SVR                           |
-+---------------+----------------------------------------+-----------------------------------+
-| Disadvantages | * ↑ Myocardial O~2~ consumption        | * ↓ SVR\                          |
-|               | * Type B lactataemia                   | Hypotension.                      |
-|               | * Arrhythmogenic                       | * ↑ Myocardial O~2~ consumption   |
-|               |                                        | * Arrhythmogenic                  |
-+---------------+----------------------------------------+-----------------------------------+
++------------------+----------------------------------------+-----------------------------------+
+| Drug             | Adrenaline                             | Dobutamine                        |
++==================+========================================+===================================+
+| Overview         | Endogenous catecholamine               | Synthetic catecholamine           |
+|                  |                                        |                                   |
+|                  | * Mixed non-selective α and β activity | * Predominantly β~1~              |
+|                  |                                        | * Nonspecific α effects at ↑ dose |
++------------------+----------------------------------------+-----------------------------------+
+| Relative Actions | * ↑ Inotropy                           | * ↑ Inotropy                      |
+|                  | * ↑ SVR                                | * ↓ SVR                           |
++------------------+----------------------------------------+-----------------------------------+
+| Disadvantages    | * ↑ Myocardial O~2~ consumption        | * ↓ SVR\                          |
+|                  | * Type B lactataemia                   | Hypotension.                      |
+|                  | * Arrhythmogenic                       | * ↑ Myocardial O~2~ consumption   |
+|                  |                                        | * Arrhythmogenic                  |
++------------------+----------------------------------------+-----------------------------------+
 
-: Pure Inotropes
+: Catecholamines
 
 
 +---------------+----------------------------------+---------------------------+
@@ -44,15 +59,11 @@
 |               | * ↓ SVR                          | * Expensive               |
 |               | * Requires loading               |                           |
 |               | * Longer t~1/2~ ↓ titrateability |                           |
+|               | * Renally cleared                                 |                           |
 +---------------+----------------------------------+---------------------------+
 
 : Inodilators
 
-## Equipment
-
-## Technique
-
-## Complications
 
 ## Key Studies
 
@@ -63,3 +74,5 @@
 ---
 
 ## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

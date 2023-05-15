@@ -182,7 +182,7 @@ book:
               - management/cvs/rv.qmd
               - management/cvs/pressors.qmd
               - management/cvs/inotropes.qmd
-                # Vasodilators
+              - management/cvs/vasodilators.qmd
                 # Fluids
         - part: "Neurology"
           chapters:

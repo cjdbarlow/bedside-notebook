@@ -1,4 +1,22 @@
-# Vasopressors
+# Vasopressors {#sec-vasopressors}
+
+Vasopressors are drugs that predominantly constrict peripheral vasculature, causing a:
+
+:::column-margin
+Similar to @sec-inotropes, many vasopressors have inotropic effects. Unlike inotropes however, there are s.
+:::
+
+* Primary ↑ in SVR, causing a secondary ↑ in MAP
+* Primary ↑ venous tone which ↓ venous compliance and ↑ stressed volume, causing a secondary ↑ in preload
+
+:::column-margin
+Venous blood volume can be divided conceptually into:
+
+* **Unstressed volume**\
+Does not exert meaningful pressure on the walls of the vasculature, and so does not contribute to MSFP. Contributes ~85% of total vascular volume under normal circumstances.
+* **Stressed volume**\
+Exerts pressure on the walls of the vasculature and therefore produces MSFP.
+:::
 
 
 ## Indications
@@ -6,20 +24,20 @@
 ## Contraindications
 
 
-+---------------+---------------+--------------------------------+--------------------------------------+
-| Drug          | Noradrenaline | Vasopressin                    | Methylene Blue                       |
-+===============+===============+================================+======================================+
-| Overview      |               | Endogenous nonapeptide\        |                                      |
-|               |               | cts on V~1~ and V~2~ receptors |                                      |
-+---------------+---------------+--------------------------------+--------------------------------------+
-|               |               | * Not a catecholamine\         | * Mesenteric vasoconstriction        |
-|               |               | Works synergistically.         | * Coronary vasoconstriction\         |
-|               |               | * Not affected by acidosis     | May lead to ischaemia.               |
-|               |               | * Not pro-arrhythmic           | * Possibly ↑ microcirculatory change |
-|               |               | * Fluid retention              | * Hyponatraemia                      |
-+---------------+---------------+--------------------------------+--------------------------------------+
-| Disadvantages |               |                                | * MAO Inhibition                     |
-+---------------+---------------+--------------------------------+--------------------------------------+
++---------------+---------------+---------------------------------+--------------------------------------+
+| Drug          | Noradrenaline | Vasopressin                     | Methylene Blue                       |
++===============+===============+=================================+======================================+
+| Overview      |               | Endogenous nonapeptide\         |                                      |
+|               |               | Acts on V~1~ and V~2~ receptors |                                      |
++---------------+---------------+---------------------------------+--------------------------------------+
+|               |               | * Not a catecholamine\          | * Mesenteric vasoconstriction        |
+|               |               | Works synergistically.          | * Coronary vasoconstriction\         |
+|               |               | * Not affected by acidosis      | May lead to ischaemia.               |
+|               |               | * Not pro-arrhythmic            | * Possibly ↑ microcirculatory change |
+|               |               | * Fluid retention               | * Hyponatraemia                      |
++---------------+---------------+---------------------------------+--------------------------------------+
+| Disadvantages |               |                                 | * MAO Inhibition                     |
++---------------+---------------+---------------------------------+--------------------------------------+
 
 
 ## Comparison
@@ -39,3 +57,5 @@
 ---
 
 ## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

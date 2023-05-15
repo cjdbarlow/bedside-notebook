@@ -1,26 +1,191 @@
 # Sedation
 
-Sedation is a mainstay of intensive care therapy, with a large array of choices. 
+Sedation is a mainstay of intensive care therapy and is indicated for:
+
+* **Primary treatment of disease**
+e.g.:
+	* Neurological
+		* Seizures
+		* ↑ ICP
+	* Drug toxicities
+		* Serotonin syndrome
+		* Alcohol withdrawal
+* **Facilitate therapy**
+	* Procedural sedation
+	* Intubation
+	* Mechanical ventilation
+	* Active cooling
+* **↓ Oxygen consumption**
+	* ↓ Respiratory work
+	* ↓ Other physical activity
+	* ↓ Anxiety and arousal
+* **Safety**
+	* Of patient
+	* Of carers
+* **Palliation**
+
+:::column-margin
+*Relative* indications also include:
+
+* ↓ Patient anxiety and distress
+* Rest
+* ↓ Distress
+* ↓ Awareness of confronting environment
+
+However, these are preferably managed by non-pharmacological means. Options include:
+
+* Access to visitors
+* Good communication
+* Positive reinforcement
+* COmforts
+	* Ice chips
+	* Comfortable mattress
+	* Music and entertainment
+	* Circadian routine
+:::
+
+## Assessment
+
+Sedation scoring tools:
+
+* Are used to quantify the degree of sedation provided
+* Aim avoid over- or under-sedating patients
+* Include:
+	* Ramsay Sedation Scale
+	* Richmond Agitation Sedation Scale
+
+:::column-margin
+EEG has also been trialled, but is limited by movement artifact and not yet made it into routine practice.
+:::
+
+### Richmond Agitation Sedation Scale
+
+{{< include /includes/rass.qmd >}}
+
 
 ## Principles
 
+The **goal of sedation** is to achieve a **controlled degree of sedation**, **specific to** the needs of the **patient**, and **based on** the **characteristics** of the **disease**, **patient**, and **therapy**.
+
+A large number of strategies have been described to achieve this:
+
+* **Goal-directed sedation**\
+Sedatives freely adjusted by the beside nurse to attain the prescribed level of sedation.
+* **Patient-targeted sedation**\
+Consist of structured approach for:
+	* Assessing pain and distress
+	* Adjusting analgesia and sedation based on the algorithm
+* **Daily interruption of sedation**\
+As goal-directed sedation, except aims to prevent excessive sedation by pausing sedation each day until the patient awakens or exhibits distress requiring recommencement.
+* **Intermittent sedation**\
+Intermittent administration of long-acting sedatives.
+* **Analgo-sedation**\
+	* Involves:
+		* Commencing analgesia (classically opioid) until pain is controlled
+		* Adding sedatives only if analgesia is inadequate
+	* Benefits include possible ↓ mechanical ventilation duration, ICU length of stay, and VAP
+	* Risks include possible ↑ self-extubation, myocardial ischaemia, and opioid withdrawal
+* **Patient-controlled sedation**
+
+There is little evidence supporting any one therapy, however options include:
 
 ## Practice
 
-There is little evidence supporting any one therapy, however options include:
+In general:
+
+:::column-margin
+This framework outlines intravenous sedation and analgesia for the above indications. More complex overlapping scenarios, such as severe opioid tolerance (e.g. long stay burns) or hyperactive delirium requiring antipsychotics are not covered here.
+:::
+
+* Some sedative is usually used
+	* Propofol is a common first-line agent
+	* Dexmedetomidine is useful for weaning sedation in patients who:
+		* Are emerging dangerously on propofol
+		* Have controlled pain
+* Some analgesia is usually used\
+	* Opioid infusions
+
+### Sedatives
+
+Sedation infusions:
 
 * **Propofol**\
 0-300mg/hr.
 	* Easily titrated
+	* ↓ Ventilation time compared to midazolam
 	* May precipitate hypotension
-	* Risk of hypertriglyceridaemia and propofol infusion syndrome\
-	Dose related.
+	* Risk of hypertriglyceridaemia\
+	Should be taken account of in nutrition assessment.
+	* Risk of propofol infusion syndrome
+		* Paediatric with heart failure
+		* Prolonged, high-dose infusions
 * **Dexmedetomidine**\
-0-1.4μg/kg/min.
-	* Consider load of 1μg/kg over 10 minutes if required
+0-1.4μg/kg/min. Consider load of 1μg/kg over 10 minutes in well patients.
+	* Analgo-sedative due to central α~2~-agonism
+	* ↓ Opioid requirements
 	* Minimal suppression of respiration
-	* 
-* Benzodiazepines
+	* Major side effects include:
+		* Bradyarrhythmia
+		* Hyperthermia
+* **Midazolam**\
+1-20mg/hr.
+	* Wide dose requirement based on
+		* Previous exposure
+		* Age
+		* Physiologic reserve
+		* Organ function
+		* Alcohol
+		* Other drugs
+	* Risk of accumulation in renal or hepatic failure
+	* Significant dose ↓ with concurrent opioid infusions
+* **Ketamine**\
+0.1-0.3mg/kg/hr.
+	* Produces dissociative anaesthesia; with sedation, analgesia, and amnesia
+	* Use limited predominantly by emergence phenomena
+	* Indications include:
+		* Asthma
+		* Burns
+
+Special:
+
+* **Thiopentone**
+	* Very long CSHT limits general use
+	* Immunosuppression
+	* Essentially reserved for:
+		* Intractable ↑ ICP
+		* Status epilepticus
+* **Volatile anaesthetics**
+	* Primarily used as bronchodilating sedation in severe asthma
+	* General use is limited by:
+		* Cost\
+		↓ With modern devices that allow volatile to be recirculated in an ICU ventilator.
+		* Complexity of running circle system
+		* Occupational health risks 
+
+
+### Analgesia
+
+Opioids:
+
+:::column-margin
+Common features of opioid infusions include:
+
+* High interindividual variability
+* Long duration of action due to:
+	* Retained metabolites
+	* Long CSHT
+* Constipation\
+Aperients should be administered concurrently.
+* Tolerance
+:::
+
+* **Fentanyl**
+* **Morphine**
+* **Remifentanil**\
+0.05-0.2μg/kg/min.
+	* Short and reliable context-*in*sensitive half-time
+	* Provides tube tolerance and permits rapid sedation assessment
+	* Risk of rebound hyperalgesia limits use to patients without much intrinsic pain
 
 
 ## Key Studies

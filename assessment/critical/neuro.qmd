@@ -1,6 +1,6 @@
 # Neurological Examination
 
-The neurological exam comes in an escalating level of detail, depending on the patient:
+The neurological exam comes in an escalating level of detail, depending on the level of consciousness of the patient:
 
 :::column-margin
 Testing and diagnosis of brain death is covered under @sec-braindeath.
@@ -11,10 +11,15 @@ Testing and diagnosis of brain death is covered under @sec-braindeath.
 * **Unconscious**
     * Pupils
     * Respiratory pattern
-    * Cranial Nerves
-    * GCS
+    * Limited cranial nerves
+    * Limited peripheral motor
 * **Uncooperative**
+    * Variable
 * **Cooperative**
+    * Cerebellar exam
+    * Detailed cranial nerves
+    * Detailed peripheral motor
+    * Detailed peripheral sensory
 
 
 ## Assessing Level of Consciousness
@@ -30,10 +35,14 @@ In a patient with an unclear level of consciousness, assess GCS by:
 
 :::column-margin
 Vertical eye movements (but not always lateral) are preserved in locked-in syndrome.\
-\
+:::
+
+:::column-margin
 Avoid asking the patient to squeeze hands - this may be a grasp reflex.\
-\
-Report the GCS in its constituent components, e.g. E~2~V~T~M~3~. Use the best score in any section.
+:::
+
+:::column-margin
+Report the GCS in its constituent components, e.g. E~2~V~T~M~3~.
 :::
 
 * Ask to blink and to look up/down\
@@ -81,11 +90,6 @@ Suggests raised ICP; may not be present (especially acutely).
 
 ## Respiratory Patterns
 
-:::column-margin
-Assessing respiratory pattern in the intubated patient requires some desedation and a pressure-support mode.
-:::
-
-
 +-------------------------------------+-------------------------------------------------------------------------------------+-----------------------------------------------------------------+-----------------------------------+
 | Pattern                             | Presentation                                                                        | Mechanism                                                       | Causes                            |
 +=====================================+=====================================================================================+=================================================================+===================================+
@@ -102,47 +106,52 @@ Assessing respiratory pattern in the intubated patient requires some desedation 
 |                                     |                                                                                     |                                                                 | * Acute CVA                       |
 +-------------------------------------+-------------------------------------------------------------------------------------+-----------------------------------------------------------------+-----------------------------------+
 
- 
-## Cranial Nerve Examination in the Unconscious Patient
-
-Basic assessment:
-
 :::column-margin
-Ensure the cervical spine is cleared before testing the oculocephalic reflex.
+Assessing respiratory pattern in the intubated patient requires some desedation and a pressure-support mode.
 :::
+ 
+## Cranial Nerve Examination
+
+### Unconscious Patient
 
 * **Ocular deviation**\
     * Dysconjugate gaze is present in most patients with altered conscious state, such as anaesthesia
     * Tonic deviation may be present with an **ipsilateral frontal** lobe lesion or a **contralateral pontine** lesion\
     Supranuclear (e.g. frontal) lobe lesions can be overcome by a oculocephalic or oculovestibular reflex, pontine lesions cannot.
-    * Vertical (skew) deviation suggests a pontine or vestibulocerebellar lesion.
+    * Vertical (skew) deviation suggests a pontine or vestibulocerebellar lesion.\
+\
 * **Corneal reflex**\
 Tests V~1~, III (eye movement) and VII (blink).
     * A drop of saline or wisp of cotton should be applied to the cornea\
     Patient should not see the or hear the stimulus, otherwise this will not test V~1~.
-    * Reflex is present if they blink or look upwards
+    * Reflex is present if they blink or look upwards\
+\
 * **Occulo-cephalic reflex**\
 A milder version of the cold caloric reflex that can be performed in unconscious patients. Tests CN III, VI, VIII.
     * The eyes are held open and the head is rotated side-to-side or up-and-down
     * The reflex is present if the eyes move in the opposite direction of head movements (**doll's eyes**)
-    * **Absence** of the reflex is suggestive of brainstem dysfunction in the comatose patient
+    * **Absence** of the reflex is suggestive of brainstem dysfunction in the comatose patient\
+\
 * **Facial Sensation**
     * Supra orbital notch pressure\
-    Tests CN V, VII.
+    Tests CN V, VII.\
+\
 * **Gag reflex**\
 Tests CN IX, X.
     * Touch the posterior pharynx on each side (use a Yankeur)
-    * A gag is a positive response
+    * A gag is a positive response\
+\
 * **Cough reflex**\
 Tests CN X.
     * Suctioning the trachea should cause a cough response
 
-
-Detailed assessment:
+:::column-margin
+Ensure the cervical spine is cleared before testing the oculocephalic reflex.
+:::
 
 * **Cold caloric reflex**\
 Tests CN III, VI, and VIII.
-    * Used in brain-death testing
+    * Predominantly **used only** in **brain-death testing**
     * Cold water is syringed into the patients ear
     * A positive reflex occurs when the eyes look towards the tested side\
     Eyes will remain in this position until irrigation stops.
@@ -150,87 +159,7 @@ Tests CN III, VI, and VIII.
     * 5 minutes should elapse before testing the other wide
 
 
-## Extremities
-
-:::info
-* Asymmetry in tone, reflexes, and plantar responses are useful to lateralise a lesion
-* Symmetrical changes are rarely helpful in the unconscious patient
-:::
-
-:::column-margin
-Decorticate posturing suggests a lesion **above** the **brainstem**:
-
-* Flexion of arms
-* Adduction of shoulder
-* Extension of legs
-
-<br><br>
-
-Decerebrate posturing suggests a lesion **below or at** the **brainstem**:
-
-* Extension of arms
-* Internal rotation of shoulder
-:::
-
-* Observation
-    * Spontaneous or localising movements\
-    * Posturing
-        * Abnormal flexion (decorticate posturing)\
-        * Abnormal extension (decerebrate posturing)\
-    * Tremors
-    * Wasting
-    * Fasciculations
-        * Intrinsic hand muscles
-        * Shoulder girdle
-        * Thigh
-
-:::column-margin
-The **deep tendon reflexes** are:
-
-* Upper limb
-    * Biceps
-    * Brachioradialis
-    * Triceps
-* Lower limb
-    * Patella
-    * Ankle
-:::
-
-* Tone
-    * Passive movement of each joint
-* Power and movement
-    * Response to noxious stimuli\
-    * Drift
-    * Rapid movements
-    * Power
-* Reflexes\
-Look for muscle contraction rather than physical movement.
-    * Clonus\
-    \>5 sustained involuntary contractions following stretching of a muscle.
-    * Plantar response\
-    Sensitive test for the presence of an UMN lesion in the corticospinal tract.
-        * Lateral side of foot is rubbed with a blunt instrument
-        * Flexion of the toes is a normal response
-        * Extension of the hallux with fanning of the toes is a positive Babinski sign\
-        Present as a primitive reflex in infants up to 12 months of age.
-
-:::column-margin
-Upper versus Lower Motor Neuron Lesions:
-
-| Finding        | UMN | LMN |
-+----------------+-----+-----+
-| Atrophy        | No  | Yes |
-| Fasciculations | No  | Yes |
-| Reflexes       | ↑   | ↓   |
-| Tone           | ↑   | ↓   |
-| Weakness       | Yes | Yes |
-
-:::
-
-
-## Cooperative Patient
-
-### Cranial Nerve
+### Cooperative Patient
 
 * **Visual acuity**\
 Tests CN II
@@ -281,52 +210,118 @@ Tests CN XII.
     * Push forcefully against inside of the cheek
 
 
-### Cerebellar Exam
+## Peripheral Motor Exam
 
-* Nystagmus
-    * A fast phase of nystagmus will occur towards the side of a cerebellar lesion
-* Staccato speech
-* Resting tremor
-    * Head\
-    Known as titubation.
-    * Upper limb
-* Tests of coordination:
-    * Rapid alternating movements
-    * Finger-nose
-    * Heel-shin
-* Gait
-* Romberg's test
-    * Patient stands with eyes closed
-    * A positive result occurs if the patient loses balance
-        * Cerebellar ataxia occurs even when the eyes are open
-        * Sensory ataxia occurs when the eyes are closed, and is a sign of disturbed proprioception
+:::info
+* Asymmetry in tone, reflexes, and plantar responses are useful to lateralise a lesion
+* Symmetrical changes are rarely helpful in the unconscious patient
+:::
 
-### Motor Exam
+:::column-margin
+A lesion **above** the **brainstem** is suggested by **decorticate** posturing:
 
-Motor assessment involves:
+* Flexion of arms
+* Adduction of shoulder
+* Extension of legs
+:::
 
-* Appearance
+:::column-margin
+A lesion **below or at** the **brainstem** is suggested by **decerebrate** posturing:
+
+* Extension of arms
+* Internal rotation of shoulder
+:::
+
+:::column-margin
+: Upper versus Lower Motor Neuron Lesions
+
+| Finding        | UMN | LMN |
+|----------------|-----|-----|
+| Atrophy        | No  | Yes |
+| Fasciculations | No  | Yes |
+| Reflexes       | ↑   | ↓   |
+| Tone           | ↑   | ↓   |
+| Weakness       | Yes | Yes |
+:::
+
+**Observation**:
+
+* Spontaneous or localising movements\
+* Posturing
+    * Abnormal flexion (decorticate posturing)\
+    * Abnormal extension (decerebrate posturing)\
+* Tremors\
+Should be no tremors at rest in normal individuals.
+* Wasting
     * Normal muscle bulk for age
     * Symmetry of muscle bulk
-    * Tremors\
-    Should be no tremors at rest in normal individuals.
-* Palpation
-* Tone\
-Joint should be able to be moved easily through its range of motion.
+* Fasciculations\
+    * Intrinsic hand muscles
+    * Shoulder girdle
+    * Thigh
+
+
+**Tone**:
+
+* Passive movement of:
+    * Upper limb
+        * Shoulder\
+        Circumduction.
+        * Elbow
+            * Flexion/extension
+            * Pronation/supination
+        * Wrist\
+        Circumduction.
+* Joint should be able to be moved easily through its range of motion.
     * Spasticity\
-    ↑ in tone is proportional to the rate of movement. Associated with UMN lesion.
+    Velocity-dependent, i.e. ↑ in tone is proportional to the rate of movement. Associated with UMN lesion.
     * Rigidity\
-    Tone is ↑ irrespective of how quickly the joint is moved.
+    Velocity-independent, i.e. tone is ↑ irrespective of how quickly the joint is moved. May be:
+        * Cogwheel\
+        Hypertonia with superimposed tremor, such that tone intermittently ↑ during movement.
+        * "Lead-pipe"\
+        Uniform ↑ in tone throughout.
     * Flaccidness\
     Complete absence of tone, occurring when the muscle has no LMN innervation.
-* Power\
-Assessment must consider the age, sex, fitness, and non-neurological disease state.
+
+
+**Power**:
+
+* Strength of major muscle groups
+* Joints should be stabilised and isolated so each is tested individually
+* Assessment must consider the age, sex, fitness, and non-neurological disease state.
 
 :::column-margin
 {{< include /includes/motor_function.qmd >}}
 :::
 
-### Sensory Exam
+
+**Reflexes**:
+
+:::column-margin
+The **deep tendon reflexes** are:
+
+* Upper limb
+    * Biceps
+    * Brachioradialis
+    * Triceps
+* Lower limb
+    * Patella
+    * Ankle
+:::
+
+* Look for muscle contraction rather than physical movement
+* Clonus\
+\>5 sustained involuntary contractions following stretching of a muscle.
+* Plantar response\
+Sensitive test for the presence of an UMN lesion in the corticospinal tract.
+    * Lateral side of foot is rubbed with a blunt instrument
+    * Flexion of the toes is a normal response
+    * Extension of the hallux with fanning of the toes is a positive Babinski sign\
+    Present as a primitive reflex in infants up to 12 months of age.
+
+
+## Peripheral Sensory Exam
 
 Testing of each main afferent pathway:
 
@@ -355,6 +350,27 @@ Assessment process:
 * Two-point discrimination\
 Useful for peripheral neuropathy.
     * Patient should be able to distinguish simultaneous touch from two objects >5mm apart
+
+
+## Cerebellar Exam
+
+* Nystagmus
+    * A fast phase of nystagmus will occur towards the side of a cerebellar lesion
+* Staccato speech
+* Resting tremor
+    * Head\
+    Known as titubation.
+    * Upper limb
+* Tests of coordination:
+    * Rapid alternating movements
+    * Finger-nose
+    * Heel-shin
+* Gait
+* Romberg's test
+    * Patient stands with eyes closed
+    * A positive result occurs if the patient loses balance
+        * Cerebellar ataxia occurs even when the eyes are open
+        * Sensory ataxia occurs when the eyes are closed, and is a sign of disturbed proprioception
 
 ---
 

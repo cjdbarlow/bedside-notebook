@@ -238,7 +238,8 @@ Pulmonary vasodilators:
 	* Iloprost
 		* Longer duration of action than epoprostenol
 		* May be nebulised Q4H or given by continued infusion
-* Endothelin receptor antagonists
+* Endothelin receptor antagonists\
+Type 1 only.
 	* Bosentan
 	* Ambrisentan
 	* Macitentan

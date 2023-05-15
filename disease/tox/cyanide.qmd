@@ -51,7 +51,10 @@ Severe:
 	Scavenges cyanide, which is then renally cleared.
 	* Dicobalt edetate 300mg IV over 1 minute followed by 50mL of 50% dextrose
 		* Reserved for confirmed severe toxicity as it may cause seizures, airway oedema, and hypotension
-	* Sodium nitrate or amyl nitrate with sodium thiosulphate 12.5g over 10 minutes
+	* Sodium thiosulphate 12.5g over 10 minutes\
+	Converts cyanide to thiocyante, which is renally cleared.
+	* Sodium nitrate or amyl nitrate\
+	Produces methaemoglobin, and subsequently cyanomethaemoglobin.
 * Procedural
 * Physical
 

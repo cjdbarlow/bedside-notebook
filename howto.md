@@ -23,6 +23,8 @@ quarto::quarto_preview
 # Content to-do:
 
 * LP and spinal as distinct entities with includes
+* Revise vasoactives in Part one and include a trimmed section for inotropes/dilators/pressors
+	* Chapters in Oh's are quite good
 
 
 # Decisions
