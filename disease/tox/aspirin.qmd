@@ -1,4 +1,4 @@
-# Salicylates
+# Salicylates {#sec-tox_salicylate}
 
 :::info
 Salicylates include aspirin and Oil of Wintergreen, which has ↑↑ toxic potential due to ↑ drug concentration.
@@ -13,7 +13,10 @@ Salicylate overdose classically causes:
 * An initial **primary respiratory alkalosis**\
 Direct respiratory centre stimulation.
 * **Secondary metabolic acidosis**\
-HAGMA due to uncoupled oxidative phosphorylation. Late sign indicating imminent demise.
+Late sign indicating imminent demise. Produces a HAGMA due to:
+	* Salicylate anion production
+	* Uncoupled oxidative phosphorylation
+
 
 ## Epidemiology and Risk Factors
 

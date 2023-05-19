@@ -27,6 +27,18 @@ quarto::quarto_preview
 	* Chapters in Oh's are quite good
 
 
+# Package to-do
+
+Table editor:
+
+* Simple table corner appropriate
+* Grid table with split column/rows
+* Tab to indent for bulleted lists
+* Enter to put new line below this one, even if there is content in the row below
+* Swap cell with cell above
+* Swap row with row above but restricted to that cell alone
+
+
 # Decisions
 
 * Where to put rhabdo, CIM, CIN
@@ -46,3 +58,5 @@ quarto::quarto_preview
 * ?Create integumentary section for osteomyelitis, NSTI, etc
 
 * ?Change pharmacological to prescription, to encompass fluids and blood, etc
+
+* Fix acid-base assessment

@@ -1,4 +1,4 @@
-# Toxic Alcohols
+# Toxic Alcohols {#sec-tox_etoh}
 
 Toxic alcohols are relatively benign in themselves but produce highly **toxic metabolites** that cause **neurotoxicity** as well as other organ-specific toxicities. Toxic alcohols include:
 
@@ -98,9 +98,18 @@ Osmolar gap and anion gap change over time. Initially, the OG is ↑ due to the 
 
 * Blood
 	* UEC
-		* Osmolar gap
+	* Osmolar gap
 	* Serum alcohol concentrations\
 	Toxic levels usually only available after commencing treatment.
+
+:::column-margin
+If you can quantitatively measure the serum alcohol, you can also determine the contribution of that alcohol to the osmolar gap. 1mmol/L of:
+
+* Ethanol: 4.6 mg/dL
+* Methanol: 3.2 mg/dL
+* Ethylene glycol: 6.2 mg/dL
+* Isopropanol: 6.0 mg/dL
+:::
 
 **Imaging**:
 

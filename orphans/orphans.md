@@ -1774,3 +1774,54 @@ Key characteristics:
 	* Renal
 		* Renal reabsorption
 	* Hepatic
+
+
+# Acid-Base
+:::column-margin
+-*aemia* describes the change in blood, -*osis* describes the process.
+:::
+
+## Stewart
+
+
+Three factors describe the pH:
+
+1. **Weak acid concentration**\
+Contribute net-negative molecular charges. Normal ~15mEq/L. Include:
+	* Protein
+	* Phosphate
+	* Haemoglobin\
+	Contributes to ↑ weak acid concentration in red cells relative to plasma.
+2. **Strong ion difference**\
+Net charge of fully ionised chemicals. Normal ~42mEql/L. Include:
+	* Cations
+		* Sodium
+		* Potassium
+		* Calcium
+		* Magnesium
+	* Anions
+		* Chloride
+		* Lactate
+		* Acetoacetate
+		* β-hydroxybutyrate
+3. **PaCO~2~**
+
+
+### Notes
+
+* Water spontaneously dissociates to form hydrogen ions
+	* The balance of the ratio of $H^+$ to $OH^-$ varies with the environmental temperature
+	* Neutral pH occurs when $[H^+] = [OH^-]$
+* CO~2~ is generated and diffuses down partial pressure gradients to the atmosphere
+
+:::column-margin
+At 37°C, neutral pH is 6.8 which approximates intracellular pH.
+:::
+
+
+
+
+
+
+
+

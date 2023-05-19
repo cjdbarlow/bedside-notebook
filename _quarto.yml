@@ -71,6 +71,12 @@ book:
     # Assessment
     - part: "Assessment"
       chapters:
+        - assessment/airway.qmd
+        - part: "Systems"
+          chapters:
+          - assessment/observation.qmd
+          - part: <hr>
+          - assessment/systems/neuro.qmd
         - part: "Anaesthesia"
           chapters:
           - assessment/anaesthetic/preanaesthetic.qmd
@@ -78,14 +84,9 @@ book:
           - assessment/anaesthetic/intraoperative.qmd
           - part: <hr>
           - assessment/anaesthetic/machine.qmd
-        - part: "Critical Care"
+        - part: "Intensive Care"
           chapters:
-          - assessment/critical/basic.qmd
-          - part: <hr>
-          - assessment/critical/airway.qmd
-          - assessment/critical/neuro.qmd
           - assessment/critical/neuroprognostication.qmd
-          - part: <hr>
           - assessment/critical/brain_death.qmd
           - assessment/critical/circ_death.qmd
     - part: <hr>
@@ -207,7 +208,16 @@ book:
           chapters:
             - part: "Acid-Base"
               chapters:
+              - management/acidbase/approach.qmd
+              # Stewart
+              - management/acidbase/variability.qmd
+              - part: <hr>              
+              - management/acidbase/metabolic_acidosis.qmd
               - management/acidbase/lactate.qmd
+              - management/acidbase/toxic_acidoses.qmd
+              - management/acidbase/ketones.qmd
+              - part: <hr>              
+              - management/acidbase/metabolic_alkalosis.qmd
             - part: "Electrolyte"
               chapters:
               - management/fluid/hypona.qmd

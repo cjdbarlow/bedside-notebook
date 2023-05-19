@@ -1,0 +1,67 @@
+# Metabolic Alkalosis {#sec-metalk}
+
+## Aetiology
+
+Causes:
+
+* Loss of low SID fluid
+	* Urinary
+		* Diuretics
+		* Corticosteroids
+		* Aldosterone excess
+			* Cushing
+			* Mineralocorticoid
+		* Licorice
+		* Hypercalcaemia
+		* Milk alkali syndrome
+		* Mg deficiency
+		* Gitelman syndrome
+		* Bartter syndrome
+	* Enteric
+		* Vomiting
+			* Pyloric stenosis
+			* NG suction
+		* Laxative abuse
+* Gain of high SIDE fluid
+	* Bicarb
+	* Sodium citrate
+	* High SID RRT
+	* Milk alkali
+
+## Pathophysiology
+
+Adverse effects of metabolic acidosis include:
+
+* B
+	* Hypoventilation
+		* Atelectasis
+* C
+	* Arrhythmias
+	* ↓ Inotropy
+* D
+	* Vasospasm
+	* Seizures
+	* Confusion
+	* Cramps
+* F
+	* Electrolyte derangements
+* H
+	* ↑ Hb oxygen affinity
+
+
+## Management
+
+* Volume resuscitation with low SID fluid
+* Acetazolamide
+* IV HCl
+* RRT
+
+
+
+
+---
+
+## References
+
+1. Brandis, K. [Acid-base pHysilogy](http://www.anaesthesiamcq.com/AcidBaseBook/ABindex.php). 2015.
+2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

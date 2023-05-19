@@ -1,0 +1,57 @@
+# Toxic Acidoses
+
+Toxins that can produce HAGMA include:
+
+:::column-margin
+Many of these occur as part of defined toxidromes, and are covered under:
+
+* @sec-tox_etoh
+* @sec-tox_salicylate
+* @sec-tox_iron
+:::
+
+* Citrate
+* Alcohols
+* Salicylates
+* Pyroglutamic
+* Iron
+
+
+## Pyroglutamic Acidosis
+
+Pyroglutamic acidosis is a **rare** HAGMA that:
+
+:::column-margin
+Pathophysiology in brief:
+
+* Pyroglutamic acid (5-oxyproline) is produced:
+	* From a variety of amino acids during normal cell metabolism
+	* During cyclical consumption and production of glutathione 
+* In glutathione depletion, enzymatic upregulation causes ↑ 5-oxyproline production
+* 5-oxyprolin*ase* inhibition results in progressive ↑ in 5-oxyproline levels
+:::
+
+* Occurs due to the combination of:
+	* **Glutathione depletion**
+		* Paracetamol
+		* Malnutrition
+		* Frailty
+		* Sepsis
+	* **5-oxyprolinase inhibition**
+		* Flucloxacillin
+		* Vigabatrin
+	* **Renal failure**\
+	↓ Clearance of pyroglutamic acid.
+* Requires direct measurement of 5-oxyprolinase by blood or urine assay to confirm diagnosis\
+Limited availability of testing means diagnosis is mostly contingent on clinical suspicion.
+* Is managed supportively:
+	* Cease causative agents
+	* Await renal clearance\
+	Dialysis and diuresis are also effective.
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

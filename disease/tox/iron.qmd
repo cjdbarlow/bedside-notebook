@@ -1,4 +1,4 @@
-# Iron
+# Iron {#sec-tox_iron}
 
 Iron toxicity and classically occurs over **four phases**:
 
@@ -69,7 +69,18 @@ The dose is divided by a constant to get the proportion of elemental iron in the
 **Bedside**:
 
 * ABG
-	* HAGMA
+	* Acidosis\
+	Multifactorial:
+		* HAGMA\
+		Lactic acidosis:
+			* Hypovolaemia\
+			GI fluid losses.
+			* Cardiogenic\
+			Myocardial toxicity.
+			* Liver failure
+		* NAGMA\
+		Ferric (Fe^3+^) iron and body water produce ferric hydroxide and a complimentary proton.
+
 
 **Laboratory**:
 
@@ -81,6 +92,7 @@ The dose is divided by a constant to get the proportion of elemental iron in the
 	* Coag
 	* UEC
 	* LFT
+
 
 **Imaging**:
 

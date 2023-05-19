@@ -19,6 +19,7 @@ BIS -> Processed EEG
 μ
 α
 β
+Δ
 
 : Sample grid table.
 

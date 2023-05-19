@@ -1,0 +1,117 @@
+# Measurement Variability
+
+Independent of the approach used for interpretations, certain factors result in reliable changes to reported or normal values. These include:
+
+* **Hypothermia**\
+↓ Temperature causes ↑ gas solubility and therefore ↓ partial pressure.
+* **Pregnancy**\
+Progesterone drives a ↑ minute ventilation, causing a compensated chronic respiratory alkalosis.
+* **Error**
+
+
+## Hypothermia
+
+Hypothermia:
+
+
+* Reliably results in a ↓ gas partial pressure for any given gas content\
+For every 1° below 37°C:
+	* PaO~2~ ↓ by ~5mmHg
+	* PaCO~2~ ↓ by ~2mmhg
+* Can be managed with two approaches:
+	* Alpha stat
+	* pH stat
+
+
+### Alpha Stat
+
+Sample is warmed to 37°C:
+
+:::column-margin
+Alpha stat is the standard approach used.
+:::
+
+* Normal reference ranges are used
+* Measured gas concentrations will be higher than "true" concentrations
+* Cellular physiology is unchanged as intracellular buffering varies with temperature
+
+
+### pH Stat
+
+Sample is corrected to temperature:
+
+:::column-margin
+pH stat remains used in paediatric cardiac surgery, where ↑ CBF ↓ the risk of ischaemic encephalopathy. It remains less popular in adult cardiac surgery as this ↑ the CVA risk from atheromatous vessels by ↑ the proportion of CO delivered to the brain.
+::: 
+
+* No reference range exists
+* CO~2~ may be added to correct gases to normal values at 37°C\
+This results in:
+	* Cerebral vascular dilation and ↑ CBF
+	* Improving O~2~ offloading at cells by right-shifting the oxyhaemoglobin-dissociation curve
+* This 
+
+
+## Pregnancy
+
+Chronic respiratory alkalosis:
+
+* ↑ pH: 7.4-7.47
+* ↓ PaCO~2~: 30mmHg
+* ↑ PaO~2~: 105mmHg
+* ↓ HCO~3~^-^: 20mmol/L
+
+:::column-margin
+Hyperventilation due to the effect of progesterone, which acts on the medullary ventilation centres. PO~2~ ↑ due to the AGE, and HCO~3~^-^ ↓ due to renal compensation.
+::: 
+
+## Sources of Error
+
+General:
+
+* **Sampling/technical errors**
+	* Contaminated
+		* Venous blood\
+		Altered dissolved gas concentrations.
+		* Air
+	* Transport
+		* Clotted
+		* Haemolysis
+		* Prolonged\
+		Metabolism in sampled blood changes gas concentration:
+			* ↓ BSL
+			* ↑ LDH
+			* ↑ Total protein
+			* ↑ K^+^
+			* ↑ PO~4~
+		* Cooled with ice\
+		↑ Solubility of dissolved gases into the polymer syringe.
+* **Patient**
+	* Haemolysis\
+	Cells are lysed during analysis, and so free Hb is not distinguished from intracellular Hb.
+	* Leucocytosis\
+	Much more metabolically active than erythrocytes, so in large numbers may consume dissolved oxygen and artificially ↓ PaO~2~ and ↑ PaCO~2~.
+* **Equipment**
+	* Poor calibration
+	* Wrong temperature
+
+:::column-margin
+Metabolic effects are ↓ by cooling, but this results in other metabolic changes.
+:::
+
+Effect of Circulating Drugs:
+
+* Heparin\
+Dilutes sample and artificially produces a metabolic acidosis. Modern gas syringes are pre-filled with very small doses of heparin to ↓ the magnitude of the error.
+* Salicylate overdose\
+Compete with chloride for the chloride electrode, creating a negative anion gap.
+* Ethylene glycol\
+Causes spurious ↑ in blood gas lactate but formal lactate.
+
+---
+
+## References
+
+1. Brandis, K. [Acid-base pHysilogy](http://www.anaesthesiamcq.com/AcidBaseBook/ABindex.php). 2015.
+2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+3. Marts LT, Hsu DJ, Clardy PF. Mind the Gap. [Annals ATS](https://www.atsjournals.org/doi/pdf/10.1513/AnnalsATS.201401-033CC). 2014 May;11(4):671–4. 

@@ -8,19 +8,50 @@ Elevation in serum lactate >2mmol/L, which may be:
 
 ## Pathophysiology
 
-Lactate is:
+Lactate is an organic acid produced:
 
-* Produced:
-	* At ~0.8mmol/kg/hr
-		* Predominantly by skeletal muscle (~40%)
-		* Also skin/brain/gut/RBC
-	* From pyruvate (via glucose and alanine)\
-	This process regenerates NAD^+^ which allows further conversion from glucose into pyruvate, facilitating ATP production in absence of oxygen.
-* Metabolised by:
-	* **Liver**
-	* Kidneys
-	* Brain\
-	Hypothesised use as substrate for ATP generation, particularly when neuronal uptake of ATP is ↓ as occurs in injury.
+* From pyruvate, via glucose and alanine
+* In order to regenerate NAD^+^, which:
+	* Allows further conversion from glucose into pyruvate
+	* Facilitates ATP production in the absence of oxygen
+
+
+Lactate occurs in two isomers:
+
+* **L-lactate**\
+	* Produced by multicellular organisms, including humans
+		* At ~0.8mmol/kg/hr
+			* Predominantly by skeletal muscle (~40%)
+			* Also skin/brain/gut/RBC
+	* Metabolised by:
+		* **Liver**
+		* Kidneys
+		* Brain\
+		Hypothesised as substrate for ATP generation, particularly when neuronal uptake of ATP is ↓ in brain injury.
+* **D-lactate**
+	* Normally produced by some colonic flora\
+	Not usually significant, however overproduction can occur with:
+		* Short bowel syndrome
+		* Post-pancreatectomy
+		* Colonic overgrowth
+		* Malabsorbed carbohydrate loads
+	* Leads to ↓ cellular ATP generation\
+	D-lactate:
+		* Competes with pyruvate and L-lactate for mitochondrial uptake
+		* Metabolism is limited and tissue dependent\
+		The liver is the only organ whose mitochondria are able to clear reasonable quantities.
+		* Toxicity may be:
+			* Neurotoxic
+				* Confusion
+				* Ataxia
+				* Slurred speech
+				* Obtundation → coma
+			* Cardiotoxic
+				* Arrhythmias
+				* Heart block
+	* Not detected by routine lactate testing\
+	Blood gas or laboratory.
+
 
 :::column-margin
 An ↑ in brain lactate is associated with ↓ mortality.
@@ -29,11 +60,15 @@ An ↑ in brain lactate is associated with ↓ mortality.
 Lactate may be pathologically elevated by:
 
 * ↑ Production
-	* Tissue hypoxia (Type A)
-	* Altered metabolism (Type B)
+	* Tissue hypoxia (Type A)\
+	Anaerobic metabolism.
+	* Altered metabolism (Type B)\
+	Catecholamines ↑↑ cellular ATP requirement and generation, ↑ lactate production even with normal cellular DO~2~.
 * ↓ Clearance
+	* Microvascular shunting
 	* Hepatic dysfunction
 	* Renal dysfunction
+
 
 ### Aetiology
 
@@ -99,7 +134,7 @@ This is by default L-lactate, which is the isomer produced by human metabolism. 
 ## Management
 
 :::caution
-Treating an elevated lactate in isolation is generally unhelpful.\
+Treating an elevated lactate in isolation is unhelpful.\
 \
 An elevated lactate should prompt a search for evidence of systemic or regional malperfusion, and any underlying abnormality corrected to restore DO~2~.
 :::

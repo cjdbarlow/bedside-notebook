@@ -1,5 +1,4 @@
-# Cardiopulmonary Bypass
-
+# Cardiopulmonary Bypass {#sec-cpb}
 
 *This provides a broad overview of the process of CPB and the roles of the anaesthetist, surgeon, and perfusionist. Methods of [myocardial preservation](/anaesthesia/cardiac/myocardial-preservation.md) are covered elsewhere.*
 
@@ -24,6 +23,10 @@ Systemic anticoagulation with heparin to prevent clotting of the bypass circuit.
 	ACT > 180.
 	* Use of an oxygenator requires full heparinisation\
 	ACT > 480.
+
+
+## Blood Gases
+
 
 
 ## Prior to CPB
@@ -406,10 +409,6 @@ Use of bypass is associated with several complications including:
 	* ↑ risk of anaesthetic awareness
 * H
 	* Coagulopathy
-
-
-
-
 
 
 ---

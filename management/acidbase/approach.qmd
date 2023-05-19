@@ -1,0 +1,266 @@
+# Standard Approach
+
+This section outlines the chemical principles underlying a reasonably standard approach to blood gas interpretation.
+
+## Principles
+
+### Anion Gap
+
+The $Anion \ Gap = Na^+ - Cl^+ - HCO_3^-$:
+
+* Normal is 12 (8-16)\
+A value rather than range is specified to permit further changes.
+* Low sensitivity and specificity\
+* Accuracy falls further in the setting of hypoalbuminaemia, and so should be corrected:
+	* $AGc = AG + 0.25 \times (40 - [albumin])$
+	* i.e. For every 4 g/L ↓ (or ↑) in serum albumin, the normal anion gap ↓ (or ↑) by 1
+* The anion gap rises when anions other than bicarbonate contribute to negative charge
+	* In an inorganic acidosis, chloride ↑ and bicarbonate ↓ proportionally such that the AG remains normal
+	* Other acid anions produce an H^+^ that reacts with HCO~3~^-^ and the bicarbonate ↓, and the AG ↑
+
+:::column-margin
+The Anion Gap is sometimes written including potassium. This makes the:
+
+* $Anion \ Gap = Na^+ K^+ - Cl^+ - HCO_3$
+* Equation marginally more accurate\
+Predominantly in patients who experience wild swings in their serum potassium, typically renal patients.
+* Maths marginally harder
+* Normal value 16 (12-20)
+* CICM examiner sad\
+Thus, the uncorrected version is used here.
+:::
+
+* Erroneous measurements
+	* Measurement error of each of the composite electrolytes
+	* Effect of other substances
+		* Chloride impersonators\
+		Halides, such as bromide and iodide.
+		* Unmeasured cations\
+		Lithium, calcium, magnesium.
+		* Cationic drugs
+		* Protein\
+		Anionic proteins will ↑ the AG whilst not causing significant acidosis:
+			* Gamma-globulinaemia
+			* ↑ Serum paraprotein
+			* ↑ Phosphate
+			* ↑ Sulfate
+
+
+### Delta Ratio
+
+The $Delta \ Ratio = {\uparrow AG \over \downarrow HCO_3^-}$:
+
+* Relates the change in the AG to the change in the bicarbonate
+* If the ↑ in AG is matched by the ↓ in HCO~3~^-^, then the bicarbonate has theoretically buffered the entire acid load\
+This relies on several assumptions that do not occur in practice though:
+	* Bicarbonate is not the only extracellular buffer
+	* ~50% of metabolic acidosis is buffered intracellularly
+	* Measurement error exists in measuring the five components of the ratio\
+	Sodium, potassium, chloride, albumin, bicarbonate.
+
+
+: Interpretation of the Delta Ratio
+
++---------+----------------------------------+
+| Ratio   | Interpretation                   |
++=========+==================================+
+| <0.4    | Hyperchloraemic NAGMA            |
++---------+----------------------------------+
+| 0.4-0.8 | * Mixed HAGMA and NAGMA          |
+|         | * NAGMA                          |
++---------+----------------------------------+
+| 1-2     | Pure HAGMA                       |
++---------+----------------------------------+
+| \>2     | Pre-existing metabolic alkalosis |
++---------+----------------------------------+
+
+
+### Standardised Base Excess
+
+* The base excess is the amount of strong acid or base that would have to be added to a sample of *whole* blood to produce a pH of 7.4 at a PaCO~2~ of 40mmHg at 37°C\
+This quantifies the metabolic portion of an acid-base disturbance.
+* The standardised base excess is the base excess normalised to a haemoglobin of 48g/L, which aims to generalise the result to the extracellular fluid compartment by attenuating the buffering effect of haemoglobin
+
+
+### Osmolar Gap
+
+The $Osmolar \ Gap = Osm_{measured} - (2 \times Na^+ + Urea + Glucose)$:
+
+* Difference between:
+	* Total (measured) osmoles
+	* *Measurable* osmoles
+* Normal <10
+* An ↑ OG with a normal AG occurs with any substance that does not dissociate at physiological pH\
+This may occur in absence of acidosis, if the osmole is not metabolised to produce an acid. 
+
+:::column-margin
+* Osmolality relates only to concentration, and so is not affected by molecular size or weight
+* To affect the OG, osmoles must be present in a sufficient concentration to make a meaningful contribution to total osmolality
+:::
+
+* Osmoles that are metabolised to unmeasured anions will also ↑ the AG as they are metabolised, causing a concurrent ↓ in the OG\
+This occurs during metabolism of toxic alcohols.
+* The reverse happens late in DKA resuscitation, where regeneration of NAD^+^ causes a greater production of acetoacetate from ketones, part of which spontaneously dissociates to form acetone which ↑ the osmolar gap
+
+
+: Abnormalities of the Osmolar Gap
+
++----------------------+--------------------------------------------+-----------------------------------+
+|                      | ↑ Osmolar Gap                              | Normal Osmolar Gap                |
++======================+============================================+===================================+
+| **↑ Anion Gap**      | Toxins:                                    | * Toxic alcohols after metabolism |
+|                      |                                            | * Uncorrected AG\                 |
+|                      | * Methanol\                                | e.g. Hyperalbuminaemia.           |
+|                      | Metabolised to formic acid.                |                                   |
+|                      | * Metabolised glycols\                     |                                   |
+|                      | Ethylene, propylene glycol.                |                                   |
+|                      | * Salicylate\                              |                                   |
+|                      | Metabolised to pyruvate, lactate, acetate. |                                   |
+|                      |                                            |                                   |
+|                      | Metabolic:                                 |                                   |
+|                      |                                            |                                   |
+|                      | * Lactic acidosis                          |                                   |
+|                      | * Ketoacidosis                             |                                   |
+|                      | * AKI                                      |                                   |
++----------------------+--------------------------------------------+-----------------------------------+
+| **Normal Anion Gap** | * Mannitol                                 |                                   |
+|                      | * Glycine                                  |                                   |
+|                      | * Non-metabolised glycols\                 |                                   |
+|                      | Polyethylene glycol.                       |                                   |
+|                      | * Maltose                                  |                                   |
+|                      | * Ethanol                                  |                                   |
+|                      | * Toxic alcohols prior to metabolism       |                                   |
++----------------------+--------------------------------------------+-----------------------------------+
+
+:::column-margin
+As the osmolar gap may vary in absence of acidosis, causes of an abnormal osmolar gap are presented here.
+:::
+
+### Strong Ion Difference
+
+* Net charge of substances that remain fully ionised at physiological pH
+
+:::column-margin
+The normal strong ion difference is +42meql/L, and the full list contains:
+
+* Cations
+	* Sodium
+	* Potassium
+	* calcium
+	* Magnesium
+* Anions
+	* Chloride
+	* Lactate
+	* Acetoacetate
+	* β-hydroxybutyrate
+:::
+
+### Urinary Anion Gap
+
+$AG_{urine} = Na^+ + K^+ - Cl^-$:
+
+* Ammonium is the major adjustable urinary cation, and so the urinary AG acts as an index of NH~4~^+^ excretion\
+* Indicates whether a NAGMA is due to renal or non-renal cause\
+This is usually, but not always, obvious clinically.
+* If the urinary AG is:
+	* Negative then chloride exceeds the measured cations\
+	NH~4~^+^ is being eliminated instead, an appropriate renal response to acidosis. The problem then lies elsewhere.
+	* Positive then the kidneys are inappropriately retaining chloride/losing base
+
+
+Derivation of the urinary anion gap equation:
+
+* Urine normally contains:
+	* Cations\
+	Sodium, potassium, ammonium (NH~4~^+^), calcium, magnesium.
+	* Anions\
+	Chloride, bicarbonate, sulphate, phosphate, organic anions.
+* Sodium, potassium, and chloride are the only commonly measured ions, the rest are unmeasured
+* Total anion change must equal total cation charge:\
+$Cl^- + Unmeasured_{anions} = Na^+ + K^+ + Unmeasured_{cations}$
+* Therefore:\
+$AG_{urine} = Unmeasured_{anions} - Unmeasured_{cations} = Na^+ + K^+ - Cl^-$
+
+
+## Approach
+
+:::tick
+Although not part of acid-base assessment, now is a good time to determine any abnormalities of gas exchange:
+
+* Determine PAO~2~ using the AGE
+* $PAO_2 = FiO_2 \times 713 - PaCO_2 \times 1.25$
+	* Normal A-a gradient is $10mmHg + 0.1 \times Age$
+	* An ↑ A-a gradient indicates ↓ PaO~2~ is secondary to shunt or diffusion limitation, rather than alveolar hypoventilation or ↓ FiO~2~
+* Determine P/F ratio	
+:::
+
+:::column-margin
+The A-a gradient is not actually that helpful in practice, since this shunt is almost always the primary cause.
+:::
+
+This details a reasonably standard approach to blood gas interpretation:
+
+1. **Determine** the **primary process**\
+Is it metabolic or respiratory?
+	* Evaluate pH and PaCO~2~
+
+:::column-margin
+If both pH and PaCO~2~ are normal then a dual metabolic problem is possible, but unlikely.
+:::
+
+2. **Determine compensation**
+	* Metabolic: PaCO~2~ in mmHg should ≃ the last 2 digits of pH (after the decimal point)
+	* Respiratory:
+		* Compensated if SBE is normal
+		* Uncompensated if $SBE = 0.4 \times (PaCO_2 - 40)$
+
+3. **Determine severity**
+	* Metabolic disorders
+		* Mild: SBE 4-9
+		* Moderate: SBE 10-14
+		* Severe: SBE >14
+
+:::column-margin
+The SBE determines severity in both directions; i.e. an SBE of 12 is moderate alkalosis, an SBE of -12 is moderate acidosis.
+:::
+
+4. **Determine contributors**
+	* **Contribution** of **unmeasured anions** to acidosis\
+	Unmeasured anions will ↑ the anion gap.
+		* Calculate albumin-corrected AG.
+			* If ↑, look for unmeasured anions
+			* If low or negative, consider:
+				* Laboratory error
+				* Lithium
+				* IgG myeloma
+		* If ↑ AG, are unmeasured anions the only cause?\
+		Two approaches:
+			* Calculate the Delta Ratio
+			* Determine if the AG changed proportionally to the SBE:
+				* Calculate the change in AG (ΔAG)
+				* If $\Delta AG = SBE$ then a single metabolic disorder is present\
+				The change in SBE is explained entirely by the AG.
+				* If $\Delta AG \neq SBE$ then a NAGMA is also present
+	* **Contribution** of **osmoles**\
+		* Calculate osmolar gap
+	* **Contribution** of **renal acid handling**
+		* Relevant in NAGMA
+		* Calculate urinary anion gap
+
+:::column-margin
+Calculating the change in AG relative to SBE is conceptually similar to the Delta Ratio, with a Copenhagen flavour.
+:::
+
+:::column-margin
+$\Delta AG = AG - 12^*$\
+\
+\*In the setting of abnormal albumin the alternative normal value should be used.
+:::
+
+---
+
+## References
+
+1. Brandis, K. [Acid-base pHysilogy](http://www.anaesthesiamcq.com/AcidBaseBook/ABindex.php). 2015.
+2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+3. Marts LT, Hsu DJ, Clardy PF. Mind the Gap. [Annals ATS](https://www.atsjournals.org/doi/pdf/10.1513/AnnalsATS.201401-033CC). 2014 May;11(4):671–4. 

@@ -1,0 +1,45 @@
+# Ketoacidosis
+
+Ketogenesis is the process of producing ketone bodies, which are water-soluble molecules used as an alternative energy source. 
+
+In **absence of insulin**, ketogenesis is accelerated leading to accumulation of ketone bodies and ketoacidosis. This occurs due to either:
+
+:::column-margin
+DKA is covered in detail under @sec-dka.
+:::
+
+:::column-margin
+Ketone bodies are the organic acids:
+
+* **Acetoacetate**\
+Detected by urine dipstick.
+* **β-hydroxybutyrate**\
+Detected by finger-prick ketones.
+:::
+
+* **DKA**\
+Pathological absence of insulin.
+	* ↑ BSL
+	* Severe acidosis
+	* β-hydroxybutyrate predominates
+* **Starvation ketosis**\
+Generally >3 day starvation which depletes hepatic glycogen stores, causing ↓ BSL and ↓ insulin secretion.
+	* ↓ BSL
+	* Generally only mild ketosis and acidosis\
+	May have a normal AG.
+	* Risk of refeeding syndrome when intake resumes
+* **Alcoholic ketoacidosis**\
+↓ Carbohydrate intake with alcohol binge causing ↓ insulin secretion
+	* ↓ BSL
+	* Moderate acidosis
+	* β-hydroxybutyrate predominates\
+	Ethanol metabolism has depleted NAD^+^, which drives metabolism of acetoacetate to β-hydroxybutyrate.
+
+
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

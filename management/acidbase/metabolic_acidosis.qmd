@@ -1,0 +1,146 @@
+# Metabolic Acidosis {#sec-metacid}
+
+Abnormal ↑ in blood fixed acid concentration. Metabolic acidoses are:
+
+* Classified by the change in AG into:
+	* HAGMA
+	* NAGMA
+* Graded by the change in SBE
+	* Mild: SBE -4-9
+	* Moderate: SBE -10-14
+	* Severe: SBE <-14
+
+
+## Aetiology
+
+: Causes of Metabolic Acidosis
+
++--------------------------+------------------------------------+
+| High Anion Gap           | Normal Anion Gap                   |
++==========================+====================================+
+| **Lactate**:             | **Renal base loss**:               |
+|                          |                                    |
+| * Type A\                | * Renal Tubular Acidosis           |
+| ↓ Perfusion.             |     * ↓ Aldosterone                |
+| * Type B\                |          * Cushings                |
+| Metabolic.               |          * Adrenal insufficiency   |
+| * D-lactate              |          * Addison's disease       |
+|                          |          * Aldosterone antagonists |
+|                          |    * Toluene                       |
+|                          |                                    |
+|                          |                                    |
+|                          | * Carbonic anhydrase inhibitors    |
++--------------------------+                                    |
+| **Toxins**:              |                                    |
+|                          |                                    |
+| * Citrate                |                                    |
+| * Alcohols               |                                    |
+|      * Methanol          |                                    |
+|      * Ethylene glycol   |                                    |
+| * Salicylates            |                                    |
+| * Pyroglutamic           |                                    |
+| * Iron                   |                                    |
++--------------------------+------------------------------------+
+| **Ketoacidosis**:        | **GIT base loss**:                 |
+|                          |                                    |
+| * Diabetic               | * Secretion drainage               |
+| * Alcoholic              |     * Pancreatic                   |
+| * Starvation             |     * Biliary                      |
+|                          | * Small bowel fistula              |
+|                          | * Diarrhoea                        |
++--------------------------+------------------------------------+
+| **Renal**:               | **Mineral acid gain**:             |
+|                          |                                    |
+| * Uraemic                | * Chloride gain                    |
+| * AKI                    |     * TPN\                         |
+|     * Organic anions     |     Hyperalimentation.             |
+|         * Sulphate       |                                    |
+|         * Hippurate      |                                    |
+|     * Phosphate          |                                    |
++--------------------------+------------------------------------+
+
+
+## Pathophysiology
+
+Adverse effects of metabolic acidosis include:
+
+* B
+	* ↑ PVR and PAP
+	* Hyperventilation
+* C
+	* ↓ Inotropy
+	* Dysrhythmia
+	* ↓ SVR and hypotension
+	* Venoconstriction
+	* ↓ Catecholamine response
+* D
+	* Confusion
+* E
+	* ↑ Metabolic rate
+	* ↑ BSL
+	* Bone loss
+* F
+	* ↓ RBF
+	* Hyperkalaemia
+* G
+	* ↓ Splanchnic blood flow
+	* Nausea/vomiting
+* H
+	* Coagulopathy
+
+
+## Management
+
+:::priority
+* Treat cause
+* Consider alkalinisation if severe or metabolic consequences occurring
+:::
+
+**Specific Therapy**:
+
+* Pharmacological
+	* **Sodium bicarbonate**\
+	↑ SID due to chloride-free sodium, counteracting NAGMA.
+		* Indications:
+			* Strong indications
+				* Severe NAGMA
+				* Severe hyperkalaemia
+				* TCA
+				* Salicylate overdose\
+				Urinary alkalinisation.
+			* Controversial indications:
+				* Severe HAGMA
+					* Toxic alcohols
+				* Pulmonary hypertension
+		* Considerations:
+			* Significant volume load
+			* ↑ PaCO~2~, worsening respiratory acidosis\
+			1029mmol/L in 1M solution.
+			* Significant ↑ in VCO~2~ and PCO~2~ unless administered slowly
+			* May lead to significant intracellular acidosis due to diffusion of CO~2~ across the cell membrane\
+			i.e. Measured improvement in pH may not be physiologically beneficial.
+	* **Sodium carbonate**
+		* Usually combined with sodium bicarbonate ('carbicarb')
+		* ↓ CO~2~ production but produces NaOH
+			* NaOH Causes local vessel destruction on peripheral administration
+	* **Sodium lactate**
+		* Bicarbonate precursor
+		* Requires intact lactate metabolism as bicarbonate is produced during metabolism of lactate to pyruvate
+	* **THAM**
+		* Weak base and buffer with pKa of 7.7
+		* Effective for both respiratory and metabolic acidoses
+		* Complications:
+			* Consumes CO~2~\
+			May cause apnoea given rapidly.
+			* Accumulates in AKI
+			* May ↓ BSL
+			* Coagulopathy
+			* Potassium disturbances
+
+
+---
+
+## References
+
+1. Brandis, K. [Acid-base pHysilogy](http://www.anaesthesiamcq.com/AcidBaseBook/ABindex.php). 2015.
+2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

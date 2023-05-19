@@ -58,6 +58,7 @@ Develops over **hours**-days with:
 * Polydipsia
 * Weakness
 * Weight loss
+* Hypovolaemia
 
 
 Ketoacidosis results in:
@@ -97,7 +98,10 @@ Diagnosis is biochemical, and requires:
 * ABG
 	* ↑ BSL
 	* ↑ Ketones
-	* Metabolic acidosis
+	* Metabolic acidosis\
+	Mixed NAGMA and HAGMA.
+		* HAGMA due to ketoacidosis
+		* NAGMA due to loss of strong cations which are co-excreted with ketones
 
 **Laboratory**:
 

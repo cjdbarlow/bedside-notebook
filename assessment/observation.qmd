@@ -11,7 +11,7 @@ Observation should focus on each of the following in turn:
 	* Medications
 		* Vials/tablets
 	* Environment
-		* Positive or negative pressure orooms
+		* Positive or negative pressure rooms
 		* Temperature
 		* Infection control and PPE
 		* Waste disposal
@@ -22,7 +22,11 @@ Observation should focus on each of the following in turn:
 
 
 :::column-margin
-Information from the monitor, ventilator, and medications should be integrated.<br><br> e.g. "The SpO~2~ is 93% with an FiO~2~ of 50% - there is evidence of a raised A-a gradient". <br><br>Or, "The patient is in AF, I note the heparin infusion and wonder if this is the sole indication for anticoagulation."
+Information from the monitor, ventilator, and medications should be integrated.\
+\
+e.g. "The SpO~2~ is 93% with an FiO~2~ of 50% - there is evidence of a raised A-a gradient".\
+\
+Or, "The patient is in AF, I note the heparin infusion and wonder if this is the sole indication for anticoagulation."
 :::
 
 * **Monitor**
@@ -66,3 +70,5 @@ Information from the monitor, ventilator, and medications should be integrated.<
 	* Urethral catheters
 	* Surgical wounds
 		* Ex-fix
+
+---
