@@ -20,7 +20,7 @@ Primary risk factor is rate and amount of irrigation fluid absorption:
 
 * Volume absorbed is directly proportional to degree of hyponatraemia\
 **~10mmol/L** fall **for each 1L of irrigation fluid absorbed**; though this will vary depending on lean body weight.
-* Factors influencing rate of absoprtion:
+* Factors influencing rate of absorption:
 	* Operating time\
 	⩾1 hour.
 	* Low venous pressure\
@@ -41,7 +41,7 @@ Due to systemic absorption of hypertonic irrigation fluid:
 	220mOsmol/kg.
 	* Sorbitol 3%
 	* Mannitol 5%
-* Used as a nonconductive irrigation fluid in percutaneous procedures using **unipolar** diathermy
+* Used as a non-conductive irrigation fluid in percutaneous procedures using **unipolar** diathermy
 	* Use is rarer now that bipolar diathermy more common\
 	Though large fluid shifts still occur due to absorption irrigation fluid.
 	* Procedures include

@@ -108,13 +108,16 @@ Use of gastric residual volumes (like most of ICU nutrition) to determine EN tol
 Liquid nutrition delivered directly into the digestive tract. Administration of EN is:
 
 * Associated with no overall change in mortality
-* Benefits
+* Benefits:
+	* Cheaper
+	* Simpler
 	* Overall ↓ infection\
 	Including pneumonia.
 	* Possibly ↑ immune function
-* Risks include:
+* Risks:
 	* Sinusitis\
-	From NGT.
+	From NGT; not a risk for OGT.
+	* Sinus trauma nad epistaxis
 	* VAP\
 	Microaspiration.
 	* GI injury
@@ -148,32 +151,42 @@ The GRV is only useful with wide-bore NGTs, not fine-bore or jejunal tubes as th
 
 ### Equipment
 
-* Wide-bore NGT\
-Preferentially placed orogastrically in the intubated patient.
-* Fine-bore NGT\
+Feeding tube:
+
+* **Wide-bore gastric tube**
+	* NGT
+	* OGT\
+	Preferential in the intubated patient.
+* **Fine-bore NGT**\
 	* Cannot be used for suctioning
 	* May be blocked
 	* Better tolerated in the awake patient\
 	Comfort, improved swallow.
 	* Aspiration risk\
 	Multiple reports of inadvertent tracheal placement.
-* Post-pyloric feeding\
-	* Indicated in small subsets
+* **Nasojejunal tube**
+	* Post-pyloric feeding useful with persistent ↓ gastric emptying
 	* Difficult to place\
 	May require endoscopy.
+* **PEG/PEJ**\
+Appropriate if long-term feeding required.
 
 
 ### Formulations
 
-* Different feed preparations vary the concentration of:
-	* Calories
-		* Fat
-		* Carbohydrate\
-		↓ Glucose content may ↓ **insulin resistance**
-	* Protein
-	* Osmolality\
-	↑ **Diarrhoea** with ↑ osmolality. Consider switching to a lower concentration feed if the volume state permits.
-* Practically, there is little evidence of benefit with disease-specific combinations
+Different feed preparations vary the:
+
+:::column-margin
+Practically, there is little evidence of benefit with disease-specific combinations.
+:::
+
+* Calories
+	* Fat
+	* Carbohydrate\
+	↓ Glucose content may ↓ **insulin resistance**
+* Protein
+* Osmolality\
+↑ **Diarrhoea** with ↑ osmolality. Consider switching to a lower concentration feed if the volume state permits.
 
 
 ## Parenteral Nutrition
@@ -181,7 +194,7 @@ Preferentially placed orogastrically in the intubated patient.
 Nutrition given intravenously. PN is used when EN is either contraindicated or has failed, as it is inferior to EN. Key differences include:
 
 :::column-margin
-Total Parenteral Nutrition refers to the entirety of a patients nutritional needs being met with TPN, as opposed to top-up PN when EN alone is ineffective.
+Total Parenteral Nutrition refers to the entirety of a patients nutritional needs being met with TPN, as opposed to top-up PN when EN alone is insufficient.
 :::
 
 * Requires central venous access
@@ -190,19 +203,44 @@ Total Parenteral Nutrition refers to the entirety of a patients nutritional need
 * ↑ Volume load\
 1-2L/day.
 * Electrolyte derangements
-	* Metabolic Acidosis\
-	Amino acids.
+	* NAGMA
 	* Risk of refeeding syndrome
-* Lipid load\
+* Lipid load
 	* Hypertriglyceridaemia
 	* Immunosuppression
 * ↑ BSL
 * ↓ Intestinal function\
 Monitor LFTs for:
+	* Hepatic steatosis
 	* Cholestasis
 	* Acalculous cholecystitis
 * More expensive
 
+
+### Formulations
+
+Different feed preparations vary the:
+
+:::column-margin
+Thiamine, folic acid, and vitamin K are poorly supplemented by standard TPN.
+:::
+
+* Calories
+	* Fat
+		* Typically soybean oil with glycerol and egg phosphatides
+		* Often 30-40% of non-protein energy
+		* Some amount required to provide essential fatty acids
+		* ↑ Fat ↓ the total volume of TPN required
+	* Glucose
+		* Preferred carbohydrate
+		* \>4mg/kg/min may exceed metabolic capacity and lead to ↑ BSL
+		* Additional insulin is usually required
+	* Nitrogen\
+		* Preparation-specific
+		* Glutamine, tyrosine, and cysteine are often absent due to instability in solution
+		* Typically bonded with chlorine, which may lead to NAGMA
+* Micronutrients
+* Electrolytes
 
 ## An Approach
 
@@ -215,6 +253,26 @@ Principles:
 * Early (<48 hours) enteral nutrition
 * Early dietician involvement
 
+
+### Disease-Specific Considerations
+
+Approach is largely disease-independent, although specific considerations include:
+
+* Chronic liver disease
+	* No change in energy requirements
+	* Thiamine deficiency
+	* Fat-soluble vitamin deficiency
+* Pancreatitis
+	* Favour EN feeding if available
+* Obesity\
+	* Expert recommendation for:
+		* 11-14kcal/kg actual body weight
+		* 1.2g/kg/day protein
+	* Bariatric surgery patients at risk of micronutrient deficiency
+
+:::column-margin
+Oxidation of fat produces less CO~2~ than oxidation of glucose for an equivalent amount of ATP produced. Use of lipid-dominant, low-respiratory quotient feed in the respiratory cripple does appear to ↓ minute ventilation requirements, but despite this does not appear to significantly affect ventilator time.
+:::
 
 ### Assessment
 
@@ -345,8 +403,33 @@ Approach:
 * Commence PN at 80% of target if EN contraindicated or insufficient after 7 days\
 If EN insufficient, make up remainder of requirement with PN.
 * Use a dedicated CVC lumen
-* Ensure adequate supplementation of trace elements, vitamins, and micronutrients
 * Reassess enteral feeding Q12H
+
+
+### Micronutrients
+
+Ensure adequate supplementation of:
+
+* Vitamins:
+	* Fat soluble:
+		* Vitamin A
+		* Vitamin E
+		* Vitamin K
+	* Water soluble:\
+	Cleared in RRT.
+		* Thiamine (B1)
+		* Riboflavin (B2)
+		* Niacin (B3)
+		* Pyridoxine (B6)
+		* Vitamin C
+* Trace elements\
+Particularly in burns patients.
+	* Selenium
+	* Zinc
+	* Manganese
+	* Copper
+
+
 
 ## Key Studies
 
@@ -363,3 +446,4 @@ If EN insufficient, make up remainder of requirement with PN.
 
 1. Lambell, Kate J., Oana A. Tatucu-Babet, Lee-anne Chapple, Dashiell Gantner, and Emma J. Ridley. [Nutrition Therapy in Critical Illness: A Review of the Literature for Clinicians](https://ccforum.biomedcentral.com/articles/10.1186/s13054-020-2739-4). Critical Care 24, no. 1 (4 February 2020): 35. https://doi.org/10.1186/s13054-020-2739-4.
 2. Gao X, Liu Y, Zhang L, et al. [Effect of Early vs Late Supplemental Parenteral Nutrition in Patients Undergoing Abdominal Surgery: A Randomized Clinical Trial](https://jamanetwork.com/journals/jamasurgery/fullarticle/2790269). JAMA Surgery. 2022;157(5):384-393. doi:10.1001/jamasurg.2022.0269
+3. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
