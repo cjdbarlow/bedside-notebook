@@ -25,13 +25,11 @@ Testing and diagnosis of brain death is covered under @sec-braindeath.
 ## Assessing Level of Consciousness
 
 :::info
-Principles of GCS assessment:
-
 * A rigorous approach improves reproducibility and reliability
-* Score is the sum of the **best** result in any limb
+* GCS score is the sum of the **best** result in any limb
 :::
 
-In a patient with an unclear level of consciousness, assess GCS by:
+In a patient with an unclear level of consciousness:
 
 :::column-margin
 Vertical eye movements (but not always lateral) are preserved in locked-in syndrome.\
@@ -84,8 +82,8 @@ Normal is 2-5mm. Pupil size suggests aetiology of the lesion:
 
 Detailed assessment:
 
-* Papilloedema\
-Suggests raised ICP; may not be present (especially acutely).
+* **Papilloedema**\
+Presence suggests ↑ ICP, though this may not be present (especially acutely).
 
 
 ## Respiratory Patterns
@@ -122,8 +120,10 @@ Assessing respiratory pattern in the intubated patient requires some desedation 
 \
 * **Corneal reflex**\
 Tests V~1~, III (eye movement) and VII (blink).
-    * A drop of saline or wisp of cotton should be applied to the cornea\
-    Patient should not see the or hear the stimulus, otherwise this will not test V~1~.
+    * Wisp of cotton of gauze should be applied to the *cornea*
+        * *Not* the conjunctiva\
+        Saline should not be used due to the imprecision of the stimulus.
+        * Patient should not see the or hear the stimulus, otherwise this will not isolate V~1~.
     * Reflex is present if they blink or look upwards\
 \
 * **Occulo-cephalic reflex**\
@@ -316,10 +316,14 @@ The **deep tendon reflexes** are:
 * Plantar response\
 Sensitive test for the presence of an UMN lesion in the corticospinal tract.
     * Lateral side of foot is rubbed with a blunt instrument
-    * Flexion of the toes is a normal response
+    * Flexion of the toes is a normal (negative) response
     * Extension of the hallux with fanning of the toes is a positive Babinski sign\
     Present as a primitive reflex in infants up to 12 months of age.
-
+* Hoffman Reflex\
+Sensitive test for UMN lesion in the cervical spine.
+    * DIP joint of the 3^rd^ digit is stabilised and the fingertip is flicked
+    * Opposition of the thumb and forefinger is a positive response
+    
 
 ## Peripheral Sensory Exam
 

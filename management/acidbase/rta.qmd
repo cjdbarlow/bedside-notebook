@@ -1,0 +1,148 @@
+# Renal Tubular Acidosis {#sec-rta}
+
+**Hyperchloraemic acidosis** secondary to renal tubular disease that:
+
+:::column-margin
+:::tick
+Functionally:
+
+* **Type 2 is** the effect of **acetazolamide**, creating an alkaline diuresis
+* **Type 3 is** the effect of **hypoaldosteronism**, causing ↓ Na^+^ reabsorption and H^+^ and K^+^ retention
+:::
+:::
+
+* Are **characterised** by **impaired renal acid clearance**\
+Inappropriately high urinary pH.
+	* HCO~3~^-^ elimination is inappropriately ↑
+	* Cl^-^ reabsorption is inappropriately ↑\
+	To maintain electroneutrality.
+* May only become **apparent** in **presence** of an **acid load**\
+Incomplete disease may leave enough reserve to clear normal daily acid production.
+* Are subclassified by mechanism into:
+	* **Type 1**\
+	↓ H^+^ secretion in the DCT.
+		* *May* have ↓ HCO~3~^-^ reabsorption in the PCT\
+		If reabsorption is intact, the requirement for alkali supplementation is significantly ↓.
+		* Causes failure to maximally acidify urine
+	* **Type 2**\
+	Isolated ↓ HCO~3~^-^ reabsorption in the PCT.
+		* DCT is able to secrete ammonia, which limits the degree of acidaemia and alkaluria
+	* **Type 4**\
+	↓ H^+^ and K^+^ clearance in the DCT.
+
+:::column-margin
+Type 3 RTA was initially defined as both type 1 (↓ DCT H^+^ secretion) and type 2 (↓ PCT HCO~3~^-^ reabsorption), but has been merged into a subtype of type 1.
+:::
+
+
+## Pathophysiology
+
+**Type 1**:
+
+:::column-margin
+RTA are different from the acidosis that occurs in renal failure as:
+
+* The pathology is in the tubule, rather than the glomerulus
+	* GFR may be normal
+* There is a NAGMA, rather than a HAGMA
+:::
+
+* Impaired H^+^ ATPase\
+Failure to ↑ activity in response to ↓ blood pH.
+* Destruction of H^+^ pump
+* Destruction of tubular membrane\
+Allows equilibration of HCO~3~^-^ and Cl^-^.
+
+
+**Type 2**:
+
+* Impaired HCO~3~^-^ reabsorption in PCT
+* ↑ Cl^-^ reabsorption to maintain electroneutrality
+
+
+**Type 4**:
+
+* ↓ Na^+^ reabsorption causes ↓ K^+^ elimination
+* ↑ K^+^ causes ↓ ammonia elimination\
+The mechanism of this is somewhat complex. Normally:
+	* Ammonia is normally excreted in the PCT
+	* Ammonia is then absorbed in the thick ascending limb\
+	This:
+		* Concentrates ammonia in the renal medulla, aiding the counter-current multiplier
+		* Is the step interfered with by hyperkalaemia
+	* Concentrated ammonia is then excreted into the medullary collecting ducts
+* ↓ Ammonia elimination results in ↑ Cl^-^ reabsorption
+
+
+## Clinical Features
+
+: Comparison of Renal Tubular Acidoses
+
++----------------------+---------------------------------------------+-----------------------------------------------------------------------+-----------------------------------------+
+| Feature              | Type 1                                      | Type 2                                                                | Type 4                                  |
++======================+=============================================+=======================================================================+=========================================+
+| **Plasma HCO~3~^-^** | <15mmol/L\                                  | Usually >15mmol/L                                                     |                                         |
+|                      | Severe acidosis.                            |                                                                       |                                         |
++----------------------+---------------------------------------------+-----------------------------------------------------------------------+-----------------------------------------+
+| **Urinary pH**       | **>5.5**\                                   | Generally >5.5                                                        | <5.5                                    |
+|                      | Inappropriately high, despite ↓ plasma pH.  | Can achieve <5.5 under acid load                                      |                                         |
++----------------------+---------------------------------------------+-----------------------------------------------------------------------+-----------------------------------------+
+| **Plasma K^+^**      | Low                                         | Low-normal                                                            | High                                    |
++----------------------+---------------------------------------------+-----------------------------------------------------------------------+-----------------------------------------+
+| **Unique Features**  | * **Positive urinary AG**\                  | * **Negative urinary AG**\                                            | **Hyperkalaemia**                       |
+|                      | Indicates failure to ↑ ammonia elimination. | Ammonia elimination intact.                                           |                                         |
+|                      | * **Intact HCO~3~^-^ reabsorption**\        | * **Failure of HCO~3~^-^ reabsorption**\                              |                                         |
+|                      | Following a HCO~3~^-^ bolus:                | ↑ Urinary pH following a HCO~3~^-^ bolus in the setting of acidaemia. |                                         |
+|                      |     * Blood pH ↑                            |                                                                       |                                         |
+|                      |     * Urinary pH unchanged                  |                                                                       |                                         |
++----------------------+---------------------------------------------+-----------------------------------------------------------------------+-----------------------------------------+
+| **Causes**           | * Genetic                                   | * Genetic                                                             | * Aldosterone deficiency                |
+|                      | * Autoimmune                                | * Vitamin D deficiency                                                |     * Renin interruption:               |
+|                      | * Hypercalciuria:\                          | * **Amyloid**                                                         |         * A2RB                          |
+|                      | Stones damage DCT.                          | * Cystic kidney disease                                               |         * ACE-I                         |
+|                      |     * Hyperparathyoridism                   | * Heavy metals:                                                       |         * NSAIDs                        |
+|                      |     * Sarcoid                               |     * Lead                                                            |         * Heparin                       |
+|                      |     * Vitamin D intoxication                |     * Cadmium                                                         |     * Primary                           |
+|                      | * Drugs:                                    |     * Mercury                                                         |     * Critical illness                  |
+|                      |     * Amphotericin B                        |     * Copper                                                          |     * Calcineurin inhibitors            |
+|                      |     * Cyclosporin                           | * **Drugs**:                                                          | * Aldosterone antagonists               |
+|                      |     * Ifosphamide                           |     * Acetazolamide                                                   |     * Calcineurin inhibitors            |
+|                      |     * Toluene inhalation                    |     * Topiramate                                                      |     * Spironolactone                    |
+|                      |                                             |     * Tenofovir                                                       | * Aldosterone-sensitive channel failure |
+|                      |                                             |     * Aminoglycosides                                                 |     * Drugs                             |
+|                      |                                             |     * Ifosfamide                                                      |         * Amiloride                     |
+|                      |                                             |                                                                       |         * Pentamide                     |
+|                      |                                             |                                                                       |         * Trimethoprim                  |
+|                      |                                             |                                                                       |                                         |
++----------------------+---------------------------------------------+-----------------------------------------------------------------------+-----------------------------------------+
+
+
+
+## Management
+
+:::priority
+* Treat cause
+* Replace potassium
+* Alkali supplementation
+:::
+
+**Specific therapy**:
+
+* Pharmacological
+	* Alkali supplementation\
+	Citrate preferred to avoid precipitating renal stones.
+		* Type 1\
+		1-2mmol/kg/day of HCO~3~^-^.
+		* Type 2
+		10-20mmol/kg/day of HCO~3~^-^.
+			* Add thiazide\
+			Volume depletion ↑ Na^+^ reabsorption, ↑ SID, and ↓ acidosis.
+	* Fludrocortisone\
+	For Type 4.
+
+---
+
+## References
+
+1. Brandis, K. [Acid-base pHysilogy](http://www.anaesthesiamcq.com/AcidBaseBook/ABindex.php). 2015.
+2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

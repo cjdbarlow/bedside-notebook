@@ -15,49 +15,52 @@ Abnormal ↑ in blood fixed acid concentration. Metabolic acidoses are:
 
 : Causes of Metabolic Acidosis
 
-+--------------------------+------------------------------------+
-| High Anion Gap           | Normal Anion Gap                   |
-+==========================+====================================+
-| **Lactate**:             | **Renal base loss**:               |
-|                          |                                    |
-| * Type A\                | * Renal Tubular Acidosis           |
-| ↓ Perfusion.             |     * ↓ Aldosterone                |
-| * Type B\                |          * Cushings                |
-| Metabolic.               |          * Adrenal insufficiency   |
-| * D-lactate              |          * Addison's disease       |
-|                          |          * Aldosterone antagonists |
-|                          |    * Toluene                       |
-|                          |                                    |
-|                          |                                    |
-|                          | * Carbonic anhydrase inhibitors    |
-+--------------------------+                                    |
-| **Toxins**:              |                                    |
-|                          |                                    |
-| * Citrate                |                                    |
-| * Alcohols               |                                    |
-|      * Methanol          |                                    |
-|      * Ethylene glycol   |                                    |
-| * Salicylates            |                                    |
-| * Pyroglutamic           |                                    |
-| * Iron                   |                                    |
-+--------------------------+------------------------------------+
-| **Ketoacidosis**:        | **GIT base loss**:                 |
-|                          |                                    |
-| * Diabetic               | * Secretion drainage               |
-| * Alcoholic              |     * Pancreatic                   |
-| * Starvation             |     * Biliary                      |
-|                          | * Small bowel fistula              |
-|                          | * Diarrhoea                        |
-+--------------------------+------------------------------------+
-| **Renal**:               | **Mineral acid gain**:             |
-|                          |                                    |
-| * Uraemic                | * Chloride gain                    |
-| * AKI                    |     * TPN\                         |
-|     * Organic anions     |     Hyperalimentation.             |
-|         * Sulphate       |                                    |
-|         * Hippurate      |                                    |
-|     * Phosphate          |                                    |
-+--------------------------+------------------------------------+
++--------------------------------------------------------------------------------+------------------------------------+
+| High Anion Gap                                                                 | Normal Anion Gap                   |
++================================================================================+====================================+
+| **Lactate**:                                                                   | **Renal base loss**:               |
+|                                                                                |                                    |
+| * Type A\                                                                      | * Renal Tubular Acidosis           |
+| ↓ Perfusion.                                                                   |     * ↓ Aldosterone                |
+| * Type B\                                                                      |          * Cushings                |
+| Metabolic.                                                                     |          * Adrenal insufficiency   |
+| * D-lactate                                                                    |          * Addison's disease       |
+|                                                                                |          * Aldosterone antagonists |
+|                                                                                |    * Toluene                       |
+|                                                                                |                                    |
+|                                                                                |                                    |
+|                                                                                | * Carbonic anhydrase inhibitors    |
++--------------------------------------------------------------------------------+                                    |
+| **Toxins**:                                                                    |                                    |
+|                                                                                |                                    |
+| * Citrate                                                                      |                                    |
+| * Alcohols                                                                     |                                    |
+|      * Methanol                                                                |                                    |
+|      * Ethylene glycol                                                         |                                    |
+| * Salicylates                                                                  |                                    |
+| * Pyroglutamic                                                                 |                                    |
+| * Iron                                                                         |                                    |
++--------------------------------------------------------------------------------+------------------------------------+
+| **Ketoacidosis**:                                                              | **GIT base loss**:                 |
+|                                                                                |                                    |
+| * Diabetic                                                                     | * Secretion drainage               |
+| * Alcoholic                                                                    |     * Pancreatic                   |
+| * Starvation                                                                   |     * Biliary                      |
+|                                                                                | * Small bowel fistula              |
+|                                                                                | * Diarrhoea                        |
++--------------------------------------------------------------------------------+------------------------------------+
+| **Renal**:                                                                     | **Mineral acid gain**:             |
+|                                                                                |                                    |
+| * Due to failure to excrete organic anions:                                    | * Chloride gain                    |
+|     * Sulphate                                                                 |     * TPN\                         |
+|     * Hippurate                                                                |     Hyperalimentation.             |
+|     * Phosphate                                                                |                                    |
+|                                                                                |                                    |
+| * Uraemic acidosis occurs in CKD\                                              |                                    |
+| Severe acidosis typically demands GFR <20ml/min.                               |                                    |
+| * AKI has a more variable acidosis\                                            |                                    |
+| Hyperkalaemia is typically the determinant of dialysis, rather than acidosis.  |                                    |
++--------------------------------------------------------------------------------+------------------------------------+
 
 
 ## Pathophysiology

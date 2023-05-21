@@ -117,54 +117,33 @@ Non-invasive measurement of cerebral oxygen saturation. Not validated in neurolo
 
 ## Management {#sec-icp_mx}
 
-Control of ICP:
+Broadly divided into **three tiers**:
 
 :::column-margin
-The principle of flow-metabolism coupling states that CBF is directly proportional to CMRO~2~. Sedation ↓ CMRO~2~, resulting in a ↓ in CBF, cerebral blood volume, and ICP.
+Although evidence exists for these therapies in isolation, there is little evidence demonstrating effect of any combination or process. However, they are commonly arranged into tiers based on invasiveness and side-effect profile to provide a framework treatment and escalation.
 :::
 
-* Relies on ↓ the volume of intracranial contents, namely blood, brain, and CSF
-* Involves **three tiers** of management\
-	* **First Tier**:\
-		* Avoid hypoxia\
-		Target SpO~2~ >95%.
-			* Supplemental oxygen as first line 
-			* PEEP\
-			Concern about ↑ ICP due to ↑ CVP, however adequate oxygenation takes priority.
-		* 30° head-up **positioning**\
-		↓ Venous pressure.
-		* **Sedation** and analgesia
-			* Benzodiazepine
-			* Opioid
-		* **Remove** hard cervical spine **collar**\
-		If present.
-		* **CO~2~ control**\
-		Tight control aiming PaCO~2~ of 35-40mmHg.
-		* **Normothermia**\
-		Target 36.5°C - 37.5°C.
-		* **Neuromuscular blockade**
-		* **Drain CSF**\
-			* Set at **10mmHg** with EVD
-			* Should be vented continuously, not intermittently
-	* **Second Tier**:
-		* **Osmotherapy** ↓ cerebral oedema:
-			* Mannitol 0.25-1g/kg
-				* Creates an osmolar gap
-				* Enters brain via damaged BBB, which may result in local ↑ ICP
-			* Hypertonic saline\
-			3mmol ↑ in osmolality ↓ cerebral volume by **~7%**.
-				* 5-10mL 23.4%
-	* **Third Tier**:
-		* **Thiopentone** coma\
-			* Profound ↓ CMRO~2~
-			* Long half-life\
-			Delays further neuro-prognostication.
-		* Aggressive **hyperventilation**
-			* Hyperventilation to hypocarbia does ↓ CO~2~ and ↓ ICP, but leads to cerebral vasoconstriction and ↓ CBF
-			* Has a role for short term control of ↑ ICP prior to some definitive therapy\
-			e.g. the patient who blows a pupil during transfer to the OR.
-			* Should be **avoided** during **first 24 hours** of a TBI, as CBF is critically ↓ over this period
-		* Decompressive craniectomy
+* **Tier 1**\
+	* **Sedation** and **analgesia** to ↓ ICP
+		* Benzodiazepine
+		* Opioid
+	* Maintain **CPP 60-70mmHg**
+		* Fluid boluses, avoiding hypervolaemia
+		* Vasopressors
+	* Low-normal **CO~2~**\
+	Tight control aiming PaCO~2~ of 35-38mmHg.
+	* **Osmotherapy** ↓ cerebral oedema:
+		* Mannitol 0.25-1g/kg
+			* Creates an osmolar gap
+			* Enters brain via damaged BBB, which may result in local ↑ ICP
+		* Hypertonic saline\
+		3mmol ↑ in osmolality ↓ cerebral volume by **~7%**.
+			* 5-10mL 23.4%
+	* **Drain CSF**
+		* Consider EVD if only parenchymal probe is placed
+		* Set at **10mmHg** with EVD
+		* Should be vented continuously, not intermittently
+	* Consider seizure prophylaxis
 
 :::column-margin
 There is no evidence supporting mannitol or hypertonic saline over the other, however I prefer hypertonic saline due to:
@@ -172,6 +151,62 @@ There is no evidence supporting mannitol or hypertonic saline over the other, ho
 * Repeatability
 * Preservation of osmolar gap
 :::
+
+* **Tier 2**:
+	* **Neuromuscular blockade**\
+	Trial paralysis - if effective, produce with continuous infusion.
+		* **Remove** hard cervical spine **collar**\
+		If present.
+	* Mild ↓ **CO~2~**\
+	Tight control aiming PaCO~2~ of 32-35mmHg. Caution should be used if brain tissue oxygenation mointoring is not available.
+	* Consider MAP challenge
+
+:::column-margin
+At each stage, reconsider the:
+
+* Need for surgical intervention for potentially correctable lesions
+* Effect of extracranial causes for ↑ ICP
+:::
+
+* **Tier 3**:
+	* **Thiopentone** coma\
+		* Profound ↓ CMRO~2~
+		* Long half-life\
+		Delays further neuro-prognostication.
+		* EEG monitoring recommended to avoid titrating past burst suppression
+	* **Secondary decompressive craniectomy**
+	* Aggressive **hyperventilation**
+		* Hyperventilation to hypocarbia does ↓ CO~2~ and ↓ ICP, but leads to cerebral vasoconstriction and ↓ CBF
+		* Has a role for short term control of ↑ ICP prior to some definitive therapy, or in response to tonsilar herniation\
+		e.g. the patient who blows a pupil during transfer to the OR.
+		* Should be **avoided** during **first 24 hours** of a TBI, as CBF is critically ↓ over this period
+
+
+### MAP Challenge
+
+**Principles**:
+
+* Tests whether patients intrinsic CPP requirement is higher than the standard 60-70mmHg
+* Success requires both:
+	* Intact cerebral static pressure autoregulation
+	* Current CPP < lower breakpoint of static pressure autoregulation
+* Cerebral autoregulation may not be stable and so regular revaluation is required
+
+**Practice**:
+
+* Pharmacologically **↑ MAP** by **10mmHg for** up to 20 minutes
+* Observe the change in:
+	* MAP
+	* ICP
+	* CPP
+	* P~bt~O~2~
+* A **successful** MAP **challenge**:
+	* Results in a **↓ ICP for an ↑ CPP** and MAP
+	* Occurs because intact autoregulation causes vasoconstriction in response to ↑ CPP, and therefore ↓ cerebral blood volume
+* An unsuccessful MAP challenge:
+	* Results in ↑ ICP as cerebral blood volume ↑ in absence of functioning autoregulation
+* Adjust blood pressure targets accordingly
+
 
 ## Complications
 
@@ -188,3 +223,4 @@ There is no evidence supporting mannitol or hypertonic saline over the other, ho
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
 3. Hawryluk GWJ, Rubiano AM, Totten AM, et al. [Guidelines for the Management of Severe Traumatic Brain Injury: 2020 Update of the Decompressive Craniectomy Recommendations](www.doi.org/10.1093/neuros/nyaa278). Neurosurgery. 2020;87(3):427-434.
 4. Carney N, Totten AM, OʼReilly C, et al. [Guidelines for the Management of Severe Traumatic Brain Injury, Fourth Edition: Neurosurgery](www.doi.org/10.1227/NEU.0000000000001432). Published online September 2016:1.
+5. Hawryluk GWJ, Aguilera S, Buki A, et al. [A management algorithm for patients with intracranial pressure monitoring: the Seattle International Severe Traumatic Brain Injury Consensus Conference (SIBICC)](https://link.springer.com/article/10.1007/s00134-019-05900-x). Intensive Care Med. 2019;45(12):1783-1794. doi:10.1007/s00134-019-05805-9

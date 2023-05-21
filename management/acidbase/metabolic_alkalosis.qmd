@@ -1,32 +1,73 @@
 # Metabolic Alkalosis {#sec-metalk}
 
+Abnormal ↑ in plasma bicarbonate. Sustained metabolic alkalosis requires both a process for:
+
+:::column-margin
+A maintenance process is required because renal bicarbonate excretion is highly efficient, such that a transient alkali load (e.g. an IV bolus of bicarbonate) will result in a rapid ↑ in urinary bicarbonate excretion and restoration of normal plasma pH.\
+\
+This is the therapeutic mechanism behind urinary alkalinisation for salicylate overdose.
+:::
+
+* **Initiation**
+	* Alkali gain
+		* Exogenous\
+		e.g. Bicarbonate, citrate, RRT.
+		* Endogenous\
+		e.g. Ketones.
+	* Acid loss
+		* Renal\
+		e.g. Diuretics.
+		* Gut\
+		e.g. Vomiting.
+* **Maintenance**
+	* **Hypochloraemia**\
+	Results in ↑ bicarbonate reabsorption despite alkalosis, in order to maintain electroneutrality.
+	* Hypokalaemia\
+	Less common and typically milder than chloride depletion.
+
 ## Aetiology
 
-Causes:
+: Causes of Metabolic Alkalosis
 
-* Loss of low SID fluid
-	* Urinary
-		* Diuretics
-		* Corticosteroids
-		* Aldosterone excess
-			* Cushing
-			* Mineralocorticoid
-		* Licorice
-		* Hypercalcaemia
-		* Milk alkali syndrome
-		* Mg deficiency
-		* Gitelman syndrome
-		* Bartter syndrome
-	* Enteric
-		* Vomiting
-			* Pyloric stenosis
-			* NG suction
-		* Laxative abuse
-* Gain of high SIDE fluid
-	* Bicarb
-	* Sodium citrate
-	* High SID RRT
-	* Milk alkali
++--------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------+
+| Acid Loss                                                                                  | Alkali Gain                                                                                                              |
++============================================================================================+==========================================================================================================================+
+| **Urinary**:                                                                               | **Exogenous**:                                                                                                           |
+|                                                                                            |                                                                                                                          |
+| * Diuretics\                                                                               | * Iatrogenic                                                                                                             |
+| Loop and thiazide diuretics ↓ chloride reabsorption.                                       |     * Sodium bicarbonate                                                                                                 |
+|     * Licorice (glycyrrhizin)\                                                             |     * β-lactams                                                                                                          |
+| * Mineralocorticoid effects\                                                               |     * Sodium citrate\                                                                                                    |
+| ↑ Na^+^ reabsorption in exchange for K^+^ and H^+^.                                        |         * Blood                                                                                                          |
+|     * Severe hypokalaemia                                                                  |         * RRT anticoagulation                                                                                            |
+|         * Hypomagnesaemia\                                                                 |     * High SID RRT                                                                                                       |
+|         Magnesium is reabsorbed in exchange for potassium, which prolongs ↓ K^+^.          | * Milk alkali syndrome\                                                                                                  |
+|     * Corticosteroids                                                                      | Consumption of vast quantities of calcium and alkali, leading to alkalosis:                                              |
+|     * Cushing's syndrome                                                                   |     * Directly, from the alkali.                                                                                         |
+|     * Primary hyperaldosteronism                                                           |     From the alkali.                                                                                                     |
+|     * Bartter's syndrome\                                                                  |     * Indirectly\                                                                                                        |
+|     Hyperplasia of the juxtaglomerular apparatus, ↑ renin and aldosterone secretion.       |     From the calcium, as the ↑ UO secondary to hypercalcaemia leads to hypovolaemia, ↓ GFR, and ↓ bicarbonate clearance. |
+|     Inhibits conversion of cortisol to cortisone, which has a mineralocorticoid effect.\   |                                                                                                                          |
+| \                                                                                          |                                                                                                                          |
+| * Gitelman syndrome\                                                                       |                                                                                                                          |
+| Autosomal recessive disease causing renal potassium and magnesium wasting.                 |                                                                                                                          |
++--------------------------------------------------------------------------------------------+                                                                                                                          |
+| **Enteric**:                                                                               |                                                                                                                          |
+|                                                                                            |                                                                                                                          |
+| * Vomiting                                                                                 |                                                                                                                          |
+|     * Pyloric stenosis                                                                     |                                                                                                                          |
+|     * NG suction                                                                           |                                                                                                                          |
+| * Laxative abuse                                                                           |                                                                                                                          |
++--------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------+
+
+:::column-margin
+Mineralocorticoid excess also ↑ HCO~3~^-^ loss equivalent to the ↑ H^+^ load.
+:::
+
+:::column-margin
+Milk alkali syndrome is mostly a relic when of a bygone age, when milk and cream was cutting-edge therapy for peptic ulcers.
+:::
+
 
 ## Pathophysiology
 
@@ -51,13 +92,29 @@ Adverse effects of metabolic acidosis include:
 
 ## Management
 
-* Volume resuscitation with low SID fluid
-* Acetazolamide
-* IV HCl
-* RRT
+Specific therapy:
 
+:::column-margin
+Normal saline has a number of mechanisms of action:
 
+* Diluting ECF with a low SID fluid\
+* Reversing volume depletion\
+↓ Renal sodium reabsorption, which ↑ SID and causes contraction alkalosis.
+* Provides chloride\
+Reabsorbed in preference for bicarbonate, aiding renal bicarbonate elimination.
+:::
 
+* Pharmacological:
+	* **Chloride volume resuscitation**
+	* Correct **hypokalaemia**
+	* Correct **hypoalbuminaemia**
+	* **Acetazolamide**
+* Physical
+	* **RRT**
+
+:::column-margin
+Hydrochloric acid infusions are also described for metabolic alkalosis refractory to more pedestrian therapies.
+:::
 
 ---
 
@@ -65,3 +122,4 @@ Adverse effects of metabolic acidosis include:
 
 1. Brandis, K. [Acid-base pHysilogy](http://www.anaesthesiamcq.com/AcidBaseBook/ABindex.php). 2015.
 2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+3. Medarov BI. Milk-Alkali Syndrome. Mayo Clinic Proceedings. 2009;84(3):261.

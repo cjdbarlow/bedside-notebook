@@ -1,15 +1,26 @@
 # Stroke
 
-Sudden onset of a constellation of neurological deficits secondary to a vascular event. Stroke symptoms are:
+Sudden onset of a constellation of neurological deficits secondary to a vascular event. Stroke:
 
-* **Focal** (usually)
-* **Negative**\
-i.e. Loss of usual function, rather than the presence of a new dysfunction.
-* **Maximal** at **onset**
-* Without precipitating event
+:::column-margin
+Haemorrhagic stroke is covered under @sec-ich.
+:::
 
-
-Stroke is subdivided by cause into:
+* Symptoms are:
+	* **Focal** (usually)
+	* **Negative**\
+	i.e. Loss of usual function, rather than the presence of a new dysfunction.
+	* **Maximal** at **onset**
+	* Without precipitating event
+* Subdivided by cause into:
+	* **Ischaemic** (85%)\
+	Related to:
+		* Thrombosis
+		* Embolism
+		* Hypoperfusion
+	* **Haemorrhagic** (15%)\
+		* Intracerebral
+		* Subarachnoid
 
 :::column-margin
 Stroke is distinguished from TIA by resolution and radiological findings. A TIA is a clinical syndrome with:
@@ -19,18 +30,6 @@ Stroke is distinguished from TIA by resolution and radiological findings. A TIA 
 * Resolution over 24 hours
 :::
 
-* **Ischaemic** (85%)\
-Related to:
-	* Thrombosis
-	* Embolism
-	* Hypoperfusion
-* **Haemorrhagic** (15%)\
-	* Intracerebral
-	* Subarachnoid
-
-:::column-margin
-Haemorrhagic stroke is covered under @sec-ich.
-:::
 
 ## Epidemiology and Risk
 
@@ -176,63 +175,71 @@ Stroke symptoms include:
 
 ### Stroke Syndromes
 
-:::info
-This is an abbreviated list. [Smarter people than I](https://derangedphysiology.com/main/required-reading/neurology-and-neurosurgery/Chapter%201501/classical-stroke-syndromes) have compiled more complete ones.
-:::
+### Anterior Circulation
 
-+-----------------+---------------------------------------------------------------+-------------------------------------------+--------------------------------+
-| Vessel/Region   | Bilateral                                                     | Dominant Hemisphere                       | Non-dominant Hemisphere        |
-+=================+===============================================================+===========================================+================================+
-| ACA             | * Contralateral **leg** weakness/numbness                     | Transcortical Motor Aphasia:              | * Confusion                    |
-|                 | * Executive dysfunction                                       |                                           | * Contralateral hemineglect    |
-|                 |                                                               | * Word finding difficulties               |                                |
-|                 |                                                               | * Halting speech                          |                                |
-|                 |                                                               | * Preserved repetition                    |                                |
-|                 |                                                               | * Preserved comprehension                 |                                |
-+-----------------+---------------------------------------------------------------+-------------------------------------------+--------------------------------+
-| MCA             | * Contralateral face and arm weakness\                        | * Aphasia                                 | * Contralateral hemineglect    |
-|                 | May have numbness.                                            | * Bilateral apraxia\                      | * Loss of insight into deficit |
-|                 | * Conjugate ipsilateral eye deviation                         | Loss of skilled movements.                | * Drowsiness                   |
-+-----------------+---------------------------------------------------------------+-------------------------------------------+--------------------------------+
-| PCA             | * Hemianopia/superior quadrantanopia                          | * Preservation of writing but not reading | * Inability to recognise faces |
-|                 | * Contralateral sensory loss                                  | * Difficulty naming objects               |                                |
-|                 | * ↓ Arousal                                                   | * Difficulty giving uses for objects      |                                |
-|                 | * Contralateral hemiplegia\                                   |                                           |                                |
-|                 | Uncommon.                                                     |                                           |                                |
-|                 | * Cortical blindness\                                         |                                           |                                |
-|                 | May be unrecognised by the patient, leading to confabulation. |                                           |                                |
-+-----------------+---------------------------------------------------------------+-------------------------------------------+--------------------------------+
-| Thalamic        | * Limbic disruption\                                          |                                           |                                |
-|                 | Disorientation, euphoria, apathy, other mood changes.         |                                           |                                |
-|                 | * ↓ Arousal                                                   |                                           |                                |
-|                 | * Hemibody sensory loss                                       |                                           |                                |
-|                 | * Ataxia                                                      |                                           |                                |
-|                 | * Aphasia                                                     |                                           |                                |
-+-----------------+---------------------------------------------------------------+-------------------------------------------+--------------------------------+
-| Lacunar         | No cortical defect and:                                       |                                           |                                |
-|                 |                                                               |                                           |                                |
-|                 | * Hemiparesis                                                 |                                           |                                |
-|                 | * Hemibody sensory loss (+/- paraesthesia)                    |                                           |                                |
-|                 | * Dysarthria                                                  |                                           |                                |
-+-----------------+---------------------------------------------------------------+-------------------------------------------+--------------------------------+
-| Vertebrobasilar | * ↓ GCS                                                       |                                           |                                |
-|                 | * Quadriplegia\                                               |                                           |                                |
-|                 | May be "crossed", e.g. left face/right limbs.                 |                                           |                                |
-|                 | * Gaze palsy                                                  |                                           |                                |
-|                 | * Bulbar/pseudobulbar palsy                                   |                                           |                                |
-|                 | * Pupil abnormalities (dilated through to pinprick)           |                                           |                                |
-|                 | * Locked-in syndrome                                          |                                           |                                |
-|                 | * Amnesia                                                     |                                           |                                |
-|                 | * Hallucinations                                              |                                           |                                |
-+-----------------+---------------------------------------------------------------+-------------------------------------------+--------------------------------+
-| Cerebellar      | * Ipsilateral ataxia                                          |                                           |                                |
-|                 | * Vertigo\                                                    |                                           |                                |
-|                 | Nausea.                                                       |                                           |                                |
-|                 | * Nystagmus                                                   |                                           |                                |
-+-----------------+---------------------------------------------------------------+-------------------------------------------+--------------------------------+
+: Anterior Circulation Stroke Syndromes
+
++---------------+---------------------------------------------------------------+-------------------------------------------+--------------------------------+
+| Vessel/Region | Bilateral                                                     | Dominant Hemisphere                       | Non-Dominant Hemisphere        |
++===============+===============================================================+===========================================+================================+
+| ACA           | * Contralateral **leg** weakness/numbness                     | Transcortical Motor Aphasia:              | * Confusion                    |
+|               | * Executive dysfunction                                       |                                           | * Contralateral hemineglect    |
+|               |                                                               | * Word finding difficulties               |                                |
+|               |                                                               | * Halting speech                          |                                |
+|               |                                                               | * Preserved repetition                    |                                |
+|               |                                                               | * Preserved comprehension                 |                                |
++---------------+---------------------------------------------------------------+-------------------------------------------+--------------------------------+
+| MCA           | * Contralateral face and arm weakness\                        | * Aphasia                                 | * Contralateral hemineglect    |
+|               | May have numbness.                                            | * Bilateral apraxia\                      | * Loss of insight into deficit |
+|               | * Conjugate ipsilateral eye deviation                         | Loss of skilled movements.                | * Drowsiness                   |
++---------------+---------------------------------------------------------------+-------------------------------------------+--------------------------------+
+| PCA           | * Hemianopia/superior quadrantanopia                          | * Preservation of writing but not reading | * Inability to recognise faces |
+|               | * Contralateral sensory loss                                  | * Difficulty naming objects               |                                |
+|               | * ↓ Arousal                                                   | * Difficulty giving uses for objects      |                                |
+|               | * Contralateral hemiplegia\                                   |                                           |                                |
+|               | Uncommon.                                                     |                                           |                                |
+|               | * Cortical blindness\                                         |                                           |                                |
+|               | May be unrecognised by the patient, leading to confabulation. |                                           |                                |
++---------------+---------------------------------------------------------------+-------------------------------------------+--------------------------------+
 
 
-: Abbreviated Overview of Stroke Syndromes
+### Posterior Circulation
+
+: Posterior Circulation Stroke Syndromes
+
++-----------------+-------------------------------------------------------+---------------------+-------------------------+
+| Vessel/Region   | Bilateral                                             | Dominant Hemisphere | Non-Dominant Hemisphere |
++=================+=======================================================+=====================+=========================+
+| Thalamic        | * Limbic disruption\                                  |                     |                         |
+|                 | Disorientation, euphoria, apathy, other mood changes. |                     |                         |
+|                 | * ↓ Arousal                                           |                     |                         |
+|                 | * Hemibody sensory loss                               |                     |                         |
+|                 | * Ataxia                                              |                     |                         |
+|                 | * Aphasia                                             |                     |                         |
++-----------------+-------------------------------------------------------+---------------------+-------------------------+
+| Lacunar         | No cortical defect and:                               |                     |                         |
+|                 |                                                       |                     |                         |
+|                 | * Hemiparesis                                         |                     |                         |
+|                 | * Hemibody sensory loss (+/- paraesthesia)            |                     |                         |
+|                 | * Dysarthria                                          |                     |                         |
++-----------------+-------------------------------------------------------+---------------------+-------------------------+
+| Vertebrobasilar | * ↓ GCS                                               |                     |                         |
+|                 | * Quadriplegia\                                       |                     |                         |
+|                 | May be "crossed", e.g. left face/right limbs.         |                     |                         |
+|                 | * Gaze palsy                                          |                     |                         |
+|                 | * Bulbar/pseudobulbar palsy                           |                     |                         |
+|                 | * Pupil abnormalities (dilated through to pinprick)   |                     |                         |
+|                 | * Locked-in syndrome                                  |                     |                         |
+|                 | * Amnesia                                             |                     |                         |
+|                 | * Hallucinations                                      |                     |                         |
++-----------------+-------------------------------------------------------+---------------------+-------------------------+
+| Cerebellar      | * Ipsilateral ataxia                                  |                     |                         |
+|                 | * Vertigo\                                            |                     |                         |
+|                 | Nausea.                                               |                     |                         |
+|                 | * Nystagmus                                           |                     |                         |
++-----------------+-------------------------------------------------------+---------------------+-------------------------+
+
+
 
 
 ## Diagnostic Approach and DDx

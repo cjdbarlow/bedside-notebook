@@ -216,6 +216,8 @@ book:
               - management/acidbase/lactate.qmd
               - management/acidbase/toxic_acidoses.qmd
               - management/acidbase/ketones.qmd
+              - management/acidbase/rta.qmd
+              # Hyperchloraemic
               - part: <hr>              
               - management/acidbase/metabolic_alkalosis.qmd
             - part: "Electrolyte"
