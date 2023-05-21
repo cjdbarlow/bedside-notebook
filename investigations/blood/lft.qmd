@@ -33,7 +33,7 @@ Sum of all plasma proteins (not all hepatically synthesised), including: albumin
 | Pattern         | Presentation   | Causes                                  |
 +=================+================+=========================================+
 | **Cholestatic** | - ALP >200     |                                         |
-|                 | - ALP >3x AST  |                                         |
+|                 | - ALP >3× AST  |                                         |
 |                 |                | Hepatic:                                |
 |                 |                |                                         |
 |                 |                | - Cholestasis of pregnancy              |
@@ -51,7 +51,7 @@ Sum of all plasma proteins (not all hepatically synthesised), including: albumin
 |                 |                | - Pancreatitis                          |
 +-----------------+----------------+-----------------------------------------+
 | **Hepatitic**   | - ALT >200     |                                         |
-|                 | - ALT >3x ALP  |                                         |
+|                 | - ALT >3× ALP  |                                         |
 |                 |                | Circulatory:                            |
 |                 |                |                                         |
 |                 |                | - Right heart failure                   |

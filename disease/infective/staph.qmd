@@ -126,7 +126,7 @@ Should be performed if TTE is negative.
 		* Clindamycin
 		* Moxifloxacin
 		* Vancomycin\
-		Failure rates ~4x that of β-lactams. 
+		Failure rates ~4× that of β-lactams. 
 	* **MRSA**
 		* Glycopeptides
 			* Vancomycin

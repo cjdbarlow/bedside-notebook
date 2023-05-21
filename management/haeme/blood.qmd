@@ -1,5 +1,4 @@
-# Transfusion and Blood Products
-
+# Transfusion and Blood Products {#sec-transfusion}
 
 
 ## Blood Typing
@@ -14,7 +13,7 @@ Screening for minor antibodies other than anti-A and anti-B. Takes up to **45** 
 
 Typing balances risk (of transfusion reactions) against availability. Blood can be:
 
-* [Uncrossmatched](unxmatch)\
+* Uncrossmatched\
 Immediately available.
 * Group-specific uncrossmatched blood\
 	* 99.8% chance of compatibility
@@ -25,7 +24,8 @@ Immediately available.
 	* 99.95% chance of compatibility
 	* Generally available in 30-45 minutes
 
-### Use of Uncrossmatched Blood {#unxmatch}
+
+### Use of Uncrossmatched Blood
 
 If transfusion is required **before ABO typing** is complete, uncrossmatched blood can be given. Using uncrossmatched blood:
 
@@ -56,11 +56,13 @@ Include:
 * Packed cells
 * Fresh frozen plasma
 * Cryoprecipitate
+* Fibrinogen concentrate
+* Platelets
 
 
 ### Packed Cells
 
-* 1 unit ≈ 200-300ml\
+* 1 unit ≈ 200-300mL\
 Generally raises Hb by ~10g/dL.
 
 
@@ -73,37 +75,108 @@ Generally raises fibrinogen by 7-10mg/dL.
 * ABO compatibility highly desirable but not essential
 
 
+### Cryoprecipitate
+
+Derived from plasma, and contains concentrated:
+
+* **Fibrinogen**\
+Main advantage, as there is little fibrinogen in FFP.
+* Factor VIII
+* Factor XIII
+* Fibronectin
+* vWF
+
+
+### Fibrinogen Concentrate
+
+Freeze-dried human plasma:
+
+* Contains ~1g of fibrinogen
+* Reconstituted with water
+* Used in massive transfusion
+
+
 ### Platelets
 
 * 1 unit ≈ 50ml\
-Generally raises platelet cont by ~10x10^9^/L.
-* ABO compatibility preferable but not essential
+Generally raises platelet cont by ~10× 10^9^/L.
+* ABO match preferable but not essential
 
 
-## Transfusing
+### Single-Factor Concentrates
 
-Goals of transfusion are generally:
+Donor plasma isolated or recombinant production of concentrated:
 
-* Hb 80-90g/dL\
-Whilst haemorrhage ongoing.
-* INR < 1.5
-* APTT < 40s
-* Fibrinogen >2g/dL
-* Platelet > 50x10^9^/L
-* Temperature > 36°C
-* Ionised calcium > 0.85mmol/L
+* AT III
+* Activated factor VII
+* Factor VIII
+* Factor IX
+
+
+## Transfusion Strategy
+
+:::info
+All targets vary depending on the clinical situation.
+:::
+
+### Haemoglobin
+
+:::column-margin
+Although anaemia is detrimental, it is apparent that correction to a normal haemoglobin is also not helpful. Transfusion strategies aim to balance the harm of anaemia and of transfusion.\
+\
+Ideally, a patient should be prevented from becoming anaemic in the first place.
+:::
+
+* \>70g/L: Essentially always appropriate
+* \>80g/L: Coronary artery disease
+* 80-90g/L: Active haemorrhage\
+Less restrictive strategy appropriate to keep a margin of safety.
+* \>90g/L: Essentially never appropriate
+
+
+### Platelets
+
+* \>20×10^9^/L: Essentially always appropriate
+* \>50×10^9^/L: Most surgery or invasive procedures 
+* \>100×10^9^/L: Select surgery or procedures\
+Neurosurgery, intraocular surgery, neuraxial anaesthesia.
+* Generally not appropriate for:
+	* ITP or other immune-related destruction
+	* TTP
+	* HUS
+
+
+### Coagulation Factors
+
+Coagulation factor replacement:
+
+* Can be performed with:
+	* FFP
+	* Freeze-dried plasma
+	* Factor concentrates (PCC)
+	* Cryoprecipitate
+* Appropriate for:
+	* Coagulopathy
+		* DIC
+		* Massive transfusion
+		* Liver disease
+	* Single-factor deficiency when single-factor replacement is not available
+	* Reversal of warfarin when PCC unavailable
+	* Plasma exchange\
+	Though albumin is generally preferred.
+
 
 ### Approaches to Transfusion
 
 Based on coagulation profile:
 
-* INR > 1.5\
+* INR >1.5\
 Give 4 units FFP.
-* Fibroinogen < 1\
+* Fibrinogen <1g/dL\
 Give 10 units cryoprecipitate.
-* Fibrinogen 1-1.5\
+* Fibrinogen 1-1.5g/dL\
 Give 5 units cryoprecipitate.
-* Platlets < 50\
+* Platelets <50g×10^9^/L\
 Give 5 units of platelets.
 
 
@@ -112,4 +185,5 @@ Give 5 units of platelets.
 
 ## References
 
-1. Yazer MH, Waters JH, Spinella PC, et al. Use of Uncrossmatched Erythrocytes in Emergency Bleeding Situations. Anesthesiology. 2018;128(3):650-656. doi:10.1097/ALN.0000000000002037
+1. Yazer MH, Waters JH, Spinella PC, et al. Use of Uncrossmatched Erythrocytes in Emergency Bleeding Situations. Anesthesiology. 2018;128(3):650-656.
+2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

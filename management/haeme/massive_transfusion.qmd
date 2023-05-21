@@ -1,9 +1,10 @@
-# Massive Transfusion
-
-
-> Definitions are not practical as they are all retrospective
+# Massive Transfusion {#sec-massive_transfusion}
 
 Various definitions which include:
+
+:::column-margin
+Definitions are notably not practical as they are all retrospective.
+:::
 
 * 10 PRBC in 24 hours
 * Whole blood volume in 24 hours
@@ -51,9 +52,16 @@ Staffing requirements:
 * Scribe
 
 
-### Medical
+Transfusion targets:
 
-### Surgical
+* 80-90g/L: Active haemorrhage
+* INR <1.5
+* APTT <40s
+* Fibrinogen >2g/dL
+* Platelet >50x10^9^/L
+* Temperature >36°C
+* Ionised calcium >0.85mmol/L
+
 
 ### Anaesthetic Considerations
 

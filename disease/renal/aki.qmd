@@ -27,12 +27,12 @@ UO is a reasonably sensitive but not specific index of kidney function.
 +-------+---------------------------------------+-------------------------------+
 | Stage | Creatinine                            | Urine Output                  |
 +=======+=======================================+===============================+
-| 1     | - 1.5-1.9x baseline in 7 days         | - ⩽0.5ml/kg/hr for 6-12 hours |
+| 1     | - 1.5-1.9× baseline in 7 days         | - ⩽0.5ml/kg/hr for 6-12 hours |
 |       | - ⩾26.5 μmol/L ↑ in Cr in 48 hours    |                               |
 +-------+---------------------------------------+-------------------------------+
-| 2     | - 2-2.9x baseline                     | - ⩽0.5ml/kg/hr for ⩾12 hours  |
+| 2     | - 2-2.9× baseline                     | - ⩽0.5ml/kg/hr for ⩾12 hours  |
 +-------+---------------------------------------+-------------------------------+
-| 3     | - 3x baseline                         | - ⩽0.3ml/kg/hr for ⩾24 hours  |
+| 3     | - 3× baseline                         | - ⩽0.3ml/kg/hr for ⩾24 hours  |
 |       | - Cr ⩾354μmol/L                       | - Anuria > 12 hours           |
 |       | - Initiation of RRT                   |                               |
 |       | - eGFR ⩽35ml/min/1.73m^2^ in children |                               |

@@ -240,7 +240,7 @@ Surgery:
 ### Anaesthetic Considerations
 
 >* Respiratory and cardiac risk is elevated perioperatively\
-> Risk is substantially elevated with unrecognised severe OSA; up to 14x risk of cardiac death, 7x risk of CCF, 3x risk of pneumonia, 2x risk of sepsis, etc.
+> Risk is substantially elevated with unrecognised severe OSA; up to 14× risk of cardiac death, 7× risk of CCF, 3× risk of pneumonia, 2× risk of sepsis, etc.
 > * Treating patients with OSA in the perioperative period appears effective in ↓ their perioperative risk
 
 * A
@@ -260,7 +260,7 @@ Surgery:
 	Lacks strong evidence base.
 * C
 	* ↑ CVS complications\
-	1.5-2x rate of cardiac complications.
+	1.5-2× rate of cardiac complications.
 * D
 	* No clear evidence for general anaesthesia or regional anaesthesia (or vice versa)
 	* Sensitive to CNS depressants: may precipitate airway collapse

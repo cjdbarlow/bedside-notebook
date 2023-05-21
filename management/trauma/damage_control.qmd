@@ -37,7 +37,7 @@ Severely injured patients with multisystem trauma, generally indicated by:
 		* Clinical\
 		No visible clots or diffuse tissue ooze.
 		* Laboratory\
-		APTT/PT >1.5x normal.
+		APTT/PT >1.5× normal.
 	* Persistent cellular shock
 		* pH <7.2
 		* BD >15mmol/L

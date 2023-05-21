@@ -44,7 +44,7 @@ Time spent at P-low. Determines the degree of exhalation and derecruitment that 
 	* ↓ Will ↓ volume of release breath\
 	Ineffective ventilation.
 * T-high\
-Time spent at P-high. Initially at ~9x the T-low, which should provide 10-14 release breaths/minute.
+Time spent at P-high. Initially at ~9× the T-low, which should provide 10-14 release breaths/minute.
 	* ↓ Will ↑ release frequency, which may cause derecruitment.
 	* ↑ Will ↓ release frequency, which may ↑ PaCO~2~.
 * Release frequency\
