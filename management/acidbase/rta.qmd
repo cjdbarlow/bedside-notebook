@@ -40,7 +40,7 @@ Type 3 RTA was initially defined as both type 1 (↓ DCT H^+^ secretion) and typ
 **Type 1**:
 
 :::column-margin
-RTA are different from the acidosis that occurs in renal failure as:
+RTA differ from the acidosis of renal failure as:
 
 * The pathology is in the tubule, rather than the glomerulus
 	* GFR may be normal
@@ -84,7 +84,7 @@ The mechanism of this is somewhat complex. Normally:
 | **Plasma HCO~3~^-^** | <15mmol/L\                                  | Usually >15mmol/L                                                     |                                         |
 |                      | Severe acidosis.                            |                                                                       |                                         |
 +----------------------+---------------------------------------------+-----------------------------------------------------------------------+-----------------------------------------+
-| **Urinary pH**       | **>5.5**\                                   | Generally >5.5                                                        | <5.5                                    |
+| **Urinary pH**       | **>5.5**\                                   | Generally >5.5\                                                       | <5.5                                    |
 |                      | Inappropriately high, despite ↓ plasma pH.  | Can achieve <5.5 under acid load                                      |                                         |
 +----------------------+---------------------------------------------+-----------------------------------------------------------------------+-----------------------------------------+
 | **Plasma K^+^**      | Low                                         | Low-normal                                                            | High                                    |

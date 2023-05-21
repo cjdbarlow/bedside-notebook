@@ -1,13 +1,13 @@
 # TURP Syndrome
 
-
-Describes cardiac and neurological changes that occur due to systemic absorption of glycine, leading to toxicity due to:
+**Systemic absorption** of **glycine** which causes **cardiac** and **neurological toxicity** due to:
 
 * Rapid changes in:
 	* Osmolality\
 	With associated hyponatraemia.
 	* Circulating volume
-* CNS effect of substances\
+* Direct CNS effects
+
 
 ## Epidemiology and Risk Factors
 
@@ -57,6 +57,7 @@ Effects mostly due to hypoosmolality, rather than hyponatraemia.
 Acts as major inhibitory neurotransmitter and potentiates NMDA in CNS.
 	* Less common with sorbitol
 	* Significantly less common with mannitol
+
 
 ## Clinical Manifestations
 
@@ -125,6 +126,7 @@ Correct:
 		Each bolus should raise serum sodium by ~2-3mmol/L.
 		* Indicated if:
 			* Serum sodium is ⩽120mmol/L
+			* Serum osmolality is <260mOsm/kg
 			* Severe neurological symptoms
 				* Transient blindness
 				* Persistent nausea/vomiting
@@ -142,16 +144,19 @@ Supportive therapy:
 	* Magnesium\
 	May be considered if refractory.
 
+
 ### Anaesthetic Considerations
 
 * C
 	* Arterial line\
 	Recommended if managing as TURP syndrome.
 	* Consider CVC
-	
+
+
 ## Complications
 
 * SIADH occurs in most patients, and impairs correction of hyponatraemia
+
 
 ## Prognosis
 
