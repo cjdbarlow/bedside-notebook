@@ -237,10 +237,13 @@ book:
           - management/git/acs.qmd
         - part: "Haematology"
           chapters:
-          - management/haeme/blood.qmd
-          - management/haeme/transfusion_strategy.qmd
-          - management/haeme/massive_transfusion.qmd
-          - management/haeme/transfusion_reactions.qmd
+          - part: "Transfusion"
+            chapters:
+            - management/haeme/blood.qmd
+            - management/haeme/transfusion_strategy.qmd
+            - management/haeme/massive_transfusion.qmd
+            - management/haeme/transfusion_reactions.qmd
+          - management/haeme/ivig.qmd
           - management/haeme/plasmapheresis.qmd
         - part: "Trauma"
           chapters:
@@ -783,18 +786,18 @@ book:
           # Renal ca
           - disease/onc/phaeo.qmd
           - disease/onc/carcinoid.qmd
-        - part: "RBC"
+        - part: "Erythrocyte"
           chapters:
           - disease/haeme/sickle.qmd
           # Haemolysis
-          # HUS
         - part: "Clotting"
           chapters:
           - disease/haeme/dic.qmd
           - disease/haeme/purpura_fulminans.qmd
           - disease/haeme/hitt.qmd
           - disease/haeme/vwd.qmd
-          # TTP
+          - disease/haeme/ttp.qmd
+          - disease/haeme/hus.qmd
           # ITP
         # Rheumatology, Immunology, and Dermatology
       - part: "Immunology"
@@ -965,6 +968,7 @@ book:
       - part: "Blood"
         chapters:
         - investigations/blood/lft.qmd
+        - investigations/blood/coag.qmd
         - investigations/blood/transfusion.qmd
       - part: "Other"
         chapters:        

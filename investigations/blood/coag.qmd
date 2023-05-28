@@ -1,0 +1,207 @@
+# Haemostatic Assays
+
+Coagulation testing can be divided into tests of:
+
+* **Primary haemostasis**\
+Formation of the initial platelet plug.
+* **Secondary haemostasis**\
+Fibrin generation via the coagulation cascade.
+* **Global Coagulation**\
+Holistic test of entire coagulation system function.
+
+## Primary Haemostasis
+
+Defects of platelet plug formation can be due to either:
+
+* **Quantitative**\
+Loss in absolute platelet number.
+* **Qualitative**\
+Adequate platelet number but impaired function.
+
+
+### Platelet Count
+
+Revealed by platelet count on an FBE:
+
+* <50×10^9^/L is significant in the presence of haemostatic failure
+
+
+### Platelet Function
+
+Platelet function assays provide a qualitative assessment of platelet function, and are used for:
+
+* Diagnosis of platelet disorders
+* Monitor effect of antiplatelet therapy\
+Quantify response to GP IIb/IIIa inhibitors or clopidogrel.
+
+
+## Secondary Haemostasis
+
+Assessment includes:
+
+* Coagulation assays
+	* PT
+	* APTT
+	* TCT
+	* Mixing studies
+	* Fibrinogen
+* Fibrinolytic assays
+	* D-Dimer
+
+
+### Prothrombin Time
+
+Time taken for blood to clot after addition of tissue factor. The PT is:
+
+* A test of the **extrinsic pathway**
+* Prolonged by:
+	* Factor VII deficiency
+	* Liver disease
+	* Vitamin K deficiency
+	* Oral anticoagulants
+* Used to calculate an **INR**\
+Normalises the PT calculation between laboratories so they can be accurately compared.
+
+
+### Activated Partial Thromboplastin Time
+
+:::info
+Also known as the Partial Thromboplastin Time (PTT), or historically as the kaolin-cephalin clotting time (KCCT).
+:::
+
+Time taken for blood to clot after addition of some reagent. The APTT is:
+
+* A test of the intrinsic pathway
+* Highly variable between laboratories\
+Normal ranges (including for anticoagulation with heparin) are variable.
+* Prolonged by:
+	* Factor VIII, IX, or XI deficiency
+	* Contact phase deficiency\
+	Does not result in clinically significant bleeding. Due to deficiency in:
+		* Factor XII
+		* Prekallikrein
+
+:::column-margin
+Prolongation of both the PT and APTT may be due to deficiency of:
+
+* Factor X or V
+* Prothrombin (Factor II)
+* Fibrinogen (Factor I)
+:::
+
+
+### Thrombin Clotting Time
+
+:::info
+Also known as Thrombin Time (TT).
+:::
+
+Time taken for blood to clot after thrombin has been added. The TT is:
+
+* A test of fibrinogen to fibrin conversion
+* Prolonged by:
+	* ↓ Fibrinogen
+	* Dysmorphic fibrinogen
+	* Heparin
+	* Presence of FDP
+
+
+### Mixing Studies
+
+Mixing studies involve combining equal parts normal donor plasma and patient plasma. Mixing studies:
+
+* Can be performed for PT, APTT, and TCT
+* Will **correct** if the coagulation abnormality is due to **factor deficiency**
+* Will **not correct** if the abnormality is due to a **factor inhibitor**
+	* Direct thrombin inhibitors
+		* Heparin
+		* Dabigatran
+	* Acquired Factor VIII inhibitor
+
+:::column-margin
+How much correction is required for result to be "corrected" is controversial:
+
+* Large or multiple factor deficiencies may not correct with mixing
+* Many patients have both deficiencies and inhibitors
+* Some inhibitors are time-dependent
+* Suggested indicators for adequate correction include the correct result:
+	* Entering the normal range
+	* Falling below some laboratory standardised value\
+	Change of >70% is usually considered a correction.
+:::
+
+### Fibrinogen
+
+Fibrinogen is:
+
+* ↑ In:
+	* Acute phase reactions
+* ↓ In:
+	* Consumptive coagulopathy
+	* Hyperfibrinolysis
+
+
+### D-Dimer
+
+The D-dimer is a measurement of FDP produced by fibrinolysis produced by the action of plasmin, and is ↑ with:
+
+* Thromboembolism
+* Post-operative
+* Trauma
+* AKI
+* Sepsis
+* DIC with hyperfibrinolysis
+
+
+## Global Coagulation Assays
+
+Global assays include:
+
+* Thromboelastography
+* Thrombin Generation Tests
+
+
+### Thromboelastography
+
+Thromboelastographic methods graph the changing strength and elasticity of a forming blood clot over time. These methods:
+
+:::column-margin
+Due to the strong evidence supporting use of antifibrinolytics such as TXA in bleeding without strong evidence of harm, the utility of early detection of fibrinolysis is questionable since empiric treatment is safe.
+:::
+
+* Include:
+	* TEG\
+	Cup spins and pin remains stationary.
+	* ROTEM\
+	Pin rotates and cup remains stationary.
+* May have different additives to:
+	* Specifically test different aspects of clot formation\
+	e.g. A heparinase channel, to estimate what clot strength would be in absence of heparin.
+	* Speed up test formation
+* Guide use of blood product including platelets, FFP, factor concentrates, and cryoprecipitate
+* Give an **early** signal of the **presence** of **fibrinolysis**\
+Otherwise no strong evidence of benefit over traditional haemostatic testing.
+* Measure various parameters including:
+	* **R** (Reaction) **time**\
+	Time until initial fibrin formation.
+		* Efficacy of clotting cascade
+		* Prolonged R time treated with factor replacement
+	* **K** (Kinetic) **time**/**α-angle**\
+	Both index the time taken to achieve a certain level of clot strength.
+		* ↓ α-angle or ↑ K time are treated with cryoprecipitate
+	* **Maximum Amplitude**\
+	Strength of platelet-fibrin interaction.
+		* ↓ MA treated with platelets or DDAVP (if qualitative defect)
+	* **Lysis time**
+		* Time taken until clot degrades by a certain percentage (e.g. LY30)
+		* Short lysis time treated with antifibrinolytics
+
+:::column-margin
+![](/resources/teg.jpg)
+:::
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

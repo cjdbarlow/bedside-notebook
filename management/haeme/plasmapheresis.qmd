@@ -1,16 +1,37 @@
 # Plasma Exchange
 
-General technique of extracorporeal blood filtration to separate cellular or plasma components. Can be divided into:
+General technique of extracorporeal blood filtration or centrifugation to separate cellular or plasma components. Can be divided into:
 
-* Cytapheresis\
+* **Cytapheresis**\
 Removal of cells.
-* Plasmapheresis\
-Removal of plasma, and replacement with donor plasma or albumin. Usually performed via filtration or filtration or centrifugation of plasma and blood.
+* **Plasmapheresis**\
+Removal of plasma, and replacement with:
+	* Donor plasma\
+	Required if disease due to *absence* of essential plasma component.
+	* Donor albumin\
+	Adequate if disease due to presence of some additional component.
 
 
 ## Indications
 
-Specific indications:
+**Cellular**:
+
+:::column-margin
+Indications are divided by the American Society for Apheresis into three categories based on the evidence supporting plasmapheresis in that condition:
+
+* **Category I**\
+Accepted as first line therapy, and indicated in **bold**.
+* **Category II**\
+Second-line therapy.
+* **Category III**\
+Not established.
+* **Category IV**\
+Ineffective or harmful.
+:::
+
+* Leukocytosis\
+e.g. ALL/AML.
+* **Sickle cell crisis**
 
 :::column-margin
 In general, for a substance to be effectively removed by apheresis it must be:
@@ -24,79 +45,115 @@ Otherwise, just wait?
 * Not have a more simple treatment available
 :::
 
-* Cellular
-	* Leukocytosis\
-	e.g. ALL/AML.
-	* Sickle cell crisis
-* Proteins
-	* Autoantibodies
-		* Myasthenia gravis
-		* Goodpasture Syndrome
-		* GBS\
-		Equivalent to IV IgG.
-		* APS\
-		Indicated for catastrophic APS.
-		* Thrombotic Thrombocytopaenic Purpura
-	* Immunoglobulins
-		* Monoclonal gammopathy
-		* Cryoglobulinaemia
-		* Waldenstrom macroglobulinaemia
-	* Immune complexes
-		* Glomerulonephritis
-	* Protein-bound substances
-		* Toxins\
-			* Heavy metals
-				* Mercury
-				* Cisplatin
-			* Herbal preparations
-				* Kava
-			* Digoxin
-			* Paraquat\
-			Relatively ineffective.
-		* Thyroid storm
-* Triglycerides\
-Indicated for pancreatitis secondary to hypertriglycerideaemia (>1g/dL).
+**Proteins**:
+
+:::column-margin
+**Hyperviscosity syndrome** is characterised by hypervolaemia, visual disturbances, and neurological dysfunction.
+:::
+
+* Autoantibodies
+	* **Myasthenia gravis**
+	* **Goodpasture Syndrome**
+	* **GBS**\
+	Equivalent to IVIG.
+	* **Chronic Inflammatory Demyelinating Polyradiculoneuropathy**
+	* **Granulomatosis with Polyangiitis**\
+	The disease formally known as Wegener's granulomatosis.
+* Immunoglobulins\
+May cause **hyperviscosity syndrome**, coagulopathy, or renal failure. Immunoglobulin-producing diseases include:
+	* Monoclonal gammopathy
+	* Waldenstrom macroglobulinaemia
+* Immune complexes
+	* **Cryoglobulinaemia**\
+	Acute fulminant vasculitis, renal failure, or neurological impairment.
+	* Rapidly progressive glomerulonephritis
+	* SLE\
+	For AKI, cerebritis, or acute fulminant lupus pneumonitis.
+* Other immune-mediated disease
+	* Renal transplant rejection
+	* Thrombotic microangiopathies
+		* **TTP**
+		* HUS
+		* DIC
+		* Catastrophic APS
+* Protein-bound substances
+	* Toxins\
+		* Heavy metals
+			* Mercury
+			* Cisplatin
+		* Herbal preparations
+			* Kava
+		* Digoxin
+		* Paraquat\
+		Relatively ineffective.
+	* Thyroid storm
 
 :::column-margin
 Efficacy of plasma exchange for toxins is generally over-rated due to the relatively small volume of distribution of the intravascular compartment.
 :::
+
+**Plasma Solids**:
+
+* Triglycerides\
+Indicated, with very weak evidence, for pancreatitis secondary to hypertriglycerideaemia (>1g/dL).
+
 
 ## Contraindications
 
 
 ## Equipment
 
+* Vascular access device
+* Plasmapheresis machine
+	* Semi-permeable membrane filter\
+	30× more porous than the conventional dialysis filter.
+	* Regional anticoagulation
+* Replacement fluid
+
+
 ## Technique
 
-* Placement of a vascular dialysis catheter\
-As for RRT.
+* Withhold ACE inhibitors and A2RBs\
+↓ Bradykinin activation, which may lead to hypotension and respiratory distress during exchange.
+* Placement of a vascular access catheter
+	* Dual-lumen dialysis catheter is generally used
+	* Single-lumen cannula can be used
+		* Blood periodically removed, filtered, and returned
+		* ↓ Efficiency compared to dual-lumen configuration 
 * Removal of **1-1.5x** plasma volume\
 Single exchange of 40mL/kg can remove ~50% of plasma factors (including clotting factors) if not replaced, with replenishment in 24-48 hours.
-* Repeat daily or second-daily
+* Repeated daily or second-daily
 
+:::column-margin
+Administration of essential medications should be timed around plasma exchange, as these may also be removed.
+:::
 
 ## Complications
 
-* Procedural
+* **Procedural**
 	* Vascular injury
-* Pump
+* **Pump**
 	* Hypocalcaemia\
 	Citrate mediated.
 	* Haemolysis
 	* Air embolism
 	* Haemodynamic instability
 	* Hypothermia
-* Replacement fluid effects
-	* Transfusion reactions
+		* Cooling, as occurs in any extracorporeal circuit
+		* Cold replacement fluid
+* **Replacement fluid** effects
+	* Transfusion reactions\
+	TRALI is the major cause of plasma exchange related mortality.
 	* Removal of other substances\
 	e.g. Loss of therapeutic drugs.
 	* Anaemia
 	* Coagulopathy\
-	Dilutional.
+	Dilutional, particularly if albumin is used as replacement fluid. Consider plasma as the replacement fluid if the patient is at ↑ bleeding risk.
 	* Sepsis
 
 ---
 
 ## References
 
-1. Russi G, Marson P. [Urgent plasma exchange: how, where and when](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3200401/). Blood Transfus. 2011 Oct;9(4):356-61. doi: 10.2450/2011.0093-10. Epub 2011 Jul 18. 
+1. Russi G, Marson P. [Urgent plasma exchange: how, where and when](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3200401/). Blood Transfus. 2011 Oct;9(4):356-61. doi: 10.2450/2011.0093-10. Epub 2011 Jul 18.
+2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

@@ -1,0 +1,83 @@
+# Intravenous Immunoglobulin
+
+Concentrated immunoglobulin produced by pooling fractionated plasma from thousands of healthy donors, providing a rich and diverse mix of antibodies.
+
+## Indications
+
+Broadly either:
+
+* Humoral immune deficiency
+	* Primary
+	* Acquired
+* General immunomodulation\
+Trialled in a wide variety of diseases, with established evidence for:
+	* ITP
+	* Kawasaki disease
+	* GBS
+	* Dermatomyositis
+
+
+## Mechanism
+
+IVIG contains:
+
+* \>95% IGG
+* Trace IgA
+* Trace IgM
+* Cytokines
+* CD4
+* CD8
+* HLA molecules
+
+
+These have a variety of immunomodulatory an anti-inflammatory effects:
+
+* Modulated complement activation
+* Inhibited membrane attack complex
+* Antibody suppression
+* Super-antigen neutralisation
+* Macrophage Fc receptor saturation
+
+## Equipment
+
+## Technique
+
+## Complications
+
+Inflammatory adverse effects:
+
+* Are common (3-8%)
+* Include:
+	* ↑ HR
+	* ↓ BP
+	* Flushing
+	* Fever
+	* Headache
+	* Fatigue
+	* Nausea
+	* Diarrhoea
+* Are managed supportively:
+	* Ceasing or slowing the infusion
+	* Symptomatic
+		* Analgesics
+		* Antihistamines
+	* Glucocorticoids
+
+
+Severe adverse effects:
+
+* Are rare
+* Occur late
+* Include:
+	* Aseptic meningitis
+	* AKI
+	* VTE
+	* Neutropenia
+	* Haemolysis
+	* Arthritis
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

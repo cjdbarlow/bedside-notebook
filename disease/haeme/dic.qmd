@@ -1,6 +1,5 @@
 # Disseminated Intravascular Coagulation
 
-
 Acquired syndrome characterised by extreme systemic intravascular activation of coagulation that:
 
 * Occurs secondary to an underlying condition
@@ -44,6 +43,16 @@ Occurs in ~35% of cases of severe sepsis.
 
 
 ## Pathophysiology
+
+Normal coagulation involves:
+
+* Vascular constriction
+	* ↓ Bleeding
+	* Provides time for haemostasis
+* Platelet plugging
+* Fibrin clot formation
+	* Coagulation cascade initiated predominantly via the extrinsic pathway by exposed tissue factor
+
 
 Underlying disease profoundly stimulates procoagulant activity, resulting in:
 
