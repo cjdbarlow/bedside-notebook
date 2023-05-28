@@ -14,9 +14,26 @@ Holistic test of entire coagulation system function.
 Defects of platelet plug formation can be due to either:
 
 * **Quantitative**\
-Loss in absolute platelet number.
+Loss in absolute platelet number. Causes include:
+	* Consumption
+		* DIC
+	* Bone marrow suppression
+		* Medications
+		* Sepsis
 * **Qualitative**\
-Adequate platelet number but impaired function.
+Adequate platelet number but impaired function. Causes include:
+	* Drugs
+		* Aspirin
+		* Clopidogrel
+		* Ticagrelor
+	* Uraemia
+	* Hepatic cirrhosis
+	* Extracorporeal circuits
+		* CPB
+		* ECMO
+	* Bone marrow dysfunction
+		* Multiple myeloma
+		* Myeloproliferative disorders
 
 
 ### Platelet Count

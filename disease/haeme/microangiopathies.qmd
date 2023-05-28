@@ -1,0 +1,106 @@
+# Thrombotic Microangiopathies
+
+Family of microvascular diseases characterised by endothelial injury with platelet microthrombi:
+
+* Defined by triad of:
+	* **MAHA**
+	* **Thrombocytopaenia**
+	* **Organ dysfunction**
+* Divided into:
+	* **TTP**\
+	Caused by severe **deficiency** in the **ADAMTS13 protein**.
+		* May be life-threatening
+	* **Typical HUS**\
+	Caused by Shiga toxin-producing *E. coli*.
+		* Predominantly infective diarrhoea
+	* **Atypical HUS**\
+	Uncontrolled activation of alternative complement pathway.
+
+:::column-margin
+Subtypes may be indistinguishable on clinical grounds.
+:::
+
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Features
+
+## Assessment
+
+**History**:
+
+**Exam**:
+
+### Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+**Imaging**:
+
+**Other**:
+
+### Diagnostic Approach and DDx
+
+: Comparison of Microangiopathies
+
++----------------+------------------------------+----------------------------------------------------+-----------------------------------+
+| Characteristic | TTP                          | Typical HUS                                        | Atypical HUS                      |
++================+==============================+====================================================+===================================+
+| Clinical       | * Lung almost never involved |                                                    | * ↑ Severity of organ involvement |
+|                | * AKI rare at presentation   |                                                    |                                   |
+|                | * Fever                      |                                                    |                                   |
++----------------+------------------------------+----------------------------------------------------+-----------------------------------+
+| Investigations | * Profound thrombocytopaenia | * Positive stool culture for Shiga-toxin *E. coli* | * Mild (or no) thrombocytopaenia  |
+|                | * ADAMTS13 <10%              |                                                    |                                   |
++----------------+------------------------------+----------------------------------------------------+-----------------------------------+
+
+## Management
+
+:::priority
+Goals of management
+:::
+
+**Resuscitation**:
+
+**Specific therapy**:
+
+* Pharmacological
+	* TTP
+		* Corticosteroids
+		* Rituximab
+	* Atypical HUS
+		* Eculizumab
+* Procedural
+	* TTP
+		* Plasma exchange
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

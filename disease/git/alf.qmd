@@ -343,12 +343,7 @@ Invasive intracranial pressure monitoring associated with ~10% intracranial haem
 	* PPI
 	* Drain ascites\
 	For haemodynamic benefit.
-* H
-	* Coagulopathy\
-	Treat if bleeding or prior to procedures. Patients may be prothrombotic, anti-thrombotic, or fibrinolytic, and the assays themselves (both coagulation profiles and point-of-care testing) may not correlate with the observed clinical effect.
-		* Vitamin K\
-		Very reasonable, probably ineffective in the majority of patients.
-
+{{< include /includes/liver_coag.qmd >}}
 
 
 **Disposition**:
@@ -365,8 +360,6 @@ Invasive intracranial pressure monitoring associated with ~10% intracranial haem
 	* Intracranial hypertension\
 	Classically if untreated.
 	* Sepsis/multiorgan failure
-
-
 * A
 	* Unprotected airway
 * B
@@ -389,7 +382,7 @@ Invasive intracranial pressure monitoring associated with ~10% intracranial haem
 	* Ascites
 * H
 	* Coagulopathy\
-	May be variable and not in keeping with assays.
+	Clinical manifestations often not in consistent with assays.
 	* Bone marrow suppression
 		* Thrombocytopaenia
 * I

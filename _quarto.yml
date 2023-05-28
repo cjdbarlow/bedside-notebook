@@ -796,9 +796,7 @@ book:
           - disease/haeme/purpura_fulminans.qmd
           - disease/haeme/hitt.qmd
           - disease/haeme/vwd.qmd
-          - disease/haeme/ttp.qmd
-          - disease/haeme/hus.qmd
-          # ITP
+          - disease/haeme/microangiopathies.qmd
         # Rheumatology, Immunology, and Dermatology
       - part: "Immunology"
         chapters:
@@ -811,9 +809,9 @@ book:
           # TENS/SJS
         - part: "Autoimmune"
           chapters:
-          - disease/immune/iris.qmd
-          - disease/immune/sarcoid.qmd
           - disease/immune/ra.qmd
+          - disease/immune/itp.qmd
+          - disease/immune/iris.qmd
           # SLE
           # PAM
           # PMR
@@ -822,6 +820,7 @@ book:
         - part: "Connective Tissue"
           chapters:
           - disease/immune/scleroderma.qmd
+          - disease/immune/sarcoid.qmd
           # CREST
           # Marfans
         # Trauma

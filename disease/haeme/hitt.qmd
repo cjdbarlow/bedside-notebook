@@ -1,22 +1,22 @@
-# Heparin Induced Thrombocytopaenia (and Thrombosis)
+# Heparin Induced Thrombocytopaenia
 
+Immune-mediated **hypercoagulable state** due to **formation** of **auto-antibodies** to a **heparin-platelet** complex that is divided into **two types**:
 
-Immune-mediated hypercoagulable state, that:
-
-* Occurs due to formation of auto-antibody to a heparin-platelet complex
-* Has two types:
-	* **Type I**\
-	Transient drop in platelet count, and is not clinically significant.
-		* Occurs in first 2 days
-	* **Type II**\
-	Clinically significant HIT that may progress to HITT. Type II is:
-		* More common
-		* Presents **5-14 days after** heparin **exposure**\
-		Leads to:
-			* Thrombocytopenia\
-			Usually to 30-50% of baseline.
-			* Thrombosis\
-			May be arterial or venous, and in both large and small vessels.
+* **Type I**\
+Not clinically significant, characterised by:
+	* Transient drop in platelet count
+	* No thrombosis
+	* Occurs in **first 2 days**
+* **Type II**\
+Clinically significant that may progress to HITT. Type II is:
+	* More common
+	* Presents **5-14 days after** heparin **exposure**\
+	Leads to:
+		* Thrombocytopenia\
+			* Usually to 30-50% of baseline
+			* Not <20×10^9^/L.
+		* Thrombosis\
+		May be arterial or venous, and in both large and small vessels.
 
 
 ## Epidemiology and Risk Factors
@@ -43,9 +43,8 @@ Risk factors:
 * This binds heparin and activates lymphocytes and antibodies
 * Production of an IgG antibody to this factor results in platelet activation
 
-### Aetiology
 
-## Clinical Manifestations
+## Clinical Features
 
 Key factors:
 
@@ -54,11 +53,55 @@ Key factors:
 Either <150 x10^9^/L or ↓ by >50%.
 * Thrombosis
 
+## Investigations
 
+Laboratory:
+
+* Blood
+	* FBE
+		* Thrombocytopenia
+	* Antibody screening
+		* Sensitive but non-specific
+		* High false positive rate
+	* Serotonin release assay
+		* Limited to reference laboratories
+		* Functional test evaluating immunologic response of platelets to heparin
+		* Donor platelets pre-treated with C-serotonin are exposed to patient serum (or plasma nad heparin)
+		* Serotonin release >20-50% (lab dependent) is positive
 
 ## Diagnostic Approach and DDx
 
-Risk may be calculated using the **4 Ts score**.
+:::caution
+Diagnosis is challenging due to multiple potential causes of thrombocytopaenia and common use of heparins.
+:::
+
+Risk may be calculated using the **4T score**:
+
+* 0-3: Low probability
+* 4-5: Intermediate probability
+* 6-8: high probability
+
+: 4T Score
+
++-----------------------------------+---------------------------------------------------+--------------------------------------------------+---------------------+
+| Category                          | 2 Points                                          | 1 Point                                          | 0 Points            |
++===================================+===================================================+==================================================+=====================+
+| Magnitude of thrombocytopaenia    | * ↓ By >50%                                       | * ↓ By 30-50%                                    | * ↓ By <30%         |
+|                                   | * Nadir >20×10^9^/L                               | * Nadir 10-19×10^9^/L                            | * Nadir <10×10^9^/L |
++-----------------------------------+---------------------------------------------------+--------------------------------------------------+---------------------+
+| Timing of thrombocytopaenia       | * 5-10 days                                       | * \>10 days                                      | * <4 days           |
+|                                   | * <1 day following restarting heparin\            | * <1 day following restarting heparin\           |                     |
+|                                   | With previous heparin exposure in last 30 days.   | With previous heparin exposure in last 100 days. |                     |
++-----------------------------------+---------------------------------------------------+--------------------------------------------------+---------------------+
+| Thrombotic sequelae               | * Proven thrombosis                               | * Progressive thrombosis                         |                     |
+|                                   | * Skin necrosis                                   | * Recurrent thrombosis                           |                     |
+|                                   | * Acute systemic reaction following heparin bolus | * Silent thrombosis                              |                     |
+|                                   |                                                   | * Erythematous lesions                           |                     |
++-----------------------------------+---------------------------------------------------+--------------------------------------------------+---------------------+
+| Other causes of thrombocytopaenia | Non-evident                                       | Possible                                         | Definite            |
++-----------------------------------+---------------------------------------------------+--------------------------------------------------+---------------------+
+
+
 
 Differentials include:
 
@@ -67,19 +110,6 @@ Differentials include:
 * Venous thrombosis
 * Hypersensitivity reactions
 
-## Investigations
-
-FBE:
-
-* Thrombocytopenia\
-Usually to ~60x10^9^/L.
-
-
-Serotonin release assay:
-
-* Functional test evaluating immunologic response of platelets to heparin
-* Donor platelets pre-treated with C-serotonin are exposed to patient serum (or plasma nad heparin)
-* Serotonin release >20-50% (lab dependent) is positive
 
 ## Management
 
@@ -91,6 +121,7 @@ Cease heparin:
 	* Extracorporeal circuits
 	* Lines
 	* IDCs
+
 
 Transition to a non-heparinoid anticoagulant:
 

@@ -1,17 +1,20 @@
 # Disseminated Intravascular Coagulation
 
-Acquired syndrome characterised by extreme systemic intravascular activation of coagulation that:
+Acquired syndrome of **extreme systemic intravascular activation** of **coagulation** that:
 
 * Occurs secondary to an underlying condition
-* Leads to:
-	* High consumption of platelets and coagulation factors\
-	Leading to coagulopathy and bleeding.
+* Causes **consumption** of **platelets** and **coagulation factors**\
+With subsequent:
+	* Coagulopathy and bleeding.
 	* Microvascular fibrin thrombi\
 	Leading to tissue ischaemia and multiorgan dysfunction.
 * May be acute or chronic
 	* Acute DIC is:
 		* Generally more familiar
 		* Characterised by microvascular thrombosis and bleeding
+			* Bruising
+			* Bleeding\
+			Venepuncture sites, surgical wounds.
 	* Chronic DIC is:
 		* Associated with disease where thrombin formation is occurring over a prolonged period\
 		e.g. Malignancy, IUFD, aneurysms, wound healing.
@@ -21,6 +24,7 @@ Acquired syndrome characterised by extreme systemic intravascular activation of 
 			Assays may be normal or only slightly abnormal.
 			* Hepatic FDP clearance
 		* Characterised by thrombosis without bleeding
+
 
 ## Epidemiology and Risk Factors
 
@@ -32,7 +36,7 @@ Occurs in ~35% of cases of severe sepsis.
 	* Exsanguination
 	* Burns
 * Obstetrics
-	* Abruptio placentae 
+	* Abruptio placentae
 	* Haemorrhage
 	* AFE
 * Vascular malformations
@@ -54,11 +58,28 @@ Normal coagulation involves:
 	* Coagulation cascade initiated predominantly via the extrinsic pathway by exposed tissue factor
 
 
-Underlying disease profoundly stimulates procoagulant activity, resulting in:
+Pathological coagulation occurs through a series of steps:
 
+* Activation of coagulation system
+	* Release of tissue thromboplastins
+		* Trauma
+		* Surgery
+		* Malignancy
+		* Intravascular haemolysis
+	* Vessel wall endothelial injury
+		* Platelet activation
+			* Gram negative endotoxin
+			* Viral infections
+			* Burns
+			* Dysoxia
+			* Acidosis
+		* Trauma
+		* Thrombi
+	* Primary induction of platelet activation
+		* Sepsis
 * Excessive thrombin generation
-* Thrombin overcomes anticoagulant control mechanisms\
-Namely:
+* Thrombin load overcomes anticoagulant control mechanisms\
+Including:
 	* Protein C
 	* Antithrombin
 	* Tissue factor pathway inhibitor
@@ -69,6 +90,13 @@ Namely:
 ## Assessment
 
 ## Diagnostic Approach and DDx
+
+:::info
+Diagnosis based on a combination of:
+
+* Clinical features
+* Laboratory tesing
+:::
 
 DIC scoring system:
 
@@ -94,8 +122,6 @@ Required.
 Score of >5 compatible with acute DIC.
 
 
-
-
 ## Investigations
 
 :::info
@@ -119,32 +145,40 @@ Laboratory investigations:
 		* Fibrinogen\
 		May be either reduced or ↑.
 			* Reduced to consumption
-			* ↑ due to role as acute phase reactant
-	* Fibrin Degradation Products (e.g. D-dimer)\
-	↑ Due to fibrinolysis.
+			* ↑ Due to role as acute phase reactant
+	* D-Dimer\
+	↑ FDP due to fibrinolysis.
 	* Blood film\
 	Schistocyte formation.
 
-
+:::column-margin
+Coagulation **assays** may be **normal** in **chronic DIC** due to ↑ production, which compensates for ↑ consumption.
+:::
 
 ## Management
 
-Treat the underlying condition.
+:::priority
+* **Treat** the **underlying condition**
+* If bleeding: **Judicious** use of **blood products**
+* If clotting: Cautious anticoagulation
+:::
 
-Management then depends on predominant clinical picture:
+**Specific therapy**:
 
-* Active bleeding\
-Transfuse to keep:
-	* Platelets >30-50
-	* PT <3s
-	* Fibrinogen >1.5
-	* Consider vitamin K
-	* Consider antifibrinolytic
-* No major bleeding or thrombosis\
-Prophylactic LMWH.
-* Overt thromboembolism or organ failure\
-	* Therapeutic anticoagulation\
-	Usually UFH.
+* Pharmacological\
+Three strategies:
+	* **Active bleeding**\
+	Transfuse to keep:
+		* Platelets >30-50
+		* PT <3s
+		* Fibrinogen >1.5g/L
+		* Consider vitamin K
+		* Consider antifibrinolytic
+	* **No major bleeding or thrombosis**\
+	Prophylactic LMWH.
+	* **Overt thromboembolism** or organ failure\
+		* Therapeutic anticoagulation\
+		Usually UFH.
 
 
 ### Anaesthetic Considerations

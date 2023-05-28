@@ -96,6 +96,8 @@ Pathology:
 
 ## Complications
 
+{{< include /includes/liver_coag.qmd >}}
+
 ## Prognosis
 
 ## Key Studies

@@ -1,15 +1,11 @@
-# Haemolytic Uraemic Syndrome
+# Immune Thrombocytopaenic Purpura
 
-* Typical HUS
-	* Associated with:
-		* Infection and diarrhoea\
-		Predominant precipitant.
-		* Chemotherapy
-		* Radiotherapy
-		* Medications
-* Atypical HUS
-	* Uncontrolled complement activation due to genetic defect
-	* Plasma exchangee not beneficial
+:::info
+Also known as idiopathic thrombocytopaenic purpura.
+:::
+
+Pathological destruction of platelets by the monocyte-macrophage system, predominantly in the spleen, that occurs due to platelet autoantibody formation.
+
 
 ## Epidemiology and Risk Factors
 
@@ -41,7 +37,8 @@
 ## Management
 
 :::priority
-Goals of management
+* **Corticosteroids**
+* Consideration of **splenectomy**
 :::
 
 **Resuscitation**:
@@ -49,7 +46,20 @@ Goals of management
 **Specific therapy**:
 
 * Pharmacological
+	* Dexamethasone 40mg daily for 4 days\
+	Indicated for:
+		* Severe thrombocytopaenia\
+		<10×10^9^/L.
+		* Uncontrolled bleeding
+	* IVIG\
+	Major bleeding not responding to corticosteroids.
+	* Thrombopoietin receptor agonists
+		* Romiplostim
+		* Eltrombopag
+	* MAB
+		* Rituximab
 * Procedural
+	* Splenectomy
 * Physical
 
 **Supportive care**:
