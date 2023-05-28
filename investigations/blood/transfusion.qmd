@@ -1,0 +1,36 @@
+# Red Cell Serology
+
+Immunohaematology and red cell serological tests are used to identify safe products for transfusion. These tests include:
+
+* Saline agglutination
+* Antiglobulin (Coombs) testing
+	* Direct
+	* Indirect
+
+
+
+## Saline Agglutination
+
+* Sample of donor product and recipient cells are mixed in a saline suspension
+* Agglutination indicates ABO incompatibility
+
+
+## Antiglobulin Testing
+
+Antiglobulin testing consists of either:
+
+* Direct Antiglobulin Testing\
+**Antiglobulin** present **on surface** of patient **erythrocytes**. Positive in:
+	* Autoimmune haemolytic anaemia
+	* Haemolytic transfusion reactions
+* Indirect Antiglobulin Testing\
+**Antibody** (usually IgG) present **in plasma**. Predominantly used in transfusion for:
+	* Minor antibody detection
+	* Pre-transfusion compatibility
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

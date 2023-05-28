@@ -1,14 +1,19 @@
 # Massive Transfusion {#sec-massive_transfusion}
 
-Various definitions which include:
+Massive transfusion is variably defined as one of:
 
 :::column-margin
-Definitions are notably not practical as they are all retrospective.
+This covers managing massive transfusion, which is a single component of managing critical bleeding. Critical bleeding is covered in detail under @sec-bleeding.
 :::
 
 * 10 PRBC in 24 hours
 * Whole blood volume in 24 hours
 * ⩾50% of blood volume in 4 hours
+
+:::column-margin
+These definitions are notably all retrospective, and so remain impractical for clinical use.
+:::
+
 
 ## Epidemiology and Risk Factors
 
@@ -41,6 +46,22 @@ Predicting massive transfusion:
 
 ## Investigations
 
+:::caution
+Massive transfusion is characterised by bleeding faster than the time coagulation assays take to run. Consequently, most investigations are of limited benefit as decisions have to be made prior to tests returning. Protocolisation of MTP ↓ this uncertainty.
+:::
+
+Bedside:
+
+* Point-of-care coagulation assays
+
+
+Laboratory:
+
+* Coagulation
+	* APTT
+	* PT
+	* Fibrinogen
+
 ## Management
 
 Staffing requirements:
@@ -69,6 +90,41 @@ Transfusion targets:
 
 ## Complications
 
+Complications specific to massive transfusion include:
+
+:::column-margin
+General complications of blood transfusion are covered under @sec-transfusion_reactions.
+:::
+
+* **Citrate toxicity**\
+Citrate used to anticoagulate blood products (particularly PRBC) will chelate ionised calcium, which may contribute to ↓ inotropy and (if severe) coagulopathy.
+* **Acid load**\
+Stored blood contributes to metabolic acidosis which may worsen coagulopathy. Contributing acids include:
+	* Citric acid\
+	From citrate.
+	* Lactic acid\
+	From RBC metabolism.
+* **Hypothermia**\
+Administration of non-warmed blood products has several detrimental effects:
+	* Left-shift of oxyhaemoglobin-dissociation curve
+	* ↓ RBC deformity
+	* ↑ Serum K^+^
+	* ↑ Metabolic demand\
+	Warming from 4°C → 37°C requires 1255kJ and ~62L of oxygen.
+* ***Hyper*kalaemia**\
+Higher potassium load in PRBC may ↑ serum potassium in massive transfusion scenarios.
+* ***Hypo*kalaemia**\
+Late and relatively rare complication occurring due to potassium uptake by transfused RBCs, which occurs as they correct electrolyte composition.
+* **Hyperbilirubinaemia**\
+	* Haemolysis of transfused cells will ↑ unconjugated bilirubin
+	* Conjugated bilirubin may ↑ if liver excretion is impaired\
+	e.g. Due to ischaemic liver injury.
+
+
+:::column-margin
+The acid and citrate load are ↓ with citrate-phosphate-dextrose blood products.
+:::
+
 ## Prognosis
 
 ## Key Studies
@@ -78,3 +134,4 @@ Transfusion targets:
 
 ## References
 
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

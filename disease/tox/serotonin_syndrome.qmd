@@ -1,32 +1,38 @@
 # Serotonin Syndrome {#sec-serotonin}
 
-Drug-induced over-stimulation of serotonin receptors in CNS. Serotonin syndrome is:
+Drug-induced over-stimulation of serotonin receptors in CNS, characterised by:
 
-* Characterised by:
-	* CNS dysfunction
-	* Autonomic disturbance
-	* Hyperreflexia
+* **CNS dysfunction**
+* **Autonomic disturbance**
+* **Hyperreflexia**
+
+:::column-margin
+Serotonin syndrome is also:
+
 * Potentially fatal
 * Largely avoidable
-* Subdivided into:
-	* Mild\
-	May be difficult to distinguish from underlying medical conditions, or supra-therapeutic use of an SSRI. Symptoms include:
-		* Brisk reflexes, inducible clonus
-		* Insomnia, anxiety
-		* Nausea, diarrhoea, hypertension, tachycardia
-	* Moderate\
-	May occur with overdose of single agent, or ↑ therapeutic doses. Symptoms include:
-		* Sustined clonus, ocular clonus
-		* Agitation
-		* Mydriasis, diaphoresis, fever ⩽38.5
-	* Severe\
-	Potentially fatal.
-		* Usually only occurs with two or more serotonergic drugs
-		* Usually requires one monoamine oxidase inhibitor
-		* Symptoms include:
-			* Muscle rigidity, respiratory failure
-			* Confusion, coma
-			* Severe hyperthermia
+:::
+
+Serotonin syndrome is subdivided into:
+
+* Mild\
+May be difficult to distinguish from underlying medical conditions, or supra-therapeutic use of an SSRI. Symptoms include:
+	* Brisk reflexes, inducible clonus
+	* Insomnia, anxiety
+	* Nausea, diarrhoea, hypertension, tachycardia
+* Moderate\
+May occur with overdose of single agent, or ↑ therapeutic doses. Symptoms include:
+	* Sustained clonus, ocular clonus
+	* Agitation
+	* Mydriasis, diaphoresis, fever ⩽38.5
+* Severe\
+Potentially fatal.
+	* Usually only occurs with two or more serotonergic drugs
+	* Usually requires one monoamine oxidase inhibitor
+	* Symptoms include:
+		* Muscle rigidity, respiratory failure
+		* Confusion, coma
+		* Severe hyperthermia
 
 
 ## Epidemiology and Risk Factors
@@ -60,8 +66,8 @@ Presentation:
 * Toxicity usually within hours of ingestion
 * Diagnosis requires:
 	* Overdose of serotonergic drug
-	* ↑ in dose of serotonergic drug
-	* Addition of a second sertonergic drug
+	* ↑ Dose of serotonergic drug
+	* Addition of a second serotonergic drug
 * **Classic triad** of:
 	* **Neuromuscular excitation**\
 	Hyperreflexia, myoclonus, rigidity.
@@ -85,7 +91,7 @@ Presentation:
 
 Hunter Serotonin Toxicity Criteria:
 
-* Sertonergic agent\
+* Serotonergic agent\
 Dose ↑, overdose, or new agent.
 	* Spontaneous clonus
 		* Yes\
@@ -144,7 +150,7 @@ Include:
 
 ### Drugs Without Significant Risk of Toxicity
 
-Serotonin antagonists, or those that do not agnoise 5-HT~2~:
+Serotonin antagonists, or those that do not agonise 5-HT~2~:
 
 * Antipsychotics
 * Anxiolytics
@@ -181,7 +187,7 @@ Diagnosis is clinical. Investigations usually targeted towards ruling out other 
 **Laboratory**:
 
 * Blood
-	* UEC/CMP\
+	* UEC and CMP\
 	Rhabdomyolysis.
 	* Coagulation screen\
 	DIC.

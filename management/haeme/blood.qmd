@@ -1,52 +1,70 @@
-# Transfusion and Blood Products {#sec-transfusion}
+# Transfusion Overview {#sec-transfusion}
+
 
 
 ## Blood Typing
 
-Involves:
+Blood typing is matching donated products to the donor, and is done to balance the:
 
-* Blood group (ABO) typing\
-Takes ~15 minutes.
-* Antibody screen\
-Screening for minor antibodies other than anti-A and anti-B. Takes up to **45** minutes.
-	* **If** antibody screen is **normal**, computer cross-match can typically match unit of blood in <5 minutes
+* Risk of haemolytic transfusion reactions
+* Urgency of required transfusion
+* Allocation of scare resources
 
-Typing balances risk (of transfusion reactions) against availability. Blood can be:
 
-* Uncrossmatched\
-Immediately available.
-* Group-specific uncrossmatched blood\
+Blood products can be divided based on the degree of typing required:
+
+* **Untyped**\
+Immediately available. Use of untyped blood:
+	* Consumes limited pool of universal units
+	* Is justified in patients needing emergency transfusion
+	* Is not justified in patients stable enough to wait until crossmatching is complete
+	* Has a higher risk of transfusion reaction\
+	Risk is from minor antibodies.
+		* Present in **2% of population**\
+		Prevalence **↑ with age**.
+		* Typically IgG mediated
+		* Does not generally cause major haemolysis\
+		Overall **haemolysis rate of emergency transfusion is 0.1%**.
+	* For **packed red cells** is **O-**
+		* Rh- (or unknown) females of childbearing age should receive O-\
+		Risk of rhesus disease if Rh+ blood given.
+			* If prolonged/repeated transfusion required, use of Rh+ blood can be justified due to limited availability of Rh- blood
+	* For **plasma** is usually **AB+**, but can be A+ with **low anti-B**\
+	Justified due to:
+		* Very limited supply of AB+ plasma
+		* Low risk of significant reactions in B patients receiving incompatible group A plasma:
+			* Low overall presence of AB+ and B+ individuals
+			* Dilution of recipient group B RBCs with untyped
+			* Low risk of significant reaction in B patients 
+
+:::column-margin
+Each subsequent stage results in a significantly smaller ↓ in the absolute risk of incompatibility - the greatest gains are had with blood grouping and typing.
+:::
+
+* **Group-specific uncrossmatched blood**\
+	* Prevents ABO reaction
 	* 99.8% chance of compatibility
-	* Generally available within 5-10 minutes
-* Group-specific partial crossmatch
-	* 99.94% chance of compatibility
-* Group-specific fully crossmatched
+	* Generally available within 5-10 minutes\
+\
+* **Group-specific partial crossmatch**
+	* 99.94% chance of compatibility\
+\
+* **Group-specific fully crossmatched**
 	* 99.95% chance of compatibility
 	* Generally available in 30-45 minutes
 
 
-### Use of Uncrossmatched Blood
+### Typing Process
 
-If transfusion is required **before ABO typing** is complete, uncrossmatched blood can be given. Using uncrossmatched blood:
+Testing a recipient and preparing donor blood for transfusion involves **three stages**:
 
-* Consumes limited pool of universal units
-* Has a higher risk of transfusion reaction\
-Risk of reaction from minor antibodies.
-	* Present in **2% of population**\
-	Prevalence **↑ with age**.
-	* Typically IgG mediated
-	* Does not generally cause major haemolysis\
-	Overall **haemolysis rate of emergency transfusion is 0.1%**.
-* Type for **packed red cells** is **O-**
-	* Rh- (or unknown) females of childbearing age shoul receive O-\
-	Risk of rhesus disease if Rh+ blood given.
-		* If prolonged/repeated transfusion required, use of Rh+ blood can be justified due to limited availability of Rh- blood
-* Type for **plasma** is usually **AB+**, but can be A+ with **low anti-B**
-	* Very limited supply of AB+ plasma
-	* Use of A+ plasma with low anti-B plasma is epidemiologically justified\
-		* Low risk due to low overall presence of AB+ and B+ individuals
-		* Demonstrated to be safe
-* Is justified in patients needing emergency transfusion, but not in those patients who are stable enough to wait until crossmatched units become available
+1. Blood group (ABO and Rhesus) typing\
+Takes ~15 minutes.
+2. Antibody screen\
+Screening for minor antibodies other than anti-A and anti-B.
+	* **If** antibody screen is **normal**, computer cross-match can typically match unit of blood in <5 minutes
+	* Otherwise a prolonged cross-match is required, which may take **45 minutes to** several **hours**
+3. Crossmatching
 
 
 ## Blood Products
@@ -55,6 +73,7 @@ Include:
 
 * Packed cells
 * Fresh frozen plasma
+* Factor concentrates
 * Cryoprecipitate
 * Fibrinogen concentrate
 * Platelets
@@ -62,29 +81,92 @@ Include:
 
 ### Packed Cells
 
+Donor blood is cytapheresed to produce cells and a small volume of carrier plasma. PRBC:
+
 * 1 unit ≈ 200-300mL\
 Generally raises Hb by ~10g/dL.
 
 
+:::column-margin
+The small amount of incompatible plasma that is transfused with unmatched (e.g. O-) RBCs is not considered to be clinically significant.
+:::
+
+
 ### Fresh Frozen Plasma
 
+Donor plasma remaining after cytapheresis of RBC, which is then frozen and re-thawed prior to use. FFP:
+
 * 1 unit ≈ 200-300 ml\
-Generally raises fibrinogen by 7-10mg/dL.
-* Dose is usually 10-15ml/kg
-* Contains all clotting factors
+Contains normal levels of clotting factors, albumin, and immunoglobulin:
+	* ~0.5g of fibrinogen
+	* 0.7 IU/mL of Factor VIKI
+* Dose is usually 10-15ml/kg\
+This is a substantial volume for a normovolaemic patient - consider factor concentrates.
+* Stored at -18°C to prevent clotting factor degradation\
+Must be thawed prior to administration.
 * ABO compatibility highly desirable but not essential
+
+:::column-margin
+FFP should not be used as a volume expander for hypovolaemia in absence of an appropriate indication.
+:::
+
+### Factor IX Complex
+
+Factor IX complex:
+
+:::column-margin
+Factor IX complex is also known as prothrombin complex concentrate.
+:::
+
+* Freeze-dried preparation from donor plasma
+* Contains the vitamin-K dependent clotting factors
+	* Factor II
+	* Factor VII
+	* Factor IX
+	* Factor X
+* Indicated for:
+	* Correction of vitamin K antagonism
+	* Correction of coagulopathy in absence of hypovolaemia
+
+:::column-margin
+I find Factor IX complex useful in the operating room for *rapidly* correcting coagulopathy, as it can be given far more quickly than an equivalent factor-load of FFP.
+:::
+
+### Single-Factor Concentrates
+
+Donor plasma isolated or recombinant production of concentrated:
+
+* AT III
+* Activated factor VII
+* Factor VIII
+	* Heat treated to inactivate HIV
+	* For treatment of haemophilia A
+* Factor IX
+
+
 
 
 ### Cryoprecipitate
 
-Derived from plasma, and contains concentrated:
+Derivative of FFP which:
 
-* **Fibrinogen**\
-Main advantage, as there is little fibrinogen in FFP.
-* Factor VIII
-* Factor XIII
-* Fibronectin
-* vWF
+:::column-margin
+Manufactured by freezing and then thawing FFP, collecting the precipitate, and then re-suspending it in plasma.
+:::
+
+* May be presented as:
+	* Single donor\
+	30-40mL.
+	* Apheresis\
+	~50mL.
+* Stored at -18°C
+* Contains concentrated:
+	* **Fibrinogen**\
+	Main advantage, as there is little fibrinogen in FFP.
+	* Factor VIII
+	* Factor XIII
+	* Fibronectin
+	* vWF
 
 
 ### Fibrinogen Concentrate
@@ -98,87 +180,14 @@ Freeze-dried human plasma:
 
 ### Platelets
 
-* 1 unit ≈ 50ml\
+* 1 unit ≈ 50mL\
 Generally raises platelet cont by ~10× 10^9^/L.
 * ABO match preferable but not essential
 
 
-### Single-Factor Concentrates
-
-Donor plasma isolated or recombinant production of concentrated:
-
-* AT III
-* Activated factor VII
-* Factor VIII
-* Factor IX
-
-
-## Transfusion Strategy
-
-:::info
-All targets vary depending on the clinical situation.
-:::
-
-### Haemoglobin
-
 :::column-margin
-Although anaemia is detrimental, it is apparent that correction to a normal haemoglobin is also not helpful. Transfusion strategies aim to balance the harm of anaemia and of transfusion.\
-\
-Ideally, a patient should be prevented from becoming anaemic in the first place.
+The volume of incompatible plasma administered with platelets is significantly higher (due to greater platelet volume), but because of greater limitations in platelet availability the higher risk is assumed necessary.
 :::
-
-* \>70g/L: Essentially always appropriate
-* \>80g/L: Coronary artery disease
-* 80-90g/L: Active haemorrhage\
-Less restrictive strategy appropriate to keep a margin of safety.
-* \>90g/L: Essentially never appropriate
-
-
-### Platelets
-
-* \>20×10^9^/L: Essentially always appropriate
-* \>50×10^9^/L: Most surgery or invasive procedures 
-* \>100×10^9^/L: Select surgery or procedures\
-Neurosurgery, intraocular surgery, neuraxial anaesthesia.
-* Generally not appropriate for:
-	* ITP or other immune-related destruction
-	* TTP
-	* HUS
-
-
-### Coagulation Factors
-
-Coagulation factor replacement:
-
-* Can be performed with:
-	* FFP
-	* Freeze-dried plasma
-	* Factor concentrates (PCC)
-	* Cryoprecipitate
-* Appropriate for:
-	* Coagulopathy
-		* DIC
-		* Massive transfusion
-		* Liver disease
-	* Single-factor deficiency when single-factor replacement is not available
-	* Reversal of warfarin when PCC unavailable
-	* Plasma exchange\
-	Though albumin is generally preferred.
-
-
-### Approaches to Transfusion
-
-Based on coagulation profile:
-
-* INR >1.5\
-Give 4 units FFP.
-* Fibrinogen <1g/dL\
-Give 10 units cryoprecipitate.
-* Fibrinogen 1-1.5g/dL\
-Give 5 units cryoprecipitate.
-* Platelets <50g×10^9^/L\
-Give 5 units of platelets.
-
 
 
 ---

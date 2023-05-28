@@ -184,7 +184,7 @@ book:
               - management/cvs/pressors.qmd
               - management/cvs/inotropes.qmd
               - management/cvs/vasodilators.qmd
-                # Fluids
+              - management/cvs/fluid.qmd
         - part: "Neurology"
           chapters:
             # - part: "Anaesthesia"
@@ -238,7 +238,9 @@ book:
         - part: "Haematology"
           chapters:
           - management/haeme/blood.qmd
+          - management/haeme/transfusion_strategy.qmd
           - management/haeme/massive_transfusion.qmd
+          - management/haeme/transfusion_reactions.qmd
           - management/haeme/plasmapheresis.qmd
         - part: "Trauma"
           chapters:
@@ -801,6 +803,7 @@ book:
           chapters:
           - disease/immune/anaphylaxis.qmd
           - disease/immune/mods.qmd
+          - disease/immune/gvhd.qmd
           # Tranfusion reactions
           # TENS/SJS
         - part: "Autoimmune"
@@ -962,6 +965,7 @@ book:
       - part: "Blood"
         chapters:
         - investigations/blood/lft.qmd
+        - investigations/blood/transfusion.qmd
       - part: "Other"
         chapters:        
         - investigations/csf.qmd

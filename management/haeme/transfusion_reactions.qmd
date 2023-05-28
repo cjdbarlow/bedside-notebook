@@ -1,0 +1,174 @@
+# Transfusion Reactions {#sec-transfusion_reaction}
+
+Adverse reactions to allogenic blood can be classified by:
+
+:::column-margin
+Reactions specific to infusion of vast volumes of blood product are covered under @sec-massive_transfusion.
+:::
+
+* Immunological vs. non-immunological
+* Acute vs. delayed
+
+:::column-margin
+As patients receiving blood transfusion are typically unwell, there can be uncertainty as to whether the deterioration was caused by transfusion or incidental to it.\
+\
+Complications likely to be multifactorial include:
+
+* ARDS
+* Storage lesions
+* VTE
+* TACO
+* TRALI
+* CMV infection
+:::
+
+: Classification of Transfusion Reactions
+
++-------------+------------------------------------------------------------------------+------------------------------------------------------+
+|             | Immunological                                                          | Non-Immunological                                    |
++=============+========================================================================+======================================================+
+| **Acute**   | * ABO mismatch\                                                        | * TACO\                                              |
+|             | Rapid intravascular haemolysis.                                        | Cardiac failure due to ↑ intravascular blood volume. |
+|             | * Acute haemolysis\                                                    | * Non-immune mediated haemolysis\                    |
+|             | Type II hypersensitivity.                                              | Physicochemical RBC destruction.                     |
+|             | * Anaphylaxis\                                                         | * Infections                                         |
+|             | Type I hypersensitivity.                                               | * Massive transfusion complications                  |
+|             | * TRALI                                                                |     * Air embolism                                   |
+|             | * Febrile, non-haemolytic\                                             |     * Hypothermia                                    |
+|             | Mild, benign ≥1ºC temperature ↑. Acute haemolysis should be excluded.  |     * ↑ K^+^                                         |
+|             | * Urticaria                                                            |     * ↓ Citrate\                                     |
+|             |                                                                        |     Causing:                                         |
+|             |                                                                        |         * ↓ Mg^2+^                                   |
+|             |                                                                        |         * ↓ Ca^2+^                                   |
++-------------+------------------------------------------------------------------------+------------------------------------------------------+
+| **Delayed** | * Delayed haemolysis\                                                  | * Iron overload                                      |
+|             | Sensitisation 2-14 days after exposure, typically to minor antibodies. |                                                      |
+|             | * Transfusion-Associated GVHD\                                         |                                                      |
+|             | Infused lymphocytes attack a (usually) immunocompromised host.         |                                                      |
+|             | * Alloimmunisation                                                     |                                                      |
+|             | * Transfusion-related Immune Modulation\                               |                                                      |
+|             | Generalised immunosuppression occurring post allogenic transfusion.    |                                                      |
+|             | * Post-transfusion purpura                                             |                                                      |
++-------------+------------------------------------------------------------------------+------------------------------------------------------+
+
+
+## Acute Immunological
+
+### Fever
+
+Mild fevers are common (~1%) and unconcerning.
+
+
+### Acute Haemolysis
+
+Features:
+
+:::column-margin
+The most severe form of acute haemolytic reactions are due to ABO incompatibility.
+:::
+
+* Anaemia
+	* Pain\
+	Including ischaemia.
+	* Nausea, vomiting
+	* Shock
+* Immune activation
+	* Rigors
+	* Hypotension → Shock → Circulatory collapse
+* AKI
+	* Pre-renal due to volume loss
+	* Intra-renal due to myoglobinuria
+* Coagulopathy\
+May be identified by worsening of existing bleeding despite transfusion.
+
+
+### Hypersensitivity Reactions
+
+Blood (particularly **non-cellular blood**) contains large numbers of potentially antigenic compounds. Reactions may occur due to donor product:
+
+* Antigen\
+Recipient reacts to donor antigens.
+* Antibody\
+Donor antibodies react with recipient blood or plasma proteins.
+* Contaminants\
+Including:
+	* Chemical additives
+	* Medications\
+	Recipient allergy to medication in donor sample.
+	* Microorganisms
+
+
+Features are consistent with hypersensitivity reactions, and include:
+
+:::column-margin
+Features and management of severe hypersensitivity reactions are covered in more detail under @sec-anaphylaxis.
+:::
+
+* Skin manifestations
+	* Rash
+* Gastrointestinal distress
+* Hypotension
+* Bronchospasm
+* Arrest\
+Cardiac or respiratory.
+
+
+### Transfusion Related Acute lung Injury
+
+TRALI is:
+
+* **Acute respiratory failure** due to **interstitial oedema**, generally **lasting <48 hours**
+* The **major** cause of **transfusion-related mortality**
+* Probably more common in the critically ill
+* Due to **leukoagglutininins** in donor plasma promoting neutrophil aggregation
+	* Clumped **neutrophils** are **sequestered** in **lung microcirculation**
+	* Subsequent endothelial injury
+	* Leukoagglutinins are more common in multiparous women
+
+
+## Delayed Immunological
+
+### Transfusion-Associated Graft-Versus-Host Disease
+
+Classically an **immunocompromised recipient** displays:
+
+* 3-30 days following transfusion
+* ↓ Risk with treating blood products to neutralise lymphocytes:
+	* Leukoreduction
+	* Gamma irradiation
+
+
+## Acute Non-Immunological
+
+### Infections
+
+**Bacterial**:
+
+* Rapid occurrence of septic shock
+* More likely with platelet transfusion due to room-temperature storage
+
+**CMV**:
+
+:::column-margin
+Blood film expected to show atypical lymphocytes with ↑ cytoplasm (hence the name CMV), irregular contours of the nucleus, and intranuclear inclusions.
+:::
+
+* Suggested by:
+	* Swinging fevers
+	* Mononucleotic blood film
+	* 7-10 days post transfusion
+* Rarely significant outside of immunocompromised patients
+
+**HIV and Hepatitis**:
+
+* Post-transfusion hepatitis and HIV are potential complications
+* Extensive donor selection and testing excludes infective donors
+* HIV and Hepatitis B and C are almost totally preventable transfusion-transmitted disease
+
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

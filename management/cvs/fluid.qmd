@@ -1,0 +1,61 @@
+# Fluid
+
+Products for fluid resuscitation include:
+
+* Crystalloid
+* Colloid\
+Contains microscopic particles that are large enough to be retained within the vascular compartment. Include:
+	* Albumin
+	* Synthetic\
+	Gelatins and starches are not recommended due to a variety of adverse reactions including:
+		* Hypersensitivity
+		* AKI
+		* Coagulopathy
+
+:::column-margin
+The volume-expanding effect of colloid is ↓ in the critically ill, presumably due to ↑ endothelial permeability and glycocalyx disruption.
+:::
+
+## Crystalloid
+
+## Colloid
+
+### Albumin
+
+Human albumin solution is produced from human plasma, and:
+
+:::column-margin
+Physiological effects of albumin include:
+
+* Major protein responsible for colloid oncotic pressure
+* Anti-inflammatory
+* Free radical scavenging
+* Buffer
+:::
+
+* May be presented as solution of:
+	* 4% Albumin\
+	Cost-free by-product of PRBC production, exclusive to Australia.
+	* 5% Albumin\
+	Isotonic solution.
+	* 20% Albumin\
+	Hypertonic solution used for both:
+		* Hypoalbuminaemia
+		* Fluid overload
+* Has risks of:
+	* Creutzfeldt-Jakob disease
+* Has no proven benefit over crystalloid
+
+:::column-margin
+Risk of HIV or hepatitis is not present with albumin solutions due to heat treating of product.
+:::
+
+## Key Trials
+
+* SAFE
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

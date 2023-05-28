@@ -1,0 +1,74 @@
+# Blood Transfusion
+
+:::info
+All targets vary depending on the clinical situation.
+:::
+
+## Haemoglobin
+
+:::column-margin
+Although anaemia is detrimental, it is apparent that correction to a normal haemoglobin is also not helpful. Transfusion strategies aim to balance the harm of anaemia and of transfusion.\
+\
+Ideally, a patient should be prevented from becoming anaemic in the first place.
+:::
+
+* \>70g/L: Essentially always appropriate
+* \>80g/L: Coronary artery disease
+* 80-90g/L: Active haemorrhage\
+Less restrictive strategy appropriate to keep a margin of safety.
+* \>90g/L: Essentially never appropriate
+
+
+## Platelets
+
+* \>20×10^9^/L: Essentially always appropriate
+* \>50×10^9^/L: Most surgery or invasive procedures 
+* \>100×10^9^/L: Select surgery or procedures\
+Neurosurgery, intraocular surgery, neuraxial anaesthesia.
+* Generally not appropriate for:
+	* ITP or other immune-related destruction
+	* TTP
+	* HUS
+
+
+## Coagulation Factors
+
+Coagulation factor replacement:
+
+* Can be performed with:
+	* FFP
+	* Freeze-dried plasma
+	* Factor concentrates (PCC)
+	* Cryoprecipitate
+* Appropriate for:
+	* Coagulopathy
+		* DIC
+		* Massive transfusion
+		* Liver disease
+	* Single-factor deficiency when single-factor replacement is not available
+	* Reversal of warfarin when PCC unavailable
+	* Plasma exchange\
+	Though albumin is generally preferred.
+
+
+## Approaches to Transfusion
+
+Based on coagulation profile:
+
+* INR >1.5\
+Give 4 units FFP.
+* Fibrinogen <1g/dL\
+Give 10 units cryoprecipitate.
+* Fibrinogen 1-1.5g/dL\
+Give 5 units cryoprecipitate.
+* Platelets <50g×10^9^/L\
+Give 5 units of platelets.
+
+
+
+---
+
+## References
+
+1. Yazer MH, Waters JH, Spinella PC, et al. Use of Uncrossmatched Erythrocytes in Emergency Bleeding Situations. Anesthesiology. 2018;128(3):650-656.
+2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
