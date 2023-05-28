@@ -1,13 +1,10 @@
-# Peri-Operative Management of Anticoagulation and Antiplatelets
+# Anticoagulants {#sec-periop_anticoag}
 
-
-Effective management of anticoagulation requires balancing thrombo-embolic and haemorrhagic risk. In general:
+Perioperative management of anticoagulation requires balancing thrombo-embolic and haemorrhagic risk. In general:
 
 * Detailed trial data is limited
 * Bridging therapy should be used in those at high risk of stroke\
 Defined as ⩾10% annualised risk of stroke.
-
-
 
 
 ## Risk Stratification
@@ -28,7 +25,9 @@ Withhold anticoagulation and antiplatelet agents, and consider **bridging therap
 
 ### Thrombotic Risk
 
->↑ risk ↑ the importance of minimising the period without anticoagulation
+:::caution
+↑ Thrombotic risk ↑ the importance of minimising the period without anticoagulation.
+:::
 
 Divided into:
 

@@ -1,11 +1,13 @@
-# Perioperative Management of Medications
+# General Medications
 
 
-*This covers perioperative management of medications, with the exception of:*
-* *[Anticoagulants](/anaesthesia/periop/periop-anticoag.md)*
-* *[Antiplatelets](/anaesthesia/periop/periop-antiplatelet.md)*
-* *[Insulin and Oral Hypoglycaemics](/disease/endo/dm.md#anaes)*
+:::column-margin
+This covers perioperative management of medications, with the exception of:
 
+* Anticoagulants, covered under @sec-periop_anticoag
+* Antiplatelets, covered under @sec-periop_antiplatelet
+* Insulin and oral hypoglycaemics, covered under @sec-periop_dm
+:::
 
 
 
@@ -23,7 +25,7 @@ Theophylline:
 Multiple potential pharmacokinetic interactions.
 
 
-## Cardiac Medications{#card}
+## Cardiac Medications
 
 Alpha 2 agonists:
 
@@ -156,7 +158,9 @@ In absence of glucocorticoids, endogenous cortisol release:
 
 ## Complementary and Alternative Medicines
 
->In general, **ceasing** all herbal/**complimentary medicine 2 weeks prior** is a safe approach
+:::tick
+In general, **ceasing** all herbal/**complimentary medicine 2 weeks prior** is a safe approach.
+:::
 
 Specific medications:
 
@@ -175,7 +179,7 @@ Cease 5 days prior; multiple pharmacokinetic interactions.
 * Valerian root\
 Tapered weeks pre-operatively; ↑ sedation with anaesthesia.
 * Echinacea\
-↑ hypersensitivity.
+↑ Hypersensitivity.
 
 
 

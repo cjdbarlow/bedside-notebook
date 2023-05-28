@@ -1,43 +1,43 @@
-# Peri-Operative Management of Antiplatelet Agents
-
+# Antiplatelet Agents
 
 Effective management of antiplatelet agents requires balancing:
 
 * Thrombus risk\
-Indication:
+Risk depends mostly on indication:
 	* Primary prevention\
-	* Secondary prevention
-	* [PCI](#pci)\
-	Aspirin generally should be continued.
+	No evidence of benefit, and so should be stopped.
+	* Secondary prevention\
+	* Stenting\
+	Aspirin should generally be continued.
 	* Carotid Endarterectomy\
-	Aspirin generally should be continued.
+	Aspirin should generally be continued.
 * Bleeding risk
 
 
 
 ## Aspirin
 
-> For non-cardiac surgery, excluding carotid endarterectomy, in patients without coronary stents
-
 For **primary prevention**:
 
 * Should be discontinued at least 3 days prior\
 Reduces rate of major bleeding.
 
-For secondary prevention:
+
+For **secondary prevention**:
 
 * Consider discontinuation at least 3 days prior
 * Important to restart when the risk of bleeding has passed
 
 
-## Antiplatelets for Coronary Artery Stents{#pci}
+## Antiplatelets for Coronary Artery Stents
 
->* Premature cessation of DAPT is the greatest contributor to stent thrombosis\
->	* Cessation ↑ risk
-> 	* Surgery ↑ risk\
->	Proinflammatory states.
-> * Stent thrombosis risk is higher if ACS was the initial indication for PCI (compared with stable CAD)
-
+:::caution
+* Premature cessation of DAPT is the greatest contributor to stent thrombosis\
+	* Cessation ↑ risk
+ 	* Surgery ↑ risk\
+	Proinflammatory states.
+* Stent thrombosis risk is higher if ACS was the initial indication for PCI (compared with stable CAD)
+:::
 
 Stent types:
 
@@ -62,7 +62,7 @@ Incorporate an anti-proliferative drug which delays endothelialisation.
 	* **Elective surgery** should be performed:
 		* Ideally after **6 months**
 		* Can be considered after **3-6 months**
-* Bioresorbable vascular scaffold (BVS)
+* **Bioresorbable vascular scaffold** (BVS)
 	* Potential ↑ risk of thrombosis
 	* Ceasing DAPT **within 3 years of insertion** should be discussed with cardiology
 
@@ -100,11 +100,11 @@ High-risk surgeries include:
 	If ceasing aspirin, discuss with cardiology.
 
 
-|Drug|When to cease pre-operatively|Re-loading dose|Indications|Other|
-|--|--|
-|**Clopidogrel**|5 days|300-600mg|Intracranial stents (others are off label), or cardiac stents with high-bleeding risk|Clopidogrel resistance in ~30% of patients due to pharmacogenetic variation|
-|**Prasugrel**|7 days|60mg|Recommended for patients at high risk of recurrent ischaemia|Greater risk of bleeding than clopidogrel, fastest time to onset|
-|**Ticagrelor**|3-5 days|180mg|Preferred to clopidogrel in patients at low risk of ischaemia|More effective than clopidogrel with similar rate of bleeding|
+| Drug            | When to cease pre-operatively | Re-loading dose | Indications                                                                           | Other                                                                       |
+|-----------------|-------------------------------|-----------------|---------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| **Clopidogrel** | 5 days                        | 300-600mg       | Intracranial stents (others are off label), or cardiac stents with high-bleeding risk | Clopidogrel resistance in ~30% of patients due to pharmacogenetic variation |
+| **Prasugrel**   | 7 days                        | 60mg            | Recommended for patients at high risk of recurrent ischaemia                          | Greater risk of bleeding than clopidogrel, fastest time to onset            |
+| **Ticagrelor**  | 3-5 days                      | 180mg           | Preferred to clopidogrel in patients at low risk of ischaemia                         | More effective than clopidogrel with similar rate of bleeding               |
 
 
 ### Urgent Surgery	
