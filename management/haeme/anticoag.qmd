@@ -1,4 +1,165 @@
-# Anticoagulation Management
+# Anticoagulation
+
+Therapeutic anticoagulation has a broad array of both:
+
+:::column-margin
+This provides a general overview of therapeutic anticoagulation. Management of perioperative anticoagulation is covered @sec-periop_anticoag, and thromboprophylaxis is covered under @sec-thromboprophylaxis.
+:::
+
+* Indications
+* Therapeutic options
+	* Parenteral
+		* Intravenous UFH
+		* Low-molecular weight heparins
+	* Oral
+		* Vitamin K Antagonists
+		* Direct Anticoagulants
 
 
-*Management of perioperative anticoagulation is covered [here](/anaesthesia/periop/periop-anticoag.md).*
+## Indications
+
+## Contraindications
+
+## Options
+
+### Unfractionated Heparin
+
+Unfractionated heparin:
+
+* Has a number of mechanisms of action
+	* Potentiates antithrombin III
+	* Neutralises thrombin
+	* Neutralises Factor Xa
+* Detectable through ↑ APTT or anti-Xa
+
+
+**Key** pharmacological **properties**:
+
+
+**Reversal**:
+
+* Cessation
+	* Safe
+	* Relatively rapid
+* Protamine
+
+:::column-margin
+**Protamine is** an **anticoagulant** in excess doses.
+:::
+
+### Low Molecular Weight Heparin
+
+**Reversal**:
+
+* Cessation
+* Protamine\
+Reverses ~50% of total effect.
+
+
+### Vitamin K Antagonists
+
+Vitamin K antagonists:
+
+* Are functionally synonymous with the various flavours of warfarin
+* Prevent synthesis of vitamin K dependent clotting factors
+* Detectable though ↑ PT and INR.
+
+:::column-margin
+Vitamin K dependent clotting factors include:
+
+* Factor II
+* Factor VII
+* Factor IX
+* Factor X
+:::
+
+
+**Key** pharmacological **properties**:
+
+* Highly inter- and intra-individual variability
+* Monitoring required\
+Frequency varies depending on stability and compliance.
+* 
+
+
+**Reversal**:
+
+* Factor replacement\
+	* Indicated for rapid and complete reversal
+	* Consumption of administered factors will result in anticoagulation\
+	Synthesis remains inhibited.
+	* Options include:
+		* 4-factor PCC
+		* 3-factor PCC\
+		May still require FFP.
+		* FFP
+* Vitamin K
+	* Acts within ~6 hours
+	* Sustained reversal\
+	Balanced against thrombotic risk.
+	* High doses may cause significant warfarin resistance if it is recommenced
+
+
+### Direct Anticoagulants
+
+Direct anticoagulants inhibit specific elements of the clotting cascade, either:
+
+* Factor Xa
+	* Rivaro**xa**ban
+	* Api**xa**ban
+	* Edo**xa**ban
+* Thrombin
+	* Dabigatran
+
+
+**Key** pharmacological **properties**:
+
+:::column-margin
+DOAC may be preferable to VKA for both VTE and stroke prevention in AF.
+:::
+
+* Are 60-80% renally cleared
+* Hepatic metabolism is via CYP450 enzymes
+* Elimination half-life of 7-12 hours
+* Have fixed dosing
+* Do not require monitoring
+	* ↑ Therapeutic time compared to VKA
+	* ↓ ICH risk compared to VKA
+
+
+**Monitoring**:
+
+* Monitoring of anticoagulant effect is more difficult compared to VKA
+* Coagulation assays **qualitatively assess** the **presence** of a **coagulation effect**, but not the degree
+	* ↑ APTT and ↑ TT occurs with thrombin inhibition\
+	i.e. Dabigatran.
+	* ↑ PT occurs with Factor Xa inhibition\
+	Requires an appropriate DOAC-sensitive reagent.
+* Specific drug assays are available, although drug levels corresponding to therapeutic anticoagulation are not widely available
+
+
+**Reversal**:
+
+* Reversal options are limited
+* Dabigatran
+	* Idrarucizumab 5g
+		* Monoclonal antibody
+		* Rapidly effective
+	* Dialysis\
+	Limited efficacy, 2^nd^ line to idrarucizumab.
+* Xa inhibitors
+	* Andexanaet alfa
+		* Recombinant factor Xa
+		* Binds to rivaroxaban, apixaban, and enoxaparin
+
+
+## Technique
+
+## Complications
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

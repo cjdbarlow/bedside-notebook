@@ -75,7 +75,7 @@ Time taken for blood to clot after addition of tissue factor. The PT is:
 	* Factor VII deficiency
 	* Liver disease
 	* Vitamin K deficiency
-	* Oral anticoagulants
+	* Oral Xa inhibitors
 * Used to calculate an **INR**\
 Normalises the PT calculation between laboratories so they can be accurately compared.
 
@@ -97,6 +97,7 @@ Normal ranges (including for anticoagulation with heparin) are variable.
 	Does not result in clinically significant bleeding. Due to deficiency in:
 		* Factor XII
 		* Prekallikrein
+	* Oral thrombin inhibitors
 
 :::column-margin
 Prolongation of both the PT and APTT may be due to deficiency of:

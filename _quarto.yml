@@ -241,10 +241,17 @@ book:
             chapters:
             - management/haeme/blood.qmd
             - management/haeme/transfusion_strategy.qmd
+            - management/haeme/bleeding.qmd
             - management/haeme/massive_transfusion.qmd
             - management/haeme/transfusion_reactions.qmd
-          - management/haeme/ivig.qmd
-          - management/haeme/plasmapheresis.qmd
+          - part: "Coagulation"
+            chapters:
+            - management/haeme/anticoag.qmd
+            - management/haeme/antiplatelets.qmd
+          - part: "Immunotherapy"
+            chapters:
+            - management/haeme/ivig.qmd
+            - management/haeme/plasmapheresis.qmd
         - part: "Trauma"
           chapters:
           - management/trauma/primary.qmd

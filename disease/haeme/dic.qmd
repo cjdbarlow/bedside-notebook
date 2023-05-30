@@ -95,31 +95,27 @@ Including:
 Diagnosis based on a combination of:
 
 * Clinical features
-* Laboratory tesing
+* Laboratory testing
 :::
 
-DIC scoring system:
+The International Society for Thrombosis and Haemostasis scoring system:
 
-* Underlying disorder associated with DIC?\
-Required.
-* Coagulation results:
-	* Platelet count
-		* ⩾100: 0
-		* 50-100: 1
-		* ⩽50: 
-	* FDPs
-		* No ↑: 0
-		* Moderate ↑: 2
-		* Strong ↑: 3
-	* PT
-		* ⩽3s: 0
-		* 3-6s: 1
-		* ⩾6s 2
-	* Fibrinogen level:
-		* ⩾1: 0
-		* ⩽1: 1
-* Interpretation\
-Score of >5 compatible with acute DIC.
+* **Requires presence** of a **DIC-associated disease**
+* Suggests **DIC** if **score ⩾5**
+
+: ISTH DIC Scoring System
+
++---------------------------+----------+----------+----------+
+| Category                  | 2 Points | 1 Point  | 0 Points |
++===========================+==========+==========+==========+
+| Platelet count (×10^9^/L) | <50      | <100     | \>100    |
++---------------------------+----------+----------+----------+
+| ↑ FDP                     | High     | Moderate | No       |
++---------------------------+----------+----------+----------+
+| ↑ PT (s)                  | \>6      | 6-3      | <3       |
++---------------------------+----------+----------+----------+
+| Fibrinogen (g/L)          |          | <1.0     | \>1.0    |
++---------------------------+----------+----------+----------+
 
 
 ## Investigations

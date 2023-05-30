@@ -1,0 +1,98 @@
+# Antiplatelets
+
+Antiplatelet agents are:
+
+* Used predominantly for **arterial disease**
+* Include:
+	* NSAIDs\
+	Less potent, reversible, usually resolves within 24 hours.
+	* **Aspirin**\
+	Irreversible.
+	* P2Y~12~ antagonists\
+	Irreversible, and ↑ potency compared to aspirin, with ↑ bleeding risk.
+		* Clopidogrel
+		* Ticagrelor
+		* Prasugrel
+	* GP IIb/IIIa inhibitors\
+	Reversible with cessation.
+		* Tirofiban
+		* Eptifibatide
+		* Abciximab
+
+
+## Indications
+
+* Arterial stenting
+
+## Contraindications
+
+## Options
+
+### Aspirin
+
+Aspirin provides:
+
+* Irreversible inhibition\
+Duration of platelet lifespan (5-10 days).
+
+**Key** pharmacological **properties**:
+
+
+
+### Clopidogrel
+
+Clopidogrel:
+
+* Irreversible inhibition
+
+**Key** pharmacological **properties**:
+
+* Genetic 
+
+
+### Ticagrelor
+
+* More predictable inhibition than clopidogrel
+* ↑ Bleeding risk relative to clopidogrel
+
+**Key** pharmacological **properties**:
+
+* Genetic 
+
+## Reversal
+
+All antiplatelet agents are minimimally reversible, therapeutic options include:
+
+* Cessation
+* Other haemostatic measures
+* DDAVP\
+May have effect in aspirin-induced platelet inhibition, minimal evidence in other contexts.
+* Platelet transfusions
+	* More effective in aspirin
+	* May be ineffective in reversing ticagrelor
+
+
+### Tirofiban
+
+* Reversal in 4-8 hours following cessation
+
+
+### Eptifibatide
+
+* Reversal in 4-8 hours following cessation
+
+
+### Abciximab
+
+* Reversal in 1-2 days following cessation
+
+
+
+## Complications
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
