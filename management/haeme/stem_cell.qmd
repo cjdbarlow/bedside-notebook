@@ -1,0 +1,164 @@
+# Haematopoietic Stem Cell Transplant {#sec-stem_cell}
+
+:::info
+Historically referred to as bone marrow transplant.
+:::
+
+Haematopoietic stem cell transplant is a potentially curative treatment for haematological malignancies, and classified by the source of replacement stem cells:
+
+* **Autologous**\
+Reinfusion of peripheral blood harvested during periods of remission.
+	* Risk of infusion of own tumour cells, with subsequent relapse
+	* Mortality ~5%
+	* No risk of GvHD
+* **Allogeneic**\
+Infusion of donor stem cells.
+	* Sibling or unrelated donor
+	* Requires immunosuppression
+	* Mortality higher than autologous transplant
+	* Risk of both GvHD and graft failure
+
+## Indications
+
+Include:
+
+* Haematological malignancy
+	* Leukaemias
+	* Lymphomas
+	* Myelofibrosis
+	* Myelodysplastic syndrome
+* Bone marrow failure syndromes
+* Certain other malignancies
+	* Breast cancers
+	* Ovarian cancer
+	* Germ cell tumours
+	* Small cell lung cancer
+	* Renal cell cancer
+* Autoimmune diseases
+	* MS
+	* Systemic sclerosis
+	* Crohn's disease
+	* SLE
+	* MG
+	* Various systemic vasculitides
+* Inborn Errors of Immunity
+	* Severe Combined Immunodeficiencies
+	* Primary HLH
+
+## Contraindications
+
+## Anatomy
+
+## Equipment
+
+## Technique
+
+Transplantation occurs in two phases:
+
+1. **Myeloablation**\
+Destruction of all haematopoietic cells, aimed to kill all tumour cells.
+	* Usually consists of both:
+		* Chemotherapy
+		* Total body irradiation
+	* Reduced intensity options exist for older or frailer patients\
+	Provide enough immunosuppression to permit engraftment.
+2. Infusion of new cells\
+Either autologous or allogeneic. The time after infusion is broken down into:
+	* **Pre-engraftment**\
+	Time between infusion and when stem cells begun haematopoiesis.
+		* Usually lasts <30 days
+		* Profound neutropenia and susceptibility to bacterial infections\
+		Gram positive infections predominate due to the wide variety of Gram negative-covering antibiotics available.
+		* Most ICU admissions occur during this phase
+	* **Early post-engraftment**\
+	Time from recovery of cell counts.
+		* Classically day 30-100
+		* Impaired cell-mediated immunity
+		* Vulnerability persists to:
+			* Viral infections
+				* CMV\
+				Prophylactic ganciclovir used for CMV positive recipients, or with positive donors.
+			* Fungal infections
+				* *Candida* spp.
+				* PJP
+				* *Aspergillus* spp.
+	* **Late post-engraftment**\
+	Indefinite period that consists of impaired cell mediated and humoral immunity.
+
+
+## Complications
+
+* B
+	* Diffuse alveolar haemorrhage\
+	Pulmonary endothelial injury secondary to chemotherapy.
+		* Risks include:
+			* Age
+			* Intensity of myeloablation
+			* GvHD
+			* Total body irradiation
+			* Allogeneic transplant
+		* Presentation with:
+			* Fever
+			* Dyspnoea
+			* Cough\
+			Haemoptysis is rare.
+			* Blood alveolar lavage samples
+		* Management:
+			* Steroids
+	* Idiopathic pneumonia
+* D
+	* PRES
+* H
+	* **Graft failure**\
+	Failure to establish new population of bone marrow cells.
+		* <5% after allogeneic infusion
+		* Causes include:
+			* Inadequate dose
+			* Infection
+			* GvHD
+		* Management:
+			* G-CSF
+			* Stem cell re-infusion
+			* Repeat transplant
+	* Veno-occlusive disease\
+	Thrombotic occlusion of small hepatic veins.
+		* Presents as:
+			* Hepatomegaly
+			* Jaundice
+			* Ascites
+		* Risk factors:
+			* Certain myeloablative regimens
+			* Pre-existing abnormal LFTs
+		* Management with defibrotide
+	* Post-transplant lymphoproliferative disorder\
+	Uncontrolled proliferation of EBV-infected B cells, causing impaired T-cell immunity.
+	* TTP
+* I
+	* Engraftment syndrome\
+	Transient inflammatory state occurring due to release of cytokines by engraftment of donor cells.
+		* Features include:
+			* Fever
+			* Rash
+			* Non-cardiogenic pulmonary oedema
+			* Abnormal LFTs
+			* Encephalopathy
+		* ↑ Risk with G-CSF
+		* Management with steroids and supportive care
+	* **Infection**\
+	Highest risk in the pre-engraftment, followed by early post-engraftment phase.
+	* **GvHD**
+
+:::column-margin
+TTP (and other microangiopathies) is covered under @sec-ttp.
+:::
+
+:::column-margin
+GvHD is covered in detail under @sec-gvhd.
+:::
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+2. Snowden JA, Sánchez-Ortega I, Corbacioglu S, et al. [Indications for haematopoietic cell transplantation for haematological diseases, solid tumours and immune disorders: current practice in Europe, 2022](https://www.nature.com/articles/s41409-022-01691-w#Sec5). Bone Marrow Transplant. 2022;57(8):1217-1239.

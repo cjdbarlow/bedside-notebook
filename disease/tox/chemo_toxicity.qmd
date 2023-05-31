@@ -67,12 +67,30 @@ Chemotherapeutic agents with unique toxidromes include:
 		Condition is **exacerbated by ↑ FiO~2~**, which should be avoided.
 		* ~2% mortality
 * **Ifosfamide**
-	* Aklylating agent
-	* Used in cervical, ovarian, breast, lung, and head and neck cancer
-	* Encephalopathy in 10-20%
-		* Variable severity from confusion to coma
-		* Likely due to direct toxicity from metabolites
-		* Methylene blue 50mg IV Q6H is therapeutic
+	* Alkylating agent
+	* Used in lymphoma, cervical, ovarian, breast, lung, and head and neck cancer
+	* Toxicity is likely from metabolites, and consists of
+		* Visual or auditory hallucinations
+		* Encephalopathy in 10-20%\
+		Variable severity from confusion to coma.
+	* Risk factors for toxicity include:
+		* Hypoalbuminaemia
+		* Hyponatraemia
+		* ↑ Creatinine
+		* Previous cisplatin
+		* Bulky disease
+	* Management consists of:
+		* Normalisation of electrolytes and albumin
+		* Benzodiazepines for seizures
+		* Methylene blue 50mg IV Q6H
+* **Retinoic acid**
+	* Used for APML
+	* Toxic features include:
+		* Respiratory failure
+		* Shock
+			* AKI
+		* Fluid retention
+	* Management is supportive
 * **Trastuzumab** (Herceptin)
 	* Causes dose-independent myocardial dysfunction
 		* Commonly combined with anthracyclines which ↑ risk

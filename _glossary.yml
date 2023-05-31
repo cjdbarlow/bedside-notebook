@@ -15,7 +15,9 @@ AIDS: Acquired Immunodeficiency Syndrome
 ALF: Acute Liver Failure
 ALS: Advanced Life Support
 ANP: Atrial Natriuretic Peptide
+AML: Acute Myeloid Leukaemia
 APL: Adjustable Pressure Limiting
+APML: Acute Promyelocytic Leukaemia
 APS: Anti-Phospholipid Syndrome
 AR: Aortic Regurgitation
 AS: Aortic Stenosis
@@ -96,6 +98,7 @@ GFR: Glomerular Filtration Rate
 GH: Growth Hormone
 GRV: Gastric Residual Volume
 GSW: Gunshot Wound
+GvHD: Graft versus Host Disease
 HAART: Highly active antiretroviral therapy
 HAP: Hospital-Acquired Pneumonia
 Hb: Haemoglobin
@@ -173,6 +176,7 @@ NDMR: Non-Depolarising Muscle Relaxant
 NIHSS: National Institute of Health Stroke Scale/Score
 NIRS: Near-Infrared Spectroscopy
 NIV: Non-Invasive Ventilation
+NHL: Non-Hodgkin Lymphoma
 NMB: Neuromuscular Blocker
 NMBD: Neuromuscular Blocking Drug
 NMJ: Neuromuscular Junction

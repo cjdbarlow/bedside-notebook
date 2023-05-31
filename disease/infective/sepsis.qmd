@@ -153,31 +153,32 @@ The qSOFA is a quick screening tool to identify patients who should be *consider
 ## Investigations
 
 **Laboratory**:
-	* Blood
-		* CRP
-			* Non-specific marker of inflammation
-				* May be more specific for *Strep. pneumonia* infection\
-				This may also better identify patients in whom steroid would be appropriate. 
-			* Rises 4-6 hours after onset of infection, doubles ~8 hourly
-			* Correlates with severity of infection
-				* Rapid ↓ indicates response
-		* Procalcitonin
-			* Relatively more specific marker of inflammation\
-			Elevated in:
-				* Bacterial infection\
-				Produced in response to bacterial endotoxin.
-					* Levels rise in 6-8 hours\
-					Prior to cultures flagging positive.
-					* Not ↑ in viral or fungal infections
-					* Not ↑ in local bacterial infection without a systemic response
-				* Burns
-				* TLS
-				* Major surgery
-				* Multi-organ failure
-				* ESRD\
-				Renally cleared.
-			* No better than clinical judgment in discriminating infectious vs. non-infectious causes
-			* Expensive, requires serial measurements
+
+* Blood
+	* CRP
+		* Non-specific marker of inflammation
+			* May be more specific for *Strep. pneumonia* infection\
+			This may also better identify patients in whom steroid would be appropriate. 
+		* Rises 4-6 hours after onset of infection, doubles ~8 hourly
+		* Correlates with severity of infection
+			* Rapid ↓ indicates response
+	* Procalcitonin
+		* Relatively more specific marker of inflammation\
+		Elevated in:
+			* Bacterial infection\
+			Produced in response to bacterial endotoxin.
+				* Levels rise in 6-8 hours\
+				Prior to cultures flagging positive.
+				* Not ↑ in viral or fungal infections
+				* Not ↑ in local bacterial infection without a systemic response
+			* Burns
+			* TLS
+			* Major surgery
+			* Multi-organ failure
+			* ESRD\
+			Renally cleared.
+		* No better than clinical judgment in discriminating infectious vs. non-infectious causes
+		* Expensive, requires serial measurements
 
 
 ## Management {#sec-sepsis_mx}

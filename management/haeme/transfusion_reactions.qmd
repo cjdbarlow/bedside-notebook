@@ -43,7 +43,7 @@ Complications likely to be multifactorial include:
 +-------------+------------------------------------------------------------------------+------------------------------------------------------+
 | **Delayed** | * Delayed haemolysis\                                                  | * Iron overload                                      |
 |             | Sensitisation 2-14 days after exposure, typically to minor antibodies. |                                                      |
-|             | * Transfusion-Associated GVHD\                                         |                                                      |
+|             | * Transfusion-Associated GvHD\                                         |                                                      |
 |             | Infused lymphocytes attack a (usually) immunocompromised host.         |                                                      |
 |             | * Alloimmunisation                                                     |                                                      |
 |             | * Transfusion-related Immune Modulation\                               |                                                      |
@@ -131,6 +131,10 @@ TRALI is:
 ### Transfusion-Associated Graft-Versus-Host Disease
 
 Classically an **immunocompromised recipient** displays:
+
+:::column-margin
+GvHD is covered in detail under @sec-gvhd.
+:::
 
 * 3-30 days following transfusion
 * ↓ Risk with treating blood products to neutralise lymphocytes:

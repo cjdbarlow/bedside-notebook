@@ -48,7 +48,7 @@ Otherwise, just wait?
 **Proteins**:
 
 :::column-margin
-**Hyperviscosity syndrome** is characterised by hypervolaemia, visual disturbances, and neurological dysfunction.
+{{< include /includes/hyperviscosity.qmd >}}
 :::
 
 * Autoantibodies

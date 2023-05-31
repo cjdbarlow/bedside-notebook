@@ -252,6 +252,7 @@ book:
             chapters:
             - management/haeme/ivig.qmd
             - management/haeme/plasmapheresis.qmd
+            - management/haeme/stem_cell.qmd
         - part: "Trauma"
           chapters:
           - management/trauma/primary.qmd
@@ -791,6 +792,9 @@ book:
           - disease/onc/tls.qmd
           # Lung ca
           # Renal ca
+          - disease/onc/leukaemia.qmd
+          - disease/onc/lymphoma.qmd
+          - disease/onc/myeloma.qmd
           - disease/onc/phaeo.qmd
           - disease/onc/carcinoid.qmd
         - part: "Erythrocyte"
@@ -811,7 +815,6 @@ book:
           chapters:
           - disease/immune/anaphylaxis.qmd
           - disease/immune/mods.qmd
-          - disease/immune/gvhd.qmd
           # Tranfusion reactions
           # TENS/SJS
         - part: "Autoimmune"
@@ -819,6 +822,7 @@ book:
           - disease/immune/ra.qmd
           - disease/immune/itp.qmd
           - disease/immune/iris.qmd
+          - disease/immune/gvhd.qmd
           # SLE
           # PAM
           # PMR

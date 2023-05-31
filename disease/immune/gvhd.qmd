@@ -1,6 +1,110 @@
-# Graft-Versus-Host Disease
+# Graft versus Host Disease {#sec-gvhd}
+
+Complication of **allogeneic** haematopoietic **stem cell transplant** (and occasionally blood transfusion) where the **donor immunological cells recognise** the **host** as **foreign**, causing a generalised immune response. Divided into:L
+
+:::column-margin
+Haematopoietic stem cell transplant is covered under @sec-gvhd.
+:::
+
+* Acute GvHD
+	* Classically 7-28 days following transplant
+	* Features:
+		* Maculopapular rash
+		* Diarrhoea
+		* Intrahepatic cholestasis
+	* Staged based on extent of rash, volume of diarrhoea, and bilirubin
+* Chronic GvHD\
+Multiorgan dysfunction.
+	* Generally occurs >100 days post transplant
+	* Generalised organ involvement
+
+
+## Epidemiology and Risk Factors
+
+Risk factors:
+
+* Allogeneic stem cell transplant\
+30-50% of cases.
+* HLA mismatch
+* ↑ Donor age
+* ↑ Recipient age
+* Inadequate immunosuppression
+* Peripheral blood utilised as stem cell source
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Features
+
+## Assessment
+
+**History**:
+
+**Exam**:
+
+### Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+* Tissue biopsy\
+Affected regions; classically skin, liver, or rectal.
+
+**Imaging**:
+
+**Other**:
+
+### Diagnostic Approach and DDx
+
+
+## Management
+
+:::priority
+* Preventative immunosuppression in at-risk individuals
+* Pulsed immunosuppression for 
+:::
+
+**Resuscitation**:
+
+**Specific therapy**:
+
+* Pharmacological
+	* Pulsed methylprednisolone
+	* Additional immunosuppression
+* Procedural
+* Physical
+
+**Supportive care**:
+
+* G
+	* Nutritional support\
+	PN may be required due to secretory diarrhoea.
+
+**Disposition**:
+
+**Preventative**:
+
+* Immunosuppression
+	* Corticosteroids
+	* Cyclosporin
+	* Mycophenolate mofetil)
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
 
 
 ---
 
 ## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

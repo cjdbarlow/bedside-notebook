@@ -41,9 +41,11 @@ Table editor:
 
 # Decisions
 
-* Where to put rhabdo, CIM, CIN
+* Where to put:
+	* Rhabdo, CIM, CIN
 	* Rhabdo under fluid?
 	* CIM, CIN under neuromuscular?
+	* GvHD?
 
 * Infection
 	* Move system-specific infections to that system

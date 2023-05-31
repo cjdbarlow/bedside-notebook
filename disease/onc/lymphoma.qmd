@@ -1,0 +1,111 @@
+# Lymphoma
+
+Malignancy of lymphoid tissues, causing solid tumours in lymphoid organs. Lymphomas are:
+
+* Divided into:
+	* **Hodgkin Lymphoma**
+		* Classically present with:
+			* Cervical lymphadenopathy
+			* Pruritis
+			* B symptoms
+		* Predominantly curable with chemotherapy
+	* **Non-Hodgkin Lymphoma**\
+	Heterogenous group with many subtypes, broadly divided into:
+		* High-grade lymphomas\
+		Aggressive but chemotherapy sensitive. Include:
+			* Diffuse large B cell lymphoma\
+			~30% of all NHL.
+		* Low-grade lymphoma\
+		Indolent, slow growing, and generally incurable. Include:
+			* Follicular lymphoma
+			* Mantle cell lymphoma
+			* Marginal zone lymphomas
+			* Waldenstrom macroglobulinaemia
+* Staged by the Ann Arbor system\
+Includes both principle stages and modifiers.
+	* Principle stages
+		* I: Single region\
+		Usually asymptomatic.
+		* II: Two separate regions on one side of the diaphragm
+		* III: Regions on both sides of diaphragm
+		* IV: Disseminated with involvement of ⩾1 extra-lymphatic organ
+	* Modifiers
+		* A: Absence of B symptoms
+		* B: Presence of B symptoms
+		* E: Extranodal spread
+		* S: Splenic spread
+		* X: One deposit >10cm
+
+:::column-margin
+B symptoms are a poor prognostic sign and consist of:
+
+* Weight loss\
+>10% unintentional ↓ in weight over the preceding 6 months.
+* Fever >38°C
+* Night sweats
+:::
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Features
+
+## Assessment
+
+**History**:
+
+**Exam**:
+
+### Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+**Imaging**:
+
+**Other**:
+
+### Diagnostic Approach and DDx
+
+
+## Management
+
+:::priority
+Goals of management
+:::
+
+**Resuscitation**:
+
+**Specific therapy**:
+
+* Pharmacological
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

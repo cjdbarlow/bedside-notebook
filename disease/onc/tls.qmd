@@ -11,10 +11,27 @@ Life-threatening metabolic syndrome that occurs due to **rapid destruction** of 
 Due to phosphate precipitation.
 
 
-
 ## Epidemiology and Risk Factors
 
 ## Pathophysiology
+
+Chemotherapy causes death of large number of tumour cells causes a release of cellular contents:
+
+* Potassium\
+The dominant intracellular cation.
+* Phosphate
+* Purines\
+Metabolised to uric acid by metabolic pathways. Uric acid is:
+	* Renally cleared by a saturatable pathway\
+	Production of uric acid occurs much more rapidly than excretion, so in situations of purine excess a high amount of uric acid builds up.
+	* Weakly soluble\
+	Precipitates in fluids, namely:
+		* Renal tubules
+		* Joints
+
+:::column-margin
+Notably, primates are relatively unique in the animal kingdom in their inability to natively convert uric acid to the fairly harmless allantoin.
+:::
 
 ### Aetiology
 
@@ -23,10 +40,13 @@ TLS occurs most commonly:
 * In high-volume malignancies:
 	* Bulky solid tumours
 	* Haematological malignancies
-* Following a treatment
+* Following treatment
 	* Chemotherapy
 	* Radiotherapy
 
+:::column-margin
+TLS may occasionally occur in absence of chemotherapy.
+:::
 
 ## Clinical Manifestations
 
@@ -36,7 +56,13 @@ TLS occurs most commonly:
 
 ## Management
 
-**Resuscitation**:\
+:::priority
+* Prevent with **uric acid suppression**
+* **Fluid** resuscitation
+* **RRT** if refractory
+:::
+
+**Resuscitation**:
 
 * C
 	* Arrhythmia\
@@ -49,9 +75,13 @@ TLS occurs most commonly:
 		* Intravenous hydration
 		* Uric acid suppression
 			* Rasburicase\
-			Rapidly ↓ uric acid by catalysing it to allantoin.
+			Recombinant enzyme that catalyses metabolism of uric acid to allantoin, preventing uric acid buildup.
+				* May cause methaemoglobinaemia
+				* Can develop an antibody response to rasburicase
 			* Allopurinol\
-			↓ Uric acid formation by inhibiting xanthine oxidase. Less preferred to rasburicase as xanthine is accumulated, which can itself cause renal failure.
+			↓ Uric acid formation by inhibiting xanthine oxidase.
+				* Leads to formation of xanthine
+				* Less preferred to rasburicase as xanthine is accumulated, which can itself cause renal failure
 * Procedural
 	* RRT\
 	May be required for hyperkalaemia or hyperphosphataemia.

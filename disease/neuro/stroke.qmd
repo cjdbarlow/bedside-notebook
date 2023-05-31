@@ -62,10 +62,13 @@ Risk doubles every decade after 55.
 	* Factor V Leiden
 	* Protein C/S deficiency
 	* Antithrombin III deficiency
-* Hyperviscosity
+* Hyperviscosity syndromes
 	* Myeloma
 	* HHS
 
+:::column-margin
+{{< include /includes/hyperviscosity.qmd >}}
+:::
 
 ## Pathophysiology
 

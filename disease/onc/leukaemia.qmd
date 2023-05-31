@@ -1,0 +1,136 @@
+# Leukaemia
+
+Haematological malignancy causing uncontrolled proliferation of abnormal haematopoietic progenitor cells, which:
+
+* Replaces normal bone marrow with dysfunctional leukocytes\
+Leads to bone marrow failure, characterised by:
+	* ↓ Haematopoiesis
+	* Immunocompromise
+* Classified based on the type of haematological progenitor cell affected:
+	* **Acute Myeloid Leukaemia**\
+	Uncontrolled proliferation of myeloid precursors. Rapidly progressive leukaemia which are further divided into:
+		* AML with characteristic genetic abnormalities\
+		Generally good prognosis. Includes:
+			* Several known translocations
+			* Acute promyelocytic leukaemia (APML)\
+			Associated with DIC.
+		* AML with multi-lineage dysplasia
+		Typically progresses from myelodysplasia and has poor prognosis.
+		* Therapy-related AML\
+		AML following chemotherapy or radiotherapy.
+	* **Acute Lymphoblastic Leukaemia**\
+	Uncontrolled proliferation of lymphoid precursors.
+		* Usually seen in childhood
+		* Good prognosis
+		* CNS involvement is common
+	* **Chronic Lymphocytic Leukaemia**\
+	Slow-growing accumulation of mature but abnormal lymphocytes.
+		* Common in elderly
+		* 8-12 year median survival
+		* May transform to diffuse large B cell lymphoma\
+		Consequentially very poor prognosis.
+	* **Chronic Myeloid Leukaemia**\
+	Accumulation of mature but abnormal lymphocytes that:
+		* Occurs in three phases, which occur as additional mutations accrue:
+			* Chronic phase\
+			May last several years, with minimal symptoms.
+			* Accelerated phase\
+			More rapid proliferation with ↑ symptoms.
+			* Blast crisis\
+			Proliferation of immature blasts, resembling acute leukaemia.
+	* Ambiguous lineage\
+	Evidence of either both lymphoid and myeloid cells, or where there are not enough categories to accurately classify it.
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+![](/resources/haeme_progenitor.png)
+
+### Aetiology
+
+## Clinical Features
+
+Presentation typically with:
+
+* Fatigue
+* Lymphadenopathy
+* Hepatosplenomegaly
+* Marrow failure
+	* Anaemia
+	* Bleeding
+	* Immunocompromise
+
+## Assessment
+
+**History**:
+
+**Exam**:
+
+### Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+**Imaging**:
+
+**Other**:
+
+### Diagnostic Approach and DDx
+
+Diagnosis confirmed with:
+
+* Blast cells
+* Immunophenotyping
+* Cytogenetic analysis
+* Molecular genetic analysis
+
+## Management
+
+:::priority
+* Chemotherapy
+:::
+
+**Resuscitation**:
+
+**Specific therapy**:
+
+* Pharmacological
+	* Chemotherapy
+		* Consists of three phases:
+			* Induction chemotherapy\
+			Achieve remission by ↓ cells to undetectable levels.
+			* Consolidation chemotherapy\
+			Eliminate residual undetectable disease.
+			* Maintenance therapy\
+			Prolong remission. Used in ALL and APML.
+		* Intrathecal chemotherapy used if CNS is involved
+	* Total body radiotherapy
+* Procedural
+	* Radiotherapy
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
