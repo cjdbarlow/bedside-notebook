@@ -2,40 +2,89 @@
 
 The CICM final exam consists of a:
 
-* Written exam\
-Two 15 question SAQ papers.
+* Written exam
+	* Two 15 question SAQ papers
+	* Aims to assess knowledge
 * Oral viva
+	* Aims to assess judgment
 * Hot case
+	* Aims to assess wisdom and real-world clinical decision making
 
 
 ## Written Exam
 
 As with the primary examination, a structured answer format:
 
-* ↑ The chance you will deliver a complete answer
+* Provides a scaffolding to hang ideas off and prompt your memory
+	* ↑ The chance you will deliver a complete answer
+* Buys you thinking time\
+Your mind can think of content whilst you subconsciously outline the structure on the page.
 * ↓ Stress
-* Is less painful to read
+* Is less painful to read, and therefore more favourable to mark
 
-### Templates
 
-Basic templates:
+### Glossary of Terms
 
-* Describe the **clinical management** of a disease or patient:
-	* **Assessment**
-		* History
-		* Examination
-		* Investigations
+These verbs detail the expectations for the answer:
+
+:::column-margin
+Re-read the question half-way through your answer - make sure you are answering the question that is asked.
+:::
+
+* **Critically evaluate**\
+Evaluate the evidence available relating to a topic.\
+\
+* **Outline**\
+Provide a summary of the important points.
+	* Breadth > depth\
+\
+* **List**\
+Provide a list.\
+\
+* **Compare and contrast**\
+Provide a description of similarities and differences. You may tabulate your
+answer.
+	* Provide a **description** of similarities and differences, not just a list
+	* Detail the significance of these differences
+
+:::column-margin
+If the question says you *may* tabulate your answer, you **should** tabulate your answer.
+:::
+
+* **Assessment**\
+Generic term that implies determining an underlying diagnosis, encompassing; history, clinical examination, and relevant investigations.
+	* History
+	* Examination
+	* Investigations
+	* Prioritised differential diagnosis
+	* Indicators of severity\
+\
+* **Management**\
+Generic term that implies determining an overall management plan, encompassing; resuscitation, definitive treatment, initial and ongoing monitoring with supportive treatment.
+	* **Principles**
+	* **Treatment Priorities**
 	* **Resuscitation**\
-	ABC approach. Comment on team coordination and clinical priorities.
+	ABC approach. Comment on team coordination.
 	* **Specific therapy**
 		* Pharmacological
 		* Procedural
 		* Physical
-	* **Underlying cause**
 	* **Supportive care**
-	* **Disposition**
+	* **Disposition**\
+\
+* **Discuss**\
+Explain the underlying key principles. Where appropriate, this may include controversies and/or advantages and disadvantages.
+	* Depth > breadth
+	* Controversies
+	* Pros and Cons\
+\
+* **Explain**\
+Make plain, interpret, account for.
+	* Reference to underlying theory and rationale
+	* Contextualised to the clinical scenario
 
 
+### Answer Templates
 
 Structures for specific question formats:
 
@@ -56,10 +105,11 @@ Structures for specific question formats:
 		* Prevalence of disease
 		* Pathophysiology
 		* Unique features of the therapy
-	* Pros
-	* Cons
-	* Evidence base
-	* My approach
+	* Summary of evidence
+	* Limitations of trials
+	* Pros and cons of trials
+	* Special situations
+	* Own practice
 * **Toxin**
 	* **R**esuscitation
 	* **R**isk assessment

@@ -229,9 +229,8 @@ book:
               chapters:
               - management/renal/overview.qmd
               - management/renal/crrt.qmd
-                # HDx
-                # PD
-                # Haemoperfusion
+                # SLED
+                # IHD
         - part: "Gastrointestinal"
           chapters:
           - management/git/acs.qmd
@@ -919,7 +918,6 @@ book:
           - disease/tox/nms.qmd
           - disease/tox/anticholinergic.qmd
           - disease/tox/last.qmd
-          - disease/tox/chemo_toxicity.qmd
         - part: "Specific Drugs"
           chapters:
           - disease/tox/paracetamol.qmd
@@ -933,6 +931,7 @@ book:
           - disease/tox/tca.qmd
           - disease/tox/iron.qmd
           - disease/tox/theophylline.qmd
+          - disease/tox/chemo_toxicity.qmd
           - disease/tox/amphetamine.qmd
           - disease/tox/cocaine.qmd
         - part: "Venoms"

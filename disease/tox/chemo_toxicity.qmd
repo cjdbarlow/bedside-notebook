@@ -8,7 +8,9 @@ Chemotherapeutic agents are infamous for a wide range of adverse effects. These 
 
 ## Immunotherapy Toxicity
 
-Immunotherapeutics are biological therapies that augment the immune system to destroy cancer cells, and have revolutionised the treatment of many malignancies with traditionally poor prognoses. Adverse effects of immunotherapy relate to augmented immune function and include:
+Immunotherapeutics are biological therapies that augment the immune system to destroy cancer cells, and have revolutionised the treatment of many malignancies with traditionally poor prognoses.
+
+Adverse effects of immunotherapy relate to augmented immune function and include:
 
 * B
 	* Pneumonitis
@@ -38,6 +40,7 @@ Immunotherapeutics are biological therapies that augment the immune system to de
 		* Maculopapular rashes
 		* Lichenoid eruptions
 
+
 Management:
 
 * Predominantly supportive
@@ -62,10 +65,17 @@ Chemotherapeutic agents with unique toxidromes include:
 * **Bleomycin**
 	* Antibiotic that destroys DNA by generation of oxygen free-radicals
 	* Used in cervical, germ cell, and head and neck tumours
-	* Causes pneumonitis in 40%
+	* Causes pneumonitis in 5-18% of exposed patients
 		* Via generation of oxygen free radicals with alveolitis and fibrosis\
-		Condition is **exacerbated by ↑ FiO~2~**, which should be avoided.
-		* ~2% mortality
+		Condition is **exacerbated by ↑ FiO~2~ >30%**, which should be avoided.
+		* Risk factors include:
+			* Age
+			* Cumulative bleomycin dose
+			* CKD
+			* FiO~2~\
+			Evidence is unclear about whether there is a dose-response relationship, or a threshold FiO~2~ exists.
+			* Smoking
+		* 2-5% mortality
 * **Ifosfamide**
 	* Alkylating agent
 	* Used in lymphoma, cervical, ovarian, breast, lung, and head and neck cancer
@@ -103,3 +113,4 @@ Chemotherapeutic agents with unique toxidromes include:
 
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
 2. J. Haanen, M. Obeid, L. Spain, et al. [Management of toxicities from immunotherapy: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up](https://www.esmo.org/guidelines/guidelines-by-topic/supportive-and-palliative-care/toxicities-from-immunotherapy). Annals of Oncology. Published online: 18 October 2022.
+3. Ingrassia TS, Ryu JH, Trastek VF, Rosenow EC. [Oxygen-Exacerbated Bleomycin Pulmonary Toxicity](https://www.mayoclinicproceedings.org/article/S0025-6196(12)60489-3/fulltext). Mayo Clinic Proceedings. 1991;66(2):173-178.
