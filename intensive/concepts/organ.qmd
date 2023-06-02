@@ -23,6 +23,7 @@ There are several principles that guide the process of organ donation in the Aus
 	* Irrespective of patient's known wishes, the family should be contacted to discuss donation and donation should not proceed if the family does not agree
 	* Tissue donation should be offered to the family of all dying patients in the hospital
 
+
 ## Principles
 
 Organ donation:
@@ -32,6 +33,7 @@ Organ donation:
 * **Should be discussed** with **donation staff**, *prior* to discussion with family
 * **Should be discussed** with **all families** where it is a possibility
 	* Any information contained on the organ donor register should also be communicated to family
+
 
 ## Suitability
 
@@ -52,27 +54,82 @@ Diseases commonly (but not exclusively) considered contraindications include:
 		* HIV
 
 
+Information that should be provided to donation coordinator should include:
+
+* Age
+* Sex
+* Weight
+* Height
+* Past history
+	* Co-morbidities
+	* Surgery
+	* Medication
+	* Alcohol
+	* Smoking
+	* Illicit drug use
+* History of fatal illness
+	* Cause
+	* Details of cardiac arrest
+	* End-organ injury
+	* Aspiration
+	* Periods of ischaemia
+* Current clinical state
+	* Organ supports
+	* Bloodwork
+	* Other investigations
+
+
+### Heart Donation
+
+The heart is highly susceptible to multiple insults that occur during brain death, and therefore most responsive to antemortem interventions.
+
+::: Donor Heart criteria
+
++-------------------+---------------------------+----------------------------------+
+| Parameter         | Standard                  | Marginal                         |
++===================+===========================+==================================+
+| Age (years)       | <50                       | \>50                             |
++-------------------+---------------------------+----------------------------------+
+| Cardiac History   | Nil                       | Present                          |
++-------------------+---------------------------+----------------------------------+
+| Comorbidities     | Nil                       | * Hepatitis B                    |
+|                   |                           | * Hepatitis C                    |
++-------------------+---------------------------+----------------------------------+
+| Echocardiography  | Normal                    | * LVEF <50%                      |
+|                   |                           | * Major RWMA                     |
+|                   |                           | * LVH >13mm                      |
++-------------------+---------------------------+----------------------------------+
+| Angiography       | * Normal                  | Occlusive disease                |
+|                   | * Non-occlusive disesease |                                  |
++-------------------+---------------------------+----------------------------------+
+| Inotropic support | Low                       | \>0.2μg/kg/min or noradrenaline\ |
+|                   |                           | Or equivalent.                   |
++-------------------+---------------------------+----------------------------------+
+| Ischaemic time    | <6 hours                  | \>6 hours                        |
++-------------------+---------------------------+----------------------------------+
+
+
 ### Lung Donation
 
-+--------------+--------------------------------+
-| Parameter    | Criterion                      |
-+==============+================================+
-| Age          | <60                            |
-+--------------+--------------------------------+
-| Smoking      | <20 pack-years                 |
-+--------------+--------------------------------+
-| Chest trauma | Nil                            |
-+--------------+--------------------------------+
-| Aspiration   | Nil                            |
-+--------------+--------------------------------+
-| ABG          | PaO~2~ >300mmHg on 100% oxygen |
-+--------------+--------------------------------+
-| Sputum       | Nil                            |
-+--------------+--------------------------------+
-| Bronchoscopy | Clear or minimal secretions    |
-+--------------+--------------------------------+
-
 : Standard Donor Lung Criteria
+
++----------------------+-----------------------------+
+| Parameter            | Criterion                   |
++======================+=============================+
+| Age (years)          | <60                         |
++----------------------+-----------------------------+
+| Smoking (pack-years) | <20                         |
++----------------------+-----------------------------+
+| Chest trauma         | Nil                         |
++----------------------+-----------------------------+
+| Aspiration           | Nil                         |
++----------------------+-----------------------------+
+| PaO~2~ (mmHg)        | \>300mmHg on 100% oxygen    |
++----------------------+-----------------------------+
+| Sputum               | Nil                         |
++----------------------+-----------------------------+
+| Bronchoscopy         | Clear or minimal secretions |
++----------------------+-----------------------------+
 
 Lung preservation techniques:
 
@@ -83,46 +140,15 @@ Lung preservation techniques:
 	* ↑ Ischaemic time
 	* May improve function of otherwise marginal organs
 
-## Death
 
-Donation can occur after:
+## Donation
 
-* **Brain death**\
-Forms 75-90% of total donors, and considered in patients proceeding towards brain death.
-* **Circulatory death**\
-Considered in ventilated patients in whom life-sustaining treatment is to be withdrawn, and death is likely to occur in a period that permits organ retrieval for transplantation.
-	* The decision for DCD should:
-		* Only be considered after consensus reached that active treatment is no longer in the patients interest
-		* Not include any member of the donation, transplant, or retrieval teams
-		* Not influence the administration of sedatives or analgesics
-		* Be raised with a family when:
-			* End of life care is proceeding
-			* The family are in favour of organ donation
-			* The patient is likely to become brain dead, but has not yet done so
-	* Leads to **warm ischaemic time**\
-	Period during which the organs are still warm, but hypoperfused following circulatory death. Warm ischaemic time is:
-		* The time from circulatory arrest to the time of perfusion with cold preservation solution during retrieval
-		* Related to the **agonal time**\
-		Time from cessation of cardiorespiratory support until circulatory arrest. An agonal time **>90 minutes** usually **precludes donation**, and **occurs** in ~**30%** of patients.
-		* Related to the **functional warm ischaemic time**\
-		Time from SBP <50mmHg to the time of cold perfusion.
-		* Associated with ↑ complications and ↓ graft function:
-			* Delayed graft function
-			* Primary graft dysfunction
-			* Organ-specific ischaemia
-				* Biliary strictures
+Organ donation occurs after determination of patient death, which can be either:
 
-:::column-margin
-Acceptable warm ischaemic times vary depending on the organ:
+* Brain death
+* Circulatory death
 
-* Liver, pancreas: <30 minutes warm ischaemic time
-* Heart: <30 minutes from SBP <90 mmHg to cold perfusion
-* Kidneys: <60 minutes functional warm ischaemic time
-* Lungs: <90 minute functional warm ischaemic time
-:::
-
-
-### Outcomes
+: Comparison of Recipient Outcomes after Donation
 
 +----------+------------------------+----------------------------+
 | Organ    | Brain Death            | Circulatory Death          |
@@ -142,18 +168,103 @@ Acceptable warm ischaemic times vary depending on the organ:
 +----------+------------------------+----------------------------+
 
 
-: Comparison of Recipient Outcomes after Donation
+### Donation after Brain Death
 
-### Antemortem Intervention
+:::info
+Donation after brain death is also referred to as DND, or Donation after Neurological Death.
+:::
 
-Interventions to ↑ organ viability are appropriate if:
+DBD is only considered in patients with a diagnosis of brain death. DBD is:
+
+:::column-margin
+Preconditions and determination of brain death are covered in detail under @sec-braindeath.
+:::
+
+* The most common path for donors\
+75-90% of total donors.
+* Generally associated with improved recipient outcomes\
+Compared with DCD donation.
+* Easier to logistically coordinate\
+More predictable than DCD.
+
+
+### Donation after Circulatory Death
+
+DCD is considered in a **ventilated patient** in whom **life-sustaining treatment** is to be **withdrawn**, and **death** is **likely** to occur **in** a **period** that **permits** organ retrieval for **transplantation**. DCD should:
+
+* Only be considered after consensus reached that active treatment is no longer in the patients interest\
+This should include any member of the donation, transplant, or retrieval teams.
+* Not influence the administration of sedatives or analgesics
+* Be raised with a family when:
+	* End of life care is proceeding
+	* The family are in favour of organ donation
+	* The patient is likely to become brain dead, but has not yet become so
+
+:::column-margin
+DCD is divided into **four categories**:
+
+* I: Dead on arrival
+* II: CPR ceased
+* III: Cardiac arrest expected soon\
+Almost all donors in Australia, NZ, UK, and the US.
+* IV: Cardiac arrest whilst brain dead
+
+
+Donation other than class III are uncontrolled, and consequentially more ethically complex. Systems that emphasise utilitarian approaches, or only account for previously expressed wishes of the donor (disregarding family input) have some donations in category I and II.
+:::
+
+The nature of DCD donation creates additional complexities:
+
+:::column-margin
+Acceptable warm ischaemic times vary depending on the organ:
+
+* Liver, pancreas: <30 minutes warm ischaemic time
+* Heart: <30 minutes from SBP <90 mmHg to cold perfusion
+* Kidneys: <60 minutes functional warm ischaemic time
+* Lungs: <90 minute functional warm ischaemic time
+:::
+
+* **Warm ischaemic time**\
+Period during which the organs are still warm with usual VO~2~, but hypoperfused. Warm ischaemic time is:
+	* The time from circulatory arrest to the time of perfusion with cold preservation solution during retrieval
+	* Associated with ↑ complications and ↓ graft function:
+		* Delayed graft function
+		* Primary graft dysfunction
+		* Organ-specific ischaemia
+			* Biliary strictures
+	* Associated with two other similar terms\
+	Same underlying physiology but different metrics:
+		* **Agonal time**\
+		Time from cessation of cardiorespiratory support until circulatory arrest. An agonal time **>90 minutes** usually **precludes donation**, and **occurs** in ~**30%** of patients.
+		* **Functional warm ischaemic time**\
+		Time from SBP <50mmHg to the time of cold perfusion.
+* **Communication**
+	* Where WCRS occurs
+	* Unpredictability of timing
+	* Potential failed donation
+		* Medically inappropriate
+	    * Warm ischaemia time exceeded
+	    * May still donate tissue once death has taken place
+
+
+### Antemortem Interventions
+
+Some patients may receive interventions when:
+
+* The patient is still alive
+* The patient is expected to become an organ donor
+* The intervention will ↑ organ viability
+
+
+This is appropriate **only** if:
 
 * The patient wanted to be an organ donor
 * The family has made an informed decision, and consent obtained
 * The interventions do not shorten life or compromise care
 * Measures are taken to prevent pain or discomfort
 
-### Process
+
+### Process of Donation
 
 1. Routine referral of all patients who are likely to die for suitability of organ donation\
 This includes checking the organ donation register to ascertain the patients wishes.
@@ -175,7 +286,7 @@ A separate conversation from the end of life conversation, which includes:
 			* Risk of a failed donation if agonal time exceeded
 			* Determination of death
 		* DBD
-			* The patient looks the same afterwards\
+			* The patient looks the same after determination of death\
 			Warm, "breathing".
 4. Donor assessment
 	* Blood
@@ -205,7 +316,7 @@ A separate conversation from the end of life conversation, which includes:
 8. Transfer of the donor to the mortuary\
 The donor will "look dead: afterwards; donors generally look the same on transfer to the OR.
 10. Transfer of organs to the transplant centre
-11. Implantation 
+11. Implantation of retrieved organs to the recipient
 
 
 ---

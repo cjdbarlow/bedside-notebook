@@ -57,11 +57,8 @@ Classified into:
 
 * Hepatic
 * Extrahepatic
-	* Cardiac
-		* Hepatopulmonary syndrome\
-		Shunt due to pulmonary vasodilation in excess of ventilation, possibly due to ↓ hepatic clearance of endogenous vasodilators. 
-		* Porto-pulmonary hypertension\
-		Pulmonary hypertension (not due to left heart failure, i.e. ↑ PVR with a normal PCWP) in the setting of portal hypertension.
+	* Cardiac\
+	Classically a hyperdynamic, ↑ CO, ↓↓ SVR (possibly ↓ BP despite ↑ CO) state.
 	* Endocrine
 		* Secondary hyperaldosteronism
 	* Renal
@@ -84,6 +81,9 @@ Classified into:
 			* Anaemia of chronic disease
 		* Coagulopathy
 
+:::column-margin
+Porto-pulmonary hypertension and hepatopulmonary syndrome are discussed later, under complications.
+:::
 
 ### MELD Score
 
@@ -148,6 +148,7 @@ End-stage liver disease associated with high perioperative morbidity and mortali
 	* Ascites
 * C
 	* Hepatopulmonary syndrome
+	* Porto-pulmonary hypertension
 * D
 	* Hepatic encephalopathy
 * F
@@ -185,7 +186,38 @@ Causative organisms (in order of likelihood) include:
 * *S. Epidermidis*
 :::
 
-### Hepatorenal Syndrome
+### Hepatopulmonary Syndrome {#sec-hepatopulmonary}
+
+Intrapulmonary shunt secondary to pulmonary vasodilation. Hepatopulmonary syndrome:
+
+* Occurs in 20% of cirrhotic patients
+* Possibly due to ↓ hepatic clearance of endogenous vasodilators or ↑ nitric oxide synthetase activity
+* Occasionally associated with AVM
+* Associated with high mortality
+	* 15% at 90 days
+	* 40% at 1 year
+* Overwhelming majority resolve following liver transplantation\
+May take up to 1 year, indicating some degree of pathological vascular remodelling.
+
+
+### Porto-pulmonary Hypertension {#sec-portopulmonary}
+
+An ↑ in PVR in the setting of portal hypertension is ominous, and is:
+
+* Characterised by:
+	* Hyperdymamic, ↑ CO state
+	* ↑ Intrasvacular
+	* ↑ PVR
+* Responsive to pulmonary vasodilators\
+May require sustained (>3 months) treatment to effect remodelling.
+
+
+:::column-margin
+Pulmonary hypertension not due to left heart failure (i.e. ↑ PAP with a normal PCWP and normal PVR) is common (20%) in patients presenting for liver transplant, but the majority reflects an ↑ in CO and is not in itself a poor prognostic sign.
+:::
+
+
+### Hepatorenal Syndrome {#sec-hepatorenal})
 
 Hepatorenal syndrome is an end-stage manifestation of worsening renal perfusion that occurs in portal hypertension. Hepatorenal syndrome is:
 
@@ -213,6 +245,7 @@ Without other cause, i.e. despite:
 	* Note that the kidneys are usually functional and intact\
 	Renal function will return if portal hypertension is resolved (i.e. liver transplantation, or transplantation of the kidneys to a new host).
 * Indicative of poor prognosis
+
 
 Management:
 
@@ -242,6 +275,8 @@ Score to assess prognosis of cirrhosis:
 * Initially developed to predict perioperative mortality
 * Validated for prognostication and to assess necessity of liver transplantation
 
+: Child-Pugh Score Components
+
 | Value                          | 1 point  | 2 points                   | 3 points                       |
 | ------------------------------ | -------- | -------------------------- | ------------------------------ |
 | **Total bilirubin** (μmol/L)   | ⩽34      | 34-50                      | ⩾50                            |
@@ -250,8 +285,6 @@ Score to assess prognosis of cirrhosis:
 | **INR**                        | ⩽1.7     | 1.7-2.3                    | ⩾2.3                           |
 | **Ascites**                    | None     | Mild/medically controlled  | Moderate to severe/refractory  |
 | **Hepatic encephalopathy**     | None     | Grade I-II                 | Grade III-IV                   |
-
-: Child-Pugh Score Components
 
 :::column-margin
 There are many issues with the Child-Pugh score:
@@ -263,13 +296,13 @@ There are many issues with the Child-Pugh score:
 
 Patients are then risk stratified as follows:
 
+: Child-Pugh Scoring
+
 | Class  | Points  | One-year survival  |
 | ------ | ------- | ------------------ |
 | A      | 5-6     | 100%               |
 | B      | 7-9     | 80%                |
 | C      | 10-15   | 45%                |
-
-: Child-Pugh Scoring
 
 
 ## Key Studies

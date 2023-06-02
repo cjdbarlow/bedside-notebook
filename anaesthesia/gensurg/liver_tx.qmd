@@ -1,0 +1,57 @@
+# Liver Transplant
+
+:::gas
+**Airway**: 
+**Access**: 
+**Pain**: 
+**Position**:
+**Time**: 
+**Blood loss**:
+**Special**:
+:::
+
+Liver transplant is performed for patients with:
+
+:::column-margin
+Scoring, including the MELD score, are covered under @sec-alfscoring.
+:::
+
+* \>50% 5-year survival\
+Based on MDM assessment. Predictive factors:
+	* Cardiorespiratory assessment
+	* MELD score
+* Porto-pulmonary hypertension
+* Hepatopulmonary syndrome
+
+## Surgical Stages
+
+## Preoperative
+
+**Assessment:**
+**Consultation:**
+**Optimisation:**
+**Premedication:**
+**Explain/Consent:**
+
+## Intraoperative
+
+**Preparation:**
+**Induction:**
+**Maintenance:**
+**Echocardiography:**
+**Emergence:**
+
+## Postoperative
+
+**Disposition:**
+**Referrals/Review:**
+**Analgesia:**
+**Fluids:**
+**Thromboprophylaxis:**
+**Specific:**
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

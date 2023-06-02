@@ -417,6 +417,7 @@ book:
           - anaesthesia/cardiac/avr.qmd
           - anaesthesia/cardiac/mvr.qmd
           - anaesthesia/cardiac/myectomy.qmd
+          - anaesthesia/cardiac/heart_tx.qmd
         - part: "Cardiology"
           chapters:
           - anaesthesia/cardiac/ep.qmd
@@ -433,6 +434,7 @@ book:
           - anaesthesia/gensurg/scopes.qmd
           - anaesthesia/gensurg/thyroid.qmd
           - anaesthesia/gensurg/adrenalectomy.qmd
+          - anaesthesia/gensurg/liver_tx.qmd
         - part: "Neurosurgery"
           chapters:
           - anaesthesia/neuro/principles.qmd
@@ -536,7 +538,9 @@ book:
         - part: "Surgical"
           chapters:   
           - intensive/surgical/post_cardiac.qmd
+          - intensive/surgical/post_hearttx.qmd
           - intensive/surgical/post_lungtx.qmd
+          - intensive/surgical/post_liver.qmd
           # Post op thoracic
           # Post op neuro
           # Transplants
