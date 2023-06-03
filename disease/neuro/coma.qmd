@@ -1,6 +1,6 @@
 # Coma and Unconsciousness 
 
-Coma is a clinical state of being **not aware** and **not awake** due to impairment of the ARAS-thalmic-cortical pathway.  Lesion may be in:
+Coma is a clinical state of being **not aware** and **not awake** due to impairment of the ARAS-thalamic-cortical pathway.  Lesion may be in:
 
 * Arousal centres\
 Dorsal pons, midbrain, thalamus.
@@ -109,7 +109,7 @@ Coma may occur within minutes of severe oxygen deprivation.
 * **Metabolism** (of drugs)
 * **Ammonia**\
 Hepatic encephalopathy, as well as:
-	* Valproate in the settin gof carnitine deficiency
+	* Valproate in the setting of carnitine deficiency
 	* Urease-producing bacterial infection
 	* Hyperalimentation
 	* Inborn errors of metabolism
@@ -160,30 +160,30 @@ The FOUR (Full Outline of UnResponsiveness) score is:
 * A coma scale (similar to GCS)
 * Designed to be **valid** in **intubated patients**
 * Able to **further separate patients with low GCS** scores\
-Provides greater detail on patients with severe neurological injury.
+Greater separation between patients with severe neurological injury.
 	* Able to identify locked-in syndrome and vegetative states
-* Has clinically similar inter-rater reliability to GCS
+* Has similar inter-rater reliability to GCS
 * Measured on a **16-point scale**\
 Consists of **four components**, each **scored from 0-4**.
 * An overall **score of 0** should **prompt brain death evaluation**
 
-+-------+--------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------+----------------------------------------------------+
-| Score | Eye                                                                            | Motor                                                                                                 | Brainstem                                                                             | Respiration                                        |
-+=======+================================================================================+=======================================================================================================+=======================================================================================+====================================================+
-| 4     | Open, tracking, or blinking to command                                         | Thumbs up, fist, or peace sign                                                                        | Pupillary and corneal reflexes present                                                | Not intubated, regular breathing                   |
-+-------+--------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------+----------------------------------------------------+
-| 3     | Open but not tracking                                                          | Localising to pain                                                                                    | One pupil fixed and dilated                                                           | Not intubated, Cheyne-Stokes breathing             |
-+-------+--------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------+----------------------------------------------------+
-| 2     | Open to loud voice                                                             | Flexing to pain                                                                                       | Pupil OR corneal reflexes absent                                                      | Not intubated, irregular breathing                 |
-+-------+--------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------+----------------------------------------------------+
-| 1     | Open to pain                                                                   | Extending to pain                                                                                     | Pupil AND corneal reflexes absent                                                     | Intubated, breathing above ventilator              |
-+-------+--------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------+----------------------------------------------------+
-| 0     | Closed to pain                                                                 | No response or generalised myoclonus/status epilepticus                                               | Pupil, corneal, AND cough reflex absent                                               | Intubated, breathing at ventilator rate OR apnoeic |
-+-------+--------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------+----------------------------------------------------+
-| Notes | * If closed, eyes should be opened to test for tracking before inflicting pain | * Best **upper limb** response                                                                        | * Best possible response. Corneal reflexes should ideally be tested with saline drops |                                                    |
-|       | * Tracking requires at least 3 excursions                                      | * Localisation requires supraorbital nerve compression results in the patient touching examiners hand | * Tests mesencephalon, pons, and medulla function                                     |                                                    |
-|       | * Blinking requires at least 2 blinks                                          | * Myoclonus: Persistent, multisegmental, arrhythmic, jerking movements.                               |                                                                                       |                                                    |
-+-------+--------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------+----------------------------------------------------+
++-------+--------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------+----------------------------------------------------+
+| Score | Eye                                                                            | Motor                                                                                                 | Brainstem                                         | Respiration                                        |
++=======+================================================================================+=======================================================================================================+===================================================+====================================================+
+| 4     | Open, tracking, or blinking to command                                         | Thumbs up, fist, or peace sign                                                                        | Pupillary and corneal reflexes present            | Not intubated, regular breathing                   |
++-------+--------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------+----------------------------------------------------+
+| 3     | Open but not tracking                                                          | Localising to pain                                                                                    | One pupil fixed and dilated                       | Not intubated, Cheyne-Stokes breathing             |
++-------+--------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------+----------------------------------------------------+
+| 2     | Open to loud voice                                                             | Flexing to pain                                                                                       | Pupil OR corneal reflexes absent                  | Not intubated, irregular breathing                 |
++-------+--------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------+----------------------------------------------------+
+| 1     | Open to pain                                                                   | Extending to pain                                                                                     | Pupil AND corneal reflexes absent                 | Intubated, breathing above ventilator              |
++-------+--------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------+----------------------------------------------------+
+| 0     | Closed to pain                                                                 | No response or generalised myoclonus/status epilepticus                                               | Pupil, corneal, AND cough reflex absent           | Intubated, breathing at ventilator rate OR apnoeic |
++-------+--------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------+----------------------------------------------------+
+| Notes | * If closed, eyes should be opened to test for tracking before inflicting pain | * Best **upper limb** response                                                                        | * Best possible response.                         |                                                    |
+|       | * Tracking requires at least 3 excursions                                      | * Localisation requires supraorbital nerve compression results in the patient touching examiners hand | * Tests mesencephalon, pons, and medulla function |                                                    |
+|       | * Blinking requires at least 2 blinks                                          | * Myoclonus: Persistent, multisegmental, arrhythmic, jerking movements.                               |                                                   |                                                    |
++-------+--------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+---------------------------------------------------+----------------------------------------------------+
 
 : FOUR Score
 
@@ -386,14 +386,13 @@ Urine:
 Generally poor:
 
 * 15% of non-traumatic coma return to pre-morbid state
-* Traumatic coma generally superior to non-traumat causes
+* Traumatic coma generally better to non-traumatic causes
 
 ## Key Studies
 
 ---
 
 ## References
-
 
 1. Yartsev, A. [The Unconscious Patient](http://www.derangedphysiology.com/main/cicm-fellowship-exam/hot-cases/unconscious-patient). Deranged Physiology. Accessed 11/2017.
 2. Wijdicks EFM, Bamlet WR, Maramattom BV, Manno EM, McClelland RL. Validation of a new coma scale: The FOUR score. Ann Neurol. 2005;58(4):585-593.

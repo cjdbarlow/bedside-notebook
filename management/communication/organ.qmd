@@ -1,6 +1,6 @@
 # Organ Donation {#sec-donorconvo}
 
-Discussions around organ donation are complex and emotive, and occurs at a particularly difficult and vulnerable time for families. The organ donation conversation is important as:
+Discussions around organ donation are complex and emotive, and occur at a particularly difficult and vulnerable time for families. The organ donation conversation is important as:
 
 :::column-margin
 This covers considerations when discussing organ donation with the family. The entire process of organ donation is covered in @sec-organdonation.
@@ -9,12 +9,12 @@ This covers considerations when discussing organ donation with the family. The e
 * Many families have:
 	* Little understanding of organ donation
 	* Not discussed their wishes with their loved one
-* The conversation occurs at a particularly difficult and vulnerable time\
+* Participants are vulnerable\
 It is important that the discussion occurs sensitively:
 	* Agreement for donation varies widely depending on *who* has the discussion
 	* Many (~35%) families who refuse organ donation later regret the decision
 	* Few (~5%) families who consent to organ donation later regret the decision
-* It is important to offer the family the opportunity to determine what they want to do
+* It is important to offer the family the opportunity to determine what their family member would have wanted
 * Organ donation is often valuable to donor families
 	* Family raise donation in 1/3 cases\
 	The conversation should be deferred if it is not appropriate, i.e. prior to planning end-of-life care.
@@ -33,12 +33,12 @@ Giving families information gives them the opportunity to have a choice. Not giv
 ## The Conversation
 
 :::info
-This assumes that the end-of-life conversation has already happened, and that the family is aware that their loved one is likely to die. A break should occur between these conversations.\
+This assumes that the end-of-life conversation has already happened, and that the family is aware that their loved one is likely to die. A **break should occur between** these **conversations**.\
 \
-In patients who are potential:
+In patients who are:
 
 * DBD\
-Then this conversation should happen **after** brain death testing has occurred. This requires an intervening conversation to discuss brain death, and a period to conduct testing and any relevant investigations.
+Then this conversation should happen **after** brain death testing has occurred. This necessitates a preceding conversation to discuss the results of brain death testing.
 * DCD\
 Then this conversation must happen **before** withdrawal of cardiorespiratory support.
 :::
@@ -67,7 +67,7 @@ Principles:
 1. **Introduce** the **donation nurse** if they have not yet met
 2. **Raise** organ **donation**\
 	* Emphasise that we are **offering the family to choose** what is right for them; not asking for or taking organs
-	* If the patient has registered as an organ donor, it is helpful to mention that now
+	* If the patient has registered as an organ donor, it is relevant to mention that now
 3. Give **important information**\
 Information that families have found helpful includes:
 	* Organ donor **registry status**

@@ -7,7 +7,9 @@ Brain death and circulatory death are both death, and do not differ in type or d
 **Brain Death** is the irreversible loss of all functions of the brain, including the brainstem. Brain death is also referred to as neurological death.
 
 :::column-margin
-This covers epidemiology and determination of brain death in a general Australian context. Management of the brain dead patient proceeding to organ donation is covered at @sec-braindeathmx.
+This covers epidemiology and determination of brain death in a general Australian context. Management of the brain dead patient proceeding to organ donation is covered at @sec-braindeathmx.\
+\
+Some suggested phrases for describing brain death to families are listed under @sec-donorconvo.
 :::
 
 ## Epidemiology and Risk Factors
@@ -55,22 +57,22 @@ Due to the immaturity of brain-stem reflexes, brain death cannot be determined i
 
 * A **brain lesion consistent with a diagnosis of brain death**\
 Neuroimaging consistent with acute brain pathology that could cause brain death. Only in the case of HIE is imaging not required, and the diagnosis may be made on history alone.
-* **Absence of physiological** and **anatomical perturbations** that could confound assessment:
+* **Absence of physiological** and **anatomical confounders** of assessment:
 	* No high cervical spine injury\
 	Must be able to assess:
 		* Upper limb motor response to central stimulus
 		* Central response (grimace) to upper limb stimulus
 		* Cough reflex
-	* Normothermia\
-	≥ 36.5°C. Hypothermia depresses consciousness, and brainstem reflexes may be absent <28°C.
-	* Normotensive 
-	SBP ≥90mmHg/MAP >60mmHg in adults, or age-appropriate perfusion pressure in children.
+	* Normotensive\
+	SBP ≥90mmHg or MAP >60mmHg in adults, or age-appropriate perfusion pressure in children.
 	* No sedation, analgesia 
 	Time for assessment depends on the drugs used and the degree of renal or hepatic dysfunction.
 		* Drug antagonists can be used if concern about persisting effects
 		* Thiopentone plasma levels should be <10mg/L
 	* No muscle relaxation\
 	Confirm with train-of-four.
+	* Normothermia\
+	≥ 36.5°C. Hypothermia depresses consciousness, and brainstem reflexes may be absent <28°C.
 	* Absence of severe metabolic, endocrine, and electrolyte derangements
 		* Glucose: <3 or >25mmol/L
 		* Sodium: <125 or >160mmol/L
@@ -192,21 +194,30 @@ Spinal reflexes are movements due to loss of higher centre inhibition of a refle
 If there is any doubt as to whether there is a confounding effect of sedation, then radiological testing should be performed.
 :::
 
-Cerebral perfusion imaging is used when brain death cannot be determined because the ***preconditions* are not met**. Key investigations:
+Cerebral perfusion imaging is used when brain death cannot be determined because the ***preconditions* are not met**.
 
-* 4-vessel angiogram\
-Demonstrating absence of flow above the carotid siphon in the anterior circulation and foramen magnum in the posterior circulation. Reliable, easy to interpret, but limited access.
-* Tc-99 HMPAO Spect\
-Lack of perfusion in the brain parenchyma.
-* CT Angiography\
-Acceptable when formal angiography or radionuclide imaging is not available.
- 
 :::column-margin
-MRI and transcranial doppler should not be used to determine brain death, although doppler may be appropriate to **time** formal imaging.\
-\
-EEG is similarly unhelpful; absence of cortical activity does not confirm brainstem death and electrical activity in some cortical cells does not indicate brain functioning.
+Obviously, if the preconditions *are* met then clinical testing should be performed, and that will determine whether or not brain death has occurred. Some institutions may routinely perform radiological investigations in addition to clinical assessment, but this is not required to establish a diagnosis of brain death.
 :::
 
+Key investigations:
+
+* **4-vessel angiogram**\
+Demonstrating absence of flow above the carotid siphon in the anterior circulation and foramen magnum in the posterior circulation. Reliable, easy to interpret, but limited access.
+* **Tc-99 HMPAO Spect**\
+Nuclear medicine study that determines lack of perfusion in the brain parenchyma.
+* **CT Angiography**\
+Acceptable when formal angiography or radionuclide imaging is not available.
+ 
+
+Other investigations:
+
+* MRI\
+Should not be used to determine brain death.
+* Transcranial doppler\
+Should not be used to determine brain death, although may be helpful to **time** formal imaging if brain death is expected as presence of MCA flow indicates radiographic evidence of brain death will not be present.
+* EEG\
+No benefit. Absence of cortical activity does not confirm brainstem death and electrical activity in some cortical cells does not indicate brain functioning.
 
 
 ---

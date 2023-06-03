@@ -8,13 +8,12 @@ This is specific to organ donation in the Australian context.
 This covers medical elements of organ donation. Discussing organ donation with family is covered in @sec-donorconvo.
 :::
 
-There are several principles that guide the process of organ donation in the Australian context, that arise from various bodies:
+Guiding principles for the process of organ donation in the Australian context arise from two major bodies:
 
-* Legislature
+* **Legislature**
 	* Organ donation should be an unconditionally altruistic and non-commercial act
 	* Organ donation is an opt-out process\
-	Evidence is unclear if changing to an opt-in model ↑ donation.
-* ANZICS
+* **ANZICS**
 	* No financial benefit should occur to any organisation or person from organ donation
 	* Conditional donation should be refused\
 	Family request that donation only goes to a certain sort of individual (positive condition) or not to a certain sort (negative condition).
@@ -23,8 +22,11 @@ There are several principles that guide the process of organ donation in the Aus
 	* Irrespective of patient's known wishes, the family should be contacted to discuss donation and donation should not proceed if the family does not agree
 	* Tissue donation should be offered to the family of all dying patients in the hospital
 
+:::column-margin
+There is some discussion as to whether organ donation should be changed to an opt-in model, however international jurisdictions that have done so have not seen an ↑ in donation rates.
+:::
 
-## Principles
+## Discussing Donation
 
 Organ donation:
 
@@ -81,9 +83,9 @@ Information that should be provided to donation coordinator should include:
 
 ### Heart Donation
 
-The heart is highly susceptible to multiple insults that occur during brain death, and therefore most responsive to antemortem interventions.
+The heart is highly susceptible to multiple insults that occur during brain death, and therefore the most responsive organ to antemortem interventions.
 
-::: Donor Heart criteria
+: Standard and Marginal Donor Heart criteria
 
 +-------------------+---------------------------+----------------------------------+
 | Parameter         | Standard                  | Marginal                         |
@@ -107,6 +109,12 @@ The heart is highly susceptible to multiple insults that occur during brain deat
 +-------------------+---------------------------+----------------------------------+
 | Ischaemic time    | <6 hours                  | \>6 hours                        |
 +-------------------+---------------------------+----------------------------------+
+
+
+Myocardial preservation techniques:
+
+* Cardioplegia
+* Ex-vivo heart perfusion
 
 
 ### Lung Donation
@@ -190,15 +198,21 @@ More predictable than DCD.
 
 ### Donation after Circulatory Death
 
-DCD is considered in a **ventilated patient** in whom **life-sustaining treatment** is to be **withdrawn**, and **death** is **likely** to occur **in** a **period** that **permits** organ retrieval for **transplantation**. DCD should:
+DCD is considered when:
+
+* A **ventilated patient** in whom **life-sustaining treatment** is to be **withdrawn**
+* **Death** is **likely** to occur **in** a **period** that **permits** organ retrieval for **transplantation**
+
+
+DCD should:
 
 * Only be considered after consensus reached that active treatment is no longer in the patients interest\
 This should include any member of the donation, transplant, or retrieval teams.
 * Not influence the administration of sedatives or analgesics
-* Be raised with a family when:
+* Be raised with a family if:
 	* End of life care is proceeding
 	* The family are in favour of organ donation
-	* The patient is likely to become brain dead, but has not yet become so
+	* The patient may become brain dead, but has not yet become so
 
 :::column-margin
 DCD is divided into **four categories**:
@@ -225,7 +239,7 @@ Acceptable warm ischaemic times vary depending on the organ:
 :::
 
 * **Warm ischaemic time**\
-Period during which the organs are still warm with usual VO~2~, but hypoperfused. Warm ischaemic time is:
+Period during which the organs are still warm and consuming oxygen, but hypoperfused and ischaemic. Warm ischaemic time is:
 	* The time from circulatory arrest to the time of perfusion with cold preservation solution during retrieval
 	* Associated with ↑ complications and ↓ graft function:
 		* Delayed graft function
@@ -240,7 +254,7 @@ Period during which the organs are still warm with usual VO~2~, but hypoperfused
 		Time from SBP <50mmHg to the time of cold perfusion.
 * **Communication**
 	* Where WCRS occurs
-	* Unpredictability of timing
+	* Unpredictability of timing of when death occurs
 	* Potential failed donation
 		* Medically inappropriate
 	    * Warm ischaemia time exceeded
@@ -266,18 +280,21 @@ This is appropriate **only** if:
 
 ### Process of Donation
 
-1. Routine referral of all patients who are likely to die for suitability of organ donation\
-This includes checking the organ donation register to ascertain the patients wishes.
-2. Discussion with the family (and rarely, patient, if competent) that the patient is likely to die
+1. **Routine referral** of all patients who are likely to die for suitability of organ donation\
+This includes checking the organ donation register to ascertain the patients wishes.\
+\
+2. **End-of-life discussion** with the family (and the patient, if competent)
 	* In DBD, this may be raising the chance of brain death having occurred and the need to perform further testing to confirm this
 	* In DCD, this may include discussion of futility of continuing treatment
 	* The organ donation nurse should be invited to attend this meeting
 		* This allows them to get to know and build rapport with the family
-		* They are best introduced as a "specialist nurse" rather than an organ donation specialist if organ donation has not yet been raised
-2. Determination of suitability of organ donation\
-By the intensivist and donation team.
-3. Discussion with the family about organ donation\
-A separate conversation from the end of life conversation, which includes:
+		* They are best introduced as a "specialist nurse" rather than an organ donation specialist if organ donation has not yet been raised\
+\
+3. **Determination** of **suitability** of organ **donation**\
+By the intensivist and donation team.\
+\
+4. **Discussion** with the **family** about **organ donation**\
+A **separate conversation from** the **end-of-life** conversation, which includes:
 	* Donation process
 	* Formal consent
 	* If relevant, discussing:
@@ -285,18 +302,28 @@ A separate conversation from the end of life conversation, which includes:
 		* DCD
 			* Risk of a failed donation if agonal time exceeded
 			* Determination of death
-		* DBD
-			* The patient looks the same after determination of death\
-			Warm, "breathing".
-4. Donor assessment
+
+:::column-margin
+If DBD, then usually 3 conversations will happen:
+
+1. Initial end-of-life discussion\
+Raising brain death testing.
+2. Report on outcome of brain death testing
+3. Discussion of organ donation\
+Separating this conversation from outcomes of brain death testing can be done by introducing a break - "I'd like to meet with you again in half an hour to discuss where we go from here."
+:::
+
+5. **Donor assessment**
 	* Blood
 	* Tissue typing
-	* Other tests as suitable
-5. Retrieval and transplant team meeting\
+	* Other tests as suitable\
+\
+6. **Retrieval and transplant team meeting**\
 	* Brief discussion of the relevant details of the donors
 	* Discussion of the recipients
-	* Logistical plan
-6. For DCD, the withdrawal of cardiorespiratory support
+	* Logistical plan\
+\
+7. For DCD, the **withdrawal of cardiorespiratory support**
 	* Negotiation of time and place\
 	May occur:	
 		* In ICU:
@@ -311,12 +338,16 @@ A separate conversation from the end of life conversation, which includes:
 		Hybrid approach of the above.
 	* Appropriate prevision of sedation and analgesia\
 	Should be given by the intensivist, and not by the anaesthetist or transplant team.
-	* The surgical team should not be present in the ICU
-7. Organ retrieval
-8. Transfer of the donor to the mortuary\
-The donor will "look dead: afterwards; donors generally look the same on transfer to the OR.
-10. Transfer of organs to the transplant centre
-11. Implantation of retrieved organs to the recipient
+	* The surgical team should not be present in the ICU\
+\
+8. Organ **retrieval**\
+\
+9. **Transfer** of the **donor** to the **mortuary**\
+The donor will "look dead" afterwards; donors generally look the same on transfer to the OR.\
+\
+10. **Transfer** of **organs** to the **transplant centre**\
+\
+11. **Implantation** of retrieved organs to the recipient
 
 
 ---

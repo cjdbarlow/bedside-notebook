@@ -6,7 +6,7 @@ A spectrum of acute glomerular dysfunction characterised by a ↓ UO and ↑ ser
 Noting that KDIGO is an imperfect definition: not all AKI will fit into this criteria, and not all cases fitting the criteria are true AKI.
 :::
 
-* **↑** In serum creatinine\
+* **↑ Serum Creatinine**\
 	* Best overall index of renal function
 		* Independently associated with ↑ mortality\
 		Larger rises in creatinine are correlated with poorer survival
@@ -14,15 +14,19 @@ Noting that KDIGO is an imperfect definition: not all AKI will fit into this cri
 	* Only rises once ~50% of GFR is lost\
 	This can become apparent where a patient with normal premorbid renal function develops an AKI after a relatively trivial physiological insult.
 	* Lags with respect to "true" GFR, so does not reflect dynamic changes
-* **↓** In **urine output**\
+* **↓ Urine Output**\
 UO is a reasonably sensitive but not specific index of kidney function.
 	* A significant ↓ in GFR immediately results in ↓ UO, however serum creatinine will not rise for several hours
 	* Volume depletion and hypotension stimulate vasopressin secretion and water reabsorption
 	* Polyuria may occur when tubular function is impaired, even if hypovolaemic\
 	Impaired concentration of urine in the loop causes **non-oliguric renal failure**.
 	* Ideal body weight should be used instead of actual body weight in the obese population for UO calculation
-* Diagnosis is more complex in the critically ill due to lack of steady-state conditions, variable rate of creatinine production, and variable rate of elimination
 
+:::column-margin
+Diagnosis is more complex in the critically ill due to lack of steady-state conditions, variable rate of creatinine production, and variable rate of elimination.
+:::
+
+: The KDIGO Classification
 
 +-------+---------------------------------------+-------------------------------+
 | Stage | Creatinine                            | Urine Output                  |
@@ -38,15 +42,17 @@ UO is a reasonably sensitive but not specific index of kidney function.
 |       | - eGFR ⩽35ml/min/1.73m^2^ in children |                               |
 +-------+---------------------------------------+-------------------------------+
 
-: The KDIGO Classification
-
 
 :::column-margin
 On **Acute tubular necrosis**:
 
 * The term ATN is often used to describe the intrinsic renal injury that occurs following a persistent pre-renal insult
-* This is probably not correct, as the histology of tubular necrosis is not confirmed in this population
-* In animal models, necrosis of the PCT (and occasionally DCT) occurs when blood flow is adequate to maintain tubular perfusion but not glomerular filtration, and is believed to be a form of ischaemia-reperfusion injury
+	* This is probably not correct, as the histology of tubular necrosis is not confirmed in this population
+	* The classical pattern is one of an:
+		* Oliguric renal failure of 1-2 weeks
+		* Non-oliguric renal failure of 10-14 days\
+		Likely due to restoration of glomerular filtration without recovery of tubular concentration.
+* In animal models, necrosis of the PCT (and occasionally DCT) occurs when blood flow is no longer adequate to maintain tubular perfusion and is believed to be a form of ischaemia-reperfusion injury
 * 'True' ATN may occur following arterial occlusion (such as AAA rupture or dissection)
 :::
 
@@ -87,7 +93,7 @@ Risk factors:
 		* Trauma
 		* Major surgery
 			* Cardiac surgery
-				* ↑ with CPB
+				* ↑ With CPB
 
 ## Pathophysiology
 
@@ -232,51 +238,49 @@ Divided into:
 
 ## Investigations
 
-Urinary tract ultrasound:
+**Laboratory**:
 
-* For diagnosis of obstruction
+* Blood
+	* Creatinine
+		* Normal daily variation in SCr is ~10%
+		* Measurements are affected by:
+			* Volume state (as it is measured as a concentration)
+			* 
+		* Ideally, results from the same lab should be used
+	* Urea
+	* Autoimmune profile\
+	ANCA, ANA, C3, C4. Perform in patients with:
+		* Pulmonary-Renal Syndrome
+		* Haemoptysis
+		* Haemolysis
+		* Thrombocytopaenia
+* Urine
+	* Sodium and osmolality
+		* Healthy kidneys respond to hypovolaemia/hypoperfusion by ↑ urinary osmolarity and ↓ sodium, urea, and water excretion\
+		This response may be impaired in disease, as well as due to drugs and other therapies (such as CPB).
+		* Low urine osmolality may indicate impaired tubular function
+		* High osmolality and low sodium with uraemia and oliguria suggests intact tubular function\
+	* Renal tubular cells\
+	Tubular disease.
+	* Red cell casts/dysmorphic red cells\
+	Indicate glomerular disease.
+	* Oxalate crystals\
+	Ethylene glycol poisoning.
+	* Urate crystals\
+	Tumour lysis syndrome.
+	* Urinary light chains
 
 
-Serology:
+**Imaging**:
 
-* Creatinine
-	* Normal daily variation in SCr is ~10%
-	* Measurements are affected by:
-		* Volume state (as it is measured as a concentration)
-		* 
-	* Ideally, results from the same lab should be used
-* Urea
-
-
-Urinalysis:
-
-* Sodium and osmolality
-	* Healthy kidneys respond to hypovolaemia/hypoperfusion by ↑ urinary osmolarity and reducing sodium, urea, and water excretion\
-	This response may be impaired in disease, as well as due to drugs and other therapies (such as CPB).
-	* Low urine osmolality may indicate impaired tubular function
-	* High osmolality and low sodium with uraemia and oliguria suggests intact tubular function\
-* Renal tubular cells\
-Tubular disease.
-* Red cell casts/dysmorphic red cells\
-Indicate glomerular disease.
-* Oxalate crystals\
-Ethylene glycol poisoning.
-* Urate crystals\
-Tumour lysis syndrome.
-* Urinary light chains
+* Urinary tract ultrasound\
+For diagnosis of obstruction.
 
 
 **Other**:
 
 * Intrabdominal pressure measurement\
-For evaluation of abdominal compartment syndrome.
-	* Urinary pressure >20mmHg suggests compartment syndrome causing AKI
-* Autoimmune profile\
-ANCA, ANA, C3, C4. Perform in patients with:
-	* Pulmonary-Renal Syndrome
-	* Haemoptysis
-	* Haemolysis
-	* Thrombocytopaenia
+	* \>20mmHg suggests abdominal compartment syndrome contributing to AKI
 * Renal biopsy
 
 
@@ -284,107 +288,77 @@ ANCA, ANA, C3, C4. Perform in patients with:
 
 ### Preventative
 
-Principles:
+:::priority
+* Maintain **renal perfusion**
+* Avoid **nephrotoxins**
+* Remove **obstruction**
+:::
 
-* Maintain renal perfusion
+**Specific therapy**:
+
+:::column-margin
+CRRT is covered in detail under @sec-crrt.
+:::
+
+* Pharmacological
+	* **Avoid nephrotoxins**
+		* Avoid aminoglycosides unless no other alternatives are available\
+		If used:
+			* Administer as single daily dose
+			* Monitor levels when used for >48 hours
+		* Use lipid formulations of amphotericin B
+		* Use azoles or echinocandins as alternatives to amphotericin B if able
+		* IV contrast
+* Procedural
+	* **RRT**
+		* Indicated for life-threatening:
+			* Volume overload
+			* Electrolyte disturbance
+			* Acidosis
+			* Uraemia\
+			Typically initiated for uraemia prior to onset of uraemic complications.
+				* Uraemic pericarditis
+				* Encephalopathy
+				* Coagulopathy
+			* Toxins
+		* Aimed at:
+			* Maintaining electrolyte, solute, and acid-base homeostasis
+			* Preventing further renal insult
+			* Permitting renal recover
+			* Facilitate delivery of other supportive measures
+		* Ceased when either:
+			* Intrinsic kidney function has recovered\
+			Mean duration ~12 days.
+			* Not consistent with goals of care
+
+:::column-margin
+Not that RRT is indicated by creatinine and urea values alone.
+:::
+
+:::column-margin
+There is no mortality difference between IHD and CRRT, but CRRT is less likely to cause hypotension.
+:::
+
+**Supportive care**:
+
+* C
 	* Maintain intravascular volume
+		* Crystalloid > colloid
+	* Maintain renal perfusion pressure\
+	Maintain **MAP 65-90mmHg**.
+		* Consider higher MAP targets in patients with hypertension
+		* Vasopressors and fluids
+* G
+	* Avoid hyperglycaemia\
+	Use IV insulin to maintain BSL 6-10 mmol/L.
+	* Maintain 20-30 kcal/kg/day of energy intake\
+	Enteric route if possible.
+	* Avoid protein restriction
+* H
 	* Correct anaemia
-	* Maintain renal perfusion pressure33eee
 
 
-General considerations:
-
-* Maintain MAP 65-90mmHg
-	* Consider higher MAP targets in patients with hypertension
-	* Vasopressors and fluids
-* Maintain volume status
-	* Crystalloid > colloid
-* Avoid nephrotoxins
-	* Avoid aminoglycosides unless no other alternatives are available\
-	If used:
-		* Administer as single daily dose
-		* Monitor levels when used for >48 hours
-	* Use lipid formulations of amphotericin B
-	* Use azoles or echinocandins as alternatives to amphotericin B if able
-	* IV contrast
-
-
-Perioperative considerations:
-
-* Meticulous fluid management
-* Cardiac output and blood pressure control
-
-### Supportive
-
-* Avoid hyperglycaemia
-	* Use IV insulin to maintain BSL 6-8 mmol/L
-* Maintain 20-30 kcal/kg/day of energy intake\
-Enteric route if possible.
-* Avoid protein restriction
-
-
-### Corrective
-
-* Identify and remove precipitating factors
-	* Cease nephrotoxins
-	* Maintain perfusing MAP with crystalloid and pressors
-* Consider invasive monitoring
-* Identify and treat complications
-
-* Dialysis
-	* No mortality difference between IHD and CRRT, but CRRT is less likely to cause hypotension
-
-### Dialysis
-
-*Dialysis is covered in detail [here](/management/renal/rrt.md).*
-
-
-Renal replacement therapy is:
-
-* Indicated for life-threatening:
-	* Volume overload
-	* Electrolyte disturbance
-	* Acidosis
-	* Uraemia\
-	Typically initiated for uraemia prior to onset of uraemic complications.
-		* Uraemic pericarditis
-		* Encephalopathy
-		* Coagulopathy
-	* Toxins
-* Aimed at:
-	* Maintaining electrolyte, solute, and acid-base homeostasis
-	* Preventing further renal insult
-	* Permitting renal recover
-	* Facilitate delivery of other supportive measures
-* Not (necessarily) indicated by creatinine and urea values alone
-* Ceased when:
-	* Intrinsic kidney function has recovered\
-	Mean duration ~12 days.
-	* Not consistent with goals of care
-
-
-
-
-Technique:
-
-* CRRT has greater haemodynamic stability than IHD\
-CRRT is preferred in patients with:
-	* Haemodynamic instability
-	* High ICPs, brain oedema
-* Bicarbonate solutions are preferred over lactate solutions, *especially* in:
-	* Shock
-	* Hepatic failure
-	* Lactic acidosis
-* CRRT effluent volume should be 20-25ml/hr\
-This typically requires a prescription of 25-30ml/hr due to interruptions.
-	* Hypotension and electrolyte disturbances are more common at higher intensities and are not associated with 
-* RRT efficiency (Kt/V = Intensity/V~D~) should be 3.9
-	* Note that V~D~ is dynamic in the critically ill
-	* Therefore Kt/V is typically estimated using effluent flow rate
-
-
-
-### Ineffective Treatments
+### Marginal and Ineffective Therapies
 
 * Loop diuretics\
 Reduce volume but do not affect survival or renal recovery.
@@ -396,7 +370,7 @@ Reduce volume but do not affect survival or renal recovery.
 * Mannitol\
 Likely no benefit.
 * Dopamine\
-No evidence of benefit, some evidence of harm.
+↑ UO but does not improve renal recovery. Some evidence of harm (particularly arrhythmias).
 * Natriuretic peptides (e.g. ANP) \
 No benefit.
 * Fenoldopam\
@@ -406,25 +380,31 @@ No benefit.
 * NAC
 
 
+## Anaesthetic Considerations
+
+Major perioperative considerations:
+
+* Meticulous fluid management
+* Cardiac output and blood pressure control
+* Consideration of dynamic changes in renal clearance
+
+
 ## Complications
 
-Major complications:
 
 * Death\
 	* Perioperative mortality over 50%
-* Sepsis
-* Organ dysfunction
-
-
-Physiological derangements:
-
-* Volume overload
-* Metabolic acidosis
-* Hyperkalaemia
-* Uraemia
-	* Platelet dysfunction
-	* Pericarditis
-	* Encephalopathy
+* C
+	* Volume overload
+* F
+	* Metabolic acidosis
+	* Hyperkalaemia
+	* Uraemia
+		* Platelet dysfunction
+		* Pericarditis
+		* Encephalopathy
+* I
+	* Sepsis
 
 
 ---

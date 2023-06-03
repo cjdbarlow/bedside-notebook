@@ -10,8 +10,8 @@ Determination of circulatory death requires permanent loss of:
 	* Breath sounds
 	* Respiratory effort
 * Circulation\
->5 minutes loss of:
-	* Invasive arterial pressure 
+\>5 minute loss of:
+	* Invasive arterial pressure\
 	Preferred to ECG, as electrical activity may persist for several minutes. The **ECG** should **not be monitored** if an arterial line is present.
 	* Electrical activity\
 	If an arterial line is unavailable.
@@ -33,7 +33,6 @@ The 5 minute timeframe is chosen to minimise warm ischaemic time in DCD.
 To prevent aspiration.
 * No ventilation
 * No cardiac support
-
 
 
 ---
