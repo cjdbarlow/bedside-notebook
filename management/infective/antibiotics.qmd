@@ -32,7 +32,7 @@ Usually automated, and therefore reproducible
 	↓ MIC with ↓ concentration.
 * Not a perfect surrogate for *in vivo* efficacy
 	* Other factors besides MIC determine antibiotic effect
-	* Antibiotic tissue concentration may be higher or lower than serum
+	* Antibiotic tissue concentration (at site of disease) may be higher or lower than sampled serum concentration
 
 
 ### Kill Characteristics
@@ -45,7 +45,7 @@ Efficacy dependent on the time that antibiotic concentration exceeds MIC, but no
 	e.g. Preparation for cell division.
 	* Threshold effect\
 		* Maximal effect reached at some proportion (usually 40-70%) of the dosing interval\
-		Drug concentrations do not have to be over MIC continuously.
+		Drug concentrations do not have to be continuously over MIC.
 		* Affected by tissue penetration\
 		Time over MIC is important only in the tissue where the infection is, which may not be in blood (where we measure concentrations).
 	* Lend themselves to **dosing by infusion**
@@ -90,7 +90,7 @@ The post-antibiotic effect describes bacterial killing that persists after the c
 * Are an idiosyncratic feature of some agents\
 Usually where the drug binds strongly to some part of the bacteria.
 * Are **strongest** generally **for** drugs with **concentration-dependent** killing
-* Have moderate strength for **time-dependent** killing
+
 
 ### Treatment Failure
 
@@ -119,6 +119,8 @@ Antibiotic treatment failure may occur due to:
 
 
 ## Drugs
+
+: Comparison of Antibiotic Classes
 
 +---------------------+------------------------------------------------------------------------------------+----------------------------------------------------------------+
 | Class               | Pharmacokinetics                                                                   | Dosing Considerations                                          |
@@ -150,7 +152,7 @@ Antibiotic treatment failure may occur due to:
 | **Quinolones**      | * Bactericidal                                                                     |                                                                |
 |                     | * Fast                                                                             |                                                                |
 |                     | * Concentration and time dependent\                                                |                                                                |
-|                     | Area under the inhibitor curve; i.e. AUC/MIC >125.                                 |                                                                |
+|                     | Area under the inhibitor curve; i.e. AUC or MIC >125.                              |                                                                |
 |                     | * Some post-antibiotic effect                                                      |                                                                |
 |                     | * Very **high tissue penetration**                                                 |                                                                |
 +---------------------+------------------------------------------------------------------------------------+----------------------------------------------------------------+
@@ -160,13 +162,13 @@ Antibiotic treatment failure may occur due to:
 |                     | Less effective in solid organ infections, ↑↑ V~D~ with extravascular fluid shifts. |                                                                |
 +---------------------+------------------------------------------------------------------------------------+----------------------------------------------------------------+
 
-: Comparison of Antibiotic Classes
-
 :::column-margin
 Carbapenems are also β-lactams, but have been separated here due to different pharmacokinetic properties.
 :::
 
 ## Dose Adjustment
+
+: Pharmacokinetic Changes in Critical Illness
 
 +---------------------------+------------------------------------+------------------------------------------------+
 | Characteristic            | Increased With                     | Decreased With                                 |
@@ -182,7 +184,6 @@ Carbapenems are also β-lactams, but have been separated here due to different p
 |                           | * ↓ Metabolism                     |                                                |
 +---------------------------+------------------------------------+------------------------------------------------+
 
-: Pharmacokinetic Changes in Critical Illness
 
 ### Renal Failure
 

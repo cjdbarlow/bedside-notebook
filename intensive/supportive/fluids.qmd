@@ -1,17 +1,16 @@
 # Fluids
 
 
-
-
 ## Principles
 
 * Critically unwell patients tend to:
 	* Receive large volumes of fluid
 	* Retain large volumes of fluid
 * Positive fluid balance correlates with mortality\
-**\>4-5L positive** requires intervention.
-* ICU patients tend to be euvolaemic by the time of admission
-
+**\>4-5L positive** requires intervention.\
+\
+* ICU patients tend to be euvolaemic by the time of admission\
+\
 * Balanced crystalloid is preferable except in:
 	* ↑ ICP\
 	Hypertonic sodium solutions preferable.
@@ -31,7 +30,7 @@ Diuresis:
 * Furosemide is the diuretic of choice for volume control
 * However, further issues may arise that require intervention:
 	* **Hypernatraemia**
-		* Furosemide produces**dilute** urine\
+		* Furosemide produces **dilute** urine\
 		More water is eliminated relative to sodium (it's dilute), resulting in concentration of ECF contents and ↑ Na^+^.
 		* Correction of hypernatraemia classically requires administration of free water, which is inefficient
 		* Consider a **thiazide** to ↑ renal sodium elimination

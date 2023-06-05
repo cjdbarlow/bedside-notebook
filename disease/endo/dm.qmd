@@ -197,8 +197,6 @@ Sliding scales should be based on the total daily insulin dose:
 
 ## Complications
 
-Significant risk:
-
 * ↑ Perioperative risk
 * C
 	* **Macrovascular** disease
@@ -240,7 +238,13 @@ Significant risk:
 	* Generally immunosuppressed\
 	Glycated neutrophils.
 
+:::column-margin
+DKA is covered in detail under @sec-dka.
+:::
 
+:::column-margin
+HHS is covered in detail under @sec-hhs.
+:::
 
 ### Obstetric Complications
 

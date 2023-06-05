@@ -1,10 +1,11 @@
 # Epilepsy {#sec-epilepsy}
 
-Epilepsy is a primary seizure disorder with recurrent (two or more) epileptic seizures.
+Epilepsy is a primary seizure disorder with recurrent (⩾2) epileptic seizures.
 
 :::column-margin
 This covers epilepsy. Management of seizures including status epilepticus are covered at @sec-seizure, and NCSE is covered at @sec-ncse.
 :::
+
 
 ## Epidemiology and Risk Factors
 
@@ -80,9 +81,15 @@ Post-traumatic epilepsy associated with:
 
 ## Investigations
 
+**Bedside**:
+
+* BSL
+
+
 **Laboratory**:
 
-* UEC/CMP
+* UEC
+* CMP
 * Prolactin
 
 
@@ -103,8 +110,7 @@ Evaluation of structural cause, with ↑ sensitivity and specificity compared wi
 
 ## Management
 
-Principles of medical management:
-
+:::priority
 * Single-agent therapy optimised before progressing to multi-agent therapy
 	* If adverse effect to first agent, a second agent tried as monotherapy\
 	* If seizures continue despite adequate dosing, combination therapy usually begun
@@ -114,33 +120,17 @@ Principles of medical management:
 	* ~66% of patients will remain seizure free
 * Drug therapy depends on type of epilepsy
 * Patients who have had one episode of status epilepticus should be prescribed benzodiazepines to treat refractory status
+:::
+
+:::column-margin
+Management of active seizures is covered under @sec-seizure.
+:::
 
 
-Drugs used:
+**Specific therapy**:
 
-* Focal seizures
-	* Lamotrigine
-	* Carbamazepine
-* Generalised
-	* Valproate\
-	Most effective drug for primary generalised epilepsy.
-
-
-### Mechanisms of Action
-
-|Mechanism|Drug|
-|---|---|
-|**↑ GABA Cl^-^ channel opening frequency**|- Benzodiazepines<br>- Tiagabine<br>- Gabapentin|
-|**↑ GABA Cl^-^ channel opening duration**|- Barbiturates|
-|**Block GABA transaminase**|Vigabatrin|
-|**Antagonise glutamate**|Topiramate|
-|**↓ Inward voltage-gated positive currents**|- Phenytoin<br>- Carbamazepine<br>- Ethosuximide|
-|**↑ Outward voltage-gated positive currents**|- Valproate|
-|**Pleotropic**|- Valproate<br>- Lamotrigine<br>- Topiramate|
-
-### Key Drug Interactions
-
-Predominantly related to CYP450 induction and inhibition:
+:::
+Antiepileptics have extensive drug interactions, predominantly related to CYP450 induction and inhibition:
 
 * Inductors
 	* Carbamazepine
@@ -148,7 +138,45 @@ Predominantly related to CYP450 induction and inhibition:
 	* Phenobarbital
 	* Primidone
 * Inhibitors
+:::
 
+* Pharmacological
+	* Focal seizures
+		* Lamotrigine
+		* Carbamazepine
+	* Generalised
+		* Valproate\
+		Most effective drug for primary generalised epilepsy.
+* Procedural
+* Physical
+
+:::column-margin
+: Mechanisms of Action
+
++-------------------------------------------+-------------------+
+| Mechanism                                 | Drug              |
++===========================================+===================+
+| ↑ GABA Cl^-^ channel opening frequency    | * Benzodiazepines |
+|                                           | * Tiagabine       |
+|                                           | * Gabapentin      |
++-------------------------------------------+-------------------+
+| ↑ GABA Cl^-^ channel opening duration     | * Barbiturates    |
++-------------------------------------------+-------------------+
+| Block GABA transaminase                   | Vigabatrin        |
++-------------------------------------------+-------------------+
+| Antagonise glutamate                      | Topiramate        |
++-------------------------------------------+-------------------+
+| ↓ Inward voltage-gated positive currents  | * Phenytoin       |
+|                                           | * Carbamazepine   |
+|                                           | * Ethosuximide    |
++-------------------------------------------+-------------------+
+| ↑ Outward voltage-gated positive currents | * Valproate       |
++-------------------------------------------+-------------------+
+| Pleotropic                                | * Valproate       |
+|                                           | * Lamotrigine     |
+|                                           | * Topiramate      |
++-------------------------------------------+-------------------+
+:::
 
 
 ### Anaesthetic Considerations
@@ -156,7 +184,11 @@ Predominantly related to CYP450 induction and inhibition:
 * D
 	* Anaesthetic affects\
 	Drugs may:
-		* Modulate seizure activity
+		* Modulate seizure activity\
+		Can be:
+			* Pro-convulsant
+			* Anti-convulsant
+			* Both
 		* Interact with antiepileptic medication
 	* General principles
 		* Continue antiepileptic drugs on day of surgery, and recommence as soon as possible afterwards\
@@ -164,25 +196,34 @@ Predominantly related to CYP450 induction and inhibition:
 		* Avoid epileptogenic drugs
 		* Note presence of drug interactions\
 
-#### Effect of Anaesthetic Agents on Epilepsy
 
-Anaesthetic agents may be:
+: Effect of Anaesthetic Agents on Epilepsy
 
-* Pro-convulsant
-* Anti-convulsant
-* Both
++---------------+-----------------------------------------------------------------+
+| Agent         | Effect                                                          |
++===============+=================================================================+
+| Nitrous Oxide | Seizures in mice, but not in humans                             |
++---------------+-----------------------------------------------------------------+
+| Sevoflurane   | May induce seizure-like activity particularly:                  |
+|               |                                                                 |
+|               | * In children                                                   |
+|               | * With associated hypocapnoea                                   |
++---------------+-----------------------------------------------------------------+
+| Isoflurane    | Antiepileptic, may be used in refractory status epilepticus     |
++---------------+-----------------------------------------------------------------+
+| Desflurane    | Antiepileptic                                                   |
++---------------+-----------------------------------------------------------------+
+| Opioids       | Lower seizure threshold, and may be used to potentiate seizures |
++---------------+-----------------------------------------------------------------+
+| Barbiturates  | Antiepileptic, may be used in status                            |
++---------------+-----------------------------------------------------------------+
+| Propofol      | Antiepileptic, may be used in status                            |
++---------------+-----------------------------------------------------------------+
+| Ketamine      | ↑ Seizures at low dose, ↓ seizures at anaesthetic doses         |
++---------------+-----------------------------------------------------------------+
+| NMBD          | No effect                                                       |
++---------------+-----------------------------------------------------------------+
 
-|Agent|Effect|
-|---|---|
-|Nitrous Oxide|Seizures in mice, but not in humans|
-|Sevoflurane|May induce seizure-like activity particularly:<br>- In children<br>- With associated hypocapnoea|
-|Isoflurane|Antiepileptic, may be used in refractory status epilepticus|
-|Desflurane|Antiepileptic|
-|Opioids|Lower seizure threshold, and may be used to potentiate seizures|
-|Barbiturates|Antiepileptic, may be used in status|
-|Propofol|Antiepileptic, may be used in status|
-|Ketamine|↑ Seizures at low dose, ↓ seizures at anaesthetic doses|
-|NMBD|No effect|
 
 ### Marginal and Ineffective Therapies
 

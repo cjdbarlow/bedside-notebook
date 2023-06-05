@@ -21,7 +21,7 @@ Note that the name is a **misnomer** and patients typically present with **neith
 
 Typically presents with **pre-existing untreated** (or undiagnosed) **hypothyroidism**, exacerbated by some **precipitant**:
 
-* Cessation of usual thyroid suppression
+* Cessation of usual thyroid supplementation
 * Physiological stress
 	* Infection
 	* Hypothermia
@@ -81,7 +81,7 @@ Typically presents with **pre-existing untreated** (or undiagnosed) **hypothyroi
 		* Normocytic anaemia
 	* UEC
 		* Hyponatraemia\
-		Due to free wate retention.
+		Due to free water retention.
 		* Hypoglycaemia
 		* Hypophosphataemia
 	* TFTs
@@ -100,14 +100,12 @@ Typically presents with **pre-existing untreated** (or undiagnosed) **hypothyroi
 ## Management
 
 :::priority
-* Replace thyroid hormone\
+* **Thyroid** hormone **supplementation**\
 Note that **rapid replacement** may **precipitate** cardiac **ischaemia** and malignant **arrhythmias**.
-* Replace adrenal hormone
-* Supportive care
+* Adrenal **replacement** with **corticosteroids**
 :::
 
-
-**Resuscitation**:\
+**Resuscitation**:
 
 * A
 	* Intubation and ventilation may be required for respiratory failure

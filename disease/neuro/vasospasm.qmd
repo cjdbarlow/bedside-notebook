@@ -3,21 +3,20 @@
 :::info
 DCI was historically referred to as **vasospasm** due to the narrowed cerebral vasculature seen on angiogram. The nomenclature has changed due to recognition that:
 
-* The pathophysiology is more complex than just 
+* The pathophysiology is more complex than just vasoconstriction
 * Not all patients with radiological vasospasm are symptomatic
 * Not all symptomatic patients have radiological vasospasm
 :::
 
-Neurological deterioration in the setting of SAH that:
+Acute neurological deterioration in the setting of SAH that:
 
 * Consists of one or more of:
 	* **New focal** neurological **deficit**
 	* **Drop** in **GCS** by **⩾2**
 	* Cerebral infarction
-* Lasts **more than one hour**
-* **Cannot be explained** by any other condition
+* Lasts **>1 hour**
+* Is **not otherwise explained**
 
- 
 
 ## Epidemiology and Risk Factors
 
@@ -55,7 +54,7 @@ Of large and medium-sized intracranial arteries.
 
 ## Management
 
-:::caution
+:::priority
 Aggressive management of vasospasm is critical to prevent neurological injury and should progress in a stepwise fashion:
 
 * Euvolaemia
@@ -63,15 +62,12 @@ Aggressive management of vasospasm is critical to prevent neurological injury an
 * Formal angiography with:
 	* Cerebral angioplasty
 	* Direct cerebral vasodilators
-::: 
-
-**Specific Therapy**:
-
+:::
 
 **Specific Therapy**:
 
 * Pharmacological
-	* **Volume** resuscitation
+	* **Volume** resuscitation\
 	To euvolaemia.
 	* **Induced hypertension**\
 	Process of ↑ SBP and monitoring for neurological improvement or complications of hypertension.

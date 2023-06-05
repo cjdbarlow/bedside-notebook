@@ -134,11 +134,11 @@ Post-traumatic epilepsy associated with:
 
 :::info
 * Most convulsive seizures cease within 2-3 minutes
-* Any seizure continuing ⩾5 minutes is unlikely to resolve spontaneously
+* Any **seizure continuing ⩾5 minutes** is **unlikely** to **resolve** spontaneously
 * All seizures lasting ⩾2 minutes longer than the patients usual seizure should be treated
 * Rapid control ↓ brain injury
 * ↑ Seizure duration associated with:
-	* ↓˛Response to treatment
+	* ↓ Response to treatment
 	* ↑ Risk of refractory status epilepticus
 :::
 
@@ -201,7 +201,8 @@ Determination of pseudo-seizures can be difficult and is best confirmed with EEG
 
 * Blood
 	* FBE/Coagulation assay
-	* UEC/CMP
+	* UEC
+	* CMP
 	* LFTs
 	* TFTs
 	* Porphyrins
@@ -257,15 +258,15 @@ The more the seizure is disturbing consciousness, the greater the risk of brain 
 
 * A
 	* Airway protection\
-	If intubation is required, consider **suxamethonium** so seizures can be rapidly detected.
+	If intubation is required, consider **suxamethonium** so seizure recurrence can be rapidly identified.
 * B
 	* Supplemental oxygenation
 * C
 	* IV access
 * D
-	* **50% Dextrose** 50mL IV with **thiamine** 100mg IV
+	* **50% Dextrose** 50mL IV with **thiamine** 100mg IV\
 	Low threshold if ↓ BSL is a possibility.
-	* **Seizure termination**
+	* **Seizure termination**\
 	See below.
 
 

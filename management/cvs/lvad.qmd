@@ -10,11 +10,11 @@
 
 Key LVAD parameters include:
 
-* Speed\
+* **Speed**\
 Pump speed in RPM. The speed is:
 	* The only value that is **set**
 	* Generally, ↑ pump speed should ↑ flow
-* Power\
+* **Power**\
 Measure of pump work.
 	* ↑ Power occurs with:
 		* ↑ Pump speed
@@ -26,12 +26,12 @@ Measure of pump work.
 		* ↓ Pump flow
 		* Obstruction\
 		*Inflow* cannula obstruction.
-* Flow\
+* **Flow**\
 LVAD flow is a measure of LVAD output, and is *estimated* based on:
 	* Speed
 	* RPM
 	* Haematocrit
-* Pulsatility Index\
+* **Pulsatility Index**\
 Measure of the variation in flow. The PI is:
 	* Calculated as:\
 	$PI = {Flow_{Max} - Flow_{Min} \over Flow_{Mean}}$
@@ -68,7 +68,7 @@ Vital signs:
 		* This pressure is the MAP
 
 
-LVAD assessment:
+LVAD Assessment:
 
 * Driveline intact
 * Driveline connected to controller

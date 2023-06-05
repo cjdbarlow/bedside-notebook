@@ -34,7 +34,9 @@ General risk factors:
 * Immunosuppression
 * Extremes of age
 * Cochlear implants
-* CSF leak
+* Trauma
+	* CSF leak
+	* Base of skull fracture
 
 
 For meningococcal meningitis:
@@ -86,7 +88,7 @@ Community acquired:
 			* Pericarditis
 	* ***H. influenzae***\
 	Most common cause prior to vaccination.
-	* *L. monocytogenes*
+	* *L. monocytogenes*\
 	Rare, and generally confined to the lightly immunocompromised:
 		* Elderly
 		* Splenectomy
@@ -123,7 +125,6 @@ Immunocompromised:
 
 * *Cryptococcus neoformans*
 	* Chronic meningitis
-	* Immunocompromised
 	* **India ink** stain and antigen testing on CSF
 	* ↑↑ Opening pressures
 * Tuberculosis meningitis
@@ -178,7 +179,7 @@ In the immunocompromised:
 * Behavioural changes
 
 :::column-margin
-NB: Kernig's sign is neither sensitive or specific of meningeal irritation.
+Kernig's sign is neither sensitive or specific of meningeal irritation.
 :::
 
 
@@ -195,13 +196,13 @@ Details of CSF findings in meningitis are covered under @sec-csf.
 :::
 
 * Blood
-	* FBE\
-	Infection.
+	* FBE
 	* Blood cultures
-	* PCR
+	* UEC
+	* BSL
 * Urine
 	* Pneumococcal urinary antigen\
-	Significantly ↓ sensitivity for meningitis compared with pneumoniae.
+	Significantly ↓ sensitivity for meningitis compared with pneumonia, but cheap and non-invasive.
 * LP
 	* Required to completely confirm diagnosis
 	* However, contraindications are common
@@ -210,7 +211,8 @@ Details of CSF findings in meningitis are covered under @sec-csf.
 	* **Empirical antibiotics should be commenced if there is delay**
 	* Urgent **Gram stain** and culture
 	* Specific antigen investigations:
-		* Herpes simplex PCR
+		* Viral PCR
+			* Herpes simplex PCR
 		* Mycobacterium TB PCR
 		* Mycobacterial stain and cultures
 		* India Ink stain and Cryptococcal antigen
@@ -218,11 +220,10 @@ Details of CSF findings in meningitis are covered under @sec-csf.
 		95% sensitive if used on CSF.
 
 
-
 **Imaging**:
 
 :::column-margin
-Indications for pre-LP CT:
+Indications for CT prior to LP:
 
 * ↑ BP with ↓ HR
 * Focal neurology

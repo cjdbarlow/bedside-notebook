@@ -197,13 +197,12 @@ book:
               # Ketamine
               # Regional infusions
               # Epidural and intrathecal infusions
-            - part: "Injury"
+            - part: "CNS"
               chapters:
               - management/neuro/chronic_spine.qmd
               - management/neuro/icp.qmd
               - management/neuro/evd.qmd
               - management/neuro/brain_death.qmd
-            # Persistent vegetative state
         - part: "Renal and Fluid"
           chapters:
             - part: "Acid-Base"
@@ -656,6 +655,7 @@ book:
           - disease/neuro/delirium.qmd
           - disease/neuro/abd.qmd
           # Toxic encephalopathy
+          # Persistent vegetative state
         - part: "Infective"
           chapters:            
           - disease/infective/meningitis.qmd

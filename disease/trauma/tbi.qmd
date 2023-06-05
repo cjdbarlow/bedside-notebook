@@ -191,6 +191,8 @@ Grades injury into **six categories** by degree of swelling or presence of contu
 High/mixed density lesions refers to haemorrhage.
 :::
 
+: Marshall Classification of TBI
+
 +-------+---------------------------------------------------------------+
 | Grade | Findings                                                      |
 +=======+===============================================================+
@@ -214,9 +216,10 @@ High/mixed density lesions refers to haemorrhage.
 |       | High/mixed density lesions >25mm.                             |
 +-------+---------------------------------------------------------------+
 
-: Marshall Classification of TBI
 
 ### Rotterdam Classification
+
+: Rotterdam Classification of TBI
 
 +----------------------+---------------+
 | Region               | Score         |
@@ -234,9 +237,6 @@ High/mixed density lesions refers to haemorrhage.
 | IVH or SAH           | 0. Absent     |
 |                      | 1. Present    |
 +----------------------+---------------+
-
-: Rotterdam Classification of TBI
-
 
 Rotterdam score correlates with six-month mortality in adults and children. In adults the sum score + 1 gives a mortality:
 

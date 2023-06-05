@@ -22,8 +22,8 @@ Cranial nerve abnormalities dominate; typical features include:
 
 Variable depending on the subtype of GBS. Postulated mechanisms include:
 
-* Antibody-mediated nerve injury
-	* Secondary to molecular mimicry between the microbial antigen and nerve surface aminoglycosides
+* Antibody-mediated nerve injury\
+Molecular mimicry between the microbial antigen and nerve surface gangliosides.
 
 ### Aetiology
 
@@ -167,12 +167,12 @@ Avoid suxamethonium for intubation, as with other neuromuscular disorders.
 * A
 	* Intubation\
 	If bulbar dysfunction.
+	* Early tracheostomy as long duration of ventilation is expected
 * B
 	* Chest physiotherapy
 	* Respiratory function (VC) monitoring with PFTs\
 	More reliable than blood gases.
 	* Mechanical ventilation
-		* Early tracheostomy as long duration of ventilation is expected
 * G
 	* Feeding
 		* PN only if EN precluded by paralytic ileus

@@ -66,7 +66,7 @@ These processes:
 	* C
 		* High cardiac output state with inappropriate SVR
 		* Diastolic dysfunction
-		* ↓ venous capacitance\
+		* ↓ Venous capacitance\
 		Subsequently, generally normal filling pressures.
 		Risk of acute LV failure if diastolic dysfunction present, especially if given volume.
 	* D
@@ -135,10 +135,9 @@ Earlier onset is associated with greater severity.
 		* Renal
 			* **Proteinuria**\
 			≥5g/24 hours.
-			* Oliguria\
-			\<500ml/24 hours.
 			* **Protein/creatinine >0.5g/mmol**.
-			* Renal failure
+			* Renal failure\
+			Including oliguria <500ml/24 hours.
 		* GIT
 			* Hepatic tenderness
 			* Nausea/vomiting
@@ -162,7 +161,7 @@ Earlier onset is associated with greater severity.
 For **severe pre-eclampsia** or **hypertensive crisis**:
 
 * Give **magnesium** for seizure prophylaxis
-* Aim to **lower BP** by 10-20mmHg every 10-20 minutes to **↓** incidence of **intracerebral haemorrhage**
+* Aim to **lower BP** by 10-20mmHg every 10-20 minutes to **↓ incidence** of **intracerebral haemorrhage**
 :::
 
 **Preventative:**
@@ -277,8 +276,8 @@ Ongoing and new-onset hypertension occur in the post-partum period. In addition 
 			* Slow titration may be **better than spinal** in severe pre-eclampsia
 			* Consider inserting early, prior to thrombocytopenia developing
 			* Requires **normal coagulation profile prior**
-				* Platelet count > 70,000/ml\
-				Institutional policy may differ.
+				* Platelet count >70,000/ml\
+				Higher is better. Institutional policy may differ.
 				* Routine APTT/PT is not required unless:
 					* Clinical history of bleeding
 					* Other clinical condition that may contribute to coagulopathy
@@ -352,7 +351,7 @@ Morbidity persists even after delivery, with ↑ risk of:
 ## Key Studies
 
 * MAGPIE
-	* 58% ↓ in eclampsia in treatment group
+	* 58% ↓ in progression to eclampsia (in women with pre-eclampsia) in magnesium group
 
 ---
 

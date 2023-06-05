@@ -93,7 +93,6 @@ For muscarinic side effect prevention.
 Acetylcholinesterase inhibitor.
 * Watch for improvement over 1-2 minutes
 * If no improvement, further 5mg of edrophonium
-* Evaluate for further improvement
 :::
 
 
@@ -102,6 +101,13 @@ Acetylcholinesterase inhibitor.
 
 
 ## Management
+
+:::priority
+* **Anticholinesterases**
+* **Immunomodulation**
+	* Acute
+	* Chronic
+:::
 
 **Specific therapy**:
 
@@ -113,25 +119,25 @@ Acetylcholinesterase inhibitor.
 				* Usually commenced at 30mg PO QID, and then titrated to effect\
 				May be given IV, with 1mg IV ≃ 30mg PO.
 	* Chronic immunomodulation
-		* Corticosteroids\
+		* **Corticosteroids**\
 		May worsen symptoms in initial period.
 			* 50-100mg/day prednisolone initially
 			* 10-40mg/day for maintenance
-		* Other immunosuppressants
+		* Other **immunosuppressants**
 			* Azathioprine
 			* Mycophenolate
 			* Ciclosporin
 			* Tacrolimus
 			* Rituximab
 	* Acute immunomodulation
-		* Plasmapheresis
+		* **Plasmapheresis**
 			* 5 exchanges of 3-4 L over 2 weeks
 			* Benefits last weeks
-		* IVIG
+		* **IVIG**
 			* 1-2g/kg over 1-2 days
 			* Occasional long term benefit
 * Procedural
-	* Thymectomy\
+	* **Thymectomy**\
 		* Recommended for patients with thymic hyperplasia/thymoma
 		* Usually early onset MG
 * Physical
@@ -142,19 +148,15 @@ Acetylcholinesterase inhibitor.
 
 ## Anaesthetic Considerations
 
-Key considerations:
+:::tick
 
-* Disease stability
-	* Elective surgery should occur when a patient requires minimal immunomodulation or glucocorticoids
-* Surgery should occur in the morning\
+* Perform elective surgery at a time of relative stability, when the patient requires minimal immunomodulation or glucocorticoids
+* **Surgery** should occur **in** the **morning**\
 Usually greatest muscular strength.
-* Anticholinesterases should be continued
+* **Continue anticholinesterases**
 * **Stress dose steroids** may be required
 * Consider **ICU admission** post-operatively
-
-
-Evaluation:
-
+:::
 
 * A
 	* Bulbar symptoms\
@@ -223,3 +225,5 @@ Sudden weakness due to *excess* ACh due to cholinesterase inhibition. Results in
 ---
 
 ## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

@@ -1,12 +1,22 @@
 # Diabetes Insipidus
 
-Pathological absence of or insensitivity to ADH, leading to excessive polyuria and polydipsia. DI is subdivided into:
+Pathological absence of or insensitivity to ADH which impairs renal concentrating ability, leading to:
 
-* Nephrogenic DI\
+* Polyuria\
+Obligatory solute load is cleared in a very dilute urine.
+* Polydipsia\
+If awake, and able to maintain free water intake.
+* Hypovolaemia and hyperosmolarity\
+If unable to meet free-water requirements.
+
+
+DI is subdivided into:
+
+* **Nephrogenic DI**\
 Insensitivity of the kidney to circulating ADH.
-* Neurogenic (central) DI\
+* **Neurogenic** (central) **DI**\
 Complete or partial loss of ADH production.
-* Gestational DI\
+* **Gestational DI**\
 Various mechanisms, including:
 	* ↑ Placental vasopressinase production\
 	May be the sole cause, or unmask a previous relative ADH deficiency.
@@ -161,9 +171,9 @@ Hypothalamic lesions are less likely to recover than pituitary injuries.
 ## Management
 
 :::priority
-* Correction of hypernatraemia
-* Correction of volume state
-* Correction of underlying ADH deficiency
+* **Correct**ion of **hypernatraemia**
+* **Correct**ion of **volume** state
+* **Correct**ion of underlying **ADH deficiency**
 * Investigation of other anterior pituitary hormone deficiencies
 :::
 
@@ -182,7 +192,7 @@ Hypothalamic lesions are less likely to recover than pituitary injuries.
 	Indicated if euvolaemic and UO >3mL/kg/hr.
 		* DDAVP 1-4μg IV daily\
 		Adjusted to control of UO.
-	* **Corticosteroids**\
+	* Consider **corticosteroids**\
 	Indicated if clinical concern about adrenal insufficiency due to anterior pituitary disruption.
 		* 100mg hydrocortisone
 

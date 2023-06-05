@@ -1,6 +1,6 @@
 # Intracerebral Haemorrhage {#sec-ich}
 
-Intracerebral haemorrhage is bleeding into brain parenchyma, usually from a vascular cause. 
+Bleeding into brain parenchyma, usually from a primary vascular cause. 
 
 :::column-margin
 This discusses "pure" ICH, which most commonly occurs with haemorrhagic stroke.\
@@ -74,9 +74,7 @@ Difficult to distinguish clinically in early stages.
 
 ## Management
 
-:::info
-Goals are to:
-
+:::priority
 * Limit haematoma expansion
 * Reverse anticoagulation
 * Control ICP
@@ -85,7 +83,10 @@ Goals are to:
 **Resuscitation**:\
 
 :::column-margin
-General principles of management are the same as for ischaemic stroke, with more aggressive blood pressure control and the obvious exceptions of anticoagulation and thrombolysis.
+Principles of management are the same as for ischaemic stroke (covered under @sec-stroke), with key differences being:
+
+* More aggressive blood pressure control
+* Avoid anticoagulation and thrombolysis
 :::
 
 * C
@@ -97,6 +98,10 @@ General principles of management are the same as for ischaemic stroke, with more
 	For GCS ⩽8.
 
 **Specific therapy**:
+
+:::column-margin
+Reversal of therapeutic anticoagulation is covered in detail under @sec-anticoag.
+:::
 
 * Pharmacological
 	* Reversal of anticoagulation

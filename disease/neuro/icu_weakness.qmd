@@ -49,7 +49,7 @@ Patient factors have substantial overlap, are mutually reinforcing, and could br
 	* Low-baseline muscle mass
 	* Chronic disease
 * Disease factors
-	Severity of illness
+	* Severity of illness
 	* ICU length of stay
 	* Hyperglycaemia
 

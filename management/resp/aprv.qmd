@@ -1,22 +1,37 @@
 # Airway Pressure Release Ventilation
 
-Ventilation mode that targets a high mean airway pressure in order to maximise lung recruitment, whilst still allowing safe spontaneous ventilation. APRV is:
+Ventilation mode that **targets** a **high mean airway pressure** in order to **maximise lung recruitment**, whilst still **allowing safe spontaneous ventilation**. APRV is:
 
 :::column-margin
 APRV can be thought of simply as inverse-ratio PCV with an open inspiratory valve, so the patient can breath spontaneously across the mandatory respiratory cycle.
 :::
 
-* Pressure-controlled
-* Inverse-ratio\
+* **Pressure-controlled**
+* **Inverse-ratio**\
 Expiratory time < Inspiratory time.
-* Intermittent mandatory breaths\
+* **Intermittent mandatory breaths**\
 Low frequency mandatory ventilation ↓ VILI by ↓ power imparted to lung tissue. 
-* Unrestricted spontaneous breaths\
-Patient can breath throughout the respiratory cycle, across two pressure levels.
+* **Unrestricted spontaneous breaths**\
+Patient can breath across the two pressure levels.
 
 :::column-margin
 Note the P-levels are sometimes called PEEP, but this is a bit of a misnomer because these pressures are supplied throughout the respiratory cycle (more akin to CPAP).
 :::
+
+: Advantages and Disadvantages of APRV
+
++--------------------------+---------------------------------------------+
+| Advantages               | Disadvantages                               |
++==========================+=============================================+
+| * ↑ Alveolar recruitment | * ↑ Volutrauma\                             |
+| * Improved oxygenation   | Often ↑ V~T~ with pressure release breaths. |
+| * ↑ Secretion clearance  | * ↑ RV afterload\                           |
+| * ↓ Volutrauma           | ↑ Volume requirements.                      |
+| * ↓ LV afterload         | * ↓ VR                                      |
+| * ↓ Sedation requirement |                                             |
++--------------------------+---------------------------------------------+
+
+
 
 ## Indications
 
@@ -24,32 +39,36 @@ Note the P-levels are sometimes called PEEP, but this is a bit of a misnomer bec
 Classically ARDS.
 
 
-# Settings
+## Technique
+
+### Settings
 
 Parameters:
 
-* P-High\
-	* ↑ May lead to over-distension, volutrauma, and haemodynamic instability.
-	* ↓ May lead to hypoxaemia, derecruitment, and ↑ PaCO~2~.\
-	The P-high determines the mandatory tidal volume, as this is the driving pressure.
-* P-Low\
-Note this is *not* the PEEP, as expiration is (or should be) terminated before flow ceases. 
-	* ↑ May be more protective\
+* **P-High**\
+Major determinate of both the final mean airway pressure and the mandatory tidal volume.
+	* ↑ May lead to over-distension, volutrauma, and haemodynamic instability
+	* ↓ May lead to hypoxaemia, derecruitment, and ↑ PaCO~2~
+* **P-Low**\
+Note this is *not* the PEEP, as expiration is (or should be) terminated before flow ceases and so P-low is not reached. P-low therefore determines the *gradient* of release flow.
+	* A lower P-low causes a steeper gradient and more rapid exhalation, so in general P-low is set as low as possible (usually 0)
+	* ↑ May be more protective if V~T~ is excessively large\
 	↓ Atelectasis, ↓ volutrauma.
-	* ↓ Will ↓ tidal volume. 
-* T-low\
+	* ↓ Will ↓ tidal volume
+* **T-low**\
 Time spent at P-low. Determines the degree of exhalation and derecruitment that occurs, so setting this correctly is critical. Should be adjusted to 75% of PEFR.
 	* ↑ Will ↑ volume of the release breath\
 	Hyperventilation, volutrauma, derecruitment.
 	* ↓ Will ↓ volume of release breath\
 	Ineffective ventilation.
-* T-high\
+* **T-high**\
 Time spent at P-high. Initially at ~9× the T-low, which should provide 10-14 release breaths/minute.
-	* ↓ Will ↑ release frequency, which may cause derecruitment.
-	* ↑ Will ↓ release frequency, which may ↑ PaCO~2~.
-* Release frequency\
+	* Should be ↑↑↑ than T-low to prevent derecruitment
+	* ↓ Will ↑ release frequency, which may cause derecruitment
+	* ↑ Will ↓ release frequency, which may ↑ PaCO~2~
+* **Release frequency**\
 Number of release breaths per minute, determined by T-high and T-low.
-* ATC\
+* **ATC**\
 Required to provide the patient pressure support for spontaneous breaths.
 
 :::column-margin
@@ -58,21 +77,21 @@ The key difference between APRV and other inverse-ratio methods of ventilation i
 
 Initial Settings:
 
-* P-High
+* P-High\
 25cmH~2~O (<30) for lung protection.
-* P-Low
+* P-Low\
 0-5cmH~2~O.
 * T-low\
 0.5-0.7s; adjust to achieve end-expiratory flow of 75% of PEFR and Vt <8mL/kg.
 * T-high\
 5s.
-* FiO~2~
+* FiO~2~\
 As required.
 * ATC\
 On.
 
 
-Weaning:
+### Weaning
 
 * Readiness
 	* Spontaneous ventilation achieved
@@ -80,7 +99,7 @@ Weaning:
 	FiO~2~ <50%, CO~2~ reasonable.
 * Process
 	* ↓ P-high by ~2cm and ↑ T-high by 0.5-2s Q4-8H\
-	* Can change to PSV when P-high is ~16cmH~2~O and T-high is ~15s
+	* Can change to PSV when P-high is \~16cmH~2~O and T-high is ~15s
 
 
 :::column-margin
@@ -88,9 +107,9 @@ Weaning from APRV essentially aims to transition the patient from APRV to "almos
 :::
 
 
-## Troubleshooting
+### Troubleshooting
 
-Hypoxaemia:
+**Hypoxaemia**:
 
 * Usually indicates under-recruitment
 	* ↓ T-low if end-expiratory flow < 75% PEFR
@@ -98,7 +117,7 @@ Hypoxaemia:
 	* ↑ T-high 0.5-1s
 	* ↑ P-low 1-2cmH~2~O
 
-Hypercapnoea:
+**Hypercapnoea**:
 
 * Encourage spontaneous ventilation
 * ↑ P-high 1-2cmH~2~O
@@ -107,7 +126,7 @@ Hypercapnoea:
 * ↓ P-low
 
 
-# Complications
+## Complications
 
 * Barotrauma
 * Haemodynamic instability\

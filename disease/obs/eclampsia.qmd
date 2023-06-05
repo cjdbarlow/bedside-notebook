@@ -20,9 +20,10 @@ Eclampsia:
 	90% within 1 week of delivery.
 * Recurrent seizure in 10%
 
+
 ## Pathophysiology
 
-Mechanisms are not well understood but may include:
+Mechanisms are not well understood but may include the following apparently mutually exclusive hypotheses:
 
 * Loss of cerebral autoregulation
 	* Hyperperfusion
@@ -73,11 +74,11 @@ Evaluate for intracranial complications.
 ## Management
 
 :::priority
-* Airway protection and aspiration prevention
-* Correct hypertension
-* Terminate seizure
+* **Airway protection** and aspiration prevention
+* **Terminate seizure** with **magnesium**
+* **Correct hypertension**
 * Prevent recurrent seizure
-* Expedite delivery
+* Expedite **delivery**
 :::
 
 :::column-margin

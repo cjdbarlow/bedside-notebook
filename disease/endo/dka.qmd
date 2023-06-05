@@ -6,15 +6,14 @@ Life-threatening metabolic complication of insulin-dependent diabetes due to **c
 Classically occurs in T1DM, but can also occur in ketosis-prone T2DM.
 :::
 
-* Hyperglycaemia
-* Ketonaemia
-* Metabolic acidosis\
-pH is used to grade severity:
+* **Hyperglycaemia**
+* **Ketonaemia**
+* **Metabolic acidosis**\
+Severity graded by pH:
 	* Mild: 7.25-7.3
 	* Moderate: 7.0-7.24
 	* Severe: <7
 
-Severity is a function of:
 
 ## Epidemiology and Risk Factors
 
@@ -115,10 +114,10 @@ Raised, although not to the same degree as HHS.
 ## Management
 
 :::priority
-* Fluid resuscitation\
+* Fluid **resuscitation**\
 Restore circulating volume and correct osmolarity.
-* Insulin administration
-* Correct electrolytes
+* **Insulin** administration
+* Correct **electrolytes**
 * Treat precipitant
 :::
 
@@ -134,7 +133,7 @@ Restore circulating volume and correct osmolarity.
 	* **Insulin**\
 	Fixed rate intravenous insulin infusion at **0.1 unit/kg/hr**.
 		* **Bolus** dose may precipitate hyperglycaemia and is **not recommended**
-		* * ↑ May be required if insulin resistant
+		* ↑ May be required if insulin resistant
 		* **↓** To 0.02-0.05 unit/kg/hr **when BSL** is **<12mmol/L**
 * F
 	* Electrolyte correction
@@ -188,7 +187,7 @@ Not recommended.
 	* DVT
 
 :::column-margin
-Hypoglycaemia and hypokalaemia are the most common serious complication, due to excessive insulin replacement with inadequate potassium supplementation.
+Hypoglycaemia and hypokalaemia are the most common serious complication. Both are due to excessive insulin replacement, hypokalaemia is precipitated by inadequate potassium supplementation.
 :::
 
 

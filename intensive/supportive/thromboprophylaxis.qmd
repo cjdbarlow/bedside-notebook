@@ -19,33 +19,32 @@ Approach:
 	Use **enoxaparin**:
 		* ⩽50kg: 20mg SC daily
 		* 50-120kg: 40mg SC daily
-		* >120kg: 0.25mg/kg SC Q12H
+		* \>120kg: 0.25mg/kg SC Q12H
 	* GFR <30mL/min\
 	**Heparin**:
 		* ⩽120kg: 5000 IU SC BD
-		* >120kg: 5000 IU SC TDS
+		* \>120kg: 5000 IU SC TDS
 * **Mechanical**
 	* Intermittent **pneumatic calf compression**\
 	May reduce incidence by up to 60% in operative patients.
 		* Treatment of choice where bleeding risk is high
-	* IVC filters
+	* **IVC filter**
 		* No evidence for mortality reduction
-		* ↑ risk of DVT\
+		* ↑ Risk of DVT\
 		Should be retrieved when no longer required, so retrievable designs should be used.
 		* Reasonable to use in patients with:
 			* High VTE risk and contraindications to anticoagulation
 			* Recurrent PE despite therapeutic anticoagulation	
 
 
+### Marginal and Ineffective Therapies
 
-:::column-margin
-Compression stockings are not recommend as they:
+* Compression stockings\
+	* Do not ↓ DVT risk
+	* ↑ Falls (slippery!) risk
+	* ↑ Pressure areas
+	* Create a lot of waste
 
-* Do not ↓ DVT risk
-* ↑ Falls (slippery!) risk
-* ↑ Pressure areas
-* Create a lot of waste
-:::
 
 ## Key Studies
 

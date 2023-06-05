@@ -1,7 +1,8 @@
 # Delirium
 
-Fluctuant acute **confusional state** secondary to an **organic** brain disorder that is:
+Acute **confusional state** secondary to an **organic** brain disorder that is:
 
+* **Fluctuant**
 * Characterised by **impairments in**:
 	* **Orientation**\
 	To time, place, and person.
@@ -35,34 +36,30 @@ Delirium is exceedingly common in inpatients:
 Despite this documented high prevalence, it is likely delirium is still under-diagnosed.
 :::
 
-Risk factors are divided into:
+: Risk Factors
 
-* Modifiable
-	* **Infection**
-	* Hypoxia
-	* Hypercarbia
-	* Acidosis
-	* Hyponatraemia
-	* Medications
-		* Anticholinergic
-		* Opioids
-		* **Sedatives**
-		* Polypharmacy
-	* Physical
-		* Restraints
-		* IDC
-		* Immobility
-	* Supportive
-		* Constipation
-		* Dehydration
-		* Pain
-* Non-modifiable
-	* Age
-	* Pre-existing cognitive impairment
-		* Dementia
-	* Depression
-	* Hepatic impairment
-	* Institutionalised prior to admission
++-----------------------+----------------------------------------+
+| Modifiable            | Non-Modifiable                         |
++=======================+========================================+
+| * **Infection**       | * Age                                  |
+| * Hypoxia             | * Pre-existing cognitive impairment    |
+| * Hypercarbia         | * Dementia                             |
+| * Acidosis            | * Depression                           |
+| * Hyponatraemia       | * Hepatic impairment                   |
+| * Medications         | * Institutionalised prior to admission |
+|     * Anticholinergic |                                        |
+|     * Opioids         |                                        |
+|     * **Sedatives**   |                                        |
+|     * Polypharmacy    |                                        |
+| * Physical            |                                        |
+|     * Restraints      |                                        |
+|     * IDC             |                                        |
+|     * Immobility      |                                        |
+| * Supportive          |                                        |
+|     * Constipation    |                                        |
+|     * Dehydration     |                                        |
+|     * Pain            |                                        |
++-----------------------+----------------------------------------+
 
 ## Pathophysiology
 
@@ -147,8 +144,12 @@ Emphasise delirium is common and transient.
 		* Atypical antipsychotics\
 		Lower extrapyramidal side effects.
 			* Olanzapine
+				* 2.5-5mg PO BD
+				* Can be given via sublingual wafers
 			* Quetiapine
+				* 12.5-50mg PO BD
 			* Risperidone
+				* 0.5-1mg PO BD
 	* α~2~-agonists
 		* Clonidine
 		* Dexmedetomidine

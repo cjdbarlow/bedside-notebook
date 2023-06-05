@@ -1,11 +1,14 @@
 # Non-Convulsive Status Epilepticus {#sec-ncse}
 
-Change in consciousness, behaviour, autonomic function, or sensorium with EEG seizure patterns, but no major motor phenomena. NCSE has a broad spectrum of clinical presentation, and is loosely classified into:
+Change in consciousness, behaviour, autonomic function, or sensorium with EEG seizure patterns, but no major motor phenomena.
+
+NCSE has a broad spectrum of clinical presentation, and is loosely classified into:
 
 * Wandering confused\
 Usually good prognosis.
 * Critically ill patient with severe cognitive impairment
 	* May have subtle motor findings
+
 
 ## Epidemiology and Risk Factors
 
@@ -130,7 +133,7 @@ Differentials include:
 Hypoglycaemia, basic electrolytes.
 
 
-Lab:
+**Laboratory**:
 
 * Blood
 	* UEC
@@ -138,6 +141,7 @@ Lab:
 * LP
 	* Meningitis
 	* Non-infective encephalitis
+
 
 **Other**:
 

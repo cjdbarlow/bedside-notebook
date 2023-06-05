@@ -29,7 +29,7 @@ Develops over **days**-weeks with:
 
 Other symptoms include:
 
-* Neurological symptoms
+* Neurological symptoms\
 More common in HHS than DKA, as it occurs secondary to a hyperosmolar state. Include:
 	* Confusion
 	* Seizures
@@ -65,27 +65,27 @@ Features include:
 ## Management
 
 :::priority
-* Fluid resuscitation\
-Restore circulating volume and correct osmolarity.
-* Insulin administration
-* Correct electrolytes
-* Treat precipitant
+* Slow correction of metabolic abnormalities\
+Management is ***similar* to DKA**, but should occur slowly to prevent overcorrection. 
+* Fluid **resuscitation**\
+Water repletion and volume resuscitation should ↑ Na^+^, ↓ BSL, and ↓ osmolality.
+* **Insulin** infusion
+* **Electrolyte** correction
 :::
+
 
 **Resuscitation**:\
 
 * C
-	* **Volume resuscitation**
+	* Gradual **volume resuscitation** and **water repletion**
 		* Balanced crystalloid preferred
-			* 0.9% saline ↑ hyperchloraemic acidosis
-			* Colloid may ↑ mortality
-		* Addition of 20-30mmol/L of potassium to crystalloid may be performed to replete potassium stores
+		* Change to 0.45% saline if osmolality is ↑, despite appropriately positive fluid balance
 * D
 	* **Insulin**\
-	Fixed rate intravenous insulin infusion at **0.1 unit/kg/hr**.
-		* **Bolus** dose may precipitate hyperglycaemia and is **not recommended**
-		* * ↑ May be required if insulin resistant
-		* **↓** To 0.02-0.05 unit/kg/hr **when BSL** is **<15mmol/L** or fluid resuscitation is complete
+		* Ideally delay insulin until volume resuscitation commenced and potassium is corrected\
+		Glucose will by diluted by water repletion.
+		* Otherwise fixed rate intravenous insulin infusion at 0.02-0.1 unit/kg/hr
+		* Commence insulin at 0.02-0.05 unit/kg/hr, targeting 10-15mmol/L in the initial setting
 * F
 	* Electrolyte correction
 		* **Potassium**
@@ -96,15 +96,13 @@ Restore circulating volume and correct osmolarity.
 **Supportive care**:
 
 * F
-	* Correction of free water deficit
 	* Magnesium\
 	Often deplete, PRN replenishment is sufficient.
+	* Phosphate
 
 :::column-margin
-Free water deficit can be calculated by:
-
-$$Free \ Water \ Deficit = 0.6 \times Weight \times {Na_{serum} - 1 \over 140}$$
-
+Free water deficit can be calculated as: $Free \ Water \ Deficit = 0.6 \times Weight \times {Na_{serum} - 1 \over 140}$\
+\
 Where:
 
 * Free water deficit is in litres
@@ -118,10 +116,6 @@ Where:
 * ICU admission for:
 	* Neurological symptoms
 		* GCS <12
-	* Severe DKA
-		* pH <7.0
-		* HCO~3~^-^ <5mmol/L
-		* AG >16
 	* Severe electrolyte derangements
 
 **Preventative**:

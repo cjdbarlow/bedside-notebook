@@ -24,7 +24,7 @@ Major risk factors include:
 
 ## Pathophysiology
 
-*C. tetani* is a gram positive rod and obligate anaerobe that:
+*C. tetani* is a Gram positive rod and obligate anaerobe that:
 
 * Exists in spore form in the environment
 * Is non-invasive\
@@ -37,7 +37,7 @@ Requires innoculation into a wound to produce infection - cannot grow in vitalis
 		* Diffuses into interstitium with, and acts on pre-synaptic terminals of nearby neurones\
 		Produces **dysfunction** of predominantly **inhibitory interneurons**:
 			* Muscle spasms
-			* Autonomic dysfunction
+			* Autonomic dysfunction\
 			Requires toxin to diffuse to lateral horns.
 				* ↑ Sympathetic tone
 			* Cognitive dysfunction
@@ -153,9 +153,9 @@ May grow *C. tetani*.
 ## Management
 
 :::priority
-* Immunoglobulin to neutralise circulating toxin
-* Source control/wound care
-* Supportive care
+* **Immunoglobulin** to neutralise circulating toxin
+* **Source control**/wound care
+* Autonomic support
 :::
 
 

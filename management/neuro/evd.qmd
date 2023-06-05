@@ -48,12 +48,12 @@ A small chamber with volume markers. This chamber:
 	* Can be periodically emptied into a drainage bag
 
 :::column-margin
-1mmHg is ~1.3cmH~2~O; 1cmH~2~O is ~0.7mmHg.
+1mmHg is \~1.3cmH~2~O; 1cmH~2~O is \~0.7mmHg.
 :::
 
 ## Technique
 
-General:
+**General**:
 
 * EVDs can be:
 	* Continuously draining\
@@ -64,23 +64,26 @@ General:
 	* Continuously transduced\
 	Intermittently vented in case of ↑ ICP.
 
-Setting height:
+
+**Setting height**:
 
 * The pressure scale should be placed at 0 relative to the:
 	* EAM in a supine patient
 	* Bridge of nose in a lateral patient
 
-Assessing Patency:
+
+**Assessing patency**:
 
 * EVDs can become blocked with blood or other exudate
 * Briefly lowering the EVD will detect blockage as CSF will flow under gravity
 
 
-Medication administration:
+**Medication administration**:
 
 * Occasionally, medications are administered through an EVD
 
-Moving:
+
+**Moving**:
 
 * The EVD should be clamped prior to moving to prevent CSF over-draining
 
@@ -98,3 +101,5 @@ Moving:
 ---
 
 ## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

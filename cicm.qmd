@@ -105,10 +105,12 @@ Structures for specific question formats:
 		* Prevalence of disease
 		* Pathophysiology
 		* Unique features of the therapy
-	* Summary of evidence
-	* Limitations of trials
-	* Pros and cons of trials
-	* Special situations
+	* Advantages of the intervention
+	* Disadvantages of the intervention
+	* Evidence
+		* Pros and cons of trials
+		* Limitations of trials
+		* Special situations
 	* Own practice
 * **Toxin**
 	* **R**esuscitation

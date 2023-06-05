@@ -38,7 +38,7 @@ Intracerebral haemorrhage.
 : Grading of Subarachnoid Haemorrhage
 
 :::column-margin
-The Hunt & Hess grading system is largely deprecated due to inter-rater variability, but is included as a historical footnote.
+The Hunt & Hess grading system is largely deprecated due to high inter-rater *un*reliability, but is included as a historical footnote.
 
 | Grade | Hunt & Hess                                                       |
 | ----- | ----------------------------------------------------------------- |
@@ -157,7 +157,7 @@ Consider continuous EEG monitoring in patients who
 	* Secure if required
 * C
 	* Aggressive **blood pressure control** for the unsecured aneurysm
-		* Target **SBP 100-160**mmHg or **MAP ≤110**mmHg
+		* Target **SBP 100-160**mmHg or **MAP ≤110**mmHg\
 		Adjust target based on premorbid baseline BP.
 		* Agents should preferably be given by infusion, and include:
 			* **Labetalol** 5-20mg/hr
@@ -167,7 +167,7 @@ Consider continuous EEG monitoring in patients who
 	* Maintain euvolaemia\
 	Avoid hypervolaemia.
 * H
-	* Reveres anticoagulation
+	* Reverse anticoagulation
 
 
 **Specific therapy**:
@@ -225,7 +225,7 @@ Consider continuous EEG monitoring in patients who
 	UFH should be considered:
 		* 24 hours after coiling
 		* 48 hours after clipping\
-		↑ Duration due to craniotomy.
+		↑ Abstinence due ↑ bleeding risk of craniotomy.
 	
 
 **Disposition**:
@@ -253,6 +253,10 @@ Routine use worsens outcomes.
 
 ## Complications
 
+:::column-margin
+DCI is covered in detail under @sec-vasospasm.
+:::
+
 * C
 	* Myocardial injury\
 	Catecholamine surge with risk of myocardial necrosis.
@@ -265,6 +269,8 @@ Routine use worsens outcomes.
 		* Majority (50-90%) occur within 6 hours
 		* Uncommon after 72 hours
 		* 20-60% mortality
+	* **DCI**\
+	Leading cause of neurological morbidity due to cerebral infarction.
 	* Secondary **hydrocephalus**
 		* Occurs in 20% of patients\
 		Within minutes to hours of onset.
@@ -272,10 +278,7 @@ Routine use worsens outcomes.
 	* **Seizures**
 		* Occurs in 26% of patients\
 		Correlated with blood volume and MCA aneurysms.
-	* **DCI**\
-	Leading cause of neurological morbidity due to cerebral infarction.
-	* **Seizure**
-		* Treat with levetiracetam at first line
+		* Levetiracetam is first line
 * F
 	* Hyponatraemia\
 	30% of cases.

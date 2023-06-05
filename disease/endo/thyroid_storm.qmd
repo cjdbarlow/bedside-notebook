@@ -98,11 +98,9 @@ TFTs do not correlate with clinical severity.
 
 ## Management
 
-:::info
-Goals are:
-
-* Control adrenergic symptoms
-* Correct thyroid abnormalities
+:::priority
+* **Control adrenergic symptoms**
+* **Correct thyroid** abnormalities
 * Treat precipitating cause
 :::
 
@@ -117,7 +115,7 @@ Goals are:
 		* **Esmolol**\
 		Alternative for rapid, titrateable control.
 	* Amiodarone
-		* 2^nd& line agent for arrhythmias
+		* 2^nd^ line agent for arrhythmias
 		* Also inhibits T~4~ conversion
 		* May interfere with TFT measurement and so confound future therapy
 	* **Volume resuscitation**
@@ -144,7 +142,7 @@ Propranolol is preferred to other β-blockers because it also ↓ peripheral con
 	* **Iodine**\
 	Inhibit thyroid hormone release.
 		* **Must be given after thionamide**, **otherwise** it will **↑ hormone synthesis** and worsen thyrotoxicosis
-		* 1g sterile iodine IV Q12H
+		* 1g sodium iodide IV Q12H
 		* Iodinated contrast media may be used as an alternative
 
 **Supportive care**:
