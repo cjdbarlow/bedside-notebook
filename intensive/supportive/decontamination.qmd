@@ -1,15 +1,19 @@
 # Selective Digestive Decontamination
 
-Prophylactic enteral administration of non-absorbable antibiotics with the aim of eradicating potentially pathogenic oral and intestinal organisms in order to ↓ nosocomial infection.
+**Prophylactic enteral** administration of **non-absorbable antibiotics** with the aim of **eradicating potentially pathogenic** oral and intestinal **organisms** in order to **↓ nosocomial infection**.
 
 ## Indications
 
 * Patients at risk of nosocomial infection
-* ICU with low rate of resistance to chosen antimicrobial
+* ICU with low rate of resistance to chosen antimicrobial cocktail
 
 ## Contraindications
 
 * Concern of ↑ antimicrobial resistance, although this has not been demonstrated
+
+:::column-margin
+Demonstrating resistance is difficult however - this may occur over medium-to-long scale timelines, and the efficacy of decontamination and the significance of resistance is plausibly highly dependent on local fauna and biograms.
+:::
 
 ## Pathophysiology
 
@@ -53,4 +57,4 @@ In the critically ill:
 
 ## References
 
-1. The SuDDICU Investigators for the Australian and New Zealand Intensive Care Society Clinical Trials Group. Effect of Selective Decontamination of the Digestive Tract on Hospital Mortality in Critically Ill Patients Receiving Mechanical Ventilation: A Randomized Clinical Trial. JAMA. 2022;328(19):1911-1921. doi:10.1001/jama.2022.17927
+1. The SuDDICU Investigators for the Australian and New Zealand Intensive Care Society Clinical Trials Group. [Effect of Selective Decontamination of the Digestive Tract on Hospital Mortality in Critically Ill Patients Receiving Mechanical Ventilation: A Randomized Clinical Trial](https://jamanetwork.com/journals/jama/fullarticle/2798011). JAMA. 2022;328(19):1911-1921.

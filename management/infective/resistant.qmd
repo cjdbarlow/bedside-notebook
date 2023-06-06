@@ -14,7 +14,7 @@ Broadly, resistance may occur by:
 
 ## Inducible β-lactamase
 
-ESCAPPM/ESCHAPPM is a group of **Gram-negative** organisms which:
+ESCAPPM/ESCHAPPM are a group of **Gram-negative** organisms which:
 
 * **Rapidly develop resistance** to β-lactam antibiotics
 	* Due to **inducible β-lactamase**\
@@ -40,7 +40,7 @@ Excluding *P. mirabilis*
 
 ## Extended Spectrum β-lactamase
 
-Describes organisms that develop a β-lactamase that produces **resistance** to **other antibiotic classes**. The ESBL:
+Describes organisms that develop a β-lactamase that also produces **resistance** to **other antibiotic classes**. The ESBL:
 
 * Provides (variable) resistance to:
 	* Third-generation cephalosporins (e.g. ceftriaxone)

@@ -21,7 +21,7 @@ In health, the adrenal cortex is responsible for production of steroid hormones:
 
 * Under the control of the HPA axis
 	* CRH release from the hypothalamus stimulates ACTH release from the pituitary\
-	Stimulation is ↑ during critical illness, resulting in ↑ plasma cortisol.
+	* Stimulation is ↑ during critical illness, resulting in ↑ plasma cortisol
 * Including:
 	* Cortisol\
 	Usually secreted:
@@ -54,7 +54,7 @@ Most common in Western world.
 	Meningococcal septicaemia, also known as Waterhouse-Friderichsen syndrome.
 	* APS
 	* Trauma
-	* Srugery
+	* Surgery
 * Infiltrative
 	* Tumour
 	* Amyloid
@@ -94,8 +94,10 @@ Many patients with primary deficiency will present with an adrenal crisis, due t
 Presentation without an adrenal crisis is usually non-specific and ill-defined. Subtypes of adrenal insufficiency vary with their features:
 
 * Primary adrenal insufficiency is the only cause that produces **hyperpigmentation**\
-Only disease with ↑ ACTH production.
-* Secondary adrenal insufficiency typically does not include mineralocorticoid deficiency, and remains a primarily cortisone-deficient state
+Only form with ↑ ACTH production.
+* Secondary adrenal insufficiency typically does not result in substantial mineralocorticoid deficiency, and remains a primarily cortisone-deficient state
+
+: Features of Adrenal Insufficiency
 
 +----------------------------------------------------------------------------------------------------------------------------------------+------------------------------------+------------------------+
 | Specific to Cortisone Deficiency                                                                                                       | Specific to Aldosterone Deficiency | Non-specific           |
@@ -103,15 +105,12 @@ Only disease with ↑ ACTH production.
 | * Hypotension\                                                                                                                         | * Hyponatraemia                    | * Weakness             |
 | Refractory to fluids and vasopressors.                                                                                                 | * Hyperkalaemia                    | * Weight loss          |
 | * Hypoglycaemia                                                                                                                        | * NAGMA\                           | * Anorexia             |
-| * Hyperpigmentation\                                                                                                                   | Type 4 RTA.                        | * Abdominal pain       |
+| * Eosinophilia                                                                                                                         | Type 4 RTA.                        | * Diarrhoea            |
+| * Hyperpigmentation\                                                                                                                   |                                    | * Abdominal pain       |
 | Due to ↑ ACTH, which stimulates melanogenesis. First evident on mucous membranes, then non-sun exposed areas, followed by normal skin. |                                    | * Nausea               |
-| * Eosinophilia                                                                                                                         |                                    | * Diarrhoea            |
 |                                                                                                                                        |                                    | * Normocytic anaemia   |
 |                                                                                                                                        |                                    | * Postural hypotension |
 +----------------------------------------------------------------------------------------------------------------------------------------+------------------------------------+------------------------+
-
-: Features of Adrenal Insufficiency
-
 
 
 ## Diagnostic Approach and DDx

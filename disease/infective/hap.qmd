@@ -62,7 +62,7 @@ VAP within **5 days** is more likely to include a wider array of community patho
     * *S. pneumoniae*
     * *H. influenzae*
 * **Late-onset**\
-After 5 days, multidrug resistant exogenous organisms may be seen:
+After 5 days, exogenous MRO may be seen:
     * MRSA
     * *P. aeruginosa*
     * *Acinetobacter baumannii*
@@ -89,12 +89,12 @@ More complex in the intubated patient; options include:
     * Tracheal aspirate\
     Identify potentially causative organisms but is not quantitative.
     * Bronchial washings
-    * Bronchoalveolar Lavage
+    * Bronchoalveolar lavage
 
 
 Radiology:
 
-* CXR\
+* CXR
     * Infiltrates required for diagnosis is many guidelines
     * Appearance usually worsens in initial period, even with institution of appropriate antibiotics\
     Features of concern are:

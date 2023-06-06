@@ -111,7 +111,7 @@ Reverse precautions are used for **severely immunocompromised patients** to prot
 * Airborne precautions for staff and visitors
 * Positive-pressure isolation room
 	* Anteroom
-	* Pressurised relative to surround rooms/environment
+	* Pressurised relative to surrounding rooms/environment
 	* HEPA filtration of incoming air with ⩾12 changes/hour
 	* Dust-minimisation design and cleaning
 	* Air flow directed towards entry point of the room

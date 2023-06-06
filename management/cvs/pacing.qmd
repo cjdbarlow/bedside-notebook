@@ -1,6 +1,6 @@
 # Pacing
 
-Cardiac pacing refers to repetitive, low-current electrical stimulation of the heart to initiate and maintain rhythm. Pacing:
+Cardiac pacing is repetitive, low-current electrical stimulation of the heart to initiate and maintain rhythm. Pacing:
 
 * Indications include:
 	* **Bradycardias**\
@@ -69,7 +69,7 @@ An R-on-T can still result if an undersensing atrial lead is used in a DDD mode.
 * Atrial pacing then occurs during the subsequent (native) QRS
 	* The (functioning) ventricular lead studiously ignores any sensed electrical activity that occurs during atrial pacing\
 	This is known as a blanking period.
-	* This results in the ventricular lead not registering native ventricular activity
+	* Therefore, the ventricular lead does not register any native ventricular activity that follows from the paced atria
 * After the programmed A-V interval, the ventricular lead paces
 * This pacing occurs during repolarisation
 :::
@@ -244,25 +244,28 @@ Test of the pacemakers detection of native cardiac output.
 
 ### Rapid Atrial Pacing
 
-Rapid atrial pacing is a technique for reversion of some atrial tachyarrhythmias:
-
-* Revertible rhythms include
-	* Atrial flutter
-	* AV junctional tachycardia
-	* Paroxysmal re-entrant SVT
-* Non-revertible rhythms include:
-	* AF
-	* VF
-	* Sinus tachycardia
-* Defibrillation pads should be applied in case of precipitation of a malignant arrhythmia
+Rapid atrial pacing is a technique for reversion of some atrial tachyarrhythmias by pacing the atria at 20-30bpm faster than the native atrial rate (usually at 260-340bpm).
 
 :::column-margin
 Rapid atrial pacing is also known as **atrial overdrive pacing**.
 :::
 
-* The atria is paced 20-30bpm faster than the atrial rate\
-Usually at 260-340bpm.
-* For periods up to 20s, in order to capture the atria
+: Revertable and Non-revertable Rhythms
+
++-----------------------------+------------------------+
+| Revertable Rhythms          | Non-revertable Rhythms |
++=============================+========================+
+| * Atrial flutter            | * AF                   |
+| * AV junctional tachycardia | * VF                   |
+| * Paroxysmal re-entrant SVT | * Sinus tachycardia    |
++-----------------------------+------------------------+
+
+
+Steps:
+
+* Apply defibrillation pads\
+In case of precipitation of a malignant arrhythmia.
+* Activate rapid atrial pacing for periods up to 20s, in order to capture the atria
 * If effective, SR should be restored following the rapid pacing period
 
 

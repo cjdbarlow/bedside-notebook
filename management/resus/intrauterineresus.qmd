@@ -1,20 +1,8 @@
 # Intrauterine Resuscitation
 
-:::info
-General principle is to optimise foetal DO~2~ by:
+Foetal distress is progressive foetal asphyxia that if not corrected or circumvented, will result in decompensation and permanent CNS damage or death. Intrauterine resuscitation:
 
-* Improving uterine perfusion pressure
-	* ↑ Systemic driving pressure
-	* Reducing intrauterine pressure
-	* ↑ maternal oxygen saturation
-	* Removing any cord impingement
-:::
-
-Foetal distress is progressive foetal asphyxia that if not corrected or circumvented, will result in decompensation and permanent CNS damage or death.
-
-Intrauterine resuscitation:
-
-* Describes techniques used to correct **common** and **reversible** causes foetal hypoxia, prior to harm occurring\
+* Describes techniques used to correct **common** and **reversible** causes of foetal hypoxia prior to harm occurring\
 Non-correctable (e.g. anencephaly) or rare (e.g. ruptured vasa praevia) causes are not captured.
 * Relies on detection of foetal distress by electronic foetal monitoring
 
@@ -39,7 +27,20 @@ Rarely associated with severe hypotension.
 
 ## Management
 
-↑ degree of escalation:
+:::priority
+**Optimise foetal DO~2~** by ↑ uterine perfusion pressure:
+
+* ↑ Systemic driving pressure
+* ↓ Intrauterine pressure
+* ↑ Maternal oxygen saturation
+* Removing any cord impingement
+:::
+
+Steps:
+
+:::column-margin
+Listed in an ↑ degree of escalation.
+:::
 
 * Place in full left (or right) lateral position\
 Removes aorto-caval compression.

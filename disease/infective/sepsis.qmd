@@ -59,9 +59,8 @@ Progression from a localised infection to systemic involvement requires:
 Immune paralysis:
 
 * Survival of the initial septic phase may lead to:
-
-* A dysfunctional immune system
-* Infections classically associated with immunocompromise
+	* A dysfunctional immune system
+	* Infections classically associated with immunocompromise
 
 
 Vasodilation occurs via several mechanisms:
@@ -73,7 +72,7 @@ Vasodilation occurs via several mechanisms:
 * ↑ NO production\
 Induced by cytokines and bacterial endotoxin.
 * Adrenal suppression
-* Endovenous vasopressin suppression
+* Endogenous vasopressin suppression
 
 
 Septic cardiomyopathy:
@@ -157,7 +156,7 @@ The qSOFA is a quick screening tool to identify patients who should be *consider
 * Blood
 	* CRP
 		* Non-specific marker of inflammation
-			* May be more specific for *Strep. pneumonia* infection\
+			* May be more specific for *Strep. pneumoniae* infection\
 			This may also better identify patients in whom steroid would be appropriate. 
 		* Rises 4-6 hours after onset of infection, doubles ~8 hourly
 		* Correlates with severity of infection
@@ -179,17 +178,18 @@ The qSOFA is a quick screening tool to identify patients who should be *consider
 			Renally cleared.
 		* No better than clinical judgment in discriminating infectious vs. non-infectious causes
 		* Expensive, requires serial measurements
+	* Blood cultures\
+	Prior to antibiotics.
 
 
 ## Management {#sec-sepsis_mx}
 
-:::info
-Principles are:
+:::priority
 
-* Early antibiotics (<1 hour) with blood cultures (2-3 sets) prior
-* Determine haemodynamic goals and target with
-	* Fluids
-	* Vasopressors
+* Early **antibiotics** (**<1 hour**) with **blood cultures** (2-3 sets) **prior**
+* Determine haemodynamic goals and target with:
+	* **Fluids**
+	* **Vasopressors**
 :::
 
 **Resuscitation**:\
@@ -210,7 +210,7 @@ Each hour delay in antibiotic administration is associated with a 12% ↓ in sur
 			* Passive leg raise
 			* Pulse pressure variation
 	* **Arterial line**\
-	If vasopressors.
+	If vasopressors required.
 	* **Vasopressors**
 		* Noradrenaline 1^st^ line
 			* ↑ Preload due to *veno*constriction
@@ -254,15 +254,17 @@ Early use of noradrenaline is associated with ↓ mortality.
 * Pharmacological
 	* **Antibiotics**
 		* Empirical\
-		Tailed to likely sources and resistance patterns.
+		Tailored to likely sources and resistance patterns.
 	* Toxic Shock cover\
 	If treating TSS, or empirical if clinically likely.
 		* Clindamycin
-		* IV Ig
+		* IVIG
 * Procedural
 	* Source control
-	* Removal of all intravascular catheters with reinsertion at new sites
+	* Removal of short-term intravascular catheters if catheter-related sepsis is likely\
+	This includes arterial catheters. 
 * Physical
+
 
 **Supportive care**:
 
@@ -284,7 +286,7 @@ Early use of noradrenaline is associated with ↓ mortality.
 
 ### Marginal and Ineffective Therapies
 
-Drugs:
+**Drugs**:
 
 * **Corticosteroids**
 	* Controversial
@@ -304,7 +306,7 @@ Drugs:
 * Vitamin C
 
 
-Resuscitation targets:
+**Resuscitation targets**:
 
 * CVP targeting
 * ScvO~2~ targeting
@@ -312,7 +314,7 @@ Resuscitation targets:
 Use of PAC does not improve and may worsen outcome.
 
 
-Blood purification therapies:
+**Blood Purification**:
 
 * High-volume haemofiltration\
 CRRT with target dose >35mL/kg/hr.
@@ -347,7 +349,7 @@ Complications of sepsis include:
 Epidemiology of septic AKI:
 
 * Occurs in 22% of ICU patients with sepsis
-* Associated with ↑ din mortality to 38%
+* Associated with ↑ in mortality to 38%
 
 
 Management:
@@ -356,7 +358,7 @@ Management:
 Most effective method:
 	* Low dose vasopressors\
 	Achieving a **MAP >80mmHg** may reduce requirement for RRT.
-	* Note that excessive**IV fluid is *in*effective**
+	* Note that excessive **IV fluid is *in*effective**
 		* May worsen oedema\
 		Aim euvolaemia.
 		* Septic AKI is **not a low-flow state**
@@ -369,11 +371,12 @@ Most effective method:
 High mortality:
 
 * ICU death 28-40%\
-~30% when adjusted for severityu.
+~30% when adjusted for severity.
+
 
 ## Key Studies
 
-Fluid studies:
+**Fluid**:
 
 * FEAST
 * SOAP
@@ -404,20 +407,16 @@ Fluid studies:
 	* Small difference in volume administered (~2L at day 5)
 
 
-Early Goal Directed Therapy studies:
+**Early Goal Directed Therapy**:
 
-:::column-margin
-Early Goal-Directed Therapy is (?was) a protocolised pathway for sepsis management, targeting specific haemodynamic goals in order to maximise DO~2~ and thus restore cellular oxygen balance:
-
-* CVP 8-12mmHg
-* MAP 65-90mmHg
-* UO >0.5mL/kg/hr
-* ScvO~2~ >70%
-* Haematocrit >30%
-
-The comfort of this physiological approach did not survive the crucible of real-word RCT evaluation, and EGDT has been subsequently dismissed. However, the principles of aggressive, goal-directed (but not CVP and ScvO~2~-directed) therapy live on.
-:::
-
+* Early Goal-Directed Therapy is (?was) a protocolised pathway for sepsis management, targeting specific haemodynamic goals in order to maximise DO~2~ and thus restore cellular oxygen balance:
+	* CVP 8-12mmHg
+	* MAP 65-90mmHg
+	* UO >0.5mL/kg/hr
+	* ScvO~2~ >70%
+	* Haematocrit >30%
+* The comfort of this physiological approach did not survive the crucible of real-word RCT evaluation, and EGDT has been subsequently dismissed
+* The principles of aggressive, goal-directed (but not CVP and ScvO~2~-directed) therapy live on
 * Rivers et al.
 	* Single-centre, non-randomised, non-blinded trial
 	* High control group mortality (46.5%)
@@ -428,39 +427,34 @@ The comfort of this physiological approach did not survive the crucible of real-
 * ProMISE
 
 
-Steroid studies:
+**Steroids**:
 
-:::column-margin
-The rationale for steroids is that they *may*:
-
-* C
-	* Limit ↓ inotropy due to bacterial endotoxin
-	* ↑ Catecholamine function
-	* ↓ NO synthetase production
-* I
-	* Correct adrenal insufficiency
-	* Dampen hyperactive immune response
-:::
-
+* The rationale for steroids is that they *may*:
+	* C
+		* Limit ↓ inotropy due to bacterial endotoxin
+		* ↑ Catecholamine function
+		* ↓ NO synthetase production
+	* I
+		* Correct adrenal insufficiency
+		* Dampen hyperactive immune response
 * CORTICUS
 * ADRENAL
 * APROCCHSS
 
-Vitamin C Studies:
 
+**Vitamin C**:
+
+* The rationale for Vitamin C is that:
+	* Levels are ↓ in the critically ill
+	* Oxidative stress is ↑ in the critically ill
+	* Vitamin C has antioxidant effects that may alleviate some oxidative stress
 * [LOVIT](https://www.nejm.org/doi/10.1056/NEJMoa2200644)
 	* 872 adults with suspected infection requiring ICU admission and vasopressors in Canada, France, and New Zealand
 	* 50mg/kg Vitamin C vs Placebo
 	* Significantly ↑ death (44.5% vs 38.5%) and persistent organ dysfunction (9.1% vs 6.9%) in vitamin C group 
 * CITRIS-ALI
 
-:::column-margin
-The rationale for Vitamin C is that:
 
-* Levels are ↓ in the critically ill
-* Oxidative stress is ↑ in the critically ill
-* Vitamin C has antioxidant effects that may alleviate some oxidative stress
-:::
 
 **Other**:
 
@@ -485,6 +479,7 @@ The rationale for Vitamin C is that:
 2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
 3. [Early Restrictive or Liberal Fluid Management for Sepsis-Induced Hypotension](https://www.nejm.org/doi/full/10.1056/NEJMoa2212663). New England Journal of Medicine. 2023;388(6):499-510.
 4. Singer, M., Deutschman, C.S., Seymour, C.W., Shankar-Hari, M., Annane, D., Bauer, M., Bellomo, R., Bernard, G.R., Chiche, J.-D., Coopersmith, C.M., Hotchkiss, R.S., Levy, M.M., Marshall, J.C., Martin, G.S., Opal, S.M., Rubenfeld, G.D., van der Poll, T., Vincent, J.-L., Angus, D.C., 2016. [The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3)](https://jamanetwork.com/journals/jama/fullarticle/2492881). JAMA 315, 801.
-5.Lamontagne F, Masse MH, Menard J, et al. [Intravenous Vitamin C in Adults with Sepsis in the Intensive Care Unit]((https://www.nejm.org/doi/10.1056/NEJMoa2200644). N Engl J Med. 2022;386(25):2387-2398.
+5. Lamontagne F, Masse MH, Menard J, et al. [Intravenous Vitamin C in Adults with Sepsis in the Intensive Care Unit](https://www.nejm.org/doi/10.1056/NEJMoa2200644). N Engl J Med. 2022;386(25):2387-2398.
 6. Bloos F, Held J, Kluge S, et al. [(1→3)-β-d-Glucan-guided antifungal therapy in adults with sepsis: the CandiSep randomized clinical trial](https://link.springer.com/article/10.1007/s00134-022-06733-x). Intensive Care Med. 2022;48(7):865-875. doi:10.1007/s00134-022-06733-x
-7. 1. Meyhoff TS, Hjortrup PB, Wetterslev J, et al. [Restriction of Intravenous Fluid in ICU Patients with Septic Shock. New England Journal of Medicine](https://www.nejm.org/doi/full/10.1056/NEJMoa2202707). 2022;386(26):2459-2470.
+7. Meyhoff TS, Hjortrup PB, Wetterslev J, et al. [Restriction of Intravenous Fluid in ICU Patients with Septic Shock. New England Journal of Medicine](https://www.nejm.org/doi/full/10.1056/NEJMoa2202707). 2022;386(26):2459-2470.
+8. O’Grady NP, Barie PS, Bartlett JG, et al. [Guidelines for evaluation of new fever in critically ill adult patients: 2008 update from the American College of Critical Care Medicine and the Infectious Diseases Society of America](https://journals.lww.com/ccmjournal/Fulltext/2008/04000/Guidelines_for_evaluation_of_new_fever_in.40.aspx). Critical Care Medicine. 2008;36(4):1330.

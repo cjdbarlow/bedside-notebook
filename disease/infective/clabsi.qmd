@@ -7,7 +7,7 @@ Confirmation of central-line associated bloodstream infections requires all of:
 * Organism cultured from blood is not related to another infection
 
 :::column-margin
-The CLABSI rate is a marker of ICU function, and is reported as number of infections per 1000 central line-days.
+The CLABSI rate is a key marker of ICU quality and is reported as number of infections per 1000 central line-days.
 :::
 
 ## Epidemiology and Risk Factors
@@ -77,7 +77,7 @@ Causative organisms:
 		* *Candida*: 14 days
 * Procedural
 	* Remove line\
-	Line tips should be sent for culture if removed for suspected CLABSI, but not for other indications.
+	Line tips should be sent for culture if it suspected as the source for infection.
 * Physical
 
 

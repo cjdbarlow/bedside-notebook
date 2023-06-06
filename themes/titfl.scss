@@ -310,6 +310,30 @@ div.dual ul {
     margin-bottom: 0;
 }
 
+div.info > ol,
+div.crisis > ol,
+div.caution > ol,
+div.tick > ol,
+div.gas > ol,
+div.priority > ol,
+div.ANZCA > ol,
+div.CICM > ol,
+div.dual > ol {
+    padding: 0em 1.5em 0em 5em;
+}
+
+div.info ol,
+div.crisis ol,
+div.caution ol,
+div.tick ol,
+div.gas ol,
+div.priority ol,
+div.ANZCA ol,
+div.CICM ol,
+div.dual ol {
+    margin-bottom: 0;
+}
+
 div.info > :first-child,
 div.crisis > :first-child,
 div.caution > :first-child,

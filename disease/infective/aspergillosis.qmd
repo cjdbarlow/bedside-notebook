@@ -11,9 +11,9 @@ Colonisation is usually benign, but allergic bronchopulmonary aspergillosis can 
 * **Necrotising pneumonia**
 * **Invasive aspergillosis**\
 Severe respiratory failure, usually with different preceding course depending on immune function.
-    * Neutropenic\
+    * **Neutropenic**\
     Refractory fever, extra-pulmonary infection (abscesses), and pulmonary infarction.
-    * Non-neutropenic\
+    * **Non-neutropenic**\
     Mimics bacterial pneumonia with dyspnoea and sputum production predominating.
 
 
@@ -125,8 +125,8 @@ Galactomannan is a cell wall polysaccharide found in *aspergillus*, ice cream, s
         * Lower sensitivity in the immunocompetent and those receiving prophylaxis
     * β-D-glucan antigen\
     Cell wall component of most fungi. Improves sensitivity and specificity in combination with galactomannan.
-    * Serum PCR
-        * Similar diagnostic properties to serum galactomannan.
+    * Serum PCR\
+    Similar diagnostic properties to serum galactomannan.
 * Bronchoscopy\
 BAL is an integral part of adequate sampling.
     * Visual inspection

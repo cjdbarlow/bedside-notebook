@@ -1,6 +1,6 @@
 # Amniotic Fluid Embolism
 
-:::Crisis
+:::crisis
 This is an **anaesthetic crisis**. Priority is to:
 
 * Manage cardiorespiratory collapse
@@ -10,11 +10,11 @@ This is an **anaesthetic crisis**. Priority is to:
 
 Embolism of amniotic fluid and foetal cells into the maternal circulation, which may precipitate cardiorespiratory collapse via obstructive and distributive shock, occurring in two phases:
 
-* **Phase 1: Acute Right Heart Dysfunction**\
+* **Acute Right Heart Dysfunction**\
 ↑ PVR and right heart dysfunction due to spasm of the pulmonary artery by biochemical mediators.
 	* Lasts 30-60 minutes
 	* High mortality
-* **Phase 2: DIC and LV failure**
+* **DIC and LV failure**
 	* LV failure\
 	LV failure/APO.
 		* May be due to direct pulmonary depression of mediators
@@ -29,7 +29,7 @@ Epidemiology of AFE:
 * Occurs in ~1:8000-80,000 pregnancies
 * Has high mortality\
 	* Maternal mortality 37-80%\
-	↓ over time as resuscitation has improved, but remains a **leading cause of maternal mortality**.
+	↓ Over time as resuscitation has improved, but remains a **leading cause of maternal mortality**.
 	* Foetal mortality ~20%
 * Has high neurological morbidity\
 	* Maternal impediment ~7%
@@ -147,7 +147,7 @@ AFE is fundamentally a clinical diagnosis, investigations may guide supportive m
 :::
 
 * Bloods
-	* FBE/UEC/CMP/ABC\
+	* FBE, UEC, CMP
 	Commonly performed but do not aid management. Thrombocytopaenia is rare initially.
 	* Cardiac enzymes
 	* Coagulation assay\
@@ -194,7 +194,7 @@ If a hysterectomy has been performed
 * C\
 Rapid establishment of:
 	* Invasive pressure monitoring
-	* Aggressive filling
+	* Aggressive volume resuscitation
 	* Vasopressors
 	* Pulmonary vasodilators
 	* Mechanical support\

@@ -1,6 +1,6 @@
 # Necrotising Soft Tissue Infections 
 
-Necrotising soft-tissue infections are aggressive, life-threatening infections that:
+Necrotising soft-tissue infections are aggressive, life-threatening infections characterised by rapidly progressing necrosis of subcutaneous tissue and fascia, with relative sparing of underlying muscle. NSTI:
 
 * Include:
 	* Necrotising fasciitis
@@ -8,8 +8,6 @@ Necrotising soft-tissue infections are aggressive, life-threatening infections t
 	* Necrotising cellulitis
 	* Fournier's Gangrene\
 	When involving the perineum.
-* Are characterised by rapidly progressing necrosis of subcutaneous tissue and fascia\
-Relative sparing of underlying muscle.
 * Lead to systemic toxicity with associated multi-organ failure and high mortality\
 In absence of this, it may be difficult to differentiate from a severe necrotising abscess or other necrotising soft tissue infection.
 * Two subtypes:
@@ -50,6 +48,7 @@ Higher mortality seen with:
 	* Group A Streptococci
 	* Enteric organisms
 
+
 ## Pathophysiology
 
 Necrotising fasciitis involves:
@@ -83,7 +82,6 @@ Associated with gas-forming organism infection (generally *Clostridia*, classica
 
 
 ## Diagnostic Approach and DDx
-
 
 
 ## Investigations
@@ -134,9 +132,9 @@ MRI may reveal fascial thickening and hyperintense T2 signal; however MRI is not
 ## Management
 
 :::priority
-* Standard sepsis resuscitation
-* Aggressive, early, surgical debridement
-* Broad spectrum antibiotics with Streptococcal cover
+* Standard **sepsis resuscitation**
+* **Aggressive**, early, **surgical debridement**
+* Broad spectrum **antibiotics** with Streptococcal cover
 :::
 
 **Resuscitation**:
@@ -152,7 +150,7 @@ MRI may reveal fascial thickening and hyperintense T2 signal; however MRI is not
 		* Broad-spectrum agent\
 			* Meropenem 1g Q8H
 			* Amoxacillin/clavulanate 1.2g Q6-8H
-		* Lincosaminde\
+		* Streptococcal cover\
 			* Clindamycin 300-450mg Q6H
 		* MRSA cover
 			* Vancomycin
@@ -181,7 +179,7 @@ Clindamycin suppresses Streptococcal toxin production, which may ↓ severity of
 :::
 
 :::column-margin
-The mechanism of HBOT is uncertain, suggestions include:
+The mechanism of HBOT is uncertain, possibilities include:
 
 * ↑ Viability of marginal tissue
 * ↓ Bacterial toxin production
@@ -211,7 +209,6 @@ Obviously required for shock requiring vasoactive support.
 ---
 
 ## References
-
 
 1. Devaney B, Frawley G, Frawley L, Pilcher DV. [Necrotising soft tissue infections: the effect of hyperbaric oxygen on mortality](https://www.ncbi.nlm.nih.gov/pubmed/26603791). Anaesth Intensive Care. 2015 Nov;43(6):685-92. PubMed PMID: 26603791.
 2. Levett D, Bennett MH, Millar I. [Adjunctive hyperbaric oxygen for necrotizing fasciitis](http://cochranelibrary-wiley.com/doi/10.1002/14651858.CD007937.pub2/full). Cochrane Database of Systematic Reviews 2015, Issue 1. Art. No.: CD007937.
