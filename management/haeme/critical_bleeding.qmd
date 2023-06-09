@@ -1,0 +1,295 @@
+# Critical Bleeding {#sec-critical_bleeding}
+
+**Critical bleeding** is **life-threatening bleeding** that is **likely to require massive transfusion**. 
+
+:::column-margin
+This discusses critical bleeding a general approach to haemostatic resuscitation. Damage control surgery and the particulars of major haemorrhage in the trauma patient are covered under @sec-damage_control.
+:::
+
+:::column-margin
+Critical bleeding is also defined as bleeding in a critical area (e.g. intracranial, intraocular, intraspinal), resulting in morbidity or mortality. Whilst an epidural haematoma is both a) bleeding and b) critical, the management principles are so different from the exsanguinating patient that I've sidelined this definition.
+:::
+
+:::column-margin
+Massive transfusion is defined as one of:
+
+* Whole blood volume in 24 hours
+* 10 PRBC in 24 hours\
+Functionally the whole blood cell volume in the 70kg-Guyton man.
+* ⩾50% of blood volume in 4 hours\
+\>40mL/kg in children.
+
+These definitions are notably all retrospective, and so remain impractical for clinical use.
+:::
+
+
+## Epidemiology and Risk Factors
+
+Principles of haemostatic resuscitation are derived from the following:
+
+* 40% of traumatic deaths in the first 24 hours occur due to haemorrhage
+* 25% of severe trauma patients are coagulopathic on arrival
+* Coagulopathy is a very poor prognostic sign\
+3× mortality in coagulopathic patients.
+* Acidosis significantly impairs both haemostatic and haemodynamic function
+
+:::column-margin
+![](/resources/coagulopathy_mortality.png)
+:::
+
+Predicting massive transfusion:
+
+* Assessment of Blood Consumption (ABC Score)\
+⩾2 factors suggests 85% likelihood of MTP.
+	* HR ⩾120
+	* SBP ⩽90
+	* Penetrating injury
+	* Positive FAST scan
+* Injury patterns
+	* Uncontrolled:
+		* Truncal bleeding
+		* Junctional haemorrhage
+		* Large soft tissue bleeding
+	* Amputations
+	* Mangled extremities
+	* Clinical coagulopathy
+	* Severe hypothermia
+
+:::column-margin
+Note that the **haemoglobin** is **not an indicator** for **MTP activation**, as it is a measure of *concentration* and does not reliably change during acute haemorrhage.
+:::
+
+## Pathophysiology
+
+Coagulopathy occurs due to:
+
+* Shock
+	* Ischaemia
+* Tissue injury
+* Acidosis
+* Hypothermia
+* Haemodilution
+
+
+### Aetiology
+
+## Clinical Features
+
+## Assessment
+
+**History**:
+
+**Exam**:
+
+### Investigations
+
+:::caution
+Massive transfusion is characterised by bleeding faster than the time coagulation assays take to run. Consequently:
+
+* Most investigations are of limited benefit as decisions have to be made (and the clinical situation changed) prior to tests returning\
+Despite this, they should be **checked** every **thirty minutes** to monitor trajectory of resuscitation.
+* Protocolisation of MTP ↓ this uncertainty
+* Once haemorrhage has slowed to a point that coagulation assays accurately reflect the current physiological state, individualised approaches can be used
+:::
+
+**Bedside**:
+
+* Point-of-care coagulation assays
+* ABG
+	* Calcium
+	* Hb
+
+
+**Laboratory**:
+
+* Coagulation
+	* APTT
+	* PT
+	* Fibrinogen
+
+
+**Imaging**:
+
+**Other**:
+
+### Diagnostic Approach and DDx
+
+
+## Management
+
+:::priority
+The principles of **haemostatic resuscitation** are:
+
+* **Stop** the **bleeding**
+	* **Permissive hypotension**
+	* Early **haemorrhage control**
+* **Correct**ion of **physiological abnormalities**\
+The **lethal triad**:
+	* Acidosis
+	* Hypothermia
+	* Coagulopathy
+* Massive **transfusion**\
+Early **notification** to the **blood bank**.
+:::
+
+:::column-margin
+This emphasises management of blood products and physiological state, particulars of haemorrhage control and permissive hypotension are better covered under @sec-damage_control.
+:::
+
+
+**Resuscitation**:
+
+:::column-margin
+Note that 1 *bag* of platelets contains ~4 units in Australia and New Zealand, so that 4 bags of PRBC and FFP should be given for each bag of platelets.
+:::
+
+* B
+	* CO~2~ control\
+	For acidosis; balanced by other injury concerns.
+* C
+	* **Permissive hypotension**\
+	* **Balanced transfusion**
+		* 1:1:1 transfusion
+			* Three units of cryoprecipitate should be given for every 4 units of PRBC\
+			* Additional cryoprecipitate should be given if fibrinogen is <1
+			* Additional unit of platelets should be given if platelets are <75×10^9^/L
+		* What products should be transfused should ideally be determined by the blood bank
+	* Avoid crystalloid
+* E
+	* Temperature >36°C
+		* External warming
+		* Warm all transfuse blood products
+* F
+	* Correct acidosis
+	* Calcium\
+	Target ionised calcium >1mmol/L.
+* H
+	* TXA\
+	1g over 10 minutes.
+	* Consider recombinant factor VIIa
+
+:::column-margin
+Different blood banks may have different protocols for sending blood packs:
+
+* Continue to send until requested to stop
+* Each pack made ready, and sent on request
+:::
+
+:::column-margin
+In addition to the regular resuscitation roles, the MTP requires additional allocation of roles:
+
+* MTP activator and lead
+* Lab monitor
+* Blood preparation and administration\
+2 people for checking.
+* Runner
+* Scribe
+:::
+
+**Specific therapy**:
+
+* Pharmacological
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+
+
+### Endpoints
+
+Goals indicating adequate resuscitation and haemostasis are:
+
+* No evidence of further haemorrhage
+* C
+	* SBP 80-90mmHg
+	* MAP >50mmHg
+* E
+	* Temperature >35°C
+* F
+	* pH >7.3
+	* iCa^2+^ >1.1mmol/L
+* H
+	* Hb >70g/L
+	* INR <1.5
+	* APTT <40s
+	* Fibrinogen >2g/dL
+	* Platelet >50-100×10^9^/L\
+	Higher target if head injury or intracranial or intraspinal haemorrhage.
+
+
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+Complications specific to massive transfusion include:
+
+:::column-margin
+General complications of blood transfusion are covered under @sec-transfusion_reactions.
+:::
+
+* Blood product related\
+Due to the large amount of blood product infused.
+	* **Citrate toxicity**\
+	Citrate used to anticoagulate blood products (particularly PRBC) will chelate ionised calcium and magnesium, which may contribute to ↓ inotropy and (if severe) coagulopathy.
+	* **Acid load**\
+	Stored blood contributes to metabolic acidosis which may worsen coagulopathy. Contributing acids include:
+		* Citric acid\
+		From citrate.
+		* Lactic acid\
+		From RBC metabolism.
+	* ***Hyper*kalaemia**\
+	Higher potassium load in PRBC may ↑ serum potassium in massive transfusion scenarios.
+	* ***Hypo*kalaemia**\
+	Late and relatively rare complication occurring due to potassium uptake by transfused RBCs, which occurs as they correct electrolyte composition.
+	* **Hyperbilirubinaemia**\
+		* Haemolysis of transfused cells will ↑ unconjugated bilirubin
+		* Conjugated bilirubin may ↑ if liver excretion is impaired\
+		e.g. Due to ischaemic liver injury.
+* Procedural
+	* **Hypothermia**\
+	Administration of non-warmed blood products has several detrimental effects:
+		* Left-shift of oxyhaemoglobin-dissociation curve
+		* ↓ RBC deformity
+		* ↑ Serum K^+^
+		* ↑ Metabolic demand\
+		Warming from 4°C → 37°C requires 1255kJ and ~62L of oxygen.
+	* Air embolism
+		* Due to rapid infusion in pressurised circuits\
+		Modern devices contain bubble detectors which ↓ this risk, although cases are reported when using other equipment (e.g. arterial line pressure bags).
+
+:::column-margin
+The acid and citrate load are ↓ with citrate-phosphate-dextrose blood products.
+:::
+
+## Prognosis
+
+## Key Studies
+
+**Antifibrinolytics**:
+
+{{< include /trials/crash2.qmd >}}
+
+
+**Transfusion ratios**:
+
+{{< include /trials/proppr.qmd >}}
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. NZ Blood Service. [Transfusion Medicine Handbook, 3rd Edition](https://media.starship.org.nz/transfusion-medicine-handbook/Transfusion-Medicine-Handbook-2016.pdf). Accessed June 8, 2023. 
+1. National Blood Authority. [Patient Blood Management Guidelines: Module 1 - Critical Bleeding and Massive Transfusion](https://www.blood.gov.au/system/files/documents/pbm-module1_0.pdf). National Health and Medical Research Council; 2011. Accessed June 8, 2023. 
+1. Brohi K, Singh J, Heron M, Coats T. Acute Traumatic Coagulopathy: The Journal of Trauma: Injury, Infection, and Critical Care. 2003;54(6):1127-1130.
+1. [Effects of tranexamic acid on death, vascular occlusive events, and blood transfusion in trauma patients with significant haemorrhage (CRASH-2): a randomised, placebo-controlled trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2810%2960835-5/fulltext). The Lancet. 2010;376(9734):23-32.
+1. [Transfusion of Plasma, Platelets, and Red Blood Cells in a 1:1:1 vs a 1:1:2 Ratio and Mortality in Patients With Severe Trauma: The PROPPR Randomized Clinical Trial](https://jamanetwork.com/journals/jama/fullarticle/2107789
+). Bleeding and Transfusion. JAMA. JAMA Network. Accessed June 8, 2023. 

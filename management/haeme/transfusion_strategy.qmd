@@ -1,19 +1,19 @@
-# Blood Transfusion
+# Transfusion Targets
 
-:::info
-All targets vary depending on the clinical situation.
+Transfusion strategies aim to balance the harm of anaemia or coagulopathy versus that of transfusion, therefore all targets vary depending on the clinical situation.
+
+:::column-margin
+Ideally, a patient should be prevented from becoming anaemic or coagulopathic in the first place.
 :::
 
 ## Haemoglobin
 
 :::column-margin
-Although anaemia is detrimental, it is apparent that correction to a normal haemoglobin is also not helpful. Transfusion strategies aim to balance the harm of anaemia and of transfusion.\
-\
-Ideally, a patient should be prevented from becoming anaemic in the first place.
+Although anaemia is detrimental, it is apparent that correction to a normal haemoglobin is also not helpful. 
 :::
 
 * \>70g/L: Essentially always appropriate
-* \>80g/L: Coronary artery disease
+* \>80g/L: Coronary artery disease, active ACS, or ECMO
 * 80-90g/L: Active haemorrhage\
 Less restrictive strategy appropriate to keep a margin of safety.
 * \>90g/L: Essentially never appropriate
@@ -51,20 +51,19 @@ Coagulation factor replacement:
 	Though albumin is generally preferred.
 
 
-## Approaches to Transfusion
+Targets:
 
-Based on coagulation profile:
-
-* INR >1.5\
-Give 4 units FFP.
-* Fibrinogen <1g/dL\
-Give 10 units cryoprecipitate.
-* Fibrinogen 1-1.5g/dL\
-Give 5 units cryoprecipitate.
-* Platelets <50g×10^9^/L\
-Give 5 units of platelets.
+* INR <1.5-2.0\
+Invasive procedures are safe below 2, though lower thresholds may be requested for high risk procedures.
+* Fibrinogen >1-2.0
 
 
+## Antifibrinolytics
+
+* Benign and so recommended in almost all cases
+* Tranexamic acid
+	* 1g bolus
+	* 1g infusion over 8h ours
 
 ---
 

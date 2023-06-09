@@ -143,7 +143,7 @@ The **most common cause of death** is **withdrawal** of life sustaining **therap
 
 ## Key Studies
 
-* [BOX](https://www.nejm.org/doi/full/10.1056/NEJMoa2208686#:~:text=In%20this%20randomized%20trial%2C%20we,%2Dof%2Dhospital%20cardiac%20arrest.)
+* [BOX](https://www.nejm.org/doi/full/10.1056/NEJMoa2208686)
 	* 802 patients in admitted in 2 Danish ICUs following OOHCA with ROSC after 20 minutes and GCS <8
 	* Oxygen arm:
 		* Restrictive oxygenation (PaO~2~ 68-75mmHg) vs. liberal oxygenation (98-105mmHg)\

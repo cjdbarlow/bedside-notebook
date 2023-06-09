@@ -3,9 +3,7 @@
 Damage control surgery describes **limited surgical interventions** to correct or temporise **immediately life-threatening injuries until** a patient **regains** the **physiological reserve** to **tolerate** definitive **repair**. The key principles involve:
 
 :::column-margin
-This covers the principles of Damage Control Surgery and the care of the trauma patient after the emergency room.\
-\
-Conduct of the Primary Survey and Damage Control Resuscitation are covered under @sec-trauma_primary.
+This covers the principles of Damage Control Surgery and the care of the trauma patient after the emergency room. Conduct of the Primary Survey and Damage Control Resuscitation are covered under @sec-trauma_primary, whilst management of critical bleeding and massive transfusion are covered under @sec-critical_bleeding.
 :::
 
 * Avoiding tissue hypoxia and oxygen debt by:
@@ -174,7 +172,7 @@ Methods:
 ### Definitive Repair
 
 :::info
-Usually begins 24-48 hours after initial injury/
+Usually begins 24-48 hours after initial injury.
 :::
 
 Definitive repair of previously temporised injuries, including:

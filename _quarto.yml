@@ -239,8 +239,7 @@ book:
             chapters:
             - management/haeme/blood.qmd
             - management/haeme/transfusion_strategy.qmd
-            - management/haeme/bleeding.qmd
-            - management/haeme/massive_transfusion.qmd
+            - management/haeme/critical_bleeding.qmd
             - management/haeme/transfusion_reactions.qmd
           - part: "Coagulation"
             chapters:

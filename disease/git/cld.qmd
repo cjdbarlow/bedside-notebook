@@ -205,8 +205,8 @@ May take up to 1 year, indicating some degree of pathological vascular remodelli
 An ↑ in PVR in the setting of portal hypertension is ominous, and is:
 
 * Characterised by:
-	* Hyperdymamic, ↑ CO state
-	* ↑ Intrasvacular
+	* Hyperdynamic, ↑ CO state
+	* ↑ Intravascular
 	* ↑ PVR
 * Responsive to pulmonary vasodilators\
 May require sustained (>3 months) treatment to effect remodelling.
@@ -217,7 +217,7 @@ Pulmonary hypertension not due to left heart failure (i.e. ↑ PAP with a normal
 :::
 
 
-### Hepatorenal Syndrome {#sec-hepatorenal})
+### Hepatorenal Syndrome {#sec-hepatorenal}
 
 Hepatorenal syndrome is an end-stage manifestation of worsening renal perfusion that occurs in portal hypertension. Hepatorenal syndrome is:
 
