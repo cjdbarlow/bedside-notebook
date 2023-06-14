@@ -28,7 +28,8 @@ quarto::quarto_preview
 * LP and spinal as distinct entities with includes
 * Revise vasoactives in Part one and include a trimmed section for inotropes/dilators/pressors
 	* Chapters in Oh's are quite good
-
+* Move trials into separate stems
+* Re-do the resuscitation section, particularly post-arrest care
 
 # Package to-do
 

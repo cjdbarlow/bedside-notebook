@@ -282,7 +282,6 @@ Early use of noradrenaline is associated with ↓ mortality.
 
 **Preventative**:
 
-### Anaesthetic Considerations
 
 ### Marginal and Ineffective Therapies
 
@@ -298,13 +297,13 @@ Early use of noradrenaline is associated with ↓ mortality.
 		* Otherwise high risk
 	* Unlikely to change mortality or outcome
 	* Will spare vasopressors
+	* May ↓ ventilator days and speed shock resolution
 * β-blockade
 	* Esmolol probably most well studied
 		* Very high control group mortality
 		* May reflect reversal of harmful exogenous β-agonists 
 * Activated protein C
 * Vitamin C
-
 
 **Resuscitation targets**:
 
@@ -328,6 +327,11 @@ CRRT with larger pores, allowing filtration of middle-molecular weight proteins 
 
 * Hydroxy-ethyl starch resuscitation fluids\
 ↑ AKI and mortality.
+
+
+## Anaesthetic Considerations
+
+
 
 ## Complications
 
@@ -378,33 +382,12 @@ High mortality:
 
 **Fluid**:
 
-* FEAST
-* SOAP
-* SAFE
-* ALBIOS
-* CHEST
-* VAAST
-* [CLOVERS](https://www.nejm.org/doi/full/10.1056/NEJMoa2212663)
-	* ~12,000 patients with sepsis and hypotension after 1L IVT
-		* Within 24 hours of hospital admission
-		* \<3L of IVT\
-		i.e. 1-3L of IVT received by randomisation.
-	* Restrictive vs. liberal fluid strategy
-		* Restrictive: Up to 2L IVT, then noradrenaline\
-		Rescue fluids allowed.
-		* Liberal: 2L bolus at randomisation, further 500mL boluses\
-		Rescue vasopressors allowed, and recommended after 5L (6-8L total) IVT.
-	* No change in mortality, ventilator free days, ICU free days, ARDS
-	* ↑ ICU admission in restrictive group
-	* Strong safety profile of peripheral vasopressors
-* [CLASSIC](https://www.nejm.org/doi/full/10.1056/NEJMoa2202707)
-	* ~1500 non-pregnant, non-burned Europeans with sepsis within 12 hours of diagnosis
-	* Restrictive vs. liberal fluid strategy
-		* Restrictive: Crystalloid given for severe hypoperfusion, overt losses, or to ensure at least 1L/24 hours
-		* Liberal: Crystalloid given based on surviving sepsis guidelines, to replace losses
-	* Vasopressors as per trial protocol
-	* No difference in mortality
-	* Small difference in volume administered (~2L at day 5)
+{{< include /trials/feast.qmd >}}
+{{< include /trials/arise.qmd >}}
+{{< include /trials/safe.qmd >}}
+{{< include /trials/albios.qmd >}}
+{{< include /trials/clovers.qmd >}}
+{{< include /trials/classic.qmd >}}
 
 
 **Early Goal Directed Therapy**:
@@ -417,14 +400,9 @@ High mortality:
 	* Haematocrit >30%
 * The comfort of this physiological approach did not survive the crucible of real-word RCT evaluation, and EGDT has been subsequently dismissed
 * The principles of aggressive, goal-directed (but not CVP and ScvO~2~-directed) therapy live on
-* Rivers et al.
-	* Single-centre, non-randomised, non-blinded trial
-	* High control group mortality (46.5%)
-	* Use of ScvO~2~ target was not based on prior evidence
-	* Effect may be due to presence of experience clinician at the bedside directing therapy
-* ARISE
-* ProCESS
-* ProMISE
+{{< include /trials/rivers.qmd >}}
+{{< include /trials/arise.qmd >}}
+{{< include /trials/process.qmd >}}
 
 
 **Steroids**:
@@ -437,9 +415,9 @@ High mortality:
 	* I
 		* Correct adrenal insufficiency
 		* Dampen hyperactive immune response
-* CORTICUS
-* ADRENAL
-* APROCCHSS
+{{< include /trials/corticus.qmd >}}
+{{< include /trials/adrenal.qmd >}}
+{{< include /trials/aprocchss.qmd >}}
 
 
 **Vitamin C**:
@@ -448,38 +426,42 @@ High mortality:
 	* Levels are ↓ in the critically ill
 	* Oxidative stress is ↑ in the critically ill
 	* Vitamin C has antioxidant effects that may alleviate some oxidative stress
-* [LOVIT](https://www.nejm.org/doi/10.1056/NEJMoa2200644)
-	* 872 adults with suspected infection requiring ICU admission and vasopressors in Canada, France, and New Zealand
-	* 50mg/kg Vitamin C vs Placebo
-	* Significantly ↑ death (44.5% vs 38.5%) and persistent organ dysfunction (9.1% vs 6.9%) in vitamin C group 
-* CITRIS-ALI
-
+{{< include /trials/marik.qmd >}}
+{{< include /trials/citris_ali.qmd >}}
+{{< include /trials/vitamins.qmd >}}
+{{< include /trials/lovit.qmd >}}
 
 
 **Other**:
 
-* [CandiSep](https://link.springer.com/article/10.1007/s00134-022-06733-x)
-	* 342 Adults with sepsis at risk of invasive candidiasis, but without proven fungal infection and not on fungal treatment
-	* Blood cultures performed and randomised to:
-		* (1 → 3)-β-D-Glucan testing performed on blood cultures\
-		Fungal cell wall component that can be detected prior to cultures becoming positive.
-		* Standard cultures
-	* β-D-Glucan group received more (57% vs 27%) and earlier (1.1 vs 4.4 days) antifungal treatment without a change in mortality
-	* Lower power than anticipated due to lower mortality
-	* Lower rates of invasive candidiasis than anticipated
-* SUPPORT
-* TRISS
-* Morelli JAMA 2013
+{{< include /trials/censer.qmd >}}
+{{< include /trials/andromeda_shock.qmd >}}
+{{< include /trials/fabled.qmd >}}
+{{< include /trials/candisep.qmd >}}
+{{< include /trials/triss.qmd >}}
+{{< include /trials/morelli.qmd >}}
+
 
 ---
 
 ## References
 
 1. Bellomo R, Kellum JA, Ronco C et al. Acute kidney injury in sepsis. Intensive Care Med. 2017 Jun;43(6):816-828. doi: 10.1007/s00134-017-4755-7. Epub 2017 Mar 31.
-2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
-3. [Early Restrictive or Liberal Fluid Management for Sepsis-Induced Hypotension](https://www.nejm.org/doi/full/10.1056/NEJMoa2212663). New England Journal of Medicine. 2023;388(6):499-510.
-4. Singer, M., Deutschman, C.S., Seymour, C.W., Shankar-Hari, M., Annane, D., Bauer, M., Bellomo, R., Bernard, G.R., Chiche, J.-D., Coopersmith, C.M., Hotchkiss, R.S., Levy, M.M., Marshall, J.C., Martin, G.S., Opal, S.M., Rubenfeld, G.D., van der Poll, T., Vincent, J.-L., Angus, D.C., 2016. [The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3)](https://jamanetwork.com/journals/jama/fullarticle/2492881). JAMA 315, 801.
-5. Lamontagne F, Masse MH, Menard J, et al. [Intravenous Vitamin C in Adults with Sepsis in the Intensive Care Unit](https://www.nejm.org/doi/10.1056/NEJMoa2200644). N Engl J Med. 2022;386(25):2387-2398.
-6. Bloos F, Held J, Kluge S, et al. [(1→3)-β-d-Glucan-guided antifungal therapy in adults with sepsis: the CandiSep randomized clinical trial](https://link.springer.com/article/10.1007/s00134-022-06733-x). Intensive Care Med. 2022;48(7):865-875. doi:10.1007/s00134-022-06733-x
-7. Meyhoff TS, Hjortrup PB, Wetterslev J, et al. [Restriction of Intravenous Fluid in ICU Patients with Septic Shock. New England Journal of Medicine](https://www.nejm.org/doi/full/10.1056/NEJMoa2202707). 2022;386(26):2459-2470.
-8. O’Grady NP, Barie PS, Bartlett JG, et al. [Guidelines for evaluation of new fever in critically ill adult patients: 2008 update from the American College of Critical Care Medicine and the Infectious Diseases Society of America](https://journals.lww.com/ccmjournal/Fulltext/2008/04000/Guidelines_for_evaluation_of_new_fever_in.40.aspx). Critical Care Medicine. 2008;36(4):1330.
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. [Early Restrictive or Liberal Fluid Management for Sepsis-Induced Hypotension](https://www.nejm.org/doi/full/10.1056/NEJMoa2212663). New England Journal of Medicine. 2023;388(6):499-510.
+1. Singer, M., Deutschman, C.S., Seymour, C.W., Shankar-Hari, M., Annane, D., Bauer, M., Bellomo, R., Bernard, G.R., Chiche, J.-D., Coopersmith, C.M., Hotchkiss, R.S., Levy, M.M., Marshall, J.C., Martin, G.S., Opal, S.M., Rubenfeld, G.D., van der Poll, T., Vincent, J.-L., Angus, D.C., 2016. [The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3)](https://jamanetwork.com/journals/jama/fullarticle/2492881). JAMA 315, 801.
+1. Lamontagne F, Masse MH, Menard J, et al. [Intravenous Vitamin C in Adults with Sepsis in the Intensive Care Unit](https://www.nejm.org/doi/10.1056/NEJMoa2200644). N Engl J Med. 2022;386(25):2387-2398.
+1. Bloos F, Held J, Kluge S, et al. [(1→3)-β-d-Glucan-guided antifungal therapy in adults with sepsis: the CandiSep randomized clinical trial](https://link.springer.com/article/10.1007/s00134-022-06733-x). Intensive Care Med. 2022;48(7):865-875. doi:10.1007/s00134-022-06733-x
+1. Meyhoff TS, Hjortrup PB, Wetterslev J, et al. [Restriction of Intravenous Fluid in ICU Patients with Septic Shock. New England Journal of Medicine](https://www.nejm.org/doi/full/10.1056/NEJMoa2202707). 2022;386(26):2459-2470.
+1. O’Grady NP, Barie PS, Bartlett JG, et al. [Guidelines for evaluation of new fever in critically ill adult patients: 2008 update from the American College of Critical Care Medicine and the Infectious Diseases Society of America](https://journals.lww.com/ccmjournal/Fulltext/2008/04000/Guidelines_for_evaluation_of_new_fever_in.40.aspx). Critical Care Medicine. 2008;36(4):1330.
+1. Morelli A, Ertmer C, Westphal M, et al. [Effect of Heart Rate Control With Esmolol on Hemodynamic and Clinical Outcomes in Patients With Septic Shock: A Randomized Clinical Trial](https://jamanetwork.com/journals/jama/fullarticle/1752246). JAMA. 2013;310(16):1683-1691. doi:10.1001/jama.2013.278477
+1. Cheng MP, Stenstrom R, Paquette K, et al. [Blood Culture Results Before and After Antimicrobial Administration in Patients With Severe Manifestations of Sepsis](https://www.acpjournals.org/doi/10.7326/M19-1696). Ann Intern Med. 2019;171(8):547-554. doi:10.7326/M19-1696
+1. Fujii T, Luethi N, Young PJ, et al. [Effect of Vitamin C, Hydrocortisone, and Thiamine vs Hydrocortisone Alone on Time Alive and Free of Vasopressor Support Among Patients With Septic Shock: The VITAMINS Randomized Clinical Trial](https://jamanetwork.com/journals/jama/fullarticle/2759414). JAMA. 2020;323(5):423. doi:10.1001/jama.2019.22176
+1. Fowler AA III, Truwit JD, Hite RD, et al. [Effect of Vitamin C Infusion on Organ Failure and Biomarkers of Inflammation and Vascular Injury in Patients With Sepsis and Severe Acute Respiratory Failure: The CITRIS-ALI Randomized Clinical Trial](https://jamanetwork.com/journals/jama/article-abstract/2752063). JAMA. 2019;322(13):1261-1270. doi:10.1001/jama.2019.11825
+1. Hernández G, Ospina-Tascón GA, Damiani LP, et al. [Effect of a Resuscitation Strategy Targeting Peripheral Perfusion Status vs Serum Lactate Levels on 28-Day Mortality Among Patients With Septic Shock: The ANDROMEDA-SHOCK Randomized Clinical Trial](https://jamanetwork.com/journals/jama/article-abstract/2724361). JAMA. 2019;321(7):654-664. doi:10.1001/jama.2019.0071
+1. Annane D, Renault A, Brun-Buisson C, et al. [Hydrocortisone plus Fludrocortisone for Adults with Septic Shock](http://www.nejm.org/doi/full/10.1056/NEJMoa1705716). New England Journal of Medicine. 2018;378(9):809-818. doi:10.1056/NEJMoa1705716
+1. Venkatesh B, Finfer S, Cohen J, et al. [Adjunctive Glucocorticoid Therapy in Patients with Septic Shock](http://www.nejm.org/doi/full/10.1056/NEJMoa1705835). New England Journal of Medicine. 2018;378(9):797-808. doi:10.1056/NEJMoa1705835
+1. Sprung CL, Annane D, Keh D, et al. [Hydrocortisone Therapy for Patients with Septic Shock](http://www.nejm.org/doi/pdf/10.1056/NEJMoa071366). N Engl J Med. 2008;358(2):111-124. doi:10.1056/NEJMoa071366
+1. Marik PE, Khangoora V, Rivera R, Hooper MH, Catravas J. [Hydrocortisone, Vitamin C, and Thiamine for the Treatment of Severe Sepsis and Septic Shock: A Retrospective Before-After Study](https://journal.chestnet.org/article/S0012-3692(16)62564-3/fulltext). CHEST. 2017;151(6):1229-1238. doi:10.1016/j.chest.2016.11.036
+1. Maitland K, Kiguli S, Opoka RO, et al. [Mortality after Fluid Bolus in African Children with Severe Infection](http://www.nejm.org/doi/full/10.1056/NEJMoa1101549). New England Journal of Medicine. 2011;364(26):2483-2495. doi:10.1056/NEJMoa1101549
+1. [Goal-Directed Resuscitation for Patients with Early Septic Shock](http://www.nejm.org/doi/full/10.1056/NEJMoa1404380). New England Journal of Medicine. 2014;371(16):1496-1506. doi:10.1056/NEJMoa1404380

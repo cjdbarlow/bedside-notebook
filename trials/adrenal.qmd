@@ -1,0 +1,13 @@
+* [ADRENAL](http://www.nejm.org/doi/full/10.1056/NEJMoa1705835) (2018)
+	* 3658 adults with septic shock requiring vasopressors and mechanical ventilation, without various exotic infections
+	* Multicentre (69), international, double-blinded RCT 
+	* 3800 patients gives 90% power to detect 5% ARR from a baseline mortality of 33%
+	* Hydrocortisone vs. placebo
+		* Hydrocortisone\
+		200mg/day via continuous infusion.
+	* No difference (27.9% vs. 28.8%) in 90 day mortality
+	* Secondary outcomes favour steroids:L
+		* ↓ Ventilator days (3 vs. 4 days)
+		* ↓ Time to shock resolution
+		* ↓ ICU length of stay (10 vs. 12 days)
+		* ↓ Blood transfusion (37% vs. 41.7%)

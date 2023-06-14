@@ -102,10 +102,18 @@ Whilst not a complication *of* ECMO, they occur commonly in patients *on* VV ECM
     * Significant iatrogenic harm of intercostal catheters in patients on VV ECMO
 * Manage with:
     * ↑ ECMO support
-    * ↓ Ventilation or ceased ventilatio 
+    * ↓ Ventilation or ceased ventilation
 
 
-      \
+## Key Studies
+
+{{< include /trials/cesar.qmd >}}
+{{< include /trials/eolia.qmd >}}
+
+
 ---
 
-## References 
+## References
+
+1. Combes A, Hajage D, Capellier G, et al. [Extracorporeal Membrane Oxygenation for Severe Acute Respiratory Distress Syndrome](https://www.nejm.org/doi/full/10.1056/NEJMoa1800385). New England Journal of Medicine. 2018;378(21):1965-1975. doi:10.1056/NEJMoa1800385
+1. Peek GJ, Mugford M, Tiruvoipati R, et al. [Efficacy and economic assessment of conventional ventilatory support versus extracorporeal membrane oxygenation for severe adult respiratory failure (CESAR): a multicentre randomised controlled trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(09)61069-2/fulltext). The Lancet. 2009;374(9698):1351-1363. doi:10.1016/S0140-6736(09)61069-2

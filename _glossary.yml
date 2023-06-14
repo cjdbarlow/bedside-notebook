@@ -38,6 +38,7 @@ CAC: Citric Acid Cycle
 CBD: Common Bile Duct
 CBF: Cerebral Blood Flow
 CD: Collecting Duct
+CI: Confidence Interval
 CIM: Critical Illness Myopathy
 CIN: Critical Illness Neuropathy
 CLABSI: Central Line Associated Bloodstream Infection
@@ -70,8 +71,10 @@ DNA: Deoxyribonucleic Acid
 DOAC: Direct Oral Anticoagulant
 DOP: D-type (δ) opioid receptor
 DRG: Dorsal Respiratory Group
+DSMB: Data Safety Monitoring Board
 ECF: Extracellular Fluid
 ECG: Electrocardiograph
+ECOR: Extracorporeal CO~2~ Removal
 ECT: Electron Transport Chain
 EDH: Extradural Haemorrhage
 EDKA: Euglycaemic Ketoacidosis
@@ -101,11 +104,13 @@ GH: Growth Hormone
 GRV: Gastric Residual Volume
 GSW: Gunshot Wound
 GvHD: Graft versus Host Disease
+H2RB: Histamine-2 Receptor Blocker (Antagonist)
 HAART: Highly active antiretroviral therapy
 HAP: Hospital-Acquired Pneumonia
 Hb: Haemoglobin
 HCM: Hypertrophic Cardiomyopathy
 HEPA: High-Efficiency Particulate Arrestance
+HFTM: High-Flow Trachestomy Mask
 HHS: Hyperosmolar Hyperglycaemic Syndrome
 HIV: Human Immunodeficiency Virus
 HLA: Human Leukocyte Antigen
@@ -189,6 +194,7 @@ NOMI: Non-Occlusive Mesenteric Ischaemia
 NOP: N-type Opioid Receptor
 NSAID: Non-Steroidal Anti-Inflammatory Drug
 NSAIDs: Non-Steroidal Anti-Inflammatory Drugs
+NSTEMI: Non-ST Segment Elevation Myocardial Infarction
 NSTI: Necrotising Soft Tissue Infection
 NTS: Nucleus of the Tractus Solitarius
 OG: Osmolar Gap
@@ -226,6 +232,7 @@ PRBC: Packed Red Blood Cells
 Psup: Pressure Support
 PTH: Parathyroid Hormone
 PTHrP: Parathyroid Hormone related Peptide
+PTSD: Post-Traumatic Stress Disorder
 PVARP: Post-Ventricular Atrial Refractory Period
 RA: Right Atrium *or* Rheumatoid Arthritis
 RAP: Right Atrial Pressure
@@ -241,6 +248,7 @@ RV: Right Ventricle
 RVEDP: Right Ventricular End-Diastolic Pressure
 RVEDP: Right Ventricular End-Diastolic Volume
 RWMA: Regional Wall Motion Abnormality
+SAE: Serious Adverse Events
 SAM: Systolic Anterior Motion (of the mitral valve)
 SAH: Subarachnoid Haemorrhage
 SAQ: Short Answer Question
@@ -254,7 +262,8 @@ SLE: Systemic Lupus Erythematosus
 SLED: Sustained Low-Efficiency Dialysis
 SOFA: Sequential Organ Failure Assessment
 SSEP: Somatosensory Evoked Potential
-STE: ST segment elevation
+STE: ST Segment Elevation
+STEMI: St Segement Elevation Myocardial Infarction
 STP: Standard Temperature and Pressure (0°C at 100kPa)
 SV: Stroke Volume
 SVC: Superior Vena Cava

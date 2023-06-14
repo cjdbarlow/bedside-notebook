@@ -1,0 +1,12 @@
+* [Morelli et al](https://jamanetwork.com/journals/jama/fullarticle/1752246) (2013)
+	* 154 β-blocker-naive Italians with sepsis and a normal CI requiring noradrenaline admitted to a single ICU in Rome
+	* Single-centre, phase 2, unblinded RCT
+	* Randomised to esmolol vs. usual care
+		* Esmolol group had infusion adjusted to achieve HR 80-94
+		* All patients received:
+			* PAC
+			* Hydrocortisone 300mg/day via continuous infusion
+			* Levosimendan if ↓ DO~2~ and Hb >80
+			* CVP and PCWP guided fluid resuscitation and MvO~2~
+	* Significant ↓ in HR and mortality in esmolol group, which must be contextualixed against the... high... 80% control group mortality
+	* High dose vasopressors at randomisation (~0.4μg/kg/min NA), despite normal lactates

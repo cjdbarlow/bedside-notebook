@@ -18,6 +18,8 @@ ARDS is graded by severity of hypoxia into:
     PaO~2~/FiO~2~: <100. 
 
 :::column-margin
+: Precipitants of ARDS
+
 | Direct              | Indirect           |
 | ------------------- | ------------------ |
 | Pneumonia           | Sepsis             |
@@ -27,8 +29,6 @@ ARDS is graded by severity of hypoxia into:
 | Drowning            | CPB                |
 | Inhalational injury |                    |
 | Reperfusion injury  |                    |
-
-: Precipitants of ARDS
 :::
 
 ## Epidemiology and Risk Factors
@@ -85,12 +85,19 @@ Principles of management are:
 **Specific therapy**:
 
 * Pharmacological
-    * Neuromuscular blockade
+    * Neuromuscular blockade\
+    Consider for ventilator dyssynchrony, but no evidence of benefit for routine use.
+    * **Dexamethasone**
+        * 10mg IV OD
+        * Evidence only supportive for infective (pneumonia, sepsis) causes of ARDS
+        * Pure glucocorticoid preferable to mineralocorticoid\
+        Avoids sodium and water retention.
 * Physical
     * **Proning**\
     Significant improvement in hypoxia by:
         * Recruiting dorsal lung
         * Improving V/Q matching
+
 
 **Supportive care**:
 
@@ -98,7 +105,7 @@ Principles of management are:
     * **Lung protective ventilation**\
         * Appropriate PEEP\
         Often titrated to a PEEP-FiO~2~ table. Considerations:
-            * The disease and degree of recruitable lung is higly heterogenous and often over-distension and under-recruitment will occur together
+            * The disease and degree of recruitable lung is highly heterogenous and often over-distension and under-recruitment will occur together
             * Higher PEEP is associated with better outcomes in more severe disease, and worse outcomes in milder disease
             * Inadequate PEEP tends to cause under-recruitment and hypoxia
             * Excessive PEEP tends to cause over-distension, ↑ lung stress, and reduced cardiac output
@@ -107,7 +114,7 @@ Principles of management are:
                 * Maximally recruiting available alveoli
                 * Spreading Vt over a greater number of alveoli
                 * Reducing Pip
-                * Decrasing Barotrauma and volutrauma
+                * Deceasing Barotrauma and volutrauma
         * Appropriate FiO~2~\
         High FiO~2~ is associated with diffuse alveolar damage. FiO~2~ should be titrated (in combination with PEEP adjustment):
             * Down to <0.6 (as able)
@@ -142,11 +149,12 @@ One reasonable approach to PEEP-setting is identifying the level where DO~2~ (i.
 * High-Frequency Oscillatory Ventilation\
 ↑ Mortality compared to lung protective ventilation strategies.
 * Recruitment Manoeuvres\
-In theory, recruitment manouvres aid the open lung approach by ↑ alvolear recruitment. In practice, following a recruitment manouvere:
-    * Over-inflation of previously normal lung occurs
+In theory, recruitment manoeuvres improve oxygenation by ↑ number of ventilated alveoli. In practice, following a recruitment manoeuvre:
+    * Over-inflation of previously normal lung occurs\
+    May be harmful.
     * Oxygenation may improve\
-    Predominantly early ARDS with lower baseline PEEP.
-    * Haemodynamic instability often occurs due to large changes in VR
+    Predominantly early ARDS with a lower baseline PEEP.
+    * Haemodynamic instability may occur due to large changes in VR
 
 ## Anaesthetic Considerations
 
@@ -160,7 +168,7 @@ Improving with better preventative care and ↓ VILI. Mortality varies on:
         * ~35% mild
         * ~40% moderate
         * ~45% severe
-    * Cause and cormorbidities:
+    * Cause and comorbidities:
         * ↓ In trauma
         * ↑ In elderly, chronic or acute organ failures, and sepsis
 * Chronic lung disease\
@@ -169,10 +177,39 @@ Pulmonary function tests normalise in 6-12 months.
 ↑ In survivors of ARDS compared to non-ARDS ICU patients.
     * Functional impairment persists in young survivors of severe disease
 
+
 ## Key Studies
 
+**Open Lung Approach**:
+
+* Combination of high PEEP and recruitment manoeuvres to prevent alveolar collapse, and thereby:
+    * ↓ VILI
+    * ↓ Atelectotrauma
+    * ↑ Oxygenation
+* (Appropriately) high PEEP is generally well established as safe and effective, the role of recruitment manoeuvres is unclear 
+{{< include /trials/art.qmd >}}
+
+
+**Muscle Relaxation**:
+
+{{< include /trials/acurasys.qmd >}}
+{{< include /trials/rose.qmd >}}
+
+
+**Other**:
+
+{{< include /trials/proseva.qmd >}}
+{{< include /trials/arma.qmd >}}
+{{< include /trials/dexa_ards.qmd >}}
 
 
 ---
 
 ## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. Villar J, Ferrando C, Martínez D, et al. [Dexamethasone treatment for the acute respiratory distress syndrome: a multicentre, randomised controlled trial](https://www.sciencedirect.com/science/article/abs/pii/S2213260019304175). The Lancet Respiratory Medicine. 2020;8(3):267-276. doi:10.1016/S2213-2600(19)30417-5
+1. [Early Neuromuscular Blockade in the Acute Respiratory Distress Syndrome](https://www.nejm.org/doi/full/10.1056/NEJMoa1901686). New England Journal of Medicine. 2019;380(21):1997-2008. doi:10.1056/NEJMoa1901686
+1. Writing Group for the Alveolar Recruitment for Acute Respiratory Distress Syndrome Trial (ART) Investigators. [Effect of Lung Recruitment and Titrated Positive End-Expiratory Pressure (PEEP) vs Low PEEP on Mortality in Patients With Acute Respiratory Distress Syndrome: A Randomized Clinical Trial](https://jamanetwork.com/journals/jama/fullarticle/2654894). JAMA. 2017;318(14):1335-1345. doi:10.1001/jama.2017.14171
+1. Papazian L, Forel JM, Gacouin A, et al. [Neuromuscular Blockers in Early Acute Respiratory Distress Syndrome](http://www.nejm.org/doi/full/10.1056/NEJMoa1005372). New England Journal of Medicine. 2010;363(12):1107-1116. doi:10.1056/NEJMoa1005372
+1. Guérin C, Reignier J, Richard JC, et al. [Prone Positioning in Severe Acute Respiratory Distress Syndrome](http://www.nejm.org/doi/10.1056/NEJMoa1214103). N Engl J Med. 2013;368(23):2159-2168. doi:10.1056/NEJMoa1214103

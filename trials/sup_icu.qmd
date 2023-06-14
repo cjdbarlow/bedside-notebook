@@ -1,0 +1,7 @@
+* [SUP-ICU](https://www.nejm.org/doi/full/10.1056/NEJMoa1714919) (2018)
+	* ~3300 adult non-pregnant Europeans admitted to ICU with some risk of GIB, no active GIB or transplant, and for active treatment
+	* Block randomised trial of 40mg pantoprazole OD vs. placebo
+	* No change in 90 day mortality (31.1% vs 30.4%)
+	* Secondary outcomes:
+		* Significant ↓ in clinically important GIB (2.5% vs 4.2%)
+		* No change in VAP, *C. difficile* infection, or other SAE

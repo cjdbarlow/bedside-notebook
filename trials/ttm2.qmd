@@ -1,0 +1,14 @@
+* [TTM2](https://www.nejm.org/doi/full/10.1056/NEJMoa2100591?query=featured_cardiology) (2021)
+	* 1861 non-pregnant patients across 14 countries with witnessed OOHCA with sustained ROSC and FOUR score <4 without: ECMO, treatment limitations, ICH
+	* International, multi-centre, parallel group RCT
+	* Randomised to hypothermia (33°C) vs. normothermia (36°C)
+		* Hypothermia group
+			* Rapidly cooled with cold IVT and active internal or external cooling
+			* Rewarming commenced after 28 hours at <0.3°C/hr
+		* Normothermia group
+			* Cooled to ⩽37.5°C
+			* Less-invasive therapies initiated first
+		* Both groups had temperature managed using a feedback-controlled system
+	* Median temperature in hypothermia group at 3 hours was 34°C, reflecting degree of difficulty achieving hpothermia
+	* No difference in 180 day mortality (50% vs 48%)
+	* ↑ Arrhythmias in hypothermia group (24% vs. 16%)

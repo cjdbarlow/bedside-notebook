@@ -28,7 +28,10 @@
 					* Phenobarbital 10-15mg/kg IV, given at 100mg/min
 				* Ketogenic diet\
 				Considered dual 3^rd^ line in some institutions.
-	* Maintenance antiepileptic
+	* Maintenance antiepileptic\
+	All have demonstrated equivalence, but levetiracetam is the most logistically convenient.
+		* **Levetiracetam**
+			* **60mg/kg** IV load
 		* Phenytoin
 			* **20mg/kg** IV load
 			* Wait **2 hours** before checking levels following loading dose
@@ -39,5 +42,3 @@
 			* **40mg/kg** IV load
 			* Non-sedating
 			* Levels can be checked immediately
-		* Levetiracetam
-			* **60mg/kg** IV load

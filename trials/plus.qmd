@@ -1,0 +1,16 @@
+* [PLUS](https://www.nejm.org/doi/full/10.1056/NEJMoa2114464) (2022)
+	* 5037 non-pregnant Australasians without TBI or a specific fluid requirement who required fluid resuscitation, had some sort of invasive line, and were anticipated to be >3 days in ICU
+		* Initially planned for 8800 patients, powered at 90% for a 2.9% ARR in 90 day mortality
+			* 23% control group mortality
+			* 2% loss to followup
+		* Revised to 5000 patients at start of COVID-19 pandemic as non-COVID research suspended and funding diverted\
+		90% power for 3.8% ARR in 90 day mortality.
+	* Investigator-initiated, double-blinded, parallel-group, multicentre (53), block-randomised RCT
+	* Saline vs. Plasmalyte 148
+		* Saline group
+			* 3.7L saline received over 6 days
+			* 3.5% received >500mL plasmalyte
+		* Plasmalyte group
+			* 3.9L plasmalyte received over 6 days
+			* 63% received >500mL saline
+	* No difference (21.8% vs 22%) in 90-day mortality

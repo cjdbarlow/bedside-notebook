@@ -3,7 +3,7 @@
 Vasopressors are drugs that predominantly constrict peripheral vasculature, causing a:
 
 :::column-margin
-Similar to @sec-inotropes, many vasopressors have inotropic effects. Unlike inotropes however, there are s.
+Similar to @sec-inotropes, many vasopressors have inotropic effects. Unlike inotropes however, there are some *pure* vasopressors.
 :::
 
 * Primary ↑ in SVR, causing a secondary ↑ in MAP
@@ -23,24 +23,33 @@ Exerts pressure on the walls of the vasculature and therefore produces MSFP.
 
 ## Contraindications
 
-
-+---------------+---------------+---------------------------------+--------------------------------------+
-| Drug          | Noradrenaline | Vasopressin                     | Methylene Blue                       |
-+===============+===============+=================================+======================================+
-| Overview      |               | Endogenous nonapeptide\         |                                      |
-|               |               | Acts on V~1~ and V~2~ receptors |                                      |
-+---------------+---------------+---------------------------------+--------------------------------------+
-|               |               | * Not a catecholamine\          | * Mesenteric vasoconstriction        |
-|               |               | Works synergistically.          | * Coronary vasoconstriction\         |
-|               |               | * Not affected by acidosis      | May lead to ischaemia.               |
-|               |               | * Not pro-arrhythmic            | * Possibly ↑ microcirculatory change |
-|               |               | * Fluid retention               | * Hyponatraemia                      |
-+---------------+---------------+---------------------------------+--------------------------------------+
-| Disadvantages |               |                                 | * MAO Inhibition                     |
-+---------------+---------------+---------------------------------+--------------------------------------+
-
-
 ## Comparison
+
+: Comparison of Vasopressors
+
++--------------------+---------------------------------+----------------------------+--------------------------------------+
+| Drug               | Overview                        | Advantages                 | Disadvantages                        |
++====================+=================================+============================+======================================+
+| **Noradrenaline**  |                                 |                            |                                      |
+|                    |                                 |                            |                                      |
+|                    |                                 |                            |                                      |
+|                    |                                 |                            |                                      |
+|                    |                                 |                            |                                      |
++--------------------+---------------------------------+----------------------------+--------------------------------------+
+| **Vasopressin**    | Endogenous nonapeptide\         | * Not a catecholamine\     |                                      |
+|                    | Acts on V~1~ and V~2~ receptors | Works synergistically.     |                                      |
+|                    |                                 | * Not affected by acidosis |                                      |
+|                    |                                 | * Not pro-arrhythmic       |                                      |
+|                    |                                 | * Fluid retention          |                                      |
++--------------------+---------------------------------+----------------------------+--------------------------------------+
+| **Methylene Blue** |                                 |                            | * Mesenteric vasoconstriction        |
+|                    |                                 |                            | * Coronary vasoconstriction\         |
+|                    |                                 |                            | May lead to ischaemia.               |
+|                    |                                 |                            | * MAO Inhibition                     |
+|                    |                                 |                            | * Possibly ↑ microcirculatory change |
+|                    |                                 |                            | * Hyponatraemia                      |
++--------------------+---------------------------------+----------------------------+--------------------------------------+
+
 
 ## Equipment
 
@@ -50,12 +59,32 @@ Exerts pressure on the walls of the vasculature and therefore produces MSFP.
 
 ## Key Studies
 
-* VAAST
-* VANISH
+**Targets**:
 
+{{< include /trials/65.qmd >}}
+
+
+**Vasopressin**:
+
+{{< include /trials/vaast.qmd >}}
+{{< include /trials/vanish.qmd >}}
+
+
+**Other**:
+
+{{< include /trials/bellomo_dopa.qmd >}}
+{{< include /trials/midas.qmd >}}
+{{< include /trials/censer.qmd >}}
+{{< include /trials/athos3.qmd >}}
 
 ---
 
 ## References
 
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. Santer P, Anstey MH, Patrocínio MD, et al. [Effect of midodrine versus placebo on time to vasopressor discontinuation in patients with persistent hypotension in the intensive care unit (MIDAS): an international randomised clinical trial](https://link.springer.com/article/10.1007/s00134-020-06216-x). Intensive Care Med. 2020;46(10):1884-1893. doi:10.1007/s00134-020-06216-x
+1. Lamontagne F, Richards-Belle A, Thomas K, et al. [Effect of Reduced Exposure to Vasopressors on 90-Day Mortality in Older Critically Ill Patients With Vasodilatory Hypotension: A Randomized Clinical Trial](https://jamanetwork.com/journals/jama/fullarticle/2761427). JAMA. 2020;323(10):938-949. doi:10.1001/jama.2020.0930
+1. Gordon AC, Mason AJ, Thirunavukkarasu N, et al. [Effect of Early Vasopressin vs Norepinephrine on Kidney Failure in Patients With Septic Shock: The VANISH Randomized Clinical Trial](https://jama.jamanetwork.com/article.aspx?articleid=2540403). JAMA. 2016;316(5):509-518. doi:10.1001/jama.2016.10485
+1. Russell JA, Walley KR, Singer J, et al. [Vasopressin versus Norepinephrine Infusion in Patients with Septic Shock](http://www.nejm.org/doi/full/10.1056/NEJMoa067373). New England Journal of Medicine. 2008;358(9):877-887. doi:10.1056/NEJMoa067373
+1. Khanna A, English SW, Wang XS, et al. Angiotensin II for the Treatment of Vasodilatory Shock. N Engl J Med. 2017;377(5):419-430. doi:10.1056/NEJMoa1704154
+1. Bellomo R, Chapman M, Finfer S et al. [Low-dose dopamine in patients with early renal dysfunction: a placebo-controlled randomised trial](https://pubmed.ncbi.nlm.nih.gov/11191541/). The Lancet. 2000;356(9248):2139-2143. doi:10.1016/S0140-6736(00)03495-4

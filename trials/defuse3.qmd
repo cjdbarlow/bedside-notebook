@@ -1,0 +1,7 @@
+* [DEFUSE-3](https://www.nejm.org/doi/full/10.1056/NEJMoa1713973) (2018)
+	* 182 patients 18-90 with occlusion of ICA or M1
+		* NIHSS >6
+		* <70mL infarct volume with >15mL penumbra
+	* Thrombectomy plus medical therapy vs. medical therapy alone
+	* Significant improvement in functional independence (45% vs 17%) at 90 days with endovascular approach
+	* Required particular imaging and software access, may not be generalisable

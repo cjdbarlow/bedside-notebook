@@ -1,0 +1,16 @@
+* [COBI](https://jamanetwork.com/journals/jama/article-abstract/2780326) (2021)
+	* 370 French adults with moderate or severe TBI with radiological cranial abnormality, without cervical spine injury or at imminent risk of death, admitted to one of 9 ICUs
+	* 80% power to detect 20% RRR in poor neurological outcome (GOS-E 1-5) at 3 and 6 months
+	* Intervention arm were generally sicker, with ↑ diffuse brain injury (Marshall III/IV 17% vs 12%) as well as evacuable mass lesions (intervention on 32% vs 22%)
+	* Continuous infusion of 20% saline vs. usual care
+		* Hypertonic saline group
+			* Adjusted to prevent sodium >155mmol/L
+			* Continued for >48 hours
+			* Ceased when all other ICP therapies ceased for >12 hours
+			* Normalisation of serum sodium managed
+		* Usual care
+			* As per BTF guidelines
+			* Osmolar therapy permitted as rescue therapy
+		* No significant difference in favourable outcome (GOS-E 6-8; 32.6% vs 35.4%)
+		* No difference in intracranial hypertension, ICU length of stay, or adverse events
+		* ↑ Hypernatraemia in the intervention group

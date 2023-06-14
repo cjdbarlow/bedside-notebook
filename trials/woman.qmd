@@ -1,0 +1,10 @@
+* [WOMAN](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)30638-4/fulltext) (2017)
+	* 20,060 women >16 with clinical PPH
+	* Multicentre (193!), international, double-blinded, RCT
+	* Powered for 0.75% ARR ↓ in death or hysterectomy at 42 days from 3% to 2.25%
+	* TXA (1g) vs. placebo
+		* Second dose administered for recurrent or ongoing bleeding
+	* No difference in primary outcome (5.3% vs. 5.5%)
+	* Secondary outcomes showed:
+		* ↓ Death due to bleeding with TXA (1.5% vs. 1.9%, RR 0.85 (CI 0.65-1))
+		* ↓ Death if TXA given in <3 hours of *birth* (1.2% vs. 1.7%), and ↑ death if after 3 hours (2.6% vs. 2.5%)

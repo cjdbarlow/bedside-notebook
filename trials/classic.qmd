@@ -1,0 +1,8 @@
+* [CLASSIC](https://www.nejm.org/doi/full/10.1056/NEJMoa2202707) (2022)
+	* ~1500 non-pregnant, non-burned Europeans with sepsis within 12 hours of diagnosis
+	* Restrictive vs. liberal fluid strategy
+		* Restrictive: Crystalloid given for severe hypoperfusion, overt losses, or to ensure at least 1L/24 hours
+		* Liberal: Crystalloid given based on surviving sepsis guidelines, to replace losses
+	* Vasopressors as per trial protocol
+	* No difference in mortality
+	* Small difference in volume administered (~2L at day 5)

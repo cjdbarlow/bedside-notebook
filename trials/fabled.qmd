@@ -1,0 +1,11 @@
+* [FABLED](https://www.acpjournals.org/doi/10.7326/M19-1696) (2019)
+	* Adults in the ED with *suspected* severe sepsis
+	* Multi-centre (7) diagnostic cohort study
+	* 2 sets of blood cultures taken before antibiotics via separate venepuncture
+	* 1-2 sets of cultures taken 30-240 minutes after antibiotics
+	* Significant ↓ in positive cultures post antibiotics
+		* ~30% positive pre-antibiotic, compared to ~20% positive post-antibiotic\
+		RRR ~33%.
+		* More pronounced ↓ in positive post-antibiotic cultures if organism was sensitive to antibiotic used\
+		RRR ~50%.
+		* Positive post-antibiotic cultures were associated with ↑ time to positivity, suggesting ↑ bacterial burden

@@ -96,7 +96,9 @@ Adverse effects of metabolic acidosis include:
 
 :::priority
 * Treat cause
-* Consider alkalinisation if severe or metabolic consequences occurring
+* Consider alkalinisation if:
+	* NAGMA
+	* Severe metabolic consequences
 :::
 
 **Specific Therapy**:
@@ -139,6 +141,18 @@ Adverse effects of metabolic acidosis include:
 			* May ↓ BSL
 			* Coagulopathy
 			* Potassium disturbances
+
+## Key Studies
+
+**Alkalinising Solutions**:
+
+* Metabolic acidosis is common in the critically unwell, and brings a raft of physiological harms
+* Alkalinising the serum may not be the solution
+	* May worsen intracellular acidosis
+	* Correcting cause of acidosis should be the priority
+* Bicarbonate probably has a role in NAGMA, but not in HAGMA\
+Metabolism of organic acids regenerates HCO~3~^-^.
+{{< include /trials/bicar_icu.qmd >}}
 
 
 ---

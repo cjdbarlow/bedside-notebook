@@ -1,0 +1,15 @@
+* [VAAST](http://www.nejm.org/doi/full/10.1056/NEJMoa067373) (2008)
+	* ~800 adults with septic shock, without mesenteric ischaemia, hyponatraemia, or TBI
+	* Double-blind, randomised trial, stratified by shock severity
+	* 80% power to detect 10% (!) ↓ ARR from baseline mortality of 60%
+	* Vasopressin vs. noradrenaline
+		* Vasopressin up to 0.03 units/minute (3.6 units/hr)
+		* Noradrenaline up to 15μg/minute
+		* Open label infusion if maximal rate reached
+		* Cross-over to vasopressin was not allowed for noradrenaline group
+	* No change in 28 day mortality (35.4% vs 39.3%)
+	* Vasopressin is safe, at least up to ~4 units/hr
+
+:::column-margin
+The VAAST protocol provides a crude dose-conversion between noradrenaline and vasopressin, with 1 unit/hr of vasopressin being *roughly* equivalent to 8μg/minute of noradrenaline.
+:::

@@ -421,12 +421,24 @@ Exposure of donated cellular products to high (25Gy) doses of ionised radiation:
 
 ## Key Studies
 
-**Red cell youth**:
+**Transfusion Thresholds**:
+
+
+{{< include /trials/tricc.qmd >}}
+{{< include /trials/triss.qmd >}}
+{{< include /trials/tricsiii.qmd >}}
+
+
+**Red Cell Youth**:
 
 * Historically, the oldest available cells have been used to avoid wastage
 * Critically ill patients (who are more susceptible to storage lesions, and receive more blood transfusions) may benefit from receiving younger product
-{{< include /trials/aripi.qmd >}}
+{{< include /trials/transfuse.qmd >}}
 
+
+**Viscoelastic Testing**:
+
+{{< include /trials/itactic.qmd >}}
 
 ---
 
@@ -439,3 +451,8 @@ Exposure of donated cellular products to high (25Gy) doses of ionised radiation:
 1. National Blood Authority. [Patient Blood Management Guidelines: Module 1 - Critical Bleeding and Massive Transfusion](https://www.blood.gov.au/system/files/documents/pbm-module1_0.pdf). National Health and Medical Research Council; 2011. Accessed June 8, 2023.
 1. Cap A, Beckett LA, Benov MA, et al. [Whole Blood Transfusion](https://learning-media.allogy.com/api/v1/pdf/6ba14c4a-ecf2-42fa-bb81-e005a5bd7484/contents). Joint Trauma System Clinical Practice Guideline. 2018.
 1. Cap AP, Beckett A, Benov A, et al. [Whole Blood Transfusion](https://academic.oup.com/milmed/article/183/suppl_2/44/5091133). Military Medicine. 2018;183(suppl_2):44-51. doi:10.1093/milmed/usy120
+1. Baksaas-Aasen K, Gall LS, Stensballe J, et al. [Viscoelastic haemostatic assay augmented protocols for major trauma haemorrhage (ITACTIC): a randomized, controlled trial. Intensive Care Med](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7550843/). 2021;47(1):49-59. doi:10.1007/s00134-020-06266-1
+1. Mazer CD, Whitlock RP, Fergusson DA, et al. [Restrictive or Liberal Red-Cell Transfusion for Cardiac Surgery](http://www.nejm.org/doi/full/10.1056/NEJMoa1711818). New England Journal of Medicine. 2017;377(22):2133-2144. doi:10.1056/NEJMoa1711818
+1. Holst LB, Haase N, Wetterslev J, et al. [Lower versus Higher Hemoglobin Threshold for Transfusion in Septic Shock](http://www.nejm.org/doi/10.1056/NEJMoa1406617). N Engl J Med. 2014;371(15):1381-1391. doi:10.1056/NEJMoa1406617
+1. Cooper DJ, McQuilten ZK, Nichol A, et al. [Age of Red Cells for Transfusion and Outcomes in Critically Ill Adults](http://www.nejm.org/doi/full/10.1056/NEJMoa1707572). New England Journal of Medicine. 2017;377(19):1858-1867. doi:10.1056/NEJMoa1707572
+1. Hébert PC, Martin C, Yetisir E. [A Multicenter, Randomized, Controlled Clinical Trial of Transfusion Requirements in Critical Care](http://www.nejm.org/doi/pdf/10.1056/NEJM199902113400601). The New England Journal of Medicine. Published online 1999.

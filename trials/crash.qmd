@@ -1,0 +1,12 @@
+* [CRASH](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(04)17188-2/fulltext) (2004)
+	* 10,008 patients >16 with head injury and GCS ⩽14
+	* Multicentre, double-blind, allocation concealed, randomised trial
+	* 20,000 patients gives 90% power for 2% ↓ ARR for control group mortality of 15%
+	* Steroids vs. placebo
+		* Steroids
+			* Methylprednisolone 2g over 1 hour, followed by 400mg/hr for 48 hours
+		* Placebo
+	* Stopped early for harm
+	* ↑ Mortality in steroid group (21% vs. 18%, RR 1.18 (CI 1.09 - 1.27))
+	* Secondary outcomes demonstrated ↑ 6-month mortality (25.3% vs. 22.3%) and severe disability (38.1% vs. 36.3%)
+	* Corticosteroids should not be used for patients with head injuries

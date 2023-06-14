@@ -1,0 +1,15 @@
+* [ATHOS-3](http://www.nejm.org/doi/10.1056/NEJMoa1704154) (2017)
+	* 344 adults with refractory vasoplegic shock (>0.2μg/kg/min catecholamines for 6-48 hours with evidence of ↑ CI), without severe burns, ACS, mesenteric ischaemia, active haemorrhage, or mechanical support
+	* Double-blind, allocation concealed, block randomised, multicentre (75), international RCT
+	* 90% power to detect response in MAP (>75mmHg or >10mmHg ↑) at 3 hours, without ↑ in background vasopressors, assuming 40% response in placebo group
+	* Angiotensin II vs. placebo
+		* ATII
+			* 20ng/kg/min, titrated to MAP >75mmHg or 200ng/kg/min over 3 hours
+			* After 3 hours, titrated to 1.25-40ng/kg/min
+			* Other vasopressor dose held constant, safety permitting
+			* Adjustment of background vasopressors indicated "non-response"
+		* Placebo
+			* Placebo titrated by same profile
+	* Significant ↑ in MAP in the ATII group (69% vs. 23%), with ↓ dose of background vasopressors
+	* No changes in patient relevant secondary endpoints
+	* Demonstrates efficacy and somewhat demonstrates safety

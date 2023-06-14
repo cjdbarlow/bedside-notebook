@@ -350,17 +350,18 @@ Morbidity persists even after delivery, with ↑ risk of:
 
 ## Key Studies
 
-* MAGPIE
-	* 58% ↓ in progression to eclampsia (in women with pre-eclampsia) in magnesium group
+{{< include /trials/magpie.qmd >}}
+
 
 ---
 
 ## References
 
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
 1. Dennis AT. Management of pre-eclampsia: issues for anaesthetists. Anaesthesia. 2012;67(9):1009-1020.
-2. Dennis AT, Castro J, Carr C, Simmons S, Permezel M, Royse C. Haemodynamics in women with untreated pre-eclampsia*. Anaesthesia. 2012;67(10):1105-1118.
-3. Dennis AT, Solnordal CB. Acute pulmonary oedema in pregnant women. Anaesthesia. 2012;67(6):646-659.
-4. Dennis AT, Castro JM. Hypertension and haemodynamics in pregnant women - is a unified theory for pre-eclampsia possible? Anaesthesia. 2014;69(11):1183-1189.
-5. New Zealand Committee of RANZCOG, NZCOM. [Guidance regarding the use of low-dose aspirin in the prevention of pre-eclampsia in high-risk women](https://www.ranzcog.edu.au/RANZCOG_SITE/media/RANZCOG-MEDIA/New%20Zealand/Guidance-Aspirin-for-Prevention-of-Pre-eclampsia.pdf). 2018.
-6. Lowe SA, Bowyer L, Lust K, McMahon LP, Morton M, North RA, Paech M. Said JM. [Guideline for the Management of Hypertensive Disorders of Pregnancy](https://www.ranzcog.edu.au/RANZCOG_SITE/media/RANZCOG-MEDIA/Women%27s%20Health/SOMANZ-Hypertension-Pregnancy-Guideline-April-2014.pdf?ext=.pdf). 2014.
-7. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. Dennis AT, Castro J, Carr C, Simmons S, Permezel M, Royse C. Haemodynamics in women with untreated pre-eclampsia*. Anaesthesia. 2012;67(10):1105-1118.
+1. Dennis AT, Solnordal CB. Acute pulmonary oedema in pregnant women. Anaesthesia. 2012;67(6):646-659.
+1. Dennis AT, Castro JM. Hypertension and haemodynamics in pregnant women - is a unified theory for pre-eclampsia possible? Anaesthesia. 2014;69(11):1183-1189.
+1. New Zealand Committee of RANZCOG, NZCOM. [Guidance regarding the use of low-dose aspirin in the prevention of pre-eclampsia in high-risk women](https://www.ranzcog.edu.au/RANZCOG_SITE/media/RANZCOG-MEDIA/New%20Zealand/Guidance-Aspirin-for-Prevention-of-Pre-eclampsia.pdf). 2018.
+1. Lowe SA, Bowyer L, Lust K, McMahon LP, Morton M, North RA, Paech M. Said JM. [Guideline for the Management of Hypertensive Disorders of Pregnancy](https://www.ranzcog.edu.au/RANZCOG_SITE/media/RANZCOG-MEDIA/Women%27s%20Health/SOMANZ-Hypertension-Pregnancy-Guideline-April-2014.pdf?ext=.pdf). 2014.
+1. [Do women with pre-eclampsia, and their babies, benefit from magnesium sulphate? The Magpie Trial: a randomised placebo-controlled trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(02)08778-0/fulltext). The Lancet. 2002;359(9321):1877-1890. doi:10.1016/S0140-6736(02)08778-0

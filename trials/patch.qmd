@@ -1,0 +1,16 @@
+* [PATCH](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)30392-0/fulltext) (2016)
+	* 190 European adults on antiplatelet therapy with supratentorial non-traumatic, non-aneurysmal ICH and a GCS from 8-15, without intraventicular haemorrhage, history of coagulopathy
+	* Multicentre (41), assessor blinded RCT
+	* 91% power to detect OR of 0.43 (!) between pairs of mRS categories
+	* Platelets vs. standard care
+		* Platelets
+			* 5 units if on COX inhibitor
+			* 10 units if on ADP receptor inhibitor
+			* 4 did not receive platelets
+		* Control
+			* 2 received platelets
+	* Worse functional outcome at 3 months (OR ~2, CI 1.2-3.6)
+
+:::column-margin
+![](/resources/patch.png)
+:::

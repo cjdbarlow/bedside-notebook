@@ -12,7 +12,7 @@ Safe removal of a trachestomy requires the patient to meet certain **preconditio
 	* **Airway reflexes** intact\
 	Cough and gag present.
 * B
-	* **Mechanical ventilation** ceased\
+	* No requirement for **mechanical ventilation**\
 	Consider met if:
 		* **>24 hours** free from ventilation
 		* **Minimal** additional **oxygenation**\
@@ -28,9 +28,10 @@ Safe removal of a trachestomy requires the patient to meet certain **preconditio
 	Avoid commencing weaning in patients with gastric aspirates >250mL due to the risk of aspiration.
 
 :::column-margin
+: Effects of decannulation
 
 | Benefits                                   | Drawbacks               |
-| --                                         | --                      |
+| ------------------------------------------ | ----------------------- |
 | ↑ Secretion clearance                      | ↑ Work of Breathing     |
 | ↓ Secretion burden                         | ↑ Anatomical dead space |
 | Facilitate speech                          |                         |
@@ -39,47 +40,76 @@ Safe removal of a trachestomy requires the patient to meet certain **preconditio
 | Pursed lip breathing - provides auto-PEEP  |                         |
 | ↓ Nursing/carer burden                     |                         |
 | ↓ Tracheostomy risks (bleeding, infection) |                         |
-
-: Effects of decannulation
-
 :::
 
 
-## An Approach to Weaning
-
-If preconditions are met:
+## Approach to Weaning
 
 :::column-margin
-**Monitor** for **aspiration** during the cuff-down period.
-::: 
+Depending on respiratory mechanics and individual preferences, different patients may fare better with CPAP, HFTM, or speaking valve.
+:::
 
-* **Deflate** tracheostomy **cuff**\
-Aspirate secretions above the cuff prior, and suction via the tracheostomy *during* deflation to catch dislodged cuff secretions.
-* Ensure adequate ventilation
-* **Gradually** **↑** the **cuff down** **period** as tolerated\
-e.g. 30 minutes, 1 hour, 4 hours, 8 hours, etc; until 48 hours achieved.
-* **Occlude** (cap) the **trache**ostomy or use a speaking valve\
-This final test evaluates the patients ability to breathe via the native airway (and with an upper airway obstruction provided by the trache).
-	* The patient should be 1:1 monitored during the first **15 minutes** of capping
-	* Duration of capping depends on where the tracheostomy wean is being conducted\
-	In a ward/lower-skilled environment, the cap should be tolerated for least **24** hours prior to removal. This can be expedited in an ICU setting.
-* Remove tracheostomy tube and apply occlusive dressing\
-It should **heal** over in **7-10 days**. If there is late failure, an existing tract can be reopened with serial dilators, or a smaller tracheostomy tube can be placed.
+* Transition patient from controlled ventilation to pressure support ventilation
+* Gradually ↓ pressure support and PEEP
+	* ↑ RR is an earlier sign of failure than ↓ V~T~
+	* Avoid over-tiring a patient, sustained steady progress is preferable
+* Once comfortable on pressure support, introduce trials of:
+	* CPAP\
+	Generally 5-10cmH~2~O, without pressure support.
+	* High-flow trache mask\
+	Humidified oxygen.
+	* Speaking valve\
+	Requires cuff down, and therefore has associated aspiration risk.
+* Progressively ↑ duration of trials and ↓ of support until the patient is consistently stable and comfortable on a non-CPAP mode of support
+* Consider decannulation once above preconidtions met
 
+:::column-margin
+Considerations for cuff down periods:
+
+* ↑ Aspiration risk whilst cuff is down\
+Positive pressure ventilation partially mitigates this by providing continual flow of air *out* via the larynx
+* Aspirate secretions above the cuff prior to deflation
+* Suction via the tracheostomy *during* deflation to catch dislodged cuff secretions
+:::
 
 ### Failure to Wean
 
-If the above test is unsuccessful, consider:
+If progress is not being made, consider:
 
-* Replacing with a fenestrated tracheostomy\
-↑ Respiratory work.
+* Replacing with a fenestrated tracheostomy
+	* ↑ Respiratory work
+	* Permits vocalisation with cuff up
 * Downsize tracheostomy\
-↓ Size by 1 (e.g. 8.0 to 7.0) to reduce degree of airway obstruction produced by tracheostomy.
+↓ Size by 1 (e.g. 8.0 to 7.0) to ↓ degree of native airway obstruction produced by tracheostomy.
+	* ↑ Ease of cuff-down periods
+	* ↑ Resistance of breathing via tracheostomy
+	* Cuff may be non-occlusive if under-sized, limiting positive pressure ventilation
 * Refer to ENT team\
 Other airway pathology that is impeding wean, e.g.
 	* Paradoxical vocal cord movement
 	* Granulation tissue
 	* Stenosis
+
+
+## Approach to Decannulation
+
+If preconditions are met:
+
+* Ensure 48-72 hours without need for mechanical ventilation
+* Remove tracheostomy tube and apply occlusive dressing\
+It should **heal** over in **7-10 days**. If there is late failure, an existing tract can be reopened with serial dilators, or a smaller tracheostomy tube can be placed.
+
+
+:::column-margin
+One traditional approach to weaning was a **capping trial**, which:
+
+* Involves **occluding** (capping) the **trache**ostomy
+* Evaluates the patients ability to breathe via the native airway with with an upper airway obstruction provided by the blocked trache
+* The patient should be 1:1 monitored during the first **15 minutes** of capping
+* Duration of capping depends on where the tracheostomy wean is being conducted\
+In a ward/lower-skilled environment, the cap should be tolerated for least **24** hours prior to removal. This can be expedited in an ICU setting.
+* Is probably an unnecessary burden in the overwhelming majority of patients
+:::
 
 
 ## Failure to Decannulate
@@ -99,6 +129,6 @@ For tracheomalacia.
 ## References
 
 1. De Leyn, Paul, Lieven Bedert, Marion Delcroix, Pieter Depuydt, Geert Lauwers, Youri Sokolov, Alain Van Meerhaeghe, Paul Van Schil, and Belgian Association of Pneumology and Belgian Association of Cardiothoracic Surgery. “Tracheotomy: Clinical Review and Guidelines.” European Journal of Cardio-Thoracic Surgery: Official Journal of the European Association for Cardio-Thoracic Surgery 32, no. 3 (September 2007): 412–21. [](https://doi.org/10.1016/j.ejcts.2007.05.018)
-2. O’Connor, Heidi H., and Alexander C. White. “[Tracheostomy Decannulation](https://rc.rcjournal.com/content/55/8/1076.short).” Respiratory Care 55, no. 8 (August 1, 2010): 1076–81.
+2. O’Connor, Heidi H., and Alexander C. White. [Tracheostomy Decannulation](https://rc.rcjournal.com/content/55/8/1076.short). Respiratory Care 55, no. 8 (August 1, 2010): 1076–81.
 
 

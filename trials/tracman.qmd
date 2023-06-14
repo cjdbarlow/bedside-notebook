@@ -1,0 +1,17 @@
+* [TRACMAN](https://jamanetwork.com/journals/jama/fullarticle/1690674) (2013)
+	* Intubated patients where, on day 4, the treating clinician believes they will need ⩾7 further days of mechanical ventilation and a tracheostomy is not otherwise indicated or contraindicated
+	* Multicentre, randomised trial
+	* 80% power for 8.3% ARR ↓ in 30 day mortality (!!), assuming baseline of 31.5%\
+	Multiple readjustments due to changing baseline mortality and recruitment fatigue.
+	* Early (day 4) vs. Late (⩾10 day) tracheostomy
+		* Early
+			* 85% received tracheostomy
+			* 7% never received tracheostomy
+			* 7.5% received late tracheostomy
+		* Late
+			* 40% received tracheostomy after day 10 of admission
+			* 53% did not receive a tracheostomy as it was no longer indicated
+			* 7% received tracheostomy before day 10
+	* No change in 30 day mortality (30.8% vs. 31.5%)
+	* No difference in secondary outcomes, including ICU length of stay or ventilated days
+	* Overall: We are not successful at predicting need for tracheostomy, there are not insignificant procedural risks, and early tracheostomy does not appear to have benefits in accelerating ventilator weaning

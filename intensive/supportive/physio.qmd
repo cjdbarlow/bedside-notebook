@@ -37,18 +37,8 @@ Aims to ↑ independence and ↓ severity of ICU-acquired weakness. Techniques e
 
 ## Key Studies
 
-* [TEAM](https://www.nejm.org/doi/full/10.1056/NEJMoa2209083)
-	* 750 adult ventilated ICU patients
-	* Early mobilisation versus usual care
-		* Early mobilisation: highest level of activity for the longest time on the lowest amount of sedation
-		* Usual care still included reasonably early mobilisation
-	* No significant mortality difference
-	* Standing and walking occurred 1-2 days earlier in the early mobilisation group
-	* More adverse events in the early mobilisation group
+{{< include /trials/team.qmd >}}
 
-:::column-margin
-![](/resources/team-icu.png)
-:::
 
 ---
 

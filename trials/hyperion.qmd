@@ -1,0 +1,27 @@
+* [HYPERION](https://www.nejm.org/doi/full/10.1056/NEJMoa1906661) (2019)
+	* 584 non-pregnant, non-lactating Frenchpersons without end-stage liver disease post IHCA or OOHCA with a non-shockable rhythm *of any cause* with GCS <8 prior to admission, with <10 minute no-flow time and <60 minute low-flow time, not on obscene doses of vasopressors (<1ug/kg/min of nor/adrenaline)
+	* Randomised, single assessor, assessor-blinded, multi-centre RCT
+	* 80% power for 9% ↑ in survival with favourable neurological outcome, assuming 14% in control group
+	* Hypothermia (33°C) vs normothermia (36.5-37.5°C)
+		* Hypothermia
+			* Maintained for *24 hours*
+			* External or internal active devices used
+			* Rewarmed at 0.25-0.5°C/hr
+			* Sedation to RASS -5
+		* Normothermia
+			* Maintained for *48 hours*
+			* External or internal active devices used
+			* Sedation to RASS 0
+		* Routine sedation only for first 12 hours
+	* ↑ Survival with favourable outcome in hypothermia group (10.2% vs. 5.7%)\
+	Fragile result, particularly with subjective outcome.
+	* 30% had no bystander CPR
+	* 4-9% were unwitnessed arrests (lower in hypothermia group)
+	* 5% of control group had fevers
+	* Greater overlap of temperatures compared to TTM
+
+:::column-margin
+![](/resources/hyperion_temp.jpeg)
+
+![](/resources/hyperion_cpc.png)
+:::

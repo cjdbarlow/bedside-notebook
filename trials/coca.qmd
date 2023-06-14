@@ -1,0 +1,8 @@
+* [COCA](https://jamanetwork.com/journals/jama/fullarticle/2786819) (2021)
+	* 397 adult non-pregnant Danes with non-traumatic OOHCA with >1 dose adrenaline
+	* Block randomised by ambulance station
+	* 5mmol calcium chloride (IV, IO) vs. saline placebo
+		* No difference in primary outcome of ROSC (19% vs 27%)
+		* No difference in 30 day survival, 90 day survival, or 30 day survival with good neurological outcome
+		* Significant difference in 90 day survival with good neurologic outcome (3.6% vs. 9.1%, RR 0.4 (0.17-0.91))\
+		I feel this is probably dubious given the otherwise consistent findings and the wide confidence intervals.

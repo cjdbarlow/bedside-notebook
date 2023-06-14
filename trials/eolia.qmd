@@ -1,0 +1,30 @@
+* [EOLIA](https://www.nejm.org/doi/full/10.1056/NEJMoa1800385) (2018)
+	* 249 non-pregnant Europeans with ARDS with severe hypoxia despite adjunctive therapies and no ECMO contraindications\
+	Severe hypoxia including
+		* P/F <50mmHg for 3 hours
+		* P/F <80mmHg for 6 hours
+		* pH <7.25 with PaC~2~ >60mmHg for >6 hours with lung protective ventilation
+	* Prospective, multicenter, industry-supported RCT
+	* 331 patients powers for 20% ARR in ECMO group, assuming 60% control mortality
+	* VV ECMO vs. standard care
+		* ECMO group
+			* Percutaneous femoral/jugular configuration
+			* FiO~2~ and pump flow adjusted for SpO~2~ >90%
+			* Sweep adjusted for PaCO~2~ <45mmHg
+		* Stawndard care
+			* Lung protective ventilation
+			* Encouraged:
+				* NMBA
+				* Proning
+				* Recruitment
+			* Inhaled pulmonary vasodilators permitted if above ineffective
+			* Crossover to VV ECMO if SpO~2~ <80% despite the above
+	* Stopped early for futility
+	* No difference in mortality at day 60 (35% vs. 46%, RR 0.76 (CI 0.55-1.04)))
+	* Secondary outcomes showed the ECMO group had:
+		* ↓ "Treatment failure" (RR 0.62, CI 0.47-0.82)\
+		Death or crossover to ECMO.
+		* ↓ RRT 
+		* ↑ Thrombocytopenia
+		* ↑ Bleeding
+	* Slow (6 years) recruitment

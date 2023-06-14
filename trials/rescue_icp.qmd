@@ -1,0 +1,24 @@
+* [RESCUE ICP](http://www.nejm.org/doi/pdf/10.1056/NEJMoa1605215) (2016)
+	* 408 patients aged 10-65 with TBI, abnormal CT, and ICP >25mmHg for 1-12 hours, despite tier 1 and 2 therapies
+	* Multicentre (52), international, parallel group, block mutated RCT, statified by site
+	* 400 patients gave 80% for 15% difference in favourable neurological outcome
+	* Decompressive craniectomy vs. standard care
+		* Decompressive craniectomy
+			* Large unilateral frontotemporoparietal craniectomy for unilateral swelling
+			* Bifrontal craniectomy for diffuse swelling
+		* Medical care
+			* Barbiturates
+			* Crossover to craniectomy permitted if decline, which occurred in 37% of patients
+		* Standard ICP control measures in both groups
+	* Decompressive craniectomy resulted in ↑ survival with a bad neurological outcome
+	* Slow recruitment
+	* High crossover from medical group
+	* Investigators estimated for every 100 patients receiving decompressive craniectomy there were:
+		* 22 survivors
+			* 6 vegetative
+			* 8 lower-severe disability
+			* 8 upper-severe disability
+
+:::column-margin
+![](/resources/rescue_icp.png)
+:::

@@ -1,6 +1,5 @@
 # Primary Postpartum Haemorrhage
 
-
 Postpartum haemorrhage is a major cause of maternal mortality. With respect to PPH:
 
 * Primary PPH is blood loss the first 24 hours post-partum that:
@@ -92,9 +91,11 @@ Where the fundus of the uterus begins to prolapse out of the cervix.
 Usually along a scar from previous caesarian or uterine surgery.
 
 
-## Clinical Manifestations
+## Clinical Features
 
-> Many features may be **masked by the physiology** of pregnancy
+:::caution
+Many features may be **masked by the physiology** of pregnancy, and **blood loss** is often **underestimated**.
+:::
 
 Symptoms and signs of massive blood loss:
 
@@ -108,6 +109,19 @@ Classically late sign in pregnant women.
 
 ## Diagnostic Approach and DDx
 
+PPH is due to either:
+
+* Tone
+	* Uterine atony
+* Trauma
+	* Uterine
+	* Birth canal
+* Tissue
+	* Retained placenta or membranes
+* Thrombin
+	* Coaguolpathy
+	* DIC
+
 ## Investigations
 
 Key investigations:
@@ -118,123 +132,106 @@ Key investigations:
 
 ## Management
 
-> Treatment should be initiated as soon as blood loss is obvious, assumed, or predicted
+:::priority
+* Haemostatic resuscitation
+* Manage uterine causes:
+	* Tone\
+	Rubbing, uterotonics.
+	* Trauma\
+	Operative repair.
+	* Tissue\
+	Operative evacuation.
+	* Thrombin\
+	Medical treatment of coagulopathy.
+:::
 
-Management principles follow the general principles of massive blood loss, plus specific management of uterine causes:
-
-* Apply 100% oxygen
-* Give warmed IV fluids\
-Fluid resuscitation should continue whilst bleeding is ongoing.
-* Prepare for transfusion
-	* Ensure at least 2× ≥ 16G IVC access
-	* Ensure key investigations have been sent
-	* Prepare fluid warmers
-* Transfuse appropriately
-* Avoid hypothermia
-* Consider DDAVP 0.3μg/kg
-	* Uraemia\
-	≥20mmol/L.
-	* von Willebrand's disease
-* Consider factor VIIa
-* Treat the cause\
-See below.
+:::column-margin
+An empty, intact, **contracted** uterus will not bleed *unless* there is coagulopathy.
+:::
 
 
-Management of uterine tone:
+**Resuscitation**:
 
-* Uterine contraction or relaxation may be required depending on cause
-	* Uterotonics
-	* Uterine relaxation
+* C
+	* IV access and warm volume resuscitation
+	* Haemostatic resuscitation
+* H
+	* Consider TXA if <3 hours from birth
+
+
+**Specific therapy**:
+
+* Pharmacological
+	* **Uterotonics**\
+	Ensure active management of the third stage has been completed.
+		* Oxytocin 10 units IV\
+		Commence infusion at 10 units/hr; usually 40 units in 1L of CSL/NS/D5W over 4 hours.
+		* Ergometrine 0.25mg IM\
+		Can give a further 0.25mg IV; beware bronchospasm and hypertension. Up to a total of 1mg.
+		* Metoclopramide 10mg IV
+		* Carboprost 0.25mg **IM**\
+		Can repeat Q15 minutely, up to 2mg.
+		* Consider misoprostol 1mg **PR**
+		* Misoprostol
+	* Uterine relaxation\
+	May be required in some circumstances, such as uterine inversion.
 		* Volatile anaesthetics
 		* GTN
+* Procedural
+	* **Deliver placenta**
+		* Controlled cord traction\
+		Examine for completeness.
+	* **Obstetric intervention**\
+		* Uterine bleeding
+		Escalating ladder of:
+			* Uterine packing\
+			Up to 24 hours, cover with IV antibiotics and continue oxytocin infusion.
+			* Uterine artery ligation
+			* Internal iliac ligation
+			* B-lynch suture
+			* Hysterectomy
+			* Interventional radiology
+		* Birth canal injury
+		* Retained products of conception\
+			* Requires operated delivery
+			* May required uterine relaxation
+* Physical
+	* Haemorrhage control
+		* Bimanual uterine compression
+		* Aorta compression
+	* **Uterine massage**\
+	Rub up. Effective in most cases.
 
 
+**Supportive care**:
+
+* E
+	* Avoid hypothermia
+* H
+	* Consider DDAVP 0.3μg/kg
+		* Uraemia\
+		≥20mmol/L.
+		* von Willebrand's disease
+	* Consider factor VIIa in refractory haemorrhage or DIC
+
+**Disposition**:
+
+**Preventative**:
 
 
-Management of continued bleeding, despite active management of the third stage and specific treatment below:
-
-* Repeat oxytocin
-* Give prostaglandin F2-alpha if not already given
-* Bimanual uterine compression
-* Aorta compression
-* If bleeding persists:
-	* Pack uterus\
-	Up to 24 hours, cover with IV antibiotics and continue oxytocin infusion.
-	* Uterine artery ligation
-	* Internal iliac ligation
-	* B-lynch
-	* Hysterectomy
-	* Interventional radiology
-
-
-#### Atony
-
-* Uterine massage\
-Rub up. Effective in most cases.
-* Uterotonics\
-Ensure active management of the third stage has been completed.
-	* Oxytocin 10 units IV\
-	Commence infusion at 10 units/hr; usually 40 units in 1L of CSL/NS/D5W over 4 hours.
-	* Ergometrine 0.25mg IM\
-	Can give a further 0.25mg IV; beware bronchospasm and hypertension. Up to a total of 1mg.
-	* Metoclopramide 10mg IV
-	* Carboprost 0.25mg **IM**\
-	Can repeat Q15 minutely, up to 2mg.
-	* Consider misoprostol 1mg **PR**
-	* Misoprostol
-
-
-### Trauma
-
-> Blood loss often underestimated
-
-* May require anaesthesia for closure\
-Regional techniques appropriate if haemodynamically stable.
-
-
-### Tissue
-
-> May have significant blood product requirement\
-> Uterine relaxation may be required
-
-* Deliver placenta
-	* Controlled cord traction\
-	Examine for completeness.
-* Retained placenta requires operated delivery\
-Anaesthetic techniques, in order of preference:\
-	* Epidural top-up
-	* Spinal anaesthesia
-	* Intravenous sedation\
-	May be appropriate in some instances.
-	* General anaesthesia
-
-### Coagulopathy
-
->"An empty, intact, **contracted** uterus will not bleed unless there is coagulopathy"
-
-* Ensure coagulation profile has been sent
-* Replacement of platelets and clotting factors
-* Consider TXA\
-Of dubious benefit in obstetric haemorrhage in the 1^st^ world setting.
-
-### Uterine Inversion
-
->Haemorrhagic shock is common\
->Uterine relaxation may be required
-
-Anaesthetic techniques:
-
-* Regional\
-Appropriate if haemodynamically stable.
-* General anaesthesia\
-May be required if **uterine relaxation** needed, particularly in the case of **chronic inversion**.
-
-
-### Anaesthetic Considerations
+## Anaesthetic Considerations
 
 * C
 	* Haemodynamic stability
 		* Key guide for resuscitation goals
+* D
+	Anaesthetic techniques, in order of preference:\
+		* Epidural top-up
+		* Spinal anaesthesia
+		* Intravenous sedation\
+		May be appropriate in some instances.
+		* General anaesthesia
+
 
 ### Marginal and Ineffective Therapies
 
@@ -242,9 +239,14 @@ May be required if **uterine relaxation** needed, particularly in the case of **
 
 ## Prognosis
 
+## Key Studies
+
+{{< include /trials/woman.qmd >}}
+
 
 ---
 
 ## References
 
 1. RANZCOG. [Management of Postpartum Haemorrhage](https://www.ranzcog.edu.au/RANZCOG_SITE/media/RANZCOG-MEDIA/Women%27s%20Health/Statement%20and%20guidelines/Clinical-Obstetrics/Management-of-Postpartum-Haemorrhage-(C-Obs-43)-Review-July-2017.pdf?ext=.pdf). RANZCOG. 2017.
+1. Shakur H, Roberts I, Fawole B, et al. [Effect of early tranexamic acid administration on mortality, hysterectomy, and other morbidities in women with post-partum haemorrhage (WOMAN): an international, randomised, double-blind, placebo-controlled trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)30638-4/fulltext). The Lancet. 2017;389(10084):2105-2116. doi:10.1016/S0140-6736(17)30638-4

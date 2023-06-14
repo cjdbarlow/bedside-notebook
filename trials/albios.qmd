@@ -1,0 +1,13 @@
+* [ALBIOS](https://www.nejm.org/doi/full/10.1056/NEJMoa1305727) (2014)
+	* 1818 Italians within 24 hours of severe sepsis, without head injury, heart failure, or specific indication for albumin
+	* Multicentre (100) open-label, randomised trial, with stratification by ICU and time of sepsis onset
+	* 80% power for 7.5% ARR (!) ↓ in 28-day mortality, with control mortality of 45% 
+	* 20% albumin vs. crystalloid
+		* 20% albumin
+			* 300mL 20% albumin on randomisation
+			* Further 20% targfetting serum albumin >30g/L
+			* Crystalloid as clinically indicated
+		* Crystalloid
+			* Crystalloid as clinically indicated
+	* No mortality difference (31.8% vs. 32%)
+	* 20% albumin is safe and improves haemodynamics, but does not provide a survival advantage

@@ -1,0 +1,14 @@
+* [ROSE](https://www.nejm.org/doi/full/10.1056/NEJMoa1901686) (2019)
+	* 1006 Americans with moderate-severe ARDS (P/F <150), with several appropriate exclusions including BMI >100
+	* Multi-centre (48), unblinded, block randomised trial
+	* 1408 patients provide 90% power for 9% ↓ mortality, based on control group mortality of 35%
+	* Deep sedation and paralysis vs. light sedation
+		* Intervention
+			* Deep sedation
+			* Cisatracurium\
+			15mg bolus then 37.5mg/hr.
+		* Sedation to RASS 0 to -1
+		* Managed with high PEEP
+	* Stopped early for futility
+	* No change in mortality (42.5% vs 42.8%)
+	* Secondary outcomes: ↑ Cardiac SAE in intervention group

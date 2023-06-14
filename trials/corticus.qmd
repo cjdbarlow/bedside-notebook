@@ -1,0 +1,12 @@
+* [CORTICUS](http://www.nejm.org/doi/pdf/10.1056/NEJMoa071366) (2008)
+	* 488 adults with severe sepsis
+	* Multicentre (52), double-blinded, block randomised trial
+	* Hydrocortisone vs. placebo
+		* Hydrocortisone
+			* Hydrocortisone 50mg IV Q6H for 5 days
+			* Tapered over 6 days
+		* Placebo
+	* Underpowered due to lower-than-expected control group mortality
+	* Slow recruitment despite large number of sites, suggests selection bias
+	* No difference in 28 day mortality (39.2% vs 36.1%)
+	* Secondary outcomes insignificant except faster shock reversal (3.8 vs. 5.8 days) in hydrocortisone group

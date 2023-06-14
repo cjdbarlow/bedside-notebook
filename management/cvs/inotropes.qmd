@@ -23,6 +23,8 @@ Regular clinical assessment.
 
 ## Comparison
 
+: Catecholamines
+
 +------------------+----------------------------------------+-----------------------------------+
 | Drug             | Adrenaline                             | Dobutamine                        |
 +==================+========================================+===================================+
@@ -40,8 +42,8 @@ Regular clinical assessment.
 |                  |                                        | * Arrhythmogenic                  |
 +------------------+----------------------------------------+-----------------------------------+
 
-: Catecholamines
 
+: Inodilators
 
 +---------------+----------------------------------+---------------------------+
 | Drug          | Milrinone                        | Levosimendan              |
@@ -59,16 +61,15 @@ Regular clinical assessment.
 |               | * ↓ SVR                          | * Expensive               |
 |               | * Requires loading               |                           |
 |               | * Longer t~1/2~ ↓ titrateability |                           |
-|               | * Renally cleared                                 |                           |
+|               | * Renally cleared                |                           |
 +---------------+----------------------------------+---------------------------+
-
-: Inodilators
 
 
 ## Key Studies
 
-* LEOPARDS
-* Zangrillo et al 2015
+**Cardiogenic Shock**:
+
+{{< include /trials/doremi.qmd >}}
 
 
 ---
@@ -76,3 +77,4 @@ Regular clinical assessment.
 ## References
 
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. Mathew R, Di Santo P, Jung RG, et al. [Milrinone as Compared with Dobutamine in the Treatment of Cardiogenic Shock](https://www.nejm.org/doi/full/10.1056/NEJMoa2026845). New England Journal of Medicine. 2021;385(6):516-525.

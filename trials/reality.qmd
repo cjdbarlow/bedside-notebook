@@ -1,0 +1,8 @@
+* [REALITY](https://jamanetwork.com/journals/jama/article-abstract/2776201) (2021)
+	* 666 French/Spanish anaemic adults with Type 1/2 AMI without shock or life-threatening haemorrhage
+	* Unblinded, allocation-concealed, multicentre randomised trial
+	* 630 patients gives 80% power to a 4% non-inferiority margin for ↓ in MACE at 30 days, assuming 15% in the liberal group
+	* Liberal vs. restrictive transfusion
+		* Liberal transfused if Hb <100
+		* Restrictive transfused if Hb <80
+	* Restrictive transfusion was non-inferior to liberal

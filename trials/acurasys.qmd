@@ -1,0 +1,15 @@
+* [ACURASYS](http://www.nejm.org/doi/full/10.1056/NEJMoa1005372) (2010)
+	* 340 French adults intubated with ARDS for <48 hours with a P/F ratio <150mmHg
+	* Multicentre (20), double-blind, block randomised trial
+	* 80% power to detect 15% ↓ ARR (!) in 90 day mortality assuming control mortality of 50%
+	* Cisatracurium vs. placebo
+		* Cisatracurium\
+		15mg bolus then 37.5mg/hr.
+		* Placebo
+		* All patients received VCV and ARDSnet ventilation with 6-8mL/kg V~T~
+	* Significant ↓ in adjusted 90 day mortality (Hazard Ratio 0.68, CI 0.48-0.98)
+	* Underpowered due to lower than expected control mortality
+	* Secondary outcomes:
+		* No difference in actual mortality (32% vs. 41%)
+		* ↓ Barotrauma in cisatracurium group
+		* ↑ Organ failure days in cisatracurium group

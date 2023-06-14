@@ -1,0 +1,21 @@
+* [65](https://jamanetwork.com/journals/jama/fullarticle/2761427) (2020)
+	* 2600 Britons >65 years old with vasopressors for hypotension secondary to ↓ SVR
+	* Following fluid resuscitation and without contraindications to permissive hypotension
+	* Multi-centre (65), parallel group, unblinded RCT
+	* 90% power to detect 6% ARR in mortality relating to permissive hypotension
+	* Randomised to permissive hypotension vs. standard care
+		* Permissive hypotension
+			* MAP targeted 60-65mmHg
+		* Standard care\
+		MAP targets at clinician discretion.
+		* Vasopressors used at clinician discretion
+	* No difference in 90 day mortality (41% vs 43.8%)
+		* Subgroup with chronic hypertension had *lower* mortality with permissive hypotension (38% vs. 55%, OR 0.67, CI 0.49-0.85)\
+		Not powered for this.
+	* No difference in SAE
+	* No difference in secondary outcomes of ICU discharge, duration of ventilation, CRRT, or cognitive outcome
+	* Indicates lowering MAP targets to ↓ vasopressor exposure is safe in vasodilatory hypotension in the elderly
+
+:::column-margin
+![](/resources/65.png)
+:::

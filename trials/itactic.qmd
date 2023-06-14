@@ -1,0 +1,15 @@
+* [ITACTIC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7550843/) (2020)
+	* 392 adult Europeans with trauma requiring MTP activation and active bleeding within 1 hour of ED admission and 3 hours of injury
+	* Block randomised multicentre (7), clinician unblinded, researcher blinded RCT
+	* 392 patients provides 80% for 15% ↓ in death or massive transfusion at 24 hours 
+	* Viscoelastic assays (ROTEM or TEG) vs. conventional coagulation testing
+		* Protocolised treatment of coagulation abnormalities for both groups
+		* All patients received 1:1:1 transfusion, with algorithmic administration of TXA, fibrinogen, and additiojnal products
+	* Most patients severely injured
+	* No difference in primary outcome (67% vs 64%)\
+	Ambitious difference for a monitoring trial.
+	* Secondary outcome supports 28 day mortality ↓ in TBI group
+
+:::column-margin
+![](/resources/itactic.jpg)
+:::

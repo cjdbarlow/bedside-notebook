@@ -392,7 +392,7 @@ Major perioperative considerations:
 ## Complications
 
 
-* Death\
+* Death
 	* Perioperative mortality over 50%
 * C
 	* Volume overload
@@ -407,11 +407,25 @@ Major perioperative considerations:
 	* Sepsis
 
 
+## Key Studies
+
+**Early RRT**:
+
+* AKI is common in ICU patients and a high proportion need CRRT
+* Early dialysis may correct the abnormal metabolic and inflammatory milieu before instability occurs, but ↑ risk of procedural complications from an unnecessary intervention
+{{< include /trials/starrtaki.qmd >}}
+
+**Other**:
+
+{{< include /trials/bellomo_dopa.qmd >}}
+
 ---
 
 ## References
 
 1. Hilton R. [Acute renal failure](https://www.ncbi.nlm.nih.gov/pubmed/17038736). BMJ. 2006 Oct 14;333(7572):786-90.
-2. Kidney Disease: Improving Global Outcomes (KDIGO) Acute Kidney Injury Work Group. [KDIGO Clinical Practice Guideline for Acute Kidney Injury](http://kdigo.org/wp-content/uploads/2016/10/KDIGO-2012-AKI-Guideline-English.pdf). Kidney inter., Suppl. 2012; 2: 1–138.
-3. The Royal Australian and New Zealand College of Radiologists. [Iodinated Contrast Media Guideline](https://www.ranzcr.com/documents/573-iodinated-contrast-guidelines-2016/file). Sydney: RANZCR; 2016.
-4. Ostermann M, Joannidis M. [Acute kidney injury 2016: diagnosis and diagnostic workup](https://ccforum.biomedcentral.com/articles/10.1186/s13054-016-1478-z). Crit Care [Internet]. 2016 Dec 27 [cited 2018 Jan 31];20(1):299.
+1. Kidney Disease: Improving Global Outcomes (KDIGO) Acute Kidney Injury Work Group. [KDIGO Clinical Practice Guideline for Acute Kidney Injury](http://kdigo.org/wp-content/uploads/2016/10/KDIGO-2012-AKI-Guideline-English.pdf). Kidney inter., Suppl. 2012; 2: 1–138.
+1. The Royal Australian and New Zealand College of Radiologists. [Iodinated Contrast Media Guideline](https://www.ranzcr.com/documents/573-iodinated-contrast-guidelines-2016/file). Sydney: RANZCR; 2016.
+1. Ostermann M, Joannidis M. [Acute kidney injury 2016: diagnosis and diagnostic workup](https://ccforum.biomedcentral.com/articles/10.1186/s13054-016-1478-z). Crit Care [Internet]. 2016 Dec 27 [cited 2018 Jan 31];20(1):299.
+1. The STARRT-AKI Investigators. [Timing of Initiation of Renal-Replacement Therapy in Acute Kidney Injury](https://www.nejm.org/doi/full/10.1056/NEJMoa2000741). N Engl J Med. 2020;383(3):240-251. doi:10.1056/NEJMoa2000741
+1. Bellomo R, Chapman M, Finfer S et al. [Low-dose dopamine in patients with early renal dysfunction: a placebo-controlled randomised trial](https://pubmed.ncbi.nlm.nih.gov/11191541/). The Lancet. 2000;356(9248):2139-2143. doi:10.1016/S0140-6736(00)03495-4

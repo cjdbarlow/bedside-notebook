@@ -1,0 +1,14 @@
+* [BICAR-ICU](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31080-8/fulltext) (2018)
+	* 389 adult Frenchpersons with metabolic acidosis (pH <7.2) and lactataemia or OSFA >4 
+	* Multicentre (26), unblinded, allocation concealed, randomised trial
+	* 80% power for 15% ARR ↓ (!) in composite of death or organ failure from 45% control group mortality
+	* Bicarbonate vs. control
+		* Bicarbonate
+			* 4.2% bicarbonate targeting pH >7.3, up to 1L/24 hours
+		* Control\
+		No placebo.
+	* No difference in primary outcome (66% vs. 71%) overall, though difference in defined subgroup of patients with AKI\
+	Note unpowered for this.
+	* Secondary outcomes demonstrated ↓ RRT in bicarbonate group (35% vs. 52%)
+	* 24% of the control group received bicarbonate, and >100 patients were excluded because they had already been given bicarbonate
+	* No differential between source of acidosis (excluding AKI, which presumably had a uraemic contibution)

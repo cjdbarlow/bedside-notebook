@@ -1,0 +1,13 @@
+* [TOMAHAWK](https://www.nejm.org/doi/full/10.1056/NEJMoa2101909) (2021)
+	* 554 German and Danish patients aged >30 following OOHCA
+	* Without obvious cardiac cause (STE or LBBB), or obvious non-cardiac cause (TBI)
+	* Investigator-initiated, open label, block-randomised RCT
+	* Immediate vs. delayed angiography
+		* Immediate angiography
+		* Delayed angiography
+			* Angiogram >24 hours if high likelihood of coronary cause
+			* Immediate angiography if obvious cardiac cause
+		* All clinical relevant lesions had revascularisation attempted
+	* No change in 30 day mortality (54% vs 46%, CI -0.6-16.4%)
+	* Powered for 12% ARR mortality difference, seems ambitious
+	* 17% of delayed group had angiogram <24 hours

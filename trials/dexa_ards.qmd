@@ -1,0 +1,14 @@
+* [DEXA-ARDS](https://www.sciencedirect.com/science/article/abs/pii/S2213260019304175) (2020)
+	* 277 non-pregnant, non-lactating adult Spaniards intubated for moderate-severe ARDS undergoing active treatment
+	* Without COPD, heart failure, or other immunosuppressants
+	* Assessor (not clinician) blinded, multicentre (17) randomised trial, stratified by centre
+	* 80% power to detect ↓ from 9 to 7 ventilator free days, and 15% ↓ (!) in 60 day mortality assuming control mortality of 48%
+	* Dexamethasone vs. usual care
+		* Dexamethasone group
+			* 20mg IV OD from day 1-5
+			* 10mg IV OD from day 6-10
+	* Significant ↑ in ventilator-free days (12.3 vs 7.5)
+	* Secondary outcomes of 60 day mortality, ICU mortality, duration of mechanical ventilation, P/F ratio all favoured dexamethasone group
+	* Most patients not proned
+	* Most patients had pneumonia or sepsis
+	* Control group mortality lower than anticipated

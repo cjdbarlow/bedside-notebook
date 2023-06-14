@@ -1,7 +1,10 @@
 # Pulmonary Artery Catheter Insertion
 
+:::info
+The PAC is also known as the Swan-Ganz catheter, or "The Yellow Snake".
+:::
 
-The pulmonary artery catheter (also known as a Swan-Ganz catheter, and the yellow snake), is a 60-110cm long balloon-tipped catheter which is inserted into a central vein and 'floated' into the pulmonary artery. The PAC allows measurement of:
+The pulmonary artery catheter is a 60-110cm long balloon-tipped catheter which is inserted into a central vein and 'floated' into the pulmonary artery. The PAC allows measurement of:
 
 * RAP
 * RV pressures\
@@ -105,13 +108,20 @@ May be atrial or ventricular, and during insertion or afterwards.
 Up to 50% mortality. Predominantly associated with wedging.
 * Infection
 * Thrombus
-* Central line complications
+* Access complications
 	* PTHx
 	* Arterial puncture
 	* Air embolus
+
+
+## Key Studies
+
+{{< include /trials/pacman.qmd >}}
+
 
 ---
 
 ## References
 
 1. Liverpool Hospital. [Pulmonary Artery Catheter Learning Package](https://www.aci.health.nsw.gov.au/__data/assets/pdf_file/0004/306589/Pulmonary_Catheter_Learning_Package.pdf). 2016.
+1. Harvey S, Harrison DA, Singer M, et al. [Assessment of the clinical effectiveness of pulmonary artery catheters in management of patients in intensive care (PAC-Man): a randomised controlled trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(05)67061-4/fulltext). The Lancet. 2005;366(9484):472-477. doi:10.1016/S0140-6736(05)67061-4

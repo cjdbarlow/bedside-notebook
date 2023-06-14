@@ -54,13 +54,17 @@ Arrest is consistent with:
 	* **PEA**
 		* Pause pacing to exclude underlying VF
 * **Start BLS**\
-External Cardiac Compressions**
-		* *May* be delayed up to 1 minute to facilitate cardioversion, with the goal of ↓ trauma from chest compressions
-		* Standard site, depth, and compression ratio
-		* An SBP of >60mmHg should be targeted if invasive arterial monitoring is present
-		* Inability to achieve an SBP of >60mmHg with compressions indicates need for **immediate resternotomy**
+External **Cardiac Compressions**:
+	* *May* be delayed up to 1 minute to facilitate cardioversion, with the goal of ↓ trauma from chest compressions
+	* Standard site, depth, and compression ratio
+	* An SBP of >60mmHg should be targeted if invasive arterial monitoring is present
+	* Inability to achieve an SBP of >60mmHg with compressions indicates need for **immediate resternotomy**
 * **Prepare** for emergency **resternotomy**\
 **Chest** should be **opened within 5 minutes** of arrest.
+
+:::column-margin
+Delay of chest compressions is appropriate to minimise iatrogenic trauma, and in recognition that it is minimally effective in obstructive and hypovolaemic causes of shock.
+:::
 
 
 **Adjuvant management**:
@@ -90,9 +94,6 @@ External Cardiac Compressions**
 	Use should not delay CPR or resternotomy.
 
 
-:::column-margin
-Delay of chest compressions is appropriate to minimise iatrogenic trauma, and in recognition that it is minimally effective in obstructive and hypovolaemic causes of shock.
-:::
 
 ## Emergency Resternotomy
 

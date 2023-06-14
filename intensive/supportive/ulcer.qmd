@@ -4,17 +4,25 @@ Physiological stress-related gastric and intestinal mucosal bleeding occurs in 8
 
 * Aims to ↑ gastric pH to ↓ ulceration
 * ↓ Mucosal bleeding rate but not mortality
-* May ↑ risk of:
-	* HAP/VAP\
-	Via gastric bacterial overgrowth and microaspiration.
+
+:::column-margin
+Historical risks which do not appear borne out in randomised trials include ↑ risk of:
+
+* HAP/VAP\
+Via gastric bacterial overgrowth and microaspiration.
+* *C. difficile* infection
+:::
 
 
-## Principles
-
-
-## Practice
+## Management
 
 Approach:
+
+:::column-margin
+:::caution
+This only applies to *prophylaxis*, UGIB should be treated differently and is covered @sec-gib.
+:::
+:::
 
 * Non-pharmacological prophylaxis for all patients
 	* Cease *primary* prevention aspirin
@@ -30,19 +38,32 @@ Approach:
 		* Occult bleeding
 		* COVID
 	* Consider:
+		* **H2RB**
+			* Ranitidine 150mg PO/NG BD
 		* **PPI**\
 		PO or NG preferred if available.
 			* Omeprazole 40mg PO/IV/NG
 			* Pantoprazole 40mg PO/IV/NG daily
-		* H~2~ antagonist\
-		Compared with PPI:
-			* ↓ Efficacy
-			* ↑ Delirium
-			* Cheaper
+
+:::column-margin
+Compared with PPI, H2RB:
+
+* Possible ↓ mortality\
+Unclear reason - possibly less effective acid suppression ↓ VAP rates.
+* Relative ↑ UGIB	
+* ↑ Delirium
+* Cheaper
+:::
 
 
 ## Key Studies
 
+{{< include /trials/sup_icu.qmd >}}
+{{< include /trials/peptic.qmd >}}
+
 ---
 
 ## References
+
+1. The PEPTIC Investigators for the Australian and New Zealand Intensive Care Society Clinical Trials Group, Alberta Health Services Critical Care Strategic Clinical Network, and the Irish Critical Care Trials Group, Young PJ, Bagshaw SM, et al. [Effect of Stress Ulcer Prophylaxis With Proton Pump Inhibitors vs Histamine-2 Receptor Blockers on In-Hospital Mortality Among ICU Patients Receiving Invasive Mechanical Ventilation: The PEPTIC Randomized Clinical Trial](https://jamanetwork.com/journals/jama/article-abstract/2759412). JAMA. 2020;323(7):616. doi:10.1001/jama.2019.22190
+1. Krag M, Marker S, Perner A, et al. [Pantoprazole in Patients at Risk for Gastrointestinal Bleeding in the ICU](https://www.nejm.org/doi/full/10.1056/NEJMoa1714919). New England Journal of Medicine. 2018;379(23):2199-2208. doi:10.1056/NEJMoa1714919

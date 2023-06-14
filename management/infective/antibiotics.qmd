@@ -238,13 +238,14 @@ Administration is unchanged due to:
 
 ## Key Studies
 
-* BLISS
-* BLING II
+{{< include /trials/fabled.qmd >}}
 
 ---
 
 ## References
 
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
-2. Rubinstein E, Keynan Y. Vancomycin Revisited – 60 Years Later. Frontiers in Public Health. 2014;2. Accessed May 3, 2023. https://www.frontiersin.org/articles/10.3389/fpubh.2014.00217
+1. Rubinstein E, Keynan Y. Vancomycin Revisited – 60 Years Later. Frontiers in Public Health. 2014;2. Accessed May 3, 2023. https://www.frontiersin.org/articles/10.3389/fpubh.2014.00217
+1. Cheng MP, Stenstrom R, Paquette K, et al. [Blood Culture Results Before and After Antimicrobial Administration in Patients With Severe Manifestations of Sepsis](https://www.acpjournals.org/doi/10.7326/M19-1696). Ann Intern Med. 2019;171(8):547-554. doi:10.7326/M19-1696
+
 

@@ -1,0 +1,20 @@
+* [REST](https://jamanetwork.com/journals/jama/article-abstract/2783809) (2021)
+	* 412 Britons in 51 NHS ICUs with invasive ventilation for early (<48 hours) moderate-severe (P/F <150) hypoxic respiratory failure
+		* Without a PE, pleural effusion, or pneumothorax
+		* With a CO~2~ production that prevented ↓ V~T~ <3mL/kg
+		* Without contraindications to anticoagulation
+	* 1120 patients gives 90% power to detect 9% ARR of death\
+	Stopped early by DSMB on basis of conditional power analysis and not safety concerns, although there are some safety concerns!
+	* Open-label randomisation to ECOR vs. usual care
+		* ECOR group
+			* 2-7 days of ECOR
+			* Dual-lumen percutaneous catheter
+			* Maximal flow (350-450mL/min) with sweep of 10L/min
+			* V~T~ of 3mL/kg
+			* Weaning of ECOR by protocol
+		* Usual care\
+		Protocolised mechanical ventilation as per ARDSnet tables.
+	* No difference in primary outcome of 90 day mortality (41.5 vs 39.5%), or secondary outcomes of V~T~ or ventilator free days
+	* Intervention associated with ↑ adverse events, including ICH\
+	5 felt to be ECOR related, 3 deaths. 
+	* Low patient numbers in most sites (4/51 had >10 patients)

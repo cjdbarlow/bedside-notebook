@@ -1,0 +1,10 @@
+* [Yoshimura et al.](https://www.nejm.org/doi/full/10.1056/NEJMoa2118191) (2022)
+	* 203 Japanese adults with:
+		* NIHSS >6
+		* ASPECTS score 3-6\
+		Indicating large ischaemic region.
+	* Endovascular therapy vs medical care\
+	98% of endovascular group received thrombectomy.
+	* rt-rPA 0.6mg/kg was permitted
+	* Significant improvement in mRS 0-3 at 90 days; RR 2.43
+	* ↑ ICH rate within 48 hours in endovascular therapy group

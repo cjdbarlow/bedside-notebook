@@ -340,7 +340,7 @@ In STEMI and STEMI-equivalents.
 		* K^+^ >4.5mmol/L
 		* Mg^2+^ >1mmol/L
 * H
-	* Aim Hb > 80mg/L if ongoing ischaemia
+	* Aim Hb >80mg/L if ongoing ischaemia
 
 
 **Disposition**:
@@ -451,10 +451,14 @@ Infarct size is influenced by time to reperfusion, and determines degree of:
 
 ## Key Studies
 
-Antiplatelet agents:
+**Antiplatelet agents**:
 
-* [PLATO](https://academic.oup.com/eurheartj/article/35/31/2083/2293063)\
-Ticagrelor had improved mortality and ischaemic events compared to clopidogrel in NSTE-ACS, with no ↑ in bleeding.
+{{< include /trials/plato.qmd >}}
+
+
+**Other**:
+
+{{< include /trials/reality.qmd >}}
 
 
 ---
@@ -462,3 +466,4 @@ Ticagrelor had improved mortality and ischaemic events compared to clopidogrel i
 ## References
 
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. Ducrocq G, Gonzalez-Juanatey JR, Puymirat E, et al. [Effect of a Restrictive vs Liberal Blood Transfusion Strategy on Major Cardiovascular Events Among Patients With Acute Myocardial Infarction and Anemia: The REALITY Randomized Clinical Trial](https://jamanetwork.com/journals/jama/article-abstract/2776201). JAMA. 2021;325(6):552-560. doi:10.1001/jama.2021.0135

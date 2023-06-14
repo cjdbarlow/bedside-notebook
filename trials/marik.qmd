@@ -1,0 +1,6 @@
+* [Marik et al](https://journal.chestnet.org/article/S0012-3692(16)62564-3/fulltext) (2017)
+	* 47 non-pregnant Americans with severe sepsis or septic shock and pro-calcitonin >2ng/mL
+	* Single-centre, retrospective, observational study
+	* Vitamin C 1.5g QID (7 days), hydrocortisone 50mg QID (4 days, then 3 day taper), and thiamine 200mg BD (4 days) vs. standard care
+	* Significant ↓ in hospital mortality with the "metabolic cocktail" (8.5% vs. 40.4%)
+	* Prompted a slew of RCTs that reversed this finding

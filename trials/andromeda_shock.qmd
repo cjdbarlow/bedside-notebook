@@ -1,0 +1,23 @@
+* [ANDROMEDA-SHOCK](https://jamanetwork.com/journals/jama/article-abstract/2724361) (2019)
+	* 424 adult south Americans with septic shock requiring vasopressors despite 20mL/kg volume resuscitation 
+	* Multicentre (28), randomised, clinician unblinded, assessor blinded
+	* 90% power for 15% ARR (!) for mortality
+	* Peripheral perfusion-targeted resuscitation vs. lactate targeted resuscitation
+		* Peripheral perfusion
+			* Finger pad capillary refill time Q30 minutely, then hourly until normalisation
+			* Targeted capillary refill time <3s
+		* Lactate targeted
+			* Lactate measured Q2H for 8 hours
+			* Targeting ↓ lactate by 20% every 2 hours until normal
+		* Failure to normalise was targeted with escalating protocols:
+			* Fluid responsiveness\
+				* PPV or VTI change following passive leg raise
+				* 500mL crystalloid 
+			* Vasopressor test
+				* MAP ↑ to 80-85
+					* If target normalised, MAP maintained
+					* Otherwise MAP target set to 65
+			* Inodilator test
+				* Dobutamine or milrinone
+	* ↑ Mortality in lactate group (43.4% vs 34.9%)
+	* Underpowered for outcome

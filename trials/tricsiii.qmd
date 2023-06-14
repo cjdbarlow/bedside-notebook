@@ -1,0 +1,12 @@
+* [TRICS-III](http://www.nejm.org/doi/full/10.1056/NEJMoa1711818) (2017)
+	* 5092 non-pregnant, non-lactating, adult standard cardiac surgical patients (not heart transplants or VAD) with EUROSCORE I >6
+	* Randomised, allocation concealed, assessor blinded, multicentre (73), international RCT
+	* 90% power for 3% non-inferiority margin for composite of death, MI, inpatient RRT
+	* Restricted vs. liberal transfusion
+		* Restrictive\
+		Transfused if Hb <75g/dL.
+		* Liveral\
+		Transfused if Hb <95g/dL intraoperatively or in ICU, or <85g/dL once discharged from ICU.
+	* No difference in primary outcome (11.4% vs. 12.5%), or any secondary outcomes
+		* Subgroup showed restrictive transfusion ↓ primary outcome in >75 year olds
+	* ~50% of the liberal group were transfused an average of 2 units, compared to 7~3% of the liberal group (3 units)

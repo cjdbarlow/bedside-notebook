@@ -1,0 +1,10 @@
+* [SAFE](http://www.nejm.org/doi/pdf/10.1056/NEJMoa040232) (2004)
+	* ~7000 Australian adult ICU patients requiring fluid administration, excluding post-cardiac surgery, liver transplant, and burns
+	* Multicentre, double-blinded RCT, stratified by trauma diagnosis and site\
+	Special fluid administration sets were used to hide the albumin.
+	* 4% albumin vs. 0.9% saline
+	* No change in 28-day mortality (20.9% vs. 21.1%)
+	* No statistically significant difference in ICU length of stay, duration of organ support. However:
+		* Trauma subgroup had an *almost* significant ↑ mortality (13.6% vs. 10%, RR 1.36 (CI 0.99-1.86))\
+		* Sepsis subgroup had a more insignificant ↓ mortality (30.7% vs. 35.3%, RR 0.87 (CI 0.74-1.02))
+	* Less cumulative fluid balance at end of day 1 and 2 in the albumin group, although this difference started resolving at day 3

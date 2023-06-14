@@ -1,0 +1,10 @@
+* [STARRT-AKI](https://www.nejm.org/doi/full/10.1056/NEJMoa2000741) (2020)
+	* ~3000 adults with severe AKI without immediate need for dialysis
+	* Open-label, assessor-blinded RCT
+	* 90% power for 6% ↓ 90 day mortality, assuming 40% mortality in control group
+	* Accelerated vs. standard RRT
+		* Accelerated received RRT within 12 hours (mean 6)
+		* Standard received RRT unless necessary
+		* Modality and anticoagulation were at clinician preference
+	* No difference in mortality
+	* ↑ In RRT dependence at 90 days (10% vs 6%) in RRT group

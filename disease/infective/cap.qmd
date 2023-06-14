@@ -238,15 +238,10 @@ Time until improvement varies:
 
 ## Key Studies
 
-* [CAPE COD](https://www.nejm.org/doi/10.1056/NEJMoa2215145)
-    * 800 French ICU patients with severe CAP
-        * Without septic shock
-        * Without features suggesting other causes of pneumonia mimics
-    * 200mg hydrocortisone infusion vs. placebo
-    * Significant:
-        * ↓ Mortality in treatment group (6.2% vs. 11.9%)
-        * ↑ Insulin use in treatment group
-    * Stopped early due to COVID and significance on interim analysis
+**Steroids**:
+
+{{< include /trials/cape_cod.qmd >}}
+
 
 ---
 

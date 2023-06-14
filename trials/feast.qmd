@@ -1,0 +1,23 @@
+* [FEAST](http://www.nejm.org/doi/full/10.1056/NEJMoa1101549) (2011)
+	* 3170 African children aged 60 days to 12 years with febrile illness, ↓ conscious state, and ↓ perfusion; without malnourishment, gastroenteritis, or non-infectious shock
+	* Multicentre (6), un-blinded, allocation concealed, block-randomised trial
+	* 3600 patients would provide 80% power for 5% ↓ ARR of death, assuming control mortality of 11%
+	* Patients without severe hypotension (3141) randomised to one of:
+		* 20-40mL/kg 0.9% saline
+		* 20-40mL/kg 5% albumin
+		* No fluid
+		* Volumes of fluid were ↑ (from 20 to 40mL) after a protocol amendment partway through the trial
+		* Fluid groups received additional fluid if impaired perfusion
+		* All patients treated on general paediatric wards (no ICU available), and transfused if Hb <5g/dL
+	* 48 hour mortality was significantly ↑ in fluid groups\
+	Saline 10.5%, albumin 10.6%, control 7.3%.
+		* RR for saline vs. control: 1.44 (CI 1.09-1.9)
+	* Stopped early for harm
+	* Weaknesses:
+		* Clinical criteria for shock diagnosis are non-specific
+		* \>50% had malaria, which behaves differently with IVT
+		* Significant anaemia may be made worse by haemodilution
+
+:::column-margin
+A separate arm of FEAST protocolised management of severe hypotension, but there were only 29 patients and the discussion adds complexity disproportionate to insight so I have excluded it from this summary.
+:::

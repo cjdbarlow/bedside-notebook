@@ -1,0 +1,18 @@
+* [TTM](https://www.nejm.org/doi/full/10.1056/NEJMoa1310519) (2013)
+	* 950 adults with OOHCA from presumed cardiac cause and GCS <8
+	* Multicentre (36), assessor blinded RCT
+	* 900 patients provide 90% power to detect 20% ↓ in hazard ratio for death\
+	This is ~11% ARR, which is very ambitious.
+	* Therapeutic hypothermia at 36°C vs. 33°C\
+	Both groups:
+		* Targeted management for 28 hours
+		* Invasive or surface cooling
+		* Gradual warming to 37°C by 0.5°C/hr
+		* Avoidance of fever for 72 hours
+	* No mortality difference (50% vs. 48%; hazard ratio 0.89 (CI 0.89 to 1.28))\
+	But probably underpowered for this outcome.
+	* Reasonably good separation between groups
+
+:::column-margin
+![](/resources/ttm.png)
+:::

@@ -1,0 +1,12 @@
+* [PREVENT](https://www.nejm.org/doi/full/10.1056/NEJMoa1816150) (2019)
+	* 2,000 ICU patients with no contraindication to chemoprophylaxis
+	* International, multi-centre RCT
+	* 80% power to detect 3% absolute ↓ in proximal DVT, assuming 7% control group incidence
+	* * Intermittent pneumatic compressors. vs standard care
+		* IPCC
+			* Sequential compression used for >18 hours/day
+		* Standard care
+			* IPCC used only if chemoprophylaxis was interrupted
+	* No change in proximal DVT (3.9% vs 4.2%)
+	* No change in PE, DVT/PE, or mortality
+	* IPCC offer no additional benefit over chemoprophylaxis alone

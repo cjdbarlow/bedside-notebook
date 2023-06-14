@@ -1,0 +1,23 @@
+* [PARAMEDIC 2](https://www.nejm.org/doi/full/10.1056/nejmoa1806842) (2018)
+	* ~8000 Britons >16 with OOHCA undergoing ALS where adrenaline was indicated
+	* Multicentre (5 ambulance services), randomised, double-blind trial
+	* Powered for 1.5% ↑ in 30 day survival from a control group event rate of 6%
+	* Adrenalin vs. placebo
+		* Adrenaline group
+			* Average 4.9 doses
+			* 3980 shocks
+		* Placebo
+			* Average 5.1 doses
+			* 3962 shocks
+	* 21% had initially shockable rhythm
+	* Adrenaline group had significantly ↑:
+		* ROSC (36% vs 11%)
+		* Transfer to hospital (50% vs 30%)
+		* Survival at 30 days (3.2% vs 2.4%)
+	* No difference in survival with favourable neurological outcome (mRS ⩽3)
+		* The survivors in the adrenaline group had ↑ severity of neurological impairment
+	* Reinforces the importance of good, early bystander CPR and defibrillation
+
+:::column-margin
+![](/resources/paramedic2.png)
+:::

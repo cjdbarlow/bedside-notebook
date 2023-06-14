@@ -1,0 +1,11 @@
+* [ARISE](http://www.nejm.org/doi/full/10.1056/NEJMoa1404380) (2014)
+	* 1600 non-pregnant adults with sepsis and refractory hypotension or hypoperfusion who had commenced antibiotics
+	* Multi-centre (51), unblocked, block-randomised trial
+	* EGDT vs. control
+		* EGDT
+			* River's algorithm used
+		* Control
+			* Usual care
+			* Arterial line and CVC permitted
+			* ScVO~2~ measurement not permitted
+	* No difference in all cause mortality (18.6% vs. 18.8%)

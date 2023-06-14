@@ -1,0 +1,13 @@
+* [DAWN](https://www.nejm.org/doi/full/10.1056/NEJMoa1706442) (2018)
+	* 206 patients >18 with occlusion of ICA or M1
+		* **Mismatch** between clinical deficit (by NIHSS) and radiological infarct volume\
+		Designed to identify patients with viable penumbra.
+		* Thrombolysis failed or contraindicated
+		* NIHSS >10
+		* Known to be normal 6-24 hours prior
+	* Mechanical thrombectomy vs. standard medical therapy
+	* Significant improvement in mechanical thrombectomy group\
+	49% functionally independent in thrombectomy group, compared to 13% in medical therapy group. Secondary outcomes also all improved.
+	* Closed early
+	* Industry sponsored
+	* Required particular imaging

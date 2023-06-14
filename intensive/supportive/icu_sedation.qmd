@@ -69,6 +69,8 @@ The **goal of sedation** is to achieve a **controlled degree of sedation**, **sp
 
 A large number of strategies have been described to achieve this:
 
+* **No sedation**\
+↑ Risk of accidental extubation and line removal without change in mortality.
 * **Goal-directed sedation**\
 Sedatives freely adjusted by the beside nurse to attain the prescribed level of sedation.
 * **Patient-targeted sedation**\
@@ -190,7 +192,19 @@ Aperients should be administered concurrently.
 
 ## Key Studies
 
+**Dexmedetomidine**:
+
+* Dexmedetomidine is a sedative that also produces biomimetic sleep
+* Patients may be more easily roused and appropriate when roused, which further ↑ utility of dexmedetomidine
+{{< include /trials/mends2.qmd >}}
+{{< include /trials/spiceiii.qmd >}}
+
+
 ---
 
 ## References
- 
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. Hughes CG, Mailloux PT, Devlin JW, et al. [Dexmedetomidine or Propofol for Sedation in Mechanically Ventilated Adults with Sepsis](https://www.nejm.org/doi/10.1056/NEJMoa2024922). N Engl J Med. 2021;384(15):1424-1436.
+1. Olsen HT, Nedergaard HK, Strøm T, et al. [Nonsedation or Light Sedation in Critically Ill, Mechanically Ventilated Patients](https://www.nejm.org/doi/full/10.1056/NEJMoa1906759). N Engl J Med. 2020;382(12):1103-1111. doi:10.1056/NEJMoa1906759
+1. Shehabi Y, Howe BD, Bellomo R, et al. [Early Sedation with Dexmedetomidine in Critically Ill Patients](https://www.nejm.org/doi/full/10.1056/NEJMoa1904710). New England Journal of Medicine. 2019;380(26):2506-2517. doi:10.1056/NEJMoa1904710

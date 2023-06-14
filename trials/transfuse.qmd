@@ -1,0 +1,13 @@
+* [TRANSFUSE](http://www.nejm.org/doi/full/10.1056/NEJMoa1707572) (2017)
+	* Non-pregnant adults requiring transfusion, without a previous blood transfusion, haematological disease, transplant, or after cardiac surgery\
+	Cardiac surgery excluded due to low mortality.
+	* Multicentre (59), double-blinded, allocation-concealed, RCT
+	* 90% power to detect 4.2% ↓ in 90 day mortality, assuming 28% control mortality
+	* Freshest vs. oldest blood
+		* Fresh
+			* Mean storage 11.8 +/- 5.3 days
+		* Old
+			* Mean storage 22.4 +/- 7.5 days
+	* No mortality difference (24.8% vs. 24.1%)
+	* Secondary outcomes showed no difference except ↑ febrile non-haemolytic reactions in fresh group
+	* This is the definitive trial on this topic

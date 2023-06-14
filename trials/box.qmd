@@ -1,0 +1,13 @@
+* [BOX](https://www.nejm.org/doi/full/10.1056/NEJMoa2208686) (2022)
+	* 802 patients in admitted in 2 Danish ICUs following OOHCA with ROSC after 20 minutes and GCS <8
+	* Oxygen arm:
+		* Restrictive oxygenation (PaO~2~ 68-75mmHg) vs. liberal oxygenation (98-105mmHg)\
+		Randomisation occurred in hospital, usually in ICU.
+		* No change in mortality or neurological outcome
+		* Unblinded
+	* MAP arm:
+		* MAP 77mmHg vs MAP 63mmHg
+		* Protocolised therapy with fluids, noradrenaline, and dopamine
+		* No change in mortality or neurological outcome
+		* Blinded
+	* All patients received 24 hours of TTM

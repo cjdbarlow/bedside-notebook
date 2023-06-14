@@ -1,0 +1,21 @@
+* [COSMIC-EOL](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02176-0/fulltext) (2022)
+	* 454 French-speaking relatives of patients receiving end-of-life care in 34 ICU in France, prior to the COVID-19 pandemic
+	* Randomised to 3-step support strategy vs. usual care
+		* Intervention included 3 separate family meetings:
+			* Family conference to prepare for imminent death, with:
+				* Opportunity to ask questions and express emotion
+				* Encouragement to talk and say goodbye
+				* Option to be present, involved in physical care, and discuss spiritual needs
+			* Active support at the bedside during the dying process
+			* Meeting after death to offer condolences and closure
+				* In person, if family present
+				* Via telephone, if family not present
+		* Usual care was standard support and communication strategies employed
+	* 1-month implementation period for staff familiarity
+		* 67% of control group had end-of-life meeting
+	* Intervention group showed significant ↓ in:
+		* Prolonged grief
+		* Difficulty of end-of-life experience
+		* Quality of death
+		* PTSD-related symptoms
+	* Unclear external validity due to cultural differences in grieving

@@ -1,0 +1,11 @@
+* [PALACS](https://www.sciencedirect.com/science/article/abs/pii/S0140673621024909) (2021)
+	* 420 New York cardiac surgical patients with a virgin sternum undergoing CABG, AV, or aortic surgery; without history of AF, arrhythmias, or left pleural disease
+	* Randomised, unblinded, mostly one surgeon
+	* Posterior left pericardiotomy vs. no intervention
+		* Pericardiotomy anticipated to drain pericardial space into left pleural space, ↓ effusion accumulation and arrhythmogenicity
+	* Significantly ↓ in intervention group:
+		* AF (17% vs. 32%)\
+		Independent of pre-operative β-blocker use.
+		* Anticoagulation (6% vs 14%)
+		* Pericardial effusion (12% vs 21%)
+	* No change in stroke or MI rate

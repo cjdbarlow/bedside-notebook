@@ -320,6 +320,15 @@ Diagnostic peritoneal lavage is a bedside test to evaluate presence of abdominal
 * Bloods
 	* Group and Cross-match\
 	6 units for major trauma.
+	* FBE
+	* Coag
+
+
+## Key Studies
+
+**Viscoelastic Testing**:
+
+{{< include /trials/itactic.qmd >}}
 
 
 ---

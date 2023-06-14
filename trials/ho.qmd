@@ -1,0 +1,18 @@
+* [Ho et al.](https://www.nejm.org/doi/full/10.1056/NEJMoa1806515) (2019)
+	* 240 non-pregnant Australian trauma patients with ISS >15 and a contraindication to chemoprophylaxis, without confirmed PE or systemic anticoagulation
+	* Block randomised multicentre (4) trial
+	* 80% power for 8.5% ↓ in symptomatic PE, for control group PE rate of 9%\
+	This is a 94% RRR, which is ambitious.
+	* IVC filter vs. standard care
+		* IVC filter
+			* 89% within 24 hours
+			* Removed once chemoprophylaxis established
+			* Filter type at radiology discretion
+		* Standard care
+			* IVC filter permitted if well established indication
+	* IPCC to uninjured legs
+	* Routine DVT ultrasound
+	* No significant difference in symptomatic PE or death (13.9% vs 14.4%)
+	* Secondary outcomes:
+		* Significant ↓ (0% vs 14.7%) in symptomatic PE in patients who did start chemoprophylaxis within 7 days of injury
+	* Single centre provided almost all patients

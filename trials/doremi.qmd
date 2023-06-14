@@ -1,0 +1,12 @@
+* [DoReMi](https://www.nejm.org/doi/full/10.1056/NEJMoa2026845) (2021)
+	* 192 Canadians with admitted to a single cardiac ICU in Ottawa with cardiogenic shock
+	* Powered to detect 20% difference in an absolutely mammoth composite primary outcome\
+	Death, cardiac arrest, mechanical support, transplant, non-fatal MI, CVA, CRRT.
+	* Single cardiac ICU
+	* Randomised with stratification based on LV, RV, or biventricular failure
+	* Milrinone vs. dobutamine
+		* Milrinone escalated in stages from 0.125-0.5μg/kg/min
+		* Dobutamine escalated in stages from 2.5-10μg/kg/min
+	* No significant difference in the composite outcome
+	* Similar arrhythmia and hypotension rates
+	* 17-24 hours between admission and randomisation may mask effects of treatment during this critical interval

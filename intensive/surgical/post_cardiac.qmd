@@ -400,9 +400,15 @@ Other complications of cardiac surgery include:
 	* Infection
 		* Deep sternal wound infection in 1-2%\
 		Significant morbidity.
-	
+
+
+## Key Studies
+
+{{< include /trials/tricsiii.qmd >}}
+
 ---
 
 ## References
 
 1. Melanson, P. [Management of post-op cardiac surgery patients](https://www.mcgill.ca/criticalcare/teaching/protocols/cardiac). 2001. McGill.
+1. Mazer CD, Whitlock RP, Fergusson DA, et al. [Restrictive or Liberal Red-Cell Transfusion for Cardiac Surgery](http://www.nejm.org/doi/full/10.1056/NEJMoa1711818). New England Journal of Medicine. 2017;377(22):2133-2144. doi:10.1056/NEJMoa1711818

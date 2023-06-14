@@ -84,23 +84,10 @@ However, some dramatic results; e.g. one observational study suggested before th
 
 ## Key Studies
 
-PANDA trial:
+**Neurotoxicity of anaesthesia**:
 
-* Children <3 years and eligible sibling
-	* 105 exposures
-* Sibling-matched observational cohort study
-* Evaluating IQ
-* No difference in primary outcome
-
-GAS trial:
-
-* International, multicentre RCT
-* 722 children
-* Awake regional vs. sevoflurane for inguinal hernia repair
-* No difference in development at 2 years of age\
-Bayley Scale of Infant and Toddler Development III.
-* No difference in 
-
+{{< include /trials/gas.qmd >}}
+{{< include /trials/panda.qmd >}}
 
 ## Summary
 
@@ -115,10 +102,11 @@ Bayley Scale of Infant and Toddler Development III.
 ## References
 
 1. Jevtovic-Todorovic V, Absalom AR, Blomgren K, Brambrink A, Crosby G, Culley DJ, et al. Anaesthetic neurotoxicity and neuroplasticity: an expert group report and statement based on the BJA Salzburg Seminar. British Journal of Anaesthesia. 2013 Aug;111(2):143–51. 
-2. Wilder RT, Flick RP, Sprung J, Katusic SK, Barbaresi WJ, Mickelson C, Gleich SJ, Schroeder DR, Weaver AL, Warner DO. Early exposure to anesthesia and learning disabilities in a population-based birth cohort. Anesthesiology. 2009 Apr; 110(4):796-804.
-3. Brambrink AM, Evers AS, Avidan MS, Farber NB, Smith DJ, Martin LD, Dissen GA, Creeley CE, Olney JW. Ketamine-induced neuroapoptosis in the fetal and neonatal rhesus macaque brain. Anesthesiology. 2012 Feb;116(2):372-84.
-4. Yu CK, Yuen VMY, Wong GT, Irwin MG. The effects of anaesthesia on the developing brain: a summary of the clinical evidence. F1000Research. 2013;2:166.
-5. Andropoulos DB, Greene MF. Anesthesia and Developing Brains - Implications of the FDA Warning. N Engl J Med. 2017 Mar 9;376(10):905-907.
-6. Davidson AJ, Sun LS. Clinical Evidence for Any Effect of Anesthesia on the Developing Brain. Anesthesiology. 2018 Apr;128(4):840-853.
+1 Wilder RT, Flick RP, Sprung J, Katusic SK, Barbaresi WJ, Mickelson C, Gleich SJ, Schroeder DR, Weaver AL, Warner DO. Early exposure to anesthesia and learning disabilities in a population-based birth cohort. Anesthesiology. 2009 Apr; 110(4):796-804.
+1. Brambrink AM, Evers AS, Avidan MS, Farber NB, Smith DJ, Martin LD, Dissen GA, Creeley CE, Olney JW. Ketamine-induced neuroapoptosis in the fetal and neonatal rhesus macaque brain. Anesthesiology. 2012 Feb;116(2):372-84.
+1. Yu CK, Yuen VMY, Wong GT, Irwin MG. The effects of anaesthesia on the developing brain: a summary of the clinical evidence. F1000Research. 2013;2:166.
+1. Andropoulos DB, Greene MF. Anesthesia and Developing Brains - Implications of the FDA Warning. N Engl J Med. 2017 Mar 9;376(10):905-907.
+1. Davidson AJ, Sun LS. Clinical Evidence for Any Effect of Anesthesia on the Developing Brain. Anesthesiology. 2018 Apr;128(4):840-853.
 Pinyavat T, Warner DO, Flick RP, et al. Summary of the Update Session of Clinical Studies. Journal of neurosurgical anesthesiology. 2016;28(4):356-360.
-7. McCann ME, de Graaff JC, Dorris L, Disma N, Withington D, Bell G, et al. [Neurodevelopmental outcome at 5 years of age after general anaesthesia or awake-regional anaesthesia in infancy (GAS): an international, multicentre, randomised, controlled equivalence trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)32485-1/fulltext). The Lancet. 2019 Feb;393(10172):664–77. 
+1. McCann ME, de Graaff JC, Dorris L, Disma N, Withington D, Bell G, et al. [Neurodevelopmental outcome at 5 years of age after general anaesthesia or awake-regional anaesthesia in infancy (GAS): an international, multicentre, randomised, controlled equivalence trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)32485-1/fulltext). The Lancet. 2019 Feb;393(10172):664–77. 
+1. Sun LS, Li G, Miller TLK, et al. [Association Between a Single General Anesthesia Exposure Before Age 36 Months and Neurocognitive Outcomes in Later Childhood](https://jamanetwork.com/journals/jama/fullarticle/2526640). JAMA. 2016;315(21):2312-2320. doi:10.1001/jama.2016.6967

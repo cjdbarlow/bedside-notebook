@@ -1,0 +1,10 @@
+* [PROSEVA](https://www.nejm.org/doi/10.1056/NEJMoa1214103) (2013)
+	* 474 Europeans with ARDS (PF <150mmHg), intubated for <36 hours at inclusion
+	* Multicentre, assessor-blinded, RCT
+	* 456 patients gives 90% power for 15% ARR from control mortality of 60%
+	* Randomised to proning vs. supine
+		* Proning\
+		16 consecutive hours for 28 days, or until improvement.
+		* Standardised ventilation and weaning strategy
+	* Significant ↓ mortality (16% vs. 33%, OR 0.42 (0.26-0.66)) in proning group
+	* Over 2000 patients were not screened

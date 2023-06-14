@@ -30,6 +30,7 @@ Approach:
 		* Treatment of choice where bleeding risk is high
 	* **IVC filter**
 		* No evidence for mortality reduction
+		* *May* ↓ symptomatic PE
 		* ↑ Risk of DVT\
 		Should be retrieved when no longer required, so retrievable designs should be used.
 		* Reasonable to use in patients with:
@@ -48,6 +49,20 @@ Approach:
 
 ## Key Studies
 
+
+**IVC Filters**:
+
+{{< include /trials/ho.qmd >}}
+
+
+**Other**:
+
+{{< include /trials/prevent.qmd >}}
+
+
 ---
 
 ## References
+
+1. Ho KM, Rao S, Honeybul S, et al. [A Multicenter Trial of Vena Cava Filters in Severely Injured Patients](https://www.nejm.org/doi/full/10.1056/NEJMoa1806515). New England Journal of Medicine. 2019;381(4):328-337. doi:10.1056/NEJMoa1806515
+1. Arabi YM, Al-Hameed F, Burns KEA, et al. [Adjunctive Intermittent Pneumatic Compression for Venous Thromboprophylaxis](https://www.nejm.org/doi/full/10.1056/NEJMoa1816150). New England Journal of Medicine. 2019;380(14):1305-1315. doi:10.1056/NEJMoa1816150

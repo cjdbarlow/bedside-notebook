@@ -1,0 +1,13 @@
+* [CLOVERS](https://www.nejm.org/doi/full/10.1056/NEJMoa2212663) (2023)
+	* ~12,000 patients with sepsis and hypotension after 1L IVT
+		* Within 24 hours of hospital admission
+		* \<3L of IVT\
+		i.e. 1-3L of IVT received by randomisation.
+	* Restrictive vs. liberal fluid strategy
+		* Restrictive: Up to 2L IVT, then noradrenaline\
+		Rescue fluids allowed.
+		* Liberal: 2L bolus at randomisation, further 500mL boluses\
+		Rescue vasopressors allowed, and recommended after 5L (6-8L total) IVT.
+	* No change in mortality, ventilator free days, ICU free days, ARDS
+	* ↑ ICU admission in restrictive group
+	* Strong safety profile of peripheral vasopressors

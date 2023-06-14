@@ -1,0 +1,47 @@
+# Volume State {#sec-volume}
+
+:::column-margin
+This covers consideration for managing the volume state of the critically ill, considerations for fluid resuscitation are covered under @sec-fluid.
+:::
+
+
+## De-Resuscitation
+
+Diuresis:
+
+* Furosemide is the diuretic of choice for volume control
+* However, further issues may arise that require intervention:
+	* **Hypernatraemia**
+		* Furosemide produces **dilute** urine\
+		More water is eliminated relative to sodium (it's dilute), resulting in concentration of ECF contents and ↑ Na^+^.
+		* Correction of hypernatraemia classically requires administration of free water, which is inefficient
+		* Consider a **thiazide** to ↑ renal sodium elimination
+	* **Metabolic alkalosis**
+		* Contraction alkalosis due to volume depletion\
+		↑ Renal resorption of Cl^-^ and HCO~3~^-^
+		* Consider **acetazolamide** 250-500mg IV BD
+	* Hypomagnesaemia/Hypokalaemia\
+	Often require repletion.
+
+:::column-margin
+In the outpatient population, frusemide diuresis often leads to *hypo*natraemia - patients are thirsty from diuresis and drink large volumes of free water, thereby diluting their ECF.
+:::
+
+Electrolytes:
+
+* Hypernatraemia
+	* Treat with free water or IV dextrose
+
+
+## Key Studies
+
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. Finfer S, Micallef S, Hammond N, et al. [Balanced Multielectrolyte Solution versus Saline in Critically Ill Adults](https://www.nejm.org/doi/full/10.1056/NEJMoa2114464). New England Journal of Medicine. 2022;386(9):815-826. doi:10.1056/NEJMoa2114464
+1. Zampieri FG, Machado FR, Biondi RS, et al. [Effect of Slower vs Faster Intravenous Fluid Bolus Rates on Mortality in Critically Ill Patients: The BaSICS Randomized Clinical Trial](https://jamanetwork.com/journals/jama/fullarticle/2783040). JAMA. 2021;326(9):830-838.
+1. Zampieri FG, Machado FR, Biondi RS, et al. [Effect of Intravenous Fluid Treatment With a Balanced Solution vs 0.9% Saline Solution on Mortality in Critically Ill Patients: The BaSICS Randomized Clinical Trial](https://jamanetwork.com/journals/jama/fullarticle/2783039). JAMA. 2021;326(9):818-829.

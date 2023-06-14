@@ -1,0 +1,14 @@
+* [POLAR](https://jamanetwork.com/journals/jama/fullarticle/2710778) (2018)
+	* 510 adults with severe TBI within 3 hours of injury, without cardiac arrest, shock, or suggestion of brain death
+	* 82% power to detect 15% absolute risk ↑ in favourable neurological outcome (GOS-E 5-8)
+	* Multicentre, international, assessor blinded, block randomised trial
+	* Therapeutic hypothermia vs. normothermia
+		* Hypothermia
+			* 4°C saline infusion until 35°C
+			* Surface cooling used to achieve 33°C
+			* Maintained for 3-7 days
+			* Rewarming individualised to ICPO
+		* Normothermia
+			* Targeting 36.5-37.5°C
+	* No difference in primary outcome (48.8% vs 49.1%)
+	* ↑ Pneumonia and bradycardia in hypothermia group

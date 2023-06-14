@@ -2,18 +2,8 @@
 
 ## Key Studies
 
-* [PILOT](https://www.nejm.org/doi/full/10.1056/NEJMoa2208415)
-	* ~3000 mechanically ventilated ICU patients from one ICU in Tennessee
-	* FiO~2~ adjusted to maintain target oxygen saturation in 3 groups:
-		* Low: SpO~2~: 88-92%\
-		Average saturation was 93%; FiO~2~ ↓ to minimum of 0.21.
-		* Intermediate: 92-96%\
-		Average saturation 94%.
-		* High: 96-100%\
-		Average saturation 97%.
-	* No significant difference in days alive and free of mechanical ventilation
-	* No difference in pre-specified secondary endpoints
-	* Reasonable group separation
+{{< include /trials/pilot.qmd >}}
+
 
 
 ---

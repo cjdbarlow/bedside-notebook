@@ -31,26 +31,7 @@ In the critically ill:
 
 ## Key Studies
 
-* [SuDDICU](https://jamanetwork.com/journals/jama/fullarticle/2798011)
-	* 5982 mechanically ventilated Australian ICU patients
-		* Expected to be ventilated >48 hours
-		* Imminent death not expected
-	* Cross-over cluster RCT (12 month period) with an ecological monitoring window (3 months)
-	* Intervention group received 100 mg of colistin, 80 mg of tobramycin, and 125,000 or 2,000,000 IU of nystatin Q6H\
-	Applied either to oropharynx or via NG/NJ tube; ↑ dose of nystatin was for NG/NJ administration.
-	* No frequentist difference in:
-		* Mortality (21.2% vs 22.8%)
-		* Alive free of ventilation (62 vs 60)
-		* *C. difficile* (0.5 vs 0.9%)
-		* Adverse medication events
-	* Bayesian mortality analysis suggests benefit
-	* Significant frequentist ↓:
-		* Antibiotic resistance (20.9% vs 32.5%)\
-		i.e. Decontamination ↓ resistant organism culture.
-		* Positive blood culture (5.6% vs 8.1%)
-	* Waiver of consent
-	* ~50% of control arm received IV antibiotics
-	* Longer term resistance patterns not known
+{{< include /trials/suddicu.qmd >}}
 
 
 ---

@@ -1,0 +1,13 @@
+* [TARGET](https://www.nejm.org/doi/full/10.1056/NEJMoa1811687) (2018)
+	* 4000 invasively ventilated Australasians requiring EN for >24 hours
+	* Multicentre (46), double-blind, block randomised RCT
+	* 3774 patients gives 80% power for ~4% ↓ in 90 day mortality, assuming control group mortality as low as 20%
+	* Energy-dense (1.5kCal/mL) vs. standard (1kCal/mL) feed
+		* Feeds targeted based on IBW
+		* Energy dense feed had higher total energy but similar protein to standard feed
+	* No difference in 90 day mortality or a variety of secondary outcomes
+	* Energy dense feed had ↑:
+		* GRV (250mL vs. 180mL)
+		* Regurgitation and vomiting (19% vs. 16%)
+		* Insulin use (56% vs. 49%)
+		* Prokinetic use (47% vs. 40%)

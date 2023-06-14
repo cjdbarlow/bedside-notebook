@@ -1,0 +1,14 @@
+* [SPICE III](https://www.nejm.org/doi/full/10.1056/NEJMoa1904710) (2019)
+	* 4000 adult patients requiring mechanical ventilation
+	* Unblinded, variable block RCT
+	* 90% power for 4.5% ↓ 90 day mortality
+	* Dexmedetomidine vs. usual care
+		* Dexmedetomidine
+			* Up to 1.5μg/kg/hr
+			* 60% received propofol
+		* Usual care
+			* Other sedatives used
+			* Dexmedetomidine as rescue if other agents required
+	* No difference in primary outcome
+	* Secondary outcomes showed no difference in cognitive declien or quality of life
+	* ↑ Bradycardia, hypotension, and arrest (0.7% vs 0.1%) in the dexmedetomidine group

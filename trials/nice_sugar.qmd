@@ -1,0 +1,16 @@
+* [NICE-SUGAR](http://www.nejm.org/doi/pdf/10.1056/NEJMoa0810625) (2009)
+	* ~6000 Australasian/American patients with a >3 day ICU admission and no PO intake over that time, without DKA, HHS, or insulin-affecting disease 
+	* Unblinded, multicentre (38) RCT with minimisation algorithm to minimise differences between regions and surgical/non-surgical patients
+	* 6100 patients provides 90% power for 3.8% ARR ↓, assuming baseline 30% mortality
+	* Tight vs. conventional BSL control
+		* Tight control
+			* Aimed BSL 3.5-6mmol/L
+			* Insulin ceased if BSL <4.5mmol/L
+		* Conventional control
+			* Aimed BSL <10mmol/L
+			* Insulin ceased if BSL <8mmol/L
+	* Tight control required ↑ insulin (97% vs. 69%)
+	* Tight control had ↓ BSL (6.4 vs. 8mmol/L)
+	* Significant ↑ 90 day mortality with tight control (27.5% vs. 24.9%)
+	* No difference in 28 day mortality, ICU length of stay, or need for organ support\
+	Unclear why the mortality ↑ is not replicated at 90 days if true, given the short-term nature of the treatment.

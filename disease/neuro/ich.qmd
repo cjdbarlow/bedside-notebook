@@ -139,7 +139,12 @@ Reversal of therapeutic anticoagulation is covered in detail under @sec-anticoag
 
 ## Key Studies
 
+{{< include /trials/patch.qmd >}}
+
 
 ---
 
 ## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. Baharoglu MI, Cordonnier C, Salman RAS, et al. [Platelet transfusion versus standard care after acute stroke due to spontaneous cerebral haemorrhage associated with antiplatelet therapy (PATCH): a randomised, open-label, phase 3 trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)30392-0/fulltext). The Lancet. 2016;387(10038):2605-2613. doi:10.1016/S0140-6736(16)30392-0

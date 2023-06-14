@@ -1,0 +1,24 @@
+* [ARMA](http://www.nejm.org/doi/pdf/10.1056/NEJM200005043421801) (2000)
+	* 861 non-pregnant Americans with ARDS of any grade (P/F <300) without neuropathy, chronic lung disease, or severe burns
+	* Multicentre (10) randomised trial
+	* Low tidal volume ventilation vs. "traditional" high tidal volume ventilation
+		* Low tidal volume ventilation	
+			* VCV at 6mL/kg V~T~
+			* Pplat <30cmH~2~O
+		* "Traditional" ventilation
+			* CVC with 12mL/kg V~T~
+			* Pplat <50cmH~2~O
+	* Significant ↓ mortality (39.8% vs. 31%) in low tidal volume ventilation group
+
+
+:::column-margin
+Original ARMA trial also included a ketoconazole arm. The authors stopped it early for lack of efficacy, and it has not been included.
+:::
+
+:::column-margin
+![](/resources/arma.png)
+:::
+
+:::column-margin
+{{< include /includes/arma.qmd >}}
+:::

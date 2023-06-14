@@ -250,6 +250,8 @@ Consider continuous EEG monitoring in patients who
 		Theorised to improve laminar flow and ↑ overall DO~2~.
 * Prophylactic anticonvulsants\
 Routine use worsens outcomes.
+* Tranexamic acid\
+May ↑ risk of poor neurological outcome with no clear evidence of benefit.
 
 ## Complications
 
@@ -307,11 +309,14 @@ Good prognostic features:
 
 ## Key Studies
 
+{{< include /trials/ultra.qmd >}}
+
 
 ---
 
 ## References
 
 1. Okazaki T, Kuroda Y. Aneurysmal subarachnoid hemorrhage: intensive care for improving neurological outcome. Journal of Intensive Care. 2018 May 8;6(1):28. 
-2. Muehlschlegel S. Subarachnoid Hemorrhage. Continuum (Minneap Minn). 2018 Dec;24(6):1623–57.
-3. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. Muehlschlegel S. Subarachnoid Hemorrhage. Continuum (Minneap Minn). 2018 Dec;24(6):1623–57.
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. Post R, Germans MR, Tjerkstra MA, et al. [Ultra-early tranexamic acid after subarachnoid haemorrhage (ULTRA): a randomised controlled trial](https://doi.org/10.1016/S0140-6736(20)32518-6). The Lancet. 2021;397(10269):112-118. doi:10.1016/S0140-6736(20)32518-6

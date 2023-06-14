@@ -41,26 +41,45 @@ Strongly consider cardiac catheterisation anyway, as 33% will have a PCI-treatab
 
 ## Key Studies
 
-* [DOSEVF](https://www.nejm.org/doi/pdf/10.1056/NEJMoa2207304)
-	* 405 Canadians patients with OOHCA arrest with refractory VF arrest\
-	Refractory >3 consecutive rhythm checks demonstrating VF.
-	* Initial shocks performed with A-L pad placement
-	* Groups randomised then to one of three groups:
-		* No change
-		* Vector change: Pads moved to A-P defibrillation
-		* Double-sequence: A-P pads added and sequenced (<1s between shocks) A-L and A-P defibrillation
-	* Double-sequence defibrillation resulted in significant ↑:
-		* ROSC (46% vs 26%)
-		* Survival to hospital discharge (30% vs 13%)
-		* Survival with mRS ⩽2 (27% vs 11%)
-	* Vector-change defibrillation resulted in significant ↑ survival to hospital discharge (21.7% vs 13.3%) but no significant change in ROSC or neurological outcome.
-	* Stopped early with a low number of outcomes; ↑↑ risk bias\
-	Stoppage due to paramedic staffing shortages.
-	* Median time to 1^st^ shock ~10 minutes
+**Angiography**:
+
+* PCI has clear mortality benefits in STEMI, but not in NSTEMI
+* CAD is highly prevalent in patients with OOHCA\
+Culprit (>50% stenosis) coronary lesions are found in ~1/3^rd^ of OOHCA without STE.
+{{< include /trials/coact.qmd >}}
+{{< include /trials/tomahawk.qmd >}}
+
+
+**ECMO**:
+
+* Observation studies indicate improved survival following OOHCA with ECMO compared to standard care
+{{< include /trials/arrest.qmd >}}
+
+
+**Hypothermia**:
+
+{{< include /trials/hyperion.qmd >}}
+{{< include /trials/ttm.qmd >}}
+{{< include /trials/ttm2.qmd >}}
+
+
+**Other**:
+
+{{< include /trials/paramedic2.qmd >}}
+{{< include /trials/dosevf.qmd >}}
+{{< include /trials/coca.qmd >}}
 
 ---
 
 ## References
 
-1. Cheskes S, Verbeek PR, Drennan IR, et al. [Defibrillation Strategies for Refractory Ventricular Fibrillation](https://www.nejm.org/doi/pdf/10.1056/NEJMoa2207304). N Engl J Med. 2022;387(21):1947-1956. doi:10.1056/NEJMoa2207304
+1. Cheskes S, Verbeek PR, Drennan IR, et al. [Defibrillation Strategies for Refractory Ventricular Fibrillation](https://www.nejm.org/doi/pdf/10.1056/NEJMoa2207304). N Engl J Med. 2022;387(21):1947-1956.
+1. Vallentin MF, Granfeldt A, Meilandt C, et al. [Effect of Intravenous or Intraosseous Calcium vs Saline on Return of Spontaneous Circulation in Adults With Out-of-Hospital Cardiac Arrest: A Randomized Clinical Trial](https://jamanetwork.com/journals/jama/fullarticle/2786819). JAMA. 2021;326(22):2268–2276.
+1. Desch S, Freund A, Akin I, et al. [Angiography after Out-of-Hospital Cardiac Arrest without ST-Segment Elevation](https://www.nejm.org/doi/full/10.1056/NEJMoa2101909). New England Journal of Medicine. 2021;385(27):2544-2553.
+1. Lemkes JS, Janssens GN, Van Der Hoeven NW, et al. [Coronary Angiography after Cardiac Arrest without ST-Segment Elevation](https://www.nejm.org/doi/full/10.1056/NEJMoa1816897). N Engl J Med. 2019;380(15):1397-1407.
+1. Dankiewicz J, Cronberg T, Lilja G, et al. [Hypothermia versus Normothermia after Out-of-Hospital Cardiac Arrest](https://www.nejm.org/doi/full/10.1056/NEJMoa2100591?query=featured_cardiology). New England Journal of Medicine. 2021;384(24):2283-2294. doi:10.1056/NEJMoa2100591
+1. Yannopoulos D, Bartos J, Raveendran G, et al. [Advanced reperfusion strategies for patients with out-of-hospital cardiac arrest and refractory ventricular fibrillation (ARREST): a phase 2, single centre, open-label, randomised controlled trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32338-2/fulltext). The Lancet. 2020;396(10265):1807-1816. doi:10.1016/S0140-6736(20)32338-2
+1. Lascarrou JB, Merdji H, Le Gouge A, et al. [Targeted Temperature Management for Cardiac Arrest with Nonshockable Rhythm](https://www.nejm.org/doi/full/10.1056/NEJMoa1906661). New England Journal of Medicine. 2019;381(24):2327-2337. doi:10.1056/NEJMoa1906661
+1. Perkins GD, Ji C, Deakin CD, et al.[ A Randomized Trial of Epinephrine in Out-of-Hospital Cardiac Arrest](https://www.nejm.org/doi/full/10.1056/nejmoa1806842). New England Journal of Medicine. 2018;379(8):711-721. doi:10.1056/NEJMoa1806842
+
 

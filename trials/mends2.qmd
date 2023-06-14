@@ -1,0 +1,12 @@
+* [MENDS-2](https://www.nejm.org/doi/10.1056/NEJMoa2024922) (2021)
+	* 438 non-pregnant septic Americans requiring sedation for mechanical ventilation
+	* Without bradyarrhythmias,
+	* Randomised, clinician (not nurse) blinded, multicentre (13) RCT\
+	Pharmacy prepared drugs in identical opaque bags, and nurses covered lines in opaque tubing.
+	* 85% power to detect 1.5 day difference in days alive without delirium or coma
+	* 80% power to detect a 12% (!!) ARR in mortality at 90 days, assuming 30% control mortality
+	* Dexmedetomidine vs. propofol
+		* Dexmedetomidine titrated by protocol between 0.15-1.5μg/kg/min
+		* Propofol titrated by protocol between 5-50μg/kg/min
+	* No change in primary outcomes
+	* 90% of eligible patients excluded, predominantly by clinician or family

@@ -1,0 +1,7 @@
+* [ARREST](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32338-2/fulltext) (2020)
+	* 30 non-pregnant adult Minnesotans with shockable OOHCA without ROSC in ⩽3 shocks, within 30 minutes of study centre
+	* Without contraindications to resuscitation, or arrest from drowning, trauma, burns, or overdose
+	* Single-centre phase II open-label RCT
+	* Randomised to immediate cath lab with VA ECMO by cardiology, vs. ED treatment with angiography if ROSC occurred
+	* All patients admitted to cardiac ICU, received TTM, and neuro-prognosticated after 72 hours
+	* Significantly greater survival (43% vs 7%) in ECMO group

@@ -521,7 +521,7 @@ book:
         - part: "Supportive Care"
           chapters:
           - intensive/supportive/fasthugs.qmd
-          - intensive/supportive/fluids.qmd
+          - intensive/supportive/volume.qmd
           - intensive/supportive/icu_sedation.qmd
           - intensive/supportive/thromboprophylaxis.qmd
           - intensive/supportive/ulcer.qmd
@@ -552,9 +552,9 @@ book:
       # Respiratory
       - part: "Respiratory"
         chapters:
-        #- part: "Failure"
-        #  chapters:
-          # T1RF
+        - part: "Failure"
+          chapters:
+          - disease/resp/t1rf.qmd
           # T2RF
         - part: "Upper Airway"
           chapters:

@@ -168,13 +168,16 @@ Severe haemolysis may occur with oxygenator or pump head thrombosis. Severe haem
 * Requires urgent circuit change
 
 
-## Key Trials
+## Key Studies
 
 Trials in ECMO have been limited by challenges in ethically conducting placebo-control trials, as well as logistic difficulties. However, key trials include:
 
-* CESAR
-* EOLIA
+{{< include /trials/cesar.qmd >}}
+{{< include /trials/eolia.qmd >}}
 
 ---
 
 ## References
+
+
+1. Combes A, Hajage D, Capellier G, et al. [Extracorporeal Membrane Oxygenation for Severe Acute Respiratory Distress Syndrome](https://www.nejm.org/doi/full/10.1056/NEJMoa1800385). New England Journal of Medicine. 2018;378(21):1965-1975. doi:10.1056/NEJMoa1800385

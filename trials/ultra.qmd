@@ -1,0 +1,14 @@
+* [ULTRA](https://doi.org/10.1016/S0140-6736(20)32518-6) (2021)
+	* 955 non-pregnant Dutch adults with CT-confirmed, non-traumatic SAH and GCS <12 within <24 hours of onset
+	* Without DVT, PE, hypercoagulable state, or imminent risk of death
+	* Randomised, assessor-blinded, multicentre (24) RCT
+	* 950 patients provides 80% power of 8.1% difference in good (mRS 0-3) outcome
+	* TXA vs. placebo
+		* Balanced at baseline
+		* TXA group
+			* 1g bolus
+			* 1g infusion every 8 hours until aneurysm secured or 24 hours reached
+	* Median time from symptoms to TXA was ~3 hours
+	* No difference in good outcome at 6 months
+	* Secondary outcome: TXA group had ↓ (48% vs 56%, OR 0.74 CI 0.57-0.96) in excellent (mRS 0-2) outcome
+	* No difference in SAE, re-bleedings, or DCI

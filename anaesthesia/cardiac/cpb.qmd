@@ -411,6 +411,10 @@ Use of bypass is associated with several complications including:
 	* Coagulopathy
 
 
+## Key Studies
+
+{{< include /trials/tricsiii.qmd >}}
+
 ---
 
 ## References
@@ -418,4 +422,4 @@ Use of bypass is associated with several complications including:
 1. Melanson, P. [Management of post-op cardiac surgery patients](https://www.mcgill.ca/criticalcare/teaching/protocols/cardiac). 2001. McGill.
 2. Koster A, Faraoni D, Levy JH. [Antifibrinolytic Therapy for Cardiac Surgery: An Update](http://anesthesiology.pubs.asahq.org/article.aspx?articleid=2293794#91115220). Anesthesiology. 2015 Jul;123(1):214-21.
 3. Eichhorn EJ, Diehl JT, Konstam MA, Payne DD, Salem DN, and Cleveland RJ. [Protective effects of retrograde compared with antegrade cardioplegia on right ventricular systolic and diastolic function during coronary bypass surgery](http://circ.ahajournals.org/content/circulationaha/79/6/1271.full.pdf). Circulation. 1989;79:1271-1281, originally published June 1, 1989
-
+1. Mazer CD, Whitlock RP, Fergusson DA, et al. [Restrictive or Liberal Red-Cell Transfusion for Cardiac Surgery](http://www.nejm.org/doi/full/10.1056/NEJMoa1711818). New England Journal of Medicine. 2017;377(22):2133-2144. doi:10.1056/NEJMoa1711818

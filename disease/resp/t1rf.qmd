@@ -1,0 +1,72 @@
+# Type 1 Respiratory Failure
+
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Features
+
+## Assessment
+
+**History**:
+
+**Exam**:
+
+### Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+**Imaging**:
+
+**Other**:
+
+### Diagnostic Approach and DDx
+
+
+## Management
+
+:::priority
+Goals of management
+:::
+
+**Resuscitation**:
+
+**Specific therapy**:
+
+* Pharmacological
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+**Extracorporeal CO~2~ removal**:
+
+* Lung protective ventilation is effective in ↓ VILI but causes respiratory acidosis
+* Extracorporeal CO~2~ removal is less invasive than ECMO and can clear significant amounts of CO~2~, but not provide significant oxygenation
+{{< include /trials/rest.qmd >}}
+
+---
+
+## References
+
+1. McNamee JJ, Gillies MA, Barrett NA, et al. [Effect of Lower Tidal Volume Ventilation Facilitated by Extracorporeal Carbon Dioxide Removal vs Standard Care Ventilation on 90-Day Mortality in Patients With Acute Hypoxemic Respiratory Failure: The REST Randomized Clinical Trial](https://jamanetwork.com/journals/jama/article-abstract/2783809). JAMA. 2021;326(11):1013. doi:10.1001/jama.2021.13374

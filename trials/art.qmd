@@ -1,0 +1,23 @@
+* [ART](https://jamanetwork.com/journals/jama/fullarticle/2654894) (2017)
+	* ~1000 adults with moderate-severe ARDS requiring mechanical ventilation, without high risk of barotrauma or escalating vasoactive requirements
+	* Multicentre (120!), unblinded, allocation concealed, block randomised trial
+	* Open lung vs. control
+		* Open lung
+			* PCV with driving pressure of 15cmH~2~O
+			* Muscle relaxation applied
+			* Staircase recruitment up to PEEP of 45cmH~2~O
+			* PEEP down-titrated in 3cmH~2~O increments, with measurement of static compliance at leach level\
+			Level with highest lung compliance noted.
+			* Further recruitment at PEEP 45cmH~2~O of PEEP
+			* New PEEP set to level at maximal compliance + 2cmH~2~O
+		* Control
+			* Conventional ARDSnet ventilation
+		* Both groups managed with VCV at 6mL/kg with safe lung ventilation
+		* Refractory hypoxaemia managed with proning, iNO, or VV ECMO
+		* Pressure support attempted once PEEP <14cmH~2~O
+	* ↑ Mortality in open lung group (55.3% vs 49.3%, p=0.04)
+	* Secondary outcomes showed the open lung group had ↑ 6 month mortality, ↓ ventilator free days, and more pneumothoraces requiring drainage
+	* Compliance in open lung group did not significantly ↑ following recruitment
+	* Recruitment manoeuvre had to be abandoned in 15% due to hypotension or hypoxia
+	* Most patients only had one recruitment manoeuvre
+	* Indiscriminate aggressive recruitment manoeuvres appear unhelpful in ARDS, but this does not rule out benefit in select subgroups of respiratory failure

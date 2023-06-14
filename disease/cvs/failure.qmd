@@ -18,8 +18,8 @@ Classifications include both functional scores (NYHA) or disease progression (AC
 ## Epidemiology and Risk Factors
 
 * Prevalence of chronic heart failure is ~2%\
-	* < 2% in < 60 year-olds
-	* > 10% in > 75 year-olds 
+	* <2% in <60 year-olds
+	* \>10% in >75 year-olds 
 * Lifetime risk of disease is ~20%
 * Annual mortality is 6-7% in patients with stable heart failure
 	* ↑ to 25%/year in hospitalised patients

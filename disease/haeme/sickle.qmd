@@ -111,7 +111,7 @@ Usually restricted to <16 year olds.
 	* Sickle cell severity
 		* Frequency of exacerbations
 	* Hb
-		* Should be transfused to Hb >10g/dL or HbS <30%
+		* Should be transfused to Hb >100g/dL or HbS <30%
 
 
 

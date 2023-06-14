@@ -196,9 +196,16 @@ Due to the strong evidence supporting use of antifibrinolytics such as TXA in bl
 	* Specifically test different aspects of clot formation\
 	e.g. A heparinase channel, to estimate what clot strength would be in absence of heparin.
 	* Speed up test formation
-* Guide use of blood product including platelets, FFP, factor concentrates, and cryoprecipitate
-* Give an **early** signal of the **presence** of **fibrinolysis**\
-Otherwise no strong evidence of benefit over traditional haemostatic testing.
+* Advantages
+	* Real-time testing\
+	Can be analysed as it progresses, rather than waiting for testing to be completed.
+	* Guide use of blood product including platelets, FFP, factor concentrates, and cryoprecipitate
+	* Give an **early** signal of the **presence** of **fibrinolysis**\
+	Otherwise no strong evidence of benefit over traditional haemostatic testing.
+* Disadvantages
+	* Additional training
+	* More expensive than traditional testing, although cheaper than excessive blood product
+	* Results do not translate directly to standard coag assays which are used in most guidelines for monitoring treatment
 * Measure various parameters including:
 	* **R** (Reaction) **time**\
 	Time until initial fibrin formation.
@@ -218,8 +225,16 @@ Otherwise no strong evidence of benefit over traditional haemostatic testing.
 ![](/resources/teg.jpg)
 :::
 
+## Key Studies
+
+**Viscoelastic Testing**:
+
+{{< include /trials/itactic.qmd >}}
+
+
 ---
 
 ## References
 
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. Baksaas-Aasen K, Gall LS, Stensballe J, et al. [Viscoelastic haemostatic assay augmented protocols for major trauma haemorrhage (ITACTIC): a randomized, controlled trial. Intensive Care Med](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7550843/). 2021;47(1):49-59. doi:10.1007/s00134-020-06266-1

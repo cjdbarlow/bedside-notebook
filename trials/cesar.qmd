@@ -1,0 +1,22 @@
+* [CESAR](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(09)61069-2/fulltext) (2009)
+	* Britons aged 18-65 with potentially reversible severe respiratory failure without contraindications to heparin
+		* Multi-centre (92 tertiary, 11 conventional, 1 ECMO, assessor-blinded RCT
+		* 80% power to detect 18% ↓ ARR in death or severe disability from control group of 73%
+	* Transfer to ECMO centre vs. conventional ventilation
+		* Transfer ECMO centre
+			* Standardised low-volume, low-pressure ventilation in majority
+			* If no response to ventilation in 12 hours, then VV ECMO initiated (68/85)
+				* Percutaneous cannulation
+				* Roller pumps
+				* PMP oxygenators
+		* Conventional ventilation
+			* Unprotocolised PCV or HFOV
+	* Significant ↑ in survival without severe disability in ECMO group (63% vs. 47%, RR 0.69 (CI 0.05 - 0.97))
+	* Secondary outcomes: ECMO group had significantly:
+		* ↓ Proning (36%. vs 42%)
+		* ↑ Steroids (84% vs. 64%)
+		* ↑ MARS (17% vs. 0%)
+		* ICU and hospital length of stay
+	* Significant ↑ in survival with transfer to an ECMO centre, even if you didn't get ECMO, compared to management in a non-ECMO centre
+	* No protocolised ventilation in conventional group
+	* Significant loss to follow up

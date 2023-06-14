@@ -1,0 +1,7 @@
+* [MIDAS](https://link.springer.com/article/10.1007/s00134-020-06216-x) (2020)
+	* 134 non-pregnant adult Americans and Australian ICU patients requiring a single vasopressor at a low dose for >24 hours following resuscitation and treatment of reversible causes, without evidence of hypovolaemia, cardiac failure, CKD
+	* Multi-centre (3), double-blind, placebo-controlled, randomised, stratified by site
+	* 100 patients required to detect 6 hour difference in time to vasopressor cessation
+	* Midodrine 20mg Q8H vs. placebo
+	* No difference in time to discontinuation of vasopressors (23.5 hours vs 22.5 hours) or ICU discharge
+	* ↑ Bradycardia (HR <40) in midodrine group (8% vs 0%)

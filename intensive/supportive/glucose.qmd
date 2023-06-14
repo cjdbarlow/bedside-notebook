@@ -2,6 +2,10 @@
 
 BSL is often erratic in the ICU patient. In general, target BSL should be **8-12mmol/L**. This is:
 
+:::column-margin
+Other suggested targets include 8-11mmol/L or 6-10mmol/L.
+:::
+
 * Relatively hyperglycaemic
 * Safe\
 Attempts at tight glucose control typically result in frequent hypoglycaemic episodes.
@@ -22,6 +26,13 @@ Attempts at tight glucose control typically result in frequent hypoglycaemic epi
 
 ## Key Studies
 
+**BSL control**:
+
+{{< include /trials/nice_sugar.qmd >}}
+
+
 ---
 
 ## References
+
+1. [Intensive versus Conventional Glucose Control in Critically Ill Patients](http://www.nejm.org/doi/pdf/10.1056/NEJMoa0810625). N Engl J Med. 2009;360(13):1283-1297. doi:10.1056/NEJMoa0810625

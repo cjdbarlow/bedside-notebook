@@ -1,0 +1,11 @@
+* [WATERFALL](https://www.nejm.org/doi/full/10.1056/NEJMoa2202884) (2022)
+	* 249 of a planned 744 patients from Spain, France, Italy, and Mexico with acute pancreatitis
+	* Aggressive vs moderate fluid resuscitation
+		* Aggressive group:
+			* 20mL/kg bolus
+			* 3mL/kg/hr infusion for 48 hours
+		* Moderate group:
+			* 10mL/kg bolus
+			* 1.5mL/kg/hr for 20 hours
+	* Stopped early for harm in the aggressive group
+		* ↑ Severity of pancreatitis

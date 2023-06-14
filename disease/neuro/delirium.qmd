@@ -228,10 +228,8 @@ No change in rate of delirium, or quality and quantity of sleep.
 
 ## Key Studies
 
-* [Pro-MEDIC](https://link.springer.com/article/10.1007/s00134-022-06638-9)
-	* ~850 Australian adults across 12 ICUs with expected ICU admission >72 hours
-	* 4mg enteric melatonin nocte for 14 days versus placebo
-	* No change in delirium (by CAM-ICU) or sleep quality or quantity
+{{< include /trials/promedic.qmd >}}
+
 
 ---
 

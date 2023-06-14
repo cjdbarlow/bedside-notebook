@@ -1,0 +1,11 @@
+* [Bellomo et al](https://pubmed.ncbi.nlm.nih.gov/11191541/) (2000)
+	* 230 adults with ⩾SIRS features, a central line, and a sign of early renal dysfunction; without significant CKD, renal transplant, or recent AKI
+	* Multicentre (23), block randomised, double-blind, placebo-control trial
+	* 80% power for 20% ↓ in serum creatinine
+	* Dopamine vs. placebo
+		* Dopamine at 22µg/kg/min
+		* Placebo infusion at same rate
+		* Continued until death, RRT, ICU discharge, or resolution of SIRS and renal dysfunction
+	* No change in serum creatinine
+	* No change in secondary outcomes, notably arrhythmia
+	* No change in urine output in dopamine group

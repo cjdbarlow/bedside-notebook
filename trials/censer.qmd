@@ -1,0 +1,12 @@
+* [CENSER](https://www.atsjournals.org/doi/full/10.1164/rccm.201806-1034OC) (2018)
+	* 456 adults with hypotension and sepsis, without septic shock or other significant acute disease
+	* Single-centre, blinded RCT
+	* 300 patients provides 80% power to detect 20% ↑ "shock resolution" at 6 hours, compared to 60% in control group\
+	MAP sustained >65mmHg >15 minutes with >2 hours of UO >0.5mL/kg/hr or ↓ lactate by >10% from initial level.
+	* Noradrenaline vs. placebo
+		* Noradrenaline
+			* 0.05μg/kg/min for 24 hours without titration
+		* D5W placebo
+		* Open-label vasopressors if MAP <65
+	* Greater shock resolution at 6 hours in noradrenaline group (76% vs 48%)
+	* More interestingly, over half of the patients had norad given peripherally and no extravasation injuries occurred

@@ -1,0 +1,14 @@
+* [VANISH](https://jama.jamanetwork.com/article.aspx?articleid=2540403) (2016)
+	* 421 adults with sepsis requiring vasopressors despite adequate fluid resuscitation, without steroids, mesenteric ischaemia, or vasospastic disease
+	* 80% power for 25% ↓ in RRT with an control group incidence of ~30%
+	* Vasopressin + hydrocortisone or placebo vs. noradrenaline + hydrocortisone or placebo
+		* Vasopressin
+			* Vasopressin titrated up to 3.6 units/hr
+			* At maximal rate, hydrocortisone 50mg IV Q6H or placebo commenced\
+			Given for 6 days, then weaned over 6 days.
+		* Noradrenaline
+			* Noradrenaline titrated up to 12μg/min
+			* At maximal rate, hydrocortisone given as above
+		* If hypotensive after first dose of hydrocortisone (or placebo), open-label catecholamines could be commenced\
+		These were weaned as a priority.
+	* No difference in days alive free of renal failure

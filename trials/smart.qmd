@@ -1,0 +1,21 @@
+* [SMART](http://www.nejm.org/doi/full/10.1056/NEJMoa1711584) (2018)
+	* ~16,000 adult Americans admitted to ICU
+	* Unblinded, cluster-randomised, single-centre (but multiple ICU), multiple crossover trial\
+	ICU randomised to either 0.9% saline or a balanced crystalloid, and altered fluid each month. Associated ED and OR were given the same fluid, except for cardiac surgery patients.
+	* 14,000 patients gives 90% power to detect 1.9% ↓ in major adverse kidney events at 30 days, from 15% in saline group\
+	Composite outcome of death, RRT, or persistent renal dysfunction (last inpatient creatinine >200% of baseline). Censored at 30 days or discharge.
+	* Balanced vs. normal saline
+		* Balanced
+			* Plasmalyte vs. lactated Ringer's
+			* Normal saline could be given if hyperkalaemic or TBI
+	* ↓ Primary outcome in balanced group (14.3% vs. 15.4%, OR 0.91 (CI 0.84-0.99))
+	* Secondary outcomes show no difference in any of the components of subgroup analyses
+	* Patients in ICU over the end of a calendar month may have received both therapies 
+
+:::column-margin
+It is worth noting that hyperkalaemia should not be an exclusion to balanced crystalloids; the acidosis generated from administration of saline results in a greater ↑ in serum [K^+^] than the potassium content of a balanced solution does.
+:::
+
+:::column-margin
+![](/resources/smart.png)
+:::

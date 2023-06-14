@@ -119,7 +119,14 @@ Overall, rhythm control is probably superior if it can be consistently achieved 
 * Procedural
 	* Ablation\
 	Achieves drug-free rhythm control in >80% after one attempt, and >90% after two attempts.
+	* LAA occlusion
+	* LAA ligation
+	* Left pericardiotomy
+	* MAZE
 
+:::column-margin
+LAA ligation, left pericardiotomy, and MAZE all are performed as an addition to another cardiac surgery to prevent post-operative AF, and are not performed as singular procedures.
+:::
 
 **Supportive Care**:
 
@@ -272,9 +279,13 @@ Significant ↑ risk of stroke, arrhythmia, ↑ hospital length of stay.
 
 ## Key Studies
 
+**Post-operative AF**:
+
+{{< include /trials/palacs.qmd >}}
 
 ---
 
 ## References
 
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. [Posterior left pericardiotomy for the prevention of atrial fibrillation after cardiac surgery: an adaptive, single-centre, single-blind, randomised, controlled trial](https://www.sciencedirect.com/science/article/abs/pii/S0140673621024909). The Lancet. 2021;398(10316):2075-2083. doi:10.1016/S0140-6736(21)02490-9

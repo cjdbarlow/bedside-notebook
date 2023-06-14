@@ -1,0 +1,22 @@
+* [PAC-MAN](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(05)67061-4/fulltext) (2005)
+	* 1041 adult Britons admitted to ICU, who were felt to need a PAC
+	* Multicentre (65), unblinded, randomised trial
+	* PAC vs. no PAC
+		* PAC
+			* Placed within 1.7 hours
+			* Used for 3 (2-4) days
+			* 80% had >1 change in management within 2 hours due to PAC-derived data
+				* Fluid bolus
+				* Change in vasoactive drug
+				* Introduction of vasoactive drug
+		* No PAC
+			* 5% received PAC
+	* No difference (68% vs. 66%) in hospital mortality
+	* Complications in 10% (46) of PAC cases
+		* Arterial puncture (16)
+		* Arrhythmias (3, 1 arrest)
+		* Pneumothorax (2)
+		* Haemothorax (1)
+		* Lost guidewire (2)
+	* Most complications related to central venous access, rather than PAC-specific
+	* No benefit (or harm) seen with use

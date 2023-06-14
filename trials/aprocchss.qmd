@@ -1,0 +1,19 @@
+* [APROCCHSS](http://www.nejm.org/doi/full/10.1056/NEJMoa1705716) (2018)
+	* 1241 Frenchpersons with probable septic shock for <24 hours, requiring >6 hours vasopressors
+	* Multicentre (34)
+	* 320 patients per group to detect 10% ↓ in 90 day mortality at 95% power
+	* Trial initially also planned to investigate drotrecogin alfa in a factorial design, which required revising trial design after its withdrawal
+	* Steroids vs. placebo
+		* Steroids
+			* Hydrocortisone 50mg IV Q6H
+			* Fludrocortisone 50μg PO/NG mane
+		* Both groups had plasma cortisol and short synacthen test performed
+	* Very high dose of vasopressors at randomisation\
+		* Majority had noradrenaline with mean dose of ~1μg/kg/min
+		* Several had adrenaline with a mean dose at ~2μg/kg/min (!!)
+	* Significant ↓ 90 day mortality in intervention group (43% vs. 49%, RR 0.88 (CI 0.78 - 0.99))
+	* Secondary outcomes broadly favour steroids
+
+:::column-margin
+![](/resources/aprocchss.png)
+:::

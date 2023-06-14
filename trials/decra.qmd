@@ -1,0 +1,15 @@
+* [DECRA](https://www.nejm.org/doi/full/10.1056/NEJMoa1102077) (2011)
+	* 155 adults with severe TBI within 72 hours of injury:
+		* With uncontrolled ICP (>20mmHg for 15 minutes)
+		* For full active treatment
+		* Without spinal cord injury or intracranial mass lesions
+	* Bifrontotemporoparietal craniectomy with bilateral dural opening vs standard care
+		* Control group could receive "lifesaving" craniectomy at 72 hours
+	* Standard ICP treatment in both groups
+	* Significant ↑ (70% vs 51%) in unfavourable (GOS-E 1-4) outcomes at 6 months
+	* Significant ↓ in ICP in intervention group
+	* 25% of control group crossed over
+
+:::column-margin
+![](/resources/decra.png)
+:::

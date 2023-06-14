@@ -1,24 +1,52 @@
-# Fluid
+# Fluid {#sec-fluid}
 
-Products for fluid resuscitation include:
+Fluid resuscitation and administration is a cornerstone of critical care medicine. Key considerations include:
 
-* Crystalloid
-* Colloid\
-Contains microscopic particles that are large enough to be retained within the vascular compartment. Include:
-	* Albumin
-	* Synthetic\
-	Gelatins and starches are not recommended due to a variety of adverse reactions including:
-		* Hypersensitivity
-		* AKI
-		* Coagulopathy
+:::column-margin
+This covers consideration for fluid administration and resuscitation, considerations of management of *volume state* in the critically ill is covered under @sec-volume.
+:::
+
+* Epidemiological
+	* Critically unwell patients typically:
+		* Receive large volumes of fluid
+		* Retain large volumes of fluid
+			* Positive fluid balance correlates with mortality
+	* ICU patients tend to be euvolaemic by the time of admission
+* Phase of Illness
+	* Resuscitation phase often requires fluid administration and tolerance of positive fluid balance
+	* Maintenance and recovery phase requires attention to de-resuscitation
+		* Minimise use of maintenance fluids
+		* Control of volume state
+		* Appropriate management of **hypernatraemia**
+* Choice of fluid
+	* Crystalloid\
+	* Colloid\
+	Contains microscopic particles that are large enough to be retained within the vascular compartment. Include:
+		* Albumin
+		* Synthetic\
+		Gelatins and starches are not recommended due to a variety of adverse reactions including:
+			* Hypersensitivity
+			* AKI
+			* Coagulopathy
+
+
+## Crystalloid
+
+
+### Isotonic Bicarbonate
+
+* Consider for hypovolaemia with concurrent NAGMA or uraemic acidosis
+* Preparation:
+	* Remove 160mL from 1L of sterile water or D5W, leaving 840mL
+	* Add 160mL of 8.4% NaHCO~3~ to the bag
+* Administer within 12 hours as it is not stable in a plastic fluid bag
+
+
+## Colloid
 
 :::column-margin
 The volume-expanding effect of colloid is ↓ in the critically ill, presumably due to ↑ endothelial permeability and glycocalyx disruption.
 :::
-
-## Crystalloid
-
-## Colloid
 
 ### Albumin
 
@@ -50,12 +78,47 @@ Physiological effects of albumin include:
 Risk of HIV or hepatitis is not present with albumin solutions due to heat treating of product.
 :::
 
-## Key Trials
+## Key Studies
 
-* SAFE
+**Balanced Crystalloids**:
+
+:::column-margin
+Overall, I have:
+
+* A strong preference for 0.9% saline as the default fluid in neurosurgical patients, based on a weak foundation of secondary outcomes and sub-group analyses showing ↑ mortality with hypotonic and ↓ [Na^+^] solutions
+* A weak preference for balanced crystalloids in the remainder of the ICU population
+* A strong belief that fluid trials will *never* demonstrate superiority of one solution over another in the general ICU population, due to:
+	* Most patients will not have their outcome changed (in any direction) by the choice of IVT\
+	Most will either be too well or too sick for it to matter.
+	* If any do, there is probably heterogeneity in the effect of fluid in different subgroups
+	* Clinicians will attempt to reverse any adverse effects (AKI, acidosis) seen 
+::: 
+
+* Critical care patients routinely receive IV fluid
+* If one fluid is superior, even *very* small benefits translate to a significant impact due to the number of patients receiving the therapy
+* Saline is historically the most common, but there are concerns that the chloride load contributes to acidosis, ↓ renal cortical blood flow, ↑ need for RRT, and ↑ mortality
+{{< include /trials/split.qmd >}}
+{{< include /trials/smart.qmd >}}
+{{< include /trials/plus.qmd >}}
+{{< include /trials/basics.qmd >}}
+
+**Albumin**:
+
+{{< include /trials/safe.qmd >}}
+{{< include /trials/albios.qmd >}}
 
 ---
 
 ## References
 
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. Finfer S, Micallef S, Hammond N, et al. [Balanced Multielectrolyte Solution versus Saline in Critically Ill Adults](https://www.nejm.org/doi/full/10.1056/NEJMoa2114464). New England Journal of Medicine. 2022;386(9):815-826. doi:10.1056/NEJMoa2114464
+1. Zampieri FG, Machado FR, Biondi RS, et al. [Effect of Slower vs Faster Intravenous Fluid Bolus Rates on Mortality in Critically Ill Patients: The BaSICS Randomized Clinical Trial](https://jamanetwork.com/journals/jama/fullarticle/2783040). JAMA. 2021;326(9):830-838.
+1. Zampieri FG, Machado FR, Biondi RS, et al. [Effect of Intravenous Fluid Treatment With a Balanced Solution vs 0.9% Saline Solution on Mortality in Critically Ill Patients: The BaSICS Randomized Clinical Trial](https://jamanetwork.com/journals/jama/fullarticle/2783039). JAMA. 2021;326(9):818-829.
+1. Semler MW, Self WH, Wanderer JP, et al. [Balanced Crystalloids versus Saline in Critically Ill Adults](http://www.nejm.org/doi/full/10.1056/NEJMoa1711584). New England Journal of Medicine. 2018;378(9):829-839. doi:10.1056/NEJMoa1711584
+1. Young P, Bailey M, Beasley R, et al. [Effect of a Buffered Crystalloid Solution vs Saline on Acute Kidney Injury Among Patients in the Intensive Care Unit: The SPLIT Randomized Clinical Trial](https://jamanetwork.com/journals/jama/fullarticle/2454911). JAMA. 2015;314(16):1701-1710. doi:10.1001/jama.2015.12334
+1. Jaber S, Paugam C, Futier E, et al. [Sodium bicarbonate therapy for patients with severe metabolic acidaemia in the intensive care unit (BICAR-ICU): a multicentre, open-label, randomised controlled, phase 3 trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31080-8/fulltext). The Lancet. 2018;392(10141):31-40. doi:10.1016/S0140-6736(18)31080-8
+1. [A Comparison of Albumin and Saline for Fluid Resuscitation in the Intensive Care Unit](https://www.nejm.org/doi/full/10.1056/NEJMoa1305727). New England Journal of Medicine. 2004;350(22):2247-2256. doi:10.1056/NEJMoa040232
+
+
+

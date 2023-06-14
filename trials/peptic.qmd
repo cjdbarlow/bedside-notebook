@@ -1,0 +1,21 @@
+* [PEPTIC](https://jamanetwork.com/journals/jama/article-abstract/2759412) (2020)
+	* 26,777 adults requiring ICU admission and invasive ventilation
+	* Unblinded multi-centre cluster randomised crossover trial\
+	Units used one class of drug for 6 months, then swapped to the other.
+	* Powered to detect 2% ARR
+	* PPI vs. histamine-2 receptor blocker
+		* PPI group\
+		5% received H2RB.
+		* H2RB group\
+		20% received PPI.
+		* Indication for stress ulcer prophylaxis at clinician discretion
+		* Average duration 2.7 days
+	* *No* difference in 90 day mortality (18.3% vs 17.5%, 95% CI 1.00 – 1.10))\
+	Results have been controversial, interpretations include:
+		* Use H2RBs as signal towards death is stronger than risk of non-fatal UGIB
+		* Significant cross-over and cluster design limit interpretability of weak results
+		* 2.7 days of PPI seems *en face* unlikely to be fatal
+	* Secondary outcomes:
+		* ↓ UGIB in PPI group (1.3% vs 1.8%, RR 0.73 (0.57-0.92))
+		* ↑ Mortality in cardiac subgroup
+		* No change in *C. difficile* infections 

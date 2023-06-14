@@ -254,6 +254,10 @@ Post-tracheostomy:
 	May require surgical repair.
 
 
+## Key Studies
+
+{{< include /trials/tracman.qmd >}}
+
 
 
 ---
@@ -265,4 +269,4 @@ Post-tracheostomy:
 3. Hess, Dean R. “Facilitating Speech in the Patient With a Tracheostomy.” Respiratory Care 50, no. 4 (April 1, 2005): 519–25. [](https://doi.org/10.1097/00003246-199908000-00041)
 4. Ailawadi, Gorav. “Technique for Managing Tracheo-Innominate Artery Fistula.” Operative Techniques in Thoracic and Cardiovascular Surgery 14, no. 1 (March 1, 2009): 66–72. [](https://doi.org/10.1053/j.optechstcvs.2009.02.003).
 5. Donaldson, Lachlan, and Raymond Raper. “Successful Emergency Management of a Bleeding Tracheoinnominate Fistula.” BMJ Case Reports 12, no. 12 (December 2019): e232257. https://doi.org/10.1136/bcr-2019-232257.
-
+1. Young D, Harrison DA, Cuthbertson BH, Rowan K, for the TracMan Collaborators. [Effect of Early vs Late Tracheostomy Placement on Survival in Patients Receiving Mechanical Ventilation: The TracMan Randomized Trial](https://jamanetwork.com/journals/jama/fullarticle/1690674). JAMA. 2013;309(20):2121-2129. doi:10.1001/jama.2013.5154

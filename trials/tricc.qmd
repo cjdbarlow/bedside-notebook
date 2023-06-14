@@ -1,0 +1,12 @@
+* [TRICC](http://www.nejm.org/doi/pdf/10.1056/NEJM199902113400601) (1999)
+	* 838 anaemic (Hb <90g/dL) Canadians with >24 hour expected ICU stay, without active bleeding, chronic anaemia, or post-cardiac surgery
+	* Multicentre, non-blinded, randomised trial
+	* 1620 patients provides 95% power for a 27.5% RRR from a liberal transfusion mortality of 27%
+	* Restrictive vs. liberal transfusion	
+		* Restrictive\
+		Transfusion threshold: Hb <70g/dL
+		* Liberal\
+		Transfusion threshold: <100g/dL
+	* No change in 30 day mortality (18.7% vs. 23.3%)
+	* Secondary outcomes: Higher hospital mortality in liberal group
+	* Grossly underpowered without explanation as to why

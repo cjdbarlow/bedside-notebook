@@ -61,15 +61,21 @@ Note that the **haemoglobin** is **not an indicator** for **MTP activation**, as
 
 ## Pathophysiology
 
-Coagulopathy occurs due to:
+Coagulopathy is multifactorial; key contributors include:
 
 * Shock
 	* Ischaemia
+	* Acidosis
 * Tissue injury
-* Acidosis
 * Hypothermia
 * Haemodilution
-
+	* Crystalloid resuscitation
+	* Unbalanced transfusion
+* Consumption of clotting factors
+* ↓ Platelet function
+* Hyperfibrinolysis
+* Dysfibrinogenaemia\
+Secretion of functionally abnormal fibrinogen due to autosomal dominant defect.
 
 ### Aetiology
 

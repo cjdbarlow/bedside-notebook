@@ -1,0 +1,14 @@
+* [VAM-IHCA](https://jamanetwork.com/journals/jama/fullarticle/2784625) (2021)
+	* 392 adult Danes with IHCA requiring adrenaline, without invasive circulatory support, in 10 hospitals
+	* Investigator-initiated, blinded, placebo-controlled, block-randomised by site
+	* Consent from patients or surrogates, if survived
+	* Randomised to 40mg methylprednisolone and 20 units vasopressin vs. placebo
+		* Intervention group:
+			* Received cocktail as soon as possible after first adrenaline dose
+			* Further 20 unit vasopressin boluses could be given after each adrenaline dose
+		* Placebo group:
+			* Received otherwise usual care
+			* Notably significantly higher use of VA ECMO (30% vs 14%)
+	* Intervention group demonstrated significant ↑ in ROSC (42% vs 33%, CI 1.03-1.63)
+	* No difference in secondary outcomes of 30/90 day survival or neurological outcome
+	* No difference in TTM, angiography, or glucocorticoid use

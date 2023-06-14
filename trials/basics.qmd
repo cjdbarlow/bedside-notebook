@@ -1,0 +1,16 @@
+* [BASICS](https://jamanetwork.com/journals/jama/fullarticle/2783039) (2018)
+    * 11,000 Brazilians admitted to ICU requiring fluid resuscitation with some risk factor for AKI, without profound electrolyte derangements or imminent need for RRT or palliative care
+    * 89% power for hazard ratio of <0.9, assuming 35% control mortality
+    * 2x2 factorial study evaluating two primary outcomes:
+        * [Fluid type](https://jamanetwork.com/journals/jama/fullarticle/2783040)\
+        Plasmalyte vs. saline:
+            * No difference in 90 day mortality (26.4% vs 27.2%)
+                * Significant ↑ mortality in TBI sub-group (31% vs 21%, CI 1.03-2.12)
+            * Significantly ↓ SOFA in plasmalyte group (26% vs. 32%)
+        * [Speed of infusion](https://jamanetwork.com/journals/jama/fullarticle/2783039)\
+        Slow (333mL/hr) vs. fast (999mL/hr) infusion of fluid boluses.
+            * No difference in 90 day mortality
+    * Both studies block randomised
+    * Randomised fluid type and rate used for entire ICU stay unless contraindicated
+    * Blood, albumin, and bicarbonate permitted
+    * Mortality lower than expected, ↓ power

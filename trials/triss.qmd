@@ -1,0 +1,10 @@
+* [TRISS](http://www.nejm.org/doi/10.1056/NEJMoa1406617) (2014)
+	* 998 Scandanavian adults with septic shock and Hb <90g/dL, without active haemorrhage, burns, ACS< previous transfusion, or transfusion reactions
+	* Multicentre (32), block randomised, stratified by site and haematological malignancy
+	* 80% power for 9% ARR ↓, assuming 45% control mortality
+	* Restrictive vs. liberal transfusion
+		* Restrictive threshold <70g/dL
+		* Liberal threshold <90g/dL
+		* Single unit RBC given when threshold met
+	* No change in 90 day mortality
+	* Secondary outcomes: ↑ Number of patients and units transfused in liberal group

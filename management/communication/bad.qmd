@@ -42,8 +42,13 @@ Avoid this if there is catastrophic news, i.e. some major change that obviates p
 5. Fallout
 
 
+## Key Studies
+
+{{< include /trials/cosmic_eol.qmd >}}
+
 ---
 
 ## References
 
 1. CICM Communications Course. Course Notes. 2023.
+1. Kentish-Barnes N, Chevret S, Valade S, et al. [A three-step support strategy for relatives of patients dying in the intensive care unit: a cluster randomised trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02176-0/fulltext). The Lancet. 2022;399(10325):656-664.
