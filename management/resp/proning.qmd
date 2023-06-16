@@ -1,0 +1,89 @@
+# Proning {#sec-proning}
+
+Proning is a treatment for refractory hypoxaemia in T1RF that:
+
+:::column-margin
+Proning is a cornerstone of ARDS management. ARDS is covered in detail under @sec-ards.
+:::
+
+* Promotes homogenous lung ventilation
+* Facilitates secretion drainage
+* Reverses hypoxia due to shunt
+
+
+## Indications
+
+Indicated with:
+
+* Appropriate expertise
+* Severe hypoxaemia (P/F <150) in lung pathologies that are:
+	* Diffuse
+	* Acute
+	* Reversible
+* Dorsal wounds
+	* Burns
+	* Surgical wounds
+
+## Contraindications
+
+Prone position is contraindicated in patients with risk of:
+
+* Turning
+	* C-spine injury
+	* Unstable T/L spine
+	* Unstable pelvis
+* Being supine
+	* Facial trauma
+	* Open chest
+	* Open abdomen
+	* Pregnancy
+	* Intraabdominal hypertension
+	* Ventral wounds
+
+## Principles
+
+Proning is effective as:
+
+* Lung parenchymal volume is larger posteriorly than anteriorly
+* There is greater V/Q mismatch to posterior regions when supine due to:
+    * Atelectasis and collapse
+    * Dependent oedema
+    * ↑ Pulmonary blood flow
+* Prone ventilation
+    * Recruits collapsed regions
+    * ↑ Secretion drainage
+
+## Practice
+
+* Consider prone ventilation early and often
+	* 16 hours
+	* 5 days or until no further response required
+* Adjunct to lung protective ventilation and VV ECMO
+* Timing of proning and de-proning should occur with experience staff present to manage any complications
+
+
+## Complications
+
+* A
+	* Airway loss
+	* Sputum plugging
+* C
+	* Dislodgement of lines and devices
+* D
+	* Blindness
+		* Ocular pressure injury
+		* ↓ Retinal perfusion pressure
+* E
+	* Pressure areas
+
+
+## Key Studies
+
+{{< include /trials/proseva.qmd >}}
+
+
+---
+
+## References
+
+1. Guérin C, Reignier J, Richard JC, et al. [Prone Positioning in Severe Acute Respiratory Distress Syndrome](http://www.nejm.org/doi/10.1056/NEJMoa1214103). N Engl J Med. 2013;368(23):2159-2168. doi:10.1056/NEJMoa1214103

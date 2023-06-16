@@ -67,18 +67,30 @@ EEG has also been trialled, but is limited by movement artifact and not yet made
 
 The **goal of sedation** is to achieve a **controlled degree of sedation**, **specific to** the needs of the **patient**, and **based on** the **characteristics** of the **disease**, **patient**, and **therapy**.
 
-A large number of strategies have been described to achieve this:
+A large number of strategies have been described to achieve this, though there is little evidence supporting any one therapy:
 
 * **No sedation**\
 ↑ Risk of accidental extubation and line removal without change in mortality.
 * **Goal-directed sedation**\
 Sedatives freely adjusted by the beside nurse to attain the prescribed level of sedation.
+	* Deep sedation
+		* Indicated for certain specific disease states:
+			* Severe T1RF
+			* Hyperthermic emergencies
+			* Super-refractory status epilepticus
+			* ↑ ICP
+		* Associated with
+			* Delayed extubation
+			* ↑ Mortality 
 * **Patient-targeted sedation**\
 Consist of structured approach for:
 	* Assessing pain and distress
 	* Adjusting analgesia and sedation based on the algorithm
 * **Daily interruption of sedation**\
 As goal-directed sedation, except aims to prevent excessive sedation by pausing sedation each day until the patient awakens or exhibits distress requiring recommencement.
+	* Facilitate neurological assessment
+	* Minimise accumulation of sedation\
+	This is more relevant to routine deep sedation, and targeting light (e.g. RASS >-2) sedation will limit this as well.
 * **Intermittent sedation**\
 Intermittent administration of long-acting sedatives.
 * **Analgo-sedation**\
@@ -89,23 +101,35 @@ Intermittent administration of long-acting sedatives.
 	* Risks include possible ↑ self-extubation, myocardial ischaemia, and opioid withdrawal
 * **Patient-controlled sedation**
 
-There is little evidence supporting any one therapy, however options include:
 
 ## Practice
 
 In general:
 
 :::column-margin
-This framework outlines intravenous sedation and analgesia for the above indications. More complex overlapping scenarios, such as severe opioid tolerance (e.g. long stay burns) or hyperactive delirium requiring antipsychotics are not covered here.
+This framework outlines intravenous sedation and analgesia for tnhe above indications. More complex overlapping scenarios, such as severe opioid tolerance (e.g. long stay burns) or hyperactive delirium requiring antipsychotics are not covered here.
 :::
 
-* Some sedative is usually used
-	* Propofol is a common first-line agent
-	* Dexmedetomidine is useful for weaning sedation in patients who:
-		* Are emerging dangerously on propofol
-		* Have controlled pain
-* Some analgesia is usually used\
-	* Opioid infusions
+* Deep sedation should be limited to specific indications
+* Most other patients should be sedated to RAAS of -2 to 0\
+	* In general
+		* Propofol is a common first-line agent
+		* Dexmedetomidine
+			* Has analgesic and sedative properties
+			* Provides conscious sedation
+			* Is useful for weaning sedation in patients who:
+				* Are emerging dangerously on propofol
+				* Have controlled pain
+	* High levels of sedation requirements may suggest another present pathology
+		* If present, these should be managed separately
+		* These include:
+			* Pain
+			* Delirium
+			* Withdrawal
+	* This may result certain patients receiving no sedation, typically those with:
+		* Trachestomy
+		* Exceptional tube tolerance
+
 
 ### Sedatives
 

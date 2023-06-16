@@ -1,0 +1,16 @@
+* [AKIKI](https://www.nejm.org/doi/10.1056/NEJMoa1603017) (2016)
+	* ~620 Frenchpersons with KDIGO stage 3 injury, ventilated or on catecholamine infusions, without a hard indication for dialysis
+	* Multicentre (31), block-randomised, unblinded trial
+	* 546 patients gives 90% power to detect 15% (!!) ↓ ARR in death from baseline mortality  of 55%
+	* Early vs. delayed RRT
+		* Early
+			* RRT within 6 hours
+			* 98% received RRT
+		* Control
+			* RRT if profound metabolic abnormalities, APO, or 72 hours of oligo/anuria
+			* 51% received RRT
+	* No change in 60 day mortality (48.5% vs 49.7%)
+	* Double CLABSI in the early RRT group (10% vs. 5%)
+	* Post-hoc analyses:
+		* Lowest mortality in those who never received RRT
+		* Highest mortality in those who received RRT late

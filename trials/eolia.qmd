@@ -11,16 +11,20 @@
 			* Percutaneous femoral/jugular configuration
 			* FiO~2~ and pump flow adjusted for SpO~2~ >90%
 			* Sweep adjusted for PaCO~2~ <45mmHg
-		* Stawndard care
+		* Standard care
 			* Lung protective ventilation
 			* Encouraged:
 				* NMBA
 				* Proning
 				* Recruitment
 			* Inhaled pulmonary vasodilators permitted if above ineffective
-			* Crossover to VV ECMO if SpO~2~ <80% despite the above
-	* Stopped early for futility
-	* No difference in mortality at day 60 (35% vs. 46%, RR 0.76 (CI 0.55-1.04)))
+			* Crossover to VV ECMO if SpO~2~ <80% despite the above\
+			28% crossed over.
+	* Stopped early for futility\
+	Underpowered due to early stoppage and lower than expected control mortality.
+	* No difference in mortality at day 60 (35% vs. 46%, RR 0.76 (CI 0.55-1.04)))\
+	This is clouded by the high porportion of control patients crossing over to receive ECMO.
+		* If none of them got ECMO and as few as 30% survived, there would be a significant mortality benefit from ECMO
 	* Secondary outcomes showed the ECMO group had:
 		* ↓ "Treatment failure" (RR 0.62, CI 0.47-0.82)\
 		Death or crossover to ECMO.

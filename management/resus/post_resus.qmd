@@ -1,0 +1,98 @@
+# Post-Resuscitation Care {#sec-post_resus}
+
+
+## Management
+
+:::priority
+* **Prevent** further **arrest**
+* Identify cause and consider **cardiac catheterisation**
+* Optimise physiology
+* Targeted temperature management to **prevent hyperthermia**
+:::
+
+**Resuscitation**:
+
+* A
+	* Secure airway
+* C
+	* Maintain perfusion\
+	Patients usual BP or SBP >100mmHg.
+	* Perform 12-lead ECG
+
+
+**Specific therapy**:
+
+* Pharmacological
+* Procedural
+	* Angiography
+* Physical
+
+
+**Supportive care**:
+
+
+* B
+	* Normoxia\
+	Avoid hypoxia; i.e. SpO~2~ 94-98%.
+	* Normocapnoea
+* D
+	* **Avoid hyperglycaemia**\
+	Treat BSL >10mmol/L. May be exacerbated by TTM.
+	* Treat seizures
+	* Remain sedated
+* E
+	* **Targeted Temperature Management**\
+	Keep temperature 35.5-36.5°C for at least 24 hours, and maintain normothermia (<37.5°C) for at least 72 hours.
+		* Should be achieved within 8 hours of ROSC
+		* Active external cooling using a feedback-controlled system
+		* Control of shivering:
+			* Tier 1
+				* Paracetamol 1g Q6H
+				* Mg^2+^ >0.8mmol/L
+			* Tier 2
+				* Wrap hands and feet with warm towels
+				* Dexmedetomidine or clonidine
+				* Remifentanil
+				* Ketamine
+				* Mg^2+^ 1.2-1.6mmol/L
+			* Tier 3
+				* Fentanyl boluses
+				* Paralysis\
+				May be needed to control shivering. Consideration for EEG monitoring if paralysing seizing patients.
+
+:::column-margin
+A variety of cooling methods have been tried, although with change in aims from hypothermia to normothermia many of the more aggressive methods are no longer relevant. Historically, 4°C IV saline effectively ↓ temperature at risk of arrhythmia and volume load.
+:::
+
+**Disposition**:
+
+* Catheter laboratory
+* ICU
+
+**Preventative**:
+
+**Immediate**:
+
+
+## Key Studies
+
+**Hypothermia**:
+
+{{< include /trials/hyperion.qmd >}}
+{{< include /trials/ttm.qmd >}}
+{{< include /trials/ttm2.qmd >}}
+
+
+**Other**:
+
+{{< include /trials/box.qmd >}}
+{{< include /trials/vam_ihca.qmd >}}
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. Schmidt H, Kjaergaard J, Hassager C, et al. Oxygen Targets in Comatose Survivors of Cardiac Arrest. New England Journal of Medicine. 2022;387(16):1467-1476. doi:10.1056/NEJMoa2208686
+1. Andersen LW, Isbye D, Kjærgaard J, et al. E[ffect of Vasopressin and Methylprednisolone vs Placebo on Return of Spontaneous Circulation in Patients With In-Hospital Cardiac Arrest: A Randomized Clinical Trial](https://jamanetwork.com/journals/jama/fullarticle/2784625). JAMA. 2021;326(16):1586–1594. doi:10.1001/jama.2021.16628

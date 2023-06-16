@@ -13,6 +13,7 @@
 	Saline 10.5%, albumin 10.6%, control 7.3%.
 		* RR for saline vs. control: 1.44 (CI 1.09-1.9)
 	* Stopped early for harm
+	* Most deaths occurred at <24 hours
 	* Weaknesses:
 		* Clinical criteria for shock diagnosis are non-specific
 		* \>50% had malaria, which behaves differently with IVT

@@ -7,4 +7,8 @@
 	* No statistically significant difference in ICU length of stay, duration of organ support. However:
 		* Trauma subgroup had an *almost* significant ↑ mortality (13.6% vs. 10%, RR 1.36 (CI 0.99-1.86))\
 		* Sepsis subgroup had a more insignificant ↓ mortality (30.7% vs. 35.3%, RR 0.87 (CI 0.74-1.02))
-	* Less cumulative fluid balance at end of day 1 and 2 in the albumin group, although this difference started resolving at day 3
+	* Less cumulative fluid balance at end of day 1 and 2 in the albumin group (by ~1:1.4), although this difference started resolving at day 3 and had gone at day 4
+
+:::column-margin
+Note that 4% Albumin is hypotonic at 260mOsmol/L. This may contribute to the poor outcomes seen in the neurosurgical group, and is explored elegantly by [Iguchi et al](https://pubmed.ncbi.nlm.nih.gov/29458321/).
+::::

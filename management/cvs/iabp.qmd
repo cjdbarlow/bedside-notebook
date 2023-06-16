@@ -1,5 +1,4 @@
-# Intra-aortic Balloon Pump
-
+# Intra-aortic Balloon Pump {sec-iabp}
 
 Assisted circulatory device consisting of an intra-aortic balloon which:
 
@@ -9,9 +8,12 @@ Assisted circulatory device consisting of an intra-aortic balloon which:
 Deflates pre-systole and inflates during diastole, causing:
 	* **Improved coronary perfusion**\
 	Diastolic inflation ↑ DBP and improves coronary perfusion pressure and myocardial oxygen supply.
-	* **↓ afterload**\
-	Pre-systolic deflation ↓ afterload and myocardial wall tension, reducing myocardial oxygen demand.
-
+	* **↓ Afterload**\
+	Pre-systolic deflation ↓ afterload and myocardial wall tension, ↓ myocardial oxygen demand and myocardial work.
+* Improves forward flow rather than just inotropy\
+Better in lesions where contractility may be adequate despite a low SV, e.g.
+	* MR
+	* VSD
 
 ## Indications
 
@@ -27,7 +29,12 @@ Deflates pre-systole and inflates during diastole, causing:
 
 * Cardiac
 	* AR
-	* Tachyarrhythmias
+	* Tachyarrhythmias\
+	Less effective in:
+		* Tachycardia\
+		↓ Viable inflation/deflation time.
+		* Irregular rhythms\
+		Timing challenges.
 * Anatomical
 	* Aortic dissection
 	* Severe peripheral vascular disease
@@ -57,9 +64,23 @@ Usually 7.5 Fr.
 * Console\
 Contains pump, helium cylinder, and times inflation/deflation.
 
+
 ## Technique
 
-Use:
+**Patient selection**:
+
+* Cardiogenic shock
+	* Of a form less responsive to inotropes
+	* Without a stronger indication for VA ECMO or Impella
+* Adequate vasculature
+	* Accessible and un-tortuous femoral vessels
+	* No acute aortic pathology
+
+:::column-margin
+Some aortic stiffening is probably helpful though - an elastic and compliant aorta will distend during balloon inflation, impeding diastolic augmentation.
+:::
+
+**Use**:
 
 * Setting ratio\
 Proportion of augmented to non-augmented beats.
@@ -92,14 +113,16 @@ May be:
 		* Low-dose systemic heparin
 	* May not be required in first 24 hours
 
-Optimisation:
+
+**Optimisation**:
 
 * Optimising location
 	* Balloon distal to L SCA, 2cm above left main bronchus
 * Optimising timing
 	* Should be performed in a 1:2 ratio
 
-Weaning:
+
+**Weaning**:
 
 * Once inotropic requirements minimal
 * Achieved gradually
@@ -109,10 +132,12 @@ Weaning:
 
 * Vascular
 	* Limb ischaemia
-	* Trauma
+	* Vascular injury
 		* Dissection
 		* Pseudoaneurysm
 		* Vessel injury/rupture
+	* Embolism
+		* Dislodged atheroma
 * Device
 	* Balloon rupture\
 		* Gas embolism

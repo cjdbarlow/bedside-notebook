@@ -1,0 +1,84 @@
+# Recruitment
+
+A recruitment manoeuvres is a **sustained, transient ↑** in **alveolar pressure** aimed to open collapsed alveoli and small airways so they remain open following the manoeuvre and are now able to participate in gas exchange.
+
+
+## Indications
+
+Hypoxia with evidence of recruitable lung:
+
+* Clinical suggestion of collapse
+	* Post-intubation
+	* Post-bronchoscopy
+* Radiographically recruitable lung\
+Evidence of volume loss implying collapse rather than consolidation.
+* PEEP-responsive ARDS
+
+
+## Contraindications
+
+* High risk of barotrauma:
+	* Bullous lung disease
+	* Previous PTHx
+	* Current PTHx
+* CVS instability
+
+
+## Principles
+
+* Lung parenchyma collapses in a heterogenous fashion
+* Alveoli:
+	* Collapse when pressure falls below critical closing pressure
+	* Open pressure exceeds the critical opening pressure
+	* Critical closing pressure is *less* than the critical opening pressure\
+	Application of PEEP above the critical closing pressure keeps alveoli open.
+* Improves:
+	* Oxygenation
+	* Gas exchange
+	* Inflammatory markers
+
+
+A wide variety of techniques have been described:
+
+* 30cmH~2~O for 30-60s0s\
+Safe, moderately effective.
+* 40cmH~2~O for 40s
+* Pip at 50cmH~2~O, aiming PEEP above the uper inflection point
+* Titration of Pip up to 40cmH~2~O
+* Staircase recruitment
+
+
+## Practice
+
+Appropriate in **carefully selected** patients. Considerations:
+
+* High chance of recruitable lung
+* Low risk of harm
+* Recruitment strategy
+	* I have found 30cmH~2~O for 60s or 40cmH~2~O for 40s, abandoning if hypotension or hypoxia result, to be safe and effective
+	* My experience with staircase recruitment is that it causes significant haemodynamic instability without much additional benefit in oxygenation
+
+
+## Complications
+
+Risks relate to significant ↑ airway pressure:
+
+* Requires sedation/paralysis
+* Barotrauma
+	* Pneumothorax
+	* Pneumomediastinum
+* Cardiovascular instability	
+	* ↑↑ RV afterload
+	* ↓ VR
+
+
+## Key Studies
+
+{{< include /trials/art.qmd >}}
+
+
+---
+
+## References
+
+1. Writing Group for the Alveolar Recruitment for Acute Respiratory Distress Syndrome Trial (ART) Investigators. [Effect of Lung Recruitment and Titrated Positive End-Expiratory Pressure (PEEP) vs Low PEEP on Mortality in Patients With Acute Respiratory Distress Syndrome: A Randomized Clinical Trial](https://jamanetwork.com/journals/jama/fullarticle/2654894). JAMA. 2017;318(14):1335-1345. doi:10.1001/jama.2017.14171

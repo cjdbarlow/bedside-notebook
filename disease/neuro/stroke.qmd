@@ -243,8 +243,6 @@ Stroke symptoms include:
 +-----------------+-------------------------------------------------------+---------------------+-------------------------+
 
 
-
-
 ## Diagnostic Approach and DDx
 
 Diagnosis relies on identifying both:
@@ -324,12 +322,7 @@ Echocardiography is more useful in younger patients, who are less likely to have
 
 ## Management
 
-**Resuscitation**:
-
-:::caution
-Thrombolysis (if indicated) should be given as soon as possible after ICH is excluded and hypertension is controlled.
-:::
-
+:::priority
 * Activate a **Stroke Code**\
 Rapid activation of neurology, radiology, and interventional radiology dramatically streamlines care for these patients.
 Establish:
@@ -338,6 +331,12 @@ Establish:
 	* Time **Last Seen Well**\
 	To establish onset, and eligibility for reperfusion.
 	* Anticoagulation status
+* **Expedite reperfusion**
+* Optimise **physiology**
+:::
+
+**Resuscitation**:
+
 * A
 	* Airway protection\
 		* Indications vary, but in RCTs have included:
@@ -377,6 +376,10 @@ Establish:
 Avoid ICU admission if possible.
 
 ### Ischaemic Stroke
+
+:::info
+These management aims are in addition to the above.
+:::
 
 **Resuscitation**:
 
@@ -424,65 +427,70 @@ Avoid ICU admission if possible.
 
 ### Reperfusion
 
-+--------------------------+------------------------------------------------+----------------------------------------------------------------------------------------------------------+---------------------------------+----------------------------------------------+
-| Technique                | Timing                                         | Comments                                                                                                 | Indications                     | Contraindications                            |
-+==========================+================================================+==========================================================================================================+=================================+==============================================+
-| Intravenous thrombolysis | * Onset <4.5 hours                             | * Earlier is better                                                                                      | * "Significant" stroke\         | Intracranial:                                |
-|                          |                                                | * NNT ~3 to improve mRS by 1                                                                             | Thresholds vary, but NIHSS >~5. |                                              |
-|                          |                                                | * Alteplase 0.9mg/kg, up to 90mg\                                                                        | * mRS 0-1 at baseline           | * ICH/SAH                                    |
-|                          |                                                | 10% over 1/60, remainder over 60/60.                                                                     |                                 | * Completed stroke                           |
-|                          |                                                | * Risks should be discussed with the patient and family prior to commencing                              |                                 |                                              |
-|                          |                                                | * For **wake-up** strokes with **unknown onset**, can be beneficial if <4.5 hours of recognition         |                                 | Surgical:                                    |
-|                          |                                                |                                                                                                          |                                 |                                              |
-|                          |                                                |                                                                                                          |                                 | * Intracranial/spinal surgery within 3/12    |
-|                          |                                                |                                                                                                          |                                 |                                              |
-|                          |                                                |                                                                                                          |                                 | Bleeding risk:                               |
-|                          |                                                |                                                                                                          |                                 |                                              |
-|                          |                                                |                                                                                                          |                                 | * Bacterial endocarditis                     |
-|                          |                                                |                                                                                                          |                                 | * Uncontrolled hypertension (>185/110)       |
-|                          |                                                |                                                                                                          |                                 | * Aortic dissection                          |
-|                          |                                                |                                                                                                          |                                 | * UGIB within 21/7                           |
-|                          |                                                |                                                                                                          |                                 | * Major trauma 14/7                          |
-|                          |                                                |                                                                                                          |                                 | * Uncontrolled coagulopathy                  |
-+--------------------------+------------------------------------------------+----------------------------------------------------------------------------------------------------------+---------------------------------+----------------------------------------------+
-| Thrombectomy             | * Early: <6 hours                              | * Earlier is better                                                                                      | * Large vessel occlusion\       | Intracranial:                                |
-|                          | * Extended: <24 hours\                         | * The greater penumbra:core, the better the outcome\                                                     | M1, M2, ICA, basilar.           |                                              |
-|                          | With significant volume of salvageable tissue. | Even a long time from LSW.                                                                               | * "Significant" stroke          | * Completed stroke                           |
-|                          |                                                | * Few trials for basilar strokes due to lack of equipoise driven by real-world benefit                   | * mRS 0-1 at baseline           |                                              |
-|                          |                                                | * Concern about ↑ haemorrhagic transformation at high infarct volumes, although outcome benefit persists |                                 | Procedural:                                  |
-|                          |                                                |                                                                                                          |                                 |                                              |
-|                          |                                                |                                                                                                          |                                 | * Unable to achieve carotid/vertebral access |
-|                          |                                                |                                                                                                          |                                 | * Contrast allergy                           |
-|                          |                                                |                                                                                                          |                                 |                                              |
-|                          |                                                |                                                                                                          |                                 | Bleeding risk:                               |
-|                          |                                                |                                                                                                          |                                 |                                              |
-|                          |                                                |                                                                                                          |                                 | * Uncontrolled coagulopathy                  |
-+--------------------------+------------------------------------------------+----------------------------------------------------------------------------------------------------------+---------------------------------+----------------------------------------------+
-
-Relative contraindications for thrombolysis:
-
-* Rapidly improving symptoms
-* Seizure at time of stroke with residual postictal signs
-* Major surgery in 14 days
-* GI/GU bleeding in 21 days
-* MI in 3 months
-* Pregnancy
-
-### Malignant Middle Cerebral Artery Infarction Syndrome
-
-A massive swelling of the MCA territory driving by a proximal occlusion, leading to mass effect on the contralateral side. MMCAS:
-
-:::column-margin
-![](/resources/mmca-crani.png)
-
-Outcomes at 12 months for patients randomised to decompressive craniectomy or non-surgical treatment for MMCAS ([Vahedi et al, 2007](https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(07)70036-4/fulltext)).
+:::caution
+Thrombolysis (if indicated) should be given as soon as possible after ICH is excluded and hypertension is controlled.
 :::
 
-* Defined by >50% of MCA stroke affecteed on CT
-* Occurs in 1-10% of patients with MCA CVA
-* Has a mortality of 80%
-* **Decompressive craniectomy**\
-Significantly improves survival, but the majority of new survivors are at least moderately-severely disabled.
+: Reperfusion Strategies
+
++--------------------------------+--------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
+| Technique                      | Intravenous thrombolysis                                                                               | Thrombectomy                                                                                             |
++================================+========================================================================================================+==========================================================================================================+
+| **Timing**                     | * Onset <4.5 hours\                                                                                    | * Early: <6 hours\                                                                                       |
+|                                | Earlier is better.                                                                                     | Earlier is better.                                                                                       |
+|                                |                                                                                                        | * Extended: <24 hours\                                                                                   |
+|                                |                                                                                                        | With significant volume of salvageable tissue.                                                           |
++--------------------------------+--------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
+| **Comments**                   | * Alteplase 0.9mg/kg, up to 90mg\                                                                      | * The greater penumbra:core, the better the outcome\                                                     |
+|                                | 10% over 1/60, remainder over 60/60.                                                                   | Even a long time from LSW.                                                                               |
+|                                | * For **wake-up** strokes with **unknown onset**, can be beneficial if <4.5 hours of recognition       | * Few trials for basilar strokes due to lack of equipoise driven by real-world benefit                   |
+|                                | * Risks are significant and should be discussed with the patient and family prior to commencing\       | * Concern about ↑ haemorrhagic transformation at high infarct volumes, although outcome benefit persists |
+|                                | The evidence is controversial and different professional societies disagree. In general, thrombolysis: |                                                                                                          |
+|                                |     * Improves functional outcome\                                                                     |                                                                                                          |
+|                                |         * NNT ~3 to improve mRS by 1                                                                   |                                                                                                          |
+|                                |         * NNT for mRS 0-3: 10                                                                          |                                                                                                          |
+|                                |         * NNT for mRS 0-2: 13                                                                          |                                                                                                          |
+|                                |     * ↑↑ Risk of ICH                                                                                   |                                                                                                          |
+|                                |         * NNH symptomatic ICH 42 (13-119)                                                              |                                                                                                          |
+|                                |         * NNH death 122 (30-830)                                                                       |                                                                                                          |
+|                                |     * Has no mortality benefit                                                                         |                                                                                                          |
++--------------------------------+--------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
+| **Indications**                | * "Significant" stroke\                                                                                | * Large vessel occlusion\                                                                                |
+|                                | Thresholds vary, but NIHSS >~5                                                                         | M1, M2, ICA, basilar.                                                                                    |
+|                                | * mRS 0-1 at baseline                                                                                  | * "Significant" stroke                                                                                   |
+|                                |                                                                                                        | * mRS 0-1 at baseline                                                                                    |
++--------------------------------+--------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
+| **Absolute Contraindications** | **Intracranial**:                                                                                      | **Intracranial**:                                                                                        |
+|                                |                                                                                                        |                                                                                                          |
+|                                | * ICH/SAH                                                                                              | * Completed stroke                                                                                       |
+|                                | * Completed stroke                                                                                     |                                                                                                          |
+|                                |                                                                                                        | **Procedural**:                                                                                          |
+|                                | **Surgical**:                                                                                          |                                                                                                          |
+|                                |                                                                                                        | * Contrast allergy                                                                                       |
+|                                | * Intracranial/spinal surgery within 3/12                                                              | * Unable to achieve carotid/vertebral access                                                             |
+|                                |                                                                                                        |                                                                                                          |
+|                                | **Bleeding Risk**:                                                                                     | **Bleeding risk**:                                                                                       |
+|                                |                                                                                                        |                                                                                                          |
+|                                | * Bacterial endocarditis                                                                               | * Uncontrolled coagulopathy                                                                              |
+|                                | * Uncontrolled hypertension (>185/110)                                                                 |                                                                                                          |
+|                                | * Aortic dissection                                                                                    |                                                                                                          |
+|                                | * UGIB within 21/7                                                                                     |                                                                                                          |
+|                                | * Major trauma within 14/7                                                                             |                                                                                                          |
+|                                | * Uncontrolled coagulopathy                                                                            |                                                                                                          |
++--------------------------------+--------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
+| **Relative Contraindications** | **Neurological**:                                                                                      |                                                                                                          |
+|                                |                                                                                                        |                                                                                                          |
+|                                | * Rapidly improving symptoms                                                                           |                                                                                                          |
+|                                | * Seizure at the time of stroke, with residual post-ictal signs                                        |                                                                                                          |
+|                                |                                                                                                        |                                                                                                          |
+|                                | **Other**:                                                                                             |                                                                                                          |
+|                                |                                                                                                        |                                                                                                          |
+|                                | * Major surgery within 14/7                                                                            |                                                                                                          |
+|                                | * Major GI/GU bleeding within 21/7                                                                     |                                                                                                          |
+|                                | * MI within 3/12                                                                                       |                                                                                                          |
+|                                | * Pregnancy                                                                                            |                                                                                                          |
++--------------------------------+--------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
+
 
 ### Marginal and Ineffective Therapies
 
@@ -585,6 +593,31 @@ Things to consider if the stroke patient deteriorates:
 * Hypoglycaemia
 :::
 
+### Malignant Middle Cerebral Artery Infarction Syndrome
+
+A massive swelling of the MCA territory driving by a proximal occlusion, leading to mass effect on the contralateral side. MMCAS:
+
+:::column-margin
+![](/resources/mmca-crani.png)
+
+Outcomes at 12 months for patients randomised to decompressive craniectomy or non-surgical treatment for MMCAS ([Vahedi et al, 2007](https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(07)70036-4/fulltext)).
+:::
+
+* Defined by >50% of MCA stroke affected on CT
+* Occurs in 1-10% of patients with MCA CVA
+* Has a mortality of 80%
+* **Decompressive craniectomy**\
+Controversial; but appropriate with:
+	* Early (<48 hours) intervention
+	* Young (<60) patient
+	* Multidisciplinary decision
+	* Shared decision making with family, noting:
+		* Significantly ↑ survival
+		* Significantly ↑ survival with disability
+			* Majority of new survivors are at least moderately-severely disabled
+			* Many new survivors will be slight-moderate disability
+
+
 ## Prognosis
 
 Outcome is highly dependent on the particulars of the individual neurology. With this in mind, poor prognostic factors include:
@@ -650,3 +683,4 @@ Degree of disability following stroke is commonly quantified using the **Modifie
 1. Bösel J, Niesen WD, Salih F, et al. [Effect of Early vs Standard Approach to Tracheostomy on Functional Outcome at 6 Months Among Patients With Severe Stroke Receiving Mechanical Ventilation: The SETPOINT2 Randomized Clinical Trial](https://jamanetwork.com/journals/jama/article-abstract/2792016). JAMA. 2022;327(19):1899-1909.
 1. Yoshimura S, Sakai N, Yamagami H, et al. [Endovascular Therapy for Acute Stroke with a Large Ischemic Region](https://www.nejm.org/doi/full/10.1056/NEJMoa2118191). New England Journal of Medicine. 2022;386(14):1303-1313.
 1. Vahedi K, Vicaut E, Mateo J, et al. [Sequential-Design, Multicenter, Randomized, Controlled Trial of Early Decompressive Craniectomy in Malignant Middle Cerebral Artery Infarction (DECIMAL Trial)](https://www.ahajournals.org/doi/10.1161/strokeaha.107.485235). Stroke. 2007;38(9):2506-2517. doi:10.1161/STROKEAHA.107.485235
+1. ACEM. [Position Statement: IV thrombolysis for ischaemic stroke](https://acem.org.au/getmedia/8dca8e1f-4de3-4c28-a2aa-a61400c02650/S129_Statement_on_IV_Thrombolysis_for_Ischaemic_Stroke_v4.aspx). 2021 V5.

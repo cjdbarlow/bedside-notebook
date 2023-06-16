@@ -1,9 +1,58 @@
 # Oxygen Targets
 
+Supplemental oxygen administration is an universal supportive ICU treatment, which:
+
+* **↑ PAO~2~**, and **SpO~2~** in the setting of:
+	* Alveolar hypoventilation
+	* Diffusion limitation
+	* V/Q scatter
+* Causes **absorption atelectasis** and ↑ shunt
+* ↑ Oxygen free radicals, which may precipitate ap
+## Principles
+
+Aim to minimise the harm by balancing concerns of hypoxia and hyperoxia:
+
+* Overly-conservative target
+	* Organ dysfunction
+	* ↑ ICP
+	* ↑ PAP
+* Overly-liberal target
+	* Reperfusion injury
+		* ↑ Infarct size in:
+			* AMI
+			* Stroke
+	* ↓ Seizure threshold
+	* ARDS
+
+
+## Practice
+
+* General ICU
+	* Titrate to SpO~2~ 93-97%\
+	↑ SpO~2~ not helpful, and hides signs of deterioration.
+* Specific populations\
+	* Minimise supplemental oxygen\
+	More conservative approach favoured in groups where ↑ significantly harm with liberal oxygen:
+		* STEMI
+		* Paraquat poisoning
+		* Bleomycin exposure
+	* Targeted or tolerated hyperoxia\
+	Groups where hyperoxia is therapeutic, or any hypoxia may be detrimentaL
+		* CO poisoning
+		* Simple pneumothorax
+		* Severe pulmonary hypertension
+* FiO~2~ challenge\
+A failure to significantly increment SpO~2~ in response to ↑ FiO~2~ is diagnostic of a shunting pathology.
+
+:::column-margin
+Excessive supplemental oxygen may mask deterioration in pulmonary function, as a fall in SpO~2~ will only manifest once the P/F ratio has fallen to a dangerous degree.
+:::
+
+
 ## Key Studies
 
 {{< include /trials/pilot.qmd >}}
-
+{{< include /trials/icu_rox.qmd >}}
 
 
 ---
@@ -11,3 +60,4 @@
 ## References
 
 1. Semler MW, Casey JD, Lloyd BD, et al. [Oxygen-Saturation Targets for Critically Ill Adults Receiving Mechanical Ventilation](https://www.nejm.org/doi/full/10.1056/NEJMoa2208415). New England Journal of Medicine. 2022;387(19):1759-1769. doi:10.1056/NEJMoa2208415
+1. [Conservative Oxygen Therapy during Mechanical Ventilation in the ICU](https://www.nejm.org/doi/10.1056/NEJMoa1903297). N Engl J Med. 2020;382(11):989-998. doi:10.1056/NEJMoa1903297

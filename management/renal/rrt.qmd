@@ -25,6 +25,8 @@ I have elected to use SLED because during renal recovery second-daily (or less) 
 
 ## Comparison of Techniques
 
+: Methods of Renal Replacement
+
 +-----------+------------------------------------------------------+----------------------------------------------------+--------------------------------------------------------------------------------+
 | Technique | Clinical Setting                                     | Advantages                                         | Disadvantages                                                                  |
 +===========+======================================================+====================================================+================================================================================+
@@ -47,8 +49,6 @@ I have elected to use SLED because during renal recovery second-daily (or less) 
 |           | - Austere setting                                    |                                                    | - Hyperglycaemia                                                               |
 |           |                                                      |                                                    | - Respiratory impairment                                                       |
 +-----------+------------------------------------------------------+----------------------------------------------------+--------------------------------------------------------------------------------+
-
-: Methods of Renal Replacement
 
 ---
 

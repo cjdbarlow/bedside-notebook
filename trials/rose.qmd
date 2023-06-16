@@ -7,8 +7,12 @@
 			* Deep sedation
 			* Cisatracurium\
 			15mg bolus then 37.5mg/hr.
+		* Control
+			* Light sedation
+			* 25% received NMBA
 		* Sedation to RASS 0 to -1
 		* Managed with high PEEP
 	* Stopped early for futility
 	* No change in mortality (42.5% vs 42.8%)
 	* Secondary outcomes: ↑ Cardiac SAE in intervention group
+	* 80% of screen patients excluded, with a large number already receiving NMBA

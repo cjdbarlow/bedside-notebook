@@ -96,9 +96,10 @@ book:
         - part: "**Resuscitation**"
           chapters:
           - management/resus/als.qmd
+          - management/resus/oohca.qmd
+          - management/resus/post_resus.qmd
           - management/resus/cals.qmd
           - management/resus/traumatic.qmd
-          - management/resus/oohca.qmd
           # ECPR
           # PALS
           - management/resus/neonatal.qmd
@@ -140,7 +141,11 @@ book:
                 - management/resp/ventilation.qmd
                 - management/resp/niv.qmd
                 - management/resp/dyssynchrony.qmd
+              - part: "Manoeuvres"
+                chapters:
                 - management/resp/weaning.qmd
+                - management/resp/recruitment.qmd
+                - management/resp/proning.qmd
                 - management/resp/olv.qmd
               - part: "Modes"
                 chapters:

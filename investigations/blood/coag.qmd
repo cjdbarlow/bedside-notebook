@@ -203,9 +203,11 @@ Due to the strong evidence supporting use of antifibrinolytics such as TXA in bl
 	* Give an **early** signal of the **presence** of **fibrinolysis**\
 	Otherwise no strong evidence of benefit over traditional haemostatic testing.
 * Disadvantages
-	* Additional training
-	* More expensive than traditional testing, although cheaper than excessive blood product
+	* Additional training required to perform and interpret
+	* More expensive than traditional testing\
+	Cost arguments are made that it saves excessive blood product use.
 	* Results do not translate directly to standard coag assays which are used in most guidelines for monitoring treatment
+	* Unclear what values should be targeted
 * Measure various parameters including:
 	* **R** (Reaction) **time**\
 	Time until initial fibrin formation.

@@ -21,34 +21,79 @@ Exerts pressure on the walls of the vasculature and therefore produces MSFP.
 
 ## Indications
 
+Vasopressors are used:
+
+* To correct **hypotension-induced hypoperfusion**\
+i.e. When there is:
+	* Evidence of ↓ end-organ perfusion
+	* ↓ MAP
+	* Despite adequate volume state
+	* Despite adequate pump function
+* For therapeutic *hyper*tension
+	* TBI
+	* DCI
+	* Spinal cord ischaemia
+
+
+### Blood Pressure Targets
+
+:::info
+This applies to targets in the hypotensive, hypoperfused patient.
+:::
+
+Physiological rationales exist for a variety of targets:
+
+* High MAP targets
+	* ↓ AKI by improving renal perfusion pressure
+	* May ↑ cerebral perfusion and improve neurological outcomes
+	* Provides margin of safety for hypotensive episodes
+	* Lower MAP associated with ↑ mortality
+* Lower MAP targets
+	* ↓ Dose of vasopressors required
+		* ↓ Arrhythmia
+		* ↓ Myocardial work
+		* ↓ ICU length of stay
+		* ↓ Fluids, steroids, etc. administered
+		* Escalating doses may not be met with ↑ pressure, resulting in very high doses used
+
+In general:
+
+* MAP 65-70mmHg is reasonable in most patients in the resuscitation phase
+* Lowering (to MAP 60mmHg) in the elderly to ↓ vasoactive requirements and harm of administration
+* If there is evidence of end-organ perfusion, trial of a vasopressor-driven MAP challenge is reasonable\
+Temporarily ↑ MAP target to evaluate for a given physiological response (e.g. ↑ UO).
+
 ## Contraindications
 
 ## Comparison
 
 : Comparison of Vasopressors
 
-+--------------------+---------------------------------+----------------------------+--------------------------------------+
-| Drug               | Overview                        | Advantages                 | Disadvantages                        |
-+====================+=================================+============================+======================================+
-| **Noradrenaline**  |                                 |                            |                                      |
-|                    |                                 |                            |                                      |
-|                    |                                 |                            |                                      |
-|                    |                                 |                            |                                      |
-|                    |                                 |                            |                                      |
-+--------------------+---------------------------------+----------------------------+--------------------------------------+
-| **Vasopressin**    | Endogenous nonapeptide\         | * Not a catecholamine\     |                                      |
-|                    | Acts on V~1~ and V~2~ receptors | Works synergistically.     |                                      |
-|                    |                                 | * Not affected by acidosis |                                      |
-|                    |                                 | * Not pro-arrhythmic       |                                      |
-|                    |                                 | * Fluid retention          |                                      |
-+--------------------+---------------------------------+----------------------------+--------------------------------------+
-| **Methylene Blue** |                                 |                            | * Mesenteric vasoconstriction        |
-|                    |                                 |                            | * Coronary vasoconstriction\         |
-|                    |                                 |                            | May lead to ischaemia.               |
-|                    |                                 |                            | * MAO Inhibition                     |
-|                    |                                 |                            | * Possibly ↑ microcirculatory change |
-|                    |                                 |                            | * Hyponatraemia                      |
-+--------------------+---------------------------------+----------------------------+--------------------------------------+
++--------------------+---------------------------------+----------------------------+---------------------------------------+
+| Drug               | Overview                        | Advantages                 | Disadvantages                         |
++====================+=================================+============================+=======================================+
+| **Noradrenaline**  |                                 |                            |                                       |
+|                    |                                 |                            |                                       |
+|                    |                                 |                            |                                       |
+|                    |                                 |                            |                                       |
+|                    |                                 |                            |                                       |
++--------------------+---------------------------------+----------------------------+---------------------------------------+
+| **Vasopressin**    | Endogenous nonapeptide\         | * Not a catecholamine\     |                                       |
+|                    | Acts on V~1~ and V~2~ receptors | Works synergistically.     |                                       |
+|                    |                                 | * Not affected by acidosis |                                       |
+|                    |                                 | * Not pro-arrhythmic       |                                       |
+|                    |                                 | * Fluid retention          |                                       |
++--------------------+---------------------------------+----------------------------+---------------------------------------+
+| **Methylene Blue** |                                 | * Effective                | * Mesenteric vasoconstriction         |
+|                    |                                 | * Cheap                    | * Coronary vasoconstriction\          |
+|                    |                                 |                            | May lead to ischaemia.                |
+|                    |                                 |                            | * MAO Inhibition                      |
+|                    |                                 |                            | * Possibly ↑ microcirculatory change  |
+|                    |                                 |                            | * Hyponatraemia                       |
+|                    |                                 |                            | * Contraindicated in G6PD deficiency\ |
+|                    |                                 |                            | Haemolysis.                           |
+|                    |                                 |                            | * Inhibition of SpO~2~ monitoring     |
++--------------------+---------------------------------+----------------------------+---------------------------------------+
 
 
 ## Equipment
@@ -61,6 +106,7 @@ Exerts pressure on the walls of the vasculature and therefore produces MSFP.
 
 **Targets**:
 
+{{< include /trials/andromeda_shock.qmd >}}
 {{< include /trials/65.qmd >}}
 
 

@@ -321,6 +321,12 @@ CRRT is covered in detail under @sec-crrt.
 				* Encephalopathy
 				* Coagulopathy
 			* Toxins
+		* Consider:
+			* Later initiation in single-organ failure as:
+				* We are poor at predicting renal recovery
+				* There is potential harm from unnecessary early RRT
+			* Earlier initiation in multi-organ failure
+				* Optimise volume and physiological state
 		* Aimed at:
 			* Maintaining electrolyte, solute, and acid-base homeostasis
 			* Preventing further renal insult
@@ -413,6 +419,8 @@ Major perioperative considerations:
 
 * AKI is common in ICU patients and a high proportion need CRRT
 * Early dialysis may correct the abnormal metabolic and inflammatory milieu before instability occurs, but ↑ risk of procedural complications from an unnecessary intervention
+{{< include /trials/elain.qmd >}}
+{{< include /trials/akiki.qmd >}}
 {{< include /trials/starrtaki.qmd >}}
 
 **Other**:

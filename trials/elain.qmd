@@ -1,0 +1,12 @@
+* [ELAIN](https://jamanetwork.com/journals/jama/fullarticle/2522434) (2016)
+	* 230 German with KDIGO 2 AKI despite resuscitation and some marker of severity
+	* Single-centre, block randomised RCT
+	* Early (<8 hours of KDIGO 2) vs. delayed (<12 hours of KDIGO 3, or an absolute indication for) RRT
+		* Early RRT\
+		All patients received RRT, median in 6 hours.
+		* Delayed RRT\
+		91% received RRT, median in 25 hours.
+		* All received CVVHDF
+	* ↓ Mortality with early RRT (39.3% vs. 55%)
+	* 47% cardiac surgical population
+	* Only 9% not dialysed in the delayed group, so low risk of inappropriate CRRT wtih early filtration

@@ -1,4 +1,4 @@
-# Acute Respiratory Distress Syndrome
+# Acute Respiratory Distress Syndrome {#sec-ards}
 
 Bilateral diffuse inflammatory lung injury characterised by loss of aerated lung tissue and reduced pulmonary compliance. Various diagnostic criteria exist; the **Berlin Criteria** requires all of:
 
@@ -79,25 +79,20 @@ Principles of management are:
 * Avoidance of further lung injury
 :::
 
-**Resuscitation**:\
-
-
 **Specific therapy**:
 
 * Pharmacological
-    * Neuromuscular blockade\
-    Consider for ventilator dyssynchrony, but no evidence of benefit for routine use.
     * **Dexamethasone**
         * 10mg IV OD
         * Evidence only supportive for infective (pneumonia, sepsis) causes of ARDS
         * Pure glucocorticoid preferable to mineralocorticoid\
         Avoids sodium and water retention.
 * Physical
-    * **Proning**\
-    Significant improvement in hypoxia by:
-        * Recruiting dorsal lung
-        * Improving V/Q matching
+    * **Proning**
 
+:::column-margin
+Proning is a cornerstone of ARDS management, and is covered in detail under @sec-proning.
+:::
 
 **Supportive care**:
 
@@ -128,7 +123,22 @@ Principles of management are:
                 * The plateau pressure is a substitute for the transpulmonary pressure, which reflects the actual elastic distending pressure of the lung
                     * Measurement of the transpulmonary pressure can be performed with an oesophageal balloon, which allows the chest wall and lung elastance to be separated (rather than measuring the elastance of the respiratory system as a whole)
                 * This may be still be excessive (or inadequate) in patients at extremes of chest wall elastance
-    * VV ECMO
+    * **Neuromuscular blockade**
+        * No evidence of benefit for routine use
+        * Appropriate for:
+            * Ventilator dyssynchrony despite deep sedation
+            * Very poor lung compliance preventing lung protective ventilation
+        * Advantages
+            * ↓ PTHx rate
+            * Predicate of proning
+        * Disadvantages
+            * Requires deep sedation
+            * ↑ Haemodynamic instability
+    * **iNO**\
+    Appropriate to trial for hypoxaemia refractory to tranditional ventilation, for:
+        * Short periods
+        * As a bridge to proning or ECMO
+    * **VV ECMO**
 * E
     * Early mobilisation 
 * G
@@ -156,6 +166,10 @@ In theory, recruitment manoeuvres improve oxygenation by ↑ number of ventilate
     Predominantly early ARDS with a lower baseline PEEP.
     * Haemodynamic instability may occur due to large changes in VR
 
+:::column-margin
+Recruitment manoeuvres are covered in more detail under @sec-recruit.
+:::
+
 ## Anaesthetic Considerations
 
 ## Complications
@@ -180,6 +194,11 @@ Pulmonary function tests normalise in 6-12 months.
 
 ## Key Studies
 
+**Lung Protective Ventilation**:
+
+{{< include /trials/arma.qmd >}}
+
+
 **Open Lung Approach**:
 
 * Combination of high PEEP and recruitment manoeuvres to prevent alveolar collapse, and thereby:
@@ -192,6 +211,8 @@ Pulmonary function tests normalise in 6-12 months.
 
 **Muscle Relaxation**:
 
+* Lung protective ventilation aims to ↓ VILI by ↓ barotrauma and Pip
+* NMBA bypass any ventilator dyssynchrony and may improve chest wall compliance
 {{< include /trials/acurasys.qmd >}}
 {{< include /trials/rose.qmd >}}
 
@@ -199,7 +220,6 @@ Pulmonary function tests normalise in 6-12 months.
 **Other**:
 
 {{< include /trials/proseva.qmd >}}
-{{< include /trials/arma.qmd >}}
 {{< include /trials/dexa_ards.qmd >}}
 
 

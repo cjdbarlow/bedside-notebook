@@ -176,9 +176,10 @@ Consider continuous EEG monitoring in patients who
 	* **Tranexamic acid**\
 	For up to 72 hours prior to aneurysm repair to ↓ risk of rebleeding.
 	* **Nimodipine**
-		* 60mg Q4H PO\
-		Can adjust to 30mg Q2H PO if symptomatic hypotension.
-			* Commonly requires vasopressors
+		* 60mg Q4H PO
+			* Can adjust to 30mg Q2H PO if symptomatic hypotension
+			* Can adjust to continuous infusion (up to 0.5μg/kg/min) if enteral route unavailable
+		* Commonly requires vasopressors
 		* Administered to all SAH patients for **21 days**
 		* Significantly improves outcome (↓ stroke by 34%) but does not appear to reduce radiological vasospasm\
 		Neuroprotection probably by another mechanism.

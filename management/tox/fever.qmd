@@ -34,7 +34,7 @@ Fever and hyperthermia are often used synonymously clinically and in the literat
 
 ## Fever
 
-Fever is a basic and adaptive evolutionary response to infection, but may be maladaptive in certain disease processes. Fever:
+Fever is a basic, adaptive evolutionary response to infection, but may be maladaptive in certain disease processes. Fever:
 
 :::column-margin
 10% of septic patients are hypothermic and 35% are normothermic at presentation, and those that do not become febrile have a higher mortality than those who develop fever.
@@ -48,6 +48,7 @@ This pattern is generally unhelpful diagnostically due to wide variability, howe
 * Associated with rigors\
 Rigors are also associated with bacteraemia.
 
+: Causes of Fever
 
 +----------------------------+------------------------------+------------------------------------------------------------------------------------------------------+
 | System                     | Infectious                   | Non-Infectious                                                                                       |
@@ -105,9 +106,6 @@ Rigors are also associated with bacteraemia.
 |                            |                              | * IV contrast                                                                                        |
 +----------------------------+------------------------------+------------------------------------------------------------------------------------------------------+
 
-: Causes of Fever
-
-
 ## Non-Febrile Hyperthermia
 
 Non-febrile hyperthermia:
@@ -116,6 +114,8 @@ Non-febrile hyperthermia:
 * **Not affected** by **antipyretics**\
 Aspirin, paracetamol.
 * **Active cooling not opposed** by shivering, rigors
+
+: Causes of Non-Febrile Hyperthermia
 
 +-----------------+--------------------------+
 | System          | Cause                    |
@@ -129,8 +129,20 @@ Aspirin, paracetamol.
 |                 |                          |
 +-----------------+--------------------------+
 
-: Causes of Non-Febrile Hyperthermia
+## Pathophysiology
 
+Fever is assocaited with:
+
+* ↑ Metabolic rate
+	* ↑ Myocardial work
+* ↓ Immune function (at high levels)
+
+
+Suppression of fever is associated with:
+
+* ↑ Bacterial growth
+* ↑ Viral replication/shedding
+* ↑ Duration of illness
 
 ## Investigation
 
@@ -179,13 +191,26 @@ Generally avoid unless:
 
 ## Management
 
+:::column-margin
+This applies to the management of fever in the general ICu patient, **more aggressive** temperature **control** is **required** for patients **post-arrest** or with **hyperthermic emergencies**.
+:::
+
+:::column-margin
+Post resuscitation care is covered under @sec-post_resus. Key hyperthermic emergencies are covered under @sec-heat_inj, @sec-serotonin, @sec-nms, and @sec-mh.
+:::
+
 **Specific therapy**:
+
+:::column-margin
+Treating with paracetamol at 39.5°C provides some leeway before the more important 40°C point is reached.
+:::
 
 * Pharmacological
 	* Antipyretics\
 	Treatment of ↑ temperature is generally not indicated unless:
 		* Neurological injury
-		* Fever >40°C
+			* Post-cardiac arrest
+		* Fever >39.5°C
 		* Worsening another clinical condition
 			* Delirium
 			* Myocardial ischaemia
@@ -200,6 +225,8 @@ Generally avoid unless:
 	Febrile patients may require paralysis to limit shivering with active cooling.
 
 :::column-margin
+: Comparison of Cooling Therapies
+
 +-----------------+------------------------------+------------------------+
 | Class           | Method                       | Rate of Change (°C/hr) |
 +=================+==============================+========================+
@@ -222,10 +249,12 @@ Generally avoid unless:
 |                 +------------------------------+------------------------+
 |                 | RRT                          | 10                     |
 +-----------------+------------------------------+------------------------+
-
-: Comparison of Cooling Therapies
 :::
 
+
+## Key Studies
+
+{{< include /trials/heat.qmd >}}
 
 ---
 

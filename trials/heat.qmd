@@ -1,0 +1,12 @@
+* [HEAT](http://www.nejm.org/doi/full/10.1056/NEJMoa1508375) (2015)
+	* 700 Australasian non-pregnant adult ICU patients >38°C within 12 hours with suspected infection, on antibiotics, who did not have an acute brain disorder, were receiving TTM for cardiac arrest, or had a contraindication to paracetamol
+	* Multicentre (23), block-randomised, double-blind trial
+	* 700 patients gives 80% power for ARR of 2.2 ICU-free days
+	* Paracetamol vs. placebo
+		* Paracetamol 1g IV Q6H
+		* Placebo
+		* Continued for 28 days, discharge from ICU, cessation of antibiotics, or resolution of fever
+		* Rescue physical cooling permitted if >39.5°C
+	* No change in ICU-free days (23 vs. 22)
+	* Survivors had a lower ICU length of stay with paracetamol (3.5 vs. 4.3 days)
+	* Paracetamol group had a marginally lower peak and mean body temperature

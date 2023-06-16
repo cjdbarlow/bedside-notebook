@@ -2,4 +2,7 @@
 	* ~10,00 women with pre-eclampsia, pre- or <24 hours post-partum, without contraindication to magnesium
 	* Multi-centre, double-blind, RCT
 	* Magnesium sulfate vs. placebo
-	* 58% ↓ in progression to eclampsia (in women with pre-eclampsia) in magnesium group
+	* Significantly ↓ eclampsia in magnesium group (0.8% vs. 1.9%, 58% RRR, NNT 91)
+	* No change in maternal mortality (0.2% vs. 0.4%)
+	* No change in foetal mortality\
+	Obviously only for the pre-partum cohort.

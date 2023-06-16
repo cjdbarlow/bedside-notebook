@@ -1,0 +1,11 @@
+* [ICU-ROX](https://www.nejm.org/doi/10.1056/NEJMoa1903297) (2019)
+	* 965 Australasian adults <2 hours from ventilation, expected to be ventilated for over 1 day
+	* Allocation concealed, unblinded, multicentre (21), RCT
+	* Conservative vs. usual oxygen
+		* Conservative\
+		SpO~2~ titrated to 91-96% using lowest possible FiO~2~.
+		* Usual\
+		SpO~2~ titrated >90% with no upper limit, discouraging FiO~2~ <0.3.
+	* No difference in 28 day ventilator-free days
+	* No difference in secondary outcomes
+	* Small differences between groups in actual oxygen received
