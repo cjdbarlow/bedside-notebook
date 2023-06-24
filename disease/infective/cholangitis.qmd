@@ -1,0 +1,215 @@
+# Acute Cholangitis
+
+:::info
+Acute cholangitis is also known as ascending cholangitis.
+:::
+
+Potentially life-threatening system bacterial infection of the biliary tree that occurs secondary to biliary obstruction, and is classified by clinical severity into:
+
+
+* Mild: **Grade I**\
+Responsive to treatment.
+* Moderate: **Grade II**\
+Unresponsive to treatment, without organ dysfunction.
+	* ERCP within 48 hours
+* Severe: **Grade III**\
+Unresponsive to treatment with organ dysfunction.
+	* ERCP within 24 hours
+
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+Biliary obstruction leads to a cascade of:
+
+* ↑ Intra-biliary pressure
+* Cholangiovenous and cholangiolymphatic reflux
+* Translocation of duodenal pathogens into he biliary tree
+
+
+
+### Aetiology
+
+Obstruction may be due to:
+
+* Biliary stones
+* Occlusion of pevious stents
+* Contrast reflux
+* Duct stenosis
+	* Malignant
+	* Post-anastomotic\
+	Following liver transplant.
+	* Post-sphincterotomy\
+	After previous cholangitis.
+	* Spontaneous
+* Parasite organisms
+
+
+Infection is often polymicrobial, and causes include:
+
+* Gram positive cocci
+	* *Streptococcus* spp.
+	* *Enterococcus* spp.
+* Gram negative rods
+	* *E. coli*
+	* *Klebsiella* spp.
+	* *Pseudomonas* spp.
+	* *Enterobacter* spp.
+
+
+* Tropical parasites
+	* *Clonorchis sinensis*
+	* *Opisthorchis* spp.
+
+## Clinical Features
+
+Features include:
+
+* SIRS
+* Biliary obstruction
+	* Fever
+	* Biliary colic\
+	Pain that is:
+		* Steady\
+		i.e. Not "colicky".
+		* Severe
+		* Localised to the RUQ
+		* Associated with N/V
+		* Following a large, fatty meal
+* Rigidity and guarding in ~30%
+
+:::column-margin
+The *classical* features of Charcot's triad occur in 43% of cases, and include:
+
+* Fever
+* Abdominal pain
+* Jaundice
+:::
+
+## Assessment
+
+**History**:
+
+**Exam**:
+
+### Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+* Blood
+	* Inflammatory markers
+		* CRP
+		* WCC
+	* LFT
+	* Amylase and lipase\
+	For concurrent pancreatitis.
+	* Coag
+		* DIC
+		* Procedural
+	* UEC
+		* AKI
+	* Cultures\
+	Often of limited utility due to isolated and polymicrobial infection.
+
+
+**Imaging**:
+
+* Ultrasound
+	* Non-invasive
+	* Excellent detection of duct dilation
+* CT
+* MRCP\
+Greater sensitivity for:
+	* Non-calcified biliary obstruction
+	* Malignant obstruction
+
+**Other**:
+
+### Diagnostic Approach and DDx
+
+Diagnosis requires ⩾2 of:
+
+* Systemic inflammation
+	* Fever/chills
+	* Laboratory signs of inflammation
+* Cholestasis
+	* Jaundice
+	* Abnormal LFTs\
+	Any derangement meets criteria, an obstructive pattern is not required.
+* Imaging
+	* Biliary dilatation
+	* Cause identified\
+	e.g. Stone seen.
+
+
+Differential diagnoses include:
+
+* Infective
+	* Cholecystitis
+	* RLL pneumonia
+	* Pancreatitis
+	* Hepatic abscess
+* Non-infective
+	* Biliary malignancy
+
+
+## Management
+
+:::priority
+* Standard **sepsis management**\
+Covered under @sec-sepsis_mx.
+* Intra-abdominal **antibiotic** cover
+* Relief of obstruction
+:::
+
+**Resuscitation**:
+
+**Specific therapy**:
+
+:::column-margin
+70-80% of patients will respond to antibiotics alone. Broad coverage (Gram positive, Gram negative, and anaerobes) is required due to the diversity of the possible causative pathogen.
+:::
+
+* Pharmacological
+	* Antibiotics\
+		* Tazocin
+		* Meropenem
+* Procedural\
+Relief of biliary obstruction and drainage of infected bile with:
+	* ERCP
+		* Treatment of choice
+		 * Sphincterotomy
+		 * STone removal
+	* Cholecystectomy
+		* Biliary stenting
+	* Percutaneous Transhepatic Cholangiography
+		* Balloon dilatation
+		* Stenting
+	* Percutaneous cholecystotomy
+
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References

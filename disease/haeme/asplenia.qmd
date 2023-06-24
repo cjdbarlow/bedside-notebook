@@ -1,0 +1,126 @@
+# Asplenia
+
+Asplenia is the physiological absence of splenic function which causes a degree of immunocompromise, most importantly a **vulnerability** to **encapsulated organisms**.
+
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+Key splenic functions (which are lost) include:
+
+* Blood filtration\
+Exposure of blood to large numbers of phagocytes permits destruction of:
+	* Opsonised bacteria\
+	Can also occur in the liver.
+	* Poorly-opsonised bacteria\
+	Bacteria not susceptible to complement binding are removed in the spleen.
+* IgM memory B-cell maintenance\
+Significant ↓ in number following splenectomy.
+* Antibody production
+* Complement production
+* Haematopoiesis\
+Site of extramedullary haematopoiesis, which is important in infancy and in bone marrow failure.
+* Erythrocyte storage\
+Provides a reserve of red cells that can be recruited into the circulation during exercise or shock.
+
+:::column-margin
+{{< include /includes/encapsulated.qmd >}}
+:::
+
+### Aetiology
+
+Causes include:
+
+* **Congenital absence**
+* **Functional asplenism**
+	* Sickle cell disease
+	* Inflammatory bowel disease
+	* Portal hypertensive
+	* Various rheumatological diseases, including:
+		* RA
+		* SLE
+	* Various connective tissue diseases, including:
+		* Amyloidosis
+		* Sarcoid
+	* Infection
+		* HIV
+		* Bartonella
+* Iatrogenic **splenectomy**\
+Reasons for this include:
+	* Trauma\
+	Spleen preservation is now emphasised, and resection only occurs in the case of severe vascular disruption.
+	* Infarction
+	* Haematological disease
+		* ITP
+		* Thalassaemia
+	* Surgical misadventure
+
+:::column-margin
+Splenic remnants may survive in the peritoneum (splenosis), and maintain reasonably normal splenic function.
+:::
+
+## Clinical Features
+
+## Assessment
+
+**History**:
+
+**Exam**:
+
+### Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+**Imaging**:
+
+**Other**:
+
+### Diagnostic Approach and DDx
+
+
+## Management
+
+:::priority
+Goals of management
+:::
+
+**Resuscitation**:
+
+**Specific therapy**:
+
+* Pharmacological
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+* I
+	* Infection\
+	↑ Risk (magnitude appears controversial) of:
+		* Infection and sepsis
+		* Severity of infection
+		* Speed of progression of infection
+
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References

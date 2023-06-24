@@ -12,6 +12,8 @@ Notably:
 
 ## Epidemiology and Risk Factors
 
+: Risk Factors for Acalculous Cholecystitis
+
 +-----------+--------------------+---------------------------+
 | Category  | Strong             | Weak                      |
 +===========+====================+===========================+
@@ -27,9 +29,6 @@ Notably:
 +-----------+--------------------+---------------------------+
 | Other     | * Fasting          | * Prolonged hospital stay |
 +-----------+--------------------+---------------------------+
-
-: Risk Factors for Acalculous Cholecystitis
-
 
 ## Pathophysiology
 

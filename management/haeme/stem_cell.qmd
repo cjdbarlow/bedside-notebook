@@ -18,6 +18,7 @@ Infusion of donor stem cells.
 	* Mortality higher than autologous transplant
 	* Risk of both GvHD and graft failure
 
+
 ## Indications
 
 Include:
@@ -47,13 +48,10 @@ Include:
 
 ## Contraindications
 
-## Anatomy
 
-## Equipment
+## Principles
 
-## Technique
-
-Transplantation occurs in two phases:
+Transplantation can be divided into **four phases**:
 
 1. **Myeloablation**\
 Destruction of all haematopoietic cells, aimed to kill all tumour cells.
@@ -62,28 +60,65 @@ Destruction of all haematopoietic cells, aimed to kill all tumour cells.
 		* Total body irradiation
 	* Reduced intensity options exist for older or frailer patients\
 	Provide enough immunosuppression to permit engraftment.
-2. Infusion of new cells\
-Either autologous or allogeneic. The time after infusion is broken down into:
-	* **Pre-engraftment**\
-	Time between infusion and when stem cells begun haematopoiesis.
-		* Usually lasts <30 days
-		* Profound neutropenia and susceptibility to bacterial infections\
-		Gram positive infections predominate due to the wide variety of Gram negative-covering antibiotics available.
-		* Most ICU admissions occur during this phase
-	* **Early post-engraftment**\
-	Time from recovery of cell counts.
-		* Classically day 30-100
-		* Impaired cell-mediated immunity
-		* Vulnerability persists to:
-			* Viral infections
-				* CMV\
-				Prophylactic ganciclovir used for CMV positive recipients, or with positive donors.
-			* Fungal infections
-				* *Candida* spp.
-				* PJP
-				* *Aspergillus* spp.
-	* **Late post-engraftment**\
-	Indefinite period that consists of impaired cell mediated and humoral immunity.
+	* Impaired cellular and humoral immunity\
+	Degree depends on the intensity of myeloablation and the primary pathology.
+	* Common infections include:
+		* Gram negative
+		* Pneumonia
+		* Systemic sepsis
+
+:::column-margin
+Infusion of new cells (autologous or allogeneic) occurs after myeloablation, and signals the start of the pre-engraftment period.
+:::
+
+2. **Pre-engraftment**\
+Time between infusion and when stem cells begun haematopoiesis.
+	* Usually lasts <30 days
+	* Profound neutropenia and susceptibility to bacterial infections\
+		* Gram positive infections predominate\
+		Due to the wide variety of Gram negative-covering antibiotics available.
+		* Fungal infections
+			* Candida
+		* Neutropenic enterocolitis
+		* HSV
+	* Most ICU admissions occur during this phase
+3. **Early post-engraftment**\
+Time from recovery of cell counts.
+	* Classically day 30-100
+	* Cell mediate immunity partially recovers, humoral immunity remains impaired
+	* Vulnerability persists to:
+		* Viral infections
+			* CMV\
+			Prophylactic ganciclovir used for CMV positive recipients, or with positive donors.
+			* HSV
+			* Viral pneumonias
+		* Fungal infections
+			* *Candida* spp.
+			* PJP
+			* *Aspergillus* spp.
+4. **Late post-engraftment**\
+Indefinite period that consists of some degree of impaired cell mediated and humoral immunity.
+	* Viral infections
+	* Encapsulated organism infections\
+	Meningococcal and streptococcal vaccination required.
+
+:::column-margin
+{{< include /includes/encapsulated.qmd >}}
+:::
+
+## Practice
+
+Management depends on the stage of therapy:
+
+1. Myeloablation
+2. Pre-engraftment
+	* Acyclovir\
+	Continue until resolution of mucositis.
+	* Prophylactic trimethoprim
+3. Early post-engraftment
+	* 
+4. Late post-engraftment
+
 
 
 ## Complications
@@ -146,6 +181,7 @@ Either autologous or allogeneic. The time after infusion is broken down into:
 		* Management with steroids and supportive care
 	* **Infection**\
 	Highest risk in the pre-engraftment, followed by early post-engraftment phase.
+		* Almost any pathogen can cause significant disease in the immunocompromised host
 	* **GvHD**
 
 :::column-margin
@@ -154,6 +190,10 @@ TTP (and other microangiopathies) is covered under @sec-ttp.
 
 :::column-margin
 GvHD is covered in detail under @sec-gvhd.
+:::
+
+:::column-margin
+{{< include /includes/febrile_neutropaenia.qmd >}}
 :::
 
 ---

@@ -15,6 +15,9 @@ Sepsis, with:
 	* ↓ BP requiring vasopressors
 	* Lactate >2mmol/L
 
+:::column-margin
+Management of febrile neutropaenia and neutropaenic sepsis is covered under @sec-febrile_neut.
+:::
 
 ## Epidemiology and Risk Factors
 
@@ -107,6 +110,48 @@ Organisms most commonly associated with sepsis include:
 	20%.
 * Fungi
 
+: Source of Infection
+
++------------------------------------------------------------------------------------+------------------+-------------------------------------+
+| Organ System                                                                       | Common           | Uncommon                            |
++====================================================================================+==================+=====================================+
+| **Respiratory**                                                                    | * Pneumonia      |                                     |
+|                                                                                    | * *Dental*       |                                     |
+|                                                                                    | * *Sinusitis*    |                                     |
++------------------------------------------------------------------------------------+------------------+-------------------------------------+
+| **Cardiovascular**                                                                 | * Bloodstream    | * Endocarditis                      |
+|                                                                                    | * Lines          |     * Prosthetic valves             |
+|                                                                                    |     * CLABSI     |                                     |
+|                                                                                    |                  |                                     |
++------------------------------------------------------------------------------------+------------------+-------------------------------------+
+| **Neurological**                                                                   |                  | * Meningitis                        |
+|                                                                                    |                  | * *Discitis*                        |
+|                                                                                    |                  | * *Epidural abscess*                |
+|                                                                                    |                  | * *V-P shunt*                       |
++------------------------------------------------------------------------------------+------------------+-------------------------------------+
+| **Genitourinary**                                                                  | * UTI            | * Pyelonephritis                    |
+|                                                                                    | * CAUTI          | * Endometritis                      |
+|                                                                                    | * PID            | * *Prostatitis*                     |
++------------------------------------------------------------------------------------+------------------+-------------------------------------+
+| **Gastrointestinal**                                                               | * Cholecystitis  | * Spontaneous Bacterial Peritonitis |
+|                                                                                    | * Cholangitis    | * Polymicrobial peritonitis         |
+|                                                                                    | * Pancreatitis   | * Infective colitis                 |
+|                                                                                    | * Diverticulitis |     * *C. difficile*                |
++------------------------------------------------------------------------------------+------------------+-------------------------------------+
+| **Integumentary**                                                                  | * Cellulitis     | * Septic arthritis                  |
+|                                                                                    |                  | * Osteomyelitis                     |
+|                                                                                    |                  | * Prosthetic joints                 |
+|                                                                                    |                  | * *Psoas abscess*                   |
+|                                                                                    |                  | * Necrotising fasciitis             |
++------------------------------------------------------------------------------------+------------------+-------------------------------------+
+| **Notes**:                                                                                                                                  |
+|                                                                                                                                             |
+| * Classified by relative incidence in each category, rather than overall incidence                                                          |
+| * Sources of potentially *occult* infection are *italicised*                                                                                |
++---------------------------------------------------------------------------------------------------------------------------------------------+
+
+
+
 ## Clinical Manifestations
 
 Heterogenous and non-specific features:
@@ -121,6 +166,7 @@ Heterogenous and non-specific features:
 			* Elderly
 			* Immunosuppressed
 			* Malnourished
+
 
 ## Diagnostic Approach and DDx
 
@@ -185,7 +231,6 @@ The qSOFA is a quick screening tool to identify patients who should be *consider
 ## Management {#sec-sepsis_mx}
 
 :::priority
-
 * Early **antibiotics** (**<1 hour**) with **blood cultures** (2-3 sets) **prior**
 * Determine haemodynamic goals and target with:
 	* **Fluids**
@@ -344,9 +389,14 @@ Complications of sepsis include:
 * C
 	* Septic cardiomyopathy
 * D
-	* Septic encephalopathy\
+	* **Septic encephalopathy**\
 	Impaired mental function in the setting of extracranial infection.
-		* 10-80%
+		* 10-80% of septic cases
+		* ↑ Mortality associated with ↓ GCS
+		* Potential contributors include:
+			* Bacterial endotoxin
+			* Cytokine release
+			* Haemodynamic collapse
 * F
 	* AKI
 

@@ -250,11 +250,12 @@ book:
             chapters:
             - management/haeme/anticoag.qmd
             - management/haeme/antiplatelets.qmd
-          - part: "Immunotherapy"
+          - part: "Immunological"
             chapters:
             - management/haeme/ivig.qmd
             - management/haeme/plasmapheresis.qmd
             - management/haeme/stem_cell.qmd
+            - management/haeme/febrile_neut.qmd
         - part: "Trauma"
           chapters:
           - management/trauma/primary.qmd
@@ -272,6 +273,13 @@ book:
               - management/infective/principles.qmd
               - management/infective/antibiotics.qmd
               - management/infective/antifungals.qmd
+            - part: "Pathogens"
+              chapters:
+              - management/infective/staph.qmd
+              - management/infective/strep.qmd
+            - part: "Scenarios"
+              chapters:
+              - management/infective/needlestick.qmd
         - part: "Toxin and Environmental"
           chapters:
           - management/tox/poison.qmd
@@ -579,6 +587,7 @@ book:
           - disease/resp/ards.qmd
           - disease/infective/cap.qmd
           - disease/infective/hap.qmd
+          - disease/infective/persistent_pneumonia.qmd
           - disease/infective/pjp.qmd
             # ILD
             # Aspiration pneumonitis
@@ -586,6 +595,7 @@ book:
           chapters:
           - disease/resp/pthx.qmd
           - disease/resp/haemothorax.qmd
+          - disease/infective/empyema.qmd
             # Effusion
         # - part: "Chest wall"
         #   chapters:
@@ -776,6 +786,7 @@ book:
           - disease/git/acute_panc.qmd
           - disease/git/acalculous_cholecystitis.qmd
             # Calculus cholecystitis
+          - disease/infective/cholangitis.qmd
             # Pancreatic
         - part: "Gut"
           chapters:
@@ -814,33 +825,32 @@ book:
           - disease/haeme/purpura_fulminans.qmd
           - disease/haeme/hitt.qmd
           - disease/haeme/vwd.qmd
+          - disease/haeme/itp.qmd
           - disease/haeme/microangiopathies.qmd
-        # Rheumatology, Immunology, and Dermatology
+      # Rheumatology, Immunology, and Dermatology
       - part: "Immunology"
         chapters:
         - part: "Acute Reactions"
           chapters:
           - disease/immune/anaphylaxis.qmd
           - disease/immune/mods.qmd
-          # Tranfusion reactions
           # TENS/SJS
-        - part: "Autoimmune"
+        - part: "Immunomodulatory"
           chapters:
-          - disease/immune/ra.qmd
-          - disease/immune/itp.qmd
           - disease/immune/iris.qmd
           - disease/immune/gvhd.qmd
+        - part: "Rheumatology"
+          chapters:
+          - disease/immune/ra.qmd
+          - disease/immune/scleroderma.qmd
+          - disease/immune/sarcoid.qmd
           # SLE
           # PAM
           # PMR
-        # - part: "Vasculitis"
-        #   chapters:
-        - part: "Connective Tissue"
-          chapters:
-          - disease/immune/scleroderma.qmd
-          - disease/immune/sarcoid.qmd
           # CREST
           # Marfans
+        # - part: "Vasculitis"
+        #   chapters:
         # Trauma
       - part: "Trauma"
         chapters:
@@ -895,8 +905,6 @@ book:
           - disease/infective/dengue.qmd
         - part: "Bacterial"
           chapters:
-          - disease/infective/staph.qmd
-          - disease/infective/strep.qmd
           - disease/infective/tb.qmd
           - disease/infective/leptospirosis.qmd
         - part: "Fungal"

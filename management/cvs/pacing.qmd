@@ -263,9 +263,13 @@ Rapid atrial pacing is also known as **atrial overdrive pacing**.
 
 Steps:
 
+* Ensure accurate invasive arterial monitoring
 * Apply defibrillation pads\
 In case of precipitation of a malignant arrhythmia.
-* Activate rapid atrial pacing for periods up to 20s, in order to capture the atria
+* Stages:
+	1. Set rapid atrial pacing rate ~20bpm below the flutter rate
+	2. Commence rapid atrial pacing, ↑ rate as you do so until at 20-30bpm above the flutter rate\
+	Trial for periods up to 20s.
 * If effective, SR should be restored following the rapid pacing period
 
 

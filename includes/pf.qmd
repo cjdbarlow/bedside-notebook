@@ -1,0 +1,11 @@
+The PaO~2~:FiO~2~ (P:F) and SpO~2~:FiO~2~ and (S:F) ratios quantify the degree of hypoxia relative to the degree of oxygen supplementation.\
+\
+They are calculated as:
+
+* $P/F = {PaO_2 \over FiO_2}$
+* $S/F = {SpO_2 \over FiO_2} \times 1000$
+
+Where:
+
+* $PaO_2$ is in mmHg
+* $FiO_2$ is a decimal (0-1)

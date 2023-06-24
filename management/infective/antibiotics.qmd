@@ -6,6 +6,7 @@ This covers:
 * Drugs
 * Principles of dose-adjustment
 
+
 ## Concepts
 
 Key concepts in antibiotic prescription:
@@ -161,10 +162,17 @@ Antibiotic treatment failure may occur due to:
 |                     | * **Poor distribution into tissues**\                                              |                                                                |
 |                     | Less effective in solid organ infections, ↑↑ V~D~ with extravascular fluid shifts. |                                                                |
 +---------------------+------------------------------------------------------------------------------------+----------------------------------------------------------------+
+| **Linezolid**       | * No drug monitoring                                                               | * No dose adjustment required in renal failure                 |
+|                     | * Good tissue penetration                                                          |                                                                |
+|                     | * Drug interactions                                                                |                                                                |
+|                     |     * Serotonin syndrome                                                           |                                                                |
+|                     | * Thrombocytopaenia                                                                |                                                                |
++---------------------+------------------------------------------------------------------------------------+----------------------------------------------------------------+
 
 :::column-margin
 Carbapenems are also β-lactams, but have been separated here due to different pharmacokinetic properties.
 :::
+
 
 ## Dose Adjustment
 

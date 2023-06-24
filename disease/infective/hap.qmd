@@ -104,7 +104,14 @@ Radiology:
 
 ## Management
 
-**Resuscitation**:\
+:::priority
+* Standard sepsis management\
+Covered under @sec-sepsis_mx.
+* Respiratory support
+* Early antimicrobials
+:::
+
+**Resuscitation**:
 
 * A
     * Intubation may be required
@@ -191,21 +198,7 @@ Risk factors for MDR include:
 
 ## Complications
 
-* Death\
-Attributable mortality is low.
-* ↑ Ventilator days and ICU length of stay
-* Parapneumonic effusion
-    * Uncomplicated effusions resolve with resolution of the underlying infection
-    * Complex effusions:
-        * Develop 1-2 weeks after the initial fluid collection
-        * May occur with persistent fevers and have organisms on Gram stain\
-        Essentially empyema-lite.
-* Empyema\
-Collection of pus in the pleural space, usually evolving from a parapneumonic effusion. Antibiotics are adjunctive, and these require drainage either:
-    * Percutaneous\
-    First-line therapy, but difficult to effectively drain extensively loculated collections.
-    * Surgical\
-    Open or VATS drainage is the most effective tool.
+{{< include /includes/pneumonia_complications.qmd >}}
 
 ## Prognosis
 

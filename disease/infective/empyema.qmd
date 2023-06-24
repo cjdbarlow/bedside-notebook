@@ -1,0 +1,145 @@
+# Empyema {#sec-empyema}
+
+Collection of pus in the pleural space, usually evolving from a parapneumonic effusion. These progress in three phases:
+
+:::column-margin
+*Technically*, an empyema is a collection of pus in *any* space, but the generic, unqualified empyema refers to an infected pleural collection.
+:::
+
+0. **Uncomplicated parapneumonic effusion**\
+Exudate without neutrophils:
+   * Common
+   * Resolves with resolution of pneumonia, very few will require drainage
+
+:::column-margin
+An uncomplicated parapneumonic effusion is not infected and therefore not an empyema, but provides a foundation for an up-and-coming infective collection.
+:::
+
+1. **Uncomplicated exudative effusion**\
+Exudate with neutrophils, i.e. pus.
+2. **Complicated exudative effusion**\
+Exudate with neutrophils and organisms present.
+3. **Loculated collection**\
+Infected, walled-off collections limit amenability of percutaneous drainage.
+
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Features
+
+## Assessment
+
+**History**:
+
+**Exam**:
+
+### Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+* Pleural fluid
+   * Gram stain
+   * Culture
+
+**Imaging**:
+
+* Lung ultrasound
+   * Loculations
+   * Thickened pleura
+* Contrast CT
+   * Loculations
+   * Enhancing pleura
+
+
+**Other**:
+
+### Diagnostic Approach and DDx
+
+
+## Management
+
+:::priority
+* Standard **sepsis management**\
+Covered under @sec-sepsis_mx.
+* Procedural **drainage**
+* Adjunctive **antibiotics**
+:::
+
+
+**Resuscitation**:
+
+**Specific therapy**:
+
+* Pharmacological
+   * Antibiotics
+      * Prolonged therapy (2-6 weeks) generally required
+      * Treatment identical to the the causative pneumonia, with consideration for tissue penetration
+* Procedural
+* Physical
+   * Drainage\
+       * Percutaneous\
+      First-line therapy. Options (in ascending order of invasiveness), include:
+         * **Thoracocentesis**\
+         In-and-out drainage of a collection.
+            * Avoids prolonged drain and risk of discomfort and infection
+            * Recollection may occur
+            * Most appropriate for uncomplicated effusions causing respiratory impairment
+         * **Fine-bore drain**\
+         Seldinger placement of a small (10-14Fr) catheter.
+            * Well tolerated
+            * Bedside procedure
+            * Definitive in most unloculated collections
+            * May become blocked
+            * May become dislodged
+         * Radiological drainage
+            * Guided drainage of loculated collections
+            * May require multiple drains
+         * **Wide-bore drain**\
+         Placement of a wide-bore ICC via thoracostomy.
+            * Bedside procedure
+            * Provide option of digital decortication during placement\
+            Breaking septa of loculated collections with finger.
+            * Less well tolerated compared to fine-bore drains
+            * Not substantially more effective than fine-bore drains
+      * Surgical\
+      Definitive technique for drainage of loculated or complicated collections.
+         * VATS drainage
+            * Allows reasonably thorough drainage of all collections
+            * Requires GA and OLV
+            * Pain
+         * Decortication\
+         Removal of infected pleural tissue.
+            * May be open or VATS
+            * Significant pain
+         * Thoracotomy
+            * Allows thorough drainage of all loculated collections
+            * Requires GA and OLV
+            * Significant pain
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References

@@ -1,34 +1,36 @@
 # Acute Respiratory Distress Syndrome {#sec-ards}
 
-Bilateral diffuse inflammatory lung injury characterised by loss of aerated lung tissue and reduced pulmonary compliance. Various diagnostic criteria exist; the **Berlin Criteria** requires all of:
+Bilateral diffuse inflammatory lung injury characterised by loss of aerated lung tissue and reduced pulmonary compliance. Various diagnostic criteria exist, the **Berlin Criteria** requires all of:
+
+:::column-margin
+The Berlin criteria were updated in 2023 to remove the reliance on ABG and radiography, and include the use of HFNO. Whilst this makes the definition more widely available, it also ↓ the discrimination of an already over-broad definition and so further limits the utility of the concept of ARDS.
+:::
 
 * **Acute onset**\
 Within **7 days** of known precipitant.
 * **Bilateral** radiographic **opacities**\
-Consistent with pulmonary oedema.
+Consistent with pulmonary oedema. Can be on:
+    * XR
+    * CT
+    * Ultrasound\
+    With a well-trained operator
 * **Non-hydrostatic**\
-Not related to an ↑ PCWP, i.e. not due to LV failure.
+Not related to an ↑ PCWP. If access to the following equipment is available, then it is present despite:
+    * Intubation
+    * NIV with CPAP ⩾5cmH~2~O
+    * HFNO ⩾30L/min
 * **Hypoxia**\
 ARDS is graded by severity of hypoxia into:
     * Mild\
-    PaO~2~/FiO~2~: 200-300.
+        * PaO~2~/FiO~2~: 200-300
+        * SpO~2~/FiO~2~ <315 with SpO~2~ <97%
     * Moderate\
     PaO~2~/FiO~2~: 100-200.
     * Severe\
     PaO~2~/FiO~2~: <100. 
 
 :::column-margin
-: Precipitants of ARDS
-
-| Direct              | Indirect           |
-| ------------------- | ------------------ |
-| Pneumonia           | Sepsis             |
-| Aspiration          | Trauma             |
-| Contusion           | Massive transfusion|
-| Fat embolism        | Pancreatitis       |
-| Drowning            | CPB                |
-| Inhalational injury |                    |
-| Reperfusion injury  |                    |
+{{< include /includes/pf.qmd >}}
 :::
 
 ## Epidemiology and Risk Factors
@@ -62,7 +64,23 @@ Large ↑ in:
 Epithelial cell damage alters cellular production of inflammatory mediators and ↑ water egress into the alveolus, as well as production of dysfunctional surfactant.
 
 
-The late (>5 days) phase is characterised by fibrosing alveolitis
+The late (>5 days) phase is characterised by fibrosing alveolitis.
+
+
+### Aetiology
+
+: Precipitants of ARDS
+
+| Direct              | Indirect           |
+| ------------------- | ------------------ |
+| Pneumonia           | Sepsis             |
+| Aspiration          | Trauma             |
+| Contusion           | Massive transfusion|
+| Fat embolism        | Pancreatitis       |
+| Drowning            | CPB                |
+| Inhalational injury |                    |
+| Reperfusion injury  |                    |
+
 
 ## Clinical Manifestations
 
@@ -88,7 +106,10 @@ Principles of management are:
         * Pure glucocorticoid preferable to mineralocorticoid\
         Avoids sodium and water retention.
 * Physical
-    * **Proning**
+    * **Proning**\
+    Significant improvement in hypoxia by:
+        * Recruiting dorsal lung
+        * Improving V/Q matching
 
 :::column-margin
 Proning is a cornerstone of ARDS management, and is covered in detail under @sec-proning.
@@ -220,6 +241,7 @@ Pulmonary function tests normalise in 6-12 months.
 **Other**:
 
 {{< include /trials/proseva.qmd >}}
+{{< include /trials/arma.qmd >}}
 {{< include /trials/dexa_ards.qmd >}}
 
 

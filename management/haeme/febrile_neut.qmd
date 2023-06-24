@@ -1,0 +1,161 @@
+# Febrile Neutropaenia {#sec-febrile_neut}
+
+{{< include /includes/febrile_neutropaenia.qmd >}}
+
+
+## Epidemiology and Risk Factors
+
+Risk factors are all some form of immunosuppression, namely:
+
+* Chemotherapy
+* Organ transplant
+* Clozapine-induced agranulocytosis
+* Chronic granulomatous disease
+
+## Pathophysiology
+
+### Aetiology
+
+
+## Clinical Features
+
+Diagnosis should be suspected in any haematology or oncology patient who has:
+
+:::column-margin
+Neutropaenic sepsis may occur without fever or other infective features, and has a high mortality. 
+:::
+
+* Received chemotherapy in the previous 14 days
+* Is neutropaenic
+
+
+## Assessment
+
+**History**:
+
+**Exam**:
+
+### Investigations
+
+**Bedside**:
+
+* TTE
+	* Endocarditis
+
+**Laboratory**:
+
+
+* Blood
+	* Cultures
+		* Peripheral
+		* *Every* indwelling line
+		* Strictly prior to antibiotics
+	* FBE
+	* UEC
+	* LFT
+* Faeces
+	* Culture
+	* Viral studies
+	* *C. difficile* toxin
+
+**Imaging**:
+
+* CXR
+* CT
+	* Brain
+	* Chest
+	* Consider pan-scan
+
+**Other**:
+
+* LP
+	* Gram stain and culture
+
+### Diagnostic Approach and DDx
+
+
+
+
+## Management
+
+:::priority
+Goals of management
+:::
+
+:::column-margin
+Sepsis in general is covered under @sec-sepsis, with the antibiotic choices for neutropaenic sepsis covered under @sec-neut_sepsis.
+:::
+
+**Resuscitation**:
+
+
+**Specific therapy**:
+
+* Pharmacological
+	* Aggressive antimicrobial therapy
+		* **Broad-spectrum anti-pseudomonal**:
+			* Tazocin 4.5g IV Q8H
+			* Cefepime 2g IV Q8H
+			* Ceftazedime 2g IV Q8H
+		* With alterations or additions if:
+			* Known or likely **ESBL**
+				* Change to Meropenem 2g IV Q8H.
+			* Known or likely **MRSA** 
+				* Add vancomycin
+			* **CLABSI**
+				* Add vancomycin
+			* Severe sepsis/**septic shock**
+				* Add gentamycin 4-7mg/kg
+				* Add vancomycin
+			* Suspected **PJP**
+				* Add trimethoprim/sulfamethoxazole
+			* Suspected HSV/CMV
+				* Add acyclovir or ganciclovir
+			* **Fever** persists **at 48 hours**
+				* Add vancomycin
+			* **Fever** persists **at 96 hours**
+				* Add antifungal\
+					* Caspofungin\
+					For fluconazole-resistant candida.
+					* Voriconazole\
+					If suspected pulmonary infection (poor caspofungin penetrance).
+					* Amphotericin\
+					If concern for mucor, cryptococcus, or zygomycetes.
+	* G-CSF
+		* Stimulates neutrophil production, and release of immature neutrophils\
+		↑ WCC, with a lesser degree of immunorecovery.
+		* Associated with↓ infection severity
+		* Continue until neutrophil count >1×10^9^/L 
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+Poor prognosis associated with:
+
+* Number and extent of organ failures\
+Multi-organ failure has close to 100% ICU mortality.
+* Allogenic transplant
+* Intubation\
+↑ VAP risk.
+* Renal disease requiring haemodialysis
+
+## Key Studies
+
+
+---
+
+## References

@@ -1,0 +1,90 @@
+# Non-Responding Pneumonia {#sec-pers_pneumonia}
+
+Failure to improve after an arbitrary 5 days of treatment should prompt a search for causes and appropriate treatment.
+
+
+## Epidemiology and Risk Factors
+
+* Age
+* Comorbidities
+    * Chronic respiratory disease
+    * Lifestyle
+        * Hight alcohol intake
+        * Smoking
+* Pneumonia
+    * Multilobar
+    * Bacteraemia
+    * Infected collections
+    * Organisms
+        * Legionella
+        * Polymicrobial
+
+
+## Pathophysiology
+
+### Aetiology
+
+* Wrong disease
+    * Vasculitis
+    * Malignancy
+    * Diffuse alveolar haemorrhage
+    * Alveolar proteinosis
+    * Heart failure
+    * Sarcoidosis
+    * Eosinophilic pneumonia
+* Wrong drug/bug
+    * Resistant organism
+    * Atypical organism
+    * Viral pneumonia
+* Wrong dose
+    * Underdosing
+        * Inappropriate dose interval
+    * Poor penetration
+* Failure of source control
+
+
+## Investigations
+
+**Bedside**:
+
+* Bronchoscopy
+    * BAL
+* TTE
+    * Endocarditis
+    * LV failure
+
+**Laboratory**:
+
+* Blood
+    * Cultures
+* Sputum
+    * Eosinophils
+    * AFB
+    * Viral PCR
+
+
+**Radiology**:
+
+* High-resolution CT Chest
+    * Cavitations
+    * Loculated collections
+    * Bronchial masses
+    * Pneumonic characteristics
+
+
+**Other**:
+
+* Lung biopsy
+    * Highly invasive
+    * Significant risk
+    * Appropriate when:
+        * No other clear diagnosis
+        * Failure of empirical therapy
+        * Potential treatments are: 
+            * Morbid
+            * Mutually incompatible
+
+
+---
+
+## References

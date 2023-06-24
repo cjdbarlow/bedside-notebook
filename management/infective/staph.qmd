@@ -21,7 +21,7 @@ Common skin commensal that:
 
 * Causes illness by local infection and toxin production
 * Generally requires host compromise to cause infection:
-	* Skin break
+	* Skin breaks
 	* Foreign body
 	* Immunosuppression
 * May lead to infection in:
@@ -53,8 +53,7 @@ Staphylococcal toxic shock is a complication of *S. Aureus* colonisation, and is
 MRSA is a common mutation of *S. Aureus* that:
 
 * Alters the Penicillin Binding Protein
-* Significantly ↓ affinity of β-lactams for the cell wall\
-Become non-responsive.
+* Significantly ↓ affinity of β-lactams for the cell wall so they become non-responsive
 * Require treatment with a much more limited arsenal of antimicrobials
 
 

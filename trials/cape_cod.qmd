@@ -2,8 +2,19 @@
     * 800 French ICU patients with severe CAP
         * Without septic shock
         * Without features suggesting other causes of pneumonia mimics
-    * 200mg hydrocortisone infusion vs. placebo
+    * Hydrocortisone infusion vs. placebo
+        * 200mg/day for 4 days
+        * Decision made at day 4 for either a short or long course\
+        Based on severity of illness, P/F ratio, respiratory wean, and expected ICU LoS.
+            * Short course\
+            100mg/day for 2 days, then 50mg/day for 2 days (total 8 days).
+            * Long course
+            200mg/day for further 3 days, then 100mg/day for 4 days, then 50mg/day for 3 days (total 14 days).
     * Significant:
         * ↓ Mortality in treatment group (6.2% vs. 11.9%)
         * ↑ Insulin use in treatment group
     * Stopped early due to COVID and significance on interim analysis
+
+:::column-margin
+![](/resources/cape_cod.png)
+:::

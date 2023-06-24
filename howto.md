@@ -50,8 +50,10 @@ Table editor:
 	* Rhabdo under fluid?
 	* CIM, CIN under neuromuscular?
 	* GvHD?
+	* Structure of the immunological section
 
 * Infection
+	* Sepsis under management or as a disease? Colocate with neutropaenic sepsis/febrile neutropaenia?
 	* Move system-specific infections to that system
 	* New infective subgroups
 		* ?where would TB meningitis go; under TB, separate neuro infection, under meningitis...

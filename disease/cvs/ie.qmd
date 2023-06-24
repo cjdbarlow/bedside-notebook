@@ -13,6 +13,7 @@ Severe and life-threatening infection of cardiac skeletal structures, characteri
 * Persistent bacteraemia
 * Systemic embolic complications
 
+
 ## Epidemiology and Risk Factors
 
 Risk factors:
@@ -27,7 +28,8 @@ Risk factors:
         * Implantable wires
 * Bacteraemia
     * Concurrent infection
-    * IVDU 
+    * IVDU
+
 
 ## Pathophysiology
 
@@ -39,7 +41,16 @@ Bacterial infection predominates, common causative organisms include:
     * *Staphylococci*
     * *Streptococci*
     * *Enterococci*
-  \
+* Gram negatives
+    * *Coxiella burnetii*
+    Q fever, culture negative.
+    * HACEK organisms\
+    Usually culture negative.
+        * *Haemophilus* spp.
+        * *Actinobacillus*
+        * *Cardiobacterium hominis*
+        * *Eikenella corrodens*
+        * *Kingella kingae*
 
 Fungal endocarditis is rare, and seen with:
 
@@ -47,21 +58,50 @@ Fungal endocarditis is rare, and seen with:
 * IVDU 
 
 
-## Clinical Manifestations
+## Clinical Features
 
-## Diagnostic Approach and DDx
 
-**Modified Duke** criteria
+## Assessment
 
-## Investigations
+**History**:
 
-Bloods:
+**Exam**:
 
-* FBE
-* UEC
-* Blood cultures
+* Skin findings
+    * Osler's nodes
+    * Janeway lesions
+    * Splinter haemorrhages
+    * Roth spots
+* Embolism
+    * Neurological
+    * Renal
 
-Radiology:
+### Investigations
+
+**Bedside**:
+
+* Echocardiography
+    * Modality
+        * TTE\
+        * TOE\
+        Better imaging of valvular structures and device leads.
+    * Features
+        * Vegetation
+        * Valvular destruction
+            * Regurgitation
+            * Dehiscence of prosthetic valve
+        * Fistula
+        * Ventricular dysfunction
+
+**Laboratory**:
+
+* Bloods
+    * FBE
+    * UEC
+    * Blood cultures
+
+**Imaging**:
+
 
 * CT
     * Embolic phenomena
@@ -69,30 +109,67 @@ Radiology:
     * Embolic phenomena\
     Particularly strokes. 
 
-Echocardiography:
+**Other**:
 
-* Modality
-    * TTE\
-    * TOE\
-    Better imaging of valvular structures and device leads.
-* Features
-    * Vegetation
-    * Valvular destruction
-        * Regurgitation
-        * Dehiscence of prosthetic valve
-    * Fistula
-    * Ventricular dysfunction
+### Diagnostic Approach and DDx
+
+: Duke Criteria for Infective Endocarditis
+
++------------------------------------------+-------------------------------+
+| Major                                    | Minor                         |
++==========================================+===============================+
+| Typical microorganisms in blood cultures | * Predisposing condition      |
+|                                          |     * Mechanical valve        |
+| * 2 separate cultures                    |     * IVDU                    |
+| * 2 cultures 12 hours apart              | * Fever >38.0°                |
+| * 3/4 cultures taken within 1 hour       | * Vascular manifestations\    |
+|                                          | e.g. Janeway lesion.          |
+| Echocardiographic evidence of:           | * Immunologic manifestation\  |
+|                                          | e.g. GN.                      |
+| * Abscess                                | * Positive blood cultures\    |
+| * Vegetation                             | Not meeting major criteria.   |
+| * Prosthetic valve dehissence            | * Echocardiographic findings\ |
+|                                          | Not meeting major criteria.   |
++------------------------------------------+-------------------------------+
+| Diagnosis requires one of:                                               |
+|                                                                          |
+| * Both major and one minor criteria                                      |
+| * One major and three minor criteria                                     |
+| * Five minor criteria                                                    |
++--------------------------------------------------------------------------+
+
+The Duke criteria are broadly accepted, but somewhat limited as 20% of endocarditis is culture negative.
 
 ## Management
-
 
 **Specific therapy**:
 
 * Pharmacological
     * Early antimicrobial therapy
-        * Intravenous
         * Extended duration\
         Classically 6 weeks.
+        * Local-microbiome adjusted\
+        Consider:
+            * Flucloxacillin
+            * Vancomycin
+            * Benzylpenicillin
+            * Gentamicin
+* Procedural
+    * Surgery is the cornerstone of curative therapy
+    * The decision on *when* to operate is complex and driven by the balance of:
+        * Delaying for pre-operative optimisation
+        * Intervening to prevent further decline
+    * The decision should be multidisciplinary, but factors favouring proceeding include:
+        * Cardiac failure
+            * Refractory shock/pulmonary oedema infers urgent surgery
+        * Uncontrolled infection\
+        Persistent positive blood cultures despite 3-10 (recommendations vary) days of appropriate antibiotic treatment.
+        * Embolisation
+            * Large (>1cm) vegetation at risk of embolising
+            * Ongoing embolic phenomena\
+            Decision confounded by intracranial haemorrhage, which has substantial implications for therapeutic heparin required for CPB.
+        * Aortic root abscess
+
 
 **Supportive care**:
 
@@ -102,21 +179,6 @@ Echocardiography:
     * Heart failure
     * Septic shock
     * Neurological involvement
-
-### Surgical Intervention
-
-Surgery is the cornerstone of curative therapy, but the decision on *when* to operate is complex and driven by the balance of delaying for pre-operative optimisation versus intervening to prevent further decline.
-
-The decision should be multidisciplinary, but factors favouring proceeding include:
-
-* Heart failure
-    * Refractory shock/pulmonary oedema infers urgent surgery
-* Uncontrolled infection\
-Persistent positive blood cultures despite 3-10 (recommendations vary) days of appropriate antibiotic treatment.
-* Embolisation
-    * Large (>1cm) vegetation at risk of embolising
-    * New stroke\
-    Decision confounded by intracranial haemorrhage, which has substantial implications for therapeutic heparin required for CPB.
 
 
 
@@ -137,6 +199,7 @@ Persistent positive blood cultures despite 3-10 (recommendations vary) days of a
 * I
     * Sepsis
 
+
 ## Prognosis
 
 Varies depending on the extent of valvular disease and severity of systemic infection, however:
@@ -145,9 +208,12 @@ Varies depending on the extent of valvular disease and severity of systemic infe
     * 30-50% in patients receiving surgical treatment
     * 85% in those not receiving operative intervention
 
+
 ## Key Studies
 
 
 ---
 
 ## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
