@@ -15,7 +15,7 @@
 Demonstrating resistance is difficult however - this may occur over medium-to-long scale timelines, and the efficacy of decontamination and the significance of resistance is plausibly highly dependent on local fauna and biograms.
 :::
 
-## Pathophysiology
+## Principles
 
 In the critically ill:
 
@@ -24,13 +24,38 @@ In the critically ill:
 * Nosocomial infections are predominantly caused by endogenous flora
 
 
-## Technique
+## Practice
+
+:::info
+Protocols vary, however the general principle is to cover Gram negatives and fungi with poorly-absorbed agents.
+:::
+
+Consider regular:
+
+* Antimicrobial cocktail\
+e.g. Q6H:
+	* Colistin 100mg
+	* Tobramycin 80mg
+	* Nystatin
+* Surveillance cultures
+
 
 ## Complications
 
+* Antimicrobial resistance
 
 ## Key Studies
 
+Evidence suggests:
+
+* Possible immediate individual benefit:
+	* ↓ Mortality
+	* ↓↓ VAP\
+	By ~70%.
+	* No ↑ *C. difficile* infection
+* Unclear long-term harms
+* Significant variability based on the population studied\
+Rates of nosocomial infection and local antimicrobial resistance.
 {{< include /trials/suddicu.qmd >}}
 
 

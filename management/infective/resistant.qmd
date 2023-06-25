@@ -1,6 +1,13 @@
-# Resistant Organisms
+# Antimicrobial Resistance
 
-Resistance is the complete or partial loss of response of an organism to a certain antimicrobial agent.
+Resistance is the complete or partial loss of response of an organism to a certain antimicrobial agent. Resistance is classified into:
+
+* Extensive resistance\
+**Resistant** to **2 classes**.
+* Multidrug resistance\
+**Resistant** to **⩾3 classes**.
+* Pan-resistant\
+Resistant to all known agents.
 
 :::column-margin
 Broadly, resistance may occur by:
@@ -12,7 +19,9 @@ Broadly, resistance may occur by:
 :::
 
 
-## Inducible β-lactamase
+## Mechanisms of Resistance
+
+### Inducible β-lactamase
 
 ESCAPPM/ESCHAPPM are a group of **Gram-negative** organisms which:
 
@@ -21,24 +30,19 @@ ESCAPPM/ESCHAPPM are a group of **Gram-negative** organisms which:
 	Chromosomal-mediated cephalosporinase enzyme that is strongly selected for in the presence of β-lactam antibiotics.
 	* May be inhibited by tazobactam, and so tazocin may be effective
 * Should be **treated** with **non-β-lactam agents**, even if they initially appear sensitive
+* Include:
+	* ***E**nterobacter* spp.
+	* ***S**erratia* spp.
+	* ***C**itrobacter*
+	* ***H**afnia* spp.
+	* ***A**cinetobacter* and ***A**eromonas* spp.
+	* ***P**roteus* spp.\
+	Excluding *P. mirabilis*
+	* ***P**rovidencia* spp.
+	* ***M**organella morgani*
 
 
-### ESCHAPPM
-
-The mnemonic refers to:
-
-* ***E**nterobacter* spp.
-* ***S**erratia* spp.
-* ***C**itrobacter*
-* ***H**afnia* spp.
-* ***A**cinetobacter* and ***A**eromonas* spp.
-* ***P**roteus* spp.\
-Excluding *P. mirabilis*
-* ***P**rovidencia* spp.
-* ***M**organella morgani*
-
-
-## Extended Spectrum β-lactamase
+### Extended Spectrum β-lactamase
 
 Describes organisms that develop a β-lactamase that also produces **resistance** to **other antibiotic classes**. The ESBL:
 
@@ -58,16 +62,41 @@ Describes organisms that develop a β-lactamase that also produces **resistance*
 Bacteria share chromosomal coding for the β-lactamase between organisms, resulting in rapid ↑ resistance in a colony.
 
 
-## Carbapenemases
+### Carbapenemases
 
-Organisms with enzyme that inactivates carbapenem antibiotics. Carbapenemase:
+Organisms with enzyme that inactivates carbapenem antibiotics. Carbapenemases:
 
-* Producing organisms include:
-	* Enterobacteriae\
-	Classically:
-		* *E. Coli*
-		* *Klebsiella* spp.
+* Are produced classically by enterobacteriae, including:
+	* *E. Coli*
+	* *Klebsiella* spp.
+* Include:
+	* Klebsiella Producing Carbapenemase (KPC)
+	* New Delhi metallo-beta-lactamase (NDM-1)
 * Can also spread by plasmid transmission
+
+
+## Treatment of Multidrug Resistant Organisms
+
+:::priority
+* Determine **colonisation vs. infection**
+* **Source control**
+* Early specialist ID advice
+:::
+
+**Specific therapy**:
+
+* Pharmacological
+	* Antimicrobial therapy
+		* ↑ Dose to overcome MIC
+		* Novel antibiotics
+		* Combination therapy\
+		Interaction of two antibiotics may overcome intrinsic resistance. Options include:
+			* Add colistin
+			* Add gentamicin
+			* Use two drugs from the same class
+* Procedural
+	* Source control
+* Physical
 
 ---
 

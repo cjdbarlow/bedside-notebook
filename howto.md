@@ -30,6 +30,7 @@ quarto::quarto_preview
 	* Chapters in Oh's are quite good
 * Move trials into separate stems
 * Re-do the resuscitation section, particularly post-arrest care
+* Revise sources of sepsis table
 
 # Package to-do
 

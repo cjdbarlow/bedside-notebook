@@ -123,51 +123,53 @@ Antibiotic treatment failure may occur due to:
 
 : Comparison of Antibiotic Classes
 
-+---------------------+------------------------------------------------------------------------------------+----------------------------------------------------------------+
-| Class               | Pharmacokinetics                                                                   | Dosing Considerations                                          |
-+=====================+====================================================================================+================================================================+
-| **β-lactams**\      | * Bactericidal                                                                     | * More frequent dosing may be more effective                   |
-| Including:          | * Slow                                                                             |                                                                |
-|                     | * Time dependent\                                                                  |                                                                |
-| * Penicillins       | Ideally 4-5 times MIC, and >0.4 (40%) throughout.                                  |                                                                |
-| * Cephalosporins    | * No significant post-antibiotic effect                                            |                                                                |
-|                     | * Reasonable tissue penetration                                                    |                                                                |
-+---------------------+------------------------------------------------------------------------------------+----------------------------------------------------------------+
-| **Carbapenems**     | * Bactericidal                                                                     |                                                                |
-|                     | * Slow                                                                             |                                                                |
-|                     | * Time dependent                                                                   |                                                                |
-|                     | * Post-antibiotic effect                                                           |                                                                |
-|                     | * Reasonable tissue penetration                                                    |                                                                |
-+---------------------+------------------------------------------------------------------------------------+----------------------------------------------------------------+
-| **Aminoglycosides** | * Bactericidal                                                                     | Dose at 5-7mg/kg, with interval based on creatinine clearance: |
-|                     | * Fast                                                                             |                                                                |
-|                     | * Concentration-dependent                                                          | * \>60mL/min: Daily                                            |
-|                     | * Significant post-antibiotic effect\                                              | * 40-59mL/min:> 36 hourly                                      |
-|                     | Duration related to height of peak concentration.                                  | * 20-39mL/min: 48 hourly                                       |
-|                     | * Single-daily dosing more effective than multiple daily dosing                    |                                                                |
-|                     | * **Poor distribution into tissues**\                                              | Consider trough levels:                                        |
-|                     | Less effective in solid organ infections, ↑↑ V~D~ with extravascular fluid shifts. |                                                                |
-|                     |                                                                                    | * Gentamicin <1mg/L                                            |
-|                     |                                                                                    | * Amikacin <5mg/L                                              |
-+---------------------+------------------------------------------------------------------------------------+----------------------------------------------------------------+
-| **Quinolones**      | * Bactericidal                                                                     |                                                                |
-|                     | * Fast                                                                             |                                                                |
-|                     | * Concentration and time dependent\                                                |                                                                |
-|                     | Area under the inhibitor curve; i.e. AUC or MIC >125.                              |                                                                |
-|                     | * Some post-antibiotic effect                                                      |                                                                |
-|                     | * Very **high tissue penetration**                                                 |                                                                |
-+---------------------+------------------------------------------------------------------------------------+----------------------------------------------------------------+
-| **Glycopeptides**   | * Mostly bactericidal, bacteriostatic against enterococci                          | * Vancomycin  20-25mg/L\                                       |
-|                     | * Post-antibiotic effect, even if sub MIC                                          | Continuous infusion.                                           |
-|                     | * **Poor distribution into tissues**\                                              |                                                                |
-|                     | Less effective in solid organ infections, ↑↑ V~D~ with extravascular fluid shifts. |                                                                |
-+---------------------+------------------------------------------------------------------------------------+----------------------------------------------------------------+
-| **Linezolid**       | * No drug monitoring                                                               | * No dose adjustment required in renal failure                 |
-|                     | * Good tissue penetration                                                          |                                                                |
-|                     | * Drug interactions                                                                |                                                                |
-|                     |     * Serotonin syndrome                                                           |                                                                |
-|                     | * Thrombocytopaenia                                                                |                                                                |
-+---------------------+------------------------------------------------------------------------------------+----------------------------------------------------------------+
++---------------------+------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| Class               | Pharmacokinetics                                                                   | Dosing Considerations                                                                      |
++=====================+====================================================================================+============================================================================================+
+| **β-lactams**\      | * Bactericidal                                                                     | * More frequent dosing may be more effective                                               |
+| Including:          | * Slow                                                                             |                                                                                            |
+|                     | * Time dependent\                                                                  |                                                                                            |
+| * Penicillins       | Ideally 4-5 times MIC, and >0.4 (40%) throughout.                                  |                                                                                            |
+| * Cephalosporins    | * No significant post-antibiotic effect                                            |                                                                                            |
+|                     | * Reasonable tissue penetration                                                    |                                                                                            |
++---------------------+------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| **Carbapenems**     | * Bactericidal                                                                     |                                                                                            |
+|                     | * Slow                                                                             |                                                                                            |
+|                     | * Time dependent                                                                   |                                                                                            |
+|                     | * Post-antibiotic effect                                                           |                                                                                            |
+|                     | * Reasonable tissue penetration                                                    |                                                                                            |
++---------------------+------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| **Aminoglycosides** | * Bactericidal                                                                     | Dose at 5-7mg/kg, with interval based on creatinine clearance:                             |
+|                     | * Fast                                                                             |                                                                                            |
+|                     | * Concentration-dependent                                                          | * \>60mL/min: Daily                                                                        |
+|                     | * Significant post-antibiotic effect\                                              | * 40-59mL/min:> 36 hourly                                                                  |
+|                     | Duration related to height of peak concentration.                                  | * 20-39mL/min: 48 hourly                                                                   |
+|                     | * Single-daily dosing more effective than multiple daily dosing                    |                                                                                            |
+|                     | * **Poor distribution into tissues**\                                              | Consider trough levels:                                                                    |
+|                     | Less effective in solid organ infections, ↑↑ V~D~ with extravascular fluid shifts. |                                                                                            |
+|                     |                                                                                    | * Gentamicin <1mg/L                                                                        |
+|                     |                                                                                    | * Amikacin <5mg/L                                                                          |
+|                     |                                                                                    |                                                                                            |
+|                     |                                                                                    | Aminoglycosides are structurally dissimilar enough such that resistance is drug-dependent. |
++---------------------+------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| **Quinolones**      | * Bactericidal                                                                     |                                                                                            |
+|                     | * Fast                                                                             |                                                                                            |
+|                     | * Concentration and time dependent\                                                |                                                                                            |
+|                     | Area under the inhibitor curve; i.e. AUC or MIC >125.                              |                                                                                            |
+|                     | * Some post-antibiotic effect                                                      |                                                                                            |
+|                     | * Very **high tissue penetration**                                                 |                                                                                            |
++---------------------+------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| **Glycopeptides**   | * Mostly bactericidal, bacteriostatic against enterococci                          | * Vancomycin  20-25mg/L\                                                                   |
+|                     | * Post-antibiotic effect, even if sub MIC                                          | Continuous infusion.                                                                       |
+|                     | * **Poor distribution into tissues**\                                              |                                                                                            |
+|                     | Less effective in solid organ infections, ↑↑ V~D~ with extravascular fluid shifts. |                                                                                            |
++---------------------+------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| **Linezolid**       | * No drug monitoring                                                               | * No dose adjustment required in renal failure                                             |
+|                     | * Good tissue penetration                                                          |                                                                                            |
+|                     | * Drug interactions                                                                |                                                                                            |
+|                     |     * Serotonin syndrome                                                           |                                                                                            |
+|                     | * Thrombocytopaenia                                                                |                                                                                            |
++---------------------+------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
 
 :::column-margin
 Carbapenems are also β-lactams, but have been separated here due to different pharmacokinetic properties.

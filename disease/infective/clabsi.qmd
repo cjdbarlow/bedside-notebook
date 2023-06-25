@@ -47,11 +47,57 @@ Occurs in 5-40% of catheters. Colonisation is a risk factor for infection, but i
 
 ### Aetiology
 
-Causative organisms:
+A positive blood culture taken from an existing CVC indicates one of:
 
-* Predominantly match patient endogenous flora
-* Commonly are coagulase negative *Staph* spp.\
-25%.
+* Benign line colonisation
+	* Colonisation without bacteraemia
+	* Common\
+	10-25% of lines.
+* Bacteraemia secondary to line colonisation\
+i.e. True CLABSI.
+* Bacteraemia with independent to line colonisation\
+The bacteraemia is not from the line, and the line may or may not be colonised.
+
+
+: Causative and Cultured Organisms
+
++---------------------------+----------------------------------------------------------+---------------------------------------------------------------+
+|                           | Probable Bacteraemia                                     | Probable Colonisation                                         |
++===========================+==========================================================+===============================================================+
+| **Gram Positive Cocci**   | * Coagulase-positive staphylococci                       | * Coagulase-negative staphylococci                            |
+|                           |     * *S. aureus*                                        |     * *S. epidermidis*                                        |
+|                           | * *Strep. pneumoniae*                                    |     * *S. haemolyticus*                                       |
+|                           | * *Strep. pyogenes*                                      |     * *S. hominis*                                            |
+|                           | * *Strep. agalactiae*                                    |     * *S. saprophyticus*                                      |
+|                           |                                                          |     * *S. lugdunensis*                                        |
+|                           |                                                          | * Viridans streptococci                                       |
+|                           |                                                          |     * *S. mitis*                                              |
+|                           |                                                          |     * *S. sanguinis*                                          |
+|                           |                                                          |     * *S. oralis*                                             |
+|                           |                                                          | * Enterococci                                                 |
+|                           |                                                          | * *Micrococcus* spp.                                          |
++---------------------------+----------------------------------------------------------+---------------------------------------------------------------+
+| **Gram Positive Bacilli** | * *Listeria monocytogenes*                               | * *Corynebacterium* spp.                                      |
+|                           |                                                          | * *Bacillus* spp.\                                            |
+|                           |                                                          | Other than *anthracis*.                                       |
+|                           |                                                          | * *Propionibacterium acnes*                                   |
+|                           |                                                          | * *C. perfringens*                                            |
++---------------------------+----------------------------------------------------------+---------------------------------------------------------------+
+| **Gram Negative Cocci**   | * *N. meningitidis*                                      |                                                               |
+|                           | * *N. gonorrhoeae*                                       |                                                               |
+|                           | * *H. influenzae*                                        |                                                               |
++---------------------------+----------------------------------------------------------+---------------------------------------------------------------+
+| **Gram Negative Bacilli** | * *E. coli*                                              |                                                               |
+|                           | * Enterobacteriaceae                                     |                                                               |
+|                           | * *P. aeruginosa*                                        |                                                               |
+|                           | * *Bacteroides fragilis*                                 |                                                               |
++---------------------------+----------------------------------------------------------+---------------------------------------------------------------+
+| **Fungi**                 | * *Crytptococcus neoformans*                             |                                                               |
+|                           | * *C. albicans*                                          |                                                               |
++---------------------------+----------------------------------------------------------+---------------------------------------------------------------+
+| **Notes**                 | Bacteraemia predominantly match patient endogenous flora | 25% of colonisation is by coagulase-negative *Staphylococci*. |
++---------------------------+----------------------------------------------------------+---------------------------------------------------------------+
+
 
 ## Clinical Manifestations
 

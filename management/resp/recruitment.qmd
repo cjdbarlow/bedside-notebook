@@ -1,4 +1,4 @@
-# Recruitment
+# Recruitment {#sec-recruit}
 
 A recruitment manoeuvres is a **sustained, transient ↑** in **alveolar pressure** aimed to open collapsed alveoli and small airways so they remain open following the manoeuvre and are now able to participate in gas exchange.
 
@@ -40,7 +40,7 @@ Evidence of volume loss implying collapse rather than consolidation.
 
 A wide variety of techniques have been described:
 
-* 30cmH~2~O for 30-60s0s\
+* 30cmH~2~O for 30-60s\
 Safe, moderately effective.
 * 40cmH~2~O for 40s
 * Pip at 50cmH~2~O, aiming PEEP above the uper inflection point

@@ -33,7 +33,7 @@ Risk factors include:
 	* Pathogenicity
 
 
-## Common Organisms
+## Principles
 
 Include:
 
@@ -86,6 +86,27 @@ Arises in patients with prolonged carbapenem treatment.
 * Generally resistant to β-lactams
 * Responsive to cotrimoxazole
 
+
+## Practice
+
+: Prevention of Nosocomial Organisms
+
++--------------------------------------+--------------------------------------------------+
+| General                              | Specific                                         |
++======================================+==================================================+
+| * Handwashing                        | * Oral hygiene                                   |
+| * Appropriate infectious precautions | * Pressure care                                  |
+| * MRO surveillance                   | * VAP prevention                                 |
+|                                      | * CLABSI prevention                              |
+|                                      | * Rationalise antibiotic prescribing             |
+|                                      | * Control hyperglycaemia                         |
+|                                      | * Rationalise immunosuppression                  |
+|                                      | * Appropriate surgical antimicrobial prophylaxis |
++--------------------------------------+--------------------------------------------------+
+
+:::column-margin
+Preventative therapies for VAP and CLABSI are covered under @sec-vap and @sec-cvc, respectively.
+:::
 
 ---
 

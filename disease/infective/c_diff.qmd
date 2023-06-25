@@ -1,35 +1,97 @@
-# Clostridium Difficile
+# Clostridioides Difficile
 
-Infective diarrhoea that may lead to pseudomembranous colitis, occurring secondary to:
+Infective diarrhoea caused by *Clostridioides Difficile* that:
 
-* Broad-spectrum antibiotics
-* Chemotherapy
+* May lead to pseudomembranous colitis
+* Occurs secondary to:
+	* Broad-spectrum antibiotics
+	* Chemotherapy
+
+:::column-margin
+*Clostridium difficile* was renamed in 2016, after analyses identified it should fall under the peptostreptococcaceae family, and thus be a *Peptoclostridium*.\
+\
+To avoid excessive disruption to the status quo, some microbiological taxonomy loopholes were exploited to forge a new genus *Clostridioides*, and so keep the familiar *C. diff* abbreviation.
+:::
 
 ## Epidemiology and Risk Factors
 
-Antibiotic-associated *C. difficile* infection:
+Causes:
 
-* Causes :
-	* 10-25% of antibiotic-associated diarrhoea
-	* Almost all cases of pseudomembranous colitis
-* Is most commonly associated with:
+* 10-25% of antibiotic-associated diarrhoea
+* Almost all cases of pseudomembranous colitis
+
+
+Major risk factors include:
+
+* Broad-spectrum antibiotics
 	* Clindamycin
 	* Cephalosporins
 	* Fluoroquinolones
+* Immunosuppression
+	* Severity of illness)
+	* IBD
+* Exposure to infected patient
+* Age >65
+* SUP\
+PPIs double risk.
+* Prolonged hospital stay
+* Renal impairment
 
 
 ## Pathophysiology
 
 ### Aetiology
 
-## Clinical Manifestations
+*Clostridioides Difficile* is:
+
+* A spore-forming, Gram positive, anaerobic bacilli
+* Toxin-producing\
+Most bacteria produce both, but up to 25% produce neither:
+	* Toxin A
+		* Enterocyte-toxic
+		* Attracts neutrophils
+	* Toxin B\
+	More potent than B. 
+* An extremophile\
+Resistant to:
+	* Dessication
+	* Most cleaning products\
+	Notably, **not chlorine**.
+
+## Clinical Features
 
 Two clinical pictures:
 
 * Diarrhoea with associated fever
+	* Mucoid
+	* Green-ish
+	* Watery
+	* Presence of pseudomembranes
 * Ileus (and no diarrhoea) with leukocytosis and toxic megacolon
 
+
+## Assessment
+
+**History**:
+
+**Exam**:
+
+
+
 ## Diagnostic Approach and DDx
+
+Features suggestive of *C. difficile*:
+
+* Characteristic stools
+	* Watery
+	* \>3/24 hours
+	* 3-9 days after antibiotics
+* Previous broad spectrum antibiotics
+* Fever
+* Abdominal pain
+* Distension
+* Positive investigations
+* AKI
 
 ## Investigations
 
@@ -43,7 +105,7 @@ Two clinical pictures:
 	* LFT
 		* Hypoalbuminaemia
 * Stool
-	* Antigen and toxin\
+	* Antigen and toxin PCR\
 	Sensitive, persist after resolution of infection.
 	* Culture
 		* 2-3 days to grow
@@ -51,6 +113,15 @@ Two clinical pictures:
 		* Most useful for epidemiological purposes for strain typing
 
 **Imaging**:
+
+* AXR
+	* "Thumbprinting" of bowel
+	* Pneumoperitoneum
+* CT
+	* Inflamed bowel
+	* Perforation
+		* Pneumoperitoneum
+	
 
 **Other**:
 
@@ -62,29 +133,98 @@ Two clinical pictures:
 
 ## Management
 
-**Resuscitation**:\
+:::priority
+* Standard **sepsis management**\
+Covered under @sec-sepsis_mx.
+* **Stop inciting antibiotics**
+* **Oral antibiotics**\
+Empirically if high pre-test probability.
+::: 
 
-ABC approach. Comment on team coordination and clinical priorities.
+
 **Specific therapy**:
 
 * Pharmacological
+	* Cease other antibiotics
+	* Oral antibiotics
+		* Mild-moderate infection
+			* Metronidazole 500mg PO Q8H for 10 days\
+			Change to fidaxomicin or vancomycin if no response in 5 days.
+		* Severe infection
+			* Fidaxomicin 200mg PO Q12H for 10 days\
+			Preferable to vancomycin, if available.
+			* Vancomycin 125-500mg PO Q6H for 10 days\
+				* Higher dose indicated in shock
+				* Can be given via enema if ileus present\
+				In this case the dose is 500mg in 100mL Q6H.
+			* Metronidazole 400mg IV Q8H for 10 days\
+			In addition to fidaxomicin or vancomycin.
+	* Bezlotoxumab 10mg/kg
+		* Antibody against Toxin B
+		* Indicated in second recurrence
+		* Single dose of 10mg/kg
 * Procedural
+	* Faecal microbiota transplant
+		* Justified by restoring colonic microbial biodiversity that was disrupted by the antibiotic-induced genocide
+		* Indicated for third recurrence
+		* Risk of infection transmission
 * Physical
+	* Faecal management system
+	* Bowel resection\
+	Consider with:
+		* Sepsis
+		* WCC >50×10^3^/mL
+		* Lactate >5mmol/L
+
 
 **Supportive care**:
 
-**Disposition**:
+* D
+	* Analgesia
+* F
+	* Correct electrolyte disturbances
+
 
 **Preventative**:
 
+* Antimicrobial stewardship
+* Appropriate infection control
+	* Contract precautions
+	* Soap-and-water handwashing
+	* Individualise equipment
 
 ### Marginal and Ineffective Therapies
+
+* Probiotics
 
 ## Anaesthetic Considerations
 
 ## Complications
 
+* C
+	* SIRS
+	* Hypovolaemia
+* F
+	* Electrolyte disturbances
+* G
+	* Toxic megacolon
+	* Perforation
+* I
+	* Abdominal sepsis
+
 ## Prognosis
+
+Poor prognostic features include:
+
+* Age >70
+* WCC
+	* Rate of rise
+	* Peak >20×10^3^/mL
+* Albumin <25g/L
+* AKI
+* SBO
+* Ileus
+* Fever >38.0°C
 
 ## Key Studies
 
@@ -94,3 +234,5 @@ ABC approach. Comment on team coordination and clinical priorities.
 ## References
 
 1. O’Grady NP, Barie PS, Bartlett JG, et al. [Guidelines for evaluation of new fever in critically ill adult patients: 2008 update from the American College of Critical Care Medicine and the Infectious Diseases Society of America](https://journals.lww.com/ccmjournal/Fulltext/2008/04000/Guidelines_for_evaluation_of_new_fever_in.40.aspx). Critical Care Medicine. 2008;36(4):1330.
+1. Diseases TLI. [C difficile—a rose by any other name…](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(19)30177-X/fulltext). The Lancet Infectious Diseases. 2019;19(5):449. doi:10.1016/S1473-3099(19)30177-X
+1. Johnson S, Lavergne V, Skinner AM, et al. [Clinical Practice Guideline by the Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA): 2021 Focused Update Guidelines on Management of Clostridioides difficile Infection in Adults](https://academic.oup.com/cid/article/73/5/e1029/6298219). Clinical Infectious Diseases. 2021;73(5):e1029-e1044. doi:10.1093/cid/ciab549

@@ -1,4 +1,4 @@
-# Hospital/Ventilator Acquired Pneumonia
+# Hospital/Ventilator Acquired Pneumonia {#sec-hap}
 
 Pneumonia (infection with chest infiltrate) occurring **48 hours** after:
 
@@ -9,11 +9,23 @@ Pneumonia (infection with chest infiltrate) occurring **48 hours** after:
 Clinical signs of respiratory infection without CXR infiltrates are suggestive of tracheobronchitis.
 :::
 
+:::column-margin
+VAP is ventilator-*associated*, i.e. there is no requirement to demonstrate causality.
+:::
+
 ## Epidemiology and Risk Factors
 
 HAP:
 
 * Occurs in 0.5-5% of inpatients
+
+
+VAP:
+
+* 8-30% of mechanically ventilated patients
+    * ~3%/day over first 5 days, with a decline thereafter
+* 25-50% mortality
+    * Earlier infections are typically less-resistant and therefore more treatable than late-developing VAP
 
 Risk factors:
 
@@ -47,6 +59,7 @@ Proposed mechanisms include:
 * Local spread
 * Haematogenous spread
 
+
 ### Aetiology
 
 Broadly, three classes of infection can occur:
@@ -67,6 +80,7 @@ After 5 days, exogenous MRO may be seen:
     * *P. aeruginosa*
     * *Acinetobacter baumannii*
     * *S. maltophilia*
+
 
 ## Clinical Manifestations
 
@@ -124,7 +138,6 @@ Covered under @sec-sepsis_mx.
 **Specific therapy**:
 
 :::column-margin
-
 Risk factors for MDR include:
 
 * Disease
@@ -140,45 +153,71 @@ Risk factors for MDR include:
     * High local MDR burden 
 :::
 
-* Antimicrobial therapy\
-    * **7 day course** recommended to reduce subsequent MDR pneumonias.
-    * 2-3 days until clinical response seen is usual
-    * If **failing to respond**, consider:
-        * Wrong bug\
-        Repeat cultures.
-        * Wrong drug\
-        Ensure sensitivity of organism to the antibiotic beingused.
-        * Wrong dose\
-        Appropriate for patient weight.
-        * Sequestration\
-        Abscess cavity or similar
-        * Patient factors
-            * Immunosuppression
-            * Frailty
-    * No MDR risk factors\
-    Consider:
-        * Tazocin 4.5g Q6-8H
-        * Cefepime 2g Q8H
-        * Meropenem 1g Q8H
-    * MDR risk factors\
-    Consider one of each of:
-        * Antipseudomonal broad spectrum agent\
-        As above.
-        * Additional gram negative cover\
-        ↓ Risk that pathogen is resistant to the primary agent.
-            * Aminoglycoside 15-20mg Q24H
-            * Ciprofloxacin 400mg Q8H
-            * Levofloxacin 750mg Q24H
-        * MRSA cover:
-            * Linezolid 600mg Q12H
-            * Vancomycin 
-            \
+* Pharmacological
+    * Antimicrobial therapy\
+        * **7 day course** recommended to reduce subsequent MDR pneumonias.
+        * 2-3 days until clinical response seen is usual
+        * If **failing to respond**, consider:
+            * Wrong bug\
+            Repeat cultures.
+            * Wrong drug\
+            Ensure sensitivity of organism to the antibiotic beingused.
+            * Wrong dose\
+            Appropriate for patient weight.
+            * Sequestration\
+            Abscess cavity or similar
+            * Patient factors
+                * Immunosuppression
+                * Frailty
+        * No MDR risk factors\
+        Consider:
+            * Tazocin 4.5g Q6-8H
+            * Cefepime 2g Q8H
+            * Meropenem 1g Q8H
+        * MDR risk factors\
+        Consider one of each of:
+            * Antipseudomonal broad spectrum agent\
+            As above.
+            * Additional gram negative cover\
+            ↓ Risk that pathogen is resistant to the primary agent.
+                * Aminoglycoside 15-20mg Q24H
+                * Ciprofloxacin 400mg Q8H
+                * Levofloxacin 750mg Q24H
+            * MRSA cover:
+                * Linezolid 600mg Q12H\
+                Preferable due to better pulmonary penetration.
+                * Vancomycin
+    * Nebulised antibiotics\
+    Appropriate in limited circumstances, namely all of:
+        * VAP
+        * Multi-resistant Gram negative\
+        Sensitive only to:
+            * Aminoglycosides
+            * Colistin
+
+:::column-margin
+Nebulisation of antibiotics is:
+
+* Pharmacologically justified by:
+    * Achieving ↑ drug concentration at site of infection
+    * Most antibiotics have poor lung penetration
+    * ↓ Systemic dose and therefore toxicity
+* Limited by:
+    * Uncertain dose delivered
+    * Binding of drug to circuit filter
+    * Complications of excipients
+    * Lack of strong evidence
+* Recommended only for:
+    * Colistin
+:::
+
 
 **Prevention**:
 
 * A
     * Nurse 30° head up to ↓ risk of microaspiration
     * Oral care Q4H with chlorhexidine mouthwash BD
+    * Use cuff-pressures
     * Use subglottic suctioning
     * Use closed suction circuits
     * Avoid non-essential suctioning
@@ -191,7 +230,13 @@ Risk factors for MDR include:
 * B
     * Minimise duration of mechanical ventilation
 * E
-    * Early mobilisation 
+    * Early mobilisation
+* G
+    * SDD
+    * Post-pyloric feeding
+    * Avoid NG tubes\
+    OG tubes are preferable.
+
 
 ### Marginal and Ineffective Therapies
 
