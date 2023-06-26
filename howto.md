@@ -20,7 +20,6 @@ quarto::quarto_preview
 * Click on margin images to pop into centre screen
 * Add scrolling radiology images
 * Modify glossary to only scan words up to to maximum length in the glossary to speed up build time
-* Table caption CSS
 
 
 # Content to-do:
@@ -31,6 +30,7 @@ quarto::quarto_preview
 * Move trials into separate stems
 * Re-do the resuscitation section, particularly post-arrest care
 * Revise sources of sepsis table
+
 
 # Package to-do
 
@@ -63,8 +63,6 @@ Table editor:
 	* Dissolve "systemic" section
 
 * Dissolve ICU 'concepts' into a more appropriate category (or at least some of, ?organ donation separately)
-
-* ?Create integumentary section for osteomyelitis, NSTI, etc
 
 * ?Change pharmacological to prescription, to encompass fluids and blood, etc
 

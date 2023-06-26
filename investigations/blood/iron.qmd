@@ -1,0 +1,113 @@
+# Iron Studies
+
+Iron studies are a panel consisting of most of:
+
+* **Ferritin**\
+Intracellular iron storage protein and the gold standard for assessing total iron stores. Ferritin is:
+	* Synthesised in the liver at a rate proportional to serum iron
+	* Found in all cells\
+	Plasma ferritin is proportionate to total body ferritin.
+	* An acute phase reactant
+
+:::column-margin
+: Causes of Abnormal Ferritin Levels
+
++-----------------+---------------------------------+
+| ↓ Ferritin      | ↑ Ferritin                      |
++=================+=================================+
+| Iron deficiency | Malignancy                      |
+|                 +---------------------------------+
+|                 | Iron overload:                  |
+|                 |                                 |
+|                 | * Haemochromotosis              |
+|                 | * Transfusion-dependence        |
+|                 +---------------------------------+
+|                 | Inflammation:                   |
+|                 |                                 |
+|                 | * **HLH**                       |
+|                 | * Still's disease               |
+|                 | * Juvenile idiopathic arthritis |
+|                 | * Rheumatological disease       |
+|                 +---------------------------------+
+|                 | Infection:                      |
+|                 |                                 |
+|                 | * Sepsis                        |
+|                 | * HIV                           |
++-----------------+---------------------------------+
+:::
+
+* **Serum Iron**\
+Total serum iron content, which:
+	* Consists of both ferric (Fe^3+^) iron and transferrin-bound ferric iron
+	* Undergoes substantial diurnal variation
+	* ↓ With:
+		* Iron deficiency
+	* ↑ With:
+		* Haemolysis
+		* Iron toxicity
+			* Overdose
+			* Haemochromatosis
+		* Hepatic necrosis\
+\
+* **Transferrin**\
+Iron binding protein that:
+	* Delivers iron to the bone marrow
+	* Binds free iron\
+	↓ Availability to microbes.
+	* Is a **negative acute phase reactant**
+	* ↓ With:
+		* Inflammation
+		* Hepatic disease
+		* Nephrotic syndrome
+		* Malnutrition
+	* ↑ With:
+		* Iron deficiency\
+\
+* **Transferrin Saturation**\
+Proportion of transferrin binding sites filled with iron atoms.
+	* ↓ With:
+		* Iron deficiency
+	* ↑ With:
+		* Iron overload
+
+## Interpretation
+
+: Interpretation of Iron Studies
+
++------------------------------+-------------------------+----------------------------+------------------------------------------------------------+---------------+
+|                              | Iron Deficiency Anaemia | Anaemia of Chronic Disease | Acute Phase Response                                       | Iron Overload |
++==============================+=========================+============================+============================================================+===============+
+| MCV\                         | ↓                       | ↓                          | Normal                                                     | Normal        |
+| (80-100 fL)                  |                         |                            |                                                            |               |
++------------------------------+-------------------------+----------------------------+------------------------------------------------------------+---------------+
+| MCHC\                        | ↓                       | ↓                          | Normal                                                     | Normal        |
+| (32-36 g/dL)                 |                         |                            |                                                            |               |
++------------------------------+-------------------------+----------------------------+------------------------------------------------------------+---------------+
+| Ferritin\                    | ↓                       | Normal                     | ↑                                                          | ↑             |
+| (30-100 µg/L)                |                         |                            |                                                            |               |
++------------------------------+-------------------------+----------------------------+------------------------------------------------------------+---------------+
+| Serum Iron\                  | ↓                       | ↓                          | ↓                                                          | ↑             |
+| (60-170 μg/dL)               |                         |                            |                                                            |               |
++------------------------------+-------------------------+----------------------------+------------------------------------------------------------+---------------+
+| Transferrin\                 | ↑                       | ↓                          | ↓                                                          | Normal        |
+| (Variable)                   |                         |                            |                                                            |               |
++------------------------------+-------------------------+----------------------------+------------------------------------------------------------+---------------+
+| Transferrin Saturation\      | ↓                       | Normal                     | ↓                                                          | ↑             |
+| (20-50%)                     |                         |                            |                                                            |               |
++------------------------------+-------------------------+----------------------------+------------------------------------------------------------+---------------+
+| Total Iron Binding Capacity\ | ↑                       | ↓/Normal                   | ↓                                                          | ↓             |
+| (240-450 μg/dL)              |                         |                            |                                                            |               |
++------------------------------+-------------------------+----------------------------+------------------------------------------------------------+---------------+
+| Response to Iron             | Haemoglobin normalises  | No response                | No response                                                | N/A           |
++------------------------------+-------------------------+----------------------------+------------------------------------------------------------+---------------+
+| Notes                        |                         |                            | Partial response may occur with concurrent iron deficiency |               |
++------------------------------+-------------------------+----------------------------+------------------------------------------------------------+---------------+
+
+:::column-margin
+Total iron binding capacity is calculated from transferrin.
+:::
+
+
+---
+
+## References

@@ -1,0 +1,27 @@
+# Thrombophilia
+
+: Thrombophilia Screen
+
++-------------------------------------+---------------------------+-----------------+
+| Diagnostic Test                     | Thrombophilia             | Causes          |
++=====================================+===========================+=================+
+| * Antithrombin Levels               | Antithrombin deficiency   | * Vasculitis    |
+|                                     |                           | * Liver disease |
+|                                     |                           | * DIC           |
++-------------------------------------+---------------------------+-----------------+
+| * Protein C Level                   | Protein C deficiency      |                 |
++-------------------------------------+---------------------------+-----------------+
+| * Protein S Level                   | Protein S deficiency      |                 |
++-------------------------------------+---------------------------+-----------------+
+| * Activated Protein C Clotting Time | Factor V Leiden           |                 |
++-------------------------------------+---------------------------+-----------------+
+| * Lupus Anticoagulant               | Antiphospholipid syndrome | * SLE           |
+| * Anti-β2-glycoprotein-I Antibody   |                           |                 |
+| * Anticardiolipin Antibody          |                           |                 |
++-------------------------------------+---------------------------+-----------------+
+| * Fasting Homocysteine Assay        | Hyperhomocysteinaemia     |                 |
++-------------------------------------+---------------------------+-----------------+
+
+---
+
+## References

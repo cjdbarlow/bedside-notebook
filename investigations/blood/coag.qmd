@@ -119,8 +119,25 @@ Time taken for blood to clot after thrombin has been added. The TT is:
 * A test of fibrinogen to fibrin conversion
 * Prolonged by:
 	* ↓ Fibrinogen
-	* Dysmorphic fibrinogen
+	* Dysfibrinogenaemia
 	* Heparin
+	* Presence of FDP
+
+### Reptilase Time
+
+Time taken for blood to clot after addition of reptilase, which is:
+
+:::column-margin
+Reptilase is also known as batroxobin, and is a haemolytic snake venom harvested from some aggressive species of the *Bothrops* genus of South American pit viper.
+:::
+
+* Used as an adjunct to identify the cause of an ↑ TCT
+* Normal with:
+	* Heparin
+	* Hirudin
+	* Direct thrombin inhibitor
+* Prolonged by:
+	* Dysfibrinogenaemia
 	* Presence of FDP
 
 
@@ -134,7 +151,10 @@ Mixing studies involve combining equal parts normal donor plasma and patient pla
 	* Direct thrombin inhibitors
 		* Heparin
 		* Dabigatran
-	* Acquired Factor VIII inhibitor
+	* Acquired Factor VIII inhibitor\
+	Acquired haemophilia A.
+	* Lupus anticoagulant
+		* Antiphospholipid syndrome
 
 :::column-margin
 How much correction is required for result to be "corrected" is controversial:
@@ -146,6 +166,10 @@ How much correction is required for result to be "corrected" is controversial:
 	* Entering the normal range
 	* Falling below some laboratory standardised value\
 	Change of >70% is usually considered a correction.
+:::
+
+:::column-margin
+{{< include /includes/lupus_anticoagulant.qmd >}}
 :::
 
 ### Fibrinogen
@@ -209,22 +233,94 @@ Due to the strong evidence supporting use of antifibrinolytics such as TXA in bl
 	* Results do not translate directly to standard coag assays which are used in most guidelines for monitoring treatment
 	* Unclear what values should be targeted
 * Measure various parameters including:
-	* **R** (Reaction) **time**\
+	* **R** (Reaction) **time** (Clotting Time)\
 	Time until initial fibrin formation.
-		* Efficacy of clotting cascade
-		* Prolonged R time treated with factor replacement
-	* **K** (Kinetic) **time**/**α-angle**\
+		* Efficacy of clotting cascade\
+		* Prolonged R time indicates:
+			* Clotting factor deficiency
+				* Warfarin
+			* Direct thrombin inhibition
+			* Heparin
+		* Prolonged R time treated with:
+			* Factor replacement
+			* Reversal of anticoagulant
+	* **K** (Kinetic) **time**/**α-angle** (Clot Formation Time)\
 	Both index the time taken to achieve a certain level of clot strength.
-		* ↓ α-angle or ↑ K time are treated with cryoprecipitate
-	* **Maximum Amplitude**\
+		* Prolonged K time indicates:
+			* Inadequate platelets
+				* Quantitative\
+				Thrombocytopaenia.
+				* Qualitative\
+				Platelet dysfunction.
+			* ↓ Fibrinogen
+			* Severe factor deficiency\
+			Will also ↑ R time.
+		* ↓ α-angle or ↑ K time are treated with:
+			* Cryoprecipitate
+			* Platelets
+	* **Maximum Amplitude** (Maximum Clot Firmness)\
 	Strength of platelet-fibrin interaction.
-		* ↓ MA treated with platelets or DDAVP (if qualitative defect)
+		* ↓ MA indicates inadequate platelet function
+		* Treatment with:
+			* Platelets
+			* DDAVP\
+			If qualitative defect.
 	* **Lysis time**
 		* Time taken until clot degrades by a certain percentage (e.g. LY30)
 		* Short lysis time treated with antifibrinolytics
 
 :::column-margin
+The ROTEM definitions are listed in **bold**, the TEG equivalents are in parentheses.
+:::
+
+:::column-margin
 ![](/resources/teg.jpg)
+:::
+
+## Interpretation
+
+: Interpretation of Conventional Coagulation Assays
+
++-----------------+------------------------------------+--------------------------------------+
+|                 | Normal PT                          | ↑ PT                                 |
++=================+====================================+======================================+
+| **Normal APTT** | * von Willebrand's disease         | * ↓ Vitamin K dependent factors      |
+|                 | * Platelet dysfunction             |     * Warfarin therapy               |
+|                 | * Fibrinolysis                     |     * Vitamin K deficiency           |
+|                 |                                    |     * Liver disease                  |
+|                 |                                    | * Isolated Factor VII deficiency     |
++-----------------+------------------------------------+--------------------------------------+
+| **↑ APTT**      | Anticoagulant Factor:              | Over-anticoagulation:                |
+|                 |                                    |                                      |
+|                 | * Normal TCT and Reptilase Time:   | * Warfarin toxicity                  |
+|                 |   * Antiphospholipid antibodies    | * Direct thrombin inhibitor toxicity |
+|                 | * ↑ TCT and normal Reptilase Time: | * Post thrombolysis                  |
+|                 |   * Heparin                        | * Snake bite                         |
+|                 |   * Heparin-like anticoagulants\   |                                      |
+|                 |   Malignancy.                      | Other Coagulopathy:                  |
+|                 | * ↑ TCT and ↑ Reptilase Time:      |                                      |
+|                 |   * ↓ Fibrinogen                   | * DIC                                |
+|                 |   * Dysfibrinogenaemia             | * Massive transfusion                |
+|                 |   * Paraproteinaemia               | * Severe liver failure               |
+|                 |   * ↑ FDP                          |                                      |
+|                 |   * Amyloidosis                    |                                      |
+|                 |                                    |                                      |
+|                 | Factor deficiency:                 |                                      |
+|                 |                                    |                                      |
+|                 | * von Willebrand's disease\        |                                      |
+|                 | Functional factor 8 deficiency.    |                                      |
+|                 | * Factor 8 deficiency\             |                                      |
+|                 | Haemophilia A.                     |                                      |
+|                 | * Factor 9 deficiency\             |                                      |
+|                 | Haemophilia B.                     |                                      |
+|                 | * Factor 11 deficiency\            |                                      |
+|                 | Haemophilia C.                     |                                      |
+|                 | * Factor 12 deficiency             |                                      |
++-----------------+------------------------------------+--------------------------------------+
+
+:::column-margin
+* **↑ APTT**: **Intrinsic pathway** failure
+* **↑ PT**: **Extrinsic pathway** failure	
 :::
 
 ## Key Studies

@@ -1,0 +1,194 @@
+# Erythrocytes
+
+Red cell indices reported on a full blood exam may include:
+
+:::column-margin
+Red cell indices essentially describe:
+
+* How much haemoglobin there is
+* How many cells the haemoglobin is distributed into
+:::
+
+* **Haemoglobin**\
+Concentration of haemoglobin in blood.
+	* Indicator of oxygen carrying capacity
+* **Haematocrit**\
+Proportion of blood volume made up of erythrocytes.
+	* Usually ~3x the haemoglobin
+* **Red cell count**\
+Number of cells per microlitre.
+* **MCV**\
+Average volume of individual erythrocytes.
+	* Classifies anaemia into microcytic, macrocytic, or normocytic
+* **MCH**\
+Average amount of haemoglobin per erythrocyte.
+* **MCHC**\
+Average concentration of haemoglobin in red cells.
+* **Red cell histogram**\
+Graphical display of variation in erythrocyte volume.
+* **RDW**\
+Measure of *variation* in erythrocyte volume, calculated from the width of the histogram at 1 SD from the mean, divided by the MCV.
+
+:::column-margin
+![Red Cell Histogram](/resources/rbc_histo.jpeg)
+:::
+
+## Abnormalities
+
+Abnormal findings include:
+
+:::column-margin
+Some abnormal findings are specific to blood smears, others are detected on automated analysers.
+:::
+
+:::column-margin
+Splenic macrophages remove damaged and abnormal erythrocytes from circulation; asplenic patients may therefore accumulate a significant number of the more abnormal forms that are produced in small numbers in health.
+:::
+
+* **Macrocytosis** (Normal: 80-10 fL)\
+Enlarged erythrocytes, occurring usually due to abnormal development or membrane composition. Causes are divided into:
+	* Common:
+		* Vitamin B~12~ deficiency
+		* Folate deficiency
+		* Alcoholism
+		* Myelodysplasia
+	* Uncommon
+		* Reticulocytosis
+		* Liver disease
+		* Hypothyroidism
+		* Multiple myeloma
+		* Aplastic anaemia
+		* Leukaemia
+		* Drugs
+
+:::column-margin
+![Macrocytosis](/resources/macrocytosis.png)
+:::
+
+* **Dimorphic population**\
+Bimodal distribution of erythrocyte cell volume on a red cell histogram. Usually occurs due to:
+	* Normocytic normochromic cells that existed either prior to disease onset or after treatment
+	* Microcytic hypochromic cells that existed either prior to (e.g., iron infusion) or after (e.g. myeloablation) treatment
+
+:::column-margin
+![RBC Histogram: Post-Iron Infusion](/resources/rbc_histo_post_iron.png)
+:::
+
+* **Reticulocytosis** (Normal: 0.5-2.5%)\
+Juvenile erythrocytes that contain RNA remnants and ribosomes but no nucleus, ejected into circulation in response to anaemia.
+
+:::column-margin
+![Reticulocytosis](/resources/retic.png)
+:::
+
+* **Nucleated erythrocytes** (Normoblastaemia)\
+Circulating erythrocyte precursors that have yet to eject their nucleus, indicating either:
+	* ↓ DO~2~\
+	Release of immature red cells to try and add some additional oxygen carrying capacity. Causes include:
+		* Hypoxaemia
+		* Anaemia\
+		Any cause.
+	* Hyposplenism\
+	Normoblasts are normally removed in the spleen.
+		* Hyposplenism
+		* Malaria
+		* Sickle cell anaemia
+		* Physiologic\
+		3-10 normoblasts per 100 WBC are normal at birth.
+	* Bone marrow stress\
+	Upregulation of bone-marrow production, overwhelming capacity of spleen for elimination.
+		* Bone marrow destruction
+			* Haematological malignancy
+			* Bony metastases
+			* Histiocytosis
+			* Sarcoidosis
+		* Extramedullary haematopoiesis
+			* Chronic haemolysis
+			* Polycythaemia vera
+	* Multifactorial
+		* Sepsis
+		* Uraemia
+		* Liver disease
+		* DKA
+		* IBD
+		* Burns
+		* Chemotherapy
+
+:::column-margin
+![Nucleated Erythrocyte](/resources/normoblast.png)
+:::
+
+* **Rouleaux Formations**\
+Reversible agglutination of erythrocyte in a stack or coin-like formation, which may occur due to:
+	* ↑ Plasma protein (but not albumin)
+		* Multiple myeloma
+	* Inflammation
+		* Malignancy
+		* Infection
+		* Inflammation
+	* ↑ Blood viscosity
+		* Hyperviscosity syndromes
+		* Dehydration
+
+:::column-margin
+![Rouleaux Formation](/resources/rouleaux.jpg)
+:::
+
+* **Target Cells**\
+Erythrocyte with a disproportionate amount of membrane to haemoglobin, and is:
+	* Common in:
+		* Thalassaemia
+		* Jaundice
+		* Post-splenectomy
+	* Uncommon in:
+		* Sickle cell anaemia
+		* Iron deficiency
+
+:::column-margin
+![Target Cells](/resources/target.jpg)
+:::
+
+* **Spherocytosis**\
+Erythrocyte with a disproportionate amount of haemoglobin to membrane, resulting in distortion of the biconcave disk to a spherical shape with a greater volume-to-surface area ratio. Causes include:
+	* Haemolytic anaemias
+	* Hereditary spherocytosis
+
+:::column-margin
+![Spherocytosis](/resources/spherocytosis.jpg)
+:::
+
+* **Howell-Jolly Bodies**\
+Erythrocyte containing DNA remnants, which occur with:
+	* Post-splenectomy
+	* Haemolysis
+	* Megaloblastic anaemia
+	* Macrocytosis
+	* Corticosteroids
+	* Pernicious anaemia
+
+:::column-margin
+![Howell-Jolly Bodies](/resources/howell-jolly.jpg)
+:::
+
+* **Heinz Bodies** (Heinz-Ehrlich bodies)\
+Erythrocyte containing denatured haemoglobin, indicating oxidative stress due to:
+	* Toxins
+		* Quinidine
+		* Primaquine
+	* Unstable haemoglobin form
+		* α-thalassaemia
+		* Methaemoglobinaemia
+	* Damaged RBC metabolism
+		* G6PD
+		* Bactrim toxicity
+
+:::column-margin
+![Heinz Bodies](/resources/heinz.jpg)
+:::
+
+---
+
+## References
+
+1. Constantino BT. [The Red Cell Histogram and The Dimorphic Red Cell Population](https://academic.oup.com/labmed/article/42/5/300/2505011). Laboratory Medicine. 2011;42(5):300-308. doi:10.1309/LMF1UY85HEKBMIWO
+1. Constantino BT, Cogionis B. [Nucleated RBCs—Significance in the Peripheral Blood Film](https://academic.oup.com/labmed/article/31/4/223/2657091). Laboratory Medicine. 2000;31(4):223-229. doi:10.1309/D70F-HCC1-XX1T-4ETE

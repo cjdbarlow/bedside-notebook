@@ -1,4 +1,4 @@
-# Red Cell Serology
+# Transfusion Serology
 
 Immunohaematology and red cell serological tests are used to identify safe products for transfusion. These tests include:
 
@@ -6,8 +6,6 @@ Immunohaematology and red cell serological tests are used to identify safe produ
 * Antiglobulin (Coombs) testing
 	* Direct
 	* Indirect
-
-
 
 ## Saline Agglutination
 

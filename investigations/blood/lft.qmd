@@ -1,6 +1,6 @@
 # Liver Function Tests
 
-Liver function tests are a panel, usually with most of:
+Liver function tests are a panel consisting of most of:
 
 * **Bilirubin**\
 End product of haeme metabolism. It is conjugated in the liver, so we can measure:
@@ -18,9 +18,8 @@ Kreb cycle enzyme, present in many tissues but most concentrated in **hepatocyte
 Kreb cycle enzyme, used to turn alanine into pyruvate. Present in (essentially) all cells, but abundant in hepatocytes. ALT is:
 	* Released after AST
 	* Rises higher and longer than AST
-	* Usually lower if alcohol is the cause
-
-
+	* Usually lower if alcohol is the cause\
+\
 * **Albumin**\
 Hepatically synthesised plasma protein, half-life of ~20 days.
 * **Total protein**\
@@ -28,6 +27,8 @@ Sum of all plasma proteins (not all hepatically synthesised), including: albumin
 
 
 ## Interpretation
+
+: Interpretation of Liver Function Tests
 
 +-----------------+----------------+-----------------------------------------+
 | Pattern         | Presentation   | Causes                                  |
@@ -194,3 +195,5 @@ Pathology:
 * Liver biopsy
 
 ---
+
+## References

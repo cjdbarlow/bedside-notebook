@@ -1,0 +1,114 @@
+# Leukocytes
+
+White cell indices reported on a full blood exam may include:
+
+## Abnormalities
+
+* **Immature Granulocytes** (3-5%)\
+An ↑ in immature granulocytes granulocytes released from the bone marrow, which:
+	* Commonly includes "band" cells, which have not yet developed the segmented nucleus of an adult neutrophil
+	* Is described as a **left shift**, which reflects an ↑ in the ratio of immature:mature neutrophils
+	* Occurs in response to either:
+		* Inflammation
+			* Necrosis
+		* Infection
+			* Sepsis
+		* Anaemia
+			* Haemorrhage
+		* Bone marrow infiltration
+
+:::column-margin
+{{< include /includes/left_shift.qmd >}}
+:::
+
+* **Leukemoid Reaction**\
+Extreme leukocytosis (>50×10^3^/mL) occurring for a reason *other* than leukaemia. Features:
+	* Predominantly neutrophils
+	* Marked left shift
+	* Usually due to:
+		* Infection
+		* Inflammatory
+		* Drugs and toxins
+		* Malignancy
+		* Haemorrhage
+		* Haemolysis
+
+
+:::column-margin
+: Causes of Leukemoid Reactions
+
++----------------------------+---------------------------------------------+
+| Category                   | Examples                                    |
++============================+=============================================+
+| Infective                  | * *C. diff* colitis                         |
+|                            | * Disseminated TB                           |
+|                            | * Shigellosis                               |
++----------------------------+---------------------------------------------+
+| Inflammatory               | * Ischaemic hepatitis                       |
+|                            | * DKA                                       |
+|                            | * HHS                                       |
++----------------------------+---------------------------------------------+
+| Drugs and Toxins           | * Ethylene glycol                           |
+|                            | * Corticosteroids                           |
+|                            | * Minocycline                               |
+|                            | * Recombinant haematopoietic growth factors |
++----------------------------+---------------------------------------------+
+| Malignancy                 | * Carcinoma                                 |
+|                            | * Hodgkin's Lymphoma                        |
+|                            | * Melanoma                                  |
+|                            | * Sarcoma                                   |
++----------------------------+---------------------------------------------+
+| Haemorrhage and Haemolysis | * Retroperitoneal haemorrhage               |
++----------------------------+---------------------------------------------+
+| Other                      | * Alcoholic steatohepatitis                 |
++----------------------------+---------------------------------------------+
+:::
+
+* **Toxic Changes**\
+Toxic changes requires **two of** the following:
+	* **Toxic granulation**\
+	Dark, coarse, peroxidase-containing granules that have not been lost with neutrophil maturation. Indicate ↑ release, due to:
+		* Infection
+		* Inflammation
+			* Burns
+			* Trauma
+		* G-CSF
+	* **Toxic vacuolation**\
+	Presence of (abnormal) neutrophil vacuoles, indicating active phagocytosis. Occur with:
+		* Bacteraemia
+		* Fungaemia
+		* Liver failure
+		* G-CSF
+		* Artifact
+	* **Döhle bodies**\
+	Blue cytoplasmic inclusions, which are the remnant of the rough endoplasmic reticulum. Occur with:
+		* Leukemoid reactions
+		* Exotic infections
+			* Syphilis
+			* Typhoid
+			* Tuberculosis
+
+:::column-margin
+![Toxic Granulation](/resources/toxic-granulation.png)
+:::
+
+:::column-margin
+![Toxic Vacuolation](/resources/toxic-vacuolation.jpg)
+:::
+
+:::column-margin
+![Döhle Bodies](/resources/dohle.jpg)
+:::
+
+* **Smudge Cells**\
+Destruction of fragile lymphocytes during blood smear preparation, indicative of CLL.
+
+:::column-margin
+![Smudge Cells](/resources/smudge.jpg)
+:::
+
+---
+
+## References
+
+1. Sakka V, Tsiodras S, Giamarellos-Bourboulis EJ, Giamarellou H. [An update on the etiology and diagnostic evaluation of a leukemoid reaction](https://www.sciencedirect.com/science/article/abs/pii/S0953620506001634). European Journal of Internal Medicine. 2006;17(6):394-398. doi:10.1016/j.ejim.2006.04.004

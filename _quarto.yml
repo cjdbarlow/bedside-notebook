@@ -22,16 +22,15 @@ format:
         theme: themes/titfl.scss
         css: themes/custom.css
         include-before-body: themes/litfl.html
-        cap-location: margin
-        citation-location: margin
         reference-location: document
         number-sections: false
         # Style
         toc: true
         toc-title: "On this Page"
-        tbl-cap-location: top
         sidebar:
         style: floating
+        tbl-cap-location: top
+        fig-cap-location: top
         fig-align: center
         fig-format: svg
         fig-dpi: 326
@@ -631,7 +630,6 @@ book:
           # AI
           # PV
           # TV
-          # Endocarditis
         - part: "Pericardial"
           chapters:
           - disease/cvs/tamponade.qmd
@@ -802,19 +800,9 @@ book:
         #   chapters:
               # IBD
               # Malabsorption
-        # Haematology and Oncology
-      - part: "Haematology/Oncology"
+        # Haematology
+      - part: "Haematology"
         chapters:
-        - part: "Malignancy"
-          chapters:
-          - disease/onc/tls.qmd
-          # Lung ca
-          # Renal ca
-          - disease/onc/leukaemia.qmd
-          - disease/onc/lymphoma.qmd
-          - disease/onc/myeloma.qmd
-          - disease/onc/phaeo.qmd
-          - disease/onc/carcinoid.qmd
         - part: "Erythrocyte"
           chapters:
           - disease/haeme/sickle.qmd
@@ -827,31 +815,12 @@ book:
           - disease/haeme/vwd.qmd
           - disease/haeme/itp.qmd
           - disease/haeme/microangiopathies.qmd
-      # Rheumatology, Immunology, and Dermatology
-      - part: "Immunology"
+      - part: "Integumentary"
         chapters:
-        - part: "Acute Reactions"
+        - part: "Soft Tissue"
           chapters:
-          - disease/immune/anaphylaxis.qmd
-          - disease/immune/mods.qmd
-          # TENS/SJS
-        - part: "Immunomodulatory"
-          chapters:
-          - disease/immune/iris.qmd
-          - disease/immune/gvhd.qmd
-        - part: "Rheumatology"
-          chapters:
-          - disease/immune/ra.qmd
-          - disease/immune/scleroderma.qmd
-          - disease/immune/sarcoid.qmd
-          # SLE
-          # PAM
-          # PMR
-          # CREST
-          # Marfans
-        # - part: "Vasculitis"
-        #   chapters:
-        # Trauma
+          - disease/infective/nsti.qmd
+      - part: <hr>
       - part: "Trauma"
         chapters:
         - disease/trauma/trauma_overview.qmd
@@ -890,13 +859,12 @@ book:
           - disease/trauma/pelvic.qmd
         # - part: "Extremities"
         #   chapters:
-        # Infection
-      - part: "Infection"
+        # Infective
+      - part: "Infective"
         chapters:
         - part: "Systemic"
           chapters:          
           - disease/infective/sepsis.qmd
-          - disease/infective/nsti.qmd
           - disease/infective/clabsi.qmd
         - part: "Viral"
           chapters:
@@ -921,8 +889,34 @@ book:
           - disease/infective/tetanus.qmd
           - disease/infective/tss.qmd
           # Botulism
-        # Toxins
-      - part: "Toxin and Environmental"
+      # Oncology
+      - part: "Malignant"
+        chapters:
+        - disease/onc/tls.qmd
+        - part: "Solid Organ"
+          chapters:
+          # Lung ca
+          # Renal ca
+          - disease/onc/phaeo.qmd
+          - disease/onc/carcinoid.qmd
+        - part: "Haematological"
+          chapters:
+          - disease/onc/leukaemia.qmd
+          - disease/onc/lymphoma.qmd
+          - disease/onc/myeloma.qmd
+      # Environmental
+      - part: "Environmental"
+        chapters:
+        - disease/enviro/cbrn.qmd
+        - disease/enviro/drowning.qmd
+        - disease/enviro/electrocution.qmd
+        - disease/enviro/heat.qmd
+        # Primary hypothermia
+        # Barotrauma
+        # Decompression injury
+        # Hypothermia
+      # Toxins
+      - part: "Toxin"
         chapters:
         - part: "Toxidromes"
           chapters:
@@ -956,25 +950,31 @@ book:
           - disease/tox/co.qmd
           - disease/tox/cyanide.qmd
           - disease/tox/paraquat.qmd
-        - part: "Environmental"
-          chapters:
-          - disease/tox/cbrn.qmd
-          - disease/tox/drowning.qmd
-          - disease/tox/electrocution.qmd
-          - disease/tox/heat.qmd
-          # Primary hypothermia
-          # Barotrauma
-          # Decompression injury
-          # Hypothermia
-        # Obstetrics
-      - part: "Obstetric"
+      # Rheumatology, Immunology
+      - part: "Immune"
         chapters:
-        - disease/obs/htn.qmd
-        - disease/obs/eclampsia.qmd
-        - disease/obs/pad.qmd
-        - disease/obs/aph.qmd
-        - disease/obs/pph.qmd
-        # Congenital
+        - part: "Acute Reactions"
+          chapters:
+          - disease/immune/anaphylaxis.qmd
+          - disease/immune/mods.qmd
+          # TENS/SJS
+        - part: "Immunomodulatory"
+          chapters:
+          - disease/immune/iris.qmd
+          - disease/immune/gvhd.qmd
+        - part: "Rheumatology"
+          chapters:
+          - disease/immune/ra.qmd
+          - disease/immune/scleroderma.qmd
+          - disease/immune/sarcoid.qmd
+          # SLE
+          # PAM
+          # PMR
+          # CREST
+          # Marfans
+        # - part: "Vasculitis"
+        #   chapters:
+      # Congenital
       - part: "Congenital"
         chapters:
         - disease/congenital/achondroplasia.qmd
@@ -986,15 +986,31 @@ book:
         - disease/congenital/mh.qmd
         - disease/congenital/mucopolysaccharidosis.qmd
         - disease/congenital/williams.qmd
+      # Obstetric
+      - part: "Obstetric"
+        chapters:
+        - disease/obs/htn.qmd
+        - disease/obs/eclampsia.qmd
+        - disease/obs/pad.qmd
+        - disease/obs/aph.qmd
+        - disease/obs/pph.qmd
     - part: <hr>
     # Investigations
     - part: "Investigations"
       chapters:
       - part: "Blood"
         chapters:
-        - investigations/blood/lft.qmd
-        - investigations/blood/coag.qmd
-        - investigations/blood/transfusion.qmd
+        - part: "Haematology"
+          chapters:
+          - investigations/blood/rbc.qmd
+          - investigations/blood/wbc.qmd
+          - investigations/blood/iron.qmd
+          - investigations/blood/coag.qmd
+          - investigations/blood/thrombophilia.qmd
+          - investigations/blood/transfusion.qmd
+        - part: "Chemistry"
+          chapters:
+          - investigations/blood/lft.qmd
       - part: "Other"
         chapters:        
         - investigations/csf.qmd
