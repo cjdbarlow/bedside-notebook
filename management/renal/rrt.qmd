@@ -30,24 +30,27 @@ I have elected to use SLED because during renal recovery second-daily (or less) 
 +-----------+------------------------------------------------------+----------------------------------------------------+--------------------------------------------------------------------------------+
 | Technique | Clinical Setting                                     | Advantages                                         | Disadvantages                                                                  |
 +===========+======================================================+====================================================+================================================================================+
-| IHD       | - HDx stability                                      | - Rapid                                            | - Hypotension due to rapid volume shifts\                                      |
-|           | - Planned for continued dialysis in ward environment | - Cheaper                                          | May delay renal recovery in the ICU patient.                                   |
-|           |                                                      |                                                    | - Cerebral oedema due to rapid fluid shifts (dialysis disequilibrium syndrome) |
+| IHD       | * HDx stability                                      | * Rapid                                            | * Hypotension due to rapid volume shifts\                                      |
+|           | * Planned for continued dialysis in ward environment | * Cheaper                                          | May delay renal recovery in the ICU patient.                                   |
+|           |                                                      |                                                    | * Cerebral oedema due to rapid fluid shifts (dialysis disequilibrium syndrome) |
 +-----------+------------------------------------------------------+----------------------------------------------------+--------------------------------------------------------------------------------+
-| CRRT      | - HDx instability                                    | - Technically simple(r)                            | - Slower clearance                                                             |
-|           | - High ICP                                           | - HDx stability                                    | - Prolonged anticoagulation/immobilisation                                     |
-|           |                                                      | - Continuous removal of toxins                     | - Expensive                                                                    |
+| CRRT      | * HDx instability                                    | * Technically simple(r)                            | * Slower clearance                                                             |
+|           | * ↑ ICP                                              | * HDx stability                                    | * Prolonged anticoagulation/immobilisation                                     |
+|           |                                                      | * Continuous removal of toxins                     | * Expensive                                                                    |
 +-----------+------------------------------------------------------+----------------------------------------------------+--------------------------------------------------------------------------------+
-| SLED      | - HDx instability                                    | - HDx stability                                    | - Slow clearance of toxins                                                     |
-|           |                                                      | - Reduced anticoagulation requirement              | - ↑ Technical complexity                                                       |
-|           |                                                      | - Facilitates mobilisation with overnight dialysis |                                                                                |
+| SLED      | * Encourage activity                                 | * HDx stability                                    | * Slow clearance of toxins                                                     |
+|           |                                                      | * Reduced anticoagulation requirement              | * ↑ Technical complexity                                                       |
+|           |                                                      | * Facilitates mobilisation with overnight dialysis |                                                                                |
 +-----------+------------------------------------------------------+----------------------------------------------------+--------------------------------------------------------------------------------+
-| PD        | - HDx instability                                    | - Simple                                           | - Reduced clearance in catabolic patients                                      |
-|           | - Coagulopathic                                      | - Cheap                                            | - Protein loss                                                                 |
-|           | - Difficult access                                   | - No anticoagulation requirement                   | - No control over rate of fluid removal                                        |
-|           | - High ICP                                           | - No vascular access requirement                   | - Risk of peritonitis                                                          |
-|           | - Austere setting                                    |                                                    | - Hyperglycaemia                                                               |
-|           |                                                      |                                                    | - Respiratory impairment                                                       |
+| PD        | * HDx instability                                    | * Simple                                           | * Reduced clearance in catabolic patients                                      |
+|           | * Coagulopathic                                      | * Cheap                                            | * Protein loss                                                                 |
+|           | * Difficult venousaccess                             | * No anticoagulation requirement                   | * No control over rate of fluid removal                                        |
+|           | * High ICP                                           | * No vascular access requirement                   | * Risk of peritonitis                                                          |
+|           | * Austere setting                                    |                                                    | * Hyperglycaemia                                                               |
+|           |                                                      |                                                    | * Respiratory impairment                                                       |
++-----------+------------------------------------------------------+----------------------------------------------------+--------------------------------------------------------------------------------+
+| SCUF      | * Removal of water\                                  | * Haemodynamic stability                           |                                                                                |
+|           | 100-500mL/hr of UF.                                  |                                                    |                                                                                |
 +-----------+------------------------------------------------------+----------------------------------------------------+--------------------------------------------------------------------------------+
 
 ---

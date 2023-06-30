@@ -1,8 +1,10 @@
-# Paediatric Anaesthetic Assessment
-
-*This covers specific elements of assessing a paediatric patient for anaesthesia. The general elements of the [pre-Anaesthetic](/assessment/anaesthetic/pre-anaesthetic.md) and [considerations for paediatric anaesthesia](/anaesthesia/paeds/considerations.md) are covered elsewhere.*
+# Paediatric Anaesthetic Assessment {#sec-paeds_anaes_ax}
 
 Anaesthetic assessment of the paediatric patient aims to:
+
+:::column-margin
+This covers specific elements of assessing a paediatric patient for anaesthesia. The general elements of the pre-Anaesthetic assessment are covered under @sec-pre_anaes, and considerations for paediatric anaesthesia are covered under @sec-paeds_anaes.
+:::
 
 * Obtain a medical history and examination
 * Develop rapport with the child and guardian

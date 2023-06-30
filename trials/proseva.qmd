@@ -1,6 +1,6 @@
 * [PROSEVA](https://www.nejm.org/doi/10.1056/NEJMoa1214103) (2013)
 	* 474 Europeans with ARDS (PF <150mmHg), intubated for <36 hours at inclusion
-	* Multicentre, assessor-blinded, RCT
+	* Multicentre (experienced proning units), assessor-blinded, RCT
 	* 456 patients gives 90% power for 15% ARR from control mortality of 60%
 	* Randomised to proning vs. supine
 		* Proning\
@@ -14,5 +14,5 @@
 :::
 
 :::column-margin
-PROSEVA was the definitive trial on proning, and no treat
+PROSEVA was the definitive trial on proning.
 :::

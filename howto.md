@@ -30,7 +30,9 @@ quarto::quarto_preview
 * Move trials into separate stems
 * Re-do the resuscitation section, particularly post-arrest care
 * Revise sources of sepsis table
-
+* Revise antibiotics table with some useful PK/PD/tissue penetration things
+* Move paeds anaesthesia to the concepts section and pyloromyotomy and inhaled FB to surgical sections
+* Split out paeds ICU consideations into specific disease
 
 # Package to-do
 

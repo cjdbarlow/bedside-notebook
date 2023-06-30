@@ -264,12 +264,13 @@ book:
           chapters:
             - part: "Concepts"
               chapters:
+              - management/infective/principles.qmd
               - management/infective/infection_control.qmd
+              - management/infective/stewardship.qmd
               - management/infective/resistant.qmd
               - management/infective/nosocomial.qmd
             - part: "Antimicrobials"
               chapters:
-              - management/infective/principles.qmd
               - management/infective/antibiotics.qmd
               - management/infective/antifungals.qmd
             - part: "Pathogens"
@@ -528,8 +529,9 @@ book:
         - part: "Concepts"
           chapters:
           - intensive/concepts/persistent.qmd
-          - intensive/concepts/design.qmd
           - intensive/concepts/organ.qmd
+          - intensive/concepts/paeds.qmd
+          - intensive/concepts/design.qmd
         - part: "Supportive Care"
           chapters:
           - intensive/supportive/fasthugs.qmd

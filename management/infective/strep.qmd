@@ -17,6 +17,11 @@ No change around colonies. Includes (note can be also α-haemolytic):
 	* *S. mutans*
 * **Enterococci**
 
+:::column-margin
+Enterococci were once considered **Group D** streptococci, but have broken out into their own genus based on DNA analysis.\
+\
+They are included here for posterity and organisational convenience.
+:::
 
 ## α-Haemolytic
 
@@ -108,10 +113,6 @@ Risk ↓, but not eliminated by, caesarian section. Intrapartum antibiotics give
 
 Enterococci are:
 
-:::column-margin
-Enterococci were once considered **Group D** streptococci, but have broken out into their own genus based on DNA analysis and other things. They are included here for posterity and organisational convenience.
-:::
-
 * Normal gut flora 
 * May be α/β/γ-haemolytic
 * Can **survive** in **the presence of bile** and high-salt solutions\
@@ -182,14 +183,6 @@ Risk factors:
 Other van genes exist, they are less clinically relevant.
 :::
 
-Management:
-
-* Isolation
-* Contact precautions
-* Antimicrobials
-	* Linezolid
-	Daptomycin
-
 ## Management
 
 **Specific therapy**:
@@ -213,6 +206,12 @@ Management:
 		Alternative if resistance to β-lactams.
 		* Vancomycin\
 		Alternative if penicillin allergy and clindamycin resistant.
+	* **VRE**
+		* Isolation
+		* Contact precautions
+		* Antimicrobials
+			* Linezolid
+			* Daptomycin
 * Procedural
 	* Source control
 

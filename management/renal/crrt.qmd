@@ -25,7 +25,8 @@ CRRT relies on the same physical principles as IHD and SLED, but as fluid shifts
 Consequently, CRRT is preferred in patients with:
 
 * Haemodynamic instability
-* High ICPs, brain oedema
+* ↑ ICP
+* Cerebral oedema
 :::
 
 
@@ -33,15 +34,15 @@ Consequently, CRRT is preferred in patients with:
 
 There are a number of technical variations of CRRT based on the physical principles used:
 
-* **Haemofiltration**\
+* **Haemofiltration** (CVVH)\
 No dialysate is used.
 	* Ultrafiltration results in a solute-water mix filtered across the semi-permeable membrane\
 	* A substitution solution is used to replace lost volume\
 	The difference between the ultrafiltration volume produced and the substitution solution infused is the fluid removal.
-* **Haemodialysis**\
+* **Haemodialysis** (CVVHD)\
 Counter-current delivery of dialysis solution.
 	* Clearance is almost entirely by diffusion
-* **Haemodiafiltration**\
+* **Haemodiafiltration** (CVVHDF)\
 Combination of:
 	* Counter-current dialysis solution\
 	Solute clearance by diffusion.
@@ -55,6 +56,16 @@ Indications for CRRT include:
 
 :::column-margin
 CRRT may be initiated in ICU based on anticipation of reaching these thresholds, or on a series of composite features that individually do not meet the threshold.
+:::
+
+:::column-margin
+A mnemonic for these causes is:
+
+* **A**acidosis
+* **E**lectrolyte
+* **I**ntoxication
+* **O**verload (fluid)
+* **U**raemia
 :::
 
 * Established renal failure
@@ -77,10 +88,10 @@ With oliguria/anuria.
 
 Vascular dialysis catheter:
 
-* Uncuffed, non-tunnelled catheter
+* Uncuffed, non-tunneled catheter
 * Preferentially sited in:
 	* Right IJV
-	* Femoral vin
+	* Femoral vein
 	* Left IJV
 	* Dominant SCV\
 	Risk of central vein stenosis with SCV insertion.
@@ -97,17 +108,6 @@ Solutions:
 		* Shock
 		* Hepatic failure
 		* Lactic acidosis
-
-
-## Technique
-
-Clinician-adjustable values in CRRT include:
-
-* Dose\
-Effluent production in mL/kg/hr.
-	* CRRT dose should be 20-25mL/hr\
-	This typically requires a prescription of 25-30mL/hr due to interruptions.
-	* Hypotension and electrolyte disturbances are more common at higher intensities (dosing) and are not associated with improved outcome
 
 
 ## Anticoagulation
@@ -160,11 +160,17 @@ Cannula:
 * Check anticoagulation efficacy
 * Consider ↑ or change of anticoagulation
 
+
 ## Complications
 
 * Vascular access
 * Haemodynamic instability\
 More pronounced with more aggressive dialysis modes (particularly IHD).
+
+
+## Key Studies
+
+{{< include /trials/renal.qmd >}}
 
 
 ---
@@ -173,3 +179,4 @@ More pronounced with more aggressive dialysis modes (particularly IHD).
 
 1. Kidney Disease: Improving Global Outcomes (KDIGO) Acute Kidney Injury Work Group. [KDIGO Clinical Practice Guideline for Acute Kidney Injury](http://kdigo.org/wp-content/uploads/2016/10/KDIGO-2012-AKI-Guideline-English.pdf). Kidney inter., Suppl. 2012; 2: 1–138.
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. [Intensity of Continuous Renal-Replacement Therapy in Critically Ill Patients](http://www.nejm.org/doi/full/10.1056/NEJMoa0902413). New England Journal of Medicine. 2009 Oct 22;361(17):1627–38. 

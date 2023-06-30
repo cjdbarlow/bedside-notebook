@@ -1,9 +1,9 @@
-# Considerations in Paediatric Anaesthesia
+# Considerations in Paediatric Anaesthesia {#sec-paeds_anaes}
 
 Paediatric anaesthesia:
 
 :::column-margin
-This section covers various considerations for paediatric anaesthesia. The [anaesthetic assessment of a paediatric patient](/assessment/anaesthetic/paeds.qmd) is covered elsewhere.*
+This section covers various considerations for paediatric anaesthesia. The anaesthetic assessment of a paediatric patient is covered under @sec-paeds_anaes_ax.
 :::
 
 * Presents its own unique challenges

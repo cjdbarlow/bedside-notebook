@@ -142,7 +142,10 @@ May be either:
             * Deep tracheal suctioning
             * BAL
         * *Mycoplasma pneumoniae* PCR
-        * *Chlamydophilia* PCR
+        * *Chlamydophila* PCR
+        * Influenza PCR
+        * *Legionella* PCR
+        * COVID PCR
     * Collection is ideally:
         * From a **deep cough**\
         To minimise contamination from upper respiratory tract commensals.
@@ -159,11 +162,15 @@ May be either:
         * Highly specific and moderately sensitive
         * Unaffected by antibiotic therapy
         * Level correlates with severity
+        * May have a role in narrowing spectrum of treatment to penicillin alone
 
 :::column-margin
 Anaerobic culture cannot be performed on sputum due to contamination from other upper respiratory organisms.
 :::
 
+:::column-margin
+Interpretation of sputum cultures is fraught due to the amount of contamination with oropharyngeal flora. Tracheal aspirate or BAL is preferable.
+:::
 
 **Imaging**:
 
@@ -273,6 +280,10 @@ Antimicrobial therapy is often unit or region-specific based on local flora and 
 :::
 
 :::column-margin
+Failure of treatment response is usually due to a resistance Gram *positive*, e.g. *S. pneumoniae*, and so broadening Gram negative cover from ceftriaxone to tazocin is not helpful.
+:::
+
+:::column-margin
 Up to 40% of patients have a polymicrobial infection, so narrowing the spectrum of cover following identification of an organism may result in adequate treatment.
 :::
 
@@ -336,6 +347,12 @@ Poor prognostic signs follow logically:
 
 **Steroids**:
 
+* LRTI alters alveolar membrane permeability
+    * Local inflammatory response
+    * Systemic inflammatory response
+* Immunomodulation potentially therapeutic
+* Ceftriaxone ↑ inflammation in *S. pneumoniae* (pneumonococcus) infection
+* CAP is a heterogenous disease with a variety of different causative organisms and degrees of severity
 {{< include /trials/cape_cod.qmd >}}
 
 

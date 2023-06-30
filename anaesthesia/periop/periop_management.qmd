@@ -1,7 +1,6 @@
-# Perioperative Management
+# Perioperative Management {#sec-periop}
 
-
-### Respiratory Management
+## Respiratory Management
 
 Smoking:
 
@@ -15,7 +14,7 @@ OSA:
 * Screen with STOPBANG
 * Institution of CPAP pre-operatively if appropriate
 
-### Renal Management
+## Renal Management
 
 * Identify patients at risk for AKI and aim to mitigate these risk factors
 	* Maintain volume state

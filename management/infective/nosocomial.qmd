@@ -19,11 +19,12 @@ Risk factors include:
 		* Malnutrition
 	* Vector of transmission
 		* Open wounds
-		* Invasive devices
+		* **Invasive devices**
 		* Multiple procedures
 		* Mechanically ventilated
 		* Blood transfusion
 	* Length of stay
+		* Colonisation with hospital-associated organisms
 * Environment
 	* Multiple staff
 	* Poor aseptic practice

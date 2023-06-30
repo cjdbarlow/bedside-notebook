@@ -519,12 +519,12 @@ EDH, SDH, ICH, contusion.
 {{< include /trials/decra.qmd >}}
 {{< include /trials/rescue_icp.qmd >}}
 
-
 **Other**:
 
 {{< include /trials/polar.qmd >}}
 {{< include /trials/cobi.qmd >}}
 {{< include /trials/crash.qmd >}}
+{{< include /trials/crash3.qmd >}}
 
 
 ---

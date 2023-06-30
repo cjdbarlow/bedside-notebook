@@ -49,7 +49,7 @@ In a known diabetic, DKA is usually precipitated by some antecedent pathology, w
 * ACS
 * Pancreatitis
 
-## Clinical Manifestations
+## Clinical Features
 
 Develops over **hours**-days with:
 
@@ -59,21 +59,33 @@ Develops over **hours**-days with:
 * Weight loss
 * Hypovolaemia
 
+:::column-margin
+Neurological symptoms are more common in HHS than DKA, as they occurs secondary to a hyperosmolar state. Coma in a normoosmolar patient with DKA should prompt a search for another (particularly antecedent) cause.
+:::
 
 Ketoacidosis results in:
 
-* Compensatory hyperventilation
+* Compensatory hyperventilation\
+Rapid Jussmaul breathing.
 * Acetone breath
-
+* Profound acidosis
 
 Other symptoms include:
 
 * Abdominal pain\
 More common in children.
 
-:::column-margin
-Neurological symptoms are more common in HHS than DKA, as they occurs secondary to a hyperosmolar state. Coma in a normoosmolar patient with DKA should prompt a search for another (particularly antecedent) cause.
-:::
+
+## Assessment
+
+**History**:
+
+* Known diabetes
+* Urine output
+* Volume intake
+
+**Exam**:
+
 
 ## Diagnostic Approach and DDx
 
@@ -180,7 +192,10 @@ Not recommended.
 * D
 	* ↓ BSL
 	* CVA
-	* Cerebral oedema
+	* **Cerebral oedema**\
+		* More common in children and with high pre-treatment (>320mOsm/kg) osmolarity
+		* Consider if headache and altered mental state occur during treatment
+		* Treated with hypertonic fluid and slowing water resuscitation 
 * F
 	* ↓ K^+^
 * H

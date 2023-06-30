@@ -44,32 +44,31 @@ Usually insidious:
 
 ## Investigations
 
-Bloods:
+**Laboratory**:
 
-* ↑ LDH\
-Common, non-specific.
-
-
-Radiology:
-
-* CXR
-    * Normal in 10%
-    * Perihilar and interstitial shadowing\
-    Often subtle and missed.
-  \
-
-Sputum:
+* Blood
+    * ↑ LDH\
+    Common, non-specific.
+* Sputum
+    * PJP PCR
+    * Adequate non-invasive sampling requires **induced sputum**
+        * Hypertonic saline nebuliser provokes bronchorrhoea and extensive coughing
+        * Time consuming
+        * Requires good operator skill
+    * Bronchoscopy with BAL\
+    Diagnostic in >90%. \
 
 :::column-margin
 Organisms **persist** for days or weeks, so unlike many other infections, treatment can start prior to sampling if diagnostic suspicion is high enough.
 :::
 
-* Adequate non-invasive sampling requires **induced sputum**
-    * Hypertonic saline nebuliser provokes bronchorrhoea and extensive coughing
-    * Time consuming
-    * Requires good operator skill
-* Bronchoscopy with BAL\
-Diagnostic in >90%. \
+**Imaging**:
+
+* CXR
+    * Normal in 10%
+    * Perihilar and interstitial shadowing\
+    Often subtle and missed.
+
 
 ## Management
 

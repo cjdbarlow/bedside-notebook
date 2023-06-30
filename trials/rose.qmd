@@ -2,7 +2,7 @@
 	* 1006 Americans with moderate-severe ARDS (P/F <150), with several appropriate exclusions including BMI >100
 	* Multi-centre (48), unblinded, block randomised trial
 	* 1408 patients provide 90% power for 9% ↓ mortality, based on control group mortality of 35%
-	* Deep sedation and paralysis vs. light sedation
+	* Deep sedation and paralysis vs. light sedation for average 48 hours
 		* Intervention
 			* Deep sedation
 			* Cisatracurium\
@@ -15,4 +15,4 @@
 	* Stopped early for futility
 	* No change in mortality (42.5% vs 42.8%)
 	* Secondary outcomes: ↑ Cardiac SAE in intervention group
-	* 80% of screen patients excluded, with a large number already receiving NMBA
+	* 80% of screened patients excluded, with a large number already receiving NMBA

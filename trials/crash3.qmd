@@ -1,0 +1,9 @@
+* [CRASH III](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)32233-0/fulltext) (2019)
+	* ~12,500 patients with GCS ⩽12 or CTB with haemorrhage <3 hours from injury
+	* 90% power for 3% ARR in hospital death from baseline 15% mortality
+	* Multi-centre (175!) RCT
+	* TXA vs. placebo
+		* TXA 1g and 1g infusion
+	* No change in mortality (18.5% vs. 19.8%)
+	* Significant ↓ mortality in (pre-specified) mild-moderate group (5.8% vs. 7.5%, RR 0.8 (95% CI 0.64-0.95))
+	* No ↑ vasoocclusive events

@@ -29,6 +29,7 @@ ESCAPPM/ESCHAPPM are a group of **Gram-negative** organisms which:
 	* Due to **inducible β-lactamase**\
 	Chromosomal-mediated cephalosporinase enzyme that is strongly selected for in the presence of β-lactam antibiotics.
 	* May be inhibited by tazobactam, and so tazocin may be effective
+	* General require **treatment** with a **carbapenem**
 * Should be **treated** with **non-β-lactam agents**, even if they initially appear sensitive
 * Include:
 	* ***E**nterobacter* spp.
@@ -47,7 +48,8 @@ ESCAPPM/ESCHAPPM are a group of **Gram-negative** organisms which:
 Describes organisms that develop a β-lactamase that also produces **resistance** to **other antibiotic classes**. The ESBL:
 
 * Provides (variable) resistance to:
-	* Third-generation cephalosporins (e.g. ceftriaxone)
+	* Third-generation cephalosporins\
+	e.g. Ceftriaxone.
 	* Fluoroquinolones
 	* Aminoglycosides
 * Producing organisms include:
@@ -88,7 +90,14 @@ Organisms with enzyme that inactivates carbapenem antibiotics. Carbapenemases:
 * Pharmacological
 	* Antimicrobial therapy
 		* ↑ Dose to overcome MIC
-		* Novel antibiotics
+		* Novel (or very old) antibiotics
+			* Ceftaroline
+			* Ceftobiprole 
+			* Colistin
+			* Fosfomycin
+			* Tigecycline
+			* Aztreonam/Avibactam\
+			For metallo-carbapenemases.
 		* Combination therapy\
 		Interaction of two antibiotics may overcome intrinsic resistance. Options include:
 			* Add colistin

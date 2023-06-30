@@ -16,6 +16,8 @@ Open disclosure is an open discussion with a patient who has received harm durin
 
 The open disclosure conversation includes:
 
+0. Signpost the purpose of the meeting\
+"I'm here to tell you about a medical error that has been made."
 1. A factual explanation of what happened
 2. An apology\
 Including the words "I am sorry", and an admission of responsibility. This is distinct from an admission of liability.

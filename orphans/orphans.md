@@ -1819,9 +1819,10 @@ At 37°C, neutral pH is 6.8 which approximates intracellular pH.
 :::
 
 
+# CAUTI
 
-
-
-
-
+* Remove cathether
+* Get MSU
+* If can't get MSU, remove catheter and replace with fresh catheter and sample immediately
+* Sample from ssampling port and not from bag
 

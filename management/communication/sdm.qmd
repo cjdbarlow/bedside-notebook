@@ -17,12 +17,15 @@ What does the patient understand about their diagnosis?
 2. **Explain**\
 Fill any gaps in the patients knowledge of their disease.
 3. **Explore**\
-Get to know the patient as a person. Find out both:
+Get to know the patient as a person. Find out:
 	* Values
+	* Goals
+	* Hopes
+	* Fears
 	* Functional state
 4. **Options**\
 Provide options to the patient, and discuss what the expected outcomes with each would be.
-5. **Advice**\
+5. **Advise**\
 Find out how much patients want to be guided by the medical teams.
 	* ~75% of patients want advice from medical teams
 6. **Agree**\
@@ -31,7 +34,11 @@ Find a plan that is suitable.
 Disseminate the agreed plan to staff, patient, and family.
 
 :::column-margin
-Giving good advice requires understanding the patient.
+Giving good advice requires understanding the patient; the critical steps here are:
+
+* Explore
+* Options
+* Advise
 :::
 
 ---

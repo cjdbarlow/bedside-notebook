@@ -1,12 +1,71 @@
-All methods of renal replacement therapy rely on one or more basic physical principles:
+### Physical
+
+Principles:
 
 * **Ultrafiltration**\
 Generation of a **transmembrane pressure** that exceeds the oncotic pressure, resulting in net loss of water across the dialysis membrane. This is achieved by:
 	* Relative pressurisation of the blood relative to the dialysate, ↑ hydrostatic pressure
 	* ↑ Osmolality of the dialysate, drawing water across the membrane
+
+:::column-margin
+$TMP = {P_{Filter} + P_{Return} \over 2} - {P_{Effluent}}$, where:
+
+* $TMP$ = Transmembrane Pressure
+* $P$ = Pressure
+:::
+
 * **Diffusion**\
 Generation of an **electro-chemical gradient** across the membrane. Rate of diffusion is affected by:
 	* Molecular weight
 	* Membrane porosity
 	* Blood flow rate
 * **Convection** (Solvent drag)\
+Passive transport of sol*ute* particles across a semipermeable membrane along with the movement of sol*vent*.
+
+
+Values:
+
+* **Sieving Coefficient**\
+Describes how effectively a given solute is removed.
+	* A high value indicates effective clearance
+
+:::column-margin
+$SC = {[UF] \over [Blood]}$, where:
+
+* $SC$ = Sieving coefficient
+* $UF$ = Ultrafiltrate
+:::
+
+* **Filtration Fraction**\
+Fraction of plasma removed from blood during filtration.	
+
+:::column-margin
+$FF = {Rate_{UF} \over Rate_{Blood}} = {Rate_{UF} \over Rate_{Blood \ Pump} \times (1 - Hct)}$, where:
+
+* $FF$ = Filtration Fraction
+* $UF$ = Ultrafiltrate
+* $Hct$ = Haematocrit
+:::
+
+
+### Practical
+
+* **Dose**\
+**Effluent** production in mL/kg/hr.
+	* CRRT dose should generally be **20-25mL/hr**\
+		* This typically requires a prescription of 25-30mL/hr due to interruptions
+		* Higher doses are not associated with ↑ outcome
+		* Higher doses may be used in liver failure, with little evidence
+	* Hypotension and electrolyte disturbances are more common at higher intensities (dosing) and are not associated with improved outcome
+	* Composition of effluent varies depending on the:
+		* Use of pre-filter dilution
+		* Mechanism of effluent production
+			* Ultrafiltration\
+			i.e. TMP driven.
+			* Diffusion\
+			i.e. Dialysis flow rate driven.
+* **Fluid removal**\
+Difference between:
+	* Effluent production
+	* Pre-filter diluent
+	* Post-filter replacement

@@ -88,25 +88,27 @@ After 5 days, exogenous MRO may be seen:
 
 ## Investigations
 
-Blood:
+**Laboratory**:
 
-* FBE\
-WCC may ↑ or ↓.
-* Procalcitonin\
-May have a role in timing deescalation of antibiotics.
-* Blood cultures
+* Blood
+    * FBE\
+    WCC may ↑ or ↓.
+    * Procalcitonin\
+    May have a role in timing deescalation of antibiotics.
+    * Blood cultures
+* Sputum
+    * *Deep* respiratory samples are required to avoid culturing respiratory tract commensal organisms\
+    More complex in the intubated patient; options (in order of preference) include:
+        * Tracheal aspirate\
+        Identify potentially causative organisms but is not quantitative.
+        * Bronchial washings
+        * Bronchoalveolar lavage
 
-Sputum:
+:::column-margin
+The primary role of sputum culture in HAP/VAP is to identify resistant organisms and allow de-escalation to a narrower spectrum when the resistance profile is determined.
+:::
 
-* *Deep* respiratory samples are required to avoid culturing respiratory tract commensal organisms\
-More complex in the intubated patient; options include:
-    * Tracheal aspirate\
-    Identify potentially causative organisms but is not quantitative.
-    * Bronchial washings
-    * Bronchoalveolar lavage
-
-
-Radiology:
+**Imaging**:
 
 * CXR
     * Infiltrates required for diagnosis is many guidelines

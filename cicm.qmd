@@ -2,25 +2,39 @@
 
 The CICM final exam consists of a:
 
-* Written exam
-	* Two 15 question SAQ papers
-	* Aims to assess knowledge
-* Oral viva
-	* Aims to assess judgment
-* Hot case
-	* Aims to assess wisdom and real-world clinical decision making
+* Written exam\
+Aims to **assess knowledge**.
+	* Two 150 minute/15 question SAQ papers
+	* 10 minutes reading time
+* Oral viva\
+Aims to **assess judgment**.
+	* Eight 10 minute stations\
+	Always:
+		* Radiology
+		* Communication
+			* Consistently has a high maximal mark\
+			Opportunity to do very well.
+			* Determine what sort of meeting this is
+		* Equipment
+	* 2 minutes reading time per station
+		* Radiology viva reading time is reviewing images
+	* Break stations
+		* 1 break after communication station
+* Hot case\
+Aims to **assess wisdom** and real-world clinical decision making.
+
+:::column-margin
+Complete the CICM Communication Course prior to the exam; the exam scenarios mirror the course scenarios (though breaking *catastrophic* news is unlikely.
+:::
+
+## Timing
+
+{{< include /includes/timing.qmd >}}
 
 
 ## Written Exam
 
-As with the primary examination, a structured answer format:
-
-* Provides a scaffolding to hang ideas off and prompt your memory
-	* ↑ The chance you will deliver a complete answer
-* Buys you thinking time\
-Your mind can think of content whilst you subconsciously outline the structure on the page.
-* ↓ Stress
-* Is less painful to read, and therefore more favourable to mark
+{{< include /includes/written.qmd >}}
 
 
 ### Glossary of Terms
@@ -123,4 +137,11 @@ Structures for specific question formats:
 	* **D**isposition
 
 
+## Oral Exam
+
+{{< include /includes/viva.qmd >}}
+
+
 ---
+
+## References

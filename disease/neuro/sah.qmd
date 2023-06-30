@@ -310,6 +310,17 @@ Good prognostic features:
 
 ## Key Studies
 
+**Nimodipine**:
+
+{{< include /trials/brant.qmd >}}
+
+
+**Clipping vs. coiling**:
+
+{{< include /trials/isat.qmd >}}
+
+**TXA**:
+
 {{< include /trials/ultra.qmd >}}
 
 

@@ -146,58 +146,57 @@ Associated with GORD. Normal TLCO with reversibility.
 
 ## Investigations
 
-Respiratory function tests are diagnostic and used to grade severity:
+**Laboratory**:
 
-* **FEV~1~/FVC of ⩽0.7**
-	* Reversibility is not required\
-	Differentiated from asthma on clinical grounds.
-* Severity graded by FEV~1~\
-Multiple grading systems, the GOLD 2008/NICE 2010 system:
-	* FEV~1~ ⩾80% predicted\
-	Mild.
-	* FEV~1~ 50-79% predicted\
-	Moderate.
-	* FEV~1~ 30-49% predicted\
-	Severe.
-	* FEV~1~ ⩽30% predicted\
-	Very severe.
+* Bloods
+	* α-1 antitrypsin\
+	All patients should be screened once for α1 antitrypsin deficiency. ⩽20% is suggestive of homozygous deficiency.
+	* ABG/VBG\
+	Evaluate degree of chronic hypercapnoea and metabolic compensation.
 
-Bloods:
 
-* α-1 antitrypsin\
-All patients should be screened once for α1 antitrypsin deficiency. ⩽20% is suggestive of homozygous deficiency.
-* ABG/VBG\
-Evaluate degree of chronic hypercapnoea and metabolic compensation.
-
-Radiology:
+**Imaging**:
 
 * CXR\
 Hyperinflation if >=10 posterior ribs visible.
 
 
+**Other**:
+
+* Respiratory Function Tests
+	* Diagnostic
+	* Used to grade severity:
+		* **FEV~1~/FVC of ⩽0.7**
+			* Reversibility is not required\
+			Differentiated from asthma on clinical grounds.
+		* Severity graded by FEV~1~\
+		Multiple grading systems, the GOLD 2008/NICE 2010 system:
+			* FEV~1~ ⩾80% predicted\
+			Mild.
+			* FEV~1~ 50-79% predicted\
+			Moderate.
+			* FEV~1~ 30-49% predicted\
+			Severe.
+			* FEV~1~ ⩽30% predicted\
+			Very severe.
+
+
 ## Management
 
-Specific therapy:
+**Specific therapy**:
 
-* Physical:
-	* Smoking cessation\
-	Vital, and will slow down deterioration and disability before death occurs.
-	* NIV\
-	Reduces chronic hypercarbia, survival, and readmission rates.
-	* Home oxygen\
-	Indicated in patients with severe resting hypoxia (PaO~2~ <60mmHg, or ⩽55mmHg with cor pulmonale or pulmonary hypertension).
 * Pharmacological:
-* Inhaled therapies\
-	Mainstay of day-to-day treatment. Includes:
-		* Short-acting bronchodilators\
-		For breathlessness and exercise limitation.
-		* Long-acting bronchodilators\
-		For persistent breathlessness.
-	* Oral therapy\
-	Regular oral corticosteroids may be requried in advanced disease.
-	* Vaccination\
-	Influenza and pneumococcal vaccines ↓ LRTI rate.
-* Procedural:
+	* Inhaled therapies\
+		Mainstay of day-to-day treatment. Includes:
+			* Short-acting bronchodilators\
+			For breathlessness and exercise limitation.
+			* Long-acting bronchodilators\
+			For persistent breathlessness.
+		* Oral therapy\
+		Regular oral corticosteroids may be requried in advanced disease.
+		* Vaccination\
+		Influenza and pneumococcal vaccines ↓ LRTI rate.
+* Procedural
 	* Lung volume reduction surgery\
 	Improves survival in severe upper-lobe emphysema and low post-rehabilitation exercise capacity.
 	* Bullectomy\
@@ -206,6 +205,13 @@ Specific therapy:
 	Improves quality of life in selected patients with very severe COAD.
 	* Bronchoscopic interventions\
 	Includes coils and endobronchial valves, and improves exercise tolerance and lung function at 6-12 months following treatment.
+* Physical
+	* Smoking cessation\
+	Vital, and will slow down deterioration and disability before death occurs.
+	* NIV\
+	Reduces chronic hypercarbia, survival, and readmission rates.
+	* Home oxygen\
+	Indicated in patients with severe resting hypoxia (PaO~2~ <60mmHg, or ⩽55mmHg with cor pulmonale or pulmonary hypertension).
 
 
 ### Acute Exacerbation of COPD
@@ -235,8 +241,7 @@ Common precipitants:
 Relative hyperoxia (>92%) may adversely affect V/Q matching, reduce hypoxic drive, and ↑ CO~2~ dissociation via the Haldane effect.
 
 
-
-Specific therapy: 
+**Specific therapy**: 
 
 * Physical
 	* **Oxygen**\
@@ -260,7 +265,7 @@ Specific therapy:
 		* Minimise dynamic hyperinflation by:
 			* Watching the flow-volume loop
 			* Measuring end-inspiratory pause\
-			Target <25cmH~2~O. flow-volume loop to minimise dynamic hyperiflation	
+			Target <25cmH~2~O. flow-volume loop to minimise dynamic hyperinflation	
 * Pharmacological:
 	* **Bronchodilators**\
 	Many patients have a small response, and this assists in sputum clearance.
@@ -306,7 +311,7 @@ Specific therapy:
 	* Concomitant IHD
 * D
 	* General anaesthesia\
-	↑ risk, particularly with intubation and IPPV, of:
+	↑ Risk, particularly with intubation and IPPV, of:
 		* Laryngospasm
 		* Bronchospasm
 		* Barotrauma
@@ -343,4 +348,5 @@ Specific therapy:
 
 ## References
 
-1. Lumb A, Biercamp C. Chronic obstructive pulmonary disease and anaesthesia. Contin Educ Anaesth Crit Care Pain. 2014 Feb 1;14(1):1–5. 
+1. Lumb A, Biercamp C. Chronic obstructive pulmonary disease and anaesthesia. Contin Educ Anaesth Crit Care Pain. 2014 Feb 1;14(1):1–5.
+2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

@@ -3,7 +3,7 @@
 A spectrum of acute glomerular dysfunction characterised by a ↓ UO and ↑ serum creatinine and urea, and defined by the KDIGO classification as an:
 
 :::column-margin
-Noting that KDIGO is an imperfect definition: not all AKI will fit into this criteria, and not all cases fitting the criteria are true AKI.
+Diagnosis is more complex in the critically ill due to lack of steady-state conditions, variable rate of creatinine production, and variable rate of elimination.
 :::
 
 * **↑ Serum Creatinine**\
@@ -23,8 +23,18 @@ UO is a reasonably sensitive but not specific index of kidney function.
 	* Ideal body weight should be used instead of actual body weight in the obese population for UO calculation
 
 :::column-margin
-Diagnosis is more complex in the critically ill due to lack of steady-state conditions, variable rate of creatinine production, and variable rate of elimination.
+On **Acute tubular necrosis**:
+
+* The term ATN is often used to describe the intrinsic renal injury that occurs following a persistent pre-renal insult
+	* This is probably not correct, as the histology of tubular necrosis is not confirmed in this population
+	* The classical pattern is one of an:
+		* Oliguric renal failure of 1-2 weeks
+		* Non-oliguric renal failure of 10-14 days\
+		Likely due to restoration of glomerular filtration without recovery of tubular concentration.
+* In animal models, necrosis of the PCT (and occasionally DCT) occurs when blood flow is no longer adequate to maintain tubular perfusion and is believed to be a form of ischaemia-reperfusion injury
+* 'True' ATN may occur following arterial occlusion (such as AAA rupture or dissection)
 :::
+
 
 : The KDIGO Classification
 
@@ -42,18 +52,8 @@ Diagnosis is more complex in the critically ill due to lack of steady-state cond
 |       | - eGFR ⩽35ml/min/1.73m^2^ in children |                               |
 +-------+---------------------------------------+-------------------------------+
 
-
 :::column-margin
-On **Acute tubular necrosis**:
-
-* The term ATN is often used to describe the intrinsic renal injury that occurs following a persistent pre-renal insult
-	* This is probably not correct, as the histology of tubular necrosis is not confirmed in this population
-	* The classical pattern is one of an:
-		* Oliguric renal failure of 1-2 weeks
-		* Non-oliguric renal failure of 10-14 days\
-		Likely due to restoration of glomerular filtration without recovery of tubular concentration.
-* In animal models, necrosis of the PCT (and occasionally DCT) occurs when blood flow is no longer adequate to maintain tubular perfusion and is believed to be a form of ischaemia-reperfusion injury
-* 'True' ATN may occur following arterial occlusion (such as AAA rupture or dissection)
+Noting that KDIGO is an imperfect definition: not all AKI will fit into this criteria, and not all cases fitting the criteria are true AKI.
 :::
 
 ## Epidemiology and Risk Factors
@@ -426,6 +426,7 @@ Major perioperative considerations:
 **Other**:
 
 {{< include /trials/bellomo_dopa.qmd >}}
+{{< include /trials/renal.qmd >}}
 
 ---
 

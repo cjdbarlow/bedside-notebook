@@ -1,37 +1,40 @@
 # Principles of Antimicrobial Use
 
-Antimicrobial:
+Cultures:
 
-* Drugs eliminate susceptible organisms, at the cost of significant side-effects
-	* Provide huge evolutionary advantage to resistant strains
-	* Promote overgrowth of non-susceptible organisms
-		* Including fungi
-* Stewardship is a process of selecting antimicrobials to:
-	* Optimise dose and duration
-	* Minimise toxicity
-	* Minimise selection of resistant strains 
-
-
-## Antimicrobial Stewardship
-
-Antimicrobial stewardship is the policy and practices of a healthcare institution to optimise antimicrobial use to improve patient outcomes, ensure cost-effective therapy, and ↓ risks of antimicrobial use. Principles:
+* Microbiological **specimens** should be obtained **before** commencing **antimicrobials**
+	* Prevents false-negative cultures
+	* Immediate Gram stain may guide therapy
+* Interpretation of cultures depends on the site:
+	* Sterile sites:
+		* Include blood, urine, CSF
+		* Cultured organisms are significant and indicate infection
+		* Usually only one organism cultured, which is the causative organism
+	* Non-sterile sites:
+		* Usual commensal organisms are expected
+		* Diagnosis of infection is clinical\
+		Exception is cultured organisms that are definitively not commensal:
+			* *Legionella*
+			* TB
+		* Microbiological results *guide* treatment
+* Gram negative organisms become dominant with hospital admission
+* The hallmark of an intravascular device infection (including CLABSI) is a continuous bacteraemia
 
 :::column-margin
-Empirical antibiotics are those given to cover *likely* organisms, rather than given in response to a known pathogen.
+True bacteraemia (or fungaemia) should be assumed with culture of:
+
+* *S. Aureus*
+* *E. Coli*
+* *Candida*
 :::
 
 :::column-margin
 An antibiogram is a summary of the **local** antimicrobial susceptibilities of different pathogens, and is important to determine choices for antimicrobial agent for both empirical therapy, and prior to receiving sensitivity data.
 :::
 
-:::column-margin
-Inappropriate or delayed antibiotic use ↑ morbidity and mortality.
-:::
+Antimicrobials:
 
-* Microbiological **specimens** should be obtained **before** commencing **antimicrobials**
-	* Prevents false-negative cultures
-	* Immediate Gram stain may guide therapy
-* Administer **without delay**
+* Administer antibiotics **without delay**
 * Choice of empirical antimicrobial should be based upon:
 	* Site of infection
 	* Community or hospital-acquired
@@ -40,6 +43,10 @@ Inappropriate or delayed antibiotic use ↑ morbidity and mortality.
 	* Patients previous microbiology results
 * The narrowest-spectrum drug should be used\
 Ideally empirical spectrum can be narrowed after **3 days**.
+* Drugs eliminate susceptible organisms, at the cost of significant side-effects
+	* Provide huge evolutionary advantage to resistant strains
+	* Promote overgrowth of non-susceptible organisms
+		* Including fungi
 * Monotherapy is preferable to combination therapy\
 Exceptions include:
 	* Achieving adequate empiric cover
@@ -68,30 +75,15 @@ Under-dosing leads to resistance.
 * Serum levels of toxic antibiotics should be monitored for both toxicity and efficacy
 * Recognise patients with **augmented renal clearance**, and ↑ dose accordingly
 
-:::column-margin
-True bacteraemia (or fungaemia) should be assumed with culture of:
 
-* *S. Aureus*
-* *E. Coli*
-* *Candida*
+:::column-margin
+Empirical antibiotics are those given to cover *likely* organisms, rather than given in response to a known pathogen.
 :::
 
 
-### Implementation
-
-Components of a stewardship program include:
-
-* Treatment guidelines tailored to local antibiogram
-* Multi-disciplinary involvement
-	* ID physicians
-	* Clinical microbiologists
-	* Pharmacists
-	* Infection control practitioners
-* Protocolised treatment of sepsis
-* Approval for broad-spectrum and later-generation antibiotics
-* Designated stop dates
-* Mechanicsm for audit
-
+:::column-margin
+Inappropriate or delayed antibiotic use ↑ morbidity and mortality.
+:::
 
 ---
 

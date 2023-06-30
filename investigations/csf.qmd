@@ -3,42 +3,42 @@
 +-------------------------------+-------------+-----------------------------+-----------------------------------------+---------------------------+----------------------------------------------------------------------+
 | Property                      | Normal      | Traumatic Tap               | Infection                               | SAH                       | Other                                                                |
 +===============================+=============+=============================+=========================================+===========================+======================================================================+
-| **Colour**                    | Clear       | Bloodstained                | - Clear in viral infection              | Bloodstained              |                                                                      |
-|                               |             |                             | - Turbid in bacterial infection         |                           |                                                                      |
-|                               |             |                             | - Fibrinous in fungal infection         |                           |                                                                      |
+| **Colour**                    | Clear       | Bloodstained                | * Clear in viral infection              | Bloodstained              |                                                                      |
+|                               |             |                             | * Turbid in bacterial infection         |                           |                                                                      |
+|                               |             |                             | * Fibrinous in fungal infection         |                           |                                                                      |
 +-------------------------------+-------------+-----------------------------+-----------------------------------------+---------------------------+----------------------------------------------------------------------+
-| **Opening Pressure**          | 5-20cmH~2~O |                             | - -/↑ In viral                          |                           |                                                                      |
-|                               |             |                             | - ↑ In bacterial                        |                           |                                                                      |
+| **Opening Pressure**          | 5-20cmH~2~O |                             | * -/↑ In viral                          |                           |                                                                      |
+|                               |             |                             | * ↑ In bacterial                        |                           |                                                                      |
 +-------------------------------+-------------+-----------------------------+-----------------------------------------+---------------------------+----------------------------------------------------------------------+
 | **RBC** (count)               | Nil         | ↑                           |                                         | ↑/↑↑                      |                                                                      |
 +-------------------------------+-------------+-----------------------------+-----------------------------------------+---------------------------+----------------------------------------------------------------------+
-| **WBC** (count)               | 0-3         | 1 WCC:500 RBC\              | - PMN leukocytosis (>500)\              |                           | - Lymphocytosis and monocytosis can also occur in GBS and vasculitis |
+| **WBC** (count)               | 0-3         | 1 WCC:500 RBC\              | * PMN leukocytosis (>500)\              |                           | * Lymphocytosis and monocytosis can also occur in GBS and vasculitis |
 |                               |             | ↑ In the setting of an EVD. | Favours bacterial.                      |                           |                                                                      |
-|                               |             |                             | - Lymphocytosis\                        |                           |                                                                      |
+|                               |             |                             | * Lymphocytosis\                        |                           |                                                                      |
 |                               |             |                             | Favours viral, TB, fungal, or listeria. |                           |                                                                      |
-|                               |             |                             | - Monocyte dominant (>100)\             |                           |                                                                      |
+|                               |             |                             | * Monocyte dominant (>100)\             |                           |                                                                      |
 |                               |             |                             | Favours viral infection.                |                           |                                                                      |
-|                               |             |                             | - Mixed lymphocytosis\\monocytosis\     |                           |                                                                      |
+|                               |             |                             | * Mixed lymphocytosis\\monocytosis\     |                           |                                                                      |
 |                               |             |                             | GBS, status epilepticus.                |                           |                                                                      |
 +-------------------------------+-------------+-----------------------------+-----------------------------------------+---------------------------+----------------------------------------------------------------------+
-| **Protein** (g/L)             | 0.18-0.45   |                             | - ↑ (<1) In viral                       |                           | - ↑ In vasculitis                                                    |
-|                               |             |                             | - ↑↑ (>1) In bacterial                  |                           | - ↑ In sarcoidosis                                                   |
-|                               |             |                             | - -/↑ (0.1-0.5) in fungal               |                           | - ↑ In GBS                                                           |
-|                               |             |                             |                                         |                           | - ↑ In status epilepticus                                            |
-|                               |             |                             |                                         |                           | - Oligoclonal bands in MS                                            |
+| **Protein** (g/L)             | 0.18-0.45   |                             | * ↑ (<1) In viral                       |                           | * ↑ In vasculitis                                                    |
+|                               |             |                             | * ↑↑ (>1) In bacterial                  |                           | * ↑ In sarcoidosis                                                   |
+|                               |             |                             | * -/↑ (0.1-0.5) in fungal               |                           | * ↑ In GBS                                                           |
+|                               |             |                             |                                         |                           | * ↑ In status epilepticus                                            |
+|                               |             |                             |                                         |                           | * Oligoclonal bands in MS                                            |
 +-------------------------------+-------------+-----------------------------+-----------------------------------------+---------------------------+----------------------------------------------------------------------+
-| **Glucose** (mmol/L)          | 2.5-3.5     |                             | - ↓ (<2.2) In bacterial                 | - ↓ Due to RBC metabolism |                                                                      |
-|                               |             |                             | - ↓ (<2.5) In fungal                    |                           |                                                                      |
+| **Glucose** (mmol/L)          | 2.5-3.5     |                             | * ↓ (<2.2) In bacterial                 | * ↓ Due to RBC metabolism |                                                                      |
+|                               |             |                             | * ↓ (<2.5) In fungal                    |                           |                                                                      |
 +-------------------------------+-------------+-----------------------------+-----------------------------------------+---------------------------+----------------------------------------------------------------------+
-| **Glucose CSF:Serum** (ratio) | 0.6         |                             | - \>0.6 In viral                        |                           |                                                                      |
-| .                             |             |                             | - <0.6 In bacterial                     |                           |                                                                      |
+| **Glucose CSF:Serum** (ratio) | 0.6         |                             | * \>0.6 In viral                        |                           |                                                                      |
+| .                             |             |                             | * <0.6 In bacterial                     |                           |                                                                      |
 +-------------------------------+-------------+-----------------------------+-----------------------------------------+---------------------------+----------------------------------------------------------------------+
-| **Other**                     |             |                             | - CSF culture                           | - Xanthochromia\          |                                                                      |
-|                               |             |                             | - LDH\                                  | Bilirubin in CSF.         |                                                                      |
+| **Other**                     |             |                             | * CSF culture                           | * Xanthochromia\          |                                                                      |
+|                               |             |                             | * LDH\                                  | Bilirubin in CSF.         |                                                                      |
 |                               |             |                             | ↑ In bacterial.                         |                           |                                                                      |
-|                               |             |                             | - Cryptococcal antigen                  |                           |                                                                      |
-|                               |             |                             | - Bacterial antigen                     |                           |                                                                      |
-|                               |             |                             | - Viral PCR                             |                           |                                                                      |
+|                               |             |                             | * Cryptococcal antigen                  |                           |                                                                      |
+|                               |             |                             | * Bacterial antigen                     |                           |                                                                      |
+|                               |             |                             | * Viral PCR                             |                           |                                                                      |
 +-------------------------------+-------------+-----------------------------+-----------------------------------------+---------------------------+----------------------------------------------------------------------+
 
 : Normal (and abnormal) CSF Composition
@@ -61,9 +61,11 @@ Extended if considering listeria, cryptococcus.
 * Xanthochromia classically occurs due to metabolism of lysed RBCs from a SAH, but can also occur if serum bilirubin >100μmol/:
 * Glucose CSF:serum ratio is inaccurate if serum BSL ⪆17mmol/L due to saturation of glucose transporters
 * β-2 transferrin is specific for CSF, and is used to confirm suspicion of CSF rhinorrhea or CSF otorrhea.
-
+* For health-care associated meningitis or ventriculitis, an ↑ WCC is only *suggestive* and culture is required for definitive inclusion or exclusion of the diagnosis
 
 ---
+
+## References
 
 1. Venkatesh, B., P. Scott, and M. Ziegenfuss. [Cerebrospinal Fluid in Critical Illness](https://pubmed.ncbi.nlm.nih.gov/16597284/). Critical Care and Resuscitation: Journal of the Australasian Academy of Critical Care Medicine 2, no. 1 (March 2000): 42–54.
 2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

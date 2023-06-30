@@ -1,0 +1,10 @@
+* [RENAL](http://www.nejm.org/doi/full/10.1056/NEJMoa0902413) (2009)
+	* ~1,500 Australasian ICU patients requiring CRRT
+	* Multi-centre (35) RCT
+	* 90% power for 8.5% ARR in mortality from control group mortality of 60%\
+	This was described as a "conservative" effect.
+	* High-intensity (40mL/kg/hr) vs. low-intensity (25mL/kg/hr) CRRT
+		* High-intensity received an average of 33.4mL/kg/hr
+		* Low-intensity received an average of 22mL/kg/hr
+	* No change in mortality (44.7% vs. 44.7%)
+	* Significantly ↑ hypophosphataemia in dialysis group

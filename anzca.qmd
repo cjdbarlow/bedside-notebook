@@ -5,18 +5,33 @@ The ANZCA final exam consists of a:
 * Written examination
 	* MCQs
 	* SAQs
-* Medical Viva
-* Anaesthetic Viva
+* Oral examination
+	* Medical Viva
+	* Anaesthetic Viva
+		* Eight 15 minute vivas
+			* 2 minutes reading time\
+			Immerse yourself in the stem:
+				* Your role\
+				Not always the anaesthetist.
+				* Your location\
+				Resources.
+				* Your patient\
+				Equipment sizes, drug dosing.
+				* Your resources
+			* Bells indicate start and end of viva
+			* One examiner, often an observer
+		* Required to pass viva to pass exam
+		* Similar physical layout to primary exam
 
 
+## Timing
 
-## Short Answer Questions
+{{< include /includes/timing.qmd >}}
 
-As with the primary examination, a structured answer format:
 
-* ↑ The chance you will deliver a complete answer
-* ↓ Stress
-* Is less painful to read
+## Written Exam
+
+{{< include /includes/written.qmd >}}
 
 
 Almost all questions can fit into one of **five structures**:
@@ -97,10 +112,16 @@ Use the PRECIOUS mnemonic:
 	* Slow implementation
 	* Ongoing formal review and audit
 
-## Medical Viva
+
+## Oral Exam
+
+{{< include /includes/viva.qmd >}}
 
 
-## Anaesthetic Viva
+### Medical Viva
+
+
+### Anaesthetic Viva
 
 Process:
 
@@ -119,24 +140,6 @@ Evaluates your:
 	* Professional
 
 
-Structure:
-
-* Eight 15 minute vivas
-	* 2 minutes reading time\
-	Immerse yourself in the stem:
-		* Your role\
-		Not always the anaesthetist.
-		* Your location\
-		Resources.
-		* Your patient\
-		Equipment sizes, drug dosing.
-		* Your resources
-	* Bells indicate start and end of viva
-	* One examiner, often an observer
-* Required to pass viva to pass exam
-* Similar layout to primary exam
-
-
 Dilemmas and Decisions:
 
 * Tricky situations
@@ -146,44 +149,6 @@ But press it when you need to.
 * Patients will deteriorate irrespective of how you are performing
 
 
-Tips:
-
-* Think like a consultant
-* Have confidence or fake confidence
-* Enter a dialogue with the examiner - they are a colleague, not a boss
-* Immerse yourself in the scenario
-* Take some time to think of an answer\
-Not too much.
-* Can discuss balance of risks without waffling
-* Be authentic
-* If you are unsure of a course of action, then describe your rationale
-* Have some handy phrases
-	* "In addition to my usual anaesthetic assessment..."
-* Know what to say if you don't know what to do
-
-
-Pitfalls:
-
-* Attitude
-	* Non-consultant like
-	* Indecisive\
-	Using 'could' not 'would.'
-	* Inflexible
-		* Refusing to be lead
-	* Waffling
-	* Too many lists
-	* Does not answer question
-* Knowledge
-	* Insufficient
-	* Long checklists do not demonstrate understanding
-	* Inaccurate
-	* Not recognising knowledge gaps\
-	Demonstrates lack of safety.
-* Safety
-	* Inappropriate drug doses
-	* Does not know how to manage a crisis
-	* Lacks insight
-	* Refuses to accept guidance
-
-
 ---
+
+## References

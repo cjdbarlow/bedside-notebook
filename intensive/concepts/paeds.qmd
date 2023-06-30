@@ -1,0 +1,165 @@
+# Paediatric Considerations
+
+:::caution
+This covers principles of paediatric critical care for the adult intensivist. In general:
+
+* Principles of adult intensive care can be safely extrapolated to children
+* Involve a paediatrician early for consideration of nuances
+:::
+
+:::column-margin
+Paediatric anaesthetic considerations, including airway management, is covered in detail under @sec-paeds_anaes.
+:::
+
+Difference:
+
+* Congenital anomalies are common
+	* ~1% of children have a congenital anomaly
+* Periodic breathing
+	* Risk of apnoea
+* Diaphragmatic reliance
+	* Easily fatigued
+* CO is HR dependent
+	* Relatively fixed stroke volume
+	* Unexplained, persistent tachycardia over 30 minutes to 4 hours is very concerning
+	* Therapy that ↓ HR may precipitate profound shock
+	* BP will commonly remain normal until shock is advanced
+
+
+* Anticipate deterioration during intubation
+* Suspect sepsis
+* Suspect NAI
+* Treat neonates for everything
+
+
+* Sick enough for ICU referral demands a CXR
+	* Mediastinal mass
+	* Heart failure
+	* Foreign body
+	* Congenital abnormality
+
+
+* 4/2/1 over-estimates fluid requirements
+	* Give 50-70% of this in critically unwell
+
+
+* Parental presence during resuscitation is generally hellpful
+
+## Respiratory Disease
+
+* SpO~2~:
+	* Normal: 90-95%
+	* Pulmonary HTN: >95%
+	* Chronic lung disease: 88-92%
+	* Single ventricle/chronic heart: 75-85%
+* CO~2~:
+	* Consider ventilator dead space
+	* Targets as adults
+
+### Stridor
+
+Croup:
+
+* Dexamethasone 0.6mg/kg
+* Adrenaline 5mg nebuliser
+* Intubation
+	* Small ETT required
+	* Gas induction in OT preferable
+
+
+Epiglottitis:
+
+* Softer stridor
+* Unimmunised
+* Drooling
+	* Painful swallowing
+* Require intubation
+
+
+Bacterial tracheitis:
+
+### Wheezing
+
+Problems:
+
+* Wheeze
+	* Bronchiolitis
+	* Asthma
+
+* Inflammation vs. bronchospasm
+	* Atelectasis
+	* Dynamic hyperinflation
+
+
+
+* May respond to salbutamol if <1 year of age, particularly if history of atopy
+* NG feeding to 70%
+* High flow oxygen 2L/kg
+* Target SpO2 >90%
+
+* Acute viral myocarditis
+	* Not better with bronchiolitis treatment
+	* Palpable liver
+	* Deterioration with IV fluid bolus
+* Pertussis
+	* Apnoea common
+
+
+## Cardiac Presentations
+
+Heart Failure:
+
+* Left to right shunts
+* Hepatomegaly\
+Sensitive and specific in small children for right heart failure.
+* Murmurs
+* Target SpO~2~ in low 90%s
+	* Hyperoxia will ↓ PVR and ↑ left to right shunt
+
+
+Severe cyanosis:
+
+* Hypoxaemia non-responsive to supplemental oxygen
+* No ↑ work of breathing
+* "Black lungs" on CXR
+	* Little pulmonary blood flow
+* Need prostin
+* Need atrial septostomy
+
+
+Cardiogenic shock:
+
+* Duct-dependent lesions
+	* Rapid onset of poor perfusion
+	* Absent femoral pulses
+	* Floppy, acidotic baby
+	* Intubation
+	* Inotropes
+	* Prostin infusion
+	* Target SpO2 75-85%
+	* Target palpable pulses and improved perfusion
+	* Cover for sepsis
+
+
+## Metabolic Presentations
+
+Four broad presentations:
+
+* Hypoglycaemia:
+	* Primary energy failure
+* HAGMA
+	* Intoxication
+* Acute liver failure
+* Encephalopathy and seizures
+
+Management:
+
+* Rule out sepsis
+* NBM
+* Stop catabolism
+* Dextrose infusion
+* Call for help
+
+---
+
+## References
