@@ -26,42 +26,59 @@ Antiplatelet agents are:
 
 ## Contraindications
 
-## Options
+
+## Enteral
 
 ### Aspirin
 
-Aspirin provides:
+Weak salicylic acid that causes irreversible COX-1 inhibition:
 
-* Irreversible inhibition\
-Duration of platelet lifespan (5-10 days).
+* ↓ Thromboxane A2 production for the duration of platelet lifespan (5-10 days)
+
 
 **Key** pharmacological **properties**:
 
+* Renally cleared
+* Half-life 1-2 hours
 
 
 ### Clopidogrel
 
-Clopidogrel:
+Thienopyridine that:
 
-* Irreversible inhibition
+* Causes irreversible P2Y12 ADP receptor inhibition\
+Inhibits cAMP-dependent platelet activation for duration of platelet lifespan
+* Displays significant inter-individual variability\
+15-50% of patients have impaired response to clopidogrel activity, which may be due to:
+	* CYP450 polymorphism
+	* Drug interaction
+	* DM
+
 
 **Key** pharmacological **properties**:
 
-* Genetic 
+* 50% renally, 50% biliary cleared
+* Half-life 1-2 hours
 
 
 ### Ticagrelor
 
+Adenosine analogue that:
+
+* Causes **reversible** P2Y12 ADP receptor inhibition
+* Has a similar mechanism of action to clopidogrel
 * More predictable inhibition than clopidogrel
-* ↑ Bleeding risk relative to clopidogrel
+* ↑ Bleeding risk compared to clopidogrel
+
 
 **Key** pharmacological **properties**:
 
-* Genetic 
+* Biliary elimination
+* Half-life 8 hours
 
-## Reversal
+### Reversal
 
-All antiplatelet agents are minimimally reversible, therapeutic options include:
+All enteral antiplatelet agents are minimally reversible, therapeutic options include:
 
 * Cessation
 * Other haemostatic measures
@@ -71,9 +88,23 @@ May have effect in aspirin-induced platelet inhibition, minimal evidence in othe
 	* More effective in aspirin
 	* May be ineffective in reversing ticagrelor
 
+:::column-margin
+{{< include /includes/ddavp.qmd >}}
+:::
+
+## Parenteral
 
 ### Tirofiban
 
+* GP IIb/IIIa inhibitor\
+Prevents platelet binding to fibrinogen and vWF.
+
+
+**Key** pharmacological **properties**:
+
+* Intravenous administration
+* Renally cleared
+* Half-life 2 hours
 * Reversal in 4-8 hours following cessation
 
 
@@ -85,6 +116,8 @@ May have effect in aspirin-induced platelet inhibition, minimal evidence in othe
 ### Abciximab
 
 * Reversal in 1-2 days following cessation
+
+
 
 
 

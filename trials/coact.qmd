@@ -9,6 +9,6 @@
 		* Angiography for any patient with indications\
 		Ischaemia, cardiogenic shock, arrhythmias.
 		* All unstable coronary lesions treated
-	* Low coronary intervention rate
 	* No 90 day mortality difference (64.5% vs 67.2%, CI 0.62-1.72)
 	* No difference in secondary outcomes of survival with good neurological outcome, survival to ICU DC, or organ supports
+	* Low coronary intervention rate

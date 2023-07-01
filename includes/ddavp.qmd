@@ -1,0 +1,14 @@
+DDAVP (desmopressin) is:
+
+* A synthetic vasopressin analogue
+* Dosed at 0.3μg/kg
+	* Response is variable between patients, but usually consistent for the one patient
+	* Tachyphylaxis occurs after 3-5 days
+* Used for a variety of pro-coagulant effects:
+	* Release of stored vWF\
+	Effective for mild quantitative and some qualitative von Willebrand disease.
+	* Release of factor VIII\
+	Effective for mild haemophilia A.
+	* ↑ Platelet aggregation
+		* ↑ Surface GP receptors
+		* ↑ Platelet-dependent thrombin generation

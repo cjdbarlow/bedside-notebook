@@ -1,9 +1,9 @@
-# Transfusion Reactions {#sec-transfusion_reaction}
+# Transfusion Reactions {#sec-transfusion_reactions}
 
 Adverse reactions to allogenic blood can be classified by:
 
 :::column-margin
-Reactions specific to infusion of vast volumes of blood product are covered under @sec-massive_transfusion.
+Reactions specific to infusion of vast volumes of blood product are covered under @sec-critical_bleeding.
 :::
 
 * Immunological vs. non-immunological

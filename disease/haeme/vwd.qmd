@@ -98,16 +98,19 @@ Principles of management include:
 	* Antifibrinolytics (TXA)\
 	Effective independent of aetiology of defect.
 * Replenish vWF and FVIII levels
-	* ↑ native secretion
-		* DDAVP
-			* Causes release of vWF from endothelial storage sites\
-			Therefore **effective in type 1**, occasionally in type 2, and never in type 3.
-			* Give 0.3μg/kg, up to 20μg
-			* Response is variable between patients, but usually consistent for the one patient
-			* Tachyphylaxis occurs after 3-5 days
+	* ↑ Native secretion
+		* DDAVP\
+		Causes release of vWF from endothelial storage sites. Therefore:
+			* Usually **effective in type 1**
+			* Occasionally effective in type 2
+			* Never effective in type 3
 	* Exogenous factor replacement
 		* vWF/FVIII concentrates
 * Platelet transfusions
+
+:::column-margin
+{{< include /includes/ddavp.qmd >}}
+:::
 
 
 Management of refractory bleeding:

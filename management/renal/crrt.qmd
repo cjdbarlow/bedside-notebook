@@ -81,6 +81,19 @@ With oliguria/anuria.
 	* Dialysable toxin
 	* Hyperthermia >40°C
 
+:::column-margin
+A short, but mostly-adequate exam list of dialysable toxins includes:
+
+* **Alcohols**
+	* Ethanol
+	* Methanol
+	* Ethylene glycol
+* **Anticonvulsants**
+	* Lithium
+	* Valproate
+	* Phenytoin
+	* Phenobarbital
+:::
 
 ## Contraindications
 

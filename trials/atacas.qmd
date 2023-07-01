@@ -1,0 +1,14 @@
+* [ATACAS](https://www.nejm.org/doi/full/10.1056/NEJMoa1606424) (2017)
+	* ~4600 at-risk CABG patients
+	* Multicentre (22) block randomised RCT, stratified by site and on-pump vs. off-pump surgery
+	* 90% power for 3% ARR from a 10% composite of death and thrombotic events (MI, CVA< PE, AKI, bowel infarction)
+	* 2-by-2 factorial design
+		* Aspirin vs. placebo
+			* Aspirin 100mg 1-2 hours pre-surgery
+			* Aspirin armed discontinued eraly due to higher-than-expected even rate
+		* TXA vs. placebo
+			* TXA initially 100mg/kg 30 minutes post-induction, ↓ to 50mg/kg partway due to seizure concern
+	* No change in primary outcome for TXA (16.7% vs. 18.1%) or aspirin (19.3% vs. 20.4%)
+	* Significantly ↓ return to theatre (1.4% vs 2.8%) and blood product use with TXA
+	* No significant change in return to theatre or blood product use with aspirin
+	* ↑ Seizures in TXA group (0.75% vs. 0.1%)

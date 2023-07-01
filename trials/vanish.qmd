@@ -11,4 +11,5 @@
 			* At maximal rate, hydrocortisone given as above
 		* If hypotensive after first dose of hydrocortisone (or placebo), open-label catecholamines could be commenced\
 		These were weaned as a priority.
-	* No difference in days alive free of renal failure
+	* No difference in days alive free of AKI
+	* ↓ RRT in vasopressin group

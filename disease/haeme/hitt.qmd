@@ -1,47 +1,71 @@
-# Heparin Induced Thrombocytopaenia
+# Heparin Induced Thrombotic Thrombocytopaenia
 
-Immune-mediated **hypercoagulable state** due to **formation** of **auto-antibodies** to a **heparin-platelet** complex that is divided into **two types**:
+Immune-mediated **hypercoagulable state** due to **formation** of **auto-antibodies** to a **heparin-platelet** complex characterised by:
 
-* **Type I**\
-Not clinically significant, characterised by:
-	* Transient drop in platelet count
-	* No thrombosis
+* Presentation **5-14 days after** heparin **exposure**\
+Key exceptions:
+	* Major surgery "resets the clock"\
+	May precipitate HITT after the appropriate interval in a patient receiving long-term heparin.
+	* Re-commencing heparin in a patient who has been heparin exposed in the preceding 90 days\
+	Initial exposure leads to antibody formation, which causes rapid onset of HITT when heparin is recommenced.
+* Thrombocytopenia
+	* Usually to 30-50% of baseline
+	* Not <20×10^9^/L
+	* Occurs over 1-3 days
+* Thrombosis
+	* 30%
+	* May be arterial or venous
+	* May be in both large and small vessels
+
+:::column-margin
+Various definitions and classifications are used interchangeably. This definition emphasises Type II HITT, which is the clinically significant form.
+
+Some authorities distinguish between:
+
+* **Type I**, or HIT\
+Benign condition characterised by:
+	* Transient, mild thrombocytopaenia\
+	Platelets >100×10^9^/L.
+	* 10% of patients who receive heparin
+	* Resolves following heparin administration
+	* **No thrombosis**
 	* Occurs in **first 2 days**
-* **Type II**\
-Clinically significant that may progress to HITT. Type II is:
-	* More common
-	* Presents **5-14 days after** heparin **exposure**\
-	Leads to:
-		* Thrombocytopenia\
-			* Usually to 30-50% of baseline
-			* Not <20×10^9^/L.
-		* Thrombosis\
-		May be arterial or venous, and in both large and small vessels.
-
+	* Probably non-immune in origin
+* **Type II**, or HITT\
+Clinically significant thrombocytopaenia with thrombosis.
+:::
 
 ## Epidemiology and Risk Factors
 
 Incidence:
 
-* 1:5000 of hospitalised patients \
-
+* 1/5000 hospitalised patients
 
 Risk factors:
 
 * Critically ill\
-0.3-09.5%.
-* Surgery
-* Cardiac surgery\
+0.3-9.5%.
+* Surgery\
+	* Cardiac surgery
 1-3%.
 * UFH > LMWH
+* Duration
 * Female
 
+:::column-margin
+Highest risk in patients who received UFH for 7-10 days.
+:::
 
 ## Pathophysiology
 
-* Platelet factor 4 protein is expressed on platelet cell surface
+* **Platelet factor 4** protein is expressed on platelet cell surface
 * This binds heparin and activates lymphocytes and antibodies
-* Production of an IgG antibody to this factor results in platelet activation
+* Production of an IgG anti-PF4 antibody occurs
+* Binding of antibody results in:
+	* Platelet activation
+	* Platelet factor 4 release
+		* Positive feedback
+	* Removal of IgG-coated platelets by reticuloendothelial system
 
 
 ## Clinical Features
@@ -50,24 +74,31 @@ Key factors:
 
 * Appropriate timing
 * Thrombocytopenia\
-Either <150 x10^9^/L or ↓ by >50%.
+Either <150×10^9^/L or ↓ by >50%.
 * Thrombosis
 
 ## Investigations
 
-Laboratory:
+**Laboratory**:
 
 * Blood
 	* FBE
 		* Thrombocytopenia
-	* Antibody screening
-		* Sensitive but non-specific
+	* Anti-PF4 antibody immunoassay
+		* Sensitive but non-specific\
+		Detect many insignificant anti-PF4 antibodies.
 		* High false positive rate
-	* Serotonin release assay
+		* Require adequate pre-test probability
+	* Serotonin release assay (functional assay)
 		* Limited to reference laboratories
 		* Functional test evaluating immunologic response of platelets to heparin
 		* Donor platelets pre-treated with C-serotonin are exposed to patient serum (or plasma nad heparin)
 		* Serotonin release >20-50% (lab dependent) is positive
+
+
+**Imaging**:
+
+* DVT ultrasound
 
 ## Diagnostic Approach and DDx
 
@@ -102,7 +133,6 @@ Risk may be calculated using the **4T score**:
 +-----------------------------------+---------------------------------------------------+--------------------------------------------------+---------------------+
 
 
-
 Differentials include:
 
 * Thrombotic microangiopathy
@@ -110,43 +140,59 @@ Differentials include:
 * Venous thrombosis
 * Hypersensitivity reactions
 
+Diagnostic process:
+
+* Calculate 4T score
+* If intermediate or high
+	* Cease heparin
+	* Immunoassay
+	* If positive, confirm with functional assay
+	* If strongly positive, commence therapeutic non-heparin anticoagulation
+
 
 ## Management
 
-Cease heparin:
-
-* UFH and LMWH
-* Heparin flushes in arterial lines
-* Heparin bonded:
-	* Extracorporeal circuits
-	* Lines
-	* IDCs
+:::priority
+* **Tailor investigations** to clinical suspicion
+* **Cease heparin**
+* Commence non-heparin **anticoagulation**
+:::
 
 
-Transition to a non-heparinoid anticoagulant:
+**Specific therapy**:
 
-* Direct thrombin-inhibitor
-	* Bivalirudin\
-	If impaired hepatic and renal function.
-	* Argatroban\
-	If normal hepatic function.
-* Factor Xa inhibitor\
-	* Fondaparinux\
-	Useful for CVTI prophylaxis.
-* Vitamin K antagonist\
-Only when platelet count is >150 x10^9^/L due to risk of worsening thrombosis.
-* DOAC
+* Pharmacological
+	* **Cease heparin**
+		* UFH and LMWH
+		* Heparin flushes in arterial lines
+		* Heparin bonded:
+			* Extracorporeal circuits
+			* Lines
+			* IDCs
+	* Transition to a non-heparinoid **anticoagulant**
+		* Direct thrombin-inhibitor
+			* Bivalirudin\
+			If impaired hepatic and renal function.
+			* Argatroban\
+			If normal hepatic function.
+		* Factor Xa inhibitor\
+			* Fondaparinux
+		* Vitamin K antagonist\
+		Only when platelet count is >150×10^9^/L due to risk of worsening thrombosis.
+		* DOAC
+* Procedural
+	* Plasmapheresis
+		* If refractory to medical therapy
+		* If requiring heparin/protamine for CPB in patients with previous HITT
+* Physical
 
 
-Platelet transfusion:
+**Supportive care**:
 
-* If platelets <20 x10^9^/L
+* H
+	* Platelet transfusion\
+	If platelets <20×10^9^/L.
 
-
-Consider plasmapheresis:
-
-* If refractory to medical therapy
-* If requiring heparin/protamine for CPB in patients with previous HITT
 
 ### Anaesthetic Considerations
 
@@ -154,9 +200,12 @@ Consider plasmapheresis:
 
 ## Complications
 
-Death:
-
-* Up to 20%
+* Death\
+Up to 20%
+* F
+	* Adrenal-vein thrombosis
+* H
+	* DVT
 
 ## Prognosis
 
@@ -175,4 +224,5 @@ May take weeks.
 
 ## References
 
+1. Greinacher A. [Heparin-Induced Thrombocytopenia](https://www.nejm.org/doi/10.1056/NEJMcp1411910). Solomon CG, ed. N Engl J Med. 2015;373(3):252-261. doi:10.1056/NEJMcp1411910
 1. Ivascu NS, Fitzgerald M, Ghadimi K, Patel P, Evans AS, Goeddel LA, et al. Heparin-Induced Thrombocytopenia: A Review for Cardiac Anesthesiologists and Intensivists. Journal of Cardiothoracic and Vascular Anesthesia. 2019 Feb;33(2):511–20. 

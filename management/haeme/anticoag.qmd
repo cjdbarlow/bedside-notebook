@@ -20,20 +20,24 @@ This provides a general overview of therapeutic anticoagulation. Management of p
 
 ## Contraindications
 
-## Options
+## Parenteral
 
 ### Unfractionated Heparin
 
-Unfractionated heparin:
+Cocktail of bovine or porcine, variable-length, mucopolysaccharides with three major mechanisms of action:
 
-* Has a number of mechanisms of action
-	* Potentiates antithrombin III
-	* Neutralises thrombin
-	* Neutralises Factor Xa
-* Detectable through ↑ APTT or anti-Xa
+* **Potentiates antithrombin III**
+* Neutralises thrombin
+* Neutralises Factor Xa
 
 
 **Key** pharmacological **properties**:
+
+* Dosing varies depending on level of anticoagulation required:
+	* 8-12 unit/kg/hr infusion
+* Requires monitoring:
+	* Detectable through ↑ APTT or anti-Xa
+	* High inter-individual variability
 
 
 **Reversal**:
@@ -47,6 +51,34 @@ Unfractionated heparin:
 **Protamine is** an **anticoagulant** in excess doses.
 :::
 
+**Resistance**:
+
+* Heparin resistance occurs when the APTT fails to ↑ despite very high doses of heparin
+* Causes include:
+	* ↓ Antithrombin III\
+	Functional assay of <60% correlates with ↓ *in vitro* activity.
+	* ↑ Heparin binding proteins\
+	Are an acute phase reactant.
+	* ↑ Heparin clearance
+	* ↑ Factor VIII
+* **Management** options:
+	* Give more heparin
+		* Cheap
+		* Unlikely to over-correct
+	* Supplemental antithrombin III\
+		* Goal to achieve >120% effect on functional assay
+		* May be unpredictable\
+		Significant ↑ in APTT if large dose of heparin has been already given.
+		* Options include:
+			* **FFP**\
+			20mL/kg ↑ functional assay by 20-25%; so large volumes may be required.
+			* **Antithrombin III concentrate**
+			~1.4%/unit/kg; generally given in 1000 unit increments.
+				* Significantly ↓ volume compared with FFP
+				* Expensive and limited availability
+	* Alternative anticoagulation
+
+
 ### Low Molecular Weight Heparin
 
 **Reversal**:
@@ -54,15 +86,14 @@ Unfractionated heparin:
 * Cessation
 * Protamine\
 Reverses ~50% of total effect.
+* Andexanet alfa
 
+
+## Enteral
 
 ### Vitamin K Antagonists
 
-Vitamin K antagonists:
-
-* Are functionally synonymous with the various flavours of warfarin
-* Prevent synthesis of vitamin K dependent clotting factors
-* Detectable though ↑ PT and INR.
+Prevent synthesis of vitamin K dependent clotting factors, and are functionally synonymous with the various flavours of warfarin.
 
 :::column-margin
 Vitamin K dependent clotting factors include:
@@ -73,14 +104,20 @@ Vitamin K dependent clotting factors include:
 * Factor X
 :::
 
-
 **Key** pharmacological **properties**:
 
+* Rapid and complete oral absorption
 * Highly inter- and intra-individual variability
-* Monitoring required\
-Frequency varies depending on stability and compliance.
-* 
+* Requires monitoring
+	* Frequency varies depending on stability and compliance.
+	* Detectable though ↑ PT and INR
+* Effective half-life 20-60 hours
+* Stable in renal failure
+* Substantial drug interactions
 
+:::column-margin
+{{< include /includes/warfarin.qmd >}}
+:::
 
 **Reversal**:
 
@@ -104,12 +141,17 @@ Frequency varies depending on stability and compliance.
 
 Direct anticoagulants inhibit specific elements of the clotting cascade, either:
 
-* Factor Xa
+* Factor Xa\
+Inhibit free and prothrombinase-bound factor Xa.
 	* Rivaro**xa**ban
+		* Contraindicated in renal failure
 	* Api**xa**ban
+		* Appropriate in renal failure
 	* Edo**xa**ban
 * Thrombin
-	* Dabigatran
+	* Dabigatran\
+		* Prodrug
+		* Reversible direct thrombin inhibition
 
 
 **Key** pharmacological **properties**:
@@ -118,20 +160,22 @@ Direct anticoagulants inhibit specific elements of the clotting cascade, either:
 DOAC may be preferable to VKA for both VTE and stroke prevention in AF.
 :::
 
-* Are 60-80% renally cleared
+* Are 60-80% renally cleared\
+Apixaban is the notable exception, with only 25% of the drug renally cleared.
 * Hepatic metabolism is via CYP450 enzymes
 * Elimination half-life of 7-12 hours
 * Have fixed dosing
 * Do not require monitoring
 	* ↑ Therapeutic time compared to VKA
 	* ↓ ICH risk compared to VKA
+	* No drug interactions
 
 
 **Monitoring**:
 
 * Monitoring of anticoagulant effect is more difficult compared to VKA
 * Coagulation assays **qualitatively assess** the **presence** of a **coagulation effect**, but not the degree
-	* ↑ APTT and ↑ TT occurs with thrombin inhibition\
+	* ↑ APTT and ↑ TCT occurs with thrombin inhibition\
 	i.e. Dabigatran.
 	* ↑ PT occurs with Factor Xa inhibition\
 	Requires an appropriate DOAC-sensitive reagent.
@@ -142,14 +186,16 @@ DOAC may be preferable to VKA for both VTE and stroke prevention in AF.
 
 * Reversal options are limited
 * Dabigatran
-	* Idrarucizumab 5g
+	* Idrarucizumab 5g IV
 		* Monoclonal antibody
 		* Rapidly effective
+	* Factor replacement\
+	Significantly ↓ efficacy.
 	* Dialysis\
 	Limited efficacy, 2^nd^ line to idrarucizumab.
 * Xa inhibitors
-	* Andexanaet alfa
-		* Recombinant factor Xa
+	* Andexanaet alfa 400mg IV bolus, then 4mg/min for 4 hours
+		* Recombinant factor Xa, which acts as a decoy receptor for circulating inhibitor
 		* Binds to rivaroxaban, apixaban, and enoxaparin
 
 
@@ -163,3 +209,4 @@ DOAC may be preferable to VKA for both VTE and stroke prevention in AF.
 ## References
 
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. Ansell J, Hirsh J, Poller L, Bussey H, Jacobson A, Hylek E. [The Pharmacology and Management of the Vitamin K Antagonists](https://linkinghub.elsevier.com/retrieve/pii/S0012-3692(15)31492-6). Chest. 2004;126(3):204S-233S. doi:10.1378/chest.126.3_suppl.204S

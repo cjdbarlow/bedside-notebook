@@ -8,7 +8,9 @@ Generation of a **transmembrane pressure** that exceeds the oncotic pressure, re
 	* ↑ Osmolality of the dialysate, drawing water across the membrane
 
 :::column-margin
-$TMP = {P_{Filter} + P_{Return} \over 2} - {P_{Effluent}}$, where:
+$TMP = {P_{Filter} + P_{Return} \over 2} - {P_{Effluent}}$\
+\
+Where:
 
 * $TMP$ = Transmembrane Pressure
 * $P$ = Pressure
@@ -30,7 +32,9 @@ Describes how effectively a given solute is removed.
 	* A high value indicates effective clearance
 
 :::column-margin
-$SC = {[UF] \over [Blood]}$, where:
+$SC = {[UF] \over [Blood]}$\
+\
+Where:
 
 * $SC$ = Sieving coefficient
 * $UF$ = Ultrafiltrate
@@ -40,7 +44,9 @@ $SC = {[UF] \over [Blood]}$, where:
 Fraction of plasma removed from blood during filtration.	
 
 :::column-margin
-$FF = {Rate_{UF} \over Rate_{Blood}} = {Rate_{UF} \over Rate_{Blood \ Pump} \times (1 - Hct)}$, where:
+$FF = {Rate_{UF} \over Rate_{Blood}} = {Rate_{UF} \over Rate_{Blood \ Pump} \times (1 - Hct)}$\
+\
+Where:
 
 * $FF$ = Filtration Fraction
 * $UF$ = Ultrafiltrate

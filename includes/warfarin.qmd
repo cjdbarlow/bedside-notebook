@@ -1,0 +1,23 @@
+: Warfarin Drug Interactions
+
++---------------------+-----------------+
+| Potentiation        | Inhibition      |
++=====================+=================+
+| * Alcohol           | * Barbiturates  |
+| * Anabolic steroids | * Carbamazepine |
+| * Cimetidine        | * Rifampicin    |
+| * Cotrimoxazole     | * Vitamin K     |
+| * Erythromycin      |                 |
+| * Fluid vaccination |                 |
+| * Isoniazid         |                 |
+| * Metolazone        |                 |
+| * Metronidazole     |                 |
+| * Miconazole        |                 |
+| * Omeprazole        |                 |
+| * Paracetamol       |                 |
+| * Phenytoin         |                 |
+| * Propranolol       |                 |
+| * Tamoxifen         |                 |
+| * Tetracycline      |                 |
+| * Quinidine         |                 |
++---------------------+-----------------+

@@ -241,7 +241,8 @@ book:
           chapters:
           - part: "Transfusion"
             chapters:
-            - management/haeme/blood.qmd
+            - management/haeme/typing.qmd
+            - management/haeme/product.qmd
             - management/haeme/transfusion_strategy.qmd
             - management/haeme/critical_bleeding.qmd
             - management/haeme/transfusion_reactions.qmd

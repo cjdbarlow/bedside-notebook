@@ -1,108 +1,4 @@
-# Transfusion Overview {#sec-transfusion}
-
-The covers:
-
-* The process of blood typing
-* Blood products
-
-## Blood Typing
-
-Blood typing is matching donated products to the donor, and is done to balance the:
-
-:::column-margin
-A Brief Refresher on Blood Types:
-
-* RBC may express either type A, type B, both, or no antigen
-* The blood group refers to what antigen your RBC express\
-The O blood group express no antigen on the RBC.
-* Plasma contains IgM antibody to non-expressed antigens\
-These are developed within 3-6 months of birth.
-* Therefore, the following can be given to anyone with risk of *ABO* incompatibility:
-	* Type O *RBC*, as they **express** no antigen\
-	Thus, type O are referred to as the universal donor.
-	* Type AB *plasma*, as it **contains** no antibody\
-	Type AB have unjustly been referred to as the universal recipient, which is only true in an erythro-centric model of the universe.
-:::
-
-* Risk of haemolytic transfusion reactions
-* Urgency of required transfusion
-* Allocation of scare resources
-
-
-Blood products can be divided based on the degree of typing required:
-
-* **Untyped**\
-Immediately available. Use of untyped blood:
-	* Consumes limited pool of universal units
-	* Is justified in patients needing emergency transfusion
-	* Is not justified in patients stable enough to wait until crossmatching is complete
-	* Has a higher risk of transfusion reaction\
-	Risk is from minor antibodies.
-		* Present in **2% of population**\
-		Prevalence **↑ with age**.
-		* Typically IgG mediated
-		* Does not generally cause major haemolysis\
-		Overall **haemolysis rate of emergency transfusion is 0.1%**.
-	* For **packed red cells** is **O-**
-		* Rh- (or unknown) females of childbearing age should receive O-\
-		Risk of rhesus disease if Rh+ blood given.
-			* If prolonged/repeated transfusion required, use of Rh+ blood can be justified due to limited availability of Rh- blood
-	* For **plasma** is usually **AB+**, but can be A+ with **low anti-B**\
-	Justified due to:
-		* Very limited supply of AB+ plasma
-		* Low risk of significant reactions in B patients receiving incompatible group A plasma:
-			* Low overall presence of AB+ and B+ individuals
-			* Dilution of recipient group B RBCs with untyped
-			* Low risk of significant reaction in B patients 
-
-:::column-margin
-Each subsequent stage results in a significantly smaller ↓ in the absolute risk of incompatibility - the greatest gains are had with blood grouping and typing.
-:::
-
-* **Group-specific uncrossmatched**\
-	* Prevents ABO reaction
-	* 99.8% chance of compatibility
-	* Rhesus-matching is mandatory in children and women of childbearing potential\
-	Prevent maternal antibody causing foetal haemolysis and subsequent miscarriage/death of an Rh+ foetus.
-	* Generally available within 5-10 minutes\
-\
-* **Group-specific partial crossmatch**
-	* 99.94% chance of compatibility\
-\
-* **Group-specific fully crossmatched**
-	* 99.95% chance of compatibility
-	* Generally available in 30-45 minutes
-
-
-### Typing Process
-
-Testing a recipient and preparing donor blood for transfusion involves **three stages**:
-
-1. **Blood group** (ABO and Rhesus) typing\
-Takes ~15 minutes.
-	* Forward gropuing\
-	Patient RBC mixed with anti-A and anti-B antibodies; agglutination indicates antigen presence.
-	* Reverse grouping\
-	Patient plasma mixed with known type A or type B RBC; agglutination indicates antibody presence.
-	* Forward and reverse grouping tests must agree to confirm an ABO  grouping\
-	Divergence indicate:
-		* Recent incompatible transfusion
-		* Foetomaternal haemorrhage
-		* Presence of a strange antibody.
-	* Rhesus typing performed with known anti-D serum.
-2. **Antibody screen**\
-Screening for minor antibodies other than anti-A and anti-B.
-3. **Crossmatching**\
-Testing of patients blood with a *particular* donated sample to make sure they are compatible.
-	* Detects:
-		* ABO incompatibility\
-		Should be determined by the previous round of testing.
-		* Minor antibody presence
-	* Speed depends on the antibody screen:
-		* A computer cross-match can typically match a unit of blood in <5 minutes, if the minor antibody screen is normal
-		* An abnormal minor antibody screen requires a prolonged (usually manual) cross-match, which may take **45 minutes to** several **hours**
-
-## Blood Products
+# Blood Products
 
 Include:
 
@@ -118,7 +14,7 @@ Include:
 	* Granulocytes
 * Whole blood
 
-### Packed Cells
+## Packed Cells
 
 Donor blood is cytapheresed to produce cells and a small volume of carrier plasma. PRBC:
 
@@ -181,7 +77,7 @@ The small amount of incompatible plasma that is transfused with unmatched (e.g. 
 :::
 
 
-### Fresh Frozen Plasma
+## Fresh Frozen Plasma
 
 Donor plasma remaining after cytapheresis of RBC, which is then frozen and re-thawed prior to use. FFP:
 
@@ -262,17 +158,30 @@ I find PCC useful in the operating room for *rapidly* correcting coagulopathy, a
 
 ### Single-Factor Concentrates
 
-Donor plasma isolated or recombinant production of concentrated:
+Single factors are produced either through isolation of donor plasma isolated or recombinant production. Available factors include:
 
-* AT III\
+* Antithrombin III\
 Treatment of heparin resistance:
 	* For CPB: 1000-2000 units if inadequate ACT after >600 U/kg of UFH
-* Activated factor VII
+* **Activated Factor VII**
+	* Vitamin-K dependent clotting factor that enhances haemostasis at site of injury without generalised hypercoagulability
+		* Clots formed are stronger and more resistant to fibrionlysis than normal clot
+		* Risk of generalised hypercoagulable state
+	* Indicated for congenital factor VII deficiency, or inhibitors to VIII or IX, but the majority of use is off-label from refractory surgical or traumatic haemorrhage
+	* Caution in patients with history of thromboembolic events
+	* Consider when:
+		* Fibrinogen >0.5g/dL
+		* Platelets >50×10^9^/L
+		* pH >7.1
+	* Dose 90-120μg/kg
 * Factor VIII
 	* Heat treated to inactivate HIV
 	* For treatment of haemophilia A
 * Factor IX
 
+:::column-margin
+Activated Factor VII is also known as recombinant activated coagulation factor VII, FVIIa, rFVIIa, eptacog alfa, and NovoSeven.
+:::
 
 ### Cryoprecipitate
 
@@ -310,7 +219,7 @@ Freeze-dried human plasma:
 * Used in massive transfusion
 
 
-### Platelets
+## Platelets
 
 * 1 unit ≈ 50mL\
 Generally raises platelet count by ~10× 10^9^/L.
@@ -353,7 +262,7 @@ Generally raises platelet count by ~10× 10^9^/L.
 The volume of incompatible plasma administered with platelets is significantly higher (due to greater platelet volume), but because of greater limitations in platelet availability the higher risk is assumed necessary.
 :::
 
-### Granulocytes
+## Granulocytes
 
 Granulocyte (neutrophils) are harvested from the buffy coat and:
 
@@ -362,7 +271,7 @@ Granulocyte (neutrophils) are harvested from the buffy coat and:
 * Irradiated prior to transfusion
 
 
-### Whole Blood
+## Whole Blood
 
 Whole blood:
 
@@ -423,7 +332,6 @@ Exposure of donated cellular products to high (25Gy) doses of ionised radiation:
 
 **Transfusion Thresholds**:
 
-
 {{< include /trials/tricc.qmd >}}
 {{< include /trials/triss.qmd >}}
 {{< include /trials/tricsiii.qmd >}}
@@ -456,3 +364,4 @@ Exposure of donated cellular products to high (25Gy) doses of ionised radiation:
 1. Holst LB, Haase N, Wetterslev J, et al. [Lower versus Higher Hemoglobin Threshold for Transfusion in Septic Shock](http://www.nejm.org/doi/10.1056/NEJMoa1406617). N Engl J Med. 2014;371(15):1381-1391. doi:10.1056/NEJMoa1406617
 1. Cooper DJ, McQuilten ZK, Nichol A, et al. [Age of Red Cells for Transfusion and Outcomes in Critically Ill Adults](http://www.nejm.org/doi/full/10.1056/NEJMoa1707572). New England Journal of Medicine. 2017;377(19):1858-1867. doi:10.1056/NEJMoa1707572
 1. Hébert PC, Martin C, Yetisir E. [A Multicenter, Randomized, Controlled Clinical Trial of Transfusion Requirements in Critical Care](http://www.nejm.org/doi/pdf/10.1056/NEJM199902113400601). The New England Journal of Medicine. Published online 1999.
+1. Martinowitz U, Michaelson M, Force TIM rFVIIa T. [Guidelines for the use of recombinant activated factor VII (rFVIIa) in uncontrolled bleeding: a report by the Israeli Multidisciplinary rFVIIa Task Force](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1538-7836.2005.01203.x). Journal of Thrombosis and Haemostasis. 2005;3(4):640-648. doi:10.1111/j.1538-7836.2005.01203.x

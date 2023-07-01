@@ -213,7 +213,7 @@ Complete a pre-wean checklist and confirm:
 	* pH is 7.35-7.45
 	* Potassium 4.5-5mmol/L
 * H:
-	* Hb > 70
+	* Hb >70
 	* Anticipate possible coagulopathy\
 	Product should only be administered once separated from CPB.
 		* Platelets\
@@ -228,6 +228,9 @@ Complete a pre-wean checklist and confirm:
 			* von Willebrand disease
 			* Platelet function abnormalities
 
+:::column-margin
+{{< include /includes/ddavp.qmd >}}
+:::
 
 ## Weaning from CPB
 
@@ -414,6 +417,7 @@ Use of bypass is associated with several complications including:
 ## Key Studies
 
 {{< include /trials/tricsiii.qmd >}}
+{{< include /trials/atacas.qmd >}}
 
 ---
 

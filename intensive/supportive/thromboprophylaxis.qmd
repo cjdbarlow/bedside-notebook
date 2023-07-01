@@ -2,6 +2,24 @@
 
 ## Principles
 
+### Vena Cava Filter
+
+Physical sieve placed in the IVC to catch emboli from the deep veins prior to a potentially fatal pulmonary embolism. IVC filters:
+
+* Are placed endovascularly via the femoral or RIJ veins
+* Are indicated in patients:
+	* At high of VTE with an absolute contraindication to chemoprophylaxis
+	* Unable to achieve therapeutic anticoagulation with a known DVT/PE
+	* With ongoing PE despite full anticoagulation for DVT
+* Have no evidence for mortality reduction
+* *May* ↓ symptomatic PE
+* ↑ Risk of DVT
+	* Result in venous stasis of lower limbs
+	* May result in IVC occlusion with significant thrombus burden
+* Should be retrieved when no longer required
+	* Retrievable designs should be used
+	* A system for follow-up of patients and removal should exist
+
 
 ## Practice
 
@@ -28,14 +46,10 @@ Approach:
 	* Intermittent **pneumatic calf compression**\
 	May reduce incidence by up to 60% in operative patients.
 		* Treatment of choice where bleeding risk is high
-	* **IVC filter**
-		* No evidence for mortality reduction
-		* *May* ↓ symptomatic PE
-		* ↑ Risk of DVT\
-		Should be retrieved when no longer required, so retrievable designs should be used.
-		* Reasonable to use in patients with:
-			* High VTE risk and contraindications to anticoagulation
-			* Recurrent PE despite therapeutic anticoagulation	
+	* **IVC filter**\
+	Reasonable to use in patients with:
+		* High VTE risk and contraindications to anticoagulation
+		* Recurrent PE despite therapeutic anticoagulation	
 
 
 ### Marginal and Ineffective Therapies

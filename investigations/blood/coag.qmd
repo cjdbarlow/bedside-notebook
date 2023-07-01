@@ -277,6 +277,10 @@ The ROTEM definitions are listed in **bold**, the TEG equivalents are in parenth
 ![](/resources/teg.jpg)
 :::
 
+:::column-margin
+{{< include /includes/ddavp.qmd >}}
+:::
+
 ## Interpretation
 
 : Interpretation of Conventional Coagulation Assays
