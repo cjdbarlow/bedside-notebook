@@ -1,6 +1,8 @@
 # How to build
 ## CLI
-export QUARTO_DENO_EXTRA_OPTIONS=--v8-flags=--max-old-space-size=8192
+export QUARTO_DENO_EXTRA_OPTIONS=--v8-flags=--max-old-space-size=32768
+
+QUARTO_DENO_EXTRA_OPTIONS="--v8-flags=--max-old-space-size=32768"
 
 quarto preview
 
@@ -32,7 +34,7 @@ quarto::quarto_preview
 * Revise sources of sepsis table
 * Revise antibiotics table with some useful PK/PD/tissue penetration things
 * Move paeds anaesthesia to the concepts section and pyloromyotomy and inhaled FB to surgical sections
-* Split out paeds ICU consideations into specific disease
+* Split out paeds ICU considerations into specific disease
 
 # Package to-do
 

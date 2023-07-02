@@ -176,91 +176,158 @@ Stroke symptoms include:
 		Vertigo, tinnitus, dysphagia, dysarthria, diplopia, ataxia.
 * **Maximal** at **onset**
 
-### Stroke Syndromes
 
-### Anterior Circulation
+### Supratentorial Stroke Syndromes
 
-: Anterior Circulation Stroke Syndromes
+: Supratentorial Stroke Syndromes
 
-+---------------+---------------------------------------------------------------+-------------------------------------------+--------------------------------+
-| Vessel/Region | Bilateral                                                     | Dominant Hemisphere                       | Non-Dominant Hemisphere        |
-+===============+===============================================================+===========================================+================================+
-| ACA           | * Contralateral **leg** weakness/numbness                     | Transcortical Motor Aphasia:              | * Confusion                    |
-|               | * Executive dysfunction                                       |                                           | * Contralateral hemineglect    |
-|               |                                                               | * Word finding difficulties               |                                |
-|               |                                                               | * Halting speech                          |                                |
-|               |                                                               | * Preserved repetition                    |                                |
-|               |                                                               | * Preserved comprehension                 |                                |
-+---------------+---------------------------------------------------------------+-------------------------------------------+--------------------------------+
-| MCA           | * Contralateral face and arm weakness\                        | * Aphasia                                 | * Contralateral hemineglect    |
-|               | May have numbness.                                            | * Bilateral apraxia\                      | * Loss of insight into deficit |
-|               | * Conjugate ipsilateral eye deviation                         | Loss of skilled movements.                | * Drowsiness                   |
-+---------------+---------------------------------------------------------------+-------------------------------------------+--------------------------------+
-| PCA           | * Hemianopia/superior quadrantanopia                          | * Preservation of writing but not reading | * Inability to recognise faces |
-|               | * Contralateral sensory loss                                  | * Difficulty naming objects               |                                |
-|               | * ↓ Arousal                                                   | * Difficulty giving uses for objects      |                                |
-|               | * Contralateral hemiplegia\                                   |                                           |                                |
-|               | Uncommon.                                                     |                                           |                                |
-|               | * Cortical blindness\                                         |                                           |                                |
-|               | May be unrecognised by the patient, leading to confabulation. |                                           |                                |
-+---------------+---------------------------------------------------------------+-------------------------------------------+--------------------------------+
++--------------+--------------------------------------------------------------------------------+-------------------------------------------+--------------------------------+
+| Vessel       | Both Hemispheres                                                               | Dominant Hemisphere                       | Non-Dominant Hemisphere        |
++==============+================================================================================+===========================================+================================+
+| ACA          | * Contralateral **leg** weakness/numbness                                      | Transcortical Motor Aphasia:              | * Confusion                    |
+|              | * Executive dysfunction                                                        |                                           | * Contralateral hemineglect    |
+|              | * "Alien hand" syndrome\                                                       | * Word finding difficulties               |                                |
+|              | Independent, involuntary, and sometimes complex upper limb movements.          | * Halting speech                          |                                |
+|              |                                                                                | * Preserved repetition                    |                                |
+|              |                                                                                | * Preserved comprehension                 |                                |
++--------------+--------------------------------------------------------------------------------+-------------------------------------------+--------------------------------+
+| Proximal MCA | * Contralateral face and arm weakness\                                         | * Aphasia                                 | * Contralateral hemineglect    |
+|              | May have numbness.                                                             | * Bilateral apraxia\                      | * Loss of insight into deficit |
+|              | * Conjugate ipsilateral eye deviation                                          | Loss of skilled movements.                | * Drowsiness                   |
++--------------+--------------------------------------------------------------------------------+-------------------------------------------+--------------------------------+
+| PCA          | * Hemianopia/superior quadrantanopia                                           | * Preservation of writing but not reading | * Inability to recognise faces |
+|              | * Contralateral arm and leg ataxia with tremor                                 | * Difficulty naming objects               |                                |
+|              | * Contralateral sensory loss                                                   | * Difficulty giving uses for objects      |                                |
+|              | * Contralateral pain\                                                          |                                           |                                |
+|              | Neuropathic character, with hyperalgesia and allodynia.                        |                                           |                                |
+|              | * Contralateral hemiplegia\                                                    |                                           |                                |
+|              | Uncommon.                                                                      |                                           |                                |
+|              | * ↓ Arousal                                                                    |                                           |                                |
+|              | * Cortical blindness with bilateral infarction\                                |                                           |                                |
+|              | May be unrecognised by the patient, leading to confabulation (Anton Syndrome). |                                           |                                |
+|              | * Limbic disruption\                                                           |                                           |                                |
+|              | Disorientation, euphoria, apathy, other mood changes.                          |                                           |                                |
++--------------+--------------------------------------------------------------------------------+-------------------------------------------+--------------------------------+
 
-
-### Posterior Circulation
-
-: Posterior Circulation Stroke Syndromes
-
-+-----------------+-------------------------------------------------------+---------------------+-------------------------+
-| Vessel/Region   | Bilateral                                             | Dominant Hemisphere | Non-Dominant Hemisphere |
-+=================+=======================================================+=====================+=========================+
-| Thalamic        | * Limbic disruption\                                  |                     |                         |
-|                 | Disorientation, euphoria, apathy, other mood changes. |                     |                         |
-|                 | * ↓ Arousal                                           |                     |                         |
-|                 | * Hemibody sensory loss                               |                     |                         |
-|                 | * Ataxia                                              |                     |                         |
-|                 | * Aphasia                                             |                     |                         |
-+-----------------+-------------------------------------------------------+---------------------+-------------------------+
-| Lacunar         | No cortical defect and:                               |                     |                         |
-|                 |                                                       |                     |                         |
-|                 | * Hemiparesis                                         |                     |                         |
-|                 | * Hemibody sensory loss (+/- paraesthesia)            |                     |                         |
-|                 | * Dysarthria                                          |                     |                         |
-+-----------------+-------------------------------------------------------+---------------------+-------------------------+
-| Vertebrobasilar | * ↓ GCS                                               |                     |                         |
-|                 | * Quadriplegia\                                       |                     |                         |
-|                 | May be "crossed", e.g. left face/right limbs.         |                     |                         |
-|                 | * Gaze palsy                                          |                     |                         |
-|                 | * Bulbar/pseudobulbar palsy                           |                     |                         |
-|                 | * Pupil abnormalities (dilated through to pinprick)   |                     |                         |
-|                 | * Locked-in syndrome                                  |                     |                         |
-|                 | * Amnesia                                             |                     |                         |
-|                 | * Hallucinations                                      |                     |                         |
-+-----------------+-------------------------------------------------------+---------------------+-------------------------+
-| Cerebellar      | * Ipsilateral ataxia                                  |                     |                         |
-|                 | * Vertigo\                                            |                     |                         |
-|                 | Nausea.                                               |                     |                         |
-|                 | * Nystagmus                                           |                     |                         |
-+-----------------+-------------------------------------------------------+---------------------+-------------------------+
+:::column-margin
+The anterior cerebral circulation refers to blood supply derived primarily from the internal carotid arteries and generally supplies the supratentorial brain excluding the occipital lobes.\
+\
+The posterior circulation arises from the vertebrobasilar system, and supplies the occipital lobes, cerebellum, and brainstem.\
+\
+A degree of overlap may occur through the posterior communicating artery in the circle of Willis.\
+\
+![Circle of Willis](/resources/cow.jpg)
+:::
 
 
-## Diagnostic Approach and DDx
+### Brainstem Stroke Syndromes
 
-Diagnosis relies on identifying both:
+Identification of brainstem stroke syndromes can be (somewhat) simplified with application of three broad principles:
 
-* A stroke syndrome
-* The corresponding radiological deficit
+1. **Neural pathways run vertically** through the entire length of the brainstem, running **either medially or laterally**
+2. Cranial nerves arise from different structures within the brainstem
+3. The branches of the posterior circulation that supply the brainstem are divided into:
+	* Paramedian branches, which supply medial structures:
+		* Basilar artery perforators
+	* Circumferential branches, which supply lateral structures:
+		* Anterior inferior cerebellar artery
+		* Posterior inferior cerebellar artery
+		* Superior cerebellar artery
+
+Therefore, brainstem vascular syndromes can be geographically localised to the medial or lateral aspect of a specific structure by identifying both the affected pathway and cranial nerves.
+
+The relevant principles are summarised as the **Brainstem Rule of Four**, which states that there are:
+
+1. **Four** cranial nerves:
+	* Above the pons\
+	CN III-IV. As CN I and II arise above the midbrain, they will unaffected by a brainstem lesion.
+	* In the pons\
+	CN V-VIII.
+	* In the medulla\
+	CN IX-XII.\
+\
+2. **Four midline motor nuclei**, and they are all\* **factors of 12**\
+
+:::column-margin
+\*This refers to nerves 3, 4, 6, and 12; 1 and 2 are also factors of 12 but are not motor nerves. Motor nuclei (e.g. CN VII) that are not listed are not midline. 
+:::
+
+3. **Four** structures in the **midline**\
+These begin with "**m**":
+	* **Motor pathway** (Corticospinal tract)\
+	Contralateral arm and leg.
+	* Motor nuclei\
+	Nuclei of the midline **motor cranial nerves**, listed in rule 2.
+	* **Medial lemniscus**\
+	Contralateral vibration and proprioception.
+	* **Medial longitudinal fasciculus**\
+	Ipsilateral internuclear ophthalmoplegia.
+
+:::column-margin
+Ipsilateral internuclear ophthalmoplegia is a failure of adduction of the ipsilateral eye towards the nose, with nystagmus on lateral gaze of the contralateral eye.
+:::
+
+4. **Four** structures to the **side** (lateral)\
+These begin with "**s**":
+	* **Spinothalamic** pathway\
+	Contralateral pain and temperature.
+	* **Spinocerebellar** pathway\
+	Ipsilateral ataxia.
+	* **Sympathetic** pathway\
+	Ipsilateral Horner's syndrome.
+	* Sensory nucleus of **CN V**\
+	Ipsilateral facial pain and temperature.
 
 
-Differential diagnoses include:
+:::column-margin
+Normal functions of the cranial nerves:
 
-* Migraine\
-Positive migraine symptoms (visual symptoms, paraesthesias) are less consistent with ischaemic stroke.
-* Post-ictal deficit\
-Should improve over minutes-hours.
-* Mass lesion (e.g. Tumour, abscess)\
-More gradual onset.
-* PRES
-* Intoxication
+{{< include /includes/cranial.qmd >}}
+:::
+
+: Application of the Rule of 4
+
++----------------------------+--------------------------------------+--------------+------------------------------------------------+
+| Syndrome                   | Vessel                               | Rules        | Features                                       |
++============================+======================================+==============+================================================+
+| Medial medullary syndrome  | * Vertebral artery                   | Medial       | * Contralateral weakness                       |
+| (Dejerine Syndrome)        | * Anterior spinal artery             |              | * Contralateral vibration and proprioception   |
+|                            |                                      +--------------+------------------------------------------------+
+|                            |                                      | Medulla\     | * Ipsilateral tongue weakness                  |
+|                            |                                      | (CN IX-XII)  |                                                |
++----------------------------+--------------------------------------+--------------+------------------------------------------------+
+| Lateral medullary syndrome | Anterior Inferior Cerebellar Artery  | Lateral      | * Contralateral pain and temperatures          |
+| (Wallenberg Syndrome)      |                                      |              | * Ipsilateral ataxia                           |
+|                            |                                      |              | * Ipsilateral Horner's syndrome                |
+|                            |                                      |              | * Ipsilateral facial sensory loss              |
+|                            |                                      |              |                                                |
+|                            |                                      |              |                                                |
+|                            |                                      +--------------+------------------------------------------------+
+|                            |                                      | Medulla\     | * Loss of gag reflex                           |
+|                            |                                      | (CN IX-XII)  | * Dysarthria                                   |
+|                            |                                      |              | * Dysphagia                                    |
++----------------------------+--------------------------------------+--------------+------------------------------------------------+
+| Lateral pontine syndrome   | Posterior Inferior Cerebellar Artery | Lateral      | * Contralateral pian and temperature           |
+| (Marie-Foix Syndrome)      |                                      |              | * Ipsilateral ataxia                           |
+|                            |                                      +--------------+------------------------------------------------+
+|                            |                                      | Pons\        | * Ipsilateral facial weakness                  |
+|                            |                                      | (CN IV-VIII) | * Ipsilateral hearing loss, vertigo, nystagmus |
++----------------------------+--------------------------------------+--------------+------------------------------------------------+
+| Locked-in Syndrome         | Basilar Artery                       | Medial       | * Whole body weakness                          |
+|                            |                                      |              | * Lateral gaze weakness                        |
+|                            |                                      |              | * Dysarthria                                   |
+|                            |                                      +--------------+------------------------------------------------+
+|                            |                                      | Lateral      | * Whole body sensory loss                      |
+|                            |                                      |              |                                                |
+|                            |                                      +--------------+------------------------------------------------+
+|                            |                                      | Pons\        | * Bilateral facial weakness                    |
+|                            |                                      | (CN IV-VIII) |                                                |
++----------------------------+--------------------------------------+--------------+------------------------------------------------+
+
+:::column-margin
+Presence of both lateral and medial features suggests a basilar artery problem.
+::: 
+
 
 ## Investigations
 
@@ -319,6 +386,26 @@ PFO, endocarditis.
 :::column-margin
 Echocardiography is more useful in younger patients, who are less likely to have "classical" embolic causes.
 :::
+
+
+## Diagnostic Approach and DDx
+
+Diagnosis relies on identifying both:
+
+* A stroke syndrome
+* The corresponding radiological deficit
+
+
+Differential diagnoses include:
+
+* Migraine\
+Positive migraine symptoms (visual symptoms, paraesthesias) are less consistent with ischaemic stroke.
+* Post-ictal deficit\
+Should improve over minutes-hours.
+* Mass lesion (e.g. Tumour, abscess)\
+More gradual onset.
+* PRES
+* Intoxication
 
 ## Management
 
@@ -684,3 +771,4 @@ Degree of disability following stroke is commonly quantified using the **Modifie
 1. Yoshimura S, Sakai N, Yamagami H, et al. [Endovascular Therapy for Acute Stroke with a Large Ischemic Region](https://www.nejm.org/doi/full/10.1056/NEJMoa2118191). New England Journal of Medicine. 2022;386(14):1303-1313.
 1. Vahedi K, Vicaut E, Mateo J, et al. [Sequential-Design, Multicenter, Randomized, Controlled Trial of Early Decompressive Craniectomy in Malignant Middle Cerebral Artery Infarction (DECIMAL Trial)](https://www.ahajournals.org/doi/10.1161/strokeaha.107.485235). Stroke. 2007;38(9):2506-2517. doi:10.1161/STROKEAHA.107.485235
 1. ACEM. [Position Statement: IV thrombolysis for ischaemic stroke](https://acem.org.au/getmedia/8dca8e1f-4de3-4c28-a2aa-a61400c02650/S129_Statement_on_IV_Thrombolysis_for_Ischaemic_Stroke_v4.aspx). 2021 V5.
+1. Gates P. [The rule of 4 of the brainstem: a simplified method for understanding brainstem anatomy and brainstem vascular syndromes for the non-neurologist](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1445-5994.2004.00732.x). Internal Medicine Journal. 2005;35(4):263-266. doi:10.1111/j.1445-5994.2004.00732.x

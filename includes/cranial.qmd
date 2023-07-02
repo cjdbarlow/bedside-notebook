@@ -1,0 +1,20 @@
+* CN I: Olfactory\
+Smell.
+* CN II: Optic\
+Vision; including brightness, colour, and contrast.
+* CN III: Oculomotor\
+Ipsilateral eye adduction, supraduction, and infraduction.
+* CN IV: Trocholear\
+Ipsilateral downward and inward eye movement.
+* CN V: Trigeminal\
+Ipsilateral facial pain, temperature, and light touch.
+* CN VI: Abducent\
+Ipsilateral eye abduction.
+* CN IX: Glossopharyngeal\
+Ipsilateral pharyngeal sensation.
+* CN X: Vagus\
+Ipsilateral palate.
+* CN XI: Accessory\
+Ipsilateral trapezius and SCM.
+* CN XII: Hypoglossal\
+Ipsilateral tongue.

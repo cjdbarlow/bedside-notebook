@@ -1,6 +1,6 @@
 # Standard Approach
 
-This section outlines the chemical principles underlying a reasonably standard approach to blood gas interpretation.
+This section outlines the chemical principles and a reasonably standard approach to blood gas interpretation.
 
 ## Principles
 
@@ -8,7 +8,7 @@ This section outlines the chemical principles underlying a reasonably standard a
 
 The $Anion \ Gap = Na^+ - Cl^+ - HCO_3^-$:
 
-* Normal is 12 (8-16)\
+* **Normal** is **12** (8-16)\
 A value rather than range is specified to permit further changes.
 * Low sensitivity and specificity\
 * Accuracy falls further in the setting of hypoalbuminaemia, and so should be corrected:
@@ -21,7 +21,7 @@ A value rather than range is specified to permit further changes.
 :::column-margin
 The Anion Gap is sometimes written including potassium. This makes the:
 
-* $Anion \ Gap = Na^+ K^+ - Cl^+ - HCO_3$
+* $Anion \ Gap = Na^+ + K^+ - Cl^+ - HCO_3$
 * Equation marginally more accurate\
 Predominantly in patients who experience wild swings in their serum potassium, typically renal patients.
 * Maths marginally harder
@@ -187,15 +187,20 @@ $AG_{urine} = Unmeasured_{anions} - Unmeasured_{cations} = Na^+ + K^+ - Cl^-$
 :::tick
 Although not part of acid-base assessment, now is a good time to determine any abnormalities of gas exchange:
 
-* Determine PAO~2~ using the AGE
-* $PAO_2 = FiO_2 \times 713 - PaCO_2 \times 1.25$
+1. Determine **PAO~2~** using the **AGE**\
+$PAO_2 = FiO_2 \times (P_{atm} - 47) - {PaCO_2 \over R}$
 	* Normal A-a gradient is $10mmHg + 0.1 \times Age$
+	* The A-a gradient can be expected to increase by 5-7mmHg for every 10% ↑ in FiO~2~
 	* An ↑ A-a gradient indicates ↓ PaO~2~ is secondary to shunt or diffusion limitation, rather than alveolar hypoventilation or ↓ FiO~2~
-* Determine P/F ratio	
+2. Determine **P/F ratio**	
 :::
 
 :::column-margin
 The A-a gradient is not actually that helpful in practice, since this shunt is almost always the primary cause.
+:::
+
+:::column-margin
+Assuming standard atmospheric pressure an a normal respiratory quotient, the AGE can be abbreviated to: $PAO_2 = FiO_2 \times 713 - PaCO_2 \times 1.25$
 :::
 
 This details a reasonably standard approach to blood gas interpretation:
@@ -205,14 +210,45 @@ Is it metabolic or respiratory?
 	* Evaluate pH and PaCO~2~
 
 :::column-margin
-If both pH and PaCO~2~ are normal then a dual metabolic problem is possible, but unlikely.
+If both pH and PaCO~2~ are normal then a dual metabolic problem is possible.
 :::
 
 2. **Determine compensation**
-	* Metabolic: PaCO~2~ in mmHg should ≃ the last 2 digits of pH (after the decimal point)
-	* Respiratory:
-		* Compensated if SBE is normal
-		* Uncompensated if $SBE = 0.4 \times (PaCO_2 - 40)$
+	* Metabolic compensation for respiratory disorder
+		* Full compensation may occur:
+			* For PaCO~2~ between 25-80mmHg
+			* Over ~5 days
+		* Some compensation is evident with an appropriate change in the SBE
+	* Respiratory compensation for metabolic disorder
+		* Full compensation does not occur
+		* PaCO~2~ in mmHg should ≃ the last 2 digits of pH (after the decimal point)\
+		This rule of thumb is invalid in severe acidosis or dual disorders.
+
+:::column-margin
+: Metabolic Compensation Rules
+
++-----------------------------------------------------+-----------+----+
+| Acute                                               | Acidosis  | ↑1 |
++-----------------------------------------------------+-----------+----+
+| Acute                                               | Alkalosis | ↓2 |
++-----------------------------------------------------+-----------+----+
+| Chronic                                             | Acidosis  | ↑4 |
++-----------------------------------------------------+-----------+----+
+| Chronic                                             | Alkalosis | ↓5 |
++-----------------------------------------------------+-----------+----+
+| Indicates the change in HCO~3~^-^ for every 10mmHg change in PaCO~2~ |
++----------------------------------------------------------------------+
+:::
+
+:::column-margin
+: Respiratory Compensation Rules
+
++-----------+--------------------------------------+
+| Acidosis  | $PaCO_2 = (1.5 \times HCO_3^-) + 8$  |
++-----------+--------------------------------------+
+| Alkalosis | $PaCO_2 = (0.7 \times HCO_3^-) + 20$ |
++-----------+--------------------------------------+
+:::
 
 3. **Determine severity**
 	* Metabolic disorders
@@ -256,6 +292,24 @@ $\Delta AG = AG - 12^*$\
 \
 \*In the setting of abnormal albumin the alternative normal value should be used.
 :::
+
+
+### Examination
+
+For the purposes of an exam:
+
+* If the FiO~2~ is given, you should calculate the A-a gradient
+* If there is a metabolic acidosis, you should calculate the AG
+* If the AG is ↑, you should calculate the delta ratio
+* If there is a measured osmolality, then you should calculate the osmolar gap\
+\
+* Urinary pH = RTA
+* Polyuria post-TBI = Mannitol
+* 'Young female' = Pregnancy
+* Hyperglycaemia = DKA or HHS
+* Flucloxacillin/paracetamol with renal or hepatic dysfunction = Pyroglutamic acidosis
+* Hypercholesterolaemia = Myxoedema coma
+* Osmolality = Toxic alcohols
 
 ---
 
