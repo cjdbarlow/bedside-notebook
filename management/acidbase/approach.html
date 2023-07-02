@@ -4316,7 +4316,10 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#strong-ion-difference" id="toc-strong-ion-difference" class="nav-link" data-scroll-target="#strong-ion-difference">Strong Ion Difference</a></li>
   <li><a href="#urinary-anion-gap" id="toc-urinary-anion-gap" class="nav-link" data-scroll-target="#urinary-anion-gap">Urinary Anion Gap</a></li>
   </ul></li>
-  <li><a href="#approach" id="toc-approach" class="nav-link" data-scroll-target="#approach">Approach</a></li>
+  <li><a href="#approach" id="toc-approach" class="nav-link" data-scroll-target="#approach">Approach</a>
+  <ul class="collapse">
+  <li><a href="#examination" id="toc-examination" class="nav-link" data-scroll-target="#examination">Examination</a></li>
+  </ul></li>
   <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
   </ul>
 </nav>
@@ -4342,14 +4345,14 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>This section outlines the chemical principles underlying a reasonably standard approach to blood gas interpretation.</p>
+<p>This section outlines the chemical principles and a reasonably standard approach to blood gas interpretation.</p>
 <section id="principles" class="level2 page-columns page-full">
 <h2 class="anchored" data-anchor-id="principles">Principles</h2>
 <section id="anion-gap" class="level3 page-columns page-full">
 <h3 class="anchored" data-anchor-id="anion-gap">Anion Gap</h3>
 <p>The <span class="math inline">\(Anion \ Gap = Na^+ - Cl^+ - HCO_3^-\)</span>:</p>
 <ul>
-<li>Normal is 12 (8-16)<br>
+<li><strong>Normal</strong> is <strong>12</strong> (8-16)<br>
 A value rather than range is specified to permit further changes.</li>
 <li>Low sensitivity and specificity<br>
 </li>
@@ -4368,7 +4371,7 @@ A value rather than range is specified to permit further changes.</li>
 <div class="no-row-height column-margin column-container"><div class="">
 <p>The Anion Gap is sometimes written including potassium. This makes the:</p>
 <ul>
-<li><span class="math inline">\(Anion \ Gap = Na^+ K^+ - Cl^+ - HCO_3\)</span></li>
+<li><span class="math inline">\(Anion \ Gap = Na^+ + K^+ - Cl^+ - HCO_3\)</span></li>
 <li>Equation marginally more accurate<br>
 Predominantly in patients who experience wild swings in their serum potassium, typically renal patients.</li>
 <li>Maths marginally harder</li>
@@ -4598,21 +4601,25 @@ Chloride, bicarbonate, sulphate, phosphate, organic anions.</li>
 <h2 class="anchored" data-anchor-id="approach">Approach</h2>
 <div class="tick">
 <p>Although not part of acid-base assessment, now is a good time to determine any abnormalities of gas exchange:</p>
-<ul>
-<li>Determine PAO<sub>2</sub> using the AGE</li>
-<li><span class="math inline">\(PAO_2 = FiO_2 \times 713 - PaCO_2 \times 1.25\)</span>
+<ol type="1">
+<li>Determine <strong>PAO<sub>2</sub></strong> using the <strong>AGE</strong><br>
+<span class="math inline">\(PAO_2 = FiO_2 \times (P_{atm} - 47) - {PaCO_2 \over R}\)</span>
 <ul>
 <li>Normal A-a gradient is <span class="math inline">\(10mmHg + 0.1 \times Age\)</span></li>
+<li>The A-a gradient can be expected to increase by 5-7mmHg for every 10% ↑ in FiO<sub>2</sub></li>
 <li>An ↑ A-a gradient indicates ↓ PaO<sub>2</sub> is secondary to shunt or diffusion limitation, rather than alveolar hypoventilation or ↓ FiO<sub>2</sub></li>
 </ul></li>
-<li>Determine P/F ratio<br>
+<li>Determine <strong>P/F ratio</strong><br>
 </li>
-</ul>
+</ol>
 </div>
 
 <div class="no-row-height column-margin column-container"><div class="">
 <p>The A-a gradient is not actually that helpful in practice, since this shunt is almost always the primary cause.</p>
-</div></div><p>This details a reasonably standard approach to blood gas interpretation:</p>
+</div><div class="">
+<p>Assuming standard atmospheric pressure an a normal respiratory quotient, the AGE can be abbreviated to: <span class="math inline">\(PAO_2 = FiO_2 \times 713 - PaCO_2 \times 1.25\)</span></p>
+</div></div>
+<p>This details a reasonably standard approach to blood gas interpretation:</p>
 <ol type="1">
 <li><strong>Determine</strong> the <strong>primary process</strong><br>
 Is it metabolic or respiratory?
@@ -4622,17 +4629,82 @@ Is it metabolic or respiratory?
 </ol>
 
 <div class="no-row-height column-margin column-container"><div class="">
-<p>If both pH and PaCO<sub>2</sub> are normal then a dual metabolic problem is possible, but unlikely.</p>
+<p>If both pH and PaCO<sub>2</sub> are normal then a dual metabolic problem is possible.</p>
 </div></div><ol start="2" type="1">
 <li><strong>Determine compensation</strong>
 <ul>
-<li>Metabolic: PaCO<sub>2</sub> in mmHg should ≃ the last 2 digits of pH (after the decimal point)</li>
-<li>Respiratory:
+<li>Metabolic compensation for respiratory disorder
 <ul>
-<li>Compensated if <span class="glossary" title="Standardised Base Excess"><span class="glossary" title="Standardised Base Excess">SBE</span></span> is normal</li>
-<li>Uncompensated if <span class="math inline">\(SBE = 0.4 \times (PaCO_2 - 40)\)</span></li>
+<li>Full compensation may occur:
+<ul>
+<li>For PaCO<sub>2</sub> between 25-80mmHg</li>
+<li>Over ~5 days</li>
+</ul></li>
+<li>Some compensation is evident with an appropriate change in the <span class="glossary" title="Standardised Base Excess"><span class="glossary" title="Standardised Base Excess">SBE</span></span></li>
+</ul></li>
+<li>Respiratory compensation for metabolic disorder
+<ul>
+<li>Full compensation does not occur</li>
+<li>PaCO<sub>2</sub> in mmHg should ≃ the last 2 digits of pH (after the decimal point)<br>
+This rule of thumb is invalid in severe acidosis or dual disorders.</li>
 </ul></li>
 </ul></li>
+</ol>
+
+<div class="no-row-height column-margin column-container"><div class="">
+<table class="table">
+<caption>Metabolic Compensation Rules</caption>
+<colgroup>
+<col style="width: 75%">
+<col style="width: 16%">
+<col style="width: 6%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>Acute</td>
+<td>Acidosis</td>
+<td>↑1</td>
+</tr>
+<tr class="even">
+<td>Acute</td>
+<td>Alkalosis</td>
+<td>↓2</td>
+</tr>
+<tr class="odd">
+<td>Chronic</td>
+<td>Acidosis</td>
+<td>↑4</td>
+</tr>
+<tr class="even">
+<td>Chronic</td>
+<td>Alkalosis</td>
+<td>↓5</td>
+</tr>
+<tr class="odd">
+<td colspan="3">Indicates the change in HCO<sub>3</sub><sup>-</sup> for every 10mmHg change in PaCO<sub>2</sub></td>
+</tr>
+</tbody>
+</table>
+</div><div class="">
+<table class="table">
+<caption>Respiratory Compensation Rules</caption>
+<colgroup>
+<col style="width: 16%">
+<col style="width: 54%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>Acidosis</td>
+<td><span class="math inline">\(PaCO_2 = (1.5 \times HCO_3^-) + 8\)</span></td>
+</tr>
+<tr class="even">
+<td>Alkalosis</td>
+<td><span class="math inline">\(PaCO_2 = (0.7 \times HCO_3^-) + 20\)</span></td>
+</tr>
+</tbody>
+</table>
+</div></div>
+<ol start="3" type="1">
 <li><strong>Determine severity</strong>
 <ul>
 <li>Metabolic disorders
@@ -4695,7 +4767,26 @@ The change in <span class="glossary" title="Standardised Base Excess"><span clas
 <br>
 *In the setting of abnormal albumin the alternative normal value should be used.</p>
 </div></div>
+<section id="examination" class="level3">
+<h3 class="anchored" data-anchor-id="examination">Examination</h3>
+<p>For the purposes of an exam:</p>
+<ul>
+<li>If the FiO<sub>2</sub> is given, you should calculate the A-a gradient</li>
+<li>If there is a metabolic acidosis, you should calculate the <span class="glossary" title="Anion Gap">AG</span></li>
+<li>If the <span class="glossary" title="Anion Gap">AG</span> is ↑, you should calculate the delta ratio</li>
+<li>If there is a measured osmolality, then you should calculate the osmolar gap<br>
+<br>
+</li>
+<li>Urinary pH = <span class="glossary" title="Renal Tubular Acidosis">RTA</span></li>
+<li>Polyuria post-TBI = Mannitol</li>
+<li>‘Young female’ = Pregnancy</li>
+<li>Hyperglycaemia = <span class="glossary" title="Diabetic Ketoacidosis">DKA</span> or <span class="glossary" title="Hyperosmolar Hyperglycaemic Syndrome">HHS</span></li>
+<li>Flucloxacillin/paracetamol with renal or hepatic dysfunction = Pyroglutamic acidosis</li>
+<li>Hypercholesterolaemia = Myxoedema coma</li>
+<li>Osmolality = Toxic alcohols</li>
+</ul>
 <hr>
+</section>
 </section>
 <section id="references" class="level2">
 <h2 class="anchored" data-anchor-id="references">References</h2>
