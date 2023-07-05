@@ -153,6 +153,33 @@ Inhibit free and prothrombinase-bound factor Xa.
 		* Prodrug
 		* Reversible direct thrombin inhibition
 
+:::column-margin
+: Rivaroxaban Dosing
+
++----------------------+--------------------+-----------------------------------------+
+| Creatinine Clearance | Non-valvular AF    | VTE                                     |
+| (mL/min)             |                    |                                         |
++======================+====================+=========================================+
+| \>49                 | 20mg daily         | 15mg BD for 21 days, then 10-20mg daily |
++----------------------+--------------------+                                         |
+| 30–49                | 15mg daily         |                                         |
++----------------------+--------------------+                                         |
+| 15–29                | 15mg daily\        |                                         |
+|                      | (Use with caution) |                                         |
++----------------------+--------------------+-----------------------------------------+
+| <15                  | Avoid              | Avoid                                   |
++----------------------+--------------------+-----------------------------------------+
+:::
+
+:::column-margin
+: Apixaban Dosing
+
++-----------------+----------------+----------------------------------+
+| Non-valvular AF | VTE Prevention | VTE Treatment                    |
++=================+================+==================================+
+| 5mg BD          | 2.5mg BD       | 10mg BD for 7 days, then 5 mg BD |
++-----------------+----------------+----------------------------------+
+:::
 
 **Key** pharmacological **properties**:
 
@@ -210,3 +237,4 @@ Apixaban is the notable exception, with only 25% of the drug renally cleared.
 
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
 1. Ansell J, Hirsh J, Poller L, Bussey H, Jacobson A, Hylek E. [The Pharmacology and Management of the Vitamin K Antagonists](https://linkinghub.elsevier.com/retrieve/pii/S0012-3692(15)31492-6). Chest. 2004;126(3):204S-233S. doi:10.1378/chest.126.3_suppl.204S
+1. Tran HA, Gibbs H, Merriman E, et al. [New guidelines from the Thrombosis and Haemostasis Society of Australia and New Zealand for the diagnosis and management of venous thromboembolism](https://onlinelibrary.wiley.com/doi/full/10.5694/mja2.50004). Medical Journal of Australia. 2019;210(5):227-235. doi:10.5694/mja2.50004

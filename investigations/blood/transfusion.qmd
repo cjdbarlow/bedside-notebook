@@ -26,6 +26,9 @@ Antiglobulin testing consists of either:
 	* Minor antibody detection
 	* Pre-transfusion compatibility
 
+:::column-margin
+{{< include /includes/coombs.qmd >}}
+:::
 
 ---
 

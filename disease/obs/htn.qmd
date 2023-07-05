@@ -152,6 +152,9 @@ Earlier onset is associated with greater severity.
 		* HELLP syndrome\
 		Haemolysis, elevated liver enzymes, thrombocytopaenia.
 
+:::column-margin
+{{< include /includes/haemolysis.qmd >}}
+:::
 
 ## Investigations
 

@@ -155,16 +155,29 @@ Management depends on the stage of therapy:
 			* G-CSF
 			* Stem cell re-infusion
 			* Repeat transplant
-	* Veno-occlusive disease\
+	* **Veno-occlusive disease**\
 	Thrombotic occlusion of small hepatic veins.
+		* Occurs early in post-transplantation period
 		* Presents as:
-			* Hepatomegaly
+			* Painful hepatomegaly
 			* Jaundice
-			* Ascites
+			* Ascites/oedema
+			* Hyponatraemia
 		* Risk factors:
 			* Certain myeloablative regimens
 			* Pre-existing abnormal LFTs
-		* Management with defibrotide
+		* Complications:
+			* AKI
+			* CKD\
+			25% will require haemodialysis.
+		* Management consists of:
+			* Cease hepatotoxins
+			* Immunosuppression:
+				* Corticosteroids
+				* Tacrolimus
+				* Methotrexate
+			* Defibrotide\
+			Inhibits platelet activation, aggregation, restores endothelial function, and improves microvascular thrombosis.
 	* Post-transplant lymphoproliferative disorder\
 	Uncontrolled proliferation of EBV-infected B cells, causing impaired T-cell immunity.
 	* TTP
@@ -190,6 +203,17 @@ TTP (and other microangiopathies) is covered under @sec-ttp.
 
 :::column-margin
 GvHD is covered in detail under @sec-gvhd.
+:::
+
+:::column-margin
+**Baltimore criteria** for veno-occlusive disease requires:
+
+* Bilirubin >34mmol/L
+* Two or more of:
+    * Hepatomegaly
+    * Ascites
+    * Weight gain >5%
+* Within 21 days of BMT
 :::
 
 :::column-margin

@@ -1,0 +1,48 @@
+# Platelets {#sec-platelet}
+
+Platelets testing includes:
+
+* Platelet count\
+Normal is 150-400×10^9^/L.
+* Platelet function testing
+
+
+## Abnormalities
+
+* **Thrombocytopaenia**
+	* Causes include:
+		* Artifactual\
+		Clumping of platelets in an inadequately anticoagulated tube.
+		* ↑ Consumption
+			* Extracorporeal circulation
+			* DIC
+			* Haemorrhage
+			* Post-transfusion
+			* Pre-eclampsia
+			* MAHA
+				* TTP/HUS
+			* Immune
+				* HITT
+				* APS
+				* SLE
+		* ↓ Production
+			* Drugs
+				* Alcohol
+				* Linezolid
+=			* Bone marrow disease
+				* Myelofibrosis
+				* Aplastic anaemia
+			* Malignancy
+				* Bone marrow infiltration
+				* Haematological malignancy
+			* Infection
+				* Viral\
+				HIV, EBV, Hepatitis C, mumps, rubella, VZV.
+			* Nutritional deficiency
+		* Sequestration
+			* Hypersplenism
+			* Hypothermia
+
+---
+
+## References

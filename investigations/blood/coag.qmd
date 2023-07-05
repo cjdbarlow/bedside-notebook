@@ -88,7 +88,7 @@ Also known as the Partial Thromboplastin Time (PTT), or historically as the kaol
 
 Time taken for blood to clot after addition of some reagent. The APTT is:
 
-* A test of the intrinsic pathway
+* A test of the **intrinsic pathway**
 * Highly variable between laboratories\
 Normal ranges (including for anticoagulation with heparin) are variable.
 * Prolonged by:

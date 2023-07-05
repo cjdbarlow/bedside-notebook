@@ -1,6 +1,6 @@
 # Thrombotic Microangiopathies {#sec-ttp}
 
-Family of microvascular diseases characterised by endothelial injury with platelet microthrombi:
+Family of microvascular diseases characterised by **systemic platelet aggregation**, forming **microthrombi** which **occlude** the **microvasculature** and lead to **endothelial injury**:
 
 * Defined by triad of:
 	* **MAHA**
@@ -8,26 +8,66 @@ Family of microvascular diseases characterised by endothelial injury with platel
 	* **Organ dysfunction**
 * Divided into:
 	* **TTP**\
-	Caused by severe **deficiency** in the **ADAMTS13 protein**.
-		* May be life-threatening
-	* **Typical HUS**\
-	Caused by Shiga toxin-producing *E. coli*.
-		* Predominantly infective diarrhoea
-	* **Atypical HUS**\
-	Uncontrolled activation of alternative complement pathway.
+	Caused by severe **deficiency** in the **ADAMTS13 protein**. This may be:
+		* Life-threatening
+		* Inherited or acquired
+	* **HUS**\
+	Further divided into:
+		* **Typical HUS**\
+		Caused by infection with **Shiga toxin**-producing bacteria
+			* Predominantly infective diarrhoea\
+			Classically *E. coli* O157:H7. Other organisms include:
+				* *Shigella dysenteriae*
+				* *Citrobacter freundii*
+			* More common in children
+			* AKI is the distinguishing feature
+		* **Atypical HUS**\
+		Uncontrolled activation of alternative complement pathway.
 
 :::column-margin
-Subtypes may be indistinguishable on clinical grounds.
+Although the pathophysiology of each differs substantially, subtypes may be indistinguishable on clinical grounds.
 :::
 
+:::column-margin
+HELLP syndrome also causes microangiopathic thrombosis and is covered under @sec-preghtn.
+:::
 
 ## Epidemiology and Risk Factors
 
 ## Pathophysiology
 
+TTP:
+
+* Large vWF multimers are produced by endothelial cells
+* Circulating ADAMTS13 cleaves large vWF multimers into more sensibly-sized proteins
+* Absence of ADAMTS13 results in persisting large vWF multimers, which attract and bind circulating platelets
+* Platelet clumping around vWF results in microvascular occlusion, with subsequent:
+	* Haemolysis\
+	Of erythrocytes passing through the obstructed microvascular space.
+	* Ischaemia\
+	Of the affected tissue bed.
+
 ### Aetiology
 
 ## Clinical Features
+
+* Cardiovascular symptoms
+	* Ischaemic chest pain
+	* ECG symptoms
+* **Fever**
+* **Neurological manifestations**\
+80% of cases.
+	* Coma
+	* Headache
+	* Focal deficit
+	* Visual changes
+	* Weakness
+* **AKI**\
+Rare in TTP.
+* **Haemolytic anaemia**
+* Mucocutaneous bleeding
+* **Thrombocytopaenia**
+* Gastrointestinal symptoms
 
 ## Assessment
 
@@ -41,6 +81,29 @@ Subtypes may be indistinguishable on clinical grounds.
 
 **Laboratory**:
 
+* Blood
+	* FBE
+		* Platelets\
+		Generally 20-50×10^9^/L.
+	* Blood smear
+		* Evidence of haemolysis
+		* Schistocytes
+	* Negative Coombs test
+	* ADAMTS13\
+	Normal in HUS.
+
+:::column-margin
+ADAMTS13 is *not* required for diagnosis; haemolysis and thrombocytopaenia absent another cause is adequate.
+:::
+
+:::column-margin
+{{< include /includes/coombs.qmd >}}
+:::
+
+:::column-margin
+{{< include /includes/haemolysis.qmd >}}
+:::
+
 **Imaging**:
 
 **Other**:
@@ -52,18 +115,44 @@ Subtypes may be indistinguishable on clinical grounds.
 +----------------+------------------------------+----------------------------------------------------+-----------------------------------+
 | Characteristic | TTP                          | Typical HUS                                        | Atypical HUS                      |
 +================+==============================+====================================================+===================================+
-| Clinical       | * Lung almost never involved |                                                    | * ↑ Severity of organ involvement |
-|                | * AKI rare at presentation   |                                                    |                                   |
-|                | * Fever                      |                                                    |                                   |
+| Clinical       | * Lung almost never involved | * Blood diarrhoea prodrome                         | * ↑ Severity of organ involvement |
+|                | * AKI rare at presentation   | * AKI common                                       |                                   |
+|                | * Fever                      | * Neurological symptoms common                     |                                   |
 +----------------+------------------------------+----------------------------------------------------+-----------------------------------+
 | Investigations | * Profound thrombocytopaenia | * Positive stool culture for Shiga-toxin *E. coli* | * Mild (or no) thrombocytopaenia  |
 |                | * ADAMTS13 <10%              |                                                    |                                   |
 +----------------+------------------------------+----------------------------------------------------+-----------------------------------+
 
+Differential diagnoses include:
+
+
+* C
+	* Hypertension
+* H
+	* DIC
+* I
+	* Vasculitis
+	* Autoimmune
+		* APS
+* Infections
+	* Viral
+	* Severe bacterial or fungal infection
+* Drugs
+	* Simvastatin
+	* Calcineurin inhibitors
+	* Quinine
+	* Interferon
+* Obstetric
+	* Pre-eclampsia
+
 ## Management
 
 :::priority
-Goals of management
+TTP:
+
+* **Corticosteroids**
+* Urgent **plasmapheresis**
+* Consider monoclonal antibody therapy
 :::
 
 **Resuscitation**:
@@ -72,16 +161,30 @@ Goals of management
 
 * Pharmacological
 	* TTP
-		* Corticosteroids
-		* Rituximab
+		* **Corticosteroids**
+			* Methylprednisolone 1g/day for 3 days
+			* Prednisolone 1mg/kg/day
+		* PPI\
+		To ↓ gastric erosion.
+		* **Rituximab**\
+		If neurological or cardiac involvement.
+		* Folic acid 5mg/day
 	* Atypical HUS
 		* Eculizumab
 * Procedural
 	* TTP
-		* Plasma exchange
+		* **Plasma exchange**
+			* Removes precipitating antibody
+			* Replaces ADAMTS13
 * Physical
 
 **Supportive care**:
+
+* C
+	* Hypertension management
+* F
+	* RRT\
+	Required in majority of HUS patients.
 
 **Disposition**:
 
@@ -96,6 +199,13 @@ Goals of management
 
 ## Prognosis
 
+* Untreated TTP may have mortality up to 90%
+* H
+	* Relapse
+		* ~50% of patients relapse
+		* Majority relapse within one year
+		* May be ↓ after splenectomy
+
 ## Key Studies
 
 
@@ -104,3 +214,5 @@ Goals of management
 ## References
 
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. Kappler S, Ronan-Bentle S, Graham A. [Thrombotic Microangiopathies (TTP, HUS, HELLP)](https://www.sciencedirect.com/science/article/pii/S0733862714000327). Emergency Medicine Clinics of North America. 2014;32(3):649-671. doi:10.1016/j.emc.2014.04.008
+1. George JN. [Thrombotic Thrombocytopenic Purpura](https://www.nejm.org/doi/full/10.1056/nejmcp053024). The new england journal of medicine. Published online 2006.

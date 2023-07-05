@@ -117,6 +117,7 @@ book:
           chapters:
           - management/enviro/zps.qmd
           - management/enviro/triage.qmd
+          - management/enviro/cbrn.qmd
           - management/enviro/major.qmd
         - part: <hr>
         - part: "Airway"
@@ -806,18 +807,22 @@ book:
         # Haematology
       - part: "Haematology"
         chapters:
-        - part: "Erythrocyte"
+        - part: "Anaemias"
           chapters:
+          - disease/haeme/anaemia.qmd
+          - disease/haeme/haemolytic.qmd
           - disease/haeme/sickle.qmd
           # Haemolysis
         - part: "Clotting"
           chapters:
+          - disease/haeme/dvt.qmd
           - disease/haeme/dic.qmd
           - disease/haeme/purpura_fulminans.qmd
           - disease/haeme/hitt.qmd
           - disease/haeme/vwd.qmd
           - disease/haeme/itp.qmd
           - disease/haeme/microangiopathies.qmd
+          - disease/haeme/aps.qmd
       - part: "Integumentary"
         chapters:
         - part: "Soft Tissue"
@@ -910,7 +915,6 @@ book:
       # Environmental
       - part: "Environmental"
         chapters:
-        - disease/enviro/cbrn.qmd
         - disease/enviro/drowning.qmd
         - disease/enviro/electrocution.qmd
         - disease/enviro/heat.qmd
@@ -980,6 +984,7 @@ book:
       # Congenital
       - part: "Congenital"
         chapters:
+        - disease/congenital/g6pd.qmd
         - disease/congenital/achondroplasia.qmd
         - disease/congenital/cerebral_palsy.qmd
         - disease/congenital/chiari.qmd
@@ -1007,6 +1012,7 @@ book:
           chapters:
           - investigations/blood/rbc.qmd
           - investigations/blood/wbc.qmd
+          - investigations/blood/platelet.qmd
           - investigations/blood/iron.qmd
           - investigations/blood/coag.qmd
           - investigations/blood/thrombophilia.qmd

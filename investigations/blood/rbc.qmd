@@ -1,4 +1,4 @@
-# Erythrocytes
+# Erythrocytes {#sec-rbc}
 
 Red cell indices reported on a full blood exam may include:
 
@@ -74,11 +74,29 @@ Bimodal distribution of erythrocyte cell volume on a red cell histogram. Usually
 ![RBC Histogram: Post-Iron Infusion](/resources/rbc_histo_post_iron.png)
 :::
 
+* **Sickle Cell**\
+Erythrocyte deformed by HbS which has polymerised under hypoxic stress. Diagnostic of sickle cell disease.
+
+:::column-margin
+![Sickle Cell](/resources/sickle.jpg)
+:::
+
+:::column-margin
+Sickle cell disease is covered under @sec-hbs. 
+:::
+
 * **Reticulocytosis** (Normal: 0.5-2.5%)\
 Juvenile erythrocytes that contain RNA remnants and ribosomes but no nucleus, ejected into circulation in response to anaemia.
 
 :::column-margin
 ![Reticulocytosis](/resources/retic.png)
+:::
+
+* **Schistocytes**\
+Fragmented, irregular, jagged erythrocytes formed by mechanical destruction during haemolysis. 
+
+:::column-margin
+![Schistocytes](/resources/schistocyte.png)
 :::
 
 * **Nucleated erythrocytes** (Normoblastaemia)\

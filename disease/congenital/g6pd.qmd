@@ -1,0 +1,161 @@
+# G6PD Deficiency
+
+G6PD is an X-linked **enzyme deficiency** that causes **extravascular haemolysis** under conditions of **oxidative stress**, notably:
+
+* Physiological stress
+	* Surgery
+	* Sepsis
+	* DKA
+* Foods
+	* Fava beans\
+	Known as Favism.
+	* Blueberries
+* Drugs
+	* Methylene blue
+	* Antibiotics
+		* Cotrimoxazole
+		* Sulfamethoxazole
+		* Nitrofurantoin
+		* Fluoroquinolones
+		* Primaquine
+	* Rasburicase
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+* **G6PD** is an enzyme that **reduces NADP^+^ to NADPH** by oxidising glucose-6-phosphate
+* **NADPH** is **used** to **regenerative glutathione**, which is used by erythrocytes to **repair oxidative damage**
+* Inadequate NADPH production results in:
+	* Glutathione depletion
+	* Unrepaired oxidative stress\
+	Evident as inclusions, such as **Heinz** and **Howel-Jolly bodies**.
+	* **Extravascular haemolysis** by the reticuloendothelial system
+		* Anaemia
+		* Jaundice
+
+:::column-margin
+![Heinz Bodies](/resources/heinz.jpg)
+:::
+
+:::column-margin
+Other erythrocyte abnormalities are covered under @sec-rbc.
+:::
+
+### Aetiology
+
+At-risk ethnic backgrounds include:
+
+:::column-margin
+These are also (incidentally), generally Malaria-prone regions.
+:::
+
+* Mediterraneans
+* Sub-Saharan Africans
+* Southeast Asians
+* Indians
+* Latin Americans
+
+## Clinical Features
+
+## Assessment
+
+**History**:
+
+**Exam**:
+
+### Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+**Imaging**:
+
+**Other**:
+
+### Diagnostic Approach and DDx
+
+
+## Management
+
+:::priority
+* Cease trigger
+* Supportive care
+:::
+
+**Resuscitation**:
+
+**Specific therapy**:
+
+* Pharmacological
+* Procedural
+* Physical
+
+**Supportive care**:
+
+* H
+	* Transfusion
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+
+
+
+# Procedure
+
+## Indications
+
+## Contraindications
+
+## Anatomy
+
+## Equipment
+
+## Technique
+
+## Complications
+
+
+---
+
+## References
+
+
+# Management
+
+## Indications
+
+## Contraindications
+
+## Principles
+
+## Practice
+
+
+## Complications
+
+
+## Key Studies
+
+---
+
+## References

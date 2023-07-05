@@ -1,141 +1,37 @@
-# Patient Blood Management
+# Patient Blood Management {#sec-pbm}
 
+Patient Blood Management describes a set of processes that aim to ↓ unnecessary transfusions by:
 
-Patient Blood Management:
+:::column-margin
+Anaemia is covered in detail under @sec-anaemia.
+:::
 
-* Aims to reduce unnecessary transfusions\
+* Early detection and treatment of anaemia
+* Minimising perioperative blood loss
+* Improving post-operative tolerance to anaemia
+
+:::column-margin
 Transfusion is associated with:
-	* Mortality in both:
-		* Cardiac and non-cardiac surgery
-		* Short-term and 5 year mortality
-	* Morbidity:
-		* ↑ Length of stay
-		* ↑ Postoperative infections
-		* TRIM
-	* Cost
-* Involves:
-	* Early detection and treatment of anaemia
-	* Minimising perioperative blood loss
-	* Improving post-operative tolerance to anaemia
 
-
-
-## Anaemia
-
-Anaemia is:
-
-* Defined as a (sea-level) haemoglobin of:
-	* ⩽130g/dL in men
-	* ⩽120g/dL in non-pregnant women
-	* ⩽110g/dL in pregnant women
-* An independent risk factor for:
-	* Mortality
-	* Morbidity
-	* Hospitalisation
-	* ↓ Quality of Life
-* Associated with ↑ transfusion requirements\
-
-
-### Epidemiology
-
-Anaemia in preoperative patients in Australia is:
-
-* Common
-	* 6% of females
-	* 2% of males
-	* Risk ↑ with age\
-	16% of patients over 75.
-* Usually due to iron deficiency
-
-### Clinical Manifestations
-
-Assess 4-6 weeks preoperatively:
-
-* FBE\
-	* Hb
-	* MCV\
-	Classies anaemia into:
-		* Microcytic\
-		MCV ⩽ 80 fl. Major causes are:
-			* Iron deficiency
-			* Congenital haemoglobinopathies
-		* Normocytic\
-		MCV 80-96 fl. Major causes are:
-			* Anaemia of chronic disease
-			* Pregnancy
-			* Haemolysis
-			* Sickle-cell
-		* Macrocytic\
-		MCV ⩾96 fl. Major causes are:
-			* Folate/Vitamin B~12~ deficiecy
-			* Alcohol
-			* Drug effect
-	* MCHC
-	* RCC
-* Blood film
-* CRP\
-Performed if ferritin is raised in a microcytic anaemia, to exclude reactive causes.
-* Iron studies
-	* Ferritin\
-	Assesses degree of iron deficiency.
-		* Only reliable in absence of acute inflammation\
-		Ferritin is an acute phase reactant
-		* Normal range will depend on lab assay, but in general:
-			* Severe: ⩽30μg/mL
-			* Moderate: 30-50μg/mL
-			* Mild: 50-100μg/mL
-	* Transferrin saturation
-		* <20% suggestive of iron deficiency
-		* Useful in moderate ferritin deficiency
-
-
-### Management
-
-Therapeutic options:
-
-* Depend on:
-	* Surgical urgency\
-	Aim to schedule surgery once red cell mass optimised.
-	* Patient availability
-	* Cause of anaemia
-* Include:
-	* Preoperative iron supplementation\
-	If iron deficient.
-		* Oral
-			* Common
-			* Cheap
-			* Significantly limited by:
-				* Time\
-				May take ⩾3 months of therapy to be effective, and 6-9 months for equivalent effect of one IV replacement.
-				* Absorption\
-				Highly variable.
-				* Intake
-				* Non-compliance\
-				Significant GI side effects.
-			* 80mg elemental iron given every **second day**\
-			Daily administration down-regulates hepcidin, and reduces absorption.
-		* IV\
-		Generally used if ferritin deficiency is severe, or moderate with low transferrin saturation.
-			* Facilitate rapid repletion of stores
-			* Requires local pathway to facilitate
-			* Newer preprations have much lower incidence of anaphylaxis\
-			Include iron polymaltose and iron carboxymaltose.
-	* Erythropoiesis
-		* May be useful in patients:
-			* With renal disease
-			* Without nutritional deficiency
-		* Should be coordinated with haematologist and nephrologist
+* Mortality:
+	* Cardiac and non-cardiac surgery
+	* Short-term and 5 year mortality
+* Morbidity:
+	* ↑ Length of stay
+	* ↑ Postoperative infections
+	* TRIM
+* Cost
+:::
 
 ## Minimising Perioperative Blood Loss
 
-Preoperative optimisation:
+### Preoperative
 
 * Identifying and managing bleeding list
 * Reviewing medications
 
-### Management
 
-Intraoperatively involves:
+### Intraoperative:
 
 * Surgical
 	* Meticulous haemostasis
@@ -153,7 +49,7 @@ Intraoperatively involves:
 	If EBL ⩾1L.
 
 
-Postoperatively involves:
+### Postoperative
 
 * Preventing secondary haemorrhage
 * Minimising iatrogenic blood sampling
@@ -161,8 +57,6 @@ Postoperatively involves:
 	* Using continuous sampling lines
 
 ## Postoperative Anaemia Tolerance
-
-Goals are to:
 
 * Maintain DO~2~
 	* Optimise CO
@@ -174,6 +68,7 @@ Goals are to:
 		i.e. Single units, if clinically appropriate.
 * Minimise excess VO~2~
 	* Rapidly treat infections/sepsis
+
 
 
 ---

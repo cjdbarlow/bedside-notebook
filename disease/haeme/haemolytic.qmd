@@ -1,0 +1,187 @@
+# Haemolytic Anaemias
+
+Anaemia due to erythrocyte destruction, causes of which can be classified on a number of axes:
+
+* **Intracorpuscular vs. Extracorpuscular** haemolysis
+	* Intracorpuscular\
+	Abnormal haemoglobin, membrane, or cytoplasmic composition and function.
+		* Majority are inherited
+	* Extracorpuscular\
+	Destruction due to mechanical, immunologic, infectious, or metabolic pathology.
+* **Immune vs. non-immune**\
+Immune indicates destruction by antibody or complement, and is indicated by a positive Coombs test.
+* **Intravascular vs. Extravascular** haemolysis
+	* Intravascular\
+	Results in free haemoglobin, urinary haemoglobin, and ↓ haptoglobin.
+	* Extravascular\
+	Destruction by macrophages of the reticuloendothelial system.
+
+
+: Causes of Haemolytic Anaemia
+
++----------------------+----------------------------------------+--------------------------------------+
+|                      | Intravascular                          | Extravascular                        |
++======================+========================================+======================================+
+| **Intracorpuscular** | * Paroxysmal nocturnal haemoglobinuria | Haemoglobinopathies:                 |
+|                      |                                        |                                      |
+|                      |                                        | * Sickle cell disease                |
+|                      |                                        | * Thalassaemia                       |
+|                      |                                        |                                      |
+|                      |                                        | Membrane abnormalities:              |
+|                      |                                        |                                      |
+|                      |                                        | * Hereditary spherocytosis           |
+|                      |                                        |                                      |
+|                      |                                        |                                      |
+|                      |                                        | Metabolic:                           |
+|                      |                                        |                                      |
+|                      |                                        | * G6PD deficiency                    |
++----------------------+----------------------------------------+--------------------------------------+
+| **Extracorpuscular** | Antibody-mediated:                     | Hypersplenism:                       |
+|                      |                                        |                                      |
+|                      | * Autoimmune haemolytic anaemia        | * Splenomegaly                       |
+|                      | * Haemolytic transfusion reactions     | * Warm autoimmune haemolytic anaemia |
+|                      | * Rhesus disease                       |                                      |
+|                      | * Cold agglutinin disease              |                                      |
+|                      |                                        |                                      |
+|                      |                                        |                                      |
+|                      | Mechanical:                            |                                      |
+|                      |                                        |                                      |
+|                      | * Extracorporeal circuits              |                                      |
+|                      | * Mechanical valves                    |                                      |
+|                      | * VAD                                  |                                      |
+|                      | * DIC                                  |                                      |
+|                      | * MAHA                                 |                                      |
+|                      |     * TTP                              |                                      |
+|                      |     * HUS                              |                                      |
+|                      | * Trauma                               |                                      |
+|                      |     * March haemolysis                 |                                      |
+|                      |     * Bongo-players haemolysis         |                                      |
+|                      | * Osmotic lysis\                       |                                      |
+|                      | From hypertonic infusions.             |                                      |
+|                      |                                        |                                      |
+|                      | Other:                                 |                                      |
+|                      |                                        |                                      |
+|                      | * Bacterial toxins                     |                                      |
+|                      | * Snake bite                           |                                      |
++----------------------+----------------------------------------+--------------------------------------+
+
+:::column-margin
+March and bongo-players haemolysis both occur through repeated mechanical trauma to the tissue bed.
+:::
+
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Features
+
+## Assessment
+
+**History**:
+
+**Exam**:
+
+### Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+**Imaging**:
+
+**Other**:
+
+### Diagnostic Approach and DDx
+
+
+## Management
+
+:::priority
+* Treat cause
+* Minimise AKI
+:::
+
+**Resuscitation**:
+
+**Specific therapy**:
+
+* Pharmacological
+	* Immunosuppression\
+	For autoimmune haemolytic anaemias.
+* Procedural
+	* Splenectomy\
+	For warm haemolytic anaemias, to ↓ extravascular haemolysis.
+* Physical
+
+
+**Supportive care**:
+
+* F
+	* Fluid resuscitation\
+	Minimise free haemoglobin-associated AKI.
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+
+
+
+# Procedure
+
+## Indications
+
+## Contraindications
+
+## Anatomy
+
+## Equipment
+
+## Technique
+
+## Complications
+
+
+---
+
+## References
+
+
+# Management
+
+## Indications
+
+## Contraindications
+
+## Principles
+
+## Practice
+
+
+## Complications
+
+
+## Key Studies
+
+---
+
+## References

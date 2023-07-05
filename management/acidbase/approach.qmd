@@ -58,7 +58,7 @@ This relies on several assumptions that do not occur in practice though:
 	* Measurement error exists in measuring the five components of the ratio\
 	Sodium, potassium, chloride, albumin, bicarbonate.
 
-
+:::column-margin
 : Interpretation of the Delta Ratio
 
 +---------+----------------------------------+
@@ -66,14 +66,15 @@ This relies on several assumptions that do not occur in practice though:
 +=========+==================================+
 | <0.4    | Hyperchloraemic NAGMA            |
 +---------+----------------------------------+
-| 0.4-0.8 | * Mixed HAGMA and NAGMA          |
-|         | * NAGMA                          |
+| 0.4-0.8 | Mixed HAGMA and NAGMA            |
+|         +----------------------------------+
+|         | NAGMA                            |
 +---------+----------------------------------+
 | 1-2     | Pure HAGMA                       |
 +---------+----------------------------------+
 | \>2     | Pre-existing metabolic alkalosis |
 +---------+----------------------------------+
-
+:::
 
 ### Standardised Base Excess
 
@@ -225,19 +226,26 @@ If both pH and PaCO~2~ are normal then a dual metabolic problem is possible.
 		This rule of thumb is invalid in severe acidosis or dual disorders.
 
 :::column-margin
+Compensation rules are messy in practice - the overlapping, dynamic effect of both disease and treatment means patients rarely behave as expected.
+:::
+
+:::column-margin
 : Metabolic Compensation Rules
 
-+-----------------------------------------------------+-----------+----+
-| Acute                                               | Acidosis  | ↑1 |
-+-----------------------------------------------------+-----------+----+
-| Acute                                               | Alkalosis | ↓2 |
-+-----------------------------------------------------+-----------+----+
-| Chronic                                             | Acidosis  | ↑4 |
-+-----------------------------------------------------+-----------+----+
-| Chronic                                             | Alkalosis | ↓5 |
-+-----------------------------------------------------+-----------+----+
-| Indicates the change in HCO~3~^-^ for every 10mmHg change in PaCO~2~ |
-+----------------------------------------------------------------------+
++---------+-----------+-----+
+| Acute   | Acidosis  | ↑ 1 |
++---------+-----------+-----+
+| Acute   | Alkalosis | ↓ 2 |
++---------+-----------+-----+
+| Chronic | Acidosis  | ↑ 4 |
++---------+-----------+-----+
+| Chronic | Alkalosis | ↓ 5 |
++---------+-----------+-----+
+| Indicates the change in   |
+| HCO~3~^-^ in mmol/L for   |
+| every 10mmHg change in    |
+| PaCO~2~                   |
++---------------------------+
 :::
 
 :::column-margin
@@ -271,8 +279,8 @@ The SBE determines severity in both directions; i.e. an SBE of 12 is moderate al
 				* IgG myeloma
 		* If ↑ AG, are unmeasured anions the only cause?\
 		Two approaches:
-			* Calculate the Delta Ratio
-			* Determine if the AG changed proportionally to the SBE:
+			1. Calculate the Delta Ratio
+			2. Determine if the AG changed proportionally to the SBE:
 				* Calculate the change in AG (ΔAG)
 				* If $\Delta AG = SBE$ then a single metabolic disorder is present\
 				The change in SBE is explained entirely by the AG.

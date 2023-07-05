@@ -1,12 +1,12 @@
 # Disseminated Intravascular Coagulation
 
-Acquired syndrome of **extreme systemic intravascular activation** of **coagulation** that:
+Acquired syndrome of **extreme systemic intravascular activation** of **coagulation** with **loss of localisation** that:
 
 * Occurs secondary to an underlying condition
 * Causes **consumption** of **platelets** and **coagulation factors**\
 With subsequent:
 	* Coagulopathy and bleeding.
-	* Microvascular fibrin thrombi\
+	* **Microvascular damage** due to fibrin thrombi\
 	Leading to tissue ischaemia and multiorgan dysfunction.
 * May be acute or chronic
 	* Acute DIC is:
@@ -85,7 +85,25 @@ Including:
 	* Tissue factor pathway inhibitor
 * Thrombosis occurring throughout the vasculature
 
+
 ### Aetiology
+
+Triggering conditions include:
+
+* Major haemorrhage
+	* Trauma
+	* Obstetric
+* Inflammation
+	* AFE
+	* Fat embolism
+	* Transfusion reaction
+	* GVHD
+	* Snake bite
+* Infection
+	* Sepsis
+	* Haemorrhagic fevers
+	* Gram negative bacteraemia
+* Malignancy
 
 ## Assessment
 
@@ -146,9 +164,14 @@ Laboratory investigations:
 	↑ FDP due to fibrinolysis.
 	* Blood film\
 	Schistocyte formation.
+	* Haemolysis screen
 
 :::column-margin
 Coagulation **assays** may be **normal** in **chronic DIC** due to ↑ production, which compensates for ↑ consumption.
+:::
+
+:::column-margin
+{{< include /includes/haemolysis.qmd >}}
 :::
 
 ## Management

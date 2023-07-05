@@ -1,0 +1,212 @@
+# Deep Vein Thrombosis
+
+Clot formation in a deep vein which are at risk of thrombosis
+
+:::column-margin
+VTE is an umbrella term encompassing both DVT and PE, and is used as there is substantial overlap in both pathologies. This distinction is not made here; this section covers DVT whilst PE is covered in detail under @sec-pe. Thromboprophylaxis is explored under @sec-thromboprophylaxis.
+:::
+
+
+## Epidemiology and Risk Factors
+
+:::info
+Almost all ICU patients fall into a "very high" risk category on any conventional scoring system.
+:::
+
+Risk factors:
+
+* Age
+* Post-operative
+* Pathology
+	* Inflammatory disease
+		* IBD
+		* Sepsis
+	* Malignancy
+	* Thrombotic disorder
+		* Factor V Leiden
+		* Protein C/S deficiency
+		* Antiphosphlipid syndrome
+		* Previous DVT/PE
+	* Nephrotic syndrome
+	* Liver failure
+* Obstetric
+	* Peripartum
+	* Pregnant
+* In-dwelling devices
+	* High association with upper limb DVT
+* Immobility
+	* Travel
+	* Hospital admission
+* Drugs
+	* OCP
+	* HITT
+
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Features
+
+General features:
+
+* Pain
+* Phlebitis
+* Limb swelling
+	* Oedema
+	* Venous stasis
+* Paraesthesia
+* Palpable venous thrombus\
+"Cord-like".
+
+
+Catheter-associated:
+
+* Unable to aspirate
+* Loss of transduced waveform
+* Inability to inject
+
+## Assessment
+
+**History**:
+
+* Provoking factors
+	* Malignancy
+
+:::column-margin
+50% of patients with an upper limb DVT have an associated malignancy; and 10% of patients with an "unprovoked" DVT have a malignancy diagnosis in the following year.
+:::
+
+**Exam**:
+
+
+### Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+**Imaging**:
+
+* Ultrasound
+	* Incompressibility
+	* Visible thrombosis
+* CT venogram\
+For mediastinal and pelvic vasculature.
+
+**Other**:
+
+### Diagnostic Approach and DDx
+
+
+## Management
+
+:::priority
+* Risk assessment\
+Determine provoked vs. unprovoked DVT, which influences risk of recurrence.
+* Anticoagulation
+:::
+
+**Resuscitation**:
+
+**Specific therapy**:
+
+:::column-margin
+Therapeutic anticoagulation is covered under @sec-anticoagulation.
+:::
+
+:::column-margin
+IVC filters are covered in detail under @sec-thromboprophylaxis.
+:::
+
+* Pharmacological
+	* **Therapeutic anticoagulation**
+		* Duration varies depending on location and degree of provocation
+		* Warfarin and DOAC are equally effective\
+			* Oral Xa inhibitors are preferred
+			* Dabigatran initiation requires bridging for initiation
+	* Thrombolysis\
+	Facilitates rapid restoration of venous patency with moderate ↑ in bleeding complications.
+		* Indicated for:
+			* Essential vascular access required with no available central veins
+			* Very-high risk clot\
+			e.g. SVC thrombosis.
+			* Long-term anticoagulation higher risk than short-term, supervised coagulopathy
+		* Catheter-directed thrombolysis preferred
+* Procedural
+	* IVC filter
+* Physical
+
+:::
+: Duration of Anticoagulation
+
++---------------------+-------------+------------+
+| Location            | Provocation | Duration   |
++=====================+=============+============+
+| Distal              | Transient   | 6 weeks    |
++---------------------+-------------+------------+
+| Proximal            | Transient   | 3-6 months |
++---------------------+-------------+------------+
+| Proximal            | Recurrent   | "Extended" |
++---------------------+-------------+------------+
+| Proximal upper limb | Transient   | 3 months   |
++---------------------+-------------+------------+
+| Proximal            | Malignancy  | 3-6 months |
++---------------------+-------------+------------+
+| Proximal            | CVC         | 3 months   |
++---------------------+-------------+------------+
+
+There is no need to remove a working CVC with associated thrombosis whilst it is present and it remains indicated.
+:::
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+* ↑ Length of stay
+* B
+	* PE
+* H
+	* Recurrent DVT
+* I
+	* Falls
+
+:::column-margin
+: Risk of VTE Recurrence After Ceasing Anticoagulation
+
++-----------------------------------------+-------------------+-------------------+
+| Type of VTE                             | 1-year recurrence | 5-year recurrence |
++=========================================+===================+===================+
+| Provoked: Major surgery or major trauma | 1%                | 3%                |
++-----------------------------------------+-------------------+-------------------+
+| Provoked: Transient risk factor         | 5%                | 15%               |
++-----------------------------------------+-------------------+-------------------+
+| Provoked: Persistent risk factor        | 15%               | 45%               |
++-----------------------------------------+-------------------+-------------------+
+| Unprovoked distal DVT                   | 5%                | 15%               |
++-----------------------------------------+-------------------+-------------------+
+| Unprovoked proximal VTE                 | 10%               | 30%               |
++-----------------------------------------+-------------------+-------------------+
+| *Second* unprovoked VTE                 | 15%               | 45%               |
++-----------------------------------------+-------------------+-------------------+
+:::
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Tran HA, Gibbs H, Merriman E, et al. [New guidelines from the Thrombosis and Haemostasis Society of Australia and New Zealand for the diagnosis and management of venous thromboembolism](https://onlinelibrary.wiley.com/doi/full/10.5694/mja2.50004). Medical Journal of Australia. 2019;210(5):227-235. doi:10.5694/mja2.50004

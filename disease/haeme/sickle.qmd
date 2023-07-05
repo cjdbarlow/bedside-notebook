@@ -1,11 +1,13 @@
-# Sickle Cell
+# Sickle Cell Disease {#sec-hbs}
 
-
-Congenital haemoglobinopathy leading to production of **relatively insoluble haemoglobin S** which causes erythrocytes to adopt a 'sickle' shape, and leads to:
+Congenital haemoglobinopathy leading to production of the **relatively insoluble haemoglobin S**, causing erythrocytes to adopt a 'sickle' shape under conditions of physiologic stress. Sickle cell anaemia leads to:
 
 * Vaso-occlusion and haemolysis
 	* Pain due to microvascular obstruction
 	* Progressive multiorgan dysfunction due to ischaemia
+* Relative protection against malaria\
+Sickled cells haemolyse prematurely, interrupting the *Plasmodium* life-cycle.
+
 
 ## Epidemiology and Risk Factors
 
@@ -17,73 +19,139 @@ Autosomal recessive:
 	* Chronic haemolytic anaemia
 	* Recurrent vaso-occlusion and severe pain
 	* Progressive organ damage
-	* Early death
+	* Often early death
 * Heterozygotes have **sickle cell trait**
 	* Results in HbS levels of ~30-40%
 	* HbS may precipitate in conditions of physiologic stress
+	* Usually well
+
+
+HbS:
+
+* Work normally when oxygenated
+* Deforms in hypoxia, resulting in polymerisation and deformation of the red cell into a sickle shape\
+Sickled cells:
+	* Are rigid and sticky\
+	Can obstruct capillary flow, leading to vaso-occlusion.
+	* Haemolyse rapidly\
+	Lifespan of 10-20 days
+		* Leads to anaemia due to rapid turnover
 
 
 ### Aetiology
 
 ## Clinical Manifestations
 
-Sickle Cell Disease:
+:::info
+Sickle cell anaemia may present as a series of different crises.
+:::
 
-* Failure to thrive
-* Often frequent hospital admissions
-* Multiorgan failure
-	* Pulmonary hypertension\
-	Recurrent pulmonary infarction.
-	* Cardiac failure
-	* Functional asplenism\
-	Consequential lymphoid hypertrophy.
-	* TIAs/CVAs
+**Vasoocclusive crisis**:
+
+* Sudden onset pain\
+Ischaemia or infarction secondary to microvascular obstruction.
+* Hypovolaemia\
+Inability to concentrate urine.
+	* Generally hypernatraemic, and require volume resuscitation with hypotonic solutions
 
 
-Sickle Cell Trait:
+**Sequestration crisis**:
 
-* Usually well
+* Pooling of erythrocytes in spleen and liver\
+Presents as:
+	* Anaemia
+	* Hypovolaemic shock
 
-## Diagnostic Approach and DDx
+## Assessment
 
-## Investigations
+**History**:
 
-Sickledex test:
+**Exam**:
 
-* Rapid screening
-* Qualitative detection of HbS levels >10%
+### Investigations
 
-Haemoglobin electrophoresis:
+**Bedside**:
 
-* Definitive diagnostic 
+**Laboratory**:
 
-Blood film:
+* Blood
+	* FBE
+		* Chronic anaemia
+	* Hb electrophoresis\
+	For diagnosis.
+	* Blood film:
+		* Sickle forms
+		* Reticulocytosis
+	* Sickledex test:
+		* Rapid screening
+		* Qualitative detection of HbS levels >10%
 
-* Sickle forms
-* Reticulocytosis
+:::column-margin
+![Sickle Cell](/resources/sickle.jpg)
+:::
+
+**Imaging**:
+
+**Other**:
+
+### Diagnostic Approach and DDx
+
+
+
 
 ## Management
 
-Prevention:
+:::priority
+* Prevent and treat sickling **precipitants**
+* **Transfusion**
+:::
 
-* Avoid dehydration
-	* Exercise
-	* Hot weather
-	* Alcohol
+**Resuscitation**:
+
+**Specific therapy**:
+
+* Pharmacological
+	* Vaccination\
+	If asplenic.
+* Procedural
+	* Bone marrow transplantation\
+	Usually restricted to <16 year olds.
+	* Exchange transfusion\
+	May be required for severe vasoocclusive crises.
+* Physical
+
+:::column-margin
+Asplenism is covered under @sec-asplenia.
+:::
+
+**Supportive care**:
+
+* H
+	* Hb >50
+
+**Disposition**:
+
+**Other**:
+
+
+**Prevention**:
+
+* Avoid **precipitants**
+	* Dehydration
+		* Exercise
+		* Hot weather
+		* Alcohol
+	* Hypoxia
+		* Smoking
+		* OSA
+	* Physiological stress
+	* Hypothermia
 * Folic acid supplementation
 * Hydroxyurea\
 ↑ HbF formation, and so reduces frequency and severity of vaso-occlusive crises.
 
 
-Therapeutic:
 
-* Bone marrow transplantation\
-Usually restricted to <16 year olds.
-
-**Other**:
-
-* Vaccination if asplenic
-*
 
 ### Medical
 
@@ -91,12 +159,16 @@ Usually restricted to <16 year olds.
 
 ### Anaesthetic Considerations
 
+:::caution
+Avoid precipitants of vaso-occlusive crises:
+
+* Hypoxia
+* Acidosis
+* Hypercapnoea
+:::
+
 * B
 	* PHTN
-	* Avoid:
-		* Hypoxia
-		* Acidosis
-		* Hypercapnoea
 * C
 	* CCF
 	* Volume state
@@ -118,6 +190,18 @@ Usually restricted to <16 year olds.
 ### Marginal and Ineffective Therapies
 
 ## Complications
+
+* B
+	* Pulmonary hypertension\
+	Recurrent pulmonary infarction.
+* C
+	* Cardiac failure
+* D
+	* TIAs/CVAs
+* H
+	* Functional asplenism\
+	Consequential lymphoid hypertrophy.
+
 
 ## Prognosis
 

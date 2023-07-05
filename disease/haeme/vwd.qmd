@@ -1,50 +1,23 @@
 # von Willebrand Disease
 
-
-von Willebrand Disease is a family of bleeding disorders caused by abnormal von Willebrand factor, a large glycoprotein that:
-
-* Acts as the **carrier protein** for **factor VIII**
-* Is required for **platelet adhesion**\
-Provides an adhesive bridge from platelet to damaged subendothelium.
-
-
-vWD is subdivided into:
+von Willebrand Disease is a family of bleeding disorders caused by abnormal von Willebrand factor, and classified by cause into:
 
 * **Congenital**\
-Divided into **three** subtypes:
+Further divided into **three** subtypes:
 	* **Type 1**\
-	Quantitative reduction in normal vWF.
+	*Quant*itative reduction in normal vWF.
 		* Mild clinical symptoms
 		* Usually autosomal dominant
 		* ~75% of patients
 	* **Type 2**\
-	Primarily **qualitative** defect.
+	Primarily ***qual*itative** defect.
 		* 4 subtypes with varying degrees of severity
 		* Autosomal dominant or recessive
 	* **Type 3**\
-	Absence of vWF.
+	*Absence* of vWF.
 		* Severe clinical bleeding
 		* Autosomal recessive
-* **Acquired**\
-May be:
-	* Malignant 
-		* Lymphoproliferative disease
-		* Myeloproliferative neoplasms
-		* Wilms tumour
-		* Carcinomas
-	* Immune
-		* SLE
-	* Vascular flow\
-	Shear stress on vWF multimers ↑ susceptibility to cleavage by ADAMTS13.
-		* AS
-		* LVAD/ECMO
-		* MV prolapse
-		* Congenital heart disease
-		* Toxins
-			* Valproic acid
-			* Ciprofloxacin
-		* Other
-			* Hypothyroidism
+* **Acquired**
 
 
 ## Epidemiology and Risk Factors
@@ -54,11 +27,41 @@ Most common hereditary bleeding disorder:
 * Prevalence is ~1% worldwide\
 However, only ~1% of these patients will display symptoms.
 
+
 ## Pathophysiology
+
+von Willebrand factor is a large glycoprotein that:
+
+* Acts as the **carrier protein** for **factor VIII**
+* Is required for **platelet adhesion**\
+Provides an adhesive bridge from platelet to damaged subendothelium.
+
 
 ### Aetiology
 
-## Clinical Manifestations
+Causes of acquired vWD:
+
+* Malignant 
+	* Lymphoproliferative disease
+	* Myeloproliferative neoplasms
+	* Wilms tumour
+	* Carcinomas
+* Immune
+	* SLE
+* Vascular flow\
+Shear stress on vWF multimers ↑ susceptibility to cleavage by ADAMTS13.
+	* AS
+	* LVAD/ECMO
+	* MV prolapse
+	* Congenital heart disease
+	* Toxins
+		* Valproic acid
+		* Ciprofloxacin
+	* Other
+		* Hypothyroidism
+
+
+## Clinical Features
 
 Bleeding:
 
@@ -70,54 +73,92 @@ Bleeding:
 * PPH\
 Usually secondary.
 
+## Assessment
+
+**History**:
+
+**Exam**:
+
+### Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+**Imaging**:
+
+**Other**:
+
+
 ## Diagnostic Approach and DDx
 
 ## Investigations
 
-> Majority of patients will have normal FBE and coagulation studies
+:::caution
+Majority of patients will have normal FBE and coagulation studies
+:::
 
-* FBE
-	* Thrombocytopaenia\
-	Mild may be seen in type 2B.
-* Coags
-	* Prolonged APTT\
-	Abnormality depends on degree of factor VIII deficiency.
-* Specialised testing\
-Specified tests exist to evaluate presence of vWF antigen, factor VIII activity, and classify subtypes.
+**Laboratory**:
+
+* Blood
+	* FBE
+		* Thrombocytopaenia\
+		Mild may be seen in type 2B.
+	* Coag
+		* **Prolonged APTT**\
+		Abnormality depends on degree of factor VIII deficiency.
+	* vWF level
+	* Factor VIII level
+	* Specialised testing\
+	Distinguish subtypes of type II:
+		* Ristocetin co-factor activity
+		* VWF collagen binding
 
 
 ## Management
 
-> * Approach depends on the type of vWF
-> * If type is unknown, then treatment should begin empirically with vWF concentrate
+:::priority
+* Clot stabilisation
+* Replenish vWF and factor VIII levels
+* Platelet transfusion
+:::
 
+:::column-margin
+Utility of DDAVP depends on type - if unknown then begin empirically with **vWF concentrate**.
+:::
 
-Principles of management include:
+**Specific therapy**:
 
-* Clot stabilisation\
-	* Antifibrinolytics (TXA)\
-	Effective independent of aetiology of defect.
-* Replenish vWF and FVIII levels
-	* ↑ Native secretion
-		* DDAVP\
-		Causes release of vWF from endothelial storage sites. Therefore:
-			* Usually **effective in type 1**
-			* Occasionally effective in type 2
-			* Never effective in type 3
-	* Exogenous factor replacement
-		* vWF/FVIII concentrates
-* Platelet transfusions
+* Pharmacological
+	* **Clot stabilisation**\
+		* Antifibrinolytics (**TXA**)\
+		Effective independent of aetiology of defect.
+	* **Replenish vWF and factor VIII**
+		* ↑ Native secretion
+			* DDAVP\
+			Causes release of vWF from endothelial storage sites. Therefore:
+				* Usually **effective in type 1**
+				* Occasionally effective in type 2
+				* Never effective in type 3
+		* Exogenous factor replacement
+			* vWF/FVIII concentrates
+	* **Platelet transfusions**
+	* Refractory bleeding
+		* Consider FVIIa
+		* Consider IVIG\
+		May be effective if due to anti-vWF autoantibodies, particularly if immune-acquired disease.
+* Procedural
+* Physical
 
 :::column-margin
 {{< include /includes/ddavp.qmd >}}
 :::
 
+**Supportive care**:
 
-Management of refractory bleeding:
+**Disposition**:
 
-* Consider FVIIa
-* Consider IVIG\
-May be effective if due to anti-vWF autoantibodies, particularly if immune-acquired disease.
+**Preventative**:
 
 
 ### Anaesthetic Considerations

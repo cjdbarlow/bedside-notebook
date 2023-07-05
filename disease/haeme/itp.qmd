@@ -4,7 +4,11 @@
 Also known as idiopathic thrombocytopaenic purpura.
 :::
 
-Pathological destruction of platelets by the monocyte-macrophage system, predominantly in the spleen, that occurs due to platelet autoantibody formation.
+Autoimmune destruction of platelets by the monocyte-macrophage system (predominantly in the spleen), divided into:
+
+* Primary ITP\
+No inciting cause.
+* Secondary ITP
 
 
 ## Epidemiology and Risk Factors
@@ -14,6 +18,8 @@ Pathological destruction of platelets by the monocyte-macrophage system, predomi
 ### Aetiology
 
 ## Clinical Features
+
+* Mucocutaneous bleeding
 
 ## Assessment
 
@@ -33,12 +39,17 @@ Pathological destruction of platelets by the monocyte-macrophage system, predomi
 
 ### Diagnostic Approach and DDx
 
+Diagnosis of exclusion, requires:
+
+* Isolated thrombocytopaenia
+* No other underlying cause
 
 ## Management
 
 :::priority
 * **Corticosteroids**
 * Consideration of **splenectomy**
+* Achieve a safe (rather than normal) platelet count
 :::
 
 **Resuscitation**:
@@ -85,3 +96,4 @@ Pathological destruction of platelets by the monocyte-macrophage system, predomi
 ## References
 
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. Kappler S, Ronan-Bentle S, Graham A. [Thrombotic Microangiopathies (TTP, HUS, HELLP)](https://www.sciencedirect.com/science/article/pii/S0733862714000327). Emergency Medicine Clinics of North America. 2014;32(3):649-671. doi:10.1016/j.emc.2014.04.008

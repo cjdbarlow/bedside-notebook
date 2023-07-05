@@ -1,6 +1,10 @@
-# Pulmonary Embolism
+# Pulmonary Embolism {#sec-pe}
 
-Blockage of a pulmonary artery or its branches due to embolised clot, leading to RV dysfunction and impaired gas exchange. Significance ranges from trivial to life-threatening depending on the size of the occlusion and the native cardiac and (to a lesser extent) respiratory function.
+Blockage of a pulmonary artery or its branches due to embolised clot, leading to RV dysfunction and impaired gas exchange. Significance ranges from trivial to life-threatening depending on the size of the occlusion and the cardiorespiratory reserve.
+
+:::column-margin
+VTE is an umbrella term encompassing both DVT and PE, and is used as there is substantial overlap in both pathologies. This distinction is not made here; this section covers PE whilst DVT is covered in detail under @sec-dvt.
+:::
 
 PE is classified by degree of haemodynamic impairment into:
 
@@ -170,162 +174,183 @@ Other differentials include:
 
 ## Investigations 
 
+:::column-margin
 Can be divided into:
 
 * Diagnostic tests
+	* Echocardiography
+	* CT
+	* V/Q scan
 * Non-diagnostic tests
-
-
-### Diagnostic Tests
-
-Radiology:
-
-* CTPA
-	* Quicker and more available than V/Q scanning, but requires contrast load
-	* ~85% sensitive\
-	Varies depending on machine and radiologist.
-		* ↑ to ~100% of PEs with haemodynamic instability
-		* Commonly identifies subsegmental PE in asymptomatic patients\
-		Clinical significance is unclear, but do not require anticoagulation.
-* VQ scan
-	* May not be appropriate if existing cardio-pulmonary disease
-	* Sensitivity ↑ with modern SPECT devices\
-	~1% now non-diagnostic.
-	* More sensitive than CTPA for peripheral emboli
-
-
-Echocardiography:
-
-:::column-margin
-The absence of RV dilation in a haemodynamically unstable patient means that PE is an unlikely diagnosis.
+	* 
 :::
 
-* Presence of thrombus\
-~26% of severe PE can be seen on TOE, as this provides better visualisation of the MPA and RPA.
-* Other disease
-* Quantify RV dysfunction\
-Findings include:
-	* RV/LV end-diastolic diameter ratio > 0.7
-	* RV/LV area ratio > 0.66
-	* RV end-diastolic diameter > 27mm
-	* "McConnel Sign"\
-	RV free wall hypokinesis with RV apex normo or hyperkinesis.
-	* Septal shift
-	* TR jet >270cm/sec
-	* Pulmonary artery acceleration time <60ms with maximum TR pressure <60mmHg (60/60 sign)
+**Bedside**:
 
-
-### Non-Diagnostic Tests
-
-Bloods:
-
-* D-Dimer
-	* ~97% sensitive\
-	May be useful in ruling out PE in patients with low to moderate clinical suspicion. Reduces the need for radiological tests.
-	* Non-specific\
-	Does not support diagnosis or indicate severity. Often raised in the critically ill. 
-* Troponin\
-	* Elevated in <50% of patients
-	* Associated with adverse outcomes\
-	Death, inotropes.
-* BNP/NT-pro-BNP	
 * ABG\
 Typically demonstrates:
 	* Hypoxaemia\
 	May be only abnormality in smaller PEs.
 	* Respiratory alkalosis
+* **Echocardiography**
+	* Presence of thrombus\
+	~26% of severe PE can be seen on TOE, as this provides better visualisation of the MPA and RPA.
+	* Other disease
+	* Quantify RV dysfunction\
+	Findings include:
+		* RV/LV end-diastolic diameter ratio > 0.7
+		* RV/LV area ratio > 0.66
+		* RV end-diastolic diameter > 27mm
+		* "McConnel Sign"\
+		RV free wall hypokinesis with RV apex normo or hyperkinesis.
+		* Septal shift
+		* TR jet >270cm/sec
+		* Pulmonary artery acceleration time <60ms with maximum TR pressure <60mmHg (60/60 sign)
+* ECG
+	* No abnormalities\
+	~30%.
+	* Isolated sinus tachycardia
+	* Atrial arrythmias\
+	Associated with higher mortality.
+	* Repolarisation abnormalities\
+	Present in ~50% of PE patients.
+	* RBBB and precordial TWI best correlate with severity
+	* RV strain/cor pulmonale\
+	Also non-specific, but suggest massive embolism rather than smaller emvoli.
+		* S1Q3T3
+		* P-pulmonale
+		* Incomplete RBBB
+		* RAD
+
+:::column-margin
+:::tick
+The absence of RV dilation in a haemodynamically unstable patient means that PE is an unlikely diagnosis.
+:::
+:::
 
 
-Radiology:
+**Laboratory**:
+
+* Bloods
+	* D-Dimer
+		* ~97% sensitive\
+		May be useful in ruling out PE in patients with low to moderate clinical suspicion. Reduces the need for radiological tests.
+		* Non-specific\
+		Does not support diagnosis or indicate severity. Often raised in the critically ill. 
+	* Troponin\
+		* Elevated in <50% of patients
+		* Associated with adverse outcomes\
+		Death, inotropes.
+	* BNP/NT-pro-BNP	
+
+
+
+**Imaging**:
 
 * CXR
 	* Useful in supporting or ruling-out other causes of hypoxaemia and hypotension
 	* Required prior to V/Q scan
 * Lower limb ultrasound\
 Identify presence of DVT.
-
-ECG:
-
-* No abnormalities\
-~30%.
-* Isolated sinus tachycardia
-* Atrial arrythmias\
-Associated with higher mortality.
-* Repolarisation abnormalities\
-Present in ~50% of PE patients.
-* RBBB and precordial TWI best correlate with severity
-* RV strain/cor pulmonale\
-Also non-specific, but suggest massive embolism rather than smaller emvoli.
-	* S1Q3T3
-	* P-pulmonale
-	* Incomplete RBBB
-	* RAD
+* **CTPA**
+	* Quicker and more available than V/Q scanning, but requires contrast load
+	* ~85% sensitive\
+	Varies depending on machine and radiologist.
+		* ↑ to ~100% of PEs with haemodynamic instability
+		* Commonly identifies subsegmental PE in asymptomatic patients\
+		Clinical significance is unclear, but do not require anticoagulation.
+* **V/Q scan**
+	* May not be appropriate if existing cardio-pulmonary disease
+	* Sensitivity ↑ with modern SPECT devices\
+	~1% now non-diagnostic.
+	* More sensitive than CTPA for peripheral emboli
 
 
-Respiratory Function Tests:
+**Other**:
 
-* Physiological dead space:
-	* Almost always ↑ in the case of PE\
-	Formal measurement is:
-		* 100% sensitive
-		* 89% specific
-	* Requires an intubated/ventilated patient
-	* Not easy to perform in practice
-	* Suggested by
-		* Acute reduction in ETCO~2~
-		* Delay in reaching alveolar plateau on ETCO~2~ waveform
+* Respiratory Function Tests
+	* Physiological dead space:
+		* Almost always ↑ in the case of PE\
+		Formal measurement is:
+			* 100% sensitive
+			* 89% specific
+		* Requires an intubated/ventilated patient
+		* Not easy to perform in practice
+		* Suggested by
+			* Acute reduction in ETCO~2~
+			* Delay in reaching alveolar plateau on ETCO~2~ waveform
+
 
 
 ## Management
 
-Management options include:
+:::priority
+* **Risk stratification**\
+To determine need for **clot destruction** via:
+	* IV thrombolysis
+	* Interventional radiology
+		* Clot retrieval
+		* Catheter-directed thrombolysis
+	* Open thrombectomy
+* **Haemodynamic support**
+* Therapeutic **anticoagulation**
+:::
 
-* Clot destruction
-	* In selected patients, where benefit outweighs risk
-	* Via embolectomy or thrombolysis
-* Therapeutic anticoagulation
-* Haemodynamic support
-	* RV support
-	* ECMO
-	
 
-### Clot Destruction
+**Resuscitation**:
 
-Methods include:
+* B
+	* Supplemental oxygen
+* C
+	* Haemodynamic support
+		* RV support
+		* ECMO
 
-* IV thrombolysis
-	* Most common tool
-	* Dramatic improvement in haemodynamic state in 90% of patients following administration
-		* ~50% reduction in mortality in massive PE
-	* Tempered by significant bleeding in 10% of patients with standard dosing
-		* Therapy should be ceased and factor replacement commenced if significant bleeding occurs
-* Catheter-directed thrombolysis	
-* Embolectomy
-	* Endovascular
+**Specific therapy**:
+
+:::column-margin
+Therapeutic anticoagulation is covered in detail under @sec-anticoagulation.
+:::
+
+* Pharmacological
+	* **IV thrombolysis**
+		* Most common tool
+		* Dramatic improvement in haemodynamic state in 90% of patients following administration
+			* ~50% reduction in mortality in massive PE
+		* Tempered by significant bleeding in 10% of patients with standard dosing
+			* Therapy should be ceased and factor replacement commenced if significant bleeding occurs
+	* Therapeutic anticoagulation\
+	Inhibits clot progression, allowing intrinsic fibrinolysis to ↓ clot burden. Anticoagulation:
+		* ↓ Mortality and recurrence\
+		May be reasonable to commence prior to formal diagnosis if bleeding risk is low.
+		* Initial anticoagulation should be performed with heparin:
+			* UFH\
+			Preferred in:
+				* Renal impairment
+				* Following thrombolysis/embolectomy due to reversibility
+			* LMWH
+				* More predictable dose-response than UFH
+				* Faster time to therapeutic anticoagulation
+		* Transition to oral anticoagulation when bleeding risk stabilised
+			* Warfarin
+			* DOAC	
+* Procedural
+	* **Interventional radiology**
+		* Endovascular embolectomy
+		* Catheter-directed thrombolysis	
 	* Open (surgical)\
 	Overtaken by endovascular techniques due to high (25-50%) perioperative mortality, but may be appropriate in massive PE and:
 		* Contraindications to thrombolysis
 		* Unavailability of interventional radiology
 		* Intracardiac thrombus
+* Physical
 
 
-### Anticoagulation
+**Supportive care**:
 
-Therapeutic anticoagulation inhibits clot progression, allowing intrinsic fibrinolysis to ↓ clot burden. Anticoagulation:
+**Disposition**:
 
-* ↓ Mortality and recurrence\
-May be reasonable to commence prior to formal diagnosis if bleeding risk is low.
-* Initial anticoagulation should be performed with heparin:
-	* UFH\
-	Preferred in:
-		* Renal impairment
-		* Following thrombolysis/embolectomy due to reversibility
-	* LMWH
-		* More predictable dose-response than UFH
-		* Faster time to therapeutic anticoagulation
-* Transition to oral anticoagulation when bleeding risk stabilised
-	* Warfarin
-	* DOAC	
+**Preventative**:
 
 
 ### Marginal and Ineffective Therapies
@@ -353,3 +378,4 @@ May be reasonable to commence prior to formal diagnosis if bleeding risk is low.
 
 1. Desciak MC, Martin DE. Perioperative pulmonary embolism: diagnosis and anesthetic management. J Clin Anesth. 2011;23:153-165.
 2. Tapson VF. Acute Pulmonary Embolism. N Engl J Med. 2008;358:1037-1052.
+1. Tran HA, Gibbs H, Merriman E, et al. [New guidelines from the Thrombosis and Haemostasis Society of Australia and New Zealand for the diagnosis and management of venous thromboembolism](https://onlinelibrary.wiley.com/doi/full/10.5694/mja2.50004). Medical Journal of Australia. 2019;210(5):227-235. doi:10.5694/mja2.50004

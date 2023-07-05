@@ -1,0 +1,221 @@
+# Anaemia Overview {#sec-anaemia}
+
+Pathological ↓ in the haemoglobin concentration of blood, resulting in a ↓ oxygen carrying capacity, and is:
+
+* Defined as a (sea-level) haemoglobin of:
+	* ⩽130g/dL in men
+	* ⩽120g/dL in non-pregnant women
+	* ⩽110g/dL in pregnant women
+* Classified by MCV into
+	* Microcytic\
+	MCV⩽ 80fL. Major causes are:
+		* Iron deficiency
+		* Congenital haemoglobinopathies
+	* Normocytic\
+	MCV 80-96fL. Major causes are:
+		* Anaemia of chronic disease
+		* Pregnancy
+		* Haemolysis
+		* Sickle-cell
+	* Macrocytic\
+	MCV ⩾96 fL. Major causes are:
+		* Folate/Vitamin B~12~ deficiency
+		* Alcohol
+		* Drug effect
+
+
+## Epidemiology and Risk Factors
+
+Anaemia in preoperative patients in Australia is:
+
+* Common
+	* 6% of females
+	* 2% of males
+	* Risk ↑ with age\
+	16% of patients over 75.
+* Usually due to iron deficiency
+
+
+## Pathophysiology
+
+Anaemia of inflammation occurs due to:
+
+* ↑ Erythrocyte phagocytosis\
+Activated macrophages remove more red cells from circulation.
+* ↓ Erythropoiesis\
+Cytokines inhibit erythropoiesis, and may ↓ EPO expression.
+* ↓ Iron availability\
+Inflammation stimulates **hepcidin** release, which promotes iron trapping in marrow and erythrocytes.
+
+### Aetiology
+
+: Common Causes of Anaemia
+
++-----------------------------------------------------------------+----------------------------------+------------------------------+
+| Microcytic                                                      | Normocytic                       | Macrocytic                   |
++=================================================================+==================================+==============================+
+| * **Iron deficiency anemia**                                    | * **Anaemia of inflammation**    | * **Vitamin B12 deficiency** |
+| * Thalassemia                                                   |     * Renal insufficiency        | * Folate deficiency          |
+|     * α-Thalassemia\                                            |     * Chronic disease            | * Liver disease              |
+|     Mild-severe anaemia, depending on number of affected genes. | * **Haemorrhage**                | * Drugs                      |
+|     * β-Thalassemia\                                            | * Haemolysis                     |     * **Alcohol**            |
+|                                                                 | * Iron and B12/folate deficiency |     * **Hydroxyurea**        |
+|                                                                 | * Bone marrow disorder           |     * Methotrexate           |
+|                                                                 |     * Multiple myeloma           |     * Trimethoprim           |
+|                                                                 |     * Bony metastases            |                              |
++-----------------------------------------------------------------+----------------------------------+------------------------------+
+
+
+## Clinical Features
+
+Haemolysis:
+
+* Infection
+	* Viral haemorrhagic fever
+	* Malaria
+* Extracorporeal circuit
+
+
+## Assessment
+
+**History**:
+
+* Fevers
+* Travel
+
+**Exam**:
+
+* Jaundice
+* Haemoglobinuria
+
+:::column-margin
+![Varying concentrations of haemoglobinuria](/resources/haemoglobinuria.png)
+:::
+
+### Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+:::column-margin
+Red cell abnormalities and iron studies are covered in more detail under @sec-rbc and @sec-iron.
+:::
+
+* Blood
+	* FBE
+		* Hb
+		* MCV
+		* MCHC
+		* RCC
+	* Blood film
+		* Haemolysis
+		* Sickle cells
+	* CRP\
+	Performed if ferritin is raised in a microcytic anaemia, to exclude reactive causes.
+	* Iron studies
+		* Ferritin\
+		Assesses degree of iron deficiency.
+			* Only reliable in absence of acute inflammation\
+			Ferritin is an acute phase reactant
+			* Normal range will depend on lab assay, but in general:
+				* Severe: ⩽30μg/mL
+				* Moderate: 30-50μg/mL
+				* Mild: 50-100μg/mL
+		* Transferrin saturation
+			* <20% suggestive of iron deficiency
+			* Useful in moderate ferritin deficiency
+	* Bilirubin
+	* Haemolysis screen
+	* Coagulation screen
+* Stool
+	* Faecal occult blood test
+
+:::column-margin
+{{< include /includes/coombs.qmd >}}
+:::
+
+:::column-margin
+{{< include /includes/haemolysis.qmd >}}
+:::
+
+**Imaging**:
+
+**Other**:
+
+* Endoscopy
+
+### Diagnostic Approach and DDx
+
+
+## Management
+
+**Resuscitation**:
+
+**Specific therapy**:
+
+* Pharmacological
+	* **Iron supplementation**\
+	If iron deficient.
+		* **Oral**
+			* Common
+			* Cheap
+			* Significantly limited by:
+				* Time\
+				May take ⩾3 months of therapy to be effective, and 6-9 months for equivalent effect of one IV replacement.
+				* Absorption\
+				Highly variable.
+				* Intake
+				* Non-compliance\
+				Significant GI side effects.
+			* 80mg elemental iron given every **second day**\
+			Daily administration down-regulates hepcidin, and reduces absorption.
+		* **IV**\
+		Generally used if ferritin deficiency is severe, or moderate with low transferrin saturation.
+			* Facilitate rapid repletion of stores
+			* Requires local pathway to facilitate
+			* Newer preparations have much lower incidence of anaphylaxis\
+			Include iron polymaltose and iron carboxymaltose.
+	* EPO\
+	For renal anaemia without nutritional deficiency; generally requires nephrologist consultation.
+	* Blood transfusion
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+Patients should be assessed **4-6 weeks pre-operatively**.
+
+:::column-margin
+The principles of patient blood management are covered under @sec-pbm.
+:::
+
+
+## Complications
+
+## Prognosis
+
+Anaemia is an independent risk factor for:
+
+* Mortality
+* Morbidity
+* Hospitalisation
+* ↓ Quality of Life
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Tefferi A. [Anemia in Adults: A Contemporary Approach to Diagnosis](https://www.mayoclinicproceedings.org/article/S0025-6196(11)62849-8). Mayo Clinic Proceedings. 2003;78(10):1274-1280. doi:10.4065/78.10.1274

@@ -1,7 +1,10 @@
-# Asplenia
+# Asplenia {#sec-asplenia}
 
-Asplenia is the physiological absence of splenic function which causes a degree of immunocompromise, most importantly a **vulnerability** to **encapsulated organisms**.
+Asplenia is the physiological absence of splenic function which causes:
 
+* **Immunocompromise**\
+Most importantly a **vulnerability** to **encapsulated organisms**.
+* **Thrombocytosis**
 
 ## Epidemiology and Risk Factors
 
@@ -74,6 +77,16 @@ Splenic remnants may survive in the peritoneum (splenosis), and maintain reasona
 
 **Laboratory**:
 
+* Blood film\
+Generally shows a selection of abnormal erythrocytes that would normally be removed by the spleen, including:
+	* Howel-Jolly bodies
+	* Target cells
+	* Pappenheimer bodies
+
+:::column-margin
+Red cell abnormalities are covered in detail under @sec-rbc.
+:::
+
 **Imaging**:
 
 **Other**:
@@ -84,22 +97,23 @@ Splenic remnants may survive in the peritoneum (splenosis), and maintain reasona
 ## Management
 
 :::priority
-Goals of management
+* Immunocompromise
+* Thrombosis 
 :::
 
-**Resuscitation**:
-
-**Specific therapy**:
-
-* Pharmacological
-* Procedural
-* Physical
-
-**Supportive care**:
-
-**Disposition**:
-
 **Preventative**:
+
+* Immunocompromise
+	* Vaccination
+		* Pneumococcal
+		* *H. influenzae* type B
+		* Meningococcal
+		* Influenza
+	* Prophylactic antibiotics
+* Thrombosis\
+↑ Risk following splenectomy, management options include:
+	* Aspirin
+	* Hydroxyurea
 
 
 ### Marginal and Ineffective Therapies

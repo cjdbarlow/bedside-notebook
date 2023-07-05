@@ -1,0 +1,14 @@
+**Coombs test** is:
+
+* Also known as **antiglobulin testing**
+* A **test** for **autoantibodies** against **circulating erythrocytes**
+* **Diagnostic** of **autoimmune haemolytic anaemia**\
+Also used in identifying transfusion-relevant antibody.
+* Performed either by:
+	* **Direct antiglobulin testing**\
+		* Detects antibodies bound to erythrocytes.
+		* Patient blood washed in saline to remove plasma and unbound antibodies
+		* Reagent added to detect bound IgG
+	* **Indirect antibody testing**\
+		* Patient plasma mixed with foreign erythocytes of known antigenicity
+		* Reagent added to detect patient antibody bound to foreign cells

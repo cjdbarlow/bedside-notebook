@@ -70,4 +70,6 @@ Table editor:
 
 * ?Change pharmacological to prescription, to encompass fluids and blood, etc
 
+* ?Split out anaemias
+
 * Fix acid-base assessment

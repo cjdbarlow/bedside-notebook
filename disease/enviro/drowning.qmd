@@ -97,10 +97,15 @@ History:
 
 **Laboratory**:
 
-* FBE
-	* Haemolysis
-* UEC
-* CK
+* Blood
+	* FBE
+	* Haemolysis screen
+	* UEC
+	* CK
+
+:::column-margin
+{{< include /includes/haemolysis.qmd >}}
+:::
 
 **Imaging**:
 

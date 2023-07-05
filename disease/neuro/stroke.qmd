@@ -184,14 +184,14 @@ Stroke symptoms include:
 +--------------+--------------------------------------------------------------------------------+-------------------------------------------+--------------------------------+
 | Vessel       | Both Hemispheres                                                               | Dominant Hemisphere                       | Non-Dominant Hemisphere        |
 +==============+================================================================================+===========================================+================================+
-| ACA          | * Contralateral **leg** weakness/numbness                                      | Transcortical Motor Aphasia:              | * Confusion                    |
+| ACA          | * **Contralateral leg** weakness/numbness                                      | Transcortical Motor Aphasia:              | * Confusion                    |
 |              | * Executive dysfunction                                                        |                                           | * Contralateral hemineglect    |
 |              | * "Alien hand" syndrome\                                                       | * Word finding difficulties               |                                |
 |              | Independent, involuntary, and sometimes complex upper limb movements.          | * Halting speech                          |                                |
 |              |                                                                                | * Preserved repetition                    |                                |
 |              |                                                                                | * Preserved comprehension                 |                                |
 +--------------+--------------------------------------------------------------------------------+-------------------------------------------+--------------------------------+
-| Proximal MCA | * Contralateral face and arm weakness\                                         | * Aphasia                                 | * Contralateral hemineglect    |
+| Proximal MCA | * **Contralateral face *and* arm weakness**\                                   | * Aphasia                                 | * Contralateral hemineglect    |
 |              | May have numbness.                                                             | * Bilateral apraxia\                      | * Loss of insight into deficit |
 |              | * Conjugate ipsilateral eye deviation                                          | Loss of skilled movements.                | * Drowsiness                   |
 +--------------+--------------------------------------------------------------------------------+-------------------------------------------+--------------------------------+
@@ -224,7 +224,7 @@ A degree of overlap may occur through the posterior communicating artery in the 
 
 Identification of brainstem stroke syndromes can be (somewhat) simplified with application of three broad principles:
 
-1. **Neural pathways run vertically** through the entire length of the brainstem, running **either medially or laterally**
+1. **Neural pathways run vertically**, either medially or laterally, through the entire length of the brainstem
 2. Cranial nerves arise from different structures within the brainstem
 3. The branches of the posterior circulation that supply the brainstem are divided into:
 	* Paramedian branches, which supply medial structures:
@@ -233,8 +233,6 @@ Identification of brainstem stroke syndromes can be (somewhat) simplified with a
 		* Anterior inferior cerebellar artery
 		* Posterior inferior cerebellar artery
 		* Superior cerebellar artery
-
-Therefore, brainstem vascular syndromes can be geographically localised to the medial or lateral aspect of a specific structure by identifying both the affected pathway and cranial nerves.
 
 The relevant principles are summarised as the **Brainstem Rule of Four**, which states that there are:
 
@@ -245,7 +243,11 @@ The relevant principles are summarised as the **Brainstem Rule of Four**, which 
 	CN V-VIII.
 	* In the medulla\
 	CN IX-XII.\
-\
+
+:::column-margin
+Brainstem vascular syndromes can be **geographically localised** to the medial or lateral aspect of a specific structure **by identifying both** the **affected pathway** and **cranial nerves**.
+:::
+
 2. **Four midline motor nuclei**, and they are all\* **factors of 12**\
 
 :::column-margin

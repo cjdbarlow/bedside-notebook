@@ -1,0 +1,200 @@
+# Antiphospholipid Syndrome
+
+Autoimmune disease characterised persistent antibodies to circulating anti-phospholipid, causing a **pro-coagulant state** that may present as:
+
+* **Thrombotic APS**\
+Venous, arterial, or microvascular thrombosis.
+	* VTE
+* **Catastrophic APS**\
+Multi-organ (⩾3) thrombosis within 7 days, often with:
+	* ARDS
+	* Diffuse alveolar haemorrhage
+	* Encephalopathy
+	* Adrenal haemorrhage
+	* AKI
+* **Obstetric APS**\
+	* Foetal loss after 10^th^ week of gestation
+	* Recurrent early miscarriages
+	* IUGR
+	* Pre-eclampsia with severe features
+* **Non-thrombotic APS**\
+	* Valvular heart disease
+	* Nephropathy
+	* Haemolytic anaemia with thrombocytopaenia
+	* Cognitive dysfunction
+
+:::column-margin
+CAPS can be clinically indistinguishable from other thrombotic microangiopathies (covered under @sec-ttp); persistent antiphospholipid antibodies are required to confirm the diagnosis.
+:::
+
+## Epidemiology and Risk Factors
+
+Associations:
+
+* Systemic autoimmune disease
+	* SLE
+
+
+## Pathophysiology
+
+* β~2~-glycoprotein I is a circulating plasma protein that binds to phospholipid surfaces
+* Antiphospholipid antibody binds to β~2~-glycoprotein on endothelial cells\
+These include:
+	* Anticardiolipin antibody
+	* Lupus anticoagulant
+	* Anti-β~2~-glycoprotein antibody
+* The antibody-glycoprotein complex induces a procoagulant state by:
+	* Up-regulating prothrombotic cellular adhesion molecules
+		* E-selectin
+		* Tissue factor
+	* Suppresses tissue factor pathway inhibitor
+
+
+### Aetiology
+
+## Clinical Features
+
+Thromboses:
+
+* Venous thrombosis
+	* DVT
+	* PE
+	* Cerebral venous sinus
+* Arterial thrombosis
+	* MI
+	* Thrombotic valvular disease
+	* Stroke
+	* Mesenteric ischaemia
+	* Skin necrosis
+* Miscarriage
+
+
+
+## Assessment
+
+**History**:
+
+* Autoimmune disease history
+
+**Exam**:
+
+* Livedo
+
+:::column-margin
+{{< include /includes/livedo.qmd >}}
+:::
+
+### Investigations
+
+**Bedside**:
+
+* TTE
+	* Valvular vegetations
+
+**Laboratory**:
+
+* Blood
+	* FBE
+		* Thrombocytopaenia\
+		\<20×10^9^/L is rare.
+		* Haemolytic anaemia\
+		May be immune-mediated or non-immune mediated.
+	* Blood film
+		* Schistocytes\
+		To distinguish haemolytic anaemia type.
+	* Coag
+		* Isolated ↑ APTT that does not correct on mixing studies
+	* UEC
+		* AKI
+	* Antiphospholipid antibody
+
+**Imaging**:
+
+**Other**:
+
+
+### Diagnostic Approach and DDx
+
+The **Sapporo criteria** requires both:
+
+:::column-margin
+These criteria are incomplete for the full spectrum of APS features, and will probably be revised.
+:::
+
+* Thrombotic complication\
+Including obstetric.
+* Persistent antiphospholipid antibodies
+
+
+## Management
+
+:::priority
+* Anticoagulation\
+Heparin with anti-Xa targeting.
+* Immunosuppression
+:::
+
+**Resuscitation**:
+
+**Specific therapy**:
+
+* Pharmacological
+	* For CAPS:
+		* **Anticoagulation**
+			* Heparin preferable\
+			Monitor with anti-Xa targeting 0.3-0.7.
+		* Immunotherapy
+			* Corticosteroids\
+			**Methylprednisolone** 1g daily for 3 days.
+			* IVIG
+				* Theoretical benefit
+				* 0.4g/kg for 5 days
+			* Consider cyclophosphamide or rituximab
+* Procedural
+	* For CAPS:
+		* Plasma exchange\
+		FFP preferred exchange solution.
+* Physical
+
+:::column-margin
+anti-Xa detects amount of residual unbound Xa, indicating the degree to which the heparin-antithrombin complex has bound Xa.
+::: 
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+* Secondary prevention
+	* Aspirin and prophylactic enoxaparin
+		* Preferred in pregnancy
+	* Therapeutic anticoagulation
+		* For VTE or arterial thrombosis
+		* Warfarin recommended
+			* Target INR 2-3
+			* INR target may ↑ to 3-4 if recurrent thromboses
+		* Evidence supporting DOAC is unclear
+	* Aspirin may be added if:
+		* Concurrent coronary artery disease
+		* Thrombosis occurs on warfarin 
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+CAPS:
+
+* 35-50% mortality
+
+## Key Studies
+
+
+---
+
+## References

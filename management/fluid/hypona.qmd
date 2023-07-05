@@ -299,19 +299,26 @@ Wasting both sodium and water indicates a failure of both sodium and water reabs
 
 ### Calculation of Sodium Deficit
 
-Allows the total body sodium deficit to be crudely calculated, and therefore replaced.
+In order to guide replacement infusiono rate, a crude calculation of the total body sodium deficit can be performed:
 
-$$Sodium \ Deficit = TBW \times Weight \times (Desired \ [Na^+] - Current \ [Na^+])$$, where:
+$$Sodium \ Deficit = TBW \times Weight \times (Desired \ [Na^+] - Current \ [Na^+])$$
 
+:::column-margin
+Despite the fact that sodium is Na^+^ to the ECF and therefore TBW should not logically be the relevant denominator, the equation has been empirically validated and so has stuck around.
+:::
+
+Where:
+
+* $Deficit$ is in mmol of sodium\
+The volume of saline given to replace the deficit depends on the concentration of the replacement fluid.
 * $TBW$ is the fraction of weight that is water:
 	* $~0.6$ for men
 	* $~0.5$ for women
 * $Weight$ is body weight
 
 :::column-margin
-Despite the fact that sodium is Na^+^ to the ECF and therefore TBW should not logically be the relevant denominator, the equation has been empirically validated and so has stuck around.
+{{< include /includes/saline.qmd >}}
 :::
-
 
 ## Management
 
@@ -342,7 +349,7 @@ Despite the fact that sodium is Na^+^ to the ECF and therefore TBW should not lo
 			* Target ↑ in serum sodium up to 2mmol/L/hr until symptoms improve
 		* For **chronic** hyponatraemia:
 			* Infusion rate should be calculated based on calculated sodium deficit and desired rate of correction\
-			$Infusion \ Rate = Body \ Weight \ (kg) \times Desired \ Rate \ of \ Sodium \ ↑ (mmol/L/hr)$.
+			$Infusion \ Rate = Body \ Weight \ (kg) \times Desired \ Rate \ of \ Sodium \ ↑ (mmol/L/hr)$
 			* Target an ↑ in serum sodium of **4-8mmol/day**
 		* Sodium levels should be checked every 2-4 hours during replacement
 		* As sodium levels improve, a more dilute urine should be produced
@@ -358,7 +365,6 @@ Despite the fact that sodium is Na^+^ to the ECF and therefore TBW should not lo
 		* Unlikely to work if:
 			* Urine osmolality is high
 			* Urine output is low
-	
 
 
 ### Marginal and Ineffective Therapies

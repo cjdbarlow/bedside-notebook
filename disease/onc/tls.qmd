@@ -48,11 +48,39 @@ TLS occurs most commonly:
 TLS may occasionally occur in absence of chemotherapy.
 :::
 
-## Clinical Manifestations
+## Clinical Features
 
-## Diagnostic Approach and DDx
+## Assessment
 
-## Investigations
+**History**:
+
+**Exam**:
+
+
+### Investigations
+
+**Bedside**:
+
+* ECG\
+Hyperkalaemic changes.
+
+**Laboratory**:
+
+* Blood
+	* UEC
+		* AKI
+		* Potassium
+		* Calcium
+		* Magnesium
+	* LDH
+	* Urate
+
+**Imaging**:
+
+**Other**:
+
+
+### Diagnostic Approach and DDx
 
 ## Management
 
@@ -71,17 +99,9 @@ TLS may occasionally occur in absence of chemotherapy.
 **Specific therapy**:
 
 * Pharmacological
-	* Preventative
-		* Intravenous hydration
-		* Uric acid suppression
-			* Rasburicase\
-			Recombinant enzyme that catalyses metabolism of uric acid to allantoin, preventing uric acid buildup.
-				* May cause methaemoglobinaemia
-				* Can develop an antibody response to rasburicase
-			* Allopurinol\
-			↓ Uric acid formation by inhibiting xanthine oxidase.
-				* Leads to formation of xanthine
-				* Less preferred to rasburicase as xanthine is accumulated, which can itself cause renal failure
+	* Cease nephrotoxins
+	* Urinary alkalinisation\
+	Target serum HCO~3~^-^ >28mmol/L; aiming to prevent urate crystallisation.
 * Procedural
 	* RRT\
 	May be required for hyperkalaemia or hyperphosphataemia.
@@ -89,6 +109,20 @@ TLS may occasionally occur in absence of chemotherapy.
 **Supportive care**:
 
 **Disposition**:
+
+**Preventative**:
+
+* Intravenous hydration
+* Uric acid suppression
+	* Rasburicase\
+	Recombinant enzyme that catalyses metabolism of uric acid to allantoin, preventing uric acid buildup.
+		* May cause methaemoglobinaemia
+		* 15% develop an antibody response to rasburicase
+	* Allopurinol\
+	↓ Uric acid formation by inhibiting xanthine oxidase.
+		* Leads to formation of xanthine
+		* Less preferred to rasburicase as xanthine is accumulated, which can itself cause renal failure
+		* Ineffective once uric acid is already ↑
 
 ### Marginal and Ineffective Therapies
 
