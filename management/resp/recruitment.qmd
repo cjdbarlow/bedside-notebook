@@ -1,18 +1,19 @@
 # Recruitment {#sec-recruit}
 
-A recruitment manoeuvre is a **sustained, transient ↑** in **alveolar pressure** aimed to open collapsed alveoli and small airways so they remain open following the manoeuvre and are now able to participate in gas exchange.
+A recruitment manoeuvre is a **sustained, transient ↑** in **airway pressure** above normal tidal ventilation pressure, and sustained beyond a normal inspiratory time, which aims to open collapsed alveoli and small airways so they are able to participate in gas exchange.
 
 
 ## Indications
 
-Hypoxia with evidence of recruitable lung:
+Hypoxaemia with evidence of recruitable lung:
 
 * Clinical suggestion of collapse
 	* Post-intubation
 	* Post-bronchoscopy
 * Radiographically recruitable lung\
 Evidence of volume loss implying collapse rather than consolidation.
-* PEEP-responsive ARDS
+* PEEP-responsive ARDS\
+How to identify this subgroup remains unclear.
 
 
 ## Contraindications
@@ -26,26 +27,41 @@ Evidence of volume loss implying collapse rather than consolidation.
 
 ## Principles
 
-* Lung parenchyma collapses in a heterogenous fashion
-* Alveoli:
-	* Collapse when pressure falls below critical closing pressure
-	* Open pressure exceeds the critical opening pressure
+Lung parenchyma collapses in a heterogenous fashion. Alveoli:
+
+* Open when pressure exceeds the critical opening pressure
+* Collapse when pressure falls below critical closing pressure
 	* Critical closing pressure is *less* than the critical opening pressure\
 	Application of PEEP above the critical closing pressure keeps alveoli open.
-* Improves:
+* Will tend to distribute pressure *first* to well-aerated lung\
+This may lead to over-distention of healthy lung, prior to recruitment of lung units with poor compliance
+
+Recruitment manoeuvres:
+
+* Are cheap
+* Have been shown to improve:
 	* Oxygenation
 	* Gas exchange
 	* Inflammatory markers
+* Are described with a wide variety of techniques:
+	* 30cmH~2~O for 30-60s\
+	Safe, moderately effective.
+	* 40cmH~2~O for 40s
+	* Pip at 50cmH~2~O, aiming PEEP above the upper inflection point on the pressure-volume loop
+	* Titration of Pip up to 40cmH~2~O
+	* Staircase recruitment
 
+:::column-margin
+No recruitment strategy has been shown to be superior.
+:::
 
-A wide variety of techniques have been described:
+:::column-margin
+![P-V Loop](/resources/recruitment.jpg)
+:::
 
-* 30cmH~2~O for 30-60s\
-Safe, moderately effective.
-* 40cmH~2~O for 40s
-* Pip at 50cmH~2~O, aiming PEEP above the uper inflection point
-* Titration of Pip up to 40cmH~2~O
-* Staircase recruitment
+:::column-margin
+![Staircase Recruitment](/resources/staircase.png)
+:::
 
 
 ## Practice
@@ -67,6 +83,8 @@ Risks relate to significant ↑ airway pressure:
 * Barotrauma
 	* Pneumothorax
 	* Pneumomediastinum
+	* Cyclic atelectasis\
+	Re-collapse after cessation of recruitment.
 * Cardiovascular instability	
 	* ↑↑ RV afterload
 	* ↓ VR
@@ -82,3 +100,5 @@ Risks relate to significant ↑ airway pressure:
 ## References
 
 1. Writing Group for the Alveolar Recruitment for Acute Respiratory Distress Syndrome Trial (ART) Investigators. [Effect of Lung Recruitment and Titrated Positive End-Expiratory Pressure (PEEP) vs Low PEEP on Mortality in Patients With Acute Respiratory Distress Syndrome: A Randomized Clinical Trial](https://jamanetwork.com/journals/jama/fullarticle/2654894). JAMA. 2017;318(14):1335-1345. doi:10.1001/jama.2017.14171
+1. Cavalcanti AB, Amato MBP, de Carvalho CRR. [Should the ART trial change our practice?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5906348/) J Thorac Dis. 2018;10(3):E224-E226. doi:10.21037/jtd.2018.02.25
+1. Hess DR. [Recruitment Maneuvers and PEEP Titration](https://rc.rcjournal.com/content/60/11/1688). Respiratory Care. 2015;60(11):1688-1704. doi:10.4187/respcare.04409

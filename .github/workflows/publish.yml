@@ -17,7 +17,7 @@ jobs:
         uses: quarto-dev/quarto-actions/setup@v2
 
       - name: Add Memory
-        run: echo "export QUARTO_DENO_EXTRA_OPTIONS=--v8-flags=--max-old-space-size=16384"
+        run: echo "export QUARTO_DENO_EXTRA_OPTIONS=--v8-flags=--max-old-space-size=65536"
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2

@@ -196,7 +196,7 @@ This applies to the management of fever in the general ICu patient, **more aggre
 :::
 
 :::column-margin
-Post resuscitation care is covered under @sec-post_resus. Key hyperthermic emergencies are covered under @sec-heat_inj, @sec-serotonin, @sec-nms, and @sec-mh.
+Post resuscitation care is covered under @sec-post_arrest. Key hyperthermic emergencies are covered under @sec-heat_inj, @sec-serotonin, @sec-nms, and @sec-mh.
 :::
 
 **Specific therapy**:

@@ -1,5 +1,8 @@
-# Post-Resuscitation Care {#sec-post_resus}
+# Post-Resuscitation Care {#sec-post_arrest}
 
+:::column-margin
+This covers care interventions and supportive care that begin after achieving ROSC. Cardiac arrest, including management, are covered under @sec-arrest.
+::: 
 
 ## Management
 
@@ -76,17 +79,37 @@ A variety of cooling methods have been tried, although with change in aims from 
 
 ## Key Studies
 
+:::info
+Many key trials include only OOHCA or IHCA even though the therapy could conceivably benefit patients in either group.\
+\
+It is unclear how generalisable results in one group are to the other, given the disparities in aetiology and outcome.
+:::
+
+:::column-margin
+This includes key trials evaluating interventions that occur after achieving ROSC, such as angiography and hypothermia. Trials evaluating the *conduct* of ALS are covered under @sec-arrest.
+:::
+
+
+**Angiography following OOHCA**:
+
+* PCI has clear mortality benefits in STEMI, but not in NSTEMI
+* CAD is highly prevalent in patients with OOHCA\
+Culprit (>50% stenosis) coronary lesions are found in ~1/3^rd^ of OOHCA without STE.
+{{< include /trials/coact.qmd >}}
+{{< include /trials/tomahawk.qmd >}}
+
+
 **Hypothermia**:
 
-{{< include /trials/hyperion.qmd >}}
 {{< include /trials/ttm.qmd >}}
+{{< include /trials/hyperion.qmd >}}
 {{< include /trials/ttm2.qmd >}}
 
 
 **Other**:
 
 {{< include /trials/box.qmd >}}
-{{< include /trials/vam_ihca.qmd >}}
+{{< include /trials/tame.qmd >}}
 
 
 ---

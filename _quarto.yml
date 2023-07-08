@@ -95,8 +95,8 @@ book:
         - part: "**Resuscitation**"
           chapters:
           - management/resus/als.qmd
-          - management/resus/oohca.qmd
           - management/resus/post_resus.qmd
+          - part: <hr>
           - management/resus/cals.qmd
           - management/resus/traumatic.qmd
           # ECPR
@@ -772,7 +772,7 @@ book:
             # Obstruction
             # Infection
             # Stones
-        # Gastrointestinal
+      # Gastrointestinal
       - part: "Gastrointestinal"
         chapters:
         - part: "Hepatic"
@@ -804,7 +804,7 @@ book:
         #   chapters:
               # IBD
               # Malabsorption
-        # Haematology
+      # Haematology
       - part: "Haematology"
         chapters:
         - part: "Anaemias"
@@ -823,12 +823,14 @@ book:
           - disease/haeme/itp.qmd
           - disease/haeme/microangiopathies.qmd
           - disease/haeme/aps.qmd
+      # Integumentary
       - part: "Integumentary"
         chapters:
         - part: "Soft Tissue"
           chapters:
           - disease/infective/nsti.qmd
       - part: <hr>
+      # Trauma
       - part: "Trauma"
         chapters:
         - disease/trauma/trauma_overview.qmd
@@ -867,7 +869,7 @@ book:
           - disease/trauma/pelvic.qmd
         # - part: "Extremities"
         #   chapters:
-        # Infective
+      # Infective
       - part: "Infective"
         chapters:
         - part: "Systemic"

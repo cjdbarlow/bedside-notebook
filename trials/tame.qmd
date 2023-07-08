@@ -1,0 +1,14 @@
+* [TAME](https://www.nejm.org/doi/full/10.1056/NEJMoa2214552) (2023)
+	* Theorised that mild hypercapnoea may lead to cerebral vasodilatation, ↑ CBF, and ↑ neurological outcome
+	* 1700 non-pregnant, non-head injured adults with witnessed OOHVFA of presumed cardiac or idiopathic cause with >20 minutes of ROSC
+	* Multicentre (63), international, assessor-blinded, allocation concealed, RCT
+	* Mild hypercapnoea (50-55mmHg) vs. normocapnoea for 24 hours
+		* Severe metabolic acidosis corrected prior
+		* Normocapnoea restored over 24-48 hours in hypercapnoic group
+		* RASS -4 in both groups
+	* No change in favourable outcome (43.5% vs. 44.6%)
+	* Good separation of groups
+
+:::column-margin
+{{< include /includes/gos-e.qmd >}}
+:::

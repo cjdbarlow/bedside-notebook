@@ -54,10 +54,13 @@ Predicting massive transfusion:
 	* Mangled extremities
 	* Clinical coagulopathy
 	* Severe hypothermia
+* COAST score
 
 :::column-margin
 Note that the **haemoglobin** is **not an indicator** for **MTP activation**, as it is a measure of *concentration* and does not reliably change during acute haemorrhage.
 :::
+
+{{< include /includes/coast.qmd >}}
 
 ## Pathophysiology
 
@@ -281,7 +284,10 @@ The acid and citrate load are ↓ with citrate-phosphate-dextrose blood products
 
 **Antifibrinolytics**:
 
+* TXA inhibits plasminogen activation (and at higher doses, directly inhibits plasmin), ↓ fibrinolysis
+* Exsanguination is a major cause of traumatic death, and is exacerbated by hyperfibrinolysis of traumatic coagulopathy
 {{< include /trials/crash2.qmd >}}
+{{< include /trials/patch_txa.qmd >}}
 
 
 **Transfusion ratios**:

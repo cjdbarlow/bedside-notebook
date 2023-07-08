@@ -1,48 +1,67 @@
 # Oxygen Targets
 
-Supplemental oxygen administration is an universal supportive ICU treatment, which:
+Supplemental oxygen administration is a ubiquitous therapy and cornerstone of medical therapy. Oxygen:
 
-* **↑ PAO~2~**, and **SpO~2~** in the setting of:
+* Is generally cheap, widely available, and safe
+* **↑ PAO~2~**and **SpO~2~** in the setting of:
 	* Alveolar hypoventilation
 	* Diffusion limitation
 	* V/Q scatter
 * Causes **absorption atelectasis** and ↑ shunt
 * ↑ Oxygen free radicals, which may precipitate ap
+
+
 ## Principles
 
-Aim to minimise the harm by balancing concerns of hypoxia and hyperoxia:
+Aim to minimise the harm by balancing harms of hypoxia and hyperoxia:
 
-* Overly-conservative target
-	* Organ dysfunction
-	* ↑ ICP
-	* ↑ PAP
-* Overly-liberal target
-	* Reperfusion injury
+* Overly-conservative target and subsequent hypoxia\
+	* Harm of hypoxaemia is well-established:
+		* Organ dysfunction
+		* ↑ ICP
+		* ↑ PVR and PAP
+	* Safety of *mild* hypoxaemia (e.g. SpO~2~ 88-92%) is also well demonstrated:
+		* Healthy subjects during sleep
+		* Comorbid persons over long-distance flights
+* Overly-liberal target and subsequent hyperoxia\
+Definition of harm is less-well characterised:
+	* ↑ Reactive oxygen species
 		* ↑ Infarct size in:
 			* AMI
 			* Stroke
+		* Pneumonitis
+		* Proliferative retinopathy
+	* Hyperoxia-induced vasoconstriction
 	* ↓ Seizure threshold
-	* ARDS
 
 
 ## Practice
 
-* General ICU
-	* Titrate to SpO~2~ 93-97%\
-	↑ SpO~2~ not helpful, and hides signs of deterioration.
-* Specific populations\
-	* Minimise supplemental oxygen\
+* **Use SpO~2~** as the preferred monitor
+* **Set upper and lower bounds** for all critically ill patients
+	* **General ICU patients**\
+		* Titrate to **SpO~2~ 94-98%**
+			* Optimal target is unknown
+			* An SpO~2~ of 100% hides signs of deterioration, as the PaO~2~ can ↓ with no observable change
+	* **Minimise supplemental oxygen**\
 	More conservative approach favoured in groups where ↑ significantly harm with liberal oxygen:
-		* STEMI
+		* Ischaemia\
+		Only used to correct ischaemia; supranormal oxygen may ↑ infarct size.
+			* STEMI
+			* CVA
 		* Paraquat poisoning
 		* Bleomycin exposure
-	* Targeted or tolerated hyperoxia\
-	Groups where hyperoxia is therapeutic, or any hypoxia may be detrimentaL
+	* **Targeted or tolerated hyperoxia**\
+	Groups where hyperoxia is therapeutic, or any hypoxia may be detrimental:
+		* Cardiac arrest resuscitation\
+		With adjustment to normoxia once ROSC is achieved and oxygenation can be reliably monitored.
 		* CO poisoning
+		* Decompression injury\
+		Prior to HBOT.
 		* Simple pneumothorax
 		* Severe pulmonary hypertension
-* FiO~2~ challenge\
-A failure to significantly increment SpO~2~ in response to ↑ FiO~2~ is diagnostic of a shunting pathology.
+* **FiO~2~ challenge**\
+A failure to significantly increment SpO~2~ in response to ↑ FiO~2~ is diagnostic of a shunting or diffusion-limited pathology.
 
 :::column-margin
 Excessive supplemental oxygen may mask deterioration in pulmonary function, as a fall in SpO~2~ will only manifest once the P/F ratio has fallen to a dangerous degree.
@@ -51,8 +70,17 @@ Excessive supplemental oxygen may mask deterioration in pulmonary function, as a
 
 ## Key Studies
 
-{{< include /trials/pilot.qmd >}}
+**General ICU patients**:
+
+* Hypoxia is known to be harmful
+* Some observational data suggests harm from *hyper*oxaemia
+	* Confounded by acuity of patients receiving high oxygen targets
+	* Higher target provides a margin of protection against hypoxaemia
+* Given the ubiquity of oxygen therapy, there is potential for a small mortality benefit to have large impact
+{{< include /trials/close.qmd >}}
+{{< include /trials/oxygen_icu.qmd >}}
 {{< include /trials/icu_rox.qmd >}}
+{{< include /trials/pilot.qmd >}}
 
 
 ---
@@ -61,3 +89,4 @@ Excessive supplemental oxygen may mask deterioration in pulmonary function, as a
 
 1. Semler MW, Casey JD, Lloyd BD, et al. [Oxygen-Saturation Targets for Critically Ill Adults Receiving Mechanical Ventilation](https://www.nejm.org/doi/full/10.1056/NEJMoa2208415). New England Journal of Medicine. 2022;387(19):1759-1769. doi:10.1056/NEJMoa2208415
 1. [Conservative Oxygen Therapy during Mechanical Ventilation in the ICU](https://www.nejm.org/doi/10.1056/NEJMoa1903297). N Engl J Med. 2020;382(11):989-998. doi:10.1056/NEJMoa1903297
+1. Angus DC. [Oxygen Therapy for the Critically Ill](https://www.nejm.org/doi/full/10.1056/NEJMe2000800). New England Journal of Medicine. 2020;382(11):1054-1056. doi:10.1056/NEJMe2000800

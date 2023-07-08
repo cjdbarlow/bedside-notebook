@@ -1,0 +1,8 @@
+* [CLOSE](https://www.atsjournals.org/doi/full/10.1164/rccm.201505-1019OC) (2016)
+	* 104 mechanically ventilated adults, with clinical equipoise to oxygenation target
+	* Multicentre (4), parallel group, RCT
+	* SpO~2~ 88-92% vs. ≥96% SpO~2~
+		* FiO~2~ titrated by bedside nurse, PEEP by patient
+	* Primary outcome of mean AUC for oxygenation metrics
+	* 14% time-off-target in conservative arm vs. 3% in liberal arm
+	* Established general feasibility of oxygenation target trials

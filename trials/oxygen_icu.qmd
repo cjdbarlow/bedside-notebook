@@ -1,0 +1,15 @@
+* [OXYGEN-ICU](https://jamanetwork.com/journals/jama/fullarticle/2565306) (2016)
+	* 434 adult Italians admitted to a single ICU
+		* ~66% mechanically ventilated
+	* Single-centre, allocation concealed, non-blinded RCT
+	* 660 patients provides 80% power for 6% ARR in mortality (!!), with control mortality of 23%
+	* Stopped early for slow recruitment
+	* Conservative vs. standard oxygen therapy
+		* Conservative:
+			* Target SpO~2~ 94-98%
+			* PaO~2~ 70-100mmHg with lowest possible FiO~2~
+		* Standard:
+			* Target SpO~2~ 97-100% 
+			* FiO~2~ >0.4 and PaO~2~ <150mmHg
+	* Significant ↓ mortality (24.2% vs. 33.9%) and ventilation time (72 vs. 48 hours) in conservative group
+	* Woefully underpowered for an overly ambitious mortality benefit

@@ -1,8 +1,8 @@
 # How to build
 ## CLI
-export QUARTO_DENO_EXTRA_OPTIONS=--v8-flags=--max-old-space-size=32768
+export QUARTO_DENO_EXTRA_OPTIONS=--v8-flags=--max-old-space-size=65536
 
-QUARTO_DENO_EXTRA_OPTIONS="--v8-flags=--max-old-space-size=32768"
+$env:QUARTO_DENO_EXTRA_OPTIONS="--v8-flags=--max-old-space-size=65536"
 
 quarto preview
 

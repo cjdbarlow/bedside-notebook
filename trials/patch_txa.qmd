@@ -1,0 +1,26 @@
+* [PATCH](https://www.nejm.org/doi/full/10.1056/NEJMoa2215457) (2023)
+	* Non-pregnant, non-nursing-home-resident Australasian or German adults, with major trauma and COAST score >3
+	* 90% power to detect 9% absolute ↑ in favourable GOS-E
+	* Blinded, allocation concealed, RCT; stratified by jurisdiction and GCS <9
+	* TXA vs. placebo
+		* TXA group
+			* 1g over 10 minutes at scene or en route to hospital
+			* 1g over 8 hours
+	* No difference in survival with favourable functional outcome (53.7% vs. 53.5%)
+		* Significantly ↓ mortality in TXA group (9.7% vs. 14.1%)
+	* No difference in DVT incidence
+	* Significant loss to followup (14%) and protcol deviations
+		* 33% of TXA group; 16% received open-label TXA and 21% did not receive 2^nd^ dose
+		* 37% of placebo group, 17% of whom received open-label TXA and 25% did not receive 2^nd^ dose
+
+:::column-margin
+{{< include /includes/coast.qmd >}}
+:::
+
+:::column-margin
+{{< include /includes/gos-e.qmd >}}
+:::
+
+:::column-margin
+![PATCH GOS-E](/resources/patch_txa.png)
+:::

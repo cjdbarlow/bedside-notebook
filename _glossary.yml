@@ -135,6 +135,7 @@ ICH: Intracerebral Haemorrhage
 ICP: Intracranial Pressure
 ICU: Intensive Care Unit
 IE: Infective Endocarditis
+IHCA: In-Hospital Cardiac Arrest
 IHD: Intermittent Haemodialysis
 IJV: Internal Jugular Vein
 iNO: Inhaled Nitric Oxide
@@ -210,6 +211,8 @@ NSTEMI: Non-ST Segment Elevation Myocardial Infarction
 NSTI: Necrotising Soft Tissue Infection
 NTS: Nucleus of the Tractus Solitarius
 OG: Osmolar Gap
+OOHCA: Out-of-Hospital Cardiac Arrest
+OOHVFA: Out-of-Hospital VF Arrest
 OR: Operating Room or Odds Ratio
 PAC: Pulmonary Artery Catheter
 PADLs: Personal Activities of Daily Living, e.g. dressing, feeding, toileting, and personal hygeine.

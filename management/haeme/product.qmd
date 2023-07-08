@@ -173,7 +173,9 @@ Treatment of heparin resistance:
 		* Fibrinogen >0.5g/dL
 		* Platelets >50×10^9^/L
 		* pH >7.1
-	* Dose 90-120μg/kg
+	* Dose variable
+		* 20μg/kg increments in semi-controlled situations
+		* 90-120μg/kg for exsanguinating trauma 
 * Factor VIII
 	* Heat treated to inactivate HIV
 	* For treatment of haemophilia A
