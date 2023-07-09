@@ -46,8 +46,8 @@ This covers care interventions and supportive care that begin after achieving RO
 * E
 	* **Targeted Temperature Management**\
 	Keep temperature 35.5-36.5°C for at least 24 hours, and maintain normothermia (<37.5°C) for at least 72 hours.
+		* Active external cooling using a feedback-controlled system, guided by bladder or oesophageal temperature
 		* Should be achieved within 8 hours of ROSC
-		* Active external cooling using a feedback-controlled system
 		* Control of shivering:
 			* Tier 1
 				* Paracetamol 1g Q6H
@@ -64,7 +64,7 @@ This covers care interventions and supportive care that begin after achieving RO
 				May be needed to control shivering. Consideration for EEG monitoring if paralysing seizing patients.
 
 :::column-margin
-A variety of cooling methods have been tried, although with change in aims from hypothermia to normothermia many of the more aggressive methods are no longer relevant. Historically, 4°C IV saline effectively ↓ temperature at risk of arrhythmia and volume load.
+A variety of cooling methods have been tried, although with change in aims from hypothermia to normothermia many of the more aggressive methods are no longer relevant. These are covered in detail under @sec-fever.
 :::
 
 **Disposition**:
@@ -80,7 +80,7 @@ A variety of cooling methods have been tried, although with change in aims from 
 ## Key Studies
 
 :::info
-Many key trials include only OOHCA or IHCA even though the therapy could conceivably benefit patients in either group.\
+Many key trials target only OOHCA or IHCA patients, even though therapy could conceivably benefit either group.\
 \
 It is unclear how generalisable results in one group are to the other, given the disparities in aetiology and outcome.
 :::
@@ -101,6 +101,20 @@ Culprit (>50% stenosis) coronary lesions are found in ~1/3^rd^ of OOHCA without 
 
 **Hypothermia**:
 
+* Patients with cardiac arrest *due* to hypothermia have good outcomes despite prolonged resuscitation
+* Hypothermia has several potentially beneficial effects:
+	* Anticonvulsant
+	* Anti-inflammatory
+		* ↓ Cerebral oedema and ICP
+	* ↓ CMRO~2~ and ↓ HIE
+* Hypothermia also has several potential harms
+	* ↓ HR and ↓ CO
+	* Arrhythmias
+		* ↑ QTc
+	* ↓ Immune function
+	* ↓ Rate of drug metabolism
+	* Hyperglycaemia
+{{< include /trials/haca.qmd >}}	
 {{< include /trials/ttm.qmd >}}
 {{< include /trials/hyperion.qmd >}}
 {{< include /trials/ttm2.qmd >}}

@@ -27,14 +27,16 @@ format:
         # Style
         toc: true
         toc-title: "On this Page"
-        sidebar:
+        bread-crumbs: false
         style: floating
+        ## Tables and figures
         tbl-cap-location: top
         fig-cap-location: top
         fig-align: center
         fig-format: svg
         fig-dpi: 326
         fig-responsive: true
+        ## Filters
         filters: [scripts/glossary.lua]
     # pdf:
     #     # General Settings

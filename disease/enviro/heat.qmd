@@ -65,7 +65,7 @@ Usually combination of:
 		* Shaded area
 		* ↓ Activity
 		* Active external cooling
-			8 Fans
+			* Fans
 
 
 **Specific therapy**:

@@ -21,7 +21,9 @@
 	* Greater overlap of temperatures compared to TTM
 
 :::column-margin
-![](/resources/hyperion_temp.jpeg)
+![HYPERION Temperature](/resources/hyperion_temp.jpeg)
+:::
 
-![](/resources/hyperion_cpc.png)
+:::column-margin
+![HYPERION Neurological Outcomes](/resources/hyperion_cpc.png)
 :::

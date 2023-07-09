@@ -11,8 +11,19 @@
     color: #66bbff;
 }
 
+.sidebar-item {
+    margin-bottom: 0.2em;
+    line-height: var(--bs-body-line-height);;
+    margin-top: 0em;
+}
+
 h2#toc-title{
     font-weight: bold;
+}
+
+/* Remove chapter number from breadcrumbs*/
+.breadcrumb-item > a > .chapter-number {
+    display: none;
 }
 
 /* Remove margin in indented lists in book body and margin notes to stop them breaking up unaesthetically */

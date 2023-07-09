@@ -19,6 +19,46 @@ Hypothermia is a core body temperature <35°C which is:
 
 ## Pathophysiology
 
+Hypothermia has pathophysiological effects on all organ systems:
+
+* B
+	* ↓ RR
+	* ↓ VO~2~
+	* ↓ PaCO~2~\
+	↑ CO~2~ solubility.
+* C
+	* ↓ HR and CO
+	* ↑ QTc
+	* J-point elevation
+	* Arrythmias
+		* AF
+		* VF
+	* ↑ Defibrillation threshold
+	* Vasoconstriction
+		* Centralisation of blood volume
+* D
+	* Confusion → obtundation
+	* ↑ Seizure threshold
+	* ↑ BSL
+* F
+	* ↓ Vasopressin synthesis
+	* ↑ pH
+* G
+	* ↓ Drug metabolism
+* H
+	* ↑ Haematocrit
+		* ↑ Blood viscosity
+	* Neutropaenia
+	* Thrombocytopaenia
+	* Coagulopathy 
+* I
+	* Shivering
+
+
+### Aetiology
+
+: Mechanisms of Hypothermia
+
 +--------------------------------------------------+-------------------+---------------------------+
 | ↑ Heat Loss                                      | ↓ Production      | Abnormal Thermoregulation |
 +==================================================+===================+===========================+
@@ -40,14 +80,48 @@ Hypothermia is a core body temperature <35°C which is:
 |                                                  |                   |                           |
 +--------------------------------------------------+-------------------+---------------------------+
 
-: Mechanisms of Hypothermia
+
+## Clinical Features
+
+* B
+	* Apnoea
+	* Hypoventilation
+	* Pulmonary oedema
+* C
+	* ↓ BP
+	* ↓ HR
+	* ↓ Capillary return
+	* AF
+	* Asystole
+* D
+	* Obtundation
+	* ↑ Tone
+	* Abnormal plantar response
+	* Fixed, mid-dilated pupils
+* F
+	* ↑ Followed by ↓ urine output
+* G
+	* ↓ Bowel sounds
 
 
-### Aetiology
+## Assessment
 
-## Clinical Manifestations
+**History**:
 
-## Diagnostic Approach and DDx
+**Exam**:
+
+### Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+**Imaging**:
+
+**Other**:
+
+
+### Diagnostic Approach and DDx
 
 ## Investigations
 

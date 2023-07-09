@@ -1,0 +1,21 @@
+* [HACA](http://www.nejm.org/doi/pdf/10.1056/NEJMoa012689) (2002)
+	* 275 non-pregnant European adults with witnessed shockable cardiac arrest of presumed cardiac origin
+	* Multicentre, assessor-blinded, block-randomised RCT
+	* Favourable outcome defined as CPC of 1-2; no clear power calculation
+	* Hypothermia vs. standard care
+		* Hypothermia group
+			* 32-34°C with surface cooling for 24 hours
+			* Passive re-warming after 24 hours
+		* Standard care group
+	* Significant ↑ in favourable neurological outcome (55% vs. 39%) and ↓ in mortality (41% vs. 55%) in hypothermic group
+	* Normothermia group became hyperthermic after ~ 12 hours
+	* Stopped early for slow recruitment
+
+:::column-margin
+{{< include /includes/cpc.qmd >}}
+:::
+
+
+:::column-margin
+![HACA Temperature](/resources/haca.jpeg)
+:::

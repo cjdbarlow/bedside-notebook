@@ -1,4 +1,5 @@
 * [BOX](https://www.nejm.org/doi/full/10.1056/NEJMoa2208686) (2022)
+	* Theorised that hyperoxia may ↑ neuronal and lung injury due to ↑ reactive oxygen species, and lead to coronary and cerebral vasoconstriction which may worsen HIE
 	* 802 patients in admitted in 2 Danish ICUs following OOHCA with ROSC after 20 minutes and GCS <8
 	* Oxygen arm:
 		* Restrictive oxygenation (PaO~2~ 68-75mmHg) vs. liberal oxygenation (98-105mmHg)\

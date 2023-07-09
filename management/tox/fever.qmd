@@ -1,6 +1,6 @@
 # Fever and Hyperthermia {#sec-fever}
 
-Normal body temperature is 37.0°C with a 0.5-1°C diurnal variation that peaks in the evening and is lowest at ~0600. Hyperthermia can either:
+Normal body temperature is 37.0°C with a 0.5-1°C diurnal variation that peaks in the evening and is lowest at ~0600. Hyperthermia can either be:
 
 :::column-margin
 This covers management of elevated body temperature. Heat injury and heat stroke are covered under @sec-heat_inj.
@@ -131,7 +131,7 @@ Aspirin, paracetamol.
 
 ## Pathophysiology
 
-Fever is assocaited with:
+Fever is associated with:
 
 * ↑ Metabolic rate
 	* ↑ Myocardial work
@@ -224,33 +224,60 @@ Treating with paracetamol at 39.5°C provides some leeway before the more import
 	* Cooling\
 	Febrile patients may require paralysis to limit shivering with active cooling.
 
-:::column-margin
+
 : Comparison of Cooling Therapies
 
-+-----------------+------------------------------+------------------------+
-| Class           | Method                       | Rate of Change (°C/hr) |
-+=================+==============================+========================+
-| Passive         | Exposure                     | 0.5-1                  |
-+-----------------+------------------------------+------------------------+
-| Active External | Wet towels/ice packs         | 1                      |
-|                 +------------------------------+------------------------+
-|                 | Evaporative (fan and mist)   | 1-2                    |
-|                 +------------------------------+------------------------+
-|                 | Temperature control pad\     | 1.5-3                  |
-|                 | e.g. Arctic sun.             |                        |
-+-----------------+------------------------------+------------------------+
-| Active Internal | 30-40mL/kg 4°C IV fluids     | 2-3                    |
-|                 +------------------------------+------------------------+
-|                 | Intravascular catheter       | 2-4                    |
-|                 +------------------------------+------------------------+
-|                 | Body cavity lavage           | 3                      |
-|                 +------------------------------+------------------------+
-|                 | CPB/ECMO                     | 10                     |
-|                 +------------------------------+------------------------+
-|                 | RRT                          | 10                     |
-+-----------------+------------------------------+------------------------+
-:::
-
++-----------------+----------------------------+------------------------+--------------------------------+
+| Class           | Method                     | Rate of Change (°C/hr) | Considerations                 |
++=================+============================+========================+================================+
+| Passive         | Exposure                   | 0.5-1                  | * Cheap                        |
+|                 |                            |                        | * Slow                         |
+|                 |                            |                        | * Cooling only                 |
++-----------------+----------------------------+------------------------+--------------------------------+
+| Pharmacological | Antipyretics               | 0.5-1                  | * Cheap                        |
+|                 |                            |                        | * Slow                         |
+|                 |                            |                        | * Cooling only                 |
++-----------------+----------------------------+------------------------+--------------------------------+
+| Active External | Wet towels/ice packs       | 1                      | * Cheap                        |
+|                 |                            |                        | * Wet patient                  |
+|                 |                            |                        |     * Electrical safety        |
+|                 |                            |                        |     * Wound sterility          |
+|                 |                            |                        | * Uneven cooling\              |
+|                 |                            |                        | Frostbite risk.                |
+|                 |                            |                        | * Cooling only                 |
+|                 +----------------------------+------------------------+--------------------------------+
+|                 | Evaporative (fan and mist) | 1-2                    | * Cheap                        |
+|                 |                            |                        | * Risk free                    |
+|                 |                            |                        | * Cooling only                 |
+|                 +----------------------------+------------------------+--------------------------------+
+|                 | Temperature control pad\   | 1.5-3                  | * Effective                    |
+|                 | e.g. Arctic sun.           |                        | * Expensive                    |
+|                 |                            |                        | * Allows rewarming             |
+|                 +----------------------------+------------------------+--------------------------------+
+|                 | Cold-water Immersion       | 8-10                   | * Cheap                        |
+|                 |                            |                        | * Rapid                        |
+|                 |                            |                        | * Unfeasible in large patients |
+|                 |                            |                        | * Wet patient                  |
++-----------------+----------------------------+------------------------+--------------------------------+
+| Active Internal | 30-40mL/kg 4°C IV fluids   | 2-3                    | * Cheap                        |
+|                 |                            |                        | * Rapid                        |
+|                 |                            |                        | * High-volume infusion         |
+|                 |                            |                        | * Arrhythmia risk              |
+|                 +----------------------------+------------------------+--------------------------------+
+|                 | Intravascular catheter     | 2-4                    | * Invasive                     |
+|                 |                            |                        | * Allow temperature monitoring |
+|                 |                            |                        | * Allows re-warming            |
+|                 +----------------------------+------------------------+--------------------------------+
+|                 | Body cavity lavage         | 3                      | * Invasive                     |
+|                 |                            |                        | * Fluid absorption             |
+|                 +----------------------------+------------------------+--------------------------------+
+|                 | CPB/ECMO                   | 10                     | * Very invasive                |
+|                 |                            |                        | * Expensive                    |
+|                 |                            |                        | * Limited availability         |
+|                 +----------------------------+------------------------+--------------------------------+
+|                 | RRT                        | 10                     | * Invasive                     |
+|                 |                            |                        | * May already need RRT         |
++-----------------+----------------------------+------------------------+--------------------------------+
 
 ## Key Studies
 

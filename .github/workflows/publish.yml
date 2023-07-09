@@ -2,11 +2,11 @@ on:
   workflow_dispatch:
   push:
 
-name: Publish Quarto to Github Pages (with macOS runner)
+name: Publish Quarto to Github Pages
 
 jobs:
   build-deploy:
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
@@ -17,7 +17,7 @@ jobs:
         uses: quarto-dev/quarto-actions/setup@v2
 
       - name: Add Memory
-        run: echo "export QUARTO_DENO_EXTRA_OPTIONS=--v8-flags=--max-old-space-size=65536"
+        run: echo "QUARTO_DENO_EXTRA_OPTIONS=--v8-flags=--max-old-space-size=16384" >> $GITHUB_ENV
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2

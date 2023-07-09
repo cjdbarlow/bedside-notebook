@@ -14,11 +14,12 @@ quarto::quarto_preview
 
 * Broken links
 * Images to markdown style
-* Get SVGs working in pdf output - prob convert to pdf
+* Get SVGs working in pdf output - prob convert to png
 * Make the search box prettier
 * Glossary highlight only once per section
+* Glossary expand to pdf output
+* Change links from Chapter X to chapter title: leverage this? https://stackoverflow.com/questions/75071145/quarto-cross-references-persistent-cross-references-when-text-changes
 * Autolink to terms ?disease ?management
-* Correct image size when column-margin images have captions
 * Click on margin images to pop into centre screen
 * Add scrolling radiology images
 * Modify glossary to only scan words up to to maximum length in the glossary to speed up build time
