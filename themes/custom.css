@@ -21,10 +21,20 @@ h2#toc-title{
     font-weight: bold;
 }
 
-/* Remove chapter number from breadcrumbs*/
-.breadcrumb-item > a > .chapter-number {
-    display: none;
+/* Remove chapter number from breadcrumbs on devices, and whole breadcrumb on full-width*/
+@media only screen and (max-width: 992px){
+    .breadcrumb-item > a > .chapter-number {
+        display: none;
+    }
+
 }
+
+@media only screen and (min-width: 993px){
+    nav.quarto-page-breadcrumbs {
+        display: none !important;
+    }
+}
+
 
 /* Remove margin in indented lists in book body and margin notes to stop them breaking up unaesthetically */
 main ol ol,
