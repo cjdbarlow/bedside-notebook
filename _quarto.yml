@@ -567,6 +567,11 @@ book:
         - part: "CICM"
           chapters:
           - intensive/cicm/standards.qmd
+          - intensive/cicm/accreditation.qmd
+          - intensive/cicm/behaviour.qmd
+          - intensive/cicm/appeals.qmd
+          - intensive/cicm/rrs.qmd
+          - intensive/cicm/echo.qmd
     - part: <hr>
     # Pathology
     - part: "Pathology"

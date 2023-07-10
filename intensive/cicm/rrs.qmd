@@ -1,0 +1,37 @@
+# Rapid Response Systems
+
+Hospital wide structure that provides a safety net for deteriorating patients who have a mismatch between their clinical needs and the local resources available to manage them.
+
+Intensive care has a clear role in RRS delivery and governance.
+
+## Requirements
+
+### Components
+
+* Defined process for identification of patient deterioration
+* System for triggering a tasked team response
+* Administrative
+* Quality improvement
+
+
+### Staffing
+
+* Outreach personnel additional to those managing internal patients
+* Enough staff to immediately (<10 minutes) attend RRS activation
+	* \>2000 activations/year requires:
+		* Separate ICU medical and nurse rostered exclusively to RRT
+		* Separate specialist roster for RRS oversight
+* <25% of trainee time should be outreach
+
+
+### Operational
+
+* FCICM designated as clinical lead
+	* Regular meetings with RRS staff to identify and resolve issues
+* Appropriate equipment availability
+
+---
+
+## References
+
+1. CICM. [IC-26 Minimum Standards for Intensive Care Unit Based Rapid Response Systems](https://cicm.org.au/CICM_Media/CICMSite/Files/Professional/IC-26-Minimum-Standards-for-Intensive-Care-Unit-Based-Rapid-Response-Systems.pdf). 2017.
