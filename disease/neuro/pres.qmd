@@ -1,0 +1,112 @@
+# Posterior Reversible Encephalopathy Syndrome
+
+Acute cerebral syndrome secondary to severe hypertension, characterised by:
+
+* Headache
+* Encephalopathy
+* Seizures
+* Visual disturbances
+
+## Epidemiology and Risk Factors
+
+Risk factors:
+
+* ESRD
+* SLE
+* Organ transplantation
+* Pre-eclampsia or eclampsia
+
+## Pathophysiology
+
+### Aetiology
+
+Three categories of precipitants are described:
+
+* Primary hypertensive disorder
+* Immunosuppressants
+* Chemotherapeutics
+
+
+## Clinical Features
+
+* Headache
+* Encephalopathy\
+98%. Confusion → coma.
+* Seizures\
+~20% develop status epilepticus.
+* Visual disturbances
+20-40%. Include:
+	* ↓ Acuity
+	* Neglect
+	* Hallucinations
+	* Blindness
+* Focal paresis
+
+
+## Assessment
+
+**History**:
+
+**Exam**:
+
+### Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+**Imaging**:
+
+* MRI\
+Vasogenic oedema in occipital and adjacent parietal lobe.
+
+**Other**:
+
+### Diagnostic Approach and DDx
+
+* Posterior circulation stroke
+* CNS infection
+* Demyelinating disease
+* Malignancy
+* Cerebral venous sinus thrombosis
+
+
+## Management
+
+:::priority
+* **Treat precipitant**
+* Control **hypertension**
+* Control **seizures**
+:::
+
+**Resuscitation**:
+
+**Specific therapy**:
+
+* Pharmacological
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Geocadin RG. [Posterior Reversible Encephalopathy Syndrome](https://www.nejm.org/doi/full/10.1056/NEJMra2114482). New England Journal of Medicine. 2023;388(23):2171-2178. doi:10.1056/NEJMra2114482

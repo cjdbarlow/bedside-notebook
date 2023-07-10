@@ -35,7 +35,9 @@ Generally >3 day starvation which depletes hepatic glycogen stores, causing ↓ 
 	* β-hydroxybutyrate predominates\
 	Ethanol metabolism has depleted NAD^+^, which drives metabolism of acetoacetate to β-hydroxybutyrate.
 
-
+:::column-margin
+Refeeding syndrome is covered in @sec-refeeding.
+:::
 
 
 ---

@@ -1,0 +1,168 @@
+# Refeeding Syndrome {#sec-refeeding}
+
+Potentially life-threatening constellation of electrolyte abnormalities that occurs after nutritional intake is resumed following a period of starvation, characterised by:
+
+* Hypophosphataemia
+* Hypokalaemia
+* Hypomagnesaemia
+
+
+## Epidemiology and Risk Factors
+
+Risk factors:
+
+* Malnutrition
+	* Eating disorders
+	* Alcohol and drug use
+	* Vomiting
+	* Dysphagia
+	* Chemotherapy
+	* Post-operative
+	* Elderly
+* Low BMI (<18)
+* Duration of starvation (>5 days)
+* Recent unintentional weight loss
+
+
+## Pathophysiology
+
+Starvation leads to:
+
+* Catabolic state
+* Total body phosphate depletion\
+Secondary to muscle catabolism.
+
+
+Provision of a glucose load with resumption of feeding causes a ↑↑ in insulin release, and:
+
+* Transition to catabolic state
+* Massive cellular uptake of PO~4~^3-^, K^+^, and Mg^2+^
+* Concomitant fall in serum electrolyte concentrations
+	* PO~4~^3-^ ↓ as it is required to hold glucose within cells\
+	Skeletal muscle is the dominant consumer.
+	* K^+^ falls directly due to insulin release
+
+
+### Aetiology
+
+## Clinical Features
+
+: Clinical Features of Refeeding Syndrome, by Electrolyte Derangement
+
++--------------------+----------------------------+------------------+------------------------+
+| System             | Hypophosphataemia          | Hypokalaemia     | Hypomagnesaemia        |
++====================+============================+==================+========================+
+| **Respiratory**    | * Hypoventilation\         |                  |                        |
+|                    | Weakness.                  |                  |                        |
++--------------------+----------------------------+------------------+------------------------+
+| **CVS**            | * Systolic heart failure   | * Arrhythmia     | * Arrhythmias          |
+|                    | * Arrhythmia               |                  |                        |
++--------------------+----------------------------+------------------+------------------------+
+| **Neurological**   | * Metabolic encephalopathy | * Seizures       | * Seizures             |
+|                    |                            |                  | * Confusion            |
+|                    |                            |                  | * Ataxia               |
+|                    |                            |                  | * Paraesthesias        |
++--------------------+----------------------------+------------------+------------------------+
+| **Renal**          |                            | * ATN            | * ↓ Potassium response |
+|                    |                            | * Alkalosis      | * Hypocalcaemia        |
++--------------------+----------------------------+------------------+------------------------+
+| **GIT**            | * Dysphagia                | * Ileus          |                        |
+|                    | * Ileus                    |                  |                        |
++--------------------+----------------------------+------------------+------------------------+
+| **Haematological** | * Haemolysis\              |                  |                        |
+|                    | ↑ RBC rigidity.            |                  |                        |
++--------------------+----------------------------+------------------+------------------------+
+| **Integumentary**  | * Weakness                 | * Rhabdomyolysis | * Weakness             |
+|                    |                            |                  | * Tetany               |
++--------------------+----------------------------+------------------+------------------------+
+
+
+Other features include:
+
+* Hyponatraemia\
+Occurs with a carbohydrate-rich diet as the carbohydrate is metabolised into water and CO~2~.
+* Hypernatraemia\
+Occurs with protein-heavy diets as the protein metabolism produces urea; and the ↑ in obligatory solute load ↑ renal water elimination.
+
+
+## Assessment
+
+**History**:
+
+**Exam**:
+
+### Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+**Imaging**:
+
+**Other**:
+
+### Diagnostic Approach and DDx
+
+
+## Management
+
+:::priority
+* Identify high-risk patients, and **institute feeds slowly**
+* Aggressively **replace electrolytes**
+:::
+
+**Specific therapy**:
+
+* Pharmacological
+	* Aggressive electrolyte replacement
+* Procedural
+* Physical
+
+
+**Supportive care**:
+
+* C
+	* Arterial line\
+	For sampling.
+	* CVC\
+	For TPN.
+	* Cautious volume administration
+* D
+	* Insulin for BSL control, if required
+* F
+	* IDC\
+	For monitoring of urine output.
+
+
+**Preventative**:
+
+* Identify at-risk patients
+* Slow introduction of feeds
+	* 50% of predicted requirements, ↑ by 10% every 24 hours
+* Replace micronutrients
+	* Thiamine 200-300mg PO daily
+	* Multivitamins\
+	Single multivitamin daily.
+	* Trace elements
+		* Zinc
+		* Iron
+		* Selenium
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Crook MA. [Refeeding syndrome: Problems with definition and management](https://pubmed.ncbi.nlm.nih.gov/25280426/). Nutrition. 2014;30(11-12):1448-1455. doi:10.1016/j.nut.2014.03.026
+1. Sharma S, Hashmi MF, Castro D. [Hypophosphatemia](https://www.ncbi.nlm.nih.gov/books/NBK493172/). In: StatPearls. StatPearls Publishing; 2023. Accessed July 9, 2023. http://www.ncbi.nlm.nih.gov/books/NBK493172/

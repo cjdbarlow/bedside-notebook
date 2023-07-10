@@ -216,6 +216,9 @@ Monitor LFTs for:
 	* Acalculous cholecystitis
 * More expensive
 
+:::column-margin
+Refeeding syndrome is covered in @sec-refeeding.
+:::
 
 ### Formulations
 

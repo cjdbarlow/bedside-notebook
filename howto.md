@@ -36,6 +36,7 @@ quarto::quarto_preview
 * Revise antibiotics table with some useful PK/PD/tissue penetration things
 * Move paeds anaesthesia to the concepts section and pyloromyotomy and inhaled FB to surgical sections
 * Split out paeds ICU considerations into specific disease
+* Try get rid of that non-breaking space after the chapter number in the top breadcrumbs
 
 # Package to-do
 

@@ -1,0 +1,154 @@
+# Minimum Standards for Intensive Care Units
+
+An ICU is an area of the hospital that is:
+
+* Specially staffed
+* Specially equipped
+* Separate
+* Self-contained
+* Dedicated to the management and monitoring of patients with life-threatening disease
+
+
+## Requirements
+
+Staffing:
+
+* Medical director
+	* Full time
+	* FCICM
+* Sufficient staff specialist cover
+	* Clinical work\
+	1 per 8-15 beds.
+	* Teaching
+	* Research
+	* Audit
+	* Other administration
+	* Must meet CICM CPD requirements
+* Sufficient junior medical cover
+	* At least one in the ICU at all times
+	* Any external requirements must not compromise care of ICU patients
+* Nursing
+	* 1:1 for ventilated and other critically ill patients
+	* 1:2 for other acuity patients
+	* Nurse in charge with additional ICU qualification
+	* Majority of staff must have an additional ICU qualification
+	* Supernumerary team leader each shift
+	* 1 educator per 50 rostered nurses
+	* All division 1 nurses
+* Other
+	* Appropriate clinical and non-clinical support staff
+
+
+## Operational
+
+Structure:
+
+* Separate geographical unit within the hospital
+* Access to ED, OT, radiology, and interventional secretions
+* Total area 2.5-3× the total patient care area
+* Patient care areas:
+	* Shared rooms: 20m^2^ per bedspace
+	* Single rooms: 25m^2^ per bedspace
+	* Adequate outlets:
+		* 4 oxygen
+		* 3 air
+		* 3 suction
+		* 4 data
+		* 16 power
+	* Cardiac protected electrical status
+	* Adequate lighting
+* Working area
+	* Space for staff in visual contact with patient
+	* Radiology viewing
+	* Equipment storage:
+		* Resuscitation
+		* Blood
+		* Mobile x-ray
+	* Dirty utility
+* Staff area
+	* Breaks
+* Education
+	* Seminar room
+* Offices
+	* Adequate office space for each senior clinician
+	* Available space for junior staff
+
+
+## Monitoring
+
+Clinical monitoring should include:
+
+* A vigilant bedside nurse
+* Electronic monitoring with:
+	* Visible and audible alarms
+	* Trending capability
+	* Unobstructed views
+* Circulatory monitoring
+	* Regular blood pressure measurement
+	* ECG display
+* Respiratory monitoring
+	* SpO~2~
+	* Capnography when appropriate
+	* Blood gas analysis
+* Equipment monitoring\
+e.g. Alarms for equipment in use, e.g. circuit humidifiers.
+
+
+## Levels
+
+Intensive care units are divided into three levels:
+
+* **Level III**\
+Tertiary referral unit capable of providing comprehensive critical care, including complex multi-system life support for an indefinite period. Should:
+	* Have demonstrated commitment to education and research
+	* \>8 functioning ICU beds
+	* Sufficient clinical workload to maintain high level of clinical expertise\
+	>400 mechanically ventilated patients per annum.
+	* Divided into pods for clinical management
+	* Staffing requirements
+		* FCICM medical director
+		* \>4 FTE of ICU specialists
+			* Expected that all are FCICM
+		* All patients should be seen at least twice per day by the FCICM
+		* \>50% of nurses per shift have additional ICU qualification
+		* Equipment officer
+	* Operational requirements
+		* Defined protocols
+		* Formal auditing processes
+			* Participation in ANZICS CORE
+		* Orientation program
+		* Research program
+		* 24 hour access to pharmacy, pathology, OR, radiology, and other specialists
+* **Level II**\
+Capable of providing high standard of general intensive care, including multi-system life support for an indefinite period provided appropriate specialty support is available.
+	* Arrangement with designated level III ICU so that patients can be accepted for specialty management
+	* \>6 functioning ICU beds
+	* Staffing requirements
+		* FCICM medical directory
+		* \>4 FTE of ICU specialists
+			* \>50% should be FCICM
+			* ⩾2 should be at least 0.5
+		* Otherwise as level III
+	* Operational requirements as level III
+* **Level I**\
+Capable of providing immediate resuscitation and short term cardio-respiratory support, and monitor 'at risk' patients.
+	* Arrangement with level II or III ICU for:
+		* Transfer of patients
+		* Joint review process
+	* Provision of mechanical ventilation for >24 hours is only acceptable when the patient is managed by an FCICM
+	* Staffing requirement
+		* Medical director who is an FCICM
+		* Adequate staffing to provide a 1:3 call roster with specialists with sufficient experience in ICU
+		* ⩾2 nurses in the unit at all times, if a patient is admitted
+		* Nursing qualifications as level III ICU
+		* Support staff as required
+	* Operational requirements
+		* Auditing process is mandatory, though ANZICS CORE participation is not
+		* Research program desirable
+		* Access to other resources commensurate with the role of the unit
+		* Otherwise as level III ICU
+---
+
+## References
+
+1. CICM. [IC-1 Minimum Standards for Intensive Care Units](https://cicm.org.au/CICM_Media/CICMSite/Files/Professional/IC-1-Minimum-Standards-for-Intensive-Care-Units.pdf). 2016.	 

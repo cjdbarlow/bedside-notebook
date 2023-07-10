@@ -259,6 +259,7 @@ book:
             - management/haeme/plasmapheresis.qmd
             - management/haeme/stem_cell.qmd
             - management/haeme/febrile_neut.qmd
+            - management/haeme/asplenia.qmd
         - part: "Trauma"
           chapters:
           - management/trauma/primary.qmd
@@ -385,7 +386,7 @@ book:
             - anaesthesia/regional/fasciailiaca.qmd
             - anaesthesia/regional/sciatic.qmd
             - anaesthesia/regional/ankle.qmd
-        - part: "Professionalism"
+        - part: "ANZCA"
           chapters:
           - anaesthesia/anzca/anzca.qmd
           - anaesthesia/anzca/credentialing.qmd
@@ -563,6 +564,9 @@ book:
         # - part: "Medical"
         #   chapters:
             # Oncology
+        - part: "CICM"
+          chapters:
+          - intensive/cicm/standards.qmd
     - part: <hr>
     # Pathology
     - part: "Pathology"
@@ -695,6 +699,7 @@ book:
           - disease/neuro/sah.qmd
           - disease/neuro/vasospasm.qmd
           - disease/neuro/cvst.qmd
+          - disease/neuro/pres.qmd
         # - part: "Brainstem"
         #   chapters:
               # Bulbar palsy
@@ -724,6 +729,7 @@ book:
           - disease/fluid/siadh.qmd
           - disease/fluid/di.qmd
           - disease/fluid/turp_syndrome.qmd
+          - disease/fluid/refeeding.qmd
           # Rhabdo
         # - part: "Nutrition"
         #   chapters:
