@@ -1,0 +1,95 @@
+# Rapid Response System
+
+An RRS is a **hospital-wide structure** that **provides** a **safety net** for **deteriorating** patients who have a mismatch between their clinical needs and the local resources available to manage them.
+
+
+# Indications
+
+## Contraindications
+
+## Principles
+
+RRS are demonstrated to:
+
+* ↓ Incidence of cardiac arrest calls
+* ↓ Hospital mortality
+* ↑ Number of patients prescribed treatment limitations
+* Have no clear effect on ICU admission numbers
+
+:::column-margin
+One-third of RRS activations occur in patients with end-of-life issues.
+:::
+
+Presence of an RRS is required for hospital accreditation, and there:
+
+* No clear best model\
+Must be institution-specific, balanced by:
+	* Resources availability
+	* Patient complexity
+	* Patient acuity
+* Should be an:
+	* **Afferent limb**\
+	Calling criteria and method of activation. May use variety of responses:
+		* Vital signs
+			* Degree of abnormality
+			* Aggregate scoring systems
+		* Other observations\
+		e.g. Pain, urine output.
+		* Family or staff concern
+	* **Efferent limb**\
+	Response team. Considerations:
+		* Team composition\
+			* Nursing involvement essential
+			* Nurse-led teams may be equivalent to medical-led teams
+		* Graded escalation\
+		Pace of escalation balances resource use against missed deterioration.
+		* Inclusion of primary team
+	* **Administrative limb**\
+	Manages day-to-day running of the RRS.
+	* Outcomes evaluation and **QI limb**\
+	Addresses QI and governance issues.
+
+
+### Modification to Calling Criteria
+
+Modification of criteria is:
+
+* Required to prevent a system becoming over-sensitive
+* Necessary because scores do not adapt to individual variation and chronic disease states
+* Highly variable between institutions
+
+
+## Practice
+
+The goals of an RRS team response should be to:
+
+:::column-margin
+The RRS team is often ad-hoc, with unacquainted members, in an unfamiliar ward environment.
+:::
+
+1. Rapidly assess adequacy of airway, breathing, and circulation
+2. Establish or confirm a provisional diagnosis
+3. Ensure events of review are documented, including:
+	* Diagnosis
+	* Plan
+	* Proposed investigations and interventions
+	* Follow-up plan
+4. Communicate cause of deterioration
+	* To next of kin
+	* To parent unit
+5. Support ward staff
+6. Determining disposition
+
+
+## Complications
+
+
+## Key Studies
+
+
+
+---
+
+## References
+
+1. CICM & ANZICS. [IC-25 Joint Position Statement on Rapid Response Systems in Australia and New Zealand and the Roles of Intensive Care](https://cicm.org.au/CICM_Media/CICMSite/Files/Professional/IC-25-Joint-ANZICS-and-CICM-Rapid-Response-Systems-Position-Statement.pdf). 2016.

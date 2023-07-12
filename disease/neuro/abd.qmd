@@ -1,7 +1,7 @@
 # Acute Behavioural Disturbance
 
 :::info
-Also known as **Excited Delirium**.
+Also known as **excited** or **agitated delirium**.
 :::
 
 Rapid onset of intensive agitation and physical actions that:
@@ -26,6 +26,11 @@ Rapid onset of intensive agitation and physical actions that:
 :::priority
 Safely **manage** and **modify** disturbed **behaviour**:
 
+* Safety of the patient
+* Safety of staff
+:::
+
+:::column-margin
 * Relevant drugs often have:
 	* Narrow therapeutic index
 	* Variable onset
@@ -46,12 +51,13 @@ A safe a suitable sedating location with fundamental physiological monitoring is
 * A
 	* Management of obstruction and respiratory depression
 
-ABC approach. Comment on team coordination and clinical priorities.
+
 **Specific therapy**:
 
 * Pharmacological
 * Procedural
 * Physical
+
 
 **Supportive care**:
 

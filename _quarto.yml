@@ -564,14 +564,34 @@ book:
         # - part: "Medical"
         #   chapters:
             # Oncology
+        - part: "Outreach"
+          chapters:
+          - intensive/outreach/rrs.qmd
         - part: "CICM"
           chapters:
-          - intensive/cicm/standards.qmd
+          - intensive/cicm/standards_icu.qmd
           - intensive/cicm/accreditation.qmd
           - intensive/cicm/behaviour.qmd
           - intensive/cicm/appeals.qmd
           - intensive/cicm/rrs.qmd
           - intensive/cicm/echo.qmd
+          - part: <hr>
+          - intensive/cicm/specialist.qmd
+          - intensive/cicm/supervision.qmd
+          - intensive/cicm/industry.qmd
+          - intensive/cicm/standards_hdu.qmd
+          - intensive/cicm/return.qmd
+          - intensive/cicm/telemedicine.qmd
+          - intensive/cicm/welfare.qmd
+          - intensive/cicm/foundation.qmd
+          - part: <hr>
+          - intensive/cicm/wellbeing.qmd
+          - intensive/cicm/withdrawing.qmd
+          - intensive/cicm/asylum.qmd
+          - intensive/cicm/elderly.qmd
+          - intensive/cicm/gender.qmd
+          - intensive/cicm/sustainability.qmd
+          - intensive/cicm/racism.qmd
     - part: <hr>
     # Pathology
     - part: "Pathology"

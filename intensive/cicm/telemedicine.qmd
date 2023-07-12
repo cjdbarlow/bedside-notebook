@@ -1,0 +1,47 @@
+# Telemedicine in Intensive Care
+
+Telemedicine is the exchange of medical information between sites by electronic means in order to improve a patients' health status. Telemedicine in ICU may occur through FCICM support to:
+
+* An ICU with no FCICM present
+* Remote centres for patients awaiting retrieval to an ICU
+* Out-of-hours when 24/7 specialist cover is not available
+
+
+## Principles of Telemedicine
+
+* All normal standards of professional conduct apply
+	* Documentation
+* Health professionals should actively confirm both their and the patients identity
+* All patients involved should be informed about the process, and its risks and benefits
+	* The therapeutic relationship must be improved by the use of telemedicine
+	* Should improve, not fragment, medical care
+* CICM standards for ICU apply to the provision of telemedicine
+* Telemedicine must apply with jurisdictional standards in the location where the patient is
+
+
+## Standards
+
+### Governance
+
+* Formal agreement between sites should exist, detailing:
+	* Responsibilities of each site
+	* Referral pathway
+	* Dispute resolution
+	* Technical difficulties
+	* Documentation
+* Clinical governance policy  should be agreed
+* Adequate training of staff
+
+
+### Equipment
+
+* Quality cameras adequate to examine the patient and equipment
+* Adequate internet bandwidth
+* Access to pathology and radiology
+* Secure system
+
+---
+
+## References
+
+1. CICM. [IC-16 Guidelines on the Use of Telemedicine in the Intensive Care Unit](https://cicm.org.au/CICM_Media/CICMSite/Files/Professional/IC-16-Guidelines-on-the-Use-of-Telemedicine-in-Intensive-Care.pdf). 2019.

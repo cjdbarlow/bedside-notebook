@@ -1,0 +1,81 @@
+# Standards for High Dependency Units {#sec-hdu_standards}
+
+An HDU is a specially staffed and equipped section of an ICU complex that provides a care between that of ICU and general ward care. Patients in an HDU:
+
+:::column-margin
+This covers the prescribed CICM standards for a HDU. Standards for an ICU are covered under @sec-icu_standards - many HDU standards are shared with that of a level II ICU.
+:::
+
+* Generally have single-organ failure
+* Are at high risk of complications
+* May be admitted as step-down from ICU or directly from another area of the hopsital
+
+
+## Requirements
+
+### Operational
+
+* Geographically part of ICU
+* Operationally linked to a level II or III ICU
+* Have all patients under an ICU specialist
+* Have defined policies for admission, discharge, management, and referral
+* Have 24-hour access to ICU and the other requirements of a level II ICU
+* A process for formal audit
+* Infection control procedures
+* Clerical support
+
+
+### Staffing
+
+* FCICM as director
+* ⩾1 other FCICM
+* Adequate specialist cover
+* ⩾50% of senior nurses having additional ICU or HDU qualification
+* Nursing ratio of 1:2
+* ⩾2 units in the unit when there is a patient present
+
+
+### Structure
+
+* ⩾4 beds
+* ⩾16m^2^/bedspace
+* Adequate outlets
+	* 2 oxygen
+	* 1 air
+	* 2 suction
+	* 12 power points
+* May share staff, education, and office space with the ICU
+
+
+### Equipment
+
+Must include:
+
+* Appropriate monitoring
+* Hand ventilator
+* Suction
+* Airway equipment
+* Vascular access equipment
+* Defibrillator
+* Temperature control equipment
+* ICC equipment
+* Infusion pumps
+* Portable transport equipment
+* Specialised beds
+* Non-invasive ventilator
+* Mechanical ventilator\
+1 available, access to a second.
+
+
+## Training
+
+Trainees in a HDU:
+
+* Can count training time when rostered to an HDU from accredited ICU
+* Must work an appropriate amount of time in an ICU
+
+---
+
+## References
+
+1. CICM. [IC-13 Guidelines on Standards for High Dependency Units in Intensive Care Medicine](https://cicm.org.au/CICM_Media/CICMSite/Files/Professional/IC-13-Guidelines-on-Standards-for-High-Dependency-Units.pdf). 2019.

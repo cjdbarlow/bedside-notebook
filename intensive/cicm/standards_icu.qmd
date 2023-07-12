@@ -1,6 +1,10 @@
-# Minimum Standards for Intensive Care Units
+# Standards for Intensive Care Units {#sec-icu_standards}
 
 An ICU is an area of the hospital that is:
+
+:::column-margin
+This covers the prescribed CICM standards for an ICU. Standards for a HDU are covered under @sec-hdu_standards.
+:::
 
 * Specially staffed
 * Specially equipped
@@ -136,7 +140,7 @@ Capable of providing immediate resuscitation and short term cardio-respiratory s
 		* Transfer of patients
 		* Joint review process
 	* Provision of mechanical ventilation for >24 hours is only acceptable when the patient is managed by an FCICM
-	* Staffing requirement
+	* Staffing requirements
 		* Medical director who is an FCICM
 		* Adequate staffing to provide a 1:3 call roster with specialists with sufficient experience in ICU
 		* ⩾2 nurses in the unit at all times, if a patient is admitted

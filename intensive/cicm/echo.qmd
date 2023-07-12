@@ -1,5 +1,23 @@
 # Critical Care Echocardiography
 
+Echocardiography is mainstream in critical care practice and a valued adjunct to history, physical examination, and standard investigations. Echocardiography is:
+
+* Used in management of:
+	* Undifferentiated shock
+	* Post-cardiac surgical patient
+	* Patients in cardiac arrest
+	* Interventional guidance
+* Immediately available
+* Bedside investigation
+* Non-invasive
+* Repeatable
+
+:::column-margin
+Note that this summary combines both the CICM *policy* for levels of training in echocardiography (IC-29) with the *statement* on the role of echocardiography in intensive care (IC-24).
+:::
+
+## Classifications
+
 CICM classifies echocardiography in critical care into:
 
 * Focused cardiac ultrasound
@@ -7,7 +25,7 @@ CICM classifies echocardiography in critical care into:
 * Expert critical care echocardiography
 
 
-## Focused Cardiac Ultrasound
+### Focused Cardiac Ultrasound
 
 * Basic level for assessment of critically ill patients
 * Answer specific, limited range of clinical questions
@@ -20,7 +38,7 @@ CICM classifies echocardiography in critical care into:
 	* Completion of a 30-case logbook of ICU patients, signed off by an accredited supervisor
 
 
-## Advanced Critical Care Echocardiography
+### Advanced Critical Care Echocardiography
 
 * Examination with expertise similar to a cardiologist
 * Divided, based on training and experience, into:
@@ -46,7 +64,7 @@ CICM classifies echocardiography in critical care into:
 		* 25 reported
 
 
-## Expert Critical Care Echocardiography
+### Expert Critical Care Echocardiography
 
 * Excellence in all aspects of practice and training
 * Involvement in echocardiography research and publications
@@ -62,3 +80,4 @@ CICM classifies echocardiography in critical care into:
 ## References
 
 1. CICM. [IC-29 Levels of Training in Adult Critical Care Echocardiography](https://cicm.org.au/CICM_Media/CICMSite/Files/Professional/IC-29-Levels-of-Training-in-Adult-Critical-Care-Echocardiography.pdf). 2018.
+2. CICM. [IC-24 Statement on the Role of Echocardiography in Intensive Care Medicine](https://cicm.org.au/CICM_Media/CICMSite/Files/Professional/IC-24-Statement-on-the-Role-of-Echocardiography-in-Intensive-Care-Medicine.pdf). 2016.
