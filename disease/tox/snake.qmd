@@ -1,4 +1,27 @@
-# Snakebite
+# Snakebite Envenomation
+
+Potential medical emergency secondary to bite *and* subsequent envenomation of an individual that present with either:
+
+:::column-margin
+Most snakebites do not cause envenomation because either:
+
+* Insufficient venom is injected
+* The snake is non-venomous
+:::
+
+* Local symptoms
+* Systemic symptoms
+* **Toxidromes**\
+Including:
+	* **Venom-Induced Coagulopathy**\
+	May be a:
+		* Consumptive coagulopathy
+		* Anticoagulant coagulopathy
+	* **Neurotoxicity**\
+	*Descending* flaccid paralysis.
+	* **Myotoxicity**\
+	Generalised myalgia or tenderness.
+		* Rhabdomyolysis may develop
 
 
 ## Epidemiology and Risk Factors
@@ -25,11 +48,14 @@ Prevents clotting without consumption.
 	* Direct muscle damage
 	* AKI
 
+
 ### Aetiology
+
+: Pathophysiology by Snake Species
 
 | Snake                  | Neurotoxin | Prothrombin Activation | Anticoagulant | Rhabdomyolysin |
 |------------------------|------------|------------------------|---------------|----------------|
-| **Brown** snake        | Yes        | Yes                    |               | Maybe          |
+| **Brown** snake        | Maybe      | Yes                    |               | Maybe          |
 | **Tiger** snake        | Yes        | Yes                    |               | Maybe          |
 | Taipan                 | Yes        | Yes                    |               | Maybe          |
 | Black                  |            |                        | Yes           |                |
@@ -38,21 +64,22 @@ Prevents clotting without consumption.
 | Stephen's Banded snake |            | Yes                    |               |                |
 | Sea snake              | Maybe      |                        |               | Yes            |
 
-: Pathophysiology by Snake Species
 
 ## Clinical Manifestations
+
+: Clinical Manifestations by Time Course
 
 +-------------------------+--------------------------------------+---------------------------------+-------------------+
 | Time Since Envenomation | <1 hour                              | 1-3 hours                       | \>3 hours         |
 +=========================+======================================+=================================+===================+
 | General                 | * Headache                           | * ↑ HR                          | * Shock           |
-|                         | * Nausea                             | * ↓ BP                          |                   |
-|                         | * Vomiting                           |                                 |                   |
+|                         | * Nausea                             | * ↓ BP\                         |                   |
+|                         | * Vomiting                           | May precipitate collapse.       |                   |
 |                         | * Confusion                          |                                 |                   |
 |                         | * Regional lymphadenitis             |                                 |                   |
 +-------------------------+--------------------------------------+---------------------------------+-------------------+
 | Neurotoxin              |                                      | * Cranial nerve paresis         | * Truncal paresis |
-|                         |                                      | * ↓ Vt                          | * Limb paresis    |
+|                         |                                      | * ↓ V~T~                        | * Limb paresis    |
 +-------------------------+--------------------------------------+---------------------------------+-------------------+
 | Prothrombin Activation  | * Coagulopathy on laboratory testing | * Mucosal haemorrhage           | * DIC             |
 |                         |                                      | * Venepuncture site haemorrhage |                   |
@@ -64,19 +91,32 @@ Prevents clotting without consumption.
 |                         |                                      |                                 | * AKI             |
 +-------------------------+--------------------------------------+---------------------------------+-------------------+
 
-: Clinical Manifestations by Time Course
-
 :::column-margin
 Disease may occur progress much more rapidly in children.
 :::
 
+Local features:
 
-## Diagnostic Approach and DDx
+* Local pain and swelling
+* Myonecrosis
+* Painful lymphadenopathy of draining nodes
 
-Identification of the snake is helpful but not essential:
 
-* Venom detection kid should be used to guide antivenom selection
-* Antivenom should be used to cover snakes in that geographical region
+Systemic features:
+
+* Haemodynamic instability
+* GI upset
+* Diaphoresis
+* Headache
+
+
+Neurotoxicity classically progresses from:
+
+* Extra-ocular muscles
+* Bulbar muscles
+* Respiratory muscles
+* Skeletal muscles
+
 
 ## Investigations
 
@@ -95,6 +135,15 @@ Performed on blood, urine, or other tissue.
 
 **Other**:
 
+
+## Diagnostic Approach and DDx
+
+Identification of the snake is helpful but not essential:
+
+* Venom detection kid should be used to guide antivenom selection
+* Antivenom should be used to cover snakes in that geographical region
+
+
 ## Management
 
 :::priority
@@ -106,7 +155,7 @@ Performed on blood, urine, or other tissue.
 **Resuscitation**:
 
 :::column-margin
-The **pressure-immobilisation bandage** is designed to ↓ lymphatic and capillary absorption. It is **not** an arterial **torniquet**.
+The **pressure-immobilisation bandage** is designed to ↓ lymphatic and capillary absorption. It is **not** an arterial **tourniquet**.
 :::
 
 * **Pressure-immobilisation bandage**
@@ -129,7 +178,7 @@ The **pressure-immobilisation bandage** is designed to ↓ lymphatic and capilla
 **Specific therapy**:
 
 :::column-margin
-In general, the dose is two vials. Dosing is reasonably crude and based mostly on trials in small, cute animals.
+In general, the dose is two vials of polyvalent antivenom. Dosing is reasonably crude and based mostly on trials in small, cute animals.
 :::
 
 * Pharmacological
@@ -141,6 +190,7 @@ In general, the dose is two vials. Dosing is reasonably crude and based mostly o
 			* 0.01mg/kg in children
 			* 0.25mg in adults
 		* Administer over 15-30 minutes if situation permits
+		* Re-dosing is ineffective
 	* Antibiotics\
 	Consider for contaminated wounds.
 * Procedural
@@ -186,7 +236,19 @@ Not recommended in procoagulant coagulopathy (or for anything else).
 		* Anosmia
 	* PTSD
 * F
-	* CKD
+	* AKI\
+	May progress to CKD. Causes are multifactorial:
+		* Pre-renal
+			* Sepsis
+			* Cardiac failure
+			* Thrombotic microangiopathy
+		* Intra-renal
+			* ATN secondary to pre-renal failure
+			* Myoglobinuria
+			* Haemoglobinuria
+		* Post-renal
+			* Haematuria and obstruction
+
 
 ## Prognosis
 
@@ -208,6 +270,7 @@ Poor prognostic signs:
 * Out of hospital collapse
 * Inadequate antivenom therapy
 
+
 ## Key Studies
 
 
@@ -216,3 +279,4 @@ Poor prognostic signs:
 ## References
 
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. Isbister GK, Brown SGA, Page CB, McCoubrie DL, Greene SL, Buckley NA. [Snakebite in Australia: a practical approach to diagnosis and treatment](https://www.mja.com.au/journal/2013/199/11/snakebite-australia-practical-approach-diagnosis-and-treatment). Med J Aust. 2013;199(11). Accessed July 12, 2023.

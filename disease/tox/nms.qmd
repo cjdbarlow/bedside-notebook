@@ -24,11 +24,13 @@ Mental state change and extrapyramidal symptoms.
 
 ### Aetiology
 
-## Clinical Manifestations
+## Clinical Features
 
-* Onset usually over hours-days
+* Fever
+* Encephalopathy
+* Haemodynamic instability
+* Rhabdomyolysis
 
-## Diagnostic Approach and DDx
 
 ## Investigations
 
@@ -46,6 +48,14 @@ Mental state change and extrapyramidal symptoms.
 **Imaging**:
 
 **Other**:
+
+## Diagnostic Approach and DDx
+
+:::column-margin
+Serotonin Syndrome is a always a differential for NMS.\
+\
+{{< include /includes/nms_ss.qmd >}}
+:::
 
 ## Management
 

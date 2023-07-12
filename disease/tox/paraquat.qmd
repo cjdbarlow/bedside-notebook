@@ -11,27 +11,45 @@ Widely available highly **toxic herbicide** that **generates reactive oxygen spe
 
 ## Pathophysiology
 
+Key pharmacology of paraquat:
+
+* Highly hydrophilic
+	* Rapid gut absorption
+	* Poor skin absorption
+* Rapidly inactivated in soil\
+Leads to popularity as a herbicide, as planting can occur immediately.
+* Pulmonary accumulation
+* Rapid renal clearance of unchanged drug
+
+
 ### Aetiology
 
 ## Clinical Features
 
-Gastrointestinal:
+: Features of Paraquat Toxicity
 
-* Mucous membrane ulceration
-* Nausea, vomiting
++------------------+------------------------------+-------------------------+-----------------------+
+| System           | Mild                         | Moderate                | Severe                |
++==================+==============================+=========================+=======================+
+| **General**      |                              |                         | * Multi-organ failure |
+|                  |                              |                         | * Death               |
++------------------+------------------------------+-------------------------+-----------------------+
+| **Respiratory**  | * Haemoptysis                | * Pulmonary oedema\     |                       |
+|                  | * Mucous membrane ulceration | Day 1-3.                |                       |
+|                  |                              | * Pulmonary haemorrhage |                       |
+|                  |                              | * Pulmonary fibrosis\   |                       |
+|                  |                              | Day 3-7.                |                       |
++------------------+------------------------------+-------------------------+-----------------------+
+| **Neurological** | * Tremors                    | * Convulsions           |                       |
++------------------+------------------------------+-------------------------+-----------------------+
+| **Renal**        | * AKI                        | * ATN                   |                       |
++------------------+------------------------------+-------------------------+-----------------------+
+| **GIT**          | * Nausea                     | * Hepatotoxicity        |                       |
+|                  | * Vomiting                   | * Haematemesis          |                       |
+|                  | * Diarrhoea                  |                         |                       |
+|                  | * Intestinal haemorrhage     |                         |                       |
++------------------+------------------------------+-------------------------+-----------------------+
 
-Neurological:
-
-* Tremors
-* Convulsions
-
-Respiratory:
-
-* Pulmonary oedema
-* Acute alveolitis\
-Day 1-3.
-* Fibrosing alveolitis\
-Day 3-7.
 
 ## Assessment
 
@@ -62,7 +80,7 @@ Day 3-7.
 ## Management
 
 :::priority
-* Early management essential to avoid pulmonary fibrosis and death
+* **Early management essential** to avoid pulmonary fibrosis and death
 * Oral absorbents
 * Mild *hypoxia*
 :::
@@ -76,7 +94,7 @@ Day 3-7.
 **Specific therapy**:
 
 * Pharmacological
-	* Absorbents
+	* **Absorbents**
 		* Fullers earth\
 		30% 250ml Q4H until seen in stools.
 		* Activated charcoal\
@@ -88,6 +106,9 @@ Day 3-7.
 	* Extracorporeal filtration\
 	Both RRT and plasma exchange are generally ineffective due to rapid pulmonary redistribution.
 * Physical
+	* Remove contaminated clothes
+	* Wash skin with soap and water
+
 
 **Supportive care**:
 

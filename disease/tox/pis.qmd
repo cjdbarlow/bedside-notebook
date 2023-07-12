@@ -1,0 +1,121 @@
+# Propofol Infusion Syndrome
+
+Rare and potentially fatal complication of prolonged high-dose propofol use, characterised by:
+
+* Severe metabolic acidosis
+* Bradycardia → asystole
+* Cardiac failure
+* Rhabdomyolysiss
+
+
+## Epidemiology and Risk Factors
+
+Risk factors:
+
+* Drug
+	* Propofol infusion >4mg/kg/hr for >48 hours
+	* Catecholamines
+* Nutrition
+	* Carnitine deficiency
+	* ↓ Carbohydrate intake\
+	↑ Lipolysis to meet energy needs, with subsequent ↑ in free fatty acids.
+* Pathology
+	* TBI
+
+
+## Pathophysiology
+
+Uncertain, favoured to be:
+
+* Propofol inhibition of coenzyme Q and cytochrome C
+* Subsequent failure of ATP production and the electron transport chain
+*  Lactate production
+
+
+### Aetiology
+
+## Clinical Features
+
+* ↓ HR
+* Severe HAGMA\
+BE <-10, due to:
+	* Lactataemia
+	* ↑ Free fatty acids
+* Hyperlipidaemia
+* Hepatomegaly
+* Rhabdomyolysis
+
+
+## Assessment
+
+**History**:
+
+**Exam**:
+
+### Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+**Imaging**:
+
+**Other**:
+
+
+### Diagnostic Approach and DDx
+
+
+## Management
+
+:::priority
+* **Stop propofol**
+* **RRT**
+* Consider **plasma exchange**
+:::
+
+
+**Resuscitation**:
+
+* C
+	* Consider pacing and inotropes\
+	Typically refractory.
+	* Early consideration of mechanical support
+
+
+**Specific therapy**:
+
+* Pharmacological
+	* Cease propofol
+* Procedural
+* Physical
+
+
+**Supportive care**:
+
+* F
+	* RRT
+* H
+	* Plasma exchange
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Kam PCA, Cardone D. [Propofol infusion syndrome](https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1365-2044.2007.05055.x). Anaesthesia. 2007;62(7):690-701. doi:10.1111/j.1365-2044.2007.05055.x

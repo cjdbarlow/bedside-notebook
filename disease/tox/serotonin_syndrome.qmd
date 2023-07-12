@@ -41,6 +41,51 @@ Potentially fatal.
 
 Excessive serotonin activity at 5-HT~2~ receptors in the CNS.
 
+### Drugs Associated with Moderate to Severe Serotonin Toxicity
+
+Include:
+
+* **Monoamine oxidase inhibitors**
+	* Irreversible inhibitors
+		* Phenelzine
+		* Tranylcypromine
+		* Iproniazid
+		* Isocarboxazid
+	* Reversible inhibitors of MAO-A
+		* Moclobemide
+	* Non-psychotropic drugs
+		* Linezolid
+		* Methylene blue
+* **Serotonin releasing agents**
+	* SSRIs
+	* SNRIs
+	* TCAs
+	* Opioids
+		* Fentanyl
+		* Tramadol
+		* Pethidine
+		* Dextromethorphan
+	* Amphetamines
+	* Synethetic stimulates
+		* Ecstasy
+		* Bath salts
+	* Herbal
+		* St John's Wort
+* **Other**
+	* Lithium
+	* Buspirone
+	* Tryptophan
+
+
+### Drugs Without Significant Risk of Toxicity
+
+Serotonin antagonists, or those that do not agonise 5-HT~2~:
+
+* Antipsychotics
+* Anxiolytics
+* Anti-migraine drugs
+* Antiemetics
+
 ## Clinical Manifestations
 
 :::info
@@ -87,6 +132,40 @@ Presentation:
 	* Muscle rigidity
 
 
+## Investigations
+
+Diagnosis is clinical. Investigations usually targeted towards ruling out other causes, or identifying complications.
+
+**Laboratory**:
+
+* Blood
+	* UEC and CMP\
+	Rhabdomyolysis.
+	* Coagulation screen\
+	DIC.
+
+**Imaging**:
+
+* CTB
+
+**Other**:
+
+* LP\
+Encephalitis.
+* EEG
+
+
+## Diagnostic Approach and DDx
+
+Key differentials include:
+
+* Alcohol withdrawal
+* Drug withdrawal
+* Non-convulsive seizures
+* Encephalitis
+* Neuroleptic Malignant Syndrome
+
+
 ### Diagnostic Criteria
 
 Hunter Serotonin Toxicity Criteria:
@@ -111,96 +190,11 @@ Dose ↑, overdose, or new agent.
 				* No\
 				No serotonin toxicity.
 
-
-### Drugs Associated with Moderate to Severe Serotonin Toxicity
-
-Include:
-
-* **Monoamine oxidase inhibitors**
-	* Irreversible inhibitors
-		* Phenelzine
-		* Tranylcypromine
-		* Iproniazid
-		* Isocarboxazid
-	* Reversible inhibitors of MAO-A
-		* Moclobemide
-	* Non-psychotropic drugs
-		* Linezolid
-		* Methylene blue
-* **Serotonin releasing agents**
-	* SSRIs
-	* SNRIs
-	* TCAs
-	* Opioids
-		* Fentanyl
-		* Tramadol
-		* Pethidine
-		* Dextromethorphan
-	* Amphetamines
-	* Synethetic stimulates
-		* Ecstasy
-		* Bath salts
-	* Herbal
-		* St John's Wort
-* **Other**
-	* Lithium
-	* Buspirone
-	* Tryptophan
-
-
-### Drugs Without Significant Risk of Toxicity
-
-Serotonin antagonists, or those that do not agonise 5-HT~2~:
-
-* Antipsychotics
-* Anxiolytics
-* Anti-migraine drugs
-* Antiemetics
-
-
-## Diagnostic Approach and DDx
-
-Key differentials include:
-
-* Alcohol withdrawal
-* Drug withdrawal
-* Non-convulsive seizures
-* Encephalitis
-* Neuroleptic Malignant Syndrome
-
-
-### Differentiating from Neuroleptic Malignant Syndrome
-
-Key differentiating features are that:
-
-* Serotonin syndrome has ↑ bowel sounds
-* NMS has:
-	* A slow onset over days
-	* Extrapyramidal features and rigidity
-	* No clonus
-
-
-## Investigations
-
-Diagnosis is clinical. Investigations usually targeted towards ruling out other causes, or identifying complications.
-
-**Laboratory**:
-
-* Blood
-	* UEC and CMP\
-	Rhabdomyolysis.
-	* Coagulation screen\
-	DIC.
-
-**Imaging**:
-
-* CTB
-
-**Other**:
-
-* LP\
-Encephalitis.
-* EEG
+:::column-margin
+Neuroleptic Malignant Syndrome is a always a differential for serotonin syndrome.\
+\
+{{< include /includes/nms_ss.qmd >}}
+:::
 
 
 ## Management

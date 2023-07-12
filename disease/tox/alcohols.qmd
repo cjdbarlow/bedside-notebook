@@ -12,7 +12,7 @@ Toxic alcohols are relatively benign in themselves but produce highly **toxic me
 	HAGMA, cardiopulmonary toxicity, and nephrotoxicity in addition to neurotoxicity.
 * **Isopropanol**
 	* Found in rubbing alcohol, hand sanitiser, and other antiseptics
-	* Metabolised to **acetone** and so does *not* produce a HAGMA
+	* Metabolised to **acetone** and so does *not* produce a HAGMA\
 	Gastrointestinal toxicity, and ketosis without acidosis in addition to neurotoxicity.
 	
 
@@ -29,55 +29,44 @@ Methanol is metabolised into formic acid, ethylene glycol is metabolised into gl
 
 ### Aetiology
 
-## Clinical Manifestations
+## Clinical Features
 
-Methanol:
+: Clinical Features of Toxic Alcohol Ingestion
 
-* Ocular
-	* Blurry vision
-	* ↓ Acuity
-	* Photophobia
-	* "Snowstorm" vision
-	* Permanent blindness
-* Neurological
-	* Parkinsonism
-	* Transverse myelitis
-	* Basal ganglia haemorrhages
-* HAGMA
-	* Formic acid
-	* Lactic acid
-
-
-Ethylene Glycol:
-
-* Cardiopulmonary
-	* ↑ HR
-	* ARDS
-	* Heart failure
-	* ↓ Calcium\
-	Chelated by oxalic acid.
-* Renal toxicity
-	* Precipitation of calcium oxalate crystals in renal tubule
-* Neurological
-	* Coma
-	* Seizures
-	* Meningism
-	* Cranial nerve deficit\
-	Often delayed by 5-20 days.
-* HAGMA
-	* Glycolic acid
-	* Oxalic acid
-	* Lactic acid
-
-
-Isopropanol:
-
-* Gastrointestinal
-	* Haemorrhagic gastritis
-* Neurological
-	* Intoxication
-	* Cerebellar signs
-	* Coma
++-----------------+------------------------------+------------------------------------------------------------+--------------------------+
+| System          | Methanol                     | Ethylene Glycol                                            | Isopropanol              |
++=================+==============================+============================================================+==========================+
+| Cardiopulmonary |                              | * ↑ HR                                                     |                          |
+|                 |                              | * ARDS                                                     |                          |
+|                 |                              | * Heart failure                                            |                          |
++-----------------+------------------------------+------------------------------------------------------------+--------------------------+
+| Neurological    | **Ocular**:                  | * Coma                                                     | * Confusion → Coma       |
+|                 |                              | * Seizures                                                 | * Cerebellar signs       |
+|                 | * Blurry vision              | * Meningism                                                |                          |
+|                 | * ↓ Acuity                   | * CN deficit\                                              |                          |
+|                 | * Photophobia                | Often delayed by 5-20 days.                                |                          |
+|                 | * "Snowstorm" vision         |                                                            |                          |
+|                 | * Permanent blindness\       |                                                            |                          |
+|                 | Retinal toxicity.            |                                                            |                          |
+|                 |                              |                                                            |                          |
+|                 | **Other**:                   |                                                            |                          |
+|                 |                              |                                                            |                          |
+|                 | * Parkinsonism               |                                                            |                          |
+|                 | * Transverse myelitis        |                                                            |                          |
+|                 | * Basal ganglia haemorrhages |                                                            |                          |
++-----------------+------------------------------+------------------------------------------------------------+--------------------------+
+| Renal           | * HAGMA                      | * ↓ Calcium\                                               | * Normal OG              |
+|                 |     * Formic acid            | Chelated by oxalic acid.                                   |                          |
+|                 |     * Lactic acid            | * AKI\                                                     |                          |
+|                 | * ↑ OG                      | Precipitation of calcium oxalate crystals in renal tubule. |                          |
+|                 |                              | * HAGMA                                                    |                          |
+|                 |                              | 	  * Glycolic acid                                         |                          |
+|                 |                              | 	  * Oxalic acid                                           |                          |
+|                 |                              | 	  * Lactic acid                                           |                          |
+|                 |                              | * ↑ OG                                                     |                          |
++-----------------+------------------------------+------------------------------------------------------------+--------------------------+
+| GIT             |                              |                                                            | * Haemorrhagic gastritis |
++-----------------+------------------------------+------------------------------------------------------------+--------------------------+
 
 
 ## Diagnostic Approach and DDx
@@ -111,6 +100,14 @@ If you can quantitatively measure the serum alcohol, you can also determine the 
 * Isopropanol: 6.0 mg/dL
 :::
 
+:::column-margin
+Methanol has the lowest molecular weight and therefore greatest ↑ in OG per unit volume. 
+:::
+
+:::column-margin
+Degree of **inebriation** is **proportional** to **molecular weight**.
+:::
+
 **Imaging**:
 
 * CTB
@@ -119,6 +116,7 @@ If you can quantitatively measure the serum alcohol, you can also determine the 
 		* Basal ganglia haemorrhages
 		* Optic chiasmal atrophy
 		* Caudate nuclear necrosis
+
 
 **Other**:
 
@@ -136,16 +134,13 @@ If you can quantitatively measure the serum alcohol, you can also determine the 
 
 **Specific therapy**:
 
-:::column-margin
-Fomepizole is not available in Australia.
-:::
-
 * Pharmacological
 	* **Antidote**\
 	Inhibit conversion to toxic acids in methanol and ethylene glycol poisoning.
 		* Agents:
-			* Fomepizole 15mg/kg load, then 10mg/kg Q12H
-			* Ethanol
+			* Fomepizole 15mg/kg IV load, then 10mg/kg Q12H
+			* Ethanol 0.6g/kg PO, targeting a BAC of 0.1-0.15%.
+				* Will contribute to CNS toxicity
 		* Indicated for:
 			* Osmolar gap >10mOsm
 			* pH <7.3
@@ -168,10 +163,21 @@ Fomepizole is not available in Australia.
 		* Refractory haemodynamic instability
 * Physical
 
+:::column-margin
+Fomepizole is not available in Australia.
+:::
+
+:::column-margin
+Activated charcoal has no role as absorption of alcohols is too rapid.
+:::
+
 **Supportive care**:
 
 * G
 	* PPI
+	* Thiamine\
+	Enhances metabolism of ethylene glycol.
+
 
 **Disposition**:
 
@@ -205,3 +211,4 @@ Fomepizole is not available in Australia.
 ## References
 
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. Mahdi AS, McBride AJ. [Intravenous Injection of Alcohol By Drug Injectors: Report of Three Cases. Alcohol and Alcoholism](https://academic.oup.com/alcalc/article/34/6/918/192717). 1999;34(6):918-919. doi:10.1093/alcalc/34.6.918

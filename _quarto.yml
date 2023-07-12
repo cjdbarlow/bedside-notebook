@@ -958,15 +958,16 @@ book:
         # Decompression injury
         # Hypothermia
       # Toxins
-      - part: "Toxin"
+      - part: "Toxic"
         chapters:
         - part: "Toxidromes"
           chapters:
           - disease/tox/serotonin_syndrome.qmd
           - disease/tox/nms.qmd
           - disease/tox/anticholinergic.qmd
+          - disease/tox/cholinergic.qmd
           - disease/tox/last.qmd
-        - part: "Specific Drugs"
+        - part: "Therapeutic Drugs"
           chapters:
           - disease/tox/paracetamol.qmd
           - disease/tox/aspirin.qmd
@@ -979,19 +980,22 @@ book:
           - disease/tox/tca.qmd
           - disease/tox/iron.qmd
           - disease/tox/theophylline.qmd
+          - disease/tox/pis.qmd
           - disease/tox/chemo_toxicity.qmd
+        - part: "Recreational Drugs"
+          chapters:
           - disease/tox/amphetamine.qmd
           - disease/tox/cocaine.qmd
-        - part: "Venoms"
-          chapters:
-          - disease/tox/snake.qmd
-          # Spiders
         - part: "Poisons"
           chapters:
           - disease/tox/alcohols.qmd
           - disease/tox/co.qmd
           - disease/tox/cyanide.qmd
           - disease/tox/paraquat.qmd
+        - part: "Venoms"
+          chapters:
+          - disease/tox/snake.qmd
+          # Spiders
       # Rheumatology, Immunology
       - part: "Immune"
         chapters:

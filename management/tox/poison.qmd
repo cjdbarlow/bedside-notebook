@@ -1,20 +1,10 @@
 # Poisoning {#sec-poison_mx}
 
-Acute poisoning is:
+Acute poisoning is common and usually intentional. Key principles of management include:
 
 :::column-margin
 This covers the general principles of approaching a poisoned patient. Management of specific agents is covered elsewhere.
 :::
-
-* Common\
-5-10% of admissions.
-* Usually intentional
-* Managed predominantly with supportive treatment
-
-
-## Principles
-
-Management should consider:
 
 * **R**esuscitation
 * **R**isk assessment
@@ -28,7 +18,7 @@ Covered under the specific drug overdose.
 * **D**isposition
 
 
-### Resuscitation
+## Resuscitation
 
 * A
 	* Remove dentures
@@ -40,19 +30,21 @@ Covered under the specific drug overdose.
 * C
 	* Venous access
 	* Fluid resuscitation or vasoactives as required
+	* Cardiovascular monitoring
+	* Consider invasive haemodynamic monitoring
 
 :::column-margin
 Intubation is reasonable to avoid in patients with a GHB or GBL overdose who will reliably resume consciousness in 2-4 hours.
 :::
 
-### Risk Assessment
+## Risk Assessment
 
 :::priority
 * **Ascertain nature** and **severity** of **poisoning**
 * **Requirement** for **specific therapy** or time-limited interventions
 :::
 
-History:
+### History
 
 :::column-margin
 Collateral and circumstantial history can be ascertained from:
@@ -68,14 +60,18 @@ Collateral and circumstantial history can be ascertained from:
 		* May be multiple or unknown (children)
 		* Always assume the maximum amount if uncertain
 	* Dose
-	* Timing taken
-* Dose
+	* Time since ingestion
+	* Dose
+* Patient factors
+	* Liver impairment
+	* Renal impairment
+	* Psychological morbidity
 
 :::column-margin
 Consider **NAI** in **children**.
 :::
 
-Examination:
+### Examination
 
 :::column-margin
 Differential diagnoses of coma should include:
@@ -103,7 +99,7 @@ Differential diagnoses of coma should include:
 	* Tone, reflexes, and clonus
 
 
-### Investigations
+## Investigations
 
 **Bedside**:
 
@@ -139,13 +135,14 @@ Routine toxin dipsticks are not recommended due to false-positive rate and cross
 	* Aspiration
 
 
-### Decontamination
+## Decontamination
 
 :::info
-Two **viable** methods:
+**Viable** methods include:
 
 * Activated charcoal
 * Whole bowel irrigation
+* Surface decontamination
 :::
 
 :::column-margin
@@ -157,27 +154,34 @@ Removes only limited volumes and ↑ aspiration risk.
 Removes insignificant volume, may propel unabsorbed poison into small intestine.
 :::
 
-**Activated charcoal**:
+### Activated Charcoal
 
 * Very effective absorber of toxins in GIT due to high surface area and porous structure
 * 1^st^ line for most poisonings\
-Drugs that are **not effectively removed** include:
-	* Alcohols
-	* Metals
-	* Corrosives\
-	Acids and alkalis.
-	* Pesticides
-	* Cyanide
-* Should be **given** to **all patients within 1 hour** of **ingestion** of a toxic dose
+	* Effective absorber of 100–1000Da compounds that present early, or delay gastric emptying
+	* Drugs that are **not effectively removed** include:
+		* Alcohols
+		* Metals
+		* Corrosives\
+		Acids and alkalis.
+		* Pesticides
+		* Cyanide
+* Single dose should be **given** to **all patients within 1 hour** of **ingestion** of a toxic dose\
+Efficacy falls with time since ingestion - give early.
 * 1g/kg up to 50g
 	* May still be given if overdose ↓ gastric emptying or slow-release preparation\
 	e.g. Opioids, anticholinergics, TCA.
-	* **Repeat doses** may be given if drug is **enterohepatically recirculated** or a slow-release preparation
-* Should **not be given** if **↓ GCS** due to risk of **aspiration**\
-Intubate, then administer via NG.
+* **Multi-dose** is **useful** for drugs that are **enterohepatically recirculated** or a **slow-release preparation**
+* Serious complications are rare, however:
+	* Should **not be given** if **↓ GCS** due to risk of **aspiration**\
+	Intubate, then administer via NG.
+	* May cause bowel obstruction
+		* Rare
+		* More common with multi-dose and ↓ gut motility
+	* May absorb therapeutic medications
 
 
-**Whole Bowel Irrigation**:
+### Whole Bowel Irrigation
 
 * Gut decontamination with non-absorbable polyethylene glycol solution
 * ↓ GI absorption by creating high volume of liquid stool
@@ -197,9 +201,27 @@ Intubate, then administer via NG.
 	* Stop irrigation if abdominal distension occurs
 
 
-### Enhanced Elimination
+### Endoscopic Removal
 
-**Urinary alkalinisation**:
+* Direct removal is indicated for:
+	* Obstruction
+	* Iron tablets
+	* "Body packing"\
+	Swallowed packets of high doses of drugs that may precipitate extreme overdose if they rupture.
+
+
+### Surface Decontamination
+
+* Indicated for cutaneously absorbed drugs including:
+	* Glycerol
+	* Industrial solvents
+	* Mercury salts
+	* Lead salts
+
+
+## Enhanced Elimination
+
+### Urinary alkalinisation
 
 :::column-margin
 Urinary alkalinisation is also known as forced alkaline diuresis.
@@ -242,12 +264,13 @@ $AH \leftrightarrow H^+ + A^-$
 	If concentrations are equal, then pH = pKa as $\log_{10} 0 = 1$
 :::
 
-**Haemodialysis**:
+### Haemodiafiltration
 
 :::column-margin
 Haemodialysis is recommended for severe overdose of:
 
-* Salicylate
+* Barbiturates
+* Salicylates
 * Lithium\
 Chronic.
 * Theophylline
@@ -269,9 +292,56 @@ Some preparations.
 	* Rapidly redistribution from tissue to plasma\
 	Not trapped in tissues.
 	* Slow endogenous clearance
+* Considered worthwhile if clearance ↑ by ⩾30%
+* **Ultrafiltration rate** is the prime **determinant** for removal of **larger molecules**
+* **Dialysate** flow **rate** is the prime **determinant** for removal of **smaller molecules**
+* The extracorporeal **circuit may directly adsorb** some **drugs** in idiosyncratic fashion
 
 
-**Lipid Emulsion Therapy**:
+### Haemoperfusion
+
+Use of an extracorporeal circuits to bind drugs to a filter, which:
+
+* Facilitates ↑ clearance by adsorption
+* Have a high-surface area, and made from:
+	* Resin
+		* Bind lipophilic substances
+		* May be designed with drug-specific antibodies
+	* Activated charcoal\
+		* Broad-spectrum
+
+Complicated by:
+
+* Electrolyte derangements
+* Coagulopathy
+	* Thrombocytopaenia
+	* Removal of clotting factors
+* Immunosuppression
+* Loss of micronutrients
+* Charcoal embolisation
+
+
+### Plasmapheresis
+
+Plasma exchange is:
+
+:::column-margin
+Plasma exchange is also beneficial in any setting where haemodialysis or haemoperfusion are helpful.
+:::
+
+* Beneficial when toxins are confined to plasma proteins\
+Both:
+	* Highly protein bound
+	* Low V~D~
+* Possibly beneficial when a toxin is highly protein bound with a high V~D~\
+Several exchange runs may be required.
+
+:::column-margin
+The main indication for plasma exchange is *Amanita phalloides* poisoning.
+:::
+
+
+### Lipid Emulsion Therapy
 
 * Role in local anaesthetic toxicity
 * Unclear mechanism, may relate to either:
@@ -283,6 +353,25 @@ Some preparations.
 		* 1.5mL/kg Q5M
 		* ↑ Rate to 30mL/kg/hr
 	* Up to 12mL/kg
+
+
+## Supportive Care
+
+* A
+	* Remain intubated
+* B
+	* Mandatory mode of mechanical ventilation\
+	Compensate for any acid-base disturbances.
+* C
+	* Vasoactive supports
+* D
+	* Benzodiazepines\
+	Are widely indicated for most overdoses.
+* F
+	* Maintain good UO\
+	Will optimise renal clearance.
+	* Maintain normal electrolytes\
+	Minimise any arrhythmias.
 
 ---
  

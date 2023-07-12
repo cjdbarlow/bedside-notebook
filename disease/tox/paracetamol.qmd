@@ -17,12 +17,30 @@ Paracetamol is metabolised by two pathways:
 * Conjugation with glucuronide sulfates\
 Normal metabolic pathway (~95% of a therapeutic dose) that produces non-toxic metabolites which are renally cleared.
 * CYP450 2E1 to NAPQI
-	* Under normal circumstances is a minor metabolic pathway
+	* Minor metabolic pathway under normal circumstances
 	* Produces hepatotoxic NAPQI
 	* NAPQI is conjugated with hepatic glutathione to non-toxic metabolites which are renally cleared
+	* Absence of glutathione leads to accumulation of NAPQI
+	* NAPQI covalently binds multiple proteins, leading to uncoupled oxidative phosphorylation and hepatic cell death
 
 ### Aetiology
 
+: Risk Factors for Toxicity
+
++-----------------------+---------------------------+
+| ↓ Hepatic Glutathione | Cytochrome P450 Induction |
++=======================+===========================+
+| **Malnourishment**:   | **Antiepileptics**:       |
+|                       |                           |
+| * Anorexia nervosa    | * Phenytoin               |
+| * Bulimia             | * Carbamazepine           |
+| * Malnourishment      | * Phenobarbital           |
++-----------------------+---------------------------+
+| **Disease**:          | **Other**:                |
+|                       |                           |
+| * HIV                 | * Rifampicin              |
+| * Cystic Fibrosis     | * Chronic ETOH            |
++-----------------------+---------------------------+
 
 ## Clinical Features
 
@@ -81,24 +99,7 @@ Severe toxicity:
 **Specific therapy**:
 
 :::column-margin
-![](/resources/prescott.png)
-
-: Risk Factors for Toxicity
-
-+-----------------------+---------------------------+
-| ↓ Hepatic Glutathione | Cytochrome P450 Induction |
-+=======================+===========================+
-| Malnourishment:       | Antiepileptics:           |
-|                       |                           |
-| - Anorexia nervosa    | - Phenytoin               |
-| - Bulimia             | - Carbamazepine           |
-| - Malnourishment      | - Phenobarbital           |
-|                       |                           |
-| Disease:              | **Other**:                |
-|                       |                           |
-| - HIV                 | - Rifampicin              |
-| - Cystic Fibrosis     | - Chronic ETOH            |
-+-----------------------+---------------------------+
+![Prescottt Nomogram](/resources/prescott.png)
 :::
 
 * Pharmacological
@@ -109,14 +110,29 @@ Severe toxicity:
 	* **N-acetylcysteine** (NAC)\
 	Stimulates glutathione stimulus, allowing NAPQI to be conjugated.
 		* Prescott nomogram indicates when NAC therapy should be given\
-		>200mg/kg or 10g in a one-off ingestion should receive NAC independent of level.
+			* \>200mg/kg or 10g in a one-off ingestion should receive NAC independent of level
+			* Inaccurate in sustained-release preparations; therefore NAC should be given empirically
 		* Early administration results in significant reduction in mortality (to <1%), though even late administration may improve outcome.
 		* 150mg/kg load over 15-60 minutes
 		* 50mg/kg over 4 hours
 		* 100mg/kg over 16 hours
 		* Further doses may be indicated (usually 150mg/kg over 24 hours)
+		* NAC may be ceased after 24 hours if:
+			* Paracetamol concentration <10mg/L
+			* ALT <50U/L
+			* INR <2
+			* Clinically well
 * Procedural
-	* Liver transplant
+	* **Liver transplant**\
+	Referral indicated for:
+		* SBP <80mmHg
+		* Hypoglycaemia
+		* Encephalopathy
+		* pH <7.3 following resuscitation
+		* Oliguria
+		* Creatinine >200μmol/L
+		* INR >4.5
+		* INR >3 for 48 hours
 * Physical
 
 
