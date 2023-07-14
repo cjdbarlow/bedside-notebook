@@ -1,12 +1,16 @@
 # Beta-Blockers
 
-Clinical effect of β-blocker overdose depends on underlying cardiac function, namely:
+Beta-blocker overdose causes ↓ HR, ↓ inotropy, and (possibly) vasodilation; the size of each effect depending on the:
 
-* Systolic function
-* AV nodal blockade
+* Receptor specificity of the drug taken
+* Underlying cardiac function\
+Particularly:
+	* Systolic function
+	* AV nodal blockade
 
-# Disease
-
+:::column-margin
+Notably, **propranolol** penetrates the BBB and ↓↓ seizure threshold. Most deaths from β-blocker overdose are due to propranolol.
+:::
 
 ## Epidemiology and Risk Factors
 
@@ -14,18 +18,32 @@ Clinical effect of β-blocker overdose depends on underlying cardiac function, n
 
 ### Aetiology
 
-## Clinical Manifestations
+## Clinical Features
 
-* Rate
-	* Sinus bradycardia
-	* Heart block\
-	Full spectrum of AV nodal blockade, from 1^st^ degree heart block to CHB with no escape rhythm.
+Cardiac:
+
+* Bradyarrhythmias
+	* ↓ HR
+	* AV nodal blockade\
+	Full spectrum is possible.
 	* Asystole
 * Hypotension
 * Cardiogenic shock
 	* Pulmonary oedema
 
+Extra-cardiac: 
+
+* **Bronchospasm**
+* **↓ BSL**
+* ↑ K^+^
+
+:::column-margin
+Unlike β-blockers, calcium channel blockers do not cause bronchospasm, and will typically **↑** the BSL.
+:::
+
 ## Diagnostic Approach and DDx
+
+
 
 ## Investigations
 
@@ -38,6 +56,10 @@ Clinical effect of β-blocker overdose depends on underlying cardiac function, n
 **Other**:
 
 ## Management
+
+:::priority
+* Activated charcoal
+* Consider gastric lavage
 
 **Resuscitation**:
 
@@ -55,21 +77,25 @@ Clinical effect of β-blocker overdose depends on underlying cardiac function, n
 		* Vasopressors
 	* ECMO if refractory
 
-:::column-margin
-{{< include /includes/hiet.qmd >}}
-:::
-
-***Specific therapy**:
+**Specific therapy**:
 
 * Pharmacological
-	* Activated charcoal
-		* Within 1-hour of immediate release ingestion
+	* **Activated charcoal**
+		* Ideally within 1-hour of immediate release ingestion
 		* Any time after sustained release ingestion
 			* Consider multiple (Q4H) dosing
+	* **Gastric lavage**\
+	Consider if very recent (<1 hour) overdose.
+	{{< include /includes/hiet.qmd >}}
 * Procedural
 * Physical
 
 **Supportive care**:
+
+* A
+	* 
+* B
+	* Mechanical ventilation
 
 **Disposition**:
 

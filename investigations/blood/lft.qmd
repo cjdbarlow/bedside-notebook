@@ -33,139 +33,135 @@ Sum of all plasma proteins (not all hepatically synthesised), including: albumin
 +-----------------+----------------+-----------------------------------------+
 | Pattern         | Presentation   | Causes                                  |
 +=================+================+=========================================+
-| **Cholestatic** | - ALP >200     |                                         |
-|                 | - ALP >3× AST  |                                         |
-|                 |                | Hepatic:                                |
-|                 |                |                                         |
-|                 |                | - Cholestasis of pregnancy              |
-|                 |                | - Primary biliary cirrhosis             |
-|                 |                | - Primary sclerosing cholangitis        |
-|                 |                | - Hepatitis                             |
-|                 |                | - Drug toxicity                         |
-|                 |                | - Malignancy                            |
+| **Cholestatic** | * ALP >200     | Hepatic:                                |
+|                 | * ALP >3× AST  |                                         |
+|                 | * ↑ GGT        | * Cholestasis of pregnancy              |
+|                 |                | * Primary biliary cirrhosis             |
+|                 |                | * Primary sclerosing cholangitis        |
+|                 |                | * Hepatitis                             |
+|                 |                | * Drug toxicity                         |
+|                 |                | * Malignancy                            |
 |                 |                |                                         |
 |                 |                |                                         |
 |                 |                | Extrahepatic:                           |
 |                 |                |                                         |
-|                 |                | - Choledocholithiasis                   |
-|                 |                | - Cholangitis                           |
-|                 |                | - Pancreatitis                          |
+|                 |                | * Choledocholithiasis                   |
+|                 |                | * Cholangitis                           |
+|                 |                | * Pancreatitis                          |
 +-----------------+----------------+-----------------------------------------+
-| **Hepatitic**   | - ALT >200     |                                         |
-|                 | - ALT >3× ALP  |                                         |
-|                 |                | Circulatory:                            |
-|                 |                |                                         |
-|                 |                | - Right heart failure                   |
-|                 |                | - Ischaemic hepatitis                   |
-|                 |                | - ↑ Venous pressures                    |
+| **Hepatitic**   | * ALT >200     | Circulatory:                            |
+|                 | * ALT >3× ALP  |                                         |
+|                 |                | * Right heart failure                   |
+|                 |                | * Ischaemic hepatitis                   |
+|                 |                | * ↑ Venous pressures                    |
 |                 |                |                                         |
 |                 |                |                                         |
 |                 |                | Metabolic:                              |
 |                 |                |                                         |
-|                 |                | - Haemochromatosis                      |
-|                 |                | - Wilson's disease                      |
-|                 |                | - α1-antitrypsin deficiency             |
+|                 |                | * Haemochromatosis                      |
+|                 |                | * Wilson's disease                      |
+|                 |                | * α1-antitrypsin deficiency             |
 |                 |                |                                         |
 |                 |                |                                         |
 |                 |                | GI:                                     |
 |                 |                |                                         |
-|                 |                | - Fatty liver                           |
-|                 |                | - NASH                                  |
-|                 |                | - Pancreatitis                          |
+|                 |                | * Fatty liver                           |
+|                 |                | * NASH                                  |
+|                 |                | * Pancreatitis                          |
 |                 |                |                                         |
 |                 |                |                                         |
 |                 |                | Trauma:                                 |
 |                 |                |                                         |
-|                 |                | - Surgical                              |
-|                 |                | - Hepatic injury                        |
+|                 |                | * Surgical                              |
+|                 |                | * Hepatic injury                        |
 |                 |                |                                         |
 |                 |                |                                         |
 |                 |                | Infective:                              |
 |                 |                |                                         |
-|                 |                | - Viral hepatitis                       |
+|                 |                | * Viral hepatitis                       |
 |                 |                |                                         |
 |                 |                |                                         |
 |                 |                | Toxin:                                  |
 |                 |                |                                         |
-|                 |                | - Alcohol                               |
-|                 |                | - Paracetamol                           |
-|                 |                | - Mushrooms\                            |
+|                 |                | * Alcohol                               |
+|                 |                | * Paracetamol                           |
+|                 |                | * Mushrooms\                            |
 |                 |                | *Amanita phalloides*.                   |
 |                 |                |                                         |
 |                 |                |                                         |
 |                 |                | Obstetric:                              |
 |                 |                |                                         |
-|                 |                | - Cholestasis of pregnancy              |
+|                 |                | * Cholestasis of pregnancy              |
 |                 |                |                                         |
 |                 |                | Congenital:                             |
 |                 |                |                                         |
-|                 |                | - Glycogen storage disease              |
+|                 |                | * Glycogen storage disease              |
 +-----------------+----------------+-----------------------------------------+
 |                 | ALT >> AST     | Hepatic:                                |
 |                 |                |                                         |
-|                 |                | - Alcoholic toxicity/hepatitis          |
-|                 |                | - Early hepatic ischaemia               |
+|                 |                | * Alcoholic toxicity/hepatitis          |
+|                 |                | * Early hepatic ischaemia               |
 |                 |                |                                         |
 |                 |                | Extrahepatic:                           |
 |                 |                |                                         |
-|                 |                | - Rhabdomyolysis                        |
-|                 |                | - MI                                    |
+|                 |                | * Rhabdomyolysis                        |
+|                 |                | * MI                                    |
 +-----------------+----------------+-----------------------------------------+
-|                 | AST >> ALT     | - Viral                                 |
-|                 |                | - Drugs                                 |
+|                 | AST >> ALT     | * Viral                                 |
+|                 |                | * Drugs                                 |
 +-----------------+----------------+-----------------------------------------+
 | **Bilirubin**   | ↑ Unconjugated | ↑ Production:                           |
 |                 |                |                                         |
-|                 |                | - Haemolysis                            |
-|                 |                | - Transfusion                           |
-|                 |                | - Resorption (haematomas, UGIB)         |
+|                 |                | * Haemolysis                            |
+|                 |                | * Transfusion                           |
+|                 |                | * Resorption (haematomas, UGIB)         |
 |                 |                |                                         |
 |                 |                | ↓ Uptake:                               |
 |                 |                |                                         |
-|                 |                | - Gilbert's syndrome                    |
-|                 |                | - Drugs                                 |
+|                 |                | * Gilbert's syndrome                    |
+|                 |                | * Drugs                                 |
 |                 |                |                                         |
 |                 |                | ↓ Conjugation:                          |
 |                 |                |                                         |
-|                 |                | - Gilbert's syndrome                    |
-|                 |                | - Physiological jaundice of the newborn |
+|                 |                | * Gilbert's syndrome                    |
+|                 |                | * Physiological jaundice of the newborn |
 +-----------------+----------------+-----------------------------------------+
-|                 | ↑ Conjugated   | - Biliary obstruction                   |
-|                 |                | - Failure to excrete\                   |
+|                 | ↑ Conjugated   | * Biliary obstruction                   |
+|                 |                | * Failure to excrete\                   |
 |                 |                | Syndromal.                              |
 |                 |                |                                         |
 +-----------------+----------------+-----------------------------------------+
-| **Other**       | Isolated ↑ GGT | - MI                                    |
-|                 |                | - Myocarditis                           |
-|                 |                | - COPD                                  |
-|                 |                | - Diabetes                              |
-|                 |                | - Renal failure                         |
+| **Other**       | Isolated ↑ GGT | * MI                                    |
+|                 |                | * Myocarditis                           |
+|                 |                | * COPD                                  |
+|                 |                | * Diabetes                              |
+|                 |                | * Renal failure                         |
 |                 |                |                                         |
 |                 |                | Drugs:                                  |
-|                 |                | - Alcohol                               |
-|                 |                | - Phenytoin                             |
-|                 |                | - Flucloxacillin                        |
-|                 |                | - Barbiturates                          |
+|                 |                | * Alcohol                               |
+|                 |                | * Phenytoin                             |
+|                 |                | * Flucloxacillin                        |
+|                 |                | * Barbiturates                          |
 +-----------------+----------------+-----------------------------------------+
 |                 | ↑ ALP          | Physiological:                          |
 |                 |                |                                         |
-|                 |                | - 3~rd~ trimester                       |
-|                 |                | - Children/adolescents                  |
-|                 |                | - Familial                              |
+|                 |                | * 3^rd^ trimester                       |
+|                 |                | * Children/adolescents                  |
+|                 |                | * Familial                              |
 |                 |                |                                         |
 |                 |                | Hepatic:                                |
 |                 |                |                                         |
-|                 |                | - Obstruction                           |
-|                 |                | - Primary biliary cirrhosis             |
-|                 |                | - Primary sclerosing cholangitis        |
-|                 |                | - Cholestasis                           |
-|                 |                | - Metastatic                            |
+|                 |                | * Obstruction                           |
+|                 |                | * Primary biliary cirrhosis             |
+|                 |                | * Primary sclerosing cholangitis        |
+|                 |                | * Cholestasis                           |
+|                 |                | * Metastatic                            |
 |                 |                |                                         |
 |                 |                | Extra-hepatic:                          |
 |                 |                |                                         |
-|                 |                | - Bone disease                          |
-|                 |                | - Sarcoid                               |
-|                 |                | - Hyperthyroidism                       |
+|                 |                | * Bone disease                          |
+|                 |                | * Sarcoid                               |
+|                 |                | * Hyperthyroidism                       |
 |                 |                |                                         |
 +-----------------+----------------+-----------------------------------------+
 
@@ -173,13 +169,7 @@ Sum of all plasma proteins (not all hepatically synthesised), including: albumin
 
 Blood:
 
-* Coagulation
-	* Indicator of synthetic function
-		* ↑ INR if fat-soluble vitamin intake, absorption, or storage are impaired
-		* ↑ APTT if synthesis impaired
-	* Mixing studies demonstrate reversibility with normal plasma
-* Amylase/Lipase\
-Exclude concomitant pancreatitis.
+{{< include /includes/liver_screen.qmd >}}
 
 
 Radiology:

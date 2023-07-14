@@ -1,35 +1,28 @@
 # Digoxin
 
-Digoxin toxicity:
+Digoxin is a cardiac glycoside that inhibits the Na^+^-K^+^-ATPase pump. Toxicity may be:
 
-* May be due to either:
-	* Chronic toxicity due to progressive accumulation:
-	Most common with high mortality (15-30%).
-		* Too high a daily dose
-		* ↓ Renal function with unchanged dose
-	* Large single ingestion:
-		* Toxicity: 2mg
-		* Fatal:
-			* Adult: >10mg
-			* Children: ~4mg
-* Presents as:
-	* Cardiac arrhythmias
-		* **↓ HR** due to slowing of AV nodal conduction
-		* ↑ **Automaticity**\
-		General ↑ in rate of discharge of pacemaker cells.
-			* AF
-			* Flutter (with AV block, due to ↓ dromotropy)
-			* Ventricular ectopics
-			* VF
-			* VT
-	* **Hyperkalaemia**
-	* GI symptoms\
-	Nausea, vomiting, diarrhoea, abdominal pain.
-
+* **Cardiac**\
+Typically tachyarrhythmias with ↓ AV nodal conduction, and may be life-threatening.
+* **Non-cardiac**\
+May cause hyperkalaemia and yellow vision, in addition to more general symptoms such as confusion and GI upset.
+* **Chronic**\
+Due to progressive accumulation. Most common presentation, and has high mortality (15-30%). Due to:
+	* Too high a daily dose
+	* ↓ Renal function with unchanged dose
+	* Drug interactions
+* **Acute**\
+From a large single ingestion:
+	* Toxicity: 2mg
+	* Fatal:
+		* Adult: >10mg
+		* Children: ~4mg
 
 :::column-margin
 Adverse effects may be delayed by several hours.
 :::
+
+
 
 ## Epidemiology and Risk Factors
 
@@ -37,7 +30,49 @@ Adverse effects may be delayed by several hours.
 
 ### Aetiology
 
-## Clinical Manifestations
+Drug interactions:
+
+* ↓ Clearance
+	* Amiodarone
+	* Non-dihydropyridine calcium channel blockers
+* ↑ Absorption
+	* Macrolides\
+	Kill gut bacteria which may digest some of the absorbed dose.
+	* PPI\
+	↑ Permeability.
+
+## Clinical Features
+
+Cardiac:
+
+:::column-margin
+The tachyarrhythmias are essentially any that don't rely on AV conduction.
+:::
+
+* **↓ HR** and **heart block** due to slowing of AV nodal conduction
+* ↑ **Automaticity**\
+General ↑ in rate of discharge of pacemaker cells, causing a variety of tachyarrhythmias:
+	* AF
+	* Flutter\
+	With low ventricular rate due to AV block.
+	* Ventricular ectopics
+	* VF
+	* VT
+
+
+Non-cardiac:
+
+* **Xanthopsia**\
+Yellow bias of colour perception.
+* **Hyperkalaemia**\
+Due to inhibition of the Na^+^-K^+^-ATPase in cardiac and skeletal muscle.
+* GI symptoms\
+Nausea, vomiting, diarrhoea, abdominal pain.
+* Confusion
+
+:::column-margin
+![Xanthopsia vs. Normal Vision](/resources/xanthopsia.jpg)
+:::
 
 ## Diagnostic Approach and DDx
 
@@ -64,7 +99,8 @@ Adverse effects may be delayed by several hours.
 
 :::priority
 * Manage **arrhythmia**
-* Manage **hyperkalaemia**
+* **Correct electrolytes** and acidosis\
+Toxicity is exacerbated by hypokalaemia, hypomagnesaemia, hypocalcaemia, and acidosis.
 * Give **digoxin-specific antibody**
 :::
 
@@ -80,8 +116,14 @@ Adverse effects may be delayed by several hours.
 		* Magnesium
 		* Lignocaine
 * F
-	* Hyperkalaemia
-		* Insulin-dextrose as first line
+	* Electrolytes
+		* Hyperkalaemia
+			* Insulin-dextrose as first line
+			* Correct to high-normal
+		* Hypomagnesaemia
+		* Hypocalcaemia
+	* Acidosis
+
 
 **Specific therapy**:
 
@@ -125,3 +167,4 @@ Serum digoxin levels cannot be accurately measured for ~3 weeks after digoxin an
 ## References
 
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+2. Wagner, BT. Kline, D. [The Basis of Colour Vision](https://web.archive.org/web/20070524033238/http://psych.ucalgary.ca/PACE/VA-LAB/Brian/acquired.htm). Vision and Aging Lab: University of Calgary. 2007. Accessed via the Wayback Machine.

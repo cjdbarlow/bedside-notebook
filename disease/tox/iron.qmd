@@ -1,21 +1,26 @@
 # Iron {#sec-tox_iron}
 
-Iron toxicity and classically occurs over **four phases**:
+Iron toxicity may be severe and classically occurs over **four phases**:
 
 * **Phase 1**: 0-6 hours\
-Mucosal corrosion with consequent GI symptoms.
+Corrosive effect on the GI mucosa, leading to:
+	* Nausea, vomiting
+	* Fluid loss
 * **Phase 2**: 6-12 hours\
-Asymptomatic phase as iron shifts intracellularly.
+Asymptomatic phase whilst iron shifts intracellularly.
 * **Phase 3**: 12-48 hours\
-Systemic iron toxicity.
-	* Distributive shock
-	* HAGMA
-	* Renal failure
-	* Hepatic failure\
-	Risk extends out to 5 days.
+Systemic iron toxicity caused by lipid peroxidation of mitochondrial membranes:
+	* **Multi-factorial shock**
+		* Distributive\
+		SIRS.
+		* Cardiogenic\
+		Direct cardiac toxicity.
+		* Hypovolaemic\
+		Third spacing and GI losses.
+	* **Hepatic necrosis**
+	* Acidosis
 * **Phase 4**: 2-6 weeks\
-Chronic GI strictures.
-
+Chronic GI strictures from scarring of mucosal erosions.
 
 
 ## Epidemiology and Risk Factors
@@ -28,7 +33,7 @@ Chronic GI strictures.
 
 Phase 1:
 
-* Nasuea
+* Nausea
 * Vomiting
 * Haematemesis
 * Diarrhoea
@@ -36,33 +41,23 @@ Phase 1:
 
 Phase 3:
 
-## Diagnostic Approach and DDx
+* Shock\
+Multifactorial:
+	* Vasodilatory
+	* Cardiogenic\
+	Secondary to cardiac toxicity.
+* Acidosis
+	* **HAGMA**\
+	Multi-factorial lactic acidosis:
+		* Generalised anaerobic metabolism due to mitochondrial toxicity
+		* ↓ CO/cardiogenic shock
+		* ↓ Hepatic lactate clearance
+	* NAGMA\
+	Direct buffering of iron ions.
+* Multi-organ failure
+	* AKI
+	* ALF
 
-Risk assessment is based on the amount of **elemental iron** ingested:
-
-* Function of the:
-	* *Elemental* iron content of the tablet\
-		* Varies depending if the tablet contains ferrous or ferric iron, and anion it is bound to
-		* Check the label
-	* Number of tablets
-		* History
-		* Abdominal XR
-* In general:
-	* Asymptomatic: <20mg/kg
-	* GI symptoms: 20-60mg/kg
-	* Systemic: 60-120mg/kg
-	* Lethal: >120mg/kg
-
-:::column-margin
-The dose is divided by a constant to get the proportion of elemental iron in the tablet:
-
-* Ferrous Sulfate (Dried): Dose/3.3
-* Ferrous Sulfate (Heptahydrate): Dose/5
-* Ferrous Gluconate: Dose/9
-* Ferous Fumarate: Dose/3
-* Ferric Chloride: Dose/3.5
-* Ferrous Chloride: Dose/4
-:::
 
 ## Investigations
 
@@ -88,7 +83,7 @@ The dose is divided by a constant to get the proportion of elemental iron in the
 	* Serum iron\
 	Levels do not correlate with toxicity, but >90μmol/L is predictive of systemic toxicity.
 		* Peak 4-6 hours following ingestion
-			* ↓ Afterwards as iron moves intracellularly
+		* ↓ Afterwards as iron moves intracellularly
 	* Coag
 	* UEC
 	* LFT
@@ -101,7 +96,42 @@ The dose is divided by a constant to get the proportion of elemental iron in the
 
 **Other**:
 
+
+## Diagnostic Approach and DDx
+
+Risk assessment is based on the amount of **elemental iron** ingested:
+
+* Function of the:
+	* *Elemental* iron content of the tablet\
+		* Varies depending if the tablet contains ferrous or ferric iron, and which anion it is bound with
+		* Check the label
+	* Number of tablets
+		* History
+		* Abdominal XR
+* In general:
+	* Asymptomatic: <20mg/kg
+	* GI symptoms: 20-60mg/kg
+	* Systemic: 60-120mg/kg
+	* Lethal: >120mg/kg
+
+:::column-margin
+The dose is divided by a constant to get the proportion of elemental iron in the tablet:
+
+* Ferrous Sulfate (Dried): Dose/3.3
+* Ferrous Sulfate (Heptahydrate): Dose/5
+* Ferrous Gluconate: Dose/9
+* Ferous Fumarate: Dose/3
+* Ferric Chloride: Dose/3.5
+* Ferrous Chloride: Dose/4
+:::
+
+
 ## Management
+
+:::priority
+* Removal of tablets\
+WBI or endoscopic removal.
+* 
 
 **Resuscitation**:
 
@@ -117,9 +147,13 @@ Maximal licensed dose of desferioxamine is 80mg/kg/day, though severe toxicity w
 :::
 
 * Pharmacological
-	* **Desferioxamine**
-		* Chelates free iron ions in plasma, the water soluble complex is renally cleared
-		* If shock, HAGMA, altered mental state, or ↑ serum level
+	* **Desferrioxamine**\
+	Chelates free iron ions in plasma, the water soluble complex is renally cleared.
+		* Indicated for:
+			* Shock
+			* HAGMA
+			* Altered mental state
+			* Serum iron >90μmol/L
 		* 15mg/kg/hr up to 40mg/kg/hr for severe toxicity
 		* Requires cardiac monitoring due to risk of hypotension
 		* Ceased when clinical stabile and serum ion <60μmol/L
@@ -130,7 +164,19 @@ Maximal licensed dose of desferioxamine is 80mg/kg/day, though severe toxicity w
 	* **Endoscopic removal**\
 	If WBI not feasible or potentially lethal ingestion.
 
+
 **Supportive care**:
+
+* A
+	* Intubate for airway protection
+* D
+	* Low-dose sedation usually adequate
+* F
+	* RRT\
+		* For accompanying acidosis
+		* ↑ Clearance of desferrioxamine-iron complexes in presence of AKI
+	* Correct electrolytes
+
 
 **Disposition**:
 
@@ -147,6 +193,17 @@ Maximal licensed dose of desferioxamine is 80mg/kg/day, though severe toxicity w
 ## Anaesthetic Considerations
 
 ## Complications
+
+* F
+	* AKI
+* E
+	* Hypoglycaemia\
+	Liver failure.
+* G
+	* Hepatic failure\
+	Risk extends out to 5 days.
+* H
+	* Synthetic coagulopathy
 
 ## Prognosis
 

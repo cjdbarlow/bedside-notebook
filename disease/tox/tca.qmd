@@ -9,10 +9,11 @@ Present with features of:
 	* Mydriasis
 	* Dry mouth and skin
 	* Urinary retention
-* **α-blockade**
+* **α~1~-blockade**
 	* Hypotension
-* **↓ Catecholamine reuptake**\
-Initial ↑ sympathetic tone with hypertension followed by prolonged decreased tone and hypotension.
+* **↓ Catecholamine reuptake**
+	* Initial ↑ sympathetic tone with hypertension
+	* Secondary by prolonged ↓ sympathetic tone and hypotension
 
 
 ## Epidemiology and Risk Factors
@@ -67,15 +68,44 @@ Asymptomatic window for up to 6 hours.
 ## Management
 
 :::priority
-* **Activated charcoal**
-* Treat **arrhythmias** and **seizures**
-* **Induce alkalosis** with sodium bicarbonate
+* Give **activated charcoal**
+* **Induce alkalosis** with sodium **bicarbonate**
 * **Normalise physiology**\
-Hypothermia, acidosis, and hypotension all ↑ toxicity.
+Hypothermia and hypotension all ↑ toxicity.
+* Treat **arrhythmias** and **seizures**
 :::
 
-**Resuscitation**:
+:::column-margin
+Sodium bicarbonate is beneficial through a number of mechanisms:
 
+* Alkalosis
+	* ↑ Unionised portion of drug (pKa 8.4) ↓ free drug by:
+		* Facilitating distribution into peripheral compartments
+		* ↑ Protein binding
+	* ↓ Binding of TCA to channel
+	* Corrects any of the usual physiological detriments of acidosis
+* Sodium
+	* Directly antagonises Na^+^ channel blockade
+:::
+
+**Specific therapy**:
+
+* Pharmacological
+	* **Induce alkalosis**: Target pH 7.5-7.55\
+	Indicated for ↑ QRS. Mechanisms include:
+		* Sodium bicarbonate\
+		Preferable as ↑ Na^+^ overcomes Na^+^-channel blockade.
+		* Hyperventilation\
+		Does not provide the benefits that sodium does, and undesirably ↓ CBF.
+	* Activated charcoal\
+	Multi-dose.
+* Procedural
+* Physical
+
+**Supportive care**:
+
+* A
+	* Intubation for airway protection
 * C
 	* Fluid resuscitation
 	* Antiarrhythmics
@@ -84,23 +114,10 @@ Hypothermia, acidosis, and hypotension all ↑ toxicity.
 * D
 	* Seizure control\
 	May need intubation and propofol infusion.
-* F
-	* Induce alkalosis\
-	↑ Unionised portion of drug (pKa 8.4) which ↑ distribution into peripheral compartments and away from heart.
-		* Sodium bicarbonate\
-		Preferable as ↑ Na^+^ overcomes Na^+^-channel blockade.
-		* Hyperventilation
+* E
+	* Normothermia
 
 
-**Specific therapy**:
-
-* Pharmacological
-	* Activated charcoal\
-	Multi-dose.
-* Procedural
-* Physical
-
-**Supportive care**:
 
 **Disposition**:
 

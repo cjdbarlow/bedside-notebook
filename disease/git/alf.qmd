@@ -1,30 +1,30 @@
 # Acute Liver Failure
 
-Rapidly progressive, life-threatening development of **coagulopathy**, **encephalopathy**, and **jaundice** in a patient with a previously normal liver due to massive liver parenchymal injury. ALF is subclassified by time interval between jaundice and encephalopathy:
+Rapidly progressive, life-threatening development of **coagulopathy** (INR >1.5), **encephalopathy**, and **jaundice** in a patient with a previously normal liver due to massive liver parenchymal injury. ALF is subclassified by time interval between jaundice and encephalopathy:
 
-* Hyperacute\
+* **Hyperacute**\
 Encephalopathy within 7 days. Typically:
 	* Severe encephalopathy, coagulopathy, ↑ ICP, and very deranged LFTs\
 	Encephalopathy usually preceeds jaundice.
 	* Common aetiologies: paracetamol, viral hepatitis
 	* Higher rate of spontaneous recovery
-* Acute\
+* **Acute**\
 Encephalopathy within 28 days. Typically:
 	* More gradual decline
 	* Common aetiologies: idiosyncratic drug reactions, viral hepatitis
-* Subacute\
+* **Subacute**\
 Encephalopathy within 3 months. Typically:
 	* Less deranged LFTs
 	* Common aetiologies are drug or immune-mediated disease and *un*likely to be pregnancy-related or viral. 
 	* Poorest recovery in absence of transplantation
-
+	* Greatest degree of jaundice
 
 
 :::column-margin
 Acute Liver Failure is distinct from:
 
 * **Acute Liver Injury**\
-Coagulopathy in absence of encephalopathy.
+Coagulopathy and jaundice in absence of encephalopathy.
 * **Acute on Chronic Liver Failure**\
 Acute decline in liver function in patients with chronic liver disease.
 :::
@@ -105,7 +105,7 @@ Cause varies substantially with geography.
 History:
 
 :::column-margin
-The Parson-sSmith scale grades hepatic encephalopathy into:
+The Parson-Smith scale grades hepatic encephalopathy into:
 
 1. Mild confusion/irritability, ↓ attention
 2. Disorientation, drowsiness, inappropriate
@@ -132,79 +132,79 @@ Examination:
 	* Cushing's triad
 * Jaundice
 
+{{< include /includes/hepatic_enceph.qmd >}}
 
 ## Diagnostic Approach and DDx
 
 ## Investigations
 
-Blood:
+Laboratory:
 
-* Liver function testing\
-Severity and pattern of injury:
-	* Hepatocellular
-	* Cholestatic
-* Point of care coagulation studies\
-*May* be more accurate than standard assays.
-* Coagulation studies
-	* Synthetic function
-* Lactate\
-Failure of hepatic clearance.
-* Ammonia\
-Neurotoxin responsible for much of hepatic encephalopathy. ↑ Ammonia may reflect:
-	* Hepatic metabolic dysfunction\
-	Degree of hepatic dysfunction typically correlates with ammonia level, though not with the degree of encephalopathy.
-	* ↑↑ Protein intake
-	* ↑ GI ammonia production\
-	Produced by gut bacteria.
-	* ↓ Clearance\
-	Urea cycle disorder.
-* UEC\
-	* AKI
-	* Electrolyte derangements
-* FBE
-	* Anaemia
-	* Thrombocytopaenia
-	* Concurrent infection
-* Lipase/amylase
-	* Associated pancreatitis
-* Paracetamol level
-* LDH\
-Malignancy.
-* Viral screen\
-Aetiology. Include:
-	* Hepatitis A
-	* Hepatitis B\
-	Core antigen indicates infection. Surface antigen often negative.
-	* Hepatitis C\
-	Positive antibodies indicate infection.
-	* Hepatitis E\
-	Positive antibodies indicate infection. Usually faecal-oral, though a subtype is transmissable by blood.
-	* EBV
-	* HSV
-	* VZV
-	* HIV 1/2
-* Autoimmune screen
-	* ANA\
-	Autoimmune.
-	* Anti-smooth muscle Ab\
-	Autoimmune.
-	* Anti-mitochondrial Ab\
-	Primary sclerosing cholangitis.
-	* Copper studies\
-	Wilson's disease.
-* Pregnancy test
+* Blood
+	* Liver function testing\
+	Severity and pattern of injury:
+		* Hepatocellular
+		* Cholestatic
+	* Point of care coagulation studies\
+	*May* be more accurate than standard assays.
+	* Coagulation studies
+		* Synthetic function
+	* Lactate\
+	Failure of hepatic clearance.
+	* Ammonia\
+	Neurotoxin responsible for much of hepatic encephalopathy. ↑ Ammonia may reflect:
+		* Hepatic metabolic dysfunction\
+		Degree of hepatic dysfunction typically correlates with ammonia level, though not with the degree of encephalopathy.
+		* ↑↑ Protein intake
+		* ↑ GI ammonia production\
+		Produced by gut bacteria.
+		* ↓ Clearance\
+		Urea cycle disorder.
+	* UEC\
+		* AKI
+		* Electrolyte derangements
+	* FBE
+		* Anaemia
+		* Thrombocytopaenia
+		* Concurrent infection
+	* Lipase/amylase
+		* Associated pancreatitis
+	* Paracetamol level
+	* LDH\
+	Malignancy.
+	* Viral screen\
+	Aetiology. Include:
+		* Hepatitis A
+		* Hepatitis B\
+		Core antigen indicates infection. Surface antigen often negative.
+		* Hepatitis C\
+		Positive antibodies indicate infection.
+		* Hepatitis E\
+		Positive antibodies indicate infection. Usually faecal-oral, though a subtype is transmissable by blood.
+		* EBV
+		* HSV
+		* VZV
+		* HIV 1/2
+	* Autoimmune screen
+		* ANA\
+		Autoimmune.
+		* Anti-smooth muscle Ab\
+		Autoimmune.
+		* Anti-mitochondrial Ab\
+		Primary sclerosing cholangitis.
+		* Copper studies\
+		Wilson's disease.
+	* Blood cultures
+	* Pregnancy test
+* Urine
+	* Drug screen
+		* Paracetamol
 
 :::column-margin
 Ammonia >200μmol/L associated with cerebral herniation.
 :::
 
-Urine:
-
-* Drug screen
-	* Paracetamol
-
-
-Radiology:
+**Imaging**:
 
 * TTE
 	* RV function
@@ -220,7 +220,7 @@ Radiology:
 Triple-phase liver.
 
 
-Pathology:
+**Other**:
 
 * Liver biopsy
 	* Rare in acute setting due to coagulopathy\
@@ -232,49 +232,21 @@ Pathology:
 
 ## Management
 
-:::info
-Goals of therapy are:
-
-* Identify cause
-* Supportive care to limit hepatic damage
-* Early identification of patients for transplant
+:::priority
+* Prevent **cerebral oedema**
+* Manage **vasodilatory shock**
+* **Treat** concurrent **sepsis**\
+Gram negative and fungal.
+* Manage **coagulopathy**
+* Early **identification** of patients for **transplant**
 	* Significant improvement in outcomes with **emergency liver transplantation**
 	* **Early** escalation to **critical care** and early referral to a **specialist centre** is essential
 :::
 
-**Resuscitation**:\
-
-* A\
-Consider securing if:
-	* High grade (III/IV) encephalopathy
-	* Need for transfer
-* B
-	* CO~2~ control for ICP management
-* C
-	* Classically distributive shock picture
-		* Noradrenaline
-* D
-	* ↑ ICP\
-		* Control with standard ICP management
+**Resuscitation**:
 
 
 **Specific therapy**:
-
-* Procedural
-	* Liver transplantation
-* Physical
-	* Extra-corporeal hepatic support\
-	Artificial, extra-corporeal liver replacement therapy. Broadly, ↓ encephalopathy and ↑ haemodynamic function without mortality benefit. May be:
-		* Biological\
-		Using human/porcine cells.
-		* Mechanical\
-		Molecular filtration.
-
-**Underlying cause**:
-
-:::column-margin
-Management of paracetamol overdose is covered under @sec-pmolod.
-:::
 
 * Paracetamol overdose
 	* **N-acetylcysteine** (NAC)\
@@ -287,7 +259,7 @@ Management of paracetamol overdose is covered under @sec-pmolod.
 		Benefit if given early.
 * Alcoholic hepatitis
 * Autoimmune hepatitis
-	* Ste
+	* Steroids
 * Mushroom poisoning
 	* Forced diuresis\
 	↑ Renal clearance of toxin. Avoid hypovolaemia.
@@ -299,18 +271,37 @@ Management of paracetamol overdose is covered under @sec-pmolod.
 	* Clot retrieval
 	* TIPS
 
+:::column-margin
+Management of paracetamol overdose is covered under @sec-pmolod.
+:::
+
 **Supportive care**:
 
 :::column-margin
 Invasive intracranial pressure monitoring associated with ~10% intracranial haemorrhage rate.
 :::
 
+* A\
+Consider **securing airway** if:
+	* High grade (III/IV) encephalopathy
+	* Need for transfer
 * B
-	* Lung protective ventilation\
+	* **Lung protective ventilation**\
 	ARDS risk.
+	* **Hyperventilation**\
+	For ICP control.
 	* Drain pleural effusions
+* C
+	* **Volume resuscitation**\
+	Can be aggressive in absence of pulmonary hypertension.
+	* MAP 65-70mmHg\
+	Or **higher** if targeting **CPP**.
+		* Noradrenaline 1^st^ line
+		* Vasopressin 2^nd^ line
+	* **Corticosteroids** for vasopressor-refractory shock
+		* Hydrocortisone 50mg IV Q6H
 * D
-	* ↑ ICP\
+	* **↑ ICP**\
 		* General measures\
 		If **grade 3/4** encephalopathy, recommend:
 			* Intubation
@@ -323,34 +314,66 @@ Invasive intracranial pressure monitoring associated with ~10% intracranial haem
 			* Ammonia >150mmolL
 			* Young
 * E
-	* ↓ BSL\
+	* ↓ **BSL**\
 	Use high-concentration dextrose to avoid cerebral oedema/↓ Na^+^.
+	* **Hypothermia** (**35°C**)\
+	In addition to ↓ in ICP, also ↓ proteolysis and ammonia production.
 * F
-	* ↓ Phosphate\
-	Replenish.
-	* RRT\
+	* **Hypernatraemia**\
+	148-152mmol/L.
+	* **RRT**\
 		* Avoid citrate!
-		* CRRT preferential due to haemodynamics
-		* In addition to standard indications, consider for:
-			* Hyperammonaemia\
-			Aim <100μmol/: to ↓ cerebral oedema.
-			* Hypothermia
+		* Use bicarbonate buffered solutions
+		* CRRT strongly preferred for haemodynamic stability
+		* Haemodiafiltration preferred\
+		Dialysis is probably more effective than filtration, but both mechanisms are effective.
+		* In addition to standard indications, initiate for:
+			* Hyperammonaemia (>100μmol/L)\
+				* Aim <60μmol/L once commenced
+				* High doses (45-90mL/kg/hr) are often used to ↑ ammonia clearance\
+				↑ Rate by 50% each time.
+			* Hyperthermia
+	* Avoid positive fluid balance
 * G
-	* Early enteral feeding\
-	May have ↑ metabolic requirements. No change in protein requirement.
-	* Lactulose\
-	Controversial. May ↓ hepatic encephalopathy but lead to gaseous intestinal distension.
-	* PPI
-	* Drain ascites\
+	* Early low-protein **enteral feeding**
+		* May have ↑ metabolic requirements\
+		* Feeding may need to be interrupted if ammonia ↑ 
+	* Hyperammonaemia
+		* **Lactulose**\
+		Controversial. May ↓ hepatic encephalopathy but lead to gaseous intestinal distension.
+	* **PPI**
+	* **Drain ascites**\
 	For haemodynamic benefit.
+	* **Extra-corporeal hepatic support**\
+	 Broadly, ↓ encephalopathy and ↑ haemodynamic function without mortality benefit.
+		* Should be regarded as experimental
+		* Can be considered for severe refractory vasodilatory shock
+		* Include:
+			* Coupled Plasma Filtration Adsorption (CPDFA)
+			* Molecular Adsorbant Recirculation System (MARS)
+			* Single Pass Albumin Dialysis (SPAD)
+		* Underlying mechanism is either:
+			* Biological\
+			Using human/porcine cells.
+			* Mechanical\
+			Molecular filtration.
 {{< include /includes/liver_coag.qmd >}}
 
+:::column-margin
+The **combination** of **hyperventilation**, **haemodiafiltration**, **hypernatraemia**, and **hypothermia** is referred to as **quadruple-H** or quad-H therapy.
+:::
 
 **Disposition**:
 
-* Liver transplant centre
+* Liver transplant centre\
+Referral if:
+	* Hepatic encephalopathy
+	* Ammonia >100μmol/L
+
 
 ### Marginal and Ineffective Therapies
+
+
 
 ## Anaesthetic Considerations
 
@@ -388,6 +411,7 @@ Invasive intracranial pressure monitoring associated with ~10% intracranial haem
 * I
 	* Infection\
 	↑ Susceptibility due to functional immunosuppression.
+
 
 ## Prognosis
 
@@ -461,3 +485,5 @@ Use an app.
 
 1. Aziz, Riaz, Jennifer Price, and Banwari Agarwal. [Management of Acute Liver Failure in Intensive Care](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7892353/pdf/main.pdf). BJA Education 21, no. 3 (March 2021): 110–16. https://doi.org/10.1016/j.bjae.2020.11.006.
 2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. Van Eldere A, Pirani T. [Liver intensive care for the general intensivist](https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/10.1111/anae.15956). Anaesthesia. 2023;78(7):884-901.
+1. Warrillow SJ, Bellomo R. [Preventing Cerebral Oedema in Acute Liver Failure: The Case for Quadruple-H Therapy](https://journals.sagepub.com/doi/10.1177/0310057X1404200114). Anaesth Intensive Care. 2014;42(1):78-88.

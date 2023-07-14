@@ -1,0 +1,275 @@
+# Haemophagocytic Lymphohistiocytosis {#sec-hlh}
+
+Life-threatening hyperimmune state characterised by excessive macrophage and T-cell activation secondary to ↑ cytokine production, which may be either:
+
+* Congenital
+* Acquired\
+Relatively underdiagnosed, precipitants include:
+	* Infection
+	* Malignancy
+	* Rheumatological disease\
+	Also known as **macrophage activation syndrome** in this context.
+
+:::column-margin
+The name comes from the blood film findings which demonstrate macrophages ingesting other blood cells.
+:::
+
+:::column-margin
+The division between congenital and acquired forms are becoming blurred; as there is ↑ recognition of the interplay of genetic, disease, and environmental factors that may lead to different clinical disease expression. That aside, for practical purposes the information here refers to adult expressions HLH.
+:::
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+Two complementary mechanisms:
+
+1. **Loss** of inflammatory **negative feedback** mechanisms\
+Genetic mutation in genes that prevent positive feedback loops occurring in inflammation.
+	* Primary determinant in paediatric presentations
+	* Less important in adult HLH
+2. **Inflammatory trigger**
+	* Infection
+	* Malignancy
+
+
+### Aetiology
+
+Causes include:
+
+* Infection
+* Malignancy
+	* Haematological malignancy
+		* Lymphomas
+* Transplantation
+	* Solid organ
+	* Bone marrow transplant
+* Immunotherapy
+	* CAR-T therapy 
+
+: Infectious Causes of Haemophagocytic Lymphohistiocytosis
+
++-----------------------------+-------------------------+---------------------------+---------------------+
+| Viral                       | Bacterial               | Fungal                    | Parasitic           |
++=============================+=========================+===========================+=====================+
+| * EBV                       | * *Mycobacteria* spp.   | * *Histoplasma*           | * *Leishmania* spp. |
+| * CMV                       | * *Rickettsia* spp.     | * *Pneumocystis jiroveci* | * *Plasmodium* spp. |
+| * HSV                       | * *Legionella* spp.     | * *Candida* spp.          | * *Toxoplasma* spp. |
+| * HHV-6                     | * *Staphylococcus* spp. | * *Aspergillus* spp.      |                     |
+| * VZV                       | * *E. coli*             |                           |                     |
+| * Adenoviruses              |                         |                           |                     |
+| * Enteroviruses             |                         |                           |                     |
+| * Hepatitis viruses         |                         |                           |                     |
+| * HIV                       |                         |                           |                     |
+| * Parvovirus B19            |                         |                           |                     |
+| * Dengue/Ebola viruses      |                         |                           |                     |
+| * Influenza A\              |                         |                           |                     |
+| Particularly H5N1 and H1N1. |                         |                           |                     |
++-----------------------------+-------------------------+---------------------------+---------------------+
+
+:::column-margin
+EBV may be a direct trigger, or cause HLH via an associated malignancy.
+:::
+
+
+## Clinical Features
+
+Features include:
+
+* CNS features\
+25-50% of cases, may rarely occur without systemic features:
+	* Delirium → obtundation → coma
+	* Focal deficits
+	* Headaches
+	* Meningism
+	* PRES
+* Haematological features
+	* Splenomegaly
+	* Hepatomegaly
+	* Petechiae → generalised purpura
+* Inflammatory features
+	* **Fever**\
+	Classically persistent, non-remitting, and non-responsive to antibiotics.
+	* Capillary leak
+	* Rashes
+	* Lymphadenopathy
+	* Myocarditis
+	* ARDS
+	* AKI
+
+## Assessment
+
+**History**:
+
+**Exam**:
+
+### Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+* Blood
+	* Diagnosis
+		* FBE\
+		Cytopenias.
+		* Iron studies
+		* Soluble CD25\
+		Indicates T-cell activation.
+		* Blood film
+	* Complications
+		* LFTs\
+		Hepatitic picture.
+		* ↑ Triglycerides
+		* Coagulation abnormality\
+		Hyperfibrinolysis from macrophage activation.
+	* Precipitant
+		* HIV
+		* ANA
+		* Viral PCR
+		* 1,3-β-D-glucan
+
+:::column-margin
+![Haemophagocytosis](/resources/hlh.jpg)
+:::
+
+**Imaging**:
+
+* CT\
+For malignancy or occult infection. 
+
+**Other**:
+
+* Bone marrow biopsy
+	* Repeat biopsy may be required\
+	Insensitive in early disease.
+* Lumbar puncture
+	* Primary indication is exclusion of alternative diagnoses
+	* Must be balanced against any risk with coagulopathy
+	* May demonstrate haemophagocytosis
+
+
+### Diagnostic Approach and DDx
+
+Congenital HLH is diagnosed on genetic testing. Acquired HLH requires **five** of:
+
+:::column-margin
+Genes which may accrue mutations consistent with HLH include: PRF1,UNC13D, Munc18-2, Rab27a, STX11, SH2D1A, or BIRC4.
+:::
+
+* **Fever**
+* **Splenomegaly**
+* **Poly-cytopenia**\
+⩾2 cell lines.
+* Histological evidence of **haemophagocytosis**
+* **Ferritin** >500μg/mL\
+May be substantially higher:
+	* \>3000μg/mL is concerning
+	* \>10,000μg/mL is 96% specific and 90% sensitive in children
+* Low or absent NK activity
+* Soluble IL-2 receptor CD25 >2400U/mL\
+The utility of this is questionable in practice given the long turna round time.
+
+:::column-margin
+There is a substantial overlap in features with sepsis (see @sec-sepsis); consider HLH as a differential diagnosis in septic patients without a source.
+:::
+
+:::column-margin
+Implementing these criteria disease is hard in practice:
+
+* Haemophagocytosis is *in*sensitive early in disease
+* NK-cell activity and CD25 have a long latency before they return
+* Critically ill patients are critically ill, and require immediate management
+:::
+
+
+## Management
+
+:::priority
+* Treat underlying disease
+* Immunosuppression
+	* Corticosteroids
+	* Anakinra
+:::
+
+**Resuscitation**:
+
+**Specific therapy**:
+
+* Pharmacological
+	* Corticosteroids
+		* Daily steroid
+			* **Dexamethasone** 15-20mg IV daily\
+			Preferred in neurological disease due to CNS penetration.
+		* Pulsed steroids\
+		Typically preferred for rheumatological disease:
+			* **Methylprednisolone** 1g IV daily for 3 days, then 2-3mg/kg/day
+	* **Anakinra** 1-2mg/kg SC Q12H\
+	Preferable to steroids inf the diagnosis is unclear.
+	* IVIG 2g/kg
+	* Later-line therapies\
+	Discuss with a haematologist:
+		* Cyclosporin
+		* Etoposide
+* Procedural
+	* Bone marrow transplant\
+	Considered in selected cases.
+* Physical
+
+:::column-margin
+Anakinra is a recombinant IL-1 receptor antagonist that ↓ the cytokine storm.
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+* Plasma exchange
+
+## Anaesthetic Considerations
+
+## Complications
+
+* Death\
+40%; ↑ risk with:
+	* Neurological symptoms
+	* Ferritin >5,000μg/mL
+* H
+	* DIC
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+
+
+
+# Procedure
+
+## Indications
+
+## Contraindications
+
+## Anatomy
+
+## Equipment
+
+## Technique
+
+## Complications
+
+
+---
+
+## References
+
+1. Bauchmuller K, Manson JJ, Tattersall R, et al. [Haemophagocytic lymphohistiocytosis in adult critical care](https://journals.sagepub.com/doi/10.1177/1751143719893865). Journal of the Intensive Care Society. 2020;21(3):256-268. doi:10.1177/1751143719893865

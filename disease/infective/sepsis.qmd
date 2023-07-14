@@ -152,7 +152,7 @@ Organisms most commonly associated with sepsis include:
 
 
 
-## Clinical Manifestations
+## Clinical Features
 
 Heterogenous and non-specific features:
 
@@ -167,33 +167,6 @@ Heterogenous and non-specific features:
 			* Immunosuppressed
 			* Malnourished
 
-
-## Diagnostic Approach and DDx
-
-Diagnosis of sepsis is difficult.
-
-* Clinical
-	* Signs are non-specific
-		* Changes with local infection
-		* May not be present in:
-			* Elderly
-			* Immunocompromised
-	* Findings may reflect other forms of shock
-* Laboratory
-	* Markers are non-specific
-	* Microbiological samples:
-		* Take significant time to process\
-		Requires treatment to be initiated in advance of knowing.
-		* Must distinguish infection from colonisation\
-		Requires clinical interpretation.
-
-:::column-margin
-The qSOFA is a quick screening tool to identify patients who should be *considered* for sepsis workup, and requires **⩾2 of**:
-
-* Altered mentation
-* RR >22
-* SBP <100mmHg
-:::
 
 ## Investigations
 
@@ -227,6 +200,37 @@ The qSOFA is a quick screening tool to identify patients who should be *consider
 	* Blood cultures\
 	Prior to antibiotics.
 
+
+## Diagnostic Approach and DDx
+
+Diagnosis of sepsis is difficult.
+
+* Clinical
+	* Signs are non-specific
+		* Changes with local infection
+		* May not be present in:
+			* Elderly
+			* Immunocompromised
+	* Findings may reflect other forms of shock
+* Laboratory
+	* Markers are non-specific
+	* Microbiological samples:
+		* Take significant time to process\
+		Requires treatment to be initiated in advance of knowing.
+		* Must distinguish infection from colonisation\
+		Requires clinical interpretation.
+
+:::column-margin
+The qSOFA is a quick screening tool to identify patients who should be *considered* for sepsis workup, and requires **⩾2 of**:
+
+* Altered mentation
+* RR >22
+* SBP <100mmHg
+:::
+
+:::column-margin
+There is a substantial overlap in features with HLH (see @sec-hlh); consider HLH as a differential diagnosis in septic patients without a source.
+:::
 
 ## Management {#sec-sepsis_mx}
 

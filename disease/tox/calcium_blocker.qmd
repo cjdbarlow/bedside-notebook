@@ -1,6 +1,10 @@
 # Calcium-channel Blockers
 
-Subclass selectivity is not typically seen in overdose, and cardiac effects predominate:
+Calcium channel blocker overdose produces 
+
+:::column-margin
+Non-dihydropyridine (diltiazem, verapamil) are the agents of concern. Dihydropyridine overdose typically causes isolated hypotension with a compensatory *tachy*cardia, although subclass selectivity is lost in massive overdose and myocardial suppression (and *brady*cardia) can occur.
+:::
 
 * ↓ HR
 * ↓ BP
@@ -8,6 +12,7 @@ Subclass selectivity is not typically seen in overdose, and cardiac effects pred
 	* ↓ SVR
 
 ## Epidemiology and Risk Factors
+
 
 ## Pathophysiology
 
@@ -18,7 +23,48 @@ Subclass selectivity is not typically seen in overdose, and cardiac effects pred
 
 ### Aetiology
 
-## Clinical Manifestations
+Calcium channel blockers:
+
+* Have high PO absorption
+* Are highly protein bound
+* Hepatically metabolised
+* Include:
+	* Phenylalkylamines
+		* Greatest cardio-selectivity
+		* Include:
+			* Verapamil
+				* Slow-release preparation
+	* Benzothiazepine
+		* Mid-range cardioselectivity
+		* Include:
+			* Diltiazem
+	* Dihydropyridines
+		* Least cardioselective
+		* Include:
+			* Amlodipine
+			* Felodipine
+			* Nimodipine
+
+
+## Clinical Features
+
+Cardiac:
+
+* Bradyarrhythmias
+	* ↓ HR
+	* AV nodal blockade\
+	Full spectrum is possible.
+* Hypotension
+
+
+Extra-cardiac: 
+
+* **↑ BSL**
+
+:::column-margin
+Unlike calcium channel blockers, β-blockers can also cause bronchospasm, and will typically **↓** the BSL.
+:::
+
 
 ## Diagnostic Approach and DDx
 
@@ -33,6 +79,15 @@ Subclass selectivity is not typically seen in overdose, and cardiac effects pred
 **Other**:
 
 ## Management
+
+:::priority
+* Give **activated charcoal**
+* Treat **haemodynamics**\
+Pacing may be required; chemical may be ineffective.
+* **High-dose insulin**
+* Consider **intralipid**
+:::
+
 
 **Resuscitation**:
 
@@ -49,22 +104,22 @@ Subclass selectivity is not typically seen in overdose, and cardiac effects pred
 			* Infusion can be considered but requires close monitoring
 		* Insulin
 	* Bradycardia
-		* Atropine
+		* Atropine\
+		Unlikely to be effective.
 		* Cardiac pacing
-
-:::column-margin
-{{< include /includes/hiet.qmd >}}
-:::
 
 **Specific therapy**:
 
 * Pharmacological
-	* Activated charcoal
+	* **Activated charcoal**
 		* Within 1-hour of immediate release ingestion
 		* Any time after sustained release ingestion
 			* Consider multiple (Q4H) dosing
+	{{< include /includes/hiet.qmd >}}
+	* **Intralipid**
 * Procedural
 * Physical
+
 
 **Supportive care**:
 

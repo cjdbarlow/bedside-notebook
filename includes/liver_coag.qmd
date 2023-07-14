@@ -2,12 +2,18 @@
 	* Coagulopathy\
 		* Patients may be prothrombotic, anti-thrombotic, or fibrinolytic
 		* Assays themselves (both coagulation profiles and point-of-care testing) may not correlate with the observed clinical effect
-		* Treat if bleeding
+		* Treat if bleeding or:
+			* Prior to procedures
+			* INR >5\
+			May require continuous FFP infusion in unstable patients.
+			* Fibrinogen <0.8
+			* Platelets <20×10^9^/L
 		* Consider treating prior to procedures
 		* Therapeutic options:
-			* Vitamin K\
+			* Vitamin K 10mg IV daily\
 			Very reasonable, probably ineffective in the majority of patients.
 			* PCC\
 			Useful for factor replacement without volume load.
 			* Fibrinogen\
 			Target >1.5g/L. Dysfibrinogenaemia is likely in chronic disease.
+	* Individualisation of thromboprophylaxis

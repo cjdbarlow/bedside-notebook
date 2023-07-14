@@ -67,6 +67,8 @@ Table editor:
 		* Where would CLABSI go...
 		* NSTI
 	* Dissolve "systemic" section
+* Immune vs haeme? Combine them?
+	* Consistency between disease and management
 
 * Dissolve ICU 'concepts' into a more appropriate category (or at least some of, ?organ donation separately)
 

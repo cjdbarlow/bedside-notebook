@@ -51,6 +51,21 @@ Mental state change and extrapyramidal symptoms.
 
 ## Diagnostic Approach and DDx
 
+Diagnosis requireds:
+
+* Use of neuroleptic medication
+* Muscle rigidity
+* Fever
+* ⩾2 of:
+	* Tremor
+	* Altered conscious state
+	* ↑ HR
+	* HTN or labile BP
+	* Diaphoresis
+	* Leukocytosis
+	* Rhabdomyolysis
+	* Leukocytosis
+
 :::column-margin
 Serotonin Syndrome is a always a differential for NMS.\
 \
@@ -59,24 +74,32 @@ Serotonin Syndrome is a always a differential for NMS.\
 
 ## Management
 
-**Resuscitation**:
-
-* D
-	* Sedation
-		* Benzodiazepines
-* E
-	* Neuromuscular blockade\
-	May ↓ hyperthermia.
+:::priority
+* Cease offending agent
+* Manage **hyperthermia**
+* **Give dopminergic**
+:::
 
 
 **Specific therapy**:
 
 * Pharmacological
-	* Bromocriptine 2.5-5mg PO/NG Q8H
+	* Dopaminergic agent
+		* Bromocriptine 2.5-5mg PO/NG Q8H
+		* Amantadine
 * Procedural
 * Physical
 
 **Supportive care**:
+
+* D
+	* Sedation
+		* Benzodiazepines
+* E
+	* Manage hyperthermia
+		* Neuromuscular blockade
+		* Active cooling
+
 
 **Disposition**:
 

@@ -5,7 +5,7 @@ This covers amphetamines including ecstasy and MDMA.
 :::
 
 :::column-margin
-This covers specific features of amphetamine toxicity. The general approach to management of a poisoning is covered under @sec-poison_mx.
+This covers specific features of amphetamine toxicity. The general approach to management of a poisoning is covered under @sec-tox.
 :::
 
 
@@ -51,8 +51,10 @@ Severe:
 ## Management
 
 :::priority
-* Benzodiazepines are the mainstay for agitation or psychosis
+* Manage **agitation** with **benzodiazepines**\
+This also treats haemodynamic effects and ↓ stroke risk.
 * Treat concomitant serotonin syndrome
+* Rhabdomyolysis prevention
 :::
 
 :::column-margin
@@ -64,13 +66,43 @@ Management of serotonin syndrome is covered under @sec-serotonin.
 **Specific therapy**:
 
 * Pharmacological
-	* Benzodiazepines
-	* Mixed α/β-antagonists for refractory hypertension
 * Procedural
 * Physical
 	* Cooling
 
 **Supportive care**:
+
+* A
+	* Intubation may be required for:
+		* Safety
+		* To manage sedation
+* C
+	* Hypertension control\
+	Once agitation is controlled, consider:
+		* Pure α-antagonist\
+		* Mixed α/β-antagonists for refractory hypertension
+		e.g. Phentolamine.
+		* GTN/SNP
+* D
+	* **Benzodiazepines**\
+	First line for:
+		* Agitation
+		* Haemodynamic control when agitation still present
+		* Seizures
+	* Post-intubation sedation
+		* Propofol
+		* Dexmedetomidine
+* E
+	* Maintain normothermia
+		* Neuromuscular blockade
+		* Active cooling
+* F
+	* Maintain adequate urine output\
+	↓ Risk of rhabdomyolysis-associated AKI. 
+
+:::column-margin
+The hyperthermia of sympathomimetic toxicity is not due to an altered hypothalamic set point - paracetamol is ineffective.
+:::
 
 **Disposition**:
 

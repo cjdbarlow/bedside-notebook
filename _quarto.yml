@@ -28,7 +28,7 @@ format:
         toc: true
         toc-title: "On this Page"
         bread-crumbs: false
-        style: floating
+        style: docked
         ## Tables and figures
         tbl-cap-location: top
         fig-cap-location: top
@@ -255,6 +255,7 @@ book:
             - management/haeme/antiplatelets.qmd
           - part: "Immunological"
             chapters:
+            - management/haeme/immunosuppression.qmd
             - management/haeme/ivig.qmd
             - management/haeme/plasmapheresis.qmd
             - management/haeme/stem_cell.qmd
@@ -989,6 +990,7 @@ book:
         - part: "Poisons"
           chapters:
           - disease/tox/alcohols.qmd
+          - disease/tox/amanita.qmd
           - disease/tox/co.qmd
           - disease/tox/cyanide.qmd
           - disease/tox/paraquat.qmd
@@ -1006,6 +1008,7 @@ book:
           # TENS/SJS
         - part: "Immunomodulatory"
           chapters:
+          - disease/haeme/hlh.qmd
           - disease/immune/iris.qmd
           - disease/immune/gvhd.qmd
         - part: "Rheumatology"

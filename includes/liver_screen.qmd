@@ -1,0 +1,30 @@
+* Viral hepatitis screen
+	* Hepatitis A/B/C
+	* EBV
+	* CMV
+* Autoimmune screen
+	* Anti-mitochondrial antibodies (AMA)
+	* Antinuclear antibodies (ANA)
+	* Anti-smooth muscle antibodies (ASMA)
+	* p-Anti-Neutrophil Cytoplasmic Antibodies (p-ANCA)
+* α~1~-antitrypsin
+* Infiltrative disease
+	* Copper
+	* Ceruloplasmin
+	* Ferritin
+* Paracetamol level
+* Evidence of liver dysfunction
+	* BSL
+	* Coagulation profile\
+	Presence of synthetic dysfunction.
+		* ↑ INR if fat-soluble vitamin intake, absorption, or storage are impaired
+		* ↑ APTT if synthesis impaired
+		* Mixing studies demonstrate reversibility
+	* Ammonia
+* Concomitant pancreatic dysfunction
+	* Amylase
+	* Lipase
+
+:::column-margin
+Coagulation testing is covered in detail under @sec-coag_ix.
+:::

@@ -2,6 +2,7 @@
 ABG: Arterial Blood Gas
 AC: Alternating Current or Assist Control
 ACA: Anterior Cerebral Artery
+ACLF: Acute-on-Chronic Liver Failure
 ACh: Acetylcholine
 AChE: Acetylcholinesterase
 ACS: Acute Coronary Syndrome or Abdominal Compartment Syndrome
@@ -36,6 +37,7 @@ BNP: Brain Natriuretic Peptide
 BSA: Body Surface Area
 BTPS: Body Temperature and Pressure, Standard
 CAC: Citric Acid Cycle
+CAR-T: Chimeric-Antigen Receptor T-cell
 CAUTI: Catheter Associated UTI
 CBD: Common Bile Duct
 CBF: Cerebral Blood Flow
@@ -113,6 +115,7 @@ GSW: Gunshot Wound
 GvHD: Graft versus Host Disease
 H2RB: Histamine-2 Receptor Blocker (Antagonist)
 HAART: Highly active antiretroviral therapy
+HAGMA: High Anion Gap Metabolic Acidosis
 HAP: Hospital-Acquired Pneumonia
 Hb: Haemoglobin
 HCM: Hypertrophic Cardiomyopathy
@@ -194,6 +197,7 @@ MS: Mitral Stenosis
 MSFP: Mean Systemic Filling Pressure
 MTP: Massive Transfusion Protocol
 MV: Minute Ventilation or Mitral valve
+NAGMA: Normal Anion Gap Metabolic Acidosis
 NAPQI: N-acetyl-p-benzoquinone imine
 NASH: Non-Alcoholic Steatohepatitis
 NCSE: Non-convulsive Status Epilepticus

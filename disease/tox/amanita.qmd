@@ -1,0 +1,76 @@
+# Death Cap Mushroom
+
+The death cap mushroom, *Amanita phalloides*, produces **amatoxin** which irreversibly binds to RNA polymerase II, preventing DNA transcription and subsequent protein synthesis, leading to cell death.
+
+
+## Epidemiology and Risk Factors
+
+* Most common toxic mushroom poisoning in Victoria
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Features
+
+## Assessment
+
+**History**:
+
+**Exam**:
+
+### Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+**Imaging**:
+
+**Other**:
+
+### Diagnostic Approach and DDx
+
+
+## Management
+
+:::priority
+Goals of management
+:::
+
+**Resuscitation**:
+
+**Specific therapy**:
+
+* Pharmacological
+	* Multi-dose activated charcoal
+	* Silibinin 5mg/kg for 1 hour, then 20mg/kg/day for 3 days
+	Competitive inhibitor of amatoxin membrane transport, ↓ hepatocyte uptake. Alternatives include:
+		* Rifampicin 600mg daily
+		* Benzylpenicillin 600mg/kg/day
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bahemia N. [Something she ate?](https://intensiveblog.com/labs-and-lytes-040/). Intensive. 2023.

@@ -1,7 +1,7 @@
 # Salicylates {#sec-tox_salicylate}
 
 :::info
-Salicylates include aspirin and Oil of Wintergreen, which has ↑↑ toxic potential due to ↑ drug concentration.
+Salicylates include aspirin and Oil of Wintergreen. The Oil has ↑↑ toxic potential due to ↑ drug concentration.
 :::
 
 Salicylate overdose classically causes:
@@ -17,6 +17,9 @@ Late sign indicating imminent demise. Produces a HAGMA due to:
 	* Salicylate anion production
 	* Uncoupled oxidative phosphorylation
 
+:::column-margin
+Nausea and vomiting occur due to irritation of both gut mucosa and the medullary chemoreceptor trigger zone.
+:::
 
 ## Epidemiology and Risk Factors
 
@@ -87,9 +90,9 @@ Many **bedside ABG** machines **mistake salicylate** for **chloride** and **inco
 ## Management
 
 :::priority
-* Activated charcoal
-* Treat seizures
-* Urinary alkalinisation or RRT
+* **Activated charcoal**
+* Treat **seizures**
+* **Urinary alkalinisation** or **RRT**
 :::
 
 **Resuscitation**:
@@ -104,18 +107,35 @@ Many **bedside ABG** machines **mistake salicylate** for **chloride** and **inco
 	* Seizures
 		* Benzodiazepines
 
+
 **Specific therapy**:
 
+:::column-margin
+Activated charcoal and urinary alkalinisation are covered in detail under @sec-tox.
+:::
+
 * Pharmacological
-	* Activated charcoal\
+	* **Activated charcoal**\
 	Up to 8 hours following overdose.
-	* Urinary alkalinisation
+	* **Alkalinisation**
+		* ↑ Urine pH traps salicylate ions in urine, ↑ elimination
+		* ↑ Blood pH prevents salicylate movement into CSF
 * Procedural
-	* RRT\
-	Very effective.
+	* RRT
+		* ↑ Clearance
+		* Allows control of volume when bicarbonate is ↑
 * Physical
 
+
 **Supportive care**:
+
+* B
+	* Hyperventilation\
+	To aid alkalinisation.
+* F
+	* Correct hypokalaemia\
+	Hypokalaemia will ↑ DCT K^+^/H^+^ exchange, acidifying urine.
+	
 
 **Disposition**:
 

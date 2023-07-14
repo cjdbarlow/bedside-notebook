@@ -1,28 +1,49 @@
 # Cyanide Toxicity {#sec-cyanide}
 
+Cyanides inhibit cellular respiration binding to the ferric ion of cytochrome oxidase, leading to histotoxic hypoxia and cellular asphyxia.
+
+:::column-margin
+Cyanides are any chemical compound that contain the $C \equiv N^-$ functional group; the most infamous being hydrogen cyanide ($HC \equiv N$) or prussic acid which has a bitter almond-odor and was the key component in Zyklon B.
+:::
+
 
 ## Epidemiology and Risk Factors
 
 ## Pathophysiology
 
-Cyanide binds to the ferric ion of cytochrome oxidase, leading to histotoxic hypoxia and cellular asphyxia.
 
 ### Aetiology
 
-## Clinical Manifestations
+Cyanide may be produced in:
 
-Moderate:
+* Fires\
+Classically burning plastics in an enclosed space.
+* Animal traps
+* Plants
+	* Apricot pits
+	* Bitter almonds
+	* Peach stones
+* Industrial processes
 
-* Brief loss of consciousness
-* Seizures
-* Vomiting
 
-Severe:
+## Clinical Features
 
-* Coma
-* Respiratory depression
-* ↓ BP
-* Metabolic acidosis
+: Features of Cyanide Toxicity
+
++-----------------+----------------------------+
+| Moderate        | Severe                     |
++=================+============================+
+| * Brief syncope | * Stupor                   |
+| * Seizures      | * Respiratory depression   |
+| * Dizziness     | * Opisthotonus             |
+| * Restlessness  | * Fixed, dilated pupils    |
+| * Vomiting      | * ↑ CvO~2~\                |
+|                 | ↓ Oxygen extraction ratio. |
+|                 | * Hypotension              |
+|                 | * Lactic acidosis          |
+|                 | * Pulmonary oedema         |
++-----------------+----------------------------+
+
 
 ## Diagnostic Approach and DDx
 
@@ -38,27 +59,47 @@ Severe:
 
 ## Management
 
-**Resuscitation**:
+:::column-margin
+* Remove cyanide through either:
+	* **Cyanide binding**
+	* **Induced methaemoglobinaemia**\
+	Binds free CN and forms cyanmethaemoglobin.
+* Supportive care
+:::
 
-* B
-	* Supplemental oxygen
+**Resuscitation**:
 
 
 **Specific therapy**:
 
 * Pharmacological
-	* Hydroxocobalamin 5g IV over 15 minutes\
-	Scavenges cyanide, which is then renally cleared.
-	* Dicobalt edetate 300mg IV over 1 minute followed by 50mL of 50% dextrose
-		* Reserved for confirmed severe toxicity as it may cause seizures, airway oedema, and hypotension
-	* Sodium thiosulphate 12.5g over 10 minutes\
-	Converts cyanide to thiocyante, which is renally cleared.
-	* Sodium nitrate or amyl nitrate\
-	Produces methaemoglobin, and subsequently cyanomethaemoglobin.
+	* **Cyanide binders**
+		* **Hydroxocobalamin** 5g IV over 15 minutes\
+		Scavenges cyanide, which is then renally cleared.
+			* Non-toxic\
+			Therefore, can be given impirically.
+		* **Dicobalt edetate** 300mg IV over 1 minute followed by 50mL of 50% dextrose
+			* Reserved for confirmed severe toxicity as it may cause seizures, airway oedema, and hypotension
+		* Sodium thiosulphate 12.5g over 10 minutes\
+		Converts cyanide to thiocyante, which is renally cleared.
+	* **Induce methaemoglobinaemia**
+		* Sodium nitrate or amyl nitrate\
+		Produces methaemoglobin, and subsequently cyanomethaemoglobin.
+		* Methylene blue
 * Procedural
 * Physical
 
 **Supportive care**:
+
+* B
+	* Supplemental oxygen
+* C
+	* Vasoactive support
+* F
+	* Correct acidosis
+		* Bicarbonate
+		* Consider RRT
+
 
 **Disposition**:
 
@@ -81,3 +122,4 @@ Severe:
 ## References
 
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. Hall AH, Rumack BH. [Clinical toxicology of cyanide](https://pubmed.ncbi.nlm.nih.gov/3526995/). Ann Emerg Med. 1986;15(9):1067-1074. doi:10.1016/s0196-0644(86)80131-7

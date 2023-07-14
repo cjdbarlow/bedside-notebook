@@ -1,28 +1,77 @@
-# Cholinergic
+ Cholinergic
 
+:::info
+Cholinergic toxicity is almost always due to inhibition of the acetylcholinesterase enzyme, and so is also known as **anticholinesterase toxicity**.
+:::
 
 ## Epidemiology and Risk Factors
 
 ## Pathophysiology
 
+ACh receptors are divided into:
+
+* Muscarinic\
+May be excitatory or inhibitory, and typically slower than nicotinic receptors. Present in the:
+	* PNS\
+	Modulate rather than drive activity.
+		* Smooth muscle\
+		*Not* skeletal muscle.
+	* SNS\
+	Sweat glands.
+	* CNS
+* Nicotinic\
+Are excitatory, and present in the:
+	* Skeletal NMJ
+	* Autonomic ganglia
+	* CNS
+
+Acetylcholine is normally cleaved by the acetylcholinesterase enzyme, inhibition of which leads to an ↑ in ACh. These can be classified into:
+
+* **Reversible**
+	* Edrophonium
+	* Neostigmine
+	* Pyridostigmine
+* **Irreversible**\
+Phosphorylates active site with the the bond becoming stronger over time.
+	* Organophosphates
+
 ### Aetiology
 
 ## Clinical Features
 
-* Bronchorrhoea
-* ↓ HR
-* Diaphoresis
+: Features of Cholinergic Toxicity
+
++-------------------+-----------------------------------------+
+| Muscarinic        | Nicotinic                               |
++===================+=========================================+
+| Parasympathetic:  | Neuromuscular effects:                  |
+|                   |                                         |
+| * Bronchospasm    | * Fasciculations → tremor               |
+| * Bronchorrhoea   | * Weakness → paralysis                  |
+| * ↓ HR            |                                         |
+| * Miosis          | Adrenal stimulation:                    |
+| * Diaphoresis     |                                         |
+| * ↑ GI secretions | * ↑ HR                                  |
+| * Urination       | * HTN                                   |
+| * Diarrhoea       | * Mydriasis\                            |
+|                   | Overtakes muscarinic effects at ↑ dose. |
+|                   | * Sweating                              |
+|                   | * Urinary retention                     |
++-------------------+-----------------------------------------+
+
 
 :::column-margin
-The classic mnemonic for cholinergic toxicity is SLUDGE:
+The classic mnemonic for the *muscarinic* features of cholinergic toxicity is **SLUDGEM**:
 
-* Siallorhoea
+* Salivation
 * Lacrimation
 * Urination
 * Diarrhoea
 * Gastrointestinal upset
 * Emesis
-::
+* Miosis
+:::
+
 
 ## Assessment
 
@@ -36,6 +85,10 @@ The classic mnemonic for cholinergic toxicity is SLUDGE:
 
 **Laboratory**:
 
+* Cholinesterase mixing study
+	* Serum of patient, reference, and 1:1 mix are tested
+	* Presence of free organophosphate will inhibit cholinesterase in the mixed sample
+
 **Imaging**:
 
 **Other**:
@@ -46,7 +99,9 @@ The classic mnemonic for cholinergic toxicity is SLUDGE:
 ## Management
 
 :::priority
-Goals of management
+* Decontamination
+* **Atropine** to antagonise muscarinic effects
+* **Pralidoxime** to reactivate the receptor
 :::
 
 **Resuscitation**:
@@ -54,10 +109,31 @@ Goals of management
 **Specific therapy**:
 
 * Pharmacological
+	* **Activated charcoal**
+	* **Atropine**\
+	Muscarinic antagonist.
+		* Very high (grams) doses may be required
+		* Does not reverse nicotinic effects
+	* **Pralidoxime**\
+	May be used for reversible or irreversible causes.
+		* Reactivates phosphorylated cholinesterase
+		* Early administration (ideally <24-48 hours) more effective
+		* 2g Q6H until asymptomatic for 24 hours
 * Procedural
+	* **NG drainage**
 * Physical
+	* Remove clothing
+	* Wash skin with water and soap
 
 **Supportive care**:
+
+* A
+	* Intubation\
+	Avoid suxamethonium.
+* B
+	* Mechanical ventilation
+* C
+	* Vasoactive support
 
 **Disposition**:
 

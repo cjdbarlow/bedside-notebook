@@ -1,4 +1,4 @@
-# Haemostatic Assays
+# Haemostatic Assays {#sec-coag_ix}
 
 Coagulation testing can be divided into tests of:
 
@@ -87,6 +87,10 @@ Also known as the Partial Thromboplastin Time (PTT), or historically as the kaol
 :::
 
 Time taken for blood to clot after addition of some reagent. The APTT is:
+
+:::column-margin
+I remember this as **heparintrinsic**, as heparin is measured using the APTT.
+:::
 
 * A test of the **intrinsic pathway**
 * Highly variable between laboratories\
