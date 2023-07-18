@@ -1,9 +1,9 @@
 # Immune Reconstitution Inflammatory Syndrome {#sec-iris}
 
-**Dysregulated and hyper-inflammatory state** that due to an abrupt shift from an **anti-inflammatory** and **immunosuppressed** state **to** a **pro-inflammatory** state.
+**Dysregulated**, **hyper-inflammatory state** that occurs due to an abrupt shift from an **anti-inflammatory** and **immunosuppressed** state **to** a **pro-inflammatory** state.
 
 :::column-margin
-Although IRIS can occur in any patient seeing a recovery of suppressed immune function, the disease was originally described in HIV patients commencing HAART who paradoxically developed opportunistic infections, and most of the evidence (and therefore this summary) relates to this population.
+Although IRIS can occur in any patient seeing a recovery of suppressed immune function, the disease was originally described in HIV patients commencing HAART who paradoxically developed opportunistic infections, and most of the evidence relates to this population.
 :::
 
 Diagnosis requires both **improving immunologic function** and one of either:
@@ -75,9 +75,10 @@ IRIS requires both recovery from an immunosuppressed state and a precipitant:
 	SLE, RA.
 
 
-## Clinical Manifestations
+## Clinical Features
 
-Clinical features relate to the presenting symptoms of the precipitating illness.
+Relate to the presenting symptoms of the precipitating illness.
+
 
 ## Diagnostic Approach and DDx
 
@@ -99,18 +100,19 @@ Differential is broad, and includes:
 ## Management
 
 :::priority
-* Treat underlying cause
-* Consider altering immunotherapy
+* **Treat** underlying **cause**
+* Consider **altering immunotherapy**
 * Symptomatic relief
 :::
 
 **Specific therapy**:
 
 * Pharmacological
-	* Continue or consider adjusting HAART\
-	* Corticosteroids
-		* 0.5-1mg/kg/day prednisolone
-	* Infliximab
+	* Continue or consider adjusting HAART
+	* Immunosuppression
+		* Corticosteroids
+			* Prednisolone 0.5-1mg/kg/day 
+		* Infliximab
 
 
 ## Complications

@@ -1,8 +1,8 @@
 # Aspergillosis
 
-Fungal infection by the ***Aspergillus*** mould family with a broad **spectrum** of clinical **disease** from:
+Fungal infection by the ***Aspergillus*** mould family with a **broad spectrum** of clinical **disease** from:
 
-* **Hypersensitivity**\
+* **Hypersensitivity** (allergic bronchopulmonary aspergillosis)\
 Colonisation is usually benign, but allergic bronchopulmonary aspergillosis can result and progress to:
     * Asthma
     * Bronchiectasis
@@ -10,11 +10,14 @@ Colonisation is usually benign, but allergic bronchopulmonary aspergillosis can 
 * **Aspergilloma**
 * **Necrotising pneumonia**
 * **Invasive aspergillosis**\
-Severe respiratory failure, usually with different preceding course depending on immune function.
+Severe respiratory failure, usually with different preceding course depending on immune function:
     * **Neutropenic**\
-    Refractory fever, extra-pulmonary infection (abscesses), and pulmonary infarction.
+        * Refractory fever
+        * Extra-pulmonary infection\
+        Abscesses.
+        * Pulmonary infarction
     * **Non-neutropenic**\
-    Mimics bacterial pneumonia with dyspnoea and sputum production predominating.
+    Mimics bacterial pneumonia with dyspnoea and sputum production as the dominant features.
 
 
 ## Epidemiology and Risk Factors
@@ -71,11 +74,13 @@ Fungal pneumonia:
     * "Classical" features of cavitation and aspergilloma formation are rarer
 
 
-## Clinical Manifestations
-
-The majority of cases are secondary mycoses of the immunosuppressed, although can occur in otherwise immunocompetent patients with intercurrent illness.
+## Clinical Features
 
 Features include:
+
+:::column-margin
+The majority of cases are secondary mycoses of the immunosuppressed, although can occur in otherwise immunocompetent patients with intercurrent illness.
+:::
 
 * Respiratory failure
     * Resting hypoxaemia
@@ -100,8 +105,6 @@ In the immunocompromised, haematogenous dissemination and rampant infection can 
 * Endophthalmitis
 * Abscesses
 
-## Diagnostic Approach and DDx
-
 
 ## Investigations
 
@@ -119,15 +122,15 @@ Galactomannan is a cell wall polysaccharide found in *aspergillus*, ice cream, s
     * FBE
         * Eosinophilia
         * Neutropenia
-    * Serum galactomannan
+    * **Serum galactomannan**
         * Moderately sensitive (75%) and specific (85%) at a cutoff of >0.5\
         Higher cutoffs ↑ specificity and ↓ sensitivity.
         * Lower sensitivity in the immunocompetent and those receiving prophylaxis
-    * β-D-glucan antigen\
+    * **(1→3)-β-D-glucan antigen**\
     Cell wall component of most fungi. Improves sensitivity and specificity in combination with galactomannan.
-    * Serum PCR\
+    * **Serum PCR**\
     Similar diagnostic properties to serum galactomannan.
-* Bronchoscopy\
+* **Bronchoscopy**\
 BAL is an integral part of adequate sampling.
     * Visual inspection
     * Fungal culture and stain\
@@ -141,7 +144,7 @@ BAL is an integral part of adequate sampling.
     * Transbronchial biopsy
         * Definitive diagnostic test
         * Risk of bleeding and pneumothorax often precludes this, particularly in the critically unwell
-* Sputum\
+* **Sputum**\
 Significantly ↓ yield compared with BAL.
     * *Aspergillus* radioallergosorbent assay
     * Silver staining
@@ -159,12 +162,14 @@ Significantly ↓ yield compared with BAL.
     * Halo sign\
     Ground-glass opacity around a nodule or mass, usually indicating haemorrhage secondary to pulmonary infarction.
     * Air crescent sign\
-    Halo of air around a region of necrosis, and indicates recovery.
+    Halo of air around a region of necrosis; indicates recovery.
 
 :::column-margin
-![](/resources/monod.jpg)\
-\
-![](/resources/air-crescent-sign.jpg)
+![Monod](/resources/monod.jpg)
+:::
+
+:::column-margin
+![Air Crescent Sign](/resources/air-crescent-sign.jpg)
 :::
 
 **Other**:
@@ -172,14 +177,15 @@ Significantly ↓ yield compared with BAL.
 * Open lung biopsy\
 Rarely indicated due to risk of procedure.
 
+## Diagnostic Approach and DDx
+
+
 ## Management
 
 :::info
 Aggressiveness of antifungal treatment depends on the severity of clinical presentation, and usually begins prior to diagnostic confirmation due to the long lead time of specific investigations.
 :::
 
-
-**Resuscitation**:\
 
 **Specific therapy**:
 

@@ -205,10 +205,10 @@ Details of CSF findings in meningitis are covered under @sec-csf.
 	Significantly ↓ sensitivity for meningitis compared with pneumonia, but cheap and non-invasive.
 * LP
 	* Required to completely confirm diagnosis
-	* However, contraindications are common
+	* However, contraindications are common:
 		* Coagulopathy
 		* ↑ ICP, or significant clinical concern of such
-	* **Empirical antibiotics should be commenced if there is delay**
+	* **Empirical antibiotics should be commenced if there is delay performing LP**
 	* Urgent **Gram stain** and culture
 	* Specific antigen investigations:
 		* Viral PCR

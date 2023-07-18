@@ -47,16 +47,16 @@ Globally important public health disease:
 
 
 
-## Clinical Manifestations
+## Clinical Features
 
-Following a 5-14 day incubation period:
+Following a **5-14 day incubation** period:
 
 :::column-margin
-![](/resources/conj_suffusion.jpg)
+![Conjunctival Suffusion](/resources/conj_suffusion.jpg)
 :::
 
-* Leptospiraemia phase\
-Typically last ~7 days.
+* **Leptospiraemia** phase\
+Typically lasts **~7 days**.
 	* Specific
 		* Myalgia
 			* Calves
@@ -70,8 +70,8 @@ Typically last ~7 days.
 			* Photophobia
 		* Myalgia
 		* Vomiting
-* A brief intermission of 1-3 days
-* Leptospiruria\
+* A brief **intermission** of 1-3 days
+* **Leptospiruria** phase\
 Severe disease occurs:
 	* Weil's disease
 	* Pulmonary haemorrhage syndrome
@@ -103,7 +103,7 @@ Common differentials:
 ## Investigations
 
 :::info
-Dark-field microscopic examination of blood, urine, CSF, or other fluids (dialysate!) are diagnostic.
+Stain poorly with common stains; dark-field microscopic examination of blood, urine, CSF, or other fluids (dialysate!) are diagnostic.
 :::
 
 **Bedside**:
@@ -128,7 +128,9 @@ Dark-field microscopic examination of blood, urine, CSF, or other fluids (dialys
 	* Cultures\
 	During the first **week**, during **leptospiruria** phase.
 * CSF
-	* Pl
+	* Leukocytosis
+	* ↑ Protein
+	* Normal glucose
 
 
 **Imaging**:
@@ -136,9 +138,6 @@ Dark-field microscopic examination of blood, urine, CSF, or other fluids (dialys
 **Other**:
 
 ## Management
-
-**Resuscitation**:\
-
 
 **Specific therapy**:
 

@@ -1,7 +1,7 @@
 * [CandiSep](https://link.springer.com/article/10.1007/s00134-022-06733-x) (2022)
 	* 342 Adults with sepsis at risk of invasive candidiasis, but without proven fungal infection and not on fungal treatment
 	* Blood cultures performed and randomised to:
-		* (1 → 3)-β-D-Glucan testing performed on blood cultures\
+		* (1→3)-β-D-Glucan testing performed on blood cultures\
 		Fungal cell wall component that can be detected prior to cultures becoming positive.
 		* Standard cultures
 	* β-D-Glucan group received more (57% vs 27%) and earlier (1.1 vs 4.4 days) antifungal treatment without a change in mortality

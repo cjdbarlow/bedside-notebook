@@ -1,74 +1,64 @@
 # Pulmonary Hypertension
 
+Elevated **mean PAP ⩾20mmHg**; and is classified by both:
 
-Defined as a **mean PAP ⩾20mmHg**; and is classified by either:
-
-* Aetiology
-* Function
-
-### Aetiological Classification
-
-Into **five** types:
-
-* Type 1: Primary pulmonary **arterial** hypertension\
-Also known as pre-capillary pulmonary hypertension, as the primary disease is elevated *arterial* pressure.
-	* Defined as an **elevated PVR ⩾3 Wood Units**\
-	Suggests a poor prognosis.
-	* Causes include:
-		* Idiopathic
-		* Inheritable
-		* Drug and toxin induced
-		* PAH associated with:
-			* Connective tissue disease
-			* Congenital heart disease\
-			Due to intracardiac or extracardiac left-to-right shunts.
-			* HIV
-			* Portal hypertension
-			* Schistosomiasis
-* Type 2: Secondary to left heart disease\
-Passive transmission of elevated LAP, occurring due to LV dysfunction or valve disease. Classified into:
-	* Preserved LVEF
-	* Reduced LVEF
-	* Valvular disease
-	* Post-capillary PHTN
-* Type 3: Secondary to respiratory disease (Cor pulmonale)\
-Common complication of severe respiratory disease, but is usually mild. Includes:
-	* Obstructive disease
-	* Restrictive disease
-	* Mixed obstructive/restrictive
-	* Hypoxia without lung disease
-	* Developmental lung disorders
-* Type 4: Chronic thromboembolic PAH (CTEPH)\
-Chronic obstruction of the pulmonary bed occurring due to repeated PE.
-	* Occurs in ~3% of PE patients
-* Type 5: Uncertain mechanism of disease\
-Includes:
-	* Haematologic
-	* Metabolic
-	* Complex congenital cardiac disease
-
-
-### Functional Classification
-
-WHO definition by limitations to physical activity:
-
-* Class I\
-No limitations.
-* Class II\
-Slight limitation; comfortable at rest but **ordinary activity** leads to symptoms including:
-	* Fatigue
-	* Dyspnoea
-	* Chest pain
-	* Syncope
-* Class III\
-Marked limitation; comfortable at rest but **less than ordinary activity** leads to symptoms.
-* Class IV\
-Inability to perform **any activity** without symptoms. Patients:
-	* Manifest right heart failure
-	* May have rest symptoms\
-	Dyspnoea, fatigue.
-	* 27% 5-year survival rate without treatment\
-	↑ to 54% with treatment.
+* **Aetiology**\
+Into **five** groups:
+	* **Type 1: Primary pulmonary** arterial **hypertension**\
+	Also known as pre-capillary pulmonary hypertension, as the primary disease is elevated *arterial* pressure.
+		* Defined as an **elevated PVR ⩾3 Wood Units**\
+		Suggests a poor prognosis.
+		* Causes include:
+			* Idiopathic
+			* Inheritable
+			* Drug and toxin induced
+			* PAH associated with:
+				* Connective tissue disease
+				* Congenital heart disease\
+				Due to intracardiac or extracardiac left-to-right shunts.
+				* HIV
+				* Portal hypertension
+				* Schistosomiasis
+	* **Type 2: Secondary** to left **heart disease**\
+	Passive transmission of elevated LAP, occurring due to LV dysfunction or valve disease. Classified into:
+		* Preserved LVEF
+		* Reduced LVEF
+		* Valvular disease
+		* Post-capillary PHTN
+	* **Type 3: Secondary to respiratory disease** (Cor pulmonale)\
+	Common complication of severe respiratory disease, but is usually mild. Includes:
+		* Obstructive disease
+		* Restrictive disease
+		* Mixed obstructive/restrictive
+		* Hypoxia without lung disease
+		* Developmental lung disorders
+	* **Type 4: Chronic thromboembolic** pulmonary hypertension (CTEPH)\
+	Chronic obstruction of the pulmonary bed occurring due to repeated PE.
+		* Occurs in ~3% of PE patients
+	* **Type 5: Idiopathic**\
+	Includes:
+		* Haematologic
+		* Metabolic
+		* Complex congenital cardiac disease
+* **Function**\
+By limitations to physical activity:
+	* **Class I**\
+	No limitations.
+	* **Class II**\
+	Slight limitation; comfortable at rest but **ordinary activity** leads to symptoms including:
+		* Fatigue
+		* Dyspnoea
+		* Chest pain
+		* Syncope
+	* **Class III**\
+	Marked limitation; comfortable at rest but **less than ordinary activity** leads to symptoms.
+	* **Class IV**\
+	Inability to perform **any activity** without symptoms. Patients:
+		* Manifest right heart failure
+		* May have rest symptoms\
+		Dyspnoea, fatigue.
+		* 27% 5-year survival rate without treatment\
+		↑ to 54% with treatment.
 
 
 

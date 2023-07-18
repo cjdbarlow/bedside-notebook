@@ -3,8 +3,15 @@
 Normal body temperature is 37.0°C with a 0.5-1°C diurnal variation that peaks in the evening and is lowest at ~0600. Hyperthermia can either be:
 
 :::column-margin
-This covers management of elevated body temperature. Heat injury and heat stroke are covered under @sec-heat_inj.
+Fever and hyperthermia are often used synonymously both clinically and in the literature.\
+\
+However, there is some value in separating the two based on alteration of the hypothalamic set point; for the purpose of this section fever refers to ↑ body temperature due to ↑ hypothalamic set point.
 :::
+
+:::column-margin
+This covers management of elevated body temperature. Heat injury and heat stroke are covered under @sec-heat_inj, febrile neutropaenia and neutropaenic sepsis are covered under @sec-febrile_neut.
+:::
+
 
 * ***True* fever**\
 ↑ Temperature due to ↑ hypothalamic set point, and is **defended** by thermoregulatory mechanisms.
@@ -17,7 +24,7 @@ This covers management of elevated body temperature. Heat injury and heat stroke
 			Indication for empirical broad-spectrum antibiotics, independent of other clinical suspicion of infection.
 		* Extracorporeal circuits\
 		Expect a ~0.5°C drop in body temperature on CRRT.
-* Non-febrile hyperthermia\
+* **Non-febrile hyperthermia**\
 ↑ Temperature with a normal hypothalamic set point.
 	* Due to imbalance between mechanisms of heat gain and heat loss
 	* Causes include:
@@ -27,10 +34,6 @@ This covers management of elevated body temperature. Heat injury and heat stroke
 		Particularly in the unacclimatised, who do not exhibit the same degree of peripheral vasodilatation and sweating.
 		* Hyperthermia due to **impaired thermoregulation**
 
-
-:::column-margin
-Fever and hyperthermia are often used synonymously clinically and in the literature. However, there is some value in separating the two based on the hypothalamic set point and so for the purpose of this section fever refers to ↑ body temperature due to ↑ hypothalamic set point.\
-:::
 
 ## Fever
 
@@ -131,7 +134,7 @@ Aspirin, paracetamol.
 
 ## Pathophysiology
 
-Fever is associated with:
+Hyperthermia is associated with:
 
 * ↑ Metabolic rate
 	* ↑ Myocardial work
@@ -147,29 +150,8 @@ Suppression of fever is associated with:
 ## Investigation
 
 :::tick
-Temperature ≥38.3°C is a reasonable trigger to clinically reassess and consider cultures:
+Temperature ≥38.3°C is a reasonable trigger to clinically reassess and consider cultures.
 :::
-
-Approach:
-
-* Blood cultures\
-Should be performed when a new fever does **not strongly suggest** a **noninfectious** cause.
-	* Culture any line in place >48 hours
-* Urine\
-Generally avoid unless:
-	* Neutropenic
-	* No IDC and suspicion of UTI
-	* Structural urological abnormality
-* Specific testing:
-	* C. difficile
-	* Paracentesis\
-	If ascites.
-	* DVT/PE evaluation
-	* EVD CSF culture\
-	If in situ.
-	* LP\
-	If suggestion of meningitis.
-
 
 **Bedside**:
 
@@ -184,25 +166,47 @@ Generally avoid unless:
 **Laboratory**:
 
 {{< include /includes/blood_cultures.qmd >}}
+* Urine\
+Generally avoid unless:
+	* Neutropenic
+	* No IDC and suspicion of UTI
+	* Structural urological abnormality
+
+:::column-margin
+Blood cultures should be performed when a new fever does **not strongly suggest** a **noninfectious** cause.\
+\
+Culture any line in place >48 hours.
+:::
+
 
 **Imaging**:
 
 **Other**:
 
+* Specific testing:
+	* C. difficile
+	* Paracentesis\
+	If ascites.
+	* DVT/PE evaluation
+	* EVD CSF culture\
+	If in situ.
+	* LP\
+	If suggestion of meningitis.
+
 ## Management
 
-:::column-margin
-This applies to the management of fever in the general ICu patient, **more aggressive** temperature **control** is **required** for patients **post-arrest** or with **hyperthermic emergencies**.
-:::
-
-:::column-margin
-Post resuscitation care is covered under @sec-post_arrest. Key hyperthermic emergencies are covered under @sec-heat_inj, @sec-serotonin, @sec-nms, and @sec-mh.
+:::info
+This applies to the management of fever in the general ICU patient, more **aggressive** temperature **control** is **required** for patients **post-arrest** or with **hyperthermic emergencies**.
 :::
 
 **Specific therapy**:
 
 :::column-margin
-Treating with paracetamol at 39.5°C provides some leeway before the more important 40°C point is reached.
+Post resuscitation care is covered under @sec-post_arrest. Key hyperthermic emergencies are covered under @sec-heat_inj, @sec-serotonin, @sec-nms, and @sec-mh.
+:::
+
+:::column-margin
+Treating with paracetamol at 39.5°C provides some leeway before the more important 40°C threshold is reached.
 :::
 
 * Pharmacological

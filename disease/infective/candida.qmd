@@ -18,7 +18,7 @@ Risk factors:
 	* Transplant
 	* Haematological malignancy
 	* Diabetes
-* For non-*Albicans*
+* For non-*albicans*:
 	* **TPN**
 	* Central access
 	* Antimicrobial exposure:
@@ -42,25 +42,25 @@ Over 100 different species, ~20 of which are pathogens.
 Causes have been classically divided on epidemiological and fluconazole-sensitive grounds into:
 
 :::column-margin
-The ongoing utility of this classification is questionable as the non-Albicans infections have become increasingly common, and *albicans* has become increasingly resistant to fluconazole.
+The ongoing utility of this classification is questionable as the non-*albicans* infections have become increasingly common, and *albicans* has become increasingly resistant to fluconazole.
 ::: 
 
-* *C. Albicans*\
+* *C. albicans*\
 ~50% of all infections; less common if fluconazole prophylaxis has been used.
 * Non-Albicans infections\
 All the rest:
-	* ***C. Auris***\
+	* ***C. auris***\
 	Multi-drug resistant form, though still generally sensitive to echinocandins.
 	* *C. glabrata*\
-	~25% of infections, ↑ resistant to azoles.
+	~25% of infections, ↑ azole resistance.
 	* *C. krusei*\
-	↑ Resistant to azoles.
+	↑ Azole resistance.
 	* *C. parapsilosis*
 	* *C. dubliniensis*
 	* *C. tropicalis*
 
 
-## Clinical Manifestations
+## Clinical Features
 
 Features are non-specific and include:
 
@@ -74,9 +74,9 @@ Non-responsive to other antimicrobial therapy.
 
 Differentiating invasive candidiasis from culture of a normal commensal requires any of:
 
-* Culture from a sterile site
-	* Blood\
-	⩾2 non-contiguous sites.
+* Culture from a sterile site, e.g.
+	* Blood
+	* Body cavity
 * Culture from wound or burn site
 * Cultured species is non-commensal
 
@@ -111,6 +111,10 @@ May be suppressed during **neutropaenia**.
 
 **Specific therapy**:
 
+:::column-margin
+Antifungal therapy is covered in detail under @sec-antifungal.
+:::
+
 * Pharmacological
 	* **Antifungal**
 		* **Echinocandin** as initial therapy
@@ -134,7 +138,7 @@ May be suppressed during **neutropaenia**.
 
 ## Complications
 
-Disseminated Candida causes a large number of organ-specific complications:
+Candidiasis causes a large number of organ-specific complications:
 
 * B
 	* Pulmonary candidiasis\

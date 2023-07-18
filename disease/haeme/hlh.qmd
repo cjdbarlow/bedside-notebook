@@ -127,7 +127,7 @@ Features include:
 		* HIV
 		* ANA
 		* Viral PCR
-		* 1,3-β-D-glucan
+		* (1→3)-β-D-glucan
 
 :::column-margin
 ![Haemophagocytosis](/resources/hlh.jpg)

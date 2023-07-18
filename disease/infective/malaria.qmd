@@ -18,7 +18,7 @@ Risk factors for malaria:
 	* Non-immune
 * Environmental factors
 	* Mosquito carrier\
-	Specifically the female *Anopheline* mosquito, which are:
+	Specifically the female *Anopheles*, which are:
 		* Night feeders\
 		Dawn to dusk is the most dangerous time.
 		* Rural breeders\
@@ -30,35 +30,55 @@ Severe malaria associated iwth:
 * Children <5
 * Non-immune travelers
 * Immunosuppression
-	* Pregnant
+	* Pregnancy
 
 
 ## Pathophysiology
 
 Life-cycle:
 
-* Uninucleate sporozoites resident in mosquito salivary glands are injected into a human host during feeding
-* Sporozoites rapidly invade liver parenchyma and mature into **schizonts**
-	* Bursting of schizonts releases 2,000 to 40,000 merozoites, each of which can infective a single RBC
+* Uninucleate **sporozoites** resident in mosquito salivary glands are injected into a human host during feeding
+* **Sporozoites** rapidly **invade** **liver** parenchyma and **mature** into **schizonts**
+	* **Bursting** of **schizonts releases** 2,000 to 40,000 **merozoites**, each of which can infect a single RBC
 	* Maturation may take 1-2 years in *P. vivax* and *P. ovale* infections
-* Merozoites mature in the RBC into either:
-	* Gametocyte\
+* **Merozoites mature in** the **RBC into** either:
+	* **Gametocyte**\
 	If ingested by a mosquito during feeding, will mature in the mosquito gut over 2-3 weeks into new sporozoites.
-	* Erythrocytic schizont containing more merozoites\
-	Subsequent **rupture** of the erythrocyte releases the merozoites, and causes the cyclical fever.
+	* Erythrocytic **schizont**\
+	Contain more merozoites; subsequent **rupture** releases merozoites and causes the cyclical fever.
 
 :::column-margin
 The erythrocytic stage is the disease-causing stage; sporozoites and gametocytes are not associated with disease.
 :::
 
+:::column-margin
+Sickled cells (see @sec-hbs) haemolyse prematurely, interrupting the *Plasmodium* life-cycle.
+:::
+
 ### Aetiology
 
-## Clinical Manifestations
+## Clinical Features
 
 Presentations are divided into:
 
+:::column-margin
+Cyclical symptoms occur when maturing malarial schizonts rupture their erythrocyte host, the timing of which varies on the strain:
+
+* Tertian malaria\
+Maturation every 48 hours.
+	* *P. vivax*
+	* *P. ovale*
+* Quartan malaria\
+Maturation every 72 hours.
+	* *P. malariae*
+* *P. Falciparum*\
+Typically irregular fever spikes every 48 hours on the background of a continuous fever, but may also produce tertian malaria.
+
+![Cyclical Fevers](/resources/malaria_temp.jpg)
+:::
+
 * Uncomplicated\
-Generic viral symptoms, progressing to classical cycling fevers.
+Generic viral symptoms, progressing to classical **cyclical fevers**.
 * Severe malaria\
 Progression to organ dysfunction, most common with *P. falciparum* infection.
 
@@ -81,22 +101,6 @@ Progression to organ dysfunction, most common with *P. falciparum* infection.
 : Features of Malaria
 
 Cyclical fevers are the classical finding, and occur in **three stages**:
-
-:::column-margin
-Cyclical symptoms occur when maturing malarial schizonts rupture their erythrocyte host, the timing of which varies on the strain:
-
-* Tertian malaria\
-Maturation every 48 hours.
-	* *P. vivax*
-	* *P. ovale*
-* Quartan malaria\
-Maturation every 72 hours.
-	* *P. malariae*
-
-Falciparum is typically every 48 hours, but shows can be irregular.
-
-![](/resources/malaria_temp.jpg)}
-:::
 
 * 15-60 minutes cold shivering 
 * 2-6 hour fever (up to 41°C)  
@@ -133,6 +137,8 @@ Normalisation of temperature.
 Thick and thin films refer to the thickness of the blood on the slide.
 :::
 
+![Thin Films](/resources/thin_film.jpg)
+
 **Imaging**:
 
 **Other**:
@@ -140,10 +146,10 @@ Thick and thin films refer to the thickness of the blood on the slide.
 ## Management
 
 :::priority
-* Preventative antimalarials when visiting endemic areas
-* Standard sepsis management\
+* **Preventative antimalarials** when visiting endemic areas
+* Standard **sepsis management**\
 Covered under @sec-sepsis_mx.
-* Antimalarials
+* **Antimalarials**
 :::
 
 **Resuscitation**:
@@ -224,7 +230,6 @@ Death associated with:
 {{< include /trials/feast.qmd >}}
 
 
-
 ---
 
 ## References
@@ -232,3 +237,4 @@ Death associated with:
 1. Crutcher JM, Hoffman SL. [Malaria](https://www.ncbi.nlm.nih.gov/books/NBK8584/). In: Baron S, editor. Medical Microbiology [Internet]. 4th ed. Galveston (TX): University of Texas Medical Branch at Galveston; 1996 [cited 2023 May 1].
 2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
 3. Harvey RA, Cornelissen CN, Fisher BD. Lippincott Illustrated Reviews: Microbiology (Lippincott Illustrated Reviews Series). 3rd Ed. LWW.
+1. White NJ. [Sharing malarias](https://www.thelancet.com/journals/lancet/article/PIIS0140673604158790/fulltext). The Lancet. 2004;363(9414):1006. doi:10.1016/S0140-6736(04)15879-0

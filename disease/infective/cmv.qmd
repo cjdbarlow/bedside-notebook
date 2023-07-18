@@ -38,7 +38,7 @@ Risk factors:
 * Largest known β human herpesvirus
 * Double-stranded DNA
 * Lifelong persistent (generally latent) presence following infection
-	* Bone marrow
+	* Persists in bone marrow
 
 
 ### Aetiology
@@ -60,7 +60,7 @@ Primary infection of the immunocompetent adult:
 	* Colitis
 
 
-Infection or reactivation in the immunocompromised adult varies with the setting. In:
+Infection or reactivation in the immunocompromised adult varies with the setting:
 
 * Solid organ transplants:
 	* Disease generally localised to transplanted organ
@@ -118,7 +118,7 @@ May take up to 21 days to demonstrate positivity.
 **Specific therapy**:
 
 :::column-margin
-Curiously, aciclovir and valaciclovir both ↓ mortality of CMV despite both inhibit thymidine kinase, which is not expressed in CMV. They have fallen out of favour as they are less effective than ganciclovir.
+Curiously, aciclovir and valaciclovir both ↓ mortality of CMV despite both inhibiting thymidine kinase, which is not expressed in CMV. Irrespectively, they have fallen out of favour as they are less effective than ganciclovir.
 :::
 
 * Pharmacological
@@ -159,7 +159,7 @@ Immunocompetent:
 Transplant:
 
 * I
-	* Chronic rejection in 
+	* Chronic rejection
 
 ## Prognosis
 
