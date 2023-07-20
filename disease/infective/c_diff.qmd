@@ -1,17 +1,21 @@
 # Clostridioides Difficile
 
+:::info
+Also known as *Clostridium difficle* and *C. diff*.
+:::
+
+:::column-margin
+*Clostridium difficile* was renamed in 2016, after genetic analysis identified it should fall under the peptostreptococcaceae family, and thus be a *Peptoclostridium*.\
+\
+To avoid excessive disruption to the status quo, some microbiological taxonomy loopholes were exploited to forge a new genus *Clostridioides*, and so keep the familiar *C. diff* abbreviation.
+:::
+
 Infective diarrhoea caused by *Clostridioides Difficile* that:
 
 * May lead to pseudomembranous colitis
 * Occurs secondary to:
 	* Broad-spectrum antibiotics
 	* Chemotherapy
-
-:::column-margin
-*Clostridium difficile* was renamed in 2016, after analyses identified it should fall under the peptostreptococcaceae family, and thus be a *Peptoclostridium*.\
-\
-To avoid excessive disruption to the status quo, some microbiological taxonomy loopholes were exploited to forge a new genus *Clostridioides*, and so keep the familiar *C. diff* abbreviation.
-:::
 
 ## Epidemiology and Risk Factors
 
@@ -84,6 +88,8 @@ Features suggestive of *C. difficile*:
 
 * Characteristic stools
 	* Watery
+	* Green-ish
+	* Mucoid
 	* \>3/24 hours
 	* 3-9 days after antibiotics
 * Previous broad spectrum antibiotics
@@ -114,8 +120,13 @@ Features suggestive of *C. difficile*:
 
 **Imaging**:
 
+:::column-margin
+![Thumbprinting](/resources/thumbprinting.jpg)
+:::
+
 * AXR
-	* "Thumbprinting" of bowel
+	* "Thumbprinting" of bowel\
+	Thickening of haustra due to oedema, leading to an appearance of thumbprints projecting into the aerated colonic lumen at regular intervals.
 	* Pneumoperitoneum
 * CT
 	* Inflamed bowel
@@ -125,11 +136,16 @@ Features suggestive of *C. difficile*:
 
 **Other**:
 
+:::column-margin
+![Pseudomembranes](/resources/pseudomembranous_colitis.jpg)
+:::
+
 * Proctoscopy/flexible sigmoidoscopy
 	* Facilitates direct visualisation of pseudomembranes
 	* Method to detect severe disease
 	* Risk of perforation limits use
 	* Role in severe disease and antigen and toxin tests are negative or unavailable
+
 
 ## Management
 
@@ -236,3 +252,4 @@ Poor prognostic features include:
 1. O’Grady NP, Barie PS, Bartlett JG, et al. [Guidelines for evaluation of new fever in critically ill adult patients: 2008 update from the American College of Critical Care Medicine and the Infectious Diseases Society of America](https://journals.lww.com/ccmjournal/Fulltext/2008/04000/Guidelines_for_evaluation_of_new_fever_in.40.aspx). Critical Care Medicine. 2008;36(4):1330.
 1. Diseases TLI. [C difficile—a rose by any other name…](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(19)30177-X/fulltext). The Lancet Infectious Diseases. 2019;19(5):449. doi:10.1016/S1473-3099(19)30177-X
 1. Johnson S, Lavergne V, Skinner AM, et al. [Clinical Practice Guideline by the Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA): 2021 Focused Update Guidelines on Management of Clostridioides difficile Infection in Adults](https://academic.oup.com/cid/article/73/5/e1029/6298219). Clinical Infectious Diseases. 2021;73(5):e1029-e1044. doi:10.1093/cid/ciab549
+1. Case courtesy of Derek Smith. [Thumprinting](https://radiopaedia.org/cases/31329?lang=us). Radiopaedia.org, rID: 31329.

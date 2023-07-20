@@ -71,7 +71,7 @@ Presentation due to SNS overactivity, with compensatory PNS responses:
 	* Above level
 		* Sweating\
 	* Below level
-		* Palor
+		* Pallor
 		* Piloerection
 
 ## Diagnostic Approach and DDx
@@ -81,17 +81,19 @@ Presentation due to SNS overactivity, with compensatory PNS responses:
 ## Management
 
 :::priority
-* Identify and remove obvious causes
-* Control BP
-* BP may drop precipitously folllowing removal of stimulus.
+* Identify and **remove** obvious **causes**
+* **Control HTN**
+:::
+
+:::column-margin
+Blood pressure may drop precipitously following removal of stimulus.
 :::
 
 **Resuscitation**:
 
 :::column-margin
-Common precipitants of autonomic dysreflexia include:
+Ask the patient/carer for any previous precipitants. Common causes include:
 
-* Ask the patient/carer
 * Limb constriction
 	* Loosen constrictive clothing
 * Urinary retention

@@ -104,12 +104,7 @@ Red cell abnormalities are covered in detail under @sec-rbc.
 **Preventative**:
 
 * Immunocompromise
-	* Vaccination
-		* Pneumococcal
-		* *H. influenzae* type B
-		* Meningococcal
-		* Influenza
-	* Prophylactic antibiotics
+{{< include /includes/asplenia.qmd >}}
 * Thrombosis\
 ↑ Risk following splenectomy, management options include:
 	* Aspirin

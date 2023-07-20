@@ -1,6 +1,6 @@
 # Tuberculosis
 
-Devastating mycobacterial disease that with substantial global morbidity and mortality. Tuberculosis manifestations that may draw attention of intensive care include:
+Devastating mycobacterial disease that causes substantial global morbidity and mortality. Tuberculosis manifestations that may draw attention of the intensivist include:
 
 * Pulmonary TB
 * Miliary TB\
@@ -29,17 +29,17 @@ Mycobacterial tubercule is a fastidious mycobacterium, **inhalation** of which l
 
 * **Immediate clearance**\
 No lasting consequences.
-* **Primary\progressive disease**\
+* **Primary/progressive disease**\
 Results in pulmonary infection, with or without lymphohaematogenous seeding to distant sites.
      * Occasionally leads to:
         * Miliary TB
         * Cerebral TB
-* **Chronic\latent infection**
-* **Secondary\Reactivation TB**\
+* **Chronic/latent infection**
+* **Secondary/Reactivation TB**\
 Occurs when dormant mycobacteria reactivate.
     * Secondary **pulmonary disease** develops **apical lesions** that undergo **caseation necrosis**\
     Leads to **cavitation** with surrounding fibrosis.
-        * Caseous soup drains into bronchi, stimulating coughing which facilitates spread to **Other**:
+        * Caseous soup drains into bronchi, stimulating coughing which facilitates spread to other:
             * Parts of the lung
             * People 
     * **Meningeal disease** develops due to **haematogenous spread**\
@@ -134,9 +134,13 @@ Late signs.
 **Laboratory**:
 
 :::column-margin
-**Acid-fast** refers to bacilli that have waxy (classically mycolic acids) substances in their cell wall, which retain a carbolfuchsin stain after being washed in an acidic solution.\
+**Acid-fast** refers to bacilli that have waxy (classically mycolic acids) substances in their cell wall, which retain a carbol fuchsin stain after being washed in an acidic solution.\
 \
 The classic acid-fast stain is the **Ziehl-Neelsen** stain.
+:::
+
+:::column-margin
+Adenosine deaminase is an enzyme that degrades immunosuppressive signalling by adenosine, and is locally upregulated in the presence of ↑ lymphocytes.
 :::
 
 * Nucleic acid amplification\

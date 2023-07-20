@@ -39,6 +39,10 @@ Ensure you can safely access the patient.
 
 ### Catastrophic Haemorrhage
 
+:::priority
+**Prevent exsanguination**.
+:::
+
 **Assessment**:
 
 :::column-margin
@@ -65,7 +69,7 @@ To artery proximal to injury.
 ### Airway
 
 :::priority
-Goal is to **restore** airway **patency**.
+**Restore** airway **patency**.
 :::
 
 **Assessment**:
@@ -93,18 +97,18 @@ Ask the patient to:
 **Management**:
 
 :::column-margin
-Head tilt is contraindicated in spinal injury due to displacement of trachea; mandibular manipulations are safe and probably more effective.
+Head tilt is contraindicated in spinal injury; mandibular manipulations are safe and probably more effective.
 :::
 
-* Basic airway maneuvres
+* Basic airway manoeuvres
 	* Chin lift
 	* Jaw thrust
 * Place OPA
 * Consider NPA\
 Relatively contraindicated if concern for base of skull fractures.
 * Intubate\
-Consider when:
-	* Patient, team, and environment are optimised.\
+Considerations:
+	* Patient, team, and environment are optimised\
 	Roles assigned (including MILS).
 	* SpO2 <93%
 	* GCS <8
@@ -113,19 +117,19 @@ Consider when:
 ### Breathing
 
 :::priority
-Goal is to ensure **adequate oxygenation**.\
+Ensure **adequate oxygenation**.\
 :::
 
 **Assessment**:
 
 :::column-margin
-Mnemonic for respiratory assessment is **RU IN SHAPE**). 
+Mnemonic for respiratory assessment is **RU IN SHAPE**. 
 :::
 
 * Respiratory Rate\
 Significant when:
-	* RR > 20
-	* RR < 8
+	* RR >20
+	* RR <8
 * Unequal movements
 * Injuries\
 Major thoracic trauma.
@@ -187,8 +191,8 @@ Central capillary return is used due to:
 	Key makers.
 		* Present
 		* \>120
-* Sources of bleeding
-**SCALPER**:
+* Look for bleeding\
+Sources are **SCALPER**:
 	* Scalp
 	* Chest
 	* Abdomen\
@@ -268,7 +272,7 @@ Management of TBI is covered under @sec-trauma_tbi.
 ### Exposure
 
 :::priority
-* Identify potential missed injuries; particularly on the **back**
+* Identify **potential missed injuries**; particularly on the **back**
 * **Prevent hypothermia**
 :::
 
@@ -322,6 +326,12 @@ Diagnostic peritoneal lavage is a bedside test to evaluate presence of abdominal
 	6 units for major trauma.
 	* FBE
 	* Coag
+
+
+**Imaging**:
+
+* CXR
+* Pelvic XR
 
 
 ## Key Studies

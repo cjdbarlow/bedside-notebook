@@ -1,13 +1,10 @@
 # Acalculous Cholecystitis
 
-Gallbladder **inflammation** in **absence** of **obstruction** that:
+Gallbladder **inflammation** in **absence** of **obstruction** that leads to **ischaemia** and subsequent **necrosis**, biliary gangrene, and septic shock. Strongly associated with critical illness, in particular severe:
 
-* Leads to **ischaemia** and subsequent **necrosis**, biliary gangrene, and septic shock
-* Is associated with critical illness\
-Notably:
-	* Trauma
-	* Burns
-	* Sepsis
+* Trauma
+* Burns
+* Sepsis
 
 
 ## Epidemiology and Risk Factors
@@ -30,17 +27,18 @@ Notably:
 | Other     | * Fasting          | * Prolonged hospital stay |
 +-----------+--------------------+---------------------------+
 
+
 ## Pathophysiology
 
 Disease develops due to a combination of:
 
-* Gallbladder ischaemia\
+* **Gallbladder ischaemia**\
 Leading to gangrenous areas. Due to:
 	* ↓ Splanchnic blood flow
 		* Shock
-* Bile stasis\
+* **Bile stasis**\
 Leads to biliary distension. Due to lack of normal gall bladder contraction and emptying.
-* ↑ Bile viscosity\
+* **↑ Bile viscosity**\
 Leading to high concentration of bile salts and bile stasis. Due to:
 	* Volume depletion
 	* Dehydration
@@ -48,7 +46,7 @@ Leading to high concentration of bile salts and bile stasis. Due to:
 	Results in further ↑ in bile viscosity.
 
 
-## Clinical Manifestations
+## Clinical Features
 
 * Fever
 * Abdominal pain
@@ -56,6 +54,7 @@ Leading to high concentration of bile salts and bile stasis. Due to:
 * RUQ crepitus
 * Jaundice\
 Rarely.
+
 
 ## Diagnostic Approach and DDx
 
@@ -88,22 +87,23 @@ Features include:
 	"Champagne sign".
 	* Gall bladder perforation
 * CT\
-Similar accuracy to CT, with similar findings.
+Similar accuracy to ultrasound, with similar findings.
 * Cholescintigraphy\
 	* Most sensitive
 	* Can quantify gallbladder ejection fraction
 	* Low utility in the critically ill due to the hours-long test time
 
+
 ## Management
 
 :::priority
-* Standard sepsis management\
+* Standard **sepsis management**\
 Covered under @sec-sepsis_mx.
-* Intra-abdominal antibiotic cover
-* Procedural intervention in selected cases
+* **Intra-abdominal antibiotic** cover
+* **Procedural intervention** in selected cases
 	* Low-risk cases can be treated effectively with antibiotics alone
-	* High-risk cases may be so morbid so as to preclude cholecystectomy\
-	Percutaneous cholecystotomy remains an option in many of these.
+	* High-risk cases may be so morbid so as to preclude cholecyst*ectomy*\
+	Percutaneous cholecyst*otomy* remains an option in many of these.
 :::
 
 **Specific therapy**:
@@ -154,6 +154,7 @@ Antibiotic regimen chosen should cover streptococci, enterococci, Enterobacteria
 * I
 	* Intraabdominal sepsis\
 	Perforation occurs in ~10%.
+
 
 ## Prognosis
 

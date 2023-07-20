@@ -1,6 +1,6 @@
 # Streptococci {#sec-strep}
 
-Ovoid gram positive organisms that come in pairs (diplococci) or chains, and are subdivided into:
+Ovoid Gram positive organisms that come in pairs (diplococci) or chains, and are subdivided into:
 
 * **α-Haemolytic**\
 Produce **green rings** around colonies on agar. Includes:
@@ -12,7 +12,7 @@ Cause lysis of cells, resulting in **clear rings** around colonies, and further 
 	* Group A: *S. pyogenes*
 	* Group B: *S agalactiae*
 * **γ-Haemolytic**\
-No change around colonies. Includes (note can be also α-haemolytic):
+Generally no change around colonies, although may be also α-haemolytic. Includes:
 	* *S. bovis*
 	* *S. mutans*
 * **Enterococci**
@@ -54,7 +54,7 @@ Divides β-haemolytic streptococci into several groups based on cell wall compos
 
 ### Group A
 
-**Group A** is synonymous with ***S. Pyogenes***:
+**Group A** is synonymous with ***S. pyogenes***:
 
 * **Reservoir in** skin and mucous membranes of **humans**\
 **Spread by contact** from person to person. 
@@ -207,7 +207,6 @@ Other van genes exist, they are less clinically relevant.
 		* Vancomycin\
 		Alternative if penicillin allergy and clindamycin resistant.
 	* **VRE**
-		* Isolation
 		* Contact precautions
 		* Antimicrobials
 			* Linezolid

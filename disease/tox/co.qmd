@@ -1,6 +1,6 @@
-# Carbon Monoxide
+# Carbon Monoxide {#sec-carbon_monoxide}
 
-Carbon monoxide is a toxic gas that has **high affinity** for haemoglobin, displacing oxygen from haemoglobin binding sites resulting in a significant fall in blood oxygen carrying capacity and cellular hypoxia.
+Carbon monoxide is a **toxic gas** that has **high affinity** for **haemoglobin**, displacing oxygen from haemoglobin binding sites resulting in a significant **fall** in blood **oxygen carrying capacity** and cellular hypoxia.
 
 :::column-margin
 Carbon monoxide is also:

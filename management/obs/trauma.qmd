@@ -30,18 +30,15 @@ Up to 50%.
 * ↑ Stomach acid volume
 	* ↑ Aspiration risk
 
+
 ### Aetiology
 
-## Clinical Manifestations
-
-## Diagnostic Approach and DDx
+## Clinical Features
 
 ## Investigations
 
 :::info
-Radiation risk to the foetus should be weighted up against risk of missing an injury. In general:
-
-* Life-threatening injures require the same imaging as in the non-pregnant patient
+Radiation risk to the foetus should be weighted up against risk of missing an injury. In general, life-threatening injures require the same imaging as in the non-pregnant patient.
 :::
 
 **Bedside**:
@@ -57,6 +54,9 @@ Radiation risk to the foetus should be weighted up against risk of missing an in
 **Other**:
 
 * Continuous cardiotocography
+
+## Diagnostic Approach and DDx
+
 
 ## Management
 

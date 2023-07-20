@@ -1,6 +1,10 @@
 # Spontaneous Bacterial Peritonitis
 
-**Spontaneous infection** of (usually cirrhosis-associated) **ascites** without an intra-abdominally surgically treatable source, which may present as:
+**Infection** of **ascitic** fluid occurring in absence of any evident infective source, which may present as:
+
+:::column-margin
+SBP is generally a monomicrobial infection. **Multiple organisms** suggests **secondary peritonitis** from faecal contamination, which is a surgical disease.
+:::
 
 * Florid sepsis
 * Insidious decline
@@ -28,8 +32,6 @@ Major factors:
 
 * Ascites is a ready-made, continuously available viable culture medium
 * Immunosuppression secondary to chronic liver disease
-* **Single organism** indicates SBP\
-**Multiple organisms** suggests faecal contamination or **secondary peritonitis**, which is generally a surgical disease.
 
 
 ### Aetiology
@@ -38,7 +40,7 @@ Causative organisms:
 
 * *E. coli*: 37%
 * *K. pneumoniae*: 17%
-* Other gram positives: 14%
+* Other Gram positives: 14%
 * *S. pneumoniae*: 12%
 * Other gram negatives: 10%
 * *S. viridans*: 9%
@@ -77,7 +79,7 @@ Indicated by:
 	Two of:
 		* Protein >1g/dL
 		* Glucose <3mmol/L
-		* LDH > ULN serum LDH
+		* LDH > ULN of serum LDH
 
 
 ## Investigations

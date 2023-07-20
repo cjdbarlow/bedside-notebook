@@ -1,20 +1,17 @@
 # Toxic Shock Syndrome {#sec-toxic_shock}
 
-Syndrome of **severe distributive shock** and generalised **inflammation** that occur **secondary** to **bacterial endotoxin** that:
+Syndrome of **severe distributive shock** and generalised **inflammation** that occur **secondary** to **bacterial endotoxin** that is produced by some:
 
-* Is produced by some:
-	* **Streptococci**
-		* Occurs in up to 20% of Streptococcal infections
-		* Much more common that staphylococcal toxic shock
-		* Due to:
-			* *S. pyogenes*
-			* *S. dysgalactiae* subspecies *equisimilis*
-	* Staphylococci
-		* Less common
-		* May occur with colonisation without infection
-		* Usually due to *S. Aureus* (MRSA or MSSA)
-* Occurs in non-immune individuals\
-Most people develop antibodies to these toxins.
+* **Streptococci**
+	* Occurs in up to 20% of Streptococcal infections
+	* Much more common that staphylococcal toxic shock
+	* Due to:
+		* *S. pyogenes*
+		* *S. dysgalactiae* subspecies *equisimilis*
+* **Staphylococci**
+	* Less common
+	* May occur with colonisation without infection
+	* Usually due to *S. Aureus* (MRSA or MSSA)
 
 :::column-margin
 Streptococcal and staphylococcal toxic shock syndromes are similar enough to be merged. An overview of these pathogens can be found @sec-strep and @sec-staph.
@@ -52,6 +49,10 @@ Staphylococcal toxic shock:
 ## Pathophysiology
 
 Bacteria secrete endotoxin:
+
+:::column-margin
+Most people develop antibodies to bacterial endotoxin, TSS occurs in non-immune individuals.
+:::
 
 * Bind to T-cell Major Histocompatibility COmplex
 * Stimulates T-lymphocyte response\
@@ -131,7 +132,7 @@ Consider if:
 * Pregnancy
 
 :::column-margin
-The US CDC has published diagnostic criteria, which are not reproduced here as they exhibit the unfortunate combination of being both very long and clinically limited.
+The US CDC has published diagnostic criteria, which are not reproduced here as they exhibit the unfortunate combination of being both very long and very limited clinical utility.
 ::: 
 
 ## Investigations
@@ -159,9 +160,10 @@ CK may also be ↑ in necrotising fasciitis.
 ## Management
 
 :::priority
-* Good sepsis resuscitation\
+* Good **sepsis resuscitation**\
 Covered under @sec-sepsis_mx.
-* Specific therapy for toxic shock is relatively benign and a low-threshold to initiate it is appropriate:
+* Specific therapy for toxic shock is relatively benign and a low-threshold to initiate it is appropriate\
+Consider with:
 	* Known or reasonable likelihood of streptococcal infection
 	* Persistent vasopressor requirements
 :::

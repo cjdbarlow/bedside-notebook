@@ -80,7 +80,7 @@ Local ischaemia extending from the site of injury, leading to haemorrhage into t
 
 ### Aetiology
 
-## Clinical Manifestations
+## Clinical Features
 
 :::caution
 Beware the **rising lesion**: An ↑ in spinal cord injury level occurring with spinal cord oedema, which may precipitate respiratory failure.
@@ -118,7 +118,7 @@ In addition to the general features described above, spinal cord injury can pres
 	* Occurs **immediately** following injury
 	* May **persist** for between **48 hours to** several **weeks**
 	* Resolves gradually
-* Involves lower motor neuron dysfunction distal to the injury:
+* Involves *lower* motor neuron dysfunction distal to the injury:
 	* Flaccid paralysis
 	* Hyporeflexia
 	* Anaesthesia
@@ -131,11 +131,11 @@ In addition to the general features described above, spinal cord injury can pres
 Shock is covered in detail under @sec-shock.
 :::
 
-* Distributive shock process due to loss of sympathetic tone
+* Distributive shock due to loss of sympathetic tone
 * May occur within 30 minutes after injury and last up to 6 weeks
 * Features include:
 	* Hypotension\
-	Significant orthostatic hypotension.
+	Significant orthostatic component.
 	* Bradycardia
 	* Hypothermia
 
@@ -165,7 +165,7 @@ Brown-Séquard Syndrome is *vanishingly* rare but remains a favourite of anatomi
 
 * Ipsilateral loss of motor, proprioception, and fine touch
 * Contralateral loss of pain and temperature sensation
-* Due to penetrating injury to half the spinal cord\
+* Due to penetrating injury to a transverse half of the spinal cord
 
 
 **Conus medullaris Syndrome**:
@@ -197,6 +197,10 @@ Injury at the thoracolumbar junction may affect both the conus medullaris and th
 
 The American Spinal Injury Association impairment scale:
 
+:::column-margin
+{{< include /includes/motor_function.qmd >}}
+:::
+
 * Is the most validated injury for diagnosis and classification of spinal cord injury
 * Can predict long-term motor outcome from initial exam
 * Involves determining:
@@ -205,7 +209,7 @@ The American Spinal Injury Association impairment scale:
 	3. Determine the **neurological level**\
 	This is the most cephalad of the levels determined in steps 1 and 2, i.e. the level where abnormality begins.
 	4. Completeness\
-	Presence of sacral sparing:
+	Presence or absence of sacral sparing, indicated by:
 		* Anal contraction
 		* Perianal sensation
 	5. Grade
@@ -215,11 +219,8 @@ The American Spinal Injury Association impairment scale:
 		* D: Motor incomplete and **<50%** of **key muscle functions** below the neurological level are **⩾3/5**
 		* E: Normal
 
-:::column-margin
-{{< include /includes/motor_function.qmd >}}
-:::
 
-![](/resources/asia_rev4-19.png)
+![ASIA Spinal Injury Classification](/resources/asia_rev4-19.png)
 
 ## Diagnostic Approach and DDx
 
@@ -250,10 +251,9 @@ Adequate **three object recall** at **5 minutes**.
 ## Investigations
 
 :::info
-* All patients not cleared on a clinical decision rule should have high-resolution multidetector row CT of the full spine\
-Experienced reporting of images.
+* All patients not cleared on a clinical decision rule should have high-resolution multidetector row CT of the full spine, with an experienced practitioner reporting the images
 * If concern despite normal CT → MRI\
-e.g. Neurological deficit, high risk injury, CT abnormalities such as osteophytes that may cloud interpretation. 
+e.g. Neurological deficit, high risk injury, CT abnormalities such as osteophytes that may cloud interpretation.
 :::
 
 **Imaging**:
@@ -315,6 +315,7 @@ Principles for airway management are covered below under anaesthetic considerati
 		* Early mobilisation
 		* Thromboprophylaxis
 * Physical
+
 
 **Supportive care**:
 
@@ -431,7 +432,7 @@ Use for mask ventilation to reduce:
 	* Vasoactive support
 		* Consider vasopressor infusion during induction
 * E
-	**Suxamethonium** is **contraindicated 48-72 hours post-injury**\
+	* **Suxamethonium** is **contraindicated 48-72 hours post-injury**\
 	Fatal hyperkalaemia may result due to up-regulation of ACh receptors.
 * G
 	* Aspiration risk\

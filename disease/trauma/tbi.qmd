@@ -120,6 +120,7 @@ Most common cause of death.
 * Industrial accidents
 * Sport
 
+: Drivers of Secondary Brain Injury
 
 +----------------------+-----------------------------+
 | Systemic             | Intracranial                |
@@ -134,8 +135,6 @@ Most common cause of death.
 | \                    |                             |
 | * Systemic infection |                             |
 +----------------------+-----------------------------+
-
-: Drivers of Secondary Brain Injury
 
 
 ## Clinical Manifestations
@@ -162,7 +161,7 @@ Examination:
 
 **Imaging**:
 
-* CTB
+* CT
 	* Goals:
 		* **Exclude** a neurosurgically **correctable mass lesion**
 		* Grade injury\
@@ -177,10 +176,10 @@ Examination:
 * MRI\
 Not indicated routinely in the acute phase. Role in:
 	* Neuroprognostication of DAI
-	* Identification intracranial vascular injury
+	* Identification of intracranial vascular injury
 
 :::column-margin
-Because EVD and ICP monitors contraindicate MRI; MRI is only able to be performed after these have been removed (generally 7 days) and so delayed prognostication is normal.
+Because EVD and ICP monitors are contraindications to MRI; MRI is only able to be performed after these have been removed (generally 7 days) and so delayed prognostication is normal.
 :::
 
 ### Marshall Classification

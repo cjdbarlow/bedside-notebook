@@ -59,7 +59,7 @@ Classically burning plastics in an enclosed space.
 
 ## Management
 
-:::column-margin
+:::priority
 * Remove cyanide through either:
 	* **Cyanide binding**
 	* **Induced methaemoglobinaemia**\
@@ -77,7 +77,7 @@ Classically burning plastics in an enclosed space.
 		* **Hydroxocobalamin** 5g IV over 15 minutes\
 		Scavenges cyanide, which is then renally cleared.
 			* Non-toxic\
-			Therefore, can be given impirically.
+			Therefore, can be given empirically.
 		* **Dicobalt edetate** 300mg IV over 1 minute followed by 50mL of 50% dextrose
 			* Reserved for confirmed severe toxicity as it may cause seizures, airway oedema, and hypotension
 		* Sodium thiosulphate 12.5g over 10 minutes\

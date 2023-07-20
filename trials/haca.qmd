@@ -12,10 +12,5 @@
 	* Stopped early for slow recruitment
 
 :::column-margin
-{{< include /includes/cpc.qmd >}}
-:::
-
-
-:::column-margin
 ![HACA Temperature](/resources/haca.jpeg)
 :::

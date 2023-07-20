@@ -117,8 +117,8 @@ And other viruses.
 **Laboratory**:
 
 :::column-margin
-Amylase has been replace by lipase and has no further role in diagnosis of pancreatitis.
-::
+Amylase has been replaced by lipase, and has little current role in the diagnosis of pancreatitis.
+:::
 
 * Blood
 	* Lipase\
@@ -147,7 +147,7 @@ Amylase has been replace by lipase and has no further role in diagnosis of pancr
 ## Management
 
 :::info
-Surgical management of pancreatitis is associated with very high mortality; treatment is supportive and surgical management should only be resorted to if it is otherwise unavoidable.
+Surgical management of pancreatitis is associated with very high mortality; supportive treatment is first line and and surgical management should only be resorted to if it is otherwise unavoidable.
 :::
 
 **Resuscitation**:
@@ -174,7 +174,7 @@ Carbapenems have exceptional penetration into pancreatic tissue, and are effecti
 	* Insulin/dextrose\
 	If hypertriglyceridaemia.
 		* Goal is to promote anabolism
-		* Effect achieve when enough insulin is provided such that the BSL does not rise in the face of dextrose infusion
+		* Effect achieved when enough insulin is provided such that the BSL does not rise in the face of dextrose infusion
 * Procedural
 	* Open necrosectomy\
 		* **Infected** collections should be managed **non-operatively** for **>4 weeks** to allow fibrous walls and liquefaction to occur

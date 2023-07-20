@@ -1,5 +1,5 @@
 * [Morelli et al](https://jamanetwork.com/journals/jama/fullarticle/1752246) (2013)
-	* 154 β-blocker-naive Italians with sepsis and a normal CI requiring noradrenaline admitted to a single ICU in Rome
+	* 154 β-blocker-naïve Italians with sepsis and a normal CI requiring noradrenaline admitted to a single ICU in Rome
 	* Single-centre, phase 2, unblinded RCT
 	* Randomised to esmolol vs. usual care
 		* Esmolol group had infusion adjusted to achieve HR 80-94

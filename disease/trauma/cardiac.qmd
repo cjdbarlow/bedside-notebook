@@ -1,12 +1,13 @@
 # Blunt Cardiac Injury
 
-Traumatic cardiac injuries incldue a spectrum of injuries:
+Traumatic cardiac injuries include a spectrum of injuries:
 
 * Minor arrhythmias
 * Complex arrhythmias
 * Free-wall rupture\
 Usually fatal.
-* Heart failure
+* Acute heart failure\
+Due to:
 	* Significant muscular injury
 	* Septal rupture\
 	Left-to-right shunt.
@@ -18,7 +19,7 @@ Usually fatal.
 
 ## Pathophysiology
 
-Injuries occur via a number of different mechanims:
+Injuries occur via a number of different mechanisms:
 
 * Compression of the heart between sternum and spine
 * Abrupt pressurisation of the cardiac chambers
@@ -53,9 +54,9 @@ Significant injury is rare if:
 
 ## Management
 
-**Resuscitation**:\
+**Resuscitation**:
 
-ABC approach. Comment on team coordination and clinical priorities.
+
 **Specific therapy**:
 
 * Pharmacological

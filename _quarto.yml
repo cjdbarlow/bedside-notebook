@@ -115,12 +115,11 @@ book:
           - management/communication/disclosure.qmd
           - management/communication/colleagues.qmd   
           - management/communication/feedback.qmd
-        - part: "Team and Environment"
+        - part: "Team"
           chapters:
-          - management/enviro/zps.qmd
-          - management/enviro/triage.qmd
-          - management/enviro/cbrn.qmd
-          - management/enviro/major.qmd
+          - management/team/zps.qmd
+          - management/team/triage.qmd
+          - management/team/major.qmd
         - part: <hr>
         - part: "Airway"
           chapters:
@@ -210,6 +209,10 @@ book:
               - management/neuro/icp.qmd
               - management/neuro/evd.qmd
               - management/neuro/brain_death.qmd
+        - part: "Endocrine and Metabolic"
+          chapters:
+          - management/endo/fever.qmd
+          - management/endo/hypothermia.qmd
         - part: "Renal and Fluid"
           chapters:
             - part: "Acid-Base"
@@ -288,9 +291,8 @@ book:
               - management/infective/needlestick.qmd
         - part: "Toxin and Environmental"
           chapters:
+          - management/enviro/cbrn.qmd
           - management/tox/poison.qmd
-          - management/tox/fever.qmd
-          - management/tox/hypothermia.qmd
         - part: "Obstetric"
           chapters:
           - management/obs/pregnancy.qmd
@@ -874,14 +876,12 @@ book:
           chapters:
           - disease/trauma/inhalational.qmd
           - disease/trauma/burns.qmd
-        - part: "Head"
+        - part: "Head and Neck"
           chapters:
           - disease/trauma/tbi.qmd
           # EDH
           # SDH
           # Traumatic SAH
-        - part: "Face and Neck"
-          chapters:
           - disease/trauma/face.qmd
           - disease/trauma/airway_trauma.qmd
         - part: "Spine"

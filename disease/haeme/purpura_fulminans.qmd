@@ -30,41 +30,42 @@ The classical DIC coagulopathy
 
 ### Aetiology
 
+: Causes of Acute Purpura Fulminans
+
 +-------------------------------------+----------------------------------+
 | Infective                           | Non-infective                    |
 +=====================================+==================================+
-| Bacterial:                          | Circulatory:                     |
+| **Bacterial**:                      | **Circulatory**:                 |
 |                                     |                                  |
 | * *S. Pneumoniae*\                  | * Vasopressor excess             |
-| Predominantly asplenic.             |                                  |
+| Predominantly asplenic patients.    |                                  |
 | * *S. Pyogenes*                     |                                  |
-| * *S. Aureus*                       | Haematological:                  |
+| * *S. Aureus*                       | **Haematological**:              |
 | * *H. Influenzae*                   |                                  |
 | * *N. Meningitidis*\                | * MAHA                           |
 | ~20%.                               | * TTP                            |
 | * Endocarditis                      | * Warfarin-induced skin necrosis |
-| * Basically any other gram negative |                                  |
+| * Basically any other Gram negative |                                  |
 |                                     |                                  |
 |                                     |                                  |
-| Viral:                              |                                  |
+| **Viral**:                          |                                  |
 |                                     |                                  |
 | * VZV                               |                                  |
 | * West Nile virus                   |                                  |
 |                                     |                                  |
 |                                     |                                  |
-| Fungal:                             |                                  |
+| **Fungal**:                         |                                  |
 |                                     |                                  |
 | * *Aspergillus* spp.                |                                  |
 | * *Cryptococcus neoformans*         |                                  |
 | * *Fusarium* spp.                   |                                  |
 |                                     |                                  |
 |                                     |                                  |
-| Parasitic:                          |                                  |
+| **Parasitic**:                      |                                  |
 |                                     |                                  |
 | * *P. Falciparum* malaria           |                                  |
 +-------------------------------------+----------------------------------+
 
-: Causes of Acute Purpura Fulminans
 
 :::column-margin
 Infective causes are significantly more common than non-infective causes.
@@ -122,8 +123,8 @@ Significantly ↑.
 ## Management
 
 :::priority
-* Treat underlying cause
-* Consider anticoagulation
+* **Treat** underlying **cause**
+* **Consider anticoagulation**
 :::
 
 

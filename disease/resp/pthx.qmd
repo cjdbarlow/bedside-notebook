@@ -32,7 +32,7 @@ Tension pneumothorax:
 * Functional one-way valve between the pleural and atmospheric spaces
 * During inspiration, $P_{pleura} < P_{atm}$, resulting in entry of gas into the pleural space
 * During expiration the valve closes, and there is no flow of gas out of the pleural space despite $P_{pleura} > P_{atm}$
-* This results in a progressive ↑ in pleurla pressure
+* This results in a progressive ↑ in pleural pressure
 
 ### Aetiology
 

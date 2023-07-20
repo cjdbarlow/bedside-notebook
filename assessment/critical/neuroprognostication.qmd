@@ -1,15 +1,15 @@
 # Neuroprognostication {#sec-neuroprog}
 
 :::info
-This is an overview of neuroprognostication tailed to cardiac arrest, although there is substantial overlap with TBI prognostication.
+This is an overview of neuroprognostication. It is generally tailored to cardiac arrest, although there is substantial overlap with TBI prognostication.
 :::
 
-Accurate prediction of neurological outcome is difficult and critical. Neurological outcome:
+Accurate prediction of neurological outcome is difficult and critical:
 
-* Major determinant of quality of life and ongoing healthcare needs
+* Neurological outcome is a major determinant of quality of life and ongoing healthcare needs
 * Overly pessimistic prognosis leads to withdrawal of life sustaining therapy in patients who could potentially recover
-* Overly optimistic views lead to prolongation of support in patients with futile injuries\
-With consequential healthcare-associated suffering:
+* Overly optimistic views lead to prolongation of support in patients with futile prognosis\
+Consequential ↑ healthcare-associated suffering:
 	* Individual loss of dignity
 	* Invasiveness of intensive care
 	* Familial exhaustion
@@ -28,11 +28,15 @@ Largely deprecated.
 * **Glasgow Outcome Scale - Extended**\
 * **Cerebral Performance Categories**\
 Derived from the Glasgow Outcome Score, and used after cardiac arrest.
-	* Typically, a **good outcome** is as **moderate or minor** disability (CPC 1-2_)
+	* Typically, a **good outcome** includes **moderate or minor** disability (CPC 1-2)
 
-:::column-margin
+
+### Glasgow Outcome Scale - Extended
+
 {{< include /includes/gos-e.qmd >}}
-:::
+
+
+### Cerebral Performance Categories
 
 {{< include /includes/cpc.qmd >}}
 
@@ -83,7 +87,7 @@ Relevant features of the neurological exam include:
 * Bloods
 	* Neuron Specific Enolase
 		* Serial measurements demonstrating repeated and ↑ levels predict poor outcome
-		* Confounded by haemolysis and NET
+		* Confounded by haemolysis and neuroendocrine tumours
 		* Unclear prognostic value
 
 **Imaging**:
@@ -97,7 +101,7 @@ Functional investigations (**neurological exam**, **SSEPs**, EEG) are generally 
 	* Can be performed earlier and repeatedly\
 	Features ↑ over 3-5 days as oedema evolves.
 	* Features of HIE include:
-		* Loss of grey/white differential\
+		* Loss of grey/white differentiation\
 		Cytotoxic oedema ↓ grey matter density.
 		* Diffuse oedema
 		* Herniation
@@ -235,7 +239,26 @@ Continue support and observation if:
 
 ## Key Studies
 
-* TTM2
+**Hypothermia**:
+
+* Patients with cardiac arrest *due* to hypothermia have good outcomes despite prolonged resuscitation
+* Hypothermia has several potentially beneficial effects:
+	* Anticonvulsant
+	* Anti-inflammatory
+		* ↓ Cerebral oedema and ICP
+	* ↓ CMRO~2~ and ↓ HIE
+* Hypothermia also has several potential harms
+	* ↓ HR and ↓ CO
+	* Arrhythmias
+		* ↑ QTc
+	* ↓ Immune function
+	* ↓ Rate of drug metabolism
+	* Hyperglycaemia
+{{< include /trials/haca.qmd >}}	
+{{< include /trials/ttm.qmd >}}
+{{< include /trials/hyperion.qmd >}}
+{{< include /trials/ttm2.qmd >}}
+
 
 ---
 

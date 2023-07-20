@@ -5,7 +5,9 @@ Analgesia is the mainstay of treatment, with the goal of facilitating deep breat
 * Flail chest\
 **Four consecutive rib fractures in ⩾2 places** results in a **free segment** of the chest wall which **moves paradoxically** during negative-pressure ventilation.
 	* May cause some primary respiratory defect
-	* Commonly associated with pulmonary contusion which may cause significant gas exchange impairment
+	* Commonly associated with underlying pulmonary contusion\
+	This may cause significantly impaired gas exchange, and is probably the major driver of any respiratory impairment (rather than mechanical inefficiency).
+
 
 ## Epidemiology and Risk Factors
 
@@ -29,9 +31,8 @@ Analgesia is the mainstay of treatment, with the goal of facilitating deep breat
 
 ## Management
 
-**Resuscitation**:\
+**Resuscitation**:
 
-ABC approach. Comment on team coordination and clinical priorities.
 **Specific therapy**:
 
 * Pharmacological

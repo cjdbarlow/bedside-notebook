@@ -2,13 +2,13 @@
 
 Trauma is physical injury occurring due to mechanical force, and is divided into:
 
-* Blunt trauma\
-Injuries are generally internal, multiple, and may not be initially obvious.
+* **Blunt trauma**\
+**Injuries** are generally **internal**, **multiple**, and may **not** be initially **obvious**.
 	* MVA
 	* Falls
 	* Assault
-* Penetrating trauma\
-Injuries highly dependent on trajectory and force of energy involved.
+* **Penetrating trauma**\
+**Injuries** highly **dependent on trajectory and force** of energy involved.
 	* Explosions
 	* Assault
 		* GSW

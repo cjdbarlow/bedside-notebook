@@ -8,12 +8,12 @@ Immediate thoracotomy performed for resuscitation of the arrested or peri-arrest
 	* **Cardiac tamponade**
 	* **Cardiac injury**
 	* Intercostal bleeding
-	* Intrabdominal bleeding\
+	* Intraabdominal bleeding\
 	Via aortic compression or cross-clamping, redistributing the limited CO to the heart and brain.
 	* Bronchopleural fistula
 
 :::column-margin
-Although the *nature* of injuries the non-surgeon can effectively deal with are limited, cardiac tamponade and cardiac wounds make up the majority of reversible causes and are reasonably easy to relieve.
+Although the *nature* of injuries the non-surgeon can effectively deal with are limited, cardiac tamponade and cardiac wounds make up the majority of reversible causes and are reasonably easy to effectively intervene on.
 :::
 
 ## Epidemiology
@@ -110,8 +110,8 @@ Often will have already been performed, and so the incision can be extended to t
 * Incise with **scalpel from** the **thoracostomy to** the **midline**\
 	* **Cut through** skin and fat **to muscle** with scalpel
 		* Don't cut *through* muscle to avoid entering pleura injuring lung or diaphragm
-	* The **internal mammary artery** will be **transected**, and will bleed when the circulation resumes
 * Place **two fingers** into thoracostomy wound to hold lung away and use heavy scissors to cut through remaining muscle and pleura to midline
+	* The **internal mammary artery** will be **transected**, and will bleed when the circulation resumes
 
 
 Convert to **clamshell**:
@@ -125,7 +125,7 @@ Handle down so it doesn't jam against the arm, and can be opened.
 
 ### The Heart
 
-Open the pericardium:
+**Open** the **pericardium**:
 
 * Anterior surface should be opened to avoid the phrenic nerves\
 Two approaches:
@@ -136,7 +136,7 @@ Two approaches:
 Again, to avoid the phrenic nerves.
 
 
-Interventions:
+**Interventions**:
 
 * Evacuate **tamponade**\
 Decompression and relief of tamponade is simple and responsible for the largest number of survivors.
@@ -162,11 +162,8 @@ Much more effective than external compressions and can significantly augment car
 
 ### Other Injuries
 
-Interventions:
-
-* Aortic compression\
-For severe hypovolaemia or control of abdominal bleeding.
-	* Direct compression of aorta and oesophagus against vertebral column using a hand
+* Severe hypovolaemia or control of abdominal bleeding
+	* **Direct compression of aorta** against vertebral column using the hand
 	* Clamping possible but is performed blindly and can be difficult to distinguish between aorta and oesophagus when arterial pressure is low
 * Intercostal artery bleeding
 	* Can be substantial
@@ -193,9 +190,9 @@ For severe hypovolaemia or control of abdominal bleeding.
 
 ## References
 
-1. Paulich S, Lockey D. Resuscitative thoracotomy. BJA Education. 2020 Jul 1;20(7):242–8.
+1. Paulich S, Lockey D. [Resuscitative thoracotomy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7807961/). BJA Education. 2020 Jul 1;20(7):242–8.
 2. McGonigal, M. [ED Thoracotomy Part 1: Getting In](https://regionstraumapro.com/post/11652726401). Accessed 8/5/23.
-3. McGonigal, M. [ED Thoracotomy Part 2: The Heart(https://regionstraumapro.com/post/11692434793). Accessed 8/5/23.
+3. McGonigal, M. [ED Thoracotomy Part 2: The Heart](https://regionstraumapro.com/post/11692434793). Accessed 8/5/23.
 4. McGonigal, M. [ED Thoracotomy Part 3: The Aorta](https://regionstraumapro.com/post/11731959224). Accessed 8/5/23.
 5. McGonigal, M. [Off-Label Use of the Foley Catheter](https://regionstraumapro.com/post/1087649383). Accessed 8/5/23.
 6. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.

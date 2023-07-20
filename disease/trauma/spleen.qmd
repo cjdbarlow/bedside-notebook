@@ -57,7 +57,7 @@ Injuries involving the hilum (grade IV-V) usually require intervention; most oth
 
 **Resuscitation**:
 
-ABC approach. Comment on team coordination and clinical priorities.
+
 **Specific therapy**:
 
 * Pharmacological
@@ -73,14 +73,13 @@ ABC approach. Comment on team coordination and clinical priorities.
 
 **Preventative**:
 
+:::column-margin
+Management of asplenia is covered in more detail under @sec-asplenia.
+:::
+
 * Prevention of post-splenectomy infection\
 Vulnerability to infection by encapsulated organisms. Recommendations for:
-	* Spleen registry referral
-	* Vaccination
-		* Pneumococcal
-		* Meningococcal
-		* Influenza (annual)
-		* *H. influenzae* type B
+{{< include /includes/asplenia.qmd >}}
 
 
 

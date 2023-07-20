@@ -9,7 +9,7 @@ Electrical stimulation of the periphery with trace of the nerve impulse to the s
 	* Non-invasive
 	* Reported by:
 		* Direction\
-		A peak is a negative potential (N), a nadir by a postiive potential (P)
+		A peak is given by a negative potential (N), a nadir by a positive potential (P).
 		* *Expected* latency\
 		How long (ms) between stimulation and detection.
 * Motor\
@@ -65,6 +65,7 @@ For neuroprognostication:
 	* Somatosensory cortex (**N20**)
 * Median nerve stimulated at the level of the wrist
 * Bilateral absence of N20 peaks is highly specific of poor neurological outcome after 24 hours 
+
 
 ## Complications
 

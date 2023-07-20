@@ -1,20 +1,20 @@
 # Pelvic Fractures
 
-Pelvic trauma is associated with high-energy mechanisms and major haemorrhage, and are classified by the nature of force:
+Pelvic trauma is associated with high-energy mechanisms and major haemorrhage. Pelvic fractures are classified by the nature of force into:
 
 * **Lateral compression**\
 Lateral force.
 	* Grade I\
 	Stable.
 		* Oblique or transverse ramus fracture
-		* Ipsilateral sarcral ala compression fracture
+		* Ipsilateral sacral ala compression fracture
 	* Grade II\
 	Rotationally unstable, vertically stable.
 		* Rami fracture
 		* Ipsilateral posterior ilium fracture-dislocation
 	* Grade III\
 	Completely unstable.
-		* Grade II with anterioposterior compression fracture on contralateral side
+		* Grade II with anteroposterior compression fracture on contralateral side
 * **Anteroposterior compression**\
 Anterior or posterior force. Leads to open-book or sprung pelvis fractures, and divided into:
 	* Grade I\
@@ -27,7 +27,7 @@ Anterior or posterior force. Leads to open-book or sprung pelvis fractures, and 
 		* Intact posterior SI ligaments
 	* Grade III\
 	Completely unstable.
-		* Disurption of anterior and posterior SI ligaments
+		* Disruption of anterior and posterior SI ligaments
 		* Associated vascular injury
 * **Vertical shear**\
 Vertical force; typically falls from height or MVA. Completely unstable.
@@ -59,7 +59,7 @@ Completely unstable. Injuries that do not fit into the above classification.
 
 **Resuscitation**:
 
-ABC approach. Comment on team coordination and clinical priorities.
+
 **Specific therapy**:
 
 * Pharmacological

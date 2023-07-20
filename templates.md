@@ -100,9 +100,9 @@ Intro and technique
 
 ## Assessment
 
-**History**:
+### History
 
-**Exam**:
+### Exam
 
 ### Investigations
 

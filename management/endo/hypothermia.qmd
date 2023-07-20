@@ -11,10 +11,6 @@ Hypothermia is a core body temperature <35°C which is:
 	* Severe: <28°C
 
 
-
-# Disease
-
-
 ## Epidemiology and Risk Factors
 
 ## Pathophysiology
@@ -127,14 +123,15 @@ Hypothermia has pathophysiological effects on all organ systems:
 
 **Bedside**:
 
+:::column-margin
+{{< include /includes/temp_measurement.qmd >}}
+:::
+
 * ABG\
 	* ↓ Core body temperature ↑ solubility of CO~2~ and ↓ PaCO~2~ in vivo\
 	Samples will be warmed to 37°C in the analyser, providing a spuriously high result.
 * Temperature measurement
 
-:::column-margin
-{{< include /includes/temp_measurement.qmd >}}
-:::
 
 **Laboratory**:
 
@@ -159,15 +156,9 @@ Good neurological outcome can occur following prolonged resuscitation in patient
 
 **Specific therapy**:
 
-* Pharmacological
-* Procedural
-* Physical
-	* Rewarming\
-	Note that warming IV fluids is important to prevent further heat loss but ineffective at rewarming.
-	* Avoid sudden movements\
-	May precipitate arrhythmia.
-
 :::column-margin
+: Comparison of Rewarming Therapies
+
 +-----------------+------------------------------+------------------------+
 | Class           | Method                       | Rate of Change (°C/hr) |
 +=================+==============================+========================+
@@ -190,9 +181,15 @@ Good neurological outcome can occur following prolonged resuscitation in patient
 |                 +------------------------------+------------------------+
 |                 | RRT                          | 10                     |
 +-----------------+------------------------------+------------------------+
-
-: Comparison of Rewarming Therapies
 :::
+
+* Pharmacological
+* Procedural
+* Physical
+	* Rewarming\
+	Note that warming IV fluids is important to prevent further heat loss but ineffective at rewarming.
+	* Avoid sudden movements\
+	May precipitate arrhythmia.
 
 
 **Supportive care**:
