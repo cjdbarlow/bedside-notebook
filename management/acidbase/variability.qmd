@@ -28,7 +28,7 @@ For every 1° below 37°C:
 Sample is warmed to 37°C:
 
 :::column-margin
-Alpha stat is the standard approach used.
+Alpha stat is generally standard in adult cardiac surgery, and most critical care analysers.
 :::
 
 * Normal reference ranges are used
@@ -49,7 +49,6 @@ pH stat remains used in paediatric cardiac surgery, where ↑ CBF ↓ the risk o
 This results in:
 	* Cerebral vascular dilation and ↑ CBF
 	* Improving O~2~ offloading at cells by right-shifting the oxyhaemoglobin-dissociation curve
-* This 
 
 
 ## Pregnancy

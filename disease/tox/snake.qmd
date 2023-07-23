@@ -92,7 +92,7 @@ Prevents clotting without consumption.
 +-------------------------+--------------------------------------+---------------------------------+-------------------+
 
 :::column-margin
-Disease may occur progress much more rapidly in children.
+Features may progress much more rapidly in children.
 :::
 
 Local features:
@@ -110,7 +110,7 @@ Systemic features:
 * Headache
 
 
-Neurotoxicity classically progresses from:
+Neurotoxicity classically progresses from smaller muscle groups to larger ones:
 
 * Extra-ocular muscles
 * Bulbar muscles
@@ -140,7 +140,7 @@ Performed on blood, urine, or other tissue.
 
 Identification of the snake is helpful but not essential:
 
-* Venom detection kid should be used to guide antivenom selection
+* Venom detection kit should be used to guide antivenom selection
 * Antivenom should be used to cover snakes in that geographical region
 
 
@@ -267,7 +267,7 @@ Poor prognostic signs:
 
 * Massive envenomation
 * Remove location
-* Out of hospital collapse
+* Out-of-hospital collapse
 * Inadequate antivenom therapy
 
 

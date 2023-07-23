@@ -752,13 +752,6 @@ book:
       # Endocrine & Metabolic 
       - part: "Endocrine and Metabolic"
         chapters:
-        - part: "Fluid and Electrolyte"
-          chapters:
-          - disease/fluid/siadh.qmd
-          - disease/fluid/di.qmd
-          - disease/fluid/turp_syndrome.qmd
-          - disease/fluid/refeeding.qmd
-          # Rhabdo
         # - part: "Nutrition"
         #   chapters:
             # Malnutrition
@@ -785,7 +778,7 @@ book:
           chapters:
           - disease/endo/acromegaly.qmd
       # Renal
-      - part: "Renal"
+      - part: "Renal and Fluid"
         chapters:
         - part: "Failure"
           chapters:
@@ -808,6 +801,13 @@ book:
             # Obstruction
             # Infection
             # Stones
+        - part: "Fluid and Electrolyte"
+          chapters:
+          - disease/fluid/siadh.qmd
+          - disease/fluid/di.qmd
+          - disease/fluid/turp_syndrome.qmd
+          - disease/fluid/refeeding.qmd
+          # Rhabdo
       # Gastrointestinal
       - part: "Gastrointestinal"
         chapters:

@@ -1,6 +1,6 @@
 # Beta-Blockers
 
-Beta-blocker overdose causes ↓ HR, ↓ inotropy, and (possibly) vasodilation; the size of each effect depending on the:
+β-blocker overdose causes ↓ HR, ↓ inotropy, and (possibly) vasodilation; the size of each effect depending on the:
 
 * Receptor specificity of the drug taken
 * Underlying cardiac function\
@@ -58,8 +58,13 @@ Unlike β-blockers, calcium channel blockers do not cause bronchospasm, and will
 ## Management
 
 :::priority
-* Activated charcoal
-* Consider gastric lavage
+* **Activated charcoal**
+* **Cardiovascular support**
+	* Chronotropy
+	* Pacing
+	* Glucagon
+* **High-dose insulin euglycaemic therapy**
+:::
 
 **Resuscitation**:
 

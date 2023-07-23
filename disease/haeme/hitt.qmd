@@ -86,7 +86,7 @@ Either <150×10^9^/L or ↓ by >50%.
 		* Thrombocytopenia
 	* Anti-PF4 antibody immunoassay
 		* Sensitive but non-specific\
-		Detect many insignificant anti-PF4 antibodies.
+		Detects many insignificant anti-PF4 antibodies.
 		* High false positive rate
 		* Require adequate pre-test probability
 	* Serotonin release assay (functional assay)
@@ -225,4 +225,4 @@ May take weeks.
 ## References
 
 1. Greinacher A. [Heparin-Induced Thrombocytopenia](https://www.nejm.org/doi/10.1056/NEJMcp1411910). Solomon CG, ed. N Engl J Med. 2015;373(3):252-261. doi:10.1056/NEJMcp1411910
-1. Ivascu NS, Fitzgerald M, Ghadimi K, Patel P, Evans AS, Goeddel LA, et al. Heparin-Induced Thrombocytopenia: A Review for Cardiac Anesthesiologists and Intensivists. Journal of Cardiothoracic and Vascular Anesthesia. 2019 Feb;33(2):511–20. 
+1. Ivascu NS, Fitzgerald M, Ghadimi K, Patel P, Evans AS, Goeddel LA, et al. [Heparin-Induced Thrombocytopenia: A Review for Cardiac Anesthesiologists and Intensivists](https://pubmed.ncbi.nlm.nih.gov/30502310/). Journal of Cardiothoracic and Vascular Anesthesia. 2019 Feb;33(2):511–20. 

@@ -1,6 +1,5 @@
 * [MENDS-2](https://www.nejm.org/doi/10.1056/NEJMoa2024922) (2021)
-	* 438 non-pregnant septic Americans requiring sedation for mechanical ventilation
-	* Without bradyarrhythmias,
+	* 438 non-pregnant septic Americans without bradyarrhythmias requiring sedation for mechanical ventilation
 	* Randomised, clinician (not nurse) blinded, multicentre (13) RCT\
 	Pharmacy prepared drugs in identical opaque bags, and nurses covered lines in opaque tubing.
 	* 85% power to detect 1.5 day difference in days alive without delirium or coma

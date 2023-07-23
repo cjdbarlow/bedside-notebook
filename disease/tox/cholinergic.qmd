@@ -1,4 +1,4 @@
- Cholinergic
+# Cholinergic
 
 :::info
 Cholinergic toxicity is almost always due to inhibition of the acetylcholinesterase enzyme, and so is also known as **anticholinesterase toxicity**.
@@ -25,7 +25,7 @@ Are excitatory, and present in the:
 	* Autonomic ganglia
 	* CNS
 
-Acetylcholine is normally cleaved by the acetylcholinesterase enzyme, inhibition of which leads to an ↑ in ACh. These can be classified into:
+Acetylcholine is normally cleaved by the acetylcholinesterase enzyme, inhibition of which leads to ↑ ACh. Acetylcholinesterase inhibitors can be classified into:
 
 * **Reversible**
 	* Edrophonium

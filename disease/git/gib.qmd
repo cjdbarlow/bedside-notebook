@@ -155,7 +155,9 @@ The majority of patients with UGIB will stop bleeding spontaneously and not requ
         * Propranolol\
         Secondary prevention of variceal bleeding. 
         * Antibiotics\
-       High risk of concomitant (or precipitating) infection in variceal bleeds.
+       High risk of concomitant (or precipitating) infection in variceal bleeds. Consider:
+        * Ceftriaxone 1g IV daily
+        * Ciprofloxacin 500mg PO BD
 * Procedural\
     * Balloon tamponade\
     Insertion of a gastric-oesopahgeal balloon which is placed to provide balloon tamponade feeding veins. Used only *in extremis* to provide control of bleeding.

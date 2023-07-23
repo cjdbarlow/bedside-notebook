@@ -111,7 +111,8 @@ Severe toxicity:
 	Stimulates glutathione stimulus, allowing NAPQI to be conjugated.
 		* Prescott nomogram indicates when NAC therapy should be given\
 			* \>200mg/kg or 10g in a one-off ingestion should receive NAC independent of level
-			* Inaccurate in sustained-release preparations; therefore NAC should be given empirically
+			* Inaccurate in sustained-release preparations\
+			Empirical NAC NAC should be given in this circumstance.
 		* Early administration results in significant reduction in mortality (to <1%), though even late administration may improve outcome.
 		* 150mg/kg load over 15-60 minutes
 		* 50mg/kg over 4 hours

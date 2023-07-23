@@ -1,11 +1,10 @@
 # Blood Products
 
-Include:
+Therapeutic substances derived from human blood, including:
 
 * Fractionated products
-	* Packed cells\
-	Requires crossmatch.
-	* Factors
+	* Packed cells
+	* Clotting factors
 		* Fresh frozen plasma
 		* Factor concentrates
 		* Cryoprecipitate
@@ -19,7 +18,7 @@ Include:
 Donor blood is cytapheresed to produce cells and a small volume of carrier plasma. PRBC:
 
 :::column-margin
-: Red Cell Compatibility in Order of Preference
+: Red Cell Compatibility, in Order of Preference
 
 +-----------------+-------------------------------------------------------------------------------------------------------+
 | Recipient Group | Compatible Donor                                                                                      |
@@ -148,7 +147,7 @@ Freeze-dried preparation from donor plasma that:
 		Contain II, IX, and X.
 	* Factor IX
 	* Factor X
-* Indicated for:
+* Is indicated for:
 	* Correction of vitamin K antagonism
 	* Correction of coagulopathy in absence of hypovolaemia
 
@@ -160,7 +159,7 @@ I find PCC useful in the operating room for *rapidly* correcting coagulopathy, a
 
 Single factors are produced either through isolation of donor plasma isolated or recombinant production. Available factors include:
 
-* Antithrombin III\
+* **Antithrombin III**\
 Treatment of heparin resistance:
 	* For CPB: 1000-2000 units if inadequate ACT after >600 U/kg of UFH
 * **Activated Factor VII**
@@ -176,10 +175,10 @@ Treatment of heparin resistance:
 	* Dose variable
 		* 20μg/kg increments in semi-controlled situations
 		* 90-120μg/kg for exsanguinating trauma 
-* Factor VIII
+* **Factor VIII**
 	* Heat treated to inactivate HIV
 	* For treatment of haemophilia A
-* Factor IX
+* **Factor IX**
 
 :::column-margin
 Activated Factor VII is also known as recombinant activated coagulation factor VII, FVIIa, rFVIIa, eptacog alfa, and NovoSeven.
@@ -190,7 +189,7 @@ Activated Factor VII is also known as recombinant activated coagulation factor V
 FFP derivative which:
 
 :::column-margin
-Manufactured by freezing and then thawing FFP, collecting the precipitate, and then re-suspending it in plasma.
+Cryoprecipitate is manufactured by freezing and then thawing FFP, collecting the precipitate, and then re-suspending it in plasma.
 :::
 
 * May be presented as:
@@ -225,9 +224,13 @@ Freeze-dried human plasma:
 
 * 1 unit ≈ 50mL\
 Generally raises platelet count by ~10× 10^9^/L.
-* Usually come in 4-unit bags
-* ABO match preferable but not essential
-	* Apheresis platelets have a lower titre of anti-A and anti-B and have a lower risk of haemolysis
+* Usually come in ~200mL, 4-unit bags\
+These may be:
+	* Pooled from whole blood donation from separate donors
+	* Single-donor, collected via apheresis
+* ABO match is preferable but not essential
+	* Apheresis platelets have a lower titre of anti-A and anti-B and have a lower risk of haemolysis\
+	These are preferred when ↓ exposure of the recipient to multiple donors is desirable.
 * Stored at 20-24°C with constant agitation
 * Transfusion should:
 	* Commence as soon as received
@@ -294,7 +297,7 @@ Options include:
 	From O donor with low anti-A or anti-B levels.
 		* This ↑↑ complexity of determining the patients blood group
 		* Group should be taken prior to administering low-titre whole blood
-		* Standard of care in WWII, Korea, and Vietnam
+		* Standard of care in WWII, as well as the wars in Korea and Vietnam
 * Collected from donors into citrated bags
 	* Goal is generally ~450mL/585g
 	* Bag should be agitated periodically to ↓ risk of clot formation

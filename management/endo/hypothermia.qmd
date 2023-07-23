@@ -26,7 +26,7 @@ Hypothermia has pathophysiological effects on all organ systems:
 	* ↓ HR and CO
 	* ↑ QTc
 	* J-point elevation
-	* Arrythmias
+	* Arrhythmias
 		* AF
 		* VF
 	* ↑ Defibrillation threshold
@@ -63,17 +63,16 @@ Hypothermia has pathophysiological effects on all organ systems:
 | * Conduction\                                    | * DKA             | * Uraemia                 |
 | ↑ With high heat-capacity surrounds, e.g. water. | * Hypoadrenalism  | * Critical illness        |
 | * Convection\                                    | * Hypothyroidism  | * Sepsis                  |
-| ↑ Effect of conduction.                          | * Hypopituitarism | * Malignancy              |
-| * Evaporation\                                   |                   |                           |
-| \                                                |                   |                           |
-| * Vasodilatation                                 | Reserve:          |                           |
-| * Skin barrier disruption\                       |                   |                           |
-| Burns.\                                          | * Hypoglycaemia   |                           |
-| \                                                | * Malnutrition    |                           |
-| * ↑ Surface area:Volume\                         | * Extremes of age |                           |
-| Children.                                        |                   |                           |
-|                                                  | Immobility        |                           |
+| ↑ Effect of conductive losses.                   | * Hypopituitarism | * Malignancy              |
+| * Evaporation                                    |                   |                           |
+|     * Vasodilatation                             |                   |                           |
+|     * Skin barrier disruption\                   | Reserve:          |                           |
+|     Burns.\                                      |                   |                           |
+| \                                                | * Hypoglycaemia   |                           |
+| * ↑ Surface area:Volume\                         | * Malnutrition    |                           |
+| Children.                                        | * Extremes of age |                           |
 |                                                  |                   |                           |
+|                                                  | Immobility        |                           |
 +--------------------------------------------------+-------------------+---------------------------+
 
 
@@ -157,30 +156,7 @@ Good neurological outcome can occur following prolonged resuscitation in patient
 **Specific therapy**:
 
 :::column-margin
-: Comparison of Rewarming Therapies
-
-+-----------------+------------------------------+------------------------+
-| Class           | Method                       | Rate of Change (°C/hr) |
-+=================+==============================+========================+
-| Passive         | Warmed external environment  | 0.5-1                  |
-+-----------------+------------------------------+------------------------+
-| Active External | Forced-air warmers           | 1                      |
-|                 +------------------------------+------------------------+
-|                 | Radiant heaters              | 1-2                    |
-|                 +------------------------------+------------------------+
-|                 | Temperature control pad\     | 1.5-3                  |
-|                 | e.g. Arctic sun.             |                        |
-+-----------------+------------------------------+------------------------+
-| Active Internal | Humidified warm inspired gas | 0.5-1                  |
-|                 +------------------------------+------------------------+
-|                 | Intravascular catheter       | 2-4                    |
-|                 +------------------------------+------------------------+
-|                 | Body cavity lavage           | 3-5                    |
-|                 +------------------------------+------------------------+
-|                 | CPB/ECMO                     | 10                     |
-|                 +------------------------------+------------------------+
-|                 | RRT                          | 10                     |
-+-----------------+------------------------------+------------------------+
+{{< include /includes/warming.qmd >}}
 :::
 
 * Pharmacological

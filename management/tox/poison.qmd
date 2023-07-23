@@ -125,7 +125,7 @@ For specific poisonings.
 Retain sample for later analysis.
 
 :::column-margin
-Routine toxin dipsticks are not recommended due to false-positive rate and cross-reactivity with prescription medicine.
+Routine toxin dipsticks are not recommended due to the high false-positive rate and cross-reactivity with prescription medicine.
 :::
 
 
@@ -221,7 +221,7 @@ Efficacy falls with time since ingestion - give early.
 
 ## Enhanced Elimination
 
-### Urinary alkalinisation
+### Urinary Alkalinisation
 
 :::column-margin
 Urinary alkalinisation is also known as forced alkaline diuresis.
@@ -238,14 +238,17 @@ Urinary alkalinisation is also known as forced alkaline diuresis.
 	* Methotrexate
 	* Chlorpropamide
 * Achieved by sodium bicarbonate IV
-	* 1-2mmol/kg IV
 	* Infuse isotonic bicarbonate at 250mL/hr\
 	Dilute 150mL of 8.4% in 850mL of D5W to produce isotonic bicarbonate.
-* Requires:
-	* Regular **monitoring** of **serum potassium**\
-	Hypokalaemia will occur as potassium is exchanged for hydrogen in the tubule, which ↓ urinary pH as well as being independently significant.
-	* Hypocalcaemia may also occur
 	* Adjust infusion to maintain urinary pH of 7.5-8.5
+* Complications:
+	* Hypokalaemia
+		* Requires regular **monitoring** and replacement of **serum potassium**\
+		* Occurs as potassium is exchanged for hydrogen in the tubule\
+		This leads to both:
+			* Clinically significant hypokalaemia
+			* ↓ Urinary pH and ↑ reabsorption of the offending substance
+	* Hypocalcaemia
 
 :::column-margin
 Urinary alkalinisation relies on the following:
@@ -253,8 +256,9 @@ Urinary alkalinisation relies on the following:
 * Drugs can only pass through lipid membranes in their unionised form\
 * Ionised drugs are water soluble and trapped by surrounding lipid membranes\
 e.g. In the renal tubule.
-* **Weak acids** will lose their hydrogen ion in a basic environment, and become their ionised conjugate base\
-$AH \leftrightarrow H^+ + A^-$
+* **Weak acids** will lose their hydrogen ion in a basic environment, becoming a (ionised) conjugate base\
+$AH \leftrightarrow A^- + H^+$
+	* This conjugate base is then trapped in the renal tubule, and is eliminated
 * The Henderson-Hasselbach equation: 
 	* Describes the relationship between the:
 		* Environmental pH
@@ -336,10 +340,6 @@ Both:
 * Possibly beneficial when a toxin is highly protein bound with a high V~D~\
 Several exchange runs may be required.
 
-:::column-margin
-The main indication for plasma exchange is *Amanita phalloides* poisoning.
-:::
-
 
 ### Lipid Emulsion Therapy
 
@@ -366,7 +366,7 @@ The main indication for plasma exchange is *Amanita phalloides* poisoning.
 	* Vasoactive supports
 * D
 	* Benzodiazepines\
-	Are widely indicated for most overdoses.
+	Are widely indicated in most overdoses.
 * F
 	* Maintain good UO\
 	Will optimise renal clearance.

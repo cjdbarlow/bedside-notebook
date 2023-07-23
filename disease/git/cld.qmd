@@ -186,6 +186,10 @@ Causative organisms (in order of likelihood) include:
 * *S. Epidermidis*
 :::
 
+:::column-margin
+Management of gastrointestinal bleeding is covered under @sec-gib.
+:::
+
 ### Hepatopulmonary Syndrome {#sec-hepatopulmonary}
 
 Intrapulmonary shunt secondary to pulmonary vasodilation. Hepatopulmonary syndrome:

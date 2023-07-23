@@ -20,9 +20,6 @@ Toxic alcohols are relatively benign in themselves but produce highly **toxic me
 Methanol is metabolised into formic acid, ethylene glycol is metabolised into glycolic acid.
 :::
 
-# Disease
-
-
 ## Epidemiology and Risk Factors
 
 ## Pathophysiology
@@ -31,42 +28,42 @@ Methanol is metabolised into formic acid, ethylene glycol is metabolised into gl
 
 ## Clinical Features
 
-: Clinical Features of Toxic Alcohol Ingestion
+: Features of Toxic Alcohol Ingestion
 
-+-----------------+------------------------------+------------------------------------------------------------+--------------------------+
-| System          | Methanol                     | Ethylene Glycol                                            | Isopropanol              |
-+=================+==============================+============================================================+==========================+
-| Cardiopulmonary |                              | * ↑ HR                                                     |                          |
-|                 |                              | * ARDS                                                     |                          |
-|                 |                              | * Heart failure                                            |                          |
-+-----------------+------------------------------+------------------------------------------------------------+--------------------------+
-| Neurological    | **Ocular**:                  | * Coma                                                     | * Confusion → Coma       |
-|                 |                              | * Seizures                                                 | * Cerebellar signs       |
-|                 | * Blurry vision              | * Meningism                                                |                          |
-|                 | * ↓ Acuity                   | * CN deficit\                                              |                          |
-|                 | * Photophobia                | Often delayed by 5-20 days.                                |                          |
-|                 | * "Snowstorm" vision         |                                                            |                          |
-|                 | * Permanent blindness\       |                                                            |                          |
-|                 | Retinal toxicity.            |                                                            |                          |
-|                 |                              |                                                            |                          |
-|                 | **Other**:                   |                                                            |                          |
-|                 |                              |                                                            |                          |
-|                 | * Parkinsonism               |                                                            |                          |
-|                 | * Transverse myelitis        |                                                            |                          |
-|                 | * Basal ganglia haemorrhages |                                                            |                          |
-+-----------------+------------------------------+------------------------------------------------------------+--------------------------+
-| Renal           | * HAGMA                      | * ↓ Calcium\                                               | * Normal OG              |
-|                 |     * Formic acid            | Chelated by oxalic acid.                                   |                          |
-|                 |     * Lactic acid            | * AKI\                                                     |                          |
-|                 | * ↑ OG                      | Precipitation of calcium oxalate crystals in renal tubule. |                          |
-|                 |                              | * HAGMA                                                    |                          |
-|                 |                              | 	  * Glycolic acid                                         |                          |
-|                 |                              | 	  * Oxalic acid                                           |                          |
-|                 |                              | 	  * Lactic acid                                           |                          |
-|                 |                              | * ↑ OG                                                     |                          |
-+-----------------+------------------------------+------------------------------------------------------------+--------------------------+
-| GIT             |                              |                                                            | * Haemorrhagic gastritis |
-+-----------------+------------------------------+------------------------------------------------------------+--------------------------+
++---------------------+------------------------------+------------------------------------------------------------+--------------------------+
+| System              | Methanol                     | Ethylene Glycol                                            | Isopropanol              |
++=====================+==============================+============================================================+==========================+
+| **Cardiopulmonary** |                              | * ↑ HR                                                     |                          |
+|                     |                              | * ARDS                                                     |                          |
+|                     |                              | * Heart failure                                            |                          |
++---------------------+------------------------------+------------------------------------------------------------+--------------------------+
+| **Neurological**    | **Ocular**:                  | * Coma                                                     | * Confusion → Coma       |
+|                     |                              | * Seizures                                                 | * Cerebellar signs       |
+|                     | * Blurry vision              | * Meningism                                                |                          |
+|                     | * ↓ Acuity                   | * CN deficit\                                              |                          |
+|                     | * Photophobia                | Often delayed by 5-20 days.                                |                          |
+|                     | * "Snowstorm" vision         |                                                            |                          |
+|                     | * Permanent blindness\       |                                                            |                          |
+|                     | Retinal toxicity.            |                                                            |                          |
+|                     |                              |                                                            |                          |
+|                     | **Other**:                   |                                                            |                          |
+|                     |                              |                                                            |                          |
+|                     | * Parkinsonism               |                                                            |                          |
+|                     | * Transverse myelitis        |                                                            |                          |
+|                     | * Basal ganglia haemorrhages |                                                            |                          |
++---------------------+------------------------------+------------------------------------------------------------+--------------------------+
+| **Renal**           | * HAGMA                      | * ↓ Calcium\                                               | * Normal OG              |
+|                     |     * Formic acid            | Chelated by oxalic acid.                                   |                          |
+|                     |     * Lactic acid            | * AKI\                                                     |                          |
+|                     | * ↑ OG                       | Precipitation of calcium oxalate crystals in renal tubule. |                          |
+|                     |                              | * HAGMA                                                    |                          |
+|                     |                              | 	  * Glycolic acid                                         |                          |
+|                     |                              | 	  * Oxalic acid                                           |                          |
+|                     |                              | 	  * Lactic acid                                           |                          |
+|                     |                              | * ↑ OG                                                     |                          |
++---------------------+------------------------------+------------------------------------------------------------+--------------------------+
+| **GIT**             |                              |                                                            | * Haemorrhagic gastritis |
++---------------------+------------------------------+------------------------------------------------------------+--------------------------+
 
 
 ## Diagnostic Approach and DDx
@@ -94,10 +91,10 @@ Osmolar gap and anion gap change over time. Initially, the OG is ↑ due to the 
 :::column-margin
 If you can quantitatively measure the serum alcohol, you can also determine the contribution of that alcohol to the osmolar gap. 1mmol/L of:
 
-* Ethanol: 4.6 mg/dL
-* Methanol: 3.2 mg/dL
-* Ethylene glycol: 6.2 mg/dL
-* Isopropanol: 6.0 mg/dL
+* Ethanol is 4.6 mg/dL
+* Methanol is 3.2 mg/dL
+* Ethylene glycol is 6.2 mg/dL
+* Isopropanol is 6.0 mg/dL
 :::
 
 :::column-margin
@@ -105,7 +102,7 @@ Methanol has the lowest molecular weight and therefore greatest ↑ in OG per un
 :::
 
 :::column-margin
-Degree of **inebriation** is **proportional** to **molecular weight**.
+Degree of **inebriation** produced is **proportional** to **molecular weight**.
 :::
 
 **Imaging**:
@@ -116,7 +113,6 @@ Degree of **inebriation** is **proportional** to **molecular weight**.
 		* Basal ganglia haemorrhages
 		* Optic chiasmal atrophy
 		* Caudate nuclear necrosis
-
 
 **Other**:
 

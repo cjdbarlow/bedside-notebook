@@ -5,7 +5,7 @@ Abnormal ↑ in plasma bicarbonate. Sustained metabolic alkalosis requires both 
 :::column-margin
 A maintenance process is required because renal bicarbonate excretion is highly efficient, such that a transient alkali load (e.g. an IV bolus of bicarbonate) will result in a rapid ↑ in urinary bicarbonate excretion and restoration of normal plasma pH.\
 \
-This is the therapeutic mechanism behind urinary alkalinisation for salicylate overdose.
+This is the therapeutic mechanism behind urinary alkalinisation.
 :::
 
 * **Initiation**
@@ -43,7 +43,7 @@ This is the therapeutic mechanism behind urinary alkalinisation for salicylate o
 |         * Hypomagnesaemia\                                                                 |     * High SID RRT                                                                                                       |
 |         Magnesium is reabsorbed in exchange for potassium, which prolongs ↓ K^+^.          | * Milk alkali syndrome\                                                                                                  |
 |     * Corticosteroids                                                                      | Consumption of vast quantities of calcium and alkali, leading to alkalosis:                                              |
-|     * Cushing's syndrome                                                                   |     * Directly, from the alkali.                                                                                         |
+|     * Cushing's syndrome                                                                   |     * Directly\	                                                                                                        |
 |     * Primary hyperaldosteronism                                                           |     From the alkali.                                                                                                     |
 |     * Bartter's syndrome\                                                                  |     * Indirectly\                                                                                                        |
 |     Hyperplasia of the juxtaglomerular apparatus, ↑ renin and aldosterone secretion.       |     From the calcium, as the ↑ UO secondary to hypercalcaemia leads to hypovolaemia, ↓ GFR, and ↓ bicarbonate clearance. |

@@ -1,6 +1,6 @@
 # TURP Syndrome
 
-**Systemic absorption** of **glycine** which causes **cardiac** and **neurological toxicity** due to:
+Syndrome of **cardiac** and **neurological toxicity** occurring due to **systemic absorption** of **glycine** which causes:
 
 * Rapid changes in:
 	* Osmolality\
@@ -34,21 +34,24 @@ Primary risk factor is rate and amount of irrigation fluid absorption:
 
 ## Pathophysiology
 
-Due to systemic absorption of hypertonic irrigation fluid:
+Occurs due to systemic absorption of hypertonic, non-conductive irrigation fluid in percutaneous procedures using **unipolar** diathermy:
 
-* Fluids used include:
-	* Glycine 1.5%\
-	220mOsmol/kg.
-	* Sorbitol 3%
-	* Mannitol 5%
-* Used as a non-conductive irrigation fluid in percutaneous procedures using **unipolar** diathermy
-	* Use is rarer now that bipolar diathermy more common\
-	Though large fluid shifts still occur due to absorption irrigation fluid.
-	* Procedures include
-		* TURP
-		* Hysteroscopy
+* Use is rarer now that bipolar diathermy more common\
+Though large fluid shifts still occur due to absorption of irrigation fluid.
+* Procedures include
+	* TURP
+	* Hysteroscopy
 
-Effects due to::
+:::column-margin
+Fluids used include:
+
+* Glycine 1.5%\
+220mOsmol/kg.
+* Sorbitol 3%
+* Mannitol 5%
+:::
+
+Effects due to:
 
 * Osmolality\
 Effects mostly due to hypoosmolality, rather than hyponatraemia.
@@ -59,7 +62,7 @@ Acts as major inhibitory neurotransmitter and potentiates NMDA in CNS.
 	* Significantly less common with mannitol
 
 
-## Clinical Manifestations
+## Clinical Features
 
 Timing:
 
@@ -90,7 +93,13 @@ Presentation:
 
 ## Management
 
-### Prevention
+:::priority
+* **Prevention** is key
+* **Abandon operation** if toxicity occurs
+* **Correct hyponatraemia**
+:::
+
+**Prevention**:
 
 * Avoid use of non-electrolyte fluids\
 Use bipolar diathermy.
@@ -100,7 +109,7 @@ Calculate deficit between administered and suctioned fluid.
 * Have a (predetermined) threshold at which to abandon surgery
 	* At 750ml-1L:\
 	Depending on weight and sex.
-		* Cease fluid administartion
+		* Cease fluid administration
 		* Assess mental state
 		* Check serum sodium
 	* At 1-2L:\
@@ -109,40 +118,40 @@ Calculate deficit between administered and suctioned fluid.
 		* Assess mental state
 		* Check serum sodium
 
+**Specific therapy**:
 
-### Therapeutic
-
-* **Abandon surgery**.
-
-Correct:
-
-* Volume changes
-	* Cease IV fluid
-	* Frusemide\
-	Only recommended if APO is present, as it will worsen hyponatraemia.
-* Solute changes
-	* 3% NaCl\
-		* 100ml, Q10 minutely, until resolution or 300ml given\
-		Each bolus should raise serum sodium by ~2-3mmol/L.
-		* Indicated if:
-			* Serum sodium is ⩽120mmol/L
-			* Serum osmolality is <260mOsm/kg
-			* Severe neurological symptoms
-				* Transient blindness
-				* Persistent nausea/vomiting
-				* Severe headaches
-				* Severe hypotension
+* Pharmacological
+	* Volume changes
+		* **Cease IV fluid**
+		* **Frusemide**\
+		Only recommended if APO is present, as it will worsen hyponatraemia.
+	* Solute changes
+		* **3% NaCl**\
+			* 100ml, Q10 minutely, until resolution or 300ml given\
+			Each bolus should raise serum sodium by ~2-3mmol/L.
+			* Indicated if:
+				* Serum sodium is ⩽120mmol/L
+				* Serum osmolality is <260mOsm/kg
+				* Severe neurological symptoms
+					* Transient blindness
+					* Persistent nausea/vomiting
+					* Severe headaches
+					* Severe hypotension
+* Procedural
+	* **Abandon surgery**
 
 
-Supportive therapy:
+**Supportive care**:
 
-* Bradycardia\
-	* Atropine
-	* Adrenaline
-* Seizures\
-	* Benzodiazepines
-	* Magnesium\
-	May be considered if refractory.
+* C
+	* Bradycardia\
+		* Atropine
+		* Adrenaline
+* D
+	* Seizures\
+		* Benzodiazepines
+		* Magnesium\
+		May be considered if refractory.
 
 
 ### Anaesthetic Considerations

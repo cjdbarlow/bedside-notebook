@@ -54,7 +54,7 @@ Coagulation factor replacement:
 Targets:
 
 * INR <1.5-2.0\
-Invasive procedures are safe below 2, though lower thresholds may be requested for high risk procedures.
+Invasive procedures are generally safe below 2, though lower thresholds may be requested for high risk procedures.
 * Fibrinogen >1-2.0
 
 

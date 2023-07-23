@@ -1,15 +1,15 @@
-# Critical Care Nutrition {#sec-feeding}
+# Nutrition {#sec-feeding}
 
-Requirement for nutritional supplementation depends on where a patient is in their phase of illness:
+Requirement for nutritional supplementation in the critically ill depends on where a patient is in their phase of illness:
 
 :::column-margin
 Key definitions:
 
-* Hypocaloric nutrition\
+* **Hypocaloric nutrition**\
 Supplemental non-protein nutrition supplementation lower than daily expenditure, resulting in a calorie deficit.
-* Trophic feeding\
+* **Trophic feeding**\
 Feeding <500kcal/day.
-* Permissive underfeeding\
+* **Permissive underfeeding**\
 Feeding 40-60% of daily required calories.
 :::
 
@@ -21,11 +21,11 @@ Feeding 40-60% of daily required calories.
 	* **Late acute** period (**2-7 days**)
 		* Recovery from critically ill state and ↓ catabolism
 		* ↑ Feeding appropriate
-* **Late Phase**
+* **Late Phase**\
 Persistent Critical Illness/Recovery (>7-10 days).
 	* Ideally, recovery occurs and patients enter an anabolic state
-	* Patients generally will require full nutritional support\
-	i.e. Calorie expenditure is matched.
+	* Patients will generally require full nutritional support\
+	i.e. Calorie intake matches expenditure.
 
 
 ## Nutrition Assessment
@@ -63,12 +63,12 @@ Where:
 :::
 
 * **Calorie**\
-Can be provided as either **carbohydrate** (functionally dextrose) or **lipid**, ideally in a **70:30 ratio**. Approaches to assessing need include:
+Can be provided as either **carbohydrate** (functionally dextrose) or **lipid**, ideally in a **70:30 ratio**. Approaches to assessing need caloric requirements include:
 	* **Assume 25-30kCal/kg/day**\
 		* Easy
 		* Crude
 		* Inaccurate at extremes of weight and metabolic need
-	* **Reverse Fick** Equation\
+	* **Reverse Fick** equation\
 	Metabolic rate is proportional to VO~2~, which can be calculated using data from a PAC.
 		* Does not measure pulmonary VO~2~, and so underestimates total requirements\
 		Becomes more inaccurate in pulmonary pathology.
@@ -362,7 +362,7 @@ Only if vomiting or gastric distension.
 	* After 1^st^ GRV >500mL:\
 	An *isolated* high GRV is common.
 		* Return up to 500mL of aspirate
-		* Consider prokinetics\
+		* **Consider prokinetics**\
 		No good evidence of benefit. If used, consider ceasing after 24-72 hours due to risks of tachyphylaxis.
 	* After 2^nd^ GRV >500mL:\
 	EN intolerance indicated by ⩾2 consecutive GRVs >500mL.
@@ -377,7 +377,7 @@ Only if vomiting or gastric distension.
 Avoid interrupting feeding when possible (e.g., for procedures where the airway is already secured).
 
 
-Prokinetics:
+: Prokinetics
 
 +------------------+----------------+-----------------------------------------+
 | Drug             | Dose           | Notes                                   |
@@ -448,6 +448,8 @@ Particularly in burns patients.
 
 
 ---
+
+## References
 
 1. Lambell, Kate J., Oana A. Tatucu-Babet, Lee-anne Chapple, Dashiell Gantner, and Emma J. Ridley. [Nutrition Therapy in Critical Illness: A Review of the Literature for Clinicians](https://ccforum.biomedcentral.com/articles/10.1186/s13054-020-2739-4). Critical Care 24, no. 1 (4 February 2020): 35.
 1. Gao X, Liu Y, Zhang L, et al. [Effect of Early vs Late Supplemental Parenteral Nutrition in Patients Undergoing Abdominal Surgery: A Randomized Clinical Trial](https://jamanetwork.com/journals/jamasurgery/fullarticle/2790269). JAMA Surgery. 2022;157(5):384-393.

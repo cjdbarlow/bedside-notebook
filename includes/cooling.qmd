@@ -1,0 +1,54 @@
+: Comparison of Cooling Therapies
+
++-----------------+----------------------------+------------------------+--------------------------------+
+| Class           | Method                     | Rate of Change (°C/hr) | Considerations                 |
++=================+============================+========================+================================+
+| Passive         | Exposure                   | 0.5-1                  | * Cheap                        |
+|                 |                            |                        | * Slow                         |
+|                 |                            |                        | * Cooling only                 |
++-----------------+----------------------------+------------------------+--------------------------------+
+| Pharmacological | Antipyretics               | 0.5-1                  | * Cheap                        |
+|                 |                            |                        | * Slow                         |
+|                 |                            |                        | * Cooling only                 |
++-----------------+----------------------------+------------------------+--------------------------------+
+| Active External | Wet towels/ice packs       | 1                      | * Cheap                        |
+|                 |                            |                        | * Wet patient                  |
+|                 |                            |                        |     * Electrical safety        |
+|                 |                            |                        |     * Wound sterility          |
+|                 |                            |                        | * Uneven cooling\              |
+|                 |                            |                        | Frostbite risk.                |
+|                 |                            |                        | * Cooling only                 |
+|                 +----------------------------+------------------------+--------------------------------+
+|                 | Evaporative (fan and mist) | 1-2                    | * Cheap                        |
+|                 |                            |                        | * Risk free                    |
+|                 |                            |                        | * Cooling only                 |
+|                 +----------------------------+------------------------+--------------------------------+
+|                 | Temperature control pad\   | 1.5-3                  | * Effective                    |
+|                 | e.g. Arctic sun.           |                        | * Expensive                    |
+|                 |                            |                        | * Allows rewarming             |
+|                 +----------------------------+------------------------+--------------------------------+
+|                 | Cold-water Immersion       | 8-10                   | * Cheap                        |
+|                 |                            |                        | * Rapid                        |
+|                 |                            |                        | * Unfeasible in large patients |
+|                 |                            |                        | * Wet patient                  |
+|                 |                            |                        | * Risk of overcooling          |
++-----------------+----------------------------+------------------------+--------------------------------+
+| Active Internal | 30-40mL/kg 4°C IV fluids   | 2-3                    | * Cheap                        |
+|                 |                            |                        | * Rapid                        |
+|                 |                            |                        | * High-volume infusion         |
+|                 |                            |                        | * Arrhythmia risk              |
+|                 +----------------------------+------------------------+--------------------------------+
+|                 | Intravascular catheter     | 2-4                    | * Invasive                     |
+|                 |                            |                        | * Allow temperature monitoring |
+|                 |                            |                        | * Allows re-warming            |
+|                 +----------------------------+------------------------+--------------------------------+
+|                 | Body cavity lavage         | 3                      | * Invasive                     |
+|                 |                            |                        | * Fluid absorption             |
+|                 +----------------------------+------------------------+--------------------------------+
+|                 | CPB/ECMO                   | 10                     | * Very invasive                |
+|                 |                            |                        | * Expensive                    |
+|                 |                            |                        | * Limited availability         |
+|                 +----------------------------+------------------------+--------------------------------+
+|                 | RRT                        | 10                     | * Invasive                     |
+|                 |                            |                        | * May already need RRT         |
++-----------------+----------------------------+------------------------+--------------------------------+

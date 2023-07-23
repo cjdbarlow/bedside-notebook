@@ -50,36 +50,36 @@ Thus, the uncorrected version is used here.
 
 The $Delta \ Ratio = {\uparrow AG \over \downarrow HCO_3^-}$:
 
-* Relates the change in the AG to the change in the bicarbonate
-* If the ↑ in AG is matched by the ↓ in HCO~3~^-^, then the bicarbonate has theoretically buffered the entire acid load\
-This relies on several assumptions that do not occur in practice though:
+* **Relates the change in the AG to** the **change in** the **bicarbonate**
+* If the ↑ in AG is matched by the ↓ in HCO~3~^-^, then bicarbonate has theoretically buffered the entire acid load\
+This relies on several assumptions that do not occur in practice:
 	* Bicarbonate is not the only extracellular buffer
 	* ~50% of metabolic acidosis is buffered intracellularly
 	* Measurement error exists in measuring the five components of the ratio\
 	Sodium, potassium, chloride, albumin, bicarbonate.
 
-:::column-margin
 : Interpretation of the Delta Ratio
 
-+---------+-------------------------------------------------+
-| Ratio   | Interpretation                                  |
-+=========+=================================================+
-| <0.4    | NAGMA                                           |
-+---------+-------------------------------------------------+
-| 0.4-0.8 | Mixed HAGMA and NAGMA                           |
-+---------+-------------------------------------------------+
-| 0.9-1.2 | Pure HAGMA                                      |
-+---------+-------------------------------------------------+
-| \>1.2   | HAGMA with pre-existing metabolic alkalosis\    |
-|         | ↑ DR indicates ↑ degree of metabolic alkalosis. |
-+---------+-------------------------------------------------+
-:::
++---------+-------------------------------------------------------+
+| Ratio   | Interpretation                                        |
++=========+=======================================================+
+| <0.4    | NAGMA                                                 |
++---------+-------------------------------------------------------+
+| 0.4-0.8 | Mixed HAGMA and NAGMA                                 |
++---------+-------------------------------------------------------+
+| 0.9-1.2 | Pure HAGMA                                            |
++---------+-------------------------------------------------------+
+| \>1.2   | HAGMA with pre-existing metabolic alkalosis\          |
+|         | An ↑ DR indicates an ↑ degree of metabolic alkalosis. |
++---------+-------------------------------------------------------+
+
 
 ### Standardised Base Excess
 
-* The base excess is the amount of strong acid or base that would have to be added to a sample of *whole* blood to produce a pH of 7.4 at a PaCO~2~ of 40mmHg at 37°C\
+* The base excess is the **amount of strong acid or base** that would have to be **added to** a sample of ***whole* blood to produce** a **pH** of **7.4 at** a **PaCO~2~** of **40mmHg** at **37°C**\
 This quantifies the metabolic portion of an acid-base disturbance.
-* The standardised base excess is the base excess normalised to a haemoglobin of 48g/L, which aims to generalise the result to the extracellular fluid compartment by attenuating the buffering effect of haemoglobin
+* The ***standardised* base excess** is the **base excess normalised to** a **haemoglobin** of **48g/L**\
+This **generalises** the **result to** the **extracellular fluid compartment** by attenuating the buffering effect of haemoglobin
 
 
 ### Osmolar Gap
@@ -91,10 +91,10 @@ The $Osmolar \ Gap = Osm_{measured} - (2 \times Na^+ + Urea + Glucose)$:
 	* *Measurable* osmoles
 * Normal <10
 * An ↑ OG with a normal AG occurs with any substance that does not dissociate at physiological pH\
-This may occur in absence of acidosis, if the osmole is not metabolised to produce an acid. 
+This may occur in absence of acidosis if the osmole is not metabolised to produce an acid. 
 
 :::column-margin
-* Osmolality relates only to concentration, and so is not affected by molecular size or weight
+* Osmolality relates only to concentration, and is unrelated to molecular size or weight
 * To affect the OG, osmoles must be present in a sufficient concentration to make a meaningful contribution to total osmolality
 :::
 
@@ -161,7 +161,7 @@ $AG_{urine} = Na^+ + K^+ - Cl^-$:
 
 * Ammonium is the major adjustable urinary cation, and so the urinary AG acts as an index of NH~4~^+^ excretion\
 * Indicates whether a NAGMA is due to renal or non-renal cause\
-This is usually, but not always, obvious clinically.
+This is usually (but not always) obvious clinically.
 * If the urinary AG is:
 	* Negative then chloride exceeds the measured cations\
 	NH~4~^+^ is being eliminated instead, an appropriate renal response to acidosis. The problem then lies elsewhere.

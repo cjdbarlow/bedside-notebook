@@ -17,7 +17,7 @@ Determined by:
 		* **DC**\
 			* Violent muscle contraction may cause further injury
 			* Much less likely to cause VF than AC current
-		* **Conducted electrical weapons**
+		* **Conducted electrical weapons**\
 		Typically tasers, and similar devices. 
 			* Injuries due to consequences of the shock\
 			e.g. Falls.
@@ -26,8 +26,8 @@ Determined by:
 	* Tissue **resistance**\
 	Significant determinant of injury.
 		* **Wet skin** has **1000 times less resistance** than dry skin
-		* Medical devices that breach skin (e.g. IV lines) significantly ↑ susceptibility\
-		Classified into two types based on **ability to induce VF**:
+		* Medical devices that breach skin (e.g. IV lines) significantly ↑ susceptibility
+		* Classified into two types based on **ability to induce VF**:
 			* Microshock\
 			Induce VF when applied directly to myocardium; typically ~1ma.
 			* Macroshock\
@@ -37,7 +37,7 @@ Function of current source.
 
 
 :::column-margin
-![](/resources/letgocurrent.png)
+![Let-go Current Threshold: mA vs. Frequency](/resources/letgocurrent.png)
 :::
 
 :::column-margin
@@ -78,7 +78,7 @@ Risks:
 +-------------+------------------------+----------------------+
 | \>1mA       | Equipment fault        | Pain                 |
 +-------------+------------------------+----------------------+
-| \>**10mA**  | Equipment fault        | **Tetany**          |
+| \>**10mA**  | Equipment fault        | **Tetany**           |
 +-------------+------------------------+----------------------+
 | \>100mA     | Equipment fault        | Macroshock (VF)      |
 +-------------+------------------------+----------------------+
@@ -86,11 +86,11 @@ Risks:
 +-------------+------------------------+----------------------+
 | \>5A        | Equipment fault        | Sustained asystole   |
 +-------------+------------------------+----------------------+
-| \>1000A     | High-tension powerline | Severe burns         |
+| \>1000A     | High-tension powerline | Severe burns\        |
 |             |                        | Amputation           |
 +-------------+------------------------+----------------------+
-| \>12,000A   | Lightning              | Coma                 |
-|             |                        | Burns                |
+| \>12,000A   | Lightning              | Coma\                |
+|             |                        | Burns\               |
 |             |                        | Amputation           |
 +-------------+------------------------+----------------------+
 
@@ -102,7 +102,7 @@ Risks:
 They are generally harmless, but have capacity to cause microshock.
 :::
 
-## Clinical Manifestations
+## Clinical Features
 
 Injuries can occur due to:
 

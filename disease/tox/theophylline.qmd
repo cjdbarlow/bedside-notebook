@@ -2,13 +2,13 @@
 
 Theophylline is a phosphodiesterase inhibitor with a narrow therapeutic range that can cause life-threatening toxicity by two major mechanisms:
 
-* Adenosine receptor blockade\
+* **Adenosine receptor blockade**\
 Therapeutic bronchodilation, but also:
 	* Tachycardia
 	* Tachyarrhythmias
-	* SEizures
+	* Seizures
 	* Cerebral vasoconstriction
-* Phosphodiesterase inhibition\
+* **Phosphodiesterase inhibition**\
 ↑ Adrenergic activation and circulating catecholamines, with ↑ up to:
 	* 4-8 times normal for adrenaline
 	* 4-10 times normal for noradrenaline
@@ -77,8 +77,8 @@ Theophylline undergoes significant enterohepatic recirculation and so activated 
 :::
 
 * Pharmacological
-	* Activated charcoal
-		* Multiple doses for slow-release preparations or toxicity
+	* Activated charcoal\
+	Give multi-dose for slow-release preparations or toxicity.
 * Procedural
 	* RRT
 * Physical

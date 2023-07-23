@@ -15,7 +15,7 @@ This covers specific features of amphetamine toxicity. The general approach to m
 
 ### Aetiology
 
-## Clinical Manifestations
+## Clinical Features
 
 Mild:
 
@@ -53,8 +53,9 @@ Severe:
 :::priority
 * Manage **agitation** with **benzodiazepines**\
 This also treats haemodynamic effects and ↓ stroke risk.
-* Treat concomitant serotonin syndrome
-* Rhabdomyolysis prevention
+* Correct **residual hypertension** once agitation controlled
+* **Treat** concomitant **serotonin syndrome**
+* Prevent **rhabdomyolysis**
 :::
 
 :::column-margin

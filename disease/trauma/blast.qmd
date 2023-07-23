@@ -1,6 +1,6 @@
 # Blast Trauma
 
-A rapid release of chemical energy can produce an explosion, that causes harm via three mechanisms:
+Explosions occur due to a rapid release of chemical energy and cause harm via three mechanisms:
 
 * **Primary injury**\
 Pressure wave causing **barotrauma** due to over-, then under-pressurisation.
@@ -12,13 +12,13 @@ Pressure wave causing **barotrauma** due to over-, then under-pressurisation.
 			Coal, grain stores.
 			* BLEVE\
 			Gases stored as liquids under pressure explode when heating to a temperature above their boiling point.
-		* Underwater
-		* Enclosed spaces
+		* Underwater explosions
+		* Explosions in enclosed spaces
 * **Secondary injury**\
-Projectiles created by explosion.
+From projectiles propelled by the explosion.
 	* Often penetrating injury
 * **Tertiary injury**\
-Movement of air.
+From movement of air.
 	* Often blunt trauma
 	* Patient being thrown into objects
 	* Building collapse
@@ -32,7 +32,7 @@ Everything else:
 	* Dust
 
 :::column-margin
-![](/resources/blast_pressure.png)
+![Explosions: Pressure-over-Time](/resources/blast_pressure.png)
 :::
 
 :::column-margin
@@ -52,7 +52,7 @@ Blast wind created by gases produced during the explosion.
 
 ### Aetiology
 
-## Clinical Manifestations
+## Clinical Features
 
 Primary blast injury:
 
@@ -106,7 +106,7 @@ Tertiary blast injury:
 * B
 	* Lung protective ventilation
 		* Minimise Pip\
-		Risk of systemic air embolism.
+		Risk of systemic air embolism due to direct alveolar-venous communication.
 
 **Specific therapy**:
 

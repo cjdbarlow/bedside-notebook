@@ -5,7 +5,8 @@ Lithium toxicity may be either:
 * Acute overdose
 	* 25g in adult
 	* GI symptoms
-	* Neurological symptoms if concurrent renal impairment
+	* Neurological symptoms\
+	Generally requires concurrent renal impairment.
 * Chronic toxicity
 	* Neurological symptoms
 
@@ -15,7 +16,7 @@ Lithium toxicity may be either:
 
 ### Aetiology
 
-## Clinical Manifestations
+## Clinical Features
 
 Gastrointestinal:
 
@@ -52,7 +53,7 @@ Very rare, other toxins should be considered if these features are present.
 **Bedside**:
 
 * ABG
-	* Low-anion gap metabolic acidosis
+	* *Low*-anion gap metabolic acidosis
 * ECG
 * BSL
 

@@ -38,7 +38,7 @@ Usually combination of:
 	* Benzodiazepines
 	* Baclofen
 
-## Clinical Manifestations
+## Clinical Features
 
 
 ## Diagnostic Approach and DDx
@@ -55,7 +55,15 @@ Usually combination of:
 
 ## Management
 
+:::priority
+* Rapid temperature ↓ to <38°C
+:::
+
 **Resuscitation**:
+
+:::column-margin
+A detailed comparison of cooling methods is provided under @sec-fever.
+:::
 
 * C
 	* Fluid resuscitation
@@ -65,14 +73,12 @@ Usually combination of:
 		* Shaded area
 		* ↓ Activity
 		* Active external cooling
+			* Ice-water immersion
 			* Fans
 
 
 **Specific therapy**:
 
-* Pharmacological
-* Procedural
-* Physical
 
 **Supportive care**:
 

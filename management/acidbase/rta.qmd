@@ -1,15 +1,6 @@
 # Renal Tubular Acidosis {#sec-rta}
 
-**Hyperchloraemic acidosis** secondary to renal tubular disease that:
-
-:::column-margin
-:::tick
-Functionally:
-
-* **Type 2 is** the effect of **acetazolamide**, creating an alkaline diuresis
-* **Type 3 is** the effect of **hypoaldosteronism**, causing ↓ Na^+^ reabsorption and H^+^ and K^+^ retention
-:::
-:::
+Group of **hyperchloraemic acidoses** secondary to renal tubular disease that:
 
 * Are **characterised** by **impaired renal acid clearance**\
 Inappropriately high urinary pH.
@@ -29,6 +20,13 @@ Incomplete disease may leave enough reserve to clear normal daily acid productio
 		* DCT is able to secrete ammonia, which limits the degree of acidaemia and alkaluria
 	* **Type 4**\
 	↓ H^+^ and K^+^ clearance in the DCT.
+
+:::column-margin
+Functionally:
+
+* **Type 2 is** the effect of **acetazolamide** - there is an alkaline diuresis
+* **Type 3 is** the effect of **hypoaldosteronism** - there is ↓ Na^+^ reabsorption and ↑ H^+^ and K^+^ retention
+:::
 
 :::column-margin
 Type 3 RTA was initially defined as both type 1 (↓ DCT H^+^ secretion) and type 2 (↓ PCT HCO~3~^-^ reabsorption), but has been merged into a subtype of type 1.
@@ -63,14 +61,14 @@ Allows equilibration of HCO~3~^-^ and Cl^-^.
 **Type 4**:
 
 * ↓ Na^+^ reabsorption causes ↓ K^+^ elimination
-* ↑ K^+^ causes ↓ ammonia elimination\
-The mechanism of this is somewhat complex. Normally:
-	* Ammonia is normally excreted in the PCT
-	* Ammonia is then absorbed in the thick ascending limb\
-	This:
-		* Concentrates ammonia in the renal medulla, aiding the counter-current multiplier
-		* Is the step interfered with by hyperkalaemia
-	* Concentrated ammonia is then excreted into the medullary collecting ducts
+* ↑ K^+^ causes ↓ NH~4~^+^ elimination\
+The mechanism of this is somewhat complex:
+	* Normally, NH~4~^+^ is excreted in the PCT
+	* Excreted NH~4~^+^ is reabsorbed in the thick ascending limb
+		* Absorption uses the Na^+^-K^+^-2Cl^-^ cotransporter, where NH~4~^+^ may substitute for K^+^
+		* Reabsorption concentrates NH~4~^+^ in the renal medulla\
+		This drives the counter-current multiplier, facilitating urinary concentration.
+	* An ↑ in luminal K^+^ competes with NH~4~^+^, ↓ reabsorption
 * ↓ Ammonia elimination results in ↑ Cl^-^ reabsorption
 
 
@@ -117,7 +115,6 @@ The mechanism of this is somewhat complex. Normally:
 +----------------------+---------------------------------------------+-----------------------------------------------------------------------+-----------------------------------------+
 
 
-
 ## Management
 
 :::priority
@@ -145,4 +142,5 @@ The mechanism of this is somewhat complex. Normally:
 ## References
 
 1. Brandis, K. [Acid-base pHysilogy](http://www.anaesthesiamcq.com/AcidBaseBook/ABindex.php). 2015.
-2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1 Rose BD, Post TW. Clinical physiology of acid-base and electrolyte disorders. 5th ed. New York, NY: McGraw-Hill; 2001.
