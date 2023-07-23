@@ -55,17 +55,18 @@ span.glossary {
 }
 
 /* Make the figure captions match the table captions */
-figcaption.figure-caption, caption {
+figcaption, figure-caption, caption {
     font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
     text-align: center;
-    color: #212529;
+    color: #000000;
 }
 
 /* Buff the font size of the captions */
-.column-margin figcaption {
-    font-size: 1rem;
+section > table > caption {
+    font-size: 1.3rem;
 }
 
-caption {
-    font-size: 1.3rem;
+div.column-margin > div > table > caption,
+div.column-margin > div > div > figure > figcaption {
+    font-size: 1rem;
 }
