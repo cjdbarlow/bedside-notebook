@@ -55,7 +55,7 @@ Provision of a glucose load with resumption of feeding causes a ↑↑ in insuli
 | **Respiratory**    | * Hypoventilation\         |                  |                        |
 |                    | Weakness.                  |                  |                        |
 +--------------------+----------------------------+------------------+------------------------+
-| **CVS**            | * Systolic heart failure   | * Arrhythmia     | * Arrhythmias          |
+| **CVS**            | * Systolic heart failure   | * Arrhythmias    | * Arrhythmias          |
 |                    | * Arrhythmia               |                  |                        |
 +--------------------+----------------------------+------------------+------------------------+
 | **Neurological**   | * Metabolic encephalopathy | * Seizures       | * Seizures             |
@@ -77,7 +77,7 @@ Provision of a glucose load with resumption of feeding causes a ↑↑ in insuli
 +--------------------+----------------------------+------------------+------------------------+
 
 
-Other features include:
+Other features may include:
 
 * Hyponatraemia\
 Occurs with a carbohydrate-rich diet as the carbohydrate is metabolised into water and CO~2~.

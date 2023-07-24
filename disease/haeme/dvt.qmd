@@ -1,6 +1,6 @@
 # Deep Vein Thrombosis {#sec-dvt}
 
-Clot formation in a deep vein which are at risk of thrombosis
+Clot formation in a deep vein which are at risk of embolism.
 
 :::column-margin
 VTE is an umbrella term encompassing both DVT and PE, and is used as there is substantial overlap in both pathologies. This distinction is not made here; this section covers DVT whilst PE is covered in detail under @sec-pe. Thromboprophylaxis is explored under @sec-thromboprophylaxis.
@@ -104,7 +104,7 @@ For mediastinal and pelvic vasculature.
 :::priority
 * Risk assessment\
 Determine provoked vs. unprovoked DVT, which influences risk of recurrence.
-* Anticoagulation
+* **Anticoagulation**
 :::
 
 **Resuscitation**:
@@ -137,7 +137,7 @@ IVC filters are covered in detail under @sec-thromboprophylaxis.
 	* IVC filter
 * Physical
 
-:::
+:::column-margin
 : Duration of Anticoagulation
 
 +---------------------+-------------+------------+

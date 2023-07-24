@@ -4,8 +4,7 @@
 Acute cholangitis is also known as ascending cholangitis.
 :::
 
-Potentially life-threatening system bacterial infection of the biliary tree that occurs secondary to biliary obstruction, and is classified by clinical severity into:
-
+Potentially life-threatening system bacterial **infection** of the **biliary tree secondary to** biliary **obstruction**, and is classified by clinical severity into:
 
 * Mild: **Grade I**\
 Responsive to treatment.
@@ -34,7 +33,7 @@ Biliary obstruction leads to a cascade of:
 Obstruction may be due to:
 
 * Biliary stones
-* Occlusion of pevious stents
+* Occlusion of previous stents
 * Contrast reflux
 * Duct stenosis
 	* Malignant
@@ -182,7 +181,7 @@ Relief of biliary obstruction and drainage of infected bile with:
 	* ERCP
 		* Treatment of choice
 		 * Sphincterotomy
-		 * STone removal
+		 * Stone removal
 	* Cholecystectomy
 		* Biliary stenting
 	* Percutaneous Transhepatic Cholangiography

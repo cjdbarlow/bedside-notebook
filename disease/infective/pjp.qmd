@@ -1,12 +1,16 @@
 # Pneumocystis Jirovecii Pneumonia
 
 :::info
-*Pneumocystis jirovecii* was previously known as *Pneumocystis carinii*, and was also once classified as a protozoan and not a fungus.
-
-It is therefore sometimes still referred to by the "PCP" acronym.
+*Pneumocystis jirovecii* was previously known as *Pneumocystis carinii*, and is sometimes still referred to by the "PCP" acronym.
 :::
 
 Severe fungal pneumonia caused by *Pneumocystis Jirovecii*, which is essentially confined to the severely immunocompromised:
+
+:::column-margin
+After its rechristening, PJP was spelled *jirovec**i*** (after a Czech parasitologist) as it was at the time believed to be a protozoa.\
+\
+The enigmatic organism was later confirmed to be a fungus, and therefore naming rights passed from the International Code of Zoological Nomenclature (ICZN) to the International Code of Nomenclature of algae, fungi, and plants (ICNafp) which requires the substantival epithet to be formed with a second *-i*. Hence, *jirocev**ii***.
+:::
 
 * HIV
 * Transplant recipients
@@ -26,7 +30,7 @@ Severe fungal pneumonia caused by *Pneumocystis Jirovecii*, which is essentially
 
 ### Aetiology
 
-## Clinical Manifestations
+## Clinical Features
 
 Usually insidious:
 

@@ -238,7 +238,7 @@ The relevant principles are summarised as the **Brainstem Rule of Four**, which 
 
 1. **Four** cranial nerves:
 	* Above the pons\
-	CN III-IV. As CN I and II arise above the midbrain, they will unaffected by a brainstem lesion.
+	CN III-IV. As CN I and II arise above the midbrain, they will be unaffected by a brainstem lesion.
 	* In the pons\
 	CN V-VIII.
 	* In the medulla\
@@ -684,7 +684,7 @@ Things to consider if the stroke patient deteriorates:
 
 ### Malignant Middle Cerebral Artery Infarction Syndrome
 
-A massive swelling of the MCA territory driving by a proximal occlusion, leading to mass effect on the contralateral side. MMCAS:
+A massive swelling of the MCA territory secondary to a proximal occlusion, leading to significant mass effect on the contralateral side. MMCAS:
 
 :::column-margin
 ![](/resources/mmca-crani.png)

@@ -136,6 +136,10 @@ Circulating erythrocyte precursors that have yet to eject their nucleus, indicat
 ![Nucleated Erythrocyte](/resources/normoblast.png)
 :::
 
+:::column-margin
+{{< include /includes/hyperviscosity.qmd >}}
+:::
+
 * **Rouleaux Formations**\
 Reversible agglutination of erythrocyte in a stack or coin-like formation, which may occur due to:
 	* ↑ Plasma protein (but not albumin)

@@ -144,11 +144,11 @@ Organisms most commonly associated with sepsis include:
 |                                                                                    |                  | * *Psoas abscess*                   |                            |
 |                                                                                    |                  | * Necrotising fasciitis             |                            |
 +------------------------------------------------------------------------------------+------------------+-------------------------------------+----------------------------+
-| **Notes**:                                                                         |                  |                                     |                            |
-|                                                                                    |                  |                                     |                            |
-| * Classified by relative incidence in each category, rather than overall incidence |                  |                                     |                            |
-| * Sources of potentially *occult* infection are *italicised*                       |                  |                                     |                            |
-+------------------------------------------------------------------------------------+------------------+-------------------------------------+----------------------------+
+| **Notes**:                                                                                                                                                               |
+|                                                                                                                                                                          |
+| * Classified by relative incidence in each category, rather than overall incidence                                                                                       |
+| * Sources of potentially *occult* infection are *italicised*                                                                                                             |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
 
@@ -304,6 +304,17 @@ Early use of noradrenaline is associated with ↓ mortality.
 	* **Antibiotics**
 		* Empirical\
 		Tailored to likely sources and resistance patterns.
+	* **Corticosteroids**
+		* Controversial
+		* Appropriate for patients:
+			* With another indication for steroids
+			* Sepsis with CAP
+		* *May* be appropriate in septic patients:
+			* Refractory to vasopressors
+			* Otherwise high risk
+		* Unlikely to change mortality or outcome
+		* Will spare vasopressors
+		* May ↓ ventilator days and speed shock resolution
 	* Toxic Shock cover\
 	If treating TSS, or empirical if clinically likely.
 		* Clindamycin
@@ -336,17 +347,6 @@ Early use of noradrenaline is associated with ↓ mortality.
 
 **Drugs**:
 
-* **Corticosteroids**
-	* Controversial
-	* Appropriate for patients:
-		* With another indication for steroids
-		* Sepsis with CAP
-	* *May* be appropriate in septic patients:
-		* Refractory to vasopressors
-		* Otherwise high risk
-	* Unlikely to change mortality or outcome
-	* Will spare vasopressors
-	* May ↓ ventilator days and speed shock resolution
 * β-blockade
 	* Esmolol probably most well studied
 		* Very high control group mortality

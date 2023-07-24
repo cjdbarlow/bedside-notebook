@@ -10,7 +10,7 @@ Chemotherapeutic agents are infamous for a wide range of adverse effects. These 
 
 Immunotherapeutics are biological therapies that augment the immune system to destroy cancer cells, and have revolutionised the treatment of many malignancies with traditionally poor prognoses.
 
-Adverse effects of immunotherapy relate to augmented immune function and include:
+**Adverse effects** of immunotherapy **relate to augmented immune function** and include:
 
 * B
 	* Pneumonitis
@@ -41,7 +41,7 @@ Adverse effects of immunotherapy relate to augmented immune function and include
 		* Lichenoid eruptions
 
 
-Management:
+### Management
 
 * Predominantly supportive
 * Agents may be continued, adjusted, or ceased depending on the nature and severity of toxicity

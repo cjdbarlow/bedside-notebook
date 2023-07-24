@@ -14,7 +14,7 @@ Leads to bone marrow failure, characterised by:
 			* Several known translocations
 			* Acute promyelocytic leukaemia (APML)\
 			Associated with DIC.
-		* AML with multi-lineage dysplasia
+		* AML with multi-lineage dysplasia\
 		Typically progresses from myelodysplasia and has poor prognosis.
 		* Therapy-related AML\
 		AML following chemotherapy or radiotherapy.
@@ -28,16 +28,15 @@ Leads to bone marrow failure, characterised by:
 		* Common in elderly
 		* 8-12 year median survival
 		* May transform to diffuse large B cell lymphoma\
-		Consequentially very poor prognosis.
+		This has a very poor prognosis.
 	* **Chronic Myeloid Leukaemia**\
-	Accumulation of mature but abnormal lymphocytes that:
-		* Occurs in three phases, which occur as additional mutations accrue:
-			* Chronic phase\
-			May last several years, with minimal symptoms.
-			* Accelerated phase\
-			More rapid proliferation with ↑ symptoms.
-			* Blast crisis\
-			Proliferation of immature blasts, resembling acute leukaemia.
+	Accumulation of mature but abnormal lymphocytes that is divided into three phases, which advance as additional mutations accrue:
+		* Chronic phase\
+		May last several years, with minimal symptoms.
+		* Accelerated phase\
+		More rapid proliferation with ↑ symptoms.
+		* Blast crisis\
+		Proliferation of immature blasts, resembling acute leukaemia.
 	* Ambiguous lineage\
 	Evidence of either both lymphoid and myeloid cells, or where there are not enough categories to accurately classify it.
 
@@ -45,7 +44,7 @@ Leads to bone marrow failure, characterised by:
 
 ## Pathophysiology
 
-![](/resources/haeme_progenitor.png)
+![Haematological Progenitors](/resources/haeme_progenitor.png)
 
 ### Aetiology
 

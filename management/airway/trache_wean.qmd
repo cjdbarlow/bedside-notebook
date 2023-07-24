@@ -1,58 +1,15 @@
 # Tracheostomy Weaning
 
-Safe removal of a trachestomy requires the patient to meet certain **preconditions**:
-
-* **Resolution** of condition that required tracheostomy
-* A
-	* **Patent** upper **airway**
-	* **Manageable secretion** load\
-	Cough adequate for the volume of secretions. Consider met if:
-		* **<4 suction** episodes in previous **24 hours**
-		* **No suppurative** lung disease
-	* **Airway reflexes** intact\
-	Cough and gag present.
-* B
-	* No requirement for **mechanical ventilation**\
-	Consider met if:
-		* **>24 hours** free from ventilation
-		* **Minimal** additional **oxygenation**\
-		e.g. Humidification only.
-		* No upcoming requirement for mechanical ventilation
-		* Manageable work of breathing
-* D
-	* Adequate **conscious state** to engage in physiotherapy and cooperation
-* E
-	* Adequate muscular strength
-* G
-	* Low **gastric aspirates**\
-	Avoid commencing weaning in patients with gastric aspirates >250mL due to the risk of aspiration.
-
-:::column-margin
-: Effects of decannulation
-
-| Benefits                                   | Drawbacks               |
-| ------------------------------------------ | ----------------------- |
-| ↑ Secretion clearance                      | ↑ Work of Breathing     |
-| ↓ Secretion burden                         | ↑ Anatomical dead space |
-| Facilitate speech                          |                         |
-| Improved swallowing                        |                         |
-| Better humidification                      |                         |
-| Pursed lip breathing - provides auto-PEEP  |                         |
-| ↓ Nursing/carer burden                     |                         |
-| ↓ Tracheostomy risks (bleeding, infection) |                         |
-:::
-
-
-## Approach to Weaning
+The pace of progression will vary depending on the the patient, but a fairly standard path involves:
 
 :::column-margin
 Depending on respiratory mechanics and individual preferences, different patients may fare better with CPAP, HFTM, or speaking valve.
 :::
 
-* Transition patient from controlled ventilation to pressure support ventilation
+* Transition from controlled ventilation to pressure support ventilation
 * Gradually ↓ pressure support and PEEP
 	* ↑ RR is an earlier sign of failure than ↓ V~T~
-	* Avoid over-tiring a patient, sustained steady progress is preferable
+	* Avoid over-tiring a patient, sustained steady progress is preferable to a rapid wean followed by exhaustion and stagnation
 * Once comfortable on pressure support, introduce trials of:
 	* CPAP\
 	Generally 5-10cmH~2~O, without pressure support.
@@ -61,7 +18,7 @@ Depending on respiratory mechanics and individual preferences, different patient
 	* Speaking valve\
 	Requires cuff down, and therefore has associated aspiration risk.
 * Progressively ↑ duration of trials and ↓ of support until the patient is consistently stable and comfortable on a non-CPAP mode of support
-* Consider decannulation once above preconidtions met
+* Consider decannulation once above preconditions met
 
 :::column-margin
 Considerations for cuff down periods:
@@ -71,6 +28,7 @@ Positive pressure ventilation partially mitigates this by providing continual fl
 * Aspirate secretions above the cuff prior to deflation
 * Suction via the tracheostomy *during* deflation to catch dislodged cuff secretions
 :::
+
 
 ### Failure to Wean
 
@@ -91,14 +49,55 @@ Other airway pathology that is impeding wean, e.g.
 	* Stenosis
 
 
-## Approach to Decannulation
+## Decannulation
+
+A tracheostomy can be **removed safely if** a patient:
+
+:::column-margin
+: Effects of decannulation
+
+| Benefits                                   | Drawbacks               |
+| ------------------------------------------ | ----------------------- |
+| ↑ Secretion clearance                      | ↑ Work of Breathing     |
+| ↓ Secretion burden                         | ↑ Anatomical dead space |
+| Facilitate speech                          |                         |
+| Improved swallowing                        |                         |
+| Better humidification                      |                         |
+| Pursed lip breathing - provides auto-PEEP  |                         |
+| ↓ Nursing/carer burden                     |                         |
+| ↓ Tracheostomy risks (bleeding, infection) |                         |
+:::
+
+* Has a **patent** upper **airway**
+	* Indication for tracheostomy
+	* Known difficulties with airway management
+* Has a **protected** upper **airway**
+	* Adequate conscious state
+	* **Airway reflexes** intact\
+	Cough and gag present.
+	* Low **gastric aspirates**\
+	Avoid commencing weaning in patients with gastric aspirates >250mL due to the risk of aspiration.
+* Can **clear** their **secretion load**\
+Cough adequate for the volume of secretions. Consider met if:
+	* **<4 suction** episodes in previous **24 hours**
+	* **No suppurative** lung disease
+	* Adequate analgesia and strength
+* Does **not require** mechanical **ventilation**
+	* **>24 hours** free from assisted ventilation
+	* **Minimal** additional **oxygenation**\
+	* No upcoming requirement for mechanical ventilation
+	* Adequate strength
+
+
+### Approach
 
 If preconditions are met:
 
+* Perform a cuff-down trial\
+Deflate the tracheostomy cuff.
 * Ensure 48-72 hours without need for mechanical ventilation
 * Remove tracheostomy tube and apply occlusive dressing\
 It should **heal** over in **7-10 days**. If there is late failure, an existing tract can be reopened with serial dilators, or a smaller tracheostomy tube can be placed.
-
 
 :::column-margin
 One traditional approach to weaning was a **capping trial**, which:
@@ -112,7 +111,7 @@ In a ward/lower-skilled environment, the cap should be tolerated for least **24*
 :::
 
 
-## Failure to Decannulate
+### Failure to Decannulate
 
 If weaning is unsuccessful, consider:
 

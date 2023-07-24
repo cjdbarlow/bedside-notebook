@@ -1,6 +1,6 @@
 # Graft versus Host Disease {#sec-gvhd}
 
-Complication of **allogeneic** haematopoietic **stem cell transplant** (and occasionally blood transfusion) where the **donor immunological cells recognise** the **host** as **foreign**, causing a generalised immune response. Divided into:L
+Complication of **allogeneic** haematopoietic **stem cell transplant** (and occasionally blood transfusion) where the **donor immunological cells recognise** the **host** as **foreign**, causing a generalised immune response. Divided into:
 
 :::column-margin
 Haematopoietic stem cell transplant is covered under @sec-gvhd.
@@ -63,7 +63,7 @@ Affected regions; classically skin, liver, or rectal.
 
 :::priority
 * Preventative immunosuppression in at-risk individuals
-* Pulsed immunosuppression for 
+* Pulsed immunosuppression 
 :::
 
 **Resuscitation**:
@@ -89,7 +89,7 @@ Affected regions; classically skin, liver, or rectal.
 * Immunosuppression
 	* Corticosteroids
 	* Cyclosporin
-	* Mycophenolate mofetil)
+	* Mycophenolate mofetil
 
 
 ### Marginal and Ineffective Therapies

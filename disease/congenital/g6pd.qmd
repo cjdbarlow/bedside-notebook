@@ -25,7 +25,7 @@ G6PD is an X-linked **enzyme deficiency** that causes **extravascular haemolysis
 ## Pathophysiology
 
 * **G6PD** is an enzyme that **reduces NADP^+^ to NADPH** by oxidising glucose-6-phosphate
-* **NADPH** is **used** to **regenerative glutathione**, which is used by erythrocytes to **repair oxidative damage**
+* **NADPH** is **used** to **regenerate glutathione**, which is used by erythrocytes to **repair oxidative damage**
 * Inadequate NADPH production results in:
 	* Glutathione depletion
 	* Unrepaired oxidative stress\
