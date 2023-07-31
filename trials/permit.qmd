@@ -1,0 +1,18 @@
+* [PermiT](http://www.nejm.org/doi/full/10.1056/NEJMoa1502826) (2015)
+	* 894 adult ICU patients receiving EN within 48 hours, with an expected ICU LoS >72 hours
+	* Multi-centre (7), block randomised, unblinded RCT
+	* 80% power for 8% absolute reduction (!!) in mortality from baseline of 25%
+	* Permissive underfeeding vs. standard feeding
+		* Underfeeding
+			* Caloric goal 40-60% of requirement
+			* Protein and fluid supplementation as required
+			* Average intake was 835 ±297 kCal/day (46 ±14% of goal)
+		* Standard feeding
+			* Goal was 70-100% of requirement
+			* Average intake was 1299 ±467 kCal/day (71 ±22% of goal)
+		* Caloric goal by equations
+		* Protein goal 1.2-1.5g/kg/day
+		* Over or underfeeding was corrected by adjusting the next days feed target
+	* No difference in 90-day mortality (27.2% vs. 28.9%)
+	* No difference in any secondary outcome or electrolytes
+	* Higher insulin requirement and BSL in feeding group

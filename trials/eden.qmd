@@ -1,0 +1,13 @@
+* [EDEN](https://jamanetwork.com/journals/jama/fullarticle/1355969) (2012)
+	* 1000 intubated adult ICU patients with acute lung injury, ventilated <72 hours who required EN
+	* Multicentre (44) unblinded RCT
+	* 91% power to detect 2.25 day difference in ventilator free days
+	* Trophic vs. full enteral feeding for the first 6 days of ICU admission
+		* Trophic feeding
+			* EN at 20kCal/hr
+			* GRV checked Q12H
+		* Full feeding
+			* EN at 25mL/hr and advanced to goal rate by protocol (25mL/hr increments)
+		* 400mL GRV threshold
+	* No difference in ventilator free days, mortality, or infection
+	* ↓ Feed intolerance in trophic feeding group

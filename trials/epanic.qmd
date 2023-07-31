@@ -1,0 +1,21 @@
+* [EPaNIC](http://www.nejm.org/doi/full/10.1056/NEJMoa1102662) (2011)
+	* 4640 nutritionally at-risk non-pregnant Belgian adults admitted to ICU, without profound malnutrition, ketosis, HHS, or moribund
+	* Multicentre (7), unblinded, allocation-concealed, stratified (16 disease categories) trial
+	* 80% power for 1 day change in ICU length of stay
+	* Late PN vs. early PN
+		* Late PN
+			* PN at day 8 if EN not sufficient to meet caloric goal
+			* Mean length of stay 3 days (IQR 2-7)
+		* Early PN
+			* PN at day 3 to meet 100% of goal
+			* Mean length of stay 4 days (IQR 2-9)
+		* Dextrose for caloric targeting
+		* Tight glycaemic control (4.4-6.1mmol/L)
+		* EN at day 2 if PO diet could not be initiated
+		* 25-30kCal/kg/day, based on IBW
+	* Significant ↓ ICU length of stay in late group (3 vs. 4, p = 0.02)
+	* No change in mortality
+	* Secondary outcomes all favoured late group:
+		* ↓ New infection rate
+		* ↓ Duration of mechanical ventilation and RRT
+	* Very short duration of ICU admission in both groups

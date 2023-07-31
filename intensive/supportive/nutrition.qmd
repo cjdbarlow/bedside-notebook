@@ -436,13 +436,19 @@ Particularly in burns patients.
 
 ## Key Studies
 
-**EN Types**:
+**Caloric targets**:
 
+{{< include /trials/permit.qmd >}}
+
+**EN Rate**:
+
+{{< include /trials/eden.qmd >}}
 {{< include /trials/target.qmd >}}
 
 
-**EN vs. PN**:
+**Early vs. Late PN**:
 
+{{< include /trials/epanic.qmd >}}
 {{< include /trials/gao.qmd >}}
 
 
@@ -455,3 +461,4 @@ Particularly in burns patients.
 1. Gao X, Liu Y, Zhang L, et al. [Effect of Early vs Late Supplemental Parenteral Nutrition in Patients Undergoing Abdominal Surgery: A Randomized Clinical Trial](https://jamanetwork.com/journals/jamasurgery/fullarticle/2790269). JAMA Surgery. 2022;157(5):384-393.
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
 1. [Energy-Dense versus Routine Enteral Nutrition in the Critically Ill](https://www.nejm.org/doi/full/10.1056/NEJMoa1811687). New England Journal of Medicine. 2018;379(19):1823-1834. doi:10.1056/NEJMoa1811687
+1. Casaer MP, Mesotten D, Hermans G, et al. [Early versus Late Parenteral Nutrition in Critically Ill Adults](http://www.nejm.org/doi/full/10.1056/NEJMoa1102662). New England Journal of Medicine. 2011;365(6):506-517. doi:10.1056/NEJMoa1102662
