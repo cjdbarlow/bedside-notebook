@@ -67,7 +67,7 @@ Diagnosis requires:
 	* Leukocytosis
 
 :::column-margin
-Serotonin Syndrome is a always a differential for NMS.\
+Serotonin Syndrome is a common differential for NMS.\
 \
 {{< include /includes/nms_ss.qmd >}}
 :::

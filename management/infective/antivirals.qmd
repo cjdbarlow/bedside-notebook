@@ -1,0 +1,30 @@
+# Antivirals
+
+: Comparison of Antivirals
+
++-----------+----------------+--------------------------------------------------------+-------------------------------------+
+| Drug      | Considerations | Indication                                             | Dosing                              |
++===========+================+========================================================+=====================================+
+| Acyclovir | * Use ABW      | Prophylaxis                                            | * CrCl ⩾10mL/min: 2mg/kg IV Q12H    |
+|           |                |                                                        | * CrCl <10mL/min: 1mg/kg IV Q12H    |
+|           |                |                                                        | * IHD: 1mg/kg IV Q24H               |
+|           |                |                                                        | * CRRT: 2mg/kg IV Q12H              |
++-----------+----------------+--------------------------------------------------------+-------------------------------------+
+|           |                | Moderate disease                                       | * CrCl ⩾50mL/min: 5mg/kg IV Q8H     |
+|           |                |                                                        | * CrCl 50-25mL/min: 5mg/kg IV Q12H  |
+|           |                |                                                        | * CrCl 25-10mL/min: 5mg/kg IV OD    |
+|           |                |                                                        | * CrCl <10mL/min: 2.5mg/kg IV OD    |
+|           |                |                                                        | * IHD: 2.5mg/kg IV OD               |
+|           |                |                                                        | * CRRT: 5-10mg/kg IV Q12H           |
++-----------+----------------+--------------------------------------------------------+-------------------------------------+
+|           |                | Severe disease (e.g. CNS, disseminated, HSV infection) | * CrCl ⩾50mL/min: 10mg/kg IV Q8H    |
+|           |                |                                                        | * CrCl 50-25mL/min: 10mg/kg IV Q12H |
+|           |                |                                                        | * CrCl 25-10mL/min: 10mg/kg IV OD   |
+|           |                |                                                        | * CrCl <10mL/min: 5mg/kg IV OD      |
+|           |                |                                                        | * IHD: 5mg/kg IV OD                 |
+|           |                |                                                        | * CRRT: 10mg/kg IV Q12H             |
++-----------+----------------+--------------------------------------------------------+-------------------------------------+
+
+---
+
+## References

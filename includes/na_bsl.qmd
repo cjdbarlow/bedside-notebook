@@ -1,0 +1,12 @@
+Correcting sodium for glucose allows the presence of an underlying sodium disorder to be quantified. A variety of calculations exist, consider:
+
+$Na_{corr} = Na_{serum} - {Glucose \over 4}$
+
+Where:
+
+* $Na_{corr}$ is the corrected sodium in mmol/L
+* $Na_{serum}$ is the measured sodium in mmol/L
+* $Glucose$ is the BSL in mmol/L
+
+Note that the serum sodium is a true indication of the current electrolyte composition of the serum, and so the *un*corrected value should be used for other calculations, such as the anion gap.
+

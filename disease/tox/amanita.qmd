@@ -35,7 +35,6 @@ The death cap mushroom, *Amanita phalloides*, produces **amatoxin** which irreve
 ## Management
 
 :::priority
-Goals of management
 :::
 
 **Resuscitation**:
@@ -44,7 +43,7 @@ Goals of management
 
 * Pharmacological
 	* Multi-dose activated charcoal
-	* Silibinin 5mg/kg for 1 hour, then 20mg/kg/day for 3 days
+	* Silibinin 5mg/kg for 1 hour, then 20mg/kg/day for 3 days\
 	Competitive inhibitor of amatoxin membrane transport, ↓ hepatocyte uptake. Alternatives include:
 		* Rifampicin 600mg daily
 		* Benzylpenicillin 600mg/kg/day

@@ -6,7 +6,13 @@ Proning is a treatment for refractory hypoxaemia in T1RF that:
 Proning is a cornerstone of ARDS management. ARDS is covered in detail under @sec-ards.
 :::
 
-* Promotes homogenous lung ventilation
+* Promotes homogenous lung ventilation\
+Creates a more uniform distribution of pleural pressure, which:
+	* ↓ Cyclical atelectasis and atelectotrauma
+	* Improves V/Q mismatch
+* ↓ Lung deformation\
+Relieves compression of the lungs from the mediastinum and abdominal contents.
+* ↑ FRC
 * Facilitates secretion drainage
 * Reverses hypoxia due to shunt
 

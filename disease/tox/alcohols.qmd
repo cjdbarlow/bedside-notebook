@@ -79,7 +79,7 @@ Methanol is metabolised into formic acid, ethylene glycol is metabolised into gl
 **Laboratory**:
 
 :::column-margin
-Osmolar gap and anion gap change over time. Initially, the OG is ↑ due to the toxic alcohols, then as the alcohol is metabolised to acids the OG ↓ and the AG ↑.
+The osmolar gap and anion gap change over time. Initially the OG is ↑ due to the toxic alcohols, but as the alcohol is metabolised to acids the OG ↓ and the AG ↑.
 :::
 
 * Blood
@@ -135,7 +135,7 @@ Degree of **inebriation** produced is **proportional** to **molecular weight**.
 	Inhibit conversion to toxic acids in methanol and ethylene glycol poisoning.
 		* Agents:
 			* Fomepizole 15mg/kg IV load, then 10mg/kg Q12H
-			* Ethanol 0.6g/kg PO, targeting a BAC of 0.1-0.15%.
+			* Ethanol 0.6g/kg PO, targeting a BAC of 0.1-0.15%
 				* Will contribute to CNS toxicity
 		* Indicated for:
 			* Osmolar gap >10mOsm

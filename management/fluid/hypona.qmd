@@ -57,7 +57,7 @@ Hyponatraemia is a disorder of water excess. Broadly, this may be either due to:
 * Excessive water intake
 * Failure of the kidneys to remove water
 
-## Clinical Manifestations
+## Clinical Features
 
 Speed of onset is more important than the absolute value.
 
@@ -248,6 +248,10 @@ Wasting both sodium and water indicates a failure of both sodium and water reabs
 
 
 **Laboratory**:
+
+:::column-margin
+{{< include /includes/na_bsl.qmd >}}
+:::
 
 * Blood
 	* Serum osmolality\

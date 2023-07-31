@@ -352,6 +352,9 @@ Screen for AF.
 	* Thrombophilia screen
 	* Pregnancy
 
+:::column-margin
+Thrombophilia screen is covered under @sec-thrombophilia.
+:::
 
 **Imaging**:
 

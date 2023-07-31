@@ -1,6 +1,6 @@
 # Standard Approach
 
-This section outlines the chemical principles and a reasonably standard approach to blood gas interpretation.
+This section outlines the chemical principles underlying blood gas interpretation and provides a reasonably standard approach.
 
 ## Principles
 
@@ -28,6 +28,10 @@ Predominantly in patients who experience wild swings in their serum potassium, t
 * Normal value 16 (12-20)
 * CICM examiner sad\
 Thus, the uncorrected version is used here.
+:::
+
+:::column-margin
+{{< include /includes/negative_ag.qmd >}}
 :::
 
 * Erroneous measurements
@@ -133,7 +137,11 @@ This occurs during metabolism of toxic alcohols.
 +----------------------+--------------------------------------------+-----------------------------------+
 
 :::column-margin
-As the osmolar gap may vary in absence of acidosis, causes of an abnormal osmolar gap are presented here.
+As the osmolar gap may vary in absence of acidosis, causes of an abnormal osmolar gap are also presented here.
+:::
+
+:::column-margin
+{{< include /includes/na_bsl.qmd >}}
 :::
 
 ### Strong Ion Difference
@@ -164,8 +172,8 @@ $AG_{urine} = Na^+ + K^+ - Cl^-$:
 This is usually (but not always) obvious clinically.
 * If the urinary AG is:
 	* Negative then chloride exceeds the measured cations\
-	NH~4~^+^ is being eliminated instead, an appropriate renal response to acidosis. The problem then lies elsewhere.
-	* Positive then the kidneys are inappropriately retaining chloride/losing base
+	NH~4~^+^ is being eliminated which is an appropriate renal response to acidosis. The problem lies elsewhere.
+	* Positive then there is inappropriate chloride retention/loss of base
 
 
 Derivation of the urinary anion gap equation:
@@ -196,7 +204,7 @@ $PAO_2 = FiO_2 \times (P_{atm} - 47) - {PaCO_2 \over R}$
 :::
 
 :::column-margin
-The A-a gradient is not actually that helpful in practice, since this shunt is almost always the primary cause.
+The A-a gradient is not actually that helpful in practice, since shunt is almost always the primary cause.
 :::
 
 :::column-margin

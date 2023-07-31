@@ -1,6 +1,6 @@
 # Haemophagocytic Lymphohistiocytosis {#sec-hlh}
 
-Life-threatening hyperimmune state characterised by excessive macrophage and T-cell activation secondary to ↑ cytokine production, which may be either:
+**Life-threatening hyperimmune state** characterised by excessive macrophage and T-cell activation secondary to ↑ cytokine production, which may be either:
 
 * Congenital
 * Acquired\
@@ -74,20 +74,18 @@ EBV may be a direct trigger, or cause HLH via an associated malignancy.
 
 ## Clinical Features
 
-Features include:
-
-* CNS features\
+* **CNS**\
 25-50% of cases, may rarely occur without systemic features:
 	* Delirium → obtundation → coma
 	* Focal deficits
 	* Headaches
 	* Meningism
 	* PRES
-* Haematological features
+* **Haematological**
 	* Splenomegaly
 	* Hepatomegaly
 	* Petechiae → generalised purpura
-* Inflammatory features
+* **Inflammatory**
 	* **Fever**\
 	Classically persistent, non-remitting, and non-responsive to antibiotics.
 	* Capillary leak
@@ -218,6 +216,7 @@ Implementing these criteria disease is hard in practice:
 
 :::column-margin
 Anakinra is a recombinant IL-1 receptor antagonist that ↓ the cytokine storm.
+:::
 
 **Supportive care**:
 

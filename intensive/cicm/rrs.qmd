@@ -1,6 +1,6 @@
 # Rapid Response Systems
 
-Hospital wide structure that provides a safety net for deteriorating patients who have a mismatch between their clinical needs and the local resources available to manage them.
+Hospital wide structure that **provides a safety net** for **deteriorating patients** who have a **mismatch between** their **clinical needs** and the **local resources** available to manage them.
 
 Intensive care has a clear role in RRS delivery and governance.
 

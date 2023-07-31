@@ -114,6 +114,10 @@ Diagnosis is biochemical, and requires:
 		* HAGMA due to ketoacidosis
 		* NAGMA due to loss of strong cations which are co-excreted with ketones
 
+:::column-margin
+{{< include /includes/na_bsl.qmd >}}
+:::
+
 **Laboratory**:
 
 * Osmolality\

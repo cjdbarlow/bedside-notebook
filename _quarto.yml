@@ -256,12 +256,14 @@ book:
             chapters:
             - management/haeme/anticoag.qmd
             - management/haeme/antiplatelets.qmd
-          - part: "Immunological"
+          - part: "Immunotherapy"
             chapters:
-            - management/haeme/immunosuppression.qmd
+            - management/haeme/immunosuppressants.qmd
             - management/haeme/ivig.qmd
             - management/haeme/plasmapheresis.qmd
             - management/haeme/stem_cell.qmd
+          - part: "Immunosuppression"
+            chapters:
             - management/haeme/febrile_neut.qmd
             - management/haeme/asplenia.qmd
         - part: "Trauma"
@@ -282,6 +284,7 @@ book:
               chapters:
               - management/infective/antibiotics.qmd
               - management/infective/antifungals.qmd
+              - management/infective/antivirals.qmd
             - part: "Pathogens"
               chapters:
               - management/infective/staph.qmd

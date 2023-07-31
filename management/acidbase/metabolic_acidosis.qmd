@@ -62,6 +62,9 @@ Abnormal ↑ in blood fixed acid concentration. Metabolic acidoses are:
 | Hyperkalaemia is typically the determinant of dialysis, rather than acidosis.  |                                    |
 +--------------------------------------------------------------------------------+------------------------------------+
 
+:::column-margin
+{{< include /includes/negative_ag.qmd >}}
+:::
 
 ## Pathophysiology
 
@@ -141,6 +144,19 @@ Adverse effects of metabolic acidosis include:
 			* May ↓ BSL
 			* Coagulopathy
 			* Potassium disturbances
+
+:::column-margin
+There are several equations that estimate the dose of sodium bicarbonate required to reverse a metabolic acidosis.\
+\
+They are all inaccurate, but if you need to pick one consider:\
+$Dose = W \times 0.3 \times ([HCO_3^-]_{Target} - [HCO_3^-]_{Current})$\
+\
+Where:
+
+* $Dose$ is bicarbonate dose in mmol
+* $W$ is weight in kg
+* $[HCO_3^-]$ is serum bicarbonate concentration in mmol/L
+:::
 
 ## Key Studies
 

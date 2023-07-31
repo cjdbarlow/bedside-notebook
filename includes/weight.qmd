@@ -1,0 +1,12 @@
+Various formulas for calculating dosing weights include:
+
+* $IBW_{Male} = Height - 105$
+* $IBW_{Female} = Height - 108$
+* $ABW = IBW + 0.4(TBW - IBW)$
+
+Where:
+
+* $IBW$ is ideal body weight
+* $Height$ is height in cm
+* $ABW$ is adjusted body weight
+* $TBW$ is total body weight

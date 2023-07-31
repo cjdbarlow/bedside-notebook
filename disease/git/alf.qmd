@@ -435,18 +435,20 @@ Transplantation:
 Eligibility for transplantation is determined using one of the prognostic scores, such as MELD or the King's College criteria.
 :::
 
-+----------------------------+-----------------------------+
-| Paracetamol Toxicity       | Other Cause                 |
-+============================+=============================+
-| - pH <7.25 and             | - PT >100s                  |
-| - Lactate >3mmol/L         |                             |
-|                            | Or 3 of:                    |
-| Or:                        | - Age <10 or >40            |
-| - PT >100s and             | - Hyperacute                |
-| - Cr >300μmol/: and        | - Seronegative/drug induced |
-| - Grade 3/4 encephalopathy | - Bilirubin >300μmol/:      |
-|                            | - PT >50s                   |
-+----------------------------+-----------------------------+
++-----------------------------+-----------------------------+
+| Paracetamol Toxicity        | Other Cause                 |
++=============================+=============================+
+| * pH <7.25 and              | * PT >100s                  |
+| * Lactate >3mmol/L          |                             |
++-----------------------------+-----------------------------+
+|  Or:                        | Or 3 of:                    |
+|                             |                             |
+|  * PT >100s and             | * Age <10 or >40            |
+|  * Cr >300μmol/L and        | * Hyperacute                |
+|  * Grade 3/4 encephalopathy | * Seronegative/drug induced |
+|                             | * Bilirubin >300μmol/L      |
+|                             | * PT >50s                   |
++-----------------------------+-----------------------------+
 
 : King's College Criteria for Liver Transplantation
 
@@ -468,7 +470,7 @@ Use an app.
 * Creatinine
 
 | MELD Score | Mortality |
-| ---------- | --------- |
+| *--------- | *-------- |
 | >40        | 71%       |
 | 30-39      | 53%       |
 | 20-29      | 20%       |

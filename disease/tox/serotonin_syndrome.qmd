@@ -186,7 +186,7 @@ Dose ↑, overdose, or new agent.
 				No serotonin toxicity.
 
 :::column-margin
-Neuroleptic Malignant Syndrome is a always a differential for serotonin syndrome.\
+Neuroleptic Malignant Syndrome is a common differential for serotonin syndrome.\
 \
 {{< include /includes/nms_ss.qmd >}}
 :::
