@@ -63,6 +63,12 @@ Abnormal ↑ in blood fixed acid concentration. Metabolic acidoses are:
 +--------------------------------------------------------------------------------+------------------------------------+
 
 :::column-margin
+The extent of acidosis caused by diarrhoea depends on the ionic content of the stools. Cl^-^ is freely exchanged for HCO_3^-^ in the intestinal wall, so (somewhat paradoxically) anything that ↑ Cl^-^ *secretion* into the lumen culminates in an ↑ loss of HCO_3^-^ and a hyperchloraemic acidosis.\
+\
+The greatest effect is seen in secretory diarrhoea, particularly cholera, and the least effect in inflammatory diarrhoea.
+:::
+
+:::column-margin
 {{< include /includes/negative_ag.qmd >}}
 :::
 

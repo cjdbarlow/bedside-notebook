@@ -93,7 +93,8 @@ The $Osmolar \ Gap = Osm_{measured} - (2 \times Na^+ + Urea + Glucose)$:
 * Difference between:
 	* Total (measured) osmoles
 	* *Measurable* osmoles
-* Normal <10
+* Normal <10\
+Should be ~6.
 * An ↑ OG with a normal AG occurs with any substance that does not dissociate at physiological pH\
 This may occur in absence of acidosis if the osmole is not metabolised to produce an acid. 
 
@@ -109,32 +110,41 @@ This occurs during metabolism of toxic alcohols.
 
 : Abnormalities of the Osmolar Gap
 
-+----------------------+--------------------------------------------+-----------------------------------+
-|                      | ↑ Osmolar Gap                              | Normal Osmolar Gap                |
-+======================+============================================+===================================+
-| **↑ Anion Gap**      | Toxins:                                    | * Toxic alcohols after metabolism |
-|                      |                                            | * Uncorrected AG\                 |
-|                      | * Methanol\                                | e.g. Hyperalbuminaemia.           |
-|                      | Metabolised to formic acid.                |                                   |
-|                      | * Metabolised glycols\                     |                                   |
-|                      | Ethylene, propylene glycol.                |                                   |
-|                      | * Salicylate\                              |                                   |
-|                      | Metabolised to pyruvate, lactate, acetate. |                                   |
-|                      |                                            |                                   |
-|                      | Metabolic:                                 |                                   |
-|                      |                                            |                                   |
-|                      | * Lactic acidosis                          |                                   |
-|                      | * Ketoacidosis                             |                                   |
-|                      | * AKI                                      |                                   |
-+----------------------+--------------------------------------------+-----------------------------------+
-| **Normal Anion Gap** | * Mannitol                                 |                                   |
-|                      | * Glycine                                  |                                   |
-|                      | * Non-metabolised glycols\                 |                                   |
-|                      | Polyethylene glycol.                       |                                   |
-|                      | * Maltose                                  |                                   |
-|                      | * Ethanol                                  |                                   |
-|                      | * Toxic alcohols prior to metabolism       |                                   |
-+----------------------+--------------------------------------------+-----------------------------------+
++----------------------+-----------------------------------------------------------------------------------+-----------------------------------+
+|                      | ↑ Osmolar Gap                                                                     | Normal Osmolar Gap                |
++======================+===================================================================================+===================================+
+| **↑ Anion Gap**      | Toxins:                                                                           | * Toxic alcohols after metabolism |
+|                      |                                                                                   | * Spurious AG\                    |
+|                      | * Methanol\                                                                       | Significant unmeasured anion.     |
+|                      | Metabolised to formic acid.                                                       |     * e.g. Hyperalbuminaemia      |
+|                      | * Metabolised glycols                                                             |                                   |
+|                      |     * Ethylene glycol                                                             |                                   |
+|                      |     * Propylene glycol                                                            |                                   |
+|                      | * Salicylates\                                                                    |                                   |
+|                      | Metabolised to pyruvate, lactate, acetate.                                        |                                   |
+|                      |                                                                                   |                                   |
+|                      | Metabolic:                                                                        |                                   |
+|                      |                                                                                   |                                   |
+|                      | * Lactic acidosis                                                                 |                                   |
+|                      | * Ketoacidosis                                                                    |                                   |
+|                      | * AKI                                                                             |                                   |
+|                      | * CKD                                                                             |                                   |
++----------------------+-----------------------------------------------------------------------------------+-----------------------------------+
+| **Normal Anion Gap** | * Mannitol                                                                        |                                   |
+|                      | * Glycine                                                                         |                                   |
+|                      | * Organic solvents                                                                |                                   |
+|                      |     * Acetone                                                                     |                                   |
+|                      | * Non-metabolised glycols                                                         |                                   |
+|                      |     * Polyethylene glycol                                                         |                                   |
+|                      | * Maltose                                                                         |                                   |
+|                      | * Ethanol                                                                         |                                   |
+|                      | * Toxic alcohols prior to metabolism                                              |                                   |
+|                      | * Pseudohyponatraemia                                                             |                                   |
+|                      |     * Hypertriglyceridaemia                                                       |                                   |
+|                      |     * Hyperproteinaemia                                                           |                                   |
++----------------------+-----------------------------------------------------------------------------------+-----------------------------------+
+| Metabolic causes of a ↑ AG and ↑ OG typically cause a smaller ↑ in OG than toxins                                                            |
++----------------------------------------------------------------------------------------------------------------------------------------------+
 
 :::column-margin
 As the osmolar gap may vary in absence of acidosis, causes of an abnormal osmolar gap are also presented here.

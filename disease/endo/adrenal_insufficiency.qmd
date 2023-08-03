@@ -1,6 +1,6 @@
 # Adrenal Insufficiency
 
-Adrenal insufficiency is a clinical syndrome of cortisol and aldosterone deficiency, that is classified into:
+Adrenal insufficiency is a clinical syndrome of cortisol and aldosterone deficiency and may be divided into:
 
 * **Primary** adrenal insufficiency (**Addison's Disease**)\
 **Hypofunction** of the **adrenal cortex** resulting in ↓ in glucocorticoid and mineralocorticoid secretion.
@@ -13,7 +13,13 @@ Adrenal insufficiency is a clinical syndrome of cortisol and aldosterone deficie
 Primary adrenal insufficiency is rare overall, and vanishingly rare as the cause in an ICU patient.
 :::
 
+:::column-margin
+**Acute adrenal insufficiency**, or **Addisonian crisis**, occurs when there is an *rapid* fall in adrenal hormones from any cause.
+:::
+
 ## Epidemiology and Risk Factors
+
+* ~5-10 crises per 100 patient-years
 
 ## Pathophysiology
 
@@ -39,7 +45,13 @@ In health, the adrenal cortex is responsible for production of steroid hormones:
 
 ### Aetiology
 
-Primary adrenal insufficiency:
+**Primary adrenal insufficiency**:
+
+:::column-margin
+**Adrenal crisis** generally occurs in a patient with known adrenal insufficiency who experience physiological stress without adequate stress-dose steroid supplementation.\
+\
+About half of patients presenting with adrenal crisis have undiagnosed primary adrenal insufficiency.
+:::
 
 * **Autoimmune**\
 Most common in Western world.
@@ -49,7 +61,8 @@ Most common in Western world.
 	* CMV
 	* Histoplasmosis
 	* Coccidiomycosis
-* Adrenal haemorrhage
+* Adrenal haemorrhage\
+Waterhouse-Friderichsen syndrome.
 	* Sepsis\
 	Meningococcal septicaemia, also known as Waterhouse-Friderichsen syndrome.
 	* APS
@@ -71,7 +84,7 @@ Most common in Western world.
 	* Adrenal dysgenesis
 
 
-Secondary adrenal insufficiency:
+**Secondary adrenal insufficiency**:
 
 * Cessation of exogenous glucocorticoid
 * Pituitary disease
@@ -80,7 +93,10 @@ Secondary adrenal insufficiency:
 		* Sheehan's syndrome
 	* Pituitary tumour
 
-## Clinical Manifestations
+
+
+
+## Clinical Features
 
 **Adrenal crisis** is a catastrophic syndrome characterised by:
 
@@ -134,7 +150,7 @@ Only form with ↑ ACTH production.
 		* Hyperkalaemia
 	* Random cortisol\
 	In adrenal crisis would be expected to be <80nmol/L; ACTH stimulation testing is not required.
-	* ACTH stimulation test\
+	* **ACTH stimulation test**\
 	In a stable patient:
 		* Administer 250μg of tetracosactrin (Synacthen)
 		* Measure cortisol at 0 and 30 minutes
@@ -146,29 +162,42 @@ Only form with ↑ ACTH production.
 
 **Imaging**:
 
+* MRI
+	* Adrenal glands
+
 **Other**:
 
 ## Management
 
-**Resuscitation**:\
-
-* C
-	* Volume resuscitation
-	* Vasopressors
-* E
-	* **Glucocorticoids**
-		* 100mg hydrocortisone IV Q6H\
-		This provides adequate mineralocorticoid replacement.
+:::priority
+* Steroid supplementation
+* Correct hypovolaemia and electrolyte abnormalities
+:::
 
 **Specific therapy**:
 
 * Pharmacological
+	* **Glucocorticoids**
+		* 100mg hydrocortisone IV Q6H\
+		This provides adequate mineralocorticoid replacement.
 * Procedural
 * Physical
 
 **Supportive care**:
 
+* C
+	* Volume resuscitation\
+	Normal saline ideal.
+	* Vasopressors
+* E
+	* Correct BSL
+* F
+	* Electrolyte correction
+
 **Disposition**:
+
+* Endocrinology involvement
+* Long-term glucocorticoid therapy
 
 **Preventative**:
 
@@ -189,3 +218,4 @@ Only form with ↑ ACTH production.
 ## References
 
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. Rathbun KM, Nguyen M, Singhal M. [Addisonian Crisis](https://www.ncbi.nlm.nih.gov/books/NBK441933/). In: StatPearls. StatPearls Publishing; 2023. Accessed August 2, 2023.

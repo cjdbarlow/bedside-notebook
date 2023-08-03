@@ -1,6 +1,5 @@
 # Carcinoid
 
-
 Neuroendocrine tumour that:
 
 * May occur from any neuroendocrine cell\
@@ -42,10 +41,12 @@ Derived from neuroendocrine cells:
 
 ### Aetiology
 
-## Clinical Manifestations
+## Clinical Features
 
->* Many are asymptomatic and found incidentally due to long lead time to diagnosis
->* Average time from diagnosis to symptoms is 8 years
+:::info
+* Many are asymptomatic and found incidentally due to long lead time to diagnosis
+* Average time from diagnosis to symptoms is 8 years
+:::
 
 Presentation may be from **mass effect** or **carcinoid syndrome**, and varies depending on location:
 
@@ -156,10 +157,11 @@ Premedication:
 
 ### Anaesthetic Considerations
 
-> Surgery should proceed when:
-> * Symptom control achieved
-> * 2 weeks after last long-acting octreotide dose
-
+:::info
+Surgery should proceed when:
+	* Symptom control achieved
+	* 2 weeks after last long-acting octreotide dose
+:::
 
 Premedication:
 
@@ -256,4 +258,4 @@ Death:
 
 ## References
 
-1. [Carcinoid: the disease and its implications for anaesthesia](https://academic.oup.com/bjaed/article/11/1/9/285683). BJA Education. Accessed December 9, 2019.
+1. Powell B, Al Mukhtar A, Mills GH. [Carcinoid: the disease and its implications for anaesthesia](https://academic.oup.com/bjaed/article/11/1/9/285683). Continuing Education in Anaesthesia Critical Care & Pain. 2011;11(1):9-13.

@@ -115,15 +115,31 @@ Cardiac or respiratory.
 
 ### Transfusion Related Acute lung Injury
 
+TRALI is defined as **acute respiratory distress** that:
+
+* Occurs within **6 hours** of transfusion
+* Results in hypoxaemia
+* Does not have another course
+
+
 TRALI is:
 
-* **Acute respiratory failure** due to **interstitial oedema**, generally **lasting <48 hours**
+* Characterised by:
+	* Fever
+	* Haemodynamic lability
+	* Dyspnoea
+	* Hypoxaemia
+* Due to **interstitial oedema**, generally **lasting <48 hours**
 * The **major** cause of **transfusion-related mortality**
-* Probably more common in the critically ill
-* Due to **leukoagglutininins** in donor plasma promoting neutrophil aggregation
-	* Clumped **neutrophils** are **sequestered** in **lung microcirculation**
-	* Subsequent endothelial injury
-	* Leukoagglutinins are more common in multiparous women
+* Due to **leukoagglutininins** in donor plasma promoting neutrophil activation
+	* **Neutrophils** are **sequestered** in **lung microcirculation**
+		* Subsequent endothelial injury and activation ↑ degree of sequestration\
+		More common in:
+			* Critically ill
+			* Smokers
+			* Shock states
+			* High ventilator pressures
+	* Leukoagglutinins are also more common in multiparous women
 
 
 ## Delayed Immunological

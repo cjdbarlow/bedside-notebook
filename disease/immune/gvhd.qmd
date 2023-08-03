@@ -25,6 +25,8 @@ Risk factors:
 
 * Allogeneic stem cell transplant\
 30-50% of cases.
+* CMV positive
+* Recipient frailty
 * HLA mismatch
 * ↑ Donor age
 * ↑ Recipient age
@@ -37,13 +39,40 @@ Risk factors:
 
 ## Clinical Features
 
+: Clinical Features of Graft versus Host Disease
+
++------------+-------------------------------+-------------------------------------+
+| Properties | Acute                         | Chronic                             |
++============+===============================+=====================================+
+| Timing     | * Classically within 100 days | * May occur at any time             |
+|            |                               |                                     |
++------------+-------------------------------+-------------------------------------+
+| Features   | * Skin                        | * **Absence of acute features**     |
+|            |     * Maculopapular rash      | * Bronchiolitis obliterans          |
+|            |     * Erythema                | * Pleural effusions                 |
+|            | * GIT                         | * Pericardial effusion              |
+|            |     * N/V/D                   | * Conjunctivitis                    |
+|            |     * Anorexia                | * Alopecia                          |
+|            |     * Mucositis               | * Sclerotic skin                    |
+|            |     * Cholestasis             | * Lichenoid oral and genital mucosa |
+|            |                               | * Oesophageal strictures            |
++------------+-------------------------------+-------------------------------------+
+	
+:::column-margin
+Definition relies more on the clinical features than the timing.
+:::
+
+:::column-margin
+Late-onset acute GvHD describes the clinical features of acute GvHD, occurring after 100 days.
+:::
+
 ## Assessment
 
 **History**:
 
 **Exam**:
 
-### Investigations
+### Investigations	
 
 **Bedside**:
 

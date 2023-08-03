@@ -23,7 +23,7 @@
 	* Stopped early for futility\
 	Underpowered due to early stoppage and lower than expected control mortality.
 	* No difference in mortality at day 60 (35% vs. 46%, RR 0.76 (CI 0.55-1.04)))\
-	This is clouded by the high porportion of control patients crossing over to receive ECMO.
+	This is clouded by the high proportion of control patients crossing over to receive ECMO.
 		* If none of them got ECMO and as few as 30% survived, there would be a significant mortality benefit from ECMO
 	* Secondary outcomes showed the ECMO group had:
 		* ↓ "Treatment failure" (RR 0.62, CI 0.47-0.82)\

@@ -97,19 +97,27 @@ Functional investigations (**neurological exam**, **SSEPs**, EEG) are generally 
 :::
 
 * CT Brain\
-	* Logistically easier
+	* Logistically easier than MRI
 	* Can be performed earlier and repeatedly\
 	Features ↑ over 3-5 days as oedema evolves.
 	* Features of HIE include:
 		* Loss of grey/white differentiation\
 		Cytotoxic oedema ↓ grey matter density.
 		* Diffuse oedema
+			* Effacement of ventricles and sulci
 		* Herniation
+			* Tonsillar
+			* Trans-tentorial
 		* Pseudo-subarachnoid haemorrhage pattern\
 		↑ Density of basal cisterns due to ↑↑ ICP, usually occurring with generalised oedema.
 * MRI Brain
 	* Prognostically useful if no HIE on CT brain
 	* Optimal time is 2-7 days after arrest
+	* Features include:
+		* Early: ↑ DWI intensity and diffusion restriction\
+			* Presence is highly specific for a poor outcome
+			* Absence of DWI lesions is reasonably specific for a good 6-month functional outcome
+		* Late: ↑ T2/FLAIR intensity
 
 **Other**:
 

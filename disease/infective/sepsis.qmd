@@ -199,6 +199,11 @@ Heterogenous and non-specific features:
 		* Expensive, requires serial measurements
 	* Blood cultures\
 	Prior to antibiotics.
+	* Galactomannan
+		* Presence suggestive of fungal infection, particularly aspergillosis
+		* Risk of false positives from other fungal infections or concomitant β-lactam use
+    * (1→3)-β-D-glucan antigen\
+    Cell wall component of most fungi. Improves sensitivity and specificity in combination with galactomannan.
 
 
 ## Diagnostic Approach and DDx

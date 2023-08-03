@@ -192,11 +192,12 @@ Management of gastrointestinal bleeding is covered under @sec-gib.
 
 ### Hepatopulmonary Syndrome {#sec-hepatopulmonary}
 
-Intrapulmonary shunt secondary to pulmonary vasodilation. Hepatopulmonary syndrome:
+Intrapulmonary shunt secondary to indiscriminate pulmonary vasodilation and angiogenesis. Hepatopulmonary syndrome:
 
 * Occurs in 20% of cirrhotic patients
-* Possibly due to ↓ hepatic clearance of endogenous vasodilators or ↑ nitric oxide synthetase activity
-* Occasionally associated with AVM
+* Occurs due to ↓ hepatic clearance of endogenous vasodilators or ↑ nitric oxide synthetase activity, leading to:
+	* Impaired hypoxic pulmonary vasoconstriction
+	* ↑ Angiogenesis, producing AVM
 * Associated with high mortality
 	* 15% at 90 days
 	* 40% at 1 year
@@ -206,24 +207,24 @@ May take up to 1 year, indicating some degree of pathological vascular remodelli
 
 ### Porto-pulmonary Hypertension {#sec-portopulmonary}
 
-An ↑ in PVR in the setting of portal hypertension is ominous, and is:
+Pulmonary hypertension in the setting of portal hypertension. Porto-pulmonary hypertension is:
 
-* Characterised by:
-	* Hyperdynamic, ↑ CO state
-	* ↑ Intravascular
-	* ↑ PVR
+* An ominous finding
+* Secondary to:
+	* ↓ Hepatic clearance of vasoconstrictors
+	* Thromboembolic disease
 * Responsive to pulmonary vasodilators\
 May require sustained (>3 months) treatment to effect remodelling.
 
 
 :::column-margin
-Pulmonary hypertension not due to left heart failure (i.e. ↑ PAP with a normal PCWP and normal PVR) is common (20%) in patients presenting for liver transplant, but the majority reflects an ↑ in CO and is not in itself a poor prognostic sign.
+Pulmonary hypertension *not* due to left heart failure (i.e. ↑ PAP with a normal PCWP and normal PVR) is common (20%) in patients presenting for liver transplant, but the majority reflects an ↑ in CO and is not in itself a poor prognostic sign.
 :::
 
 
 ### Hepatorenal Syndrome {#sec-hepatorenal}
 
-Hepatorenal syndrome is an end-stage manifestation of worsening renal perfusion that occurs in portal hypertension. Hepatorenal syndrome is:
+Renal impairment secondary to renal vasoconstriction in the setting of systemic and splanchnic vasodilatation in the setting of advanced cirrhosis. Hepatorenal syndrome is:
 
 :::column-margin
 Diagnosis of hepatorenal syndrome essentially requires:
@@ -246,14 +247,15 @@ Without other cause, i.e. despite:
 	Progressive deterioration.
 * Related to the progression of portal hypertension, rather than the progression of the hepatic lesion
 * Occurs due to fall in renal perfusion pressure due to systemic vasodilation
+	* Progressive splanchnic vasodilation results in splanchnic blood volume sequestration and ↑ RAAS activity
 	* Note that the kidneys are usually functional and intact\
 	Renal function will return if portal hypertension is resolved (i.e. liver transplantation, or transplantation of the kidneys to a new host).
 * Indicative of poor prognosis
 
 
-Management:
+**Specific therapy**:
 
-* C
+* Pharmacological
 	* ↑ Renal perfusion
 		* ↑ MAP
 			* Noradrenaline
@@ -261,6 +263,9 @@ Management:
 		* Terlipressin
 		* Ascitic drainage\
 		Relieve abdominal compartment syndrome.
+* Procedural
+	* TIPS
+	* Liver transplant
 
 
 ## Prognosis
