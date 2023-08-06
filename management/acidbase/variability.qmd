@@ -1,4 +1,4 @@
-# Measurement Variability
+# Measurement Variability {#sec-ph_variability}
 
 Independent of the approach used for interpretations, certain factors result in reliable changes to reported or normal values. These include:
 
@@ -13,17 +13,16 @@ Progesterone drives a ↑ minute ventilation, causing a compensated chronic resp
 
 Hypothermia:
 
-
 * Reliably results in a ↓ gas partial pressure for any given gas content\
 For every 1° below 37°C:
 	* PaO~2~ ↓ by ~5mmHg
 	* PaCO~2~ ↓ by ~2mmhg
 * Can be managed with two approaches:
-	* Alpha stat
-	* pH stat
+	* Alpha-stat
+	* pH-stat
 
 
-### Alpha Stat
+### Alpha-Stat
 
 Sample is warmed to 37°C:
 
@@ -36,12 +35,12 @@ Alpha stat is generally standard in adult cardiac surgery, and most critical car
 * Cellular physiology is unchanged as intracellular buffering varies with temperature
 
 
-### pH Stat
+### pH-Stat
 
-Sample is corrected to temperature:
+Sample is corrected to patient temperature:
 
 :::column-margin
-pH stat remains used in paediatric cardiac surgery, where ↑ CBF ↓ the risk of ischaemic encephalopathy. It remains less popular in adult cardiac surgery as this ↑ the CVA risk from atheromatous vessels by ↑ the proportion of CO delivered to the brain.
+pH-stat remains used in paediatric cardiac surgery, where ↑ CBF ↓ the risk of ischaemic encephalopathy. It remains less popular in adult cardiac surgery as this ↑ the CVA risk from atheromatous vessels by ↑ the proportion of CO delivered to the brain.
 ::: 
 
 * No reference range exists

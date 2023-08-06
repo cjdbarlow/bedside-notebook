@@ -1,0 +1,131 @@
+# Methaemoglobinaemia {#sec-methb}
+
+Methaemoglobin is an **altered form of haemoglobin** where the normal ferrous (Fe^2+^) iron of **haeme** become **oxidised** to the ferric (Fe^3+^) state, and **unable to bind oxygen**.
+
+**Methaemoglobinaemia** is a **methaemoglobin level >1.5%**.
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+Methaemoglobinaemia occurs due to oxidation of the iron in haeme, and:
+
+* Occurs normally\
+Usually 0.5-3% of total haemoglobin per day.
+
+### Aetiology
+
+* Congenital
+	* Cytochrome B5 reductase deficiency
+* Acquired
+	* Drugs
+		* Nitrites
+			* NO
+			* SNP
+			* Amyl nitrite
+		* Metoclopramide		
+		* Prilocaine
+		* Benzocaine\
+		Common adulterant in street cocaine.
+		* Chloroquine
+		* Dapsone
+
+## Clinical Features
+
+* Cyanosis
+* ↓ DO~2~
+	* Angina
+	* Dyspnoea
+	* Confusion → obtundation
+* SpO~2~ 85-90%
+
+## Assessment
+
+### History
+
+### Exam
+
+### Investigations
+
+**Bedside**:
+
+* ABG
+	* Normal PO~2~
+	* ↑ MetHb
+
+**Laboratory**:
+
+**Imaging**:
+
+**Other**:
+
+### Diagnostic Approach and DDx
+
+
+## Management
+
+:::priority
+* Supplemental **oxygen**
+* **Reduction** of methaemoglobin
+:::
+
+**Resuscitation**:
+
+* B
+	* Supplemental oxygen
+
+**Specific therapy**:
+
+:::column-margin
+If methylene blue fails, consider:
+
+* Ongoing exposure
+* Sulfhaemoglobinaemia
+	* Sulfonamides
+	* Dapsone
+* **G6PD deficiency**\
+See @sec-G6PD.
+* Haemoglobinopathy
+* Excessive methylene blue 
+:::
+
+* Pharmacological
+	* Reduction agents
+		* **Methylene blue** 1-2mg/kg over 5 minutes
+			* Artificial electron receptor, reduces MetHb by an NADPH dependent pathway\
+			This requires G6PD, and will produce haemolysis in patients with G6PD deficiency.
+			* Indicated for:
+				* Symptomatic methaemoglobinaemia
+				* Asymptomatic and:
+					* MetHb >10% and vulnerable to ischaemia
+					* MetHb >20%
+			* Can repeat in 30-60 minutes
+			* May induce methaemoglobinaemia in high doses
+		* Ascorbic acid 200mg/kg
+		* NAC
+* Procedural
+	* Exchange transfusion
+	* Hyperbaric oxygen
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References

@@ -15,6 +15,7 @@ Seldinger dilation.
 ## Indications
 
 :::column-margin
+: Factors to consider: Percutaneous versus surgical tracheostomy
 
 | Favours Percutaneous                     | Favours Surgical                             |
 | --                                       | --                                           |
@@ -24,9 +25,6 @@ Seldinger dilation.
 | Better cosmetic result                   | Greater airway backup (anaesthetist/surgeon) |
 | Logistics (no waiting on surgical lists) | Does not require bronchoscope                |
 | No risk of intrahospital transfer        | Emergent                                     |
-
-: Factors to consider: Percutaneous versus surgical tracheostomy
-
 :::
 
 * A
@@ -165,7 +163,7 @@ Tracheostomy patients are high risk and should be managed by trained staff. An I
 
 ### Facilitating Speech
 
-Speech greatly improves the quality of life of a patient with a tracheostomy. All methods of phonation require gas to be exhaled via the native airway. This requires:
+Speech greatly improves the quality of life of a patient with a tracheostomy. All methods of phonation require gas to be exhaled via the native airway.
 
 :::column-margin
 Contraindications to speaking:
@@ -180,12 +178,46 @@ Contraindications to speaking:
 	↑ Resistance, ↓ compliance.
 :::
 
-* A **deflated** cuff
-* Prevention of expiration via the tracheostomy
-	* Finger-occlusion
-	* Speaking valve
-	* Cap
+: Methods to Facilitate Speech
 
++---------------------------------------------+---------------------------------------------------------+---------------------------------------------------------------------------+------------------------------------------------------+
+| Approach                                    | Considerations                                          | Advantages                                                                | Disadvantages                                        |
++==================+==========================+=========================================================+===========================================================================+======================================================+
+| Cuff down, with: | Nothing else             |                                                         | * Simple, possible with any tracheostomy                                  | * Speech predominantly occurs in **inspiration**\    |
+|                  |                          |                                                         | * Low resistance to expiration and inspiration                            | Low-resistance pathway via tracheostomy.             |
+|                  |                          |                                                         |                                                                           | * High leak volume if on ventilator                  |
+|                  |                          |                                                         |                                                                           | * Aspiration risk                                    |
+|                  +--------------------------+---------------------------------------------------------+---------------------------------------------------------------------------+------------------------------------------------------+
+|                  | Finger occlusion         |                                                         | * Simple, possible with any tracheostomy                                  | * Coordination required                              |
+|                  |                          |                                                         | * Low-resistance to inspiration                                           | * Cannot use ventilator                              |
+|                  |                          |                                                         |                                                                           | * Aspiration risk                                    |
+|                  +--------------------------+---------------------------------------------------------+---------------------------------------------------------------------------+------------------------------------------------------+
+|                  | Speaking valve           | * Appropriate diameter of upper airway                  | * No coordination required                                                | * Extensive leak if on ventilator                    |
+|                  |                          | * ↑ Work of breathing                                   | * High expiratory flow                                                    | * ↑ Work of breathing                                |
+|                  |                          |                                                         | * ↑ Secretion clearance, if strength adequate                             |                                                      |
+|                  |                          |                                                         | * ↓ Aspiration risk compared to no occlusion, as ↑ flow via native airway |                                                      |
++------------------+--------------------------+---------------------------------------------------------+---------------------------------------------------------------------------+------------------------------------------------------+
+| Cuff up, with:   | Fenestrated tracheostomy |                                                         | * Fenestrations can be occluded with an inner cannula                     | * May require tracheostomy change                    |
+|                  |                          |                                                         | * ↓ Aspiration risk compared to cuff down techniques                      | * Fenestrations are small and vulnerable to blocking |
+|                  |                          |                                                         | * Speech can occur throughout the respiratory cycle                       | * Soft vocalisation\                                 |
+|                  |                          |                                                         |                                                                           | Low gas flow exhaled rate in native airway.          |
+|                  +--------------------------+---------------------------------------------------------+---------------------------------------------------------------------------+------------------------------------------------------+
+|                  | Above cuff vocalisation  | * Limit gas flow into subglottic suction port to 5L/min | * ↓ Aspiration risk                                                       | * Soft vocalisation                                  |
+|                  |                          | * Wait 72 hours prior to initiation                     | * Audible speech                                                          | * Aerophagia                                         |
+|                  |                          | * Use humidified gas or for short periods only          | * No tube change required                                                 |                                                      |
+|                  |                          |                                                         | * May improve secretion clearance                                         |                                                      |
++------------------+--------------------------+---------------------------------------------------------+---------------------------------------------------------------------------+------------------------------------------------------+
+
+:::column-margin
+Combining a fenestrated tube and a speaking valve significantly prolongs expiration time, which may ↑ FRC and prevent small airway collapse.
+
+![Effect of a Speaking Valve with Fenestrated Tracheostomy on Chest Wall Movement](/resources/fen_trache_sv.png)
+
+Electrographic chest wall movement:
+
+* Top: Standard tracheostomy tube
+* Bottom: Fenestrated tube with speaking valve
+:::
 
 ## Complications
 
@@ -265,8 +297,10 @@ Post-tracheostomy:
 ## References
 
 1. De Leyn, Paul, Lieven Bedert, Marion Delcroix, Pieter Depuydt, Geert Lauwers, Youri Sokolov, Alain Van Meerhaeghe, Paul Van Schil, and Belgian Association of Pneumology and Belgian Association of Cardiothoracic Surgery. “Tracheotomy: Clinical Review and Guidelines.” European Journal of Cardio-Thoracic Surgery: Official Journal of the European Association for Cardio-Thoracic Surgery 32, no. 3 (September 2007): 412–21. [](https://doi.org/10.1016/j.ejcts.2007.05.018)
-2. Dulguerov, Pavel, Gysin, Claudine, Perneger, Thomas, MD, PhD, Chevrolet, Jean-Claude. Percutaneous or surgical tracheostomy: A meta-analysis. Crit Care Med. 1999;27(8):1617-1625. [](https://doi.org/10.1097/00003246-199908000-00041)
-3. Hess, Dean R. “Facilitating Speech in the Patient With a Tracheostomy.” Respiratory Care 50, no. 4 (April 1, 2005): 519–25. [](https://doi.org/10.1097/00003246-199908000-00041)
-4. Ailawadi, Gorav. “Technique for Managing Tracheo-Innominate Artery Fistula.” Operative Techniques in Thoracic and Cardiovascular Surgery 14, no. 1 (March 1, 2009): 66–72. [](https://doi.org/10.1053/j.optechstcvs.2009.02.003).
-5. Donaldson, Lachlan, and Raymond Raper. “Successful Emergency Management of a Bleeding Tracheoinnominate Fistula.” BMJ Case Reports 12, no. 12 (December 2019): e232257. https://doi.org/10.1136/bcr-2019-232257.
+1. Dulguerov, Pavel, Gysin, Claudine, Perneger, Thomas, MD, PhD, Chevrolet, Jean-Claude. Percutaneous or surgical tracheostomy: A meta-analysis. Crit Care Med. 1999;27(8):1617-1625. [](https://doi.org/10.1097/00003246-199908000-00041)
+1. Hess, Dean R. “Facilitating Speech in the Patient With a Tracheostomy.” Respiratory Care 50, no. 4 (April 1, 2005): 519–25. [](https://doi.org/10.1097/00003246-199908000-00041)
+1. Ailawadi, Gorav. “Technique for Managing Tracheo-Innominate Artery Fistula.” Operative Techniques in Thoracic and Cardiovascular Surgery 14, no. 1 (March 1, 2009): 66–72. [](https://doi.org/10.1053/j.optechstcvs.2009.02.003).
+1. Donaldson, Lachlan, and Raymond Raper. “Successful Emergency Management of a Bleeding Tracheoinnominate Fistula.” BMJ Case Reports 12, no. 12 (December 2019): e232257. https://doi.org/10.1136/bcr-2019-232257.
 1. Young D, Harrison DA, Cuthbertson BH, Rowan K, for the TracMan Collaborators. [Effect of Early vs Late Tracheostomy Placement on Survival in Patients Receiving Mechanical Ventilation: The TracMan Randomized Trial](https://jamanetwork.com/journals/jama/fullarticle/1690674). JAMA. 2013;309(20):2121-2129. doi:10.1001/jama.2013.5154
+1. McGrath B, Lynch J, Wilson M, Nicholson L, Wallace S. [Above cuff vocalisation: A novel technique for communication in the ventilator-dependent tracheostomy patient](https://journals-sagepub-com.ezproxy.anzca.edu.au/doi/full/10.1177/1751143715607549). Journal of the Intensive Care Society. 2016;17(1):19-26.
+1. Fukumoto M, Ota H, Arima H. [Ventilator weaning using a fenestrated tracheostomy tube with a speaking valve](https://ccr.cicm.org.au/file/download-article?id=c44c3832-21f9-44a1-9a12-6ee291edecdf&settings=litnzgC1RAsiHS43rCo4xrITU51Yv3bdk8rYvycEiwE%3D). Critical Care and Resuscitation. 2006;8(2).

@@ -268,10 +268,12 @@ Duration of antimicrobial therapy depends on the organism:
 				Indicated for viral meningitis caused by VZV or HSV.
 			* If immunocompromised:\
 			i.e. Age >60, diabetes, alcohol misuse, malignancy, immunosuppressants:
-				* Add **ampicillin** 2g Q4H
-			* If **penicillin resistant** pneumococci:
+				* Add **ampicillin** 2g Q4H\
+				Amoxycillin can be used as an alternative.
+			* If **Gram positive cocci** on Gram stain:\
+			For concern of resistant *S. pneumoniae*; can be de-escalated once the penicillin MIC is known.
 				* Add **vancomycin**
-				* Replace ceftriaxone with **cefepime** or **meropenem**
+				* Consider replacing ceftriaxone with **cefepime** or **meropenem**
 		* **Cryptococcal meningitis**
 			* Initial therapy:
 				* Amphotericin B
@@ -289,7 +291,6 @@ Dexamethaxone is associated with:
 * ↓ Deafness in adults and in children with *H. Influenzae*
 * ↓ Neurological sequelae
 :::
-
 
 :::column-margin
 Management of seizures is covered under @sec-seizure.

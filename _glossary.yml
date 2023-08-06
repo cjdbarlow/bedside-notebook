@@ -73,6 +73,7 @@ DCC: Direct Current Cardioversion
 DCD: Donation after Circulatory Death
 DCI: Delayed Cerebral Ischaemia
 DCT: Distal Convoluted Tubule
+DHCA: Deep Hypothermic Circulatory Arrest
 DI: Diabetes Insipidus
 DIC: Disseminated Intravascular Coagulopathy
 DKA: Diabetic Ketoacidosis
@@ -145,6 +146,7 @@ IE: Infective Endocarditis
 IHCA: In-Hospital Cardiac Arrest
 IHD: Intermittent Haemodialysis
 IJV: Internal Jugular Vein
+IMA: Inferior Mesenteric Artery
 iNO: Inhaled Nitric Oxide
 INR: International Normalised Ratio
 IOP: Intraocular Pressure
@@ -287,6 +289,7 @@ SDH: Subdural Haemorrhage
 SIRS: Systemic Inflammatory Response Syndrome
 SLE: Systemic Lupus Erythematosus
 SLED: Sustained Low-Efficiency Dialysis
+SMA: Superior Mesenteric Artery
 SOFA: Sequential Organ Failure Assessment
 SSEP: Somatosensory Evoked Potential
 STE: ST Segment Elevation

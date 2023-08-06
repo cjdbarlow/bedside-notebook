@@ -114,6 +114,10 @@ Hyperkalaemic changes.
 
 **Preventative**:
 
+:::column-margin
+The pathology of methaemoglobinaemia is covered under @sec-methb.
+:::
+
 * Intravenous hydration
 * Uric acid suppression
 	* **Rasburicase**\

@@ -208,6 +208,10 @@ Erythrocyte containing denatured haemoglobin, indicating oxidative stress due to
 ![Heinz Bodies](/resources/heinz.jpg)
 :::
 
+:::column-margin
+The pathology of methaemoglobinaemia is covered under @sec-methb.
+:::
+
 ---
 
 ## References

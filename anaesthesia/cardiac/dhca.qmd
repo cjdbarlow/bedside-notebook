@@ -1,14 +1,213 @@
 # Deep Hypothermic Circulatory Arrest
 
-DHCA:
+DHCA is a **neuroprotective strategy used** to ↓ risk of ischaemia **when surgical requirements demand complete cessation** of the **circulation**. DHCA involves controlled cooling via CBP:
 
-* A neuroprotective strategy
-* Used when aortic cannulation is not possible
-* Involves:
-	* Cooling to < 28°C\
-	Usually 15-18°C.
-	* No distal aortic clamp
-	* Large dose of barbiturates
-	* Complete circulatory arrest
+:::column-margin
+All organs are of course at risk of ischaemia during circulatory arrest, but the brain both particularly vulnerable and important.
+:::
+
+* Cooling occurs rapidly\
+Generally a <10°C gradient maintained between blood and inflow temperature.
+* Usually to 15-18°C\
+Based on the anticipated duration of arrest.
+	* Higher temperatures (22-25°C) can be used if selective cerebral perfusion is employed
+* Rewarming occurs gradually\
+<2°C between brain and inflow temperature.
+
+:::column-margin
+Inflow temperature is the temperature of blood returned by the CPB circuit, and is measured accurately by the machine.
+:::
+
+## Indications
+
+* Cardiac surgery
+	* Aortic arch surgery
+	* Pulmonary thromboendarterectomy
+	* Complex congenital surgery
+* Neurological
+	* Cerebral aneurysms
+	* Intracranial AVM
+* Vena caval surgery
+	* Carcinoma with caval invasion
+
+## Contraindications
+
+## Principles
+
+* Oxygen demand is a function of metabolic rate, and is strongly affected by hypothermia\
+Cerebral metabolism ↓ by 6-7% for every 1°C ↓ in temperature.
+* Safe cerebral ischaemic time is proportional to temperature\
+**Most patients tolerate 30 minutes of DHCA at 18°C**.
+
+:::column-margin
+![Brain Temperature vs. Safe DHCA Duration](/resources/dhca.png)
+:::
+
+## Practice
+
+### Preparation
+
+Should consider:
+
+:::column-margin
+There is little evidence for cerebral oximetry, ice, and use of corticosteroids; most institutions will have their own policy.
+:::
+
+:::column-margin
+There is poor correlation between rectal and pulmonary artery catheter temperature and brain temperature. Nasopharyngeal and tympanic temperature are the best surrogate.
+:::
+
+* **Cerebral oximetry** monitoring
+* **Processed EEG** monitoring
+* **Two temperature probes**
+	* Brain temperature\
+	Nasopharynx.
+	* Body temperature\
+	Bladder.
+* Ice for topical head cooling\
+Delays brain *rewarming* during arrest, but does not contribute meaningfully to cooling.
+* Corticosteroids\
+1mg/kg prednisolone, ideally 6-8 hours before surgery.
 
 
+### Cooling
+
+* Ensure **adequate anticoagulation** prior
+* Commence topical cooling of the head
+* Consider TIVA rather than volatile\
+Avoid uncoupling CMRO~2~ from metabolism.
+* Monitor for VF\
+This may result in AI and ventricular distention, which requires either:
+	* Aortic cross-clamping and cardioplegia
+	* Venting
+
+### Cold
+
+Considerations:
+
+* **Turn off all infusions**, particularly vasopressors
+	* ↓ Metabolism of infused drugs
+	* No circulation of infused drugs\
+	Will pool in the SVC, resulting in a bolus when circulation resumes.
+* Acid-base measurement can use the pH or alpha-stat approach
+	* pH-stat may be beneficial during cooling\
+	Adding CO~2~ to the CPB circuit may improve neurological outcomes through more rapid and uniform cerebral cooling.
+* **Haemodilution** to a **haematocrit** of **20%** may improve microcirculatory flow
+
+:::column-margin
+Alpha-stat vs. pH-stat is covered under @sec-ph_variability. In brief, alpha-stat warms a cold sample to 37°C; pH-stat adjusts the measured gas samples for the patient temperature which results in a lower partial pressure due to the ↑ in solubility.
+:::
+
+* Adequate storage for heparinised blood\
+The patient is traditionally exsanguinated.
+* Additional return lines for cerebral perfusion
+
+### Cerebral Perfusion Strategies
+
+Cerebral perfusion can prolong safe operating time or ↓ the degree of hypothermia required. Options include:
+
+* Selective **anterograde cerebral perfusion**\
+Perfusion of neck vessels with 10-20mL/kg/min of blood, maintaining some cerebral blood flow.
+	* Cannulation or grafting of one or both carotid arteries, or the axillary or brachiocephalic artery
+	* Right sided perfusion can be monitored targeting a right radial arterial pressure of 50-70mmHg
+	* NIRS is particularly helpful to note the presence of perfusion and an intact Circle of Willis, and identify any interruptions (e.g. kinking) to flow
+* **Intermittent systemic perfusion**\
+Intermittent perfusion prolongs total duration of DHCA, but is not appropriate for all operations.
+* **Retrograde cerebral perfusion**\
+Perfusion of the brain with oxygenated blood administered retrograde into the SVC.
+	* Relies on the fact that the cerebral vasculature has no valves
+	* Patchy cerebral perfusion
+
+:::column-margin
+Retrograde cerebral perfusion likely operates mostly via the azygous system (the the IJV possess valves), whose tributaries cover (loosely) cerebral territories supplied by the posterior circulation.
+:::
+
+: Anterograde vs. Retrograde Cerebral Perfusion
+
++----------------------------------------------------------------------+-----------------------------------------------------------+
+| Anterograde                                                          | Retrograde                                                |
++=================================+====================================+==============================+============================+
+| **Advantages**                  | **Disadvantages**                  | **Advantages**               | **Disadvantages**          |
++---------------------------------+------------------------------------+------------------------------+----------------------------+
+| * Greater ↑ in safe arrest time | * Embolic risk                     | * Maintains cerebral cooling | * Variable oxygen delivery |
+| * ↓ Hypothermia required        | * ↑ Surgical complexity            | * ↑ In safe arrest time\     | * Cerebral oedema          |
+| * Maintains cerebral cooling    | * Requires intact Circle of Willis | Less than ACP.               | * ↑ ICP                    |
+| * Better global oxygenation     |                                    |                              |                            |
++---------------------------------+------------------------------------+------------------------------+----------------------------+
+
+
+### Rewarming
+
+Prior to rewarming:
+
+* De-air
+* Restart infusions
+
+
+During rewarming:
+
+:::column-margin
+TEG is covered under @sec-teg.
+:::
+
+* Consider cold reperfusion\
+Restart CPB without rewarming, and continue for 10-20 minutes.
+* **Slow rewarming** to minimise tissue thermal gradients
+	* <2C
+* Prevent secondary brain injury\
+Avoid:
+	* Hyperthermia
+	* Hypoxaemia
+	* Hypotension
+	* Hypoperfusion
+* Perform **thromboelastography**\
+Warmed sample can provide early identification of clotting factor deficiencies.
+
+:::column-margin
+
+## Complications
+
+Profound hypothermia brings a raft of adverse effects:
+
+* C
+	* **Arrhythmia**
+		* Proportional to degree of hypothermia
+		* Partially related to ↓ K^+^
+	* ↑ Plasma viscosity
+	* ↑ SVR
+* D
+	* Cerebral vasoconstriction
+	* ↑ **Stroke risk**\
+	5-10%. Associated with:
+		* Age
+		* DHCA time
+		* Aortic atheroma
+	* POCD
+	* Reperfusion injury
+	* Hyperthermic injury
+* E
+	* Hypothermia\
+	Temperature commonly falls after rewarming, and patients may become significantly hypothermic during the post-bypass phase.
+		* This is ↓ by a slower rate of rewarming
+* F
+	* ↓ GFR
+	* Metabolic acidosis
+	* **↑ BSL**\
+	↓ Glucose metabolism.
+* H
+	* **Coagulopathy**\
+	Major contributor to early and late mortality.
+	* Thrombocytopaenia
+* Other
+	* Altered pharmacokinetics
+
+## Key Studies
+
+
+
+---
+
+## References
+
+1. Conolly S, Arrowsmith JE, Klein AA. [Deep hypothermic circulatory arrest](https://academic.oup.com/bjaed/article/10/5/138/274654). Continuing Education in Anaesthesia Critical Care & Pain. 2010;10(5):138-142. doi:10.1093/bjaceaccp/mkq024
+1. Hogue CW, Arrowsmith JE. [Deep hypothermic circulatory arrest](https://www.cambridge.org/core/books/abs/core-topics-in-cardiac-anesthesia/deep-hypothermic-circulatory-arrest/73DB8071D1FB22F496F1A8637FF332A9). In: Mackay JH, Arrowsmith JE, eds. Core Topics in Cardiac Anesthesia. 2nd ed. Cambridge University Press; 2012:387-394. doi:10.1017/CBO9780511979095.066

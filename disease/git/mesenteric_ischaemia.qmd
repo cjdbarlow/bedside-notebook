@@ -1,50 +1,160 @@
 # Mesenteric Ischaemia
 
-Uncommon abdominal surgical emergency subclassified into:
+Abdominal surgical emergncy due to interruption of blood supply to the abdominal viscera, which can be classified by aetiology:
 
-* Occlusive ischaemia\
+* **Arterial occlusion**\
 Presentation with abdominal pain and GI symptoms followed by peritonism and shock. Causes include:
 	* Plaque rupture and thrombus
 	* Arterial embolism
 	* Venous occlusion\
 	Rare.
-* Non-occlusive ischaemia (NOMI)\
+* **Venous occlusion**\
+* **Non-occlusive ischaemia** (NOMI)\
 Severe GI symptoms in the setting of severe circulatory failure, usually with evidence of other organ failures (AKI, ischaemic hepatitis).
+
+:::column-margin
+Arterial occlusion causes ~50% of cases, and venous occlusion for ~10%.
+:::
 
 ## Epidemiology and Risk Factors
 
+: Risk Factors for Mesenteric Ischaemia
+
++------------------------------------+---------------------------------+--------------------------------------+
+| Arterial Occlusion                 | Venous Occlusion                | Non-Occlusive                        |
++====================================+=================================+======================================+
+| * Embolic disease                  | * Thrombophilia                 | * Active shock state\                |
+|     * AF                           |     * Factor V Leiden           | Particularly non-distributive shock. |
+|     * Endocarditis                 |     * Protein C/S deficiency    | * High-dose vasopressor use          |
+|     * Cardiac surgery              |     * Antiphospholipid syndrome |                                      |
+|     * LV aneurysm                  |     * Malignancy                |                                      |
+| * **Atherosclerotic disease**      |     * OCP use                   |                                      |
+|     * HTN                          | * Abdominal inflammation        |                                      |
+|     * Dyslipidaemia                |     * Pancreatitis              |                                      |
+|     * Chronic mesenteric ischaemia | * Inflammatory bowel disease    |                                      |
+| * Arterial disease                 | * Portal hypertension           |                                      |
+|     * Aneurysm/dissection          | * Abdominal surgery             |                                      |
+|     * PVD                          |     * Splenectomy               |                                      |
+| * Recent arterial intervention     |                                 |                                      |
+|     * Angiography                  |                                 |                                      |
+|     * VA ECMO                      |                                 |                                      |
+|     * IABP                         |                                 |                                      |
++------------------------------------+---------------------------------+--------------------------------------+
+
+:::column-margin
+**Chronic mesenteric ischaemia** occurs to atherosclerotic plaque causing partial occlusion of the mesenteric vessels, leading to a form of 'intestinal angina' characterised by:
+
+* Post-prandial pain
+* Weight loss
+* "Food fear"
+:::
+
+
 ## Pathophysiology
 
-### Aetiology
+* Arterial occlusion results in ischaemia of a single vascular territory
+* Non-occlusive ischaemia results in watershed ischaemia
+	* Pancreas, between the coeliac and SMA
+	* Splenic flexure, between the SMA and IMA 
 
-## Clinical Manifestations
+:::column-margin
+The SMA is the most vulnerable to embolic ischaemia due to a higher blood flow rate, larger diameter, and low take-off angle from the abdominal aorta. Emboli classically lodge 3-10cm from the origin of the SMA, and spare the proximal jejunum and colon.
+:::
+
+
+## Clinical Features
+
+:::caution
+Diagnosis requires a high level of clinical suspicion.
+:::
+
+Features are generally non-specific, aetiology is determined on history and investigations:
+
+:::column-margin
+The exception is that **arterial occlusion** typically has an **abrupt onset**, venous occlusion and NOMI have a more subacute onset.
+:::
+
+:::column-margin
+Pain in NOMI classically id more diffuse and associated with a period of low CO.
+:::
+
+* Abdominal **pain**\
+Typically **severe and out of proportion** to the clinical exam findings.
+* Nausea, vomiting
+* Diarrhoea
+* PR bleeding
+* Peritonism\
+Late sign, generally indicates irreversible ischaemia and bowel necrosis.
 
 ## Diagnostic Approach and DDx
 
 ## Investigations
 
-Radiology:
+**Blood**:
 
-* CT
-	* Portal venous gas
-	* Intestinal pneumatosis
+* Lactate
+	* Metabolic acidosis with ↑ lactate occurs in ~90% of patients
+	* Lactataemia is not sufficient for diagnosis, but should prompt consideration for CT
 
+**Imaging**:
+
+* CT mesenteric angiogram
+	* Bowel ischaemia
+		* Portal venous gas
+		* Intestinal pneumatosis
+
+:::column-margin
+![SMA Occlusion](/resources/mesenteric.png)
+:::
 
 **Other**:
 
 * Endoscopy
-	* Confirm ischaemia
+	* Visual identification of ischaemia
 
 ## Management
 
-**Resuscitation**:\
+:::priorities
+* **Treat shock**
+* **Restore perfusion** to ischaemic areas, if possible
+* Urgent **resection of non-viable bowel** prior to perforation
+:::
 
-ABC approach. Comment on team coordination and clinical priorities.
+**Resuscitation**:
+
+* C
+	* Fluid resuscitation
+	* Arterial line
+	* Vasopressors should be used to avoid fluid overload
+		* Milrinone and dobutamine are preferable
+	* Correct underlying shock state
+* G
+	* Nasogastric decompression
+	* Correct concurrent or underlying shock
+
+
 **Specific therapy**:
 
 * Pharmacological
+	* **Anticoagulation**\
+	For venous ischaemia.
+		* Unfractionated heparin infusion
 * Procedural
+	* **Laparotomy**
+		* Mandated for overt peritonitis
+		* Resect non-viable regions
+		* Damage control surgery is normal and planned re-look laparotomy within 48 hours is usual
+	* **Restoration of arterial perfusion**
+		* **Endovascular**
+			* Stenting
+			* Catheter-directed thrombolysis or clot retrieval\
+			Can be available for venous or arterial occlusion.
+		* **Open repair** (including bypass)
 * Physical
+
+:::column-margin
+Identifying massive gut necrosis should prompt re-evaluation of the appropriateness of curative intent.
+:::
 
 **Supportive care**:
 
@@ -52,11 +162,26 @@ ABC approach. Comment on team coordination and clinical priorities.
 
 ### Marginal and Ineffective Therapies
 
+* Intravenous thrombolysis\
+Successful cases are described, but this is precluded by bowel ischaemia or infarction and so if used must be attempted early.
+
 ## Anaesthetic Considerations
 
 ## Complications
 
+* Death
+* G
+	* Short bowel syndrome\
+	After resection.
+	* Perforation
+
 ## Prognosis
+
+Mortality depends intestinal viability, and therefore early diagnosis. In general:
+
+* Occlusive arterial ischaemia has a good prognosis with early detection and aggressive intervention
+* Occlusive venous ischaemia has a good prognosis, assuming no bowel necrosis
+* The prognosis in NOMI depends on the underlying condition and response to shock
 
 ## Key Studies
 
@@ -66,3 +191,4 @@ ABC approach. Comment on team coordination and clinical priorities.
 ## References
 
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. Bala M, Kashuk J, Moore EE, et al. [Acute mesenteric ischemia: guidelines of the World Society of Emergency Surgery](https://wjes.biomedcentral.com/articles/10.1186/s13017-017-0150-5). World Journal of Emergency Surgery. 2017;12(1):38.

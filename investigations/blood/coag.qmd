@@ -207,7 +207,7 @@ Global assays include:
 * Thrombin Generation Tests
 
 
-### Thromboelastography
+### Thromboelastography {#sec-teg}
 
 Thromboelastographic methods graph the changing strength and elasticity of a forming blood clot over time. These methods:
 

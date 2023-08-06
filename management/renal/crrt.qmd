@@ -20,7 +20,7 @@ This covers CRRT; a general overview and comparison of RRT modalities is provide
 {{< include /includes/rrt_principles.qmd >}}
 
 :::column-margin
-CRRT relies on the same physical principles as IHD and SLED, but as fluid shifts occur more slowly CRRT has greater haemodynamic stability either.\
+CRRT relies on the same physical principles as IHD and SLED, but as fluid shifts occur more slowly CRRT has greater haemodynamic stability either\
 \
 Consequently, CRRT is preferred in patients with:
 
@@ -28,7 +28,6 @@ Consequently, CRRT is preferred in patients with:
 * ↑ ICP
 * Cerebral oedema
 :::
-
 
 ### Types of CRRT
 

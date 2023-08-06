@@ -190,6 +190,10 @@ Causative organisms (in order of likelihood) include:
 Management of gastrointestinal bleeding is covered under @sec-gib.
 :::
 
+:::column-margin
+Hepatorenal syndrome is covered under @sec-hepatorenal.
+:::
+
 ### Hepatopulmonary Syndrome {#sec-hepatopulmonary}
 
 Intrapulmonary shunt secondary to indiscriminate pulmonary vasodilation and angiogenesis. Hepatopulmonary syndrome:
@@ -220,52 +224,6 @@ May require sustained (>3 months) treatment to effect remodelling.
 :::column-margin
 Pulmonary hypertension *not* due to left heart failure (i.e. ↑ PAP with a normal PCWP and normal PVR) is common (20%) in patients presenting for liver transplant, but the majority reflects an ↑ in CO and is not in itself a poor prognostic sign.
 :::
-
-
-### Hepatorenal Syndrome {#sec-hepatorenal}
-
-Renal impairment secondary to renal vasoconstriction in the setting of systemic and splanchnic vasodilatation in the setting of advanced cirrhosis. Hepatorenal syndrome is:
-
-:::column-margin
-Diagnosis of hepatorenal syndrome essentially requires:
-
-* Cirrhosis with ascites
-* Renal impairment\
-Without other cause, i.e. despite:
-	* Diuretic withdrawal
-	* Volume resuscitation
-	* Nephrotoxin cessation
-	* Absence of shock
-	* Absence of parenchymal disease\
-	No haematuria, proteinuria, normal sonographic appearance.
-:::
-
-* Divided into two subtypes
-	* Type 1\
-	Rapidly progressive.
-	* Type 2\
-	Progressive deterioration.
-* Related to the progression of portal hypertension, rather than the progression of the hepatic lesion
-* Occurs due to fall in renal perfusion pressure due to systemic vasodilation
-	* Progressive splanchnic vasodilation results in splanchnic blood volume sequestration and ↑ RAAS activity
-	* Note that the kidneys are usually functional and intact\
-	Renal function will return if portal hypertension is resolved (i.e. liver transplantation, or transplantation of the kidneys to a new host).
-* Indicative of poor prognosis
-
-
-**Specific therapy**:
-
-* Pharmacological
-	* ↑ Renal perfusion
-		* ↑ MAP
-			* Noradrenaline
-			* 20% Albumin
-		* Terlipressin
-		* Ascitic drainage\
-		Relieve abdominal compartment syndrome.
-* Procedural
-	* TIPS
-	* Liver transplant
 
 
 ## Prognosis

@@ -1,0 +1,137 @@
+# Hyperkalaemia {#sec-hyper_k}
+
+Serum potassium level >5.2mmol/L, classified by magnitude into:
+
+* **Mild**\
+5.3-6mmol/L.
+* **Moderate**\
+6-7mmol/L.
+* **Severe**
+>7mmol/L.
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+Causes include:
+
+* **↑ Potassium intake**
+	* Oral supplementation
+	* IV solutions
+* **Redistribution**
+	* Cellular **injury**
+		* Rhabdomyolysis
+		* Tumour lysis syndrome
+		* Burns
+		* Haemolysis
+		* Hyperthermia
+	* **Acidosis**\
+	Intracellular buffering via H^+^/K^+^ exchange.
+	* **Drugs**
+		* Suxamethonium
+		* β-blockade
+* **↓ Potassium elimination**
+	* Renal failure
+	* Hypoaldosteronism
+		* Addison's disease
+	* Drugs
+		* Aldosterone inhibition
+			* ACE-I/A2RB
+			* Spironolactone
+			* β-blockade
+* **Factitious**
+	* Haemolysed sample
+		* Long tourniquet time
+		* Delay to testing
+		* Aggressive aspiration
+	* Leucocytosis
+
+## Clinical Features
+
+## Assessment
+
+### History
+
+### Exam
+
+### Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+**Imaging**:
+
+**Other**:
+
+* ECG
+	* Bradyarrhythmias
+	* P wave flattening
+	* AV nodal blockade
+		* PR prolongation
+		* CHB with ventricular escape rhythms
+	* Bundle branch/fascicular blocks
+	* QRS widening\
+	Progressively, trending towards a "sinusoidal" trace.
+	* Peaked T waves
+
+:::column-margin
+: ECG Changes by Potassium level
+
++--------------------------+----------------------------+
+| Potassium level (mmol/L) | Abnormality                |
++==========================+============================+
+| 5.5-6.5                  | * Peaked T waves           |
++--------------------------+----------------------------+
+| 6.5-7.0                  | * P wave changes\          |
+|                          | * 1^st^ degree heart block |
++--------------------------+----------------------------+
+| 7.0-9.0                  | * Sinus bradycardia        |
+|                          | * CHB with escape rhythms  |
++--------------------------+----------------------------+
+| >9.0                     | * Arrest                   |
++--------------------------+----------------------------+
+
+These ECG changes are a guide, patients do not always progress through all stages - a hyperkalaemic arrest can occur from a reasonably normal ECG. Conversely, patients with chronic hyperkalaemia (e.g. ESRD) may display a normal ECG despite a high serum potassium level.
+:::
+
+### Diagnostic Approach and DDx
+
+
+## Management
+
+:::priority
+Goals of management
+:::
+
+**Resuscitation**:
+
+**Specific therapy**:
+
+* Pharmacological
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References

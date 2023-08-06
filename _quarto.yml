@@ -231,13 +231,17 @@ book:
               - management/acidbase/metabolic_alkalosis.qmd
             - part: "Electrolyte"
               chapters:
+              - management/fluid/hyperna.qmd
               - management/fluid/hypona.qmd
+              - management/fluid/hyperk.qmd
+              - management/fluid/hypok.qmd
               - management/fluid/hyperca.qmd
               - management/fluid/hypoca.qmd
             - part: "Renal Replacement"
               chapters:
               - management/renal/rrt.qmd
               - management/renal/crrt.qmd
+              - management/renal/pd.qmd
                 # SLED
                 # IHD
         - part: "Gastrointestinal"
@@ -777,6 +781,7 @@ book:
           - disease/endo/thyroid_storm.qmd
           - disease/endo/hypothyroidism.qmd
           - disease/endo/myxoedema_coma.qmd
+          - disease/endo/sick_euthyroid.qmd
         - part: "Hypothalamic"
           chapters:
           - disease/endo/acromegaly.qmd
@@ -850,6 +855,9 @@ book:
           chapters:
           - disease/haeme/anaemia.qmd
           - disease/haeme/haemolytic.qmd
+        - part: "Haemoglobinopathies"
+          chapters:
+          - disease/haeme/methb.qmd
           - disease/haeme/sickle.qmd
           # Haemolysis
         - part: "Clotting"

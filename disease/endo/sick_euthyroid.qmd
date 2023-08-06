@@ -1,0 +1,101 @@
+# Sick Euthyroid State {#sec-euthyroid}
+
+:::info
+Also known as **nonthyroidal illness syndrome** and **euthyroid sick syndrome**.
+:::
+
+Pattern of ↓ serum T3 without a compensatory ↑ in TSH or clinically significant thyroid dysfunction, classically associated with critical illness.
+
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+Mechanisms for altered changes in thyroid hormone levels include:
+
+:::column-margin
+Altered thyroid hormone levels may be physiologic adaptations to ↓ metabolic work in the setting of critical illness, and not pathophysiological.
+:::
+
+* Altered deiodinase activity\
+↑ Hepatic and renal conversion of T~4~ to rT~3~, rather than T~3~.
+	* rT~3~ is not clinically active and also acts as a functional antagonist of T~3~
+* ↑ Thyroid hormone binding to serum proteins
+* ↓ TSH secretion
+* ↓ TRH secretion
+* ↓ T~4~ transport into peripheral tissues
+
+### Aetiology
+
+## Clinical Features
+
+## Assessment
+
+### History
+
+### Exam
+
+### Investigations
+
+
+**Laboratory**:
+
+* TFT
+	* ↓ T3
+	* Normal, ↓, or ↑ T4
+	* ↑ rT3\
+	Distinguishes from central hypothyroidism and sick euthyroid state.
+	* ↓ T3:rT3
+	* Normal, ↓, or (rarely) ↑ TSH\
+		* Typically normal in early acute illness
+		* Falls in later illness\
+		Generally remains detectable; patients who fall to undetectable levels typically will be thyro*toxic* following recovery of critical illness.
+
+### Diagnostic Approach and DDx
+
+
+## Management
+
+:::priority
+* **Manage underlying** critical **illness**
+* **Correct malnutrition**
+* Give **T3 if cardiogenic shock**
+:::
+
+
+**Specific therapy**:
+
+* Pharmacological
+	* **T3 supplementation**\
+	Evidence in:
+		* Cardiac surgery patients
+		* Hormonal resuscitation of potential heart donors
+		* ↑ CO and functional capacity in cardiac failure
+
+
+**Supportive care**:
+
+* G
+	* Feeding
+
+
+**Disposition**:
+
+* Recheck TFTs following recovery from critical illness
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Farwell AP. [Nonthyroidal illness syndrome](https://journals.lww.com/co-endocrinology/Abstract/2013/10000/Nonthyroidal_illness_syndrome.18.aspx). Current Opinion in Endocrinology, Diabetes & Obesity. 2013;20(5):478-484. doi:10.1097/01.med.0000433069.09294.e8

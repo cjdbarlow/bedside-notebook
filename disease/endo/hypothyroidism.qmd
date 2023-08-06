@@ -1,7 +1,7 @@
 # Hypothyroidism {#sec-hypothyroid}
 
 :::column-margin
-This covers general considerations of hypothyroidism, myxoedema coma is covered at @sec-myxoedemacoma.
+This covers general considerations of hypothyroidism, myxoedema coma is covered at @sec-myxoedemacoma and sick euthyroid state is covered under @sec-euthyroid.
 :::
 
 ## Epidemiology and Risk Factors
@@ -22,21 +22,62 @@ Include:
 	* Lithium
 * Pituitary failure
 
-## Clinical Manifestations
+## Clinical Features
 
+* A
+	* Goitre
+		* Hoarse voice
+* C
+	8 ↓ HR
+	* Postural hypotension
+		* Pre-syncope
+	* Non-pitting oedema
+* D
+	* Depression
+	* Obtundation
+	* Periorbital oedema
+	* Hyporeflexia
+* E
+	* Cold intolerance
+* G
+	* Constipation
+* I
+	* Proximal muscle weakness
+	* Dry skin
+	* Hair loss
+	* Loss of the lateral 1/3^rd^ of the eyebrows
+* O
+	* Amenorrhoea
 
 
 ## Diagnostic Approach and DDx
 
 ## Investigations
 
+Bloods:
+
+* FBE
+	* Normochromic, normocytic anaemia
+* UEC
+	* ↓ Na^+^
+* TFTs
+	* ↓ T4/T3
+	* ↑ TSH
+* Triglycerides
+	* Hyperlipidaemia
+
 ## Management
+
+:::priority
+* Thyroxine replacement
+* Supportive management
+:::
 
 ## Anaesthetic Considerations
 
 * A
 	* Tracheal compression\
-	Gotires may impinge on trachea and impede airway management.
+	Goitres may impinge on trachea and impede airway management.
 * B
 	* Reduced response to ↑ CO~2~ and ↓ O~2~
 * C

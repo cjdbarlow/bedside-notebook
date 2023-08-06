@@ -1,15 +1,27 @@
-# Hepatorenal Syndrome
+# Hepatorenal Syndrome {#sec-hepatorenal}
 
-Form of pre-renal failure which:
+Pre-renal failure secondary to renal vasoconstriction in the setting of systemic and splanchnic vasodilatation in the setting of advanced cirrhosis that is:
 
-* Occurs in the setting of severe chronic liver disease\
+* Secondary to severe chronic liver disease\
 Usually with portal hypertension.
-* Is unresponsive to fluid therapy
+* Unresponsive to fluid therapy
+* Divided into two subtypes
+	* Type 1\
+	Rapidly progressive.
+	* Type 2\
+	Progressive deterioration.
+* Related to the progression of portal hypertension, rather than the progression of the hepatic lesion
+* Occurs due to fall in renal perfusion pressure due to systemic vasodilation
+	* Progressive splanchnic vasodilation results in splanchnic blood volume sequestration and ↑ RAAS activity
+	* Note that the kidneys are usually functional and intact\
+	Renal function will return if portal hypertension is resolved (i.e. liver transplantation, or transplantation of the kidneys to a new host).
+* Indicative of poor prognosis
+
 
 
 ## Pathophysiology
 
-* Hepatic dysfunction leads to drastic splanchnic NO overproduction and splanchnic vasodilation
+* Hepatic dysfunction leads to drastic splanchnic NO overproduction and splanchnic vasodilation\
 Circulating volume is sequestered in the dilated splanchnic circulation.
 * RAAS activation occurs in the setting of apparent hypovolaemia
 	* ↑ Renin constricts afferent arteriole and ↓ renal perfusion
@@ -25,7 +37,7 @@ High volume ascites contributes to ↑ IAP and compression of the kidney.
 Often insidious, but acute decline is usually precipitated by another renal-failure inducing event:
 
 :::column-margin
-The difference between "AKI secondary to hypovolaemia/NSAID/etc" and "hepatorenal syndrome secondary to hypovolaemia" is the **reversibility**.
+The difference between "AKI secondary to hypovolaemia/NSAID/etc" and "hepatorenal syndrome secondary to hypovolaemia" is the **reversibility**.\
 \
 If the AKI recovers after volume administration, then it was standard pre-renal failure; if it doesn't, then it's hepatorenal syndrome.
 :::
@@ -54,6 +66,20 @@ Especially early.
 
 Diagnosis requires all of:
 
+:::column-margin
+Diagnosis of hepatorenal syndrome essentially requires:
+
+* Cirrhosis with ascites
+* Renal impairment\
+Without other cause, i.e. despite:
+	* Diuretic withdrawal
+	* Volume resuscitation
+	* Nephrotoxin cessation
+	* Absence of shock
+	* Absence of parenchymal disease\
+	No haematuria, proteinuria, normal sonographic appearance.
+:::
+
 * Renal failure
 	* Creatinine >150mmol/L
 	* Non-responsive to fluid and albumin resuscitation
@@ -78,29 +104,40 @@ Other differentials include:
 
 ## Management
 
-**Resuscitation**:\
+:::priority
+* **Restore renal** blood flow and **perfusion** pressure
+	* Vasopressors
+	* Albumin
+:::
 
-Focuses on the restoration of renal blood flow and renal perfusion pressure:
+**Resuscitation**:
 
-* Volume\
-Classically albumin.
-* Systemic vasoconstrictors\
-Aim ↑ MAP by 10-15mmHg above presentation (at least >80mmHg).
-	* Discontinue anti-hypertensives
-	* Predominantly noradrenaline
-	* Midodrine safe and effective
-* Splanchnic vasoconstrictors
-	* Terlipressin\
-	1-2mg IV Q4-6H.
-	* Octreotide\
-	100ug SC Q8H or 50ug/hr IV infusion.
+* C
+	* Volume\
+	20% albumin:
+		* 1-1.5g/kg on day 1 and 2
+		* 20-40g/day thereafter
+	* Systemic vasoconstrictors\
+	Aim ↑ MAP by 10-15mmHg above presentation (at least >80mmHg).
+		* Discontinue anti-hypertensives
+		* Predominantly noradrenaline
+		* Midodrine safe and effective
+	* Splanchnic vasoconstrictors
+		* Terlipressin\
+		1-2mg IV Q4-6H.
+		* Octreotide\
+		100ug SC Q8H or 50ug/hr IV infusion.
+* G
+	* Ascitic drainage\
+	Relieve abdominal compartment syndrome.
 
 
 **Specific therapy**:
 
-* TIPS\
-↓ Ascites production.
-* Liver transplantation
+* Procedural
+	* TIPS\
+	↓ Ascites production.
+	* Liver transplantation
 
 
 ## Prognosis

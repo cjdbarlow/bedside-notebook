@@ -108,6 +108,14 @@ If concern for secondary peritonitis.
 
 ## Management
 
+:::priority
+* Appropriate **antibiotics**
+* Give **20% albumin**
+* **Cease nephrotoxins** and **antihypertensives**
+* Consider repeat **paracentesis**
+:::
+
+
 **Specific therapy**:
 
 * Pharmacological
@@ -115,10 +123,15 @@ If concern for secondary peritonitis.
 	Choice is contextual, however:
 		* Ceftriaxone 2g IV daily
 		* Tazocin 4.5g IV TDS\
-		If resistant species.
+		If resistant species, nosocomial infection, or septic shock.
 	* 20% Albumin
+		* 1.5g/kg IV, then 1g/kg 48 hours later
 		* ↓ AKI
 		* Substantial ↓ mortality by ↓ hepatorenal syndrome
+* Procedural
+	* Repeat paracentesis\
+	At 48 hours to evaluate for treatment failure; unnecessary if organism is susceptible and there is clinical improvement.
+
 
 **Supportive care**:
 
@@ -146,6 +159,13 @@ May be appropriate in high risk patients; agents include:
 ## Anaesthetic Considerations
 
 ## Complications
+
+* B
+	* Pleural effusion
+		* May occur when there is communication betwen the abdomena nd pleura
+		* Thoracocentesis is indicated for:
+			* Respiratory failure
+			* Clinical suspicion of empyema 
 
 ## Prognosis
 

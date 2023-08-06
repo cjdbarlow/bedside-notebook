@@ -1,0 +1,134 @@
+# Peritoneal Dialysis
+
+Form of renal replacement therapy that involves introducing dialysate into the abdominal cavity, relying on the semi-permeable peritoneal membrane to filter solute and adjust volume state. Peritoneal dialysis is:
+
+:::column-margin
+Peritoneal dialysis is used less commonly for AKI due to the wide availability of venovenous options, but remains the mainstay of therapy in the developing world.
+:::
+
+* Performed via an intra-abdominal catheter\
+Classically a Tenckhoff.
+* Generally divided into:
+	* **Continuous Ambulatory Peritoneal Dialysis**\
+		* Dialysate solution is periodically drained into, and then out of, the abdomen under gravity
+		* Exchanges usually occur 3-4×/day, and once in the evenings
+	* **Automated Peritoneal Dialysis**
+		* Dialysate "cycler" changes dialysate during the night, usually whilst asleep
+		* Requires 8-10 hours of continuous connection
+* Occasionally performed urgently
+
+
+
+## Indications
+
+:::column-margin
+Standard dialysis indications are covered under @sec-crrt.
+:::
+
+In addition to standard indications, PD has been used for:
+
+* Volume control in NYHA IV heart failure
+* Hyperthermia
+* Necro-haemorrhagic pancreatitis
+
+## Contraindications
+
+* Abdominal injury
+	* Abdominal adhesions
+	* Peritoneal fibrosis
+	* Recent abdominal surgery
+* Uncontrolled uraemia\
+Due to ↓ solute clearance. 
+* Emergent situations\
+Less effective than haemodialysis, although still successful.
+
+:::column-margin
+The ↓ urea clearance is particularly relevant in hypercatabolic patients.
+:::
+
+## Principles
+
+Peritoneal dialysis relies on:
+
+* Solute clearance via dialysis\
+Urea clearance is used as a surrogate marker for clearance of small solutes, and therefore the determinant of dialysate dose.
+* Fluid removal via ultrafiltration\
+Adjusting the concentration of the dialysate affects the degree of volume removal.
+
+## Practice
+
+: Considerations for Peritoneal Dialysis
+
++--------------------------------------+----------------------------------+
+| Advantages                           | Disadvantages                    |
++======================================+==================================+
+| * Technical simplicity               | * Requires intact peritoneum     |
+| * Haemodynamic tolerance             | * Infection risk                 |
+| * No bleeding risk                   | * ↓ Solute clearance             |
+| * No requirement for anticoagulation | * Obligate protein losses\       |
+|                                      | 0.5-4g/L of dialysate.           |
+|                                      | * Risk of hyperglycaemia         |
+|                                      | * Impaired respiratory mechanics |
++--------------------------------------+----------------------------------+
+
+Prescription should specify dialysate:
+
+:::column-margin
+Note that these solutions aren't pure dextrose; they are all hypertonic solutions that contain a variety of other electrolytes. E.g., The DIANEAL PD-2 2.5% dextrose solution contains:
+
+* Dextrose: 2.5%
+* Sodium: 132mEq/L
+* Chloride: 96mEq/L
+* Magnesium: 0.5mEq/L
+* Calcium: 3.5mEq/L
+* Lactate: 40mEq/L
+* Total osmolarity: 396mmol/L
+:::
+
+* **Volume**
+	* Generally 30-40mL/kg
+	* Smaller volumes used when commencing
+* **Composition**\
+Constituents include:
+	* Osmotic agents\
+	Facilitate fluid removal. Options include:
+		* Dextrose\
+		Rapidly absorbed, necessitating short dwell times. Comes in:
+			* 1.5% dextrose
+			* 2.5% dextrose
+			* 4.25% dextrose
+		* Icodextrin
+		* Polypeptides
+	* Buffers
+		* Lactate
+		* Acetate
+		* Bicarbonate
+	* Electrolytes
+* **Dwell time**
+	* ↑ Dwell time results in reabsorption of fluid and fluid overload
+	* ↓ Dwell time ↓ ultrafiltration and may ↓ efficacy of dialysis
+	* Patients may need shorter or longer dwell times based on individual speed of their peritoneal membrane
+* **Number of exchanges** per day
+
+:::column-margin
+Chronic hyperglycaemia ↓ the osmotic pressure between blood and dialysate, leading to fluid retention.
+:::
+
+## Complications
+
+
+## Key Studies
+
+---
+
+## References
+
+
+
+---
+
+## References
+
+1. Ponce Gabriel D, Nascimento GVR, Teixeira Caramori J, Cuadrado Martim L, Barretti P, Luís Balbi A. [Peritoneal Dialysis in Acute Renal Failure](https://www.tandfonline.com/doi/full/10.1080/08860220600781245). Renal Failure. 2006;28(6):451-456. doi:10.1080/08860220600781245
+1. Roseman DA, Schechter-Perkins EM, Bhatia JS. [Treatment of life-threatening hyperkalemia with peritoneal dialysis in the ED](https://www.sciencedirect.com/science/article/abs/pii/S0735675714005956?via%3Dihub). The American Journal of Emergency Medicine. 2015;33(3):473.e3-473.e5. doi:10.1016/j.ajem.2014.08.041
+1. Ilabaca-Avendaño MB, Yarza-Solorzáno G, Rodriguez-Valenzuela J, et al. [Automated peritoneal dialysis as a lifesaving therapy in an emergency room: Report of four cases](https://www.sciencedirect.com/science/article/pii/S0085253815528780). Kidney International. 2008;73:S173-S176. doi:10.1038/sj.ki.5002620
