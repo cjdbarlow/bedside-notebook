@@ -60,31 +60,41 @@ Intro and technique
 ## Preoperative
 
 **Assessment:**
+
 **Consultation:**
+
 **Optimisation:**
+
 **Premedication:**
+
 **Explain/Consent:**
+
 
 ## Intraoperative
 
 **Preparation:**
+
 **Induction:**
+
 **Maintenance:**
+
 **Echocardiography:**
+
 **Emergence:**
 
 ## Postoperative
 
 **Disposition:**
+
 **Referrals/Review:**
+
 **Analgesia:**
+
 **Fluids:**
+
 **Thromboprophylaxis:**
+
 **Specific:**
-
----
-
-## References
 
 
 # Disease

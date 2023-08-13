@@ -77,3 +77,6 @@ Table editor:
 * ?Split out anaemias
 
 * Fix acid-base assessment
+
+
+* ? Change clinical features to assessment, and split into hx/ex/ix/ddx (like the CICM glossary)

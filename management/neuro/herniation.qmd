@@ -1,0 +1,64 @@
+# Herniation Syndromes
+
+Brain herniation is the displacement of part of the brain into a region that it does not normally occupy. Herniation syndromes include:
+
+* **Transcalvarial**\
+Herniation of some part of the brain through a skull defect.
+* **Subfalcine**\
+Displacement of the cingulate gyrus under the falx cerebri.
+	* Occurs due to a lateral supratentorial mass
+	* May result in "midline shift"
+	* May compress ACA, leading to ischaemia and further infarction
+* **Central tentorial**\
+Symmetrical caudal displacement of the thalamic regions through the tentorium cerebelli.
+* **Uncal**\
+Displacement of the uncinate process of the temporal lobe into the tentorium cerebelli.
+* **Upward transtentorial**\
+Cranial displacement of the posterior fossa contents through the tentorium cerebelli.
+	* Posterior fossa mass lesions
+	* May be precipitated by EVD drainage ↑ supra-tentorial ICP.
+* **Tonsillar**\
+Displacement of cerebellar tonsils into the foramen magnum.
+
+## Comparison
+
+: Features of Herniation Syndromes
+
++---------------------------+------------------------------------------------------+---------------------------------------------------------------+
+| Syndrome                  | Radiological Features                                | Clinical Features                                             |
++===========================+======================================================+===============================================================+
+| **Transcalvarial**        | * Variable                                           | * Variable                                                    |
+|                           |                                                      |                                                               |
++---------------------------+------------------------------------------------------+---------------------------------------------------------------+
+| **Subfalcine**            | * Displacement of the cingulate gyrus under the falx | * ↓ GCS                                                       |
+|                           | * Midline shift                                      | * Leg weakness                                                |
+|                           | * Contralateral hydrocephalus                        |                                                               |
++---------------------------+------------------------------------------------------+---------------------------------------------------------------+
+| **Central tentorial**     | * Obliteration of basal cisterns                     | * ↓ GCS                                                       |
+|                           | * ↑ Brainstem diameter                               | * DI\                                                         |
+|                           |                                                      | Pituitary ischaemia due to stretching of the pituitary stalk. |
+|                           |                                                      | * Parinaud's Syndrome                                         |
+|                           |                                                      |     * Mid-dilated pupil                                       |
+|                           |                                                      |     * Failure of upward gaze                                  |
+|                           |                                                      |     * Conjugate downward gaze                                 |
++---------------------------+------------------------------------------------------+---------------------------------------------------------------+
+| **Uncal**                 | * Medial displacement of uncus and temporal lobe     | * ↓ GCS                                                       |
+|                           | * Effaced midbrain                                   | * Ipsilateral CN III palsy\                                   |
+|                           | * Effacement of suprasellar cistern                  | Fixed and dilated pupil.                                      |
+|                           |                                                      | * Hemiparesis                                                 |
+|                           |                                                      | * Cortical blindness                                          |
+|                           |                                                      | * Contralateral CN III palsy may occur with ↑ herniation      |
++---------------------------+------------------------------------------------------+---------------------------------------------------------------+
+| **Upward transtentorial** | * Hydrocephalus                                      | * ↓ GCS                                                       |
+|                           |                                                      | * Miosis                                                      |
+|                           |                                                      | * Asymmetric Doll's eye                                       |
+|                           |                                                      | * Decerebrate                                                 |
++---------------------------+------------------------------------------------------+---------------------------------------------------------------+
+| **Tonsillar**             | * Cerebellar tonsils beneath foramen magnum          | * ↓ GCS                                                       |
+|                           |                                                      | * Apnoea                                                      |
+|                           |                                                      | * Cushing's response                                          |
++---------------------------+------------------------------------------------------+---------------------------------------------------------------+
+
+---
+
+## References

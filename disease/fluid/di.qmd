@@ -1,4 +1,4 @@
-# Diabetes Insipidus
+# Diabetes Insipidus {#sec-di}
 
 Pathological absence of or insensitivity to ADH which impairs renal concentrating ability, leading to:
 
@@ -142,11 +142,13 @@ Nephrogenic DI:
 	* UEC
 	* Osmolality\
 	Measured osmolality may be high.
+	* ↑ Na^+^
 	* TFT
 	* Prolactin
-* Urinalysis
-	* Hypo-osmolar
-	* High volume
+* Urinalysis\
+Paired with serum.
+	* Sodium
+	* Osmoles
 
 :::column-margin
 With complete absence of ADH, >20L/day of very dilute (25-200mOsmol/kg) of urine can be produced.\
@@ -180,6 +182,10 @@ Hypothalamic lesions are less likely to recover than pituitary injuries.
 ### Neurogenic Diabetes Insipidus
 
 **Specific therapy**:
+
+:::column-margin
+{{< include /includes/free_water.qmd >}}
+:::
 
 * Pharmacological
 	* **Sodium correction**\

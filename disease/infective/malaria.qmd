@@ -126,7 +126,7 @@ Normalisation of temperature.
 	**Thick and thin films** are gold standard of diagnosis:
 		* Thin films identify parasites within red cells
 		* Thick films allow parasite counting\
-		\>10% is an indicator of severe disease.
+		\>10% of RBCs containing parasites indicates severe disease.
 	* Rapid diagnostic tests\
 	Look for parasite-specific antigen. Qualitative evidence of disease.
 	* Malaria PCR\

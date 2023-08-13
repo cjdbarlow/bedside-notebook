@@ -1,0 +1,7 @@
+Free water deficit can be crudely estimated as: $Free \ Water \ Deficit = 0.6 \times Weight \times (1 - {Na_{ideal} \over Na_{serum}})$\
+\
+Where:
+
+* Free water deficit is in litres
+* Weight is in kg
+* Serum sodium is in mmol/L

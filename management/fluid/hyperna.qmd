@@ -1,5 +1,6 @@
 # Hypernatraemia {#sec-hyper_na}
 
+Serum sodium concentration >145mmol/L occurring due to a deficit of free water relative to sodium levels.
 
 ## Epidemiology and Risk Factors
 
@@ -7,7 +8,48 @@
 
 ### Aetiology
 
+: Causes of Hypernatraemia
+
++----------------------+-----------------------+
+| Water Loss           | Salt Gain             |
++======================+=======================+
+| Renal:               | * Iatrogenic          |
+|                      | * Sea-water ingestion |
+| * Hyperaldosteronism | * Excess salt         |
+| * Diabetes Insipidus |                       |
+| * Glucosuria         |                       |
+| * Drugs              |                       |
+|     * Loop diuretics |                       |
+|     * Mannitol       |                       |
+|     * Urea           |                       |
+|                      |                       |
+| Extra-renal:         |                       |
+|                      |                       |
+| * Gastric            |                       |
+| * Burns              |                       |
+| * Diarrhoea          |                       |
+| * Dehydration        |                       |
+|     * Exposure       |                       |
+|     * Exercise       |                       |
++----------------------+-----------------------+
+
+
+:::column-margin
+Diabetes insipidus is covered in detail under @sec-di.
+:::
+
 ## Clinical Features
+
+:::info
+Significant neurological features typically emerge when Na^+^ > 155mmol/L.
+:::
+
+* Polydipsia
+* Confusion
+* Obtundation → Coma
+* Seizures
+* Hyperthermia
+
 
 ## Assessment
 
@@ -31,12 +73,17 @@
 ## Management
 
 :::priority
-Goals of management
+* **Correct** free **water deficit**\
+Avoid rapid correction to minimise cerebral osmotic shifts.
 :::
 
 **Resuscitation**:
 
 **Specific therapy**:
+
+:::column-margin
+{{< include /includes/free_water.qmd >}}
+:::
 
 * Pharmacological
 * Procedural
@@ -55,6 +102,10 @@ Goals of management
 
 ## Complications
 
+* D
+	* Subarachnoid haemorrhage\
+	Due to cerebral osmotic effects, causing excessive ↓ cerebral volume causing vascular injury.
+
 ## Prognosis
 
 ## Key Studies
@@ -63,3 +114,5 @@ Goals of management
 ---
 
 ## References
+
+1. Adrogué HJ, Madias NE. [Hypernatremia](https://www.nejm.org/doi/full/10.1056/nejm200005183422006). N Engl J Med. 2000;342(20):1493-1499. doi:10.1056/NEJM200005183422006

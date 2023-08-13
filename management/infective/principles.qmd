@@ -21,6 +21,8 @@ Inappropriate or delayed antibiotic use ↑ morbidity and mortality.
 
 ## Prescribing
 
+Principles:
+
 * Administer antibiotics **without delay**
 * Choice of empirical antimicrobial should be based upon:
 	* Site of infection
@@ -62,6 +64,104 @@ Under-dosing leads to resistance.
 * Serum levels of toxic antibiotics should be monitored for both toxicity and efficacy
 * Recognise patients with **augmented renal clearance**, and ↑ dose accordingly
 
+: Factors Influencing Antibiotic Choice
+
++---------------------+--------------------+--------------------------------------------------------------------------------+
+| Category            | Factor             | Examples                                                                       |
++=====================+====================+================================================================================+
+| **Patient**         | Age                | * Weight-based dosing                                                          |
+|                     |                    |                                                                                |
+|                     +--------------------+--------------------------------------------------------------------------------+
+|                     | Allergies          | * Presence                                                                     |
+|                     |                    | * Significance                                                                 |
+|                     |                    |                                                                                |
+|                     +--------------------+--------------------------------------------------------------------------------+
+|                     | Metabolic function | * ↓ Renal clearance                                                            |
+|                     |                    |     * Renal failure                                                            |
+|                     |                    | * Augmented renal clearance                                                    |
+|                     |                    |     * Dialysis                                                                 |
+|                     |                    |     * Pregnancy                                                                |
+|                     |                    |     * High CO state                                                            |
+|                     |                    | * ↓ Hepatic clearance                                                          |
+|                     |                    | * Altered clearance                                                            |
+|                     |                    |     * Extracorporeal circuits                                                  |
+|                     |                    |     * Plasma exchange                                                          |
+|                     |                    |     * Haemoperfusion                                                           |
+|                     +--------------------+--------------------------------------------------------------------------------+
+|                     | Pregnancy          | * Teratogenesis\                                                               |
+|                     |                    | Tetracyclines, chloramphenicol, sulfonamides.                                  |
+|                     |                    | * Lactation                                                                    |
+|                     |                    |                                                                                |
+|                     +--------------------+--------------------------------------------------------------------------------+
+|                     | Immunocompetence   | * Immunosuppression                                                            |
+|                     |                    |     * Transplantation                                                          |
+|                     |                    |     * Steroid use                                                              |
+|                     |                    | * Vaccination status                                                           |
+|                     |                    | * Asplenia                                                                     |
+|                     |                    | * Chemotherapy                                                                 |
+|                     |                    | * Radiotherapy                                                                 |
+|                     |                    | * Malignancy                                                                   |
+|                     |                    | * Malnutrition                                                                 |
+|                     +--------------------+--------------------------------------------------------------------------------+
+|                     | Genetic            | * G6PD\                                                                        |
+|                     |                    | Nitrofurantoin, fluoroquinolones, cotrimoxazole, sulfamethoxazole, primaquine. |
++---------------------+--------------------+--------------------------------------------------------------------------------+
+| **Epidemiological** | Travel             | * Regional geography                                                           |
+|                     |                    | * Known outbreaks                                                              |
+|                     |                    | * Seawater\                                                                    |
+|                     |                    | *Vibrio vulnificus*.                                                           |
+|                     +--------------------+--------------------------------------------------------------------------------+
+|                     | Occupational       | * Abattoir workers\                                                            |
+|                     |                    | *Coxiella burnetii*                                                            |
+|                     |                    | * Cattle farmers\                                                              |
+|                     |                    | *Brucella* sp.                                                                 |
+|                     |                    |                                                                                |
+|                     +--------------------+--------------------------------------------------------------------------------+
+|                     | Recreational       | * IVDU                                                                         |
+|                     |                    | * Pets                                                                         |
+|                     |                    |     * Birds\                                                                   |
+|                     |                    |     Psittacosis.                                                               |
+|                     |                    |     * Cats\                                                                    |
+|                     |                    |     Toxoplasmosis.                                                             |
+|                     |                    | * Bushwalking\                                                                 |
+|                     |                    | Tick-borne illnesses.                                                          |
+|                     +--------------------+--------------------------------------------------------------------------------+
+|                     | Therapeutic        | * Recent antimicrobial use                                                     |
+|                     |                    | * Drug interactions                                                            |
++---------------------+--------------------+--------------------------------------------------------------------------------+
+| **Disease**         | Clinical           | * Clinical urgency                                                             |
+|                     |                    | * Differential diagnosis                                                       |
+|                     |                    | * Likelihood of diagnosis                                                      |
+|                     +--------------------+--------------------------------------------------------------------------------+
+|                     | Infection          | * Source control                                                               |
+|                     |                    |     * Controlled                                                               |
+|                     |                    |     * Uncontrolled                                                             |
+|                     |                    |     * Uncontrollable                                                           |
+|                     |                    |     * Persistent bacteraemia                                                   |
+|                     |                    | * Duration of therapy                                                          |
+|                     |                    | * Clinical response to existing therapy                                        |
+|                     +--------------------+--------------------------------------------------------------------------------+
+|                     | Organism           | * Resistance patterns                                                          |
+|                     |                    |     * Local antibiogram                                                        |
+|                     |                    | * Life-cycle\                                                                  |
+|                     |                    | Particularly for parasites, which may only be vulnerable at certain stages.    |
++---------------------+--------------------+--------------------------------------------------------------------------------+
+| **Drug**            | Pragmatic          | * Cost                                                                         |
+|                     |                    | * Availability                                                                 |
+|                     |                    | * Available routes of administration                                           |
+|                     +--------------------+--------------------------------------------------------------------------------+
+|                     | Pharmacokinetics   | * Bioavailability                                                              |
+|                     |                    | * Absorption                                                                   |
+|                     |                    | * Penetration                                                                  |
+|                     |                    |     * CSF                                                                      |
+|                     |                    |     * Organ affinity                                                           |
+|                     |                    |     * Organ aversion                                                           |
+|                     |                    |                                                                                |
+|                     +--------------------+--------------------------------------------------------------------------------+
+|                     | Pharmacodynamic    | * Bactericidal vs. bacteriostatic                                              |
+|                     |                    | * Synergism\                                                                   |
+|                     |                    | TB.                                                                            |
++---------------------+--------------------+--------------------------------------------------------------------------------+
 
 ## Microbial Cultures
 

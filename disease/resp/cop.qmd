@@ -1,0 +1,139 @@
+# Organising Pneumonia
+
+:::info
+Formerly known as bronchiolitis obliterans organising pneumonia (BOOP).
+:::
+
+Inflammatory lung disease characterised by granulation in small airways and alveoli that occurs:
+
+* With no obvious cause\
+Cryptogenic organising pneumonia.
+* Previous alveolar injury
+
+
+## Epidemiology and Risk Factors
+
+Rare:
+
+* ~1-5/100,000
+
+## Pathophysiology
+
+Poorly understood, features include:
+
+* Inflammation
+* Intra-alveolar fibroproliferation
+	* May be reversible
+* Fibrinous remodelling
+
+### Aetiology
+
+* Idiopathic
+* Post-infectious
+* Drugs
+* Connective tissue disorders
+* Transplantation
+* Malignancy
+* Radiotherapy
+* Industrial chemical exposure
+
+## Clinical Features
+
+Typically subacute:
+
+* Weeks-months
+* Dry cough
+* Dyspnoea
+	* WOrseend by exertion
+* Flu-like symptoms
+
+## Assessment
+
+### History
+
+### Exam
+
+### Investigations
+
+**Bedside**:
+
+* Bronchoscopy
+	* BAL\
+	To evaluate for eiosinophlic pneumonia and alveolar haemorrhage.
+
+**Laboratory**:
+
+**Imaging**:
+
+:::column-margin
+![Organising Pneumonias](/resources/cop.jpeg)
+:::
+
+* CXR
+	* Consolidative opacities with normal lung volumes\
+	Figure A.
+* CT
+	* Multifocal consolidation
+	* Peripheral nodulation\
+	Figure C.
+	* Migratory opacities\
+	Figure D and E are the same patient at different time points.
+	* Atoll sign\
+	Rim of consolidation with central ground-glass opacities, which is rare but highly specific.
+
+**Other**:
+
+### Diagnostic Approach and DDx
+
+Key differentials include:
+
+* CAP\
+Absence of antibiotic response suggests organising pneumonia.
+* Hypersensitivity pneumonitis
+* Eosinophilic pneumonia
+* Alveolar haemorrhage
+* Vasculitis
+* Pulmonary lymphoma
+* Invasive mucinous adenocarcinoma
+
+
+## Management
+
+:::priority
+* Immunosuppression
+*:::
+
+
+**Resuscitation**:
+
+**Specific therapy**:
+
+* Pharmacological
+	* Corticosteroids\
+	1mg/kg prednisolone daily up to 60mg per day, for 2-4 weeks followed by a 3-5 month taper.
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. King TE, Lee JS. [Cryptogenic Organizing Pneumonia](https://www.nejm.org/doi/full/10.1056/NEJMra2116777). New England Journal of Medicine. 2022;386(11):1058-1069. doi:10.1056/NEJMra2116777

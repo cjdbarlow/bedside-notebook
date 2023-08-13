@@ -207,6 +207,7 @@ book:
               chapters:
               - management/neuro/chronic_spine.qmd
               - management/neuro/icp.qmd
+              - management/neuro/herniation.qmd
               - management/neuro/evd.qmd
               - management/neuro/brain_death.qmd
         - part: "Endocrine and Metabolic"
@@ -480,7 +481,6 @@ book:
         - part: "Orthopaedics"
           chapters:
           - anaesthesia/ortho/tourniquets.qmd
-          - anaesthesia/ortho/tourniquets.qmd
           - anaesthesia/ortho/thr.qmd
           - anaesthesia/ortho/femoral.qmd
           - anaesthesia/ortho/spine.qmd
@@ -508,6 +508,7 @@ book:
         - part: "Radiology"
           chapters:
           - anaesthesia/ir/clot_retrieval.qmd
+          - anaesthesia/ir/tips.qmd
           - anaesthesia/ir/isletcelltx.qmd
         - part: "Thoracic"
           chapters:
@@ -633,6 +634,7 @@ book:
           - disease/infective/hap.qmd
           - disease/infective/persistent_pneumonia.qmd
           - disease/infective/pjp.qmd
+          - disease/resp/cop.qmd
             # ILD
             # Aspiration pneumonitis
         - part: "Pleural"

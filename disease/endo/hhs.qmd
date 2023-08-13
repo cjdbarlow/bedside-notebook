@@ -101,13 +101,7 @@ Water repletion and volume resuscitation should ↑ Na^+^, ↓ BSL, and ↓ osmo
 	* Phosphate
 
 :::column-margin
-Free water deficit can be calculated as: $Free \ Water \ Deficit = 0.6 \times Weight \times 1 - {Na_{serum} \over 140}$\
-\
-Where:
-
-* Free water deficit is in litres
-* Weight is in kg
-* Serum sodium is in mmol/L
+{{< include /includes/free_water.qmd >}}
 :::
 
 
