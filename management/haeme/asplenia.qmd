@@ -3,7 +3,13 @@
 Asplenia is the physiological absence of splenic function which causes:
 
 * **Immunocompromise**\
-Most importantly a **vulnerability** to **encapsulated organisms**.
+Most importantly a **vulnerability** to **encapsulated organisms**. Infections that occur at an ↑ frequency include:
+	* ***S. pneumoniae***\
+	Causes 50-90% of post-splenectomy sepsis.
+	* *H. influenzae* type B
+	* *N. meningitidis*
+	* *Capnocytophaga canimorsus*
+	* *Salmonella*
 * **Thrombocytosis**
 
 ## Epidemiology and Risk Factors

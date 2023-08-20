@@ -149,7 +149,7 @@ Patient response over the first **2 hours** of treatment are an important guide 
             * Volume control
             * ZEEP\
             Recommendations for set PEEP are variable. 0-5cmH~2~O is probably okay, provided set PEEP < iPEEP.
-            * Vt 5-7mL/kg
+            * V~T~ 5-7mL/kg
             * RR 8-12
             * Short inspiratory time/High inspiratory flow rate\
             Aim **expiratory time >4s**. Pip will be ↑ but alveolar pressures will be significantly ↓ due to the airway obstruction. Once ventilation is established, Pplat should be assessed with an inspiratory hold and should be maintained at **<25cmH~2~O**.
@@ -185,7 +185,7 @@ Patient response over the first **2 hours** of treatment are an important guide 
             * Volatile\
             Many inhaled anaesthetic agents (sevoflurane, isoflurane, enflurane, halothane) are effective direct bronchodilators, with use limited by requiring an intubated patient and a ventilator capable of administering them.
     * Non-Invasive Ventilation\
-    PEEP ↓ inspiratory threshold work and may split open small airways, whilst Psup ↓ inspiratory work and ↑ Vt and MV.
+    PEEP ↓ inspiratory threshold work and may split open small airways, whilst Psup ↓ inspiratory work and ↑ V~T~ and MV.
         * Indicated for:
             * Moderate-severe dyspnoea or ↑ work of breathing
             * Respiratory acidosis
@@ -194,7 +194,7 @@ Patient response over the first **2 hours** of treatment are an important guide 
             ↑ If difficulty initiating inspiration.
             * Psup 8-10cmH~2~O\
             ↑ If low Vt/high RR.
-        * Target Vt ~7mL/kg, RR ~25
+        * Target V~T~ ~7mL/kg, RR ~25
     * VV ECMO\
     May be required if oxygenation is unable to be managed effectively following intubation. 
 

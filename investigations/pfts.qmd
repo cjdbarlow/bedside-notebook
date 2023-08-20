@@ -122,12 +122,15 @@ Measures the diffusion capacity of the lungs for carbon monoxide, which can be u
 	* Residual CO can be used to calculate how much CO has been absorbed
 	* The amount of CO absorbed allows diffusing capacity to be calculated
 * Reduced by:
-	* ↑ thickness\
+	* ↑ Thickness\
 	Fibrosis.
 	* ↓ area\
 	Lung resection, emphysema.
 	* Reduced ability to bind to Hb\
 	Anaemia.
+* Artificially ↑ by:
+	* Alveolar haemorrhage\
+	Blood in alveolus takes up CO.
 
 ## Other Tests
 

@@ -20,34 +20,33 @@ RRS are demonstrated to:
 One-third of RRS activations occur in patients with end-of-life issues.
 :::
 
-Presence of an RRS is required for hospital accreditation, and there:
+Presence of an RRS is required for hospital accreditation, and there should be:
 
-* No clear best model\
-Must be institution-specific, balanced by:
+* An **institution-specific model**, balanced by:
 	* Resources availability
 	* Patient complexity
 	* Patient acuity
-* Should be an:
-	* **Afferent limb**\
-	Calling criteria and method of activation. May use variety of responses:
-		* Vital signs
-			* Degree of abnormality
-			* Aggregate scoring systems
-		* Other observations\
-		e.g. Pain, urine output.
-		* Family or staff concern
-	* **Efferent limb**\
-	Response team. Considerations:
-		* Team composition\
-			* Nursing involvement essential
-			* Nurse-led teams may be equivalent to medical-led teams
-		* Graded escalation\
-		Pace of escalation balances resource use against missed deterioration.
-		* Inclusion of primary team
-	* **Administrative limb**\
-	Manages day-to-day running of the RRS.
-	* Outcomes evaluation and **QI limb**\
-	Addresses QI and governance issues.
+* **Afferent limb**\
+Calling criteria and method of activation. May use variety of responses:
+	* Vital signs
+		* Degree of abnormality
+		* Aggregate scoring systems
+	* Other observations\
+	e.g. Pain, urine output.
+	* Family or staff concern
+* **Efferent limb**\
+Response team. Considerations:
+	* Team composition
+		* Multi-disciplinary preferred
+		* Nursing involvement essential
+		* Nurse-led teams may be equivalent to medical-led teams
+	* Graded escalation\
+	Pace of escalation balances resource use against missed deterioration.
+	* Inclusion of primary team
+* **Administrative limb**\
+Manages day-to-day running of the RRS.
+* Outcomes evaluation and **QI limb**\
+Addresses QI and governance issues.
 
 
 ### Modification to Calling Criteria
@@ -55,7 +54,8 @@ Must be institution-specific, balanced by:
 Modification of criteria is:
 
 * Required to prevent a system becoming over-sensitive
-* Necessary because scores do not adapt to individual variation and chronic disease states
+* Necessary because scores do not adapt to individual variation and chronic disease states\
+One size does not fit all.
 * Highly variable between institutions
 
 

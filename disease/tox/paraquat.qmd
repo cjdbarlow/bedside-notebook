@@ -64,11 +64,12 @@ Leads to popularity as a herbicide, as planting can occur immediately.
 **Laboratory**:
 
 * Blood
-	* Paraquat assay
+	* Plasma paraquat assay
 	* FBE
 	* UEC
 * Urine
-	* Sodium dithionite
+	* Sodium dithionite\
+	Qualitative measure; urine turns blue on exposure.
 
 **Imaging**:
 

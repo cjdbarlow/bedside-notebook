@@ -12,11 +12,11 @@
 
 
 :::column-margin
-Original ARMA trial also included a ketoconazole arm. The authors stopped it early for lack of efficacy, and it has not been included.
+The ARMA trial also included a ketoconazole arm, which was stopped early for lack of efficacy. It has not been included in this summary.
 :::
 
 :::column-margin
-![](/resources/arma.png)
+![ARMA Survival](/resources/arma.png)
 :::
 
 :::column-margin

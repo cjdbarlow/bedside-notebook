@@ -82,7 +82,7 @@ Initial Settings:
 * P-Low\
 0-5cmH~2~O.
 * T-low\
-0.5-0.7s; adjust to achieve end-expiratory flow of 75% of PEFR and Vt <8mL/kg.
+0.5-0.7s; adjust to achieve end-expiratory flow of 75% of PEFR and V~T~ <8mL/kg.
 * T-high\
 5s.
 * FiO~2~\

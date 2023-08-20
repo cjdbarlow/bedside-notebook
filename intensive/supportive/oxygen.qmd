@@ -3,17 +3,22 @@
 Supplemental oxygen administration is a ubiquitous therapy and cornerstone of medical therapy. Oxygen:
 
 * Is generally cheap, widely available, and safe
-* **↑ PAO~2~**and **SpO~2~** in the setting of:
+* **↑ PAO~2~** and **SpO~2~** in the setting of:
 	* Alveolar hypoventilation
 	* Diffusion limitation
 	* V/Q scatter
 * Causes **absorption atelectasis** and ↑ shunt
-* ↑ Oxygen free radicals, which may precipitate ap
+* ↑ Oxygen free radicals, which may cause cellular injury
 
 
 ## Principles
 
 Aim to minimise the harm by balancing harms of hypoxia and hyperoxia:
+
+:::column-margin
+Hypoxia is consistently defined as a PaO~2~ <60mmHg or SpO~2~ <90%. The threshold for hyperoxia is less clear, but a PaO~2~ >300mmHg is often used.
+:::
+
 
 * Overly-conservative target and subsequent hypoxia\
 	* Harm of hypoxaemia is well-established:

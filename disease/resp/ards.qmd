@@ -3,7 +3,7 @@
 Bilateral diffuse inflammatory lung injury characterised by loss of aerated lung tissue and reduced pulmonary compliance. Various diagnostic criteria exist, the **Berlin Criteria** requires all of:
 
 :::column-margin
-The Berlin criteria were updated in 2023 to remove the reliance on ABG and radiography, and include the use of HFNO. Whilst this makes the definition more widely available, it also ↓ the discrimination of an already over-broad definition and so further limits the utility of the concept of ARDS.
+The Berlin criteria were updated in 2023 to remove the reliance on ABG and radiography, and include the use of HFNO. Whilst this makes the definition more widely available, it also weakens discrimination of an already over-broad definition and so further limits the utility of the concept of ARDS.
 :::
 
 * **Acute onset**\
@@ -125,10 +125,9 @@ Proning is a cornerstone of ARDS management, and is covered in detail under @sec
             * Higher PEEP is associated with better outcomes in more severe disease, and worse outcomes in milder disease
             * Inadequate PEEP tends to cause under-recruitment and hypoxia
             * Excessive PEEP tends to cause over-distension, ↑ lung stress, and reduced cardiac output
-            * Ideal PEEP is described by the Open Lung Approach\
-            PEEP at which the lung volume is maintained at FRC, thereby:
+            * Ideally, PEEP maintains lung volume at FRC thereby:
                 * Maximally recruiting available alveoli
-                * Spreading Vt over a greater number of alveoli
+                * Spreading V~T~ over a greater number of alveoli
                 * Reducing Pip
                 * Deceasing Barotrauma and volutrauma
         * Appropriate FiO~2~\
@@ -138,7 +137,7 @@ Proning is a cornerstone of ARDS management, and is covered in detail under @sec
         * Permissive hypercapnoea\
         * Avoid:
             * Volutrauma\
-            Aim Vt 4-6mL/kg predicted body weight.
+            AimV~T~4-6mL/kg predicted body weight.
             * Barotrauma\
             Aim Pplat <30cmH~2~O.
                 * The plateau pressure is a substitute for the transpulmonary pressure, which reflects the actual elastic distending pressure of the lung
@@ -156,7 +155,7 @@ Proning is a cornerstone of ARDS management, and is covered in detail under @sec
             * Requires deep sedation
             * ↑ Haemodynamic instability
     * **iNO**\
-    Appropriate to trial for hypoxaemia refractory to tranditional ventilation, for:
+    Appropriate to trial for hypoxaemia refractory to traditional ventilation, for:
         * Short periods
         * As a bridge to proning or ECMO
     * **VV ECMO**
@@ -179,13 +178,14 @@ One reasonable approach to PEEP-setting is identifying the level where DO~2~ (i.
 
 * High-Frequency Oscillatory Ventilation\
 ↑ Mortality compared to lung protective ventilation strategies.
-* Recruitment Manoeuvres\
-In theory, recruitment manoeuvres improve oxygenation by ↑ number of ventilated alveoli. In practice, following a recruitment manoeuvre:
+* Recruitment manoeuvres\
+Recruitment improves oxygenation by ↑ number of ventilated alveoli. However, following a recruitment manoeuvre:
     * Over-inflation of previously normal lung occurs\
     May be harmful.
     * Oxygenation may improve\
     Predominantly early ARDS with a lower baseline PEEP.
-    * Haemodynamic instability may occur due to large changes in VR
+    * Haemodynamic instability may occur\
+    Due to large changes in VR.
 
 :::column-margin
 Recruitment manoeuvres are covered in more detail under @sec-recruit.

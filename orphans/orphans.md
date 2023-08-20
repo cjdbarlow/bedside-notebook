@@ -302,8 +302,8 @@ Control glucose
 * PCV maximises driving pressure throughout the entire breath
 	* Alveoli peak early due to high pressure gradient in proximal airway
 	* Higher initial flow
-	* More of Vt delivered early in inspiratory cycle
-	* Vt better distributed among alveoli with different time constants
+	* More of V~T~ delivered early in inspiratory cycle
+	* V~T~ better distributed among alveoli with different time constants
 
 
 ## Hyponatraemia & friends
@@ -978,7 +978,7 @@ Requires adequate time and a compliant patient; key domains are sedation, topica
 - Inflate bronchial cuff under vision
 - Clamp isolated side and open lumen to air
  - Feel for gas leak from isolated side
- - Check for drop in Vt on vent (PCV)
+ - Check for drop in V~T~ on vent (PCV)
  - If uncertain or unclear, auscultate and recheck with bronch
 
 

@@ -19,7 +19,7 @@
 | 1.0\                                       | 18\            |
 | 1.0\                                       | 20-24\         |
 +--------------------------------------------+----------------+
-| Move ↑ or down the table to target one of:                  |
+| Move up or down the table to target one of:                 |
 |                                                             |
 | * PaO~2~ 55-80mmHg\                                         |
 | If most recent.                                             |

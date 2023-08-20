@@ -1,6 +1,6 @@
 # Humidification
 
-Inspired gas is warmed and humidified by the structures of the upper airway. When these structures are bypassed (i.e. by endotracheal intubation), artificial humidification systems must be used instead. The target is an **absolute humidity >30g/m^3^**.
+Inspired gas is warmed and humidified by the structures of the upper airway. When these structures are bypassed (i.e. by endotracheal intubation), artificial humidification systems must be used to achieve the target **absolute humidity** of **>30g/m^3^**.
 
 :::column-margin
 Long-term tracheostomy patients undergo metaplasia of tracheal epithelium, reducing (or removing) the need for humdification systems - although this may be required in an acute respiratory deterioration (e.g. infection).
@@ -22,8 +22,8 @@ Obstruction of small airways.
 
 Include:
 
-* Cold-water humidifiers
-* Hot-water humidifiers\
+* **Cold-water humidifiers**
+* **Hot-water humidifiers**\
 Thermostatically-controlled heated water resevoir, with gas containing high water content produced.
     * Small risk of infection from aerosolised particles in the water resevoir
     * Effective over a wide range of minute ventilation\
@@ -33,7 +33,7 @@ Thermostatically-controlled heated water resevoir, with gas containing high wate
         Gas passed over the water pool.
         * Bubble/cascade\
         Gas passed into the water pool.
-* Heat-Moisture Exchanger\
+* **Heat-Moisture Exchanger**\
 Water vapour (and it's heat content) is captured in a hygroscopic membrane during expiration, and is returned during the subsequent breath during inspiration.
     * May include viral/bacterial filters
     * Can become obstructed with blood/oedema/sputum
@@ -45,7 +45,7 @@ Water vapour (and it's heat content) is captured in a hygroscopic membrane durin
 ## Complications
 
 * Inadequate humidification\
-Practially only of concern with an HME.
+Practically only of concern with an HME.
 * Over-humidification\
 Risk of airway burns and water intoxication.
 * ↑ Work of Breathing\

@@ -286,7 +286,7 @@ Occurs at lower than usual volumes due to paralysis, lateral position, and the w
 * Begin at:
 	* FiO~2~ of 1.0\
 	Aim to down-titrate to 0.5-0.8.
-	* Vt of 5ml/kg
+	* V~T~ of 5ml/kg
 	* 5-10cmH~2~ of PEEP\
 	Consider ZEEP in the severe COAD patient.
 * Targeting:
