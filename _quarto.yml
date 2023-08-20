@@ -101,6 +101,8 @@ book:
           - part: <hr>
           - management/resus/cals.qmd
           - management/resus/traumatic.qmd
+          - management/resus/obs.qmd
+          - management/resus/hypothermia.qmd
           # ECPR
           # PALS
           - management/resus/neonatal.qmd

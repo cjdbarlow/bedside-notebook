@@ -79,7 +79,7 @@ Sedatives freely adjusted by the beside nurse to attain the prescribed level of 
 			* Hyperthermic emergencies
 			* Super-refractory status epilepticus
 			* ↑ ICP
-		* Associated with
+		* Associated with:
 			* Delayed extubation
 			* ↑ Mortality 
 * **Patient-targeted sedation**\
@@ -91,6 +91,7 @@ As goal-directed sedation, except aims to prevent excessive sedation by pausing 
 	* Facilitate neurological assessment
 	* Minimise accumulation of sedation\
 	This is more relevant to routine deep sedation, and targeting light (e.g. RASS >-2) sedation will limit this as well.
+	* Are not necessary if light sedation is used
 * **Intermittent sedation**\
 Intermittent administration of long-acting sedatives.
 * **Analgo-sedation**\
@@ -111,25 +112,24 @@ This framework outlines intravenous sedation and analgesia for tnhe above indica
 :::
 
 * Deep sedation should be limited to specific indications
-* Most other patients should be sedated to RAAS of -2 to 0\
-	* In general
-		* Propofol is a common first-line agent
-		* Dexmedetomidine
-			* Has analgesic and sedative properties
-			* Provides conscious sedation
-			* Is useful for weaning sedation in patients who:
-				* Are emerging dangerously on propofol
-				* Have controlled pain
-	* High levels of sedation requirements may suggest another present pathology
-		* If present, these should be managed separately
-		* These include:
-			* Pain
-			* Delirium
-			* Withdrawal
-	* This may result certain patients receiving no sedation, typically those with:
-		* Trachestomy
-		* Exceptional tube tolerance
-
+* Most other patients should be sedated to RAAS of 0 to -2\
+* High levels of sedation requirements may suggest another present pathology
+	* If present, these should be managed separately
+	* These include:
+		* Pain
+		* Delirium
+		* Withdrawal
+* This may result certain patients receiving no sedation, typically those with:
+	* Tracheostomy
+	* Exceptional tube tolerance
+* Choice of drug is often based on institutional preference
+	* Propofol is a common first-line agent
+	* Dexmedetomidine:
+		* Has analgesic and sedative properties
+		* Provides conscious sedation
+		* Is useful for weaning sedation in patients who:
+			* Are emerging dangerously on propofol
+			* Have controlled pain
 
 ### Sedatives
 

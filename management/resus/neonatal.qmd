@@ -1,6 +1,5 @@
 # Neonatal Resuscitation
 
-
 This section covers resuscitation of the neonate. Neonatal resuscitation is:
 
 * Required in ~5%\
@@ -12,9 +11,7 @@ The majority need gentle manoeuvres; drying, stimulation, warming. Need for:
 Poor alveolar expansion and reduced surfactant impair transition to adult circulation.
 
 
-## Clinical Manifestations
-
-Should cover:
+## Assessment
 
 * A
 	* Patency\
@@ -85,18 +82,20 @@ Follows an ABC approach:
 
 ### Target SpO~2~
 
-> A rough rule of thumb is that the lower limit at birth is 60%, and ↑ by ~5% every minute
-
+:::info
+A rough rule of thumb is that the lower limit at birth is 60%, and ↑ by ~5% every minute.
+:::
 
 SpO~2~ should be measured **pre-ductally**, i.e. on the right arm or ear:
 
-|Time (minutes)|Saturation|
-|--|--|
-|1|60-70%|
-|2|65-85%|
-|3|70-90%|
-|4|75-90%|
-|10|80-90%|
+
+| Time (minutes) | Saturation |
+|----------------|------------|
+| 1              | 60-70%     |
+| 2              | 65-85%     |
+| 3              | 70-90%     |
+| 4              | 75-90%     |
+| 10             | 80-90%     |
 
 
 ### Equipment
