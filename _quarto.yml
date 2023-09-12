@@ -73,11 +73,11 @@ book:
     - part: "Assessment"
       chapters:
         - assessment/airway.qmd
-        - part: "Systems"
+        - part: "Examination"
           chapters:
-          - assessment/observation.qmd
-          - part: <hr>
-          - assessment/systems/neuro.qmd
+          - assessment/environment.qmd
+          - assessment/clinical.qmd
+          - assessment/neuro.qmd
         - part: "Anaesthesia"
           chapters:
           - assessment/anaesthetic/preanaesthetic.qmd

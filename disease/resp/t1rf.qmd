@@ -7,6 +7,34 @@
 
 ### Aetiology
 
+Causes can considered anatomically:
+
+* Large airways
+	* Tracheal stenosis
+* Small airways
+	* Asthma
+	* COPD
+* Interstitial
+	* Fibrosis
+* Alveolar
+	* Pulmonary oedema
+		* Cardiogenic
+		* Non-cardiogenic
+	* Infection
+	* Blood
+* Pleural
+	* Effusions
+	* Pneumothoraces
+* Chest wall
+	* Obesity
+	* Rib fractures
+	* Neuromuscular disease
+* Brain
+	* Metabolic encephalopathy
+	* Brainstem injuries
+* Iatrogenic
+	* Ventilator dyssynchrony
+
 ## Clinical Features
 
 ## Assessment

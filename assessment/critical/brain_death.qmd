@@ -136,13 +136,17 @@ Should be tested **sequentially** and **bilaterally**.
 	* **Corneal** reflex\
 	Use of cotton wool or gauze are appropriate stimuli. 
 	* **Oculo-vestibular** reflexes\
-	Cold ice water injected into each EAM via a small catheter until either:
-		* Nystagmus\
-		Slow-phase towards irrigated ear in intact brainstem.
-		* Ocular deviation
-		* 20mL given
+		* Firstly, inspect both ear canals to confirm:
+			* Intact tympanic membrane
+			* Absence of canal occlusion
+		* Secondly, inject cold ice water into each EAM via a small catheter until either:
+			* Nystagmus\
+			Slow-phase towards irrigated ear in intact brainstem.
+			* Ocular deviation
+			* 20mL given
 	* **Gag**\
-	Use a tongue depressor or cotton swab. A laryngoscope can be used for assistance, if required.
+		* Use a tongue depressor or cotton swab to stimulate the posterior pharynx on each side\
+		A laryngoscope can be used for assistance, if required.
 	* **Cough**
 * **Apnoea**\
 Conducted last so that an ↑ PaCO~2~ does not confound assessment. Apnoea testing assesses ventilatory drive, and is performed by:
