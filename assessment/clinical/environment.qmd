@@ -1,0 +1,151 @@
+# Surroundings
+
+The ICU environment provides several clues to diagnosis and severity. Considerations include:
+
+* Environment
+* Monitor
+* Ventilator
+* 
+
+
+## Environment
+
+* Isolation room
+	* Positive pressure
+	* Negative pressure
+* Infection control and PPE
+* Waste disposal
+	* Cytotoxic
+* Room temperature\
+Burns.
+* Medications
+	* Antibiotics\
+	Implications for causative organism or resistance patterns. 
+	* Pathognomonic medications
+* Long-stay
+	* Photographs/art
+	* Physical therapy equipment
+	* Activity plans
+* Equipment
+	* Wheelchair
+	* Walking aids
+	* Handweights
+	* Splints
+	* Cooling blanket
+
+
+
+
+## Monitor
+
+* **ECG**\
+Rate and rhythm.
+	* HR <30-35 may lead to critical coronary hypoperfusion, independent of blood pressure
+* **Pressure monitoring**\
+	* Alignment to haemodynamic supports
+	* MAP <35mmHg (+/- 10mmHg) is usually the critical threshold for coronary perfusion, below which heart rate and cardiac output fall rapidly
+* **EtCO~2~**
+	* Level
+	* Trace
+	* PaCO~2~ gradient and dead space
+* **Temperature**
+* **ICP**\
+If transduced from EVD, ensure monitor is leveled appropriately.
+
+
+### Patterns
+
+: Integration of Haemodynamic Data
+
++------------------------------+-----+-----+-------+-------+------+
+| Type of Shock                | MAP | CVP | CO/CI | MPAP  | PCWP |
++==============================+=====+=====+=======+=======+======+
+| **Hypovolaemic**             | ↓/- | ↓   | ↓     | ↓     | ↓    |
++------------------------------+-----+-----+-------+-------+------+
+| **Obstructive**              | ↓   | ↑   | ↓     | ↑     | ↑/-  |
++------------------------------+-----+-----+-------+-------+------+
+| **Distributive**             | ↓   | ↓   | ↑     | ↓     | ↓    |
++------------------------------+-----+-----+-------+-------+------+
+| **Cardiogenic - LV failure** | ↓/- | ↑/- | ↓     | ↓/-   | ↑    |
++------------------------------+-----+-----+-------+-------+------+
+| **Cardiogenic - RV failure** | ↓/- | ↑   | ↓     | ↑/-/↓ | -    |
++------------------------------+-----+-----+-------+-------+------+
+
+:::column-margin
+Information from the monitor, ventilator, and medications should be integrated.\
+\
+e.g. "The SpO~2~ is 93% with an FiO~2~ of 50% - there is evidence of a raised A-a gradient".\
+\
+Or, "The patient is in AF, I note the heparin infusion and wonder if this is the sole indication for anticoagulation."
+:::
+
+* Cushing Triad\
+↑ ICP leads to a sympathetic surge aimed to maintain cerebral perfusion, which manifests as:
+	* Arterial hypertension
+	* Bradycardia
+	* Irregular respiration
+
+
+## Ventilator
+
+* Mode
+* Oxygenation
+	* FiO~2~
+	* PEEP
+	* Quick assessment of A-a gradient based on SpO~2~ and FiO~2~
+* Ventilation
+	* Minute ventilation
+	* Dynamic compliance
+	* Consider assessing plateau pressure if evidence of reduced compliance.
+* Disease-specific ventilation strategies
+* "Extubatable settings?"
+* Airway suction
+
+
+## Infusions
+
+* IV fluid
+* Vasoactives
+* Heparin
+* Pathognomonic drugs
+	* Octreotide/terlipressin
+	* Hypertonic saline
+	* Hypertonic dextrose
+	* Nimodipine
+	* Mannitol
+	* IVIG
+* TPN
+* Blood
+
+
+## Ancillary Equipment
+
+* CRRT\
+	* Mode
+	* Dialysate/buffer
+	* Dose
+	* Anticoagulation
+* Active cooling
+* IABP
+
+
+## Bed
+
+* Drains
+	* Type
+	* Location
+	* Swinging/bubbling\
+	If pleural.
+	* Output
+* IDC
+	* Urine colour
+		* Drugs
+		* Myoglobinuria
+* Faecal management system
+
+---
+
+## References
+
+1. Foot C, Steel L, Vidhani K, Lister B, MacPartlin M, Blackwell N. Examination Intensive Care Medicine. Elsevier Australia; 2011. (Examination series).
+1. Dünser MW, Dankl D, Petros S, Mer M. Clinical Examination Skills in the Adult Critically Ill Patient. Springer International Publishing; 2018.

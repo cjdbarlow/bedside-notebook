@@ -39,12 +39,14 @@ Acute onset of jaundice or ascites in a patient with chronic alcohol abuse.
 
 Usual presentations include:
 
+:::column-margin
+Hepatic encephalopathy is covered under @sec-hep_enc.
+:::
+
 * Encephalopathy
 * Sepsis
 * Renal failure
 * Variceal haemorrhage
-
-{{< include /includes/hepatic_enceph.qmd >}}
 
 
 ## Investigations
@@ -67,6 +69,11 @@ Usual presentations include:
 
 
 ## Management
+
+:::priority
+* Treat concurrent hepatic encephalopathy\
+Preventative measurement with lactulose and rifaximin may also apply.
+:::
 
 **Resuscitation**:
 
@@ -91,11 +98,6 @@ Usual presentations include:
 	* ICP control
 	* Low dose sedation usually adequate
 * G
-	* Hyperammonaemia\
-	Aim to ↓ gut load of ammonia-producing bacteria.
-		* Lactulose
-		* Rifaximin 550mg PO BD\
-		Non-absorbable broad-spectrum antibiotic that ↓ gut flora concentrations.
 	* Feeding\
 	Protein 1.2-2g/kg/day.
 	* Correct hypoglycaemia
@@ -107,14 +109,6 @@ Usual presentations include:
 Cerebral oedema secondary to hyperammonaemia is less common in ACLF due to established compensatory mechanisms.
 :::
 
-:::column-margin
-Lactulose, an osmotic diuretic, ↓ ammonia by unconventional means:
-
-* Lactulose is metabolised by gut bacteria into lactic and acetic acid
-* The ↓ in colonic pH favours conversion of ammonia (NH~3~) to ionised ammonium (NH~4~^+^), which is trapped in the colon\
-This is **analogous to urinary alkalinisation** for elimination of weak acids.
-* Trapped ammonium is then cleared by the more mundane osmotic laxative effect
-:::
 
 **Disposition**:
 

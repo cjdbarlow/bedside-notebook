@@ -1,0 +1,160 @@
+# General Appearance
+
+:::tick
+* **Reposition**\
+As able to maximise exposure and assess-ability.
+* Maximise **exposure**\
+Folding blankets down and in to the midline allows rapid and near-complete exposure whilst still preserving some modesty.
+:::
+
+: Findings on General Inspection
+
++---------------------------------+----------------------------------------+
+| Component                       | Inspection                             |
++=================================+========================================+
+| **General**                     | * Position                             |
+|                                 | * Obesity                              |
+|                                 | * Cachexia                             |
+|                                 | * Wounds                               |
+|                                 | * Drains                               |
+|                                 | * Dressings                            |
+|                                 | * Burns                                |
+|                                 | * Lines                                |
+|                                 |     * Access                           |
+|                                 | * Position\                            |
+|                                 | Signs of recovery include:             |
+|                                 |     * Sleeping in the lateral position |
+|                                 |     * Lying with crossed legs          |
++---------------------------------+----------------------------------------+
+| **Respiratory**                 | * Respiratory pattern                  |
+|                                 |     * **Cheyne-Stokes** respiration    |
+|                                 |     * **Biot** breathing               |
+|                                 |     * **Apneustic** respiration        |
+|                                 |     * **Paradoxical** breathing        |
+|                                 | * **Trepopnoea**                       |
+|                                 | * Work of breathing                    |
+|                                 | * Steroid purpura                      |
+|                                 | * Cushingoid appearance                |
+|                                 | * Tracheal aspirates                   |
++---------------------------------+----------------------------------------+
+| **Cardiovascular**              | * **Orthopnoea**                       |
+|                                 | * **Platypnoea**                       |
+|                                 | * Xanthoma                             |
+|                                 | * Marfanoid habitus                    |
+|                                 | * **Centralisation**                   |
++---------------------------------+----------------------------------------+
+| **Neurological**                |                                        |
++---------------------------------+----------------------------------------+
+| **Endocrine** and **Metabolic** |                                        |
++---------------------------------+----------------------------------------+
+| **Renal**                       |                                        |
++---------------------------------+----------------------------------------+
+| **Gastrointestinal**            |                                        |
++---------------------------------+----------------------------------------+
+| **Haematological**              |                                        |
++---------------------------------+----------------------------------------+
+| **Integumentary**               | * Muscle bulk                          |
+|                                 | * Wasting                              |
+|                                 | * Malnutrition                         |
+|                                 | * Cachexia                             |
+|                                 |                                        |
++---------------------------------+----------------------------------------+
+| **Trauma**                      |                                        |
++---------------------------------+----------------------------------------+
+| **Infective**                   |                                        |
++---------------------------------+----------------------------------------+
+| **Malignant**                   |                                        |
++---------------------------------+----------------------------------------+
+| **Toxic**                       |                                        |
++---------------------------------+----------------------------------------+
+| **Immune**                      | * Vasculitic rashes                    |
++---------------------------------+----------------------------------------+
+| **Congenital**                  |                                        |
++---------------------------------+----------------------------------------+
+| **Obstetric**                   | * Oedema                               |
+|                                 | * Bruising/ecchymoses                  |
++---------------------------------+----------------------------------------+
+
+## Features
+
+### Respiratory
+
+* **Cheyne-Stokes** respiration
+	* Alternating episodes hyperpnoea followed by apnoic spells
+		* Apnoea may last up to 45s, but is usualy 5-10s
+	* Generally indicative of ***acute* cerebral** or ***chronic* cardiac** pathology
+	* Physiologic in infants and at high altitude
+
+:::column-margin
+![Cheyne-Stokes Respiration](/resources/cheyne_stokes.png)
+:::
+
+* **Biot breathing**\
+Similar to Cheyne-Stokes, but abrupt alteration between apnoea and hyperpnoea and less regular intervals.
+	* Indicative of pontine or brainstem injury
+
+:::column-margin
+Abdominal motion indirectly indicates the function of the diaphragm.
+:::
+
+* **Apneustic breathing**\
+Irregular respiration rate and tidal volume, classically with an **end-inspiratory hold** prior to commencing the next breath.
+\
+* **Paradoxical** breathing\
+Inward movement of the chest while the abdomen raises during inspiration, which occurs in:
+	* Upper airway obstruction
+	* Severe respiratory distress
+	* Diaphragmatic dysfunction
+\
+* **Obstructive** breathing\
+Expiratory airflow limitation may lead to:
+	* Active abdominal contraction during expiration
+	* Slow and incomplete descent of the chest
+	* Pursed-lip expiration\
+	Generation of auto-PEEP, maintaining opening of small airways.
+	* E-time > I-time
+\
+* **Restrictive** breathing\
+Prolonged, forceful inspiration due to inspiratory airflow limitation.
+
+:::column-margin
+Obstructive and restrictive breathing can occur in the same patient.
+:::
+
+* **Trepopnoea**\
+Dyspnoea occurring in one lateral position but not the other, signifying worse disease in the non-dependent lung which occurs due to poorer V/Q matching when the diseased lung is in the dependent position.
+\
+
+
+### Cardiovascular
+
+* **Orthopnoea**\
+Dyspnoea relieved in the sitting or standing position, due to a ↓ in VR and pulmonary venous congestion.
+
+:::column-margin
+Inability to lie flat is a significant marker of severe RV failure, tamponade, or impending airway obstruction.
+:::
+
+* **Platypnoea**\
+Dyspnoea relieved by recumbency, generally due to intracardiac (right-to-left) or intrapulmonary shunts that are worsened due to the ↓ in West Zone 3 that occurs in the upright position.
+
+* **Centralisation**\
+Re-distribution of central blood volume away from the peripheries, leading to:
+	* Extensive mottling
+	* Diaphoresis
+	* Piloerection
+	* Cold skin
+	* Loss of peripheral pulses
+	* Confusion secondary to cerebral hypoperfusion
+
+:::column-margin
+![Centralisation](/resources/centralisation.png)
+:::
+
+---
+
+## References
+
+
+1. Foot C, Steel L, Vidhani K, Lister B, MacPartlin M, Blackwell N. Examination Intensive Care Medicine. Elsevier Australia; 2011. (Examination series).
+1. Dünser MW, Dankl D, Petros S, Mer M. Clinical Examination Skills in the Adult Critically Ill Patient. Springer International Publishing; 2018.

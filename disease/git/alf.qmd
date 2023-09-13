@@ -29,6 +29,10 @@ Coagulopathy and jaundice in absence of encephalopathy.
 Acute decline in liver function in patients with chronic liver disease.
 :::
 
+:::column-margin
+Hepatic encephalopathy may complicate either acute liver failure or chronic liver disease, and is covered under @sec-hep_enc.
+:::
+
 
 ## Epidemiology and Risk Factors
 
@@ -105,15 +109,6 @@ Cause varies substantially with geography.
 
 History:
 
-:::column-margin
-The Parson-Smith scale grades hepatic encephalopathy into:
-
-1. Mild confusion/irritability, ↓ attention
-2. Disorientation, drowsiness, inappropriate
-3. Somnolent but rousable, incoherent
-4. Coma
-:::
-
 * Overdose
 * CNS
 	* Encephalopathy
@@ -133,7 +128,6 @@ Examination:
 	* Cushing's triad
 * Jaundice
 
-{{< include /includes/hepatic_enceph.qmd >}}
 
 ## Diagnostic Approach and DDx
 
@@ -201,9 +195,6 @@ Laboratory:
 	* Drug screen
 		* Paracetamol
 
-:::column-margin
-Ammonia >200μmol/L associated with cerebral herniation.
-:::
 
 **Imaging**:
 
@@ -234,7 +225,7 @@ Triple-phase liver.
 ## Management
 
 :::priority
-* Prevent **cerebral oedema**
+* Prevent **cerebral oedema** and treat concurrent @sec-hep_enc
 * Manage **vasodilatory shock**
 * **Treat** concurrent **sepsis**\
 Gram negative and fungal.
@@ -284,44 +275,26 @@ Invasive intracranial pressure monitoring associated with ~10% intracranial haem
 
 * A\
 Consider **securing airway** if:
-	* High grade (III/IV) encephalopathy
+	* High grade (III/IV) hepatic encephalopathy
 	* Need for transfer
 * B
 	* **Lung protective ventilation**\
 	ARDS risk.
-	* **Hyperventilation**\
-	For ICP control.
 	* Drain pleural effusions
 * C
 	* **Volume resuscitation**\
 	Can be aggressive in absence of pulmonary hypertension.
 	* MAP 65-70mmHg\
-	Or **higher** if targeting **CPP**.
+	Or **higher** if targeting **CPP** with concurrent hepatic encephalopathy.
 		* Noradrenaline 1^st^ line
 		* Vasopressin 2^nd^ line
 	* **Corticosteroids** for vasopressor-refractory shock
 		* Hydrocortisone 50mg IV Q6H
-* D
-	* **↑ ICP**\
-		* General measures\
-		If **grade 3/4** encephalopathy, recommend:
-			* Intubation
-			* Sedation
-			* Avoid stimulation
-			* Head-up positioning
-		* Consider invasive ICP management if **all** of:\
-			* Grade 3-4 encephalopathy
-			* Hyperacute liver failure
-			* Ammonia >150mmolL
-			* Young
 * E
 	* ↓ **BSL**\
 	Use high-concentration dextrose to avoid cerebral oedema/↓ Na^+^.
-	* **Hypothermia** (**35°C**)\
-	In addition to ↓ in ICP, also ↓ proteolysis and ammonia production.
 * F
-	* **Hypernatraemia**\
-	148-152mmol/L.
+
 	* **RRT**\
 		* Avoid citrate!
 		* Use bicarbonate buffered solutions
@@ -360,9 +333,7 @@ Consider **securing airway** if:
 			Molecular filtration.
 {{< include /includes/liver_coag.qmd >}}
 
-:::column-margin
-The **combination** of **hyperventilation**, **haemodiafiltration**, **hypernatraemia**, and **hypothermia** is referred to as **quadruple-H** or quad-H therapy.
-:::
+
 
 **Disposition**:
 

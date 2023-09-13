@@ -73,11 +73,17 @@ book:
     - part: "Assessment"
       chapters:
         - assessment/airway.qmd
-        - part: "Examination"
+        - part: "Clinical Examination"
           chapters:
-          - assessment/environment.qmd
-          - assessment/clinical.qmd
-          - assessment/neuro.qmd
+          - assessment/clinical/environment.qmd
+          - assessment/clinical/neuro.qmd
+          - part: <hr>
+          - assessment/clinical/general.qmd
+          - assessment/clinical/ul.qmd
+          - assessment/clinical/hn.qmd
+          - assessment/clinical/chest.qmd
+          - assessment/clinical/abdomen.qmd
+          - assessment/clinical/ll.qmd    
         - part: "Anaesthesia"
           chapters:
           - assessment/anaesthetic/preanaesthetic.qmd
@@ -713,6 +719,7 @@ book:
           chapters:
           - disease/neuro/coma.qmd
           - disease/neuro/hie.qmd
+          - disease/neuro/hepatic_encephalopathy.qmd
           - disease/neuro/delirium.qmd
           - disease/neuro/abd.qmd
           # Toxic encephalopathy

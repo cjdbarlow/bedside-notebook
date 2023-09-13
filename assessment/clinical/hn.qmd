@@ -1,0 +1,100 @@
+# Head and Neck
+
+: Findings on Head and Neck Examination
+
++---------------------------------+---------------------+---------------------+------------+--------------+
+| Component                       | Inspection          | Palpation           | Percussion | Auscultation |
++=================================+=====================+=====================+============+==============+
+| **General**                     | * Colour\           |                     |            |              |
+|                                 | ↑ Mortality with:   |                     |            |              |
+|                                 |     * Pallor        |                     |            |              |
+|                                 |     * Cyanosis      |                     |            |              |
+|                                 |     * Greyish-ness  |                     |            |              |
+|                                 | * Pseudo-cyanosis                    |                     |            |              |
++---------------------------------+---------------------+---------------------+------------+--------------+
+| **Respiratory**                 | * ETT               | * Tracheal position |            |              |
+|                                 |     * Size          |                     |            |              |
+|                                 |     * Depth         |                     |            |              |
+|                                 | * Tracheostomy      |                     |            |              |
+|                                 | * Tracheostomy scar |                     |            |              |
+|                                 | * Tracheal tug      |                     |            |              |
++---------------------------------+---------------------+---------------------+------------+--------------+
+| **Cardiovascular**              | * Xantholasma       |                     |            |              |
+|                                 | * Corneal arcus     |                     |            |              |
+|                                 | * Facial swelling\  |                     |            |              |
+|                                 | SVC obstruction.    |                     |            |              |
++---------------------------------+---------------------+---------------------+------------+--------------+
+| **Neurological**                | * **Mydriasis**     | * Meningism         |            |              |
++---------------------------------+---------------------+---------------------+------------+--------------+
+| **Endocrine** and **Metabolic** |                     |                     |            |              |
++---------------------------------+---------------------+---------------------+------------+--------------+
+| **Renal**                       |                     |                     |            |              |
++---------------------------------+---------------------+---------------------+------------+--------------+
+| **Gastrointestinal**            | * Scleral jaundice  |                     |            |              |
++---------------------------------+---------------------+---------------------+------------+--------------+
+| **Haematological**              |                     |                     |            |              |
++---------------------------------+---------------------+---------------------+------------+--------------+
+| **Integumentary**               |                     |                     |            |              |
++---------------------------------+---------------------+---------------------+------------+--------------+
+| **Trauma**                      | * Battle's sign     |                     |            |              |
+|                                 | * Mastoid bruising  |                     |            |              |
+|                                 | * Haemotympanum     |                     |            |              |
+|                                 | * CSF otohorrhoea   |                     |            |              |
+|                                 | * CSF rhinorrhoea   |                     |            |              |
++---------------------------------+---------------------+---------------------+------------+--------------+
+| **Infective**                   |                     |                     |            |              |
++---------------------------------+---------------------+---------------------+------------+--------------+
+| **Malignant**                   |                     |                     |            |              |
++---------------------------------+---------------------+---------------------+------------+--------------+
+| **Toxic**                       |                     |                     |            |              |
++---------------------------------+---------------------+---------------------+------------+--------------+
+| **Immune**                      |                     | * Lymphadenopathy   |            |              |
++---------------------------------+---------------------+---------------------+------------+--------------+
+| **Congenital**                  |                     |                     |            |              |
++---------------------------------+---------------------+---------------------+------------+--------------+
+| **Obstetric**                   |                     |                     |            |              |
++---------------------------------+---------------------+---------------------+------------+--------------+
+
+## Features
+
+### General
+
+* **Central cyanosis**\
+Blue-ish mucosa seen with:
+	* Hypoxaemia (<80%)
+	* Methaemoglobinaemia (>1.5%)
+	* Sulfhaemoglobinaemia (>0.5%)
+* Pseudocyanosis\
+Blue-ish mucosa in absence of hypoxaemia or other haemoglobinopathy, dur to:
+	* Heavy metal intoxication
+		* Silver
+		* Gold
+	* Drug therapy
+		* Amiodarone
+		* Minocycline
+		* Chloroquine
+		* Phenothiazines
+
+### Neurological
+
+* **Mydriasis**\
+Pupillary dilation may occur due to:
+	* Optic nerve injury
+	* Amaurosis
+	* Isolated midbrain lesion
+	* Intoxication
+	* CN III compression
+		* Uncal herniation
+
+:::column-margin
+![Unilateral Mydriasis](/resources/uni_mydriasis.png)
+
+![Bilateral Mydriasis](/resources/bilat_mydriasis.png)
+:::
+
+---
+
+## References
+
+1. Foot C, Steel L, Vidhani K, Lister B, MacPartlin M, Blackwell N. Examination Intensive Care Medicine. Elsevier Australia; 2011. (Examination series).
+1. Dünser MW, Dankl D, Petros S, Mer M. Clinical Examination Skills in the Adult Critically Ill Patient. Springer International Publishing; 2018.
