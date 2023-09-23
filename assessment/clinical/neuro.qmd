@@ -10,6 +10,7 @@ Testing and diagnosis of brain death is covered under @sec-braindeath.
     * Pupils
 * **Unconscious**
     * Pupils
+    * Eye position
     * Respiratory pattern
     * Limited cranial nerves
     * Limited peripheral motor
@@ -28,6 +29,32 @@ Testing and diagnosis of brain death is covered under @sec-braindeath.
 * A rigorous approach improves reproducibility and reliability
 * GCS score is the sum of the **best** result in any limb
 :::
+
+: Levels of Consciousness
+
++--------------------+------------------------------------------------------------------------------------------------+
+| Level              | Definition                                                                                     |
++====================+================================================================================================+
+| Clouded            | Mild impairment:                                                                               |
+|                    |                                                                                                |
+|                    | * Inattention                                                                                  |
+|                    | * ↓ Wakefulness                                                                                |
++--------------------+------------------------------------------------------------------------------------------------+
+| Confusion/delirium | Moderate impairment:                                                                           |
+|                    |                                                                                                |
+|                    | * Disorientation                                                                               |
+|                    | * Agitation                                                                                    |
+|                    | * Uncooperativeness                                                                            |
++--------------------+------------------------------------------------------------------------------------------------+
+| Lethargy\          | Impaired state from which a patient can be transiently roused from a mild to moderate stimulus |
+| Somnolence\        |                                                                                                |
+| Obtundation        |                                                                                                |
++--------------------+------------------------------------------------------------------------------------------------+
+| Stupor             | Impaired state from which a patient can be very briefly roused by a repeated, vigorous stimuli |
++--------------------+------------------------------------------------------------------------------------------------+
+| Coma               | Impaired state from which a patient cannot be aroused                                          |
++--------------------+------------------------------------------------------------------------------------------------+
+
 
 In a patient with an unclear level of consciousness:
 
@@ -60,7 +87,7 @@ This assesses for locked-in syndrome.
 Bedside assessment:
 
 * **Size**\
-Normal is 2-5mm. Pupil size suggests aetiology of the lesion:
+Normal is ~2-5mm, dependent on ambient light. Pupil size suggests aetiology of the lesion:
     * Small\
         * Drugs\
         Opioids and clonidine.
@@ -69,15 +96,30 @@ Normal is 2-5mm. Pupil size suggests aetiology of the lesion:
     Midbrain lesions.
     * Large and unresponsive\
     CNIII compression.
-* **Asymmetry**
+* **Asymmetry**\
+Anisocoria defined as a size difference >1mm.
     * Large and unresponsive\
-        * Ipsilateral CN III lesion
+        * Ipsilateral CN III lesion\
+        May be secondary to uncal herniation.
         * Adie's Pupil\
         Idiopathic syndrome of mydriasis and delayed response to light; may occur in one or both pupils.
 * **Reactivity**
     * Afferent pathway via CN II
     * Efferent pathway via CN III
     * Abnormalities between direct and consensual reflexes allow localisation of the lesion to a particular neural pathway
+    * Light reactivity is usually maintained in durg or toxin induced mydriasis
+
+:::column-margin
+Normal pupil size changes with age:
+
+* Children: 7mm
+* Adults: 5-6mm
+* Elderly: 4-5mm
+:::
+
+:::column-margin
+![Anisocoria](/resources/anisocoria.jpg)
+:::
 
 
 Detailed assessment:
@@ -85,6 +127,59 @@ Detailed assessment:
 * **Papilloedema**\
 Presence suggests ↑ ICP, though this may not be present (especially acutely).
 
+
+## Eye Position
+
+Gaze and non-voluntary eye movements can be used to localise a brain lesion:
+
+* Any deviation from the mid-position is abnormal
+* Any difference in horizontal or vertical axial position between each eye is abnormal
+
+: Localisation of Gaze Abnormalities    
+
++------------------------------------+--------------------------------+
+| Eye Position                       | Lesions                        |
++====================================+================================+
+| Tonic conjugate upward gaze        | * Diffuse lesion               |
+|                                    | * Bihemispheric lesion         |
++------------------------------------+--------------------------------+
+| Intermittent conjugate upward gaze | * Oculogyric crisis            |
+|                                    | * Psychogenic unresponsiveness |
++------------------------------------+--------------------------------+
+| Horizontal conjugate gaze          | * Hemispheric lesion           |
+|                                    |     * Stroke                   |
+|                                    |     * Trauma                   |
+|                                    | * Hemispheric epileptic focus  |
++------------------------------------+--------------------------------+
+| "Ping-pong gaze"\                  | * Bilateral hemispheric lesion |
+|                                    | * Bilateral brainstem lesion   |
+|                                    |                                |
++------------------------------------+--------------------------------+
+| Tonic conjugate downward gaze      | * Thalamic                     |
+|                                    | * Midbrain                     |
+|                                    | * Hydrocephalus                |
++------------------------------------+--------------------------------+
+| Ocular dipping                     | * Midbrain                     |
++------------------------------------+--------------------------------+
+| Convergent nystagmus               | * Midbrain                     |
++------------------------------------+--------------------------------+
+| Ocular bobbing                     | * Pons                         |
++------------------------------------+--------------------------------+
+| Skew deviation                     | * Cerebellar                   |
+|                                    | * Brainstem                    |
++------------------------------------+--------------------------------+
+
+:::column-margin
+Horizontal conjugate gaze occurs **towards** an anatomical lesion and **away** from an epileptic focus.
+:::
+
+:::column-margin
+A ping-pong gaze describes roving eye movements that alternate from one side to the other. 
+:::
+
+:::column-margin
+Ocular dipping describes slow downward eye movement, followed by a pause at the extreme of downward gaze, and finishes with a quick return to midposition.
+:::
 
 ## Respiratory Patterns
 
@@ -121,16 +216,22 @@ Assessing respiratory pattern in the intubated patient requires some desedation 
 * **Corneal reflex**\
 Tests V~1~, III (eye movement) and VII (blink).
     * Wisp of cotton of gauze should be applied to the *cornea*
-        * *Not* the conjunctiva\
+        * *Not* the sclera or conjunctiva\
         * Saline (more gentle) can be used as but administration should be precise enough to strike the cornea
         * Patient should not see the or hear the stimulus, otherwise this will not isolate V~1~.
     * Reflex is present if they blink or look upwards\
-\
+
+:::column-margin
+![Corneal Reflex](/resources/corneal_reflex.jpg)
+:::
+
 * **Occulo-cephalic reflex**\
 A milder version of the cold caloric reflex that can be performed in unconscious patients. Tests CN III, VI, VIII.
     * The eyes are held open and the head is rotated side-to-side or up-and-down
-    * The reflex is present if the eyes move in the opposite direction of head movements (**doll's eyes**)
+    * The reflex is present if the eyes move in the opposite direction of head movements
+    This is a *normal* response.
     * **Absence** of the reflex is suggestive of brainstem dysfunction in the comatose patient\
+    This is a **doll eyes** - the eyes do not move in response to head movement.
 \
 * **Facial Sensation**
     * Supra orbital notch pressure\
@@ -150,12 +251,20 @@ Tests CN X.
 Ensure the cervical spine is cleared before testing the oculocephalic reflex.
 :::
 
-* **Cold caloric reflex**\
-Tests CN III, VI, and VIII.
-    * Predominantly **used only** in **brain-death testing**
-    * Cold water is syringed into the patients ear
-    * A positive reflex occurs when the eyes look towards the tested side\
-    Eyes will remain in this position until irrigation stops.
+* **Vestibulo-ocular reflex**
+Also known as the cold caloric reflex. Tests CN III, VI, and VIII.
+    * Predominantly **used only** in **brain-death testing** as it may produce nausea and vomiting in the non-comatose patient
+    * Process:
+        * Head elevated to 30°
+        * Eyes are held open to examine for eye movements
+        * ~50mL of ice cold water is syringed into the patients ear
+        * Observe for refectory eye movements
+        * Wait 5 minutes before testing the opposite side
+    * Interpretation:
+        * Deviation of both eyes towards the irrigated ear, returning to the mid-position when irrigation stops\
+        Diffuse cortical lesion.
+        * Deviation of ipsilateral eye to irrigated ear, with no movement of the contralateral eye\
+        Medial longitudinal fasciculus lesion.
     * No response will occur in brain death
     * 5 minutes should elapse before testing the other wide
 
@@ -369,6 +478,8 @@ Useful for peripheral neuropathy.
 * Tests of coordination:
     * Rapid alternating movements
     * Finger-nose
+    * Finger-finger\
+    Close eyes and outstretched arms, and attempt to place fingertips together.
     * Heel-shin
 * Gait
 * Romberg's test
@@ -382,4 +493,5 @@ Useful for peripheral neuropathy.
 ## References
 
 1. Walker MC, O’Brien MD. [Neurological examination of the unconscious patient](https://www.gla.ac.uk/media/media_117701_en.pdf). J R Soc Med. 1999 Jul;92(7):353-5.
-2. Smith, Eimear, and Mark Delargy. ‘Locked-in Syndrome’. BMJ: British Medical Journal 330, no. 7488 (19 February 2005): 406–9.
+1. Smith, Eimear, and Mark Delargy. ‘Locked-in Syndrome’. BMJ: British Medical Journal 330, no. 7488 (19 February 2005): 406–9.
+1. Dünser MW, Dankl D, Petros S, Mer M. Clinical Examination Skills in the Adult Critically Ill Patient. Springer International Publishing; 2018.

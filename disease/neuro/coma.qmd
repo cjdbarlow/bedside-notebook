@@ -35,6 +35,8 @@ Major causes can be classified by:
 	* Focal neurology
 	* Meningism
 
+: Causes of Coma by Clinical Features
+
 +-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
 | No focal neurology                | Focal Neurology                                                                                                                     | Meningism                                                                                                 |
 +===================================+=====================================================================================================================================+===========================================================================================================+
@@ -69,9 +71,6 @@ Major causes can be classified by:
 |                                   |                                                                                                                                     |                                                                                                           |
 |                                   | - Patchwork vasodilation and vasoconstriction due to severe hypertension, producing visual disturbances and altered conscious state |                                                                                                           |
 +-----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
-
-: Causes of Coma by Clinical Features
-
 
 ### Drug Causes
 
@@ -265,18 +264,27 @@ Presence or absence of other findings will narrow the differential:
 Related categories of altered conscious states that do not have their own page.
 :::
 
-* **Locked-in syndrome**
-* **Psychogenic unresponsiveness**
+* **Locked-in syndrome**\
+Severe neurological lesion secondary to bilateral pontine lesions with destruction of pontine motor tracts, resulting in:
+	* Tetraplegia
+	* Preservation of spontaneous respiration
+	* Preservation of upward eye movements and blinking\
+	Other eye movements may be preserved, depending on the severity.
+\
+* **Psychogenic unresponsiveness**\
+Profound impaired conscious state (classically GCS 3) without impairment of respiration, airway protection, or pupillary abnormalities.
 	* Eyes
 		* Resistance of passive eye opening
 		* Blink response
 		* No spontaneous roving movements
-		* Oculocephalic reflex ("Dolls Eye)\
-		Eyes remain stationary with respect to head.
-		* Cold-caloric testing wakes up
-* **Akinetic mutism**
+		* Occulo-cephalic reflex negative
+		* Rouses with vestibulo-ocular testing
+\
+* **Akinetic mutism**\
+Frontal lobe injury characterised by absence of communication and minimal movement to complete specific tasks.
+\
 * **Persistent Vegetative State**\
-Patients with PVS < 3 years may (rarely) partially recover; there are no known predictors though it is usually after TBI. Patients with PVS for >3 years do not recover. PVS is defined by:
+Persistent (>1 month) state of lack of awareness despite possible wakefulness (eyes open), defined defined by:
 	* No awareness of self or environment
 	* No sustained, reproducible, purposeful, or voluntary response to a stimuli
 	* No language comprehension or expression
@@ -286,6 +294,11 @@ Patients with PVS < 3 years may (rarely) partially recover; there are no known p
 	* Stable unsupported blood pressure
 	* Intact respiratory drive
 	* Double incontinence
+
+:::column-margin
+Patients with PVS < 3 years may (rarely) partially recover; there are no known predictors though it is usually after TBI. Patients with PVS for >3 years do not recover. 
+:::
+
 * **Minimally Conscious State**\
 May further recover, but no predictors are known. Patients with MCS:
 	* Make eye contact and turns head when talked through
@@ -294,6 +307,19 @@ May further recover, but no predictors are known. Patients with MCS:
 	* May mouth words or fend off pain
 	* Some intelligible verbalisation
 	* May hold or use objects when asked
+\
+* **Isolated frontal lobe injury**\
+Characterised by:
+	* Apathy
+	* Abulia\
+	Loss of motivation.
+	* Delayed response to external stimuli
+\
+* **Global aphasia**\
+Inability to speak and understand speech due to dominant hemispheric injury, classically a stroke. Patient can still perform meaningful tasks.
+\
+* **Postictal state**\
+Minutes-to-hours period following a seizure where a patient may appear alert but unresponsive.
 
 
 ## Investigations

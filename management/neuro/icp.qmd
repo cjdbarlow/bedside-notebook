@@ -32,12 +32,23 @@ Low amplitude changes in ICP that occur several times per minute.
 
 Clinical features of ↑ ICP include:
 
-* Seizures
-* GCS\
-⩽12 is relative contraindication to LP without radiographic exclusion of ↑ ICP or hydrocephalus.
+* Headache
+* Nausea/vomiting
+* Hypertension\
+With associated ↓ HR.
+* Progressive loss of consciousness\
+	* GCS ⩽12 is relative contraindication to LP without radiographic exclusion of ↑ ICP or hydrocephalus
+	* **Coma** is a **late sign** in isolated ↑ ICP
 * Focal neurological signs
+* Seizures
 * Papilloedema
+* Unilateral pupillary dilation with loss of reactivity\
+	* Suggests transtentorial herniation
+	* Typically followed by loss of brainstem and cranial nerve function
 
+:::column-margin
+In absence of intracranial injury and preserved cerebral autoregulation, ICP may rise as high as **60mmHg** before consciousness is impaired.
+:::
 
 ## Monitoring
 
@@ -227,3 +238,4 @@ At each stage, reconsider the:
 1. Carney N, Totten AM, OʼReilly C, et al. [Guidelines for the Management of Severe Traumatic Brain Injury, Fourth Edition: Neurosurgery](www.doi.org/10.1227/NEU.0000000000001432). Published online September 2016:1.
 1. Hawryluk GWJ, Aguilera S, Buki A, et al. [A management algorithm for patients with intracranial pressure monitoring: the Seattle International Severe Traumatic Brain Injury Consensus Conference (SIBICC)](https://link.springer.com/article/10.1007/s00134-019-05900-x). Intensive Care Med. 2019;45(12):1783-1794. doi:10.1007/s00134-019-05805-9
 1. Hutchinson PJ, Kolias AG, Timofeev IS, et al. [Trial of Decompressive Craniectomy for Traumatic Intracranial Hypertension](http://www.nejm.org/doi/pdf/10.1056/NEJMoa1605215). N Engl J Med. 2016;375(12):1119-1130. doi:10.1056/NEJMoa1605215
+1. Dünser MW, Dankl D, Petros S, Mer M. Clinical Examination Skills in the Adult Critically Ill Patient. Springer International Publishing; 2018.

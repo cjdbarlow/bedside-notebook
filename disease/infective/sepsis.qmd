@@ -310,7 +310,7 @@ Early use of noradrenaline is associated with ↓ mortality.
 		* Empirical\
 		Tailored to likely sources and resistance patterns.
 	* **Corticosteroids**
-		* Controversial
+		* Remain somewhat controversial
 		* Appropriate for patients:
 			* With another indication for steroids
 			* Sepsis with CAP
@@ -330,6 +330,13 @@ Early use of noradrenaline is associated with ↓ mortality.
 	This includes arterial catheters. 
 * Physical
 
+:::column-margin
+My approach is to use corticosteroids in septic patients with:
+
+* CAP
+* On previous steroid supplementation
+* With noradrenaline ⩾0.15μg/kg/min
+:::
 
 **Supportive care**:
 

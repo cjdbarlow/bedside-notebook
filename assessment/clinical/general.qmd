@@ -42,6 +42,9 @@ Folding blankets down and in to the midline allows rapid and near-complete expos
 |                                 | * Xanthoma                             |
 |                                 | * Marfanoid habitus                    |
 |                                 | * **Centralisation**                   |
+|                                 | * **Peripheral perfusion**             |
+|                                 | * **Livedo reticularis**               |
+|                                 | * **Oedema**                           |
 +---------------------------------+----------------------------------------+
 | **Neurological**                |                                        |
 +---------------------------------+----------------------------------------+
@@ -49,7 +52,8 @@ Folding blankets down and in to the midline allows rapid and near-complete expos
 +---------------------------------+----------------------------------------+
 | **Renal**                       |                                        |
 +---------------------------------+----------------------------------------+
-| **Gastrointestinal**            |                                        |
+| **Gastrointestinal**            | * Jaundice                             |
+|                                 | * Foetor hepaticus                     |
 +---------------------------------+----------------------------------------+
 | **Haematological**              |                                        |
 +---------------------------------+----------------------------------------+
@@ -57,7 +61,6 @@ Folding blankets down and in to the midline allows rapid and near-complete expos
 |                                 | * Wasting                              |
 |                                 | * Malnutrition                         |
 |                                 | * Cachexia                             |
-|                                 |                                        |
 +---------------------------------+----------------------------------------+
 | **Trauma**                      |                                        |
 +---------------------------------+----------------------------------------+
@@ -77,10 +80,38 @@ Folding blankets down and in to the midline allows rapid and near-complete expos
 
 ## Features
 
+### Vital Signs
+
+* Respiratory rate
+	* Tachypnoea is a sensitive but non-specific marker of severity
+	* Persistently normal respiratory rate ↓ likelihood of some severe pathologies
+		* Shock
+		* PE
+* **Heart rate**
+	* Tachycardia is non-specific, but suggests ↑ sympathetic tone
+	* Absence of tachycardia significantly ↓ likelihood of hypovolaemia, heart failure, and shock\
+	Key exceptions include:
+		* Intraperitoneal haemorrhage may result in vagal stimulation, and lead to normal or ↓↓ HR
+	* **Sinus arrhythmia**\
+	Describes an ↑ HR during inspiration and ↓ HR during expiration, common in children and athletes.
+* **Blood pressure**
+	* Clinical assessment of blood pressure by palpation is unreliable
+	* Qualitative assessment can be made through the velocity of blood flow following an arterial puncture during arterial line insertion
+\
+* **Shock index**\
+Ratio between heart rate and SBP. Interpretation:
+	* 0.5-0.7: Normal
+	* \>1: ↑ Likelihood of macro-haemodynamic compromise
+
+:::column-margin
+$Shock \ Index = {Heart \ Rate \over Systolic \ Blood \ Pressure}$
+:::
+
+
 ### Respiratory
 
 * **Cheyne-Stokes** respiration
-	* Alternating episodes hyperpnoea followed by apnoic spells
+	* Alternating episodes hyperpnoea followed by apnoeic spells
 		* Apnoea may last up to 45s, but is usualy 5-10s
 	* Generally indicative of ***acute* cerebral** or ***chronic* cardiac** pathology
 	* Physiologic in infants and at high altitude
@@ -151,10 +182,52 @@ Re-distribution of central blood volume away from the peripheries, leading to:
 ![Centralisation](/resources/centralisation.png)
 :::
 
+* **Peripheral perfusion**\
+↓ Peripheral blood flow occurs early in most shock states, leading to ↓ capillary refill and temperature. Caveats include:
+	* Feet are typically affected earlier than hands
+	* Localised hypo-perfusion
+		* Vaso-occlusive disease
+		* Embolism
+	* Environmental temperature\
+	Central capillary refill is less affected by environmental conditions but is prolonged only in severe hypoperfusion; consequently it is much more specific although less sensitive.
+\
+* **Livedo reticularis**\
+**Lace-like mottling** of the skin occurring due to **hypoxaemia** in vessels **along** the **watershed margins** between regions supplied by different ascending arterioles. May occur due to:
+	* Vasospasm
+	* Thrombosis
+	* Hyperviscosity
+
+:::column-margin
+![Livedo reticularis](/resources/livedo.jpeg)
+:::
+
+* **Pitting oedema**\
+Pitting oedema occurs due to extravasation of fluid into the interstitium. In general:
+	* Subjective puffy fingers is the earliest sign
+	* Clinical detection requires a 2-3L ↑ in extracellular fluid volume
+	* Cardiac oedema is:
+		* Symmetrical
+		* Generalised
+		* Dependent
+			* Ankles and legs in ambulant patient
+			* Sacrum and thighs in bedridden patient
+	* Generalised oedema:
+		* Occurs with capillary leak associated with severe illness
+		* May occur at the trunk before spreading peripherally
+
+:::column-margin
+![Pitting Oedema](/resources/pitting.jpg)
+:::
+
+
+### Gastrointestinal
+
+* **Foetor hepaticus**\
+Smell of rotten eggs and garlic on the breath due to dimethyl sulphide accumulation, indicating portosystemic shunting.
+
 ---
 
 ## References
-
 
 1. Foot C, Steel L, Vidhani K, Lister B, MacPartlin M, Blackwell N. Examination Intensive Care Medicine. Elsevier Australia; 2011. (Examination series).
 1. Dünser MW, Dankl D, Petros S, Mer M. Clinical Examination Skills in the Adult Critically Ill Patient. Springer International Publishing; 2018.

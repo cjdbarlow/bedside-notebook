@@ -81,7 +81,7 @@ Thromboses:
 * Livedo
 
 :::column-margin
-{{< include /includes/livedo.qmd >}}
+![Livedo reticularis](/resources/livedo.jpeg)
 :::
 
 ### Investigations

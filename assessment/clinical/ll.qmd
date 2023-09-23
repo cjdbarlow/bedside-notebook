@@ -1,6 +1,6 @@
 # Lower Limb
 
-: Legs
+: Findings on Lower Limb Examination
 
 +---------------------------------+-------------------------------+------------------------+------------+--------------+
 | Component                       | Inspection                    | Palpation              | Percussion | Auscultation |
@@ -11,7 +11,7 @@
 +---------------------------------+-------------------------------+------------------------+------------+--------------+
 | **Cardiovascular**              | * Groin vascular access sites | * Peripheral pulses    |            |              |
 |                                 | * Peripheral oedema           |     * Femoral          |            |              |
-|                                 |                               |     * Popliteal        |            |              |
+|                                 | * **Acrocyanosis**            |     * Popliteal        |            |              |
 |                                 |                               |     * Posterior tibial |            |              |
 |                                 |                               |     * Dorsalis pedis   |            |              |
 +---------------------------------+-------------------------------+------------------------+------------+--------------+
@@ -42,6 +42,17 @@
 +---------------------------------+-------------------------------+------------------------+------------+--------------+
 | **Obstetric**                   |                               |                        |            |              |
 +---------------------------------+-------------------------------+------------------------+------------+--------------+
+
+## Features
+
+### Cardiovascular
+
+* **Acrocyanosis**\
+Blue discoloration of the extremities secondary to severe peripheral vasoconstriction or microvascular occlusion from microthrombi or DIC.
+
+:::column-margin
+![Acrocyanosis](/resources/acrocyanosis.png)
+:::
 
 ---
 

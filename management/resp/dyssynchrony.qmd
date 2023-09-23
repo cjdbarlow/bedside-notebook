@@ -2,6 +2,10 @@
 
 Ventilator dyssynchrony is an uncoordinated interaction between the patient and the ventilator during a spontaneous (or partially spontaneous, e.g. SIMV) mode of breathing, that leads to:
 
+:::column-margin
+Abdominal muscle contraction is highly sensitive for dyssynchrony.
+:::
+
 * Agitation
 * ↑ Work of breathing
 * Splinting
@@ -64,3 +68,5 @@ Occurs when a controlled breath produces involuntary patient inspiratory effort.
 ---
 
 ## References
+
+1. Dünser MW, Dankl D, Petros S, Mer M. Clinical Examination Skills in the Adult Critically Ill Patient. Springer International Publishing; 2018.

@@ -1,14 +1,20 @@
 # Surroundings
 
-The ICU environment provides several clues to diagnosis and severity. Considerations include:
+The ICU environment provides several clues to diagnosis and severity of illness. Key regions include:
 
-* Environment
+* Bedspace
 * Monitor
 * Ventilator
-* 
+* Infusions
+* Ancillary equipment
+* Drains
+	* Surgical
+	* IDC
+	* NG
+	* Faecal management system
 
 
-## Environment
+## Bedspace
 
 * Isolation room
 	* Positive pressure
@@ -32,8 +38,6 @@ Burns.
 	* Handweights
 	* Splints
 	* Cooling blanket
-
-
 
 
 ## Monitor
@@ -101,6 +105,16 @@ Or, "The patient is in AF, I note the heparin infusion and wonder if this is the
 * "Extubatable settings?"
 * Airway suction
 
+:::column-margin
+Secretion appearance is an unreliable diagnostic tool, however secretions that are:
+
+* Yellow, brown, or putrid\
+Suggests bacterial infection of the lower airways or parenchyma.
+* Foul-smelling yellow or dark-green\
+Suggest lung abscesses or bronchiectasis.
+* Colour does not accurately predict the causative organism
+:::
+
 
 ## Infusions
 
@@ -129,19 +143,110 @@ Or, "The patient is in AF, I note the heparin infusion and wonder if this is the
 * IABP
 
 
-## Bed
+## Drains
 
-* Drains
-	* Type
-	* Location
-	* Swinging/bubbling\
-	If pleural.
-	* Output
-* IDC
-	* Urine colour
+### Chest Drains
+
+* Location
+	* Pleural
+	* Mediastinal
+* Size
+* Output
+	* Blood
+	* Serous
+* Behaviour
+	* Swinging
+	* Bubbling
+
+
+### Abdominal Drains
+
+* Location
+* Size
+* Output
+	* Blood
+	* Serous
+		* Turbidity
+	* Bile
+	* Faeculent
+
+:::column-margin
+![Faeculent Abdominal Drainage](/resources/faeculent.jpg)
+:::
+
+
+### Urine
+
+:::tick
+Many abnormalities of urine colour are also visible in RRT effluent.
+:::
+
+* Quantity
+* Colour
+	* Concentrated
+	May indicate:
+		* Hypoperfusion or hypovolaemia\
+		Classically low-volume.
+		* Hyperbilirubinaemia
+		* Haemolysis
+		* Haematuria
 		* Drugs
-		* Myoglobinuria
+	* **Urobilinogen**\
+	Dark and foamy urine secondary to hyperbilirubinaemia.
+
+:::column-margin
+![Concentrated Urine](/resources/urine_conc.jpg)
+:::
+
+:::column-margin
+Small volumes of light urine are concerning for obstruction.
+:::
+
+:::column-margin
+![Urobilinogen](/resources/urobilinogen.jpg)
+:::
+
+:::column-margin
+![Urobilinogen in RRT Effluent](/resources/urobilinogen_rrt.jpg)
+:::
+
+
+### Nasogastric
+
+* Brown aspirates\
+Commonly occur with small bowel ileus or obstruction.
+* Feculent aspirates\
+Indicate lower intestinal obstruction or severe ileus.
+* Bilious aspirates\
+Exclude upper GI haemorrhage.
+* Pure nasogastric feed aspirates\
+Indicate gastroparesis.
+
+:::column-margin
+![Bilious Nasogastric Aspirates](/resources/asp_bilious.jpg)
+:::
+
+:::column-margin
+![Aspirated Nasogastric Feed](/resources/asp_feed.jpg)
+:::
+
+
+### Stool
+
 * Faecal management system
+	* Stool colour
+		* Acholic stool indicates biliary obstruction due to lack of stercobilin
+		* Haematochezia
+		* Melania\
+		Black, tarry, malodorous stool.
+			* Indicates recent (4-20 hours) upper GI, small bowel, or caecal haemorrhage
+			* Typically becomes bloodier the more distal the bleeding source
+
+
+:::column-margin
+![Acholic stool](/resources/acholic.jpg)
+:::
+
 
 ---
 
