@@ -72,7 +72,6 @@ book:
     # Assessment
     - part: "Assessment"
       chapters:
-        - assessment/airway.qmd
         - part: "Clinical Examination"
           chapters:
           - assessment/clinical/environment.qmd
@@ -83,9 +82,10 @@ book:
           - assessment/clinical/hn.qmd
           - assessment/clinical/chest.qmd
           - assessment/clinical/abdomen.qmd
-          - assessment/clinical/ll.qmd    
+          - assessment/clinical/ll.qmd
         - part: "Anaesthesia"
           chapters:
+          - assessment/anaesthetic/airway.qmd
           - assessment/anaesthetic/preanaesthetic.qmd
           - assessment/anaesthetic/paeds.qmd
           - assessment/anaesthetic/intraoperative.qmd
@@ -697,6 +697,7 @@ book:
           - disease/cvs/aaa.qmd
           # TAA
           # AAA
+          - disease/cvs/cholesterol_emboli.qmd
         - part: "Pulmonary Vascular"
           chapters:
           - disease/cvs/phtn.qmd
@@ -1084,11 +1085,15 @@ book:
         - part: "Chemistry"
           chapters:
           - investigations/blood/lft.qmd
-      - part: "Other"
+      - part: "Fluid"
         chapters:        
         - investigations/csf.qmd
+      - part: "Neurological"
+        chapters:        
         - investigations/eeg.qmd
         - investigations/ssep.qmd
+      - part: "Other"
+        chapters:        
         - investigations/ctg.qmd
         - investigations/pfts.qmd
       # Ventilator waveforms
@@ -1109,36 +1114,32 @@ book:
               # Laryngoscopy
               # VL
               # Fibreoptic
+              # Bronchoscopy
           - part: "Front-of-Neck"
             chapters:
             - procedures/airway/needle_cricothyrotomy.qmd
             - procedures/airway/scalpel_cricothyrotomy.qmd
             # Percutaneous tracheostomy
-      # - part: "Respiratory"
-      #   chapters:
-          # Bronchoscopy
-      - part: "CVS"
+      - part: "Vascular Access"
         chapters:
-          - part: "Emergent"
-            chapters:
-            - procedures/resus_thoracotomy.qmd
-            # Resternotomy
-            # Thoracotomy
-            # Caesarian
-          # - part: "Drains"
-          #   chapters:
-              # ICC
-              # Pleural
-              # Pericardial
-          - part: "Vascular"
-            chapters:
-            - procedures/cvs/cvc.qmd
-            - procedures/cvs/pac.qmd
-            - procedures/cvs/transvenous.qmd
-            # IV
-            # Arterial line
-            # IO
+        - procedures/cvs/cvc.qmd
+        - procedures/cvs/pac.qmd
+        - procedures/cvs/transvenous.qmd
+        # IV
+        # Arterial line
+        # IO
       - part: "Other"
         chapters:
         - procedures/lp.qmd
+      - part: "Resuscitative"
+        chapters:
+        - procedures/resus_thoracotomy.qmd
+        # Resternotomy
+        # Thoracotomy
+        # Caesarian
         # Blakemore
+      # - part: "Drains"
+      #   chapters:
+          # ICC
+          # Pleural
+          # Pericardial

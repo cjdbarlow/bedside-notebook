@@ -41,7 +41,7 @@ Abdominal **auscultation** should be **performed prior to palpation and percussi
 +---------------------------------+------------------------+--------------------------+-------------------+------------------------+
 | **Integumentary**               |                        |                          |                   |                        |
 +---------------------------------+------------------------+--------------------------+-------------------+------------------------+
-| **Trauma**                      |                        |                          |                   |                        |
+| **Trauma**                      | * **Seatbelt sign**    |                          |                   |                        |
 +---------------------------------+------------------------+--------------------------+-------------------+------------------------+
 | **Infective**                   |                        |                          |                   |                        |
 +---------------------------------+------------------------+--------------------------+-------------------+------------------------+
@@ -96,6 +96,16 @@ Advance the hand from the right iliac fossa towards the right costal margin. Asc
 	* Tenderness\
 	Indicates capsular tension.
 	* Pulsatility
+
+
+### Trauma
+
+* **Seatbelt sign**\
+Abdominal (and/or chest) wall bruising associated with a 3-point restraint. Indicates a high-energy mechanism and a high risk of internal injury.
+
+:::column-margin
+![Seatbelt sign](/resources/seatbelt_abdo.jpg)
+:::
 
 ---
 

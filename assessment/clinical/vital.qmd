@@ -1,0 +1,32 @@
+# Vital Signs
+
+* Respiratory rate
+	* Tachypnoea is a sensitive but non-specific marker of severity
+	* Persistently normal respiratory rate ↓ likelihood of some severe pathologies
+		* Shock
+		* PE
+* **Heart rate**
+	* Tachycardia is non-specific, but suggests ↑ sympathetic tone
+	* Absence of tachycardia significantly ↓ likelihood of hypovolaemia, heart failure, and shock\
+	Key exceptions include:
+		* Intraperitoneal haemorrhage may result in vagal stimulation, and lead to normal or ↓↓ HR
+	* **Sinus arrhythmia**\
+	Describes an ↑ HR during inspiration and ↓ HR during expiration, common in children and athletes.
+* **Blood pressure**
+	* Clinical assessment of blood pressure by palpation is unreliable
+	* Qualitative assessment can be made through the velocity of blood flow following an arterial puncture during arterial line insertion
+\
+* **Shock index**\
+Ratio between heart rate and SBP. Interpretation:
+	* 0.5-0.7: Normal
+	* \>1: ↑ Likelihood of macro-haemodynamic compromise
+
+:::column-margin
+$Shock \ Index = {Heart \ Rate \over Systolic \ Blood \ Pressure}$
+:::
+
+---
+
+## References
+
+1. Dünser MW, Dankl D, Petros S, Mer M. Clinical Examination Skills in the Adult Critically Ill Patient. Springer International Publishing; 2018.

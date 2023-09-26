@@ -31,7 +31,31 @@ Risk factors:
 * Young
 
 
-Patterns of injury:
+Mechanism:
+
+* Falls
+	* Height
+		* \>6m in adult
+		* \>3m in child
+* Motor vehicle
+	* Partial ejection
+	* Complete ejection
+	* "Bullseye" sign on windscreen
+	* Death of another passenger in the same compartment
+	* Motorcycle >30km/hr
+	* Seat belt used\
+	Significant ↓ mortality.
+	* Air bags
+		* ↓ Mortality
+		* May cause thoracic injuries
+* Pedestrian
+	* Run over
+	* Impact >30km/h
+
+
+### Patterns of Injury
+
+In general:
 
 * Chest trauma
 	* Is usually **blunt**
@@ -42,13 +66,60 @@ Patterns of injury:
 	* Mortality ~10%
 
 
-Preventative:
+: Injury Patterns by Mechanism
 
-* Seat belts
-	* Significant ↓ mortality
-* Air bags
-	* ↓ Mortality
-	* May cause thoracic injuries
++--------------------+-----------------------------+--------------------------------+
+| Mechanism          | Details                     | Injuries                       |
++====================+=============================+================================+
+| Car                | * Windshield damage         | * Head                         |
+|                    |                             |     * Scalp                    |
+|                    |                             | * Cervical spine               |
+|                    +-----------------------------+--------------------------------+
+|                    | * Steering wheel damaged    | * Chest                        |
+|                    | * No steering wheel airbag  | * Cardiac                      |
+|                    +-----------------------------+--------------------------------+
+|                    | * Dashboard damage          | * Head                         |
+|                    |                             | * Cervical spine               |
+|                    |                             | * Pelvis                       |
+|                    |                             | * Lower limb                   |
+|                    +-----------------------------+--------------------------------+
+|                    | * Sudden deceleration       | * Aortic dissection            |
+|                    |     * Head-on               | * Mesenteric tear              |
+|                    |     * Highs speed collision |                                |
+|                    |     * Unrestrained occupant |                                |
+|                    +-----------------------------+--------------------------------+
+|                    | * Lateral impact            | * Pelvis                       |
+|                    |                             | * Lower limb                   |
+|                    +-----------------------------+--------------------------------+
+|                    | * Rear impact               | * Cervical spine               |
+|                    +-----------------------------+--------------------------------+
+|                    | * Ejection                  | * Head                         |
+|                    |                             | * Cervical spine               |
+|                    +-----------------------------+--------------------------------+
+|                    | * Rollover                  | * Head                         |
+|                    |                             | * Cervical spine               |
++--------------------+-----------------------------+--------------------------------+
+| Motorcycle         | * Helmet                    | * Cervical spine\              |
+|                    |                             | Head relatively protected.     |
++--------------------+-----------------------------+--------------------------------+
+| Pedestrian vs. car | * Adult                     | * Lower limb\                  |
+|                    |                             | Bumper impact.                 |
+|                    |                             | * Head\                        |
+|                    |                             | Windshield impact.             |
+|                    +-----------------------------+--------------------------------+
+|                    | * Children                  | * Head\                        |
+|                    |                             | Run under.                     |
+|                    |                             | * Torso\                       |
+|                    |                             | Bonnet impact.                 |
+|                    |                             | * Lower limb\                  |
+|                    |                             | Bumper impact.                 |
++--------------------+-----------------------------+--------------------------------+
+| Falls              | * Land on feet              | * Lower extremity              |
+|                    |                             |     * Bilateral calcaneal      |
+|                    |                             | * Pelvic fracture              |
+|                    |                             | * Spinal compression fractures |
++--------------------+-----------------------------+--------------------------------+
+
 
 ## Chest Trauma
 

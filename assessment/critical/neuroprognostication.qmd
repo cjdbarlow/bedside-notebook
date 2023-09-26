@@ -50,10 +50,10 @@ Clinical examination is interfered with by hypothermia, sedation, analgesics, an
 Relevant features of the neurological exam include:
 
 * Cranial nerve findings
-	* Pupillary reflexes
-	* Corneal reflexes
-* Motor score
-* Myoclonus
+	* **Pupillary** reflexes
+	* **Corneal** reflexes
+* **Motor score**
+* **Myoclonus**
 	* *Status* myoclonus involves synchronised, repetitive, symmetric, persistent (>30 minutes) jerking with clinical coma
 		* EEG may show status or general malignant pattern
 		* Specific for poor neurological outcome

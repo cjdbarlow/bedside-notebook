@@ -127,12 +127,22 @@ Due to:
 * **Burns**\
 May be extensive and include:
 	* External electrical burns from arcs
-	* Internal burns due to tissue heating
+	* *Internal* burns due to tissue heating
 	* Thermal burns from heated jewelery or flammable clothes
 	* Flash burns
 
 :::column-margin
 Defibrillators rely on asystole occurring at sustained currents >5A.
+:::
+
+:::column-margin
+![Electrical Burn](/resources/burn_electrical.jpg)
+:::
+
+:::column-margin
+![Lichtenberg Figure](/resources/lichtenberg.jpg)
+
+Transient phenomenon, pathognomic of a high-voltage electrical injury (classically lightning strike) that occurs due to capillary rupture and T-cell activation.
 :::
 
 ## Diagnostic Approach and DDx
@@ -212,3 +222,5 @@ Investigations are tailed towards detecting consequences of injury.
 ## References
 
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. Lindford A, Juteau S, Jaks V, Klaas M, Lagus H, Vuola J, et al. [Case Report: Unravelling the Mysterious Lichtenberg Figure Skin Response in a Patient With a High-Voltage Electrical Injury](https://www.frontiersin.org/articles/10.3389/fmed.2021.663807). Frontiers in Medicine [Internet]. 2021 [cited 2023 Sep 27];8.
+

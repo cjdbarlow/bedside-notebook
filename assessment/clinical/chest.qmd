@@ -10,7 +10,7 @@
 |                                 |     * Thoracotomy         |                              |             |                            |
 |                                 |     * Sternotomy          |                              |             |                            |
 +---------------------------------+---------------------------+------------------------------+-------------+----------------------------+
-| **Respiratory**                 | * Chest form              | * Chest expansion            | * Resonance | * Breath sounds            |
+| **Respiratory**                 | * **Chest form**          | * Chest expansion            | * Resonance | * Breath sounds            |
 |                                 |     * Hyper-expansion     | * **Subcutaneous emphysema** |             |     * Normal breath sounds |
 |                                 |     * Pectus excavatum    |                              |             |     * Crepitations         |
 |                                 |     * Pectus carinatum    |                              |             |     * Rales                |
@@ -19,7 +19,7 @@
 |                                 |                           |                              |             |                            |
 +---------------------------------+---------------------------+------------------------------+-------------+----------------------------+
 | **Cardiovascular**              | * Sternotomy              | * Heave/thrills              |             | * **Heart sounds**         |
-|                                 | * CPR bruising            | * **Apex beat**              |             |                            |
+|                                 | * CPR bruising            | * **Apex beat**              |             | * **Cardiac wheeze**       |
 |                                 | * Epicardial pacing wires | * Sternotomy stability       |             |                            |
 |                                 |                           | * PPM                        |             |                            |
 +---------------------------------+---------------------------+------------------------------+-------------+----------------------------+
@@ -36,7 +36,7 @@
 +---------------------------------+---------------------------+------------------------------+-------------+----------------------------+
 | **Integumentary**               |                           |                              |             |                            |
 +---------------------------------+---------------------------+------------------------------+-------------+----------------------------+
-| **Trauma**                      |                           |                              |             |                            |
+| **Trauma**                      | * **Seatbelt sign**       |                              |             |                            |
 +---------------------------------+---------------------------+------------------------------+-------------+----------------------------+
 | **Infective**                   |                           |                              |             |                            |
 +---------------------------------+---------------------------+------------------------------+-------------+----------------------------+
@@ -55,6 +55,14 @@
 
 ### Respiratory
 
+* Chest form
+	* Barrel chest\
+	Suggests hyperexpansion from COPD.
+	* Scoliosis/kyphoscoliosis\
+	Restrictive lung disease due to ↓ chest volume and ↓ chest wall compliance.
+	* Funnel chest\
+	Restrictive lung disease.
+\
 * **Subcutaneous emphysema**\
 Subcutaneous air, palpable in large volumes. Causes include:
 	* Pneumothoraces
@@ -106,7 +114,7 @@ Bronchial breathing may be physiological or pathological, depending on the locat
 |                     |             |                     | * Clicking          |                                                                                                                                                                          |
 |                     |             |                     | * Crackling         | * COPD                                                                                                                                                                   |
 |                     |             |                     |                     | * Bronchopneumonia                                                                                                                                                       |
-|                     |             |                     |                     | * Bronchitis                                                                                                                                                                         |
+|                     |             |                     |                     | * Bronchitis                                                                                                                                                             |
 +---------------------+-------------+---------------------+---------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |                     |             | * Pan-inspiratory   | * Fine crepitations | * Interstitial lung disease                                                                                                                                              |
 |                     |             | * Late inspiration  |                     |                                                                                                                                                                          |
@@ -195,7 +203,7 @@ Palpation of the apical impulse, generated by the heart pushing into the chest w
 Murmurs are additional heart sounds that occur due to pathologically turbulent blood flow.
 :::
 
-: Cardiac Murmur
+: Interpretation of Cardiac Murmurs
 
 +--------------------------+--------------------------+
 | Timing                   | Lesions                  |
@@ -225,6 +233,9 @@ Murmurs are additional heart sounds that occur due to pathologically turbulent b
 |                          | * VSD                    |
 +--------------------------+--------------------------+
 
+* **Cardiac wheeze**\
+Bibasal expiratory wheeze secondary to ↑ extravascular lung water in *dependent* regions, leading to small airway compression.
+
 ### Gastrointestinal
 
 * **Gynaecomastia**\
@@ -232,6 +243,16 @@ Murmurs are additional heart sounds that occur due to pathologically turbulent b
 
 :::column-margin
 ![Gynaecomastia](/resources/gynaecomastia.jpg)
+:::
+
+
+### Trauma
+
+* **Seatbelt sign**\
+Chest (and/or abdominal) wall bruising associated with a 3-point restraint. Indicates a high-energy mechanism and a high risk of internal injury.
+
+:::column-margin
+![Seatbelt sign](/resources/seatbelt.jpg)
 :::
 
 ---

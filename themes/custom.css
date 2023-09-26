@@ -72,3 +72,9 @@ div.column-margin > div > table > caption,
 div.column-margin > div > div > figure > figcaption {
     font-size: 1rem;
 }
+
+/*Reduce the padding around the <hr> is the submenus */
+li > ul > li > span > span > hr {
+    margin-bottom: 1em;
+    margin-top: 1em;
+}

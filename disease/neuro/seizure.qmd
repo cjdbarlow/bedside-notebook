@@ -187,6 +187,14 @@ Determination of pseudo-seizures can be difficult and is best confirmed with EEG
 	* Absence of pupillary dilatation
 	* Normal tendon reflexes post-convulsion
 	* Paucity of metabolic consequences
+* Syncope
+
+:::column-margin
+Jerking and tonic posturing is common in syncope. The **10/20 rule** states:
+
+* <10 jerks is likely secondary to syncope
+* >20 jerks is a convulsive seizure
+:::
 
 ## Investigations
 
@@ -328,6 +336,7 @@ Prevent the metabolic cost of seizures, however renders it unclear if fitting ha
 		Late, due to catecholamine tachyphylaxis.
 		* Lactic acidosis
 
+
 ## Prognosis
 
 Poor prognostic signs include:
@@ -361,3 +370,4 @@ Good prognostic signs include:
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
 1. Neurocritical Care Society Status Epilepticus Guideline Writing Committee et al. [Guidelines for the Evaluation and Management of Status Epilepticus](https://doi.org/10.1007/s12028-012-9695-z). Neurocritical Care 17, no. 1 (August 2012): 3–23.
 1. Kapur J, Elm J, Chamberlain JM, et al. [Randomized Trial of Three Anticonvulsant Medications for Status Epilepticus](https://www.nejm.org/doi/full/10.1056/NEJMoa1905795). New England Journal of Medicine. 2019;381(22):2103-2113. doi:10.1056/NEJMoa1905795
+1. Shmuely S, Bauer PR, van Zwet EW, van Dijk JG, Thijs RD. [Differentiating motor phenomena in tilt-induced syncope and convulsive seizures](https://n.neurology.org/content/90/15/e1339.long). Neurology. 2018 Apr 10;90(15):e1339–46. 

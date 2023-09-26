@@ -9,104 +9,93 @@ Folding blankets down and in to the midline allows rapid and near-complete expos
 
 : Findings on General Inspection
 
-+---------------------------------+----------------------------------------+
-| Component                       | Inspection                             |
-+=================================+========================================+
-| **General**                     | * Position                             |
-|                                 | * Obesity                              |
-|                                 | * Cachexia                             |
-|                                 | * Wounds                               |
-|                                 | * Drains                               |
-|                                 | * Dressings                            |
-|                                 | * Burns                                |
-|                                 | * Lines                                |
-|                                 |     * Access                           |
-|                                 | * Position\                            |
-|                                 | Signs of recovery include:             |
-|                                 |     * Sleeping in the lateral position |
-|                                 |     * Lying with crossed legs          |
-+---------------------------------+----------------------------------------+
-| **Respiratory**                 | * Respiratory pattern                  |
-|                                 |     * **Cheyne-Stokes** respiration    |
-|                                 |     * **Biot** breathing               |
-|                                 |     * **Apneustic** respiration        |
-|                                 |     * **Paradoxical** breathing        |
-|                                 | * **Trepopnoea**                       |
-|                                 | * Work of breathing                    |
-|                                 | * Steroid purpura                      |
-|                                 | * Cushingoid appearance                |
-|                                 | * Tracheal aspirates                   |
-+---------------------------------+----------------------------------------+
-| **Cardiovascular**              | * **Orthopnoea**                       |
-|                                 | * **Platypnoea**                       |
-|                                 | * Xanthoma                             |
-|                                 | * Marfanoid habitus                    |
-|                                 | * **Centralisation**                   |
-|                                 | * **Peripheral perfusion**             |
-|                                 | * **Livedo reticularis**               |
-|                                 | * **Oedema**                           |
-+---------------------------------+----------------------------------------+
-| **Neurological**                |                                        |
-+---------------------------------+----------------------------------------+
-| **Endocrine** and **Metabolic** |                                        |
-+---------------------------------+----------------------------------------+
-| **Renal**                       |                                        |
-+---------------------------------+----------------------------------------+
-| **Gastrointestinal**            | * Jaundice                             |
-|                                 | * Foetor hepaticus                     |
-+---------------------------------+----------------------------------------+
-| **Haematological**              |                                        |
-+---------------------------------+----------------------------------------+
-| **Integumentary**               | * Muscle bulk                          |
-|                                 | * Wasting                              |
-|                                 | * Malnutrition                         |
-|                                 | * Cachexia                             |
-+---------------------------------+----------------------------------------+
-| **Trauma**                      |                                        |
-+---------------------------------+----------------------------------------+
-| **Infective**                   |                                        |
-+---------------------------------+----------------------------------------+
-| **Malignant**                   |                                        |
-+---------------------------------+----------------------------------------+
-| **Toxic**                       |                                        |
-+---------------------------------+----------------------------------------+
-| **Immune**                      | * Vasculitic rashes                    |
-+---------------------------------+----------------------------------------+
-| **Congenital**                  |                                        |
-+---------------------------------+----------------------------------------+
-| **Obstetric**                   | * Oedema                               |
-|                                 | * Bruising/ecchymoses                  |
-+---------------------------------+----------------------------------------+
++---------------------------------+--------------------------------------------------------------------------+
+| Component                       | Inspection                                                               |
++=================================+==========================================================================+
+| **General**                     | * Position                                                               |
+|                                 | * Obesity                                                                |
+|                                 | * Cachexia                                                               |
+|                                 | * Wounds                                                                 |
+|                                 | * Drains                                                                 |
+|                                 | * Dressings                                                              |
+|                                 | * Burns                                                                  |
+|                                 | * Lines                                                                  |
+|                                 |     * Access                                                             |
+|                                 | * Position\                                                              |
+|                                 | Signs of recovery include:                                               |
+|                                 |     * Sleeping in the lateral position                                   |
+|                                 |     * Lying with crossed legs                                            |
++---------------------------------+--------------------------------------------------------------------------+
+| **Respiratory**                 | * Respiratory pattern                                                    |
+|                                 |     * **Cheyne-Stokes** respiration                                      |
+|                                 |     * **Biot** breathing                                                 |
+|                                 |     * **Apneustic** respiration                                          |
+|                                 |     * **Paradoxical** breathing                                          |
+|                                 | * Positional dyspnoea                                                    |
+|                                 | * **Trepopnoea**                                                         |
+|                                 | * Work of breathing                                                      |
+|                                 | * Steroid purpura                                                        |
+|                                 | * Cushingoid appearance                                                  |
+|                                 | * Tracheal aspirates                                                     |
++---------------------------------+--------------------------------------------------------------------------+
+| **Cardiovascular**              | * Positional dyspnoea                                                    |
+|                                 |     * **Orthopnoea**                                                     |
+|                                 |     * **Platypnoea**                                                     |
+|                                 | * Xanthoma                                                               |
+|                                 | * Marfanoid habitus                                                      |
+|                                 | * **Centralisation**                                                     |
+|                                 | * **Peripheral perfusion**                                               |
+|                                 | * **Livedo reticularis**                                                 |
+|                                 | * **Oedema**                                                             |
++---------------------------------+--------------------------------------------------------------------------+
+| **Neurological**                | * Speech patterns                                                        |
+|                                 |     * Slurred                                                            |
+|                                 |     * Hoarse                                                             |
+|                                 |     * Dysarthria\                                                        |
+|                                 |     Poor enunciation with intact fluency, comprehension, and repetition. |
+|                                 |     * Aphasias                                                           |
++---------------------------------+--------------------------------------------------------------------------+
+| **Endocrine** and **Metabolic** |                                                                          |
++---------------------------------+--------------------------------------------------------------------------+
+| **Renal** and Fluid             | * Volume state                                                           |
++---------------------------------+--------------------------------------------------------------------------+
+| **Gastrointestinal**            | * Jaundice                                                               |
+|                                 | * Foetor hepaticus                                                       |
++---------------------------------+--------------------------------------------------------------------------+
+| **Haematological**              |                                                                          |
++---------------------------------+--------------------------------------------------------------------------+
+| **Integumentary**               | * Muscle bulk                                                            |
+|                                 | * Wasting                                                                |
+|                                 | * Malnutrition                                                           |
+|                                 | * Cachexia                                                               |
+|                                 | * Purpura                                                                |
+|                                 | * Rashes                                                                 |
+|                                 |     * Petechiae                                                          |
+|                                 |     * Purpura                                                            |
+|                                 |     * Erythema gangrenosum                                               |
+|                                 |     * Drug exanthem                                                      |
+|                                 |     * TENS                                                               |
+|                                 |     * Erythema multiforme                                                |
+|                                 |     * Candidiasis                                                        |
++---------------------------------+--------------------------------------------------------------------------+
+| **Trauma**                      |                                                                          |
++---------------------------------+--------------------------------------------------------------------------+
+| **Infective**                   |                                                                          |
++---------------------------------+--------------------------------------------------------------------------+
+| **Malignant**                   |                                                                          |
++---------------------------------+--------------------------------------------------------------------------+
+| **Toxic**                       |                                                                          |
++---------------------------------+--------------------------------------------------------------------------+
+| **Immune**                      | * Vasculitic rashes                                                      |
++---------------------------------+--------------------------------------------------------------------------+
+| **Congenital**                  |                                                                          |
++---------------------------------+--------------------------------------------------------------------------+
+| **Obstetric**                   | * Oedema                                                                 |
+|                                 | * Bruising/ecchymoses                                                    |
++---------------------------------+--------------------------------------------------------------------------+
+
 
 ## Features
-
-### Vital Signs
-
-* Respiratory rate
-	* Tachypnoea is a sensitive but non-specific marker of severity
-	* Persistently normal respiratory rate ↓ likelihood of some severe pathologies
-		* Shock
-		* PE
-* **Heart rate**
-	* Tachycardia is non-specific, but suggests ↑ sympathetic tone
-	* Absence of tachycardia significantly ↓ likelihood of hypovolaemia, heart failure, and shock\
-	Key exceptions include:
-		* Intraperitoneal haemorrhage may result in vagal stimulation, and lead to normal or ↓↓ HR
-	* **Sinus arrhythmia**\
-	Describes an ↑ HR during inspiration and ↓ HR during expiration, common in children and athletes.
-* **Blood pressure**
-	* Clinical assessment of blood pressure by palpation is unreliable
-	* Qualitative assessment can be made through the velocity of blood flow following an arterial puncture during arterial line insertion
-\
-* **Shock index**\
-Ratio between heart rate and SBP. Interpretation:
-	* 0.5-0.7: Normal
-	* \>1: ↑ Likelihood of macro-haemodynamic compromise
-
-:::column-margin
-$Shock \ Index = {Heart \ Rate \over Systolic \ Blood \ Pressure}$
-:::
-
 
 ### Respiratory
 
@@ -154,8 +143,6 @@ Obstructive and restrictive breathing can occur in the same patient.
 
 * **Trepopnoea**\
 Dyspnoea occurring in one lateral position but not the other, signifying worse disease in the non-dependent lung which occurs due to poorer V/Q matching when the diseased lung is in the dependent position.
-\
-
 
 ### Cardiovascular
 
@@ -219,11 +206,118 @@ Pitting oedema occurs due to extravasation of fluid into the interstitium. In ge
 ![Pitting Oedema](/resources/pitting.jpg)
 :::
 
+### Neurological
+
+* **Hoarse voice**
+	* Laryngeal trauma\
+	Intubation.
+	* Localised neck swelling
+		* Carotid surgery
+		* ENT surgery
+	* Laryngeal nerve injury
+		* Brainstem pathology
+			* Stroke
+		* Thyroid surgery
+		* Aortic aneurysm
+		* Aortic dissection
+\
+* **Slurred speech**
+	* Cranial nerve injury
+		* Stroke
+	* Cerebellar injury                                 
+
+: An Overview of Aphasias
+
++-------------------------------+---------+---------------+------------+
+| Type                          | Fluency | Comprehension | Repetition |
++===============================+=========+===============+============+
+| Broca's aphasia               | -       | Yes           | Yes        |
++-------------------------------+---------+---------------+------------+
+| Wernicke's aphasia\           | Yes     | No            | Difficult  |
+| Deafness                      |         |               |            |
++-------------------------------+---------+---------------+------------+
+| Conduction aphasia            | Yes     | Yes           | No         |
++-------------------------------+---------+---------------+------------+
+| Transcortical motor aphasia   | No      | Yes           | Yes        |
++-------------------------------+---------+---------------+------------+
+| Transcortical sensory aphasia | Yes     | No            | Yes        |
++-------------------------------+---------+---------------+------------+
+
+
+### Renal
+
+* **Volume state** assessment\
+Challenging, with very few accurate determinants.
+	* Daily weighing is the most useful method to determine fluid loss and gain
+	* Specific features of hypovolaemia:
+		* Dry gingivolabial fold
+		* Dry axillae
+		* Skin turgor\
+		Non-specific in geriatric patients.
+
+:::column-margin
+Dehydration refers to a reduction in total body water, and should be distinguished from hypovolaemia.
+:::
+
+:::column-margin
+![Gingivolabial Fold](/resources/gingivolabial.jpg)
+:::
 
 ### Gastrointestinal
 
 * **Foetor hepaticus**\
 Smell of rotten eggs and garlic on the breath due to dimethyl sulphide accumulation, indicating portosystemic shunting.
+
+
+### Integumentary
+
+* Rashes
+	* **Petechiae**\
+	Small (<2mm), non-blanching, red lesions that occur in dependent areas due to extravasation of erythrocytes through capillary venules.
+	* **Purpura**\
+	Larger non-blanching lesion due to coalescence of petechiae.
+    * **Erythema gangrenosum**\
+    Rare skin lesion that begins as a raised red-purple rash that progresses to deep ulceration with central necrosis, associated with:
+    	* Rheumatological and immune disease
+    		* Inflammatory bowel disease
+    		* Rheumatoid arthritis
+    	* Haematological malignancy
+    	* *P. aeruginosa* infection
+    * **Drug exanthem**\
+    Maculopapulous, confluating rash. May be with or without urticaria.
+    * **Toxic epidermal necrolysis**\
+    Diffuse large bullae and erosions on skin and mucous membranes.
+    * **Erythema multiforme**\
+    Immune-mediated rash characterised by 'target' lesions, precipitated by:
+    	* HSV
+    	* Medications
+    	* Vaccinations
+    * **Candidiasis**
+
+:::column-margin
+![Petechiae](/resources/petechiae.jpg)
+:::
+
+:::column-margin
+![Erythema Gangrenosum](/resources/erythema_gangrenosum.jpg)
+:::
+
+:::column-margin
+![Drug exanthem](/resources/exanthem.jpg)
+![Drug exanthem](/resources/exanthem2.jpg)
+:::
+
+:::column-margin
+![TENS](/resources/tens.jpg)
+:::
+
+:::column-margin
+![Erythema Multiforme](/resources/multiforme.jpg)
+:::
+
+:::column-margin
+![Candidiasis](/resources/candidiasis.jpg)
+:::
 
 ---
 

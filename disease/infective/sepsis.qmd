@@ -112,43 +112,54 @@ Organisms most commonly associated with sepsis include:
 
 : Source of Infection
 
-+------------------------------------------------------------------------------------+------------------+-------------------------------------+----------------------------+
-| Organ System                                                                       | Common           | Uncommon                            | ICU-Associated             |
-+====================================================================================+==================+=====================================+============================+
-| **Respiratory**                                                                    | * Pneumonia      |                                     | * VAP                      |
-|                                                                                    | * *Dental*       |                                     | * HAP                      |
-|                                                                                    | * *Sinusitis*    |                                     | * Sinusitis                |
-+------------------------------------------------------------------------------------+------------------+-------------------------------------+----------------------------+
-| **Cardiovascular**                                                                 | * Bloodstream    | * Endocarditis                      | * CLABSI                   |
-|                                                                                    | * Devices        |     * Prosthetic valves             |                            |
-|                                                                                    |                  |                                     |                            |
-|                                                                                    |                  |                                     |                            |
-+------------------------------------------------------------------------------------+------------------+-------------------------------------+----------------------------+
-| **Neurological**                                                                   |                  | * Meningitis                        | * EVD-associated           |
-|                                                                                    |                  | * *Discitis*                        |    * Meningitis            |
-|                                                                                    |                  | * *Epidural abscess*                |    * Ventriculitis         |
-|                                                                                    |                  | * *V-P shunt*                       |                            |
-+------------------------------------------------------------------------------------+------------------+-------------------------------------+----------------------------+
-| **Genitourinary**                                                                  | * UTI            | * Pyelonephritis                    | * Acalculous cholecystitis |
-|                                                                                    | * CAUTI          | * Endometritis                      |                            |
-|                                                                                    | * PID            | * *Prostatitis*                     |                            |
-+------------------------------------------------------------------------------------+------------------+-------------------------------------+----------------------------+
-| **Gastrointestinal**                                                               | * Cholecystitis  | * Spontaneous Bacterial Peritonitis | * *C. difficile*           |
-|                                                                                    | * Cholangitis    | * Polymicrobial peritonitis         |                            |
-|                                                                                    | * Pancreatitis   | * Infective colitis                 |                            |
-|                                                                                    | * Diverticulitis |     * *C. difficile*                |                            |
-+------------------------------------------------------------------------------------+------------------+-------------------------------------+----------------------------+
-| **Integumentary**                                                                  | * Cellulitis     | * Septic arthritis                  | * Surgical site infections |
-|                                                                                    |                  | * Osteomyelitis                     | * Pressure area infections |
-|                                                                                    |                  | * Prosthetic joints                 |                            |
-|                                                                                    |                  | * *Psoas abscess*                   |                            |
-|                                                                                    |                  | * Necrotising fasciitis             |                            |
-+------------------------------------------------------------------------------------+------------------+-------------------------------------+----------------------------+
-| **Notes**:                                                                                                                                                               |
-|                                                                                                                                                                          |
-| * Classified by relative incidence in each category, rather than overall incidence                                                                                       |
-| * Sources of potentially *occult* infection are *italicised*                                                                                                             |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++----------------------+-----------------------+-------------------------------------+----------------------------+
+| Organ System         | Common                | Uncommon                            | ICU-Associated             |
++======================+=======================+=====================================+============================+
+| **Systemic**         | * Viral               | * Malaria                           |                            |
+|                      | * Primary bloodstream | * Tuberculosis                      |                            |
++----------------------+-----------------------+-------------------------------------+----------------------------+
+| **Respiratory**      | * Pneumonia           | * Epiglottitis                      | * VAP                      |
+|                      | * *Dental*            | * Oropharyngeal abscess             | * HAP                      |
+|                      | * *Sinusitis*         | * Pleuritis                         | * Sinusitis                |
+|                      | * *Otitis*            |                                     |                            |
+|                      | * *Mastoiditis*       |                                     |                            |
++----------------------+-----------------------+-------------------------------------+----------------------------+
+| **Cardiovascular**   | * Devices             | * Endocarditis                      | * CLABSI                   |
+|                      |     * PPM             |     * Prosthetic valves             |                            |
+|                      |                       | * Pericarditis                      |                            |
+|                      |                       |                                     |                            |
++----------------------+-----------------------+-------------------------------------+----------------------------+
+| **Neurological**     |                       | * Meningitis                        | * EVD-associated           |
+|                      |                       | * Encephalitis                      |    * Ventriculitis         |
+|                      |                       | * *Discitis*                        |    * Meningitis            |
+|                      |                       | * *Epidural abscess*                |                            |
+|                      |                       | * *V-P shunt*                       |                            |
++----------------------+-----------------------+-------------------------------------+----------------------------+
+| **Genitourinary**    | * UTI                 | * Pyelonephritis                    | * Acalculous cholecystitis |
+|                      | * CAUTI               | * Endometritis                      |                            |
+|                      | * PID                 | * *Prostatitis*                     |                            |
+|                      |                       | * Tampon retention\                 |                            |
+|                      |                       | Streptococcal toxic shock.          |                            |
++----------------------+-----------------------+-------------------------------------+----------------------------+
+| **Gastrointestinal** | * Cholecystitis       | * Spontaneous bacterial peritonitis | * *C. difficile*           |
+|                      | * Cholangitis         | * Polymicrobial peritonitis         |                            |
+|                      | * Pancreatitis        | * Infective colitis                 |                            |
+|                      | * Diverticulitis      |     * *C. difficile*                |                            |
+|                      | * Appendicitis        | * Liver abscess                     |                            |
+|                      |                       | * Splenic abscess                   |                            |
++----------------------+-----------------------+-------------------------------------+----------------------------+
+| **Integumentary**    | * Cellulitis          | * Septic arthritis                  | * Surgical site infections |
+|                      |                       | * Osteomyelitis                     | * Pressure area infections |
+|                      |                       | * Prosthetic joints                 |                            |
+|                      |                       | * *Psoas abscess*                   |                            |
+|                      |                       | * Necrotising fasciitis             |                            |
+|                      |                       | * Muscular abscess                  |                            |
++----------------------+-----------------------+-------------------------------------+----------------------------+
+| **Notes**:                                                                                                      |
+|                                                                                                                 |
+| * Classified by relative incidence in each category, rather than overall incidence                              |
+| * Sources of potentially *occult* infection are *italicised*                                                    |
++-----------------------------------------------------------------------------------------------------------------+
 
 
 
@@ -168,7 +179,177 @@ Heterogenous and non-specific features:
 			* Malnourished
 
 
-## Investigations
+## Assessment
+
+### History
+
+: Epidemiological Risk Factors
+
++------------------+---------------------------+------------------------------------+
+| Factor           | Details                   | Causative Organisms                |
++==================+===========================+====================================+
+| Healthcare       | Recent hospital admission | * Wound infection                  |
+|                  |                           | * Hospital-acquired                |
+|                  |                           | * MRO                              |
++------------------+---------------------------+------------------------------------+
+|                  | Antibiotic                | * MRO                              |
+|                  |                           | * Fungal infection                 |
+|                  |                           | * Viral infection                  |
+|                  |                           | * *C. difficile*                   |
++------------------+---------------------------+------------------------------------+
+|                  | Lines and devices         | * Line infection                   |
+|                  |                           | * Coagulase-negative staphylococci |
++------------------+---------------------------+------------------------------------+
+|                  | Blood Transfusion         | * CMV                              |
+|                  |                           | * West Nile virus                  |
+|                  |                           | * Parvovirus B19                   |
+|                  |                           | * Malaria                          |
+|                  |                           | * HTLV                             |
+|                  |                           | * Prion disease                    |
++------------------+---------------------------+------------------------------------+
+|                  | Leech use                 | * *Aeromonas hydrophlia*           |
++------------------+---------------------------+------------------------------------+
+| Travel history   | Tropical                  | * Malaria                          |
+|                  |                           | * Dengue                           |
+|                  |                           | * Meiliodosis                      |
+|                  |                           | * Strongyloidosis                  |
++------------------+---------------------------+------------------------------------+
+|                  | LMIC                      | * Tuberculosis                     |
+|                  |                           | * Zoonoses                         |
+|                  |                           | * Salmonellosis                    |
+|                  |                           | * Hepatitis                        |
++------------------+---------------------------+------------------------------------+
+|                  | Hospitalised              | * MRO                              |
++------------------+---------------------------+------------------------------------+
+| Lifestyle        | Alcohol                   | * Opportunistic                    |
+|                  |                           | * Pneumonia                        |
++------------------+---------------------------+------------------------------------+
+|                  | IVDU                      | * Primary bacteraemia              |
+|                  |                           | * Endocarditis                     |
+|                  |                           | * Skin/soft tissue                 |
+|                  |                           | * Hepatitis                        |
+|                  |                           | * Tetanus                          |
+|                  |                           | * Botulism                         |
++------------------+---------------------------+------------------------------------+
+| Domestic         | Infectious contact        | * Similar infection                |
++------------------+---------------------------+------------------------------------+
+|                  | Spa                       | * Atypical pneumonia               |
+|                  |                           |     * *Legionella* spp.            |
+|                  |                           |     * *Mycobacterium avium*        |
+|                  |                           | * Pseudomonas                      |
+|                  |                           | * Fungal                           |
++------------------+---------------------------+------------------------------------+
+|                  | Air conditioning          | * Atypical pneumonia               |
+|                  |                           | * Pseudomonas                      |
+|                  |                           | * Fungus                           |
++------------------+---------------------------+------------------------------------+
+|                  | Institutionalised:        | * *Pneumococci*                    |
+|                  |                           | * *Meningococci*                   |
+|                  | * School                  | * Influenzae                       |
+|                  |     * Boarding            | * Tuberculosis                     |
+|                  | * Barracks                |                                    |
+|                  | * Prison                  |                                    |
+|                  | * Nursing home            |                                    |
++------------------+---------------------------+------------------------------------+
+| Animals          | Domestic companions:      | * Toxoplasmosis                    |
+|                  |                           | * Bartonellosis                    |
+|                  | * Cats                    | * *Pasteurella*                    |
+|                  | * Dogs                    | * Tularaemia                       |
+|                  |                           | * Tuberculosis                     |
+|                  |                           | * Capnocytophagus                  |
++------------------+---------------------------+------------------------------------+
+|                  | Birds                     | * *Chlamydia*                      |
+|                  |                           | * Avian influenzae                 |
+|                  |                           | * West Nile virus                  |
+|                  |                           | * Toxoplasmosis                    |
+|                  |                           | * Salmonellosis                    |
+|                  |                           | * *Campylobacter*                  |
++------------------+---------------------------+------------------------------------+
+|                  | Rodents                   | * Hantavirus                       |
+|                  |                           | * Leptospirosis                    |
+|                  |                           | * Listeriosis                      |
+|                  |                           | * Rabies                           |
+|                  |                           | * Salmonellosis                    |
+|                  |                           | * Tularaemia                       |
+|                  |                           | * Borreliosis                      |
++------------------+---------------------------+------------------------------------+
+|                  | Farm animals:             | * Q-fever                          |
+|                  |                           | * Brucellosis                      |
+|                  | * Sheep                   | * Chlamydia                        |
+|                  | * Cattle                  | * *Mycobacterium bovis*            |
+|                  | * Pigs                    | * Toxoplasmosis                    |
+|                  | * Goats                   | * E. coli O157:H7                  |
+|                  |                           | * Tularaemia                       |
+|                  |                           | * Erysipelothrix                   |
+|                  |                           | * *Streptococcus suis*             |
++------------------+---------------------------+------------------------------------+
+|                  | Horses                    | * Brucellosis                      |
+|                  |                           | * Leptospirosis                    |
+|                  |                           | * Salmonellosis                    |
+|                  |                           | * Anthrax                          |
+|                  |                           | * Rabies                           |
++------------------+---------------------------+------------------------------------+
+|                  | Ticks                     | * *Rickettsia* spp.                |
+|                  |                           | * Borreliosis                      |
++------------------+---------------------------+------------------------------------+
+|                  | Bats                      | * Lyssavirus                       |
+|                  |                           | * Rabies                           |
+|                  |                           | * Salmonellosis                    |
++------------------+---------------------------+------------------------------------+
+| Occupational     | Healthcare                | * MRO                              |
+|                  |                           | * Exposure-prone procedures        |
+|                  |                           |     * HIV                          |
+|                  |                           |     * Hepatitis                    |
+|                  |                           | * Tuberculosis                     |
++------------------+---------------------------+------------------------------------+
+|                  | Soil contact              | * Aeromonas hydrophilia            |
+|                  |                           | * Leptospirosis                    |
+|                  |                           | * Histoplasmosis                   |
+|                  |                           | * Tuberculosis                     |
+|                  |                           | * Tetanus                          |
++------------------+---------------------------+------------------------------------+
+|                  | Treated water             | * Legionella                       |
+|                  |                           | * Pseudomonas                      |
++------------------+---------------------------+------------------------------------+
+| Immunocompromise | Vaccination               | * Diptheria                        |
+|                  |                           | * Tetanus                          |
+|                  |                           | * COVID                            |
+|                  |                           | * Influenza                        |
+|                  |                           | * *H. influenzae*                  |
+|                  |                           | * Pneumococcus                     |
+|                  |                           | * *Meningococci*                   |
++------------------+---------------------------+------------------------------------+
+|                  | Pregnant                  | * Group B *Streptococci*           |
+|                  |                           | * Listeria                         |
++------------------+---------------------------+------------------------------------+
+|                  | Splenectomy               | * *Meningococci*                   |
+|                  |                           | * Pneumococcus                     |
+|                  |                           | * *H. influenzae*                  |
++------------------+---------------------------+------------------------------------+
+|                  | Immunosuppressed          | * Opportunistic                    |
+|                  |                           | * Fungal                           |
++------------------+---------------------------+------------------------------------+
+| Food             | Unpasteurised milk        | * Listeria                         |
+|                  |                           | * *E. coli*                        |
+|                  |                           | * Brucellosis                      |
+|                  |                           | * *Campylobacter*                  |
+|                  |                           | * *Mycobacterium bovis*            |
+|                  |                           | * Salmonella                       |
+|                  |                           | * Shigella                         |
+|                  |                           | * *Bacillus cerus*                 |
++------------------+---------------------------+------------------------------------+
+|                  | Undercooked meat and eggs | * Salmonella                       |
+|                  |                           | * Toxoplasmosis                    |
+|                  |                           | * Listeria                         |
++------------------+---------------------------+------------------------------------+
+|                  | Shellfish                 | * *Vibrio vulnificus*              |
+|                  |                           | * Hepatitis A                      |
++------------------+---------------------------+------------------------------------+
+
+
+### Exam
+
+### Investigations
 
 **Laboratory**:
 
@@ -533,3 +714,5 @@ High mortality:
 1. Marik PE, Khangoora V, Rivera R, Hooper MH, Catravas J. [Hydrocortisone, Vitamin C, and Thiamine for the Treatment of Severe Sepsis and Septic Shock: A Retrospective Before-After Study](https://journal.chestnet.org/article/S0012-3692(16)62564-3/fulltext). CHEST. 2017;151(6):1229-1238. doi:10.1016/j.chest.2016.11.036
 1. Maitland K, Kiguli S, Opoka RO, et al. [Mortality after Fluid Bolus in African Children with Severe Infection](http://www.nejm.org/doi/full/10.1056/NEJMoa1101549). New England Journal of Medicine. 2011;364(26):2483-2495. doi:10.1056/NEJMoa1101549
 1. [Goal-Directed Resuscitation for Patients with Early Septic Shock](http://www.nejm.org/doi/full/10.1056/NEJMoa1404380). New England Journal of Medicine. 2014;371(16):1496-1506. doi:10.1056/NEJMoa1404380
+1. Dünser MW, Dankl D, Petros S, Mer M. Clinical Examination Skills in the Adult Critically Ill Patient. Springer International Publishing; 2018.
+

@@ -6,12 +6,13 @@ The ICU environment provides several clues to diagnosis and severity of illness.
 * Monitor
 * Ventilator
 * Infusions
-* Ancillary equipment
-* Drains
-	* Surgical
+* Lines and drains
 	* IDC
 	* NG
 	* Faecal management system
+	* Surgical
+* Ancillary equipment
+
 
 
 ## Bedspace
@@ -104,15 +105,23 @@ Or, "The patient is in AF, I note the heparin infusion and wonder if this is the
 * Disease-specific ventilation strategies
 * "Extubatable settings?"
 * Airway suction
+	* Yellow, brown, green, or creamy\
+	Infection.
+	* Foamy or foamy-bloody\
+	Pulmonary oedema.
+	* Bloody\
+	Tracheal suction trauma or haemorrhage.
+	* Brown\
+	Enteral nutrition or infection.
+
 
 :::column-margin
-Secretion appearance is an unreliable diagnostic tool, however secretions that are:
+The colour of purulent secretions does not accurately predict the causative organism. However, *in general*, secretions that are:
 
 * Yellow, brown, or putrid\
 Suggests bacterial infection of the lower airways or parenchyma.
-* Foul-smelling yellow or dark-green\
-Suggest lung abscesses or bronchiectasis.
-* Colour does not accurately predict the causative organism
+* Foul-smelling and yellow or dark-green\
+Suggests lung abscesses or bronchiectasis.
 :::
 
 
@@ -132,48 +141,7 @@ Suggest lung abscesses or bronchiectasis.
 * Blood
 
 
-## Ancillary Equipment
-
-* CRRT\
-	* Mode
-	* Dialysate/buffer
-	* Dose
-	* Anticoagulation
-* Active cooling
-* IABP
-
-
 ## Drains
-
-### Chest Drains
-
-* Location
-	* Pleural
-	* Mediastinal
-* Size
-* Output
-	* Blood
-	* Serous
-* Behaviour
-	* Swinging
-	* Bubbling
-
-
-### Abdominal Drains
-
-* Location
-* Size
-* Output
-	* Blood
-	* Serous
-		* Turbidity
-	* Bile
-	* Faeculent
-
-:::column-margin
-![Faeculent Abdominal Drainage](/resources/faeculent.jpg)
-:::
-
 
 ### Urine
 
@@ -183,23 +151,59 @@ Many abnormalities of urine colour are also visible in RRT effluent.
 
 * Quantity
 * Colour
+	* Clear
+		* Polyuria
+			* Diabetes insipidus
+			* Hyperglycaemia
+			* Diuretic therapy
 	* Concentrated
 	May indicate:
 		* Hypoperfusion or hypovolaemia\
 		Classically low-volume.
-		* Hyperbilirubinaemia
-		* Haemolysis
-		* Haematuria
-		* Drugs
-	* **Urobilinogen**\
-	Dark and foamy urine secondary to hyperbilirubinaemia.
+	* Turbid/purulent\
+	**Pyuria** suggesting infection.
+	* Sediment
+		* UTI
+		* AKI
+		* Presence of IDC
+	* Foamy
+		* Proteinuria\
+		Albuminuria secondary to nephrotic syndrome.
+		* **Urobilinogen**\
+		Dark and foamy urine secondary to hyperbilirubinaemia.
+	* Dark red\
+	Frank blood suggesting macrohaematuria due to to prostate, bladder, or urethral trauma.
+	* Rose-coloured\
+	Suggests microhaematuria due to intravascular haemolysis.
+	* Tea-coloured\
+		* Glomerulonephritis
+		* Haemolytic crisis
+		* Myoglobinuria
+	* Blue-green
+		* Methylene blue
+		* Propofol
+	* Bright red without blood\
+	Drug effects, including:
+		* Rifampicin
+		* Ibuprofen
+		* Hydroxocobalamin
+		* Porphyria
+	* Clear\
+	Diuretic therapy.
+
+
+:::column-margin
+:::caution
+Small volumes of light urine are concerning for obstruction.
+:::
+:::
 
 :::column-margin
 ![Concentrated Urine](/resources/urine_conc.jpg)
 :::
 
 :::column-margin
-Small volumes of light urine are concerning for obstruction.
+![Pyuria](/resources/pyuria.jpg)
 :::
 
 :::column-margin
@@ -209,6 +213,20 @@ Small volumes of light urine are concerning for obstruction.
 :::column-margin
 ![Urobilinogen in RRT Effluent](/resources/urobilinogen_rrt.jpg)
 :::
+
+:::column-margin
+![Propofol Urine](/resources/urine_prop.jpg)
+:::
+
+:::column-margin
+![Methylene Blue Urine](/resources/urine_methylene.jpg)
+:::
+
+
+:::column-margin
+![Rifampicin Urine](/resources/urine_rifampicin.jpg)
+:::
+
 
 
 ### Nasogastric
@@ -247,6 +265,48 @@ Indicate gastroparesis.
 ![Acholic stool](/resources/acholic.jpg)
 :::
 
+
+### Surgical Drains
+
+**Chest**:
+
+* Location
+	* Pleural
+	* Mediastinal
+* Size
+* Output
+	* Blood
+	* Serous
+* Behaviour
+	* Swinging
+	* Bubbling
+
+
+**Abdominal**:
+
+:::column-margin
+![Faeculent Abdominal Drainage](/resources/faeculent.jpg)
+:::
+
+* Location
+* Size
+* Output
+	* Blood
+	* Serous
+		* Turbidity
+	* Bile
+	* Faeculent
+
+
+## Ancillary Equipment
+
+* CRRT\
+	* Mode
+	* Dialysate/buffer
+	* Dose
+	* Anticoagulation
+* Active cooling
+* IABP
 
 ---
 

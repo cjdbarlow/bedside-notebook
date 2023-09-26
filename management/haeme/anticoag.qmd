@@ -53,15 +53,29 @@ Cocktail of bovine or porcine, variable-length, mucopolysaccharides with three m
 
 **Resistance**:
 
-* Heparin resistance occurs when the APTT fails to ↑ despite very high doses of heparin
+* Heparin resistance occurs when the APTT fails to ↑ despite very high doses of heparin\
+Considered >25-30 U/kg/hr.
 * Causes include:
 	* ↓ Antithrombin III\
 	Functional assay of <60% correlates with ↓ *in vitro* activity.
 	* ↑ Heparin binding proteins\
-	Are an acute phase reactant.
-	* ↑ Heparin clearance
+		* Are an acute phase reactant and so often elevated in the critically ill
+		* Results in a greater amount of UFH required to achieve a therapeutic APTT
+		* **APTT correlates with** degree of **anticoagulation**
 	* ↑ Factor VIII
+		* May occur due to:
+			* Systemic inflammation
+			* Pregnancy
+			* Malignancy
+			* Hepatic disease
+			* Renal disease
+		* Results in a greater amount of UFH required to achieve a therapeutic APTT
+		* **APTT does *not* correlate** with degree of **anticoagulation**\
+		Also known as pseudo-heparin resistance.
+		* Requires monitoring with anti-Xa
+	* ↑ Heparin clearance
 * **Management** options:
+	* Check an anti-Xa to quantify the heparin effect
 	* Give more heparin
 		* Cheap
 		* Unlikely to over-correct
@@ -76,7 +90,10 @@ Cocktail of bovine or porcine, variable-length, mucopolysaccharides with three m
 			~1.4%/unit/kg; generally given in 1000 unit increments.
 				* Significantly ↓ volume compared with FFP
 				* Expensive and limited availability
-	* Alternative anticoagulation
+	* Alternative anticoagulation\
+	Generally a direct thrombin inhibitor:
+		* Bivalirudin
+		* Argatroban
 
 
 ### Low Molecular Weight Heparin

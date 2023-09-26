@@ -20,26 +20,71 @@ OOHCA:
 
 ### Aetiology
 
-Management requires identification and correction of **reversible** cause:
+Prodromal symptoms provide clues to the diagnosis:
 
-* Hypoxia
-* Hypovolaemia
-* Hyper/hypokalaemia\
-* Hypo/hyperthermia
-* Tension pneumothorax
-* Tamponade
-* Toxins
-* Thrombosis
-	* Coronary
-	* Pulmonary (embolism)
+* Headache
+	* SAH
+* Chest pain
+	* Myocardial ischaemia
+	* PE
+* Dyspnoea
+	* MI
+	* PE
+	* Other respiratory cause
+
 
 ## Investigations
 
 ## Management
 
+:::priority
+* **Commence basic life support**
+	* Call for help
+	* **Determine appropriateness for** ongoing **resuscitation**\
+	If unclear, or if concerns exist.
+* Institute **advanced life support** therapies
+* Identify and **correct reversible causes**
+:::
+
+
+### Appropriateness of Resuscitation
+
+Considerations for determining appropriateness for resuscitation include:
+
+* Resuscitation status
+* Likelihood of good functional outcome
+	* Age
+	* Severe underlying disease
+		* Malignancy
+		* Severe cardiac failure
+		* Severe COPD
+		* Dementia
+* Low-flow/no-flow duration
+	* Witnessed arrest\
+	Unwitnessed strongly associated with poor outcome.
+	* Bystander CPR
+		* Quality
+		* Time to initiation\
+		\>10 minutes strongly associated with poor outcome.
+	* Duration of bystander CPR
+
+
 ### Basic Life Support
 
 Pillars of basic life support:
+
+:::column-margin
+Signs of life include:
+
+* Ventilator dyssynchrony
+* Coughing
+* Eye opening
+* Swallowing
+* Gasping
+* Limb movement
+* Swallowing
+* Lacrimation
+:::
 
 * **D**anger
 * **R**esponse
@@ -73,6 +118,21 @@ In a witnessed and monitored arrest, **without pads**, it is *reasonable* to per
 		* 200J biphasic or 360J monophasic
 		* Anterior-Posterior pad position may be slightly preferable as it is less dependent on heart position
 
+
+### Reversible Causes
+
+Identify and correct **reversible** causes:
+
+* Hypoxia
+* Hypovolaemia
+* Hyper/hypokalaemia\
+* Hypo/hyperthermia
+* Tension pneumothorax
+* Tamponade
+* Toxins
+* Thrombosis
+	* Coronary
+	* Pulmonary (embolism)
 
 ## Marginal and Ineffective Therapies
 

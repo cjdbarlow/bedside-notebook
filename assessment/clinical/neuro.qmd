@@ -82,6 +82,60 @@ This assesses for locked-in syndrome.
 
 {{< include /includes/gcs.qmd >}}
 
+
+### Interpretation of Motor Response
+
+Response to a **central stimulus** suggests the location of a possible lesion
+
+: Localisation of Lesion by Motor Response
+
++---------------------------+--------------------------------------+
+| Response                  | Location                             |
++===========================+======================================+
+| Localisation              | * Diffuse cortical lesion            |
+|                           | * Encephalopathy                     |
++---------------------------+--------------------------------------+
+| Withdrawal                | * Diffuse cortical lesion            |
+|                           | * Encephalopathy                     |
+|                           | * Lazarus phenomenon                 |
++---------------------------+--------------------------------------+
+| Upper limb flexion        | * Contralateral cortical lesion      |
+|                           |                                      |
++---------------------------+--------------------------------------+
+| Upper limb extension      | * Contralateral deep cerebral lesion |
+|                           |     * Basal ganglia                  |
+|                           |     * Thalamus                       |
+|                           |     * Upper midbrain                 |
+|                           | * Contralateral brainstem lesion     |
++---------------------------+--------------------------------------+
+| Lower limb triple flexion | * Non-localising spinal reflex       |
+|                           | * Lazarus phenomenon                 |
++---------------------------+--------------------------------------+
+| Decorticate posturing     | * Bilateral deep cerebral            |
++---------------------------+--------------------------------------+
+| Decerebrate posturing     | * Lower midbrain                     |
+|                           | * Pons                               |
++---------------------------+--------------------------------------+
+| Absent                    | * Coma                               |
+|                           | * Medullary lesion                   |
++---------------------------+--------------------------------------+
+
+:::column-margin
+![Triple Flexion](/resources/triple_flex.png)
+:::
+
+:::column-margin
+![Decorticate Posturing](/resources/decorticate.png)
+
+**Decorticate posturing** describes flexion and adduction of the upper limbs combined with extension of the lower limbs.\
+:::
+
+:::column-margin
+![Decerebrate Posturing](/resources/decerebrate.png)
+
+**Decerebrate posturing** describes adduction, extension, and pronation of the arms and wrists combined with extension of the lower limbs.
+:::
+
 ## Pupils
 
 Bedside assessment:
@@ -271,8 +325,11 @@ Also known as the cold caloric reflex. Tests CN III, VI, and VIII.
 
 ### Cooperative Patient
 
-* **Visual acuity**\
-Tests CN II
+* **Vision**\
+Tests CN II.
+    * Visual acuity
+        * Read
+        * Count fingers
     * Visual fields
         * Patient focuses straight ahead
         * Reports when a finger is moving in each quadrant
@@ -300,9 +357,13 @@ Tests CN VII.
     * Evaluate strength and asymmetry as the patient:
         * Wrinkles brow
         * Closes eyes tightly
-        * Puffs out cheeks
-        * Smiles\
-\
+        * Puff out cheeks
+        * Smiles
+
+:::column-margin
+Cheeks cannot be puffed out if a patient has a cuffed tracheostomy, as they cannot expire into their oropharynx.
+:::
+
 * **SCM and trapezius**\
 Tests CN XI.
     * Evaluate strength as the patient:

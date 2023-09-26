@@ -117,7 +117,8 @@ The observation period should be extended to **24** hours in the case of HIE or 
 
 * **Preconditions** are **met**
 * **GCS** is **3**
-* Non-reactive pupils
+* Non-reactive pupils\
+May be mid-sized or dilated.
 * No spontaneous respiratory effort
 * Absent cough reflex
 
@@ -229,6 +230,7 @@ No benefit. Absence of cortical activity does not confirm brainstem death and el
 ## References
 
 1. Wijdicks EF. The bare essentials: coma. Pract Neurol. 2010 Feb;10(1):51-60.
-2. ANZICS. [Brain Death Determination](https://www.anzics.com.au/wp-content/uploads/2018/08/Brain-Death-Determination-Statement-FINAL.pdf). 2018.
-3. ANZICS. [The Statement on Death and Organ Donation](https://www.anzics.com.au/wp-content/uploads/2022/04/ANZICS-Statement-on-Death-and-Organ-Donation.pdf). Edition 4.1. 2021.
-4. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. ANZICS. [Brain Death Determination](https://www.anzics.com.au/wp-content/uploads/2018/08/Brain-Death-Determination-Statement-FINAL.pdf). 2018.
+1. ANZICS. [The Statement on Death and Organ Donation](https://www.anzics.com.au/wp-content/uploads/2022/04/ANZICS-Statement-on-Death-and-Organ-Donation.pdf). Edition 4.1. 2021.
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. Dünser MW, Dankl D, Petros S, Mer M. Clinical Examination Skills in the Adult Critically Ill Patient. Springer International Publishing; 2018.

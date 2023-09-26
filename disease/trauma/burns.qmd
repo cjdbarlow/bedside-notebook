@@ -49,7 +49,11 @@ Electrical burns:
 	Leads to muscular burns, leading to:
 		* Rhabdomyolysis
 			* Fasciotomy (in addition to escharotomy)
-
+	* May have significant underlying tissue damage that is disproportionate to overlying features
+	
+:::column-margin
+![Electrical Burn](/resources/burn_electrical.jpg)
+:::
 
 ### Aetiology
 
