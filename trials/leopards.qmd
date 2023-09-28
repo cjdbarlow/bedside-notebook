@@ -1,0 +1,10 @@
+* [LeoPARDS](http://www.nejm.org/doi/pdf/10.1056/NEJMoa1609409) (2017)
+	* 516 British adults with suspected sepsis ( by possible infection and ⩾2 SIRS criteria) 
+	* Multicentre (34), double-blind, placebo-controlled RCT
+	* 90% power to detect a mean difference in SOFA score of 0.5
+	* Levosimendan vs. standard care
+		* Levosimendan\
+		0.1µg/kg/min, ↑ to 0.2µg/kg/min at 2-4 hours if tolerated and continued for up to 24 hours.
+		* Placebo
+	* Study drug commenced after adequate fluid resuscitation and restoration of target MAP
+	* No difference in mean SOFA score, ↑ haemodynamic instability and mean ventilator days in levosimendan group

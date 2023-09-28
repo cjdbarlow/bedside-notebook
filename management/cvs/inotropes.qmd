@@ -8,7 +8,14 @@ Catecholamines (or derived), which act to ↑ cAMP.
 Phosphodiesterase inhibitors. 
 
 :::column-margin
-Although we like to conceptually separate inotropes from @sec-vasopressors, there is substantial overlap in action between drugs in either class and the umbrella term *vasoactive* is a better fit.
+Although we like to conceptually separate inotropes from @sec-vasopressors, there is substantial overlap in the pharmacodynamic activity of many drugs in either category.\
+\
+My preference for nomenclature is to use the umbrella term **vasoactive** for all agents used to manipulate haemodynamic parameters, and then categorise them based on their primary function:
+
+* **Inotrope** for agents that ↑ the force of myocardial contraction
+	* The subcategory **inodilator** for drugs which also ↓ SVR
+* **Vasopressor** for agents that ↑ SVR
+* **Vasodilator** for agents that ↓ SVR
 :::
 
 ## Practice
@@ -23,7 +30,7 @@ Regular clinical assessment.
 
 ## Comparison
 
-: Catecholamines
+: Comparison of Catecholamine Inotropes
 
 +------------------+----------------------------------------+-----------------------------------+
 | Drug             | Adrenaline                             | Dobutamine                        |
@@ -32,6 +39,8 @@ Regular clinical assessment.
 |                  |                                        |                                   |
 |                  | * Mixed non-selective α and β activity | * Predominantly β~1~              |
 |                  |                                        | * Nonspecific α effects at ↑ dose |
++------------------+----------------------------------------+-----------------------------------+
+| Dosing           | 0-0.3µg/kg/min                         |                                   |
 +------------------+----------------------------------------+-----------------------------------+
 | Relative Actions | * ↑ Inotropy                           | * ↑ Inotropy                      |
 |                  | * ↑ SVR                                | * ↓ SVR                           |
@@ -43,26 +52,31 @@ Regular clinical assessment.
 +------------------+----------------------------------------+-----------------------------------+
 
 
-: Inodilators
+: Comparison of Inodilators
 
-+---------------+----------------------------------+---------------------------+
-| Drug          | Milrinone                        | Levosimendan              |
-+===============+==================================+===========================+
-| Overview      |                                  |                           |
-|               |                                  |                           |
-|               |                                  |                           |
-|               |                                  |                           |
-+---------------+----------------------------------+---------------------------+
-| Advantages    | * ↑ Inotropy                     | * ↑ Inotropy              |
-|               | * ↓ SVR                          | * ↓ SVR                   |
-|               |                                  | * Long duration of action |
-+---------------+----------------------------------+---------------------------+
-| Disadvantages | * ↑ Arrhythmia                   | * ↓ SVR                   |
-|               | * ↓ SVR                          | * Expensive               |
-|               | * Requires loading               |                           |
-|               | * Longer t~1/2~ ↓ titrateability |                           |
-|               | * Renally cleared                |                           |
-+---------------+----------------------------------+---------------------------+
++------------------+----------------------------------+--------------------------------------------------------------------------------+
+| Drug             | Milrinone                        | Levosimendan                                                                   |
++==================+==================================+================================================================================+
+| Overview         |                                  | Calcium sensitiser that ↑ myocardial contraction with minimal ↑ in O~2~ demand |
+|                  |                                  |                                                                                |
++------------------+----------------------------------+--------------------------------------------------------------------------------+
+| Dosing           | 0-0.5µg/kg/min                   | 10.5mg over 24 hours                                                           |
++------------------+----------------------------------+--------------------------------------------------------------------------------+
+| Relative Actions | * ↑ Inotropy                     | * ↑ Inotropy                                                                   |
+|                  | * ↓ SVR                          | * ↓ SVR                                                                        |
+|                  |                                  | * Long duration of action\                                                     |
+|                  |                                  | Long half-life:                                                                |
+|                  |                                  |     * Persistent improvement in myocardial performance                         |
+|                  |                                  |     * Non-titrateable                                                          |
+|                  |                                  |     * Persistent vasodilation which may require compensatory pressors          |
+|                  |                                  |     * Can be re-dosed after ~1 week if desired                                 |
++------------------+----------------------------------+--------------------------------------------------------------------------------+
+| Disadvantages    | * ↑ Arrhythmia                   | * ↓ SVR                                                                        |
+|                  | * ↓ SVR                          | * Expensive                                                                    |
+|                  | * Requires loading               |                                                                                |
+|                  | * Longer t~1/2~ ↓ titrateability |                                                                                |
+|                  | * Renally cleared                |                                                                                |
++------------------+----------------------------------+--------------------------------------------------------------------------------+
 
 
 ## Key Studies
@@ -70,6 +84,24 @@ Regular clinical assessment.
 **Cardiogenic Shock**:
 
 {{< include /trials/doremi.qmd >}}
+
+
+**Decompensated Heart Failure**:
+
+{{< include /trials/lido.qmd >}}
+* SURVIVE
+* REVIVE
+
+
+**Cardiac Surgery**:
+
+{{< include /trials/levo_cts.qmd >}}
+{{< include /trials/cheetah.qmd >}}
+
+
+**Sepsis**:
+
+{{< include /trials/leopards.qmd >}}
 
 
 ---

@@ -1,0 +1,9 @@
+* [LEVO-CTS](http://www.nejm.org/doi/pdf/10.1056/NEJMoa1616218) (2017)
+	* 882 adult Americans undergoing on-pump cardiac surgery with LVEF <35%, without restrictive/obstructive cardiomyopathy, renal failure, liver failure, or recent arrhythmias
+		* CABG, CABG + AVR, +/- MVR
+	* Multicentre (70), double-blind, placebo-controlled RCT
+	* Two primary, composite outcomes:
+		* Death or RRT at 30 days, MI at 5 days, or mechanical support at any time
+		* Death at 30 days or mechanical support at any time
+	* Randomised to levosimendan commenced peri-induction vs. placebo
+	* No change in composite outcome between groups (24.5% vs. 24.5% for 4-point outcome, 13.1% vs. 11.4% for 2-point outcome)

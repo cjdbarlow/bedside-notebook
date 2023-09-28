@@ -41,7 +41,7 @@ RV systolic function can be optimised by:
 		This usually leads to the "RV Death Spiral", where RV dysfunction leads to ↓ LV preload, leads to ↓ LV SV, leads to ↓ MAP, and further RV impairment.
 
 :::column-margin
-$RV Coronary Perfusion Pressure = P_{Aortic Root} - P_{RV}$
+$RV \ Coronary \ Perfusion \ Pressure = P_{Aortic Root} - P_{RV}$
 :::
 
 ## Rate/Rhythm

@@ -1,0 +1,7 @@
+* [CHEETAH](http://doi.org/10.1056/NEJMoa1616325) (2017)
+	* 506 adults undergoing cardiac surgery with severe cardiovascular dysfunction (LVEF <25%, pre-operative IABP, intraoperative IABP required)
+	* Multicentre (14) parallel-group trial across Italy, Russia, and Brazil
+	* 1000 patients provides 80% power for 5% ↓ in absolute mortality
+	* Levosimendan at 0.05-0.2μg/kg/min for up to 48 hours vs. placebo
+	* Terminated early for futility
+	* No difference in mortality

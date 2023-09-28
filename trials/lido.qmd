@@ -1,0 +1,18 @@
+* [LIDO](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(02)09455-2/fulltext) (2002)
+	* 103 adult Europeans "without child-bearing potential"; with heart failure felt to be requiring an inotropic agent and have an LVEF <35%, CI <2.5, and PCWP >15mmHg
+		* Excluded if restrictive or hypertrophic cardiomyopathy, uncorrected stenotic valve, recent VT or VF, 2^nd^ or 3^rd^ degree AV block, HR >120, or other organ failure
+	* Multicentre (26), double-blind, double-dummy, parallel group trial
+	* 90% power to detect 30% ↑ in CO and 25% ↓ in PCWP at 24 hours
+	* Randomised to:
+		* Levosimendan\
+		24μg/min over 10 minutes, followed by 0.1μg/kg/min for 24 hours.
+		* Dobutamine\
+		5μg/kg/min without a loading dose.
+	* Infusion doubled if no response within 24 hours
+	* Significantly improved haemodynamic markers in levosimendan group (28% vs. 15%, HR 1.9, p=0.02)\
+	More pronounced in β-blocker group.
+	* Significantly ↓ mortality in levosimendan group (8% vs. 17%)
+
+:::column-margin
+![LIDO Results](/resources/lido.png)
+:::

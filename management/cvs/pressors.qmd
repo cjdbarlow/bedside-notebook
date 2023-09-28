@@ -3,7 +3,14 @@
 Vasopressors are drugs that predominantly constrict peripheral vasculature, causing a:
 
 :::column-margin
-Similar to @sec-inotropes, many vasopressors have inotropic effects. Unlike inotropes however, there are some *pure* vasopressors.
+Although we like to conceptually separate @sec-inotropes from vasopressors, there is substantial overlap in the pharmacodynamic activity of many drugs in either category. Unlike inotropes however, there are some *pure* vasopressors.\
+\
+My preference for nomenclature is to use the umbrella term **vasoactive** for all agents used to manipulate haemodynamic parameters, and then categorise them based on their primary function:
+
+* **Inotrope** for agents that ↑ the force of myocardial contraction
+	* The subcategory **inodilator** for drugs which also ↓ SVR
+* **Vasopressor** for agents that ↑ SVR
+* **Vasodilator** for agents that ↓ SVR
 :::
 
 * Primary ↑ in SVR, causing a secondary ↑ in MAP
