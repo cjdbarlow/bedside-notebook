@@ -1,0 +1,143 @@
+# Diffuse Alveolar Haemorrhage {#sec-dah}
+
+Potentially life-threatening hypoxaemic respiratory failure characterised by:
+
+* Haemoptysis
+* Anaemia
+* Diffuse alveolar infiltrates
+
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+Precipitants include:
+
+* **Pulmonary capillaritis** secondary to autoimmune disease, including:
+	* Systemic vasculitis
+		* Granulomatosis with Polyangiitis
+		* Churg-Strauss syndrome
+		* Microscopic polyangiitis
+	* Primary immune complex-mediated vasculitis
+		* Goodpasture's syndrome
+		* Henoch-Schonlein purpura
+	* Secondary vasculitis
+		* SLE
+		* RA
+		* APS
+		* Mixed connective tissue disease
+		* POlymyositis
+		* Dermatomyositis
+	* Essential cryoglobulinaemia
+	* Behcet's disease
+	* Anti-GBM disease
+* Coagulation disorders
+* Pulmonary vascular disease
+	* MS
+	* Pulmonary veno-occulisive disease
+* Drugs
+	* Amiodarone
+	* Nitrofurantoin
+	* Chemotherapeutics
+	* Propylthiouracil
+* Toxins
+* Transplantation
+	* BMT
+* ARDS
+
+
+## Clinical Features
+
+## Assessment
+
+### History
+
+### Exam
+
+### Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+:::column-margin
+{{< include /includes/rheumatoid_screen.qmd >}}
+:::
+
+* Blood
+	* FBE
+	* Coagulation screen
+	* Rheumatoid screen
+
+**Imaging**:
+
+:::column-margin
+![Diffuse Alveolar Haemorrhage](/resources/dah.jpg)
+:::
+
+* CXR
+* High-resolution CT Chest
+
+**Other**:
+
+* BAL\
+Essential for diagnosis, and to exclude infection.
+
+### Diagnostic Approach and DDx
+
+
+## Management
+
+:::priority
+* Treat underlying cause
+* **Immunosuppression**\
+Corticosteroids as first line therapy.
+:::
+
+**Resuscitation**:
+
+* A
+	* Intubation and mechanical ventilation
+
+**Specific therapy**:
+
+* Pharmacological
+	* Corticosteroids
+		* Methylprednisolone 500mg Q6H for 4-5 days, followed by taper
+	* Other immunosuppressants may be indicated
+		* Methotrexate
+		* MMF
+		* Etanercept
+* Procedural
+	* Plasmapheresis\
+	If indicated for the primary immunological precipitant, e.g. Goodpasture's or vasculitis.
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+* Death
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Park MS. [Diffuse Alveolar Hemorrhage](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3651925/). Tuberc Respir Dis (Seoul). 2013 Apr;74(4):151–62. 
+1. Case courtesy of Jan Frank Gerstenmaier. [Radiopaedia.org](https://radiopaedia.org). From the case: rID: [28582](https://radiopaedia.org/cases/28582?lang=us).

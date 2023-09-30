@@ -1,0 +1,196 @@
+# Interstitial Lung Disease
+
+:::info
+Interstitial lung diseases are also known as diffuse parenchymal lung diseases.
+:::
+
+Heterogenous group of primary lung diseases characterised by progressive lung fibrosis that begins in the interstitium and culminates in destruction of alveoli, alveolar ducts, and bronchioles.
+
+ILD are subclassified on some combination of clinical, radiographic, or pathological factors into:
+
+* **Environmental exposure**\
+Due to inspiration of mineral dust, organic dust, or toxic gases. Causes include:
+	* Silica
+	* Asbestos
+	* Coal mine dust
+	* Beryllium
+	* Metals\
+	Including, but not limited to:
+		* Tin
+		* Aluminium
+		* Dusts
+			* Cadmium
+			* Titanium oxide
+			* Cobalt
+			* TUngsten
+		* Iron\
+		"Arc welder;s lung"
+		* Barium
+		* Rare earths
+		* Hematite\
+		Mix of iron and silica.
+	* Mould spores
+	* Aerosolised bird droppings
+	* Methane
+	* Cyanide
+* **Autoimmune**
+	* Connective tissue disease
+	* Vasculitis
+* **Drug induced**
+	* Eosinophilic pneumonia
+	* Hypersensitivity pneumonitis
+* **Idiopathic**
+
+
+## Epidemiology and Risk Factors
+
+* Incidence: ~30/100,000
+* Prevalence: ~80/100,000\
+Higher in males than females.
+
+
+## Pathophysiology
+
+### Aetiology
+
+## Clinical Features
+
+* Drug cough
+* Haemoptysis
+* Wheezing\
+Uncommon.
+* Pleuritic chest pain
+* Extrapulmonary symptoms
+	* Arthralgia
+	* Fever
+	* Photosensitivity
+	* Connective tissue symptoms
+
+
+## Assessment
+
+### History
+
+* PMHx\
+Key associations include:
+	* Connective tissue disease
+	* Inflammatory bowel disease
+	* Malignancy
+* Smoking status\
+Important for determining differential:
+	* Current or former smokers:
+		* Pulmonary Langerhans cell histiocytosis
+		* Desquamative interstitial pneumonitis
+		* Respiratory bronchiolitis-interstitial lung disease
+		* IPF
+	* Never or former smokers:
+		* Sarcoidosis
+		* Hypersensitivity pneumonitis
+
+
+### Exam
+
+### Investigations
+
+**Bedside**:
+
+* Echocardiogram\
+Right heart function.
+
+**Laboratory**:
+
+:::column-margin
+{{< include /includes/rheumatoid_screen.qmd >}}
+:::
+
+* Blood
+	* Rheumatoid screen
+
+**Imaging**:
+
+* CXR
+* High-resolution CT chest
+
+**Other**:
+
+* Pulmonary function tests
+* Cardiopulmonary exercise testing
+{{< include /includes/lung_bx.qmd >}}
+
+
+### Diagnostic Approach and DDx
+
+Differential diagnoses of interstitial opacities include:
+
+:::column-margin
+Infectious interstitial pneumonia is more common in the immunocompromised.
+:::
+
+* Infective pneumonias:
+	* Fungal
+	* Atypical bacterial
+	* Viral
+
+## Management
+
+:::priority
+* Preventative
+* Immunosuppression
+:::
+
+
+**Specific therapy**:
+
+* Pharmacological
+	* Immunosuppression
+		* Corticosteroids
+			* Nintedanib
+			* Pirfenidone
+* Procedural
+	* Lung transplantation
+* Physical
+	* Chest physiotherapy
+	* Pulmonary hygiene
+
+
+**Supportive care**:
+
+* B
+	* Supplemental oxygen\
+	Targeting SpO~2~ >88%.
+
+**Disposition**:
+
+**Preventative**:
+
+* Avoid precipitants/irritants
+* Smoking cessation
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+Varies depending on cause. Treatment-responsive variants include:
+
+* Acute eosinophilic pneumonia
+* Cellular interstitial pneumonia
+* Cryptogenic organising pneumonia
+* Lymphocytic interstitial pneumonitis
+* Pulmonary capillaritis
+* Granulomatous interstitial pneumonitis
+* Alveolar proteinosis
+
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Antoine MH, Mlika M. [Interstitial Lung Disease](http://www.ncbi.nlm.nih.gov/books/NBK541084/). In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023 [cited 2023 Sep 30].

@@ -1,0 +1,296 @@
+# Idiopathic Interstitial Pneumonia
+
+Group of diffuse parenchymal lung diseases of unclear aetiology that are characterised by:
+
+* Expansion of the pulmonary interstitial compartment
+* Inflammatory infiltrate
+
+
+This classification encompasses a a number of subsidiary interstitial diseases including:
+
+:::column-margin
+Acute interstitial pneumonia is also known as Hamman-Rich syndrome.
+:::
+
+* **Acute interstitial pneumonia**\
+Variant characterised by:
+	* Acute onset\
+	7-14 days.
+	* Rapidly progressive course\
+	Generally require intubation within a few days.
+	* Diffuse lung injury
+* **Organising pneumonia**\
+Inflammatory lung disease characterised by granulation in small airways and alveoli. Subdivided into:
+	* **Cryptogenic organising pneumonia**\
+	No obvious cause.
+	* **Secondary organising pneumonia**\
+	Following previous alveolar injury, including:
+		* Post-infectious\
+		See below.
+		* Drugs
+		* Connective tissue disorders
+			* Rheumatoid arthritis
+			* Systemic sclerosis
+			* Lupus
+			* Inflammatory bowel disease
+			* Vasculitis
+				* Granulomatosis with polyangitis
+				* Eosinophilic granulomatosis with polyangitis
+		* Transplantation
+		* Malignancy
+			* Haematological
+		* Radiotherapy
+			* Thoracic malignancy\
+			Generally 3-6 months.
+		* Chemotherapy
+		* Allogenic BMT
+		* Industrial chemical exposure
+* **Lymphoid interstitial pneumonia**
+
+:::column-margin
+Cryptogenic organising pneumonia was formerly known as bronchiolitis obliterans organising pneumonia (BOOP).
+:::
+
+## Epidemiology and Risk Factors
+
+AIP:
+
+* Associated with:
+	* Rheumatoid arthritis
+	* SLE
+	* Dermatomyositis
+	* Sjögren's syndrome
+
+COP:
+
+* ~1-5/100,000
+
+
+## Pathophysiology
+
+Poorly understood, features include:
+
+* Inflammation
+* Intra-alveolar fibroproliferation
+	* May be reversible
+* Fibrinous remodelling
+
+
+### Aetiology
+
+: Precipitants of Secondary Organising Pneumonia
+
++-------------------------------+----------------------------+
+| Infection                     | Drug                       |
++===============================+============================+
+| **Bacteria**:                 | **Common**:                |
+|                               |                            |
+| * Gram negative cocci:        | * Amiodarone               |
+| 	* *Chlamydia pneumoniae*    | * Clopidogrel              |
+| * Gram negative bacilli:      | * Dabigatran               |
+|    * *Burkholderia cepacia*   | * Hydralazine              |
+|    * *Coxiella burnetii*      | * Risperidone              |
+|    * *Legionella pneumophila* | * Sertraline               |
+|    * *Pseudomonas aeruginosa* | * Sirolimus                |
+|    * Serratia marcescens      | * Statins                  |
+| *  Gram positive cocci:       | * Methotrexate             |
+|    * *S. aureus*              |                            |
+|    * *S. pneumoniae*          |                            |
+| * Gram-positive bacilli:      |                            |
+|    * *Nocardia asteroides*    |                            |
+| * Other                       |                            |
+| 	 * *Mycoplasma pneumoniae*  |                            |
++-------------------------------+----------------------------+
+| **Viruses**:                  | **Immune** and **cancer**: |
+|                               |                            |
+| * DNA Viruses:                | * Chemotherapies           |
+|    * Adenovirus               |     * Bleomycine           |
+|    * CMV                      |     * Cyclophosphamide     |
+|    * HHV-7                    |     * FOLFIRI              |
+|    * HSV                      |     * FOLFOX               |
+| * RNA Viruses:                |     * Hydroxyurea          |
+|    * COVID-19                 |     * Leflunomide          |
+|    * HIV                      |     * Oxiplatin            |
+|    * Influenza Virus          | * Checkpoint inhibitors    |
+|    * Parainfluenza Virus      | * Monoclonal antibodies    |
+|    * RSV                      |                            |
++-------------------------------+----------------------------+
+| **Parasites**:                | **Recreational**:          |
+|                               |                            |
+| * Malaria                     | * Synthetic marijuana      |
+| 	* *P. vivax*                | * Vaping                   |
+| * *Dirofilaria immitis*       | * Freebased cocaine        |
++-------------------------------+----------------------------+
+| **Fungi**:                    | **Chemical**:              |
+|                               |                            |
+| * *Aspergillus*               | * Textile die              |
+| * *Cryptococcus neoformans*   | * Mustard gas              |
+| * *Pneumocystis jirovecii*    |                            |
++-------------------------------+----------------------------+
+
+:::column-margin
+Atypical infections are more likely to be the primary precipitant.
+:::
+
+
+## Clinical Features
+
+Typically subacute presentation with:
+
+* Dry cough
+* Progressive dyspnoea
+* Constitutional symptoms
+	* Fever
+	* Malaise
+	* Weight loss
+
+: Features by Cause
+
++-------+----------------+---------------+
+| Cause | Onset          | Cough         |
++=======+================+===============+
+| AIP   | * Days-weeks   |               |
+|       |                |               |
++-------+----------------+---------------+
+| COP   | * Weeks-months | * Unrelenting |
+|       |                | * Dry         |
++-------+----------------+---------------+
+
+## Assessment
+
+### History
+
+
+
+
+### Exam
+
+* Bilateral diffuse crepitations
+
+### Investigations
+
+**Bedside**:
+
+* Bronchoscopy
+	* BAL\
+	To evaluate for eosinophilic pneumonia and alveolar haemorrhage.
+
+**Laboratory**:
+
+* Blood
+	* FBE\
+	Mild leukocytosis is common.
+	* BNP\
+	Exclude CCF.
+	* Cultures
+	* Rheumatological screen
+	* Connective tissue disease screen
+* Sputum
+	* Culture
+		* Fungal
+		* Atypical organisms
+	* Viral PCR
+		* Influenza
+* Urine
+	* Legionella PCR
+
+:::column-margin
+{{< include /includes/rheumatoid_screen.qmd >}}
+:::
+
+**Imaging**:
+
+:::column-margin
+![Organising Pneumonias](/resources/cop.jpeg)
+:::
+
+* CXR
+	* Consolidative opacities with normal lung volumes\
+	Figure A.
+* High-resolution CT
+	* Multifocal consolidation
+	* Peripheral nodulation\
+	Figure C.
+	* Migratory opacities are classical for organising pneumonia\
+	Figure D and E are the same patient at different time points.
+	* Atoll sign\
+	Rim of consolidation with central ground-glass opacities, which is rare but highly specific.
+
+**Other**:
+
+* Bronchoscopy
+	* BAL\
+	Evaluate for:
+		* Diffuse alveolar haemorrhage
+		* Eosinophilia
+		* Malignant infiltrates
+
+### Diagnostic Approach and DDx
+
+Key differentials include:
+
+* CAP\
+Absence of antibiotic response suggests organising pneumonia.
+* Hypersensitivity pneumonitis
+* Eosinophilic pneumonia
+* Diffuse Alveolar haemorrhage
+* Vasculitis
+* Pulmonary lymphoma
+* Invasive mucinous adenocarcinoma
+* Pulmonary sarcoidosis
+
+## Management
+
+:::priority
+* **Broad-spectrum antimicrobials**
+* Immunosuppression with **corticosteroids**
+:::
+
+
+**Resuscitation**:
+
+**Specific therapy**:
+
+* Pharmacological
+	* Antibiotics\
+	Commenced empirically until infectious causes are excluded.
+	* Corticosteroids\
+	1mg/kg prednisolone daily up to 60mg per day, for 2-4 weeks followed by a 3-5 month taper.
+* Procedural
+	* Lung transplantation
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+* Death
+	* AIP\
+	~50% by 6 months.
+* B
+	* Chronic interstitial lung disease
+	* Relapse
+		* Particularly with organising pneumonia
+
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. King TE, Lee JS. [Cryptogenic Organizing Pneumonia](https://www.nejm.org/doi/full/10.1056/NEJMra2116777). New England Journal of Medicine. 2022;386(11):1058-1069. doi:10.1056/NEJMra2116777
+1. Mrad A, Huda N. [Acute Interstitial Pneumonia](http://www.ncbi.nlm.nih.gov/books/NBK554429/). In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023 [cited 2023 Sep 30].
+

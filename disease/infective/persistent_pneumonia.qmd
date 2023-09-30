@@ -32,6 +32,7 @@ Failure to improve after an arbitrary 5 days of treatment should prompt a search
     * Heart failure
     * Sarcoidosis
     * Eosinophilic pneumonia
+    * Interstitial pneumonia
 * Wrong drug/bug
     * Resistant organism
     * Atypical organism
@@ -74,15 +75,7 @@ Failure to improve after an arbitrary 5 days of treatment should prompt a search
 
 **Other**:
 
-* Lung biopsy
-    * Highly invasive
-    * Significant risk
-    * Appropriate when:
-        * No other clear diagnosis
-        * Failure of empirical therapy
-        * Potential treatments are: 
-            * Morbid
-            * Mutually incompatible
+{{< include /includes/lung_bx.qmd >}}
 
 
 ---

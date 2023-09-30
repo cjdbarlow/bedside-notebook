@@ -635,16 +635,17 @@ book:
           - disease/resp/coad.qmd 
           - disease/resp/bronchopleural.qmd
           # Bronchitis
-        - part: "Parenchyma"
+        - part: "Parenchymal"
           chapters:
-          - disease/resp/ards.qmd
           - disease/infective/cap.qmd
           - disease/infective/hap.qmd
           - disease/infective/persistent_pneumonia.qmd
+          - disease/resp/ards.qmd
           - disease/infective/pjp.qmd
-          - disease/resp/cop.qmd
-            # ILD
-            # Aspiration pneumonitis
+          - disease/resp/iip.qmd
+          - disease/resp/ild.qmd
+          - disease/resp/dah.qmd
+          # Aspiration pneumonitis
         - part: "Pleural"
           chapters:
           - disease/resp/pthx.qmd
