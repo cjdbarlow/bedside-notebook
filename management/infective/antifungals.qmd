@@ -17,71 +17,100 @@ Essentially restricted to Amphotericin.
 
 ## Drugs
 
-+------------------+--------------------------------------------------+-------------------------------------------------+
-| Drug             | Fluconazole                                      | Voriconazole                                    |
-+==================+==================================================+=================================================+
-| Indications      | * Yeasts\                                        | * Invasive Aspergillosis                        |
-|                  | Covers **most Candida** species.                 | * Fluconazole-resistant Candida                 |
-|                  | * Excludes *C. glabrata* and *C. Krusei*         | * Endemic fungi\                                |
-|                  |                                                  | Coccidiomycosis, histoplasmosis, blastomycosis. |
-+------------------+--------------------------------------------------+-------------------------------------------------+
-| Dosing           | * Systemic\                                      | * *Aspergillus*\                                |
-|                  | 800mg IV load, 200mg IV BD                       | 6mg/kg IV load (BD), then 4mg/kg BD thereafter. |
-|                  | * Esophageal\                                    |                                                 |
-|                  | 200mg IV load, 50mg IV BD.                       |                                                 |
-+------------------+--------------------------------------------------+-------------------------------------------------+
-| Key pharmacology | * Renal elimination unchanged                    | * IV contraindicated if GFR <50mL/min\          |
-|                  | * Dose ↓ 50% if GFR <50mL/min                    | PO dosing safe and unchanged.                   |
-|                  | * Dose ↑ in CRRT\                                | * Dose ↓ 50% in hepatic dysfunction             |
-|                  | Usual renal tubular reabsorption does not occur. | * Extensive CYP interactions                    |
-|                  | * Extensive CYP interactions\                    |                                                 |
-|                  | e.g. Tacrolimus, warfarin, phenytoin.            |                                                 |
-+------------------+--------------------------------------------------+-------------------------------------------------+
-| Toxicity         | * ↑ QTc                                          | * Neurotoxicity\                                |
-|                  | * Hepatitis                                      | Delirium, myoclonus.                            |
-|                  |                                                  | * Nephrotoxicity\                               |
-|                  |                                                  | IV only.                                        |
-|                  |                                                  | * ↑ QTc                                         |
-|                  |                                                  | * Psychosis                                     |
-+------------------+--------------------------------------------------+-------------------------------------------------+
-| Other            | * No evidence for surgical prophylaxis           |                                                 |
-+------------------+--------------------------------------------------+-------------------------------------------------+
+: Comparison of Antifungals
 
-: Comparison of Azoles
-
-
-+------------------+-----------------------------------------------------------------------------------------------+--------------------------------------------------------------+
-| Drug             | Echinocandins                                                                                 | Liposomal Amphotericin                                       |
-+==================+===============================================================================================+==============================================================+
-| Indications      | * Candida\                                                                                    | * *Cryptococcus Neoformans*                                  |
-|                  | Resistance is rare; may occur with *C. parapsilosis*, *C. glabrata*, and *C. guilliermondii*. | * Dimorphic fungi\                                           |
-|                  | * Aspergillus\                                                                                | Change between yeast and mould form.                         |
-|                  | Not as monotherapy; synergistic with voriconazole.                                            | * Moulds                                                     |
-|                  |                                                                                               | * Otherwise resistant fungi                                  |
-+------------------+-----------------------------------------------------------------------------------------------+--------------------------------------------------------------+
-| Dosing           | * Caspofungin\                                                                                | * 3-5mg/kg IV Q24H                                           |
-|                  | 70mg IV load, then 50mg IV daily.                                                             |                                                              |
-|                  | * Anidulafungin\                                                                              |                                                              |
-|                  | 200mg IV load, then 100mg IV daily.                                                           |                                                              |
-|                  | * Micafungin\                                                                                 |                                                              |
-|                  | 100-150mg IV daily.                                                                           |                                                              |
-+------------------+-----------------------------------------------------------------------------------------------+--------------------------------------------------------------+
-| Key pharmacology | * Very highly protein bound                                                                   | * No hepatic impact\                                         |
-|                  | * No renal or hepatic dose reduction required                                                 | Major role in treating fungal infections in hepatic failure. |
-|                  |                                                                                               | * Contraindicated in renal failure                           |
-|                  |                                                                                               |                                                              |
-+------------------+-----------------------------------------------------------------------------------------------+--------------------------------------------------------------+
-| Toxicity         | * Avoid in acute hepatic failure\                                                             | * Infusion reactions\                                        |
-|                  | Results in deranged LFTs, confounding monitoring.                                             | Atopic/immune symptoms.                                      |
-|                  |                                                                                               | * AKI                                                        |
-|                  |                                                                                               | * RTA                                                        |
-+------------------+-----------------------------------------------------------------------------------------------+--------------------------------------------------------------+
-
-: Comparison of Other Antifungals
++---------------+------------------+----------------------------------------------------+--------------------------------------------------------------+---------------------------------------------------+
+| Class         | Drug             | Indications                                        | Pharmacokinetics                                             | Toxicity                                          |
++===============+==================+====================================================+==============================================================+===================================================+
+| Azoles        | **Fluconazole**  | * Yeasts\                                          | * Renal elimination unchanged                                | * ↑ QTc                                           |
+|               |                  | Covers **most Candida** species.                   | * Dose ↓ 50% if GFR <50mL/min                                | * Hepatitis                                       |
+|               |                  | * Excludes *C. glabrata* and *C. Krusei*           | * Dose ↑ in CRRT\                                            |                                                   |
+|               |                  |                                                    | Usual renal tubular reabsorption does not occur.             |                                                   |
+|               |                  |                                                    | * Extensive CYP interactions\                                |                                                   |
+|               |                  |                                                    | e.g. Tacrolimus, warfarin, phenytoin.                        |                                                   |
++---------------+------------------+----------------------------------------------------+--------------------------------------------------------------+---------------------------------------------------+
+|               | **Voriconazole** | * Invasive Aspergillosis                           | * IV contraindicated if GFR <50mL/min\                       | * Neurotoxicity\                                  |
+|               |                  | * Fluconazole-resistant Candida                    | PO dosing safe and unchanged.                                | Delirium, myoclonus.                              |
+|               |                  | * Endemic fungi\                                   | * Dose ↓ 50% in hepatic dysfunction                          | * Nephrotoxicity\                                 |
+|               |                  | Coccidiomycosis, histoplasmosis, blastomycosis.    | * Extensive CYP interactions                                 | IV only.                                          |
+|               |                  |                                                    |                                                              | * ↑ QTc                                           |
+|               |                  |                                                    |                                                              | * Psychosis                                       |
++---------------+------------------+----------------------------------------------------+--------------------------------------------------------------+---------------------------------------------------+
+| Echinocandins | **Caspofungin**  | * Candida\                                         | * No renal or hepatic dose reduction required                | * Avoid in acute hepatic failure\                 |
+|               |                  | Resistance is rare; may occur with:                | * Very highly protein bound                                  | Results in deranged LFTs, confounding monitoring. |
+|               |                  |     * *C. parapsilosis*                            |                                                              |                                                   |
+|               |                  |     * *C. glabrata*                                |                                                              |                                                   |
+|               |                  |     * *C. guilliermondii*                          |                                                              |                                                   |
+|               |                  | * Aspergillus\                                     |                                                              |                                                   |
+|               |                  | Not as monotherapy; synergistic with voriconazole. |                                                              |                                                   |
++---------------+------------------+----------------------------------------------------+--------------------------------------------------------------+---------------------------------------------------+
+| Polyenes      | **Amphotericin** | * *Cryptococcus Neoformans*                        | * No hepatic impact\                                         | * Infusion reactions\                             |
+|               |                  | * Dimorphic fungi\                                 | Major role in treating fungal infections in hepatic failure. | Atopic/immune symptoms.                           |
+|               |                  | Change between yeast and mould form.               | * Contraindicated in renal failure                           | * AKI                                             |
+|               |                  | * Moulds                                           |                                                              | * RTA                                             |
+|               |                  | * Otherwise resistant fungi                        |                                                              |                                                   |
++---------------+------------------+----------------------------------------------------+--------------------------------------------------------------+---------------------------------------------------+
 
 :::column-margin
 Liposomal amphotericin has replaced other more toxic amphotericin preparations.
 ::: 
+
+
+
++------------------+-----------------------------------------------------------------------+--------------------------------------------------------------+
+| Drug             | Echinocandins                                                         | Liposomal Amphotericin                                       |
++==================+=======================================================================+==============================================================+
+| Dosing           | * Caspofungin\                                                        | * 3-5mg/kg IV Q24H                                           |
+|                  | 70mg IV load, then 50mg IV daily.                                     |                                                              |
+|                  |     * ↑ Dose if on strong enzyme inducer, e.g. phenytoin, rifampicin. |                                                              |
+|                  | * Anidulafungin\                                                      |                                                              |
+|                  | 200mg IV load, then 100mg IV daily.                                   |                                                              |
+|                  | * Micafungin\                                                         |                                                              |
+|                  | 100-150mg IV daily.                                                   |                                                              |
++------------------+-----------------------------------------------------------------------+--------------------------------------------------------------+
+	
+
+## Dosing
+
+: Dosing of Antifungals
+
++------------------+----------------------------------------+--------------------------------------------------------------------------+
+| Drug             | Indication                             | Dosing                                                                   |
++==================+========================================+==========================================================================+
+| **Amphotericin** | * *Aspergillus*                        | 3-5mg/kg Q24H IV                                                         |
++------------------+----------------------------------------+--------------------------------------------------------------------------+
+| **Fluconazole**  | * Mucocutaneous candidiasis            | CrCl >50: 200-400mg Q24H IV/PO                                           |
+|                  |                                        +--------------------------------------------------------------------------+
+|                  |                                        | CrCl ⩽50: 100-200mg Q24H IV/PO                                           |
+|                  |                                        +--------------------------------------------------------------------------+
+|                  |                                        | IHD: 200-400mg IV/PO post IHD                                            |
+|                  |                                        +--------------------------------------------------------------------------+
+|                  |                                        | CRRT: 800mg load then 400mg IV/PO daily                                  |
++------------------+----------------------------------------+--------------------------------------------------------------------------+
+| **Fluconazole**  | * Candidaemia                          | CrCl >50: 800mg load then 400-800mg Q24H IV/PO                           |
+|                  | * CNS infection                        +--------------------------------------------------------------------------+
+|                  | * Endophthalmitis                      | CrCl ⩽50: 800mg load then 200-400mg Q24H IV/PO                           |
+|                  | * Endocarditis                         +--------------------------------------------------------------------------+
+|                  | * Susceptible dose dependent *Candida* | IHD: 800mg IV/PO post IHD                                                |
+|                  |                                        +--------------------------------------------------------------------------+
+|                  |                                        | CRRT: 800mg Q24H Q24H                                                    |
++------------------+----------------------------------------+--------------------------------------------------------------------------+
+| **Voriconazole** | * *Aspergillus*                        | CrCl >50: 6mg/kg IV ×2 doses (load), then 4mg/kg IV Q12H                 |
+|                  |                                        +--------------------------------------------------------------------------+
+|                  |                                        | CrCl <50: Avoid IV due to risk of accumulation of cyclodextin excipient. |
++------------------+----------------------------------------+--------------------------------------------------------------------------+
+| **Casofungin**   | * General infection                    | 70mg load then 50mg Q24H IV                                              |
+|                  |                                        | 70mg daily if on CYP inducer (e.g. phenytoin, rifampicin)                |
++------------------+----------------------------------------+--------------------------------------------------------------------------+
+| **Caspofungin**  | * Endocarditis                         | 150mg Q24H IV                                                            |
+|                  | * Endovascular infection               |                                                                          |
++------------------+----------------------------------------+--------------------------------------------------------------------------+
+
+:::column-margin
+:::info
+All CrCl values are given in mL/min.
+:::
+:::
 
 ---
 

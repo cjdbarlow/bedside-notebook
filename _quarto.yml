@@ -131,7 +131,7 @@ book:
         - part: <hr>
         - part: "Airway"
           chapters:
-            - part: "Difficult Airway"
+            - part: "Advanced Airway"
               chapters:
               - management/airway/planning.qmd
               - management/airway/difficult.qmd

@@ -95,13 +95,15 @@ Or, "The patient is in AF, I note the heparin infusion and wonder if this is the
 
 * Mode
 * Oxygenation
-	* FiO~2~
-	* PEEP
+	* **FiO~2~**
+	* **PEEP**
 	* Quick assessment of A-a gradient based on SpO~2~ and FiO~2~
 * Ventilation
 	* Minute ventilation
-	* Dynamic compliance
-	* Consider assessing plateau pressure if evidence of reduced compliance.
+	* **Dynamic compliance**
+		* **Peak pressure**
+		* **Plateau pressure**
+	* Consider assessing plateau pressure to determine static compliance if dynamic compliance is ↓
 * Disease-specific ventilation strategies
 * "Extubatable settings?"
 * Airway suction
@@ -247,6 +249,13 @@ Indicate gastroparesis.
 :::column-margin
 ![Aspirated Nasogastric Feed](/resources/asp_feed.jpg)
 :::
+
+
+### External Ventricular Drain
+
+* Set height
+* Open or closed
+* Colour of CSF
 
 
 ### Stool

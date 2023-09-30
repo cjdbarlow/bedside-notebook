@@ -60,7 +60,7 @@ Regular clinical assessment.
 | Overview         |                                  | Calcium sensitiser that ↑ myocardial contraction with minimal ↑ in O~2~ demand |
 |                  |                                  |                                                                                |
 +------------------+----------------------------------+--------------------------------------------------------------------------------+
-| Dosing           | 0-0.5µg/kg/min                   | 10.5mg over 24 hours                                                           |
+| Dosing           | 0-0.5µg/kg/min                   | 12.5mg over 24 hours                                                           |
 +------------------+----------------------------------+--------------------------------------------------------------------------------+
 | Relative Actions | * ↑ Inotropy                     | * ↑ Inotropy                                                                   |
 |                  | * ↓ SVR                          | * ↓ SVR                                                                        |

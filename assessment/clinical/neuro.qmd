@@ -14,6 +14,7 @@ Testing and diagnosis of brain death is covered under @sec-braindeath.
     * Respiratory pattern
     * Limited cranial nerves
     * Limited peripheral motor
+        * Reflexes
 * **Uncooperative**
     * Variable
 * **Cooperative**

@@ -2,53 +2,48 @@
 
 : Comparison of Antibiotic Classes
 
-+---------------------+------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-| Class               | Pharmacokinetics                                                                   | Dosing Considerations                                                                      |
-+=====================+====================================================================================+============================================================================================+
-| **β-lactams**\      | * Bactericidal                                                                     | * More frequent dosing may be more effective                                               |
-| Including:          | * Slow                                                                             |                                                                                            |
-|                     | * Time dependent\                                                                  |                                                                                            |
-| * Penicillins       | Ideally 4-5 times MIC, and >0.4 (40%) throughout.                                  |                                                                                            |
-| * Cephalosporins    | * No significant post-antibiotic effect                                            |                                                                                            |
-|                     | * Reasonable tissue penetration                                                    |                                                                                            |
-+---------------------+------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-| **Carbapenems**     | * Bactericidal                                                                     |                                                                                            |
-|                     | * Slow                                                                             |                                                                                            |
-|                     | * Time dependent                                                                   |                                                                                            |
-|                     | * Post-antibiotic effect                                                           |                                                                                            |
-|                     | * Reasonable tissue penetration                                                    |                                                                                            |
-+---------------------+------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-| **Aminoglycosides** | * Bactericidal                                                                     | Dose at 5-7mg/kg, with interval based on creatinine clearance:                             |
-|                     | * Fast                                                                             |                                                                                            |
-|                     | * Concentration-dependent                                                          | * \>60mL/min: Daily                                                                        |
-|                     | * Significant post-antibiotic effect\                                              | * 40-59mL/min:> 36 hourly                                                                  |
-|                     | Duration related to height of peak concentration.                                  | * 20-39mL/min: 48 hourly                                                                   |
-|                     | * Single-daily dosing more effective than multiple daily dosing                    |                                                                                            |
-|                     | * **Poor distribution into tissues**\                                              | Consider trough levels:                                                                    |
-|                     | Less effective in solid organ infections, ↑↑ V~D~ with extravascular fluid shifts. |                                                                                            |
-|                     |                                                                                    | * Gentamicin <1mg/L                                                                        |
-|                     |                                                                                    | * Amikacin <5mg/L                                                                          |
-|                     |                                                                                    |                                                                                            |
-|                     |                                                                                    | Aminoglycosides are structurally dissimilar enough such that resistance is drug-dependent. |
-+---------------------+------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-| **Quinolones**      | * Bactericidal                                                                     |                                                                                            |
-|                     | * Fast                                                                             |                                                                                            |
-|                     | * Concentration and time dependent\                                                |                                                                                            |
-|                     | Area under the inhibitor curve; i.e. AUC or MIC >125.                              |                                                                                            |
-|                     | * Some post-antibiotic effect                                                      |                                                                                            |
-|                     | * Very **high tissue penetration**                                                 |                                                                                            |
-+---------------------+------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-| **Glycopeptides**   | * Mostly bactericidal, bacteriostatic against enterococci                          | * Vancomycin  20-25mg/L\                                                                   |
-|                     | * Post-antibiotic effect, even if sub MIC                                          | Continuous infusion.                                                                       |
-|                     | * **Poor distribution into tissues**\                                              |                                                                                            |
-|                     | Less effective in solid organ infections, ↑↑ V~D~ with extravascular fluid shifts. |                                                                                            |
-+---------------------+------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-| **Linezolid**       | * No drug monitoring                                                               | * No dose adjustment required in renal failure                                             |
-|                     | * Good tissue penetration                                                          |                                                                                            |
-|                     | * Drug interactions                                                                |                                                                                            |
-|                     |     * Serotonin syndrome                                                           |                                                                                            |
-|                     | * Thrombocytopaenia                                                                |                                                                                            |
-+---------------------+------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
++---------------------+------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------+
+| Class               | Pharmacokinetics                                                                   | Considerations                                                                               |
++=====================+====================================================================================+==============================================================================================+
+| **Aminoglycosides** | * Bactericidal                                                                     | * Aminoglycosides are structurally dissimilar enough such that resistance is drug-dependent. |
+|                     | * Fast                                                                             | * Consider performing levels:\                                                               |
+|                     | * Concentration-dependent                                                          |     * Peak levels 30 minutes after 3^rd^ dose                                                |
+|                     | * Significant post-antibiotic effect\                                              |     * Trough levels 30 minutes prior to 4^th^ dose                                           |
+|                     | Duration related to height of peak concentration.                                  |     * Peri-IHD levels: Trough levels 30 minutes after IHD                                    |
+|                     | * Single-daily dosing more effective than multiple daily dosing                    |                                                                                              |
+|                     | * **Poor distribution into tissues**\                                              |                                                                                              |
+|                     | Less effective in solid organ infections, ↑↑ V~D~ with extravascular fluid shifts. |                                                                                              |
+|                     | * Synergistic in treatment of some Gram positive infections, including:            |                                                                                              |
+|                     |     * *Streptococci*\                                                              |                                                                                              |
+|                     |     *S. gallolyticus*, *S. bovis*, *S. viridans*                                   |                                                                                              |
+|                     |     * Some *Staphlococci* and *Enterococci*                                        |                                                                                              |
++---------------------+------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------+
+| **β-lactams**\      | * Bactericidal                                                                     | * More frequent dosing may be more effective                                                 |
+| Including:          | * Slow                                                                             |                                                                                              |
+|                     | * Time dependent\                                                                  |                                                                                              |
+| * Penicillins       | Ideally 4-5 times MIC, and >0.4 (40%) throughout.                                  |                                                                                              |
+| * Cephalosporins    | * Generally significant post-antibiotic effect\                                    |                                                                                              |
+| * Carbapenems       | Notable exception of carbapenems.                                                  |                                                                                              |
+|                     | * Reasonable tissue penetration                                                    |                                                                                              |
++---------------------+------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------+
+| **Glycopeptides**   | * Mostly bactericidal, bacteriostatic against enterococci                          | * Vancomycin  20-25mg/L\                                                                     |
+|                     | * Post-antibiotic effect, even if sub MIC                                          | Continuous infusion.                                                                         |
+|                     | * **Poor distribution into tissues**\                                              |                                                                                              |
+|                     | Less effective in solid organ infections, ↑↑ V~D~ with extravascular fluid shifts. |                                                                                              |
++---------------------+------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------+
+| **Linezolid**\      | * No drug monitoring                                                               | * No dose adjustment required in renal failure                                               |
+|                     | * Good tissue penetration                                                          |                                                                                              |
+|                     | * Drug interactions                                                                |                                                                                              |
+|                     |     * Serotonin syndrome                                                           |                                                                                              |
+|                     | * Thrombocytopaenia                                                                |                                                                                              |
++---------------------+------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------+
+| **Quinolones**      | * Bactericidal                                                                     |                                                                                              |
+|                     | * Fast                                                                             |                                                                                              |
+|                     | * Concentration and time dependent\                                                |                                                                                              |
+|                     | Area under the inhibitor curve; i.e. AUC or MIC >125.                              |                                                                                              |
+|                     | * Some post-antibiotic effect                                                      |                                                                                              |
+|                     | * Very **high tissue penetration**                                                 |                                                                                              |
++---------------------+------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------+
 
 :::column-margin
 Carbapenems are also β-lactams, but have been separated here due to different pharmacokinetic properties.
@@ -58,10 +53,320 @@ Carbapenems are also β-lactams, but have been separated here due to different p
 {{< include /includes/weight.qmd >}}
 :::
 
+## Dosing
+
+: Dosing of Aminoglycosides
+
++----------------+----------------------------+--------------------------------------------------+
+| Drug           | Indication                 | Dosing                                           |
++================+============================+==================================================+
+| **Amikacin**   | Conventional               | CrCl >60: 5-7mg/kg Q8H IV                        |
+|                |                            +--------------------------------------------------+
+|                |                            | CrCl 40-60: 5-7mg/kg Q12H IV                     |
+|                |                            +--------------------------------------------------+
+|                |                            | CrCl 20-40: 5-7.5mg/kg Q24H IV                   |
+|                |                            +--------------------------------------------------+
+|                |                            | CrCl <5: 5mg/kg IV load, then dose by level      |
+|                |                            +--------------------------------------------------+
+|                |                            | IHD: 5-7.5mg/kg IV post IHD                      |
+|                |                            +--------------------------------------------------+
+|                |                            | CRRT: 10mg/kg IV load, then 7.5mg/kg IV Q24-48H  |
++----------------+----------------------------+--------------------------------------------------+
+|                | High-dose                  | CrCl >60: 15-20mg/kg Q24H IV                     |
+|                |                            +--------------------------------------------------+
+|                |                            | CrCl 40-60: 15mg/kg Q36H IV                      |
+|                |                            +--------------------------------------------------+
+|                |                            | CrCl 30-40: 15mg/kg Q48H IV                      |
+|                |                            +--------------------------------------------------+
+|                |                            | CrCl <30: 7.5mg/kg Q48-72 hours IV\              |
+|                |                            | Not recommended for high dosing at this level.   |
++----------------+----------------------------+--------------------------------------------------+
+| **Gentamycin** | * Gram negative infection\ | CrCl >60: 5-7mg/kg Q24H                          |
+|                | Aim for:                   +--------------------------------------------------+
+|                |     * Peak: 4-8mg/L        | CrCl 40-60: 5-7mg/kg Q36H                        |
+|                |     * Trough: 1-2mg/L      +--------------------------------------------------+
+|                |                            | CrCl 20-40: 1.7mg/kg Q24H                        |
+|                |                            +--------------------------------------------------+
+|                |                            | CrCl <20: 2mg/kg IV load, then dose as per level |
+|                |                            +--------------------------------------------------+
+|                |                            | IHD: 2mg/kg IV load, then 1.5mg/kg IV post IHD   |
+|                |                            +--------------------------------------------------+
+|                |                            | CRRT: 1.5-2.5mg/kg Q24-48H IV                    |
++----------------+----------------------------+--------------------------------------------------+
+|                | * Gram positive synergy\   | CrCl >60: 5-7mg/kg Q24H                          |
+|                | Aim for:                   +--------------------------------------------------+
+|                |     * Peak: 3-4mg/L        | CrCl 40-60: 5-7mg/kg Q36H                        |
+|                |     * Trough: <1mg/L       +--------------------------------------------------+
+|                |                            | CrCl 20-40: 1.7mg/kg Q24H                        |
+|                |                            +--------------------------------------------------+
+|                |                            | CrCl <20: 2mg/kg IV load, then dose as per level |
+|                |                            +--------------------------------------------------+
+|                |                            | IHD: 2mg/kg IV load, then 1.5mg/kg IV post IHD   |
+|                |                            +--------------------------------------------------+
+|                |                            | CRRT: 1.5-2.5mg/kg Q24-48H IV                    |
++----------------+----------------------------+--------------------------------------------------+
+
+:::column-margin
+:::info
+All CrCl values are given in mL/min.
+:::
+:::
+
+: Dosing of β-lactams
+
++---------------------------------------+------------------------------+------------------------------------+
+| Drug                                  | Indication                   | Dosing                             |
++=======================================+==============================+====================================+
+| **Ampicillin**                        | * Uncomplicated infection    | CrCl >50: 1-2g Q6H IV              |
+|                                       | * Mild infection             +------------------------------------+
+|                                       |                              | CrCl 10-50: 1g Q6-8H               |
+|                                       |                              +------------------------------------+
+|                                       |                              | CrCl <10: 1g Q12H IV               |
+|                                       |                              +------------------------------------+
+|                                       |                              | IHD: 1g Q12H IV                    |
+|                                       |                              +------------------------------------+
+|                                       |                              | CRRT: 2g Q6-12H IV                 |
++---------------------------------------+------------------------------+------------------------------------+
+|                                       | * Meningitis                 | CrCl >50: 2g Q4H IV                |
+|                                       | * Endovascular               +------------------------------------+
+|                                       | * Prosthetic joint           | CrCl 10-50: 2g Q6-12H IV           |
+|                                       |                              +------------------------------------+
+|                                       |                              | CrCl <10: 2g Q12-24H IV            |
+|                                       |                              +------------------------------------+
+|                                       |                              | IHD: 2g Q12-24H IV                 |
+|                                       |                              +------------------------------------+
+|                                       |                              | CRRT: 2g Q6H IV                    |
++---------------------------------------+------------------------------+------------------------------------+
+| **Piperacillin/tazobactam** (tazocin) | * General infection          | CrCl >40: 3.375mg Q6H IV           |
+|                                       |                              +------------------------------------+
+|                                       |                              | CrCl 20-40: 2.25g Q6H IV           |
+|                                       |                              +------------------------------------+
+|                                       |                              | CrCl <20: 2.25g Q8H IV             |
+|                                       |                              +------------------------------------+
+|                                       |                              | IHD: 2.25g Q12H IV                 |
+|                                       |                              +------------------------------------+
+|                                       |                              | CRRT: 3.375g Q6H IV                |
++---------------------------------------+------------------------------+------------------------------------+
+|                                       | * Severe infection           | CrCl >50: 4.5g Q6H IV              |
+|                                       | * Sepsis                     +------------------------------------+
+|                                       | * Cystic fibrosis            | CrCl 10-50: 3.375g Q6H IV          |
+|                                       | * HAP/VAP                    +------------------------------------+
+|                                       | * *Pseudomonas*              | CrCl <10: 2.25g Q6H IV             |
+|                                       |                              +------------------------------------+
+|                                       |                              | IHD: 3.375g Q12H IV                |
+|                                       |                              +------------------------------------+
+|                                       |                              | CRRT: 3.375-4.5g Q8H IV            |
++---------------------------------------+------------------------------+------------------------------------+
+| **Cefepime**                          | * General infection          | CrCl >60: 1g Q8H IV                |
+|                                       |                              +------------------------------------+
+|                                       |                              | CrCl 30-50: 1g Q12H IV             |
+|                                       |                              +------------------------------------+
+|                                       |                              | CrCl 10-30: 1g Q24H IV             |
+|                                       |                              +------------------------------------+
+|                                       |                              | CrCl <10: 500mg Q24H IV            |
+|                                       |                              +------------------------------------+
+|                                       |                              | IHD: 0.5-1g IV Q24H daily\         |
+|                                       |                              | After IHD on IHD days.             |
+|                                       |                              +------------------------------------+
+|                                       |                              | CRRT: 2g IV load, then 1g IV Q8H   |
++---------------------------------------+------------------------------+------------------------------------+
+|                                       | * Pulmonary infection        | CrCl >50: 2g Q8H IV                |
+|                                       | * Neutropenic sepsis         +------------------------------------+
+|                                       | * CNS infection              | CrCl 10-50: 2g Q12H IV             |
+|                                       | * *Pseudomonas* infection    +------------------------------------+
+|                                       | * Severe infection           | CrCl <10: 1g Q12H IV               |
+|                                       |                              +------------------------------------+
+|                                       |                              | IHD: 0.5-1g Q24H IV\               |
+|                                       |                              | After IHD on IHD days.             |
+|                                       |                              +------------------------------------+
+|                                       |                              | CRRT: 2g IV load, then 1g IV Q8H   |
++---------------------------------------+------------------------------+------------------------------------+
+| **Ceftaroline**                       | * General infection          | CrCl >50: 600mg Q12H IV            |
+|                                       |                              +------------------------------------+
+|                                       |                              | CrCl 30-50: 400mg Q12H IV          |
+|                                       |                              +------------------------------------+
+|                                       |                              | CrCl 15-30: 300mg Q12H IV          |
+|                                       |                              +------------------------------------+
+|                                       |                              | CrCl <15: 200mg Q12H IV            |
+|                                       |                              +------------------------------------+
+|                                       |                              | IHD: 200mg Q8-12H IV               |
++---------------------------------------+------------------------------+------------------------------------+
+|                                       | * Endocarditis               | CrCl >50: 600mg Q8H IV             |
+|                                       | * *S. aureus* bacteraemia    +------------------------------------+
+|                                       |                              | CrCl 30-50: 400mg Q8H IV           |
+|                                       |                              +------------------------------------+
+|                                       |                              | CrCl 15-30: 300mg Q8H IV           |
+|                                       |                              +------------------------------------+
+|                                       |                              | CrCl <15: 200mg Q8H IV             |
+|                                       |                              +------------------------------------+
+|                                       |                              | IHD: 200mg Q8-12H IV               |
++---------------------------------------+------------------------------+------------------------------------+
+| **Ceftriaxone**                       | * General infection          | 1-2g Q24H IV\                      |
+|                                       |                              | No renal dose adjustment required. |
++---------------------------------------+------------------------------+------------------------------------+
+|                                       | * Endovascular               | 2g Q24H IV                         |
+|                                       | * Osteomyelitis              |                                    |
+|                                       | * Prosthetic joint infection |                                    |
++---------------------------------------+------------------------------+------------------------------------+
+|                                       | * Meningitis                 | 2g Q12H IV                         |
+|                                       | * *E. faecalis* endocaditis  |                                    |
++---------------------------------------+------------------------------+------------------------------------+
+| **Meropenem**                         | * Febrile neutropaenia       | CrCl >50: 1g Q8H IV                |
+|                                       | * HAP/VAP                    +------------------------------------+
+|                                       | * *Pseudomonas*              | CrCl 25-50: 1g Q12H IV             |
+|                                       |                              +------------------------------------+
+|                                       |                              | CrCl 10-25: 0.5g Q12H IV           |
+|                                       |                              +------------------------------------+
+|                                       |                              | CrCl <10: 0.5g Q24H IV             |
+|                                       |                              +------------------------------------+
+|                                       |                              | IHD: 500mg Q24H IV                 |
+|                                       |                              +------------------------------------+
+|                                       |                              | CRRT: 1g Q8H IV                    |
++---------------------------------------+------------------------------+------------------------------------+
+| **Meropenem**                         | * Meningitis/encephalitis    | CrCl >50: 2g Q8H IV                |
+|                                       | * Cystic fibrosis            +------------------------------------+
+|                                       | * Severe infection           | CrCl 25-50: 2g Q12H IV             |
+|                                       |                              +------------------------------------+
+|                                       |                              | CrCl 10-25: 1g Q12H IV             |
+|                                       |                              +------------------------------------+
+|                                       |                              | CrCl <10: 1g Q24H IV               |
+|                                       |                              +------------------------------------+
+|                                       |                              | IHD: 1g Q24H IV                    |
+|                                       |                              +------------------------------------+
+|                                       |                              | CRRT: 2g Q12H IV                   |
++---------------------------------------+------------------------------+------------------------------------+
+
+: Dosing of Lincomycins
+
++-----------------+------------+---------------------------------------+
+| Drug            | Indication | Dosing                                |
++=================+============+=======================================+
+| **Clindamycin** |            | 600-900mg IV Q8H or 150-450mg PO Q6H\ |
+|                 |            | No renal dose adjustment required.    |
++-----------------+------------+---------------------------------------+
+
+: Dosing of Nitroimidazoles
+
++-------------------+------------+-------------------------------------------------------------------------------------+
+| Drug              | Indication | Dosing                                                                              |
++===================+============+=====================================================================================+
+| **Metronidazole** |            | 500mg Q6-8H PO or 400mg Q6-8H IV\                                                   |
+|                   |            | \                                                                                    |
+|                   |            | No renal dose adjustment required, consider ↓ to Q12H in severe hepatic impairment. |
++-------------------+------------+-------------------------------------------------------------------------------------+
+
+
+: Dosing of Macrolides
+
++------------------+------------+------------------------------------+
+| Drug             | Indication | Dosing                             |
++==================+============+====================================+
+| **Azithromycin** |            | 500mg IV/PO Q24H\                  |
+|                  |            | No renal dose adjustment required. |
++------------------+------------+------------------------------------+
+
+: Dosing of Monobactams
+
++---------------+--------------------+----------------------------------+
+| Drug          | Indication         | Dosing                           |
++===============+====================+==================================+
+| **Aztreonam** | * General          | CrCl >50: 1-2g Q8H IV            |
+|               |                    +----------------------------------+
+|               |                    | CrCl 10-50: 1g Q8H IV            |
+|               |                    +----------------------------------+
+|               |                    | CrCl <10: 500mg Q8H IV           |
+|               |                    +----------------------------------+
+|               |                    | IHD: 1g Q24H IV                  |
+|               |                    +----------------------------------+
+|               |                    | CRRT: 2g IV load, then 1g IV Q8H |
++---------------+--------------------+----------------------------------+
+|               | * Severe infection | CrCl >50: 2g Q6-8H IV            |
+|               | * Meningitis       +----------------------------------+
+|               |                    | CrCl 10-50: 1g Q6-8H IV          |
+|               |                    +----------------------------------+
+|               |                    | CrCl <10: 1g Q12H IV             |
+|               |                    +----------------------------------+
+|               |                    | IHD: 1g Q12H IV                  |
+|               |                    +----------------------------------+
+|               |                    | CRRT: 2g IV Q12H IV              |
++---------------+--------------------+----------------------------------+
+
+: Dosing of Oxazolidinones
+
++---------------+------------+------------------------------------+
+| Drug          | Indication | Dosing                             |
++===============+============+====================================+
+| **Linezolid** | * General  | 600mg Q12H IV/PO                   |
+|               |            | No renal dose adjustment required. |
++---------------+------------+------------------------------------+
+
+: Dosing of Sulfonamides
+
++-----------------------------------+------------------------------------+---------------------------------------+
+| Drug                              | Indication                         | Dosing                                |
++===================================+====================================+=======================================+
+| **Trimethoprim/sulfamethoxazole** | * S. aureus*                       | CrCl >30: 4-5mg/kg of TMP Q12H        |
+|                                   | * Gram negative bacteraemia        +---------------------------------------+
+|                                   |                                    | CrCl 15-30: 2-2.5mg/kg of TMP Q12H    |
+|                                   |                                    +---------------------------------------+
+|                                   |                                    | CrCl <15:                             |
+|                                   |                                    +---------------------------------------+
+|                                   |                                    | IHD: 2.5-5mg/kg of TMP Q24H           |
+|                                   |                                    +---------------------------------------+
+|                                   |                                    | CRRT: 2.5-5mg/kg Q12H                 |
++-----------------------------------+------------------------------------+---------------------------------------+
+| **Trimethoprim/sulfamethoxazole** | * Stenotrophomonas                 | CrCl >30: 5-7.5mg/kg of TMP Q12H      |
+|                                   | * Pneumocystis jirovecii pneumonia +---------------------------------------+
+|                                   |                                    | CrCl 15-30: 2.5-3.75mg/kg of TMP Q12H |
+|                                   |                                    +---------------------------------------+
+|                                   |                                    | CrCl <15: 2.5-3.75mg/kg of TMP Q12H\  |
+|                                   |                                    | Use not recommended.                  |
+|                                   |                                    +---------------------------------------+
+|                                   |                                    | IHD: 5-7.5mg/kg of TMP Q24H           |
+|                                   |                                    +---------------------------------------+
+|                                   |                                    | CRRT: 5mg/kg of TMP Q8H               |
++-----------------------------------+------------------------------------+---------------------------------------+
+
+
+: Dosing of Tetracyclines
+
++-----------------+------------+--------------------------------------------+
+| Drug            | Indication | Dosing                                     |
++=================+============+============================================+
+| **Doxycycline** | * General  | 100mg Q12H IV/PO\                          |
+|                 |            | Consider 200mg load for severe infections. |
++-----------------+------------+--------------------------------------------+
+
+
+: Dosing of Quinolones
+
++-------------------+---------------------------+----------------------------------------------+
+| Drug              | Indication                | Dosing                                       |
++===================+===========================+==============================================+
+| **Ciprofloxacin** | * General infection       | CrCl ⩾30: 400mg Q12H IV or 500mg Q12H PO     |
+|                   |                           +----------------------------------------------+
+|                   |                           | CrCl <30: 400mg Q24H IV or 500mg Q12H PO     |
+|                   |                           +----------------------------------------------+
+|                   |                           | IHD: 200-400mg Q12H IV or 250-500mg Q24H PO  |
+|                   |                           +----------------------------------------------+
+|                   |                           | CRRT: 400mg Q12H IV or 500mg Q12H PO         |
++-------------------+---------------------------+----------------------------------------------+
+|                   | * *Pseudomonas* infection | CrCl >50: 400mg Q8H IV or 750mg Q12H PO      |
+|                   |                           +----------------------------------------------+
+|                   |                           | CrCl 30-50: 400mg Q8-12H IV or 500mg Q12H PO |
+|                   |                           +----------------------------------------------+
+|                   |                           | CrCl <30: 400mg Q12H IV or 500mg Q24H PO     |
+|                   |                           +----------------------------------------------+
+|                   |                           | IHD: 200-400mg Q12H IV or 250-500mg Q24H PO  |
+|                   |                           +----------------------------------------------+
+|                   |                           | CRRT: 400mg Q12H IV or 500mg Q12H PO         |
++-------------------+---------------------------+----------------------------------------------+
+| **Moxifloxacin**  |                           | 400mg Q24H IV/PO                             |
++-------------------+---------------------------+----------------------------------------------+
 
 ---
 
 ## References
 
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
-1. Rubinstein E, Keynan Y. Vancomycin Revisited – 60 Years Later. Frontiers in Public Health. 2014;2. Accessed May 3, 2023. https://www.frontiersin.org/articles/10.3389/fpubh.2014.00217
+1. Rubinstein E, Keynan Y. [Vancomycin Revisited – 60 Years Later](https://www.frontiersin.org/articles/10.3389/fpubh.2014.00217). Frontiers in Public Health. 2014;2. Accessed May 3, 2023.

@@ -141,9 +141,80 @@ Structures for specific question formats:
 
 ## Oral Exam
 
+### Viva
+
 {{< include /includes/viva.qmd >}}
+
+
+### Hot Case
+
+The hot case is the only part of the exam that to assesses a candidate at the bedside. The hot case is:
+
+* Artificial
+* Incompletely correlated with clinical skill
+	* Hot case practice ↑ hot case performance
+* Routinely performed poorly
+	* 60-70% of candidates pass
+	* Only 30% of candidates pass both cases
+* Composed of several stages:
+	* **Clinical question**\
+	Brief stem with incomplete information, and a clinical question.
+	* **Reading time**\
+	2 minutes. Decide:
+		* What potential clinical problems may this patient have?
+		* What part of the examinations should be focused on?
+		* Likely follow-up questions
+	* **Entrance**
+		* Lights
+		* Gel hands
+		* Introduce yourself:
+			* To the patient
+			* To the nurse
+		* Ask about relevant **position restrictions** and **languages barriers**
+	* **End-of-bed-o-gram**\
+	Stand at the foot of the bed and identify key room equipment.
+	* **Orbit**\
+	Circle the bed space to identify:
+		* Infusions
+			* Nutrition
+		* Ventilation\
+		Ask about:
+			* **Sputum**
+			* Ventilator settings, if unfamiliar
+		* Monitor\
+		Ask for **fevers**.
+		* Catheters and drains\
+		Ask for:
+			* **Urine output**
+	* **Clinical examination**\
+		* Begin with adequate exposure
+		* Structured approach
+		* Can ask key, targeted, relevant questions\
+		Must be balanced.
+			* Too many unnecessary or boilerplate questions suggest a lack of direction or though
+			* Too few questions means key information may not be provided
+	* **Intermission**\
+	Brief period during which:
+		* PPE is doffed
+		* Hand hygiene occurs
+		* The clock is stopped
+		* You can collate your thoughts and prepare the presentation
+	* **Presentation**\
+	3-5 minute presentation that:
+		* **Answers the question**
+		* Justifies that answer
+		* Includes either:
+			* Assumptions
+			* Additional investigations
+	* **Further questioning**
+
+:::column-margin
+The end-of-bed-o-gram and orbit provide the majority of useful clinical information, do not neglect them. Touching the patient is expected to occur at some point however, usually by the 2-3 minute mark.
+:::
 
 
 ---
 
 ## References
+
+1. Hoffman, K. [How the Hot Case Works](https://intensiveblog.com/how-the-hot-case-works/). Intensive. 2021.
