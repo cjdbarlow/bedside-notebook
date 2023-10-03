@@ -18,17 +18,7 @@ My preference for nomenclature is to use the umbrella term **vasoactive** for al
 * **Vasodilator** for agents that ↓ SVR
 :::
 
-## Practice
-
-* Goal is restoration of tissue perfusion\
-Regular clinical assessment.
-* Circulatory failure
-* Invasive arterial monitoring
-
-## Contraindications
-
-
-## Comparison
+## Principles
 
 : Comparison of Catecholamine Inotropes
 
@@ -77,6 +67,14 @@ Regular clinical assessment.
 |                  | * Longer t~1/2~ ↓ titrateability |                                                                                |
 |                  | * Renally cleared                |                                                                                |
 +------------------+----------------------------------+--------------------------------------------------------------------------------+
+
+
+## Practice
+
+* Goal is restoration of tissue perfusion\
+Regular clinical assessment.
+* Circulatory failure
+* Invasive arterial monitoring
 
 
 ## Key Studies

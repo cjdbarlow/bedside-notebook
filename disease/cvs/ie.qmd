@@ -40,6 +40,7 @@ Bacterial infection predominates, common causative organisms include:
 * Gram positive cocci
     * *Staphylococci*
     * *Streptococci*
+        * *S. Mitis* and *S. viridans* endocarditis and bacteraemia are associated with colonic polyps and may precede colon cancer
     * *Enterococci*
 * Gram negatives
     * *Coxiella burnetii*
@@ -110,6 +111,10 @@ Fungal endocarditis is rare, and seen with:
     Particularly strokes. 
 
 **Other**:
+
+* Colonoscopy\
+If *S. mitis* or *S. viridans* as the causative organism.
+
 
 ### Diagnostic Approach and DDx
 
@@ -217,3 +222,4 @@ Varies depending on the extent of valvular disease and severity of systemic infe
 ## References
 
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. Sharma A, Masood U, Kahlon A, Pattar S, Iqbal S, Lehmann D. [Streptococcus Mitis Bacteremia and Endocarditis: An Early Sign in Pre-Cancerous Colon Polyps: 1366](https://journals.lww.com/ajg/Fulltext/2016/10001/Streptococcus_Mitis_Bacteremia_and_Endocarditis_.1366.aspx). Official journal of the American College of Gastroenterology | ACG. 2016;111:S616.

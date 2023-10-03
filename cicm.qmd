@@ -201,7 +201,16 @@ The hot case is the only part of the exam that to assesses a candidate at the be
 		* You can collate your thoughts and prepare the presentation
 	* **Presentation**\
 	3-5 minute presentation that:
-		* **Answers the question**
+		* Should be concise, comprehensive, and *rapidly* delivered
+		* Consists of:
+			* A **brief**, 1-2 sentence **introduction** that provides an overview of the clinical scenario
+			* **Answers the question**\
+			This should occur even if the answer is not clear - it will often be contingent on the availability and interpretation of ancillary information.
+			* Provides a **rationale** for the answer\
+			Signposted, systematic description of the justifications for that answer.
+			* Outlines any **caveats**\
+			Signposted, systematic list of any concerns that may impact your decision, and how you plan to investigate them.
+			* A list of relevant positive and negative findings from the clinical examination
 		* Justifies that answer
 		* Includes either:
 			* Assumptions
@@ -210,6 +219,10 @@ The hot case is the only part of the exam that to assesses a candidate at the be
 
 :::column-margin
 The end-of-bed-o-gram and orbit provide the majority of useful clinical information, do not neglect them. Touching the patient is expected to occur at some point however, usually by the 2-3 minute mark.
+:::
+
+:::column-margin
+The hot case is like a tennis match in that the only part of the game that you can control is the serve - these are the examination and the opening of the presentation. Maximise this time.
 :::
 
 

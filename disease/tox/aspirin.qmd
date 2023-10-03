@@ -52,9 +52,11 @@ Severe:
 * Dose\
 Risk assessment:
 	* <150mg/kg: Minimal
-	* 150-300mg/kg: Mild-moderate
+	* 150-300mg/kg: Mild-moderate\
+	Recommend activated charcoal.
 	* \>300mg/kg: Severe intoxication, metabolic acidosis and neurological features expected
-	* \>500mg/kg: Potentially lethal
+	* \>500mg/kg: Potentially lethal\
+	Consider gastric lavage.
 
 **Exam**:
 

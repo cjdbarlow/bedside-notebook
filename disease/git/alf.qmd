@@ -389,22 +389,26 @@ Referral if:
 
 Spontaneous recovery occurs in only **40%**. Factors:
 
-* Age
+* Age\
 ↑ Mortality with ↑ age.
-* Aetiology
+* Aetiology\
 ↓ Mortality with pregnancy-related causes.
 * Acuity\
 ↑ Mortality with ↑ acuity.
 
+
 Transplantation:
 
 * 80% 5-year survival following liver transplant for ALF
+
 
 ### Scoring {#sec-alfscoring}
 
 :::info
 Eligibility for transplantation is determined using one of the prognostic scores, such as MELD or the King's College criteria.
 :::
+
+: King's College Criteria for Liver Transplantation
 
 +-----------------------------+-----------------------------+
 | Paracetamol Toxicity        | Other Cause                 |
@@ -420,8 +424,6 @@ Eligibility for transplantation is determined using one of the prognostic scores
 |                             | * Bilirubin >300μmol/L      |
 |                             | * PT >50s                   |
 +-----------------------------+-----------------------------+
-
-: King's College Criteria for Liver Transplantation
 
 The King's criteria are widely used but validation is less well supported, particularly in the paracetamol cohort.
 

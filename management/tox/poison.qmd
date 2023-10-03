@@ -20,21 +20,46 @@ Covered under the specific drug overdose.
 
 ## Resuscitation
 
+:::caution
+Most poisonings should be treated on the basis of observed clinical toxicity rather than measured plasma drug concentrations.
+:::
+
 * A
 	* Remove dentures
 	* Clear oropharynx
-	* Tracheal intubation in almost all cases
+	* Tracheal **intubation** for patients with compromised respiratory or neurological state
 * B
 	* Supplemental oxygen
 	* Respiratory acidosis generally indicates need for assisted ventilation
 * C
 	* Venous access
-	* Fluid resuscitation or vasoactives as required
+	* **Fluid resuscitation** is first line **for hypotension**
+	* **Arrhythmias** should **generally not be treated with antiarrythmics** as a first line approach\
+	Many antiarrythmics are pro-arrhythmic and negatively inotropic.
 	* Cardiovascular monitoring
 	* Consider invasive haemodynamic monitoring
+* D
+	* Benzodiazepines\
+	Are beneficial in many toxidromes for managing:
+		* Seizures
+		* Agitation
+		* Hyperthermia
+	* Correct severe hypoglycaemia with 50mL 50% dextrose
+	* **Naloxone** can be used as a **diagnostic tool**
+* E
+	* **Cool** if **>39°C**
+* F
+	* Maintain good UO\
+	Will optimise renal clearance.
+	* Correct electrolyte abnormalities\
+	Minimise any arrhythmias.
 
 :::column-margin
 Intubation is reasonable to avoid in patients with a GHB or GBL overdose who will reliably resume consciousness in 2-4 hours.
+:::
+
+:::column-margin
+Hyperthermia may precipitate rhabdomyolysis, acute renal failure, and DIC.
 :::
 
 ## Risk Assessment
@@ -171,7 +196,8 @@ Efficacy falls with time since ingestion - give early.
 * 1g/kg up to 50g
 	* May still be given if overdose ↓ gastric emptying or slow-release preparation\
 	e.g. Opioids, anticholinergics, TCA.
-* **Multi-dose** is **useful** for drugs that are **enterohepatically recirculated** or a **slow-release preparation**
+* **Multi-dose activated charcoal** is **useful** for drugs that are **enterohepatically recirculated** or a **slow-release preparation**\
+Repeated dose of charcoal used Q4H, with concurrent use of sorbitol with the first dose to ↓ risk of obstruction.
 * Serious complications are rare, however:
 	* Should **not be given** if **↓ GCS** due to risk of **aspiration**\
 	Intubate, then administer via NG.
@@ -357,24 +383,15 @@ Several exchange runs may be required.
 
 ## Supportive Care
 
-* A
-	* Remain intubated
 * B
 	* Mandatory mode of mechanical ventilation\
 	Compensate for any acid-base disturbances.
-* C
-	* Vasoactive supports
 * D
-	* Benzodiazepines\
-	Are widely indicated in most overdoses.
-* F
-	* Maintain good UO\
-	Will optimise renal clearance.
-	* Maintain normal electrolytes\
-	Minimise any arrhythmias.
+	* Thiamine 300mg for patients at risk of Wernicke's encephalopathy
 
 ---
  
 ## References
 
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. Greene SL, Dargan PI, Jones AL. [Acute poisoning: understanding 90% of cases in a nutshell](https://academic.oup.com/pmj/article/81/954/204/7031872). Postgraduate Medical Journal. 2005;81(954):204-216. doi:10.1136/pgmj.2004.024794
