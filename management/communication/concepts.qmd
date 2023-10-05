@@ -59,6 +59,7 @@ That you've had an emotional response.
 * Engage\
 Continue the conversation.
 
+
 ## Remote
 
 Phone and video conversations are a common way to update family members. Extra considerations include:
@@ -70,12 +71,17 @@ If delivering bad news over the phone, consider a follow-up call after to check 
 * No visual stimulation\
 Describe the surroundings in a reassuring way.
 * No non-verbal communication\
-Extra attention to empathic oral communication.
+Extra attention to empathic oral communication - state things that would be otherwise be conveyed silently.
+	* "I'm listening."
+	* "I'd like to hear more about that."
 * Silence can be more difficult\
-Need to signpost silence - "I'm going to pause to let you take that all in."
+Need to signpost silence:
+	* "I'm going to pause to let you take that all in."
+	* "Let me know when you're ready for me to continue."
 * Technical factors
 	* Call quality
 	* Signal strength
+* Check in before ending the call
 
 
 ## Cultural Humility
@@ -99,11 +105,6 @@ Professional interpreters are the best available option, although bilingual staf
 
 Interpreters should be used when:
 
-* Family requests
-* When people cannot comprehend or respond to questions in English
-* Stressful, complex, or unfamiliar situations
-* When consent is required 
-
 :::column-margin
 Family may request **no** interpreter if:
 
@@ -114,6 +115,11 @@ Family may request **no** interpreter if:
 * Be uncomfortable with gender/religious/ethnic background
 * Worry about cost
 :::
+
+* Family requests
+* When people cannot comprehend or respond to questions in English
+* Stressful, complex, or unfamiliar situations
+* When consent is required 
 
 Using an interpreter:
 
@@ -153,5 +159,6 @@ Children often blame themselves, even when this is irrational.
 ## References
 
 1. CICM Communications Course. Course Notes. 2023.
-2. Core Family Donation Conversation (FDC) Workshop. Course Notes. 2023.
-3. Australian Government Organ and Tissue Authority. Family Donation Conversation Resource Guide V2.0. 2021.
+1. Core Family Donation Conversation (FDC) Workshop. Course Notes. 2023.
+1. Australian Government Organ and Tissue Authority. Family Donation Conversation Resource Guide V2.0. 2021.
+1. Philpot SJ, Bilgrami I, Sullivan L. [Communicating medical information over the telephone in critical care](https://ccr.cicm.org.au/journal-editions/articles/1360). Critical Care and Resuscitation. 2020;22(3). 

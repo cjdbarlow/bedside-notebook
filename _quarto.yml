@@ -694,10 +694,9 @@ book:
           chapters:
           # Acute aortic syndromes
           - disease/cvs/dissection.qmd
-          - disease/cvs/htn.qmd
           - disease/cvs/aaa.qmd
+          - disease/cvs/htn.qmd
           # TAA
-          # AAA
           - disease/cvs/cholesterol_emboli.qmd
         - part: "Pulmonary Vascular"
           chapters:

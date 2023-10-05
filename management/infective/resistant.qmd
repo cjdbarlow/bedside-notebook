@@ -1,6 +1,6 @@
 # Antimicrobial Resistance
 
-Resistance is the complete or partial loss of response of an organism to a certain antimicrobial agent. Resistance is classified into:
+Resistance is the complete or partial loss of response of an organism to a certain antimicrobial agent, and is particularly problematic for Gram negative bacteria which have developed a wide spectrum of resistance to many antibiotic classes. Resistance is classified into:
 
 * Extensive resistance\
 **Resistant** to **2 classes**.
@@ -23,15 +23,15 @@ Broadly, resistance may occur by:
 
 ### Inducible β-lactamase
 
-ESCAPPM/ESCHAPPM are a group of **Gram-negative** organisms which:
+Group of **Gram-negative** organisms which:
 
 * **Rapidly develop resistance** to β-lactam antibiotics
 	* Due to **inducible β-lactamase**\
 	Chromosomal-mediated cephalosporinase enzyme that is strongly selected for in the presence of β-lactam antibiotics.
-	* May be inhibited by tazobactam, and so tazocin may be effective
+	* May be inhibited by tazobactam, and so piperacillin/tazobactam may be effective
 	* General require **treatment** with a **carbapenem**
 * Should be **treated** with **non-β-lactam agents**, even if they initially appear sensitive
-* Include:
+* Include the ESCHAPPM (or ESCAPPM) organisms:
 	* ***E**nterobacter* spp.
 	* ***S**erratia* spp.
 	* ***C**itrobacter*
@@ -66,15 +66,42 @@ Bacteria share chromosomal coding for the β-lactamase between organisms, result
 
 ### Carbapenemases
 
-Organisms with enzyme that inactivates carbapenem antibiotics. Carbapenemases:
+Carbapenems are typically reserved for treating ESBL and AmpC producing organisms, and so carbapenemase-producing organisms are particularly problematic. Carbapenemases are divided into three groups by their **Ambler class**:
 
-* Are produced classically by enterobacteriae, including:
-	* *E. Coli*
-	* *Klebsiella* spp.
-* Include:
-	* Klebsiella Producing Carbapenemase (KPC)
-	* New Delhi metallo-beta-lactamase (NDM-1)
-* Can also spread by plasmid transmission
+:::column-margin
+Although many organisms may produce carbapenemases, carbapenemase-producing *Enterobacteriaceae* (CPE) are of significantly concern due to the native resistance of *Enterobacteriaceae* to many other classes of antibiotics.
+:::
+
+* **Class A**\
+Most common form, which include:
+	* *Klebsiella Pneumoniae* Carbapenemase (KPC)
+	* Imipenem-hydrolysing beta-lactamase
+* **Class B**\
+	* Often found on plasmid vectors\
+	Allows transmission of resistance between organisms.
+	* Significant genetic variability limits testing accuracy
+	* Include:
+		* Metallo-beta-lactamase (NDM-1)
+		* Imipenem-resistant *Pseudomonas*
+		* Verona integron-encoded metallo-lactamase
+* **Class D**\
+	* Oxacillin-hydrolysing carbapenemase
+
+
+Treatment:
+
+* Often difficult due to complex resistance patterns
+* Microbiology and infectious disease involvement recommended
+* Prevention of transmission is critical:
+	* Regular surveillance
+	* Epidemiological assessment of detected cases
+	* Contact precautions for all suspected or confirmed cases
+* Possible antibiotics (often in combination) include:
+	* Carbapenems
+	* Polymyxins (colistin)
+	* Aminoglycosides
+	* Fosfomycin
+	* Tigecycline
 
 
 ## Treatment of Multidrug Resistant Organisms
@@ -112,3 +139,4 @@ Organisms with enzyme that inactivates carbapenem antibiotics. Carbapenemases:
 ## References
 
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. Smith HZ, Kendall B. [Carbapenem Resistant Enterobacteriaceae](http://www.ncbi.nlm.nih.gov/books/NBK551704/). In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023 [cited 2023 Oct 1].

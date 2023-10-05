@@ -7,7 +7,7 @@ Brain death and circulatory death are both death, and do not differ in type or d
 **Brain Death** is the irreversible loss of all functions of the brain, including the brainstem. Brain death is also referred to as neurological death.
 
 :::column-margin
-This covers epidemiology and determination of brain death in a general Australian context. Management of the brain dead patient proceeding to organ donation is covered at @sec-braindeathmx.\
+This covers epidemiology and determination of brain death in a general Australasian context. Management of the brain dead patient proceeding to organ donation is covered at @sec-braindeathmx.\
 \
 Some suggested phrases for describing brain death to families are listed under @sec-donorconvo.
 :::
@@ -34,14 +34,14 @@ The definitions and process discussed here are specific to brain death in the Au
 
 Determination of brain death requires:
 
-* Meeting preconditions
+* Meeting **preconditions**
 	* Consistent lesion
 	* No reversible cause
 	* Possible to diagnose
-* Clinical testing\
-Consists of:
-	* Observation period
-	* Formal testing by two clinicians
+* **Observation period**\
+Sustained period with absence of neurological activity.
+* **Clinical assessment**\
+Formal testing by two clinicians.
 
 :::column-margin
 Time of death is the completion of examination by the second doctor.
@@ -65,10 +65,11 @@ Neuroimaging consistent with acute brain pathology that could cause brain death.
 		* Cough reflex
 	* Normotensive\
 	SBP ≥90mmHg or MAP >60mmHg in adults, or age-appropriate perfusion pressure in children.
-	* No sedation, analgesia 
-	Time for assessment depends on the drugs used and the degree of renal or hepatic dysfunction.
-		* Drug antagonists can be used if concern about persisting effects
+	* No sedation, analgesia\
+	The amount of elapsed time required since the last administration varies on the drugs used and the degree of any renal or hepatic dysfunction.
+		* This is a question of clinical judgment
 		* Thiopentone plasma levels should be <10mg/L
+		* Drug antagonists can be used if concern about persisting effects
 	* No muscle relaxation\
 	Confirm with train-of-four.
 	* Normothermia\
@@ -99,15 +100,8 @@ Conditions which may mimic brain death include:
 	* Organophosphate intoxication
 :::
 
-### Clinical Testing
 
-:::info
-Each Australian state has slightly different requirements around the qualifications, experience, and relationship to the patient of the clinicians determining brain death.
-:::
-
-:::column-margin
-Family should be offered the opportunity to observe clinical testing, after appropriate explanation (particularly about **spinal reflexes**) and support. Consider using the second set of testing, as the family can be warned about any spinal reflexes that may occur.
-:::
+### Observation Period
 
 Prior to performing clinical testing, a minimum of **4 hours** of observation should be performed during which the:
 
@@ -126,7 +120,18 @@ May be mid-sized or dilated.
 Since all patients undergoing brain death testing will be intubated, GCS 3 = GCS 2T.
 :::
 
+
+### Clinical Testing
+
+:::info
+Each Australian state has slightly different requirements around the qualifications, experience, and relationship to the patient of the clinicians determining brain death.
+:::
+
 Clinical testing is performed **separately** by two suitably trained and experienced clinicians (at least one a specialist), and requires:
+
+:::column-margin
+Family should be offered the opportunity to observe clinical testing, after appropriate explanation (particularly about **spinal reflexes**) and support. Consider using the second set of testing, as the family can be warned about any spinal reflexes that may occur.
+:::
 
 * **Coma**\
 GCS 3; with no motor response following painful stimulus applied centrally and to all four limbs.
@@ -176,6 +181,7 @@ The **time of death** is the time of the **second** set of testing. This should 
 * The patient will look the same after they have died as they did before\
 Still warm, "breathing" on the ventilator.
 
+
 ### Spinal Reflexes
 
 Spinal reflexes are movements due to loss of higher centre inhibition of a reflex arc, are **compatible with brain death** and:
@@ -192,6 +198,7 @@ Spinal reflexes are movements due to loss of higher centre inhibition of a refle
 	* Lazarus sign\
 	Bilateral arm flexion, shoulder adduction, hand raising above chest.
 	* Plantar response
+
 
 ## Investigations
 
