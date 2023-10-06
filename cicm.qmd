@@ -23,11 +23,6 @@ Aims to **assess judgment**.
 * Hot case\
 Aims to **assess wisdom** and real-world clinical decision making.
 
-:::column-margin
-:::tick
-Complete the CICM Communication Course prior to the exam; the exam scenarios mirror the course scenarios (though breaking *catastrophic* news is unlikely.
-:::
-:::
 
 ## Timing
 
@@ -145,6 +140,11 @@ Structures for specific question formats:
 
 {{< include /includes/viva.qmd >}}
 
+:::column-margin
+:::tick
+Complete the CICM Communication Course prior to the exam; the communication viva scenario generally mirrors the course scenarios; although breaking *catastrophic* news is unlikely.
+:::
+:::
 
 ### Hot Case
 

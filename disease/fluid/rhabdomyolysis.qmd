@@ -1,0 +1,214 @@
+# Rhabdomyolysis
+
+Clinical syndrome characterised by widespread destruction of skeletal muscle leading to massive release of intracellular contents into the bloodstream, leading to:
+
+:::column-margin
+**Crush syndrome** is a related entity which occurs when a crush injury leads to rhabdomyolysis but also prevents venous return from the affected limb, limiting systemic sequelae.\
+\
+Relief of the crushing force (generally during extraction) results in reperfusion and ischaemic washout, which may precipitate profound haemodynamic instability or hyperkalaemic arrest.
+:::
+
+* HAGMA
+* ↑ K^+^
+* ↑ PO~4~\
+Causing a subsequently ↓ Ca^2+^.
+* Hyperuricaemia
+* ↑ Mg^2+^\
+Suggests significant concomitant AKI, due to ability of a functioning kidney to rapidly normalise magnesium levels.
+
+## Epidemiology and Risk Factors
+
+At-risk groups include:
+
+* Males
+* Morbidly obese
+* Statin users
+* Post-operative
+
+## Pathophysiology
+
+Common pathway of muscle destruction:
+
+* Loss of cellular ATP ↓ efficacy of membrane pumps, resulting in intracellular Na^+^
+* Secondary ↑ in Ca^2+^ occurs as 2Na^+^/Ca^2+^ pumps activate to correct ↑ Na^+^
+* ↑ Intracellular Ca^2+^ activates various proteases, which destroy cellular and mitochondrial membranes
+* Muscle cells necrose, releasing cytotoxic intracellular machinery
+	* Myoglobin may precipitate, causing renal tubular obstruction\
+	This occurs due to interaction with the Tamm-Horsfall protein, and is accelerated in acidic conditions.
+	* Hydroxyl radicals lead to lipid peroxidation and tubular sloughing
+	* Metabolic acidosis promotes myoglobin cast formation in the DCT
+
+### Aetiology
+
+* Neuromuscular
+	* Seizures
+* Fluid and electrolyte
+	* DKA
+	* Hypokalaemia
+	* Hypophosphataemia
+	* Hypocalcaemia
+* Traumatic
+	* Crush injury
+	* Compartment syndromes
+	* Burns
+	* Prolonged lie
+* Infective
+	* NSTI
+	* Influenza
+	* EBV
+	* Primary HIV
+	* Legionella
+* Environmental
+	* Heat injury
+	* Exercise
+* Toxic
+	* Statins
+	* MH
+	* Serotonin syndrome
+	* Propofol infusion syndrome
+	* Alcohol
+		* Delirium tremens
+* Congenital
+	* Various mitochondrial disorders
+	* Lipid metabolic disorders
+* Idiopathic
+
+
+## Clinical Features
+
+* Muscle pain
+* Weakness
+* Dark-tea coloured urine\
+Requires 100mg/dL of myoglobin, therefore not all cases of rhabdomyolysis develop frank myoglobinuria.
+* Oligo-anuria
+* Intravascular volume depletion\
+Due to tissue oedema.
+
+:::column-margin
+![Myoglobinuria](/resources/rhabdo.jpg)
+:::
+
+## Assessment
+
+
+
+### History
+
+### Exam
+
+### Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+* Blood
+	* ↑ K^+^
+	* ↑ PO~4~
+	* ↓ Ca^2+^
+	* ↑ AST
+	* ↑ LDh
+	* CK\
+	Generally 5-10× ULN (~1000-2000) U/L is diagnostic, through values can rise much higher.
+		* Rise during first 12 hours
+		* Peak at 3-5 days
+		* Return to baseline over following 6-10 days
+	* Myoglobin\
+	Pathognomonic, but rarely measured.
+	* ↓ Urea:Creatinine ratio\
+	Due to ↑↑ creatinine, secondary to muscular destruction.
+* Urine
+	* Myoglobin
+	* Dipstick\
+	Also interactions with myoglobin - myoglobinuria can be inferred with a positive (for blood) dipstick with no red cells in the sediment.
+
+
+**Imaging**:
+
+**Other**:
+
+### Diagnostic Approach and DDx
+
+
+## Management
+
+:::priority
+* Early, aggressive **volume resuscitation**
+	* **Limit** degree of **AKI**
+* Target **urine** output **>300ml/hr**
+* Consider RRT
+* Avoid correcting calcium
+:::
+
+**Resuscitation**:
+
+* C
+	* **Volume** resuscitation\
+	Often in the order of litres per day, targeting a **urine** output of **>300mL/hr** in adults.
+* F
+	* Correct **electrolytes**
+		* Rapid correction of hyperkalaemia
+		* Avoid correction of calcium to ↓ risk of calcium-phosphate precipitation
+
+**Specific therapy**:
+
+:::column-margin
+Urinary alkalinisation is covered under @sec-urine_alk.
+:::
+
+* Pharmacological
+	* **Mannitol**\
+	Consider if volume resuscitation does not lead to adequate UO. Avoid in anuric patients.
+	* **Sodium Bicarbonate**\
+	Reasonable to correct systemic acidosis. Urinary alkalinisation:
+		* Is sometimes recommended
+		* *May* ↓ myoglobin toxicity by limiting myoglobin cast formation
+		* Can be abandoned if urinary pH does not ↑ to >6.5
+* Procedural
+	* **RRT**\
+	Effectively clears myoglobin.
+* Physical
+
+
+
+**Supportive care**:
+
+* F
+	* Avoid replacing calcium
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+* **Loop diuretics**\
+Can be considered if inadequate urine output is not achieved with volume resuscitation and mannitol.
+
+
+## Anaesthetic Considerations
+
+## Complications
+
+* Death\
+20-60% among ICU patients with rhabdomyolysis.
+* F
+	* AKI\
+	10-60% of cases.
+	* ↑ Ca^2+^\
+	May complicate renal recovery, which occurs due to mobilisation of precipitated calcium and normalisation of PO~4~.
+* I
+	* Soft tissue CaPO~4~ deposition
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Chavez LO, Leon M, Einav S, Varon J. [Beyond muscle destruction: a systematic review of rhabdomyolysis for clinical practice](https://ccforum.biomedcentral.com/articles/10.1186/s13054-016-1314-5). Critical Care. 2016;20(1):135. doi:10.1186/s13054-016-1314-5
+1. Bosch X, Poch E, Grau JM. [Rhabdomyolysis and Acute Kidney Injury](https://www.nejm.org/doi/full/10.1056/nejmra0801327). New England Journal of Medicine. 2009;361(1):62-72. doi:10.1056/NEJMra0801327

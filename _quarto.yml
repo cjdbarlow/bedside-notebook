@@ -823,11 +823,11 @@ book:
             # Stones
         - part: "Fluid and Electrolyte"
           chapters:
+          - disease/fluid/rhabdomyolysis.qmd
           - disease/fluid/siadh.qmd
           - disease/fluid/di.qmd
           - disease/fluid/turp_syndrome.qmd
           - disease/fluid/refeeding.qmd
-          # Rhabdo
       # Gastrointestinal
       - part: "Gastrointestinal"
         chapters:
@@ -1084,6 +1084,7 @@ book:
           - investigations/blood/transfusion.qmd
         - part: "Chemistry"
           chapters:
+          - investigations/blood/renal.qmd
           - investigations/blood/lft.qmd
       - part: "Fluid"
         chapters:        

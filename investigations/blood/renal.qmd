@@ -1,0 +1,30 @@
+# Renal Function
+
+Renal function tests include:
+
+* **Urea**
+* **Creatinine**
+
+## Interpretation
+
+### Urea:Creatinine Ratio
+
+The usual ratio of urea:creatinine is **~1:10**.
+
+: Cause Altered of Urea:Creatinine Ratio
+
++-----------------------------+----------------------------+
+| Increased                   | Decreased                  |
++=============================+============================+
+| * Hypovolaemia              | * Malnutrition             |
+| * Corticosteroids           | * Low protein diet         |
+| * Gastrointestinal bleeding | * Pregnancy                |
+| * High protein diet         | * Severe liver dysfunction |
+| * Severe catabolism         | * SIADH                    |
+|                             | * Rhabdomyolysis           |
++-----------------------------+----------------------------+
+
+
+---
+
+## References

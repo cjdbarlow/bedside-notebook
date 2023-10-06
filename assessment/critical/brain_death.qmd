@@ -84,7 +84,7 @@ Neuroimaging consistent with acute brain pathology that could cause brain death.
 		* Severe hypoadrenalism
 * **Ability to perform clinical testing**\
 	* Ability to assess brain stem reflexes\
-	At least one eye and ear.
+	At least one functioning eye and ear.
 	* Ability to perform apnoea test\
 	Neuromuscular system capable of independent respiration (e.g. no high cervical spine injury), saturations able to be maintained with supplemental oxygen.
 
@@ -127,6 +127,21 @@ Since all patients undergoing brain death testing will be intubated, GCS 3 = GCS
 Each Australian state has slightly different requirements around the qualifications, experience, and relationship to the patient of the clinicians determining brain death.
 :::
 
+Equipment required for testing:
+
+* Pupil torch
+* Gauze or cotton wool
+* Otoscope
+* 50mL syringe\
+And a cannula, or use a Toomey syringe.
+* Cold ice water
+* Kidney dish\
+To collect cold ice water.
+
+:::column-margin
+In order to help the testing process flow smoothly, ↓ the minute ventilation so that the PaCO~2~ is close to the upper limit of normal and place the patient on 100% oxygen at the start of testing. If the minute ventilation and PaCO~2~ are stable, the pre-apnoea ABG can also be taken prior to commencing testing.
+:::
+
 Clinical testing is performed **separately** by two suitably trained and experienced clinicians (at least one a specialist), and requires:
 
 :::column-margin
@@ -134,35 +149,42 @@ Family should be offered the opportunity to observe clinical testing, after appr
 :::
 
 * **Coma**\
-GCS 3; with no motor response following painful stimulus applied centrally and to all four limbs.
+GCS 3; with no motor response following painful stimulus applied centrally (bilaterally) and to all four limbs.
 * **Absence** of **brainstem reflexes**\
 Should be tested **sequentially** and **bilaterally**.
 	* **Pupils**\
 	Fixed and non-reactive.
 	* **Corneal** reflex\
-	Use of cotton wool or gauze are appropriate stimuli. 
+	Use of cotton wool or gauze are appropriate stimuli. Touch the cornea until visible deformation of the gauze is seen, and use a fresh corner for the opposite side.
 	* **Oculo-vestibular** reflexes\
 		* Firstly, inspect both ear canals to confirm:
 			* Intact tympanic membrane
 			* Absence of canal occlusion
-		* Secondly, inject cold ice water into each EAM via a small catheter until either:
+		* Secondly, inject cold ice water into each EAM via a small catheter:
+			* 50mL should be infused
+			* The eyes should be observed for 60 seconds after instillation
+			* A normal reflex  until either:
 			* Nystagmus\
 			Slow-phase towards irrigated ear in intact brainstem.
 			* Ocular deviation
-			* 20mL given
 	* **Gag**\
+		* Expose the chest to evaluate for respiratory effort
 		* Use a tongue depressor or cotton swab to stimulate the posterior pharynx on each side\
 		A laryngoscope can be used for assistance, if required.
 	* **Cough**
+		* Expose the chest to evaluate for respiratory effort
+		* Pass a a tracheal suction catheter to evaluate for cough
 * **Apnoea**\
 Conducted last so that an ↑ PaCO~2~ does not confound assessment. Apnoea testing assesses ventilatory drive, and is performed by:
 	* Preoxygenation with 100% O~2~
+	* Expose the chest to evaluate for respiratory effort
 	* Ventilator disconnection\
 	Hypoxia (SpO~2~ <88%) should be avoided; attach a self-inflating bag with a PEEP valve to prevent atelectasis and provide some passive entrainment.
 	* No respiratory effort when:
 		* PaCO~2~ is ≥60mmHg, OR\
 		Expect PaCO~2~ to ↑ by ~3mmHg/min as a guide for when to perform the ABG.
-		* PaCO~2~ has risen 20mmHg above baseline
+		* PaCO~2~ has risen 20mmHg above baseline\
+		Expect ~3mmHg of rise per minute, so leave 7-10 minutes until testing.
 
 :::column-margin
 Use of suction catheter or t-piece to provide passive oxygenation during apnoea testing is not recommended.\
@@ -236,8 +258,8 @@ No benefit. Absence of cortical activity does not confirm brainstem death and el
 
 ## References
 
-1. Wijdicks EF. The bare essentials: coma. Pract Neurol. 2010 Feb;10(1):51-60.
 1. ANZICS. [Brain Death Determination](https://www.anzics.com.au/wp-content/uploads/2018/08/Brain-Death-Determination-Statement-FINAL.pdf). 2018.
 1. ANZICS. [The Statement on Death and Organ Donation](https://www.anzics.com.au/wp-content/uploads/2022/04/ANZICS-Statement-on-Death-and-Organ-Donation.pdf). Edition 4.1. 2021.
+1. Wijdicks EF. The bare essentials: coma. Pract Neurol. 2010 Feb;10(1):51-60.
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
 1. Dünser MW, Dankl D, Petros S, Mer M. Clinical Examination Skills in the Adult Critically Ill Patient. Springer International Publishing; 2018.

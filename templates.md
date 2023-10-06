@@ -122,11 +122,17 @@ Intro and technique
 
 ## Clinical Features
 
+Symptoms and signs of this condition.
+
 ## Assessment
 
 ### History
 
+Key questions if this is the suspected diagnosis. Should also include elements relevant to key differentials.
+
 ### Exam
+
+Key exam findings if this is the suspected diagnosis. Should also include elements relevant to key differentials.
 
 ### Investigations
 
