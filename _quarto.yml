@@ -936,6 +936,7 @@ book:
         - part: "Viral"
           chapters:
           - disease/infective/hiv.qmd
+          - disease/infective/covid.qmd
           - disease/infective/cmv.qmd
           - disease/infective/dengue.qmd
         - part: "Bacterial"

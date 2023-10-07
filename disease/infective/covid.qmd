@@ -1,0 +1,431 @@
+# COVID-19
+
+:::info
+Also known as coronavirus disease 2019, COVID, and SARS-CoV-2.
+:::
+
+COVID-19 is a respiratory viral disease caused by the SARS-CoV-2 beta-coronavirus that:
+
+* Has an **incubation** period of **4-5 days**
+* Becomes **symptomatic** between **2-7 days**\
+In the majority (75%) of cases; and rarely after 14 days.
+* May spread from asymptomatic patients\
+Up to 50%.
+* Has a **broad spectrum** of clinical presentation:
+	* **Mild URTI** symptoms **in ~80%** for ~7 days\
+	* **Respiratory failure** requiring hospital admission **in ~15%**\
+	Generally between day 5-10.
+	* Severe pneumonitis and **ARDS or multiorgan failure in ~5%**
+
+
+## Epidemiology and Risk Factors
+
+Pandemic:
+
+* Disease first identified in Wuhan City, Hubei in November 2019
+* Global emergency declared 30 January 2020
+* Global pandemic declared 11 March 2020
+
+
+Transmission:
+
+* Person-to-person
+* Via respiratory droplets, contact, and possible aerosols
+	* Droplets may persist for up to 4 days
+
+![Viability of COVID-19 Aerosols on Different Surfaces](/resources/cov2_decay.jpg)
+
+## Pathophysiology
+
+Viral characteristics:
+
+* Cellular entry effected via trans-membrane glycoproteins ("spike") proteins
+	* Bind to surface ACE2 receptors\
+	Found on:
+		* Pneumocytes
+		* Respiratory tract epithelium
+		* Small bowel enterocyte
+* Hypoxaemia with normal lung compliance
+* Diffuse alveolar damage
+
+:::column-margin
+Coronaviruses are named due to their characteristic halo under electron microscopy, and include:
+
+* Severe Acute Respiratory Syndrome\
+SARS-CoV, in 2002.
+* Middle East Respiratory Syndrome\
+MERS-CoV, in 2012.
+:::
+
+Staging:
+
+1. Early Infection
+	* Non-specific clinical features
+	* Lymphopenia and pro-coagulant state
+2. Pulmonary phase
+	* Dyspnoea and hypoxaemic respiratory failure
+	* Abnormal chest imaging
+3. Hyper-inflammation phase
+	* ARDS
+	* Shock
+	* ↑ Inflammatory markers
+
+
+## Clinical Features
+
+Features are non-specific, and include:
+
+* Fever\
+80-90%; typically high and persistent.
+* Dry cough\
+60-70%.
+* Fatigue\
+40%.
+* Dyspnoea\
+Typically around day 6.
+* Myalgias
+* Sore throat
+* Headache
+* Chills
+* Nausea/vomiting
+* Anosmia\
+~30%.
+
+:::column-margin
+Hypoxaemia may occur without breathlessness.
+:::
+
+:::column-margin
+A substantial proportion (17-30%) of infected may never develop symptoms.
+::::
+
+## Assessment
+
+: Classification of COVID-19 Severity in Adults
+
++--------------+------------------------------------------------------------------+
+| Severity     | Characteristics                                                  |
++==============+==================================================================+
+| **Mild**     | No features suggestive of a complicated course:                  |
+|              |                                                                  |
+|              | * No symptoms                                                    |
+|              | * Mild URTI symptoms                                             |
+|              | * No exertional dyspnoea                                         |
+|              | * Normal radiography                                             |
++--------------+------------------------------------------------------------------+
+| **Moderate** | Stable but with evidence of lower respiratory disease, such as:  |
+|              |                                                                  |
+|              | * SpO~2~ >92%* with up to 4L/min nasal prong oxygen              |
+|              | * Dyspnoea on mild exertion                                      |
+|              | * Radiological abnormalities                                     |
++--------------+------------------------------------------------------------------+
+| **Severe**   | Either:                                                          |
+|              |                                                                  |
+|              | * Unstable (deteriorating) moderate disease                      |
+|              | * Any of:                                                        |
+|              |     * RR ≥30 breaths/min                                         |
+|              |     * SpO~2~ ≤92% at rest                                        |
+|              |     * Lung infiltrates >50%                                      |
++--------------+------------------------------------------------------------------+
+| **Critical** | Any of:                                                          |
+|              |                                                                  |
+|              | * P:F <200                                                       |
+|              | * ARDS                                                           |
+|              | * Deteriorating despite advanced respiratory support (NIV, HFNO) |
+|              | * Requiring mechanical ventilation                               |
+|              | * Other signs of significant deterioration:                      |
+|              |     * Hypotension or shock                                       |
+|              |     * Impairment of consciousness                                |
+|              |     * Other organ failure                                        |
++--------------+------------------------------------------------------------------+
+
+:::column-margin
+\*Or above 90% for patients with chronic lung disease.
+:::
+
+:::column-margin
+{{< include /includes/pf.qmd >}}
+:::
+
+### History
+
+
+### Exam
+
+
+### Investigations
+
+**Bedside**:
+
+* Rapid antigen testing
+
+**Laboratory**:
+
+* Blood
+	* FBE
+		* Leukopaenia or leukocytosis may occur\
+		Typically ↑ WCC in critically unwell.
+		* Lymphopaenia
+		* Thrombocytopaenia
+	* LFT\
+	Monitor when using immunosuppressive agents, and consider ceasing if ↑ transaminases.
+	* ↑ LDH
+	* Coagulation studies
+		* DIC
+	* Antibody testing\
+	IgM or IgG antibodies:
+		* Require up to 14 days to become positive
+		* Detect presence of recent infection
+	* Inflammatory markers\
+	Typically correlate with severity. Include:
+		* CRP\
+		Rate of rise correlates with degree of inflammation and is a marker of future clinical deterioration.
+		* Procalcitonin
+		* IL-6
+* Respiratory sample
+	* PCR
+		* Sensitivity 60-95%\
+		Varies depending on quality of sample and amount of viral shedding.
+
+:::column-margin
+Bronchoalveolar lavage is more sensitive, but is aerosol generating.
+:::
+
+**Imaging**:
+
+:::column-margin
+Radiological changes develop between 2-5 days, and become maximal at day 13-15.
+:::
+
+* CXR
+	* Bilateral alveolar opacities most common
+	* Pleural effusions are uncommon
+* CT chest\
+	* Routine CT is not required
+	* Typical appearance includes:
+		* Peripheral, bilateral ground glass opacities
+		* Multifocal ground glass opacities
+		* Organising pneumonia in late disease
+	* Non-specific features include:
+		* Multifocal, diffuse, or unilateral ground glass opacitie
+	* Indicating for investigating:
+		* PE
+		* Non-resolving disease for investigation of persistent pneumonic causes
+
+
+**Other**:
+
+### Diagnostic Approach and DDx
+
+Diagnostic criteria change overtime, however:
+
+* **Confirmed case**\
+Positive:
+	* NAA
+	* Viral culture
+* **Probable case**\
+All of:
+	* Not tested
+	* Febrile (>38°C) or symptomatic
+	* Household contact of confirmed or probable case
+* **Suspected case**\
+Meets both clinical and epidemiological criteria:
+	* Clinical\
+	Febrile or symptomatic.
+	* Epidemiological\
+	Significant risk factor in the last 14 days:
+		* Close contact with confirmed or probable case
+		* Travel
+		* Cruise ship exposure
+		* Healthcare exposure
+		* High-risk community exposure
+
+
+## Management
+
+:::priority
+* **Airborne precautions**
+* Use appropriate **PPE**
+* Manage **hypoxaemia**
+	* **Prone** positioning
+	* **Non-invasive** ventilation is preferred to invasive ventilation where possible
+	* **Invasive ventilation** should use a **lung protective** strategy
+* **Immunosuppression**\
+Choice varies depending on disease severity.
+:::
+
+:::column-margin
+: Immunosuppression for COVID-19 by Disease Severity
+
++----------+-----------------------------+
+| Severity | Immunosuppression Used      |
++==========+=============================+
+| Mild     | * Remdesivir                |
++----------+-----------------------------+
+| Moderate | * Dexamethasone             |
+|          | * Baricitinib               |
++----------+-----------------------------+
+| Severe   | * Dexamethaxone             |
+|          | * Tocilizumab\              |
+|          | If no baricitinib received. |
++----------+-----------------------------+
+:::
+
+
+
+**Resuscitation**:
+
+* A
+	* **Intubation**\
+	Consider:
+		* Aerosoliation
+		* Rapid hypoxaemia on induction
+		* Hypotension post-induction
+			* Hypovolaemia
+			* Effect of high PEEP
+* B
+	* **Correct hypoxaemia** to SpO~2~ 92-96%
+		* High flow nasal oxygen
+			* Titrate FiO~2~ to SpO~2~
+			* Titrate flow to work of breathing
+			* Minimal effect on recruitment\
+			Combine with proning to minimise atelectasis.
+		* NIV\
+			* CPAP up to 15cmH~2~O
+			* Assists recruitment and may be more beneficial in early disease
+			* Significantly ↓ Rate of intubation
+		* Invasive ventilation
+		* Permissive hypercapnoea
+	* **Proning**
+
+
+**Specific therapy**:
+
+:::column-margin
+![Remdesivir Efficacy by Disease Severity](/resources/covid_remdes.jpg)
+:::
+
+* Pharmacological
+	* **Remdesivir** 200mg IV load, then 100mg IV OD for a total of 5 days
+		* Paediatric dosing: 5mg/kg load, then 2.5mg/kg on subsequent days
+		* Indicated only for mild and moderate disease, within 7 days of symptom onset\
+		Limited utility in the hospital population.
+		* ↓ Time to clinical recovery in mild cases
+		* Contraindicated with:
+			* Renal failure
+			* Multi-organ failure
+			* Neutropenia
+	* **Dexamethasone** 6mg IV/PO daily for at least 10 days
+		* Indicated for severe or critical disease
+		* Methylprednisolone 32mg/day or prednisolone 40mg/day may be used if dexamethasone is unavailable
+		* Consider ↑ to 12-20mg/day if tocilizumab or baricitinib are not available or are contraindicated
+		* Significant ↓ in absolute mortality
+	* **Baricitinib** 4mg PO daily for up to 14 days, or until hospital discharge
+		* Janus kinase inhibitor, ↓ downstream effects of IL-6
+		* Significant ↓ mortality in severe disease
+		* Use 2mg PO daily if eGFR <30mL/min
+		* Contraindicated in:
+			* ESRD
+			* Acute severe infection
+			* Severe immune dysfunction
+			* Neutropenia
+			* Pregnancy
+	* **Tocilizumab** 8mg/kg single dose
+		* Indicated for patients requiring intubation and who have not received baricitinib
+		* ↓ Mortality in combination with dexamethasone
+		* Sarilumab may be used if tocilizumab is unavailable
+* Procedural
+	* VV ECMO
+* Physical
+	* **Proning**\
+	For all patients requiring more than low-flow oxygen support.
+		* Can be performed awake
+		* Side-to-side positioning for patients unwilling or unable to lie prone
+
+:::column-margin
+Tocilizumab is indicated only for patients with evidence of systemic inflammation, defined as a CRP >75mg/L.
+:::
+
+**Supportive care**:
+
+* D
+	* RASS 0 to -2 in the intubated patient
+* F
+	* Conservative fluid management
+	* Avoid hypervolaemia
+* H
+	* Thromboprophylaxis\
+	For all patients with moderate or worse disease.
+
+**Disposition**:
+
+**Preventative**:
+
+* Vaccination
+
+
+### Marginal and Ineffective Therapies
+
+The following are not recommended:
+
+* Convalescent plasma\
+Primary driver of severe disease is inflammation, not viral load.
+* Hydroxychloroquine
+* Famotidine
+* Ivermectin
+* Fluvoxamine
+* Colchicine
+
+## Anaesthetic Considerations
+
+## Complications
+
+* Death\
+Mortality is highly age dependent:
+    * <10: 0.002%
+    * 10-25: 0.01%
+    * 25-55: 0.4%
+    * 55-65: 1.4%
+    * 65-75: 4.6%
+    * 75-85: 15%, 
+    * \>90: >25%
+* B
+	* Pulmonary fibrosis
+	* Bacterial coinfection\
+	Uncommon outside of the intubated patient.
+* C
+	* Myocarditis\
+	Up to 33% of critically ill patients.
+	* Cardiomyopathy
+* F
+	* AKI\
+	Multifactorial:
+		* Diuresis
+		* Renal microthrombi
+* H
+	* Venous thromboembolism
+* I
+	* Cytokine storm\
+	Similar to HLH.
+
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Zhu N, Zhang D, Wang W, et al. [A Novel Coronavirus from Patients with Pneumonia in China, 2019](https://www.nejm.org/doi/10.1056/NEJMoa2001017). N Engl J Med. 2020;382(8):727-733. doi:10.1056/NEJMoa2001017
+1. Bhimraj A, Morgan RL, Shumaker AH, et al. [Infectious Diseases Society of America Guidelines on the Treatment and Management of Patients With Coronavirus Disease 2019 (COVID-19)](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciac724/6692369?login=false). Clinical Infectious Diseases. Published online September 5, 2022:ciac724. doi:10.1093/cid/ciac724
+1. National Clinical Evidence Taskforce. [Australian guidelines for the clinical care of people with COVID-19](https://clinicalevidence.net.au). 2023 [version 72].
+1. Perkins GD, Ji C, Connolly BA, et al. [Effect of Noninvasive Respiratory Strategies on Intubation or Mortality Among Patients With Acute Hypoxemic Respiratory Failure and COVID-19: The RECOVERY-RS Randomized Clinical Trial](https://jamanetwork.com/journals/jama/fullarticle/2788505). JAMA. 2022;327(6):546-558. doi:10.1001/jama.2022.0028
+1. Beigel JH, Tomashek KM, Dodd LE, et al. [Remdesivir for the Treatment of Covid-19 — Final Report](https://www.nejm.org/doi/full/10.1056/NEJMoa2007764). N Engl J Med. 2020;383(19):1813-1826. doi:10.1056/NEJMoa2007764
+1. Marconi VC, Ramanan AV, Bono S de, et al. [Efficacy and safety of baricitinib for the treatment of hospitalised adults with COVID-19 (COV-BARRIER): a randomised, double-blind, parallel-group, placebo-controlled phase 3 trial](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(21)00331-3/fulltext). The Lancet Respiratory Medicine. 2021;9(12):1407-1418. doi:10.1016/S2213-2600(21)00331-3
+1. Gorbalenya AE, Baker SC, Baric RS, et al. [The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2](https://www.nature.com/articles/s41564-020-0695-z). Nat Microbiol. 2020;5(4):536-544. doi:10.1038/s41564-020-0695-z
+1. Lauer SA, Grantz KH, Bi Q, et al. [The Incubation Period of Coronavirus Disease 2019 (COVID-19) From Publicly Reported Confirmed Cases: Estimation and Application](https://www.acpjournals.org/doi/10.7326/M20-0504). Ann Intern Med. 2020;172(9):577-582. doi:10.7326/M20-0504
+1. Bouadma L, Lescure FX, Lucet JC, Yazdanpanah Y, Timsit JF. [Severe SARS-CoV-2 infections: practical considerations and management strategy for intensivists](https://pubmed.ncbi.nlm.nih.gov/32103284/). Intensive Care Med. 2020;46(4):579-582. doi:10.1007/s00134-020-05967-x
+1. Guan W jie, Ni Z yi, Hu Y, et al. [Clinical Characteristics of Coronavirus Disease 2019 in China](https://www.nejm.org/doi/full/10.1056/nejmoa2002032). N Engl J Med. 2020;382(18):1708-1720. doi:10.1056/NEJMoa2002032
+1. van Doremalen N, Bushmaker T, Morris DH, et al. [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://www.nejm.org/doi/10.1056/NEJMc2004973). N Engl J Med. 2020;382(16):1564-1567. doi:10.1056/NEJMc2004973

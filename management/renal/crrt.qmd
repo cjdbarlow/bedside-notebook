@@ -15,34 +15,34 @@ This covers CRRT; a general overview and comparison of RRT modalities is provide
 * Minimal infective risk
 * Facilitation of **renal recovery**
 
+
 ## Principles
 
 {{< include /includes/rrt_principles.qmd >}}
 
 :::column-margin
-CRRT relies on the same physical principles as IHD and SLED, but as fluid shifts occur more slowly CRRT has greater haemodynamic stability either\
-\
-Consequently, CRRT is preferred in patients with:
+CRRT relies on the same physical principles as IHD and SLED, but as fluid shifts occur more slowly CRRT has the greatest haemodynamic stability, and is preferred in patients with:
 
 * Haemodynamic instability
 * ↑ ICP
 * Cerebral oedema
 :::
 
+
 ### Types of CRRT
 
 There are a number of technical variations of CRRT based on the physical principles used:
 
 * **Haemofiltration** (CVVH)\
-No dialysate is used.
+No dialysate is used; effect occurs via filtration and convection.
 	* Ultrafiltration results in a solute-water mix filtered across the semi-permeable membrane\
 	* A substitution solution is used to replace lost volume\
-	The difference between the ultrafiltration volume produced and the substitution solution infused is the fluid removal.
+	The difference between the ultrafiltration volume produced and the substitution solution infused is the total fluid removal.
 * **Haemodialysis** (CVVHD)\
-Counter-current delivery of dialysis solution.
+Counter-current delivery of dialysis solution, without generation of a transmembrane pressure.
 	* Clearance is almost entirely by diffusion
 * **Haemodiafiltration** (CVVHDF)\
-Combination of:
+Combination of the above, using both:
 	* Counter-current dialysis solution\
 	Solute clearance by diffusion.
 	* Ultrafiltration\
@@ -58,7 +58,7 @@ CRRT may be initiated in ICU based on anticipation of reaching these thresholds,
 :::
 
 :::column-margin
-A mnemonic for these causes is:
+A mnemonic for the major causes is:
 
 * **A**acidosis
 * **E**lectrolyte
@@ -67,17 +67,20 @@ A mnemonic for these causes is:
 * **U**raemia
 :::
 
-* Established renal failure
-* Volume overload\
-With oliguria/anuria.
-* Solute
-	* Urea >35mmol/L
-	* Uraemic complications
-	* Hyperkalaemia
+* Acidosis
+* Electrolyte disorders
+	* **Hyperkalaemia**\
+	Thresholds vary, but consider if K^+^ >6.5mmol/L or rapidly ↑.
 	* Hyponatraemia <110mmol/L
 	* Hypernatraemia >160mmol/L
+* Toxins
+* Refractory fluid overload
+* Uraemia
+	* Urea >35-40mmol/L
+	* Uraemic complications
+		* Pericarditis
+		* Encephalopathy
 * Other
-	* Dialysable toxin
 	* Hyperthermia >40°C
 
 :::column-margin
@@ -98,7 +101,9 @@ A short, but mostly-adequate exam list of dialysable toxins includes:
 
 ## Equipment
 
-Vascular dialysis catheter:
+### Vascular Access
+
+**Vascath**:
 
 * Uncuffed, non-tunneled catheter
 * Preferentially sited in:
@@ -113,13 +118,45 @@ Vascular dialysis catheter:
 	* Risk of central vein stenosis if abutting SVC 
 
 
-Solutions:
+**Tunneled** dialysis catheter:
 
-* Dialysate
-	* Bicarbonate solutions are preferred over lactate solutions, *especially* in:
+* Medium-term dialysis line
+* Usually sited in RIJ
+
+
+### Solutions
+
+**Substitution**:
+
+* Balanced crystalloid solutions used to replace water and solute\
+Include:
+	* **Pre-filter dilution**\
+	Mixed with blood prior to the haemofilter.
+		* ↓ Effective solute clearance
+		* ↓ Filter clotting, due to ↓ haematocrit
+		* Required if using a citrated solution, as this is where the anticoagulant is kept
+	* **Post-filter replacement**\
+	Mixed with blood after the haemofilter, generally in the bubble trap.
+		* Restores water and solute
+		* May be the same solution as the pre-filter diluent
+
+:::column-margin
+Pure post-filter replacement with no pre-filter dilution is the most efficient method for solute clearance, but has a high risk of filter clotting due to the ↑ haematocrit. In general, the haematocrit should be kept <50% in the filter to minimise the risk of clotting and maximise filter lifespan.
+:::
+
+**Dialysate**:
+
+* Crystalloid solution
+* Buffered with:
+	* Citrate\
+	Used when the circuit is anticoagulated with citrate and calcium.
+	* Bicarbonate\
+	Requires reconstitution due to instability of bicarbonate in solution.
 		* Shock
 		* Hepatic failure
 		* Lactic acidosis
+	* Lactate\
+	Generally superseded by bicarbonate buffers.
 
 
 ## Anticoagulation
@@ -192,3 +229,4 @@ More pronounced with more aggressive dialysis modes (particularly IHD).
 1. Kidney Disease: Improving Global Outcomes (KDIGO) Acute Kidney Injury Work Group. [KDIGO Clinical Practice Guideline for Acute Kidney Injury](http://kdigo.org/wp-content/uploads/2016/10/KDIGO-2012-AKI-Guideline-English.pdf). Kidney inter., Suppl. 2012; 2: 1–138.
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
 1. [Intensity of Continuous Renal-Replacement Therapy in Critically Ill Patients](http://www.nejm.org/doi/full/10.1056/NEJMoa0902413). New England Journal of Medicine. 2009 Oct 22;361(17):1627–38. 
+1. Gemmell L, Docking R, Black E. [Renal replacement therapy in critical care](https://academic.oup.com/bjaed/article/17/3/88/2957196). BJA Education. 2017;17(3):88-93. doi:10.1093/bjaed/mkw070
