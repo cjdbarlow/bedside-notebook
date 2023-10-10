@@ -1,0 +1,110 @@
+# Pancreatic Transplant {#sec-icu_panc_tx}
+
+Pancreatic transplant is performed for IDDM, and commonly occurs conjunction with renal transplant for diabetic nephropathy. Major post-operative considerations include:
+
+:::column-margin
+Pancreatic transplant occurs in three primary groups:
+
+* Simultaneous pancreas-kidney\
+May be deceased donor or living-related donor.
+* Pancreas after kidney\
+Pancreatic transplant for a prior renal transplant recipient.
+* Lone pancreatic transplant
+:::
+
+:::column-margin
+An overview of post-operative management of the kidney transplant patient is covered under @sec-icu_renal_tx.
+:::
+
+* **Comorbidities**:
+	* ESRD
+	* Diabetes
+	* Diabetic complications
+		* CAD
+		* PVD
+* Pancreatic function
+	* **Pancreatic** exocrine **drainage**
+		* Enteric\
+		Majority of cases. Considerations:
+			* ↓ Metabolic derangements
+		* Bladder\
+		Minority of cases. Considerations:
+			* Rejection can be monitored with urine amylase
+			* ↑ Risk of urological complications
+	* Peripancreatic **fluid collections**
+	* **Venous thrombosis**\
+	High risk (~10%) due to low venous flow.
+* **Immunosuppression**
+
+## Indications
+
+Improves quality of life and may ↓ mortality in patients who have:
+
+* ESRD
+* IDDM\
+Generally T1DM.
+
+
+## Contraindications
+
+## Principles
+
+
+
+## Practice
+
+:::priority
+* Optimise pancreatic function
+	* Avoid hypervolaemia
+	* Aggressive glycaemic control
+:::
+
+**Resuscitation**:
+
+**Specific therapy**:
+
+* Pharmacological
+* Procedural
+* Physical
+
+**Supportive care**:
+
+:::column-margin
+**Q1H BSL** measurement is recommended in the early post-operative course.
+:::
+
+* C
+	* Judicious volume management\
+	Keep low CVP to maximise venous drainage/minimise venous oedema.
+* D
+	* Glycaemic control\
+	Insulin production generally occurs intraoperatively during graft reperfusion; exogenous insulin may be required.
+* G
+	* Exocrine secretion management
+* H
+	* Thromboprophylaxis\
+
+
+**Disposition**:
+
+**Preventative**:
+
+
+## Complications
+
+* C
+	* MI\
+	May be silent.
+* Infective
+	* Sepsis\
+	↑ Risk due to combination of immunosuppression and hyperglycaemia.
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Birch M, Sikka R, Belani K. [Critical care of the kidney, pancreas, and kidney–pancreas transplant recipient](https://academic.oup.com/book/25118/chapter/189361496). In: Pretto, Jr. EA, Biancofiore G, DeWolf A, Klinck JR, Niemann C, Watts A, et al., editors. Oxford Textbook of Transplant Anaesthesia and Critical Care [Internet]. Oxford University Press; 2015 [cited 2023 Oct 10]. p. 153–64.
+1. Bindi ML, Biancofiore G, Pasquini C, Lugli D, Amorese G, Bellissima G, et al. [Pancreas transplantation: problems and prospects in intensive care units](https://www.minervamedica.it/en/journals/minerva-anestesiologica/article.php?cod=R02Y2005N05A0207). MINERVA ANESTESIOLOGICA. 2005;71(5).

@@ -38,6 +38,7 @@ quarto::quarto_preview
 * Split out paeds ICU considerations into specific disease
 * Try get rid of that non-breaking space after the chapter number in the top breadcrumbs
 
+
 # Package to-do
 
 Table editor:

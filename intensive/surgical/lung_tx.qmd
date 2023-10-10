@@ -1,16 +1,18 @@
-# Post-Lung Transplant
+# Lung Transplant {#sec-icu_lung_tx}
 
-Key considerations:
+Major post-operative considerations include:
 
-* Lungs
-* Ventricular function
-* Underlying disease
-* Analgesia
-* Immunosuppression
+* **Lung function**
+* **RV** function
+* **Analgesia**
+* **Immunosuppression**
 
-## Epidemiology and Risk Factors
 
-## Pathophysiology
+## Indications
+
+## Contraindications
+
+## Principles
 
 Donor lungs:
 
@@ -18,24 +20,7 @@ Donor lungs:
 	* Loss of normal cough reflex
 	* ↓ Mucociliary clearance
 
-
-### Aetiology
-
-## Clinical Manifestations
-
-## Diagnostic Approach and DDx
-
-## Investigations
-
-**Bedside**:
-
-**Laboratory**:
-
-**Imaging**:
-
-**Other**:
-
-## Management
+## Practice
 
 :::priority
 * Optimise lung function
@@ -48,7 +33,6 @@ Donor lungs:
 
 **Resuscitation**:\
 
-ABC approach. Comment on team coordination and clinical priorities.
 **Specific therapy**:
 
 * Pharmacological
@@ -61,10 +45,6 @@ ABC approach. Comment on team coordination and clinical priorities.
 
 **Preventative**:
 
-
-### Marginal and Ineffective Therapies
-
-## Anaesthetic Considerations
 
 ## Complications
 

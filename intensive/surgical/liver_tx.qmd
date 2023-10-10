@@ -1,68 +1,24 @@
-# Post-Liver Transplant
+# Liver Transplant {#sec-icu_liver_tx}
 
-Liver transplant is a successful 
+Major post-operative considerations include:
 
 :::column-margin
 As a consequence of broader indications and fewer contraindications, the number of patients on the waiting list tends to exceed available donors. Consequently, patients are generally transplanted later when they are more unwell, which ↑ risk and peri-operative complications.
 :::
 
-
-## Epidemiology and Risk Factors
-
-Risks for perioperative complications include:
-
-* Porto-pulmonary hypertension
-* Hepatopulmonary syndrome
-
-## Pathophysiology
-
-### Aetiology
-
-## Clinical Features
-
-## Assessment
-
-**History**:
-
-**Exam**:
-
-### Investigations
-
-**Bedside**:
-
-**Laboratory**:
-
-**Imaging**:
-
-**Other**:
-
-### Diagnostic Approach and DDx
+* **Pre-morbid complications** of **liver disease**:
+	* Porto-pulmonary hypertension
+	* Hepatopulmonary syndrome
 
 
-## Management
+## Indications
 
-:::priority
-Goals of management
-:::
+## Contraindications
 
-**Resuscitation**:
+## Principles
 
-**Specific therapy**:
+## Practice
 
-* Pharmacological
-* Procedural
-* Physical
-
-**Supportive care**:
-
-**Disposition**:
-
-**Preventative**:
-
-
-### Marginal and Ineffective Therapies
-
-## Anaesthetic Considerations
 
 ## Complications
 
@@ -94,7 +50,6 @@ Goals of management
 		* Fungal
 			* Candidiasis
 
-## Prognosis
 
 ## Key Studies
 

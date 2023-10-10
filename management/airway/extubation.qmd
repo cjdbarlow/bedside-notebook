@@ -6,9 +6,8 @@ Rapid **supplemental oxygen** administration is **beneficial** for **all peri-ex
 
 Emergence is associated with more airway problems than induction. Planning for extubation should **consider**:
 
-* Has the **indication** for intubation **resolved**?
-	* Planned return to theatre
-	* No requirement for ongoing mechanical ventilation
+* Has the **indication** for intubation **resolved**?\
+No requirement for ongoing mechanical ventilation.
 * Is the **airway patent**?
 * Is the **airway protected**?
 	* Adequate cough
@@ -20,6 +19,10 @@ Emergence is associated with more airway problems than induction. Planning for e
 	* **Appropriateness** for re-intubation\
 	e.g. One-way extubation in ICU.
 	* **Likelihood** of **requiring reintubation**
+* Are there any **barriers**?
+	* Planned return to theatre?
+	* Availability of staff with advanced airway skills
+	* No other critically ill patients requiring attention
 
 
 ## Principles

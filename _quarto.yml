@@ -572,10 +572,11 @@ book:
         # Stress response
         - part: "Surgical"
           chapters:   
-          - intensive/surgical/post_cardiac.qmd
-          - intensive/surgical/post_hearttx.qmd
-          - intensive/surgical/post_lungtx.qmd
-          - intensive/surgical/post_liver.qmd
+          - intensive/surgical/cardiac.qmd
+          - intensive/surgical/heart_tx.qmd
+          - intensive/surgical/lung_tx.qmd
+          - intensive/surgical/liver_tx.qmd
+          - intensive/surgical/pancreatic_tx.qmd
           # Post op thoracic
           # Post op neuro
           # Transplants

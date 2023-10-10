@@ -38,10 +38,12 @@ Determination of brain death requires:
 	* Consistent lesion
 	* No reversible cause
 	* Possible to diagnose
-* **Observation period**\
-Sustained period with absence of neurological activity.
-* **Clinical assessment**\
-Formal testing by two clinicians.
+* Clinical assessment\
+Consisting of both:
+	* **Observation period**\
+	Sustained period with absence of neurological activity.
+	* **Clinical testing**\
+	Formal testing by two clinicians.
 
 :::column-margin
 Time of death is the completion of examination by the second doctor.
@@ -65,11 +67,11 @@ Neuroimaging consistent with acute brain pathology that could cause brain death.
 		* Cough reflex
 	* Normotensive\
 	SBP ≥90mmHg or MAP >60mmHg in adults, or age-appropriate perfusion pressure in children.
-	* No sedation, analgesia\
-	The amount of elapsed time required since the last administration varies on the drugs used and the degree of any renal or hepatic dysfunction.
-		* This is a question of clinical judgment
+	* No effect of sedation or analgesia\
+	The amount of elapsed time required since the last administration varies on the drug, dose, and degree of any renal or hepatic dysfunction.
+		* This is fundamentally a question of clinical judgment
 		* Thiopentone plasma levels should be <10mg/L
-		* Drug antagonists can be used if concern about persisting effects
+		* Drug antagonists can be used if there is any doubt about persisting drug effect
 	* No muscle relaxation\
 	Confirm with train-of-four.
 	* Normothermia\
@@ -82,6 +84,7 @@ Neuroimaging consistent with acute brain pathology that could cause brain death.
 		* Urea: >40mmol/L
 		* Severe hypothyroidism
 		* Severe hypoadrenalism
+	* No acute liver failure or decompensated chronic liver disease
 * **Ability to perform clinical testing**\
 	* Ability to assess brain stem reflexes\
 	At least one functioning eye and ear.
@@ -117,7 +120,7 @@ May be mid-sized or dilated.
 * Absent cough reflex
 
 :::column-margin
-Since all patients undergoing brain death testing will be intubated, GCS 3 = GCS 2T.
+Since all patients undergoing brain death testing will be intubated, GCS 3 is GCS 2T.
 :::
 
 
@@ -129,11 +132,13 @@ Each Australian state has slightly different requirements around the qualificati
 
 Equipment required for testing:
 
-* Pupil torch
+* Pen torch
 * Gauze or cotton wool
 * Otoscope
 * 50mL syringe\
 And a cannula, or use a Toomey syringe.
+* Laryngoscope
+* Tongue depressor
 * Cold ice water
 * Kidney dish\
 To collect cold ice water.
@@ -144,38 +149,46 @@ In order to help the testing process flow smoothly, ↓ the minute ventilation s
 
 Clinical testing is performed **separately** by two suitably trained and experienced clinicians (at least one a specialist), and requires:
 
+* **Coma**\
+**GCS 3**, confirmed by absence of motor response following painful stimulus applied centrally (*bilaterally*) and to all four limbs.
+
 :::column-margin
 Family should be offered the opportunity to observe clinical testing, after appropriate explanation (particularly about **spinal reflexes**) and support. Consider using the second set of testing, as the family can be warned about any spinal reflexes that may occur.
 :::
 
-* **Coma**\
-GCS 3; with no motor response following painful stimulus applied centrally (bilaterally) and to all four limbs.
 * **Absence** of **brainstem reflexes**\
 Should be tested **sequentially** and **bilaterally**.
 	* **Pupils**\
-	Fixed and non-reactive.
+	Absence of light response. Pupils should be at least mid-diameter.
 	* **Corneal** reflex\
 	Use of cotton wool or gauze are appropriate stimuli. Touch the cornea until visible deformation of the gauze is seen, and use a fresh corner for the opposite side.
 	* **Oculo-vestibular** reflexes\
-		* Firstly, inspect both ear canals to confirm:
-			* Intact tympanic membrane
-			* Absence of canal occlusion
-		* Secondly, inject cold ice water into each EAM via a small catheter:
+		* Firstly, inspect both ear canals to confirm absence of canal occlusion\
+		A damaged eardrum does not preclude testing.
+		* Secondly, hold eyelids open
+		* Thirdly, inject cold ice water into each EAM via a small catheter:
 			* 50mL should be infused
 			* The eyes should be observed for 60 seconds after instillation
-			* A normal reflex  until either:
-			* Nystagmus\
-			Slow-phase towards irrigated ear in intact brainstem.
-			* Ocular deviation
+			* A normal reflex is either:
+				* Nystagmus\
+				Slow-phase towards irrigated ear in intact brainstem.
+				* Ocular deviation
 	* **Gag**\
 		* Expose the chest to evaluate for respiratory effort
 		* Use a tongue depressor or cotton swab to stimulate the posterior pharynx on each side\
-		A laryngoscope can be used for assistance, if required.
+		A laryngoscope is usually required to adequately visualise the pharynx.
 	* **Cough**
 		* Expose the chest to evaluate for respiratory effort
 		* Pass a a tracheal suction catheter to evaluate for cough
+
+:::column-margin
+:::tick
+**Expose the abdomen** prior to testing cough, gag, and apnoea.
+:::
+:::
+		
 * **Apnoea**\
-Conducted last so that an ↑ PaCO~2~ does not confound assessment. Apnoea testing assesses ventilatory drive, and is performed by:
+Conducted last so that an ↑ PaCO~2~ does not confound neurological assessment. Apnoea testing assesses ventilatory drive, and is performed by:
 	* Preoxygenation with 100% O~2~
 	* Expose the chest to evaluate for respiratory effort
 	* Ventilator disconnection\
