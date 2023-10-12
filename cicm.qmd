@@ -148,11 +148,11 @@ Complete the CICM Communication Course prior to the exam; the communication viva
 
 ### Hot Case
 
-The hot case is the only part of the exam that to assesses a candidate at the bedside. The hot case is:
+The hot case is the only part of the exam that assesses a candidate at the bedside. The hot case is:
 
 * Artificial
-* Incompletely correlated with clinical skill
-	* Hot case practice ↑ hot case performance
+* Incompletely correlated with clinical skill\
+Hot case performance does not equal clinical performance, however hot case practice ↑ hot case performance.
 * Routinely performed poorly
 	* 60-70% of candidates pass
 	* Only 30% of candidates pass both cases
@@ -191,7 +191,7 @@ The hot case is the only part of the exam that to assesses a candidate at the be
 		* Structured approach
 		* Can ask key, targeted, relevant questions\
 		Must be balanced.
-			* Too many unnecessary or boilerplate questions suggest a lack of direction or though
+			* Too many unnecessary or boilerplate questions suggest a lack of direction or thought
 			* Too few questions means key information may not be provided
 	* **Intermission**\
 	Brief period during which:
@@ -200,21 +200,15 @@ The hot case is the only part of the exam that to assesses a candidate at the be
 		* The clock is stopped
 		* You can collate your thoughts and prepare the presentation
 	* **Presentation**\
-	3-5 minute presentation that:
-		* Should be concise, comprehensive, and *rapidly* delivered
-		* Consists of:
-			* A **brief**, 1-2 sentence **introduction** that provides an overview of the clinical scenario
-			* **Answers the question**\
-			This should occur even if the answer is not clear - it will often be contingent on the availability and interpretation of ancillary information.
-			* Provides a **rationale** for the answer\
-			Signposted, systematic description of the justifications for that answer.
-			* Outlines any **caveats**\
-			Signposted, systematic list of any concerns that may impact your decision, and how you plan to investigate them.
-			* A list of relevant positive and negative findings from the clinical examination
-		* Justifies that answer
-		* Includes either:
-			* Assumptions
-			* Additional investigations
+	3-5 minute presentation that should be concise, comprehensive, and *rapidly* delivered. Consists of:
+		* A **brief**, 1-2 sentence **introduction** that provides an overview of the clinical scenario
+		* **Answers the question**\
+		This should occur even if the answer is not clear - it will often be contingent on the availability and interpretation of ancillary information.
+		* Provides a **rationale** for the answer\
+		Signposted, systematic description of the justifications for that answer.
+		* Outlines any **caveats**\
+		Signposted, systematic list of any concerns that may impact your decision, and how you plan to investigate them.
+		* A list of relevant positive and negative findings from the clinical examination
 	* **Further questioning**
 
 :::column-margin

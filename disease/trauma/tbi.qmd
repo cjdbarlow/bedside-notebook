@@ -324,12 +324,20 @@ Details of **ICP management including indications** and **treatment of ↑ ICP**
 	* Evacuation of extra-axial haemorrhage
 	* CSF drainage
 	* Decompressive **craniectomy**
-		* Primary (early) decompressive craniectomy has no role
-		* Secondary (late) decompressive craniectomy for refractory ↑ ICP has a *possible* role:
-			* Performed for refractory ↑ ICP
+		* Primary (early) decompressive craniectomy
+			* Removal of bone flap during initial evacuation of mass lesion
+			* Has a defined role in specific clinical scenarios:
+				* Small acute SDH with overly-proportional midline shift
+				* Acute SDH with cerebral contusions or pupillary abnormalities
+				* Intraoperative ↑ ICP
+				* Coagulopathy
+		* Secondary (late) decompressive craniectomy
+			* Removal of bone flap for refractory ↑ ICP
 			* ↓↓ Mortality but ↑ morbidity in survivors
+			* Has a *possible* role in TBI
 * Physical
 	* Head of bed elevation
+
 
 :::column-margin
 Late decompressive craniectomy results in:

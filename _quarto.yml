@@ -1105,6 +1105,14 @@ book:
     # Procedures
     - part: "Procedures"
       chapters:
+      - part: "Resuscitative"
+        chapters:
+        - procedures/oesophageal.qmd
+        - procedures/resus_thoracotomy.qmd
+        # Resternotomy
+        # Thoracotomy
+        # Caesarian
+        # Blakemore
       - part: "Airway"
         chapters:
           # - part: "Basic"
@@ -1134,13 +1142,6 @@ book:
       - part: "Other"
         chapters:
         - procedures/lp.qmd
-      - part: "Resuscitative"
-        chapters:
-        - procedures/resus_thoracotomy.qmd
-        # Resternotomy
-        # Thoracotomy
-        # Caesarian
-        # Blakemore
       # - part: "Drains"
       #   chapters:
           # ICC

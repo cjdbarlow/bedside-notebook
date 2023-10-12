@@ -1,0 +1,191 @@
+# Oesophageal Balloon
+
+:::info
+Oesophageal balloons include the Linton-Nachlas (Linton) tube, Sengstaken-Blakemore (Blakemore) tube, and Minnesota tube, which differ in the number and size of the balloon(s).
+:::
+
+Oesophageal balloon tamponade is used for **temporisation** of massive variceal haemorrhage until definitive treatment (generally endoscopy, occasionally TIPS) can be performed. 
+
+:::column-margin
+![Oesophageal Balloon](/resources/oesophageal_balloon.png)
+:::
+
+## Indications
+
+* Massive variceal haemorrhage\
+Use has substantially ↓ with improved access to endoscopy. Provides control of up to:
+	* 92% of oesophageal haemorrhage
+	* 88% of gastric haemorrhage
+
+
+## Contraindications
+
+* Non-secure airway
+* Controlled variceal haemorrhage
+* Oesophageal rupture\
+Boerhaave syndrome.
+* Oesophageal stricture
+* Unclear source of bleeding
+
+:::column-margin
+:::caution
+Oesophageal tamponade should only be performed on an intubated patient.
+:::
+:::
+
+## Anatomy
+
+* The oesophagus is usually ~25cm long
+* Varices may occur with portal hypertension and may form in the:
+	* Distal third of the oesophagus
+	* Gastric fundus
+	* Gastric antrum
+
+
+## Equipment
+
+* PPE\
+High volume haematemesis.
+* Laryngoscope
+* Oesophageal balloon
+* Lubricant
+* 50mL syringe
+* Stopcocks
+* Luer-lock caps
+* Pressure manometer\
+As used for ETT cuff inflation.
+* Portable XR
+* 500mL-1L saline\
+Or similar, for traction.
+* Crepe bandage
+
+:::column-margin
+![Linton-Nachlas Tube](/resources/linton.jpg)
+:::
+
+:::column-margin
+![Sengstaken-Blakemore Tube](/resources/blakemore.jpg)
+:::
+
+:::column-margin
+![Minnesota Tube](/resources/minnesota.jpg)
+:::
+
+: Comparison of Oesophageal Tamponade Tubes
+
++--------------+-----------------------------+-----------------------------------------------+------------------------------------------------------------------------+
+| Property     | Linton-Nachlas              | Sengstaken-Blakemore                          | Minnesota                                                              |
++==============+=============================+===============================================+========================================================================+
+| **Balloons** | * Gastric balloon\          | * Gastric balloon\                            | * Gastric balloon\                                                     |
+|              | ~800mL volume.              | 6cm long, ~250mL volume.                      | ~500mL volume.                                                         |
+|              |                             | * Oesophageal balloon\                        | * Oesophageal balloon\                                                 |
+|              |                             | 14cm long, 3.2cm diameter at 40mmHg pressure. |                                                                        |
++--------------+-----------------------------+-----------------------------------------------+------------------------------------------------------------------------+
+| **Ports**    | * Gastric suction           | * Gastric suction                             | * Gastric suction                                                      |
+|              | * Gastric balloon inflation | * Gastric balloon inflation                   | * Gastric balloon inflation                                            |
+|              | * Oesophageal suction       | * Oesophageal balloon inflation               | * Oesophageal suction                                                  |
+|              |                             |                                               | * Oesophageal balloon inflation                                        |
++--------------+-----------------------------+-----------------------------------------------+------------------------------------------------------------------------+
+| **Other**    |                             |                                               | * Gastric and oesophageal inflation ports also include manometry ports |
++--------------+-----------------------------+-----------------------------------------------+------------------------------------------------------------------------+
+
+
+## Technique
+
+:::crisis
+**Inflation** of the **gastric balloon in** the **oesophagus is** usually **fatal**. Ensure the device is seated correctly in the stomach before inflating the oesophageal balloon.
+:::
+
+Preparation:
+
+* Sit the patient at 45°\
+↓ Aspiration risk.
+* Check each balloon for leaks by underwater inflation
+* Thoroughly lubricate each balloon
+
+:::column-margin
+Tubes can be placed nasally, and historically this seems common. However, in general oral placement is preferred as the patient is:
+
+* Intubated\
+Or should be, given the high risk of aspiration.
+* Coagulopathic
+* Thrombocytopaenic
+:::
+
+Insertion:
+
+* Insert the tube via the mouth under laryngoscopic guidance to **50cm**
+* Inflate the gastric balloon with 50-100mL of air
+* **Confirm position of the gastric balloon** under the diaphragm with **CXR**
+* Fully inflate gastric balloon\
+See the above table for the total volume. Use a stopcock to prevent gas leaking out whilst insufflating the tube.
+* Gently retract balloon back against the gastric fundus until resistance is felt\
+Usually at 30-35cm.
+* Tie crepe bandage to balloon and to bag of saline, and then perform traction using the bed pole.
+* Attach medium suction to gastric port\
+60-100mmHg suction.
+* Attach high suction to oesophageal port\
+120-150mmHg. 
+
+:::column-margin
+![Minnesota - No Traction](/resources/minnesota_notract.jpeg)
+:::
+
+:::column-margin
+![Minnesota - Under Traction](/resources/minnesota_tract.jpeg)
+:::
+
+
+Oesophageal Tamponade:
+
+* Gastric fundal tamponade is usually adequate; oesophageal inflation should only be used if there is continual bleeding despite an adequately inflated and tensioned gastric balloon
+* Inflate oesophageal balloon to **25-30mmHg**
+* Deflate balloon by 10mmHg Q2H once bleeding has resolved
+
+
+Removal:
+
+:::column-margin
+Local protocols may vary, this describes one method for staged removal.
+:::
+
+* Fully deflate the oesophageal balloon
+* Monitor for 4-6 hours
+* Release tension on the gastric balloon
+* Monitor for further 4-6 hours
+* Deflate the gastric balloon
+* Monitor for further 4-6 hours
+	* Gastric aspirates for blood volume
+	* Haemodynamic stability
+* Remove the tube
+
+
+## Complications
+
+:::caution
+This is a morbid procedure; **overall complication rate is ~20%**.
+:::
+
+:::column-margin
+![Minnesota - Malpositioned](/resources/minnesota_mal.jpg)
+:::
+
+* A
+	* Aspiration
+* C
+	* Cardiac compression
+* D
+	* Pain
+* G
+	* Oesophageal perforation
+	* Pressure necrosis
+		* Deflate after 12 hours
+		* Do not use longer than 24-36 hours
+
+---
+
+## References
+
+1. Lee BT, Kahn JA. [Balloon Tamponade for Variceal Hemorrhage](http://link.springer.com/10.1007/978-3-319-78367-3_32). In: Demetriades D, Inaba K, Lumb PD, editors. Atlas of Critical Care Procedures [Internet]. Cham: Springer International Publishing; 2018 [cited 2023 Oct 12]. p. 283–8.
+1. Birse DRB. [Inferolateral ST-segment elevation associated with a gastric variceal bleed and the use of a Minnesota tube](https://casereports.bmj.com/content/2014/bcr-2013-202795.full). Case Reports. 2014 Jan 20;2014(jan20 1):bcr2013202795–bcr2013202795. 
+

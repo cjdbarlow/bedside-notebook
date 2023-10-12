@@ -201,6 +201,12 @@ Burn recovery is a **hypermetabolic state**; energy expenditure may be doubled a
 	* Nutrition
 		* Feed within 12 hours
 		* Trace element supplementation
+* H
+	* Thromboprophylaxis\
+	Critical due to the high risk of VTE. Described regimens include:
+		* Heparin 5000 units Q8H
+		* Enoxaparin 0.5mg/kg Q12H
+		* Enoxaparin Q12H, adjusted to target anti-Xa 0.2-0.4 IU/mL
 * I
 	* Infection monitoring
 	

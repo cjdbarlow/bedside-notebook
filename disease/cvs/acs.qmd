@@ -184,6 +184,11 @@ Bloods:
 		* Resolve over 7-14 days\
 		Prolonged in renal failure.
 	* CK
+	* AST\
+	Non-specific for myocardial injury, and no longer used for diagnosis.
+		* Rises after 6-8 hours
+		* Peaks at 24-36 hours
+		* Normalises at 3-7 days
 
 ECG:
 
@@ -467,3 +472,5 @@ Infarct size is influenced by time to reperfusion, and determines degree of:
 
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
 1. Ducrocq G, Gonzalez-Juanatey JR, Puymirat E, et al. [Effect of a Restrictive vs Liberal Blood Transfusion Strategy on Major Cardiovascular Events Among Patients With Acute Myocardial Infarction and Anemia: The REALITY Randomized Clinical Trial](https://jamanetwork.com/journals/jama/article-abstract/2776201). JAMA. 2021;325(6):552-560. doi:10.1001/jama.2021.0135
+1. Ndrepepa G. [Aspartate aminotransferase and cardiovascular disease—a narrative review](https://jlpm.amegroups.org/article/view/5898). Journal of Laboratory and Precision Medicine [Internet]. 2021 Jan 30 [cited 2023 Oct 12];6(0).
+

@@ -13,7 +13,10 @@ Inducible enzyme produced predominantly in the biliary tract. Highly non-specifi
 * Alkaline Phosphatase (**ALP**)\
 Ubiquitous enzyme, found predominantly in on the surface of bile canaliculi, bone (during formation), intestine, and placenta.
 * Aspartate Aminotransferase (**AST**)\
-Kreb cycle enzyme, present in many tissues but most concentrated in **hepatocytes** and **muscle**.
+Kreb cycle enzyme, present in many tissues but most concentrated in:
+	* **Hepatocytes**
+	* **Muscle**\
+	↑ In rhabdomyolysis and MI.
 * Alanine Transaminase (**ALT**)\
 Kreb cycle enzyme, used to turn alanine into pyruvate. Present in (essentially) all cells, but abundant in hepatocytes. ALT is:
 	* Released after AST

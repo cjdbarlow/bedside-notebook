@@ -8,13 +8,6 @@ Includes:
 	* AV block
 	* Asystole
 
-
-# Procedure
-
-* Place 5-6Fr sheath\
-	* Right IJV best for convenience and familiarity
-	* Avoid left SCV - may be needed for a permanent system
-
 ## Indications
 
 ## Contraindications
@@ -23,7 +16,59 @@ Includes:
 
 ## Equipment
 
+* Sheath
+* Transvenous pacing wire
+* Pacing adaptor\
+To connect wires to pacing system.
+	* Black to negative terminal
+	* Red to positive terminal
+* External pacing system
+
+
 ## Technique
+
+Insertion:
+
+* Ensure ECG connected
+* Place 5-6Fr introducer\
+	* Right IJV best for convenience and familiarity
+	* Aim to avoid left SCV - may be needed for a permanent system
+* Insert pacing wire through sheath and connect sterile sheath
+* Apply dressing\
+The sterile portion of the procedure is now completed.
+
+:::column-margin
+The wire is easier to float into position without the sterile sheath in situ, and can be done if you have a skilled assistant who can handle the non-sterile aspects of the procedure.
+:::
+
+Establish pacing:
+
+* Set external pacing system\
+Consider VVI 80, output 5mA, sensitivity threshold 0.8mV.
+* Attach external pacing system to wires
+* Inflate balloon\
+Ensure balloon is out of the end of the introducer.
+* Slowly insert wire, looking for:
+	* ↑ HR to set rate
+	* Alternation of QRS morphology
+	ST segment elevation in V~1~ or LBBB appearance.
+* Secure wire in location
+* *Partially* deflate balloon
+	* Full deflation of the balloon may ↑ risk of perforation
+	* No deflation ↑ risk of wire dislodgement
+* Have patient cough to ensure wire doesn't move
+
+
+Removal:
+
+:::column-margin
+Consider removal in the morning in usual business hours to ↓ risk of tamponade.
+:::
+
+* Ensure restoration of a normal rhythm, or availability of alternative pacing
+* Disconnect the pacing box
+* Fully deflate the balloon
+* Remove the wire via the sheath
 
 ## Complications
 

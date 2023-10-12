@@ -1,5 +1,9 @@
 # Antibiotics {#sec-antibiotics}
 
+:::info
+Cockcroft-Gault should generally be used to calculate creatinine clearance, as this is the standard in pharmacokinetic studies.
+:::
+
 : Comparison of Antibiotic Classes
 
 +---------------------+------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------+
@@ -236,7 +240,7 @@ All CrCl values are given in mL/min.
 |                                       |                              | CRRT: 2g Q12H IV                   |
 +---------------------------------------+------------------------------+------------------------------------+
 
-: Dosing of Lincomycins
+: Dosing of Lincosamides
 
 +-----------------+------------+---------------------------------------+
 | Drug            | Indication | Dosing                                |
