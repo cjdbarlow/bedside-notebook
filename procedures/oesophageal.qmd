@@ -7,7 +7,7 @@ Oesophageal balloons include the Linton-Nachlas (Linton) tube, Sengstaken-Blakem
 Oesophageal balloon tamponade is used for **temporisation** of massive variceal haemorrhage until definitive treatment (generally endoscopy, occasionally TIPS) can be performed. 
 
 :::column-margin
-![Oesophageal Balloon](/resources/oesophageal_balloon.png)
+![Oesophageal Balloon Tamponade](/resources/oesophageal_balloon.png)
 :::
 
 ## Indications
@@ -36,8 +36,9 @@ Oesophageal tamponade should only be performed on an intubated patient.
 ## Anatomy
 
 * The oesophagus is usually ~25cm long
-* Varices may occur with portal hypertension and may form in the:
+* Varices occur secondary to portal hypertension, and may form in the:
 	* Distal third of the oesophagus
+	* Gastro-oesophageal junction
 	* Gastric fundus
 	* Gastric antrum
 
@@ -122,6 +123,8 @@ See the above table for the total volume. Use a stopcock to prevent gas leaking 
 * Gently retract balloon back against the gastric fundus until resistance is felt\
 Usually at 30-35cm.
 * Tie crepe bandage to balloon and to bag of saline, and then perform traction using the bed pole.
+* Secure the balloon in location\
+Consider using an additional connector on the endotracheal tube fastener.
 * Attach medium suction to gastric port\
 60-100mmHg suction.
 * Attach high suction to oesophageal port\
@@ -129,6 +132,10 @@ Usually at 30-35cm.
 
 :::column-margin
 ![Minnesota - No Traction](/resources/minnesota_notract.jpeg)
+:::
+
+:::column-margin
+![Secured Balloon](/resources/oesophageal_secure.png)
 :::
 
 :::column-margin
@@ -188,4 +195,4 @@ This is a morbid procedure; **overall complication rate is ~20%**.
 
 1. Lee BT, Kahn JA. [Balloon Tamponade for Variceal Hemorrhage](http://link.springer.com/10.1007/978-3-319-78367-3_32). In: Demetriades D, Inaba K, Lumb PD, editors. Atlas of Critical Care Procedures [Internet]. Cham: Springer International Publishing; 2018 [cited 2023 Oct 12]. p. 283–8.
 1. Birse DRB. [Inferolateral ST-segment elevation associated with a gastric variceal bleed and the use of a Minnesota tube](https://casereports.bmj.com/content/2014/bcr-2013-202795.full). Case Reports. 2014 Jan 20;2014(jan20 1):bcr2013202795–bcr2013202795. 
-
+1. Mason, J. [Placement of a Linton tube for Bleeding Varices](https://www.youtube.com/watch?v=VgfQqxP0mTc). EM:RAP Productions. Youtube. 1 Apr 2016.

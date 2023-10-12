@@ -30,16 +30,41 @@ Usually 0.5-3% of total haemoglobin per day.
 		* Chloroquine
 		* Dapsone
 
-## Clinical Features
+## Assessment
 
-* Cyanosis
+Features relate to impaired oxygen transport:
+
+* Cyanosis\
+This is paradoxical, as the SpO~2~ will generally be ~85% - too high to cause cyanosis.
 * ↓ DO~2~
 	* Angina
 	* Dyspnoea
 	* Confusion → obtundation
 * SpO~2~ 85-90%
 
-## Assessment
+:::column-margin
+: Symptoms by Methaemoglobin Level
+
++--------+------------------------+
+| Level  | Features               |
++========+========================+
+| <2%    | \-                     |
++--------+------------------------+
+| 3-15%  | * Asymptomatic         |
+|        | * Cyanosis *may* occur |
++--------+------------------------+
+| 20-30% | * Fatigue              |
+|        | * Dyspnoea             |
+|        | * ↑ HR                 |
+|        | * Nausea/vomiting      |
+|        | * Anxiety, confusion   |
++--------+------------------------+
+| \>40%  | * Arrhythmia           |
+|        | * Shock                |
+|        | * Seizure              |
+|        | * Coma                 |
++--------+------------------------+
+:::
 
 ### History
 
@@ -49,11 +74,22 @@ Usually 0.5-3% of total haemoglobin per day.
 
 **Bedside**:
 
+:::column-margin
+![Methaemoglobinaemia vs. Normal Blood](/resources/methb.png)
+:::
+
+* Brown blood test\
+Brown discolouration of blood will remain unchanged as it clots. Normal blood will redden as it uptakes oxygen from the atmosphere.
+* Pulse oximetry\
+Typically reads 82-86%, independently of the true PaO~2~.
 * ABG
 	* Normal PO~2~
 	* ↑ MetHb
 
 **Laboratory**:
+
+* Blood
+	* MetHb levels
 
 **Imaging**:
 
@@ -101,7 +137,10 @@ See @sec-G6PD.
 					* MetHb >20%
 			* Can repeat in 30-60 minutes
 			* May induce methaemoglobinaemia in high doses
-		* Ascorbic acid 200mg/kg
+			* Contraindicated in:
+				* G6PD
+				* Serotonin syndrome
+		* **Ascorbic acid** 1.5-3g IV Q6H
 		* NAC
 * Procedural
 	* Exchange transfusion
@@ -129,3 +168,5 @@ See @sec-G6PD.
 ---
 
 ## References
+
+1. Paul A, Chacko ST. [Congenital methaemoglobinaemia diagnosed in an adolescent boy](https://casereports.bmj.com/content/12/3/e228470). BMJ Case Rep. 2019 Mar;12(3):e228470. 

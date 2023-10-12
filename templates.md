@@ -120,11 +120,9 @@ Intro and technique
 
 ### Aetiology
 
-## Clinical Features
+## Assessment
 
 Symptoms and signs of this condition.
-
-## Assessment
 
 ### History
 
