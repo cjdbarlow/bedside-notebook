@@ -1,0 +1,239 @@
+# Legionellosis {#sec-legionella}
+
+:::info
+The pneumonic form of legionellosis is also known as **Legionnaires' disease**, and the non-pneumonic form as **Pontiac fever**. This section focuses on the pneumonic form.
+:::
+
+Legionellosis is an umbrella term encompassing infection with the *Legionella* bacterium which is transmitted by inhalation of aerosols from contaminated water or soil, and is divided into:
+
+* **Pneumonic form**
+	* 2-10 day incubation
+	* Constitutional symptoms
+	* Mild to severe pneumonia
+		* Haemoptysis is common
+	* 5-10% mortality
+	* Weeks-months duration
+* **Non-pneumonic form**
+	* 4-48 hour incubation
+	* Acute, self-limiting flu-like illness
+	* 2-5 day duration
+
+
+## Epidemiology and Risk Factors
+
+Epidemiology:
+
+* ~2/100,000
+* 1-10% of CAP
+
+Risk factors:
+
+* Age
+* Male
+* Smoking
+* Heavy alcohol use
+* Pulmonary disease
+
+
+## Pathophysiology
+
+*Legionella* is:
+
+* Gram negative
+* Aerobic
+* Intracellular
+	* May also infect protozoa
+	* Aspirated bacteria attach to alveolar macrophages and epithelium
+* Fastidious
+
+
+
+### Aetiology
+
+Transmission occurs via inhalation of contaminated aerosols from contaminated water, and not by human-human transmission. There are >60 strains; key pathogenic strains include:
+
+* ***L. pneumophila***
+	* National and artificial systems\
+		* Grow at 20-50°C
+		* Contamination occurs when changes in water behaviour disrupt biofilms, releasing a bacterial bolus into the water
+	* Most prevalent strain\
+	Serotype 1 causes >80% of all cases worldwide.
+* ***L. longbeachae***
+	* Potting mixes
+	* Soil
+	* Second most prevalent strain\
+	Particularly in Australia and New Zealand.
+* *L. micdadei*
+* *L. bozemanii*
+* *L. feeleii*
+* *L. anisa*
+* *L. dumoffii*
+
+:::column-margin
+Possible sources include:
+
+* Air conditioning cooling towers
+* Hot and cold water systems
+* Humidifiers
+* Whirlpool spas
+* Water birth
+:::
+
+## Assessment
+
+Common clinical features include:
+
+{{< include /includes/flu_like.qmd >}}
+* Nausea
+* Vomiting
+
+:::column-margin
+Fever and fatigue typically proceed the onset of cough.
+:::
+
+
+Extra-pulmonary infections are rare, but may include:
+
+* Cellulitis
+* Abscesses
+* Endocarditis
+* Meningitis
+
+### History
+
+
+### Examination
+
+* Crepitations
+
+
+### Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+* Blood
+	* FBE
+	* LFT
+		* ↑ ALT/AST
+	* UEC
+		* ↓ Na~+~
+	* CRP >100
+* Sputum
+	* Deep respiratory sample PCR\
+	Preferred diagnostic test as it detects all species and has high diagnostic accuracy.
+	* Culture
+		* Requires rapid processing\
+		Poor survival in secretions.
+* Urine
+	* Antigen\
+	Only detects *L. pneumophila* serotype 1.
+
+
+**Imaging**:
+
+:::column-margin
+![Legionella Pneumonia](/resources/legionella_pneumonia.png)
+:::
+
+* CXR
+	* Patchy unilobular infiltrates
+
+**Other**:
+
+### Diagnostic Approach and DDx
+
+:::caution
+Legionnaire's disease should be considered in any patient with:
+
+* Moderate-severe pneumonia
+* Possible exposure to *Legionella*
+* Immunocompromise
+:::
+
+Features differentiating Legionnaire's disease from other causes of CAP include:
+
+* GIT symptoms
+* ↑ ALT/AST
+* ↓ Na~+~
+* CRP >100
+* **Failure to respond to beta-lactam** monotherapy
+
+## Management
+
+:::priority
+* Early antimicrobial therapy
+* Respiratory support
+:::
+
+**Resuscitation**:
+
+**Specific therapy**:
+
+:::column-margin
+"Atypical cover" in standard empiric CAP regimens are designed to cover (among others) *Legionella*, and is covered in detail under @sec-pneumonia. Note that unlike fluoroquinolones, macrolides or tetracyclines alone do not provide adequate empiric CAP cover.
+:::
+
+* Pharmacological
+	* Antimicrobial\
+	5-day course of either:
+		* Macrolide
+			* Azithromycin 500mg PO load, then 250mg PO daily
+			* Clarithromycin 500mg PO BD, then 1g PO daily
+		* Tetracycline
+			* Doxycycline 100mg PO BD\
+			*L. longbeachae* is commonly resistant.
+		* Fluoroquinolones
+			* Levofloxacin
+			* Moxifloxacin
+* Procedural
+* Physical
+
+:::column-margin
+**Macrolides are preferred** because they are bactericidal, have excellent pulmonary tissue penetration, and are active against all pathogenic strains.
+:::
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+* Water safety plans
+	* Regular maintenance
+	* Drift eliminators\
+	↓ Aerosol dissemination.
+	* Biocide use\
+	e.g. Chlorine.
+	* Temperature control
+		* Hot water >50°C
+		* Cold <25°C\
+		Ideally <20°C.
+	* Flush water sources regularly
+* Work with soil in a well ventilated area
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+* Death
+	* 5-10%
+	* Up to 40% in immunocompromised
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. World Health Organisation. 2022. [Legionellosis](https://www.who.int/news-room/fact-sheets/detail/legionellosis) [Fact Sheet].
+1. Thibodeau KP, Viera AJ. [Atypical Pathogens and Challenges in Community-Acquired Pneumonia](https://www.aafp.org/pubs/afp/issues/2004/0401/p1699.html). American Family Physician. 2004 Apr 1;69(7):1699–707. 
+1. Case courtesy of Henry Knipe, [Radiopaedia.org](https://radiopaedia.org/?lang=us). From the case [rID: 31816](https://radiopaedia.org/cases/31816?lang=us).

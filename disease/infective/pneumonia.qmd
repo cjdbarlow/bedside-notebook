@@ -1,0 +1,668 @@
+# Pneumonia {#sec-pneumonia}
+
+Infection of pulmonary parenchyma that is:
+
+:::column-margin
+Systemic symptoms are much less common in the elderly and may be absent.\
+\
+Non-respiratory symptoms may also be present.
+:::
+
+* **Defined by** presence of both:
+    * **Symptoms of** acute **infection**
+    * Evidence of **pulmonary infiltrate**
+        * Radiographic
+        * Clinical\
+        Crepitations, etc.
+* **Divided** by epidemiology **into**:
+    * **Community Acquired Pneumonia**\
+    Pneumonia in a patient who was not hospitalised prior to the onset of symptoms.
+    * Nosocomial Pneumonias:
+        * **Hospital Acquired Pneumonia**\
+        Pneumonia within 48 hours of hospital admission.
+        * **Ventilator Acquired Pneumonia**\
+        Pneumonia within 48 hours of intubation.
+
+:::column-margin
+VAP is ventilator-*associated*, i.e. there is no requirement to demonstrate causality.
+:::
+
+
+:::column-margin
+"Atypical" pneumonia describes infection that is:
+
+* Responsible for up to 40% of CAP
+* Caused by organisms that are less detectable on Gram stain\
+Including:
+    * *M. pneumoniae*
+    * *C. pneumoniae*
+    * *L. pneumophilia*
+    * *Coxiella burnetti*
+* Dominated by constitutional, rather than respiratory, symptoms
+* *Generally* milder
+* Not covered by ß-lactams\
+Requires treatment with macrolides or tetracyclines.
+:::
+
+## Epidemiology and Risk Factors
+
+CAP has an annual incidence of up to 4% of the population:
+
+* 50% require hospital admission
+    * Mortality 10% among the hospitalised group
+* 10% require ICU admission
+
+
+HAP:
+
+* Occurs in 0.5-5% of inpatients
+
+
+VAP:
+
+* 8-30% of mechanically ventilated patients
+    * ~3%/day over first 5 days, with a decline thereafter
+* 25-50% mortality
+    * Earlier infections are typically less-resistant and therefore more treatable than late-developing VAP
+
+
+Risk factors:
+
+* Immunocompromised
+    * Critically unwell
+        * In ICU
+    * Diabetes
+    * Advanced age
+* Microaspiration
+    * Intubated
+    * ↓ Conscious state
+    * NGT in situ
+* Pathology
+    * Chronic lung disease
+    * Receiving antibiotics
+* Procedural
+    * Post-operative
+    * Bronchoscopy
+    * Thoracic surgery
+    * Abdominal surgery
+* Environmental
+    * Local biogram
+    * Regular ventilator tubing changes
+
+
+## Pathophysiology
+
+Proposed mechanisms include:
+
+* Microaspiration of upper respiratory tract colonisers
+* Local spread
+* Haematogenous spread
+
+
+### Aetiology of Community Acquired Pneumonia
+
+There are vast numbers of potentially causative organisms, however the most common in patients requiring ICU admission are:
+
+* Viral\
+25%, most commonly:
+    * RSV
+    * Influenza
+* ***S. Pneumoniae***
+* *H. Influenzae*
+* *Legionella* spp.
+* *Enterobacteriaceae* spp.
+* *S. aureus*
+* *Pseudomonas* spp.
+
+:::column-margin
+Staphylococcal infections are covered in detail under @sec-staph. Legionellosis is covered under @sec-legionella.
+:::
+
+Factors favouring infection with certain organisms include:
+
+* Exposures
+    * Animal
+        * Animal exposures
+        * Birds and excreta
+        * Parturient pets or farm animals
+        * Insect bites
+        * Mice and excreta
+        * Bats and excreta
+    * Geographical factors
+        * TB prevalence
+        * Locally endemic organisms
+* Patient factors
+    * IVDU
+    * Alcoholism 
+    * Respiratory disease
+        * COPD
+        * CF
+        * Bronchiectasis
+    * Other disease
+        * Diabetes
+        * Sickle cell
+        * Poor dental hygiene
+    * Immunosuppression\
+* Disease factors
+    * Sputum smell
+    * Lung abscesses
+    * Empyema
+
+
+### Aetiology of Nosocomial Pneumonia
+
+Broadly, three classes of infection can occur:
+
+* Most **common**\
+Aerobic gram negative bacilli:
+    * *Klebsiella* spp.
+    * *E. coli*
+    * *Pseudomonas* spp.
+* **Early-onset**\
+VAP within **5 days** is more likely to include a wider array of community pathogens: 
+    * MRSA
+    * *S. pneumoniae*
+    * *H. influenzae*
+* **Late-onset**\
+After 5 days, exogenous MRO may be seen:
+    * MRSA
+    * *P. aeruginosa*
+    * *Acinetobacter baumannii*
+    * *S. maltophilia*
+
+:::column-margin
+Risk factors for MRO include:
+
+* Disease
+    * Immunosuppression
+    * Bronchiectasis
+    * Septic shock
+    * ARDS
+* Treatment
+    * Prior IV ABx in previous 90 days
+    * Hospitalisation >5 days
+    * RRT
+* Environmental
+    * High local MDR burden 
+:::
+
+## Assessment
+
+May be either:
+
+* Systemic
+    * Fever
+    * Sweats
+    * Rigors
+* Respiratory
+    * Productive cough
+    * Pleural rub
+    * Inspiratory crepitations
+
+
+:::column-margin
+Clinical signs of respiratory infection without CXR infiltrates are suggestive of tracheobronchitis.
+:::
+
+### History
+
+* Prognostic factors
+    * Cardiopulmonary
+        * Smoking
+        * COPD
+        * CCF
+        * Pulmonary hypertension
+        * Exercise tolerance
+    * Immune function
+        * Immunocompromise
+        * Vaccinations
+    * Malignancy
+        * Chemotherapy
+    * Other organ failures
+* Aetiology
+    * Country of origin
+    * Travel history
+    * TB exposure
+    * Recent hospital admission
+    * Recent antibiotic use
+    * Activities
+        * Gardening
+        * Bushwalking
+        * Animal exposure
+            * Birds
+            * Pets
+
+### Examination
+
+
+### Investigations
+
+**Laboratory**:
+
+* **Blood**:
+    * FBE\
+    WCC may ↑ or ↓.
+    * UEC
+    * LFT
+    * Blood cultures (×2-3)
+    * Procalcitonin\
+    May have a role in timing deescalation of antibiotics.
+    * CRP\
+        * Prognostic
+        * ↑ CRP identifies a subgroup that demonstrate ↑ benefit from steroids
+    * HIV status
+* **Sputum**:
+    * Tests include:
+        * Gram stain
+        * Culture\
+        Neither sensitive nor specific; more accurate results seen with:
+            * Induced sputum
+            * Deep tracheal suctioning
+            * BAL
+        * *Mycoplasma pneumoniae* PCR
+        * *Chlamydophila* PCR
+        * Influenza PCR
+        * *Legionella* PCR
+        * COVID PCR
+    * Collection is ideally:
+        * From a **deep cough**\
+            * To minimise contamination from upper respiratory tract commensals
+            More complex in the intubated patient; options (in order of preference) include:
+                * Tracheal aspirate\
+                Identify potentially causative organisms but is not quantitative.
+                * Bronchial washings
+                * Bronchoalveolar lavage
+                * Prior to antibiotics
+    * Rapid transport to laboratory ↑ chance of detecting fastidious organisms
+    * Causative organism is likely if:
+        * Dominant on gram stain
+        * Heavy growth on culture
+* **Urine**:
+    * Legionella antigen\
+        * Highly specific but not sensitive for infection\
+        Only detects *Legionella pneumophilia*, and not other pathogenic strains.
+    * Pneumococcal antigen\
+        * Highly specific and moderately sensitive
+        * Unaffected by antibiotic therapy
+        * Level correlates with severity
+        * May have a role in narrowing spectrum of treatment to penicillin alone
+
+:::column-margin
+Anaerobic culture cannot be performed on sputum due to contamination from other upper respiratory organisms.
+:::
+
+:::column-margin
+Interpretation of sputum cultures is fraught due to the amount of contamination with oropharyngeal flora. Tracheal aspirate or BAL is preferable.
+:::
+
+:::column-margin
+The primary role of sputum culture in HAP/VAP is to identify resistant organisms and allow de-escalation to a narrower spectrum when the resistance profile is determined.
+:::
+
+
+**Imaging**:
+
+* CXR\
+    * Infiltrates required for diagnosis is many guidelines, although may be absent in up to 25%
+    * Appearance usually worsens in initial period, even with institution of appropriate antibiotics\
+    Features of concern are:
+        * Cavitation
+        * Pleural effusion
+    * Radiographic improvement lags behind clinical response
+* CT\
+More sensitive than CXR.
+* Lung ultrasound
+
+
+## Diagnostic Approach and DDx
+
+Several tools exist to determine severity:
+
+* **CURB-65**\
+Good for identifying low-mortality patients, more useful in ED and GP practices.
+    * Consists of:
+        * **C**onfusion
+        * **U**rea >7mmol/L
+        * **R**espiratory rate ⩾30
+        * S**B**P <90mmHg or DBP <60mmHg
+        * Age ⩾**65**
+    * Interpretation:\
+    Mortality increases with each additional point.
+        * 0-1: Low risk: Consider home treatment
+        * 2: Intermediate risk: Closely supervised outpatient treatment +/- hospitalisation
+        * \>3: High risk: Hospitalise +/- ICU.
+* **SMART-COP**\
+Better at determining disposition, including need for ICU care.
+    * ⩾4 has 1/3 chance of requiring vasoactive or respiratory support
+    * Consists of:
+        * SBP <90
+        * Multilobar infiltrate
+        * Albumin <35g/L
+        * RR:
+            * \>30 if age >50
+            * \>25 if age >25
+        * Tachycardia >125
+        * Confusion
+        * Oxygen saturation <93%
+        * pH <7.35
+
+:::column-margin
+Other scores include the Pneumonia Severity Index, which is similar to CURB65.
+:::
+
+
+## Management
+
+:::priority
+* **Respiratory support**
+* **Early antimicrobials**
+* Standard **sepsis management**\
+Covered under @sec-sepsis_mx.
+:::
+
+**Resuscitation**:
+
+* A
+    * Intubation\
+    For respiratory failure.
+* B
+    * High-flow oxygen
+    * NIV
+        * Beneficial if there is pneumonia superimposed on another cause of respiratory failure that is manageable with NIV (e.g. APO)
+        * Unhelpful in isolated pneumonia due to ↓ cough efficacy
+    * Mechanical ventilation\
+    If requiring intubation.
+* C
+    * Haemodynamic support if concurrent sepsis 
+
+
+**Specific therapy**:
+
+* Pharmacological
+    * **Antimicrobial therapy**
+        * **CAP**:
+            * Non-tropical
+                * Mild:\
+                5-7 days of:
+                    * Amoxicillin 1g PO TDS
+                    * Clarithromycin 250mg PO BD
+                * Moderate:\
+                7-10 days of dual therapy, either:
+                    * Benzylpenicillin 1.2g IV QID and doxycycline 100mg PO BD
+                    * Ceftriaxone 1g IV daily and doxycycline 100mg PO BD
+                * Severe:\
+                7-10 days of dual therapy, either:
+                    * Ceftriaxone 1g IV daily and azithromycin 500mg IV daily
+                    * Benzylpenicillin 1.2g IV Q4H and gentamicin
+            * Tropical\
+            To cover *Burkholderia pseudomallei* and *Acinetobacter baumannii*:
+                * Meropenem 1g IV TDS and azithromycin 500mg IV daily
+        * **HAP/VAP**:
+            * **7 day course** recommended to reduce subsequent MDR pneumonias.
+            * 2-3 days until clinical response seen is usual
+            * If **failing to respond**, consider:
+                * Wrong bug\
+                Repeat cultures.
+                * Wrong drug\
+                Ensure sensitivity of organism to the antibiotic being used.
+                * Wrong dose\
+                Appropriate for patient weight.
+                * Sequestration\
+                Abscess cavity or similar
+                * Patient factors
+                    * Immunosuppression
+                    * Frailty
+            * No MDR risk factors\
+            Consider:
+                * Tazocin 4.5g Q6-8H
+                * Cefepime 2g Q8H
+                * Meropenem 1g Q8H
+            * MDR risk factors\
+            Consider one of each of:
+                * Antipseudomonal broad spectrum agent\
+                As above.
+                * Additional gram negative cover\
+                ↓ Risk that pathogen is resistant to the primary agent.
+                    * Aminoglycoside 15-20mg Q24H
+                    * Ciprofloxacin 400mg Q8H
+                    * Levofloxacin 750mg Q24H
+                * MRSA cover:
+                    * Linezolid 600mg Q12H\
+                    Preferable due to better pulmonary penetration.
+                    * Vancomycin
+            * Nebulised antibiotics\
+            Appropriate in limited circumstances, namely all of:
+                * VAP
+                * Multi-resistant Gram negative\
+                Sensitive only to:
+                    * Aminoglycosides
+                    * Colistin
+    * **Hydrocortisone**
+        * Probable mortality benefit
+        * Suggest 200mg/day for 4-7 days, followed by 3-7 days of weaning
+        * Unless contraindicated
+            * Chronic infection
+            * Immunocompromised
+            * Poorly controlled diabetes
+            * Pregnancy
+* Procedural
+    * Bronchoscopy
+        * Diagnostic sampling
+        * For segmental or lobar collapse
+* Physical
+
+:::column-margin
+Antimicrobial therapy is often unit or region-specific based on local flora and resistance patterns.
+:::
+
+:::column-margin
+Failure of treatment response is usually due to a resistance Gram *positive*, e.g. *S. pneumoniae*, and so broadening Gram negative cover from ceftriaxone to tazocin is not helpful.
+:::
+
+:::column-margin
+Up to 40% of patients have a polymicrobial infection, so narrowing the spectrum of cover following identification of an organism may result in inadequate treatment.
+:::
+
+:::column-margin
+Nebulisation of antibiotics is:
+
+* Pharmacologically justified by:
+    * Achieving ↑ drug concentration at site of infection
+    * Most antibiotics have poor lung penetration
+    * ↓ Systemic dose and therefore toxicity
+* Limited by:
+    * Uncertain dose delivered
+    * Binding of drug to circuit filter
+    * Complications of excipients
+    * Lack of strong evidence
+* Recommended only for:
+    * Colistin
+:::
+
+:::column-margin
+A reasonable approach to hydrocortisone therapy, including weaning, is included in the summary of the CAPE COD trial; see Key Studies.
+:::
+
+
+**Supportive care**:
+
+* B
+    * Supplemental oxygen
+    * Chest physiotherapy
+        * Sitting position
+        * Bubble PEEP
+        * Encouraging coughing
+
+
+**Disposition**:
+
+* ICU or HDU for severe disease
+
+
+**Prevention**:
+
+* A
+    * Nurse 30° head up to ↓ risk of microaspiration
+    * Oral care Q4H with chlorhexidine mouthwash BD
+    * Use cuff-pressures
+    * Use subglottic suctioning
+    * Use closed suction circuits
+    * Avoid non-essential suctioning
+    * Intubate orally (rather than nasally)
+    * Minimise changes of ventilation equipment
+        * Suction catheters
+        * Humidifiers
+        * Circuit\
+        Weekly intervals.
+* B
+    * Minimise duration of mechanical ventilation
+* E
+    * Early mobilisation
+* G
+    * SDD
+    * Post-pyloric feeding
+    * Avoid NG tubes\
+    OG tubes are preferable.
+
+
+### Marginal and Ineffective Therapies
+
+
+## Complications
+
+* Nosocomial pneumonias ↑ hospital LoS by ~13 days
+* B
+    * Parapneumonic **effusion**
+        * Uncomplicated effusions resolve with resolution of the underlying infection
+        * Complex effusions:
+            * Develop 1-2 weeks after the initial fluid collection
+            * May occur with persistent fevers and have organisms on Gram stain\
+            Essentially empyema-lite.
+    * **Empyema**
+    Collection of pus in the pleural space, usually evolving from a parapneumonic effusion. Antibiotics are adjunctive - these require drainage.
+    * **Cavitating pneumonia**\
+    Parenchymal destruction leading formation of  gas filled space or **pneumothorax**, and is associated with infection with:
+        * *S. aureus*
+        * *S. pneumoniae*
+        * *H. influenzae*
+        * *K. pneumoniae*
+        * *P. aeruginosa*
+        * Fungal pneumonias
+        * Atypical mycobacterium
+    * Persistent **pneumonia**
+    Pneumonia unresponsive to 5 days of appropriate antibiotic therapy, which should stimulate search for an alternate diagnosis or signs of a complicated infection.
+
+
+:::column-margin
+Empyema and non-responsive pneumonias are covered in more detail under @sec-empyema and @sec-pers_pneumonia.
+:::
+
+
+### Persistent Pneumonias
+
+**Failure to improve after** an arbitrary **5 days** of treatment should prompt consideration of:
+
+:::column-margin
+Risk factors for persistent pneumonia:
+
+* ↑ Age
+* Comorbidities
+    * Chronic respiratory disease
+    * Lifestyle
+        * Hight alcohol intake
+        * Smoking
+* Pneumonia
+    * Multilobar
+    * Bacteraemia
+    * Infected collections
+    * Organisms
+        * Legionella
+        * Polymicrobial
+:::
+
+* A broader differential:
+    * Wrong disease
+        * Vasculitis
+        * Malignancy
+        * Diffuse alveolar haemorrhage
+        * Alveolar proteinosis
+        * Heart failure
+        * Sarcoidosis
+        * Eosinophilic pneumonia
+        * Interstitial pneumonia
+    * Wrong drug/bug
+        * Resistant organism
+        * Atypical organism
+        * Viral pneumonia
+    * Wrong dose
+        * Underdosing
+            * Inappropriate dose interval
+        * Poor penetration
+    * Failure of source control
+* Further investigations:
+    * Sputum
+        * Eosinophils
+        * Acid-fast bacilli
+        * Viral PCR
+        * BAL
+    * TTE
+        * Endocarditis
+        * LV failure
+    * High-resolution CT Chest
+        * Cavitations
+        * Loculated collections
+        * Bronchial masses
+        * Pneumonic characteristics
+    {{< include /includes/lung_bx.qmd >}}
+
+
+## Prognosis
+
+Time until improvement varies:
+
+* Average ~3 days
+* 7 days in the:
+    * Elderly
+    * Bacteraemic
+* 2.5 days in young patients with pneumococcal pneumonia
+
+
+Poor prognostic signs follow logically:
+
+:::column-margin
+{{< include /includes/pf.qmd >}}
+:::
+
+* Severity of respiratory failure
+    * Invasive mechanical ventilation
+    * RR >30
+    * P/F <250
+* Severity of sepsis
+    * Septic shock
+    * Leukopenia
+    * Thrombocytopenia
+    * Hypothermia
+
+
+
+## Key Studies
+
+**Steroids**:
+
+* LRTI alters alveolar membrane permeability
+    * Local inflammatory response
+    * Systemic inflammatory response
+* Immunomodulation potentially therapeutic
+* Ceftriaxone ↑ inflammation in *S. pneumoniae* (pneumonococcus) infection
+* CAP is a heterogenous disease with a variety of different causative organisms and degrees of severity
+{{< include /trials/cape_cod.qmd >}}
+
+
+---
+
+## References
+
+1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. Dequin PF, Meziani F, Quenot JP, et al. [Hydrocortisone in Severe Community-Acquired Pneumonia](https://www.nejm.org/doi/10.1056/NEJMoa2215145). N Engl J Med. Published online March 21, 2023:NEJMoa2215145.
+1. Parkar AP, Kandiah P. [Differential Diagnosis of Cavitary Lung Lesions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6100641/). J Belg Soc Radiol. 100(1):100. 
+

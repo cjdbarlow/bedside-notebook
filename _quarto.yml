@@ -638,9 +638,7 @@ book:
           # Bronchitis
         - part: "Parenchymal"
           chapters:
-          - disease/infective/cap.qmd
-          - disease/infective/hap.qmd
-          - disease/infective/persistent_pneumonia.qmd
+          - disease/infective/pneumonia.qmd
           - disease/resp/ards.qmd
           - disease/infective/pjp.qmd
           - disease/resp/iip.qmd
@@ -891,7 +889,7 @@ book:
           - disease/infective/nsti.qmd
       - part: <hr>
       # Trauma
-      - part: "Trauma"
+      - part: "Traumatic"
         chapters:
         - disease/trauma/trauma_overview.qmd
         - disease/trauma/blast.qmd
@@ -942,6 +940,7 @@ book:
           - disease/infective/dengue.qmd
         - part: "Bacterial"
           chapters:
+          - disease/infective/legionellosis.qmd
           - disease/infective/tb.qmd
           - disease/infective/leptospirosis.qmd
         - part: "Fungal"

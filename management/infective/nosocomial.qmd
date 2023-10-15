@@ -106,7 +106,7 @@ Arises in patients with prolonged carbapenem treatment.
 +--------------------------------------+--------------------------------------------------+
 
 :::column-margin
-Preventative therapies for HAP/VAP and CLABSI are covered under @sec-hap and @sec-cvc, respectively.
+Preventative therapies for HAP/VAP and CLABSI are covered under @sec-pneumonia and @sec-cvc, respectively.
 :::
 
 ---

@@ -128,7 +128,7 @@ Symptoms and signs of this condition.
 
 Key questions if this is the suspected diagnosis. Should also include elements relevant to key differentials.
 
-### Exam
+### Examination
 
 Key exam findings if this is the suspected diagnosis. Should also include elements relevant to key differentials.
 
