@@ -1087,15 +1087,16 @@ book:
           chapters:
           - investigations/blood/renal.qmd
           - investigations/blood/lft.qmd
-      - part: "Fluid"
-        chapters:        
-        - investigations/csf.qmd
+      - part: "Urine"
+        chapters:
+        - investigations/urine/electrolytes.qmd
       - part: "Neurological"
         chapters:        
         - investigations/eeg.qmd
         - investigations/ssep.qmd
       - part: "Other"
-        chapters:        
+        chapters:
+        - investigations/csf.qmd
         - investigations/ctg.qmd
         - investigations/pfts.qmd
       # Ventilator waveforms

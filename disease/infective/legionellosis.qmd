@@ -118,7 +118,7 @@ Extra-pulmonary infections are rare, but may include:
 	* LFT
 		* ↑ ALT/AST
 	* UEC
-		* ↓ Na~+~
+		* ↓ Na^+^
 	* CRP >100
 * Sputum
 	* Deep respiratory sample PCR\
@@ -142,6 +142,7 @@ Extra-pulmonary infections are rare, but may include:
 
 **Other**:
 
+
 ### Diagnostic Approach and DDx
 
 :::caution
@@ -156,7 +157,7 @@ Features differentiating Legionnaire's disease from other causes of CAP include:
 
 * GIT symptoms
 * ↑ ALT/AST
-* ↓ Na~+~
+* ↓ Na^+^
 * CRP >100
 * **Failure to respond to beta-lactam** monotherapy
 

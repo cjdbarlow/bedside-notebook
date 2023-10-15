@@ -1,0 +1,122 @@
+# Urinary Electrolytes
+
+Urinary electrolyte measurement can be performed on a spot sample and can aid in the diagnosis of:
+
+* Volume state
+* Electrolyte disorders
+* AKI
+* Acid-base disorders
+
+: Interpretation of Spot Measured Urinary Electrolytes
+
++-----------------+-----------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Electrolyte     | Uses                        | Interpretation                                                                                                                        |
++=================+=============================+=======================================================================================================================================+
+| Na^+^\          | Volume state                | <20mmol/L suggests (appropriate) conservation in hypovolaemia                                                                         |
+|                 +-----------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+|                 | Hyponatraemia               |                                                                                                                                       |
+|                 +-----------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+|                 | AKI                         | Typically <20mmol/L                                                                                                                   |
+|                 +-----------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+|                 | ATN                         | Typically >20mmol/L                                                                                                                   |
+|                 +-----------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+|                 | Free water clearance        |                                                                                                                                       |
++-----------------+-----------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Cl^-^           | Metabolic alkalosis         | <10mmol/L: Appropriate renal chloride conservation, suggesting:                                                                       |
+|                 |                             |                                                                                                                                       |
+|                 |                             | * Gastric Cl^-^ loss                                                                                                                  |
+|                 |                             | * Diuretic therapy                                                                                                                    |
+|                 |                             +---------------------------------------------------------------------------------------------------------------------------------------+
+|                 |                             | \>20mmol/L: Inappropriate chloride loss, e.g.:                                                                                        |
+|                 |                             |                                                                                                                                       |
+|                 |                             | * Corticosteroids                                                                                                                     |
+|                 |                             | * HTN                                                                                                                                 |
+|                 |                             | * Hyperaldosteronism                                                                                                                  |
++-----------------+-----------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| K^+^            | Hyperkalaemia               |                                                                                                                                       |
+|                 +-----------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+|                 | Hypokalaemia                | <2mmol/L: Appropriate renal potassium conservation, suggesting:                                                                       |
+|                 |                             |                                                                                                                                       |
+|                 |                             | * Intracellular redistribution                                                                                                        |
+|                 |                             |     * Insulin                                                                                                                         |
+|                 |                             |     * Alkalosis                                                                                                                       |
+|                 |                             | * GI loss                                                                                                                             |
+|                 |                             |     * Diarrhoea                                                                                                                       |
+|                 |                             |     * Laxative use                                                                                                                    |
+|                 |                             |     * Ileostomy                                                                                                                       |
+|                 |                             | * Over-dialysis                                                                                                                       |
+|                 |                             | * Previous high urinary potassium\                                                                                                    |
+|                 |                             | e.g. Following loop diuretic administration, after resolution of drug effect.                                                         |
+|                 |                             +---------------------------------------------------------------------------------------------------------------------------------------+
+|                 |                             | \>15mmol/L: Inappropriate renal potassium wasting, suggesting:                                                                        |
+|                 |                             |                                                                                                                                       |
+|                 |                             | * Renal tubular acidosis                                                                                                              |
+|                 |                             | * Hyperaldosteronism                                                                                                                  |
+|                 |                             |     * Corticosteroid excess                                                                                                           |
+|                 |                             | * Upper GI loss                                                                                                                       |
+|                 |                             | * Spurious elevation in severe oliguria\                                                                                              |
+|                 |                             |     * Urinary potassium *concentration* will be ↑ in oliguria, but total potassium *clearance* may be low due to the low urine volume |
+|                 |                             |     * Consider a 24-hour specimen to determine total renal potassium excretion                                                        |
+|                 +-----------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+|                 | Free water clearance        |                                                                                                                                       |
++-----------------+-----------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Creatinine      | Fractional solute clearance |                                                                                                                                       |
++-----------------+-----------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Osmolality      | Hyponatraemia               |                                                                                                                                       |
+|                 +-----------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+|                 | Polyuria                    |                                                                                                                                       |
+|                 +-----------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+|                 | AKI                         |                                                                                                                                       |
++-----------------+-----------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Osmolar Gap\    | Renal tubular acidosis      | By estimating NH~4~^+^ clearance.                                                                                                     |
+| (10-100mOsm/kg) |                             |                                                                                                                                       |
++-----------------+-----------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| Anion Gap\      | NAGMA                       | Negative indicates GI base loss                                                                                                       |
+| (20-90mmol/L)   |                             |                                                                                                                                       |
+|                 +-----------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+|                 |                             | Positive indicates a  type 1 (distal) RTA                                                                                             |
++-----------------+-----------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+
+:::column-margin
+Use of urinary sodium in the context of hyponatraemia is covered under @sec-hypo_na.
+:::
+
+## Derived Values
+
+### Fractional Excretion of Sodium
+
+The fractional excretion of sodium describes the relationship between the amount of sodium filtered by the glomerulus and the amount excreted in urine. Accurate interpretation is difficult, however classically:
+
+:::column-margin
+$FE_{Na} = {Quantity \ of \ Na^+ \ Excreted \over Quantity \ of \ Na^+ Filtered} = {{U_{Na} \times P_{Cr} \over P_{Na} \times U_{Cr}} \times 100}$\
+\
+Where:
+
+* $FE_{Na}$ is the fractional excretion, in %
+* $U_{Na}$ is the urinary sodium concentration
+* $P_{Cr}$ is the plasma creatinine concentration
+* $P_{Na}$ is the plasma sodium concentration
+* $U_{Cr}$ is the urine creatinine concentration
+:::
+
+* Hepatorenal syndrome has an FE~Na~ <0.1%
+* Pre-renal AKI has a FE~Na~ <1%
+* ATN has a FE~Na~ <2%\
+Exceptions include:
+	* Concurrent cirrhosis
+	* Concurrent CHF
+	* Radiocontrast administration
+	* Rhabdomyolysis
+* Accuracy is improved with:
+	* Simultaneous urine and plasma measurement
+	* Oliguria
+	* Absence of:
+		* Acute volume loss
+		* Diuretics
+		* IV fluid administration
+
+---
+
+## References
+
+1. Reddi AS. [Interpretation of Urine Electrolytes and Osmolality](https://link.springer.com/10.1007/978-3-031-25810-7_2). In: Fluid, Electrolyte and Acid-Base Disorders [Internet]. Cham: Springer International Publishing; 2023 [cited 2023 Oct 15]. p. 15–23.
