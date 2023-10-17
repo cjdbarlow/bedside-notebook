@@ -36,6 +36,7 @@ An overview of post-operative management of the kidney transplant patient is cov
 	High risk (~10%) due to low venous flow.
 * **Immunosuppression**
 
+
 ## Indications
 
 Improves quality of life and may ↓ mortality in patients who have:
@@ -56,7 +57,7 @@ Generally T1DM.
 :::priority
 * Optimise pancreatic function
 	* Avoid hypervolaemia
-	* Aggressive glycaemic control
+	* Aggressive glycaemic monitoring
 :::
 
 **Resuscitation**:
@@ -78,7 +79,8 @@ Generally T1DM.
 	Keep low CVP to maximise venous drainage/minimise venous oedema.
 * D
 	* Glycaemic control\
-	Insulin production generally occurs intraoperatively during graft reperfusion; exogenous insulin may be required.
+	Insulin production generally occurs shortly after graft reperfusion. Exogenous insulin will be required, and then rapidly weaned as the graft begins functioning.
+	* Amylase measurement
 * G
 	* Exocrine secretion management
 * H

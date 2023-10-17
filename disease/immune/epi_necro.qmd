@@ -1,0 +1,240 @@
+# Epidermal Necrolysis
+
+**Severe** immune-mediated epidermal necrosis and **desquamation at ⩾2 distinct sites** that is divided by extent of skin involvement into:
+
+* **Stevens-Johnson Syndrome**\
+<10% BSA.
+* SJS/TEN Overlap syndrome\
+10-30% BSA.
+* **Toxic Epidermal Necrolysis**\
+\>30% BSA.
+
+
+## Epidemiology and Risk Factors
+
+Epidemiology:
+
+* Annual incidence ~5/1,000,000.
+
+
+Risk factors:
+
+* ↑ Age
+* Female sex
+* HIV
+* Connective tissue disease
+* Malignancy
+
+
+## Pathophysiology
+
+T-cell mediated reaction:
+
+* Drug-specific CD8+ T-cells are activated
+* Cytotoxic proteins released
+* Epidermal necrolysis released
+
+
+### Aetiology
+
+Precipitants include:
+
+* **Medications**\
+Most cases are due to an idiosyncratic reaction to certain families of medications that:
+	* Are usually commenced between 1 week and 1 month prior
+	* Include:
+		* Antibiotics
+			* Amoxacillin/ampicillin
+			* Fluoroquinolones
+			* Sulfamethoxazole
+			* Doxycycline
+			* Rifampicin
+		* Antiepileptics
+			* Carbamazepine
+			* Lamotrigine
+			* Phenobarbital
+			* Phenytoin
+		* NSAIDs
+* **Infection**
+	* *Mycoplasma*
+* Idiopathic
+
+## Assessment
+
+* Identify the potential causative agents
+* Assess the degree of skin loss
+
+:::column-margin
+Assessment principles are similar to @sec-burns.
+:::
+
+### History
+
+Prodromal symptoms:
+
+* Malaise
+* Fever
+* Sore throat
+* Conjunctivitis
+
+
+### Examination
+
+Mucocutaneous features:
+
+:::column-margin
+![Bullae](/resources/sjs_bullae.png)
+:::
+
+* Lesions typically begin on the face and thorax
+* **Symmetrically distributed**
+* Typically begin as flaccid bullae
+* Progress to "sheet-like" detachment of skin
+* **Mucosal involvement** in 80%
+* **Genital involvement** in 70%
+* **Corneal involvement** in >60%
+
+:::column-margin
+![Epidermal Necrolysis](/resources/epidermal_necrolysis.jpg)
+:::
+
+:::column-margin
+The **Nikolsky sign** is positive if epidermal detachment can be extended with gentle lateral pressure.
+:::
+
+
+### Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+**Imaging**:
+
+**Other**:
+
+* Skin biopsy
+
+### Diagnostic Approach and DDx
+
+Disease occurs in two phases:
+
+* **Acute phase**\
+5-7 period of worsening desquamation and mucositis. Risk of:
+	* Hypovolaemia
+		* Haemoconcentration
+		* AKI
+	* Sepsis
+	* Multiorgan failure
+	* Death
+* **Chronic phase**\
+Convalescence and recovery.
+
+
+Key differentials:
+
+* Erythema multiforme
+* Drug eruptions
+
+## Management
+
+:::priority
+* **Treat precipitant**
+* Transfer to burns centre
+* 
+:::
+
+:::column-margin
+Resuscitation and supportive care has many similarities to burns, and is covered under @sec-burns.
+:::
+
+**Resuscitation**:
+
+* A
+	* Intubation\
+	May be required if mucosal involvement
+
+
+**Specific therapy**:
+
+* Pharmacological
+	* Cease offending agent
+* Procedural
+* Physical
+	* Specific ocular care\
+		* Ocular rinses
+		* Lubricants
+		* Conjunctival adhesion separation
+			* Glass rod
+			* Forceps
+	* Specific genital care\
+	Risk of fibrosis with adjacent skin edges, consider:
+		* Topical corticosteroid
+		* Silicone vaginal dilators
+		* IDC placement
+		* Regular foreskin retraction
+
+
+**Supportive care**:
+
+* D
+	* Multimodal analgesia
+* F
+	* Volume resuscitation\
+	Prevent hypovolaemia.
+* G
+	* Early EN\
+	May need 25-30kcal/kg/day due to ↑ metabolism.
+	* Stress ulcer prophylaxis
+* H
+	* Thromboprophylaxis
+* I
+	* Wound dressings
+		* Non-adhesive
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+Systemic immunomodulation therapy has limited evidence, however there is potential benefit from may:
+
+* Pulse steroids\
+May be more effective when commenced early in disease onset.
+* IVIG\
+1-2g/kg/day.
+* Ertanercept\
+TNF-α inhibition.
+
+
+Non-recommended agents include:
+
+* Thalidomide
+
+## Anaesthetic Considerations
+
+## Complications
+
+* Death\
+~25%, with ↑ mortality with ↑ desquamation.
+* B
+	* Lung injury\
+	Direct bronchial sloughing.
+	* HAP/VAP
+	* 
+* F
+	* AKI
+		* Pre-renal
+* G
+	* 
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References

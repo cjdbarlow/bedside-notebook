@@ -1,4 +1,4 @@
-# Burns
+# Burns {#sec-burns}
 
 
 ## Epidemiology and Risk Factors
@@ -57,15 +57,7 @@ Electrical burns:
 
 ### Aetiology
 
-## Clinical Manifestations
-
-
-Physiological response:
-
-* Systemic inflammatory response proportional to 
-
-### Burns Assessment
-
+## Assessment
 :::info
 Burns are **dynamic** and will evolve and either improve or deteriorate depend on therapy
 :::
@@ -103,9 +95,16 @@ Remember to exclude superficial burns.
 	* Lund and Browder chart
 
 
+### History
+
+
+### Examination
+
+### Investigations
+
+
 ## Diagnostic Approach and DDx
 
-## Investigations
 
 ## Management
 
@@ -199,7 +198,8 @@ Burn recovery is a **hypermetabolic state**; energy expenditure may be doubled a
 
 * G
 	* Nutrition
-		* Feed within 12 hours
+		* Feed within 12 hours\
+		May need 25-30kcal/kg/day due to ↑ metabolism.
 		* Trace element supplementation
 * H
 	* Thromboprophylaxis\

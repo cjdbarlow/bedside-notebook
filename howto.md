@@ -6,10 +6,6 @@ $env:QUARTO_DENO_EXTRA_OPTIONS="--v8-flags=--max-old-space-size=65536"
 
 quarto preview
 
-## R
-quarto::quarto_render
-quarto::quarto_preview
-
 # Technical to-do:
 
 * Broken links

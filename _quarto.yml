@@ -193,10 +193,10 @@ book:
               - management/cvs/lvad.qmd
             - part: "Medications"
               chapters:
-              - management/cvs/nitric.qmd
-              - management/cvs/rv.qmd
               - management/cvs/pressors.qmd
               - management/cvs/inotropes.qmd
+              - management/cvs/nitric.qmd
+              - management/cvs/epoprostenol.qmd
               - management/cvs/vasodilators.qmd
               - management/cvs/fluid.qmd
         - part: "Neurology"
@@ -661,6 +661,7 @@ book:
           chapters:
           - disease/cvs/failure.qmd
           - disease/cvs/shock.qmd
+          - disease/cvs/rv.qmd
         - part: "Myocardial"
           chapters:
           - disease/cvs/acs.qmd
@@ -1028,6 +1029,7 @@ book:
         - part: "Acute Reactions"
           chapters:
           - disease/immune/anaphylaxis.qmd
+          - disease/immune/epi_necro.qmd
           - disease/immune/mods.qmd
           # TENS/SJS
         - part: "Immunomodulatory"

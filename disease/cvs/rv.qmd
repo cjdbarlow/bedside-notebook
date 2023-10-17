@@ -7,10 +7,12 @@ The right ventricle is fragile and right ventricular failure can be challenging 
 * Contractility
 * Rate/Rhythm
 
+
 ## Preload
 
 * Volume state is often difficult to determine
 * Volume overload is exceedingly detrimental to RV function, as excessive distension of the RV will impair LV filling and further worsen the haemodynamic state
+
 
 ## Afterload
 
@@ -24,8 +26,12 @@ Reduction in RV afterload can be achieved by:
 * Inhaled pulmonary vasodilators
 	* Nitric Oxide
 	* Prostacyclin
+* Oral pulmonary vasodilators
+	* Sildenafil\
+	Slower onset than inhaled dilators, takes 2-3 days to achieve maximal effect.
 * Inodilators
 	* Milrinone
+
 
 ## Contractility
 
