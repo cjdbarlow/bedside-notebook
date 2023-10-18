@@ -148,8 +148,9 @@ Complete the CICM Communication Course prior to the exam; the communication viva
 
 ### Hot Case
 
-The hot case is the only part of the exam that assesses a candidate at the bedside. The hot case is:
+The hot case is the only part of the exam that assesses a candidate at the bedside. Hot cases are:
 
+* Challenging
 * Artificial
 * Incompletely correlated with clinical skill\
 Hot case performance does not equal clinical performance, however hot case practice ↑ hot case performance.
@@ -161,8 +162,8 @@ Hot case performance does not equal clinical performance, however hot case pract
 	Brief stem with incomplete information, and a clinical question.
 	* **Reading time**\
 	2 minutes. Decide:
-		* What potential clinical problems may this patient have?
-		* What part of the examinations should be focused on?
+		* What **potential clinical problems** may this patient have?
+		* What **part** of the **exam**ination should be **focus**ed on?
 		* Likely follow-up questions
 	* **Entrance**
 		* Lights

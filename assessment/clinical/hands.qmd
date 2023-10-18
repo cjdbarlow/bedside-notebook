@@ -1,0 +1,94 @@
+# Hands
+
+: Findings on Hand Examination
+
++---------------------------------+---------------------------------+-------------------+------------+
+| Component                       | Inspection                      | Palpation         | Percussion |
++=================================+=================================+===================+============+
+| **General**                     |                                 |                   |            |
++---------------------------------+---------------------------------+-------------------+------------+
+| **Respiratory**                 | * **Nicotine staining**         |                   |            |
+|                                 | * Intraosseous muscle wasting   |                   |            |
+|                                 | * **Clubbing**                  |                   |            |
++---------------------------------+---------------------------------+-------------------+------------+
+| **Cardiovascular**              | * Stigmata of IE                |                   |            |
+|                                 |     * **Janeway lesions**       |                   |            |
+|                                 |     * **Osler's nodes**         |                   |            |
+|                                 |     * **Splinter haemorrhages** |                   |            |
+|                                 | * **Clubbing**                  |                   |            |
++---------------------------------+---------------------------------+-------------------+------------+
+| **Neurological**                |                                 |                   |            |
++---------------------------------+---------------------------------+-------------------+------------+
+| **Endocrine** and **Metabolic** |                                 |                   |            |
++---------------------------------+---------------------------------+-------------------+------------+
+| **Renal**                       |                                 |                   |            |
++---------------------------------+---------------------------------+-------------------+------------+
+| **Gastrointestinal**            | * **Clubbing**                  |                   |            |
++---------------------------------+---------------------------------+-------------------+------------+
+| **Haematological**              |                                 |                   |            |
++---------------------------------+---------------------------------+-------------------+------------+
+| **Integumentary**               | * Dupuytren's contracture       |                   |            |
++---------------------------------+---------------------------------+-------------------+------------+
+| **Trauma**                      |                                 |                   |            |
++---------------------------------+---------------------------------+-------------------+------------+
+| **Infective**                   |                                 | * Lymphadenopathy |            |
++---------------------------------+---------------------------------+-------------------+------------+
+| **Malignant**                   |                                 |                   |            |
++---------------------------------+---------------------------------+-------------------+------------+
+| **Toxic**                       |                                 |                   |            |
++---------------------------------+---------------------------------+-------------------+------------+
+| **Immune**                      |                                 | * Lymphadenopathy |            |
++---------------------------------+---------------------------------+-------------------+------------+
+| **Congenital**                  |                                 |                   |            |
++---------------------------------+---------------------------------+-------------------+------------+
+| **Obstetric**                   |                                 |                   |            |
++---------------------------------+---------------------------------+-------------------+------------+
+
+## Features
+
+### Respiratory
+
+* **Nicotine staining**\
+Indicative of smoking.
+
+:::column-margin
+![Nicotine Staining](/resources/nicotine.jpg)
+:::
+
+* **Clubbing**\
+Loss of the nail bed angle and soft tissue swelling at the tips of the digit.
+
+:::column-margin
+The normal nail bed angle is <140–160°, and is (was?) known as the Lovibond angle.
+:::
+
+* **Janeway lesions**\
+Red-purple, non-tender, haemorrhagic lesions on the palms and soles associated with septic microembolism, particularly *S. Aureus* endocarditis. Typically last days-weeks.
+
+:::column-margin
+![Janeway Lesion](/resources/janeway.jpg)
+:::
+
+* **Osler's nodes**\
+Tender, raised red-purple lumps, usually with a pale centre, and associated with septic microembolism, classically bacterial endocarditis. Typically last from hours to a few days.
+
+:::column-margin
+![Osler's node](/resources/osler.jpg)
+:::
+
+* **Splinter haemorrhage**\
+Longitudinal, red-brown haemorrhage under the finger nail. Associated with:
+	* Trauma
+	* Endocarditis
+	* Meningococcal infection
+	* Histoplasmosis
+
+:::column-margin
+![Splinter Haemorrhage](/resources/splinter.jpg)
+:::
+
+
+## References
+
+1. Foot C, Steel L, Vidhani K, Lister B, MacPartlin M, Blackwell N. Examination Intensive Care Medicine. Elsevier Australia; 2011. (Examination series).
+1. Dünser MW, Dankl D, Petros S, Mer M. Clinical Examination Skills in the Adult Critically Ill Patient. Springer International Publishing; 2018.

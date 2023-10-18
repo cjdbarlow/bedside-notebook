@@ -31,32 +31,6 @@ Testing and diagnosis of brain death is covered under @sec-braindeath.
 * GCS score is the sum of the **best** result in any limb
 :::
 
-: Levels of Consciousness
-
-+--------------------+------------------------------------------------------------------------------------------------+
-| Level              | Definition                                                                                     |
-+====================+================================================================================================+
-| Clouded            | Mild impairment:                                                                               |
-|                    |                                                                                                |
-|                    | * Inattention                                                                                  |
-|                    | * ↓ Wakefulness                                                                                |
-+--------------------+------------------------------------------------------------------------------------------------+
-| Confusion/delirium | Moderate impairment:                                                                           |
-|                    |                                                                                                |
-|                    | * Disorientation                                                                               |
-|                    | * Agitation                                                                                    |
-|                    | * Uncooperativeness                                                                            |
-+--------------------+------------------------------------------------------------------------------------------------+
-| Lethargy\          | Impaired state from which a patient can be transiently roused from a mild to moderate stimulus |
-| Somnolence\        |                                                                                                |
-| Obtundation        |                                                                                                |
-+--------------------+------------------------------------------------------------------------------------------------+
-| Stupor             | Impaired state from which a patient can be very briefly roused by a repeated, vigorous stimuli |
-+--------------------+------------------------------------------------------------------------------------------------+
-| Coma               | Impaired state from which a patient cannot be aroused                                          |
-+--------------------+------------------------------------------------------------------------------------------------+
-
-
 In a patient with an unclear level of consciousness:
 
 :::column-margin
@@ -74,14 +48,41 @@ Report the GCS in its constituent components, e.g. E~2~V~T~M~3~.
 * Ask to blink and to look up/down\
 This assesses for locked-in syndrome.
 * Ask for an *unambiguous action* (e.g. thumbs up, wiggle toes) to assess hands and feet
-* Perform a painful stimulus\
-*Only* after a patient has failed to respond to a command.
+* If no response, perform a painful stimulus to determine the GCS\
     * Centrally first\
     Supraorbital pressure, jaw thrust. Allows assessment for localisation.
     * Peripherally if no central response
 
 
 {{< include /includes/gcs.qmd >}}
+
+### Levels of Consciousness
+
+: Levels of Consciousness
+
++--------------------+------------------------------------------------------------------------------------------------------------+
+| Level              | Definition                                                                                                 |
++====================+============================================================================================================+
+| Clouded            | Mild impairment:                                                                                           |
+|                    |                                                                                                            |
+|                    | * Inattention                                                                                              |
+|                    | * ↓ Wakefulness                                                                                            |
++--------------------+------------------------------------------------------------------------------------------------------------+
+| Confusion/delirium | Moderate impairment:                                                                                       |
+|                    |                                                                                                            |
+|                    | * Disorientation                                                                                           |
+|                    | * Agitation                                                                                                |
+|                    | * Uncooperativeness                                                                                        |
++--------------------+------------------------------------------------------------------------------------------------------------+
+| Lethargy\          | Impaired state from which a patient can be **transiently roused** from a **mild** to moderate **stimulus** |
+| Somnolence\        |                                                                                                            |
+| Obtundation        |                                                                                                            |
++--------------------+------------------------------------------------------------------------------------------------------------+
+| Stupor             | Impaired state from which a patient can be **very briefly roused** by a **repeated, vigorous stimuli**     |
++--------------------+------------------------------------------------------------------------------------------------------------+
+| Coma               | Impaired state from which a patient **cannot be aroused**                                                  |
++--------------------+------------------------------------------------------------------------------------------------------------+
+
 
 
 ### Interpretation of Motor Response
@@ -255,7 +256,7 @@ Ocular dipping describes slow downward eye movement, followed by a pause at the 
 +-------------------------------------+-------------------------------------------------------------------------------------+-----------------------------------------------------------------+-----------------------------------+
 
 :::column-margin
-Assessing respiratory pattern in the intubated patient requires some desedation and a pressure-support mode.
+Assessing respiratory pattern in the intubated patient requires desedation and a pressure-support mode.
 :::
  
 ## Cranial Nerve Examination
@@ -286,7 +287,7 @@ A milder version of the cold caloric reflex that can be performed in unconscious
     * The reflex is present if the eyes move in the opposite direction of head movements
     This is a *normal* response.
     * **Absence** of the reflex is suggestive of brainstem dysfunction in the comatose patient\
-    This is a **doll eyes** - the eyes do not move in response to head movement.
+    This is described as "doll eyes" - the eyes remain fixed relative to the head.\
 \
 * **Facial Sensation**
     * Supra orbital notch pressure\
@@ -296,7 +297,7 @@ A milder version of the cold caloric reflex that can be performed in unconscious
 Tests CN IX, X.
     * Touch the posterior pharynx on each side (use a Yankauer)
     * Absence is an unreliable predictor of risk of aspiration
-    * A positive response is retching (gag reflex) or constriction of the pharynx (palatal reflex) with elevation of the uvula
+    * A positive response is retching (gag reflex) or constriction of the pharynx (palatal reflex) with elevation of the uvula\
 \
 * **Cough reflex**\
 Tests CN X.
@@ -306,7 +307,7 @@ Tests CN X.
 Ensure the cervical spine is cleared before testing the oculocephalic reflex.
 :::
 
-* **Vestibulo-ocular reflex**
+* **Vestibulo-ocular reflex**\
 Also known as the cold caloric reflex. Tests CN III, VI, and VIII.
     * Predominantly **used only** in **brain-death testing** as it may produce nausea and vomiting in the non-comatose patient
     * Process:
@@ -444,16 +445,17 @@ Should be no tremors at rest in normal individuals.
             * Pronation/supination
         * Wrist\
         Circumduction.
-* Joint should be able to be moved easily through its range of motion.
-    * Spasticity\
+* Joint should be able to be moved easily through its range of motion
+* Divided into:
+    * **Spasticity**\
     Velocity-dependent, i.e. ↑ in tone is proportional to the rate of movement. Associated with UMN lesion.
-    * Rigidity\
+    * **Rigidity**\
     Velocity-independent, i.e. tone is ↑ irrespective of how quickly the joint is moved. May be:
         * Cogwheel\
         Hypertonia with superimposed tremor, such that tone intermittently ↑ during movement.
         * "Lead-pipe"\
         Uniform ↑ in tone throughout.
-    * Flaccidness\
+    * **Flaccidity**\
     Complete absence of tone, occurring when the muscle has no LMN innervation.
 
 

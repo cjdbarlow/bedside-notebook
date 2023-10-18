@@ -78,6 +78,7 @@ book:
           - assessment/clinical/neuro.qmd
           - part: <hr>
           - assessment/clinical/general.qmd
+          - assessment/clinical/hands.qmd
           - assessment/clinical/ul.qmd
           - assessment/clinical/hn.qmd
           - assessment/clinical/chest.qmd

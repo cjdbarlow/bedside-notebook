@@ -25,7 +25,7 @@ Abdominal **auscultation** should be **performed prior to palpation and percussi
 +---------------------------------+------------------------+--------------------------+-------------------+------------------------+
 | **Gastrointestinal**            | * Jaundice             | * Bowel sounds           | * Tenderness      | * Air                  |
 |                                 | * **Caput medusae**    | * Hepatic arterial bruit | * Guarding        |     * Intestinal       |
-|                                 |                        | * Hepatic venous hum     | * Liver           |     * Extra-intestinal |
+|                                 | * Distension           | * Hepatic venous hum     | * Liver           |     * Extra-intestinal |
 |                                 | * Cullen's sign        | * Hepatic friction rub   |     * Size        | * Fluid                |
 |                                 | * Grey-Turner's sign   |                          |     * Pulsatility |                        |
 |                                 | * Tubes                |                          | * Liver           |                        |
@@ -72,20 +72,20 @@ Prominent periumbilical veins indicate portosystemic collateral formation second
 :::
 
 * **Bowel sounds**\
-Presence of normal bowel sounds is a strong predictor of normal bowel perfusion in the critically ill. Absence is generally non-specific, although no sounds for >60s may indicate paralytic ileus.
+Presence of normal bowel sounds is a strong predictor of normal bowel perfusion in the critically ill. Absence is generally non-specific, although no sounds for >60s may indicate paralytic ileus.\
 \
 * Hepatic venous hum\
-Continuous roaring noise suggestive of portal hypertension.
+Continuous roaring noise suggestive of portal hypertension.\
 \
 * **Hepatic** friction **rub**\
-Suggestive of hepatic capsular inflammation and malignancy.
+Suggestive of hepatic capsular inflammation and malignancy.\
 \
 * Percussion for **ascites**
 	* Dependent ascites produces a dull sound\
-	Absence of flank dullness suggests no ascites is present.
+	Absence of flank dullness suggests no ascites is present.\
 \
 * Percussion for **liver size**\
-Note the change from resonance to dullness, percussing caudally from the right hemithorax to the abdomen.
+Note the change from resonance to dullness, percussing caudally from the right hemithorax to the abdomen.\
 \
 * Liver palpation\
 Advance the hand from the right iliac fossa towards the right costal margin. Ascertain:

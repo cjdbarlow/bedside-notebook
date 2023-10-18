@@ -58,37 +58,39 @@ Rate and rhythm.
 If transduced from EVD, ensure monitor is leveled appropriately.
 
 
-### Patterns
+### Integration
+
+Patterns:
+
+* **Cushing Triad**\
+↑ ICP leads to a sympathetic surge aimed to maintain cerebral perfusion, which manifests as:
+	* Arterial hypertension
+	* Bradycardia
+	* Irregular respiration
 
 : Integration of Haemodynamic Data
 
-+------------------------------+-----+-----+-------+-------+------+
-| Type of Shock                | MAP | CVP | CO/CI | MPAP  | PCWP |
-+==============================+=====+=====+=======+=======+======+
-| **Hypovolaemic**             | ↓/- | ↓   | ↓     | ↓     | ↓    |
-+------------------------------+-----+-----+-------+-------+------+
-| **Obstructive**              | ↓   | ↑   | ↓     | ↑     | ↑/-  |
-+------------------------------+-----+-----+-------+-------+------+
-| **Distributive**             | ↓   | ↓   | ↑     | ↓     | ↓    |
-+------------------------------+-----+-----+-------+-------+------+
-| **Cardiogenic - LV failure** | ↓/- | ↑/- | ↓     | ↓/-   | ↑    |
-+------------------------------+-----+-----+-------+-------+------+
-| **Cardiogenic - RV failure** | ↓/- | ↑   | ↓     | ↑/-/↓ | -    |
-+------------------------------+-----+-----+-------+-------+------+
++-----------------------------+-----+-----+-------+-------+------+
+| Type of Shock               | MAP | CVP | CO/CI | MPAP  | PCWP |
++=============================+=====+=====+=======+=======+======+
+| **Hypovolaemic**            | ↓/- | ↓   | ↓     | ↓     | ↓    |
++-----------------------------+-----+-----+-------+-------+------+
+| **Obstructive**             | ↓   | ↑   | ↓     | ↑     | ↑/-  |
++-----------------------------+-----+-----+-------+-------+------+
+| **Distributive**            | ↓   | ↓   | ↑     | ↓     | ↓    |
++-----------------------------+-----+-----+-------+-------+------+
+| **Cardiogenic: LV failure** | ↓/- | ↑/- | ↓     | ↓/-   | ↑    |
++-----------------------------+-----+-----+-------+-------+------+
+| **Cardiogenic: RV failure** | ↓/- | ↑   | ↓     | ↑/-/↓ | \-   |
++-----------------------------+-----+-----+-------+-------+------+
 
 :::column-margin
-Information from the monitor, ventilator, and medications should be integrated.\
+Information from the monitor, ventilator, and medications should be combined to form a clinical impression.\
 \
 e.g. "The SpO~2~ is 93% with an FiO~2~ of 50% - there is evidence of a raised A-a gradient".\
 \
 Or, "The patient is in AF, I note the heparin infusion and wonder if this is the sole indication for anticoagulation."
 :::
-
-* Cushing Triad\
-↑ ICP leads to a sympathetic surge aimed to maintain cerebral perfusion, which manifests as:
-	* Arterial hypertension
-	* Bradycardia
-	* Irregular respiration
 
 
 ## Ventilator
@@ -121,9 +123,9 @@ Or, "The patient is in AF, I note the heparin infusion and wonder if this is the
 The colour of purulent secretions does not accurately predict the causative organism. However, *in general*, secretions that are:
 
 * Yellow, brown, or putrid\
-Suggests bacterial infection of the lower airways or parenchyma.
+Suggest bacterial infection of the lower airways or parenchyma.
 * Foul-smelling and yellow or dark-green\
-Suggests lung abscesses or bronchiectasis.
+Suggest lung abscesses or bronchiectasis.
 :::
 
 
@@ -158,7 +160,7 @@ Many abnormalities of urine colour are also visible in RRT effluent.
 			* Diabetes insipidus
 			* Hyperglycaemia
 			* Diuretic therapy
-	* Concentrated
+	* Concentrated\
 	May indicate:
 		* Hypoperfusion or hypovolaemia\
 		Classically low-volume.
@@ -217,16 +219,16 @@ Small volumes of light urine are concerning for obstruction.
 :::
 
 :::column-margin
-![Propofol Urine](/resources/urine_prop.jpg)
+![Propofol](/resources/urine_prop.jpg)
 :::
 
 :::column-margin
-![Methylene Blue Urine](/resources/urine_methylene.jpg)
+![Methylene Blue](/resources/urine_methylene.jpg)
 :::
 
 
 :::column-margin
-![Rifampicin Urine](/resources/urine_rifampicin.jpg)
+![Rifampicin](/resources/urine_rifampicin.jpg)
 :::
 
 
@@ -264,7 +266,7 @@ Indicate gastroparesis.
 	* Stool colour
 		* Acholic stool indicates biliary obstruction due to lack of stercobilin
 		* Haematochezia
-		* Melania\
+		* Melaena\
 		Black, tarry, malodorous stool.
 			* Indicates recent (4-20 hours) upper GI, small bowel, or caecal haemorrhage
 			* Typically becomes bloodier the more distal the bleeding source

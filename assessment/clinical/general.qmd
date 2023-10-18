@@ -109,7 +109,7 @@ Folding blankets down and in to the midline allows rapid and near-complete expos
 ![Cheyne-Stokes Respiration](/resources/cheyne_stokes.png)
 :::
 
-* **Biot breathing**\
+* **Biot** breathing\
 Similar to Cheyne-Stokes, but abrupt alteration between apnoea and hyperpnoea and less regular intervals.
 	* Indicative of pontine or brainstem injury
 
@@ -117,14 +117,14 @@ Similar to Cheyne-Stokes, but abrupt alteration between apnoea and hyperpnoea an
 Abdominal motion indirectly indicates the function of the diaphragm.
 :::
 
-* **Apneustic breathing**\
-Irregular respiration rate and tidal volume, classically with an **end-inspiratory hold** prior to commencing the next breath.
+* **Apneustic** breathing\
+Irregular respiration rate and tidal volume, classically with an **end-inspiratory hold** prior to commencing the next breath.\
 \
 * **Paradoxical** breathing\
 Inward movement of the chest while the abdomen raises during inspiration, which occurs in:
 	* Upper airway obstruction
 	* Severe respiratory distress
-	* Diaphragmatic dysfunction
+	* Diaphragmatic dysfunction\
 \
 * **Obstructive** breathing\
 Expiratory airflow limitation may lead to:
@@ -132,7 +132,7 @@ Expiratory airflow limitation may lead to:
 	* Slow and incomplete descent of the chest
 	* Pursed-lip expiration\
 	Generation of auto-PEEP, maintaining opening of small airways.
-	* E-time > I-time
+	* E-time > I-time\
 \
 * **Restrictive** breathing\
 Prolonged, forceful inspiration due to inspiratory airflow limitation.
@@ -142,7 +142,8 @@ Obstructive and restrictive breathing can occur in the same patient.
 :::
 
 * **Trepopnoea**\
-Dyspnoea occurring in one lateral position but not the other, signifying worse disease in the non-dependent lung which occurs due to poorer V/Q matching when the diseased lung is in the dependent position.
+Dyspnoea occurring in one lateral position but not the other, signifying **worse disease in the non-dependent lung** which occurs due to poorer V/Q matching when the diseased lung is in the dependent position.
+
 
 ### Cardiovascular
 
@@ -154,8 +155,8 @@ Inability to lie flat is a significant marker of severe RV failure, tamponade, o
 :::
 
 * **Platypnoea**\
-Dyspnoea relieved by recumbency, generally due to intracardiac (right-to-left) or intrapulmonary shunts that are worsened due to the ↓ in West Zone 3 that occurs in the upright position.
-
+Dyspnoea relieved by recumbency, generally due to intracardiac (right-to-left) or intrapulmonary shunts that are worsened due to the ↓ in West Zone 3 that occurs in the upright position.\
+\
 * **Centralisation**\
 Re-distribution of central blood volume away from the peripheries, leading to:
 	* Extensive mottling
@@ -176,7 +177,7 @@ Re-distribution of central blood volume away from the peripheries, leading to:
 		* Vaso-occlusive disease
 		* Embolism
 	* Environmental temperature\
-	Central capillary refill is less affected by environmental conditions but is prolonged only in severe hypoperfusion; consequently it is much more specific although less sensitive.
+	Central capillary refill is less affected by environmental conditions but is prolonged only in severe hypoperfusion; consequently it is much more specific although less sensitive.\
 \
 * **Livedo reticularis**\
 **Lace-like mottling** of the skin occurring due to **hypoxaemia** in vessels **along** the **watershed margins** between regions supplied by different ascending arterioles. May occur due to:
@@ -190,8 +191,8 @@ Re-distribution of central blood volume away from the peripheries, leading to:
 
 * **Pitting oedema**\
 Pitting oedema occurs due to extravasation of fluid into the interstitium. In general:
-	* Subjective puffy fingers is the earliest sign
-	* Clinical detection requires a 2-3L ↑ in extracellular fluid volume
+	* Subjectively puffy fingers is the earliest sign
+	* Clinically detectable oedema requires a 2-3L ↑ in extracellular fluid volume
 	* Cardiac oedema is:
 		* Symmetrical
 		* Generalised
@@ -219,7 +220,7 @@ Pitting oedema occurs due to extravasation of fluid into the interstitium. In ge
 			* Stroke
 		* Thyroid surgery
 		* Aortic aneurysm
-		* Aortic dissection
+		* Aortic dissection\
 \
 * **Slurred speech**
 	* Cranial nerve injury
@@ -231,7 +232,7 @@ Pitting oedema occurs due to extravasation of fluid into the interstitium. In ge
 +-------------------------------+---------+---------------+------------+
 | Type                          | Fluency | Comprehension | Repetition |
 +===============================+=========+===============+============+
-| Broca's aphasia               | -       | Yes           | Yes        |
+| Broca's aphasia               | \-      | Yes           | Yes        |
 +-------------------------------+---------+---------------+------------+
 | Wernicke's aphasia\           | Yes     | No            | Difficult  |
 | Deafness                      |         |               |            |
@@ -271,28 +272,33 @@ Smell of rotten eggs and garlic on the breath due to dimethyl sulphide accumulat
 
 ### Integumentary
 
-* Rashes
-	* **Petechiae**\
-	Small (<2mm), non-blanching, red lesions that occur in dependent areas due to extravasation of erythrocytes through capillary venules.
-	* **Purpura**\
-	Larger non-blanching lesion due to coalescence of petechiae.
-    * **Erythema gangrenosum**\
-    Rare skin lesion that begins as a raised red-purple rash that progresses to deep ulceration with central necrosis, associated with:
-    	* Rheumatological and immune disease
-    		* Inflammatory bowel disease
-    		* Rheumatoid arthritis
-    	* Haematological malignancy
-    	* *P. aeruginosa* infection
-    * **Drug exanthem**\
-    Maculopapulous, confluating rash. May be with or without urticaria.
-    * **Toxic epidermal necrolysis**\
-    Diffuse large bullae and erosions on skin and mucous membranes.
-    * **Erythema multiforme**\
-    Immune-mediated rash characterised by 'target' lesions, precipitated by:
-    	* HSV
-    	* Medications
-    	* Vaccinations
-    * **Candidiasis**
+* **Petechiae**\
+Small (<2mm), non-blanching, red lesions that occur in dependent areas due to extravasation of erythrocytes through capillary venules.\
+\
+* **Purpura**\
+Larger non-blanching lesion due to coalescence of petechiae.\
+\
+* **Erythema gangrenosum**\
+Rare skin lesion that begins as a raised red-purple rash that progresses to deep ulceration with central necrosis, associated with:
+	* Rheumatological and immune disease
+		* Inflammatory bowel disease
+		* Rheumatoid arthritis
+	* Haematological malignancy
+	* *P. aeruginosa* infection\
+\
+* **Drug exanthem**\
+Maculopapulous, confluating rash. May be with or without urticaria.\
+\
+* **Toxic epidermal necrolysis**\
+Diffuse large bullae and erosions on skin and mucous membranes.\
+\
+* **Erythema multiforme**\
+Immune-mediated rash characterised by 'target' lesions, precipitated by:
+	* HSV
+	* Medications
+	* Vaccinations\
+\
+* **Candidiasis**
 
 :::column-margin
 ![Petechiae](/resources/petechiae.jpg)
