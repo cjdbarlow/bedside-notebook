@@ -43,7 +43,7 @@ Difference:
 	* Give 50-70% of this in critically unwell
 
 
-* Parental presence during resuscitation is generally hellpful
+* Parental presence during resuscitation is generally helpful
 
 ## Respiratory Disease
 
@@ -60,7 +60,21 @@ Difference:
 
 Croup:
 
-* Dexamethasone 0.6mg/kg
+* Acute clinical syndrome characterised by:
+	* Stridor
+	* Barking cough
+	* Hoarseness
+	* Respiratory distress
+* Usually precipitated by viral infection:
+	* Parainfluenza
+	* RSV
+	* Influenza
+	* Adenovirus
+* 1-5% are admitted
+* Steroids\
+↓ Need for hospitalisation, intubation, and duration of admission.
+	* Dexamethasone 0.6mg/kg
+	* Budesonide 2mg nebuliser
 * Adrenaline 5mg nebuliser
 * Intubation
 	* Small ETT required
@@ -105,6 +119,21 @@ Problems:
 	* Apnoea common
 
 
+Bronchiolitis:
+
+* 10% of infants affected
+* 2-3% admitted in first year of life
+* Rare after 1 year of age
+* Fever and clear nasal discharge
+* INcreasing breathlessness
+* Fine crepitations
+* Supportive management
+	* Fluid
+	* Suction of nasal secretions
+	* Humidified inspired gas
+	* Prone positioning
+
+
 ## Cardiac Presentations
 
 Heart Failure:
@@ -139,6 +168,21 @@ Cardiogenic shock:
 	* Target SpO2 75-85%
 	* Target palpable pulses and improved perfusion
 	* Cover for sepsis
+* Consider inotropes and invasive monitoring if more than 40mL/kg of resuscitation fluid is required
+
+
+## Neurological
+
+Seizure:
+
+* Secure the airway
+* Check glucose
+* Check calcium
+* Give benzodiazepine
+	* If vascular access:
+		* Lorazepam
+	* If no vascular access:
+		* Midazolam
 
 
 ## Metabolic Presentations
@@ -160,6 +204,28 @@ Management:
 * Dextrose infusion
 * Call for help
 
+
+## Preparation
+
+Emergency drugs:
+
+* Adenosine 100-200μg/kg IV
+* Dextrose\
+3mL/kg of 10% dextrose IV.
+* Hypertonic saline\
+3mL/kg of 3% NaCl.
+* Mannitol\
+0.25-0.5g/kg (1.25-2.5mL/kg).
+* Hydrocortisone\
+2-4mg/kg up to 100mg Q6H.
+* Lorazepam 0.1mg/kg up to 2 doses
+* Midazolam 0.15mg/kg up to 2 doses
+* Levetiracetam 40mg/kg up to 3g
+* Phenytoin 20mg/kg up to 2g
+* Tranexamic acid 15mg/kg up to 1g
+
 ---
 
 ## References
+
+1. Smith S, Advanced Life Support Group (Manchester, England), editors. Advanced paediatric life support: a practical approach to emergencies. Seventh edition. Hoboken, NJ: Wiley-Blackwell; 2023.

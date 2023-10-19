@@ -296,25 +296,38 @@ Principles for airway management are covered below under anaesthetic considerati
 	* C-spine immobilisation
 * B
 	* Supplemental oxygen
+	* V~T~ 6-10mL/kg
 * C
 	* Maintain spinal cord perfusion\
-		* **MAP 85-90mmHg**
+		* **MAP 85-90mmHg**\
+		For 72 hours.
 		* Avoid SBP ⩽90mmHg\
 		Native SBP may be 60-80mmHg in context of neurogenic shock.
 		* **Blood pressure targets** should be maintained for **7 days**
 	* Bradycardia\
 	**May require atropine** or pacing; especially with **vagal response to intubation**.
 
+:::column-margin
+There is weak evidence that ↑ MAP may improve neurological outcome. This is usually easily achieved, and even one additional functional myotome can have substantial quality of life benefits.
+:::
 
 **Specific therapy**:
 
 * Pharmacological
 * Procedural
+	* Tracheostomy
+		* C3 or above: Required
+		* C4: Trial of extubation reasonable, but moderate chance of failure
+		* C5 or below: Extubation onto NIV has reasonable chance of success 
 	* Operative fixation\
-	Fixation of **unstable** injuries within 24 hours permits:
+	Fixation of **unstable** injuries **within 24 hours** permits:
 		* Early mobilisation
 		* Thromboprophylaxis
+		* Desedation and assessment of:
+			* Neurological level
+			* Need for tracheostomy
 * Physical
+	* Chest physiotherapy
 
 
 **Supportive care**:
@@ -332,16 +345,21 @@ Percutaneous tracheostomy is as safe as surgical tracheostomy in a stable cervic
 		* Complete injury
 		* Thoracic trauma
 		* Emergency intubation
+	* SLT assessment\
+	Especially if anterior fixation.
 * B
 	* Chest physiotherapy
+* D
+	* Psychological support
 * E
 	* Pressure injury prevention
 * F
 	* IDC
+	* Consider suprapubic catheter
 * G
 	* Stress ulcer prophylaxis\
 	↑ Risk of gastric ulceration.
-	* Bowel care\
+	* **Bowel care**\
 	Stool softeners.
 * H
 	* Thromboprophylaxis\

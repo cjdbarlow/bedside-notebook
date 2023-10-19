@@ -60,7 +60,7 @@ This is paradoxical, as the SpO~2~ will generally be ~85% - too high to cause cy
 |        | * Anxiety, confusion   |
 +--------+------------------------+
 | \>40%  | * Arrhythmia           |
-|        | * Shock                |
+|        | * Dissociative shock   |
 |        | * Seizure              |
 |        | * Coma                 |
 +--------+------------------------+

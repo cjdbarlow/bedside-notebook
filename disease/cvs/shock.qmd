@@ -19,7 +19,12 @@ Mechanical obstruction to flow of blood due to compression of:
 Loss of pump function.
 * **Distributive**\
 Loss of vascular autoregulation, leading to inappropriate allocation of cardiac output.
-
+* **Dissociative**\
+Loss of oxygen carrying capacity due to:
+	* Profound anaemia
+	* CO toxicity
+	* Methaemoglobinaemia
+	* CN toxicity
 
 ## Epidemiology and Risk Factors
 

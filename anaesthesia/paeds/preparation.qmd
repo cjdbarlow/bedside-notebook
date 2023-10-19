@@ -33,6 +33,8 @@ Size from angle of mandible to the central incisors.
 * LMA
 
 :::column-margin
+: Laryngoscope Sizing
+
 | Age       | Miller   | Macintosh   |
 | --------- | -------- | ----------- |
 | Neonate   | 0 - 1    |             |
@@ -41,7 +43,8 @@ Size from angle of mandible to the central incisors.
 | 3-5       |          | 2           |
 | 6-12      |          | 2-3         |
 
-: Laryngoscope Sizing
+
+: LMA Sizing
 
 | Weight    | Size (kg) |
 | --------- | --------  |
@@ -50,8 +53,6 @@ Size from angle of mandible to the central incisors.
 | 2         | 10-20     |
 | 2.5       | 20-30     |
 | 3         | 30-50     |
-
-: LMA Sizing
 :::
 
 ## Intravenous
