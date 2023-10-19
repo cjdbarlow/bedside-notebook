@@ -19,7 +19,9 @@ quarto preview
 * Click on margin images to pop into centre screen
 * Add scrolling radiology images
 * Modify glossary to only scan words up to to maximum length in the glossary to speed up build time
-
+* Fix the mermaid theme
+	* Get custom theme auto-applied to each graph
+	* Prevent margin svgs from overflowing their boundaries
 
 # Content to-do:
 

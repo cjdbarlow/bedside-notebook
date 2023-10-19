@@ -1,61 +1,63 @@
 project:
-    type: book
+  type: book
 
 # Allow subparts in the yaml
 validate-yaml: false
 
 # Allow caching to reduce compile times
 execute:
-    freeze: auto
-    cache: true
+  freeze: auto
+  cache: true
 
 # Settings for output formats
 format:
-    html:
-        # General settings
-        page-navigation: false
-        search: true
-        section-divs: true
-        email-obfuscation: javascript
-        lang: en-gb
-        # Theming
-        theme: themes/titfl.scss
-        css: themes/custom.css
-        include-before-body: themes/litfl.html
-        reference-location: document
-        number-sections: false
-        # Style
-        toc: true
-        toc-title: "On this Page"
-        bread-crumbs: false
-        style: docked
-        ## Tables and figures
-        tbl-cap-location: top
-        fig-cap-location: top
-        fig-align: center
-        fig-format: svg
-        fig-dpi: 326
-        fig-responsive: true
-        ## Filters
-        filters: [scripts/glossary.lua]
-    # pdf:
-    #     # General Settings
-    #     title: "The Bedside Scientist"
-    #     author: "C. Jake Barlow"
-    #     keep-tex: true
-    #     # Theming
-    #     documentclass: scrbook
-    #     classoption: [oneside]
-    #     filters: [scripts/boxes.lua, scripts/tables.lua]
-    #     include-in-header: [themes/titfl.tex]
-    #     cap-location: margin
-    #     citation-location: margin
-    #     reference-location: document
-    #     number-sections: false
-    #     # Style
-    #     toc-title: "Contents"
-    #     tbl-cap-location: top
-    #     include-before-body: content/copyright.tex
+  html:
+    # General settings
+    page-navigation: false
+    search: true
+    section-divs: true
+    email-obfuscation: javascript
+    lang: en-gb
+    # Theming
+    theme: themes/titfl.scss
+    css: themes/custom.css
+    include-before-body: themes/litfl.html
+    reference-location: document
+    number-sections: false
+    # Style
+    toc: true
+    toc-title: "On this Page"
+    bread-crumbs: false
+    style: docked
+    ## Tables and figures
+    tbl-cap-location: top
+    fig-cap-location: top
+    fig-align: center
+    fig-format: svg
+    fig-dpi: 326
+    fig-responsive: true
+    mermaid-format: svg
+    ## Filters
+    filters: [scripts/glossary.lua]
+  # pdf:
+  #     # General Settings
+  #     title: "The Bedside Scientist"
+  #     author: "C. Jake Barlow"
+  #     keep-tex: true
+  #     # Theming
+  #     documentclass: scrbook
+  #     classoption: [oneside]
+  #     filters: [scripts/boxes.lua, scripts/tables.lua]
+  #     include-in-header: [themes/titfl.tex]
+  #     cap-location: margin
+  #     citation-location: margin
+  #     reference-location: document
+  #     number-sections: false
+  #     include-before-body: content/copyright.tex
+  #     # Tables and Figures
+  #     toc-title: "Contents"
+  #     tbl-cap-location: top
+  #     mermaid-format: png
 
 # Content
 book:
