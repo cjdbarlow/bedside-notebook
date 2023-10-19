@@ -218,21 +218,6 @@ The end-of-bed-o-gram and orbit provide the majority of useful clinical informat
 
 :::column-margin
 ```{mermaid}
-%%| fig-width: 100% #Hacky solution; NaN defaults to 100% width
-%%| fig-height: 100%
-
-%%{ init: {
-    'flowchart': { 'curve': 'stepAfter', 'useMaxWidth': 'true'},
-    'theme': 'base',
-    'themeVariables': {
-        'primaryColor': '#ffffff',
-        'primaryTextColor': '#000000',
-        'primaryBorderColor': '#000000',
-        'lineColor': '#000000',
-        'tertiaryColor': '#fff'
-        }
-    }
-}%%
 
 flowchart TD
     A[End-of-bed-o-gram] --> B[Orbit]
@@ -246,6 +231,7 @@ flowchart TD
     D -- No --> G[Detailed Systems Exam] --> I[Targeted Neurological Exam]
 ```
 :::
+
 
 :::column-margin
 The hot case is like a tennis match in that the only part of the game that you can control is the serve - these are the examination and the opening of the presentation. Maximise this time.

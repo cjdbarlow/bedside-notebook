@@ -20,10 +20,12 @@ quarto preview
 * Add scrolling radiology images
 * Modify glossary to only scan words up to to maximum length in the glossary to speed up build time
 * Fix the mermaid theme
-	* Get custom theme auto-applied to each graph
+	* Get custom theme auto-applied to each graph\
+	Half done; see this commit. Should be reverted once: https://github.com/quarto-dev/quarto-cli/issues/7295 is live
 	* Prevent margin svgs from overflowing their boundaries
 	* Revise the custom theme - ideally more like APLS manual
 		* Yes/No closer to origin
+
 
 # Content to-do:
 
@@ -52,7 +54,7 @@ Table editor:
 * Swap row with row above but restricted to that cell alone
 
 
-# Decisions
+# Style decisions
 
 * Where to put:
 	* Rhabdo, CIM, CIN

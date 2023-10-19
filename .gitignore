@@ -6,6 +6,7 @@
 .DS_Store
 .aws.json
 .Rhistory
+.luarc.json
 index.log
 index.aux
 index.out
@@ -13,5 +14,3 @@ index.tex
 index.toc
 index.pdf
 The-Bedside-Scientist.tex
-
-/.luarc.json

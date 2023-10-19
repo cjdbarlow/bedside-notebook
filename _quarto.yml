@@ -1,5 +1,7 @@
 project:
   type: book
+  pre-render: scripts/mermaid_pre.lua
+  post-render: scripts/mermaid_post.lua
 
 # Allow subparts in the yaml
 validate-yaml: false
