@@ -279,6 +279,7 @@ book:
             - management/haeme/immunosuppressants.qmd
             - management/haeme/ivig.qmd
             - management/haeme/plasmapheresis.qmd
+            - management/haeme/cart.qmd
             - management/haeme/stem_cell.qmd
           - part: "Immunosuppression"
             chapters:
@@ -779,7 +780,6 @@ book:
         # - part: "Nutrition"
         #   chapters:
             # Malnutrition
-            # Refeeding syndrome
         - part: "Glucose Handling"
           chapters:
           - disease/endo/dm.qmd

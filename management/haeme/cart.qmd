@@ -1,0 +1,125 @@
+# CAR T-cell Therapy
+
+Chimeric antigen receptor T-cell therapy involves administration of autologousT-cells that have been genetically engineered to specifically target a certain malignancy.
+
+* Associated with particular
+
+
+## Indications
+
+Specific malignancies:
+
+* Aggressive, refractory, or relapsed B-cell lymphoma
+* Mantle cell lymphoma
+* Multiple myeloma
+
+
+## Contraindications
+
+## Principles
+
+Therapy involves:
+
+* Pre-treatment with lymphocyte-depleting chemotherapy
+* Administration of autologous CAR-T
+* Clonal expansion of administered cells
+
+
+## Practice
+
+
+## Complications
+
+Immune-related toxicities and infective complications predominate:
+
+* D
+	* **Immune** Effector **Cell-Associated Neurotoxicity Syndrome**
+	* Infective meningitis/encephalitis
+	* Stroke
+	* ICH
+* I
+	* **Cytokine Release Syndrome**\
+	Severe CRS also ↑ infective risk.
+	* Anaphylaxis
+* Infective
+	* Sepsis
+
+
+
+### Immune Cell-Associated Neurotoxicity Syndrome
+
+Immune encephalopathy that is possibly related to BBB disruption and entry of CAR-T into the CNS:
+
+* Occurs in ~40% of cases
+* Onset generally within 4-10 days\
+Almost always *after* onset of CRS, and occasionally occurs after CRS has resolved.
+* Characteristic symptoms include:
+	* **Aphasia**\
+	Mild expressive aphasia that may progress to global aphasia over the course of hours.
+	* Seizures
+	* Tremor
+	* Dysgraphia
+	* Apraxia
+	* Inattention
+
+
+:::column-margin
+Immune cell-associated neurotoxicity can be distinguished from other encephalopathies by an awake patient who is mute and unable to follow commands.
+:::
+
+Management:
+
+* Ruling out infective causes
+* Antipyretics
+* Fluid resuscitation
+* Corticosteroids
+	* Methylprednisolone 2mg/kg/day
+	* Dexamethasone 0.5mg/kg up to 10mg/day
+	* ↑ Dose if worsening symptoms or no benefit seen within 12 hours
+
+
+### Cytokine Release Syndrome
+
+Excessive immune system activation following therapy:
+
+* Occurs in 40-90% of cases
+* Onset hours-days after administration
+* Characterised by a raft of non-specific inflammatory symptoms:
+	* Fever
+	* Malaise
+	* Myalgia
+	* Tachycardia
+	* Rash
+	* **Capillary leak syndrome**
+		* Pulmonary oedema
+		* Multiorgan dysfunction
+
+
+Management:
+
+:::column-margin
+**Corticosteroids** are **second-line** agents to avoid ↓ CAR-T function.
+:::
+
+* Ruling out infective causes
+* Antipyretics
+* Fluid resuscitation
+* **Tocilizumab** 8mg/kg up to Q8H\
+Anti-IL-6 antibody, does not cross the BBB.
+	* Indicated for any patient requiring ICU admission
+	* Repeat once (i.e. 2 doses) if 1^st^ dose ineffective
+* Corticosteroids\
+If non-responsive to 1^st^ dose tocilizumab.
+	* Consider:
+		* Methylprednisolone 2mg/kg/day
+		* Dexamethasone 0.5mg/kg up to 10mg/day
+	* Should be weaned once CRS symptoms are resolving
+
+
+## Key Studies
+
+---
+
+## References
+
+1. Messmer AS, Que YA, Schankin C, Banz Y, Bacher U, Novak U, et al. [CAR T-cell therapy and critical care](https://pubmed.ncbi.nlm.nih.gov/34613477/). Wien Klin Wochenschr. 2021 Dec 1;133(23):1318–25. 
