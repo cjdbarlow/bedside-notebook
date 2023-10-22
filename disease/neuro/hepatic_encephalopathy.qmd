@@ -1,24 +1,28 @@
 # Hepatic Encephalopathy {#sec-hep_enc}
 
-Brain dysfunction predominantly due to hyperammonaemia which occurs secondary to liver failure or portosystemic shunting, and:
+Neuropsychiatric syndrome characterized by cognitive and motor dysfunction, resulting from the liver's inability to effectively clear ammonia and other toxins, and is classified by cause into:
 
-* Has a wide variety of clinical appearances
-	* Inattention
-	* Psychomotor retardation
-	* Personality changes
-	* Agitation
-	* Somnolence
-	* Coma
-* Onset defined as either onset of:
-	* Asterixis
-	* Confusion
-* Is commonly contributed to by septic encephalopathy
+:::column-margin
+Acute and chronic liver failure are covered in detail under @sec-alf and @sec-cld.
+:::
 
+* **Type 1**\
+Secondary to acute liver failure. Encephalopathy secondary to acute liver failure is:
+	* Associated with cerebral oedema and ↑↑ ICP
+	* A severe and acute threat to life\
+	Responsible for most of the mortality burden of acute liver failure.
+* **Type 2**\
+Secondary to portosystemic shunting without liver disease.
+* **Type 3**\
+Secondary to cirrhosis. Typically:
+	* Encephalopathy *without* severe ↑ ICP\
+	Consequently has no:
+		* Requirement for aggressive ICP control
+		* Significant ↑ in mortality
 
 :::column-margin
 Degree of hepatic encephalopathy is strongly associated with the degree of hyperammonaemia, and so is typically less severe in ACLF compared to ALF.
 :::
-
 
 ## Epidemiology and Risk Factors
 
@@ -27,6 +31,11 @@ Degree of hepatic encephalopathy is strongly associated with the degree of hyper
 ### Aetiology
 
 ## Clinical Features
+
+
+## Assessment
+
+Hepatic encephalopathy has a wide variety of clinical appearances:
 
 :::column-margin
 The **Parson-Smith scale** grades hepatic encephalopathy into:
@@ -37,20 +46,41 @@ The **Parson-Smith scale** grades hepatic encephalopathy into:
 4. Coma
 :::
 
-## Assessment
+* Asterixis
+* Delirium
+	* Inattention
+	* Psychomotor retardation
+	* Personality changes
+	* Agitation
+	* Somnolence
+	* Coma
 
 ### History
 
 ### Exam
 
+
+
 ### Investigations
 
 **Bedside**:
 
+* BSL
+* ABG\
+Primary respiratory alkalosis.
+
+
 **Laboratory**:
 
 * Blood
-	* Ammonia
+	* Electrolytes
+	* LFTs
+	* Ammonia\
+	Useful in Type A encephalopathy, not useful in Type C due to:
+		* Fluctuating levels
+		* Poorly correlated with degree of clinical encephalopathy
+* Other
+	* Paracentesis
 
 :::column-margin
 Ammonia >200μmol/L associated with cerebral herniation.
@@ -58,20 +88,58 @@ Ammonia >200μmol/L associated with cerebral herniation.
 
 **Imaging**:
 
+* CXR
+
 **Other**:
 
 ### Diagnostic Approach and DDx
 
+:::caution
+Many patients with (or at risk for) hepatic encephalopathy are at risk for multifactorial delirium. However, the treatment for encephalopathy is also benign and can be initiated whilst conducting a search for other causes.
+:::
+
+Diagnosis of encephalopathy should consider:
+
+* **Triggers**
+	* Infection
+	* GI bleeding
+	* ↑ Protein diet
+	* Non-compliance with rifaximin or lactulose
+	* AKI
+	* Portal vein thrombosis
+	* Intoxication
+* **Features**
+	* Delirium\
+	Typically hypoactive.
+	* Non-focal
+	* Stupor
+	* Respiratory alkalosis
+
+
+Key differential diagnoses include:
+
+* Medication-induced delirium
+	* Opioids
+	* Alcohol intoxication
+	* Alcohol withdrawal
+* Infective delirium
+* Metabolic encephalopathy
+	* Wernicke's
+	* ↓ BSL
+	* Uraemic
+	* Hyponatraemia
 
 ## Management
 
 :::priority
-* Manage ICP with **quad-H** therapy
+* **Secure airway** if high grade encephalopathy
+* Manage ICP with **quad-H** therapy in Type A disease
 	* **Hyperventilation**
 	* **Haemodiafiltration**
 	* **Hypernatraemia**
 	* **Hypothermia**
-* Supportively manage concurrent liver failure
+* **Correct ammonia** with polyethylene glycol or lactulose
+* Identify and **treat precipitants**
 :::
 
 **Resuscitation**:
@@ -80,11 +148,11 @@ Ammonia >200μmol/L associated with cerebral herniation.
 Invasive intracranial pressure monitoring associated with ~10% intracranial haemorrhage rate.
 :::
 
-* A\
+* A
 	* Secure if high grade (III/IV) encephalopathy
 * B
 	* **Hyperventilation**\
-	For ICP control.
+	If required for ICP control.
 * C
 	* Defend cerebral perfusion\
 	MAP 65-70mmHg, or CPP >50mmHg if measuring ICP.
@@ -106,7 +174,7 @@ Invasive intracranial pressure monitoring associated with ~10% intracranial haem
 	In addition to ↓ in ICP, also ↓ proteolysis and ammonia production.
 * F
 	* **Hypernatraemia**\
-	148-152mmol/L.
+	If required for ICP control. Target 148-152mmol/L.
 
 
 :::column-margin
@@ -117,25 +185,52 @@ The **combination** of **hyperventilation**, **haemodiafiltration**, **hypernatr
 
 * Pharmacological
 	* Hyperammonaemia
+		* **Polyethylene glycol**\
+		Preferred in severe encephalopathy. Results in rapid clearance of:
+			* Stool\
+			And ammonia-producing bacteria.
+			* Water\
+			Assists in ↑ Na^+^. 
 		* **Lactulose**\
 		May ↓ hepatic encephalopathy but lead to gaseous intestinal distension.
+			* 15-45mL Q4-12H PO, adjusted to achieve >4 bowel actions/day
+			* 300mL in 700mL of sterile water PR Q2H\
+			Nurse patient in the lateral position to optimise colonic spread.
 		* **Rifaximin** 550mg PO BD\
 		Combination with lactulose more effective than lactulose alone.
 * Procedural
+	* Shunt ligation\
+	↓ Porto-systemic shunting may improve encephalopathy, but ↑ portal hypertension and risk of variceal bleeding.
+		* Closure of previous TIPS
+		* Ligation
 * Physical
 
 :::column-margin
-Lactulose, an osmotic diuretic, ↓ ammonia by unconventional means:
+Lactulose, an osmotic diuretic, ↓ ammonia by several mechanisms:
 
-* Lactulose is metabolised by gut bacteria into lactic and acetic acid
-* The ↓ in colonic pH favours conversion of ammonia (NH~3~) to ionised ammonium (NH~4~^+^), which is trapped in the colon\
-This is **analogous to urinary alkalinisation** for elimination of weak acids.
-* Trapped ammonium is then cleared by the more mundane osmotic laxative effect
+* Osmotic diuretic\
+↓ Intestinal transit time and ↓ absorption.
+* ↑ Lactobacillus division\
+Non-ammonia producing gut flora.
+* Colonic acidification
+	* Lactulose is metabolised by gut bacteria into lactic and acetic acid
+	* The ↓ in colonic pH favours conversion of ammonia (NH~3~) to ionised ammonium (NH~4~^+^), which is trapped in the colon\
+	This is **analogous to urinary alkalinisation** for elimination of weak acids.
+	* Trapped ammonium is then cleared by the more mundane osmotic laxative effect
 
 Rifaximin is a non-absorbed, broad-spectrum antibiotic that ↓ gut flora concentrations, ↓ ammonia production.
 :::
 
+:::column-margin
+TIPS is covered under @sec-tips.
+:::
+
 **Supportive care**:
+
+* G
+	* Feeding\
+	Enteral nutrition should be given.
+	* Thiamine supplementation
 
 
 **Disposition**:
@@ -153,6 +248,15 @@ Significant (~60%) in hepatic encephalopathy in patients with chronic liver dise
 ## Complications
 
 ## Prognosis
+
+* Death
+	* Type A\
+	High mortality if untreated.
+	* Type C
+		* Favourable short-term prognosis
+		* Poor long-term (1-3 year) prognosis in absence of transplantation
+			* 1-year survival ~40%
+			* 3-year survival ~20%
 
 ## Key Studies
 

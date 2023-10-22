@@ -1,6 +1,17 @@
-# Acute Liver Failure
+# Acute Liver Failure {#sec-alf}
 
-Rapidly progressive, life-threatening development of **coagulopathy** (INR >1.5), **encephalopathy**, and **jaundice** in a patient with a previously normal liver due to massive liver parenchymal injury. ALF is subclassified by time interval between jaundice and encephalopathy:
+Rapidly progressive, life-threatening development of **coagulopathy** (INR >1.5), **encephalopathy**, and **jaundice** in a patient with a previously normal liver secondary to massive liver parenchymal injury.
+
+:::column-margin
+Acute Liver Failure is distinct from:
+
+* **Acute Liver Injury**\
+Coagulopathy and jaundice in absence of encephalopathy.
+* **Acute on Chronic Liver Failure**\
+Acute decline in liver function in patients with chronic liver disease.
+:::
+
+ALF is subclassified by time interval between jaundice and encephalopathy into:
 
 * **Hyperacute**\
 Encephalopathy within 7 days. Typically:
@@ -18,16 +29,6 @@ Encephalopathy within 3 months. Typically:
 	* Common aetiologies are drug or immune-mediated disease and *un*likely to be pregnancy-related or viral. 
 	* Poorest recovery in absence of transplantation
 	* Greatest degree of jaundice
-
-
-:::column-margin
-Acute Liver Failure is distinct from:
-
-* **Acute Liver Injury**\
-Coagulopathy and jaundice in absence of encephalopathy.
-* **Acute on Chronic Liver Failure**\
-Acute decline in liver function in patients with chronic liver disease.
-:::
 
 :::column-margin
 Hepatic encephalopathy may complicate either acute liver failure or chronic liver disease, and is covered under @sec-hep_enc.
@@ -147,15 +148,18 @@ Causes vary substantially with geography.
 		* Synthetic function
 	* Lactate\
 	Failure of hepatic clearance.
-	* Ammonia\
-	Neurotoxin responsible for much of hepatic encephalopathy. ↑ Ammonia may reflect:
-		* Hepatic metabolic dysfunction\
-		Degree of hepatic dysfunction typically correlates with ammonia level, though not with the degree of encephalopathy.
-		* ↑↑ Protein intake
-		* ↑ GI ammonia production\
-		Produced by gut bacteria.
-		* ↓ Clearance\
-		Urea cycle disorder.
+	* **Ammonia**\
+	Neurotoxin responsible for much of hepatic encephalopathy.
+		* >100μmol/L predicts the onset of encephalopathy
+		* >150-200μmol/L predicts risk of herniation
+		* ↑ Ammonia may reflect:
+			* Hepatic metabolic dysfunction\
+			Degree of hepatic dysfunction typically correlates with ammonia level, though not with the degree of encephalopathy.
+			* ↑↑ Protein intake
+			* ↑ GI ammonia production\
+			Produced by gut bacteria.
+			* ↓ Clearance\
+			Urea cycle disorder.
 	* UEC\
 		* AKI
 		* Electrolyte derangements
@@ -295,10 +299,9 @@ Consider **securing airway** if:
 	* ↓ **BSL**\
 	Use high-concentration dextrose to avoid cerebral oedema/↓ Na^+^.
 * F
-
 	* **RRT**\
-		* Avoid citrate!
-		* Use bicarbonate buffered solutions
+		* Use bicarbonate buffered solutions\
+		Avoid citrate! 
 		* CRRT strongly preferred for haemodynamic stability
 		* Haemodiafiltration preferred\
 		Dialysis is probably more effective than filtration, but both mechanisms are effective.
@@ -306,7 +309,7 @@ Consider **securing airway** if:
 			* Hyperammonaemia (>100μmol/L)\
 				* Aim <60μmol/L once commenced
 				* High doses (45-90mL/kg/hr) are often used to ↑ ammonia clearance\
-				↑ Rate by 50% each time.
+				↑ Rate by 50% until target ammonia reached.
 			* Hyperthermia
 	* Avoid positive fluid balance
 * G
@@ -354,7 +357,7 @@ Referral if:
 
 * Death
 	* Intracranial hypertension\
-	Classically if untreated.
+	Most common mechanism in untreated disease.
 	* Sepsis/multiorgan failure
 * A
 	* Unprotected airway
@@ -390,9 +393,9 @@ Referral if:
 
 Spontaneous recovery occurs in only **40%**. Factors:
 
-* Age
+* Age\
 ↑ Mortality with ↑ age.
-* Aetiology
+* Aetiology\
 ↓ Mortality with pregnancy-related causes.
 * Acuity\
 ↑ Mortality with ↑ acuity.
@@ -406,6 +409,8 @@ Transplantation:
 :::info
 Eligibility for transplantation is determined using one of the prognostic scores, such as MELD or the King's College criteria.
 :::
+
+: King's College Criteria for Liver Transplantation
 
 +-----------------------------+-----------------------------+
 | Paracetamol Toxicity        | Other Cause                 |
@@ -422,9 +427,34 @@ Eligibility for transplantation is determined using one of the prognostic scores
 |                             | * PT >50s                   |
 +-----------------------------+-----------------------------+
 
-: King's College Criteria for Liver Transplantation
+The King's criteria are the most widely used scoring system to predict liver transplant. However, there are several important caveats to use of the tool:
 
-The King's criteria are widely used but validation is less well supported, particularly in the paracetamol cohort.
+:::column-margin
+![Estimated Survival of 20-year Old Patients Meeting Transplant Criteria](/resources/kcc.png)
+:::
+
+* Development and validation occurred at a single centre in the 1970s and 1980s\
+	* Medical management of hepatic failure in generation and paracetamol toxicity in particular has improved significantly in the interim
+	* Patients at King's who received transplantation typically had a better prognosis than those who didn't
+		* Patients meeting criteria who were not listed had a 9% survival
+		* Patients meeting criteria who were listed but did not receive a transplant had 17% survival
+* Moderate specificity\
+~90% specific for need of transplantation; ~15% of patients meeting criteria will survive without transplantation.
+* Low sensitivity\
+~60%; such that 40% of patients who do not meet criteria may still die from liver failure.
+* Patients who survive the acute liver injury and who do not receive a transplant are spared the cumulative mortality risk and quality of life impairments that come with having a liver transplant
+* Patients without cerebral oedema or haemodynamic instability tend to survive with standard ICU care
+
+
+: Meld Score
+
+| MELD Score | Mortality |
+| :--------- | :-------- |
+| >40        | 71%       |
+| 30-39      | 53%       |
+| 20-29      | 20%       |
+| 10-19      | 6%        |
+| <9         | 2%        |
 
 An alternative to the King's criteria is the MELD score, which predicts 90 day survival using:
 
@@ -441,14 +471,6 @@ Use an app.
 * INR
 * Creatinine
 
-| MELD Score | Mortality |
-| *--------- | *-------- |
-| >40        | 71%       |
-| 30-39      | 53%       |
-| 20-29      | 20%       |
-| 10-19      | 6%        |
-| <9         | 2%        |
-
 
 ## Key Studies
 
@@ -462,3 +484,5 @@ Use an app.
 2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
 1. Van Eldere A, Pirani T. [Liver intensive care for the general intensivist](https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/10.1111/anae.15956). Anaesthesia. 2023;78(7):884-901.
 1. Warrillow SJ, Bellomo R. [Preventing Cerebral Oedema in Acute Liver Failure: The Case for Quadruple-H Therapy](https://journals.sagepub.com/doi/10.1177/0310057X1404200114). Anaesth Intensive Care. 2014;42(1):78-88.
+1. Ding GKA, Buckley NA. [Evidence and consequences of spectrum bias in studies of criteria for liver transplant in paracetamol hepatotoxicity](https://pubmed.ncbi.nlm.nih.gov/18606611/). QJM. 2008 Mar 18;101(9):723–9. 
+
