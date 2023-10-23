@@ -9,7 +9,7 @@ Inflammation of the meninges and subarachnoid space, that can be divided into:
 	Relatively benign, self-limiting disease.
 	* Yeast
 * **Aseptic** meningitis\
-Inflammation where bacteria cannot be isolated from CSF, and includes:
+Inflammation where an organism cannot be isolated from CSF, and includes:
 	* **Occult infective** causes
 		* Viral meningitis\
 		Most common.
@@ -75,8 +75,9 @@ Community acquired:
 	* ***S. pneumoniae***
 	* ***N. meningitidis***
 		* Peak incidence in first year of life\
-		Following loss of maternal antibody, and prior to development of new antibody.
-		* Rare in the immunocompetent adult
+		Following loss of maternal antibody, and prior to development of antibody to community exposures.
+		* Rare in the immunocompetent adult\
+		↑ Risk in high-density living, e.g. dormitories.
 		* Characteristic:
 			* Myalgias and arthralgias
 			* Purpuric or petechial rash\
@@ -143,9 +144,9 @@ Neonatal:
 Prior to vaccination.
 
 
-## Clinical Manifestations
+## Assessment
 
-Clinical features are typically **rapidly evolving** over hours, and relate to:
+Clinical features typically **rapidly evolve** over hours, and relate to:
 
 :::column-margin
 Viral meningitis presents with similar symptoms to bacterial meningitis, but is generally less severe.
@@ -163,14 +164,18 @@ Viral meningitis presents with similar symptoms to bacterial meningitis, but is 
 	Paediatric.
 * Causative organism
 	* Meningococcal disease
-		* Hash\
+		* Rash\
 		Haemorrhagic, petechial, purpuric.
 		* Digital gangrene
 		* Skin necrosis
 		* Signs of coagulopathy
 
 :::column-margin
-![](/resources/meningococcal_rash.jpg)
+![Meningococcal Rash](/resources/meningococcal_rash.jpg)
+:::
+
+:::column-margin
+![Subtle Meningococcal Rash](/resources/meningococcal_rash2.png)
 :::
 
 In the immunocompromised:
@@ -285,7 +290,7 @@ Duration of antimicrobial therapy depends on the organism:
 * Physical
 
 :::column-margin
-Dexamethaxone is associated with:
+Dexamethasone is associated with:
 
 * ↓ Mortality in *S. pneumoniae*
 * ↓ Deafness in adults and in children with *H. Influenzae*
@@ -344,7 +349,7 @@ Bacterial meningitis:
 	* Seizures
 	* Delays to treatment
 	* Extremes of age
-	* Pneumonococcal meningitis
+	* Pneumococcal meningitis
 
 
 Viral meningitis:
@@ -368,3 +373,4 @@ Poor prognostic features:
 ## References
 
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
+1. Starr M, Rajapaksa S. [Meningococcal sepsis](https://www.racgp.org.au/afp/2010/may/meningococcal-sepsis). Australian Journal for General Practitioners. 2010 May;39(5):276–8. 

@@ -72,7 +72,7 @@ Infusion of new cells (autologous or allogeneic) occurs after myeloablation, and
 :::
 
 2. **Pre-engraftment**\
-Time between infusion and when stem cells begun haematopoiesis.
+Time between infusion and when stem cells begin haematopoiesis.
 	* Usually lasts <30 days
 	* Profound neutropenia and susceptibility to bacterial infections\
 		* Gram positive infections predominate\
@@ -81,7 +81,8 @@ Time between infusion and when stem cells begun haematopoiesis.
 			* Candida
 		* Neutropenic enterocolitis
 		* HSV
-	* Most ICU admissions occur during this phase
+	* Most ICU admissions occur during this phase\
+\
 3. **Early post-engraftment**\
 Time from recovery of cell counts.
 	* Classically day 30-100
@@ -95,7 +96,8 @@ Time from recovery of cell counts.
 		* Fungal infections
 			* *Candida* spp.
 			* PJP
-			* *Aspergillus* spp.
+			* *Aspergillus* spp.\
+\
 4. **Late post-engraftment**\
 Indefinite period that consists of some degree of impaired cell mediated and humoral immunity.
 	* Viral infections
@@ -123,25 +125,16 @@ Management depends on the stage of therapy:
 ## Complications
 
 * B
-	* Diffuse alveolar haemorrhage\
-	Pulmonary endothelial injury secondary to chemotherapy.
-		* Risks include:
-			* Age
-			* Intensity of myeloablation
-			* GvHD
-			* Total body irradiation
-			* Allogeneic transplant
-		* Presentation with:
-			* Fever
-			* Dyspnoea
-			* Cough\
-			Haemoptysis is rare.
-			* Blood alveolar lavage samples
-		* Management:
-			* Steroids
-	* Idiopathic pneumonia
+	* **Diffuse alveolar haemorrhage**\
+	Pulmonary endothelial injury secondary to chemotherapy. Risks include:
+		* Age
+		* Intensity of myeloablation
+		* GvHD
+		* Total body irradiation
+		* Allogeneic transplant
+	* **Idiopathic pneumonia**
 * D
-	* PRES
+	* **PRES**
 * H
 	* **Graft failure**\
 	Failure to establish new population of bone marrow cells.
@@ -177,11 +170,11 @@ Management depends on the stage of therapy:
 				* Methotrexate
 			* Defibrotide\
 			Inhibits platelet activation, aggregation, restores endothelial function, and improves microvascular thrombosis.
-	* Post-transplant lymphoproliferative disorder\
+	* **Post-transplant lymphoproliferative disorder**\
 	Uncontrolled proliferation of EBV-infected B cells, causing impaired T-cell immunity.
-	* TTP
+	* **TTP**
 * I
-	* Engraftment syndrome\
+	* **Engraftment syndrome**\
 	Transient inflammatory state occurring due to release of cytokines by engraftment of donor cells.
 		* Features include:
 			* Fever
@@ -195,6 +188,10 @@ Management depends on the stage of therapy:
 	Highest risk in the pre-engraftment, followed by early post-engraftment phase.
 		* Almost any pathogen can cause significant disease in the immunocompromised host
 	* **GvHD**
+
+:::column-margin
+Diffuse alveolar haemorrhage is covered under @sec-dah.
+:::
 
 :::column-margin
 TTP (and other microangiopathies) is covered under @sec-ttp.
