@@ -42,34 +42,38 @@ Potentially fatal.
 Excessive serotonin activity at 5-HT~2~ receptors in the CNS.
 
 
-
-
-
 ### Aetiology
 
 : Drugs Associated with Moderate to Severe Serotonin Toxicity
 
-+-------------------------------------+----------------------------+--------------+
-| Monoamine Oxidase Inhibitors        | Serotonin Releasing Agents | Other        |
-+=====================================+============================+==============+
-| **Irreversible inhibitors:**        | **SSRIs**:                 | * Lithium    |
-|                                     |                            | * Buspirone  |
-| * Phenelzine                        | * Fentanyl                 | * Tryptophan |
-| * Tranylcypromine                   | * Tramadol                 |              |
-| * Iproniazid                        | * Pethidine                |              |
-| * Isocarboxazid                     | * Dextromethorphan         |              |
-+-------------------------------------+----------------------------+              |
-| **Reversible inhibitors** of MAO-A: | **Sympathomimetics**:      |              |
-|                                     |                            |              |
-| * Moclobemide                       | * Ecstasy                  |              |
-|                                     | * Amphetamines             |              |
-|                                     | * Bath salts               |              |
-+-------------------------------------+----------------------------+              |
-| **Non-psychotropics**:              | **Herbal**:                |              |
-|                                     |                            |              |
-| * Linezolid                         | * St John's Wort           |              |
-| * Methylene blue                    |                            |              |
-+-------------------------------------+----------------------------+--------------+
++----------------------------------+------------------------------------+--------------------+
+| Class                            | Subclass                           | Agents             |
++==================================+====================================+====================+
+| **Monoamine Oxidase Inhibitors** | **Irreversible inhibitors**        | * Phenelzine       |
+|                                  |                                    | * Tranylcypromine  |
+|                                  |                                    | * Iproniazid       |
+|                                  |                                    | * Isocarboxazid    |
+|                                  +------------------------------------+--------------------+
+|                                  | **Reversible inhibitors** of MAO-A | * Moclobemide      |
+|                                  +------------------------------------+--------------------+
+|                                  | **Non-psychotropics**              | * Linezolid        |
+|                                  |                                    | * Methylene blue   |
++----------------------------------+------------------------------------+--------------------+
+| **Serotonin Releasing Agents**   | **SSRIs**                          | * Fentanyl         |
+|                                  |                                    | * Tramadol         |
+|                                  |                                    | * Pethidine        |
+|                                  |                                    | * Dextromethorphan |
+|                                  +------------------------------------+--------------------+
+|                                  | **Sympathomimetics**               | * Ecstasy          |
+|                                  |                                    | * Amphetamines     |
+|                                  |                                    | * Bath salts       |
+|                                  +------------------------------------+--------------------+
+|                                  | **Herbal**                         | * St John's Wort   |
++----------------------------------+------------------------------------+--------------------+
+| **Other**                        |                                    | * Lithium          |
+|                                  |                                    | * Buspirone        |
+|                                  |                                    | * Tryptophan       |
++----------------------------------+------------------------------------+--------------------+
 
 :::column-margin
 Drugs without significant risk of toxicity include serotonin antagonists and drugs that do not agonise 5-HT~2~, including:
@@ -129,7 +133,7 @@ Presentation:
 
 ## Investigations
 
-Diagnosis is clinical. Investigations usually targeted towards ruling out other causes, or identifying complications.
+Diagnosis is clinical. Investigations are targeted towards ruling out other causes, or identifying complications.
 
 **Laboratory**:
 

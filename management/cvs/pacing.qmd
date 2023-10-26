@@ -149,10 +149,10 @@ Are multiple cardiac chambers paced:
 |      | - Either chamber inhibited in response to sensing                                                                                                                       | - Asystole                                             |                                                                                                                                                       |
 |      | - Atrium paced at the set rate if the native atrial rate is less than the set rate, as AAI                                                                              |                                                        |                                                                                                                                                       |
 |      | - Ventricle paced at the *sensed* atrial rate if it exceeds the set rate, and no AV nodal conduction occurs during the set A-V interval                                 |                                                        |                                                                                                                                                       |
-|      | - Ventricle paced at the *set* rate if no no AV nodal conduction occurs (during the set A-V interval) following an atrial pacing impulse                                |                                                        |                                                                                                                                                       |
+|      | - Ventricle paced at the *set* rate if no AV nodal conduction occurs (during the set A-V interval) following an atrial pacing impulse                                   |                                                        |                                                                                                                                                       |
 +------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
 | DDI  | - Both chambers sensed                                                                                                                                                  | - AV block when ventricular pacing is poorly tolerated | - Poor atrial or ventricular sensitivity                                                                                                              |
-|      | - Both chambers paced                                                                                                                                                   | - AF/Flutter with inadequate ventricular rate          |                                                                                                                                                       |
+|      | - Both chambers paced                                                                                                                                                   | - AF or flutter with inadequate ventricular rate       |                                                                                                                                                       |
 |      | - Either chamber inhibited in response to sensing                                                                                                                       | - Pacemaker mediated tachycardia                       |                                                                                                                                                       |
 |      | - Atrium paced at the set rate if the native atrial rate is less than the set rate; as AAI                                                                              |                                                        |                                                                                                                                                       |
 |      | - Ventricle paced at the *set* rate if the ventricular rate is less than the set rate; as VVI\                                                                          |                                                        |                                                                                                                                                       |
@@ -179,7 +179,7 @@ Temporary systems include epicardial and transvenous systems. These systems prov
 	* Default settings prior to performing a pacing check include:
 		* Output: 10-15mA
 		* Sensitivity:
-		* Rate: ~10 higher than native rate
+		* Rate: ~10 higher than native rate\
 		Particularly prior to pacing check, to ↓ risk of R-on-T.
 * Performing **rapid atrial pacing**
 
@@ -224,21 +224,27 @@ Test of the pacemakers detection of native cardiac output.
 	As ventricular capture.
 
 :::column-margin
-+-------------+---------------+------------------------------------------------+
-| Lead        | Threshold     | Setting                                        |
-+=============+===============+================================================+
-| Atrial      | - <1mv        | - Avoid as backup mode. Inappropriate in ward. |
-|             | - 1-4mV       | - 0.5mV                                        |
-|             | - \>5mV       | - 1mV                                          |
-|             | - Not checked | - 0.5mV. Inappropriate in ward.                |
-+-------------+---------------+------------------------------------------------+
-| Ventricular | - <2mV        | - Leave pacing off.                            |
-|             | - 2-6mV       | - 1mV                                          |
-|             | - 7-10mV      | - 2mV                                          |
-|             | - \>12mV      | - 3mV                                          |
-+-------------+---------------+------------------------------------------------+
-
 : Setting Sensitivity
+
++-------------+-------------+----------------------------------------------+
+| Lead        | Threshold   | Setting                                      |
++=============+=============+==============================================+
+| Atrial      | <1mv        | Avoid as backup mode. Inappropriate in ward. |
+|             +-------------+----------------------------------------------+
+|             | 1-4mV       | 0.5mV                                        |
+|             +-------------+----------------------------------------------+
+|             | \>5mV       | 1mV                                          |
+|             +-------------+----------------------------------------------+
+|             | Not checked | 0.5mV. Inappropriate in ward.                |
++-------------+-------------+----------------------------------------------+
+| Ventricular | <2mV        | Leave pacing off.                            |
+|             +-------------+----------------------------------------------+
+|             | 2-6mV       | 1mV                                          |
+|             +-------------+----------------------------------------------+
+|             | 7-10mV      | 2mV                                          |
+|             +-------------+----------------------------------------------+
+|             | \>12mV      | 3mV                                          |
++-------------+-------------+----------------------------------------------+
 :::
 
 

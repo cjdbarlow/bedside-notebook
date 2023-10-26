@@ -62,28 +62,6 @@ If transduced from EVD, ensure monitor is leveled appropriately.
 
 Patterns:
 
-* **Cushing Triad**\
-↑ ICP leads to a sympathetic surge aimed to maintain cerebral perfusion, which manifests as:
-	* Arterial hypertension
-	* Bradycardia
-	* Irregular respiration
-
-: Integration of Haemodynamic Data
-
-+-----------------------------+-----+-----+-------+-------+------+
-| Type of Shock               | MAP | CVP | CO/CI | MPAP  | PCWP |
-+=============================+=====+=====+=======+=======+======+
-| **Hypovolaemic**            | ↓/- | ↓   | ↓     | ↓     | ↓    |
-+-----------------------------+-----+-----+-------+-------+------+
-| **Obstructive**             | ↓   | ↑   | ↓     | ↑     | ↑/-  |
-+-----------------------------+-----+-----+-------+-------+------+
-| **Distributive**            | ↓   | ↓   | ↑     | ↓     | ↓    |
-+-----------------------------+-----+-----+-------+-------+------+
-| **Cardiogenic: LV failure** | ↓/- | ↑/- | ↓     | ↓/-   | ↑    |
-+-----------------------------+-----+-----+-------+-------+------+
-| **Cardiogenic: RV failure** | ↓/- | ↑   | ↓     | ↑/-/↓ | \-   |
-+-----------------------------+-----+-----+-------+-------+------+
-
 :::column-margin
 Information from the monitor, ventilator, and medications should be combined to form a clinical impression.\
 \
@@ -92,6 +70,27 @@ e.g. "The SpO~2~ is 93% with an FiO~2~ of 50% - there is evidence of a raised A-
 Or, "The patient is in AF, I note the heparin infusion and wonder if this is the sole indication for anticoagulation."
 :::
 
+* **Cushing Triad**\
+↑ ICP leads to a sympathetic surge aimed to maintain cerebral perfusion, which manifests as:
+	* Arterial hypertension
+	* Bradycardia
+	* Irregular respiration
+
+: Integration of Haemodynamic Data
+
++-----------------------------+-----+-----+--------+-------+------+
+| Type of Shock               | MAP | CVP | CO//CI | MPAP  | PCWP |
++=============================+=====+=====+========+=======+======+
+| **Hypovolaemic**            | ↓/- | ↓   | ↓      | ↓     | ↓    |
++-----------------------------+-----+-----+--------+-------+------+
+| **Obstructive**             | ↓   | ↑   | ↓      | ↑     | ↑/-  |
++-----------------------------+-----+-----+--------+-------+------+
+| **Distributive**            | ↓   | ↓   | ↑      | ↓     | ↓    |
++-----------------------------+-----+-----+--------+-------+------+
+| **Cardiogenic: LV failure** | ↓/- | ↑/- | ↓      | ↓/-   | ↑    |
++-----------------------------+-----+-----+--------+-------+------+
+| **Cardiogenic: RV failure** | ↓/- | ↑   | ↓      | ↑/-/↓ | \-   |
++-----------------------------+-----+-----+--------+-------+------+
 
 ## Ventilator
 

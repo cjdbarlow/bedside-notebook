@@ -3,7 +3,7 @@
 Calcium channel blocker overdose produces 
 
 :::column-margin
-Non-dihydropyridine (diltiazem, verapamil) are the agents of concern. Dihydropyridine overdose typically causes isolated hypotension with a compensatory *tachy*cardia, although subclass selectivity is lost in massive overdose and myocardial suppression (and *brady*cardia) can occur.
+Non-dihydropyridines (diltiazem, verapamil) are the agents of concern. Dihydropyridine overdose typically causes isolated hypotension with a compensatory *tachy*cardia, although subclass selectivity is lost in massive overdose and myocardial suppression (and *brady*cardia) can occur.
 :::
 
 * ↓ HR
@@ -20,6 +20,7 @@ Non-dihydropyridine (diltiazem, verapamil) are the agents of concern. Dihydropyr
 * Direct ↓ SVR
 * ↓ Insulin release from β-islet cells
 * ↑ Insulin resistance
+
 
 ### Aetiology
 
@@ -77,6 +78,7 @@ Unlike calcium channel blockers, β-blockers can also cause bronchospasm, and wi
 **Imaging**:
 
 **Other**:
+
 
 ## Management
 
