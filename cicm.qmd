@@ -223,6 +223,7 @@ The end-of-bed-o-gram and orbit provide the majority of useful clinical informat
 
 :::column-margin
 ```{mermaid}
+
 flowchart TD
     A[End-of-bed-o-gram] --> B[Orbit]
     B --> C[GCS]

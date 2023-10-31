@@ -100,9 +100,16 @@ Principles of management are:
 **Specific therapy**:
 
 * Pharmacological
-    * **Dexamethasone**
-        * 10mg IV OD
-        * Evidence only supportive for infective (pneumonia, sepsis) causes of ARDS
+    * **Steroids**\
+    Likely ↓ mortality and ventilator duration.
+        * Indications depend on cause, and include:
+            * Primarily infective
+            * Steroid-responsive\
+            Organising pneumonias.
+            * Moderate-severe ARDS that fails standard therapies
+        * Consider:
+            * Dexamethasone 10mg IV OD
+            * Methylprednisolone
         * Pure glucocorticoid preferable to mineralocorticoid\
         Avoids sodium and water retention.
 * Physical
@@ -110,6 +117,26 @@ Principles of management are:
     Significant improvement in hypoxia by:
         * Recruiting dorsal lung
         * Improving V/Q matching
+
+:::column-margin
+: Meduri Protocol for Methylprednisolone Dosing
+
++------------------------------------------------------------------------------------+-----------------+
+| Time                                                                               | Dose            |
++====================================================================================+=================+
+| Load                                                                               | 1 mg/kg         |
++------------------------------------------------------------------------------------+-----------------+
+| Day 1-14                                                                           | 1 mg/kg/day     |
++------------------------------------------------------------------------------------+-----------------+
+| Day 15-21                                                                          | 0.5 mg/kg/day   |
++------------------------------------------------------------------------------------+-----------------+
+| Day 22-25                                                                          | 0.25 mg/kg/day  |
++------------------------------------------------------------------------------------+-----------------+
+| Day 26-28                                                                          | 0.125 mg/kg/day |
++------------------------------------------------------------------------------------+-----------------+
+| Note: If the patient extubates during day 1-14, advance to day 15 of the schedule                    |
++------------------------------------------------------------------------------------------------------+
+:::
 
 :::column-margin
 Proning is a cornerstone of ARDS management, and is covered in detail under @sec-proning.
@@ -255,3 +282,5 @@ Pulmonary function tests normalise in 6-12 months.
 1. Writing Group for the Alveolar Recruitment for Acute Respiratory Distress Syndrome Trial (ART) Investigators. [Effect of Lung Recruitment and Titrated Positive End-Expiratory Pressure (PEEP) vs Low PEEP on Mortality in Patients With Acute Respiratory Distress Syndrome: A Randomized Clinical Trial](https://jamanetwork.com/journals/jama/fullarticle/2654894). JAMA. 2017;318(14):1335-1345. doi:10.1001/jama.2017.14171
 1. Papazian L, Forel JM, Gacouin A, et al. [Neuromuscular Blockers in Early Acute Respiratory Distress Syndrome](http://www.nejm.org/doi/full/10.1056/NEJMoa1005372). New England Journal of Medicine. 2010;363(12):1107-1116. doi:10.1056/NEJMoa1005372
 1. Guérin C, Reignier J, Richard JC, et al. [Prone Positioning in Severe Acute Respiratory Distress Syndrome](http://www.nejm.org/doi/10.1056/NEJMoa1214103). N Engl J Med. 2013;368(23):2159-2168. doi:10.1056/NEJMoa1214103
+1. Meduri GU, Golden E, Freire AX, Taylor E, Zaman M, Carson SJ, et al. Methylprednisolone Infusion in Early Severe ARDS: Results of a Randomized Controlled Trial. Chest. 2007 Apr 1;131(4):954–63. 
+
