@@ -12,13 +12,13 @@ local dir = os.getenv("QUARTO_PROJECT_DIR")
 
 
 -- Define the find and replace strings
-local old = "```{mermaid}"
+local old = "```{mermaid}\n\n"
 
 local styleFilePath = dir .. "/styles/mermaid_styling"
 local styleFile = io.open(styleFilePath, "r")
 local new = styleFile:read("*all")
 styleFile:close()
-
+new = new .. "\n\n"
 
 -- Function to perform find and replace
 local function findAndReplaceInFile(filePath, old, new)

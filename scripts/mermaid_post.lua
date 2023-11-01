@@ -15,6 +15,7 @@ local styleFilePath = dir .. "/styles/mermaid_styling"
 local styleFile = io.open(styleFilePath, "r")
 local old = styleFile:read("*all")
 styleFile:close()
+old = old
 
 local new = "```{mermaid}"
 
