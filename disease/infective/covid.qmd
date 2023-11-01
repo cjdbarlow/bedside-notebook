@@ -186,6 +186,12 @@ A substantial proportion (17-30%) of infected may never develop symptoms.
 	* PCR
 		* Sensitivity 60-95%\
 		Varies depending on quality of sample and amount of viral shedding.
+		* The **cycle time** (or cycle threshold) is number of PCR cycles that must be performed before a result becomes positive
+			* Provides an estimate of the viral load in the sample\
+			A lower cycle threshold indicates a higher viral load.
+			* Can indicate the infectiveness of the patient
+			* Does not correlate with severity of disease
+			* The threshold for a significant cycle time varies depending on the test used
 
 :::column-margin
 Bronchoalveolar lavage is more sensitive, but is aerosol generating.
