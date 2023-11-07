@@ -1,54 +1,238 @@
-# Right Ventricular Support
+# Right Ventricular Failure
 
-The right ventricle is fragile and right ventricular failure can be challenging to manage. Each of the determinates of cardiac output should be optimised for the failing RV:
-
-* Preload
-* Afterload
-* Contractility
-* Rate/Rhythm
+The right ventricle is fragile and right ventricular failure can be challenging to manage. 
 
 
-## Preload
+## Epidemiology and Risk Factors
 
-* Volume state is often difficult to determine
-* Volume overload is exceedingly detrimental to RV function, as excessive distension of the RV will impair LV filling and further worsen the haemodynamic state
+## Pathophysiology
+
+RV failure results from interplay of several mechanisms:
+
+* Myocyte **hypertrophy**\
+Occurs due to chronic ↑ afterload. This mirrors the response seen in LV disease, and occurs in phases:
+	* Homeometric adaptation\
+	Adaptive hypertrophy that leads to ↑ contractility and preservation of SV.
+	* Heterometric adaptation\
+	Transition to maladaptive changes, with:
+		* ↓ β-receptor density
+		* Failure of cAMP stimulation
+		* Vasodilation\
+		Fall in EF requires ventricular enlargement to maintain stroke volume. As in LV disease, this indicates decompensation.
+	* Dysoxia\
+	Progressive hypertrophy ↑ O~2~ demand; when this exceeds supply contractility furhter declines and ventriculoarterial uncoupling occurs.
+* **Neurohormonal** activation
+* **Fibrosis**\
+Collagen proliferation occurs due to mechanical stress, ischaemia, and neuromormonal activation. This results in impaired luisotropy and diastolic dysfunction.
+* **Ischaemia**
 
 
-## Afterload
+Key haemodynamic principles include:
 
-Reduction in RV afterload can be achieved by:
+:::column-margin
+With (particularly acute) RV failure, RVEDP rises and RV perfusion pressure is reduced due to a higher downstream pressure. Similar physiology is seen during pulmonary hypertension, as the high RVSP reduces RV perfusion during ventricular systole.\
+\
+Coronary perfusion pressure of **<30mmHG** is associated with severe reduction in myocardial blood flow, leading to ischaemia and significant RV dysfunction. This leads to the "**Right Ventricular Spiral of Death**", where RV dysfunction leads to ↓ LV preload, which in turn causes a ↓ LV SV, a ↓ MAP, and further RV impairment.
+:::
 
-* Correcting physiology
-	* Normoxia
-	* Normocapnoea
-	* Normal pH
-	* Treating pain
-* Inhaled pulmonary vasodilators
-	* Nitric Oxide
-	* Prostacyclin
-* Oral pulmonary vasodilators
-	* Sildenafil\
-	Slower onset than inhaled dilators, takes 2-3 days to achieve maximal effect.
-* Inodilators
-	* Milrinone
-
-
-## Contractility
-
-RV systolic function can be optimised by:
-
-* Inotropes/Inodilators
-* Defending coronary perfusion
-	* The RV is sensitive to changes in perfusion pressure, and therefore **aggressive defence of the systemic perfusion pressure** is essential\
-	**Noradrenaline** is excellent for this.
-	* With (particularly acute) RV failure, RVEDP rises and RV perfusion pressure is reduced due to a higher downstream pressure
-			* Similar physiology is seen during pulmonary hypertension, as the high RVSP reduces RV perfusion during ventricular systole
-		* Coronary perfusion pressure of **<30mmHG** is associated with severe reduction in myocardial blood flow, leading to ischaemia and significant RV dysfunction\
-		This usually leads to the "RV Death Spiral", where RV dysfunction leads to ↓ LV preload, leads to ↓ LV SV, leads to ↓ MAP, and further RV impairment.
+* **Preload**\
+The RV is thin-walled and compliant, and in normal circumstances is able to tolerate significant variability in preload. However:
+	* Excessive ↑ preload displaces the interventricular septum leftwards, and so impair LV function\
+		* This further impairs the RV by ↓ perfusion
+		* This effect is more pronounced with pre-existing RV dysfunction
+	* Chronic ↑ in preload results in:
+		* RV dilation and loss of contractile reserve
+		* Venous congestion of the whole body capillary bed\
+		↓ Perfusion to all organ systems.
+* **Afterload**\
+The RV is thin walled and weak, and is highly sensitive to changes in afterload.
+	* Changes in symptomatology therefore usually mirror changes in afterload
+	* Acute ↑ afterload can rapidly lead to circulatory collapse
+	* The prime determinant of RV afterload is pulmonary vascular impedance, and all determinants are intra-thoracic
+* **Perfusion pressure**\
+The RV usually perfuses throughout the cardiac cycle, although in disease (with an ↑ in RVEDP) this may fall, ↑ the sensitivity of the RF to hypotension.
 
 :::column-margin
 $RV \ Coronary \ Perfusion \ Pressure = P_{Aortic Root} - P_{RV}$
 :::
+
+
+### Aetiology
+
+## Assessment
+
+Features are typically non-specific:
+
+* ↓ Exercise tolerance
+* Dyspnoea
+* Early satiety
+* Abdominal fullness
+
+
+### History
+
+* Coronary artery disease
+* Left heart failure
+* Valvular heart disease
+* Chronic lung disease
+* VTE
+* Connective tissue diseases
+* HIV
+* Smoking
+* Weight loss therapy
+
+
+### Examination
+
+* ↑ JVP
+* RV heave
+* Prominent S~2~\
+Secondary to pulmonary hypertension.
+* TR
+* Hepatomegaly
+* Pulsatile liver
+
+
+
+### Investigations
+
+**Bedside**:
+
+* TTE
+	* TAPSE
+	* Dilation
+* ECG\
+Identification of RV ischaemia and RVH.
+
+**Laboratory**:
+
+**Imaging**:
+
+* Cardiac MRI\
+Particular for congenital disease.
+
+**Other**:
+
+* Right heart catheterisation\
+A full study consists of:
+	* Invasive pressure measurement
+		* RA
+		* RV
+		* PA
+		* CO by thermodilution and/or Fick
+	* Pressure-volume loop generation\
+	Requires conductance catheterisation.
+
+
+### Diagnostic Approach and DDx
+
+
+## Management
+
+:::priority
+* Defend **coronary perfusion**
+* Determine cause
+* **Optimise** determinants of **cardiac output**\
+Preload, afterload, contractility, rate, and rhythm.
+:::
+
+**Resuscitation**:
+
+* C
+	* Defend **coronary perfusion**\
+	The RV is sensitive to changes in perfusion pressure, and therefore **aggressive defence of the systemic perfusion pressure** is essential. **Noradrenaline** is excellent for this.
+	* **Preload**\
+	Volume overload is exceedingly detrimental to RV function, as excessive distension of the RV will impair LV filling and further worsen the haemodynamic state.
+		* Volume state is often difficult to determine
+		* Volume reduction is typically most beneficial with:
+			* Chronic RV failure
+			* Presence of TR\
+			Generally indicates ventricular dilation.
+		* Volume loading is typically most beneficial with:
+			* Acute RV afterload\
+			e.g. PE.
+			* Acute ↓ RV contractility\
+			e.g. RV infarction.
+	* **Afterload**\
+	Reduction in RV afterload is *almost* always beneficial, although must be balanced against ↓ SVR and worsening RV perfusion. Approaches include:
+		* Correcting physiology
+			* Normoxia
+			* Normocapnoea
+			* Normal pH
+			* Treating pain
+		* Rapid onset pulmonary vasodilators
+			* Nitric oxide
+			* Prostacyclins
+				* Iloprost
+				* Epoprostenol
+	* **Contractility**\
+	Indicated for RV failure complicated by cardiogenic shock. Options include:
+		* Inotropes
+			* Adrenaline
+			* Milrinone
+			* Dobutamine
+		* Vasopressors\
+		To improve (or defend) perfusion and therefore ↑ RV contractility.
+			* Noradrenaline
+			* Phenylephrine
+			* Vasopressin
+		* Mechanical support\
+		For cardiogenic shock unreponsive to pharmacological therapy. Options include:
+			* ECMO
+			* Temporary RVAD\
+			If RV afterload not prolonged.
+	* **Rhythm**
+
+:::column-margin
+RV afterload reduction is less effective when afterload is not raised, and may be detrimental in outflow tract obstruction (e.g. ToF).
+:::
+
+**Specific therapy**:
+
+* Pharmacological
+	* Pulmonary vasodilators\
+	Combination therapy is typically standard, and may involve:
+		* Calcium-channel blockers\
+		For idiopathic, drug associated, or vasoreactive disease.
+			* Amlodipine
+			* Diltiazem
+		* Endothelin antagonists\
+		For PAH.
+			* Bosentan		
+			* Ambrisentan
+			* Macitentan
+		* Direct pulmonary vasodilators
+			* Sildenafil\
+			PO. Slow onset, takes 2-3 days to achieve maximal effect.
+	* Inotropes
+		* Digoxin	
+* Procedural
+	* Atrial septostomy\
+	Palliative procedure for severe PAH, creating a right-to-left shunt.
+	* Pulmonary thromboendarterectomy\
+	In CTEPH.
+	* Lung transplant
+	* Heart-lung transplant
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
 
 ## Rate/Rhythm
 
@@ -57,4 +241,7 @@ $RV \ Coronary \ Perfusion \ Pressure = P_{Aortic Root} - P_{RV}$
 ---
 
 ## References
+
+1. Houston BA, Brittain EL, Tedford RJ. [Right Ventricular Failure](https://www.nejm.org/doi/full/10.1056/NEJMra2207410). New England Journal of Medicine. 2023 Mar 23;388(12):1111–25. 
+
 	

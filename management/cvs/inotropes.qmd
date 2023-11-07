@@ -1,11 +1,13 @@
 # Inotropes {#sec-inotropes}
 
-Inotropes are drugs that ↑ force and velocity of myocardial contraction, causing a primary ↑ SV and a secondary ↑ in CO and BP. Inotropes are divided based on their effect on SVR into:
+Inotropes are drugs that ↑ force and velocity of myocardial contraction, causing a primary ↑ SV and a secondary ↑ in CO and BP.
 
-* Standard inotropes\
-Catecholamines (or derived), which act to ↑ cAMP.
+Inotropes can be divided based on their effect on SVR into:
+
+* "Pure" inotropes\
+Predominantly naturally or synthetic catecholamines, which act to ↑ cAMP.
 * Inodilators\
-Phosphodiesterase inhibitors. 
+Phosphodiesterase inhibitors and calcium sensitisers.
 
 :::column-margin
 Although we like to conceptually separate inotropes from @sec-vasopressors, there is substantial overlap in the pharmacodynamic activity of many drugs in either category.\
@@ -22,51 +24,56 @@ My preference for nomenclature is to use the umbrella term **vasoactive** for al
 
 : Comparison of Catecholamine Inotropes
 
-+------------------+----------------------------------------+-----------------------------------+
-| Drug             | Adrenaline                             | Dobutamine                        |
-+==================+========================================+===================================+
-| Overview         | Endogenous catecholamine               | Synthetic catecholamine           |
-|                  |                                        |                                   |
-|                  | * Mixed non-selective α and β activity | * Predominantly β~1~              |
-|                  |                                        | * Nonspecific α effects at ↑ dose |
-+------------------+----------------------------------------+-----------------------------------+
-| Dosing           | 0-0.3µg/kg/min                         |                                   |
-+------------------+----------------------------------------+-----------------------------------+
-| Relative Actions | * ↑ Inotropy                           | * ↑ Inotropy                      |
-|                  | * ↑ SVR                                | * ↓ SVR                           |
-+------------------+----------------------------------------+-----------------------------------+
-| Disadvantages    | * ↑ Myocardial O~2~ consumption        | * ↓ SVR\                          |
-|                  | * Type B lactataemia                   | Hypotension.                      |
-|                  | * Arrhythmogenic                       | * ↑ Myocardial O~2~ consumption   |
-|                  |                                        | * Arrhythmogenic                  |
-+------------------+----------------------------------------+-----------------------------------+
++---------------+----------------------------------------+-----------------------------------+
+| Drug          | Adrenaline                             | Dobutamine                        |
++===============+========================================+===================================+
+| Overview      | Endogenous catecholamine               | Synthetic catecholamine           |
+|               |                                        |                                   |
+|               | * Mixed non-selective α and β activity | * Predominantly β~1~              |
+|               |                                        | * Nonspecific α effects at ↑ dose |
++---------------+----------------------------------------+-----------------------------------+
+| Dosing        | 0-0.3µg/kg/min                         | 2.5-20µg/kg/min                   |
++---------------+----------------------------------------+-----------------------------------+
+| Haemodynamics | Contractility: ↑↑\                     | Contractility: ↑\                 |
+|               | HR: ↑↑\                                | HR: ↑\                            |
+|               | SVR ↑↑\                                | SVR: ↑/↓\                         |
+|               | PVR: ↑/↓\                              | PVR: ↑/↓\                         |
++---------------+----------------------------------------+-----------------------------------+
+| Disadvantages | * ↑ Myocardial O~2~ consumption        | * ↓ BP                            |
+|               | * Type B lactataemia                   | * Arrhythmogenic                  |
+|               | * Arrhythmogenic                       | * ↑ Myocardial O~2~ consumption   |
+|               | * MAO-I                                | * MAO-I                           |
+|               |                                        | * Sulfite allergy                 |
++---------------+----------------------------------------+-----------------------------------+
 
 
 : Comparison of Inodilators
 
-+------------------+----------------------------------+--------------------------------------------------------------------------------+
-| Drug             | Milrinone                        | Levosimendan                                                                   |
-+==================+==================================+================================================================================+
-| Overview         |                                  | Calcium sensitiser that ↑ myocardial contraction with minimal ↑ in O~2~ demand |
-|                  |                                  |                                                                                |
-+------------------+----------------------------------+--------------------------------------------------------------------------------+
-| Dosing           | 0-0.5µg/kg/min                   | 12.5mg over 24 hours                                                           |
-+------------------+----------------------------------+--------------------------------------------------------------------------------+
-| Relative Actions | * ↑ Inotropy                     | * ↑ Inotropy                                                                   |
-|                  | * ↓ SVR                          | * ↓ SVR                                                                        |
-|                  |                                  | * Long duration of action\                                                     |
-|                  |                                  | Long half-life:                                                                |
-|                  |                                  |     * Persistent improvement in myocardial performance                         |
-|                  |                                  |     * Non-titrateable                                                          |
-|                  |                                  |     * Persistent vasodilation which may require compensatory pressors          |
-|                  |                                  |     * Can be re-dosed after ~1 week if desired                                 |
-+------------------+----------------------------------+--------------------------------------------------------------------------------+
-| Disadvantages    | * ↑ Arrhythmia                   | * ↓ SVR                                                                        |
-|                  | * ↓ SVR                          | * Expensive                                                                    |
-|                  | * Requires loading               |                                                                                |
-|                  | * Longer t~1/2~ ↓ titrateability |                                                                                |
-|                  | * Renally cleared                |                                                                                |
-+------------------+----------------------------------+--------------------------------------------------------------------------------+
++---------------+--------------------------------------------------------------------------------+--------------------------------------------------------------------------------+
+| Drug          | Milrinone                                                                      | Levosimendan                                                                   |
++===============+================================================================================+================================================================================+
+| Overview      | Phosphodiesterase 3 inhibitor                                                  | Calcium sensitiser that ↑ myocardial contraction with minimal ↑ in O~2~ demand |
+|               |                                                                                |                                                                                |
++---------------+--------------------------------------------------------------------------------+--------------------------------------------------------------------------------+
+| Dosing        | 0-0.75µg/kg/min                                                                | 12.5mg over 24 hours                                                           |
++---------------+--------------------------------------------------------------------------------+--------------------------------------------------------------------------------+
+| Haemodynamics | Contractility: ↑\                                                              | Contractility: ↑\                                                              |
+|               | HR: ↑\                                                                         | HR: ↑\                                                                         |
+|               | SVR: ↓\                                                                        | SVR: ↓\                                                                        |
+|               | PVR: ↓↓\                                                                       | PVR:                                                                           |
+|               | Theoretically greater effect on PVR than SVR; may be beneficial in RV disease. |                                                                                |
++---------------+--------------------------------------------------------------------------------+--------------------------------------------------------------------------------+
+| Disadvantages | * ↑ Arrhythmia                                                                 | * ↓ SVR                                                                        |
+|               | * ↓ BP\                                                                        | * Expensive                                                                    |
+|               | Often requires combination with noradrenaline.                                 | * Fixed-rate infusion\                                                         |
+|               | * Longer t~1/2~ ↓ titrateability                                               | Not appropriate in acute disease.                                              |
+|               | * Requires loading                                                             | * Long duration of action\                                                     |
+|               | * Renally cleared                                                              | Long half-life:                                                                |
+|               | * Arrhythmogenic\                                                              |     * Persistent improvement in myocardial performance                         |
+|               | Probably equal to dobutamine.                                                  |     * Non-titrateable                                                          |
+|               |                                                                                |     * Persistent vasodilation which may require compensatory pressors          |
+|               |                                                                                |     * Can be re-dosed after ~1 week if desired                                 |
++---------------+--------------------------------------------------------------------------------+--------------------------------------------------------------------------------+
 
 
 ## Practice
@@ -106,5 +113,6 @@ Regular clinical assessment.
 
 ## References
 
+1. Heidenreich PA, Bozkurt B, Aguilar D, Allen LA, Byun JJ, Colvin MM, et al. [2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines](https://www.ahajournals.org/doi/10.1161/CIR.0000000000001063). Circulation. 2022 May 3;145(18):e895–1032.
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
 1. Mathew R, Di Santo P, Jung RG, et al. [Milrinone as Compared with Dobutamine in the Treatment of Cardiogenic Shock](https://www.nejm.org/doi/full/10.1056/NEJMoa2026845). New England Journal of Medicine. 2021;385(6):516-525.

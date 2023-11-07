@@ -665,13 +665,13 @@ book:
         chapters:
         - part: "Failure"
           chapters:
-          - disease/cvs/failure.qmd
           - disease/cvs/shock.qmd
+          - disease/cvs/failure.qmd
           - disease/cvs/rv.qmd
         - part: "Myocardial"
           chapters:
           - disease/cvs/acs.qmd
-            # Myocarditis
+          - disease/cvs/myocarditis.qmd
             # Cardiomyopathies
           - disease/cvs/peripartum.qmd
           - disease/cvs/hocm.qmd

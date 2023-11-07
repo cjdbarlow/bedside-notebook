@@ -1,0 +1,196 @@
+# Myocarditis
+
+Infective or non-infective myocardial inflammation causing a variable degree of ventricular function, classified by:
+
+* **Acuity**
+	* Acute
+		* Rapid onset
+		* Irregular, polymorphic ventricular arrhythmias
+	* Chronic
+		* Slower onset
+		* Regular, monomorphic ventricular arrhythmias
+* **Histology**\
+Subtypes include:
+	* Giant-cell\
+	Highest risk for non-recovery.
+	* Lymphocytic
+	* Eosinophilic
+	* Sarcoid
+
+
+## Epidemiology and Risk Factors
+
+Incidence of 1-10/100,000, with the highest risk in:
+
+* 20-40 year olds
+* Males 
+
+## Pathophysiology
+
+### Aetiology
+
+Precipitants may be:
+
+* Infective
+	* Viral
+		* Adenovirus
+		* Enteroviruses
+			* Coxsackievirus
+		* Parvovirus B19
+		* CMV
+		* EBV
+		* HSV
+		* HIV
+		* Influenza
+		* COVID-19
+	* Bacterial
+		* *Corynebacterium diptheriae*
+		* *Borrelia burgdorferi*
+* Non-infective
+	* Autoimmune
+	* Sarcoidosis
+	* Drugs-induced
+		* Chemotherapy
+		* Immunotherapy
+		* Biological therapies
+		* Vaccination\
+		Generally mild and self-limiting.
+
+
+## Assessment
+
+Presentation may include with:
+
+* Chest pain
+* Heart failure
+	* Cardiogenic shock\
+	Fulminant myocarditis.
+	* New acute heart failure
+	* Worsening of chronic heart failure
+* Arrhythmias
+	* Typically 
+
+### History
+
+Key questions if this is the suspected diagnosis. Should also include elements relevant to key differentials.
+
+### Examination
+
+Key exam findings if this is the suspected diagnosis. Should also include elements relevant to key differentials.
+
+### Investigations
+
+**Bedside**:
+
+* Echocardiography
+
+**Laboratory**:
+
+* Blood
+	* FBE
+		* Eosinophil count
+	* Troponin\
+	Most sensitive biomarker.
+	* CK
+	* BNP
+* **Endomyocardial biopsy**\
+Should be reserved for patients with suspected myocarditis and one of:
+	* Cardiogenic shock
+	* Mobitz II or greater AV block, without significant LV dilatation
+	* Ventricular arrhythmias, without significant LV dilatation
+	* Eosinophilia
+	* Systemic inflammatory disease
+	* Cardiac dysfunction with immune checkpoint inhibitor therapy
+
+**Imaging**:
+
+* Angiography
+* Cardiac MRI
+	* Highest sensitivity at 2-3 week mark
+	* Features may include:
+		* Early gadolinium enhancement suggestive of hyperaemia
+		* ↑ T2 signal suggesting oedema
+		* Late gadolinium enhancement suggesting necrosis or fibrosis\
+		Poor prognostic sign.
+
+**Other**:
+
+
+### Diagnostic Approach and DDx
+
+
+## Management
+
+:::priority
+* **Manage** cardiac **failure**\
+Anti-failure therapy if haemodynamically stable, otherwise consider inotropic and mechanical support.
+* **Manage arrhythmias**
+* Consider **immunosuppression**
+* **Prevent further** myocardial **injury**
+	* Biventricular **unloading**
+	* Maintain **coronary perfusion**
+* Consider durable **mechanical support** or **transplant**\
+:::
+
+:::column-margin
+Heart failure management is covered under @sec-hf_mx.
+:::
+
+**Resuscitation**:
+
+* C
+	* Arrhythmia
+		* Pacing
+
+**Specific therapy**:
+
+* Pharmacological
+	* Immunosuppression\
+		* Indicated for eosinophilic myocarditis, giant-cell myocarditis, cardiac sarcoidosis, or underlying autoimmune disease
+		* Limited evidence
+		* Regimens include:
+			* Prednisone
+			* Azathioprine
+* Procedural
+	* Durable mechanical support or transplant\
+	Should be considered if temporary mechanical support is still required after 14-21 days.
+	* Permanent PPM/ICD\
+	Should be deferred 3-6 months following acute event.
+* Physical
+
+:::column-margin
+No specific therapies are available for lymphocytic myocarditis.
+:::
+
+**Supportive care**:
+
+**Disposition**:
+
+* Limit physical activity in 3-6 months following acute illness
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+↑ Risk of death or transplantation with:
+
+* Poorer LVEF
+* Cardiogenic shock
+* ↑ Degree of AV nodal blockade
+* Ventricular arrhythmias
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Basso C. [Myocarditis](https://www.nejm.org/doi/full/10.1056/NEJMra2114478). New England Journal of Medicine. 2022 Oct 20;387(16):1488–500. 

@@ -1,8 +1,10 @@
 ---
+A2RB: Angiotensin II Receptor Blocker
 ABG: Arterial Blood Gas
 ABW: Adjusted Body Weight
 AC: Alternating Current or Assist Control
 ACA: Anterior Cerebral Artery
+ACEi: Angiotensin Converting Enzyme inhibitor
 ACLF: Acute-on-Chronic Liver Failure
 ACh: Acetylcholine
 AChE: Acetylcholinesterase
@@ -23,6 +25,7 @@ APML: Acute Promyelocytic Leukaemia
 APS: Anti-Phospholipid Syndrome
 AR: Aortic Regurgitation
 ARAS: Ascending Reticular Activating System
+ARNi: Angiotensin Receptor and Neprilysin inhibitor
 AS: Aortic Stenosis
 ASD: Atrial Septal Defect
 ATC: Automatic Tube Compensation
@@ -127,6 +130,10 @@ Hb: Haemoglobin
 HCM: Hypertrophic Cardiomyopathy
 HEPA: High-Efficiency Particulate Arrestance
 HFTM: High-Flow Trachestomy Mask
+HFimpEF: Heart Failure with Improved Ejection Fraction
+HFmrEF: Heart Failure with Moderately Reduced Ejection Fraction
+HFpEF: Heart Failure with Preserved Ejection Fraction
+HFrEF: Heart Failure with Reduced Ejection Fraction
 HHS: Hyperosmolar Hyperglycaemic Syndrome
 HIV: Human Immunodeficiency Virus
 HIT: Heparin Induced Thrombocytopaenia
@@ -182,6 +189,7 @@ MAB: Monocloncal Antibody
 MAC: Minimum Alveolar Concentration
 MAHA: Microangiopathic Haemolytic Anaemia
 MALT: Mucosa-Associated Lymphoid Tissue
+MAO-I: Monoamine Oxidase Inhibitor
 MAP: Mean Arterial Pressure
 MCA: Middle Cerebral Artery
 MCH: Mean Corpuscular Haemoglobin

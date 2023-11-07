@@ -1,18 +1,69 @@
-# Cardiac Failure
+# Cardiac Failure {#sec-hf}
 
+Range of syndromes characterised by **impediment to ventricular filling or ejection** due to structural or functional myocardial disease, classified by:
 
-Broad range of syndromes describing the impediment to ventricular filling or ejection due to structural or functional myocardial disease. Cardiac failure is usually classified by time course into:
+:::column-margin
+Stage C and D disease are also staged by function, using either the NYHA or INTERMACS grade.
+:::
 
-* Acute\
-Subclassified by congestion and perfusion
-* Chronic\
-Significantly improved outcomes with medical therapy. Subclassified by EF into:
-	* Heart failure with preserved ejection fraction (> 50%)
-	* Heart failure with reduced ejection fraction (< 40%)
-	* (An EF of 40-49% is typically called a mid-range EF)
+* **Clinical** and **functional stage**\
+Based on clinical features and used to guide tiers of therapy:
+	* Stage A: At-risk\
+	Asymptomatic, with risk factors.
+	* Stage B: Pre-heart failure\
+	Asymptomatic, with structural heart disease.
+	* Stage C: Heart failure\
+	Currently or previous clinical heart failure.
+	* Stage D: Advanced heart failure\
+	Severe clinical failure despite medical therapy, requiring advanced therapies or palliative care.
+* **Ejection Fraction**\
+Important for prognostication and determining likelihood of response to clinical therapy. Divided into:
+	* HFpEF (EF >50%)\
+	Normal EF with evidence of spontaneous or provokable ↑ filling pressures, e.g:
+		* ↑ BNP
+		* Echocardiographic ↑ filling pressure
+		* Invasively ↑ filling pressure
+	* HFmrEF (EF 41-49%)\
+	Generally on a dynamic trajectory to either improvement to HFpEF or decline to HFrEF.
+	* HFrEF (<40%)\
+	Echocardiographically ↓ ejection fraction.
+		* HFimpEF defines a subgroup of HFrEF where EF has improved to >50% with medical therapy
 
-Classifications include both functional scores (NYHA) or disease progression (ACC/AHA):
+: Functional Staging of Heart Failure
 
++---------+-----------+-------------------------------------------------+
+| NYHA    | INTERMACS | Capacity                                        |
++=========+===========+=================================================+
+| **I**   |           | Asymptomatic, with no physical limitations.\    |
++---------+-----------+-------------------------------------------------+
+| **II**  |           | Comfortable at rest.\                           |
+|         |           | Slight symptoms with ordinary activity.         |
++---------+-----------+-------------------------------------------------+
+| **III** | **7**     | Comfortable at rest.\                           |
+|         |           | Symptomatic with less than ordinary activity.   |
++---------+-----------+-------------------------------------------------+
+| **IV**  | **6**     | Symptomatic at rest.\                           |
+|         |           |  Exertion limited by symptoms.                  |
++---------+-----------+-------------------------------------------------+
+|         | **5**     | Exertion intolerant.                            |
++---------+-----------+-------------------------------------------------+
+|         | **4**     | Symptomatic at rest on oral therapy.            |
++---------+-----------+-------------------------------------------------+
+|         | **3**     | Stable on inotropes.                            |
++---------+-----------+-------------------------------------------------+
+|         | **2**     | Progressive decline on inotropes.               |
++---------+-----------+-------------------------------------------------+
+|         | **1**     | Critical cardiogenic shock.                     |
++---------+-----------+-------------------------------------------------+
+| Notes:  | * Functional staging is used for stage C or D heart failure |
+|         | * INTERMACS staging may receive modifiers for requiring:    |
+|         |     * Temporary circulatory support\                        |
+|         |     For INTERMACS 1-3.                                      |
+|         |     * Arrhythmia                                            |
+|         |     For all grades.                                         |
+|         |     * Frequent flyer                                        |
+|         |     For INTERMACS 3-6.                                      |
++---------+-------------------------------------------------------------+
 
 
 ## Epidemiology and Risk Factors
@@ -23,6 +74,7 @@ Classifications include both functional scores (NYHA) or disease progression (AC
 * Lifetime risk of disease is ~20%
 * Annual mortality is 6-7% in patients with stable heart failure
 	* ↑ to 25%/year in hospitalised patients
+
 
 ## Pathophysiology
 
@@ -55,58 +107,95 @@ Precipitating causes:
 	* Beta-blockade
 	* Calcium antagonists
 	* Cocaine
-* Iatrogenic
-	* IV fluids
+* Other
+	* Peripartum
+	* Autoimmune
+	* Sarcoidosis
+	* Iron overload
 
-## Clinical Manifestations
+
+## Assessment
+
+: Features of Cardiac Failure by Stage
+
++-------+----------------------------------------------------------------------------------------+--------------------------+
+| Stage | Features                                                                               | Caveats                  |
++=======+========================================================================================+==========================+
+| A     | Risk factors:                                                                          | * Asymptomatic           |
+|       |                                                                                        |                          |
+|       | * HTN                                                                                  |                          |
+|       | * DM                                                                                   |                          |
+|       | * Obesity                                                                              |                          |
+|       | * Diabetes                                                                             |                          |
+|       | * Cardiotoxic agent exposure                                                           |                          |
+|       | * Family history                                                                       |                          |
+|       | * Genetic cardiomyopathy                                                               |                          |
++-------+----------------------------------------------------------------------------------------+--------------------------+
+| B     | Evidence of:                                                                           | * Asymptomatic           |
+|       |                                                                                        | * No competing diagnosis |
+|       | * Structural heart disease                                                             |                          |
+|       |     * ↓ LVEF or RVEF                                                                   |                          |
+|       |     * LVH                                                                              |                          |
+|       |     * LV dilation                                                                      |                          |
+|       |     * RWMA                                                                             |                          |
+|       |     * Valvular heart disease                                                           |                          |
+|       | * ↑ Filling pressures                                                                  |                          |
+|       |     * Echocardiography                                                                 |                          |
+|       |     * Invasive measurement                                                             |                          |
+|       | * Persistent troponin elevation                                                        |                          |
+|       | * ↑ BNP                                                                                |                          |
++-------+----------------------------------------------------------------------------------------+--------------------------+
+| C     | Features of heart failure                                                              |                          |
++-------+----------------------------------------------------------------------------------------+--------------------------+
+| D     | Marked features that interfere with daily life and result in recurrent hospitalisation |                          |
++-------+----------------------------------------------------------------------------------------+--------------------------+
+
+
+### History
+
+Symptoms of heart failure:
 
 * Dyspnoea\
-	* Pulmonary oedema/Crepitations\
+May be secondary to:
+	* Pulmonary oedema\
 	Pulmonary congestion due to raised LAP. Moderately sensitive but poorly specific.
 	* Pleural effusion\
 	Fluid retention and elevated LAP/RAP. Classically bilateral, due to pulmonary congestion.
-
 * Orthopnoea\
 ↑ VR and pulmonary congestion in supine position.
 	* More specific than dyspnoea, but insensitive
 * PND\
 As orthopnoea, but with additional respiratory depression.
-
-
 * Palpitations\
-Tachyarrythmias and reduced exercise tolerance.
+Tachyarrhythmias and reduced exercise tolerance.
+* Early satiety\
+Fluid retention.
+* Anorexia\
+Fluid retention.
+* Fatigue\
+Reduced skeletal muscle perfusion.
 
 
+### Examination
 
+* Cachexia\
+Intestinal congestion, chronic inflammatory pathway activation.
+* Crepitations\
+Secondary to pulmonary oedema.
+* Elevated JVP\
+↑ RAP.
+* Displaced apex beat\
+LV dilatation.
 * Hepatomegaly\
 ↑ RAP.
 * Hepatojugular reflex\
 ↑ RAP.
 * Ascites\
 Fluid retention.
-* Cachexia\
-Intestinal congestion, chronic inflammatory pathway activation.
-* Early satiety\
-Fluid retention.
-* Anorexia\
-Fluid retention.
-
-* Fatigue\
-Reduced skeletal muscle perfusion.
-
-
-Examination:
-
 * Oedema\
 Fluid retention and elevated filling pressures.
 	* Insensitive\
 	Many elderly patients have oedema due to immobility.
-* Elevated JVP\
-↑ RAP.
-* Displaced apex beat\
-LV dilatation.
-* Crepitations\
-Highly specific.
 
 
 
@@ -114,31 +203,304 @@ Highly specific.
 
 ## Investigations
 
-Blood:
+**Bedside**:
 
-* Troponin
-* BNP\
-Released in response to ↑ ventricular wall tension.
-	* <100pg/mL is 90% sensitive/70% specific for excluding failure
-* BT-proBNP\
-Prohormone of BNP. Similar results for cut off of 300.
-* S~cv~O~2~\
-VBG from IJ or SCV line; <70% suggests inadequate DO~2~.
+* Blood gas
+	* Lactate
+	* S~v~O~2~
+* Bedside echocardiogram
+	* Systolic function
+	* Filling state
+	* Structural disease
+* PAC\
+May be useful in:
+	* Cardiogenic shock
+	* Uncertain haemodynamic state\
+	i.e. Mixed shock.
 
-Radiology:
+:::column-margin
+Oxygen saturation of central or mixed venous blood indicates the degree of oxygen extraction and is one marker (with many caveats) of the adequacy of tissue perfusion and oxygen delivery.
+
+{{< include /includes/venous_o2.qmd >}}
+:::
+
+**Laboratory**:
+
+:::column-margin
+The level of an ↑ BNP and NT-proBNP both have prognostic significance.
+:::
+
+* Blood
+	* Troponin
+	* BNP\
+	Released in response to ↑ ventricular wall tension.
+		* <100pg/mL is 90% sensitive/70% specific for excluding failure
+		* Echocardiography indicated if >35pg/mL
+		* May be normal in HFmrEF or HFpEF
+	* NT-proBNP\
+	Prohormone of BNP.
+		* Similar sensitivity to BNP with cut-off of >300pg/mL300
+		* Echocardiography indicated if >125pg/mL
+	* Monoclonal light chains\
+	If concern for cardiac amyloidosis.
+* Urine
+	* Monoclonal light chains\
+	As blood.
+* Endomyocardial biopsy\
+Indicated if suspecting a particular diagnosis, e.g.
+	* Amyloidosis
+	* Infiltrative disease
+	* Acute rejection following transplant
+	* Rapid deterioration despite optimal medical therapy
+
+
+**Imaging**:
 
 * CXR
 	* Pulmonary oedema
+	* Venous congestion
 	* Cardiomegaly
+* Serial echocardiogram\
+Recommended for patients following a significant change in clinical status.
+* Cardiac MRI\
+Excellent anatomical characterisation. Useful in:
+	* Congenital heart disease
+	* Unsuccessful echocardiography
 
-## Management
+**Other**:
 
-The crux of heart failure management is acheiving balance between the competing goals of:
+* 6MWT\
+Distance correlates with VO~2~ and prognosis. Thresholds include:
+	* \>490m results in ↓ utility of the score\
+	Due to poorer correlation.
+	* <300m correlates with NYHA III/IV symptoms
+* CPET\
+VO~2~ <14mL/kg/min may indicate better survival with transplantation.
 
-* Ensuring adqeuate organ perfusion
-* Minimising myocardial work
+### Diagnostic Approach and DDx
 
-Choice of therapy depends on where the patient is on this spectrum. If this balance cannot be achieved with medical therapy, then **mechanical support** may be required.
+
+
+
+
+
+## Management {#sec-hf_mx}
+
+Effective heart failure management relies on achieving balance between the competing goals of ensuring adequate organ perfusion whilst minimising myocardial work. The choice of therapy depends on the degree of cardiopulmonary reserve of the patient, and so patients can be divided into:
+
+* **Haemodynamically stable**\
+Myocardial function adequate to meet demands. Anti-failure therapy aims to:
+	* ↓ Rate of functional decline
+	* Counteract maladaptive physiological processes
+* Haemodynamically marginal\
+Myocardial function barely adequate to meet demands, such that many elements of anti-failure therapy may need to be ceased or reduced due to intolerance.
+* **Haemodynamically unstable**\
+Myocardial function inadequate to meet demands; essentially on a cardiogenic shock spectrum. Therapy aims to:
+	* ↑ Organ perfusion with inotropes and diuresis, whilst preventing excess myocardial work\
+	If this balance cannot be achieved with medical therapy, then **mechanical support** may be required.
+
+
+### Haemodynamically Stable Disease
+
+:::priority
+* **Prevent** further **deterioration** by controlling risk factors
+* Determine the **ejection fraction**
+* Commence key **anti-failure therapies**
+* Consider **ICD** or CRT-D **if EF <35%**
+:::
+
+:::column-margin
+:::info
+This section is tailored towards management of stable heart failure in the critical care setting; lifestyle and risk factor modification is  underrepresented.
+:::
+:::
+
+
+**Specific therapy**:
+
+:::column-margin
+:::caution
+**Avoid β-blockade in** patients with **severely ↓ LVEF** to avoid precipitating cardiogenic shock.
+:::
+:::
+
+* Pharmacological
+	* Anti-failure therapy\
+	Indicated for HFrEF or HFimpEF, and consists of:
+		* **RAAS inhibition**\
+		↓ BP and maladaptive remodelling, ↓ mortality, hospitalisations, and progression. One of:
+			* ARNi\
+			Recommended in NYHA II/III disease. Contraindicated if:
+				* History of angioedema
+				* ACEi use in previous 36 hours
+			* ACEi
+			* A2RB\
+			If recent MI or intolerant to ACEi.
+		* **β-blockade**\
+		Improve symptoms and ↓ arrhythmia-related mortality. Use either:
+			* Bisoprolol
+			* Carvedilol
+			* Slow-release metoprolol
+	* **Diuresis**\
+	Goal is to relieve clinical evidence of congestion at the lowest possible dose.
+		* Diuretic therapy should be escalated in a stepwise fashion:
+			* Loop diuretic
+			* Thiazide\
+			May be added if:
+				* Hypertension
+				* Fluid retention refractory to loop diuretics
+		* **Exacerbations requiring** hospital **admission** generally require:
+			* **Doubling the usual daily dose**, and **administering IV**\
+			Results in a 4× effective furosemide dose.
+			* Addition of a thiazide
+	* **Aldosterone antagonists**\
+	↓ Mortality and morbidity, indicated for NYHA II-IV disease.
+		* Spironolactone 12.5-50mg PO OD
+			* Commence at 25mg if eGFR >50mL/min/1.73m^2^
+			* Double dose after 1 month
+		* Contraindications:
+			* eGFR >30mL/min/1.73m^2^
+			* K^+^ <5.0mmol/L\
+			Incidence of hyperkalaemia is rare.
+		* Requires regular review of potassium
+	* **Statin**\
+	Indicated with any history of ACS. ↓ Failure and further cardiovascular events.
+	* Additional therapies\
+	May be considered once the above therapies are instituted and doses have been optimised. Include:
+		* Digoxin\
+		NYHA II-III HFrEF; ↓ hospital admissions but not mortality.
+		* Ivabradine\
+		NYHA II-III HFrEF with LVEF <35% and in NSR >70bpm despite maximally tolerated dose of β-blocker.
+	* **GTN**\
+	Indicated for relief of dyspnoea (in addition to diuretics) in patients without hypotension.
+* Procedural
+	* **ICD**\
+	Indicated if LVEF <35% and estimated >1 year survival.
+	* **CRT-D**\
+	Combination resynchronisation therapy and ICD is indicated if an ICD is indicated and there is preserved sinus rhythm with a LBBB. Benefit is proportional to the QRS width.
+	* **CABG**\
+	Surgical revascularisation ↓ mortality hospital admission for patients with 3VD, left main (or equivalent) disease, and LVEF <35%. This benefit ↓ with ↑ age. 
+* Physical
+	* NIV\
+	CPAP is beneficial in APO, by improving oxygenation and ↓ LV afterload.
+
+:::column-margin
+The principles of HFpEF management are similar, although the evidence base supporting therapies are much weaker. In general, treatment should include:
+
+* RAAS inhibition
+* Aldosterone antagonist
+* Diuretic PRN
+::: 
+
+:::column-margin
+{{< include /includes/diuretic.qmd >}}
+:::
+
+:::column-margin
+Benefit from β-blockade does not appear to be a class effect - only a limited number of agents are shown to have benefit.
+:::
+
+:::column-margin
+{{< include /includes/beta_blocker_hf.qmd >}}
+:::
+
+:::column-margin
+GTN is particularly important with acute LV failure in the setting of **hyper**tension - rapid afterload reduction can quickly unload the LV, reverse APO, and stave off the requirement for intubation. Rapid IV administration is best performed with invasive pressure monitoring.
+:::
+
+
+**Supportive care**:
+
+* H
+	* VTE prophylaxis
+	* Correct iron deficiency
+
+**Disposition**:
+
+**Preventative**:
+
+* Risk factor modification
+	* OSA treatment
+	* Regular physical activity
+	* Healthy dietary patterns
+	* Smoking cessation
+* SGLT~2~ inhibitor\
+Generally contraindicated in the critical care setting.
+* Anti-failure therapy\
+↓ Readmission in chronic failure.
+
+
+### Haemodynamically Unstable Disease
+
+:::priority
+* **Revascularisation**\
+For acute MI.
+* **Inotropic support**\
+Use the lowest dose tolerated for the shortest amount of time possible.
+* Consider mechanical support\
+If adequate organ function is not maintained by inotropes.
+* Transplantation workup
+:::
+
+**Resuscitation**:
+
+* C
+	* Inotropic support
+		* Rotation may be required in long-term infusions to minimise tachyphylaxis
+		* ↑ Arrhythmia burden
+		* Appropriate for palliation and symptomatic relief
+		* Choice is guided by:
+			* Availability
+			* Blood pressure
+			* Arrhythmia burden
+
+
+**Specific therapy**:
+
+:::column-margin
+Inotropic support is covered in detail under @sec-inotropes.
+:::
+
+* Pharmacological
+* Procedural
+	* Revascularisation\
+	For acute MI.
+	* Durable LVAD\
+	Selected patients with INTERMACS 3 disease. May be used as:
+		* Destination therapy
+		* Bridge-to-transplant
+	* Heart transplantation
+	* Temporary mechanical circulatory support\
+	Temporary mechanical support may for patients in cardiogenic shock as:
+		* Bridge-to-decision\
+		Determine eligibility of transplant.
+		* Bridge-to-bridge\
+		Stabilise prior to durable VAD insertion.
+* Physical
+
+:::column-margin
+Temporary mechanical support may consist of ECMO, temporary LVAD, or temporary RVAD.
+:::
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+### Marginal and Ineffective Therapies
+
+* Non-dihydropyridine calcium channel blockers\
+Negative inotropic effects may be poorly tolerated compared to β-blockers.
+* Glitazones\
+↑ Rate of hospitalisations.
+* Fluid restriction\
+Unclear benefit: No change in hospitalisation or mortality. 
+
+
+## Anaesthetic Considerations
+
+
 
 ### Improving Organ Perfusion
 
@@ -157,6 +519,7 @@ Reduce with systemic vasodilators.
 * Rhythm\
 Restore sinus rhythm.
 		
+
 ### Reduce Myocardial Work
 
 * Afterload\
@@ -165,7 +528,7 @@ Reduce with systemic vasodilators.
 		* ACE-I
 * Contractility
 	* Negative inotropes\
-	Improvement in ventricular filling, coronary perfusionn, and myocardial oxygen demand.
+	Improvement in ventricular filling, coronary perfusion, and myocardial oxygen demand.
 * Preload	
 * Rate
 * Rhythm\
@@ -205,41 +568,39 @@ Correct:
 
 ## Complications
 
-Atrial Fibrillation:
+* C
+	* AF
+		* Present in ~30% of patients
+		* May be either a cause or consequence
+	* Malignant arrhythmias
+		* ↑ Risk with:
+			* Ischaemia
+			* Electrolyte abnormalities\
+			Hypo/hyperkalaemia, hypomagnesaemia.
+		* Psychotropic drugs
+		* Digoxin
+		* Antiarrhythmics
+* H
+	* Thromboembolism
 
-* Present in ~30% of patients\
-May be either a cause or consequence.
-
-
-Malignant arrhythmias:
-
-* ↑ risk with:
-	* Ischaemia
-	* Electrolyte abnormalities\
-	Hypo/hyperkalaemia, hypomagnesaemia.
-* Psychotropic drugs
-* Digoxin
-* Antiarrhythmics
-
-Thromboembolism:
 
 ## Prognosis
 
-Death:
+* Death
+	* High in symptomatic heart failure
+		* 20-30% one-year mortality in mild cases
+		* ⩾50% one-year mortality in severe heart failure
+	* Predictors of poor outcome include:
+		* High NYHA class
+		* Reduced LVEF
+		* Raised PCWP
+		* Third heart sound
+		* Reduced CI
+		* DM
+		* Hypernatraemia
+		* Elevated catecholamines
+		* Low predicted peak oxygen consumption with maximal exercise
 
-* High in symptomatic heart failure
-	* 20-30% one-year mortality in mild cases
-	* ⩾50% one-year mortality in severe heart failure
-* Predictors of poor outcome include:
-	* High NYHA class
-	* Reduced LVEF
-	* Raised PCWP
-	* Third heart sound
-	* Reduced CI
-	* DM
-	* Hypernatraemia
-	* Elevated catecholamines
-	* Low predicted peak oxygen consumption with maximal exercise
 
 ## Key Studies
 
@@ -248,6 +609,8 @@ Death:
 
 ## References
 
-
+1. Heidenreich PA, Bozkurt B, Aguilar D, Allen LA, Byun JJ, Colvin MM, et al. [2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines](https://www.ahajournals.org/doi/10.1161/CIR.0000000000001063). Circulation. 2022 May 3;145(18):e895–1032.
+1. Stevenson LW, Pagani FD, Young JB, Jessup M, Miller L, Kormos RL, et al. [INTERMACS Profiles of Advanced Heart Failure: The Current Picture. The Journal of Heart and Lung Transplantation](https://www.jhltonline.org/article/S1053-2498(09)00191-0/fulltext). 2009 Jun 1;28(6):535–41. 
 1. Metra M, Teerlink JR. Heart failure. Lancet. 2017;6736(17). doi:10.1016/S0140-6736(17)31071-1.
-2. ABC of heart failure: Clinical features and complications [Internet]. [cited 2019 Dec 9]. Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1117436/
+1. [ABC of heart failure: Clinical features and complications](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1117436/) [Internet]. [cited 2019 Dec 9].
+1. Bloos F, Reinhart K. Venous oximetry. Intensive Care Med. 2005 Jul 1;31(7):911–3. 

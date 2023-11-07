@@ -142,7 +142,7 @@ Structures for specific question formats:
 
 :::column-margin
 :::tick
-Complete the CICM Communication Course prior to the exam; the communication viva scenario generally mirrors the course scenarios; although breaking *catastrophic* news is unlikely.
+Complete the CICM Communication Course prior to the exam; the communication viva scenario generally mirrors the course scenarios.
 :::
 :::
 
@@ -151,75 +151,83 @@ Complete the CICM Communication Course prior to the exam; the communication viva
 The hot case is the only part of the exam that assesses a candidate at the bedside. Hot cases are:
 
 * Challenging
-* Artificial
+* Artificial\
+The scenario is clearly unrealistic - suspend your disbelief.
 * Incompletely correlated with clinical skill\
 Hot case performance does not equal clinical performance, however hot case practice ↑ hot case performance.
 * Routinely performed poorly
 	* 60-70% of candidates pass
 	* 30% of candidates pass both cases
-* Composed of several stages:
-	* **Clinical question**\
-	Brief stem with incomplete information, and a clinical question.
-	* **Reading time**\
-	2 minutes. Decide:
-		* What **potential clinical problems** may this patient have?
-		* What **part** of the **exam**ination should be **focus**ed on?
-		* Likely follow-up questions
-	* **Entrance**
-		* Lights
-		* Gel hands
-		* Introduce yourself:
-			* To the patient
-			* To the nurse
-		* Ask about relevant **position restrictions** and **languages barriers**
-	* **End-of-bed-o-gram**\
-	Stand at the foot of the bed and identify key room equipment.
-	* **Orbit**\
-	Circle the bed space to identify:
-		* Infusions
-			* Nutrition
-		* Monitor\
-		Ask for **fevers**.
-		* Ventilation\
-		Ask about:
-			* **Sputum**
-			* Ventilator settings, if unfamiliar
-		* Catheters and drains\
-		Ask for:
-			* **Urine output**
-			* Drain output
-	* **Clinical examination**\
-		* Begin with adequate exposure
-		* Structured approach
-		* Can ask key, targeted, relevant questions\
-		Must be balanced.
-			* Too many unnecessary or boilerplate questions suggest a lack of direction or thought
-			* Too few questions means key information may not be provided
-	* **Intermission**\
-	Brief period during which:
-		* PPE is doffed
-		* Hand hygiene occurs
-		* The clock is stopped
-		* You can collate your thoughts and prepare the presentation
-	* **Presentation**\
-	3-5 minute presentation that should be concise, comprehensive, and *rapidly* delivered. This should:
-		* Open with a **brief**, 1-2 sentence **introduction** that provides an overview of the clinical scenario
-		* **Answer the question**\
-		This should occur even if the answer is not clear - a precise answer will often be contingent on the availability and interpretation of ancillary information, which you do not have access to.
-		* Provide a **rationale** for the answer\
-		Signposted, systematic description of the justifications for that answer.
-		* Outline any **caveats**\
-		Signposted, systematic list of any concerns that may impact your decision, and how you plan to investigate them.
-		* Finish with a **list of relevant** positive and negative **findings from the** clinical **examination**
-	* **Further questioning**
+* Fundamentally a vibe check\
+This is a test of "are you ready to be left in charge of the unit." It is not a test of your ability to detect some arcane diagnosis.
+
+
+The case itself consists of several stages:
 
 :::column-margin
 The end-of-bed-o-gram and orbit provide the majority of useful clinical information, do not neglect them. Touching the patient is expected to occur at some point however, usually by the 2-3 minute mark.
 :::
 
 :::column-margin
-{{< include /includes/cytotoxic.qmd >}}
+My impression is that the most important stage of the hot case is the presentation - a good presentation can redeem a mediocre exam, but a good response to questioning can redeem neither.
 :::
+
+* **Clinical question**\
+Brief stem with incomplete information, and a clinical question.
+* **Reading time**\
+2 minutes. Decide:
+	* What **potential clinical problems** may this patient have?
+	* What **part** of the **exam**ination should be **focus**ed on?
+	* Likely follow-up questions
+* **Entrance**
+	* Lights
+	* Gel hands
+	* Introduce yourself:
+		* To the patient
+		* To the nurse
+	* Ask about relevant **position restrictions** and **languages barriers**
+* **End-of-bed-o-gram**\
+Stand at the foot of the bed and identify key room equipment.
+* **Orbit**\
+Circle the bed space to identify:
+	* Infusions
+		* Nutrition
+	* Monitor\
+	Ask for **fevers**.
+	* Ventilation\
+	Ask about:
+		* **Sputum**
+		* Ventilator settings, if unfamiliar
+	* Catheters and drains\
+	Ask for:
+		* **Urine output**
+		* Drain output
+* **Clinical examination**\
+	* Begin with adequate exposure
+	* Structured approach
+	* Can ask key, targeted, relevant questions\
+	Must be balanced.
+		* Too many unnecessary or boilerplate questions suggest a lack of direction or thought
+		* Too few questions means key information may not be provided
+* **Intermission**\
+Brief period during which:
+	* PPE is doffed
+	* Hand hygiene occurs
+	* The clock is stopped
+	* You can collate your thoughts and prepare the presentation
+* **Presentation**\
+3-5 minute presentation that should be concise, comprehensive, and *rapidly* delivered. This should:
+	* Open with a **brief**, 1-2 sentence **introduction** that provides an overview of the clinical scenario\
+	This is your opportunity to demonstrate that you have identified the major issues.
+	* **Answer the question**\
+	This should occur even if the answer is not clear - a precise answer will often be contingent on the availability and interpretation of ancillary information, which you do not have access to.
+	* Provide a **rationale** for the answer\
+	Signposted, systematic description of the justifications for that answer.
+	* Outline any **caveats**\
+	Signposted, systematic list of any concerns that may impact your decision, and how you plan to investigate them.
+	* Finish with a **list of relevant** positive and negative **findings from the** clinical **examination**
+* **Further questioning**
+
 
 :::column-margin
 ```{mermaid}

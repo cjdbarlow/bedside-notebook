@@ -16,7 +16,7 @@ Mechanical obstruction to flow of blood due to compression of:
 	* Great veins, impeding venous return
 	* Cardiac chambers
 * **Cardiogenic**\
-Loss of pump function.
+Loss of pump function, leading to inadequate cardiac output.
 * **Distributive**\
 Loss of vascular autoregulation, leading to inappropriate allocation of cardiac output.
 * **Dissociative**\
@@ -25,6 +25,10 @@ Loss of oxygen carrying capacity due to:
 	* CO toxicity
 	* Methaemoglobinaemia
 	* CN toxicity
+
+:::column-margin
+Cardiogenic shock is a point at the far end of the heart failure spectrum. This section provides an approach to shock in general; the specifics of heart failure management, including acute heart failure, are covered in detail under @sec-hf.
+::: 
 
 ## Epidemiology and Risk Factors
 

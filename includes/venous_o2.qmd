@@ -1,0 +1,9 @@
+: Interpretation of Venous Oxygen Saturation
+
+| S~mv~O~2~ | Interpretation                                                                                                          |
+| --------- | ----------------------------------------------------------------------------------------------------------------------- |
+| \>75%     | Normal                                                                                                                  |
+| 50-75%    | ↑ VO~2~/↓ DO~2~                                                                                                         |
+| 30-50%    | Exhaustion of extraction reserve                                                                                        |
+| <30%      | Significant anaerobic metabolism                                                                                        |
+| Notes     | S~cv~O~2~ is usually 2-3% lower than S~mv~O~2~ due to ↓ O~2~ extraction from the lower body, but will trend in parallel |
