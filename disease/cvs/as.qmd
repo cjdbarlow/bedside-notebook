@@ -1,24 +1,42 @@
 # Aortic Stenosis
 
+Aortic stenosis occurs when valvular disease impedes blood flow across the valve during ventricular systole. The aortic valve is normally 2.6-3.5cm^2^, and haemodynamically significant obstruction occurs when AVA approaches 1cm^2^. The degree of stenosis is classified based on echocardiographic findings, using either:
 
-Aortic stenosis occurs when valvular disease impedes blood flow across the valve during ventricular systole. The aortic valve is normally 2.6-3.5cm^2^, and haemodynamically significant obstruction occurs when AVA approaches 1cm^2^. AS is classified based on echocardiographic findings, using either:
-
-* Aortic valve pressure gradient/peak flow\
-Dependent upon flow across the valve, and so will **underpredict severity in failure states** because the failing LV cannot generate enough pressure to produce a high flow.
-	* Pressure gradients are calculated by measuring flow across the valve, using the **simplified Benoulli equation:** $$ \Delta P = 4v^2$$\
+* Aortic valve pressure gradient/peak flow
+	* Pressure gradients are calculated by measuring flow across the valve, using the **simplified Benoulli equation:** $\Delta P = 4v^2$
 	* Peak gradients are calculated from peak flow during ejection
 	* Mean gradients are calculated by the average flow (area under the doppler envelope) during ejection
 * Aortic valve area\
-Derived using DI and LVOT area, so is less accurate than direct measurements of flow.
+Derived using AV VTI, LVOT VTI, and LVOT area.
+* Dimensionless Index\
+Ratio of the LVOT VTI to the AV VTI, and therefore an area-independent measurement.
 
-|Technique|Mild|Moderate|Severe|
-|--|---|
-|Peak velocity (m/s)|2.6-2.9|3-4|>4|
-|Mean Pressure Gradient|<30|30-50|>50|
-|Aortic Valve Area|>1.5|1.5-1.0|<1.0|
-|Dimensionless Index|0.5-0.75|0.25-0.5|<0.25|
+: Grading of Aortic Stenosis
 
-^2^
+| Technique              | Mild     | Moderate | Severe |
+| ---------------------- | -------- | -------- | ------ |
+| Peak velocity (m/s)    | 2.6-2.9  | 3-4      | \>4    |
+| Mean Pressure Gradient | <30      | 30-50    | \>50   |
+| Aortic Valve Area      | \>1.5    | 1.5-1.0  | <1.0   |
+| Dimensionless Index    | 0.5-0.75 | 0.25-0.5 | <0.25  |
+
+:::column-margin
+Pressure gradients are dependent upon flow across the valve, and may **under-predict severity in failure states** because the failing LV cannot generate enough pressure to produce a high flow.
+
+**Low-flow, low-gradient AS** is:
+
+* Suggested by an impaired EF (<50%) and *discordance* between the MPG and AVA, i.e.:
+	* AVA <1cm^2^
+	* MPG <40mmHg
+* Divided into two types:
+	* True severe AS with impaired EF
+		* ↑ Gradient with dobutamine challenge
+		* Benefits from AVR
+	* Pseudo AS
+		* No change in gradient but ↑ in AVA with dobutamine challenge
+		* Does not benefit from AVR
+		* Benefits from medical management
+:::
 
 ## Epidemiology and Risk Factors
 
@@ -37,19 +55,19 @@ Risk factors include:
 
 In aortic stenosis:
 
+:::column-margin
+Fixed outflow tract obstructions with valvular AS or presence of a sub-aortic membrane. Dynamic outflow tract obstruction typically occurs with HOCM.
+:::
+
+* There is a constant degree of fixed outflow tract obstruction
 * LV responds to obstruction by undergoing hypertrophy\
 Allows pressure gradient across the valve to be maintained without:
 	* Reduction in SV
 	* Ventricular dilation
-
-
-* LVH leads to stiffening of the ventricle\
-Subsequent diastolic dysfunction.
+* LVH leads to impaired compliance and diastolic dysfunction\
 	* Hypertrophied ventricle more dependent on atrial kick
 * LVH ↑ oxygen requirements, whilst ↑ LV diastolic pressures reduce coronary blood flow and oxygen delivery\
 Susceptible to ischaemia, especially when CO is high, even in absence of coronary artery disease.
-
-
 * LA hypertrophy/dilation may occur to maintain filling
 
 
@@ -69,24 +87,30 @@ Most common congenital cardiac malformation.
 	Accounts for 50% of AVR performed for AS in those under 70.
 
 
-## Clinical Manifestations
+## Assessment
 
-> 50% of patients with severe AS do not report symptoms
+Aortic stenosis typically has:
 
-Symptoms:
+* A long symptom-free period\
+Low morbidity and mortality over this period.
+* Variable onset of symptoms, depending on aetiology and degree of degeneration
+	* Rheumatic: 40-50
+	* Congenitally bicuspid: 15-65
+	* Degenerative: 70-90
 
-* Include:
-	* Angina\
-	Due to mismatch between LV oxygen consumption and demand.
-	* Syncope\
-	Late and bad sign. Occurs due to inadequate cardiac output, and may be related to either:
-		* ↑ demand in the setting of a relatively fixed cardiac output
-		* Arrhythmia
-	* Dyspnoea\
-	Due to LV failure, and typically occurs in late disease (as it represents a failure of LV compensation.)
-* Do not correlate well with anatomical severity
 
-Signs:
+### History
+
+* Angina\
+Due to mismatch between LV oxygen consumption and demand.
+* Syncope\
+Late and bad sign. Occurs due to inadequate cardiac output, and may be related to either:
+	* ↑ demand in the setting of a relatively fixed cardiac output
+	* Arrhythmia
+* Dyspnoea\
+Due to LV failure, and typically occurs in late disease (as it represents a failure of LV compensation.)
+
+### Examination
 
 * Slow rising, low volume pulse
 * Reduced SBP and pulse pressure
@@ -95,41 +119,99 @@ Signs:
 	* Radiates to carotids and to apex
 	* May disappear in LV failure as flow through the valve orifice ↓
 
+### Investigations
+
+**Bedside**:
+
+* Diagnostic TTE\
+Diagnostic and essential for risk stratification. Features include:
+	* Thickening
+	* Impaired mobility
+	* Congenital abnormalities
+	* Calcification of valve leaflets
+* ECG
+	* Normal in ~20%
+	* LAD
+	* LVH\
+	* AV block\
+	Secondary to AV nodal calcium infiltration (extending from the aortic annulus).
+
+**Laboratory**:
+
+**Imaging**:
+
+**Other**:
+
+* Dobutamine stress echo\
+Used in the setting with ↓ EF and apparent severe AS, to distinguish true AS from pseudo-AS.
+	* Addition of inotrope improves LV function
+	* If the AVA is low solely due to poor LV function, then the improved VTI (with inotrope) ↑ AVA and the MPG remains similar
+	* If the AVA is low due to true stenosis, then the AVA does not improve (the valve is stenosed), and the MPG ↑ substantially
 
 
-## Diagnostic Approach and DDx
-
-## Investigations
-
-ECG:
-
-* Normal in ~20%
-* LAD
-* LVH\
-* AV block\
-Secondary to AV nodal calcium infiltration (extending from the aortic annulus).
+### Diagnostic Approach and DDx
 
 
-Echocardiography:
-
-* 2D exam\
-Identifies thickening, impaired mobility, congenital abnormalities, and calcification of valve leaflets.
 
 ## Management
 
-> Asymptomatic patients should be monitored for progression of AS or deteriorating LV function that would indicate requirement for AVR
+:::priority
+:::
+
+:::column-margin
+**Asymptomatic patients** should be monitored for progression of AS or deteriorating LV function that would indicate requirement for AVR.
+:::
+
+**Resuscitation**:
+
+**Specific therapy**:
+
+* Pharmacological
+* Procedural
+	* Surgical AVR
+	* TAVI
+	* BAV\
+	Reserved for patients too high risk for surgery and inappropriate for TAVI. Results in regurgitation and risk of early restenosis.
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
 
 ### Anaesthetic Considerations
+
+:::caution
+Assume a hypertrophied and non-compliant ventricle.
+:::
+
+:::column-margin
+In mixed valvular disease, management should prioritise the most haemodynamically significant lesion. That said, in general:
+
+{{< include /includes/as_mr.qmd >}}
+{{< include /includes/as_ms.qmd >}}
+{{< include /includes/as_mr.qmd >}}
+:::
 
 * C
 	* Lesion assessment\
 	Preoperative TTE ideal to evaluate degree of stenosis and LV function.
 		* If unable to evaluate preoperatively, treat as if patient has at least moderate severity disease
 		* Impairment can be estimated by knowing that valve area reduces by ~0.1cm^2^/year
-	* **Defend perfusion pressure**\
-		* Vasopressor infusions with aggressive use of boluses
-		* Use neuraxial techniques with caution
 	* Invasive arterial monitoring
+	* **Defend**:
+		* **Preload**\
+		Poor ventricular compliance requires filling, therefore aim:
+			* Sinus rhythm\
+			Aggressively manage tachyarrhythmias.
+			* Low-normal (50-70) **heart rate**\
+			Adequate time for ventricular filling.
+			* Euvolaemia
+		* **Perfusion pressure**\
+			* Vasopressor infusions with aggressive use of boluses to maintain afterload
+			* Use neuraxial techniques with caution
 
 
 ### Marginal and Ineffective Therapies

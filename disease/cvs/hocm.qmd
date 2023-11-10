@@ -1,6 +1,5 @@
 # Hypertrophic Cardiomyopathy
 
-
 Clinically diverse disease consisting of variable LV hypertrophy. May lead to:
 
 * **Dynamic LVOT obstruction**\
@@ -35,11 +34,13 @@ LVOT obstruction occurs dynamically during systole:
 	* ↑ contractility
 	* High CO states
 
+
 ### Aetiology
 
 Autosomal dominant disease with a large number of potential gene mutations on many different chromosomes.
 
-## Clinical Manifestations
+
+## Assessment
 
 Presentation may be:
 
@@ -85,18 +86,23 @@ Procedural:
 ### Anaesthetic Considerations
 
 * C
+	* Often β-blockade or calcium-channel blockade pre-operatively
+	* Often have AICD
 	* Arterial line
 	* 5-lead ECG
 	* Dynamic LVOT obstruction\
 		* Maintain sinus rhythm\
 		Aggressive treatment of arrhythmia.
 		* Low-normal heart rate
-		* Maintain or ↑ preload
+		* Maintain or ↑ preload\
+		Maintain cavity size.
 		* Maintain or ↑ afterload\
 			* Vasopressors
 			* Prepare for anaesthetic vasodilation
 		* ↓ Inotropy\
 		Volatile is excellent choice.
+
+
 
 ### Marginal and Ineffective Therapies
 

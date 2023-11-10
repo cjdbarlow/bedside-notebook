@@ -1,6 +1,5 @@
 # Mitral Regurgitation
 
-
 Mitral regurgitation is classified in two ways:
 
 * Aetiology
@@ -17,17 +16,63 @@ Mitral regurgitation is classified in two ways:
 
 MR classification is complex, and is based on echocardiographic findings:
 
-|Measurement|Mild|Moderate|Severe|
-|--|--|--|
-|Regurgitant fraction|<30%|30-49%|>50%
-|Regurgitant volume|<30ml/beat|30-60ml/beat|>60ml/beat|
-|Effective Regurgitant Orifice Area|⩽0.2cm^2^|0.2-0.39cm^2^|>0.4cm^2^|
+: Grading of Mitral Regurgitation
+
+| Measurement                        | Mild       | Moderate      | Severe      |
+| ---------------------------------- | ---------- | ------------- | ----------- |
+| Regurgitant fraction               | <30%       | 30-49%        | \>50%       |
+| Regurgitant volume                 | <30ml/beat | 30-60mL/beat  | \>60mL/beat |
+| Effective Regurgitant Orifice Area | ⩽0.2cm^2^  | 0.2-0.39cm^2^ | \>0.4cm^2^  |
 
 ## Epidemiology and Risk Factors
 
 ## Pathophysiology
 
+Acute MR:
+
+* Sudden regurgitation leads to acute LV volume overload\
+Results in:
+	* ↑ LVEDP
+	* Rapid LA dilation and ↑ in LAP
+	* Pulmonary hypertension
+	* Acute pulmonary oedema
+	* RV failure
+	* Sympathetic stimulation
+		* Tachycardia
+		* ↑ LV contractility
+
+
+Progressive regurgitation leads to:
+
+* Volume overload
+* Progressive chamber dilatation\
+Initially well-compensated with preserved systolic function.
+	* ↑ LVEDV with normal LVEDP
+* Eccentric hypertrophy
+* Eventual decompensation when dilation and hypertrophy can no longer maintain forward SV
+	* ↑ PAP
+	* Pulmonary congestion
+	* RV failure
+
+
 ### Aetiology
+
+Causes include:
+
+* Acute
+	* Chordae rupture
+		* Myxomatous disease
+		* Chest trauma
+		* Acute rheumatic fever
+	* Ischaemia
+		* Papillary muscle rupture
+	* Infective endocarditis
+* Chronic
+	* MV leaflet abnormalities
+	* Annular dilatation\
+	LV dilation.
+	* Rheumatic heart disease
+
 
 ## Clinical Manifestations
 
@@ -56,6 +101,8 @@ Medical management of **acute MR** involves:
 * Reducing afterload
 	* Vasodilators
 	* IABP
+* Preservation of forward flow\
+Maintain normal or high-normal heart rate, sinus rhythm.
 
 Medical management of **chronic MR** involves treating cardiac failure, and cardioversion if required.
 
@@ -78,10 +125,16 @@ E.g. ruptured papillary muscle.
 	* Aim high-normal heart rate (80-100)\
 	Reduces diastolic regurgitant fine.
 	* Afterload reduction\
-	Reduces regurgitatn fraction.
+	Reduces regurgitant fraction. Particularly important around intubation.
 	* Inotropes
 
+:::column-margin
+In mixed valvular disease, management should prioritise the most haemodynamically significant lesion. That said, in general:
 
+{{< include /includes/as_mr.qmd >}}
+{{< include /includes/ar_mr.qmd >}}
+{{< include /includes/ms_mr.qmd >}}
+:::
 
 ### Marginal and Ineffective Therapies
 

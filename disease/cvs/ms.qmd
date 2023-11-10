@@ -1,6 +1,5 @@
 # Mitral Stenosis
 
-
 Mitral stenosis is:
 
 * Narrowing of the mitral valve orifice, leading to a fixed-cardiac output state with a pressure-overloaded (and typically subsequently volume-overloaded) left atrium\
@@ -17,11 +16,13 @@ Using either:
 	* Pressure half-time
 	* Valve area
 
-|Measurement|Mild|Moderate|Severe|
-|--|--|--|
-|MPG|<5mmHg|6-10mmHg|>10mmHg|
-|Pressure half-time|<139ms|140-219ms|>220ms|
-|Valve area|1.6-2.0cm^2^|1.5-1cm^2^|<1cm^2^|
+: Echocardiographic Grading of Mitral Stenosis
+
+| Measurement        | Mild         | Moderate   | Severe  |
+| ------------------ | ------------ | ---------- | ------- |
+| MPG                | <5mmHg       | 6-10mmHg   | >10mmHg |
+| Pressure half-time | <139ms       | 140-219ms  | >220ms  |
+| Valve area         | 1.6-2.0cm^2^ | 1.5-1cm^2^ | <1cm^2^ |
 
 
 ## Epidemiology and Risk Factors
@@ -36,26 +37,31 @@ Leads to early presentation with symptoms due to ↑ cardiovascular work and cir
 
 ## Pathophysiology
 
-* ↑ pressure gradient across the mitral valve\
+* ↑ Pressure gradient across the mitral valve\
 Flow across mitral valve becomes the prime determinant of ventricular filling.
 	* This leads to a **fixed cardiac output** state because:
-		* ↓ afterload does not improve subsequent ventricular filling
-		* ↑ contractility cannot improve output if the ventricle is not adequately filled prior to contraction
+		* ↓ Afterload does not improve subsequent ventricular filling
+		* ↑ Contractility cannot improve output if the ventricle is not adequately filled prior to contraction
+* High LAP and PCWP
+	* Development of class II pulmonary hypertension
+	* Consequential RV dilation and RV failure
+* Low LVEDV and LVEDP
+	* Typically results in LV remodelling and ↓ systolic function
 
 ### Aetiology
 
 Causes include:
 
-* **MS**\
+* Rheumatic
 Most common cause.
 	* Rarer aetiology in developed countries
 	* Typically worsens at the rate of 0.1-0.3cm^2^/year\
 	More rapid in cases of repeated infection.
 
 
-## Clinical Manifestations
+## Assessment
 
-MS is typically well tolerated until LA dilation fails to compensate and pulmonary HTN ensures, leading to:
+MS is typically well tolerated and has a long asymptomatic period that continues until LA dilation fails to compensate and pulmonary HTN ensures, leading to:
 
 * Pulmonary oedema
 * Fatigue
@@ -71,31 +77,56 @@ MS is typically well tolerated until LA dilation fails to compensate and pulmona
 
 ## Management
 
-Medical management consists of managing complications:
+:::priority
+Goals of management
+:::
 
-* Rate control of AF
-	* β-blockers are mainstay of treatment
-* Diuresis and vasodilators (e.g. nitrates) for failure
+**Resuscitation**:
 
-Surgical management:
+**Specific therapy**:
 
-* Percutaneous mitral commissurotomy\
-Balloon dilation of mitral commissures, ↑ MV area.
-* MV repair
-* MV replacement
+* Pharmacological
+	* Rate control of AF
+		* β-blockers are mainstay of treatment
+	* Diuresis and vasodilators (e.g. nitrates) for failure
+* Procedural
+	* MVR
+	* Percutaneous mitral commissurotomy
+	* Balloon dilatation
+* Physical
+
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
 
 ### Anaesthetic Considerations
 
 * C
 	* Maintain sinus rhythm
-	* Maintain HR <70 to facilitate diastolic filling
-	* Maintain preload
+	* Low-normal HR to facilitate diastolic filling
+	* Maintain preload\
+	Delicate balance.
 		* Volume required due to diastolic dysfunction
 		* Excessive volume will worsen pulmonary oedema
 	* Maintain afterload\
 	As CO is fixed, reduced SVR will ↓ CPP.
 	* Prevent ↑ in PVR\
 	Right heart function may be tenuous in the setting of pre-existing PHTN.
+	* Systolic function often suppressed after replacement
+		* Highly sensitive to preload changes
+
+:::column-margin
+In mixed valvular disease, management should prioritise the most haemodynamically significant lesion. That said, in general:
+
+{{< include /includes/as_ms.qmd >}}
+{{< include /includes/ms_mr.qmd >}}
+:::
+
 
 ### ICU Considerations
 
@@ -104,6 +135,7 @@ Following MV repair or replacement:
 * Maintain preload due to existing diastolic dysfunction
 * Reduce afterload to improve forward flow
 * Right heart support may be required
+
 
 ## Complications
 
@@ -119,6 +151,11 @@ Due to prolonged period of pulmonary hypertension.
 
 
 ## Prognosis
+
+* Death\
+Following symptom development there is:
+	* 80% 1-year survival
+	* 15% 10-year survival
 
 
 ---

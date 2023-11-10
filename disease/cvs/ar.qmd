@@ -1,0 +1,122 @@
+# Aortic Regurgitation
+
+:::info
+Also known as aortic insufficiency.
+:::
+
+Aortic regurgitation 
+
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+Regurgitation may occur due to disease of the:
+
+* Valve
+	* Rheumatic
+	* Degenerative
+	* Bicuspid
+* Root\
+Resulting in annular dilation.
+	* Marfans
+	* Degenerative
+	* Syphilitic
+	* Dissection
+
+## Assessment
+
+Chronic regurgitation:
+
+* Usually has a long symptom free period
+* Significant dilatation and impairment leads to:
+	* Dyspnoea
+	* Palpitations
+	* Fatigue
+	* Angina
+
+Chronic regurgitation:
+
+* Typically leads to acute fulminant heart failure
+* Requires urgent intervention
+
+
+### History
+
+
+### Examination
+
+
+### Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+**Imaging**:
+
+**Other**:
+
+### Diagnostic Approach and DDx
+
+
+## Management
+
+:::priority
+Goals of management
+:::
+
+**Resuscitation**:
+
+**Specific therapy**:
+
+* Pharmacological
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+:::column-margin
+In mixed valvular disease, management should prioritise the most haemodynamically significant lesion. That said, in general:
+
+{{< include /includes/as_ar.qmd >}}
+{{< include /includes/ar_mr.qmd >}}
+:::
+
+* C
+	* Maintain preload
+	* Cautious use of venodilators
+	* High-normal heart rate to maintain forward flow
+	* Maintain inotropy
+	* Minimise afterload\
+	↓ Regurgitant fraction.
+	* IABP is contraindicated
+	* May be more difficult to wean from CPB
+		* Myocardial protection is more difficult to establish
+		* Coronary air embolism more likely
+
+
+## Complications
+
+## Prognosis
+
+* Death\
+5-10 year median life expectancy after symptom development.
+
+## Key Studies
+
+
+---
+
+## References

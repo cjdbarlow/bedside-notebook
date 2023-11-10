@@ -680,16 +680,15 @@ book:
           - disease/cvs/af.qmd
           - disease/cvs/flutter.qmd
           - disease/cvs/ectopy.qmd
-          # AF
           # TDP
           - disease/cvs/longqt.qmd
         - part: "Valvular"
           chapters:
           - disease/cvs/ie.qmd
           - disease/cvs/as.qmd
+          - disease/cvs/ar.qmd
           - disease/cvs/ms.qmd
           - disease/cvs/mr.qmd
-          # AI
           # PV
           # TV
         - part: "Pericardial"
