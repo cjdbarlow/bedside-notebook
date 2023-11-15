@@ -25,7 +25,7 @@ Risk factors:
 	* Thrombotic disorder
 		* Factor V Leiden
 		* Protein C/S deficiency
-		* Antiphosphlipid syndrome
+		* Antiphospholipid syndrome
 		* Previous DVT/PE
 	* Nephrotic syndrome
 	* Liver failure
@@ -46,7 +46,7 @@ Risk factors:
 
 ### Aetiology
 
-## Clinical Features
+## Assessment
 
 General features:
 
@@ -156,8 +156,15 @@ IVC filters are covered in detail under @sec-thromboprophylaxis.
 +---------------------+-------------+------------+
 | Proximal            | CVC         | 3 months   |
 +---------------------+-------------+------------+
+:::
 
-There is no need to remove a working CVC with associated thrombosis whilst it is present and it remains indicated.
+:::column-margin
+In catheter-associated DVT:
+
+* There is no need to remove a working CVC with associated thrombosis whilst it is present and it remains indicated
+* Anticoagulation should be considered whilst the catheter remains in place\
+↓ Clot propagation.
+* There is no distinction between occlusive and non-occlusive thrombi
 :::
 
 **Supportive care**:
