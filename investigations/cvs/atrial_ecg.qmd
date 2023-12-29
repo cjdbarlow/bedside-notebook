@@ -13,16 +13,17 @@ Single-lead ECG performed at the bedside and used to characterise the nature of 
 
 There are two described techniques, the exact method will vary depending on what equipment is available:
 
-1. Attach one atrial wire to the V~1~ terminal, and monitor lead V~1~
-2. Attach both atrial wires to the LA and RA terminal, and monitor lead I
-
 :::column-margin
-![Option 1](/resources/atrial_ecg_con1.jpg)
+![Option 1](/resources/atrial_ecg_con1.png)
 :::
 
 :::column-margin
 ![Option 2](/resources/atrial_ecg_con2.png)
 :::
+
+1. Attach one atrial wire to the V~1~ terminal, and monitor lead V~1~
+2. Attach both atrial wires to the LA and RA terminal, and monitor lead I
+
 
 ## Interpretation
 

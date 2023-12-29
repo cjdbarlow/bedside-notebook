@@ -987,7 +987,7 @@ book:
       # Oncology
       - part: "Malignant"
         chapters:
-        - part: "Systemic Effects"
+        - part: "Systemic"
           chapters:
           - disease/onc/tls.qmd
           - disease/onc/lymph_carcinomatosis.qmd
