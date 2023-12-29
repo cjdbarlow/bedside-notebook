@@ -63,6 +63,8 @@ Table editor:
 	* GvHD?
 	* Structure of the immunological section
 
+* Merge oncology with haematology?
+
 * Infection
 	* Sepsis under management or as a disease? Colocate with neutropaenic sepsis/febrile neutropaenia?
 	* Move system-specific infections to that system

@@ -562,6 +562,12 @@ book:
           - intensive/concepts/organ.qmd
           - intensive/concepts/paeds.qmd
           - intensive/concepts/design.qmd
+          # Culture
+          # Design and organisation
+          # Clinical information systems
+          # Team management
+          # Ward rounds
+          # Severity scoring and outcome prediction
         - part: "Supportive Care"
           chapters:
           - intensive/supportive/fasthugs.qmd
@@ -585,13 +591,14 @@ book:
           - intensive/surgical/pancreatic_tx.qmd
           # Post op thoracic
           # Post op neuro
-          # Transplants
+          # Post op major abdo
           # Post op endocrine
         # - part: "Medical"
         #   chapters:
             # Oncology
         - part: "Outreach"
           chapters:
+          # Patient Transport (move from anaesthetics)
           - intensive/outreach/rrs.qmd
         - part: "CICM"
           chapters:
@@ -618,6 +625,10 @@ book:
           - intensive/cicm/gender.qmd
           - intensive/cicm/sustainability.qmd
           - intensive/cicm/racism.qmd
+    # Palliative care
+      # Limitations of treatment
+      # End of life care
+      # Medical ethics
     - part: <hr>
     # Pathology
     - part: "Pathology"
@@ -636,12 +647,14 @@ book:
           # Tracheomalacia
           # Tracheal stenosis
           # Epiglottitis
+          # Croup
         - part: "Lower Airway"
           chapters:
           - disease/resp/asthma.qmd
           - disease/resp/coad.qmd 
           - disease/resp/bronchopleural.qmd
           # Bronchitis
+          # Bronchiolitis
         - part: "Parenchymal"
           chapters:
           - disease/infective/pneumonia.qmd
@@ -651,6 +664,7 @@ book:
           - disease/resp/ild.qmd
           - disease/resp/dah.qmd
           # Aspiration pneumonitis
+          # Lung cancer
         - part: "Pleural"
           chapters:
           - disease/resp/pthx.qmd
@@ -698,6 +712,7 @@ book:
         - part: "Systemic Vascular"
           chapters:
           # Acute aortic syndromes
+          # Hypertensive crises
           - disease/cvs/dissection.qmd
           - disease/cvs/aaa.qmd
           - disease/cvs/htn.qmd
@@ -744,6 +759,7 @@ book:
           - disease/neuro/pd.qmd
           - disease/neuro/pdph.qmd
           - disease/neuro/dementia.qmd
+          # Malignancy
         - part: "Cerebrovascular"
           chapters:
           - disease/neuro/stroke.qmd
@@ -817,6 +833,8 @@ book:
         #   chapters:
             # GN
             # Nephrotic syndrome
+            # Nephritic syndrome
+            # Malignancy
             # RTA
             # ATN
             # Interstitial nephritis
@@ -860,6 +878,7 @@ book:
             # Pseudoobstruction
             # Colitis
             # Peritonitis
+            # Malignancies
         # - part: "Immune"
         #   chapters:
               # IBD
@@ -948,6 +967,7 @@ book:
           - disease/infective/legionellosis.qmd
           - disease/infective/tb.qmd
           - disease/infective/leptospirosis.qmd
+          # Meliodosis
         - part: "Fungal"
           chapters:
           - disease/infective/primary_mycoses.qmd
@@ -957,6 +977,8 @@ book:
         - part: "Parasitic"
           chapters:
           - disease/infective/malaria.qmd
+          # Toxoplasmosis
+          # Cryptococcus
         - part: "Toxin"
           chapters:
           - disease/infective/tetanus.qmd
@@ -1074,6 +1096,9 @@ book:
         - disease/obs/pad.qmd
         - disease/obs/aph.qmd
         - disease/obs/pph.qmd
+        # Ovarian hyperstimulation
+        # Ectopic pregnancy
+        # Pregnancy related infections
     - part: <hr>
     # Investigations
     - part: "Investigations"
