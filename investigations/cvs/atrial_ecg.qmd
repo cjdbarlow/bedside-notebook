@@ -1,0 +1,39 @@
+# Atrial Electrocardiogram
+
+Single-lead ECG performed at the bedside and used to characterise the nature of a tachyarrhythmia when:
+
+* Presence or nature of atrial activity is uncertain
+* Atrial epicardial wires are present
+* The patient is not dependent on atrial pacing
+
+
+## Equipment
+
+## Technique
+
+There are two described techniques, the exact method will vary depending on what equipment is available:
+
+1. Attach one atrial wire to the V~1~ terminal, and monitor lead V~1~
+2. Attach both atrial wires to the LA and RA terminal, and monitor lead I
+
+:::column-margin
+![Option 1](/resources/atrial_ecg_con1.jpg)
+:::
+
+:::column-margin
+![Option 2](/resources/atrial_ecg_con2.png)
+:::
+
+## Interpretation
+
+Direct measurement of atrial electrical activity results in a significant increase in amplitude of any atrial activity, such that **the largest deflections in the monitored lead will be atrial**, assuming atrial activity is present.
+
+![Atrial ECG - Wenckebach](/resources/atrial_wencke.png)
+
+
+---
+
+## References
+
+1. Choxi R, Ellenbogen KA, Padala SK. [Show Me the P Wave: An Old Tool to Discern Atrioventricular Relationships](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.120.050260). Circulation. 2020 Oct 20;142(16):1596–8. 
+1. Waldo AL, MacLean WAH, Cooper TB, Kouchoukos NT, Karp RB. [Use of temporarily placed epicardial atrial wire electrodes for the diagnosis and treatment of cardiac arrhythmias following open-heart surgery](https://linkinghub.elsevier.com/retrieve/pii/S0022522319410799). The Journal of Thoracic and Cardiovascular Surgery. 1978 Oct;76(4):500–5. 

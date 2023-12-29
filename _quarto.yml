@@ -1121,6 +1121,9 @@ book:
       - part: "Urine"
         chapters:
         - investigations/urine/electrolytes.qmd
+      - part: "Cardiovascular"
+        chapters:
+        - investigations/cvs/atrial_ecg.qmd
       - part: "Neurological"
         chapters:        
         - investigations/eeg.qmd
