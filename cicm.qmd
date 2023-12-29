@@ -231,7 +231,6 @@ Brief period during which:
 
 :::column-margin
 ```{mermaid}
-
 flowchart TD
     A[End-of-bed-o-gram] --> B[Orbit]
     B --> C[GCS]
