@@ -121,6 +121,7 @@ book:
         - part: "Communication"
           chapters:
           - management/communication/concepts.qmd
+          - management/communication/culture.qmd
           - management/communication/family.qmd
           - management/communication/sdm.qmd
           - management/communication/bad.qmd
