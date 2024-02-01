@@ -1,0 +1,33 @@
+# Simple Analgesia
+
+## Paracetamol
+
+* Paracetamol given pre- and intraoperatively reduces PONV and improves analgesia, but does ont reduce opioids
+* Reduces PONV when given IV\
+Effect is independent of its reduction in opioid requirements.
+
+
+## NSAIDs
+
+* Renal injury is low when used appropriately
+* All NSAIDs sit on a spectrum of activity between COX-1 and COX-2
+* Non-selective NSAIDs:
+	* Are associated with ↑ risk of minor and major bleeding\
+	* May precipitate bronchospasm in susceptible patients\
+* COX-2 inhibitors **do not**:
+	* Impair platelet function\
+	Blood loss is reduced compared to non-selective NSAIDs and comparable to placebo after TKR.
+	* Precipitate bronchospasm
+	* Appear to ↑ rates of gastric ulceration when used in short courses (5-7 days)
+	* Affect bone healing in humans
+* Cardiac risk is:
+	* Slightly greater with COX-2s
+	* Appears dose-related
+	* ↑ in patients without diagnosed cardiac disease
+	* Naproxen and celecoxib have lower risks of myocardial injury than other NSAIDs
+
+---
+
+## References
+
+1. Schug SA, Palmer GM, Scott DA, Alcock M, Halliwell R, Mott JF; APM:SE Working Group of the Australian and New Zealand College of Anaesthetists and Faculty of Pain Medicine (2020), [Acute Pain Management: Scientific Evidence](https://www.anzca.edu.au/resources/college-publications/acute-pain-management/apmse5.pdf) (5th edition), ANZCA & FPM, Melbourne.

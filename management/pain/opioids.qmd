@@ -1,88 +1,89 @@
-# Opioid Harm Reduction Strategies
+# Opioids {#sec-opioids}
+
+:::caution
+Avoid long-acting opioids in high-risk patients
+:::
+
+:::column-margin
+This section covers IV and PO opioids for analgesia. Harms of opioid medication are discussed separately under @sec-opioid_harm. Intrathecal administration of opioids are covered under @sec-intrathecal.
+:::
+
+General opioids:
+
+* Highly effective for somatic pain\
+Act pre-synaptically and post-synaptically at multiple points.
+* Poor control of visceral pain
+* High doses can induce hyperalgesia\
+Particularly remifentanil.
+* Slow release opioids should not be used as sole agents in early acute pain
+* Immediate-release opioids should be used for breakthrough pain
+* Pruritus can be reduced using:
+	* Naloxone
+	* Naltrexone
+	* Droperidol
+* OIVI\
+Particularly in high-risk groups.
+	* Sedation\
+	Sedation is a better predictor of ventilatory impairment than respiratory rate.
+	* ↓ Oropharyngeal tone
+	* Elevated CO~2~ set point
+* Opioid use ↑ risk of falls and impairs driving
 
 
-The **opioid crisis** describes the significant ↑ in opioid-related morbidity and mortality across Western nations, driven by:
+Addiction and divergence:
 
-* Development of new opioid preparations, including oral slow-release formulations
-* Expansion of opioids to manage cancer pain, and then chronic non-malignant pain
-* Dramatic ↑ in the use of opioids for post-operative analgesia
-
-
-## Epidemiology and Risk Factors
-
-Perioperative:
-
-* Opioid prescriptions on discharge and following surgical procedures are identified as independent risk factors
-* Surgery is a potential gateway to longterm opioid use
-* Significant **excess of discharge opioid**\
-	* 70% of patients have opioids remaining
-	* Only 5% of them dispose of it correctly
+* Short-term opioid therapy may lead to long term use
+* Many patients who retain unused opioid tablets are willing to share them with others
+* The most common source of prescription opioids for non-medical use is a friend or relative
+* Poorly managed acute pain may reduce retention in opioid-maintenance programs
+* Methadone and buprenorphine maintenance should be continued throughout acute pain episodes wherever possible
 
 
-## Prevention
+Patches:
 
-Harm reduction strategies can be divided into:
-
-* [Upstream](Upstream)\
-Pharmaceutical and government interventions.
-* [Midstream](Midstream)\
-Hospital interventions.
-* [Downstream](Downstream)\
-Community, GP, and pharmacy interventions.
- 
-### Upstream
-
-Include:
-
-* Legislative changes
-	* Up-scheduling\
-	Requiring more drugs to be prescription.
-	* Use of prescription trackers to identify doctor shopping\
-	e.g. SafeScript.
-* Pharmaceutical changes
-	* Formulation of abuse-deterrent preparations\
-	Addition of naloxone to oral opioids.
+* Transdermal fentanyl patches should not be used in acute pain
 
 
+PCAs:
 
-### Midstream
-
-↓ prescription of opioids by:
-
-* Identify patients at risk of chronic post-surgical pain
-* Opioid stewardship programs\
-* Education of patients for realistic expectations for analgesia and harms of over-prescribing
-* Opioid prescribing guidelines
-* Changing default opioid prescription doses in EMR systems
+* Improve analgesia\
+Except where there are high nurse:patient ratios.
+* Subcutaneous PCA is as effective as IV PCA
+* Improve patient satisfaction
+* ↑ opioid consumption
 
 
-Optimise acute pain management:
+Methadone:
 
-* Early multi-modal therapy
-* Regular dosing
-* Titrate opioids carefully
-* Dose reduction plan on discharge
+* Old, synthetic, and cheap
+* Some NMDA affinity
+* High interindividual pharmacokinetic variability
+* Long half life of up to 60 hours\
+May lead to prolonged respiratory depression in overdose.
+* High dose may prolong QT interval\
+TDP associated with chronic high dose, rather than single perioperative dosing.
+* 0.2mg/kg (up to 20mg) at induction reduces PCA use by 48 hours in spinal surgery
 
 
+Tramadol:
 
-### Downstream
+* Mixed receptor activity
+* Relatively high NNT
+* Effective in neuropathic pain
+* Minimal improvement in pain score, but better subjective opinion of pain
 
-Key principles:
 
-* Education:
-	* Prescribers
-		* HMOs
-		* Senior registrars and consultants
-	* Dispensers
-		* Pharmacy
-	* Patients
-	* Community
-		* GP
-* Opioid return programs
-	* Pharmacies
+Tapentadol:
+
+* Similar efficacy to other opioids with a reduced rate of GIT side effects
+
+
+Buprenorphine:
+
+* Has a ceiling effect for the respiratory depression but not for the analgesia
 
 ---
 
 ## References
 
-1. Toon, M. Opioid harm reduction strategies - stemming the tide. Australian Anaesthesia. 2019.
+1. Schug SA, Palmer GM, Scott DA, Alcock M, Halliwell R, Mott JF; APM:SE Working Group of the Australian and New Zealand College of Anaesthetists and Faculty of Pain Medicine (2020), [Acute Pain Management: Scientific Evidence](https://www.anzca.edu.au/resources/college-publications/acute-pain-management/apmse5.pdf) (5th edition), ANZCA & FPM, Melbourne.

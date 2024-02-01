@@ -1,0 +1,200 @@
+# Pain Overview
+
+Pain is an unpleasant sensory and emotional experience associated with actual or potential tissue damage, or described in terms of such damage. Pain is:
+
+* Distinct from nociception\
+Process of nervous system transmission of a noxious stimuli.
+* Divided therapeutically and mechanistically into:
+	* Acute pain
+	* Chronic pain\
+	Pain lasting beyond the time expected for healing following an injury, occurring due to changes in both peripheral and central nervous systems, as well as psychologically.
+* Management is important as pain:
+	* Causes suffering
+	* Limits rehabilitation\
+	Adequate analgesia facilitates **restoration** of **normal function**.
+	* Leads to secondary complications
+		* Catecholamine release
+			* ↑ MVO~2~\
+			Ischaemia.
+			* Fatigue
+		* Stasis
+			* Atelectasis/pneumonia
+			* DVT
+			* Catabolic state
+		* Progresses to chronic pain
+
+
+## Pain Assessment
+
+:::tick
+Use the **PASS** assessment:
+
+* **P**ain history
+	* Somatic
+	* Neuropathic
+* **A**nalgesia and other drug substances
+* **S**tress and other psychology
+* **S**urgical factors and biological causes
+:::
+
+Key components of a pain history include:
+
+* Site
+	* Location
+	* Radiation
+* Circumstances\
+Associated trauma, procedures.
+* Character\
+Key descriptors.
+* Intensity\
+Including:
+	* At rest
+	* With movement
+	* Temporal factors
+		* Duration
+		* Intensity over time
+		* Continuous or intermittent
+	* Aggravating or relieving factors
+* Associated symptoms
+* Effect of pain on:
+	* Activities of daily living
+	* Sleep
+* Treatment
+	* Current and previous medications
+		* Doses
+		* Frequency of use
+		* Efficacy
+		* Adverse effects
+	* Other treatment
+	* Health professionals consulted
+* Relevant medical history
+* Factors influencing patients symptomatic treatment
+	* Belief around cause
+	* Knowledge, expectations, and preferences for management
+	* Expected outcome
+	* Reduction in pain required for patient satisfaction
+	* Coping responses
+	* Family expectations
+
+
+## Pain Management
+
+Goals of pain management include:
+
+* ↓ Pain initiation
+* Inhibit neurotransmission
+* Prevent sensitisation
+	* Central
+	* Peripheral
+* Psychological preparation
+	* Set expectations
+	* Control pain
+
+
+### Mechanism-Based Approach
+
+A mechanism-based approach uses a combination of agents to interrupt nociception at multiple levels of the pain fibre. In general, consider:
+
+:::column-margin
+Key terms:
+
+* **Preventative analgesia**\
+Analgesic effect lasts longer than expected duration of drug effet.
+* **Preemptive analgesia**\
+Analgesia provided prior to nociceptive stimulus.
+:::
+
+* Allergies and drug intolerances
+* Pre-existing pain syndrome or drug exposure
+* Nature of painful stimulus
+	* Expected duration
+	* Expected magnitude
+* Available routes of administration
+
+
+Then consider an escalating level of:
+
+* Single analgesia
+	* Paracetamol
+	* NSAID if appropriate
+* Regional techniques (or epidural)
+* Requirement for an antineuropathic
+* Short-acting opioid
+	* Oral PRN
+		* Oxycodone
+		* Morphine
+	* Sublingual PRN
+		* Buprenorphine
+	* IV PCA
+		* Oxycodone
+		* Morphine
+		* Fentanyl
+		* Buprenorphine
+* Adjuncts
+	* Ketamine infusion
+	* Lignocaine infusion
+	* Clonidine
+* Regular opioid
+
+
+## Situation-Based Approach
+
+A situation-based approach is used when the presentation fits a particular pain syndrome.
+
+
+### Acute Neuropathic Pain
+
+* First line\
+	* Ketamine
+		* Titrate up with 5mg boluses to effect
+		* Maintain at 0.1mg/kg/hr IV or SC infusion
+* Second line\
+	* Lignocaine
+		* Bolus 1-1.5mg/kg
+		* Maintain at 1-2mg/min
+
+
+### Chronic Neuropathic Pain
+
+* First line\
+	* TCAs
+		* Commence at 5-10mg and ↑ slowly to optimise acceptability
+		* Effective dose usually 10-100mg
+		* Slow onset and trial for at least 2 weeks, and ideally 2 months
+		* Amitryptyline superior if sleep disturbance an issue; give nocte
+		* Nortriptyline less sedating
+		* Adverse effects significant
+	* SSRIs/SNRIs
+		* Duloxetine 30mg daily, ↑ up to 60mg
+		* Venlafaxine 37.5mg, ↑ to 75mg, up to 225mg daily
+* Second line\
+α2-delta ligands:
+	* Pregabalin\
+	75mg up to 300mg BD, start at 25-50mg if frail.
+	* Gabapentin
+* Third line\
+	* Tramadol
+	* Tapentadol
+
+
+
+### Phantom Limb Pain
+
+* First line\
+	* Calcitonin\
+	100ug daily IV/SC for at least 3 days. Antiemetic prophylaxis.
+* Second line\
+Antineuropathics as above.
+
+
+---
+
+## References
+
+1. Schug SA, Palmer GM, Scott DA, Alcock M, Halliwell R, Mott JF; APM:SE Working Group of the Australian and New Zealand College of Anaesthetists and Faculty of Pain Medicine (2020), [Acute Pain Management: Scientific Evidence](https://www.anzca.edu.au/resources/college-publications/acute-pain-management/apmse5.pdf) (5th edition), ANZCA & FPM, Melbourne.
+1. Rigg JR, Jamrozik K, Myles PS, Silbert BS, Peyton PJ, Parsons RW, et al. Epidural anaesthesia and analgesia and outcome of major surgery: a randomised trial. The Lancet. 2002 Apr 13;359(9314):1276–82. 
+1. N. Meylan, N. Elia, C. Lysakowski, M. R. Tramèr. [Benefit and risk of intrathecal morphine without local anaesthetic in patients undergoing major surgery: meta-analysis of randomized trials](https://academic.oup.com/bja/article/102/2/156/304818). BJA: British Journal of Anaesthesia, Volume 102, Issue 2, 1 February 2009, Pages 156–167.
+1. McLeod GA, Cumming C. [Thoracic epidural anaesthesia and analgesia](https://academic.oup.com/bjaed/article/4/1/16/356905). Continuing Education in Anaesthesia Critical Care & Pain, Volume 4, Issue 1, 1 February 2004, Pages 16–19.
+1. Schug SA, Palmer GM, Scott DA, Halliwell R, Trinca J. [Acute pain management: scientific evidence, fourth edition, 2015](http://fpm.anzca.edu.au/documents/apmse4_2015_final). Med J Aust. 2016 May 2;204(8):315–7. 
+1. Russell T, Mitchell C, Paech MJ, Pavy T. Efficacy and safety of intraoperative intravenous methadone during general anaesthesia for caesarean delivery: a retrospective case-control study. International Journal of Obstetric Anesthesia. 2013 Jan;22(1):47–51. 
+1. Western Australian Therapeutic Advisory Group. [Guidelines for the Pharmacological Treatment of Neuropathic Pain](https://ww2.health.wa.gov.au/~/media/Files/Corporate/general%20documents/WATAG/Neuropathic-Pain-Guidelines.pdf). 2017.

@@ -207,16 +207,17 @@ book:
               - management/cvs/fluid.qmd
         - part: "Neurology"
           chapters:
-            # - part: "Anaesthesia"
-            #   chapters:
-            - part: "Analgesia"
+            - part: "Pain"
               chapters:
-              - management/pain/pain_overview.qmd
+              - management/pain/overview.qmd
+              - management/pain/non_pharm.qmd
+              - management/pain/simple.qmd
               - management/pain/opioids.qmd
-              # An approach? Acute pain vs chronic pain? Basic vs opioid vs adjuncts?
-              # Ketamine
-              # Regional infusions
-              # Epidural and intrathecal infusions
+              - management/pain/opioid_harm.qmd
+              - management/pain/regional.qmd
+              - management/pain/epidural.qmd
+              - management/pain/intrathecal.qmd
+              - management/pain/adjuncts.qmd
             - part: "CNS"
               chapters:
               - management/neuro/chronic_spine.qmd

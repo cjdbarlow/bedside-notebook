@@ -1,0 +1,52 @@
+# Epidural Analgesia {#sec-epidural_analgesia}
+
+:::column-margin
+This administration of epidural analgesia. Placement of an epidural catheter is covered elsewhere.
+:::
+
+
+Overview:
+
+* Provides better analgesia than system opioids, irrespective of patient or surgery type\
+Provides ~ 1/10 reduction in pain over the first 24 hours postoperatively.
+* Reduces:
+	* Respiratory failure\
+	After major surgery in high risk patients; NNT 15.
+	* MI risk.
+	* Muscle catabolism and subsequent hyperglycaemia
+	* Duration of postoperative ileus post-bowel surgery
+	* Need for ventilation in rib fractures
+	* Incidence of pneumonia and mortality
+* Safe
+	* Epidural haematoma is vanishingly rare\
+		* Anticoagulation and coagulopathy are the two most important risk factors
+		* Decompression within 8 hours of symptom onset ↑ likelihood of partial or good neurological recovery
+	* Epidural abscesses\
+	Most likely to track from skin: significantly reduced with chlorhexidine-impregnated dressings. 
+* Complications
+	* Those relating to insertion and management of any epidural
+	* Hypotension
+		* May require HDU monitoring/vasopressors
+		* Better corrected with vasopressors than volume\
+		Vasopressors demonstrated to more likely improve GI blood flow than excessive fluid.
+
+
+Implementation:
+
+* Can be used as a sole technique\
+E.g. epidural top-up for LUSCS.
+* Can be used as an adjunct to general anaesthesia
+	* May be used for either thoracic or abdominal operations
+	* Epidural should be sited depending on surgical site
+		* Middle of the surgical incision for low-thoracic epidurals
+		* Relatively more cranially (i.e. top half) of the incision for high-thoracic epidurals\
+		Higher sites of insertion exhibit less cranial spread of epidurally administered LA.
+* Use of high concentration (e.g. 0.75% bupivacaine) leads to a rapid onset of sensory and motor blockade\
+Motor blockade provides muscle relaxation, ↓ the requirement to administer NMBD.
+	* 3-5ml of 0.75% bupivacaine can be used for top-up
+
+---
+
+## References
+
+1. Schug SA, Palmer GM, Scott DA, Alcock M, Halliwell R, Mott JF; APM:SE Working Group of the Australian and New Zealand College of Anaesthetists and Faculty of Pain Medicine (2020), [Acute Pain Management: Scientific Evidence](https://www.anzca.edu.au/resources/college-publications/acute-pain-management/apmse5.pdf) (5th edition), ANZCA & FPM, Melbourne.

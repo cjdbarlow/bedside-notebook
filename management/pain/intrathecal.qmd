@@ -1,0 +1,51 @@
+# Intrathecal Analgesia {#sec-intrathecal}
+
+## Intrathecal Opioid
+
+:::tick
+* Lowest effective dose (usually 100-150µg; less than 300µg) should be used
+* Respiratory monitoring should occur for at least 18-24 hours following a single dose
+:::
+
+* Intrathecal morphine and fentanyl prolong spinal anaesthetic block
+* Morphine is the most commonly studied drug\
+Typically 100-500µg used\
+	* Generally higher doses used in cardiac or thoracic surgery
+	* No benefit seen in exceeding 300µg
+	* No strong-dose response relationship demonstrated in meta-analyses
+* Quality of analgesia:
+	* Similar to epidural for liver resection
+	* Duration of ~18-24 hours
+		* Reduction in morphine use may extend up to 48 hours
+	* Prolongs duration of intrathecal anaesthesia
+	* High degree of patient satisfaction, despite side effects
+* Complications include:
+	* Nausea/Vomiting
+	* Pruritus\
+	10-15%.
+		* Amenable to subcutaneous naloxone
+	* Urinary retention
+	* Respiratory depression\
+		* May be:
+			* Hypoxic or hypercapnoeic with an normal respiratory rate
+			* ↓ respiratory rate with normal gases
+			* **Pupil size** does not correlate with degree of respiratory depression
+		* Typically biphasic\
+		Second peak is delayed, occurring at 8-12 hours.
+		* NNH 15-84\
+		More common compared to PCA.
+
+
+
+## Intrathecal Adjuncts
+
+* Intrathecal clonidine improves duration of analgesia and anaesthesia
+* Intrathecal adrenaline improves duration of analgesia and anaesthesia when used with local anaesthetics
+
+
+
+---
+
+## References
+
+1. Schug SA, Palmer GM, Scott DA, Alcock M, Halliwell R, Mott JF; APM:SE Working Group of the Australian and New Zealand College of Anaesthetists and Faculty of Pain Medicine (2020), [Acute Pain Management: Scientific Evidence](https://www.anzca.edu.au/resources/college-publications/acute-pain-management/apmse5.pdf) (5th edition), ANZCA & FPM, Melbourne.
