@@ -1,0 +1,26 @@
+: Eastern Cooperative Oncology Group Performance Status
+
++-------+-------------------------------------------------------------+
+| Grade | Description                                                 |
++-------+-------------------------------------------------------------+
+| **0** | * **Fully active**                                          |
+|       | * All pre-disease performance without restriction           |
++-------+-------------------------------------------------------------+
+| **1** | * **Restricted in physically strenuous** activity           |
+|       | * Ambulatory                                                |
+|       | * Able to perform light or sedentary work                   |
++-------+-------------------------------------------------------------+
+| **2** | * Ambulatory                                                |
+|       | * Self-care                                                 |
+|       | * **Unable to carry out any work** activities               |
+|       | * **Up >50%** of waking hours                               |
++-------+-------------------------------------------------------------+
+| **3** | * **Limited self-care**                                     |
+|       | * **Confined** to **bed** or **chair >50%** of waking hours |
++-------+-------------------------------------------------------------+
+| **4** | * Completely disabled                                       |
+|       | * **No self-care**                                          |
+|       | * **Totally confined** to bed or chair                      |
++-------+-------------------------------------------------------------+
+| **5** | * Dead                                                        |
++-------+-------------------------------------------------------------+

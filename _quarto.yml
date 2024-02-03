@@ -129,6 +129,12 @@ book:
           - management/communication/disclosure.qmd
           - management/communication/colleagues.qmd   
           - management/communication/feedback.qmd
+        - part: "End of Life"
+          chapters:
+            - management/dying/goals.qmd
+            - management/dying/end_of_life.qmd
+            - management/dying/dying.qmd
+            - management/dying/last.qmd
         - part: "Team"
           chapters:
           - management/team/zps.qmd
@@ -210,7 +216,6 @@ book:
             - part: "Pain"
               chapters:
               - management/pain/overview.qmd
-              - management/pain/non_pharm.qmd
               - management/pain/simple.qmd
               - management/pain/opioids.qmd
               - management/pain/opioid_harm.qmd
@@ -218,6 +223,7 @@ book:
               - management/pain/epidural.qmd
               - management/pain/intrathecal.qmd
               - management/pain/adjuncts.qmd
+              - management/pain/non_pharm.qmd
             - part: "CNS"
               chapters:
               - management/neuro/chronic_spine.qmd

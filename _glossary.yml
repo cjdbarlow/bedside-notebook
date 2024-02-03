@@ -64,6 +64,7 @@ CPE: Carbapenemase-producing *Enterobacteriaceae*
 CPP: Cerebral/Coronary Perfusion Pressure
 CRRT: Continuous Renal Replacement Therapy
 CRS: Cytokine Release Sydrome
+CSCI: Continuous Subcutaneous Infusion
 CSF: Cerebrospinal Fluid
 CSW: Cerebral Salt Wasting
 CVC: Central Venous Catheter
@@ -100,6 +101,7 @@ EEG: Electroencephalogram
 EMI: Electromagnetic Interference
 EN: Enteral Nutrition
 EPO: Erythropoietin
+EPS: Extrapyramidal Side Effects
 ERP: Effective Refractory Period
 ESRD: End-Stage Renal Disease
 ESV: End-Systolic Volume
@@ -251,6 +253,7 @@ PCI: Percutaneous Coronary Intervention
 PCR: Polymerase Chain Reaction
 PCT: Proximal Convoluted Tubule
 PCWP: Pulmonary Capillary Wedge Pressure
+PD: Parkinson's Disease or Peritoneal Dialysis
 PDA: Posterior Descending Artery/Patent Ductus Arteriosus
 PDE: Phosphodiesterase
 PDGF: Platelet-Derived Growth Factor
@@ -298,6 +301,7 @@ SAH: Subarachnoid Haemorrhage
 SAQ: Short Answer Question
 SBE: Standardised Base Excess
 SBP: Systolic Blood Pressure or Spontaneous Bacterial Peritonitis
+SC: Subcutaneous
 SCC: Squamous Cell Carcinoma
 SCUF: Slow Continuous Ultrafiltration
 SCV: Subclavian Vein

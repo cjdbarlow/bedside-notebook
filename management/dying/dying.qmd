@@ -1,0 +1,218 @@
+# Dying
+
+Dying is a normal human experience, and while individual circumstances are often unpredictable, there is a reliable deterioration in consciousness and physical function that occurs. **Imminent death** implies death is likely to occur sometime within the next 24 hours to several days, and is suggested by:
+
+* Noisy breathing or gurgling\
+Due to saliva buildup in the throat.
+* Altered respiratory pattern, in particular:
+	* Apnoeic episodes
+	* Hyperpnoea
+	* Irregular respirations
+* Centralisation of blood volume and mottled extremities
+* Increasing weakness
+* Increased somnolence, including sleeping for most of the days
+* Periods of unconsciousness
+* Coma or altered consciousness state
+* Cessation of eating or drinking
+
+:::column-margin
+Dying is the physical and emotional experience of gradually becoming weaker and letting go of the attachment to living.
+:::
+
+## Management
+
+:::priority
+**Priorities** in the **last days of life** should be:
+
+* Maintain the patient's **dignity**
+* Effective control of discomfort and pain
+* Open, honest, and compassionate **communication** with **families**
+* **Collegial communication** with other clinicians\
+A patients death is often a challenging time for colleagues used to treating patients with curative intent.
+* **De-prescribing**
+:::
+
+:::column-margin
+Therapeutic interventions may be advocated for by families or other clinicians. A useful compromise is a time-limited (e.g. up to 48 hours) trial of a therapeutic intervention, which would be ceased if some threshold of improvement is not met.
+:::
+
+### Family
+
+Common causes of family concern or distress include:
+
+* Patient **not eating** or drinking\
+Discuss the normal pattern of dying, which includes an absence of thirst or hunger.
+* What they **should tell the family**\
+Give them permission. Suggest informing their relative of the patients condition - only that person can make the decision that is right for them, e.g.  whether they should come to visit.
+* Concern about **pain** or over-sedation\
+Discuss non-verbal markers of pain or distress, such as grimacing, frowning, moaning, or restlesses.
+
+
+### De-Prescribing
+
+Regular medication should be reviewed when patients become unable to safely take oral medication. In general:
+
+* **Cease** all **medications without** demonstrable symptomatic **benefit**
+* **Be mindful of withdrawal** or rebound syndromes
+* Reassure patients and families that this is not intended to hasten death, or signify a ↓ in quality of care
+
+: De-prescribing in the Last Days of Life
+
++----------------------+-----------------------------------+--------------------------------+
+| Class                | Withdrawal Symptoms               | Management of Withdrawal       |
++======================+===================================+================================+
+| **α-blockers**       | * Rebound hypertension            | * Opioid                       |
+|                      | * Agitation                       | * Benzodiazepine               |
++----------------------+-----------------------------------+--------------------------------+
+| **Anticholinergics** | * Anxiety                         | * Opioid\                      |
+|                      | * Headache                        | Headache.                      |
+|                      | * Dizziness                       | * Benzodiazepine\              |
+|                      | * Nausea/vomiting                 | Anxiety, dizziness.            |
+|                      |                                   | * Antiemetics                  |
++----------------------+-----------------------------------+--------------------------------+
+| **Antidepresssants** | * Dysphoria                       | * Opioid                       |
+|                      | * Agitation                       | * Benzodiazepine               |
+|                      | * Headache                        |                                |
++----------------------+-----------------------------------+--------------------------------+
+| **Anti-reflux**      | * Reflux                          | * PPI                          |
++----------------------+-----------------------------------+--------------------------------+
+| **Antiparkinsonian** | * Rigidity\                       | * Opioid                       |
+|                      | With pain.                        |                                |
++----------------------+-----------------------------------+--------------------------------+
+| **Antipsychotics**   | * Dyskinesia                      | * Antipsychotic                |
+|                      | * Nausea                          |                                |
+|                      | * Vomiting                        |                                |
+|                      | * Agitation                       |                                |
++----------------------+-----------------------------------+--------------------------------+
+| **Benzodiazepines**  | * Delirium                        | * Benzodiazepine\              |
+|                      | * Agitation                       | Generally continuous infusion. |
+|                      | * Insomnia                        |                                |
+|                      | * Seizures                        |                                |
++----------------------+-----------------------------------+--------------------------------+
+| **β-blockers**       | * ↑ HR                            | * Opioid                       |
+|                      | * Palpitations                    | * Benzodiazepine               |
+|                      | * Angina                          | * Nitrate patch                |
++----------------------+-----------------------------------+--------------------------------+
+| **Digoxin**          | * AF\                             | * Opioid                       |
+|                      | Failure.                          | * Benzodiazepine               |
++----------------------+-----------------------------------+--------------------------------+
+| **Diuretics**        | * Fluid retention                 | * Opioid                       |
+|                      |     * Oedema                      | * Benzodiazepine               |
+|                      |     * Dyspnoea                    |                                |
++----------------------+-----------------------------------+--------------------------------+
+| **Nitrates**         | * Angina                          | * Nitrate patch                |
+|                      |                                   | * Opioid                       |
++----------------------+-----------------------------------+--------------------------------+
+| **Steroids**         | * Adrenal crisis\                 | * Opioid                       |
+|                      | Secondary to HPA suppression.     |                                |
+|                      | * Painful inflammatory condition\ |                                |
+|                      | Re-emergence.                     |                                |
++----------------------+-----------------------------------+--------------------------------+
+
+:::column-margin
+Management of withdrawal symptoms should always occur by a parenteral route.
+:::
+
+### Symptom Control
+
+: Management of Symptoms in the Last Days of Life
+
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
+| Symptom                     | Principles                                                                                                                                                         | Specifics                                                  | Considerations                                                                                            |
++=============================+====================================================================================================================================================================+============================================================+===========================================================================================================+
+| **Pain**                    | * **Regular analgesia** via infusion                                                                                                                               | * Morphine 2.5-5mg Q1H SC                                  | ↑ Dose required in opioid-tolerant patient, consider converting regular PO morphine dose to 24 hour CSCI. |
+|                             | * **Breakthrough analgesia**                                                                                                                                       | * Fentanyl 25-50μg Q1H SC                                  |                                                                                                           |
+|                             | * Placement of IDC\                                                                                                                                                | * Hydromorphone 0.5-1mg Q1H SC                             |                                                                                                           |
+|                             | Prevent urinary retention. Discomfort from the IDC is usually minimal.                                                                                             |                                                            |                                                                                                           |
+|                             | * Massage                                                                                                                                                          |                                                            |                                                                                                           |
+|                             | * Hot packs                                                                                                                                                        |                                                            |                                                                                                           |
+|                             | * Regular turns and pressure area care                                                                                                                             |                                                            |                                                                                                           |
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
+| **Dyspnoea**                | * **Position**\                                                                                                                                                    | * Morphine 1-2mg Q1H SC                                    |                                                                                                           |
+|                             | Head up.                                                                                                                                                           | * Fentanyl 25-50μg Q1H SC                                  |                                                                                                           |
+|                             | * Supplemental oxygen\                                                                                                                                             | * Hydromorphone 0.5-1mg Q1H SC                             |                                                                                                           |
+|                             | For symptomatic relief. Consider HFNO.                                                                                                                             |                                                            |                                                                                                           |
+|                             | * **Fan**                                                                                                                                                          |                                                            |                                                                                                           |
+|                             | * Open a window                                                                                                                                                    |                                                            |                                                                                                           |
+|                             | * Opioids                                                                                                                                                          |                                                            |                                                                                                           |
+|                             | * Benzodiazepines\                                                                                                                                                 |                                                            |                                                                                                           |
+|                             | If anxious.                                                                                                                                                        |                                                            |                                                                                                           |
+|                             | * Avoid stacking care                                                                                                                                              |                                                            |                                                                                                           |
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
+| **Gurgling**                | * Regular mouth care                                                                                                                                               | * Hyoscine butylbromide 20mg Q2-4H SC up to 120mg in 24/24 | Cease if ineffective after 3 doses.                                                                       |
+|                             | * Consider anticholinergic                                                                                                                                         |                                                            |                                                                                                           |
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
+| **Nausea/vomiting**         | * Antiemetics                                                                                                                                                      | * Metoclopramide 10mg Q4H SC up to 30mg                    | Ondansetron preferred if risk of EPS or PD.                                                               |
+|                             | * Haloperidol                                                                                                                                                      | * Haloperidol 0.5-1mg Q4H SC up to 5mg in 24/24            |                                                                                                           |
+|                             | * Offer small volumes of food and liquid if still eating\                                                                                                          | * Ondansetron                                              |                                                                                                           |
+|                             | It is usual for patients to not feel hungry - this is often distressing for families and they should be reassured that this is a normal part of the dying process. |                                                            |                                                                                                           |
+|                             | * Consider bowel obstruction                                                                                                                                       |                                                            |                                                                                                           |
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
+| **Bowel/Bladder**           | * Consider IDC                                                                                                                                                     |                                                            |                                                                                                           |
+|                             | * Consider laxatives, enema or suppositories                                                                                                                       |                                                            |                                                                                                           |
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
+| **Swallowing difficulties** | * Sit up                                                                                                                                                           |                                                            |                                                                                                           |
+|                             | * Regular mouth care\                                                                                                                                              |                                                            |                                                                                                           |
+|                             | Moistening swabs.                                                                                                                                                  |                                                            |                                                                                                           |
+|                             | * Treat oesophagitis                                                                                                                                               |                                                            |                                                                                                           |
+|                             | * Consider corticosteroids                                                                                                                                         |                                                            |                                                                                                           |
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
+| **Delirium**                | * De-prescribe                                                                                                                                                     |                                                            |                                                                                                           |
+|                             | * Continue hearing aids and glasses                                                                                                                                |                                                            |                                                                                                           |
+|                             | * Regular circadian rhythm                                                                                                                                         |                                                            |                                                                                                           |
+|                             | * Provide explanation and reassurance                                                                                                                              |                                                            |                                                                                                           |
+|                             | * Familiarise environment                                                                                                                                          |                                                            |                                                                                                           |
+|                             | * Consider **antipsychotics**                                                                                                                                      |                                                            |                                                                                                           |
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
+| **Restlessness**            | * Non-pharmacological                                                                                                                                              | * Midazolam 2.5mg Q12H SC                                  | Midazolam preferable as clonazepam is at risk of accumulation and oversedation.                           |
+|                             |     * Soft musing                                                                                                                                                  | * Clonazepam 0.25-0.5mg Q12H SC                            |                                                                                                           |
+|                             |     * Repositioning                                                                                                                                                | * Haloperidol 0.5-1mg SC Q2H up to 5mg in 24/24            | Reserve antipsychotics for symptoms refractory to benzodiazepines.                                        |
+|                             |     * Bladder scan                                                                                                                                                 |                                                            |                                                                                                           |
+|                             |     * Massage                                                                                                                                                      |                                                            |                                                                                                           |
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
+
+:::column-margin
+Anticipatory prescribing is important, and involves ensuring that medications for common symptoms such as breathlessness, pain, nausea and constipation are available for PRN use.
+:::
+
+:::column-margin
+Regular patient assessments should be performed to titrate therapy.
+:::
+
+
+## After Death
+
+After a patient has passed:
+
+* Move the body to a private room if possible\
+Sensitively inform the patients room-mates if a single room is unable to be provided.
+* Remove medical equipment
+* Wash the patient\
+If there are no religious or cultural contraindications. Family may wish to assist.
+* Change the bedding
+* Change the dressings and cover wounds
+* Comb the hair
+* Close eyes\
+Sometimes they must be held shut for a period.
+* Expose the hands
+* Tidy the bedspace
+
+
+Allow the family to spend time with the body. Consider:
+
+* Asking them if they have seen someone who has died before\
+Discuss the:
+	* Change in colour
+	* Change in temperature\
+	Particularly if the body is cold.
+	* The
+* Offering them the chance to remove jewellery
+
+---
+
+## References
+
+1. Australian Commission for Safety and Quality in Healthcare. [Comprehensive Care Standard End-of-life care: clinical basics](https://www.safetyandquality.gov.au/sites/default/files/2020-11/End-of-life%20care%20-%20clinical%20basics.pdf). 2024.
+1. Lynn J, Adamson DM. Living Well at the End of Life:[ Adapting Health Care to Serious Chronic Illness in Old Age](https://www.rand.org/pubs/white_papers/WP137.html). RAND Corporation; 2002 Dec [cited 2024 Feb 1].
+2. South Australia Health. [Medication Cessation for Adults in the Last Days of Life](https://www.sahealth.sa.gov.au/wps/wcm/connect/5fc189804a24008cb979f990d529bdaa/Medication+Cessation+for+Adults+in+the+Last+Days+of+Life+Fact+Sheet.pdf). August 2023.
+3. South Australia Health. [Prescribing Guidelines for the Pharmacological Management for Adults in the Last Days of Life.](https://www.sahealth.sa.gov.au/wps/wcm/connect/f532fc004a0f0746a22fe290d529bdaa/Prescribing+Guidelines+for+the+Pharmacological+Management+of+Symptoms+for+Adults+in+the+Last+Days+of+Life.pdf). August 2023.

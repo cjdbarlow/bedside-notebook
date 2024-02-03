@@ -1,0 +1,61 @@
+# Goals of Care
+
+Goals of care describes the aim of medical treatment for the patient. Goals of care:
+
+* Should be established between the patient, family, carers, and the treating team
+* Reflect what **matters to the patient**, and what they want to achieve with their healthcare
+* Aim to ensure that patient's are cared for in the way they would want to be, when communication may no longer be possible
+* **May change** over time
+* Do not apply just to end of life care\
+Important goals may include:
+    * Nature of medical interventions
+    * Place of care
+    * Incorporating patient values
+
+
+## Discussing Treatment Limitations
+
+Discussing goals of care should occur:
+
+* Ideally for all patients on hospital admission\
+This normalises the process of the discussion, and encourages patients to have the discussion talk about their wishes with their families.
+* Specifically for patients who have advanced:
+    * Malignancy
+    * Frailty
+    * Physiological age (>85 years old)
+    * Other terminal disease
+* When it is unclear whether treating a clinical problem will be of benefit to a patient\
+The risks and benefits of different options should be explained, and the decision should be guided by the patient. There is no obligation to provide futile therapy.
+* When the patient requests it
+
+
+## Limitations of Medical Treatment
+
+Limitations of medical treatment become relevant when the goal of medical care is not solely the preservation of life. Common categories of goals include:
+
+:::column-margin
+My preferred approach is to conduct the goals of care discussion using a framework of **shared decision making** process (see @sec-shared), and then retrofit this to the limitations of treatment form. This prevents this activity turning into a tickbox exercise, and ensures the discussion is framed around *goals* rather than *specific treatments*.
+:::
+
+* **Curative, with limitations**\
+Overall treatment aim is curative, but resuscitative methods are not consistent with the patients wishes wishes. Treatment limitations may include:
+    * Not for CPR, but for respiratory support
+    * Not for CPR or intubation\
+    Therefore not for Code Blue, but for MET calls.
+    * For transfer to hospital
+* **Palliative**\
+Treatment aim is quality of life. Treatment limitations may include:
+    * Not for CPR or intubation
+    * For MET calls for lack of symptom control only
+    * May or may not be for transfer to hospital
+* **Comfort during dying**\
+Treatment limitations may include:
+    * Not for CPR or intubation
+    * For MET calls for lack of symptom control only
+
+---
+
+## References
+
+1. Australian Commission for Safety and Quality in Healthcare. [Comprehensive Care Standard End-of-life care: clinical basics](https://www.safetyandquality.gov.au/sites/default/files/2020-11/End-of-life%20care%20-%20clinical%20basics.pdf). 2024.
+1. Lynn J, Adamson DM. Living Well at the End of Life:[ Adapting Health Care to Serious Chronic Illness in Old Age](https://www.rand.org/pubs/white_papers/WP137.html). RAND Corporation; 2002 Dec [cited 2024 Feb 1].

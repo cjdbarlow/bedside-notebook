@@ -1,8 +1,8 @@
-# Shared Decision Making
+# Shared Decision Making {#sec-shared}
 
-Shared decision making is a two-way conversation between healthcare staff and the patient and their family, aiming to develop a medical plan which is tailored to the patients individual values.
+Shared decision making is a two-way conversation between healthcare staff and the patient and their family, aiming to develop a medical plan which is tailored to the patients individual values. The overall goal which is to understand what the patient would want.
 
-Key aspects are:
+Key aspects of this conversation are to understand:
 
 * What is their **current life like**?
 * **What is important to them**?
@@ -11,6 +11,10 @@ Key aspects are:
 * What is their risk appetite like? How much medical treatment would they be willing to undergo?
 
 ## Seven Steps
+
+:::tick
+Frame discussions with "We can..." rather than "What would you like me to do?"
+:::
 
 1. **Ask**\
 What does the patient understand about their diagnosis?

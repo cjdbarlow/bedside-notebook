@@ -118,6 +118,7 @@ Then consider an escalating level of:
 	* Paracetamol
 	* NSAID if appropriate
 * Regional techniques (or epidural)
+* Non-pharmacological adjuncts
 * Requirement for an antineuropathic
 * Short-acting opioid
 	* Oral PRN
@@ -130,7 +131,7 @@ Then consider an escalating level of:
 		* Morphine
 		* Fentanyl
 		* Buprenorphine
-* Adjuncts
+* Pharmacological adjuncts
 	* Ketamine infusion
 	* Lignocaine infusion
 	* Clonidine

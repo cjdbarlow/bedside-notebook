@@ -1,0 +1,160 @@
+# End of Life
+
+Patients are ‘**approaching the end of life**’ **when** they are **likely to die within the next 12 months**. This may be due to:
+
+:::column-margin
+About:
+
+* 1% of the total population die each year
+* 30% of hospital patients are in their last year of life
+* 80% of care home residents are in their last year of life
+* 80% of people are admitted to hospital during the last year of life\
+   * 24% have ⩾3 admissions
+:::
+
+* Advanced, progressive, or incurable disease
+* General frailty
+* Condition that predisposes to death due to a sudden or acute crisis
+
+
+## Predicting Death
+
+:::tick
+Ask yourself: ‘Would I be surprised if this patient were to die in the next few months, weeks, days’?
+:::
+
+:::column-margin
+Most clinicians are overly-optimistic about prognostication.
+:::
+
+Accurate prognostication of life-expectancy is difficult and therefore fraught. A better approach is to:
+
+* Recognise the uncertainty
+* **Communicate** clinical **uncertainty** to the patient and family\
+This can be done in a helpful way!
+    * "While we don’t know exactly how long they may have to live, we do know that they won't get better. Our aim is now to ensure they are comfortable, and that you are supported.""
+    A useful tool is to give an approximate range using common units, e.g.:
+        * Long weeks to short months
+        * Long days to weeks
+* Identify patients approaching the **end-of-life phase**\
+This allows for:
+    * Better anticipation of likely care needs
+    * Tailoring of care to patient's wishes
+    * Fewer crisis admissions
+    * Family and patients to plan for death
+
+
+## End of Life Phase
+
+The **end of life** is the period when a patient is **living with and impaired by a fatal condition**, even if the trajectory is uncertain or unknown. It is easier to identify patients who are approaching the end-of-their life.
+
+:::column-margin
+{{< include /includes/ecog.qmd >}}
+:::
+
+### General
+
+* **Unplanned admissions**
+* ↓ Performance status\
+    * ECOG >3
+    * Slow walking speed\
+    >5 seconds to walk 4m.
+    * Timed Up-and-Go\
+    >12 seconds to stand up from the chair, walk 3 metres, turn around, and return to sitting.
+* **↑ Carer support needs**
+* Weight loss
+    * Loss of muscle mass
+    * Cachexia
+* **Sentinel event**
+    * Fall
+    * Bereavement
+    * Transfer to care facility
+* Albumin <25g/L
+* **Advanced disease**
+    * Unstable
+    * Deteriorating
+    * Co-morbid
+* Persistent or **worsening symptoms** despite optimal treatment
+
+
+### Disease-Specific
+
+: Disease-Specific Features
+
++--------------------+-----------------------------------------------------+
+| Disease/System     | Features (⩾2 indicates ↑ risk)                      |
++====================+=====================================================+
+| **Malignancy**     | * Unable to tolerate chemo/radiotherapy             |
+|                    | * Altered chemotherapy regimen                      |
++--------------------+-----------------------------------------------------+
+| **Dementia**       | * Anorexia                                          |
+|                    | * No consistently meaningful conversation           |
+|                    | * Bulbar dysfunction                                |
+|                    |     * Aspiration                                    |
+|                    | * Double incontinence                               |
+|                    | * ↓ Social interaction                              |
+|                    | * ↑ Falls                                           |
+|                    | * Stage III/IV pressure areas                       |
+|                    | * Fracture neck of femur                            |
+|                    | * Recurrent infections                              |
++--------------------+-----------------------------------------------------+
+| **Cardiovascular** | * NYHA III/IV despite optimal medical therapy       |
+|                    | * >3 admissions in 6 months                         |
+|                    | * Single admission if aged >75\                     |
+|                    | 50% 1-year mortality.                               |
+|                    | * Ineligible for transplant                         |
+|                    | * Inoperable PVD                                    |
++--------------------+-----------------------------------------------------+
+| **Respiratory**    | * Resting breathlessness                            |
+|                    | * Dyspnoea after 100m on the flat                   |
+|                    | * Severe restrictive or obstructive disease         |
+|                    | * Home oxygen                                       |
+|                    | * Recent mechanical ventilation\                    |
+|                    | Including NIV.                                      |
+|                    | * Mechanical ventilation contraindicated            |
+|                    | * Right heart failure                               |
+|                    | * >6 weeks of corticosteroids in preceding 6 months |
++--------------------+-----------------------------------------------------+
+| **Neurological**   | * Physical or cognitive decline                     |
+|                    | * Bulbar dysfunction                                |
+|                    |     * Recurrent aspiration                          |
+|                    | * Paresis                                           |
++--------------------+-----------------------------------------------------+
+| **Renal**          | * eGFR <30mL/min                                    |
+|                    | * >3 unplanned admissions in the last year          |
+|                    | * Ceasing (or not starting) dialysis                |
+|                    | * Poor dialysis tolerance                           |
+|                    | * Symptomatic renal failure                         |
+|                    |     * Nausea/vomiting                               |
+|                    |     * Anorexia                                      |
+|                    |     * Uraemic pruritus                              |
++--------------------+-----------------------------------------------------+
+| **Hepatic**        | * Diuretic resistant ascites                        |
+|                    | * Hepatic encephalopathy                            |
+|                    | * Hepatorenal syndrome                              |
+|                    | * SBP                                               |
+|                    | * Recurrent variceal bleeds                         |
+|                    | * Ineligible for transplant                         |
++--------------------+-----------------------------------------------------+
+
+:::column-margin
+![Trajectory: Malignancy](/resources/eol_cancer.png)
+:::
+
+:::column-margin
+![Trajectory: Dementia](/resources/eol_dem.png)
+:::
+
+:::column-margin
+![Trajectory: Cardio/respiratory Failure](/resources/eol_hl.png)
+:::
+
+
+
+---
+
+## References
+
+1. Australian Commission for Safety and Quality in Healthcare. [Comprehensive Care Standard End-of-life care: clinical basics](https://www.safetyandquality.gov.au/sites/default/files/2020-11/End-of-life%20care%20-%20clinical%20basics.pdf). 2024.
+1. Lynn J, Adamson DM. Living Well at the End of Life:[ Adapting Health Care to Serious Chronic Illness in Old Age](https://www.rand.org/pubs/white_papers/WP137.html). RAND Corporation; 2002 Dec [cited 2024 Feb 1].
+1. Murray SA, Kendall M, Boyd K, Sheikh A. [Illness trajectories and palliative care](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC557152/). BMJ. 2005 Apr 30;330(7498):1007–11. 
