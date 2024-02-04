@@ -5,85 +5,188 @@ Avoid long-acting opioids in high-risk patients
 :::
 
 :::column-margin
-This section covers IV and PO opioids for analgesia. Harms of opioid medication are discussed separately under @sec-opioid_harm. Intrathecal administration of opioids are covered under @sec-intrathecal.
+This section covers use of opioids for analgesia and palliative care, with the exception of intrathecal opioids which are covered under @sec-intrathecal. Systemic harms of opioid medication are discussed separately under @sec-opioid_harm.
 :::
 
-General opioids:
+Opioid medications are:
 
-* Highly effective for somatic pain\
+* Highly **effective** for **somatic pain**\
 Act pre-synaptically and post-synaptically at multiple points.
-* Poor control of visceral pain
-* High doses can induce hyperalgesia\
-Particularly remifentanil.
+* **Ineffective** for **visceral pain**
+* **Induce hyperalgesia** with prolonged use\
+Proportional to the potency of the opioid
+* Associated with significant adverse effects and addiction potential
+
+
+## Management
+
+Prescribing principles:
+
+* All conventional opioids can produce the same level of analgesia
 * Slow release opioids should not be used as sole agents in early acute pain
-* Immediate-release opioids should be used for breakthrough pain
-* Pruritus can be reduced using:
-	* Naloxone
-	* Naltrexone
-	* Droperidol
-* OIVI\
-Particularly in high-risk groups.
-	* Sedation\
-	Sedation is a better predictor of ventilatory impairment than respiratory rate.
-	* ↓ Oropharyngeal tone
-	* Elevated CO~2~ set point
-* Opioid use ↑ risk of falls and impairs driving
+* Immediate-release opioids should be used for breakthrough pain\
+Breakthrough dosing is 1/6^th^ to 1/12^th^ of daily dose.
 
 
-Addiction and divergence:
+Considerations for PCA:
 
-* Short-term opioid therapy may lead to long term use
-* Many patients who retain unused opioid tablets are willing to share them with others
-* The most common source of prescription opioids for non-medical use is a friend or relative
-* Poorly managed acute pain may reduce retention in opioid-maintenance programs
-* Methadone and buprenorphine maintenance should be continued throughout acute pain episodes wherever possible
-
-
-Patches:
-
-* Transdermal fentanyl patches should not be used in acute pain
-
-
-PCAs:
-
+* Require a competent patient
+	* Can comprehend how and when to (appropriately) use the machine
+	* Physically capable of pressing button
 * Improve analgesia\
 Except where there are high nurse:patient ratios.
-* Subcutaneous PCA is as effective as IV PCA
 * Improve patient satisfaction
-* ↑ opioid consumption
+* ↑ Opioid consumption
+* Have equal efficacy SC or IV
 
 
-Methadone:
+Considerations for transdermal patches:
 
-* Old, synthetic, and cheap
-* Some NMDA affinity
-* High interindividual pharmacokinetic variability
-* Long half life of up to 60 hours\
-May lead to prolonged respiratory depression in overdose.
-* High dose may prolong QT interval\
-TDP associated with chronic high dose, rather than single perioperative dosing.
-* 0.2mg/kg (up to 20mg) at induction reduces PCA use by 48 hours in spinal surgery
-
-
-Tramadol:
-
-* Mixed receptor activity
-* Relatively high NNT
-* Effective in neuropathic pain
-* Minimal improvement in pain score, but better subjective opinion of pain
+* Should not be commenced in acute pain
+* Require regular doses of immediate release opioid for first 12 hours following application
+* If converting from a slow-release opioid, ensure a 12-hour crossover, e.g.
+	* If 12-hour opioid, give the final dose of slow-release opioid when giving the patch
+	* If 24-hour opioid, give the patch 12 hours after the final dose of opioid
+* If converting from a CSCI, then continue a:
+	* Morphine infusion for 8-12 hours
+	* Fentanyl infusion for 6 hours
 
 
-Tapentadol:
+### Specific Agents
 
-* Similar efficacy to other opioids with a reduced rate of GIT side effects
+: Comparison of Opioids
+
++---------------+---------------------------------------------------------------------------------+---------------------------+
+| Agent         | Considerations                                                                  | Dosing                    |
++===============+=================================================================================+===========================+
+|               |                                                                                 |                           |
++---------------+---------------------------------------------------------------------------------+---------------------------+
+| **Tramadol**  | * Mixed receptor activity                                                       |                           |
+|               | * Relatively high NNT                                                           |                           |
+|               | * Effective in neuropathic pain                                                 |                           |
+|               | * Minimal improvement in pain score, but better subjective opinion of pain      |                           |
++---------------+---------------------------------------------------------------------------------+---------------------------+
+| **Methadone** | * Old, synthetic, and cheap                                                     | Naive patient:            |
+|               | * Some NMDA affinity                                                            |                           |
+|               | * High interindividual pharmacokinetic variability                              | * 0.2mg/kg IV, up to 20mg |
+|               | * Long half-life                                                                | * 2.5mg PO BD\            |
+|               |      * Up to 60 hours                                                           | Titrate weekly.           |
+|               |      * May lead to prolonged respiratory depression                             |                           |
+|               | * High dose may ↑ QT interval\                                                  |                           |
+|               | TDP associated with chronic high dose, rather than single perioperative dosing. |                           |
+|               | * Complex drug interactions via CYP3A4                                          |                           |
++---------------+---------------------------------------------------------------------------------+---------------------------+
 
 
-Buprenorphine:
+### Opioid Rotation
 
-* Has a ceiling effect for the respiratory depression but not for the analgesia
+:::info
+**Opioid conversion is** an **inexact** science. Dosing considerations should include:
+
+* Duration of opioid therapy
+* Current pain severity
+* Use of PRN medication
+* Organ impairment
+:::
+
+Steps for opioid conversion:
+
+:::column-margin
+This in-exactness is supported by the fact that two peak bodies have published inconsistent guidelines. Most conversion studies are based on single-doses in opioid-näive patients.
+:::
+
+1. Calculate the current background 24-hour opioid requirement
+2. Convert this to an oral morphine\
+This produces the 24-hour OME.
+3. Dose reduce by 25-50%, due to incomplete cross-tolerance\
+↑ Extent of dose reduction in groups at risk of opioid toxicity.
+4. Convert this OME to the new opioid, and round to a practically convenient dose.
+5. Dose breakthrough at 1/6^th^ to 1/12^th^ of the daily dose
+
+
+: Equianalgesic Opioid Conversion Table
+
++-------------------+-------+---------------------+-----------+-----------------------------------------------------------------------+
+| Drug              | Route | Ratio               | 30mg OME  | Considerations                                                        |
++===================+=======+=====================+===========+=======================================================================+
+| **Morphine**      | PO    | 1:1                 | 30mg      |                                                                       |
+|                   +-------+---------------------+-----------+-----------------------------------------------------------------------+
+|                   | IV    | 3:1                 | 10mg      |                                                                       |
+|                   +-------+---------------------+-----------+-----------------------------------------------------------------------+
+|                   | SC    | 2-3:1               | 10-15mg   |                                                                       |
++-------------------+-------+---------------------+-----------+-----------------------------------------------------------------------+
+| **Oxycodone**     | PO    | 1.5:1               | 20mg      |                                                                       |
+|                   +-------+---------------------+-----------+-----------------------------------------------------------------------+
+|                   | IV    | 3:1                 | 10mg      |                                                                       |
+|                   +-------+---------------------+-----------+-----------------------------------------------------------------------+
+|                   | SC    | 3:1                 | 10mg      | * 2:1 conversion from PO oxycodone                                    |
+|                   |       |                     |           | * Identical to SC morphine                                            |
++-------------------+-------+---------------------+-----------+-----------------------------------------------------------------------+
+| **Fentanyl**      | Top   | 100:1^\*^           | 300μg     | * Given as 24-hourly doses\                                           |
+|                   |       |                     |           | e.g. 300μg = 12μg/hr patch.                                           |
+|                   |       |                     |           | * Elimination half-life is 13-22 hours                                |
+|                   +-------+---------------------+-----------+-----------------------------------------------------------------------+
+|                   | SC    | 75:1^\*^            | 450μg     |                                                                       |
++-------------------+-------+---------------------+-----------+-----------------------------------------------------------------------+
+| **Buprenorphine** | Top   | 75-100:1^\*^        | 300μg     | * Given as 24-hourly doses\                                           |
+|                   |       |                     |           | e.g. 300μg = 12μg/hr patch.                                           |
+|                   |       |                     |           | * Terminal half-life is ~24 hours                                     |
+|                   +-------+---------------------+-----------+-----------------------------------------------------------------------+
+|                   | SL    | 40:1                | 750μg     | * Buprenorphine to oxycodone is ~20:1\                                |
+|                   |       |                     |           | e.g. 200μg buprenorphine ≃ 5mg oxycodone.                             |
+|                   |       |                     |           | * Conversion ratio is identical for naloxone combination preparations |
++-------------------+-------+---------------------+-----------+-----------------------------------------------------------------------+
+| **Hydromorphone** | PO    | 5:1                 | 6mg       |                                                                       |
+|                   +-------+---------------------+-----------+-----------------------------------------------------------------------+
+|                   | SC    | 5:1                 | 6mg       | * Identical to PO hydromorphone                                       |
++-------------------+-------+---------------------+-----------+-----------------------------------------------------------------------+
+| **Tapentadol**    | PO    | 1:3                 | 90mg      |                                                                       |
++-------------------+-------+---------------------+-----------+-----------------------------------------------------------------------+
+| **Tramadol**      | PO    | 1:5-10              | 150-300mg |                                                                       |
++-------------------+-------+---------------------+-----------+-----------------------------------------------------------------------+
+| **Codeine**       | PO    | 1:10                | 300mg     |                                                                       |
++-------------------+-------+---------------------+-----------+-----------------------------------------------------------------------+
+| **Methadone**     | PO    | 4:1 (30-90mg OME)   | 7.5mg     | * Methadone conversion is **complex** and requires specific expertise |
+|                   |       +---------------------+-----------+     * Recommended use TDS dosing initially                            |
+|                   |       | 8:1 (90-300mg OME)  | ~4mg      |     * Complex conversions should occur in an inpatient setting        |
+|                   |       +---------------------+-----------+ * Use previous opioid for breakthrough                                |
+|                   |       | 12:1 (>300mg OME)   | 2.5mg     | * Round down                                                          |
+|                   +-------+---------------------+-----------+-----------------------------------------------------------------------+
+|                   | SC    | \-                  | \-        | * 1-2:1 conversion from PO methadone                                  |
++-------------------+-------+---------------------+-----------+-----------------------------------------------------------------------+
+| ^\*^Fentanyl and buprenorphine conversions include a unit change.                                                                   |
++-------------------------------------------------------------------------------------------------------------------------------------+
+
+
+### Adverse Effects
+
+: Management of Adverse Opioid Effects
+
++---------------+----------------------------------------------------------------------------------------------------------------+--------------------+
+| Effect        | Considerations                                                                                                 | Management         |
++===============+================================================================================================================+====================+
+| **OIVI**      | * Sedation is a better predictor of ventilatory impairment than respiratory rate                               | * Monitoring       |
+|               | * ↑ Concern in high-risk groups                                                                                | * Naloxone 20-40μg |
++---------------+----------------------------------------------------------------------------------------------------------------+--------------------+
+| **Pruritus**  | * ↑ Risk with histamine-releasing agents\                                                                      | * Nalaxone         |
+|               | e.g. Morphine.                                                                                                 | * Naltrexone       |
+|               |                                                                                                                | * Droperidol       |
++---------------+----------------------------------------------------------------------------------------------------------------+--------------------+
+| **Addiction** | * Short-term opioid therapy may lead to long term use                                                          |                    |
+|               | * Many patients who retain unused opioid tablets are willing to share them with others                         |                    |
+|               | * The most common source of prescription opioids for non-medical use is a friend or relative                   |                    |
+|               | * Poorly managed acute pain may reduce retention in opioid-maintenance programs                                |                    |
+|               | * Methadone and buprenorphine maintenance should be continued throughout acute pain episodes wherever possible |                    |
++---------------+----------------------------------------------------------------------------------------------------------------+--------------------+
+| **Falls**     |                                                                                                                |                    |
++---------------+----------------------------------------------------------------------------------------------------------------+--------------------+
+
 
 ---
 
 ## References
 
 1. Schug SA, Palmer GM, Scott DA, Alcock M, Halliwell R, Mott JF; APM:SE Working Group of the Australian and New Zealand College of Anaesthetists and Faculty of Pain Medicine (2020), [Acute Pain Management: Scientific Evidence](https://www.anzca.edu.au/resources/college-publications/acute-pain-management/apmse5.pdf) (5th edition), ANZCA & FPM, Melbourne.
+1. Safer Care Victoria. [Opioid Conversion Ratios](https://www.safercare.vic.gov.au/sites/default/files/2021-02/GUIDANCE_Opioid%20Conversion%20FINAL_0.pdf). 2021.
+1. Faculty of Pain Medicine. [Opioid Dose Equivalence Calculation Table](https://www.anzca.edu.au/getattachment/6892fb13-47fc-446b-a7a2-11cdfe1c9902/PS01(PM)-(Appendix)-Opioid-Dose-Equivalence-Calculation-Table). ANZCA.
+1. Best Practice Advisory Centre. [Methadone - Safe and Effective Use for Chronic Pain](https://bpac.org.nz/BPJ/2008/December/docs/bpj18_methadone_pages_24-29.pdf). 2008.
