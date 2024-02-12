@@ -19,6 +19,7 @@ Due to saliva buildup in the throat.
 Dying is the physical and emotional experience of gradually becoming weaker and letting go of the attachment to living.
 :::
 
+
 ## Management
 
 :::priority
@@ -35,6 +36,7 @@ A patients death is often a challenging time for colleagues used to treating pat
 :::column-margin
 Therapeutic interventions may be advocated for by families or other clinicians. A useful compromise is a time-limited (e.g. up to 48 hours) trial of a therapeutic intervention, which would be ceased if some threshold of improvement is not met.
 :::
+
 
 ### Family
 
@@ -113,7 +115,7 @@ Regular medication should be reviewed when patients become unable to safely take
 Management of withdrawal symptoms should always occur by a parenteral route.
 :::
 
-### Symptom Control
+### Anticipatory Prescribing
 
 : Management of Symptoms in the Last Days of Life
 
@@ -139,8 +141,14 @@ Management of withdrawal symptoms should always occur by a parenteral route.
 |                             | If anxious.                                                                                                                                                        |                                                            |                                                                                                           |
 |                             | * Avoid stacking care                                                                                                                                              |                                                            |                                                                                                           |
 +-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
+| **Restlessness**            | * Non-pharmacological                                                                                                                                              | * Midazolam 2.5mg Q12H SC                                  | Midazolam preferable as clonazepam is at risk of accumulation and oversedation.                           |
+|                             |     * Soft musing                                                                                                                                                  | * Clonazepam 0.25-0.5mg Q12H SC/SL                         |                                                                                                           |
+|                             |     * Repositioning                                                                                                                                                | * Haloperidol 0.5-1mg SC Q2H up to 5mg in 24/24            | Reserve antipsychotics for symptoms refractory to benzodiazepines.                                        |
+|                             |     * Bladder scan                                                                                                                                                 |                                                            |                                                                                                           |
+|                             |     * Massage                                                                                                                                                      |                                                            |                                                                                                           |
++-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
 | **Gurgling**                | * Regular mouth care                                                                                                                                               | * Hyoscine butylbromide 20mg Q2-4H SC up to 120mg in 24/24 | Cease if ineffective after 3 doses.                                                                       |
-|                             | * Consider anticholinergic                                                                                                                                         |                                                            |                                                                                                           |
+|                             | * Consider anticholinergic                                                                                                                                         | * Glycopyrrolate 200μg Q4H SC                              |                                                                                                           |
 +-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
 | **Nausea/vomiting**         | * Antiemetics                                                                                                                                                      | * Metoclopramide 10mg Q4H SC up to 30mg                    | Ondansetron preferred if risk of EPS or PD.                                                               |
 |                             | * Haloperidol                                                                                                                                                      | * Haloperidol 0.5-1mg Q4H SC up to 5mg in 24/24            |                                                                                                           |
@@ -164,20 +172,63 @@ Management of withdrawal symptoms should always occur by a parenteral route.
 |                             | * Familiarise environment                                                                                                                                          |                                                            |                                                                                                           |
 |                             | * Consider **antipsychotics**                                                                                                                                      |                                                            |                                                                                                           |
 +-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
-| **Restlessness**            | * Non-pharmacological                                                                                                                                              | * Midazolam 2.5mg Q12H SC                                  | Midazolam preferable as clonazepam is at risk of accumulation and oversedation.                           |
-|                             |     * Soft musing                                                                                                                                                  | * Clonazepam 0.25-0.5mg Q12H SC                            |                                                                                                           |
-|                             |     * Repositioning                                                                                                                                                | * Haloperidol 0.5-1mg SC Q2H up to 5mg in 24/24            | Reserve antipsychotics for symptoms refractory to benzodiazepines.                                        |
-|                             |     * Bladder scan                                                                                                                                                 |                                                            |                                                                                                           |
-|                             |     * Massage                                                                                                                                                      |                                                            |                                                                                                           |
-+-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
 
 :::column-margin
 Anticipatory prescribing is important, and involves ensuring that medications for common symptoms such as breathlessness, pain, nausea and constipation are available for PRN use.
 :::
 
 :::column-margin
+A **butterfly needle** should be inserted subcutaneously to allow repeated administration of subcutaneous PRN medications.
+:::
+
+
+:::column-margin
 Regular patient assessments should be performed to titrate therapy.
 :::
+
+
+### Continuous Subcutaneous Infusions
+
+If intermittent subcutaneous boluses are required frequently or become ineffective, CSCI medication should be considered. CSCI allows for:
+
+* Continual drug delivery, leading to more stable plasma levels
+* Bypass of any limitations to oral agents
+	* Inability (or unsafe) swallow
+	* Physical UGI obstruction
+	* Weakness
+	* Obtundation
+* Portable medication delivery for ambulant patients
+* At-home delivery (with daily nursing attendance to change driver)
+* Multiple drugs to be used\
+Up to 4 may be used, but 3 is preferable due to risk of precipitation. Compatibility should be reviewed.
+
+
+Prescribing:
+
+* **Diluent**
+	* Normal saline may ↑ risk of precipitation\
+	Cyclizine and diamorphine are incompatible.
+	* Water may cause pain on injection due to hypotonicity
+* **Titration**\
+↑ By 50-100%, based on PRN use.
+* Ensure that doses of breakthrough medicine are appropriate for the concentration in the driver.
+* **Agents**\
+Indications include:
+	* Analgesia
+	* Sedation\
+	For agitation or terminal restlessness.
+	* Nausea
+
+
+### Palliative Sedation
+
+Palliative sedation describes the use of proportionate sedation to relieve suffering from intractable symptoms. Palliative sedation is:
+
+* Controversial
+* Distinct from euthanasia or assisted dying
+* Reserved for refractory or intractable symptoms\
+This may include existential distress, but this requires considered decision making.
+* Considered in patients in the last period of their life
 
 
 ## After Death
@@ -206,7 +257,7 @@ Discuss the:
 	* Change in temperature\
 	Particularly if the body is cold.
 	* The
-* Offering them the chance to remove jewellery
+* Offering them the chance to remove jewelery
 
 ---
 
@@ -214,5 +265,6 @@ Discuss the:
 
 1. Australian Commission for Safety and Quality in Healthcare. [Comprehensive Care Standard End-of-life care: clinical basics](https://www.safetyandquality.gov.au/sites/default/files/2020-11/End-of-life%20care%20-%20clinical%20basics.pdf). 2024.
 1. Lynn J, Adamson DM. Living Well at the End of Life:[ Adapting Health Care to Serious Chronic Illness in Old Age](https://www.rand.org/pubs/white_papers/WP137.html). RAND Corporation; 2002 Dec [cited 2024 Feb 1].
-2. South Australia Health. [Medication Cessation for Adults in the Last Days of Life](https://www.sahealth.sa.gov.au/wps/wcm/connect/5fc189804a24008cb979f990d529bdaa/Medication+Cessation+for+Adults+in+the+Last+Days+of+Life+Fact+Sheet.pdf). August 2023.
-3. South Australia Health. [Prescribing Guidelines for the Pharmacological Management for Adults in the Last Days of Life.](https://www.sahealth.sa.gov.au/wps/wcm/connect/f532fc004a0f0746a22fe290d529bdaa/Prescribing+Guidelines+for+the+Pharmacological+Management+of+Symptoms+for+Adults+in+the+Last+Days+of+Life.pdf). August 2023.
+1. South Australia Health. [Medication Cessation for Adults in the Last Days of Life](https://www.sahealth.sa.gov.au/wps/wcm/connect/5fc189804a24008cb979f990d529bdaa/Medication+Cessation+for+Adults+in+the+Last+Days+of+Life+Fact+Sheet.pdf). August 2023.
+1. South Australia Health. [Prescribing Guidelines for the Pharmacological Management for Adults in the Last Days of Life.](https://www.sahealth.sa.gov.au/wps/wcm/connect/f532fc004a0f0746a22fe290d529bdaa/Prescribing+Guidelines+for+the+Pharmacological+Management+of+Symptoms+for+Adults+in+the+Last+Days+of+Life.pdf). August 2023.
+1. Safer Care Victoria. [Palliative sedation therapy](https://www.safercare.vic.gov.au/sites/default/files/2020-03/GUIDANCE_Palliative%20sedation%20therapy%20FINAL.pdf). August 2024.

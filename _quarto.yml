@@ -134,7 +134,6 @@ book:
             - management/dying/goals.qmd
             - management/dying/end_of_life.qmd
             - management/dying/dying.qmd
-            - management/dying/last.qmd
         - part: "Team"
           chapters:
           - management/team/zps.qmd

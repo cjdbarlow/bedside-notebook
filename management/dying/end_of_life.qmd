@@ -81,61 +81,61 @@ The **end of life** is the period when a patient is **living with and impaired b
 
 : Disease-Specific Features
 
-+--------------------+-----------------------------------------------------+
-| Disease/System     | Features (⩾2 indicates ↑ risk)                      |
-+====================+=====================================================+
-| **Malignancy**     | * Unable to tolerate chemo/radiotherapy             |
-|                    | * Altered chemotherapy regimen                      |
-+--------------------+-----------------------------------------------------+
-| **Dementia**       | * Anorexia                                          |
-|                    | * No consistently meaningful conversation           |
-|                    | * Bulbar dysfunction                                |
-|                    |     * Aspiration                                    |
-|                    | * Double incontinence                               |
-|                    | * ↓ Social interaction                              |
-|                    | * ↑ Falls                                           |
-|                    | * Stage III/IV pressure areas                       |
-|                    | * Fracture neck of femur                            |
-|                    | * Recurrent infections                              |
-+--------------------+-----------------------------------------------------+
-| **Cardiovascular** | * NYHA III/IV despite optimal medical therapy       |
-|                    | * >3 admissions in 6 months                         |
-|                    | * Single admission if aged >75\                     |
-|                    | 50% 1-year mortality.                               |
-|                    | * Ineligible for transplant                         |
-|                    | * Inoperable PVD                                    |
-+--------------------+-----------------------------------------------------+
-| **Respiratory**    | * Resting breathlessness                            |
-|                    | * Dyspnoea after 100m on the flat                   |
-|                    | * Severe restrictive or obstructive disease         |
-|                    | * Home oxygen                                       |
-|                    | * Recent mechanical ventilation\                    |
-|                    | Including NIV.                                      |
-|                    | * Mechanical ventilation contraindicated            |
-|                    | * Right heart failure                               |
-|                    | * >6 weeks of corticosteroids in preceding 6 months |
-+--------------------+-----------------------------------------------------+
-| **Neurological**   | * Physical or cognitive decline                     |
-|                    | * Bulbar dysfunction                                |
-|                    |     * Recurrent aspiration                          |
-|                    | * Paresis                                           |
-+--------------------+-----------------------------------------------------+
-| **Renal**          | * eGFR <30mL/min                                    |
-|                    | * >3 unplanned admissions in the last year          |
-|                    | * Ceasing (or not starting) dialysis                |
-|                    | * Poor dialysis tolerance                           |
-|                    | * Symptomatic renal failure                         |
-|                    |     * Nausea/vomiting                               |
-|                    |     * Anorexia                                      |
-|                    |     * Uraemic pruritus                              |
-+--------------------+-----------------------------------------------------+
-| **Hepatic**        | * Diuretic resistant ascites                        |
-|                    | * Hepatic encephalopathy                            |
-|                    | * Hepatorenal syndrome                              |
-|                    | * SBP                                               |
-|                    | * Recurrent variceal bleeds                         |
-|                    | * Ineligible for transplant                         |
-+--------------------+-----------------------------------------------------+
++--------------------+------------------------------------------------------+
+| Disease/System     | Features (⩾2 indicates ↑ risk)                       |
++====================+======================================================+
+| **Malignancy**     | * Unable to tolerate chemo/radiotherapy              |
+|                    | * Altered chemotherapy regimen                       |
++--------------------+------------------------------------------------------+
+| **Dementia**       | * Anorexia                                           |
+|                    | * No consistently meaningful conversation            |
+|                    | * Bulbar dysfunction                                 |
+|                    |     * Aspiration                                     |
+|                    | * Double incontinence                                |
+|                    | * ↓ Social interaction                               |
+|                    | * ↑ Falls                                            |
+|                    | * Stage III/IV pressure areas                        |
+|                    | * Fracture neck of femur                             |
+|                    | * Recurrent infections                               |
++--------------------+------------------------------------------------------+
+| **Cardiovascular** | * NYHA III/IV despite optimal medical therapy        |
+|                    | * \>3 admissions in 6 months                         |
+|                    | * Single admission if aged >75\                      |
+|                    | 50% 1-year mortality.                                |
+|                    | * Ineligible for transplant                          |
+|                    | * Inoperable PVD                                     |
++--------------------+------------------------------------------------------+
+| **Respiratory**    | * Resting breathlessness                             |
+|                    | * Dyspnoea after 100m on the flat                    |
+|                    | * Severe restrictive or obstructive disease          |
+|                    | * Home oxygen                                        |
+|                    | * Recent mechanical ventilation\                     |
+|                    | Including NIV.                                       |
+|                    | * Mechanical ventilation contraindicated             |
+|                    | * Right heart failure                                |
+|                    | * \>6 weeks of corticosteroids in preceding 6 months |
++--------------------+------------------------------------------------------+
+| **Neurological**   | * Physical or cognitive decline                      |
+|                    | * Bulbar dysfunction                                 |
+|                    |     * Recurrent aspiration                           |
+|                    | * Paresis                                            |
++--------------------+------------------------------------------------------+
+| **Renal**          | * eGFR <30mL/min                                     |
+|                    | * \>3 unplanned admissions in the last year          |
+|                    | * Ceasing (or not starting) dialysis                 |
+|                    | * Poor dialysis tolerance                            |
+|                    | * Symptomatic renal failure                          |
+|                    |     * Nausea/vomiting                                |
+|                    |     * Anorexia                                       |
+|                    |     * Uraemic pruritus                               |
++--------------------+------------------------------------------------------+
+| **Hepatic**        | * Diuretic resistant ascites                         |
+|                    | * Hepatic encephalopathy                             |
+|                    | * Hepatorenal syndrome                               |
+|                    | * SBP                                                |
+|                    | * Recurrent variceal bleeds                          |
+|                    | * Ineligible for transplant                          |
++--------------------+------------------------------------------------------+
 
 :::column-margin
 ![Trajectory: Malignancy](/resources/eol_cancer.png)
