@@ -141,10 +141,10 @@ Management of withdrawal symptoms should always occur by a parenteral route.
 |                             | If anxious.                                                                                                                                                        |                                                            |                                                                                                           |
 |                             | * Avoid stacking care                                                                                                                                              |                                                            |                                                                                                           |
 +-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
-| **Restlessness**            | * Non-pharmacological                                                                                                                                              | * Midazolam 2.5mg Q12H SC                                  | Midazolam preferable as clonazepam is at risk of accumulation and oversedation.                           |
-|                             |     * Soft musing                                                                                                                                                  | * Clonazepam 0.25-0.5mg Q12H SC/SL                         |                                                                                                           |
-|                             |     * Repositioning                                                                                                                                                | * Haloperidol 0.5-1mg SC Q2H up to 5mg in 24/24            | Reserve antipsychotics for symptoms refractory to benzodiazepines.                                        |
-|                             |     * Bladder scan                                                                                                                                                 |                                                            |                                                                                                           |
+| **Restlessness**            | * Non-pharmacological                                                                                                                                              | * Midazolam 2.5mg Q12H SC                                  | * Midazolam preferable as clonazepam is at risk of accumulation and oversedation                          |
+|                             |     * Soft musing                                                                                                                                                  | * Clonazepam 0.25-0.5mg Q12H SC/SL                         | * Reserve antipsychotics for symptoms refractory to benzodiazepines                                       |
+|                             |     * Repositioning                                                                                                                                                | * Haloperidol 0.5-1mg SC Q2H up to 5mg in 24/24            | * Severe distress may require more aggressive therapy\                                                    |
+|                             |     * Bladder scan                                                                                                                                                 | * Levomepromazine 12.5-50mg SC Q1H                         | See **terminal agitation**, below.                                                                        |
 |                             |     * Massage                                                                                                                                                      |                                                            |                                                                                                           |
 +-----------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
 | **Gurgling**                | * Regular mouth care                                                                                                                                               | * Hyoscine butylbromide 20mg Q2-4H SC up to 120mg in 24/24 | Cease if ineffective after 3 doses.                                                                       |
@@ -218,6 +218,50 @@ Indications include:
 	* Sedation\
 	For agitation or terminal restlessness.
 	* Nausea
+
+
+### Terminal Agitation
+
+Severe distress may occur at the end of life, which may:
+
+* Manifest as agitation, aggression, or emotional lability
+* Be due to physical, psychological, social, or spiritual causes
+
+
+Assessment should rule out easily reversible precipitants, including:
+
+* Drug withdrawal
+	* Alcohol
+	* Nicotine
+	* Smoking
+* Constipation
+* Urinary retention
+* Paradoxical benzodiazepine reaction
+
+
+: Management of Terminal Agitation
+
++-------+--------------------------------------------------------+
+| Step  | Management                                             |
++=======+========================================================+
+| 1     | * Correct reversible causes                            |
+|       | * Midazolam 5mg SC Q1H PRN                             |
++-------+--------------------------------------------------------+
+| 2     | * Midazolam 10-20mg CSCI                               |
+|       | * Midazolam 5-10mg SC Q1H PRN                          |
++-------+--------------------------------------------------------+
+| 3     | * ↑ Midazolam CSCI up to 60mg                          |
+|       | * Add 100-300 mg levomepromazine to CSCI               |
+|       | * Levomepromazine 25-50mg SC Q1H PRN                   |
++-------+--------------------------------------------------------+
+| 4     | * Phenobarbital 50-200mg SC Q1H PRN                    |
+|       | * Add phenobarbital 600-1200mg to CSCI                 |
++-------+--------------------------------------------------------+
+| Note:                                                          |
+|                                                                |
+| * Consider specialist palliative care involvement after step 2 |
+| * Phenobarbitone should be run in a separate infusion          |
++----------------------------------------------------------------+
 
 
 ### Palliative Sedation
