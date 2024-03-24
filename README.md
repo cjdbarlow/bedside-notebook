@@ -1,3 +1,3 @@
-# The Bedside Scientist
+# The Bedside Notebook
 
 FOAM for anaesthesia.

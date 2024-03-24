@@ -43,7 +43,7 @@ format:
     filters: [scripts/glossary.lua]
   # pdf:
   #     # General Settings
-  #     title: "The Bedside Scientist"
+  #     title: "The Bedside Notebook"
   #     author: "C. Jake Barlow"
   #     keep-tex: true
   #     # Theming
@@ -64,7 +64,7 @@ format:
 # Content
 book:
     # General settings
-    title: "The Bedside Scientist"
+    title: "The Bedside Notebook"
     # Table of Contents
     chapters:
     - index.qmd
