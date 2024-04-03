@@ -1,6 +1,6 @@
 # Shared Decision Making {#sec-shared}
 
-Shared decision making is a two-way conversation between healthcare staff and the patient and their family, aiming to develop a medical plan which is tailored to the patients individual values. The overall goal which is to understand what the patient would want.
+Shared decision making is a two-way conversation between healthcare staff and the patient and their family, aiming to develop a medical plan which is tailored to the patients individual values. The overall goal which is to empower the patient to make the decision they would make if they knew all the medical information that you do.
 
 Key aspects of this conversation are to understand:
 
@@ -22,16 +22,17 @@ What does the patient understand about their diagnosis?
 Fill any gaps in the patients knowledge of their disease.
 3. **Explore**\
 Get to know the patient as a person. Find out:
-	* Values
-	* Goals
-	* Hopes
-	* Fears
-	* Functional state
+	* Values and goals
+	* Hopes and fears
+	* Illness vs. disease perspective
+	* Presence and role of advocates
 4. **Options**\
 Provide options to the patient, and discuss what the expected outcomes with each would be.
 5. **Advise**\
 Find out how much patients want to be guided by the medical teams.
 	* ~75% of patients want advice from medical teams
+	* ~20% want to defer the decision to the clinician
+	* ~5% want to decide on their own
 6. **Agree**\
 Find a plan that is suitable.
 7. **Communicate**\
@@ -43,6 +44,13 @@ Giving good advice requires understanding the patient; the critical steps here a
 * Explore
 * Options
 * Advise
+:::
+
+:::column-margin
+**Prognostic discordance** occurs when patients and clinicians have different understanding of their disease:
+
+* Often patients have a more optimistic view of their prognosis
+* Discordance may lead to apparently contradictory wishes being expressed
 :::
 
 ---
