@@ -231,6 +231,7 @@ Efficacy dependent on the time that antibiotic concentration exceeds MIC, but no
 		Time over MIC is important only in the tissue where the infection is, which may not be in blood (where we measure concentrations).
 	* Lend themselves to **dosing by infusion**
 		* Benefits (at steady-state) include:
+			* ↓ Mortality compared to intermittent dosing
 			* ↑ Time above MIC, which should ↑ efficacy and ↓ 
 			* ↓ Peak concentration, which generally ↓ toxicity
 			* ↓ Nursing workload
@@ -238,7 +239,7 @@ Efficacy dependent on the time that antibiotic concentration exceeds MIC, but no
 			* ↓ Concentration gradient driving diffusion into tissues
 			* Most drugs are not *pure* time-dependent killers, and ↑ concentration still results in some ↑ efficacy
 			* MIC is not known in early stages of treatment
-			* Consumes a lumen continuously
+			* Requires continuous use of a lumen
 		* May ↓ ventilator days without clear evidence of mortality benefit, with greatest effect seen in the critically ill
 	* Examples include:
 		* β-lactam
@@ -372,6 +373,7 @@ Administration is unchanged due to:
 ## Key Studies
 
 {{< include /trials/fabled.qmd >}}
+{{< include /trials/brett_abx.qmd >}}
 
 
 ---

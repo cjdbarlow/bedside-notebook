@@ -27,6 +27,9 @@ Persistent Critical Illness/Recovery (>7-10 days).
 	* Patients will generally require full nutritional support\
 	i.e. Calorie intake matches expenditure.
 
+:::column-margin
+We define these periods by days, but it is likely that time is a proxy for another physiological process. It is reasonable to think that a recovering patient who deteriorates later in their admission (e.g. ICU-acquired sepsis) will return to the acute phase of illness, and that feeding should be adjusted accordingly.
+:::
 
 ## Nutrition Assessment
 

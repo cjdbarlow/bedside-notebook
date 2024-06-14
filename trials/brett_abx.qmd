@@ -1,0 +1,9 @@
+* [Prolonged vs Intermittent Infusions of β-Lactam Antibiotics in Adults With Sepsis or Septic Shock](https://jamanetwork.com/journals/jama/fullarticle/2819970) (2024)
+	* β-Lactam antibiotics are commonly used as first-line agents in sepsis, and their bactericidal activity is related to time-above MIC
+	* A series of RCTs comparing intermittent dosing to continuous infusion have been performed\
+	These include [BLING-II](https://www.atsjournals.org/doi/10.1164/rccm.201505-0857OC), [MERCY](https://jamanetwork.com/journals/jama/fullarticle/2806400), and [BLING-III](https://jamanetwork.com/journals/jama/fullarticle/2819971).
+	* Meta-analysis was strongly suggestive of ↓ 90-day mortality with the use of an intermittent infusion
+
+:::column-margin
+![90-Day Mortality of Continuous vs. Intermittent Antibiotic Infusions](/resources/brett_abx.png)
+:::
