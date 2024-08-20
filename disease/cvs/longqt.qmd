@@ -1,7 +1,6 @@
-# Long QT Syndrome
+# Long QT
 
-
-Prolonged ventricular repolarisation which ↑ risk of **polymorphic ventricular tachycardia**. Polymorphic VT:
+Prolonged duration of ventricular repolarisation which ↑ risk of **polymorphic ventricular tachycardia**. Polymorphic VT:
 
 :::column-margin
 The QT interval varies with and must be corrected for the heart rate.\
@@ -22,6 +21,7 @@ $$QTc = {QT \over \sqrt{R \textendash R \ Interval}}$$
 		* Pain
 * Occurs with ↑ risk with ↑ QTc\
 	* Borderline 440-470ms
+	* High with QTc >500ms
 
 ## Epidemiology and Risk Factors
 

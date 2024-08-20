@@ -193,7 +193,7 @@ Determination of pseudo-seizures can be difficult and is best confirmed with EEG
 Jerking and tonic posturing is common in syncope. The **10/20 rule** states:
 
 * <10 jerks is likely secondary to syncope
-* >20 jerks is a convulsive seizure
+* \>20 jerks is a convulsive seizure
 :::
 
 ## Investigations

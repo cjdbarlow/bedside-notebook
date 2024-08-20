@@ -1,6 +1,6 @@
 # Shared Decision Making {#sec-shared}
 
-Shared decision making is a two-way conversation between healthcare staff and the patient and their family, aiming to develop a medical plan which is tailored to the patients individual values. The overall goal which is to empower the patient to make the decision they would make if they knew all the medical information that you do.
+Shared decision making is a two-way conversation between healthcare staff and the patient and their family, aiming to develop a **goal-orientated** medical plan which is tailored to the patients individual values. The overall goal which is to empower the patient to make the decision they would make if they knew all the medical information that you do.
 
 Key aspects of this conversation are to understand:
 
@@ -9,6 +9,20 @@ Key aspects of this conversation are to understand:
 	* What do they enjoy doing?
 	* What quality of life would be unacceptable to them?
 * What is their risk appetite like? How much medical treatment would they be willing to undergo?
+
+:::column-margin
+The traditional approach generally assumes:
+
+* Survival is the (only) goal
+* Death is a medical failure
+* The disease is the most important issue
+
+Conversely, a goal-orientated approach assumes:
+
+* Survival is one of several possible goals
+* A *bad* death is a medical failure
+* The person is the most important issue
+:::
 
 ## Seven Steps
 
