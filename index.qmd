@@ -3,15 +3,15 @@
 (This hidden content section allows the toc to be named independently from the page)
 :::
 
-This is a collection of notes from my anaesthetic training and ANZCA Second Part exam, which is currently being expanded for the CICM Second Part exam.
+This is a collection of notes from my anaesthetic and intensive care training, including the ANZCA Second Part exam and the CICM Fellowship exam.
 
-Unlike [Part One](https://partone.litfl.com/), which is (or at least, was) "complete", this is still very much under construction. Many core topics are absent, others will be covered only partially and sometimes incorrectly, particularly if it is a topic I stumbled upon years ago and have not dusted off since.
+Unlike [Part One](https://partone.litfl.com/), which is (or at least, was) "complete", this is still very much under construction. Many core topics are absent, others will be covered only partially and sometimes incorrectly, particularly if it is a topic I stumbled upon years ago and have not dusted off since, or if it is a topic I feel I know well and did not need to dive too deeply on.
 
 References are light; though when present you can be confident I have read them. The bulk of the content is a systemisation of the things I've learned:
 
 * At the bedside
 * From wise clinician mentors
-* From titans of critical care education, and from whom I have unrepentantly plagiarised, namely:
+* From titans of critical care education, and from whom I have unrepentantly plagiarised^[I have referenced these where the notes were taken whilst reading that source, but as reading these resources is commensurate with a comprehensive critical care education, I do not doubt that they have influenced this text in a hundred other ways.], namely:
 	* [Critical Care Compendium](https://litfl.com/ccc-critical-care-compendium/)
 	* [The Internet Book of Critical Care](https://emcrit.org/ibcc/toc/)
 	* [Deranged Physiology](https://derangedphysiology.com/main/home)
