@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "The Bedside Notebook",
     "section": "",
-    "text": "This is a collection of notes from my anaesthetic training and ANZCA Second Part exam, which is currently being expanded for the CICM Second Part exam.\nUnlike Part One, which is (or at least, was) “complete”, this is still very much under construction. Many core topics are absent, others will be covered only partially and sometimes incorrectly, particularly if it is a topic I stumbled upon years ago and have not dusted off since.\nReferences are light; though when present you can be confident I have read them. The bulk of the content is a systemisation of the things I’ve learned:\n\nAt the bedside\nFrom wise clinician mentors\nFrom titans of critical care education, and from whom I have unrepentantly plagiarised, namely:\n\nCritical Care Compendium\nThe Internet Book of Critical Care\nDeranged Physiology"
+    "text": "This is a collection of notes from my anaesthetic and intensive care training, including the ANZCA Second Part exam and the CICM Fellowship exam.\nUnlike Part One, which is (or at least, was) “complete”, this is still very much under construction. Many core topics are absent, others will be covered only partially and sometimes incorrectly, particularly if it is a topic I stumbled upon years ago and have not dusted off since, or if it is a topic I feel I know well and did not need to dive too deeply on.\nReferences are light; though when present you can be confident I have read them. The bulk of the content is a systemisation of the things I’ve learned:\n\nAt the bedside\nFrom wise clinician mentors\nFrom titans of critical care education, and from whom I have unrepentantly plagiarised1, namely:\n\nCritical Care Compendium\nThe Internet Book of Critical Care\nDeranged Physiology\n\n\n\n\n\n\n\nI have referenced these where the notes were taken whilst reading that source, but as reading these resources is commensurate with a comprehensive critical care education, I do not doubt that they have influenced this text in a hundred other ways.↩︎"
   },
   {
     "objectID": "anzca.html#timing",
@@ -13729,70 +13729,70 @@
   {
     "objectID": "disease/cvs/longqt.html#epidemiology-and-risk-factors",
     "href": "disease/cvs/longqt.html#epidemiology-and-risk-factors",
-    "title": "Long QT Syndrome",
+    "title": "Long QT",
     "section": "Epidemiology and Risk Factors",
     "text": "Epidemiology and Risk Factors"
   },
   {
     "objectID": "disease/cvs/longqt.html#pathophysiology",
     "href": "disease/cvs/longqt.html#pathophysiology",
-    "title": "Long QT Syndrome",
+    "title": "Long QT",
     "section": "Pathophysiology",
     "text": "Pathophysiology\nMyocardial repolarisation:\n\nOccurs due to a combination of:\n\nOutward K+ flow\nInward Ca+ and Na+ flow\nPartially counters K+ current.\n\nIs not homogenous between epicardium, mid-myocardium, and endocardial cells\n\nMid-myocardium is slower due to reduced K+ and Na+ channel density\nThe tail of the T-wave tends to represent repolarisation of mid-myocardial cells.\n\n↓ mid-myocardial K+ or ↑ Na+ channel function in the mid-myocardium will therefore prolong the action potential\n\nThis may lead to late calcium inflow, and early after-depolarisations\n\nIf these EADs reach a threshold amplitude, VT may result\n\n\n\n\nAetiology\nMay be:\n\nCongenital\n1/2,500-5,000. Multiple major genotypes have been developed, which include:\n\nJervell–Lange-Nielsen\nAutosomal recessive.\nRomano–Ward\nAutosomal dominant.\n\nAcquired\nLikely associated with some genetic abnormality. Include:\n\nDrugs\nElectrolyte abnormalities\nMalnutrition\nIn addition to any risk due to neurological abnormalities.\nNeurological injury"
   },
   {
     "objectID": "disease/cvs/longqt.html#clinical-manifestations",
     "href": "disease/cvs/longqt.html#clinical-manifestations",
-    "title": "Long QT Syndrome",
+    "title": "Long QT",
     "section": "Clinical Manifestations",
     "text": "Clinical Manifestations\nHistory:\n\nSudden syncope\n30% of congenital present with syncope or aborted sudden death.\nPseudo-seizures during exercise or stress\nFamily history of sudden death"
   },
   {
     "objectID": "disease/cvs/longqt.html#diagnostic-approach-and-ddx",
     "href": "disease/cvs/longqt.html#diagnostic-approach-and-ddx",
-    "title": "Long QT Syndrome",
+    "title": "Long QT",
     "section": "Diagnostic Approach and DDx",
     "text": "Diagnostic Approach and DDx"
   },
   {
     "objectID": "disease/cvs/longqt.html#investigations",
     "href": "disease/cvs/longqt.html#investigations",
-    "title": "Long QT Syndrome",
+    "title": "Long QT",
     "section": "Investigations",
     "text": "Investigations\nECG:\n\nQTc &gt;440ms\nMay only be revealed in situations of physiological stress (e.g. a stress ECG."
   },
   {
     "objectID": "disease/cvs/longqt.html#management",
     "href": "disease/cvs/longqt.html#management",
-    "title": "Long QT Syndrome",
+    "title": "Long QT",
     "section": "Management",
     "text": "Management\nResuscitation:\n\n\n\n1g MgSO4 is ~4mmoL of Mg2+.\n\nC\n\nPolymorphic VT/VF\n\nDC cardioversion\nMg2+\nReduces EADs by ↑ encouraging resting repolarisation.\n\nGiven as 2g MgSO4 over 2-3 minutes\nMay be repeated with another 2g after 15 minutes.\nConsider infusion of 3-20mg/min if arrhythmias persist\n\n\n\n\nSpecific therapy:\n\nPharmacological\n\nAntiarrhythmic\n\nβ-blockade\n\n\nProcedural\n\nPacing\n↑ HR and reduces QTc.\nAICD\n\n\nSupportive care:\nDisposition:\nMedical management:\n\nβ-blockade\nPacing\n↑ HR and reduces QTc.\nAICD\n\n\nPotential Precipitants\nDrugs associated with development of polymorphic VT:\n\nAnti-arrhythmics\n\nSotalol\nAmiodarone\nProcainamide\nFlecainide\nDisopyramide\n\nAntibiotics\n\nErythromycin\nClarithromycin\nFluconazole\n\nAnti-psychotics\n\nDroperidol\nHaloperidol\n\nAnti-depressants\n\nFluoxetine\n\nSympathomimetics\n\nKetamine\n\n\n\n\nAnaesthetic Considerations\n\nB\n\nMaintain normocarbia\n\nC\n\nMalignant arrhythmia\n\nHigh risk of intraoperative arrhythmia\nMay be precipitated by ↑ sympathetic tone\n\nIntraoperative sympatholysis is crucial\n\nCardiology review pre-operatively is ideal\n\nAvoid bradycardia\nAvoid hypotension\n\nE\n\nAvoid reversal of neuromuscular block\nQTc is prolonged with neostigmine-glycopyrrolate.\n\n\n\n\nMarginal and Ineffective Therapies"
   },
   {
     "objectID": "disease/cvs/longqt.html#complications",
     "href": "disease/cvs/longqt.html#complications",
-    "title": "Long QT Syndrome",
+    "title": "Long QT",
     "section": "Complications",
     "text": "Complications"
   },
   {
     "objectID": "disease/cvs/longqt.html#prognosis",
     "href": "disease/cvs/longqt.html#prognosis",
-    "title": "Long QT Syndrome",
+    "title": "Long QT",
     "section": "Prognosis",
     "text": "Prognosis"
   },
   {
     "objectID": "disease/cvs/longqt.html#key-studies",
     "href": "disease/cvs/longqt.html#key-studies",
-    "title": "Long QT Syndrome",
+    "title": "Long QT",
     "section": "Key Studies",
     "text": "Key Studies"
   },
   {
     "objectID": "disease/cvs/longqt.html#references",
     "href": "disease/cvs/longqt.html#references",
-    "title": "Long QT Syndrome",
+    "title": "Long QT",
     "section": "References",
     "text": "References\n\nHunter JD, Sharma P, Rathi S. Long QT syndrome. Contin Educ Anaesth Crit Care Pain. 2008 Apr 1;8(2):67–70."
   },
@@ -15579,7 +15579,7 @@
     "href": "disease/neuro/seizure.html#diagnostic-approach-and-ddx",
     "title": "Seizures",
     "section": "Diagnostic Approach and DDx",
-    "text": "Diagnostic Approach and DDx\nInclude:\n\n\nDetermination of pseudo-seizures can be difficult and is best confirmed with EEG.\n\nPsychogenic non-epileptic seizures (pseudoseizures)\n\nVariable manifestations from event to event\nNon-sustained convulsions\n↑ Movement with restraint\nSuggestible movements\nResistance to eye opening\nAbsence of pupillary dilatation\nNormal tendon reflexes post-convulsion\nPaucity of metabolic consequences\n\nSyncope\n\n\n\nJerking and tonic posturing is common in syncope. The 10/20 rule states:\n\n&lt;10 jerks is likely secondary to syncope\n\n20 jerks is a convulsive seizure"
+    "text": "Diagnostic Approach and DDx\nInclude:\n\n\nDetermination of pseudo-seizures can be difficult and is best confirmed with EEG.\n\nPsychogenic non-epileptic seizures (pseudoseizures)\n\nVariable manifestations from event to event\nNon-sustained convulsions\n↑ Movement with restraint\nSuggestible movements\nResistance to eye opening\nAbsence of pupillary dilatation\nNormal tendon reflexes post-convulsion\nPaucity of metabolic consequences\n\nSyncope\n\n\n\nJerking and tonic posturing is common in syncope. The 10/20 rule states:\n\n&lt;10 jerks is likely secondary to syncope\n&gt;20 jerks is a convulsive seizure"
   },
   {
     "objectID": "disease/neuro/seizure.html#investigations",
@@ -18715,7 +18715,7 @@
     "href": "disease/git/alf.html#investigations",
     "title": "Acute Liver Failure",
     "section": "Investigations",
-    "text": "Investigations\nLaboratory:\n\nBlood\n\nLiver function testing\nSeverity and pattern of injury:\n\nHepatocellular\nCholestatic\n\nPoint of care coagulation studies\nMay be more accurate than standard assays.\nCoagulation studies\n\nSynthetic function\n\nLactate\nFailure of hepatic clearance.\nAmmonia\nNeurotoxin responsible for much of hepatic encephalopathy.\n\n\n100μmol/L predicts the onset of encephalopathy\n\n\n150-200μmol/L predicts risk of herniation\n\n↑ Ammonia may reflect:\n\nHepatic metabolic dysfunction\nDegree of hepatic dysfunction typically correlates with ammonia level, though not with the degree of encephalopathy.\n↑↑ Protein intake\n↑ GI ammonia production\nProduced by gut bacteria.\n↓ Clearance\nUrea cycle disorder.\n\n\nUEC\n\n\nAKI\nElectrolyte derangements\n\nFBE\n\nAnaemia\nThrombocytopaenia\nConcurrent infection\n\nLipase/amylase\n\nAssociated pancreatitis\n\nParacetamol level\nLDH\nMalignancy.\nViral screen\nAetiology. Include:\n\nHepatitis A\nHepatitis B\nCore antigen indicates infection. Surface antigen often negative.\nHepatitis C\nPositive antibodies indicate infection.\nHepatitis E\nPositive antibodies indicate infection. Usually faecal-oral, though a subtype is transmissable by blood.\nEBV\nHSV\nVZV\nHIV 1/2\n\nAutoimmune screen\n\nANA\nAutoimmune.\nAnti-smooth muscle Ab\nAutoimmune.\nAnti-mitochondrial Ab\nPrimary sclerosing cholangitis.\nCopper studies\nWilson’s disease.\n\nBlood cultures\nPregnancy test\n\nUrine\n\nDrug screen\n\nParacetamol\n\n\n\nImaging:\n\nTTE\n\nRV function\nTransplant assessment\n\nLiver ultrasound\n\nSplenomegaly\nAscites\nNodularity\nHepatomegaly\nPortal blood flow\nPortal patency\n\nCT\nTriple-phase liver.\n\nOther:\n\nLiver biopsy\n\nRare in acute setting due to coagulopathy\nTransjugular route safest.\nNon-specific necrosis most common finding\nMay be useful in diagnosis of:\n\nAutoimmune\nWilson’s disease"
+    "text": "Investigations\nLaboratory:\n\nBlood\n\nLiver function testing\nSeverity and pattern of injury:\n\nHepatocellular\nCholestatic\n\nPoint of care coagulation studies\nMay be more accurate than standard assays.\nCoagulation studies\n\nSynthetic function\n\nLactate\nFailure of hepatic clearance.\nAmmonia\nNeurotoxin responsible for much of hepatic encephalopathy.\n\n&gt;100μmol/L predicts the onset of encephalopathy\n&gt;150-200μmol/L predicts risk of herniation\n↑ Ammonia may reflect:\n\nHepatic metabolic dysfunction\nDegree of hepatic dysfunction typically correlates with ammonia level, though not with the degree of encephalopathy.\n↑↑ Protein intake\n↑ GI ammonia production\nProduced by gut bacteria.\n↓ Clearance\nUrea cycle disorder.\n\n\nUEC\n\n\nAKI\nElectrolyte derangements\n\nFBE\n\nAnaemia\nThrombocytopaenia\nConcurrent infection\n\nLipase/amylase\n\nAssociated pancreatitis\n\nParacetamol level\nLDH\nMalignancy.\nViral screen\nAetiology. Include:\n\nHepatitis A\nHepatitis B\nCore antigen indicates infection. Surface antigen often negative.\nHepatitis C\nPositive antibodies indicate infection.\nHepatitis E\nPositive antibodies indicate infection. Usually faecal-oral, though a subtype is transmissable by blood.\nEBV\nHSV\nVZV\nHIV 1/2\n\nAutoimmune screen\n\nANA\nAutoimmune.\nAnti-smooth muscle Ab\nAutoimmune.\nAnti-mitochondrial Ab\nPrimary sclerosing cholangitis.\nCopper studies\nWilson’s disease.\n\nBlood cultures\nPregnancy test\n\nUrine\n\nDrug screen\n\nParacetamol\n\n\n\nImaging:\n\nTTE\n\nRV function\nTransplant assessment\n\nLiver ultrasound\n\nSplenomegaly\nAscites\nNodularity\nHepatomegaly\nPortal blood flow\nPortal patency\n\nCT\nTriple-phase liver.\n\nOther:\n\nLiver biopsy\n\nRare in acute setting due to coagulopathy\nTransjugular route safest.\nNon-specific necrosis most common finding\nMay be useful in diagnosis of:\n\nAutoimmune\nWilson’s disease"
   },
   {
     "objectID": "disease/git/alf.html#management",
