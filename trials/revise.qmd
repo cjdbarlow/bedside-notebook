@@ -1,0 +1,12 @@
+* [REVISE](https://www.nejm.org/doi/full/10.1056/NEJMoa2404245) (2024)
+	* 4821 invasively-ventilated (<72 hours) adults, without definitive contra/indication to acid suppression
+	* Multicentre (68), double-blinded RCT of 40mg pantoprazole vs. placebo
+	* 4800 patients would give 85% power to detect 1.5% absolute risk difference in clinically important UGIB at 90 days, assuming 3% baseline event rate\
+	Defined as UGIB with:
+		* Haemodynamic compromise
+		* Requiring therapeutic intervention
+	* Significant difference in primary outcome (1% vs. 3.5%)
+	* No change in:
+		* 90-day mortality
+		* Pneumonia
+		* *C. difficile* infections

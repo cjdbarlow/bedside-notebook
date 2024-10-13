@@ -28,8 +28,8 @@ This only applies to *prophylaxis*, UGIB should be treated differently and is co
 	* Cease *primary* prevention aspirin
 	* Avoid NSAID
 	* Enteral nutrition
-* **Pharmacological prophylaxis** should be **reserved for at-risk patients**:
-	* **Risk factors** include:
+* **Pharmacological prophylaxis**
+	* For all patients with ⩾1 risk factor:
 		* **Intubated**
 		* ***Multiple* risk factors** for **ulceration**
 			* Shock
@@ -37,13 +37,10 @@ This only applies to *prophylaxis*, UGIB should be treated differently and is co
 			* High-dose steroid
 		* Occult bleeding
 		* COVID
-	* Consider:
-		* **H2RB**
-			* Ranitidine 150mg PO/NG BD
-		* **PPI**\
-		PO or NG preferred if available.
-			* Omeprazole 40mg PO/IV/NG
-			* Pantoprazole 40mg PO/IV/NG daily
+	* **PPI**\
+	PO or NG preferred if available.
+		* Omeprazole 40mg PO/IV/NG daily
+		* Pantoprazole 40mg PO/IV/NG daily
 
 :::column-margin
 Compared with PPI, H2RB:
@@ -52,7 +49,8 @@ Compared with PPI, H2RB:
 Unclear reason - possibly less effective acid suppression ↓ VAP rates.
 * Relative ↑ UGIB	
 * ↑ Delirium
-* Cheaper
+* ~~Cheaper~~\
+Are no longer available. RIP, ranitidine 150mg PO/NG BD.
 :::
 
 
@@ -60,6 +58,7 @@ Unclear reason - possibly less effective acid suppression ↓ VAP rates.
 
 {{< include /trials/sup_icu.qmd >}}
 {{< include /trials/peptic.qmd >}}
+{{< include /trials/revise.qmd >}}
 
 ---
 
