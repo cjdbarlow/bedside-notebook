@@ -48,6 +48,15 @@ Manages day-to-day running of the RRS.
 * Outcomes evaluation and **QI limb**\
 Addresses QI and governance issues.
 
+### Early Warning Scores
+
+In-hospital cardiac arrest is heralded by a deterioration in other physiological parameters in ~80% of cases. Early warning scores:
+
+* Are a system response to improve the needs-resources mismatch
+* Have a variety of formulations
+	* Score based on single measurement outside of a "normal" range
+	* Weighted score based on number and degree of abnormal measurements\
+	May be a better discriminator of outcome.
 
 ### Modification to Calling Criteria
 
@@ -93,3 +102,4 @@ The RRS team is often ad-hoc, with unacquainted members, in an unfamiliar ward e
 ## References
 
 1. CICM & ANZICS. [IC-25 Joint Position Statement on Rapid Response Systems in Australia and New Zealand and the Roles of Intensive Care](https://cicm.org.au/CICM_Media/CICMSite/Files/Professional/IC-25-Joint-ANZICS-and-CICM-Rapid-Response-Systems-Position-Statement.pdf). 2016.
+1. Advanced Life Support Level 2 Third Australian Edition. Australian Resuscitation Council. 2016.

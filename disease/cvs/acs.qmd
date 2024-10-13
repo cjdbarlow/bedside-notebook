@@ -81,12 +81,16 @@ Risk factors:
 * Male
 * Family history
 * Smoking
+* Indigenous
 * Disease
 	* HTN
 	* DM
 	* Dyslipidaemia
 	* Obesity
 
+:::column-margin
+The rate of coronary disease for indigenous Australians is ~2.5× that of non-indigenous people.
+:::
 
 ## Pathophysiology
 
@@ -106,7 +110,8 @@ Which vessel and how proximal the occlusion is determines the region and extent 
 
 * LAD occlusion
 	* Anterior MI\
-	~40-50%.
+		* ~40-50% of all MIs
+		* Anterior infarction has ↑ LV impairment and poorer prognosis than lateral or inferior infarctions
 	* Septal MI
 * LCx\\Distal LAD
 	* Lateral MI
@@ -254,7 +259,14 @@ Any STE in aVL with STD in III (II/aVF).
 
 ## Management
 
-**Resuscitation**:\
+:::priority
+* **Expedite reperfusion**\
+	* Call-to-balloon time for PCI should be as short as possible, and <60 minutes
+	* Thrombolysis should be performed if PCI cannot occur in **<120 minutes**
+* Give 
+:::
+
+**Resuscitation**:
 
 * B:
 	* Supplemental **oxygen**\
@@ -297,9 +309,15 @@ In STEMI and STEMI-equivalents.
 			Ticagrelor may worsen bradycardia.
 		* May be:
 			* Ticagrelor\
-			180mg load, then 90mg BD.
+				* 180mg load, then 90mg BD
 			* Clopidogrel\
-			May be preferred to ticagrelor for patients with ↑ bleeding risk. 300-600mg load, then 75mg daily.
+				* 300-600mg load, then 75mg daily
+				* May be preferred to ticagrelor for patients with ↑ bleeding risk
+			* Prasugrel 60mg load
+				* Contraindicated if:
+					* \>75 years old
+					* <60kg
+					* Previous CVA
 		* Long half-lives result in ↑ bleeding if CABG is required
 		* Duration depends on type of stenting
 	* **Anticoagulation**\
@@ -313,14 +331,14 @@ In STEMI and STEMI-equivalents.
 		Usually after thrombolytic therapy.
 		* Ideally within 24 hours
 		* ↓ Malignant arrhythmia rate
-	* **ACE-I/A2RB**\
+	* **ACE-I\\A2RB**\
 	↓ Mortality and ↓ LV failure in STEMI, probably beneficial in NSTEMI.
 		* Contraindications
 			* Renal dysfunction
 			* Hypotension
 			* Hyperkalaemia
 	* **Statin**\
-	Commence within 24 hours. ↓ Mortality.
+	Commence within 24 hours. ↓ Mortality, risk of future coronary events by ~30%.
 		* Atorvastatin 80mg
 	* Long-term anticoagulation\
 	Only for specific indication, e.g. AF, LV thrombus, severe LV dysfunction.
@@ -355,52 +373,38 @@ In STEMI and STEMI-equivalents.
 
 ### Reperfusion
 
-:::caution
-Thrombolysis should be performed for STEMI if PCI cannot occur in **<120 minutes**.
+Reperfusion ↓ infarct size and ↑ LV function, ↓ stroke rate, and ↓ mortality.
+
+: Comparison of Percutaneous Coronary Intervention and Thrombolysis
+
++------------------------------------------------------------------------+--------------------------------------------------------+
+| Percutaneous Coronary Intervention                                     | Thrombolysis                                           |
++========================================================================+========================================================+
+| * Preferable to thrombolysis, if available                             | * Effective if performed **<3 hours from onset**\      |
+| * Should be performed urgently\                                        | Works best with fresh clot, prior to fibrin formation. |
+| Sooner is better, <60 minutes is the goal. PCI has ~6% ↓ in mortality. | * ~4% ↓ in absolute mortality                          |
+| * May be:                                                              |                                                        |
+|     * Primary PCI                                                      |                                                        |
+|     * Rescue PCI\                                                      |                                                        |
+|     PCI performed after failed thrombolysis.                           |                                                        |
++------------------------------------------------------------------------+--------------------------------------------------------+
+
+Factors influencing reperfusion strategy:
+
+:::column-margin
+{{< include /includes/thrombolysis_contraindications.qmd >}}
 :::
 
-Reperfusion ↓ infarct size and ↑ LV function, ↓ stroke rate, and ↓ mortality. Factors influencing reperfusion strategy:
 
 * **Time**
 	* Infarct
 	* Transfer time
 * **Contraindications to thrombolysis**
-	* Absolute
-		* Intracranial
-			* Stroke <6 months
-			* Intracranial neoplasm
-		* Cardiac
-			* Aortic dissection
-		* Active internal bleeding
-	* Relative
-		* Bleeding risk
-			* Coagulopathy
-			* Hypertension
-			* Recent major trauma
-			* Peptic ulcer disease
-		* Pregnancy
 * **High risk features**\
 Indication for PCI in absence of STEMI or STEMI-equivalent include:
 	* Ventricular arrhythmias
 	* Cardiogenic shock
 	* Pain refractive for medical therapy
-
-
-Thrombolysis:
-
-* Effective if performed **<3 hours from onset**\
-Works best with fresh clot, prior to fibrin formation.
-* ~4% ↓ in absolute mortality
-
-
-PCI is preferred, provided it can occur in a timely fashion. PCI:
-
-* Should be performed urgently\
-Sooner is better, <60 minutes is the goal. PCI has ~6% ↓ in mortality.
-* May be:
-	* Primary PCI
-	* Rescue PCI\
-	PCI performed after failed thrombolysis. 
 
 
 ### Right Ventricular Myocardial Infarction
@@ -413,6 +417,7 @@ Additional considerations for the RV MI:
 		Nitrates, morphine, diuretics, PEEP, hypoxaemia.
 		* iNO
 		* Vasoactives
+
 
 ### Marginal and Ineffective Therapies
 
@@ -473,4 +478,5 @@ Infarct size is influenced by time to reperfusion, and determines degree of:
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
 1. Ducrocq G, Gonzalez-Juanatey JR, Puymirat E, et al. [Effect of a Restrictive vs Liberal Blood Transfusion Strategy on Major Cardiovascular Events Among Patients With Acute Myocardial Infarction and Anemia: The REALITY Randomized Clinical Trial](https://jamanetwork.com/journals/jama/article-abstract/2776201). JAMA. 2021;325(6):552-560. doi:10.1001/jama.2021.0135
 1. Ndrepepa G. [Aspartate aminotransferase and cardiovascular disease—a narrative review](https://jlpm.amegroups.org/article/view/5898). Journal of Laboratory and Precision Medicine [Internet]. 2021 Jan 30 [cited 2023 Oct 12];6(0).
+1. Advanced Life Support Level 2 Third Australian Edition. Australian Resuscitation Council. 2016.
 

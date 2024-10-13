@@ -6,12 +6,16 @@ This covers cardiac arrest. Components of post-arrest care, including interventi
 
 ## Epidemiology and Risk Factors
 
-IHCA:
+### In-hospital Cardiac Arrest
 
-* ~10/100,000 admissions
-* Majority are expected and occur without attempt at resuscitation
+* Significant variability in reported data
+	* ~1/1000 admissions
+	* Cardiac arrest team callout in 30/1000 admissions
+	* Majority are expected and occur without attempt at resuscitation
+* ~80% of patients have deterioration in clinical signs during the few hours before cardiac arrest
 
-OOHCA:
+
+### Out-of-hospital Cardiac Arrest
 
 * 50-150/100,000 person-years
 
@@ -38,12 +42,23 @@ Prodromal symptoms provide clues to the diagnosis:
 ## Management
 
 :::priority
-* **Commence basic life support**
-	* Call for help
+* Call for **help**
+* **Commence BLS**
 	* **Determine appropriateness for** ongoing **resuscitation**\
 	If unclear, or if concerns exist.
-* Institute **advanced life support** therapies
-* Identify and **correct reversible causes**
+* Early **defibrillation** and ALS
+	* Identify and **correct reversible causes**
+* Commence **post-resuscitation care**
+:::
+
+![Adult Advanced Life Support](/resources/als.jpg)
+
+:::column-margin
+This management section focuses on the emergency management of cardiac arrest. Post-arrest care is covered under @sec-post_arrest.
+:::
+
+:::column-margin
+The concept of the **chain of survival** recognises that successful resuscitation from cardiac arrest requires rapid and early completion of several constituent steps performed in series.
 :::
 
 
@@ -74,6 +89,12 @@ Considerations for determining appropriateness for resuscitation include:
 Pillars of basic life support:
 
 :::column-margin
+:::tick
+Bystander CPR ↑ the change of survival by 2-4× after VF/VT arrest.
+:::
+:::
+
+:::column-margin
 Signs of life include:
 
 * Ventilator dyssynchrony
@@ -98,12 +119,19 @@ Signs of life include:
 	* Lower half of sternum\
 	Above this is less effective, below has ↑↑ risk of solid organ injury.
 
+
 ### Advanced Life Support
 
 :::column-margin
 In a witnessed and monitored arrest, with **pads already attached**, it is **ideal** to perform **3 stacked** (repeated) **shocks** prior to commencing CPR.\
 \
 In a witnessed and monitored arrest, **without pads**, it is *reasonable* to perform a precordial thump.
+:::
+
+:::column-margin
+:::tick
+**Defibrillation within 3-5 minutes** of arrest can produce **survival** rates of **50-70%**.
+:::
 :::
 
 * A
@@ -152,7 +180,9 @@ Identify and correct **reversible** causes:
 
 ## Prognosis
 
-In-hospital cardiac arrest has a surprisingly good overall prognosis:
+### In-hospital Cardiac Arrest
+
+Has a surprisingly good overall prognosis:
 
 :::column-margin
 Neuroprognostication is covered under @sec-neuroprog.
@@ -164,11 +194,14 @@ Multifactorial:
 	* Early arrival of ALS
 
 
-Out-of-hospital cardiac arrest requiring ICU admission is significantly worse:
+### Out-of-hospital Cardiac Arrest
 
-* 80% are comatose
+Significantly poorer prognosis. Of those patients requiring ICU admission is significantly worse:
+
 * ~60% die with HIE\
 The **most common cause of death** is **withdrawal** of life sustaining **therapy**.
+* Overall 12% survive to hospital discharge
+	* 30% survival in patients presenting with shockable rhythm
 
 
 ## Key Studies
@@ -212,3 +245,4 @@ This includes key trials on the management of cardiac arrest. Trials evaluating 
 1. Yannopoulos D, Bartos J, Raveendran G, et al. [Advanced reperfusion strategies for patients with out-of-hospital cardiac arrest and refractory ventricular fibrillation (ARREST): a phase 2, single centre, open-label, randomised controlled trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32338-2/fulltext). The Lancet. 2020;396(10265):1807-1816. doi:10.1016/S0140-6736(20)32338-2
 1. Lascarrou JB, Merdji H, Le Gouge A, et al. [Targeted Temperature Management for Cardiac Arrest with Nonshockable Rhythm](https://www.nejm.org/doi/full/10.1056/NEJMoa1906661). New England Journal of Medicine. 2019;381(24):2327-2337. doi:10.1056/NEJMoa1906661
 1. Perkins GD, Ji C, Deakin CD, et al.[ A Randomized Trial of Epinephrine in Out-of-Hospital Cardiac Arrest](https://www.nejm.org/doi/full/10.1056/nejmoa1806842). New England Journal of Medicine. 2018;379(8):711-721. doi:10.1056/NEJMoa1806842
+1. Advanced Life Support Level 2 Third Australian Edition. Australian Resuscitation Council. 2016.

@@ -1,0 +1,21 @@
+: Contraindications to Fibrinolysis
+
++---------------+---------------------------------------------+--------------------------------------+
+| Category      | Absolute                                    | Relative                             |
++===============+=============================================+======================================+
+| Intracranial  | * CVA                                       | * TIA last 6/12                      |
+|               |     * Any haemorhaggic                      |                                      |
+|               |     * Ischaemic last 6/12                   |                                      |
+|               | * CNS neoplasm                              |                                      |
++---------------+---------------------------------------------+--------------------------------------+
+| Cardiac       | * Aortic dissection                         | * SBP >180mmHg                       |
+|               |                                             | * Infective endocarditis             |
+|               |                                             | * Traumatic CPR                      |
++---------------+---------------------------------------------+--------------------------------------+
+| Bleeding risk | * Major trauma last 3/52                    | * Peptic ulcer disease               |
+|               | * Major surgery last 3/52                   | * Non-compressible vascular puncture |
+|               | * Major Gastrointestinal bleeding last 1/12 | * Coagulopathy                       |
+|               | * Active internal haemorrhage               |     * Advanced liver disease         |
+|               |                                             |     * Oral anticoagulants            |
+|               |                                             | * Pregnant or <1/12 post-partum      |
++---------------+---------------------------------------------+--------------------------------------+

@@ -22,6 +22,10 @@ Used for primary or secondary prevention of VT, in patients with:
 * **Implantable Loop Recorders**\
 Diagnostic tool used in recurrent unexplained syncope.
 
+:::column-margin
+ICDs generally discharge ~40J.
+:::
+
 ## Risks
 
 Include:
