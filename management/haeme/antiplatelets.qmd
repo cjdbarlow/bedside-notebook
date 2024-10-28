@@ -110,6 +110,10 @@ Prevents platelet binding to fibrinogen and vWF.
 
 ### Eptifibatide
 
+* Indications:
+	* High thrombus burden following STEMI/NSTEMI
+	* Thrombotic complication of angiography
+	* Bridging therapy prior to surgical revascularisation
 * Reversal in 4-8 hours following cessation
 
 

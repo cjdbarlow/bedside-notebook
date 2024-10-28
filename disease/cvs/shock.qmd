@@ -155,8 +155,11 @@ Consider the "4 W's of Shock":
 	Central (sternal) is a better marker of organ perfusion and less affected by environmental conditions than peripheral perfusion.
 * Altered mental state\
 Anxiety, confusion, agitation, delirium, drowsiness, coma.
-* Urine output\
+* Urine output
 
+:::column-margin
+![SCAI Classification of Cardiogenic Shock](/resources/scai.jpg)
+:::
 
 Changes in vital signs reflects the extent of circulatory failure:
 

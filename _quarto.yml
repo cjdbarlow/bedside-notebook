@@ -191,6 +191,7 @@ book:
             - part: "Equipment"
               chapters:
               - management/cvs/pacing.qmd
+              - management/cvs/impella.qmd
               - management/cvs/iabp.qmd
             - part: "ECMO"
               chapters:
@@ -1133,7 +1134,9 @@ book:
         - investigations/urine/electrolytes.qmd
       - part: "Cardiovascular"
         chapters:
+        - investigations/cvs/rhc.qmd
         - investigations/cvs/atrial_ecg.qmd
+        - investigations/cvs/cardiac_mri.qmd
       - part: "Neurological"
         chapters:        
         - investigations/eeg.qmd

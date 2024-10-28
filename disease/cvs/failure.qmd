@@ -43,7 +43,7 @@ Important for prognostication and determining likelihood of response to clinical
 |         |           | Symptomatic with less than ordinary activity.   |
 +---------+-----------+-------------------------------------------------+
 | **IV**  | **6**     | Symptomatic at rest.\                           |
-|         |           |  Exertion limited by symptoms.                  |
+|         |           | Exertion limited by symptoms.                   |
 +---------+-----------+-------------------------------------------------+
 |         | **5**     | Exertion intolerant.                            |
 +---------+-----------+-------------------------------------------------+
@@ -51,7 +51,7 @@ Important for prognostication and determining likelihood of response to clinical
 +---------+-----------+-------------------------------------------------+
 |         | **3**     | Stable on inotropes.                            |
 +---------+-----------+-------------------------------------------------+
-|         | **2**     | Progressive decline on inotropes.               |
+|         | **2**     | Progressive decline ('sliding') on inotropes.   |
 +---------+-----------+-------------------------------------------------+
 |         | **1**     | Critical cardiogenic shock.                     |
 +---------+-----------+-------------------------------------------------+
@@ -107,9 +107,15 @@ Precipitating causes:
 	* Beta-blockade
 	* Calcium antagonists
 	* Cocaine
+	* Chemotherapy
+* Genetic
+	* Muscular dystrophies
+	* Desmoplakin cardiomyopathy
 * Other
 	* Peripartum
 	* Autoimmune
+	* Giant Cell Myocarditis\
+	May recur *after* heart transplant.
 	* Sarcoidosis
 	* Iron overload
 
@@ -305,7 +311,8 @@ Myocardial function inadequate to meet demands; essentially on a cardiogenic sho
 :::priority
 * **Prevent** further **deterioration** by controlling risk factors
 * Determine the **ejection fraction**
-* Commence key **anti-failure therapies**
+* Early medical management with **anti-failure therapies**\
+The **"four pillars"* of heart failure.
 * Consider **ICD** or CRT-D **if EF <35%**
 :::
 
@@ -326,21 +333,35 @@ This section is tailored towards management of stable heart failure in the criti
 
 * Pharmacological
 	* Anti-failure therapy\
-	Indicated for HFrEF or HFimpEF, and consists of:
+	The **four pillars** of antifailure therapy are indicated for HFrEF or HFimpEF, and consist of:
 		* **RAAS inhibition**\
 		↓ BP and maladaptive remodelling, ↓ mortality, hospitalisations, and progression. One of:
-			* ARNi\
+			* ARNI\
 			Recommended in NYHA II/III disease. Contraindicated if:
 				* History of angioedema
 				* ACEi use in previous 36 hours
-			* ACEi
 			* A2RB\
-			If recent MI or intolerant to ACEi.
+			Preferred if recent MI, intolerance to ACEi, or requirement for ARNI.
+			* ACE inhibitor\
+			De-emphasised due to inferiority to ARNI.
 		* **β-blockade**\
 		Improve symptoms and ↓ arrhythmia-related mortality. Use either:
 			* Bisoprolol
 			* Carvedilol
 			* Slow-release metoprolol
+		* **Aldosterone antagonists**\
+		↓ Mortality and morbidity, indicated for NYHA II-IV disease.
+			* Spironolactone 12.5-50mg PO OD
+				* Commence at 25mg if eGFR >50mL/min/1.73m^2^
+				* Double dose after 1 month
+			* Contraindications:
+				* eGFR >30mL/min/1.73m^2^
+				* K^+^ <5.0mmol/L\
+				Incidence of hyperkalaemia is rare.
+			* Requires regular review of potassium
+		* **SGLT2i**\
+		↓ Mortality, hospitalisations, dialysis, and rate of renal decline.
+			* Empaglifozin 10mg daily
 	* **Diuresis**\
 	Goal is to relieve clinical evidence of congestion at the lowest possible dose.
 		* Diuretic therapy should be escalated in a stepwise fashion:
@@ -353,16 +374,11 @@ This section is tailored towards management of stable heart failure in the criti
 			* **Doubling the usual daily dose**, and **administering IV**\
 			Results in a 4× effective furosemide dose.
 			* Addition of a thiazide
-	* **Aldosterone antagonists**\
-	↓ Mortality and morbidity, indicated for NYHA II-IV disease.
-		* Spironolactone 12.5-50mg PO OD
-			* Commence at 25mg if eGFR >50mL/min/1.73m^2^
-			* Double dose after 1 month
-		* Contraindications:
-			* eGFR >30mL/min/1.73m^2^
-			* K^+^ <5.0mmol/L\
-			Incidence of hyperkalaemia is rare.
-		* Requires regular review of potassium
+		* Diuretic resistance can be managed in a stepwise fashion:
+			* ↑ Furosemide dose
+			* Add thiazide
+			* Commence furosemide infusion
+			* Sequential nephron blockade
 	* **Statin**\
 	Indicated with any history of ACS. ↓ Failure and further cardiovascular events.
 	* Additional therapies\
@@ -391,6 +407,10 @@ The principles of HFpEF management are similar, although the evidence base suppo
 * Aldosterone antagonist
 * Diuretic PRN
 ::: 
+
+:::column-margin
+**Diuretic resistance** can be defined as inadequate solute and water clearance despite **160mg/day of furosemide**.
+:::
 
 :::column-margin
 {{< include /includes/diuretic.qmd >}}

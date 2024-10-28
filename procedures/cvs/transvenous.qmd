@@ -22,6 +22,7 @@ Includes:
 To connect wires to pacing system.
 	* Black to negative terminal
 	* Red to positive terminal
+* Pacing cable ("bridging cable")
 * External pacing system
 
 
@@ -44,8 +45,10 @@ The wire is easier to float into position without the sterile sheath in situ, an
 Establish pacing:
 
 * Set external pacing system\
-Consider VVI 80, output 5mA, sensitivity threshold 0.8mV.
+Consider VVI 80, output 15-20mA, sensitivity threshold 0.8mV.
 * Attach external pacing system to wires
+	* Distal lead to negative terminal
+	* **Proximal** lead to **positive** terminal
 * Inflate balloon\
 Ensure balloon is out of the end of the introducer.
 * Slowly insert wire, looking for:
@@ -53,10 +56,26 @@ Ensure balloon is out of the end of the introducer.
 	* Alternation of QRS morphology
 	ST segment elevation in V~1~ or LBBB appearance.
 * Secure wire in location
-* *Partially* deflate balloon
-	* Full deflation of the balloon may ↑ risk of perforation
+* *Partially* deflate balloon (0.5mL)
+	* Full deflation of the balloon may ↑ risk of perforation\
+	Full deflation can be used if there is concern about advancement of the catheter into the PA.
 	* No deflation ↑ risk of wire dislodgement
 * Have patient cough to ensure wire doesn't move
+* Perform pacing check
+	* Sensitivity testing\
+		* Should only be performed if the patient has a haemodynamically stable rhythm with a native HR >30 bpm
+		* Sensing threshold should be ideally **>5mV**
+	* Capture testing
+		* Capture threshold should be <1mA if the lead is correctly placed
+		* Capture threshold >5mA is concerning for lead malposition
+
+:::column-margin
+Echocardiographic guidance can be helpful for guidance.
+:::
+
+:::column-margin
+Performance of a pacing check is covered in detail under @sec-pacing.
+:::
 
 
 Removal:

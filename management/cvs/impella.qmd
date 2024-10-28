@@ -1,0 +1,202 @@
+# Impella
+
+Catheter-based microaxial flow pump indicated in cardiogenic shock secondary to LV failure, which provides:
+
+* Left ventricular unloading
+	* ↓ EDV
+	* ↓ EDP
+	* ↓ Wall tension
+* ↑ Aortic root pressure
+	* ↑ Coronary perfusion
+* ↑ CO
+
+:::column-margin
+This is in strong contradistinction to VA-ECMO, which provides systemic perfusion at the expense of ↑ LV afterload and ↑ LV wall tension.
+:::
+
+## Indications
+
+* Cardiogenic shock secondary to LV failure
+
+## Contraindications
+
+* Mechanical aortic valve
+* LV thrombus
+* Peripheral vascular disease
+* Right ventricular failure
+
+## Anatomy
+
+## Equipment
+
+* Impella catheter\
+From proximal to distal, consists of:
+	* Blood inlet
+	* Axial flow pump\
+	Rotational speed is directly proportional to flow.
+	* Radio-opaque strip\
+	Aids placement, as this line should straddle the aortic valve.
+	* Blood outlet
+	* Optical pressure sensor
+	* Suture hub
+* Automated Impella Controller\
+Provides:
+	* Interface for monitoring and control
+	* Display
+		* Aortic root pressure
+		* LV pressure
+		* Flow control\
+		Adjust between ordinal P-levels.
+		* Current calculated flow and P-level\
+		Includes maximal systolic and minimal diastolic flow rate.
+	* Purge system\
+	Adjusted to maintain a pressure level of 300-1100mmHg; at a rate of 2-30mL/hr.
+	* Battery backup\
+	60 minutes.
+* Purge fluid\
+Purge fluid provides a pressure head inside the device to prevent blood entering the motor. Fluid options include:
+	* Dextrose 5% with heparin (25U/mL)
+	* Dextrose 5% with bicarbonate\
+	If concern for bleeding or HITT.
+
+:::column-margin
+With respect to measurements:
+
+* Aortic pressure is monitored by the optical sensor
+* Aortic-LV pressure differential is proportional to the motor current
+* LV pressure is calculated by the differential between the aortic and LV pressure
+:::
+
+:::column-margin
+: Flow ranges of the Impella 5.5
+
++---------+-------------------+------------------------+
+| P-level | Mean Flow (L/min) | Revolutions per Minute |
++=========+===================+========================+
+| **P-0** | 0                 | 0                      |
++---------+-------------------+------------------------+
+| **P-1** | 0                 | 12,000                 |
++---------+-------------------+------------------------+
+| **P-2** | 0 - 1.9           | 17,000                 |
++---------+-------------------+------------------------+
+| **P-3** | 1.1 - 2.7         | 20,000                 |
++---------+-------------------+------------------------+
+| **P-4** | 1.9 - 3.3         | 22,000                 |
++---------+-------------------+------------------------+
+| **P-5** | 2.8 - 3.7         | 24,000                 |
++---------+-------------------+------------------------+
+| **P-6** | 3.4 - 4.1         | 26,000                 |
++---------+-------------------+------------------------+
+| **P-7** | 3.9 - 4.5         | 28,000                 |
++---------+-------------------+------------------------+
+| **P-8** | 4.3 - 4.9         | 30,000                 |
++---------+-------------------+------------------------+
+| **P-9** | 5.0 - 5.5         | 33,000                 |
++---------+-------------------+------------------------+
+
+
+Notes on Impella flow:
+
+* Pressure gradient through the device is ~30 - 60 mmHg
+* Flow varies at each P-level due to ventricular loading
+* The Impella is **preload dependent** and **afterload sensitive**
+:::
+
+
+## Technique
+
+### Insertion
+
+
+### Management
+
+**Haemodynamics**:
+
+* Maintain correct positioning\
+Indicated by:
+	* A true difference between the aortic and LV pressure waveform
+	* Inlet 5cm from aortic valve annulus, with the Impella bend at the annulus
+* Cardiac arrest\
+↓ Impella flow rate during arrest.
+
+
+**Weaning**:
+
+* ↓ Impella flow rate by 2 P-level increments\
+Avoid ↓ flow rate <P-2, until immediately prior to removal.
+* Monitor trend in MAP and LVEDP
+* Goal is maintenance of total cardiac output and cardiac power, with stable MAP and LVEDP
+
+
+**Anticoagulation**:
+
+* Maintain ACT 160-180\
+May be achieved with the heparin in the purge fluid.
+
+
+**Removal**:
+
+* Continue support at P-2 until immediately prior to removal
+* ↓ Flow to P-1 and then withdraw into the aorta
+* ↓ Flow to P-0 and remove device
+* Surgical closure of graft site
+
+## Complications
+
+* **Aortic dislodgement**\
+Withdrawal of the device into the aorta.
+	* Indicated by:
+		* Overlap of the LV and aortic pressure waveform
+		* Both waveforms consistent with an *arterial* pressure wave
+		* Absence of motor current
+	* Actions
+		* Reduce P-level to P2
+		* Reposition catheter under imaging guidance
+* **Ventricular dislodgement**\
+Advancement of the device into the ventricle.
+	* Indicated by:
+		* Overlap of the LV and aortic pressure waveform
+		* Both waveforms consistent with an= *ventricular* pressure wave
+		* Absence of motor current
+	* Actions
+		* Reduce P-level to P2
+		* Reposition catheter under:
+			* Without imaging guidance\
+			Gentle withdrawal until pressure and current differential is seen.
+			* With echocardiographic guidance
+* **Unknown position**\
+May occur when:
+	* The catheter has migrated, but the pressure waveforms are not definitively aortic or arterial
+	* Native heart function is too impaired to produce a significant pressure differential
+* **Suction**
+	* Indicated by:
+		* Suction alarm
+		* Negative left ventricular diastolic pressure
+		* Flow lower than expected
+		* Hypotension
+		* ↓ Motor current
+	* May occur when:
+		* Incorrect ventricular positioning
+		* RV failure
+		* Hypovolaemia
+	* Actions
+		* Reduce P-level
+		* Review volume state
+		* Check RV function
+		* Check Impella position
+* **Haemolysis**\
+Always pathological, and indicates catheter obstruction:
+	* Inflow obstruction
+		* Papillary muscles
+		* Suck-down
+	* Pump obstruction
+		* Fibrin
+		* Clot
+	* Outflow obstruction
+		* AV
+		* Aortic wall
+
+
+---
+
+## References
