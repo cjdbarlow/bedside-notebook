@@ -1,5 +1,9 @@
 # Cerebrospinal Fluid Analysis {#sec-csf}
 
+## Composition
+
+: Normal (and abnormal) CSF Composition
+
 +-------------------------------+-------------+-----------------------------+-----------------------------------------+---------------------------+----------------------------------------------------------------------+
 | Property                      | Normal      | Traumatic Tap               | Infection                               | SAH                       | Other                                                                |
 +===============================+=============+=============================+=========================================+===========================+======================================================================+
@@ -39,11 +43,23 @@
 |                               |             |                             | * Cryptococcal antigen                  |                           |                                                                      |
 |                               |             |                             | * Bacterial antigen                     |                           |                                                                      |
 |                               |             |                             | * Viral PCR                             |                           |                                                                      |
+|                               |             |                             |     * HSV                               |                           |                                                                      |
+|                               |             |                             |     * VZV                               |                           |                                                                      |
+|                               |             |                             |     * HZV                               |                           |                                                                      |
+|                               |             |                             |     * Enterovirus                       |                           |                                                                      |
+|                               |             |                             |     * Adenovirus                        |                           |                                                                      |
+|                               |             |                             | * Antibodies                            |                           |                                                                      |
+|                               |             |                             |     * Anti-NMDA                         |                           |                                                                      |
+|                               |             |                             |     * Anti-AMPA                         |                           |                                                                      |
+|                               |             |                             |     * Anti-DPPX                         |                           |                                                                      |
+|                               |             |                             |     * Anti-LGI1                         |                           |                                                                      |
+|                               |             |                             |     * Anti-GABA B                       |                           |                                                                      |
+|                               |             |                             |     * Anti-IgLON5                       |                           |                                                                      |
+|                               |             |                             |     * Anti-neuronal                     |                           |                                                                      |
 +-------------------------------+-------------+-----------------------------+-----------------------------------------+---------------------------+----------------------------------------------------------------------+
 
-: Normal (and abnormal) CSF Composition
 
-Notes:
+## Notes
 
 :::column-margin
 Things to Request:
@@ -53,8 +69,12 @@ Things to Request:
 * Culture\
 Extended if considering listeria, cryptococcus.
 * Cytology and cell counts
+	* Oligoclonal bands
 * Protein
 * Any other disease-specific tests
+	* Viral PCR
+	* Antigens
+
 :::
 
 * An ↑ CSF WCC is referred to as a pleocytosis
