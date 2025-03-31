@@ -9,7 +9,7 @@ This section outlines the chemical principles underlying blood gas interpretatio
 The $Anion \ Gap = Na^+ - Cl^+ - HCO_3^-$:
 
 * **Normal** is **12** (8-16)\
-A value rather than range is specified to permit further changes.
+A value rather than range is specified to permit further calculations.
 * Low sensitivity and specificity\
 * Accuracy falls further in the setting of hypoalbuminaemia, and so should be corrected:
 	* $AGc = AG + 0.25 \times (40 - [albumin])$
@@ -342,4 +342,4 @@ For the purposes of an exam:
 
 1. Brandis, K. [Acid-base pHysilogy](http://www.anaesthesiamcq.com/AcidBaseBook/ABindex.php). 2015.
 2. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
-3. Marts LT, Hsu DJ, Clardy PF. Mind the Gap. [Annals ATS](https://www.atsjournals.org/doi/pdf/10.1513/AnnalsATS.201401-033CC). 2014 May;11(4):671–4. 
+3. Marts LT, Hsu DJ, Clardy PF. [Mind the Gap](https://www.atsjournals.org/doi/pdf/10.1513/AnnalsATS.201401-033CC). Annals ATS. 2014 May;11(4):671–4. 
