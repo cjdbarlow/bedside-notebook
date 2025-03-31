@@ -231,6 +231,22 @@ Brief period during which:
 
 :::column-margin
 ```{mermaid}
+%%| fig-width: 100%
+%%| fig-height: 100%
+
+%%{ init: {
+    'flowchart': { 'curve': 'stepAfter', 'useMaxWidth': 'true'},
+    'theme': 'base',
+    'themeVariables': {
+        'primaryColor': '#ffffff',
+        'primaryTextColor': '#000000',
+        'primaryBorderColor': '#000000',
+        'lineColor': '#000000',
+        'tertiaryColor': '#fff'
+        }
+    }
+}%%
+
 flowchart TD
     A[End-of-bed-o-gram] --> B[Orbit]
     B --> C[GCS]
