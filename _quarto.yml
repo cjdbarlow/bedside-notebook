@@ -999,6 +999,8 @@ book:
         - part: "Systemic"
           chapters:
           - disease/onc/tls.qmd
+          - disease/onc/crs.qmd
+          - disease/onc/icans.qmd
           - disease/onc/lymph_carcinomatosis.qmd
         - part: "Solid Organ"
           chapters:

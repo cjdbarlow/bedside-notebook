@@ -1,0 +1,172 @@
+# Cytokine Release Syndrome {#sec-haeme_crs}
+
+Excessive immune system activation following CAR T-cell therapy that occurs due to activation and proliferation of CAR T-cells:
+
+* Occurs in 40-90% of cases
+* Onset hours-days after administration
+* Characterised by a raft of non-specific inflammatory symptoms:
+	* Fever
+	* Malaise
+	* Myalgia
+	* Tachycardia
+	* Rash
+	* **Capillary leak syndrome**
+		* Pulmonary oedema
+		* Multiorgan dysfunction
+
+
+## Epidemiology and Risk Factors
+
+## Pathophysiology
+
+### Aetiology
+
+## Assessment
+
+Features of CRS relate to a global inflammatory state, and include:
+
+* C
+	* ↑ HR
+	* CCF
+	* Arrhythmias
+	* Oedema secondary to capillary leak
+* D
+	* Rash
+* F
+	* AKI
+* G
+	* Hepatic dysfunction\
+	Deranged LFTs.
+	* Nausea, vomiting
+* H
+	* Cytopaenias
+	* DIC
+	* Macrophage activation syndromes/HLH
+		* ↑ Ferritin
+		* Coagulopathy
+		* Hepatic dysfunction
+		* Cytopenias
+
+
+### History
+
+
+### Examination
+
+
+### Investigations
+
+**Bedside**:
+
+**Laboratory**:
+
+**Imaging**:
+
+**Other**:
+
+### Diagnostic Approach and DDx
+
+Cytokine release syndrome requires both:
+
+* Fever (≥38.0°C)
+Cardinal sign common to all grades of CRS.
+* **Hypotension** *or* **hypoxaemia**\
+Grade of CRS is determined by the degree of physiological support required.
+
+
+:::
+: CRS Grading
+
++-----------+--------------------------------------------------+---------------------------------+
+| **Grade** | **Hypotension (SBP <90mmHg)**                    | **Hypoxia**                     |
++-----------+--------------------------------------------------+---------------------------------+
+| **1**     | None                                             | None                            |
++-----------+--------------------------------------------------+---------------------------------+
+| **2**     | Not requiring vasopressors                       | Low-flow nasal oxygen (<6L/min) |
++-----------+--------------------------------------------------+---------------------------------+
+| **3**     | Requiring 1 vasopressor (+/- vasopressin)        | High-flow nasal oxygen\         |
+|           |                                                  | Non-rebreather >6L/min\         |
+|           |                                                  | Venturi >6L/min\                |
+|           |                                                  | Face mask >6L/min\              |
++-----------+--------------------------------------------------+---------------------------------+
+| **4**     | Requiring >1 vasopressor (excluding vasopressin) | Positive pressure ventilation   |
++-----------+--------------------------------------------------+---------------------------------+
+:::
+
+## Management
+
+:::priority
+* **Rule out infective causes**
+* Give **antipyretics**
+* **Fluid resuscitation** and vasopressors
+* **Immunomodulators**\
+Dose and choice of agent depends on grade.
+:::
+
+:::column-margin
+:::info
+Note that the **presence of ICANS** supersedes the presence of CRS - immunomodulation therapy should be as per ICANS grading if both are present.
+:::
+:::
+
+**Resuscitation**:
+
+* C
+	* Fluid resuscitation
+	* Low threshold for vasopressors\
+	CRS is associated with significant capillary leak - avoid >2L IVT/day.
+
+**Specific therapy**:
+
+:::column-margin
+Historical concern existed about the use of corticosteroids with CAR T-cell therapy, due to the risk of inducing T-cell apoptosis and subsequently ending the therapy by removing all the cells.
+\
+More recent data supports judicious use, however steroid dosing should be guided by the haematologist.
+:::
+
+* Pharmacological\
+	* Immunomodulators
+		* Grade 1:
+			* Tocilizumab 8mg/kg Q8H up to 3 doses\
+			Human monoclonal IL-6 antibody.
+				* Indicated for any patient requiring ICU admission
+				* Repeat once (i.e. 2 doses) if 1^st^ dose ineffective
+			* Dexamethasone 4-10mg IV QID
+		* Grade 2:
+			* Tocilizumab as per grade 1 (if not already given)
+			* Dexamethasone 10mg IV QID
+			* Consider anakinra 100-200mg IV BD-QID
+		* Grade 3-4:
+			* Tocilizumab as per grade 1 (if not already given)
+			* Dexamethasone as per grade 2, or consider high-dose methylprednisolone (1g daily, or 2mg/kg/day)
+* Procedural
+* Physical
+
+**Supportive care**:
+
+**Disposition**:
+
+* Disposition also depends on grade
+	* Grade 1: Appropriate for ward based care
+	* Grade 2: Consideration of HDU/higher-level care
+	* Grade 3-4: ICU admission
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Messmer AS, Que YA, Schankin C, Banz Y, Bacher U, Novak U, et al. [CAR T-cell therapy and critical care](https://pubmed.ncbi.nlm.nih.gov/34613477/). Wien Klin Wochenschr. 2021 Dec 1;133(23):1318–25. 

@@ -1,0 +1,223 @@
+# Immune-Effector Cell-Associated Neurotoxicity Syndrome {#sec-haeme_icans}
+
+Immune encephalopathy following immune-effector cell therapy (such as CAR T-cell therapy), that may relate to BBB disruption and entry of CAR T-cells into the CNS:
+
+* Occurs in ~40% of cases
+* Onset generally within 4-10 days\
+Almost always *after* onset of CRS, and occasionally occurs after CRS has resolved.
+* Characteristic symptoms include:
+	* **Aphasia**\
+	Mild expressive aphasia that may progress to global aphasia over the course of hours.
+	* Seizures
+	* Tremor
+	* Dysgraphia
+	* Apraxia
+	* Inattention
+* Requires **urgent management** due to significant morbidity and mortality
+
+
+:::column-margin
+Immune cell-associated neurotoxicity can be distinguished from other encephalopathies by an awake patient who is mute and unable to follow commands.
+:::
+
+
+## Epidemiology and Risk Factors
+
+Risk factors include:
+
+* Patient factors
+	* Prior neurological morbidity
+* Disease factors
+	* Disease burden
+	* B-ALL as primary malignancy
+	* Leptomeningeal disease
+	* Cytokine release syndrome
+* Treatment factors
+	* Axicabtagene ciloleucel
+
+## Pathophysiology
+
+### Aetiology
+
+## Assessment
+
+The key assessment tool for ICANS is the Immune Effector Cell-Associated Encephalopathy (ICE) Score. The ICE Score:
+
+* Is a sensitive marker of neurological deterioration
+* Should be performed every:
+	* 8 hours whilst an inpatient
+	* 30 minutes after a deterioration until further guided by the treating team
+
+:::column-margin
+
+: Immune Effector Cell-Associated Encephalopathy (ICE) Score
+
++------------------------+------------------------------------------+------------------+
+| **Domain**             | **Test**                                 | **Total Points** |
++------------------------+------------------------------------------+------------------+
+| **Orientation**        | 1 point for orientation to each of:      | 4                |
+|                        |                                          |                  |
+|                        | * Year                                   |                  |
+|                        | * Month                                  |                  |
+|                        | * City                                   |                  |
+|                        | * Hospital                               |                  |
++------------------------+------------------------------------------+------------------+
+| **Naming**             | 1 point for naming one of three objects. | 3                |
++------------------------+------------------------------------------+------------------+
+| **Following commands** | 1 point for following a command          | 1                |
++------------------------+------------------------------------------+------------------+
+| **Handwriting**        | Ability to write a standard sentence\    | 1                |
++------------------------+------------------------------------------+------------------+
+| **Attention**          | Count backwards from 100 by 10           | 1                |
++------------------------+------------------------------------------+------------------+
+| The ICE score is graded from 0 to 10. Any decrease is significant.                   |
++--------------------------------------------------------------------------------------+
+:::
+
+### History
+
+Key symptoms include:
+
+:::column-margin
+Headache is not a useful marker of ICANs and should prompt consideration of other investigations.
+:::
+
+* Expressive dysphasia or aphasia\
+Especially naming objects.
+* Dysgraphia
+* Tremor
+* Impaired attention
+* Apraxia
+* Lethargy
+
+
+### Examination
+
+
+### Investigations
+
+**Bedside**:
+ 
+* LP
+	* Evaluate for meningitis as an alternative diagnosis
+	* Protein may be a useful prognostic marker
+* EEG
+	* Should occur daily for monitoring of seizures or NCSE
+
+**Laboratory**:
+
+**Imaging**:
+
+* CT Brain
+	* Exclude infection
+	* Exclude haemorrhagic stroke
+* MRI Brain
+
+**Other**:
+
+### Diagnostic Approach and DDx
+
+: ICANS Grading System
+
++-----------+---------------+-------------------------------------+-------------------------------------------------------------+----------------------------------+-------------------------------------------+
+| **Grade** | **ICE score** | **Level of consciousness**          | **Seizure**                                                 | **Motor findings**               | **Raised ICP**                            |
++-----------+---------------+-------------------------------------+-------------------------------------------------------------+----------------------------------+-------------------------------------------+
+| **1**     | 7-9           | Awakens spontaneously               | \-                                                          | \-                               | \-                                        |
++-----------+---------------+-------------------------------------+-------------------------------------------------------------+----------------------------------+-------------------------------------------+
+| **2**     | 3-6           | Awakens to voice                    | \-                                                          | \-                               | \-                                        |
++-----------+---------------+-------------------------------------+-------------------------------------------------------------+----------------------------------+-------------------------------------------+
+| **3**     | 0-2           | Awakens *only* to tactile           | Any (focal or generalised) seizure that resolves rapidly    | \-                               | Focal/local oedema on neuroimaging        |
+|           |               | stimulus                            |                                                             |                                  |                                           |
+|           |               |                                     | EEG proven nonconvulsive seizure resolves with intervention |                                  |                                           |
++-----------+---------------+-------------------------------------+-------------------------------------------------------------+----------------------------------+-------------------------------------------+
+| **4**     | 0             | Any of:                             | Status epilepticus                                          | Deep focal motor weakness, e.g.: | Any of:                                   |
+|           |               |                                     |                                                             |                                  |                                           |
+|           |               | * Unrousable                        |                                                             | * Hemiparesis                    | * Diffuse cerebral oedema on neuroimaging |
+|           |               | * Rouse with vigorous stimulation   |                                                             | * Paraparesis                    | * Decorticate posturing                   |
+|           |               | * Rouse with repetitive stimulation |                                                             |                                  | * decerebrate posturing                   |
+|           |               |                                     |                                                             |                                  | * CN VI palsy                             |
+|           |               |                                     |                                                             |                                  | * Papilloedema                            |
+|           |               |                                     |                                                             |                                  | * Cushing's triad                         |
++-----------+---------------+-------------------------------------+-------------------------------------------------------------+----------------------------------+-------------------------------------------+
+
+:::column-margin
+ICANS grade is determined by the most severe event in any category, provided that it is not attributable to another cause.
+:::
+
+
+## Management
+
+:::priority
+* **Immunomodulators**\
+Dose and choice of agent depends on ICANs grade.
+* Avoid CNS depressants
+* Investigate differentials: CNS infection, sepsis, and stroke
+* Seizure prophylaxis
+:::
+
+**Resuscitation**:
+
+* A
+	* Airway protection as required
+* D
+	* Treat seizure
+
+**Specific therapy**:
+
+* Pharmacological
+	* Immunomodulators
+		* Grade 1:
+			* Dexamethasone 4-10mg IV BD-QID
+		* Grade 2:
+			* Dexamethasone 10mg IV QID, or high dose methylprednisolone
+			* Consider Anakinra 200mg IV BD
+		* Grade 3:
+			* Dexamethasone 10mg IV QID, or high dose methylprednisolone
+			* Anakinra 200-800mg IV BD
+		* Grade 4:
+			* Dexamethasone 10mg IV QID, or high dose methylprednisolone
+			* Anakinra 200-800mg IV BD
+			* Consider chemotherapeutics, including:
+				* Cyclophosphamide
+				* Etoposide
+				* Ruxolitinib
+* Procedural
+* Physical
+
+**Supportive care**:
+
+* D
+	* Anti-seizure prophylaxis\
+	Consider in grade 2, recommended in grade 3-4 disease.
+		* Levetiracetam 500-750mg BD.
+* H
+	* Platelet >30 ×10^9^
+	* Fibrinogen >1.5g/L
+
+**Disposition**:
+
+**Preventative**:
+
+
+### Marginal and Ineffective Therapies
+
+## Anaesthetic Considerations
+
+## Complications
+
+## Prognosis
+
+* D
+	* Cognitive dysfunction\
+	Persistent cognitive dysfunction is rare - symptoms typically resolve in all cases.
+	* Delayed onset neurotoxicity\
+	May occur up weeks-months after CAR T-cell treatment.
+
+## Key Studies
+
+
+---
+
+## References
+
+1. Messmer AS, Que YA, Schankin C, Banz Y, Bacher U, Novak U, et al. [CAR T-cell therapy and critical care](https://pubmed.ncbi.nlm.nih.gov/34613477/). Wien Klin Wochenschr. 2021 Dec 1;133(23):1318–25. 
