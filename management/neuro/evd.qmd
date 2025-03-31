@@ -1,9 +1,10 @@
 # External Ventricular Drain
 
-Catheter inserted via a burr hole into a lateral ventricle, in order to:
+An EVD is a catheter inserted via a burr hole into the right or left lateral ventricle, in order to:
 
 * Drain CSF
 * Measure ICP
+* Administer medication
 
 :::column-margin
 EVDs are usually inserted:
@@ -11,6 +12,7 @@ EVDs are usually inserted:
 * Anteriorly
 * Into the non-dominant hemisphere
 :::
+
 
 ## Indications
 
@@ -31,7 +33,7 @@ Connects the drain to the monitoring and drainage apparatus.
 * **3-way stopcock**\
 Allows line to be:
 	* **Transduced**\
-	Standard transducer (as used for any other invasive pressure monitoring).
+	A non-flushing pressure transducer should be used, so the line cannot be inadvertently flushed into the brain.
 	* **Drained**\
 	Note that the EVD **cannot simultaneously transduce** ICP **and drain** CSF. When draining, the ICP waveform should transduce the drainage height.
 	* **Sampled**\
@@ -46,6 +48,8 @@ A small chamber with volume markers. This chamber:
 	* Collects CSF\
 	Allows hourly volumes vented to be measured.
 	* Can be periodically emptied into a drainage bag
+* **Drainage bag**\
+Collects CSF that is vented from the drip chamber.
 
 :::column-margin
 1mmHg is \~1.3cmH~2~O; 1cmH~2~O is \~0.7mmHg.
@@ -53,39 +57,86 @@ A small chamber with volume markers. This chamber:
 
 ## Technique
 
-**General**:
+### Setup and Maintenance
 
-* EVDs can be:
-	* Continuously draining\
-	For high ICP or hydrocephalus.
-		* Good practice is to transduce every hour to confirm patency\
-		A blocked EVD *may* be flushed to restore patency, and should be done by the neurosurgeon.
-		* High-volume CSF drainage is >30mL/hr
+Position and set up:
+
+* The pressure scale should be set at 0 relative to the:
+	* EAM in a supine patient\
+	This is level with the Foramen of Munro.
+	* Bridge of nose in a lateral patient
+* The EVD should be **clamped prior to moving** to prevent CSF over-draining\
+This includes raising or lowering the bed, transport, physiotherapy, etc.
+* The EVD should be re-leveled after each position change
+
+
+Zeroing:
+
+:::column-margin
+:::priority
+Do not remove the bung on the transducer - the zero should happen without the system opening to the atmosphere.
+:::
+:::
+
+0. Check EVD is level with the tragus
+1. Turn the 3-way tap off to patient\
+This is the tap at the level of the transducer, such that the transducer is 'open to the drip chamber.'
+2. Drop level of the drip chamber to 0
+3. Zero pressure on monitor
+4. Return trip chamber to desired height
+5. Close 3-way tap to the transducer
+
+:::column-margin
+![Zero: Step 1](/resources/evdzero1.jpg)
+:::
+
+:::column-margin
+![Zero: Step 2](/resources/evdzero2.jpg)
+:::
+
+:::column-margin
+![Zero: Step 3](/resources/evdzero3.jpg)
+:::
+
+:::column-margin
+![Zero: Step 4](/resources/evdzero4.jpg)
+:::
+
+### Therapeutic Use
+
+The EVD will generally be set in one of two modes:
+
+:::column-margin
+Continuous drainage is used for hydrocephalus (and in SAH, to prevent hydrocephalus); intermittent venting is used in TBI.
+:::
+
+* **Continuous drainage**\
+	* EVD is left open at a set height\
+	CSF will passively drain when ICP > set height.
+		* EVD 'weaning' may be performed by raising the set height - absence of CSF drainage indicates that ICP is not rising above this level
+	* High-volume CSF drainage is >30mL/hr\
+	Nursing notification should occur if EVD drainage is >20mL/hr.
+	* The EVD is generally *not* transduced in these circumstances, although it is good practice is to transduce every hour to confirm patency if there has been no CSF drainage\
+	A pressure transducer may not need to be attached if the EVD is being used in this way.
+* **ICP monitoring/intermittent venting**\
 	* Continuously transduced\
 	Intermittently vented in case of ↑ ICP.
 
+Other uses:
 
-**Setting height**:
-
-* The pressure scale should be placed at 0 relative to the:
-	* EAM in a supine patient
-	* Bridge of nose in a lateral patient
-
-
-**Assessing patency**:
-
-* EVDs can become blocked with blood or other exudate
-* Briefly lowering the EVD will detect blockage as CSF will flow under gravity
+* **CSF sampling**\
+CSF may be sampled from an EVD, generally to evaluate for the presence of ventriculitis.
+* **Medication administration**\
+Occasionally, medications (e.g. thrombolytics) are administered through an EVD.
 
 
-**Medication administration**:
+### Troubleshooting
 
-* Occasionally, medications are administered through an EVD
-
-
-**Moving**:
-
-* The EVD should be clamped prior to moving to prevent CSF over-draining
+* **Blocked EVD**
+	* EVDs can become blocked with blood or other exudate
+	* Briefly lowering the EVD ('dropping to the floor') will detect blockage as CSF should flow under gravity when the EVD is lowered\
+	This should be done only for a few seconds to confirm CSF flow, over-draining should be avoided to prevent collapse of the ventricles and intracranial haemorrhage. 
+	* A blocked EVD *may* be flushed to restore patency, and should be done by the neurosurgeon.
 
 ## Complications
 

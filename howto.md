@@ -6,9 +6,7 @@ find 'resources' -type f -name '*.*' |\
     exiftool -all= -overwrite_original_in_place "${FILENAME}"
   done
 
-export QUARTO_DENO_EXTRA_OPTIONS=--v8-flags=--max-old-space-size=65536
-
-$env:QUARTO_DENO_EXTRA_OPTIONS="--v8-flags=--max-old-space-size=65536"
+export QUARTO_DENO_V8_OPTIONS="--max-old-space-size=65536"
 
 quarto preview
 
