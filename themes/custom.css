@@ -12,9 +12,9 @@
 }
 
 .sidebar-item {
-    margin-bottom: 0.2em;
+    margin-bottom: 0.1rem;
     line-height: var(--bs-body-line-height);;
-    margin-top: 0em;
+    margin-top: 0.1rem;
 }
 
 h2#toc-title{

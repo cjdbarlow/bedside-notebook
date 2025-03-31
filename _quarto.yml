@@ -761,6 +761,7 @@ book:
           - disease/infective/myelitis.qmd
         - part: "Cortical/Subcortical"
           chapters:
+          - disease/neuro/abi.qmd
           - disease/neuro/seizure.qmd
           - disease/neuro/epilepsy.qmd
           - disease/neuro/ncse.qmd

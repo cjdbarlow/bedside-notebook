@@ -411,7 +411,6 @@ All severely TBI should be managed at a specialist neurotrauma centre.
 
 
 
-
 ### Marginal and Ineffective Therapies
 
 * Therapeutic hypothermia\
@@ -442,11 +441,18 @@ Hartmann's and lactated Ringer's are hypotonic and should also be avoided.
 	Should be treated immediately with:
 		* Hyperventilation
 		* Osmotherapy
+	* Post-traumatic amnesia\
+	Transitory state between coma and return of full consciousness, that may last from minutes to many months.
+	* Acquired Brain Injury
 * G
 	* Feeding\
 	Basal feeding should be established by day 5.
 * H
 	* DVT/PE
+
+:::column-margin
+ABI covered in more detail under @sec-abi.
+:::
 
 
 ### Critical Neuroworsening
