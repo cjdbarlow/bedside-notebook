@@ -16,7 +16,7 @@ Ratio of the LVOT VTI to the AV VTI, and therefore an area-independent measureme
 | Technique              | Mild     | Moderate | Severe |
 | ---------------------- | -------- | -------- | ------ |
 | Peak velocity (m/s)    | 2.6-2.9  | 3-4      | \>4    |
-| Mean Pressure Gradient | <30      | 30-50    | \>50   |
+| Mean Pressure Gradient | <20      | 20-40    | \>40   |
 | Aortic Valve Area      | \>1.5    | 1.5-1.0  | <1.0   |
 | Dimensionless Index    | 0.5-0.75 | 0.25-0.5 | <0.25  |
 
