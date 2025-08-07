@@ -60,6 +60,12 @@ Purge fluid provides a pressure head inside the device to prevent blood entering
 	If concern for bleeding or HITT.
 
 :::column-margin
+Dextrose is used for the purge solution (over other forms of crystalloid) to ↑ viscosity of the purge solution. Bicarbonate is then used to ↓ pH, as blood proteins are less likely to coagulate in an alkaline solution.
+
+Heparin is added primarily to ↓ pH, rather than anticoagulate the motor. The greater risk is aspiration of thrombosis in the LV and blocking the motor, rather than thrombosis forming in the motor.
+:::
+
+:::column-margin
 With respect to measurements:
 
 * Aortic pressure is monitored by the optical sensor
@@ -122,10 +128,14 @@ Indicated by:
 
 **Weaning**:
 
-* ↓ Impella flow rate by 2 P-level increments\
-Avoid ↓ flow rate <P-2, until immediately prior to removal.
+* Wean off catecholamines as much as possible once mechanical support established
+* ↓ Impella flow rate by 1-2 P-level increments
+	* Step down P-level over at least 48 hours
+	* Avoid ↓ flow rate <P-2, until immediately prior to removal
 * Monitor trend in MAP and LVEDP
 * Goal is maintenance of total cardiac output and cardiac power, with stable MAP and LVEDP
+	* Aim cardiac output power >0.6 off inotropes
+* Prior to removal - withdraw the Impella into the proximal aorta and assess myocardial function (in absence of both effect and stenosis)
 
 
 **Anticoagulation**:
@@ -171,8 +181,10 @@ May occur when:
 * **Suction**
 	* Indicated by:
 		* Suction alarm
-		* Negative left ventricular diastolic pressure
+		* Negative left ventricular diastolic pressure\
+		Normal may be as low as -10mmHg; a pressure less than this is highly abnormal.
 		* Flow lower than expected
+		* Haemolysis
 		* Hypotension
 		* ↓ Motor current
 	* May occur when:
@@ -195,6 +207,8 @@ Always pathological, and indicates catheter obstruction:
 	* Outflow obstruction
 		* AV
 		* Aortic wall
+* **Thrombosis**
+	* ↑ Motor current variability
 
 
 ---

@@ -58,7 +58,7 @@ Relevant features of the neurological exam include:
 		* EEG may show status or general malignant pattern
 		* Specific for poor neurological outcome
 
-
+: Prognostic Value of the Neurological Exam
 
 +-------------+-----------------------------------------------------------+--------------------------------------------------------------------+-------------------------------+
 | Finding     | Pupillary Reflexes                                        | Corneal Reflexes                                                   | Motor Score                   |
@@ -77,9 +77,6 @@ Relevant features of the neurological exam include:
 |             |                                                           |                                                                    |                               |
 +-------------+-----------------------------------------------------------+--------------------------------------------------------------------+-------------------------------+
 
-: Prognostic Value of the Neurological Exam
-
-
 ## Investigations
 
 **Laboratory**:
@@ -94,6 +91,8 @@ Relevant features of the neurological exam include:
 
 :::column-margin
 Functional investigations (**neurological exam**, **SSEPs**, EEG) are generally superior to radiology at predicting outcome but more affected by confounding.
+\
+In general, radiological tests are more useful for diagnosis than prognostication.
 :::
 
 * CT Brain\
@@ -117,6 +116,7 @@ Functional investigations (**neurological exam**, **SSEPs**, EEG) are generally 
 		* Early: ↑ DWI intensity and diffusion restriction\
 			* Presence is highly specific for a poor outcome
 			* Absence of DWI lesions is reasonably specific for a good 6-month functional outcome
+			* Changes may pseudonormalise at 7 days
 		* Late: ↑ T2/FLAIR intensity
 
 **Other**:
