@@ -2,21 +2,35 @@
 
 Acute **decompensation of stable** compensated or uncompensated **chronic liver disease** leading to additional organ failure and ↑ short term mortality. ACLF is:
 
-* Classified by number of organ failures into:
-	* **Class 1**\
-	Single organ failure, further divided into:
-		* 1a: Renal failure
-		* 1b: Non-kidney organ failure
-	* **Class 2**\
-	Two organ failures.
-	* **Class 3**\
-	Three organ failures.
+* Reversible with treatment
+* Associated with higher short-term mortality compared to decompensation of cirrhosis
 * Characterised by:
 	* Ascites
 	* Encephalopathy
-	* Gastrointestinal haemorrhage
+	* Gastrointestinal haemorrhage\
+	Up to 20% 6-week mortality.
 	* Infection
+* Classified using the ACLF grade by number of extrahepatic organ failures into:
+	* **Class 1**\
+	One extrahepatic organ failure., further divided into:
+		* 1a: Renal failure
+		* 1b: Non-kidney organ failure
+	* **Class 2**\
+	Two extrahepatic organ failures.
+	* **Class 3**\
+	Three extrahepatic organ failures.
 
+:::column-margin
+: Mortality of Acute-on-Chronic Liver Failure by Class
+
+| Class | 28-day Mortality | 1-year Post-Transplant Mortality |
++-------+------------------+----------------------------------+
+| **1** | 14%              | 20%                              |
+| **2** | 40%              | 20%                              |
+| **3** | 52%              | 50%                              |
+| **4** | 79%              | -                                |
+
+:::
 
 ## Epidemiology and Risk Factors
 
@@ -119,8 +133,13 @@ Cerebral oedema secondary to hyperammonaemia is less common in ACLF due to estab
 ## Complications
 
 {{< include /includes/liver_coag.qmd >}}
+* I
+	* Infection\
+	Highly immunosuppressed state.
 
 ## Prognosis
+
+
 
 ## Key Studies
 

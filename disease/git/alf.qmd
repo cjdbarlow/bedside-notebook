@@ -200,6 +200,11 @@ Causes vary substantially with geography.
 	* Drug screen
 		* Paracetamol
 
+:::column-margin
+Albumin is relatively unhelpful in ALF. LFTs are useful for determining cause.
+\
+INR is more useful than bilirubin as it has a shorter half-life and so is more useful for tracking trends.
+:::
 
 **Imaging**:
 
@@ -338,7 +343,6 @@ Consider **securing airway** if:
 {{< include /includes/liver_coag.qmd >}}
 
 
-
 **Disposition**:
 
 * Liver transplant centre\
@@ -348,7 +352,6 @@ Referral if:
 
 
 ### Marginal and Ineffective Therapies
-
 
 
 ## Anaesthetic Considerations
@@ -445,31 +448,6 @@ The King's criteria are the most widely used scoring system to predict liver tra
 * Patients who survive the acute liver injury and who do not receive a transplant are spared the cumulative mortality risk and quality of life impairments that come with having a liver transplant
 * Patients without cerebral oedema or haemodynamic instability tend to survive with standard ICU care
 
-
-: Meld Score
-
-| MELD Score | Mortality |
-| :--------- | :-------- |
-| >40        | 71%       |
-| 30-39      | 53%       |
-| 20-29      | 20%       |
-| 10-19      | 6%        |
-| <9         | 2%        |
-
-An alternative to the King's criteria is the MELD score, which predicts 90 day survival using:
-
-:::column-margin
-The MELD score:
-
-* Is calculated by sum of logarithms\
-Use an app.
-* Initially developed to predict mortality for TIPS
-* Subsequently used to prognosticate and prioritise liver transplantation
-:::
-
-* Bilirubin
-* INR
-* Creatinine
 
 
 ## Key Studies

@@ -28,7 +28,56 @@ Degree of hepatic encephalopathy is strongly associated with the degree of hyper
 
 ## Pathophysiology
 
+Ammonia has complex effects on brain pathophysiology, with neurotoxicity driven by:
+
+* Converted to glutamate by astrocytes\
+Glutamate:
+	* Creates an osmotic gradient which increases intracellular fluid shifts
+	* Impairs amino acid transfer and neurotransmitter release
+	* Impairs Kreb's cycle, limiting metabolism
+* Direct neurotoxicity\
+Especially >150mmol/L.
+
+:::column-margin
+Raised intracranial pressure and cerebral oedema are characteristics of hepatic encephalopathy in acute liver failure rather than decompensated chronic liver failure.
+:::
+
 ### Aetiology
+
+Hyperammonaemia can be caused by:
+
+* ↑ Ammonia generation
+* Ingestion
+* GI bleeding
+* Infection with urea splitting organism
+* Valproate toxicity\
+Promotes glutamate uptake into mitochondria.
+* Glycine intoxication
+
+
+Decreased metabolism:
+
+* Acute liver failure
+* Chronic liver disease
+* Portosystemic shunting
+* Metabolic defects
+	* Urea cycle disorders
+	* Organic acidaemia
+	* Fatty acid oxidation disorders
+
+
+Contributory factors:
+
+* Volume depletion
+* Hypokalaemia\
+↑ Renal NH~4~^+^ production
+* Protein load
+* ↑ Catabolism
+	* Critical illness
+	* Corticosteroids
+	* Seizures
+	* Exercise
+	* Burns
 
 ## Clinical Features
 
@@ -59,8 +108,6 @@ The **Parson-Smith scale** grades hepatic encephalopathy into:
 
 ### Exam
 
-
-
 ### Investigations
 
 **Bedside**:
@@ -76,9 +123,11 @@ Primary respiratory alkalosis.
 	* Electrolytes
 	* LFTs
 	* Ammonia\
-	Useful in Type A encephalopathy, not useful in Type C due to:
-		* Fluctuating levels
-		* Poorly correlated with degree of clinical encephalopathy
+		* Good negative predictive value
+		* High false positive rate
+		* Typically useful in Type A encephalopathy, not useful in Type C due to:
+			* Fluctuating levels
+			* Poorly correlated with degree of clinical encephalopathy
 * Other
 	* Paracentesis
 
@@ -238,7 +287,7 @@ TIPS is covered under @sec-tips.
 **Preventative**:
 
 * Rifaximin 550mg PO BD\
-Significant (~60%) in hepatic encephalopathy in patients with chronic liver disease.
+Significant (~60%) ↓ in hepatic encephalopathy in patients with chronic liver disease.
 
 
 ### Marginal and Ineffective Therapies

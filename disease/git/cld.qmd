@@ -28,7 +28,7 @@ Key pathophysiological processes relate impairment of key liver functions:
 
 Common causes include:
 
-* Viral hepatitis\
+* Viral hepatitis
 	* Hepatitis B
 	* Hepatitis C
 * Autoimmune disease
@@ -71,7 +71,9 @@ Classified into:
 			* Splenomegaly\
 			Thrombocytopaenia due to sequestration.
 			* Oesophageal varices
+			* Caput medusae
 		* Delayed gastric emptying
+		* Spider naevi
 	* Haematological
 		* Anaemia\
 		Multiple potential causes:
@@ -108,6 +110,15 @@ Bloods:
 	Prognostic indicator, especially post-surgery in CLD.
 * UEC
 	* Baseline renal function important
+
+Imaging:
+
+* Ultrasound
+	* Shear wave elastography
+		* Focused ultrasound to create "shear waves" within the tissue
+		* The speed of the wave is measured and can be used to quantify the degree of cirrhosis
+		* ↑ Wave speed indicates ↑ liver stiffness
+* Magnetic Resonance Elastography
 
 ## Management
 
@@ -154,10 +165,11 @@ End-stage liver disease associated with high perioperative morbidity and mortali
 * F
 	* Hepatorenal syndrome
 * G
-	* Variceal bleeding\
-	May be precipitated by infection due to an ↑ in sinusoidal and portal venous pressure. Therefore, patients with **variceal bleeds should receive antibiotics**.
-	* Ascites
-	* Spontaneous bacterial peritonitis
+	* **Portal hypertension**
+		* **Variceal bleeding**\
+		May be precipitated by infection due to an ↑ in sinusoidal and portal venous pressure. Therefore, patients with **variceal bleeds should receive antibiotics**.
+		* **Ascites**
+			* Spontaneous bacterial peritonitis
 	* Hepatocellular carcinoma
 	* Decompensation
 * I
@@ -270,6 +282,34 @@ Patients are then risk stratified as follows:
 | A      | 5-6     | 100%               |
 | B      | 7-9     | 80%                |
 | C      | 10-15   | 45%                |
+
+### MELD Score {#sec-meld}
+
+The MELD score predicts 90 day survival using:
+
+:::column-margin
+The MELD score is:
+
+* Calculated by sum of logarithms\
+Use an app.
+* Historically used to predict mortality for TIPS
+* Subsequently used to prognosticate and prioritise liver transplantation
+* A better predictor of short-term mortality
+:::
+
+* Bilirubin
+* INR
+* Creatinine
+
+: Meld Score
+
+| MELD Score | Mortality |
+| :--------- | :-------- |
+| >40        | 71%       |
+| 30-39      | 53%       |
+| 20-29      | 20%       |
+| 10-19      | 6%        |
+| <9         | 2%        |
 
 
 ## Key Studies

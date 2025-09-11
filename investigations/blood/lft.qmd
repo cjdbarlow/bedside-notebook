@@ -28,6 +28,9 @@ Hepatically synthesised plasma protein, half-life of ~20 days.
 * **Total protein**\
 Sum of all plasma proteins (not all hepatically synthesised), including: albumin, immunoglobulins, and carrier proteins.
 
+:::column-margin
+As a good rule of thumb, AST will be higher than ALT in ischaemia, toxins, and alcohol, and alcohol will not have an AST >400.
+:::
 
 ## Interpretation
 
