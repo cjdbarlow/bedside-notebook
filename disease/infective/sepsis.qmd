@@ -36,6 +36,61 @@ Host response is highly heterogenous, and is affected by:
 	* Pathogen virulence
 	* Location of infection
 
+: Immunocompromised Host Infectious Organisms by Immune Deficiency Type
+
++---------------------------+---------------------------------------+--------------------------+----------------+------------+
+| Immune Deficiency         | Causes                                | Bacteria                 | Fungi          | Viruses    |
++===========================+=======================================+==========================+================+============+
+| **Neutrophils**           | * Acute leukaemia                     | * Gram-negative bacteria | * Candida      |            |
+|                           | * Myelodysplastic                     | * Gram-positive bacteria | * Aspergillus  |            |
+|                           |   syndromes                           | * Nocardia               | * Mucor        |            |
+|                           | * Chemotherapy-induced                |                          |                |            |
+|                           |   neutropenia                         |                          |                |            |
++---------------------------+---------------------------------------+--------------------------+----------------+------------+
+| **Monocytes/Macrophages** | * Acute/chronic myeloid leukaemia     | * Pseudomonas aeruginosa | * Histoplasma  | * HSV      |
+|                           | * Allogeneic HSCT                     | * Staphylococcus aureus  | * Candida      | * VZV      |
+|                           | * Haemophagocytic lymphohistiocytosis | * Salmonella             |                |            |
+|                           | * Steroids                            | * Listeria               |                |            |
+|                           | * Mycophenolate mofetil               | * Legionella             |                |            |
+|                           | * Tacrolimus                          | * Brucella               |                |            |
+|                           | * Basiliximab                         | * Mycobacteria           |                |            |
+|                           | * Belatacept                          |                          |                |            |
++---------------------------+---------------------------------------+--------------------------+----------------+------------+
+| **B lymphocytes**         | * Multiple myeloma                    | * Streptococcus          |                |            |
+|                           | * B cell lymphoma                     |   pneumoniae             |                |            |
+|                           | * Chronic lymphocytic leukaemia       | * Streptococcus pyogenes |                |            |
+|                           | * Allogeneic HSCT                     | * Hemophilus influenzae  |                |            |
+|                           | * Splenectomy                         | * Campylobacter          |                |            |
+|                           | * Steroids                            | * Salmonella             |                |            |
+|                           | * Chemotherapy                        | * Mycoplasma             |                |            |
+|                           | * CAR-T cells                         |                          |                |            |
+|                           | * Rituximab                           |                          |                |            |
++---------------------------+---------------------------------------+--------------------------+----------------+------------+
+| **Humoral**               | * Multiple myeloma                    | * Streptococcus          |                |            |
+|                           | * Chronic lymphocytic leukaemia       |   pneumoniae             |                |            |
+|                           | * Drug-inducedhypogammaglobulinaemia  | * Streptococcus pyogenes |                |            |
+|                           | * SOT                                 | * Hemophilus influenzae  |                |            |
+|                           | * Rituximab                           | * Mycoplasma             |                |            |
+|                           | * Ibrutinib                           |                          |                |            |
+|                           | * Daratumumab                         |                          |                |            |
+|                           | * Cyclophosphamide                    |                          |                |            |
++---------------------------+---------------------------------------+--------------------------+----------------+------------+
+| **T lymphocytes**         | * HIV                                 | * Mycobacteria           | * Pneumocystis | * HSV      |
+|                           | * T-cell leukaemia                    |                          | * Aspergillus  | * CMV      |
+|                           | * T-cell lymphoma                     |                          | * Cryptococcus | * EBV      |
+|                           | * Hodgkin disease                     |                          | * Toxoplasma   | * JC virus |
+|                           | * SOT                                 |                          |                |            |
+|                           | * Steroids                            |                          |                |            |
+|                           | * Fludarabine                         |                          |                |            |
+|                           | * Alemtuzumab                         |                          |                |            |
+|                           | * Sirolimus                           |                          |                |            |
+|                           | * Tacrolimus                          |                          |                |            |
+|                           | * Cyclosporine                        |                          |                |            |
+|                           | * Azathioprine                        |                          |                |            |
+|                           | * Methotrexate                        |                          |                |            |
+|                           | * Daratumumab                         |                          |                |            |
++---------------------------+---------------------------------------+--------------------------+----------------+------------+
+
 
 ## Pathophysiology
 
@@ -97,20 +152,7 @@ Any progression of localised infection may lead to sepsis; the most common in ad
 Lung causes are less common in children, with the difference made up with CNS infections and ↑ primary bacteraemia.
 :::
 
-Organisms most commonly associated with sepsis include:
-
-* Gram negative\
-60%.
-	* *Pseudomonas*\
-	20%.
-	* *E. coli*\
-	15%.
-* Gram positive
-	* *S. aureus*\
-	20%.
-* Fungi
-
-: Source of Infection
+: Source of Infection by Incidence and System
 
 +----------------------+-----------------------+-------------------------------------+----------------------------+
 | Organ System         | Common                | Uncommon                            | ICU-Associated             |
@@ -161,6 +203,61 @@ Organisms most commonly associated with sepsis include:
 | * Sources of potentially *occult* infection are *italicised*                                                    |
 +-----------------------------------------------------------------------------------------------------------------+
 
+
+: Sources of Severe Infection by Type
+
++-----------------------------------------+----------------------------------------+-------------------------+------------------------------+
+| Source                                  | Gram Positive Cocci                    | Gram Negative Bacilli   | Other                        |
++=========================================+========================================+=========================+==============================+
+| **CAP**/**HCAP**                        | * S. pneumoniae                        | * H. influenzae         | * Mycoplasma                 |
+|                                         |                                        | * P. aeruginosa         | * L. pneumophila             |
+|                                         |                                        | * B. pseudomallei       | * M. pneumoniae              |
+|                                         |                                        |                         | * Respiratory Viruses        |
++-----------------------------------------+----------------------------------------+-------------------------+------------------------------+
+| **HAP**/**VAP**                         | * **S. aureus**                        | * **P. aeruginosa**     | * **Aspergillus sp.**        |
+|                                         | * **A. baumannii**                     | * **Enterobacterales**  |                              |
++-----------------------------------------+----------------------------------------+-------------------------+------------------------------+
+| **Primary bloodstream**                 | * **Enterococcus spp.**                | * **Candida spp.**      | * **Anaerobes**              |
+|                                         |                                        |                         |                              |
++-----------------------------------------+----------------------------------------+-------------------------+------------------------------+
+| **Endocarditis**                        | * S. aureus                            | * HACEK organisms:      |                              |
+|                                         | * Streptococcus spp.                   |   * Haemophilus spp.    |                              |
+|                                         |                                        |   * Aggregatibacter     |                              |
+|                                         |                                        |   * Cardiobacterium     |                              |
+|                                         |                                        |   * Eikenella           |                              |
+|                                         |                                        |   * Kingella            |                              |
++-----------------------------------------+----------------------------------------+-------------------------+------------------------------+
+| **Meningitis** and                      | * S. pneumoniae                        |                         | * N. meningitidis            |
+| **Encephalitis**                        | * S. suis                              |                         | * Listeria                   |
+|                                         |                                        |                         | * M. tuberculosis            |
++-----------------------------------------+----------------------------------------+-------------------------+------------------------------+
+| **Healthcare-associated CNS infection** | * **A. baumannii**                     |                         | * **MRSA**                   |
+|                                         | * **Coagulase-negative Staphylococci** |                         | * **Staphylococci**          |
++-----------------------------------------+----------------------------------------+-------------------------+------------------------------+
+| **Skin** and **Soft Tissue**            | * Streptococcus A                      | * Enterobacterales      | * Anaerobes                  |
+|                                         | * S. aureus                            |                         |                              |
++-----------------------------------------+----------------------------------------+-------------------------+------------------------------+
+| **Intra-abdominal**                     |                                        | * E. coli               | * Anaerobes                  |
+|                                         |                                        | * **Enterobacterales**  | * Enteric Viruses            |
+|                                         |                                        | * **Enterococcus spp.** | * **Clostridioides**         |
+|                                         |                                        | * Shigella              | * **Candida spp.**           |
+|                                         |                                        | * Campylobacter         |                              |
+|                                         |                                        | * Salmonella            |                              |
++-----------------------------------------+----------------------------------------+-------------------------+------------------------------+
+| **Urinary Tract**                       |                                        | * E. Coli               | * **S. aureus**              |
+|                                         |                                        | * **Enterobacterales**  | * **Enterococcus**           |
+|                                         |                                        |                         | * **P. aeruginosa**          |
++-----------------------------------------+----------------------------------------+-------------------------+------------------------------+
+| **Surgical Site**                       | * **S. aureus**                        |                         | * According to surgical site |
++-----------------------------------------+----------------------------------------+-------------------------+------------------------------+
+| **Intravascular device**                | * **S. aureus**                        |                         | * **Enterococci**            |
+|                                         | * **Candida spp.**                     | * **P. aeruginosa**     |                              |
++-----------------------------------------+----------------------------------------+-------------------------+------------------------------+
+| **Multisystem**                         |                                        | * Leptospira sp.        | * N. meningitidis            |
+|                                         |                                        |                         | * M. tuberculosis            |
++-----------------------------------------+----------------------------------------+-------------------------+------------------------------+
+| NB: Pathogens in **bold** have increased risk of multi-drug resistance.                                                                   |
++-------------------------------------------------------------------------------------------------------------------------------------------+
 
 
 ## Clinical Features
@@ -716,4 +813,5 @@ High mortality:
 1. Maitland K, Kiguli S, Opoka RO, et al. [Mortality after Fluid Bolus in African Children with Severe Infection](http://www.nejm.org/doi/full/10.1056/NEJMoa1101549). New England Journal of Medicine. 2011;364(26):2483-2495. doi:10.1056/NEJMoa1101549
 1. [Goal-Directed Resuscitation for Patients with Early Septic Shock](http://www.nejm.org/doi/full/10.1056/NEJMoa1404380). New England Journal of Medicine. 2014;371(16):1496-1506. doi:10.1056/NEJMoa1404380
 1. Dünser MW, Dankl D, Petros S, Mer M. Clinical Examination Skills in the Adult Critically Ill Patient. Springer International Publishing; 2018.
+1. Timsit JF, Ling L, De Montmollin E, Bracht H, Conway-Morris A, De Bus L, et al. [Antibiotic therapy for severe bacterial infections](https://link.springer.com/10.1007/s00134-025-08063-0). Intensive Care Med [Internet]. 2025 Sept 1.
 

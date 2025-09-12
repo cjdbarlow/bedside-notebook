@@ -23,6 +23,15 @@ Inappropriate or delayed antibiotic use ↑ morbidity and mortality.
 
 Principles:
 
+* Antibiotics should be initiated for:
+	* Shock likely related to infection
+	* High likelihood of bacterial infection
+	* Patient condition does not allow watchful-waiting
+* Antibiotics should not be started if:
+	* Shock not related to infection
+	* Viral infection
+	* Source control alone would be sufficient
+	* Patient condition allows watchful-waiting
 * Administer antibiotics **without delay**
 * Choice of empirical antimicrobial should be based upon:
 	* Site of infection
@@ -102,6 +111,8 @@ Under-dosing leads to resistance.
 |                     |                    | * Radiotherapy                                                                 |
 |                     |                    | * Malignancy                                                                   |
 |                     |                    | * Malnutrition                                                                 |
+|                     |                    | * Autoimmune diseases                                                          |
+|                     |                    | * HIV/AIDS                                                                     |
 |                     +--------------------+--------------------------------------------------------------------------------+
 |                     | Genetic            | * G6PD\                                                                        |
 |                     |                    | Nitrofurantoin, fluoroquinolones, cotrimoxazole, sulfamethoxazole, primaquine. |
@@ -382,3 +393,4 @@ Administration is unchanged due to:
 
 1. Bersten, A. D., & Handy, J. M. (2018). Oh’s Intensive Care Manual. Elsevier Gezondheidszorg.
 1. Cheng MP, Stenstrom R, Paquette K, et al. [Blood Culture Results Before and After Antimicrobial Administration in Patients With Severe Manifestations of Sepsis](https://www.acpjournals.org/doi/10.7326/M19-1696). Ann Intern Med. 2019;171(8):547-554. doi:10.7326/M19-1696
+1. Timsit JF, Ling L, De Montmollin E, Bracht H, Conway-Morris A, De Bus L, et al. [Antibiotic therapy for severe bacterial infections](https://link.springer.com/10.1007/s00134-025-08063-0). Intensive Care Med [Internet]. 2025 Sept 1.
