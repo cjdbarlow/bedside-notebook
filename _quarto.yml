@@ -14,6 +14,7 @@ format:
   html:
     # General settings
     page-navigation: false
+    favicon: themes/favicon.png
     search: true
     section-divs: true
     email-obfuscation: javascript
@@ -63,6 +64,7 @@ format:
 book:
     # General settings
     title: "The Bedside Notebook"
+    favicon: themes/favicon.png
     # Table of Contents
     chapters:
     - index.qmd
