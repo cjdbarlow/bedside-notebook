@@ -521,6 +521,14 @@ These management aims are in addition to the above.
 		Much better outcomes than for MMCAS.
 	* EVD\
 	Indicated for secondary hydrocephalus.
+* Physical
+	* Speech pathology
+	* Physiotherapy
+		* Early mobility and rehabilitation (within 24-72 hours)
+			* ↑ Morbidity if commenced within first 24 hours
+				* Further ↑ if NIHSS >15 or haemorrhagic transformation
+			* Majority of improvement occurs within the first 3 months
+
 
 
 ### Reperfusion
@@ -619,7 +627,7 @@ My approach is tailored to the individual patient, with a strong preference towa
 	Correct electrolytes.
 	* Blood pressure control
 		* Prior to revascularisation: SBP <185 and MAP >10-20% of baseline
-		* After revascularisat ion: SBP <160
+		* After revascularisation: SBP <160
 * D
 	* CVA
 	* ICP management
@@ -636,7 +644,7 @@ My approach is tailored to the individual patient, with a strong preference towa
 30% 1-month mortality.
 * A
 	* Aspiration\
-	Dysphagia common both with brainstem and hemispheric stroke.
+	Dysphagia common (50-70%) both with brainstem and hemispheric stroke.
 * B
 	* Pneumonia\
 	Including VAP, if intubated.
