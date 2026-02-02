@@ -1,0 +1,185 @@
+# Pancreatic Surgery
+
+:::gas
+**Airway**: ETT\
+**Access**: 14G and CVC\
+**Pain**: Substantial, use ITM or thoracic epidural\
+**Position**: Supine\
+**Time**: 4-8 hours\
+**Blood loss**: 0.5-1.5L\
+**Special**: NG tube, neuraxial analgesia\
+**The Bottom Line**:
+
+* Major surgery typically occurring in an older cohort with malignant cachexia
+* Typically late presentation limiting opportunity for prehabilitation
+* Potential for endocrinologically active tumours requiring close intraoperative BSL monitoring
+* Significant analgesia requirements
+:::
+
+
+Pancreatic surgery can include resection of the:
+
+
+:::column-margin
+The pancreas has complex anatomy necessitating complex resection:
+
+* Two embryological buds (head and tail) with dual blood supply
+	* Head and uncinate process share perfusion with duodenum (via SMA)
+	* Body and tail supplied by splenic artery (via coeliac trunk)
+* May be incompletely fused, leading to separate ducts into the duodenum
+* Extensive anatomical variability with variable arterial dominance
+:::
+
+* Pancreatic head\
+Two broad approaches:
+	* The "Classic Whipple"
+		* Resection of head of pancreas, gallbladder, duodenum, distal stomach, lower common hepatic duct
+		* Three anastomoses:
+			* Pancreaticojejunostomy
+			* Hepaticojejunostomy
+			* Gastrojejunostomy
+	* Pylorus-preserving\
+	Improve nutrition, ↓ gastric dumping, and ↓ jejunal ulceration:
+		* Pylorus-preserving pancreaticoduodenectomy\
+			* Pylorus and distal stomach preserved
+			* Gastrojejunostomy becomes duodenojejunostomy
+		* Pylorus-resecting pancreaticoduodenectomy\
+		Less distal stomach resection than a a Whipple.
+* Distal pancreas
+	* Significantly reduces operative complexity\
+	No anastomoses required, as duodenum, stomach, and biliary tree are unaffected.
+	* Splenic preservation *may* be possible depending on the anatomy
+* Total pancreatectomy
+	* Requires anastomoses of pancreatic head resection, and *en bloc* splenectomy
+	* Complex post-operative diabetes
+
+:::column-margin
+![Classic Whipple Anastomoses](/resources/whipples.png)
+:::
+
+:::column-margin
+![Pylorus-Preserving Anastomoses](/resources/ppp.png)
+:::
+
+:::column-margin
+![Total Pancreatectomy](/resources/totalpancreatectomy.png)
+:::
+
+:::column-margin
+Pancreatic malignancy can be split into:
+
+* \>95% ductal adenocarcinoma
+* <5% Endocrine tumours\
+Islet cell and pluripotent epithelial tumours. May be:
+	* Non-functioning
+	* Functioning\
+	Hormone producing (~10-30%). Include:
+		* Insulinomas\
+			* ↓ BSL
+			* Palpitations
+			* Tremor
+		* Glucagonoma
+			* ↑ BSL
+			* Weight loss
+			* Polyuria
+		* Gastrinoma
+			* Zollinger-Ellison syndrome
+		* Somatostatinoma
+			* Diabetes
+			* Cholelithiasis
+			* Diarrhoea
+		* VIPoma
+			* Diarrhoea
+			* Dehydration
+			* Hypokalaemia
+:::
+
+
+## Surgical Stages
+
+* Exposure
+	* Typically performed by laparotomy
+	* Laparoscopic and robotic approaches described
+* Short gastric vessels ligated\
+Preserved if spleen-preserving.
+* Splenic mobilisation
+* Splenic artery and splenic vein (at location of pancreatic division) ligated
+* Pancreas divided and drained
+
+## Preoperative
+
+**Assessment:**
+
+* Non-specific impact of malignancy
+	* Cardiorespiratory reserve
+		* Consider CPET
+	* Ascites and intravascular volume depletion
+	* Anaemia correction
+* Specific effect of malignancy
+	* Gastric outlet obstruction
+	* Obstructive jaundice
+	* Functional tumours
+
+**Consultation:**
+
+**Optimisation:**
+
+**Premedication:**
+
+* Control functional tumours
+	* Gastrinoma
+		* High-dose PPI
+	* Insulinoma\
+		* Consider diazoxide\
+		Cease 24 hours prior to surgery if taking.
+		* Close monitoring of BSL
+	* Glucagonoma
+		* Consider ↑ dose enoxaparin due to risk of VTE
+
+**Explain/Consent:**
+
+
+## Intraoperative
+
+**Preparation:**
+
+* Calf compressors
+
+**Induction:**
+
+**Maintenance:**
+
+* ↓ Intraoperative fluid administration is suspected to improve pancreatic healing
+
+**Echocardiography:**
+
+* Use of oesophageal doppler and TOE is described to improve fluid management
+
+**Emergence:**
+
+## Postoperative
+
+**Disposition:**
+
+**Referrals/Review:**
+
+**Analgesia:**
+
+**Fluids:**
+
+**Thromboprophylaxis:**
+
+**Specific:**
+
+* Pancreatic fistula formation\
+Drain output with amylase >3x ULN of serum amylase concentration.
+* Diabetes
+* Delayed gastric emptying
+
+---
+
+## References
+
+1. Jarvis MS, Laing RW, James A. [Anaesthesia for pancreatic resection surgery: part 1](https://www.bjaed.org/article/S2058-5349(24)00112-4/fulltext). BJA Education. 2025 Feb 1;25(2):57–64. 
+1. Jarvis MS, Laing RW, James A. [Anaesthesia for pancreatic resection surgery: part 2](https://linkinghub.elsevier.com/retrieve/pii/S2058534925000356). BJA Education. 2025 July;25(7):257–64. 
+

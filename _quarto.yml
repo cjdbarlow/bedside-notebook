@@ -479,8 +479,8 @@ book:
           - anaesthesia/ent/bleeding_tonsil.qmd
         - part: "General"
           chapters:
-          - anaesthesia/gensurg/scopes.qmd
           - anaesthesia/gensurg/thyroid.qmd
+          - anaesthesia/gensurg/pancreatic.qmd
           - anaesthesia/gensurg/adrenalectomy.qmd
           - anaesthesia/gensurg/liver_tx.qmd
         - part: "Neurosurgery"
@@ -558,6 +558,7 @@ book:
         - part: "Off-the-Floor"
           chapters:
           - anaesthesia/otf/remote_anaes.qmd
+          - anaesthesia/otf/scopes.qmd
           - anaesthesia/otf/ect.qmd
           - anaesthesia/otf/dus.qmd
     - part: <hr>
