@@ -63,7 +63,9 @@ Adequate patient preparation and **expectation management** is key:
 
 ## Induction and Maintenance
 
->"It is easier to manage a high block than an inadequate one"
+:::tick
+"It is easier to manage a high block than an inadequate one."
+:::
 
 Covers:
 
@@ -75,9 +77,13 @@ Covers:
 
 *Detailed approach to performance of spinal anesthesia is covered [here](/anaesthesia/regional/spinal.md).*
 
+:::column-margin
+My approach: Using a 3mL syringe, draw up 0.3mL (15μg) of fentanyl, 0.2mL of intrathecal morphine (100μg), and then 2.5mL of heavy, to a total volume of 3mL. This will lead to a small ↑ in fentanyl than stated (due to the needle dead space); which is fine, and the method is quick.
+::: 
+
 * Perform spinal\
 [Many different options for dosing](#dosing). A reliable recipe (with a total volume of 3ml) is:
-	* 2.2ml of 0.5% heavy bupivacaine
+	* 2.2-2.5ml of 0.5% heavy bupivacaine
 	* 15μg of fentanyl
 	* 100μg intrathecal morphine
 * Lie supine with pillow
@@ -86,7 +92,7 @@ Covers:
 	↑ the degree of tilt if block is rising/rises too cranially.
 * Place wedge
 * Commence phenylephrine infusion\
-30ml/hr of 100μg/ml solution.
+20-30ml/hr of 100μg/ml solution.
 * Test the block
 	* No block\
 		* Consider repeat spinal\

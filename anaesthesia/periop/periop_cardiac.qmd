@@ -90,7 +90,8 @@ Correlates with poor outcome, even if well managed.
 
 ### Investigations:
 
-NT-proBNP/BNP:\
+NT-proBNP/BNP:
+
 * Independently associated with death and nonfatal MI at 30 days after non-cardiac surgery\
 * BNP >92mg/L or NT-proBNP >300ng/L\
 22% vs 4.9%.
@@ -109,8 +110,13 @@ ECG:
 
 
 Echocardiography:
-> * LVEF <30% is an independent contributor to perioperative morbidity
-> * Routine assessment is *not recommended*
+
+:::column-margin
+:::info
+* LVEF <30% is an independent contributor to perioperative morbidity
+* Routine assessment is *not recommended*
+:::
+:::
 
 * *Reasonable* in dyspnoea of unknown origin
 * *Reasonable* in known cardiac failure and:

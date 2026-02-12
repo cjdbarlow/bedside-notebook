@@ -16,7 +16,7 @@ This covers perioperative management of medications, with the exception of:
 Inhaled bronchodilators:
 
 * Continue\
-↓ risk of post-operative respiratory complications.
+↓ Risk of post-operative respiratory complications.
 
 
 Theophylline:
@@ -40,7 +40,8 @@ ACE-Is/A2RBs:
 	* Favour withholding if intraoperative hypotension likely or problematic\
 	If withheld, restart as soon as possible.
 
-Beta-blockade:\
+Beta-blockade:
+
 * Continue if already taking
 * **Consider starting**:
 	* If indicated and therapy can be initiated 2-4 weeks prior to surgery
@@ -117,6 +118,7 @@ May be continued but:
 ## Endocrine Medications
 
 OCP: 
+
 * Consider ceasing **4 weeks** prior if high VTE risk.
 
 
@@ -130,11 +132,11 @@ Glucocorticoids:
 
 * Chronic glucocorticoid therapy may suppress the HPA axis and prevent an appropriate adrenal response to physiological stress\
 In absence of glucocorticoids, endogenous cortisol release:
-	* ↑ even with minor surgery or illness\
-	↑ may be 5 to 50 times normal, depending on degree of insult.
+	* ↑ Even with minor surgery or illness\
+	↑ May be 5 to 50 times normal, depending on degree of insult.
 	* May persist for days\
 	Normalise within 24 hours for small insults, and 5 days for larger insults.
-* Addition of "stress dose" steroids perioperatively is common practice, although lacks a strong evidence base
+* Addition of "stress dose steroids" perioperatively is common practice, although lacks a strong evidence base
 * In general, patients:
 	* **Do not** have HPA suppression with:
 		* Prednisolone doses <5mg/day
