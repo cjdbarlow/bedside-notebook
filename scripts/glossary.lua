@@ -1,94 +1,122 @@
--- Add relevant paths to actively debug with mobdebug with ZBS on OSX on a non-M1 mac
---package.path = package.path .. ";/Applications/ZeroBraneStudio.app/Contents/ZeroBraneStudio/lualibs/?.lua;/Applications/ZeroBraneStudio.app/Contents/ZeroBraneStudio/lualibs/?/?.lua"
---package.cpath = ";/Applications/ZeroBraneStudio.app/Contents/ZeroBraneStudio/bin/clibs53/?/core.dylib"
---require('mobdebug').start()
-
--- Debug in shell
---cwd = debug.getinfo(1).short_src;
--- print(cwd)
-
 -- Find the quarto project dir and identify the glossary file
-dir = os.getenv("QUARTO_PROJECT_DIR")
-glossary_file = dir .. "/_glossary.yml"
+local dir = os.getenv("QUARTO_PROJECT_DIR")
+local glossary_file = dir .. "/_glossary.yml"
 
--- Add the quarto project dir/scripts to the path so we can load the yaml parser (accommodates windows and unix /'s, not sure if this is necessary)
+-- Add the quarto project dir/scripts to the path so we can load the yaml parser
 package.path = package.path .. ";" .. dir .. "\\scripts\\?.lua;" .. dir .. "/scripts/?.lua;"
 local yaml = require "yaml"
 
-
 -- Load glossary file
 local function loadGlossary(filename)
-  file = io.open(filename, "rb")
+  local file = io.open(filename, "rb")
   if not file then
     error("Cannot find the glossary file")
-  else
-    local glossary = file:read("*all")
-    return glossary
   end
+  local content = file:read("*all")
+  file:close()
+  return content
 end
 
 local glossary = yaml.eval(loadGlossary(glossary_file))
 
-
--- functions to find separators and then split out glossary elements
-local Set = function(list)
-    local set = {}
-    for i,v in ipairs(list) do
-        set[v] = true
-    end
-    return set
+-- Pre-compute key length bounds for fast rejection
+local min_key_len = math.huge
+local max_key_len = 0
+for k, _ in pairs(glossary) do
+  local len = #k
+  if len < min_key_len then min_key_len = len end
+  if len > max_key_len then max_key_len = len end
 end
 
-local findSeparator = function(text)
-    local separator = Set{",", ";", "/", "."}
-    for i = 1, #text do
-        local s = string.sub(text,i,i)
-        if separator[s] then
-            return s
-        end
+-- Pre-compute separator set once
+local separators = {[","]=true, [";"]=true, ["/"]=true, ["."]=true}
+
+-- Quick check: does string contain a separator?
+local function hasSeparator(text)
+  for i = 1, #text do
+    if separators[string.sub(text, i, i)] then
+      return true
     end
+  end
+  return false
 end
 
-local separatedList = function(text)
-    local found
-    local t = {}
-    local separator = findSeparator(text)
-    if not separator then return end
-    for abb in string.gmatch(text, "%P+") do
-        if glossary[abb] then
-            found = true
-            t[#t+1] = pandoc.Span(abb, {title = abb, class = "glossary"})
-            t[#t+1] = pandoc.Str(separator)
-        end
+local function findSeparator(text)
+  for i = 1, #text do
+    local s = string.sub(text, i, i)
+    if separators[s] then
+      return s
     end
-    if found then
-        -- remove last separator if there are more then one elements in the list
-        -- because otherwise the seperator is part of the element and needs to stay
-        if #t > 2 then t[#t] = nil end
-        return t
-    end
+  end
 end
 
+-- Track which terms have been seen in the current section
+local seen_terms = {}
 
--- Function that substitutes glossary term for term with mouseover link
-function glos_sub (el)
-  return pandoc.walk_block(el, {
-    Str = function(el)
-        if glossary[el.text] then
-            return pandoc.Span(el.text, {title = glossary[el.text], class = "glossary"})
-        else
-            return separatedList(el.text)
-        end
+local function separatedList(text)
+  local separator = findSeparator(text)
+  if not separator then return end
+  local found
+  local t = {}
+  for abb in string.gmatch(text, "%P+") do
+    if glossary[abb] then
+      found = true
+      seen_terms[abb] = true
+      t[#t+1] = pandoc.Span(abb, {title = glossary[abb], class = "glossary"})
+      t[#t+1] = pandoc.Str(separator)
     end
-  })
+  end
+  if found then
+    if #t > 2 then t[#t] = nil end
+    return t
+  end
 end
 
+-- Process a single Str element
+local function processStr(el)
+  local text = el.text
+  local len = #text
 
--- Run on desired elements (in order to exclude headings and toc elements)
+  -- Fast rejection: skip strings that can't match any glossary key
+  if len < min_key_len then
+    return
+  end
+
+  -- Direct glossary match
+  if len <= max_key_len and glossary[text] then
+    if seen_terms[text] then return end
+    seen_terms[text] = true
+    return pandoc.Span(text, {title = glossary[text], class = "glossary"})
+  end
+
+  -- Only try separated list if string contains a separator
+  if hasSeparator(text) then
+    return separatedList(text)
+  end
+end
+
+-- Str walker for use with walk_block
+local str_filter = {
+  Str = processStr
+}
+
+-- Process a block element (Para, BulletList, Table)
+local function processBlock(el)
+  return pandoc.walk_block(el, str_filter)
+end
+
+-- Main filter: process entire document to track sections
 if FORMAT:match 'html' then
-    return {
-      {BulletList = glos_sub},
-      {Para = glos_sub},
-      {Table = glos_sub}
+  return {
+    {
+      Header = function(_)
+        -- Reset seen terms at each header regardless of level (first-match-per-section)
+        -- To restrict to e.g. H1/H2 only, add: if _.level <= 2 then ... end
+        seen_terms = {}
+      end,
+      BulletList = processBlock,
+      Para = processBlock,
+      Table = processBlock
     }
+  }
 end
