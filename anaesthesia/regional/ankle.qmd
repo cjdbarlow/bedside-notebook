@@ -1,5 +1,18 @@
 # Ankle Block
 
+Block of the 3 superficial and 2 deep nerves of the ankle:
+
+* Saphenous nerve
+	* Between EHL and medial malleolus\
+	Usually posterior to vein.
+* Deep peroneal nerve
+	* Lateral to dorsalis pedis tendon
+* Superficial peroneal nerve
+	* Infiltrate skin across dorsum of foot
+* Posterior tibial nerve
+	* Inject posterior to posterior tibial artery
+* Sural nerve
+	* Infiltrate between lateral malleolus and tendon
 
 ## Indications
 
@@ -17,18 +30,20 @@
 
 ## Technique
 
-Requires blocking of 5 nerves:
+The ankle can be blocked either at the midtarsal level (more reliable, but only covers the forefoot) or at the perimalleolar level (covers the entire foot).
 
-* Saphenous nerve
-	* Between EHL and medial malleolus\
-	Usually posterior to vein.
-* Deep peroneal nerve
-	* Lateral to dorsalis pedis tendon
-* Superficial peroneal nerve
-	* Infiltrate skin across dorsum of foot
-* Posterior tibial nerve
-	* Inject posterior to posterior tibial artery
-* Sural nerve
-	* Infiltrate between lateral malleolus and tendon
+For the perimalleolar approach:
+
+:::column-margin
+The ring covers the three superficial nerves, blocking the saphenous nerve superior to the medial malleolus, the superficial peroneal nerve along the anterior intermalleolar line, and sural nerve posterior to the lateral malleolus.
+:::
+
+* Create a subcutaneous ring of 10-15mL of local anaesthetic:
+	* From anterior to the achilles tendon at the level of the medial malleolus
+	* Around the front of the ankle
+	* To halfway between the lateral malleolus and the achilles tendon
+* Insert needle just lateral to the Extensor Hallucis Longus tendon, angled perpendicular to the tibia, advance until bone, withdraw slightly and inject 5mL of local anaesthetic to cover the deep peroneal nerve
+* Insert needle just posterior to the posterior tibial artery (or midway between the achilles tendon and the medial malleolus), angled 45° towards the tibia, advance until bone, withdraw and inject 2-5mL of local anaesthetic
+
 
 ## Complications
