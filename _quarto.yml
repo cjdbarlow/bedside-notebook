@@ -469,6 +469,7 @@ book:
         - part: "Cardiology"
           chapters:
           - anaesthesia/cardiac/ep.qmd
+          - anaesthesia/cardiac/pfo.qmd
           - anaesthesia/cardiac/tavi.qmd
           - anaesthesia/cardiac/dcc.qmd
         - part: "ENT"
@@ -1171,11 +1172,11 @@ book:
               # BMV
               # OPA
               # LMA
-          # - part: "Advanced"
-          #   chapters:
+          - part: "Advanced"
+            chapters:
+            - procedures/airway/foi.qmd
               # Laryngoscopy
               # VL
-              # Fibreoptic
               # Bronchoscopy
           - part: "Front-of-Neck"
             chapters:

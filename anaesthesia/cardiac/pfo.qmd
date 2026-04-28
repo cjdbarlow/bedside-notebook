@@ -1,0 +1,152 @@
+# Closure of Patent Foramen Ovale and Atrial Septal Defects
+
+:::gas
+**Airway**: ETT\
+**Access**: 18G\
+**Pain**: Minimal\
+**Position**: Supine\
+**Time**:\
+**Blood loss**:\
+**Special**:\
+
+* TOE required
+* Low volume, high respiratory rate
+:::
+
+Percutaneous closure of atrial septal defects can be performed for:
+
+* Patent foramen ovale
+* Secundum ASD
+
+:::column-margin
+Primum ASD are not amenable to percutaneous closure due to the lack of safe landing zone for an occlusion device against the AV margin.
+:::
+
+## Surgical Stages
+
+* Groin access
+* Transeptal puncture\
+Guidewire passed through the fossa ovalis into the LA.
+	* Needle "tenting" (if passing through septal tissue) is assessed under echocardiography
+		* First in the superior-inferior (bicaval) position
+		* Second in the aortic short axis position (for anterior-posterior position)
+		* The four chamber can be used to determine height above the MV annulus
+* Defect sized
+	* Sizing balloon passed over guidewire into defect and inflated
+	* Septum indents the balloon, appearing as a 'waist' on fluoroscopy and echocardiography
+	* Measurement of the waist in orthogonal planes sizes the closure device
+* LA disc deployed and positioned
+* RA disc deployed and positioned
+* Occlusion assessed
+* Deployment mechanism removed
+
+:::column-margin
+Optimal "tenting" position depends on the procedure:
+
++---------------------------+---------------------------------------+----------------------------------------------+
+|         Procedure         | Superior–inferior axis (bicaval view) | Anterior–posterior axis (AV short-axis view) |
++---------------------------+---------------------------------------+----------------------------------------------+
+| PFO closure               | Superior                              | Anterior                                     |
++---------------------------+---------------------------------------+----------------------------------------------+
+| LAA occlusion             | Inferior                              | Posterior                                    |
++---------------------------+---------------------------------------+----------------------------------------------+
+| Ablation procedures       | Middle                                | Middle                                       |
++---------------------------+---------------------------------------+----------------------------------------------+
+| Paravalvular leak closure | Mid to superior                       | Mid to posterior                             |
++---------------------------+---------------------------------------+----------------------------------------------+
+| MV valvotomy              | Mid to superior                       | Mid to posterior                             |
++---------------------------+---------------------------------------+----------------------------------------------+
+| MV repair                 | Mid to superior\                      | Mid to posterior                             |
+|                           | Ideally 4-5cm above grasping zone.    |                                              |
++---------------------------+---------------------------------------+----------------------------------------------+
+:::
+
+## Preoperative
+
+**Assessment:**
+
+* Cryptogenic stroke
+* Right heart volume overload
+	* Right heart dysfunction
+	* Pulmonary hypertension
+	* Clinical right heart failure
+* Preoperative echocardiography
+	* Presence of atrial septal aneurysm
+	* Chiari network
+	* Atrial thrombi\
+	Contraindication until cleared.
+
+**Consultation:**
+
+
+**Optimisation:**
+
+**Premedication:**
+
+**Explain/Consent:**
+
+
+## Intraoperative
+
+**Preparation:**
+
+**Induction:**
+
+**Maintenance:**
+
+**Echocardiography:**
+
+:::column-margin
+* 2D imaging typically provides higher temporal and spatial resolution of the thin and mobile septum
+* 3D imaging may be helpful for defining the shape of the defect and relationship to surrounding structures, and for confirming the device has captured the margins
+:::
+
+:::column-margin
+![Transeptal Puncture](/resources/transeptal_puncture.jpg)
+:::
+
+* Exclude atrial thrombi
+* Conduct critical measurements\
+Defect should be **<35mm** diameter, with margins ideally **>5mm**.
+	* AV Short Axis\
+	For anterior-posterior position.
+		* Posterior margin
+		* Anterior margin\
+		At aortic valve. Commonly <5mm.
+	* Bicaval\
+	For superior-inferior position.
+		* Inferior margin\
+		At IVC.
+		* Superior margin\
+		At SVC.
+	* MO 4-chamber\
+	For position in relation to the MV annulus.
+* Closure device sizing
+* LA position assessment\
+2D and 3D.
+* RA position assessment
+* Closure device position
+	* Small amount of residual flow is common, and may persistent until endothelialised
+	* Assess stability
+	* Assess interference with:
+		* SVC
+		* Aorta
+		* PV
+		* AV
+	* Rule out pericardial collection
+
+**Emergence:**
+
+## Postoperative
+
+**Disposition:**
+
+**Referrals/Review:**
+
+**Analgesia:**
+
+**Fluids:**
+
+**Thromboprophylaxis:**
+
+**Specific:**

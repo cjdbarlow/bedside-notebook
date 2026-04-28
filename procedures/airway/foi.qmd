@@ -1,0 +1,267 @@
+# Fibreoptic Intubation
+
+
+Technique to secure a **a** (relatively) **non-emergent** definitive airway in a patient who has **expected difficult** laryngoscopy. May be:
+
+* Nasal
+	* Better tolerated\
+	Avoids gag reflex; though this can be overcome with good topicalisation.
+	* Risk of bleeding\
+	Relatively **contraindicated** in the acute setting or if presence of airway compromise.
+* Oral
+	* Require better topicalisation
+	* Essentially requires an adjunct to be effective\
+	Ovassapian or Berman.
+
+
+## Indications
+
+* Difficult intubation
+	* Known
+	* Suspected
+	* Rescue
+* Difficult ventilation
+	* Facemask
+	* LMA
+* Cervical spine instability
+
+
+## Contraindications
+
+* Absolute
+	* Lack of skill, assistance, or equipment
+	* Near-total upper airway obstruction
+	* Patient refusal\
+	For AFOI.
+	* Uncooperative patient\
+	For AFOI.
+* Relative contraindications
+	* Inability to tolerate apnoea
+	* Contaminated airway\
+	Blood or soiling may:
+		* Limit efficacy of topicalisation
+		* Reduce visualisation of normal structures
+		* Cover the camera lens
+
+
+## Equipment
+
+Key equipment:
+
+* Bronchoscope\
+Sized appropriately. An 'adult' bronchoscope will fit inside a 6.0 ETT
+* ETT
+	* Sizing
+		* Big enough to:
+			* Allow adequate ventilation
+			* Fit the scope
+		* Small enough to:
+			* Fit through the nose (if nasal)
+			* Minimise the gap between tube and scope
+	* PVC tubes\
+		* Appropriate for ICU/long-term intubation
+		* Not appropriate for nasal intubation
+	* Reinforced
+		* Easier to negotiate
+		* Not recommended for long-term use
+		* May not have a Murphy eye
+	* iLMA ETT
+		* Soft tip
+		* Snug tip fits scope well
+		* Flexible allows it to negotiate corners
+		* Length may be an issue
+	* Parker Flex ETT
+		* Flexes and curves past protruding airway structures, smoothing passage
+		* Not as good as iLMA for railroading
+	* Nasal RAE
+		* Long enough even if using small tubes
+		* Pre-formed curve makes it harder to manipulate during railroading
+* Oral intubation aids
+	* Ovassapian\
+	Keeps scope in midline.
+		* Single size
+		* ↑ failure rate compared to Berman
+	* Berman\
+	Keeps scope in midline and flange allows adjustment of view.
+		* Multiple sizes
+
+
+:::column-margin
+Generally, use a Parker Flex-Tip or Fast-track ETT. If planning nasal intubation, use a 6.0 for females and a 6.5 for males.
+:::
+
+## Technique
+
+:::tick
+Supplemental oxygen should always be provided.\
+\
+Sedation is **not a substitute for topicalisation**, but sedation is **not required** if good topicalisation is performed. (Still nice though).
+:::
+
+
+### Preparation
+
+* **Position**ing\
+Two options
+	* Patient supine with operator in normal intubating position
+	* Patient sitting upright and facing the operator
+* **Drugs and Equipment**
+	* Glycopyrrolate
+	* Lignocaine
+		* Have additional syringes to topicalise cords under vision
+			* 2× 10mL syringes containing 2mL 2% lignocaine and 8mL air
+* **Oxygenate**\
+	* High flow nasal prongs\
+	If oral FOI.
+	* Nasal cannula\
+	Through opposite nostril if nasal FOI.
+	* Through suction port of bronchoscope\
+	1-2L/min assists oxygenation and clears blood and secretions from view.
+	* Through a paediatric ETT in opposite nostril\
+	Allows gas monitoring.
+
+:::column-margin
+Silicone or lignocaine spray are excellent lubricants for the bronchoscope and ETT.
+:::
+
+### Sedation
+
+* Aim for **conscious sedation**. Consider:
+	* Midazolam and a small dose of fentanyl\
+	Familiar and reversible.
+	* Remifentanil TCI (Minto) Ce 1-3ng/mL
+	* Ketamine\
+	Minimises respiratory depression, but oral secretions may be problematic.
+* Risk of oversedation is high
+	* Second anaesthetist for sedation is desirable
+	* Use sedation cautiously and minimalistically
+	* Propofol is not recommended
+	* Avoid in the critically ill
+
+
+### Topicalisation
+
+:::info
+*Many* different topicalisation recipes exist; many are equally good. All require good explanation. **Set expectations**.
+:::
+
+* **Antisialagogue** (Glycopyrrolate 200-400μg)\
+	* Aids visualisation and improves local anaesthetic efficacy
+	* Aim to give >5 minutes before topicalisation
+* **For nasal intubation**:
+	* Vasoconstriction\
+	5× cophenylcaine sprays to nose
+	* Topicalise:
+		* Using EZ atomiser:
+			* O~2~ at 10L/min
+			* Give 1/3^rd^ of lignocaine dose to the nostril to be intubated
+		* Using serial dilation of nostril:
+			* Use a selection of NPAs well lubricated with 2% viscous lignocaine gel
+			* Dilate every 3-5 minutes in 0.5 size increments up to intended tube size
+	* Topicalise airway as below
+* **For oral intubation**:
+	* Using MAD:
+		* Spray with 10% lignocaine via MAD over 5 minutes\
+		Up to **9mg/kg**. Spray:
+			* Oropharynx
+			* Tonsillar pillars
+			* Base of tongue
+		* Have 2% lignocaine available for top-up spray-as-you-go
+	* Using EZ atomiser:
+		* O~2~ at 10L/min
+		* Spray tonsillar pillars, posterior tongue, posterior pharynx
+		* Turn nozzle down, and spray epiglottis and cords
+	* Using high-flow nasal oxygen:
+		* Inject 10-15mL of 2% lignocaine via a 27G or 30G needle into the distal portion of the oxygen tubing, synchronised with respiration
+
+:::column-margin
+2% lignocaine is as effective as higher concentrations of lignocaine, provided the dose is correct.
+:::
+
+:::column-margin
+: Dose (mg) and volume (mL) of 2% lignocaine for administration via EZ Atomiser or High Flow Oxygen
+
+| LBW (kg) | Maximum total dose | Volume for atomiser | Volume available for top up |
+|----------|--------------------|---------------------|-----------------------------|
+| 40       | 230                | 10                  | 1.5                         |
+| 45       | 275                | 10                  | 3.75                        |
+| 50       | 320                | 12                  | 4                           |
+| 55       | 365                | 13                  | 5.25                        |
+| 60       | 410                | 14                  | 6.5                         |
+| 65       | 455                | 15                  | 7.75                        |
+| 70       | 500                | 15                  | 10                          |
+| 75       | 545                | 15                  | 12.25                       |
+| 80       | 590                | 15                  | 14.75                       |
+| 85       | 635                | 15                  | 16.75                       |
+| 90       | 680                | 15                  | 19                          |
+| 95       | 725                | 15                  | 21.25                       |
+| 100      | 770                | 15                  | 23.5                        |
+:::
+
+:::column-margin
+![Injection site for lignocaine into HFNO](/resources/foi_hfno.jpg)
+:::
+
+
+
+### Nasal Intubation
+
+* Pass scope through nose
+* Identify:
+	* Inferior turbinate
+	* Middle turbinate
+	* Nasal septum
+* Patient may swallow at this point\
+This will close the nasopharynx; sniffing will re-open.
+* Pass infero-medially to the inferior turbinate
+
+:::column-margin
+If difficult, consider using an NPA to traverse nares:
+
+* Cut NPA along one side so it can be split open
+* Insert NPA
+* Pass bronchoscope through NPA
+* Remove NPA over bronchoscope
+:::
+
+
+### Oral Intubation
+
+:::column-margin
+:::tick
+In the asleep patient, jaw thrust and pulling the tongue forward (have assistant use gauze-wrapped forceps) significantly increases space in the back of the oropharynx.
+:::
+:::
+
+* Protect the scope
+	* Bite block
+	* Berman Airway
+	* Place ETT through teeth
+* Identify the uvula and continue into the oropharynx
+* (Remember to spray-as-you-go with 2% lignocaine from here)
+* Identify the larynx\
+Slight anterior flexion smooths passage through.
+* Identify the carina\
+Posterior flexion is required to negotiate the secondary curve of the trachea.
+* Advance tube over bronchoscope
+* Confirm position with two-point check\
+Capnography and visualisation.
+* Induce anaesthesia
+
+
+### Emergency Fibreoptic
+
+If time-critical but laryngoscopy not feasible:
+
+* Cophenylcaine
+* Lubricated nasal tube into nasopharynx
+* Fibreoptic through nasal tube and drop into cords
+
+
+---
+
+## References
+
+1. Ahmad I, El‐Boghdadly K, Bhagrath R, et al. Difficult Airway Society guidelines for awake tracheal intubation (ATI) in adults. Anaesthesia. n/a(n/a). doi:10.1111/anae.14904
+2. Zhong G, Downey RG. Airway topicalisation via direct injection of local anaesthetic into the lumen of high flow oxygenation devices. Anaesth Intensive Care. 2020 Sep;48(5):409–10. doi:10.1177/0310057X20946049
+3. St Vincents FOI training manual
