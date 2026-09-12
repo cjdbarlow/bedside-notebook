@@ -1,5 +1,7 @@
 project:
   type: book
+  resources:
+    - resources/**
 
 # Allow subparts in the yaml
 validate-yaml: false
